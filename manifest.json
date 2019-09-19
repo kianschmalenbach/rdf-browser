@@ -5,8 +5,8 @@
     "version": "0.0.1",
     "background": {
         "scripts": [
-            "intercept.js",
-            "render-browser.js"
+            "src/intercept.js",
+            "src/render-browser.js"
         ]
     },
     "permissions": [

@@ -4,7 +4,7 @@
   "description": "RDF browser extension",
   "license": "GPL-3.0-or-later",
   "scripts": {
-    "browserify": "browserify -s renderer -o render-browser.js render.js"
+    "browserify": "browserify -s renderer -o src/render-browser.js src/render.js"
   },
   "dependencies": {
     "urdf": "vcharpenay/uRDF.js",
