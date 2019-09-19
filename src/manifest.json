@@ -1,0 +1,17 @@
+{
+    "manifest_version": 2,
+    "name": "RDF Browser",
+    "description": "Renders RDF documents as statement tables and makes links clickable",
+    "version": "0.0.1",
+    "background": {
+        "scripts": [
+            "intercept.js",
+            "render-browser.js"
+        ]
+    },
+    "permissions": [
+        "webRequest",
+        "webRequestBlocking",
+        "<all_urls>"
+    ]
+}
