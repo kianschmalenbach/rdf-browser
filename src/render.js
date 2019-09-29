@@ -53,8 +53,8 @@ function parseData(data, format) {
                 reject(error);
             })
             .on("end", () => {
-                console.log(quads);
-                console.log(prefixes);
+                //console.log(quads);
+                //console.log(prefixes);
                 resolve([quads, prefixes]);
             });
         if(format === "application/rdf+xml") {
@@ -68,8 +68,58 @@ function processRdf(rdf) {
     return new Promise(resolve => {
         const quads = rdf[0];
         const prefixes = rdf[1];
-        resolve("This document type is not supported yet."); //TODO implement
+        const result = {
+            prefixes: [],
+            triples: []
+        };
+        quads.forEach(quad => {
+            const triple = [quad.subject, quad.predicate, quad.object];
+            let output = "";
+            triple.forEach(resource => {
+                let value = resource.value;
+                const resourceType = Object.getPrototypeOf(resource).termType;
+                if(resourceType) {
+                    switch(resourceType) {
+                        case "BlankNode":
+                            value = "_:" + value;
+                            break;
+                        case "NamedNode":
+                            const link = "<a href='" + value + "'>";
+                            const prefix = hasPrefix(value);
+                            if(prefix) {
+                                output.prefixes.push(prefix);
+                                value.replace(prefix.uri, prefix.name + ":");
+                            }
+                            else {
+                                value = "&lt;" + value + "&gt;";
+                            }
+                            value = link + value + "</a>";
+                            break;
+                        case "Literal":
+                            value = "\"" + value + "\"";
+                            if(resource.datatype) {
+                                if(resource.language) {
+                                    value += "@" + resource.language;
+                                } else {
+                                    value += "^^&lt;" + resource.datatype.value + "&gt;";
+                                }
+                            }
+                    }
+                }
+                output += value + " ";
+            });
+            output += ".<br>";
+            //console.log(output);
+            result.triples.push(output);
+        });
+        resolve(result);
     });
+}
+
+function hasPrefix(uri, prefixes) {
+    //TODO implement
+    //returns false or { uri: "http://...", name: "name" }
+    return false;
 }
 
 function createDocument(html, rdf, source) {
@@ -78,7 +128,11 @@ function createDocument(html, rdf, source) {
         const title = document.getElementById("title");
         const body = document.getElementById("body");
         title.innerText = source;
-        body.innerHTML = "<p>" + rdf + "</p>"; //TODO implement properly
+        let bodyContent = "";
+        rdf.triples.forEach(triple => {
+            bodyContent += triple;
+        });
+        body.innerHTML = bodyContent;
         resolve(new XMLSerializer().serializeToString(document));
     });
 }
