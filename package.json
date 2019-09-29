@@ -7,7 +7,7 @@
     "browserify": "browserify -s renderer -o src/render-browser.js src/render.js"
   },
   "dependencies": {
-    "urdf": "vcharpenay/uRDF.js",
-    "sttl": "vcharpenay/STTL.js"
+    "@rdfjs/formats-common": "latest",
+    "rdfxml-streaming-parser": "latest"
   }
 }

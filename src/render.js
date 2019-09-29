@@ -1,67 +1,86 @@
-const sttl = require('sttl');
-const urdf = require('urdf');
+const formats = require("@rdfjs/formats-common");
+const RdfXmlParser = require("rdfxml-streaming-parser").RdfXmlParser;
+const Readable = require("stream").Readable;
+const templatePath = "src/template.html";
 
-const tpl = `
-prefix st: <http://ns.inria.fr/sparql-template/>
-prefix : <https://vcharpenay.link/#>
-
-template :main {
-    "<!DOCTYPE html>"
-    "<html>"
-        "<head></head>"
-        "<body>"
-            "<table>"
-                st:call-template(:table)
-            "</table>"
-        "</body>"
-    "</html>"
-} where {}
-
-template :table {
-    "<tr>"
-        "<td>" st:call-template(:term, ?s) "</td>"
-        "<td>" st:call-template(:term, ?p) "</td>"
-        "<td>" st:call-template(:term, ?o) "</td>"
-    "</tr>"
-} where {
-    ?s ?p ?o
+async function render(data, format, source) {
+    const template = await getTemplate();
+    const rawRdf = await parseData(data, format);
+    const processedRdf = await processRdf(rawRdf);
+    return createDocument(template, processedRdf, source);
 }
 
-template :term(?t) {
-    if(isIRI(?t), st:call-template(:iri, ?t),
-    if(isBlank(?t), st:call-template(:bnode, ?t),
-    st:call-template(:literal, ?t)))
-} where {}
+function getTemplate() {
+    return new Promise(resolve => {
+        fetch(templatePath)
+            .then(file => {
+                return file.text();
+            })
+            .then(text => {
+                resolve(text);
+            })
+    });
+}
 
-template :iri(?iri) {
-    format {
-        "<a href=\\"%s\\">%s</a>"
-        ?iri ?iri
-    }
-} where {}
+function parseData(data, format) {
+    return new Promise((resolve, reject) => {
+        let parser;
+        if(format === "application/rdf+xml") {
+            parser = new RdfXmlParser();
+        }
+        else {
+            const readable = new Readable({
+                read: () => {
+                    readable.push(data);
+                    readable.push(null);
+                }
+            });
+            parser = formats.parsers.import(format, readable);
+        }
+        if(!parser) {
+            reject("Unsupported format");
+        }
+        const quads = [];
+        const prefixes = [];
+        parser
+            .on("data", quad => {
+                quads.push(quad);
+            })
+            .on("prefix", (prefix, ns) => {
+                prefixes.push([prefix, ns]);
+            })
+            .on("error", error => {
+                reject(error);
+            })
+            .on("end", () => {
+                console.log(quads);
+                console.log(prefixes);
+                resolve([quads, prefixes]);
+            });
+        if(format === "application/rdf+xml") {
+            parser.write(data);
+            parser.end();
+        }
+    });
+}
 
-template :bnode(?n) {
-    format {
-        "_:%s"
-        ?n
-    }
-} where {}
+function processRdf(rdf) {
+    return new Promise(resolve => {
+        const quads = rdf[0];
+        const prefixes = rdf[1];
+        resolve("This document type is not supported yet."); //TODO implement
+    });
+}
 
-template :literal(?lit) {
-    format {
-        "%s"
-        ?lit
-    }
-} where {}
-`;
-
-sttl.register(tpl);
-sttl.connect(q => urdf.query(q).then(b => ({ results: { bindings: b } })));
-
-function render(data, format) {
-    return urdf.clear()
-        .then(() => urdf.load(data, { format: format }))
-        .then(() => sttl.callTemplate('https://vcharpenay.link/#main'));
+function createDocument(html, rdf, source) {
+    return new Promise(resolve =>  {
+        const document = new DOMParser().parseFromString(html, "text/html");
+        const title = document.getElementById("title");
+        const body = document.getElementById("body");
+        title.innerText = source;
+        body.innerHTML = "<p>" + rdf + "</p>"; //TODO implement properly
+        resolve(new XMLSerializer().serializeToString(document));
+    });
 }
 
 module.exports.render = render;

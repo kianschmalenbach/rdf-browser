@@ -1,6 +1,4 @@
 (function(f){if(typeof exports==="object"&&typeof module!=="undefined"){module.exports=f()}else if(typeof define==="function"&&define.amd){define([],f)}else{var g;if(typeof window!=="undefined"){g=window}else if(typeof global!=="undefined"){g=global}else if(typeof self!=="undefined"){g=self}else{g=this}g.renderer = f()}})(function(){var define,module,exports;return (function(){function r(e,n,t){function o(i,f){if(!n[i]){if(!e[i]){var c="function"==typeof require&&require;if(!f&&c)return c(i,!0);if(u)return u(i,!0);var a=new Error("Cannot find module '"+i+"'");throw a.code="MODULE_NOT_FOUND",a}var p=n[i]={exports:{}};e[i][0].call(p.exports,function(r){var n=e[i][1][r];return o(n||r)},p,p.exports,r,e,n,t)}return n[i].exports}for(var u="function"==typeof require&&require,i=0;i<t.length;i++)o(t[i]);return o}return r})()({1:[function(require,module,exports){
-
-},{}],2:[function(require,module,exports){
 'use strict'
 
 exports.byteLength = byteLength
@@ -154,9 +152,9 @@ function fromByteArray (uint8) {
   return parts.join('')
 }
 
+},{}],2:[function(require,module,exports){
+
 },{}],3:[function(require,module,exports){
-arguments[4][1][0].apply(exports,arguments)
-},{"dup":1}],4:[function(require,module,exports){
 (function (Buffer){
 /*!
  * The buffer module from node.js, for the browser.
@@ -1959,7 +1957,7 @@ var hexSliceLookupTable = (function () {
 })()
 
 }).call(this,require("buffer").Buffer)
-},{"base64-js":2,"buffer":4,"ieee754":7}],5:[function(require,module,exports){
+},{"base64-js":1,"buffer":3,"ieee754":6}],4:[function(require,module,exports){
 (function (Buffer){
 // Copyright Joyent, Inc. and other Node contributors.
 //
@@ -2070,7 +2068,7 @@ function objectToString(o) {
 }
 
 }).call(this,{"isBuffer":require("../../is-buffer/index.js")})
-},{"../../is-buffer/index.js":9}],6:[function(require,module,exports){
+},{"../../is-buffer/index.js":8}],5:[function(require,module,exports){
 // Copyright Joyent, Inc. and other Node contributors.
 //
 // Permission is hereby granted, free of charge, to any person obtaining a
@@ -2595,7 +2593,7 @@ function functionBindPolyfill(context) {
   };
 }
 
-},{}],7:[function(require,module,exports){
+},{}],6:[function(require,module,exports){
 exports.read = function (buffer, offset, isLE, mLen, nBytes) {
   var e, m
   var eLen = (nBytes * 8) - mLen - 1
@@ -2681,7 +2679,7 @@ exports.write = function (buffer, value, offset, isLE, mLen, nBytes) {
   buffer[offset + i - d] |= s * 128
 }
 
-},{}],8:[function(require,module,exports){
+},{}],7:[function(require,module,exports){
 if (typeof Object.create === 'function') {
   // implementation from standard node.js 'util' module
   module.exports = function inherits(ctor, superCtor) {
@@ -2710,7 +2708,7 @@ if (typeof Object.create === 'function') {
   }
 }
 
-},{}],9:[function(require,module,exports){
+},{}],8:[function(require,module,exports){
 /*!
  * Determine if an object is a Buffer
  *
@@ -2733,320 +2731,14 @@ function isSlowBuffer (obj) {
   return typeof obj.readFloatLE === 'function' && typeof obj.slice === 'function' && isBuffer(obj.slice(0, 0))
 }
 
-},{}],10:[function(require,module,exports){
+},{}],9:[function(require,module,exports){
 var toString = {}.toString;
 
 module.exports = Array.isArray || function (arr) {
   return toString.call(arr) == '[object Array]';
 };
 
-},{}],11:[function(require,module,exports){
-(function (process){
-// .dirname, .basename, and .extname methods are extracted from Node.js v8.11.1,
-// backported and transplited with Babel, with backwards-compat fixes
-
-// Copyright Joyent, Inc. and other Node contributors.
-//
-// Permission is hereby granted, free of charge, to any person obtaining a
-// copy of this software and associated documentation files (the
-// "Software"), to deal in the Software without restriction, including
-// without limitation the rights to use, copy, modify, merge, publish,
-// distribute, sublicense, and/or sell copies of the Software, and to permit
-// persons to whom the Software is furnished to do so, subject to the
-// following conditions:
-//
-// The above copyright notice and this permission notice shall be included
-// in all copies or substantial portions of the Software.
-//
-// THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
-// OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
-// MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN
-// NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM,
-// DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR
-// OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE
-// USE OR OTHER DEALINGS IN THE SOFTWARE.
-
-// resolves . and .. elements in a path array with directory names there
-// must be no slashes, empty elements, or device names (c:\) in the array
-// (so also no leading and trailing slashes - it does not distinguish
-// relative and absolute paths)
-function normalizeArray(parts, allowAboveRoot) {
-  // if the path tries to go above the root, `up` ends up > 0
-  var up = 0;
-  for (var i = parts.length - 1; i >= 0; i--) {
-    var last = parts[i];
-    if (last === '.') {
-      parts.splice(i, 1);
-    } else if (last === '..') {
-      parts.splice(i, 1);
-      up++;
-    } else if (up) {
-      parts.splice(i, 1);
-      up--;
-    }
-  }
-
-  // if the path is allowed to go above the root, restore leading ..s
-  if (allowAboveRoot) {
-    for (; up--; up) {
-      parts.unshift('..');
-    }
-  }
-
-  return parts;
-}
-
-// path.resolve([from ...], to)
-// posix version
-exports.resolve = function() {
-  var resolvedPath = '',
-      resolvedAbsolute = false;
-
-  for (var i = arguments.length - 1; i >= -1 && !resolvedAbsolute; i--) {
-    var path = (i >= 0) ? arguments[i] : process.cwd();
-
-    // Skip empty and invalid entries
-    if (typeof path !== 'string') {
-      throw new TypeError('Arguments to path.resolve must be strings');
-    } else if (!path) {
-      continue;
-    }
-
-    resolvedPath = path + '/' + resolvedPath;
-    resolvedAbsolute = path.charAt(0) === '/';
-  }
-
-  // At this point the path should be resolved to a full absolute path, but
-  // handle relative paths to be safe (might happen when process.cwd() fails)
-
-  // Normalize the path
-  resolvedPath = normalizeArray(filter(resolvedPath.split('/'), function(p) {
-    return !!p;
-  }), !resolvedAbsolute).join('/');
-
-  return ((resolvedAbsolute ? '/' : '') + resolvedPath) || '.';
-};
-
-// path.normalize(path)
-// posix version
-exports.normalize = function(path) {
-  var isAbsolute = exports.isAbsolute(path),
-      trailingSlash = substr(path, -1) === '/';
-
-  // Normalize the path
-  path = normalizeArray(filter(path.split('/'), function(p) {
-    return !!p;
-  }), !isAbsolute).join('/');
-
-  if (!path && !isAbsolute) {
-    path = '.';
-  }
-  if (path && trailingSlash) {
-    path += '/';
-  }
-
-  return (isAbsolute ? '/' : '') + path;
-};
-
-// posix version
-exports.isAbsolute = function(path) {
-  return path.charAt(0) === '/';
-};
-
-// posix version
-exports.join = function() {
-  var paths = Array.prototype.slice.call(arguments, 0);
-  return exports.normalize(filter(paths, function(p, index) {
-    if (typeof p !== 'string') {
-      throw new TypeError('Arguments to path.join must be strings');
-    }
-    return p;
-  }).join('/'));
-};
-
-
-// path.relative(from, to)
-// posix version
-exports.relative = function(from, to) {
-  from = exports.resolve(from).substr(1);
-  to = exports.resolve(to).substr(1);
-
-  function trim(arr) {
-    var start = 0;
-    for (; start < arr.length; start++) {
-      if (arr[start] !== '') break;
-    }
-
-    var end = arr.length - 1;
-    for (; end >= 0; end--) {
-      if (arr[end] !== '') break;
-    }
-
-    if (start > end) return [];
-    return arr.slice(start, end - start + 1);
-  }
-
-  var fromParts = trim(from.split('/'));
-  var toParts = trim(to.split('/'));
-
-  var length = Math.min(fromParts.length, toParts.length);
-  var samePartsLength = length;
-  for (var i = 0; i < length; i++) {
-    if (fromParts[i] !== toParts[i]) {
-      samePartsLength = i;
-      break;
-    }
-  }
-
-  var outputParts = [];
-  for (var i = samePartsLength; i < fromParts.length; i++) {
-    outputParts.push('..');
-  }
-
-  outputParts = outputParts.concat(toParts.slice(samePartsLength));
-
-  return outputParts.join('/');
-};
-
-exports.sep = '/';
-exports.delimiter = ':';
-
-exports.dirname = function (path) {
-  if (typeof path !== 'string') path = path + '';
-  if (path.length === 0) return '.';
-  var code = path.charCodeAt(0);
-  var hasRoot = code === 47 /*/*/;
-  var end = -1;
-  var matchedSlash = true;
-  for (var i = path.length - 1; i >= 1; --i) {
-    code = path.charCodeAt(i);
-    if (code === 47 /*/*/) {
-        if (!matchedSlash) {
-          end = i;
-          break;
-        }
-      } else {
-      // We saw the first non-path separator
-      matchedSlash = false;
-    }
-  }
-
-  if (end === -1) return hasRoot ? '/' : '.';
-  if (hasRoot && end === 1) {
-    // return '//';
-    // Backwards-compat fix:
-    return '/';
-  }
-  return path.slice(0, end);
-};
-
-function basename(path) {
-  if (typeof path !== 'string') path = path + '';
-
-  var start = 0;
-  var end = -1;
-  var matchedSlash = true;
-  var i;
-
-  for (i = path.length - 1; i >= 0; --i) {
-    if (path.charCodeAt(i) === 47 /*/*/) {
-        // If we reached a path separator that was not part of a set of path
-        // separators at the end of the string, stop now
-        if (!matchedSlash) {
-          start = i + 1;
-          break;
-        }
-      } else if (end === -1) {
-      // We saw the first non-path separator, mark this as the end of our
-      // path component
-      matchedSlash = false;
-      end = i + 1;
-    }
-  }
-
-  if (end === -1) return '';
-  return path.slice(start, end);
-}
-
-// Uses a mixed approach for backwards-compatibility, as ext behavior changed
-// in new Node.js versions, so only basename() above is backported here
-exports.basename = function (path, ext) {
-  var f = basename(path);
-  if (ext && f.substr(-1 * ext.length) === ext) {
-    f = f.substr(0, f.length - ext.length);
-  }
-  return f;
-};
-
-exports.extname = function (path) {
-  if (typeof path !== 'string') path = path + '';
-  var startDot = -1;
-  var startPart = 0;
-  var end = -1;
-  var matchedSlash = true;
-  // Track the state of characters (if any) we see before our first dot and
-  // after any path separator we find
-  var preDotState = 0;
-  for (var i = path.length - 1; i >= 0; --i) {
-    var code = path.charCodeAt(i);
-    if (code === 47 /*/*/) {
-        // If we reached a path separator that was not part of a set of path
-        // separators at the end of the string, stop now
-        if (!matchedSlash) {
-          startPart = i + 1;
-          break;
-        }
-        continue;
-      }
-    if (end === -1) {
-      // We saw the first non-path separator, mark this as the end of our
-      // extension
-      matchedSlash = false;
-      end = i + 1;
-    }
-    if (code === 46 /*.*/) {
-        // If this is our first dot, mark it as the start of our extension
-        if (startDot === -1)
-          startDot = i;
-        else if (preDotState !== 1)
-          preDotState = 1;
-    } else if (startDot !== -1) {
-      // We saw a non-dot and non-path separator before our dot, so we should
-      // have a good chance at having a non-empty extension
-      preDotState = -1;
-    }
-  }
-
-  if (startDot === -1 || end === -1 ||
-      // We saw a non-dot character immediately before the dot
-      preDotState === 0 ||
-      // The (right-most) trimmed path component is exactly '..'
-      preDotState === 1 && startDot === end - 1 && startDot === startPart + 1) {
-    return '';
-  }
-  return path.slice(startDot, end);
-};
-
-function filter (xs, f) {
-    if (xs.filter) return xs.filter(f);
-    var res = [];
-    for (var i = 0; i < xs.length; i++) {
-        if (f(xs[i], i, xs)) res.push(xs[i]);
-    }
-    return res;
-}
-
-// String.prototype.substr - negative index don't work in IE8
-var substr = 'ab'.substr(-1) === 'b'
-    ? function (str, start, len) { return str.substr(start, len) }
-    : function (str, start, len) {
-        if (start < 0) start = str.length + start;
-        return str.substr(start, len);
-    }
-;
-
-}).call(this,require('_process'))
-},{"_process":13}],12:[function(require,module,exports){
+},{}],10:[function(require,module,exports){
 (function (process){
 'use strict';
 
@@ -3095,7 +2787,7 @@ function nextTick(fn, arg1, arg2, arg3) {
 
 
 }).call(this,require('_process'))
-},{"_process":13}],13:[function(require,module,exports){
+},{"_process":11}],11:[function(require,module,exports){
 // shim for using process in browser
 var process = module.exports = {};
 
@@ -3281,10 +2973,10 @@ process.chdir = function (dir) {
 };
 process.umask = function() { return 0; };
 
-},{}],14:[function(require,module,exports){
+},{}],12:[function(require,module,exports){
 module.exports = require('./lib/_stream_duplex.js');
 
-},{"./lib/_stream_duplex.js":15}],15:[function(require,module,exports){
+},{"./lib/_stream_duplex.js":13}],13:[function(require,module,exports){
 // Copyright Joyent, Inc. and other Node contributors.
 //
 // Permission is hereby granted, free of charge, to any person obtaining a
@@ -3416,7 +3108,7 @@ Duplex.prototype._destroy = function (err, cb) {
 
   pna.nextTick(cb, err);
 };
-},{"./_stream_readable":17,"./_stream_writable":19,"core-util-is":5,"inherits":8,"process-nextick-args":12}],16:[function(require,module,exports){
+},{"./_stream_readable":15,"./_stream_writable":17,"core-util-is":4,"inherits":7,"process-nextick-args":10}],14:[function(require,module,exports){
 // Copyright Joyent, Inc. and other Node contributors.
 //
 // Permission is hereby granted, free of charge, to any person obtaining a
@@ -3464,7 +3156,7 @@ function PassThrough(options) {
 PassThrough.prototype._transform = function (chunk, encoding, cb) {
   cb(null, chunk);
 };
-},{"./_stream_transform":18,"core-util-is":5,"inherits":8}],17:[function(require,module,exports){
+},{"./_stream_transform":16,"core-util-is":4,"inherits":7}],15:[function(require,module,exports){
 (function (process,global){
 // Copyright Joyent, Inc. and other Node contributors.
 //
@@ -4486,7 +4178,7 @@ function indexOf(xs, x) {
   return -1;
 }
 }).call(this,require('_process'),typeof global !== "undefined" ? global : typeof self !== "undefined" ? self : typeof window !== "undefined" ? window : {})
-},{"./_stream_duplex":15,"./internal/streams/BufferList":20,"./internal/streams/destroy":21,"./internal/streams/stream":22,"_process":13,"core-util-is":5,"events":6,"inherits":8,"isarray":10,"process-nextick-args":12,"safe-buffer":23,"string_decoder/":24,"util":3}],18:[function(require,module,exports){
+},{"./_stream_duplex":13,"./internal/streams/BufferList":18,"./internal/streams/destroy":19,"./internal/streams/stream":20,"_process":11,"core-util-is":4,"events":5,"inherits":7,"isarray":9,"process-nextick-args":10,"safe-buffer":21,"string_decoder/":22,"util":2}],16:[function(require,module,exports){
 // Copyright Joyent, Inc. and other Node contributors.
 //
 // Permission is hereby granted, free of charge, to any person obtaining a
@@ -4701,7 +4393,7 @@ function done(stream, er, data) {
 
   return stream.push(null);
 }
-},{"./_stream_duplex":15,"core-util-is":5,"inherits":8}],19:[function(require,module,exports){
+},{"./_stream_duplex":13,"core-util-is":4,"inherits":7}],17:[function(require,module,exports){
 (function (process,global,setImmediate){
 // Copyright Joyent, Inc. and other Node contributors.
 //
@@ -5391,7 +5083,7 @@ Writable.prototype._destroy = function (err, cb) {
   cb(err);
 };
 }).call(this,require('_process'),typeof global !== "undefined" ? global : typeof self !== "undefined" ? self : typeof window !== "undefined" ? window : {},require("timers").setImmediate)
-},{"./_stream_duplex":15,"./internal/streams/destroy":21,"./internal/streams/stream":22,"_process":13,"core-util-is":5,"inherits":8,"process-nextick-args":12,"safe-buffer":23,"timers":30,"util-deprecate":31}],20:[function(require,module,exports){
+},{"./_stream_duplex":13,"./internal/streams/destroy":19,"./internal/streams/stream":20,"_process":11,"core-util-is":4,"inherits":7,"process-nextick-args":10,"safe-buffer":21,"timers":30,"util-deprecate":31}],18:[function(require,module,exports){
 'use strict';
 
 function _classCallCheck(instance, Constructor) { if (!(instance instanceof Constructor)) { throw new TypeError("Cannot call a class as a function"); } }
@@ -5471,7 +5163,7 @@ if (util && util.inspect && util.inspect.custom) {
     return this.constructor.name + ' ' + obj;
   };
 }
-},{"safe-buffer":23,"util":3}],21:[function(require,module,exports){
+},{"safe-buffer":21,"util":2}],19:[function(require,module,exports){
 'use strict';
 
 /*<replacement>*/
@@ -5546,10 +5238,10 @@ module.exports = {
   destroy: destroy,
   undestroy: undestroy
 };
-},{"process-nextick-args":12}],22:[function(require,module,exports){
+},{"process-nextick-args":10}],20:[function(require,module,exports){
 module.exports = require('events').EventEmitter;
 
-},{"events":6}],23:[function(require,module,exports){
+},{"events":5}],21:[function(require,module,exports){
 /* eslint-disable node/no-deprecated-api */
 var buffer = require('buffer')
 var Buffer = buffer.Buffer
@@ -5613,7 +5305,7 @@ SafeBuffer.allocUnsafeSlow = function (size) {
   return buffer.SlowBuffer(size)
 }
 
-},{"buffer":4}],24:[function(require,module,exports){
+},{"buffer":3}],22:[function(require,module,exports){
 // Copyright Joyent, Inc. and other Node contributors.
 //
 // Permission is hereby granted, free of charge, to any person obtaining a
@@ -5910,10 +5602,10 @@ function simpleWrite(buf) {
 function simpleEnd(buf) {
   return buf && buf.length ? this.write(buf) : '';
 }
-},{"safe-buffer":23}],25:[function(require,module,exports){
+},{"safe-buffer":21}],23:[function(require,module,exports){
 module.exports = require('./readable').PassThrough
 
-},{"./readable":26}],26:[function(require,module,exports){
+},{"./readable":24}],24:[function(require,module,exports){
 exports = module.exports = require('./lib/_stream_readable.js');
 exports.Stream = exports;
 exports.Readable = exports;
@@ -5922,13 +5614,79 @@ exports.Duplex = require('./lib/_stream_duplex.js');
 exports.Transform = require('./lib/_stream_transform.js');
 exports.PassThrough = require('./lib/_stream_passthrough.js');
 
-},{"./lib/_stream_duplex.js":15,"./lib/_stream_passthrough.js":16,"./lib/_stream_readable.js":17,"./lib/_stream_transform.js":18,"./lib/_stream_writable.js":19}],27:[function(require,module,exports){
+},{"./lib/_stream_duplex.js":13,"./lib/_stream_passthrough.js":14,"./lib/_stream_readable.js":15,"./lib/_stream_transform.js":16,"./lib/_stream_writable.js":17}],25:[function(require,module,exports){
 module.exports = require('./readable').Transform
 
-},{"./readable":26}],28:[function(require,module,exports){
+},{"./readable":24}],26:[function(require,module,exports){
 module.exports = require('./lib/_stream_writable.js');
 
-},{"./lib/_stream_writable.js":19}],29:[function(require,module,exports){
+},{"./lib/_stream_writable.js":17}],27:[function(require,module,exports){
+/* eslint-disable node/no-deprecated-api */
+var buffer = require('buffer')
+var Buffer = buffer.Buffer
+
+// alternative to using Object.keys for old browsers
+function copyProps (src, dst) {
+  for (var key in src) {
+    dst[key] = src[key]
+  }
+}
+if (Buffer.from && Buffer.alloc && Buffer.allocUnsafe && Buffer.allocUnsafeSlow) {
+  module.exports = buffer
+} else {
+  // Copy properties from require('buffer')
+  copyProps(buffer, exports)
+  exports.Buffer = SafeBuffer
+}
+
+function SafeBuffer (arg, encodingOrOffset, length) {
+  return Buffer(arg, encodingOrOffset, length)
+}
+
+SafeBuffer.prototype = Object.create(Buffer.prototype)
+
+// Copy static methods from Buffer
+copyProps(Buffer, SafeBuffer)
+
+SafeBuffer.from = function (arg, encodingOrOffset, length) {
+  if (typeof arg === 'number') {
+    throw new TypeError('Argument must not be a number')
+  }
+  return Buffer(arg, encodingOrOffset, length)
+}
+
+SafeBuffer.alloc = function (size, fill, encoding) {
+  if (typeof size !== 'number') {
+    throw new TypeError('Argument must be a number')
+  }
+  var buf = Buffer(size)
+  if (fill !== undefined) {
+    if (typeof encoding === 'string') {
+      buf.fill(fill, encoding)
+    } else {
+      buf.fill(fill)
+    }
+  } else {
+    buf.fill(0)
+  }
+  return buf
+}
+
+SafeBuffer.allocUnsafe = function (size) {
+  if (typeof size !== 'number') {
+    throw new TypeError('Argument must be a number')
+  }
+  return Buffer(size)
+}
+
+SafeBuffer.allocUnsafeSlow = function (size) {
+  if (typeof size !== 'number') {
+    throw new TypeError('Argument must be a number')
+  }
+  return buffer.SlowBuffer(size)
+}
+
+},{"buffer":3}],28:[function(require,module,exports){
 // Copyright Joyent, Inc. and other Node contributors.
 //
 // Permission is hereby granted, free of charge, to any person obtaining a
@@ -6057,7 +5815,9 @@ Stream.prototype.pipe = function(dest, options) {
   return dest;
 };
 
-},{"events":6,"inherits":8,"readable-stream/duplex.js":14,"readable-stream/passthrough.js":25,"readable-stream/readable.js":26,"readable-stream/transform.js":27,"readable-stream/writable.js":28}],30:[function(require,module,exports){
+},{"events":5,"inherits":7,"readable-stream/duplex.js":12,"readable-stream/passthrough.js":23,"readable-stream/readable.js":24,"readable-stream/transform.js":25,"readable-stream/writable.js":26}],29:[function(require,module,exports){
+arguments[4][22][0].apply(exports,arguments)
+},{"dup":22,"safe-buffer":27}],30:[function(require,module,exports){
 (function (setImmediate,clearImmediate){
 var nextTick = require('process/browser.js').nextTick;
 var apply = Function.prototype.apply;
@@ -6136,7 +5896,7 @@ exports.clearImmediate = typeof clearImmediate === "function" ? clearImmediate :
   delete immediateIds[id];
 };
 }).call(this,require("timers").setImmediate,require("timers").clearImmediate)
-},{"process/browser.js":13,"timers":30}],31:[function(require,module,exports){
+},{"process/browser.js":11,"timers":30}],31:[function(require,module,exports){
 (function (global){
 
 /**
@@ -6208,6 +5968,305 @@ function config (name) {
 
 }).call(this,typeof global !== "undefined" ? global : typeof self !== "undefined" ? self : typeof window !== "undefined" ? window : {})
 },{}],32:[function(require,module,exports){
+var DataFactory = require('./lib/data-factory')
+
+module.exports = DataFactory
+
+},{"./lib/data-factory":34}],33:[function(require,module,exports){
+function BlankNode (id) {
+  this.value = id || ('b' + (++BlankNode.nextId))
+}
+
+BlankNode.prototype.equals = function (other) {
+  return !!other && other.termType === this.termType && other.value === this.value
+}
+
+BlankNode.prototype.termType = 'BlankNode'
+
+BlankNode.nextId = 0
+
+module.exports = BlankNode
+
+},{}],34:[function(require,module,exports){
+var BlankNode = require('./blank-node')
+var DefaultGraph = require('./default-graph')
+var Literal = require('./literal')
+var NamedNode = require('./named-node')
+var Quad = require('./quad')
+var Variable = require('./variable')
+
+function DataFactory () {}
+
+DataFactory.namedNode = function (value) {
+  return new NamedNode(value)
+}
+
+DataFactory.blankNode = function (value) {
+  return new BlankNode(value)
+}
+
+DataFactory.literal = function (value, languageOrDatatype) {
+  if (typeof languageOrDatatype === 'string') {
+    if (languageOrDatatype.indexOf(':') === -1) {
+      return new Literal(value, languageOrDatatype)
+    }
+
+    return new Literal(value, null, DataFactory.namedNode(languageOrDatatype))
+  }
+
+  return new Literal(value, null, languageOrDatatype)
+}
+
+DataFactory.defaultGraph = function () {
+  return DataFactory.defaultGraphInstance
+}
+
+DataFactory.variable = function (value) {
+  return new Variable(value)
+}
+
+DataFactory.triple = function (subject, predicate, object) {
+  return DataFactory.quad(subject, predicate, object)
+}
+
+DataFactory.quad = function (subject, predicate, object, graph) {
+  return new Quad(subject, predicate, object, graph || DataFactory.defaultGraphInstance)
+}
+
+DataFactory.defaultGraphInstance = new DefaultGraph()
+
+module.exports = DataFactory
+
+},{"./blank-node":33,"./default-graph":35,"./literal":36,"./named-node":37,"./quad":38,"./variable":39}],35:[function(require,module,exports){
+function DefaultGraph () {
+  this.value = ''
+}
+
+DefaultGraph.prototype.equals = function (other) {
+  return !!other && other.termType === this.termType
+}
+
+DefaultGraph.prototype.termType = 'DefaultGraph'
+
+module.exports = DefaultGraph
+
+},{}],36:[function(require,module,exports){
+var NamedNode = require('./named-node')
+
+function Literal (value, language, datatype) {
+  this.value = value
+  this.datatype = Literal.stringDatatype
+  this.language = ''
+
+  if (language) {
+    this.language = language
+    this.datatype = Literal.langStringDatatype
+  } else if (datatype) {
+    this.datatype = datatype
+  }
+}
+
+Literal.prototype.equals = function (other) {
+  return !!other && other.termType === this.termType && other.value === this.value &&
+    other.language === this.language && other.datatype.equals(this.datatype)
+}
+
+Literal.prototype.termType = 'Literal'
+Literal.langStringDatatype = new NamedNode('http://www.w3.org/1999/02/22-rdf-syntax-ns#langString')
+Literal.stringDatatype = new NamedNode('http://www.w3.org/2001/XMLSchema#string')
+
+module.exports = Literal
+
+},{"./named-node":37}],37:[function(require,module,exports){
+function NamedNode (iri) {
+  this.value = iri
+}
+
+NamedNode.prototype.equals = function (other) {
+  return !!other && other.termType === this.termType && other.value === this.value
+}
+
+NamedNode.prototype.termType = 'NamedNode'
+
+module.exports = NamedNode
+
+},{}],38:[function(require,module,exports){
+var DefaultGraph = require('./default-graph')
+
+function Quad (subject, predicate, object, graph) {
+  this.subject = subject
+  this.predicate = predicate
+  this.object = object
+
+  if (graph) {
+    this.graph = graph
+  } else {
+    this.graph = new DefaultGraph()
+  }
+}
+
+Quad.prototype.equals = function (other) {
+  return !!other && other.subject.equals(this.subject) && other.predicate.equals(this.predicate) &&
+    other.object.equals(this.object) && other.graph.equals(this.graph)
+}
+
+module.exports = Quad
+
+},{"./default-graph":35}],39:[function(require,module,exports){
+function Variable (name) {
+  this.value = name
+}
+
+Variable.prototype.equals = function (other) {
+  return !!other && other.termType === this.termType && other.value === this.value
+}
+
+Variable.prototype.termType = 'Variable'
+
+module.exports = Variable
+
+},{}],40:[function(require,module,exports){
+const JsonLdParser = require('@rdfjs/parser-jsonld')
+const N3Parser = require('@rdfjs/parser-n3')
+const JsonLdSerializer = require('@rdfjs/serializer-jsonld')
+const NTriplesSerializer = require('@rdfjs/serializer-ntriples')
+const SinkMap = require('@rdfjs/sink-map')
+
+const formats = {
+  parsers: new SinkMap(),
+  serializers: new SinkMap()
+}
+
+formats.parsers.set('application/ld+json', new JsonLdParser())
+formats.parsers.set('application/trig', new N3Parser())
+formats.parsers.set('application/n-quads', new N3Parser())
+formats.parsers.set('application/n-triples', new N3Parser())
+formats.parsers.set('text/n3', new N3Parser())
+formats.parsers.set('text/turtle', new N3Parser())
+
+formats.serializers.set('application/ld+json', new JsonLdSerializer({ encoding: 'string' }))
+formats.serializers.set('application/n-quads', new NTriplesSerializer())
+formats.serializers.set('application/n-triples', new NTriplesSerializer())
+formats.serializers.set('text/n3', new NTriplesSerializer())
+formats.serializers.set('text/turtle', new NTriplesSerializer())
+
+module.exports = formats
+
+},{"@rdfjs/parser-jsonld":41,"@rdfjs/parser-n3":76,"@rdfjs/serializer-jsonld":89,"@rdfjs/serializer-ntriples":104,"@rdfjs/sink-map":117}],41:[function(require,module,exports){
+const ParserStream = require('./lib/ParserStream')
+const Sink = require('@rdfjs/sink')
+
+class Parser extends Sink {
+  constructor (options) {
+    super(ParserStream, options)
+  }
+}
+
+module.exports = Parser
+
+},{"./lib/ParserStream":42,"@rdfjs/sink":118}],42:[function(require,module,exports){
+const concat = require('concat-stream')
+const jsonld = require('jsonld')
+const rdf = require('@rdfjs/data-model')
+const Readable = require('readable-stream')
+
+class ParserStream extends Readable {
+  constructor (input, {baseIRI = '', context = null, factory = rdf} = {}) {
+    super({
+      objectMode: true,
+      read: () => {}
+    })
+
+    this.baseIRI = baseIRI
+    this.context = context
+    this.factory = factory
+
+    const concatStream = concat({encoding: 'string'}, (data) => {
+      if (!data) {
+        this.push(null)
+
+        return
+      }
+
+      this.parse(data).then(() => {
+        this.push(null)
+      }).catch((err) => {
+        this.emit('error', err)
+      })
+    })
+
+    input.pipe(concatStream)
+
+    input.on('error', (err) => {
+      this.emit('error', err)
+    })
+  }
+
+  term (plainTerm) {
+    switch (plainTerm.termType) {
+      case 'NamedNode':
+        return this.factory.namedNode(plainTerm.value)
+      case 'BlankNode':
+        return this.factory.blankNode(plainTerm.value.substr(2))
+      case 'Literal':
+        return this.factory.literal(plainTerm.value, plainTerm.language || this.factory.namedNode(plainTerm.datatype.value))
+      case 'DefaultGraph':
+        return this.factory.defaultGraph()
+      default:
+        throw Error('unknown termType: ' + plainTerm.termType)
+    }
+  }
+
+  parse (data) {
+    return ParserStream.toPlainObject(data).then((object) => {
+      // forward context as prefixes if available
+      if (typeof object['@context'] === 'object') {
+        Object.keys(object['@context']).forEach((prefix) => {
+          this.emit('prefix', prefix, this.factory.namedNode(object['@context'][prefix]))
+        })
+      }
+
+      const toRdfOptions = {base: this.baseIRI}
+
+      // use context from options if given
+      if (this.context) {
+        toRdfOptions.expandContext = this.context
+      }
+
+      return jsonld.promises.toRDF(object, toRdfOptions)
+    }).then(plainQuads => {
+      plainQuads.forEach(plainQuad => {
+        this.push(this.factory.quad(
+          this.term(plainQuad.subject),
+          this.term(plainQuad.predicate),
+          this.term(plainQuad.object),
+          this.term(plainQuad.graph)))
+      })
+    })
+  }
+
+  static toPlainObject (data) {
+    if (typeof data === 'string') {
+      return new Promise((resolve, reject) => {
+        try {
+          resolve(JSON.parse(data))
+        } catch (err) {
+          reject(err)
+        }
+      })
+    }
+
+    if (typeof data === 'object') {
+      return Promise.resolve(data)
+    }
+
+    return Promise.reject(new Error('unknown type'))
+  }
+}
+
+module.exports = ParserStream
+
+},{"@rdfjs/data-model":32,"concat-stream":129,"jsonld":59,"readable-stream":73}],43:[function(require,module,exports){
 /*
  * Copyright (c) 2017-2018 Digital Bazaar, Inc. All rights reserved.
  */
@@ -6253,7 +6312,7 @@ module.exports = class ActiveContextCache {
   }
 };
 
-},{"./util":53}],33:[function(require,module,exports){
+},{"./util":64}],44:[function(require,module,exports){
 /*
  * Copyright (c) 2017 Digital Bazaar, Inc. All rights reserved.
  */
@@ -6278,7 +6337,7 @@ module.exports = class JsonLdError extends Error {
   }
 };
 
-},{}],34:[function(require,module,exports){
+},{}],45:[function(require,module,exports){
 /*
  * Copyright (c) 2017 Digital Bazaar, Inc. All rights reserved.
  */
@@ -6332,7 +6391,7 @@ module.exports = jsonld => {
   return JsonLdProcessor;
 };
 
-},{}],35:[function(require,module,exports){
+},{}],46:[function(require,module,exports){
 /*
  * Copyright (c) 2017 Digital Bazaar, Inc. All rights reserved.
  */
@@ -6341,7 +6400,7 @@ module.exports = jsonld => {
 // TODO: move `NQuads` to its own package
 module.exports = require('rdf-canonize').NQuads;
 
-},{"rdf-canonize":80}],36:[function(require,module,exports){
+},{"rdf-canonize":170}],47:[function(require,module,exports){
 /*
  * Copyright (c) 2017 Digital Bazaar, Inc. All rights reserved.
  */
@@ -6483,7 +6542,7 @@ function getXMLSerializerClass() {
   return XMLSerializer;
 }
 
-},{"./constants":39,"xmldom":3}],37:[function(require,module,exports){
+},{"./constants":50,"xmldom":2}],48:[function(require,module,exports){
 /*
  * Copyright (c) 2017 Digital Bazaar, Inc. All rights reserved.
  */
@@ -6528,7 +6587,7 @@ module.exports = class RequestQueue {
   }
 };
 
-},{"./util":53}],38:[function(require,module,exports){
+},{"./util":64}],49:[function(require,module,exports){
 /*
  * Copyright (c) 2017 Digital Bazaar, Inc. All rights reserved.
  */
@@ -6539,7 +6598,8 @@ const JsonLdError = require('./JsonLdError');
 const {
   isArray: _isArray,
   isObject: _isObject,
-  isString: _isString
+  isString: _isString,
+  isUndefined: _isUndefined
 } = require('./types');
 
 const {
@@ -6631,13 +6691,20 @@ api.compact = ({
 
   // use any scoped context on activeProperty
   const ctx = _getContextValue(activeCtx, activeProperty, '@context');
-  if(ctx) {
-    activeCtx = _processContext({activeCtx, localCtx: ctx, options});
+  if(!_isUndefined(ctx)) {
+    // Note: spec's `from term` var is named `isPropertyTermScopedContext`
+    activeCtx = _processContext({
+      activeCtx,
+      localCtx: ctx,
+      isPropertyTermScopedContext: true,
+      options
+    });
   }
 
   // recursively compact object
   if(_isObject(element)) {
-    if(options.link && '@id' in element && element['@id'] in options.link) {
+    if(options.link && '@id' in element &&
+      options.link.hasOwnProperty(element['@id'])) {
       // check for a linked element to reuse
       const linked = options.link[element['@id']];
       for(let i = 0; i < linked.length; ++i) {
@@ -6650,10 +6717,10 @@ api.compact = ({
     // do value compaction on @values and subject references
     if(_isValue(element) || _isSubjectReference(element)) {
       const rval =
-        api.compactValue({activeCtx, activeProperty, value: element});
+        api.compactValue({activeCtx, activeProperty, value: element, options});
       if(options.link && _isSubjectReference(element)) {
         // store linked element
-        if(!(element['@id'] in options.link)) {
+        if(!(options.link.hasOwnProperty(element['@id']))) {
           options.link[element['@id']] = [];
         }
         options.link[element['@id']].push({expanded: element, compacted: rval});
@@ -6661,14 +6728,33 @@ api.compact = ({
       return rval;
     }
 
+    // if expanded property is @list and we're contained within a list
+    // container, recursively compact this item to an array
+    if(_isList(element)) {
+      const container = _getContextValue(
+        activeCtx, activeProperty, '@container') || [];
+      if(container.includes('@list')) {
+        return api.compact({
+          activeCtx,
+          activeProperty,
+          element: element['@list'],
+          options,
+          compactionMap
+        });
+      }
+    }
+
     // FIXME: avoid misuse of active property as an expanded property?
     const insideReverse = (activeProperty === '@reverse');
 
     const rval = {};
 
+    // revert type scoped context
+    activeCtx = activeCtx.revertTypeScopedContext();
+
     if(options.link && '@id' in element) {
       // store linked element
-      if(!(element['@id'] in options.link)) {
+      if(!options.link.hasOwnProperty(element['@id'])) {
         options.link[element['@id']] = [];
       }
       options.link[element['@id']].push({expanded: element, compacted: rval});
@@ -6681,14 +6767,22 @@ api.compact = ({
     if(types.length > 1) {
       types = Array.from(types).sort();
     }
+    // find all type-scoped contexts based on current context, prior to
+    // updating it
+    const typeContext = activeCtx;
     for(const type of types) {
       const compactedType = api.compactIri(
-        {activeCtx, iri: type, relativeTo: {vocab: true}});
+        {activeCtx: typeContext, iri: type, relativeTo: {vocab: true}});
 
-      // Use any scoped context defined on this value
-      const ctx = _getContextValue(activeCtx, compactedType, '@context');
-      if(ctx) {
-        activeCtx = _processContext({activeCtx, localCtx: ctx, options});
+      // Use any type-scoped context defined on this value
+      const ctx = _getContextValue(typeContext, compactedType, '@context');
+      if(!_isUndefined(ctx)) {
+        activeCtx = _processContext({
+          activeCtx,
+          localCtx: ctx,
+          options,
+          isTypeScopedContext: true
+        });
       }
     }
 
@@ -6699,13 +6793,16 @@ api.compact = ({
 
       // compact @id and @type(s)
       if(expandedProperty === '@id' || expandedProperty === '@type') {
+        // if using a type-scoped context, resolve type values against previous
+        // context
+        const isType = expandedProperty === '@type';
+        const valueContext = isType ?
+          (activeCtx.previousContext || activeCtx) : activeCtx;
         let compactedValue = _asArray(expandedValue).map(
           expandedIri => api.compactIri({
-            activeCtx,
+            activeCtx: valueContext,
             iri: expandedIri,
-            relativeTo: {
-              vocab: expandedProperty === '@type'
-            }
+            relativeTo: {vocab: isType}
           }));
         if(compactedValue.length === 1) {
           compactedValue = compactedValue[0];
@@ -6732,8 +6829,8 @@ api.compact = ({
 
         // handle double-reversed properties
         for(const compactedProperty in compactedValue) {
-          if(activeCtx.mappings[compactedProperty] &&
-            activeCtx.mappings[compactedProperty].reverse) {
+          if(activeCtx.mappings.has(compactedProperty) &&
+            activeCtx.mappings.get(compactedProperty).reverse) {
             const value = compactedValue[compactedProperty];
             const container = _getContextValue(
               activeCtx, compactedProperty, '@container') || [];
@@ -6821,11 +6918,11 @@ api.compact = ({
           relativeTo: {vocab: true},
           reverse: insideReverse
         });
-        const nestProperty = (itemActiveProperty in activeCtx.mappings) ?
-          activeCtx.mappings[itemActiveProperty]['@nest'] : null;
+        const nestProperty = activeCtx.mappings.has(itemActiveProperty) ?
+          activeCtx.mappings.get(itemActiveProperty)['@nest'] : null;
         let nestResult = rval;
         if(nestProperty) {
-          _checkNestProperty(activeCtx, nestProperty);
+          _checkNestProperty(activeCtx, nestProperty, options);
           if(!_isObject(rval[nestProperty])) {
             rval[nestProperty] = {};
           }
@@ -6850,11 +6947,11 @@ api.compact = ({
 
         // if itemActiveProperty is a @nest property, add values to nestResult,
         // otherwise rval
-        const nestProperty = (itemActiveProperty in activeCtx.mappings) ?
-          activeCtx.mappings[itemActiveProperty]['@nest'] : null;
+        const nestProperty = activeCtx.mappings.has(itemActiveProperty) ?
+          activeCtx.mappings.get(itemActiveProperty)['@nest'] : null;
         let nestResult = rval;
         if(nestProperty) {
-          _checkNestProperty(activeCtx, nestProperty);
+          _checkNestProperty(activeCtx, nestProperty, options);
           if(!_isObject(rval[nestProperty])) {
             rval[nestProperty] = {};
           }
@@ -6908,14 +7005,12 @@ api.compact = ({
                 relativeTo: {vocab: true}
               })] = expandedItem['@index'];
             }
-          } else if(itemActiveProperty in nestResult) {
-            // can't use @list container for more than 1 list
-            throw new JsonLdError(
-              'JSON-LD compact error; property has a "@list" @container ' +
-              'rule but there is more than a single @list that matches ' +
-              'the compacted term in the document. Compaction might mix ' +
-              'unwanted items into the list.',
-              'jsonld.SyntaxError', {code: 'compaction to list of lists'});
+          } else {
+            _addValue(nestResult, itemActiveProperty, compactedItem, {
+              valueIsArray: true,
+              allowDuplicate: true
+            });
+            continue;
           }
         }
 
@@ -6925,7 +7020,7 @@ api.compact = ({
             container.includes('@index') && _isSimpleGraph(expandedItem))) {
             // get or create the map object
             let mapObject;
-            if(itemActiveProperty in nestResult) {
+            if(nestResult.hasOwnProperty(itemActiveProperty)) {
               mapObject = nestResult[itemActiveProperty];
             } else {
               nestResult[itemActiveProperty] = mapObject = {};
@@ -6996,7 +7091,7 @@ api.compact = ({
           // handle language and index maps
           // get or create the map object
           let mapObject;
-          if(itemActiveProperty in nestResult) {
+          if(nestResult.hasOwnProperty(itemActiveProperty)) {
             mapObject = nestResult[itemActiveProperty];
           } else {
             nestResult[itemActiveProperty] = mapObject = {};
@@ -7094,6 +7189,12 @@ api.compactIri = ({
   // can't compact null
   if(iri === null) {
     return iri;
+  }
+
+  // if context is from a property term scoped context composed with a
+  // type-scoped context, then use the previous context instead
+  if(activeCtx.isPropertyTermScoped && activeCtx.previousContext) {
+    activeCtx = activeCtx.previousContext;
   }
 
   const inverseCtx = activeCtx.getInverse();
@@ -7260,7 +7361,7 @@ api.compactIri = ({
       if(iri.indexOf(vocab) === 0 && iri !== vocab) {
         // use suffix as relative iri if it is not a term in the active context
         const suffix = iri.substr(vocab.length);
-        if(!(suffix in activeCtx.mappings)) {
+        if(!activeCtx.mappings.has(suffix)) {
           return suffix;
         }
       }
@@ -7291,9 +7392,9 @@ api.compactIri = ({
       // 2. value is null, which means we're not compacting an @value, AND
       //   the mapping matches the IRI
       const curie = term + ':' + iri.substr(entry.iri.length);
-      const isUsableCurie = (activeCtx.mappings[term]._prefix &&
-        (!(curie in activeCtx.mappings) ||
-        (value === null && activeCtx.mappings[curie]['@id'] === iri)));
+      const isUsableCurie = (activeCtx.mappings.get(term)._prefix &&
+        (!activeCtx.mappings.has(curie) ||
+        (value === null && activeCtx.mappings.get(curie)['@id'] === iri)));
 
       // select curie if it is shorter or the same length but lexicographically
       // less than the current choice
@@ -7325,10 +7426,11 @@ api.compactIri = ({
  * @param activeCtx the active context.
  * @param activeProperty the active property that points to the value.
  * @param value the value to compact.
+ * @param {Object} [options] - processing options.
  *
  * @return the compaction result.
  */
-api.compactValue = ({activeCtx, activeProperty, value}) => {
+api.compactValue = ({activeCtx, activeProperty, value, options}) => {
   // value is a @value
   if(_isValue(value)) {
     // get context rules
@@ -7357,8 +7459,8 @@ api.compactValue = ({activeCtx, activeProperty, value}) => {
       (keyCount === 2 && '@index' in value && !preserveIndex));
     const hasDefaultLanguage = ('@language' in activeCtx);
     const isValueString = _isString(value['@value']);
-    const hasNullMapping = (activeCtx.mappings[activeProperty] &&
-      activeCtx.mappings[activeProperty]['@language'] === null);
+    const hasNullMapping = (activeCtx.mappings.has(activeProperty) &&
+      activeCtx.mappings.get(activeProperty)['@language'] === null);
     if(isValueOnlyKey &&
       (!hasDefaultLanguage || !isValueString || hasNullMapping)) {
       return value['@value'];
@@ -7403,7 +7505,8 @@ api.compactValue = ({activeCtx, activeProperty, value}) => {
   }
 
   // value is a subject reference
-  const expandedProperty = _expandIri(activeCtx, activeProperty, {vocab: true});
+  const expandedProperty = _expandIri(activeCtx, activeProperty, {vocab: true},
+    options);
   const type = _getContextValue(activeCtx, activeProperty, '@type');
   const compacted = api.compactIri(
     {activeCtx, iri: value['@id'], relativeTo: {vocab: type === '@vocab'}});
@@ -7470,9 +7573,9 @@ api.removePreserve = (ctx, input, options) => {
       iri: '@id',
       relativeTo: {vocab: true}
     });
-    if(idAlias in input) {
+    if(input.hasOwnProperty(idAlias)) {
       const id = input[idAlias];
-      if(id in options.link) {
+      if(options.link.hasOwnProperty(id)) {
         const idx = options.link[id].indexOf(input);
         if(idx !== -1) {
           // already visited
@@ -7542,9 +7645,9 @@ function _selectTerm(
     // try to compact value to a term
     const term = api.compactIri(
       {activeCtx, iri: value['@id'], relativeTo: {vocab: true}});
-    if(term in activeCtx.mappings &&
-      activeCtx.mappings[term] &&
-      activeCtx.mappings[term]['@id'] === value['@id']) {
+    if(activeCtx.mappings.has(term) &&
+      activeCtx.mappings.get(term) &&
+      activeCtx.mappings.get(term)['@id'] === value['@id']) {
       // prefer @vocab
       prefs.push.apply(prefs, ['@vocab', '@id']);
     } else {
@@ -7586,9 +7689,10 @@ function _selectTerm(
  *
  * @param activeCtx the active context.
  * @param nestProperty a term in the active context or `@nest`.
+ * @param {Object} [options] - processing options.
  */
-function _checkNestProperty(activeCtx, nestProperty) {
-  if(_expandIri(activeCtx, nestProperty, {vocab: true}) !== '@nest') {
+function _checkNestProperty(activeCtx, nestProperty, options) {
+  if(_expandIri(activeCtx, nestProperty, {vocab: true}, options) !== '@nest') {
     throw new JsonLdError(
       'JSON-LD compact error; nested property must have an @nest value ' +
       'resolving to @nest.',
@@ -7596,7 +7700,7 @@ function _checkNestProperty(activeCtx, nestProperty) {
   }
 }
 
-},{"./JsonLdError":33,"./context":40,"./graphTypes":47,"./types":51,"./url":52,"./util":53}],39:[function(require,module,exports){
+},{"./JsonLdError":44,"./context":51,"./graphTypes":58,"./types":62,"./url":63,"./util":64}],50:[function(require,module,exports){
 /*
  * Copyright (c) 2017 Digital Bazaar, Inc. All rights reserved.
  */
@@ -7616,6 +7720,7 @@ module.exports = {
   RDF_TYPE: RDF + 'type',
   RDF_PLAIN_LITERAL: RDF + 'PlainLiteral',
   RDF_XML_LITERAL: RDF + 'XMLLiteral',
+  RDF_JSON_LITERAL: RDF + 'JSON',
   RDF_OBJECT: RDF + 'object',
   RDF_LANGSTRING: RDF + 'langString',
 
@@ -7626,7 +7731,7 @@ module.exports = {
   XSD_STRING: XSD + 'string',
 };
 
-},{}],40:[function(require,module,exports){
+},{}],51:[function(require,module,exports){
 /*
  * Copyright (c) 2017 Digital Bazaar, Inc. All rights reserved.
  */
@@ -7671,19 +7776,45 @@ api.cache = new ActiveContextCache();
  * @param activeCtx the current active context.
  * @param localCtx the local context to process.
  * @param options the context processing options.
+ * @param isPropertyTermScopedContext `true` if `localCtx` is a scoped context
+ *   from a property term.
+ * @param isTypeScopedContext `true` if `localCtx` is a scoped context
+ *   from a type.
  *
  * @return the new active context.
  */
-api.process = ({activeCtx, localCtx, options}) => {
+api.process = ({
+  activeCtx, localCtx, options,
+  isPropertyTermScopedContext = false,
+  isTypeScopedContext = false
+}) => {
   // normalize local context to an array of @context objects
   if(_isObject(localCtx) && '@context' in localCtx &&
     _isArray(localCtx['@context'])) {
     localCtx = localCtx['@context'];
   }
-  const ctxs = _isArray(localCtx) ? localCtx : [localCtx];
+  const ctxs = _asArray(localCtx);
 
   // no contexts in array, return current active context w/o changes
   if(ctxs.length === 0) {
+    return activeCtx;
+  }
+
+  // track the previous context
+  const previousContext = activeCtx.previousContext || activeCtx;
+
+  // if context is property scoped and there's a previous context, amend it,
+  // not the current one
+  if(isPropertyTermScopedContext && activeCtx.previousContext) {
+    // TODO: consider optimizing to a shallow copy
+    activeCtx = activeCtx.clone();
+    activeCtx.isPropertyTermScoped = true;
+    activeCtx.previousContext = api.process({
+      activeCtx: activeCtx.previousContext,
+      localCtx: ctxs,
+      options,
+      isPropertyTermScopedContext
+    });
     return activeCtx;
   }
 
@@ -7693,10 +7824,64 @@ api.process = ({activeCtx, localCtx, options}) => {
   for(let i = 0; i < ctxs.length; ++i) {
     let ctx = ctxs[i];
 
+    // update active context to one computed from last iteration
+    activeCtx = rval;
+
     // reset to initial context
     if(ctx === null) {
-      rval = activeCtx = api.getInitialContext(options);
+      // We can't nullify if there are protected terms and we're
+      // not processing a property term scoped context
+      if(!isPropertyTermScopedContext &&
+        Object.keys(activeCtx.protected).length !== 0) {
+        const protectedMode = (options && options.protectedMode) || 'error';
+        if(protectedMode === 'error') {
+          throw new JsonLdError(
+            'Tried to nullify a context with protected terms outside of ' +
+            'a term definition.',
+            'jsonld.SyntaxError',
+            {code: 'invalid context nullification'});
+        } else if(protectedMode === 'warn') {
+          // FIXME: remove logging and use a handler
+          console.warn('WARNING: invalid context nullification');
+          const oldActiveCtx = activeCtx;
+          // copy all protected term definitions to fresh initial context
+          rval = activeCtx = api.getInitialContext(options).clone();
+          for(const [term, _protected] of
+            Object.entries(oldActiveCtx.protected)) {
+            if(_protected) {
+              activeCtx.mappings[term] =
+                util.clone(oldActiveCtx.mappings[term]);
+            }
+          }
+          activeCtx.protected = util.clone(oldActiveCtx.protected);
+
+          // cache result
+          if(api.cache) {
+            api.cache.set(oldActiveCtx, ctx, rval);
+          }
+
+          continue;
+        }
+        throw new JsonLdError(
+          'Invalid protectedMode.',
+          'jsonld.SyntaxError',
+          {code: 'invalid protected mode', context: localCtx, protectedMode});
+      }
+      rval = activeCtx = api.getInitialContext(options).clone();
+      // if context is type-scoped, ensure previous context has been set
+      if(isTypeScopedContext) {
+        rval.previousContext = previousContext.clone();
+      }
       continue;
+    }
+
+    // get context from cache if available
+    if(api.cache) {
+      const cached = api.cache.get(activeCtx, ctx);
+      if(cached) {
+        rval = activeCtx = cached;
+        continue;
+      }
     }
 
     // dereference @context key if present
@@ -7711,21 +7896,14 @@ api.process = ({activeCtx, localCtx, options}) => {
         'jsonld.SyntaxError', {code: 'invalid local context', context: ctx});
     }
 
-    // get context from cache if available
-    if(api.cache) {
-      const cached = api.cache.get(activeCtx, ctx);
-      if(cached) {
-        rval = activeCtx = cached;
-        continue;
-      }
-    }
+    // TODO: there is likely a `preivousContext` cloning optimization that
+    // could be applied here (no need to copy it under certain conditions)
 
-    // update active context and clone new one before updating
-    activeCtx = rval;
+    // clone context before updating it
     rval = rval.clone();
 
     // define context mappings for keys in local context
-    const defined = {};
+    const defined = new Map();
 
     // handle @version
     if('@version' in ctx) {
@@ -7745,7 +7923,7 @@ api.process = ({activeCtx, localCtx, options}) => {
       }
       rval.processingMode = 'json-ld-1.1';
       rval['@version'] = ctx['@version'];
-      defined['@version'] = true;
+      defined.set('@version', true);
     }
 
     // if not set explicitly, set processingMode to "json-ld-1.0"
@@ -7770,7 +7948,7 @@ api.process = ({activeCtx, localCtx, options}) => {
       }
 
       rval['@base'] = base;
-      defined['@base'] = true;
+      defined.set('@base', true);
     }
 
     // handle @vocab
@@ -7791,7 +7969,7 @@ api.process = ({activeCtx, localCtx, options}) => {
       } else {
         rval['@vocab'] = value;
       }
-      defined['@vocab'] = true;
+      defined.set('@vocab', true);
     }
 
     // handle @language
@@ -7808,12 +7986,24 @@ api.process = ({activeCtx, localCtx, options}) => {
       } else {
         rval['@language'] = value.toLowerCase();
       }
-      defined['@language'] = true;
+      defined.set('@language', true);
     }
+
+    // handle @protected; determine whether this sub-context is declaring
+    // all its terms to be "protected" (exceptions can be made on a
+    // per-definition basis)
+    defined.set('@protected', ctx['@protected'] || false);
 
     // process all other keys
     for(const key in ctx) {
-      api.createTermDefinition(rval, ctx, key, defined);
+      api.createTermDefinition(
+        rval, ctx, key, defined, options,
+        isPropertyTermScopedContext);
+    }
+
+    // if context is type-scoped, ensure previous context has been set
+    if(isTypeScopedContext && !rval.previousContext) {
+      rval.previousContext = previousContext.clone();
     }
 
     // cache result
@@ -7833,11 +8023,19 @@ api.process = ({activeCtx, localCtx, options}) => {
  * @param term the term in the local context to define the mapping for.
  * @param defined a map of defining/defined keys to detect cycles and prevent
  *          double definitions.
+ * @param {Object} [options] - creation options.
+ * @param {string} [options.protectedMode="error"] - "error" to throw error
+ *   on `@protected` constraint violation, "warn" to allow violations and
+ *   signal a warning.
+ * @param isPropertyTermScopedContext `true` if `localCtx` is a scoped context
+ *   from a property term.
  */
-api.createTermDefinition = (activeCtx, localCtx, term, defined) => {
-  if(term in defined) {
+api.createTermDefinition = (
+  activeCtx, localCtx, term, defined, options,
+  isPropertyTermScopedContext = false) => {
+  if(defined.has(term)) {
     // term already defined
-    if(defined[term]) {
+    if(defined.get(term)) {
       return;
     }
     // cycle detected
@@ -7848,7 +8046,7 @@ api.createTermDefinition = (activeCtx, localCtx, term, defined) => {
   }
 
   // now defining term
-  defined[term] = false;
+  defined.set(term, false);
 
   if(api.isKeyword(term)) {
     throw new JsonLdError(
@@ -7864,18 +8062,24 @@ api.createTermDefinition = (activeCtx, localCtx, term, defined) => {
       {code: 'invalid term definition', context: localCtx});
   }
 
+  // keep reference to previous mapping for potential `@protected` check
+  const previousMapping = activeCtx.mappings.get(term);
+
   // remove old mapping
-  if(activeCtx.mappings[term]) {
-    delete activeCtx.mappings[term];
+  if(activeCtx.mappings.has(term)) {
+    activeCtx.mappings.delete(term);
   }
 
   // get context term value
-  let value = localCtx[term];
+  let value;
+  if(localCtx.hasOwnProperty(term)) {
+    value = localCtx[term];
+  }
 
   // clear context entry
   if(value === null || (_isObject(value) && value['@id'] === null)) {
-    activeCtx.mappings[term] = null;
-    defined[term] = true;
+    activeCtx.mappings.set(term, null);
+    defined.set(term, true);
     return;
   }
 
@@ -7895,7 +8099,8 @@ api.createTermDefinition = (activeCtx, localCtx, term, defined) => {
   }
 
   // create new mapping
-  const mapping = activeCtx.mappings[term] = {};
+  const mapping = {};
+  activeCtx.mappings.set(term, mapping);
   mapping.reverse = false;
 
   // make sure term definition only has expected keywords
@@ -7903,7 +8108,7 @@ api.createTermDefinition = (activeCtx, localCtx, term, defined) => {
 
   // JSON-LD 1.1 support
   if(api.processingMode(activeCtx, 1.1)) {
-    validKeys.push('@context', '@nest', '@prefix');
+    validKeys.push('@context', '@nest', '@prefix', '@protected');
   }
 
   for(const kw in value) {
@@ -7941,8 +8146,9 @@ api.createTermDefinition = (activeCtx, localCtx, term, defined) => {
     }
 
     // expand and add @id mapping
-    const id = api.expandIri(
-      activeCtx, reverse, {vocab: true, base: false}, localCtx, defined);
+    const id = _expandIri(
+      activeCtx, reverse, {vocab: true, base: false}, localCtx, defined,
+      options);
     if(!_isAbsoluteIri(id)) {
       throw new JsonLdError(
         'Invalid JSON-LD syntax; a @context @reverse value must be an ' +
@@ -7961,8 +8167,8 @@ api.createTermDefinition = (activeCtx, localCtx, term, defined) => {
     }
     if(id !== term) {
       // expand and add @id mapping
-      id = api.expandIri(
-        activeCtx, id, {vocab: true, base: false}, localCtx, defined);
+      id = _expandIri(
+        activeCtx, id, {vocab: true, base: false}, localCtx, defined, options);
       if(!_isAbsoluteIri(id) && !api.isKeyword(id)) {
         throw new JsonLdError(
           'Invalid JSON-LD syntax; a @context @id value must be an ' +
@@ -7982,15 +8188,15 @@ api.createTermDefinition = (activeCtx, localCtx, term, defined) => {
     // see if the term has a prefix
     if(mapping._termHasColon) {
       const prefix = term.substr(0, colon);
-      if(prefix in localCtx) {
+      if(localCtx.hasOwnProperty(prefix)) {
         // define parent prefix
-        api.createTermDefinition(activeCtx, localCtx, prefix, defined);
+        api.createTermDefinition(activeCtx, localCtx, prefix, defined, options);
       }
 
-      if(activeCtx.mappings[prefix]) {
+      if(activeCtx.mappings.has(prefix)) {
         // set @id based on prefix parent
         const suffix = term.substr(colon + 1);
-        mapping['@id'] = activeCtx.mappings[prefix]['@id'] + suffix;
+        mapping['@id'] = activeCtx.mappings.get(prefix)['@id'] + suffix;
       } else {
         // term is an absolute IRI
         mapping['@id'] = term;
@@ -8008,22 +8214,30 @@ api.createTermDefinition = (activeCtx, localCtx, term, defined) => {
     }
   }
 
+  // Handle term protection
+  if(value['@protected'] === true ||
+    (defined.get('@protected') === true && value['@protected'] !== false)) {
+    activeCtx.protected[term] = true;
+    mapping.protected = true;
+  }
+
   // IRI mapping now defined
-  defined[term] = true;
+  defined.set(term, true);
 
   if('@type' in value) {
     let type = value['@type'];
     if(!_isString(type)) {
       throw new JsonLdError(
-        'Invalid JSON-LD syntax; an @context @type values must be a string.',
+        'Invalid JSON-LD syntax; an @context @type value must be a string.',
         'jsonld.SyntaxError',
         {code: 'invalid type mapping', context: localCtx});
     }
 
-    if(type !== '@id' && type !== '@vocab') {
+    if(type !== '@id' && type !== '@vocab' && type !== '@json') {
       // expand @type to full IRI
-      type = api.expandIri(
-        activeCtx, type, {vocab: true, base: false}, localCtx, defined);
+      type = _expandIri(
+        activeCtx, type, {vocab: true, base: false}, localCtx, defined,
+        options);
       if(!_isAbsoluteIri(type)) {
         throw new JsonLdError(
           'Invalid JSON-LD syntax; an @context @type value must be an ' +
@@ -8033,7 +8247,7 @@ api.createTermDefinition = (activeCtx, localCtx, term, defined) => {
       }
       if(type.indexOf('_:') === 0) {
         throw new JsonLdError(
-          'Invalid JSON-LD syntax; an @context @type values must be an IRI, ' +
+          'Invalid JSON-LD syntax; an @context @type value must be an IRI, ' +
           'not a blank node identifier.',
           'jsonld.SyntaxError',
           {code: 'invalid type mapping', context: localCtx});
@@ -8172,6 +8386,52 @@ api.createTermDefinition = (activeCtx, localCtx, term, defined) => {
       'Invalid JSON-LD syntax; @context and @preserve cannot be aliased.',
       'jsonld.SyntaxError', {code: 'invalid keyword alias', context: localCtx});
   }
+
+  // FIXME if(1.1) ... ?
+  if(previousMapping && previousMapping.protected &&
+    !isPropertyTermScopedContext) {
+    // force new term to continue to be protected and see if the mappings would
+    // be equal
+    activeCtx.protected[term] = true;
+    mapping.protected = true;
+    if(!_deepCompare(previousMapping, mapping)) {
+      const protectedMode = (options && options.protectedMode) || 'error';
+      if(protectedMode === 'error') {
+        throw new JsonLdError(
+          'Invalid JSON-LD syntax; tried to redefine a protected term.',
+          'jsonld.SyntaxError',
+          {code: 'protected term redefinition', context: localCtx, term});
+      } else if(protectedMode === 'warn') {
+        // FIXME: remove logging and use a handler
+        console.warn('WARNING: protected term redefinition', {term});
+        return;
+      }
+      throw new JsonLdError(
+        'Invalid protectedMode.',
+        'jsonld.SyntaxError',
+        {code: 'invalid protected mode', context: localCtx, term,
+          protectedMode});
+    }
+  }
+};
+
+/**
+ * Expands a string to a full IRI. The string may be a term, a prefix, a
+ * relative IRI, or an absolute IRI. The associated absolute IRI will be
+ * returned.
+ *
+ * @param activeCtx the current active context.
+ * @param value the string to expand.
+ * @param relativeTo options for how to resolve relative IRIs:
+ *          base: true to resolve against the base IRI, false not to.
+ *          vocab: true to concatenate after @vocab, false not to.
+ * @param {Object} [options] - processing options.
+ *
+ * @return the expanded value.
+ */
+api.expandIri = (activeCtx, value, relativeTo, options) => {
+  return _expandIri(activeCtx, value, relativeTo, undefined, undefined,
+    options);
 };
 
 /**
@@ -8188,23 +8448,31 @@ api.createTermDefinition = (activeCtx, localCtx, term, defined) => {
  *          during context processing).
  * @param defined a map for tracking cycles in context definitions (only given
  *          if called during context processing).
+ * @param {Object} [options] - processing options.
  *
  * @return the expanded value.
  */
-api.expandIri = (activeCtx, value, relativeTo, localCtx, defined) => {
+function _expandIri(activeCtx, value, relativeTo, localCtx, defined, options) {
   // already expanded
   if(value === null || !_isString(value) || api.isKeyword(value)) {
     return value;
   }
 
   // define term dependency if not defined
-  if(localCtx && value in localCtx && defined[value] !== true) {
-    api.createTermDefinition(activeCtx, localCtx, value, defined);
+  if(localCtx && localCtx.hasOwnProperty(value) &&
+    defined.get(value) !== true) {
+    api.createTermDefinition(activeCtx, localCtx, value, defined, options);
+  }
+
+  // if context is from a property term scoped context composed with a
+  // type-scoped context, then use previous context instead
+  if(activeCtx.isPropertyTermScoped && activeCtx.previousContext) {
+    activeCtx = activeCtx.previousContext;
   }
 
   relativeTo = relativeTo || {};
   if(relativeTo.vocab) {
-    const mapping = activeCtx.mappings[value];
+    const mapping = activeCtx.mappings.get(value);
 
     // value is explicitly ignored with a null mapping
     if(mapping === null) {
@@ -8230,13 +8498,13 @@ api.expandIri = (activeCtx, value, relativeTo, localCtx, defined) => {
     }
 
     // prefix dependency not defined, define it
-    if(localCtx && prefix in localCtx) {
-      api.createTermDefinition(activeCtx, localCtx, prefix, defined);
+    if(localCtx && localCtx.hasOwnProperty(prefix)) {
+      api.createTermDefinition(activeCtx, localCtx, prefix, defined, options);
     }
 
     // use mapping if prefix is defined
-    const mapping = activeCtx.mappings[prefix];
-    if(mapping) {
+    if(activeCtx.mappings.has(prefix)) {
+      const mapping = activeCtx.mappings.get(prefix);
       return mapping['@id'] + suffix;
     }
 
@@ -8255,7 +8523,7 @@ api.expandIri = (activeCtx, value, relativeTo, localCtx, defined) => {
   }
 
   return value;
-};
+}
 
 /**
  * Gets the initial context.
@@ -8276,10 +8544,12 @@ api.getInitialContext = options => {
   const initialContext = {
     '@base': base,
     processingMode: options.processingMode,
-    mappings: {},
+    mappings: new Map(),
     inverse: null,
     getInverse: _createInverseContext,
-    clone: _cloneActiveContext
+    clone: _cloneActiveContext,
+    revertTypeScopedContext: _revertTypeScopedContext,
+    protected: {}
   };
   // TODO: consider using LRU cache instead
   if(INITIAL_CONTEXT_CACHE.size === INITIAL_CONTEXT_CACHE_MAX_SIZE) {
@@ -8315,10 +8585,9 @@ api.getInitialContext = options => {
     // create term selections for each mapping in the context, ordered by
     // shortest and then lexicographically least
     const mappings = activeCtx.mappings;
-    const terms = Object.keys(mappings).sort(_compareShortestLeast);
-    for(let i = 0; i < terms.length; ++i) {
-      const term = terms[i];
-      const mapping = mappings[term];
+    const terms = [...mappings.keys()].sort(_compareShortestLeast);
+    for(const term of terms) {
+      const mapping = mappings.get(term);
       if(mapping === null) {
         continue;
       }
@@ -8328,8 +8597,7 @@ api.getInitialContext = options => {
 
       // iterate over every IRI in the mapping
       const ids = _asArray(mapping['@id']);
-      for(let ii = 0; ii < ids.length; ++ii) {
-        const iri = ids[ii];
+      for(const iri of ids) {
         let entry = inverse[iri];
         const isKeyword = api.isKeyword(iri);
 
@@ -8408,17 +8676,17 @@ api.getInitialContext = options => {
 
     let iri;
     let letter;
-    for(let i = 0; i < entries.length; ++i) {
-      iri = entries[i].iri;
+    for(const entry of entries) {
+      iri = entry.iri;
       if(idx >= iri.length) {
         letter = '';
       } else {
         letter = iri[idx];
       }
       if(letter in next) {
-        next[letter].push(entries[i]);
+        next[letter].push(entry);
       } else {
-        next[letter] = [entries[i]];
+        next[letter] = [entry];
       }
     }
 
@@ -8438,7 +8706,7 @@ api.getInitialContext = options => {
    * @param typeOrLanguageValue the key in the entry to add to.
    */
   function _addPreferredTerm(term, entry, typeOrLanguageValue) {
-    if(!(typeOrLanguageValue in entry)) {
+    if(!entry.hasOwnProperty(typeOrLanguageValue)) {
       entry[typeOrLanguageValue] = term;
     }
   }
@@ -8455,6 +8723,12 @@ api.getInitialContext = options => {
     child.clone = this.clone;
     child.inverse = null;
     child.getInverse = this.getInverse;
+    child.protected = util.clone(this.protected);
+    if(this.previousContext) {
+      child.isPropertyTermScoped = this.previousContext.isPropertyTermScoped;
+      child.previousContext = this.previousContext.clone();
+    }
+    child.revertTypeScopedContext = this.revertTypeScopedContext;
     if('@language' in this) {
       child['@language'] = this['@language'];
     }
@@ -8463,44 +8737,61 @@ api.getInitialContext = options => {
     }
     return child;
   }
+
+  /**
+   * Reverts any type-scoped context in this active context to the previous
+   * context.
+   */
+  function _revertTypeScopedContext() {
+    if(!this.previousContext) {
+      return this;
+    }
+    return this.previousContext.clone();
+  }
 };
 
 /**
  * Gets the value for the given active context key and type, null if none is
- * set.
+ * set or undefined if none is set and type is '@context'.
  *
  * @param ctx the active context.
  * @param key the context key.
  * @param [type] the type of value to get (eg: '@id', '@type'), if not
  *          specified gets the entire entry for a key, null if not found.
  *
- * @return the value.
+ * @return the value, null, or undefined.
  */
 api.getContextValue = (ctx, key, type) => {
-  // return null for invalid key
+  // invalid key
   if(key === null) {
+    if(type === '@context') {
+      return undefined;
+    }
     return null;
   }
 
   // get specific entry information
-  if(ctx.mappings[key]) {
-    const entry = ctx.mappings[key];
+  if(ctx.mappings.has(key)) {
+    const entry = ctx.mappings.get(key);
 
     if(_isUndefined(type)) {
       // return whole entry
       return entry;
     }
-    if(type in entry) {
+    if(entry.hasOwnProperty(type)) {
       // return entry value for type
       return entry[type];
     }
   }
 
   // get default language
-  if(type === '@language' && (type in ctx)) {
+  if(type === '@language' && ctx.hasOwnProperty(type)) {
     return ctx[type];
   }
 
+  if(type === '@context') {
+    return undefined;
+  }
   return null;
 };
 
@@ -8557,6 +8848,7 @@ api.isKeyword = v => {
     case '@graph':
     case '@id':
     case '@index':
+    case '@json':
     case '@language':
     case '@list':
     case '@nest':
@@ -8564,6 +8856,7 @@ api.isKeyword = v => {
     case '@omitDefault':
     case '@prefix':
     case '@preserve':
+    case '@protected':
     case '@requireAll':
     case '@reverse':
     case '@set':
@@ -8762,7 +9055,52 @@ function _findContextUrls(input, urls, replace, base) {
   }
 }
 
-},{"./ActiveContextCache":32,"./JsonLdError":33,"./types":51,"./url":52,"./util":53}],41:[function(require,module,exports){
+function _deepCompare(x1, x2) {
+  // compare `null` or primitive types directly
+  if((!(x1 && typeof x1 === 'object')) ||
+     (!(x2 && typeof x2 === 'object'))) {
+    return x1 === x2;
+  }
+  // x1 and x2 are objects (also potentially arrays)
+  const x1Array = Array.isArray(x1);
+  if(x1Array !== Array.isArray(x2)) {
+    return false;
+  }
+  if(x1Array) {
+    if(x1.length !== x2.length) {
+      return false;
+    }
+    for(let i = 0; i < x1.length; ++i) {
+      if(!_deepCompare(x1[i], x2[i])) {
+        return false;
+      }
+    }
+    return true;
+  }
+  // x1 and x2 are non-array objects
+  const k1s = Object.keys(x1);
+  const k2s = Object.keys(x2);
+  if(k1s.length !== k2s.length) {
+    return false;
+  }
+  for(const k1 in x1) {
+    let v1 = x1[k1];
+    let v2 = x2[k1];
+    // special case: `@container` can be in any order
+    if(k1 === '@container') {
+      if(Array.isArray(v1) && Array.isArray(v2)) {
+        v1 = v1.slice().sort();
+        v2 = v2.slice().sort();
+      }
+    }
+    if(!_deepCompare(v1, v2)) {
+      return false;
+    }
+  }
+  return true;
+}
+
+},{"./ActiveContextCache":43,"./JsonLdError":44,"./types":62,"./url":63,"./util":64}],52:[function(require,module,exports){
 /*
  * Copyright (c) 2017 Digital Bazaar, Inc. All rights reserved.
  */
@@ -8928,7 +9266,7 @@ function _request(request, options) {
   });
 }
 
-},{"../JsonLdError":33,"../RequestQueue":37,"../constants":39,"../util":53,"http":3,"request":3}],42:[function(require,module,exports){
+},{"../JsonLdError":44,"../RequestQueue":48,"../constants":50,"../util":64,"http":2,"request":2}],53:[function(require,module,exports){
 /*
  * Copyright (c) 2017 Digital Bazaar, Inc. All rights reserved.
  */
@@ -9036,7 +9374,7 @@ function _get(xhr, url, headers) {
   });
 }
 
-},{"../JsonLdError":33,"../RequestQueue":37,"../constants":39,"../util":53}],43:[function(require,module,exports){
+},{"../JsonLdError":44,"../RequestQueue":48,"../constants":50,"../util":64}],54:[function(require,module,exports){
 /*
  * Copyright (c) 2017 Digital Bazaar, Inc. All rights reserved.
  */
@@ -9048,7 +9386,8 @@ const {
   isArray: _isArray,
   isObject: _isObject,
   isEmptyObject: _isEmptyObject,
-  isString: _isString
+  isString: _isString,
+  isUndefined: _isUndefined
 } = require('./types');
 
 const {
@@ -9061,7 +9400,8 @@ const {
   expandIri: _expandIri,
   getContextValue: _getContextValue,
   isKeyword: _isKeyword,
-  process: _processContext
+  process: _processContext,
+  processingMode: _processingMode
 } = require('./context');
 
 const {
@@ -9088,6 +9428,11 @@ module.exports = api;
  * @param element the element to expand.
  * @param options the expansion options.
  * @param insideList true if the element is a list, false if not.
+ * @param insideIndex true if the element is inside an index container,
+ *          false if not.
+ * @param typeScopedContext an optional type-scoped active context for
+ *          expanding values of nodes that were expressed according to
+ *          a type-scoped context.
  * @param expansionMap(info) a function that can be used to custom map
  *          unmappable values (or to throw an error when they are detected);
  *          if this function returns `undefined` then the default behavior
@@ -9101,6 +9446,8 @@ api.expand = ({
   element,
   options = {},
   insideList = false,
+  insideIndex = false,
+  typeScopedContext = null,
   expansionMap = () => undefined
 }) => {
   // nothing to expand
@@ -9116,7 +9463,8 @@ api.expand = ({
   if(!_isArray(element) && !_isObject(element)) {
     // drop free-floating scalars that are not in lists unless custom mapped
     if(!insideList && (activeProperty === null ||
-      _expandIri(activeCtx, activeProperty, {vocab: true}) === '@graph')) {
+      _expandIri(activeCtx, activeProperty, {vocab: true},
+        options) === '@graph')) {
       // TODO: use `await` to support async
       const mapped = expansionMap({
         unmappedValue: element,
@@ -9132,7 +9480,7 @@ api.expand = ({
     }
 
     // expand element according to value expansion rules
-    return _expandValue({activeCtx, activeProperty, value: element});
+    return _expandValue({activeCtx, activeProperty, value: element, options});
   }
 
   // recursively expand array
@@ -9148,13 +9496,12 @@ api.expand = ({
         activeProperty,
         element: element[i],
         options,
-        expansionMap
+        expansionMap,
+        insideIndex,
+        typeScopedContext
       });
-      if(insideList && (_isArray(e) || _isList(e))) {
-        // lists of lists are illegal
-        throw new JsonLdError(
-          'Invalid JSON-LD syntax; lists of lists are not permitted.',
-          'jsonld.SyntaxError', {code: 'list of lists'});
+      if(insideList && _isArray(e)) {
+        e = {'@list': e};
       }
 
       if(e === null) {
@@ -9185,35 +9532,72 @@ api.expand = ({
 
   // recursively expand object:
 
+  // first, expand the active property
+  const expandedActiveProperty = _expandIri(
+    activeCtx, activeProperty, {vocab: true}, options);
+
+  // second, determine if any type-scoped context should be reverted; it
+  // should only be reverted when the following are all true:
+  // 1. `element` is not a value or subject reference
+  // 2. `insideIndex` is false
+  typeScopedContext = typeScopedContext ||
+    (activeCtx.previousContext ? activeCtx : null);
+  let keys = Object.keys(element).sort();
+  let mustRevert = !insideIndex;
+  if(mustRevert && typeScopedContext && keys.length <= 2 &&
+    !keys.includes('@context')) {
+    for(const key of keys) {
+      const expandedProperty = _expandIri(
+        typeScopedContext, key, {vocab: true}, options);
+      if(expandedProperty === '@value') {
+        // value found, ensure type-scoped context is used to expand it
+        mustRevert = false;
+        activeCtx = typeScopedContext;
+        break;
+      }
+      if(expandedProperty === '@id' && keys.length === 1) {
+        // subject reference found, do not revert
+        mustRevert = false;
+        break;
+      }
+    }
+  }
+
+  if(mustRevert) {
+    // revert type scoped context
+    activeCtx = activeCtx.revertTypeScopedContext();
+  }
+
   // if element has a context, process it
   if('@context' in element) {
     activeCtx = _processContext(
       {activeCtx, localCtx: element['@context'], options});
   }
 
-  // look for scoped context on @type
-  let keys = Object.keys(element).sort();
+  // look for scoped contexts on `@type`
   for(const key of keys) {
-    const expandedProperty = _expandIri(activeCtx, key, {vocab: true});
+    const expandedProperty = _expandIri(activeCtx, key, {vocab: true}, options);
     if(expandedProperty === '@type') {
-      // set scopped contexts from @type
+      // set scoped contexts from @type
       // avoid sorting if possible
       const value = element[key];
       const types =
         Array.isArray(value) ?
           (value.length > 1 ? value.slice().sort() : value) : [value];
       for(const type of types) {
-        const ctx = _getContextValue(activeCtx, type, '@context');
-        if(ctx) {
-          activeCtx = _processContext({activeCtx, localCtx: ctx, options});
+        const ctx = _getContextValue(
+          activeCtx.previousContext || activeCtx, type, '@context');
+        if(!_isUndefined(ctx)) {
+          activeCtx = _processContext({
+            activeCtx,
+            localCtx: ctx,
+            options,
+            isTypeScopedContext: true
+          });
         }
       }
     }
   }
-
-  // expand the active property
-  const expandedActiveProperty = _expandIri(
-    activeCtx, activeProperty, {vocab: true});
 
   // process each key and value in element, ignoring @nest content
   let rval = {};
@@ -9225,6 +9609,7 @@ api.expand = ({
     expandedParent: rval,
     options,
     insideList,
+    typeScopedContext,
     expansionMap});
 
   // get property count on expanded output
@@ -9282,6 +9667,9 @@ api.expand = ({
         'Invalid JSON-LD syntax; only strings may be language-tagged.',
         'jsonld.SyntaxError',
         {code: 'invalid language-tagged value', element: rval});
+    } else if(_processingMode(activeCtx, 1.1) && types.includes('@json') &&
+      types.length === 1) {
+      // Any value of @value is okay if @type: @json
     } else if(!types.every(t =>
       (_isAbsoluteIri(t) && !(_isString(t) && t.indexOf('_:') === 0) ||
       _isEmptyObject(t)))) {
@@ -9391,7 +9779,7 @@ function _expandObject({
     }
 
     // expand property
-    let expandedProperty = _expandIri(activeCtx, key, {vocab: true});
+    let expandedProperty = _expandIri(activeCtx, key, {vocab: true}, options);
 
     // drop non-absolute IRI keys that aren't keywords unless custom mapped
     if(expandedProperty === null ||
@@ -9461,7 +9849,7 @@ function _expandObject({
       _addValue(
         expandedParent, '@id',
         _asArray(value).map(v =>
-          _isString(v) ? _expandIri(activeCtx, v, {base: true}) : v),
+          _isString(v) ? _expandIri(activeCtx, v, {base: true}, options) : v),
         {propertyIsArray: options.isFrame});
       continue;
     }
@@ -9472,7 +9860,8 @@ function _expandObject({
         expandedParent, '@type',
         _asArray(value).map(v =>
           _isString(v) ?
-            _expandIri(activeCtx, v, {base: true, vocab: true}) : v),
+            _expandIri(activeCtx.previousContext || activeCtx, v,
+              {base: true, vocab: true}, options) : v),
         {propertyIsArray: options.isFrame});
       continue;
     }
@@ -9486,16 +9875,7 @@ function _expandObject({
         'jsonld.SyntaxError', {code: 'invalid @graph value', value});
     }
 
-    // @value must not be an object or an array (unless framing)
     if(expandedProperty === '@value') {
-      if((_isObject(value) || _isArray(value)) && !options.isFrame) {
-        throw new JsonLdError(
-          'Invalid JSON-LD syntax; "@value" value must not be an ' +
-          'object or an array.',
-          'jsonld.SyntaxError',
-          {code: 'invalid value object value', value});
-      }
-
       _addValue(
         expandedParent, '@value', value, {propertyIsArray: options.isFrame});
       continue;
@@ -9594,15 +9974,21 @@ function _expandObject({
     // use potential scoped context for key
     let termCtx = activeCtx;
     const ctx = _getContextValue(activeCtx, key, '@context');
-    if(ctx) {
-      termCtx = _processContext({activeCtx, localCtx: ctx, options});
+    if(!_isUndefined(ctx)) {
+      // Note: spec's `from term` var is named `isPropertyTermScopedContext`
+      termCtx = _processContext({
+        activeCtx,
+        localCtx: ctx,
+        isPropertyTermScopedContext: true,
+        options
+      });
     }
 
     const container = _getContextValue(termCtx, key, '@container') || [];
 
     if(container.includes('@language') && _isObject(value)) {
       // handle language map container (skip if value is not an object)
-      expandedValue = _expandLanguageMap(termCtx, value);
+      expandedValue = _expandLanguageMap(termCtx, value, options);
     } else if(container.includes('@index') && _isObject(value)) {
       // handle index container (skip if value is not an object)
       const asGraph = container.includes('@graph');
@@ -9630,7 +10016,8 @@ function _expandObject({
     } else if(container.includes('@type') && _isObject(value)) {
       // handle type container (skip if value is not an object)
       expandedValue = _expandIndexMap({
-        activeCtx: termCtx,
+        // since container is `@type`, revert type scoped context when expanding
+        activeCtx: termCtx.revertTypeScopedContext(),
         options,
         activeProperty: key,
         value,
@@ -9654,11 +10041,12 @@ function _expandObject({
           insideList: isList,
           expansionMap
         });
-        if(isList && _isList(expandedValue)) {
-          throw new JsonLdError(
-            'Invalid JSON-LD syntax; lists of lists are not permitted.',
-            'jsonld.SyntaxError', {code: 'list of lists'});
-        }
+      } else if(
+        _getContextValue(activeCtx, key, '@type') === '@json') {
+        expandedValue = {
+          '@type': '@json',
+          '@value': value
+        };
       } else {
         // recursively expand value with key as new active property
         expandedValue = api.expand({
@@ -9710,7 +10098,7 @@ function _expandObject({
 
     // FIXME: can this be merged with code above to simplify?
     // merge in reverse properties
-    if(termCtx.mappings[key] && termCtx.mappings[key].reverse) {
+    if(termCtx.mappings.has(key) && termCtx.mappings.get(key).reverse) {
       const reverseMap =
         expandedParent['@reverse'] = expandedParent['@reverse'] || {};
       expandedValue = _asArray(expandedValue);
@@ -9737,12 +10125,28 @@ function _expandObject({
     });
   }
 
+  // @value must not be an object or an array (unless framing) or if @type is
+  // @json
+  if('@value' in element) {
+    const value = element['@value'];
+    if(element['@type'] === '@json' && _processingMode(activeCtx, 1.1)) {
+      // allow any value, to be verified when the object is fully expanded and
+      // the @type is @json.
+    } else if((_isObject(value) || _isArray(value)) && !options.isFrame) {
+      throw new JsonLdError(
+        'Invalid JSON-LD syntax; "@value" value must not be an ' +
+        'object or an array.',
+        'jsonld.SyntaxError',
+        {code: 'invalid value object value', value});
+    }
+  }
+
   // expand each nested key
   for(const key of nests) {
     const nestedValues = _isArray(element[key]) ? element[key] : [element[key]];
     for(const nv of nestedValues) {
       if(!_isObject(nv) || Object.keys(nv).some(k =>
-        _expandIri(activeCtx, k, {vocab: true}) === '@value')) {
+        _expandIri(activeCtx, k, {vocab: true}, options) === '@value')) {
         throw new JsonLdError(
           'Invalid JSON-LD syntax; nested value must be a node object.',
           'jsonld.SyntaxError',
@@ -9768,21 +10172,23 @@ function _expandObject({
  * @param activeCtx the active context to use.
  * @param activeProperty the active property the value is associated with.
  * @param value the value to expand.
+ * @param {Object} [options] - processing options.
  *
  * @return the expanded value.
  */
-function _expandValue({activeCtx, activeProperty, value}) {
+function _expandValue({activeCtx, activeProperty, value, options}) {
   // nothing to expand
   if(value === null || value === undefined) {
     return null;
   }
 
   // special-case expand @id and @type (skips '@id' expansion)
-  const expandedProperty = _expandIri(activeCtx, activeProperty, {vocab: true});
+  const expandedProperty = _expandIri(
+    activeCtx, activeProperty, {vocab: true}, options);
   if(expandedProperty === '@id') {
-    return _expandIri(activeCtx, value, {base: true});
+    return _expandIri(activeCtx, value, {base: true}, options);
   } else if(expandedProperty === '@type') {
-    return _expandIri(activeCtx, value, {vocab: true, base: true});
+    return _expandIri(activeCtx, value, {vocab: true, base: true}, options);
   }
 
   // get type definition from context
@@ -9790,11 +10196,13 @@ function _expandValue({activeCtx, activeProperty, value}) {
 
   // do @id expansion (automatic for @graph)
   if((type === '@id' || expandedProperty === '@graph') && _isString(value)) {
-    return {'@id': _expandIri(activeCtx, value, {base: true})};
+    return {'@id': _expandIri(activeCtx, value, {base: true}, options)};
   }
   // do @id expansion w/vocab
   if(type === '@vocab' && _isString(value)) {
-    return {'@id': _expandIri(activeCtx, value, {vocab: true, base: true})};
+    return {
+      '@id': _expandIri(activeCtx, value, {vocab: true, base: true}, options)
+    };
   }
 
   // do not expand keyword values
@@ -9828,14 +10236,15 @@ function _expandValue({activeCtx, activeProperty, value}) {
  *
  * @param activeCtx the active context to use.
  * @param languageMap the language map to expand.
+ * @param {Object} [options] - processing options.
  *
  * @return the expanded language map.
  */
-function _expandLanguageMap(activeCtx, languageMap) {
+function _expandLanguageMap(activeCtx, languageMap, options) {
   const rval = [];
   const keys = Object.keys(languageMap).sort();
   for(const key of keys) {
-    const expandedKey = _expandIri(activeCtx, key, {vocab: true});
+    const expandedKey = _expandIri(activeCtx, key, {vocab: true}, options);
     let val = languageMap[key];
     if(!_isArray(val)) {
       val = [val];
@@ -9866,11 +10275,19 @@ function _expandIndexMap(
     indexKey}) {
   const rval = [];
   const keys = Object.keys(value).sort();
+  const isTypeIndex = indexKey === '@type';
   for(let key of keys) {
     // if indexKey is @type, there may be a context defined for it
-    const ctx = _getContextValue(activeCtx, key, '@context');
-    if(ctx) {
-      activeCtx = _processContext({activeCtx, localCtx: ctx, options});
+    if(isTypeIndex) {
+      const ctx = _getContextValue(activeCtx, key, '@context');
+      if(!_isUndefined(ctx)) {
+        activeCtx = _processContext({
+          activeCtx,
+          localCtx: ctx,
+          isTypeScopedContext: true,
+          options
+        });
+      }
     }
 
     let val = value[key];
@@ -9879,11 +10296,11 @@ function _expandIndexMap(
     }
 
     // expand for @type, but also for @none
-    const expandedKey = _expandIri(activeCtx, key, {vocab: true});
+    const expandedKey = _expandIri(activeCtx, key, {vocab: true}, options);
     if(indexKey === '@id') {
       // expand document relative
-      key = _expandIri(activeCtx, key, {base: true});
-    } else if(indexKey === '@type') {
+      key = _expandIri(activeCtx, key, {base: true}, options);
+    } else if(isTypeIndex) {
       key = expandedKey;
     }
 
@@ -9893,6 +10310,7 @@ function _expandIndexMap(
       element: val,
       options,
       insideList: false,
+      insideIndex: true,
       expansionMap
     });
     for(let item of val) {
@@ -9917,7 +10335,7 @@ function _expandIndexMap(
   return rval;
 }
 
-},{"./JsonLdError":33,"./context":40,"./graphTypes":47,"./types":51,"./url":52,"./util":53}],44:[function(require,module,exports){
+},{"./JsonLdError":44,"./context":51,"./graphTypes":58,"./types":62,"./url":63,"./util":64}],55:[function(require,module,exports){
 /*
  * Copyright (c) 2017 Digital Bazaar, Inc. All rights reserved.
  */
@@ -9957,7 +10375,7 @@ api.flatten = input => {
   return flattened;
 };
 
-},{"./graphTypes":47,"./nodeMap":49}],45:[function(require,module,exports){
+},{"./graphTypes":58,"./nodeMap":60}],56:[function(require,module,exports){
 /*
  * Copyright (c) 2017 Digital Bazaar, Inc. All rights reserved.
  */
@@ -10614,12 +11032,13 @@ function _valueMatch(pattern, value) {
   return true;
 }
 
-},{"./JsonLdError":33,"./context":40,"./graphTypes":47,"./nodeMap":49,"./types":51,"./util":53}],46:[function(require,module,exports){
+},{"./JsonLdError":44,"./context":51,"./graphTypes":58,"./nodeMap":60,"./types":62,"./util":64}],57:[function(require,module,exports){
 /*
  * Copyright (c) 2017 Digital Bazaar, Inc. All rights reserved.
  */
 'use strict';
 
+const JsonLdError = require('./JsonLdError');
 const graphTypes = require('./graphTypes');
 const types = require('./types');
 const util = require('./util');
@@ -10634,6 +11053,7 @@ const {
   RDF_TYPE,
   // RDF_PLAIN_LITERAL,
   // RDF_XML_LITERAL,
+  RDF_JSON_LITERAL,
   // RDF_OBJECT,
   // RDF_LANGSTRING,
 
@@ -10841,24 +11261,6 @@ api.fromRDF = async (
         }
       }
 
-      // the list is nested in another list
-      if(property === RDF_FIRST) {
-        // empty list
-        if(node['@id'] === RDF_NIL) {
-          // can't convert rdf:nil to a @list object because it would
-          // result in a list of lists which isn't supported
-          continue;
-        }
-
-        // preserve list head
-        if(RDF_REST in graphObject[head['@id']]) {
-          head = graphObject[head['@id']][RDF_REST][0];
-        }
-
-        list.pop();
-        listNodes.pop();
-      }
-
       // transform list into @list object
       delete head['@id'];
       head['@list'] = list.reverse();
@@ -10920,6 +11322,17 @@ function _RDFToObject(o, useNativeTypes) {
     if(!type) {
       type = XSD_STRING;
     }
+    if(type === RDF_JSON_LITERAL) {
+      type = '@json';
+      try {
+        rval['@value'] = JSON.parse(rval['@value']);
+      } catch(e) {
+        throw new JsonLdError(
+          'JSON literal could not be parsed.',
+          'jsonld.InvalidJsonLiteral',
+          {code: 'invalid JSON literal', value: rval['@value'], cause: e});
+      }
+    }
     // use native types for certain xsd types
     if(useNativeTypes) {
       if(type === XSD_BOOLEAN) {
@@ -10950,7 +11363,7 @@ function _RDFToObject(o, useNativeTypes) {
   return rval;
 }
 
-},{"./constants":39,"./graphTypes":47,"./types":51,"./util":53}],47:[function(require,module,exports){
+},{"./JsonLdError":44,"./constants":50,"./graphTypes":58,"./types":62,"./util":64}],58:[function(require,module,exports){
 /*
  * Copyright (c) 2017 Digital Bazaar, Inc. All rights reserved.
  */
@@ -11071,7 +11484,7 @@ api.isBlankNode = v => {
   return false;
 };
 
-},{"./types":51}],48:[function(require,module,exports){
+},{"./types":62}],59:[function(require,module,exports){
 (function (process,global){
 /**
  * A JavaScript implementation of the JSON-LD API.
@@ -11137,8 +11550,7 @@ const {
 const {
   getInitialContext: _getInitialContext,
   process: _processContext,
-  getAllContexts: _getAllContexts,
-  expandIri: _expandIri
+  getAllContexts: _getAllContexts
 } = require('./context');
 
 const {
@@ -11162,6 +11574,9 @@ const _browser = !_nodejs &&
 /* eslint-disable indent */
 // attaches jsonld API to the given object
 const wrapper = function(jsonld) {
+
+/** Registered RDF dataset parsers hashed by content-type. */
+const _rdfParsers = {};
 
 /* Core API */
 
@@ -11540,11 +11955,10 @@ jsonld.frame = util.callbackify(async function(input, frame, options) {
 
   // if the unexpanded frame includes a key expanding to @graph, frame the
   // default graph, otherwise, the merged graph
-  let framed;
   // FIXME should look for aliases of @graph
   opts.merged = !('@graph' in frame);
   // do framing
-  framed = _frameMergedOrDefault(expanded, expandedFrame, opts);
+  const framed = _frameMergedOrDefault(expanded, expandedFrame, opts);
 
   // compact result (force @graph option to true, skip expansion,
   // check for linked embeds)
@@ -11670,7 +12084,8 @@ jsonld.fromRDF = util.callbackify(async function(dataset, options) {
     format: _isString(dataset) ? 'application/n-quads' : undefined
   });
 
-  let {format, rdfParser} = options;
+  const {format} = options;
+  let {rdfParser} = options;
 
   // handle special format
   if(format) {
@@ -12045,9 +12460,6 @@ jsonld.useDocumentLoader = function(type) {
     jsonld, Array.prototype.slice.call(arguments, 1));
 };
 
-/** Registered RDF dataset parsers hashed by content-type. */
-const _rdfParsers = {};
-
 /**
  * Registers an RDF dataset parser by content-type, for use with
  * jsonld.fromRDF. An RDF dataset parser will always be given two parameters,
@@ -12151,7 +12563,7 @@ wrapper(factory);
 module.exports = factory;
 
 }).call(this,require('_process'),typeof global !== "undefined" ? global : typeof self !== "undefined" ? self : typeof window !== "undefined" ? window : {})
-},{"./JsonLdError":33,"./JsonLdProcessor":34,"./NQuads":35,"./Rdfa":36,"./RequestQueue":37,"./compact":38,"./context":40,"./documentLoaders/node":41,"./documentLoaders/xhr":42,"./expand":43,"./flatten":44,"./frame":45,"./fromRdf":46,"./graphTypes":47,"./nodeMap":49,"./toRdf":50,"./types":51,"./url":52,"./util":53,"_process":13,"rdf-canonize":80}],49:[function(require,module,exports){
+},{"./JsonLdError":44,"./JsonLdProcessor":45,"./NQuads":46,"./Rdfa":47,"./RequestQueue":48,"./compact":49,"./context":51,"./documentLoaders/node":52,"./documentLoaders/xhr":53,"./expand":54,"./flatten":55,"./frame":56,"./fromRdf":57,"./graphTypes":58,"./nodeMap":60,"./toRdf":61,"./types":62,"./url":63,"./util":64,"_process":11,"rdf-canonize":170}],60:[function(require,module,exports){
 /*
  * Copyright (c) 2017 Digital Bazaar, Inc. All rights reserved.
  */
@@ -12201,8 +12613,8 @@ api.createMergedNodeMap = (input, options) => {
 api.createNodeMap = (input, graphs, graph, issuer, name, list) => {
   // recurse through array
   if(types.isArray(input)) {
-    for(let i = 0; i < input.length; ++i) {
-      api.createNodeMap(input[i], graphs, graph, issuer, undefined, list);
+    for(const node of input) {
+      api.createNodeMap(node, graphs, graph, issuer, undefined, list);
     }
     return;
   }
@@ -12228,6 +12640,11 @@ api.createNodeMap = (input, graphs, graph, issuer, name, list) => {
       list.push(input);
     }
     return;
+  } else if(list && graphTypes.isList(input)) {
+    const _list = [];
+    api.createNodeMap(input['@list'], graphs, graph, issuer, name, _list);
+    list.push({'@list': _list});
+    return;
   }
 
   // Note: At this point, input must be a subject.
@@ -12235,8 +12652,7 @@ api.createNodeMap = (input, graphs, graph, issuer, name, list) => {
   // spec requires @type to be named first, so assign names early
   if('@type' in input) {
     const types = input['@type'];
-    for(let i = 0; i < types.length; ++i) {
-      const type = types[i];
+    for(const type of types) {
       if(type.indexOf('_:') === 0) {
         issuer.getId(type);
       }
@@ -12259,9 +12675,7 @@ api.createNodeMap = (input, graphs, graph, issuer, name, list) => {
   const subject = subjects[name] = subjects[name] || {};
   subject['@id'] = name;
   const properties = Object.keys(input).sort();
-  for(let pi = 0; pi < properties.length; ++pi) {
-    let property = properties[pi];
-
+  for(let property of properties) {
     // skip @id
     if(property === '@id') {
       continue;
@@ -12273,8 +12687,7 @@ api.createNodeMap = (input, graphs, graph, issuer, name, list) => {
       const reverseMap = input['@reverse'];
       for(const reverseProperty in reverseMap) {
         const items = reverseMap[reverseProperty];
-        for(let ii = 0; ii < items.length; ++ii) {
-          const item = items[ii];
+        for(const item of items) {
           let itemName = item['@id'];
           if(graphTypes.isBlankNode(item)) {
             itemName = issuer.getId(itemName);
@@ -12325,9 +12738,7 @@ api.createNodeMap = (input, graphs, graph, issuer, name, list) => {
       util.addValue(subject, property, [], {propertyIsArray: true});
       continue;
     }
-    for(let oi = 0; oi < objects.length; ++oi) {
-      let o = objects[oi];
-
+    for(let o of objects) {
       if(property === '@type') {
         // rename @type blank nodes
         o = (o.indexOf('_:') === 0) ? issuer.getId(o) : o;
@@ -12344,6 +12755,10 @@ api.createNodeMap = (input, graphs, graph, issuer, name, list) => {
           subject, property, {'@id': id},
           {propertyIsArray: true, allowDuplicate: false});
         api.createNodeMap(o, graphs, graph, issuer, id);
+      } else if(graphTypes.isValue(o)) {
+        util.addValue(
+          subject, property, o,
+          {propertyIsArray: true, allowDuplicate: false});
       } else if(graphTypes.isList(o)) {
         // handle @list
         const _list = [];
@@ -12403,8 +12818,7 @@ api.mergeNodeMaps = graphs => {
   // add all non-default graphs to default graph
   const defaultGraph = graphs['@default'];
   const graphNames = Object.keys(graphs).sort();
-  for(let i = 0; i < graphNames.length; ++i) {
-    const graphName = graphNames[i];
+  for(const graphName of graphNames) {
     if(graphName === '@default') {
       continue;
     }
@@ -12419,9 +12833,8 @@ api.mergeNodeMaps = graphs => {
       subject['@graph'] = [];
     }
     const graph = subject['@graph'];
-    const ids = Object.keys(nodeMap).sort();
-    for(let ii = 0; ii < ids.length; ++ii) {
-      const node = nodeMap[ids[ii]];
+    for(const id of Object.keys(nodeMap).sort()) {
+      const node = nodeMap[id];
       // only add full subjects
       if(!graphTypes.isSubjectReference(node)) {
         graph.push(node);
@@ -12431,7 +12844,7 @@ api.mergeNodeMaps = graphs => {
   return defaultGraph;
 };
 
-},{"./JsonLdError":33,"./context":40,"./graphTypes":47,"./types":51,"./util":53}],50:[function(require,module,exports){
+},{"./JsonLdError":44,"./context":51,"./graphTypes":58,"./types":62,"./util":64}],61:[function(require,module,exports){
 /*
  * Copyright (c) 2017 Digital Bazaar, Inc. All rights reserved.
  */
@@ -12440,6 +12853,7 @@ api.mergeNodeMaps = graphs => {
 const {createNodeMap} = require('./nodeMap');
 const {isKeyword} = require('./context');
 const graphTypes = require('./graphTypes');
+const jsonCanonicalize = require('canonicalize');
 const types = require('./types');
 const util = require('./util');
 
@@ -12452,6 +12866,7 @@ const {
   RDF_TYPE,
   // RDF_PLAIN_LITERAL,
   // RDF_XML_LITERAL,
+  RDF_JSON_LITERAL,
   // RDF_OBJECT,
   RDF_LANGSTRING,
 
@@ -12519,8 +12934,7 @@ api.toRDF = (input, options) => {
  */
 function _graphToRDF(dataset, graph, graphTerm, issuer, options) {
   const ids = Object.keys(graph).sort();
-  for(let i = 0; i < ids.length; ++i) {
-    const id = ids[i];
+  for(const id of ids) {
     const node = graph[id];
     const properties = Object.keys(node).sort();
     for(let property of properties) {
@@ -12560,22 +12974,16 @@ function _graphToRDF(dataset, graph, graphTerm, issuer, options) {
           continue;
         }
 
-        // convert @list to triples
-        if(graphTypes.isList(item)) {
-          _listToRDF(
-            item['@list'], issuer, subject, predicate, dataset, graphTerm);
-        } else {
-          // convert value or node object to triple
-          const object = _objectToRDF(item);
-          // skip null objects (they are relative IRIs)
-          if(object) {
-            dataset.push({
-              subject,
-              predicate,
-              object,
-              graph: graphTerm
-            });
-          }
+        // convert list, value or node object to triple
+        const object = _objectToRDF(item, issuer, dataset, graphTerm);
+        // skip null objects (they are relative IRIs)
+        if(object) {
+          dataset.push({
+            subject,
+            predicate,
+            object,
+            graph: graphTerm
+          });
         }
       }
     }
@@ -12588,59 +12996,71 @@ function _graphToRDF(dataset, graph, graphTerm, issuer, options) {
  *
  * @param list the @list value.
  * @param issuer a IdentifierIssuer for assigning blank node names.
- * @param subject the subject for the head of the list.
- * @param predicate the predicate for the head of the list.
  * @param dataset the array of quads to append to.
  * @param graphTerm the graph term for each quad.
+ *
+ * @return the head of the list.
  */
-function _listToRDF(list, issuer, subject, predicate, dataset, graphTerm) {
+function _listToRDF(list, issuer, dataset, graphTerm) {
   const first = {termType: 'NamedNode', value: RDF_FIRST};
   const rest = {termType: 'NamedNode', value: RDF_REST};
   const nil = {termType: 'NamedNode', value: RDF_NIL};
 
+  const last = list.pop();
+  // Result is the head of the list
+  const result = last ? {termType: 'BlankNode', value: issuer.getId()} : nil;
+  let subject = result;
+
   for(const item of list) {
-    const blankNode = {termType: 'BlankNode', value: issuer.getId()};
+    const object = _objectToRDF(item, issuer, dataset, graphTerm);
+    const next = {termType: 'BlankNode', value: issuer.getId()};
     dataset.push({
       subject,
-      predicate,
-      object: blankNode,
+      predicate: first,
+      object,
       graph: graphTerm
     });
-
-    subject = blankNode;
-    predicate = first;
-    const object = _objectToRDF(item);
-
-    // skip null objects (they are relative IRIs)
-    if(object) {
-      dataset.push({
-        subject,
-        predicate,
-        object,
-        graph: graphTerm
-      });
-    }
-
-    predicate = rest;
+    dataset.push({
+      subject,
+      predicate: rest,
+      object: next,
+      graph: graphTerm
+    });
+    subject = next;
   }
 
-  dataset.push({
-    subject,
-    predicate,
-    object: nil,
-    graph: graphTerm
-  });
+  // Tail of list
+  if(last) {
+    const object = _objectToRDF(last, issuer, dataset, graphTerm);
+    dataset.push({
+      subject,
+      predicate: first,
+      object,
+      graph: graphTerm
+    });
+    dataset.push({
+      subject,
+      predicate: rest,
+      object: nil,
+      graph: graphTerm
+    });
+  }
+
+  return result;
 }
 
 /**
- * Converts a JSON-LD value object to an RDF literal or a JSON-LD string or
- * node object to an RDF resource.
+ * Converts a JSON-LD value object to an RDF literal or a JSON-LD string,
+ * node object to an RDF resource, or adds a list.
  *
  * @param item the JSON-LD value or node object.
+ * @param issuer a IdentifierIssuer for assigning blank node names.
+ * @param dataset the dataset to append RDF quads to.
+ * @param graphTerm the graph term for each quad.
  *
  * @return the RDF literal or RDF resource.
  */
-function _objectToRDF(item) {
+function _objectToRDF(item, issuer, dataset, graphTerm) {
   const object = {};
 
   // convert value object to RDF
@@ -12653,8 +13073,11 @@ function _objectToRDF(item) {
     let value = item['@value'];
     const datatype = item['@type'] || null;
 
-    // convert to XSD datatypes as appropriate
-    if(types.isBoolean(value)) {
+    // convert to XSD/JSON datatypes as appropriate
+    if(datatype === '@json') {
+      object.value = jsonCanonicalize(value);
+      object.datatype.value = RDF_JSON_LITERAL;
+    } else if(types.isBoolean(value)) {
       object.value = value.toString();
       object.datatype.value = datatype || XSD_BOOLEAN;
     } else if(types.isDouble(value) || datatype === XSD_DOUBLE) {
@@ -12675,6 +13098,10 @@ function _objectToRDF(item) {
       object.value = value;
       object.datatype.value = datatype || XSD_STRING;
     }
+  } else if(graphTypes.isList(item)) {
+    const _list = _listToRDF(item['@list'], issuer, dataset, graphTerm);
+    object.termType = _list.termType;
+    object.value = _list.value;
   } else {
     // convert string/node object to RDF
     const id = types.isObject(item) ? item['@id'] : item;
@@ -12690,7 +13117,7 @@ function _objectToRDF(item) {
   return object;
 }
 
-},{"./constants":39,"./context":40,"./graphTypes":47,"./nodeMap":49,"./types":51,"./url":52,"./util":53}],51:[function(require,module,exports){
+},{"./constants":50,"./context":51,"./graphTypes":58,"./nodeMap":60,"./types":62,"./url":63,"./util":64,"canonicalize":128}],62:[function(require,module,exports){
 /*
  * Copyright (c) 2017 Digital Bazaar, Inc. All rights reserved.
  */
@@ -12783,7 +13210,7 @@ api.isString = v => (typeof v === 'string' ||
  */
 api.isUndefined = v => typeof v === 'undefined';
 
-},{}],52:[function(require,module,exports){
+},{}],63:[function(require,module,exports){
 /*
  * Copyright (c) 2017 Digital Bazaar, Inc. All rights reserved.
  */
@@ -12805,6 +13232,7 @@ api.parsers = {
     keys: [
       'href', 'scheme', 'authority', 'path', 'query', 'fragment'
     ],
+    /* eslint-disable-next-line max-len */
     regex: /^(?:([^:\/?#]+):)?(?:\/\/([^\/?#]*))?([^?#]*)(?:\?([^#]*))?(?:#(.*))?/
   },
   full: {
@@ -12812,6 +13240,7 @@ api.parsers = {
       'href', 'protocol', 'scheme', 'authority', 'auth', 'user', 'password',
       'hostname', 'port', 'path', 'directory', 'file', 'query', 'fragment'
     ],
+    /* eslint-disable-next-line max-len */
     regex: /^(([^:\/?#]+):)?(?:\/\/((?:(([^:@]*)(?::([^:@]*))?)?@)?([^:\/?#]*)(?::(\d*))?))?(?:(((?:[^?#\/]*\/)*)([^?#]*))(?:\?([^#]*))?(?:#(.*))?)/
   }
 };
@@ -13084,7 +13513,7 @@ api.isAbsolute = v => types.isString(v) && isAbsoluteRegex.test(v);
  */
 api.isRelative = v => types.isString(v);
 
-},{"./types":51}],53:[function(require,module,exports){
+},{"./types":62}],64:[function(require,module,exports){
 (function (process,setImmediate){
 /*
  * Copyright (c) 2017 Digital Bazaar, Inc. All rights reserved.
@@ -13133,8 +13562,8 @@ if(typeof process === 'object' && typeof process.nextTick === 'function') {
 api.setImmediate = _setImmediate ? _delay : api.nextTick;
 
 /**
- * Clones an object, array, or string/number. If a typed JavaScript object
- * is given, such as a Date, it will be converted to a string.
+ * Clones an object, array, Map, Set, or string/number. If a typed JavaScript
+ * object is given, such as a Date, it will be converted to a string.
  *
  * @param value the value to clone.
  *
@@ -13147,6 +13576,16 @@ api.clone = function(value) {
       rval = [];
       for(let i = 0; i < value.length; ++i) {
         rval[i] = api.clone(value[i]);
+      }
+    } else if(value instanceof Map) {
+      rval = new Map();
+      for(const [k, v] of value) {
+        rval.set(k, api.clone(v));
+      }
+    } else if(value instanceof Set) {
+      rval = new Set();
+      for(const v of value) {
+        rval.add(api.clone(v));
       }
     } else if(types.isObject(value)) {
       rval = {};
@@ -13230,7 +13669,7 @@ api.parseLinkHeader = header => {
     const rel = result['rel'] || '';
     if(Array.isArray(rval[rel])) {
       rval[rel].push(result);
-    } else if(rel in rval) {
+    } else if(rval.hasOwnProperty(rel)) {
       rval[rel] = [rval[rel], result];
     } else {
       rval[rel] = result;
@@ -13280,7 +13719,7 @@ api.validateTypeValue = v => {
  * @return true if the subject has the given property, false if not.
  */
 api.hasProperty = (subject, property) => {
-  if(property in subject) {
+  if(subject.hasOwnProperty(property)) {
     const value = subject[property];
     return (!types.isArray(value) || value.length > 0);
   }
@@ -13327,6 +13766,8 @@ api.hasValue = (subject, property, value) => {
  * @param [options] the options to use:
  *        [propertyIsArray] true if the property is always an array, false
  *          if not (default: false).
+ *        [valueIsArray] true if the value to be added should be preserved as
+ *          an array (lists) (default: false).
  *        [allowDuplicate] true to allow duplicates, false not to (uses a
  *          simple shallow comparison of subject ID or value) (default: true).
  */
@@ -13335,19 +13776,24 @@ api.addValue = (subject, property, value, options) => {
   if(!('propertyIsArray' in options)) {
     options.propertyIsArray = false;
   }
+  if(!('valueIsArray' in options)) {
+    options.valueIsArray = false;
+  }
   if(!('allowDuplicate' in options)) {
     options.allowDuplicate = true;
   }
 
-  if(types.isArray(value)) {
+  if(options.valueIsArray) {
+    subject[property] = value;
+  } else if(types.isArray(value)) {
     if(value.length === 0 && options.propertyIsArray &&
-      !(property in subject)) {
+      !subject.hasOwnProperty(property)) {
       subject[property] = [];
     }
     for(let i = 0; i < value.length; ++i) {
       api.addValue(subject, property, value[i], options);
     }
-  } else if(property in subject) {
+  } else if(subject.hasOwnProperty(property)) {
     // check if subject already has value if duplicates not allowed
     const hasValue = (!options.allowDuplicate &&
       api.hasValue(subject, property, value));
@@ -13585,393 +14031,1285 @@ function _labelBlankNodes(issuer, element) {
 }
 
 }).call(this,require('_process'),require("timers").setImmediate)
-},{"./JsonLdError":33,"./graphTypes":47,"./types":51,"_process":13,"rdf-canonize":80,"timers":30}],54:[function(require,module,exports){
+},{"./JsonLdError":44,"./graphTypes":58,"./types":62,"_process":11,"rdf-canonize":170,"timers":30}],65:[function(require,module,exports){
+arguments[4][13][0].apply(exports,arguments)
+},{"./_stream_readable":67,"./_stream_writable":69,"core-util-is":141,"dup":13,"inherits":142,"process-nextick-args":160}],66:[function(require,module,exports){
+arguments[4][14][0].apply(exports,arguments)
+},{"./_stream_transform":68,"core-util-is":141,"dup":14,"inherits":142}],67:[function(require,module,exports){
+arguments[4][15][0].apply(exports,arguments)
+},{"./_stream_duplex":65,"./internal/streams/BufferList":70,"./internal/streams/destroy":71,"./internal/streams/stream":72,"_process":11,"core-util-is":141,"dup":15,"events":5,"inherits":142,"isarray":143,"process-nextick-args":160,"safe-buffer":74,"string_decoder/":75,"util":2}],68:[function(require,module,exports){
+arguments[4][16][0].apply(exports,arguments)
+},{"./_stream_duplex":65,"core-util-is":141,"dup":16,"inherits":142}],69:[function(require,module,exports){
+arguments[4][17][0].apply(exports,arguments)
+},{"./_stream_duplex":65,"./internal/streams/destroy":71,"./internal/streams/stream":72,"_process":11,"core-util-is":141,"dup":17,"inherits":142,"process-nextick-args":160,"safe-buffer":74,"timers":30,"util-deprecate":179}],70:[function(require,module,exports){
+arguments[4][18][0].apply(exports,arguments)
+},{"dup":18,"safe-buffer":74,"util":2}],71:[function(require,module,exports){
+arguments[4][19][0].apply(exports,arguments)
+},{"dup":19,"process-nextick-args":160}],72:[function(require,module,exports){
+arguments[4][20][0].apply(exports,arguments)
+},{"dup":20,"events":5}],73:[function(require,module,exports){
+arguments[4][24][0].apply(exports,arguments)
+},{"./lib/_stream_duplex.js":65,"./lib/_stream_passthrough.js":66,"./lib/_stream_readable.js":67,"./lib/_stream_transform.js":68,"./lib/_stream_writable.js":69,"dup":24}],74:[function(require,module,exports){
+arguments[4][21][0].apply(exports,arguments)
+},{"buffer":3,"dup":21}],75:[function(require,module,exports){
+arguments[4][22][0].apply(exports,arguments)
+},{"dup":22,"safe-buffer":74}],76:[function(require,module,exports){
+arguments[4][41][0].apply(exports,arguments)
+},{"./lib/ParserStream":77,"@rdfjs/sink":118,"dup":41}],77:[function(require,module,exports){
+const rdf = require('@rdfjs/data-model')
+const Readable = require('readable-stream')
+const N3 = require('n3')
+
+class ParserStream extends Readable {
+  constructor (input, {baseIRI = '', factory = rdf} = {}) {
+    super({
+      objectMode: true,
+      read: () => {}
+    })
+
+    const parser = new N3.Parser({baseIRI, factory})
+
+    parser.parse(input, (err, quad, prefixes) => {
+      if (err) {
+        return this.emit('error', err)
+      }
+
+      if (prefixes) {
+        Object.keys(prefixes).forEach((prefix) => {
+          this.emit('prefix', prefix, factory.namedNode(prefixes[prefix]))
+        })
+      }
+
+      this.push(quad || null)
+    })
+  }
+}
+
+module.exports = ParserStream
+
+},{"@rdfjs/data-model":32,"n3":153,"readable-stream":86}],78:[function(require,module,exports){
+arguments[4][13][0].apply(exports,arguments)
+},{"./_stream_readable":80,"./_stream_writable":82,"core-util-is":141,"dup":13,"inherits":142,"process-nextick-args":160}],79:[function(require,module,exports){
+arguments[4][14][0].apply(exports,arguments)
+},{"./_stream_transform":81,"core-util-is":141,"dup":14,"inherits":142}],80:[function(require,module,exports){
+arguments[4][15][0].apply(exports,arguments)
+},{"./_stream_duplex":78,"./internal/streams/BufferList":83,"./internal/streams/destroy":84,"./internal/streams/stream":85,"_process":11,"core-util-is":141,"dup":15,"events":5,"inherits":142,"isarray":143,"process-nextick-args":160,"safe-buffer":87,"string_decoder/":88,"util":2}],81:[function(require,module,exports){
+arguments[4][16][0].apply(exports,arguments)
+},{"./_stream_duplex":78,"core-util-is":141,"dup":16,"inherits":142}],82:[function(require,module,exports){
+arguments[4][17][0].apply(exports,arguments)
+},{"./_stream_duplex":78,"./internal/streams/destroy":84,"./internal/streams/stream":85,"_process":11,"core-util-is":141,"dup":17,"inherits":142,"process-nextick-args":160,"safe-buffer":87,"timers":30,"util-deprecate":179}],83:[function(require,module,exports){
+arguments[4][18][0].apply(exports,arguments)
+},{"dup":18,"safe-buffer":87,"util":2}],84:[function(require,module,exports){
+arguments[4][19][0].apply(exports,arguments)
+},{"dup":19,"process-nextick-args":160}],85:[function(require,module,exports){
+arguments[4][20][0].apply(exports,arguments)
+},{"dup":20,"events":5}],86:[function(require,module,exports){
+arguments[4][24][0].apply(exports,arguments)
+},{"./lib/_stream_duplex.js":78,"./lib/_stream_passthrough.js":79,"./lib/_stream_readable.js":80,"./lib/_stream_transform.js":81,"./lib/_stream_writable.js":82,"dup":24}],87:[function(require,module,exports){
+arguments[4][21][0].apply(exports,arguments)
+},{"buffer":3,"dup":21}],88:[function(require,module,exports){
+arguments[4][22][0].apply(exports,arguments)
+},{"dup":22,"safe-buffer":87}],89:[function(require,module,exports){
+const SerializerStream = require('./lib/SerializerStream')
+const Sink = require('@rdfjs/sink')
+
+class Serializer extends Sink {
+  constructor (options) {
+    super(SerializerStream, options)
+  }
+}
+
+module.exports = Serializer
+
+},{"./lib/SerializerStream":91,"@rdfjs/sink":118}],90:[function(require,module,exports){
+class ObjectEncoder {
+  constructor (stream) {
+    this.stream = stream
+    this.array = []
+  }
+
+  push (jsonld) {
+    this.array.push(jsonld)
+  }
+
+  end () {
+    this.stream.push(this.array)
+    this.stream.push(null)
+  }
+}
+
+module.exports = ObjectEncoder
+
+},{}],91:[function(require,module,exports){
+const ObjectEncoder = require('./ObjectEncoder')
+const Readable = require('readable-stream')
+const StringEncoder = require('./StringEncoder')
+
+class SerializerStream extends Readable {
+  constructor (input, {encoding = 'object'} = {}) {
+    super({
+      objectMode: true,
+      read: () => {}
+    })
+
+    if (encoding === 'object') {
+      this.encoder = new ObjectEncoder(this)
+    }
+
+    if (encoding === 'string') {
+      this.encoder = new StringEncoder(this)
+    }
+
+    if (!this.encoder) {
+      throw new Error(`unknown encoding: ${encoding}`)
+    }
+
+    input.on('data', quad => {
+      const jsonld = {}
+      let triple = jsonld
+
+      if (quad.graph.termType !== 'DefaultGraph') {
+        jsonld['@id'] = quad.graph.value
+        jsonld['@graph'] = {}
+        triple = jsonld['@graph']
+      }
+
+      triple['@id'] = SerializerStream.subjectValue(quad.subject)
+
+      if (quad.predicate.value === 'http://www.w3.org/1999/02/22-rdf-syntax-ns#type') {
+        triple['@type'] = quad.object.value
+      } else {
+        triple[quad.predicate.value] = SerializerStream.objectValue(quad.object)
+      }
+
+      this.encoder.push(jsonld)
+    })
+
+    input.on('end', () => this.encoder.end())
+
+    input.on('error', err => this.emit('error', err))
+  }
+
+  static subjectValue (subject) {
+    return subject.termType === 'BlankNode' ? '_:' + subject.value : subject.value
+  }
+
+  static objectValue (object) {
+    if (object.termType === 'NamedNode') {
+      return {'@id': object.value}
+    }
+
+    if (object.termType === 'BlankNode') {
+      return {'@id': '_:' + object.value}
+    }
+
+    if (object.language) {
+      return {'@language': object.language, '@value': object.value}
+    } else if (object.datatype && object.datatype.value !== 'http://www.w3.org/2001/XMLSchema#string') {
+      return {'@type': object.datatype.value, '@value': object.value}
+    } else {
+      return object.value
+    }
+  }
+}
+
+module.exports = SerializerStream
+
+},{"./ObjectEncoder":90,"./StringEncoder":92,"readable-stream":101}],92:[function(require,module,exports){
+class StringEncoder {
+  constructor (stream) {
+    this.stream = stream
+    this.first = true
+
+    this.stream.push('[')
+  }
+
+  push (jsonld) {
+    if (this.first) {
+      this.first = false
+    } else {
+      this.stream.push(',')
+    }
+
+    this.stream.push(JSON.stringify(jsonld))
+  }
+
+  end () {
+    this.stream.push(']')
+    this.stream.push(null)
+  }
+}
+
+module.exports = StringEncoder
+
+},{}],93:[function(require,module,exports){
+arguments[4][13][0].apply(exports,arguments)
+},{"./_stream_readable":95,"./_stream_writable":97,"core-util-is":141,"dup":13,"inherits":142,"process-nextick-args":160}],94:[function(require,module,exports){
+arguments[4][14][0].apply(exports,arguments)
+},{"./_stream_transform":96,"core-util-is":141,"dup":14,"inherits":142}],95:[function(require,module,exports){
+arguments[4][15][0].apply(exports,arguments)
+},{"./_stream_duplex":93,"./internal/streams/BufferList":98,"./internal/streams/destroy":99,"./internal/streams/stream":100,"_process":11,"core-util-is":141,"dup":15,"events":5,"inherits":142,"isarray":143,"process-nextick-args":160,"safe-buffer":102,"string_decoder/":103,"util":2}],96:[function(require,module,exports){
+arguments[4][16][0].apply(exports,arguments)
+},{"./_stream_duplex":93,"core-util-is":141,"dup":16,"inherits":142}],97:[function(require,module,exports){
+arguments[4][17][0].apply(exports,arguments)
+},{"./_stream_duplex":93,"./internal/streams/destroy":99,"./internal/streams/stream":100,"_process":11,"core-util-is":141,"dup":17,"inherits":142,"process-nextick-args":160,"safe-buffer":102,"timers":30,"util-deprecate":179}],98:[function(require,module,exports){
+arguments[4][18][0].apply(exports,arguments)
+},{"dup":18,"safe-buffer":102,"util":2}],99:[function(require,module,exports){
+arguments[4][19][0].apply(exports,arguments)
+},{"dup":19,"process-nextick-args":160}],100:[function(require,module,exports){
+arguments[4][20][0].apply(exports,arguments)
+},{"dup":20,"events":5}],101:[function(require,module,exports){
+arguments[4][24][0].apply(exports,arguments)
+},{"./lib/_stream_duplex.js":93,"./lib/_stream_passthrough.js":94,"./lib/_stream_readable.js":95,"./lib/_stream_transform.js":96,"./lib/_stream_writable.js":97,"dup":24}],102:[function(require,module,exports){
+arguments[4][21][0].apply(exports,arguments)
+},{"buffer":3,"dup":21}],103:[function(require,module,exports){
+arguments[4][22][0].apply(exports,arguments)
+},{"dup":22,"safe-buffer":102}],104:[function(require,module,exports){
+const SerializerStream = require('./lib/SerializerStream')
+const Sink = require('@rdfjs/sink')
+
+class Serializer extends Sink {
+  constructor () {
+    super(SerializerStream)
+  }
+}
+
+module.exports = Serializer
+
+},{"./lib/SerializerStream":105,"@rdfjs/sink":118}],105:[function(require,module,exports){
+const quadToNTriples = require('@rdfjs/to-ntriples').quadToNTriples
+const Readable = require('readable-stream')
+
+class SerializerStream extends Readable {
+  constructor (input) {
+    super({
+      read: () => {}
+    })
+
+    input.on('data', quad => {
+      this.push(quadToNTriples(quad) + '\n')
+    })
+
+    input.on('end', () => {
+      this.push(null)
+    })
+
+    input.on('error', err => {
+      this.emit('error', err)
+    })
+  }
+}
+
+module.exports = SerializerStream
+
+},{"@rdfjs/to-ntriples":119,"readable-stream":114}],106:[function(require,module,exports){
+arguments[4][13][0].apply(exports,arguments)
+},{"./_stream_readable":108,"./_stream_writable":110,"core-util-is":141,"dup":13,"inherits":142,"process-nextick-args":160}],107:[function(require,module,exports){
+arguments[4][14][0].apply(exports,arguments)
+},{"./_stream_transform":109,"core-util-is":141,"dup":14,"inherits":142}],108:[function(require,module,exports){
+arguments[4][15][0].apply(exports,arguments)
+},{"./_stream_duplex":106,"./internal/streams/BufferList":111,"./internal/streams/destroy":112,"./internal/streams/stream":113,"_process":11,"core-util-is":141,"dup":15,"events":5,"inherits":142,"isarray":143,"process-nextick-args":160,"safe-buffer":115,"string_decoder/":116,"util":2}],109:[function(require,module,exports){
+arguments[4][16][0].apply(exports,arguments)
+},{"./_stream_duplex":106,"core-util-is":141,"dup":16,"inherits":142}],110:[function(require,module,exports){
+arguments[4][17][0].apply(exports,arguments)
+},{"./_stream_duplex":106,"./internal/streams/destroy":112,"./internal/streams/stream":113,"_process":11,"core-util-is":141,"dup":17,"inherits":142,"process-nextick-args":160,"safe-buffer":115,"timers":30,"util-deprecate":179}],111:[function(require,module,exports){
+arguments[4][18][0].apply(exports,arguments)
+},{"dup":18,"safe-buffer":115,"util":2}],112:[function(require,module,exports){
+arguments[4][19][0].apply(exports,arguments)
+},{"dup":19,"process-nextick-args":160}],113:[function(require,module,exports){
+arguments[4][20][0].apply(exports,arguments)
+},{"dup":20,"events":5}],114:[function(require,module,exports){
+arguments[4][24][0].apply(exports,arguments)
+},{"./lib/_stream_duplex.js":106,"./lib/_stream_passthrough.js":107,"./lib/_stream_readable.js":108,"./lib/_stream_transform.js":109,"./lib/_stream_writable.js":110,"dup":24}],115:[function(require,module,exports){
+arguments[4][21][0].apply(exports,arguments)
+},{"buffer":3,"dup":21}],116:[function(require,module,exports){
+arguments[4][22][0].apply(exports,arguments)
+},{"dup":22,"safe-buffer":115}],117:[function(require,module,exports){
+class SinkMap extends Map {
+  import (key, input, options) {
+    const parser = this.get(key)
+
+    if (!parser) {
+      return null
+    }
+
+    return parser.import(input, options)
+  }
+}
+
+module.exports = SinkMap
+
+},{}],118:[function(require,module,exports){
+class Sink {
+  constructor (Impl, options) {
+    this.Impl = Impl
+    this.options = options
+  }
+
+  import (input, options) {
+    const output = new this.Impl(input, Object.assign({}, this.options, options))
+
+    input.on('end', () => {
+      if (!output.readable) {
+        output.emit('end')
+      }
+    })
+
+    input.on('error', (err) => {
+      output.emit('error', err)
+    })
+
+    return output
+  }
+}
+
+module.exports = Sink
+
+},{}],119:[function(require,module,exports){
+const quad = require('./lib/quad')
+const term = require('./lib/term')
+
 module.exports = {
-  DataFactory:  require('./lib/N3DataFactory'),
-  Lexer:        require('./lib/N3Lexer'),
-  Parser:       require('./lib/N3Parser'),
-  Writer:       require('./lib/N3Writer'),
-  Store:        require('./lib/N3Store'),
-  StreamParser: require('./lib/N3StreamParser'),
-  StreamWriter: require('./lib/N3StreamWriter'),
-  Util:         require('./lib/N3Util'),
+  quadToNTriples: quad,
+  termToNTriples: term
+}
+
+},{"./lib/quad":124,"./lib/term":125}],120:[function(require,module,exports){
+function blankNode (blankNode) {
+  return '_:' + blankNode.value // TODO: escape special chars
+}
+
+module.exports = blankNode
+
+},{}],121:[function(require,module,exports){
+function defaultGraph (defaultGraph) {
+  return ''
+}
+
+module.exports = defaultGraph
+
+},{}],122:[function(require,module,exports){
+const namedNode = require('./namedNode')
+
+const echarRegEx = new RegExp('["\\\\\n\r]') // eslint-disable-line no-control-regex
+const echarRegExAll = new RegExp('["\\\\\n\r]', 'g') // eslint-disable-line no-control-regex
+
+const echarReplacement = {
+  '"': '\\"',
+  '\\': '\\\\',
+  '\n': '\\n',
+  '\r': '\\r'
+}
+
+function echarReplacer (char) {
+  return echarReplacement[char]
+}
+
+function escapeValue (value) {
+  if (echarRegEx.test(value)) {
+    return value.replace(echarRegExAll, echarReplacer)
+  }
+
+  return value
+}
+
+function literal (literal) {
+  const escapedValue = escapeValue(literal.value)
+
+  if (literal.datatype.value === 'http://www.w3.org/2001/XMLSchema#string') {
+    return '"' + escapedValue + '"'
+  }
+
+  if (literal.datatype.value === 'http://www.w3.org/1999/02/22-rdf-syntax-ns#langString') {
+    return '"' + escapedValue + '"@' + literal.language
+  }
+
+  return '"' + escapedValue + '"^^' + namedNode(literal.datatype)
+}
+
+module.exports = literal
+
+},{"./namedNode":123}],123:[function(require,module,exports){
+function namedNode (namedNode) {
+  return '<' + namedNode.value + '>' // TODO: escape special chars
+}
+
+module.exports = namedNode
+
+},{}],124:[function(require,module,exports){
+const term = require('./term')
+
+function quad (quad) {
+  const subjectString = term(quad.subject)
+  const predicateString = term(quad.predicate)
+  const objectString = term(quad.object)
+  const graphString = term(quad.graph)
+
+  return `${subjectString} ${predicateString} ${objectString} ${graphString ? graphString + ' ' : ''}.`
+}
+
+module.exports = quad
+
+},{"./term":125}],125:[function(require,module,exports){
+const blankNode = require('./blankNode')
+const defaultGraph = require('./defaultGraph')
+const literal = require('./literal')
+const namedNode = require('./namedNode')
+const variable = require('./variable')
+
+function term (term) {
+  switch (term.termType) {
+    case 'BlankNode':
+      return blankNode(term)
+    case 'DefaultGraph':
+      return defaultGraph(term)
+    case 'Literal':
+      return literal(term)
+    case 'NamedNode':
+      return namedNode(term)
+    case 'Variable':
+      return variable(term)
+    default:
+      return undefined
+  }
+}
+
+module.exports = term
+
+},{"./blankNode":120,"./defaultGraph":121,"./literal":122,"./namedNode":123,"./variable":126}],126:[function(require,module,exports){
+function variable (variable) {
+  return '?' + variable.value // TODO: escape special chars
+}
+
+module.exports = variable
+
+},{}],127:[function(require,module,exports){
+(function (Buffer){
+var toString = Object.prototype.toString
+
+var isModern = (
+  typeof Buffer.alloc === 'function' &&
+  typeof Buffer.allocUnsafe === 'function' &&
+  typeof Buffer.from === 'function'
+)
+
+function isArrayBuffer (input) {
+  return toString.call(input).slice(8, -1) === 'ArrayBuffer'
+}
+
+function fromArrayBuffer (obj, byteOffset, length) {
+  byteOffset >>>= 0
+
+  var maxLength = obj.byteLength - byteOffset
+
+  if (maxLength < 0) {
+    throw new RangeError("'offset' is out of bounds")
+  }
+
+  if (length === undefined) {
+    length = maxLength
+  } else {
+    length >>>= 0
+
+    if (length > maxLength) {
+      throw new RangeError("'length' is out of bounds")
+    }
+  }
+
+  return isModern
+    ? Buffer.from(obj.slice(byteOffset, byteOffset + length))
+    : new Buffer(new Uint8Array(obj.slice(byteOffset, byteOffset + length)))
+}
+
+function fromString (string, encoding) {
+  if (typeof encoding !== 'string' || encoding === '') {
+    encoding = 'utf8'
+  }
+
+  if (!Buffer.isEncoding(encoding)) {
+    throw new TypeError('"encoding" must be a valid string encoding')
+  }
+
+  return isModern
+    ? Buffer.from(string, encoding)
+    : new Buffer(string, encoding)
+}
+
+function bufferFrom (value, encodingOrOffset, length) {
+  if (typeof value === 'number') {
+    throw new TypeError('"value" argument must not be a number')
+  }
+
+  if (isArrayBuffer(value)) {
+    return fromArrayBuffer(value, encodingOrOffset, length)
+  }
+
+  if (typeof value === 'string') {
+    return fromString(value, encodingOrOffset)
+  }
+
+  return isModern
+    ? Buffer.from(value)
+    : new Buffer(value)
+}
+
+module.exports = bufferFrom
+
+}).call(this,require("buffer").Buffer)
+},{"buffer":3}],128:[function(require,module,exports){
+/* jshint esversion: 6 */
+/* jslint node: true */
+'use strict';
+
+module.exports = function (object) {
+  return serialize(object);
+
+  function serialize (object) {
+    if (object === null || typeof object !== 'object' || object.toJSON != null) {
+      return JSON.stringify(object);
+    }
+    if (Array.isArray(object) && object.length === 0) {
+      return '[]';
+    }
+    if (Array.isArray(object) && object.length === 1) {
+      return '[' + serialize(object[0]) + ']';
+    }
+    if (Array.isArray(object)) {
+      return '[' + object.reduce((t, cv, ci) => {
+        t = (ci === 1 ? serialize(t) : t);
+        return t + ',' + serialize(cv);
+      }) + ']';
+    }
+    const keys = Object.keys(object);
+    if (keys.length === 0) {
+      return '{}';
+    }
+    if (keys.length === 1) {
+      return '{' + serialize(keys[0]) + ':' + serialize(object[keys[0]]) + '}';
+    }
+    return '{' + keys.sort().reduce((t, cv, ci) => {
+      t = (ci === 1 ? serialize(t) + ':' + serialize(object[t]) : t);
+      return t + ',' + serialize(cv) + ':' + serialize(object[cv]);
+    }) + '}';
+  }
 };
 
-},{"./lib/N3DataFactory":56,"./lib/N3Lexer":57,"./lib/N3Parser":58,"./lib/N3Store":59,"./lib/N3StreamParser":60,"./lib/N3StreamWriter":61,"./lib/N3Util":62,"./lib/N3Writer":63}],55:[function(require,module,exports){
-var RDF  = 'http://www.w3.org/1999/02/22-rdf-syntax-ns#',
-    XSD  = 'http://www.w3.org/2001/XMLSchema#',
-    SWAP = 'http://www.w3.org/2000/10/swap/';
+},{}],129:[function(require,module,exports){
+(function (Buffer){
+var Writable = require('readable-stream').Writable
+var inherits = require('inherits')
+var bufferFrom = require('buffer-from')
 
-module.exports = {
+if (typeof Uint8Array === 'undefined') {
+  var U8 = require('typedarray').Uint8Array
+} else {
+  var U8 = Uint8Array
+}
+
+function ConcatStream(opts, cb) {
+  if (!(this instanceof ConcatStream)) return new ConcatStream(opts, cb)
+
+  if (typeof opts === 'function') {
+    cb = opts
+    opts = {}
+  }
+  if (!opts) opts = {}
+
+  var encoding = opts.encoding
+  var shouldInferEncoding = false
+
+  if (!encoding) {
+    shouldInferEncoding = true
+  } else {
+    encoding =  String(encoding).toLowerCase()
+    if (encoding === 'u8' || encoding === 'uint8') {
+      encoding = 'uint8array'
+    }
+  }
+
+  Writable.call(this, { objectMode: true })
+
+  this.encoding = encoding
+  this.shouldInferEncoding = shouldInferEncoding
+
+  if (cb) this.on('finish', function () { cb(this.getBody()) })
+  this.body = []
+}
+
+module.exports = ConcatStream
+inherits(ConcatStream, Writable)
+
+ConcatStream.prototype._write = function(chunk, enc, next) {
+  this.body.push(chunk)
+  next()
+}
+
+ConcatStream.prototype.inferEncoding = function (buff) {
+  var firstBuffer = buff === undefined ? this.body[0] : buff;
+  if (Buffer.isBuffer(firstBuffer)) return 'buffer'
+  if (typeof Uint8Array !== 'undefined' && firstBuffer instanceof Uint8Array) return 'uint8array'
+  if (Array.isArray(firstBuffer)) return 'array'
+  if (typeof firstBuffer === 'string') return 'string'
+  if (Object.prototype.toString.call(firstBuffer) === "[object Object]") return 'object'
+  return 'buffer'
+}
+
+ConcatStream.prototype.getBody = function () {
+  if (!this.encoding && this.body.length === 0) return []
+  if (this.shouldInferEncoding) this.encoding = this.inferEncoding()
+  if (this.encoding === 'array') return arrayConcat(this.body)
+  if (this.encoding === 'string') return stringConcat(this.body)
+  if (this.encoding === 'buffer') return bufferConcat(this.body)
+  if (this.encoding === 'uint8array') return u8Concat(this.body)
+  return this.body
+}
+
+var isArray = Array.isArray || function (arr) {
+  return Object.prototype.toString.call(arr) == '[object Array]'
+}
+
+function isArrayish (arr) {
+  return /Array\]$/.test(Object.prototype.toString.call(arr))
+}
+
+function isBufferish (p) {
+  return typeof p === 'string' || isArrayish(p) || (p && typeof p.subarray === 'function')
+}
+
+function stringConcat (parts) {
+  var strings = []
+  var needsToString = false
+  for (var i = 0; i < parts.length; i++) {
+    var p = parts[i]
+    if (typeof p === 'string') {
+      strings.push(p)
+    } else if (Buffer.isBuffer(p)) {
+      strings.push(p)
+    } else if (isBufferish(p)) {
+      strings.push(bufferFrom(p))
+    } else {
+      strings.push(bufferFrom(String(p)))
+    }
+  }
+  if (Buffer.isBuffer(parts[0])) {
+    strings = Buffer.concat(strings)
+    strings = strings.toString('utf8')
+  } else {
+    strings = strings.join('')
+  }
+  return strings
+}
+
+function bufferConcat (parts) {
+  var bufs = []
+  for (var i = 0; i < parts.length; i++) {
+    var p = parts[i]
+    if (Buffer.isBuffer(p)) {
+      bufs.push(p)
+    } else if (isBufferish(p)) {
+      bufs.push(bufferFrom(p))
+    } else {
+      bufs.push(bufferFrom(String(p)))
+    }
+  }
+  return Buffer.concat(bufs)
+}
+
+function arrayConcat (parts) {
+  var res = []
+  for (var i = 0; i < parts.length; i++) {
+    res.push.apply(res, parts[i])
+  }
+  return res
+}
+
+function u8Concat (parts) {
+  var len = 0
+  for (var i = 0; i < parts.length; i++) {
+    if (typeof parts[i] === 'string') {
+      parts[i] = bufferFrom(parts[i])
+    }
+    len += parts[i].length
+  }
+  var u8 = new U8(len)
+  for (var i = 0, offset = 0; i < parts.length; i++) {
+    var part = parts[i]
+    for (var j = 0; j < part.length; j++) {
+      u8[offset++] = part[j]
+    }
+  }
+  return u8
+}
+
+}).call(this,require("buffer").Buffer)
+},{"buffer":3,"buffer-from":127,"inherits":142,"readable-stream":138,"typedarray":178}],130:[function(require,module,exports){
+arguments[4][13][0].apply(exports,arguments)
+},{"./_stream_readable":132,"./_stream_writable":134,"core-util-is":141,"dup":13,"inherits":142,"process-nextick-args":160}],131:[function(require,module,exports){
+arguments[4][14][0].apply(exports,arguments)
+},{"./_stream_transform":133,"core-util-is":141,"dup":14,"inherits":142}],132:[function(require,module,exports){
+arguments[4][15][0].apply(exports,arguments)
+},{"./_stream_duplex":130,"./internal/streams/BufferList":135,"./internal/streams/destroy":136,"./internal/streams/stream":137,"_process":11,"core-util-is":141,"dup":15,"events":5,"inherits":142,"isarray":143,"process-nextick-args":160,"safe-buffer":139,"string_decoder/":140,"util":2}],133:[function(require,module,exports){
+arguments[4][16][0].apply(exports,arguments)
+},{"./_stream_duplex":130,"core-util-is":141,"dup":16,"inherits":142}],134:[function(require,module,exports){
+arguments[4][17][0].apply(exports,arguments)
+},{"./_stream_duplex":130,"./internal/streams/destroy":136,"./internal/streams/stream":137,"_process":11,"core-util-is":141,"dup":17,"inherits":142,"process-nextick-args":160,"safe-buffer":139,"timers":30,"util-deprecate":179}],135:[function(require,module,exports){
+arguments[4][18][0].apply(exports,arguments)
+},{"dup":18,"safe-buffer":139,"util":2}],136:[function(require,module,exports){
+arguments[4][19][0].apply(exports,arguments)
+},{"dup":19,"process-nextick-args":160}],137:[function(require,module,exports){
+arguments[4][20][0].apply(exports,arguments)
+},{"dup":20,"events":5}],138:[function(require,module,exports){
+arguments[4][24][0].apply(exports,arguments)
+},{"./lib/_stream_duplex.js":130,"./lib/_stream_passthrough.js":131,"./lib/_stream_readable.js":132,"./lib/_stream_transform.js":133,"./lib/_stream_writable.js":134,"dup":24}],139:[function(require,module,exports){
+arguments[4][21][0].apply(exports,arguments)
+},{"buffer":3,"dup":21}],140:[function(require,module,exports){
+arguments[4][22][0].apply(exports,arguments)
+},{"dup":22,"safe-buffer":139}],141:[function(require,module,exports){
+(function (Buffer){
+// Copyright Joyent, Inc. and other Node contributors.
+//
+// Permission is hereby granted, free of charge, to any person obtaining a
+// copy of this software and associated documentation files (the
+// "Software"), to deal in the Software without restriction, including
+// without limitation the rights to use, copy, modify, merge, publish,
+// distribute, sublicense, and/or sell copies of the Software, and to permit
+// persons to whom the Software is furnished to do so, subject to the
+// following conditions:
+//
+// The above copyright notice and this permission notice shall be included
+// in all copies or substantial portions of the Software.
+//
+// THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
+// OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+// MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN
+// NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM,
+// DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR
+// OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE
+// USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+// NOTE: These type checking functions intentionally don't use `instanceof`
+// because it is fragile and can be easily faked with `Object.create()`.
+
+function isArray(arg) {
+  if (Array.isArray) {
+    return Array.isArray(arg);
+  }
+  return objectToString(arg) === '[object Array]';
+}
+exports.isArray = isArray;
+
+function isBoolean(arg) {
+  return typeof arg === 'boolean';
+}
+exports.isBoolean = isBoolean;
+
+function isNull(arg) {
+  return arg === null;
+}
+exports.isNull = isNull;
+
+function isNullOrUndefined(arg) {
+  return arg == null;
+}
+exports.isNullOrUndefined = isNullOrUndefined;
+
+function isNumber(arg) {
+  return typeof arg === 'number';
+}
+exports.isNumber = isNumber;
+
+function isString(arg) {
+  return typeof arg === 'string';
+}
+exports.isString = isString;
+
+function isSymbol(arg) {
+  return typeof arg === 'symbol';
+}
+exports.isSymbol = isSymbol;
+
+function isUndefined(arg) {
+  return arg === void 0;
+}
+exports.isUndefined = isUndefined;
+
+function isRegExp(re) {
+  return objectToString(re) === '[object RegExp]';
+}
+exports.isRegExp = isRegExp;
+
+function isObject(arg) {
+  return typeof arg === 'object' && arg !== null;
+}
+exports.isObject = isObject;
+
+function isDate(d) {
+  return objectToString(d) === '[object Date]';
+}
+exports.isDate = isDate;
+
+function isError(e) {
+  return (objectToString(e) === '[object Error]' || e instanceof Error);
+}
+exports.isError = isError;
+
+function isFunction(arg) {
+  return typeof arg === 'function';
+}
+exports.isFunction = isFunction;
+
+function isPrimitive(arg) {
+  return arg === null ||
+         typeof arg === 'boolean' ||
+         typeof arg === 'number' ||
+         typeof arg === 'string' ||
+         typeof arg === 'symbol' ||  // ES6 symbol
+         typeof arg === 'undefined';
+}
+exports.isPrimitive = isPrimitive;
+
+exports.isBuffer = Buffer.isBuffer;
+
+function objectToString(o) {
+  return Object.prototype.toString.call(o);
+}
+
+}).call(this,{"isBuffer":require("../../../../../../../../../../AppData/Roaming/npm/node_modules/browserify/node_modules/is-buffer/index.js")})
+},{"../../../../../../../../../../AppData/Roaming/npm/node_modules/browserify/node_modules/is-buffer/index.js":8}],142:[function(require,module,exports){
+arguments[4][7][0].apply(exports,arguments)
+},{"dup":7}],143:[function(require,module,exports){
+arguments[4][9][0].apply(exports,arguments)
+},{"dup":9}],144:[function(require,module,exports){
+"use strict";
+
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+exports.default = void 0;
+var RDF = 'http://www.w3.org/1999/02/22-rdf-syntax-ns#',
+    XSD = 'http://www.w3.org/2001/XMLSchema#',
+    SWAP = 'http://www.w3.org/2000/10/swap/';
+var _default = {
   xsd: {
     decimal: XSD + 'decimal',
     boolean: XSD + 'boolean',
-    double:  XSD + 'double',
+    double: XSD + 'double',
     integer: XSD + 'integer',
-    string:  XSD + 'string',
+    string: XSD + 'string'
   },
   rdf: {
-    type:       RDF + 'type',
-    nil:        RDF + 'nil',
-    first:      RDF + 'first',
-    rest:       RDF + 'rest',
-    langString: RDF + 'langString',
+    type: RDF + 'type',
+    nil: RDF + 'nil',
+    first: RDF + 'first',
+    rest: RDF + 'rest',
+    langString: RDF + 'langString'
   },
   owl: {
-    sameAs: 'http://www.w3.org/2002/07/owl#sameAs',
+    sameAs: 'http://www.w3.org/2002/07/owl#sameAs'
   },
   r: {
     forSome: SWAP + 'reify#forSome',
-    forAll:  SWAP + 'reify#forAll',
+    forAll: SWAP + 'reify#forAll'
   },
   log: {
-    implies: SWAP + 'log#implies',
-  },
+    implies: SWAP + 'log#implies'
+  }
 };
+exports.default = _default;
+},{}],145:[function(require,module,exports){
+"use strict";
 
-},{}],56:[function(require,module,exports){
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+exports.default = void 0;
+
+var _IRIs = _interopRequireDefault(require("./IRIs"));
+
+function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
+
 // N3.js implementations of the RDF/JS core data types
 // See https://github.com/rdfjs/representation-task-force/blob/master/interface-spec.md
-
-var namespaces = require('./IRIs');
-var rdf = namespaces.rdf,
-    xsd = namespaces.xsd;
-
+const {
+  rdf,
+  xsd
+} = _IRIs.default;
 var DataFactory, DEFAULTGRAPH;
-
-var _blankNodeCounter = 0;
+var _blankNodeCounter = 0; // ## Term constructor
 
 class Term {
   constructor(id) {
     this.id = id;
-  }
+  } // ### The value of this term
 
-  // ### The term type of this term
-  get termType() {
-    return this.constructor.name;
-  }
 
-  // ### The value of this term
   get value() {
     return this.id;
-  }
+  } // ### Returns whether this object represents the same term as the other
 
-  // ### Returns whether this object represents the same term as the other
+
   equals(other) {
     // If both terms were created by this library,
     // equality can be computed through ids
-    if (other instanceof Term)
-      return this.id === other.id;
-    // Otherwise, compare term type and value
-    return !!other && this.termType === other.termType &&
-                      this.value    === other.value;
-  }
+    if (other instanceof Term) return this.id === other.id; // Otherwise, compare term type and value
 
-  // ### Returns a plain object representation of this term
+    return !!other && this.termType === other.termType && this.value === other.value;
+  } // ### Returns a plain object representation of this term
+
+
   toJSON() {
     return {
       termType: this.termType,
-      value:    this.value,
+      value: this.value
     };
   }
-}
+
+} // ## NamedNode constructor
 
 
-// ## NamedNode constructor
-class NamedNode extends Term {}
-NamedNode.name = 'NamedNode';
+class NamedNode extends Term {
+  // ### The term type of this term
+  get termType() {
+    return 'NamedNode';
+  }
+
+} // ## Literal constructor
 
 
-// ## Literal constructor
 class Literal extends Term {
-  // ### The text value of this literal
+  // ### The term type of this term
+  get termType() {
+    return 'Literal';
+  } // ### The text value of this literal
+
+
   get value() {
     return this.id.substring(1, this.id.lastIndexOf('"'));
-  }
+  } // ### The language of this literal
 
-  // ### The language of this literal
+
   get language() {
     // Find the last quotation mark (e.g., '"abc"@en-us')
-    var id = this.id, atPos = id.lastIndexOf('"') + 1;
-    // If "@" it follows, return the remaining substring; empty otherwise
-    return atPos < id.length && id[atPos++] === '@' ? id.substr(atPos).toLowerCase() : '';
-  }
+    var id = this.id,
+        atPos = id.lastIndexOf('"') + 1; // If "@" it follows, return the remaining substring; empty otherwise
 
-  // ### The datatype IRI of this literal
+    return atPos < id.length && id[atPos++] === '@' ? id.substr(atPos).toLowerCase() : '';
+  } // ### The datatype IRI of this literal
+
+
   get datatype() {
     return new NamedNode(this.datatypeString);
-  }
+  } // ### The datatype string of this literal
 
-  // ### The datatype string of this literal
+
   get datatypeString() {
     // Find the last quotation mark (e.g., '"abc"^^http://ex.org/types#t')
-    var id = this.id, dtPos = id.lastIndexOf('"') + 1, ch;
-    // If "^" it follows, return the remaining substring
-    return dtPos < id.length && (ch = id[dtPos]) === '^' ? id.substr(dtPos + 2) :
-           // If "@" follows, return rdf:langString; xsd:string otherwise
-           (ch !== '@' ? xsd.string : rdf.langString);
-  }
+    var id = this.id,
+        dtPos = id.lastIndexOf('"') + 1,
+        ch; // If "^" it follows, return the remaining substring
 
-  // ### Returns whether this object represents the same term as the other
+    return dtPos < id.length && (ch = id[dtPos]) === '^' ? id.substr(dtPos + 2) : // If "@" follows, return rdf:langString; xsd:string otherwise
+    ch !== '@' ? xsd.string : rdf.langString;
+  } // ### Returns whether this object represents the same term as the other
+
+
   equals(other) {
     // If both literals were created by this library,
     // equality can be computed through ids
-    if (other instanceof Literal)
-      return this.id === other.id;
-    // Otherwise, compare term type, value, language, and datatype
-    return !!other && !!other.datatype &&
-                      this.termType === other.termType &&
-                      this.value    === other.value    &&
-                      this.language === other.language &&
-                      this.datatype.value === other.datatype.value;
+    if (other instanceof Literal) return this.id === other.id; // Otherwise, compare term type, value, language, and datatype
+
+    return !!other && !!other.datatype && this.termType === other.termType && this.value === other.value && this.language === other.language && this.datatype.value === other.datatype.value;
   }
 
   toJSON() {
     return {
       termType: this.termType,
-      value:    this.value,
+      value: this.value,
       language: this.language,
-      datatype: { termType: 'NamedNode', value: this.datatypeString },
+      datatype: {
+        termType: 'NamedNode',
+        value: this.datatypeString
+      }
     };
   }
-}
-Literal.name = 'Literal';
 
-// ## BlankNode constructor
+} // ## BlankNode constructor
+
+
 class BlankNode extends Term {
   constructor(name) {
     super('_:' + name);
-  }
+  } // ### The term type of this term
 
-  // ### The name of this blank node
+
+  get termType() {
+    return 'BlankNode';
+  } // ### The name of this blank node
+
+
   get value() {
     return this.id.substr(2);
   }
+
 }
-BlankNode.name = 'BlankNode';
 
 class Variable extends Term {
   constructor(name) {
     super('?' + name);
-  }
+  } // ### The term type of this term
 
-  // ### The name of this variable
+
+  get termType() {
+    return 'Variable';
+  } // ### The name of this variable
+
+
   get value() {
     return this.id.substr(1);
   }
-}
-Variable.name = 'Variable';
 
-// ## DefaultGraph constructor
+} // ## DefaultGraph constructor
+
+
 class DefaultGraph extends Term {
   constructor() {
     super('');
     return DEFAULTGRAPH || this;
-  }
+  } // ### The term type of this term
 
-  // ### Returns whether this object represents the same term as the other
+
+  get termType() {
+    return 'DefaultGraph';
+  } // ### Returns whether this object represents the same term as the other
+
+
   equals(other) {
     // If both terms were created by this library,
     // equality can be computed through strict equality;
     // otherwise, compare term types.
-    return (this === other) || (!!other && (this.termType === other.termType));
+    return this === other || !!other && this.termType === other.termType;
   }
-}
-DefaultGraph.name = 'DefaultGraph';
 
-// ## DefaultGraph singleton
-DEFAULTGRAPH = new DefaultGraph();
+} // ## DefaultGraph singleton
 
 
-// ### Constructs a term from the given internal string ID
+DEFAULTGRAPH = new DefaultGraph(); // ### Constructs a term from the given internal string ID
+
 function fromId(id, factory) {
-  factory = factory || DataFactory;
+  factory = factory || DataFactory; // Falsy value or empty string indicate the default graph
 
-  // Falsy value or empty string indicate the default graph
-  if (!id)
-    return factory.defaultGraph();
+  if (!id) return factory.defaultGraph(); // Identify the term type based on the first character
 
-  // Identify the term type based on the first character
   switch (id[0]) {
-  case '_': return factory.blankNode(id.substr(2));
-  case '?': return factory.variable(id.substr(1));
-  case '"':
-    // Shortcut for internal literals
-    if (factory === DataFactory)
-      return new Literal(id);
-    // Literal without datatype or language
-    if (id[id.length - 1] === '"')
-      return factory.literal(id.substr(1, id.length - 2));
-    // Literal with datatype or language
-    var endPos = id.lastIndexOf('"', id.length - 1);
-    return factory.literal(id.substr(1, endPos - 1),
-            id[endPos + 1] === '@' ? id.substr(endPos + 2)
-                                   : factory.namedNode(id.substr(endPos + 3)));
-  default:  return factory.namedNode(id);
-  }
-}
+    case '_':
+      return factory.blankNode(id.substr(2));
 
-// ### Constructs an internal string ID from the given term or ID string
+    case '?':
+      return factory.variable(id.substr(1));
+
+    case '"':
+      // Shortcut for internal literals
+      if (factory === DataFactory) return new Literal(id); // Literal without datatype or language
+
+      if (id[id.length - 1] === '"') return factory.literal(id.substr(1, id.length - 2)); // Literal with datatype or language
+
+      var endPos = id.lastIndexOf('"', id.length - 1);
+      return factory.literal(id.substr(1, endPos - 1), id[endPos + 1] === '@' ? id.substr(endPos + 2) : factory.namedNode(id.substr(endPos + 3)));
+
+    default:
+      return factory.namedNode(id);
+  }
+} // ### Constructs an internal string ID from the given term or ID string
+
+
 function toId(term) {
-  if (typeof term === 'string')
-    return term;
-  if (term instanceof Term)
-    return term.id;
-  if (!term)
-    return DEFAULTGRAPH.id;
+  if (typeof term === 'string') return term;
+  if (term instanceof Term) return term.id;
+  if (!term) return DEFAULTGRAPH.id; // Term instantiated with another library
 
-  // Term instantiated with another library
   switch (term.termType) {
-  case 'NamedNode':    return term.value;
-  case 'BlankNode':    return '_:' + term.value;
-  case 'Variable':     return '?' + term.value;
-  case 'DefaultGraph': return '';
-  case 'Literal':      return '"' + term.value + '"' +
-    (term.language ? '@' + term.language :
-      (term.datatype && term.datatype.value !== xsd.string ? '^^' + term.datatype.value : ''));
-  default: throw new Error('Unexpected termType: ' + term.termType);
+    case 'NamedNode':
+      return term.value;
+
+    case 'BlankNode':
+      return '_:' + term.value;
+
+    case 'Variable':
+      return '?' + term.value;
+
+    case 'DefaultGraph':
+      return '';
+
+    case 'Literal':
+      return '"' + term.value + '"' + (term.language ? '@' + term.language : term.datatype && term.datatype.value !== xsd.string ? '^^' + term.datatype.value : '');
+
+    default:
+      throw new Error('Unexpected termType: ' + term.termType);
   }
-}
+} // ## Quad constructor
 
 
-// ## Quad constructor
 class Quad {
   constructor(subject, predicate, object, graph) {
-    this.subject   = subject;
+    this.subject = subject;
     this.predicate = predicate;
-    this.object    = object;
-    this.graph     = graph || DEFAULTGRAPH;
-  }
+    this.object = object;
+    this.graph = graph || DEFAULTGRAPH;
+  } // ### Returns a plain object representation of this quad
 
-  // ### Returns a plain object representation of this quad
+
   toJSON() {
     return {
-      subject:   this.subject.toJSON(),
+      subject: this.subject.toJSON(),
       predicate: this.predicate.toJSON(),
-      object:    this.object.toJSON(),
-      graph:     this.graph.toJSON(),
+      object: this.object.toJSON(),
+      graph: this.graph.toJSON()
     };
-  }
+  } // ### Returns whether this object represents the same quad as the other
 
-  // ### Returns whether this object represents the same quad as the other
+
   equals(other) {
-    return !!other && this.subject.equals(other.subject)     &&
-                      this.predicate.equals(other.predicate) &&
-                      this.object.equals(other.object)       &&
-                      this.graph.equals(other.graph);
+    return !!other && this.subject.equals(other.subject) && this.predicate.equals(other.predicate) && this.object.equals(other.object) && this.graph.equals(other.graph);
   }
-}
+
+} // ## DataFactory singleton
 
 
-// ## DataFactory functions
+DataFactory = {
+  // ### Public factory functions
+  namedNode,
+  blankNode,
+  variable,
+  literal,
+  defaultGraph,
+  quad,
+  triple: quad,
+  // ### Internal datatype constructors
+  internal: {
+    Term,
+    NamedNode,
+    BlankNode,
+    Variable,
+    Literal,
+    DefaultGraph,
+    Quad,
+    Triple: Quad,
+    fromId,
+    toId
+  }
+};
+var _default = DataFactory; // ### Creates an IRI
 
-// ### Creates an IRI
+exports.default = _default;
+
 function namedNode(iri) {
   return new NamedNode(iri);
-}
+} // ### Creates a blank node
 
-// ### Creates a blank node
+
 function blankNode(name) {
-  if (!name)
-    name = 'n3-' + _blankNodeCounter++;
+  if (!name) name = 'n3-' + _blankNodeCounter++;
   return new BlankNode(name);
-}
+} // ### Creates a literal
 
-// ### Creates a literal
+
 function literal(value, languageOrDataType) {
   // Create a language-tagged string
-  if (typeof languageOrDataType === 'string')
-    return new Literal('"' + value + '"@' + languageOrDataType.toLowerCase());
+  if (typeof languageOrDataType === 'string') return new Literal('"' + value + '"@' + languageOrDataType.toLowerCase()); // Create a datatyped literal
 
-  // Create a datatyped literal
   var datatype = languageOrDataType && languageOrDataType.value || '';
+
   if (!datatype) {
     switch (typeof value) {
-    // Convert a boolean
-    case 'boolean':
-      datatype = xsd.boolean;
-      break;
-    // Convert an integer or double
-    case 'number':
-      if (Number.isFinite(value))
-        datatype = Number.isInteger(value) ? xsd.integer : xsd.double;
-      else {
-        datatype = xsd.double;
-        if (!Number.isNaN(value))
-          value = value > 0 ? 'INF' : '-INF';
-      }
-      break;
-    // No datatype, so convert a plain string
-    default:
-      return new Literal('"' + value + '"');
+      // Convert a boolean
+      case 'boolean':
+        datatype = xsd.boolean;
+        break;
+      // Convert an integer or double
+
+      case 'number':
+        if (Number.isFinite(value)) datatype = Number.isInteger(value) ? xsd.integer : xsd.double;else {
+          datatype = xsd.double;
+          if (!Number.isNaN(value)) value = value > 0 ? 'INF' : '-INF';
+        }
+        break;
+      // No datatype, so convert a plain string
+
+      default:
+        return new Literal('"' + value + '"');
     }
   }
-  return new Literal('"' + value + '"^^' + datatype);
-}
 
-// ### Creates a variable
+  return new Literal('"' + value + '"^^' + datatype);
+} // ### Creates a variable
+
+
 function variable(name) {
   return new Variable(name);
-}
+} // ### Returns the default graph
 
-// ### Returns the default graph
+
 function defaultGraph() {
   return DEFAULTGRAPH;
-}
+} // ### Creates a quad
 
-// ### Creates a quad
+
 function quad(subject, predicate, object, graph) {
   return new Quad(subject, predicate, object, graph);
 }
-
-
-// ## Module exports
-module.exports = DataFactory = {
-  // ### Public factory functions
-  namedNode: namedNode,
-  blankNode: blankNode,
-  variable:  variable,
-  literal:   literal,
-  defaultGraph: defaultGraph,
-  quad:      quad,
-  triple:    quad,
-
-  // ### Internal datatype constructors
-  internal: {
-    Term:      Term,
-    NamedNode: NamedNode,
-    BlankNode: BlankNode,
-    Variable:  Variable,
-    Literal:   Literal,
-    DefaultGraph: DefaultGraph,
-    Quad:      Quad,
-    Triple:    Quad,
-    fromId:    fromId,
-    toId:      toId,
-  },
-};
-
-},{"./IRIs":55}],57:[function(require,module,exports){
+},{"./IRIs":144}],146:[function(require,module,exports){
 (function (Buffer,setImmediate){
+"use strict";
+
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+exports.default = void 0;
+
+var _IRIs = _interopRequireDefault(require("./IRIs"));
+
+function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
+
 // **N3Lexer** tokenizes N3 documents.
-var xsd = require('./IRIs').xsd;
-
-var fromCharCode = String.fromCharCode;
-var immediately = typeof setImmediate === 'function' ? setImmediate :
-                  function setImmediate(func) { setTimeout(func, 0); };
-
-// Regular expression and replacement string to escape N3 strings.
+const {
+  xsd
+} = _IRIs.default;
+const {
+  fromCharCode
+} = String; // Regular expression and replacement string to escape N3 strings.
 // Note how we catch invalid unicode sequences separately (they will trigger an error).
+
 var escapeSequence = /\\u([a-fA-F0-9]{4})|\\U([a-fA-F0-9]{8})|\\[uU]|\\(.)/g;
 var escapeReplacements = {
-  '\\': '\\', "'": "'", '"': '"',
-  'n': '\n', 'r': '\r', 't': '\t', 'f': '\f', 'b': '\b',
-  '_': '_', '~': '~', '.': '.', '-': '-', '!': '!', '$': '$', '&': '&',
-  '(': '(', ')': ')', '*': '*', '+': '+', ',': ',', ';': ';', '=': '=',
-  '/': '/', '?': '?', '#': '#', '@': '@', '%': '%',
+  '\\': '\\',
+  "'": "'",
+  '"': '"',
+  'n': '\n',
+  'r': '\r',
+  't': '\t',
+  'f': '\f',
+  'b': '\b',
+  '_': '_',
+  '~': '~',
+  '.': '.',
+  '-': '-',
+  '!': '!',
+  '$': '$',
+  '&': '&',
+  '(': '(',
+  ')': ')',
+  '*': '*',
+  '+': '+',
+  ',': ',',
+  ';': ';',
+  '=': '=',
+  '/': '/',
+  '?': '?',
+  '#': '#',
+  '@': '@',
+  '%': '%'
 };
 var illegalIriChars = /[\x00-\x20<>\\"\{\}\|\^\`]/;
-
 var lineModeRegExps = {
   _iri: true,
   _unescapedIri: true,
@@ -13982,23 +15320,25 @@ var lineModeRegExps = {
   _newline: true,
   _comment: true,
   _whitespace: true,
-  _endOfFile: true,
+  _endOfFile: true
 };
-var invalidRegExp = /$0^/;
+var invalidRegExp = /$0^/; // ## Constructor
 
-// ## Constructor
 class N3Lexer {
   constructor(options) {
     // ## Regular expressions
     // It's slightly faster to have these as properties than as in-scope variables
     this._iri = /^<((?:[^ <>{}\\]|\\[uU])+)>[ \t]*/; // IRI with escape sequences; needs sanity check after unescaping
+
     this._unescapedIri = /^<([^\x00-\x20<>\\"\{\}\|\^\`]*)>[ \t]*/; // IRI without escape sequences; no unescaping
+
     this._unescapedQuote = /^"([^"\\\r\n]+)"/; // non-empty string without escape sequences
-    this._unescapedApos =  /^'([^'\\\r\n]+)'/;
+
+    this._unescapedApos = /^'([^'\\\r\n]+)'/;
     this._singleQuote = /^"((?:[^"\\\r\n]|\\.)*)"(?=[^"])/;
-    this._singleApos =  /^'((?:[^'\\\r\n]|\\.)*)'(?=[^'])/;
+    this._singleApos = /^'((?:[^'\\\r\n]|\\.)*)'(?=[^'])/;
     this._tripleQuote = /^"""([^"\\]*(?:(?:\\.|"(?!""))[^"\\]*)*)"""/;
-    this._tripleApos =  /^'''([^'\\]*(?:(?:\\.|'(?!''))[^'\\]*)*)'''/;
+    this._tripleApos = /^'''([^'\\]*(?:(?:\\.|'(?!''))[^'\\]*)*)'''/;
     this._langcode = /^@([a-z]+(?:-[a-z0-9]+)*)(?=[^a-z0-9\-])/i;
     this._prefix = /^((?:[A-Za-z\xc0-\xd6\xd8-\xf6\xf8-\u02ff\u0370-\u037d\u037f-\u1fff\u200c\u200d\u2070-\u218f\u2c00-\u2fef\u3001-\ud7ff\uf900-\ufdcf\ufdf0-\ufffd]|[\ud800-\udb7f][\udc00-\udfff])(?:\.?[\-0-9A-Z_a-z\xb7\xc0-\xd6\xd8-\xf6\xf8-\u037d\u037f-\u1fff\u200c\u200d\u203f\u2040\u2070-\u218f\u2c00-\u2fef\u3001-\ud7ff\uf900-\ufdcf\ufdf0-\ufffd]|[\ud800-\udb7f][\udc00-\udfff])*)?:(?=[#\s<])/;
     this._prefixed = /^((?:[A-Za-z\xc0-\xd6\xd8-\xf6\xf8-\u02ff\u0370-\u037d\u037f-\u1fff\u200c\u200d\u2070-\u218f\u2c00-\u2fef\u3001-\ud7ff\uf900-\ufdcf\ufdf0-\ufffd]|[\ud800-\udb7f][\udc00-\udfff])(?:\.?[\-0-9A-Z_a-z\xb7\xc0-\xd6\xd8-\xf6\xf8-\u037d\u037f-\u1fff\u200c\u200d\u203f\u2040\u2070-\u218f\u2c00-\u2fef\u3001-\ud7ff\uf900-\ufdcf\ufdf0-\ufffd]|[\ud800-\udb7f][\udc00-\udfff])*)?:((?:(?:[0-:A-Z_a-z\xc0-\xd6\xd8-\xf6\xf8-\u02ff\u0370-\u037d\u037f-\u1fff\u200c\u200d\u2070-\u218f\u2c00-\u2fef\u3001-\ud7ff\uf900-\ufdcf\ufdf0-\ufffd]|[\ud800-\udb7f][\udc00-\udfff]|%[0-9a-fA-F]{2}|\\[!#-\/;=?\-@_~])(?:(?:[\.\-0-:A-Z_a-z\xb7\xc0-\xd6\xd8-\xf6\xf8-\u037d\u037f-\u1fff\u200c\u200d\u203f\u2040\u2070-\u218f\u2c00-\u2fef\u3001-\ud7ff\uf900-\ufdcf\ufdf0-\ufffd]|[\ud800-\udb7f][\udc00-\udfff]|%[0-9a-fA-F]{2}|\\[!#-\/;=?\-@_~])*(?:[\-0-:A-Z_a-z\xb7\xc0-\xd6\xd8-\xf6\xf8-\u037d\u037f-\u1fff\u200c\u200d\u203f\u2040\u2070-\u218f\u2c00-\u2fef\u3001-\ud7ff\uf900-\ufdcf\ufdf0-\ufffd]|[\ud800-\udb7f][\udc00-\udfff]|%[0-9a-fA-F]{2}|\\[!#-\/;=?\-@_~]))?)?)(?:[ \t]+|(?=\.?[,;!\^\s#()\[\]\{\}"'<]))/;
@@ -14013,1062 +15353,1103 @@ class N3Lexer {
     this._comment = /#([^\n\r]*)/;
     this._whitespace = /^[ \t]+/;
     this._endOfFile = /^(?:#[^\n\r]*)?$/;
-    options = options || {};
+    options = options || {}; // In line mode (N-Triples or N-Quads), only simple features may be parsed
 
-    // In line mode (N-Triples or N-Quads), only simple features may be parsed
     if (this._lineMode = !!options.lineMode) {
-      this._n3Mode = false;
-      // Don't tokenize special literals
+      this._n3Mode = false; // Don't tokenize special literals
+
       for (var key in this) {
-        if (!(key in lineModeRegExps) && this[key] instanceof RegExp)
-          this[key] = invalidRegExp;
+        if (!(key in lineModeRegExps) && this[key] instanceof RegExp) this[key] = invalidRegExp;
       }
-    }
-    // When not in line mode, enable N3 functionality by default
+    } // When not in line mode, enable N3 functionality by default
     else {
-      this._n3Mode = options.n3 !== false;
-    }
-    // Don't output comment tokens by default
+        this._n3Mode = options.n3 !== false;
+      } // Don't output comment tokens by default
+
+
     this._comments = !!options.comments;
-  }
-
-  // ## Private methods
-
+  } // ## Private methods
   // ### `_tokenizeToEnd` tokenizes as for as possible, emitting tokens through the callback
+
+
   _tokenizeToEnd(callback, inputFinished) {
     // Continue parsing as far as possible; the loop will return eventually
-    var input = this._input, outputComments = this._comments;
+    var input = this._input,
+        outputComments = this._comments;
+
     while (true) {
       // Count and skip whitespace lines
       var whiteSpaceMatch, comment;
+
       while (whiteSpaceMatch = this._newline.exec(input)) {
         // Try to find a comment
-        if (outputComments && (comment = this._comment.exec(whiteSpaceMatch[0])))
-          callback(null, { line: this._line, type: 'comment', value: comment[1], prefix: '' });
-        // Advance the input
+        if (outputComments && (comment = this._comment.exec(whiteSpaceMatch[0]))) callback(null, {
+          line: this._line,
+          type: 'comment',
+          value: comment[1],
+          prefix: ''
+        }); // Advance the input
+
         input = input.substr(whiteSpaceMatch[0].length, input.length);
         this._line++;
-      }
-      // Skip whitespace on current line
-      if (whiteSpaceMatch = this._whitespace.exec(input))
-        input = input.substr(whiteSpaceMatch[0].length, input.length);
+      } // Skip whitespace on current line
 
-      // Stop for now if we're at the end
+
+      if (whiteSpaceMatch = this._whitespace.exec(input)) input = input.substr(whiteSpaceMatch[0].length, input.length); // Stop for now if we're at the end
+
       if (this._endOfFile.test(input)) {
         // If the input is finished, emit EOF
         if (inputFinished) {
           // Try to find a final comment
-          if (outputComments && (comment = this._comment.exec(input)))
-            callback(null, { line: this._line, type: 'comment', value: comment[1], prefix: '' });
-          callback(input = null, { line: this._line, type: 'eof', value: '', prefix: '' });
+          if (outputComments && (comment = this._comment.exec(input))) callback(null, {
+            line: this._line,
+            type: 'comment',
+            value: comment[1],
+            prefix: ''
+          });
+          callback(input = null, {
+            line: this._line,
+            type: 'eof',
+            value: '',
+            prefix: ''
+          });
         }
-        return this._input = input;
-      }
 
-      // Look for specific token types based on the first character
-      var line = this._line, type = '', value = '', prefix = '',
-          firstChar = input[0], match = null, matchLength = 0, inconclusive = false;
+        return this._input = input;
+      } // Look for specific token types based on the first character
+
+
+      var line = this._line,
+          type = '',
+          value = '',
+          prefix = '',
+          firstChar = input[0],
+          match = null,
+          matchLength = 0,
+          inconclusive = false;
+
       switch (firstChar) {
-      case '^':
-        // We need at least 3 tokens lookahead to distinguish ^^<IRI> and ^^pre:fixed
-        if (input.length < 3)
+        case '^':
+          // We need at least 3 tokens lookahead to distinguish ^^<IRI> and ^^pre:fixed
+          if (input.length < 3) break; // Try to match a type
+          else if (input[1] === '^') {
+              this._previousMarker = '^^'; // Move to type IRI or prefixed name
+
+              input = input.substr(2);
+
+              if (input[0] !== '<') {
+                inconclusive = true;
+                break;
+              }
+            } // If no type, it must be a path expression
+            else {
+                if (this._n3Mode) {
+                  matchLength = 1;
+                  type = '^';
+                }
+
+                break;
+              }
+        // Fall through in case the type is an IRI
+
+        case '<':
+          // Try to find a full IRI without escape sequences
+          if (match = this._unescapedIri.exec(input)) type = 'IRI', value = match[1]; // Try to find a full IRI with escape sequences
+          else if (match = this._iri.exec(input)) {
+              value = this._unescape(match[1]);
+              if (value === null || illegalIriChars.test(value)) return reportSyntaxError(this);
+              type = 'IRI';
+            } // Try to find a backwards implication arrow
+            else if (this._n3Mode && input.length > 1 && input[1] === '=') type = 'inverse', matchLength = 2, value = '>';
           break;
-        // Try to match a type
-        else if (input[1] === '^') {
-          this._previousMarker = '^^';
-          // Move to type IRI or prefixed name
-          input = input.substr(2);
-          if (input[0] !== '<') {
-            inconclusive = true;
+
+        case '_':
+          // Try to find a blank node. Since it can contain (but not end with) a dot,
+          // we always need a non-dot character before deciding it is a blank node.
+          // Therefore, try inserting a space if we're at the end of the input.
+          if ((match = this._blank.exec(input)) || inputFinished && (match = this._blank.exec(input + ' '))) type = 'blank', prefix = '_', value = match[1];
+          break;
+
+        case '"':
+          // Try to find a literal without escape sequences
+          if (match = this._unescapedQuote.exec(input)) value = match[1]; // Before attempting more complex string patterns, try to detect a closing quote
+          else if (input.indexOf('"', 1) > 0) {
+              // Try to find any other literal wrapped in a pair of quotes
+              if (match = this._singleQuote.exec(input)) value = this._unescape(match[1]); // Try to find a literal wrapped in three pairs of quotes
+              else if (match = this._tripleQuote.exec(input)) {
+                  value = match[1]; // Advance line counter
+
+                  this._line += value.split(/\r\n|\r|\n/).length - 1;
+                  value = this._unescape(value);
+                }
+              if (value === null) return reportSyntaxError(this);
+            }
+          if (match !== null) type = 'literal';
+          break;
+
+        case "'":
+          // Try to find a literal without escape sequences
+          if (match = this._unescapedApos.exec(input)) value = match[1]; // Before attempting more complex string patterns, try to detect a closing apostrophe
+          else if (input.indexOf("'", 1) > 0) {
+              // Try to find any other literal wrapped in a pair of apostrophes
+              if (match = this._singleApos.exec(input)) value = this._unescape(match[1]); // Try to find a literal wrapped in three pairs of apostrophes
+              else if (match = this._tripleApos.exec(input)) {
+                  value = match[1]; // Advance line counter
+
+                  this._line += value.split(/\r\n|\r|\n/).length - 1;
+                  value = this._unescape(value);
+                }
+              if (value === null) return reportSyntaxError(this);
+            }
+          if (match !== null) type = 'literal';
+          break;
+
+        case '?':
+          // Try to find a variable
+          if (this._n3Mode && (match = this._variable.exec(input))) type = 'var', value = match[0];
+          break;
+
+        case '@':
+          // Try to find a language code
+          if (this._previousMarker === 'literal' && (match = this._langcode.exec(input))) type = 'langcode', value = match[1]; // Try to find a keyword
+          else if (match = this._keyword.exec(input)) type = match[0];
+          break;
+
+        case '.':
+          // Try to find a dot as punctuation
+          if (input.length === 1 ? inputFinished : input[1] < '0' || input[1] > '9') {
+            type = '.';
+            matchLength = 1;
             break;
           }
-        }
-        // If no type, it must be a path expression
-        else {
-          if (this._n3Mode) {
-            matchLength = 1;
-            type = '^';
-          }
-          break;
-        }
-        // Fall through in case the type is an IRI
-      case '<':
-        // Try to find a full IRI without escape sequences
-        if (match = this._unescapedIri.exec(input))
-          type = 'IRI', value = match[1];
-        // Try to find a full IRI with escape sequences
-        else if (match = this._iri.exec(input)) {
-          value = this._unescape(match[1]);
-          if (value === null || illegalIriChars.test(value))
-            return reportSyntaxError(this);
-          type = 'IRI';
-        }
-        // Try to find a backwards implication arrow
-        else if (this._n3Mode && input.length > 1 && input[1] === '=')
-          type = 'inverse', matchLength = 2, value = '>';
-        break;
 
-      case '_':
-        // Try to find a blank node. Since it can contain (but not end with) a dot,
-        // we always need a non-dot character before deciding it is a blank node.
-        // Therefore, try inserting a space if we're at the end of the input.
-        if ((match = this._blank.exec(input)) ||
-            inputFinished && (match = this._blank.exec(input + ' ')))
-          type = 'blank', prefix = '_', value = match[1];
-        break;
-
-      case '"':
-        // Try to find a literal without escape sequences
-        if (match = this._unescapedQuote.exec(input))
-          value = match[1];
-        // Before attempting more complex string patterns, try to detect a closing quote
-        else if (input.indexOf('"', 1) > 0) {
-          // Try to find any other literal wrapped in a pair of quotes
-          if (match = this._singleQuote.exec(input))
-            value = this._unescape(match[1]);
-          // Try to find a literal wrapped in three pairs of quotes
-          else if (match = this._tripleQuote.exec(input)) {
-            value = match[1];
-            // Advance line counter
-            this._line += value.split(/\r\n|\r|\n/).length - 1;
-            value = this._unescape(value);
-          }
-          if (value === null)
-            return reportSyntaxError(this);
-        }
-        if (match !== null)
-          type = 'literal';
-        break;
-
-      case "'":
-        // Try to find a literal without escape sequences
-        if (match = this._unescapedApos.exec(input))
-          value = match[1];
-        // Before attempting more complex string patterns, try to detect a closing apostrophe
-        else if (input.indexOf("'", 1) > 0) {
-          // Try to find any other literal wrapped in a pair of apostrophes
-          if (match = this._singleApos.exec(input))
-            value = this._unescape(match[1]);
-          // Try to find a literal wrapped in three pairs of apostrophes
-          else if (match = this._tripleApos.exec(input)) {
-            value = match[1];
-            // Advance line counter
-            this._line += value.split(/\r\n|\r|\n/).length - 1;
-            value = this._unescape(value);
-          }
-          if (value === null)
-            return reportSyntaxError(this);
-        }
-        if (match !== null)
-          type = 'literal';
-        break;
-
-      case '?':
-        // Try to find a variable
-        if (this._n3Mode && (match = this._variable.exec(input)))
-          type = 'var', value = match[0];
-        break;
-
-      case '@':
-        // Try to find a language code
-        if (this._previousMarker === 'literal' && (match = this._langcode.exec(input)))
-          type = 'langcode', value = match[1];
-        // Try to find a keyword
-        else if (match = this._keyword.exec(input))
-          type = match[0];
-        break;
-
-      case '.':
-        // Try to find a dot as punctuation
-        if (input.length === 1 ? inputFinished : (input[1] < '0' || input[1] > '9')) {
-          type = '.';
-          matchLength = 1;
-          break;
-        }
         // Fall through to numerical case (could be a decimal dot)
 
-      case '0':
-      case '1':
-      case '2':
-      case '3':
-      case '4':
-      case '5':
-      case '6':
-      case '7':
-      case '8':
-      case '9':
-      case '+':
-      case '-':
-        // Try to find a number. Since it can contain (but not end with) a dot,
-        // we always need a non-dot character before deciding it is a number.
-        // Therefore, try inserting a space if we're at the end of the input.
-        if (match = this._number.exec(input) ||
-            inputFinished && (match = this._number.exec(input + ' '))) {
-          type = 'literal', value = match[0];
-          prefix = (match[1] ? xsd.double :
-                    (/^[+\-]?\d+$/.test(match[0]) ? xsd.integer : xsd.decimal));
-        }
-        break;
+        case '0':
+        case '1':
+        case '2':
+        case '3':
+        case '4':
+        case '5':
+        case '6':
+        case '7':
+        case '8':
+        case '9':
+        case '+':
+        case '-':
+          // Try to find a number. Since it can contain (but not end with) a dot,
+          // we always need a non-dot character before deciding it is a number.
+          // Therefore, try inserting a space if we're at the end of the input.
+          if (match = this._number.exec(input) || inputFinished && (match = this._number.exec(input + ' '))) {
+            type = 'literal', value = match[0];
+            prefix = match[1] ? xsd.double : /^[+\-]?\d+$/.test(match[0]) ? xsd.integer : xsd.decimal;
+          }
 
-      case 'B':
-      case 'b':
-      case 'p':
-      case 'P':
-      case 'G':
-      case 'g':
-        // Try to find a SPARQL-style keyword
-        if (match = this._sparqlKeyword.exec(input))
-          type = match[0].toUpperCase();
-        else
-          inconclusive = true;
-        break;
-
-      case 'f':
-      case 't':
-        // Try to match a boolean
-        if (match = this._boolean.exec(input))
-          type = 'literal', value = match[0], prefix = xsd.boolean;
-        else
-          inconclusive = true;
-        break;
-
-      case 'a':
-        // Try to find an abbreviated predicate
-        if (match = this._shortPredicates.exec(input))
-          type = 'abbreviation', value = 'a';
-        else
-          inconclusive = true;
-        break;
-
-      case '=':
-        // Try to find an implication arrow or equals sign
-        if (this._n3Mode && input.length > 1) {
-          type = 'abbreviation';
-          if (input[1] !== '>')
-            matchLength = 1, value = '=';
-          else
-            matchLength = 2, value = '>';
-        }
-        break;
-
-      case '!':
-        if (!this._n3Mode)
           break;
-      case ',':
-      case ';':
-      case '[':
-      case ']':
-      case '(':
-      case ')':
-      case '{':
-      case '}':
-        if (!this._lineMode) {
-          matchLength = 1;
-          type = firstChar;
-        }
-        break;
 
-      default:
-        inconclusive = true;
-      }
+        case 'B':
+        case 'b':
+        case 'p':
+        case 'P':
+        case 'G':
+        case 'g':
+          // Try to find a SPARQL-style keyword
+          if (match = this._sparqlKeyword.exec(input)) type = match[0].toUpperCase();else inconclusive = true;
+          break;
 
-      // Some first characters do not allow an immediate decision, so inspect more
+        case 'f':
+        case 't':
+          // Try to match a boolean
+          if (match = this._boolean.exec(input)) type = 'literal', value = match[0], prefix = xsd.boolean;else inconclusive = true;
+          break;
+
+        case 'a':
+          // Try to find an abbreviated predicate
+          if (match = this._shortPredicates.exec(input)) type = 'abbreviation', value = 'a';else inconclusive = true;
+          break;
+
+        case '=':
+          // Try to find an implication arrow or equals sign
+          if (this._n3Mode && input.length > 1) {
+            type = 'abbreviation';
+            if (input[1] !== '>') matchLength = 1, value = '=';else matchLength = 2, value = '>';
+          }
+
+          break;
+
+        case '!':
+          if (!this._n3Mode) break;
+
+        case ',':
+        case ';':
+        case '[':
+        case ']':
+        case '(':
+        case ')':
+        case '{':
+        case '}':
+          if (!this._lineMode) {
+            matchLength = 1;
+            type = firstChar;
+          }
+
+          break;
+
+        default:
+          inconclusive = true;
+      } // Some first characters do not allow an immediate decision, so inspect more
+
+
       if (inconclusive) {
         // Try to find a prefix
-        if ((this._previousMarker === '@prefix' || this._previousMarker === 'PREFIX') &&
-            (match = this._prefix.exec(input)))
-          type = 'prefix', value = match[1] || '';
-        // Try to find a prefixed name. Since it can contain (but not end with) a dot,
+        if ((this._previousMarker === '@prefix' || this._previousMarker === 'PREFIX') && (match = this._prefix.exec(input))) type = 'prefix', value = match[1] || ''; // Try to find a prefixed name. Since it can contain (but not end with) a dot,
         // we always need a non-dot character before deciding it is a prefixed name.
         // Therefore, try inserting a space if we're at the end of the input.
-        else if ((match = this._prefixed.exec(input)) ||
-                 inputFinished && (match = this._prefixed.exec(input + ' ')))
-          type = 'prefixed', prefix = match[1] || '', value = this._unescape(match[2]);
-      }
+        else if ((match = this._prefixed.exec(input)) || inputFinished && (match = this._prefixed.exec(input + ' '))) type = 'prefixed', prefix = match[1] || '', value = this._unescape(match[2]);
+      } // A type token is special: it can only be emitted after an IRI or prefixed name is read
 
-      // A type token is special: it can only be emitted after an IRI or prefixed name is read
+
       if (this._previousMarker === '^^') {
         switch (type) {
-        case 'prefixed': type = 'type';    break;
-        case 'IRI':      type = 'typeIRI'; break;
-        default:         type = '';
-        }
-      }
+          case 'prefixed':
+            type = 'type';
+            break;
 
-      // What if nothing of the above was found?
+          case 'IRI':
+            type = 'typeIRI';
+            break;
+
+          default:
+            type = '';
+        }
+      } // What if nothing of the above was found?
+
+
       if (!type) {
         // We could be in streaming mode, and then we just wait for more input to arrive.
         // Otherwise, a syntax error has occurred in the input.
         // One exception: error on an unaccounted linebreak (= not inside a triple-quoted literal).
-        if (inputFinished || (!/^'''|^"""/.test(input) && /\n|\r/.test(input)))
-          return reportSyntaxError(this);
-        else
-          return this._input = input;
-      }
+        if (inputFinished || !/^'''|^"""/.test(input) && /\n|\r/.test(input)) return reportSyntaxError(this);else return this._input = input;
+      } // Emit the parsed token
 
-      // Emit the parsed token
-      var token = { line: line, type: type, value: value, prefix: prefix };
+
+      var token = {
+        line: line,
+        type: type,
+        value: value,
+        prefix: prefix
+      };
       callback(null, token);
       this.previousToken = token;
-      this._previousMarker = type;
-      // Advance to next part to tokenize
+      this._previousMarker = type; // Advance to next part to tokenize
+
       input = input.substr(matchLength || match[0].length, input.length);
+    } // Signals the syntax error through the callback
+
+
+    function reportSyntaxError(self) {
+      callback(self._syntaxError(/^\S*/.exec(input)[0]));
     }
+  } // ### `_unescape` replaces N3 escape codes by their corresponding characters
 
-    // Signals the syntax error through the callback
-    function reportSyntaxError(self) { callback(self._syntaxError(/^\S*/.exec(input)[0])); }
-  }
 
-  // ### `_unescape` replaces N3 escape codes by their corresponding characters
   _unescape(item) {
     try {
       return item.replace(escapeSequence, function (sequence, unicode4, unicode8, escapedChar) {
         var charCode;
+
         if (unicode4) {
           charCode = parseInt(unicode4, 16);
           if (isNaN(charCode)) throw new Error(); // can never happen (regex), but helps performance
+
           return fromCharCode(charCode);
-        }
-        else if (unicode8) {
+        } else if (unicode8) {
           charCode = parseInt(unicode8, 16);
           if (isNaN(charCode)) throw new Error(); // can never happen (regex), but helps performance
+
           if (charCode <= 0xFFFF) return fromCharCode(charCode);
-          return fromCharCode(0xD800 + ((charCode -= 0x10000) / 0x400), 0xDC00 + (charCode & 0x3FF));
-        }
-        else {
+          return fromCharCode(0xD800 + (charCode -= 0x10000) / 0x400, 0xDC00 + (charCode & 0x3FF));
+        } else {
           var replacement = escapeReplacements[escapedChar];
-          if (!replacement)
-            throw new Error();
+          if (!replacement) throw new Error();
           return replacement;
         }
       });
+    } catch (error) {
+      return null;
     }
-    catch (error) { return null; }
-  }
+  } // ### `_syntaxError` creates a syntax error for the given issue
 
-  // ### `_syntaxError` creates a syntax error for the given issue
+
   _syntaxError(issue) {
     this._input = null;
     var err = new Error('Unexpected "' + issue + '" on line ' + this._line + '.');
     err.context = {
       token: undefined,
       line: this._line,
-      previousToken: this.previousToken,
+      previousToken: this.previousToken
     };
     return err;
-  }
-
-  // ## Public methods
-
+  } // ## Public methods
   // ### `tokenize` starts the transformation of an N3 document into an array of tokens.
   // The input can be a string or a stream.
+
+
   tokenize(input, callback) {
     var self = this;
-    this._line = 1;
+    this._line = 1; // If the input is a string, continuously emit tokens through the callback until the end
 
-    // If the input is a string, continuously emit tokens through the callback until the end
     if (typeof input === 'string') {
-      this._input = input;
-      // If a callback was passed, asynchronously call it
-      if (typeof callback === 'function')
-        immediately(function () { self._tokenizeToEnd(callback, true); });
-      // If no callback was passed, tokenize synchronously and return
+      this._input = input; // If a callback was passed, asynchronously call it
+
+      if (typeof callback === 'function') setImmediate(function () {
+        self._tokenizeToEnd(callback, true);
+      }); // If no callback was passed, tokenize synchronously and return
       else {
-        var tokens = [], error;
-        this._tokenizeToEnd(function (e, t) { e ? (error = e) : tokens.push(t); }, true);
-        if (error) throw error;
-        return tokens;
-      }
-    }
-    // Otherwise, the input must be a stream
-    else {
-      this._input = '';
-      this._pendingBuffer = null;
-      if (typeof input.setEncoding === 'function')
-        input.setEncoding('utf8');
-      // Adds the data chunk to the buffer and parses as far as possible
-      input.on('data', function (data) {
-        if (self._input !== null && data.length !== 0) {
-          // Prepend any previous pending writes
-          if (self._pendingBuffer) {
-            data = Buffer.concat([self._pendingBuffer, data]);
-            self._pendingBuffer = null;
-          }
-          // Hold if the buffer ends in an incomplete unicode sequence
-          if (data[data.length - 1] & 0x80) {
-            self._pendingBuffer = data;
-          }
-          // Otherwise, tokenize as far as possible
-          else {
-            self._input += data;
-            self._tokenizeToEnd(callback, false);
-          }
+          var tokens = [],
+              error;
+
+          this._tokenizeToEnd(function (e, t) {
+            e ? error = e : tokens.push(t);
+          }, true);
+
+          if (error) throw error;
+          return tokens;
         }
-      });
-      // Parses until the end
-      input.on('end', function () {
-        if (self._input !== null)
-          self._tokenizeToEnd(callback, true);
-      });
-      input.on('error', callback);
-    }
+    } // Otherwise, the input must be a stream
+    else {
+        this._input = '';
+        this._pendingBuffer = null;
+        if (typeof input.setEncoding === 'function') input.setEncoding('utf8'); // Adds the data chunk to the buffer and parses as far as possible
+
+        input.on('data', function (data) {
+          if (self._input !== null && data.length !== 0) {
+            // Prepend any previous pending writes
+            if (self._pendingBuffer) {
+              data = Buffer.concat([self._pendingBuffer, data]);
+              self._pendingBuffer = null;
+            } // Hold if the buffer ends in an incomplete unicode sequence
+
+
+            if (data[data.length - 1] & 0x80) {
+              self._pendingBuffer = data;
+            } // Otherwise, tokenize as far as possible
+            else {
+                self._input += data;
+
+                self._tokenizeToEnd(callback, false);
+              }
+          }
+        }); // Parses until the end
+
+        input.on('end', function () {
+          if (self._input !== null) self._tokenizeToEnd(callback, true);
+        });
+        input.on('error', callback);
+      }
   }
+
 }
 
-
-// ## Exports
-module.exports = N3Lexer;
-
+exports.default = N3Lexer;
 }).call(this,require("buffer").Buffer,require("timers").setImmediate)
-},{"./IRIs":55,"buffer":4,"timers":30}],58:[function(require,module,exports){
+},{"./IRIs":144,"buffer":3,"timers":30}],147:[function(require,module,exports){
+"use strict";
+
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+exports.default = void 0;
+
+var _N3Lexer = _interopRequireDefault(require("./N3Lexer"));
+
+var _N3DataFactory = _interopRequireDefault(require("./N3DataFactory"));
+
+var _IRIs = _interopRequireDefault(require("./IRIs"));
+
+function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
+
 // **N3Parser** parses N3 documents.
-var N3Lexer = require('./N3Lexer'),
-    DataFactory = require('./N3DataFactory'),
-    namespaces = require('./IRIs');
-
 // The next ID for new blank nodes
-var blankNodePrefix = 0, blankNodeCount = 0;
+var blankNodePrefix = 0,
+    blankNodeCount = 0; // ## Constructor
 
-// ## Constructor
 class N3Parser {
   constructor(options) {
     this._contextStack = [];
-    this._graph = null;
+    this._graph = null; // Set the document IRI
 
-    // Set the document IRI
     options = options || {};
-    this._setBase(options.baseIRI);
-    options.factory && initDataFactory(this, options.factory);
 
-    // Set supported features depending on the format
-    var format = (typeof options.format === 'string') ?
-                 options.format.match(/\w*$/)[0].toLowerCase() : '',
-        isTurtle = format === 'turtle', isTriG = format === 'trig',
-        isNTriples = /triple/.test(format), isNQuads = /quad/.test(format),
+    this._setBase(options.baseIRI);
+
+    options.factory && initDataFactory(this, options.factory); // Set supported features depending on the format
+
+    var format = typeof options.format === 'string' ? options.format.match(/\w*$/)[0].toLowerCase() : '',
+        isTurtle = format === 'turtle',
+        isTriG = format === 'trig',
+        isNTriples = /triple/.test(format),
+        isNQuads = /quad/.test(format),
         isN3 = this._n3Mode = /n3/.test(format),
         isLineMode = isNTriples || isNQuads;
-    if (!(this._supportsNamedGraphs = !(isTurtle || isN3)))
-      this._readPredicateOrNamedGraph = this._readPredicate;
-    this._supportsQuads = !(isTurtle || isTriG || isNTriples || isN3);
-    // Disable relative IRIs in N-Triples or N-Quads mode
-    if (isLineMode)
-      this._resolveRelativeIRI = function (iri) { return ''; };
-    this._blankNodePrefix = typeof options.blankNodePrefix !== 'string' ? '' :
-                              options.blankNodePrefix.replace(/^(?!_:)/, '_:');
-    this._lexer = options.lexer || new N3Lexer({ lineMode: isLineMode, n3: isN3 });
-    // Disable explicit quantifiers by default
+    if (!(this._supportsNamedGraphs = !(isTurtle || isN3))) this._readPredicateOrNamedGraph = this._readPredicate;
+    this._supportsQuads = !(isTurtle || isTriG || isNTriples || isN3); // Disable relative IRIs in N-Triples or N-Quads mode
+
+    if (isLineMode) this._resolveRelativeIRI = function (iri) {
+      return '';
+    };
+    this._blankNodePrefix = typeof options.blankNodePrefix !== 'string' ? '' : options.blankNodePrefix.replace(/^(?!_:)/, '_:');
+    this._lexer = options.lexer || new _N3Lexer.default({
+      lineMode: isLineMode,
+      n3: isN3
+    }); // Disable explicit quantifiers by default
+
     this._explicitQuantifiers = !!options.explicitQuantifiers;
-  }
+  } // ## Static class methods
+  // ### `_resetBlankNodeIds` restarts blank node identification
 
-  // ## Static class methods
 
-// ### `_resetBlankNodeIds` restarts blank node identification
   static _resetBlankNodeIds() {
     blankNodePrefix = blankNodeCount = 0;
-  }
-
-  // ## Private methods
-
+  } // ## Private methods
   // ### `_blank` creates a new blank node
+
+
   _blank() {
     return this._blankNode('b' + blankNodeCount++);
-  }
+  } // ### `_setBase` sets the base IRI to resolve relative IRIs
 
-  // ### `_setBase` sets the base IRI to resolve relative IRIs
+
   _setBase(baseIRI) {
-    if (!baseIRI)
-      this._base = null;
-    else {
+    if (!baseIRI) {
+      this._base = '';
+      this._basePath = '';
+    } else {
       // Remove fragment if present
       var fragmentPos = baseIRI.indexOf('#');
-      if (fragmentPos >= 0)
-        baseIRI = baseIRI.substr(0, fragmentPos);
-      // Set base IRI and its components
+      if (fragmentPos >= 0) baseIRI = baseIRI.substr(0, fragmentPos); // Set base IRI and its components
+
       this._base = baseIRI;
-      this._basePath   = baseIRI.indexOf('/') < 0 ? baseIRI :
-                         baseIRI.replace(/[^\/?]*(?:\?.*)?$/, '');
+      this._basePath = baseIRI.indexOf('/') < 0 ? baseIRI : baseIRI.replace(/[^\/?]*(?:\?.*)?$/, '');
       baseIRI = baseIRI.match(/^(?:([a-z][a-z0-9+.-]*:))?(?:\/\/[^\/]*)?/i);
-      this._baseRoot   = baseIRI[0];
+      this._baseRoot = baseIRI[0];
       this._baseScheme = baseIRI[1];
     }
-  }
-
-  // ### `_saveContext` stores the current parsing context
+  } // ### `_saveContext` stores the current parsing context
   // when entering a new scope (list, blank node, formula)
+
+
   _saveContext(type, graph, subject, predicate, object) {
     var n3Mode = this._n3Mode;
+
     this._contextStack.push({
-      subject: subject, predicate: predicate, object: object,
-      graph: graph, type: type,
+      subject: subject,
+      predicate: predicate,
+      object: object,
+      graph: graph,
+      type: type,
       inverse: n3Mode ? this._inversePredicate : false,
       blankPrefix: n3Mode ? this._prefixes._ : '',
-      quantified: n3Mode ? this._quantified : null,
-    });
-    // The settings below only apply to N3 streams
+      quantified: n3Mode ? this._quantified : null
+    }); // The settings below only apply to N3 streams
+
+
     if (n3Mode) {
       // Every new scope resets the predicate direction
-      this._inversePredicate = false;
-      // In N3, blank nodes are scoped to a formula
+      this._inversePredicate = false; // In N3, blank nodes are scoped to a formula
       // (using a dot as separator, as a blank node label cannot start with it)
-      this._prefixes._ = (this._graph ? this._graph.id.substr(2) + '.' : '.');
-      // Quantifiers are scoped to a formula
+
+      this._prefixes._ = this._graph ? this._graph.id.substr(2) + '.' : '.'; // Quantifiers are scoped to a formula
+
       this._quantified = Object.create(this._quantified);
     }
-  }
-
-  // ### `_restoreContext` restores the parent context
+  } // ### `_restoreContext` restores the parent context
   // when leaving a scope (list, blank node, formula)
+
+
   _restoreContext() {
-    var context = this._contextStack.pop(), n3Mode = this._n3Mode;
-    this._subject   = context.subject;
+    var context = this._contextStack.pop(),
+        n3Mode = this._n3Mode;
+
+    this._subject = context.subject;
     this._predicate = context.predicate;
-    this._object    = context.object;
-    this._graph     = context.graph;
-    // The settings below only apply to N3 streams
+    this._object = context.object;
+    this._graph = context.graph; // The settings below only apply to N3 streams
+
     if (n3Mode) {
       this._inversePredicate = context.inverse;
       this._prefixes._ = context.blankPrefix;
       this._quantified = context.quantified;
     }
-  }
+  } // ### `_readInTopContext` reads a token when in the top context
 
-  // ### `_readInTopContext` reads a token when in the top context
+
   _readInTopContext(token) {
     switch (token.type) {
-    // If an EOF token arrives in the top context, signal that we're done
-    case 'eof':
-      if (this._graph !== null)
-        return this._error('Unclosed graph', token);
-      delete this._prefixes._;
-      return this._callback(null, null, this._prefixes);
-    // It could be a prefix declaration
-    case 'PREFIX':
-      this._sparqlStyle = true;
-    case '@prefix':
-      return this._readPrefix;
-    // It could be a base declaration
-    case 'BASE':
-      this._sparqlStyle = true;
-    case '@base':
-      return this._readBaseIRI;
-    // It could be a graph
-    case '{':
-      if (this._supportsNamedGraphs) {
-        this._graph = '';
-        this._subject = null;
-        return this._readSubject;
-      }
-    case 'GRAPH':
-      if (this._supportsNamedGraphs)
-        return this._readNamedGraphLabel;
-    // Otherwise, the next token must be a subject
-    default:
-      return this._readSubject(token);
-    }
-  }
+      // If an EOF token arrives in the top context, signal that we're done
+      case 'eof':
+        if (this._graph !== null) return this._error('Unclosed graph', token);
+        delete this._prefixes._;
+        return this._callback(null, null, this._prefixes);
+      // It could be a prefix declaration
 
-  // ### `_readEntity` reads an IRI, prefixed name, blank node, or variable
+      case 'PREFIX':
+        this._sparqlStyle = true;
+
+      case '@prefix':
+        return this._readPrefix;
+      // It could be a base declaration
+
+      case 'BASE':
+        this._sparqlStyle = true;
+
+      case '@base':
+        return this._readBaseIRI;
+      // It could be a graph
+
+      case '{':
+        if (this._supportsNamedGraphs) {
+          this._graph = '';
+          this._subject = null;
+          return this._readSubject;
+        }
+
+      case 'GRAPH':
+        if (this._supportsNamedGraphs) return this._readNamedGraphLabel;
+      // Otherwise, the next token must be a subject
+
+      default:
+        return this._readSubject(token);
+    }
+  } // ### `_readEntity` reads an IRI, prefixed name, blank node, or variable
+
+
   _readEntity(token, quantifier) {
     var value;
-    switch (token.type) {
-    // Read a relative or absolute IRI
-    case 'IRI':
-    case 'typeIRI':
-      var iri = this._resolveIRI(token.value);
-      if (iri === '')
-        return this._error('Invalid IRI', token);
-      value = this._namedNode(iri);
-      break;
-    // Read a prefixed name
-    case 'type':
-    case 'prefixed':
-      var prefix = this._prefixes[token.prefix];
-      if (prefix === undefined)
-        return this._error('Undefined prefix "' + token.prefix + ':"', token);
-      value = this._namedNode(prefix + token.value);
-      break;
-    // Read a blank node
-    case 'blank':
-      value = this._blankNode(this._prefixes[token.prefix] + token.value);
-      break;
-    // Read a variable
-    case 'var':
-      value = this._variable(token.value.substr(1));
-      break;
-    // Everything else is not an entity
-    default:
-      return this._error('Expected entity but got ' + token.type, token);
-    }
-    // In N3 mode, replace the entity if it is quantified
-    if (!quantifier && this._n3Mode && (value.id in this._quantified))
-      value = this._quantified[value.id];
-    return value;
-  }
 
-  // ### `_readSubject` reads a quad's subject
+    switch (token.type) {
+      // Read a relative or absolute IRI
+      case 'IRI':
+      case 'typeIRI':
+        var iri = this._resolveIRI(token.value);
+
+        if (iri === '') return this._error('Invalid IRI', token);
+        value = this._namedNode(iri);
+        break;
+      // Read a prefixed name
+
+      case 'type':
+      case 'prefixed':
+        var prefix = this._prefixes[token.prefix];
+        if (prefix === undefined) return this._error('Undefined prefix "' + token.prefix + ':"', token);
+        value = this._namedNode(prefix + token.value);
+        break;
+      // Read a blank node
+
+      case 'blank':
+        value = this._blankNode(this._prefixes[token.prefix] + token.value);
+        break;
+      // Read a variable
+
+      case 'var':
+        value = this._variable(token.value.substr(1));
+        break;
+      // Everything else is not an entity
+
+      default:
+        return this._error('Expected entity but got ' + token.type, token);
+    } // In N3 mode, replace the entity if it is quantified
+
+
+    if (!quantifier && this._n3Mode && value.id in this._quantified) value = this._quantified[value.id];
+    return value;
+  } // ### `_readSubject` reads a quad's subject
+
+
   _readSubject(token) {
     this._predicate = null;
+
     switch (token.type) {
-    case '[':
-      // Start a new quad with a new blank node as subject
-      this._saveContext('blank', this._graph,
-                        this._subject = this._blank(), null, null);
-      return this._readBlankNodeHead;
-    case '(':
-      // Start a new list
-      this._saveContext('list', this._graph, this.RDF_NIL, null, null);
-      this._subject = null;
-      return this._readListItem;
-    case '{':
-      // Start a new formula
-      if (!this._n3Mode)
-        return this._error('Unexpected graph', token);
-      this._saveContext('formula', this._graph,
-                        this._graph = this._blank(), null, null);
-      return this._readSubject;
-    case '}':
-       // No subject; the graph in which we are reading is closed instead
-      return this._readPunctuation(token);
-    case '@forSome':
-      if (!this._n3Mode)
-        return this._error('Unexpected "@forSome"', token);
-      this._subject = null;
-      this._predicate = this.N3_FORSOME;
-      this._quantifier = this._blankNode;
-      return this._readQuantifierList;
-    case '@forAll':
-      if (!this._n3Mode)
-        return this._error('Unexpected "@forAll"', token);
-      this._subject = null;
-      this._predicate = this.N3_FORALL;
-      this._quantifier = this._variable;
-      return this._readQuantifierList;
-    default:
-      // Read the subject entity
-      if ((this._subject = this._readEntity(token)) === undefined)
-        return;
-      // In N3 mode, the subject might be a path
-      if (this._n3Mode)
-        return this._getPathReader(this._readPredicateOrNamedGraph);
-    }
+      case '[':
+        // Start a new quad with a new blank node as subject
+        this._saveContext('blank', this._graph, this._subject = this._blank(), null, null);
 
-    // The next token must be a predicate,
+        return this._readBlankNodeHead;
+
+      case '(':
+        // Start a new list
+        this._saveContext('list', this._graph, this.RDF_NIL, null, null);
+
+        this._subject = null;
+        return this._readListItem;
+
+      case '{':
+        // Start a new formula
+        if (!this._n3Mode) return this._error('Unexpected graph', token);
+
+        this._saveContext('formula', this._graph, this._graph = this._blank(), null, null);
+
+        return this._readSubject;
+
+      case '}':
+        // No subject; the graph in which we are reading is closed instead
+        return this._readPunctuation(token);
+
+      case '@forSome':
+        if (!this._n3Mode) return this._error('Unexpected "@forSome"', token);
+        this._subject = null;
+        this._predicate = this.N3_FORSOME;
+        this._quantifier = this._blankNode;
+        return this._readQuantifierList;
+
+      case '@forAll':
+        if (!this._n3Mode) return this._error('Unexpected "@forAll"', token);
+        this._subject = null;
+        this._predicate = this.N3_FORALL;
+        this._quantifier = this._variable;
+        return this._readQuantifierList;
+
+      default:
+        // Read the subject entity
+        if ((this._subject = this._readEntity(token)) === undefined) return; // In N3 mode, the subject might be a path
+
+        if (this._n3Mode) return this._getPathReader(this._readPredicateOrNamedGraph);
+    } // The next token must be a predicate,
     // or, if the subject was actually a graph IRI, a named graph
-    return this._readPredicateOrNamedGraph;
-  }
 
-  // ### `_readPredicate` reads a quad's predicate
+
+    return this._readPredicateOrNamedGraph;
+  } // ### `_readPredicate` reads a quad's predicate
+
+
   _readPredicate(token) {
     var type = token.type;
-    switch (type) {
-    case 'inverse':
-      this._inversePredicate = true;
-    case 'abbreviation':
-      this._predicate = this.ABBREVIATIONS[token.value];
-      break;
-    case '.':
-    case ']':
-    case '}':
-      // Expected predicate didn't come, must have been trailing semicolon
-      if (this._predicate === null)
-        return this._error('Unexpected ' + type, token);
-      this._subject = null;
-      return type === ']' ? this._readBlankNodeTail(token) : this._readPunctuation(token);
-    case ';':
-      // Additional semicolons can be safely ignored
-      return this._predicate !== null ? this._readPredicate :
-             this._error('Expected predicate but got ;', token);
-    case 'blank':
-      if (!this._n3Mode)
-        return this._error('Disallowed blank node as predicate', token);
-    default:
-      if ((this._predicate = this._readEntity(token)) === undefined)
-        return;
-    }
-    // The next token must be an object
-    return this._readObject;
-  }
 
-  // ### `_readObject` reads a quad's object
+    switch (type) {
+      case 'inverse':
+        this._inversePredicate = true;
+
+      case 'abbreviation':
+        this._predicate = this.ABBREVIATIONS[token.value];
+        break;
+
+      case '.':
+      case ']':
+      case '}':
+        // Expected predicate didn't come, must have been trailing semicolon
+        if (this._predicate === null) return this._error('Unexpected ' + type, token);
+        this._subject = null;
+        return type === ']' ? this._readBlankNodeTail(token) : this._readPunctuation(token);
+
+      case ';':
+        // Additional semicolons can be safely ignored
+        return this._predicate !== null ? this._readPredicate : this._error('Expected predicate but got ;', token);
+
+      case 'blank':
+        if (!this._n3Mode) return this._error('Disallowed blank node as predicate', token);
+
+      default:
+        if ((this._predicate = this._readEntity(token)) === undefined) return;
+    } // The next token must be an object
+
+
+    return this._readObject;
+  } // ### `_readObject` reads a quad's object
+
+
   _readObject(token) {
     switch (token.type) {
-    case 'literal':
-      // Regular literal, can still get a datatype or language
-      if (token.prefix.length === 0) {
-        this._literalValue = token.value;
-        return this._readDataTypeOrLang;
-      }
-      // Pre-datatyped string literal (prefix stores the datatype)
-      else
-        this._object = this._literal(token.value, this._namedNode(token.prefix));
-      break;
-    case '[':
-      // Start a new quad with a new blank node as subject
-      this._saveContext('blank', this._graph, this._subject, this._predicate,
-                        this._subject = this._blank());
-      return this._readBlankNodeHead;
-    case '(':
-      // Start a new list
-      this._saveContext('list', this._graph, this._subject, this._predicate, this.RDF_NIL);
-      this._subject = null;
-      return this._readListItem;
-    case '{':
-      // Start a new formula
-      if (!this._n3Mode)
-        return this._error('Unexpected graph', token);
-      this._saveContext('formula', this._graph, this._subject, this._predicate,
-                        this._graph = this._blank());
-      return this._readSubject;
-    default:
-      // Read the object entity
-      if ((this._object = this._readEntity(token)) === undefined)
-        return;
-      // In N3 mode, the object might be a path
-      if (this._n3Mode)
-        return this._getPathReader(this._getContextEndReader());
-    }
-    return this._getContextEndReader();
-  }
+      case 'literal':
+        // Regular literal, can still get a datatype or language
+        if (token.prefix.length === 0) {
+          this._literalValue = token.value;
+          return this._readDataTypeOrLang;
+        } // Pre-datatyped string literal (prefix stores the datatype)
+        else this._object = this._literal(token.value, this._namedNode(token.prefix));
 
-  // ### `_readPredicateOrNamedGraph` reads a quad's predicate, or a named graph
+        break;
+
+      case '[':
+        // Start a new quad with a new blank node as subject
+        this._saveContext('blank', this._graph, this._subject, this._predicate, this._subject = this._blank());
+
+        return this._readBlankNodeHead;
+
+      case '(':
+        // Start a new list
+        this._saveContext('list', this._graph, this._subject, this._predicate, this.RDF_NIL);
+
+        this._subject = null;
+        return this._readListItem;
+
+      case '{':
+        // Start a new formula
+        if (!this._n3Mode) return this._error('Unexpected graph', token);
+
+        this._saveContext('formula', this._graph, this._subject, this._predicate, this._graph = this._blank());
+
+        return this._readSubject;
+
+      default:
+        // Read the object entity
+        if ((this._object = this._readEntity(token)) === undefined) return; // In N3 mode, the object might be a path
+
+        if (this._n3Mode) return this._getPathReader(this._getContextEndReader());
+    }
+
+    return this._getContextEndReader();
+  } // ### `_readPredicateOrNamedGraph` reads a quad's predicate, or a named graph
+
+
   _readPredicateOrNamedGraph(token) {
     return token.type === '{' ? this._readGraph(token) : this._readPredicate(token);
-  }
+  } // ### `_readGraph` reads a graph
 
-  // ### `_readGraph` reads a graph
+
   _readGraph(token) {
-    if (token.type !== '{')
-      return this._error('Expected graph but got ' + token.type, token);
-    // The "subject" we read is actually the GRAPH's label
+    if (token.type !== '{') return this._error('Expected graph but got ' + token.type, token); // The "subject" we read is actually the GRAPH's label
+
     this._graph = this._subject, this._subject = null;
     return this._readSubject;
-  }
+  } // ### `_readBlankNodeHead` reads the head of a blank node
 
-  // ### `_readBlankNodeHead` reads the head of a blank node
+
   _readBlankNodeHead(token) {
     if (token.type === ']') {
       this._subject = null;
       return this._readBlankNodeTail(token);
-    }
-    else {
+    } else {
       this._predicate = null;
       return this._readPredicate(token);
     }
-  }
+  } // ### `_readBlankNodeTail` reads the end of a blank node
 
-  // ### `_readBlankNodeTail` reads the end of a blank node
+
   _readBlankNodeTail(token) {
-    if (token.type !== ']')
-      return this._readBlankNodePunctuation(token);
+    if (token.type !== ']') return this._readBlankNodePunctuation(token); // Store blank node quad
 
-    // Store blank node quad
-    if (this._subject !== null)
-      this._emit(this._subject, this._predicate, this._object, this._graph);
+    if (this._subject !== null) this._emit(this._subject, this._predicate, this._object, this._graph); // Restore the parent context containing this blank node
 
-    // Restore the parent context containing this blank node
     var empty = this._predicate === null;
-    this._restoreContext();
-    // If the blank node was the subject, continue reading the predicate
-    if (this._object === null)
-      // If the blank node was empty, it could be a named graph label
-      return empty ? this._readPredicateOrNamedGraph : this._readPredicateAfterBlank;
-    // If the blank node was the object, restore previous context and read punctuation
-    else
-      return this._getContextEndReader();
-  }
 
-  // ### `_readPredicateAfterBlank` reads a predicate after an anonymous blank node
+    this._restoreContext(); // If the blank node was the subject, continue reading the predicate
+
+
+    if (this._object === null) // If the blank node was empty, it could be a named graph label
+      return empty ? this._readPredicateOrNamedGraph : this._readPredicateAfterBlank; // If the blank node was the object, restore previous context and read punctuation
+    else return this._getContextEndReader();
+  } // ### `_readPredicateAfterBlank` reads a predicate after an anonymous blank node
+
+
   _readPredicateAfterBlank(token) {
     switch (token.type) {
-    case '.':
-    case '}':
-      // No predicate is coming if the triple is terminated here
-      this._subject = null;
-      return this._readPunctuation(token);
-    default:
-      return this._readPredicate(token);
-    }
-  }
+      case '.':
+      case '}':
+        // No predicate is coming if the triple is terminated here
+        this._subject = null;
+        return this._readPunctuation(token);
 
-  // ### `_readListItem` reads items from a list
+      default:
+        return this._readPredicate(token);
+    }
+  } // ### `_readListItem` reads items from a list
+
+
   _readListItem(token) {
-    var item = null,                      // The item of the list
-        list = null,                      // The list itself
-        previousList = this._subject,     // The previous list that contains this list
-        stack = this._contextStack,       // The stack of parent contexts
-        parent = stack[stack.length - 1], // The parent containing the current list
-        next = this._readListItem;        // The next function to execute
+    var item = null,
+        // The item of the list
+    list = null,
+        // The list itself
+    previousList = this._subject,
+        // The previous list that contains this list
+    stack = this._contextStack,
+        // The stack of parent contexts
+    parent = stack[stack.length - 1],
+        // The parent containing the current list
+    next = this._readListItem; // The next function to execute
 
     switch (token.type) {
-    case '[':
-      // Stack the current list quad and start a new quad with a blank node as subject
-      this._saveContext('blank', this._graph,
-                        list = this._blank(), this.RDF_FIRST,
-                        this._subject = item = this._blank());
-      next = this._readBlankNodeHead;
-      break;
-    case '(':
-      // Stack the current list quad and start a new list
-      this._saveContext('list', this._graph,
-                        list = this._blank(), this.RDF_FIRST, this.RDF_NIL);
-      this._subject = null;
-      break;
-    case ')':
-      // Closing the list; restore the parent context
-      this._restoreContext();
-      // If this list is contained within a parent list, return the membership quad here.
-      // This will be `<parent list element> rdf:first <this list>.`.
-      if (stack.length !== 0 && stack[stack.length - 1].type === 'list')
-        this._emit(this._subject, this._predicate, this._object, this._graph);
-      // Was this list the parent's subject?
-      if (this._predicate === null) {
-        // The next token is the predicate
-        next = this._readPredicate;
-        // No list tail if this was an empty list
-        if (this._subject === this.RDF_NIL)
-          return next;
-      }
-      // The list was in the parent context's object
-      else {
-        next = this._getContextEndReader();
-        // No list tail if this was an empty list
-        if (this._object === this.RDF_NIL)
-          return next;
-      }
-      // Close the list by making the head nil
-      list = this.RDF_NIL;
-      break;
-    case 'literal':
-      // Regular literal, can still get a datatype or language
-      if (token.prefix.length === 0) {
-        this._literalValue = token.value;
-        next = this._readListItemDataTypeOrLang;
-      }
-      // Pre-datatyped string literal (prefix stores the datatype)
-      else {
-        item = this._literal(token.value, this._namedNode(token.prefix));
-        next = this._getContextEndReader();
-      }
-      break;
-    default:
-      if ((item = this._readEntity(token)) === undefined)
-        return;
-    }
+      case '[':
+        // Stack the current list quad and start a new quad with a blank node as subject
+        this._saveContext('blank', this._graph, list = this._blank(), this.RDF_FIRST, this._subject = item = this._blank());
 
-     // Create a new blank node if no item head was assigned yet
-    if (list === null)
-      this._subject = list = this._blank();
+        next = this._readBlankNodeHead;
+        break;
 
-    // Is this the first element of the list?
+      case '(':
+        // Stack the current list quad and start a new list
+        this._saveContext('list', this._graph, list = this._blank(), this.RDF_FIRST, this.RDF_NIL);
+
+        this._subject = null;
+        break;
+
+      case ')':
+        // Closing the list; restore the parent context
+        this._restoreContext(); // If this list is contained within a parent list, return the membership quad here.
+        // This will be `<parent list element> rdf:first <this list>.`.
+
+
+        if (stack.length !== 0 && stack[stack.length - 1].type === 'list') this._emit(this._subject, this._predicate, this._object, this._graph); // Was this list the parent's subject?
+
+        if (this._predicate === null) {
+          // The next token is the predicate
+          next = this._readPredicate; // No list tail if this was an empty list
+
+          if (this._subject === this.RDF_NIL) return next;
+        } // The list was in the parent context's object
+        else {
+            next = this._getContextEndReader(); // No list tail if this was an empty list
+
+            if (this._object === this.RDF_NIL) return next;
+          } // Close the list by making the head nil
+
+
+        list = this.RDF_NIL;
+        break;
+
+      case 'literal':
+        // Regular literal, can still get a datatype or language
+        if (token.prefix.length === 0) {
+          this._literalValue = token.value;
+          next = this._readListItemDataTypeOrLang;
+        } // Pre-datatyped string literal (prefix stores the datatype)
+        else {
+            item = this._literal(token.value, this._namedNode(token.prefix));
+            next = this._getContextEndReader();
+          }
+
+        break;
+
+      default:
+        if ((item = this._readEntity(token)) === undefined) return;
+    } // Create a new blank node if no item head was assigned yet
+
+
+    if (list === null) this._subject = list = this._blank(); // Is this the first element of the list?
+
     if (previousList === null) {
       // This list is either the subject or the object of its parent
-      if (parent.predicate === null)
-        parent.subject = list;
-      else
-        parent.object = list;
-    }
-    else {
+      if (parent.predicate === null) parent.subject = list;else parent.object = list;
+    } else {
       // Continue the previous list with the current list
       this._emit(previousList, this.RDF_REST, list, this._graph);
-    }
-    // If an item was read, add it to the list
+    } // If an item was read, add it to the list
+
+
     if (item !== null) {
       // In N3 mode, the item might be a path
       if (this._n3Mode && (token.type === 'IRI' || token.type === 'prefixed')) {
         // Create a new context to add the item's path
         this._saveContext('item', this._graph, list, this.RDF_FIRST, item);
-        this._subject = item, this._predicate = null;
-        // _readPath will restore the context and output the item
+
+        this._subject = item, this._predicate = null; // _readPath will restore the context and output the item
+
         return this._getPathReader(this._readListItem);
-      }
-      // Output the item
+      } // Output the item
+
+
       this._emit(list, this.RDF_FIRST, item, this._graph);
     }
-    return next;
-  }
 
-  // ### `_readDataTypeOrLang` reads an _optional_ datatype or language
+    return next;
+  } // ### `_readDataTypeOrLang` reads an _optional_ datatype or language
+
+
   _readDataTypeOrLang(token) {
     return this._completeLiteral(token, false);
-  }
+  } // ### `_readListItemDataTypeOrLang` reads an _optional_ datatype or language in a list
 
-  // ### `_readListItemDataTypeOrLang` reads an _optional_ datatype or language in a list
+
   _readListItemDataTypeOrLang(token) {
     return this._completeLiteral(token, true);
-  }
+  } // ### `_completeLiteral` completes a literal with an optional datatype or language
 
-  // ### `_completeLiteral` completes a literal with an optional datatype or language
+
   _completeLiteral(token, listItem) {
     switch (token.type) {
-    // Create a datatyped literal
-    case 'type':
-    case 'typeIRI':
-      var datatype = this._readEntity(token);
-      if (datatype === undefined) return; // No datatype means an error occurred
-      this._object = this._literal(this._literalValue, datatype);
-      token = null;
-      break;
-    // Create a language-tagged string
-    case 'langcode':
-      this._object = this._literal(this._literalValue, token.value);
-      token = null;
-      break;
-    // Create a simple string literal
-    default:
-      this._object = this._literal(this._literalValue);
-    }
-    // If this literal was part of a list, write the item
-    // (we could also check the context stack, but passing in a flag is faster)
-    if (listItem)
-      this._emit(this._subject, this.RDF_FIRST, this._object, this._graph);
-    // If the token was consumed, continue with the rest of the input
-    if (token === null)
-      return this._getContextEndReader();
-    // Otherwise, consume the token now
-    else {
-      this._readCallback = this._getContextEndReader();
-      return this._readCallback(token);
-    }
-  }
+      // Create a datatyped literal
+      case 'type':
+      case 'typeIRI':
+        var datatype = this._readEntity(token);
 
-  // ### `_readFormulaTail` reads the end of a formula
-  _readFormulaTail(token) {
-    if (token.type !== '}')
-      return this._readPunctuation(token);
+        if (datatype === undefined) return; // No datatype means an error occurred
 
-    // Store the last quad of the formula
-    if (this._subject !== null)
-      this._emit(this._subject, this._predicate, this._object, this._graph);
-
-    // Restore the parent context containing this formula
-    this._restoreContext();
-    // If the formula was the subject, continue reading the predicate.
-    // If the formula was the object, read punctuation.
-    return this._object === null ? this._readPredicate : this._getContextEndReader();
-  }
-
-  // ### `_readPunctuation` reads punctuation between quads or quad parts
-  _readPunctuation(token) {
-    var next, subject = this._subject, graph = this._graph,
-        inversePredicate = this._inversePredicate;
-    switch (token.type) {
-    // A closing brace ends a graph
-    case '}':
-      if (this._graph === null)
-        return this._error('Unexpected graph closing', token);
-      if (this._n3Mode)
-        return this._readFormulaTail(token);
-      this._graph = null;
-    // A dot just ends the statement, without sharing anything with the next
-    case '.':
-      this._subject = null;
-      next = this._contextStack.length ? this._readSubject : this._readInTopContext;
-      if (inversePredicate) this._inversePredicate = false;
-      break;
-    // Semicolon means the subject is shared; predicate and object are different
-    case ';':
-      next = this._readPredicate;
-      break;
-    // Comma means both the subject and predicate are shared; the object is different
-    case ',':
-      next = this._readObject;
-      break;
-    default:
-      // An entity means this is a quad (only allowed if not already inside a graph)
-      if (this._supportsQuads && this._graph === null && (graph = this._readEntity(token)) !== undefined) {
-        next = this._readQuadPunctuation;
+        this._object = this._literal(this._literalValue, datatype);
+        token = null;
         break;
-      }
-      return this._error('Expected punctuation to follow "' + this._object.id + '"', token);
-    }
-    // A quad has been completed now, so return it
-    if (subject !== null) {
-      var predicate = this._predicate, object = this._object;
-      if (!inversePredicate)
-        this._emit(subject, predicate, object,  graph);
-      else
-        this._emit(object,  predicate, subject, graph);
-    }
-    return next;
-  }
+      // Create a language-tagged string
 
-    // ### `_readBlankNodePunctuation` reads punctuation in a blank node
+      case 'langcode':
+        this._object = this._literal(this._literalValue, token.value);
+        token = null;
+        break;
+      // Create a simple string literal
+
+      default:
+        this._object = this._literal(this._literalValue);
+    } // If this literal was part of a list, write the item
+    // (we could also check the context stack, but passing in a flag is faster)
+
+
+    if (listItem) this._emit(this._subject, this.RDF_FIRST, this._object, this._graph); // If the token was consumed, continue with the rest of the input
+
+    if (token === null) return this._getContextEndReader(); // Otherwise, consume the token now
+    else {
+        this._readCallback = this._getContextEndReader();
+        return this._readCallback(token);
+      }
+  } // ### `_readFormulaTail` reads the end of a formula
+
+
+  _readFormulaTail(token) {
+    if (token.type !== '}') return this._readPunctuation(token); // Store the last quad of the formula
+
+    if (this._subject !== null) this._emit(this._subject, this._predicate, this._object, this._graph); // Restore the parent context containing this formula
+
+    this._restoreContext(); // If the formula was the subject, continue reading the predicate.
+    // If the formula was the object, read punctuation.
+
+
+    return this._object === null ? this._readPredicate : this._getContextEndReader();
+  } // ### `_readPunctuation` reads punctuation between quads or quad parts
+
+
+  _readPunctuation(token) {
+    var next,
+        subject = this._subject,
+        graph = this._graph,
+        inversePredicate = this._inversePredicate;
+
+    switch (token.type) {
+      // A closing brace ends a graph
+      case '}':
+        if (this._graph === null) return this._error('Unexpected graph closing', token);
+        if (this._n3Mode) return this._readFormulaTail(token);
+        this._graph = null;
+      // A dot just ends the statement, without sharing anything with the next
+
+      case '.':
+        this._subject = null;
+        next = this._contextStack.length ? this._readSubject : this._readInTopContext;
+        if (inversePredicate) this._inversePredicate = false;
+        break;
+      // Semicolon means the subject is shared; predicate and object are different
+
+      case ';':
+        next = this._readPredicate;
+        break;
+      // Comma means both the subject and predicate are shared; the object is different
+
+      case ',':
+        next = this._readObject;
+        break;
+
+      default:
+        // An entity means this is a quad (only allowed if not already inside a graph)
+        if (this._supportsQuads && this._graph === null && (graph = this._readEntity(token)) !== undefined) {
+          next = this._readQuadPunctuation;
+          break;
+        }
+
+        return this._error('Expected punctuation to follow "' + this._object.id + '"', token);
+    } // A quad has been completed now, so return it
+
+
+    if (subject !== null) {
+      var predicate = this._predicate,
+          object = this._object;
+      if (!inversePredicate) this._emit(subject, predicate, object, graph);else this._emit(object, predicate, subject, graph);
+    }
+
+    return next;
+  } // ### `_readBlankNodePunctuation` reads punctuation in a blank node
+
+
   _readBlankNodePunctuation(token) {
     var next;
+
     switch (token.type) {
-    // Semicolon means the subject is shared; predicate and object are different
-    case ';':
-      next = this._readPredicate;
-      break;
-    // Comma means both the subject and predicate are shared; the object is different
-    case ',':
-      next = this._readObject;
-      break;
-    default:
-      return this._error('Expected punctuation to follow "' + this._object.id + '"', token);
-    }
-    // A quad has been completed now, so return it
+      // Semicolon means the subject is shared; predicate and object are different
+      case ';':
+        next = this._readPredicate;
+        break;
+      // Comma means both the subject and predicate are shared; the object is different
+
+      case ',':
+        next = this._readObject;
+        break;
+
+      default:
+        return this._error('Expected punctuation to follow "' + this._object.id + '"', token);
+    } // A quad has been completed now, so return it
+
+
     this._emit(this._subject, this._predicate, this._object, this._graph);
+
     return next;
-  }
+  } // ### `_readQuadPunctuation` reads punctuation after a quad
 
-  // ### `_readQuadPunctuation` reads punctuation after a quad
+
   _readQuadPunctuation(token) {
-    if (token.type !== '.')
-      return this._error('Expected dot to follow quad', token);
+    if (token.type !== '.') return this._error('Expected dot to follow quad', token);
     return this._readInTopContext;
-  }
+  } // ### `_readPrefix` reads the prefix of a prefix declaration
 
-  // ### `_readPrefix` reads the prefix of a prefix declaration
+
   _readPrefix(token) {
-    if (token.type !== 'prefix')
-      return this._error('Expected prefix to follow @prefix', token);
+    if (token.type !== 'prefix') return this._error('Expected prefix to follow @prefix', token);
     this._prefix = token.value;
     return this._readPrefixIRI;
-  }
+  } // ### `_readPrefixIRI` reads the IRI of a prefix declaration
 
-  // ### `_readPrefixIRI` reads the IRI of a prefix declaration
+
   _readPrefixIRI(token) {
-    if (token.type !== 'IRI')
-      return this._error('Expected IRI to follow prefix "' + this._prefix + ':"', token);
-    var prefixNode = this._readEntity(token);
-    this._prefixes[this._prefix] = prefixNode.value;
-    this._prefixCallback(this._prefix, prefixNode);
-    return this._readDeclarationPunctuation;
-  }
+    if (token.type !== 'IRI') return this._error('Expected IRI to follow prefix "' + this._prefix + ':"', token);
 
-  // ### `_readBaseIRI` reads the IRI of a base declaration
+    var prefixNode = this._readEntity(token);
+
+    this._prefixes[this._prefix] = prefixNode.value;
+
+    this._prefixCallback(this._prefix, prefixNode);
+
+    return this._readDeclarationPunctuation;
+  } // ### `_readBaseIRI` reads the IRI of a base declaration
+
+
   _readBaseIRI(token) {
     var iri = token.type === 'IRI' && this._resolveIRI(token.value);
-    if (!iri)
-      return this._error('Expected valid IRI to follow base declaration', token);
-    this._setBase(iri);
-    return this._readDeclarationPunctuation;
-  }
 
-  // ### `_readNamedGraphLabel` reads the label of a named graph
+    if (!iri) return this._error('Expected valid IRI to follow base declaration', token);
+
+    this._setBase(iri);
+
+    return this._readDeclarationPunctuation;
+  } // ### `_readNamedGraphLabel` reads the label of a named graph
+
+
   _readNamedGraphLabel(token) {
     switch (token.type) {
-    case 'IRI':
-    case 'blank':
-    case 'prefixed':
-      return this._readSubject(token), this._readGraph;
-    case '[':
-      return this._readNamedGraphBlankLabel;
-    default:
-      return this._error('Invalid graph label', token);
-    }
-  }
+      case 'IRI':
+      case 'blank':
+      case 'prefixed':
+        return this._readSubject(token), this._readGraph;
 
-  // ### `_readNamedGraphLabel` reads a blank node label of a named graph
+      case '[':
+        return this._readNamedGraphBlankLabel;
+
+      default:
+        return this._error('Invalid graph label', token);
+    }
+  } // ### `_readNamedGraphLabel` reads a blank node label of a named graph
+
+
   _readNamedGraphBlankLabel(token) {
-    if (token.type !== ']')
-      return this._error('Invalid graph label', token);
+    if (token.type !== ']') return this._error('Invalid graph label', token);
     this._subject = this._blank();
     return this._readGraph;
-  }
+  } // ### `_readDeclarationPunctuation` reads the punctuation of a declaration
 
-  // ### `_readDeclarationPunctuation` reads the punctuation of a declaration
+
   _readDeclarationPunctuation(token) {
     // SPARQL-style declarations don't have punctuation
     if (this._sparqlStyle) {
@@ -15076,397 +16457,423 @@ class N3Parser {
       return this._readInTopContext(token);
     }
 
-    if (token.type !== '.')
-      return this._error('Expected declaration to end with a dot', token);
+    if (token.type !== '.') return this._error('Expected declaration to end with a dot', token);
     return this._readInTopContext;
-  }
+  } // Reads a list of quantified symbols from a @forSome or @forAll statement
 
-  // Reads a list of quantified symbols from a @forSome or @forAll statement
+
   _readQuantifierList(token) {
     var entity;
-    switch (token.type) {
-    case 'IRI':
-    case 'prefixed':
-      if ((entity = this._readEntity(token, true)) !== undefined)
-        break;
-    default:
-      return this._error('Unexpected ' + token.type, token);
-    }
-    // Without explicit quantifiers, map entities to a quantified entity
-    if (!this._explicitQuantifiers)
-      this._quantified[entity.id] = this._quantifier('b' + blankNodeCount++);
-    // With explicit quantifiers, output the reified quantifier
-    else {
-      // If this is the first item, start a new quantifier list
-      if (this._subject === null)
-        this._emit(this._graph || this.DEFAULTGRAPH, this._predicate,
-                   this._subject = this._blank(), this.QUANTIFIERS_GRAPH);
-      // Otherwise, continue the previous list
-      else
-        this._emit(this._subject, this.RDF_REST,
-                   this._subject = this._blank(), this.QUANTIFIERS_GRAPH);
-      // Output the list item
-      this._emit(this._subject, this.RDF_FIRST, entity, this.QUANTIFIERS_GRAPH);
-    }
-    return this._readQuantifierPunctuation;
-  }
 
-  // Reads punctuation from a @forSome or @forAll statement
+    switch (token.type) {
+      case 'IRI':
+      case 'prefixed':
+        if ((entity = this._readEntity(token, true)) !== undefined) break;
+
+      default:
+        return this._error('Unexpected ' + token.type, token);
+    } // Without explicit quantifiers, map entities to a quantified entity
+
+
+    if (!this._explicitQuantifiers) this._quantified[entity.id] = this._quantifier('b' + blankNodeCount++); // With explicit quantifiers, output the reified quantifier
+    else {
+        // If this is the first item, start a new quantifier list
+        if (this._subject === null) this._emit(this._graph || this.DEFAULTGRAPH, this._predicate, this._subject = this._blank(), this.QUANTIFIERS_GRAPH); // Otherwise, continue the previous list
+        else this._emit(this._subject, this.RDF_REST, this._subject = this._blank(), this.QUANTIFIERS_GRAPH); // Output the list item
+
+        this._emit(this._subject, this.RDF_FIRST, entity, this.QUANTIFIERS_GRAPH);
+      }
+    return this._readQuantifierPunctuation;
+  } // Reads punctuation from a @forSome or @forAll statement
+
+
   _readQuantifierPunctuation(token) {
     // Read more quantifiers
-    if (token.type === ',')
-      return this._readQuantifierList;
-    // End of the quantifier list
+    if (token.type === ',') return this._readQuantifierList; // End of the quantifier list
     else {
-      // With explicit quantifiers, close the quantifier list
-      if (this._explicitQuantifiers) {
-        this._emit(this._subject, this.RDF_REST, this.RDF_NIL, this.QUANTIFIERS_GRAPH);
-        this._subject = null;
-      }
-      // Read a dot
-      this._readCallback = this._getContextEndReader();
-      return this._readCallback(token);
-    }
-  }
+        // With explicit quantifiers, close the quantifier list
+        if (this._explicitQuantifiers) {
+          this._emit(this._subject, this.RDF_REST, this.RDF_NIL, this.QUANTIFIERS_GRAPH);
 
-  // ### `_getPathReader` reads a potential path and then resumes with the given function
+          this._subject = null;
+        } // Read a dot
+
+
+        this._readCallback = this._getContextEndReader();
+        return this._readCallback(token);
+      }
+  } // ### `_getPathReader` reads a potential path and then resumes with the given function
+
+
   _getPathReader(afterPath) {
     this._afterPath = afterPath;
     return this._readPath;
-  }
+  } // ### `_readPath` reads a potential path
 
-  // ### `_readPath` reads a potential path
+
   _readPath(token) {
     switch (token.type) {
-    // Forward path
-    case '!': return this._readForwardPath;
-    // Backward path
-    case '^': return this._readBackwardPath;
-    // Not a path; resume reading where we left off
-    default:
-      var stack = this._contextStack, parent = stack.length && stack[stack.length - 1];
-      // If we were reading a list item, we still need to output it
-      if (parent && parent.type === 'item') {
-        // The list item is the remaining subejct after reading the path
-        var item = this._subject;
-        // Switch back to the context of the list
-        this._restoreContext();
-        // Output the list item
-        this._emit(this._subject, this.RDF_FIRST, item, this._graph);
-      }
-      return this._afterPath(token);
+      // Forward path
+      case '!':
+        return this._readForwardPath;
+      // Backward path
+
+      case '^':
+        return this._readBackwardPath;
+      // Not a path; resume reading where we left off
+
+      default:
+        var stack = this._contextStack,
+            parent = stack.length && stack[stack.length - 1]; // If we were reading a list item, we still need to output it
+
+        if (parent && parent.type === 'item') {
+          // The list item is the remaining subejct after reading the path
+          var item = this._subject; // Switch back to the context of the list
+
+          this._restoreContext(); // Output the list item
+
+
+          this._emit(this._subject, this.RDF_FIRST, item, this._graph);
+        }
+
+        return this._afterPath(token);
     }
-  }
+  } // ### `_readForwardPath` reads a '!' path
 
-  // ### `_readForwardPath` reads a '!' path
+
   _readForwardPath(token) {
-    var subject, predicate, object = this._blank();
-    // The next token is the predicate
-    if ((predicate = this._readEntity(token)) === undefined)
-      return;
-    // If we were reading a subject, replace the subject by the path's object
-    if (this._predicate === null)
-      subject = this._subject, this._subject = object;
-    // If we were reading an object, replace the subject by the path's object
-    else
-      subject = this._object,  this._object  = object;
-    // Emit the path's current quad and read its next section
-    this._emit(subject, predicate, object, this._graph);
-    return this._readPath;
-  }
+    var subject,
+        predicate,
+        object = this._blank(); // The next token is the predicate
 
-  // ### `_readBackwardPath` reads a '^' path
+
+    if ((predicate = this._readEntity(token)) === undefined) return; // If we were reading a subject, replace the subject by the path's object
+
+    if (this._predicate === null) subject = this._subject, this._subject = object; // If we were reading an object, replace the subject by the path's object
+    else subject = this._object, this._object = object; // Emit the path's current quad and read its next section
+
+    this._emit(subject, predicate, object, this._graph);
+
+    return this._readPath;
+  } // ### `_readBackwardPath` reads a '^' path
+
+
   _readBackwardPath(token) {
-    var subject = this._blank(), predicate, object;
-    // The next token is the predicate
-    if ((predicate = this._readEntity(token)) === undefined)
-      return;
-    // If we were reading a subject, replace the subject by the path's subject
-    if (this._predicate === null)
-      object = this._subject, this._subject = subject;
-    // If we were reading an object, replace the subject by the path's subject
-    else
-      object = this._object,  this._object  = subject;
-    // Emit the path's current quad and read its next section
-    this._emit(subject, predicate, object, this._graph);
-    return this._readPath;
-  }
+    var subject = this._blank(),
+        predicate,
+        object; // The next token is the predicate
 
-  // ### `_getContextEndReader` gets the next reader function at the end of a context
+
+    if ((predicate = this._readEntity(token)) === undefined) return; // If we were reading a subject, replace the subject by the path's subject
+
+    if (this._predicate === null) object = this._subject, this._subject = subject; // If we were reading an object, replace the subject by the path's subject
+    else object = this._object, this._object = subject; // Emit the path's current quad and read its next section
+
+    this._emit(subject, predicate, object, this._graph);
+
+    return this._readPath;
+  } // ### `_getContextEndReader` gets the next reader function at the end of a context
+
+
   _getContextEndReader() {
     var contextStack = this._contextStack;
-    if (!contextStack.length)
-      return this._readPunctuation;
+    if (!contextStack.length) return this._readPunctuation;
 
     switch (contextStack[contextStack.length - 1].type) {
-    case 'blank':
-      return this._readBlankNodeTail;
-    case 'list':
-      return this._readListItem;
-    case 'formula':
-      return this._readFormulaTail;
-    }
-  }
+      case 'blank':
+        return this._readBlankNodeTail;
 
-  // ### `_emit` sends a quad through the callback
+      case 'list':
+        return this._readListItem;
+
+      case 'formula':
+        return this._readFormulaTail;
+    }
+  } // ### `_emit` sends a quad through the callback
+
+
   _emit(subject, predicate, object, graph) {
     this._callback(null, this._quad(subject, predicate, object, graph || this.DEFAULTGRAPH));
-  }
+  } // ### `_error` emits an error message through the callback
 
-  // ### `_error` emits an error message through the callback
+
   _error(message, token) {
     var err = new Error(message + ' on line ' + token.line + '.');
     err.context = {
       token: token,
       line: token.line,
-      previousToken: this._lexer.previousToken,
+      previousToken: this._lexer.previousToken
     };
-    this._callback(err);
-    this._callback = noop;
-  }
 
-  // ### `_resolveIRI` resolves an IRI against the base path
+    this._callback(err);
+
+    this._callback = noop;
+  } // ### `_resolveIRI` resolves an IRI against the base path
+
+
   _resolveIRI(iri) {
     return /^[a-z][a-z0-9+.-]*:/i.test(iri) ? iri : this._resolveRelativeIRI(iri);
-  }
-
-  // ### `_resolveRelativeIRI` resolves an IRI against the base path,
+  } // ### `_resolveRelativeIRI` resolves an IRI against the base path,
   // assuming that a base path has been set and that the IRI is indeed relative
+
+
   _resolveRelativeIRI(iri) {
     // An empty relative IRI indicates the base IRI
-    if (!iri.length)
-      return this._base;
-    // Decide resolving strategy based in the first character
-    switch (iri[0]) {
-    // Resolve relative fragment IRIs against the base IRI
-    case '#': return this._base + iri;
-    // Resolve relative query string IRIs by replacing the query string
-    case '?': return this._base.replace(/(?:\?.*)?$/, iri);
-    // Resolve root-relative IRIs at the root of the base IRI
-    case '/':
-      // Resolve scheme-relative IRIs to the scheme
-      return (iri[1] === '/' ? this._baseScheme : this._baseRoot) + this._removeDotSegments(iri);
-    // Resolve all other IRIs at the base IRI's path
-    default:
-      // Relative IRIs cannot contain a colon in the first path segment
-      return (/^[^/:]*:/.test(iri)) ? '' : this._removeDotSegments(this._basePath + iri);
-    }
-  }
+    if (!iri.length) return this._base; // Decide resolving strategy based in the first character
 
-  // ### `_removeDotSegments` resolves './' and '../' path segments in an IRI as per RFC3986
+    switch (iri[0]) {
+      // Resolve relative fragment IRIs against the base IRI
+      case '#':
+        return this._base + iri;
+      // Resolve relative query string IRIs by replacing the query string
+
+      case '?':
+        return this._base.replace(/(?:\?.*)?$/, iri);
+      // Resolve root-relative IRIs at the root of the base IRI
+
+      case '/':
+        // Resolve scheme-relative IRIs to the scheme
+        return (iri[1] === '/' ? this._baseScheme : this._baseRoot) + this._removeDotSegments(iri);
+      // Resolve all other IRIs at the base IRI's path
+
+      default:
+        // Relative IRIs cannot contain a colon in the first path segment
+        return /^[^/:]*:/.test(iri) ? '' : this._removeDotSegments(this._basePath + iri);
+    }
+  } // ### `_removeDotSegments` resolves './' and '../' path segments in an IRI as per RFC3986
+
+
   _removeDotSegments(iri) {
     // Don't modify the IRI if it does not contain any dot segments
-    if (!/(^|\/)\.\.?($|[/#?])/.test(iri))
-      return iri;
+    if (!/(^|\/)\.\.?($|[/#?])/.test(iri)) return iri; // Start with an imaginary slash before the IRI in order to resolve trailing './' and '../'
 
-    // Start with an imaginary slash before the IRI in order to resolve trailing './' and '../'
-    var result = '', length = iri.length, i = -1, pathStart = -1, segmentStart = 0, next = '/';
+    var result = '',
+        length = iri.length,
+        i = -1,
+        pathStart = -1,
+        segmentStart = 0,
+        next = '/';
 
     while (i < length) {
       switch (next) {
-      // The path starts with the first slash after the authority
-      case ':':
-        if (pathStart < 0) {
-          // Skip two slashes before the authority
-          if (iri[++i] === '/' && iri[++i] === '/')
-            // Skip to slash after the authority
-            while ((pathStart = i + 1) < length && iri[pathStart] !== '/')
-              i = pathStart;
-        }
-        break;
-      // Don't modify a query string or fragment
-      case '?':
-      case '#':
-        i = length;
-        break;
-      // Handle '/.' or '/..' path segments
-      case '/':
-        if (iri[i + 1] === '.') {
-          next = iri[++i + 1];
-          switch (next) {
-          // Remove a '/.' segment
-          case '/':
-            result += iri.substring(segmentStart, i - 1);
-            segmentStart = i + 1;
-            break;
-          // Remove a trailing '/.' segment
-          case undefined:
-          case '?':
-          case '#':
-            return result + iri.substring(segmentStart, i) + iri.substr(i + 1);
-          // Remove a '/..' segment
-          case '.':
+        // The path starts with the first slash after the authority
+        case ':':
+          if (pathStart < 0) {
+            // Skip two slashes before the authority
+            if (iri[++i] === '/' && iri[++i] === '/') // Skip to slash after the authority
+              while ((pathStart = i + 1) < length && iri[pathStart] !== '/') i = pathStart;
+          }
+
+          break;
+        // Don't modify a query string or fragment
+
+        case '?':
+        case '#':
+          i = length;
+          break;
+        // Handle '/.' or '/..' path segments
+
+        case '/':
+          if (iri[i + 1] === '.') {
             next = iri[++i + 1];
-            if (next === undefined || next === '/' || next === '?' || next === '#') {
-              result += iri.substring(segmentStart, i - 2);
-              // Try to remove the parent path from result
-              if ((segmentStart = result.lastIndexOf('/')) >= pathStart)
-                result = result.substr(0, segmentStart);
-              // Remove a trailing '/..' segment
-              if (next !== '/')
-                return result + '/' + iri.substr(i + 1);
-              segmentStart = i + 1;
+
+            switch (next) {
+              // Remove a '/.' segment
+              case '/':
+                result += iri.substring(segmentStart, i - 1);
+                segmentStart = i + 1;
+                break;
+              // Remove a trailing '/.' segment
+
+              case undefined:
+              case '?':
+              case '#':
+                return result + iri.substring(segmentStart, i) + iri.substr(i + 1);
+              // Remove a '/..' segment
+
+              case '.':
+                next = iri[++i + 1];
+
+                if (next === undefined || next === '/' || next === '?' || next === '#') {
+                  result += iri.substring(segmentStart, i - 2); // Try to remove the parent path from result
+
+                  if ((segmentStart = result.lastIndexOf('/')) >= pathStart) result = result.substr(0, segmentStart); // Remove a trailing '/..' segment
+
+                  if (next !== '/') return result + '/' + iri.substr(i + 1);
+                  segmentStart = i + 1;
+                }
+
             }
           }
-        }
+
       }
+
       next = iri[++i];
     }
+
     return result + iri.substring(segmentStart);
-  }
-
-  // ## Public methods
-
+  } // ## Public methods
   // ### `parse` parses the N3 input and emits each parsed quad through the callback
+
+
   parse(input, quadCallback, prefixCallback) {
-    var self = this;
-    // The read callback is the next function to be executed when a token arrives.
+    var self = this; // The read callback is the next function to be executed when a token arrives.
     // We start reading in the top context.
+
     this._readCallback = this._readInTopContext;
     this._sparqlStyle = false;
     this._prefixes = Object.create(null);
-    this._prefixes._ = this._blankNodePrefix ? this._blankNodePrefix.substr(2)
-                                             : 'b' + blankNodePrefix++ + '_';
+    this._prefixes._ = this._blankNodePrefix ? this._blankNodePrefix.substr(2) : 'b' + blankNodePrefix++ + '_';
     this._prefixCallback = prefixCallback || noop;
     this._inversePredicate = false;
-    this._quantified = Object.create(null);
+    this._quantified = Object.create(null); // Parse synchronously if no quad callback is given
 
-    // Parse synchronously if no quad callback is given
     if (!quadCallback) {
-      var quads = [], error;
-      this._callback = function (e, t) { e ? (error = e) : t && quads.push(t); };
+      var quads = [],
+          error;
+
+      this._callback = function (e, t) {
+        e ? error = e : t && quads.push(t);
+      };
+
       this._lexer.tokenize(input).every(function (token) {
         return self._readCallback = self._readCallback(token);
       });
+
       if (error) throw error;
       return quads;
-    }
+    } // Parse asynchronously otherwise, executing the read callback when a token arrives
 
-    // Parse asynchronously otherwise, executing the read callback when a token arrives
+
     this._callback = quadCallback;
+
     this._lexer.tokenize(input, function (error, token) {
-      if (error !== null)
-        self._callback(error), self._callback = noop;
-      else if (self._readCallback)
-        self._readCallback = self._readCallback(token);
+      if (error !== null) self._callback(error), self._callback = noop;else if (self._readCallback) self._readCallback = self._readCallback(token);
     });
   }
-}
 
-// The empty function
-function noop() {}
+} // The empty function
 
-// Initializes the parser with the given data factory
+
+exports.default = N3Parser;
+
+function noop() {} // Initializes the parser with the given data factory
+
+
 function initDataFactory(parser, factory) {
   // Set factory methods
   var namedNode = factory.namedNode;
-  parser._namedNode   = namedNode;
-  parser._blankNode   = factory.blankNode;
-  parser._literal     = factory.literal;
-  parser._variable    = factory.variable;
-  parser._quad        = factory.quad;
-  parser.DEFAULTGRAPH = factory.defaultGraph();
+  parser._namedNode = namedNode;
+  parser._blankNode = factory.blankNode;
+  parser._literal = factory.literal;
+  parser._variable = factory.variable;
+  parser._quad = factory.quad;
+  parser.DEFAULTGRAPH = factory.defaultGraph(); // Set common named nodes
 
-  // Set common named nodes
-  parser.RDF_FIRST  = namedNode(namespaces.rdf.first);
-  parser.RDF_REST   = namedNode(namespaces.rdf.rest);
-  parser.RDF_NIL    = namedNode(namespaces.rdf.nil);
-  parser.N3_FORALL  = namedNode(namespaces.r.forAll);
-  parser.N3_FORSOME = namedNode(namespaces.r.forSome);
+  parser.RDF_FIRST = namedNode(_IRIs.default.rdf.first);
+  parser.RDF_REST = namedNode(_IRIs.default.rdf.rest);
+  parser.RDF_NIL = namedNode(_IRIs.default.rdf.nil);
+  parser.N3_FORALL = namedNode(_IRIs.default.r.forAll);
+  parser.N3_FORSOME = namedNode(_IRIs.default.r.forSome);
   parser.ABBREVIATIONS = {
-    'a': namedNode(namespaces.rdf.type),
-    '=': namedNode(namespaces.owl.sameAs),
-    '>': namedNode(namespaces.log.implies),
+    'a': namedNode(_IRIs.default.rdf.type),
+    '=': namedNode(_IRIs.default.owl.sameAs),
+    '>': namedNode(_IRIs.default.log.implies)
   };
   parser.QUANTIFIERS_GRAPH = namedNode('urn:n3:quantifiers');
 }
-initDataFactory(N3Parser.prototype, DataFactory);
 
-// ## Exports
-module.exports = N3Parser;
+initDataFactory(N3Parser.prototype, _N3DataFactory.default);
+},{"./IRIs":144,"./N3DataFactory":145,"./N3Lexer":146}],148:[function(require,module,exports){
+"use strict";
 
-},{"./IRIs":55,"./N3DataFactory":56,"./N3Lexer":57}],59:[function(require,module,exports){
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+exports.default = void 0;
+
+var _N3DataFactory = _interopRequireDefault(require("./N3DataFactory"));
+
+var _stream = require("stream");
+
+function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
+
 // **N3Store** objects store N3 quads by graph in memory.
+const {
+  toId,
+  fromId
+} = _N3DataFactory.default.internal; // ## Constructor
 
-var DataFactory = require('./N3DataFactory');
-var toId = DataFactory.internal.toId,
-    fromId = DataFactory.internal.fromId;
-
-// ## Constructor
 class N3Store {
   constructor(quads, options) {
     // The number of quads is initially zero
-    this._size = 0;
-    // `_graphs` contains subject, predicate, and object indexes per graph
-    this._graphs = Object.create(null);
-    // `_ids` maps entities such as `http://xmlns.com/foaf/0.1/name` to numbers,
+    this._size = 0; // `_graphs` contains subject, predicate, and object indexes per graph
+
+    this._graphs = Object.create(null); // `_ids` maps entities such as `http://xmlns.com/foaf/0.1/name` to numbers,
     // saving memory by using only numbers as keys in `_graphs`
+
     this._id = 0;
     this._ids = Object.create(null);
     this._ids['><'] = 0; // dummy entry, so the first actual key is non-zero
+
     this._entities = Object.create(null); // inverse of `_ids`
     // `_blankNodeIndex` is the index of the last automatically named blank node
-    this._blankNodeIndex = 0;
 
-    // Shift parameters if `quads` is not given
-    if (!options && quads && !quads[0])
-      options = quads, quads = null;
+    this._blankNodeIndex = 0; // Shift parameters if `quads` is not given
+
+    if (!options && quads && !quads[0]) options = quads, quads = null;
     options = options || {};
-    this._factory = options.factory || DataFactory;
+    this._factory = options.factory || _N3DataFactory.default; // Add quads if passed
 
-    // Add quads if passed
-    if (quads)
-      this.addQuads(quads);
-  }
-
-  // ## Public properties
-
+    if (quads) this.addQuads(quads);
+  } // ## Public properties
   // ### `size` returns the number of quads in the store
+
+
   get size() {
     // Return the quad count if if was cached
     var size = this._size;
-    if (size !== null)
-      return size;
+    if (size !== null) return size; // Calculate the number of quads by counting to the deepest level
 
-    // Calculate the number of quads by counting to the deepest level
     size = 0;
-    var graphs = this._graphs, subjects, subject;
-    for (var graphKey in graphs)
-      for (var subjectKey in (subjects = graphs[graphKey].subjects))
-        for (var predicateKey in (subject = subjects[subjectKey]))
-          size += Object.keys(subject[predicateKey]).length;
+    var graphs = this._graphs,
+        subjects,
+        subject;
+
+    for (var graphKey in graphs) for (var subjectKey in subjects = graphs[graphKey].subjects) for (var predicateKey in subject = subjects[subjectKey]) size += Object.keys(subject[predicateKey]).length;
+
     return this._size = size;
-  }
-
-  // ## Private methods
-
+  } // ## Private methods
   // ### `_addToIndex` adds a quad to a three-layered index.
   // Returns if the index has changed, if the entry did not already exist.
+
+
   _addToIndex(index0, key0, key1, key2) {
     // Create layers as necessary
     var index1 = index0[key0] || (index0[key0] = {});
-    var index2 = index1[key1] || (index1[key1] = {});
-    // Setting the key to _any_ value signals the presence of the quad
-    var existed = key2 in index2;
-    if (!existed)
-      index2[key2] = null;
-    return !existed;
-  }
+    var index2 = index1[key1] || (index1[key1] = {}); // Setting the key to _any_ value signals the presence of the quad
 
-  // ### `_removeFromIndex` removes a quad from a three-layered index
+    var existed = key2 in index2;
+    if (!existed) index2[key2] = null;
+    return !existed;
+  } // ### `_removeFromIndex` removes a quad from a three-layered index
+
+
   _removeFromIndex(index0, key0, key1, key2) {
     // Remove the quad from the index
-    var index1 = index0[key0], index2 = index1[key1], key;
-    delete index2[key2];
+    var index1 = index0[key0],
+        index2 = index1[key1],
+        key;
+    delete index2[key2]; // Remove intermediary index layers if they are empty
 
-    // Remove intermediary index layers if they are empty
     for (key in index2) return;
-    delete index1[key1];
-    for (key in index1) return;
-    delete index0[key0];
-  }
 
-  // ### `_findInIndex` finds a set of quads in a three-layered index.
+    delete index1[key1];
+
+    for (key in index1) return;
+
+    delete index0[key0];
+  } // ### `_findInIndex` finds a set of quads in a three-layered index.
   // The index base is `index0` and the keys at each level are `key0`, `key1`, and `key2`.
   // Any of these keys can be undefined, which is interpreted as a wildcard.
   // `name0`, `name1`, and `name2` are the names of the keys at each level,
@@ -15476,233 +16883,256 @@ class N3Store {
   // If `callback` is given, each result is passed through it
   // and iteration halts when it returns truthy for any quad.
   // If instead `array` is given, each result is added to the array.
-  _findInIndex(index0, key0, key1, key2, name0, name1, name2, graph, callback, array) {
-    var tmp, index1, index2, varCount = !key0 + !key1 + !key2,
-        // depending on the number of variables, keys or reverse index are faster
-        entityKeys = varCount > 1 ? Object.keys(this._ids) : this._entities;
 
-    // If a key is specified, use only that part of index 0.
+
+  _findInIndex(index0, key0, key1, key2, name0, name1, name2, graph, callback, array) {
+    var tmp,
+        index1,
+        index2,
+        varCount = !key0 + !key1 + !key2,
+        // depending on the number of variables, keys or reverse index are faster
+    entityKeys = varCount > 1 ? Object.keys(this._ids) : this._entities; // If a key is specified, use only that part of index 0.
+
     if (key0) (tmp = index0, index0 = {})[key0] = tmp[key0];
+
     for (var value0 in index0) {
       var entity0 = entityKeys[value0];
 
       if (index1 = index0[value0]) {
         // If a key is specified, use only that part of index 1.
         if (key1) (tmp = index1, index1 = {})[key1] = tmp[key1];
+
         for (var value1 in index1) {
           var entity1 = entityKeys[value1];
 
           if (index2 = index1[value1]) {
             // If a key is specified, use only that part of index 2, if it exists.
-            var values = key2 ? (key2 in index2 ? [key2] : []) : Object.keys(index2);
-            // Create quads for all items found in index 2.
+            var values = key2 ? key2 in index2 ? [key2] : [] : Object.keys(index2); // Create quads for all items found in index 2.
+
             for (var l = 0; l < values.length; l++) {
-              var parts = { subject: null, predicate: null, object: null };
+              var parts = {
+                subject: null,
+                predicate: null,
+                object: null
+              };
               parts[name0] = fromId(entity0, this._factory);
               parts[name1] = fromId(entity1, this._factory);
               parts[name2] = fromId(entityKeys[values[l]], this._factory);
-              var quad = this._factory.quad(
-                parts.subject, parts.predicate, parts.object, fromId(graph, this._factory));
-              if (array)
-                array.push(quad);
-              else if (callback(quad))
-                return true;
+
+              var quad = this._factory.quad(parts.subject, parts.predicate, parts.object, fromId(graph, this._factory));
+
+              if (array) array.push(quad);else if (callback(quad)) return true;
             }
           }
         }
       }
     }
+
     return array;
-  }
+  } // ### `_loop` executes the callback on all keys of index 0
 
-  // ### `_loop` executes the callback on all keys of index 0
+
   _loop(index0, callback) {
-    for (var key0 in index0)
-      callback(key0);
-  }
+    for (var key0 in index0) callback(key0);
+  } // ### `_loopByKey0` executes the callback on all keys of a certain entry in index 0
 
-  // ### `_loopByKey0` executes the callback on all keys of a certain entry in index 0
+
   _loopByKey0(index0, key0, callback) {
     var index1, key1;
-    if (index1 = index0[key0]) {
-      for (key1 in index1)
-        callback(key1);
-    }
-  }
 
-  // ### `_loopByKey1` executes the callback on given keys of all entries in index 0
+    if (index1 = index0[key0]) {
+      for (key1 in index1) callback(key1);
+    }
+  } // ### `_loopByKey1` executes the callback on given keys of all entries in index 0
+
+
   _loopByKey1(index0, key1, callback) {
     var key0, index1;
+
     for (key0 in index0) {
       index1 = index0[key0];
-      if (index1[key1])
-        callback(key0);
+      if (index1[key1]) callback(key0);
     }
-  }
+  } // ### `_loopBy2Keys` executes the callback on given keys of certain entries in index 2
 
-  // ### `_loopBy2Keys` executes the callback on given keys of certain entries in index 2
+
   _loopBy2Keys(index0, key0, key1, callback) {
     var index1, index2, key2;
-    if ((index1 = index0[key0]) && (index2 = index1[key1])) {
-      for (key2 in index2)
-        callback(key2);
-    }
-  }
 
-  // ### `_countInIndex` counts matching quads in a three-layered index.
+    if ((index1 = index0[key0]) && (index2 = index1[key1])) {
+      for (key2 in index2) callback(key2);
+    }
+  } // ### `_countInIndex` counts matching quads in a three-layered index.
   // The index base is `index0` and the keys at each level are `key0`, `key1`, and `key2`.
   // Any of these keys can be undefined, which is interpreted as a wildcard.
-  _countInIndex(index0, key0, key1, key2) {
-    var count = 0, tmp, index1, index2;
 
-    // If a key is specified, count only that part of index 0
+
+  _countInIndex(index0, key0, key1, key2) {
+    var count = 0,
+        tmp,
+        index1,
+        index2; // If a key is specified, count only that part of index 0
+
     if (key0) (tmp = index0, index0 = {})[key0] = tmp[key0];
+
     for (var value0 in index0) {
       if (index1 = index0[value0]) {
         // If a key is specified, count only that part of index 1
         if (key1) (tmp = index1, index1 = {})[key1] = tmp[key1];
+
         for (var value1 in index1) {
           if (index2 = index1[value1]) {
             // If a key is specified, count the quad if it exists
-            if (key2) (key2 in index2) && count++;
-            // Otherwise, count all quads
+            if (key2) key2 in index2 && count++; // Otherwise, count all quads
             else count += Object.keys(index2).length;
           }
         }
       }
     }
-    return count;
-  }
 
-  // ### `_getGraphs` returns an array with the given graph,
+    return count;
+  } // ### `_getGraphs` returns an array with the given graph,
   // or all graphs if the argument is null or undefined.
+
+
   _getGraphs(graph) {
-    if (!isString(graph))
-      return this._graphs;
+    if (!isString(graph)) return this._graphs;
     var graphs = {};
     graphs[graph] = this._graphs[graph];
     return graphs;
-  }
-
-  // ### `_uniqueEntities` returns a function that accepts an entity ID
+  } // ### `_uniqueEntities` returns a function that accepts an entity ID
   // and passes the corresponding entity to callback if it hasn't occurred before.
+
+
   _uniqueEntities(callback) {
-    var uniqueIds = Object.create(null), entities = this._entities;
+    var uniqueIds = Object.create(null),
+        entities = this._entities;
     return function (id) {
       if (!(id in uniqueIds)) {
         uniqueIds[id] = true;
         callback(fromId(entities[id]));
       }
     };
-  }
-
-  // ## Public methods
-
+  } // ## Public methods
   // ### `addQuad` adds a new quad to the store.
   // Returns if the quad index has changed, if the quad did not already exist.
+
+
   addQuad(subject, predicate, object, graph) {
     // Shift arguments if a quad object is given instead of components
-    if (!predicate)
-      graph = subject.graph, object = subject.object,
-        predicate = subject.predicate, subject = subject.subject;
+    if (!predicate) graph = subject.graph, object = subject.object, predicate = subject.predicate, subject = subject.subject; // Convert terms to internal string representation
 
-    // Convert terms to internal string representation
     subject = toId(subject);
     predicate = toId(predicate);
     object = toId(object);
-    graph = toId(graph);
+    graph = toId(graph); // Find the graph that will contain the triple
 
-    // Find the graph that will contain the triple
-    var graphItem = this._graphs[graph];
-    // Create the graph if it doesn't exist yet
+    var graphItem = this._graphs[graph]; // Create the graph if it doesn't exist yet
+
     if (!graphItem) {
-      graphItem = this._graphs[graph] = { subjects: {}, predicates: {}, objects: {} };
-      // Freezing a graph helps subsequent `add` performance,
+      graphItem = this._graphs[graph] = {
+        subjects: {},
+        predicates: {},
+        objects: {}
+      }; // Freezing a graph helps subsequent `add` performance,
       // and properties will never be modified anyway
-      Object.freeze(graphItem);
-    }
 
-    // Since entities can often be long IRIs, we avoid storing them in every index.
+      Object.freeze(graphItem);
+    } // Since entities can often be long IRIs, we avoid storing them in every index.
     // Instead, we have a separate index that maps entities to numbers,
     // which are then used as keys in the other indexes.
+
+
     var ids = this._ids;
     var entities = this._entities;
-    subject   = ids[subject]   || (ids[entities[++this._id] = subject]   = this._id);
+    subject = ids[subject] || (ids[entities[++this._id] = subject] = this._id);
     predicate = ids[predicate] || (ids[entities[++this._id] = predicate] = this._id);
-    object    = ids[object]    || (ids[entities[++this._id] = object]    = this._id);
+    object = ids[object] || (ids[entities[++this._id] = object] = this._id);
 
-    var changed = this._addToIndex(graphItem.subjects,   subject,   predicate, object);
-    this._addToIndex(graphItem.predicates, predicate, object,    subject);
-    this._addToIndex(graphItem.objects,    object,    subject,   predicate);
+    var changed = this._addToIndex(graphItem.subjects, subject, predicate, object);
 
-    // The cached quad count is now invalid
+    this._addToIndex(graphItem.predicates, predicate, object, subject);
+
+    this._addToIndex(graphItem.objects, object, subject, predicate); // The cached quad count is now invalid
+
+
     this._size = null;
     return changed;
-  }
+  } // ### `addQuads` adds multiple quads to the store
 
-  // ### `addQuads` adds multiple quads to the store
+
   addQuads(quads) {
-    for (var i = 0; i < quads.length; i++)
-      this.addQuad(quads[i]);
-  }
+    for (var i = 0; i < quads.length; i++) this.addQuad(quads[i]);
+  } // ### `import` adds a stream of quads to the store
 
-  // ### `import` adds a stream of quads to the store
+
   import(stream) {
     var self = this;
-    stream.on('data', function (quad) { self.addQuad(quad); });
+    stream.on('data', function (quad) {
+      self.addQuad(quad);
+    });
     return stream;
-  }
+  } // ### `removeQuad` removes a quad from the store if it exists
 
-  // ### `removeQuad` removes a quad from the store if it exists
+
   removeQuad(subject, predicate, object, graph) {
     // Shift arguments if a quad object is given instead of components
-    if (!predicate)
-      graph = subject.graph, object = subject.object,
-        predicate = subject.predicate, subject = subject.subject;
+    if (!predicate) graph = subject.graph, object = subject.object, predicate = subject.predicate, subject = subject.subject; // Convert terms to internal string representation
 
-    // Convert terms to internal string representation
     subject = toId(subject);
     predicate = toId(predicate);
     object = toId(object);
-    graph = toId(graph);
-
-    // Find internal identifiers for all components
+    graph = toId(graph); // Find internal identifiers for all components
     // and verify the quad exists.
-    var graphItem, ids = this._ids, graphs = this._graphs, subjects, predicates;
-    if (!(subject    = ids[subject]) || !(predicate = ids[predicate]) ||
-        !(object     = ids[object])  || !(graphItem = graphs[graph])  ||
-        !(subjects   = graphItem.subjects[subject]) ||
-        !(predicates = subjects[predicate]) ||
-        !(object in predicates))
-      return false;
 
-    // Remove it from all indexes
-    this._removeFromIndex(graphItem.subjects,   subject,   predicate, object);
-    this._removeFromIndex(graphItem.predicates, predicate, object,    subject);
-    this._removeFromIndex(graphItem.objects,    object,    subject,   predicate);
-    if (this._size !== null) this._size--;
+    var graphItem,
+        ids = this._ids,
+        graphs = this._graphs,
+        subjects,
+        predicates;
+    if (!(subject = ids[subject]) || !(predicate = ids[predicate]) || !(object = ids[object]) || !(graphItem = graphs[graph]) || !(subjects = graphItem.subjects[subject]) || !(predicates = subjects[predicate]) || !(object in predicates)) return false; // Remove it from all indexes
 
-    // Remove the graph if it is empty
+    this._removeFromIndex(graphItem.subjects, subject, predicate, object);
+
+    this._removeFromIndex(graphItem.predicates, predicate, object, subject);
+
+    this._removeFromIndex(graphItem.objects, object, subject, predicate);
+
+    if (this._size !== null) this._size--; // Remove the graph if it is empty
+
     for (subject in graphItem.subjects) return true;
+
     delete graphs[graph];
     return true;
-  }
+  } // ### `removeQuads` removes multiple quads from the store
 
-  // ### `removeQuads` removes multiple quads from the store
+
   removeQuads(quads) {
-    for (var i = 0; i < quads.length; i++)
-      this.removeQuad(quads[i]);
-  }
+    for (var i = 0; i < quads.length; i++) this.removeQuad(quads[i]);
+  } // ### `remove` removes a stream of quads from the store
 
-  // ### `remove` removes a stream of quads from the store
+
   remove(stream) {
     var self = this;
-    stream.on('data', function (quad) { self.removeQuad(quad); });
+    stream.on('data', function (quad) {
+      self.removeQuad(quad);
+    });
     return stream;
-  }
-
-  // ### `getQuads` returns an array of quads matching a pattern.
+  } // ### `removeMatches` removes all matching quads from the store
   // Setting any field to `undefined` or `null` indicates a wildcard.
+
+
+  removeMatches(subject, predicate, object, graph) {
+    return this.remove(this.match(subject, predicate, object, graph));
+  } // ### `deleteGraph` removes all triples with the given graph from the store
+
+
+  deleteGraph(graph) {
+    return this.removeMatches(null, null, null, graph);
+  } // ### `getQuads` returns an array of quads matching a pattern.
+  // Setting any field to `undefined` or `null` indicates a wildcard.
+
+
   getQuads(subject, predicate, object, graph) {
     // Convert terms to internal string representation
     subject = subject && toId(subject);
@@ -15710,48 +17140,60 @@ class N3Store {
     object = object && toId(object);
     graph = graph && toId(graph);
 
-    var quads = [], graphs = this._getGraphs(graph), content,
-        ids = this._ids, subjectId, predicateId, objectId;
+    var quads = [],
+        graphs = this._getGraphs(graph),
+        content,
+        ids = this._ids,
+        subjectId,
+        predicateId,
+        objectId; // Translate IRIs to internal index keys.
 
-    // Translate IRIs to internal index keys.
-    if (isString(subject)   && !(subjectId   = ids[subject])   ||
-        isString(predicate) && !(predicateId = ids[predicate]) ||
-        isString(object)    && !(objectId    = ids[object]))
-      return quads;
+
+    if (isString(subject) && !(subjectId = ids[subject]) || isString(predicate) && !(predicateId = ids[predicate]) || isString(object) && !(objectId = ids[object])) return quads;
 
     for (var graphId in graphs) {
       // Only if the specified graph contains triples, there can be results
       if (content = graphs[graphId]) {
         // Choose the optimal index, based on what fields are present
         if (subjectId) {
-          if (objectId)
-            // If subject and object are given, the object index will be the fastest
-            this._findInIndex(content.objects, objectId, subjectId, predicateId,
-                              'object', 'subject', 'predicate', graphId, null, quads);
-          else
-            // If only subject and possibly predicate are given, the subject index will be the fastest
-            this._findInIndex(content.subjects, subjectId, predicateId, null,
-                              'subject', 'predicate', 'object', graphId, null, quads);
-        }
-        else if (predicateId)
-          // If only predicate and possibly object are given, the predicate index will be the fastest
-          this._findInIndex(content.predicates, predicateId, objectId, null,
-                            'predicate', 'object', 'subject', graphId, null, quads);
-        else if (objectId)
-          // If only object is given, the object index will be the fastest
-          this._findInIndex(content.objects, objectId, null, null,
-                            'object', 'subject', 'predicate', graphId, null, quads);
-        else
-          // If nothing is given, iterate subjects and predicates first
-          this._findInIndex(content.subjects, null, null, null,
-                            'subject', 'predicate', 'object', graphId, null, quads);
+          if (objectId) // If subject and object are given, the object index will be the fastest
+            this._findInIndex(content.objects, objectId, subjectId, predicateId, 'object', 'subject', 'predicate', graphId, null, quads);else // If only subject and possibly predicate are given, the subject index will be the fastest
+            this._findInIndex(content.subjects, subjectId, predicateId, null, 'subject', 'predicate', 'object', graphId, null, quads);
+        } else if (predicateId) // If only predicate and possibly object are given, the predicate index will be the fastest
+          this._findInIndex(content.predicates, predicateId, objectId, null, 'predicate', 'object', 'subject', graphId, null, quads);else if (objectId) // If only object is given, the object index will be the fastest
+          this._findInIndex(content.objects, objectId, null, null, 'object', 'subject', 'predicate', graphId, null, quads);else // If nothing is given, iterate subjects and predicates first
+          this._findInIndex(content.subjects, null, null, null, 'subject', 'predicate', 'object', graphId, null, quads);
       }
     }
-    return quads;
-  }
 
-  // ### `countQuads` returns the number of quads matching a pattern.
+    return quads;
+  } // ### `match` returns a stream of quads matching a pattern.
   // Setting any field to `undefined` or `null` indicates a wildcard.
+
+
+  match(subject, predicate, object, graph) {
+    var self = this;
+    var stream = new _stream.Readable({
+      objectMode: true
+    }); // Initialize stream once it is being read
+
+    stream._read = function () {
+      stream._read = function () {};
+
+      var quads = self.getQuads(subject, predicate, object, graph);
+
+      for (var quad of quads) {
+        stream.push(quad);
+      }
+
+      stream.push(null);
+    };
+
+    return stream;
+  } // ### `countQuads` returns the number of quads matching a pattern.
+  // Setting any field to `undefined` or `null` indicates a wildcard.
+
+
   countQuads(subject, predicate, object, graph) {
     // Convert terms to internal string representation
     subject = subject && toId(subject);
@@ -15759,52 +17201,50 @@ class N3Store {
     object = object && toId(object);
     graph = graph && toId(graph);
 
-    var count = 0, graphs = this._getGraphs(graph), content,
-        ids = this._ids, subjectId, predicateId, objectId;
+    var count = 0,
+        graphs = this._getGraphs(graph),
+        content,
+        ids = this._ids,
+        subjectId,
+        predicateId,
+        objectId; // Translate IRIs to internal index keys.
 
-    // Translate IRIs to internal index keys.
-    if (isString(subject)   && !(subjectId   = ids[subject])   ||
-        isString(predicate) && !(predicateId = ids[predicate]) ||
-        isString(object)    && !(objectId    = ids[object]))
-      return 0;
+
+    if (isString(subject) && !(subjectId = ids[subject]) || isString(predicate) && !(predicateId = ids[predicate]) || isString(object) && !(objectId = ids[object])) return 0;
 
     for (var graphId in graphs) {
       // Only if the specified graph contains triples, there can be results
       if (content = graphs[graphId]) {
         // Choose the optimal index, based on what fields are present
         if (subject) {
-          if (object)
-            // If subject and object are given, the object index will be the fastest
-            count += this._countInIndex(content.objects, objectId, subjectId, predicateId);
-          else
-            // If only subject and possibly predicate are given, the subject index will be the fastest
+          if (object) // If subject and object are given, the object index will be the fastest
+            count += this._countInIndex(content.objects, objectId, subjectId, predicateId);else // If only subject and possibly predicate are given, the subject index will be the fastest
             count += this._countInIndex(content.subjects, subjectId, predicateId, objectId);
-        }
-        else if (predicate) {
+        } else if (predicate) {
           // If only predicate and possibly object are given, the predicate index will be the fastest
           count += this._countInIndex(content.predicates, predicateId, objectId, subjectId);
-        }
-        else {
+        } else {
           // If only object is possibly given, the object index will be the fastest
           count += this._countInIndex(content.objects, objectId, subjectId, predicateId);
         }
       }
     }
-    return count;
-  }
 
-  // ### `forEach` executes the callback on all quads.
+    return count;
+  } // ### `forEach` executes the callback on all quads.
   // Setting any field to `undefined` or `null` indicates a wildcard.
+
+
   forEach(callback, subject, predicate, object, graph) {
     this.some(function (quad) {
       callback(quad);
       return false;
     }, subject, predicate, object, graph);
-  }
-
-  // ### `every` executes the callback on all quads,
+  } // ### `every` executes the callback on all quads,
   // and returns `true` if it returns truthy for all them.
   // Setting any field to `undefined` or `null` indicates a wildcard.
+
+
   every(callback, subject, predicate, object, graph) {
     var some = false;
     var every = !this.some(function (quad) {
@@ -15812,11 +17252,11 @@ class N3Store {
       return !callback(quad);
     }, subject, predicate, object, graph);
     return some && every;
-  }
-
-  // ### `some` executes the callback on all quads,
+  } // ### `some` executes the callback on all quads,
   // and returns `true` if it returns truthy for any of them.
   // Setting any field to `undefined` or `null` indicates a wildcard.
+
+
   some(callback, subject, predicate, object, graph) {
     // Convert terms to internal string representation
     subject = subject && toId(subject);
@@ -15824,14 +17264,15 @@ class N3Store {
     object = object && toId(object);
     graph = graph && toId(graph);
 
-    var graphs = this._getGraphs(graph), content,
-        ids = this._ids, subjectId, predicateId, objectId;
+    var graphs = this._getGraphs(graph),
+        content,
+        ids = this._ids,
+        subjectId,
+        predicateId,
+        objectId; // Translate IRIs to internal index keys.
 
-    // Translate IRIs to internal index keys.
-    if (isString(subject)   && !(subjectId   = ids[subject])   ||
-        isString(predicate) && !(predicateId = ids[predicate]) ||
-        isString(object)    && !(objectId    = ids[object]))
-      return false;
+
+    if (isString(subject) && !(subjectId = ids[subject]) || isString(predicate) && !(predicateId = ids[predicate]) || isString(object) && !(objectId = ids[object])) return false;
 
     for (var graphId in graphs) {
       // Only if the specified graph contains triples, there can be results
@@ -15839,190 +17280,171 @@ class N3Store {
         // Choose the optimal index, based on what fields are present
         if (subjectId) {
           if (objectId) {
-          // If subject and object are given, the object index will be the fastest
-            if (this._findInIndex(content.objects, objectId, subjectId, predicateId,
-                                  'object', 'subject', 'predicate', graphId, callback, null))
-              return true;
-          }
-          else
-            // If only subject and possibly predicate are given, the subject index will be the fastest
-            if (this._findInIndex(content.subjects, subjectId, predicateId, null,
-                                  'subject', 'predicate', 'object', graphId, callback, null))
-              return true;
-        }
-        else if (predicateId) {
+            // If subject and object are given, the object index will be the fastest
+            if (this._findInIndex(content.objects, objectId, subjectId, predicateId, 'object', 'subject', 'predicate', graphId, callback, null)) return true;
+          } else // If only subject and possibly predicate are given, the subject index will be the fastest
+            if (this._findInIndex(content.subjects, subjectId, predicateId, null, 'subject', 'predicate', 'object', graphId, callback, null)) return true;
+        } else if (predicateId) {
           // If only predicate and possibly object are given, the predicate index will be the fastest
-          if (this._findInIndex(content.predicates, predicateId, objectId, null,
-                                'predicate', 'object', 'subject', graphId, callback, null)) {
+          if (this._findInIndex(content.predicates, predicateId, objectId, null, 'predicate', 'object', 'subject', graphId, callback, null)) {
             return true;
           }
-        }
-        else if (objectId) {
+        } else if (objectId) {
           // If only object is given, the object index will be the fastest
-          if (this._findInIndex(content.objects, objectId, null, null,
-                                'object', 'subject', 'predicate', graphId, callback, null)) {
+          if (this._findInIndex(content.objects, objectId, null, null, 'object', 'subject', 'predicate', graphId, callback, null)) {
             return true;
           }
-        }
-        else
-        // If nothing is given, iterate subjects and predicates first
-        if (this._findInIndex(content.subjects, null, null, null,
-                              'subject', 'predicate', 'object', graphId, callback, null)) {
-          return true;
-        }
+        } else // If nothing is given, iterate subjects and predicates first
+          if (this._findInIndex(content.subjects, null, null, null, 'subject', 'predicate', 'object', graphId, callback, null)) {
+            return true;
+          }
       }
     }
-    return false;
-  }
 
-  // ### `getSubjects` returns all subjects that match the pattern.
+    return false;
+  } // ### `getSubjects` returns all subjects that match the pattern.
   // Setting any field to `undefined` or `null` indicates a wildcard.
+
+
   getSubjects(predicate, object, graph) {
     var results = [];
-    this.forSubjects(function (s) { results.push(s); }, predicate, object, graph);
+    this.forSubjects(function (s) {
+      results.push(s);
+    }, predicate, object, graph);
     return results;
-  }
-
-  // ### `forSubjects` executes the callback on all subjects that match the pattern.
+  } // ### `forSubjects` executes the callback on all subjects that match the pattern.
   // Setting any field to `undefined` or `null` indicates a wildcard.
+
+
   forSubjects(callback, predicate, object, graph) {
     // Convert terms to internal string representation
     predicate = predicate && toId(predicate);
     object = object && toId(object);
     graph = graph && toId(graph);
 
-    var ids = this._ids, graphs = this._getGraphs(graph), content, predicateId, objectId;
-    callback = this._uniqueEntities(callback);
+    var ids = this._ids,
+        graphs = this._getGraphs(graph),
+        content,
+        predicateId,
+        objectId;
 
-    // Translate IRIs to internal index keys.
-    if (isString(predicate) && !(predicateId = ids[predicate]) ||
-        isString(object)    && !(objectId    = ids[object]))
-      return;
+    callback = this._uniqueEntities(callback); // Translate IRIs to internal index keys.
+
+    if (isString(predicate) && !(predicateId = ids[predicate]) || isString(object) && !(objectId = ids[object])) return;
 
     for (graph in graphs) {
       // Only if the specified graph contains triples, there can be results
       if (content = graphs[graph]) {
         // Choose optimal index based on which fields are wildcards
         if (predicateId) {
-          if (objectId)
-            // If predicate and object are given, the POS index is best.
-            this._loopBy2Keys(content.predicates, predicateId, objectId, callback);
-          else
-            // If only predicate is given, the SPO index is best.
+          if (objectId) // If predicate and object are given, the POS index is best.
+            this._loopBy2Keys(content.predicates, predicateId, objectId, callback);else // If only predicate is given, the SPO index is best.
             this._loopByKey1(content.subjects, predicateId, callback);
-        }
-        else if (objectId)
-          // If only object is given, the OSP index is best.
-          this._loopByKey0(content.objects, objectId, callback);
-        else
-          // If no params given, iterate all the subjects
+        } else if (objectId) // If only object is given, the OSP index is best.
+          this._loopByKey0(content.objects, objectId, callback);else // If no params given, iterate all the subjects
           this._loop(content.subjects, callback);
       }
     }
-  }
-
-  // ### `getPredicates` returns all predicates that match the pattern.
+  } // ### `getPredicates` returns all predicates that match the pattern.
   // Setting any field to `undefined` or `null` indicates a wildcard.
+
+
   getPredicates(subject, object, graph) {
     var results = [];
-    this.forPredicates(function (p) { results.push(p); }, subject, object, graph);
+    this.forPredicates(function (p) {
+      results.push(p);
+    }, subject, object, graph);
     return results;
-  }
-
-  // ### `forPredicates` executes the callback on all predicates that match the pattern.
+  } // ### `forPredicates` executes the callback on all predicates that match the pattern.
   // Setting any field to `undefined` or `null` indicates a wildcard.
+
+
   forPredicates(callback, subject, object, graph) {
     // Convert terms to internal string representation
     subject = subject && toId(subject);
     object = object && toId(object);
     graph = graph && toId(graph);
 
-    var ids = this._ids, graphs = this._getGraphs(graph), content, subjectId, objectId;
-    callback = this._uniqueEntities(callback);
+    var ids = this._ids,
+        graphs = this._getGraphs(graph),
+        content,
+        subjectId,
+        objectId;
 
-    // Translate IRIs to internal index keys.
-    if (isString(subject) && !(subjectId = ids[subject]) ||
-        isString(object)  && !(objectId  = ids[object]))
-      return;
+    callback = this._uniqueEntities(callback); // Translate IRIs to internal index keys.
+
+    if (isString(subject) && !(subjectId = ids[subject]) || isString(object) && !(objectId = ids[object])) return;
 
     for (graph in graphs) {
       // Only if the specified graph contains triples, there can be results
       if (content = graphs[graph]) {
         // Choose optimal index based on which fields are wildcards
         if (subjectId) {
-          if (objectId)
-            // If subject and object are given, the OSP index is best.
-            this._loopBy2Keys(content.objects, objectId, subjectId, callback);
-          else
-            // If only subject is given, the SPO index is best.
+          if (objectId) // If subject and object are given, the OSP index is best.
+            this._loopBy2Keys(content.objects, objectId, subjectId, callback);else // If only subject is given, the SPO index is best.
             this._loopByKey0(content.subjects, subjectId, callback);
-        }
-        else if (objectId)
-          // If only object is given, the POS index is best.
-          this._loopByKey1(content.predicates, objectId, callback);
-        else
-          // If no params given, iterate all the predicates.
+        } else if (objectId) // If only object is given, the POS index is best.
+          this._loopByKey1(content.predicates, objectId, callback);else // If no params given, iterate all the predicates.
           this._loop(content.predicates, callback);
       }
     }
-  }
-
-  // ### `getObjects` returns all objects that match the pattern.
+  } // ### `getObjects` returns all objects that match the pattern.
   // Setting any field to `undefined` or `null` indicates a wildcard.
+
+
   getObjects(subject, predicate, graph) {
     var results = [];
-    this.forObjects(function (o) { results.push(o); }, subject, predicate, graph);
+    this.forObjects(function (o) {
+      results.push(o);
+    }, subject, predicate, graph);
     return results;
-  }
-
-  // ### `forObjects` executes the callback on all objects that match the pattern.
+  } // ### `forObjects` executes the callback on all objects that match the pattern.
   // Setting any field to `undefined` or `null` indicates a wildcard.
+
+
   forObjects(callback, subject, predicate, graph) {
     // Convert terms to internal string representation
     subject = subject && toId(subject);
     predicate = predicate && toId(predicate);
     graph = graph && toId(graph);
 
-    var ids = this._ids, graphs = this._getGraphs(graph), content, subjectId, predicateId;
-    callback = this._uniqueEntities(callback);
+    var ids = this._ids,
+        graphs = this._getGraphs(graph),
+        content,
+        subjectId,
+        predicateId;
 
-    // Translate IRIs to internal index keys.
-    if (isString(subject)   && !(subjectId   = ids[subject]) ||
-        isString(predicate) && !(predicateId = ids[predicate]))
-      return;
+    callback = this._uniqueEntities(callback); // Translate IRIs to internal index keys.
+
+    if (isString(subject) && !(subjectId = ids[subject]) || isString(predicate) && !(predicateId = ids[predicate])) return;
 
     for (graph in graphs) {
       // Only if the specified graph contains triples, there can be results
       if (content = graphs[graph]) {
         // Choose optimal index based on which fields are wildcards
         if (subjectId) {
-          if (predicateId)
-            // If subject and predicate are given, the SPO index is best.
-            this._loopBy2Keys(content.subjects, subjectId, predicateId, callback);
-          else
-            // If only subject is given, the OSP index is best.
+          if (predicateId) // If subject and predicate are given, the SPO index is best.
+            this._loopBy2Keys(content.subjects, subjectId, predicateId, callback);else // If only subject is given, the OSP index is best.
             this._loopByKey1(content.objects, subjectId, callback);
-        }
-        else if (predicateId)
-          // If only predicate is given, the POS index is best.
-          this._loopByKey0(content.predicates, predicateId, callback);
-        else
-          // If no params given, iterate all the objects.
+        } else if (predicateId) // If only predicate is given, the POS index is best.
+          this._loopByKey0(content.predicates, predicateId, callback);else // If no params given, iterate all the objects.
           this._loop(content.objects, callback);
       }
     }
-  }
-
-  // ### `getGraphs` returns all graphs that match the pattern.
+  } // ### `getGraphs` returns all graphs that match the pattern.
   // Setting any field to `undefined` or `null` indicates a wildcard.
+
+
   getGraphs(subject, predicate, object) {
     var results = [];
-    this.forGraphs(function (g) { results.push(g); }, subject, predicate, object);
+    this.forGraphs(function (g) {
+      results.push(g);
+    }, subject, predicate, object);
     return results;
-  }
-
-  // ### `forGraphs` executes the callback on all graphs that match the pattern.
+  } // ### `forGraphs` executes the callback on all graphs that match the pattern.
   // Setting any field to `undefined` or `null` indicates a wildcard.
+
+
   forGraphs(callback, subject, predicate, object) {
     for (var graph in this._graphs) {
       this.some(function (quad) {
@@ -16030,538 +17452,675 @@ class N3Store {
         return true; // Halt iteration of some()
       }, subject, predicate, object, graph);
     }
-  }
+  } // ### `createBlankNode` creates a new blank node, returning its name
 
-  // ### `createBlankNode` creates a new blank node, returning its name
+
   createBlankNode(suggestedName) {
-    var name, index;
-    // Generate a name based on the suggested name
+    var name, index; // Generate a name based on the suggested name
+
     if (suggestedName) {
       name = suggestedName = '_:' + suggestedName, index = 1;
-      while (this._ids[name])
-        name = suggestedName + index++;
-    }
-    // Generate a generic blank node name
+
+      while (this._ids[name]) name = suggestedName + index++;
+    } // Generate a generic blank node name
     else {
-      do { name = '_:b' + this._blankNodeIndex++; }
-      while (this._ids[name]);
-    }
-    // Add the blank node to the entities, avoiding the generation of duplicates
+        do {
+          name = '_:b' + this._blankNodeIndex++;
+        } while (this._ids[name]);
+      } // Add the blank node to the entities, avoiding the generation of duplicates
+
+
     this._ids[name] = ++this._id;
     this._entities[this._id] = name;
     return this._factory.blankNode(name.substr(2));
   }
-}
 
-// Determines whether the argument is a string
+} // Determines whether the argument is a string
+
+
+exports.default = N3Store;
+
 function isString(s) {
   return typeof s === 'string' || s instanceof String;
 }
+},{"./N3DataFactory":145,"stream":28}],149:[function(require,module,exports){
+"use strict";
 
-// ## Exports
-module.exports = N3Store;
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+exports.default = void 0;
 
-},{"./N3DataFactory":56}],60:[function(require,module,exports){
+var _N3Parser = _interopRequireDefault(require("./N3Parser"));
+
+var _stream = require("stream");
+
+function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
+
 // **N3StreamParser** parses a text stream into a quad stream.
-var Transform = require('stream').Transform,
-    N3Parser = require('./N3Parser.js');
-
 // ## Constructor
-class N3StreamParser extends Transform {
+class N3StreamParser extends _stream.Transform {
   constructor(options) {
-    super({ decodeStrings: true });
-    this._readableState.objectMode = true;
+    super({
+      decodeStrings: true
+    });
+    this._readableState.objectMode = true; // Set up parser with dummy stream to obtain `data` and `end` callbacks
 
-    // Set up parser with dummy stream to obtain `data` and `end` callbacks
-    var self = this, parser = new N3Parser(options), onData, onEnd;
+    var self = this,
+        parser = new _N3Parser.default(options),
+        onData,
+        onEnd;
     parser.parse({
       on: function (event, callback) {
         switch (event) {
-        case 'data': onData = callback; break;
-        case 'end':   onEnd = callback; break;
+          case 'data':
+            onData = callback;
+            break;
+
+          case 'end':
+            onEnd = callback;
+            break;
         }
-      },
-    },
-      // Handle quads by pushing them down the pipeline
-      function (error, quad) { error && self.emit('error', error) || quad && self.push(quad); },
-      // Emit prefixes through the `prefix` event
-      function (prefix, uri) { self.emit('prefix', prefix, uri); }
-    );
-
-    // Implement Transform methods through parser callbacks
-    this._transform = function (chunk, encoding, done) { onData(chunk); done(); };
-    this._flush = function (done) { onEnd(); done(); };
-  }
-
-  // ### Parses a stream of strings
-  import(stream) {
-    var self = this;
-    stream.on('data',  function (chunk) { self.write(chunk); });
-    stream.on('end',   function ()      { self.end(); });
-    stream.on('error', function (error) { self.emit('error', error); });
-    return this;
-  }
-}
-
-// ## Exports
-module.exports = N3StreamParser;
-
-},{"./N3Parser.js":58,"stream":29}],61:[function(require,module,exports){
-// **N3StreamWriter** serializes a quad stream into a text stream.
-var Transform = require('stream').Transform,
-    N3Writer = require('./N3Writer.js');
-
-// ## Constructor
-class N3StreamWriter extends Transform {
-  constructor(options) {
-    super({ encoding: 'utf8' });
-    this._writableState.objectMode = true;
-
-    // Set up writer with a dummy stream object
-    var self = this;
-    var writer = this._writer = new N3Writer({
-      write: function (quad, encoding, callback) { self.push(quad); callback && callback(); },
-      end: function (callback) { self.push(null); callback && callback(); },
-    }, options);
-
-    // Implement Transform methods on top of writer
-    this._transform = function (quad, encoding, done) { writer.addQuad(quad, done); };
-    this._flush = function (done) { writer.end(done); };
-  }
-
-// ### Serializes a stream of quads
-  import(stream) {
-    var self = this;
-    stream.on('data',   function (quad)  { self.write(quad); });
-    stream.on('end',    function ()      { self.end(); });
-    stream.on('error',  function (error) { self.emit('error', error); });
-    stream.on('prefix', function (prefix, iri) { self._writer.addPrefix(prefix, iri); });
-    return this;
-  }
-}
-
-
-
-// ## Exports
-module.exports = N3StreamWriter;
-
-},{"./N3Writer.js":63,"stream":29}],62:[function(require,module,exports){
-// **N3Util** provides N3 utility functions.
-
-var DataFactory = require('./N3DataFactory');
-
-var N3Util = {
-  // Tests whether the given term represents an IRI
-  isNamedNode: function (term) {
-    return !!term && term.termType === 'NamedNode';
-  },
-
-  // Tests whether the given term represents a blank node
-  isBlankNode: function (term) {
-    return !!term && term.termType === 'BlankNode';
-  },
-
-  // Tests whether the given term represents a literal
-  isLiteral: function (term) {
-    return !!term && term.termType === 'Literal';
-  },
-
-  // Tests whether the given term represents a variable
-  isVariable: function (term) {
-    return !!term && term.termType === 'Variable';
-  },
-
-  // Tests whether the given term represents the default graph
-  isDefaultGraph: function (term) {
-    return !!term && term.termType === 'DefaultGraph';
-  },
-
-  // Tests whether the given quad is in the default graph
-  inDefaultGraph: function (quad) {
-    return N3Util.isDefaultGraph(quad.graph);
-  },
-
-  // Creates a function that prepends the given IRI to a local name
-  prefix: function (iri, factory) {
-    return N3Util.prefixes({ '': iri }, factory)('');
-  },
-
-  // Creates a function that allows registering and expanding prefixes
-  prefixes: function (defaultPrefixes, factory) {
-    // Add all of the default prefixes
-    var prefixes = Object.create(null);
-    for (var prefix in defaultPrefixes)
-      processPrefix(prefix, defaultPrefixes[prefix]);
-    // Set the default factory if none was specified
-    factory = factory || DataFactory;
-
-    // Registers a new prefix (if an IRI was specified)
-    // or retrieves a function that expands an existing prefix (if no IRI was specified)
-    function processPrefix(prefix, iri) {
-      // Create a new prefix if an IRI is specified or the prefix doesn't exist
-      if (typeof iri === 'string') {
-        // Create a function that expands the prefix
-        var cache = Object.create(null);
-        prefixes[prefix] = function (local) {
-          return cache[local] || (cache[local] = factory.namedNode(iri + local));
-        };
       }
-      else if (!(prefix in prefixes)) {
-        throw new Error('Unknown prefix: ' + prefix);
-      }
-      return prefixes[prefix];
-    }
-    return processPrefix;
-  },
-};
+    }, // Handle quads by pushing them down the pipeline
+    function (error, quad) {
+      error && self.emit('error', error) || quad && self.push(quad);
+    }, // Emit prefixes through the `prefix` event
+    function (prefix, uri) {
+      self.emit('prefix', prefix, uri);
+    }); // Implement Transform methods through parser callbacks
 
-// ## Exports
-module.exports = N3Util;
-
-},{"./N3DataFactory":56}],63:[function(require,module,exports){
-// **N3Writer** writes N3 documents.
-
-var namespaces = require('./IRIs'),
-    DataFactory = require('./N3DataFactory');
-
-var DEFAULTGRAPH = DataFactory.defaultGraph();
-
-var rdf = namespaces.rdf,
-    xsd = namespaces.xsd;
-
-// Characters in literals that require escaping
-var escape    = /["\\\t\n\r\b\f\u0000-\u0019\ud800-\udbff]/,
-    escapeAll = /["\\\t\n\r\b\f\u0000-\u0019]|[\ud800-\udbff][\udc00-\udfff]/g,
-    escapedCharacters = {
-      '\\': '\\\\', '"': '\\"', '\t': '\\t',
-      '\n': '\\n', '\r': '\\r', '\b': '\\b', '\f': '\\f',
+    this._transform = function (chunk, encoding, done) {
+      onData(chunk);
+      done();
     };
 
-// ## Placeholder class to represent already pretty-printed terms
-class SerializedTerm extends DataFactory.internal.Term {
+    this._flush = function (done) {
+      onEnd();
+      done();
+    };
+  } // ### Parses a stream of strings
+
+
+  import(stream) {
+    var self = this;
+    stream.on('data', function (chunk) {
+      self.write(chunk);
+    });
+    stream.on('end', function () {
+      self.end();
+    });
+    stream.on('error', function (error) {
+      self.emit('error', error);
+    });
+    return this;
+  }
+
+}
+
+exports.default = N3StreamParser;
+},{"./N3Parser":147,"stream":28}],150:[function(require,module,exports){
+"use strict";
+
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+exports.default = void 0;
+
+var _stream = require("stream");
+
+var _N3Writer = _interopRequireDefault(require("./N3Writer"));
+
+function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
+
+// **N3StreamWriter** serializes a quad stream into a text stream.
+// ## Constructor
+class N3StreamWriter extends _stream.Transform {
+  constructor(options) {
+    super({
+      encoding: 'utf8'
+    });
+    this._writableState.objectMode = true; // Set up writer with a dummy stream object
+
+    var self = this;
+    var writer = this._writer = new _N3Writer.default({
+      write: function (quad, encoding, callback) {
+        self.push(quad);
+        callback && callback();
+      },
+      end: function (callback) {
+        self.push(null);
+        callback && callback();
+      }
+    }, options); // Implement Transform methods on top of writer
+
+    this._transform = function (quad, encoding, done) {
+      writer.addQuad(quad, done);
+    };
+
+    this._flush = function (done) {
+      writer.end(done);
+    };
+  } // ### Serializes a stream of quads
+
+
+  import(stream) {
+    var self = this;
+    stream.on('data', function (quad) {
+      self.write(quad);
+    });
+    stream.on('end', function () {
+      self.end();
+    });
+    stream.on('error', function (error) {
+      self.emit('error', error);
+    });
+    stream.on('prefix', function (prefix, iri) {
+      self._writer.addPrefix(prefix, iri);
+    });
+    return this;
+  }
+
+}
+
+exports.default = N3StreamWriter;
+},{"./N3Writer":152,"stream":28}],151:[function(require,module,exports){
+"use strict";
+
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+exports.isNamedNode = isNamedNode;
+exports.isBlankNode = isBlankNode;
+exports.isLiteral = isLiteral;
+exports.isVariable = isVariable;
+exports.isDefaultGraph = isDefaultGraph;
+exports.inDefaultGraph = inDefaultGraph;
+exports.prefix = prefix;
+exports.prefixes = prefixes;
+
+var _N3DataFactory = _interopRequireDefault(require("./N3DataFactory"));
+
+function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
+
+// **N3Util** provides N3 utility functions.
+// Tests whether the given term represents an IRI
+function isNamedNode(term) {
+  return !!term && term.termType === 'NamedNode';
+} // Tests whether the given term represents a blank node
+
+
+function isBlankNode(term) {
+  return !!term && term.termType === 'BlankNode';
+} // Tests whether the given term represents a literal
+
+
+function isLiteral(term) {
+  return !!term && term.termType === 'Literal';
+} // Tests whether the given term represents a variable
+
+
+function isVariable(term) {
+  return !!term && term.termType === 'Variable';
+} // Tests whether the given term represents the default graph
+
+
+function isDefaultGraph(term) {
+  return !!term && term.termType === 'DefaultGraph';
+} // Tests whether the given quad is in the default graph
+
+
+function inDefaultGraph(quad) {
+  return isDefaultGraph(quad.graph);
+} // Creates a function that prepends the given IRI to a local name
+
+
+function prefix(iri, factory) {
+  return prefixes({
+    '': iri
+  }, factory)('');
+} // Creates a function that allows registering and expanding prefixes
+
+
+function prefixes(defaultPrefixes, factory) {
+  // Add all of the default prefixes
+  var prefixes = Object.create(null);
+
+  for (var prefix in defaultPrefixes) processPrefix(prefix, defaultPrefixes[prefix]); // Set the default factory if none was specified
+
+
+  factory = factory || _N3DataFactory.default; // Registers a new prefix (if an IRI was specified)
+  // or retrieves a function that expands an existing prefix (if no IRI was specified)
+
+  function processPrefix(prefix, iri) {
+    // Create a new prefix if an IRI is specified or the prefix doesn't exist
+    if (typeof iri === 'string') {
+      // Create a function that expands the prefix
+      var cache = Object.create(null);
+
+      prefixes[prefix] = function (local) {
+        return cache[local] || (cache[local] = factory.namedNode(iri + local));
+      };
+    } else if (!(prefix in prefixes)) {
+      throw new Error('Unknown prefix: ' + prefix);
+    }
+
+    return prefixes[prefix];
+  }
+
+  return processPrefix;
+}
+},{"./N3DataFactory":145}],152:[function(require,module,exports){
+"use strict";
+
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+exports.default = void 0;
+
+var _IRIs = _interopRequireDefault(require("./IRIs"));
+
+var _N3DataFactory = _interopRequireDefault(require("./N3DataFactory"));
+
+function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
+
+// **N3Writer** writes N3 documents.
+const DEFAULTGRAPH = _N3DataFactory.default.defaultGraph();
+
+const {
+  rdf,
+  xsd
+} = _IRIs.default; // Characters in literals that require escaping
+
+var escape = /["\\\t\n\r\b\f\u0000-\u0019\ud800-\udbff]/,
+    escapeAll = /["\\\t\n\r\b\f\u0000-\u0019]|[\ud800-\udbff][\udc00-\udfff]/g,
+    escapedCharacters = {
+  '\\': '\\\\',
+  '"': '\\"',
+  '\t': '\\t',
+  '\n': '\\n',
+  '\r': '\\r',
+  '\b': '\\b',
+  '\f': '\\f'
+}; // ## Placeholder class to represent already pretty-printed terms
+
+class SerializedTerm extends _N3DataFactory.default.internal.Term {
   // Pretty-printed nodes are not equal to any other node
   // (e.g., [] does not equal [])
   equals() {
     return false;
   }
-}
 
-// ## Constructor
+} // ## Constructor
+
+
 class N3Writer {
   constructor(outputStream, options) {
     // ### `_prefixRegex` matches a prefixed name or IRI that begins with one of the added prefixes
-    this._prefixRegex = /$0^/;
+    this._prefixRegex = /$0^/; // Shift arguments if the first argument is not a stream
 
-    // Shift arguments if the first argument is not a stream
-    if (outputStream && typeof outputStream.write !== 'function')
-      options = outputStream, outputStream = null;
-    options = options || {};
+    if (outputStream && typeof outputStream.write !== 'function') options = outputStream, outputStream = null;
+    options = options || {}; // If no output stream given, send the output as string through the end callback
 
-    // If no output stream given, send the output as string through the end callback
     if (!outputStream) {
       var output = '';
       this._outputStream = {
-        write(chunk, encoding, done) { output += chunk; done && done(); },
-        end:   function (done) { done && done(null, output); },
+        write(chunk, encoding, done) {
+          output += chunk;
+          done && done();
+        },
+
+        end: function (done) {
+          done && done(null, output);
+        }
       };
       this._endStream = true;
-    }
-    else {
+    } else {
       this._outputStream = outputStream;
       this._endStream = options.end === undefined ? true : !!options.end;
-    }
+    } // Initialize writer, depending on the format
 
-    // Initialize writer, depending on the format
+
     this._subject = null;
-    if (!(/triple|quad/i).test(options.format)) {
+
+    if (!/triple|quad/i.test(options.format)) {
       this._graph = DEFAULTGRAPH;
       this._prefixIRIs = Object.create(null);
       options.prefixes && this.addPrefixes(options.prefixes);
-    }
-    else {
+    } else {
       this._writeQuad = this._writeQuadLine;
     }
-  }
-
-  // ## Private methods
-
+  } // ## Private methods
   // ### Whether the current graph is the default graph
+
+
   get _inDefaultGraph() {
     return DEFAULTGRAPH.equals(this._graph);
-  }
+  } // ### `_write` writes the argument to the output stream
 
-  // ### `_write` writes the argument to the output stream
+
   _write(string, callback) {
     this._outputStream.write(string, 'utf8', callback);
-  }
+  } // ### `_writeQuad` writes the quad to the output stream
 
-  // ### `_writeQuad` writes the quad to the output stream
+
   _writeQuad(subject, predicate, object, graph, done) {
     try {
       // Write the graph's label if it has changed
       if (!graph.equals(this._graph)) {
         // Close the previous graph and start the new one
-        this._write((this._subject === null ? '' : (this._inDefaultGraph ? '.\n' : '\n}\n')) +
-                    (DEFAULTGRAPH.equals(graph) ? '' : this._encodeIriOrBlank(graph) + ' {\n'));
+        this._write((this._subject === null ? '' : this._inDefaultGraph ? '.\n' : '\n}\n') + (DEFAULTGRAPH.equals(graph) ? '' : this._encodeIriOrBlank(graph) + ' {\n'));
+
         this._graph = graph;
         this._subject = null;
-      }
-      // Don't repeat the subject if it's the same
+      } // Don't repeat the subject if it's the same
+
+
       if (subject.equals(this._subject)) {
         // Don't repeat the predicate if it's the same
-        if (predicate.equals(this._predicate))
-          this._write(', ' + this._encodeObject(object), done);
-        // Same subject, different predicate
-        else
-          this._write(';\n    ' +
-                      this._encodePredicate(this._predicate = predicate) + ' ' +
-                      this._encodeObject(object), done);
-      }
-      // Different subject; write the whole quad
-      else
-        this._write((this._subject === null ? '' : '.\n') +
-                    this._encodeIriOrBlank(this._subject = subject) + ' ' +
-                    this._encodePredicate(this._predicate = predicate) + ' ' +
-                    this._encodeObject(object), done);
+        if (predicate.equals(this._predicate)) this._write(', ' + this._encodeObject(object), done); // Same subject, different predicate
+        else this._write(';\n    ' + this._encodePredicate(this._predicate = predicate) + ' ' + this._encodeObject(object), done);
+      } // Different subject; write the whole quad
+      else this._write((this._subject === null ? '' : '.\n') + this._encodeIriOrBlank(this._subject = subject) + ' ' + this._encodePredicate(this._predicate = predicate) + ' ' + this._encodeObject(object), done);
+    } catch (error) {
+      done && done(error);
     }
-    catch (error) { done && done(error); }
-  }
+  } // ### `_writeQuadLine` writes the quad to the output stream as a single line
 
-  // ### `_writeQuadLine` writes the quad to the output stream as a single line
+
   _writeQuadLine(subject, predicate, object, graph, done) {
     // Write the quad without prefixes
     delete this._prefixMatch;
+
     this._write(this.quadToString(subject, predicate, object, graph), done);
-  }
+  } // ### `quadToString` serializes a quad as a string
 
-  // ### `quadToString` serializes a quad as a string
+
   quadToString(subject, predicate, object, graph) {
-    return  this._encodeIriOrBlank(subject)   + ' ' +
-            this._encodeIriOrBlank(predicate) + ' ' +
-            this._encodeObject(object) +
-            (graph && graph.value ? ' ' + this._encodeIriOrBlank(graph) + ' .\n' : ' .\n');
-  }
+    return this._encodeIriOrBlank(subject) + ' ' + this._encodeIriOrBlank(predicate) + ' ' + this._encodeObject(object) + (graph && graph.value ? ' ' + this._encodeIriOrBlank(graph) + ' .\n' : ' .\n');
+  } // ### `quadsToString` serializes an array of quads as a string
 
-  // ### `quadsToString` serializes an array of quads as a string
+
   quadsToString(quads) {
     return quads.map(function (t) {
       return this.quadToString(t.subject, t.predicate, t.object, t.graph);
     }, this).join('');
-  }
+  } // ### `_encodeIriOrBlank` represents an IRI or blank node
 
-  // ### `_encodeIriOrBlank` represents an IRI or blank node
+
   _encodeIriOrBlank(entity) {
     // A blank node or list is represented as-is
-    if (entity.termType !== 'NamedNode')
-      return 'id' in entity ? entity.id : '_:' + entity.value;
-    // Escape special characters
-    var iri = entity.value;
-    if (escape.test(iri))
-      iri = iri.replace(escapeAll, characterReplacer);
-    // Try to represent the IRI as prefixed name
-    var prefixMatch = this._prefixRegex.exec(iri);
-    return !prefixMatch ? '<' + iri + '>' :
-           (!prefixMatch[1] ? iri : this._prefixIRIs[prefixMatch[1]] + prefixMatch[2]);
-  }
+    if (entity.termType !== 'NamedNode') return 'id' in entity ? entity.id : '_:' + entity.value; // Escape special characters
 
-  // ### `_encodeLiteral` represents a literal
+    var iri = entity.value;
+    if (escape.test(iri)) iri = iri.replace(escapeAll, characterReplacer); // Try to represent the IRI as prefixed name
+
+    var prefixMatch = this._prefixRegex.exec(iri);
+
+    return !prefixMatch ? '<' + iri + '>' : !prefixMatch[1] ? iri : this._prefixIRIs[prefixMatch[1]] + prefixMatch[2];
+  } // ### `_encodeLiteral` represents a literal
+
+
   _encodeLiteral(literal) {
     // Escape special characters
     var value = literal.value;
-    if (escape.test(value))
-      value = value.replace(escapeAll, characterReplacer);
-    // Write the literal, possibly with type or language
-    if (literal.language)
-      return '"' + value + '"@' + literal.language;
-    else if (literal.datatype.value !== xsd.string)
-      return '"' + value + '"^^' + this._encodeIriOrBlank(literal.datatype);
-    else
-      return '"' + value + '"';
-  }
+    if (escape.test(value)) value = value.replace(escapeAll, characterReplacer); // Write the literal, possibly with type or language
 
-  // ### `_encodePredicate` represents a predicate
+    if (literal.language) return '"' + value + '"@' + literal.language;else if (literal.datatype.value !== xsd.string) return '"' + value + '"^^' + this._encodeIriOrBlank(literal.datatype);else return '"' + value + '"';
+  } // ### `_encodePredicate` represents a predicate
+
+
   _encodePredicate(predicate) {
     return predicate.value === rdf.type ? 'a' : this._encodeIriOrBlank(predicate);
-  }
+  } // ### `_encodeObject` represents an object
 
-  // ### `_encodeObject` represents an object
+
   _encodeObject(object) {
     return object.termType === 'Literal' ? this._encodeLiteral(object) : this._encodeIriOrBlank(object);
-  }
+  } // ### `_blockedWrite` replaces `_write` after the writer has been closed
 
-  // ### `_blockedWrite` replaces `_write` after the writer has been closed
+
   _blockedWrite() {
     throw new Error('Cannot write because the writer has been closed.');
-  }
+  } // ### `addQuad` adds the quad to the output stream
 
-  // ### `addQuad` adds the quad to the output stream
+
   addQuad(subject, predicate, object, graph, done) {
     // The quad was given as an object, so shift parameters
-    if (object === undefined)
-      this._writeQuad(subject.subject, subject.predicate, subject.object, subject.graph, predicate);
-    // The optional `graph` parameter was not provided
-    else if (typeof graph === 'function')
-      this._writeQuad(subject, predicate, object, DEFAULTGRAPH, graph);
-    // The `graph` parameter was provided
-    else
-      this._writeQuad(subject, predicate, object, graph || DEFAULTGRAPH, done);
-  }
+    if (object === undefined) this._writeQuad(subject.subject, subject.predicate, subject.object, subject.graph, predicate); // The optional `graph` parameter was not provided
+    else if (typeof graph === 'function') this._writeQuad(subject, predicate, object, DEFAULTGRAPH, graph); // The `graph` parameter was provided
+      else this._writeQuad(subject, predicate, object, graph || DEFAULTGRAPH, done);
+  } // ### `addQuads` adds the quads to the output stream
 
-  // ### `addQuads` adds the quads to the output stream
+
   addQuads(quads) {
-    for (var i = 0; i < quads.length; i++)
-      this.addQuad(quads[i]);
-  }
+    for (var i = 0; i < quads.length; i++) this.addQuad(quads[i]);
+  } // ### `addPrefix` adds the prefix to the output stream
 
-  // ### `addPrefix` adds the prefix to the output stream
+
   addPrefix(prefix, iri, done) {
     var prefixes = {};
     prefixes[prefix] = iri;
     this.addPrefixes(prefixes, done);
-  }
+  } // ### `addPrefixes` adds the prefixes to the output stream
 
-  // ### `addPrefixes` adds the prefixes to the output stream
+
   addPrefixes(prefixes, done) {
     // Add all useful prefixes
-    var prefixIRIs = this._prefixIRIs, hasPrefixes = false;
+    var prefixIRIs = this._prefixIRIs,
+        hasPrefixes = false;
+
     for (var prefix in prefixes) {
       // Verify whether the prefix can be used and does not exist yet
       var iri = prefixes[prefix];
-      if (typeof iri !== 'string')
-        iri = iri.value;
+      if (typeof iri !== 'string') iri = iri.value;
+
       if (/[#\/]$/.test(iri) && prefixIRIs[iri] !== (prefix += ':')) {
         hasPrefixes = true;
-        prefixIRIs[iri] = prefix;
-        // Finish a possible pending quad
+        prefixIRIs[iri] = prefix; // Finish a possible pending quad
+
         if (this._subject !== null) {
           this._write(this._inDefaultGraph ? '.\n' : '\n}\n');
+
           this._subject = null, this._graph = '';
-        }
-        // Write prefix
+        } // Write prefix
+
+
         this._write('@prefix ' + prefix + ' <' + iri + '>.\n');
       }
-    }
-    // Recreate the prefix matcher
+    } // Recreate the prefix matcher
+
+
     if (hasPrefixes) {
-      var IRIlist = '', prefixList = '';
+      var IRIlist = '',
+          prefixList = '';
+
       for (var prefixIRI in prefixIRIs) {
         IRIlist += IRIlist ? '|' + prefixIRI : prefixIRI;
         prefixList += (prefixList ? '|' : '') + prefixIRIs[prefixIRI];
       }
-      IRIlist = IRIlist.replace(/[\]\/\(\)\*\+\?\.\\\$]/g, '\\$&');
-      this._prefixRegex = new RegExp('^(?:' + prefixList + ')[^\/]*$|' +
-                                     '^(' + IRIlist + ')([a-zA-Z][\\-_a-zA-Z0-9]*)$');
-    }
-    // End a prefix block with a newline
-    this._write(hasPrefixes ? '\n' : '', done);
-  }
 
-  // ### `blank` creates a blank node with the given content
+      IRIlist = IRIlist.replace(/[\]\/\(\)\*\+\?\.\\\$]/g, '\\$&');
+      this._prefixRegex = new RegExp('^(?:' + prefixList + ')[^\/]*$|' + '^(' + IRIlist + ')([a-zA-Z][\\-_a-zA-Z0-9]*)$');
+    } // End a prefix block with a newline
+
+
+    this._write(hasPrefixes ? '\n' : '', done);
+  } // ### `blank` creates a blank node with the given content
+
+
   blank(predicate, object) {
-    var children = predicate, child, length;
-    // Empty blank node
-    if (predicate === undefined)
-      children = [];
-    // Blank node passed as blank(Term("predicate"), Term("object"))
-    else if (predicate.termType)
-      children = [{ predicate: predicate, object: object }];
-    // Blank node passed as blank({ predicate: predicate, object: object })
-    else if (!('length' in predicate))
-      children = [predicate];
+    var children = predicate,
+        child,
+        length; // Empty blank node
+
+    if (predicate === undefined) children = []; // Blank node passed as blank(Term("predicate"), Term("object"))
+    else if (predicate.termType) children = [{
+        predicate: predicate,
+        object: object
+      }]; // Blank node passed as blank({ predicate: predicate, object: object })
+      else if (!('length' in predicate)) children = [predicate];
 
     switch (length = children.length) {
-    // Generate an empty blank node
-    case 0:
-      return new SerializedTerm('[]');
-    // Generate a non-nested one-triple blank node
-    case 1:
-      child = children[0];
-      if (!(child.object instanceof SerializedTerm))
-        return new SerializedTerm('[ ' + this._encodePredicate(child.predicate) + ' ' +
-                                  this._encodeObject(child.object) + ' ]');
-    // Generate a multi-triple or nested blank node
-    default:
-      var contents = '[';
-      // Write all triples in order
-      for (var i = 0; i < length; i++) {
-        child = children[i];
-        // Write only the object is the predicate is the same as the previous
-        if (child.predicate.equals(predicate))
-          contents += ', ' + this._encodeObject(child.object);
-        // Otherwise, write the predicate and the object
-        else {
-          contents += (i ? ';\n  ' : '\n  ') +
-                      this._encodePredicate(child.predicate) + ' ' +
-                      this._encodeObject(child.object);
-          predicate = child.predicate;
+      // Generate an empty blank node
+      case 0:
+        return new SerializedTerm('[]');
+      // Generate a non-nested one-triple blank node
+
+      case 1:
+        child = children[0];
+        if (!(child.object instanceof SerializedTerm)) return new SerializedTerm('[ ' + this._encodePredicate(child.predicate) + ' ' + this._encodeObject(child.object) + ' ]');
+      // Generate a multi-triple or nested blank node
+
+      default:
+        var contents = '['; // Write all triples in order
+
+        for (var i = 0; i < length; i++) {
+          child = children[i]; // Write only the object is the predicate is the same as the previous
+
+          if (child.predicate.equals(predicate)) contents += ', ' + this._encodeObject(child.object); // Otherwise, write the predicate and the object
+          else {
+              contents += (i ? ';\n  ' : '\n  ') + this._encodePredicate(child.predicate) + ' ' + this._encodeObject(child.object);
+              predicate = child.predicate;
+            }
         }
-      }
-      return new SerializedTerm(contents + '\n]');
+
+        return new SerializedTerm(contents + '\n]');
     }
-  }
+  } // ### `list` creates a list node with the given content
 
-  // ### `list` creates a list node with the given content
+
   list(elements) {
-    var length = elements && elements.length || 0, contents = new Array(length);
-    for (var i = 0; i < length; i++)
-      contents[i] = this._encodeObject(elements[i]);
-    return new SerializedTerm('(' + contents.join(' ') + ')');
-  }
+    var length = elements && elements.length || 0,
+        contents = new Array(length);
 
-  // ### `end` signals the end of the output stream
+    for (var i = 0; i < length; i++) contents[i] = this._encodeObject(elements[i]);
+
+    return new SerializedTerm('(' + contents.join(' ') + ')');
+  } // ### `end` signals the end of the output stream
+
+
   end(done) {
     // Finish a possible pending quad
     if (this._subject !== null) {
       this._write(this._inDefaultGraph ? '.\n' : '\n}\n');
-      this._subject = null;
-    }
-    // Disallow further writing
-    this._write = this._blockedWrite;
 
-    // Try to end the underlying stream, ensuring done is called exactly one time
-    var singleDone = done && function (error, result) { singleDone = null, done(error, result); };
+      this._subject = null;
+    } // Disallow further writing
+
+
+    this._write = this._blockedWrite; // Try to end the underlying stream, ensuring done is called exactly one time
+
+    var singleDone = done && function (error, result) {
+      singleDone = null, done(error, result);
+    };
+
     if (this._endStream) {
-      try { return this._outputStream.end(singleDone); }
-      catch (error) { /* error closing stream */ }
+      try {
+        return this._outputStream.end(singleDone);
+      } catch (error) {
+        /* error closing stream */
+      }
     }
+
     singleDone && singleDone();
   }
-}
 
-// Replaces a character by its escaped version
+} // Replaces a character by its escaped version
+
+
+exports.default = N3Writer;
+
 function characterReplacer(character) {
   // Replace a single character by its escaped version
   var result = escapedCharacters[character];
+
   if (result === undefined) {
     // Replace a single character with its 4-bit unicode escape sequence
     if (character.length === 1) {
       result = character.charCodeAt(0).toString(16);
       result = '\\u0000'.substr(0, 6 - result.length) + result;
-    }
-    // Replace a surrogate pair with its 8-bit unicode escape sequence
+    } // Replace a surrogate pair with its 8-bit unicode escape sequence
     else {
-      result = ((character.charCodeAt(0) - 0xD800) * 0x400 +
-                 character.charCodeAt(1) + 0x2400).toString(16);
-      result = '\\U00000000'.substr(0, 10 - result.length) + result;
-    }
+        result = ((character.charCodeAt(0) - 0xD800) * 0x400 + character.charCodeAt(1) + 0x2400).toString(16);
+        result = '\\U00000000'.substr(0, 10 - result.length) + result;
+      }
   }
+
   return result;
 }
+},{"./IRIs":144,"./N3DataFactory":145}],153:[function(require,module,exports){
+"use strict";
 
-// ## Exports
-module.exports = N3Writer;
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+Object.defineProperty(exports, "DataFactory", {
+  enumerable: true,
+  get: function () {
+    return _N3DataFactory.default;
+  }
+});
+Object.defineProperty(exports, "Lexer", {
+  enumerable: true,
+  get: function () {
+    return _N3Lexer.default;
+  }
+});
+Object.defineProperty(exports, "Parser", {
+  enumerable: true,
+  get: function () {
+    return _N3Parser.default;
+  }
+});
+Object.defineProperty(exports, "Writer", {
+  enumerable: true,
+  get: function () {
+    return _N3Writer.default;
+  }
+});
+Object.defineProperty(exports, "Store", {
+  enumerable: true,
+  get: function () {
+    return _N3Store.default;
+  }
+});
+Object.defineProperty(exports, "StreamParser", {
+  enumerable: true,
+  get: function () {
+    return _N3StreamParser.default;
+  }
+});
+Object.defineProperty(exports, "StreamWriter", {
+  enumerable: true,
+  get: function () {
+    return _N3StreamWriter.default;
+  }
+});
+exports.Util = void 0;
 
-},{"./IRIs":55,"./N3DataFactory":56}],64:[function(require,module,exports){
-module.exports = exports = window.fetch;
+var _N3DataFactory = _interopRequireDefault(require("./N3DataFactory"));
 
-// Needed for TypeScript and Webpack.
-exports.default = window.fetch.bind(window);
+var _N3Lexer = _interopRequireDefault(require("./N3Lexer"));
 
-exports.Headers = window.Headers;
-exports.Request = window.Request;
-exports.Response = window.Response;
+var _N3Parser = _interopRequireDefault(require("./N3Parser"));
 
-},{}],65:[function(require,module,exports){
+var _N3Writer = _interopRequireDefault(require("./N3Writer"));
+
+var _N3Store = _interopRequireDefault(require("./N3Store"));
+
+var _N3StreamParser = _interopRequireDefault(require("./N3StreamParser"));
+
+var _N3StreamWriter = _interopRequireDefault(require("./N3StreamWriter"));
+
+var Util = _interopRequireWildcard(require("./N3Util"));
+
+exports.Util = Util;
+
+function _interopRequireWildcard(obj) { if (obj && obj.__esModule) { return obj; } else { var newObj = {}; if (obj != null) { for (var key in obj) { if (Object.prototype.hasOwnProperty.call(obj, key)) { var desc = Object.defineProperty && Object.getOwnPropertyDescriptor ? Object.getOwnPropertyDescriptor(obj, key) : {}; if (desc.get || desc.set) { Object.defineProperty(newObj, key, desc); } else { newObj[key] = obj[key]; } } } } newObj.default = obj; return newObj; } }
+
+function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
+},{"./N3DataFactory":145,"./N3Lexer":146,"./N3Parser":147,"./N3Store":148,"./N3StreamParser":149,"./N3StreamWriter":150,"./N3Util":151,"./N3Writer":152}],154:[function(require,module,exports){
 (function (Buffer){
 /**
  * Base-N/Base-X encoding/decoding functions.
@@ -16751,7 +18310,7 @@ function _encodeWithByteBuffer(input, alphabet) {
 }
 
 }).call(this,require("buffer").Buffer)
-},{"buffer":3}],66:[function(require,module,exports){
+},{"buffer":2}],155:[function(require,module,exports){
 /**
  * Node.js module for Forge.
  *
@@ -16766,7 +18325,7 @@ module.exports = {
   }
 };
 
-},{}],67:[function(require,module,exports){
+},{}],156:[function(require,module,exports){
 /**
  * Node.js module for Forge message digests.
  *
@@ -16779,7 +18338,7 @@ var forge = require('./forge');
 module.exports = forge.md = forge.md || {};
 forge.md.algorithms = forge.md.algorithms || {};
 
-},{"./forge":66}],68:[function(require,module,exports){
+},{"./forge":155}],157:[function(require,module,exports){
 /**
  * Secure Hash Algorithm with 160-bit digest (SHA-1) implementation.
  *
@@ -17100,7 +18659,7 @@ function _update(s, w, bytes) {
   }
 }
 
-},{"./forge":66,"./md":67,"./util":70}],69:[function(require,module,exports){
+},{"./forge":155,"./md":156,"./util":159}],158:[function(require,module,exports){
 /**
  * Secure Hash Algorithm with 256-bit digest (SHA-256) implementation.
  *
@@ -17429,7 +18988,7 @@ function _update(s, w, bytes) {
   }
 }
 
-},{"./forge":66,"./md":67,"./util":70}],70:[function(require,module,exports){
+},{"./forge":155,"./md":156,"./util":159}],159:[function(require,module,exports){
 (function (process,global,Buffer,__argument0,__argument1,__argument2,__argument3,setImmediate){
 /**
  * Utility functions for web applications.
@@ -20426,7 +21985,9 @@ util.estimateCores = function(options, callback) {
 };
 
 }).call(this,require('_process'),typeof global !== "undefined" ? global : typeof self !== "undefined" ? self : typeof window !== "undefined" ? window : {},require("buffer").Buffer,arguments[3],arguments[4],arguments[5],arguments[6],require("timers").setImmediate)
-},{"./baseN":65,"./forge":66,"_process":13,"buffer":3,"timers":30}],71:[function(require,module,exports){
+},{"./baseN":154,"./forge":155,"_process":11,"buffer":2,"timers":30}],160:[function(require,module,exports){
+arguments[4][10][0].apply(exports,arguments)
+},{"_process":11,"dup":10}],161:[function(require,module,exports){
 /**
  * Copyright (c) 2016-2017 Digital Bazaar, Inc. All rights reserved.
  */
@@ -20555,7 +22116,7 @@ module.exports = class AsyncAlgorithm {
   }
 };
 
-},{"./util":81}],72:[function(require,module,exports){
+},{"./util":171}],162:[function(require,module,exports){
 /*
  * Copyright (c) 2016-2017 Digital Bazaar, Inc. All rights reserved.
  */
@@ -20628,7 +22189,7 @@ module.exports = class IdentifierIssuer {
   }
 };
 
-},{"./util":81}],73:[function(require,module,exports){
+},{"./util":171}],163:[function(require,module,exports){
 /*
  * Copyright (c) 2016-2017 Digital Bazaar, Inc. All rights reserved.
  */
@@ -20658,7 +22219,7 @@ module.exports = class MessageDigest {
   }
 };
 
-},{"node-forge/lib/forge":66,"node-forge/lib/md":67,"node-forge/lib/sha1":68,"node-forge/lib/sha256":69}],74:[function(require,module,exports){
+},{"node-forge/lib/forge":155,"node-forge/lib/md":156,"node-forge/lib/sha1":157,"node-forge/lib/sha256":158}],164:[function(require,module,exports){
 /*
  * Copyright (c) 2016-2017 Digital Bazaar, Inc. All rights reserved.
  */
@@ -21039,7 +22600,7 @@ function _unescape(s) {
   });
 }
 
-},{}],75:[function(require,module,exports){
+},{}],165:[function(require,module,exports){
 /*
  * Copyright (c) 2016-2017 Digital Bazaar, Inc. All rights reserved.
  */
@@ -21126,7 +22687,7 @@ module.exports = class Permutator {
 };
 
 
-},{}],76:[function(require,module,exports){
+},{}],166:[function(require,module,exports){
 /*
  * Copyright (c) 2016-2017 Digital Bazaar, Inc. All rights reserved.
  */
@@ -21691,7 +23252,7 @@ module.exports = class URDNA2015 extends AsyncAlgorithm {
   }
 };
 
-},{"./AsyncAlgorithm":71,"./IdentifierIssuer":72,"./MessageDigest":73,"./NQuads":74,"./Permutator":75,"./util":81}],77:[function(require,module,exports){
+},{"./AsyncAlgorithm":161,"./IdentifierIssuer":162,"./MessageDigest":163,"./NQuads":164,"./Permutator":165,"./util":171}],167:[function(require,module,exports){
 /*
  * Copyright (c) 2016 Digital Bazaar, Inc. All rights reserved.
  */
@@ -22183,7 +23744,7 @@ module.exports = class URDNA2015Sync {
   }
 };
 
-},{"./IdentifierIssuer":72,"./MessageDigest":73,"./NQuads":74,"./Permutator":75,"./util":81}],78:[function(require,module,exports){
+},{"./IdentifierIssuer":162,"./MessageDigest":163,"./NQuads":164,"./Permutator":165,"./util":171}],168:[function(require,module,exports){
 /*
  * Copyright (c) 2016-2017 Digital Bazaar, Inc. All rights reserved.
  */
@@ -22272,7 +23833,7 @@ module.exports = class URDNA2012 extends URDNA2015 {
   }
 };
 
-},{"./URDNA2015":76,"./util":81}],79:[function(require,module,exports){
+},{"./URDNA2015":166,"./util":171}],169:[function(require,module,exports){
 /*
  * Copyright (c) 2016 Digital Bazaar, Inc. All rights reserved.
  */
@@ -22358,7 +23919,7 @@ module.exports = class URDNA2012Sync extends URDNA2015Sync {
   }
 };
 
-},{"./URDNA2015Sync":77,"./util":81}],80:[function(require,module,exports){
+},{"./URDNA2015Sync":167,"./util":171}],170:[function(require,module,exports){
 /**
  * An implementation of the RDF Dataset Normalization specification.
  * This library works in the browser and node.js.
@@ -22520,7 +24081,7 @@ api.canonizeSync = function(dataset, options) {
     'Invalid RDF Dataset Canonicalization algorithm: ' + options.algorithm);
 };
 
-},{"./IdentifierIssuer":72,"./NQuads":74,"./URDNA2015":76,"./URDNA2015Sync":77,"./URGNA2012":78,"./URGNA2012Sync":79,"./util":81,"rdf-canonize-native":3}],81:[function(require,module,exports){
+},{"./IdentifierIssuer":162,"./NQuads":164,"./URDNA2015":166,"./URDNA2015Sync":167,"./URGNA2012":168,"./URGNA2012Sync":169,"./util":171,"rdf-canonize-native":2}],171:[function(require,module,exports){
 (function (process,setImmediate){
 /*
  * Copyright (c) 2016-2017 Digital Bazaar, Inc. All rights reserved.
@@ -22634,5846 +24195,3219 @@ function _invokeCallback(callback, err, result) {
 }
 
 }).call(this,require('_process'),require("timers").setImmediate)
-},{"_process":13,"timers":30}],82:[function(require,module,exports){
-var XSD_INTEGER = 'http://www.w3.org/2001/XMLSchema#integer';
-
-function Generator(options, prefixes) {
-  this._options = options || {};
-
-  prefixes = prefixes || {};
-  this._prefixByIri = {};
-  var prefixIris = [];
-  for (var prefix in prefixes) {
-    var iri = prefixes[prefix];
-    if (typeof iri === 'string') {
-      this._prefixByIri[iri] = prefix;
-      prefixIris.push(iri);
-    }
-  }
-  var iriList = prefixIris.join('|').replace(/[\]\/\(\)\*\+\?\.\\\$]/g, '\\$&');
-  this._prefixRegex = new RegExp('^(' + iriList + ')([a-zA-Z][\\-_a-zA-Z0-9]*)$');
-  this._usedPrefixes = {};
-}
-
-// Converts the parsed query object into a SPARQL query
-Generator.prototype.toQuery = function (q) {
-  var query = '';
-
-  if (q.queryType)
-    query += q.queryType.toUpperCase() + ' ';
-  if (q.reduced)
-    query += 'REDUCED ';
-  if (q.distinct)
-    query += 'DISTINCT ';
-
-  if (q.variables)
-    query += mapJoin(q.variables, undefined, function (variable) {
-      return isString(variable) ? this.toEntity(variable) :
-             '(' + this.toExpression(variable.expression) + ' AS ' + variable.variable + ')';
-    }, this) + ' ';
-  else if (q.template)
-    query += this.group(q.template, true) + '\n';
-
-  if (q.from)
-    query += mapJoin(q.from.default || [], '', function (g) { return 'FROM ' + this.toEntity(g) + '\n'; }, this) +
-             mapJoin(q.from.named || [], '', function (g) { return 'FROM NAMED ' + this.toEntity(g) + '\n'; }, this);
-  if (q.where)
-    query += 'WHERE ' + this.group(q.where, true)  + '\n';
-
-  if (q.updates)
-    query += mapJoin(q.updates, ';\n', this.toUpdate, this);
-
-  if (q.group)
-    query += 'GROUP BY ' + mapJoin(q.group, undefined, function (it) {
-      var result = isString(it.expression) ? it.expression : '(' + this.toExpression(it.expression) + ')';
-      return it.variable ? '(' + result + ' AS ' + it.variable + ')' : result;
-    }, this) + '\n';
-  if (q.having)
-    query += 'HAVING (' + mapJoin(q.having, undefined, this.toExpression, this) + ')\n';
-  if (q.order)
-    query += 'ORDER BY ' + mapJoin(q.order, undefined, function (it) {
-      var expr = '(' + this.toExpression(it.expression) + ')';
-      return !it.descending ? expr : 'DESC ' + expr;
-    }, this) + '\n';
-
-  if (q.offset)
-    query += 'OFFSET ' + q.offset + '\n';
-  if (q.limit)
-    query += 'LIMIT ' + q.limit + '\n';
-
-  if (q.values)
-    query += this.values(q);
-
-  // stringify prefixes at the end to mark used ones
-  query = this.baseAndPrefixes(q) + query;
-  return query.trim();
-};
-
-Generator.prototype.baseAndPrefixes = function (q) {
-  var base = q.base ? ('BASE <' + q.base + '>\n') : '';
-  var prefixes = '';
-  for (var key in q.prefixes) {
-    if (this._options.allPrefixes || this._usedPrefixes[key])
-      prefixes += 'PREFIX ' + key + ': <' + q.prefixes[key] + '>\n';
-  }
-  return base + prefixes;
-};
-
-// Converts the parsed SPARQL pattern into a SPARQL pattern
-Generator.prototype.toPattern = function (pattern) {
-  var type = pattern.type || (pattern instanceof Array) && 'array' ||
-             (pattern.subject && pattern.predicate && pattern.object ? 'triple' : '');
-  if (!(type in this))
-    throw new Error('Unknown entry type: ' + type);
-  return this[type](pattern);
-};
-
-Generator.prototype.triple = function (t) {
-  return this.toEntity(t.subject) + ' ' + this.toEntity(t.predicate) + ' ' + this.toEntity(t.object) + '.';
-};
-
-Generator.prototype.array = function (items) {
-  return mapJoin(items, '\n', this.toPattern, this);
-};
-
-Generator.prototype.bgp = function (bgp) {
-  return mapJoin(bgp.triples, '\n', this.triple, this);
-};
-
-Generator.prototype.graph = function (graph) {
-  return 'GRAPH ' + this.toEntity(graph.name) + ' ' + this.group(graph);
-};
-
-Generator.prototype.group = function (group, inline) {
-  group = inline !== true ? this.array(group.patterns || group.triples)
-                          : this.toPattern(group.type !== 'group' ? group : group.patterns);
-  return group.indexOf('\n') === -1 ? '{ ' + group + ' }' : '{\n' + indent(group) + '\n}';
-};
-
-Generator.prototype.query = function (query) {
-  return this.toQuery(query);
-};
-
-Generator.prototype.filter = function (filter) {
-  return 'FILTER(' + this.toExpression(filter.expression) + ')';
-};
-
-Generator.prototype.bind = function (bind) {
-  return 'BIND(' + this.toExpression(bind.expression) + ' AS ' + bind.variable + ')';
-};
-
-Generator.prototype.optional = function (optional) {
-  return 'OPTIONAL ' + this.group(optional);
-};
-
-Generator.prototype.union = function (union) {
-  return mapJoin(union.patterns, '\nUNION\n', function (p) { return this.group(p, true); }, this);
-};
-
-Generator.prototype.minus = function (minus) {
-  return 'MINUS ' + this.group(minus);
-};
-
-Generator.prototype.values = function (valuesList) {
-  // Gather unique keys
-  var keys = Object.keys(valuesList.values.reduce(function (keyHash, values) {
-    for (var key in values) keyHash[key] = true;
-    return keyHash;
-  }, {}));
-  // Create value rows
-  return 'VALUES (' + keys.join(' ') + ') {\n' +
-    mapJoin(valuesList.values, '\n', function (values) {
-      return '  (' + mapJoin(keys, undefined, function (key) {
-        return values[key] !== undefined ? this.toEntity(values[key]) : 'UNDEF';
-      }, this) + ')';
-    }, this) + '\n}';
-};
-
-Generator.prototype.service = function (service) {
-  return 'SERVICE ' + (service.silent ? 'SILENT ' : '') + this.toEntity(service.name) + ' ' +
-         this.group(service);
-};
-
-// Converts the parsed expression object into a SPARQL expression
-Generator.prototype.toExpression = function (expr) {
-  if (isString(expr))
-    return this.toEntity(expr);
-
-  switch (expr.type.toLowerCase()) {
-    case 'aggregate':
-      return expr.aggregation.toUpperCase() +
-             '(' + (expr.distinct ? 'DISTINCT ' : '') + this.toExpression(expr.expression) +
-             (expr.separator ? '; SEPARATOR = ' + this.toEntity('"' + expr.separator + '"') : '') + ')';
-    case 'functioncall':
-      return this.toEntity(expr.function) + '(' + mapJoin(expr.args, ', ', this.toExpression, this) + ')';
-    case 'operation':
-      var operator = expr.operator.toUpperCase(), args = expr.args || [];
-      switch (expr.operator.toLowerCase()) {
-      // Infix operators
-      case '<':
-      case '>':
-      case '>=':
-      case '<=':
-      case '&&':
-      case '||':
-      case '=':
-      case '!=':
-      case '+':
-      case '-':
-      case '*':
-      case '/':
-          return (isString(args[0]) ? this.toEntity(args[0]) : '(' + this.toExpression(args[0]) + ')') +
-                 ' ' + operator + ' ' +
-                 (isString(args[1]) ? this.toEntity(args[1]) : '(' + this.toExpression(args[1]) + ')');
-      // Unary operators
-      case '!':
-        return '!' + this.toExpression(args[0]);
-      // IN and NOT IN
-      case 'notin':
-        operator = 'NOT IN';
-      case 'in':
-        return this.toExpression(args[0]) + ' ' + operator +
-               '(' + (isString(args[1]) ? args[1] : mapJoin(args[1], ', ', this.toExpression, this)) + ')';
-      // EXISTS and NOT EXISTS
-      case 'notexists':
-        operator = 'NOT EXISTS';
-      case 'exists':
-        return operator + ' ' + this.group(args[0], true);
-      // Other expressions
-      default:
-        return operator + '(' + mapJoin(args, ', ', this.toExpression, this) + ')';
-      }
-    default:
-      throw new Error('Unknown expression type: ' + expr.type);
-  }
-};
-
-// Converts the parsed entity (or property path) into a SPARQL entity
-Generator.prototype.toEntity = function (value) {
-  // regular entity
-  if (isString(value)) {
-    switch (value[0]) {
-    // variable, * selector, or blank node
-    case '?':
-    case '$':
-    case '*':
-    case '_':
-      return value;
-    // literal
-    case '"':
-      var match = value.match(/^"([^]*)"(?:(@.+)|\^\^(.+))?$/) || {},
-          lexical = match[1] || '', language = match[2] || '', datatype = match[3];
-      value = '"' + lexical.replace(escape, escapeReplacer) + '"' + language;
-      if (datatype) {
-        if (datatype === XSD_INTEGER && /^\d+$/.test(lexical))
-          // Add space to avoid confusion with decimals in broken parsers
-          return lexical + ' ';
-        value += '^^' + this.encodeIRI(datatype);
-      }
-      return value;
-    // IRI
-    default:
-      return this.encodeIRI(value);
-    }
-  }
-  // property path
-  else {
-    var items = value.items.map(this.toEntity, this), path = value.pathType;
-    switch (path) {
-    // prefix operator
-    case '^':
-    case '!':
-      return path + items[0];
-    // postfix operator
-    case '*':
-    case '+':
-    case '?':
-      return '(' + items[0] + path + ')';
-    // infix operator
-    default:
-      return '(' + items.join(path) + ')';
-    }
-  }
-};
-var escape = /["\\\t\n\r\b\f]/g,
-    escapeReplacer = function (c) { return escapeReplacements[c]; },
-    escapeReplacements = { '\\': '\\\\', '"': '\\"', '\t': '\\t',
-                           '\n': '\\n', '\r': '\\r', '\b': '\\b', '\f': '\\f' };
-
-// Represent the IRI, as a prefixed name when possible
-Generator.prototype.encodeIRI = function (iri) {
-  var prefixMatch = this._prefixRegex.exec(iri);
-  if (prefixMatch) {
-    var prefix = this._prefixByIri[prefixMatch[1]];
-    this._usedPrefixes[prefix] = true;
-    return prefix + ':' + prefixMatch[2];
-  }
-  return '<' + iri + '>';
-};
-
-// Converts the parsed update object into a SPARQL update clause
-Generator.prototype.toUpdate = function (update) {
-  switch (update.type || update.updateType) {
-  case 'load':
-    return 'LOAD' + (update.source ? ' ' + this.toEntity(update.source) : '') +
-           (update.destination ? ' INTO GRAPH ' + this.toEntity(update.destination) : '');
-  case 'insert':
-    return 'INSERT DATA '  + this.group(update.insert, true);
-  case 'delete':
-    return 'DELETE DATA '  + this.group(update.delete, true);
-  case 'deletewhere':
-    return 'DELETE WHERE ' + this.group(update.delete, true);
-  case 'insertdelete':
-    return (update.graph ? 'WITH ' + this.toEntity(update.graph) + '\n' : '') +
-           (update.delete.length ? 'DELETE ' + this.group(update.delete, true) + '\n' : '') +
-           (update.insert.length ? 'INSERT ' + this.group(update.insert, true) + '\n' : '') +
-           'WHERE ' + this.group(update.where, true);
-  case 'add':
-  case 'copy':
-  case 'move':
-    return update.type.toUpperCase() + (update.source.default ? ' DEFAULT ' : ' ') +
-           'TO ' + this.toEntity(update.destination.name);
-  default:
-    throw new Error('Unknown update query type: ' + update.type);
-  }
-};
-
-// Checks whether the object is a string
-function isString(object) { return typeof object === 'string'; }
-
-// Maps the array with the given function, and joins the results using the separator
-function mapJoin(array, sep, func, self) {
-  return array.map(func, self).join(isString(sep) ? sep : ' ');
-}
-
-// Indents each line of the string
-function indent(text) { return text.replace(/^/gm, '  '); }
-
-/**
- * @param options {
- *   allPrefixes: boolean
- * }
- */
-module.exports = function SparqlGenerator(options) {
-  return {
-    stringify: function (q) { return new Generator(options, q.prefixes).toQuery(q); }
-  };
-};
-
-},{}],83:[function(require,module,exports){
-(function (process){
-/* parser generated by jison 0.4.18 */
-/*
-  Returns a Parser object of the following structure:
-
-  Parser: {
-    yy: {}
-  }
-
-  Parser.prototype: {
-    yy: {},
-    trace: function(),
-    symbols_: {associative list: name ==> number},
-    terminals_: {associative list: number ==> name},
-    productions_: [...],
-    performAction: function anonymous(yytext, yyleng, yylineno, yy, yystate, $$, _$),
-    table: [...],
-    defaultActions: {...},
-    parseError: function(str, hash),
-    parse: function(input),
-
-    lexer: {
-        EOF: 1,
-        parseError: function(str, hash),
-        setInput: function(input),
-        input: function(),
-        unput: function(str),
-        more: function(),
-        less: function(n),
-        pastInput: function(),
-        upcomingInput: function(),
-        showPosition: function(),
-        test_match: function(regex_match_array, rule_index),
-        next: function(),
-        lex: function(),
-        begin: function(condition),
-        popState: function(),
-        _currentRules: function(),
-        topState: function(),
-        pushState: function(condition),
-
-        options: {
-            ranges: boolean           (optional: true ==> token location info will include a .range[] member)
-            flex: boolean             (optional: true ==> flex-like lexing behaviour where the rules are tested exhaustively to find the longest match)
-            backtrack_lexer: boolean  (optional: true ==> lexer regexes are tested in order and for each matching regex the action code is invoked; the lexer terminates the scan when a token is returned by the action code)
-        },
-
-        performAction: function(yy, yy_, $avoiding_name_collisions, YY_START),
-        rules: [...],
-        conditions: {associative list: name ==> set},
-    }
-  }
-
-
-  token location info (@$, _$, etc.): {
-    first_line: n,
-    last_line: n,
-    first_column: n,
-    last_column: n,
-    range: [start_number, end_number]       (where the numbers are indexes into the input string, regular zero-based)
-  }
-
-
-  the parseError function receives a 'hash' object with these members for lexer and parser errors: {
-    text:        (matched text)
-    token:       (the produced terminal token, if any)
-    line:        (yylineno)
-  }
-  while parser (grammar) errors will also provide these members, i.e. parser errors deliver a superset of attributes: {
-    loc:         (yylloc)
-    expected:    (string describing the set of expected tokens)
-    recoverable: (boolean: TRUE when the parser has a error recovery rule available for this particular error)
-  }
-*/
-var SparqlParser = (function(){
-var o=function(k,v,o,l){for(o=o||{},l=k.length;l--;o[k[l]]=v);return o},$V0=[6,12,15,24,34,43,48,97,107,110,112,113,122,123,128,295,296,297,298,299],$V1=[2,194],$V2=[97,107,110,112,113,122,123,128,295,296,297,298,299],$V3=[1,18],$V4=[1,27],$V5=[6,83],$V6=[38,39,51],$V7=[38,51],$V8=[1,55],$V9=[1,57],$Va=[1,53],$Vb=[1,56],$Vc=[28,29,290],$Vd=[13,16,283],$Ve=[109,131,293,300],$Vf=[13,16,109,131,283],$Vg=[1,79],$Vh=[1,83],$Vi=[1,85],$Vj=[109,131,293,294,300],$Vk=[13,16,109,131,283,294],$Vl=[1,91],$Vm=[2,234],$Vn=[1,90],$Vo=[13,16,28,29,80,165,212,215,216,269,270,271,272,273,274,275,276,277,278,279,280,281,282,283],$Vp=[6,38,39,51,61,68,71,79,81,83],$Vq=[6,13,16,28,38,39,51,61,68,71,79,81,83,283],$Vr=[6,13,16,28,29,31,32,38,39,41,51,61,68,71,79,80,81,83,90,106,109,122,123,125,130,157,158,160,163,164,165,183,194,205,210,212,213,215,216,220,224,228,243,248,265,269,270,271,272,273,274,275,276,277,278,279,280,281,282,283,290,301,304,305,307,308,309,310,311,312,313,314],$Vs=[1,106],$Vt=[1,107],$Vu=[6,13,16,28,29,39,41,80,83,109,157,158,160,163,164,165,212,215,216,269,270,271,272,273,274,275,276,277,278,279,280,281,282,283,301],$Vv=[28,32],$Vw=[2,291],$Vx=[1,122],$Vy=[1,120],$Vz=[6,194],$VA=[2,308],$VB=[2,296],$VC=[38,125],$VD=[6,41,68,71,79,81,83],$VE=[2,236],$VF=[1,136],$VG=[1,138],$VH=[1,148],$VI=[1,154],$VJ=[1,157],$VK=[1,153],$VL=[1,155],$VM=[1,151],$VN=[1,152],$VO=[1,158],$VP=[1,159],$VQ=[1,162],$VR=[1,163],$VS=[1,164],$VT=[1,165],$VU=[1,166],$VV=[1,167],$VW=[1,168],$VX=[1,169],$VY=[1,170],$VZ=[1,171],$V_=[1,172],$V$=[1,173],$V01=[6,61,68,71,79,81,83],$V11=[28,29,38,39,51],$V21=[13,16,28,29,80,245,246,247,249,251,252,254,255,258,260,269,270,271,272,273,274,275,276,277,278,279,280,281,282,283,314,315,316,317,318,319],$V31=[2,405],$V41=[1,186],$V51=[1,187],$V61=[1,188],$V71=[13,16,41,80,90,269,270,271,272,273,274,275,276,277,278,279,280,281,282,283],$V81=[6,106,194],$V91=[41,109],$Va1=[6,41,71,79,81,83],$Vb1=[2,320],$Vc1=[2,312],$Vd1=[13,16,28,183,283],$Ve1=[2,348],$Vf1=[2,344],$Vg1=[13,16,28,29,32,39,41,80,83,109,157,158,160,163,164,165,183,194,205,210,212,213,215,216,248,269,270,271,272,273,274,275,276,277,278,279,280,281,282,283,301],$Vh1=[13,16,28,29,31,32,39,41,80,83,90,109,157,158,160,163,164,165,183,194,205,210,212,213,215,216,220,224,228,243,248,265,269,270,271,272,273,274,275,276,277,278,279,280,281,282,283,290,301,305,308,309,310,311,312,313,314],$Vi1=[13,16,28,29,31,32,39,41,80,83,90,109,157,158,160,163,164,165,183,194,205,210,212,213,215,216,220,224,228,243,248,265,267,268,269,270,271,272,273,274,275,276,277,278,279,280,281,282,283,290,301,305,308,309,310,311,312,313,314],$Vj1=[31,32,194,220,248],$Vk1=[31,32,194,220,224,248],$Vl1=[31,32,194,220,224,228,243,248,265,277,278,279,280,281,282,308,309,310,311,312,313,314],$Vm1=[31,32,194,220,224,228,243,248,265,277,278,279,280,281,282,290,305,308,309,310,311,312,313,314],$Vn1=[1,252],$Vo1=[1,253],$Vp1=[1,255],$Vq1=[1,256],$Vr1=[1,257],$Vs1=[1,258],$Vt1=[1,260],$Vu1=[1,261],$Vv1=[2,412],$Vw1=[1,263],$Vx1=[1,264],$Vy1=[1,265],$Vz1=[1,271],$VA1=[1,266],$VB1=[1,267],$VC1=[1,268],$VD1=[1,269],$VE1=[1,270],$VF1=[1,278],$VG1=[1,289],$VH1=[6,41,79,81,83],$VI1=[1,306],$VJ1=[1,305],$VK1=[39,41,83,109,157,158,160,163,164],$VL1=[1,314],$VM1=[1,315],$VN1=[41,109,301],$VO1=[13,16,28,29,32,80,165,212,215,216,269,270,271,272,273,274,275,276,277,278,279,280,281,282,283],$VP1=[13,16,28,29,32,39,41,80,83,109,157,158,160,163,164,165,194,212,213,215,216,248,269,270,271,272,273,274,275,276,277,278,279,280,281,282,283,301],$VQ1=[13,16,28,29,80,205,243,245,246,247,249,251,252,254,255,258,260,269,270,271,272,273,274,275,276,277,278,279,280,281,282,283,308,314,315,316,317,318,319],$VR1=[1,341],$VS1=[1,342],$VT1=[1,344],$VU1=[1,343],$VV1=[6,13,16,28,29,31,32,39,41,68,71,74,76,79,80,81,83,109,157,158,160,163,164,165,194,212,215,216,220,224,228,243,245,246,247,248,249,251,252,254,255,258,260,265,269,270,271,272,273,274,275,276,277,278,279,280,281,282,283,290,301,305,308,309,310,311,312,313,314,315,316,317,318,319],$VW1=[1,352],$VX1=[1,351],$VY1=[29,165],$VZ1=[13,16,32,41,80,90,269,270,271,272,273,274,275,276,277,278,279,280,281,282,283],$V_1=[29,41],$V$1=[2,311],$V02=[6,41,83],$V12=[6,13,16,29,41,71,79,81,83,245,246,247,249,251,252,254,255,258,260,283,314,315,316,317,318,319],$V22=[6,13,16,28,29,39,41,71,74,76,79,80,81,83,109,157,158,160,163,164,165,212,215,216,245,246,247,249,251,252,254,255,258,260,269,270,271,272,273,274,275,276,277,278,279,280,281,282,283,301,314,315,316,317,318,319],$V32=[6,13,16,28,29,41,68,71,79,81,83,245,246,247,249,251,252,254,255,258,260,283,314,315,316,317,318,319],$V42=[6,13,16,28,29,31,32,39,41,61,68,71,74,76,79,80,81,83,109,157,158,160,163,164,165,194,212,215,216,220,224,228,243,245,246,247,248,249,251,252,254,255,258,260,265,269,270,271,272,273,274,275,276,277,278,279,280,281,282,283,290,301,302,305,308,309,310,311,312,313,314,315,316,317,318,319],$V52=[13,16,29,183,205,210,283],$V62=[2,362],$V72=[1,393],$V82=[39,41,83,109,157,158,160,163,164,301],$V92=[2,350],$Va2=[13,16,28,29,32,39,41,80,83,109,157,158,160,163,164,165,183,194,212,213,215,216,248,269,270,271,272,273,274,275,276,277,278,279,280,281,282,283,301],$Vb2=[13,16,28,29,80,205,243,245,246,247,249,251,252,254,255,258,260,269,270,271,272,273,274,275,276,277,278,279,280,281,282,283,290,308,314,315,316,317,318,319],$Vc2=[1,443],$Vd2=[1,440],$Ve2=[1,441],$Vf2=[13,16,28,29,39,41,80,83,109,157,158,160,163,164,165,212,215,216,269,270,271,272,273,274,275,276,277,278,279,280,281,282,283],$Vg2=[13,16,28,283],$Vh2=[13,16,28,29,39,41,80,83,109,157,158,160,163,164,165,212,215,216,269,270,271,272,273,274,275,276,277,278,279,280,281,282,283,301],$Vi2=[2,323],$Vj2=[13,16,28,183,194,283],$Vk2=[13,16,32,80,90,269,270,271,272,273,274,275,276,277,278,279,280,281,282,283],$Vl2=[6,13,16,28,29,41,74,76,79,81,83,245,246,247,249,251,252,254,255,258,260,283,314,315,316,317,318,319],$Vm2=[2,318],$Vn2=[13,16,29,183,205,283],$Vo2=[39,41,83,109,157,158,160,163,164,194,213,301],$Vp2=[13,16,28,29,41,80,109,165,212,215,216,269,270,271,272,273,274,275,276,277,278,279,280,281,282,283],$Vq2=[13,16,28,29,32,80,165,212,215,216,269,270,271,272,273,274,275,276,277,278,279,280,281,282,283,304,305],$Vr2=[13,16,28,29,32,80,165,212,215,216,269,270,271,272,273,274,275,276,277,278,279,280,281,282,283,290,304,305,307,308],$Vs2=[1,553],$Vt2=[1,554],$Vu2=[2,306],$Vv2=[13,16,32,183,210,283];
-var parser = {trace: function trace() { },
-yy: {},
-symbols_: {"error":2,"QueryOrUpdate":3,"Prologue":4,"QueryOrUpdate_group0":5,"EOF":6,"Prologue_repetition0":7,"Query":8,"Query_group0":9,"Query_option0":10,"BaseDecl":11,"BASE":12,"IRIREF":13,"PrefixDecl":14,"PREFIX":15,"PNAME_NS":16,"SelectQuery":17,"SelectClause":18,"SelectQuery_repetition0":19,"WhereClause":20,"SolutionModifier":21,"SubSelect":22,"SubSelect_option0":23,"SELECT":24,"SelectClause_option0":25,"SelectClause_group0":26,"SelectClauseItem":27,"VAR":28,"(":29,"Expression":30,"AS":31,")":32,"ConstructQuery":33,"CONSTRUCT":34,"ConstructTemplate":35,"ConstructQuery_repetition0":36,"ConstructQuery_repetition1":37,"WHERE":38,"{":39,"ConstructQuery_option0":40,"}":41,"DescribeQuery":42,"DESCRIBE":43,"DescribeQuery_group0":44,"DescribeQuery_repetition0":45,"DescribeQuery_option0":46,"AskQuery":47,"ASK":48,"AskQuery_repetition0":49,"DatasetClause":50,"FROM":51,"DatasetClause_option0":52,"iri":53,"WhereClause_option0":54,"GroupGraphPattern":55,"SolutionModifier_option0":56,"SolutionModifier_option1":57,"SolutionModifier_option2":58,"SolutionModifier_option3":59,"GroupClause":60,"GROUP":61,"BY":62,"GroupClause_repetition_plus0":63,"GroupCondition":64,"BuiltInCall":65,"FunctionCall":66,"HavingClause":67,"HAVING":68,"HavingClause_repetition_plus0":69,"OrderClause":70,"ORDER":71,"OrderClause_repetition_plus0":72,"OrderCondition":73,"ASC":74,"BrackettedExpression":75,"DESC":76,"Constraint":77,"LimitOffsetClauses":78,"LIMIT":79,"INTEGER":80,"OFFSET":81,"ValuesClause":82,"VALUES":83,"InlineData":84,"InlineData_repetition0":85,"InlineData_repetition1":86,"InlineData_repetition2":87,"DataBlockValue":88,"Literal":89,"UNDEF":90,"DataBlockValueList":91,"DataBlockValueList_repetition0":92,"Update":93,"Update_repetition0":94,"Update1":95,"Update_option0":96,"LOAD":97,"Update1_option0":98,"Update1_option1":99,"Update1_group0":100,"Update1_option2":101,"GraphRefAll":102,"Update1_group1":103,"Update1_option3":104,"GraphOrDefault":105,"TO":106,"CREATE":107,"Update1_option4":108,"GRAPH":109,"INSERTDATA":110,"QuadPattern":111,"DELETEDATA":112,"DELETEWHERE":113,"Update1_option5":114,"InsertClause":115,"Update1_option6":116,"Update1_repetition0":117,"Update1_option7":118,"DeleteClause":119,"Update1_option8":120,"Update1_repetition1":121,"DELETE":122,"INSERT":123,"UsingClause":124,"USING":125,"UsingClause_option0":126,"WithClause":127,"WITH":128,"IntoGraphClause":129,"INTO":130,"DEFAULT":131,"GraphOrDefault_option0":132,"GraphRefAll_group0":133,"QuadPattern_option0":134,"QuadPattern_repetition0":135,"QuadsNotTriples":136,"QuadsNotTriples_group0":137,"QuadsNotTriples_option0":138,"QuadsNotTriples_option1":139,"QuadsNotTriples_option2":140,"TriplesTemplate":141,"TriplesTemplate_repetition0":142,"TriplesSameSubject":143,"TriplesTemplate_option0":144,"GroupGraphPatternSub":145,"GroupGraphPatternSub_option0":146,"GroupGraphPatternSub_repetition0":147,"GroupGraphPatternSubTail":148,"GraphPatternNotTriples":149,"GroupGraphPatternSubTail_option0":150,"GroupGraphPatternSubTail_option1":151,"TriplesBlock":152,"TriplesBlock_repetition0":153,"TriplesSameSubjectPath":154,"TriplesBlock_option0":155,"GraphPatternNotTriples_repetition0":156,"OPTIONAL":157,"MINUS":158,"GraphPatternNotTriples_group0":159,"SERVICE":160,"GraphPatternNotTriples_option0":161,"GraphPatternNotTriples_group1":162,"FILTER":163,"BIND":164,"NIL":165,"FunctionCall_option0":166,"FunctionCall_repetition0":167,"ExpressionList":168,"ExpressionList_repetition0":169,"ConstructTemplate_option0":170,"ConstructTriples":171,"ConstructTriples_repetition0":172,"ConstructTriples_option0":173,"VarOrTerm":174,"PropertyListNotEmpty":175,"TriplesNode":176,"PropertyList":177,"PropertyList_option0":178,"PropertyListNotEmpty_repetition0":179,"VerbObjectList":180,"Verb":181,"ObjectList":182,"a":183,"ObjectList_repetition0":184,"GraphNode":185,"PropertyListPathNotEmpty":186,"TriplesNodePath":187,"TriplesSameSubjectPath_option0":188,"PropertyListPathNotEmpty_group0":189,"PropertyListPathNotEmpty_repetition0":190,"GraphNodePath":191,"PropertyListPathNotEmpty_repetition1":192,"PropertyListPathNotEmptyTail":193,";":194,"PropertyListPathNotEmptyTail_group0":195,"Path":196,"Path_repetition0":197,"PathSequence":198,"PathSequence_repetition0":199,"PathEltOrInverse":200,"PathElt":201,"PathPrimary":202,"PathElt_option0":203,"PathEltOrInverse_option0":204,"!":205,"PathNegatedPropertySet":206,"PathOneInPropertySet":207,"PathNegatedPropertySet_repetition0":208,"PathNegatedPropertySet_option0":209,"^":210,"TriplesNode_repetition_plus0":211,"[":212,"]":213,"TriplesNodePath_repetition_plus0":214,"BLANK_NODE_LABEL":215,"ANON":216,"ConditionalAndExpression":217,"Expression_repetition0":218,"ExpressionTail":219,"||":220,"RelationalExpression":221,"ConditionalAndExpression_repetition0":222,"ConditionalAndExpressionTail":223,"&&":224,"AdditiveExpression":225,"RelationalExpression_group0":226,"RelationalExpression_option0":227,"IN":228,"MultiplicativeExpression":229,"AdditiveExpression_repetition0":230,"AdditiveExpressionTail":231,"AdditiveExpressionTail_group0":232,"NumericLiteralPositive":233,"AdditiveExpressionTail_repetition0":234,"NumericLiteralNegative":235,"AdditiveExpressionTail_repetition1":236,"UnaryExpression":237,"MultiplicativeExpression_repetition0":238,"MultiplicativeExpressionTail":239,"MultiplicativeExpressionTail_group0":240,"UnaryExpression_option0":241,"PrimaryExpression":242,"-":243,"Aggregate":244,"FUNC_ARITY0":245,"FUNC_ARITY1":246,"FUNC_ARITY2":247,",":248,"IF":249,"BuiltInCall_group0":250,"BOUND":251,"BNODE":252,"BuiltInCall_option0":253,"EXISTS":254,"COUNT":255,"Aggregate_option0":256,"Aggregate_group0":257,"FUNC_AGGREGATE":258,"Aggregate_option1":259,"GROUP_CONCAT":260,"Aggregate_option2":261,"Aggregate_option3":262,"GroupConcatSeparator":263,"SEPARATOR":264,"=":265,"String":266,"LANGTAG":267,"^^":268,"DECIMAL":269,"DOUBLE":270,"true":271,"false":272,"STRING_LITERAL1":273,"STRING_LITERAL2":274,"STRING_LITERAL_LONG1":275,"STRING_LITERAL_LONG2":276,"INTEGER_POSITIVE":277,"DECIMAL_POSITIVE":278,"DOUBLE_POSITIVE":279,"INTEGER_NEGATIVE":280,"DECIMAL_NEGATIVE":281,"DOUBLE_NEGATIVE":282,"PNAME_LN":283,"QueryOrUpdate_group0_option0":284,"Prologue_repetition0_group0":285,"SelectClause_option0_group0":286,"DISTINCT":287,"REDUCED":288,"SelectClause_group0_repetition_plus0":289,"*":290,"DescribeQuery_group0_repetition_plus0_group0":291,"DescribeQuery_group0_repetition_plus0":292,"NAMED":293,"SILENT":294,"CLEAR":295,"DROP":296,"ADD":297,"MOVE":298,"COPY":299,"ALL":300,".":301,"UNION":302,"PropertyListNotEmpty_repetition0_repetition_plus0":303,"|":304,"/":305,"PathElt_option0_group0":306,"?":307,"+":308,"!=":309,"<":310,">":311,"<=":312,">=":313,"NOT":314,"CONCAT":315,"COALESCE":316,"SUBSTR":317,"REGEX":318,"REPLACE":319,"$accept":0,"$end":1},
-terminals_: {2:"error",6:"EOF",12:"BASE",13:"IRIREF",15:"PREFIX",16:"PNAME_NS",24:"SELECT",28:"VAR",29:"(",31:"AS",32:")",34:"CONSTRUCT",38:"WHERE",39:"{",41:"}",43:"DESCRIBE",48:"ASK",51:"FROM",61:"GROUP",62:"BY",68:"HAVING",71:"ORDER",74:"ASC",76:"DESC",79:"LIMIT",80:"INTEGER",81:"OFFSET",83:"VALUES",90:"UNDEF",97:"LOAD",106:"TO",107:"CREATE",109:"GRAPH",110:"INSERTDATA",112:"DELETEDATA",113:"DELETEWHERE",122:"DELETE",123:"INSERT",125:"USING",128:"WITH",130:"INTO",131:"DEFAULT",157:"OPTIONAL",158:"MINUS",160:"SERVICE",163:"FILTER",164:"BIND",165:"NIL",183:"a",194:";",205:"!",210:"^",212:"[",213:"]",215:"BLANK_NODE_LABEL",216:"ANON",220:"||",224:"&&",228:"IN",243:"-",245:"FUNC_ARITY0",246:"FUNC_ARITY1",247:"FUNC_ARITY2",248:",",249:"IF",251:"BOUND",252:"BNODE",254:"EXISTS",255:"COUNT",258:"FUNC_AGGREGATE",260:"GROUP_CONCAT",264:"SEPARATOR",265:"=",267:"LANGTAG",268:"^^",269:"DECIMAL",270:"DOUBLE",271:"true",272:"false",273:"STRING_LITERAL1",274:"STRING_LITERAL2",275:"STRING_LITERAL_LONG1",276:"STRING_LITERAL_LONG2",277:"INTEGER_POSITIVE",278:"DECIMAL_POSITIVE",279:"DOUBLE_POSITIVE",280:"INTEGER_NEGATIVE",281:"DECIMAL_NEGATIVE",282:"DOUBLE_NEGATIVE",283:"PNAME_LN",287:"DISTINCT",288:"REDUCED",290:"*",293:"NAMED",294:"SILENT",295:"CLEAR",296:"DROP",297:"ADD",298:"MOVE",299:"COPY",300:"ALL",301:".",302:"UNION",304:"|",305:"/",307:"?",308:"+",309:"!=",310:"<",311:">",312:"<=",313:">=",314:"NOT",315:"CONCAT",316:"COALESCE",317:"SUBSTR",318:"REGEX",319:"REPLACE"},
-productions_: [0,[3,3],[4,1],[8,2],[11,2],[14,3],[17,4],[22,4],[18,3],[27,1],[27,5],[33,5],[33,7],[42,5],[47,4],[50,3],[20,2],[21,4],[60,3],[64,1],[64,1],[64,3],[64,5],[64,1],[67,2],[70,3],[73,2],[73,2],[73,1],[73,1],[78,2],[78,2],[78,4],[78,4],[82,2],[84,4],[84,6],[88,1],[88,1],[88,1],[91,3],[93,3],[95,4],[95,3],[95,5],[95,4],[95,2],[95,2],[95,2],[95,6],[95,6],[119,2],[115,2],[124,3],[127,2],[129,3],[105,1],[105,2],[102,2],[102,1],[111,4],[136,7],[141,3],[55,3],[55,3],[145,2],[148,3],[152,3],[149,2],[149,2],[149,2],[149,3],[149,4],[149,2],[149,6],[149,1],[77,1],[77,1],[77,1],[66,2],[66,6],[168,1],[168,4],[35,3],[171,3],[143,2],[143,2],[177,1],[175,2],[180,2],[181,1],[181,1],[181,1],[182,2],[154,2],[154,2],[186,4],[193,1],[193,3],[196,2],[198,2],[201,2],[200,2],[202,1],[202,1],[202,2],[202,3],[206,1],[206,1],[206,4],[207,1],[207,1],[207,2],[207,2],[176,3],[176,3],[187,3],[187,3],[185,1],[185,1],[191,1],[191,1],[174,1],[174,1],[174,1],[174,1],[174,1],[174,1],[30,2],[219,2],[217,2],[223,2],[221,1],[221,3],[221,4],[225,2],[231,2],[231,2],[231,2],[229,2],[239,2],[237,2],[237,2],[237,2],[242,1],[242,1],[242,1],[242,1],[242,1],[242,1],[75,3],[65,1],[65,2],[65,4],[65,6],[65,8],[65,2],[65,4],[65,2],[65,4],[65,3],[244,5],[244,5],[244,6],[263,4],[89,1],[89,2],[89,3],[89,1],[89,1],[89,1],[89,1],[89,1],[89,1],[89,1],[266,1],[266,1],[266,1],[266,1],[233,1],[233,1],[233,1],[235,1],[235,1],[235,1],[53,1],[53,1],[53,1],[284,0],[284,1],[5,1],[5,1],[285,1],[285,1],[7,0],[7,2],[9,1],[9,1],[9,1],[9,1],[10,0],[10,1],[19,0],[19,2],[23,0],[23,1],[286,1],[286,1],[25,0],[25,1],[289,1],[289,2],[26,1],[26,1],[36,0],[36,2],[37,0],[37,2],[40,0],[40,1],[291,1],[291,1],[292,1],[292,2],[44,1],[44,1],[45,0],[45,2],[46,0],[46,1],[49,0],[49,2],[52,0],[52,1],[54,0],[54,1],[56,0],[56,1],[57,0],[57,1],[58,0],[58,1],[59,0],[59,1],[63,1],[63,2],[69,1],[69,2],[72,1],[72,2],[85,0],[85,2],[86,0],[86,2],[87,0],[87,2],[92,0],[92,2],[94,0],[94,4],[96,0],[96,2],[98,0],[98,1],[99,0],[99,1],[100,1],[100,1],[101,0],[101,1],[103,1],[103,1],[103,1],[104,0],[104,1],[108,0],[108,1],[114,0],[114,1],[116,0],[116,1],[117,0],[117,2],[118,0],[118,1],[120,0],[120,1],[121,0],[121,2],[126,0],[126,1],[132,0],[132,1],[133,1],[133,1],[133,1],[134,0],[134,1],[135,0],[135,2],[137,1],[137,1],[138,0],[138,1],[139,0],[139,1],[140,0],[140,1],[142,0],[142,3],[144,0],[144,1],[146,0],[146,1],[147,0],[147,2],[150,0],[150,1],[151,0],[151,1],[153,0],[153,3],[155,0],[155,1],[156,0],[156,3],[159,1],[159,1],[161,0],[161,1],[162,1],[162,1],[166,0],[166,1],[167,0],[167,3],[169,0],[169,3],[170,0],[170,1],[172,0],[172,3],[173,0],[173,1],[178,0],[178,1],[303,1],[303,2],[179,0],[179,3],[184,0],[184,3],[188,0],[188,1],[189,1],[189,1],[190,0],[190,3],[192,0],[192,2],[195,1],[195,1],[197,0],[197,3],[199,0],[199,3],[306,1],[306,1],[306,1],[203,0],[203,1],[204,0],[204,1],[208,0],[208,3],[209,0],[209,1],[211,1],[211,2],[214,1],[214,2],[218,0],[218,2],[222,0],[222,2],[226,1],[226,1],[226,1],[226,1],[226,1],[226,1],[227,0],[227,1],[230,0],[230,2],[232,1],[232,1],[234,0],[234,2],[236,0],[236,2],[238,0],[238,2],[240,1],[240,1],[241,0],[241,1],[250,1],[250,1],[250,1],[250,1],[250,1],[253,0],[253,1],[256,0],[256,1],[257,1],[257,1],[259,0],[259,1],[261,0],[261,1],[262,0],[262,1]],
-performAction: function anonymous(yytext, yyleng, yylineno, yy, yystate /* action[1] */, $$ /* vstack */, _$ /* lstack */) {
-/* this == yyval */
-
-var $0 = $$.length - 1;
-switch (yystate) {
-case 1:
-
-      $$[$0-1] = $$[$0-1] || {};
-      if (Parser.base)
-        $$[$0-1].base = Parser.base;
-      Parser.base = base = basePath = baseRoot = '';
-      $$[$0-1].prefixes = Parser.prefixes;
-      Parser.prefixes = null;
-      return $$[$0-1];
-    
-break;
-case 3:
-this.$ = extend($$[$0-1], $$[$0], { type: 'query' });
-break;
-case 4:
-
-      Parser.base = resolveIRI($$[$0])
-      base = basePath = baseRoot = '';
-    
-break;
-case 5:
-
-      if (!Parser.prefixes) Parser.prefixes = {};
-      $$[$0-1] = $$[$0-1].substr(0, $$[$0-1].length - 1);
-      $$[$0] = resolveIRI($$[$0]);
-      Parser.prefixes[$$[$0-1]] = $$[$0];
-    
-break;
-case 6:
-this.$ = extend($$[$0-3], groupDatasets($$[$0-2]), $$[$0-1], $$[$0]);
-break;
-case 7:
-this.$ = extend($$[$0-3], $$[$0-2], $$[$0-1], $$[$0], { type: 'query' });
-break;
-case 8:
-this.$ = extend({ queryType: 'SELECT', variables: $$[$0] === '*' ? ['*'] : $$[$0] }, $$[$0-1] && ($$[$0-2] = lowercase($$[$0-1]), $$[$0-1] = {}, $$[$0-1][$$[$0-2]] = true, $$[$0-1]));
-break;
-case 9: case 90: case 122: case 149:
-this.$ = toVar($$[$0]);
-break;
-case 10: case 22:
-this.$ = expression($$[$0-3], { variable: toVar($$[$0-1]) });
-break;
-case 11:
-this.$ = extend({ queryType: 'CONSTRUCT', template: $$[$0-3] }, groupDatasets($$[$0-2]), $$[$0-1], $$[$0]);
-break;
-case 12:
-this.$ = extend({ queryType: 'CONSTRUCT', template: $$[$0-2] = ($$[$0-2] ? $$[$0-2].triples : []) }, groupDatasets($$[$0-5]), { where: [ { type: 'bgp', triples: appendAllTo([], $$[$0-2]) } ] }, $$[$0]);
-break;
-case 13:
-this.$ = extend({ queryType: 'DESCRIBE', variables: $$[$0-3] === '*' ? ['*'] : $$[$0-3].map(toVar) }, groupDatasets($$[$0-2]), $$[$0-1], $$[$0]);
-break;
-case 14:
-this.$ = extend({ queryType: 'ASK' }, groupDatasets($$[$0-2]), $$[$0-1], $$[$0]);
-break;
-case 15: case 53:
-this.$ = { iri: $$[$0], named: !!$$[$0-1] };
-break;
-case 16:
-this.$ = { where: $$[$0].patterns };
-break;
-case 17:
-this.$ = extend($$[$0-3], $$[$0-2], $$[$0-1], $$[$0]);
-break;
-case 18:
-this.$ = { group: $$[$0] };
-break;
-case 19: case 20: case 26: case 28:
-this.$ = expression($$[$0]);
-break;
-case 21:
-this.$ = expression($$[$0-1]);
-break;
-case 23: case 29:
-this.$ = expression(toVar($$[$0]));
-break;
-case 24:
-this.$ = { having: $$[$0] };
-break;
-case 25:
-this.$ = { order: $$[$0] };
-break;
-case 27:
-this.$ = expression($$[$0], { descending: true });
-break;
-case 30:
-this.$ = { limit:  toInt($$[$0]) };
-break;
-case 31:
-this.$ = { offset: toInt($$[$0]) };
-break;
-case 32:
-this.$ = { limit: toInt($$[$0-2]), offset: toInt($$[$0]) };
-break;
-case 33:
-this.$ = { limit: toInt($$[$0]), offset: toInt($$[$0-2]) };
-break;
-case 34:
-this.$ = { type: 'values', values: $$[$0] };
-break;
-case 35:
-
-      $$[$0-3] = toVar($$[$0-3]);
-      this.$ = $$[$0-1].map(function(v) { var o = {}; o[$$[$0-3]] = v; return o; })
-    
-break;
-case 36:
-
-      var length = $$[$0-4].length;
-      $$[$0-4] = $$[$0-4].map(toVar);
-      this.$ = $$[$0-1].map(function (values) {
-        if (values.length !== length)
-          throw Error('Inconsistent VALUES length');
-        var valuesObject = {};
-        for(var i = 0; i<length; i++)
-          valuesObject[$$[$0-4][i]] = values[i];
-        return valuesObject;
-      });
-    
-break;
-case 39:
-this.$ = undefined;
-break;
-case 40: case 83: case 106: case 150:
-this.$ = $$[$0-1];
-break;
-case 41:
-this.$ = { type: 'update', updates: appendTo($$[$0-2], $$[$0-1]) };
-break;
-case 42:
-this.$ = extend({ type: 'load', silent: !!$$[$0-2], source: $$[$0-1] }, $$[$0] && { destination: $$[$0] });
-break;
-case 43:
-this.$ = { type: lowercase($$[$0-2]), silent: !!$$[$0-1], graph: $$[$0] };
-break;
-case 44:
-this.$ = { type: lowercase($$[$0-4]), silent: !!$$[$0-3], source: $$[$0-2], destination: $$[$0] };
-break;
-case 45:
-this.$ = { type: 'create', silent: !!$$[$0-2], graph: $$[$0-1] };
-break;
-case 46:
-this.$ = { updateType: 'insert',      insert: $$[$0] };
-break;
-case 47:
-this.$ = { updateType: 'delete',      delete: $$[$0] };
-break;
-case 48:
-this.$ = { updateType: 'deletewhere', delete: $$[$0] };
-break;
-case 49:
-this.$ = extend({ updateType: 'insertdelete' }, $$[$0-5], { insert: $$[$0-4] || [] }, { delete: $$[$0-3] || [] }, groupDatasets($$[$0-2]), { where: $$[$0].patterns });
-break;
-case 50:
-this.$ = extend({ updateType: 'insertdelete' }, $$[$0-5], { delete: $$[$0-4] || [] }, { insert: $$[$0-3] || [] }, groupDatasets($$[$0-2]), { where: $$[$0].patterns });
-break;
-case 51: case 52: case 55: case 141:
-this.$ = $$[$0];
-break;
-case 54:
-this.$ = { graph: $$[$0] };
-break;
-case 56:
-this.$ = { type: 'graph', default: true };
-break;
-case 57: case 58:
-this.$ = { type: 'graph', name: $$[$0] };
-break;
-case 59:
- this.$ = {}; this.$[lowercase($$[$0])] = true; 
-break;
-case 60:
-this.$ = $$[$0-2] ? unionAll($$[$0-1], [$$[$0-2]]) : unionAll($$[$0-1]);
-break;
-case 61:
-
-      var graph = extend($$[$0-3] || { triples: [] }, { type: 'graph', name: toVar($$[$0-5]) });
-      this.$ = $$[$0] ? [graph, $$[$0]] : [graph];
-    
-break;
-case 62: case 67:
-this.$ = { type: 'bgp', triples: unionAll($$[$0-2], [$$[$0-1]]) };
-break;
-case 63:
-this.$ = { type: 'group', patterns: [ $$[$0-1] ] };
-break;
-case 64:
-this.$ = { type: 'group', patterns: $$[$0-1] };
-break;
-case 65:
-this.$ = $$[$0-1] ? unionAll([$$[$0-1]], $$[$0]) : unionAll($$[$0]);
-break;
-case 66:
-this.$ = $$[$0] ? [$$[$0-2], $$[$0]] : $$[$0-2];
-break;
-case 68:
-
-      if ($$[$0-1].length)
-        this.$ = { type: 'union', patterns: unionAll($$[$0-1].map(degroupSingle), [degroupSingle($$[$0])]) };
-      else
-        this.$ = $$[$0];
-    
-break;
-case 69:
-this.$ = extend($$[$0], { type: 'optional' });
-break;
-case 70:
-this.$ = extend($$[$0], { type: 'minus' });
-break;
-case 71:
-this.$ = extend($$[$0], { type: 'graph', name: toVar($$[$0-1]) });
-break;
-case 72:
-this.$ = extend($$[$0], { type: 'service', name: toVar($$[$0-1]), silent: !!$$[$0-2] });
-break;
-case 73:
-this.$ = { type: 'filter', expression: $$[$0] };
-break;
-case 74:
-this.$ = { type: 'bind', variable: toVar($$[$0-1]), expression: $$[$0-3] };
-break;
-case 79:
-this.$ = { type: 'functionCall', function: $$[$0-1], args: [] };
-break;
-case 80:
-this.$ = { type: 'functionCall', function: $$[$0-5], args: appendTo($$[$0-2], $$[$0-1]), distinct: !!$$[$0-3] };
-break;
-case 81: case 97: case 108: case 194: case 202: case 214: case 216: case 226: case 230: case 250: case 252: case 254: case 256: case 258: case 281: case 287: case 298: case 308: case 314: case 320: case 324: case 334: case 336: case 340: case 348: case 350: case 356: case 358: case 362: case 364: case 373: case 381: case 383: case 393: case 397: case 399: case 401:
-this.$ = [];
-break;
-case 82:
-this.$ = appendTo($$[$0-2], $$[$0-1]);
-break;
-case 84:
-this.$ = unionAll($$[$0-2], [$$[$0-1]]);
-break;
-case 85: case 94:
-this.$ = $$[$0].map(function (t) { return extend(triple($$[$0-1]), t); });
-break;
-case 86:
-this.$ = appendAllTo($$[$0].map(function (t) { return extend(triple($$[$0-1].entity), t); }), $$[$0-1].triples) /* the subject is a blank node, possibly with more triples */;
-break;
-case 88:
-this.$ = unionAll($$[$0-1], [$$[$0]]);
-break;
-case 89:
-this.$ = objectListToTriples($$[$0-1], $$[$0]);
-break;
-case 92: case 104: case 111:
-this.$ = RDF_TYPE;
-break;
-case 93:
-this.$ = appendTo($$[$0-1], $$[$0]);
-break;
-case 95:
-this.$ = !$$[$0] ? $$[$0-1].triples : appendAllTo($$[$0].map(function (t) { return extend(triple($$[$0-1].entity), t); }), $$[$0-1].triples) /* the subject is a blank node, possibly with more triples */;
-break;
-case 96:
-this.$ = objectListToTriples(toVar($$[$0-3]), appendTo($$[$0-2], $$[$0-1]), $$[$0]);
-break;
-case 98:
-this.$ = objectListToTriples(toVar($$[$0-1]), $$[$0]);
-break;
-case 99:
-this.$ = $$[$0-1].length ? path('|',appendTo($$[$0-1], $$[$0])) : $$[$0];
-break;
-case 100:
-this.$ = $$[$0-1].length ? path('/', appendTo($$[$0-1], $$[$0])) : $$[$0];
-break;
-case 101:
-this.$ = $$[$0] ? path($$[$0], [$$[$0-1]]) : $$[$0-1];
-break;
-case 102:
-this.$ = $$[$0-1] ? path($$[$0-1], [$$[$0]]) : $$[$0];;
-break;
-case 105: case 112:
-this.$ = path($$[$0-1], [$$[$0]]);
-break;
-case 109:
-this.$ = path('|', appendTo($$[$0-2], $$[$0-1]));
-break;
-case 113:
-this.$ = path($$[$0-1], [RDF_TYPE]);
-break;
-case 114: case 116:
-this.$ = createList($$[$0-1]);
-break;
-case 115: case 117:
-this.$ = createAnonymousObject($$[$0-1]);
-break;
-case 118:
-this.$ = { entity: $$[$0], triples: [] } /* for consistency with TriplesNode */;
-break;
-case 120:
-this.$ = { entity: $$[$0], triples: [] } /* for consistency with TriplesNodePath */;
-break;
-case 126:
-this.$ = blank();
-break;
-case 127:
-this.$ = RDF_NIL;
-break;
-case 128: case 130: case 135: case 139:
-this.$ = createOperationTree($$[$0-1], $$[$0]);
-break;
-case 129:
-this.$ = ['||', $$[$0]];
-break;
-case 131:
-this.$ = ['&&', $$[$0]];
-break;
-case 133:
-this.$ = operation($$[$0-1], [$$[$0-2], $$[$0]]);
-break;
-case 134:
-this.$ = operation($$[$0-2] ? 'notin' : 'in', [$$[$0-3], $$[$0]]);
-break;
-case 136: case 140:
-this.$ = [$$[$0-1], $$[$0]];
-break;
-case 137:
-this.$ = ['+', createOperationTree($$[$0-1], $$[$0])];
-break;
-case 138:
-this.$ = ['-', createOperationTree($$[$0-1].replace('-', ''), $$[$0])];
-break;
-case 142:
-this.$ = operation($$[$0-1], [$$[$0]]);
-break;
-case 143:
-this.$ = operation('UMINUS', [$$[$0]]);
-break;
-case 152:
-this.$ = operation(lowercase($$[$0-1]));
-break;
-case 153:
-this.$ = operation(lowercase($$[$0-3]), [$$[$0-1]]);
-break;
-case 154:
-this.$ = operation(lowercase($$[$0-5]), [$$[$0-3], $$[$0-1]]);
-break;
-case 155:
-this.$ = operation(lowercase($$[$0-7]), [$$[$0-5], $$[$0-3], $$[$0-1]]);
-break;
-case 156:
-this.$ = operation(lowercase($$[$0-1]), $$[$0]);
-break;
-case 157:
-this.$ = operation('bound', [toVar($$[$0-1])]);
-break;
-case 158:
-this.$ = operation($$[$0-1], []);
-break;
-case 159:
-this.$ = operation($$[$0-3], [$$[$0-1]]);
-break;
-case 160:
-this.$ = operation($$[$0-2] ? 'notexists' :'exists', [degroupSingle($$[$0])]);
-break;
-case 161: case 162:
-this.$ = expression($$[$0-1], { type: 'aggregate', aggregation: lowercase($$[$0-4]), distinct: !!$$[$0-2] });
-break;
-case 163:
-this.$ = expression($$[$0-2], { type: 'aggregate', aggregation: lowercase($$[$0-5]), distinct: !!$$[$0-3], separator: $$[$0-1] || ' ' });
-break;
-case 164:
-this.$ = $$[$0].substr(1, $$[$0].length - 2);
-break;
-case 166:
-this.$ = $$[$0-1] + lowercase($$[$0]);
-break;
-case 167:
-this.$ = $$[$0-2] + '^^' + $$[$0];
-break;
-case 168: case 182:
-this.$ = createLiteral($$[$0], XSD_INTEGER);
-break;
-case 169: case 183:
-this.$ = createLiteral($$[$0], XSD_DECIMAL);
-break;
-case 170: case 184:
-this.$ = createLiteral(lowercase($$[$0]), XSD_DOUBLE);
-break;
-case 173:
-this.$ = XSD_TRUE;
-break;
-case 174:
-this.$ = XSD_FALSE;
-break;
-case 175: case 176:
-this.$ = unescapeString($$[$0], 1);
-break;
-case 177: case 178:
-this.$ = unescapeString($$[$0], 3);
-break;
-case 179:
-this.$ = createLiteral($$[$0].substr(1), XSD_INTEGER);
-break;
-case 180:
-this.$ = createLiteral($$[$0].substr(1), XSD_DECIMAL);
-break;
-case 181:
-this.$ = createLiteral($$[$0].substr(1).toLowerCase(), XSD_DOUBLE);
-break;
-case 185:
-this.$ = resolveIRI($$[$0]);
-break;
-case 186:
-
-      var namePos = $$[$0].indexOf(':'),
-          prefix = $$[$0].substr(0, namePos),
-          expansion = Parser.prefixes[prefix];
-      if (!expansion) throw new Error('Unknown prefix: ' + prefix);
-      this.$ = resolveIRI(expansion + $$[$0].substr(namePos + 1));
-    
-break;
-case 187:
-
-      $$[$0] = $$[$0].substr(0, $$[$0].length - 1);
-      if (!($$[$0] in Parser.prefixes)) throw new Error('Unknown prefix: ' + $$[$0]);
-      this.$ = resolveIRI(Parser.prefixes[$$[$0]]);
-    
-break;
-case 195: case 203: case 211: case 215: case 217: case 223: case 227: case 231: case 245: case 247: case 249: case 251: case 253: case 255: case 257: case 282: case 288: case 299: case 315: case 347: case 359: case 378: case 380: case 382: case 384: case 394: case 398: case 400: case 402:
-$$[$0-1].push($$[$0]);
-break;
-case 210: case 222: case 244: case 246: case 248: case 346: case 377: case 379:
-this.$ = [$$[$0]];
-break;
-case 259:
-$$[$0-3].push($$[$0-2]);
-break;
-case 309: case 321: case 325: case 335: case 337: case 341: case 349: case 351: case 357: case 363: case 365: case 374:
-$$[$0-2].push($$[$0-1]);
-break;
-}
-},
-table: [o($V0,$V1,{3:1,4:2,7:3}),{1:[3]},o($V2,[2,258],{5:4,8:5,284:6,9:7,93:8,17:9,33:10,42:11,47:12,94:13,18:14,6:[2,188],24:$V3,34:[1,15],43:[1,16],48:[1,17]}),o([6,24,34,43,48,97,107,110,112,113,122,123,128,295,296,297,298,299],[2,2],{285:19,11:20,14:21,12:[1,22],15:[1,23]}),{6:[1,24]},{6:[2,190]},{6:[2,191]},{6:[2,200],10:25,82:26,83:$V4},{6:[2,189]},o($V5,[2,196]),o($V5,[2,197]),o($V5,[2,198]),o($V5,[2,199]),{95:28,97:[1,29],100:30,103:31,107:[1,32],110:[1,33],112:[1,34],113:[1,35],114:36,118:37,122:[2,283],123:[2,277],127:43,128:[1,44],295:[1,38],296:[1,39],297:[1,40],298:[1,41],299:[1,42]},o($V6,[2,202],{19:45}),o($V7,[2,216],{35:46,37:47,39:[1,48]}),{13:$V8,16:$V9,28:$Va,44:49,53:54,283:$Vb,290:[1,51],291:52,292:50},o($V6,[2,230],{49:58}),o($Vc,[2,208],{25:59,286:60,287:[1,61],288:[1,62]}),o($V0,[2,195]),o($V0,[2,192]),o($V0,[2,193]),{13:[1,63]},{16:[1,64]},{1:[2,1]},{6:[2,3]},{6:[2,201]},{28:[1,66],29:[1,67],84:65},{6:[2,260],96:68,194:[1,69]},o($Vd,[2,262],{98:70,294:[1,71]}),o($Ve,[2,268],{101:72,294:[1,73]}),o($Vf,[2,273],{104:74,294:[1,75]}),{108:76,109:[2,275],294:[1,77]},{39:$Vg,111:78},{39:$Vg,111:80},{39:$Vg,111:81},{115:82,123:$Vh},{119:84,122:$Vi},o($Vj,[2,266]),o($Vj,[2,267]),o($Vk,[2,270]),o($Vk,[2,271]),o($Vk,[2,272]),{122:[2,284],123:[2,278]},{13:$V8,16:$V9,53:86,283:$Vb},{20:87,38:$Vl,39:$Vm,50:88,51:$Vn,54:89},o($V6,[2,214],{36:92}),{38:[1,93],50:94,51:$Vn},o($Vo,[2,340],{170:95,171:96,172:97,41:[2,338]}),o($Vp,[2,226],{45:98}),o($Vp,[2,224],{53:54,291:99,13:$V8,16:$V9,28:$Va,283:$Vb}),o($Vp,[2,225]),o($Vq,[2,222]),o($Vq,[2,220]),o($Vq,[2,221]),o($Vr,[2,185]),o($Vr,[2,186]),o($Vr,[2,187]),{20:100,38:$Vl,39:$Vm,50:101,51:$Vn,54:89},{26:102,27:105,28:$Vs,29:$Vt,289:103,290:[1,104]},o($Vc,[2,209]),o($Vc,[2,206]),o($Vc,[2,207]),o($V0,[2,4]),{13:[1,108]},o($Vu,[2,34]),{39:[1,109]},o($Vv,[2,252],{86:110}),{6:[2,41]},o($V0,$V1,{7:3,4:111}),{13:$V8,16:$V9,53:112,283:$Vb},o($Vd,[2,263]),{102:113,109:[1,114],131:[1,116],133:115,293:[1,117],300:[1,118]},o($Ve,[2,269]),o($Vd,$Vw,{105:119,132:121,109:$Vx,131:$Vy}),o($Vf,[2,274]),{109:[1,123]},{109:[2,276]},o($Vz,[2,46]),o($Vo,$VA,{134:124,141:125,142:126,41:$VB,109:$VB}),o($Vz,[2,47]),o($Vz,[2,48]),o($VC,[2,279],{116:127,119:128,122:$Vi}),{39:$Vg,111:129},o($VC,[2,285],{120:130,115:131,123:$Vh}),{39:$Vg,111:132},o([122,123],[2,54]),o($VD,$VE,{21:133,56:134,60:135,61:$VF}),o($V6,[2,203]),{39:$VG,55:137},o($Vd,[2,232],{52:139,293:[1,140]}),{39:[2,235]},{20:141,38:$Vl,39:$Vm,50:142,51:$Vn,54:89},{39:[1,143]},o($V7,[2,217]),{41:[1,144]},{41:[2,339]},{13:$V8,16:$V9,28:$VH,29:$VI,53:149,80:$VJ,89:150,143:145,165:$VK,174:146,176:147,212:$VL,215:$VM,216:$VN,233:160,235:161,266:156,269:$VO,270:$VP,271:$VQ,272:$VR,273:$VS,274:$VT,275:$VU,276:$VV,277:$VW,278:$VX,279:$VY,280:$VZ,281:$V_,282:$V$,283:$Vb},o($V01,[2,228],{54:89,46:174,50:175,20:176,38:$Vl,39:$Vm,51:$Vn}),o($Vq,[2,223]),o($VD,$VE,{56:134,60:135,21:177,61:$VF}),o($V6,[2,231]),o($V6,[2,8]),o($V6,[2,212],{27:178,28:$Vs,29:$Vt}),o($V6,[2,213]),o($V11,[2,210]),o($V11,[2,9]),o($V21,$V31,{30:179,217:180,221:181,225:182,229:183,237:184,241:185,205:$V41,243:$V51,308:$V61}),o($V0,[2,5]),o($V71,[2,250],{85:189}),{28:[1,191],32:[1,190]},o($V2,[2,259],{6:[2,261]}),o($Vz,[2,264],{99:192,129:193,130:[1,194]}),o($Vz,[2,43]),{13:$V8,16:$V9,53:195,283:$Vb},o($Vz,[2,59]),o($Vz,[2,293]),o($Vz,[2,294]),o($Vz,[2,295]),{106:[1,196]},o($V81,[2,56]),{13:$V8,16:$V9,53:197,283:$Vb},o($Vd,[2,292]),{13:$V8,16:$V9,53:198,283:$Vb},o($V91,[2,298],{135:199}),o($V91,[2,297]),{13:$V8,16:$V9,28:$VH,29:$VI,53:149,80:$VJ,89:150,143:200,165:$VK,174:146,176:147,212:$VL,215:$VM,216:$VN,233:160,235:161,266:156,269:$VO,270:$VP,271:$VQ,272:$VR,273:$VS,274:$VT,275:$VU,276:$VV,277:$VW,278:$VX,279:$VY,280:$VZ,281:$V_,282:$V$,283:$Vb},o($VC,[2,281],{117:201}),o($VC,[2,280]),o([38,122,125],[2,52]),o($VC,[2,287],{121:202}),o($VC,[2,286]),o([38,123,125],[2,51]),o($V5,[2,6]),o($Va1,[2,238],{57:203,67:204,68:[1,205]}),o($VD,[2,237]),{62:[1,206]},o([6,41,61,68,71,79,81,83],[2,16]),o($Vo,$Vb1,{22:207,145:208,18:209,146:210,152:211,153:212,24:$V3,39:$Vc1,41:$Vc1,83:$Vc1,109:$Vc1,157:$Vc1,158:$Vc1,160:$Vc1,163:$Vc1,164:$Vc1}),{13:$V8,16:$V9,53:213,283:$Vb},o($Vd,[2,233]),o($VD,$VE,{56:134,60:135,21:214,61:$VF}),o($V6,[2,215]),o($Vo,$VA,{142:126,40:215,141:216,41:[2,218]}),o($V6,[2,83]),{41:[2,342],173:217,301:[1,218]},o($Vd1,$Ve1,{175:219,179:220}),o($Vd1,$Ve1,{179:220,177:221,178:222,175:223,41:$Vf1,109:$Vf1,301:$Vf1}),o($Vg1,[2,122]),o($Vg1,[2,123]),o($Vg1,[2,124]),o($Vg1,[2,125]),o($Vg1,[2,126]),o($Vg1,[2,127]),{13:$V8,16:$V9,28:$VH,29:$VI,53:149,80:$VJ,89:150,165:$VK,174:226,176:227,185:225,211:224,212:$VL,215:$VM,216:$VN,233:160,235:161,266:156,269:$VO,270:$VP,271:$VQ,272:$VR,273:$VS,274:$VT,275:$VU,276:$VV,277:$VW,278:$VX,279:$VY,280:$VZ,281:$V_,282:$V$,283:$Vb},o($Vd1,$Ve1,{179:220,175:228}),o($Vh1,[2,165],{267:[1,229],268:[1,230]}),o($Vh1,[2,168]),o($Vh1,[2,169]),o($Vh1,[2,170]),o($Vh1,[2,171]),o($Vh1,[2,172]),o($Vh1,[2,173]),o($Vh1,[2,174]),o($Vi1,[2,175]),o($Vi1,[2,176]),o($Vi1,[2,177]),o($Vi1,[2,178]),o($Vh1,[2,179]),o($Vh1,[2,180]),o($Vh1,[2,181]),o($Vh1,[2,182]),o($Vh1,[2,183]),o($Vh1,[2,184]),o($VD,$VE,{56:134,60:135,21:231,61:$VF}),o($Vp,[2,227]),o($V01,[2,229]),o($V5,[2,14]),o($V11,[2,211]),{31:[1,232]},o($Vj1,[2,381],{218:233}),o($Vk1,[2,383],{222:234}),o($Vk1,[2,132],{226:235,227:236,228:[2,391],265:[1,237],309:[1,238],310:[1,239],311:[1,240],312:[1,241],313:[1,242],314:[1,243]}),o($Vl1,[2,393],{230:244}),o($Vm1,[2,401],{238:245}),{13:$V8,16:$V9,28:$Vn1,29:$Vo1,53:249,65:248,66:250,75:247,80:$VJ,89:251,233:160,235:161,242:246,244:254,245:$Vp1,246:$Vq1,247:$Vr1,249:$Vs1,250:259,251:$Vt1,252:$Vu1,253:262,254:$Vv1,255:$Vw1,258:$Vx1,260:$Vy1,266:156,269:$VO,270:$VP,271:$VQ,272:$VR,273:$VS,274:$VT,275:$VU,276:$VV,277:$VW,278:$VX,279:$VY,280:$VZ,281:$V_,282:$V$,283:$Vb,314:$Vz1,315:$VA1,316:$VB1,317:$VC1,318:$VD1,319:$VE1},{13:$V8,16:$V9,28:$Vn1,29:$Vo1,53:249,65:248,66:250,75:247,80:$VJ,89:251,233:160,235:161,242:272,244:254,245:$Vp1,246:$Vq1,247:$Vr1,249:$Vs1,250:259,251:$Vt1,252:$Vu1,253:262,254:$Vv1,255:$Vw1,258:$Vx1,260:$Vy1,266:156,269:$VO,270:$VP,271:$VQ,272:$VR,273:$VS,274:$VT,275:$VU,276:$VV,277:$VW,278:$VX,279:$VY,280:$VZ,281:$V_,282:$V$,283:$Vb,314:$Vz1,315:$VA1,316:$VB1,317:$VC1,318:$VD1,319:$VE1},{13:$V8,16:$V9,28:$Vn1,29:$Vo1,53:249,65:248,66:250,75:247,80:$VJ,89:251,233:160,235:161,242:273,244:254,245:$Vp1,246:$Vq1,247:$Vr1,249:$Vs1,250:259,251:$Vt1,252:$Vu1,253:262,254:$Vv1,255:$Vw1,258:$Vx1,260:$Vy1,266:156,269:$VO,270:$VP,271:$VQ,272:$VR,273:$VS,274:$VT,275:$VU,276:$VV,277:$VW,278:$VX,279:$VY,280:$VZ,281:$V_,282:$V$,283:$Vb,314:$Vz1,315:$VA1,316:$VB1,317:$VC1,318:$VD1,319:$VE1},o($V21,[2,406]),{13:$V8,16:$V9,41:[1,274],53:276,80:$VJ,88:275,89:277,90:$VF1,233:160,235:161,266:156,269:$VO,270:$VP,271:$VQ,272:$VR,273:$VS,274:$VT,275:$VU,276:$VV,277:$VW,278:$VX,279:$VY,280:$VZ,281:$V_,282:$V$,283:$Vb},{39:[1,279]},o($Vv,[2,253]),o($Vz,[2,42]),o($Vz,[2,265]),{109:[1,280]},o($Vz,[2,58]),o($Vd,$Vw,{132:121,105:281,109:$Vx,131:$Vy}),o($V81,[2,57]),o($Vz,[2,45]),{41:[1,282],109:[1,284],136:283},o($V91,[2,310],{144:285,301:[1,286]}),{38:[1,287],124:288,125:$VG1},{38:[1,290],124:291,125:$VG1},o($VH1,[2,240],{58:292,70:293,71:[1,294]}),o($Va1,[2,239]),{13:$V8,16:$V9,29:$Vo1,53:300,65:298,66:299,69:295,75:297,77:296,244:254,245:$Vp1,246:$Vq1,247:$Vr1,249:$Vs1,250:259,251:$Vt1,252:$Vu1,253:262,254:$Vv1,255:$Vw1,258:$Vx1,260:$Vy1,283:$Vb,314:$Vz1,315:$VA1,316:$VB1,317:$VC1,318:$VD1,319:$VE1},{13:$V8,16:$V9,28:$VI1,29:$VJ1,53:300,63:301,64:302,65:303,66:304,244:254,245:$Vp1,246:$Vq1,247:$Vr1,249:$Vs1,250:259,251:$Vt1,252:$Vu1,253:262,254:$Vv1,255:$Vw1,258:$Vx1,260:$Vy1,283:$Vb,314:$Vz1,315:$VA1,316:$VB1,317:$VC1,318:$VD1,319:$VE1},{41:[1,307]},{41:[1,308]},{20:309,38:$Vl,39:$Vm,54:89},o($VK1,[2,314],{147:310}),o($VK1,[2,313]),{13:$V8,16:$V9,28:$VH,29:$VL1,53:149,80:$VJ,89:150,154:311,165:$VK,174:312,187:313,212:$VM1,215:$VM,216:$VN,233:160,235:161,266:156,269:$VO,270:$VP,271:$VQ,272:$VR,273:$VS,274:$VT,275:$VU,276:$VV,277:$VW,278:$VX,279:$VY,280:$VZ,281:$V_,282:$V$,283:$Vb},o($Vp,[2,15]),o($V5,[2,11]),{41:[1,316]},{41:[2,219]},{41:[2,84]},o($Vo,[2,341],{41:[2,343]}),o($VN1,[2,85]),{13:$V8,16:$V9,28:[1,319],53:320,180:317,181:318,183:[1,321],283:$Vb},o($VN1,[2,86]),o($VN1,[2,87]),o($VN1,[2,345]),{13:$V8,16:$V9,28:$VH,29:$VI,32:[1,322],53:149,80:$VJ,89:150,165:$VK,174:226,176:227,185:323,212:$VL,215:$VM,216:$VN,233:160,235:161,266:156,269:$VO,270:$VP,271:$VQ,272:$VR,273:$VS,274:$VT,275:$VU,276:$VV,277:$VW,278:$VX,279:$VY,280:$VZ,281:$V_,282:$V$,283:$Vb},o($VO1,[2,377]),o($VP1,[2,118]),o($VP1,[2,119]),{213:[1,324]},o($Vh1,[2,166]),{13:$V8,16:$V9,53:325,283:$Vb},o($V5,[2,13]),{28:[1,326]},o([31,32,194,248],[2,128],{219:327,220:[1,328]}),o($Vj1,[2,130],{223:329,224:[1,330]}),o($V21,$V31,{229:183,237:184,241:185,225:331,205:$V41,243:$V51,308:$V61}),{228:[1,332]},o($VQ1,[2,385]),o($VQ1,[2,386]),o($VQ1,[2,387]),o($VQ1,[2,388]),o($VQ1,[2,389]),o($VQ1,[2,390]),{228:[2,392]},o([31,32,194,220,224,228,248,265,309,310,311,312,313,314],[2,135],{231:333,232:334,233:335,235:336,243:[1,338],277:$VW,278:$VX,279:$VY,280:$VZ,281:$V_,282:$V$,308:[1,337]}),o($Vl1,[2,139],{239:339,240:340,290:$VR1,305:$VS1}),o($Vm1,[2,141]),o($Vm1,[2,144]),o($Vm1,[2,145]),o($Vm1,[2,146],{29:$VT1,165:$VU1}),o($Vm1,[2,147]),o($Vm1,[2,148]),o($Vm1,[2,149]),o($V21,$V31,{217:180,221:181,225:182,229:183,237:184,241:185,30:345,205:$V41,243:$V51,308:$V61}),o($VV1,[2,151]),{165:[1,346]},{29:[1,347]},{29:[1,348]},{29:[1,349]},{29:$VW1,165:$VX1,168:350},{29:[1,353]},{29:[1,355],165:[1,354]},{254:[1,356]},{29:[1,357]},{29:[1,358]},{29:[1,359]},o($VY1,[2,407]),o($VY1,[2,408]),o($VY1,[2,409]),o($VY1,[2,410]),o($VY1,[2,411]),{254:[2,413]},o($Vm1,[2,142]),o($Vm1,[2,143]),o($Vu,[2,35]),o($V71,[2,251]),o($VZ1,[2,37]),o($VZ1,[2,38]),o($VZ1,[2,39]),o($V_1,[2,254],{87:360}),{13:$V8,16:$V9,53:361,283:$Vb},o($Vz,[2,44]),o([6,38,122,123,125,194],[2,60]),o($V91,[2,299]),{13:$V8,16:$V9,28:[1,363],53:364,137:362,283:$Vb},o($V91,[2,62]),o($Vo,[2,309],{41:$V$1,109:$V$1}),{39:$VG,55:365},o($VC,[2,282]),o($Vd,[2,289],{126:366,293:[1,367]}),{39:$VG,55:368},o($VC,[2,288]),o($V02,[2,242],{59:369,78:370,79:[1,371],81:[1,372]}),o($VH1,[2,241]),{62:[1,373]},o($Va1,[2,24],{244:254,250:259,253:262,75:297,65:298,66:299,53:300,77:374,13:$V8,16:$V9,29:$Vo1,245:$Vp1,246:$Vq1,247:$Vr1,249:$Vs1,251:$Vt1,252:$Vu1,254:$Vv1,255:$Vw1,258:$Vx1,260:$Vy1,283:$Vb,314:$Vz1,315:$VA1,316:$VB1,317:$VC1,318:$VD1,319:$VE1}),o($V12,[2,246]),o($V22,[2,76]),o($V22,[2,77]),o($V22,[2,78]),{29:$VT1,165:$VU1},o($VD,[2,18],{244:254,250:259,253:262,53:300,65:303,66:304,64:375,13:$V8,16:$V9,28:$VI1,29:$VJ1,245:$Vp1,246:$Vq1,247:$Vr1,249:$Vs1,251:$Vt1,252:$Vu1,254:$Vv1,255:$Vw1,258:$Vx1,260:$Vy1,283:$Vb,314:$Vz1,315:$VA1,316:$VB1,317:$VC1,318:$VD1,319:$VE1}),o($V32,[2,244]),o($V32,[2,19]),o($V32,[2,20]),o($V21,$V31,{217:180,221:181,225:182,229:183,237:184,241:185,30:376,205:$V41,243:$V51,308:$V61}),o($V32,[2,23]),o($V42,[2,63]),o($V42,[2,64]),o($VD,$VE,{56:134,60:135,21:377,61:$VF}),{39:[2,324],41:[2,65],82:387,83:$V4,109:[1,383],148:378,149:379,156:380,157:[1,381],158:[1,382],160:[1,384],163:[1,385],164:[1,386]},o($VK1,[2,322],{155:388,301:[1,389]}),o($V52,$V62,{186:390,189:391,196:392,197:394,28:$V72}),o($V82,[2,352],{189:391,196:392,197:394,188:395,186:396,13:$V62,16:$V62,29:$V62,183:$V62,205:$V62,210:$V62,283:$V62,28:$V72}),{13:$V8,16:$V9,28:$VH,29:$VL1,53:149,80:$VJ,89:150,165:$VK,174:399,187:400,191:398,212:$VM1,214:397,215:$VM,216:$VN,233:160,235:161,266:156,269:$VO,270:$VP,271:$VQ,272:$VR,273:$VS,274:$VT,275:$VU,276:$VV,277:$VW,278:$VX,279:$VY,280:$VZ,281:$V_,282:$V$,283:$Vb},o($V52,$V62,{189:391,196:392,197:394,186:401,28:$V72}),o($VD,$VE,{56:134,60:135,21:402,61:$VF}),o([41,109,213,301],[2,88],{303:403,194:[1,404]}),o($Vo,$V92,{182:405,184:406}),o($Vo,[2,90]),o($Vo,[2,91]),o($Vo,[2,92]),o($Va2,[2,114]),o($VO1,[2,378]),o($Va2,[2,115]),o($Vh1,[2,167]),{32:[1,407]},o($Vj1,[2,382]),o($V21,$V31,{221:181,225:182,229:183,237:184,241:185,217:408,205:$V41,243:$V51,308:$V61}),o($Vk1,[2,384]),o($V21,$V31,{225:182,229:183,237:184,241:185,221:409,205:$V41,243:$V51,308:$V61}),o($Vk1,[2,133]),{29:$VW1,165:$VX1,168:410},o($Vl1,[2,394]),o($V21,$V31,{237:184,241:185,229:411,205:$V41,243:$V51,308:$V61}),o($Vm1,[2,397],{234:412}),o($Vm1,[2,399],{236:413}),o($VQ1,[2,395]),o($VQ1,[2,396]),o($Vm1,[2,402]),o($V21,$V31,{241:185,237:414,205:$V41,243:$V51,308:$V61}),o($VQ1,[2,403]),o($VQ1,[2,404]),o($VV1,[2,79]),o($VQ1,[2,332],{166:415,287:[1,416]}),{32:[1,417]},o($VV1,[2,152]),o($V21,$V31,{217:180,221:181,225:182,229:183,237:184,241:185,30:418,205:$V41,243:$V51,308:$V61}),o($V21,$V31,{217:180,221:181,225:182,229:183,237:184,241:185,30:419,205:$V41,243:$V51,308:$V61}),o($V21,$V31,{217:180,221:181,225:182,229:183,237:184,241:185,30:420,205:$V41,243:$V51,308:$V61}),o($VV1,[2,156]),o($VV1,[2,81]),o($VQ1,[2,336],{169:421}),{28:[1,422]},o($VV1,[2,158]),o($V21,$V31,{217:180,221:181,225:182,229:183,237:184,241:185,30:423,205:$V41,243:$V51,308:$V61}),{39:$VG,55:424},o($Vb2,[2,414],{256:425,287:[1,426]}),o($VQ1,[2,418],{259:427,287:[1,428]}),o($VQ1,[2,420],{261:429,287:[1,430]}),{29:[1,433],41:[1,431],91:432},o($Vz,[2,55]),{39:[1,434]},{39:[2,300]},{39:[2,301]},o($Vz,[2,49]),{13:$V8,16:$V9,53:435,283:$Vb},o($Vd,[2,290]),o($Vz,[2,50]),o($V02,[2,17]),o($V02,[2,243]),{80:[1,436]},{80:[1,437]},{13:$V8,16:$V9,28:$Vc2,29:$Vo1,53:300,65:298,66:299,72:438,73:439,74:$Vd2,75:297,76:$Ve2,77:442,244:254,245:$Vp1,246:$Vq1,247:$Vr1,249:$Vs1,250:259,251:$Vt1,252:$Vu1,253:262,254:$Vv1,255:$Vw1,258:$Vx1,260:$Vy1,283:$Vb,314:$Vz1,315:$VA1,316:$VB1,317:$VC1,318:$VD1,319:$VE1},o($V12,[2,247]),o($V32,[2,245]),{31:[1,445],32:[1,444]},{23:446,41:[2,204],82:447,83:$V4},o($VK1,[2,315]),o($Vf2,[2,316],{150:448,301:[1,449]}),{39:$VG,55:450},{39:$VG,55:451},{39:$VG,55:452},{13:$V8,16:$V9,28:[1,454],53:455,159:453,283:$Vb},o($Vg2,[2,328],{161:456,294:[1,457]}),{13:$V8,16:$V9,29:$Vo1,53:300,65:298,66:299,75:297,77:458,244:254,245:$Vp1,246:$Vq1,247:$Vr1,249:$Vs1,250:259,251:$Vt1,252:$Vu1,253:262,254:$Vv1,255:$Vw1,258:$Vx1,260:$Vy1,283:$Vb,314:$Vz1,315:$VA1,316:$VB1,317:$VC1,318:$VD1,319:$VE1},{29:[1,459]},o($Vh2,[2,75]),o($VK1,[2,67]),o($Vo,[2,321],{39:$Vi2,41:$Vi2,83:$Vi2,109:$Vi2,157:$Vi2,158:$Vi2,160:$Vi2,163:$Vi2,164:$Vi2}),o($V82,[2,94]),o($Vo,[2,356],{190:460}),o($Vo,[2,354]),o($Vo,[2,355]),o($V52,[2,364],{198:461,199:462}),o($V82,[2,95]),o($V82,[2,353]),{13:$V8,16:$V9,28:$VH,29:$VL1,32:[1,463],53:149,80:$VJ,89:150,165:$VK,174:399,187:400,191:464,212:$VM1,215:$VM,216:$VN,233:160,235:161,266:156,269:$VO,270:$VP,271:$VQ,272:$VR,273:$VS,274:$VT,275:$VU,276:$VV,277:$VW,278:$VX,279:$VY,280:$VZ,281:$V_,282:$V$,283:$Vb},o($VO1,[2,379]),o($VP1,[2,120]),o($VP1,[2,121]),{213:[1,465]},o($V5,[2,12]),o($Vd1,[2,349],{194:[1,466]}),o($Vj2,[2,346]),o([41,109,194,213,301],[2,89]),{13:$V8,16:$V9,28:$VH,29:$VI,53:149,80:$VJ,89:150,165:$VK,174:226,176:227,185:467,212:$VL,215:$VM,216:$VN,233:160,235:161,266:156,269:$VO,270:$VP,271:$VQ,272:$VR,273:$VS,274:$VT,275:$VU,276:$VV,277:$VW,278:$VX,279:$VY,280:$VZ,281:$V_,282:$V$,283:$Vb},o($V11,[2,10]),o($Vj1,[2,129]),o($Vk1,[2,131]),o($Vk1,[2,134]),o($Vl1,[2,136]),o($Vl1,[2,137],{240:340,239:468,290:$VR1,305:$VS1}),o($Vl1,[2,138],{240:340,239:469,290:$VR1,305:$VS1}),o($Vm1,[2,140]),o($VQ1,[2,334],{167:470}),o($VQ1,[2,333]),o([6,13,16,28,29,31,32,39,41,71,74,76,79,80,81,83,109,157,158,160,163,164,165,194,212,215,216,220,224,228,243,245,246,247,248,249,251,252,254,255,258,260,265,269,270,271,272,273,274,275,276,277,278,279,280,281,282,283,290,301,305,308,309,310,311,312,313,314,315,316,317,318,319],[2,150]),{32:[1,471]},{248:[1,472]},{248:[1,473]},o($V21,$V31,{217:180,221:181,225:182,229:183,237:184,241:185,30:474,205:$V41,243:$V51,308:$V61}),{32:[1,475]},{32:[1,476]},o($VV1,[2,160]),o($V21,$V31,{217:180,221:181,225:182,229:183,237:184,241:185,257:477,30:479,205:$V41,243:$V51,290:[1,478],308:$V61}),o($Vb2,[2,415]),o($V21,$V31,{217:180,221:181,225:182,229:183,237:184,241:185,30:480,205:$V41,243:$V51,308:$V61}),o($VQ1,[2,419]),o($V21,$V31,{217:180,221:181,225:182,229:183,237:184,241:185,30:481,205:$V41,243:$V51,308:$V61}),o($VQ1,[2,421]),o($Vu,[2,36]),o($V_1,[2,255]),o($Vk2,[2,256],{92:482}),o($Vo,$VA,{142:126,138:483,141:484,41:[2,302]}),o($VC,[2,53]),o($V02,[2,30],{81:[1,485]}),o($V02,[2,31],{79:[1,486]}),o($VH1,[2,25],{244:254,250:259,253:262,75:297,65:298,66:299,53:300,77:442,73:487,13:$V8,16:$V9,28:$Vc2,29:$Vo1,74:$Vd2,76:$Ve2,245:$Vp1,246:$Vq1,247:$Vr1,249:$Vs1,251:$Vt1,252:$Vu1,254:$Vv1,255:$Vw1,258:$Vx1,260:$Vy1,283:$Vb,314:$Vz1,315:$VA1,316:$VB1,317:$VC1,318:$VD1,319:$VE1}),o($Vl2,[2,248]),{29:$Vo1,75:488},{29:$Vo1,75:489},o($Vl2,[2,28]),o($Vl2,[2,29]),o($V32,[2,21]),{28:[1,490]},{41:[2,7]},{41:[2,205]},o($Vo,$Vb1,{153:212,151:491,152:492,39:$Vm2,41:$Vm2,83:$Vm2,109:$Vm2,157:$Vm2,158:$Vm2,160:$Vm2,163:$Vm2,164:$Vm2}),o($Vf2,[2,317]),o($Vh2,[2,68],{302:[1,493]}),o($Vh2,[2,69]),o($Vh2,[2,70]),{39:$VG,55:494},{39:[2,326]},{39:[2,327]},{13:$V8,16:$V9,28:[1,496],53:497,162:495,283:$Vb},o($Vg2,[2,329]),o($Vh2,[2,73]),o($V21,$V31,{217:180,221:181,225:182,229:183,237:184,241:185,30:498,205:$V41,243:$V51,308:$V61}),{13:$V8,16:$V9,28:$VH,29:$VL1,53:149,80:$VJ,89:150,165:$VK,174:399,187:400,191:499,212:$VM1,215:$VM,216:$VN,233:160,235:161,266:156,269:$VO,270:$VP,271:$VQ,272:$VR,273:$VS,274:$VT,275:$VU,276:$VV,277:$VW,278:$VX,279:$VY,280:$VZ,281:$V_,282:$V$,283:$Vb},o($VO1,[2,99],{304:[1,500]}),o($Vn2,[2,371],{200:501,204:502,210:[1,503]}),o($Vg1,[2,116]),o($VO1,[2,380]),o($Vg1,[2,117]),o($Vj2,[2,347]),o($Vo2,[2,93],{248:[1,504]}),o($Vm1,[2,398]),o($Vm1,[2,400]),o($V21,$V31,{217:180,221:181,225:182,229:183,237:184,241:185,30:505,205:$V41,243:$V51,308:$V61}),o($VV1,[2,153]),o($V21,$V31,{217:180,221:181,225:182,229:183,237:184,241:185,30:506,205:$V41,243:$V51,308:$V61}),o($V21,$V31,{217:180,221:181,225:182,229:183,237:184,241:185,30:507,205:$V41,243:$V51,308:$V61}),{32:[1,508],248:[1,509]},o($VV1,[2,157]),o($VV1,[2,159]),{32:[1,510]},{32:[2,416]},{32:[2,417]},{32:[1,511]},{32:[2,422],194:[1,514],262:512,263:513},{13:$V8,16:$V9,32:[1,515],53:276,80:$VJ,88:516,89:277,90:$VF1,233:160,235:161,266:156,269:$VO,270:$VP,271:$VQ,272:$VR,273:$VS,274:$VT,275:$VU,276:$VV,277:$VW,278:$VX,279:$VY,280:$VZ,281:$V_,282:$V$,283:$Vb},{41:[1,517]},{41:[2,303]},{80:[1,518]},{80:[1,519]},o($Vl2,[2,249]),o($Vl2,[2,26]),o($Vl2,[2,27]),{32:[1,520]},o($VK1,[2,66]),o($VK1,[2,319]),{39:[2,325]},o($Vh2,[2,71]),{39:$VG,55:521},{39:[2,330]},{39:[2,331]},{31:[1,522]},o($Vo2,[2,358],{192:523,248:[1,524]}),o($V52,[2,363]),o([13,16,28,29,32,80,165,212,215,216,269,270,271,272,273,274,275,276,277,278,279,280,281,282,283,304],[2,100],{305:[1,525]}),{13:$V8,16:$V9,29:[1,531],53:528,183:[1,529],201:526,202:527,205:[1,530],283:$Vb},o($Vn2,[2,372]),o($Vo,[2,351]),{32:[1,532],248:[1,533]},{32:[1,534]},{248:[1,535]},o($VV1,[2,82]),o($VQ1,[2,337]),o($VV1,[2,161]),o($VV1,[2,162]),{32:[1,536]},{32:[2,423]},{264:[1,537]},o($V_1,[2,40]),o($Vk2,[2,257]),o($Vp2,[2,304],{139:538,301:[1,539]}),o($V02,[2,32]),o($V02,[2,33]),o($V32,[2,22]),o($Vh2,[2,72]),{28:[1,540]},o([39,41,83,109,157,158,160,163,164,213,301],[2,96],{193:541,194:[1,542]}),o($Vo,[2,357]),o($V52,[2,365]),o($Vq2,[2,102]),o($Vq2,[2,369],{203:543,306:544,290:[1,546],307:[1,545],308:[1,547]}),o($Vr2,[2,103]),o($Vr2,[2,104]),{13:$V8,16:$V9,29:[1,551],53:552,165:[1,550],183:$Vs2,206:548,207:549,210:$Vt2,283:$Vb},o($V52,$V62,{197:394,196:555}),o($VV1,[2,80]),o($VQ1,[2,335]),o($VV1,[2,154]),o($V21,$V31,{217:180,221:181,225:182,229:183,237:184,241:185,30:556,205:$V41,243:$V51,308:$V61}),o($VV1,[2,163]),{265:[1,557]},o($Vo,$VA,{142:126,140:558,141:559,41:$Vu2,109:$Vu2}),o($Vp2,[2,305]),{32:[1,560]},o($Vo2,[2,359]),o($Vo2,[2,97],{197:394,195:561,196:562,13:$V62,16:$V62,29:$V62,183:$V62,205:$V62,210:$V62,283:$V62,28:[1,563]}),o($Vq2,[2,101]),o($Vq2,[2,370]),o($Vq2,[2,366]),o($Vq2,[2,367]),o($Vq2,[2,368]),o($Vr2,[2,105]),o($Vr2,[2,107]),o($Vr2,[2,108]),o($Vv2,[2,373],{208:564}),o($Vr2,[2,110]),o($Vr2,[2,111]),{13:$V8,16:$V9,53:565,183:[1,566],283:$Vb},{32:[1,567]},{32:[1,568]},{266:569,273:$VS,274:$VT,275:$VU,276:$VV},o($V91,[2,61]),o($V91,[2,307]),o($Vh2,[2,74]),o($Vo,$V92,{184:406,182:570}),o($Vo,[2,360]),o($Vo,[2,361]),{13:$V8,16:$V9,32:[2,375],53:552,183:$Vs2,207:572,209:571,210:$Vt2,283:$Vb},o($Vr2,[2,112]),o($Vr2,[2,113]),o($Vr2,[2,106]),o($VV1,[2,155]),{32:[2,164]},o($Vo2,[2,98]),{32:[1,573]},{32:[2,376],304:[1,574]},o($Vr2,[2,109]),o($Vv2,[2,374])],
-defaultActions: {5:[2,190],6:[2,191],8:[2,189],24:[2,1],25:[2,3],26:[2,201],68:[2,41],77:[2,276],91:[2,235],96:[2,339],216:[2,219],217:[2,84],243:[2,392],271:[2,413],363:[2,300],364:[2,301],446:[2,7],447:[2,205],454:[2,326],455:[2,327],478:[2,416],479:[2,417],484:[2,303],493:[2,325],496:[2,330],497:[2,331],513:[2,423],569:[2,164]},
-parseError: function parseError(str, hash) {
-    if (hash.recoverable) {
-        this.trace(str);
-    } else {
-        var error = new Error(str);
-        error.hash = hash;
-        throw error;
-    }
-},
-parse: function parse(input) {
-    var self = this, stack = [0], tstack = [], vstack = [null], lstack = [], table = this.table, yytext = '', yylineno = 0, yyleng = 0, recovering = 0, TERROR = 2, EOF = 1;
-    var args = lstack.slice.call(arguments, 1);
-    var lexer = Object.create(this.lexer);
-    var sharedState = { yy: {} };
-    for (var k in this.yy) {
-        if (Object.prototype.hasOwnProperty.call(this.yy, k)) {
-            sharedState.yy[k] = this.yy[k];
-        }
-    }
-    lexer.setInput(input, sharedState.yy);
-    sharedState.yy.lexer = lexer;
-    sharedState.yy.parser = this;
-    if (typeof lexer.yylloc == 'undefined') {
-        lexer.yylloc = {};
-    }
-    var yyloc = lexer.yylloc;
-    lstack.push(yyloc);
-    var ranges = lexer.options && lexer.options.ranges;
-    if (typeof sharedState.yy.parseError === 'function') {
-        this.parseError = sharedState.yy.parseError;
-    } else {
-        this.parseError = Object.getPrototypeOf(this).parseError;
-    }
-    function popStack(n) {
-        stack.length = stack.length - 2 * n;
-        vstack.length = vstack.length - n;
-        lstack.length = lstack.length - n;
-    }
-    _token_stack:
-        var lex = function () {
-            var token;
-            token = lexer.lex() || EOF;
-            if (typeof token !== 'number') {
-                token = self.symbols_[token] || token;
-            }
-            return token;
-        };
-    var symbol, preErrorSymbol, state, action, a, r, yyval = {}, p, len, newState, expected;
-    while (true) {
-        state = stack[stack.length - 1];
-        if (this.defaultActions[state]) {
-            action = this.defaultActions[state];
-        } else {
-            if (symbol === null || typeof symbol == 'undefined') {
-                symbol = lex();
-            }
-            action = table[state] && table[state][symbol];
-        }
-                    if (typeof action === 'undefined' || !action.length || !action[0]) {
-                var errStr = '';
-                expected = [];
-                for (p in table[state]) {
-                    if (this.terminals_[p] && p > TERROR) {
-                        expected.push('\'' + this.terminals_[p] + '\'');
-                    }
-                }
-                if (lexer.showPosition) {
-                    errStr = 'Parse error on line ' + (yylineno + 1) + ':\n' + lexer.showPosition() + '\nExpecting ' + expected.join(', ') + ', got \'' + (this.terminals_[symbol] || symbol) + '\'';
-                } else {
-                    errStr = 'Parse error on line ' + (yylineno + 1) + ': Unexpected ' + (symbol == EOF ? 'end of input' : '\'' + (this.terminals_[symbol] || symbol) + '\'');
-                }
-                this.parseError(errStr, {
-                    text: lexer.match,
-                    token: this.terminals_[symbol] || symbol,
-                    line: lexer.yylineno,
-                    loc: yyloc,
-                    expected: expected
-                });
-            }
-        if (action[0] instanceof Array && action.length > 1) {
-            throw new Error('Parse Error: multiple actions possible at state: ' + state + ', token: ' + symbol);
-        }
-        switch (action[0]) {
-        case 1:
-            stack.push(symbol);
-            vstack.push(lexer.yytext);
-            lstack.push(lexer.yylloc);
-            stack.push(action[1]);
-            symbol = null;
-            if (!preErrorSymbol) {
-                yyleng = lexer.yyleng;
-                yytext = lexer.yytext;
-                yylineno = lexer.yylineno;
-                yyloc = lexer.yylloc;
-                if (recovering > 0) {
-                    recovering--;
-                }
-            } else {
-                symbol = preErrorSymbol;
-                preErrorSymbol = null;
-            }
-            break;
-        case 2:
-            len = this.productions_[action[1]][1];
-            yyval.$ = vstack[vstack.length - len];
-            yyval._$ = {
-                first_line: lstack[lstack.length - (len || 1)].first_line,
-                last_line: lstack[lstack.length - 1].last_line,
-                first_column: lstack[lstack.length - (len || 1)].first_column,
-                last_column: lstack[lstack.length - 1].last_column
-            };
-            if (ranges) {
-                yyval._$.range = [
-                    lstack[lstack.length - (len || 1)].range[0],
-                    lstack[lstack.length - 1].range[1]
-                ];
-            }
-            r = this.performAction.apply(yyval, [
-                yytext,
-                yyleng,
-                yylineno,
-                sharedState.yy,
-                action[1],
-                vstack,
-                lstack
-            ].concat(args));
-            if (typeof r !== 'undefined') {
-                return r;
-            }
-            if (len) {
-                stack = stack.slice(0, -1 * len * 2);
-                vstack = vstack.slice(0, -1 * len);
-                lstack = lstack.slice(0, -1 * len);
-            }
-            stack.push(this.productions_[action[1]][0]);
-            vstack.push(yyval.$);
-            lstack.push(yyval._$);
-            newState = table[stack[stack.length - 2]][stack[stack.length - 1]];
-            stack.push(newState);
-            break;
-        case 3:
-            return true;
-        }
-    }
-    return true;
-}};
-
-  /*
-    SPARQL parser in the Jison parser generator format.
-  */
-
-  // Common namespaces and entities
-  var RDF = 'http://www.w3.org/1999/02/22-rdf-syntax-ns#',
-      RDF_TYPE  = RDF + 'type',
-      RDF_FIRST = RDF + 'first',
-      RDF_REST  = RDF + 'rest',
-      RDF_NIL   = RDF + 'nil',
-      XSD = 'http://www.w3.org/2001/XMLSchema#',
-      XSD_INTEGER  = XSD + 'integer',
-      XSD_DECIMAL  = XSD + 'decimal',
-      XSD_DOUBLE   = XSD + 'double',
-      XSD_BOOLEAN  = XSD + 'boolean',
-      XSD_TRUE =  '"true"^^'  + XSD_BOOLEAN,
-      XSD_FALSE = '"false"^^' + XSD_BOOLEAN;
-
-  var base = '', basePath = '', baseRoot = '';
-
-  // Returns a lowercase version of the given string
-  function lowercase(string) {
-    return string.toLowerCase();
-  }
-
-  // Appends the item to the array and returns the array
-  function appendTo(array, item) {
-    return array.push(item), array;
-  }
-
-  // Appends the items to the array and returns the array
-  function appendAllTo(array, items) {
-    return array.push.apply(array, items), array;
-  }
-
-  // Extends a base object with properties of other objects
-  function extend(base) {
-    if (!base) base = {};
-    for (var i = 1, l = arguments.length, arg; i < l && (arg = arguments[i] || {}); i++)
-      for (var name in arg)
-        base[name] = arg[name];
-    return base;
-  }
-
-  // Creates an array that contains all items of the given arrays
-  function unionAll() {
-    var union = [];
-    for (var i = 0, l = arguments.length; i < l; i++)
-      union = union.concat.apply(union, arguments[i]);
-    return union;
-  }
-
-  // Resolves an IRI against a base path
-  function resolveIRI(iri) {
-    // Strip off possible angular brackets
-    if (iri[0] === '<')
-      iri = iri.substring(1, iri.length - 1);
-    // Return absolute IRIs unmodified
-    if (/^[a-z]+:/.test(iri))
-      return iri;
-    if (!Parser.base)
-      throw new Error('Cannot resolve relative IRI ' + iri + ' because no base IRI was set.');
-    if (!base) {
-      base = Parser.base;
-      basePath = base.replace(/[^\/:]*$/, '');
-      baseRoot = base.match(/^(?:[a-z]+:\/*)?[^\/]*/)[0];
-    }
-    switch (iri[0]) {
-    // An empty relative IRI indicates the base IRI
-    case undefined:
-      return base;
-    // Resolve relative fragment IRIs against the base IRI
-    case '#':
-      return base + iri;
-    // Resolve relative query string IRIs by replacing the query string
-    case '?':
-      return base.replace(/(?:\?.*)?$/, iri);
-    // Resolve root relative IRIs at the root of the base IRI
-    case '/':
-      return baseRoot + iri;
-    // Resolve all other IRIs at the base IRI's path
-    default:
-      return basePath + iri;
-    }
-  }
-
-  // If the item is a variable, ensures it starts with a question mark
-  function toVar(variable) {
-    if (variable) {
-      var first = variable[0];
-      if (first === '?') return variable;
-      if (first === '$') return '?' + variable.substr(1);
-    }
-    return variable;
-  }
-
-  // Creates an operation with the given name and arguments
-  function operation(operatorName, args) {
-    return { type: 'operation', operator: operatorName, args: args || [] };
-  }
-
-  // Creates an expression with the given type and attributes
-  function expression(expr, attr) {
-    var expression = { expression: expr };
-    if (attr)
-      for (var a in attr)
-        expression[a] = attr[a];
-    return expression;
-  }
-
-  // Creates a path with the given type and items
-  function path(type, items) {
-    return { type: 'path', pathType: type, items: items };
-  }
-
-  // Transforms a list of operations types and arguments into a tree of operations
-  function createOperationTree(initialExpression, operationList) {
-    for (var i = 0, l = operationList.length, item; i < l && (item = operationList[i]); i++)
-      initialExpression = operation(item[0], [initialExpression, item[1]]);
-    return initialExpression;
-  }
-
-  // Group datasets by default and named
-  function groupDatasets(fromClauses) {
-    var defaults = [], named = [], l = fromClauses.length, fromClause;
-    for (var i = 0; i < l && (fromClause = fromClauses[i]); i++)
-      (fromClause.named ? named : defaults).push(fromClause.iri);
-    return l ? { from: { default: defaults, named: named } } : null;
-  }
-
-  // Converts the number to a string
-  function toInt(string) {
-    return parseInt(string, 10);
-  }
-
-  // Transforms a possibly single group into its patterns
-  function degroupSingle(group) {
-    return group.type === 'group' && group.patterns.length === 1 ? group.patterns[0] : group;
-  }
-
-  // Creates a literal with the given value and type
-  function createLiteral(value, type) {
-    return '"' + value + '"^^' + type;
-  }
-
-  // Creates a triple with the given subject, predicate, and object
-  function triple(subject, predicate, object) {
-    var triple = {};
-    if (subject   != null) triple.subject   = subject;
-    if (predicate != null) triple.predicate = predicate;
-    if (object    != null) triple.object    = object;
-    return triple;
-  }
-
-  // Creates a new blank node identifier
-  function blank() {
-    return '_:b' + blankId++;
-  };
-  var blankId = 0;
-  Parser._resetBlanks = function () { blankId = 0; }
-
-  // Regular expression and replacement strings to escape strings
-  var escapeSequence = /\\u([a-fA-F0-9]{4})|\\U([a-fA-F0-9]{8})|\\(.)/g,
-      escapeReplacements = { '\\': '\\', "'": "'", '"': '"',
-                             't': '\t', 'b': '\b', 'n': '\n', 'r': '\r', 'f': '\f' },
-      fromCharCode = String.fromCharCode;
-
-  // Translates escape codes in the string into their textual equivalent
-  function unescapeString(string, trimLength) {
-    string = string.substring(trimLength, string.length - trimLength);
-    try {
-      string = string.replace(escapeSequence, function (sequence, unicode4, unicode8, escapedChar) {
-        var charCode;
-        if (unicode4) {
-          charCode = parseInt(unicode4, 16);
-          if (isNaN(charCode)) throw new Error(); // can never happen (regex), but helps performance
-          return fromCharCode(charCode);
-        }
-        else if (unicode8) {
-          charCode = parseInt(unicode8, 16);
-          if (isNaN(charCode)) throw new Error(); // can never happen (regex), but helps performance
-          if (charCode < 0xFFFF) return fromCharCode(charCode);
-          return fromCharCode(0xD800 + ((charCode -= 0x10000) >> 10), 0xDC00 + (charCode & 0x3FF));
-        }
-        else {
-          var replacement = escapeReplacements[escapedChar];
-          if (!replacement) throw new Error();
-          return replacement;
-        }
-      });
-    }
-    catch (error) { return ''; }
-    return '"' + string + '"';
-  }
-
-  // Creates a list, collecting its (possibly blank) items and triples associated with those items
-  function createList(objects) {
-    var list = blank(), head = list, listItems = [], listTriples, triples = [];
-    objects.forEach(function (o) { listItems.push(o.entity); appendAllTo(triples, o.triples); });
-
-    // Build an RDF list out of the items
-    for (var i = 0, j = 0, l = listItems.length, listTriples = Array(l * 2); i < l;)
-      listTriples[j++] = triple(head, RDF_FIRST, listItems[i]),
-      listTriples[j++] = triple(head, RDF_REST,  head = ++i < l ? blank() : RDF_NIL);
-
-    // Return the list's identifier, its triples, and the triples associated with its items
-    return { entity: list, triples: appendAllTo(listTriples, triples) };
-  }
-
-  // Creates a blank node identifier, collecting triples with that blank node as subject
-  function createAnonymousObject(propertyList) {
-    var entity = blank();
-    return {
-      entity: entity,
-      triples: propertyList.map(function (t) { return extend(triple(entity), t); })
-    };
-  }
-
-  // Collects all (possibly blank) objects, and triples that have them as subject
-  function objectListToTriples(predicate, objectList, otherTriples) {
-    var objects = [], triples = [];
-    objectList.forEach(function (l) {
-      objects.push(triple(null, predicate, l.entity));
-      appendAllTo(triples, l.triples);
-    });
-    return unionAll(objects, otherTriples || [], triples);
-  }
-
-  // Simplifies groups by merging adjacent BGPs
-  function mergeAdjacentBGPs(groups) {
-    var merged = [], currentBgp;
-    for (var i = 0, group; group = groups[i]; i++) {
-      switch (group.type) {
-        // Add a BGP's triples to the current BGP
-        case 'bgp':
-          if (group.triples.length) {
-            if (!currentBgp)
-              appendTo(merged, currentBgp = group);
-            else
-              appendAllTo(currentBgp.triples, group.triples);
-          }
-          break;
-        // All other groups break up a BGP
-        default:
-          // Only add the group if its pattern is non-empty
-          if (!group.patterns || group.patterns.length > 0) {
-            appendTo(merged, group);
-            currentBgp = null;
-          }
-      }
-    }
-    return merged;
-  }
-/* generated by jison-lex 0.3.4 */
-var lexer = (function(){
-var lexer = ({
-
-EOF:1,
-
-parseError:function parseError(str, hash) {
-        if (this.yy.parser) {
-            this.yy.parser.parseError(str, hash);
-        } else {
-            throw new Error(str);
-        }
-    },
-
-// resets the lexer, sets new input
-setInput:function (input, yy) {
-        this.yy = yy || this.yy || {};
-        this._input = input;
-        this._more = this._backtrack = this.done = false;
-        this.yylineno = this.yyleng = 0;
-        this.yytext = this.matched = this.match = '';
-        this.conditionStack = ['INITIAL'];
-        this.yylloc = {
-            first_line: 1,
-            first_column: 0,
-            last_line: 1,
-            last_column: 0
-        };
-        if (this.options.ranges) {
-            this.yylloc.range = [0,0];
-        }
-        this.offset = 0;
-        return this;
-    },
-
-// consumes and returns one char from the input
-input:function () {
-        var ch = this._input[0];
-        this.yytext += ch;
-        this.yyleng++;
-        this.offset++;
-        this.match += ch;
-        this.matched += ch;
-        var lines = ch.match(/(?:\r\n?|\n).*/g);
-        if (lines) {
-            this.yylineno++;
-            this.yylloc.last_line++;
-        } else {
-            this.yylloc.last_column++;
-        }
-        if (this.options.ranges) {
-            this.yylloc.range[1]++;
-        }
-
-        this._input = this._input.slice(1);
-        return ch;
-    },
-
-// unshifts one char (or a string) into the input
-unput:function (ch) {
-        var len = ch.length;
-        var lines = ch.split(/(?:\r\n?|\n)/g);
-
-        this._input = ch + this._input;
-        this.yytext = this.yytext.substr(0, this.yytext.length - len);
-        //this.yyleng -= len;
-        this.offset -= len;
-        var oldLines = this.match.split(/(?:\r\n?|\n)/g);
-        this.match = this.match.substr(0, this.match.length - 1);
-        this.matched = this.matched.substr(0, this.matched.length - 1);
-
-        if (lines.length - 1) {
-            this.yylineno -= lines.length - 1;
-        }
-        var r = this.yylloc.range;
-
-        this.yylloc = {
-            first_line: this.yylloc.first_line,
-            last_line: this.yylineno + 1,
-            first_column: this.yylloc.first_column,
-            last_column: lines ?
-                (lines.length === oldLines.length ? this.yylloc.first_column : 0)
-                 + oldLines[oldLines.length - lines.length].length - lines[0].length :
-              this.yylloc.first_column - len
-        };
-
-        if (this.options.ranges) {
-            this.yylloc.range = [r[0], r[0] + this.yyleng - len];
-        }
-        this.yyleng = this.yytext.length;
-        return this;
-    },
-
-// When called from action, caches matched text and appends it on next action
-more:function () {
-        this._more = true;
-        return this;
-    },
-
-// When called from action, signals the lexer that this rule fails to match the input, so the next matching rule (regex) should be tested instead.
-reject:function () {
-        if (this.options.backtrack_lexer) {
-            this._backtrack = true;
-        } else {
-            return this.parseError('Lexical error on line ' + (this.yylineno + 1) + '. You can only invoke reject() in the lexer when the lexer is of the backtracking persuasion (options.backtrack_lexer = true).\n' + this.showPosition(), {
-                text: "",
-                token: null,
-                line: this.yylineno
-            });
-
-        }
-        return this;
-    },
-
-// retain first n characters of the match
-less:function (n) {
-        this.unput(this.match.slice(n));
-    },
-
-// displays already matched input, i.e. for error messages
-pastInput:function () {
-        var past = this.matched.substr(0, this.matched.length - this.match.length);
-        return (past.length > 20 ? '...':'') + past.substr(-20).replace(/\n/g, "");
-    },
-
-// displays upcoming input, i.e. for error messages
-upcomingInput:function () {
-        var next = this.match;
-        if (next.length < 20) {
-            next += this._input.substr(0, 20-next.length);
-        }
-        return (next.substr(0,20) + (next.length > 20 ? '...' : '')).replace(/\n/g, "");
-    },
-
-// displays the character position where the lexing error occurred, i.e. for error messages
-showPosition:function () {
-        var pre = this.pastInput();
-        var c = new Array(pre.length + 1).join("-");
-        return pre + this.upcomingInput() + "\n" + c + "^";
-    },
-
-// test the lexed token: return FALSE when not a match, otherwise return token
-test_match:function (match, indexed_rule) {
-        var token,
-            lines,
-            backup;
-
-        if (this.options.backtrack_lexer) {
-            // save context
-            backup = {
-                yylineno: this.yylineno,
-                yylloc: {
-                    first_line: this.yylloc.first_line,
-                    last_line: this.last_line,
-                    first_column: this.yylloc.first_column,
-                    last_column: this.yylloc.last_column
-                },
-                yytext: this.yytext,
-                match: this.match,
-                matches: this.matches,
-                matched: this.matched,
-                yyleng: this.yyleng,
-                offset: this.offset,
-                _more: this._more,
-                _input: this._input,
-                yy: this.yy,
-                conditionStack: this.conditionStack.slice(0),
-                done: this.done
-            };
-            if (this.options.ranges) {
-                backup.yylloc.range = this.yylloc.range.slice(0);
-            }
-        }
-
-        lines = match[0].match(/(?:\r\n?|\n).*/g);
-        if (lines) {
-            this.yylineno += lines.length;
-        }
-        this.yylloc = {
-            first_line: this.yylloc.last_line,
-            last_line: this.yylineno + 1,
-            first_column: this.yylloc.last_column,
-            last_column: lines ?
-                         lines[lines.length - 1].length - lines[lines.length - 1].match(/\r?\n?/)[0].length :
-                         this.yylloc.last_column + match[0].length
-        };
-        this.yytext += match[0];
-        this.match += match[0];
-        this.matches = match;
-        this.yyleng = this.yytext.length;
-        if (this.options.ranges) {
-            this.yylloc.range = [this.offset, this.offset += this.yyleng];
-        }
-        this._more = false;
-        this._backtrack = false;
-        this._input = this._input.slice(match[0].length);
-        this.matched += match[0];
-        token = this.performAction.call(this, this.yy, this, indexed_rule, this.conditionStack[this.conditionStack.length - 1]);
-        if (this.done && this._input) {
-            this.done = false;
-        }
-        if (token) {
-            return token;
-        } else if (this._backtrack) {
-            // recover context
-            for (var k in backup) {
-                this[k] = backup[k];
-            }
-            return false; // rule action called reject() implying the next rule should be tested instead.
-        }
-        return false;
-    },
-
-// return next match in input
-next:function () {
-        if (this.done) {
-            return this.EOF;
-        }
-        if (!this._input) {
-            this.done = true;
-        }
-
-        var token,
-            match,
-            tempMatch,
-            index;
-        if (!this._more) {
-            this.yytext = '';
-            this.match = '';
-        }
-        var rules = this._currentRules();
-        for (var i = 0; i < rules.length; i++) {
-            tempMatch = this._input.match(this.rules[rules[i]]);
-            if (tempMatch && (!match || tempMatch[0].length > match[0].length)) {
-                match = tempMatch;
-                index = i;
-                if (this.options.backtrack_lexer) {
-                    token = this.test_match(tempMatch, rules[i]);
-                    if (token !== false) {
-                        return token;
-                    } else if (this._backtrack) {
-                        match = false;
-                        continue; // rule action called reject() implying a rule MISmatch.
-                    } else {
-                        // else: this is a lexer rule which consumes input without producing a token (e.g. whitespace)
-                        return false;
-                    }
-                } else if (!this.options.flex) {
-                    break;
-                }
-            }
-        }
-        if (match) {
-            token = this.test_match(match, rules[index]);
-            if (token !== false) {
-                return token;
-            }
-            // else: this is a lexer rule which consumes input without producing a token (e.g. whitespace)
-            return false;
-        }
-        if (this._input === "") {
-            return this.EOF;
-        } else {
-            return this.parseError('Lexical error on line ' + (this.yylineno + 1) + '. Unrecognized text.\n' + this.showPosition(), {
-                text: "",
-                token: null,
-                line: this.yylineno
-            });
-        }
-    },
-
-// return next match that has a token
-lex:function lex() {
-        var r = this.next();
-        if (r) {
-            return r;
-        } else {
-            return this.lex();
-        }
-    },
-
-// activates a new lexer condition state (pushes the new lexer condition state onto the condition stack)
-begin:function begin(condition) {
-        this.conditionStack.push(condition);
-    },
-
-// pop the previously active lexer condition state off the condition stack
-popState:function popState() {
-        var n = this.conditionStack.length - 1;
-        if (n > 0) {
-            return this.conditionStack.pop();
-        } else {
-            return this.conditionStack[0];
-        }
-    },
-
-// produce the lexer rule set which is active for the currently active lexer condition state
-_currentRules:function _currentRules() {
-        if (this.conditionStack.length && this.conditionStack[this.conditionStack.length - 1]) {
-            return this.conditions[this.conditionStack[this.conditionStack.length - 1]].rules;
-        } else {
-            return this.conditions["INITIAL"].rules;
-        }
-    },
-
-// return the currently active lexer condition state; when an index argument is provided it produces the N-th previous condition state, if available
-topState:function topState(n) {
-        n = this.conditionStack.length - 1 - Math.abs(n || 0);
-        if (n >= 0) {
-            return this.conditionStack[n];
-        } else {
-            return "INITIAL";
-        }
-    },
-
-// alias for begin(condition)
-pushState:function pushState(condition) {
-        this.begin(condition);
-    },
-
-// return the number of states currently on the stack
-stateStackSize:function stateStackSize() {
-        return this.conditionStack.length;
-    },
-options: {"flex":true,"case-insensitive":true},
-performAction: function anonymous(yy,yy_,$avoiding_name_collisions,YY_START) {
-var YYSTATE=YY_START;
-switch($avoiding_name_collisions) {
-case 0:/* ignore */
-break;
-case 1:return 12
-break;
-case 2:return 15
-break;
-case 3:return 24
-break;
-case 4:return 287
-break;
-case 5:return 288
-break;
-case 6:return 29
-break;
-case 7:return 31
-break;
-case 8:return 32
-break;
-case 9:return 290
-break;
-case 10:return 34
-break;
-case 11:return 38
-break;
-case 12:return 39
-break;
-case 13:return 41
-break;
-case 14:return 43
-break;
-case 15:return 48
-break;
-case 16:return 51
-break;
-case 17:return 293
-break;
-case 18:return 61
-break;
-case 19:return 62
-break;
-case 20:return 68
-break;
-case 21:return 71
-break;
-case 22:return 74
-break;
-case 23:return 76
-break;
-case 24:return 79
-break;
-case 25:return 81
-break;
-case 26:return 83
-break;
-case 27:return 194
-break;
-case 28:return 97
-break;
-case 29:return 294
-break;
-case 30:return 130
-break;
-case 31:return 295
-break;
-case 32:return 296
-break;
-case 33:return 107
-break;
-case 34:return 297
-break;
-case 35:return 106
-break;
-case 36:return 298
-break;
-case 37:return 299
-break;
-case 38:return 110
-break;
-case 39:return 112
-break;
-case 40:return 113
-break;
-case 41:return 128
-break;
-case 42:return 122
-break;
-case 43:return 123
-break;
-case 44:return 125
-break;
-case 45:return 131
-break;
-case 46:return 109
-break;
-case 47:return 300
-break;
-case 48:return 301
-break;
-case 49:return 157
-break;
-case 50:return 160
-break;
-case 51:return 164
-break;
-case 52:return 90
-break;
-case 53:return 158
-break;
-case 54:return 302
-break;
-case 55:return 163
-break;
-case 56:return 248
-break;
-case 57:return 183
-break;
-case 58:return 304
-break;
-case 59:return 305
-break;
-case 60:return 210
-break;
-case 61:return 307
-break;
-case 62:return 308
-break;
-case 63:return 205
-break;
-case 64:return 212
-break;
-case 65:return 213
-break;
-case 66:return 220
-break;
-case 67:return 224
-break;
-case 68:return 265
-break;
-case 69:return 309
-break;
-case 70:return 310
-break;
-case 71:return 311
-break;
-case 72:return 312
-break;
-case 73:return 313
-break;
-case 74:return 228
-break;
-case 75:return 314
-break;
-case 76:return 243
-break;
-case 77:return 251
-break;
-case 78:return 252
-break;
-case 79:return 245
-break;
-case 80:return 246
-break;
-case 81:return 247
-break;
-case 82:return 315
-break;
-case 83:return 316
-break;
-case 84:return 249
-break;
-case 85:return 318
-break;
-case 86:return 317
-break;
-case 87:return 319
-break;
-case 88:return 254
-break;
-case 89:return 255
-break;
-case 90:return 258
-break;
-case 91:return 260
-break;
-case 92:return 264
-break;
-case 93:return 268
-break;
-case 94:return 271
-break;
-case 95:return 272
-break;
-case 96:return 13
-break;
-case 97:return 16
-break;
-case 98:return 283
-break;
-case 99:return 215
-break;
-case 100:return 28
-break;
-case 101:return 267
-break;
-case 102:return 80
-break;
-case 103:return 269
-break;
-case 104:return 270
-break;
-case 105:return 277
-break;
-case 106:return 278
-break;
-case 107:return 279
-break;
-case 108:return 280
-break;
-case 109:return 281
-break;
-case 110:return 282
-break;
-case 111:return 'EXPONENT'
-break;
-case 112:return 273
-break;
-case 113:return 274
-break;
-case 114:return 275
-break;
-case 115:return 276
-break;
-case 116:return 165
-break;
-case 117:return 216
-break;
-case 118:return 6
-break;
-case 119:return 'INVALID'
-break;
-case 120:console.log(yy_.yytext);
-break;
-}
-},
-rules: [/^(?:\s+|#[^\n\r]*)/i,/^(?:BASE)/i,/^(?:PREFIX)/i,/^(?:SELECT)/i,/^(?:DISTINCT)/i,/^(?:REDUCED)/i,/^(?:\()/i,/^(?:AS)/i,/^(?:\))/i,/^(?:\*)/i,/^(?:CONSTRUCT)/i,/^(?:WHERE)/i,/^(?:\{)/i,/^(?:\})/i,/^(?:DESCRIBE)/i,/^(?:ASK)/i,/^(?:FROM)/i,/^(?:NAMED)/i,/^(?:GROUP)/i,/^(?:BY)/i,/^(?:HAVING)/i,/^(?:ORDER)/i,/^(?:ASC)/i,/^(?:DESC)/i,/^(?:LIMIT)/i,/^(?:OFFSET)/i,/^(?:VALUES)/i,/^(?:;)/i,/^(?:LOAD)/i,/^(?:SILENT)/i,/^(?:INTO)/i,/^(?:CLEAR)/i,/^(?:DROP)/i,/^(?:CREATE)/i,/^(?:ADD)/i,/^(?:TO)/i,/^(?:MOVE)/i,/^(?:COPY)/i,/^(?:INSERT\s+DATA)/i,/^(?:DELETE\s+DATA)/i,/^(?:DELETE\s+WHERE)/i,/^(?:WITH)/i,/^(?:DELETE)/i,/^(?:INSERT)/i,/^(?:USING)/i,/^(?:DEFAULT)/i,/^(?:GRAPH)/i,/^(?:ALL)/i,/^(?:\.)/i,/^(?:OPTIONAL)/i,/^(?:SERVICE)/i,/^(?:BIND)/i,/^(?:UNDEF)/i,/^(?:MINUS)/i,/^(?:UNION)/i,/^(?:FILTER)/i,/^(?:,)/i,/^(?:a)/i,/^(?:\|)/i,/^(?:\/)/i,/^(?:\^)/i,/^(?:\?)/i,/^(?:\+)/i,/^(?:!)/i,/^(?:\[)/i,/^(?:\])/i,/^(?:\|\|)/i,/^(?:&&)/i,/^(?:=)/i,/^(?:!=)/i,/^(?:<)/i,/^(?:>)/i,/^(?:<=)/i,/^(?:>=)/i,/^(?:IN)/i,/^(?:NOT)/i,/^(?:-)/i,/^(?:BOUND)/i,/^(?:BNODE)/i,/^(?:(RAND|NOW|UUID|STRUUID))/i,/^(?:(LANG|DATATYPE|IRI|URI|ABS|CEIL|FLOOR|ROUND|STRLEN|STR|UCASE|LCASE|ENCODE_FOR_URI|YEAR|MONTH|DAY|HOURS|MINUTES|SECONDS|TIMEZONE|TZ|MD5|SHA1|SHA256|SHA384|SHA512|isIRI|isURI|isBLANK|isLITERAL|isNUMERIC))/i,/^(?:(LANGMATCHES|CONTAINS|STRSTARTS|STRENDS|STRBEFORE|STRAFTER|STRLANG|STRDT|sameTerm))/i,/^(?:CONCAT)/i,/^(?:COALESCE)/i,/^(?:IF)/i,/^(?:REGEX)/i,/^(?:SUBSTR)/i,/^(?:REPLACE)/i,/^(?:EXISTS)/i,/^(?:COUNT)/i,/^(?:SUM|MIN|MAX|AVG|SAMPLE)/i,/^(?:GROUP_CONCAT)/i,/^(?:SEPARATOR)/i,/^(?:\^\^)/i,/^(?:true)/i,/^(?:false)/i,/^(?:(<([^<>\"\{\}\|\^`\\\u0000-\u0020])*>))/i,/^(?:((([A-Z]|[a-z]|[\u00C0-\u00D6]|[\u00D8-\u00F6]|[\u00F8-\u02FF]|[\u0370-\u037D]|[\u037F-\u1FFF]|[\u200C-\u200D]|[\u2070-\u218F]|[\u2C00-\u2FEF]|[\u3001-\uD7FF]|[\uF900-\uFDCF]|[\uFDF0-\uFFFD]|[\uD800-\uDB7F][\uDC00-\uDFFF])(((((?:([A-Z]|[a-z]|[\u00C0-\u00D6]|[\u00D8-\u00F6]|[\u00F8-\u02FF]|[\u0370-\u037D]|[\u037F-\u1FFF]|[\u200C-\u200D]|[\u2070-\u218F]|[\u2C00-\u2FEF]|[\u3001-\uD7FF]|[\uF900-\uFDCF]|[\uFDF0-\uFFFD]|[\uD800-\uDB7F][\uDC00-\uDFFF])|_))|-|[0-9]|\u00B7|[\u0300-\u036F]|[\u203F-\u2040])|\.)*(((?:([A-Z]|[a-z]|[\u00C0-\u00D6]|[\u00D8-\u00F6]|[\u00F8-\u02FF]|[\u0370-\u037D]|[\u037F-\u1FFF]|[\u200C-\u200D]|[\u2070-\u218F]|[\u2C00-\u2FEF]|[\u3001-\uD7FF]|[\uF900-\uFDCF]|[\uFDF0-\uFFFD]|[\uD800-\uDB7F][\uDC00-\uDFFF])|_))|-|[0-9]|\u00B7|[\u0300-\u036F]|[\u203F-\u2040]))?)?:))/i,/^(?:(((([A-Z]|[a-z]|[\u00C0-\u00D6]|[\u00D8-\u00F6]|[\u00F8-\u02FF]|[\u0370-\u037D]|[\u037F-\u1FFF]|[\u200C-\u200D]|[\u2070-\u218F]|[\u2C00-\u2FEF]|[\u3001-\uD7FF]|[\uF900-\uFDCF]|[\uFDF0-\uFFFD]|[\uD800-\uDB7F][\uDC00-\uDFFF])(((((?:([A-Z]|[a-z]|[\u00C0-\u00D6]|[\u00D8-\u00F6]|[\u00F8-\u02FF]|[\u0370-\u037D]|[\u037F-\u1FFF]|[\u200C-\u200D]|[\u2070-\u218F]|[\u2C00-\u2FEF]|[\u3001-\uD7FF]|[\uF900-\uFDCF]|[\uFDF0-\uFFFD]|[\uD800-\uDB7F][\uDC00-\uDFFF])|_))|-|[0-9]|\u00B7|[\u0300-\u036F]|[\u203F-\u2040])|\.)*(((?:([A-Z]|[a-z]|[\u00C0-\u00D6]|[\u00D8-\u00F6]|[\u00F8-\u02FF]|[\u0370-\u037D]|[\u037F-\u1FFF]|[\u200C-\u200D]|[\u2070-\u218F]|[\u2C00-\u2FEF]|[\u3001-\uD7FF]|[\uF900-\uFDCF]|[\uFDF0-\uFFFD]|[\uD800-\uDB7F][\uDC00-\uDFFF])|_))|-|[0-9]|\u00B7|[\u0300-\u036F]|[\u203F-\u2040]))?)?:)((((?:([A-Z]|[a-z]|[\u00C0-\u00D6]|[\u00D8-\u00F6]|[\u00F8-\u02FF]|[\u0370-\u037D]|[\u037F-\u1FFF]|[\u200C-\u200D]|[\u2070-\u218F]|[\u2C00-\u2FEF]|[\u3001-\uD7FF]|[\uF900-\uFDCF]|[\uFDF0-\uFFFD]|[\uD800-\uDB7F][\uDC00-\uDFFF])|_))|:|[0-9]|((%([0-9]|[A-F]|[a-f])([0-9]|[A-F]|[a-f]))|(\\(_|~|\.|-|!|\$|&|'|\(|\)|\*|\+|,|;|=|\/|\?|#|@|%))))(((((?:([A-Z]|[a-z]|[\u00C0-\u00D6]|[\u00D8-\u00F6]|[\u00F8-\u02FF]|[\u0370-\u037D]|[\u037F-\u1FFF]|[\u200C-\u200D]|[\u2070-\u218F]|[\u2C00-\u2FEF]|[\u3001-\uD7FF]|[\uF900-\uFDCF]|[\uFDF0-\uFFFD]|[\uD800-\uDB7F][\uDC00-\uDFFF])|_))|-|[0-9]|\u00B7|[\u0300-\u036F]|[\u203F-\u2040])|\.|:|((%([0-9]|[A-F]|[a-f])([0-9]|[A-F]|[a-f]))|(\\(_|~|\.|-|!|\$|&|'|\(|\)|\*|\+|,|;|=|\/|\?|#|@|%))))*((((?:([A-Z]|[a-z]|[\u00C0-\u00D6]|[\u00D8-\u00F6]|[\u00F8-\u02FF]|[\u0370-\u037D]|[\u037F-\u1FFF]|[\u200C-\u200D]|[\u2070-\u218F]|[\u2C00-\u2FEF]|[\u3001-\uD7FF]|[\uF900-\uFDCF]|[\uFDF0-\uFFFD]|[\uD800-\uDB7F][\uDC00-\uDFFF])|_))|-|[0-9]|\u00B7|[\u0300-\u036F]|[\u203F-\u2040])|:|((%([0-9]|[A-F]|[a-f])([0-9]|[A-F]|[a-f]))|(\\(_|~|\.|-|!|\$|&|'|\(|\)|\*|\+|,|;|=|\/|\?|#|@|%)))))?)))/i,/^(?:(_:(((?:([A-Z]|[a-z]|[\u00C0-\u00D6]|[\u00D8-\u00F6]|[\u00F8-\u02FF]|[\u0370-\u037D]|[\u037F-\u1FFF]|[\u200C-\u200D]|[\u2070-\u218F]|[\u2C00-\u2FEF]|[\u3001-\uD7FF]|[\uF900-\uFDCF]|[\uFDF0-\uFFFD]|[\uD800-\uDB7F][\uDC00-\uDFFF])|_))|[0-9])(((((?:([A-Z]|[a-z]|[\u00C0-\u00D6]|[\u00D8-\u00F6]|[\u00F8-\u02FF]|[\u0370-\u037D]|[\u037F-\u1FFF]|[\u200C-\u200D]|[\u2070-\u218F]|[\u2C00-\u2FEF]|[\u3001-\uD7FF]|[\uF900-\uFDCF]|[\uFDF0-\uFFFD]|[\uD800-\uDB7F][\uDC00-\uDFFF])|_))|-|[0-9]|\u00B7|[\u0300-\u036F]|[\u203F-\u2040])|\.)*(((?:([A-Z]|[a-z]|[\u00C0-\u00D6]|[\u00D8-\u00F6]|[\u00F8-\u02FF]|[\u0370-\u037D]|[\u037F-\u1FFF]|[\u200C-\u200D]|[\u2070-\u218F]|[\u2C00-\u2FEF]|[\u3001-\uD7FF]|[\uF900-\uFDCF]|[\uFDF0-\uFFFD]|[\uD800-\uDB7F][\uDC00-\uDFFF])|_))|-|[0-9]|\u00B7|[\u0300-\u036F]|[\u203F-\u2040]))?))/i,/^(?:([\?\$]((((?:([A-Z]|[a-z]|[\u00C0-\u00D6]|[\u00D8-\u00F6]|[\u00F8-\u02FF]|[\u0370-\u037D]|[\u037F-\u1FFF]|[\u200C-\u200D]|[\u2070-\u218F]|[\u2C00-\u2FEF]|[\u3001-\uD7FF]|[\uF900-\uFDCF]|[\uFDF0-\uFFFD]|[\uD800-\uDB7F][\uDC00-\uDFFF])|_))|[0-9])(((?:([A-Z]|[a-z]|[\u00C0-\u00D6]|[\u00D8-\u00F6]|[\u00F8-\u02FF]|[\u0370-\u037D]|[\u037F-\u1FFF]|[\u200C-\u200D]|[\u2070-\u218F]|[\u2C00-\u2FEF]|[\u3001-\uD7FF]|[\uF900-\uFDCF]|[\uFDF0-\uFFFD]|[\uD800-\uDB7F][\uDC00-\uDFFF])|_))|[0-9]|\u00B7|[\u0300-\u036F]|[\u203F-\u2040])*)))/i,/^(?:(@[a-zA-Z]+(-[a-zA-Z0-9]+)*))/i,/^(?:([0-9]+))/i,/^(?:([0-9]*\.[0-9]+))/i,/^(?:([0-9]+\.[0-9]*([eE][+-]?[0-9]+)|\.([0-9])+([eE][+-]?[0-9]+)|([0-9])+([eE][+-]?[0-9]+)))/i,/^(?:(\+([0-9]+)))/i,/^(?:(\+([0-9]*\.[0-9]+)))/i,/^(?:(\+([0-9]+\.[0-9]*([eE][+-]?[0-9]+)|\.([0-9])+([eE][+-]?[0-9]+)|([0-9])+([eE][+-]?[0-9]+))))/i,/^(?:(-([0-9]+)))/i,/^(?:(-([0-9]*\.[0-9]+)))/i,/^(?:(-([0-9]+\.[0-9]*([eE][+-]?[0-9]+)|\.([0-9])+([eE][+-]?[0-9]+)|([0-9])+([eE][+-]?[0-9]+))))/i,/^(?:([eE][+-]?[0-9]+))/i,/^(?:('(([^\u0027\u005C\u000A\u000D])|(\\[tbnrf\\\"']|\\u([0-9]|[A-F]|[a-f])([0-9]|[A-F]|[a-f])([0-9]|[A-F]|[a-f])([0-9]|[A-F]|[a-f])|\\U([0-9]|[A-F]|[a-f])([0-9]|[A-F]|[a-f])([0-9]|[A-F]|[a-f])([0-9]|[A-F]|[a-f])([0-9]|[A-F]|[a-f])([0-9]|[A-F]|[a-f])([0-9]|[A-F]|[a-f])([0-9]|[A-F]|[a-f])))*'))/i,/^(?:("(([^\u0022\u005C\u000A\u000D])|(\\[tbnrf\\\"']|\\u([0-9]|[A-F]|[a-f])([0-9]|[A-F]|[a-f])([0-9]|[A-F]|[a-f])([0-9]|[A-F]|[a-f])|\\U([0-9]|[A-F]|[a-f])([0-9]|[A-F]|[a-f])([0-9]|[A-F]|[a-f])([0-9]|[A-F]|[a-f])([0-9]|[A-F]|[a-f])([0-9]|[A-F]|[a-f])([0-9]|[A-F]|[a-f])([0-9]|[A-F]|[a-f])))*"))/i,/^(?:('''(('|'')?([^'\\]|(\\[tbnrf\\\"']|\\u([0-9]|[A-F]|[a-f])([0-9]|[A-F]|[a-f])([0-9]|[A-F]|[a-f])([0-9]|[A-F]|[a-f])|\\U([0-9]|[A-F]|[a-f])([0-9]|[A-F]|[a-f])([0-9]|[A-F]|[a-f])([0-9]|[A-F]|[a-f])([0-9]|[A-F]|[a-f])([0-9]|[A-F]|[a-f])([0-9]|[A-F]|[a-f])([0-9]|[A-F]|[a-f]))))*'''))/i,/^(?:("""(("|"")?([^\"\\]|(\\[tbnrf\\\"']|\\u([0-9]|[A-F]|[a-f])([0-9]|[A-F]|[a-f])([0-9]|[A-F]|[a-f])([0-9]|[A-F]|[a-f])|\\U([0-9]|[A-F]|[a-f])([0-9]|[A-F]|[a-f])([0-9]|[A-F]|[a-f])([0-9]|[A-F]|[a-f])([0-9]|[A-F]|[a-f])([0-9]|[A-F]|[a-f])([0-9]|[A-F]|[a-f])([0-9]|[A-F]|[a-f]))))*"""))/i,/^(?:(\((\u0020|\u0009|\u000D|\u000A)*\)))/i,/^(?:(\[(\u0020|\u0009|\u000D|\u000A)*\]))/i,/^(?:$)/i,/^(?:.)/i,/^(?:.)/i],
-conditions: {"INITIAL":{"rules":[0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94,95,96,97,98,99,100,101,102,103,104,105,106,107,108,109,110,111,112,113,114,115,116,117,118,119,120],"inclusive":true}}
-});
-return lexer;
-})();
-parser.lexer = lexer;
-function Parser () {
-  this.yy = {};
-}
-Parser.prototype = parser;parser.Parser = Parser;
-return new Parser;
-})();
-
-
-if (typeof require !== 'undefined' && typeof exports !== 'undefined') {
-exports.parser = SparqlParser;
-exports.Parser = SparqlParser.Parser;
-exports.parse = function () { return SparqlParser.parse.apply(SparqlParser, arguments); };
-exports.main = function commonjsMain(args) {
-    if (!args[1]) {
-        console.log('Usage: '+args[0]+' FILE');
-        process.exit(1);
-    }
-    var source = require('fs').readFileSync(require('path').normalize(args[1]), "utf8");
-    return exports.parser.parse(source);
-};
-if (typeof module !== 'undefined' && require.main === module) {
-  exports.main(process.argv.slice(1));
-}
-}
-}).call(this,require('_process'))
-},{"_process":3,"fs":3,"path":3}],84:[function(require,module,exports){
-var Parser = require('./lib/SparqlParser').Parser;
-var Generator = require('./lib/SparqlGenerator');
-
-module.exports = {
-  /**
-   * Creates a SPARQL parser with the given pre-defined prefixes and base IRI
-   * @param prefixes { [prefix: string]: string }
-   * @param baseIRI string
-   */
-  Parser: function (prefixes, baseIRI) {
-    // Create a copy of the prefixes
-    var prefixesCopy = {};
-    for (var prefix in prefixes || {})
-      prefixesCopy[prefix] = prefixes[prefix];
-
-    // Create a new parser with the given prefixes
-    // (Workaround for https://github.com/zaach/jison/issues/241)
-    var parser = new Parser();
-    parser.parse = function () {
-      Parser.base = baseIRI || '';
-      Parser.prefixes = Object.create(prefixesCopy);
-      return Parser.prototype.parse.apply(parser, arguments);
-    };
-    parser._resetBlanks = Parser._resetBlanks;
-    return parser;
-  },
-  Generator: Generator,
-};
-
-},{"./lib/SparqlGenerator":82,"./lib/SparqlParser":83}],85:[function(require,module,exports){
-(function (process){
-/* parser generated by jison 0.4.18 */
-/*
-  Returns a Parser object of the following structure:
-
-  Parser: {
-    yy: {}
-  }
-
-  Parser.prototype: {
-    yy: {},
-    trace: function(),
-    symbols_: {associative list: name ==> number},
-    terminals_: {associative list: number ==> name},
-    productions_: [...],
-    performAction: function anonymous(yytext, yyleng, yylineno, yy, yystate, $$, _$),
-    table: [...],
-    defaultActions: {...},
-    parseError: function(str, hash),
-    parse: function(input),
-
-    lexer: {
-        EOF: 1,
-        parseError: function(str, hash),
-        setInput: function(input),
-        input: function(),
-        unput: function(str),
-        more: function(),
-        less: function(n),
-        pastInput: function(),
-        upcomingInput: function(),
-        showPosition: function(),
-        test_match: function(regex_match_array, rule_index),
-        next: function(),
-        lex: function(),
-        begin: function(condition),
-        popState: function(),
-        _currentRules: function(),
-        topState: function(),
-        pushState: function(condition),
-
-        options: {
-            ranges: boolean           (optional: true ==> token location info will include a .range[] member)
-            flex: boolean             (optional: true ==> flex-like lexing behaviour where the rules are tested exhaustively to find the longest match)
-            backtrack_lexer: boolean  (optional: true ==> lexer regexes are tested in order and for each matching regex the action code is invoked; the lexer terminates the scan when a token is returned by the action code)
-        },
-
-        performAction: function(yy, yy_, $avoiding_name_collisions, YY_START),
-        rules: [...],
-        conditions: {associative list: name ==> set},
-    }
-  }
-
-
-  token location info (@$, _$, etc.): {
-    first_line: n,
-    last_line: n,
-    first_column: n,
-    last_column: n,
-    range: [start_number, end_number]       (where the numbers are indexes into the input string, regular zero-based)
-  }
-
-
-  the parseError function receives a 'hash' object with these members for lexer and parser errors: {
-    text:        (matched text)
-    token:       (the produced terminal token, if any)
-    line:        (yylineno)
-  }
-  while parser (grammar) errors will also provide these members, i.e. parser errors deliver a superset of attributes: {
-    loc:         (yylloc)
-    expected:    (string describing the set of expected tokens)
-    recoverable: (boolean: TRUE when the parser has a error recovery rule available for this particular error)
-  }
-*/
-var parser = (function(){
-var o=function(k,v,o,l){for(o=o||{},l=k.length;l--;o[k[l]]=v);return o},$V0=[6,15,63,66,73,80,87,92,135,145,148,150,151,160,161,166,331,332,333,334,335],$V1=[1,7],$V2=[6,15],$V3=[17,84,95],$V4=[1,19],$V5=[1,21],$V6=[1,20],$V7=[2,289],$V8=[1,28],$V9=[1,32],$Va=[6,17,20,30,32,33,37,39,42,44,55,64,67,78,84,95,108,111,118,119,120,122,128,144,147,160,161,163,168,195,196,198,201,202,203,221,242,247,249,250,252,253,257,261,265,280,282,283,284,285,286,288,289,291,292,295,297,303,304,305,306,307,308,309,310,311,312,313,314,315,316,317,326,337,340,341,343,344,345,346,347,348,349,350,351,352,353,354,355],$Vb=[6,15,20,47,50,108,111,118,120,122],$Vc=[2,291],$Vd=[1,37],$Ve=[1,39],$Vf=[64,67,317],$Vg=[20,30,33,37,39,42,55,64,67,119,282,283,284,286,288,289,291,292,295,297,303,304,305,306,307,308,309,310,311,312,313,314,315,316,317,350,351,352,353,354,355],$Vh=[32,55],$Vi=[6,15,47,50],$Vj=[1,46],$Vk=[6,15,20,47,50,111,118,120,122],$Vl=[30,55,64,67,119,203,249,252,253,303,304,305,306,307,308,309,310,311,312,313,314,315,316,317],$Vm=[2,375],$Vn=[2,367],$Vo=[1,75],$Vp=[1,74],$Vq=[1,72],$Vr=[1,73],$Vs=[1,66],$Vt=[1,71],$Vu=[1,87],$Vv=[1,77],$Vw=[1,78],$Vx=[1,79],$Vy=[1,80],$Vz=[1,82],$VA=[1,83],$VB=[2,467],$VC=[1,94],$VD=[1,95],$VE=[1,96],$VF=[1,88],$VG=[1,89],$VH=[1,92],$VI=[1,93],$VJ=[1,103],$VK=[1,104],$VL=[1,105],$VM=[1,106],$VN=[1,107],$VO=[1,108],$VP=[1,109],$VQ=[1,110],$VR=[1,111],$VS=[1,112],$VT=[1,102],$VU=[1,97],$VV=[1,98],$VW=[1,99],$VX=[1,100],$VY=[1,101],$VZ=[6,15,50],$V_=[6,15,20,47,50,118,120,122],$V$=[1,133],$V01=[1,134],$V11=[17,20,122,147,195,196,198,201,202],$V21=[30,55,326],$V31=[1,152],$V41=[1,146],$V51=[1,151],$V61=[1,153],$V71=[1,149],$V81=[1,150],$V91=[30,55,64,67,119,282,283,284,286,288,289,291,292,295,297,303,304,305,306,307,308,309,310,311,312,313,314,315,316,317,350,351,352,353,354,355],$Va1=[2,460],$Vb1=[1,167],$Vc1=[1,168],$Vd1=[1,169],$Ve1=[6,15,17,20,30,32,33,37,39,42,44,47,50,55,64,67,78,108,111,114,115,118,119,120,122,147,195,196,198,201,202,203,249,252,253,257,261,265,280,282,283,284,285,286,288,289,291,292,295,297,303,304,305,306,307,308,309,310,311,312,313,314,315,316,317,326,337,341,344,345,346,347,348,349,350,351,352,353,354,355],$Vf1=[1,176],$Vg1=[1,175],$Vh1=[1,182],$Vi1=[1,181],$Vj1=[17,20,30,32,33,37,39,42,44,55,64,67,78,119,122,128,147,195,196,198,201,202,203,221,242,247,249,250,252,253,257,261,265,280,282,283,284,285,286,288,289,291,292,295,297,303,304,305,306,307,308,309,310,311,312,313,314,315,316,317,326,337,341,344,345,346,347,348,349,350,351,352,353,354,355],$Vk1=[30,203],$Vl1=[17,20,30,32,33,37,39,42,44,55,64,67,78,119,122,128,147,195,196,198,201,202,203,221,242,247,249,250,252,253,257,261,265,280,282,283,284,285,286,288,289,291,292,295,297,301,302,303,304,305,306,307,308,309,310,311,312,313,314,315,316,317,326,337,341,344,345,346,347,348,349,350,351,352,353,354,355],$Vm1=[6,15,17,20,30,47,50,55,64,67,119,122,147,195,196,198,201,202,203,249,252,253,303,304,305,306,307,308,309,310,311,312,313,314,315,316,317,337],$Vn1=[6,15,20,47,50,122],$Vo1=[6,15,20,30,47,50,64,67,111,118,120,122,282,283,284,286,288,289,291,292,295,297,317,350,351,352,353,354,355],$Vp1=[6,15,17,20,30,47,50,55,64,67,111,114,115,118,119,120,122,147,195,196,198,201,202,203,249,252,253,282,283,284,286,288,289,291,292,295,297,303,304,305,306,307,308,309,310,311,312,313,314,315,316,317,337,350,351,352,353,354,355],$Vq1=[6,15,20,30,47,50,55,64,67,108,111,118,120,122,282,283,284,286,288,289,291,292,295,297,317,350,351,352,353,354,355],$Vr1=[6,15,17,20,30,32,33,37,39,42,44,47,50,55,64,67,78,108,111,114,115,118,119,120,122,147,195,196,198,201,202,203,249,252,253,257,261,265,280,282,283,284,285,286,288,289,291,292,295,297,303,304,305,306,307,308,309,310,311,312,313,314,315,316,317,326,337,338,341,344,345,346,347,348,349,350,351,352,353,354,355],$Vs1=[1,216],$Vt1=[1,215],$Vu1=[30,64,67,221,242,247,317],$Vv1=[2,417],$Vw1=[1,222],$Vx1=[17,20,122,147,195,196,198,201,202,337],$Vy1=[17,20,30,32,42,55,64,67,119,122,147,195,196,198,201,202,203,221,242,247,249,250,252,253,285,303,304,305,306,307,308,309,310,311,312,313,314,315,316,317,337],$Vz1=[20,30,33,37,39,55,64,67,119,282,283,284,286,288,289,291,292,295,297,303,304,305,306,307,308,309,310,311,312,313,314,315,316,317,350,351,352,353,354,355],$VA1=[32,42,78,257,285],$VB1=[32,42,78,257,261,285],$VC1=[32,42,44,78,257,261,265,280,285,311,312,313,314,315,316,344,345,346,347,348,349,350],$VD1=[32,42,44,78,257,261,265,280,285,311,312,313,314,315,316,326,341,344,345,346,347,348,349,350],$VE1=[1,255],$VF1=[30,55,64,67,119,242,280,282,283,284,286,288,289,291,292,295,297,303,304,305,306,307,308,309,310,311,312,313,314,315,316,317,344,350,351,352,353,354,355],$VG1=[30,55,64,67,119,242,280,282,283,284,286,288,289,291,292,295,297,303,304,305,306,307,308,309,310,311,312,313,314,315,316,317,326,344,350,351,352,353,354,355],$VH1=[20,64,67,119,128,303,304,305,306,307,308,309,310,311,312,313,314,315,316,317],$VI1=[1,288],$VJ1=[1,285],$VK1=[1,286],$VL1=[17,20,30,55,64,67,119,122,147,195,196,198,201,202,203,249,252,253,303,304,305,306,307,308,309,310,311,312,313,314,315,316,317],$VM1=[55,64,67,317],$VN1=[17,20,30,55,64,67,119,122,147,195,196,198,201,202,203,249,252,253,303,304,305,306,307,308,309,310,311,312,313,314,315,316,317,337],$VO1=[17,30,55,84,95],$VP1=[2,378],$VQ1=[30,32,55,64,67,119,203,249,252,253,303,304,305,306,307,308,309,310,311,312,313,314,315,316,317],$VR1=[17,20,30,32,42,55,64,67,119,122,147,195,196,198,201,202,203,249,250,252,253,285,303,304,305,306,307,308,309,310,311,312,313,314,315,316,317,337],$VS1=[20,30,37,39,42,55,64,67,119,282,283,284,286,288,289,291,292,295,297,303,304,305,306,307,308,309,310,311,312,313,314,315,316,317,350,351,352,353,354,355],$VT1=[1,333],$VU1=[1,334],$VV1=[20,320],$VW1=[1,354],$VX1=[6,15,20,30,47,50,55,64,67,114,115,118,120,122,282,283,284,286,288,289,291,292,295,297,317,350,351,352,353,354,355],$VY1=[2,373],$VZ1=[30,64,67,221,242,317],$V_1=[20,32,64,67,119,128,303,304,305,306,307,308,309,310,311,312,313,314,315,316,317],$V$1=[20,30],$V02=[17,20,42,122,147,195,196,198,201,202,250,337],$V12=[30,32,55,64,67,119,203,249,252,253,303,304,305,306,307,308,309,310,311,312,313,314,315,316,317,340,341],$V22=[30,32,55,64,67,119,203,249,252,253,303,304,305,306,307,308,309,310,311,312,313,314,315,316,317,326,340,341,343,344],$V32=[1,445],$V42=[1,446],$V52=[32,64,67,119,128,303,304,305,306,307,308,309,310,311,312,313,314,315,316,317],$V62=[32,64,67,221,247,317],$V72=[2,405],$V82=[1,472],$V92=[1,473],$Va2=[55,64,67,221,317],$Vb2=[17,20,30,32,42,55,64,67,119,122,147,195,196,198,201,202,203,221,249,250,252,253,285,303,304,305,306,307,308,309,310,311,312,313,314,315,316,317,337],$Vc2=[42,55,64,67,221,317];
-var parser = {trace: function trace() { },
-yy: {},
-symbols_: {"error":2,"WithPrologue":3,"Prologue":4,"WithPrologue_repetition_plus0":5,"EOF":6,"Template":7,"TemplateClause":8,"Template_repetition0":9,"WhereClause":10,"SolutionModifier":11,"Template_option0":12,"Template_option1":13,"Template_repetition1":14,"TEMPLATE":15,"TemplateClause_option0":16,"{":17,"TemplateClause_repetition0":18,"TemplateClause_option1":19,"}":20,"TExpression":21,"TPrimaryExpression":22,"Box":23,"Format":24,"Group":25,"NameArg":26,"iri":27,"NameArg_option0":28,"VarList":29,"(":30,"VarList_repetition0":31,")":32,"GROUP":33,"Group_option0":34,"Group_repetition0":35,"Group_option1":36,"BOX":37,"Box_repetition0":38,"FORMAT":39,"Format_repetition_plus0":40,"Separator":41,";":42,"SEPARATOR":43,"=":44,"String":45,"Pragma":46,"PRAGMA":47,"Pragma_repetition_plus0":48,"Function":49,"FUNCTION":50,"BrackettedExpression":51,"BuiltInCall":52,"FunctionCall":53,"Literal":54,"VAR":55,"QueryOrUpdate":56,"QueryOrUpdate_group0":57,"Prologue_repetition0":58,"Query":59,"Query_group0":60,"Query_option0":61,"BaseDecl":62,"BASE":63,"IRIREF":64,"PrefixDecl":65,"PREFIX":66,"PNAME_NS":67,"SelectQuery":68,"SelectClause":69,"SelectQuery_repetition0":70,"SubSelect":71,"SubSelect_option0":72,"SELECT":73,"SelectClause_option0":74,"SelectClause_group0":75,"SelectClauseItem":76,"Expression":77,"AS":78,"ConstructQuery":79,"CONSTRUCT":80,"ConstructTemplate":81,"ConstructQuery_repetition0":82,"ConstructQuery_repetition1":83,"WHERE":84,"ConstructQuery_option0":85,"DescribeQuery":86,"DESCRIBE":87,"DescribeQuery_group0":88,"DescribeQuery_repetition0":89,"DescribeQuery_option0":90,"AskQuery":91,"ASK":92,"AskQuery_repetition0":93,"DatasetClause":94,"FROM":95,"DatasetClause_option0":96,"WhereClause_option0":97,"GroupGraphPattern":98,"SolutionModifier_option0":99,"SolutionModifier_option1":100,"SolutionModifier_option2":101,"SolutionModifier_option3":102,"GroupClause":103,"BY":104,"GroupClause_repetition_plus0":105,"GroupCondition":106,"HavingClause":107,"HAVING":108,"HavingClause_repetition_plus0":109,"OrderClause":110,"ORDER":111,"OrderClause_repetition_plus0":112,"OrderCondition":113,"ASC":114,"DESC":115,"Constraint":116,"LimitOffsetClauses":117,"LIMIT":118,"INTEGER":119,"OFFSET":120,"ValuesClause":121,"VALUES":122,"InlineData":123,"InlineData_repetition0":124,"InlineData_repetition1":125,"InlineData_repetition2":126,"DataBlockValue":127,"UNDEF":128,"DataBlockValueList":129,"DataBlockValueList_repetition0":130,"Update":131,"Update_repetition0":132,"Update1":133,"Update_option0":134,"LOAD":135,"Update1_option0":136,"Update1_option1":137,"Update1_group0":138,"Update1_option2":139,"GraphRefAll":140,"Update1_group1":141,"Update1_option3":142,"GraphOrDefault":143,"TO":144,"CREATE":145,"Update1_option4":146,"GRAPH":147,"INSERTDATA":148,"QuadPattern":149,"DELETEDATA":150,"DELETEWHERE":151,"Update1_option5":152,"InsertClause":153,"Update1_option6":154,"Update1_repetition0":155,"Update1_option7":156,"DeleteClause":157,"Update1_option8":158,"Update1_repetition1":159,"DELETE":160,"INSERT":161,"UsingClause":162,"USING":163,"UsingClause_option0":164,"WithClause":165,"WITH":166,"IntoGraphClause":167,"INTO":168,"DEFAULT":169,"GraphOrDefault_option0":170,"GraphRefAll_group0":171,"QuadPattern_option0":172,"QuadPattern_repetition0":173,"QuadsNotTriples":174,"QuadsNotTriples_group0":175,"QuadsNotTriples_option0":176,"QuadsNotTriples_option1":177,"QuadsNotTriples_option2":178,"TriplesTemplate":179,"TriplesTemplate_repetition0":180,"TriplesSameSubject":181,"TriplesTemplate_option0":182,"GroupGraphPatternSub":183,"GroupGraphPatternSub_option0":184,"GroupGraphPatternSub_repetition0":185,"GroupGraphPatternSubTail":186,"GraphPatternNotTriples":187,"GroupGraphPatternSubTail_option0":188,"GroupGraphPatternSubTail_option1":189,"TriplesBlock":190,"TriplesBlock_repetition0":191,"TriplesSameSubjectPath":192,"TriplesBlock_option0":193,"GraphPatternNotTriples_repetition0":194,"OPTIONAL":195,"MINUS":196,"GraphPatternNotTriples_group0":197,"SERVICE":198,"GraphPatternNotTriples_option0":199,"GraphPatternNotTriples_group1":200,"FILTER":201,"BIND":202,"NIL":203,"FunctionCall_option0":204,"FunctionCall_repetition0":205,"ExpressionList":206,"ExpressionList_repetition0":207,"ConstructTemplate_option0":208,"ConstructTriples":209,"ConstructTriples_repetition0":210,"ConstructTriples_option0":211,"VarOrTerm":212,"PropertyListNotEmpty":213,"TriplesNode":214,"PropertyList":215,"PropertyList_option0":216,"PropertyListNotEmpty_repetition0":217,"VerbObjectList":218,"Verb":219,"ObjectList":220,"a":221,"ObjectList_repetition0":222,"GraphNode":223,"PropertyListPathNotEmpty":224,"TriplesNodePath":225,"TriplesSameSubjectPath_option0":226,"PropertyListPathNotEmpty_group0":227,"PropertyListPathNotEmpty_repetition0":228,"GraphNodePath":229,"PropertyListPathNotEmpty_repetition1":230,"PropertyListPathNotEmptyTail":231,"PropertyListPathNotEmptyTail_group0":232,"Path":233,"Path_repetition0":234,"PathSequence":235,"PathSequence_repetition0":236,"PathEltOrInverse":237,"PathElt":238,"PathPrimary":239,"PathElt_option0":240,"PathEltOrInverse_option0":241,"!":242,"PathNegatedPropertySet":243,"PathOneInPropertySet":244,"PathNegatedPropertySet_repetition0":245,"PathNegatedPropertySet_option0":246,"^":247,"TriplesNode_repetition_plus0":248,"[":249,"]":250,"TriplesNodePath_repetition_plus0":251,"BLANK_NODE_LABEL":252,"ANON":253,"ConditionalAndExpression":254,"Expression_repetition0":255,"ExpressionTail":256,"||":257,"RelationalExpression":258,"ConditionalAndExpression_repetition0":259,"ConditionalAndExpressionTail":260,"&&":261,"AdditiveExpression":262,"RelationalExpression_group0":263,"RelationalExpression_option0":264,"IN":265,"MultiplicativeExpression":266,"AdditiveExpression_repetition0":267,"AdditiveExpressionTail":268,"AdditiveExpressionTail_group0":269,"NumericLiteralPositive":270,"AdditiveExpressionTail_repetition0":271,"NumericLiteralNegative":272,"AdditiveExpressionTail_repetition1":273,"UnaryExpression":274,"MultiplicativeExpression_repetition0":275,"MultiplicativeExpressionTail":276,"MultiplicativeExpressionTail_group0":277,"UnaryExpression_option0":278,"PrimaryExpression":279,"-":280,"Aggregate":281,"FUNC_ARITY0":282,"FUNC_ARITY1":283,"FUNC_ARITY2":284,",":285,"IF":286,"BuiltInCall_group0":287,"BOUND":288,"BNODE":289,"BuiltInCall_option0":290,"EXISTS":291,"COUNT":292,"Aggregate_option0":293,"Aggregate_group0":294,"FUNC_AGGREGATE":295,"Aggregate_option1":296,"GROUP_CONCAT":297,"Aggregate_option2":298,"Aggregate_option3":299,"GroupConcatSeparator":300,"LANGTAG":301,"^^":302,"DECIMAL":303,"DOUBLE":304,"true":305,"false":306,"STRING_LITERAL1":307,"STRING_LITERAL2":308,"STRING_LITERAL_LONG1":309,"STRING_LITERAL_LONG2":310,"INTEGER_POSITIVE":311,"DECIMAL_POSITIVE":312,"DOUBLE_POSITIVE":313,"INTEGER_NEGATIVE":314,"DECIMAL_NEGATIVE":315,"DOUBLE_NEGATIVE":316,"PNAME_LN":317,"DISTINCT":318,"Group_repetition0_group0":319,"Triple":320,"QueryOrUpdate_group0_option0":321,"Prologue_repetition0_group0":322,"SelectClause_option0_group0":323,"REDUCED":324,"SelectClause_group0_repetition_plus0":325,"*":326,"DescribeQuery_group0_repetition_plus0_group0":327,"DescribeQuery_group0_repetition_plus0":328,"NAMED":329,"SILENT":330,"CLEAR":331,"DROP":332,"ADD":333,"MOVE":334,"COPY":335,"ALL":336,".":337,"UNION":338,"PropertyListNotEmpty_repetition0_repetition_plus0":339,"|":340,"/":341,"PathElt_option0_group0":342,"?":343,"+":344,"!=":345,"<":346,">":347,"<=":348,">=":349,"NOT":350,"CONCAT":351,"COALESCE":352,"SUBSTR":353,"REGEX":354,"REPLACE":355,"$accept":0,"$end":1},
-terminals_: {2:"error",6:"EOF",15:"TEMPLATE",17:"{",20:"}",30:"(",32:")",33:"GROUP",37:"BOX",39:"FORMAT",42:";",43:"SEPARATOR",44:"=",47:"PRAGMA",50:"FUNCTION",55:"VAR",63:"BASE",64:"IRIREF",66:"PREFIX",67:"PNAME_NS",73:"SELECT",78:"AS",80:"CONSTRUCT",84:"WHERE",87:"DESCRIBE",92:"ASK",95:"FROM",104:"BY",108:"HAVING",111:"ORDER",114:"ASC",115:"DESC",118:"LIMIT",119:"INTEGER",120:"OFFSET",122:"VALUES",128:"UNDEF",135:"LOAD",144:"TO",145:"CREATE",147:"GRAPH",148:"INSERTDATA",150:"DELETEDATA",151:"DELETEWHERE",160:"DELETE",161:"INSERT",163:"USING",166:"WITH",168:"INTO",169:"DEFAULT",195:"OPTIONAL",196:"MINUS",198:"SERVICE",201:"FILTER",202:"BIND",203:"NIL",221:"a",242:"!",247:"^",249:"[",250:"]",252:"BLANK_NODE_LABEL",253:"ANON",257:"||",261:"&&",265:"IN",280:"-",282:"FUNC_ARITY0",283:"FUNC_ARITY1",284:"FUNC_ARITY2",285:",",286:"IF",288:"BOUND",289:"BNODE",291:"EXISTS",292:"COUNT",295:"FUNC_AGGREGATE",297:"GROUP_CONCAT",301:"LANGTAG",302:"^^",303:"DECIMAL",304:"DOUBLE",305:"true",306:"false",307:"STRING_LITERAL1",308:"STRING_LITERAL2",309:"STRING_LITERAL_LONG1",310:"STRING_LITERAL_LONG2",311:"INTEGER_POSITIVE",312:"DECIMAL_POSITIVE",313:"DOUBLE_POSITIVE",314:"INTEGER_NEGATIVE",315:"DECIMAL_NEGATIVE",316:"DOUBLE_NEGATIVE",317:"PNAME_LN",318:"DISTINCT",320:"Triple",324:"REDUCED",326:"*",329:"NAMED",330:"SILENT",331:"CLEAR",332:"DROP",333:"ADD",334:"MOVE",335:"COPY",336:"ALL",337:".",338:"UNION",340:"|",341:"/",343:"?",344:"+",345:"!=",346:"<",347:">",348:"<=",349:">=",350:"NOT",351:"CONCAT",352:"COALESCE",353:"SUBSTR",354:"REGEX",355:"REPLACE"},
-productions_: [0,[3,3],[7,7],[8,6],[21,1],[21,1],[21,1],[21,1],[26,2],[29,3],[25,6],[23,4],[24,5],[41,4],[46,4],[49,6],[22,1],[22,1],[22,1],[22,1],[22,1],[56,3],[4,1],[59,2],[62,2],[65,3],[68,4],[71,4],[69,3],[76,1],[76,5],[79,5],[79,7],[86,5],[91,4],[94,3],[10,2],[11,4],[103,3],[106,1],[106,1],[106,3],[106,5],[106,1],[107,2],[110,3],[113,2],[113,2],[113,1],[113,1],[117,2],[117,2],[117,4],[117,4],[121,2],[123,4],[123,6],[127,1],[127,1],[127,1],[129,3],[131,3],[133,4],[133,3],[133,5],[133,4],[133,2],[133,2],[133,2],[133,6],[133,6],[157,2],[153,2],[162,3],[165,2],[167,3],[143,1],[143,2],[140,2],[140,1],[149,4],[174,7],[179,3],[98,3],[98,3],[183,2],[186,3],[190,3],[187,2],[187,2],[187,2],[187,3],[187,4],[187,2],[187,6],[187,1],[116,1],[116,1],[116,1],[53,2],[53,6],[206,1],[206,4],[81,3],[209,3],[181,2],[181,2],[215,1],[213,2],[218,2],[219,1],[219,1],[219,1],[220,2],[192,2],[192,2],[224,4],[231,1],[231,3],[233,2],[235,2],[238,2],[237,2],[239,1],[239,1],[239,2],[239,3],[243,1],[243,1],[243,4],[244,1],[244,1],[244,2],[244,2],[214,3],[214,3],[225,3],[225,3],[223,1],[223,1],[229,1],[229,1],[212,1],[212,1],[212,1],[212,1],[212,1],[212,1],[77,2],[256,2],[254,2],[260,2],[258,1],[258,3],[258,4],[262,2],[268,2],[268,2],[268,2],[266,2],[276,2],[274,2],[274,2],[274,2],[279,1],[279,1],[279,1],[279,1],[279,1],[279,1],[51,3],[52,1],[52,2],[52,4],[52,6],[52,8],[52,2],[52,4],[52,2],[52,4],[52,3],[281,5],[281,5],[281,6],[300,4],[54,1],[54,2],[54,3],[54,1],[54,1],[54,1],[54,1],[54,1],[54,1],[54,1],[45,1],[45,1],[45,1],[45,1],[270,1],[270,1],[270,1],[272,1],[272,1],[272,1],[27,1],[27,1],[27,1],[5,1],[5,2],[9,0],[9,2],[12,0],[12,1],[13,0],[13,1],[14,0],[14,2],[16,0],[16,1],[18,0],[18,2],[19,0],[19,1],[28,0],[28,1],[31,0],[31,2],[34,0],[34,1],[319,1],[319,1],[319,1],[35,0],[35,2],[36,0],[36,1],[38,0],[38,2],[40,1],[40,2],[48,1],[48,2],[321,0],[321,1],[57,1],[57,1],[322,1],[322,1],[58,0],[58,2],[60,1],[60,1],[60,1],[60,1],[61,0],[61,1],[70,0],[70,2],[72,0],[72,1],[323,1],[323,1],[74,0],[74,1],[325,1],[325,2],[75,1],[75,1],[82,0],[82,2],[83,0],[83,2],[85,0],[85,1],[327,1],[327,1],[328,1],[328,2],[88,1],[88,1],[89,0],[89,2],[90,0],[90,1],[93,0],[93,2],[96,0],[96,1],[97,0],[97,1],[99,0],[99,1],[100,0],[100,1],[101,0],[101,1],[102,0],[102,1],[105,1],[105,2],[109,1],[109,2],[112,1],[112,2],[124,0],[124,2],[125,0],[125,2],[126,0],[126,2],[130,0],[130,2],[132,0],[132,4],[134,0],[134,2],[136,0],[136,1],[137,0],[137,1],[138,1],[138,1],[139,0],[139,1],[141,1],[141,1],[141,1],[142,0],[142,1],[146,0],[146,1],[152,0],[152,1],[154,0],[154,1],[155,0],[155,2],[156,0],[156,1],[158,0],[158,1],[159,0],[159,2],[164,0],[164,1],[170,0],[170,1],[171,1],[171,1],[171,1],[172,0],[172,1],[173,0],[173,2],[175,1],[175,1],[176,0],[176,1],[177,0],[177,1],[178,0],[178,1],[180,0],[180,3],[182,0],[182,1],[184,0],[184,1],[185,0],[185,2],[188,0],[188,1],[189,0],[189,1],[191,0],[191,3],[193,0],[193,1],[194,0],[194,3],[197,1],[197,1],[199,0],[199,1],[200,1],[200,1],[204,0],[204,1],[205,0],[205,3],[207,0],[207,3],[208,0],[208,1],[210,0],[210,3],[211,0],[211,1],[216,0],[216,1],[339,1],[339,2],[217,0],[217,3],[222,0],[222,3],[226,0],[226,1],[227,1],[227,1],[228,0],[228,3],[230,0],[230,2],[232,1],[232,1],[234,0],[234,3],[236,0],[236,3],[342,1],[342,1],[342,1],[240,0],[240,1],[241,0],[241,1],[245,0],[245,3],[246,0],[246,1],[248,1],[248,2],[251,1],[251,2],[255,0],[255,2],[259,0],[259,2],[263,1],[263,1],[263,1],[263,1],[263,1],[263,1],[264,0],[264,1],[267,0],[267,2],[269,1],[269,1],[271,0],[271,2],[273,0],[273,2],[275,0],[275,2],[277,1],[277,1],[278,0],[278,1],[287,1],[287,1],[287,1],[287,1],[287,1],[290,0],[290,1],[293,0],[293,1],[294,1],[294,1],[296,0],[296,1],[298,0],[298,1],[299,0],[299,1]],
-performAction: function anonymous(yytext, yyleng, yylineno, yy, yystate /* action[1] */, $$ /* vstack */, _$ /* lstack */) {
-/* this == yyval */
-
-var $0 = $$.length - 1;
-switch (yystate) {
-case 1:
-
-      $$[$0-1] = $$[$0-1] || {};
-      if (Parser.base)
-        $$[$0-1].base = Parser.base;
-      Parser.base = base = basePath = baseRoot = '';
-      $$[$0-1].prefixes = Parser.prefixes || {};
-      Parser.prefixes = null;
-      return $$[$0-1];
-    
-break;
-case 2:
-this.$ = extend({ type: 'query' }, $$[$0-6], $$[$0-5], $$[$0-4], $$[$0-3], $$[$0-2], $$[$0-1], $$[$0]);
-break;
-case 3:
-this.$ = extend({ queryType: 'TEMPLATE', expression: { type: 'functionCall', function: 'http://ns.inria.fr/sparql-template/concat', args: $$[$0-2] } }, $$[$0-4], $$[$0-1]);
-break;
-case 8:
-this.$ = { name: $$[$0-1], parameters: $$[$0] || [] };
-break;
-case 9:
-this.$ = $$[$0-1].map(toVar);
-break;
-case 10: case 11: case 14: case 15:
-this.$ = {} /* TODO */;
-break;
-case 12:
-this.$ = { type: 'format', pattern: $$[$0-2], args: $$[$0-1].map(unprocessed) };
-break;
-case 13:
-this.$ = { separator: $$[$0] };
-break;
-case 20:
-this.$ = { type: 'functionCall', function: 'http://ns.inria.fr/sparql-template/process', args: [toVar($$[$0])] };
-break;
-case 21:
-
-      $$[$0-1] = $$[$0-1] || {};
-      if (Parser.base)
-        $$[$0-1].base = Parser.base;
-      Parser.base = base = basePath = baseRoot = '';
-      $$[$0-1].prefixes = Parser.prefixes;
-      Parser.prefixes = null;
-      return $$[$0-1];
-    
-break;
-case 23:
-this.$ = extend($$[$0-1], $$[$0], { type: 'query' });
-break;
-case 24:
-
-      Parser.base = resolveIRI($$[$0])
-      base = basePath = baseRoot = '';
-    
-break;
-case 25:
-
-      if (!Parser.prefixes) Parser.prefixes = {};
-      $$[$0-1] = $$[$0-1].substr(0, $$[$0-1].length - 1);
-      $$[$0] = resolveIRI($$[$0]);
-      Parser.prefixes[$$[$0-1]] = $$[$0];
-    
-break;
-case 26:
-this.$ = extend($$[$0-3], groupDatasets($$[$0-2]), $$[$0-1], $$[$0]);
-break;
-case 27:
-this.$ = extend($$[$0-3], $$[$0-2], $$[$0-1], $$[$0], { type: 'query' });
-break;
-case 28:
-this.$ = extend({ queryType: 'SELECT', variables: $$[$0] === '*' ? ['*'] : $$[$0] }, $$[$0-1] && ($$[$0-2] = lowercase($$[$0-1]), $$[$0-1] = {}, $$[$0-1][$$[$0-2]] = true, $$[$0-1]));
-break;
-case 29: case 110: case 142: case 169:
-this.$ = toVar($$[$0]);
-break;
-case 30: case 42:
-this.$ = expression($$[$0-3], { variable: toVar($$[$0-1]) });
-break;
-case 31:
-this.$ = extend({ queryType: 'CONSTRUCT', template: $$[$0-3] }, groupDatasets($$[$0-2]), $$[$0-1], $$[$0]);
-break;
-case 32:
-this.$ = extend({ queryType: 'CONSTRUCT', template: $$[$0-2] = ($$[$0-2] ? $$[$0-2].triples : []) }, groupDatasets($$[$0-5]), { where: [ { type: 'bgp', triples: appendAllTo([], $$[$0-2]) } ] }, $$[$0]);
-break;
-case 33:
-this.$ = extend({ queryType: 'DESCRIBE', variables: $$[$0-3] === '*' ? ['*'] : $$[$0-3].map(toVar) }, groupDatasets($$[$0-2]), $$[$0-1], $$[$0]);
-break;
-case 34:
-this.$ = extend({ queryType: 'ASK' }, groupDatasets($$[$0-2]), $$[$0-1], $$[$0]);
-break;
-case 35: case 73:
-this.$ = { iri: $$[$0], named: !!$$[$0-1] };
-break;
-case 36:
-this.$ = { where: $$[$0].patterns };
-break;
-case 37:
-this.$ = extend($$[$0-3], $$[$0-2], $$[$0-1], $$[$0]);
-break;
-case 38:
-this.$ = { group: $$[$0] };
-break;
-case 39: case 40: case 46: case 48:
-this.$ = expression($$[$0]);
-break;
-case 41:
-this.$ = expression($$[$0-1]);
-break;
-case 43: case 49:
-this.$ = expression(toVar($$[$0]));
-break;
-case 44:
-this.$ = { having: $$[$0] };
-break;
-case 45:
-this.$ = { order: $$[$0] };
-break;
-case 47:
-this.$ = expression($$[$0], { descending: true });
-break;
-case 50:
-this.$ = { limit:  toInt($$[$0]) };
-break;
-case 51:
-this.$ = { offset: toInt($$[$0]) };
-break;
-case 52:
-this.$ = { limit: toInt($$[$0-2]), offset: toInt($$[$0]) };
-break;
-case 53:
-this.$ = { limit: toInt($$[$0]), offset: toInt($$[$0-2]) };
-break;
-case 54:
-this.$ = { type: 'values', values: $$[$0] };
-break;
-case 55:
-
-      $$[$0-3] = toVar($$[$0-3]);
-      this.$ = $$[$0-1].map(function(v) { var o = {}; o[$$[$0-3]] = v; return o; })
-    
-break;
-case 56:
-
-      var length = $$[$0-4].length;
-      $$[$0-4] = $$[$0-4].map(toVar);
-      this.$ = $$[$0-1].map(function (values) {
-        if (values.length !== length)
-          throw Error('Inconsistent VALUES length');
-        var valuesObject = {};
-        for(var i = 0; i<length; i++)
-          valuesObject[$$[$0-4][i]] = values[i];
-        return valuesObject;
-      });
-    
-break;
-case 59:
-this.$ = undefined;
-break;
-case 60: case 103: case 126: case 170:
-this.$ = $$[$0-1];
-break;
-case 61:
-this.$ = { type: 'update', updates: appendTo($$[$0-2], $$[$0-1]) };
-break;
-case 62:
-this.$ = extend({ type: 'load', silent: !!$$[$0-2], source: $$[$0-1] }, $$[$0] && { destination: $$[$0] });
-break;
-case 63:
-this.$ = { type: lowercase($$[$0-2]), silent: !!$$[$0-1], graph: $$[$0] };
-break;
-case 64:
-this.$ = { type: lowercase($$[$0-4]), silent: !!$$[$0-3], source: $$[$0-2], destination: $$[$0] };
-break;
-case 65:
-this.$ = { type: 'create', silent: !!$$[$0-2], graph: $$[$0-1] };
-break;
-case 66:
-this.$ = { updateType: 'insert',      insert: $$[$0] };
-break;
-case 67:
-this.$ = { updateType: 'delete',      delete: $$[$0] };
-break;
-case 68:
-this.$ = { updateType: 'deletewhere', delete: $$[$0] };
-break;
-case 69:
-this.$ = extend({ updateType: 'insertdelete' }, $$[$0-5], { insert: $$[$0-4] || [] }, { delete: $$[$0-3] || [] }, groupDatasets($$[$0-2]), { where: $$[$0].patterns });
-break;
-case 70:
-this.$ = extend({ updateType: 'insertdelete' }, $$[$0-5], { delete: $$[$0-4] || [] }, { insert: $$[$0-3] || [] }, groupDatasets($$[$0-2]), { where: $$[$0].patterns });
-break;
-case 71: case 72: case 75: case 161:
-this.$ = $$[$0];
-break;
-case 74:
-this.$ = { graph: $$[$0] };
-break;
-case 76:
-this.$ = { type: 'graph', default: true };
-break;
-case 77: case 78:
-this.$ = { type: 'graph', name: $$[$0] };
-break;
-case 79:
- this.$ = {}; this.$[lowercase($$[$0])] = true; 
-break;
-case 80:
-this.$ = $$[$0-2] ? unionAll($$[$0-1], [$$[$0-2]]) : unionAll($$[$0-1]);
-break;
-case 81:
-
-      var graph = extend($$[$0-3] || { triples: [] }, { type: 'graph', name: toVar($$[$0-5]) });
-      this.$ = $$[$0] ? [graph, $$[$0]] : [graph];
-    
-break;
-case 82: case 87:
-this.$ = { type: 'bgp', triples: unionAll($$[$0-2], [$$[$0-1]]) };
-break;
-case 83:
-this.$ = { type: 'group', patterns: [ $$[$0-1] ] };
-break;
-case 84:
-this.$ = { type: 'group', patterns: $$[$0-1] };
-break;
-case 85:
-this.$ = $$[$0-1] ? unionAll([$$[$0-1]], $$[$0]) : unionAll($$[$0]);
-break;
-case 86:
-this.$ = $$[$0] ? [$$[$0-2], $$[$0]] : $$[$0-2];
-break;
-case 88:
-
-      if ($$[$0-1].length)
-        this.$ = { type: 'union', patterns: unionAll($$[$0-1].map(degroupSingle), [degroupSingle($$[$0])]) };
-      else
-        this.$ = $$[$0];
-    
-break;
-case 89:
-this.$ = extend($$[$0], { type: 'optional' });
-break;
-case 90:
-this.$ = extend($$[$0], { type: 'minus' });
-break;
-case 91:
-this.$ = extend($$[$0], { type: 'graph', name: toVar($$[$0-1]) });
-break;
-case 92:
-this.$ = extend($$[$0], { type: 'service', name: toVar($$[$0-1]), silent: !!$$[$0-2] });
-break;
-case 93:
-this.$ = { type: 'filter', expression: $$[$0] };
-break;
-case 94:
-this.$ = { type: 'bind', variable: toVar($$[$0-1]), expression: $$[$0-3] };
-break;
-case 99:
-this.$ = { type: 'functionCall', function: $$[$0-1], args: [] };
-break;
-case 100:
-this.$ = { type: 'functionCall', function: $$[$0-5], args: appendTo($$[$0-2], $$[$0-1]), distinct: !!$$[$0-3] };
-break;
-case 101: case 117: case 128: case 210: case 216: case 220: case 226: case 233: case 237: case 249: case 257: case 269: case 271: case 281: case 285: case 305: case 307: case 309: case 311: case 313: case 336: case 342: case 353: case 363: case 369: case 375: case 379: case 389: case 391: case 395: case 403: case 405: case 411: case 413: case 417: case 419: case 428: case 436: case 438: case 448: case 452: case 454: case 456:
-this.$ = [];
-break;
-case 102:
-this.$ = appendTo($$[$0-2], $$[$0-1]);
-break;
-case 104:
-this.$ = unionAll($$[$0-2], [$$[$0-1]]);
-break;
-case 105: case 114:
-this.$ = $$[$0].map(function (t) { return extend(triple($$[$0-1]), t); });
-break;
-case 106:
-this.$ = appendAllTo($$[$0].map(function (t) { return extend(triple($$[$0-1].entity), t); }), $$[$0-1].triples) /* the subject is a blank node, possibly with more triples */;
-break;
-case 108:
-this.$ = unionAll($$[$0-1], [$$[$0]]);
-break;
-case 109:
-this.$ = objectListToTriples($$[$0-1], $$[$0]);
-break;
-case 112: case 124: case 131:
-this.$ = RDF_TYPE;
-break;
-case 113:
-this.$ = appendTo($$[$0-1], $$[$0]);
-break;
-case 115:
-this.$ = !$$[$0] ? $$[$0-1].triples : appendAllTo($$[$0].map(function (t) { return extend(triple($$[$0-1].entity), t); }), $$[$0-1].triples) /* the subject is a blank node, possibly with more triples */;
-break;
-case 116:
-this.$ = objectListToTriples(toVar($$[$0-3]), appendTo($$[$0-2], $$[$0-1]), $$[$0]);
-break;
-case 118:
-this.$ = objectListToTriples(toVar($$[$0-1]), $$[$0]);
-break;
-case 119:
-this.$ = $$[$0-1].length ? path('|',appendTo($$[$0-1], $$[$0])) : $$[$0];
-break;
-case 120:
-this.$ = $$[$0-1].length ? path('/', appendTo($$[$0-1], $$[$0])) : $$[$0];
-break;
-case 121:
-this.$ = $$[$0] ? path($$[$0], [$$[$0-1]]) : $$[$0-1];
-break;
-case 122:
-this.$ = $$[$0-1] ? path($$[$0-1], [$$[$0]]) : $$[$0];;
-break;
-case 125: case 132:
-this.$ = path($$[$0-1], [$$[$0]]);
-break;
-case 129:
-this.$ = path('|', appendTo($$[$0-2], $$[$0-1]));
-break;
-case 133:
-this.$ = path($$[$0-1], [RDF_TYPE]);
-break;
-case 134: case 136:
-this.$ = createList($$[$0-1]);
-break;
-case 135: case 137:
-this.$ = createAnonymousObject($$[$0-1]);
-break;
-case 138:
-this.$ = { entity: $$[$0], triples: [] } /* for consistency with TriplesNode */;
-break;
-case 140:
-this.$ = { entity: $$[$0], triples: [] } /* for consistency with TriplesNodePath */;
-break;
-case 146:
-this.$ = blank();
-break;
-case 147:
-this.$ = RDF_NIL;
-break;
-case 148: case 150: case 155: case 159:
-this.$ = createOperationTree($$[$0-1], $$[$0]);
-break;
-case 149:
-this.$ = ['||', $$[$0]];
-break;
-case 151:
-this.$ = ['&&', $$[$0]];
-break;
-case 153:
-this.$ = operation($$[$0-1], [$$[$0-2], $$[$0]]);
-break;
-case 154:
-this.$ = operation($$[$0-2] ? 'notin' : 'in', [$$[$0-3], $$[$0]]);
-break;
-case 156: case 160:
-this.$ = [$$[$0-1], $$[$0]];
-break;
-case 157:
-this.$ = ['+', createOperationTree($$[$0-1], $$[$0])];
-break;
-case 158:
-this.$ = ['-', createOperationTree($$[$0-1].replace('-', ''), $$[$0])];
-break;
-case 162:
-this.$ = operation($$[$0-1], [$$[$0]]);
-break;
-case 163:
-this.$ = operation('UMINUS', [$$[$0]]);
-break;
-case 172:
-this.$ = operation(lowercase($$[$0-1]));
-break;
-case 173:
-this.$ = operation(lowercase($$[$0-3]), [$$[$0-1]]);
-break;
-case 174:
-this.$ = operation(lowercase($$[$0-5]), [$$[$0-3], $$[$0-1]]);
-break;
-case 175:
-this.$ = operation(lowercase($$[$0-7]), [$$[$0-5], $$[$0-3], $$[$0-1]]);
-break;
-case 176:
-this.$ = operation(lowercase($$[$0-1]), $$[$0]);
-break;
-case 177:
-this.$ = operation('bound', [toVar($$[$0-1])]);
-break;
-case 178:
-this.$ = operation($$[$0-1], []);
-break;
-case 179:
-this.$ = operation($$[$0-3], [$$[$0-1]]);
-break;
-case 180:
-this.$ = operation($$[$0-2] ? 'notexists' :'exists', [degroupSingle($$[$0])]);
-break;
-case 181: case 182:
-this.$ = expression($$[$0-1], { type: 'aggregate', aggregation: lowercase($$[$0-4]), distinct: !!$$[$0-2] });
-break;
-case 183:
-this.$ = expression($$[$0-2], { type: 'aggregate', aggregation: lowercase($$[$0-5]), distinct: !!$$[$0-3], separator: $$[$0-1] || ' ' });
-break;
-case 184:
-this.$ = $$[$0].substr(1, $$[$0].length - 2);
-break;
-case 186:
-this.$ = $$[$0-1] + lowercase($$[$0]);
-break;
-case 187:
-this.$ = $$[$0-2] + '^^' + $$[$0];
-break;
-case 188: case 202:
-this.$ = createLiteral($$[$0], XSD_INTEGER);
-break;
-case 189: case 203:
-this.$ = createLiteral($$[$0], XSD_DECIMAL);
-break;
-case 190: case 204:
-this.$ = createLiteral(lowercase($$[$0]), XSD_DOUBLE);
-break;
-case 193:
-this.$ = XSD_TRUE;
-break;
-case 194:
-this.$ = XSD_FALSE;
-break;
-case 195: case 196:
-this.$ = unescapeString($$[$0], 1);
-break;
-case 197: case 198:
-this.$ = unescapeString($$[$0], 3);
-break;
-case 199:
-this.$ = createLiteral($$[$0].substr(1), XSD_INTEGER);
-break;
-case 200:
-this.$ = createLiteral($$[$0].substr(1), XSD_DECIMAL);
-break;
-case 201:
-this.$ = createLiteral($$[$0].substr(1).toLowerCase(), XSD_DOUBLE);
-break;
-case 205:
-this.$ = resolveIRI($$[$0]);
-break;
-case 206:
-
-      var namePos = $$[$0].indexOf(':'),
-          prefix = $$[$0].substr(0, namePos),
-          expansion = Parser.prefixes[prefix];
-      if (!expansion) throw new Error('Unknown prefix: ' + prefix);
-      this.$ = resolveIRI(expansion + $$[$0].substr(namePos + 1));
-    
-break;
-case 207:
-
-      $$[$0] = $$[$0].substr(0, $$[$0].length - 1);
-      if (!($$[$0] in Parser.prefixes)) throw new Error('Unknown prefix: ' + $$[$0]);
-      this.$ = resolveIRI(Parser.prefixes[$$[$0]]);
-    
-break;
-case 208: case 239: case 241: case 265: case 277: case 299: case 301: case 303: case 401: case 432: case 434:
-this.$ = [$$[$0]];
-break;
-case 209: case 211: case 217: case 221: case 227: case 234: case 238: case 240: case 242: case 250: case 258: case 266: case 270: case 272: case 278: case 282: case 286: case 300: case 302: case 304: case 306: case 308: case 310: case 312: case 337: case 343: case 354: case 370: case 402: case 414: case 433: case 435: case 437: case 439: case 449: case 453: case 455: case 457:
-$$[$0-1].push($$[$0]);
-break;
-case 314:
-$$[$0-3].push($$[$0-2]);
-break;
-case 364: case 376: case 380: case 390: case 392: case 396: case 404: case 406: case 412: case 418: case 420: case 429:
-$$[$0-2].push($$[$0-1]);
-break;
-}
-},
-table: [o($V0,[2,249],{3:1,4:2,58:3}),{1:[3]},{5:4,7:5,8:6,15:$V1},o([6,15,73,80,87,92,135,145,148,150,151,160,161,166,331,332,333,334,335],[2,22],{322:8,62:9,65:10,63:[1,11],66:[1,12]}),{6:[1,13],7:14,8:6,15:$V1},o($V2,[2,208]),o($V3,[2,210],{9:15}),{16:16,17:[2,218],26:17,27:18,64:$V4,67:$V5,317:$V6},o($V0,[2,250]),o($V0,[2,247]),o($V0,[2,248]),{64:[1,22]},{67:[1,23]},{1:[2,1]},o($V2,[2,209]),{10:24,17:$V7,84:$V8,94:25,95:[1,27],97:26},{17:[1,29]},{17:[2,219]},{17:[2,224],28:30,29:31,30:$V9},o($Va,[2,205]),o($Va,[2,206]),o($Va,[2,207]),o($V0,[2,24]),{64:[1,33]},o($Vb,$Vc,{11:34,99:35,103:36,33:$Vd}),o($V3,[2,211]),{17:$Ve,98:38},o($Vf,[2,287],{96:40,329:[1,41]}),{17:[2,290]},o($Vg,[2,220],{18:42}),{17:[2,8]},{17:[2,225]},o($Vh,[2,226],{31:43}),o($V0,[2,25]),o($Vi,[2,212],{12:44,121:45,122:$Vj}),o($Vk,[2,293],{100:47,107:48,108:[1,49]}),o($Vb,[2,292]),{104:[1,50]},o([6,15,20,33,47,50,108,111,118,120,122],[2,36]),o($Vl,$Vm,{71:51,183:52,69:53,184:54,190:56,191:57,17:$Vn,20:$Vn,122:$Vn,147:$Vn,195:$Vn,196:$Vn,198:$Vn,201:$Vn,202:$Vn,73:[1,55]}),{27:58,64:$V4,67:$V5,317:$V6},o($Vf,[2,288]),{19:59,20:[2,222],21:60,22:62,23:63,24:64,25:65,27:85,30:$Vo,33:$Vp,37:$Vq,39:$Vr,41:61,42:$Vs,45:86,51:67,52:68,53:69,54:70,55:$Vt,64:$V4,67:$V5,119:$Vu,270:90,272:91,281:76,282:$Vv,283:$Vw,284:$Vx,286:$Vy,287:81,288:$Vz,289:$VA,290:84,291:$VB,292:$VC,295:$VD,297:$VE,303:$VF,304:$VG,305:$VH,306:$VI,307:$VJ,308:$VK,309:$VL,310:$VM,311:$VN,312:$VO,313:$VP,314:$VQ,315:$VR,316:$VS,317:$V6,350:$VT,351:$VU,352:$VV,353:$VW,354:$VX,355:$VY},{32:[1,113],55:[1,114]},o($VZ,[2,214],{13:115,46:116,47:[1,117]}),o($Vi,[2,213]),{30:[1,120],55:[1,119],123:118},o($V_,[2,295],{101:121,110:122,111:[1,123]}),o($Vk,[2,294]),{27:85,30:$Vo,51:126,52:127,53:128,64:$V4,67:$V5,109:124,116:125,281:76,282:$Vv,283:$Vw,284:$Vx,286:$Vy,287:81,288:$Vz,289:$VA,290:84,291:$VB,292:$VC,295:$VD,297:$VE,317:$V6,350:$VT,351:$VU,352:$VV,353:$VW,354:$VX,355:$VY},{27:85,30:$V$,52:131,53:132,55:$V01,64:$V4,67:$V5,105:129,106:130,281:76,282:$Vv,283:$Vw,284:$Vx,286:$Vy,287:81,288:$Vz,289:$VA,290:84,291:$VB,292:$VC,295:$VD,297:$VE,317:$V6,350:$VT,351:$VU,352:$VV,353:$VW,354:$VX,355:$VY},{20:[1,135]},{20:[1,136]},{10:137,17:$V7,84:$V8,97:26},o($V11,[2,369],{185:138}),o($V21,[2,263],{74:139,323:140,318:[1,141],324:[1,142]}),o($V11,[2,368]),{27:147,30:$V31,45:86,54:148,55:$V41,64:$V4,67:$V5,119:$Vu,192:143,203:$V51,212:144,225:145,249:$V61,252:$V71,253:$V81,270:90,272:91,303:$VF,304:$VG,305:$VH,306:$VI,307:$VJ,308:$VK,309:$VL,310:$VM,311:$VN,312:$VO,313:$VP,314:$VQ,315:$VR,316:$VS,317:$V6},o([6,17,33,84,95,108,111,118,120,122],[2,35]),{20:[1,154]},o($Vg,[2,221]),{20:[2,223]},o($Vg,[2,4]),o($Vg,[2,5]),o($Vg,[2,6]),o($Vg,[2,7]),{43:[1,155]},o($Vg,[2,16]),o($Vg,[2,17]),o($Vg,[2,18]),o($Vg,[2,19]),o($Vg,[2,20]),{17:[1,156]},{17:[1,157]},{17:[2,228],34:158,318:[1,159]},o($V91,$Va1,{77:160,254:161,258:162,262:163,266:164,274:165,278:166,242:$Vb1,280:$Vc1,344:$Vd1}),o($Ve1,[2,171]),{203:[1,170]},{30:[1,171]},{30:[1,172]},{30:[1,173]},{30:$Vf1,203:$Vg1,206:174},{30:[1,177]},{30:[1,179],203:[1,178]},{291:[1,180]},{30:$Vh1,203:$Vi1},o($Vj1,[2,185],{301:[1,183],302:[1,184]}),o($Vj1,[2,188]),o($Vj1,[2,189]),o($Vj1,[2,190]),o($Vj1,[2,191]),o($Vj1,[2,192]),o($Vj1,[2,193]),o($Vj1,[2,194]),{30:[1,185]},{30:[1,186]},{30:[1,187]},o($Vk1,[2,462]),o($Vk1,[2,463]),o($Vk1,[2,464]),o($Vk1,[2,465]),o($Vk1,[2,466]),{291:[2,468]},o($Vl1,[2,195]),o($Vl1,[2,196]),o($Vl1,[2,197]),o($Vl1,[2,198]),o($Vj1,[2,199]),o($Vj1,[2,200]),o($Vj1,[2,201]),o($Vj1,[2,202]),o($Vj1,[2,203]),o($Vj1,[2,204]),{17:[2,9]},o($Vh,[2,227]),o($VZ,[2,216],{14:188}),o($VZ,[2,215]),{17:[1,189]},o($Vm1,[2,54]),{17:[1,190]},o($Vh,[2,307],{125:191}),o($Vn1,[2,297],{102:192,117:193,118:[1,194],120:[1,195]}),o($V_,[2,296]),{104:[1,196]},o($Vk,[2,44],{281:76,287:81,290:84,27:85,51:126,52:127,53:128,116:197,30:$Vo,64:$V4,67:$V5,282:$Vv,283:$Vw,284:$Vx,286:$Vy,288:$Vz,289:$VA,291:$VB,292:$VC,295:$VD,297:$VE,317:$V6,350:$VT,351:$VU,352:$VV,353:$VW,354:$VX,355:$VY}),o($Vo1,[2,301]),o($Vp1,[2,96]),o($Vp1,[2,97]),o($Vp1,[2,98]),o($Vb,[2,38],{281:76,287:81,290:84,27:85,52:131,53:132,106:198,30:$V$,55:$V01,64:$V4,67:$V5,282:$Vv,283:$Vw,284:$Vx,286:$Vy,288:$Vz,289:$VA,291:$VB,292:$VC,295:$VD,297:$VE,317:$V6,350:$VT,351:$VU,352:$VV,353:$VW,354:$VX,355:$VY}),o($Vq1,[2,299]),o($Vq1,[2,39]),o($Vq1,[2,40]),o($V91,$Va1,{254:161,258:162,262:163,266:164,274:165,278:166,77:199,242:$Vb1,280:$Vc1,344:$Vd1}),o($Vq1,[2,43]),o($Vr1,[2,83]),o($Vr1,[2,84]),o($Vb,$Vc,{99:35,103:36,11:200,33:$Vd}),{17:[2,379],20:[2,85],121:210,122:$Vj,147:[1,206],186:201,187:202,194:203,195:[1,204],196:[1,205],198:[1,207],201:[1,208],202:[1,209]},{30:$Vs1,55:$Vt1,75:211,76:214,325:212,326:[1,213]},o($V21,[2,264]),o($V21,[2,261]),o($V21,[2,262]),o($V11,[2,377],{193:217,337:[1,218]}),o($Vu1,$Vv1,{224:219,227:220,233:221,234:223,55:$Vw1}),o($Vx1,[2,407],{227:220,233:221,234:223,226:224,224:225,30:$Vv1,64:$Vv1,67:$Vv1,221:$Vv1,242:$Vv1,247:$Vv1,317:$Vv1,55:$Vw1}),o($Vy1,[2,142]),o($Vy1,[2,143]),o($Vy1,[2,144]),o($Vy1,[2,145]),o($Vy1,[2,146]),o($Vy1,[2,147]),{27:147,30:$V31,45:86,54:148,55:$V41,64:$V4,67:$V5,119:$Vu,203:$V51,212:228,225:229,229:227,249:$V61,251:226,252:$V71,253:$V81,270:90,272:91,303:$VF,304:$VG,305:$VH,306:$VI,307:$VJ,308:$VK,309:$VL,310:$VM,311:$VN,312:$VO,313:$VP,314:$VQ,315:$VR,316:$VS,317:$V6},o($Vu1,$Vv1,{227:220,233:221,234:223,224:230,55:$Vw1}),o($V3,[2,3]),{44:[1,231]},o($Vz1,[2,237],{38:232}),{22:233,27:85,30:$Vo,45:86,51:67,52:68,53:69,54:70,55:$Vt,64:$V4,67:$V5,119:$Vu,270:90,272:91,281:76,282:$Vv,283:$Vw,284:$Vx,286:$Vy,287:81,288:$Vz,289:$VA,290:84,291:$VB,292:$VC,295:$VD,297:$VE,303:$VF,304:$VG,305:$VH,306:$VI,307:$VJ,308:$VK,309:$VL,310:$VM,311:$VN,312:$VO,313:$VP,314:$VQ,315:$VR,316:$VS,317:$V6,350:$VT,351:$VU,352:$VV,353:$VW,354:$VX,355:$VY},{17:[1,234]},{17:[2,229]},{32:[1,235]},o($VA1,[2,436],{255:236}),o($VB1,[2,438],{259:237}),o($VB1,[2,152],{263:238,264:239,44:[1,240],265:[2,446],345:[1,241],346:[1,242],347:[1,243],348:[1,244],349:[1,245],350:[1,246]}),o($VC1,[2,448],{267:247}),o($VD1,[2,456],{275:248}),{27:252,30:$Vo,45:86,51:250,52:251,53:253,54:254,55:$VE1,64:$V4,67:$V5,119:$Vu,270:90,272:91,279:249,281:76,282:$Vv,283:$Vw,284:$Vx,286:$Vy,287:81,288:$Vz,289:$VA,290:84,291:$VB,292:$VC,295:$VD,297:$VE,303:$VF,304:$VG,305:$VH,306:$VI,307:$VJ,308:$VK,309:$VL,310:$VM,311:$VN,312:$VO,313:$VP,314:$VQ,315:$VR,316:$VS,317:$V6,350:$VT,351:$VU,352:$VV,353:$VW,354:$VX,355:$VY},{27:252,30:$Vo,45:86,51:250,52:251,53:253,54:254,55:$VE1,64:$V4,67:$V5,119:$Vu,270:90,272:91,279:256,281:76,282:$Vv,283:$Vw,284:$Vx,286:$Vy,287:81,288:$Vz,289:$VA,290:84,291:$VB,292:$VC,295:$VD,297:$VE,303:$VF,304:$VG,305:$VH,306:$VI,307:$VJ,308:$VK,309:$VL,310:$VM,311:$VN,312:$VO,313:$VP,314:$VQ,315:$VR,316:$VS,317:$V6,350:$VT,351:$VU,352:$VV,353:$VW,354:$VX,355:$VY},{27:252,30:$Vo,45:86,51:250,52:251,53:253,54:254,55:$VE1,64:$V4,67:$V5,119:$Vu,270:90,272:91,279:257,281:76,282:$Vv,283:$Vw,284:$Vx,286:$Vy,287:81,288:$Vz,289:$VA,290:84,291:$VB,292:$VC,295:$VD,297:$VE,303:$VF,304:$VG,305:$VH,306:$VI,307:$VJ,308:$VK,309:$VL,310:$VM,311:$VN,312:$VO,313:$VP,314:$VQ,315:$VR,316:$VS,317:$V6,350:$VT,351:$VU,352:$VV,353:$VW,354:$VX,355:$VY},o($V91,[2,461]),o($Ve1,[2,172]),o($V91,$Va1,{254:161,258:162,262:163,266:164,274:165,278:166,77:258,242:$Vb1,280:$Vc1,344:$Vd1}),o($V91,$Va1,{254:161,258:162,262:163,266:164,274:165,278:166,77:259,242:$Vb1,280:$Vc1,344:$Vd1}),o($V91,$Va1,{254:161,258:162,262:163,266:164,274:165,278:166,77:260,242:$Vb1,280:$Vc1,344:$Vd1}),o($Ve1,[2,176]),o($Ve1,[2,101]),o($VF1,[2,391],{207:261}),{55:[1,262]},o($Ve1,[2,178]),o($V91,$Va1,{254:161,258:162,262:163,266:164,274:165,278:166,77:263,242:$Vb1,280:$Vc1,344:$Vd1}),{17:$Ve,98:264},o($Ve1,[2,99]),o($VF1,[2,387],{204:265,318:[1,266]}),o($Vj1,[2,186]),{27:267,64:$V4,67:$V5,317:$V6},o($VG1,[2,469],{293:268,318:[1,269]}),o($VF1,[2,473],{296:270,318:[1,271]}),o($VF1,[2,475],{298:272,318:[1,273]}),o($V2,[2,2],{49:274,50:[1,275]}),{48:276,320:[1,277]},o($VH1,[2,305],{124:278}),{32:[1,279],55:[1,280]},o($Vn1,[2,37]),o($Vn1,[2,298]),{119:[1,281]},{119:[1,282]},{27:85,30:$Vo,51:126,52:127,53:128,55:$VI1,64:$V4,67:$V5,112:283,113:284,114:$VJ1,115:$VK1,116:287,281:76,282:$Vv,283:$Vw,284:$Vx,286:$Vy,287:81,288:$Vz,289:$VA,290:84,291:$VB,292:$VC,295:$VD,297:$VE,317:$V6,350:$VT,351:$VU,352:$VV,353:$VW,354:$VX,355:$VY},o($Vo1,[2,302]),o($Vq1,[2,300]),{32:[1,289],78:[1,290]},{20:[2,259],72:291,121:292,122:$Vj},o($V11,[2,370]),o($VL1,[2,371],{188:293,337:[1,294]}),{17:$Ve,98:295},{17:$Ve,98:296},{17:$Ve,98:297},{27:300,55:[1,299],64:$V4,67:$V5,197:298,317:$V6},o($VM1,[2,383],{199:301,330:[1,302]}),{27:85,30:$Vo,51:126,52:127,53:128,64:$V4,67:$V5,116:303,281:76,282:$Vv,283:$Vw,284:$Vx,286:$Vy,287:81,288:$Vz,289:$VA,290:84,291:$VB,292:$VC,295:$VD,297:$VE,317:$V6,350:$VT,351:$VU,352:$VV,353:$VW,354:$VX,355:$VY},{30:[1,304]},o($VN1,[2,95]),o($V3,[2,28]),o($V3,[2,267],{76:305,30:$Vs1,55:$Vt1}),o($V3,[2,268]),o($VO1,[2,265]),o($VO1,[2,29]),o($V91,$Va1,{254:161,258:162,262:163,266:164,274:165,278:166,77:306,242:$Vb1,280:$Vc1,344:$Vd1}),o($V11,[2,87]),o($Vl,[2,376],{17:$VP1,20:$VP1,122:$VP1,147:$VP1,195:$VP1,196:$VP1,198:$VP1,201:$VP1,202:$VP1}),o($Vx1,[2,114]),o($Vl,[2,411],{228:307}),o($Vl,[2,409]),o($Vl,[2,410]),o($Vu1,[2,419],{235:308,236:309}),o($Vx1,[2,115]),o($Vx1,[2,408]),{27:147,30:$V31,32:[1,310],45:86,54:148,55:$V41,64:$V4,67:$V5,119:$Vu,203:$V51,212:228,225:229,229:311,249:$V61,252:$V71,253:$V81,270:90,272:91,303:$VF,304:$VG,305:$VH,306:$VI,307:$VJ,308:$VK,309:$VL,310:$VM,311:$VN,312:$VO,313:$VP,314:$VQ,315:$VR,316:$VS,317:$V6},o($VQ1,[2,434]),o($VR1,[2,140]),o($VR1,[2,141]),{250:[1,312]},{45:313,307:$VJ,308:$VK,309:$VL,310:$VM},{20:[1,314],21:315,22:62,23:63,24:64,25:65,27:85,30:$Vo,33:$Vp,37:$Vq,39:$Vr,45:86,51:67,52:68,53:69,54:70,55:$Vt,64:$V4,67:$V5,119:$Vu,270:90,272:91,281:76,282:$Vv,283:$Vw,284:$Vx,286:$Vy,287:81,288:$Vz,289:$VA,290:84,291:$VB,292:$VC,295:$VD,297:$VE,303:$VF,304:$VG,305:$VH,306:$VI,307:$VJ,308:$VK,309:$VL,310:$VM,311:$VN,312:$VO,313:$VP,314:$VQ,315:$VR,316:$VS,317:$V6,350:$VT,351:$VU,352:$VV,353:$VW,354:$VX,355:$VY},{21:317,22:62,23:63,24:64,25:65,27:85,30:$Vo,33:$Vp,37:$Vq,39:$Vr,40:316,45:86,51:67,52:68,53:69,54:70,55:$Vt,64:$V4,67:$V5,119:$Vu,270:90,272:91,281:76,282:$Vv,283:$Vw,284:$Vx,286:$Vy,287:81,288:$Vz,289:$VA,290:84,291:$VB,292:$VC,295:$VD,297:$VE,303:$VF,304:$VG,305:$VH,306:$VI,307:$VJ,308:$VK,309:$VL,310:$VM,311:$VN,312:$VO,313:$VP,314:$VQ,315:$VR,316:$VS,317:$V6,350:$VT,351:$VU,352:$VV,353:$VW,354:$VX,355:$VY},o($VS1,[2,233],{35:318}),o([6,15,17,20,30,32,33,37,39,42,44,47,50,55,64,67,78,111,114,115,118,119,120,122,147,195,196,198,201,202,203,249,252,253,257,261,265,280,282,283,284,285,286,288,289,291,292,295,297,303,304,305,306,307,308,309,310,311,312,313,314,315,316,317,326,337,341,344,345,346,347,348,349,350,351,352,353,354,355],[2,170]),o([32,42,78,285],[2,148],{256:319,257:[1,320]}),o($VA1,[2,150],{260:321,261:[1,322]}),o($V91,$Va1,{266:164,274:165,278:166,262:323,242:$Vb1,280:$Vc1,344:$Vd1}),{265:[1,324]},o($VF1,[2,440]),o($VF1,[2,441]),o($VF1,[2,442]),o($VF1,[2,443]),o($VF1,[2,444]),o($VF1,[2,445]),{265:[2,447]},o([32,42,44,78,257,261,265,285,345,346,347,348,349,350],[2,155],{268:325,269:326,270:327,272:328,280:[1,330],311:$VN,312:$VO,313:$VP,314:$VQ,315:$VR,316:$VS,344:[1,329]}),o($VC1,[2,159],{276:331,277:332,326:$VT1,341:$VU1}),o($VD1,[2,161]),o($VD1,[2,164]),o($VD1,[2,165]),o($VD1,[2,166],{30:$Vh1,203:$Vi1}),o($VD1,[2,167]),o($VD1,[2,168]),o($VD1,[2,169]),o($VD1,[2,162]),o($VD1,[2,163]),{32:[1,335]},{285:[1,336]},{285:[1,337]},o($V91,$Va1,{254:161,258:162,262:163,266:164,274:165,278:166,77:338,242:$Vb1,280:$Vc1,344:$Vd1}),{32:[1,339]},{32:[1,340]},o($Ve1,[2,180]),o($VF1,[2,389],{205:341}),o($VF1,[2,388]),o($Vj1,[2,187]),o($V91,$Va1,{254:161,258:162,262:163,266:164,274:165,278:166,294:342,77:344,242:$Vb1,280:$Vc1,326:[1,343],344:$Vd1}),o($VG1,[2,470]),o($V91,$Va1,{254:161,258:162,262:163,266:164,274:165,278:166,77:345,242:$Vb1,280:$Vc1,344:$Vd1}),o($VF1,[2,474]),o($V91,$Va1,{254:161,258:162,262:163,266:164,274:165,278:166,77:346,242:$Vb1,280:$Vc1,344:$Vd1}),o($VF1,[2,476]),o($VZ,[2,217]),{27:347,64:$V4,67:$V5,317:$V6},{20:[1,348],320:[1,349]},o($VV1,[2,241]),{20:[1,350],27:352,45:86,54:353,64:$V4,67:$V5,119:$Vu,127:351,128:$VW1,270:90,272:91,303:$VF,304:$VG,305:$VH,306:$VI,307:$VJ,308:$VK,309:$VL,310:$VM,311:$VN,312:$VO,313:$VP,314:$VQ,315:$VR,316:$VS,317:$V6},{17:[1,355]},o($Vh,[2,308]),o($Vn1,[2,50],{120:[1,356]}),o($Vn1,[2,51],{118:[1,357]}),o($V_,[2,45],{281:76,287:81,290:84,27:85,51:126,52:127,53:128,116:287,113:358,30:$Vo,55:$VI1,64:$V4,67:$V5,114:$VJ1,115:$VK1,282:$Vv,283:$Vw,284:$Vx,286:$Vy,288:$Vz,289:$VA,291:$VB,292:$VC,295:$VD,297:$VE,317:$V6,350:$VT,351:$VU,352:$VV,353:$VW,354:$VX,355:$VY}),o($VX1,[2,303]),{30:$Vo,51:359},{30:$Vo,51:360},o($VX1,[2,48]),o($VX1,[2,49]),o($Vq1,[2,41]),{55:[1,361]},{20:[2,27]},{20:[2,260]},o($Vl,$Vm,{191:57,189:362,190:363,17:$VY1,20:$VY1,122:$VY1,147:$VY1,195:$VY1,196:$VY1,198:$VY1,201:$VY1,202:$VY1}),o($VL1,[2,372]),o($VN1,[2,88],{338:[1,364]}),o($VN1,[2,89]),o($VN1,[2,90]),{17:$Ve,98:365},{17:[2,381]},{17:[2,382]},{27:368,55:[1,367],64:$V4,67:$V5,200:366,317:$V6},o($VM1,[2,384]),o($VN1,[2,93]),o($V91,$Va1,{254:161,258:162,262:163,266:164,274:165,278:166,77:369,242:$Vb1,280:$Vc1,344:$Vd1}),o($VO1,[2,266]),{78:[1,370]},{27:147,30:$V31,45:86,54:148,55:$V41,64:$V4,67:$V5,119:$Vu,203:$V51,212:228,225:229,229:371,249:$V61,252:$V71,253:$V81,270:90,272:91,303:$VF,304:$VG,305:$VH,306:$VI,307:$VJ,308:$VK,309:$VL,310:$VM,311:$VN,312:$VO,313:$VP,314:$VQ,315:$VR,316:$VS,317:$V6},o($VQ1,[2,119],{340:[1,372]}),o($VZ1,[2,426],{237:373,241:374,247:[1,375]}),o($Vy1,[2,136]),o($VQ1,[2,435]),o($Vy1,[2,137]),{20:[2,13]},o($Vg,[2,11]),o($Vz1,[2,238]),{20:[1,376],21:377,22:62,23:63,24:64,25:65,27:85,30:$Vo,33:$Vp,37:$Vq,39:$Vr,45:86,51:67,52:68,53:69,54:70,55:$Vt,64:$V4,67:$V5,119:$Vu,270:90,272:91,281:76,282:$Vv,283:$Vw,284:$Vx,286:$Vy,287:81,288:$Vz,289:$VA,290:84,291:$VB,292:$VC,295:$VD,297:$VE,303:$VF,304:$VG,305:$VH,306:$VI,307:$VJ,308:$VK,309:$VL,310:$VM,311:$VN,312:$VO,313:$VP,314:$VQ,315:$VR,316:$VS,317:$V6,350:$VT,351:$VU,352:$VV,353:$VW,354:$VX,355:$VY},o($Vz1,[2,239]),{20:[2,235],22:381,23:382,24:383,27:85,30:$Vo,36:378,37:$Vq,39:$Vr,41:380,42:$Vs,45:86,51:67,52:68,53:69,54:70,55:$Vt,64:$V4,67:$V5,119:$Vu,270:90,272:91,281:76,282:$Vv,283:$Vw,284:$Vx,286:$Vy,287:81,288:$Vz,289:$VA,290:84,291:$VB,292:$VC,295:$VD,297:$VE,303:$VF,304:$VG,305:$VH,306:$VI,307:$VJ,308:$VK,309:$VL,310:$VM,311:$VN,312:$VO,313:$VP,314:$VQ,315:$VR,316:$VS,317:$V6,319:379,350:$VT,351:$VU,352:$VV,353:$VW,354:$VX,355:$VY},o($VA1,[2,437]),o($V91,$Va1,{258:162,262:163,266:164,274:165,278:166,254:384,242:$Vb1,280:$Vc1,344:$Vd1}),o($VB1,[2,439]),o($V91,$Va1,{262:163,266:164,274:165,278:166,258:385,242:$Vb1,280:$Vc1,344:$Vd1}),o($VB1,[2,153]),{30:$Vf1,203:$Vg1,206:386},o($VC1,[2,449]),o($V91,$Va1,{274:165,278:166,266:387,242:$Vb1,280:$Vc1,344:$Vd1}),o($VD1,[2,452],{271:388}),o($VD1,[2,454],{273:389}),o($VF1,[2,450]),o($VF1,[2,451]),o($VD1,[2,457]),o($V91,$Va1,{278:166,274:390,242:$Vb1,280:$Vc1,344:$Vd1}),o($VF1,[2,458]),o($VF1,[2,459]),o($Ve1,[2,173]),o($V91,$Va1,{254:161,258:162,262:163,266:164,274:165,278:166,77:391,242:$Vb1,280:$Vc1,344:$Vd1}),o($V91,$Va1,{254:161,258:162,262:163,266:164,274:165,278:166,77:392,242:$Vb1,280:$Vc1,344:$Vd1}),{32:[1,393],285:[1,394]},o($Ve1,[2,177]),o($Ve1,[2,179]),o($V91,$Va1,{254:161,258:162,262:163,266:164,274:165,278:166,77:395,242:$Vb1,280:$Vc1,344:$Vd1}),{32:[1,396]},{32:[2,471]},{32:[2,472]},{32:[1,397]},{32:[2,477],42:[1,400],299:398,300:399},{29:401,30:$V9},o($VZ,[2,14]),o($VV1,[2,242]),o($Vm1,[2,55]),o($VH1,[2,306]),o($V_1,[2,57]),o($V_1,[2,58]),o($V_1,[2,59]),o($V$1,[2,309],{126:402}),{119:[1,403]},{119:[1,404]},o($VX1,[2,304]),o($VX1,[2,46]),o($VX1,[2,47]),{32:[1,405]},o($V11,[2,86]),o($V11,[2,374]),{17:[2,380]},o($VN1,[2,91]),{17:$Ve,98:406},{17:[2,385]},{17:[2,386]},{78:[1,407]},{55:[1,408]},o($V02,[2,413],{230:409,285:[1,410]}),o($Vu1,[2,418]),o([30,32,55,64,67,119,203,249,252,253,303,304,305,306,307,308,309,310,311,312,313,314,315,316,317,340],[2,120],{341:[1,411]}),{27:414,30:[1,417],64:$V4,67:$V5,221:[1,415],238:412,239:413,242:[1,416],317:$V6},o($VZ1,[2,427]),o($Vg,[2,12]),o($Vz1,[2,240]),{20:[1,418]},o($VS1,[2,234]),{20:[2,236]},o($VS1,[2,230]),o($VS1,[2,231]),o($VS1,[2,232]),o($VA1,[2,149]),o($VB1,[2,151]),o($VB1,[2,154]),o($VC1,[2,156]),o($VC1,[2,157],{277:332,276:419,326:$VT1,341:$VU1}),o($VC1,[2,158],{277:332,276:420,326:$VT1,341:$VU1}),o($VD1,[2,160]),{32:[1,421]},{285:[1,422]},o($Ve1,[2,102]),o($VF1,[2,392]),{32:[1,423],285:[1,424]},o($Ve1,[2,181]),o($Ve1,[2,182]),{32:[1,425]},{32:[2,478]},{43:[1,426]},{17:[1,427]},{20:[1,428],30:[1,430],129:429},o($Vn1,[2,52]),o($Vn1,[2,53]),o($Vq1,[2,42]),o($VN1,[2,92]),{55:[1,431]},{32:[1,432]},o([17,20,122,147,195,196,198,201,202,250,337],[2,116],{231:433,42:[1,434]}),o($Vl,[2,412]),o($Vu1,[2,420]),o($V12,[2,122]),o($V12,[2,424],{240:435,342:436,326:[1,438],343:[1,437],344:[1,439]}),o($V22,[2,123]),o($V22,[2,124]),{27:444,30:[1,443],64:$V4,67:$V5,203:[1,442],221:$V32,243:440,244:441,247:$V42,317:$V6},o($Vu1,$Vv1,{234:223,233:447}),o($Vg,[2,10]),o($VD1,[2,453]),o($VD1,[2,455]),o($Ve1,[2,174]),o($V91,$Va1,{254:161,258:162,262:163,266:164,274:165,278:166,77:448,242:$Vb1,280:$Vc1,344:$Vd1}),o($Ve1,[2,100]),o($VF1,[2,390]),o($Ve1,[2,183]),{44:[1,449]},{22:450,27:85,30:$Vo,45:86,51:67,52:68,53:69,54:70,55:$Vt,64:$V4,67:$V5,119:$Vu,270:90,272:91,281:76,282:$Vv,283:$Vw,284:$Vx,286:$Vy,287:81,288:$Vz,289:$VA,290:84,291:$VB,292:$VC,295:$VD,297:$VE,303:$VF,304:$VG,305:$VH,306:$VI,307:$VJ,308:$VK,309:$VL,310:$VM,311:$VN,312:$VO,313:$VP,314:$VQ,315:$VR,316:$VS,317:$V6,350:$VT,351:$VU,352:$VV,353:$VW,354:$VX,355:$VY},o($Vm1,[2,56]),o($V$1,[2,310]),o($V52,[2,311],{130:451}),{32:[1,452]},o($VO1,[2,30]),o($V02,[2,414]),o($V02,[2,117],{234:223,232:453,233:454,30:$Vv1,64:$Vv1,67:$Vv1,221:$Vv1,242:$Vv1,247:$Vv1,317:$Vv1,55:[1,455]}),o($V12,[2,121]),o($V12,[2,425]),o($V12,[2,421]),o($V12,[2,422]),o($V12,[2,423]),o($V22,[2,125]),o($V22,[2,127]),o($V22,[2,128]),o($V62,[2,428],{245:456}),o($V22,[2,130]),o($V22,[2,131]),{27:457,64:$V4,67:$V5,221:[1,458],317:$V6},{32:[1,459]},{32:[1,460]},{45:461,307:$VJ,308:$VK,309:$VL,310:$VM},{20:[1,462]},{27:352,32:[1,463],45:86,54:353,64:$V4,67:$V5,119:$Vu,127:464,128:$VW1,270:90,272:91,303:$VF,304:$VG,305:$VH,306:$VI,307:$VJ,308:$VK,309:$VL,310:$VM,311:$VN,312:$VO,313:$VP,314:$VQ,315:$VR,316:$VS,317:$V6},o($VN1,[2,94]),o($Vl,$V72,{220:465,222:466}),o($Vl,[2,415]),o($Vl,[2,416]),{27:444,32:[2,430],64:$V4,67:$V5,221:$V32,244:468,246:467,247:$V42,317:$V6},o($V22,[2,132]),o($V22,[2,133]),o($V22,[2,126]),o($Ve1,[2,175]),{32:[2,184]},o($VZ,[2,15]),o($V$1,[2,60]),o($V52,[2,312]),o($V02,[2,118]),{27:147,30:$V82,45:86,54:148,55:$V41,64:$V4,67:$V5,119:$Vu,203:$V51,212:470,214:471,223:469,249:$V92,252:$V71,253:$V81,270:90,272:91,303:$VF,304:$VG,305:$VH,306:$VI,307:$VJ,308:$VK,309:$VL,310:$VM,311:$VN,312:$VO,313:$VP,314:$VQ,315:$VR,316:$VS,317:$V6},{32:[1,474]},{32:[2,431],340:[1,475]},o($V02,[2,113],{285:[1,476]}),o($VR1,[2,138]),o($VR1,[2,139]),{27:147,30:$V82,45:86,54:148,55:$V41,64:$V4,67:$V5,119:$Vu,203:$V51,212:470,214:471,223:478,248:477,249:$V92,252:$V71,253:$V81,270:90,272:91,303:$VF,304:$VG,305:$VH,306:$VI,307:$VJ,308:$VK,309:$VL,310:$VM,311:$VN,312:$VO,313:$VP,314:$VQ,315:$VR,316:$VS,317:$V6},o($Va2,[2,403],{213:479,217:480}),o($V22,[2,129]),o($V62,[2,429]),o($Vl,[2,406]),{27:147,30:$V82,32:[1,481],45:86,54:148,55:$V41,64:$V4,67:$V5,119:$Vu,203:$V51,212:470,214:471,223:482,249:$V92,252:$V71,253:$V81,270:90,272:91,303:$VF,304:$VG,305:$VH,306:$VI,307:$VJ,308:$VK,309:$VL,310:$VM,311:$VN,312:$VO,313:$VP,314:$VQ,315:$VR,316:$VS,317:$V6},o($VQ1,[2,432]),{250:[1,483]},{27:487,55:[1,486],64:$V4,67:$V5,218:484,219:485,221:[1,488],317:$V6},o($Vb2,[2,134]),o($VQ1,[2,433]),o($Vb2,[2,135]),o([20,147,250,337],[2,108],{339:489,42:[1,490]}),o($Vl,$V72,{222:466,220:491}),o($Vl,[2,110]),o($Vl,[2,111]),o($Vl,[2,112]),o($Va2,[2,404],{42:[1,492]}),o($Vc2,[2,401]),o([20,42,147,250,337],[2,109]),o($Vc2,[2,402])],
-defaultActions: {13:[2,1],17:[2,219],28:[2,290],30:[2,8],31:[2,225],61:[2,223],102:[2,468],113:[2,9],159:[2,229],246:[2,447],291:[2,27],292:[2,260],299:[2,381],300:[2,382],313:[2,13],343:[2,471],344:[2,472],364:[2,380],367:[2,385],368:[2,386],380:[2,236],399:[2,478],461:[2,184]},
-parseError: function parseError(str, hash) {
-    if (hash.recoverable) {
-        this.trace(str);
-    } else {
-        var error = new Error(str);
-        error.hash = hash;
-        throw error;
-    }
-},
-parse: function parse(input) {
-    var self = this, stack = [0], tstack = [], vstack = [null], lstack = [], table = this.table, yytext = '', yylineno = 0, yyleng = 0, recovering = 0, TERROR = 2, EOF = 1;
-    var args = lstack.slice.call(arguments, 1);
-    var lexer = Object.create(this.lexer);
-    var sharedState = { yy: {} };
-    for (var k in this.yy) {
-        if (Object.prototype.hasOwnProperty.call(this.yy, k)) {
-            sharedState.yy[k] = this.yy[k];
-        }
-    }
-    lexer.setInput(input, sharedState.yy);
-    sharedState.yy.lexer = lexer;
-    sharedState.yy.parser = this;
-    if (typeof lexer.yylloc == 'undefined') {
-        lexer.yylloc = {};
-    }
-    var yyloc = lexer.yylloc;
-    lstack.push(yyloc);
-    var ranges = lexer.options && lexer.options.ranges;
-    if (typeof sharedState.yy.parseError === 'function') {
-        this.parseError = sharedState.yy.parseError;
-    } else {
-        this.parseError = Object.getPrototypeOf(this).parseError;
-    }
-    function popStack(n) {
-        stack.length = stack.length - 2 * n;
-        vstack.length = vstack.length - n;
-        lstack.length = lstack.length - n;
-    }
-    _token_stack:
-        var lex = function () {
-            var token;
-            token = lexer.lex() || EOF;
-            if (typeof token !== 'number') {
-                token = self.symbols_[token] || token;
-            }
-            return token;
-        };
-    var symbol, preErrorSymbol, state, action, a, r, yyval = {}, p, len, newState, expected;
-    while (true) {
-        state = stack[stack.length - 1];
-        if (this.defaultActions[state]) {
-            action = this.defaultActions[state];
-        } else {
-            if (symbol === null || typeof symbol == 'undefined') {
-                symbol = lex();
-            }
-            action = table[state] && table[state][symbol];
-        }
-                    if (typeof action === 'undefined' || !action.length || !action[0]) {
-                var errStr = '';
-                expected = [];
-                for (p in table[state]) {
-                    if (this.terminals_[p] && p > TERROR) {
-                        expected.push('\'' + this.terminals_[p] + '\'');
-                    }
-                }
-                if (lexer.showPosition) {
-                    errStr = 'Parse error on line ' + (yylineno + 1) + ':\n' + lexer.showPosition() + '\nExpecting ' + expected.join(', ') + ', got \'' + (this.terminals_[symbol] || symbol) + '\'';
-                } else {
-                    errStr = 'Parse error on line ' + (yylineno + 1) + ': Unexpected ' + (symbol == EOF ? 'end of input' : '\'' + (this.terminals_[symbol] || symbol) + '\'');
-                }
-                this.parseError(errStr, {
-                    text: lexer.match,
-                    token: this.terminals_[symbol] || symbol,
-                    line: lexer.yylineno,
-                    loc: yyloc,
-                    expected: expected
-                });
-            }
-        if (action[0] instanceof Array && action.length > 1) {
-            throw new Error('Parse Error: multiple actions possible at state: ' + state + ', token: ' + symbol);
-        }
-        switch (action[0]) {
-        case 1:
-            stack.push(symbol);
-            vstack.push(lexer.yytext);
-            lstack.push(lexer.yylloc);
-            stack.push(action[1]);
-            symbol = null;
-            if (!preErrorSymbol) {
-                yyleng = lexer.yyleng;
-                yytext = lexer.yytext;
-                yylineno = lexer.yylineno;
-                yyloc = lexer.yylloc;
-                if (recovering > 0) {
-                    recovering--;
-                }
-            } else {
-                symbol = preErrorSymbol;
-                preErrorSymbol = null;
-            }
-            break;
-        case 2:
-            len = this.productions_[action[1]][1];
-            yyval.$ = vstack[vstack.length - len];
-            yyval._$ = {
-                first_line: lstack[lstack.length - (len || 1)].first_line,
-                last_line: lstack[lstack.length - 1].last_line,
-                first_column: lstack[lstack.length - (len || 1)].first_column,
-                last_column: lstack[lstack.length - 1].last_column
-            };
-            if (ranges) {
-                yyval._$.range = [
-                    lstack[lstack.length - (len || 1)].range[0],
-                    lstack[lstack.length - 1].range[1]
-                ];
-            }
-            r = this.performAction.apply(yyval, [
-                yytext,
-                yyleng,
-                yylineno,
-                sharedState.yy,
-                action[1],
-                vstack,
-                lstack
-            ].concat(args));
-            if (typeof r !== 'undefined') {
-                return r;
-            }
-            if (len) {
-                stack = stack.slice(0, -1 * len * 2);
-                vstack = vstack.slice(0, -1 * len);
-                lstack = lstack.slice(0, -1 * len);
-            }
-            stack.push(this.productions_[action[1]][0]);
-            vstack.push(yyval.$);
-            lstack.push(yyval._$);
-            newState = table[stack[stack.length - 2]][stack[stack.length - 1]];
-            stack.push(newState);
-            break;
-        case 3:
-            return true;
-        }
-    }
-    return true;
-}};
-
-  /*
-    STTL parser in the Jison parser generator format.
-	Derived from: https://github.com/RubenVerborgh/SPARQL.js
-  */
-
-  // Common namespaces and entities
-  var RDF = 'http://www.w3.org/1999/02/22-rdf-syntax-ns#',
-      RDF_TYPE  = RDF + 'type',
-      RDF_FIRST = RDF + 'first',
-      RDF_REST  = RDF + 'rest',
-      RDF_NIL   = RDF + 'nil',
-      XSD = 'http://www.w3.org/2001/XMLSchema#',
-      XSD_INTEGER  = XSD + 'integer',
-      XSD_DECIMAL  = XSD + 'decimal',
-      XSD_DOUBLE   = XSD + 'double',
-      XSD_BOOLEAN  = XSD + 'boolean',
-      XSD_TRUE =  '"true"^^'  + XSD_BOOLEAN,
-      XSD_FALSE = '"false"^^' + XSD_BOOLEAN;
-
-  var base = '', basePath = '', baseRoot = '';
-
-  // Returns a lowercase version of the given string
-  function lowercase(string) {
-    return string.toLowerCase();
-  }
-
-  // Appends the item to the array and returns the array
-  function appendTo(array, item) {
-    return array.push(item), array;
-  }
-
-  // Appends the items to the array and returns the array
-  function appendAllTo(array, items) {
-    return array.push.apply(array, items), array;
-  }
-
-  // Extends a base object with properties of other objects
-  function extend(base) {
-    if (!base) base = {};
-    for (var i = 1, l = arguments.length, arg; i < l && (arg = arguments[i] || {}); i++)
-      for (var name in arg)
-        base[name] = arg[name];
-    return base;
-  }
-
-  // Creates an array that contains all items of the given arrays
-  function unionAll() {
-    var union = [];
-    for (var i = 0, l = arguments.length; i < l; i++)
-      union = union.concat.apply(union, arguments[i]);
-    return union;
-  }
-
-  // Resolves an IRI against a base path
-  function resolveIRI(iri) {
-    // Strip off possible angular brackets
-    if (iri[0] === '<')
-      iri = iri.substring(1, iri.length - 1);
-    // Return absolute IRIs unmodified
-    if (/^[a-z]+:/.test(iri))
-      return iri;
-    if (!Parser.base)
-      throw new Error('Cannot resolve relative IRI ' + iri + ' because no base IRI was set.');
-    if (!base) {
-      base = Parser.base;
-      basePath = base.replace(/[^\/:]*$/, '');
-      baseRoot = base.match(/^(?:[a-z]+:\/*)?[^\/]*/)[0];
-    }
-    switch (iri[0]) {
-    // An empty relative IRI indicates the base IRI
-    case undefined:
-      return base;
-    // Resolve relative fragment IRIs against the base IRI
-    case '#':
-      return base + iri;
-    // Resolve relative query string IRIs by replacing the query string
-    case '?':
-      return base.replace(/(?:\?.*)?$/, iri);
-    // Resolve root relative IRIs at the root of the base IRI
-    case '/':
-      return baseRoot + iri;
-    // Resolve all other IRIs at the base IRI's path
-    default:
-      return basePath + iri;
-    }
-  }
-
-  // If the item is a variable, ensures it starts with a question mark
-  function toVar(variable) {
-    if (variable) {
-      var first = variable[0];
-      if (first === '?') return variable;
-      if (first === '$') return '?' + variable.substr(1);
-    }
-    return variable;
-  }
-
-  // Creates an operation with the given name and arguments
-  function operation(operatorName, args) {
-    return { type: 'operation', operator: operatorName, args: args || [] };
-  }
-
-  // Creates an expression with the given type and attributes
-  function expression(expr, attr) {
-    var expression = { expression: expr };
-    if (attr)
-      for (var a in attr)
-        expression[a] = attr[a];
-    return expression;
-  }
-
-  // Creates a path with the given type and items
-  function path(type, items) {
-    return { type: 'path', pathType: type, items: items };
-  }
-
-  // Transforms a list of operations types and arguments into a tree of operations
-  function createOperationTree(initialExpression, operationList) {
-    for (var i = 0, l = operationList.length, item; i < l && (item = operationList[i]); i++)
-      initialExpression = operation(item[0], [initialExpression, item[1]]);
-    return initialExpression;
-  }
-
-  // Group datasets by default and named
-  function groupDatasets(fromClauses) {
-    var defaults = [], named = [], l = fromClauses.length, fromClause;
-    for (var i = 0; i < l && (fromClause = fromClauses[i]); i++)
-      (fromClause.named ? named : defaults).push(fromClause.iri);
-    return l ? { from: { default: defaults, named: named } } : null;
-  }
-
-  // Converts the number to a string
-  function toInt(string) {
-    return parseInt(string, 10);
-  }
-
-  // Transforms a possibly single group into its patterns
-  function degroupSingle(group) {
-    return group.type === 'group' && group.patterns.length === 1 ? group.patterns[0] : group;
-  }
-
-  // Creates a literal with the given value and type
-  function createLiteral(value, type) {
-    return '"' + value + '"^^' + type;
-  }
-
-  // Creates a triple with the given subject, predicate, and object
-  function triple(subject, predicate, object) {
-    var triple = {};
-    if (subject   != null) triple.subject   = subject;
-    if (predicate != null) triple.predicate = predicate;
-    if (object    != null) triple.object    = object;
-    return triple;
-  }
-
-  // Creates a new blank node identifier
-  function blank() {
-    return '_:b' + blankId++;
-  };
-  var blankId = 0;
-  Parser._resetBlanks = function () { blankId = 0; }
-
-  // Regular expression and replacement strings to escape strings
-  var escapeSequence = /\\u([a-fA-F0-9]{4})|\\U([a-fA-F0-9]{8})|\\(.)/g,
-      escapeReplacements = { '\\': '\\', "'": "'", '"': '"',
-                             't': '\t', 'b': '\b', 'n': '\n', 'r': '\r', 'f': '\f' },
-      fromCharCode = String.fromCharCode;
-
-  // Translates escape codes in the string into their textual equivalent
-  function unescapeString(string, trimLength) {
-    string = string.substring(trimLength, string.length - trimLength);
-    try {
-      string = string.replace(escapeSequence, function (sequence, unicode4, unicode8, escapedChar) {
-        var charCode;
-        if (unicode4) {
-          charCode = parseInt(unicode4, 16);
-          if (isNaN(charCode)) throw new Error(); // can never happen (regex), but helps performance
-          return fromCharCode(charCode);
-        }
-        else if (unicode8) {
-          charCode = parseInt(unicode8, 16);
-          if (isNaN(charCode)) throw new Error(); // can never happen (regex), but helps performance
-          if (charCode < 0xFFFF) return fromCharCode(charCode);
-          return fromCharCode(0xD800 + ((charCode -= 0x10000) >> 10), 0xDC00 + (charCode & 0x3FF));
-        }
-        else {
-          var replacement = escapeReplacements[escapedChar];
-          if (!replacement) throw new Error();
-          return replacement;
-        }
-      });
-    }
-    catch (error) { return ''; }
-    return '"' + string + '"';
-  }
-
-  // Creates a list, collecting its (possibly blank) items and triples associated with those items
-  function createList(objects) {
-    var list = blank(), head = list, listItems = [], listTriples, triples = [];
-    objects.forEach(function (o) { listItems.push(o.entity); appendAllTo(triples, o.triples); });
-
-    // Build an RDF list out of the items
-    for (var i = 0, j = 0, l = listItems.length, listTriples = Array(l * 2); i < l;)
-      listTriples[j++] = triple(head, RDF_FIRST, listItems[i]),
-      listTriples[j++] = triple(head, RDF_REST,  head = ++i < l ? blank() : RDF_NIL);
-
-    // Return the list's identifier, its triples, and the triples associated with its items
-    return { entity: list, triples: appendAllTo(listTriples, triples) };
-  }
-
-  // Creates a blank node identifier, collecting triples with that blank node as subject
-  function createAnonymousObject(propertyList) {
-    var entity = blank();
-    return {
-      entity: entity,
-      triples: propertyList.map(function (t) { return extend(triple(entity), t); })
-    };
-  }
-
-  // Collects all (possibly blank) objects, and triples that have them as subject
-  function objectListToTriples(predicate, objectList, otherTriples) {
-    var objects = [], triples = [];
-    objectList.forEach(function (l) {
-      objects.push(triple(null, predicate, l.entity));
-      appendAllTo(triples, l.triples);
-    });
-    return unionAll(objects, otherTriples || [], triples);
-  }
-
-  // Simplifies groups by merging adjacent BGPs
-  function mergeAdjacentBGPs(groups) {
-    var merged = [], currentBgp;
-    for (var i = 0, group; group = groups[i]; i++) {
-      switch (group.type) {
-        // Add a BGP's triples to the current BGP
-        case 'bgp':
-          if (group.triples.length) {
-            if (!currentBgp)
-              appendTo(merged, currentBgp = group);
-            else
-              appendAllTo(currentBgp.triples, group.triples);
-          }
-          break;
-        // All other groups break up a BGP
-        default:
-          // Only add the group if its pattern is non-empty
-          if (!group.patterns || group.patterns.length > 0) {
-            appendTo(merged, group);
-            currentBgp = null;
-          }
-      }
-    }
-    return merged;
-  }
-  
-  // if st:process(exp), returns exp
-  function unprocessed(exp) {
-	  if (exp.type === 'functionCall'
-		&& exp.function === 'http://ns.inria.fr/sparql-template/process') {
-		  return exp.args[0];
-	  } else {
-		  return exp;
-	  }
-  }
-/* generated by jison-lex 0.3.4 */
-var lexer = (function(){
-var lexer = ({
-
-EOF:1,
-
-parseError:function parseError(str, hash) {
-        if (this.yy.parser) {
-            this.yy.parser.parseError(str, hash);
-        } else {
-            throw new Error(str);
-        }
-    },
-
-// resets the lexer, sets new input
-setInput:function (input, yy) {
-        this.yy = yy || this.yy || {};
-        this._input = input;
-        this._more = this._backtrack = this.done = false;
-        this.yylineno = this.yyleng = 0;
-        this.yytext = this.matched = this.match = '';
-        this.conditionStack = ['INITIAL'];
-        this.yylloc = {
-            first_line: 1,
-            first_column: 0,
-            last_line: 1,
-            last_column: 0
-        };
-        if (this.options.ranges) {
-            this.yylloc.range = [0,0];
-        }
-        this.offset = 0;
-        return this;
-    },
-
-// consumes and returns one char from the input
-input:function () {
-        var ch = this._input[0];
-        this.yytext += ch;
-        this.yyleng++;
-        this.offset++;
-        this.match += ch;
-        this.matched += ch;
-        var lines = ch.match(/(?:\r\n?|\n).*/g);
-        if (lines) {
-            this.yylineno++;
-            this.yylloc.last_line++;
-        } else {
-            this.yylloc.last_column++;
-        }
-        if (this.options.ranges) {
-            this.yylloc.range[1]++;
-        }
-
-        this._input = this._input.slice(1);
-        return ch;
-    },
-
-// unshifts one char (or a string) into the input
-unput:function (ch) {
-        var len = ch.length;
-        var lines = ch.split(/(?:\r\n?|\n)/g);
-
-        this._input = ch + this._input;
-        this.yytext = this.yytext.substr(0, this.yytext.length - len);
-        //this.yyleng -= len;
-        this.offset -= len;
-        var oldLines = this.match.split(/(?:\r\n?|\n)/g);
-        this.match = this.match.substr(0, this.match.length - 1);
-        this.matched = this.matched.substr(0, this.matched.length - 1);
-
-        if (lines.length - 1) {
-            this.yylineno -= lines.length - 1;
-        }
-        var r = this.yylloc.range;
-
-        this.yylloc = {
-            first_line: this.yylloc.first_line,
-            last_line: this.yylineno + 1,
-            first_column: this.yylloc.first_column,
-            last_column: lines ?
-                (lines.length === oldLines.length ? this.yylloc.first_column : 0)
-                 + oldLines[oldLines.length - lines.length].length - lines[0].length :
-              this.yylloc.first_column - len
-        };
-
-        if (this.options.ranges) {
-            this.yylloc.range = [r[0], r[0] + this.yyleng - len];
-        }
-        this.yyleng = this.yytext.length;
-        return this;
-    },
-
-// When called from action, caches matched text and appends it on next action
-more:function () {
-        this._more = true;
-        return this;
-    },
-
-// When called from action, signals the lexer that this rule fails to match the input, so the next matching rule (regex) should be tested instead.
-reject:function () {
-        if (this.options.backtrack_lexer) {
-            this._backtrack = true;
-        } else {
-            return this.parseError('Lexical error on line ' + (this.yylineno + 1) + '. You can only invoke reject() in the lexer when the lexer is of the backtracking persuasion (options.backtrack_lexer = true).\n' + this.showPosition(), {
-                text: "",
-                token: null,
-                line: this.yylineno
-            });
-
-        }
-        return this;
-    },
-
-// retain first n characters of the match
-less:function (n) {
-        this.unput(this.match.slice(n));
-    },
-
-// displays already matched input, i.e. for error messages
-pastInput:function () {
-        var past = this.matched.substr(0, this.matched.length - this.match.length);
-        return (past.length > 20 ? '...':'') + past.substr(-20).replace(/\n/g, "");
-    },
-
-// displays upcoming input, i.e. for error messages
-upcomingInput:function () {
-        var next = this.match;
-        if (next.length < 20) {
-            next += this._input.substr(0, 20-next.length);
-        }
-        return (next.substr(0,20) + (next.length > 20 ? '...' : '')).replace(/\n/g, "");
-    },
-
-// displays the character position where the lexing error occurred, i.e. for error messages
-showPosition:function () {
-        var pre = this.pastInput();
-        var c = new Array(pre.length + 1).join("-");
-        return pre + this.upcomingInput() + "\n" + c + "^";
-    },
-
-// test the lexed token: return FALSE when not a match, otherwise return token
-test_match:function (match, indexed_rule) {
-        var token,
-            lines,
-            backup;
-
-        if (this.options.backtrack_lexer) {
-            // save context
-            backup = {
-                yylineno: this.yylineno,
-                yylloc: {
-                    first_line: this.yylloc.first_line,
-                    last_line: this.last_line,
-                    first_column: this.yylloc.first_column,
-                    last_column: this.yylloc.last_column
-                },
-                yytext: this.yytext,
-                match: this.match,
-                matches: this.matches,
-                matched: this.matched,
-                yyleng: this.yyleng,
-                offset: this.offset,
-                _more: this._more,
-                _input: this._input,
-                yy: this.yy,
-                conditionStack: this.conditionStack.slice(0),
-                done: this.done
-            };
-            if (this.options.ranges) {
-                backup.yylloc.range = this.yylloc.range.slice(0);
-            }
-        }
-
-        lines = match[0].match(/(?:\r\n?|\n).*/g);
-        if (lines) {
-            this.yylineno += lines.length;
-        }
-        this.yylloc = {
-            first_line: this.yylloc.last_line,
-            last_line: this.yylineno + 1,
-            first_column: this.yylloc.last_column,
-            last_column: lines ?
-                         lines[lines.length - 1].length - lines[lines.length - 1].match(/\r?\n?/)[0].length :
-                         this.yylloc.last_column + match[0].length
-        };
-        this.yytext += match[0];
-        this.match += match[0];
-        this.matches = match;
-        this.yyleng = this.yytext.length;
-        if (this.options.ranges) {
-            this.yylloc.range = [this.offset, this.offset += this.yyleng];
-        }
-        this._more = false;
-        this._backtrack = false;
-        this._input = this._input.slice(match[0].length);
-        this.matched += match[0];
-        token = this.performAction.call(this, this.yy, this, indexed_rule, this.conditionStack[this.conditionStack.length - 1]);
-        if (this.done && this._input) {
-            this.done = false;
-        }
-        if (token) {
-            return token;
-        } else if (this._backtrack) {
-            // recover context
-            for (var k in backup) {
-                this[k] = backup[k];
-            }
-            return false; // rule action called reject() implying the next rule should be tested instead.
-        }
-        return false;
-    },
-
-// return next match in input
-next:function () {
-        if (this.done) {
-            return this.EOF;
-        }
-        if (!this._input) {
-            this.done = true;
-        }
-
-        var token,
-            match,
-            tempMatch,
-            index;
-        if (!this._more) {
-            this.yytext = '';
-            this.match = '';
-        }
-        var rules = this._currentRules();
-        for (var i = 0; i < rules.length; i++) {
-            tempMatch = this._input.match(this.rules[rules[i]]);
-            if (tempMatch && (!match || tempMatch[0].length > match[0].length)) {
-                match = tempMatch;
-                index = i;
-                if (this.options.backtrack_lexer) {
-                    token = this.test_match(tempMatch, rules[i]);
-                    if (token !== false) {
-                        return token;
-                    } else if (this._backtrack) {
-                        match = false;
-                        continue; // rule action called reject() implying a rule MISmatch.
-                    } else {
-                        // else: this is a lexer rule which consumes input without producing a token (e.g. whitespace)
-                        return false;
-                    }
-                } else if (!this.options.flex) {
-                    break;
-                }
-            }
-        }
-        if (match) {
-            token = this.test_match(match, rules[index]);
-            if (token !== false) {
-                return token;
-            }
-            // else: this is a lexer rule which consumes input without producing a token (e.g. whitespace)
-            return false;
-        }
-        if (this._input === "") {
-            return this.EOF;
-        } else {
-            return this.parseError('Lexical error on line ' + (this.yylineno + 1) + '. Unrecognized text.\n' + this.showPosition(), {
-                text: "",
-                token: null,
-                line: this.yylineno
-            });
-        }
-    },
-
-// return next match that has a token
-lex:function lex() {
-        var r = this.next();
-        if (r) {
-            return r;
-        } else {
-            return this.lex();
-        }
-    },
-
-// activates a new lexer condition state (pushes the new lexer condition state onto the condition stack)
-begin:function begin(condition) {
-        this.conditionStack.push(condition);
-    },
-
-// pop the previously active lexer condition state off the condition stack
-popState:function popState() {
-        var n = this.conditionStack.length - 1;
-        if (n > 0) {
-            return this.conditionStack.pop();
-        } else {
-            return this.conditionStack[0];
-        }
-    },
-
-// produce the lexer rule set which is active for the currently active lexer condition state
-_currentRules:function _currentRules() {
-        if (this.conditionStack.length && this.conditionStack[this.conditionStack.length - 1]) {
-            return this.conditions[this.conditionStack[this.conditionStack.length - 1]].rules;
-        } else {
-            return this.conditions["INITIAL"].rules;
-        }
-    },
-
-// return the currently active lexer condition state; when an index argument is provided it produces the N-th previous condition state, if available
-topState:function topState(n) {
-        n = this.conditionStack.length - 1 - Math.abs(n || 0);
-        if (n >= 0) {
-            return this.conditionStack[n];
-        } else {
-            return "INITIAL";
-        }
-    },
-
-// alias for begin(condition)
-pushState:function pushState(condition) {
-        this.begin(condition);
-    },
-
-// return the number of states currently on the stack
-stateStackSize:function stateStackSize() {
-        return this.conditionStack.length;
-    },
-options: {"flex":true,"case-insensitive":true},
-performAction: function anonymous(yy,yy_,$avoiding_name_collisions,YY_START) {
-var YYSTATE=YY_START;
-switch($avoiding_name_collisions) {
-case 0:/* ignore */
-break;
-case 1:return 15
-break;
-case 2:return 37
-break;
-case 3:return 39
-break;
-case 4:return 47
-break;
-case 5:return 50
-break;
-case 6:return 63
-break;
-case 7:return 66
-break;
-case 8:return 73
-break;
-case 9:return 318
-break;
-case 10:return 324
-break;
-case 11:return 30
-break;
-case 12:return 78
-break;
-case 13:return 32
-break;
-case 14:return 326
-break;
-case 15:return 80
-break;
-case 16:return 84
-break;
-case 17:return 17
-break;
-case 18:return 20
-break;
-case 19:return 87
-break;
-case 20:return 92
-break;
-case 21:return 95
-break;
-case 22:return 329
-break;
-case 23:return 33
-break;
-case 24:return 104
-break;
-case 25:return 108
-break;
-case 26:return 111
-break;
-case 27:return 114
-break;
-case 28:return 115
-break;
-case 29:return 118
-break;
-case 30:return 120
-break;
-case 31:return 122
-break;
-case 32:return 42
-break;
-case 33:return 135
-break;
-case 34:return 330
-break;
-case 35:return 168
-break;
-case 36:return 331
-break;
-case 37:return 332
-break;
-case 38:return 145
-break;
-case 39:return 333
-break;
-case 40:return 144
-break;
-case 41:return 334
-break;
-case 42:return 335
-break;
-case 43:return 148
-break;
-case 44:return 150
-break;
-case 45:return 151
-break;
-case 46:return 166
-break;
-case 47:return 160
-break;
-case 48:return 161
-break;
-case 49:return 163
-break;
-case 50:return 169
-break;
-case 51:return 147
-break;
-case 52:return 336
-break;
-case 53:return 337
-break;
-case 54:return 195
-break;
-case 55:return 198
-break;
-case 56:return 202
-break;
-case 57:return 128
-break;
-case 58:return 196
-break;
-case 59:return 338
-break;
-case 60:return 201
-break;
-case 61:return 285
-break;
-case 62:return 221
-break;
-case 63:return 340
-break;
-case 64:return 341
-break;
-case 65:return 247
-break;
-case 66:return 343
-break;
-case 67:return 344
-break;
-case 68:return 242
-break;
-case 69:return 249
-break;
-case 70:return 250
-break;
-case 71:return 257
-break;
-case 72:return 261
-break;
-case 73:return 44
-break;
-case 74:return 345
-break;
-case 75:return 346
-break;
-case 76:return 347
-break;
-case 77:return 348
-break;
-case 78:return 349
-break;
-case 79:return 265
-break;
-case 80:return 350
-break;
-case 81:return 280
-break;
-case 82:return 288
-break;
-case 83:return 289
-break;
-case 84:return 282
-break;
-case 85:return 283
-break;
-case 86:return 284
-break;
-case 87:return 351
-break;
-case 88:return 352
-break;
-case 89:return 286
-break;
-case 90:return 354
-break;
-case 91:return 353
-break;
-case 92:return 355
-break;
-case 93:return 291
-break;
-case 94:return 292
-break;
-case 95:return 295
-break;
-case 96:return 297
-break;
-case 97:return 43
-break;
-case 98:return 302
-break;
-case 99:return 305
-break;
-case 100:return 306
-break;
-case 101:return 64
-break;
-case 102:return 67
-break;
-case 103:return 317
-break;
-case 104:return 252
-break;
-case 105:return 55
-break;
-case 106:return 301
-break;
-case 107:return 119
-break;
-case 108:return 303
-break;
-case 109:return 304
-break;
-case 110:return 311
-break;
-case 111:return 312
-break;
-case 112:return 313
-break;
-case 113:return 314
-break;
-case 114:return 315
-break;
-case 115:return 316
-break;
-case 116:return 'EXPONENT'
-break;
-case 117:return 307
-break;
-case 118:return 308
-break;
-case 119:return 309
-break;
-case 120:return 310
-break;
-case 121:return 203
-break;
-case 122:return 253
-break;
-case 123:return 6
-break;
-case 124:return 'INVALID'
-break;
-case 125:console.log(yy_.yytext);
-break;
-}
-},
-rules: [/^(?:\s+|#[^\n\r]*)/i,/^(?:TEMPLATE)/i,/^(?:BOX)/i,/^(?:FORMAT)/i,/^(?:PRAGMA)/i,/^(?:FUNCTION)/i,/^(?:BASE)/i,/^(?:PREFIX)/i,/^(?:SELECT)/i,/^(?:DISTINCT)/i,/^(?:REDUCED)/i,/^(?:\()/i,/^(?:AS)/i,/^(?:\))/i,/^(?:\*)/i,/^(?:CONSTRUCT)/i,/^(?:WHERE)/i,/^(?:\{)/i,/^(?:\})/i,/^(?:DESCRIBE)/i,/^(?:ASK)/i,/^(?:FROM)/i,/^(?:NAMED)/i,/^(?:GROUP)/i,/^(?:BY)/i,/^(?:HAVING)/i,/^(?:ORDER)/i,/^(?:ASC)/i,/^(?:DESC)/i,/^(?:LIMIT)/i,/^(?:OFFSET)/i,/^(?:VALUES)/i,/^(?:;)/i,/^(?:LOAD)/i,/^(?:SILENT)/i,/^(?:INTO)/i,/^(?:CLEAR)/i,/^(?:DROP)/i,/^(?:CREATE)/i,/^(?:ADD)/i,/^(?:TO)/i,/^(?:MOVE)/i,/^(?:COPY)/i,/^(?:INSERT\s+DATA)/i,/^(?:DELETE\s+DATA)/i,/^(?:DELETE\s+WHERE)/i,/^(?:WITH)/i,/^(?:DELETE)/i,/^(?:INSERT)/i,/^(?:USING)/i,/^(?:DEFAULT)/i,/^(?:GRAPH)/i,/^(?:ALL)/i,/^(?:\.)/i,/^(?:OPTIONAL)/i,/^(?:SERVICE)/i,/^(?:BIND)/i,/^(?:UNDEF)/i,/^(?:MINUS)/i,/^(?:UNION)/i,/^(?:FILTER)/i,/^(?:,)/i,/^(?:a)/i,/^(?:\|)/i,/^(?:\/)/i,/^(?:\^)/i,/^(?:\?)/i,/^(?:\+)/i,/^(?:!)/i,/^(?:\[)/i,/^(?:\])/i,/^(?:\|\|)/i,/^(?:&&)/i,/^(?:=)/i,/^(?:!=)/i,/^(?:<)/i,/^(?:>)/i,/^(?:<=)/i,/^(?:>=)/i,/^(?:IN)/i,/^(?:NOT)/i,/^(?:-)/i,/^(?:BOUND)/i,/^(?:BNODE)/i,/^(?:(RAND|NOW|UUID|STRUUID))/i,/^(?:(LANG|DATATYPE|IRI|URI|ABS|CEIL|FLOOR|ROUND|STRLEN|STR|UCASE|LCASE|ENCODE_FOR_URI|YEAR|MONTH|DAY|HOURS|MINUTES|SECONDS|TIMEZONE|TZ|MD5|SHA1|SHA256|SHA384|SHA512|isIRI|isURI|isBLANK|isLITERAL|isNUMERIC))/i,/^(?:(LANGMATCHES|CONTAINS|STRSTARTS|STRENDS|STRBEFORE|STRAFTER|STRLANG|STRDT|sameTerm))/i,/^(?:CONCAT)/i,/^(?:COALESCE)/i,/^(?:IF)/i,/^(?:REGEX)/i,/^(?:SUBSTR)/i,/^(?:REPLACE)/i,/^(?:EXISTS)/i,/^(?:COUNT)/i,/^(?:SUM|MIN|MAX|AVG|SAMPLE)/i,/^(?:GROUP_CONCAT)/i,/^(?:SEPARATOR)/i,/^(?:\^\^)/i,/^(?:true)/i,/^(?:false)/i,/^(?:(<([^<>\"\{\}\|\^`\\\u0000-\u0020])*>))/i,/^(?:((([A-Z]|[a-z]|[\u00C0-\u00D6]|[\u00D8-\u00F6]|[\u00F8-\u02FF]|[\u0370-\u037D]|[\u037F-\u1FFF]|[\u200C-\u200D]|[\u2070-\u218F]|[\u2C00-\u2FEF]|[\u3001-\uD7FF]|[\uF900-\uFDCF]|[\uFDF0-\uFFFD]|[\uD800-\uDB7F][\uDC00-\uDFFF])(((((?:([A-Z]|[a-z]|[\u00C0-\u00D6]|[\u00D8-\u00F6]|[\u00F8-\u02FF]|[\u0370-\u037D]|[\u037F-\u1FFF]|[\u200C-\u200D]|[\u2070-\u218F]|[\u2C00-\u2FEF]|[\u3001-\uD7FF]|[\uF900-\uFDCF]|[\uFDF0-\uFFFD]|[\uD800-\uDB7F][\uDC00-\uDFFF])|_))|-|[0-9]|\u00B7|[\u0300-\u036F]|[\u203F-\u2040])|\.)*(((?:([A-Z]|[a-z]|[\u00C0-\u00D6]|[\u00D8-\u00F6]|[\u00F8-\u02FF]|[\u0370-\u037D]|[\u037F-\u1FFF]|[\u200C-\u200D]|[\u2070-\u218F]|[\u2C00-\u2FEF]|[\u3001-\uD7FF]|[\uF900-\uFDCF]|[\uFDF0-\uFFFD]|[\uD800-\uDB7F][\uDC00-\uDFFF])|_))|-|[0-9]|\u00B7|[\u0300-\u036F]|[\u203F-\u2040]))?)?:))/i,/^(?:(((([A-Z]|[a-z]|[\u00C0-\u00D6]|[\u00D8-\u00F6]|[\u00F8-\u02FF]|[\u0370-\u037D]|[\u037F-\u1FFF]|[\u200C-\u200D]|[\u2070-\u218F]|[\u2C00-\u2FEF]|[\u3001-\uD7FF]|[\uF900-\uFDCF]|[\uFDF0-\uFFFD]|[\uD800-\uDB7F][\uDC00-\uDFFF])(((((?:([A-Z]|[a-z]|[\u00C0-\u00D6]|[\u00D8-\u00F6]|[\u00F8-\u02FF]|[\u0370-\u037D]|[\u037F-\u1FFF]|[\u200C-\u200D]|[\u2070-\u218F]|[\u2C00-\u2FEF]|[\u3001-\uD7FF]|[\uF900-\uFDCF]|[\uFDF0-\uFFFD]|[\uD800-\uDB7F][\uDC00-\uDFFF])|_))|-|[0-9]|\u00B7|[\u0300-\u036F]|[\u203F-\u2040])|\.)*(((?:([A-Z]|[a-z]|[\u00C0-\u00D6]|[\u00D8-\u00F6]|[\u00F8-\u02FF]|[\u0370-\u037D]|[\u037F-\u1FFF]|[\u200C-\u200D]|[\u2070-\u218F]|[\u2C00-\u2FEF]|[\u3001-\uD7FF]|[\uF900-\uFDCF]|[\uFDF0-\uFFFD]|[\uD800-\uDB7F][\uDC00-\uDFFF])|_))|-|[0-9]|\u00B7|[\u0300-\u036F]|[\u203F-\u2040]))?)?:)((((?:([A-Z]|[a-z]|[\u00C0-\u00D6]|[\u00D8-\u00F6]|[\u00F8-\u02FF]|[\u0370-\u037D]|[\u037F-\u1FFF]|[\u200C-\u200D]|[\u2070-\u218F]|[\u2C00-\u2FEF]|[\u3001-\uD7FF]|[\uF900-\uFDCF]|[\uFDF0-\uFFFD]|[\uD800-\uDB7F][\uDC00-\uDFFF])|_))|:|[0-9]|((%([0-9]|[A-F]|[a-f])([0-9]|[A-F]|[a-f]))|(\\(_|~|\.|-|!|\$|&|'|\(|\)|\*|\+|,|;|=|\/|\?|#|@|%))))(((((?:([A-Z]|[a-z]|[\u00C0-\u00D6]|[\u00D8-\u00F6]|[\u00F8-\u02FF]|[\u0370-\u037D]|[\u037F-\u1FFF]|[\u200C-\u200D]|[\u2070-\u218F]|[\u2C00-\u2FEF]|[\u3001-\uD7FF]|[\uF900-\uFDCF]|[\uFDF0-\uFFFD]|[\uD800-\uDB7F][\uDC00-\uDFFF])|_))|-|[0-9]|\u00B7|[\u0300-\u036F]|[\u203F-\u2040])|\.|:|((%([0-9]|[A-F]|[a-f])([0-9]|[A-F]|[a-f]))|(\\(_|~|\.|-|!|\$|&|'|\(|\)|\*|\+|,|;|=|\/|\?|#|@|%))))*((((?:([A-Z]|[a-z]|[\u00C0-\u00D6]|[\u00D8-\u00F6]|[\u00F8-\u02FF]|[\u0370-\u037D]|[\u037F-\u1FFF]|[\u200C-\u200D]|[\u2070-\u218F]|[\u2C00-\u2FEF]|[\u3001-\uD7FF]|[\uF900-\uFDCF]|[\uFDF0-\uFFFD]|[\uD800-\uDB7F][\uDC00-\uDFFF])|_))|-|[0-9]|\u00B7|[\u0300-\u036F]|[\u203F-\u2040])|:|((%([0-9]|[A-F]|[a-f])([0-9]|[A-F]|[a-f]))|(\\(_|~|\.|-|!|\$|&|'|\(|\)|\*|\+|,|;|=|\/|\?|#|@|%)))))?)))/i,/^(?:(_:(((?:([A-Z]|[a-z]|[\u00C0-\u00D6]|[\u00D8-\u00F6]|[\u00F8-\u02FF]|[\u0370-\u037D]|[\u037F-\u1FFF]|[\u200C-\u200D]|[\u2070-\u218F]|[\u2C00-\u2FEF]|[\u3001-\uD7FF]|[\uF900-\uFDCF]|[\uFDF0-\uFFFD]|[\uD800-\uDB7F][\uDC00-\uDFFF])|_))|[0-9])(((((?:([A-Z]|[a-z]|[\u00C0-\u00D6]|[\u00D8-\u00F6]|[\u00F8-\u02FF]|[\u0370-\u037D]|[\u037F-\u1FFF]|[\u200C-\u200D]|[\u2070-\u218F]|[\u2C00-\u2FEF]|[\u3001-\uD7FF]|[\uF900-\uFDCF]|[\uFDF0-\uFFFD]|[\uD800-\uDB7F][\uDC00-\uDFFF])|_))|-|[0-9]|\u00B7|[\u0300-\u036F]|[\u203F-\u2040])|\.)*(((?:([A-Z]|[a-z]|[\u00C0-\u00D6]|[\u00D8-\u00F6]|[\u00F8-\u02FF]|[\u0370-\u037D]|[\u037F-\u1FFF]|[\u200C-\u200D]|[\u2070-\u218F]|[\u2C00-\u2FEF]|[\u3001-\uD7FF]|[\uF900-\uFDCF]|[\uFDF0-\uFFFD]|[\uD800-\uDB7F][\uDC00-\uDFFF])|_))|-|[0-9]|\u00B7|[\u0300-\u036F]|[\u203F-\u2040]))?))/i,/^(?:([\?\$]((((?:([A-Z]|[a-z]|[\u00C0-\u00D6]|[\u00D8-\u00F6]|[\u00F8-\u02FF]|[\u0370-\u037D]|[\u037F-\u1FFF]|[\u200C-\u200D]|[\u2070-\u218F]|[\u2C00-\u2FEF]|[\u3001-\uD7FF]|[\uF900-\uFDCF]|[\uFDF0-\uFFFD]|[\uD800-\uDB7F][\uDC00-\uDFFF])|_))|[0-9])(((?:([A-Z]|[a-z]|[\u00C0-\u00D6]|[\u00D8-\u00F6]|[\u00F8-\u02FF]|[\u0370-\u037D]|[\u037F-\u1FFF]|[\u200C-\u200D]|[\u2070-\u218F]|[\u2C00-\u2FEF]|[\u3001-\uD7FF]|[\uF900-\uFDCF]|[\uFDF0-\uFFFD]|[\uD800-\uDB7F][\uDC00-\uDFFF])|_))|[0-9]|\u00B7|[\u0300-\u036F]|[\u203F-\u2040])*)))/i,/^(?:(@[a-zA-Z]+(-[a-zA-Z0-9]+)*))/i,/^(?:([0-9]+))/i,/^(?:([0-9]*\.[0-9]+))/i,/^(?:([0-9]+\.[0-9]*([eE][+-]?[0-9]+)|\.([0-9])+([eE][+-]?[0-9]+)|([0-9])+([eE][+-]?[0-9]+)))/i,/^(?:(\+([0-9]+)))/i,/^(?:(\+([0-9]*\.[0-9]+)))/i,/^(?:(\+([0-9]+\.[0-9]*([eE][+-]?[0-9]+)|\.([0-9])+([eE][+-]?[0-9]+)|([0-9])+([eE][+-]?[0-9]+))))/i,/^(?:(-([0-9]+)))/i,/^(?:(-([0-9]*\.[0-9]+)))/i,/^(?:(-([0-9]+\.[0-9]*([eE][+-]?[0-9]+)|\.([0-9])+([eE][+-]?[0-9]+)|([0-9])+([eE][+-]?[0-9]+))))/i,/^(?:([eE][+-]?[0-9]+))/i,/^(?:('(([^\u0027\u005C\u000A\u000D])|(\\[tbnrf\\\"']|\\u([0-9]|[A-F]|[a-f])([0-9]|[A-F]|[a-f])([0-9]|[A-F]|[a-f])([0-9]|[A-F]|[a-f])|\\U([0-9]|[A-F]|[a-f])([0-9]|[A-F]|[a-f])([0-9]|[A-F]|[a-f])([0-9]|[A-F]|[a-f])([0-9]|[A-F]|[a-f])([0-9]|[A-F]|[a-f])([0-9]|[A-F]|[a-f])([0-9]|[A-F]|[a-f])))*'))/i,/^(?:("(([^\u0022\u005C\u000A\u000D])|(\\[tbnrf\\\"']|\\u([0-9]|[A-F]|[a-f])([0-9]|[A-F]|[a-f])([0-9]|[A-F]|[a-f])([0-9]|[A-F]|[a-f])|\\U([0-9]|[A-F]|[a-f])([0-9]|[A-F]|[a-f])([0-9]|[A-F]|[a-f])([0-9]|[A-F]|[a-f])([0-9]|[A-F]|[a-f])([0-9]|[A-F]|[a-f])([0-9]|[A-F]|[a-f])([0-9]|[A-F]|[a-f])))*"))/i,/^(?:('''(('|'')?([^'\\]|(\\[tbnrf\\\"']|\\u([0-9]|[A-F]|[a-f])([0-9]|[A-F]|[a-f])([0-9]|[A-F]|[a-f])([0-9]|[A-F]|[a-f])|\\U([0-9]|[A-F]|[a-f])([0-9]|[A-F]|[a-f])([0-9]|[A-F]|[a-f])([0-9]|[A-F]|[a-f])([0-9]|[A-F]|[a-f])([0-9]|[A-F]|[a-f])([0-9]|[A-F]|[a-f])([0-9]|[A-F]|[a-f]))))*'''))/i,/^(?:("""(("|"")?([^\"\\]|(\\[tbnrf\\\"']|\\u([0-9]|[A-F]|[a-f])([0-9]|[A-F]|[a-f])([0-9]|[A-F]|[a-f])([0-9]|[A-F]|[a-f])|\\U([0-9]|[A-F]|[a-f])([0-9]|[A-F]|[a-f])([0-9]|[A-F]|[a-f])([0-9]|[A-F]|[a-f])([0-9]|[A-F]|[a-f])([0-9]|[A-F]|[a-f])([0-9]|[A-F]|[a-f])([0-9]|[A-F]|[a-f]))))*"""))/i,/^(?:(\((\u0020|\u0009|\u000D|\u000A)*\)))/i,/^(?:(\[(\u0020|\u0009|\u000D|\u000A)*\]))/i,/^(?:$)/i,/^(?:.)/i,/^(?:.)/i],
-conditions: {"INITIAL":{"rules":[0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94,95,96,97,98,99,100,101,102,103,104,105,106,107,108,109,110,111,112,113,114,115,116,117,118,119,120,121,122,123,124,125],"inclusive":true}}
-});
-return lexer;
-})();
-parser.lexer = lexer;
-function Parser () {
-  this.yy = {};
-}
-Parser.prototype = parser;parser.Parser = Parser;
-return new Parser;
-})();
-
-
-if (typeof require !== 'undefined' && typeof exports !== 'undefined') {
-exports.parser = parser;
-exports.Parser = parser.Parser;
-exports.parse = function () { return parser.parse.apply(parser, arguments); };
-exports.main = function commonjsMain(args) {
-    if (!args[1]) {
-        console.log('Usage: '+args[0]+' FILE');
-        process.exit(1);
-    }
-    var source = require('fs').readFileSync(require('path').normalize(args[1]), "utf8");
-    return exports.parser.parse(source);
-};
-if (typeof module !== 'undefined' && require.main === module) {
-  exports.main(process.argv.slice(1));
-}
-}
-}).call(this,require('_process'))
-},{"_process":13,"fs":1,"path":11}],86:[function(require,module,exports){
-const sparqljs = require('sparqljs');
-const fetch = require('node-fetch');
-
-const parser = require('./parser.js');
-const generator = new sparqljs.Generator();
-
-// SPARQL configuration
-let endpoint = 'http://localhost';
-let fn = null;
-
-function sparql(q) {
-	if (fn) {
-		let res = fn(q);
-		return (res instanceof Promise) ? res : Promise.resolve(res);
-	} else if (endpoint) {
-		return fetch(endpoint, {
-			body: q,
-			method: 'POST',
-			headers: {
-				'content-type': 'application/sparql-query',
-				'accept': 'application/sparql-results+json'
-			}
-		}).then(resp => resp.json());
-	} else {
-		let m = 'No suitable SPARQL configuration found';
-		return Promise.reject(new Error(m));
-	}
-}
-
-/**
- * collection of templates tested by applyTemplates()
- */
-let directory = [];
-
-/**
- * merged prefixes from all templates
- */
-let prefixes = {};
-
-function expressionType(exp) {
-	if (typeof exp === 'string') {
-		if (exp.startsWith('?')) return 'variable';
-		if (exp.match(/"[^]*"/)) return 'literal';
-		if (exp.startsWith('_:')) return 'bnode';
-		return 'uri';
-	} else if (typeof exp === 'object' && exp.type) {
-		return exp.type;
-	} else {
-		return '';
-	}
-}
-
-function literal(str) {
-	return {
-		type: 'literal',
-		value: str
-	};
-}
-
-/**
- * from SPARQL JSON format to plain string
- * note: looks like Turtle but not exactly...
- */
-function plain(term) {
-	if (!term) return '';
-	
-	switch (term.type) {
-		case 'literal':
-			return '"' + term.value + '"'
-				+ (term.lang ? '@' + term.lang : '')
-				+ (term.datatype ? '^^' + term.datatype : '');
-		case 'bnode':
-			return '_:' + term.value;
-		case 'uri':
-			return term.value;
-		default:
-			return '';
-	}
-}
-
-/**
- * inverse transformation of plain()
- */
-function term(plain) {
-	if (!plain || typeof plain != 'string') return '';
-	
-	let capture = null;
-	if (capture = plain.match(/"([^]*)"(@(.*))?(\^\^(.*))?/)) {
-		let [str, lit, at, lang, roof, datatype] = capture;
-		return {
-			type: 'literal',
-			value: lit,
-			lang: lang,
-			datatype: datatype
-		}
-	} else if (plain.match(/^(([^:\/?#]+):)(\/\/([^\/?#]*))([^?#]*)(\?([^#]*))?(#(.*))?/)) {
-		return {
-			type: 'uri',
-			value: plain
-		};
-	} else if (capture = plain.match(/(\w*):(.*)/)) {
-		let [str, prefix, name] = capture; 
-		return {
-			type: 'uri',
-			value: prefixes[prefix] + name
-		};
-	} else if (plain.match(/_:(.*)/)) {
-		let [str, name] = capture; 
-		return {
-			type: 'bnode',
-			value: name
-		}
-	} else {
-		return {};
-	}
-}
-
-function turtle(term) {
-	if (!term) return '';
-	
-	switch (term.type) {
-		case 'uri':
-			for (p in prefixes) {
-				let uri = term.value;
-				let ns = prefixes[p];
-				if (uri.startsWith(ns)) {
-					let name = uri.substring(ns.length);
-					return p + ':' + name;
-				}
-			}
-			return '<' + term.value + '>';
-		case 'bnode':
-			return '_:' + term.value;
-		case 'literal':
-			// TODO numeric values (no quote)
-			return '"' + term.value + '"'
-				+ (term.lang ? '@' + term.lang : '')
-				+ (term.datatype ? '^^' + turtle(term.datatype) : '');
-		default:
-			return '';
-	}
-}
-
-function process(term) {
-	return turtle(term);
-}
-
-/**
- * Function map for the st: namespace 
- */
-const functions = {
-	'http://ns.inria.fr/sparql-template/apply-templates': applyTemplates,
-	'http://ns.inria.fr/sparql-template/call-template': (t, ...args) => callTemplate(t.value, ...args),
-	'http://ns.inria.fr/sparql-template/concat': (...args) => args.map(t => t.value).join(''),
-	'http://ns.inria.fr/sparql-template/process': turtle
-}
-
-/**
- * Calls JS function with provided arguments
- */
-function evaluateFunctionCall(exp, binding) {
-	let uri = exp.function;
-	let fn = functions[uri];
-
-	if (!fn) {
-		let m = 'Function <' + uri + '> undefined';
-		return Promise.reject(new Error(m));
-	}
-	
-	let evaluated = exp.args.map(arg => evaluateExpression(arg, binding));
-	return Promise.all(evaluated)
-		.then(terms => fn(...terms))
-		.then(str => literal(str));
-}
-
-/**
- * Delegates evaluation to SPARQL endpoint
- */
-function evaluateOperation(exp, binding) {
-	if (exp.operator === 'if') {
-		let [condition, first, second] = exp.args;
-		
-		return evaluateExpression(condition, binding).then(t => {
-			let bool =
-				t.datatype === 'http://www.w3.org/2001/XMLSchema#boolean'
-				&& t.value === 'true';
-			return evaluateExpression(bool ? first : second, binding);
-		});
-	} else {
-		let evaluated = exp.args.map(arg => evaluateExpression(arg, binding));
-		
-		return Promise.all(evaluated).then(args => {
-			let jq = {
-				type: 'query',
-				queryType: 'SELECT',
-				variables: ['?exp'],
-				where: [{
-					type: 'bind',
-					variable: '?exp',
-					expression: {
-						type: 'operation',
-						operator: exp.operator,
-						args: args.map(plain)
-					}
-				}]
-			};
-			
-			let q = generator.stringify(jq);
-			
-			return sparql(q).then(resp => {
-				let b = resp.results.bindings;
-				return b[0].exp;
-			});
-		});
-	}
-}
-
-function evaluateFormat(exp, binding) {
-	switch (expressionType(exp.pattern)) {
-		case 'literal':
-			let evaluated = exp.args.map(arg => evaluateExpression(arg, binding));
-			return Promise.all(evaluated).then(args => {
-				let pattern = term(exp.pattern);
-				return {
-					type: 'literal',
-					// TODO error if arg not literal
-					value: args.reduce((v, arg) => v.replace('%s', arg.value), pattern.value)
-				}
-			});
-		case 'uri':
-			let m = 'Dereferencing IRI in FORMAT pattern is not supported';
-			return Promise.reject(new Error(m));
-		default:
-			return Promise.resolve({});
-	}
-}
-
-/**
- * Returns a term (SPARQL JSON format)
- */
-function evaluateExpression(exp, binding) {
-	switch (expressionType(exp)) {
-		case 'functionCall':
-			return evaluateFunctionCall(exp, binding);
-		case 'operation':
-			return evaluateOperation(exp, binding);
-		case 'format':
-			return evaluateFormat(exp, binding);
-		case 'literal':
-		case 'uri':
-		case 'bnode':
-			return Promise.resolve(term(exp));
-		case 'variable':
-			let t = binding[exp.substring(1)];
-			return Promise.resolve(t);
-		default:
-			return Promise.resolve({});
-	}
-}
-
-function variables(exp) {
-	switch (expressionType(exp)) {
-		case 'functionCall':
-		case 'operation':
-		case 'format':
-			return exp.args.reduce((v, arg) => v.concat(variables(arg)), []);
-		case 'variable':
-			return [exp];
-		default:
-			return [];
-	}
-}
-
-/**
- * Returns a plain string (always a literal)
- */
-function applyTemplate(tpl, binding) {
-	if (!tpl || tpl.queryType != 'TEMPLATE') {
-		let m = 'Input argument is not a SPARQL template';
-		return Promise.reject(new Error(m));
-	}
-	
-	let patterns = [];
-	if (binding) {
-		patterns = Object.entries(binding)
-			.filter(([v, t]) => t.type === 'uri' || t.type === 'literal')
-			.map(([v, t]) => ({
-				type: 'bind',
-				variable: '?' + v,
-				expression: plain(t)
-			}));
-	}
-    
-    let vars = variables(tpl.expression);
-    // TODO instead, directly evaluate expression (see TODO below)
-    if (vars.length === 0) vars.push('*');
-	
-	let jsonQuery = {
-		type: 'query',
-		queryType: 'SELECT',
-		prefixes: tpl.prefixes,
-		variables: vars,
-		where: patterns.concat(tpl.where),
-		distinct: true
-	}
-
-	// TODO DISTINCT modifier by default?
-	let modifiers = ['order', 'offset', 'limit'];
-	modifiers.forEach(modifier => {
-		let def = tpl[modifier];
-		if (def) jsonQuery[modifier] = def;
-	});
-	
-	let query = generator.stringify(jsonQuery);
-	
-	return sparql(query).then(resp => {
-		let bindings = resp.results.bindings;
-		// TODO if no binding but all template variables bound, then evaluate
-		let group = bindings.map(b => evaluateExpression(tpl.expression, b));
-		
-		let sep = tpl.separator ? term(tpl.separator).value : '\n';
-		return Promise.all(group).then(g => g.map(t => t.value).join(sep));
-	});
-}
-
-function applyTemplatesAll(term) {
-	let b = term ? { 'in': term } : null;
-	
-	let zeroParams = directory.filter(tpl => (tpl.parameters || []).length === 0);
-	return Promise.all(zeroParams.map(tpl => applyTemplate(tpl, b))).then(str => {
-		return str.join('');
-	});
-}
-
-function applyTemplates(term) {
-	// TODO detect loop in template selecion (pair <focus node, template>)
-	let b = term ? { 'in': term } : null;
-	
-	let zeroParams = directory.filter(tpl => (tpl.parameters || []).length === 0);
-	return zeroParams.reduce((application, tpl) => {
-		return application.then(str => str || applyTemplate(tpl, b));
-	}, Promise.resolve('')).then(str => {
-		return str || turtle(term);
-	});
-}
-
-function callTemplate(uri, ...terms) {
-	let tpl = directory.find(tpl => tpl.name === uri);
-	if (!tpl) {
-		let m = 'Template <' + uri + '> not found';
-		return Promise.reject(new Error(m));
-	};
-	
-	let b = tpl.parameters.reduce((b, p, i) => {
-		b[p.substring(1)] = terms[i];
-		return b;
-	}, {});
-	return applyTemplate(tpl, b);
-}
-
-module.exports = {
-	// http://ns.inria.fr/sparql-template/apply-templates
-	applyTemplates: applyTemplates,
-	// http://ns.inria.fr/sparql-template/call-template
-	callTemplate: callTemplate,
-	
-	// general configuration
-	connect: arg => {
-		if (typeof arg === 'string') endpoint = arg;
-		else if (typeof arg === 'function') fn = arg;
-	},
-	register: str => {
-		let tpl = parser.parse(str);
-		if (!tpl) throw new Error('Template(s) cannot be parsed: ' + str);
-		directory = directory.concat(tpl);
-		for (p in tpl.prefixes) prefixes[p] = tpl.prefixes[p];
-	},
-	clear: () => {
-		directory = [];
-		prefixes = {};
-	}
-};
-
-},{"./parser.js":85,"node-fetch":64,"sparqljs":84}],87:[function(require,module,exports){
-(function (global){
+},{"_process":11,"timers":30}],172:[function(require,module,exports){
 "use strict";
-
-// ref: https://github.com/tc39/proposal-global
-var getGlobal = function () {
-	// the only reliable means to get the global object is
-	// `Function('return this')()`
-	// However, this causes CSP violations in Chrome apps.
-	if (typeof self !== 'undefined') { return self; }
-	if (typeof window !== 'undefined') { return window; }
-	if (typeof global !== 'undefined') { return global; }
-	throw new Error('unable to locate global object');
+function __export(m) {
+    for (var p in m) if (!exports.hasOwnProperty(p)) exports[p] = m[p];
 }
+Object.defineProperty(exports, "__esModule", { value: true });
+__export(require("./lib/RdfXmlParser"));
 
-var global = getGlobal();
-
-module.exports = exports = global.fetch;
-
-// Needed for TypeScript and Webpack.
-exports.default = global.fetch.bind(global);
-
-exports.Headers = global.Headers;
-exports.Request = global.Request;
-exports.Response = global.Response;
-}).call(this,typeof global !== "undefined" ? global : typeof self !== "undefined" ? self : typeof window !== "undefined" ? window : {})
-},{}],88:[function(require,module,exports){
-const n3 = require('n3');
-const jsonld = require('jsonld');
-const fetch = require('node-fetch');
-
-const processor = jsonld.promises;
-
+},{"./lib/RdfXmlParser":174}],173:[function(require,module,exports){
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
 /**
- * Parses data in a given serialization format and returns
- * JSON-LD definitions.
- * 
- * @param {string} dataString JSON-LD definitions or RDF triples
- * serialialized as a string
- * @param {object} opts options as an object (passed to N3.js)
+ * An error that includes line and column in the error message.
  */
-function parse(dataString, opts) {
-    return new Promise((resolve, reject) => {
-        if (opts && opts.format.startsWith('application/ld+json')) {
-            try {
-                resolve(JSON.parse(dataString));
-            } catch (e) {
-                reject(e);
-            }
-        } else {
-            const def = { format: 'application/n-quads' };
-
-            let p = new n3.Parser(opts);
-            let w = new n3.Writer(def);
-
-            // TODO use stream API...?
-            p.parse(dataString, (err, quad) => {
-                if (err) reject(err);
-
-                else if (quad) w.addQuad(quad);
-
-                else w.end((err, nquads) => {
-                    if (err) reject(err);
-
-                    else processor.fromRDF(nquads, def)
-                        .then(json => resolve(json))
-                        .catch(e => reject(e));
-                });
-            });
-        }
-    });
-}
-
-/**
- * Fetches and parses data from a remote location, then
- * returns JSON-LD definitions.
- * 
- * @param {string} uri 
- */
-function parseFrom(uri) {
-    let opts = {};
-
-    return fetch(uri, {
-        headers: { 'Accept': 'application/ld+json' },
-        redirect: 'follow'
-    })
-
-    .then(res => {
-        if (res.ok) {
-            if (res.headers.has('Content-Type')) {
-                opts.format = res.headers.get('Content-Type');
-            }
-
-            return res.text();
-        } else {
-            // silently ignore failed attempt
-            console.error(res);
-        }
-    })
-
-    .then(data => parse(data, opts))
-
-    .catch(e => console.error(e));
-}
-
-function serialize(data) {
-    // TODO
-}
-
-module.exports.parse = parse;
-module.exports.parseFrom = parseFrom;
-module.exports.serialize = serialize;
-},{"jsonld":48,"n3":54,"node-fetch":87}],89:[function(require,module,exports){
-'use strict';
-
-const utils = require('./utils.js');
-const io = require('./io.js');
-const urdf = require('./urdf.js');
-
-/**
- * main instance of the µRDF store.
- */
-const store = new urdf.Store();
-
-const jsonld = require('jsonld');
-const sparqljs = require('sparqljs');
-
-const processor = jsonld.promises;
-const parser = new sparqljs.Parser();
-
-/**
- * Returns the name of the input variable.
- * 
- * @param {string} variable a variable (starting with '?')
- */
-function name(variable) {
-    if (variable[0] != '?') throw new Error(variable + ' is not a variable');
-    return variable.substring(1);
-}
-
-/**
- * Computes whether two solution mappings intersect, i.e. whether:
- *  - their domains (sets of variables) overlap and
- *  - their intersection is a valid mapping.
- * 
- * @param {object} mu1 first solution mapping
- * @param {object} mu2 second solution mappoing
- */
-function intersect(mu1, mu2) {
-    if (!Object.keys(mu1).some(v => mu2[v])) return false;
-    else return Boolean(urdf.merge(mu1, mu2));
-}
-
-/**
- * Finds a given node (optionally in some named graph) and returns it.
- * 
- * @param {string} id a node identifier (an IRI)
- * @param {string} gid a graph identifier (an IRI)
- */
-function find(id, gid) {
-    return new Promise((resolve, reject) => {
-        let node = store.find(id, gid);
-
-        // TODO deal with compacted form when time comes
-        // TODO return copy instead of actual object?
-        // TODO do not reject if node not found?
-        if (node) resolve(node);
-        else reject(new Error('Node not found'));
-    });
-}
-
-/**
- * Provides a Promise-based wrapper for core clear function.
- * 
- * @param {string} gid a graph identifier (an IRI)
- */
-function clear(gid) {
-    return new Promise((resolve, reject) => {
-        store.clear(gid);
-        resolve();
-    });
-}
-
-/**
- * Renames all blank nodes in the graph with numeric identifiers,
- * starting from an offset (e.g. a number higher than the size
- * of the µRDF store, to avoid name conflicts).
- * 
- * @param {array} g a JSON-LD graph (list of node objects)
- * @param {number} offset a number taken as offset for numbering
- */
-function rename(g, offset) {
-    let idx = 0;
-    let sigma = {};
-
-    g.forEach(n => {
-        let id = n['@id'];
-
-        if (id && id.startsWith('_:')) {
-            sigma[id] = '_:b' + (offset + (idx++));
-        }
-    });
-
-    // TODO copy of node object instead?
-    // TODO remove blank node id if no reference in graph?
-    return g.map(n => {
-        let id = n['@id'];
-
-        if (sigma[id]) n['@id'] = sigma[id];
-
-        urdf.signature(n).forEach(p => {
-            n[p].forEach(o => {
-                let ido = o['@id'];
-
-                if (sigma[ido]) o['@id'] = sigma[ido];
-            });
-        });
-
-        return n;
-    });
-}
-
-/**
- * Returns a default graph object from the input definition.
- * 
- * @param {object} json a JSON-LD definition
- */
-function getDefaultGraph(json) {
-    let g = {};
-
-    // TODO use the JsonLdProcessor instead?
-    if (json instanceof Array) {
-        g['@graph'] = json.filter(obj => !obj['graph']);
-    } else {
-        if (!json['@graph']) g['@graph'] = [json];
-        else if (!json['@id']) g = json;
-        else g['@graph'] = [];
+class ParseError extends Error {
+    constructor(parser, message) {
+        const saxParser = parser.saxStream._parser;
+        super(parser.trackPosition ? `Line ${saxParser.line + 1} column ${saxParser.column + 1}: ${message}` : message);
     }
-
-    return g;
 }
+exports.ParseError = ParseError;
 
-/**
- * Loads the input definitions in the µRDF store.
- * 
- * @param {object | array | string} data some JSON-LD definition(s)
- * or some RDF triples serialialized as a string
- * @param {object} opts options as an object (passed to N3.js)
- */
-function load(data, opts) {
-    let parsePromise;
-
-    switch (typeof data) {
-        case 'string':
-            parsePromise = io.parse(data, opts);
-            break;
-
-        case 'object':
-        case 'array':
-            parsePromise = Promise.resolve(data);
-            break;
-
-        default:
-            parsePromise = Promise.reject(new Error('Invalid JSON-LD or RDF definition'));
+},{}],174:[function(require,module,exports){
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+const relative_to_absolute_iri_1 = require("relative-to-absolute-iri");
+const sax_1 = require("sax");
+const stream_1 = require("stream");
+const ParseError_1 = require("./ParseError");
+class RdfXmlParser extends stream_1.Transform {
+    constructor(args) {
+        super({ objectMode: true });
+        this.activeTagStack = [];
+        this.nodeIds = {};
+        if (args) {
+            Object.assign(this, args);
+            this.options = args;
+        }
+        if (!this.dataFactory) {
+            this.dataFactory = require('@rdfjs/data-model');
+        }
+        if (!this.baseIRI) {
+            this.baseIRI = '';
+        }
+        if (!this.defaultGraph) {
+            this.defaultGraph = this.dataFactory.defaultGraph();
+        }
+        this.saxStream = sax_1.createStream(this.strict, { xmlns: false, position: this.trackPosition });
+        // Workaround for an issue in SAX where non-strict mode either lower- or upper-cases all tags.
+        if (!this.strict) {
+            this.saxStream._parser.looseCase = 'toString';
+        }
+        this.attachSaxListeners();
     }
-
-    return parsePromise
-
-    // TODO normalize, compact
-    .then(json => processor.flatten(json))
-
-    .then(json => {
-        let dataset = json
-            .filter(obj => obj['@graph'])
-            .concat(getDefaultGraph(json));
-
-        dataset.forEach(g => {
-            let gid = g['@id'];
-
-            let offset = store.size(gid);
-            let renamed = rename(g['@graph'], offset);
-
-            store.load(renamed, gid);
-        });
-
-        return true; // TODO deal with errors (none thrown from urdf-core)
-    });
-}
-
-function loadFrom(uri) {
-    return io.parseFrom(uri)
-
-    .then(json => {
-        json = getDefaultGraph(json);
-        json['@id'] = uri;
-
-        return load(json);
-    });
-}
-
-/**
- * Returns all solution mappings from the first set that is compatible
- * with none of the mappings from the second set.
- * 
- * @param {array} omega1 first set of solution mappings
- * @param {array} omega2 second set of solution mappings
- */
-function diff(omega1, omega2) {
-    return omega1.filter(mu1 => {
-        return omega2.every(mu2 => !urdf.merge(mu1, mu2));
-    });
-}
-
-/**
- * Merges solutions and removes incompatible mappings.
- * 
- * @param {array} omega1 first set of solution mappings
- * @param {array} omega2 second set of solution mappings
- */
-function merge(omega1, omega2) {
-    return omega1.reduce((omega, mu1) => {
-        return omega2.reduce((omega, mu2) => {
-            let mu = urdf.merge(mu1, mu2);
-
-            if (mu) omega.push(mu);
-
-            return omega;
-        }, omega);
-    }, []);
-}
-
-/**
- * Sequentially evaluates a list of SPARQL query patterns.
- * 
- * @param {array} patterns array of pattern objects 
- * @param {object} dataset the evaluation dataset
- * @param {string} gid graph identifier defining the scope of evaluation
- */
-function evaluateAll(patterns, dataset, gid) {
-    return patterns.reduce((omega, p) => {
-        return evaluate(p, dataset, omega, gid);
-    }, [{}]);
-}
-
-/**
- * Evaluates a SPARQL query pattern and returns mappings.
- * 
- * @param {object} pattern the query pattern
- * @param {object} dataset the evaluation dataset
- * @param {array} mappings current mappings
- * @param {string} gid graph identifier defining the scope of evaluation
- */
-function evaluate(pattern, dataset, mappings, gid) {
-    let omega = [];
-
-    switch (pattern.type) {
-        case 'group':
-            omega = evaluateAll(pattern.patterns, dataset, gid);
-            return merge(mappings, omega);
-
-        case 'graph':
-            if (pattern.name.startsWith('?')) {
-                let n = name(pattern.name);
-                omega = dataset.listGraphs()
-                    .map(gid => {
-                        let mu = { [n]: { type: 'uri', value: gid } };
-                        return merge([mu], evaluateAll(pattern.patterns, dataset, gid));
-                    })
-                    .reduce((union, omega) => union.concat(omega), []);
-            } else {
-                omega = evaluateAll(pattern.patterns, dataset, pattern.name);
+    /**
+     * Parse the namespace of the given tag,
+     * and take into account the namespace of the parent tag that was already parsed.
+     * @param {Tag} tag A tag to parse the namespace from.
+     * @param {IActiveTag} parentTag The parent tag, or null if this tag is the root.
+     * @return {{[p: string]: string}[]} An array of namespaces,
+     *                                   where the last ones have a priority over the first ones.
+     */
+    static parseNamespace(tag, parentTag) {
+        const thisNs = {};
+        let hasNs = false;
+        for (const attributeKey in tag.attributes) {
+            if (attributeKey.startsWith('xmlns')) {
+                if (attributeKey.length === 5) {
+                    // Set default namespace
+                    hasNs = true;
+                    thisNs[''] = tag.attributes[attributeKey];
+                }
+                else if (attributeKey.charAt(5) === ':') {
+                    // Definition of a prefix
+                    hasNs = true;
+                    thisNs[attributeKey.substr(6)] = tag.attributes[attributeKey];
+                }
             }
-            return merge(mappings, omega);
-
-        case 'union':
-            return pattern.patterns
-                .map(p => evaluate(p, dataset, mappings, gid))
-                .reduce((union, omega) => union.concat(omega), []);
-
-        case 'optional':
-            omega = evaluateAll(pattern.patterns, dataset, gid);
-            return merge(mappings, omega).concat(diff(mappings, omega));
-
-        case 'bgp':
-            let f = utils.frame(pattern);
-            omega = dataset.query(f, gid);
-            return merge(mappings, omega);
-
-        case 'values':
-            omega = pattern.values.map(map => {
-                let mu = {};
-                for (let v in map) mu[name(v)] = utils.term(map[v]);
-                return mu;
-            });
-            return merge(mappings, omega);
-
-        case 'bind':
-            return mappings
-                .map(mu => {
-                    try {
-                        let n = name(pattern.variable);
-                        let binding = {
-                            [n]: utils.evaluate(pattern.expression, mu)
-                        };
-                        return urdf.merge(mu, binding);
-                    } catch (e) {
-                        if (e instanceof utils.EvaluationError) return mu;
-                        else throw e;
-                    }
-                })
-                .filter(mu => mu);
-
-        case 'minus':
-            omega = evaluateAll(pattern.patterns, dataset, gid);
-            return mappings.filter(mu1 => {
-                return !omega.some(mu2 => intersect(mu1, mu2));
-            });
-
-        case 'filter':
-            // TODO optimize 'not/exists' filter: stop at first mapping
-            switch (pattern.expression.operator) {
-                case 'exists':
-                    return mappings.filter(mu => {
-                        let p = pattern.expression.args[0];
-                        return evaluate(p, dataset, [mu], gid).length > 0;
-                    });
-
-                case 'notexists':
-                    return mappings.filter(mu => {
-                        let p = pattern.expression.args[0];
-                        return evaluate(p, dataset, [mu], gid).length === 0;
-                    });
-
-                default:
-                    return mappings.filter(mu => {
-                        try {
-                            let bool = utils.evaluate(pattern.expression, mu);
-                            return utils.ebv(bool);
-                        } catch (e) {
-                            if (e instanceof utils.EvaluationError) return false;
-                            else throw e;
+        }
+        const parentNs = parentTag && parentTag.ns ? parentTag.ns : [RdfXmlParser.DEFAULT_NS];
+        return hasNs ? parentNs.concat([thisNs]) : parentNs;
+    }
+    /**
+     * Expand the given term value based on the given namespaces.
+     * @param {string} term A term value.
+     * @param {{[p: string]: string}[]} ns An array of namespaces,
+     *                                     where the last ones have a priority over the first ones.
+     * @param {RdfXmlParser} parser The RDF/XML parser instance.
+     * @return {IExpandedPrefix} An expanded prefix object.
+     */
+    static expandPrefixedTerm(term, ns, parser) {
+        const colonIndex = term.indexOf(':');
+        let prefix;
+        let local;
+        if (colonIndex >= 0) {
+            // Prefix is set
+            prefix = term.substr(0, colonIndex);
+            local = term.substr(colonIndex + 1);
+        }
+        else {
+            // Prefix is not set, fallback to default namespace
+            prefix = '';
+            local = term;
+        }
+        let uri = null;
+        let defaultNamespace = null;
+        for (let i = ns.length - 1; i >= 0; i--) {
+            const nsElement = ns[i][prefix];
+            if (nsElement) {
+                uri = nsElement;
+                break;
+            }
+            else if (!defaultNamespace) {
+                defaultNamespace = ns[i][''];
+            }
+        }
+        if (!uri) {
+            // Error on unbound prefix
+            if (prefix && prefix !== 'xmlns') {
+                throw new ParseError_1.ParseError(parser, `The prefix '${prefix}' in term '${term}' was not bound.`);
+            }
+            // Fallback to default namespace if no match was found
+            uri = defaultNamespace || '';
+        }
+        return { prefix, local, uri };
+    }
+    /**
+     * Check if the given IRI is valid.
+     * @param {string} iri A potential IRI.
+     * @return {boolean} If the given IRI is valid.
+     */
+    static isValidIri(iri) {
+        return RdfXmlParser.IRI_REGEX.test(iri);
+    }
+    /**
+     * Parses the given text stream into a quad stream.
+     * @param {NodeJS.EventEmitter} stream A text stream.
+     * @return {NodeJS.EventEmitter} A quad stream.
+     */
+    import(stream) {
+        const output = new stream_1.PassThrough({ objectMode: true });
+        stream.on('error', (error) => parsed.emit('error', error));
+        stream.on('data', (data) => output.write(data));
+        stream.on('end', () => output.emit('end'));
+        const parsed = output.pipe(new RdfXmlParser(this.options));
+        return parsed;
+    }
+    _transform(chunk, encoding, callback) {
+        try {
+            this.saxStream.write(chunk, encoding);
+        }
+        catch (e) {
+            return callback(e);
+        }
+        callback();
+    }
+    /**
+     * Create a new parse error instance.
+     * @param {string} message An error message.
+     * @return {Error} An error instance.
+     */
+    newParseError(message) {
+        return new ParseError_1.ParseError(this, message);
+    }
+    /**
+     * Convert the given value to a IRI by taking into account the baseIRI.
+     *
+     * This will follow the RDF/XML spec for converting values with baseIRIs to a IRI.
+     *
+     * @param {string} value The value to convert to an IRI.
+     * @param {IActiveTag} activeTag The active tag.
+     * @return {NamedNode} an IRI.
+     */
+    valueToUri(value, activeTag) {
+        return this.uriToNamedNode(relative_to_absolute_iri_1.resolve(value, activeTag.baseIRI));
+    }
+    /**
+     * Convert the given value URI string to a named node.
+     *
+     * This throw an error if the URI is invalid.
+     *
+     * @param {string} uri A URI string.
+     * @return {NamedNode} a named node.
+     */
+    uriToNamedNode(uri) {
+        // Validate URI
+        if (!RdfXmlParser.isValidIri(uri)) {
+            throw this.newParseError(`Invalid URI: ${uri}`);
+        }
+        return this.dataFactory.namedNode(uri);
+    }
+    /**
+     * Validate the given value as an NCName: https://www.w3.org/TR/xml-names/#NT-NCName
+     * If it is invalid, an error will thrown emitted.
+     * @param {string} value A value.
+     */
+    validateNcname(value) {
+        // Validate term as an NCName: https://www.w3.org/TR/xml-names/#NT-NCName
+        if (!RdfXmlParser.NCNAME_MATCHER.test(value)) {
+            throw this.newParseError(`Not a valid NCName: ${value}`);
+        }
+    }
+    attachSaxListeners() {
+        this.saxStream.on('error', (error) => this.emit('error', error));
+        this.saxStream.on('opentag', this.onTag.bind(this));
+        this.saxStream.on('text', this.onText.bind(this));
+        this.saxStream.on('closetag', this.onCloseTag.bind(this));
+        this.saxStream.on('doctype', this.onDoctype.bind(this));
+    }
+    /**
+     * Handle the given tag.
+     * @param {QualifiedTag} tag A SAX tag.
+     */
+    onTag(tag) {
+        // Get parent tag
+        const parentTag = this.activeTagStack.length
+            ? this.activeTagStack[this.activeTagStack.length - 1] : null;
+        let currentParseType = ParseType.RESOURCE;
+        if (parentTag) {
+            parentTag.hadChildren = true;
+            currentParseType = parentTag.childrenParseType;
+        }
+        // Check if this tag needs to be converted to a string
+        if (parentTag && parentTag.childrenStringTags) {
+            // Convert this tag to a string
+            const tagName = tag.name;
+            let attributes = '';
+            for (const attributeKey in tag.attributes) {
+                attributes += ` ${attributeKey}="${tag.attributes[attributeKey]}"`;
+            }
+            const tagContents = `${tagName}${attributes}`;
+            const tagString = `<${tagContents}>`;
+            parentTag.childrenStringTags.push(tagString);
+            // Inherit the array, so that deeper tags are appended to this same array
+            const stringActiveTag = { childrenStringTags: parentTag.childrenStringTags };
+            stringActiveTag.childrenStringEmitClosingTag = `</${tagName}>`;
+            this.activeTagStack.push(stringActiveTag);
+            // Halt any further processing
+            return;
+        }
+        const activeTag = {};
+        if (parentTag) {
+            // Inherit language scope and baseIRI from parent
+            activeTag.language = parentTag.language;
+            activeTag.baseIRI = parentTag.baseIRI;
+        }
+        else {
+            activeTag.baseIRI = this.baseIRI;
+        }
+        this.activeTagStack.push(activeTag);
+        activeTag.ns = RdfXmlParser.parseNamespace(tag, parentTag);
+        if (currentParseType === ParseType.RESOURCE) {
+            this.onTagResource(tag, activeTag, parentTag, !parentTag);
+        }
+        else { // currentParseType === ParseType.PROPERTY
+            this.onTagProperty(tag, activeTag, parentTag);
+        }
+    }
+    /**
+     * Handle the given node element in resource-mode.
+     * @param {QualifiedTag} tag A SAX tag.
+     * @param {IActiveTag} activeTag The currently active tag.
+     * @param {IActiveTag} parentTag The parent tag or null.
+     * @param {boolean} rootTag If we are currently processing the root tag.
+     */
+    onTagResource(tag, activeTag, parentTag, rootTag) {
+        const tagExpanded = RdfXmlParser.expandPrefixedTerm(tag.name, activeTag.ns, this);
+        activeTag.childrenParseType = ParseType.PROPERTY;
+        // Assume that the current node is a _typed_ node (2.13), unless we find an rdf:Description as node name
+        let typedNode = true;
+        if (tagExpanded.uri === RdfXmlParser.RDF) {
+            // Check forbidden property element names
+            if (!rootTag && RdfXmlParser.FORBIDDEN_NODE_ELEMENTS.indexOf(tagExpanded.local) >= 0) {
+                throw this.newParseError(`Illegal node element name: ${tagExpanded.local}`);
+            }
+            switch (tagExpanded.local) {
+                case 'RDF':
+                    // Tags under <rdf:RDF> must always be resources
+                    activeTag.childrenParseType = ParseType.RESOURCE;
+                case 'Description':
+                    typedNode = false;
+            }
+        }
+        const predicates = [];
+        const objects = [];
+        // Collect all attributes as triples
+        // Assign subject value only after all attributes have been processed, because baseIRI may change the final val
+        let activeSubjectValue = null;
+        let claimSubjectNodeId = false;
+        let subjectValueBlank = false;
+        let explicitType = null;
+        for (const attributeKey in tag.attributes) {
+            const attributeValue = tag.attributes[attributeKey];
+            const attributeKeyExpanded = RdfXmlParser.expandPrefixedTerm(attributeKey, activeTag.ns, this);
+            if (parentTag && attributeKeyExpanded.uri === RdfXmlParser.RDF) {
+                switch (attributeKeyExpanded.local) {
+                    case 'about':
+                        if (activeSubjectValue) {
+                            throw this.newParseError(`Only one of rdf:about, rdf:nodeID and rdf:ID can be present, \
+while ${attributeValue} and ${activeSubjectValue} where found.`);
                         }
-                    });
+                        activeSubjectValue = attributeValue;
+                        continue;
+                    case 'ID':
+                        if (activeSubjectValue) {
+                            throw this.newParseError(`Only one of rdf:about, rdf:nodeID and rdf:ID can be present, \
+while ${attributeValue} and ${activeSubjectValue} where found.`);
+                        }
+                        this.validateNcname(attributeValue);
+                        activeSubjectValue = '#' + attributeValue;
+                        claimSubjectNodeId = true;
+                        continue;
+                    case 'nodeID':
+                        if (activeSubjectValue) {
+                            throw this.newParseError(`Only one of rdf:about, rdf:nodeID and rdf:ID can be present, \
+while ${attributeValue} and ${activeSubjectValue} where found.`);
+                        }
+                        this.validateNcname(attributeValue);
+                        activeSubjectValue = attributeValue;
+                        subjectValueBlank = true;
+                        continue;
+                    case 'bagID':
+                        throw this.newParseError(`rdf:bagID is not supported.`);
+                    case 'type':
+                        // Emit the rdf:type later as named node instead of the default literal
+                        explicitType = attributeValue;
+                        continue;
+                    case 'aboutEach':
+                        throw this.newParseError(`rdf:aboutEach is not supported.`);
+                    case 'aboutEachPrefix':
+                        throw this.newParseError(`rdf:aboutEachPrefix is not supported.`);
+                    case 'li':
+                        throw this.newParseError(`rdf:li on node elements are not supported.`);
+                }
             }
-
-        default:
-            throw new Error('Query pattern not supported or unknown');
+            else if (attributeKeyExpanded.uri === RdfXmlParser.XML) {
+                if (attributeKeyExpanded.local === 'lang') {
+                    activeTag.language = attributeValue === '' ? null : attributeValue.toLowerCase();
+                    continue;
+                }
+                else if (attributeKeyExpanded.local === 'base') {
+                    // SAX Parser does not expand xml:base, based on DOCTYPE, so we have to do it manually
+                    activeTag.baseIRI = attributeValue;
+                    continue;
+                }
+            }
+            // Interpret attributes at this point as properties on this node,
+            // but we ignore attributes that have no prefix or known expanded URI
+            if (attributeKeyExpanded.prefix !== 'xml' && attributeKeyExpanded.uri) {
+                predicates.push(this.uriToNamedNode(attributeKeyExpanded.uri + attributeKeyExpanded.local));
+                objects.push(attributeValue);
+            }
+        }
+        // Create the subject value _after_ all attributes have been processed
+        if (activeSubjectValue !== null) {
+            activeTag.subject = subjectValueBlank
+                ? this.dataFactory.blankNode(activeSubjectValue) : this.valueToUri(activeSubjectValue, activeTag);
+            if (claimSubjectNodeId) {
+                this.claimNodeId(activeTag.subject);
+            }
+        }
+        // Force the creation of a subject if it doesn't exist yet
+        if (!activeTag.subject) {
+            activeTag.subject = this.dataFactory.blankNode();
+        }
+        // Emit the type if we're at a typed node
+        if (typedNode) {
+            const type = this.uriToNamedNode(tagExpanded.uri + tagExpanded.local);
+            this.emitTriple(activeTag.subject, this.dataFactory.namedNode(RdfXmlParser.RDF + 'type'), type, parentTag ? parentTag.reifiedStatementId : null);
+        }
+        if (parentTag) {
+            // If the parent tag defined a predicate, add the current tag as property value
+            if (parentTag.predicate) {
+                if (parentTag.childrenCollectionSubject) {
+                    // RDF:List-based properties
+                    const linkTerm = this.dataFactory.blankNode();
+                    // Emit <x> <p> <current-chain> OR <previous-chain> <rdf:rest> <current-chain>
+                    this.emitTriple(parentTag.childrenCollectionSubject, parentTag.childrenCollectionPredicate, linkTerm, parentTag.reifiedStatementId);
+                    // Emit <current-chain> <rdf:first> value
+                    this.emitTriple(linkTerm, this.dataFactory.namedNode(RdfXmlParser.RDF + 'first'), activeTag.subject, activeTag.reifiedStatementId);
+                    // Store <current-chain> in the parent node
+                    parentTag.childrenCollectionSubject = linkTerm;
+                    parentTag.childrenCollectionPredicate = this.dataFactory.namedNode(RdfXmlParser.RDF + 'rest');
+                }
+                else { // !parentTag.predicateEmitted
+                    // Set-based properties
+                    this.emitTriple(parentTag.subject, parentTag.predicate, activeTag.subject, parentTag.reifiedStatementId);
+                    // Emit pending properties on the parent tag that had no defined subject yet.
+                    for (let i = 0; i < parentTag.predicateSubPredicates.length; i++) {
+                        this.emitTriple(activeTag.subject, parentTag.predicateSubPredicates[i], parentTag.predicateSubObjects[i], null);
+                    }
+                    // Cleanup so we don't emit them again when the parent tag is closed
+                    parentTag.predicateSubPredicates = [];
+                    parentTag.predicateSubObjects = [];
+                    parentTag.predicateEmitted = true;
+                }
+            }
+            // Emit all collected triples
+            for (let i = 0; i < predicates.length; i++) {
+                const object = this.dataFactory.literal(objects[i], activeTag.datatype || activeTag.language);
+                this.emitTriple(activeTag.subject, predicates[i], object, parentTag.reifiedStatementId);
+            }
+            // Emit the rdf:type as named node instead of literal
+            if (explicitType) {
+                this.emitTriple(activeTag.subject, this.dataFactory.namedNode(RdfXmlParser.RDF + 'type'), this.uriToNamedNode(explicitType), null);
+            }
+        }
+    }
+    /**
+     * Handle the given property element in property-mode.
+     * @param {QualifiedTag} tag A SAX tag.
+     * @param {IActiveTag} activeTag The currently active tag.
+     * @param {IActiveTag} parentTag The parent tag or null.
+     */
+    onTagProperty(tag, activeTag, parentTag) {
+        const tagExpanded = RdfXmlParser.expandPrefixedTerm(tag.name, activeTag.ns, this);
+        activeTag.childrenParseType = ParseType.RESOURCE;
+        activeTag.subject = parentTag.subject; // Inherit parent subject
+        if (tagExpanded.uri === RdfXmlParser.RDF && tagExpanded.local === 'li') {
+            // Convert rdf:li to rdf:_x
+            if (!parentTag.listItemCounter) {
+                parentTag.listItemCounter = 1;
+            }
+            activeTag.predicate = this.uriToNamedNode(tagExpanded.uri + '_' + parentTag.listItemCounter++);
+        }
+        else {
+            activeTag.predicate = this.uriToNamedNode(tagExpanded.uri + tagExpanded.local);
+        }
+        // Check forbidden property element names
+        if (tagExpanded.uri === RdfXmlParser.RDF
+            && RdfXmlParser.FORBIDDEN_PROPERTY_ELEMENTS.indexOf(tagExpanded.local) >= 0) {
+            throw this.newParseError(`Illegal property element name: ${tagExpanded.local}`);
+        }
+        activeTag.predicateSubPredicates = [];
+        activeTag.predicateSubObjects = [];
+        let parseType = false;
+        let attributedProperty = false;
+        // Collect all attributes as triples
+        // Assign subject value only after all attributes have been processed, because baseIRI may change the final val
+        let activeSubSubjectValue = null;
+        let subSubjectValueBlank = true;
+        const predicates = [];
+        const objects = [];
+        for (const propertyAttributeKey in tag.attributes) {
+            const propertyAttributeValue = tag.attributes[propertyAttributeKey];
+            const propertyAttributeKeyExpanded = RdfXmlParser
+                .expandPrefixedTerm(propertyAttributeKey, activeTag.ns, this);
+            if (propertyAttributeKeyExpanded.uri === RdfXmlParser.RDF) {
+                switch (propertyAttributeKeyExpanded.local) {
+                    case 'resource':
+                        if (activeSubSubjectValue) {
+                            throw this.newParseError(`Found both rdf:resource (${propertyAttributeValue}) and rdf:nodeID (${activeSubSubjectValue}).`);
+                        }
+                        if (parseType) {
+                            throw this.newParseError(`rdf:parseType is not allowed on property elements with rdf:resource (${propertyAttributeValue})`);
+                        }
+                        activeTag.hadChildren = true;
+                        activeSubSubjectValue = propertyAttributeValue;
+                        subSubjectValueBlank = false;
+                        continue;
+                    case 'datatype':
+                        if (attributedProperty) {
+                            throw this.newParseError(`Found both non-rdf:* property attributes and rdf:datatype (${propertyAttributeValue}).`);
+                        }
+                        if (parseType) {
+                            throw this.newParseError(`rdf:parseType is not allowed on property elements with rdf:datatype (${propertyAttributeValue})`);
+                        }
+                        activeTag.datatype = this.valueToUri(propertyAttributeValue, activeTag);
+                        continue;
+                    case 'nodeID':
+                        if (attributedProperty) {
+                            throw this.newParseError(`Found both non-rdf:* property attributes and rdf:nodeID (${propertyAttributeValue}).`);
+                        }
+                        if (activeTag.hadChildren) {
+                            throw this.newParseError(`Found both rdf:resource and rdf:nodeID (${propertyAttributeValue}).`);
+                        }
+                        if (parseType) {
+                            throw this.newParseError(`rdf:parseType is not allowed on property elements with rdf:nodeID (${propertyAttributeValue})`);
+                        }
+                        this.validateNcname(propertyAttributeValue);
+                        activeTag.hadChildren = true;
+                        activeSubSubjectValue = propertyAttributeValue;
+                        subSubjectValueBlank = true;
+                        continue;
+                    case 'bagID':
+                        throw this.newParseError(`rdf:bagID is not supported.`);
+                    case 'parseType':
+                        // Validation
+                        if (attributedProperty) {
+                            throw this.newParseError(`rdf:parseType is not allowed when non-rdf:* property attributes are present`);
+                        }
+                        if (activeTag.datatype) {
+                            throw this.newParseError(`rdf:parseType is not allowed on property elements with rdf:datatype (${activeTag.datatype.value})`);
+                        }
+                        if (activeSubSubjectValue) {
+                            throw this.newParseError(`rdf:parseType is not allowed on property elements with rdf:nodeID or rdf:resource (${activeSubSubjectValue})`);
+                        }
+                        if (propertyAttributeValue === 'Resource') {
+                            parseType = true;
+                            activeTag.childrenParseType = ParseType.PROPERTY;
+                            // Turn this property element into a node element
+                            const nestedBNode = this.dataFactory.blankNode();
+                            this.emitTriple(activeTag.subject, activeTag.predicate, nestedBNode, activeTag.reifiedStatementId);
+                            activeTag.subject = nestedBNode;
+                            activeTag.predicate = null;
+                        }
+                        else if (propertyAttributeValue === 'Collection') {
+                            parseType = true;
+                            // Interpret children as being part of an rdf:List
+                            activeTag.hadChildren = true;
+                            activeTag.childrenCollectionSubject = activeTag.subject;
+                            activeTag.childrenCollectionPredicate = activeTag.predicate;
+                            subSubjectValueBlank = false;
+                        }
+                        else if (propertyAttributeValue === 'Literal') {
+                            parseType = true;
+                            // Interpret children as being part of a literal string
+                            activeTag.childrenTagsToString = true;
+                            activeTag.childrenStringTags = [];
+                        }
+                        continue;
+                    case 'ID':
+                        this.validateNcname(propertyAttributeValue);
+                        activeTag.reifiedStatementId = this.valueToUri('#' + propertyAttributeValue, activeTag);
+                        this.claimNodeId(activeTag.reifiedStatementId);
+                        continue;
+                }
+            }
+            else if (propertyAttributeKeyExpanded.uri === RdfXmlParser.XML
+                && propertyAttributeKeyExpanded.local === 'lang') {
+                activeTag.language = propertyAttributeValue === ''
+                    ? null : propertyAttributeValue.toLowerCase();
+                continue;
+            }
+            // Interpret attributes at this point as properties via implicit blank nodes on the property,
+            // but we ignore attributes that have no prefix or known expanded URI
+            if (propertyAttributeKeyExpanded.prefix !== 'xml' && propertyAttributeKeyExpanded.uri) {
+                if (parseType || activeTag.datatype) {
+                    throw this.newParseError(`Found illegal rdf:* properties on property element with attribute: ${propertyAttributeValue}`);
+                }
+                activeTag.hadChildren = true;
+                attributedProperty = true;
+                predicates.push(this.uriToNamedNode(propertyAttributeKeyExpanded.uri + propertyAttributeKeyExpanded.local));
+                objects.push(this.dataFactory.literal(propertyAttributeValue, activeTag.datatype || activeTag.language));
+            }
+        }
+        // Create the subject value _after_ all attributes have been processed
+        if (activeSubSubjectValue !== null) {
+            const subjectParent = activeTag.subject;
+            activeTag.subject = subSubjectValueBlank
+                ? this.dataFactory.blankNode(activeSubSubjectValue) : this.valueToUri(activeSubSubjectValue, activeTag);
+            this.emitTriple(subjectParent, activeTag.predicate, activeTag.subject, activeTag.reifiedStatementId);
+            // Emit our buffered triples
+            for (let i = 0; i < predicates.length; i++) {
+                this.emitTriple(activeTag.subject, predicates[i], objects[i], null);
+            }
+            activeTag.predicateEmitted = true;
+        }
+        else if (subSubjectValueBlank) {
+            // The current property element has no defined subject
+            // Let's buffer the properties until the child node defines a subject,
+            // or if the tag closes.
+            activeTag.predicateSubPredicates = predicates;
+            activeTag.predicateSubObjects = objects;
+            activeTag.predicateEmitted = false;
+        }
+    }
+    /**
+     * Emit the given triple to the stream.
+     * @param {Term} subject A subject term.
+     * @param {Term} predicate A predicate term.
+     * @param {Term} object An object term.
+     * @param {Term} statementId An optional resource that identifies the triple.
+     *                           If truthy, then the given triple will also be emitted reified.
+     */
+    emitTriple(subject, predicate, object, statementId) {
+        this.push(this.dataFactory.quad(subject, predicate, object, this.defaultGraph));
+        // Reify triple
+        if (statementId) {
+            this.push(this.dataFactory.quad(statementId, this.dataFactory.namedNode(RdfXmlParser.RDF + 'type'), this.dataFactory.namedNode(RdfXmlParser.RDF + 'Statement'), this.defaultGraph));
+            this.push(this.dataFactory.quad(statementId, this.dataFactory.namedNode(RdfXmlParser.RDF + 'subject'), subject, this.defaultGraph));
+            this.push(this.dataFactory.quad(statementId, this.dataFactory.namedNode(RdfXmlParser.RDF + 'predicate'), predicate, this.defaultGraph));
+            this.push(this.dataFactory.quad(statementId, this.dataFactory.namedNode(RdfXmlParser.RDF + 'object'), object, this.defaultGraph));
+        }
+    }
+    /**
+     * Register the given term as a node ID.
+     * If one was already registered, this will emit an error.
+     *
+     * This is used to check duplicate occurrences of rdf:ID in scope of the baseIRI.
+     * @param {Term} term An RDF term.
+     */
+    claimNodeId(term) {
+        if (!this.allowDuplicateRdfIds) {
+            if (this.nodeIds[term.value]) {
+                throw this.newParseError(`Found multiple occurrences of rdf:ID='${term.value}'.`);
+            }
+            this.nodeIds[term.value] = true;
+        }
+    }
+    /**
+     * Handle the given text string.
+     * @param {string} text A parsed text string.
+     */
+    onText(text) {
+        const activeTag = this.activeTagStack.length
+            ? this.activeTagStack[this.activeTagStack.length - 1] : null;
+        if (activeTag) {
+            if (activeTag.childrenStringTags) {
+                activeTag.childrenStringTags.push(text);
+            }
+            else if (activeTag.predicate) {
+                activeTag.text = text;
+            }
+        }
+    }
+    /**
+     * Handle the closing of the last tag.
+     */
+    onCloseTag() {
+        const poppedTag = this.activeTagStack.pop();
+        // If we were converting a tag to a string, and the tag was not self-closing, close it here.
+        if (poppedTag.childrenStringEmitClosingTag) {
+            poppedTag.childrenStringTags.push(poppedTag.childrenStringEmitClosingTag);
+        }
+        // Set the literal value if we were collecting XML tags to string
+        if (poppedTag.childrenTagsToString) {
+            poppedTag.datatype = this.dataFactory.namedNode(RdfXmlParser.RDF + 'XMLLiteral');
+            poppedTag.text = poppedTag.childrenStringTags.join('');
+            poppedTag.hadChildren = false; // Force a literal triple to be emitted hereafter
+        }
+        if (poppedTag.childrenCollectionSubject) {
+            // Terminate the rdf:List
+            this.emitTriple(poppedTag.childrenCollectionSubject, poppedTag.childrenCollectionPredicate, this.dataFactory.namedNode(RdfXmlParser.RDF + 'nil'), poppedTag.reifiedStatementId);
+        }
+        else if (poppedTag.predicate) {
+            if (!poppedTag.hadChildren && poppedTag.childrenParseType !== ParseType.PROPERTY) {
+                // Property element contains text
+                this.emitTriple(poppedTag.subject, poppedTag.predicate, this.dataFactory.literal(poppedTag.text || '', poppedTag.datatype || poppedTag.language), poppedTag.reifiedStatementId);
+            }
+            else if (!poppedTag.predicateEmitted) {
+                // Emit remaining properties on an anonymous property element
+                const subject = this.dataFactory.blankNode();
+                this.emitTriple(poppedTag.subject, poppedTag.predicate, subject, poppedTag.reifiedStatementId);
+                for (let i = 0; i < poppedTag.predicateSubPredicates.length; i++) {
+                    this.emitTriple(subject, poppedTag.predicateSubPredicates[i], poppedTag.predicateSubObjects[i], null);
+                }
+            }
+        }
+    }
+    /**
+     * Fetch local DOCTYPE ENTITY's and make the parser recognise them.
+     * @param {string} doctype The read doctype.
+     */
+    onDoctype(doctype) {
+        doctype.replace(/<!ENTITY\s+([^\s]+)\s+["']([^"']+)["']\s*>/g, (match, prefix, uri) => {
+            this.saxStream._parser.ENTITIES[prefix] = uri;
+            return '';
+        });
     }
 }
+// Regex for valid IRIs
+RdfXmlParser.IRI_REGEX = /^([A-Za-z][A-Za-z0-9+-.]*):[^ "<>{}|\\\[\]`]*$/;
+RdfXmlParser.MIME_TYPE = 'application/rdf+xml';
+RdfXmlParser.RDF = 'http://www.w3.org/1999/02/22-rdf-syntax-ns#';
+RdfXmlParser.XML = 'http://www.w3.org/XML/1998/namespace';
+RdfXmlParser.XMLNS = 'http://www.w3.org/2000/xmlns/';
+RdfXmlParser.DEFAULT_NS = {
+    xml: RdfXmlParser.XML,
+};
+RdfXmlParser.FORBIDDEN_NODE_ELEMENTS = [
+    'RDF',
+    'ID',
+    'about',
+    'bagID',
+    'parseType',
+    'resource',
+    'nodeID',
+    'li',
+    'aboutEach',
+    'aboutEachPrefix',
+];
+RdfXmlParser.FORBIDDEN_PROPERTY_ELEMENTS = [
+    'Description',
+    'RDF',
+    'ID',
+    'about',
+    'bagID',
+    'parseType',
+    'resource',
+    'nodeID',
+    'aboutEach',
+    'aboutEachPrefix',
+];
+// tslint:disable-next-line:max-line-length
+RdfXmlParser.NCNAME_MATCHER = /^([A-Za-z\xC0-\xD6\xD8-\xF6\u{F8}-\u{2FF}\u{370}-\u{37D}\u{37F}-\u{1FFF}\u{200C}-\u{200D}\u{2070}-\u{218F}\u{2C00}-\u{2FEF}\u{3001}-\u{D7FF}\u{F900}-\u{FDCF}\u{FDF0}-\u{FFFD}\u{10000}-\u{EFFFF}_])([A-Za-z\xC0-\xD6\xD8-\xF6\u{F8}-\u{2FF}\u{370}-\u{37D}\u{37F}-\u{1FFF}\u{200C}-\u{200D}\u{2070}-\u{218F}\u{2C00}-\u{2FEF}\u{3001}-\u{D7FF}\u{F900}-\u{FDCF}\u{FDF0}-\u{FFFD}\u{10000}-\u{EFFFF}_\-.0-9#xB7\u{0300}-\u{036F}\u{203F}-\u{2040}])*$/u;
+exports.RdfXmlParser = RdfXmlParser;
+var ParseType;
+(function (ParseType) {
+    ParseType[ParseType["RESOURCE"] = 0] = "RESOURCE";
+    ParseType[ParseType["PROPERTY"] = 1] = "PROPERTY";
+})(ParseType = exports.ParseType || (exports.ParseType = {}));
 
+},{"./ParseError":173,"@rdfjs/data-model":32,"relative-to-absolute-iri":175,"sax":177,"stream":28}],175:[function(require,module,exports){
+"use strict";
+function __export(m) {
+    for (var p in m) if (!exports.hasOwnProperty(p)) exports[p] = m[p];
+}
+Object.defineProperty(exports, "__esModule", { value: true });
+__export(require("./lib/Resolve"));
+
+},{"./lib/Resolve":176}],176:[function(require,module,exports){
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
 /**
- * Projects input mappings onto the given variables.
- * 
- * @param {array} vars a list of variables (starting with '?') or expressions with binding
- * @param {array} mappings a list of mappings
+ * Convert the given relative IRI to an absolute IRI
+ * by taking into account the given optional baseIRI.
+ *
+ * @param {string} relativeIRI The relative IRI to convert to an absolute IRI.
+ * @param {string} baseIRI The optional base IRI.
+ * @return {string} an absolute IRI.
  */
-function project(vars, mappings) {
-    if (vars.some(v => v === '*')) return mappings;
+function resolve(relativeIRI, baseIRI) {
+    baseIRI = baseIRI || '';
+    const baseFragmentPos = baseIRI.indexOf('#');
+    // Ignore any fragments in the base IRI
+    if (baseFragmentPos > 0) {
+        baseIRI = baseIRI.substr(0, baseFragmentPos);
+    }
+    // Convert empty value directly to base IRI
+    if (!relativeIRI.length) {
+        return baseIRI;
+    }
+    // If the value starts with a query character, concat directly (but strip the existing query)
+    if (relativeIRI.startsWith('?')) {
+        const baseQueryPos = baseIRI.indexOf('?');
+        if (baseQueryPos > 0) {
+            baseIRI = baseIRI.substr(0, baseQueryPos);
+        }
+        return baseIRI + relativeIRI;
+    }
+    // If the value starts with a fragment character, concat directly
+    if (relativeIRI.startsWith('#')) {
+        return baseIRI + relativeIRI;
+    }
+    // Ignore baseIRI if it is empty
+    if (!baseIRI.length) {
+        return removeDotSegmentsOfPath(relativeIRI, relativeIRI.indexOf(':'));
+    }
+    // Ignore baseIRI if the value is absolute
+    const valueColonPos = relativeIRI.indexOf(':');
+    if (valueColonPos >= 0) {
+        return removeDotSegmentsOfPath(relativeIRI, valueColonPos);
+    }
+    // At this point, the baseIRI MUST be absolute, otherwise we error
+    const baseColonPos = baseIRI.indexOf(':');
+    if (baseColonPos < 0) {
+        throw new Error(`Found invalid baseIRI '${baseIRI}' for value '${relativeIRI}'`);
+    }
+    const baseIRIScheme = baseIRI.substr(0, baseColonPos + 1);
+    // Inherit the baseIRI scheme if the value starts with '//'
+    if (relativeIRI.indexOf('//') === 0) {
+        return baseIRIScheme + removeDotSegmentsOfPath(relativeIRI, valueColonPos);
+    }
+    // Check cases where '://' occurs in the baseIRI, and where there is no '/' after a ':' anymore.
+    let baseSlashAfterColonPos;
+    if (baseIRI.indexOf('//', baseColonPos) === baseColonPos + 1) {
+        // If there is no additional '/' after the '//'.
+        baseSlashAfterColonPos = baseIRI.indexOf('/', baseColonPos + 3);
+        if (baseSlashAfterColonPos < 0) {
+            // If something other than a '/' follows the '://', append the value after a '/',
+            // otherwise, prefix the value with only the baseIRI scheme.
+            if (baseIRI.length > baseColonPos + 3) {
+                return baseIRI + '/' + removeDotSegmentsOfPath(relativeIRI, valueColonPos);
+            }
+            else {
+                return baseIRIScheme + removeDotSegmentsOfPath(relativeIRI, valueColonPos);
+            }
+        }
+    }
+    else {
+        // If there is not even a single '/' after the ':'
+        baseSlashAfterColonPos = baseIRI.indexOf('/', baseColonPos + 1);
+        if (baseSlashAfterColonPos < 0) {
+            // If we don't have a '/' after the ':',
+            // prefix the value with only the baseIRI scheme.
+            return baseIRIScheme + removeDotSegmentsOfPath(relativeIRI, valueColonPos);
+        }
+    }
+    // If the value starts with a '/', then prefix it with everything before the first effective slash of the base IRI.
+    if (relativeIRI.indexOf('/') === 0) {
+        return baseIRI.substr(0, baseSlashAfterColonPos) + removeDotSegments(relativeIRI);
+    }
+    let baseIRIPath = baseIRI.substr(baseSlashAfterColonPos);
+    const baseIRILastSlashPos = baseIRIPath.lastIndexOf('/');
+    // Ignore everything after the last '/' in the baseIRI path
+    if (baseIRILastSlashPos >= 0 && baseIRILastSlashPos < baseIRIPath.length - 1) {
+        baseIRIPath = baseIRIPath.substr(0, baseIRILastSlashPos + 1);
+        // Also remove the first character of the relative path if it starts with '.' (and not '..' or './')
+        // This change is only allowed if there is something else following the path
+        if (relativeIRI[0] === '.' && relativeIRI[1] !== '.' && relativeIRI[1] !== '/' && relativeIRI[2]) {
+            relativeIRI = relativeIRI.substr(1);
+        }
+    }
+    // Prefix the value with the baseIRI path where
+    relativeIRI = baseIRIPath + relativeIRI;
+    // Remove dot segment from the IRI
+    relativeIRI = removeDotSegments(relativeIRI);
+    // Prefix our transformed value with the part of the baseIRI until the first '/' after the first ':'.
+    return baseIRI.substr(0, baseSlashAfterColonPos) + relativeIRI;
+}
+exports.resolve = resolve;
+/**
+ * Remove dot segments from the given path,
+ * as described in https://www.ietf.org/rfc/rfc3986.txt (page 32).
+ * @param {string} path An IRI path.
+ * @return {string} A path, will always start with a '/'.
+ */
+function removeDotSegments(path) {
+    // Prepare a buffer with segments between each '/.
+    // Each segment represents an array of characters.
+    const segmentBuffers = [];
+    let i = 0;
+    while (i < path.length) {
+        // Remove '/.' or '/..'
+        switch (path[i]) {
+            case '/':
+                if (path[i + 1] === '.') {
+                    if (path[i + 2] === '.') {
+                        // Start a new segment if we find an invalid character after the '.'
+                        if (!isCharacterAllowedAfterRelativePathSegment(path[i + 3])) {
+                            segmentBuffers.push([]);
+                            i++;
+                            break;
+                        }
+                        // Go to parent directory,
+                        // so we remove a parent segment
+                        segmentBuffers.pop();
+                        // Ensure that we end with a slash if there is a trailing '/..'
+                        if (!path[i + 3]) {
+                            segmentBuffers.push([]);
+                        }
+                        i += 3;
+                    }
+                    else {
+                        // Start a new segment if we find an invalid character after the '.'
+                        if (!isCharacterAllowedAfterRelativePathSegment(path[i + 2])) {
+                            segmentBuffers.push([]);
+                            i++;
+                            break;
+                        }
+                        // Ensure that we end with a slash if there is a trailing '/.'
+                        if (!path[i + 2]) {
+                            segmentBuffers.push([]);
+                        }
+                        // Go to the current directory,
+                        // so we do nothing
+                        i += 2;
+                    }
+                }
+                else {
+                    // Start a new segment
+                    segmentBuffers.push([]);
+                    i++;
+                }
+                break;
+            case '#':
+            case '?':
+                // Query and fragment string should be appended unchanged
+                if (!segmentBuffers.length) {
+                    segmentBuffers.push([]);
+                }
+                segmentBuffers[segmentBuffers.length - 1].push(path.substr(i));
+                // Break the while loop
+                i = path.length;
+                break;
+            default:
+                // Not a special character, just append it to our buffer
+                if (!segmentBuffers.length) {
+                    segmentBuffers.push([]);
+                }
+                segmentBuffers[segmentBuffers.length - 1].push(path[i]);
+                i++;
+                break;
+        }
+    }
+    return '/' + segmentBuffers.map((buffer) => buffer.join('')).join('/');
+}
+exports.removeDotSegments = removeDotSegments;
+/**
+ * Removes dot segments of the given IRI.
+ * @param {string} iri An IRI (or part of IRI).
+ * @param {number} colonPosition The position of the first ':' in the IRI.
+ * @return {string} The IRI where dot segments were removed.
+ */
+function removeDotSegmentsOfPath(iri, colonPosition) {
+    // Determine where we should start looking for the first '/' that indicates the start of the path
+    let searchOffset = colonPosition + 1;
+    if (colonPosition >= 0) {
+        if (iri[colonPosition + 1] === '/' && iri[colonPosition + 2] === '/') {
+            searchOffset = colonPosition + 3;
+        }
+    }
+    else {
+        if (iri[0] === '/' && iri[1] === '/') {
+            searchOffset = 2;
+        }
+    }
+    // Determine the path
+    const pathSeparator = iri.indexOf('/', searchOffset);
+    if (pathSeparator < 0) {
+        return iri;
+    }
+    const base = iri.substr(0, pathSeparator);
+    const path = iri.substr(pathSeparator);
+    // Remove dot segments from the path
+    return base + removeDotSegments(path);
+}
+exports.removeDotSegmentsOfPath = removeDotSegmentsOfPath;
+function isCharacterAllowedAfterRelativePathSegment(character) {
+    return !character || character === '#' || character === '?' || character === '/';
+}
 
-    let names = vars.map(name);
+},{}],177:[function(require,module,exports){
+(function (Buffer){
+;(function (sax) { // wrapper for non-node envs
+  sax.parser = function (strict, opt) { return new SAXParser(strict, opt) }
+  sax.SAXParser = SAXParser
+  sax.SAXStream = SAXStream
+  sax.createStream = createStream
 
-    return mappings.map(mu1 => {
-        let mu2 = {};
+  // When we pass the MAX_BUFFER_LENGTH position, start checking for buffer overruns.
+  // When we check, schedule the next check for MAX_BUFFER_LENGTH - (max(buffer lengths)),
+  // since that's the earliest that a buffer overrun could occur.  This way, checks are
+  // as rare as required, but as often as necessary to ensure never crossing this bound.
+  // Furthermore, buffers are only tested at most once per write(), so passing a very
+  // large string into write() might have undesirable effects, but this is manageable by
+  // the caller, so it is assumed to be safe.  Thus, a call to write() may, in the extreme
+  // edge case, result in creating at most one complete copy of the string passed in.
+  // Set to Infinity to have unlimited buffers.
+  sax.MAX_BUFFER_LENGTH = 64 * 1024
 
-        for (let n in mu1) {
-            if (names.indexOf(n) > -1) mu2[n] = mu1[n];
+  var buffers = [
+    'comment', 'sgmlDecl', 'textNode', 'tagName', 'doctype',
+    'procInstName', 'procInstBody', 'entity', 'attribName',
+    'attribValue', 'cdata', 'script'
+  ]
+
+  sax.EVENTS = [
+    'text',
+    'processinginstruction',
+    'sgmldeclaration',
+    'doctype',
+    'comment',
+    'opentagstart',
+    'attribute',
+    'opentag',
+    'closetag',
+    'opencdata',
+    'cdata',
+    'closecdata',
+    'error',
+    'end',
+    'ready',
+    'script',
+    'opennamespace',
+    'closenamespace'
+  ]
+
+  function SAXParser (strict, opt) {
+    if (!(this instanceof SAXParser)) {
+      return new SAXParser(strict, opt)
+    }
+
+    var parser = this
+    clearBuffers(parser)
+    parser.q = parser.c = ''
+    parser.bufferCheckPosition = sax.MAX_BUFFER_LENGTH
+    parser.opt = opt || {}
+    parser.opt.lowercase = parser.opt.lowercase || parser.opt.lowercasetags
+    parser.looseCase = parser.opt.lowercase ? 'toLowerCase' : 'toUpperCase'
+    parser.tags = []
+    parser.closed = parser.closedRoot = parser.sawRoot = false
+    parser.tag = parser.error = null
+    parser.strict = !!strict
+    parser.noscript = !!(strict || parser.opt.noscript)
+    parser.state = S.BEGIN
+    parser.strictEntities = parser.opt.strictEntities
+    parser.ENTITIES = parser.strictEntities ? Object.create(sax.XML_ENTITIES) : Object.create(sax.ENTITIES)
+    parser.attribList = []
+
+    // namespaces form a prototype chain.
+    // it always points at the current tag,
+    // which protos to its parent tag.
+    if (parser.opt.xmlns) {
+      parser.ns = Object.create(rootNS)
+    }
+
+    // mostly just for error reporting
+    parser.trackPosition = parser.opt.position !== false
+    if (parser.trackPosition) {
+      parser.position = parser.line = parser.column = 0
+    }
+    emit(parser, 'onready')
+  }
+
+  if (!Object.create) {
+    Object.create = function (o) {
+      function F () {}
+      F.prototype = o
+      var newf = new F()
+      return newf
+    }
+  }
+
+  if (!Object.keys) {
+    Object.keys = function (o) {
+      var a = []
+      for (var i in o) if (o.hasOwnProperty(i)) a.push(i)
+      return a
+    }
+  }
+
+  function checkBufferLength (parser) {
+    var maxAllowed = Math.max(sax.MAX_BUFFER_LENGTH, 10)
+    var maxActual = 0
+    for (var i = 0, l = buffers.length; i < l; i++) {
+      var len = parser[buffers[i]].length
+      if (len > maxAllowed) {
+        // Text/cdata nodes can get big, and since they're buffered,
+        // we can get here under normal conditions.
+        // Avoid issues by emitting the text node now,
+        // so at least it won't get any bigger.
+        switch (buffers[i]) {
+          case 'textNode':
+            closeText(parser)
+            break
+
+          case 'cdata':
+            emitNode(parser, 'oncdata', parser.cdata)
+            parser.cdata = ''
+            break
+
+          case 'script':
+            emitNode(parser, 'onscript', parser.script)
+            parser.script = ''
+            break
+
+          default:
+            error(parser, 'Max buffer length exceeded: ' + buffers[i])
+        }
+      }
+      maxActual = Math.max(maxActual, len)
+    }
+    // schedule the next check for the earliest possible buffer overrun.
+    var m = sax.MAX_BUFFER_LENGTH - maxActual
+    parser.bufferCheckPosition = m + parser.position
+  }
+
+  function clearBuffers (parser) {
+    for (var i = 0, l = buffers.length; i < l; i++) {
+      parser[buffers[i]] = ''
+    }
+  }
+
+  function flushBuffers (parser) {
+    closeText(parser)
+    if (parser.cdata !== '') {
+      emitNode(parser, 'oncdata', parser.cdata)
+      parser.cdata = ''
+    }
+    if (parser.script !== '') {
+      emitNode(parser, 'onscript', parser.script)
+      parser.script = ''
+    }
+  }
+
+  SAXParser.prototype = {
+    end: function () { end(this) },
+    write: write,
+    resume: function () { this.error = null; return this },
+    close: function () { return this.write(null) },
+    flush: function () { flushBuffers(this) }
+  }
+
+  var Stream
+  try {
+    Stream = require('stream').Stream
+  } catch (ex) {
+    Stream = function () {}
+  }
+
+  var streamWraps = sax.EVENTS.filter(function (ev) {
+    return ev !== 'error' && ev !== 'end'
+  })
+
+  function createStream (strict, opt) {
+    return new SAXStream(strict, opt)
+  }
+
+  function SAXStream (strict, opt) {
+    if (!(this instanceof SAXStream)) {
+      return new SAXStream(strict, opt)
+    }
+
+    Stream.apply(this)
+
+    this._parser = new SAXParser(strict, opt)
+    this.writable = true
+    this.readable = true
+
+    var me = this
+
+    this._parser.onend = function () {
+      me.emit('end')
+    }
+
+    this._parser.onerror = function (er) {
+      me.emit('error', er)
+
+      // if didn't throw, then means error was handled.
+      // go ahead and clear error, so we can write again.
+      me._parser.error = null
+    }
+
+    this._decoder = null
+
+    streamWraps.forEach(function (ev) {
+      Object.defineProperty(me, 'on' + ev, {
+        get: function () {
+          return me._parser['on' + ev]
+        },
+        set: function (h) {
+          if (!h) {
+            me.removeAllListeners(ev)
+            me._parser['on' + ev] = h
+            return h
+          }
+          me.on(ev, h)
+        },
+        enumerable: true,
+        configurable: false
+      })
+    })
+  }
+
+  SAXStream.prototype = Object.create(Stream.prototype, {
+    constructor: {
+      value: SAXStream
+    }
+  })
+
+  SAXStream.prototype.write = function (data) {
+    if (typeof Buffer === 'function' &&
+      typeof Buffer.isBuffer === 'function' &&
+      Buffer.isBuffer(data)) {
+      if (!this._decoder) {
+        var SD = require('string_decoder').StringDecoder
+        this._decoder = new SD('utf8')
+      }
+      data = this._decoder.write(data)
+    }
+
+    this._parser.write(data.toString())
+    this.emit('data', data)
+    return true
+  }
+
+  SAXStream.prototype.end = function (chunk) {
+    if (chunk && chunk.length) {
+      this.write(chunk)
+    }
+    this._parser.end()
+    return true
+  }
+
+  SAXStream.prototype.on = function (ev, handler) {
+    var me = this
+    if (!me._parser['on' + ev] && streamWraps.indexOf(ev) !== -1) {
+      me._parser['on' + ev] = function () {
+        var args = arguments.length === 1 ? [arguments[0]] : Array.apply(null, arguments)
+        args.splice(0, 0, ev)
+        me.emit.apply(me, args)
+      }
+    }
+
+    return Stream.prototype.on.call(me, ev, handler)
+  }
+
+  // this really needs to be replaced with character classes.
+  // XML allows all manner of ridiculous numbers and digits.
+  var CDATA = '[CDATA['
+  var DOCTYPE = 'DOCTYPE'
+  var XML_NAMESPACE = 'http://www.w3.org/XML/1998/namespace'
+  var XMLNS_NAMESPACE = 'http://www.w3.org/2000/xmlns/'
+  var rootNS = { xml: XML_NAMESPACE, xmlns: XMLNS_NAMESPACE }
+
+  // http://www.w3.org/TR/REC-xml/#NT-NameStartChar
+  // This implementation works on strings, a single character at a time
+  // as such, it cannot ever support astral-plane characters (10000-EFFFF)
+  // without a significant breaking change to either this  parser, or the
+  // JavaScript language.  Implementation of an emoji-capable xml parser
+  // is left as an exercise for the reader.
+  var nameStart = /[:_A-Za-z\u00C0-\u00D6\u00D8-\u00F6\u00F8-\u02FF\u0370-\u037D\u037F-\u1FFF\u200C-\u200D\u2070-\u218F\u2C00-\u2FEF\u3001-\uD7FF\uF900-\uFDCF\uFDF0-\uFFFD]/
+
+  var nameBody = /[:_A-Za-z\u00C0-\u00D6\u00D8-\u00F6\u00F8-\u02FF\u0370-\u037D\u037F-\u1FFF\u200C-\u200D\u2070-\u218F\u2C00-\u2FEF\u3001-\uD7FF\uF900-\uFDCF\uFDF0-\uFFFD\u00B7\u0300-\u036F\u203F-\u2040.\d-]/
+
+  var entityStart = /[#:_A-Za-z\u00C0-\u00D6\u00D8-\u00F6\u00F8-\u02FF\u0370-\u037D\u037F-\u1FFF\u200C-\u200D\u2070-\u218F\u2C00-\u2FEF\u3001-\uD7FF\uF900-\uFDCF\uFDF0-\uFFFD]/
+  var entityBody = /[#:_A-Za-z\u00C0-\u00D6\u00D8-\u00F6\u00F8-\u02FF\u0370-\u037D\u037F-\u1FFF\u200C-\u200D\u2070-\u218F\u2C00-\u2FEF\u3001-\uD7FF\uF900-\uFDCF\uFDF0-\uFFFD\u00B7\u0300-\u036F\u203F-\u2040.\d-]/
+
+  function isWhitespace (c) {
+    return c === ' ' || c === '\n' || c === '\r' || c === '\t'
+  }
+
+  function isQuote (c) {
+    return c === '"' || c === '\''
+  }
+
+  function isAttribEnd (c) {
+    return c === '>' || isWhitespace(c)
+  }
+
+  function isMatch (regex, c) {
+    return regex.test(c)
+  }
+
+  function notMatch (regex, c) {
+    return !isMatch(regex, c)
+  }
+
+  var S = 0
+  sax.STATE = {
+    BEGIN: S++, // leading byte order mark or whitespace
+    BEGIN_WHITESPACE: S++, // leading whitespace
+    TEXT: S++, // general stuff
+    TEXT_ENTITY: S++, // &amp and such.
+    OPEN_WAKA: S++, // <
+    SGML_DECL: S++, // <!BLARG
+    SGML_DECL_QUOTED: S++, // <!BLARG foo "bar
+    DOCTYPE: S++, // <!DOCTYPE
+    DOCTYPE_QUOTED: S++, // <!DOCTYPE "//blah
+    DOCTYPE_DTD: S++, // <!DOCTYPE "//blah" [ ...
+    DOCTYPE_DTD_QUOTED: S++, // <!DOCTYPE "//blah" [ "foo
+    COMMENT_STARTING: S++, // <!-
+    COMMENT: S++, // <!--
+    COMMENT_ENDING: S++, // <!-- blah -
+    COMMENT_ENDED: S++, // <!-- blah --
+    CDATA: S++, // <![CDATA[ something
+    CDATA_ENDING: S++, // ]
+    CDATA_ENDING_2: S++, // ]]
+    PROC_INST: S++, // <?hi
+    PROC_INST_BODY: S++, // <?hi there
+    PROC_INST_ENDING: S++, // <?hi "there" ?
+    OPEN_TAG: S++, // <strong
+    OPEN_TAG_SLASH: S++, // <strong /
+    ATTRIB: S++, // <a
+    ATTRIB_NAME: S++, // <a foo
+    ATTRIB_NAME_SAW_WHITE: S++, // <a foo _
+    ATTRIB_VALUE: S++, // <a foo=
+    ATTRIB_VALUE_QUOTED: S++, // <a foo="bar
+    ATTRIB_VALUE_CLOSED: S++, // <a foo="bar"
+    ATTRIB_VALUE_UNQUOTED: S++, // <a foo=bar
+    ATTRIB_VALUE_ENTITY_Q: S++, // <foo bar="&quot;"
+    ATTRIB_VALUE_ENTITY_U: S++, // <foo bar=&quot
+    CLOSE_TAG: S++, // </a
+    CLOSE_TAG_SAW_WHITE: S++, // </a   >
+    SCRIPT: S++, // <script> ...
+    SCRIPT_ENDING: S++ // <script> ... <
+  }
+
+  sax.XML_ENTITIES = {
+    'amp': '&',
+    'gt': '>',
+    'lt': '<',
+    'quot': '"',
+    'apos': "'"
+  }
+
+  sax.ENTITIES = {
+    'amp': '&',
+    'gt': '>',
+    'lt': '<',
+    'quot': '"',
+    'apos': "'",
+    'AElig': 198,
+    'Aacute': 193,
+    'Acirc': 194,
+    'Agrave': 192,
+    'Aring': 197,
+    'Atilde': 195,
+    'Auml': 196,
+    'Ccedil': 199,
+    'ETH': 208,
+    'Eacute': 201,
+    'Ecirc': 202,
+    'Egrave': 200,
+    'Euml': 203,
+    'Iacute': 205,
+    'Icirc': 206,
+    'Igrave': 204,
+    'Iuml': 207,
+    'Ntilde': 209,
+    'Oacute': 211,
+    'Ocirc': 212,
+    'Ograve': 210,
+    'Oslash': 216,
+    'Otilde': 213,
+    'Ouml': 214,
+    'THORN': 222,
+    'Uacute': 218,
+    'Ucirc': 219,
+    'Ugrave': 217,
+    'Uuml': 220,
+    'Yacute': 221,
+    'aacute': 225,
+    'acirc': 226,
+    'aelig': 230,
+    'agrave': 224,
+    'aring': 229,
+    'atilde': 227,
+    'auml': 228,
+    'ccedil': 231,
+    'eacute': 233,
+    'ecirc': 234,
+    'egrave': 232,
+    'eth': 240,
+    'euml': 235,
+    'iacute': 237,
+    'icirc': 238,
+    'igrave': 236,
+    'iuml': 239,
+    'ntilde': 241,
+    'oacute': 243,
+    'ocirc': 244,
+    'ograve': 242,
+    'oslash': 248,
+    'otilde': 245,
+    'ouml': 246,
+    'szlig': 223,
+    'thorn': 254,
+    'uacute': 250,
+    'ucirc': 251,
+    'ugrave': 249,
+    'uuml': 252,
+    'yacute': 253,
+    'yuml': 255,
+    'copy': 169,
+    'reg': 174,
+    'nbsp': 160,
+    'iexcl': 161,
+    'cent': 162,
+    'pound': 163,
+    'curren': 164,
+    'yen': 165,
+    'brvbar': 166,
+    'sect': 167,
+    'uml': 168,
+    'ordf': 170,
+    'laquo': 171,
+    'not': 172,
+    'shy': 173,
+    'macr': 175,
+    'deg': 176,
+    'plusmn': 177,
+    'sup1': 185,
+    'sup2': 178,
+    'sup3': 179,
+    'acute': 180,
+    'micro': 181,
+    'para': 182,
+    'middot': 183,
+    'cedil': 184,
+    'ordm': 186,
+    'raquo': 187,
+    'frac14': 188,
+    'frac12': 189,
+    'frac34': 190,
+    'iquest': 191,
+    'times': 215,
+    'divide': 247,
+    'OElig': 338,
+    'oelig': 339,
+    'Scaron': 352,
+    'scaron': 353,
+    'Yuml': 376,
+    'fnof': 402,
+    'circ': 710,
+    'tilde': 732,
+    'Alpha': 913,
+    'Beta': 914,
+    'Gamma': 915,
+    'Delta': 916,
+    'Epsilon': 917,
+    'Zeta': 918,
+    'Eta': 919,
+    'Theta': 920,
+    'Iota': 921,
+    'Kappa': 922,
+    'Lambda': 923,
+    'Mu': 924,
+    'Nu': 925,
+    'Xi': 926,
+    'Omicron': 927,
+    'Pi': 928,
+    'Rho': 929,
+    'Sigma': 931,
+    'Tau': 932,
+    'Upsilon': 933,
+    'Phi': 934,
+    'Chi': 935,
+    'Psi': 936,
+    'Omega': 937,
+    'alpha': 945,
+    'beta': 946,
+    'gamma': 947,
+    'delta': 948,
+    'epsilon': 949,
+    'zeta': 950,
+    'eta': 951,
+    'theta': 952,
+    'iota': 953,
+    'kappa': 954,
+    'lambda': 955,
+    'mu': 956,
+    'nu': 957,
+    'xi': 958,
+    'omicron': 959,
+    'pi': 960,
+    'rho': 961,
+    'sigmaf': 962,
+    'sigma': 963,
+    'tau': 964,
+    'upsilon': 965,
+    'phi': 966,
+    'chi': 967,
+    'psi': 968,
+    'omega': 969,
+    'thetasym': 977,
+    'upsih': 978,
+    'piv': 982,
+    'ensp': 8194,
+    'emsp': 8195,
+    'thinsp': 8201,
+    'zwnj': 8204,
+    'zwj': 8205,
+    'lrm': 8206,
+    'rlm': 8207,
+    'ndash': 8211,
+    'mdash': 8212,
+    'lsquo': 8216,
+    'rsquo': 8217,
+    'sbquo': 8218,
+    'ldquo': 8220,
+    'rdquo': 8221,
+    'bdquo': 8222,
+    'dagger': 8224,
+    'Dagger': 8225,
+    'bull': 8226,
+    'hellip': 8230,
+    'permil': 8240,
+    'prime': 8242,
+    'Prime': 8243,
+    'lsaquo': 8249,
+    'rsaquo': 8250,
+    'oline': 8254,
+    'frasl': 8260,
+    'euro': 8364,
+    'image': 8465,
+    'weierp': 8472,
+    'real': 8476,
+    'trade': 8482,
+    'alefsym': 8501,
+    'larr': 8592,
+    'uarr': 8593,
+    'rarr': 8594,
+    'darr': 8595,
+    'harr': 8596,
+    'crarr': 8629,
+    'lArr': 8656,
+    'uArr': 8657,
+    'rArr': 8658,
+    'dArr': 8659,
+    'hArr': 8660,
+    'forall': 8704,
+    'part': 8706,
+    'exist': 8707,
+    'empty': 8709,
+    'nabla': 8711,
+    'isin': 8712,
+    'notin': 8713,
+    'ni': 8715,
+    'prod': 8719,
+    'sum': 8721,
+    'minus': 8722,
+    'lowast': 8727,
+    'radic': 8730,
+    'prop': 8733,
+    'infin': 8734,
+    'ang': 8736,
+    'and': 8743,
+    'or': 8744,
+    'cap': 8745,
+    'cup': 8746,
+    'int': 8747,
+    'there4': 8756,
+    'sim': 8764,
+    'cong': 8773,
+    'asymp': 8776,
+    'ne': 8800,
+    'equiv': 8801,
+    'le': 8804,
+    'ge': 8805,
+    'sub': 8834,
+    'sup': 8835,
+    'nsub': 8836,
+    'sube': 8838,
+    'supe': 8839,
+    'oplus': 8853,
+    'otimes': 8855,
+    'perp': 8869,
+    'sdot': 8901,
+    'lceil': 8968,
+    'rceil': 8969,
+    'lfloor': 8970,
+    'rfloor': 8971,
+    'lang': 9001,
+    'rang': 9002,
+    'loz': 9674,
+    'spades': 9824,
+    'clubs': 9827,
+    'hearts': 9829,
+    'diams': 9830
+  }
+
+  Object.keys(sax.ENTITIES).forEach(function (key) {
+    var e = sax.ENTITIES[key]
+    var s = typeof e === 'number' ? String.fromCharCode(e) : e
+    sax.ENTITIES[key] = s
+  })
+
+  for (var s in sax.STATE) {
+    sax.STATE[sax.STATE[s]] = s
+  }
+
+  // shorthand
+  S = sax.STATE
+
+  function emit (parser, event, data) {
+    parser[event] && parser[event](data)
+  }
+
+  function emitNode (parser, nodeType, data) {
+    if (parser.textNode) closeText(parser)
+    emit(parser, nodeType, data)
+  }
+
+  function closeText (parser) {
+    parser.textNode = textopts(parser.opt, parser.textNode)
+    if (parser.textNode) emit(parser, 'ontext', parser.textNode)
+    parser.textNode = ''
+  }
+
+  function textopts (opt, text) {
+    if (opt.trim) text = text.trim()
+    if (opt.normalize) text = text.replace(/\s+/g, ' ')
+    return text
+  }
+
+  function error (parser, er) {
+    closeText(parser)
+    if (parser.trackPosition) {
+      er += '\nLine: ' + parser.line +
+        '\nColumn: ' + parser.column +
+        '\nChar: ' + parser.c
+    }
+    er = new Error(er)
+    parser.error = er
+    emit(parser, 'onerror', er)
+    return parser
+  }
+
+  function end (parser) {
+    if (parser.sawRoot && !parser.closedRoot) strictFail(parser, 'Unclosed root tag')
+    if ((parser.state !== S.BEGIN) &&
+      (parser.state !== S.BEGIN_WHITESPACE) &&
+      (parser.state !== S.TEXT)) {
+      error(parser, 'Unexpected end')
+    }
+    closeText(parser)
+    parser.c = ''
+    parser.closed = true
+    emit(parser, 'onend')
+    SAXParser.call(parser, parser.strict, parser.opt)
+    return parser
+  }
+
+  function strictFail (parser, message) {
+    if (typeof parser !== 'object' || !(parser instanceof SAXParser)) {
+      throw new Error('bad call to strictFail')
+    }
+    if (parser.strict) {
+      error(parser, message)
+    }
+  }
+
+  function newTag (parser) {
+    if (!parser.strict) parser.tagName = parser.tagName[parser.looseCase]()
+    var parent = parser.tags[parser.tags.length - 1] || parser
+    var tag = parser.tag = { name: parser.tagName, attributes: {} }
+
+    // will be overridden if tag contails an xmlns="foo" or xmlns:foo="bar"
+    if (parser.opt.xmlns) {
+      tag.ns = parent.ns
+    }
+    parser.attribList.length = 0
+    emitNode(parser, 'onopentagstart', tag)
+  }
+
+  function qname (name, attribute) {
+    var i = name.indexOf(':')
+    var qualName = i < 0 ? [ '', name ] : name.split(':')
+    var prefix = qualName[0]
+    var local = qualName[1]
+
+    // <x "xmlns"="http://foo">
+    if (attribute && name === 'xmlns') {
+      prefix = 'xmlns'
+      local = ''
+    }
+
+    return { prefix: prefix, local: local }
+  }
+
+  function attrib (parser) {
+    if (!parser.strict) {
+      parser.attribName = parser.attribName[parser.looseCase]()
+    }
+
+    if (parser.attribList.indexOf(parser.attribName) !== -1 ||
+      parser.tag.attributes.hasOwnProperty(parser.attribName)) {
+      parser.attribName = parser.attribValue = ''
+      return
+    }
+
+    if (parser.opt.xmlns) {
+      var qn = qname(parser.attribName, true)
+      var prefix = qn.prefix
+      var local = qn.local
+
+      if (prefix === 'xmlns') {
+        // namespace binding attribute. push the binding into scope
+        if (local === 'xml' && parser.attribValue !== XML_NAMESPACE) {
+          strictFail(parser,
+            'xml: prefix must be bound to ' + XML_NAMESPACE + '\n' +
+            'Actual: ' + parser.attribValue)
+        } else if (local === 'xmlns' && parser.attribValue !== XMLNS_NAMESPACE) {
+          strictFail(parser,
+            'xmlns: prefix must be bound to ' + XMLNS_NAMESPACE + '\n' +
+            'Actual: ' + parser.attribValue)
+        } else {
+          var tag = parser.tag
+          var parent = parser.tags[parser.tags.length - 1] || parser
+          if (tag.ns === parent.ns) {
+            tag.ns = Object.create(parent.ns)
+          }
+          tag.ns[local] = parser.attribValue
+        }
+      }
+
+      // defer onattribute events until all attributes have been seen
+      // so any new bindings can take effect. preserve attribute order
+      // so deferred events can be emitted in document order
+      parser.attribList.push([parser.attribName, parser.attribValue])
+    } else {
+      // in non-xmlns mode, we can emit the event right away
+      parser.tag.attributes[parser.attribName] = parser.attribValue
+      emitNode(parser, 'onattribute', {
+        name: parser.attribName,
+        value: parser.attribValue
+      })
+    }
+
+    parser.attribName = parser.attribValue = ''
+  }
+
+  function openTag (parser, selfClosing) {
+    if (parser.opt.xmlns) {
+      // emit namespace binding events
+      var tag = parser.tag
+
+      // add namespace info to tag
+      var qn = qname(parser.tagName)
+      tag.prefix = qn.prefix
+      tag.local = qn.local
+      tag.uri = tag.ns[qn.prefix] || ''
+
+      if (tag.prefix && !tag.uri) {
+        strictFail(parser, 'Unbound namespace prefix: ' +
+          JSON.stringify(parser.tagName))
+        tag.uri = qn.prefix
+      }
+
+      var parent = parser.tags[parser.tags.length - 1] || parser
+      if (tag.ns && parent.ns !== tag.ns) {
+        Object.keys(tag.ns).forEach(function (p) {
+          emitNode(parser, 'onopennamespace', {
+            prefix: p,
+            uri: tag.ns[p]
+          })
+        })
+      }
+
+      // handle deferred onattribute events
+      // Note: do not apply default ns to attributes:
+      //   http://www.w3.org/TR/REC-xml-names/#defaulting
+      for (var i = 0, l = parser.attribList.length; i < l; i++) {
+        var nv = parser.attribList[i]
+        var name = nv[0]
+        var value = nv[1]
+        var qualName = qname(name, true)
+        var prefix = qualName.prefix
+        var local = qualName.local
+        var uri = prefix === '' ? '' : (tag.ns[prefix] || '')
+        var a = {
+          name: name,
+          value: value,
+          prefix: prefix,
+          local: local,
+          uri: uri
         }
 
-        return mu2;
-    });
-}
-
-/**
- * Modifies mappings as per query directives on the following aspects:
- *  - order
- *  - projection
- *  - distinct
- *  - reduced (ignored in this implementation)
- *  - offset
- *  - limit.
- * 
- * @param {object} query the AST of a SPARQL query
- * @param {array} mappings a list of mappings
- */
-function modify(query, mappings) {
-    let omega = Array.from(mappings);
-
-    if (query.order) {
-        omega.sort((mu1, mu2) => {
-            return utils.compare(mu1, mu2, query.order);
-        });
+        // if there's any attributes with an undefined namespace,
+        // then fail on them now.
+        if (prefix && prefix !== 'xmlns' && !uri) {
+          strictFail(parser, 'Unbound namespace prefix: ' +
+            JSON.stringify(prefix))
+          a.uri = prefix
+        }
+        parser.tag.attributes[name] = a
+        emitNode(parser, 'onattribute', a)
+      }
+      parser.attribList.length = 0
     }
 
-    omega = project(query.variables, omega);
+    parser.tag.isSelfClosing = !!selfClosing
 
-    if (query.distinct) {
-        omega = omega.reduce((o, mu1) => {
-            let by = query.variables.map(v => ({ expression: v }));
+    // process the tag
+    parser.sawRoot = true
+    parser.tags.push(parser.tag)
+    emitNode(parser, 'onopentag', parser.tag)
+    if (!selfClosing) {
+      // special case for <script> in non-strict mode.
+      if (!parser.noscript && parser.tagName.toLowerCase() === 'script') {
+        parser.state = S.SCRIPT
+      } else {
+        parser.state = S.TEXT
+      }
+      parser.tag = null
+      parser.tagName = ''
+    }
+    parser.attribName = parser.attribValue = ''
+    parser.attribList.length = 0
+  }
 
-            // FIXME utils.compare() ignores datatype/lang
-            let dup = o.some(mu2 => utils.compare(mu1, mu2, by) === 0);
-            if (!dup) o.push(mu1);
-
-            return o;
-        }, []);
+  function closeTag (parser) {
+    if (!parser.tagName) {
+      strictFail(parser, 'Weird empty close tag.')
+      parser.textNode += '</>'
+      parser.state = S.TEXT
+      return
     }
 
-    if (query.offset) omega = omega.slice(query.offset);
+    if (parser.script) {
+      if (parser.tagName !== 'script') {
+        parser.script += '</' + parser.tagName + '>'
+        parser.tagName = ''
+        parser.state = S.SCRIPT
+        return
+      }
+      emitNode(parser, 'onscript', parser.script)
+      parser.script = ''
+    }
 
-    if (query.limit) omega = omega.slice(0, query.limit);
+    // first make sure that the closing tag actually exists.
+    // <a><b></c></b></a> will close everything, otherwise.
+    var t = parser.tags.length
+    var tagName = parser.tagName
+    if (!parser.strict) {
+      tagName = tagName[parser.looseCase]()
+    }
+    var closeTo = tagName
+    while (t--) {
+      var close = parser.tags[t]
+      if (close.name !== closeTo) {
+        // fail the first time in strict mode
+        strictFail(parser, 'Unexpected close tag')
+      } else {
+        break
+      }
+    }
 
-    return omega;
-}
+    // didn't find it.  we already failed for strict, so just abort.
+    if (t < 0) {
+      strictFail(parser, 'Unmatched closing tag: ' + parser.tagName)
+      parser.textNode += '</' + parser.tagName + '>'
+      parser.state = S.TEXT
+      return
+    }
+    parser.tagName = tagName
+    var s = parser.tags.length
+    while (s-- > t) {
+      var tag = parser.tag = parser.tags.pop()
+      parser.tagName = parser.tag.name
+      emitNode(parser, 'onclosetag', parser.tagName)
 
-/**
- * Creates a SPARQL dataset from the FROM clauses of the input query.
- * If an IRI is not known from the µRDF store, it attempts to fetch it.
- * 
- * @param {object} query the AST of a SPARQL query
- */
-function createDataset(query) {
-    if (!query.from) return Promise.resolve(store);
+      var x = {}
+      for (var i in tag.ns) {
+        x[i] = tag.ns[i]
+      }
 
-    let list = store.listGraphs();
+      var parent = parser.tags[parser.tags.length - 1] || parser
+      if (parser.opt.xmlns && tag.ns !== parent.ns) {
+        // remove namespace bindings introduced by tag
+        Object.keys(tag.ns).forEach(function (p) {
+          var n = tag.ns[p]
+          emitNode(parser, 'onclosenamespace', { prefix: p, uri: n })
+        })
+      }
+    }
+    if (t === 0) parser.closedRoot = true
+    parser.tagName = parser.attribValue = parser.attribName = ''
+    parser.attribList.length = 0
+    parser.state = S.TEXT
+  }
 
-    let promises = query.from.default
-        .concat(query.from.named)
-        .map(uri => {
-            if (!list.includes(uri)) return loadFrom(uri);
-            else return Promise.resolve();
-        });
+  function parseEntity (parser) {
+    var entity = parser.entity
+    var entityLC = entity.toLowerCase()
+    var num
+    var numStr = ''
 
-    return Promise.all(promises)
+    if (parser.ENTITIES[entity]) {
+      return parser.ENTITIES[entity]
+    }
+    if (parser.ENTITIES[entityLC]) {
+      return parser.ENTITIES[entityLC]
+    }
+    entity = entityLC
+    if (entity.charAt(0) === '#') {
+      if (entity.charAt(1) === 'x') {
+        entity = entity.slice(2)
+        num = parseInt(entity, 16)
+        numStr = num.toString(16)
+      } else {
+        entity = entity.slice(1)
+        num = parseInt(entity, 10)
+        numStr = num.toString(10)
+      }
+    }
+    entity = entity.replace(/^0+/, '')
+    if (isNaN(num) || numStr.toLowerCase() !== entity) {
+      strictFail(parser, 'Invalid character entity')
+      return '&' + parser.entity + ';'
+    }
 
-    .then(() => {
-        let dataset = new urdf.Store();
-    
-        query.from.default.forEach(gid => {
-            let g = store.findGraph(gid);
-            if (g) dataset.load(g);
-        });
-    
-        query.from.named.forEach(gid => {
-            let g = store.findGraph(gid);
-            if (g) dataset.load(g, gid);
-        });
-    
-        return dataset;
-    });
-}
+    return String.fromCodePoint(num)
+  }
 
-/**
- * Rewrites pattern to ensure filters have no free variable.
- * 
- * See:
- *  - SPARQL 1.1 Query Language, section 18.2.2 "Converting Graph Patterns"
- *  - The Expressive Power of SPARQL (2008)
- * 
- * @param {object} patterns the AST of a group of SPARQL graph patterns
- */
-function makeSafe(patterns) {
-    let f = patterns.filter(p => p.type === 'filter');
+  function beginWhiteSpace (parser, c) {
+    if (c === '<') {
+      parser.state = S.OPEN_WAKA
+      parser.startTagPosition = parser.position
+    } else if (!isWhitespace(c)) {
+      // have to process this as a text node.
+      // weird, but happens.
+      strictFail(parser, 'Non-whitespace before first tag.')
+      parser.textNode = c
+      parser.state = S.TEXT
+    }
+  }
 
-    let main = patterns
-        .filter(p => f.indexOf(p) < 0)
-        .map(p => {
-            if (p.type === 'optional') {
-                f = f.concat(p.patterns.filter(p => p.type === 'filter'));
-                p.patterns = p.patterns.filter(p => p.type != 'filter');
+  function charAt (chunk, i) {
+    var result = ''
+    if (i < chunk.length) {
+      result = chunk.charAt(i)
+    }
+    return result
+  }
+
+  function write (chunk) {
+    var parser = this
+    if (this.error) {
+      throw this.error
+    }
+    if (parser.closed) {
+      return error(parser,
+        'Cannot write after close. Assign an onready handler.')
+    }
+    if (chunk === null) {
+      return end(parser)
+    }
+    if (typeof chunk === 'object') {
+      chunk = chunk.toString()
+    }
+    var i = 0
+    var c = ''
+    while (true) {
+      c = charAt(chunk, i++)
+      parser.c = c
+
+      if (!c) {
+        break
+      }
+
+      if (parser.trackPosition) {
+        parser.position++
+        if (c === '\n') {
+          parser.line++
+          parser.column = 0
+        } else {
+          parser.column++
+        }
+      }
+
+      switch (parser.state) {
+        case S.BEGIN:
+          parser.state = S.BEGIN_WHITESPACE
+          if (c === '\uFEFF') {
+            continue
+          }
+          beginWhiteSpace(parser, c)
+          continue
+
+        case S.BEGIN_WHITESPACE:
+          beginWhiteSpace(parser, c)
+          continue
+
+        case S.TEXT:
+          if (parser.sawRoot && !parser.closedRoot) {
+            var starti = i - 1
+            while (c && c !== '<' && c !== '&') {
+              c = charAt(chunk, i++)
+              if (c && parser.trackPosition) {
+                parser.position++
+                if (c === '\n') {
+                  parser.line++
+                  parser.column = 0
+                } else {
+                  parser.column++
+                }
+              }
             }
+            parser.textNode += chunk.substring(starti, i - 1)
+          }
+          if (c === '<' && !(parser.sawRoot && parser.closedRoot && !parser.strict)) {
+            parser.state = S.OPEN_WAKA
+            parser.startTagPosition = parser.position
+          } else {
+            if (!isWhitespace(c) && (!parser.sawRoot || parser.closedRoot)) {
+              strictFail(parser, 'Text data outside of root node.')
+            }
+            if (c === '&') {
+              parser.state = S.TEXT_ENTITY
+            } else {
+              parser.textNode += c
+            }
+          }
+          continue
 
-            if (p.patterns) p.patterns = makeSafe(p.patterns);
+        case S.SCRIPT:
+          // only non-strict
+          if (c === '<') {
+            parser.state = S.SCRIPT_ENDING
+          } else {
+            parser.script += c
+          }
+          continue
 
-            return p;
-        });
+        case S.SCRIPT_ENDING:
+          if (c === '/') {
+            parser.state = S.CLOSE_TAG
+          } else {
+            parser.script += '<' + c
+            parser.state = S.SCRIPT
+          }
+          continue
 
-    let safe = main.concat(f);
-    return safe;
-}
+        case S.OPEN_WAKA:
+          // either a /, ?, !, or text is coming next.
+          if (c === '!') {
+            parser.state = S.SGML_DECL
+            parser.sgmlDecl = ''
+          } else if (isWhitespace(c)) {
+            // wait for it...
+          } else if (isMatch(nameStart, c)) {
+            parser.state = S.OPEN_TAG
+            parser.tagName = c
+          } else if (c === '/') {
+            parser.state = S.CLOSE_TAG
+            parser.tagName = ''
+          } else if (c === '?') {
+            parser.state = S.PROC_INST
+            parser.procInstName = parser.procInstBody = ''
+          } else {
+            strictFail(parser, 'Unencoded <')
+            // if there was some whitespace, then add that in.
+            if (parser.startTagPosition + 1 < parser.position) {
+              var pad = parser.position - parser.startTagPosition
+              c = new Array(pad).join(' ') + c
+            }
+            parser.textNode += '<' + c
+            parser.state = S.TEXT
+          }
+          continue
 
-/**
- * Rewrites in place a SPARQL query to get an equivalent, canonical form.
- * 
- * @param {object} query the AST of a SPARQL query
- */
-function rewrite(query) {
-    // move VALUES modifiers inside WHERE
+        case S.SGML_DECL:
+          if ((parser.sgmlDecl + c).toUpperCase() === CDATA) {
+            emitNode(parser, 'onopencdata')
+            parser.state = S.CDATA
+            parser.sgmlDecl = ''
+            parser.cdata = ''
+          } else if (parser.sgmlDecl + c === '--') {
+            parser.state = S.COMMENT
+            parser.comment = ''
+            parser.sgmlDecl = ''
+          } else if ((parser.sgmlDecl + c).toUpperCase() === DOCTYPE) {
+            parser.state = S.DOCTYPE
+            if (parser.doctype || parser.sawRoot) {
+              strictFail(parser,
+                'Inappropriately located doctype declaration')
+            }
+            parser.doctype = ''
+            parser.sgmlDecl = ''
+          } else if (c === '>') {
+            emitNode(parser, 'onsgmldeclaration', parser.sgmlDecl)
+            parser.sgmlDecl = ''
+            parser.state = S.TEXT
+          } else if (isQuote(c)) {
+            parser.state = S.SGML_DECL_QUOTED
+            parser.sgmlDecl += c
+          } else {
+            parser.sgmlDecl += c
+          }
+          continue
 
-    if (query.values) {
-        query.where.push({
-            type: 'values',
-            values: query.values
-        });
+        case S.SGML_DECL_QUOTED:
+          if (c === parser.q) {
+            parser.state = S.SGML_DECL
+            parser.q = ''
+          }
+          parser.sgmlDecl += c
+          continue
 
-        query.values = undefined;
-    }
+        case S.DOCTYPE:
+          if (c === '>') {
+            parser.state = S.TEXT
+            emitNode(parser, 'ondoctype', parser.doctype)
+            parser.doctype = true // just remember that we saw it.
+          } else {
+            parser.doctype += c
+            if (c === '[') {
+              parser.state = S.DOCTYPE_DTD
+            } else if (isQuote(c)) {
+              parser.state = S.DOCTYPE_QUOTED
+              parser.q = c
+            }
+          }
+          continue
 
-    // replace inline expressions in SELECT with BIND patterns
+        case S.DOCTYPE_QUOTED:
+          parser.doctype += c
+          if (c === parser.q) {
+            parser.q = ''
+            parser.state = S.DOCTYPE
+          }
+          continue
 
-    if (query.variables) {
-        let names = query.variables.filter(v => typeof v === 'string');
-        let exprs = query.variables.filter(v => typeof v === 'object');
-    
-        exprs.forEach(expr => {
-            query.where.push({
-                type: 'bind',
-                variable: expr.variable,
-                expression: expr.expression
+        case S.DOCTYPE_DTD:
+          parser.doctype += c
+          if (c === ']') {
+            parser.state = S.DOCTYPE
+          } else if (isQuote(c)) {
+            parser.state = S.DOCTYPE_DTD_QUOTED
+            parser.q = c
+          }
+          continue
+
+        case S.DOCTYPE_DTD_QUOTED:
+          parser.doctype += c
+          if (c === parser.q) {
+            parser.state = S.DOCTYPE_DTD
+            parser.q = ''
+          }
+          continue
+
+        case S.COMMENT:
+          if (c === '-') {
+            parser.state = S.COMMENT_ENDING
+          } else {
+            parser.comment += c
+          }
+          continue
+
+        case S.COMMENT_ENDING:
+          if (c === '-') {
+            parser.state = S.COMMENT_ENDED
+            parser.comment = textopts(parser.opt, parser.comment)
+            if (parser.comment) {
+              emitNode(parser, 'oncomment', parser.comment)
+            }
+            parser.comment = ''
+          } else {
+            parser.comment += '-' + c
+            parser.state = S.COMMENT
+          }
+          continue
+
+        case S.COMMENT_ENDED:
+          if (c !== '>') {
+            strictFail(parser, 'Malformed comment')
+            // allow <!-- blah -- bloo --> in non-strict mode,
+            // which is a comment of " blah -- bloo "
+            parser.comment += '--' + c
+            parser.state = S.COMMENT
+          } else {
+            parser.state = S.TEXT
+          }
+          continue
+
+        case S.CDATA:
+          if (c === ']') {
+            parser.state = S.CDATA_ENDING
+          } else {
+            parser.cdata += c
+          }
+          continue
+
+        case S.CDATA_ENDING:
+          if (c === ']') {
+            parser.state = S.CDATA_ENDING_2
+          } else {
+            parser.cdata += ']' + c
+            parser.state = S.CDATA
+          }
+          continue
+
+        case S.CDATA_ENDING_2:
+          if (c === '>') {
+            if (parser.cdata) {
+              emitNode(parser, 'oncdata', parser.cdata)
+            }
+            emitNode(parser, 'onclosecdata')
+            parser.cdata = ''
+            parser.state = S.TEXT
+          } else if (c === ']') {
+            parser.cdata += ']'
+          } else {
+            parser.cdata += ']]' + c
+            parser.state = S.CDATA
+          }
+          continue
+
+        case S.PROC_INST:
+          if (c === '?') {
+            parser.state = S.PROC_INST_ENDING
+          } else if (isWhitespace(c)) {
+            parser.state = S.PROC_INST_BODY
+          } else {
+            parser.procInstName += c
+          }
+          continue
+
+        case S.PROC_INST_BODY:
+          if (!parser.procInstBody && isWhitespace(c)) {
+            continue
+          } else if (c === '?') {
+            parser.state = S.PROC_INST_ENDING
+          } else {
+            parser.procInstBody += c
+          }
+          continue
+
+        case S.PROC_INST_ENDING:
+          if (c === '>') {
+            emitNode(parser, 'onprocessinginstruction', {
+              name: parser.procInstName,
+              body: parser.procInstBody
             })
-        });
-    
-        query.variables = names.concat(exprs.map(expr => expr.variable));
+            parser.procInstName = parser.procInstBody = ''
+            parser.state = S.TEXT
+          } else {
+            parser.procInstBody += '?' + c
+            parser.state = S.PROC_INST_BODY
+          }
+          continue
+
+        case S.OPEN_TAG:
+          if (isMatch(nameBody, c)) {
+            parser.tagName += c
+          } else {
+            newTag(parser)
+            if (c === '>') {
+              openTag(parser)
+            } else if (c === '/') {
+              parser.state = S.OPEN_TAG_SLASH
+            } else {
+              if (!isWhitespace(c)) {
+                strictFail(parser, 'Invalid character in tag name')
+              }
+              parser.state = S.ATTRIB
+            }
+          }
+          continue
+
+        case S.OPEN_TAG_SLASH:
+          if (c === '>') {
+            openTag(parser, true)
+            closeTag(parser)
+          } else {
+            strictFail(parser, 'Forward-slash in opening tag not followed by >')
+            parser.state = S.ATTRIB
+          }
+          continue
+
+        case S.ATTRIB:
+          // haven't read the attribute name yet.
+          if (isWhitespace(c)) {
+            continue
+          } else if (c === '>') {
+            openTag(parser)
+          } else if (c === '/') {
+            parser.state = S.OPEN_TAG_SLASH
+          } else if (isMatch(nameStart, c)) {
+            parser.attribName = c
+            parser.attribValue = ''
+            parser.state = S.ATTRIB_NAME
+          } else {
+            strictFail(parser, 'Invalid attribute name')
+          }
+          continue
+
+        case S.ATTRIB_NAME:
+          if (c === '=') {
+            parser.state = S.ATTRIB_VALUE
+          } else if (c === '>') {
+            strictFail(parser, 'Attribute without value')
+            parser.attribValue = parser.attribName
+            attrib(parser)
+            openTag(parser)
+          } else if (isWhitespace(c)) {
+            parser.state = S.ATTRIB_NAME_SAW_WHITE
+          } else if (isMatch(nameBody, c)) {
+            parser.attribName += c
+          } else {
+            strictFail(parser, 'Invalid attribute name')
+          }
+          continue
+
+        case S.ATTRIB_NAME_SAW_WHITE:
+          if (c === '=') {
+            parser.state = S.ATTRIB_VALUE
+          } else if (isWhitespace(c)) {
+            continue
+          } else {
+            strictFail(parser, 'Attribute without value')
+            parser.tag.attributes[parser.attribName] = ''
+            parser.attribValue = ''
+            emitNode(parser, 'onattribute', {
+              name: parser.attribName,
+              value: ''
+            })
+            parser.attribName = ''
+            if (c === '>') {
+              openTag(parser)
+            } else if (isMatch(nameStart, c)) {
+              parser.attribName = c
+              parser.state = S.ATTRIB_NAME
+            } else {
+              strictFail(parser, 'Invalid attribute name')
+              parser.state = S.ATTRIB
+            }
+          }
+          continue
+
+        case S.ATTRIB_VALUE:
+          if (isWhitespace(c)) {
+            continue
+          } else if (isQuote(c)) {
+            parser.q = c
+            parser.state = S.ATTRIB_VALUE_QUOTED
+          } else {
+            strictFail(parser, 'Unquoted attribute value')
+            parser.state = S.ATTRIB_VALUE_UNQUOTED
+            parser.attribValue = c
+          }
+          continue
+
+        case S.ATTRIB_VALUE_QUOTED:
+          if (c !== parser.q) {
+            if (c === '&') {
+              parser.state = S.ATTRIB_VALUE_ENTITY_Q
+            } else {
+              parser.attribValue += c
+            }
+            continue
+          }
+          attrib(parser)
+          parser.q = ''
+          parser.state = S.ATTRIB_VALUE_CLOSED
+          continue
+
+        case S.ATTRIB_VALUE_CLOSED:
+          if (isWhitespace(c)) {
+            parser.state = S.ATTRIB
+          } else if (c === '>') {
+            openTag(parser)
+          } else if (c === '/') {
+            parser.state = S.OPEN_TAG_SLASH
+          } else if (isMatch(nameStart, c)) {
+            strictFail(parser, 'No whitespace between attributes')
+            parser.attribName = c
+            parser.attribValue = ''
+            parser.state = S.ATTRIB_NAME
+          } else {
+            strictFail(parser, 'Invalid attribute name')
+          }
+          continue
+
+        case S.ATTRIB_VALUE_UNQUOTED:
+          if (!isAttribEnd(c)) {
+            if (c === '&') {
+              parser.state = S.ATTRIB_VALUE_ENTITY_U
+            } else {
+              parser.attribValue += c
+            }
+            continue
+          }
+          attrib(parser)
+          if (c === '>') {
+            openTag(parser)
+          } else {
+            parser.state = S.ATTRIB
+          }
+          continue
+
+        case S.CLOSE_TAG:
+          if (!parser.tagName) {
+            if (isWhitespace(c)) {
+              continue
+            } else if (notMatch(nameStart, c)) {
+              if (parser.script) {
+                parser.script += '</' + c
+                parser.state = S.SCRIPT
+              } else {
+                strictFail(parser, 'Invalid tagname in closing tag.')
+              }
+            } else {
+              parser.tagName = c
+            }
+          } else if (c === '>') {
+            closeTag(parser)
+          } else if (isMatch(nameBody, c)) {
+            parser.tagName += c
+          } else if (parser.script) {
+            parser.script += '</' + parser.tagName
+            parser.tagName = ''
+            parser.state = S.SCRIPT
+          } else {
+            if (!isWhitespace(c)) {
+              strictFail(parser, 'Invalid tagname in closing tag')
+            }
+            parser.state = S.CLOSE_TAG_SAW_WHITE
+          }
+          continue
+
+        case S.CLOSE_TAG_SAW_WHITE:
+          if (isWhitespace(c)) {
+            continue
+          }
+          if (c === '>') {
+            closeTag(parser)
+          } else {
+            strictFail(parser, 'Invalid characters in closing tag')
+          }
+          continue
+
+        case S.TEXT_ENTITY:
+        case S.ATTRIB_VALUE_ENTITY_Q:
+        case S.ATTRIB_VALUE_ENTITY_U:
+          var returnState
+          var buffer
+          switch (parser.state) {
+            case S.TEXT_ENTITY:
+              returnState = S.TEXT
+              buffer = 'textNode'
+              break
+
+            case S.ATTRIB_VALUE_ENTITY_Q:
+              returnState = S.ATTRIB_VALUE_QUOTED
+              buffer = 'attribValue'
+              break
+
+            case S.ATTRIB_VALUE_ENTITY_U:
+              returnState = S.ATTRIB_VALUE_UNQUOTED
+              buffer = 'attribValue'
+              break
+          }
+
+          if (c === ';') {
+            parser[buffer] += parseEntity(parser)
+            parser.entity = ''
+            parser.state = returnState
+          } else if (isMatch(parser.entity.length ? entityBody : entityStart, c)) {
+            parser.entity += c
+          } else {
+            strictFail(parser, 'Invalid character in entity name')
+            parser[buffer] += '&' + parser.entity + c
+            parser.entity = ''
+            parser.state = returnState
+          }
+
+          continue
+
+        default:
+          throw new Error(parser, 'Unknown state: ' + parser.state)
+      }
+    } // while
+
+    if (parser.position >= parser.bufferCheckPosition) {
+      checkBufferLength(parser)
     }
+    return parser
+  }
 
-    query.where = makeSafe(query.where);
+  /*! http://mths.be/fromcodepoint v0.1.0 by @mathias */
+  /* istanbul ignore next */
+  if (!String.fromCodePoint) {
+    (function () {
+      var stringFromCharCode = String.fromCharCode
+      var floor = Math.floor
+      var fromCodePoint = function () {
+        var MAX_SIZE = 0x4000
+        var codeUnits = []
+        var highSurrogate
+        var lowSurrogate
+        var index = -1
+        var length = arguments.length
+        if (!length) {
+          return ''
+        }
+        var result = ''
+        while (++index < length) {
+          var codePoint = Number(arguments[index])
+          if (
+            !isFinite(codePoint) || // `NaN`, `+Infinity`, or `-Infinity`
+            codePoint < 0 || // not a valid Unicode code point
+            codePoint > 0x10FFFF || // not a valid Unicode code point
+            floor(codePoint) !== codePoint // not an integer
+          ) {
+            throw RangeError('Invalid code point: ' + codePoint)
+          }
+          if (codePoint <= 0xFFFF) { // BMP code point
+            codeUnits.push(codePoint)
+          } else { // Astral code point; split in surrogate halves
+            // http://mathiasbynens.be/notes/javascript-encoding#surrogate-formulae
+            codePoint -= 0x10000
+            highSurrogate = (codePoint >> 10) + 0xD800
+            lowSurrogate = (codePoint % 0x400) + 0xDC00
+            codeUnits.push(highSurrogate, lowSurrogate)
+          }
+          if (index + 1 === length || codeUnits.length > MAX_SIZE) {
+            result += stringFromCharCode.apply(null, codeUnits)
+            codeUnits.length = 0
+          }
+        }
+        return result
+      }
+      /* istanbul ignore next */
+      if (Object.defineProperty) {
+        Object.defineProperty(String, 'fromCodePoint', {
+          value: fromCodePoint,
+          configurable: true,
+          writable: true
+        })
+      } else {
+        String.fromCodePoint = fromCodePoint
+      }
+    }())
+  }
+})(typeof exports === 'undefined' ? this.sax = {} : exports)
 
-    return query;
+}).call(this,require("buffer").Buffer)
+},{"buffer":3,"stream":28,"string_decoder":29}],178:[function(require,module,exports){
+var undefined = (void 0); // Paranoia
+
+// Beyond this value, index getters/setters (i.e. array[0], array[1]) are so slow to
+// create, and consume so much memory, that the browser appears frozen.
+var MAX_ARRAY_LENGTH = 1e5;
+
+// Approximations of internal ECMAScript conversion functions
+var ECMAScript = (function() {
+  // Stash a copy in case other scripts modify these
+  var opts = Object.prototype.toString,
+      ophop = Object.prototype.hasOwnProperty;
+
+  return {
+    // Class returns internal [[Class]] property, used to avoid cross-frame instanceof issues:
+    Class: function(v) { return opts.call(v).replace(/^\[object *|\]$/g, ''); },
+    HasProperty: function(o, p) { return p in o; },
+    HasOwnProperty: function(o, p) { return ophop.call(o, p); },
+    IsCallable: function(o) { return typeof o === 'function'; },
+    ToInt32: function(v) { return v >> 0; },
+    ToUint32: function(v) { return v >>> 0; }
+  };
+}());
+
+// Snapshot intrinsics
+var LN2 = Math.LN2,
+    abs = Math.abs,
+    floor = Math.floor,
+    log = Math.log,
+    min = Math.min,
+    pow = Math.pow,
+    round = Math.round;
+
+// ES5: lock down object properties
+function configureProperties(obj) {
+  if (getOwnPropNames && defineProp) {
+    var props = getOwnPropNames(obj), i;
+    for (i = 0; i < props.length; i += 1) {
+      defineProp(obj, props[i], {
+        value: obj[props[i]],
+        writable: false,
+        enumerable: false,
+        configurable: false
+      });
+    }
+  }
 }
 
-/**
- * Processes the input query and returns mappings as SPARQL JSON or a JSON-LD graph.
- * 
- * @param {string} sparql a SPARQL query as string
- */
-function query(sparql) {
-    let ast = parser.parse(sparql);
+// emulate ES5 getter/setter API using legacy APIs
+// http://blogs.msdn.com/b/ie/archive/2010/09/07/transitioning-existing-code-to-the-es5-getter-setter-apis.aspx
+// (second clause tests for Object.defineProperty() in IE<9 that only supports extending DOM prototypes, but
+// note that IE<9 does not support __defineGetter__ or __defineSetter__ so it just renders the method harmless)
+var defineProp
+if (Object.defineProperty && (function() {
+      try {
+        Object.defineProperty({}, 'x', {});
+        return true;
+      } catch (e) {
+        return false;
+      }
+    })()) {
+  defineProp = Object.defineProperty;
+} else {
+  defineProp = function(o, p, desc) {
+    if (!o === Object(o)) throw new TypeError("Object.defineProperty called on non-object");
+    if (ECMAScript.HasProperty(desc, 'get') && Object.prototype.__defineGetter__) { Object.prototype.__defineGetter__.call(o, p, desc.get); }
+    if (ECMAScript.HasProperty(desc, 'set') && Object.prototype.__defineSetter__) { Object.prototype.__defineSetter__.call(o, p, desc.set); }
+    if (ECMAScript.HasProperty(desc, 'value')) { o[p] = desc.value; }
+    return o;
+  };
+}
 
-    return createDataset(ast)
-    
-    .then(dataset => {
-        return new Promise((resolve, reject) => {
-            rewrite(ast);
-    
-            let mappings = evaluateAll(ast.where, dataset);
-    
-            switch (ast.queryType) {
-                case 'SELECT':
-                    mappings = modify(ast, mappings);
-                    resolve(mappings);
-    
-                case 'ASK':
-                    // TODO stop after first mapping found
-                    resolve(mappings.length > 0);
-                
-                case 'DESCRIBE':
-                    // TODO use urdf.find
-    
-                case 'CONSTRUCT':
-                default:
-                    reject(new Error('Not implemented'));
-            }
-        });
+var getOwnPropNames = Object.getOwnPropertyNames || function (o) {
+  if (o !== Object(o)) throw new TypeError("Object.getOwnPropertyNames called on non-object");
+  var props = [], p;
+  for (p in o) {
+    if (ECMAScript.HasOwnProperty(o, p)) {
+      props.push(p);
+    }
+  }
+  return props;
+};
+
+// ES5: Make obj[index] an alias for obj._getter(index)/obj._setter(index, value)
+// for index in 0 ... obj.length
+function makeArrayAccessors(obj) {
+  if (!defineProp) { return; }
+
+  if (obj.length > MAX_ARRAY_LENGTH) throw new RangeError("Array too large for polyfill");
+
+  function makeArrayAccessor(index) {
+    defineProp(obj, index, {
+      'get': function() { return obj._getter(index); },
+      'set': function(v) { obj._setter(index, v); },
+      enumerable: true,
+      configurable: false
+    });
+  }
+
+  var i;
+  for (i = 0; i < obj.length; i += 1) {
+    makeArrayAccessor(i);
+  }
+}
+
+// Internal conversion functions:
+//    pack<Type>()   - take a number (interpreted as Type), output a byte array
+//    unpack<Type>() - take a byte array, output a Type-like number
+
+function as_signed(value, bits) { var s = 32 - bits; return (value << s) >> s; }
+function as_unsigned(value, bits) { var s = 32 - bits; return (value << s) >>> s; }
+
+function packI8(n) { return [n & 0xff]; }
+function unpackI8(bytes) { return as_signed(bytes[0], 8); }
+
+function packU8(n) { return [n & 0xff]; }
+function unpackU8(bytes) { return as_unsigned(bytes[0], 8); }
+
+function packU8Clamped(n) { n = round(Number(n)); return [n < 0 ? 0 : n > 0xff ? 0xff : n & 0xff]; }
+
+function packI16(n) { return [(n >> 8) & 0xff, n & 0xff]; }
+function unpackI16(bytes) { return as_signed(bytes[0] << 8 | bytes[1], 16); }
+
+function packU16(n) { return [(n >> 8) & 0xff, n & 0xff]; }
+function unpackU16(bytes) { return as_unsigned(bytes[0] << 8 | bytes[1], 16); }
+
+function packI32(n) { return [(n >> 24) & 0xff, (n >> 16) & 0xff, (n >> 8) & 0xff, n & 0xff]; }
+function unpackI32(bytes) { return as_signed(bytes[0] << 24 | bytes[1] << 16 | bytes[2] << 8 | bytes[3], 32); }
+
+function packU32(n) { return [(n >> 24) & 0xff, (n >> 16) & 0xff, (n >> 8) & 0xff, n & 0xff]; }
+function unpackU32(bytes) { return as_unsigned(bytes[0] << 24 | bytes[1] << 16 | bytes[2] << 8 | bytes[3], 32); }
+
+function packIEEE754(v, ebits, fbits) {
+
+  var bias = (1 << (ebits - 1)) - 1,
+      s, e, f, ln,
+      i, bits, str, bytes;
+
+  function roundToEven(n) {
+    var w = floor(n), f = n - w;
+    if (f < 0.5)
+      return w;
+    if (f > 0.5)
+      return w + 1;
+    return w % 2 ? w + 1 : w;
+  }
+
+  // Compute sign, exponent, fraction
+  if (v !== v) {
+    // NaN
+    // http://dev.w3.org/2006/webapi/WebIDL/#es-type-mapping
+    e = (1 << ebits) - 1; f = pow(2, fbits - 1); s = 0;
+  } else if (v === Infinity || v === -Infinity) {
+    e = (1 << ebits) - 1; f = 0; s = (v < 0) ? 1 : 0;
+  } else if (v === 0) {
+    e = 0; f = 0; s = (1 / v === -Infinity) ? 1 : 0;
+  } else {
+    s = v < 0;
+    v = abs(v);
+
+    if (v >= pow(2, 1 - bias)) {
+      e = min(floor(log(v) / LN2), 1023);
+      f = roundToEven(v / pow(2, e) * pow(2, fbits));
+      if (f / pow(2, fbits) >= 2) {
+        e = e + 1;
+        f = 1;
+      }
+      if (e > bias) {
+        // Overflow
+        e = (1 << ebits) - 1;
+        f = 0;
+      } else {
+        // Normalized
+        e = e + bias;
+        f = f - pow(2, fbits);
+      }
+    } else {
+      // Denormalized
+      e = 0;
+      f = roundToEven(v / pow(2, 1 - bias - fbits));
+    }
+  }
+
+  // Pack sign, exponent, fraction
+  bits = [];
+  for (i = fbits; i; i -= 1) { bits.push(f % 2 ? 1 : 0); f = floor(f / 2); }
+  for (i = ebits; i; i -= 1) { bits.push(e % 2 ? 1 : 0); e = floor(e / 2); }
+  bits.push(s ? 1 : 0);
+  bits.reverse();
+  str = bits.join('');
+
+  // Bits to bytes
+  bytes = [];
+  while (str.length) {
+    bytes.push(parseInt(str.substring(0, 8), 2));
+    str = str.substring(8);
+  }
+  return bytes;
+}
+
+function unpackIEEE754(bytes, ebits, fbits) {
+
+  // Bytes to bits
+  var bits = [], i, j, b, str,
+      bias, s, e, f;
+
+  for (i = bytes.length; i; i -= 1) {
+    b = bytes[i - 1];
+    for (j = 8; j; j -= 1) {
+      bits.push(b % 2 ? 1 : 0); b = b >> 1;
+    }
+  }
+  bits.reverse();
+  str = bits.join('');
+
+  // Unpack sign, exponent, fraction
+  bias = (1 << (ebits - 1)) - 1;
+  s = parseInt(str.substring(0, 1), 2) ? -1 : 1;
+  e = parseInt(str.substring(1, 1 + ebits), 2);
+  f = parseInt(str.substring(1 + ebits), 2);
+
+  // Produce number
+  if (e === (1 << ebits) - 1) {
+    return f !== 0 ? NaN : s * Infinity;
+  } else if (e > 0) {
+    // Normalized
+    return s * pow(2, e - bias) * (1 + f / pow(2, fbits));
+  } else if (f !== 0) {
+    // Denormalized
+    return s * pow(2, -(bias - 1)) * (f / pow(2, fbits));
+  } else {
+    return s < 0 ? -0 : 0;
+  }
+}
+
+function unpackF64(b) { return unpackIEEE754(b, 11, 52); }
+function packF64(v) { return packIEEE754(v, 11, 52); }
+function unpackF32(b) { return unpackIEEE754(b, 8, 23); }
+function packF32(v) { return packIEEE754(v, 8, 23); }
+
+
+//
+// 3 The ArrayBuffer Type
+//
+
+(function() {
+
+  /** @constructor */
+  var ArrayBuffer = function ArrayBuffer(length) {
+    length = ECMAScript.ToInt32(length);
+    if (length < 0) throw new RangeError('ArrayBuffer size is not a small enough positive integer');
+
+    this.byteLength = length;
+    this._bytes = [];
+    this._bytes.length = length;
+
+    var i;
+    for (i = 0; i < this.byteLength; i += 1) {
+      this._bytes[i] = 0;
+    }
+
+    configureProperties(this);
+  };
+
+  exports.ArrayBuffer = exports.ArrayBuffer || ArrayBuffer;
+
+  //
+  // 4 The ArrayBufferView Type
+  //
+
+  // NOTE: this constructor is not exported
+  /** @constructor */
+  var ArrayBufferView = function ArrayBufferView() {
+    //this.buffer = null;
+    //this.byteOffset = 0;
+    //this.byteLength = 0;
+  };
+
+  //
+  // 5 The Typed Array View Types
+  //
+
+  function makeConstructor(bytesPerElement, pack, unpack) {
+    // Each TypedArray type requires a distinct constructor instance with
+    // identical logic, which this produces.
+
+    var ctor;
+    ctor = function(buffer, byteOffset, length) {
+      var array, sequence, i, s;
+
+      if (!arguments.length || typeof arguments[0] === 'number') {
+        // Constructor(unsigned long length)
+        this.length = ECMAScript.ToInt32(arguments[0]);
+        if (length < 0) throw new RangeError('ArrayBufferView size is not a small enough positive integer');
+
+        this.byteLength = this.length * this.BYTES_PER_ELEMENT;
+        this.buffer = new ArrayBuffer(this.byteLength);
+        this.byteOffset = 0;
+      } else if (typeof arguments[0] === 'object' && arguments[0].constructor === ctor) {
+        // Constructor(TypedArray array)
+        array = arguments[0];
+
+        this.length = array.length;
+        this.byteLength = this.length * this.BYTES_PER_ELEMENT;
+        this.buffer = new ArrayBuffer(this.byteLength);
+        this.byteOffset = 0;
+
+        for (i = 0; i < this.length; i += 1) {
+          this._setter(i, array._getter(i));
+        }
+      } else if (typeof arguments[0] === 'object' &&
+                 !(arguments[0] instanceof ArrayBuffer || ECMAScript.Class(arguments[0]) === 'ArrayBuffer')) {
+        // Constructor(sequence<type> array)
+        sequence = arguments[0];
+
+        this.length = ECMAScript.ToUint32(sequence.length);
+        this.byteLength = this.length * this.BYTES_PER_ELEMENT;
+        this.buffer = new ArrayBuffer(this.byteLength);
+        this.byteOffset = 0;
+
+        for (i = 0; i < this.length; i += 1) {
+          s = sequence[i];
+          this._setter(i, Number(s));
+        }
+      } else if (typeof arguments[0] === 'object' &&
+                 (arguments[0] instanceof ArrayBuffer || ECMAScript.Class(arguments[0]) === 'ArrayBuffer')) {
+        // Constructor(ArrayBuffer buffer,
+        //             optional unsigned long byteOffset, optional unsigned long length)
+        this.buffer = buffer;
+
+        this.byteOffset = ECMAScript.ToUint32(byteOffset);
+        if (this.byteOffset > this.buffer.byteLength) {
+          throw new RangeError("byteOffset out of range");
+        }
+
+        if (this.byteOffset % this.BYTES_PER_ELEMENT) {
+          // The given byteOffset must be a multiple of the element
+          // size of the specific type, otherwise an exception is raised.
+          throw new RangeError("ArrayBuffer length minus the byteOffset is not a multiple of the element size.");
+        }
+
+        if (arguments.length < 3) {
+          this.byteLength = this.buffer.byteLength - this.byteOffset;
+
+          if (this.byteLength % this.BYTES_PER_ELEMENT) {
+            throw new RangeError("length of buffer minus byteOffset not a multiple of the element size");
+          }
+          this.length = this.byteLength / this.BYTES_PER_ELEMENT;
+        } else {
+          this.length = ECMAScript.ToUint32(length);
+          this.byteLength = this.length * this.BYTES_PER_ELEMENT;
+        }
+
+        if ((this.byteOffset + this.byteLength) > this.buffer.byteLength) {
+          throw new RangeError("byteOffset and length reference an area beyond the end of the buffer");
+        }
+      } else {
+        throw new TypeError("Unexpected argument type(s)");
+      }
+
+      this.constructor = ctor;
+
+      configureProperties(this);
+      makeArrayAccessors(this);
+    };
+
+    ctor.prototype = new ArrayBufferView();
+    ctor.prototype.BYTES_PER_ELEMENT = bytesPerElement;
+    ctor.prototype._pack = pack;
+    ctor.prototype._unpack = unpack;
+    ctor.BYTES_PER_ELEMENT = bytesPerElement;
+
+    // getter type (unsigned long index);
+    ctor.prototype._getter = function(index) {
+      if (arguments.length < 1) throw new SyntaxError("Not enough arguments");
+
+      index = ECMAScript.ToUint32(index);
+      if (index >= this.length) {
+        return undefined;
+      }
+
+      var bytes = [], i, o;
+      for (i = 0, o = this.byteOffset + index * this.BYTES_PER_ELEMENT;
+           i < this.BYTES_PER_ELEMENT;
+           i += 1, o += 1) {
+        bytes.push(this.buffer._bytes[o]);
+      }
+      return this._unpack(bytes);
+    };
+
+    // NONSTANDARD: convenience alias for getter: type get(unsigned long index);
+    ctor.prototype.get = ctor.prototype._getter;
+
+    // setter void (unsigned long index, type value);
+    ctor.prototype._setter = function(index, value) {
+      if (arguments.length < 2) throw new SyntaxError("Not enough arguments");
+
+      index = ECMAScript.ToUint32(index);
+      if (index >= this.length) {
+        return undefined;
+      }
+
+      var bytes = this._pack(value), i, o;
+      for (i = 0, o = this.byteOffset + index * this.BYTES_PER_ELEMENT;
+           i < this.BYTES_PER_ELEMENT;
+           i += 1, o += 1) {
+        this.buffer._bytes[o] = bytes[i];
+      }
+    };
+
+    // void set(TypedArray array, optional unsigned long offset);
+    // void set(sequence<type> array, optional unsigned long offset);
+    ctor.prototype.set = function(index, value) {
+      if (arguments.length < 1) throw new SyntaxError("Not enough arguments");
+      var array, sequence, offset, len,
+          i, s, d,
+          byteOffset, byteLength, tmp;
+
+      if (typeof arguments[0] === 'object' && arguments[0].constructor === this.constructor) {
+        // void set(TypedArray array, optional unsigned long offset);
+        array = arguments[0];
+        offset = ECMAScript.ToUint32(arguments[1]);
+
+        if (offset + array.length > this.length) {
+          throw new RangeError("Offset plus length of array is out of range");
+        }
+
+        byteOffset = this.byteOffset + offset * this.BYTES_PER_ELEMENT;
+        byteLength = array.length * this.BYTES_PER_ELEMENT;
+
+        if (array.buffer === this.buffer) {
+          tmp = [];
+          for (i = 0, s = array.byteOffset; i < byteLength; i += 1, s += 1) {
+            tmp[i] = array.buffer._bytes[s];
+          }
+          for (i = 0, d = byteOffset; i < byteLength; i += 1, d += 1) {
+            this.buffer._bytes[d] = tmp[i];
+          }
+        } else {
+          for (i = 0, s = array.byteOffset, d = byteOffset;
+               i < byteLength; i += 1, s += 1, d += 1) {
+            this.buffer._bytes[d] = array.buffer._bytes[s];
+          }
+        }
+      } else if (typeof arguments[0] === 'object' && typeof arguments[0].length !== 'undefined') {
+        // void set(sequence<type> array, optional unsigned long offset);
+        sequence = arguments[0];
+        len = ECMAScript.ToUint32(sequence.length);
+        offset = ECMAScript.ToUint32(arguments[1]);
+
+        if (offset + len > this.length) {
+          throw new RangeError("Offset plus length of array is out of range");
+        }
+
+        for (i = 0; i < len; i += 1) {
+          s = sequence[i];
+          this._setter(offset + i, Number(s));
+        }
+      } else {
+        throw new TypeError("Unexpected argument type(s)");
+      }
+    };
+
+    // TypedArray subarray(long begin, optional long end);
+    ctor.prototype.subarray = function(start, end) {
+      function clamp(v, min, max) { return v < min ? min : v > max ? max : v; }
+
+      start = ECMAScript.ToInt32(start);
+      end = ECMAScript.ToInt32(end);
+
+      if (arguments.length < 1) { start = 0; }
+      if (arguments.length < 2) { end = this.length; }
+
+      if (start < 0) { start = this.length + start; }
+      if (end < 0) { end = this.length + end; }
+
+      start = clamp(start, 0, this.length);
+      end = clamp(end, 0, this.length);
+
+      var len = end - start;
+      if (len < 0) {
+        len = 0;
+      }
+
+      return new this.constructor(
+        this.buffer, this.byteOffset + start * this.BYTES_PER_ELEMENT, len);
+    };
+
+    return ctor;
+  }
+
+  var Int8Array = makeConstructor(1, packI8, unpackI8);
+  var Uint8Array = makeConstructor(1, packU8, unpackU8);
+  var Uint8ClampedArray = makeConstructor(1, packU8Clamped, unpackU8);
+  var Int16Array = makeConstructor(2, packI16, unpackI16);
+  var Uint16Array = makeConstructor(2, packU16, unpackU16);
+  var Int32Array = makeConstructor(4, packI32, unpackI32);
+  var Uint32Array = makeConstructor(4, packU32, unpackU32);
+  var Float32Array = makeConstructor(4, packF32, unpackF32);
+  var Float64Array = makeConstructor(8, packF64, unpackF64);
+
+  exports.Int8Array = exports.Int8Array || Int8Array;
+  exports.Uint8Array = exports.Uint8Array || Uint8Array;
+  exports.Uint8ClampedArray = exports.Uint8ClampedArray || Uint8ClampedArray;
+  exports.Int16Array = exports.Int16Array || Int16Array;
+  exports.Uint16Array = exports.Uint16Array || Uint16Array;
+  exports.Int32Array = exports.Int32Array || Int32Array;
+  exports.Uint32Array = exports.Uint32Array || Uint32Array;
+  exports.Float32Array = exports.Float32Array || Float32Array;
+  exports.Float64Array = exports.Float64Array || Float64Array;
+}());
+
+//
+// 6 The DataView View Type
+//
+
+(function() {
+  function r(array, index) {
+    return ECMAScript.IsCallable(array.get) ? array.get(index) : array[index];
+  }
+
+  var IS_BIG_ENDIAN = (function() {
+    var u16array = new(exports.Uint16Array)([0x1234]),
+        u8array = new(exports.Uint8Array)(u16array.buffer);
+    return r(u8array, 0) === 0x12;
+  }());
+
+  // Constructor(ArrayBuffer buffer,
+  //             optional unsigned long byteOffset,
+  //             optional unsigned long byteLength)
+  /** @constructor */
+  var DataView = function DataView(buffer, byteOffset, byteLength) {
+    if (arguments.length === 0) {
+      buffer = new exports.ArrayBuffer(0);
+    } else if (!(buffer instanceof exports.ArrayBuffer || ECMAScript.Class(buffer) === 'ArrayBuffer')) {
+      throw new TypeError("TypeError");
+    }
+
+    this.buffer = buffer || new exports.ArrayBuffer(0);
+
+    this.byteOffset = ECMAScript.ToUint32(byteOffset);
+    if (this.byteOffset > this.buffer.byteLength) {
+      throw new RangeError("byteOffset out of range");
+    }
+
+    if (arguments.length < 3) {
+      this.byteLength = this.buffer.byteLength - this.byteOffset;
+    } else {
+      this.byteLength = ECMAScript.ToUint32(byteLength);
+    }
+
+    if ((this.byteOffset + this.byteLength) > this.buffer.byteLength) {
+      throw new RangeError("byteOffset and length reference an area beyond the end of the buffer");
+    }
+
+    configureProperties(this);
+  };
+
+  function makeGetter(arrayType) {
+    return function(byteOffset, littleEndian) {
+
+      byteOffset = ECMAScript.ToUint32(byteOffset);
+
+      if (byteOffset + arrayType.BYTES_PER_ELEMENT > this.byteLength) {
+        throw new RangeError("Array index out of range");
+      }
+      byteOffset += this.byteOffset;
+
+      var uint8Array = new exports.Uint8Array(this.buffer, byteOffset, arrayType.BYTES_PER_ELEMENT),
+          bytes = [], i;
+      for (i = 0; i < arrayType.BYTES_PER_ELEMENT; i += 1) {
+        bytes.push(r(uint8Array, i));
+      }
+
+      if (Boolean(littleEndian) === Boolean(IS_BIG_ENDIAN)) {
+        bytes.reverse();
+      }
+
+      return r(new arrayType(new exports.Uint8Array(bytes).buffer), 0);
+    };
+  }
+
+  DataView.prototype.getUint8 = makeGetter(exports.Uint8Array);
+  DataView.prototype.getInt8 = makeGetter(exports.Int8Array);
+  DataView.prototype.getUint16 = makeGetter(exports.Uint16Array);
+  DataView.prototype.getInt16 = makeGetter(exports.Int16Array);
+  DataView.prototype.getUint32 = makeGetter(exports.Uint32Array);
+  DataView.prototype.getInt32 = makeGetter(exports.Int32Array);
+  DataView.prototype.getFloat32 = makeGetter(exports.Float32Array);
+  DataView.prototype.getFloat64 = makeGetter(exports.Float64Array);
+
+  function makeSetter(arrayType) {
+    return function(byteOffset, value, littleEndian) {
+
+      byteOffset = ECMAScript.ToUint32(byteOffset);
+      if (byteOffset + arrayType.BYTES_PER_ELEMENT > this.byteLength) {
+        throw new RangeError("Array index out of range");
+      }
+
+      // Get bytes
+      var typeArray = new arrayType([value]),
+          byteArray = new exports.Uint8Array(typeArray.buffer),
+          bytes = [], i, byteView;
+
+      for (i = 0; i < arrayType.BYTES_PER_ELEMENT; i += 1) {
+        bytes.push(r(byteArray, i));
+      }
+
+      // Flip if necessary
+      if (Boolean(littleEndian) === Boolean(IS_BIG_ENDIAN)) {
+        bytes.reverse();
+      }
+
+      // Write them
+      byteView = new exports.Uint8Array(this.buffer, byteOffset, arrayType.BYTES_PER_ELEMENT);
+      byteView.set(bytes);
+    };
+  }
+
+  DataView.prototype.setUint8 = makeSetter(exports.Uint8Array);
+  DataView.prototype.setInt8 = makeSetter(exports.Int8Array);
+  DataView.prototype.setUint16 = makeSetter(exports.Uint16Array);
+  DataView.prototype.setInt16 = makeSetter(exports.Int16Array);
+  DataView.prototype.setUint32 = makeSetter(exports.Uint32Array);
+  DataView.prototype.setInt32 = makeSetter(exports.Int32Array);
+  DataView.prototype.setFloat32 = makeSetter(exports.Float32Array);
+  DataView.prototype.setFloat64 = makeSetter(exports.Float64Array);
+
+  exports.DataView = exports.DataView || DataView;
+
+}());
+
+},{}],179:[function(require,module,exports){
+arguments[4][31][0].apply(exports,arguments)
+},{"dup":31}],180:[function(require,module,exports){
+const formats = require("@rdfjs/formats-common");
+const RdfXmlParser = require("rdfxml-streaming-parser").RdfXmlParser;
+const Readable = require("stream").Readable;
+const templatePath = "src/template.html";
+
+async function render(data, format, source) {
+    const template = await getTemplate();
+    const rawRdf = await parseData(data, format);
+    const processedRdf = await processRdf(rawRdf);
+    return createDocument(template, processedRdf, source);
+}
+
+function getTemplate() {
+    return new Promise(resolve => {
+        fetch(templatePath)
+            .then(file => {
+                return file.text();
+            })
+            .then(text => {
+                resolve(text);
+            })
     });
 }
 
-/**
- * Registry of functions to handle RDF lists.
- */
-const listRegistry = {
-    'javascript:urdf.indexOf': (l, id) => l.indexOf(id),
-    'javascript:urdf.lastIndexOf': (l, id) => l.lastIndexOf(id),
-    'javascript:urdf.valueAt': (l, idx) => utils.term(l[idx]),
-    'javascript:urdf.length': (l) => l.length
-};
-
-for (let name in listRegistry) utils.register(name, listRegistry[name]);
-
-module.exports.register = utils.register;
-module.exports.size = store.size;
-module.exports.findGraph = store.findGraph;
-module.exports.find = find;
-module.exports.clear = clear;
-module.exports.load = load;
-module.exports.loadFrom = loadFrom;
-module.exports.query = query;
-},{"./io.js":88,"./urdf.js":90,"./utils.js":91,"jsonld":48,"sparqljs":84}],90:[function(require,module,exports){
-'use strict';
-
-/**
- * See Store.size(). 
- */
-function size(store, gid) {
-	var size = 0;
-	
-	store.forEach(function(g) {
-		if (gid !== undefined && g['@id'] !== gid) return;
-
-		g['@graph'].forEach(function(n) {
-			for (var p in n) {
-				if (p !== '@id') size += n[p].length;
-			}
-		});
-	});
-	
-	return size;
-};
-
-/**
- * See Store.load().
- */
-function load(store, json, gid) {
-	json.forEach(function(n) {
-		var s = find(store, n['@id'], gid);
-		
-		if (s === null) {
-			// TODO copy instead
-			var g = findGraph(store, gid);
-
-			if (g === null) {
-				g = [];
-
-				var container = { '@graph': g };
-				if (gid !== undefined) container['@id'] = gid;
-
-				store.push(container);
-			}
-
-			g.push(n);
-		} else {
-			for (var p in n) {
-				s[p] = n[p];
-			}
-		}
-	});
-	
-	return true;
-};
-
-/**
- * See Store.clear().
- */
-function clear(store, gid) {
-	if (gid !== undefined) {
-		var idx = store.findIndex(function(g) {
-			return g['@id'] === gid;
-		});
-
-		if (idx < 0) return false;
-
-		store.splice(idx, 1);
-	} else {
-		store.splice(0);
-
-		store.push({
-			// default graph
-			'@graph': []
-		});
-	}
-
-	return true;
-};
-
-/**
- * See Store.listGraphs().
- */
-function listGraphs(store) {
-	return store.map(function(g) {
-		return g['@id'];
-	}).filter(function(name) {
-		return name !== undefined
-	});
-};
-
-/**
- * See Store.findGraph().
- */
-function findGraph(store, gid) {
-	var graph = store.find(function(g) {
-		return gid !== undefined && g['@id'] === gid
-			|| gid === undefined && g['@id'] === undefined;
-	});
-
-	return graph === undefined ? null : graph['@graph'];
-};
-
-/**
- * See Store.find().
- */
-function find(store, id, gid) {
-	var graph = findGraph(store, gid);
-
-	if (graph === null) return null;
-
-	var node = graph.find(function(n) {
-		return n['@id'] !== undefined && n['@id'] === id;
-	});
-	
-	return node === undefined ? null : node;
-};
-
-/**
- * See Store.query().
- */
-function query(store, frame, gid) {
-	var _node = function(id) {
-		if (id === '@type') id = 'http://www.w3.org/1999/02/22-rdf-syntax-ns#type';
-		return { '@id': id };
-	};
-
-	var _binding = function(f, n) {
-		return {
-			[lexicalForm(f)]: sparqlJsonForm(n)
-		};
-	};
-
-	var _queryAll = function(f, list, Ω) {
-		return list.map(function(n) {
-			return _query(f, n, Ω);
-		}).reduce(function(Ωp, Ωn) {
-			return Ωp.concat(Ωn);
-		}, []);
-	};
-
-	var _query = function(f, n, Ω) {
-		if (!match(f, n)) {
-			return [];
-		} else if (isLiteral(f)) {
-			return Ω;
-		} else {
-			if (isVariable(f)) {
-				// TODO exclude from result if no bnode label
-				Ω = _merge(Ω, [_binding(f, n)]);
-			}
-
-			if (f['@type'] !== undefined) {
-				var types = n['@type'].map(_node);
-
-				var Ωt = f['@type'].filter(function(t) {
-					return isVariable(_node(t))
-				}).reduce(function(Ωt, t) {
-					return _queryAll(_node(t), types, Ωt);
-				}, [{}]);
-
-				Ω = _merge(Ω, Ωt);
-			}
-
-			// TODO take 'require all' flag into account (default: true)
-			return signature(f).reduce(function(Ω, p) {
-				if (isVariable(_node(p))) {
-					return signature(n).map(function(p2) {
-						return {
-							'@id': f['@id'],
-							[p2]: f[p]
-						};
-					}).concat([{
-						'@id': f['@id'],
-						'@type': f[p].map(function(t) {
-							return t['@id'];
-						})
-					}]).reduce(function(Ω2, f2) {
-						var Ω3 = _query(f2, n, Ω);
-						var p2 = signature(f2)[0] || '@type';
-
-						Ω3 = _merge(Ω3, [_binding(_node(p), _node(p2))]);
-
-						return Ω2.concat(Ω3);
-					}, []);
-				} else {
-					return f[p].reduce(function(Ω2, f2) {
-						return _queryAll(f2, n[p], Ω2);
-					}, Ω);
-				}
-			}, Ω);
-		}
-	};
-
-	var _merge = function(Ω1, Ω2) {
-		return Ω1.reduce(function(Ω, μ1) {
-			return Ω2.reduce(function(Ω, μ2) {
-				var μ = merge(μ1, μ2);
-
-				if (μ !== null) { Ω.push(μ); }
-
-				return Ω;
-			}, Ω);
-		}, []);
-	};
-
-	return frame.reduce(function(Ω, f) {
-		var nodes = [];
-
-		if (isVariable(f)) {
-			var name = lexicalForm(f);
-
-			nodes = Ω.reduce(function(ids, μ) {
-				if (μ[name] !== undefined) {
-					var t = μ[name].type;
-					var v = μ[name].value;
-
-					if (t === 'uri' && ids.indexOf(v) == -1) ids.push(v);
-				};
-
-				return ids;
-			}, []).map(function(id) {
-				return find(store, id, gid) || { '@id': id };
-			});
-
-			if (nodes.length === 0) nodes = findGraph(store, gid);
-
-			if (nodes === null) return []; 
-		} else {
-			var n = find(store, f['@id'], gid);
-
-			if (n === null) return [];
-			else nodes.push(n);
-		}
-
-		return _queryAll(f, nodes, Ω);
-	}, [{}]);
-};
-
-/**
- * Compares the two input objects in terms of identifiers
- * and signatures (list of types and list of properties).
- * The last parameter is a 'require all' flag, specifying
- * whether all of the properties of n should match those of
- * q (all = true) or at least one (all = false). If not
- * provided, all = true. For type signatures, 'require
- * all' is always false.
- * 
- * Returns true if the identifier and the signatures of n
- * matches q (types and properties), false otherwise.
- */
-function match(q, n, all) {
-	if (isLiteral(q)) {
-		var v = q['@value'];
-		var t = q['@type'] || null;
-		var l = q['@language'] || null;
-
-		// TODO support {}
-		// TODO support range (i.e. arrays) in q
-		return (n['@value'] === v)
-			&& (n['@type'] === t || t === null)
-			&& (n['@language'] === l || l === null);
-	} else {
-		if (!isVariable(q) && q['@id'] !== n['@id']) {
-			return false;
-		}
-
-		var _intersects = function(a, b) {
-			if (a === undefined) {
-				return true;
-			} else if (b === undefined && a.length > 0) {
-				return false;
-			} else {
-				return a.some(function(elem) {
-					return isVariable({ '@id': elem }) || b.indexOf(elem) > -1;
-				});
-			}
-		};
-
-		if (!_intersects(q['@type'], n['@type'])) {
-			return false;
-		}
-
-		var _isSubset = function(a, b) {
-			if (a === undefined) {
-				return true;
-			} else if (b === undefined && a.length > 0) {
-				return false;
-			} else {
-				return a.every(function(elem) {
-					return isVariable({ '@id': elem }) || b.indexOf(elem) > -1;
-				});
-			}
-		};
-
-		var sq = signature(q);
-		var sn = signature(n);
-
-		return all === false ? _interects(sq, sn) : _isSubset(sq, sn);
-	}
-};
-
-/**
- * Merges two solution mappings.
- *
- * Returns a new mapping object with entries of both input objects
- * if mappings are compatible, null otherwise.
- */
-function merge(μ1, μ2) {
-	var μ = {};
-
-	// TODO datatype, lang
-	
-	for (var v in μ1) {
-		if (μ2[v] !== undefined && μ2[v].value !== μ1[v].value) {
-			return null;
-		}
-
-		μ[v] = μ1[v];
-	}
-
-	for (var v in μ2) {
-		if (μ[v] === undefined) μ[v] = μ2[v];
-	}
-	
-	return μ;
-};
-
-/**
- * Returns the signature of the input node
- * (the list of its properties, excluding @-properties).
- * 
- * TODO bitmap as in the original impl?
- */
-function signature(obj) {
-	var fn = function(p) { return p[0] !== '@' };
-	return Object.keys(obj).filter(fn);
+function parseData(data, format) {
+    return new Promise((resolve, reject) => {
+        let parser;
+        if(format === "application/rdf+xml") {
+            parser = new RdfXmlParser();
+        }
+        else {
+            const readable = new Readable({
+                read: () => {
+                    readable.push(data);
+                    readable.push(null);
+                }
+            });
+            parser = formats.parsers.import(format, readable);
+        }
+        if(!parser) {
+            reject("Unsupported format");
+        }
+        const quads = [];
+        const prefixes = [];
+        parser
+            .on("data", quad => {
+                quads.push(quad);
+            })
+            .on("prefix", (prefix, ns) => {
+                prefixes.push([prefix, ns]);
+            })
+            .on("error", error => {
+                reject(error);
+            })
+            .on("end", () => {
+                console.log(quads);
+                console.log(prefixes);
+                resolve([quads, prefixes]);
+            });
+        if(format === "application/rdf+xml") {
+            parser.write(data);
+            parser.end();
+        }
+    });
 }
 
-/**
- * Evaluates if the input object is a variable
- * (i.e. a blank node).
- *
- * Returns true if obj is a variable, false otherwise.
- */
-function isVariable(obj) {
-	return obj['@id'] !== undefined && obj['@id'].indexOf('_:') === 0;
-};
-
-/**
- * Evaluates if the input object is a literal.
- *
- * Returns true if obj is a literal, false otherwise.
- */
-function isLiteral(obj) {
-	return obj['@value'] !== undefined;
-};
-
-/**
- * Evaluates if the input object is a list.
- * 
- * Returns true if obj is a list object, false otherwise.
- */
-function isList(obj) {
-	return obj['@list'] !== undefined;
+function processRdf(rdf) {
+    return new Promise(resolve => {
+        const quads = rdf[0];
+        const prefixes = rdf[1];
+        resolve("This document type is not supported yet."); //TODO implement
+    });
 }
 
-/**
- * Returns the RDF lexical form of the input object.
- */
-function lexicalForm(obj) {
-	if (isVariable(obj)) return obj['@id'].substring(2);
-	else if (isLiteral(obj)) return obj['@value'];
-	else if (isList(obj)) return obj['@list'];
-	else return obj['@id'] ? obj['@id'] : '';
-}
-
-/**
- * Returns the SPARQL JSON form of the input object.
- * 
- * The format was extended to include RDF lists, which
- * are not directly accessible from the µRDF store.
- */
-function sparqlJsonForm(obj) {
-	var sj = {
-		value: lexicalForm(obj)
-	};
-
-	if (isLiteral(obj)) {
-		sj.type = 'literal';
-
-		if (obj['@type']) sj.datatype = obj['@type'];
-		if (obj['@language']) sj.lang = obj['@language'];
-	} else if (isVariable(obj)) {
-		sj.type = 'bnode';
-	} else if (isList(obj)) {
-		sj.type = 'list';
-		sj.value = sj.value.map(function(o) { return sparqlJsonForm(o) });
-	} else {
-		sj.type = 'uri';
-	}
-
-	return sj;
-}
-
-/**
- * Single instance of the µRDF store, with its own dataset.
- */
-function Store() {
-	/**
-	 * A JSON-LD context URI providing mappings
-	 * from JSON keys to RDF IRIs.
-	 */
-	this.context = '';
-
-	/**
-	 * The µRDF store data structure (private member).
-	 */
-	var store = [
-		{
-			// default graph
-			'@graph': []
-		}
-	];
-
-	/**
-	 * Returns the number of triples stored in the µRDF store
-	 * or in the given named graph.
-	 */
-	this.size = function(gid) { return size(store, gid); };
-
-	/**
-	 * Loads a flattened (and compacted) JSON-LD document into the µRDF store.
-	 * 
-	 * Returns true if no error occurred, false otherwise.
-	 */
-	this.load = function(json, gid) { return load(store, json, gid); };
-
-	/**
-	 * Empties the content of the µRDF store or of a named graph, if provided.
-	 * 
-	 * Returns true.
-	 */
-	this.clear = function(gid) { return clear(store, gid); };
-
-	/**
-	 * Lists all named graph in the µRDF store.
-	 * 
-	 * Returns a (possibly empty) list of graph identifiers.
-	 */
-	this.listGraphs = function() { return listGraphs(store); };
-
-	/**
-	 * Looks for a named graph with the given identifier in the µRDF store
-	 * or the default graph if no identifier is provided.
-	 * 
-	 * Returns the graph's node list if found, the default graph otherwise.
-	 */
-	this.findGraph = function(gid) { return findGraph(store, gid); };
-
-	/**
-	 * Looks for the first node in the µRDF store with the given input.
-	 * 
-	 * Returns the node if found, null otherwise.
-	 */
-	this.find = function(id, gid) { return find(store, id, gid); };
-
-	/**
-	 * Processes a flattened JSON-LD frame object,
-	 * interpreted as a query, against the µRDF store
-	 * (blank nodes = variables). An optional graph
-	 * identifier can be given to reduce the scope of
-	 * querying.
-	 *
-	 * Returns solution mappings as defined by the
-	 * SPARQL results JSON format.
-	 * See https://www.w3.org/TR/sparql11-results-json/.
-	 */
-	this.query = function(frame, gid) { return query(store, frame, gid); };
-}
-
-module.exports.Store = Store;
-module.exports.merge = merge;
-module.exports.signature = signature;
-},{}],91:[function(require,module,exports){
-'use strict';
-
-// TODO derived from https://github.com/vcharpenay/STTL.js, avoid duplicates?
-
-/**
- * Known URI schemes. See https://www.iana.org/assignments/uri-schemes/uri-schemes.xhtml.
- */
-const schemes = [
-	'about',
-	'coap',
-	'coap+tcp',
-	'coap+ws',
-	'coaps',
-	'coaps+tcp',
-	'coaps+ws',
-	'data',
-	'did',
-	'file',
-	'ftp',
-	'go',
-	'http',
-	'https',
-	'info',
-	'iotdisco',
-	'mailto',
-	'ni',
-	'nih',
-	'tag',
-	'tel',
-	'urn',
-	'ws',
-	'wss',
-	'xmpp',
-	'xri'
-];
-
-/**
- * Known namespace prefixes.
- */
-const ns = {
-	rdf: 'http://www.w3.org/1999/02/22-rdf-syntax-ns#',
-	xsd: 'http://www.w3.org/2001/XMLSchema#'
-};
-
-/**
- * Custom function registry
- */
-const registry = {};
-
-/**
- * Transforms a N3.js representation of an RDF term
- * or a native JS value to a SPARQL JSON object.
- */
-function term(plain) {
-	if (typeof plain === 'boolean') {
-		return {
-			type: 'literal',
-			datatype: ns.xsd + 'boolean',
-			value: String(plain)
-		};
-	} else if (typeof plain === 'number') {
-		return {
-			type: 'literal',
-			datatype: ns.xsd + (Number.isInteger(plain) ? 'integer' : 'decimal'),
-			value: String(plain)
-		};
-	} else if (plain instanceof Date) {
-		return {
-			type: 'literal',
-			datatype: ns.xsd + 'dateTime',
-			value: plain.toISOString()
-		};
-	} else if (typeof plain === 'string') {
-		let capture = null;
-
-		if (capture = plain.match(/"([^]*)"(@(.*))?(\^\^(.*))?/)) {
-			let [str, lit, at, lang, roof, datatype] = capture;
-			let t = {
-				type: 'literal',
-				value: lit
-			};
-
-			if (lang) t.lang = lang;
-			if (datatype) t.datatype = datatype;
-
-			return t;
-		} else if (schemes.some(s => plain.startsWith(s + ':'))) {
-			return {
-				type: 'uri',
-				value: plain
-			};
-		} else if (capture = plain.match(/([A-Za-z0-9]+):(.*)/)) {
-			let [str, prefix, name] = capture; 
-			return {
-				type: 'uri',
-				value: ns[prefix] + name
-			};
-		} else if (capture = plain.match(/_:(.*)/)) {
-			let [str, name] = capture; 
-			return {
-				type: 'bnode',
-				value: name
-			}
-		} else if (capture = plain.match(/\?(.+)/)) {
-			let [qmark, name] = capture;
-			return {
-				type: 'variable',
-				value: name
-			}
-		}
-	} else if (typeof plain === 'object') {
-		return plain;
-	}
-	
-	return {};
-}
-
-/**
- * Transforms a SPARQL JSON object to a JSON-LD term.
- * 
- * @param {string} term the SPARQL JSON object
- */
-function nodeOrValue(term) {
-	switch (term.type) {
-		case 'uri':
-			return { '@id': term.value };
-
-		case 'bnode':
-		case 'variable':
-			return { '@id': '_:' + term.value };
-
-		case 'literal':
-		default:
-			return {
-				'@value': term.value,
-				'@language': term.language,
-				'@type': term.datatype
-			};
-	}
-}
-
-/**
- * Turns a SPARQL JSON object into a native JS constant:
- *  - xsd:boolean to Boolean
- *  - xsd:float, xsd:long, xsd:integer and derivative to Number
- *  - xsd:dateTime, xsd:date and xsd:time to Date
- *  - xsd:string to String
- *  - literals with no datatype default to String (lexical value)
- * 
- * @param {object} term the SPARQL JSON object
- */
-function native(term) {
-	if (term.type === 'uri') {
-		return term.value;
-	} else if (term.type === 'bnode') {
-		return '_:' + term.value;
-	} else if (term.type === 'list') {
-		return term.value.map(native);
-	} else { // all literals
-		switch (term.datatype) {
-			case ns.xsd + 'boolean':
-				switch (term.value) {
-					case 'true':
-					case 'false':
-						return (term.value === 'true');
-						
-					default:
-						throw new Error('Term is not a boolean: ' + term);
-				}
-				
-			case ns.xsd + 'decimal':
-			case ns.xsd + 'float':
-			case ns.xsd + 'double':
-			case ns.xsd + 'integer':
-			case ns.xsd + 'nonPositiveInteger':
-			case ns.xsd + 'negativeInteger':
-			case ns.xsd + 'nonNegativeInteger':
-			case ns.xsd + 'positiveInteger':
-			case ns.xsd + 'unsignedLong':
-			case ns.xsd + 'unsignedInt':
-			case ns.xsd + 'unsignedShort':
-			case ns.xsd + 'unsignedByte':
-			case ns.xsd + 'long':
-			case ns.xsd + 'int':
-			case ns.xsd + 'short':
-			case ns.xsd + 'byte':
-				return Number(term.value);
-
-			case ns.xsd + 'dateTime':
-			case ns.xsd + 'date':
-			case ns.xsd + 'time':
-				return new Date(term.value);
-
-			case ns.xsd + 'string':
-			default:
-				return term.value;
-		}
-	}
-}
-
-/**
- * Computes the Effective Boolean Value (EBV) of a term.
- * 
- * @param {object} term the term as a SPARQL JSON object
- */
-function ebv(term) {
-	if (term.type && term.type != 'literal') {
-		throw new Error('No boolean value can be computed for term: ' + term);
-	}
-	
-	return Boolean(native(term));
-}
-
-/**
- * Turns the input BGP into a normalized JSON-LD frame.
- * 
- * @param {object} bgp a BGP pattern as object (abstract syntax tree)
- */
-function frame(bgp) {
-	return bgp.triples.reduce((f, tp) => {
-			let s = nodeOrValue(term(tp.subject));
-
-			let n = f.find(n => n['@id'] === s['@id']);
-			if (!n) { n = s; f.push(n); }
-
-			let p = (tp.predicate === ns.rdf + 'type') ?
-							'@type' : tp.predicate;
-							
-			if (p[0] === '?') p = '_:' + p.substring(1);
-			if (!n[p]) n[p] = [];
-
-			let o = nodeOrValue(term(tp.object));
-
-			if (p === '@type') o = o['@id'];
-			n[p].push(o);
-
-			return f;
-	}, []);
-}
-
-/**
- * Returns a comparison integer (-1, 0 or 1) by comparing
- * expressions for some mappings.
- * 
- * @param {object} mu1 first solution 
- * @param {object} mu2 second solution
- * @param {array} by expressions by which to order 
- */
-function compare(mu1, mu2, by) {
-	if (!by.length) return 0;
-
-	let head = by[0];
-	let tail = by.slice(1);
-
-	let v1 = native(evaluate(head.expression, mu1));
-	let v2 = native(evaluate(head.expression, mu2));
-
-	if (head.descending) {
-		let v = v1;
-		v1 = v2;
-		v2 = v;
-	}
-
-	if (v1 < v2) return -1;
-	else if (v1 > v2) return 1;
-  else return compare(mu1, mu2, tail);
-}
-
-/**
- * Returns an operator type for some input operator
- * (merely to aggregate operation evaluation).
- * 
- * @param {string} op the operator
- */
-function opType(op) {
-	switch (op) {
-		case '!':
-		case '||':
-		case '&&':
-		case '=':
-		case '!=':
-		case '<':
-		case '>':
-		case '<=':
-		case '>=':
-		case '*':
-		case '/':
-		case '+':
-		case '-':
-			return 'base';
-
-		case 'isuri':
-		case 'isiri':
-		case 'isblank':
-		case 'isliteral':
-		case 'isnumeric':
-		case 'str':
-		case 'lang':
-		case 'datatype':
-		case 'uri':
-		case 'iri':
-		case 'BNODE':
-		case 'strdt':
-		case 'strlang':
-		case 'uuid':
-		case 'struuid':
-			return 'termBuiltIn';
-
-		case 'strlen':
-		case 'substr':
-		case 'ucase':
-		case 'lcase':
-		case 'strstarts':
-		case 'strends':
-		case 'contains':
-		case 'strbefore':
-		case 'strafter':
-		case 'encode_for_uri':
-		case 'concat':
-		case 'langmatches':
-		case 'regex':
-		case 'replace':
-			return 'stringBuiltIn';
-
-		case 'abs':
-		case 'round':
-		case 'ceil':
-		case 'floor':
-		case 'rand':
-			return 'numericBuiltIn';
-		
-		case 'now':
-		case 'year':
-		case 'month':
-		case 'day':
-		case 'hours':
-		case 'minutes':
-		case 'seconds':
-		case 'timezone':
-		case 'tz':
-			return 'dateTimeBuiltIn';
-
-		default:
-			throw new Error('Operator unknown: ' + expr.operator);
-	}
-}
-
-/**
- * See SPARQL 1.1 Query Language, section 17.3 "Operator Mapping".
- * 
- * @param {string} op the operator
- * @param {array} args operands (or arguments)
- */
-function evaluateBaseOperation(op, args) {
-	args = args.map(arg => native(arg));
-
-	// TODO test whole XML operator mapping
-	// SPARQL 17.3
-
-	switch (op) {
-		// logical operators
-
-		case '!':
-			return term(!args[0]);
-
-		case '||':
-			return term(args[0] || args[1]);
-
-		case '&&':
-			return term(args[0] && args[1]);
-
-		case '=':
-			return term(args[0] === args[1]);
-
-		case '!=':
-			return term(args[0] != args[1]);
-
-		case '<':
-			return term(args[0] < args[1]);
-
-		case '>':
-			return term(args[0] > args[1]);
-
-		case '<=':
-			return term(args[0] <= args[1]);
-
-		case '>=':
-			return term(args[0] >= args[1]);
-
-		// arithmetic operators
-
-		case '*':
-			return term(args[0] * args[1]);
-
-		case '/':
-			// TODO if both integers, return integer
-			return term(args[0] / args[1]);
-
-		case '+':
-			return term(args[0] + args[1]);
-		
-		case '-':
-			return term(args[0] - args[1]);
-
-		default:
-			throw new Error('Unknown operator');
-	}
-}
-
-/**
- * See SPARQL 1.1 Query Language, section 17.4.2 "Functions on RDF Terms".
- * 
- * @param {string} op the operator
- * @param {array} args operands (or arguments)
- */
-function evaluateTermBuiltInFunction(op, args) {
-	switch (op) {
-		case 'isuri':
-		case 'isiri':
-			return term(args[0].type === 'uri');
-		
-		case 'isblank':
-			return term(args[0].type === 'bnode');
-
-		case 'isliteral':
-			return term(args[0].type === 'literal');
-
-		case 'isnumeric':
-			return term(typeof native(args[0]) === 'number');
-
-		case 'str':
-			// TODO deal with bnodes?
-			return {
-				type: 'literal',
-				value: args[0].value
-			};
-
-		case 'lang':
-			return {
-				type: 'literal',
-				value: args[0].lang || ''
-			};
-
-		case 'datatype':
-			return {
-				type: 'literal',
-				value: args[0].datatype || (ns.xsd + 'string')
-			};
-
-		case 'uri':
-		case 'iri':
-			return {
-				type: 'uri',
-				value: args[0].value // TODO resolve IRI
-			};
-
-		case 'BNODE':
-			return {
-				type: 'bnode',
-				value: args[0] ?
-					   args[0].value :
-					   // TODO not the most reliabe ID generator...
-					   'gen_' + Math.random().toString().substring(2)
-			};
-		
-		case 'strdt':
-			return {
-				type: 'literal',
-				value: args[0].value,
-				datatype: args[1].value
-			};
-		
-		case 'strlang':
-			return {
-				type: 'literal',
-				value: args[0].value,
-				lang: args[1].value
-			};
-
-		case 'uuid':
-			// TODO
-
-		case 'struuid':
-			// TODO
-
-		default:
-			throw new Error('Unknown operator');
-	}
-}
-
-/**
- * See SPARQL 1.1 Query Language, section 17.4.3 "Functions on Strings".
- * 
- * @param {string} op the operator
- * @param {array} args operands (or arguments)
- */
-function evaluateStringBuiltInFunction(op, args) {
-	args = args.map(arg => native(arg));
-
-	// TODO check args length depending on function arity?
-	// TODO throw error when arguments not compatible
-	switch (op) {
-		case 'strlen':
-			return term(args[0].length);
-
-		case 'substr':
-			return term('"' + args[0].substr(args[1], args[2]) + '"');
-
-		case 'ucase':
-			return term('"' + args[0].toUpperCase() + '"');
-
-		case 'lcase':
-			return term('"' + args[0].toLowerCase() + '"');
-
-		case 'strstarts':
-			return term(args[0].startsWith(args[1]));
-
-		case 'strends':
-			return term(args[0].endsWith(args[1]));
-
-		case 'contains':
-			return term(args[0].includes(args[1]));
-
-		case 'strbefore':
-			return term('"' + args[0].substring(0, args[0].indexOf(args[1])) + '"');
-
-		case 'strafter':
-			let i = args[0].indexOf(args[1]) + args[1].length;
-			return term('"' + args[0].substring(i, args[0].length) + '"');
-
-		case 'encode_for_uri':
-			return term('"' + encodeURIComponent(args[0]) + '"');
-
-		case 'concat':
-			return term('"'.concat(...args.concat(['"'])));
-
-		case 'langmatches':
-			return term(args[0] === args[1] || args[1] === '*');
-
-		case 'regex':
-			return term(Boolean(args[0].match(new RegExp(args[1], args[2]))));
-
-		case 'replace':
-			return term('"' + args[0].replace(new RegExp(args[1], args[3]), args[2]) + '"');
-
-		default:
-			throw new Error('Unknown operator');
-	}
-}
-
-/**
- * See SPARQL 1.1 Query Language, section 17.4.4 "Functions on Numerics".
- * 
- * @param {string} op the operator
- * @param {array} args operands (or arguments)
- */
-function evaluateNumericBuiltInFunction(op, args) {
-	args = args.map(arg => native(arg));
-
-	switch (op) {
-		case 'abs':
-			return term(Math.abs(args[0]));
-
-		case 'round':
-			return term(Math.round(args[0]));
-
-		case 'ceil':
-			return term(Math.ceil(args[0]));
-
-		case 'floor':
-			return term(Math.floor(args[0]));
-		
-		case 'rand':
-			return term(Math.random());
-
-		default:
-			throw new Error('Unknown operator');
-	}
-}
-
-/**
- * See SPARQL 1.1 Query Language, section 17.4.5 "Functions on Dates and Times".
- * 
- * @param {string} op the operator
- * @param {array} args operands (or arguments)
- */
-function evaluateDateTimeBuiltInFunction(op, args) {
-	args = args.map(arg => native(arg));
-
-	switch (op) {
-		case 'now':
-			return term(new Date());
-
-		case 'year':
-			return term(args[0].getFullYear());
-
-		case 'month':
-			return term(args[0].getMonth() + 1);
-
-		case 'day':
-			return term(args[0].getDate());
-
-		case 'hours':
-			return term(args[0].getHours());
-
-		case 'minutes':
-			return term(args[0].getMinutes());
-
-		case 'seconds':
-			return term(args[0].getSeconds() + (args[0].getMilliseconds() / 1000));
-
-		case 'timezone':
-			// TODO add datatype
-			return term(args[0].getTimezoneOffset());
-
-		case 'tz':
-			// TODO as string 'hh:mm' or 'Z'
-			return term(args[0].getTimezoneOffset());
-
-		default:
-			throw new Error('Unknown operator');
-	}
-}
-
-/**
- * See SPARQL 1.1 Query Language, section 17.5 "XPath Constructor Functions".
- * 
- * @param {string} fn the function IRI as a string
- * @param {*} args operands (or arguments)
- */
-function evaluateConstructorFunction(fn, args) {
-	// TODO throw error if incompatible arg and if |args| > 1
-	let arg = args[0];
-
-	switch (fn) {
-		case ns.xsd + 'boolean':
-		case ns.xsd + 'double':
-		case ns.xsd + 'float':
-		case ns.xsd + 'decimal':
-		case ns.xsd + 'integer':
-		case ns.xsd + 'dateTime':
-		case ns.xsd + 'string':
-			return {
-				type: 'literal',
-				datatype: fn,
-				value: arg.value
-			};
-
-		default:
-			throw new Error('Unknown function');
-	}
-}
-
-// FIXME bindingSet, not binding
-// TODO other strategy: turn into a JS expression?
-function evaluate(expr, binding) {
-	if (typeof expr === 'string') {
-		if (expr.startsWith('?')) {
-			let name = expr.substring(1);
-			if (binding[name]) return binding[name];
-			else throw new EvaluationError('No binding found for ' + expr);
-		} else {
-			return term(expr);
-		}
-    } else if (expr.type === 'operation') {
-		if (expr.operator === 'if') {
-			let [condition, first, second] = expr.args;
-			let bool = native(evaluate(condition, binding));
-			return evaluate(bool ? first : second, binding);
-		} else if (expr.operator === 'bound') {
-			let name = expr.args[0].substring(1);
-			return term(Boolean(binding[name]));
-		} else {
-			let op = expr.operator;
-			let args = expr.args.map(arg => evaluate(arg, binding));
-
-			switch (opType(op)) {
-				case 'base':
-					return evaluateBaseOperation(op, args);
-
-				case 'termBuiltIn':
-					return evaluateTermBuiltInFunction(op, args);
-
-				case 'stringBuiltIn':
-					return evaluateStringBuiltInFunction(op, args);
-
-				case 'numericBuiltIn':
-					return evaluateNumericBuiltInFunction(op, args);
-
-				case 'dateTimeBuiltIn':
-					return evaluateDateTimeBuiltInFunction(op, args);
-
-				default:
-					throw new Error('Operator not implemented: ' + expr.operator);
-			}
-		}
-    } else if (expr.type === 'functionCall') {
-		let name = expr.function;
-		let args = expr.args.map(arg => evaluate(arg, binding));
-
-		if (name.startsWith(ns.xsd)) {
-			return evaluateConstructorFunction(name, args);
-		} else {
-			if (!registry[name]) {
-				throw new EvaluationError('Custom function not registered');
-			}
-
-			try {
-				let val = registry[name](...args.map(native));
-
-				if (typeof val === 'string') {
-					val = {
-						type: 'literal',
-						value: val
-					};
-				}
-	
-				return term(val);
-			} catch (e) {
-				throw new EvaluationError(e);
-			}
-		}
-    }
-}
-
-/**
- * Registers a custom SPARQL function. Callback arguments will
- * be passed as native JavaScript values. IRIs and blank nodes are
- * converted to strings. The function return value will be
- * converted to a SPARQL JSON form as follows:
- *  - if it is an object, it is returned as is
- *  - if it is a boolean or number, it is converted to a typed literal
- *  - if it is a string, it is converted to a plain literal
- * 
- * See SPARQL 1.1 Query Language, section 17.6 "Extensible Value Testing".
- * 
- * @param {string} name the function name (an IRI)
- * @param {function} fn the callback function
- */
-function register(name, fn) {
-	registry[name] = fn;
-}
-
-/**
- * Error occurring during evaluation of some SPARQL expression
- * (e.g. binding missing or incompatible datatypes)
- * 
- * @param {string} message some error message
- */
-class EvaluationError extends Error {
-	constructor(...args) { super(...args); }
-}
-
-module.exports.term = term;
-module.exports.native = native;
-module.exports.ebv = ebv;
-module.exports.frame = frame;
-module.exports.compare = compare;
-module.exports.evaluate = evaluate;
-module.exports.register = register;
-module.exports.EvaluationError = EvaluationError;
-},{}],92:[function(require,module,exports){
-const sttl = require('sttl');
-const urdf = require('urdf');
-
-const tpl = `
-prefix st: <http://ns.inria.fr/sparql-template/>
-prefix : <https://vcharpenay.link/#>
-
-template :main {
-    "<!DOCTYPE html>"
-    "<html>"
-        "<head></head>"
-        "<body>"
-            "<table>"
-                st:call-template(:table)
-            "</table>"
-        "</body>"
-    "</html>"
-} where {}
-
-template :table {
-    "<tr>"
-        "<td>" st:call-template(:term, ?s) "</td>"
-        "<td>" st:call-template(:term, ?p) "</td>"
-        "<td>" st:call-template(:term, ?o) "</td>"
-    "</tr>"
-} where {
-    ?s ?p ?o
-}
-
-template :term(?t) {
-    if(isIRI(?t), st:call-template(:iri, ?t),
-    if(isBlank(?t), st:call-template(:bnode, ?t),
-    st:call-template(:literal, ?t)))
-} where {}
-
-template :iri(?iri) {
-    format {
-        "<a href=\\"%s\\">%s</a>"
-        ?iri ?iri
-    }
-} where {}
-
-template :bnode(?n) {
-    format {
-        "_:%s"
-        ?n
-    }
-} where {}
-
-template :literal(?lit) {
-    format {
-        "%s"
-        ?lit
-    }
-} where {}
-`;
-
-sttl.register(tpl);
-sttl.connect(q => urdf.query(q).then(b => ({ results: { bindings: b } })));
-
-function render(data, format) {
-    return urdf.clear()
-        .then(() => urdf.load(data, { format: format }))
-        .then(() => sttl.callTemplate('https://vcharpenay.link/#main'));
+function createDocument(html, rdf, source) {
+    return new Promise(resolve =>  {
+        const document = new DOMParser().parseFromString(html, "text/html");
+        const title = document.getElementById("title");
+        const body = document.getElementById("body");
+        title.innerText = source;
+        body.innerHTML = "<p>" + rdf + "</p>"; //TODO implement properly
+        resolve(new XMLSerializer().serializeToString(document));
+    });
 }
 
 module.exports.render = render;
 
-},{"sttl":86,"urdf":89}]},{},[92])(92)
+},{"@rdfjs/formats-common":40,"rdfxml-streaming-parser":172,"stream":28}]},{},[180])(180)
 });
