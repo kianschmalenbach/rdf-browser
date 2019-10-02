@@ -30,5 +30,4 @@ $ npm run browserify
 ```
 
 ## Known issues
- - uRDF.js hsa currently no support for RDF/XML
- - When pages are fetched for the 2nd time, a cache is hit instead: the WebExtension script is never called.
+  - When pages are fetched for the 2nd time, a cache is hit instead: the WebExtension script is never called.
