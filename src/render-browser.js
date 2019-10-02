@@ -27325,13 +27325,74 @@ arguments[4][31][0].apply(exports,arguments)
 const formats = require("@rdfjs/formats-common");
 const RdfXmlParser = require("rdfxml-streaming-parser").RdfXmlParser;
 const Readable = require("stream").Readable;
+const ts = require("./triplestore");
+
+function obtainTriplestore(data, format) {
+    return new Promise((resolve, reject) => {
+        let parser;
+        if(format === "application/rdf+xml")
+            parser = new RdfXmlParser();
+        else {
+            const readable = new Readable({
+                read: () => {
+                    readable.push(data);
+                    readable.push(null);
+                }
+            });
+            parser = formats.parsers.import(format, readable);
+        }
+        if(!parser)
+            reject("Unsupported format");
+        const store = ts.getTriplestore();
+        parser
+            .on("data", triple => {
+                const subject = processResource(store, triple.subject);
+                const predicate = processResource(store, triple.predicate);
+                const object = processResource(store, triple.object);
+                store.addTriple(subject, predicate, object);
+            })
+            .on("prefix", (prefix, ns) => {
+                store.addPrefix(prefix, ns.value);
+            })
+            .on("error", error => {
+                reject(error);
+            })
+            .on("end", () => {
+                resolve(store);
+            });
+        if(format === "application/rdf+xml") {
+            parser.write(data);
+            parser.end();
+        }
+    });
+}
+
+function processResource(store, resource) {
+    const value = resource.value;
+    const resourceType = Object.getPrototypeOf(resource).termType;
+    if(!resourceType)
+        return null;
+    switch(resourceType) {
+        case "BlankNode":
+            return store.getBlankNode(value);
+        case "NamedNode":
+            return store.getURI(value);
+        case "Literal":
+            return store.getLiteral(value, resource.datatype.value, resource.language);
+    }
+    return null;
+}
+
+module.exports = {obtainTriplestore};
+
+},{"./triplestore":182,"@rdfjs/formats-common":40,"rdfxml-streaming-parser":172,"stream":28}],181:[function(require,module,exports){
 const templatePath = "src/template.html";
+const parser = require("./parser");
 
 async function render(data, format, source) {
     const template = await getTemplate();
-    const rawRdf = await parseData(data, format);
-    const processedRdf = await processRdf(rawRdf);
-    return createDocument(template, processedRdf, source);
+    const triplestore = await parser.obtainTriplestore(data, format);
+    return createDocument(template, triplestore, source);
 }
 
 function getTemplate() {
@@ -27346,116 +27407,22 @@ function getTemplate() {
     });
 }
 
-function parseData(data, format) {
-    return new Promise((resolve, reject) => {
-        let parser;
-        if(format === "application/rdf+xml") {
-            parser = new RdfXmlParser();
-        }
-        else {
-            const readable = new Readable({
-                read: () => {
-                    readable.push(data);
-                    readable.push(null);
-                }
-            });
-            parser = formats.parsers.import(format, readable);
-        }
-        if(!parser) {
-            reject("Unsupported format");
-        }
-        const quads = [];
-        const prefixes = [];
-        parser
-            .on("data", quad => {
-                quads.push(quad);
-            })
-            .on("prefix", (prefix, ns) => {
-                prefixes.push([prefix, ns]);
-            })
-            .on("error", error => {
-                reject(error);
-            })
-            .on("end", () => {
-                //console.log(quads);
-                //console.log(prefixes);
-                resolve([quads, prefixes]);
-            });
-        if(format === "application/rdf+xml") {
-            parser.write(data);
-            parser.end();
-        }
-    });
-}
-
-function processRdf(rdf) {
-    return new Promise(resolve => {
-        const quads = rdf[0];
-        const prefixes = rdf[1];
-        const result = {
-            prefixes: [],
-            triples: []
-        };
-        quads.forEach(quad => {
-            const triple = [quad.subject, quad.predicate, quad.object];
-            let output = "";
-            triple.forEach(resource => {
-                let value = resource.value;
-                const resourceType = Object.getPrototypeOf(resource).termType;
-                if(resourceType) {
-                    switch(resourceType) {
-                        case "BlankNode":
-                            value = "_:" + value;
-                            break;
-                        case "NamedNode":
-                            const link = "<a href='" + value + "'>";
-                            const prefix = hasPrefix(value);
-                            if(prefix) {
-                                output.prefixes.push(prefix);
-                                value.replace(prefix.uri, prefix.name + ":");
-                            }
-                            else {
-                                value = "&lt;" + value + "&gt;";
-                            }
-                            value = link + value + "</a>";
-                            break;
-                        case "Literal":
-                            value = "\"" + value + "\"";
-                            if(resource.datatype) {
-                                if(resource.language) {
-                                    value += "@" + resource.language;
-                                } else {
-                                    value += "^^&lt;" + resource.datatype.value + "&gt;";
-                                }
-                            }
-                    }
-                }
-                output += value + " ";
-            });
-            output += ".<br>";
-            //console.log(output);
-            result.triples.push(output);
-        });
-        resolve(result);
-    });
-}
-
-function hasPrefix(uri, prefixes) {
-    //TODO implement
-    //returns false or { uri: "http://...", name: "name" }
-    return false;
-}
-
-function createDocument(html, rdf, source) {
+function createDocument(html, store, source) {
     return new Promise(resolve =>  {
         const document = new DOMParser().parseFromString(html, "text/html");
         const title = document.getElementById("title");
         const body = document.getElementById("body");
         title.innerText = source;
-        let bodyContent = "";
-        rdf.triples.forEach(triple => {
-            bodyContent += triple;
+        let bodyContent = "<p>";
+        store.prefixes.forEach(prefix => {
+            bodyContent += prefix.representation + "<br>";
         });
+        bodyContent += "</p><p>";
+        store.triples.forEach(triple => {
+            bodyContent += triple.subject.representation + " " + triple.predicate.representation + " "
+                + triple.object.representation + " .<br>";
+        });
+        bodyContent += "</p>";
         body.innerHTML = bodyContent;
         resolve(new XMLSerializer().serializeToString(document));
     });
@@ -27463,5 +27430,183 @@ function createDocument(html, rdf, source) {
 
 module.exports.render = render;
 
-},{"@rdfjs/formats-common":40,"rdfxml-streaming-parser":172,"stream":28}]},{},[180])(180)
+},{"./parser":180}],182:[function(require,module,exports){
+//const Types = { URI: 1, LITERAL: 2, BLANK_NODE: 3, PREFIX: 4 };
+
+class Triplestore {
+    constructor() {
+        this.triples = [];
+        this.prefixes = [];
+        this.uris = {};
+        this.blankNodes = {};
+    }
+
+    getURI(value) {
+        let uri = this.uris[value];
+        if(!uri) {
+            uri = new URI(value);
+            this.uris[value] = uri;
+        }
+        return uri;
+    }
+
+    getBlankNode(name) {
+        let bn = this.blankNodes[name];
+        if(!bn) {
+            bn = new BlankNode(name);
+            this.blankNodes[name] = bn;
+        }
+        return bn;
+    }
+
+    getLiteral(value, datatype, language=null) {
+        return new Literal(value, datatype, this, language);
+    }
+
+    addPrefix(name, value) {
+        for(let i=0; i<this.prefixes.length; i++) {
+            const prefix = this.prefixes[i];
+            if (prefix.name === name)
+                return prefix;
+        }
+        const uri = this.getURI(value);
+        this.insert(new Prefix(name, uri), true);
+    }
+
+    addTriple(subject, predicate, object) {
+        this.insert(new Triple(subject, predicate, object));
+    }
+
+    insert(item, isPrefix=false) {
+        const list = (isPrefix ? this.prefixes : this.triples);
+        let cursor = list[0];
+        let i = 0;
+        while(cursor && cursor.compareTo(item) <= 0) {
+            i++;
+            cursor = list[i];
+        }
+        list.splice(i, 0, item);
+        this.updatePrefixes();
+    }
+
+    updatePrefixes() {
+        for(let i=0; i<this.triples.length; ++i) {
+            const triple = this.triples[i];
+            triple.subject.updatePrefix(this.prefixes);
+            triple.predicate.updatePrefix(this.prefixes);
+            triple.object.updatePrefix(this.prefixes);
+        }
+    }
+}
+
+class Triple {
+    constructor(subject, predicate, object) {
+        this.subject = subject;
+        subject.addTriple(this);
+        this.predicate = predicate;
+        predicate.addTriple(this);
+        this.object = object;
+        object.addTriple(this);
+    }
+
+    compareTo(triple) {
+        let comp = this.subject.compareTo(triple.subject);
+        if(comp === 0)
+            comp = this.predicate.compareTo(triple.predicate);
+        if(comp === 0)
+            comp = this.object.compareTo(triple.object);
+        return comp;
+    }
+}
+
+class Resource {
+    constructor(value/*, type*/) {
+        this.value = value;
+        //this.type = type;
+        this.representation = value;
+        this.triples = [];
+    }
+
+    compareTo(resource) {
+        return this.value.localeCompare(resource.value);
+    }
+
+    addTriple(triple) {
+        this.triples.push(triple);
+    }
+
+    updatePrefix(prefixes) {
+        //empty method
+    }
+}
+
+class URI extends Resource {
+    constructor(value) {
+        super(value/*, Types.URI*/);
+        this.prefix = null;
+        this.representation = "&lt;<a href='" + value + "'>" + value + "</a>&gt;";
+        this.prefixRepresentation = this.representation;
+    }
+
+    updatePrefix(prefixes) {
+        for(let i=0; i<prefixes.length; i++) {
+            const prefix = prefixes[i];
+            const value = prefix.value.value;
+            if(this.value.length > value.length && this.value.substr(0, value.length) === value) {
+                this.prefix = prefix;
+                this.representation = "<a href='" + this.value + "'>" + prefix.name + ":" +
+                    this.value.substr(value.length, this.value.length) + "</a>";
+            }
+        }
+    }
+}
+
+class BlankNode extends Resource {
+    constructor(value) {
+        super(value/*, Types.BLANK_NODE*/);
+        this.representation = "_:" + value;
+    }
+}
+
+class Literal extends Resource {
+    constructor(value, datatype, triplestore, language=null) {
+        super(value/*, Types.LITERAL*/);
+        this.dtype = triplestore.getURI(datatype);
+        if(this.dtype.value !== "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString")
+            language = null;
+        this.language = language;
+        this.representation = "\"" + value + "\"" + (language ? "@" + language : "^^" + this.dtype.representation);
+    }
+
+    updatePrefix(prefixes) {
+        this.dtype.updatePrefix(prefixes);
+        if(!this.language && this.dtype.prefix != null) {
+            this.representation = "\"" + this.value + "\"" + "^^" + this.dtype.representation;
+        }
+    }
+}
+
+class Prefix extends Resource {
+    constructor(name, value) {
+        super(value/*, Types.PREFIX*/);
+        this.name = name;
+        this.representation = "@prefix " + name + ": " + value.prefixRepresentation + " .";
+    }
+
+    addTriple(triple) {
+        //empty method
+    }
+
+    compareTo(prefix) {
+        return this.name.localeCompare(prefix.name);
+    }
+}
+
+function getTriplestore() {
+    return new Triplestore();
+}
+
+module.exports = {getTriplestore};
+
+},{}]},{},[181])(181)
 });
