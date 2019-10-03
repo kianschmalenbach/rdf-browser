@@ -27413,26 +27413,64 @@ function createDocument(html, store, source) {
         const title = document.getElementById("title");
         const body = document.getElementById("body");
         title.innerText = source;
-        let bodyContent = "<p>";
+        let bodyContent = "<p class='prefixes'>";
         store.prefixes.forEach(prefix => {
             bodyContent += prefix.representation + "<br>";
         });
-        bodyContent += "</p><p>";
-        store.triples.forEach(triple => {
-            bodyContent += triple.subject.representation + " " + triple.predicate.representation + " "
-                + triple.object.representation + " .<br>";
-        });
+        bodyContent += "</p><p class='triples'>";
+        let subjectIndex = 0;
+        while(subjectIndex < store.triples.length) {
+            const result = writeTriple(store, subjectIndex, bodyContent);
+            subjectIndex = result.subjectIndex;
+            bodyContent = result.bodyContent;
+        }
         bodyContent += "</p>";
         body.innerHTML = bodyContent;
         resolve(new XMLSerializer().serializeToString(document));
     });
 }
 
+function writeTriple(store, subjectIndex, bodyContent) {
+    const subject = store.triples[subjectIndex].subject;
+    bodyContent += "<p class='triple'><span class='subject' id='" + subject.value + "'>" + subject.representation + " ";
+    const predicateList = store.getTriplesWithSameFieldAs(subjectIndex, "subject");
+    let predicateIndex = 0;
+    while (predicateIndex < predicateList.length) {
+        const predicate = store.triples[predicateList[predicateIndex]].predicate;
+        bodyContent += "<span class='predicate'>"
+            + (predicateIndex === 0 ? "" : getIndent(subject.representationLength + 1))
+            + predicate.representation + " ";
+        const objectList = store.getTriplesWithSameFieldAs(predicateList[predicateIndex], "predicate",
+            predicateList, predicateIndex);
+        let objectIndex = 0;
+        while (objectIndex < objectList.length) {
+            const object = store.triples[objectList[objectIndex]].object;
+            bodyContent += "<span class='object'>"
+                + (objectIndex === 0 ? "" : getIndent(subject.representationLength
+                    + predicate.representationLength + 2))
+                + object.representation + "</span>";
+            subjectIndex++;
+            predicateIndex++;
+            objectIndex++;
+            bodyContent += (objectIndex < objectList.length) ? " ,<br>" : " ";
+        }
+        bodyContent += "</span>";
+        bodyContent += (predicateIndex < predicateList.length) ? " ;<br>" : " ";
+    }
+    bodyContent += " .</span></p>";
+    return {subjectIndex, bodyContent};
+
+    function getIndent(spaces) {
+        let output = "";
+        for(let i=0; i<spaces; i++)
+            output += "&nbsp;";
+        return output;
+    }
+}
+
 module.exports.render = render;
 
 },{"./parser":180}],182:[function(require,module,exports){
-//const Types = { URI: 1, LITERAL: 2, BLANK_NODE: 3, PREFIX: 4 };
-
 class Triplestore {
     constructor() {
         this.triples = [];
@@ -27497,6 +27535,26 @@ class Triplestore {
             triple.object.updatePrefix(this.prefixes);
         }
     }
+
+    getTriplesWithSameFieldAs(index, field, indices=null, indicesIndex=0) {
+        if(index < 0 || index >= this.triples.length ||
+            (indices && (indicesIndex < 0 || indicesIndex >= indices.length)))
+            return null;
+        const value = this.triples[index][field];
+        let cursor = value;
+        const result = [];
+        while(cursor === value) {
+            result.push(index);
+            indicesIndex++;
+            if(indices && indicesIndex >= indices.length)
+                break;
+            index = indices ? indices[indicesIndex] : index+1;
+            if(index >= this.triples.length)
+                break;
+            cursor = this.triples[index][field];
+        }
+        return result;
+    }
 }
 
 class Triple {
@@ -27520,10 +27578,11 @@ class Triple {
 }
 
 class Resource {
-    constructor(value/*, type*/) {
+    constructor(value) {
         this.value = value;
         //this.type = type;
         this.representation = value;
+        this.representationLength = this.representation.length;
         this.triples = [];
     }
 
@@ -27542,9 +27601,10 @@ class Resource {
 
 class URI extends Resource {
     constructor(value) {
-        super(value/*, Types.URI*/);
+        super(value);
         this.prefix = null;
         this.representation = "&lt;<a href='" + value + "'>" + value + "</a>&gt;";
+        this.representationLength = value.length + 2;
         this.prefixRepresentation = this.representation;
     }
 
@@ -27556,6 +27616,8 @@ class URI extends Resource {
                 this.prefix = prefix;
                 this.representation = "<a href='" + this.value + "'>" + prefix.name + ":" +
                     this.value.substr(value.length, this.value.length) + "</a>";
+                this.representationLength = prefix.name.length
+                    + this.value.substr(value.length, this.value.length).length + 1;
             }
         }
     }
@@ -27563,19 +27625,21 @@ class URI extends Resource {
 
 class BlankNode extends Resource {
     constructor(value) {
-        super(value/*, Types.BLANK_NODE*/);
+        super(value);
         this.representation = "_:" + value;
+        this.representationLength = this.representation.length;
     }
 }
 
 class Literal extends Resource {
     constructor(value, datatype, triplestore, language=null) {
-        super(value/*, Types.LITERAL*/);
+        super(value);
         this.dtype = triplestore.getURI(datatype);
         if(this.dtype.value !== "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString")
             language = null;
         this.language = language;
         this.representation = "\"" + value + "\"" + (language ? "@" + language : "^^" + this.dtype.representation);
+        this.representationLength = 0;
     }
 
     updatePrefix(prefixes) {
@@ -27588,9 +27652,10 @@ class Literal extends Resource {
 
 class Prefix extends Resource {
     constructor(name, value) {
-        super(value/*, Types.PREFIX*/);
+        super(value);
         this.name = name;
         this.representation = "@prefix " + name + ": " + value.prefixRepresentation + " .";
+        this.representationLength = 0;
     }
 
     addTriple(triple) {
