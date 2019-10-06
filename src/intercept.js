@@ -38,13 +38,26 @@ function changeHeader(details) {
  * @returns {{}|{responseHeaders: {name: string, value: string}[]}} The modified response header
  */
 function rewritePayload(details) {
-    let ct = details.responseHeaders.find(h => h.name.toLowerCase() === "content-type");
-    let format = ct ? formats.find(f => ct.value.includes(f)) : false;
-    if(!format)
+    const ct = details.responseHeaders.find(h => h.name.toLowerCase() === "content-type");
+    const format = ct ? formats.find(f => ct.value.includes(f)) : false;
+    let encoding = ct ? ct.value.split("charset=") : false;
+    if(!format || !encoding) {
         return {};
-    let filter = browser.webRequest.filterResponseData(details.requestId);
-    let decoder = new TextDecoder("utf-8");
-    let encoder = new TextEncoder();
+    }
+    encoding = (encoding.length < 2 ? null : encoding[1]);
+    const filter = browser.webRequest.filterResponseData(details.requestId);
+    if(!encoding) {
+        console.warn("The HTTP response does not include encoding information. Encoding in utf-8 is assumed.");
+        encoding = "utf-8";
+    }
+    let decoder;
+    try {
+        decoder = new TextDecoder(encoding);
+    } catch (e) {
+        console.error("The RDF document is encoded in an unsupported format and can hence not be displayed.");
+        return {};
+    }
+    const encoder = new TextEncoder("utf-8");
     let data = "";
     filter.ondata = event => {
         data += decoder.decode(event.data, {stream: true});
