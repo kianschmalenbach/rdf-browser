@@ -1,10 +1,10 @@
+const browser = window.browser || window.chrome;
 const formats = [
     "application/ld+json",
     "application/n-quads",
     "application/n-triples",
     "application/rdf+xml",
     "application/trig",
-    "text/n3",
     "text/turtle"
 ];
 const filter = {
@@ -18,11 +18,11 @@ const filter = {
  * @returns {{requestHeaders: *}} The modified request header
  */
 function changeHeader(details) {
-    for (let header of details.requestHeaders) {
-        if (header.name.toLowerCase() === "accept") {
+    for(let header of details.requestHeaders) {
+        if(header.name.toLowerCase() === "accept") {
             let newHeader = "";
             for (const f of formats)
-                 newHeader += f + ",";
+                newHeader += f + ",";
             newHeader = newHeader.substring(0, newHeader.length-1);
             newHeader += ";q=0.95,";
             header.value = newHeader + header.value;
@@ -39,32 +39,34 @@ function changeHeader(details) {
  */
 function rewritePayload(details) {
     let ct = details.responseHeaders.find(h => h.name.toLowerCase() === "content-type");
-
     let format = ct ? formats.find(f => ct.value.includes(f)) : false;
     if(!format)
         return {};
-
     let filter = browser.webRequest.filterResponseData(details.requestId);
     let decoder = new TextDecoder("utf-8");
     let encoder = new TextEncoder();
-
+    let data = "";
     filter.ondata = event => {
-        let str = decoder.decode(event.data, {stream: true});
+        data += decoder.decode(event.data, {stream: true});
+    };
+    filter.onstop = () => {
         const source = "RDF-Document"; //TODO include source document name / URI
-        renderer.render(str, format, source)
+        renderer.render(data, format, source)
             .then(html => {
                 filter.write(encoder.encode(html));
                 filter.close();
             })
-            .catch(() => {
-                filter.write(encoder.encode("This document could not be displayed properly."));
+            .catch(error => {
+                filter.write(encoder.encode("This document could not be displayed properly. Reason:<br>" + error));
                 filter.close();
             });
     };
-
     return {
         responseHeaders: [
-            { name: "Content-Type", value: "text/html" }
+            { name: "Content-Type", value: "text/html; charset=utf-8" },
+            { name: "Cache-Control", value: "no-cache, no-store, must-revalidate" },
+            { name: "Pragma", value: "no-cache" },
+            { name: "Expires", value: "0" }
         ]
     };
 }

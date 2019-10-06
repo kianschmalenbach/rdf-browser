@@ -30,4 +30,8 @@ $ npm run browserify
 ```
 
 ## Known issues
-  - When pages are fetched for the 2nd time, a cache is hit instead: the WebExtension script is never called.
+  - Prefixes are not rendered correctly in some cases
+  - Blank Node numbers increase on page refresh / revisit
+  - The view does not jump to the selected URI within a document
+  - Not all elements of the Turtle syntax are currently supported
+  - The plugin does not work well for DBpedia and Wikidata URIs
