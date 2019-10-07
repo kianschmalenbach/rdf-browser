@@ -27322,7 +27322,7 @@ function packF32(v) { return packIEEE754(v, 8, 23); }
 },{}],179:[function(require,module,exports){
 arguments[4][31][0].apply(exports,arguments)
 },{"dup":31}],180:[function(require,module,exports){
-const formats = require("@rdfjs/formats-common");
+const parsers = require("@rdfjs/formats-common").parsers;
 const RdfXmlParser = require("rdfxml-streaming-parser").RdfXmlParser;
 const Readable = require("stream").Readable;
 const ts = require("./triplestore");
@@ -27339,7 +27339,7 @@ function obtainTriplestore(data, format) {
                     readable.push(null);
                 }
             });
-            parser = formats.parsers.import(format, readable);
+            parser = parsers.import(format, readable);
         }
         if(!parser)
             reject("Unsupported format");
