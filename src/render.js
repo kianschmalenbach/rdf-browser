@@ -24,58 +24,79 @@ function createDocument(html, store, source) {
         const document = new DOMParser().parseFromString(html, "text/html");
         const title = document.getElementById("title");
         const body = document.getElementById("body");
-        title.innerText = source;
-        let bodyContent = "<p class='prefixes'>";
+        title.appendChild(document.createTextNode(source));
+        const prefixes = document.createElement("p");
+        body.appendChild(prefixes);
+        prefixes.setAttribute("class", "prefixes");
         store.prefixes.forEach(prefix => {
-            bodyContent += prefix.representation + "<br>";
+            prefixes.appendChild(prefix.html);
+            prefixes.appendChild(document.createElement("br"));
         });
-        bodyContent += "</p><p class='triples'>";
+        const triples = document.createElement("p");
+        body.appendChild(triples);
         let subjectIndex = 0;
         while(subjectIndex < store.triples.length) {
-            const result = writeTriple(store, subjectIndex, bodyContent);
+            const result = writeTriple(store, subjectIndex);
             subjectIndex = result.subjectIndex;
-            bodyContent = result.bodyContent;
+            triples.appendChild(result.triple);
         }
-        bodyContent += "</p>";
-        body.innerHTML = bodyContent;
         resolve(new XMLSerializer().serializeToString(document));
     });
 }
 
-function writeTriple(store, subjectIndex, bodyContent) {
+function writeTriple(store, subjectIndex) {
+    const triple = document.createElement("p");
+    triple.setAttribute("class", "triple");
     const subject = store.triples[subjectIndex].subject;
-    bodyContent += "<p class='triple'><span class='subject' id='" + subject.value + "'>" + subject.representation + " ";
+    const subjectElement = subject.html.cloneNode(true);
+    triple.appendChild(subjectElement);
+    subjectElement.setAttribute("class", "subject");
+    subjectElement.setAttribute("id", subject.value);
+    subjectElement.appendChild(document.createTextNode(" "));
     const predicateList = store.getTriplesWithSameFieldAs(subjectIndex, "subject");
     let predicateIndex = 0;
-    while (predicateIndex < predicateList.length) {
+    while(predicateIndex < predicateList.length) {
         const predicate = store.triples[predicateList[predicateIndex]].predicate;
-        bodyContent += "<span class='predicate'>"
-            + (predicateIndex === 0 ? "" : getIndent(subject.representationLength + 1))
-            + predicate.representation + " ";
-        const objectList = store.getTriplesWithSameFieldAs(predicateList[predicateIndex], "predicate",
-            predicateList, predicateIndex);
+        const predicateElement = predicate.html.cloneNode(true);
+        if(predicateIndex > 0)
+            subjectElement.appendChild(document.createTextNode(getIndent(subject.representationLength + 1)));
+        subjectElement.appendChild(predicateElement);
+        predicateElement.setAttribute("class", "predicate");
+        predicateElement.appendChild(document.createTextNode(" "));
+        const objectList =
+            store.getTriplesWithSameFieldAs(predicateList[predicateIndex], "predicate", predicateList, predicateIndex);
         let objectIndex = 0;
-        while (objectIndex < objectList.length) {
+        while(objectIndex < objectList.length) {
             const object = store.triples[objectList[objectIndex]].object;
-            bodyContent += "<span class='object'>"
-                + (objectIndex === 0 ? "" : getIndent(subject.representationLength
-                    + predicate.representationLength + 2))
-                + object.representation + "</span>";
+            const objectElement = object.html.cloneNode(true);
+            if(objectIndex > 0)
+                predicateElement.appendChild(document.createTextNode(
+                    getIndent(subject.representationLength + predicate.representationLength + 2)
+                ));
+            predicateElement.appendChild(objectElement);
             subjectIndex++;
             predicateIndex++;
             objectIndex++;
-            bodyContent += (objectIndex < objectList.length) ? " ,<br>" : " ";
+            predicateElement.appendChild(document.createTextNode(" "));
+            if(objectIndex < objectList.length) {
+                predicateElement.appendChild(document.createTextNode(","));
+                predicateElement.appendChild(document.createElement("br"));
+            }
         }
-        bodyContent += "</span>";
-        bodyContent += (predicateIndex < predicateList.length) ? " ;<br>" : " ";
+        if(predicateIndex < predicateList.length) {
+            subjectElement.appendChild(document.createTextNode(" ;\n"));
+            subjectElement.appendChild(document.createElement("br"));
+        }
+        else
+            subjectElement.appendChild(document.createTextNode(" "));
     }
-    bodyContent += " .</span></p>";
-    return {subjectIndex, bodyContent};
+    triple.appendChild(document.createTextNode(" ."));
+    return {triple, subjectIndex};
 
     function getIndent(spaces) {
         let output = "";
         for(let i=0; i<spaces; i++)
-            output += "&nbsp;";
+            output += "\u00A0";
         return output;
     }
 }

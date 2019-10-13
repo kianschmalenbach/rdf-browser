@@ -38,6 +38,9 @@ function changeHeader(details) {
  * @returns {{}|{responseHeaders: {name: string, value: string}[]}} The modified response header
  */
 function rewritePayload(details) {
+    if (details.statusCode !== 200) {
+        return {};
+    }
     const ct = details.responseHeaders.find(h => h.name.toLowerCase() === "content-type");
     const format = ct ? formats.find(f => ct.value.includes(f)) : false;
     let encoding = ct ? ct.value.split("charset=") : false;

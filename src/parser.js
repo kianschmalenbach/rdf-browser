@@ -34,6 +34,7 @@ function obtainTriplestore(data, format) {
                 reject(error);
             })
             .on("end", () => {
+                store.finalize();
                 resolve(store);
             });
         if(format === "application/rdf+xml") {

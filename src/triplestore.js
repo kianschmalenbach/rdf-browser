@@ -1,9 +1,17 @@
+const datatypes = {
+    string: "http://www.w3.org/2001/XMLSchema#string",
+    integer: "http://www.w3.org/2001/XMLSchema#integer",
+    decimal: "http://www.w3.org/2001/XMLSchema#decimal",
+    langString: "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+};
+
 class Triplestore {
     constructor() {
         this.triples = [];
         this.prefixes = [];
         this.uris = {};
         this.blankNodes = {};
+        this.literals = [];
     }
 
     getURI(value) {
@@ -25,7 +33,9 @@ class Triplestore {
     }
 
     getLiteral(value, datatype, language=null) {
-        return new Literal(value, datatype, this, language);
+        const literal = new Literal(value, datatype, this, language);
+        this.literals.push(literal);
+        return literal;
     }
 
     addPrefix(name, value) {
@@ -51,16 +61,21 @@ class Triplestore {
             cursor = list[i];
         }
         list.splice(i, 0, item);
-        this.updatePrefixes();
     }
 
-    updatePrefixes() {
-        for(let i=0; i<this.triples.length; ++i) {
-            const triple = this.triples[i];
-            triple.subject.updatePrefix(this.prefixes);
-            triple.predicate.updatePrefix(this.prefixes);
-            triple.object.updatePrefix(this.prefixes);
-        }
+    finalize() {
+        for(const uri in this.uris)
+            this.uris[uri].updatePrefix(this.prefixes);
+        for(const literal in this.literals)
+            this.literals[literal].updatePrefix(this.prefixes);
+        for(const uri in this.uris)
+            this.uris[uri].createHtml();
+        for(const blankNode in this.blankNodes)
+            this.blankNodes[blankNode].createHtml();
+        for(const literal in this.literals)
+            this.literals[literal].createHtml();
+        for(const prefix in this.prefixes)
+            this.prefixes[prefix].createHtml();
     }
 
     getTriplesWithSameFieldAs(index, field, indices=null, indicesIndex=0) {
@@ -107,9 +122,8 @@ class Triple {
 class Resource {
     constructor(value) {
         this.value = value;
-        //this.type = type;
-        this.representation = value;
-        this.representationLength = this.representation.length;
+        this.html = null;
+        this.representationLength = 0;
         this.triples = [];
     }
 
@@ -120,41 +134,66 @@ class Resource {
     addTriple(triple) {
         this.triples.push(triple);
     }
-
-    updatePrefix(prefixes) {
-        //empty method
-    }
 }
 
 class URI extends Resource {
     constructor(value) {
         super(value);
         this.prefix = null;
-        this.representation = "&lt;<a href='" + value + "'>" + value + "</a>&gt;";
-        this.representationLength = value.length + 2;
-        this.prefixRepresentation = this.representation;
     }
 
     updatePrefix(prefixes) {
+        if(this.prefix !== null)
+            return;
         for(let i=0; i<prefixes.length; i++) {
             const prefix = prefixes[i];
             const value = prefix.value.value;
             if(this.value.length > value.length && this.value.substr(0, value.length) === value) {
                 this.prefix = prefix;
-                this.representation = "<a href='" + this.value + "'>" + prefix.name + ":" +
-                    this.value.substr(value.length, this.value.length) + "</a>";
-                this.representationLength = prefix.name.length
-                    + this.value.substr(value.length, this.value.length).length + 1;
+                return;
             }
         }
+    }
+
+    createHtml(retrieveHtml=false, forPrefix=false) {
+        const html = document.createElement("span");
+        const link = document.createElement("a");
+        link.setAttribute("href", this.value);
+        if(!forPrefix && this.prefix !== null) {
+            const prefixValue = this.prefix.value.value;
+            const value = this.prefix.name + ":" + this.value.substr(prefixValue.length, this.value.length);
+            link.appendChild(document.createTextNode(value));
+            html.appendChild(link);
+            if(this.html === null)
+                this.representationLength = value.length;
+        }
+        else {
+            link.appendChild(document.createTextNode(this.value));
+            html.appendChild(document.createTextNode("<"));
+            html.appendChild(link);
+            html.appendChild(document.createTextNode(">"));
+            if(forPrefix)
+                return html;
+            if(this.html === null)
+                this.representationLength = this.value.length + 2;
+        }
+        if(this.html === null)
+            this.html = html;
+        if(retrieveHtml)
+            return html;
     }
 }
 
 class BlankNode extends Resource {
     constructor(value) {
         super(value);
-        this.representation = "_:" + value;
-        this.representationLength = this.representation.length;
+        this.representationLength = value.length + 2;
+    }
+
+    createHtml() {
+        const html = document.createElement("span");
+        html.appendChild(document.createTextNode("_:" + this.value));
+        this.html = html;
     }
 }
 
@@ -162,18 +201,41 @@ class Literal extends Resource {
     constructor(value, datatype, triplestore, language=null) {
         super(value);
         this.dtype = triplestore.getURI(datatype);
-        if(this.dtype.value !== "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString")
+        if(this.dtype.value !== datatypes.langString)
             language = null;
         this.language = language;
-        this.representation = "\"" + value + "\"" + (language ? "@" + language : "^^" + this.dtype.representation);
-        this.representationLength = 0;
     }
 
     updatePrefix(prefixes) {
         this.dtype.updatePrefix(prefixes);
-        if(!this.language && this.dtype.prefix != null) {
-            this.representation = "\"" + this.value + "\"" + "^^" + this.dtype.representation;
+    }
+
+    createHtml() {
+        const html = document.createElement("span");
+        let node;
+        switch(this.dtype.value) {
+            case datatypes.string:
+                node = document.createTextNode("\"" + this.value + "\"");
+                break;
+            case datatypes.integer:
+            case datatypes.decimal:
+                node = document.createTextNode(this.value);
+                break;
+            case datatypes.langString:
+                node = document.createTextNode("\"" + this.value + "\"@" + this.language);
+                break;
+            default:
+                node = document.createTextNode("\"" + this.value + "\"^^");
+                html.appendChild(node);
+                const dtypeHtml = this.dtype.createHtml(true);
+                const n = dtypeHtml.childNodes.length;
+                for(let i=0; i<n; ++i)
+                    html.appendChild(dtypeHtml.childNodes[0]);
+                this.html = html;
+                return;
         }
+        html.appendChild(node);
+        this.html = html;
     }
 }
 
@@ -181,12 +243,14 @@ class Prefix extends Resource {
     constructor(name, value) {
         super(value);
         this.name = name;
-        this.representation = "@prefix " + name + ": " + value.prefixRepresentation + " .";
-        this.representationLength = 0;
     }
 
-    addTriple(triple) {
-        //empty method
+    createHtml() {
+        const html = document.createElement("span");
+        html.appendChild(document.createTextNode("@prefix " + this.name + ": "));
+        html.appendChild(this.value.createHtml(true, true));
+        html.appendChild(document.createTextNode(" ."));
+        this.html = html;
     }
 
     compareTo(prefix) {
