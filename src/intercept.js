@@ -61,22 +61,17 @@ function rewritePayload(details) {
         return {};
     }
     const encoder = new TextEncoder("utf-8");
-    let data = "";
-    filter.ondata = event => {
-        data += decoder.decode(event.data, {stream: true});
-    };
-    filter.onstop = () => {
-        const source = "RDF-Document"; //TODO include source document name / URI
-        renderer.render(data, format, source)
-            .then(html => {
-                filter.write(encoder.encode(html));
-                filter.close();
-            })
-            .catch(error => {
-                filter.write(encoder.encode("This document could not be displayed properly. Reason:<br>" + error));
-                filter.close();
-            });
-    };
+    renderer.render(filter, decoder, format).then(output => {
+        filter.write(encoder.encode(output));
+    })
+    .catch(e => {
+        const output = "<h1>RDF-Browser: Error</h1><p>The RDF-document could not be displayed properly.<br>" +
+            "The reason is displayed below:</p><p>" + e.toString() + "</p>";
+        filter.write(encoder.encode(output));
+    })
+    .finally(() => {
+        filter.close();
+    });
     return {
         responseHeaders: [
             { name: "Content-Type", value: "text/html; charset=utf-8" },

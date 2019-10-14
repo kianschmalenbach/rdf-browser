@@ -1,10 +1,10 @@
 const templatePath = "src/template.html";
 const parser = require("./parser");
 
-async function render(data, format, source) {
+async function render(stream, decoder, format) {
     const template = await getTemplate();
-    const triplestore = await parser.obtainTriplestore(data, format);
-    return createDocument(template, triplestore, source);
+    const triplestore = await parser.obtainTriplestore(stream, decoder, format);
+    return createDocument(template, triplestore, "RDF-Document");
 }
 
 function getTemplate() {

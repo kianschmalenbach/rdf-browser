@@ -1,26 +1,37 @@
-const parsers = require("@rdfjs/formats-common").parsers;
 const RdfXmlParser = require("rdfxml-streaming-parser").RdfXmlParser;
-const Readable = require("stream").Readable;
+const JsonLdParser = require("@rdfjs/parser-jsonld");
+const N3Parser = require("@rdfjs/parser-n3");
+const Transform = require("stream").Transform;
 const ts = require("./triplestore");
 
-function obtainTriplestore(data, format) {
+function obtainTriplestore(inputStream, decoder, format) {
     return new Promise((resolve, reject) => {
-        let parser;
-        if(format === "application/rdf+xml")
-            parser = new RdfXmlParser();
-        else {
-            const readable = new Readable({
-                read: () => {
-                    readable.push(data);
-                    readable.push(null);
-                }
-            });
-            parser = parsers.import(format, readable);
-        }
+        const parser = getParser(format);
         if(!parser)
             reject("Unsupported format");
         const store = ts.getTriplestore();
-        parser
+        const transformStream = new Transform({
+            transform(chunk, encoding, callback) {
+                this.push(chunk);
+                callback();
+            }
+        });
+        inputStream.ondata = event => {
+            const data = decoder.decode(event.data, {stream: true});
+            if(typeof data === "string")
+                transformStream.push(data);
+        };
+        inputStream.onstop = () => {
+            transformStream.push(null);
+        };
+        const outputStream = parser.import(transformStream);
+        outputStream
+            .on("context", context => {
+                for(const prefix in context) {
+                    if(typeof context[prefix] === "string")
+                        store.addPrefix(prefix, context[prefix]);
+                }
+            })
             .on("data", triple => {
                 const subject = processResource(store, triple.subject);
                 const predicate = processResource(store, triple.predicate);
@@ -28,7 +39,8 @@ function obtainTriplestore(data, format) {
                 store.addTriple(subject, predicate, object);
             })
             .on("prefix", (prefix, ns) => {
-                store.addPrefix(prefix, ns.value);
+                if(typeof ns.value === "string")
+                    store.addPrefix(prefix, ns.value);
             })
             .on("error", error => {
                 reject(error);
@@ -37,11 +49,24 @@ function obtainTriplestore(data, format) {
                 store.finalize();
                 resolve(store);
             });
-        if(format === "application/rdf+xml") {
-            parser.write(data);
-            parser.end();
-        }
     });
+}
+
+function getParser(format) {
+    switch(format) {
+        case "application/rdf+xml":
+            return new RdfXmlParser();
+        case "application/ld+json":
+            return new JsonLdParser();
+        case "application/trig":
+        case "application/n-quads":
+        case "application/n-triples":
+        case "text/n3":
+        case "text/turtle":
+            return new N3Parser();
+        default:
+            return null;
+    }
 }
 
 function processResource(store, resource) {
