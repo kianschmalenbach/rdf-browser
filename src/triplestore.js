@@ -128,7 +128,7 @@ class Resource {
     }
 
     compareTo(resource, position=null) {
-        if(position === "object")
+        if(["subject", "object"].includes(position))
             return this.compareTypes(this, resource);
         return this.value.localeCompare(resource.value);
     }
@@ -210,8 +210,8 @@ class BlankNode extends Resource {
     }
 
     compareTo(resource, position=null) {
-        if(position !== null)
-            return super.compareTo(resource, position);
+        if(["subject", "object"].includes(position))
+            return this.compareTypes(this, resource);
         if((typeof resource === typeof this) && /b[0-9]+/.test(this.value) && /b[0-9]+/.test(resource.value)) {
             const myNumber = parseInt(this.value.substring(1, this.value.length));
             const otherNumber = parseInt(resource.value.substring(1, resource.value.length));
@@ -233,7 +233,7 @@ class BlankNode extends Resource {
 
 class Literal extends Resource {
     constructor(value, datatype, triplestore, language=null) {
-        super(value);
+        super(value.replace(new RegExp("\"", 'g'), "\'"));
         this.dtype = triplestore.getURI(datatype);
         if(this.dtype.value !== datatypes.langString)
             language = null;
