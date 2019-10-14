@@ -27221,11 +27221,11 @@ class Triple {
     }
 
     compareTo(triple) {
-        let comp = this.subject.compareTo(triple.subject);
+        let comp = this.subject.compareTo(triple.subject, "subject");
         if(comp === 0)
-            comp = this.predicate.compareTo(triple.predicate);
+            comp = this.predicate.compareTo(triple.predicate, "predicate");
         if(comp === 0)
-            comp = this.object.compareTo(triple.object);
+            comp = this.object.compareTo(triple.object, "object");
         return comp;
     }
 }
@@ -27238,8 +27238,23 @@ class Resource {
         this.triples = [];
     }
 
-    compareTo(resource) {
+    compareTo(resource, position=null) {
+        if(position === "object")
+            return this.compareTypes(this, resource);
         return this.value.localeCompare(resource.value);
+    }
+
+    compareTypes(a, b) {
+        const typeA = a.getTypeNumber();
+        const typeB = b.getTypeNumber();
+        if(typeA <= 0 || typeB <= 0 || typeA === typeB)
+            return a.compareTo(b);
+        else
+            return (typeA < typeB) ? -1 : 1;
+    }
+
+    getTypeNumber() {
+        return 0;
     }
 
     addTriple(triple) {
@@ -27293,6 +27308,10 @@ class URI extends Resource {
         if(retrieveHtml)
             return html;
     }
+
+    getTypeNumber() {
+        return 2;
+    }
 }
 
 class BlankNode extends Resource {
@@ -27301,7 +27320,9 @@ class BlankNode extends Resource {
         this.representationLength = value.length + 2;
     }
 
-    compareTo(resource) {
+    compareTo(resource, position=null) {
+        if(position !== null)
+            return super.compareTo(resource, position);
         if((typeof resource === typeof this) && /b[0-9]+/.test(this.value) && /b[0-9]+/.test(resource.value)) {
             const myNumber = parseInt(this.value.substring(1, this.value.length));
             const otherNumber = parseInt(resource.value.substring(1, resource.value.length));
@@ -27314,6 +27335,10 @@ class BlankNode extends Resource {
         const html = document.createElement("span");
         html.appendChild(document.createTextNode("_:" + this.value));
         this.html = html;
+    }
+
+    getTypeNumber() {
+        return 3;
     }
 }
 
@@ -27356,6 +27381,10 @@ class Literal extends Resource {
         }
         html.appendChild(node);
         this.html = html;
+    }
+
+    getTypeNumber() {
+        return 2;
     }
 }
 
