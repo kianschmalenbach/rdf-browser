@@ -1,7 +1,7 @@
 {
   "name": "rdf-browser",
   "version": "1.0.0",
-  "description": "A Firefox AddOn that renders RDF files as Turtle documents with clickable links",
+  "description": "A Firefox Add-on that renders RDF files as Turtle documents with clickable links",
   "license": "MIT",
   "scripts": {
     "browserify": "browserify -s renderer -o src/render-browser.js src/render.js"
