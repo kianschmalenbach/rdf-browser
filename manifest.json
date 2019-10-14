@@ -1,8 +1,8 @@
 {
     "manifest_version": 2,
     "name": "RDF Browser",
-    "description": "Renders RDF documents as statement tables and makes links clickable",
-    "version": "0.0.1",
+    "description": "A Firefox AddOn that renders RDF files as Turtle documents with clickable links",
+    "version": "1.0.0",
     "background": {
         "scripts": [
             "src/intercept.js",
