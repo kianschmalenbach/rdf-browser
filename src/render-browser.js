@@ -26910,6 +26910,7 @@ const JsonLdParser = require("@rdfjs/parser-jsonld");
 const N3Parser = require("@rdfjs/parser-n3");
 const Transform = require("stream").Transform;
 const ts = require("./triplestore");
+let blankNodeOffset; //workaround for incremental blank node number assignment by parser
 
 function obtainTriplestore(inputStream, decoder, format) {
     return new Promise((resolve, reject) => {
@@ -26932,6 +26933,7 @@ function obtainTriplestore(inputStream, decoder, format) {
             transformStream.push(null);
         };
         const outputStream = parser.import(transformStream);
+        blankNodeOffset = -1;
         outputStream
             .on("context", context => {
                 for(const prefix in context) {
@@ -26983,6 +26985,12 @@ function processResource(store, resource) {
         return null;
     switch(resourceType) {
         case "BlankNode":
+            if(/b[0-9]+/.test(value)) {
+                const blankNodeNumber = value.substring(1, value.length);
+                if(blankNodeOffset === -1)
+                    blankNodeOffset = blankNodeNumber;
+                return store.getBlankNode("b" + (blankNodeNumber-blankNodeOffset));
+            }
             return store.getBlankNode(value);
         case "NamedNode":
             return store.getURI(value);
@@ -27291,6 +27299,15 @@ class BlankNode extends Resource {
     constructor(value) {
         super(value);
         this.representationLength = value.length + 2;
+    }
+
+    compareTo(resource) {
+        if((typeof resource === typeof this) && /b[0-9]+/.test(this.value) && /b[0-9]+/.test(resource.value)) {
+            const myNumber = parseInt(this.value.substring(1, this.value.length));
+            const otherNumber = parseInt(resource.value.substring(1, resource.value.length));
+            return myNumber < otherNumber ? -1 : (myNumber > otherNumber ? 1 : 0);
+        }
+        return this.value.localeCompare(resource.value);
     }
 
     createHtml() {

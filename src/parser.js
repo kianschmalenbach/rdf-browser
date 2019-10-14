@@ -3,6 +3,7 @@ const JsonLdParser = require("@rdfjs/parser-jsonld");
 const N3Parser = require("@rdfjs/parser-n3");
 const Transform = require("stream").Transform;
 const ts = require("./triplestore");
+let blankNodeOffset; //workaround for incremental blank node number assignment by parser
 
 function obtainTriplestore(inputStream, decoder, format) {
     return new Promise((resolve, reject) => {
@@ -25,6 +26,7 @@ function obtainTriplestore(inputStream, decoder, format) {
             transformStream.push(null);
         };
         const outputStream = parser.import(transformStream);
+        blankNodeOffset = -1;
         outputStream
             .on("context", context => {
                 for(const prefix in context) {
@@ -76,6 +78,12 @@ function processResource(store, resource) {
         return null;
     switch(resourceType) {
         case "BlankNode":
+            if(/b[0-9]+/.test(value)) {
+                const blankNodeNumber = value.substring(1, value.length);
+                if(blankNodeOffset === -1)
+                    blankNodeOffset = blankNodeNumber;
+                return store.getBlankNode("b" + (blankNodeNumber-blankNodeOffset));
+            }
             return store.getBlankNode(value);
         case "NamedNode":
             return store.getURI(value);

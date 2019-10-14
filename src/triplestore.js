@@ -190,6 +190,15 @@ class BlankNode extends Resource {
         this.representationLength = value.length + 2;
     }
 
+    compareTo(resource) {
+        if((typeof resource === typeof this) && /b[0-9]+/.test(this.value) && /b[0-9]+/.test(resource.value)) {
+            const myNumber = parseInt(this.value.substring(1, this.value.length));
+            const otherNumber = parseInt(resource.value.substring(1, resource.value.length));
+            return myNumber < otherNumber ? -1 : (myNumber > otherNumber ? 1 : 0);
+        }
+        return this.value.localeCompare(resource.value);
+    }
+
     createHtml() {
         const html = document.createElement("span");
         html.appendChild(document.createTextNode("_:" + this.value));
