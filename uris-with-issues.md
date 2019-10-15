@@ -1,3 +1,5 @@
+Suggestion: give users the possibility to see the raw payload returned by the server (in case of error but also in normal cases).
+
 # http://harth.org/andreas/hotel.jsonld
 
 from https://elias.kaerle.com/annotating-a-hotel-offering-rooms-with-the-new-schema-org-version-3-1/
@@ -7,6 +9,10 @@ but https://search.google.com/structured-data/testing-tool shows the JSON-LD?
 # https://json-ld.org/playground/
 
 With activated plugin leads to problems (see above)
+
+# https://www.w3.org/Data/demos/chunks/patterns.html
+
+Same as above. Suggestion: detect XHR requests and do not modify resulting documents (probably used in background tasks and never displayed). 
 
 # http://vocab.org/open/terms.rdf
 
