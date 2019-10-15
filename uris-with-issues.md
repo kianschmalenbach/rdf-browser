@@ -53,3 +53,15 @@ But rapper parses the document fine?
 # http://xmlns.com/foaf/0.1/account
 
 Some prefixes are not correctly recorded, e.g., @prefix comment: <rdfs:comment> .
+
+# http://sw.opencyc.org/concept/Mx4rv0Uvz5wpEbGdrcN5Y29ycA
+
+Times out?
+
+# http://www-cdr.stanford.edu/~petrie/foaf.rdf#me
+
+Invalid URI?
+
+# http://www.ivan-herman.net/foaf.rdf#me
+
+Creates a blank node NaN?

@@ -11,6 +11,11 @@ function obtainTriplestore(inputStream, decoder, format) {
         if(!parser)
             reject("Unsupported format");
         const store = ts.getTriplestore();
+	store.addPrefix("dbpedia", "http://dbpedia.org/resource/");
+	store.addPrefix("foaf", "http://xmlns.com/foaf/0.1/");
+	store.addPrefix("dbo", "http://dbpedia.org/ontology/");
+	store.addPrefix("dbp", "http://dbpedia.org/property/");
+
         const transformStream = new Transform({
             transform(chunk, encoding, callback) {
                 this.push(chunk);
