@@ -71,3 +71,11 @@ Invalid URI?
 # http://www.ivan-herman.net/foaf.rdf#me
 
 Creates a blank node NaN?
+
+# http://wikidata.org/entity/Q80
+
+Redirects to a HTML page?
+
+# http://semanticweb.cs.vu.nl/2009/11/sem/
+
+Redirects to a HTML page?
