@@ -45,25 +45,20 @@ class Triplestore {
                 return prefix;
         }
         const uri = this.getURI(value);
-        this.insert(new Prefix(name, uri), true);
+        this.prefixes.push(new Prefix(name, uri));
     }
 
     addTriple(subject, predicate, object) {
-        this.insert(new Triple(subject, predicate, object));
-    }
-
-    insert(item, isPrefix=false) {
-        const list = (isPrefix ? this.prefixes : this.triples);
-        let cursor = list[0];
-        let i = 0;
-        while(cursor && cursor.compareTo(item) <= 0) {
-            i++;
-            cursor = list[i];
-        }
-        list.splice(i, 0, item);
+        this.triples.push(new Triple(subject, predicate, object));
     }
 
     finalize() {
+        this.prefixes = this.prefixes.sort((a, b) => {
+            return a.compareTo(b);
+        });
+        this.triples = this.triples.sort((a, b) => {
+            return a.compareTo(b);
+        });
         for(const uri in this.uris)
             this.uris[uri].updatePrefix(this.prefixes);
         for(const literal in this.literals)
@@ -130,7 +125,7 @@ class Resource {
     compareTo(resource, position=null) {
         if(["subject", "object"].includes(position))
             return this.compareTypes(this, resource);
-        return this.value.localeCompare(resource.value);
+        return Resource.compareValues(this.value, resource.value);
     }
 
     compareTypes(a, b) {
@@ -140,6 +135,22 @@ class Resource {
             return a.compareTo(b);
         else
             return (typeA < typeB) ? -1 : 1;
+    }
+
+    static compareValues(a, b) {
+        const pattern = /[^[0-9][0-9]+$/;
+        if(pattern.test(a) && pattern.test(b)) {
+            const aLength = (a.match(pattern)[0]).length-1;
+            const bLength = (b.match(pattern)[0]).length-1;
+            const aString = a.substring(0, a.length-aLength);
+            const bString = b.substring(0, b.length-bLength);
+            if(aString === bString) {
+                const aInt = parseInt(a.substring(aString.length));
+                const bInt = parseInt(b.substring(bString.length));
+                return aInt < bInt ? -1 : (aInt > bInt ? -1 : 0);
+            }
+        }
+        return a.localeCompare(b);
     }
 
     getTypeNumber() {
@@ -217,7 +228,7 @@ class BlankNode extends Resource {
             const otherNumber = parseInt(resource.value.substring(1, resource.value.length));
             return myNumber < otherNumber ? -1 : (myNumber > otherNumber ? 1 : 0);
         }
-        return this.value.localeCompare(resource.value);
+        return Resource.compareValues(this.value, resource.value);
     }
 
     createHtml() {
@@ -292,7 +303,7 @@ class Prefix extends Resource {
     }
 
     compareTo(prefix) {
-        return this.name.localeCompare(prefix.name);
+        return Resource.compareValues(this.name, prefix.name);
     }
 }
 
