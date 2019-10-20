@@ -78,7 +78,7 @@ function processResource(store, resource) {
         return null;
     switch(resourceType) {
         case "BlankNode":
-            if(/b[0-9]+/.test(value)) {
+            if(/^b[0-9]+$/.test(value)) {
                 const blankNodeNumber = value.substring(1, value.length);
                 if(blankNodeOffset === -1)
                     blankNodeOffset = blankNodeNumber;

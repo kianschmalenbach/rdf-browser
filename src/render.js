@@ -4,7 +4,7 @@ const parser = require("./parser");
 async function render(stream, decoder, format) {
     const template = await getTemplate();
     const triplestore = await parser.obtainTriplestore(stream, decoder, format);
-    return createDocument(template, triplestore, "RDF-Document");
+    return createDocument(template, triplestore);
 }
 
 function getTemplate() {
@@ -19,12 +19,10 @@ function getTemplate() {
     });
 }
 
-function createDocument(html, store, source) {
+function createDocument(html, store) {
     return new Promise(resolve =>  {
         const document = new DOMParser().parseFromString(html, "text/html");
-        const title = document.getElementById("title");
         const body = document.getElementById("body");
-        title.appendChild(document.createTextNode(source));
         const prefixes = document.createElement("p");
         body.appendChild(prefixes);
         prefixes.setAttribute("class", "prefixes");
