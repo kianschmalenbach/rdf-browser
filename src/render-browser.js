@@ -27282,7 +27282,7 @@ class URI extends Resource {
     createHtml(retrieveHtml=false, forPrefix=false) {
         const html = document.createElement("span");
         const link = document.createElement("a");
-        link.setAttribute("href", this.value);
+        link.setAttribute("href", encodeURI(this.value));
         if(!forPrefix && this.prefix !== null) {
             const prefixValue = this.prefix.value.value;
             const value = this.prefix.name + ":" + this.value.substr(prefixValue.length, this.value.length);
