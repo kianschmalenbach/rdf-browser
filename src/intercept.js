@@ -10,6 +10,7 @@ const formats = [
 const filter = {
     urls: ["<all_urls>"]
 };
+const maxSize = 10485760;
 
 /**
  * Change the accept header for all HTTP requests to include the content types specified in formats
@@ -40,8 +41,13 @@ function changeHeader(details) {
  * @returns {{}|{responseHeaders: {name: string, value: string}[]}} The modified response header
  */
 function rewritePayload(details) {
-    if (details.statusCode !== 200 || details.type !== "main_frame") {
+    if (details.statusCode !== 200 || details.type !== "main_frame")
         return {};
+    const cl = details.responseHeaders.find(h => h.name.toLowerCase() === "content-length");
+    if(cl) {
+        const length = parseInt(cl.value);
+        if(length !== undefined && length > maxSize)
+            return {};
     }
     const ct = details.responseHeaders.find(h => h.name.toLowerCase() === "content-type");
     const format = ct ? formats.find(f => ct.value.includes(f)) : false;
