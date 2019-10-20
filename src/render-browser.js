@@ -26948,7 +26948,7 @@ function obtainTriplestore(inputStream, decoder, format) {
                 store.addTriple(subject, predicate, object);
             })
             .on("prefix", (prefix, ns) => {
-                if(typeof ns.value === "string")
+                if(typeof ns.value === "string" && /^http/.test(ns.value))
                     store.addPrefix(prefix, ns.value);
             })
             .on("error", error => {
