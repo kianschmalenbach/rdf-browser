@@ -18,6 +18,8 @@ const filter = {
  * @returns {{requestHeaders: *}} The modified request header
  */
 function changeHeader(details) {
+    if(details.type !== "main_frame")
+        return { };
     for(let header of details.requestHeaders) {
         if(header.name.toLowerCase() === "accept") {
             let newHeader = "";
@@ -38,7 +40,7 @@ function changeHeader(details) {
  * @returns {{}|{responseHeaders: {name: string, value: string}[]}} The modified response header
  */
 function rewritePayload(details) {
-    if (details.statusCode !== 200) {
+    if (details.statusCode !== 200 || details.type !== "main_frame") {
         return {};
     }
     const ct = details.responseHeaders.find(h => h.name.toLowerCase() === "content-type");
