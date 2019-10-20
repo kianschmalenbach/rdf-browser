@@ -27113,11 +27113,27 @@ const datatypes = {
     decimal: "http://www.w3.org/2001/XMLSchema#decimal",
     langString: "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
 };
+const commonPrefixSource = "https://prefix.cc/popular/all.file.json";
+const commonPrefixes = [];
 
 class Triplestore {
+    static initializeCommonPrefixes() {
+        fetch(commonPrefixSource).then(response => {
+            response.json().then(doc => {
+                for(const prefix in doc)
+                    commonPrefixes.push([prefix, doc[prefix]]);
+            })
+        });
+    }
+
     constructor() {
         this.triples = [];
         this.prefixes = [];
+        for(const prefix in commonPrefixes) {
+            const name = (commonPrefixes[prefix])[0];
+            const value = (commonPrefixes[prefix])[1];
+            this.prefixes.push(new Prefix(name, new URI(value)));
+        }
         this.uris = {};
         this.blankNodes = {};
         this.literals = [];
@@ -27153,8 +27169,7 @@ class Triplestore {
             if (prefix.name === name)
                 return prefix;
         }
-        const uri = this.getURI(value);
-        this.prefixes.push(new Prefix(name, uri));
+        this.prefixes.push(new Prefix(name, new URI(value)));
     }
 
     addTriple(subject, predicate, object) {
@@ -27162,16 +27177,17 @@ class Triplestore {
     }
 
     finalize() {
-        this.prefixes = this.prefixes.sort((a, b) => {
-            return a.compareTo(b);
-        });
-        this.triples = this.triples.sort((a, b) => {
-            return a.compareTo(b);
-        });
         for(const uri in this.uris)
             this.uris[uri].updatePrefix(this.prefixes);
         for(const literal in this.literals)
             this.literals[literal].updatePrefix(this.prefixes);
+        this.removeUnusedPrefixes();
+        this.triples = this.triples.sort((a, b) => {
+            return a.compareTo(b);
+        });
+        this.prefixes = this.prefixes.sort((a, b) => {
+            return a.compareTo(b);
+        });
         for(const uri in this.uris)
             this.uris[uri].createHtml();
         for(const blankNode in this.blankNodes)
@@ -27180,6 +27196,17 @@ class Triplestore {
             this.literals[literal].createHtml();
         for(const prefix in this.prefixes)
             this.prefixes[prefix].createHtml();
+    }
+
+    removeUnusedPrefixes() {
+        const toRemove = [];
+        for(const prefix in this.prefixes) {
+            if(!this.prefixes[prefix].used)
+                toRemove.push(prefix);
+        }
+        toRemove.reverse();
+        for(const remove in toRemove)
+            this.prefixes.splice(toRemove[remove], 1);
     }
 
     getTriplesWithSameFieldAs(index, field, indices=null, indicesIndex=0) {
@@ -27285,6 +27312,7 @@ class URI extends Resource {
             const value = prefix.value.value;
             if(this.value.length > value.length && this.value.substr(0, value.length) === value) {
                 this.prefix = prefix;
+                prefix.used = true;
                 return;
             }
         }
@@ -27401,6 +27429,7 @@ class Prefix extends Resource {
     constructor(name, value) {
         super(value);
         this.name = name;
+        this.used = false;
     }
 
     createHtml() {
@@ -27421,6 +27450,8 @@ function getTriplestore() {
 }
 
 module.exports = {getTriplestore};
+
+Triplestore.initializeCommonPrefixes();
 
 },{}]},{},[122])(122)
 });
