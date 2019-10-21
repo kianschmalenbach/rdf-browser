@@ -1,7 +1,7 @@
 {
     "manifest_version": 2,
     "name": "RDF Browser",
-    "description": "Render RDF files as Turtle documents with clickable links",
+    "description": "Request RDF files and render RDF files as Turtle documents with clickable links",
     "version": "1.0.0",
     "browser_specific_settings": {
         "gecko": {
