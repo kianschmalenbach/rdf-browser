@@ -49,7 +49,9 @@ function writeTriple(store, subjectIndex) {
     const subjectElement = subject.html.cloneNode(true);
     triple.appendChild(subjectElement);
     subjectElement.setAttribute("class", "subject");
-    subjectElement.setAttribute("id", subject.value);
+    const id = subject.value.split("#");
+    if(id.length > 1)
+        subjectElement.setAttribute("id", id[id.length - 1]);
     subjectElement.appendChild(document.createTextNode(" "));
     const predicateList = store.getTriplesWithSameFieldAs(subjectIndex, "subject");
     let predicateIndex = 0;
