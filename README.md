@@ -1,9 +1,9 @@
 # RDF Browser
 RDF Browser is a Firefox Add-on that requests RDF files and renders RDF files as Turtle documents with clickable links.
 
-| Current version: | 1.0.0 |
+| Current version: | 1.0.1 |
 | --- | --- |
-| Release date: | Oct 14, 2019 | 
+| Release date: | Oct 22, 2019 | 
 
 ## Installation
 
@@ -25,10 +25,14 @@ https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/Temporary
 <!--https://developer.chrome.com/extensions/getstarted (not tested)-->
 
 #### Short Summary:
-  - Go to [about:debugging](about:debugging)
-  - Click *This Firefox*
-  - Click *Load Temporary Add-On*
-  - Select the *manifest.json* file from the plugin directory
+- Go to [about:debugging](about:debugging)
+- Click *This Firefox*
+- Click *Load Temporary Add-On*
+- Select the *manifest.json* file from the plugin directory
+
+## User Advice
+- To change the display style (monospace font vs. HTML-like view), select *Page Style* in the *View* menu 
+- To see the raw format of any rendered RDF file, right click and select *View Page Sources*
 
 ## Build
 To build the project, run the following:
@@ -39,6 +43,14 @@ $ npm install
 $ npm run browserify
 ```
 
+## Changelog
+
+### Version 1.0.1
+- Bug fixes concerning blank node and prefix labeling
+- Inclusion of popular prefixes in output
+- Prevention of XHR interference and content-length limit (10 MB)
+- Refactoring of triplestore for performance increase
+
 ## Known issues
-  - The plugin does not make use of the browser cache for storing RDF files.
-  - The rendering does not stop when the browser is navigated to a different page.
+- The plugin does not make use of the browser cache for storing RDF files.
+- The rendering does not stop when the browser is navigated to a different page.
