@@ -1,8 +1,15 @@
 {
     "manifest_version": 2,
     "name": "RDF Browser",
+    "author": "Kian Schmalenbach",
     "description": "Request RDF files and render RDF files as Turtle documents with clickable links",
-    "version": "1.0.0",
+    "homepage_url": "https://github.com/kianschmalenbach/rdf-browser",
+    "version": "1.0.1",
+    "icons": {
+        "48": "img/icon48.png",
+        "96": "img/icon96.png",
+        "128": "img/icon128.png"
+    },
     "browser_specific_settings": {
         "gecko": {
             "id": "rdf-browser@ti.rw.fau.de",
