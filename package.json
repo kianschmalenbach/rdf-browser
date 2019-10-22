@@ -11,8 +11,9 @@
     "url": "https://github.com/kianschmalenbach/rdf-browser.git"
   },
   "dependencies": {
-    "rdfxml-streaming-parser": "latest",
     "@rdfjs/parser-jsonld": "latest",
-    "@rdfjs/parser-n3": "latest"
+    "@rdfjs/parser-n3": "latest",
+    "npm": "^6.12.0",
+    "rdfxml-streaming-parser": "latest"
   }
 }
