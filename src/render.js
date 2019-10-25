@@ -1,51 +1,62 @@
-const templatePath = "src/template.html";
+const browser = window.browser || window.chrome;
 const parser = require("./parser");
 
-async function render(stream, decoder, format) {
-    const template = await getTemplate();
-    const triplestore = await parser.obtainTriplestore(stream, decoder, format);
-    return createDocument(template, triplestore);
-}
-
-function getTemplate() {
+function getAndRewritePayload() {
     return new Promise(resolve => {
-        fetch(templatePath)
-            .then(file => {
-                return file.text();
-            })
-            .then(text => {
-                resolve(text);
-            })
+        const params = new URL(location.href).searchParams;
+        const url = params.get("url");
+        document.getElementById("title").innerText = url;
+        const encoding = decodeURIComponent(params.get("encoding"));
+        const format = decodeURIComponent(params.get("format"));
+        browser.runtime.sendMessage("acceptHeader").then(header => {
+            const request = new Request(url, {
+                headers: new Headers({
+                    'Accept': header.toString()
+                })
+            });
+            fetch(request).then(response => response.body).then(body => {
+                render(body.getReader(), new TextDecoder(encoding), format).then(() => {
+                    resolve();
+                });
+            });
+        });
     });
 }
 
-function createDocument(html, store) {
-    return new Promise(resolve =>  {
-        const document = new DOMParser().parseFromString(html, "text/html");
-        const body = document.getElementById("body");
-        const prefixes = document.createElement("p");
-        body.appendChild(prefixes);
-        prefixes.setAttribute("class", "prefixes");
-        store.prefixes.forEach(prefix => {
-            prefixes.appendChild(prefix.html);
-            prefixes.appendChild(document.createElement("br"));
-        });
-        const triples = document.createElement("p");
-        body.appendChild(triples);
-        let subjectIndex = 0;
-        while(subjectIndex < store.triples.length) {
-            const result = writeTriple(store, subjectIndex);
-            subjectIndex = result.subjectIndex;
-            triples.appendChild(result.triple);
-        }
-        resolve(new XMLSerializer().serializeToString(document));
+async function render(stream, decoder, format) {
+    const triplestore = await parser.obtainTriplestore(stream, decoder, format);
+    return createDocument(triplestore);
+}
+
+async function createDocument(store) {
+    const body = document.getElementById("body");
+    while (body.firstChild)
+        body.removeChild(body.firstChild);
+    const prefixes = document.createElement("p");
+    body.appendChild(prefixes);
+    prefixes.setAttribute("class", "prefixes");
+    store.prefixes.forEach(prefix => {
+        if(prefix.html === null)
+            prefix.createHtml();
+        prefixes.appendChild(prefix.html);
+        prefixes.appendChild(document.createElement("br"));
     });
+    const triples = document.createElement("p");
+    body.appendChild(triples);
+    let subjectIndex = 0;
+    while(subjectIndex < store.triples.length) {
+        const result = writeTriple(store, subjectIndex);
+        subjectIndex = result.subjectIndex;
+        triples.appendChild(result.triple);
+    }
 }
 
 function writeTriple(store, subjectIndex) {
     const triple = document.createElement("p");
     triple.setAttribute("class", "triple");
     const subject = store.triples[subjectIndex].subject;
+    if(subject.html === null)
+        subject.createHtml();
     const subjectElement = subject.html.cloneNode(true);
     triple.appendChild(subjectElement);
     subjectElement.setAttribute("class", "subject");
@@ -57,6 +68,8 @@ function writeTriple(store, subjectIndex) {
     let predicateIndex = 0;
     while(predicateIndex < predicateList.length) {
         const predicate = store.triples[predicateList[predicateIndex]].predicate;
+        if(predicate.html === null)
+            predicate.createHtml();
         const predicateElement = predicate.html.cloneNode(true);
         if(predicateIndex > 0)
             subjectElement.appendChild(document.createTextNode(getIndent(subject.representationLength + 1)));
@@ -68,6 +81,8 @@ function writeTriple(store, subjectIndex) {
         let objectIndex = 0;
         while(objectIndex < objectList.length) {
             const object = store.triples[objectList[objectIndex]].object;
+            if(object.html === null)
+                object.createHtml();
             const objectElement = object.html.cloneNode(true);
             if(objectIndex > 0)
                 predicateElement.appendChild(document.createTextNode(
@@ -101,4 +116,4 @@ function writeTriple(store, subjectIndex) {
     }
 }
 
-module.exports.render = render;
+document.getElementById("body").onloaddone = getAndRewritePayload();

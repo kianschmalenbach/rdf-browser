@@ -18,13 +18,16 @@
     },
     "background": {
         "scripts": [
-            "src/intercept.js",
-            "src/render-browser.js"
+            "src/intercept.js"
         ]
     },
     "permissions": [
+        "tabs",
         "webRequest",
         "webRequestBlocking",
         "<all_urls>"
+    ],
+    "web_accessible_resources": [
+        "src/template.html"
     ]
 }

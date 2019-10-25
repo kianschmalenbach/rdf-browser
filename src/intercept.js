@@ -11,6 +11,8 @@ const filter = {
     urls: ["<all_urls>"]
 };
 const maxSize = 10485760;
+const commonPrefixSource = "https://prefix.cc/popular/all.file.json";
+const commonPrefixes = [];
 
 /**
  * Change the accept header for all HTTP requests to include the content types specified in formats
@@ -18,16 +20,12 @@ const maxSize = 10485760;
  * @param details The details of the HTTP request
  * @returns {{requestHeaders: *}} The modified request header
  */
-function changeHeader(details) {
+function modifyRequestHeader(details) {
     if(details.type !== "main_frame")
         return { };
     for(let header of details.requestHeaders) {
         if(header.name.toLowerCase() === "accept") {
-            let newHeader = "";
-            for (const f of formats)
-                newHeader += f + ",";
-            newHeader = newHeader.substring(0, newHeader.length-1);
-            newHeader += ";q=0.95,";
+            const newHeader = getNewHeader() + ",";
             header.value = newHeader + header.value;
             break;
         }
@@ -36,11 +34,11 @@ function changeHeader(details) {
 }
 
 /**
- * Rewrite the payload of an HTTP response if format of content-type matches any in formats
+ * Modify the header of an HTTP response if format of content-type matches any in formats
  * @param details The details of the HTTP response
  * @returns {{}|{responseHeaders: {name: string, value: string}[]}} The modified response header
  */
-function rewritePayload(details) {
+function modifyResponseHeader(details) {
     if (details.statusCode !== 200 || details.type !== "main_frame")
         return {};
     const cl = details.responseHeaders.find(h => h.name.toLowerCase() === "content-length");
@@ -56,43 +54,63 @@ function rewritePayload(details) {
         return {};
     }
     encoding = (encoding.length < 2 ? null : encoding[1]);
-    const filter = browser.webRequest.filterResponseData(details.requestId);
     if(!encoding) {
         console.warn("The HTTP response does not include encoding information. Encoding in utf-8 is assumed.");
         encoding = "utf-8";
     }
-    let decoder;
-    try {
-        decoder = new TextDecoder(encoding);
-    } catch (e) {
-        console.error("The RDF document is encoded in an unsupported format and can hence not be displayed.");
-        return {};
-    }
-    const encoder = new TextEncoder("utf-8");
-    renderer.render(filter, decoder, format).then(output => {
-        filter.write(encoder.encode(output));
-    })
-    .catch(e => {
-        const output = "<h1>RDF-Browser: Error</h1><p>The RDF-document could not be displayed properly.<br>" +
-            "The reason is displayed below:</p><p>" + e.toString() + "</p>";
-        filter.write(encoder.encode(output));
-    })
-    .finally(() => {
-        filter.close();
-    });
     return {
         responseHeaders: [
             { name: "Content-Type", value: "text/html; charset=utf-8" },
             { name: "Cache-Control", value: "no-cache, no-store, must-revalidate" },
             { name: "Pragma", value: "no-cache" },
             { name: "Expires", value: "0" }
-        ]
+        ],
+        redirectUrl: browser.runtime.getURL("src/template.html"
+            + "?url=" + encodeURIComponent(details.url)
+            + "&encoding=" + encodeURIComponent(encoding)
+            + "&format=" + encodeURIComponent(format)
+        )
     };
+}
+
+/**
+ * Initialize the list of common prefixes, obtained from <commonPrefixSource>
+ */
+function initializeCommonPrefixes() {
+    fetch(commonPrefixSource).then(response => {
+        response.json().then(doc => {
+            for(const prefix in doc)
+                commonPrefixes.push([prefix, doc[prefix]]);
+        })
+    });
+}
+
+/**
+ * Return the modified accept header as a string
+ * @returns {string} The modified accept header
+ */
+function getNewHeader() {
+    let newHeader = "";
+    for(const f of formats)
+        newHeader += f + ",";
+    newHeader = newHeader.substring(0, newHeader.length-1) + ";q=0.95";
+    return newHeader;
 }
 
 
 /**
- * Add the listeners for modifying HTTP request and response headers as well as the response payload
+ * Initialize the list of common prefixes and add the listeners for modifying HTTP request and response headers
  */
-browser.webRequest.onBeforeSendHeaders.addListener(changeHeader, filter, ["blocking", "requestHeaders"]);
-browser.webRequest.onHeadersReceived.addListener(rewritePayload, filter, ["blocking", "responseHeaders"]);
+initializeCommonPrefixes();
+browser.webRequest.onBeforeSendHeaders.addListener(modifyRequestHeader, filter, ["blocking", "requestHeaders"]);
+browser.webRequest.onHeadersReceived.addListener(modifyResponseHeader, filter, ["blocking", "responseHeaders"]);
+browser.runtime.onMessage.addListener((message, sender, sendResponse) => {
+    switch(message) {
+        case "acceptHeader":
+            sendResponse(getNewHeader());
+            break;
+        case "commonPrefixes":
+            sendResponse(commonPrefixes);
+            break;
+    }
+});
