@@ -1,4 +1,5 @@
 Suggestion: give users the possibility to see the raw payload returned by the server (in case of error but also in normal cases).
+Could add "Right-click and select "View Page Source" for RDF document as returned by the server".
 
 # http://harth.org/andreas/hotel.jsonld
 
@@ -81,5 +82,9 @@ Redirects to a HTML page?
 Redirects to a HTML page?
 
 # http://edgarwrap.ontologycentral.com/cik/904057#id
+
+Invalid URI?
+
+# https://www.dajobe.org/foaf.rdf#i
 
 Invalid URI?
