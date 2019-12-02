@@ -13,7 +13,7 @@
   "dependencies": {
     "@rdfjs/parser-jsonld": "latest",
     "@rdfjs/parser-n3": "latest",
-    "npm": "^6.12.0",
+    "npm": "^6.13.1",
     "rdfxml-streaming-parser": "latest"
   }
 }
