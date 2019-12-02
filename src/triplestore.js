@@ -211,15 +211,24 @@ class URI extends Resource {
 
     createHtml(retrieveHtml=false, forPrefix=false) {
         const html = document.createElement("span");
+        html.setAttribute("class", "uri");
         const link = document.createElement("a");
         link.setAttribute("href", encodeURI(this.value));
         if(!forPrefix && this.prefix !== null) {
+            const prefixElement = document.createElement("span");
+            prefixElement.setAttribute("class", "prefixName");
+            const prefixText = this.prefix.name;
+            prefixElement.appendChild(document.createTextNode(prefixText));
+            const postfixElement = document.createElement("span");
+            postfixElement.setAttribute("class", "postfix");
             const prefixValue = this.prefix.value.value;
-            const value = this.prefix.name + ":" + this.value.substr(prefixValue.length, this.value.length);
-            link.appendChild(document.createTextNode(value));
+            const postfixText = ":" + this.value.substr(prefixValue.length, this.value.length);
+            postfixElement.appendChild(document.createTextNode(postfixText));
+            link.appendChild(prefixElement);
+            link.appendChild(postfixElement);
             html.appendChild(link);
             if(this.html === null)
-                this.representationLength = value.length;
+                this.representationLength = prefixText.length + postfixText.length;
         }
         else {
             link.appendChild(document.createTextNode(this.value));
@@ -261,6 +270,7 @@ class BlankNode extends Resource {
 
     createHtml() {
         const html = document.createElement("span");
+        html.setAttribute("class", "blankNode");
         html.appendChild(document.createTextNode("_:" + this.value));
         this.html = html;
     }
@@ -285,6 +295,7 @@ class Literal extends Resource {
 
     createHtml() {
         const html = document.createElement("span");
+        html.setAttribute("class", "literal");
         let node;
         switch(this.dtype.value) {
             case datatypes.string:
@@ -325,7 +336,21 @@ class Prefix extends Resource {
 
     createHtml() {
         const html = document.createElement("span");
-        html.appendChild(document.createTextNode("@prefix " + this.name + ": "));
+        html.setAttribute("class", "prefix");
+        const prefixDeclarationElement = document.createElement("span");
+        prefixDeclarationElement.setAttribute("class", "prefixDeclaration");
+        prefixDeclarationElement.appendChild(document.createTextNode("@prefix"));
+        const prefixElement = document.createElement("span");
+        prefixElement.setAttribute("class", "prefixName");
+        prefixElement.appendChild(document.createTextNode(this.name));
+        const doubleColonElement = document.createElement("span");
+        doubleColonElement.setAttribute("class", "postfix");
+        doubleColonElement.appendChild(document.createTextNode(":"));
+        html.appendChild(prefixDeclarationElement);
+        html.appendChild(document.createTextNode(" "));
+        html.appendChild(prefixElement);
+        html.appendChild(doubleColonElement);
+        html.appendChild(document.createTextNode(" "));
         html.appendChild(this.value.createHtml(true, true));
         html.appendChild(document.createTextNode(" ."));
         this.html = html;
