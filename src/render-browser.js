@@ -27052,15 +27052,16 @@ async function createDocument(store) {
     body.appendChild(prefixes);
     prefixes.setAttribute("class", "prefixes");
     store.prefixes.forEach(prefix => {
-        if(prefix.html === null)
+        if (prefix.html === null)
             prefix.createHtml();
         prefixes.appendChild(prefix.html);
         prefixes.appendChild(document.createElement("br"));
     });
     const triples = document.createElement("p");
+    triples.setAttribute("class", "triples");
     body.appendChild(triples);
     let subjectIndex = 0;
-    while(subjectIndex < store.triples.length) {
+    while (subjectIndex < store.triples.length) {
         const result = writeTriple(store, subjectIndex);
         subjectIndex = result.subjectIndex;
         triples.appendChild(result.triple);
@@ -27071,62 +27072,69 @@ function writeTriple(store, subjectIndex) {
     const triple = document.createElement("p");
     triple.setAttribute("class", "triple");
     const subject = store.triples[subjectIndex].subject;
-    if(subject.html === null)
+    if (subject.html === null)
         subject.createHtml();
+    const subjectWrapper = document.createElement("span");
+    subjectWrapper.setAttribute("class", "subject");
     const subjectElement = subject.html.cloneNode(true);
-    triple.appendChild(subjectElement);
-    subjectElement.setAttribute("class", "subject");
+    subjectWrapper.appendChild(subjectElement);
+    triple.appendChild(subjectWrapper);
     const id = subject.value.split("#");
-    if(id.length > 1)
+    if (id.length > 1)
         subjectElement.setAttribute("id", id[id.length - 1]);
-    subjectElement.appendChild(document.createTextNode(" "));
+    triple.appendChild(document.createTextNode(" "));
     const predicateList = store.getTriplesWithSameFieldAs(subjectIndex, "subject");
     let predicateIndex = 0;
-    while(predicateIndex < predicateList.length) {
+    while (predicateIndex < predicateList.length) {
         const predicate = store.triples[predicateList[predicateIndex]].predicate;
-        if(predicate.html === null)
+        if (predicate.html === null)
             predicate.createHtml();
+        const predicateWrapper = document.createElement("span");
+        predicateWrapper.setAttribute("class", "predicate");
         const predicateElement = predicate.html.cloneNode(true);
-        if(predicateIndex > 0)
-            subjectElement.appendChild(document.createTextNode(getIndent(subject.representationLength + 1)));
-        subjectElement.appendChild(predicateElement);
-        predicateElement.setAttribute("class", "predicate");
-        predicateElement.appendChild(document.createTextNode(" "));
+        predicateWrapper.appendChild(predicateElement);
+        if (predicateIndex > 0)
+            triple.appendChild(document.createTextNode(getIndent(subject.representationLength + 1)));
+        triple.appendChild(predicateWrapper);
+        triple.appendChild(document.createTextNode(" "));
         const objectList =
             store.getTriplesWithSameFieldAs(predicateList[predicateIndex], "predicate", predicateList, predicateIndex);
         let objectIndex = 0;
-        while(objectIndex < objectList.length) {
+        while (objectIndex < objectList.length) {
             const object = store.triples[objectList[objectIndex]].object;
-            if(object.html === null)
+            if (object.html === null)
                 object.createHtml();
+            const objectWrapper = document.createElement("span");
+            objectWrapper.setAttribute("class", "object");
             const objectElement = object.html.cloneNode(true);
-            if(objectIndex > 0)
-                predicateElement.appendChild(document.createTextNode(
+            objectWrapper.appendChild(objectElement);
+            if (objectIndex > 0)
+                triple.appendChild(document.createTextNode(
                     getIndent(subject.representationLength + predicate.representationLength + 2)
                 ));
-            predicateElement.appendChild(objectElement);
+            triple.appendChild(objectWrapper);
             subjectIndex++;
             predicateIndex++;
             objectIndex++;
-            predicateElement.appendChild(document.createTextNode(" "));
-            if(objectIndex < objectList.length) {
-                predicateElement.appendChild(document.createTextNode(","));
-                predicateElement.appendChild(document.createElement("br"));
+            triple.appendChild(document.createTextNode(" "));
+            if (objectIndex < objectList.length) {
+                triple.appendChild(document.createTextNode(","));
+                triple.appendChild(document.createElement("br"));
             }
         }
-        if(predicateIndex < predicateList.length) {
-            subjectElement.appendChild(document.createTextNode(" ;\n"));
-            subjectElement.appendChild(document.createElement("br"));
+        if (predicateIndex < predicateList.length) {
+            triple.appendChild(document.createTextNode(" ;\n"));
+            triple.appendChild(document.createElement("br"));
         }
         else
-            subjectElement.appendChild(document.createTextNode(" "));
+            triple.appendChild(document.createTextNode(" "));
     }
     triple.appendChild(document.createTextNode(" ."));
     return {triple, subjectIndex};
 
     function getIndent(spaces) {
         let output = "";
-        for(let i=0; i<spaces; i++)
+        for (let i = 0; i < spaces; i++)
             output += "\u00A0";
         return output;
     }
@@ -27331,15 +27339,24 @@ class URI extends Resource {
 
     createHtml(retrieveHtml=false, forPrefix=false) {
         const html = document.createElement("span");
+        html.setAttribute("class", "uri");
         const link = document.createElement("a");
         link.setAttribute("href", encodeURI(this.value));
         if(!forPrefix && this.prefix !== null) {
+            const prefixElement = document.createElement("span");
+            prefixElement.setAttribute("class", "prefixName");
+            const prefixText = this.prefix.name;
+            prefixElement.appendChild(document.createTextNode(prefixText));
+            const postfixElement = document.createElement("span");
+            postfixElement.setAttribute("class", "postfix");
             const prefixValue = this.prefix.value.value;
-            const value = this.prefix.name + ":" + this.value.substr(prefixValue.length, this.value.length);
-            link.appendChild(document.createTextNode(value));
+            const postfixText = ":" + this.value.substr(prefixValue.length, this.value.length);
+            postfixElement.appendChild(document.createTextNode(postfixText));
+            link.appendChild(prefixElement);
+            link.appendChild(postfixElement);
             html.appendChild(link);
             if(this.html === null)
-                this.representationLength = value.length;
+                this.representationLength = prefixText.length + postfixText.length;
         }
         else {
             link.appendChild(document.createTextNode(this.value));
@@ -27381,6 +27398,7 @@ class BlankNode extends Resource {
 
     createHtml() {
         const html = document.createElement("span");
+        html.setAttribute("class", "blankNode");
         html.appendChild(document.createTextNode("_:" + this.value));
         this.html = html;
     }
@@ -27405,6 +27423,7 @@ class Literal extends Resource {
 
     createHtml() {
         const html = document.createElement("span");
+        html.setAttribute("class", "literal");
         let node;
         switch(this.dtype.value) {
             case datatypes.string:
@@ -27445,7 +27464,21 @@ class Prefix extends Resource {
 
     createHtml() {
         const html = document.createElement("span");
-        html.appendChild(document.createTextNode("@prefix " + this.name + ": "));
+        html.setAttribute("class", "prefix");
+        const prefixDeclarationElement = document.createElement("span");
+        prefixDeclarationElement.setAttribute("class", "prefixDeclaration");
+        prefixDeclarationElement.appendChild(document.createTextNode("@prefix"));
+        const prefixElement = document.createElement("span");
+        prefixElement.setAttribute("class", "prefixName");
+        prefixElement.appendChild(document.createTextNode(this.name));
+        const doubleColonElement = document.createElement("span");
+        doubleColonElement.setAttribute("class", "postfix");
+        doubleColonElement.appendChild(document.createTextNode(":"));
+        html.appendChild(prefixDeclarationElement);
+        html.appendChild(document.createTextNode(" "));
+        html.appendChild(prefixElement);
+        html.appendChild(doubleColonElement);
+        html.appendChild(document.createTextNode(" "));
         html.appendChild(this.value.createHtml(true, true));
         html.appendChild(document.createTextNode(" ."));
         this.html = html;
