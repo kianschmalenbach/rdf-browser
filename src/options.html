@@ -1,0 +1,221 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>RDF Browser - Settings</title>
+    <style>
+        body {
+            min-width: 500px;
+        }
+
+        @media screen and (min--moz-device-pixel-ratio: 0) {
+            body {
+                min-width: unset;
+            }
+        }
+
+        h1 {
+            font-size: small;
+            width: 100%;
+            background-color: #EEEEEE;
+            margin-top: 10px;
+            margin-bottom: -3px;
+            padding: 1px;
+        }
+
+        form {
+            margin-bottom: 10px;
+        }
+
+        form:nth-last-of-type(1) {
+            margin-bottom: 0;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+
+        td {
+            padding-top: 10px;
+        }
+
+        td:nth-child(1) {
+            min-width: 150px;
+            max-width: 160px;
+        }
+
+        td:nth-child(2) {
+            text-align: center;
+        }
+
+        .list {
+            margin: 0 -10px;
+        }
+
+        .list > * {
+            margin: 0 10px;
+        }
+
+        td[colspan="2"] {
+            width: 100%;
+            padding-top: 25px;
+            text-align: center;
+        }
+
+        textarea, input[type=text], select {
+            width: 100%;
+            box-sizing: border-box;
+        }
+
+        input[type=number] {
+            width: 60px;
+        }
+
+        input.bigNumber {
+            width: 90px;
+        }
+
+        input[type=submit] {
+            min-width: 100px;
+            font-weight: bold;
+        }
+
+        label {
+            white-space: nowrap;
+        }
+
+        .hint {
+            text-align: center;
+            font-style: italic;
+        }
+    </style>
+</head>
+<body>
+<p class="hint">More settings will be added in a future release.</p>
+<form>
+    <h1>General Settings</h1>
+    <table>
+        <tbody>
+        <tr>
+            <td>Considered Content Types</td>
+            <td class="list">
+                <label><input id="json" type="checkbox"> application/ld+json</label>
+                <label><input id="n4" type="checkbox"> application/n-quads</label>
+                <label><input id="n3" type="checkbox"> application/n-triples</label>
+                <label><input id="xml" type="checkbox"> application/rdf+xml</label>
+                <label><input id="trig" type="checkbox"> application/trig</label>
+                <label><input id="ttl" type="checkbox"> text/turtle</label>
+            </td>
+        </tr>
+        <tr>
+            <td>Additional Options</td>
+            <td class="list">
+                <label><input id="xhr" type="checkbox"> Ignore XHR</label>
+                <label><input class="bigNumber" id="maxsize" min="0" type="number"> max. Content-Size</label>
+            </td>
+        </tr>
+        </tbody>
+    </table>
+    <h1>Style Settings</h1>
+    <table>
+        <tbody>
+        <tr>
+            <td><label for="styleTemplate">Style Template</label></td>
+            <td>
+                <select id="styleTemplate"></select>
+            </td>
+        </tr>
+        <tr>
+            <td><label for="font">Font (CSS)</label></td>
+            <td><input dependsOn="styleTemplate" id="font" type="text"></td>
+        </tr>
+        <tr>
+            <td>Page Style</td>
+            <td class="list">
+                <label><input dependsOn="styleTemplate" id="fontsize" min="0" step="1" type="number"> Font Size</label>
+                <label><input dependsOn="styleTemplate" id="spacing" min="0" step="0.05" type="number"> Line
+                    Spacing</label>
+                <label><input dependsOn="styleTemplate" id="bgcolor" type="color"> Background</label>
+            </td>
+        </tr>
+        <tr>
+            <td>URI Style</td>
+            <td class="list">
+                <label><input dependsOn="styleTemplate" id="uriStyle" type="color"> Color</label>
+                <label><input dependsOn="styleTemplate" id="uriBold" type="checkbox"> Bold</label>
+                <label><input dependsOn="styleTemplate" id="uriItalic" type="checkbox"> Italic</label>
+                <span>
+                    <label><input dependsOn="styleTemplate" id="uriUnderline" type="checkbox"> Underline</label>
+                    <label id="uriUnderlineColorLabel"> in Color <input dependsOn="styleTemplate" id="uriUnderlineColor"
+                                                                        type="color"></label>
+                </span>
+            </td>
+        </tr>
+        <tr>
+            <td>Prefix Style</td>
+            <td class="list">
+                <label><input dependsOn="styleTemplate" id="prefixStyle" type="color"> Color</label>
+                <label><input dependsOn="styleTemplate" id="prefixBold" type="checkbox"> Bold</label>
+                <label><input dependsOn="styleTemplate" id="prefixItalic" type="checkbox"> Italic</label>
+                <span>
+                    <label><input dependsOn="styleTemplate" id="prefixUnderline" type="checkbox"> Underline</label>
+                    <label id="prefixUnderlineColorLabel"> in Color <input dependsOn="styleTemplate"
+                                                                           id="prefixUnderlineColor"
+                                                                           type="color"></label>
+                </span>
+            </td>
+        </tr>
+        <tr>
+            <td>CURIE Style</td>
+            <td class="list">
+                <label><input dependsOn="styleTemplate" id="curieStyle" type="color"> Color</label>
+                <label><input dependsOn="styleTemplate" id="curieBold" type="checkbox"> Bold</label>
+                <label><input dependsOn="styleTemplate" id="curieItalic" type="checkbox"> Italic</label>
+                <span>
+                    <label><input dependsOn="styleTemplate" id="curieUnderline" type="checkbox"> Underline</label>
+                    <label id="curieUnderlineColorLabel"> in Color <input dependsOn="styleTemplate"
+                                                                          id="curieUnderlineColor"
+                                                                          type="color"></label>
+                </span>
+            </td>
+        </tr>
+        <tr>
+            <td>Blank Node Style</td>
+            <td class="list">
+                <label><input dependsOn="styleTemplate" id="bnStyle" type="color"> Color</label>
+                <label><input dependsOn="styleTemplate" id="bnBold" type="checkbox"> Bold</label>
+                <label><input dependsOn="styleTemplate" id="bnItalic" type="checkbox"> Italic</label>
+                <span>
+                    <label><input dependsOn="styleTemplate" id="bnUnderline" type="checkbox"> Underline</label>
+                    <label id="bnUnderlineColorLabel"> in Color <input dependsOn="styleTemplate" id="bnUnderlineColor"
+                                                                       type="color"></label>
+                </span>
+            </td>
+        </tr>
+        <tr>
+            <td>Literal Style</td>
+            <td class="list">
+                <label><input dependsOn="styleTemplate" id="litStyle" type="color"> Color</label>
+                <label><input dependsOn="styleTemplate" id="litBold" type="checkbox"> Bold</label>
+                <label><input dependsOn="styleTemplate" id="litItalic" type="checkbox"> Italic</label>
+                <span>
+                    <label><input dependsOn="styleTemplate" id="litUnderline" type="checkbox"> Underline</label>
+                    <label id="litUnderlineColorLabel"> in Color <input dependsOn="styleTemplate" id="litUnderlineColor"
+                                                                        type="color"></label>
+                </span>
+            </td>
+        </tr>
+        <tr>
+            <td class="list" colspan="2">
+                <input id="restore" type="button" value="Restore Default">
+                <input type="reset" value="Reset Changes">
+                <input type="submit" value="Save Changes">
+            </td>
+        </tr>
+        </tbody>
+    </table>
+</form>
+<script src="options.js" type="text/javascript"></script>
+</body>
+</html>

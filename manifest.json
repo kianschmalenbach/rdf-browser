@@ -21,7 +21,11 @@
             "src/intercept.js"
         ]
     },
+    "options_ui": {
+        "page": "src/options.html"
+    },
     "permissions": [
+        "storage",
         "tabs",
         "webRequest",
         "webRequestBlocking",
