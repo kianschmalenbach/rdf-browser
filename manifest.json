@@ -22,7 +22,11 @@
             "src/render-browser.js"
         ]
     },
+    "options_ui": {
+        "page": "src/options.html"
+    },
     "permissions": [
+        "storage",
         "webRequest",
         "webRequestBlocking",
         "<all_urls>"
