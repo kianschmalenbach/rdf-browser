@@ -1,65 +1,70 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <style title="Monospace" type="text/css">
+    <style type="text/css">
         body {
-            color: white;
-            width: 99%;
-            white-space: nowrap;
-            font-size: 11pt;
-            font-family: "Consolas", monospace, sans-serif;
             margin: 0 auto;
-            background: #1E221D;
-            line-height: 110%;
         }
+
         .prefixes {
             margin-bottom: 2em;
         }
-        .prefix {
+
+        .prefixes .prefixDeclaration, .prefixes .postfix {
+            text-decoration: none;
+        }
+
+        .uri, .uri a, .prefixDeclaration {
 
         }
-        .subject {
+
+        .prefixName, .prefixName a {
 
         }
-        .predicate {
+
+        .postfix, .postfix a, .literal a {
 
         }
-        .object {
 
-        }
-        .prefixDeclaration {
-            color: #D7F93B;
-        }
-        .prefixName {
-            color: white;
-        }
-        .postfix {
-            color: #EED22C;
-        }
-        .uri, a {
-            color: #D7F93B;
-            text-decoration: underline;
-            text-decoration-color: #9A9B9A;
-        }
         .blankNode {
-            color: #9A9B9A;
+
         }
+
         .literal {
-            color: #ADFF2F;
+
         }
     </style>
-    <style title="Plain" type="text/css">
-        body {
-            width: 99%;
-            white-space: nowrap;
-            margin: 0 auto;
+    <script id="script" type="text/javascript">
+        function getStyleRule(stylesheet, styleClass) {
+            for (let rule in stylesheet.cssRules) {
+                if (stylesheet.cssRules[rule].cssText === undefined)
+                    continue;
+                if (stylesheet.cssRules[rule].cssText.startsWith(styleClass))
+                    return stylesheet.cssRules[rule];
+            }
+            return null;
         }
-        .prefixes {
-            margin-bottom: 2em;
+
+        const stylesheet = document.styleSheets[0];
+        for (const setting in style) {
+            let styleValue = style[setting];
+            let array = setting.split("_");
+            if (typeof style[setting] === "boolean") {
+                styleValue = styleValue ? array[array.length - 1] : "None";
+                array.pop();
+            }
+            if (array.length === 1)
+                array = ["body", array[0]];
+            const styleClass = (array[0] !== "body" ? "." : "") + array[0];
+            const styleRule = getStyleRule(stylesheet, styleClass);
+            if (styleRule === null)
+                continue;
+            const styleSetting = array[1];
+            styleRule.style[styleSetting] = styleValue;
         }
-    </style>
+    </script>
 </head>
-<body id="body">
+<body>
 
 </body>
 </html>

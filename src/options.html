@@ -70,6 +70,10 @@
             box-sizing: border-box;
         }
 
+        input.smallText {
+            width: 65px;
+        }
+
         input[type=number] {
             width: 65px;
         }
@@ -129,82 +133,86 @@
             </td>
         </tr>
         <tr>
-            <td><label for="font">Font (CSS)</label></td>
-            <td><input dependsOn="styleTemplate" id="font" type="text"></td>
+            <td><label for="fontFamily">Font (CSS)</label></td>
+            <td><input dependsOn="styleTemplate" id="fontFamily" type="text"></td>
         </tr>
         <tr>
             <td>Page Style</td>
             <td class="list">
-                <label><input dependsOn="styleTemplate" id="fontsize" min="0" step="1" type="number"> Font Size</label>
-                <label><input dependsOn="styleTemplate" id="spacing" min="0" step="0.05" type="number"> Line
+                <label><input class="smallText" dependsOn="styleTemplate" id="width" type="text"> Page Width</label>
+                <label><input dependsOn="styleTemplate" id="backgroundColor" type="color"> Background Color</label>
+                <label><input dependsOn="styleTemplate" id="whiteSpace_nowrap" type="checkbox"> No Wrapping</label>
+            </td>
+        </tr>
+        <tr>
+            <td>Font Style</td>
+            <td class="list">
+                <label><input dependsOn="styleTemplate" id="color" type="color"> Font Color</label>
+                <label><input dependsOn="styleTemplate" id="fontSize" min="0" step="1" type="number"> Font Size</label>
+                <label><input dependsOn="styleTemplate" id="lineHeight" min="0" step="0.05" type="number"> Line
                     Spacing</label>
-                <label><input dependsOn="styleTemplate" id="bgcolor" type="color"> Background</label>
             </td>
         </tr>
         <tr>
             <td>URI Style</td>
             <td class="list">
-                <label><input dependsOn="styleTemplate" id="uriStyle" type="color"> Color</label>
-                <label><input dependsOn="styleTemplate" id="uriBold" type="checkbox"> Bold</label>
-                <label><input dependsOn="styleTemplate" id="uriItalic" type="checkbox"> Italic</label>
+                <label><input dependsOn="styleTemplate" id="uri_color" type="color"> Color</label>
+                <label><input dependsOn="styleTemplate" id="uri_fontWeight_bold" type="checkbox"> Bold</label>
+                <label><input dependsOn="styleTemplate" id="uri_fontStyle_italic" type="checkbox"> Italic</label>
                 <span>
-                    <label><input dependsOn="styleTemplate" id="uriUnderline" type="checkbox"> Underline</label>
-                    <label id="uriUnderlineColorLabel"> in Color <input dependsOn="styleTemplate" id="uriUnderlineColor"
-                                                                        type="color"></label>
+                    <label><input dependsOn="styleTemplate" id="uri_textDecoration_underline" type="checkbox"> Underline</label>
+                    <label> in Color <input dependsOn="styleTemplate" id="uri_textDecorationColor" type="color"></label>
                 </span>
             </td>
         </tr>
         <tr>
             <td>Prefix Style</td>
             <td class="list">
-                <label><input dependsOn="styleTemplate" id="prefixStyle" type="color"> Color</label>
-                <label><input dependsOn="styleTemplate" id="prefixBold" type="checkbox"> Bold</label>
-                <label><input dependsOn="styleTemplate" id="prefixItalic" type="checkbox"> Italic</label>
+                <label><input dependsOn="styleTemplate" id="prefixName_color" type="color"> Color</label>
+                <label><input dependsOn="styleTemplate" id="prefixName_fontWeight_bold" type="checkbox"> Bold</label>
+                <label><input dependsOn="styleTemplate" id="prefixName_fontStyle_italic" type="checkbox"> Italic</label>
                 <span>
-                    <label><input dependsOn="styleTemplate" id="prefixUnderline" type="checkbox"> Underline</label>
-                    <label id="prefixUnderlineColorLabel"> in Color <input dependsOn="styleTemplate"
-                                                                           id="prefixUnderlineColor"
-                                                                           type="color"></label>
+                    <label><input dependsOn="styleTemplate" id="prefixName_textDecoration_underline" type="checkbox"> Underline</label>
+                    <label> in Color <input dependsOn="styleTemplate" id="prefixName_textDecorationColor" type="color"></label>
                 </span>
             </td>
         </tr>
         <tr>
             <td>CURIE Style</td>
             <td class="list">
-                <label><input dependsOn="styleTemplate" id="curieStyle" type="color"> Color</label>
-                <label><input dependsOn="styleTemplate" id="curieBold" type="checkbox"> Bold</label>
-                <label><input dependsOn="styleTemplate" id="curieItalic" type="checkbox"> Italic</label>
+                <label><input dependsOn="styleTemplate" id="postfix_color" type="color"> Color</label>
+                <label><input dependsOn="styleTemplate" id="postfix_fontWeight_bold" type="checkbox"> Bold</label>
+                <label><input dependsOn="styleTemplate" id="postfix_fontStyle_italic" type="checkbox"> Italic</label>
                 <span>
-                    <label><input dependsOn="styleTemplate" id="curieUnderline" type="checkbox"> Underline</label>
-                    <label id="curieUnderlineColorLabel"> in Color <input dependsOn="styleTemplate"
-                                                                          id="curieUnderlineColor"
-                                                                          type="color"></label>
+                    <label><input dependsOn="styleTemplate" id="postfix_textDecoration_underline" type="checkbox"> Underline</label>
+                    <label> in Color <input dependsOn="styleTemplate" id="postfix_textDecorationColor"
+                                            type="color"></label>
                 </span>
             </td>
         </tr>
         <tr>
             <td>Blank Node Style</td>
             <td class="list">
-                <label><input dependsOn="styleTemplate" id="bnStyle" type="color"> Color</label>
-                <label><input dependsOn="styleTemplate" id="bnBold" type="checkbox"> Bold</label>
-                <label><input dependsOn="styleTemplate" id="bnItalic" type="checkbox"> Italic</label>
+                <label><input dependsOn="styleTemplate" id="blankNode_color" type="color"> Color</label>
+                <label><input dependsOn="styleTemplate" id="blankNode_fontWeight_bold" type="checkbox"> Bold</label>
+                <label><input dependsOn="styleTemplate" id="blankNode_fontStyle_italic" type="checkbox"> Italic</label>
                 <span>
-                    <label><input dependsOn="styleTemplate" id="bnUnderline" type="checkbox"> Underline</label>
-                    <label id="bnUnderlineColorLabel"> in Color <input dependsOn="styleTemplate" id="bnUnderlineColor"
-                                                                       type="color"></label>
+                    <label><input dependsOn="styleTemplate" id="blankNode_textDecoration_underline" type="checkbox"> Underline</label>
+                    <label> in Color <input dependsOn="styleTemplate" id="blankNode_textDecorationColor"
+                                            type="color"></label>
                 </span>
             </td>
         </tr>
         <tr>
             <td>Literal Style</td>
             <td class="list">
-                <label><input dependsOn="styleTemplate" id="litStyle" type="color"> Color</label>
-                <label><input dependsOn="styleTemplate" id="litBold" type="checkbox"> Bold</label>
-                <label><input dependsOn="styleTemplate" id="litItalic" type="checkbox"> Italic</label>
+                <label><input dependsOn="styleTemplate" id="literal_color" type="color"> Color</label>
+                <label><input dependsOn="styleTemplate" id="literal_fontWeight_bold" type="checkbox"> Bold</label>
+                <label><input dependsOn="styleTemplate" id="literal_fontStyle_italic" type="checkbox"> Italic</label>
                 <span>
-                    <label><input dependsOn="styleTemplate" id="litUnderline" type="checkbox"> Underline</label>
-                    <label id="litUnderlineColorLabel"> in Color <input dependsOn="styleTemplate" id="litUnderlineColor"
-                                                                        type="color"></label>
+                    <label><input dependsOn="styleTemplate" id="literal_textDecoration_underline" type="checkbox"> Underline</label>
+                    <label> in Color <input dependsOn="styleTemplate" id="literal_textDecorationColor"
+                                            type="color"></label>
                 </span>
             </td>
         </tr>

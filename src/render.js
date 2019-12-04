@@ -1,5 +1,6 @@
 const templatePath = "src/template.html";
 const parser = require("./parser");
+let options = {};
 
 async function render(stream, decoder, format) {
     const template = await getTemplate();
@@ -22,7 +23,11 @@ function getTemplate() {
 function createDocument(html, store) {
     return new Promise(resolve => {
         const document = new DOMParser().parseFromString(html, "text/html");
-        const body = document.getElementById("body");
+        const scriptElement = document.getElementById("script");
+        const scriptString = JSON.stringify(options.allStyleTemplate[options.allStyleTemplate.selected]);
+        const script = "const style = " + scriptString + ";\n";
+        scriptElement.insertBefore(document.createTextNode(script), scriptElement.firstChild);
+        const body = document.body;
         while (body.firstChild)
             body.removeChild(body.firstChild);
         const prefixes = document.createElement("p");
@@ -117,5 +122,10 @@ function writeTriple(store, subjectIndex) {
         return output;
     }
 }
+
+browser.storage.onChanged.addListener(() => {
+    browser.storage.sync.get("options").then(result => options = result.options);
+});
+browser.storage.sync.get("options").then(result => options = result.options);
 
 module.exports.render = render;

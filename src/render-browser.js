@@ -27005,6 +27005,7 @@ module.exports = {obtainTriplestore};
 },{"./triplestore":123,"@rdfjs/parser-jsonld":40,"@rdfjs/parser-n3":64,"rdfxml-streaming-parser":101,"stream":28}],122:[function(require,module,exports){
 const templatePath = "src/template.html";
 const parser = require("./parser");
+let options = {};
 
 async function render(stream, decoder, format) {
     const template = await getTemplate();
@@ -27027,7 +27028,11 @@ function getTemplate() {
 function createDocument(html, store) {
     return new Promise(resolve => {
         const document = new DOMParser().parseFromString(html, "text/html");
-        const body = document.getElementById("body");
+        const scriptElement = document.getElementById("script");
+        const scriptString = JSON.stringify(options.allStyleTemplate[options.allStyleTemplate.selected]);
+        const script = "const style = " + scriptString + ";\n";
+        scriptElement.insertBefore(document.createTextNode(script), scriptElement.firstChild);
+        const body = document.body;
         while (body.firstChild)
             body.removeChild(body.firstChild);
         const prefixes = document.createElement("p");
@@ -27122,6 +27127,11 @@ function writeTriple(store, subjectIndex) {
         return output;
     }
 }
+
+browser.storage.onChanged.addListener(() => {
+    browser.storage.sync.get("options").then(result => options = result.options);
+});
+browser.storage.sync.get("options").then(result => options = result.options);
 
 module.exports.render = render;
 
@@ -27339,26 +27349,28 @@ class URI extends Resource {
 
     createHtml(retrieveHtml=false, forPrefix=false) {
         const html = document.createElement("span");
-        html.setAttribute("class", "uri");
         const link = document.createElement("a");
         link.setAttribute("href", encodeURI(this.value));
         if(!forPrefix && this.prefix !== null) {
+            html.setAttribute("class", "postfix");
             const prefixElement = document.createElement("span");
             prefixElement.setAttribute("class", "prefixName");
             const prefixText = this.prefix.name;
             prefixElement.appendChild(document.createTextNode(prefixText));
-            const postfixElement = document.createElement("span");
-            postfixElement.setAttribute("class", "postfix");
+            //const postfixElement = document.createElement("span");
+            //postfixElement.setAttribute("class", "postfix");
             const prefixValue = this.prefix.value.value;
             const postfixText = ":" + this.value.substr(prefixValue.length, this.value.length);
-            postfixElement.appendChild(document.createTextNode(postfixText));
+            //postfixElement.appendChild(document.createTextNode(postfixText));
             link.appendChild(prefixElement);
-            link.appendChild(postfixElement);
+            link.appendChild(document.createTextNode(postfixText));
+            //link.appendChild(postfixElement);
             html.appendChild(link);
             if(this.html === null)
                 this.representationLength = prefixText.length + postfixText.length;
         }
         else {
+            html.setAttribute("class", "uri");
             link.appendChild(document.createTextNode(this.value));
             html.appendChild(document.createTextNode("<"));
             html.appendChild(link);
