@@ -29,7 +29,7 @@ async function render(stream, decoder, format) {
 }
 
 async function createDocument(store) {
-    const body = document.getElementById("body");
+    const body = document.body;
     while (body.firstChild)
         body.removeChild(body.firstChild);
     const prefixes = document.createElement("p");
@@ -109,8 +109,7 @@ function writeTriple(store, subjectIndex) {
         if (predicateIndex < predicateList.length) {
             triple.appendChild(document.createTextNode(" ;\n"));
             triple.appendChild(document.createElement("br"));
-        }
-        else
+        } else
             triple.appendChild(document.createTextNode(" "));
     }
     triple.appendChild(document.createTextNode(" ."));
@@ -124,4 +123,4 @@ function writeTriple(store, subjectIndex) {
     }
 }
 
-document.getElementById("body").onloaddone = getAndRewritePayload();
+document.body.onloaddone = getAndRewritePayload();

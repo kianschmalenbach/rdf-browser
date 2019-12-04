@@ -27045,7 +27045,7 @@ async function render(stream, decoder, format) {
 }
 
 async function createDocument(store) {
-    const body = document.getElementById("body");
+    const body = document.body;
     while (body.firstChild)
         body.removeChild(body.firstChild);
     const prefixes = document.createElement("p");
@@ -27125,8 +27125,7 @@ function writeTriple(store, subjectIndex) {
         if (predicateIndex < predicateList.length) {
             triple.appendChild(document.createTextNode(" ;\n"));
             triple.appendChild(document.createElement("br"));
-        }
-        else
+        } else
             triple.appendChild(document.createTextNode(" "));
     }
     triple.appendChild(document.createTextNode(" ."));
@@ -27140,7 +27139,7 @@ function writeTriple(store, subjectIndex) {
     }
 }
 
-document.getElementById("body").onloaddone = getAndRewritePayload();
+document.body.onloaddone = getAndRewritePayload();
 
 },{"./parser":121}],123:[function(require,module,exports){
 const browser = window.browser || window.chrome;
@@ -27339,26 +27338,28 @@ class URI extends Resource {
 
     createHtml(retrieveHtml=false, forPrefix=false) {
         const html = document.createElement("span");
-        html.setAttribute("class", "uri");
         const link = document.createElement("a");
         link.setAttribute("href", encodeURI(this.value));
         if(!forPrefix && this.prefix !== null) {
+            html.setAttribute("class", "postfix");
             const prefixElement = document.createElement("span");
             prefixElement.setAttribute("class", "prefixName");
             const prefixText = this.prefix.name;
             prefixElement.appendChild(document.createTextNode(prefixText));
-            const postfixElement = document.createElement("span");
-            postfixElement.setAttribute("class", "postfix");
+            //const postfixElement = document.createElement("span");
+            //postfixElement.setAttribute("class", "postfix");
             const prefixValue = this.prefix.value.value;
             const postfixText = ":" + this.value.substr(prefixValue.length, this.value.length);
-            postfixElement.appendChild(document.createTextNode(postfixText));
+            //postfixElement.appendChild(document.createTextNode(postfixText));
             link.appendChild(prefixElement);
-            link.appendChild(postfixElement);
+            link.appendChild(document.createTextNode(postfixText));
+            //link.appendChild(postfixElement);
             html.appendChild(link);
             if(this.html === null)
                 this.representationLength = prefixText.length + postfixText.length;
         }
         else {
+            html.setAttribute("class", "uri");
             link.appendChild(document.createTextNode(this.value));
             html.appendChild(document.createTextNode("<"));
             html.appendChild(link);

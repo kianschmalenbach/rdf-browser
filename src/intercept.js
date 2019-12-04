@@ -1,18 +1,27 @@
 const browser = window.browser || window.chrome;
-const formats = [
-    "application/ld+json",
-    "application/n-quads",
-    "application/n-triples",
-    "application/rdf+xml",
-    "application/trig",
-    "text/turtle"
-];
 const filter = {
     urls: ["<all_urls>"]
 };
-const maxSize = 10485760;
 const commonPrefixSource = "https://prefix.cc/popular/all.file.json";
 const commonPrefixes = [];
+let options = {};
+
+function getFormats() {
+    const formats = [];
+    if (options.json)
+        formats.push("application/ld+json");
+    if (options.n4)
+        formats.push("application/n-quads");
+    if (options.n3)
+        formats.push("application/n-triples");
+    if (options.xml)
+        formats.push("application/rdf+xml");
+    if (options.trig)
+        formats.push("application/trig");
+    if (options.ttl)
+        formats.push("text/turtle");
+    return formats;
+}
 
 /**
  * Change the accept header for all HTTP requests to include the content types specified in formats
@@ -21,12 +30,14 @@ const commonPrefixes = [];
  * @returns {{requestHeaders: *}} The modified request header
  */
 function modifyRequestHeader(details) {
-    if(details.type !== "main_frame")
-        return { };
-    for(let header of details.requestHeaders) {
-        if(header.name.toLowerCase() === "accept") {
-            const newHeader = getNewHeader() + ",";
-            header.value = newHeader + header.value;
+    if (options.xhr && details.type !== "main_frame")
+        return {};
+    const formats = getFormats();
+    if (formats.length === 0)
+        return {};
+    for (let header of details.requestHeaders) {
+        if (header.name.toLowerCase() === "accept") {
+            header.value = getNewHeader() + "," + header.value;
             break;
         }
     }
@@ -41,29 +52,29 @@ function modifyRequestHeader(details) {
 function modifyResponseHeader(details) {
     if (details.statusCode !== 200 || details.type !== "main_frame")
         return {};
-    const cl = details.responseHeaders.find(h => h.name.toLowerCase() === "content-length");
-    if(cl) {
+    const cl = details.responseHeaders.find(h => h.name.toLowerCase() === "content-length");
+    if (cl) {
         const length = parseInt(cl.value);
-        if(length !== undefined && length > maxSize)
+        if (length !== undefined && length > options.maxsize)
             return {};
     }
-    const ct = details.responseHeaders.find(h => h.name.toLowerCase() === "content-type");
-    const format = ct ? formats.find(f => ct.value.includes(f)) : false;
+    const ct = details.responseHeaders.find(h => h.name.toLowerCase() === "content-type");
+    const format = ct ? getFormats().find(f => ct.value.includes(f)) : false;
     let encoding = ct ? ct.value.split("charset=") : false;
-    if(!format || !encoding) {
+    if (!format || !encoding) {
         return {};
     }
     encoding = (encoding.length < 2 ? null : encoding[1]);
-    if(!encoding) {
+    if (!encoding) {
         console.warn("The HTTP response does not include encoding information. Encoding in utf-8 is assumed.");
         encoding = "utf-8";
     }
     return {
         responseHeaders: [
-            { name: "Content-Type", value: "text/html; charset=utf-8" },
-            { name: "Cache-Control", value: "no-cache, no-store, must-revalidate" },
-            { name: "Pragma", value: "no-cache" },
-            { name: "Expires", value: "0" }
+            {name: "Content-Type", value: "text/html; charset=utf-8"},
+            {name: "Cache-Control", value: "no-cache, no-store, must-revalidate"},
+            {name: "Pragma", value: "no-cache"},
+            {name: "Expires", value: "0"}
         ],
         redirectUrl: browser.runtime.getURL("src/template.html"
             + "?url=" + encodeURIComponent(details.url)
@@ -79,7 +90,7 @@ function modifyResponseHeader(details) {
 function initializeCommonPrefixes() {
     fetch(commonPrefixSource).then(response => {
         response.json().then(doc => {
-            for(const prefix in doc)
+            for (const prefix in doc)
                 commonPrefixes.push([prefix, doc[prefix]]);
         })
     });
@@ -91,12 +102,12 @@ function initializeCommonPrefixes() {
  */
 function getNewHeader() {
     let newHeader = "";
-    for(const f of formats)
+    for (const f of getFormats())
         newHeader += f + ",";
-    newHeader = newHeader.substring(0, newHeader.length-1) + ";q=0.95";
+    newHeader = newHeader.substring(0, newHeader.length - 1);
+    newHeader += ";q=0.95";
     return newHeader;
 }
-
 
 /**
  * Initialize the list of common prefixes and add the listeners for modifying HTTP request and response headers
@@ -105,7 +116,7 @@ initializeCommonPrefixes();
 browser.webRequest.onBeforeSendHeaders.addListener(modifyRequestHeader, filter, ["blocking", "requestHeaders"]);
 browser.webRequest.onHeadersReceived.addListener(modifyResponseHeader, filter, ["blocking", "responseHeaders"]);
 browser.runtime.onMessage.addListener((message, sender, sendResponse) => {
-    switch(message) {
+    switch (message) {
         case "acceptHeader":
             sendResponse(getNewHeader());
             break;
@@ -114,3 +125,7 @@ browser.runtime.onMessage.addListener((message, sender, sendResponse) => {
             break;
     }
 });
+browser.storage.onChanged.addListener(() => {
+    browser.storage.sync.get("options").then(result => options = result.options);
+});
+browser.storage.sync.get("options").then(result => options = result.options);
