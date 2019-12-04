@@ -263,8 +263,8 @@ function getNewHeader() {
  */
 function addListeners() {
     initializeCommonPrefixes();
-    browser.webRequest.onBeforeSendHeaders.addListener(changeHeader, filter, ["blocking", "requestHeaders"]);
-    browser.webRequest.onHeadersReceived.addListener(rewritePayload, filter, ["blocking", "responseHeaders"]);
+    browser.webRequest.onBeforeSendHeaders.addListener(modifyRequestHeader, filter, ["blocking", "requestHeaders"]);
+    browser.webRequest.onHeadersReceived.addListener(modifyResponseHeader, filter, ["blocking", "responseHeaders"]);
     browser.runtime.onMessage.addListener((message, sender, sendResponse) => {
         switch (message) {
             case "acceptHeader":
@@ -290,6 +290,7 @@ browser.storage.sync.get("options").then(result => {
             defaultOptions: defaultOptions
         };
         browser.storage.sync.set(result);
-        addListeners();
     }
+    options = result.options;
+    addListeners();
 });
