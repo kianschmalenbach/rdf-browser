@@ -266,14 +266,13 @@ browser.storage.onChanged.addListener(() => {
     browser.storage.sync.get("options").then(result => options = result.options);
 });
 browser.storage.sync.get("options").then(result => {
-    console.log(result);
     if (result.options === undefined) {
-        console.log("Bar");
         result = {
             options: defaultOptions,
             defaultOptions: defaultOptions
         };
         browser.storage.sync.set(result);
-        addListeners();
     }
+    options = result.options;
+    addListeners();
 });
