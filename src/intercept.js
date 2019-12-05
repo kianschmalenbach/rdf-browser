@@ -262,17 +262,20 @@ function addListeners() {
 /**
  * Initialize the storage with the plugin default options and set the listener for option changes
  */
-browser.storage.onChanged.addListener(() => {
-    browser.storage.sync.get("options").then(result => options = result.options);
-});
-browser.storage.sync.get("options").then(result => {
-    if (result.options === undefined) {
-        result = {
-            options: defaultOptions,
-            defaultOptions: defaultOptions
-        };
-        browser.storage.sync.set(result);
-    }
-    options = result.options;
-    addListeners();
+browser.storage.sync.set({
+    defaultOptions: defaultOptions
+}).then(() => {
+    browser.storage.onChanged.addListener(() => {
+        browser.storage.sync.get("options").then(result => options = result.options);
+    });
+    browser.storage.sync.get("options").then(result => {
+        if (result.options === undefined) {
+            result = {
+                options: defaultOptions
+            };
+            browser.storage.sync.set(result);
+        }
+        options = result.options;
+        addListeners();
+    });
 });

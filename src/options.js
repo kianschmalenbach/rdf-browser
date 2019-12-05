@@ -93,8 +93,7 @@ function saveOptions(e = null, cursor = null) {
     if (cursor !== null)
         return;
     browser.storage.sync.set({
-        options: currentOptions,
-        defaultOptions: defaultOptions
+        options: currentOptions
     });
 }
 
@@ -105,8 +104,7 @@ function restoreOptions(e = null) {
     getting.then(result => {
         if (result.options === undefined) {
             result = {
-                options: defaultOptions,
-                defaultOptions: defaultOptions
+                options: defaultOptions
             };
             browser.storage.sync.set(result);
         }
@@ -116,8 +114,7 @@ function restoreOptions(e = null) {
 
 function restoreDefault() {
     browser.storage.sync.set({
-        options: defaultOptions,
-        defaultOptions: defaultOptions
+        options: defaultOptions
     });
     restoreOptions();
 }
