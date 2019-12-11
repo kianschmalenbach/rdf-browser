@@ -25,6 +25,8 @@ browser.storage.sync.get("options").then(result => {
         if (styleRule === null)
             continue;
         const styleSetting = array[1];
+        if (styleSetting === "fontSize")
+            styleValue += "pt";
         styleRule.style[styleSetting] = styleValue;
     }
 });
