@@ -34,7 +34,8 @@ function setCurrentChoice(input = currentOptions, scope = defaultOptions) {
                     element.value = entry;
                 }
             }
-            setCurrentChoice(selectedOption, selectedOption);
+            if (element.value !== "none")
+                setCurrentChoice(selectedOption, selectedOption);
             const listener = () => {
                 const options = currentOptions[settingName][element.options[element.selectedIndex].value];
                 setCurrentChoice(options, options);
@@ -100,29 +101,39 @@ function saveOptions(e = null, cursor = null) {
 function restoreOptions(e = null) {
     if (e !== null)
         e.preventDefault();
-    const getting = browser.storage.sync.get("options");
-    getting.then(result => {
-        if (result.options === undefined) {
-            result = {
-                options: defaultOptions
-            };
-            browser.storage.sync.set(result);
-        }
-        setCurrentChoice(result.options);
+    browser.runtime.sendMessage("defaultOptions").then(defaults => {
+        defaultOptions = defaults;
+        const getting = browser.storage.sync.get("options");
+        getting.then(result => {
+            if (result.options === undefined) {
+                result = {
+                    options: defaultOptions
+                };
+                browser.storage.sync.set(result);
+            }
+            setCurrentChoice(result.options);
+            toggleStyleSelection();
+        });
     });
 }
 
 function restoreDefault() {
-    browser.storage.sync.set({
-        options: defaultOptions
-    });
-    restoreOptions();
+    browser.storage.sync.clear().then(restoreOptions());
+}
+
+function toggleStyleSelection() {
+    const selector = document.getElementById("styleTemplate");
+    const elements = document.querySelectorAll("*[dependsOn='styleTemplate'");
+    for (let i = 0; i < elements.length; ++i) {
+        if (selector.value === "none")
+            elements[i].setAttribute("disabled", "true");
+        else
+            elements[i].removeAttribute("disabled");
+    }
 }
 
 document.querySelector("form").addEventListener("submit", saveOptions);
 document.querySelector("form").addEventListener("reset", restoreOptions);
 document.getElementById("restore").addEventListener("click", restoreDefault);
-browser.storage.sync.get("defaultOptions").then(defaults => {
-    defaultOptions = defaults.defaultOptions;
-    restoreOptions();
-});
+document.getElementById("styleTemplate").addEventListener("change", toggleStyleSelection);
+restoreOptions();

@@ -12,6 +12,7 @@ const defaultOptions = {
     xhr: true,
     maxsize: 10485760,
     allStyleTemplate: {
+        none: {},
         light: {
             width: "99%",
             whiteSpace_nowrap: true,
@@ -79,40 +80,6 @@ const defaultOptions = {
             literal_fontStyle_italic: true,
             literal_textDecoration_underline: false,
             literal_textDecorationColor: "#9A9B9A"
-        },
-        plain: {
-            width: "99%",
-            whiteSpace_nowrap: true,
-            backgroundColor: "#FFFFF",
-            fontFamily: "serif",
-            fontSize: 12,
-            lineHeight: 1.0,
-            color: "#000000",
-            uri_color: "#0000FF",
-            uri_fontWeight_bold: false,
-            uri_fontStyle_italic: false,
-            uri_textDecoration_underline: true,
-            uri_textDecorationColor: "#0000FF",
-            prefixName_color: "#0000FF",
-            prefixName_fontWeight_bold: false,
-            prefixName_fontStyle_italic: false,
-            prefixName_textDecoration_underline: false,
-            prefixName_textDecorationColor: "#0000FF",
-            postfix_color: "#0000FF",
-            postfix_fontWeight_bold: false,
-            postfix_fontStyle_italic: false,
-            postfix_textDecoration_underline: true,
-            postfix_textDecorationColor: "#0000FF",
-            blankNode_color: "#000000",
-            blankNode_fontWeight_bold: false,
-            blankNode_fontStyle_italic: false,
-            blankNode_textDecoration_underline: false,
-            blankNode_textDecorationColor: "#000000",
-            literal_color: "#000000",
-            literal_fontWeight_bold: false,
-            literal_fontStyle_italic: false,
-            literal_textDecoration_underline: false,
-            literal_textDecorationColor: "#000000"
         },
         custom: {
             width: "99%",
@@ -257,25 +224,28 @@ function rewritePayload(details) {
 function addListeners() {
     browser.webRequest.onBeforeSendHeaders.addListener(changeHeader, filter, ["blocking", "requestHeaders"]);
     browser.webRequest.onHeadersReceived.addListener(rewritePayload, filter, ["blocking", "responseHeaders"]);
+    browser.runtime.onMessage.addListener((message, sender, sendResponse) => {
+        switch (message) {
+            case "defaultOptions":
+                sendResponse(defaultOptions);
+                break;
+        }
+    });
 }
 
 /**
  * Initialize the storage with the plugin default options and set the listener for option changes
  */
-browser.storage.sync.set({
-    defaultOptions: defaultOptions
-}).then(() => {
-    browser.storage.onChanged.addListener(() => {
-        browser.storage.sync.get("options").then(result => options = result.options);
-    });
-    browser.storage.sync.get("options").then(result => {
-        if (result.options === undefined) {
-            result = {
-                options: defaultOptions
-            };
-            browser.storage.sync.set(result);
-        }
-        options = result.options;
-        addListeners();
-    });
+browser.storage.onChanged.addListener(() => {
+    browser.storage.sync.get("options").then(result => options = result.options);
+});
+browser.storage.sync.get("options").then(result => {
+    if (result.options === undefined) {
+        result = {
+            options: defaultOptions
+        };
+        browser.storage.sync.set(result);
+    }
+    options = result.options;
+    addListeners();
 });
