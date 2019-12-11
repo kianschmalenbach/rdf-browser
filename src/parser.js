@@ -8,7 +8,7 @@ let blankNodeOffset; //workaround for incremental blank node number assignment b
 function obtainTriplestore(inputStream, decoder, format) {
     return new Promise((resolve, reject) => {
         const parser = getParser(format);
-        if(!parser)
+        if (!parser)
             reject("Unsupported format");
         const store = ts.getTriplestore();
         const transformStream = new Transform({
@@ -19,7 +19,7 @@ function obtainTriplestore(inputStream, decoder, format) {
         });
         inputStream.ondata = event => {
             const data = decoder.decode(event.data, {stream: true});
-            if(typeof data === "string")
+            if (typeof data === "string")
                 transformStream.push(data);
         };
         inputStream.onstop = () => {
@@ -29,8 +29,8 @@ function obtainTriplestore(inputStream, decoder, format) {
         blankNodeOffset = -1;
         outputStream
             .on("context", context => {
-                for(const prefix in context) {
-                    if(typeof context[prefix] === "string")
+                for (const prefix in context) {
+                    if (typeof context[prefix] === "string")
                         store.addPrefix(prefix, context[prefix]);
                 }
             })
@@ -41,7 +41,7 @@ function obtainTriplestore(inputStream, decoder, format) {
                 store.addTriple(subject, predicate, object);
             })
             .on("prefix", (prefix, ns) => {
-                if(typeof ns.value === "string" && /^http/.test(ns.value))
+                if (typeof ns.value === "string" && /^http/.test(ns.value))
                     store.addPrefix(prefix, ns.value);
             })
             .on("error", error => {
@@ -55,7 +55,7 @@ function obtainTriplestore(inputStream, decoder, format) {
 }
 
 function getParser(format) {
-    switch(format) {
+    switch (format) {
         case "application/rdf+xml":
             return new RdfXmlParser();
         case "application/ld+json":
@@ -74,15 +74,15 @@ function getParser(format) {
 function processResource(store, resource) {
     const value = resource.value;
     const resourceType = Object.getPrototypeOf(resource).termType;
-    if(!resourceType)
+    if (!resourceType)
         return null;
-    switch(resourceType) {
+    switch (resourceType) {
         case "BlankNode":
-            if(/^b[0-9]+$/.test(value)) {
+            if (/^b[0-9]+$/.test(value)) {
                 const blankNodeNumber = value.substring(1, value.length);
-                if(blankNodeOffset === -1)
+                if (blankNodeOffset === -1)
                     blankNodeOffset = blankNodeNumber;
-                return store.getBlankNode("b" + (blankNodeNumber-blankNodeOffset));
+                return store.getBlankNode("b" + (blankNodeNumber - blankNodeOffset));
             }
             return store.getBlankNode(value);
         case "NamedNode":
