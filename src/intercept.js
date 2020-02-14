@@ -10,6 +10,11 @@ const defaultOptions = {
     trig: true,
     ttl: true,
     xhr: true,
+    rdfext: false,
+    jsonldext: false,
+    ttlext: false,
+    ntext: false,
+    nqext: false,
     maxsize: 10485760,
     allStyleTemplate: {
         none: {},
@@ -137,6 +142,21 @@ function getFormats() {
     return formats;
 }
 
+function getFileTypes() {
+    const fileTypes = [];
+    if (options.rdfext)
+        fileTypes.push("rdf");
+    if (options.jsonldext)
+        fileTypes.push("jsonld");
+    if (options.ttlext)
+        fileTypes.push("ttl");
+    if (options.ntext)
+        fileTypes.push("nt");
+    if (options.nqext)
+        fileTypes.push("nq");
+    return fileTypes;
+}
+
 /**
  * Change the accept header for all HTTP requests to include the content types specified in formats
  * with higher priority than the remaining content types
@@ -174,13 +194,16 @@ function rewritePayload(details) {
     const cl = details.responseHeaders.find(h => h.name.toLowerCase() === "content-length");
     if (cl) {
         const length = parseInt(cl.value);
-        if (length !== undefined && length > options.maxsize)
+        if (length === undefined || length > options.maxsize)
             return {};
     }
     const ct = details.responseHeaders.find(h => h.name.toLowerCase() === "content-type");
     const format = ct ? getFormats().find(f => ct.value.includes(f)) : false;
+    let fileType = new URL(details.url).pathname.split(".");
+    if (fileType !== undefined && fileType.length >= 1)
+        fileType = fileType[fileType.length - 1];
     let encoding = ct ? ct.value.split("charset=") : false;
-    if (!format || !encoding) {
+    if ((!format && !getFileTypes().includes(fileType)) || !encoding) {
         return {};
     }
     encoding = (encoding.length < 2 ? null : encoding[1]);
@@ -244,8 +267,13 @@ browser.storage.sync.get("options").then(result => {
         result = {
             options: defaultOptions
         };
-        browser.storage.sync.set(result);
+    } else {
+        for (const option in defaultOptions) {
+            if (!result.options.hasOwnProperty(option))
+                result.options[option] = defaultOptions[option];
+        }
     }
+    browser.storage.sync.set(result);
     options = result.options;
     addListeners();
 });
