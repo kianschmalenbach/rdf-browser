@@ -27068,9 +27068,8 @@ function writeTriple(store, subjectIndex) {
     const subjectElement = subject.html.cloneNode(true);
     subjectWrapper.appendChild(subjectElement);
     triple.appendChild(subjectWrapper);
-    const id = subject.value.split("#");
-    if (id.length > 1)
-        subjectElement.setAttribute("id", id[id.length - 1]);
+    if (subject.id !== null)
+        subjectElement.setAttribute("id", subject.id);
     triple.appendChild(document.createTextNode(" "));
     const predicateList = store.getTriplesWithSameFieldAs(subjectIndex, "subject");
     let predicateIndex = 0;
@@ -27285,6 +27284,7 @@ class Resource {
         this.html = null;
         this.representationLength = 0;
         this.triples = [];
+        this.id = null;
     }
 
     static compareValues(a, b) {
@@ -27331,6 +27331,9 @@ class URI extends Resource {
     constructor(value) {
         super(value);
         this.prefix = null;
+        const id = value.split("#");
+        if (id.length > 1 && id[id.length - 1] !== "")
+            this.id = id[id.length - 1];
     }
 
     updatePrefix(prefixes) {
@@ -27390,6 +27393,7 @@ class BlankNode extends Resource {
     constructor(value) {
         super(value);
         this.representationLength = value.length + 2;
+        this.id = "_:" + value;
     }
 
     compareTo(resource, position = null) {
@@ -27405,8 +27409,11 @@ class BlankNode extends Resource {
 
     createHtml() {
         const html = document.createElement("span");
-        html.setAttribute("class", "blankNode");
-        html.appendChild(document.createTextNode("_:" + this.value));
+        const link = document.createElement("a");
+        link.setAttribute("href", "#_:" + this.value);
+        link.appendChild(document.createTextNode("_:" + this.value));
+        html.appendChild(link);
+        link.setAttribute("class", "blankNode");
         this.html = html;
     }
 
