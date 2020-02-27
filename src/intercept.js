@@ -17,7 +17,11 @@ const defaultOptions = {
     nqext: false,
     maxsize: 10485760,
     allStyleTemplate: {
-        none: {},
+        none: {
+            whiteSpace_nowrap: true,
+            prefixes_marginBottom: "0em",
+            body_margin: "8px"
+        },
         light: {
             width: "99%",
             whiteSpace_nowrap: true,
@@ -271,6 +275,12 @@ browser.storage.sync.get("options").then(result => {
         for (const option in defaultOptions) {
             if (!result.options.hasOwnProperty(option))
                 result.options[option] = defaultOptions[option];
+            else if (option.startsWith("all")) {
+                for (const child in defaultOptions[option]) {
+                    if (child !== "custom" && child !== "selected")
+                        result.options[option][child] = defaultOptions[option][child];
+                }
+            }
         }
     }
     browser.storage.sync.set(result);

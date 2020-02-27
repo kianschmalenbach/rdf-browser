@@ -34,8 +34,7 @@ function setCurrentChoice(input = currentOptions, scope = defaultOptions) {
                     element.value = entry;
                 }
             }
-            if (element.value !== "none")
-                setCurrentChoice(selectedOption, selectedOption);
+            setCurrentChoice(selectedOption, selectedOption);
             const listener = () => {
                 const options = currentOptions[settingName][element.options[element.selectedIndex].value];
                 setCurrentChoice(options, options);
