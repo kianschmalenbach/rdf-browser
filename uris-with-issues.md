@@ -88,3 +88,7 @@ Invalid URI?
 # https://www.dajobe.org/foaf.rdf#i
 
 Invalid URI?
+
+# https://sheetdb.io/
+
+Is a website...
