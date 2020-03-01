@@ -163,6 +163,21 @@ function getFileTypes() {
     return fileTypes;
 }
 
+function getFormatFor(fileType) {
+    switch (fileType) {
+        case "rdf":
+            return "application/rdf+xml";
+        case "jsonld":
+            return "application/ld+json";
+        case "ttl":
+        case "nt":
+        case "nq":
+            return "text/turtle";
+        default:
+            return false;
+    }
+}
+
 /**
  * Change the accept header for all HTTP requests to include the content types specified in formats
  * with higher priority than the remaining content types
@@ -199,12 +214,15 @@ function modifyResponseHeader(details) {
             return {};
     }
     const ct = details.responseHeaders.find(h => h.name.toLowerCase() === "content-type");
-    const format = ct ? getFormats().find(f => ct.value.includes(f)) : false;
+    let format = ct ? getFormats().find(f => ct.value.includes(f)) : false;
     let fileType = new URL(details.url).pathname.split(".");
     if (fileType !== undefined && fileType.length >= 1)
         fileType = fileType[fileType.length - 1];
     let encoding = ct ? ct.value.split("charset=") : false;
     if ((!format && !getFileTypes().includes(fileType)) || !encoding) {
+        return {};
+    }
+    if (!format && !(format = getFormatFor(fileType))) {
         return {};
     }
     encoding = (encoding.length < 2 ? null : encoding[1]);
