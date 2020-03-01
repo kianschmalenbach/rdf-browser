@@ -1,9 +1,9 @@
 # RDF Browser
 RDF Browser is a Firefox Add-on that requests RDF files and renders RDF files as Turtle documents with clickable links.
 
-| Current version: | 1.0.2 |
+| Current version: | 1.0.3 |
 | --- | --- |
-| Release date: | Dec 11, 2019 |
+| Release date: | Mar 1, 2020 |
 
 The Add-on is released and maintained by the [Chair of Technical Information Systems](https://www.ti.rw.fau.de) at [Friedrich-Alexander-University Erlangen-Nürnberg](https://www.fau.de).
 
@@ -46,6 +46,11 @@ $ npm run browserify
 ```
 
 ## Changelog
+### Version 1.0.3
+- Clickable blank nodes
+- Consideration of file type in addition to content-type
+- Improved syntax highlighting
+
 ### Version 1.0.2
 - Syntax highlighting for Turtle output
 - Options page to customize Add-on behavior and output style
@@ -59,3 +64,9 @@ $ npm run browserify
 ## Known issues
 - The Add-on does not make use of the browser cache for storing RDF files.
 - The rendering does not stop when the browser is navigated to a different page.
+
+## Credits
+The Add-on uses the following libraries for parsing the displayed RDF files:
+- [@rdfjs/parser-jsonld](https://github.com/rdfjs-base/parser-jsonld) (JSON-LD)
+- [@rdfjs/parser-n3](https://github.com/rdfjs-base/parser-n3) (N3)
+- [rdfxml-streaming-parser](https://github.com/rdfjs/rdfxml-streaming-parser.js) (RDF/XML)
