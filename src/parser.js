@@ -18,9 +18,11 @@ function obtainTriplestore(inputStream, decoder, format) {
             }
         });
         inputStream.ondata = event => {
-            const data = decoder.decode(event.data, {stream: true});
-            if (typeof data === "string")
+            let data = decoder.decode(event.data, {stream: true});
+            if (typeof data === "string") {
+                data = data.replace("<>", "<#>"); //workaround for empty URIs
                 transformStream.push(data);
+            }
         };
         inputStream.onstop = () => {
             transformStream.push(null);
