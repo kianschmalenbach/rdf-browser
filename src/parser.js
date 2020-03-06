@@ -26,7 +26,7 @@ function obtainTriplestore(inputStream, decoder, format) {
                 else {
                     let data = decoder.decode(value, {stream: true});
                     if (typeof data === "string") {
-                        data = data.replace("<>", "<#>"); //workaround for empty URIs
+                        data = data.replace(new RegExp("<>", 'g'), "<#>"); //workaround for empty URIs
                         transformStream.push(data);
                     }
                     inputStream.read().then(processText);
