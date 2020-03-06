@@ -247,7 +247,8 @@ function rewritePayload(details) {
     })
         .catch(e => {
             const output = "<h1>RDF-Browser: Error</h1><p>The RDF-document could not be displayed properly.<br>" +
-                "The reason is displayed below:</p><p>" + e.toString() + "</p>";
+                "The reason is displayed below:</p><p>" + e.toString() + "</p><br>" +
+                "<p><i>Press Ctrl+U to view the page sources.</i></p>";
             filter.write(encoder.encode(output));
         })
         .finally(() => {
