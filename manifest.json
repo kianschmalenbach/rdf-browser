@@ -4,7 +4,7 @@
     "author": "Kian Schmalenbach",
     "description": "Request RDF files and render RDF files as Turtle documents with clickable links",
     "homepage_url": "https://github.com/kianschmalenbach/rdf-browser",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "icons": {
         "48": "img/icon48.png",
         "96": "img/icon96.png",
