@@ -27193,6 +27193,8 @@ class Triplestore {
     }
 
     getLiteral(value, datatype, language = null) {
+        if (datatype === "http://www.w3.org/2001/XMLSchema#decimal")
+            value = Number(value).toLocaleString("en-US");
         const literal = new Literal(value, datatype, this, language);
         this.literals.push(literal);
         return literal;
