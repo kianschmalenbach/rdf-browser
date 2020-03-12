@@ -125,7 +125,8 @@ const defaultOptions = {
             literal_textDecorationColor: "#656465"
         },
         selected: "light"
-    }
+    },
+    blacklist: ""
 };
 let options = {};
 
@@ -176,6 +177,59 @@ function getFormatFor(fileType) {
     }
 }
 
+function onBlacklist(url, req) {
+    const blacklist = options.blacklist.split("\n");
+    for (const b in blacklist) {
+        if (blacklist[b].startsWith('#'))
+            continue;
+        let entry, host = null, urlString;
+        const hostArr = blacklist[b].split("://");
+        if (hostArr.length >= 1 && hostArr[1].startsWith("*.")) {
+            urlString = hostArr[0] + "://" + hostArr[1].substring(2);
+            host = (hostArr[1].split("/"))[0];
+        } else
+            urlString = blacklist[b];
+        try {
+            entry = new URL(urlString);
+            if (host === null)
+                host = entry.host;
+        } catch (e) {
+            if (req)
+                console.warn("Invalid URI in RDF-Browser blacklist: " + blacklist[b]);
+            continue;
+        }
+        const hostMatch = compareList(host, url.host, ".", true);
+        let entryPath = entry.pathname.substring(1);
+        if (entryPath.endsWith('/'))
+            entryPath = entryPath.substring(0, entryPath.length - 1);
+        let urlPath = url.pathname.substring(1);
+        if (urlPath.endsWith('/'))
+            urlPath = urlPath.substring(0, urlPath.length - 1);
+        const pathMatch = compareList(entryPath, urlPath, "/", false);
+        if (hostMatch && pathMatch)
+            return true;
+    }
+    return false;
+
+    function compareList(a, b, token, backwards) {
+        const as = a.split(token);
+        const bs = b.split(token);
+        let aIndex = backwards ? as.length - 1 : 0;
+        let bIndex = backwards ? bs.length - 1 : 0;
+        if (as.length > bs.length)
+            return false;
+        for (let i = 0; i < as.length; ++i) {
+            if (aIndex === (backwards ? 0 : as.length - 1) && as[aIndex] === "*")
+                return true;
+            if (bs[bIndex] !== as[aIndex])
+                return false;
+            aIndex += (backwards ? -1 : 1);
+            bIndex += (backwards ? -1 : 1);
+        }
+        return bIndex === (backwards ? -1 : bs.length);
+    }
+}
+
 /**
  * Change the accept header for all HTTP requests to include the content types specified in formats
  * with higher priority than the remaining content types
@@ -187,6 +241,9 @@ function changeHeader(details) {
         return {};
     const formats = getFormats();
     if (formats.length === 0)
+        return {};
+    const url = new URL(details.url);
+    if (onBlacklist(url, true))
         return {};
     for (let header of details.requestHeaders) {
         if (header.name.toLowerCase() === "accept") {
@@ -208,7 +265,7 @@ function changeHeader(details) {
  * @returns {{}|{responseHeaders: {name: string, value: string}[]}} The modified response header
  */
 function rewritePayload(details) {
-    if (details.statusCode !== 200 || details.type !== "main_frame")
+    if (details.statusCode !== 200 || details.type !== "main_frame" || onBlacklist(new URL(details.url), false))
         return {};
     const cl = details.responseHeaders.find(h => h.name.toLowerCase() === "content-length");
     if (cl) {

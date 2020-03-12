@@ -1,6 +1,26 @@
 let defaultOptions;
 let currentOptions;
 
+function initCollapsible() {
+    const collapsible = document.querySelectorAll("h1");
+    for (let i = 0; i < collapsible.length; ++i)
+        collapsible[i].addEventListener("click", e => expand(e.target));
+}
+
+function expand(element) {
+    const elements = document.querySelectorAll("h1");
+    for (let i = 0; i < elements.length; ++i) {
+        const el = elements[i];
+        if (el !== element) {
+            el.nextElementSibling.setAttribute("hidden", "true");
+            el.setAttribute("class", "collapsed");
+        } else {
+            el.nextElementSibling.removeAttribute("hidden");
+            el.setAttribute("class", "expanded");
+        }
+    }
+}
+
 function setCurrentChoice(input = currentOptions, scope = defaultOptions) {
     if (scope === defaultOptions)
         currentOptions = input;
@@ -135,4 +155,5 @@ document.querySelector("form").addEventListener("submit", saveOptions);
 document.querySelector("form").addEventListener("reset", restoreOptions);
 document.getElementById("restore").addEventListener("click", restoreDefault);
 document.getElementById("styleTemplate").addEventListener("change", toggleStyleSelection);
+initCollapsible();
 restoreOptions();
