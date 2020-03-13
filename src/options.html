@@ -24,6 +24,23 @@
             padding: 1px;
         }
 
+        .collapsed:hover {
+            background-color: #DDDDDD;
+            cursor: pointer;
+        }
+
+        .collapsed:after {
+            content: "\002B";
+            float: right;
+            padding-right: 5px;
+        }
+
+        .expanded:after {
+            content: "\2212";
+            float: right;
+            padding-right: 5px;
+        }
+
         form {
             margin-bottom: 10px;
         }
@@ -91,16 +108,15 @@
             white-space: nowrap;
         }
 
-        .hint {
-            text-align: center;
-            font-style: italic;
+        textarea {
+            height: 25em;
+            resize: none;
         }
     </style>
 </head>
 <body>
-<p class="hint">More settings will be added in a future release.</p>
 <form>
-    <h1>General Settings</h1>
+    <h1 class="expanded">General Settings</h1>
     <table>
         <tbody>
         <tr>
@@ -133,8 +149,8 @@
         </tr>
         </tbody>
     </table>
-    <h1>Style Settings</h1>
-    <table>
+    <h1 class="collapsed">Style Settings</h1>
+    <table hidden="hidden">
         <tbody>
         <tr>
             <td><label for="styleTemplate">Style Template</label></td>
@@ -226,6 +242,30 @@
                 </span>
             </td>
         </tr>
+        </tbody>
+    </table>
+    <h1 class="collapsed">Blacklist</h1>
+    <table hidden="hidden">
+        <tbody>
+        <tr>
+            <td>
+                <label for="blacklist">
+                    The Add-on will not kick in on the following pages (1 per line, use * for wildcard):
+                </label>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <textarea id="blacklist" placeholder="e.g. http://*.example.org/foo/*"></textarea>
+            </td>
+        </tr>
+        <tr>
+            <td>To temporarily disable one entry, use a leading '#' (e.g. # http://*.example.org/foo/*).</td>
+        </tr>
+        </tbody>
+    </table>
+    <table>
+        <tbody>
         <tr>
             <td class="list" colspan="2">
                 <input id="restore" type="button" value="Restore Default">
