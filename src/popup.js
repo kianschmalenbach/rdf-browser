@@ -94,7 +94,7 @@ function submitListEntry(list) {
     browser.storage.sync.set({
         options: options
     }).then(() => {
-        browser.tabs.reload(tab.id);
+        browser.tabs.update(tab.id, {url: baseURL});
         window.close();
     });
 }
@@ -115,6 +115,9 @@ browser.storage.sync.get("options").then(result => {
     browser.tabs.query({active: true, currentWindow: true})
         .then(tabs => {
             tab = tabs[0];
-            initialize(new URL(tab.url))
+            let url = tab.url;
+            if(url.startsWith("moz"))
+                url = (tab.url.split('url=')[1]).split('&')[0];
+            initialize(new URL(decodeURIComponent(url)))
         });
 });

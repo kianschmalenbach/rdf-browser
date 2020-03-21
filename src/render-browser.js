@@ -27006,11 +27006,13 @@ module.exports = {obtainTriplestore};
 
 },{"./triplestore":123,"@rdfjs/parser-jsonld":40,"@rdfjs/parser-n3":64,"rdfxml-streaming-parser":101,"stream":28}],122:[function(require,module,exports){
 const templatePath = "src/template.html";
+const scriptPath = "src/style.js";
 const parser = require("./parser");
 let options = {};
 
 async function render(stream, decoder, format) {
-    const template = await getTemplate();
+    let template = await getTemplate();
+    template = await injectScript(template);
     const triplestore = await parser.obtainTriplestore(stream, decoder, format);
     return createDocument(template, triplestore);
 }
@@ -27027,17 +27029,35 @@ function getTemplate() {
     });
 }
 
+function injectScript(template) {
+    return new Promise(resolve => {
+        fetch(scriptPath)
+            .then(file => {
+                return file.text();
+            })
+            .then(script => {
+                const array = template.split("<!-- script -->");
+                resolve(array[0] + script + array[1]);
+            })
+    });
+}
+
 function createDocument(html, store) {
     return new Promise(resolve => {
         const document = new DOMParser().parseFromString(html, "text/html");
+        document.getElementById("title").remove();
+        document.getElementById("content-script").remove();
+        document.getElementById("script").removeAttribute("src");
+        document.getElementById("hint").remove();
+        document.getElementById("status").remove();
         const scriptElement = document.getElementById("script");
         const scriptString = JSON.stringify(options.allStyleTemplate[options.allStyleTemplate.selected]);
-        const script = "const style = " + scriptString + ";\n";
+        const script = "\nconst style = " + scriptString + ";\n";
         scriptElement.insertBefore(document.createTextNode(script), scriptElement.firstChild);
         const body = document.body;
         while (body.firstChild)
             body.removeChild(body.firstChild);
-        const prefixes = document.createElement("p");
+        const prefixes = document.createElement("div");
         body.appendChild(prefixes);
         prefixes.setAttribute("class", "prefixes");
         store.prefixes.forEach(prefix => {
@@ -27046,7 +27066,7 @@ function createDocument(html, store) {
             prefixes.appendChild(prefix.html);
             prefixes.appendChild(document.createElement("br"));
         });
-        const triples = document.createElement("p");
+        const triples = document.createElement("div");
         triples.setAttribute("class", "triples");
         body.appendChild(triples);
         let subjectIndex = 0;
