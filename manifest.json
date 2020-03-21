@@ -1,37 +1,45 @@
 {
-    "manifest_version": 2,
-    "name": "RDF Browser",
-    "author": "Kian Schmalenbach",
-    "description": "Request RDF files and render RDF files as Turtle documents with clickable links",
-    "homepage_url": "https://github.com/kianschmalenbach/rdf-browser",
-    "version": "1.0.4",
-    "icons": {
-        "48": "img/icon48.png",
-        "96": "img/icon96.png",
-        "128": "img/icon128.png"
-    },
-    "browser_specific_settings": {
-        "gecko": {
-            "id": "rdf-browser@ti.rw.fau.de",
-            "strict_min_version": "67.0"
-        }
-    },
-    "background": {
-        "scripts": [
-            "src/intercept.js"
-        ]
-    },
-    "options_ui": {
-        "page": "src/options.html"
-    },
-    "permissions": [
-        "storage",
-        "tabs",
-        "webRequest",
-        "webRequestBlocking",
-        "<all_urls>"
-    ],
-    "web_accessible_resources": [
-        "src/template.html"
+  "manifest_version": 2,
+  "name": "RDF Browser",
+  "author": "Kian Schmalenbach",
+  "description": "Request RDF files and render RDF files as Turtle documents with clickable links",
+  "homepage_url": "https://github.com/kianschmalenbach/rdf-browser",
+  "version": "1.0.4",
+  "icons": {
+    "32": "img/icon32.svg"
+  },
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "rdf-browser@ti.rw.fau.de",
+      "strict_min_version": "67.0"
+    }
+  },
+  "background": {
+    "scripts": [
+      "src/intercept.js",
+      "src/static.js"
     ]
+  },
+  "options_ui": {
+    "page": "src/options.html"
+  },
+  "page_action": {
+    "browser_style": true,
+    "default_icon": {
+      "32": "img/icon32.svg"
+    },
+    "default_title": "RDF Browser",
+    "default_popup": "src/popup.html"
+  },
+  "permissions": [
+    "storage",
+    "webRequest",
+    "webRequestBlocking",
+    "<all_urls>",
+    "tabs",
+    "webNavigation"
+  ],
+  "web_accessible_resources": [
+    "src/template.html"
+  ]
 }

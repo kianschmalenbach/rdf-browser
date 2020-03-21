@@ -112,6 +112,10 @@
             height: 25em;
             resize: none;
         }
+
+        .no-spacing, .no-spacing * {
+            padding-top: 0;
+        }
     </style>
 </head>
 <body>
@@ -261,6 +265,38 @@
         </tr>
         <tr>
             <td>To temporarily disable one entry, use a leading '#' (e.g. # http://*.example.org/foo/*).</td>
+        </tr>
+        <tr class="no-spacing">
+            <td>
+                <b>Attention:</b> Only the uppermost matching entry on the list is considered, and blacklist generally
+                "beats" whitelist.
+            </td>
+        </tr>
+        </tbody>
+    </table>
+    <h1 class="collapsed">Whitelist</h1>
+    <table hidden="hidden">
+        <tbody>
+        <tr>
+            <td>
+                <label for="whitelist">
+                    The Add-on will always kick in on the following pages (1 per line, use * for wildcard):
+                </label>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <textarea id="whitelist" placeholder="e.g. http://*.example.org/foo/*"></textarea>
+            </td>
+        </tr>
+        <tr>
+            <td>To temporarily disable one entry, use a leading '#' (e.g. # http://*.example.org/foo/*).</td>
+        </tr>
+        <tr class="no-spacing">
+            <td>
+                <b>Attention:</b> Only the uppermost matching entry on the list is considered, and blacklist generally
+                "beats" whitelist.
+            </td>
         </tr>
         </tbody>
     </table>

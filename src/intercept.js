@@ -128,7 +128,8 @@ const defaultOptions = {
         },
         selected: "light"
     },
-    blacklist: ""
+    blacklist: "",
+    whitelist: ""
 };
 let options = {};
 
@@ -179,59 +180,6 @@ function getFormatFor(fileType) {
     }
 }
 
-function onBlacklist(url, req) {
-    const blacklist = options.blacklist.split("\n");
-    for (const b in blacklist) {
-        if (blacklist[b].startsWith('#'))
-            continue;
-        let entry, host = null, urlString;
-        const hostArr = blacklist[b].split("://");
-        if (hostArr.length >= 1 && hostArr[1].startsWith("*.")) {
-            urlString = hostArr[0] + "://" + hostArr[1].substring(2);
-            host = (hostArr[1].split("/"))[0];
-        } else
-            urlString = blacklist[b];
-        try {
-            entry = new URL(urlString);
-            if (host === null)
-                host = entry.host;
-        } catch (e) {
-            if (req)
-                console.warn("Invalid URI in RDF-Browser blacklist: " + blacklist[b]);
-            continue;
-        }
-        const hostMatch = compareList(host, url.host, ".", true);
-        let entryPath = entry.pathname.substring(1);
-        if (entryPath.endsWith('/'))
-            entryPath = entryPath.substring(0, entryPath.length - 1);
-        let urlPath = url.pathname.substring(1);
-        if (urlPath.endsWith('/'))
-            urlPath = urlPath.substring(0, urlPath.length - 1);
-        const pathMatch = compareList(entryPath, urlPath, "/", false);
-        if (hostMatch && pathMatch)
-            return true;
-    }
-    return false;
-
-    function compareList(a, b, token, backwards) {
-        const as = a.split(token);
-        const bs = b.split(token);
-        let aIndex = backwards ? as.length - 1 : 0;
-        let bIndex = backwards ? bs.length - 1 : 0;
-        if (as.length > bs.length)
-            return false;
-        for (let i = 0; i < as.length; ++i) {
-            if (aIndex === (backwards ? 0 : as.length - 1) && as[aIndex] === "*")
-                return true;
-            if (bs[bIndex] !== as[aIndex])
-                return false;
-            aIndex += (backwards ? -1 : 1);
-            bIndex += (backwards ? -1 : 1);
-        }
-        return bIndex === (backwards ? -1 : bs.length);
-    }
-}
-
 /**
  * Change the accept header for all HTTP requests to include the content types specified in formats
  * with higher priority than the remaining content types
@@ -245,7 +193,7 @@ function modifyRequestHeader(details) {
     if (formats.length === 0)
         return {};
     const url = new URL(details.url);
-    if (onBlacklist(url, true))
+    if (onList("blacklist", url, true))
         return {};
     for (let header of details.requestHeaders) {
         if (header.name.toLowerCase() === "accept") {
@@ -262,7 +210,9 @@ function modifyRequestHeader(details) {
  * @returns {{}|{responseHeaders: {name: string, value: string}[]}} The modified response header
  */
 function modifyResponseHeader(details) {
-    if (details.statusCode !== 200 || details.type !== "main_frame" || onBlacklist(new URL(details.url), false))
+    if (details.statusCode >= 400 || details.type !== "main_frame")
+        return {};
+    if (onList("blacklist", new URL(details.url)))
         return {};
     const cl = details.responseHeaders.find(h => h.name.toLowerCase() === "content-length");
     if (cl) {
@@ -270,19 +220,21 @@ function modifyResponseHeader(details) {
         if (length === undefined || length > options.maxsize)
             return {};
     }
-    const ct = details.responseHeaders.find(h => h.name.toLowerCase() === "content-type");
-    let format = ct ? getFormats().find(f => ct.value.includes(f)) : false;
+    const onWhitelist = onList("whitelist", new URL(details.url));
+    const contentType = details.responseHeaders.find(h => h.name.toLowerCase() === "content-type");
+    let format = contentType ? getFormats().find(f => contentType.value.includes(f)) : false;
     let fileType = new URL(details.url).pathname.split(".");
-    if (fileType !== undefined && fileType.length >= 1)
-        fileType = fileType[fileType.length - 1];
-    let encoding = ct ? ct.value.split("charset=") : false;
-    if ((!format && !getFileTypes().includes(fileType)) || !encoding) {
+    fileType = (fileType !== undefined && fileType.length >= 1) ? fileType[fileType.length - 1] : false;
+    let encoding = contentType ? contentType.value.split("charset=") : false;
+    encoding = (encoding && encoding.length >= 2) ? encoding[1] : false;
+    if (!format && !getFileTypes().includes(fileType) && !onWhitelist)
         return {};
-    }
     if (!format && !(format = getFormatFor(fileType))) {
+        if (onWhitelist)
+            console.warn(details.url +
+                " is on the RDF Browser Whitelist, but the page content was not identified as RDF.");
         return {};
     }
-    encoding = (encoding.length < 2 ? null : encoding[1]);
     if (!encoding) {
         console.warn("The HTTP response does not include encoding information. Encoding in utf-8 is assumed.");
         encoding = "utf-8";
@@ -291,6 +243,7 @@ function modifyResponseHeader(details) {
         responseHeaders: [
             {name: "Content-Type", value: "text/html; charset=utf-8"},
             {name: "Cache-Control", value: "no-cache, no-store, must-revalidate"},
+            {name: "Content-Length", value: cl ? cl.value : "0"},
             {name: "Pragma", value: "no-cache"},
             {name: "Expires", value: "0"}
         ],
@@ -334,8 +287,12 @@ function addListeners() {
     initializeCommonPrefixes();
     browser.webRequest.onBeforeSendHeaders.addListener(modifyRequestHeader, filter, ["blocking", "requestHeaders"]);
     browser.webRequest.onHeadersReceived.addListener(modifyResponseHeader, filter, ["blocking", "responseHeaders"]);
+    browser.webNavigation.onCommitted.addListener(details => {
+        browser.pageAction.show(details.tabId);
+    });
     browser.runtime.onMessage.addListener((message, sender, sendResponse) => {
-        switch (message) {
+        let msg = Array.isArray(message) ? message[0] : message;
+        switch (msg) {
             case "acceptHeader":
                 sendResponse(getNewHeader());
                 break;
@@ -344,6 +301,9 @@ function addListeners() {
                 break;
             case "defaultOptions":
                 sendResponse(defaultOptions);
+                break;
+            case "listStatus":
+                sendResponse(getListStatus(message[1], message[2]));
                 break;
         }
     });
