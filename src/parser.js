@@ -10,7 +10,7 @@ function obtainTriplestore(inputStream, decoder, format) {
         const parser = getParser(format);
         if (!parser)
             reject("Unsupported format");
-        const store = ts.getTriplestore();
+        const store = ts.getTriplestore(false);
         const transformStream = new Transform({
             transform(chunk, encoding, callback) {
                 this.push(chunk);

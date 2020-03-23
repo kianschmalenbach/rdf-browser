@@ -2,6 +2,8 @@ const browser = window.browser || window.chrome;
 const filter = {
     urls: ["<all_urls>"]
 };
+const commonPrefixSource = "https://prefix.cc/popular/all.file.json";
+const commonPrefixes = [];
 const defaultOptions = {
     json: true,
     n4: true,
@@ -195,12 +197,7 @@ function changeHeader(details) {
         return {};
     for (let header of details.requestHeaders) {
         if (header.name.toLowerCase() === "accept") {
-            let newHeader = "";
-            for (const f of formats)
-                newHeader += f + ",";
-            newHeader = newHeader.substring(0, newHeader.length - 1);
-            newHeader += ";q=0.95,";
-            header.value = newHeader + header.value;
+            header.value = getNewHeader() + "," + header.value;
             break;
         }
     }
@@ -275,9 +272,35 @@ function rewritePayload(details) {
 }
 
 /**
- * Add the listeners for modifying HTTP request and response headers as well as the response payload
+ * Initialize the list of common prefixes, obtained from <commonPrefixSource>
+ */
+function initializeCommonPrefixes() {
+    fetch(commonPrefixSource).then(response => {
+        response.json().then(doc => {
+            for (const prefix in doc)
+                commonPrefixes.push([prefix, doc[prefix]]);
+        })
+    });
+}
+
+/**
+ * Return the modified accept header as a string
+ * @returns {string} The modified accept header
+ */
+function getNewHeader() {
+    let newHeader = "";
+    for (const f of getFormats())
+        newHeader += f + ",";
+    newHeader = newHeader.substring(0, newHeader.length - 1);
+    newHeader += ";q=0.95";
+    return newHeader;
+}
+
+/**
+ * Initialize the list of common prefixes and add the listeners for modifying HTTP request and response headers as well as the response payload
  */
 function addListeners() {
+    initializeCommonPrefixes();
     browser.webRequest.onBeforeSendHeaders.addListener(changeHeader, filter, ["blocking", "requestHeaders"]);
     browser.webRequest.onHeadersReceived.addListener(rewritePayload, filter, ["blocking", "responseHeaders"]);
     browser.webNavigation.onCommitted.addListener(details => {
@@ -286,6 +309,12 @@ function addListeners() {
     browser.runtime.onMessage.addListener((message, sender, sendResponse) => {
         let msg = Array.isArray(message) ? message[0] : message;
         switch (msg) {
+            case "acceptHeader":
+                sendResponse(getNewHeader());
+                break;
+            case "commonPrefixes":
+                sendResponse(commonPrefixes);
+                break;
             case "defaultOptions":
                 sendResponse(defaultOptions);
                 break;
