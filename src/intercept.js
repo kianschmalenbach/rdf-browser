@@ -17,6 +17,7 @@ const defaultOptions = {
     ttlext: false,
     ntext: false,
     nqext: false,
+    contentScript: false,
     maxsize: 10485760,
     allStyleTemplate: {
         none: {
@@ -132,7 +133,6 @@ const defaultOptions = {
     whitelist: ""
 };
 let options = {};
-const contentScript = false; //TODO
 
 function getFormats() {
     const formats = [];
@@ -182,12 +182,12 @@ function getFormatFor(fileType) {
 }
 
 /**
- * Change the accept header for all HTTP requests to include the content types specified in formats
+ * Modify the accept header for all HTTP requests to include the content types specified in formats
  * with higher priority than the remaining content types
  * @param details The details of the HTTP request
  * @returns {{requestHeaders: *}} The modified request header
  */
-function changeHeader(details) {
+function modifyRequestHeader(details) {
     if (options.xhr && details.type !== "main_frame")
         return {};
     const formats = getFormats();
@@ -206,11 +206,11 @@ function changeHeader(details) {
 }
 
 /**
- * Rewrite the payload of an HTTP response if format of content-type matches any in formats
+ * Modify the header of an HTTP response if format of content-type matches any in formats
  * @param details The details of the HTTP response
  * @returns {{}|{responseHeaders: {name: string, value: string}[]}} The modified response header
  */
-function rewritePayload(details) {
+function modifyResponseHeader(details) {
     if (details.statusCode >= 400 || details.type !== "main_frame")
         return {};
     if (onList("blacklist", new URL(details.url)))
@@ -236,11 +236,35 @@ function rewritePayload(details) {
                 " is on the RDF Browser Whitelist, but the page content was not identified as RDF.");
         return {};
     }
-    const filter = browser.webRequest.filterResponseData(details.requestId);
     if (!encoding) {
         console.warn("The HTTP response does not include encoding information. Encoding in utf-8 is assumed.");
         encoding = "utf-8";
     }
+    return rewriteResponse(cl, details, encoding, format);
+}
+
+/**
+ * Rewrite the HTTP response (background script) or redirect to the html template (content script)
+ */
+function rewriteResponse(cl, details, encoding, format) {
+    const responseHeaders = [
+        {name: "Content-Type", value: "text/html; charset=utf-8"},
+        {name: "Cache-Control", value: "no-cache, no-store, must-revalidate"},
+        {name: "Content-Length", value: cl ? cl.value : "0"},
+        {name: "Pragma", value: "no-cache"},
+        {name: "Expires", value: "0"}
+    ];
+    if (options.contentScript) {
+        return {
+            responseHeaders: responseHeaders,
+            redirectUrl: browser.runtime.getURL("src/template.html"
+                + "?url=" + encodeURIComponent(details.url)
+                + "&encoding=" + encodeURIComponent(encoding)
+                + "&format=" + encodeURIComponent(format)
+            )
+        };
+    }
+    const filter = browser.webRequest.filterResponseData(details.requestId);
     let decoder;
     try {
         decoder = new TextDecoder(encoding);
@@ -249,7 +273,7 @@ function rewritePayload(details) {
         return {};
     }
     const encoder = new TextEncoder("utf-8");
-    renderer.render(filter, decoder, format, contentScript).then(output => {
+    renderer.render(filter, decoder, format, options.contentScript).then(output => {
         filter.write(encoder.encode(output));
     })
         .catch(e => {
@@ -262,13 +286,7 @@ function rewritePayload(details) {
             filter.close();
         });
     return {
-        responseHeaders: [
-            {name: "Content-Type", value: "text/html; charset=utf-8"},
-            {name: "Cache-Control", value: "no-cache, no-store, must-revalidate"},
-            {name: "Content-Length", value: cl ? cl.value : "0"},
-            {name: "Pragma", value: "no-cache"},
-            {name: "Expires", value: "0"}
-        ]
+        responseHeaders: responseHeaders
     };
 }
 
@@ -298,12 +316,12 @@ function getNewHeader() {
 }
 
 /**
- * Initialize the list of common prefixes and add the listeners for modifying HTTP request and response headers as well as the response payload
+ * Initialize the list of common prefixes and add the listeners for modifying HTTP request and response headers
  */
 function addListeners() {
     initializeCommonPrefixes();
-    browser.webRequest.onBeforeSendHeaders.addListener(changeHeader, filter, ["blocking", "requestHeaders"]);
-    browser.webRequest.onHeadersReceived.addListener(rewritePayload, filter, ["blocking", "responseHeaders"]);
+    browser.webRequest.onBeforeSendHeaders.addListener(modifyRequestHeader, filter, ["blocking", "requestHeaders"]);
+    browser.webRequest.onHeadersReceived.addListener(modifyResponseHeader, filter, ["blocking", "responseHeaders"]);
     browser.webNavigation.onCommitted.addListener(details => {
         browser.pageAction.show(details.tabId);
     });
