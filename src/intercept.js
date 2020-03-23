@@ -132,7 +132,7 @@ const defaultOptions = {
     whitelist: ""
 };
 let options = {};
-const contentScript = true;
+const contentScript = true; //TODO
 
 function getFormats() {
     const formats = [];
@@ -182,7 +182,7 @@ function getFormatFor(fileType) {
 }
 
 /**
- * Change the accept header for all HTTP requests to include the content types specified in formats
+ * Modify the accept header for all HTTP requests to include the content types specified in formats
  * with higher priority than the remaining content types
  * @param details The details of the HTTP request
  * @returns {{requestHeaders: *}} The modified request header
@@ -240,19 +240,53 @@ function modifyResponseHeader(details) {
         console.warn("The HTTP response does not include encoding information. Encoding in utf-8 is assumed.");
         encoding = "utf-8";
     }
+    return rewriteResponse(cl, details, encoding, format);
+}
+
+/**
+ * Rewrite the HTTP response (background script) or redirect to the html template (content script)
+ */
+function rewriteResponse(cl, details, encoding, format) {
+    const responseHeaders = [
+        {name: "Content-Type", value: "text/html; charset=utf-8"},
+        {name: "Cache-Control", value: "no-cache, no-store, must-revalidate"},
+        {name: "Content-Length", value: cl ? cl.value : "0"},
+        {name: "Pragma", value: "no-cache"},
+        {name: "Expires", value: "0"}
+    ];
+    if (contentScript) {
+        return {
+            responseHeaders: responseHeaders,
+            redirectUrl: browser.runtime.getURL("src/template.html"
+                + "?url=" + encodeURIComponent(details.url)
+                + "&encoding=" + encodeURIComponent(encoding)
+                + "&format=" + encodeURIComponent(format)
+            )
+        };
+    }
+    const filter = browser.webRequest.filterResponseData(details.requestId);
+    let decoder;
+    try {
+        decoder = new TextDecoder(encoding);
+    } catch (e) {
+        console.error("The RDF document is encoded in an unsupported format and can hence not be displayed.");
+        return {};
+    }
+    const encoder = new TextEncoder("utf-8");
+    renderer.render(filter, decoder, format, contentScript).then(output => {
+        filter.write(encoder.encode(output));
+    })
+        .catch(e => {
+            const output = "<h1>RDF-Browser: Error</h1><p>The RDF-document could not be displayed properly.<br>" +
+                "The reason is displayed below:</p><p>" + e.toString() + "</p><br>" +
+                "<p><i>Press Ctrl+U to view the page sources.</i></p>";
+            filter.write(encoder.encode(output));
+        })
+        .finally(() => {
+            filter.close();
+        });
     return {
-        responseHeaders: [
-            {name: "Content-Type", value: "text/html; charset=utf-8"},
-            {name: "Cache-Control", value: "no-cache, no-store, must-revalidate"},
-            {name: "Content-Length", value: cl ? cl.value : "0"},
-            {name: "Pragma", value: "no-cache"},
-            {name: "Expires", value: "0"}
-        ],
-        redirectUrl: browser.runtime.getURL("src/template.html"
-            + "?url=" + encodeURIComponent(details.url)
-            + "&encoding=" + encodeURIComponent(encoding)
-            + "&format=" + encodeURIComponent(format)
-        )
+        responseHeaders: responseHeaders
     };
 }
 
