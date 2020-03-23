@@ -27505,12 +27505,18 @@ class Prefix extends Resource {
     }
 }
 
-function getTriplestore() {
-    return new Promise(resolve => {
-        browser.runtime.sendMessage("commonPrefixes").then(commonPrefixes => {
+function getTriplestore(contentScript = true) {
+    if (contentScript) {
+        return new Promise(resolve => {
+            browser.runtime.sendMessage("commonPrefixes").then(commonPrefixes => {
+                resolve(new Triplestore(commonPrefixes));
+            });
+        })
+    } else {
+        return new Promise(resolve => {
             resolve(new Triplestore(commonPrefixes));
         });
-    })
+    }
 }
 
 module.exports = {getTriplestore, Triplestore};
