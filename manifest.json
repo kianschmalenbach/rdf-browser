@@ -39,5 +39,8 @@
     "<all_urls>",
     "tabs",
     "webNavigation"
+  ],
+  "web_accessible_resources": [
+    "src/template.html"
   ]
 }
