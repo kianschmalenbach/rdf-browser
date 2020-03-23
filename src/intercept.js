@@ -132,6 +132,7 @@ const defaultOptions = {
     whitelist: ""
 };
 let options = {};
+const contentScript = true;
 
 function getFormats() {
     const formats = [];

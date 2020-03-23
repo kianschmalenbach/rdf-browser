@@ -27033,6 +27033,8 @@ module.exports = {obtainTriplestore};
 
 },{"./triplestore":123,"@rdfjs/parser-jsonld":40,"@rdfjs/parser-n3":64,"rdfxml-streaming-parser":101,"stream":28}],122:[function(require,module,exports){
 const browser = window.browser || window.chrome;
+const templatePath = "src/template.html";
+const scriptPath = "src/style.js";
 const parser = require("./parser");
 
 function getAndRewritePayload() {
@@ -27049,7 +27051,7 @@ function getAndRewritePayload() {
                 })
             });
             fetch(request).then(response => response.body).then(body => {
-                render(body.getReader(), new TextDecoder(encoding), format).then(() => {
+                render(body.getReader(), new TextDecoder(encoding), format, true).then(() => {
                     resolve();
                 });
             });
@@ -27057,16 +27059,65 @@ function getAndRewritePayload() {
     });
 }
 
-async function render(stream, decoder, format) {
-    const triplestore = await parser.obtainTriplestore(stream, decoder, format, true);
-    return createDocument(triplestore);
+async function render(stream, decoder, format, contentScript) {
+    if (contentScript) {
+        const triplestore = await parser.obtainTriplestore(stream, decoder, format, true);
+        return fillDocument(document, triplestore);
+    } else {
+        let template = await getTemplate();
+        template = await injectScript(template);
+        const triplestore = await parser.obtainTriplestore(stream, decoder, format, false);
+        return createDocument(template, triplestore);
+    }
 }
 
-async function createDocument(store) {
+function getTemplate() {
+    return new Promise(resolve => {
+        fetch(templatePath)
+            .then(file => {
+                return file.text();
+            })
+            .then(text => {
+                resolve(text);
+            })
+    });
+}
+
+function injectScript(template) {
+    return new Promise(resolve => {
+        fetch(scriptPath)
+            .then(file => {
+                return file.text();
+            })
+            .then(script => {
+                const array = template.split("<!-- script -->");
+                resolve(array[0] + script + array[1]);
+            })
+    });
+}
+
+function createDocument(html, store) {
+    return new Promise(resolve => {
+        const document = new DOMParser().parseFromString(html, "text/html");
+        document.getElementById("title").remove();
+        document.getElementById("content-script").remove();
+        document.getElementById("script").removeAttribute("src");
+        document.getElementById("hint").remove();
+        document.getElementById("status").remove();
+        const scriptElement = document.getElementById("script");
+        const scriptString = JSON.stringify(options.allStyleTemplate[options.allStyleTemplate.selected]);
+        const script = "\nconst style = " + scriptString + ";\n";
+        scriptElement.insertBefore(document.createTextNode(script), scriptElement.firstChild);
+        fillDocument(document, store);
+        resolve(new XMLSerializer().serializeToString(document));
+    });
+}
+
+async function fillDocument(document, store) {
     const body = document.body;
     while (body.firstChild)
         body.removeChild(body.firstChild);
-    const prefixes = document.createElement("p");
+    const prefixes = document.createElement("div");
     body.appendChild(prefixes);
     prefixes.setAttribute("class", "prefixes");
     store.prefixes.forEach(prefix => {
@@ -27075,7 +27126,7 @@ async function createDocument(store) {
         prefixes.appendChild(prefix.html);
         prefixes.appendChild(document.createElement("br"));
     });
-    const triples = document.createElement("p");
+    const triples = document.createElement("div");
     triples.setAttribute("class", "triples");
     body.appendChild(triples);
     let subjectIndex = 0;
@@ -27156,7 +27207,10 @@ function writeTriple(store, subjectIndex) {
     }
 }
 
-document.body.onloaddone = getAndRewritePayload();
+if (document.body.id === "template")
+    document.body.onloaddone = getAndRewritePayload();
+
+module.exports.render = render;
 
 },{"./parser":121}],123:[function(require,module,exports){
 const browser = window.browser || window.chrome;
