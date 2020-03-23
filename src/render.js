@@ -5,7 +5,7 @@ function getAndRewritePayload() {
     return new Promise(resolve => {
         const params = new URL(location.href).searchParams;
         const url = params.get("url");
-        document.getElementById("title").innerText = url;
+        document.getElementById("title").innerText = url; //TODO create title element
         const encoding = decodeURIComponent(params.get("encoding"));
         const format = decodeURIComponent(params.get("format"));
         browser.runtime.sendMessage("acceptHeader").then(header => {
