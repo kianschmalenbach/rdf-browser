@@ -8,13 +8,19 @@ function getStyleRule(stylesheet, styleClass) {
     return null;
 }
 
-browser.storage.sync.get("options").then(result => {
-    const style = result.options.allStyleTemplate[result.options.allStyleTemplate.selected];
+function setStyle() {
+    browser.storage.sync.get("options").then(function (result) {
+        const style = result.options.allStyleTemplate[result.options.allStyleTemplate.selected];
+        applyStyle(style);
+    });
+}
+
+function applyStyle(input) {
     const stylesheet = document.styleSheets[0];
-    for (const setting in style) {
-        let styleValue = style[setting];
+    for (const setting in input) {
+        let styleValue = input[setting];
         let array = setting.split("_");
-        if (typeof style[setting] === "boolean") {
+        if (typeof input[setting] === "boolean") {
             styleValue = styleValue ? array[array.length - 1] : "None";
             array.pop();
         }
@@ -29,4 +35,10 @@ browser.storage.sync.get("options").then(result => {
             styleValue += "pt";
         styleRule.style[styleSetting] = styleValue;
     }
-});
+}
+
+try {
+    applyStyle(style);
+} catch (e) {
+    setStyle();
+}
