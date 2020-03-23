@@ -24,7 +24,7 @@ function getAndRewritePayload() {
 }
 
 async function render(stream, decoder, format) {
-    const triplestore = await parser.obtainTriplestore(stream, decoder, format);
+    const triplestore = await parser.obtainTriplestore(stream, decoder, format, true);
     return createDocument(triplestore);
 }
 

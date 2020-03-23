@@ -26914,31 +26914,36 @@ const ts = require("./triplestore");
 const sortThreshold = 5000;
 let blankNodeOffset; //workaround for incremental blank node number assignment by parser
 
-function obtainTriplestore(inputStream, decoder, format) {
+function obtainTriplestore(inputStream, decoder, format, contentScript) {
     return new Promise((resolve, reject) => {
         const parser = getParser(format);
         if (!parser)
             reject("Unsupported format");
-        ts.getTriplestore().then(store => {
+        ts.getTriplestore(contentScript).then(store => {
             const transformStream = new Transform({
                 transform(chunk, encoding, callback) {
                     this.push(chunk);
                     callback();
                 }
             });
-            document.getElementById("status").innerText = "Status: fetching file...";
-            inputStream.read().then(function processText({done, value}) {
-                if (done)
-                    transformStream.push(null);
-                else {
-                    let data = decoder.decode(value, {stream: true});
-                    if (typeof data === "string") {
-                        data = data.replace(new RegExp("<>", 'g'), "<#>"); //workaround for empty URIs
-                        transformStream.push(data);
+            if (contentScript) {
+                document.getElementById("status").innerText = "Status: fetching file...";
+                inputStream.read().then(function processText({done, value}) {
+                    if (done)
+                        transformStream.push(null);
+                    else {
+                        handleInput(value, transformStream);
+                        inputStream.read().then(processText);
                     }
-                    inputStream.read().then(processText);
-                }
-            });
+                });
+            } else {
+                inputStream.onstop = () => {
+                    transformStream.push(null);
+                };
+                inputStream.ondata = event => {
+                    handleInput(event.data, transformStream);
+                };
+            }
             const outputStream = parser.import(transformStream);
             let counter = 1;
             blankNodeOffset = -1;
@@ -26954,16 +26959,19 @@ function obtainTriplestore(inputStream, decoder, format) {
                     const predicate = processResource(store, triple.predicate);
                     const object = processResource(store, triple.object);
                     store.addTriple(subject, predicate, object);
-                    document.getElementById("status").innerText =
-                        "Status: processing " + counter++ + " triples...";
+                    if (contentScript)
+                        document.getElementById("status").innerText =
+                            "Status: processing " + counter + " triples...";
+                    counter++;
                 })
                 .on("prefix", (prefix, ns) => {
                     if (typeof ns.value === "string" && /^http/.test(ns.value))
                         store.addPrefix(prefix, ns.value);
                 })
                 .on("error", error => {
-                    document.getElementById("status").innerText =
-                        "Status: parsing error: " + error + " (see console for more details)";
+                    if (contentScript)
+                        document.getElementById("status").innerText =
+                            "Status: parsing error: " + error + " (see console for more details)";
                     reject(error);
                 })
                 .on("end", () => {
@@ -26972,6 +26980,14 @@ function obtainTriplestore(inputStream, decoder, format) {
                 });
         });
     });
+
+    function handleInput(value, transformStream) {
+        let data = decoder.decode(value, {stream: true});
+        if (typeof data === "string") {
+            data = data.replace(new RegExp("<>", 'g'), "<#>"); //workaround for empty URIs
+            transformStream.push(data);
+        }
+    }
 }
 
 function getParser(format) {
@@ -27042,7 +27058,7 @@ function getAndRewritePayload() {
 }
 
 async function render(stream, decoder, format) {
-    const triplestore = await parser.obtainTriplestore(stream, decoder, format);
+    const triplestore = await parser.obtainTriplestore(stream, decoder, format, true);
     return createDocument(triplestore);
 }
 
