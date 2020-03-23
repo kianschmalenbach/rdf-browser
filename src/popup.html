@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        html, body {
+            width: 500px;
+            text-align: center;
+        }
+
+        h1 {
+            margin: 0 0 5px 0;
+            text-align: center;
+        }
+
+        .blacklist-inactive, .blacklist-active, .whitelist-inactive, .whitelist-active {
+            width: 490px;
+            margin: 5px;
+            padding: 5px;
+        }
+
+        .blacklist-inactive {
+            background-color: rgba(255, 182, 193, 0.5);
+        }
+
+        .blacklist-active {
+            background-color: rgb(205, 92, 92);
+            color: white;
+        }
+
+        .whitelist-inactive {
+            background-color: rgba(186, 235, 186, 0.5);
+        }
+
+        .whitelist-active {
+            background-color: rgb(48, 197, 110);
+        }
+
+        #hint {
+            font-style: italic;
+            font-size: small;
+            text-align: center;
+            margin: 0 0 5px 0;
+        }
+
+        .flexbox {
+            width: 480px;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            padding: 2px 0;
+        }
+
+        .flexbox:first-of-type {
+            padding-top: 0;
+        }
+
+        .flexbox:last-of-type {
+            padding-bottom: 0;
+        }
+
+        .flexbox .stretch {
+            flex: 1;
+            padding: 0 5px;
+        }
+
+        .flexbox .normal {
+            flex: 0;
+        }
+
+        .flexbox div input {
+            width: 100%;
+        }
+
+        .flexbox div button {
+            white-space: nowrap;
+        }
+
+        .caption {
+            font-weight: bold;
+            font-size: medium;
+            padding-bottom: 3px;
+        }
+
+        .action {
+            font-weight: bold;
+        }
+
+        .active, .passive {
+            margin: 0 5px;
+        }
+
+        .active {
+            background-color: #EEEEEE;
+            color: #AAAAAA;
+            border: 1px solid #DDDDDD;
+            padding-top: 2px;
+            padding-bottom: 2px;
+            width: initial;
+        }
+
+        .hidden {
+            visibility: hidden;
+        }
+    </style>
+</head>
+<body>
+<h1>RDF Browser - Page Actions</h1>
+<p id="hint">
+    This page on Blacklist: Enter | This page on Whitelist: Tab+Enter
+</p>
+<div class="blacklist-inactive" id="blacklist-box">
+    <span class="caption" id="blacklist-caption">Add to Blacklist</span>
+    <div id="blacklist-form">
+        <div class="flexbox">
+            <div class="normal"><label for="blacklist-url">URI:</label></div>
+            <div class="stretch">
+                <input autofocus class="textbox" id="blacklist-url" tabindex="1" type="text">
+            </div>
+            <div class="normal">
+                <button class="action" id="blacklist-action" tabIndex="-1">Add</button>
+            </div>
+        </div>
+    </div>
+    <div class="flexbox">
+        <span class="stretch"></span>
+        <div id="blacklist-suggestions">
+            <button class="active" disabled="disabled" id="blacklist-page" tabIndex="-1" value="Page">Page</button>
+            <button class="passive" id="blacklist-directory" tabIndex="-1" value="Directory">Directory</button>
+            <button class="passive" id="blacklist-domain" tabIndex="-1" value="Domain">Domain</button>
+            <button class="passive" id="blacklist-subdomains" tabIndex="-1" value="Sub-Domain">+ Subdomains</button>
+        </div>
+        <span class="stretch"></span>
+    </div>
+
+</div>
+<div class="whitelist-inactive" id="whitelist-box">
+    <div class="caption" id="whitelist-caption">Add to Whitelist</div>
+    <div id="whitelist-form">
+        <div class="flexbox">
+            <div class="normal"><label for="whitelist-url">URI:</label></div>
+            <div class="stretch">
+                <input class="textbox" id="whitelist-url" tabindex="2" type="text">
+            </div>
+            <div class="normal">
+                <button class="action" id="whitelist-action" tabIndex="-1">Add</button>
+            </div>
+        </div>
+    </div>
+    <div class="flexbox">
+        <span class="stretch"></span>
+        <div id="whitelist-suggestions">
+            <button class="active" disabled="disabled" id="whitelist-page" tabIndex="-1" value="Page">Page</button>
+            <button class="passive" id="whitelist-directory" tabIndex="-1" value="Directory">Directory</button>
+            <button class="passive" id="whitelist-domain" tabIndex="-1" value="Domain">Domain</button>
+            <button class="passive" id="whitelist-subdomains" tabIndex="-1" value="Sub-Domain">+ Subdomains</button>
+        </div>
+        <span class="stretch"></span>
+    </div>
+</div>
+<script src="popup.js" type="text/javascript"></script>
+</body>
+</html>

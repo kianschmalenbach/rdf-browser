@@ -26905,62 +26905,89 @@ function packF32(v) { return packIEEE754(v, 8, 23); }
 },{}],120:[function(require,module,exports){
 arguments[4][31][0].apply(exports,arguments)
 },{"dup":31}],121:[function(require,module,exports){
+const browser = window.browser || window.chrome;
 const RdfXmlParser = require("rdfxml-streaming-parser").RdfXmlParser;
 const JsonLdParser = require("@rdfjs/parser-jsonld");
 const N3Parser = require("@rdfjs/parser-n3");
 const Transform = require("stream").Transform;
 const ts = require("./triplestore");
+const sortThreshold = 5000;
 let blankNodeOffset; //workaround for incremental blank node number assignment by parser
 
-function obtainTriplestore(inputStream, decoder, format) {
+function obtainTriplestore(inputStream, decoder, format, contentScript) {
     return new Promise((resolve, reject) => {
         const parser = getParser(format);
         if (!parser)
             reject("Unsupported format");
-        const store = ts.getTriplestore();
-        const transformStream = new Transform({
-            transform(chunk, encoding, callback) {
-                this.push(chunk);
-                callback();
-            }
-        });
-        inputStream.ondata = event => {
-            let data = decoder.decode(event.data, {stream: true});
-            if (typeof data === "string") {
-                data = data.replace(new RegExp("<>", 'g'), "<#>"); //workaround for empty URIs
-                transformStream.push(data);
-            }
-        };
-        inputStream.onstop = () => {
-            transformStream.push(null);
-        };
-        const outputStream = parser.import(transformStream);
-        blankNodeOffset = -1;
-        outputStream
-            .on("context", context => {
-                for (const prefix in context) {
-                    if (typeof context[prefix] === "string")
-                        store.addPrefix(prefix, context[prefix]);
+        ts.getTriplestore(contentScript).then(store => {
+            const transformStream = new Transform({
+                transform(chunk, encoding, callback) {
+                    this.push(chunk);
+                    callback();
                 }
-            })
-            .on("data", triple => {
-                const subject = processResource(store, triple.subject);
-                const predicate = processResource(store, triple.predicate);
-                const object = processResource(store, triple.object);
-                store.addTriple(subject, predicate, object);
-            })
-            .on("prefix", (prefix, ns) => {
-                if (typeof ns.value === "string" && /^http/.test(ns.value))
-                    store.addPrefix(prefix, ns.value);
-            })
-            .on("error", error => {
-                reject(error);
-            })
-            .on("end", () => {
-                store.finalize();
-                resolve(store);
             });
+            if (contentScript) {
+                document.getElementById("status").innerText = "Status: fetching file...";
+                inputStream.read().then(function processText({done, value}) {
+                    if (done)
+                        transformStream.push(null);
+                    else {
+                        handleInput(value, transformStream);
+                        inputStream.read().then(processText);
+                    }
+                });
+            } else {
+                inputStream.onstop = () => {
+                    transformStream.push(null);
+                };
+                inputStream.ondata = event => {
+                    handleInput(event.data, transformStream);
+                };
+            }
+            const outputStream = parser.import(transformStream);
+            let counter = 1;
+            blankNodeOffset = -1;
+            outputStream
+                .on("context", context => {
+                    for (const prefix in context) {
+                        if (typeof context[prefix] === "string")
+                            store.addPrefix(prefix, context[prefix]);
+                    }
+                })
+                .on("data", triple => {
+                    const subject = processResource(store, triple.subject);
+                    const predicate = processResource(store, triple.predicate);
+                    const object = processResource(store, triple.object);
+                    store.addTriple(subject, predicate, object);
+                    if (contentScript)
+                        document.getElementById("status").innerText =
+                            "Status: processing " + counter + " triples...";
+                    counter++;
+                })
+                .on("prefix", (prefix, ns) => {
+                    if (typeof ns.value === "string" && /^http/.test(ns.value))
+                        store.addPrefix(prefix, ns.value);
+                })
+                .on("error", error => {
+                    if (contentScript)
+                        document.getElementById("status").innerText =
+                            "Status: parsing error: " + error + " (see console for more details)";
+                    reject(error);
+                })
+                .on("end", () => {
+                    store.finalize(counter <= sortThreshold);
+                    resolve(store);
+                });
+        });
     });
+
+    function handleInput(value, transformStream) {
+        let data = decoder.decode(value, {stream: true});
+        if (typeof data === "string") {
+            data = data.replace(new RegExp("<>", 'g'), "<#>"); //workaround for empty URIs
+            transformStream.push(data);
+        }
+    }
 }
 
 function getParser(format) {
@@ -27005,14 +27032,43 @@ function processResource(store, resource) {
 module.exports = {obtainTriplestore};
 
 },{"./triplestore":123,"@rdfjs/parser-jsonld":40,"@rdfjs/parser-n3":64,"rdfxml-streaming-parser":101,"stream":28}],122:[function(require,module,exports){
+const browser = window.browser || window.chrome;
 const templatePath = "src/template.html";
+const scriptPath = "src/style.js";
 const parser = require("./parser");
-let options = {};
 
-async function render(stream, decoder, format) {
-    const template = await getTemplate();
-    const triplestore = await parser.obtainTriplestore(stream, decoder, format);
-    return createDocument(template, triplestore);
+function getAndRewritePayload() {
+    return new Promise(resolve => {
+        const params = new URL(location.href).searchParams;
+        const url = params.get("url");
+        document.getElementById("title").innerText = url; //TODO create title element
+        const encoding = decodeURIComponent(params.get("encoding"));
+        const format = decodeURIComponent(params.get("format"));
+        browser.runtime.sendMessage("acceptHeader").then(header => {
+            const request = new Request(url, {
+                headers: new Headers({
+                    'Accept': header.toString()
+                })
+            });
+            fetch(request).then(response => response.body).then(body => {
+                render(body.getReader(), new TextDecoder(encoding), format, true).then(() => {
+                    resolve();
+                });
+            });
+        });
+    });
+}
+
+async function render(stream, decoder, format, contentScript) {
+    if (contentScript) {
+        const triplestore = await parser.obtainTriplestore(stream, decoder, format, true);
+        return fillDocument(document, triplestore);
+    } else {
+        let template = await getTemplate();
+        template = await injectScript(template);
+        const triplestore = await parser.obtainTriplestore(stream, decoder, format, false);
+        return createDocument(template, triplestore);
+    }
 }
 
 function getTemplate() {
@@ -27027,36 +27083,58 @@ function getTemplate() {
     });
 }
 
+function injectScript(template) {
+    return new Promise(resolve => {
+        fetch(scriptPath)
+            .then(file => {
+                return file.text();
+            })
+            .then(script => {
+                const array = template.split("<!-- script -->");
+                resolve(array[0] + script + array[1]);
+            })
+    });
+}
+
 function createDocument(html, store) {
     return new Promise(resolve => {
         const document = new DOMParser().parseFromString(html, "text/html");
+        document.getElementById("title").remove();
+        document.getElementById("content-script").remove();
+        document.getElementById("script").removeAttribute("src");
+        document.getElementById("hint").remove();
+        document.getElementById("status").remove();
         const scriptElement = document.getElementById("script");
         const scriptString = JSON.stringify(options.allStyleTemplate[options.allStyleTemplate.selected]);
-        const script = "const style = " + scriptString + ";\n";
+        const script = "\nconst style = " + scriptString + ";\n";
         scriptElement.insertBefore(document.createTextNode(script), scriptElement.firstChild);
-        const body = document.body;
-        while (body.firstChild)
-            body.removeChild(body.firstChild);
-        const prefixes = document.createElement("p");
-        body.appendChild(prefixes);
-        prefixes.setAttribute("class", "prefixes");
-        store.prefixes.forEach(prefix => {
-            if (prefix.html === null)
-                prefix.createHtml();
-            prefixes.appendChild(prefix.html);
-            prefixes.appendChild(document.createElement("br"));
-        });
-        const triples = document.createElement("p");
-        triples.setAttribute("class", "triples");
-        body.appendChild(triples);
-        let subjectIndex = 0;
-        while (subjectIndex < store.triples.length) {
-            const result = writeTriple(store, subjectIndex);
-            subjectIndex = result.subjectIndex;
-            triples.appendChild(result.triple);
-        }
+        fillDocument(document, store);
         resolve(new XMLSerializer().serializeToString(document));
     });
+}
+
+async function fillDocument(document, store) {
+    const body = document.body;
+    while (body.firstChild)
+        body.removeChild(body.firstChild);
+    const prefixes = document.createElement("div");
+    body.appendChild(prefixes);
+    prefixes.setAttribute("class", "prefixes");
+    store.prefixes.forEach(prefix => {
+        if (prefix.html === null)
+            prefix.createHtml();
+        prefixes.appendChild(prefix.html);
+        prefixes.appendChild(document.createElement("br"));
+    });
+    const triples = document.createElement("div");
+    triples.setAttribute("class", "triples");
+    body.appendChild(triples);
+    let subjectIndex = 0;
+    while (subjectIndex < store.triples.length) {
+        const result = writeTriple(store, subjectIndex);
+        subjectIndex = result.subjectIndex;
+        triples.appendChild(result.triple);
+    }
 }
 
 function writeTriple(store, subjectIndex) {
@@ -27129,25 +27207,22 @@ function writeTriple(store, subjectIndex) {
     }
 }
 
-browser.storage.onChanged.addListener(() => {
-    browser.storage.sync.get("options").then(result => options = result.options);
-});
-browser.storage.sync.get("options").then(result => options = result.options);
+if (document.body.id === "template")
+    document.body.onloaddone = getAndRewritePayload();
 
 module.exports.render = render;
 
 },{"./parser":121}],123:[function(require,module,exports){
+const browser = window.browser || window.chrome;
 const datatypes = {
     string: "http://www.w3.org/2001/XMLSchema#string",
     integer: "http://www.w3.org/2001/XMLSchema#integer",
     decimal: "http://www.w3.org/2001/XMLSchema#decimal",
     langString: "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
 };
-const commonPrefixSource = "https://prefix.cc/popular/all.file.json";
-const commonPrefixes = [];
 
 class Triplestore {
-    constructor() {
+    constructor(commonPrefixes = []) {
         this.triples = [];
         this.prefixes = [];
         for (const prefix in commonPrefixes) {
@@ -27208,26 +27283,19 @@ class Triplestore {
         this.triples.push(new Triple(subject, predicate, object));
     }
 
-    finalize() {
+    finalize(sorting = true) {
         for (const uri in this.uris)
             this.uris[uri].updatePrefix(this.prefixes);
         for (const literal in this.literals)
             this.literals[literal].updatePrefix(this.prefixes);
         this.removeUnusedPrefixes();
-        this.triples = this.triples.sort((a, b) => {
-            return a.compareTo(b);
-        });
         this.prefixes = this.prefixes.sort((a, b) => {
             return a.compareTo(b);
         });
-        for (const uri in this.uris)
-            this.uris[uri].createHtml();
-        for (const blankNode in this.blankNodes)
-            this.blankNodes[blankNode].createHtml();
-        for (const literal in this.literals)
-            this.literals[literal].createHtml();
-        for (const prefix in this.prefixes)
-            this.prefixes[prefix].createHtml();
+        if (sorting)
+            this.triples = this.triples.sort((a, b) => {
+                return a.compareTo(b);
+            });
     }
 
     removeUnusedPrefixes() {
@@ -27507,13 +27575,21 @@ class Prefix extends Resource {
     }
 }
 
-function getTriplestore() {
-    return new Triplestore();
+function getTriplestore(contentScript = true) {
+    if (contentScript) {
+        return new Promise(resolve => {
+            browser.runtime.sendMessage("commonPrefixes").then(commonPrefixes => {
+                resolve(new Triplestore(commonPrefixes));
+            });
+        })
+    } else {
+        return new Promise(resolve => {
+            resolve(new Triplestore(commonPrefixes));
+        });
+    }
 }
 
-module.exports = {getTriplestore};
-
-Triplestore.initializeCommonPrefixes();
+module.exports = {getTriplestore, Triplestore};
 
 },{}]},{},[122])(122)
 });

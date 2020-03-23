@@ -2,6 +2,8 @@ const browser = window.browser || window.chrome;
 const filter = {
     urls: ["<all_urls>"]
 };
+const commonPrefixSource = "https://prefix.cc/popular/all.file.json";
+const commonPrefixes = [];
 const defaultOptions = {
     json: true,
     n4: true,
@@ -15,6 +17,7 @@ const defaultOptions = {
     ttlext: false,
     ntext: false,
     nqext: false,
+    contentScript: false,
     maxsize: 10485760,
     allStyleTemplate: {
         none: {
@@ -125,7 +128,9 @@ const defaultOptions = {
             literal_textDecorationColor: "#656465"
         },
         selected: "light"
-    }
+    },
+    blacklist: "",
+    whitelist: ""
 };
 let options = {};
 
@@ -177,25 +182,23 @@ function getFormatFor(fileType) {
 }
 
 /**
- * Change the accept header for all HTTP requests to include the content types specified in formats
+ * Modify the accept header for all HTTP requests to include the content types specified in formats
  * with higher priority than the remaining content types
  * @param details The details of the HTTP request
  * @returns {{requestHeaders: *}} The modified request header
  */
-function changeHeader(details) {
+function modifyRequestHeader(details) {
     if (options.xhr && details.type !== "main_frame")
         return {};
     const formats = getFormats();
     if (formats.length === 0)
         return {};
+    const url = new URL(details.url);
+    if (onList("blacklist", url, true))
+        return {};
     for (let header of details.requestHeaders) {
         if (header.name.toLowerCase() === "accept") {
-            let newHeader = "";
-            for (const f of formats)
-                newHeader += f + ",";
-            newHeader = newHeader.substring(0, newHeader.length - 1);
-            newHeader += ";q=0.95,";
-            header.value = newHeader + header.value;
+            header.value = getNewHeader() + "," + header.value;
             break;
         }
     }
@@ -203,12 +206,14 @@ function changeHeader(details) {
 }
 
 /**
- * Rewrite the payload of an HTTP response if format of content-type matches any in formats
+ * Modify the header of an HTTP response if format of content-type matches any in formats
  * @param details The details of the HTTP response
  * @returns {{}|{responseHeaders: {name: string, value: string}[]}} The modified response header
  */
-function rewritePayload(details) {
-    if (details.statusCode !== 200 || details.type !== "main_frame")
+function modifyResponseHeader(details) {
+    if (details.statusCode >= 400 || details.type !== "main_frame")
+        return {};
+    if (onList("blacklist", new URL(details.url)))
         return {};
     const cl = details.responseHeaders.find(h => h.name.toLowerCase() === "content-length");
     if (cl) {
@@ -216,24 +221,50 @@ function rewritePayload(details) {
         if (length === undefined || length > options.maxsize)
             return {};
     }
-    const ct = details.responseHeaders.find(h => h.name.toLowerCase() === "content-type");
-    let format = ct ? getFormats().find(f => ct.value.includes(f)) : false;
+    const onWhitelist = onList("whitelist", new URL(details.url));
+    const contentType = details.responseHeaders.find(h => h.name.toLowerCase() === "content-type");
+    let format = contentType ? getFormats().find(f => contentType.value.includes(f)) : false;
     let fileType = new URL(details.url).pathname.split(".");
-    if (fileType !== undefined && fileType.length >= 1)
-        fileType = fileType[fileType.length - 1];
-    let encoding = ct ? ct.value.split("charset=") : false;
-    if ((!format && !getFileTypes().includes(fileType)) || !encoding) {
+    fileType = (fileType !== undefined && fileType.length >= 1) ? fileType[fileType.length - 1] : false;
+    let encoding = contentType ? contentType.value.split("charset=") : false;
+    encoding = (encoding && encoding.length >= 2) ? encoding[1] : false;
+    if (!format && !getFileTypes().includes(fileType) && !onWhitelist)
         return {};
-    }
     if (!format && !(format = getFormatFor(fileType))) {
+        if (onWhitelist)
+            console.warn(details.url +
+                " is on the RDF Browser Whitelist, but the page content was not identified as RDF.");
         return {};
     }
-    encoding = (encoding.length < 2 ? null : encoding[1]);
-    const filter = browser.webRequest.filterResponseData(details.requestId);
     if (!encoding) {
         console.warn("The HTTP response does not include encoding information. Encoding in utf-8 is assumed.");
         encoding = "utf-8";
     }
+    return rewriteResponse(cl, details, encoding, format);
+}
+
+/**
+ * Rewrite the HTTP response (background script) or redirect to the html template (content script)
+ */
+function rewriteResponse(cl, details, encoding, format) {
+    const responseHeaders = [
+        {name: "Content-Type", value: "text/html; charset=utf-8"},
+        {name: "Cache-Control", value: "no-cache, no-store, must-revalidate"},
+        {name: "Content-Length", value: cl ? cl.value : "0"},
+        {name: "Pragma", value: "no-cache"},
+        {name: "Expires", value: "0"}
+    ];
+    if (options.contentScript) {
+        return {
+            responseHeaders: responseHeaders,
+            redirectUrl: browser.runtime.getURL("src/template.html"
+                + "?url=" + encodeURIComponent(details.url)
+                + "&encoding=" + encodeURIComponent(encoding)
+                + "&format=" + encodeURIComponent(format)
+            )
+        };
+    }
+    const filter = browser.webRequest.filterResponseData(details.requestId);
     let decoder;
     try {
         decoder = new TextDecoder(encoding);
@@ -242,7 +273,7 @@ function rewritePayload(details) {
         return {};
     }
     const encoder = new TextEncoder("utf-8");
-    renderer.render(filter, decoder, format).then(output => {
+    renderer.render(filter, decoder, format, options.contentScript).then(output => {
         filter.write(encoder.encode(output));
     })
         .catch(e => {
@@ -255,25 +286,59 @@ function rewritePayload(details) {
             filter.close();
         });
     return {
-        responseHeaders: [
-            {name: "Content-Type", value: "text/html; charset=utf-8"},
-            {name: "Cache-Control", value: "no-cache, no-store, must-revalidate"},
-            {name: "Pragma", value: "no-cache"},
-            {name: "Expires", value: "0"}
-        ]
+        responseHeaders: responseHeaders
     };
 }
 
 /**
- * Add the listeners for modifying HTTP request and response headers as well as the response payload
+ * Initialize the list of common prefixes, obtained from <commonPrefixSource>
+ */
+function initializeCommonPrefixes() {
+    fetch(commonPrefixSource).then(response => {
+        response.json().then(doc => {
+            for (const prefix in doc)
+                commonPrefixes.push([prefix, doc[prefix]]);
+        })
+    });
+}
+
+/**
+ * Return the modified accept header as a string
+ * @returns {string} The modified accept header
+ */
+function getNewHeader() {
+    let newHeader = "";
+    for (const f of getFormats())
+        newHeader += f + ",";
+    newHeader = newHeader.substring(0, newHeader.length - 1);
+    newHeader += ";q=0.95";
+    return newHeader;
+}
+
+/**
+ * Initialize the list of common prefixes and add the listeners for modifying HTTP request and response headers
  */
 function addListeners() {
-    browser.webRequest.onBeforeSendHeaders.addListener(changeHeader, filter, ["blocking", "requestHeaders"]);
-    browser.webRequest.onHeadersReceived.addListener(rewritePayload, filter, ["blocking", "responseHeaders"]);
+    initializeCommonPrefixes();
+    browser.webRequest.onBeforeSendHeaders.addListener(modifyRequestHeader, filter, ["blocking", "requestHeaders"]);
+    browser.webRequest.onHeadersReceived.addListener(modifyResponseHeader, filter, ["blocking", "responseHeaders"]);
+    browser.webNavigation.onCommitted.addListener(details => {
+        browser.pageAction.show(details.tabId);
+    });
     browser.runtime.onMessage.addListener((message, sender, sendResponse) => {
-        switch (message) {
+        let msg = Array.isArray(message) ? message[0] : message;
+        switch (msg) {
+            case "acceptHeader":
+                sendResponse(getNewHeader());
+                break;
+            case "commonPrefixes":
+                sendResponse(commonPrefixes);
+                break;
             case "defaultOptions":
                 sendResponse(defaultOptions);
+                break;
+            case "listStatus":
+                sendResponse(getListStatus(message[1], message[2]));
                 break;
         }
     });

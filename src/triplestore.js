@@ -1,14 +1,13 @@
+const browser = window.browser || window.chrome;
 const datatypes = {
     string: "http://www.w3.org/2001/XMLSchema#string",
     integer: "http://www.w3.org/2001/XMLSchema#integer",
     decimal: "http://www.w3.org/2001/XMLSchema#decimal",
     langString: "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
 };
-const commonPrefixSource = "https://prefix.cc/popular/all.file.json";
-const commonPrefixes = [];
 
 class Triplestore {
-    constructor() {
+    constructor(commonPrefixes = []) {
         this.triples = [];
         this.prefixes = [];
         for (const prefix in commonPrefixes) {
@@ -69,26 +68,19 @@ class Triplestore {
         this.triples.push(new Triple(subject, predicate, object));
     }
 
-    finalize() {
+    finalize(sorting = true) {
         for (const uri in this.uris)
             this.uris[uri].updatePrefix(this.prefixes);
         for (const literal in this.literals)
             this.literals[literal].updatePrefix(this.prefixes);
         this.removeUnusedPrefixes();
-        this.triples = this.triples.sort((a, b) => {
-            return a.compareTo(b);
-        });
         this.prefixes = this.prefixes.sort((a, b) => {
             return a.compareTo(b);
         });
-        for (const uri in this.uris)
-            this.uris[uri].createHtml();
-        for (const blankNode in this.blankNodes)
-            this.blankNodes[blankNode].createHtml();
-        for (const literal in this.literals)
-            this.literals[literal].createHtml();
-        for (const prefix in this.prefixes)
-            this.prefixes[prefix].createHtml();
+        if (sorting)
+            this.triples = this.triples.sort((a, b) => {
+                return a.compareTo(b);
+            });
     }
 
     removeUnusedPrefixes() {
@@ -368,10 +360,18 @@ class Prefix extends Resource {
     }
 }
 
-function getTriplestore() {
-    return new Triplestore();
+function getTriplestore(contentScript = true) {
+    if (contentScript) {
+        return new Promise(resolve => {
+            browser.runtime.sendMessage("commonPrefixes").then(commonPrefixes => {
+                resolve(new Triplestore(commonPrefixes));
+            });
+        })
+    } else {
+        return new Promise(resolve => {
+            resolve(new Triplestore(commonPrefixes));
+        });
+    }
 }
 
-module.exports = {getTriplestore};
-
-Triplestore.initializeCommonPrefixes();
+module.exports = {getTriplestore, Triplestore};
