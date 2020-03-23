@@ -367,8 +367,11 @@ function getTriplestore(contentScript = true) {
                 resolve(new Triplestore(commonPrefixes));
             });
         })
-    } else
-        return new Triplestore(commonPrefixes);
+    } else {
+        return new Promise(resolve => {
+            resolve(new Triplestore(commonPrefixes));
+        });
+    }
 }
 
 module.exports = {getTriplestore, Triplestore};

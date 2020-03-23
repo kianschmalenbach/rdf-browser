@@ -6,7 +6,7 @@ let options = {};
 async function render(stream, decoder, format) {
     let template = await getTemplate();
     template = await injectScript(template);
-    const triplestore = await parser.obtainTriplestore(stream, decoder, format);
+    const triplestore = await parser.obtainTriplestore(stream, decoder, format, false);
     return createDocument(template, triplestore);
 }
 
