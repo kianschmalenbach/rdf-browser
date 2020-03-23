@@ -132,6 +132,7 @@ const defaultOptions = {
     whitelist: ""
 };
 let options = {};
+const contentScript = false; //TODO
 
 function getFormats() {
     const formats = [];
@@ -248,7 +249,7 @@ function rewritePayload(details) {
         return {};
     }
     const encoder = new TextEncoder("utf-8");
-    renderer.render(filter, decoder, format).then(output => {
+    renderer.render(filter, decoder, format, contentScript).then(output => {
         filter.write(encoder.encode(output));
     })
         .catch(e => {
