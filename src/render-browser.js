@@ -6137,14 +6137,14 @@ class Parser extends Sink {
 
 module.exports = Parser
 
-},{"./lib/ParserStream":41,"@rdfjs/sink":66}],41:[function(require,module,exports){
+},{"./lib/ParserStream":41,"@rdfjs/sink":44}],41:[function(require,module,exports){
 const concat = require('concat-stream')
 const jsonld = require('jsonld')
 const rdf = require('@rdfjs/data-model')
 const Readable = require('readable-stream')
 
 class ParserStream extends Readable {
-  constructor (input, {baseIRI = '', context = null, factory = rdf} = {}) {
+  constructor (input, { baseIRI = '', context = null, factory = rdf } = {}) {
     super({
       objectMode: true,
       read: () => {}
@@ -6154,7 +6154,7 @@ class ParserStream extends Readable {
     this.context = context
     this.factory = factory
 
-    const concatStream = concat({encoding: 'string'}, (data) => {
+    const concatStream = concat({ encoding: 'string' }, (data) => {
       if (!data) {
         this.push(null)
 
@@ -6178,6 +6178,11 @@ class ParserStream extends Readable {
   term (plainTerm) {
     switch (plainTerm.termType) {
       case 'NamedNode':
+        if (plainTerm.value.startsWith('null:/')) {
+          // remove null:/ workaround for relative IRIs
+          return this.factory.namedNode(plainTerm.value.slice(6))
+        }
+
         return this.factory.namedNode(plainTerm.value)
       case 'BlankNode':
         return this.factory.blankNode(plainTerm.value.substr(2))
@@ -6199,7 +6204,8 @@ class ParserStream extends Readable {
         })
       }
 
-      const toRdfOptions = {base: this.baseIRI}
+      // use null:/ as workaround for relative IRIs
+      const toRdfOptions = { base: this.baseIRI || 'null:/' }
 
       // use context from options if given
       if (this.context) {
@@ -6239,7 +6245,441 @@ class ParserStream extends Readable {
 
 module.exports = ParserStream
 
-},{"@rdfjs/data-model":32,"concat-stream":69,"jsonld":58,"readable-stream":113}],42:[function(require,module,exports){
+},{"@rdfjs/data-model":32,"concat-stream":47,"jsonld":67,"readable-stream":113}],42:[function(require,module,exports){
+arguments[4][40][0].apply(exports,arguments)
+},{"./lib/ParserStream":43,"@rdfjs/sink":44,"dup":40}],43:[function(require,module,exports){
+const rdf = require('@rdfjs/data-model')
+const Readable = require('readable-stream')
+const N3 = require('n3')
+
+class ParserStream extends Readable {
+  constructor (input, {baseIRI = '', factory = rdf} = {}) {
+    super({
+      objectMode: true,
+      read: () => {}
+    })
+
+    const parser = new N3.Parser({baseIRI, factory})
+
+    parser.parse(input, (err, quad, prefixes) => {
+      if (err) {
+        return this.emit('error', err)
+      }
+
+      if (prefixes) {
+        Object.keys(prefixes).forEach((prefix) => {
+          this.emit('prefix', prefix, factory.namedNode(prefixes[prefix]))
+        })
+      }
+
+      this.push(quad || null)
+    })
+  }
+}
+
+module.exports = ParserStream
+
+},{"@rdfjs/data-model":32,"n3":82,"readable-stream":113}],44:[function(require,module,exports){
+class Sink {
+  constructor (Impl, options) {
+    this.Impl = Impl
+    this.options = options
+  }
+
+  import (input, options) {
+    const output = new this.Impl(input, Object.assign({}, this.options, options))
+
+    input.on('end', () => {
+      if (!output.readable) {
+        output.emit('end')
+      }
+    })
+
+    input.on('error', (err) => {
+      output.emit('error', err)
+    })
+
+    return output
+  }
+}
+
+module.exports = Sink
+
+},{}],45:[function(require,module,exports){
+(function (Buffer){
+var toString = Object.prototype.toString
+
+var isModern = (
+  typeof Buffer.alloc === 'function' &&
+  typeof Buffer.allocUnsafe === 'function' &&
+  typeof Buffer.from === 'function'
+)
+
+function isArrayBuffer (input) {
+  return toString.call(input).slice(8, -1) === 'ArrayBuffer'
+}
+
+function fromArrayBuffer (obj, byteOffset, length) {
+  byteOffset >>>= 0
+
+  var maxLength = obj.byteLength - byteOffset
+
+  if (maxLength < 0) {
+    throw new RangeError("'offset' is out of bounds")
+  }
+
+  if (length === undefined) {
+    length = maxLength
+  } else {
+    length >>>= 0
+
+    if (length > maxLength) {
+      throw new RangeError("'length' is out of bounds")
+    }
+  }
+
+  return isModern
+    ? Buffer.from(obj.slice(byteOffset, byteOffset + length))
+    : new Buffer(new Uint8Array(obj.slice(byteOffset, byteOffset + length)))
+}
+
+function fromString (string, encoding) {
+  if (typeof encoding !== 'string' || encoding === '') {
+    encoding = 'utf8'
+  }
+
+  if (!Buffer.isEncoding(encoding)) {
+    throw new TypeError('"encoding" must be a valid string encoding')
+  }
+
+  return isModern
+    ? Buffer.from(string, encoding)
+    : new Buffer(string, encoding)
+}
+
+function bufferFrom (value, encodingOrOffset, length) {
+  if (typeof value === 'number') {
+    throw new TypeError('"value" argument must not be a number')
+  }
+
+  if (isArrayBuffer(value)) {
+    return fromArrayBuffer(value, encodingOrOffset, length)
+  }
+
+  if (typeof value === 'string') {
+    return fromString(value, encodingOrOffset)
+  }
+
+  return isModern
+    ? Buffer.from(value)
+    : new Buffer(value)
+}
+
+module.exports = bufferFrom
+
+}).call(this,require("buffer").Buffer)
+},{"buffer":3}],46:[function(require,module,exports){
+/* jshint esversion: 6 */
+/* jslint node: true */
+'use strict';
+
+module.exports = function (object) {
+  return serialize(object);
+
+  function serialize (object) {
+    if (object === null || typeof object !== 'object' || object.toJSON != null) {
+      return JSON.stringify(object);
+    }
+    if (Array.isArray(object) && object.length === 0) {
+      return '[]';
+    }
+    if (Array.isArray(object) && object.length === 1) {
+      return '[' + serialize(object[0]) + ']';
+    }
+    if (Array.isArray(object)) {
+      return '[' + object.reduce((t, cv, ci) => {
+        t = (ci === 1 ? serialize(t) : t);
+        return t + ',' + serialize(cv);
+      }) + ']';
+    }
+    const keys = Object.keys(object);
+    if (keys.length === 0) {
+      return '{}';
+    }
+    if (keys.length === 1) {
+      return '{' + serialize(keys[0]) + ':' + serialize(object[keys[0]]) + '}';
+    }
+    return '{' + keys.sort().reduce((t, cv, ci) => {
+      t = (ci === 1 ? serialize(t) + ':' + serialize(object[t]) : t);
+      return t + ',' + serialize(cv) + ':' + serialize(object[cv]);
+    }) + '}';
+  }
+};
+
+},{}],47:[function(require,module,exports){
+(function (Buffer){
+var Writable = require('readable-stream').Writable
+var inherits = require('inherits')
+var bufferFrom = require('buffer-from')
+
+if (typeof Uint8Array === 'undefined') {
+  var U8 = require('typedarray').Uint8Array
+} else {
+  var U8 = Uint8Array
+}
+
+function ConcatStream(opts, cb) {
+  if (!(this instanceof ConcatStream)) return new ConcatStream(opts, cb)
+
+  if (typeof opts === 'function') {
+    cb = opts
+    opts = {}
+  }
+  if (!opts) opts = {}
+
+  var encoding = opts.encoding
+  var shouldInferEncoding = false
+
+  if (!encoding) {
+    shouldInferEncoding = true
+  } else {
+    encoding =  String(encoding).toLowerCase()
+    if (encoding === 'u8' || encoding === 'uint8') {
+      encoding = 'uint8array'
+    }
+  }
+
+  Writable.call(this, { objectMode: true })
+
+  this.encoding = encoding
+  this.shouldInferEncoding = shouldInferEncoding
+
+  if (cb) this.on('finish', function () { cb(this.getBody()) })
+  this.body = []
+}
+
+module.exports = ConcatStream
+inherits(ConcatStream, Writable)
+
+ConcatStream.prototype._write = function(chunk, enc, next) {
+  this.body.push(chunk)
+  next()
+}
+
+ConcatStream.prototype.inferEncoding = function (buff) {
+  var firstBuffer = buff === undefined ? this.body[0] : buff;
+  if (Buffer.isBuffer(firstBuffer)) return 'buffer'
+  if (typeof Uint8Array !== 'undefined' && firstBuffer instanceof Uint8Array) return 'uint8array'
+  if (Array.isArray(firstBuffer)) return 'array'
+  if (typeof firstBuffer === 'string') return 'string'
+  if (Object.prototype.toString.call(firstBuffer) === "[object Object]") return 'object'
+  return 'buffer'
+}
+
+ConcatStream.prototype.getBody = function () {
+  if (!this.encoding && this.body.length === 0) return []
+  if (this.shouldInferEncoding) this.encoding = this.inferEncoding()
+  if (this.encoding === 'array') return arrayConcat(this.body)
+  if (this.encoding === 'string') return stringConcat(this.body)
+  if (this.encoding === 'buffer') return bufferConcat(this.body)
+  if (this.encoding === 'uint8array') return u8Concat(this.body)
+  return this.body
+}
+
+var isArray = Array.isArray || function (arr) {
+  return Object.prototype.toString.call(arr) == '[object Array]'
+}
+
+function isArrayish (arr) {
+  return /Array\]$/.test(Object.prototype.toString.call(arr))
+}
+
+function isBufferish (p) {
+  return typeof p === 'string' || isArrayish(p) || (p && typeof p.subarray === 'function')
+}
+
+function stringConcat (parts) {
+  var strings = []
+  var needsToString = false
+  for (var i = 0; i < parts.length; i++) {
+    var p = parts[i]
+    if (typeof p === 'string') {
+      strings.push(p)
+    } else if (Buffer.isBuffer(p)) {
+      strings.push(p)
+    } else if (isBufferish(p)) {
+      strings.push(bufferFrom(p))
+    } else {
+      strings.push(bufferFrom(String(p)))
+    }
+  }
+  if (Buffer.isBuffer(parts[0])) {
+    strings = Buffer.concat(strings)
+    strings = strings.toString('utf8')
+  } else {
+    strings = strings.join('')
+  }
+  return strings
+}
+
+function bufferConcat (parts) {
+  var bufs = []
+  for (var i = 0; i < parts.length; i++) {
+    var p = parts[i]
+    if (Buffer.isBuffer(p)) {
+      bufs.push(p)
+    } else if (isBufferish(p)) {
+      bufs.push(bufferFrom(p))
+    } else {
+      bufs.push(bufferFrom(String(p)))
+    }
+  }
+  return Buffer.concat(bufs)
+}
+
+function arrayConcat (parts) {
+  var res = []
+  for (var i = 0; i < parts.length; i++) {
+    res.push.apply(res, parts[i])
+  }
+  return res
+}
+
+function u8Concat (parts) {
+  var len = 0
+  for (var i = 0; i < parts.length; i++) {
+    if (typeof parts[i] === 'string') {
+      parts[i] = bufferFrom(parts[i])
+    }
+    len += parts[i].length
+  }
+  var u8 = new U8(len)
+  for (var i = 0, offset = 0; i < parts.length; i++) {
+    var part = parts[i]
+    for (var j = 0; j < part.length; j++) {
+      u8[offset++] = part[j]
+    }
+  }
+  return u8
+}
+
+}).call(this,require("buffer").Buffer)
+},{"buffer":3,"buffer-from":45,"inherits":49,"readable-stream":113,"typedarray":119}],48:[function(require,module,exports){
+(function (Buffer){
+// Copyright Joyent, Inc. and other Node contributors.
+//
+// Permission is hereby granted, free of charge, to any person obtaining a
+// copy of this software and associated documentation files (the
+// "Software"), to deal in the Software without restriction, including
+// without limitation the rights to use, copy, modify, merge, publish,
+// distribute, sublicense, and/or sell copies of the Software, and to permit
+// persons to whom the Software is furnished to do so, subject to the
+// following conditions:
+//
+// The above copyright notice and this permission notice shall be included
+// in all copies or substantial portions of the Software.
+//
+// THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
+// OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+// MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN
+// NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM,
+// DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR
+// OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE
+// USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+// NOTE: These type checking functions intentionally don't use `instanceof`
+// because it is fragile and can be easily faked with `Object.create()`.
+
+function isArray(arg) {
+  if (Array.isArray) {
+    return Array.isArray(arg);
+  }
+  return objectToString(arg) === '[object Array]';
+}
+exports.isArray = isArray;
+
+function isBoolean(arg) {
+  return typeof arg === 'boolean';
+}
+exports.isBoolean = isBoolean;
+
+function isNull(arg) {
+  return arg === null;
+}
+exports.isNull = isNull;
+
+function isNullOrUndefined(arg) {
+  return arg == null;
+}
+exports.isNullOrUndefined = isNullOrUndefined;
+
+function isNumber(arg) {
+  return typeof arg === 'number';
+}
+exports.isNumber = isNumber;
+
+function isString(arg) {
+  return typeof arg === 'string';
+}
+exports.isString = isString;
+
+function isSymbol(arg) {
+  return typeof arg === 'symbol';
+}
+exports.isSymbol = isSymbol;
+
+function isUndefined(arg) {
+  return arg === void 0;
+}
+exports.isUndefined = isUndefined;
+
+function isRegExp(re) {
+  return objectToString(re) === '[object RegExp]';
+}
+exports.isRegExp = isRegExp;
+
+function isObject(arg) {
+  return typeof arg === 'object' && arg !== null;
+}
+exports.isObject = isObject;
+
+function isDate(d) {
+  return objectToString(d) === '[object Date]';
+}
+exports.isDate = isDate;
+
+function isError(e) {
+  return (objectToString(e) === '[object Error]' || e instanceof Error);
+}
+exports.isError = isError;
+
+function isFunction(arg) {
+  return typeof arg === 'function';
+}
+exports.isFunction = isFunction;
+
+function isPrimitive(arg) {
+  return arg === null ||
+         typeof arg === 'boolean' ||
+         typeof arg === 'number' ||
+         typeof arg === 'string' ||
+         typeof arg === 'symbol' ||  // ES6 symbol
+         typeof arg === 'undefined';
+}
+exports.isPrimitive = isPrimitive;
+
+exports.isBuffer = Buffer.isBuffer;
+
+function objectToString(o) {
+  return Object.prototype.toString.call(o);
+}
+
+}).call(this,{"isBuffer":require("../../../../../../../../../../AppData/Roaming/npm/node_modules/browserify/node_modules/is-buffer/index.js")})
+},{"../../../../../../../../../../AppData/Roaming/npm/node_modules/browserify/node_modules/is-buffer/index.js":8}],49:[function(require,module,exports){
+arguments[4][7][0].apply(exports,arguments)
+},{"dup":7}],50:[function(require,module,exports){
+arguments[4][9][0].apply(exports,arguments)
+},{"dup":9}],51:[function(require,module,exports){
 /*
  * Copyright (c) 2017-2018 Digital Bazaar, Inc. All rights reserved.
  */
@@ -6285,7 +6725,7 @@ module.exports = class ActiveContextCache {
   }
 };
 
-},{"./util":63}],43:[function(require,module,exports){
+},{"./util":72}],52:[function(require,module,exports){
 /*
  * Copyright (c) 2017 Digital Bazaar, Inc. All rights reserved.
  */
@@ -6310,7 +6750,7 @@ module.exports = class JsonLdError extends Error {
   }
 };
 
-},{}],44:[function(require,module,exports){
+},{}],53:[function(require,module,exports){
 /*
  * Copyright (c) 2017 Digital Bazaar, Inc. All rights reserved.
  */
@@ -6364,7 +6804,7 @@ module.exports = jsonld => {
   return JsonLdProcessor;
 };
 
-},{}],45:[function(require,module,exports){
+},{}],54:[function(require,module,exports){
 /*
  * Copyright (c) 2017 Digital Bazaar, Inc. All rights reserved.
  */
@@ -6373,7 +6813,7 @@ module.exports = jsonld => {
 // TODO: move `NQuads` to its own package
 module.exports = require('rdf-canonize').NQuads;
 
-},{"rdf-canonize":99}],46:[function(require,module,exports){
+},{"rdf-canonize":99}],55:[function(require,module,exports){
 /*
  * Copyright (c) 2017 Digital Bazaar, Inc. All rights reserved.
  */
@@ -6515,7 +6955,7 @@ function getXMLSerializerClass() {
   return XMLSerializer;
 }
 
-},{"./constants":49,"xmldom":2}],47:[function(require,module,exports){
+},{"./constants":58,"xmldom":2}],56:[function(require,module,exports){
 /*
  * Copyright (c) 2017 Digital Bazaar, Inc. All rights reserved.
  */
@@ -6560,7 +7000,7 @@ module.exports = class RequestQueue {
   }
 };
 
-},{"./util":63}],48:[function(require,module,exports){
+},{"./util":72}],57:[function(require,module,exports){
 /*
  * Copyright (c) 2017 Digital Bazaar, Inc. All rights reserved.
  */
@@ -7673,7 +8113,7 @@ function _checkNestProperty(activeCtx, nestProperty, options) {
   }
 }
 
-},{"./JsonLdError":43,"./context":50,"./graphTypes":57,"./types":61,"./url":62,"./util":63}],49:[function(require,module,exports){
+},{"./JsonLdError":52,"./context":59,"./graphTypes":66,"./types":70,"./url":71,"./util":72}],58:[function(require,module,exports){
 /*
  * Copyright (c) 2017 Digital Bazaar, Inc. All rights reserved.
  */
@@ -7704,7 +8144,7 @@ module.exports = {
   XSD_STRING: XSD + 'string',
 };
 
-},{}],50:[function(require,module,exports){
+},{}],59:[function(require,module,exports){
 /*
  * Copyright (c) 2017 Digital Bazaar, Inc. All rights reserved.
  */
@@ -9073,7 +9513,7 @@ function _deepCompare(x1, x2) {
   return true;
 }
 
-},{"./ActiveContextCache":42,"./JsonLdError":43,"./types":61,"./url":62,"./util":63}],51:[function(require,module,exports){
+},{"./ActiveContextCache":51,"./JsonLdError":52,"./types":70,"./url":71,"./util":72}],60:[function(require,module,exports){
 /*
  * Copyright (c) 2017 Digital Bazaar, Inc. All rights reserved.
  */
@@ -9239,7 +9679,7 @@ function _request(request, options) {
   });
 }
 
-},{"../JsonLdError":43,"../RequestQueue":47,"../constants":49,"../util":63,"http":2,"request":2}],52:[function(require,module,exports){
+},{"../JsonLdError":52,"../RequestQueue":56,"../constants":58,"../util":72,"http":2,"request":2}],61:[function(require,module,exports){
 /*
  * Copyright (c) 2017 Digital Bazaar, Inc. All rights reserved.
  */
@@ -9347,7 +9787,7 @@ function _get(xhr, url, headers) {
   });
 }
 
-},{"../JsonLdError":43,"../RequestQueue":47,"../constants":49,"../util":63}],53:[function(require,module,exports){
+},{"../JsonLdError":52,"../RequestQueue":56,"../constants":58,"../util":72}],62:[function(require,module,exports){
 /*
  * Copyright (c) 2017 Digital Bazaar, Inc. All rights reserved.
  */
@@ -10308,7 +10748,7 @@ function _expandIndexMap(
   return rval;
 }
 
-},{"./JsonLdError":43,"./context":50,"./graphTypes":57,"./types":61,"./url":62,"./util":63}],54:[function(require,module,exports){
+},{"./JsonLdError":52,"./context":59,"./graphTypes":66,"./types":70,"./url":71,"./util":72}],63:[function(require,module,exports){
 /*
  * Copyright (c) 2017 Digital Bazaar, Inc. All rights reserved.
  */
@@ -10348,7 +10788,7 @@ api.flatten = input => {
   return flattened;
 };
 
-},{"./graphTypes":57,"./nodeMap":59}],55:[function(require,module,exports){
+},{"./graphTypes":66,"./nodeMap":68}],64:[function(require,module,exports){
 /*
  * Copyright (c) 2017 Digital Bazaar, Inc. All rights reserved.
  */
@@ -11005,7 +11445,7 @@ function _valueMatch(pattern, value) {
   return true;
 }
 
-},{"./JsonLdError":43,"./context":50,"./graphTypes":57,"./nodeMap":59,"./types":61,"./util":63}],56:[function(require,module,exports){
+},{"./JsonLdError":52,"./context":59,"./graphTypes":66,"./nodeMap":68,"./types":70,"./util":72}],65:[function(require,module,exports){
 /*
  * Copyright (c) 2017 Digital Bazaar, Inc. All rights reserved.
  */
@@ -11336,7 +11776,7 @@ function _RDFToObject(o, useNativeTypes) {
   return rval;
 }
 
-},{"./JsonLdError":43,"./constants":49,"./graphTypes":57,"./types":61,"./util":63}],57:[function(require,module,exports){
+},{"./JsonLdError":52,"./constants":58,"./graphTypes":66,"./types":70,"./util":72}],66:[function(require,module,exports){
 /*
  * Copyright (c) 2017 Digital Bazaar, Inc. All rights reserved.
  */
@@ -11457,7 +11897,7 @@ api.isBlankNode = v => {
   return false;
 };
 
-},{"./types":61}],58:[function(require,module,exports){
+},{"./types":70}],67:[function(require,module,exports){
 (function (process,global){
 /**
  * A JavaScript implementation of the JSON-LD API.
@@ -12536,7 +12976,7 @@ wrapper(factory);
 module.exports = factory;
 
 }).call(this,require('_process'),typeof global !== "undefined" ? global : typeof self !== "undefined" ? self : typeof window !== "undefined" ? window : {})
-},{"./JsonLdError":43,"./JsonLdProcessor":44,"./NQuads":45,"./Rdfa":46,"./RequestQueue":47,"./compact":48,"./context":50,"./documentLoaders/node":51,"./documentLoaders/xhr":52,"./expand":53,"./flatten":54,"./frame":55,"./fromRdf":56,"./graphTypes":57,"./nodeMap":59,"./toRdf":60,"./types":61,"./url":62,"./util":63,"_process":11,"rdf-canonize":99}],59:[function(require,module,exports){
+},{"./JsonLdError":52,"./JsonLdProcessor":53,"./NQuads":54,"./Rdfa":55,"./RequestQueue":56,"./compact":57,"./context":59,"./documentLoaders/node":60,"./documentLoaders/xhr":61,"./expand":62,"./flatten":63,"./frame":64,"./fromRdf":65,"./graphTypes":66,"./nodeMap":68,"./toRdf":69,"./types":70,"./url":71,"./util":72,"_process":11,"rdf-canonize":99}],68:[function(require,module,exports){
 /*
  * Copyright (c) 2017 Digital Bazaar, Inc. All rights reserved.
  */
@@ -12817,7 +13257,7 @@ api.mergeNodeMaps = graphs => {
   return defaultGraph;
 };
 
-},{"./JsonLdError":43,"./context":50,"./graphTypes":57,"./types":61,"./util":63}],60:[function(require,module,exports){
+},{"./JsonLdError":52,"./context":59,"./graphTypes":66,"./types":70,"./util":72}],69:[function(require,module,exports){
 /*
  * Copyright (c) 2017 Digital Bazaar, Inc. All rights reserved.
  */
@@ -13090,7 +13530,7 @@ function _objectToRDF(item, issuer, dataset, graphTerm) {
   return object;
 }
 
-},{"./constants":49,"./context":50,"./graphTypes":57,"./nodeMap":59,"./types":61,"./url":62,"./util":63,"canonicalize":68}],61:[function(require,module,exports){
+},{"./constants":58,"./context":59,"./graphTypes":66,"./nodeMap":68,"./types":70,"./url":71,"./util":72,"canonicalize":46}],70:[function(require,module,exports){
 /*
  * Copyright (c) 2017 Digital Bazaar, Inc. All rights reserved.
  */
@@ -13183,7 +13623,7 @@ api.isString = v => (typeof v === 'string' ||
  */
 api.isUndefined = v => typeof v === 'undefined';
 
-},{}],62:[function(require,module,exports){
+},{}],71:[function(require,module,exports){
 /*
  * Copyright (c) 2017 Digital Bazaar, Inc. All rights reserved.
  */
@@ -13486,7 +13926,7 @@ api.isAbsolute = v => types.isString(v) && isAbsoluteRegex.test(v);
  */
 api.isRelative = v => types.isString(v);
 
-},{"./types":61}],63:[function(require,module,exports){
+},{"./types":70}],72:[function(require,module,exports){
 (function (process,setImmediate){
 /*
  * Copyright (c) 2017 Digital Bazaar, Inc. All rights reserved.
@@ -14004,441 +14444,7 @@ function _labelBlankNodes(issuer, element) {
 }
 
 }).call(this,require('_process'),require("timers").setImmediate)
-},{"./JsonLdError":43,"./graphTypes":57,"./types":61,"_process":11,"rdf-canonize":99,"timers":30}],64:[function(require,module,exports){
-arguments[4][40][0].apply(exports,arguments)
-},{"./lib/ParserStream":65,"@rdfjs/sink":66,"dup":40}],65:[function(require,module,exports){
-const rdf = require('@rdfjs/data-model')
-const Readable = require('readable-stream')
-const N3 = require('n3')
-
-class ParserStream extends Readable {
-  constructor (input, {baseIRI = '', factory = rdf} = {}) {
-    super({
-      objectMode: true,
-      read: () => {}
-    })
-
-    const parser = new N3.Parser({baseIRI, factory})
-
-    parser.parse(input, (err, quad, prefixes) => {
-      if (err) {
-        return this.emit('error', err)
-      }
-
-      if (prefixes) {
-        Object.keys(prefixes).forEach((prefix) => {
-          this.emit('prefix', prefix, factory.namedNode(prefixes[prefix]))
-        })
-      }
-
-      this.push(quad || null)
-    })
-  }
-}
-
-module.exports = ParserStream
-
-},{"@rdfjs/data-model":32,"n3":82,"readable-stream":113}],66:[function(require,module,exports){
-class Sink {
-  constructor (Impl, options) {
-    this.Impl = Impl
-    this.options = options
-  }
-
-  import (input, options) {
-    const output = new this.Impl(input, Object.assign({}, this.options, options))
-
-    input.on('end', () => {
-      if (!output.readable) {
-        output.emit('end')
-      }
-    })
-
-    input.on('error', (err) => {
-      output.emit('error', err)
-    })
-
-    return output
-  }
-}
-
-module.exports = Sink
-
-},{}],67:[function(require,module,exports){
-(function (Buffer){
-var toString = Object.prototype.toString
-
-var isModern = (
-  typeof Buffer.alloc === 'function' &&
-  typeof Buffer.allocUnsafe === 'function' &&
-  typeof Buffer.from === 'function'
-)
-
-function isArrayBuffer (input) {
-  return toString.call(input).slice(8, -1) === 'ArrayBuffer'
-}
-
-function fromArrayBuffer (obj, byteOffset, length) {
-  byteOffset >>>= 0
-
-  var maxLength = obj.byteLength - byteOffset
-
-  if (maxLength < 0) {
-    throw new RangeError("'offset' is out of bounds")
-  }
-
-  if (length === undefined) {
-    length = maxLength
-  } else {
-    length >>>= 0
-
-    if (length > maxLength) {
-      throw new RangeError("'length' is out of bounds")
-    }
-  }
-
-  return isModern
-    ? Buffer.from(obj.slice(byteOffset, byteOffset + length))
-    : new Buffer(new Uint8Array(obj.slice(byteOffset, byteOffset + length)))
-}
-
-function fromString (string, encoding) {
-  if (typeof encoding !== 'string' || encoding === '') {
-    encoding = 'utf8'
-  }
-
-  if (!Buffer.isEncoding(encoding)) {
-    throw new TypeError('"encoding" must be a valid string encoding')
-  }
-
-  return isModern
-    ? Buffer.from(string, encoding)
-    : new Buffer(string, encoding)
-}
-
-function bufferFrom (value, encodingOrOffset, length) {
-  if (typeof value === 'number') {
-    throw new TypeError('"value" argument must not be a number')
-  }
-
-  if (isArrayBuffer(value)) {
-    return fromArrayBuffer(value, encodingOrOffset, length)
-  }
-
-  if (typeof value === 'string') {
-    return fromString(value, encodingOrOffset)
-  }
-
-  return isModern
-    ? Buffer.from(value)
-    : new Buffer(value)
-}
-
-module.exports = bufferFrom
-
-}).call(this,require("buffer").Buffer)
-},{"buffer":3}],68:[function(require,module,exports){
-/* jshint esversion: 6 */
-/* jslint node: true */
-'use strict';
-
-module.exports = function (object) {
-  return serialize(object);
-
-  function serialize (object) {
-    if (object === null || typeof object !== 'object' || object.toJSON != null) {
-      return JSON.stringify(object);
-    }
-    if (Array.isArray(object) && object.length === 0) {
-      return '[]';
-    }
-    if (Array.isArray(object) && object.length === 1) {
-      return '[' + serialize(object[0]) + ']';
-    }
-    if (Array.isArray(object)) {
-      return '[' + object.reduce((t, cv, ci) => {
-        t = (ci === 1 ? serialize(t) : t);
-        return t + ',' + serialize(cv);
-      }) + ']';
-    }
-    const keys = Object.keys(object);
-    if (keys.length === 0) {
-      return '{}';
-    }
-    if (keys.length === 1) {
-      return '{' + serialize(keys[0]) + ':' + serialize(object[keys[0]]) + '}';
-    }
-    return '{' + keys.sort().reduce((t, cv, ci) => {
-      t = (ci === 1 ? serialize(t) + ':' + serialize(object[t]) : t);
-      return t + ',' + serialize(cv) + ':' + serialize(object[cv]);
-    }) + '}';
-  }
-};
-
-},{}],69:[function(require,module,exports){
-(function (Buffer){
-var Writable = require('readable-stream').Writable
-var inherits = require('inherits')
-var bufferFrom = require('buffer-from')
-
-if (typeof Uint8Array === 'undefined') {
-  var U8 = require('typedarray').Uint8Array
-} else {
-  var U8 = Uint8Array
-}
-
-function ConcatStream(opts, cb) {
-  if (!(this instanceof ConcatStream)) return new ConcatStream(opts, cb)
-
-  if (typeof opts === 'function') {
-    cb = opts
-    opts = {}
-  }
-  if (!opts) opts = {}
-
-  var encoding = opts.encoding
-  var shouldInferEncoding = false
-
-  if (!encoding) {
-    shouldInferEncoding = true
-  } else {
-    encoding =  String(encoding).toLowerCase()
-    if (encoding === 'u8' || encoding === 'uint8') {
-      encoding = 'uint8array'
-    }
-  }
-
-  Writable.call(this, { objectMode: true })
-
-  this.encoding = encoding
-  this.shouldInferEncoding = shouldInferEncoding
-
-  if (cb) this.on('finish', function () { cb(this.getBody()) })
-  this.body = []
-}
-
-module.exports = ConcatStream
-inherits(ConcatStream, Writable)
-
-ConcatStream.prototype._write = function(chunk, enc, next) {
-  this.body.push(chunk)
-  next()
-}
-
-ConcatStream.prototype.inferEncoding = function (buff) {
-  var firstBuffer = buff === undefined ? this.body[0] : buff;
-  if (Buffer.isBuffer(firstBuffer)) return 'buffer'
-  if (typeof Uint8Array !== 'undefined' && firstBuffer instanceof Uint8Array) return 'uint8array'
-  if (Array.isArray(firstBuffer)) return 'array'
-  if (typeof firstBuffer === 'string') return 'string'
-  if (Object.prototype.toString.call(firstBuffer) === "[object Object]") return 'object'
-  return 'buffer'
-}
-
-ConcatStream.prototype.getBody = function () {
-  if (!this.encoding && this.body.length === 0) return []
-  if (this.shouldInferEncoding) this.encoding = this.inferEncoding()
-  if (this.encoding === 'array') return arrayConcat(this.body)
-  if (this.encoding === 'string') return stringConcat(this.body)
-  if (this.encoding === 'buffer') return bufferConcat(this.body)
-  if (this.encoding === 'uint8array') return u8Concat(this.body)
-  return this.body
-}
-
-var isArray = Array.isArray || function (arr) {
-  return Object.prototype.toString.call(arr) == '[object Array]'
-}
-
-function isArrayish (arr) {
-  return /Array\]$/.test(Object.prototype.toString.call(arr))
-}
-
-function isBufferish (p) {
-  return typeof p === 'string' || isArrayish(p) || (p && typeof p.subarray === 'function')
-}
-
-function stringConcat (parts) {
-  var strings = []
-  var needsToString = false
-  for (var i = 0; i < parts.length; i++) {
-    var p = parts[i]
-    if (typeof p === 'string') {
-      strings.push(p)
-    } else if (Buffer.isBuffer(p)) {
-      strings.push(p)
-    } else if (isBufferish(p)) {
-      strings.push(bufferFrom(p))
-    } else {
-      strings.push(bufferFrom(String(p)))
-    }
-  }
-  if (Buffer.isBuffer(parts[0])) {
-    strings = Buffer.concat(strings)
-    strings = strings.toString('utf8')
-  } else {
-    strings = strings.join('')
-  }
-  return strings
-}
-
-function bufferConcat (parts) {
-  var bufs = []
-  for (var i = 0; i < parts.length; i++) {
-    var p = parts[i]
-    if (Buffer.isBuffer(p)) {
-      bufs.push(p)
-    } else if (isBufferish(p)) {
-      bufs.push(bufferFrom(p))
-    } else {
-      bufs.push(bufferFrom(String(p)))
-    }
-  }
-  return Buffer.concat(bufs)
-}
-
-function arrayConcat (parts) {
-  var res = []
-  for (var i = 0; i < parts.length; i++) {
-    res.push.apply(res, parts[i])
-  }
-  return res
-}
-
-function u8Concat (parts) {
-  var len = 0
-  for (var i = 0; i < parts.length; i++) {
-    if (typeof parts[i] === 'string') {
-      parts[i] = bufferFrom(parts[i])
-    }
-    len += parts[i].length
-  }
-  var u8 = new U8(len)
-  for (var i = 0, offset = 0; i < parts.length; i++) {
-    var part = parts[i]
-    for (var j = 0; j < part.length; j++) {
-      u8[offset++] = part[j]
-    }
-  }
-  return u8
-}
-
-}).call(this,require("buffer").Buffer)
-},{"buffer":3,"buffer-from":67,"inherits":71,"readable-stream":113,"typedarray":119}],70:[function(require,module,exports){
-(function (Buffer){
-// Copyright Joyent, Inc. and other Node contributors.
-//
-// Permission is hereby granted, free of charge, to any person obtaining a
-// copy of this software and associated documentation files (the
-// "Software"), to deal in the Software without restriction, including
-// without limitation the rights to use, copy, modify, merge, publish,
-// distribute, sublicense, and/or sell copies of the Software, and to permit
-// persons to whom the Software is furnished to do so, subject to the
-// following conditions:
-//
-// The above copyright notice and this permission notice shall be included
-// in all copies or substantial portions of the Software.
-//
-// THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
-// OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
-// MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN
-// NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM,
-// DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR
-// OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE
-// USE OR OTHER DEALINGS IN THE SOFTWARE.
-
-// NOTE: These type checking functions intentionally don't use `instanceof`
-// because it is fragile and can be easily faked with `Object.create()`.
-
-function isArray(arg) {
-  if (Array.isArray) {
-    return Array.isArray(arg);
-  }
-  return objectToString(arg) === '[object Array]';
-}
-exports.isArray = isArray;
-
-function isBoolean(arg) {
-  return typeof arg === 'boolean';
-}
-exports.isBoolean = isBoolean;
-
-function isNull(arg) {
-  return arg === null;
-}
-exports.isNull = isNull;
-
-function isNullOrUndefined(arg) {
-  return arg == null;
-}
-exports.isNullOrUndefined = isNullOrUndefined;
-
-function isNumber(arg) {
-  return typeof arg === 'number';
-}
-exports.isNumber = isNumber;
-
-function isString(arg) {
-  return typeof arg === 'string';
-}
-exports.isString = isString;
-
-function isSymbol(arg) {
-  return typeof arg === 'symbol';
-}
-exports.isSymbol = isSymbol;
-
-function isUndefined(arg) {
-  return arg === void 0;
-}
-exports.isUndefined = isUndefined;
-
-function isRegExp(re) {
-  return objectToString(re) === '[object RegExp]';
-}
-exports.isRegExp = isRegExp;
-
-function isObject(arg) {
-  return typeof arg === 'object' && arg !== null;
-}
-exports.isObject = isObject;
-
-function isDate(d) {
-  return objectToString(d) === '[object Date]';
-}
-exports.isDate = isDate;
-
-function isError(e) {
-  return (objectToString(e) === '[object Error]' || e instanceof Error);
-}
-exports.isError = isError;
-
-function isFunction(arg) {
-  return typeof arg === 'function';
-}
-exports.isFunction = isFunction;
-
-function isPrimitive(arg) {
-  return arg === null ||
-         typeof arg === 'boolean' ||
-         typeof arg === 'number' ||
-         typeof arg === 'string' ||
-         typeof arg === 'symbol' ||  // ES6 symbol
-         typeof arg === 'undefined';
-}
-exports.isPrimitive = isPrimitive;
-
-exports.isBuffer = Buffer.isBuffer;
-
-function objectToString(o) {
-  return Object.prototype.toString.call(o);
-}
-
-}).call(this,{"isBuffer":require("../../../../../../../../../../AppData/Roaming/npm/node_modules/browserify/node_modules/is-buffer/index.js")})
-},{"../../../../../../../../../../AppData/Roaming/npm/node_modules/browserify/node_modules/is-buffer/index.js":8}],71:[function(require,module,exports){
-arguments[4][7][0].apply(exports,arguments)
-},{"dup":7}],72:[function(require,module,exports){
-arguments[4][9][0].apply(exports,arguments)
-},{"dup":9}],73:[function(require,module,exports){
+},{"./JsonLdError":52,"./graphTypes":66,"./types":70,"_process":11,"rdf-canonize":99,"timers":30}],73:[function(require,module,exports){
 "use strict";
 
 Object.defineProperty(exports, "__esModule", {
@@ -18830,7 +18836,7 @@ util.ByteStringBuffer.prototype.fillWithByte = function(b, n) {
 /**
  * Puts bytes in this buffer.
  *
- * @param bytes the bytes (as a UTF-8 encoded string) to put.
+ * @param bytes the bytes (as a binary encoded string) to put.
  *
  * @return this buffer.
  */
@@ -19118,11 +19124,13 @@ util.ByteStringBuffer.prototype.getSignedInt = function(n) {
 };
 
 /**
- * Reads bytes out into a UTF-8 string and clears them from the buffer.
+ * Reads bytes out as a binary encoded string and clears them from the
+ * buffer. Note that the resulting string is binary encoded (in node.js this
+ * encoding is referred to as `binary`, it is *not* `utf8`).
  *
  * @param count the number of bytes to read, undefined or null for all.
  *
- * @return a UTF-8 string of bytes.
+ * @return a binary encoded string of bytes.
  */
 util.ByteStringBuffer.prototype.getBytes = function(count) {
   var rval;
@@ -19142,12 +19150,12 @@ util.ByteStringBuffer.prototype.getBytes = function(count) {
 };
 
 /**
- * Gets a UTF-8 encoded string of the bytes from this buffer without modifying
- * the read pointer.
+ * Gets a binary encoded string of the bytes from this buffer without
+ * modifying the read pointer.
  *
  * @param count the number of bytes to get, omit to get all.
  *
- * @return a string full of UTF-8 encoded characters.
+ * @return a string full of binary encoded characters.
  */
 util.ByteStringBuffer.prototype.bytes = function(count) {
   return (typeof(count) === 'undefined' ?
@@ -19779,11 +19787,12 @@ util.DataBuffer.prototype.getSignedInt = function(n) {
 };
 
 /**
- * Reads bytes out into a UTF-8 string and clears them from the buffer.
+ * Reads bytes out as a binary encoded string and clears them from the
+ * buffer.
  *
  * @param count the number of bytes to read, undefined or null for all.
  *
- * @return a UTF-8 string of bytes.
+ * @return a binary encoded string of bytes.
  */
 util.DataBuffer.prototype.getBytes = function(count) {
   // TODO: deprecate this method, it is poorly named and
@@ -19806,12 +19815,12 @@ util.DataBuffer.prototype.getBytes = function(count) {
 };
 
 /**
- * Gets a UTF-8 encoded string of the bytes from this buffer without modifying
- * the read pointer.
+ * Gets a binary encoded string of the bytes from this buffer without
+ * modifying the read pointer.
  *
  * @param count the number of bytes to get, omit to get all.
  *
- * @return a string full of UTF-8 encoded characters.
+ * @return a string full of binary encoded characters.
  */
 util.DataBuffer.prototype.bytes = function(count) {
   // TODO: deprecate this method, it is poorly named, add "getString()"
@@ -19958,12 +19967,13 @@ util.DataBuffer.prototype.toString = function(encoding) {
 /** End Buffer w/UInt8Array backing */
 
 /**
- * Creates a buffer that stores bytes. A value may be given to put into the
- * buffer that is either a string of bytes or a UTF-16 string that will
- * be encoded using UTF-8 (to do the latter, specify 'utf8' as the encoding).
+ * Creates a buffer that stores bytes. A value may be given to populate the
+ * buffer with data. This value can either be string of encoded bytes or a
+ * regular string of characters. When passing a string of binary encoded
+ * bytes, the encoding `raw` should be given. This is also the default. When
+ * passing a string of characters, the encoding `utf8` should be given.
  *
- * @param [input] the bytes to wrap (as a string) or a UTF-16 string to encode
- *          as UTF-8.
+ * @param [input] a string with encoded bytes to store in the buffer.
  * @param [encoding] (default: 'raw', other: 'utf8').
  */
 util.createBuffer = function(input, encoding) {
@@ -20192,24 +20202,27 @@ util.decode64 = function(input) {
 };
 
 /**
- * UTF-8 encodes the given UTF-16 encoded string (a standard JavaScript
- * string). Non-ASCII characters will be encoded as multiple bytes according
- * to UTF-8.
+ * Encodes the given string of characters (a standard JavaScript
+ * string) as a binary encoded string where the bytes represent
+ * a UTF-8 encoded string of characters. Non-ASCII characters will be
+ * encoded as multiple bytes according to UTF-8.
  *
- * @param str the string to encode.
+ * @param str a standard string of characters to encode.
  *
- * @return the UTF-8 encoded string.
+ * @return the binary encoded string.
  */
 util.encodeUtf8 = function(str) {
   return unescape(encodeURIComponent(str));
 };
 
 /**
- * Decodes a UTF-8 encoded string into a UTF-16 string.
+ * Decodes a binary encoded string that contains bytes that
+ * represent a UTF-8 encoded string of characters -- into a
+ * string of characters (a standard JavaScript string).
  *
- * @param str the string to decode.
+ * @param str the binary encoded string to decode.
  *
- * @return the UTF-16 encoded string (standard JavaScript string).
+ * @return the resulting standard string of characters.
  */
 util.decodeUtf8 = function(str) {
   return decodeURIComponent(escape(str));
@@ -22661,8 +22674,9 @@ module.exports = class URDNA2015 extends AsyncAlgorithm {
                   // is greater than or equal to the length of chosen path and
                   // path is lexicographically greater than chosen path, then
                   // skip to the next permutation.
-                  if(chosenPath.length !== 0 &&
-                    path.length >= chosenPath.length && path > chosenPath) {
+                  // Note: Comparing path length to chosen path length can be
+                  // optimized away; only compare lexicographically.
+                  if(chosenPath.length !== 0 && path > chosenPath) {
                     // FIXME: may cause inaccurate total depth calculation
                     return nextPermutation();
                   }
@@ -22695,8 +22709,9 @@ module.exports = class URDNA2015 extends AsyncAlgorithm {
                     // path is greater than or equal to the length of chosen
                     // path and path is lexicographically greater than chosen
                     // path, then skip to the next permutation.
-                    if(chosenPath.length !== 0 &&
-                      path.length >= chosenPath.length && path > chosenPath) {
+                    // Note: Comparing path length to chosen path length can be
+                    // optimized away; only compare lexicographically.
+                    if(chosenPath.length !== 0 && path > chosenPath) {
                       // FIXME: may cause inaccurate total depth calculation
                       return nextPermutation();
                     }
@@ -23163,8 +23178,9 @@ module.exports = class URDNA2015Sync {
           // is greater than or equal to the length of chosen path and
           // path is lexicographically greater than chosen path, then
           // skip to the next permutation.
-          if(chosenPath.length !== 0 &&
-            path.length >= chosenPath.length && path > chosenPath) {
+          // Note: Comparing path length to chosen path length can be optimized
+          // away; only compare lexicographically.
+          if(chosenPath.length !== 0 && path > chosenPath) {
             nextPermutation = true;
             break;
           }
@@ -23197,8 +23213,9 @@ module.exports = class URDNA2015Sync {
           // is greater than or equal to the length of chosen path and
           // path is lexicographically greater than chosen path, then
           // skip to the next permutation.
-          if(chosenPath.length !== 0 &&
-            path.length >= chosenPath.length && path > chosenPath) {
+          // Note: Comparing path length to chosen path length can be optimized
+          // away; only compare lexicographically.
+          if(chosenPath.length !== 0 && path > chosenPath) {
             nextPermutation = true;
             break;
           }
@@ -24459,15 +24476,15 @@ var ParseType;
 
 },{"./ParseError":102,"@rdfjs/data-model":32,"relative-to-absolute-iri":114,"sax":116,"stream":28}],104:[function(require,module,exports){
 arguments[4][13][0].apply(exports,arguments)
-},{"./_stream_readable":106,"./_stream_writable":108,"core-util-is":70,"dup":13,"inherits":71,"process-nextick-args":89}],105:[function(require,module,exports){
+},{"./_stream_readable":106,"./_stream_writable":108,"core-util-is":48,"dup":13,"inherits":49,"process-nextick-args":89}],105:[function(require,module,exports){
 arguments[4][14][0].apply(exports,arguments)
-},{"./_stream_transform":107,"core-util-is":70,"dup":14,"inherits":71}],106:[function(require,module,exports){
+},{"./_stream_transform":107,"core-util-is":48,"dup":14,"inherits":49}],106:[function(require,module,exports){
 arguments[4][15][0].apply(exports,arguments)
-},{"./_stream_duplex":104,"./internal/streams/BufferList":109,"./internal/streams/destroy":110,"./internal/streams/stream":111,"_process":11,"core-util-is":70,"dup":15,"events":5,"inherits":71,"isarray":72,"process-nextick-args":89,"safe-buffer":112,"string_decoder/":117,"util":2}],107:[function(require,module,exports){
+},{"./_stream_duplex":104,"./internal/streams/BufferList":109,"./internal/streams/destroy":110,"./internal/streams/stream":111,"_process":11,"core-util-is":48,"dup":15,"events":5,"inherits":49,"isarray":50,"process-nextick-args":89,"safe-buffer":112,"string_decoder/":117,"util":2}],107:[function(require,module,exports){
 arguments[4][16][0].apply(exports,arguments)
-},{"./_stream_duplex":104,"core-util-is":70,"dup":16,"inherits":71}],108:[function(require,module,exports){
+},{"./_stream_duplex":104,"core-util-is":48,"dup":16,"inherits":49}],108:[function(require,module,exports){
 arguments[4][17][0].apply(exports,arguments)
-},{"./_stream_duplex":104,"./internal/streams/destroy":110,"./internal/streams/stream":111,"_process":11,"core-util-is":70,"dup":17,"inherits":71,"process-nextick-args":89,"safe-buffer":112,"timers":30,"util-deprecate":120}],109:[function(require,module,exports){
+},{"./_stream_duplex":104,"./internal/streams/destroy":110,"./internal/streams/stream":111,"_process":11,"core-util-is":48,"dup":17,"inherits":49,"process-nextick-args":89,"safe-buffer":112,"timers":30,"util-deprecate":120}],109:[function(require,module,exports){
 arguments[4][18][0].apply(exports,arguments)
 },{"dup":18,"safe-buffer":112,"util":2}],110:[function(require,module,exports){
 arguments[4][19][0].apply(exports,arguments)
@@ -27031,7 +27048,7 @@ function processResource(store, resource) {
 
 module.exports = {obtainTriplestore};
 
-},{"./triplestore":123,"@rdfjs/parser-jsonld":40,"@rdfjs/parser-n3":64,"rdfxml-streaming-parser":101,"stream":28}],122:[function(require,module,exports){
+},{"./triplestore":123,"@rdfjs/parser-jsonld":40,"@rdfjs/parser-n3":42,"rdfxml-streaming-parser":101,"stream":28}],122:[function(require,module,exports){
 const browser = window.browser || window.chrome;
 const templatePath = "src/template.html";
 const scriptPath = "src/style.js";
