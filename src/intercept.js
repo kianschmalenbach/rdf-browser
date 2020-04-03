@@ -211,10 +211,14 @@ function modifyRequestHeader(details) {
  * @returns {{}|{responseHeaders: {name: string, value: string}[]}} The modified response header
  */
 function modifyResponseHeader(details) {
-    if (details.statusCode >= 400 || details.type !== "main_frame")
+    if (details.statusCode >= 400 || details.type !== "main_frame" || onList("blacklist", new URL(details.url)))
         return {};
-    if (onList("blacklist", new URL(details.url)))
+    if (details.statusCode >= 300) {
+        const target = details.responseHeaders.find(h => h.name.toLowerCase() === "location");
+        if (target)
+            browser.tabs.update({url: target.value});
         return {};
+    }
     const cl = details.responseHeaders.find(h => h.name.toLowerCase() === "content-length");
     if (cl) {
         const length = parseInt(cl.value);
