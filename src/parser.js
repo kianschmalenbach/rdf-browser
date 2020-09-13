@@ -7,9 +7,9 @@ const ts = require("./triplestore");
 const sortThreshold = 5000;
 let blankNodeOffset; //workaround for incremental blank node number assignment by parser
 
-function obtainTriplestore(inputStream, decoder, format, contentScript) {
+function obtainTriplestore(inputStream, decoder, format, contentScript, baseIRI) {
     return new Promise((resolve, reject) => {
-        const parser = getParser(format);
+        const parser = getParser(format, baseIRI);
         if (!parser)
             reject("Unsupported format");
         ts.getTriplestore(contentScript).then(store => {
@@ -83,21 +83,26 @@ function obtainTriplestore(inputStream, decoder, format, contentScript) {
     }
 }
 
-function getParser(format) {
+function getParser(format, baseIRI) {
+    let parser = null;
     switch (format) {
         case "application/rdf+xml":
-            return new RdfXmlParser();
+            parser = new RdfXmlParser();
+            break;
         case "application/ld+json":
-            return new JsonLdParser();
+            parser = new JsonLdParser({
+                baseIRI: baseIRI
+            });
+            break;
         case "application/trig":
         case "application/n-quads":
         case "application/n-triples":
         case "text/n3":
         case "text/turtle":
-            return new N3Parser();
-        default:
-            return null;
+            parser = new N3Parser();
+            break;
     }
+    return parser;
 }
 
 function processResource(store, resource) {

@@ -278,7 +278,8 @@ function rewriteResponse(cl, details, encoding, format) {
         return {};
     }
     const encoder = new TextEncoder("utf-8");
-    renderer.render(filter, decoder, format, options.contentScript).then(output => {
+    const baseIRI = details.url.toString();
+    renderer.render(filter, decoder, format, options.contentScript, baseIRI).then(output => {
         filter.write(encoder.encode(output));
     })
         .catch(e => {

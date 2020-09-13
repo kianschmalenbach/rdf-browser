@@ -25,14 +25,15 @@ function getAndRewritePayload() {
     });
 }
 
-async function render(stream, decoder, format, contentScript) {
+async function render(stream, decoder, format, contentScript, baseIRI) {
     if (contentScript) {
-        const triplestore = await parser.obtainTriplestore(stream, decoder, format, true);
+        baseIRI = new URL(location.href).searchParams.get("url");
+        const triplestore = await parser.obtainTriplestore(stream, decoder, format, true, baseIRI);
         return fillDocument(document, triplestore);
     } else {
         let template = await getTemplate();
         template = await injectScript(template);
-        const triplestore = await parser.obtainTriplestore(stream, decoder, format, false);
+        const triplestore = await parser.obtainTriplestore(stream, decoder, format, false, baseIRI);
         return createDocument(template, triplestore);
     }
 }
