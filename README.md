@@ -1,9 +1,9 @@
 # RDF Browser
 RDF Browser is a Firefox Add-on that requests RDF files and renders RDF files as Turtle documents with clickable links.
 
-| Current version: | 1.1.1 |
+| Current version: | 1.1.2 |
 | --- | --- |
-| Release date: | May 5, 2020 |
+| Release date: | Sep 13, 2020 |
 
 The Add-on is released and maintained by the [Chair of Technical Information Systems](https://www.ti.rw.fau.de) at [Friedrich-Alexander-University Erlangen-Nürnberg](https://www.fau.de).
 
@@ -17,7 +17,7 @@ https://addons.mozilla.org/en-US/firefox/addon/rdf-browser
 If the Add-on was successfully installed, documents such as the following should be rendered as a clickable Turtle document:
 
 - https://www.w3.org/1999/02/22-rdf-syntax-ns
-- https://schema.org/Thing
+- http://dublincore.org/specifications/dublin-core/dcmi-terms/dublin_core_terms.ttl
 - http://dbpedia.org/resource/Resource_Description_Framework
 
 ### Installing from Sources
@@ -34,7 +34,7 @@ https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/Temporary
 
 ## User Advice
 - To customize the Add-on behavior and the output style, go to the options page at [about:addons](about:addons) 
-- To see the raw format of any rendered RDF file, right click and select *View Page Source*
+- To see the raw format of any rendered RDF file, click *Ctrl + U*.
 
 ## Build
 To build the project, run the following:
@@ -46,6 +46,10 @@ $ npm run browserify
 ```
 
 ## Changelog
+### Version 1.1.2
+- Fixed redirection problems
+- Minor bug fixes
+
 ### Version 1.1.1
 - Automatic handling of redirection responses
 - Minor bug fixes
@@ -73,10 +77,6 @@ $ npm run browserify
 - Inclusion of popular prefixes in output
 - Prevention of XHR interference and content-length limit (10 MB)
 - Refactoring of triplestore for performance increase
-
-## Known issues
-- The Add-on does not make use of the browser cache for storing RDF files.
-- The rendering does not stop when the browser is navigated to a different page.
 
 ## Credits
 The Add-on uses the following libraries for parsing the displayed RDF files:
