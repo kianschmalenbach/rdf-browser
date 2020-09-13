@@ -76,10 +76,9 @@ function obtainTriplestore(inputStream, decoder, format, contentScript, baseIRI)
 
     function handleInput(value, transformStream) {
         let data = decoder.decode(value, {stream: true});
-        if (typeof data === "string") {
-            data = data.replace(new RegExp("<>", 'g'), "<#>"); //workaround for empty URIs
+        if (typeof data === "string")
+            //data = data.replace(new RegExp("<>", 'g'), "<#>"); //workaround for empty URIs - no longer needed?
             transformStream.push(data);
-        }
     }
 }
 

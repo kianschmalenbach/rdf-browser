@@ -226,10 +226,10 @@ class URI extends Resource {
                 this.representationLength = prefixText.length + postfixText.length;
         } else {
             html.setAttribute("class", "uri");
+            link.appendChild(document.createTextNode("<"));
             link.appendChild(document.createTextNode(this.value));
-            html.appendChild(document.createTextNode("<"));
+            link.appendChild(document.createTextNode(">"));
             html.appendChild(link);
-            html.appendChild(document.createTextNode(">"));
             if (forPrefix)
                 return html;
             if (this.html === null)

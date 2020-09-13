@@ -30427,10 +30427,9 @@ function obtainTriplestore(inputStream, decoder, format, contentScript, baseIRI)
 
     function handleInput(value, transformStream) {
         let data = decoder.decode(value, {stream: true});
-        if (typeof data === "string") {
-            data = data.replace(new RegExp("<>", 'g'), "<#>"); //workaround for empty URIs
+        if (typeof data === "string")
+            //data = data.replace(new RegExp("<>", 'g'), "<#>"); //workaround for empty URIs - no longer needed?
             transformStream.push(data);
-        }
     }
 }
 
@@ -30891,10 +30890,10 @@ class URI extends Resource {
                 this.representationLength = prefixText.length + postfixText.length;
         } else {
             html.setAttribute("class", "uri");
+            link.appendChild(document.createTextNode("<"));
             link.appendChild(document.createTextNode(this.value));
-            html.appendChild(document.createTextNode("<"));
+            link.appendChild(document.createTextNode(">"));
             html.appendChild(link);
-            html.appendChild(document.createTextNode(">"));
             if (forPrefix)
                 return html;
             if (this.html === null)
