@@ -80,6 +80,6 @@ $ npm run browserify
 
 ## Credits
 The Add-on uses the following libraries for parsing the displayed RDF files:
-- [@rdfjs/parser-jsonld](https://github.com/rdfjs-base/parser-jsonld) (JSON-LD)
 - [@rdfjs/parser-n3](https://github.com/rdfjs-base/parser-n3) (N3)
+- [jsonld-streaming-parser](https://github.com/rubensworks/jsonld-streaming-parser.js) (JSON-LD)
 - [rdfxml-streaming-parser](https://github.com/rdfjs/rdfxml-streaming-parser.js) (RDF/XML)

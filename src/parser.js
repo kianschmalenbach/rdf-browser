@@ -1,11 +1,10 @@
-const browser = window.browser || window.chrome;
 const RdfXmlParser = require("rdfxml-streaming-parser").RdfXmlParser;
-const JsonLdParser = require("@rdfjs/parser-jsonld");
+const JsonLdParser = require("jsonld-streaming-parser").JsonLdParser;
 const N3Parser = require("@rdfjs/parser-n3");
 const Transform = require("stream").Transform;
 const ts = require("./triplestore");
 const sortThreshold = 5000;
-let blankNodeOffset; //workaround for incremental blank node number assignment by parser
+let blankNodeOffset;
 
 function obtainTriplestore(inputStream, decoder, format, contentScript, baseIRI) {
     return new Promise((resolve, reject) => {
@@ -106,7 +105,7 @@ function getParser(format, baseIRI) {
 
 function processResource(store, resource) {
     const value = resource.value;
-    const resourceType = Object.getPrototypeOf(resource).termType;
+    const resourceType = Object.getPrototypeOf(resource).termType || resource.termType;
     if (!resourceType)
         return null;
     switch (resourceType) {
