@@ -1,4 +1,4 @@
-function onList(list, url, req = false) {
+function onList(options, list, url, req = false) {
     list = options[list].split("\n");
     for (const listKey in list) {
         if (list[listKey].startsWith('#'))
@@ -10,7 +10,7 @@ function onList(list, url, req = false) {
     return false;
 }
 
-function getListStatus(list, url) {
+function getListStatus(options, list, url) {
     list = options[list].split("\n");
     for (const entry in list) {
         let entryUrl = list[entry];
@@ -75,3 +75,5 @@ function checkListMatch(input, list, url, req = false) {
         return (bIndex === (backwards ? -1 : bs.length)) || wildcard;
     }
 }
+
+module.exports = {onList, getListStatus};

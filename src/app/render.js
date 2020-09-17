@@ -1,6 +1,7 @@
 const browser = window.browser || window.chrome;
-const templatePath = "src/template.html";
-const scriptPath = "src/style.js";
+let options;
+const templatePath = "src/view/template.html";
+const scriptPath = "src/lib/style.js";
 const parser = require("./parser");
 
 function getAndRewritePayload() {
@@ -26,6 +27,7 @@ function getAndRewritePayload() {
 }
 
 async function render(stream, decoder, format, contentScript, baseIRI) {
+    await getOptions();
     if (contentScript) {
         baseIRI = new URL(location.href).searchParams.get("url");
         const triplestore = await parser.obtainTriplestore(stream, decoder, format, true, baseIRI);
@@ -36,6 +38,15 @@ async function render(stream, decoder, format, contentScript, baseIRI) {
         const triplestore = await parser.obtainTriplestore(stream, decoder, format, false, baseIRI);
         return createDocument(template, triplestore);
     }
+}
+
+function getOptions() {
+    return new Promise(resolve => {
+        browser.storage.sync.get("options").then(result => {
+            options = result.options;
+            resolve();
+        });
+    });
 }
 
 function getTemplate() {

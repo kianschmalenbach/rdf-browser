@@ -142,7 +142,7 @@ function restoreDefault() {
 
 function toggleStyleSelection() {
     const selector = document.getElementById("styleTemplate");
-    const elements = document.querySelectorAll("*[dependsOn='styleTemplate'");
+    const elements = document.querySelectorAll("*[dependsOn='styleTemplate']");
     for (let i = 0; i < elements.length; ++i) {
         if (selector.value === "none")
             elements[i].setAttribute("disabled", "true");

@@ -19,13 +19,12 @@
   },
   "background": {
     "scripts": [
-      "src/intercept.js",
-      "src/static.js",
-      "src/render-browser.js"
+      "build/app.js",
+      "build/static.js"
     ]
   },
   "options_ui": {
-    "page": "src/options.html"
+    "page": "src/view/options.html"
   },
   "page_action": {
     "browser_style": true,
@@ -33,7 +32,7 @@
       "32": "img/icon32.svg"
     },
     "default_title": "RDF Browser",
-    "default_popup": "src/popup.html"
+    "default_popup": "src/view/popup.html"
   },
   "permissions": [
     "storage",
@@ -44,6 +43,6 @@
     "webNavigation"
   ],
   "web_accessible_resources": [
-    "src/template.html"
+    "src/view/template.html"
   ]
 }

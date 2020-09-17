@@ -1,9 +1,9 @@
 const browser = window.browser || window.chrome;
+const utils = require('./utils');
 const filter = {
     urls: ["<all_urls>"]
 };
-const commonPrefixSource = "https://prefix.cc/popular/all.file.json";
-const commonPrefixes = [];
+
 const defaultOptions = {
     json: true,
     n4: true,
@@ -194,7 +194,7 @@ function modifyRequestHeader(details) {
     if (formats.length === 0)
         return {};
     const url = new URL(details.url);
-    if (onList("blacklist", url, true))
+    if (utils.onList(options, "blacklist", url, true))
         return {};
     for (let header of details.requestHeaders) {
         if (header.name.toLowerCase() === "accept") {
@@ -211,11 +211,13 @@ function modifyRequestHeader(details) {
  * @returns {{}|{responseHeaders: {name: string, value: string}[]}} The modified response header
  */
 function modifyResponseHeader(details) {
-    if (details.statusCode >= 400 || details.type !== "main_frame" || onList("blacklist", new URL(details.url)))
+    if (details.statusCode >= 400 || details.type !== "main_frame" || utils.onList(options, "blacklist", new URL(details.url)))
         return {};
     if (details.statusCode >= 300) {
-        const location = details.responseHeaders.find(h => h.name.toLowerCase() === "location").value;
-        const target = new URL(location, details.url);
+        const locationHeader = details.responseHeaders.find(h => h.name.toLowerCase() === "location");
+        if (!locationHeader)
+            return {};
+        const target = new URL(locationHeader.value, details.url);
         if (target)
             browser.tabs.update(details.tabId, {url: target.toString()});
         return {};
@@ -226,7 +228,7 @@ function modifyResponseHeader(details) {
         if (length === undefined || length > options.maxsize)
             return {};
     }
-    const onWhitelist = onList("whitelist", new URL(details.url));
+    const onWhitelist = utils.onList(options, "whitelist", new URL(details.url));
     const contentType = details.responseHeaders.find(h => h.name.toLowerCase() === "content-type");
     let format = contentType ? getFormats().find(f => contentType.value.includes(f)) : false;
     let fileType = new URL(details.url).pathname.split(".");
@@ -262,7 +264,7 @@ function rewriteResponse(cl, details, encoding, format) {
     if (options.contentScript) {
         return {
             responseHeaders: responseHeaders,
-            redirectUrl: browser.runtime.getURL("src/template.html"
+            redirectUrl: browser.runtime.getURL("src/view/template.html"
                 + "?url=" + encodeURIComponent(details.url)
                 + "&encoding=" + encodeURIComponent(encoding)
                 + "&format=" + encodeURIComponent(format)
@@ -279,7 +281,7 @@ function rewriteResponse(cl, details, encoding, format) {
     }
     const encoder = new TextEncoder("utf-8");
     const baseIRI = details.url.toString();
-    renderer.render(filter, decoder, format, options.contentScript, baseIRI).then(output => {
+    app.render(filter, decoder, format, options.contentScript, baseIRI).then(output => {
         filter.write(encoder.encode(output));
     })
         .catch(e => {
@@ -297,18 +299,6 @@ function rewriteResponse(cl, details, encoding, format) {
 }
 
 /**
- * Initialize the list of common prefixes, obtained from <commonPrefixSource>
- */
-function initializeCommonPrefixes() {
-    fetch(commonPrefixSource).then(response => {
-        response.json().then(doc => {
-            for (const prefix in doc)
-                commonPrefixes.push([prefix, doc[prefix]]);
-        })
-    });
-}
-
-/**
  * Return the modified accept header as a string
  * @returns {string} The modified accept header
  */
@@ -322,10 +312,9 @@ function getNewHeader() {
 }
 
 /**
- * Initialize the list of common prefixes and add the listeners for modifying HTTP request and response headers
+ * Add the listeners for modifying HTTP request and response headers
  */
 function addListeners() {
-    initializeCommonPrefixes();
     browser.webRequest.onBeforeSendHeaders.addListener(modifyRequestHeader, filter, ["blocking", "requestHeaders"]);
     browser.webRequest.onHeadersReceived.addListener(modifyResponseHeader, filter, ["blocking", "responseHeaders"]);
     browser.webNavigation.onCommitted.addListener(details => {
@@ -337,14 +326,11 @@ function addListeners() {
             case "acceptHeader":
                 sendResponse(getNewHeader());
                 break;
-            case "commonPrefixes":
-                sendResponse(commonPrefixes);
-                break;
             case "defaultOptions":
                 sendResponse(defaultOptions);
                 break;
             case "listStatus":
-                sendResponse(getListStatus(message[1], message[2]));
+                sendResponse(utils.getListStatus(options, message[1], message[2]));
                 break;
         }
     });

@@ -1,10 +1,11 @@
-const browser = window.browser || window.chrome;
 const datatypes = {
     string: "http://www.w3.org/2001/XMLSchema#string",
     integer: "http://www.w3.org/2001/XMLSchema#integer",
     decimal: "http://www.w3.org/2001/XMLSchema#decimal",
     langString: "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
 };
+const commonPrefixSource = "https://prefix.cc/popular/all.file.json";
+const commonPrefixes = [];
 
 class Triplestore {
     constructor(commonPrefixes = []) {
@@ -360,10 +361,22 @@ class Prefix extends Resource {
     }
 }
 
+function getCommonPrefixes() {
+    return new Promise(resolve => {
+        fetch(commonPrefixSource).then(response => {
+            response.json().then(doc => {
+                for (const prefix in doc)
+                    commonPrefixes.push([prefix, doc[prefix]]);
+                resolve();
+            })
+        });
+    })
+}
+
 function getTriplestore(contentScript = true) {
     if (contentScript) {
         return new Promise(resolve => {
-            browser.runtime.sendMessage("commonPrefixes").then(commonPrefixes => {
+            getCommonPrefixes().then(() => {
                 resolve(new Triplestore(commonPrefixes));
             });
         })
@@ -373,5 +386,7 @@ function getTriplestore(contentScript = true) {
         });
     }
 }
+
+getCommonPrefixes().then(() => {});
 
 module.exports = {getTriplestore, Triplestore};
