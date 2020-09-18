@@ -4,9 +4,9 @@
 RDF Browser is a Firefox Add-on that requests RDF files and renders RDF files as Turtle documents with clickable links.
 
 
-| Current version: | 1.1.2 |
+| Current version: | 1.1.3 |
 | --- | --- |
-| Release date: | Sep 13, 2020 |
+| Release date: | Sep 18, 2020 |
 
 The Add-on is released and maintained by the [Chair of Technical Information Systems](https://www.ti.rw.fau.de) at [Friedrich-Alexander-University Erlangen-Nürnberg](https://www.fau.de).
 
@@ -24,7 +24,7 @@ If the Add-on was successfully installed, documents such as the following should
 - http://dbpedia.org/resource/Resource_Description_Framework
 
 ### Installing from Sources
-To install the Add-on directly from sources, clone this repository and follow the instructions on the following page:
+To install the Add-on directly from sources, clone this repository, build the project (see below), and then follow the instructions on the following page:
 
 https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/Temporary_Installation_in_Firefox
 <!--https://developer.chrome.com/extensions/getstarted (not tested)-->
@@ -35,20 +35,24 @@ https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/Temporary
 - Click *Load Temporary Add-On*
 - Select the *manifest.json* file from the Add-on directory
 
+### Build
+To build the project, run the following:
+
+```sh
+$ npm install
+$ npm run build
+```
+
 ## User Advice
 - To customize the Add-on behavior and the output style, go to the options page at [about:addons](about:addons) 
 - To see the raw format of any rendered RDF file, click *Ctrl + U*.
 
-## Build
-To build the project, run the following:
-
-```sh
-$ npm install -g browserify # if not already available
-$ npm install
-$ npm run browserify
-```
-
 ## Changelog
+### Version 1.1.3
+- Restructured codebase
+- Implemented CI pipeline
+- Updated JSON-LD parser
+
 ### Version 1.1.2
 - Fixed redirection problems
 - Minor bug fixes

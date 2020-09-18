@@ -1,6 +1,6 @@
 {
   "name": "rdf-browser",
-  "version": "1.1.2",
+  "version": "1.1.3",
   "description": "A Firefox Add-on that requests RDF files and renders RDF files as Turtle documents with clickable links",
   "license": "MIT",
   "scripts": {
@@ -20,7 +20,7 @@
     "rdfxml-streaming-parser": "^1.3.6"
   },
   "devDependencies": {
-    "browserify": "latest",
-    "node-forge": ">=0.10.0"
+    "browserify": "^16.5.2",
+    "node-forge": "^0.10.0"
   }
 }
