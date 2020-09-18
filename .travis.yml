@@ -3,3 +3,10 @@ node_js:
   - "stable"
 script:
   - npm run release
+deploy:
+  provider: releases
+  api_key: $GITHUB_TOKEN
+  file:
+  - "release/rdf-browser.zip"
+  - "release/rdf-browser-sources.zip"
+  skip_cleanup: true
