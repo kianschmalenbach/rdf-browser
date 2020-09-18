@@ -1,7 +1,7 @@
 const browser = window.browser || window.chrome;
 let options;
-const templatePath = "src/view/template.html";
-const scriptPath = "src/lib/style.js";
+const templatePath = "build/view/template.html";
+const scriptPath = "build/lib/style.js";
 const parser = require("./parser");
 
 function getAndRewritePayload() {
