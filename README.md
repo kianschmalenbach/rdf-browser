@@ -1,5 +1,8 @@
 # RDF Browser
+[![Build Status](https://travis-ci.com/kianschmalenbach/rdf-browser.svg?branch=master)](https://travis-ci.com/kianschmalenbach/rdf-browser)
+
 RDF Browser is a Firefox Add-on that requests RDF files and renders RDF files as Turtle documents with clickable links.
+
 
 | Current version: | 1.1.2 |
 | --- | --- |
