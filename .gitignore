@@ -1,6 +1,7 @@
 *.idea
 build/*
 node_modules/*
+script/build.bat
 release/*
 package-lock.json
 *.tmp

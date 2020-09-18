@@ -1,4 +1,5 @@
 const browser = window.browser || window.chrome;
+const templatePath = "build/view/template.html";
 const utils = require('./utils');
 const filter = {
     urls: ["<all_urls>"]
@@ -264,7 +265,7 @@ function rewriteResponse(cl, details, encoding, format) {
     if (options.contentScript) {
         return {
             responseHeaders: responseHeaders,
-            redirectUrl: browser.runtime.getURL("src/view/template.html"
+            redirectUrl: browser.runtime.getURL(templatePath
                 + "?url=" + encodeURIComponent(details.url)
                 + "&encoding=" + encodeURIComponent(encoding)
                 + "&format=" + encodeURIComponent(format)
