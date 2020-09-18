@@ -11,4 +11,5 @@ deploy:
   - "release/rdf-browser-sources.zip"
   skip_cleanup: true
   on:
-    branch: develop
+    branch: master
+    tags: true
