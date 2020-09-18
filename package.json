@@ -20,6 +20,7 @@
     "rdfxml-streaming-parser": "^1.3.6"
   },
   "devDependencies": {
+    "browserify": "latest",
     "node-forge": ">=0.10.0"
   }
 }
