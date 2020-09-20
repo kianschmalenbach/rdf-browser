@@ -50,8 +50,11 @@ class Triplestore {
     addPrefix(name, value) {
         for (let i = 0; i < this.prefixes.length; i++) {
             const prefix = this.prefixes[i];
-            if (prefix.name === name)
-                return prefix;
+            if (prefix.name === name) {
+                if (prefix.value !== value)
+                    prefix.value.value = value;
+                return;
+            }
         }
         this.prefixes.push(new Prefix(name, new URI(value)));
     }
@@ -378,6 +381,7 @@ function getTriplestore(contentScript = true) {
     }
 }
 
-getCommonPrefixes().then(() => {});
+getCommonPrefixes().then(() => {
+});
 
 module.exports = {getTriplestore, Triplestore};
