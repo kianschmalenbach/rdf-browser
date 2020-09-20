@@ -116,7 +116,7 @@ browser.storage.sync.get("options").then(result => {
         .then(tabs => {
             tab = tabs[0];
             let url = tab.url;
-            if(url.startsWith("moz"))
+            if (url.startsWith("moz"))
                 url = (tab.url.split('url=')[1]).split('&')[0];
             initialize(new URL(decodeURIComponent(url)))
         });

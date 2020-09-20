@@ -1,8 +1,9 @@
 const browser = window.browser;
 let options;
 const templatePath = "build/view/template.html";
-const scriptPath = "build/lib/style.js";
+const scriptPath = "build/controller/style.js";
 const parser = require("./parser");
+const utils = require("./utils");
 
 function getAndRewritePayload() {
     return new Promise(resolve => {
@@ -27,7 +28,7 @@ function getAndRewritePayload() {
 }
 
 async function render(stream, decoder, format, contentScript, baseIRI) {
-    await getOptions();
+    await updateOptions();
     if (contentScript) {
         baseIRI = new URL(location.href).searchParams.get("url");
         const triplestore = await parser.obtainTriplestore(stream, decoder, format, true, baseIRI);
@@ -40,10 +41,10 @@ async function render(stream, decoder, format, contentScript, baseIRI) {
     }
 }
 
-function getOptions() {
+function updateOptions() {
     return new Promise(resolve => {
-        browser.storage.sync.get("options").then(result => {
-            options = result.options;
+        utils.getOptions().then(res => {
+            options = res;
             resolve();
         });
     });
@@ -184,7 +185,7 @@ function writeTriple(store, subjectIndex) {
     }
 }
 
-if (document.body.id === "template")
+if (document && document.body && document.body.id && document.body.id === "template") //TODO remove once page.js is implemented
     document.body.onloaddone = getAndRewritePayload();
 
 module.exports.render = render;

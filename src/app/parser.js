@@ -2,7 +2,7 @@ const RdfXmlParser = require("rdfxml-streaming-parser").RdfXmlParser;
 const JsonLdParser = require("jsonld-streaming-parser").JsonLdParser;
 const N3Parser = require("@rdfjs/parser-n3");
 const Transform = require("stream").Transform;
-const ts = require("./triplestore");
+const ts = require("../bdo/triplestore");
 const sortThreshold = 5000;
 let blankNodeOffset;
 

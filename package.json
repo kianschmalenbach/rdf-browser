@@ -5,7 +5,7 @@
   "license": "MIT",
   "scripts": {
     "build": "./script/build.sh",
-    "browserify": "browserify -s app -o build/script/app.js src/app/render.js && browserify -s stat -o build/script/static.js src/static/main.js",
+    "browserify": "browserify -s app -o build/main.js src/main.js",
     "release": "./script/release.sh"
   },
   "repository": {

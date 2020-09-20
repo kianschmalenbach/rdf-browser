@@ -19,8 +19,7 @@
   },
   "background": {
     "scripts": [
-      "build/script/app.js",
-      "build/script/static.js"
+      "build/main.js"
     ]
   },
   "options_ui": {

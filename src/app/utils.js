@@ -1,3 +1,5 @@
+const browser = window.browser;
+
 function onList(options, list, url, req = false) {
     list = options[list].split("\n");
     for (const listKey in list) {
@@ -76,4 +78,8 @@ function checkListMatch(input, list, url, req = false) {
     }
 }
 
-module.exports = {onList, getListStatus};
+function getOptions() {
+    return new Promise(resolve => browser.storage.sync.get("options").then(result => resolve(result.options)));
+}
+
+module.exports = {onList, getListStatus, getOptions};
