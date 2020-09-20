@@ -1,4 +1,4 @@
-const browser = window.browser || window.chrome;
+const browser = window.browser;
 let options;
 const templatePath = "build/view/template.html";
 const scriptPath = "build/lib/style.js";
@@ -86,8 +86,7 @@ function createDocument(html, store) {
         const scriptString = JSON.stringify(options.allStyleTemplate[options.allStyleTemplate.selected]);
         const script = "\nconst style = " + scriptString + ";\n";
         scriptElement.insertBefore(document.createTextNode(script), scriptElement.firstChild);
-        fillDocument(document, store);
-        resolve(new XMLSerializer().serializeToString(document));
+        fillDocument(document, store).then(() => resolve(new XMLSerializer().serializeToString(document)));
     });
 }
 

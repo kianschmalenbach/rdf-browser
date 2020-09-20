@@ -1,9 +1,10 @@
-const browser = window.browser || window.chrome;
+const browser = window.browser;
 const templatePath = "build/view/template.html";
 const utils = require('./utils');
 const filter = {
     urls: ["<all_urls>"]
 };
+let acceptHeader = "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8";
 
 const defaultOptions = {
     json: true,
@@ -197,9 +198,10 @@ function modifyRequestHeader(details) {
     const url = new URL(details.url);
     if (utils.onList(options, "blacklist", url, true))
         return {};
-    for (let header of details.requestHeaders) {
-        if (header.name.toLowerCase() === "accept") {
-            header.value = getNewHeader() + "," + header.value;
+    for (let headerField of details.requestHeaders) {
+        if (headerField.name.toLowerCase() === "accept") {
+            acceptHeader = getNewAcceptHeader(headerField.value);
+            headerField.value = acceptHeader;
             break;
         }
     }
@@ -280,7 +282,7 @@ function rewriteResponse(cl, details, encoding, format) {
         console.error("The RDF document is encoded in an unsupported format and can hence not be displayed.");
         return {};
     }
-    const encoder = new TextEncoder("utf-8");
+    const encoder = new TextEncoder();
     const baseIRI = details.url.toString();
     app.render(filter, decoder, format, options.contentScript, baseIRI).then(output => {
         filter.write(encoder.encode(output));
@@ -303,12 +305,22 @@ function rewriteResponse(cl, details, encoding, format) {
  * Return the modified accept header as a string
  * @returns {string} The modified accept header
  */
-function getNewHeader() {
+function getNewAcceptHeader(oldHeader) {
     let newHeader = "";
     for (const f of getFormats())
-        newHeader += f + ",";
+        newHeader += f + ";q=1,";
+    for (let f of oldHeader.split(",")) {
+        let q = 1.0;
+        let arr = f.split(";q=");
+        if (arr.length > 1) {
+            q = parseFloat(arr[1]);
+            f = arr[0];
+        }
+        q -= .05;
+        q = (q < 0 ? .0 : q);
+        newHeader += f + ";q=" + q + ",";
+    }
     newHeader = newHeader.substring(0, newHeader.length - 1);
-    newHeader += ";q=0.95";
     return newHeader;
 }
 
@@ -325,7 +337,7 @@ function addListeners() {
         let msg = Array.isArray(message) ? message[0] : message;
         switch (msg) {
             case "acceptHeader":
-                sendResponse(getNewHeader());
+                sendResponse(acceptHeader);
                 break;
             case "defaultOptions":
                 sendResponse(defaultOptions);

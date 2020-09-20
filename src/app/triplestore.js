@@ -21,15 +21,6 @@ class Triplestore {
         this.literals = [];
     }
 
-    static initializeCommonPrefixes() {
-        fetch(commonPrefixSource).then(response => {
-            response.json().then(doc => {
-                for (const prefix in doc)
-                    commonPrefixes.push([prefix, doc[prefix]]);
-            })
-        });
-    }
-
     getURI(value) {
         let uri = this.uris[value];
         if (!uri) {
@@ -161,7 +152,7 @@ class Resource {
         return a.localeCompare(b);
     }
 
-    compareTo(resource, position = null) {
+    compareTo(resource, position = "") {
         if (["subject", "object"].includes(position))
             return this.compareTypes(this, resource);
         return Resource.compareValues(this.value, resource.value);
@@ -254,7 +245,7 @@ class BlankNode extends Resource {
         this.id = "_:" + value;
     }
 
-    compareTo(resource, position = null) {
+    compareTo(resource, position = "") {
         if (["subject", "object"].includes(position))
             return this.compareTypes(this, resource);
         if ((typeof resource === typeof this) && /b[0-9]+/.test(this.value) && /b[0-9]+/.test(resource.value)) {

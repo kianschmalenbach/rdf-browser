@@ -1,5 +1,5 @@
 #!/bin/bash
-rm node\_modules -r -f
+rm node_modules -r -f
 npm install
 ./script/build.sh
 rm release -r -f
