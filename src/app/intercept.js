@@ -197,6 +197,24 @@ function getNewAcceptHeader(oldHeader) {
 }
 
 /**
+ * Fetch an RDF document as response to a content script request
+ * @param port The port for communication with the content script
+ * @param url The URI of the document to fetch
+ * @param encoding The encoding of the document to fetch
+ * @param format The format of the document to fetch
+ */
+function fetchDocument(port, url, encoding, format) {
+    const request = new Request(url, {
+        headers: new Headers({
+            'Accept': acceptHeader
+        })
+    });
+    fetch(request).then(response => response.body).then(response => {
+        renderer.render(response.getReader(), new TextDecoder(encoding), format, port);
+    })
+}
+
+/**
  * Add the listeners for modifying HTTP request and response headers and for showing the page action button
  */
 function addListeners() {
@@ -214,4 +232,4 @@ function addListeners() {
 
 }
 
-module.exports = {addListeners, acceptHeader}
+module.exports = {addListeners, fetchDocument, acceptHeader}

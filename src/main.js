@@ -151,6 +151,16 @@ function initMessageListeners() {
                 break;
         }
     });
+    browser.runtime.onConnect.addListener(port => {
+        port.onMessage.addListener(message => {
+            let msg = Array.isArray(message) ? message[0] : message;
+            switch (msg) {
+                case "render":
+                    interceptor.fetchDocument(port, message[1], message[2], message[3]);
+                    break;
+            }
+        });
+    });
 }
 
 /**

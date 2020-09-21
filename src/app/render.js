@@ -1,38 +1,18 @@
-const browser = window.browser;
 let options;
 const templatePath = "build/view/template.html";
 const scriptPath = "build/controller/style.js";
+const serializer = new XMLSerializer();
 const parser = require("./parser");
 const utils = require("./utils");
 
-function getAndRewritePayload() {
-    return new Promise(resolve => {
-        const params = new URL(location.href).searchParams;
-        const url = params.get("url");
-        document.getElementById("title").innerText = url; //TODO create title element
-        const encoding = decodeURIComponent(params.get("encoding"));
-        const format = decodeURIComponent(params.get("format"));
-        browser.runtime.sendMessage("acceptHeader").then(header => {
-            const request = new Request(url, {
-                headers: new Headers({
-                    'Accept': header.toString()
-                })
-            });
-            fetch(request).then(response => response.body).then(body => {
-                render(body.getReader(), new TextDecoder(encoding), format, true).then(() => {
-                    resolve();
-                });
-            });
-        });
-    });
-}
-
-async function render(stream, decoder, format, contentScript, baseIRI) {
+async function render(stream, decoder, format, port, baseIRI = null) {
     await updateOptions();
-    if (contentScript) {
+    if (port) {
         baseIRI = new URL(location.href).searchParams.get("url");
-        const triplestore = await parser.obtainTriplestore(stream, decoder, format, true, baseIRI);
-        return fillDocument(document, triplestore);
+        const triplestore = await parser.obtainTriplestore(stream, decoder, format, true, baseIRI, port);
+        const document = new Document();
+        fillDocument(document, triplestore, port);
+        port.postMessage(["body", serializer.serializeToString(document)]);
     } else {
         let template = await getTemplate();
         template = await injectScript(template);
@@ -87,22 +67,33 @@ function createDocument(html, store) {
         const scriptString = JSON.stringify(options.allStyleTemplate[options.allStyleTemplate.selected]);
         const script = "\nconst style = " + scriptString + ";\n";
         scriptElement.insertBefore(document.createTextNode(script), scriptElement.firstChild);
-        fillDocument(document, store).then(() => resolve(new XMLSerializer().serializeToString(document)));
+        fillDocument(document, store);
+        resolve(serializer.serializeToString(document));
     });
 }
 
-async function fillDocument(document, store) {
-    const body = document.body;
-    while (body.firstChild)
-        body.removeChild(body.firstChild);
+function fillDocument(document, store, port = null) {
+    let body = document.body;
+    if (!body) {
+        body = document.createElement("body");
+        document.appendChild(body);
+    } else {
+        while (body.firstChild)
+            body.removeChild(body.firstChild);
+    }
     const prefixes = document.createElement("div");
     body.appendChild(prefixes);
     prefixes.setAttribute("class", "prefixes");
     store.prefixes.forEach(prefix => {
         if (prefix.html === null)
             prefix.createHtml();
-        prefixes.appendChild(prefix.html);
-        prefixes.appendChild(document.createElement("br"));
+        if (port) {
+            prefix.html.appendChild(document.createElement("br"));
+            port.postMessage(["prefix", serializer.serializeToString(prefix.html)]);
+        } else {
+            prefixes.appendChild(prefix.html);
+            prefixes.appendChild(document.createElement("br"));
+        }
     });
     const triples = document.createElement("div");
     triples.setAttribute("class", "triples");
@@ -111,7 +102,10 @@ async function fillDocument(document, store) {
     while (subjectIndex < store.triples.length) {
         const result = writeTriple(store, subjectIndex);
         subjectIndex = result.subjectIndex;
-        triples.appendChild(result.triple);
+        if (port)
+            port.postMessage(["triple", serializer.serializeToString(result.triple)]);
+        else
+            triples.appendChild(result.triple);
     }
 }
 
@@ -184,8 +178,5 @@ function writeTriple(store, subjectIndex) {
         return output;
     }
 }
-
-if (document && document.body && document.body.id && document.body.id === "template") //TODO remove once page.js is implemented
-    document.body.onloaddone = getAndRewritePayload();
 
 module.exports.render = render;

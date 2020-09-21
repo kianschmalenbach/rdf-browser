@@ -6,7 +6,7 @@ const ts = require("../bdo/triplestore");
 const sortThreshold = 5000;
 let blankNodeOffset;
 
-function obtainTriplestore(inputStream, decoder, format, contentScript, baseIRI) {
+function obtainTriplestore(inputStream, decoder, format, contentScript, baseIRI, port = null) {
     return new Promise((resolve, reject) => {
         const parser = getParser(format, baseIRI);
         if (!parser)
@@ -19,7 +19,8 @@ function obtainTriplestore(inputStream, decoder, format, contentScript, baseIRI)
                 }
             });
             if (contentScript) {
-                document.getElementById("status").innerText = "Status: fetching file...";
+                if (port)
+                    port.postMessage(["status", "Status: fetching file..."]);
                 inputStream.read().then(function processText({done, value}) {
                     if (done)
                         transformStream.push(null);
@@ -51,9 +52,8 @@ function obtainTriplestore(inputStream, decoder, format, contentScript, baseIRI)
                     const predicate = processResource(store, triple.predicate);
                     const object = processResource(store, triple.object);
                     store.addTriple(subject, predicate, object);
-                    if (contentScript)
-                        document.getElementById("status").innerText =
-                            "Status: processing " + counter + " triples...";
+                    if (port)
+                        port.postMessage(["status", "Status: processing " + counter + " triples..."]);
                     counter++;
                 })
                 .on("prefix", (prefix, ns) => {
@@ -61,13 +61,14 @@ function obtainTriplestore(inputStream, decoder, format, contentScript, baseIRI)
                         store.addPrefix(prefix, ns.value);
                 })
                 .on("error", error => {
-                    if (contentScript)
-                        document.getElementById("status").innerText =
-                            "Status: parsing error: " + error + " (see console for more details)";
+                    if (port)
+                        port.postMessage(["status", "Status: parsing error: " + error + " (see console for more details)"]);
                     reject(error);
                 })
                 .on("end", () => {
                     store.finalize(counter <= sortThreshold);
+                    if (port)
+                        port.postMessage("start");
                     resolve(store);
                 });
         });
