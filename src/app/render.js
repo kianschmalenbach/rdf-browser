@@ -5,58 +5,47 @@ const serializer = new XMLSerializer();
 const parser = require("./parser");
 const utils = require("./utils");
 
-async function render(stream, decoder, format, port, baseIRI = null) {
+async function render(stream, decoder, format, port) {
     await updateOptions();
-    if (port) {
-        baseIRI = new URL(location.href).searchParams.get("url");
-        const triplestore = await parser.obtainTriplestore(stream, decoder, format, true, baseIRI, port);
-        const document = new Document();
-        fillDocument(document, triplestore, port);
-        port.postMessage(["body", serializer.serializeToString(document)]);
-    } else {
-        let template = await getTemplate();
-        template = await injectScript(template);
-        const triplestore = await parser.obtainTriplestore(stream, decoder, format, false, baseIRI);
-        return createDocument(template, triplestore);
-    }
+    const baseIRI = new URL(location.href).searchParams.get("url");
+    const triplestore = await parser.obtainTriplestore(stream, decoder, format, true, baseIRI, port);
+    const document = new Document();
+    fillDocument(document, triplestore, port);
 }
 
-function updateOptions() {
-    return new Promise(resolve => {
-        utils.getOptions().then(res => {
-            options = res;
-            resolve();
+async function renderBrowser(stream, decoder, format, baseIRI) {
+    await updateOptions();
+    let template = await getTemplate();
+    template = await injectScript(template);
+    const triplestore = await parser.obtainTriplestore(stream, decoder, format, false, baseIRI);
+    return createDocument(template, triplestore);
+
+    function getTemplate() {
+        return new Promise(resolve => {
+            fetch(templatePath)
+                .then(file => {
+                    return file.text();
+                })
+                .then(text => {
+                    resolve(text);
+                })
         });
-    });
-}
+    }
 
-function getTemplate() {
-    return new Promise(resolve => {
-        fetch(templatePath)
-            .then(file => {
-                return file.text();
-            })
-            .then(text => {
-                resolve(text);
-            })
-    });
-}
+    function injectScript(template) {
+        return new Promise(resolve => {
+            fetch(scriptPath)
+                .then(file => {
+                    return file.text();
+                })
+                .then(script => {
+                    const array = template.split("<!-- script -->");
+                    resolve(array[0] + script + array[1]);
+                })
+        });
+    }
 
-function injectScript(template) {
-    return new Promise(resolve => {
-        fetch(scriptPath)
-            .then(file => {
-                return file.text();
-            })
-            .then(script => {
-                const array = template.split("<!-- script -->");
-                resolve(array[0] + script + array[1]);
-            })
-    });
-}
-
-function createDocument(html, store) {
-    return new Promise(resolve => {
+    function createDocument(html, store) {
         const document = new DOMParser().parseFromString(html, "text/html");
         document.getElementById("title").remove();
         document.getElementById("content-script").remove();
@@ -68,8 +57,8 @@ function createDocument(html, store) {
         const script = "\nconst style = " + scriptString + ";\n";
         scriptElement.insertBefore(document.createTextNode(script), scriptElement.firstChild);
         fillDocument(document, store);
-        resolve(serializer.serializeToString(document));
-    });
+        return serializer.serializeToString(document);
+    }
 }
 
 function fillDocument(document, store, port = null) {
@@ -77,27 +66,16 @@ function fillDocument(document, store, port = null) {
     if (!body) {
         body = document.createElement("body");
         document.appendChild(body);
-    } else {
-        while (body.firstChild)
-            body.removeChild(body.firstChild);
     }
-    const prefixes = document.createElement("div");
-    body.appendChild(prefixes);
-    prefixes.setAttribute("class", "prefixes");
     store.prefixes.forEach(prefix => {
         if (prefix.html === null)
             prefix.createHtml();
-        if (port) {
-            prefix.html.appendChild(document.createElement("br"));
+        prefix.html.appendChild(document.createElement("br"));
+        if (port)
             port.postMessage(["prefix", serializer.serializeToString(prefix.html)]);
-        } else {
-            prefixes.appendChild(prefix.html);
-            prefixes.appendChild(document.createElement("br"));
-        }
+        else
+            document.getElementById("prefixes").appendChild(prefix.html);
     });
-    const triples = document.createElement("div");
-    triples.setAttribute("class", "triples");
-    body.appendChild(triples);
     let subjectIndex = 0;
     while (subjectIndex < store.triples.length) {
         const result = writeTriple(store, subjectIndex);
@@ -105,7 +83,7 @@ function fillDocument(document, store, port = null) {
         if (port)
             port.postMessage(["triple", serializer.serializeToString(result.triple)]);
         else
-            triples.appendChild(result.triple);
+            document.getElementById("triples").appendChild(result.triple);
     }
 }
 
@@ -179,4 +157,13 @@ function writeTriple(store, subjectIndex) {
     }
 }
 
-module.exports.render = render;
+function updateOptions() {
+    return new Promise(resolve => {
+        utils.getOptions().then(res => {
+            options = res;
+            resolve();
+        });
+    });
+}
+
+module.exports = {render, renderBrowser};

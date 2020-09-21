@@ -166,31 +166,29 @@ function initMessageListeners() {
 /**
  * Initialize the storage with the plugin default options and set the listener for option changes
  */
-if (!document || !document.body || !document.body.id || document.body.id !== "template") { //TODO remove this check once page.js is implemented
-    ts.getCommonPrefixes().then(() => {
-    });
-    browser.storage.onChanged.addListener(() => {
-        utils.getOptions().then(res => options = res);
-    });
-    browser.storage.sync.get("options").then(result => {
-        if (result.options === undefined) {
-            result = {
-                options: defaultOptions
-            };
-        } else {
-            for (const option in defaultOptions) {
-                if (!result.options.hasOwnProperty(option))
-                    result.options[option] = defaultOptions[option];
-                else if (option.startsWith("all")) {
-                    for (const child in defaultOptions[option]) {
-                        if (child !== "custom" && child !== "selected")
-                            result.options[option][child] = defaultOptions[option][child];
-                    }
+ts.getCommonPrefixes().then(() => {
+});
+browser.storage.onChanged.addListener(() => {
+    utils.getOptions().then(res => options = res);
+});
+browser.storage.sync.get("options").then(result => {
+    if (result.options === undefined) {
+        result = {
+            options: defaultOptions
+        };
+    } else {
+        for (const option in defaultOptions) {
+            if (!result.options.hasOwnProperty(option))
+                result.options[option] = defaultOptions[option];
+            else if (option.startsWith("all")) {
+                for (const child in defaultOptions[option]) {
+                    if (child !== "custom" && child !== "selected")
+                        result.options[option][child] = defaultOptions[option][child];
                 }
             }
         }
-        browser.storage.sync.set(result);
-        options = result.options;
-        initMessageListeners();
-    });
-}
+    }
+    browser.storage.sync.set(result);
+    options = result.options;
+    initMessageListeners();
+});

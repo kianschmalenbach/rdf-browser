@@ -156,7 +156,7 @@ function rewriteResponse(cl, details, encoding, format) {
     }
     const encoder = new TextEncoder();
     const baseIRI = details.url.toString();
-    renderer.render(filter, decoder, format, options.contentScript, baseIRI).then(output => {
+    renderer.renderBrowser(filter, decoder, format, baseIRI).then(output => {
         filter.write(encoder.encode(output));
     })
         .catch(e => {
