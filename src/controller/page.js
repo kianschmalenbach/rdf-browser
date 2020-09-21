@@ -35,9 +35,10 @@ function handleMessage(message) {
             break;
         case "prefix":
         case "triple":
-            const element = parser.parseFromString(message[1], "text/html");
-            document.getElementById(msg + (msg.endsWith('e') ? "s" : "es"))
-                .appendChild(element.body.firstElementChild);
+            const element = document.getElementById(msg + (msg.endsWith('e') ? "s" : "es"));
+            const fragment = parser.parseFromString(message[1], "text/html");
+            while (fragment.body.firstElementChild)
+                element.appendChild(fragment.body.firstElementChild);
             break;
     }
 }

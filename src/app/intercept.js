@@ -1,7 +1,9 @@
 const browser = window.browser;
-const templatePath = "build/view/template.html";
+const parser = require("./parser");
+const serializer = require("./serializer");
 const utils = require('./utils');
-const renderer = require('./render');
+const scriptPath = "build/controller/style.js";
+const templatePath = "build/view/template.html";
 const filter = {
     urls: ["<all_urls>"]
 };
@@ -156,7 +158,7 @@ function rewriteResponse(cl, details, encoding, format) {
     }
     const encoder = new TextEncoder();
     const baseIRI = details.url.toString();
-    renderer.renderBrowser(filter, decoder, format, baseIRI).then(output => {
+    processRDFPayload(filter, decoder, format, baseIRI).then(output => {
         filter.write(encoder.encode(output));
     })
         .catch(e => {
@@ -210,8 +212,72 @@ function fetchDocument(port, url, encoding, format) {
         })
     });
     fetch(request).then(response => response.body).then(response => {
-        renderer.render(response.getReader(), new TextDecoder(encoding), format, port);
-    })
+        const baseIRI = new URL(location.href).searchParams.get("url");
+        processRDFPayload(response.getReader(), new TextDecoder(encoding), format, baseIRI, port);
+    });
+}
+
+/**
+ * Parse the RDF payload and render it as HTML document using the serializer
+ * @param stream The response stream
+ * @param decoder The decoder for the response stream
+ * @param format The serialization format of the RDF resource
+ * @param baseIRI The IRI of the RDF document
+ * @param port The port to communicate with the content script (null for background script mode)
+ * @returns The HTML payload as string (in background script mode only)
+ */
+async function processRDFPayload(stream, decoder, format, baseIRI, port = null) {
+    const contentScript = (port !== null);
+    const triplestore = await parser.obtainTriplestore(stream, decoder, format, contentScript, baseIRI, port);
+    if (contentScript) {
+        serializer.serializePrefixes(triplestore, port);
+        serializer.serializeTriples(triplestore, port);
+    } else {
+        let template = await getTemplate();
+        template = await injectScript(template);
+        return createDocument(template, triplestore);
+    }
+
+    function getTemplate() {
+        return new Promise(resolve => {
+            fetch(templatePath)
+                .then(file => {
+                    return file.text();
+                })
+                .then(text => {
+                    resolve(text);
+                })
+        });
+    }
+
+    function injectScript(template) {
+        return new Promise(resolve => {
+            fetch(scriptPath)
+                .then(file => {
+                    return file.text();
+                })
+                .then(script => {
+                    const array = template.split("//script");
+                    resolve(array[0] + script + array[1]);
+                })
+        });
+    }
+
+    function createDocument(html, store) {
+        const document = new DOMParser().parseFromString(html, "text/html");
+        document.getElementById("title").innerText = baseIRI;
+        document.getElementById("content-script").remove();
+        document.getElementById("script").removeAttribute("src");
+        document.getElementById("hint").remove();
+        document.getElementById("status").remove();
+        const scriptElement = document.getElementById("script");
+        const scriptString = JSON.stringify(options.allStyleTemplate[options.allStyleTemplate.selected]);
+        const script = "\nconst style = " + scriptString + ";\n";
+        scriptElement.insertBefore(document.createTextNode(script), scriptElement.firstChild);
+        document.getElementById("prefixes").appendChild(serializer.serializePrefixes(store));
+        document.getElementById("triples").appendChild(serializer.serializeTriples(store));
+        return new XMLSerializer().serializeToString(document);
+    }
 }
 
 /**

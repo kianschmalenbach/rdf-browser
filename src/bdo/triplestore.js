@@ -1,4 +1,4 @@
-const Resource = require("./resource");
+const resource = require("./resource");
 const commonPrefixSource = "https://prefix.cc/popular/all.file.json";
 const commonPrefixes = [];
 
@@ -9,7 +9,7 @@ class Triplestore {
         for (const prefix in commonPrefixes) {
             const name = (commonPrefixes[prefix])[0];
             const value = (commonPrefixes[prefix])[1];
-            this.prefixes.push(new Prefix(name, new Resource.URI(value)));
+            this.prefixes.push(new Prefix(name, new resource.URI(value)));
         }
         this.uris = {};
         this.blankNodes = {};
@@ -19,7 +19,7 @@ class Triplestore {
     getURI(value) {
         let uri = this.uris[value];
         if (!uri) {
-            uri = new Resource.URI(value);
+            uri = new resource.URI(value);
             this.uris[value] = uri;
         }
         return uri;
@@ -28,7 +28,7 @@ class Triplestore {
     getBlankNode(name) {
         let bn = this.blankNodes[name];
         if (!bn) {
-            bn = new Resource.BlankNode(name);
+            bn = new resource.BlankNode(name);
             this.blankNodes[name] = bn;
         }
         return bn;
@@ -37,7 +37,7 @@ class Triplestore {
     getLiteral(value, datatype, language = null) {
         if (datatype === "http://www.w3.org/2001/XMLSchema#decimal")
             value = Number(value).toLocaleString("en-US");
-        const literal = new Resource.Literal(value, datatype, this, language);
+        const literal = new resource.Literal(value, datatype, this, language);
         this.literals.push(literal);
         return literal;
     }
@@ -51,7 +51,7 @@ class Triplestore {
                 return;
             }
         }
-        this.prefixes.push(new Prefix(name, new Resource.URI(value)));
+        this.prefixes.push(new Prefix(name, new resource.URI(value)));
     }
 
     addTriple(subject, predicate, object) {
@@ -128,35 +128,12 @@ class Triple {
 class Prefix {
     constructor(name, value) {
         this.value = value;
-        this.html = null;
         this.name = name;
         this.used = false;
     }
 
-    createHtml() {
-        const html = document.createElement("span");
-        html.setAttribute("class", "prefix");
-        const prefixDeclarationElement = document.createElement("span");
-        prefixDeclarationElement.setAttribute("class", "prefixDeclaration");
-        prefixDeclarationElement.appendChild(document.createTextNode("@prefix"));
-        const prefixElement = document.createElement("span");
-        prefixElement.setAttribute("class", "prefixName");
-        prefixElement.appendChild(document.createTextNode(this.name));
-        const doubleColonElement = document.createElement("span");
-        doubleColonElement.setAttribute("class", "postfix");
-        doubleColonElement.appendChild(document.createTextNode(":"));
-        html.appendChild(prefixDeclarationElement);
-        html.appendChild(document.createTextNode(" "));
-        html.appendChild(prefixElement);
-        html.appendChild(doubleColonElement);
-        html.appendChild(document.createTextNode(" "));
-        html.appendChild(this.value.createHtml(true, true));
-        html.appendChild(document.createTextNode(" ."));
-        this.html = html;
-    }
-
     compareTo(prefix) {
-        return Resource.compareValues(this.name, prefix.name);
+        return resource.compareValues(this.name, prefix.name);
     }
 }
 
