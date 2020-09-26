@@ -9,8 +9,12 @@ class Resource {
     constructor(value) {
         this.value = value;
         this.html = null;
+        this.constituents = {
+            subject: [],
+            predicate: [],
+            object: []
+        };
         this.representationLength = 0;
-        this.triples = [];
         this.id = null;
     }
 
@@ -33,8 +37,17 @@ class Resource {
         return 0;
     }
 
-    addTriple(triple) {
-        this.triples.push(triple);
+    addSubject(subject) {
+        this.constituents.subject.push(subject);
+
+    }
+
+    addPredicate(predicate) {
+        this.constituents.predicate.push(predicate);
+    }
+
+    addObject(object) {
+        this.constituents.object.push(object);
     }
 }
 

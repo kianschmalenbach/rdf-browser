@@ -1,43 +1,45 @@
-const resource = require("./resource");
+const Resource = require("./resource");
 const commonPrefixSource = "https://prefix.cc/popular/all.file.json";
 const commonPrefixes = [];
 
 class Triplestore {
     constructor(commonPrefixes = []) {
-        this.triples = [];
+        this.subjects = [];
         this.prefixes = [];
         for (const prefix in commonPrefixes) {
             const name = (commonPrefixes[prefix])[0];
             const value = (commonPrefixes[prefix])[1];
-            this.prefixes.push(new Prefix(name, new resource.URI(value)));
+            this.prefixes.push(new Prefix(name, new Resource.URI(value)));
         }
         this.uris = {};
-        this.blankNodes = {};
+        this.blankNodes = [];
+        this.blankNodeMapping = {};
         this.literals = [];
     }
 
     getURI(value) {
         let uri = this.uris[value];
         if (!uri) {
-            uri = new resource.URI(value);
+            uri = new Resource.URI(value);
             this.uris[value] = uri;
         }
         return uri;
     }
 
     getBlankNode(name) {
-        let bn = this.blankNodes[name];
-        if (!bn) {
-            bn = new resource.BlankNode(name);
-            this.blankNodes[name] = bn;
-        }
+        if (this.blankNodeMapping.hasOwnProperty(name))
+            return this.blankNodes[this.blankNodeMapping[name]];
+        const number = this.blankNodes.length;
+        this.blankNodeMapping[name] = number;
+        const bn = new Resource.BlankNode("bn" + number);
+        this.blankNodes.push(bn);
         return bn;
     }
 
     getLiteral(value, datatype, language = null) {
         if (datatype === "http://www.w3.org/2001/XMLSchema#decimal")
             value = Number(value).toLocaleString("en-US");
-        const literal = new resource.Literal(value, datatype, this, language);
+        const literal = new Resource.Literal(value, datatype, this, language);
         this.literals.push(literal);
         return literal;
     }
@@ -51,89 +53,170 @@ class Triplestore {
                 return;
             }
         }
-        this.prefixes.push(new Prefix(name, new resource.URI(value)));
+        this.prefixes.push(new Prefix(name, new Resource.URI(value)));
     }
 
     addTriple(subject, predicate, object) {
-        this.triples.push(new Triple(subject, predicate, object));
+        const s = Subject.getItem(this.subjects, subject);
+        const p = Predicate.getItem(s.predicates, predicate);
+        const o = new Object(object);
+        p.addObject(o);
+        s.addPredicate(p);
+        this.subjects = s.insertSorted(this.subjects);
     }
 
-    finalize(sorting = true) {
+    finalize() {
         for (const uri in this.uris)
             this.uris[uri].updatePrefix(this.prefixes);
         for (const literal in this.literals)
             this.literals[literal].updatePrefix(this.prefixes);
-        this.removeUnusedPrefixes();
+        removeUnusedPrefixes(this);
         this.prefixes = this.prefixes.sort((a, b) => {
             return a.compareTo(b);
         });
-        if (sorting)
-            this.triples = this.triples.sort((a, b) => {
-                return a.compareTo(b);
-            });
-    }
+        chainBlankNodes(this);
 
-    removeUnusedPrefixes() {
-        const toRemove = [];
-        for (const prefix in this.prefixes) {
-            if (!this.prefixes[prefix].used)
-                toRemove.push(prefix);
+        function chainBlankNodes(store) {
+            for (const b in store.blankNodes) {
+                const bn = store.blankNodes[b];
+                if (bn.constituents.object.length === 1) {
+                    for (const s in bn.constituents.subject) {
+                        bn.constituents.object[0].addEquivalentSubject(bn.constituents.subject[s]);
+                        const index = store.subjects.indexOf(bn.constituents.subject[s]);
+                        if (index >= 0)
+                            store.subjects.splice(index, 1);
+                    }
+                }
+            }
         }
-        toRemove.reverse();
-        for (const remove in toRemove)
-            this.prefixes.splice(toRemove[remove], 1);
-    }
 
-    getTriplesWithSameFieldAs(index, field, indices = null, indicesIndex = 0) {
-        if (index < 0 || index >= this.triples.length ||
-            (indices && (indicesIndex < 0 || indicesIndex >= indices.length)))
-            return null;
-        const value = this.triples[index][field];
-        let cursor = value;
-        const result = [];
-        while (cursor === value) {
-            result.push(index);
-            indicesIndex++;
-            if (indices && indicesIndex >= indices.length)
-                break;
-            index = indices ? indices[indicesIndex] : index + 1;
-            if (index >= this.triples.length)
-                break;
-            cursor = this.triples[index][field];
+        function removeUnusedPrefixes(store) {
+            const toRemove = [];
+            for (const prefix in store.prefixes) {
+                if (!store.prefixes[prefix].used)
+                    toRemove.push(prefix);
+            }
+            toRemove.reverse();
+            for (const remove in toRemove)
+                store.prefixes.splice(toRemove[remove], 1);
         }
-        return result;
     }
 }
 
-class Triple {
-    constructor(subject, predicate, object) {
-        this.subject = subject;
-        subject.addTriple(this);
-        this.predicate = predicate;
-        predicate.addTriple(this);
-        this.object = object;
-        object.addTriple(this);
+class Constituent {
+    constructor(resource) {
+        this.resource = resource;
     }
 
-    compareTo(triple) {
-        let comp = this.subject.compareTo(triple.subject, "subject");
-        if (comp === 0)
-            comp = this.predicate.compareTo(triple.predicate, "predicate");
-        if (comp === 0)
-            comp = this.object.compareTo(triple.object, "object");
-        return comp;
+    static getItem(list, resource) {
+        for (const item in list) {
+            if (list[item].resource === resource)
+                return list[item];
+        }
+        return null;
+    }
+
+    insertSorted(list) {
+        if (list.length === 0) {
+            list.push(this);
+            return list;
+        }
+        let i = 0;
+        let cursor = list[0];
+        while (list.length > i && cursor.resource.compareTo(this.resource) < 0)
+            cursor = list[++i];
+        if (cursor && cursor.resource.compareTo(this.resource) === 0)
+            list.splice(i, 1, this);
+        else
+            list.splice(i, 0, this);
+        return list;
+    }
+}
+
+class Subject extends Constituent {
+    constructor(resource) {
+        super(resource);
+        resource.addSubject(this);
+        this.predicates = [];
+    }
+
+    static getItem(list, resource) {
+        const item = super.getItem(list, resource);
+        if (item !== null)
+            return item;
+        else
+            return new Subject(resource);
+    }
+
+    addPredicate(predicate) {
+        this.predicates = predicate.insertSorted(this.predicates);
+    }
+}
+
+class Predicate extends Constituent {
+    constructor(resource) {
+        super(resource);
+        resource.addPredicate(this);
+        this.objects = [];
+    }
+
+    static getItem(list, resource) {
+        const item = super.getItem(list, resource);
+        if (item !== null)
+            return item;
+        else
+            return new Predicate(resource);
+    }
+
+    addObject(object) {
+        this.objects = object.insertSorted(this.objects);
+    }
+}
+
+class Object extends Constituent {
+    constructor(resource) {
+        super(resource);
+        resource.addObject(this);
+        this.subjects = [];
+    }
+
+    addEquivalentSubject(subject) {
+        this.subjects = subject.insertSorted(this.subjects);
     }
 }
 
 class Prefix {
     constructor(name, value) {
         this.value = value;
+        this.html = null;
         this.name = name;
         this.used = false;
     }
 
+    createHtml() {
+        const html = document.createElement("span");
+        html.setAttribute("class", "prefix");
+        const prefixDeclarationElement = document.createElement("span");
+        prefixDeclarationElement.setAttribute("class", "prefixDeclaration");
+        prefixDeclarationElement.appendChild(document.createTextNode("@prefix"));
+        const prefixElement = document.createElement("span");
+        prefixElement.setAttribute("class", "prefixName");
+        prefixElement.appendChild(document.createTextNode(this.name));
+        const doubleColonElement = document.createElement("span");
+        doubleColonElement.setAttribute("class", "postfix");
+        doubleColonElement.appendChild(document.createTextNode(":"));
+        html.appendChild(prefixDeclarationElement);
+        html.appendChild(document.createTextNode(" "));
+        html.appendChild(prefixElement);
+        html.appendChild(doubleColonElement);
+        html.appendChild(document.createTextNode(" "));
+        html.appendChild(this.value.createHtml(true, true));
+        html.appendChild(document.createTextNode(" ."));
+        this.html = html;
+    }
+
     compareTo(prefix) {
-        return resource.compareValues(this.name, prefix.name);
+        return Resource.compareValues(this.name, prefix.name);
     }
 }
 

@@ -3,8 +3,6 @@ const JsonLdParser = require("jsonld-streaming-parser").JsonLdParser;
 const N3Parser = require("@rdfjs/parser-n3");
 const Transform = require("stream").Transform;
 const ts = require("../bdo/triplestore");
-const sortThreshold = 5000;
-let blankNodeOffset;
 
 function obtainTriplestore(inputStream, decoder, format, contentScript, baseIRI, port = null) {
     return new Promise((resolve, reject) => {
@@ -39,7 +37,6 @@ function obtainTriplestore(inputStream, decoder, format, contentScript, baseIRI,
             }
             const outputStream = parser.import(transformStream);
             let counter = 1;
-            blankNodeOffset = -1;
             outputStream
                 .on("context", context => {
                     for (const prefix in context) {
@@ -66,7 +63,7 @@ function obtainTriplestore(inputStream, decoder, format, contentScript, baseIRI,
                     reject(error);
                 })
                 .on("end", () => {
-                    store.finalize(counter <= sortThreshold);
+                    store.finalize();
                     if (port)
                         port.postMessage("start");
                     resolve(store);
@@ -110,12 +107,6 @@ function processResource(store, resource) {
         return null;
     switch (resourceType) {
         case "BlankNode":
-            if (/^b[0-9]+$/.test(value)) {
-                const blankNodeNumber = value.substring(1, value.length);
-                if (blankNodeOffset === -1)
-                    blankNodeOffset = blankNodeNumber;
-                return store.getBlankNode("b" + (blankNodeNumber - blankNodeOffset));
-            }
             return store.getBlankNode(value);
         case "NamedNode":
             return store.getURI(value);
