@@ -1,5 +1,10 @@
 const Resource = require("./resource");
 const commonPrefixSource = "https://prefix.cc/popular/all.file.json";
+const listURIs = {
+    first: "http://www.w3.org/1999/02/22-rdf-syntax-ns#first",
+    rest: "http://www.w3.org/1999/02/22-rdf-syntax-ns#rest",
+    nil: "http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"
+}
 const commonPrefixes = [];
 
 class Triplestore {
@@ -157,6 +162,29 @@ class Subject extends TripleConstituent {
         else
             return {item: new Subject(resource), isNew: true};
     }
+
+    getList() {
+        if (this.predicates.length !== 2)
+            return null;
+        const firstP = this.predicates.find(
+            element => element.resource instanceof Resource.URI && element.resource.value === listURIs.first
+        );
+        if (!firstP || firstP.objects.length !== 1)
+            return null;
+        const restP = this.predicates.find(
+            element => element.resource instanceof Resource.URI && element.resource.value === listURIs.rest
+        );
+        if (!restP || restP.objects.length !== 1)
+            return null;
+        const rest = restP.objects[0];
+        if (rest.resource instanceof Resource.URI && rest.resource.value === listURIs.nil)
+            return [firstP.objects[0]];
+        const list = rest.getList();
+        if (list === null)
+            return null;
+        list.splice(0, 0, firstP.objects[0]);
+        return list;
+    }
 }
 
 class Predicate extends TripleConstituent {
@@ -184,6 +212,13 @@ class Object extends TripleConstituent {
 
     setEquivalentSubject(subject) {
         this.equivalentSubject = subject;
+    }
+
+    getList() {
+        if (this.equivalentSubject !== null)
+            return this.equivalentSubject.getList();
+        else
+            return null;
     }
 }
 

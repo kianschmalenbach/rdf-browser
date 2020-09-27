@@ -75,10 +75,22 @@ function serializeTriples(store, port = null) {
             while (objectIndex < predicate.objects.length) {
                 const object = predicate.objects[objectIndex];
                 const objectIndent = predicateIndent + predicate.resource.representationLength + 1;
-                const objectWrapper = getObjectWrapper(object, objectIndent);
-                if (objectIndex > 0)
-                    triple.appendChild(document.createTextNode(getIndent(objectIndent)));
-                triple.appendChild(objectWrapper);
+                const list = object.getList();
+                if (list !== null) {
+                    if (objectIndex > 0)
+                        triple.appendChild(document.createTextNode(getIndent(objectIndent)));
+                    triple.appendChild(document.createTextNode("( "));
+                    for (const i in list) {
+                        triple.appendChild(getObjectWrapper(list[i], 0, true));
+                        triple.appendChild(document.createTextNode(" "));
+                    }
+                    triple.appendChild(document.createTextNode(")"));
+                } else {
+                    const objectWrapper = getObjectWrapper(object, objectIndent);
+                    if (objectIndex > 0)
+                        triple.appendChild(document.createTextNode(getIndent(objectIndent)));
+                    triple.appendChild(objectWrapper);
+                }
                 triple.appendChild(document.createTextNode(" "));
                 objectIndex++;
                 if (objectIndex < predicate.objects.length) {
@@ -117,12 +129,12 @@ function serializeTriples(store, port = null) {
         return predicateWrapper;
     }
 
-    function getObjectWrapper(object, indent) {
+    function getObjectWrapper(object, indent, list = false) {
         if (object.resource.html === null)
             object.resource.createHtml();
         const objectWrapper = document.createElement("span");
         objectWrapper.setAttribute("class", "object");
-        if (object.equivalentSubject !== null) {
+        if (!list && object.equivalentSubject !== null) {
             objectWrapper.appendChild(document.createTextNode("[ "));
             objectWrapper.appendChild(document.createElement("br"));
             objectWrapper.appendChild(document.createTextNode(getIndent(indent + 2)));
