@@ -10,7 +10,7 @@ class Resource {
         this.value = value;
         this.html = null;
         this.constituents = {
-            subject: [],
+            subject: null,
             predicate: [],
             object: []
         };
@@ -37,9 +37,8 @@ class Resource {
         return 0;
     }
 
-    addSubject(subject) {
-        this.constituents.subject.push(subject);
-
+    setSubject(subject) {
+        this.constituents.subject = subject;
     }
 
     addPredicate(predicate) {

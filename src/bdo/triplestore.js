@@ -58,11 +58,13 @@ class Triplestore {
 
     addTriple(subject, predicate, object) {
         const s = Subject.getItem(this.subjects, subject);
-        const p = Predicate.getItem(s.predicates, predicate);
+        const p = Predicate.getItem(s.item.predicates, predicate);
         const o = new Object(object);
-        p.addObject(o);
-        s.addPredicate(p);
-        this.subjects = s.insertSorted(this.subjects);
+        p.item.objects.push(o);
+        if (p.isNew)
+            s.item.predicates.push(p.item);
+        if (s.isNew)
+            this.subjects.push(s.item);
     }
 
     finalize() {
@@ -71,21 +73,26 @@ class Triplestore {
         for (const literal in this.literals)
             this.literals[literal].updatePrefix(this.prefixes);
         removeUnusedPrefixes(this);
-        this.prefixes = this.prefixes.sort((a, b) => {
-            return a.compareTo(b);
-        });
+        this.prefixes = this.prefixes.sort((a, b) => a.compareTo(b));
+        this.subjects = this.subjects.sort((a, b) => a.compareTo(b));
+        for (const s in this.subjects) {
+            const subject = this.subjects[s];
+            subject.predicates = subject.predicates.sort((a, b) => a.compareTo(b));
+            for (const p in subject.predicates) {
+                const predicate = subject.predicates[p];
+                predicate.objects = predicate.objects.sort((a, b) => a.compareTo(b));
+            }
+        }
         chainBlankNodes(this);
 
         function chainBlankNodes(store) {
             for (const b in store.blankNodes) {
                 const bn = store.blankNodes[b];
                 if (bn.constituents.object.length === 1) {
-                    for (const s in bn.constituents.subject) {
-                        bn.constituents.object[0].addEquivalentSubject(bn.constituents.subject[s]);
-                        const index = store.subjects.indexOf(bn.constituents.subject[s]);
-                        if (index >= 0)
-                            store.subjects.splice(index, 1);
-                    }
+                    bn.constituents.object[0].setEquivalentSubject(bn.constituents.subject);
+                    const index = store.subjects.indexOf(bn.constituents.subject);
+                    if (index >= 0)
+                        store.subjects.splice(index, 1);
                 }
             }
         }
@@ -103,57 +110,56 @@ class Triplestore {
     }
 }
 
-class Constituent {
+class Prefix {
+    constructor(name, value) {
+        this.value = value;
+        this.name = name;
+        this.used = false;
+    }
+
+    compareTo(prefix) {
+        return Resource.compareValues(this.name, prefix.name);
+    }
+}
+
+class TripleConstituent {
     constructor(resource) {
         this.resource = resource;
     }
 
     static getItem(list, resource) {
-        for (const item in list) {
-            if (list[item].resource === resource)
-                return list[item];
-        }
-        return null;
+        return list.find(element => resource === element.resource) || null;
     }
 
-    insertSorted(list) {
-        if (list.length === 0) {
+    insertInto(list) {
+        const entry = list.find(element => this.resource.compareTo(element.resource) === 0);
+        if (!entry)
             list.push(this);
-            return list;
-        }
-        let i = 0;
-        let cursor = list[0];
-        while (list.length > i && cursor.resource.compareTo(this.resource) < 0)
-            cursor = list[++i];
-        if (cursor && cursor.resource.compareTo(this.resource) === 0)
-            list.splice(i, 1, this);
-        else
-            list.splice(i, 0, this);
         return list;
+    }
+
+    compareTo(constituent) {
+        return this.resource.compareTo(constituent.resource);
     }
 }
 
-class Subject extends Constituent {
+class Subject extends TripleConstituent {
     constructor(resource) {
         super(resource);
-        resource.addSubject(this);
+        resource.setSubject(this);
         this.predicates = [];
     }
 
     static getItem(list, resource) {
         const item = super.getItem(list, resource);
         if (item !== null)
-            return item;
+            return {item: item, isNew: false};
         else
-            return new Subject(resource);
-    }
-
-    addPredicate(predicate) {
-        this.predicates = predicate.insertSorted(this.predicates);
+            return {item: new Subject(resource), isNew: true};
     }
 }
 
-class Predicate extends Constituent {
+class Predicate extends TripleConstituent {
     constructor(resource) {
         super(resource);
         resource.addPredicate(this);
@@ -163,60 +169,21 @@ class Predicate extends Constituent {
     static getItem(list, resource) {
         const item = super.getItem(list, resource);
         if (item !== null)
-            return item;
+            return {item: item, isNew: false};
         else
-            return new Predicate(resource);
-    }
-
-    addObject(object) {
-        this.objects = object.insertSorted(this.objects);
+            return {item: new Predicate(resource), isNew: true};
     }
 }
 
-class Object extends Constituent {
+class Object extends TripleConstituent {
     constructor(resource) {
         super(resource);
         resource.addObject(this);
-        this.subjects = [];
+        this.equivalentSubject = null;
     }
 
-    addEquivalentSubject(subject) {
-        this.subjects = subject.insertSorted(this.subjects);
-    }
-}
-
-class Prefix {
-    constructor(name, value) {
-        this.value = value;
-        this.html = null;
-        this.name = name;
-        this.used = false;
-    }
-
-    createHtml() {
-        const html = document.createElement("span");
-        html.setAttribute("class", "prefix");
-        const prefixDeclarationElement = document.createElement("span");
-        prefixDeclarationElement.setAttribute("class", "prefixDeclaration");
-        prefixDeclarationElement.appendChild(document.createTextNode("@prefix"));
-        const prefixElement = document.createElement("span");
-        prefixElement.setAttribute("class", "prefixName");
-        prefixElement.appendChild(document.createTextNode(this.name));
-        const doubleColonElement = document.createElement("span");
-        doubleColonElement.setAttribute("class", "postfix");
-        doubleColonElement.appendChild(document.createTextNode(":"));
-        html.appendChild(prefixDeclarationElement);
-        html.appendChild(document.createTextNode(" "));
-        html.appendChild(prefixElement);
-        html.appendChild(doubleColonElement);
-        html.appendChild(document.createTextNode(" "));
-        html.appendChild(this.value.createHtml(true, true));
-        html.appendChild(document.createTextNode(" ."));
-        this.html = html;
-    }
-
-    compareTo(prefix) {
-        return Resource.compareValues(this.name, prefix.name);
+    setEquivalentSubject(subject) {
+        this.equivalentSubject = subject;
     }
 }
 
