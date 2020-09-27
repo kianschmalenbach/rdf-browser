@@ -1,7 +1,11 @@
 #!/bin/bash
 rm build/* -r
-cp src/controller build/ -r
-cp src/view build/ -r
-cp img build/ -r
+mkdir build
+mkdir build/controller
+mkdir build/view
+mkdir build/img
+cp src/controller/* build/controller -r
+cp src/view/* build/view -r
+cp img/* build/img -r
 npm run browserify
 exit 0
