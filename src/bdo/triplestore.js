@@ -136,13 +136,6 @@ class TripleConstituent {
         return list.find(element => resource === element.resource) || null;
     }
 
-    insertInto(list) {
-        const entry = list.find(element => this.resource.compareTo(element.resource) === 0);
-        if (!entry)
-            list.push(this);
-        return list;
-    }
-
     compareTo(constituent) {
         return this.resource.compareTo(constituent.resource);
     }
