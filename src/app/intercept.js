@@ -16,7 +16,7 @@ function getFormats() {
         formats.push("application/ld+json");
     if (options.n4)
         formats.push("application/n-quads");
-    if (options.n3)
+    if (options.nt)
         formats.push("application/n-triples");
     if (options.xml)
         formats.push("application/rdf+xml");
@@ -24,6 +24,8 @@ function getFormats() {
         formats.push("application/trig");
     if (options.ttl)
         formats.push("text/turtle");
+    if (options.n3)
+        formats.push("text/n3");
     return formats;
 }
 

@@ -92,8 +92,9 @@ function getParser(format, baseIRI) {
         case "application/trig":
         case "application/n-quads":
         case "application/n-triples":
-        case "text/n3":
+        case "text/nt":
         case "text/turtle":
+        case "text/n3":
             parser = new N3Parser();
             break;
     }

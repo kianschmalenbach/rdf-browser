@@ -2,10 +2,11 @@ const browser = window.browser;
 const defaultOptions = {
     json: true,
     n4: true,
-    n3: true,
+    nt: true,
     xml: true,
     trig: true,
     ttl: true,
+    n3: true,
     xhr: true,
     rdfext: false,
     jsonldext: false,
