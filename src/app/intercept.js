@@ -90,17 +90,8 @@ function modifyRequestHeader(details) {
  * @returns {{}|{responseHeaders: {name: string, value: string}[]}} The modified response header
  */
 function modifyResponseHeader(details) {
-    if (details.statusCode >= 400 || details.type !== "main_frame" || utils.onList(options, "blacklist", new URL(details.url)))
+    if (details.statusCode >= 300 || details.type !== "main_frame" || utils.onList(options, "blacklist", new URL(details.url)))
         return {};
-    if (details.statusCode >= 300) {
-        const locationHeader = details.responseHeaders.find(h => h.name.toLowerCase() === "location");
-        if (!locationHeader)
-            return {};
-        const target = new URL(locationHeader.value, details.url);
-        if (target)
-            browser.tabs.update(details.tabId, {url: target.toString()});
-        return {};
-    }
     const cl = details.responseHeaders.find(h => h.name.toLowerCase() === "content-length");
     if (cl) {
         const length = parseInt(cl.value);
