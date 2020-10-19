@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        body {
+            min-width: 225px;
+            padding: 5px;
+            background-color: #F9F9FA;
+            text-align: center;
+        }
+
+        .title {
+            font-size: large;
+            font-weight: bold;
+            text-align: center;
+            margin-bottom: 5px;
+        }
+
+        .menu > div {
+            padding: 5px;
+            border-top: 1px solid #AAAAAA;
+        }
+
+        .menu > div:last-child {
+            text-align: center;
+        }
+
+        .option button {
+            text-align: center;
+            font-weight: bold;
+        }
+
+        .option button:not(:last-child) {
+            margin-right: 10px;
+        }
+    </style>
+</head>
+<body>
+<div class="title">Quick Actions</div>
+<div class="menu">
+    <div class="option"><label>
+        <input id="header" type="checkbox">
+        Modify HTTP accept header
+    </label></div>
+    <div class="option"><label>
+        <input id="response" type="checkbox">
+        Parse RDF documents as HTML
+    </label></div>
+    <div class="option"><label>
+        <input id="pageAction" type="checkbox">
+        Show page actions button
+    </label></div>
+    <div class="option">
+        <button id="refresh">Refresh page</button>
+        <button id="settings">Go to settings</button>
+    </div>
+</div>
+<script src="../controller/menu.js"></script>
+</body>
+</html>

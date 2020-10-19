@@ -9,6 +9,19 @@ const filter = {
 };
 let acceptHeader = "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8";
 let options;
+let quickOptions = {
+    header: true,
+    response: true,
+    pageAction: true
+}
+
+function getQuickOptions() {
+    return quickOptions;
+}
+
+function setQuickOptions(options) {
+    quickOptions = options;
+}
 
 function getFormats() {
     const formats = [];
@@ -66,7 +79,7 @@ function getFormatFor(fileType) {
  * @returns {{requestHeaders: *}} The modified request header
  */
 function modifyRequestHeader(details) {
-    if (options.xhr && details.type !== "main_frame")
+    if (!quickOptions.header || (options.xhr && details.type !== "main_frame"))
         return {};
     const formats = getFormats();
     if (formats.length === 0)
@@ -90,7 +103,7 @@ function modifyRequestHeader(details) {
  * @returns {{}|{responseHeaders: {name: string, value: string}[]}} The modified response header
  */
 function modifyResponseHeader(details) {
-    if (details.statusCode >= 300 || details.type !== "main_frame" || utils.onList(options, "blacklist", new URL(details.url)))
+    if (!quickOptions.response || details.statusCode >= 300 || details.type !== "main_frame" || utils.onList(options, "blacklist", new URL(details.url)))
         return {};
     const cl = details.responseHeaders.find(h => h.name.toLowerCase() === "content-length");
     if (cl) {
@@ -285,10 +298,11 @@ function addListeners() {
         browser.webRequest.onBeforeSendHeaders.addListener(modifyRequestHeader, filter, ["blocking", "requestHeaders"]);
         browser.webRequest.onHeadersReceived.addListener(modifyResponseHeader, filter, ["blocking", "responseHeaders"]);
         browser.webNavigation.onCommitted.addListener(details => {
-            browser.pageAction.show(details.tabId);
+            if (quickOptions.pageAction)
+                browser.pageAction.show(details.tabId);
         });
     })
 
 }
 
-module.exports = {addListeners, fetchDocument, acceptHeader}
+module.exports = {addListeners, fetchDocument, acceptHeader, getQuickOptions, setQuickOptions}

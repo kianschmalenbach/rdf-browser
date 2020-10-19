@@ -129,7 +129,7 @@ const defaultOptions = {
     whitelist: ""
 };
 let options;
-const interceptor = require('./app/intercept');
+const interceptor = require('./app/interceptor');
 const ts = require('./bdo/triplestore');
 const utils = require('./app/utils');
 
@@ -158,6 +158,12 @@ function initMessageListeners() {
             switch (msg) {
                 case "render":
                     interceptor.fetchDocument(port, message[1], message[2], message[3]);
+                    break;
+                case "quickOptions":
+                    if (Array.isArray(message))
+                        interceptor.setQuickOptions(message[1]);
+                    else
+                        port.postMessage(interceptor.getQuickOptions());
                     break;
             }
         });
