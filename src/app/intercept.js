@@ -146,7 +146,7 @@ function rewriteResponse(cl, details, encoding, format) {
     try {
         decoder = new TextDecoder(encoding);
     } catch (e) {
-        console.error("The RDF document is encoded in an unsupported format and can hence not be displayed.");
+        console.error("The RDF document is encoded in an unsupported format and can hence not be displayed:\n" + e);
         return {};
     }
     const encoder = new TextEncoder();
