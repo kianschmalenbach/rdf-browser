@@ -78,8 +78,19 @@ function checkListMatch(input, list, url, req = false) {
     }
 }
 
+function injectScript(document, scriptPath) {
+    return new Promise(resolve => {
+        fetch(scriptPath)
+            .then(file => file.text())
+            .then(script => {
+                const array = document.split("//script");
+                resolve(array[0] + script + array[1]);
+            })
+    });
+}
+
 function getOptions() {
     return new Promise(resolve => browser.storage.sync.get("options").then(result => resolve(result.options)));
 }
 
-module.exports = {onList, getListStatus, getOptions};
+module.exports = {onList, getListStatus, injectScript, getOptions};

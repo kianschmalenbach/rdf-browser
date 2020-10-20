@@ -2,7 +2,8 @@ const browser = window.browser;
 const parser = require("./parser");
 const serializer = require("./serializer");
 const utils = require('./utils');
-const scriptPath = "build/controller/style.js";
+const styleScriptPath = "build/controller/style.js";
+const errorScriptPath = "build/controller/error.js";
 const templatePath = "build/view/template.html";
 const filter = {
     urls: ["<all_urls>"]
@@ -166,19 +167,37 @@ function rewriteResponse(cl, details, encoding, format) {
     const baseIRI = details.url.toString();
     processRDFPayload(filter, decoder, format, baseIRI).then(output => {
         filter.write(encoder.encode(output));
+        filter.close();
     })
         .catch(e => {
-            const output = "<h1>RDF-Browser: Error</h1><p>The RDF-document could not be displayed properly.<br>" +
-                "The reason is displayed below:</p><p>" + e.toString() + "</p><br>" +
-                "<p><i>Press Ctrl+U to view the page sources.</i></p>";
-            filter.write(encoder.encode(output));
-        })
-        .finally(() => {
-            filter.close();
+            handleError(e);
         });
     return {
         responseHeaders: responseHeaders
     };
+
+    function handleError(error) {
+        fetch("build/view/error.html").then(file => {
+            file.text().then(text => {
+                utils.injectScript(text, errorScriptPath).then(text => {
+                    const document = new DOMParser().parseFromString(text.toString(), "text/html");
+                    document.title = baseIRI;
+                    document.getElementById("script").removeAttribute("src");
+                    const url = document.createTextNode(baseIRI);
+                    document.getElementById("url").setAttribute("href", baseIRI);
+                    document.getElementById("url").appendChild(url);
+                    const message = document.createTextNode(error.toString());
+                    document.getElementById("message").appendChild(message);
+                    document.getElementById("refresh")
+                        .setAttribute("onclick", "window.location.href='" + baseIRI + "'");
+                    document.getElementById("report")
+                        .setAttribute("onclick", "reportDocument('" + baseIRI + "')");
+                    filter.write(encoder.encode(new XMLSerializer().serializeToString(document)));
+                    filter.close();
+                });
+            });
+        });
+    }
 }
 
 /**
@@ -240,7 +259,7 @@ async function processRDFPayload(stream, decoder, format, baseIRI, port = null) 
         serializer.serializeTriples(triplestore, port);
     } else {
         let template = await getTemplate();
-        template = await injectScript(template);
+        template = await utils.injectScript(template, styleScriptPath);
         return createDocument(template, triplestore);
     }
 
@@ -252,19 +271,6 @@ async function processRDFPayload(stream, decoder, format, baseIRI, port = null) 
                 })
                 .then(text => {
                     resolve(text);
-                })
-        });
-    }
-
-    function injectScript(template) {
-        return new Promise(resolve => {
-            fetch(scriptPath)
-                .then(file => {
-                    return file.text();
-                })
-                .then(script => {
-                    const array = template.split("//script");
-                    resolve(array[0] + script + array[1]);
                 })
         });
     }
