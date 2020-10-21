@@ -170,34 +170,14 @@ function rewriteResponse(cl, details, encoding, format) {
         filter.close();
     })
         .catch(e => {
-            handleError(e);
+            handleError(e, baseIRI, false).then(document => {
+                filter.write(encoder.encode(document.toString()));
+                filter.close();
+            });
         });
     return {
         responseHeaders: responseHeaders
     };
-
-    function handleError(error) {
-        fetch("build/view/error.html").then(file => {
-            file.text().then(text => {
-                utils.injectScript(text, errorScriptPath).then(text => {
-                    const document = new DOMParser().parseFromString(text.toString(), "text/html");
-                    document.title = baseIRI;
-                    document.getElementById("script").removeAttribute("src");
-                    const url = document.createTextNode(baseIRI);
-                    document.getElementById("url").setAttribute("href", baseIRI);
-                    document.getElementById("url").appendChild(url);
-                    const message = document.createTextNode(error.toString());
-                    document.getElementById("message").appendChild(message);
-                    document.getElementById("refresh")
-                        .setAttribute("onclick", "window.location.href='" + baseIRI + "'");
-                    document.getElementById("report")
-                        .setAttribute("onclick", "reportDocument('" + baseIRI + "')");
-                    filter.write(encoder.encode(new XMLSerializer().serializeToString(document)));
-                    filter.close();
-                });
-            });
-        });
-    }
 }
 
 /**
@@ -237,8 +217,7 @@ function fetchDocument(port, url, encoding, format) {
         })
     });
     fetch(request).then(response => response.body).then(response => {
-        const baseIRI = new URL(location.href).searchParams.get("url");
-        processRDFPayload(response.getReader(), new TextDecoder(encoding), format, baseIRI, port);
+        processRDFPayload(response.getReader(), new TextDecoder(encoding), format, url, port).then();
     });
 }
 
@@ -253,11 +232,18 @@ function fetchDocument(port, url, encoding, format) {
  */
 async function processRDFPayload(stream, decoder, format, baseIRI, port = null) {
     const contentScript = (port !== null);
-    const triplestore = await parser.obtainTriplestore(stream, decoder, format, contentScript, baseIRI, port);
     if (contentScript) {
-        serializer.serializePrefixes(triplestore, port);
-        serializer.serializeTriples(triplestore, port);
+        try {
+            const triplestore = await parser.obtainTriplestore(stream, decoder, format, contentScript, baseIRI, port);
+            serializer.serializePrefixes(triplestore, port);
+            serializer.serializeTriples(triplestore, port);
+        } catch (e) {
+            handleError(e, baseIRI, true).then(document => {
+                port.postMessage(["error", document]);
+            });
+        }
     } else {
+        const triplestore = await parser.obtainTriplestore(stream, decoder, format, contentScript, baseIRI, port);
         let template = await getTemplate();
         template = await utils.injectScript(template, styleScriptPath);
         return createDocument(template, triplestore);
@@ -290,6 +276,30 @@ async function processRDFPayload(stream, decoder, format, baseIRI, port = null) 
         document.getElementById("triples").appendChild(serializer.serializeTriples(store));
         return new XMLSerializer().serializeToString(document);
     }
+}
+
+/**
+ * Show the error page in case parsing an RDF document failed
+ * @param error The error thrown by the parser
+ * @param baseIRI The initial URI of the request
+ * @param contentScript Flag whether content script mode is used
+ * @returns The serialized error HTML page
+ */
+async function handleError(error, baseIRI, contentScript) {
+    const file = await fetch("build/view/error.html");
+    let text = await file.text();
+    if (!contentScript)
+        text = await utils.injectScript(text, errorScriptPath);
+    const document = new DOMParser().parseFromString(text.toString(), "text/html");
+    document.title = baseIRI;
+    if (!contentScript)
+        document.getElementById("script").removeAttribute("src");
+    const url = document.createTextNode(baseIRI);
+    document.getElementById("url").setAttribute("href", baseIRI);
+    document.getElementById("url").appendChild(url);
+    const message = document.createTextNode(error.toString());
+    document.getElementById("message").appendChild(message);
+    return new XMLSerializer().serializeToString(document);
 }
 
 /**

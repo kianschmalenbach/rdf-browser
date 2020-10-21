@@ -40,6 +40,11 @@ function handleMessage(message) {
             while (fragment.body.firstElementChild)
                 element.appendChild(fragment.body.firstElementChild);
             break;
+        case "error":
+            document.open();
+            document.write(message[1]);
+            document.close();
+            break;
     }
 }
 

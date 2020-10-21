@@ -1,9 +1,14 @@
 const pedanticURI = "https://aharth.inrupt.net/public/2020/pedanticweb/";
+const baseIRI = document.getElementById("url").getAttribute("href");
 
-function reportDocument(url) {
+function handleRefresh() {
+    window.location.href = baseIRI;
+}
+
+function handleReport() {
     fetch(pedanticURI, {
         method: "POST",
-        body: url
+        body: baseIRI
     })
         .then(success)
         .catch(failure);
@@ -19,3 +24,6 @@ function reportDocument(url) {
         document.getElementById("status").appendChild(textNode);
     }
 }
+
+document.getElementById("refresh").addEventListener("click", handleRefresh);
+document.getElementById("report").addEventListener("click", handleReport);

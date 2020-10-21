@@ -3,9 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <title>RDF Browser: Error</title>
-    <script id="script" src="../controller/error.js">
-        //script
-    </script>
 </head>
 <body>
 <h1>RDF Browser: Error</h1>
@@ -15,8 +12,11 @@
 <p style="font-style: italic; margin-bottom: 30px;">Press Ctrl+U to view the page sources.</p>
 <p>
     <button id="refresh" style="font-weight: bold;">Refresh page</button>
-    <button id="report" style="font-weight: bold;">Report invalid document</button>
+    <button id="report" style="font-weight: bold;">Report error</button>
 </p>
 <p id="status"></p>
+<script defer="defer" id="script" src="../controller/error.js">
+    //script
+</script>
 </body>
 </html>
