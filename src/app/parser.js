@@ -82,7 +82,9 @@ function getParser(format, baseIRI) {
     let parser = null;
     switch (format) {
         case "application/rdf+xml":
-            parser = new RdfXmlParser();
+            parser = new RdfXmlParser({
+                baseIRI: baseIRI
+            });
             break;
         case "application/ld+json":
             parser = new JsonLdParser({
@@ -95,7 +97,9 @@ function getParser(format, baseIRI) {
         case "text/nt":
         case "text/turtle":
         case "text/n3":
-            parser = new N3Parser();
+            parser = new N3Parser({
+                baseIRI: baseIRI
+            });
             break;
     }
     return parser;
