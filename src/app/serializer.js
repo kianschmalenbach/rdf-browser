@@ -1,20 +1,12 @@
-const serializer = new XMLSerializer();
-
-function serializePrefixes(store, port = null) {
-    const html = new DocumentFragment();
-    let response = "";
+function serializePrefixes(store, html = null) {
+    if (html === null)
+        html = new DocumentFragment();
     store.prefixes.forEach(prefix => {
         const prefixWrapper = createPrefixHTML(prefix);
         prefixWrapper.appendChild(document.createElement("br"));
-        if (port)
-            response += serializer.serializeToString(prefixWrapper);
-        else
-            html.appendChild(prefixWrapper);
+        html.appendChild(prefixWrapper);
     });
-    if (port)
-        port.postMessage(["prefix", response]);
-    else
-        return html;
+    return html;
 
     function createPrefixHTML(prefix) {
         const html = document.createElement("span");
@@ -39,23 +31,17 @@ function serializePrefixes(store, port = null) {
     }
 }
 
-function serializeTriples(store, port = null) {
-    const html = new DocumentFragment();
-    let response = "";
+function serializeTriples(store, html = null) {
+    if (html === null)
+        html = new DocumentFragment();
     store.subjects.forEach(subject => {
         const triple = document.createElement("p");
         triple.setAttribute("class", "triple");
         serializeTriple(triple, subject);
         triple.appendChild(document.createTextNode(" ."));
-        if (port)
-            response += serializer.serializeToString(triple);
-        else
-            html.appendChild(triple);
+        html.appendChild(triple);
     });
-    if (port)
-        port.postMessage(["triple", response]);
-    else
-        return html;
+    return html;
 
     function serializeTriple(triple, subject, indent = 0) {
         if (indent === 0) {

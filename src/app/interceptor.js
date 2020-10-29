@@ -219,20 +219,23 @@ function getNewAcceptHeader(oldHeader) {
 }
 
 /**
- * Fetch an RDF document as response to a content script request
- * @param port The port for communication with the content script
+ * Fetch an RDF document as response to a content script request and return the triplestore
  * @param url The URI of the document to fetch
  * @param encoding The encoding of the document to fetch
  * @param format The format of the document to fetch
  */
-function fetchDocument(port, url, encoding, format) {
+function fetchDocument(url, encoding, format) {
     const request = new Request(url, {
         headers: new Headers({
             'Accept': acceptHeader
         })
     });
-    fetch(request).then(response => response.body).then(response => {
-        processRDFPayload(response.getReader(), new TextDecoder(encoding), format, url, port).then();
+    return new Promise((resolve, reject) => {
+        fetch(request).then(response => response.body).then(response => {
+            parser.obtainTriplestore(response.getReader(), new TextDecoder(encoding), format, true, url)
+                .then(triplestore => resolve(triplestore))
+                .catch(e => reject(e));
+        });
     });
 }
 
@@ -242,25 +245,13 @@ function fetchDocument(port, url, encoding, format) {
  * @param decoder The decoder for the response stream
  * @param format The serialization format of the RDF resource
  * @param baseIRI The IRI of the RDF document
- * @param port The port to communicate with the content script (null for background script mode)
  * @returns The HTML payload as string (in background script mode only)
  */
-async function processRDFPayload(stream, decoder, format, baseIRI, port = null) {
-    const contentScript = (port !== null);
-    if (contentScript) {
-        try {
-            const triplestore = await parser.obtainTriplestore(stream, decoder, format, contentScript, baseIRI, port);
-            serializer.serializePrefixes(triplestore, port);
-            serializer.serializeTriples(triplestore, port);
-        } catch (e) {
-            port.postMessage(["error", baseIRI, e.toString()]);
-        }
-    } else {
-        const triplestore = await parser.obtainTriplestore(stream, decoder, format, contentScript, baseIRI, port);
-        let template = await getTemplate();
-        template = await utils.injectScript(template, styleScriptPath);
-        return createDocument(template, triplestore);
-    }
+async function processRDFPayload(stream, decoder, format, baseIRI) {
+    const triplestore = await parser.obtainTriplestore(stream, decoder, format, false, baseIRI);
+    let template = await getTemplate();
+    template = await utils.injectScript(template, styleScriptPath);
+    return createDocument(template, triplestore);
 
     function getTemplate() {
         return new Promise(resolve => {

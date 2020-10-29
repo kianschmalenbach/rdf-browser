@@ -1,4 +1,8 @@
 const browser = window.browser;
+const interceptor = require('./app/interceptor');
+const ts = require('./bdo/triplestore');
+const utils = require('./app/utils');
+const content = require('./app/content.js');
 const defaultOptions = {
     json: true,
     n4: true,
@@ -129,9 +133,6 @@ const defaultOptions = {
     whitelist: ""
 };
 let options;
-const interceptor = require('./app/interceptor');
-const ts = require('./bdo/triplestore');
-const utils = require('./app/utils');
 
 /**
  * Initialize the listeners for messages from content scripts
@@ -156,9 +157,6 @@ function initMessageListeners() {
         port.onMessage.addListener(message => {
             let msg = Array.isArray(message) ? message[0] : message;
             switch (msg) {
-                case "render":
-                    interceptor.fetchDocument(port, message[1], message[2], message[3]);
-                    break;
                 case "quickOptions":
                     if (Array.isArray(message))
                         interceptor.setQuickOptions(message[1]);
@@ -171,31 +169,36 @@ function initMessageListeners() {
 }
 
 /**
- * Initialize the storage with the plugin default options and set the listener for option changes
+ * Initialize the storage with the plugin default options and set the listener for option changes (background script)
+ * or initialize the page template (content script)
  */
-ts.getCommonPrefixes().then(() => {
-});
-browser.storage.onChanged.addListener(() => {
-    utils.getOptions().then(res => options = res);
-});
-browser.storage.sync.get("options").then(result => {
-    if (result.options === undefined) {
-        result = {
-            options: defaultOptions
-        };
-    } else {
-        for (const option in defaultOptions) {
-            if (!result.options.hasOwnProperty(option))
-                result.options[option] = defaultOptions[option];
-            else if (option.startsWith("all")) {
-                for (const child in defaultOptions[option]) {
-                    if (child !== "custom" && child !== "selected")
-                        result.options[option][child] = defaultOptions[option][child];
+if (document.body.id === "template") {
+    document.body.onloaddone = content.init().then();
+} else {
+    ts.getCommonPrefixes().then(() => {
+    });
+    browser.storage.onChanged.addListener(() => {
+        utils.getOptions().then(res => options = res);
+    });
+    browser.storage.sync.get("options").then(result => {
+        if (result.options === undefined) {
+            result = {
+                options: defaultOptions
+            };
+        } else {
+            for (const option in defaultOptions) {
+                if (!result.options.hasOwnProperty(option))
+                    result.options[option] = defaultOptions[option];
+                else if (option.startsWith("all")) {
+                    for (const child in defaultOptions[option]) {
+                        if (child !== "custom" && child !== "selected")
+                            result.options[option][child] = defaultOptions[option][child];
+                    }
                 }
             }
         }
-    }
-    browser.storage.sync.set(result);
-    options = result.options;
-    initMessageListeners();
-});
+        browser.storage.sync.set(result);
+        options = result.options;
+        initMessageListeners();
+    });
+}

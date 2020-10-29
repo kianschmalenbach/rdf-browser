@@ -4,7 +4,7 @@ const N3Parser = require("@rdfjs/parser-n3");
 const Transform = require("stream").Transform;
 const ts = require("../bdo/triplestore");
 
-function obtainTriplestore(inputStream, decoder, format, contentScript, baseIRI, port = null) {
+function obtainTriplestore(inputStream, decoder, format, contentScript, baseIRI) {
     return new Promise((resolve, reject) => {
         const parser = getParser(format, baseIRI);
         if (!parser)
@@ -17,8 +17,7 @@ function obtainTriplestore(inputStream, decoder, format, contentScript, baseIRI,
                 }
             });
             if (contentScript) {
-                if (port)
-                    port.postMessage(["status", "Status: fetching file..."]);
+                document.getElementById("status").innerText = "Status: fetching file...";
                 inputStream.read().then(function processText({done, value}) {
                     if (done)
                         transformStream.push(null);
@@ -49,8 +48,9 @@ function obtainTriplestore(inputStream, decoder, format, contentScript, baseIRI,
                     const predicate = processResource(store, triple.predicate);
                     const object = processResource(store, triple.object);
                     store.addTriple(subject, predicate, object);
-                    if (port)
-                        port.postMessage(["status", "Status: processing " + counter + " triples..."]);
+                    if (contentScript)
+                        document.getElementById("status").innerText = "Status: processing " + counter
+                            + " triples...";
                     counter++;
                 })
                 .on("prefix", (prefix, ns) => {
@@ -58,14 +58,13 @@ function obtainTriplestore(inputStream, decoder, format, contentScript, baseIRI,
                         store.addPrefix(prefix, ns.value);
                 })
                 .on("error", error => {
-                    if (port)
-                        port.postMessage(["status", "Status: parsing error: " + error + " (see console for more details)"]);
+                    if (contentScript)
+                        document.getElementById("status").innerText = "Status: parsing error: " + error
+                            + " (see console for more details)";
                     reject(error);
                 })
                 .on("end", () => {
                     store.finalize();
-                    if (port)
-                        port.postMessage("start");
                     resolve(store);
                 });
         });
