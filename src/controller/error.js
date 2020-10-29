@@ -1,5 +1,14 @@
 const pedanticURI = "https://aharth.inrupt.net/public/2020/pedanticweb/";
-const baseIRI = document.getElementById("url").getAttribute("href");
+let baseIRI = document.getElementById("url").getAttribute("href");
+if (baseIRI === null) {
+    baseIRI = new URLSearchParams(window.location.search).get('url');
+    document.getElementById("url").setAttribute("href", baseIRI);
+    document.getElementById("url").appendChild(document.createTextNode(baseIRI));
+    const message = new URLSearchParams(window.location.search).get('message');
+    document.getElementById("message").appendChild(document.createTextNode(message));
+    document.getElementById("sources").remove();
+}
+
 
 function handleRefresh() {
     window.location.href = baseIRI;

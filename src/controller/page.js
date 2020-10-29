@@ -41,9 +41,9 @@ function handleMessage(message) {
                 element.appendChild(fragment.body.firstElementChild);
             break;
         case "error":
-            document.open();
-            document.write(message[1]);
-            document.close();
+            const url = browser.runtime.getURL("build/view/error.html?url=")
+                + encodeURIComponent(message[1]) + "&message=" + encodeURIComponent(message[2]);
+            window.location.replace(url);
             break;
     }
 }

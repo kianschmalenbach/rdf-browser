@@ -170,7 +170,7 @@ function rewriteResponse(cl, details, encoding, format) {
         filter.close();
     })
         .catch(e => {
-            handleError(e, baseIRI, false).then(document => {
+            handleError(e).then(document => {
                 filter.write(encoder.encode(document.toString()));
                 filter.close();
             });
@@ -178,6 +178,21 @@ function rewriteResponse(cl, details, encoding, format) {
     return {
         responseHeaders: responseHeaders
     };
+
+    async function handleError(error) {
+        const file = await fetch("build/view/error.html");
+        let text = await file.text();
+        text = await utils.injectScript(text, errorScriptPath);
+        const document = new DOMParser().parseFromString(text.toString(), "text/html");
+        document.title = baseIRI;
+        document.getElementById("script").removeAttribute("src");
+        const url = document.createTextNode(baseIRI);
+        document.getElementById("url").setAttribute("href", baseIRI);
+        document.getElementById("url").appendChild(url);
+        const message = document.createTextNode(error.toString());
+        document.getElementById("message").appendChild(message);
+        return new XMLSerializer().serializeToString(document);
+    }
 }
 
 /**
@@ -238,9 +253,7 @@ async function processRDFPayload(stream, decoder, format, baseIRI, port = null) 
             serializer.serializePrefixes(triplestore, port);
             serializer.serializeTriples(triplestore, port);
         } catch (e) {
-            handleError(e, baseIRI, true).then(document => {
-                port.postMessage(["error", document]);
-            });
+            port.postMessage(["error", baseIRI, e.toString()]);
         }
     } else {
         const triplestore = await parser.obtainTriplestore(stream, decoder, format, contentScript, baseIRI, port);
@@ -276,30 +289,6 @@ async function processRDFPayload(stream, decoder, format, baseIRI, port = null) 
         document.getElementById("triples").appendChild(serializer.serializeTriples(store));
         return new XMLSerializer().serializeToString(document);
     }
-}
-
-/**
- * Show the error page in case parsing an RDF document failed
- * @param error The error thrown by the parser
- * @param baseIRI The initial URI of the request
- * @param contentScript Flag whether content script mode is used
- * @returns The serialized error HTML page
- */
-async function handleError(error, baseIRI, contentScript) {
-    const file = await fetch("build/view/error.html");
-    let text = await file.text();
-    if (!contentScript)
-        text = await utils.injectScript(text, errorScriptPath);
-    const document = new DOMParser().parseFromString(text.toString(), "text/html");
-    document.title = baseIRI;
-    if (!contentScript)
-        document.getElementById("script").removeAttribute("src");
-    const url = document.createTextNode(baseIRI);
-    document.getElementById("url").setAttribute("href", baseIRI);
-    document.getElementById("url").appendChild(url);
-    const message = document.createTextNode(error.toString());
-    document.getElementById("message").appendChild(message);
-    return new XMLSerializer().serializeToString(document);
 }
 
 /**
