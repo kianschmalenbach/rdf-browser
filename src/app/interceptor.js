@@ -24,21 +24,21 @@ function setQuickOptions(options) {
     quickOptions = options;
 }
 
-function getFormats() {
+function getFormats(considerOptions = true) {
     const formats = [];
-    if (options.json)
+    if (!considerOptions || options.json)
         formats.push("application/ld+json");
-    if (options.n4)
+    if (!considerOptions || options.n4)
         formats.push("application/n-quads");
-    if (options.nt)
+    if (!considerOptions || options.nt)
         formats.push("application/n-triples");
-    if (options.xml)
+    if (!considerOptions || options.xml)
         formats.push("application/rdf+xml");
-    if (options.trig)
+    if (!considerOptions || options.trig)
         formats.push("application/trig");
-    if (options.ttl)
+    if (!considerOptions || options.ttl)
         formats.push("text/turtle");
-    if (options.n3)
+    if (!considerOptions || options.n3)
         formats.push("text/n3");
     return formats;
 }
@@ -199,9 +199,9 @@ function rewriteResponse(cl, details, encoding, format) {
  * Return the modified accept header as a string
  * @returns {string} The modified accept header
  */
-function getNewAcceptHeader(oldHeader) {
+function getNewAcceptHeader(oldHeader, considerOptions = true) {
     let newHeader = "";
-    for (const f of getFormats())
+    for (const f of getFormats(considerOptions))
         newHeader += f + ";q=1,";
     for (let f of oldHeader.split(",")) {
         let q = 1.0;
@@ -221,21 +221,35 @@ function getNewAcceptHeader(oldHeader) {
 /**
  * Fetch an RDF document as response to a content script request and return the triplestore
  * @param url The URI of the document to fetch
+ * @param baseTriplestore The triplestore of the base document (if any)
  * @param encoding The encoding of the document to fetch
  * @param format The format of the document to fetch
  */
-function fetchDocument(url, encoding, format) {
+function fetchDocument(url, baseTriplestore, encoding = null, format = null) {
     const request = new Request(url, {
         headers: new Headers({
             'Accept': acceptHeader
         })
     });
     return new Promise((resolve, reject) => {
-        fetch(request).then(response => response.body).then(response => {
-            parser.obtainTriplestore(response.getReader(), new TextDecoder(encoding), format, true, url)
+        fetch(request).then(response => {
+            if (!response.ok)
+                throw new Error(response.statusText);
+            if (encoding === null)
+                encoding = response.headers.get("Encoding") || "utf-8";
+            if (format === null)
+                format = (response.headers.get("Content-type").split(";"))[0];
+            if (!getFormats(false).includes(format))
+                throw new Error("Wrong format: " + format);
+            return [encoding, format, response.body];
+        }).then(answer => {
+            const encoding = answer[0];
+            const format = answer[1];
+            const response = answer[2];
+            parser.obtainTriplestore(response.getReader(), new TextDecoder(encoding), format, true, url, baseTriplestore)
                 .then(triplestore => resolve(triplestore))
-                .catch(e => reject(e));
-        });
+                .catch(reject);
+        }).catch(reject);
     });
 }
 
@@ -301,4 +315,4 @@ function addListeners() {
 
 }
 
-module.exports = {addListeners, fetchDocument, acceptHeader, getQuickOptions, setQuickOptions}
+module.exports = {addListeners, fetchDocument, acceptHeader, getNewAcceptHeader, getQuickOptions, setQuickOptions}

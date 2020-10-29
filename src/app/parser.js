@@ -3,8 +3,9 @@ const JsonLdParser = require("jsonld-streaming-parser").JsonLdParser;
 const N3Parser = require("@rdfjs/parser-n3");
 const Transform = require("stream").Transform;
 const ts = require("../bdo/triplestore");
+const rs = require("../bdo/resource");
 
-function obtainTriplestore(inputStream, decoder, format, contentScript, baseIRI) {
+function obtainTriplestore(inputStream, decoder, format, contentScript, baseIRI, baseTriplestore = null) {
     return new Promise((resolve, reject) => {
         const parser = getParser(format, baseIRI);
         if (!parser)
@@ -17,7 +18,8 @@ function obtainTriplestore(inputStream, decoder, format, contentScript, baseIRI)
                 }
             });
             if (contentScript) {
-                document.getElementById("status").innerText = "Status: fetching file...";
+                if (baseTriplestore === null)
+                    document.getElementById("status").innerText = "Status: fetching file...";
                 inputStream.read().then(function processText({done, value}) {
                     if (done)
                         transformStream.push(null);
@@ -43,22 +45,13 @@ function obtainTriplestore(inputStream, decoder, format, contentScript, baseIRI)
                             store.addPrefix(prefix, context[prefix]);
                     }
                 })
-                .on("data", triple => {
-                    const subject = processResource(store, triple.subject);
-                    const predicate = processResource(store, triple.predicate);
-                    const object = processResource(store, triple.object);
-                    store.addTriple(subject, predicate, object);
-                    if (contentScript)
-                        document.getElementById("status").innerText = "Status: processing " + counter
-                            + " triples...";
-                    counter++;
-                })
+                .on("data", handleTriple(store, counter))
                 .on("prefix", (prefix, ns) => {
                     if (typeof ns.value === "string" && /^http/.test(ns.value))
                         store.addPrefix(prefix, ns.value);
                 })
                 .on("error", error => {
-                    if (contentScript)
+                    if (contentScript && baseTriplestore === null)
                         document.getElementById("status").innerText = "Status: parsing error: " + error
                             + " (see console for more details)";
                     reject(error);
@@ -74,6 +67,30 @@ function obtainTriplestore(inputStream, decoder, format, contentScript, baseIRI)
         let data = decoder.decode(value, {stream: true});
         if (typeof data === "string")
             transformStream.push(data);
+    }
+
+    function handleTriple(store, counter) {
+        return triple => {
+            const predicate = processResource(store, triple.predicate);
+            if (baseTriplestore !== null) {
+                if (!predicate instanceof rs.URI || !ts.isAnnotationPredicate(predicate.value))
+                    return;
+                const subject = processResource(store, triple.subject);
+                const ref = baseTriplestore.uris[subject.value];
+                if (typeof ref === "undefined")
+                    return;
+                const object = processResource(store, triple.object);
+                ref.annotate(predicate.value, object);
+            } else {
+                const subject = processResource(store, triple.subject);
+                const object = processResource(store, triple.object);
+                store.addTriple(subject, predicate, object);
+                if (contentScript)
+                    document.getElementById("status").innerText = "Status: processing " + counter
+                        + " triples...";
+                counter++;
+            }
+        };
     }
 }
 

@@ -6,6 +6,16 @@ const listURIs = {
     nil: "http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"
 }
 const commonPrefixes = [];
+const annotationPredicates = [
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+    "http://www.w3.org/2000/01/rdf-schema#label",
+    "http://www.w3.org/2000/01/rdf-schema#comment",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso",
+    "http://www.w3.org/2000/01/rdf-schema#domain",
+    "http://www.w3.org/2000/01/rdf-schema#range",
+    "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+    "http://www.w3.org/2000/01/rdf-schema#subPropertyOf"
+];
 
 class Triplestore {
     constructor(commonPrefixes = []) {
@@ -227,6 +237,10 @@ function getCommonPrefixes() {
     })
 }
 
+function isAnnotationPredicate(uri) {
+    return annotationPredicates.includes(uri);
+}
+
 function getTriplestore(contentScript = true) {
     if (contentScript) {
         return new Promise(resolve => {
@@ -241,4 +255,4 @@ function getTriplestore(contentScript = true) {
     }
 }
 
-module.exports = {getTriplestore, getCommonPrefixes, Triplestore};
+module.exports = {getTriplestore, getCommonPrefixes, Triplestore, isAnnotationPredicate};

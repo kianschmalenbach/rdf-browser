@@ -15,7 +15,7 @@ async function loadContent() {
     const encoding = decodeURIComponent(params.get("encoding"));
     const format = decodeURIComponent(params.get("format"));
     try {
-        triplestore = await interceptor.fetchDocument(url, encoding, format);
+        triplestore = await interceptor.fetchDocument(url, null, encoding, format);
         document.getElementById("hint").remove();
         document.getElementById("status").remove();
         serializer.serializePrefixes(triplestore, document.getElementById("prefixes"));
@@ -28,7 +28,15 @@ async function loadContent() {
 }
 
 function crawl() {
+    for (const u in triplestore.uris) {
+        const uri = triplestore.uris[u];
+        if (uri.isUsedAsPredicate())
+            interceptor.fetchDocument(uri.value, triplestore).then(() => {
 
+            }).catch(() => {
+
+            });
+    }
 }
 
 module.exports = {init};

@@ -48,6 +48,18 @@ class Resource {
     addObject(object) {
         this.constituents.object.push(object);
     }
+
+    isUsedAsSubject() {
+        return this.constituents.subject !== null;
+    }
+
+    isUsedAsPredicate() {
+        return this.constituents.predicate.length > 0;
+    }
+
+    isUsedAsObject() {
+        return this.constituents.object.length > 0;
+    }
 }
 
 class URI extends Resource {
@@ -57,6 +69,7 @@ class URI extends Resource {
         const id = value.split("#");
         if (id.length > 1 && id[id.length - 1] !== "")
             this.id = id[id.length - 1];
+        this.description = {};
     }
 
     updatePrefix(prefixes) {
@@ -105,6 +118,10 @@ class URI extends Resource {
             this.html = html;
         if (retrieveHtml)
             return html;
+    }
+
+    annotate(type, value) {
+        this.description[type] = value;
     }
 
     getTypeNumber() {
