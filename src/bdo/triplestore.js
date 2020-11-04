@@ -14,8 +14,10 @@ const annotationPredicates = [
     "http://www.w3.org/2000/01/rdf-schema#domain",
     "http://www.w3.org/2000/01/rdf-schema#range",
     "http://www.w3.org/2000/01/rdf-schema#subClassOf",
-    "http://www.w3.org/2000/01/rdf-schema#subPropertyOf"
-];
+    "http://www.w3.org/2000/01/rdf-schema#subPropertyOf",
+    "http://xmlns.com/foaf/0.1/name",
+    "http://purl.org/dc/elements/1.1/title"
+]; //TODO fetch dynamically
 
 class Triplestore {
     constructor(commonPrefixes = []) {

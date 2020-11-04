@@ -246,9 +246,14 @@ function fetchDocument(url, baseTriplestore, encoding = null, format = null) {
             const encoding = answer[0];
             const format = answer[1];
             const response = answer[2];
-            parser.obtainTriplestore(response.getReader(), new TextDecoder(encoding), format, true, url, baseTriplestore)
-                .then(triplestore => resolve(triplestore))
-                .catch(reject);
+            if (baseTriplestore === null)
+                parser.obtainTriplestore(response.getReader(), new TextDecoder(encoding), format, true, url)
+                    .then(triplestore => resolve(triplestore))
+                    .catch(reject);
+            else
+                parser.obtainDescriptions(response.getReader(), new TextDecoder(encoding), format, url, baseTriplestore)
+                    .then(resolve)
+                    .catch(reject);
         }).catch(reject);
     });
 }

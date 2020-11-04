@@ -121,7 +121,16 @@ class URI extends Resource {
     }
 
     annotate(type, value) {
-        this.description[type] = value;
+        if (!this.description.hasOwnProperty(type))
+            this.description[type] = [value];
+        else {
+            for (const entry of this.description[type]) {
+                if (entry.constructor === value.constructor && entry.value === value.value)
+                    return;
+            }
+            this.description[type].push(value);
+        }
+        console.log(this.description);
     }
 
     getTypeNumber() {
