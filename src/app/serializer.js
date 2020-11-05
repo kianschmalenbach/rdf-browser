@@ -53,8 +53,9 @@ function serializeTriples(store, html = null) {
             const predicate = subject.predicates[predicateIndex];
             const predicateWrapper = getPredicateWrapper(predicate);
             const predicateIndent = (indent === 0 ? subject.resource.representationLength : indent) + 1;
-            if (predicateIndex > 0)
-                triple.appendChild(document.createTextNode(getIndent(predicateIndent)));
+            predicateWrapper.setAttribute("indent", predicateIndent);
+            if (predicateIndex > 0 || indent > 0)
+                predicateWrapper.setAttribute("style", "margin-left: " + predicateIndent + "ch;");
             triple.appendChild(predicateWrapper);
             triple.appendChild(document.createTextNode(" "));
             let objectIndex = 0;
@@ -63,18 +64,21 @@ function serializeTriples(store, html = null) {
                 const objectIndent = predicateIndent + predicate.resource.representationLength + 1;
                 const list = object.getList();
                 if (list !== null) {
-                    if (objectIndex > 0)
-                        triple.appendChild(document.createTextNode(getIndent(objectIndent)));
                     triple.appendChild(document.createTextNode("( "));
                     for (const i in list) {
-                        triple.appendChild(getObjectWrapper(list[i], 0, true));
+                        const objectWrapper = getObjectWrapper(list[i], 0, true);
+                        objectWrapper.setAttribute("indent", objectIndent);
+                        if (objectIndex > 0)
+                            objectWrapper.setAttribute("style", "margin-left: " + objectIndent + "ch;");
+                        triple.appendChild(objectWrapper);
                         triple.appendChild(document.createTextNode(" "));
                     }
                     triple.appendChild(document.createTextNode(")"));
                 } else {
                     const objectWrapper = getObjectWrapper(object, objectIndent);
+                    objectWrapper.setAttribute("indent", objectIndent);
                     if (objectIndex > 0)
-                        triple.appendChild(document.createTextNode(getIndent(objectIndent)));
+                        objectWrapper.setAttribute("style", "margin-left: " + objectIndent + "ch;");
                     triple.appendChild(objectWrapper);
                 }
                 triple.appendChild(document.createTextNode(" "));
@@ -123,22 +127,17 @@ function serializeTriples(store, html = null) {
         if (!list && object.equivalentSubject !== null) {
             objectWrapper.appendChild(document.createTextNode("[ "));
             objectWrapper.appendChild(document.createElement("br"));
-            objectWrapper.appendChild(document.createTextNode(getIndent(indent + 2)));
             serializeTriple(objectWrapper, object.equivalentSubject, indent + 1);
             objectWrapper.appendChild(document.createElement("br"));
-            objectWrapper.appendChild(document.createTextNode(getIndent(indent) + "]"));
+            const closingBracketWrapper = document.createElement("span");
+            closingBracketWrapper.appendChild(document.createTextNode("]"));
+            closingBracketWrapper.setAttribute("style", "margin-left: " + indent + "ch;");
+            objectWrapper.appendChild(closingBracketWrapper);
         } else {
             const objectElement = object.resource.html.cloneNode(true);
             objectWrapper.appendChild(objectElement);
         }
         return objectWrapper;
-    }
-
-    function getIndent(spaces) {
-        let output = "";
-        for (let i = 0; i < spaces; i++)
-            output += "\u00A0";
-        return output;
     }
 }
 

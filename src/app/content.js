@@ -55,27 +55,57 @@ async function crawl() {
         const uriValue = uri.value.split('#')[0];
         if (crawled.includes(uriValue))
             continue;
-        if (uri.isUsedAsPredicate()) {
-            crawled.push(uriValue);
-            interceptor.fetchDocument(uriValue, triplestore).catch(() => {
-            });
-        }
+        crawled.push(uriValue);
+        interceptor.fetchDocument(uriValue, triplestore).catch(() => {
+        });
     }
 }
 
 function showDescription(event) {
-    if (event.target.localName !== "a")
+    const element = event.target;
+    if (element.localName !== "a")
         return;
-    const uri = triplestore.uris[event.target.getAttribute("href")];
+    const uri = triplestore.uris[element.getAttribute("href")];
     if (!uri)
         return;
+    let parent = element;
+    while (!["subject", "predicate", "object"].includes(parent.getAttribute("class")))
+        parent = parent.parentElement;
     const description = uri.description;
-    for (const type in description) {
-        //TODO: show tooltip
-        console.log(type);
-        for (const value of description[type])
-            console.log(value);
-        console.log("\n");
+    if (Object.keys(description).length === 0)
+        return;
+    createTooltip(element, parent, description);
+
+    function createTooltip(element, parent, description) {
+        const tooltip = document.createElement("table");
+        if (element.nextSibling)
+            element.parentNode.insertBefore(tooltip, element.nextSibling);
+        else
+            element.parentNode.appendChild(tooltip);
+        tooltip.setAttribute("class", "tooltip");
+        const indent = parseInt(parent.getAttribute("indent"));
+        if (indent > 0)
+            tooltip.setAttribute("style", "margin-left: " + indent + "ch;");
+        element.addEventListener("mouseout", () => tooltip.remove());
+        fillTooltip(description, tooltip);
+    }
+
+    function fillTooltip(description, tooltip) {
+        for (const type in description) {
+            const tr = document.createElement("tr");
+            tooltip.appendChild(tr);
+            const th = document.createElement("th");
+            tr.appendChild(th);
+            th.appendChild(document.createTextNode(type));
+            const td = document.createElement("td");
+            tr.appendChild(td);
+            for (const value of description[type]) {
+                if (value.html === null)
+                    value.createHtml();
+                td.appendChild(value.html);
+                td.appendChild(document.createElement("br"));
+            }
+        }
     }
 }
 
