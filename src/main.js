@@ -175,7 +175,7 @@ function initMessageListeners() {
 if (document.body.id === "template") {
     document.body.onloaddone = content.init().then();
 } else {
-    ts.getCommonPrefixes().then(() => {
+    ts.fetchDynamicContents().then(() => {
     });
     browser.storage.onChanged.addListener(() => {
         utils.getOptions().then(res => options = res);

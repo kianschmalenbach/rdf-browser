@@ -130,7 +130,6 @@ class URI extends Resource {
             }
             this.description[type].push(value);
         }
-        console.log(this.description);
     }
 
     getTypeNumber() {

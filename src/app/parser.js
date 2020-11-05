@@ -144,14 +144,17 @@ function parseDocument(inputStream, parser, decoder, format, contentScript, base
 
     function handleMetaTriple(triple) {
         const predicate = processResource(store, triple.predicate);
-        if (!predicate instanceof rs.URI || !ts.isAnnotationPredicate(predicate.value))
+        if (!predicate instanceof rs.URI)
+            return;
+        const annotationPredicate = ts.getAnnotationPredicate(predicate.value);
+        if (!annotationPredicate)
             return;
         const subject = processResource(store, triple.subject);
         const ref = baseTriplestore.uris[subject.value];
         if (typeof ref === "undefined")
             return;
         const object = processResource(store, triple.object);
-        ref.annotate(predicate.value, object);
+        ref.annotate(annotationPredicate, object);
     }
 }
 

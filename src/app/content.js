@@ -40,10 +40,13 @@ async function crawl() {
         const subject = triplestore.subjects[s];
         for (const p in subject.predicates) {
             const predicate = subject.predicates[p];
-            if (!predicate instanceof rs.URI || !ts.isAnnotationPredicate(predicate.value))
+            if (!predicate instanceof rs.URI)
+                continue;
+            const annotationPredicate = ts.getAnnotationPredicate(predicate.value);
+            if (!annotationPredicate)
                 continue;
             for (const o in predicate.objects)
-                triplestore.uris[subject.value].annotate(predicate.value, predicate.objects[o]);
+                triplestore.uris[subject.value].annotate(annotationPredicate, predicate.objects[o]);
         }
     }
     /* crawl URIs from current document */
