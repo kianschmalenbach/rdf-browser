@@ -105,8 +105,13 @@ class Triplestore {
         function addBasePrefix(store) {
             if (store.hasBasePrefix === true)
                 return;
+            let basePrefix = store.baseURL;
+            if (basePrefix.includes('#'))
+                basePrefix = (basePrefix.split('#'))[0];
+            if (!basePrefix.endsWith('/'))
+                basePrefix += '#';
             if (!store.hasDefaultPrefix)
-                store.addPrefix("", store.baseURL);
+                store.addPrefix("", basePrefix);
             else {
                 let name = "base";
                 while (true) {
@@ -121,7 +126,7 @@ class Triplestore {
                     if (success)
                         break;
                 }
-                store.addPrefix(name, store.baseURL);
+                store.addPrefix(name, basePrefix);
             }
         }
 
