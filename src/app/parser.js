@@ -9,7 +9,7 @@ function obtainTriplestore(inputStream, decoder, format, contentScript, baseIRI)
         const parser = getParser(format, baseIRI);
         if (!parser)
             reject("Unsupported format");
-        ts.getTriplestore(contentScript).then(store => {
+        ts.getTriplestore(baseIRI, contentScript).then(store => {
             const transformStream = new Transform({
                 transform(chunk, encoding, callback) {
                     this.push(chunk);

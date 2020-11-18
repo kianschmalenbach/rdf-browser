@@ -8,7 +8,10 @@ const listURIs = {
 const commonPrefixes = [];
 
 class Triplestore {
-    constructor(commonPrefixes = []) {
+    constructor(url, commonPrefixes = []) {
+        this.baseURL = url;
+        this.hasDefaultPrefix = false;
+        this.hasBasePrefix = false;
         this.subjects = [];
         this.prefixes = [];
         for (const prefix in commonPrefixes) {
@@ -50,6 +53,8 @@ class Triplestore {
     }
 
     addPrefix(name, value) {
+        if (!value.startsWith("http"))
+            return;
         for (let i = 0; i < this.prefixes.length; i++) {
             const prefix = this.prefixes[i];
             if (prefix.name === name) {
@@ -58,6 +63,10 @@ class Triplestore {
                 return;
             }
         }
+        if (name === "")
+            this.hasDefaultPrefix = true;
+        if (!this.hasBasePrefix && this.baseURL.includes(value))
+            this.hasBasePrefix = true;
         this.prefixes.push(new Prefix(name, new Resource.URI(value)));
     }
 
@@ -73,6 +82,7 @@ class Triplestore {
     }
 
     finalize() {
+        addBasePrefix(this);
         for (const uri in this.uris)
             this.uris[uri].updatePrefix(this.prefixes);
         for (const literal in this.literals)
@@ -89,6 +99,29 @@ class Triplestore {
             }
         }
         chainBlankNodes(this);
+
+        function addBasePrefix(store) {
+            if (store.hasBasePrefix === true)
+                return;
+            if (!store.hasDefaultPrefix)
+                store.addPrefix("", store.baseURL);
+            else {
+                let name = "base";
+                while (true) {
+                    let success = true;
+                    for (const prefix of store.prefixes) {
+                        if (prefix.name === name) {
+                            name += "1";
+                            success = false;
+                            break;
+                        }
+                    }
+                    if (success)
+                        break;
+                }
+                store.addPrefix(name, store.baseURL);
+            }
+        }
 
         function chainBlankNodes(store) {
             for (const b in store.blankNodes) {
@@ -227,16 +260,16 @@ function getCommonPrefixes() {
     })
 }
 
-function getTriplestore(contentScript = true) {
+function getTriplestore(url, contentScript = true) {
     if (contentScript) {
         return new Promise(resolve => {
             getCommonPrefixes().then(() => {
-                resolve(new Triplestore(commonPrefixes));
+                resolve(new Triplestore(url, commonPrefixes));
             });
         })
     } else {
         return new Promise(resolve => {
-            resolve(new Triplestore(commonPrefixes));
+            resolve(new Triplestore(url, commonPrefixes));
         });
     }
 }
