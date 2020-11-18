@@ -86,6 +86,7 @@ async function fillDocument(document, store) {
     const prefixes = document.createElement("div");
     body.appendChild(prefixes);
     prefixes.setAttribute("class", "prefixes");
+    prefixes.setAttribute("id", "prefixes");
     store.prefixes.forEach(prefix => {
         if (prefix.html === null)
             prefix.createHtml();
@@ -94,6 +95,7 @@ async function fillDocument(document, store) {
     });
     const triples = document.createElement("div");
     triples.setAttribute("class", "triples");
+    triples.setAttribute("id", "triples");
     body.appendChild(triples);
     let subjectIndex = 0;
     while (subjectIndex < store.triples.length) {
@@ -101,6 +103,20 @@ async function fillDocument(document, store) {
         subjectIndex = result.subjectIndex;
         triples.appendChild(result.triple);
     }
+
+    //Button #1
+    var btn = document.createElement("button");
+    btn.innerHTML = "Make content editable";
+    btn.setAttribute('id', 'editable-button');
+    btn.setAttribute("onclick", "makeEditable()");
+    body.appendChild(btn);
+
+    //Button #2
+    var btn2 = document.createElement("button");
+    btn2.innerHTML = "Send put-request";
+    btn2.setAttribute('id', 'put-request-button');
+    btn2.setAttribute("onclick", "putRequest()");
+    body.appendChild(btn2);
 }
 
 function writeTriple(store, subjectIndex) {
@@ -127,8 +143,12 @@ function writeTriple(store, subjectIndex) {
         predicateWrapper.setAttribute("class", "predicate");
         const predicateElement = predicate.html.cloneNode(true);
         predicateWrapper.appendChild(predicateElement);
-        if (predicateIndex > 0)
-            triple.appendChild(document.createTextNode(getIndent(subject.representationLength + 1)));
+        if (predicateIndex > 0) {
+            //New Indendation
+            var indent = document.createElement("SPAN");
+            indent.style.marginLeft = (((subject.representationLength + 1) * 8.83) + "px");
+            triple.appendChild(indent);
+        }
         triple.appendChild(predicateWrapper);
         triple.appendChild(document.createTextNode(" "));
         const objectList =
@@ -142,10 +162,12 @@ function writeTriple(store, subjectIndex) {
             objectWrapper.setAttribute("class", "object");
             const objectElement = object.html.cloneNode(true);
             objectWrapper.appendChild(objectElement);
-            if (objectIndex > 0)
-                triple.appendChild(document.createTextNode(
-                    getIndent(subject.representationLength + predicate.representationLength + 2)
-                ));
+            if (objectIndex > 0) {
+                //New Indendation
+                var indent = document.createElement("SPAN");
+                indent.style.marginLeft = (((subject.representationLength + 2) * 8.83) + "px");
+                triple.appendChild(indent);
+            }
             triple.appendChild(objectWrapper);
             subjectIndex++;
             predicateIndex++;
@@ -164,13 +186,6 @@ function writeTriple(store, subjectIndex) {
     }
     triple.appendChild(document.createTextNode(" ."));
     return {triple, subjectIndex};
-
-    function getIndent(spaces) {
-        let output = "";
-        for (let i = 0; i < spaces; i++)
-            output += "\u00A0";
-        return output;
-    }
 }
 
 if (document.body.id === "template")
