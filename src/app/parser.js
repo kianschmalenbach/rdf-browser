@@ -10,7 +10,7 @@ function obtainTriplestore(inputStream, decoder, format, contentScript, baseIRI)
         const parser = getParser(format, baseIRI);
         if (!parser)
             reject("Unsupported format");
-        ts.getTriplestore(contentScript).then(store => {
+        ts.getTriplestore(baseIRI, contentScript).then(store => {
             parseDocument(inputStream, parser, decoder, format, contentScript, baseIRI, store, resolve, reject);
         });
     });
