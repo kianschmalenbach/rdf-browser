@@ -2,6 +2,8 @@ function serializePrefixes(store, html = null) {
     if (html === null)
         html = new DocumentFragment();
     store.prefixes.forEach(prefix => {
+        if (!prefix.used)
+            return;
         const prefixWrapper = createPrefixHTML(prefix);
         prefixWrapper.appendChild(document.createElement("br"));
         html.appendChild(prefixWrapper);

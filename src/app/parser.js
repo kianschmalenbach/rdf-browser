@@ -100,7 +100,7 @@ function parseDocument(inputStream, parser, decoder, format, contentScript, base
                 reject(error);
             })
             .on("end", () => {
-                store.finalize();
+                store.finalize(contentScript);
                 resolve(store);
             });
     } else {
@@ -154,7 +154,7 @@ function parseDocument(inputStream, parser, decoder, format, contentScript, base
         if (typeof ref === "undefined")
             return;
         const object = processResource(store, triple.object);
-        ref.annotate(annotationPredicate, object);
+        ref.annotate(annotationPredicate, object, baseTriplestore);
     }
 }
 

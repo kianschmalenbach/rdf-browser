@@ -46,7 +46,7 @@ async function crawl() {
             if (!annotationPredicate)
                 continue;
             for (const o in predicate.objects)
-                triplestore.uris[subject.value].annotate(annotationPredicate, predicate.objects[o]);
+                triplestore.uris[subject.value].annotate(annotationPredicate, predicate.objects[o], triplestore);
         }
     }
     /* crawl URIs from current document */
@@ -59,6 +59,7 @@ async function crawl() {
         interceptor.fetchDocument(uriValue, triplestore).catch(() => {
         });
     }
+    ts.removeUnusedPrefixes(triplestore);
 }
 
 function showDescription(event) {

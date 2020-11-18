@@ -75,10 +75,8 @@ class URI extends Resource {
     updatePrefix(prefixes) {
         if (this.prefix !== null)
             return;
-        for (let i = 0; i < prefixes.length; i++) {
-            const prefix = prefixes[i];
-            const value = prefix.value.value;
-            if (this.value.length > value.length && this.value.substr(0, value.length) === value) {
+        for (const prefix of prefixes) {
+            if (this.value.length > prefix.value.value.length && this.value.includes(prefix.value.value)) {
                 this.prefix = prefix;
                 prefix.used = true;
                 return;
@@ -120,7 +118,9 @@ class URI extends Resource {
             return html;
     }
 
-    annotate(type, value) {
+    annotate(type, value, store = null) {
+        if (store !== null)
+            value.updatePrefix(store.prefixes);
         if (!this.description.hasOwnProperty(type))
             this.description[type] = [value];
         else {

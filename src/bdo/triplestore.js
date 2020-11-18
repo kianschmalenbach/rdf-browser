@@ -54,11 +54,22 @@ class Triplestore {
         return literal;
     }
 
+    getPrefix(uri) {
+        for (const prefix of this.prefixes) {
+            if (uri.includes(prefix.value.value)) {
+                return {
+                    prefix: prefix.name,
+                    postfix: uri.substring(prefix.value.value.length)
+                }
+            }
+        }
+        return null;
+    }
+
     addPrefix(name, value) {
         if (!value.startsWith("http"))
             return;
-        for (let i = 0; i < this.prefixes.length; i++) {
-            const prefix = this.prefixes[i];
+        for (const prefix of this.prefixes) {
             if (prefix.name === name) {
                 if (prefix.value !== value)
                     prefix.value.value = value;
@@ -83,13 +94,14 @@ class Triplestore {
             this.subjects.push(s.item);
     }
 
-    finalize() {
+    finalize(contentScript = true) {
         addBasePrefix(this);
         for (const uri in this.uris)
             this.uris[uri].updatePrefix(this.prefixes);
         for (const literal in this.literals)
             this.literals[literal].updatePrefix(this.prefixes);
-        removeUnusedPrefixes(this);
+        if (!contentScript)
+            removeUnusedPrefixes(this);
         this.prefixes = this.prefixes.sort((a, b) => a.compareTo(b));
         this.subjects = this.subjects.sort((a, b) => a.compareTo(b));
         for (const s in this.subjects) {
@@ -140,17 +152,6 @@ class Triplestore {
                         store.subjects.splice(index, 1);
                 }
             }
-        }
-
-        function removeUnusedPrefixes(store) {
-            const toRemove = [];
-            for (const prefix in store.prefixes) {
-                if (!store.prefixes[prefix].used)
-                    toRemove.push(prefix);
-            }
-            toRemove.reverse();
-            for (const remove in toRemove)
-                store.prefixes.splice(toRemove[remove], 1);
         }
     }
 }
@@ -286,6 +287,17 @@ function getAnnotationPredicate(uri) {
     return annotationPredicates[uri];
 }
 
+function removeUnusedPrefixes(store) {
+    const toRemove = [];
+    for (const prefix in store.prefixes) {
+        if (!store.prefixes[prefix].used)
+            toRemove.push(prefix);
+    }
+    toRemove.reverse();
+    for (const remove in toRemove)
+        store.prefixes.splice(toRemove[remove], 1);
+}
+
 async function getTriplestore(url, contentScript = true) {
     if (contentScript) {
         try {
@@ -297,4 +309,4 @@ async function getTriplestore(url, contentScript = true) {
     return new Triplestore(url, commonPrefixes);
 }
 
-module.exports = {getTriplestore, fetchDynamicContents, Triplestore, getAnnotationPredicate};
+module.exports = {getTriplestore, fetchDynamicContents, Triplestore, getAnnotationPredicate, removeUnusedPrefixes};
