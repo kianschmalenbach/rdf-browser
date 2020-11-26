@@ -11,11 +11,11 @@ function getStyleRule(stylesheet, styleClass) {
 function setStyle() {
     browser.storage.sync.get("options").then(function (result) {
         const style = result.options.allStyleTemplate[result.options.allStyleTemplate.selected];
-        applyStyle(style);
+        applyStyle(style, true);
     });
 }
 
-function applyStyle(input) {
+function applyStyle(input, contentScript = false) {
     const stylesheet = document.styleSheets[0];
     for (const setting in input) {
         let styleValue = input[setting];
@@ -24,15 +24,30 @@ function applyStyle(input) {
             styleValue = styleValue ? array[array.length - 1] : "None";
             array.pop();
         }
-        if (array.length === 1)
-            array = ["body", array[0]];
-        const styleClass = (array[0] !== "body" ? "." : "") + array[0];
+        let styleClass = ".";
+        if (array.length === 1) {
+            if (array[0] === "backgroundColor" || setting + contentScript.toString() === "widthtrue")
+                array = ["body", array[0]];
+            else
+                array = ["main", array[0]];
+            styleClass = "";
+        }
+        styleClass += array[0];
+        if (styleClass === ".aside")
+            styleClass = "aside";
+        else if (styleClass === ".header")
+            styleClass = "header";
         const styleRule = getStyleRule(stylesheet, styleClass);
         if (styleRule === null)
             continue;
         const styleSetting = array[1];
         if (styleSetting === "fontSize")
             styleValue += "pt";
+        if (setting + contentScript.toString() === "widthtrue") {
+            getStyleRule(stylesheet, "main").style["width"] = "calc(" + parseInt(styleValue) * .85 + "% - 20px)";
+            getStyleRule(stylesheet, "aside").style["width"] = "calc(" + parseInt(styleValue) * .15 + "%)";
+            getStyleRule(stylesheet, "aside").style["right"] = "calc(" + ((100 - parseInt(styleValue)) / 2) + "%)";
+        }
         styleRule.style[styleSetting] = styleValue;
     }
 }

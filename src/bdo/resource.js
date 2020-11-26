@@ -69,7 +69,7 @@ class URI extends Resource {
         const id = value.split("#");
         if (id.length > 1 && id[id.length - 1] !== "")
             this.id = id[id.length - 1];
-        this.description = {};
+        this.description = {}; //TODO replace with ref to metaTriplestore
     }
 
     updatePrefix(prefixes) {
@@ -84,10 +84,14 @@ class URI extends Resource {
         }
     }
 
-    createHtml(retrieveHtml = false, forPrefix = false) {
+    createHtml(retrieveHtml = false, forPrefix = false, baseURL = "") {
         const html = document.createElement("span");
         const link = document.createElement("a");
-        link.setAttribute("href", encodeURI(this.value));
+        let uriValue = this.value;
+        if ((this.value.replace("https", "http").split("#"))[0] ===
+            (baseURL.replace("https", "http").split("#")[0]))
+            uriValue = this.value.substring(this.value.split("#")[0].length);
+        link.setAttribute("href", encodeURI(uriValue));
         if (!forPrefix && this.prefix !== null) {
             html.setAttribute("class", "postfix");
             const prefixElement = document.createElement("span");

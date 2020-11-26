@@ -61,7 +61,7 @@ function parseDocument(inputStream, parser, decoder, format, contentScript, base
     });
     if (contentScript) {
         if (baseTriplestore === null)
-            document.getElementById("status").innerText = "Status: fetching file...";
+            document.getElementById("status").innerText = "fetching file...";
         inputStream.read().then(function processText({done, value}) {
             if (done)
                 transformStream.push(null);
@@ -95,7 +95,7 @@ function parseDocument(inputStream, parser, decoder, format, contentScript, base
             })
             .on("error", error => {
                 if (contentScript && baseTriplestore === null)
-                    document.getElementById("status").innerText = "Status: parsing error: " + error
+                    document.getElementById("status").innerText = "parsing error: " + error
                         + " (see console for more details)";
                 reject(error);
             })
@@ -137,8 +137,8 @@ function parseDocument(inputStream, parser, decoder, format, contentScript, base
         const object = processResource(store, triple.object);
         store.addTriple(subject, predicate, object);
         if (contentScript)
-            document.getElementById("status").innerText = "Status: processing " + counter
-                + " triples...";
+            document.getElementById("status").innerText = "processing " + counter
+                + " triple(s)...";
         counter++;
     }
 
@@ -154,7 +154,11 @@ function parseDocument(inputStream, parser, decoder, format, contentScript, base
         if (typeof ref === "undefined")
             return;
         const object = processResource(store, triple.object);
-        ref.annotate(annotationPredicate, object, baseTriplestore);
+        try {
+            ref.annotate(annotationPredicate, object, baseTriplestore);
+        } catch (e) {
+            //TODO figure out solution for blank nodes
+        }
     }
 }
 

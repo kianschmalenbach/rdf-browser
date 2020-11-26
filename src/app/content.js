@@ -19,7 +19,6 @@ async function loadContent() {
     const format = decodeURIComponent(params.get("format"));
     try {
         triplestore = await interceptor.fetchDocument(url, null, encoding, format);
-        document.getElementById("hint").remove();
         document.getElementById("status").remove();
         serializer.serializePrefixes(triplestore, document.getElementById("prefixes"));
         serializer.serializeTriples(triplestore, document.getElementById("triples"));
@@ -27,6 +26,9 @@ async function loadContent() {
         document.querySelectorAll(".uri a,.postfix a").forEach(element => {
             element.addEventListener("mouseover", showDescription);
         });
+        const fragment = (url.includes("#") ? url.split("#")[1] : null);
+        if (fragment !== null && fragment.length > 0)
+            window.location.replace("#" + fragment);
     } catch (e) {
         const sendUrl = browser.runtime.getURL("build/view/error.html?url=")
             + encodeURIComponent(url) + "&message=" + encodeURIComponent(e);

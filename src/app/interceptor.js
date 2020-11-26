@@ -289,8 +289,10 @@ async function processRDFPayload(stream, decoder, format, baseIRI) {
         document.getElementById("title").innerText = baseIRI;
         document.getElementById("content-script").remove();
         document.getElementById("script").removeAttribute("src");
-        document.getElementById("hint").remove();
-        document.getElementById("status").remove();
+        document.getElementById("header").remove();
+        document.getElementById("aside").remove();
+        document.getElementById("main").setAttribute("style",
+            "position: static; height: 100%; margin: 0 auto;");
         const scriptElement = document.getElementById("script");
         const scriptString = JSON.stringify(options.allStyleTemplate[options.allStyleTemplate.selected]);
         const script = "\nconst style = " + scriptString + ";\n";

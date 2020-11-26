@@ -4,12 +4,77 @@
     <meta charset="utf-8">
     <title id="title"></title>
     <style>
+        html {
+            height: 100%;
+            background-color: #F7F7F7;
+        }
+
         body {
             margin: 0 auto;
+            height: 100%;
+            width: 100%;
+        }
+
+        main {
+            width: calc(85% - 20px);
+            height: calc(100% - 30px);
+            overflow: auto;
+        }
+
+        main, aside {
+            position: fixed;
+            bottom: 0;
+        }
+
+        header {
+            position: sticky;
+            top: 0;
+            margin-bottom: 3px;
+            z-index: 1;
+            background-color: #CCCCCC;
+        }
+
+        aside {
+            height: calc(100% - 50px);
+            right: 0;
+            width: 15%;
+            padding: 10px;
+            background-color: #EEEEEE;
+        }
+
+        header div {
+            box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2), 0 3px 10px 0 rgba(0, 0, 0, 0.2);
+            font-family: "Fira Sans", sans-serif;
+            padding: 3px;
+        }
+
+        header div span.title {
+            font-weight: bold;
+            font-size: larger;
+        }
+
+        header div img:first-child {
+            display: block;
+            float: left;
+            padding: 0 5px;
+            height: 25px;
+            width: 25px;
+        }
+
+        header div span {
+            padding: 5px;
+        }
+
+        aside div {
+            font-family: "Fira Sans", sans-serif;
         }
 
         .prefixes {
-            margin: 8px 0 2em 0;
+            margin: 8px 8px 2em 8px;
+        }
+
+        .triples {
+            margin: 0 8px;
         }
 
         .prefixes .prefixDeclaration, .prefixes .postfix {
@@ -52,21 +117,32 @@
             word-break: break-all;
         }
     </style>
+    <link href="https://fonts.googleapis.com/css?family=Fira+Sans" rel="stylesheet">
     <script id="script" src="../controller/style.js">
         //script
     </script>
     <script defer id="content-script" src="../main.js"></script>
 </head>
 <body id="template">
-<p id="hint">
-    RDF-Browser is parsing the document. This page will refresh automatically once the parsing is finished.
-</p>
-<p id="status"></p>
-<div class="prefixes" id="prefixes">
+<header id="header">
+    <div>
+        <img alt="logo" src="../../img/rdf-browser-512.png">
+        <span class="title">RDF Browser</span>
+        <span id="status">loading...</span>
+    </div>
+</header>
+<aside id="aside">
+    <div>
+        Sidebar
+    </div>
+</aside>
+<main id="main">
+    <div class="prefixes" id="prefixes">
 
-</div>
-<div class="triples" id="triples">
+    </div>
+    <div class="triples" id="triples">
 
-</div>
+    </div>
+</main>
 </body>
 </html>

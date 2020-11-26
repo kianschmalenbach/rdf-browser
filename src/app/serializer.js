@@ -101,7 +101,7 @@ function serializeTriples(store, html = null) {
 
     function getSubjectWrapper(subject) {
         if (subject.resource.html === null)
-            subject.resource.createHtml();
+            subject.resource.createHtml(false, false, store.baseURL);
         const subjectWrapper = document.createElement("span");
         subjectWrapper.setAttribute("class", "subject");
         const subjectElement = subject.resource.html.cloneNode(true);
@@ -113,7 +113,7 @@ function serializeTriples(store, html = null) {
 
     function getPredicateWrapper(predicate) {
         if (predicate.resource.html === null)
-            predicate.resource.createHtml();
+            predicate.resource.createHtml(false, false, store.baseURL);
         const predicateWrapper = document.createElement("span");
         predicateWrapper.setAttribute("class", "predicate");
         const predicateElement = predicate.resource.html.cloneNode(true);
@@ -123,7 +123,7 @@ function serializeTriples(store, html = null) {
 
     function getObjectWrapper(object, indent, list = false) {
         if (object.resource.html === null)
-            object.resource.createHtml();
+            object.resource.createHtml(false, false, store.baseURL);
         const objectWrapper = document.createElement("span");
         objectWrapper.setAttribute("class", "object");
         if (!list && object.equivalentSubject !== null) {

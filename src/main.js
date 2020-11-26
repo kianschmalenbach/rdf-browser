@@ -23,10 +23,10 @@ const defaultOptions = {
         none: {
             whiteSpace_nowrap: true,
             prefixes_marginBottom: "0em",
-            body_margin: "8px"
+            width: "100%"
         },
         light: {
-            width: "99%",
+            width: "100%",
             whiteSpace_nowrap: true,
             backgroundColor: "#FFFFFF",
             fontFamily: "\"Consolas\", monospace, sans-serif",
@@ -60,7 +60,10 @@ const defaultOptions = {
             literal_textDecorationColor: "#656465"
         },
         dark: {
-            width: "99%",
+            width: "100%",
+            aside_backgroundColor: "#111111",
+            aside_color: "white",
+            header_backgroundColor: "#AAAAAA",
             whiteSpace_nowrap: true,
             backgroundColor: "#1E221D",
             fontFamily: "\"Consolas\", monospace, sans-serif",
@@ -94,7 +97,9 @@ const defaultOptions = {
             literal_textDecorationColor: "#9A9B9A"
         },
         custom: {
-            width: "99%",
+            width: "100%",
+            aside_backgroundColor: "#EEEEEE",
+            aside_color: "black",
             whiteSpace_nowrap: true,
             backgroundColor: "#FFFFFF",
             fontFamily: "\"Consolas\", monospace, sans-serif",
