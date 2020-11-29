@@ -35,11 +35,14 @@
         }
 
         aside {
-            height: calc(100% - 50px);
+            height: calc(100% - 30px);
             right: 0;
-            width: 15%;
-            padding: 10px;
+            padding-left: 10px;
+            width: calc(15% + 10px);
             background-color: #EEEEEE;
+            display: flex;
+            flex-direction: column;
+            overflow: auto;
         }
 
         header div {
@@ -50,7 +53,13 @@
 
         header div span.title {
             font-weight: bold;
-            font-size: larger;
+            font-size: 24px;
+        }
+
+        header input {
+            background-color: inherit;
+            height: 20px;
+            font-size: 14px;
         }
 
         header div img:first-child {
@@ -63,10 +72,80 @@
 
         header div span {
             padding: 5px;
+            line-height: 25px;
+            vertical-align: middle;
         }
 
         aside div {
             font-family: "Fira Sans", sans-serif;
+            margin-top: 20px;
+            padding-right: 10px;
+            font-size: .95em;
+        }
+
+        aside div:first-child {
+            margin-top: 10px;
+        }
+
+        aside .it {
+            font-style: italic;
+        }
+
+        aside h2 {
+            margin: 5px 0 5px 0;
+            font-size: larger;
+        }
+
+        aside table {
+            margin: 5px 0 0 0;
+        }
+
+        aside table.horizontal th {
+            padding: 0 5px;
+            min-width: 25px;
+        }
+
+        aside th, aside td, aside .small {
+            font-size: .9em;
+            word-break: break-all;
+        }
+
+        aside #\#ldp {
+            margin: 5px 0 0 0;
+            padding-left: 20px;
+            list-style: none;
+        }
+
+        #\#ldp1::before, #\#ldp3::before, #\#ldp4::before {
+            content: "✓ ";
+            color: green;
+            font-weight: bold;
+        }
+
+        #\#ldp2::before {
+            content: "✗ ";
+            color: red;
+            font-weight: bold;
+        }
+
+        /*
+            window.getComputedStyle(document.getElementById('#ldp2'), ':before').getPropertyValue('content');
+        */
+
+        aside .resourceInfo {
+            margin-bottom: 10px;
+        }
+
+        aside div.triples {
+            overflow: inherit;
+            margin: 0;
+            font-size: .8em;
+            padding-right: 0;
+            min-height: 20%;
+        }
+
+        aside .triple {
+            margin: 0 0 8px 0;
         }
 
         .prefixes {
@@ -123,17 +202,66 @@
     </script>
     <script defer id="content-script" src="../main.js"></script>
 </head>
-<body id="template">
+<body id="template"><!--TODO start all ids with # to prevent conflicts-->
 <header id="header">
     <div>
         <img alt="logo" src="../../img/rdf-browser-512.png">
         <span class="title">RDF Browser</span>
+        <span class="inputContainer"><label><input size="100" type="url" value="http://harth.org/andreas/foaf"></label></span>
         <span id="status">loading...</span>
     </div>
 </header>
 <aside id="aside">
     <div>
-        Sidebar
+        <h2>Server Info</h2>
+        <span class="small it" id="#uri">http://harth.org/andreas/foaf</span>
+        <table>
+            <tr>
+                <th>user agent</th>
+                <td id="#agent"></td>
+            </tr>
+            <tr>
+                <th>content type</th>
+                <td id="#ctype"></td>
+            </tr>
+            <tr>
+                <th>content length</th>
+                <td id="#clen"></td>
+            </tr>
+        </table>
+    </div>
+    <div>
+        <h2>Link Statistics</h2>
+        <table class="horizontal">
+            <tr>
+                <th>all</th>
+                <th>HTTP</th>
+                <th>RDF</th>
+                <th>broken</th>
+            </tr>
+            <tr>
+                <td id="#links"></td>
+                <td id="#httplinks"></td>
+                <td id="#rdflinks"></td>
+                <td id="#brokenlinks"></td>
+            </tr>
+        </table>
+    </div>
+    <div>
+        <h2>Linked Data Principles Conformance Check</h2>
+        <ol id="#ldp">
+            <li id="#ldp1">Use URIs</li>
+            <li id="#ldp2">Use HTTP URIs</li>
+            <li id="#ldp3">Provide useful information</li>
+            <li id="#ldp4">Include links</li>
+        </ol>
+    </div>
+    <div class="resourceInfo">
+        <h2>Resource Info</h2>
+        <span class="small uri" id="#res-uri">http://harth.org/andreas/foaf#ah</span>
+    </div>
+    <div class="triples">
+
     </div>
 </aside>
 <main id="main">
