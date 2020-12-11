@@ -48,18 +48,6 @@ class Resource {
     addObject(object) {
         this.constituents.object.push(object);
     }
-
-    isUsedAsSubject() {
-        return this.constituents.subject !== null;
-    }
-
-    isUsedAsPredicate() {
-        return this.constituents.predicate.length > 0;
-    }
-
-    isUsedAsObject() {
-        return this.constituents.object.length > 0;
-    }
 }
 
 class URI extends Resource {
@@ -69,7 +57,11 @@ class URI extends Resource {
         const id = value.split("#");
         if (id.length > 1 && id[id.length - 1] !== "")
             this.id = id[id.length - 1];
-        this.description = {}; //TODO replace with ref to metaTriplestore
+        this.subjects = [];
+    }
+
+    addSubject(subject) {
+        this.subjects.push(subject);
     }
 
     updatePrefix(prefixes) {
@@ -120,20 +112,6 @@ class URI extends Resource {
             this.html = html;
         if (retrieveHtml)
             return html;
-    }
-
-    annotate(type, value, store = null) {
-        if (store !== null)
-            value.updatePrefix(store.prefixes);
-        if (!this.description.hasOwnProperty(type))
-            this.description[type] = [value];
-        else {
-            for (const entry of this.description[type]) {
-                if (entry.constructor === value.constructor && entry.value === value.value)
-                    return;
-            }
-            this.description[type].push(value);
-        }
     }
 
     getTypeNumber() {

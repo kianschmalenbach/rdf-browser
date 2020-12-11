@@ -3,7 +3,6 @@ const JsonLdParser = require("jsonld-streaming-parser").JsonLdParser;
 const N3Parser = require("@rdfjs/parser-n3");
 const Transform = require("stream").Transform;
 const ts = require("../bdo/triplestore");
-const rs = require("../bdo/resource");
 
 function obtainTriplestore(inputStream, decoder, format, contentScript, baseIRI) {
     return new Promise((resolve, reject) => {
@@ -16,11 +15,11 @@ function obtainTriplestore(inputStream, decoder, format, contentScript, baseIRI)
     });
 }
 
-function obtainDescriptions(inputStream, decoder, format, baseIRI, baseTriplestore) {
+function obtainDescriptions(inputStream, decoder, format, baseIRI, store, baseTriplestore) {
     return new Promise((resolve, reject) => {
         const parser = getParser(format, baseIRI);
         if (parser)
-            parseDocument(inputStream, parser, decoder, format, true, null, new ts.Triplestore(), resolve, reject, baseTriplestore);
+            parseDocument(inputStream, parser, decoder, format, true, null, store, resolve, reject, baseTriplestore);
     })
 
 }
@@ -79,40 +78,39 @@ function parseDocument(inputStream, parser, decoder, format, contentScript, base
         };
     }
     const outputStream = parser.import(transformStream);
-    if (baseTriplestore === null) {
-        let counter = 1;
-        outputStream
-            .on("context", context => {
-                for (const prefix in context) {
-                    if (typeof context[prefix] === "string")
-                        store.addPrefix(prefix, context[prefix]);
-                }
-            })
-            .on("data", triple => handleTriple(triple, counter))
-            .on("prefix", (prefix, ns) => {
-                if (typeof ns.value === "string" && /^http/.test(ns.value))
-                    store.addPrefix(prefix, ns.value);
-            })
-            .on("error", error => {
-                if (contentScript && baseTriplestore === null)
-                    document.getElementById("status").innerText = "parsing error: " + error
-                        + " (see console for more details)";
-                reject(error);
-            })
-            .on("end", () => {
-                store.finalize(contentScript);
-                resolve(store);
-            });
-    } else {
-        outputStream
-            .on("data", handleMetaTriple)
-            .on("end", resolve);
-    }
+    let counter = 1;
+    outputStream
+        .on("context", context => {
+            for (const prefix in context) {
+                if (typeof context[prefix] === "string")
+                    store.addPrefix(prefix, context[prefix]);
+            }
+        })
+        .on("data", triple => {
+            if (baseTriplestore === null)
+                handleTriple(triple, counter++);
+            else
+                handleMetaTriple(triple);
+        })
+        .on("prefix", (prefix, ns) => {
+            if (typeof ns.value === "string" && /^http/.test(ns.value))
+                store.addPrefix(prefix, ns.value);
+        })
+        .on("error", error => {
+            if (contentScript && baseTriplestore === null)
+                document.getElementById("status").innerText = "parsing error: " + error
+                    + " (see console for more details)";
+            reject(error);
+        })
+        .on("end", () => {
+            store.finalize(contentScript);
+            resolve(store);
+        });
 
-    function processResource(store, resource) {
+    function processResource(store, resource, uriOnly = false) {
         const value = resource.value;
         const resourceType = Object.getPrototypeOf(resource).termType || resource.termType;
-        if (!resourceType)
+        if (!resourceType || (uriOnly && resourceType !== "NamedNode"))
             return null;
         switch (resourceType) {
             case "BlankNode":
@@ -139,25 +137,20 @@ function parseDocument(inputStream, parser, decoder, format, contentScript, base
         if (contentScript)
             document.getElementById("status").innerText = "processing " + counter
                 + " triple(s)...";
-        counter++;
     }
 
     function handleMetaTriple(triple) {
-        const predicate = processResource(store, triple.predicate);
-        if (!predicate instanceof rs.URI)
+        const subject = processResource(store, triple.subject, true);
+        if (subject === null)
             return;
-        const annotationPredicate = ts.getAnnotationPredicate(predicate.value);
-        if (!annotationPredicate)
-            return;
-        const subject = processResource(store, triple.subject);
-        const ref = baseTriplestore.uris[subject.value];
-        if (typeof ref === "undefined")
-            return;
-        const object = processResource(store, triple.object);
-        try {
-            ref.annotate(annotationPredicate, object, baseTriplestore);
-        } catch (e) {
-            //TODO figure out solution for blank nodes
+        for (const u in baseTriplestore.uris) {
+            if (u === subject.value) {
+                const predicate = processResource(store, triple.predicate);
+                const object = processResource(store, triple.object);
+                const subjectItem = store.addTriple(subject, predicate, object);
+                if (subjectItem !== null)
+                    baseTriplestore.uris[u].addSubject(subjectItem);
+            }
         }
     }
 }

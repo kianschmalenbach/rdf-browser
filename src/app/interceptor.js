@@ -221,41 +221,41 @@ function getNewAcceptHeader(oldHeader, considerOptions = true) {
 /**
  * Fetch an RDF document as response to a content script request and return the triplestore
  * @param url The URI of the document to fetch
+ * @param store The metaTriplestore
  * @param baseTriplestore The triplestore of the base document (if any)
  * @param encoding The encoding of the document to fetch
  * @param format The format of the document to fetch
  */
-function fetchDocument(url, baseTriplestore, encoding = null, format = null) {
+async function fetchDocument(url, store, baseTriplestore, encoding = null, format = null) {
     const request = new Request(url, {
         headers: new Headers({
             'Accept': acceptHeader
         })
     });
-    return new Promise((resolve, reject) => {
-        fetch(request).then(response => {
-            if (!response.ok)
-                throw new Error(response.statusText);
-            if (encoding === null)
-                encoding = response.headers.get("Encoding") || "utf-8";
-            if (format === null)
-                format = (response.headers.get("Content-type").split(";"))[0];
-            if (!getFormats(false).includes(format))
-                throw new Error("Wrong format: " + format);
-            return [encoding, format, response.body];
-        }).then(answer => {
-            const encoding = answer[0];
-            const format = answer[1];
-            const response = answer[2];
-            if (baseTriplestore === null)
-                parser.obtainTriplestore(response.getReader(), new TextDecoder(encoding), format, true, url)
-                    .then(triplestore => resolve(triplestore))
-                    .catch(reject);
-            else
-                parser.obtainDescriptions(response.getReader(), new TextDecoder(encoding), format, url, baseTriplestore)
-                    .then(resolve)
-                    .catch(reject);
-        }).catch(reject);
-    });
+    try {
+        let response = await fetch(request);
+        if (!response.ok)
+            return; //TODO add to red list
+        if (encoding === null)
+            encoding = response.headers.get("Encoding") || "utf-8";
+        if (format === null)
+            format = (response.headers.get("Content-type").split(";"))[0];
+        if (!getFormats(false).includes(format))
+            return; //TODO add to blue list
+        if (baseTriplestore === null) {
+            const server = response.headers.get("Server") || "unknown";
+            document.getElementById("#server").appendChild(document.createTextNode(server));
+            document.getElementById("#ctype").appendChild(document.createTextNode(format));
+            const contentLength = response.headers.get("Content-Length") || "unknown";
+            document.getElementById("#clen").appendChild(document.createTextNode(contentLength));
+        }
+        response = await response.body;
+        if (baseTriplestore === null)
+            return await parser.obtainTriplestore(response.getReader(), new TextDecoder(encoding), format, true, url);
+        else
+            return await parser.obtainDescriptions(response.getReader(), new TextDecoder(encoding), format, url, store, baseTriplestore);
+    } catch (ignored) {
+    }
 }
 
 /**

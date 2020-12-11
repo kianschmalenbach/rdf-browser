@@ -16,8 +16,8 @@
         }
 
         main {
-            width: calc(85% - 20px);
-            height: calc(100% - 30px);
+            width: calc(80% - 20px);
+            height: calc(100% - 35px);
             overflow: auto;
         }
 
@@ -35,10 +35,10 @@
         }
 
         aside {
-            height: calc(100% - 30px);
+            height: calc(100% - 35px);
             right: 0;
             padding-left: 10px;
-            width: calc(15% + 10px);
+            width: calc(20% + 10px);
             background-color: #EEEEEE;
             display: flex;
             flex-direction: column;
@@ -108,6 +108,10 @@
         aside th, aside td, aside .small {
             font-size: .9em;
             word-break: break-all;
+        }
+
+        aside #\#uri {
+            font-style: normal;
         }
 
         aside #\#ldp {
@@ -207,25 +211,25 @@
     <div>
         <img alt="logo" src="../../img/rdf-browser-512.png">
         <span class="title">RDF Browser</span>
-        <span class="inputContainer"><label><input size="100" type="url" value="http://harth.org/andreas/foaf"></label></span>
+        <span class="inputContainer"><label><input id="#navbar" size="100" type="url"></label></span>
         <span id="status">loading...</span>
     </div>
 </header>
 <aside id="aside">
     <div>
         <h2>Server Info</h2>
-        <span class="small it" id="#uri">http://harth.org/andreas/foaf</span>
+        <span class="small it" id="#uri"></span>
         <table>
             <tr>
-                <th>user agent</th>
-                <td id="#agent"></td>
+                <th style="min-width: 100px;">server</th>
+                <td id="#server"></td>
             </tr>
             <tr>
-                <th>content type</th>
+                <th style="min-width: 100px;">content type</th>
                 <td id="#ctype"></td>
             </tr>
             <tr>
-                <th>content length</th>
+                <th style="min-width: 100px;">content length</th>
                 <td id="#clen"></td>
             </tr>
         </table>
@@ -258,9 +262,9 @@
     </div>
     <div class="resourceInfo">
         <h2>Resource Info</h2>
-        <span class="small uri" id="#res-uri">http://harth.org/andreas/foaf#ah</span>
+        <span class="small uri" id="#ref-uri"></span>
     </div>
-    <div class="triples">
+    <div class="triples" id="#ref-triples">
 
     </div>
 </aside>

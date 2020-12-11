@@ -33,20 +33,22 @@ function serializePrefixes(store, html = null) {
     }
 }
 
-function serializeTriples(store, html = null) {
+function serializeTriples(store, html = null, uri = null) {
     if (html === null)
         html = new DocumentFragment();
     store.subjects.forEach(subject => {
+        if (uri !== null && subject.resource.value !== uri.value)
+            return;
         const triple = document.createElement("p");
         triple.setAttribute("class", "triple");
-        serializeTriple(triple, subject);
+        serializeTriple(triple, subject, (uri !== null ? -1 : 0), uri === null);
         triple.appendChild(document.createTextNode(" ."));
         html.appendChild(triple);
     });
     return html;
 
-    function serializeTriple(triple, subject, indent = 0) {
-        if (indent === 0) {
+    function serializeTriple(triple, subject, indent = 0, serializeSubject = true) {
+        if (indent <= 0 && serializeSubject) {
             triple.appendChild(getSubjectWrapper(subject));
             triple.appendChild(document.createTextNode(" "));
         }

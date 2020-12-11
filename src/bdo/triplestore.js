@@ -1,13 +1,11 @@
 const Resource = require("./resource");
 const commonPrefixSource = "https://prefix.cc/popular/all.file.json";
-const annotationPredicateSource = "http://paul.ti.rw.fau.de/~yk05yhet/annotationPredicates.txt";
 const listURIs = {
     first: "http://www.w3.org/1999/02/22-rdf-syntax-ns#first",
     rest: "http://www.w3.org/1999/02/22-rdf-syntax-ns#rest",
     nil: "http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"
 }
 const commonPrefixes = [];
-const annotationPredicates = {};
 
 class Triplestore {
     constructor(url, commonPrefixes = []) {
@@ -86,12 +84,15 @@ class Triplestore {
     addTriple(subject, predicate, object) {
         const s = Subject.getItem(this.subjects, subject);
         const p = Predicate.getItem(s.item.predicates, predicate);
-        const o = new Object(object);
-        p.item.objects.push(o);
+        const o = Object.getItem(p.item.objects, object);
+        if (!o.isNew)
+            return null;
+        p.item.objects.push(o.item);
         if (p.isNew)
             s.item.predicates.push(p.item);
         if (s.isNew)
             this.subjects.push(s.item);
+        return s.item;
     }
 
     finalize(contentScript = true) {
@@ -244,6 +245,14 @@ class Object extends TripleConstituent {
         this.equivalentSubject = null;
     }
 
+    static getItem(list, resource) {
+        const item = super.getItem(list, resource);
+        if (item !== null)
+            return {item: item, isNew: false};
+        else
+            return {item: new Object(resource), isNew: true};
+    }
+
     setEquivalentSubject(subject) {
         this.equivalentSubject = subject;
     }
@@ -261,30 +270,6 @@ async function fetchDynamicContents() {
     const cps = await cp.json();
     for (const prefix in cps)
         commonPrefixes.push([prefix, cps[prefix]]);
-    const ap = await fetch(annotationPredicateSource);
-    let aps = await ap.text();
-    aps = aps.split("\n");
-    for (const predicateURI of aps) {
-        if (predicateURI === "")
-            continue;
-        let found = false;
-        for (const prefix in commonPrefixes) {
-            const prefixName = commonPrefixes[prefix][0];
-            const prefixURI = commonPrefixes[prefix][1];
-            if (predicateURI.length >= prefixURI.length && predicateURI.substr(0, prefixURI.length) === prefixURI) {
-                const postfix = predicateURI.substr(prefixURI.length, predicateURI.length);
-                annotationPredicates[predicateURI] = prefixName + ":" + postfix;
-                found = true;
-                break;
-            }
-        }
-        if (!found)
-            console.warn("No prefix found for annotation predicate " + predicateURI);
-    }
-}
-
-function getAnnotationPredicate(uri) {
-    return annotationPredicates[uri];
 }
 
 function removeUnusedPrefixes(store) {
@@ -309,4 +294,4 @@ async function getTriplestore(url, contentScript = true) {
     return new Triplestore(url, commonPrefixes);
 }
 
-module.exports = {getTriplestore, fetchDynamicContents, Triplestore, getAnnotationPredicate, removeUnusedPrefixes};
+module.exports = {getTriplestore, fetchDynamicContents, Triplestore, removeUnusedPrefixes};

@@ -44,8 +44,8 @@ function applyStyle(input, contentScript = false) {
         if (styleSetting === "fontSize")
             styleValue += "pt";
         if (setting + contentScript.toString() === "widthtrue") {
-            getStyleRule(stylesheet, "main").style["width"] = "calc(" + parseInt(styleValue) * .85 + "% - 20px)";
-            getStyleRule(stylesheet, "aside").style["width"] = "calc(" + parseInt(styleValue) * .15 + "% + 10px)";
+            getStyleRule(stylesheet, "main").style["width"] = "calc(" + parseInt(styleValue) * .80 + "% - 20px)";
+            getStyleRule(stylesheet, "aside").style["width"] = "calc(" + parseInt(styleValue) * .20 + "% + 10px)";
             getStyleRule(stylesheet, "aside").style["right"] = "calc(" + ((100 - parseInt(styleValue)) / 2) + "%)";
         }
         styleRule.style[styleSetting] = styleValue;
