@@ -227,21 +227,31 @@ function getNewAcceptHeader(oldHeader, considerOptions = true) {
  * @param format The format of the document to fetch
  */
 async function fetchDocument(url, store, baseTriplestore, encoding = null, format = null) {
+    const accept = getNewAcceptHeader(acceptHeader, false);
     const request = new Request(url, {
         headers: new Headers({
-            'Accept': acceptHeader
+            'Accept': accept
         })
     });
     try {
-        let response = await fetch(request);
-        if (!response.ok)
-            return; //TODO add to red list
+        let response;
+        if (baseTriplestore !== null)
+            response = await Promise.race([
+                fetch(request),
+                new Promise(resolve => setTimeout(() => resolve("timeout"), 2500))
+            ]);
+        else
+            response = await fetch(request);
+        if (baseTriplestore !== null && response === "timeout")
+            return "timeout";
+        if (baseTriplestore !== null && !response.ok)
+            return response.status;
         if (encoding === null)
             encoding = response.headers.get("Encoding") || "utf-8";
         if (format === null)
             format = (response.headers.get("Content-type").split(";"))[0];
-        if (!getFormats(false).includes(format))
-            return; //TODO add to blue list
+        if (baseTriplestore !== null && !getFormats(false).includes(format))
+            return format;
         if (baseTriplestore === null) {
             const server = response.headers.get("Server") || "unknown";
             document.getElementById("#server").appendChild(document.createTextNode(server));
@@ -255,6 +265,10 @@ async function fetchDocument(url, store, baseTriplestore, encoding = null, forma
         else
             return await parser.obtainDescriptions(response.getReader(), new TextDecoder(encoding), format, url, store, baseTriplestore);
     } catch (ignored) {
+        if (baseTriplestore !== null)
+            return "error";
+        else
+            return ignored.message;
     }
 }
 

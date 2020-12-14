@@ -175,7 +175,7 @@ class TripleConstituent {
     }
 
     static getItem(list, resource) {
-        return list.find(element => resource === element.resource) || null;
+        return list.find(element => resource.value === element.resource.value) || null;
     }
 
     compareTo(constituent) {
