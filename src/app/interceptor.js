@@ -237,7 +237,9 @@ async function fetchDocument(url, store, baseTriplestore, encoding = null, forma
         let response;
         if (baseTriplestore !== null)
             response = await Promise.race([
-                fetch(request),
+                fetch(request, {
+                    credentials: "omit"
+                }),
                 new Promise(resolve => setTimeout(() => resolve("timeout"), 2500))
             ]);
         else

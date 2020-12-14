@@ -59,32 +59,60 @@ async function loadContent() {
 async function crawl() {
     if (typeof triplestore === "string")
         return;
+    let nonHttpCount = 0, rdfCount = 0, brokenCount = 0;
+    let ldp4 = false;
     document.getElementById("status").innerText = "crawling documents";
     showDescription(null, uri.replace("https://", "http://"));
-    const uris = [baseURI];
-    for (const prefix of triplestore.prefixes)
+    const uris = [baseURI.split('#')[0]];
+    for (const prefix of triplestore.prefixes) {
         if (prefix.used)
             addURI(prefix.value);
-    for (const u in triplestore.uris)
+    }
+    let baseUriContained = false;
+    for (const u in triplestore.uris) {
+        if (u.replace("https://", "http://").split('#')[0] === baseURI.replace("https://", "http://").split('#')[0])
+            baseUriContained = true;
         addURI(triplestore.uris[u]);
+    }
     let numberOfCrawls = 0;
     const crawls = [[]];
+    const nonHttpUris = [];
     const hashLinks = document.querySelectorAll("a[href^=\'#\']");
     for (const link of hashLinks)
         markURI((baseURI.endsWith('#') ? baseURI : (baseURI + "#")) + link.getAttribute("href").substring(1), link, "color: #00A000;");
     for (const uri of uris) {
         if (!uri.startsWith("http")) {
+            if (!nonHttpUris.includes(uri)) {
+                nonHttpCount++;
+                nonHttpUris.push(uri);
+            }
             const links = document.querySelectorAll("a[href=\'" + uri + "\']");
             for (const link of links)
                 link.setAttribute("style", "color: dimgray;");
             continue;
         }
-        if (crawls[crawls.length - 1].length >= 5)
+        if (crawls[crawls.length - 1].length >= 3)
             crawls.push([]);
         crawls[crawls.length - 1].push(uri);
         numberOfCrawls++;
     }
-    let pause = 250;
+    const allCount = baseUriContained ? numberOfCrawls : (numberOfCrawls - 1);
+    if (allCount > 0)
+        document.getElementById("#ldp1").setAttribute("class", "ldpFulfilled");
+    else
+        document.getElementById("#ldp1").setAttribute("class", "ldpNotFulfilled");
+    if ((allCount - nonHttpCount) > 0)
+        document.getElementById("#ldp2").setAttribute("class", "ldpFulfilled");
+    else
+        document.getElementById("#ldp2").setAttribute("class", "ldpNotFulfilled");
+    if (baseUriContained)
+        document.getElementById("#ldp3").setAttribute("class", "ldpFulfilled");
+    else
+        document.getElementById("#ldp3").setAttribute("class", "ldpNotFulfilled");
+    document.getElementById("#links").innerText = allCount.toString();
+    document.getElementById("#httplinks").innerText = (allCount - nonHttpCount).toString();
+    document.getElementById("#rdflinks").innerText = rdfCount.toString();
+    document.getElementById("#brokenlinks").innerText = brokenCount.toString();
     let crawlCount = 0;
     for (const crawl of crawls) {
         const uris = [];
@@ -97,13 +125,18 @@ async function crawl() {
         }
         document.getElementById("status").innerText = "crawling documents... (" + crawlCount + "/" + numberOfCrawls + ")";
         const result = await Promise.all(arr);
-        crawlCount += 5;
-        handleCrawlResults(uris.slice(0, 5), result);
-        await new Promise(resolve => setTimeout(resolve, pause));
-        if (pause < 2000)
-            pause *= 2;
+        handleCrawlResults(uris.slice(0, 3), result, crawlCount);
+        crawlCount += 3;
+        if (!ldp4 && rdfCount > 1) {
+            document.getElementById("#ldp4").setAttribute("class", "ldpFulfilled");
+            ldp4 = true;
+        }
+        await new Promise(resolve => setTimeout(resolve, 250));
     }
+    if (!ldp4)
+        document.getElementById("#ldp4").setAttribute("class", "ldpNotFulfilled");
     ts.removeUnusedPrefixes(triplestore);
+
     document.getElementById("status").innerText = "ready";
 
     function addURI(uri) {
@@ -127,23 +160,33 @@ async function crawl() {
             markURI(uri.startsWith("https://") ? uri.replace("https://", "http://") : uri.replace("http://", "https://"), null, style);
     }
 
-    function handleCrawlResults(uris, results) {
+    function handleCrawlResults(uris, results, count) {
         for (let i = 0; i < uris.length; ++i) {
             const links = document.querySelectorAll("a[href=\'" + uris[i] + "\']");
             let hashLinks = [];
             if (!uris[i].endsWith("#"))
                 hashLinks = document.querySelectorAll("a[href^=\'" + uris[i] + "#\']");
             let style = "color: ";
-            if (typeof results[i] === "object")
+            if (typeof results[i] === "object") {
                 style += "#00A000;";
-            else if (results[i] === "timeout")
+                if (count > 0) {
+                    rdfCount++;
+                    document.getElementById("#rdflinks").innerText = rdfCount.toString();
+                }
+            } else if (results[i] === "timeout")
                 style += "dimgray;";
-            else if (results[i] === "error" || (typeof results[i] === "number" && results[i] >= 400))
+            else if (results[i] === "error" || (typeof results[i] === "number" && results[i] >= 400)) {
                 style += "red;";
+                if (count > 0) {
+                    brokenCount++;
+                    document.getElementById("#brokenlinks").innerText = brokenCount.toString();
+                }
+            }
             for (const link of links)
                 markURI(uris[i], link, style);
             for (const link of hashLinks)
                 markURI(link.getAttribute("href"), link, style);
+            count++;
         }
     }
 }

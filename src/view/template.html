@@ -110,6 +110,10 @@
             word-break: break-all;
         }
 
+        td.tdCenter {
+            text-align: center;
+        }
+
         aside #\#uri {
             font-style: normal;
         }
@@ -120,21 +124,17 @@
             list-style: none;
         }
 
-        #\#ldp1::before, #\#ldp3::before, #\#ldp4::before {
+        .ldpFulfilled::before {
             content: "✓ ";
             color: green;
             font-weight: bold;
         }
 
-        #\#ldp2::before {
+        .ldpNotFulfilled::before {
             content: "✗ ";
             color: red;
             font-weight: bold;
         }
-
-        /*
-            window.getComputedStyle(document.getElementById('#ldp2'), ':before').getPropertyValue('content');
-        */
 
         aside .resourceInfo {
             margin-bottom: 10px;
@@ -182,18 +182,6 @@
 
         .literal {
 
-        }
-
-        table.tooltip {
-            position: absolute;
-            margin-top: 5px;
-            max-width: 500px;
-            background-color: #EEEEEE;
-            z-index: 1;
-            font-size: small;
-            border-radius: 10px;
-            border-collapse: collapse;
-            box-shadow: 4px 3px #AAAAAA;
         }
 
         td {
@@ -244,10 +232,10 @@
                 <th>broken</th>
             </tr>
             <tr>
-                <td id="#links"></td>
-                <td id="#httplinks"></td>
-                <td id="#rdflinks"></td>
-                <td id="#brokenlinks"></td>
+                <td class="tdCenter" id="#links"></td>
+                <td class="tdCenter" id="#httplinks"></td>
+                <td class="tdCenter" id="#rdflinks"></td>
+                <td class="tdCenter" id="#brokenlinks"></td>
             </tr>
         </table>
     </div>
