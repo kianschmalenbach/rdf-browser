@@ -8,12 +8,18 @@ const templatePath = "build/view/template.html";
 const filter = {
     urls: ["<all_urls>"]
 };
+const requests = {};
 let acceptHeader = "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8";
 let options;
 let quickOptions = {
     header: true,
     response: true,
+    crawler: true,
     pageAction: true
+}
+
+function getRequestDetails(tabId) {
+    return requests[tabId];
 }
 
 function getQuickOptions() {
@@ -95,6 +101,8 @@ function modifyRequestHeader(details) {
             break;
         }
     }
+    if (options.contentScript && typeof requests[details.tabId] === "undefined" || !requests[details.tabId].redirect)
+        requests[details.tabId] = {reqUrl: details.url, redirect: false};
     return {requestHeaders: details.requestHeaders};
 }
 
@@ -104,8 +112,13 @@ function modifyRequestHeader(details) {
  * @returns {{}|{responseHeaders: {name: string, value: string}[]}} The modified response header
  */
 function modifyResponseHeader(details) {
-    if (!quickOptions.response || details.statusCode >= 300 || details.type !== "main_frame" || utils.onList(options, "blacklist", new URL(details.url)))
+    if (!quickOptions.response || details.statusCode >= 300 || details.type !== "main_frame" || utils.onList(options, "blacklist", new URL(details.url))) {
+        if (details.statusCode >= 300 && details.type === "main_frame" && options.contentScript && typeof requests[details.tabId] !== "undefined") {
+            requests[details.tabId].redirect = true;
+            console.log("response to " + details.url);
+        }
         return {};
+    }
     const cl = details.responseHeaders.find(h => h.name.toLowerCase() === "content-length");
     if (cl) {
         const length = parseInt(cl.value);
@@ -146,13 +159,15 @@ function rewriteResponse(cl, details, encoding, format) {
         {name: "Expires", value: "0"}
     ];
     if (options.contentScript) {
+        const req = requests[details.tabId];
+        delete req.redirect;
+        req.url = details.url;
+        req.encoding = encoding;
+        req.format = format;
+        req.crawl = quickOptions.crawler;
         return {
             responseHeaders: responseHeaders,
-            redirectUrl: browser.runtime.getURL(templatePath
-                + "?url=" + encodeURIComponent(details.url)
-                + "&encoding=" + encodeURIComponent(encoding)
-                + "&format=" + encodeURIComponent(format)
-            )
+            redirectUrl: browser.runtime.getURL(templatePath)
         };
     }
     const filter = browser.webRequest.filterResponseData(details.requestId);
@@ -338,4 +353,4 @@ function addListeners() {
 
 }
 
-module.exports = {addListeners, fetchDocument, acceptHeader, getNewAcceptHeader, getQuickOptions, setQuickOptions}
+module.exports = {addListeners, fetchDocument, acceptHeader, getRequestDetails, getQuickOptions, setQuickOptions}

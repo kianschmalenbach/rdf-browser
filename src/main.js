@@ -156,6 +156,9 @@ function initMessageListeners() {
             case "listStatus":
                 sendResponse(utils.getListStatus(options, message[1], message[2]));
                 break;
+            case "requestDetails":
+                sendResponse(interceptor.getRequestDetails(message[1]));
+                break;
         }
     });
     browser.runtime.onConnect.addListener(port => {

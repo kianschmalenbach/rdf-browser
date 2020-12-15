@@ -3,25 +3,31 @@ const interceptor = require("./interceptor");
 const serializer = require("./serializer");
 const ts = require("../bdo/triplestore");
 let triplestore;
-let uri, baseURI;
+let reqUri, uri, baseURI;
 
 async function init() {
-    await loadContent();
-    await crawl();
+    const tabId = (await browser.tabs.getCurrent()).id;
+    const requestDetails = await browser.runtime.sendMessage(["requestDetails", tabId.toString()]);
+    reqUri = requestDetails.reqUrl;
+    uri = requestDetails.url;
+    await loadContent(requestDetails.encoding, requestDetails.format);
+    await crawl(requestDetails.crawl);
 }
 
-async function loadContent() {
-    const params = new URL(location.href).searchParams;
-    uri = params.get("url");
-    document.getElementById("title").innerText = uri;
+async function loadContent(encoding, format) {
+    document.getElementById("title").innerText = reqUri;
     document.getElementById("#navbar").setAttribute("value", uri);
+    document.getElementById("#navbar").addEventListener("focusin", event => event.target.select());
+    document.getElementById("#navbar").addEventListener("keypress", event => {
+        if (event.key === "Enter")
+            navigate();
+    });
+    document.getElementById("#navButton").addEventListener("click", navigate);
     const urlElement = document.createElement("a");
     baseURI = uri.split("#")[0];
     urlElement.setAttribute("href", baseURI);
     urlElement.appendChild(document.createTextNode(baseURI));
     document.getElementById("#uri").appendChild(urlElement);
-    const encoding = decodeURIComponent(params.get("encoding"));
-    const format = decodeURIComponent(params.get("format"));
 
     try {
         triplestore = await interceptor.fetchDocument(uri, null, null, encoding, format);
@@ -56,9 +62,16 @@ async function loadContent() {
     }
 }
 
-async function crawl() {
+async function crawl(crawlerEnabled) {
     if (typeof triplestore === "string")
         return;
+    const stopButton = document.createElement("button");
+    document.getElementById("status").parentElement.appendChild(stopButton);
+    stopButton.innerText = "stop";
+    stopButton.addEventListener("click", () => {
+        stopButton.setAttribute("disabled", "disabled");
+        crawlerEnabled = false;
+    });
     let nonHttpCount = 0, rdfCount = 0, brokenCount = 0;
     let ldp4 = false;
     document.getElementById("status").innerText = "crawling documents";
@@ -68,10 +81,12 @@ async function crawl() {
         if (prefix.used)
             addURI(prefix.value);
     }
-    let baseUriContained = false;
+    let baseUriContained = false, reqUriContained = false;
     for (const u in triplestore.uris) {
         if (u.replace("https://", "http://").split('#')[0] === baseURI.replace("https://", "http://").split('#')[0])
             baseUriContained = true;
+        if (u.replace("https://", "http://").split('#')[0] === reqUri.replace("https://", "http://").split('#')[0])
+            reqUriContained = true;
         addURI(triplestore.uris[u]);
     }
     let numberOfCrawls = 0;
@@ -105,7 +120,7 @@ async function crawl() {
         document.getElementById("#ldp2").setAttribute("class", "ldpFulfilled");
     else
         document.getElementById("#ldp2").setAttribute("class", "ldpNotFulfilled");
-    if (baseUriContained)
+    if (reqUriContained)
         document.getElementById("#ldp3").setAttribute("class", "ldpFulfilled");
     else
         document.getElementById("#ldp3").setAttribute("class", "ldpNotFulfilled");
@@ -115,6 +130,8 @@ async function crawl() {
     document.getElementById("#brokenlinks").innerText = brokenCount.toString();
     let crawlCount = 0;
     for (const crawl of crawls) {
+        if (!crawlerEnabled)
+            break;
         const uris = [];
         const arr = [];
         for (const uri of crawl) {
@@ -131,12 +148,13 @@ async function crawl() {
             document.getElementById("#ldp4").setAttribute("class", "ldpFulfilled");
             ldp4 = true;
         }
-        await new Promise(resolve => setTimeout(resolve, 250));
+        await new Promise(resolve => setTimeout(resolve, 500));
     }
     if (!ldp4)
         document.getElementById("#ldp4").setAttribute("class", "ldpNotFulfilled");
     ts.removeUnusedPrefixes(triplestore);
 
+    stopButton.remove();
     document.getElementById("status").innerText = "ready";
 
     function addURI(uri) {
@@ -211,6 +229,14 @@ function showDescription(event, href = null) {
     while (refTriples.firstElementChild)
         refTriples.firstElementChild.remove();
     serializer.serializeTriples(triplestore, refTriples, uri);
+}
+
+function navigate() {
+    document.getElementById("#navButton").setAttribute("disabled", "disabled");
+    let target = document.getElementById("#navbar").value;
+    if (!target.startsWith("http"))
+        target = "http://" + target;
+    window.location.href = target;
 }
 
 module.exports = {init};
