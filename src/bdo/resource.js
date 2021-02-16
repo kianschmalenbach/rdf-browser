@@ -69,7 +69,7 @@ class URI extends Resource {
             return;
         for (const prefix of prefixes) {
             if (this.value.length > prefix.value.value.length && this.value.includes(prefix.value.value) &&
-                !this.value.substr(prefix.value.value.length, this.value.length).includes('/')) {
+                this.value.substr(prefix.value.value.length, this.value.length).match(/^[a-zA-Z0-9]+$/)) {
                 this.prefix = prefix;
                 prefix.used = true;
                 return;
