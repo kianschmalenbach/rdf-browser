@@ -1,17 +1,20 @@
 const browser = window.browser;
 const interceptor = require("./interceptor");
 const serializer = require("./serializer");
+const parser = require("./parser");
 const ts = require("../bdo/triplestore");
 let triplestore;
 let reqUri, uri, baseURI;
+let editMode = false, crawlerEnabled;
 
 async function init() {
     const tabId = (await browser.tabs.getCurrent()).id;
     const requestDetails = await browser.runtime.sendMessage(["requestDetails", tabId.toString()]);
     reqUri = requestDetails.reqUrl;
     uri = requestDetails.url;
+    crawlerEnabled = requestDetails.crawl;
     await loadContent(requestDetails.encoding, requestDetails.format);
-    await crawl(requestDetails.crawl);
+    await crawl();
 }
 
 async function loadContent(encoding, format) {
@@ -23,6 +26,7 @@ async function loadContent(encoding, format) {
             navigate();
     });
     document.getElementById("#navButton").addEventListener("click", navigate);
+    document.getElementById("#editButton").addEventListener("click", toggleEdit);
     const urlElement = document.createElement("a");
     baseURI = uri.split("#")[0];
     urlElement.setAttribute("href", baseURI);
@@ -51,6 +55,7 @@ async function loadContent(encoding, format) {
             else
                 document.getElementById("#navbar").setAttribute("value", baseURI);
         });
+        document.getElementById("#editButton").removeAttribute("disabled");
     } catch (e) {
         handleError(e);
     }
@@ -62,16 +67,15 @@ async function loadContent(encoding, format) {
     }
 }
 
-async function crawl(crawlerEnabled) {
+async function crawl() {
     if (typeof triplestore === "string")
         return;
     const stopButton = document.createElement("button");
     document.getElementById("status").parentElement.appendChild(stopButton);
+    stopButton.setAttribute("id", "#stopButton");
     stopButton.innerText = "stop";
-    stopButton.addEventListener("click", () => {
-        stopButton.setAttribute("disabled", "disabled");
-        crawlerEnabled = false;
-    });
+    stopButton.addEventListener("click", () => stopCrawler());
+    document.getElementById("#editButton").addEventListener("click", () => stopCrawler());
     let nonHttpCount = 0, rdfCount = 0, brokenCount = 0;
     let ldp4 = false;
     document.getElementById("status").innerText = "crawling documents";
@@ -142,6 +146,8 @@ async function crawl(crawlerEnabled) {
         }
         document.getElementById("status").innerText = "crawling documents... (" + crawlCount + "/" + numberOfCrawls + ")";
         const result = await Promise.all(arr);
+        if (!crawlerEnabled)
+            break;
         handleCrawlResults(uris.slice(0, 3), result, crawlCount);
         crawlCount += 3;
         if (!ldp4 && rdfCount > 1) {
@@ -184,29 +190,41 @@ async function crawl(crawlerEnabled) {
             let hashLinks = [];
             if (!uris[i].endsWith("#"))
                 hashLinks = document.querySelectorAll("a[href^=\'" + uris[i] + "#\']");
-            let style = "color: ";
+            let style = "";
             if (typeof results[i] === "object") {
-                style += "#00A000;";
+                style += "color: #00A000;";
                 if (count > 0) {
                     rdfCount++;
                     document.getElementById("#rdflinks").innerText = rdfCount.toString();
                 }
             } else if (results[i] === "timeout")
-                style += "dimgray;";
+                style += "color: dimgray;";
             else if (results[i] === "error" || (typeof results[i] === "number" && results[i] >= 400)) {
-                style += "red;";
+                style += "color: red;";
                 if (count > 0) {
                     brokenCount++;
                     document.getElementById("#brokenlinks").innerText = brokenCount.toString();
                 }
             }
             for (const link of links)
-                markURI(uris[i], link, style);
+                if (style !== "")
+                    markURI(uris[i], link, style);
             for (const link of hashLinks)
-                markURI(link.getAttribute("href"), link, style);
+                if (style !== "")
+                    markURI(link.getAttribute("href"), link, style);
             count++;
         }
     }
+}
+
+async function stopCrawler() {
+    if (!crawlerEnabled)
+        return;
+    const stopButton = document.getElementById("#stopButton");
+    if (stopButton)
+        stopButton.setAttribute("disabled", "disabled");
+    crawlerEnabled = false;
+    await new Promise(resolve => setTimeout(resolve, 500));
 }
 
 function showDescription(event, href = null) {
@@ -237,6 +255,46 @@ function navigate() {
     if (!target.startsWith("http"))
         target = "http://" + target;
     window.location.href = target;
+}
+
+async function toggleEdit() {
+    const main = document.getElementById("main");
+    const status = document.getElementById("status");
+    const elements = document.querySelectorAll("main *");
+    const editButton = document.getElementById("#editButton");
+    const editStyle = "color: black !important; text-decoration: none !important;"
+    if (!editMode) {
+        await stopCrawler();
+        for (const element of elements)
+            element.setAttribute("style", (element.getAttribute("style") || "") + editStyle);
+        editButton.innerText = "Upload changes";
+        main.setAttribute("contenteditable", "true");
+        main.addEventListener("input", handleInput);
+        status.innerText = "document editable";
+    } else {
+        for (const element of elements)
+            if (element.hasAttribute("style"))
+                element.setAttribute("style", element.getAttribute("style").replace(editStyle, ""));
+        main.removeAttribute("contenteditable");
+        editButton.innerText = "Edit document";
+        status.removeAttribute("style");
+        status.innerText = "ready";
+    }
+    editMode = !editMode;
+
+    function handleInput() {
+        const turtleString = document.getElementById("main").innerText.toString();
+        console.log(turtleString);
+        const status = document.getElementById("status");
+        const error = parser.validateTurtle(turtleString, baseURI);
+        if (!error) {
+            status.setAttribute("style", "color: darkgreen;");
+            status.innerText = "no syntax errors";
+        } else {
+            status.setAttribute("style", "color: darkred;");
+            status.innerText = (error.toString().split("Error: "))[1];
+        }
+    }
 }
 
 module.exports = {init};
