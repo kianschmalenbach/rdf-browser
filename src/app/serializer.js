@@ -2,6 +2,8 @@ function serializePrefixes(store, html = null) {
     if (html === null)
         html = new DocumentFragment();
     store.prefixes.forEach(prefix => {
+        if (!prefix.used)
+            return;
         const prefixWrapper = createPrefixHTML(prefix);
         prefixWrapper.appendChild(document.createElement("br"));
         html.appendChild(prefixWrapper);
@@ -31,20 +33,22 @@ function serializePrefixes(store, html = null) {
     }
 }
 
-function serializeTriples(store, html = null) {
+function serializeTriples(store, html = null, uri = null) {
     if (html === null)
         html = new DocumentFragment();
     store.subjects.forEach(subject => {
+        if (uri !== null && subject.resource.value !== uri.value)
+            return;
         const triple = document.createElement("p");
         triple.setAttribute("class", "triple");
-        serializeTriple(triple, subject);
+        serializeTriple(triple, subject, (uri !== null ? -1 : 0), uri === null);
         triple.appendChild(document.createTextNode(" ."));
         html.appendChild(triple);
     });
     return html;
 
-    function serializeTriple(triple, subject, indent = 0) {
-        if (indent === 0) {
+    function serializeTriple(triple, subject, indent = 0, serializeSubject = true) {
+        if (indent <= 0 && serializeSubject) {
             triple.appendChild(getSubjectWrapper(subject));
             triple.appendChild(document.createTextNode(" "));
         }
@@ -53,8 +57,9 @@ function serializeTriples(store, html = null) {
             const predicate = subject.predicates[predicateIndex];
             const predicateWrapper = getPredicateWrapper(predicate);
             const predicateIndent = (indent === 0 ? subject.resource.representationLength : indent) + 1;
-            if (predicateIndex > 0)
-                triple.appendChild(document.createTextNode(getIndent(predicateIndent)));
+            predicateWrapper.setAttribute("indent", predicateIndent);
+            if (predicateIndex > 0 || indent > 0)
+                predicateWrapper.setAttribute("style", "margin-left: " + predicateIndent + "ch;");
             triple.appendChild(predicateWrapper);
             triple.appendChild(document.createTextNode(" "));
             let objectIndex = 0;
@@ -63,18 +68,21 @@ function serializeTriples(store, html = null) {
                 const objectIndent = predicateIndent + predicate.resource.representationLength + 1;
                 const list = object.getList();
                 if (list !== null) {
-                    if (objectIndex > 0)
-                        triple.appendChild(document.createTextNode(getIndent(objectIndent)));
                     triple.appendChild(document.createTextNode("( "));
                     for (const i in list) {
-                        triple.appendChild(getObjectWrapper(list[i], 0, true));
+                        const objectWrapper = getObjectWrapper(list[i], 0, true);
+                        objectWrapper.setAttribute("indent", objectIndent);
+                        if (objectIndex > 0)
+                            objectWrapper.setAttribute("style", "margin-left: " + objectIndent + "ch;");
+                        triple.appendChild(objectWrapper);
                         triple.appendChild(document.createTextNode(" "));
                     }
                     triple.appendChild(document.createTextNode(")"));
                 } else {
                     const objectWrapper = getObjectWrapper(object, objectIndent);
+                    objectWrapper.setAttribute("indent", objectIndent);
                     if (objectIndex > 0)
-                        triple.appendChild(document.createTextNode(getIndent(objectIndent)));
+                        objectWrapper.setAttribute("style", "margin-left: " + objectIndent + "ch;");
                     triple.appendChild(objectWrapper);
                 }
                 triple.appendChild(document.createTextNode(" "));
@@ -95,7 +103,7 @@ function serializeTriples(store, html = null) {
 
     function getSubjectWrapper(subject) {
         if (subject.resource.html === null)
-            subject.resource.createHtml();
+            subject.resource.createHtml(false, false, store.baseURL);
         const subjectWrapper = document.createElement("span");
         subjectWrapper.setAttribute("class", "subject");
         const subjectElement = subject.resource.html.cloneNode(true);
@@ -107,7 +115,7 @@ function serializeTriples(store, html = null) {
 
     function getPredicateWrapper(predicate) {
         if (predicate.resource.html === null)
-            predicate.resource.createHtml();
+            predicate.resource.createHtml(false, false, store.baseURL);
         const predicateWrapper = document.createElement("span");
         predicateWrapper.setAttribute("class", "predicate");
         const predicateElement = predicate.resource.html.cloneNode(true);
@@ -117,28 +125,23 @@ function serializeTriples(store, html = null) {
 
     function getObjectWrapper(object, indent, list = false) {
         if (object.resource.html === null)
-            object.resource.createHtml();
+            object.resource.createHtml(false, false, store.baseURL);
         const objectWrapper = document.createElement("span");
         objectWrapper.setAttribute("class", "object");
         if (!list && object.equivalentSubject !== null) {
             objectWrapper.appendChild(document.createTextNode("[ "));
             objectWrapper.appendChild(document.createElement("br"));
-            objectWrapper.appendChild(document.createTextNode(getIndent(indent + 2)));
             serializeTriple(objectWrapper, object.equivalentSubject, indent + 1);
             objectWrapper.appendChild(document.createElement("br"));
-            objectWrapper.appendChild(document.createTextNode(getIndent(indent) + "]"));
+            const closingBracketWrapper = document.createElement("span");
+            closingBracketWrapper.appendChild(document.createTextNode("]"));
+            closingBracketWrapper.setAttribute("style", "margin-left: " + indent + "ch;");
+            objectWrapper.appendChild(closingBracketWrapper);
         } else {
             const objectElement = object.resource.html.cloneNode(true);
             objectWrapper.appendChild(objectElement);
         }
         return objectWrapper;
-    }
-
-    function getIndent(spaces) {
-        let output = "";
-        for (let i = 0; i < spaces; i++)
-            output += "\u00A0";
-        return output;
     }
 }
 

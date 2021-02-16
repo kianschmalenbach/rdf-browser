@@ -8,12 +8,18 @@ const templatePath = "build/view/template.html";
 const filter = {
     urls: ["<all_urls>"]
 };
+const requests = {};
 let acceptHeader = "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8";
 let options;
 let quickOptions = {
     header: true,
     response: true,
+    crawler: true,
     pageAction: true
+}
+
+function getRequestDetails(tabId) {
+    return requests[tabId];
 }
 
 function getQuickOptions() {
@@ -24,21 +30,21 @@ function setQuickOptions(options) {
     quickOptions = options;
 }
 
-function getFormats() {
+function getFormats(considerOptions = true) {
     const formats = [];
-    if (options.json)
+    if (!considerOptions || options.json)
         formats.push("application/ld+json");
-    if (options.n4)
+    if (!considerOptions || options.n4)
         formats.push("application/n-quads");
-    if (options.nt)
+    if (!considerOptions || options.nt)
         formats.push("application/n-triples");
-    if (options.xml)
+    if (!considerOptions || options.xml)
         formats.push("application/rdf+xml");
-    if (options.trig)
+    if (!considerOptions || options.trig)
         formats.push("application/trig");
-    if (options.ttl)
+    if (!considerOptions || options.ttl)
         formats.push("text/turtle");
-    if (options.n3)
+    if (!considerOptions || options.n3)
         formats.push("text/n3");
     return formats;
 }
@@ -95,6 +101,8 @@ function modifyRequestHeader(details) {
             break;
         }
     }
+    if (typeof requests[details.tabId] === "undefined" || !requests[details.tabId].redirect)
+        requests[details.tabId] = {reqUrl: details.url, redirect: false};
     return {requestHeaders: details.requestHeaders};
 }
 
@@ -104,8 +112,13 @@ function modifyRequestHeader(details) {
  * @returns {{}|{responseHeaders: {name: string, value: string}[]}} The modified response header
  */
 function modifyResponseHeader(details) {
-    if (!quickOptions.response || details.statusCode >= 300 || details.type !== "main_frame" || utils.onList(options, "blacklist", new URL(details.url)))
+    if (!quickOptions.response || details.statusCode >= 300 || details.type !== "main_frame" || utils.onList(options, "blacklist", new URL(details.url))) {
+        if (details.statusCode >= 300 && details.type === "main_frame" && options.contentScript && typeof requests[details.tabId] !== "undefined") {
+            requests[details.tabId].redirect = true;
+            console.log("response to " + details.url);
+        }
         return {};
+    }
     const cl = details.responseHeaders.find(h => h.name.toLowerCase() === "content-length");
     if (cl) {
         const length = parseInt(cl.value);
@@ -146,13 +159,15 @@ function rewriteResponse(cl, details, encoding, format) {
         {name: "Expires", value: "0"}
     ];
     if (options.contentScript) {
+        const req = requests[details.tabId];
+        delete req.redirect;
+        req.url = details.url;
+        req.encoding = encoding;
+        req.format = format;
+        req.crawl = quickOptions.crawler;
         return {
             responseHeaders: responseHeaders,
-            redirectUrl: browser.runtime.getURL(templatePath
-                + "?url=" + encodeURIComponent(details.url)
-                + "&encoding=" + encodeURIComponent(encoding)
-                + "&format=" + encodeURIComponent(format)
-            )
+            redirectUrl: browser.runtime.getURL(templatePath)
         };
     }
     const filter = browser.webRequest.filterResponseData(details.requestId);
@@ -199,9 +214,9 @@ function rewriteResponse(cl, details, encoding, format) {
  * Return the modified accept header as a string
  * @returns {string} The modified accept header
  */
-function getNewAcceptHeader(oldHeader) {
+function getNewAcceptHeader(oldHeader, considerOptions = true) {
     let newHeader = "";
-    for (const f of getFormats())
+    for (const f of getFormats(considerOptions))
         newHeader += f + ";q=1,";
     for (let f of oldHeader.split(",")) {
         let q = 1.0;
@@ -221,22 +236,57 @@ function getNewAcceptHeader(oldHeader) {
 /**
  * Fetch an RDF document as response to a content script request and return the triplestore
  * @param url The URI of the document to fetch
+ * @param store The metaTriplestore
+ * @param baseTriplestore The triplestore of the base document (if any)
  * @param encoding The encoding of the document to fetch
  * @param format The format of the document to fetch
  */
-function fetchDocument(url, encoding, format) {
+async function fetchDocument(url, store, baseTriplestore, encoding = null, format = null) {
+    const accept = getNewAcceptHeader(acceptHeader, false);
     const request = new Request(url, {
         headers: new Headers({
-            'Accept': acceptHeader
+            'Accept': accept
         })
     });
-    return new Promise((resolve, reject) => {
-        fetch(request).then(response => response.body).then(response => {
-            parser.obtainTriplestore(response.getReader(), new TextDecoder(encoding), format, true, url)
-                .then(triplestore => resolve(triplestore))
-                .catch(e => reject(e));
-        });
-    });
+    try {
+        let response;
+        if (baseTriplestore !== null)
+            response = await Promise.race([
+                fetch(request, {
+                    credentials: "omit"
+                }),
+                new Promise(resolve => setTimeout(() => resolve("timeout"), 2500))
+            ]);
+        else
+            response = await fetch(request);
+        if (baseTriplestore !== null && response === "timeout")
+            return "timeout";
+        if (baseTriplestore !== null && !response.ok)
+            return response.status;
+        if (encoding === null)
+            encoding = response.headers.get("Encoding") || "utf-8";
+        if (format === null)
+            format = (response.headers.get("Content-type").split(";"))[0];
+        if (baseTriplestore !== null && !getFormats(false).includes(format))
+            return format;
+        if (baseTriplestore === null) {
+            const server = response.headers.get("Server") || "unknown";
+            document.getElementById("#server").appendChild(document.createTextNode(server));
+            document.getElementById("#ctype").appendChild(document.createTextNode(format));
+            const contentLength = response.headers.get("Content-Length") || "unknown";
+            document.getElementById("#clen").appendChild(document.createTextNode(contentLength));
+        }
+        response = await response.body;
+        if (baseTriplestore === null)
+            return await parser.obtainTriplestore(response.getReader(), new TextDecoder(encoding), format, true, url);
+        else
+            return await parser.obtainDescriptions(response.getReader(), new TextDecoder(encoding), format, url, store, baseTriplestore);
+    } catch (ignored) {
+        if (baseTriplestore !== null)
+            return "error";
+        else
+            return ignored.message;
+    }
 }
 
 /**
@@ -270,8 +320,10 @@ async function processRDFPayload(stream, decoder, format, baseIRI) {
         document.getElementById("title").innerText = baseIRI;
         document.getElementById("content-script").remove();
         document.getElementById("script").removeAttribute("src");
-        document.getElementById("hint").remove();
-        document.getElementById("status").remove();
+        document.getElementById("header").remove();
+        document.getElementById("aside").remove();
+        document.getElementById("main").setAttribute("style",
+            "position: static; height: 100%; margin: 0 auto;");
         const scriptElement = document.getElementById("script");
         const scriptString = JSON.stringify(options.allStyleTemplate[options.allStyleTemplate.selected]);
         const script = "\nconst style = " + scriptString + ";\n";
@@ -301,4 +353,4 @@ function addListeners() {
 
 }
 
-module.exports = {addListeners, fetchDocument, acceptHeader, getQuickOptions, setQuickOptions}
+module.exports = {addListeners, fetchDocument, acceptHeader, getRequestDetails, getQuickOptions, setQuickOptions}

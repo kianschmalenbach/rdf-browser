@@ -57,15 +57,19 @@ class URI extends Resource {
         const id = value.split("#");
         if (id.length > 1 && id[id.length - 1] !== "")
             this.id = id[id.length - 1];
+        this.subjects = [];
+    }
+
+    addSubject(subject) {
+        this.subjects.push(subject);
     }
 
     updatePrefix(prefixes) {
         if (this.prefix !== null)
             return;
-        for (let i = 0; i < prefixes.length; i++) {
-            const prefix = prefixes[i];
-            const value = prefix.value.value;
-            if (this.value.length > value.length && this.value.substr(0, value.length) === value) {
+        for (const prefix of prefixes) {
+            if (this.value.length > prefix.value.value.length && this.value.includes(prefix.value.value) &&
+                !this.value.substr(prefix.value.value.length, this.value.length).includes('/')) {
                 this.prefix = prefix;
                 prefix.used = true;
                 return;
@@ -73,10 +77,14 @@ class URI extends Resource {
         }
     }
 
-    createHtml(retrieveHtml = false, forPrefix = false) {
+    createHtml(retrieveHtml = false, forPrefix = false, baseURL = "") {
         const html = document.createElement("span");
         const link = document.createElement("a");
-        link.setAttribute("href", encodeURI(this.value));
+        let uriValue = this.value;
+        if ((this.value.replace("https", "http").split("#"))[0] ===
+            (baseURL.replace("https", "http").split("#")[0]))
+            uriValue = this.value.substring(this.value.split("#")[0].length);
+        link.setAttribute("href", encodeURI(uriValue));
         if (!forPrefix && this.prefix !== null) {
             html.setAttribute("class", "postfix");
             const prefixElement = document.createElement("span");

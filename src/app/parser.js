@@ -10,71 +10,18 @@ function obtainTriplestore(inputStream, decoder, format, contentScript, baseIRI)
         if (!parser)
             reject("Unsupported format");
         ts.getTriplestore(baseIRI, contentScript).then(store => {
-            const transformStream = new Transform({
-                transform(chunk, encoding, callback) {
-                    this.push(chunk);
-                    callback();
-                }
-            });
-            if (contentScript) {
-                document.getElementById("status").innerText = "Status: fetching file...";
-                inputStream.read().then(function processText({done, value}) {
-                    if (done)
-                        transformStream.push(null);
-                    else {
-                        handleInput(value, transformStream);
-                        inputStream.read().then(processText);
-                    }
-                });
-            } else {
-                inputStream.onstop = () => {
-                    transformStream.push(null);
-                };
-                inputStream.ondata = event => {
-                    handleInput(event.data, transformStream);
-                };
-            }
-            const outputStream = parser.import(transformStream);
-            let counter = 1;
-            outputStream
-                .on("context", context => {
-                    for (const prefix in context) {
-                        if (typeof context[prefix] === "string")
-                            store.addPrefix(prefix, context[prefix]);
-                    }
-                })
-                .on("data", triple => {
-                    const subject = processResource(store, triple.subject);
-                    const predicate = processResource(store, triple.predicate);
-                    const object = processResource(store, triple.object);
-                    store.addTriple(subject, predicate, object);
-                    if (contentScript)
-                        document.getElementById("status").innerText = "Status: processing " + counter
-                            + " triples...";
-                    counter++;
-                })
-                .on("prefix", (prefix, ns) => {
-                    if (typeof ns.value === "string" && /^http/.test(ns.value))
-                        store.addPrefix(prefix, ns.value);
-                })
-                .on("error", error => {
-                    if (contentScript)
-                        document.getElementById("status").innerText = "Status: parsing error: " + error
-                            + " (see console for more details)";
-                    reject(error);
-                })
-                .on("end", () => {
-                    store.finalize();
-                    resolve(store);
-                });
+            parseDocument(inputStream, parser, decoder, format, contentScript, baseIRI, store, resolve, reject);
         });
     });
+}
 
-    function handleInput(value, transformStream) {
-        let data = decoder.decode(value, {stream: true});
-        if (typeof data === "string")
-            transformStream.push(data);
-    }
+function obtainDescriptions(inputStream, decoder, format, baseIRI, store, baseTriplestore) {
+    return new Promise((resolve, reject) => {
+        const parser = getParser(format, baseIRI);
+        if (parser)
+            parseDocument(inputStream, parser, decoder, format, true, null, store, resolve, reject, baseTriplestore);
+    })
+
 }
 
 function getParser(format, baseIRI) {
@@ -104,20 +51,108 @@ function getParser(format, baseIRI) {
     return parser;
 }
 
-function processResource(store, resource) {
-    const value = resource.value;
-    const resourceType = Object.getPrototypeOf(resource).termType || resource.termType;
-    if (!resourceType)
-        return null;
-    switch (resourceType) {
-        case "BlankNode":
-            return store.getBlankNode(value);
-        case "NamedNode":
-            return store.getURI(value);
-        case "Literal":
-            return store.getLiteral(value, resource.datatype.value, resource.language);
+function parseDocument(inputStream, parser, decoder, format, contentScript, baseIRI, store, resolve, reject, baseTriplestore = null) {
+    const transformStream = new Transform({
+        transform(chunk, encoding, callback) {
+            this.push(chunk);
+            callback();
+        }
+    });
+    if (contentScript) {
+        if (baseTriplestore === null)
+            document.getElementById("status").innerText = "fetching file...";
+        inputStream.read().then(function processText({done, value}) {
+            if (done)
+                transformStream.push(null);
+            else {
+                handleInput(value, transformStream);
+                inputStream.read().then(processText);
+            }
+        });
+    } else {
+        inputStream.onstop = () => {
+            transformStream.push(null);
+        };
+        inputStream.ondata = event => {
+            handleInput(event.data, transformStream);
+        };
     }
-    return null;
+    const outputStream = parser.import(transformStream);
+    let counter = 1;
+    outputStream
+        .on("context", context => {
+            for (const prefix in context) {
+                if (typeof context[prefix] === "string")
+                    store.addPrefix(prefix, context[prefix]);
+            }
+        })
+        .on("data", triple => {
+            if (baseTriplestore === null)
+                handleTriple(triple, counter++);
+            else
+                handleMetaTriple(triple);
+        })
+        .on("prefix", (prefix, ns) => {
+            if (typeof ns.value === "string" && /^http/.test(ns.value))
+                store.addPrefix(prefix, ns.value);
+        })
+        .on("error", error => {
+            if (contentScript && baseTriplestore === null)
+                document.getElementById("status").innerText = "parsing error: " + error
+                    + " (see console for more details)";
+            reject(error);
+        })
+        .on("end", () => {
+            store.finalize(contentScript);
+            resolve(store);
+        });
+
+    function processResource(store, resource, uriOnly = false) {
+        const value = resource.value;
+        const resourceType = Object.getPrototypeOf(resource).termType || resource.termType;
+        if (!resourceType || (uriOnly && resourceType !== "NamedNode"))
+            return null;
+        switch (resourceType) {
+            case "BlankNode":
+                return store.getBlankNode(value);
+            case "NamedNode":
+                return store.getURI(value);
+            case "Literal":
+                return store.getLiteral(value, resource.datatype.value, resource.language);
+        }
+        return null;
+    }
+
+    function handleInput(value, transformStream) {
+        let data = decoder.decode(value, {stream: true});
+        if (typeof data === "string")
+            transformStream.push(data);
+    }
+
+    function handleTriple(triple, counter) {
+        const subject = processResource(store, triple.subject);
+        const predicate = processResource(store, triple.predicate);
+        const object = processResource(store, triple.object);
+        store.addTriple(subject, predicate, object);
+        if (contentScript)
+            document.getElementById("status").innerText = "processing " + counter
+                + " triple(s)...";
+    }
+
+    function handleMetaTriple(triple) {
+        const subject = processResource(store, triple.subject, true);
+        if (subject === null)
+            return;
+        for (const u in baseTriplestore.uris) {
+            if (u === subject.value) {
+                const predicate = processResource(store, triple.predicate);
+                const object = processResource(store, triple.object);
+                const subjectItem = store.addTriple(subject, predicate, object);
+                if (subjectItem !== null)
+                    baseTriplestore.uris[u].addSubject(subjectItem);
+            }
+        }
+    }
 }
 
-module.exports = {obtainTriplestore};
+module.exports = {obtainTriplestore, obtainDescriptions};

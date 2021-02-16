@@ -52,11 +52,22 @@ class Triplestore {
         return literal;
     }
 
+    getPrefix(uri) {
+        for (const prefix of this.prefixes) {
+            if (uri.includes(prefix.value.value)) {
+                return {
+                    prefix: prefix.name,
+                    postfix: uri.substring(prefix.value.value.length)
+                }
+            }
+        }
+        return null;
+    }
+
     addPrefix(name, value) {
         if (!value.startsWith("http"))
             return;
-        for (let i = 0; i < this.prefixes.length; i++) {
-            const prefix = this.prefixes[i];
+        for (const prefix of this.prefixes) {
             if (prefix.name === name) {
                 if (prefix.value !== value)
                     prefix.value.value = value;
@@ -73,21 +84,25 @@ class Triplestore {
     addTriple(subject, predicate, object) {
         const s = Subject.getItem(this.subjects, subject);
         const p = Predicate.getItem(s.item.predicates, predicate);
-        const o = new Object(object);
-        p.item.objects.push(o);
+        const o = Object.getItem(p.item.objects, object);
+        if (!o.isNew)
+            return null;
+        p.item.objects.push(o.item);
         if (p.isNew)
             s.item.predicates.push(p.item);
         if (s.isNew)
             this.subjects.push(s.item);
+        return s.item;
     }
 
-    finalize() {
+    finalize(contentScript = true) {
         addBasePrefix(this);
         for (const uri in this.uris)
             this.uris[uri].updatePrefix(this.prefixes);
         for (const literal in this.literals)
             this.literals[literal].updatePrefix(this.prefixes);
-        removeUnusedPrefixes(this);
+        if (!contentScript)
+            removeUnusedPrefixes(this);
         this.prefixes = this.prefixes.sort((a, b) => a.compareTo(b));
         this.subjects = this.subjects.sort((a, b) => a.compareTo(b));
         for (const s in this.subjects) {
@@ -139,17 +154,6 @@ class Triplestore {
                 }
             }
         }
-
-        function removeUnusedPrefixes(store) {
-            const toRemove = [];
-            for (const prefix in store.prefixes) {
-                if (!store.prefixes[prefix].used)
-                    toRemove.push(prefix);
-            }
-            toRemove.reverse();
-            for (const remove in toRemove)
-                store.prefixes.splice(toRemove[remove], 1);
-        }
     }
 }
 
@@ -171,7 +175,7 @@ class TripleConstituent {
     }
 
     static getItem(list, resource) {
-        return list.find(element => resource === element.resource) || null;
+        return list.find(element => resource.value === element.resource.value) || null;
     }
 
     compareTo(constituent) {
@@ -241,6 +245,14 @@ class Object extends TripleConstituent {
         this.equivalentSubject = null;
     }
 
+    static getItem(list, resource) {
+        const item = super.getItem(list, resource);
+        if (item !== null)
+            return {item: item, isNew: false};
+        else
+            return {item: new Object(resource), isNew: true};
+    }
+
     setEquivalentSubject(subject) {
         this.equivalentSubject = subject;
     }
@@ -253,30 +265,33 @@ class Object extends TripleConstituent {
     }
 }
 
-function getCommonPrefixes() {
-    return new Promise(resolve => {
-        fetch(commonPrefixSource).then(response => {
-            response.json().then(doc => {
-                for (const prefix in doc)
-                    commonPrefixes.push([prefix, doc[prefix]]);
-                resolve();
-            })
-        });
-    })
+async function fetchDynamicContents() {
+    const cp = await fetch(commonPrefixSource);
+    const cps = await cp.json();
+    for (const prefix in cps)
+        commonPrefixes.push([prefix, cps[prefix]]);
 }
 
-function getTriplestore(url, contentScript = true) {
-    if (contentScript) {
-        return new Promise(resolve => {
-            getCommonPrefixes().then(() => {
-                resolve(new Triplestore(url, commonPrefixes));
-            });
-        })
-    } else {
-        return new Promise(resolve => {
-            resolve(new Triplestore(url, commonPrefixes));
-        });
+function removeUnusedPrefixes(store) {
+    const toRemove = [];
+    for (const prefix in store.prefixes) {
+        if (!store.prefixes[prefix].used)
+            toRemove.push(prefix);
     }
+    toRemove.reverse();
+    for (const remove in toRemove)
+        store.prefixes.splice(toRemove[remove], 1);
 }
 
-module.exports = {getTriplestore, getCommonPrefixes, Triplestore};
+async function getTriplestore(url, contentScript = true) {
+    if (contentScript) {
+        try {
+            await fetchDynamicContents();
+        } catch (e) {
+            console.warn("Could not fetch dynamic contents: " + e.message);
+        }
+    }
+    return new Triplestore(url, commonPrefixes);
+}
+
+module.exports = {getTriplestore, fetchDynamicContents, Triplestore, removeUnusedPrefixes};
