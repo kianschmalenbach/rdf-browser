@@ -3,7 +3,17 @@ let listStatus;
 let baseURL;
 let tab;
 
-function initialize(url) {
+async function initialize() {
+    const result = await browser.storage.sync.get("options");
+    options = result.options;
+    const tabs = await browser.tabs.query({active: true, currentWindow: true});
+    tab = tabs[0];
+    const requestDetails = await browser.runtime.sendMessage(["requestDetails", tab.id.toString()]);
+    if (requestDetails && requestDetails.hasOwnProperty("reqUrl"))
+        baseURL = requestDetails.reqUrl;
+    else
+        baseURL = tab.url;
+    const url = new URL(decodeURIComponent(baseURL));
     const urlString = url.protocol + "//" + url.host + url.pathname;
     const listArray = ["blacklist", "whitelist"];
     for (const list of listArray) {
@@ -110,14 +120,4 @@ function removeListEntry(list) {
     });
 }
 
-browser.storage.sync.get("options").then(result => {
-    options = result.options;
-    browser.tabs.query({active: true, currentWindow: true})
-        .then(tabs => {
-            tab = tabs[0];
-            let url = tab.url;
-            if (url.startsWith("moz"))
-                url = (tab.url.split('url=')[1]).split('&')[0];
-            initialize(new URL(decodeURIComponent(url)))
-        });
-});
+initialize().then();

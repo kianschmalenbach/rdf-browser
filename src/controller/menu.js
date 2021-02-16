@@ -4,26 +4,22 @@ let options;
 let baseURL;
 let tab;
 
-function init() {
-    browser.tabs.query({active: true, currentWindow: true})
-        .then(tabs => {
-            tab = tabs[0];
-            tab = tabs[0];
-            baseURL = tab.url;
-            if (baseURL.startsWith("moz")) {
-                baseURL = (tab.url.split('url=')[1]).split('&')[0];
-                baseURL = new URL(decodeURIComponent(baseURL));
-                baseURL = baseURL.protocol + "//" + baseURL.host + baseURL.pathname;
-            }
-            port = browser.runtime.connect();
-            port.onMessage.addListener(o => {
-                options = o;
-                setCheckboxes();
-            });
-            port.postMessage("quickOptions");
-            document.getElementById("refresh").addEventListener("click", () => refresh());
-            document.getElementById("settings").addEventListener("click", () => openSettings());
-        });
+async function init() {
+    const tabs = await browser.tabs.query({active: true, currentWindow: true});
+    tab = tabs[0];
+    const requestDetails = await browser.runtime.sendMessage(["requestDetails", tab.id.toString()]);
+    if (requestDetails && requestDetails.hasOwnProperty("reqUrl"))
+        baseURL = requestDetails.reqUrl;
+    else
+        baseURL = tab.url;
+    port = browser.runtime.connect();
+    port.onMessage.addListener(o => {
+        options = o;
+        setCheckboxes();
+    });
+    port.postMessage("quickOptions");
+    document.getElementById("refresh").addEventListener("click", () => refresh());
+    document.getElementById("settings").addEventListener("click", () => openSettings());
 }
 
 function setCheckboxes() {
@@ -48,4 +44,4 @@ function openSettings() {
     browser.runtime.openOptionsPage().then(() => window.close());
 }
 
-init();
+init().then();
