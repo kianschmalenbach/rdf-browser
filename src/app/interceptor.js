@@ -101,7 +101,7 @@ function modifyRequestHeader(details) {
             break;
         }
     }
-    if (options.contentScript && typeof requests[details.tabId] === "undefined" || !requests[details.tabId].redirect)
+    if (typeof requests[details.tabId] === "undefined" || !requests[details.tabId].redirect)
         requests[details.tabId] = {reqUrl: details.url, redirect: false};
     return {requestHeaders: details.requestHeaders};
 }

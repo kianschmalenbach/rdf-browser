@@ -8,12 +8,10 @@ async function init() {
     const tabs = await browser.tabs.query({active: true, currentWindow: true});
     tab = tabs[0];
     const requestDetails = await browser.runtime.sendMessage(["requestDetails", tab.id.toString()]);
-    baseURL = requestDetails.url;
-    if (baseURL.startsWith("moz")) {
-        baseURL = (tab.url.split('url=')[1]).split('&')[0];
-        baseURL = new URL(decodeURIComponent(baseURL));
-        baseURL = baseURL.protocol + "//" + baseURL.host + baseURL.pathname;
-    }
+    if (requestDetails && requestDetails.hasOwnProperty("reqUrl"))
+        baseURL = requestDetails.reqUrl;
+    else
+        baseURL = tab.url;
     port = browser.runtime.connect();
     port.onMessage.addListener(o => {
         options = o;
