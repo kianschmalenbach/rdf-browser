@@ -12,30 +12,35 @@ async function init() {
         baseURL = requestDetails.reqUrl;
     else
         baseURL = tab.url;
-    port = browser.runtime.connect();
-    port.onMessage.addListener(o => {
-        options = o;
-        setCheckboxes();
-    });
-    port.postMessage("quickOptions");
-    document.getElementById("refresh").addEventListener("click", () => refresh());
+    const getting = await browser.storage.sync.get("options");
+    options = getting.options;
+    setCheckboxes();
+    document.getElementById("switch").addEventListener("click", () => switchMode());
     document.getElementById("settings").addEventListener("click", () => openSettings());
 }
 
 function setCheckboxes() {
-    for (const option in options) {
-        document.getElementById(option).checked = options[option];
+    for (const option in options.quickOptions) {
+        document.getElementById(option).checked = options.quickOptions[option];
         document.getElementById(option).addEventListener("change", save);
     }
+    const text = options.contentScript ? " Browser Mode" : " Editor Mode";
+    document.getElementById("switch").appendChild(document.createTextNode(text));
 }
 
 function save() {
-    for (const option in options)
-        options[option] = document.getElementById(option).checked;
-    port.postMessage(["quickOptions", options]);
+    for (const option in options.quickOptions)
+        options.quickOptions[option] = document.getElementById(option).checked;
+    browser.storage.sync.set({
+        options: options
+    });
 }
 
-function refresh() {
+function switchMode() {
+    options.contentScript = !options.contentScript;
+    browser.storage.sync.set({
+        options: options
+    });
     browser.tabs.update(tab.id, {url: baseURL});
     window.close();
 }

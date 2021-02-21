@@ -26,7 +26,7 @@ async function loadContent(encoding, format) {
             navigate();
     });
     document.getElementById("#navButton").addEventListener("click", navigate);
-    document.getElementById("#editButton").addEventListener("click", toggleEdit);
+    document.getElementById("#editButton").addEventListener("click", handleEdit);
     const urlElement = document.createElement("a");
     baseURI = uri.split("#")[0];
     urlElement.setAttribute("href", baseURI);
@@ -257,18 +257,29 @@ function navigate() {
     window.location.href = target;
 }
 
-async function toggleEdit() {
+async function handleEdit() {
     const main = document.getElementById("main");
     const status = document.getElementById("status");
+    const navbarLabel = document.getElementById("#navbarLabel");
+    const uploadFormatLabel = document.getElementById("#uploadFormatLabel");
+    const uploadFormat = document.getElementById("#uploadFormat");
+    const uploadURILabel = document.getElementById("#uploadURILabel");
+    const uploadURI = document.getElementById("#uploadURI");
     const elements = document.querySelectorAll("main *");
     const editButton = document.getElementById("#editButton");
     const editStyle = "color: black !important; text-decoration: none !important;"
+    const backgroundStyle = "background-color: #d8ecf3 !important;"
     if (!editMode) {
         await stopCrawler();
         for (const element of elements)
             element.setAttribute("style", (element.getAttribute("style") || "") + editStyle);
         editButton.innerText = "Upload changes";
+        navbarLabel.setAttribute("hidden", "hidden");
+        uploadFormatLabel.removeAttribute("hidden");
+        uploadURILabel.removeAttribute("hidden");
+        uploadURI.setAttribute("value", uri);
         main.setAttribute("contenteditable", "true");
+        main.setAttribute("style", (main.getAttribute("style") || "") + backgroundStyle);
         main.addEventListener("input", handleInput);
         status.innerText = "document editable";
     } else {
@@ -276,15 +287,25 @@ async function toggleEdit() {
             if (element.hasAttribute("style"))
                 element.setAttribute("style", element.getAttribute("style").replace(editStyle, ""));
         main.removeAttribute("contenteditable");
-        editButton.innerText = "Edit document";
+        main.setAttribute("style", main.getAttribute("style").replace(backgroundStyle, ""));
+        navbarLabel.removeAttribute("hidden");
+        uploadFormatLabel.setAttribute("hidden", "hidden");
+        uploadURILabel.setAttribute("hidden", "hidden");
+        editButton.setAttribute("disabled", "disabled");
         status.removeAttribute("style");
+        status.innerText = "uploading...";
+        const success = await handleUpload();
+        //if (success) {
+        editButton.innerText = "Edit document";
+        editButton.removeAttribute("disabled");
         status.innerText = "ready";
+        window.location.replace(baseURI);
+        //}
     }
     editMode = !editMode;
 
     function handleInput() {
         const turtleString = document.getElementById("main").innerText.toString();
-        console.log(turtleString);
         const status = document.getElementById("status");
         const error = parser.validateTurtle(turtleString, baseURI);
         if (!error) {
@@ -293,6 +314,31 @@ async function toggleEdit() {
         } else {
             status.setAttribute("style", "color: darkred;");
             status.innerText = (error.toString().split("Error: "))[1];
+        }
+    }
+
+    async function handleUpload() {
+        const turtleString = document.getElementById("main").innerText.toString();
+        const target = uploadURI.value;
+        const format = uploadFormat.value;
+        if (format !== "text/turtle") {
+            alert("Uploading in format other than turtle not supported yet");
+            return false;
+        }
+        try {
+            const response = await fetch(target, {
+                method: 'PUT',
+                headers: {
+                    'Content-Type': format
+                },
+                body: turtleString
+            });
+            if (response.status >= 400)
+                throw new Error("Server responded: " + response.status + " " + response.statusText);
+            return true;
+        } catch (e) {
+            alert("An error occurred when uploading the document.\n\n" + e.message);
+            return false;
         }
     }
 }

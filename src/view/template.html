@@ -93,6 +93,10 @@
             font-size: .85em;
         }
 
+        header select {
+            background-color: inherit;
+        }
+
         aside div {
             font-family: "Fira Sans", sans-serif;
             margin-top: 20px;
@@ -217,13 +221,21 @@
         <div>
             <img alt="logo" src="../../img/rdf-browser-512.png">
             <span class="title">RDF Browser</span>
-            <span class="inputContainer"><label><input id="#navbar" size="80" type="url"><button
+            <span class="inputContainer"><label id="#navbarLabel"><input id="#navbar" size="80" type="url"><button
                     id="#navButton">&#10148;</button></label></span>
             <span id="status">loading...</span>
         </div>
         <div class="buffer"></div>
         <div>
-            <span class="inputContainer"><button disabled="disabled" id="#editButton">Edit document</button></span>
+            <span class="inputContainer">
+                <label hidden="hidden" id="#uploadFormatLabel">Format: <select id="#uploadFormat">
+                    <option value="text/turtle">Turtle</option>
+                    <option value="application/rdf+xml">RDF/XML</option>
+                    <option value="application/ld+json">JSON-LD</option>
+                </select></label>
+                <label hidden="hidden" id="#uploadURILabel">URI: <input id="#uploadURI" size="50" type="url"></label>
+                <button disabled="disabled" id="#editButton">Edit document</button>
+            </span>
         </div>
     </div>
 </header>
