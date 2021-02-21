@@ -151,7 +151,11 @@ function rewriteResponse(cl, details, encoding, format) {
         req.crawl = options.quickOptions.crawler;
         return {
             responseHeaders: responseHeaders,
-            redirectUrl: browser.runtime.getURL(templatePath)
+            redirectUrl: browser.runtime.getURL(templatePath
+                + "?url=" + encodeURIComponent(details.url)
+                + "&encoding=" + encodeURIComponent(encoding)
+                + "&format=" + encodeURIComponent(format)
+            )
         };
     }
     const filter = browser.webRequest.filterResponseData(details.requestId);

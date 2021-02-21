@@ -3,17 +3,24 @@ const interceptor = require("./interceptor");
 const serializer = require("./serializer");
 const parser = require("./parser");
 const ts = require("../bdo/triplestore");
-let triplestore;
+let triplestore, options;
 let reqUri, uri, baseURI;
 let editMode = false, crawlerEnabled;
 
 async function init() {
+    options = (await browser.storage.sync.get("options")).options;
     const tabId = (await browser.tabs.getCurrent()).id;
     const requestDetails = await browser.runtime.sendMessage(["requestDetails", tabId.toString()]);
-    reqUri = requestDetails.reqUrl;
-    uri = requestDetails.url;
-    crawlerEnabled = requestDetails.crawl;
-    await loadContent(requestDetails.encoding, requestDetails.format);
+    const params = new URL(location.href).searchParams;
+    if (requestDetails === undefined) {
+        reqUri = decodeURIComponent(params.get("url"));
+        uri = reqUri;
+    } else {
+        reqUri = requestDetails.reqUrl ? requestDetails.reqUrl : decodeURIComponent(params.get("url"));
+        uri = decodeURIComponent(params.get("url"));
+    }
+    crawlerEnabled = options.quickOptions.crawler;
+    await loadContent(decodeURIComponent(params.get("encoding")), decodeURIComponent(params.get("format")));
     await crawl();
 }
 
