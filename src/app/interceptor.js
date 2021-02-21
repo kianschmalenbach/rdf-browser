@@ -84,7 +84,8 @@ function modifyRequestHeader(details) {
         if (headerField.name.toLowerCase() === "accept") {
             acceptHeader = getNewAcceptHeader(headerField.value);
             headerField.value = acceptHeader;
-            break;
+        } else if (headerField.name.toLowerCase() === "accept-language") {
+            headerField.value = options.acceptLanguage
         }
     }
     if (typeof requests[details.tabId] === "undefined" || !requests[details.tabId].redirect)

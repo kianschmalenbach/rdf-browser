@@ -282,7 +282,7 @@ async function handleEdit() {
             element.setAttribute("style", (element.getAttribute("style") || "") + editStyle);
         editButton.innerText = "Upload changes";
         navbarLabel.setAttribute("hidden", "hidden");
-        uploadFormatLabel.removeAttribute("hidden");
+        //uploadFormatLabel.removeAttribute("hidden");
         uploadURILabel.removeAttribute("hidden");
         uploadURI.setAttribute("value", uri);
         main.setAttribute("contenteditable", "true");

@@ -141,7 +141,8 @@ const defaultOptions = {
         response: true,
         crawler: true,
         pageAction: true
-    }
+    },
+    acceptLanguage: "en;q=0.9, de;q=0.8, *;q=0.5"
 };
 let options;
 
