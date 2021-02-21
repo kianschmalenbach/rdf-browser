@@ -4,9 +4,9 @@
 RDF Browser is a Firefox Add-on that requests RDF files and renders RDF files as Turtle documents with clickable links.
 
 
-| Current version: | 1.1.7 |
+| Current version: | 1.2.0 |
 | --- | --- |
-| Release date: | Nov 18, 2020 |
+| Release date: | Feb 22, 2021 |
 
 The Add-on is released and maintained by the [Chair of Technical Information Systems](https://www.ti.rw.fau.de) at [Friedrich-Alexander-University Erlangen-Nürnberg](https://www.fau.de).
 
@@ -48,6 +48,12 @@ $ npm run build
 - To see the raw format of any rendered RDF file, click *Ctrl + U*.
 
 ## Changelog
+### Version 1.2.0
+- New interactive editor mode
+- Linked Data Principles conformance check
+- Crawler functionality
+- Usability improvements
+
 ### Version 1.1.7
 - Added intelligent base prefix inclusion
 - Fixed handling of relative URIs
