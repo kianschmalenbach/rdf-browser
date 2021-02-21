@@ -135,7 +135,14 @@ const defaultOptions = {
         selected: "light"
     },
     blacklist: "",
-    whitelist: ""
+    whitelist: "",
+    quickOptions: {
+        header: true,
+        response: true,
+        crawler: true,
+        pageAction: true
+    },
+    acceptLanguage: "en;q=0.9, de;q=0.8, *;q=0.5"
 };
 let options;
 
@@ -160,19 +167,6 @@ function initMessageListeners() {
                 sendResponse(interceptor.getRequestDetails(message[1]));
                 break;
         }
-    });
-    browser.runtime.onConnect.addListener(port => {
-        port.onMessage.addListener(message => {
-            let msg = Array.isArray(message) ? message[0] : message;
-            switch (msg) {
-                case "quickOptions":
-                    if (Array.isArray(message))
-                        interceptor.setQuickOptions(message[1]);
-                    else
-                        port.postMessage(interceptor.getQuickOptions());
-                    break;
-            }
-        });
     });
 }
 

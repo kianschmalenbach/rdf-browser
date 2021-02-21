@@ -1,6 +1,7 @@
 const RdfXmlParser = require("rdfxml-streaming-parser").RdfXmlParser;
 const JsonLdParser = require("jsonld-streaming-parser").JsonLdParser;
-const N3Parser = require("@rdfjs/parser-n3");
+const ParserN3 = require("@rdfjs/parser-n3");
+const N3Parser = require('n3').Parser;
 const Transform = require("stream").Transform;
 const ts = require("../bdo/triplestore");
 
@@ -43,7 +44,7 @@ function getParser(format, baseIRI) {
         case "text/nt":
         case "text/turtle":
         case "text/n3":
-            parser = new N3Parser({
+            parser = new ParserN3({
                 baseIRI: baseIRI
             });
             break;
@@ -155,4 +156,16 @@ function parseDocument(inputStream, parser, decoder, format, contentScript, base
     }
 }
 
-module.exports = {obtainTriplestore, obtainDescriptions};
+function validateTurtle(turtleString, baseIRI) {
+    const parser = new N3Parser({
+        baseIRI: baseIRI
+    });
+    try {
+        parser.parse(turtleString);
+        return null;
+    } catch (e) {
+        return e;
+    }
+}
+
+module.exports = {obtainTriplestore, obtainDescriptions, validateTurtle};

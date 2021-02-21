@@ -11,23 +11,9 @@ const filter = {
 const requests = {};
 let acceptHeader = "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8";
 let options;
-let quickOptions = {
-    header: true,
-    response: true,
-    crawler: true,
-    pageAction: true
-}
 
 function getRequestDetails(tabId) {
     return requests[tabId];
-}
-
-function getQuickOptions() {
-    return quickOptions;
-}
-
-function setQuickOptions(options) {
-    quickOptions = options;
 }
 
 function getFormats(considerOptions = true) {
@@ -86,7 +72,7 @@ function getFormatFor(fileType) {
  * @returns {{requestHeaders: *}} The modified request header
  */
 function modifyRequestHeader(details) {
-    if (!quickOptions.header || (options.xhr && details.type !== "main_frame"))
+    if (!options.quickOptions.header || (options.xhr && details.type !== "main_frame"))
         return {};
     const formats = getFormats();
     if (formats.length === 0)
@@ -98,7 +84,8 @@ function modifyRequestHeader(details) {
         if (headerField.name.toLowerCase() === "accept") {
             acceptHeader = getNewAcceptHeader(headerField.value);
             headerField.value = acceptHeader;
-            break;
+        } else if (headerField.name.toLowerCase() === "accept-language") {
+            headerField.value = options.acceptLanguage
         }
     }
     if (typeof requests[details.tabId] === "undefined" || !requests[details.tabId].redirect)
@@ -112,11 +99,9 @@ function modifyRequestHeader(details) {
  * @returns {{}|{responseHeaders: {name: string, value: string}[]}} The modified response header
  */
 function modifyResponseHeader(details) {
-    if (!quickOptions.response || details.statusCode >= 300 || details.type !== "main_frame" || utils.onList(options, "blacklist", new URL(details.url))) {
-        if (details.statusCode >= 300 && details.type === "main_frame" && options.contentScript && typeof requests[details.tabId] !== "undefined") {
+    if (!options.quickOptions.response || details.statusCode >= 300 || details.type !== "main_frame" || utils.onList(options, "blacklist", new URL(details.url))) {
+        if (details.statusCode >= 300 && details.type === "main_frame" && options.contentScript && typeof requests[details.tabId] !== "undefined")
             requests[details.tabId].redirect = true;
-            console.log("response to " + details.url);
-        }
         return {};
     }
     const cl = details.responseHeaders.find(h => h.name.toLowerCase() === "content-length");
@@ -164,10 +149,14 @@ function rewriteResponse(cl, details, encoding, format) {
         req.url = details.url;
         req.encoding = encoding;
         req.format = format;
-        req.crawl = quickOptions.crawler;
+        req.crawl = options.quickOptions.crawler;
         return {
             responseHeaders: responseHeaders,
-            redirectUrl: browser.runtime.getURL(templatePath)
+            redirectUrl: browser.runtime.getURL(templatePath
+                + "?url=" + encodeURIComponent(details.url)
+                + "&encoding=" + encodeURIComponent(encoding)
+                + "&format=" + encodeURIComponent(format)
+            )
         };
     }
     const filter = browser.webRequest.filterResponseData(details.requestId);
@@ -346,11 +335,10 @@ function addListeners() {
         browser.webRequest.onBeforeSendHeaders.addListener(modifyRequestHeader, filter, ["blocking", "requestHeaders"]);
         browser.webRequest.onHeadersReceived.addListener(modifyResponseHeader, filter, ["blocking", "responseHeaders"]);
         browser.webNavigation.onCommitted.addListener(details => {
-            if (quickOptions.pageAction)
+            if (options.quickOptions.pageAction)
                 browser.pageAction.show(details.tabId);
         });
-    })
-
+    });
 }
 
-module.exports = {addListeners, fetchDocument, acceptHeader, getRequestDetails, getQuickOptions, setQuickOptions}
+module.exports = {addListeners, fetchDocument, acceptHeader, getRequestDetails}

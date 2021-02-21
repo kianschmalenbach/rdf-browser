@@ -45,10 +45,19 @@
             overflow: auto;
         }
 
-        header div {
+        header > div {
             box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2), 0 3px 10px 0 rgba(0, 0, 0, 0.2);
             font-family: "Fira Sans", sans-serif;
             padding: 3px;
+            display: flex;
+        }
+
+        .buffer {
+            flex-grow: 1;
+        }
+
+        header > div > div:last-child {
+            padding-right: 15px;
         }
 
         header div span.title {
@@ -82,6 +91,10 @@
 
         header #\#navButton {
             font-size: .85em;
+        }
+
+        header select {
+            background-color: inherit;
         }
 
         aside div {
@@ -205,11 +218,25 @@
 <body id="template"><!--TODO start all ids with # to prevent conflicts-->
 <header id="header">
     <div>
-        <img alt="logo" src="../../img/rdf-browser-512.png">
-        <span class="title">RDF Browser</span>
-        <span class="inputContainer"><label><input id="#navbar" size="80" type="url"><button
-                id="#navButton">&#10148;</button></label></span>
-        <span id="status">loading...</span>
+        <div>
+            <img alt="logo" src="../../img/rdf-browser-512.png">
+            <span class="title">RDF Browser</span>
+            <span class="inputContainer"><label id="#navbarLabel"><input id="#navbar" size="80" type="url"><button
+                    id="#navButton">&#10148;</button></label></span>
+            <span id="status">loading...</span>
+        </div>
+        <div class="buffer"></div>
+        <div>
+            <span class="inputContainer">
+                <label hidden="hidden" id="#uploadFormatLabel">Format: <select id="#uploadFormat">
+                    <option value="text/turtle">Turtle</option>
+                    <option value="application/rdf+xml">RDF/XML</option>
+                    <option value="application/ld+json">JSON-LD</option>
+                </select></label>
+                <label hidden="hidden" id="#uploadURILabel">URI: <input id="#uploadURI" size="50" type="url"></label>
+                <button disabled="disabled" id="#editButton">Edit document</button>
+            </span>
+        </div>
     </div>
 </header>
 <aside id="aside">
