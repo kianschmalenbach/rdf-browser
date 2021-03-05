@@ -12,7 +12,6 @@ cp ../manifest.json rdf-browser/
 mkdir rdf-browser-sources
 cp ../src rdf-browser-sources -r
 cp ../script rdf-browser-sources -r
-cp ../img rdf-browser-sources -r
 cp ../manifest.json rdf-browser-sources/
 cp ../package.json rdf-browser-sources/
 cp ../README.md rdf-browser-sources/
