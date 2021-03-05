@@ -26,7 +26,7 @@ async function init() {
 
 async function loadContent(encoding, format) {
     document.getElementById("title").innerText = reqUri;
-    document.getElementById("#navbar").setAttribute("value", uri);
+    document.getElementById("#navbar").setAttribute("value", reqUri);
     document.getElementById("#navbar").addEventListener("focusin", event => event.target.select());
     document.getElementById("#navbar").addEventListener("keypress", event => {
         if (event.key === "Enter")
@@ -36,8 +36,8 @@ async function loadContent(encoding, format) {
     document.getElementById("#editButton").addEventListener("click", handleEdit);
     const urlElement = document.createElement("a");
     baseURI = uri.split("#")[0];
-    urlElement.setAttribute("href", baseURI);
-    urlElement.appendChild(document.createTextNode(baseURI));
+    urlElement.setAttribute("href", reqUri);
+    urlElement.appendChild(document.createTextNode(reqUri));
     document.getElementById("#uri").appendChild(urlElement);
 
     try {

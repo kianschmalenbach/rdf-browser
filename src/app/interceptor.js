@@ -99,10 +99,11 @@ function modifyRequestHeader(details) {
  * @returns {{}|{responseHeaders: {name: string, value: string}[]}} The modified response header
  */
 function modifyResponseHeader(details) {
+    let redirect = false;
     if (!options.quickOptions.response || details.statusCode >= 300 || details.type !== "main_frame" || utils.onList(options, "blacklist", new URL(details.url))) {
         if (details.statusCode >= 300 && details.type === "main_frame" && options.contentScript && typeof requests[details.tabId] !== "undefined")
-            requests[details.tabId].redirect = true;
-        return {};
+            redirect = true;
+        else return {};
     }
     const cl = details.responseHeaders.find(h => h.name.toLowerCase() === "content-length");
     if (cl) {
@@ -129,13 +130,13 @@ function modifyResponseHeader(details) {
         console.warn("The HTTP response does not include encoding information. Encoding in utf-8 is assumed.");
         encoding = "utf-8";
     }
-    return rewriteResponse(cl, details, encoding, format);
+    return rewriteResponse(cl, details, encoding, format, redirect);
 }
 
 /**
  * Rewrite the HTTP response (background script) or redirect to the html template (content script)
  */
-function rewriteResponse(cl, details, encoding, format) {
+function rewriteResponse(cl, details, encoding, format, redirect) {
     const responseHeaders = [
         {name: "Content-Type", value: "text/html; charset=utf-8"},
         {name: "Cache-Control", value: "no-cache, no-store, must-revalidate"},
@@ -145,15 +146,14 @@ function rewriteResponse(cl, details, encoding, format) {
     ];
     if (options.contentScript) {
         const req = requests[details.tabId];
-        delete req.redirect;
-        req.url = details.url;
+        req.url = redirect ? details.responseHeaders.find(h => h.name.toLowerCase() === "location").value : details.url;
         req.encoding = encoding;
         req.format = format;
         req.crawl = options.quickOptions.crawler;
         return {
             responseHeaders: responseHeaders,
             redirectUrl: browser.runtime.getURL(templatePath
-                + "?url=" + encodeURIComponent(details.url)
+                + "?url=" + encodeURIComponent(req.url)
                 + "&encoding=" + encodeURIComponent(encoding)
                 + "&format=" + encodeURIComponent(format)
             )
