@@ -1,9 +1,12 @@
-const RdfXmlParser = require("rdfxml-streaming-parser").RdfXmlParser;
-const JsonLdParser = require("jsonld-streaming-parser").JsonLdParser;
-const ParserN3 = require("@rdfjs/parser-n3");
+const RdfXmlParser = require('rdfxml-streaming-parser').RdfXmlParser;
+const JsonLdParser = require('jsonld-streaming-parser').JsonLdParser;
+const JsonLdSerializer = require('jsonld-streaming-serializer').JsonLdSerializer;
 const N3Parser = require('n3').Parser;
-const Transform = require("stream").Transform;
-const ts = require("../bdo/triplestore");
+const N3StreamParser = require('n3').StreamParser;
+const N3StreamWriter = require('n3').StreamWriter;
+const Readable = require('stream').Readable
+const Transform = require('stream').Transform;
+const ts = require('../bdo/triplestore');
 
 function obtainTriplestore(inputStream, redirect, decoder, format, contentScript, baseIRI) {
     return new Promise((resolve, reject) => {
@@ -44,12 +47,35 @@ function getParser(format, baseIRI) {
         case "text/nt":
         case "text/turtle":
         case "text/n3":
-            parser = new ParserN3({
+            parser = new N3StreamParser({
                 baseIRI: baseIRI
             });
             break;
     }
     return parser;
+}
+
+function getSerializer(format, baseIRI) {
+    let serializer = null;
+    switch (format) {
+        case "application/ld+json":
+            serializer = new JsonLdSerializer({
+                baseIRI: baseIRI
+            });
+            break;
+        case "application/trig":
+        case "application/n-quads":
+        case "application/n-triples":
+        case "text/nt":
+        case "text/turtle":
+        case "text/n3":
+            serializer = new N3StreamWriter(null, {
+                baseIRI: baseIRI,
+                format: format
+            });
+            break;
+    }
+    return serializer;
 }
 
 function parseDocument(inputStream, parser, decoder, format, contentScript, redirect, baseIRI, store, resolve, reject, baseTriplestore = null) {
@@ -168,4 +194,28 @@ function validateTurtle(turtleString, baseIRI) {
     }
 }
 
-module.exports = {obtainTriplestore, obtainDescriptions, validateTurtle};
+function convertTurtle(turtleString, baseIRI, targetFormat) {
+    return new Promise((resolve, reject) => {
+        const parser = new N3StreamParser({
+            baseIRI: baseIRI
+        });
+        const serializer = getSerializer(targetFormat, baseIRI);
+        try {
+            const inputStream = new Readable({
+                read: () => {
+                    inputStream.push(turtleString);
+                    inputStream.push(null);
+                }
+            });
+            const outputStream = inputStream.pipe(parser).pipe(serializer);
+            let output = "";
+            outputStream
+                .on('data', data => output += data)
+                .on('end', () => resolve(output));
+        } catch (e) {
+            reject(e);
+        }
+    });
+}
+
+module.exports = {obtainTriplestore, obtainDescriptions, validateTurtle, convertTurtle};

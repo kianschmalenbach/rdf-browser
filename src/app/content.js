@@ -4,7 +4,7 @@ const serializer = require("./serializer");
 const parser = require("./parser");
 const ts = require("../bdo/triplestore");
 let triplestore, options;
-let reqUri, uri, baseURI;
+let reqUri, uri, baseURI, contentType;
 let editMode = false, crawlerEnabled;
 
 async function init() {
@@ -25,6 +25,7 @@ async function init() {
 }
 
 async function loadContent(encoding, format) {
+    contentType = format;
     document.getElementById("title").innerText = reqUri;
     document.getElementById("#navbar").setAttribute("value", reqUri);
     document.getElementById("#navbar").addEventListener("focusin", event => event.target.select());
@@ -268,6 +269,8 @@ async function handleEdit() {
     const main = document.getElementById("main");
     const status = document.getElementById("status");
     const navbarLabel = document.getElementById("#navbarLabel");
+    const uploadMethodLabel = document.getElementById("#uploadMethodLabel");
+    const uploadMethod = document.getElementById("#uploadMethod");
     const uploadFormatLabel = document.getElementById("#uploadFormatLabel");
     const uploadFormat = document.getElementById("#uploadFormat");
     const uploadURILabel = document.getElementById("#uploadURILabel");
@@ -280,9 +283,17 @@ async function handleEdit() {
         await stopCrawler();
         for (const element of elements)
             element.setAttribute("style", (element.getAttribute("style") || "") + editStyle);
+        editButton.removeAttribute("disabled");
         editButton.innerText = "Upload changes";
         navbarLabel.setAttribute("hidden", "hidden");
-        //uploadFormatLabel.removeAttribute("hidden");
+        uploadMethodLabel.removeAttribute("hidden");
+        uploadFormatLabel.removeAttribute("hidden");
+        for (const option of uploadFormat) {
+            if (option.value.toLowerCase() === contentType.toLowerCase()) {
+                option.setAttribute("selected", "selected");
+                break;
+            }
+        }
         uploadURILabel.removeAttribute("hidden");
         uploadURI.setAttribute("value", uri);
         main.setAttribute("contenteditable", "true");
@@ -296,23 +307,33 @@ async function handleEdit() {
         main.removeAttribute("contenteditable");
         main.setAttribute("style", main.getAttribute("style").replace(backgroundStyle, ""));
         navbarLabel.removeAttribute("hidden");
+        uploadMethodLabel.setAttribute("hidden", "hidden");
         uploadFormatLabel.setAttribute("hidden", "hidden");
         uploadURILabel.setAttribute("hidden", "hidden");
         editButton.setAttribute("disabled", "disabled");
         status.removeAttribute("style");
         status.innerText = "uploading...";
         const success = await handleUpload();
-        //if (success) {
+        if (!success) {
+            editMode = !editMode;
+            await handleEdit();
+            return;
+        }
         editButton.innerText = "Edit document";
         editButton.removeAttribute("disabled");
         status.innerText = "ready";
-        window.location.replace(baseURI);
-        //}
+        let redirectURI = baseURI;
+        if (uploadMethod.value === "DELETE") {
+            const split = uploadURI.value.split('/');
+            redirectURI = redirectURI.substring(0, uploadURI.value.length - split[split.length - 1].length);
+        } else if (["CREATE", "POST", "PUT"].includes(uploadMethod.value))
+            redirectURI = uploadURI.value;
+        window.location.replace(redirectURI);
     }
     editMode = !editMode;
 
     function handleInput() {
-        const turtleString = document.getElementById("main").innerText.toString();
+        const turtleString = document.getElementById("main").innerText.toString().trim();
         const status = document.getElementById("status");
         const error = parser.validateTurtle(turtleString, baseURI);
         if (!error) {
@@ -325,26 +346,36 @@ async function handleEdit() {
     }
 
     async function handleUpload() {
-        const turtleString = document.getElementById("main").innerText.toString();
+        const turtleString = document.getElementById("main").innerText.toString().trim();
+        const error = parser.validateTurtle(turtleString, baseURI);
+        if (error)
+            return handleError(error, "parsing");
+        const method = uploadMethod.value;
         const target = uploadURI.value;
         const format = uploadFormat.value;
-        if (format !== "text/turtle") {
-            alert("Uploading in format other than turtle not supported yet");
-            return false;
+        let body;
+        try {
+            body = await parser.convertTurtle(turtleString, baseURI, format);
+        } catch (e) {
+            return handleError(e, "parsing");
         }
         try {
             const response = await fetch(target, {
-                method: 'PUT',
+                method: method,
                 headers: {
                     'Content-Type': format
                 },
-                body: turtleString
+                body: body
             });
             if (response.status >= 400)
-                throw new Error("Server responded: " + response.status + " " + response.statusText);
+                return handleError(new Error("Server responded: " + response.status + " " + response.statusText), "uploading");
             return true;
         } catch (e) {
-            alert("An error occurred when uploading the document.\n\n" + e.message);
+            return handleError(e, "uploading");
+        }
+
+        function handleError(e, activity) {
+            alert("An error occurred when " + activity + " the document:\n\n" + e.message);
             return false;
         }
     }

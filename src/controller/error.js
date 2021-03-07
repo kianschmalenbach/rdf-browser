@@ -9,7 +9,6 @@ if (baseIRI === null) {
     document.getElementById("sources").remove();
 }
 
-
 function handleRefresh() {
     window.location.href = baseIRI;
 }

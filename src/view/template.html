@@ -228,10 +228,18 @@
         <div class="buffer"></div>
         <div>
             <span class="inputContainer">
+                <label hidden="hidden" id="#uploadMethodLabel">HTTP Method: <select id="#uploadMethod">
+                    <option value="PUT">PUT</option>
+                    <option value="POST">POST</option>
+                    <option value="CREATE">CREATE</option>
+                    <option value="DELETE">DELETE</option>
+                </select></label>
                 <label hidden="hidden" id="#uploadFormatLabel">Format: <select id="#uploadFormat">
                     <option value="text/turtle">Turtle</option>
-                    <option value="application/rdf+xml">RDF/XML</option>
                     <option value="application/ld+json">JSON-LD</option>
+                    <option value="text/n3">Notation3</option>
+                    <option value="application/n-triples">N-Triples</option>
+                    <option value="application/n-quads">N-Quads</option>
                 </select></label>
                 <label hidden="hidden" id="#uploadURILabel">URI: <input id="#uploadURI" size="50" type="url"></label>
                 <button disabled="disabled" id="#editButton">Edit document</button>
