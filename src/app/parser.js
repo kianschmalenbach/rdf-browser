@@ -5,13 +5,13 @@ const N3Parser = require('n3').Parser;
 const Transform = require("stream").Transform;
 const ts = require("../bdo/triplestore");
 
-function obtainTriplestore(inputStream, decoder, format, contentScript, baseIRI) {
+function obtainTriplestore(inputStream, redirect, decoder, format, contentScript, baseIRI) {
     return new Promise((resolve, reject) => {
         const parser = getParser(format, baseIRI);
         if (!parser)
             reject("Unsupported format");
         ts.getTriplestore(baseIRI, contentScript).then(store => {
-            parseDocument(inputStream, parser, decoder, format, contentScript, baseIRI, store, resolve, reject);
+            parseDocument(inputStream, parser, decoder, format, contentScript, redirect, baseIRI, store, resolve, reject);
         });
     });
 }
@@ -20,7 +20,7 @@ function obtainDescriptions(inputStream, decoder, format, baseIRI, store, baseTr
     return new Promise((resolve, reject) => {
         const parser = getParser(format, baseIRI);
         if (parser)
-            parseDocument(inputStream, parser, decoder, format, true, null, store, resolve, reject, baseTriplestore);
+            parseDocument(inputStream, parser, decoder, format, true, false, null, store, resolve, reject, baseTriplestore);
     })
 
 }
@@ -52,15 +52,15 @@ function getParser(format, baseIRI) {
     return parser;
 }
 
-function parseDocument(inputStream, parser, decoder, format, contentScript, baseIRI, store, resolve, reject, baseTriplestore = null) {
+function parseDocument(inputStream, parser, decoder, format, contentScript, redirect, baseIRI, store, resolve, reject, baseTriplestore = null) {
     const transformStream = new Transform({
         transform(chunk, encoding, callback) {
             this.push(chunk);
             callback();
         }
     });
-    if (contentScript) {
-        if (baseTriplestore === null)
+    if (contentScript || redirect) {
+        if (contentScript && baseTriplestore === null)
             document.getElementById("status").innerText = "fetching file...";
         inputStream.read().then(function processText({done, value}) {
             if (done)

@@ -78,7 +78,11 @@ function modifyRequestHeader(details) {
     if (formats.length === 0)
         return {};
     const url = new URL(details.url);
-    if (utils.onList(options, "blacklist", url, true))
+    const isInitialRequest = (!requests.hasOwnProperty(details.tabId) || !requests[details.tabId].redirect);
+    const isBlacklisted = utils.onList(options, "blacklist", url, true) || (!isInitialRequest && requests[details.tabId].blacklist);
+    if (isInitialRequest)
+        requests[details.tabId] = {reqUrl: details.url, redirect: false, blacklist: isBlacklisted};
+    if (isBlacklisted)
         return {};
     for (let headerField of details.requestHeaders) {
         if (headerField.name.toLowerCase() === "accept") {
@@ -88,8 +92,6 @@ function modifyRequestHeader(details) {
             headerField.value = options.acceptLanguage
         }
     }
-    if (typeof requests[details.tabId] === "undefined" || !requests[details.tabId].redirect)
-        requests[details.tabId] = {reqUrl: details.url, redirect: false};
     return {requestHeaders: details.requestHeaders};
 }
 
@@ -98,13 +100,12 @@ function modifyRequestHeader(details) {
  * @param details The details of the HTTP response
  * @returns {{}|{responseHeaders: {name: string, value: string}[]}} The modified response header
  */
-function modifyResponseHeader(details) {
-    let redirect = false;
-    if (!options.quickOptions.response || details.statusCode >= 300 || details.type !== "main_frame" || utils.onList(options, "blacklist", new URL(details.url))) {
-        if (details.statusCode >= 300 && details.type === "main_frame" && options.contentScript && typeof requests[details.tabId] !== "undefined")
-            redirect = true;
-        else return {};
-    }
+async function modifyResponseHeader(details) {
+    const redirect = (details.statusCode >= 300 && details.statusCode < 400);
+    if (requests.hasOwnProperty(details.tabId))
+        requests[details.tabId].redirect = redirect;
+    if (!options.quickOptions.response || details.type !== "main_frame" || utils.onList(options, "blacklist", new URL(details.url)))
+        return {};
     const cl = details.responseHeaders.find(h => h.name.toLowerCase() === "content-length");
     if (cl) {
         const length = parseInt(cl.value);
@@ -122,21 +123,20 @@ function modifyResponseHeader(details) {
         return {};
     if (!format && !(format = getFormatFor(fileType))) {
         if (onWhitelist)
-            console.warn(details.url +
-                " is on the RDF Browser Whitelist, but the page content was not identified as RDF.");
+            console.warn(details.url + " is on the RDF Browser Whitelist, but the page content was not identified as RDF.");
         return {};
     }
     if (!encoding) {
         console.warn("The HTTP response does not include encoding information. Encoding in utf-8 is assumed.");
         encoding = "utf-8";
     }
-    return rewriteResponse(cl, details, encoding, format, redirect);
+    return await rewriteResponse(cl, details, encoding, format, redirect);
 }
 
 /**
  * Rewrite the HTTP response (background script) or redirect to the html template (content script)
  */
-function rewriteResponse(cl, details, encoding, format, redirect) {
+async function rewriteResponse(cl, details, encoding, format, redirect) {
     const responseHeaders = [
         {name: "Content-Type", value: "text/html; charset=utf-8"},
         {name: "Cache-Control", value: "no-cache, no-store, must-revalidate"},
@@ -144,9 +144,10 @@ function rewriteResponse(cl, details, encoding, format, redirect) {
         {name: "Pragma", value: "no-cache"},
         {name: "Expires", value: "0"}
     ];
+    const url = redirect ? details.responseHeaders.find(h => h.name.toLowerCase() === "location").value : details.url;
     if (options.contentScript) {
         const req = requests[details.tabId];
-        req.url = redirect ? details.responseHeaders.find(h => h.name.toLowerCase() === "location").value : details.url;
+        req.url = url;
         req.encoding = encoding;
         req.format = format;
         req.crawl = options.quickOptions.crawler;
@@ -160,6 +161,15 @@ function rewriteResponse(cl, details, encoding, format, redirect) {
         };
     }
     const filter = browser.webRequest.filterResponseData(details.requestId);
+    let stream;
+    if (redirect && url !== details.url) {
+        const response = await fetch(url);
+        if (!response.ok)
+            return {};
+        const body = await response.body;
+        stream = body.getReader();
+    } else
+        stream = filter;
     let decoder;
     try {
         decoder = new TextDecoder(encoding);
@@ -168,8 +178,8 @@ function rewriteResponse(cl, details, encoding, format, redirect) {
         return {};
     }
     const encoder = new TextEncoder();
-    const baseIRI = details.url.toString();
-    processRDFPayload(filter, decoder, format, baseIRI).then(output => {
+    const baseIRI = url.toString();
+    processRDFPayload(stream, redirect, decoder, format, baseIRI).then(output => {
         filter.write(encoder.encode(output));
         filter.close();
     })
@@ -267,7 +277,7 @@ async function fetchDocument(url, store, baseTriplestore, encoding = null, forma
         }
         response = await response.body;
         if (baseTriplestore === null)
-            return await parser.obtainTriplestore(response.getReader(), new TextDecoder(encoding), format, true, url);
+            return await parser.obtainTriplestore(response.getReader(), false, new TextDecoder(encoding), format, true, url);
         else
             return await parser.obtainDescriptions(response.getReader(), new TextDecoder(encoding), format, url, store, baseTriplestore);
     } catch (ignored) {
@@ -281,13 +291,14 @@ async function fetchDocument(url, store, baseTriplestore, encoding = null, forma
 /**
  * Parse the RDF payload and render it as HTML document using the serializer
  * @param stream The response stream
+ * @param redirect Flag whether the response stream is result of fetch() or filterResponseData()
  * @param decoder The decoder for the response stream
  * @param format The serialization format of the RDF resource
  * @param baseIRI The IRI of the RDF document
  * @returns The HTML payload as string (in background script mode only)
  */
-async function processRDFPayload(stream, decoder, format, baseIRI) {
-    const triplestore = await parser.obtainTriplestore(stream, decoder, format, false, baseIRI);
+async function processRDFPayload(stream, redirect, decoder, format, baseIRI) {
+    const triplestore = await parser.obtainTriplestore(stream, redirect, decoder, format, false, baseIRI);
     let template = await getTemplate();
     template = await utils.injectScript(template, styleScriptPath);
     return createDocument(template, triplestore);

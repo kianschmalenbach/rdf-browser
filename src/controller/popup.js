@@ -1,6 +1,6 @@
 let options;
 let listStatus;
-let baseURL;
+let reqURL, baseURL;
 let tab;
 
 async function initialize() {
@@ -13,6 +13,7 @@ async function initialize() {
         baseURL = requestDetails.reqUrl;
     else
         baseURL = tab.url;
+    reqURL = baseURL;
     const url = new URL(decodeURIComponent(baseURL));
     const urlString = url.protocol + "//" + url.host + url.pathname;
     const listArray = ["blacklist", "whitelist"];
@@ -115,7 +116,7 @@ function removeListEntry(list) {
     browser.storage.sync.set({
         options: options
     }).then(() => {
-        browser.tabs.reload(tab.id);
+        browser.tabs.update(tab.id, {url: reqURL});
         window.close();
     });
 }
