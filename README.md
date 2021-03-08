@@ -4,9 +4,9 @@
 RDF Browser is a Firefox Add-on that requests RDF files and renders RDF files as Turtle documents with clickable links.
 
 
-| Current version: | 1.2.0 |
+| Current version: | 1.2.1 |
 | --- | --- |
-| Release date: | Feb 22, 2021 |
+| Release date: | Mar 8, 2021 |
 
 The Add-on is released and maintained by the [Chair of Technical Information Systems](https://www.ti.rw.fau.de) at [Friedrich-Alexander-University Erlangen-Nürnberg](https://www.fau.de).
 
@@ -48,6 +48,11 @@ $ npm run build
 - To see the raw format of any rendered RDF file, click *Ctrl + U*.
 
 ## Changelog
+### Version 1.2.1
+- Improved consideration of 303 URIs
+- Added support for different serializations in editor mode
+- Added support for HTTP CRUD methods in editor mode
+
 ### Version 1.2.0
 - New interactive editor mode
 - Linked Data Principles conformance check
@@ -111,7 +116,8 @@ $ npm run build
 - Refactoring of triplestore for performance increase
 
 ## Credits
-The Add-on uses the following libraries for parsing the displayed RDF files:
-- [@rdfjs/parser-n3](https://github.com/rdfjs-base/parser-n3) (N3)
-- [jsonld-streaming-parser](https://github.com/rubensworks/jsonld-streaming-parser.js) (JSON-LD)
-- [rdfxml-streaming-parser](https://github.com/rdfjs/rdfxml-streaming-parser.js) (RDF/XML)
+The Add-on uses the following libraries for parsing and serializing RDF files:
+- [N3.js](https://www.npmjs.com/package/n3) (Turtle, TriG, Notation3, N-Triples, N-Quads)
+- [jsonld-streaming-parser](https://www.npmjs.com/package/jsonld-streaming-parser) (JSON-LD)
+- [jsonld-streaming-serializer](https://www.npmjs.com/package/jsonld-streaming-serializer) (JSON-LD)
+- [rdfxml-streaming-parser](https://www.npmjs.com/package/rdfxml-streaming-parser) (RDF/XML)
