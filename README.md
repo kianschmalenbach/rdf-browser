@@ -121,3 +121,5 @@ The Add-on uses the following libraries for parsing and serializing RDF files:
 - [jsonld-streaming-parser](https://www.npmjs.com/package/jsonld-streaming-parser) (JSON-LD)
 - [jsonld-streaming-serializer](https://www.npmjs.com/package/jsonld-streaming-serializer) (JSON-LD)
 - [rdfxml-streaming-parser](https://www.npmjs.com/package/rdfxml-streaming-parser) (RDF/XML)
+
+This work was partially funded by the German Federal Ministry of Education and Researchthrough the MOSAIK project (grant no. 01IS18070A).
