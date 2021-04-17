@@ -1,0 +1,1 @@
+select distinct ?resource where {?resource dbo:wikiPageWikiLink [] } LIMIT 100 OFFSET 100
