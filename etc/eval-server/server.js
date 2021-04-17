@@ -2,19 +2,16 @@ const express = require('express');
 const fetch = require("node-fetch");
 const bodyParser = require('body-parser');
 const fs = require('fs');
-//const process = require('child_process');
-
-//process.execFileSync('./mkdirs.sh');
 
 const app = express();
-const jsonParser = bodyParser.json();
 const SERVER_DIR = "public";
 const PORT = 3000;
+const jsonParser = bodyParser.json({limit: '200mb'});
 const mediaTypes = ["application/ld+json", "application/n-triples", "application/rdf+xml", "text/turtle", "text/n3"];
-let performanceUriCount, conformanceUriCount = 0;
+let performanceUriCount = 0;
 
-initializePerformanceTest()
-    .then(() => initializeConformanceTest())
+initializeConformanceTest()
+    .then(() => initializePerformanceTest())
     .then(() => setupServer())
     .catch(console.error);
 
@@ -131,7 +128,10 @@ function setupServer() {
             return;
         }
         const filename = req.url.substr(2);
-        fs.writeFile(SERVER_DIR + path + filename, JSON.stringify(req.body), err => {
+        let text = JSON.stringify(req.body);
+        if (req.body.hasOwnProperty("turtleString"))
+            text = req.body.turtleString.toString();
+        fs.writeFile(SERVER_DIR + path + filename, text, err => {
             if (err)
                 console.error(err)
         });
