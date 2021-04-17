@@ -163,7 +163,10 @@ function initMessageListeners() {
                 break;
             case "evaluation":
                 const serverURI = message[1];
-                evaluatePerformance(serverURI);
+                if (message[2])
+                    evaluatePerformance(serverURI).then();
+                if (message[3])
+                    evaluateConformance(serverURI).then();
                 break;
             case "listStatus":
                 sendResponse(utils.getListStatus(options, message[1], message[2]));
@@ -246,15 +249,110 @@ async function evaluatePerformance(serverURI) {
         console.log(times);
         browser.tabs.onUpdated.removeListener(listener);
         browser.tabs.remove(tab.id);
-        const resp = await fetch(serverURI + "/p/times", {
+        await fetch(serverURI + "/p/times.json", {
             method: 'PUT',
             headers: {
                 'Content-Type': "application/json"
             },
             body: JSON.stringify(times)
         });
-        console.log(resp.status);
     }
+}
+
+/**
+ * Evaluate the conformance of RDF Browser
+ * @param serverURI The URI of the server providing the evaluation files
+ */
+async function evaluateConformance(serverURI) {
+    const htmlFile = await fetch(serverURI + "/c/html.json");
+    const ldFile = await fetch(serverURI + "/c/ld.json");
+    const html = await htmlFile.json();
+    const lod = await ldFile.json();
+    let htmlCount = 0;
+    let done = false;
+
+    function listener(tabId, changeInfo) {
+        if (!tabStatuses.hasOwnProperty(tabId.toString()) || !changeInfo.hasOwnProperty("status"))
+            return;
+        const tabStatus = tabStatuses[tabId.toString()];
+        if (tabStatus === "loading" && changeInfo.status === "complete") {
+            delete tabStatuses[tabId.toString()];
+            browser.tabs.remove(tabId);
+            if (done && JSON.stringify(tabStatuses) === "{}") {
+                browser.tabs.onUpdated.removeListener(listener);
+                const data = interceptor.getConformanceData();
+                interceptor.setConformanceEvaluation(false);
+                uploadData(data);
+            }
+            return;
+        }
+        if (tabStatus === "initialized" && changeInfo.status === "loading" && changeInfo.hasOwnProperty("url") &&
+            changeInfo.url.startsWith("http"))
+            tabStatuses[tabId.toString()] = "loading";
+    }
+
+    async function uploadData(data) {
+        const HTMLmisses = [];
+        const TurtleMisses = [];
+        for (const number in data) {
+            const entry = data[number];
+            if (number < htmlCount && entry.turtle !== null)
+                HTMLmisses.push(serverURI + "/c/" + entry.number.toString());
+            else if (number >= htmlCount && entry.turtle === null)
+                TurtleMisses.push(serverURI + "/c/" + entry.number.toString());
+            else if (number >= htmlCount && entry.turtle !== null) {
+                await fetch(serverURI + "/c/" + (number - htmlCount + 1).toString() + ".ttl", {
+                    method: 'PUT',
+                    headers: {
+                        'Content-Type': "application/json"
+                    },
+                    body: JSON.stringify({turtleString: entry.turtle})
+                });
+            }
+        }
+        const misses = {
+            html: HTMLmisses,
+            turtle: TurtleMisses
+        };
+        await fetch(serverURI + "/c/" + "misses.json", {
+            method: 'PUT',
+            headers: {
+                'Content-Type': "application/json"
+            },
+            body: JSON.stringify(misses)
+        });
+    }
+
+    const tabStatuses = {};
+    browser.tabs.onUpdated.addListener(listener);
+    interceptor.setConformanceEvaluation(true);
+
+    async function handleURI(uri, timeout) {
+        uri = uri.replace('bp.blogspot', 'blogspot'); //workaround for bp.blogspot.com
+        const tab = await browser.tabs.create({});
+        tabStatuses[tab.id] = "initialized";
+        browser.tabs.update(tab.id, {
+            url: uri
+        });
+        await new Promise((resolve => {
+            setTimeout(resolve, timeout);
+        }));
+    }
+
+    for (const entry in html) {
+        htmlCount++;
+        if (htmlCount > 5)
+            break;
+        await handleURI(html[entry], 600);
+    }
+    let i = 1;
+    for (const entry in lod) {
+        i++;
+        if (i > 6)
+            break;
+        await handleURI(lod[entry].uri, 600);
+    }
+    done = true;
 }
 
 /**

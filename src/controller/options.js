@@ -153,12 +153,13 @@ function toggleStyleSelection() {
 
 function startEvaluation() {
     document.getElementById("startEvaluation").setAttribute("disabled", "disabled");
-    fetch(document.getElementById("evaluationURI").value).then(res => {
+    const uri = document.getElementById("evaluationURI").value;
+    fetch(uri).then(res => {
         if (res.status !== 200) {
             alert("Error: " + res.statusText);
         } else {
             alert("Evaluation started successfully. Please wait until it is finished.");
-            browser.runtime.sendMessage(["evaluation", document.getElementById("evaluationURI").value]).then();
+            browser.runtime.sendMessage(["evaluation", uri, false, true]).then(); //TODO checkboxes
         }
     }).catch(error => {
         alert("Error: " + error.message);

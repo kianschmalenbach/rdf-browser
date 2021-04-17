@@ -333,7 +333,7 @@ async function handleEdit() {
     editMode = !editMode;
 
     function handleInput() {
-        const turtleString = document.getElementById("main").innerText.toString().trim();
+        const turtleString = document.getElementById("main").textContent.toString().trim();
         const status = document.getElementById("status");
         const error = parser.validateTurtle(turtleString, baseURI);
         if (!error) {
@@ -346,7 +346,7 @@ async function handleEdit() {
     }
 
     async function handleUpload() {
-        const turtleString = document.getElementById("main").innerText.toString().trim();
+        const turtleString = document.getElementById("main").textContent.toString().trim();
         const error = parser.validateTurtle(turtleString, baseURI);
         if (error)
             return handleError(error, "parsing");

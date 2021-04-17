@@ -11,7 +11,10 @@ const filter = {
 const requests = {};
 let acceptHeader = "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8";
 let options;
-let evaluation = false;
+let conformanceEvaluation = false;
+let performanceEvaluation = false;
+let conformanceOffset = 1;
+let conformanceData = {};
 
 function getRequestDetails(tabId) {
     return requests[tabId];
@@ -66,8 +69,18 @@ function getFormatFor(fileType) {
     }
 }
 
-function setEvaluation(value) {
-    evaluation = value;
+function setConformanceEvaluation(value) {
+    conformanceEvaluation = value;
+    if (!value)
+        conformanceData = {};
+}
+
+function getConformanceData() {
+    return conformanceData;
+}
+
+function setPerformanceEvaluation(value) {
+    performanceEvaluation = value;
 }
 
 /**
@@ -121,6 +134,16 @@ async function modifyResponseHeader(details) {
     fileType = (fileType !== undefined && fileType.length >= 1) ? fileType[fileType.length - 1] : false;
     let encoding = contentType ? contentType.value.split("charset=") : false;
     encoding = (encoding && encoding.length >= 2) ? encoding[1] : false;
+    if (conformanceEvaluation) {
+        if (conformanceOffset === 1)
+            conformanceOffset -= details.tabId;
+        if (!conformanceData.hasOwnProperty((details.tabId + conformanceOffset).toString()))
+            conformanceData[details.tabId + conformanceOffset] = {
+                number: details.tabId + conformanceOffset,
+                uri: details.url,
+                turtle: null
+            };
+    }
     if (!format && !getFileTypes().includes(fileType) && !onWhitelist)
         return {};
     if (!format && !(format = getFormatFor(fileType))) {
@@ -182,6 +205,10 @@ async function rewriteResponse(cl, details, encoding, format, redirect) {
     const encoder = new TextEncoder();
     const baseIRI = url.toString();
     processRDFPayload(stream, redirect, decoder, format, baseIRI).then(output => {
+        if (conformanceEvaluation) {
+            const html = new DOMParser().parseFromString(output, 'text/html');
+            conformanceData[details.tabId + conformanceOffset].turtle = html.body.textContent;
+        }
         filter.write(encoder.encode(output));
         filter.close();
     })
@@ -319,7 +346,7 @@ async function processRDFPayload(stream, redirect, decoder, format, baseIRI) {
 
     function createDocument(html, store) {
         const document = new DOMParser().parseFromString(html, "text/html");
-        if (evaluation)
+        if (performanceEvaluation)
             document.getElementById("title").innerText = triplestore.subjects.length;
         else
             document.getElementById("title").innerText = baseIRI;
@@ -357,4 +384,12 @@ function addListeners() {
     });
 }
 
-module.exports = {addListeners, fetchDocument, acceptHeader, getRequestDetails, setEvaluation}
+module.exports = {
+    addListeners,
+    fetchDocument,
+    acceptHeader,
+    getRequestDetails,
+    setPerformanceEvaluation,
+    setConformanceEvaluation,
+    getConformanceData
+}
