@@ -1,0 +1,911 @@
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+<http://dbpedia.org/resource/List_of_Wisin_&_Yandel_collaborations>	dbo:wikiPageWikiLink	dbr:Inna .
+dbr:Romania_in_the_Eurovision_Song_Contest_2012	dbo:wikiPageWikiLink	dbr:Inna .
+<http://dbpedia.org/resource/Vocea_Rom\u00E2niei_(season_2)>	dbo:wikiPageWikiLink	dbr:Inna .
+@prefix dbp:	<http://dbpedia.org/property/> .
+<http://dbpedia.org/resource/Nirvana_(Inna_album)>	dbp:lyrics	dbr:Inna ;
+	dbp:artist	dbr:Inna ;
+	dbo:wikiPageWikiLink	dbr:Inna .
+<http://dbpedia.org/resource/The_Voice_(franchise)>	dbo:wikiPageWikiLink	dbr:Inna .
+<http://dbpedia.org/resource/List_of_top_100_singles_of_2010_(France)>	dbo:wikiPageWikiLink	dbr:Inna .
+<http://dbpedia.org/resource/List_of_top_100_singles_of_2011_(France)>	dbo:wikiPageWikiLink	dbr:Inna .
+dbr:Alesta	dbo:wikiPageWikiLink	dbr:Inna .
+dbr:List_of_Romanian_musicians	dbo:wikiPageWikiLink	dbr:Inna .
+dbr:List_of_Romanian_singers	dbo:wikiPageWikiLink	dbr:Inna .
+dbr:List_of_Eurodance_artists	dbo:wikiPageWikiLink	dbr:Inna .
+dbr:Roc_Nation	dbo:wikiPageWikiLink	dbr:Inna .
+<http://dbpedia.org/resource/Roton_(label)>	dbo:wikiPageWikiLink	dbr:Inna .
+dbr:List_of_Universal_Music_Group_artists	dbo:wikiPageWikiLink	dbr:Inna .
+<http://dbpedia.org/resource/Endless_(Inna_song)>	dbp:chronology	dbr:Inna ;
+	dbp:artist	dbr:Inna ;
+	dbo:artist	dbr:Inna ;
+	dbo:wikiPageWikiLink	dbr:Inna .
+dbr:Party_in_the_Park	dbo:wikiPageWikiLink	dbr:Inna .
+dbr:List_of_multilingual_bands_and_artists	dbo:wikiPageWikiLink	dbr:Inna .
+dbr:List_of_singer-songwriters	dbo:wikiPageWikiLink	dbr:Inna .
+dbr:Sak_Noel	dbo:wikiPageWikiLink	dbr:Inna .
+dbr:Brian_Cross	dbo:wikiPageWikiLink	dbr:Inna .
+<http://dbpedia.org/resource/Juan_Mag\u00E1n>	dbo:wikiPageWikiLink	dbr:Inna .
+<http://dbpedia.org/resource/2010_MTV_Europe_Music_Awards>	dbo:wikiPageWikiLink	dbr:Inna .
+dbr:Los_Premios_40_Principales_2010	dbo:wikiPageWikiLink	dbr:Inna .
+<http://dbpedia.org/resource/Mag\u00E1n_&_Rodr\u00EDguez>	dbo:wikiPageWikiLink	dbr:Inna .
+dbr:LOS40_Music_Awards	dbo:wikiPageWikiLink	dbr:Inna .
+<http://dbpedia.org/resource/Juan_Mag\u00E1n_discography>	dbo:wikiPageWikiLink	dbr:Inna .
+<http://dbpedia.org/resource/List_of_number-one_singles_of_2009_(Spain)>	dbo:wikiPageWikiLink	dbr:Inna .
+<http://dbpedia.org/resource/Mr._Saxobeat>	dbo:wikiPageWikiLink	dbr:Inna .
+dbr:Laura_White	dbo:wikiPageWikiLink	dbr:Inna .
+<http://dbpedia.org/resource/Ultra.2010>	dbo:wikiPageWikiLink	dbr:Inna .
+<http://dbpedia.org/resource/Burns_(musician)>	dbo:wikiPageWikiLink	dbr:Inna .
+<http://dbpedia.org/resource/I\u2013V\u2013vi\u2013IV_progression>	dbo:wikiPageWikiLink	dbr:Inna .
+<http://dbpedia.org/resource/Farina_(singer)>	dbo:wikiPageWikiLink	dbr:Inna .
+<http://dbpedia.org/resource/3rei_Sud_Est>	dbo:wikiPageWikiLink	dbr:Inna .
+dbr:Manuel_Riva	dbo:wikiPageWikiLink	dbr:Inna .
+dbr:Deepcentral	dbo:wikiPageWikiLink	dbr:Inna .
+dbr:Irina_Rimes	dbo:wikiPageWikiLink	dbr:Inna .
+<http://dbpedia.org/resource/Vocea_Rom\u00E2niei_(season_4)>	dbo:wikiPageWikiLink	dbr:Inna .
+<http://dbpedia.org/resource/Vocea_Rom\u00E2niei_Junior>	dbo:showJudge	dbr:Inna ;
+	dbo:wikiPageWikiLink	dbr:Inna .
+<http://dbpedia.org/resource/Vocea_Rom\u00E2niei_Junior_(season_1)>	dbp:caption	dbr:Inna ;
+	dbp:judges	dbr:Inna ;
+	dbo:wikiPageWikiLink	dbr:Inna .
+dbr:List_of_Airplay_100_number_ones_of_the_2010s	dbo:wikiPageWikiLink	dbr:Inna .
+dbr:List_of_Media_Forest_most-broadcast_songs_of_the_2010s_in_Romania	dbo:wikiPageWikiLink	dbr:Inna .
+dbr:Goodbye	dbo:wikiPageWikiLink	dbr:Inna .
+<http://dbpedia.org/resource/Inna_(disambiguation)>	dbo:wikiPageWikiLink	dbr:Inna ;
+	dbo:wikiPageDisambiguates	dbr:Inna .
+dbr:Read_My_Lips	dbo:wikiPageWikiLink	dbr:Inna .
+dbr:On_and_On	dbo:wikiPageWikiLink	dbr:Inna .
+<http://dbpedia.org/resource/July_(disambiguation)>	dbo:wikiPageWikiLink	dbr:Inna .
+<http://dbpedia.org/resource/I_Don\u0027t_Mind>	dbo:wikiPageWikiLink	dbr:Inna .
+<http://dbpedia.org/resource/Party_Never_Ends_(disambiguation)>	dbo:wikiPageWikiLink	dbr:Inna .
+<http://dbpedia.org/resource/Pi\u00F1ata_(disambiguation)>	dbo:wikiPageWikiLink	dbr:Inna .
+dbr:Romania	dbo:wikiPageWikiLink	dbr:Inna .
+dbr:Party_Never_Ends	dbp:artist	dbr:Inna ;
+	dbo:wikiPageWikiLink	dbr:Inna .
+dbr:Romania_in_the_Eurovision_Song_Contest_2008	dbo:wikiPageWikiLink	dbr:Inna .
+<http://dbpedia.org/resource/Paul_Boyd_(director)>	dbo:wikiPageWikiLink	dbr:Inna .
+dbr:Digital_Farm_Animals	dbo:wikiPageWikiLink	dbr:Inna .
+<http://dbpedia.org/resource/Amazing_(Inna_song)>	dbp:chronology	dbr:Inna ;
+	dbp:artist	dbr:Inna ;
+	dbo:artist	dbr:Inna ;
+	dbo:wikiPageWikiLink	dbr:Inna .
+dbr:Pro_TV	dbo:wikiPageWikiLink	dbr:Inna .
+dbr:List_of_artists_who_reached_number_one_on_the_Spanish_Singles_Chart	dbo:wikiPageWikiLink	dbr:Inna .
+dbr:Thomas_Troelsen	dbo:wikiPageWikiLink	dbr:Inna ;
+	dbp:associatedActs	dbr:Inna .
+dbr:Bamboo_Club	dbo:wikiPageWikiLink	dbr:Inna .
+dbr:Global_Records	dbo:wikiPageWikiLink	dbr:Inna .
+dbr:European_Border_Breakers_Award	dbo:wikiPageWikiLink	dbr:Inna .
+dbr:List_of_Media_Forest_most-broadcast_songs_of_2009_in_Romania	dbo:wikiPageWikiLink	dbr:Inna .
+dbr:Diggy_Down	dbp:chronology	dbr:Inna ;
+	dbo:artist	dbr:Inna ;
+	dbo:wikiPageWikiLink	dbr:Inna .
+dbr:Club_Rocker	dbp:chronology	dbr:Inna ;
+	dbo:artist	dbr:Inna ;
+	dbo:wikiPageWikiLink	dbr:Inna .
+dbr:SoFly_and_Nius	dbo:wikiPageWikiLink	dbr:Inna .
+dbr:Sun_Is_Up	dbp:artist	dbr:Inna ;
+	dbo:artist	dbr:Inna ;
+	dbo:wikiPageWikiLink	dbr:Inna .
+dbr:Masked_Singer_Romania	dbp:starring	dbr:Inna ;
+	dbo:starring	dbr:Inna ;
+	dbo:wikiPageWikiLink	dbr:Inna .
+dbr:Alexandra_Stan_discography	dbo:wikiPageWikiLink	dbr:Inna .
+<http://dbpedia.org/resource/Morandi_(band)>	dbo:wikiPageWikiLink	dbr:Inna .
+dbr:The_Way_I_Feel_Tonight	dbo:wikiPageWikiLink	dbr:Inna .
+dbr:Antonia_Iacobescu	dbo:wikiPageWikiLink	dbr:Inna ;
+	dbo:associatedMusicalArtist	dbr:Inna ;
+	dbo:associatedBand	dbr:Inna ;
+	dbp:associatedActs	dbr:Inna .
+<http://dbpedia.org/resource/Reloaded_(DJ_BoBo_album)>	dbo:wikiPageWikiLink	dbr:Inna .
+dbr:Alexandra	dbo:wikiPageWikiLink	dbr:Inna ;
+	dbo:wikiPageDisambiguates	dbr:Inna .
+dbr:Breyan_Isaac	dbo:wikiPageWikiLink	dbr:Inna .
+<http://dbpedia.org/resource/Eric_Turner_(singer)>	dbo:wikiPageWikiLink	dbr:Inna ;
+	dbo:associatedMusicalArtist	dbr:Inna ;
+	dbo:associatedBand	dbr:Inna .
+dbr:NR1_Dance_Hits_2015	dbo:wikiPageWikiLink	dbr:Inna .
+<http://dbpedia.org/resource/Low_(Inna_song)>	dbo:wikiPageRedirects	dbr:Inna ;
+	dbo:wikiPageWikiLink	dbr:Inna .
+<http://dbpedia.org/resource/Take_Me_Higher_(Inna_Song)>	dbo:wikiPageRedirects	dbr:Inna ;
+	dbo:wikiPageWikiLink	dbr:Inna .
+<http://dbpedia.org/resource/Goodbye_(Inna_song)>	dbo:wikiPageRedirects	dbr:Inna ;
+	dbo:wikiPageWikiLink	dbr:Inna .
+dbr:Elena_Alexandra_Apostoleanu	dbo:wikiPageRedirects	dbr:Inna ;
+	dbo:wikiPageWikiLink	dbr:Inna .
+dbr:Elena_Apostoleanu	dbo:wikiPageRedirects	dbr:Inna ;
+	dbo:wikiPageWikiLink	dbr:Inna .
+dbr:INNA_en_Concert	dbo:wikiPageRedirects	dbr:Inna ;
+	dbo:wikiPageWikiLink	dbr:Inna .
+<http://dbpedia.org/resource/Sober_(Inna_song)>	dbo:wikiPageRedirects	dbr:Inna ;
+	dbo:wikiPageWikiLink	dbr:Inna .
+dbr:INNA	dbo:wikiPageRedirects	dbr:Inna ;
+	dbo:wikiPageWikiLink	dbr:Inna .
+<http://dbpedia.org/resource/Inna\u0027s>	dbo:wikiPageRedirects	dbr:Inna ;
+	dbo:wikiPageWikiLink	dbr:Inna .
+<http://dbpedia.org/resource/Inna_(singer)>	dbo:wikiPageRedirects	dbr:Inna ;
+	dbo:wikiPageWikiLink	dbr:Inna .
+<http://dbpedia.org/resource/Inna_(Romanian_singer)>	dbo:wikiPageRedirects	dbr:Inna ;
+	dbo:wikiPageWikiLink	dbr:Inna .
+dbr:Inna_en_Concert	dbo:wikiPageRedirects	dbr:Inna ;
+	dbo:wikiPageWikiLink	dbr:Inna .
+<http://dbpedia.org/resource/Tu_\u0219i_eu>	dbo:wikiPageWikiLink	dbr:Inna .
+dbr:Soy_Latinna	dbo:wikiPageRedirects	dbr:Inna ;
+	dbo:wikiPageWikiLink	dbr:Inna .
+dbr:Just_Dance_Now	dbo:wikiPageWikiLink	dbr:Inna .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+wikipedia-en:Inna	foaf:primaryTopic	dbr:Inna .
+dbr:Balkan_music	dbo:wikiPageWikiLink	dbr:Inna .
+<http://dbpedia.org/resource/2009_MTV_Europe_Music_Awards>	dbo:wikiPageWikiLink	dbr:Inna .
+dbr:List_of_certified_albums_in_Romania	dbo:wikiPageWikiLink	dbr:Inna .
+<http://dbpedia.org/resource/List_of_artists_who_reached_number_one_on_the_U.S._dance_airplay_chart>	dbo:wikiPageWikiLink	dbr:Inna .
+<http://dbpedia.org/resource/2000s_in_music>	dbo:wikiPageWikiLink	dbr:Inna .
+dbr:Dannic	dbo:wikiPageWikiLink	dbr:Inna .
+dbr:List_of_house_music_artists	dbo:wikiPageWikiLink	dbr:Inna .
+dbr:Blasterjaxx	dbo:wikiPageWikiLink	dbr:Inna ;
+	dbo:associatedMusicalArtist	dbr:Inna ;
+	dbo:associatedBand	dbr:Inna .
+<http://dbpedia.org/resource/Marco_&_Seba>	dbo:wikiPageWikiLink	dbr:Inna .
+dbr:Edward_Aninaru	dbo:wikiPageWikiLink	dbr:Inna .
+dbr:Daddy_Yankee_videography	dbo:wikiPageWikiLink	dbr:Inna .
+<http://dbpedia.org/resource/Carla\u0027s_Dreams>	dbo:wikiPageWikiLink	dbr:Inna .
+dbr:List_of_album_appearances_by_Daddy_Yankee	dbo:wikiPageWikiLink	dbr:Inna .
+dbr:Noonie_Bao	dbo:wikiPageWikiLink	dbr:Inna .
+dbr:DJ_BoBo_discography	dbo:wikiPageWikiLink	dbr:Inna .
+dbr:Weekend_Festival	dbo:wikiPageWikiLink	dbr:Inna .
+dbr:Mohombi	dbo:wikiPageWikiLink	dbr:Inna ;
+	dbo:associatedMusicalArtist	dbr:Inna ;
+	dbo:associatedBand	dbr:Inna ;
+	dbp:associatedActs	dbr:Inna .
+dbr:Salvatore_Ganacci	dbo:wikiPageWikiLink	dbr:Inna .
+dbr:RedOne	dbo:wikiPageWikiLink	dbr:Inna .
+<http://dbpedia.org/resource/1986>	dbo:wikiPageWikiLink	dbr:Inna .
+<http://dbpedia.org/resource/Be_My_Lover_(La_Bouche_song)>	dbo:wikiPageWikiLink	dbr:Inna .
+dbr:List_of_2011_albums	dbo:wikiPageWikiLink	dbr:Inna .
+dbr:Kimberly_Cole	dbo:wikiPageWikiLink	dbr:Inna .
+<http://dbpedia.org/resource/Sam_Martin_(singer)>	dbo:wikiPageWikiLink	dbr:Inna .
+<http://dbpedia.org/resource/Freedo_(producer)>	dbo:wikiPageWikiLink	dbr:Inna .
+<http://dbpedia.org/resource/Barbarella_(festival)>	dbo:wikiPageWikiLink	dbr:Inna .
+dbr:Yellow_Claw_discography	dbo:wikiPageWikiLink	dbr:Inna .
+dbr:Daddy_Yankee_discography	dbo:wikiPageWikiLink	dbr:Inna .
+dbr:List_of_Romanian_Top_100_number_ones	dbo:wikiPageWikiLink	dbr:Inna .
+dbr:List_of_UK_top-ten_singles_in_2010	dbo:wikiPageWikiLink	dbr:Inna .
+dbr:Eska_Music_Awards	dbo:wikiPageWikiLink	dbr:Inna .
+dbr:List_of_UK_Dance_Singles_Chart_number_ones_of_2010	dbo:wikiPageWikiLink	dbr:Inna .
+dbr:Calvin_Harris_discography	dbo:wikiPageWikiLink	dbr:Inna .
+<http://dbpedia.org/resource/List_of_number-one_hits_of_2011_(Switzerland)>	dbo:wikiPageWikiLink	dbr:Inna .
+<http://dbpedia.org/resource/Kiss_TV_(Romania)>	dbo:wikiPageWikiLink	dbr:Inna .
+<http://dbpedia.org/resource/List_of_top_10_singles_in_2011_(France)>	dbo:wikiPageWikiLink	dbr:Inna .
+dbr:J-Son	dbo:wikiPageWikiLink	dbr:Inna .
+dbr:List_of_Club_40_number-one_hits	dbo:wikiPageWikiLink	dbr:Inna .
+dbr:The_Very_Best_of_Now_Dance_2010	dbp:extra	dbr:Inna ;
+	dbo:wikiPageWikiLink	dbr:Inna .
+<http://dbpedia.org/resource/List_of_number-one_dance_airplay_hits_of_2010_(U.S.)>	dbo:wikiPageWikiLink	dbr:Inna .
+<http://dbpedia.org/resource/List_of_top_10_singles_in_2010_(France)>	dbo:wikiPageWikiLink	dbr:Inna .
+dbr:We_Like_to_Party	dbo:wikiPageWikiLink	dbr:Inna .
+<http://dbpedia.org/resource/O,_ce_veste_minunat\u0103!>	dbo:wikiPageWikiLink	dbr:Inna .
+dbr:Everybody_Fucks	dbo:wikiPageWikiLink	dbr:Inna .
+dbr:Alright	dbo:wikiPageWikiLink	dbr:Inna .
+dbr:Mangalia	dbo:wikiPageWikiLink	dbr:Inna .
+dbr:Premio_Lo_Nuestro_2019	dbo:wikiPageWikiLink	dbr:Inna .
+dbr:Ina_Wroldsen	dbo:wikiPageWikiLink	dbr:Inna .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Inna	rdf:type	yago:PsychologicalFeature100023100 .
+@prefix ns7:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Inna	rdf:type	ns7:NaturalPerson ,
+		ns7:Agent ,
+		yago:WikicatConcertTours ,
+		yago:WikicatPseudonymousMusicians ,
+		yago:WikicatInnaAlbums ,
+		yago:WikicatWomen ,
+		yago:WikicatUnreleasedSongs ,
+		yago:Woman110787470 ,
+		yago:Travel100295701 ,
+		yago:WikicatDanceMusicians ,
+		yago:Motion100279835 .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Inna	rdf:type	owl:Thing ,
+		yago:Female109619168 ,
+		yago:Medium106254669 ,
+		yago:Album106591815 .
+@prefix schema:	<http://schema.org/> .
+dbr:Inna	rdf:type	schema:Person ,
+		yago:Musician110339966 ,
+		yago:WikicatInnaSongs ,
+		yago:Artifact100021939 ,
+		yago:WikicatEurodanceMusicians ,
+		yago:Creator109614315 ,
+		yago:WikicatSpanish-languageAlbums ,
+		yago:WikicatRomanianPeople ,
+		foaf:Person ,
+		yago:Song107048000 ,
+		yago:WikicatPeopleFromMangalia ,
+		yago:AuditoryCommunication107109019 ,
+		yago:LivingThing100004258 ,
+		yago:Music107020895 ,
+		yago:MusicalComposition107037465 ,
+		yago:WikicatPopSingers ,
+		dbo:Agent ,
+		yago:Wikicat2012ConcertTours ,
+		yago:WikicatEnglish-languageSingers ,
+		yago:WikicatElectronicMusicians ,
+		yago:CausalAgent100007347 ,
+		yago:Adult109605289 ,
+		yago:YagoPermanentlyLocatedEntity ,
+		yago:YagoLegalActor ,
+		yago:WikicatPopBallads ,
+		yago:YagoLegalActorGeo ,
+		yago:Journey100306426 ,
+		yago:Wikicat2008Songs ,
+		yago:WikicatLivingPeople ,
+		yago:WikicatEnglish-languageRomanianSongs ,
+		yago:Person100007846 ,
+		yago:Organism100004475 ,
+		yago:PhysicalEntity100001930 ,
+		dbo:Person ,
+		yago:Object100002684 ,
+		yago:Whole100003553 ,
+		yago:WikicatRomanianSingers ,
+		yago:WikicatRomanianMusicians ,
+		yago:Wikicat2011ConcertTours ,
+		yago:Wikicat2014Albums ,
+		yago:WikicatUltraRecordsArtists ,
+		yago:Communication100033020 ,
+		yago:WikicatEnglish-languageSingersOfRomania ,
+		yago:Musician110340312 ,
+		yago:WikicatRomanianDanceMusicians ,
+		yago:WikicatRomanianFemaleSingers ,
+		yago:Change100191142 ,
+		yago:Action100037396 ,
+		yago:Singer110599806 ,
+		yago:Performer110415638 ,
+		yago:Event100029378 ,
+		yago:Abstraction100002137 .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Inna	rdf:type	wikidata:Q5 ,
+		yago:Ballad107049713 ,
+		yago:WikicatUpcomingAlbums ,
+		yago:Act100030358 ,
+		yago:Entertainer109616922 ,
+		dbo:Band ,
+		wikidata:Q24229398 ,
+		yago:Artist109812338 ,
+		yago:Instrumentality103575240 ,
+		yago:WikicatFemaleSingers ,
+		yago:Tour100310666 ,
+		wikidata:Q215627 ,
+		yago:WikicatInnaConcertTours .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Inna	rdfs:label	"Inna"@ca ,
+		"Inna"@pt ,
+		"\u0418\u043D\u043D\u0430 (\u043F\u0435\u0432\u0438\u0446\u0430)"@ru ,
+		"Inna"@sv ,
+		"Inna"@es ,
+		"\u8335\u5A1C"@zh ,
+		"\uC774\uB098 (\uAC00\uC218)"@ko ,
+		"Inna"@uk ,
+		"\u30A4\u30F3\u30CA"@ja ,
+		"Inna"@it ,
+		"\u0625\u064A\u0646\u0627"@ar ,
+		"Inna"@eu ,
+		"Inna (zp\u011Bva\u010Dka)"@cs ,
+		"Inna (piosenkarka)"@pl ,
+		"Inna"@en ,
+		"Inna"@nl ,
+		"Inna"@fr ;
+	rdfs:comment	"Elena Alexandra Apostoleanu (Mangalia, 16 oktober 1986), beter bekend onder haar artiestennaam Inna, is een Roemeense zangeres. Inna zingt vooral electropopnummers."@nl ,
+		"Inna, w\u0142a\u015Bc. Elena Alexandra Apostoleanu (ur. 16 pa\u017Adziernika 1986 w Mangalii) \u2013 rumu\u0144ska piosenkarka muzyki dance i eurodance."@pl ,
+		"Inna\uFF0C\u539F\u540DElena Alexandra Apostoleanu\uFF0C\u7F57\u9A6C\u5C3C\u4E9A\u6B4C\u624B\u3001\u821E\u8005\uFF0C1986\u5E7410\u670816\u65E5\u751F\u4E8E\u7F57\u9A6C\u5C3C\u4E9A\u66FC\u52A0\u5229\u4E9A \u30022008\u5E74\u7684\u821E\u66F2\u300AHot\u300B\u56E0\u5176\u5F3A\u70C8\u9707\u64BC\u7684\u8282\u594F\u6210\u4E3A\u7F57\u9A6C\u5C3C\u4E9A\u3001\u6469\u5C14\u591A\u74E6\u3001\u4FDD\u52A0\u5229\u4E9A\u3001\u9ECE\u5DF4\u5AE9\u7B49\u56FD\u7684\u51A0\u519B\u5355\u66F2\uFF0C2009\u5E74\u53C8\u6392\u4E0ABillboard\u6392\u884C\u699C\u51A0\u519B\u3002\u4E0E\u9C8D\u52C3\u6CF0\u52D2\u5408\u4F5C\u7684\u300ADeja Vu\u300B\u4EA6\u6210\u4E3A\u8BB8\u591A\u56FD\u5BB6\u7684\u51A0\u519B\u6B4C\u66F2\u30022011\u5E74\u63A8\u51FA\u65B0\u5355\u66F2\u300ASun is Up\u300B\u3002\u66FE\u83B7\u5F97MTV\u6B27\u6D32\u97F3\u4E50\u5927\u5956\u4E24\u9879\u3002"@zh ,
+		"Inna, nome d'arte di Elena Alexandra Apostoleanu (Mangalia, 16 ottobre 1986), \u00E8 una cantante rumena di musica dance. Il suo singolo di debutto, Hot, pubblicato a novembre 2008, \u00E8 entrato nella Top 10 in otto Paesi europei, garantendo alla cantante il successo del suo album, anch'esso intitolato Hot, uscito l'agosto successivo. Dall'album sono stati estratti altri singoli di successo, come D\u00E9j\u00E0 vu, Love, Amazing e 10 Minutes. Hot \u00E8 l'ottavo album pi\u00F9 venduto in Romania nel 2010."@it ,
+		"\u30A4\u30F3\u30CA\uFF08\u82B8\u540D:Inna\u3001\u672C\u540D:\u30EB\u30FC\u30DE\u30CB\u30A2\u8A9E: Elena Alexandra Apostolean\u30011986\u5E7410\u670816\u65E5 - \uFF09\u306F\u3001\u30EB\u30FC\u30DE\u30CB\u30A2\u30FB\u30B3\u30F3\u30B9\u30BF\u30F3\u30C4\u30A1\u770C\u751F\u307E\u308C\u306E\u6B4C\u624B\u3067\u3042\u308B\u3002"@ja ,
+		"Inna, de son vrai nom Elena Alexandra Apostoleanu, est n\u00E9e le 16 octobre 1986 \u00E0 Mangalia, est une chanteuse de dance-pop et danseuse roumaine. Elle a commenc\u00E9 \u00E0 travailler avec les producteurs Play and Win en 2008. Gr\u00E2ce \u00E0 son premier single Hot, Inna a connu un grand succ\u00E8s \u00E0 travers le monde, particuli\u00E8rement dans son pays natal, la Roumanie, ainsi qu'en Gr\u00E8ce, en Espagne, en Bulgarie, en Hongrie, au Portugal, aux \u00C9tats-Unis, au Canada, en France et en Belgique."@fr ,
+		"Elena Alexandra Apostoleanu (16 d'octubre de 1986), m\u00E9s coneguda simplement com a Inna, \u00E9s una cantant de m\u00FAsica dance de Mangalia, Romania. Va aconseguir un gran nombre d'\u00E8xits entre 2008 i 2014, amb can\u00E7ons com Sun Is Up, Hot, More Than Friends, D\u00E9j\u00E0 Vu, Cola Song o In Your Eyes."@ca ,
+		"Elena Alexandra Apostoleanu, um\u011Bleck\u00FDm jm\u00E9nem Inna (* 16. \u0159\u00EDjna 1986 v Mangalii, Rumunsko), je rumunsk\u00E1 zp\u011Bva\u010Dka, kterou proslavily p\u0159edev\u0161\u00EDm dv\u011B jej\u00ED p\u00EDsn\u011B: jej\u00ED \u00FApln\u011B prvn\u00ED singl \u201EHot\u201C a p\u00EDse\u0148 \u201ESun Is Up\u201C z roku 2010. Stylem hudby b\u00FDv\u00E1 \u010Dasto p\u0159irovn\u00E1v\u00E1na k Rihann\u011B, Shaki\u0159e, Britney Spears nebo Lady Gaga."@cs ,
+		"\u0625\u0650\u064A\u0644\u0650\u064A\u0646\u064E\u0627 \u0623\u064E\u0644\u0650\u0643\u0633\u064E\u0646\u062F\u0631\u064E\u0627 \u0623\u064E\u0628\u064F\u0648\u0633\u062A\u064F\u0648\u0644\u064A\u064E\u0627\u0646\u064F\u0648 (16 \u0623\u0643\u062A\u0648\u0628\u0631 1986) \u0627\u0644\u0645\u0639\u0631\u0648\u0641\u0629 \u0641\u064A \u0627\u0644\u0648\u0633\u0637 \u0627\u0644\u0641\u0646\u064A \u0628\u0627\u0633\u0645 \u0625\u0650\u064A\u0646\u064E\u0627 (\u0628\u0627\u0644\u0625\u0646\u062C\u0644\u064A\u0632\u064A\u0629: Inna) \u0648\u062A\u0643\u062A\u0628 \u0631\u0633\u0645\u064A\u0627\u064B (INNA)\u060C \u0647\u064A \u0645\u063A\u0646\u064A\u0629\u060C \u0631\u0627\u0642\u0635\u0629 \u0648\u0641\u0627\u0639\u0644\u0629 \u062E\u064A\u0631\u064A\u0629 \u0631\u0648\u0645\u0627\u0646\u064A\u0629. \u0627\u0631\u062A\u0642\u062A \u0633\u0646\u0629 2009 \u0625\u0644\u0649 \u0633\u064A\u062F\u0629 \u0631\u0627\u0626\u062F\u0629 \u0627\u0644\u0634\u0647\u0631\u0629 \u0639\u0646\u062F\u0645\u0627 \u062D\u0642\u0642 \u0623\u0644\u0628\u0648\u0645\u0647\u0627 \u0627\u0644\u0623\u0648\u0644 \"\u0633\u0627\u062E\u0646\" \u0646\u062C\u0627\u062D\u0627 \u0648\u0627\u0633\u0639\u0627 \u0639\u0644\u0649 \u0645\u0633\u062A\u0648\u0649 \u0627\u0644\u0639\u0627\u0644\u0645 \u062D\u064A\u062B \u062D\u0642\u0642 \u0646\u0633\u0628\u0629 \u0645\u0628\u064A\u0639\u0627\u062A \u0639\u0627\u0644\u064A\u0629 \u062D\u0648\u0644 \u0627\u0644\u0639\u0627\u0644\u0645 \u0625\u0636\u0627\u0641\u0629 \u0625\u0644\u0649 \u0627\u062E\u062A\u064A\u0627\u0631\u0647 \u0643\u0623\u0641\u0636\u0644 \u0639\u0634\u0631\u0629 \u0623\u0644\u0628\u0648\u0645\u0627\u062A \u0641\u064A \u0643\u0644 \u0645\u0646 \u0627\u0644\u062A\u0634\u064A\u0643\u060C \u0641\u0631\u0646\u0633\u0627 \u0648\u0627\u0644\u0645\u0645\u0644\u0643\u0629 \u0627\u0644\u0645\u062A\u062D\u062F\u0629. \u062A\u0636\u0645\u0646 \u0647\u0630\u0627 \u0627\u0644\u0623\u0644\u0628\u0648\u0645 \u0623\u063A\u0646\u064A\u0629 \u0628\u0646\u0641\u0633 \u0639\u0646\u0648\u0627\u0646 \u0627\u0644\u0623\u0644\u0628\u0648\u0645 \u0627\u0644\u062A\u064A \u062A\u0635\u062F\u0631\u062A \u0625\u062D\u0635\u0627\u0626\u064A\u0627\u062A \u0627\u0644\u0627\u0633\u062A\u0645\u0627\u0639 \u0641\u064A \u062C\u0645\u064A\u0639 \u0623\u0646\u062D\u0627\u0621 \u0627\u0644\u0639\u0627\u0644\u0645\u060C \u0648\u062A\u0631\u0628\u0639\u062A \u0641\u064A 2009 \u0639\u0644\u0649 \u0635\u062F\u0627\u0631\u0629 \u0645\u0642\u064A\u0645 \u0627\u0644\u0645\u0648\u0633\u064A\u0642\u0649 \u0627\u0644\u0623\u0645\u064A\u0631\u064A\u0643\u064A \"\u0647\u0648\u062A \u062F\u0627\u0646\u0633 \u0622\u064A\u0631\u0628\u0644\u0627\u064A\".\u0639\u0644\u0627\u0648\u0629 \u0639\u0644\u0649 \u0630\u0644\u0643\u060C \u062D\u0642\u0642\u062A \u0627\u0644\u0634\u0647\u0627\u062F\u062A\u064A\u0646 \u0627\u0644\u0630\u0647\u0628\u064A\u0629 \u0648\u0627\u0644\u0631\u0645\u0627\u062F\u064A\u0629 \u0641\u064A \u0643\u0644 \u0645\u0646 \u0625\u0633\u0628\u0627\u0646\u064A\u0627\u060C \u0627\u0644\u0646\u0631\u0648\u064A\u062C \u0648\u0625\u064A\u0637\u0627\u0644\u064A\u0627. \u0648\u0641\u0627\u0632\u062A \u0628\u062C\u0627\u0626\u0632\u0629 \u0625\u0645 \u062A\u064A \u0641\u064A \u0623\u0648\u0631\u0648\u0628\u0627 \u0644\u0623\u0641\u0636\u0644 \u0623\u063A\u0646\u064A\u0629 \u0641\u064A \u0631\u0648\u0645\u0627\u0646\u064A\u0627 \u0644\u0633\u0646\u0629 2009. \u0627\u0644\u0623\u063A\u0646\u064A\u062A\u0627\u0646 \u0627\u0644\u0644\u0627\u062D\u0642\u062A\u0627\u0646 \u0644\u0625\u064A\u0646\u0627 \"\u0645\u062F\u0647\u0634\" \u0648\"\u0631\u0623\u064A\u062A\u0647 \u0645\u0633\u0628\u0642\u0627\" \u062D\u0642\u0642\u062A\u0627 \u0628\u062F\u0648\u0631\u0647\u0645\u0627 \u0646\u062C\u0627\u062D\u0627 \u0648\u0627\u0633\u0639\u0627 \u0648\u062A\u0635\u062F\u0631\u062A\u0627 \u0627\u0644\u062A\u0642\u064A\u064A\u0645\u0627\u062A \u0627\u0644\u0645\u0648\u0633\u064A\u0642\u064A\u0629 \u0641\u064A \u0639\u062F\u0629"@ar ,
+		"\uC774\uB098(Inna, 1986\uB144 10\uC6D4 16\uC77C ~ )\uB294 \uB8E8\uB9C8\uB2C8\uC544\uC758 \uAC00\uC218, \uB304\uC11C, \uC790\uC120\uAC00\uC774\uB2E4."@ko ,
+		"Elena Alexandra Apostoleanu (born 16 October 1986), known professionally as Inna ( E-n-\u0259; stylized in all caps), is a Romanian singer and songwriter. Born in Mangalia and raised in Neptun, she studied political science at Ovidius University before meeting the Romanian trio Play & Win and pursuing a music career. She adopted the stage name \"Alessandra\" in 2008 and adopted a pop-rock style; later that year, she changed her stage name to \"Inna\" and began releasing house music. \"Hot\" (2008), her debut single, was a commercial success worldwide and topped the Romanian and Billboard's Hot Dance Airplay chart, among others. Inna's debut studio album of the same name followed in August 2009 and was certified Gold and Platinum. It featured several other successful singles in Europe, including \"Amaz"@en ,
+		"Inna (benetako izena Elena Alexandra Apostoleanu) (, 1986ko urriaren 16a) abeslari eta musikagile errumaniarra da."@eu ,
+		"Elena Alexandra Apostoleanu, mest k\u00E4nd som Inna, f\u00F6dd 16 oktober 1986, \u00E4r en rum\u00E4nsk musiker inom genrerna dance och house. Hon b\u00F6rjade samarbeta med produktionsteamet , som producerade hennes debutalbum och hit, Hot. Hon har \u00E4ven blivit popul\u00E4r i Sverige med albumet \"Hot\" som slog igenom \u00E5r 2009. L\u00E5ten Hot blev etta i radiotopplistan i 10 l\u00E4nder. Fr\u00E5n hennes debutalbum, Hot, har hon \u00E4ven lanserat fyra singlar, 10 minutes, Love, D\u00E9j\u00E0 Vu, Amazing, l\u00E5tarna fick ledande positioner i olika topplistor i Europa."@sv ,
+		"Inna (\u0441\u043F\u0440\u0430\u0432\u0436\u043D\u0454 \u0456\u043C'\u044F \u0415\u043B\u0435\u043D\u0430 \u0410\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u0440\u0430 \u0410\u043F\u043E\u0441\u0442\u043E\u043B\u044F\u043D\u0443; \u0440\u0443\u043C. Elena Alexandra Apostoleanu, \u043D\u0430\u0440. 16 \u0436\u043E\u0432\u0442\u043D\u044F 1986 \u0440\u043E\u043A\u0443, \u041C\u0430\u043D\u0433\u0430\u043B\u0456\u044F, \u0420\u0443\u043C\u0443\u043D\u0456\u044F) \u2014 \u0441\u043F\u0456\u0432\u0430\u0447\u043A\u0430, \u0432\u0438\u043A\u043E\u043D\u0430\u0432\u0438\u0446\u044F \u0442\u0430\u043D\u0446\u044E\u0432\u0430\u043B\u044C\u043D\u043E\u0457 \u043C\u0443\u0437\u0438\u043A\u0438 \u0432 \u0420\u0443\u043C\u0443\u043D\u0456\u0457. Inna \u0440\u043E\u0437\u043F\u043E\u0447\u0430\u043B\u0430 \u0432\u0438\u0441\u0442\u0443\u043F\u0438 \u0437 Play & Win \u0432 2008 \u0440\u043E\u0446\u0456, \u0432 \u0446\u044C\u043E\u043C\u0443 \u0436 \u0440\u043E\u0446\u0456 \u0431\u0443\u0432 \u0437\u0430\u043F\u0443\u0449\u0435\u043D\u0438\u0439 \u0456 \u043F\u0435\u0440\u0448\u0438\u0439 \u0441\u0438\u043D\u0433\u043B \u00ABHot\u00BB. \u0414\u0456\u0432\u0447\u0438\u043D\u0430 \u0432\u0441\u0442\u0438\u0433\u043B\u0430 \u0437\u0430\u0432\u043E\u044E\u0432\u0430\u0442\u0438 \u0441\u0438\u043C\u043F\u0430\u0442\u0456\u0457 \u0432 \u043A\u0440\u0430\u0457\u043D\u0430\u0445 \u0441\u0445\u0456\u0434\u043D\u043E\u0457 \u0404\u0432\u0440\u043E\u043F\u0438. \u041D\u0430\u0439\u0432\u0456\u0434\u043E\u043C\u0456\u0448\u0438\u043C \u0445\u0456\u0442\u043E\u043C \u0441\u043F\u0456\u0432\u0430\u0447\u043A\u0438 \u0441\u0442\u0430\u043B\u0430 \u043F\u0456\u0441\u043D\u044F \u00ABHot\u00BB. 10 \u0441\u0435\u0440\u043F\u043D\u044F 2009 \u0440\u043E\u043A\u0443 \u0441\u043F\u0456\u0432\u0430\u0447\u043A\u0430 \u0432\u0438\u043F\u0443\u0441\u0442\u0438\u043B\u0430 \u0434\u0435\u0431\u044E\u0442\u043D\u0438\u0439 \u0430\u043B\u044C\u0431\u043E\u043C \u0432 \u0420\u0443\u043C\u0443\u043D\u0456\u0457, \u0430 \u0432\u0436\u0435 \u043D\u0430 \u043F\u043E\u0447\u0430\u0442\u043A\u0443 \u0432\u0435\u0440\u0435\u0441\u043D\u044F \u0430\u043B\u044C\u0431\u043E\u043C \u0432\u0438\u0445\u043E\u0434\u0438\u0442\u044C \u043D\u0430 \u0442\u0435\u0440\u0438\u0442\u043E\u0440\u0456\u0457 \u0420\u043E\u0441\u0456\u0457 \u2014 \u0432\u0438\u043F\u0443\u0441\u0442\u0438\u043B\u0430 \u043A\u043E\u043C\u043F\u0430\u043D\u0456\u044F RDS Records."@uk ,
+		"Elena Alexandra \"Inna\" Apostoleanu (Mangalia, 16 de outubro de 1986), \u00E9 uma cantora, compositora, filantropa e modelo da Rom\u00EAnia. Ela \u00E9 famosa por ser uma das maiores estrelas da Eurodance nos \u00FAltimos anos. Elena teve a grande maioria de suas m\u00FAsicas feitas pela banda Play & Win, trio de produtores romenos, originalmente composto por Marcel Botezan, Radu Bolfea e Sebastian Barac. Eles foram as mentes criadoras por tr\u00E1s dos maiores hits da carreira de INNA. A partir de 2015, somente Marco & Seba (Marcel Botezan e Sebastian Barac), sem Radu Bolfea, continuaram produzindo as m\u00FAsicas da romena."@pt ,
+		"INNA (\u043D\u0430\u0441\u0442\u043E\u044F\u0449\u0435\u0435 \u0438\u043C\u044F \u2014 \u0415\u043B\u0435\u043D\u0430 \u0410\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u0440\u0430 \u0410\u043F\u043E\u0441\u0442\u043E\u043B\u044F\u043D\u0443; (\u0440\u0443\u043C. Elena Alexandra Apostoleanu); \u0440\u043E\u0434. 16 \u043E\u043A\u0442\u044F\u0431\u0440\u044F 1986, \u041C\u0430\u043D\u0433\u0430\u043B\u0438\u044F, \u0420\u0443\u043C\u044B\u043D\u0438\u044F) \u2014 \u0440\u0443\u043C\u044B\u043D\u0441\u043A\u0430\u044F \u043F\u0435\u0432\u0438\u0446\u0430, \u0438\u0441\u043F\u043E\u043B\u043D\u0438\u0442\u0435\u043B\u044C\u043D\u0438\u0446\u0430 \u0442\u0430\u043D\u0446\u0435\u0432\u0430\u043B\u044C\u043D\u043E\u0439 \u043C\u0443\u0437\u044B\u043A\u0438. \u0418\u043D\u043D\u0430 \u043D\u0430\u0447\u0430\u043B\u0430 \u0440\u0430\u0431\u043E\u0442\u0443 \u0441 Play & Win \u0432 2008 \u0433\u043E\u0434\u0443. \u0418\u0437\u0432\u0435\u0441\u0442\u043D\u043E\u0441\u0442\u044C \u043F\u043E\u043B\u0443\u0447\u0438\u043B\u0430 \u0432 2009 \u0433\u043E\u0434\u0443, \u043F\u043E\u0441\u043B\u0435 \u0442\u043E\u0433\u043E \u043A\u0430\u043A \u0435\u0451 \u0434\u0435\u0431\u044E\u0442\u043D\u044B\u0439 \u0430\u043B\u044C\u0431\u043E\u043C Hot \u0434\u043E\u0431\u0438\u043B\u0441\u044F \u043C\u0435\u0436\u0434\u0443\u043D\u0430\u0440\u043E\u0434\u043D\u043E\u0433\u043E \u0443\u0441\u043F\u0435\u0445\u0430, \u043F\u043E\u043F\u0430\u0432 \u0432\u043E \u043C\u043D\u043E\u0433\u0438\u0435 \u043C\u0443\u0437\u044B\u043A\u0430\u043B\u044C\u043D\u044B\u0435 \u0447\u0430\u0440\u0442\u044B \u043F\u043E \u0432\u0441\u0435\u043C\u0443 \u043C\u0438\u0440\u0443 \u0438 \u0432 \u0442\u043E\u043F-10 \u0447\u0430\u0440\u0442\u043E\u0432 \u0427\u0435\u0445\u0438\u0438, \u0424\u0440\u0430\u043D\u0446\u0438\u0438 \u0438 \u0412\u0435\u043B\u0438\u043A\u043E\u0431\u0440\u0438\u0442\u0430\u043D\u0438\u0438. \u0410\u043B\u044C\u0431\u043E\u043C \u043F\u043E\u043B\u0443\u0447\u0438\u043B \u043F\u043B\u0430\u0442\u0438\u043D\u043E\u0432\u044B\u0439 \u0441\u0442\u0430\u0442\u0443\u0441 \u0432\u043E \u0424\u0440\u0430\u043D\u0446\u0438\u0438 \u0438 \u041F\u043E\u0440\u0442\u0443\u0433\u0430\u043B\u0438\u0438. \u041E\u0434\u043D\u043E\u0438\u043C\u0451\u043D\u043D\u044B\u0439 \u043B\u0438\u0434-\u0441\u0438\u043D\u0433\u043B \u0432 2009 \u0433\u043E\u0434\u0443 \u0432\u043E\u0437\u0433\u043B\u0430\u0432\u0438\u043B \u0430\u043C\u0435\u0440\u0438\u043A\u0430\u043D\u0441\u043A\u0438\u0439 \u0447\u0430\u0440\u0442 Hot Dance Airplay \u0438 \u043E\u0431\u0449\u0435\u0433\u043E\u0434\u043E\u0432\u043E\u0439 \u043F\u043E\u0440\u0442\u0443\u0433\u0430\u043B\u044C\u0441\u043A\u0438\u0439 \u0447\u0430\u0440\u0442. \u041E\u043D \u0442\u0430\u043A\u0436\u0435 \u0441\u0442\u0430\u043B \u00AB\u0437\u043E\u043B\u043E\u0442\u044B\u043C\u00BB \u0438 \u00AB\u043F\u043B\u0430\u0442\u0438\u043D\u043E\u0432\u044B\u043C\u00BB \u0432 \u0418\u0441\u043F\u0430\u043D\u0438\u0438, \u041D\u043E\u0440\u0432\u0435\u0433\u0438\u0438 \u0438 \u0418\u0442\u0430\u043B\u0438\u0438."@ru ,
+		"Elena Alexandra Apostoleanu\u200B (Mangalia, 16 de octubre de 1986), m\u00E1s conocida por su nombre art\u00EDstico Inna, es una cantante y compositora rumana.\u200B Nacida en Mangalia y criada en Neptun, estudi\u00F3 Ciencias Pol\u00EDticas en la Universidad Ovidius antes de conocer al tr\u00EDo rumano Play & Win y seguir una carrera musical. Us\u00F3 el seud\u00F3nimo de Alessandra en 2008 con un estilo de pop rock. Ese mismo a\u00F1o, cambi\u00F3 su nombre art\u00EDstico a Inna y comenz\u00F3 a lanzar m\u00FAsica house. \u00ABHot\u00BB (2008), su primer sencillo, fue un \u00E9xito comercial en todo el mundo, y alcanz\u00F3 la primera posici\u00F3n en el Top 100 de Rumania y en la lista Hot Dance Airplay de Billboard. Su primer \u00E1lbum de estudio del mismo nombre se lanz\u00F3 en agosto de 2009 y recibi\u00F3 la certificaci\u00F3n de oro y platino en Rumania y Francia, respectivamente. Present\u00F3 va"@es ;
+	rdfs:seeAlso	dbr:List_of_awards ,
+		dbr:Nominations_received_by_Inna ;
+	foaf:name	"Inna"@en ;
+	foaf:homepage	<https://innaofficial.com/> ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Elena_Alexandra_Apostoleanu.JPG> ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Inna .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Inna	dct:subject	dbc:Living_people ,
+		<http://dbpedia.org/resource/Category:1986_births> ,
+		dbc:Ultra_Records_artists ,
+		<http://dbpedia.org/resource/Category:Children\u0027s_rights_activists> ,
+		dbc:Romanian_dance_musicians ,
+		dbc:MTV_EMA_winners ,
+		dbc:Global_Records_artists ,
+		dbc:LGBT_rights_activists_from_Romania ,
+		dbc:People_from_Mangalia ,
+		dbc:Balkan_Music_Awards_winners ,
+		dbc:English-language_singers_from_Romania ,
+		dbc:Romanian_female_singers ,
+		dbc:Inna ,
+		dbc:Eurodance_musicians ,
+		dbc:Roc_Nation_artists ;
+	owl:sameAs	<http://hy.dbpedia.org/resource/\u053B\u0576\u0576\u0561> ,
+		<http://fa.dbpedia.org/resource/\u0627\u06CC\u0646\u0627> ,
+		dbr:Inna .
+@prefix dbpedia-sk:	<http://sk.dbpedia.org/resource/> .
+dbr:Inna	owl:sameAs	dbpedia-sk:Inna ,
+		<http://azb.dbpedia.org/resource/\u0627\u06CC\u0646\u0627> ,
+		<http://sr.dbpedia.org/resource/\u0418\u043D\u0430> .
+@prefix dbpedia-hr:	<http://hr.dbpedia.org/resource/> .
+dbr:Inna	owl:sameAs	dbpedia-hr:Inna .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Inna	owl:sameAs	dbpedia-it:Inna ,
+		<http://fi.dbpedia.org/resource/Inna_(laulaja)> .
+@prefix dbpedia-sq:	<http://sq.dbpedia.org/resource/> .
+dbr:Inna	owl:sameAs	dbpedia-sq:Inna .
+@prefix dbpedia-da:	<http://da.dbpedia.org/resource/> .
+dbr:Inna	owl:sameAs	dbpedia-da:Inna .
+@prefix dbpedia-vi:	<http://vi.dbpedia.org/resource/> .
+dbr:Inna	owl:sameAs	dbpedia-vi:Inna ,
+		<http://rdf.freebase.com/ns/m.012mc7gs> .
+@prefix dbpedia-io:	<http://io.dbpedia.org/resource/> .
+dbr:Inna	owl:sameAs	dbpedia-io:Inna .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Inna	owl:sameAs	dbpedia-fr:Inna ,
+		<http://bg.dbpedia.org/resource/\u0418\u043D\u0430> .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:Inna	owl:sameAs	dbpedia-es:Inna .
+@prefix dbpedia-oc:	<http://oc.dbpedia.org/resource/> .
+dbr:Inna	owl:sameAs	dbpedia-oc:Inna ,
+		<http://ru.dbpedia.org/resource/\u0418\u043D\u043D\u0430_(\u043F\u0435\u0432\u0438\u0446\u0430)> .
+@prefix ns24:	<http://uz.dbpedia.org/resource/> .
+dbr:Inna	owl:sameAs	ns24:Inna ,
+		<http://ja.dbpedia.org/resource/\u30A4\u30F3\u30CA> ,
+		wikidata:Q12349 .
+@prefix dbpedia-ca:	<http://ca.dbpedia.org/resource/> .
+dbr:Inna	owl:sameAs	dbpedia-ca:Inna .
+@prefix dbpedia-gl:	<http://gl.dbpedia.org/resource/> .
+dbr:Inna	owl:sameAs	dbpedia-gl:Inna ,
+		<http://az.dbpedia.org/resource/\u0130nna_(m\u00FC\u011F\u0259nni)> .
+@prefix dbpedia-sv:	<http://sv.dbpedia.org/resource/> .
+dbr:Inna	owl:sameAs	dbpedia-sv:Inna .
+@prefix ns28:	<https://global.dbpedia.org/id/> .
+dbr:Inna	owl:sameAs	ns28:GSUT ,
+		<http://d-nb.info/gnd/135431034> ,
+		<http://zh.dbpedia.org/resource/\u8335\u5A1C> ,
+		<http://ar.dbpedia.org/resource/\u0625\u064A\u0646\u0627> ,
+		<http://no.dbpedia.org/resource/Inna_(artist)> ,
+		<http://pl.dbpedia.org/resource/Inna_(piosenkarka)> .
+@prefix dbpedia-uk:	<http://uk.dbpedia.org/resource/> .
+dbr:Inna	owl:sameAs	dbpedia-uk:Inna .
+@prefix dbpedia-hu:	<http://hu.dbpedia.org/resource/> .
+dbr:Inna	owl:sameAs	dbpedia-hu:Inna .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Inna	owl:sameAs	dbpedia-pt:Inna ,
+		<http://rdf.freebase.com/ns/m.012vtnjn> .
+@prefix dbpedia-ka:	<http://ka.dbpedia.org/resource/> .
+dbr:Inna	owl:sameAs	dbpedia-ka:Inna ,
+		<http://hi.dbpedia.org/resource/\u0907\u0928\u094D\u0928\u093E> ,
+		<http://mk.dbpedia.org/resource/\u0418\u043D\u0430> ,
+		<http://he.dbpedia.org/resource/\u05D0\u05D9\u05E0\u05D4> .
+@prefix ns33:	<http://d-nb.info/gnd/135431034/about/> .
+dbr:Inna	owl:sameAs	ns33:rdf .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Inna	owl:sameAs	yago-res:Inna ,
+		<http://rdf.freebase.com/ns/m.0hzp_qx> .
+@prefix ns35:	<http://sw.cyc.com/concept/> .
+dbr:Inna	owl:sameAs	ns35:Mx4rQtY5qSm0TQ2lOTr5ZvnNJg ,
+		<http://ko.dbpedia.org/resource/\uC774\uB098_(\uAC00\uC218)> ,
+		<http://musicbrainz.org/artist/99efca32-eea1-45fb-92cb-8798976a9769> ,
+		<http://rdf.freebase.com/ns/m.06zn0tq> ,
+		<http://viaf.org/viaf/121309287> .
+@prefix dbpedia-et:	<http://et.dbpedia.org/resource/> .
+dbr:Inna	owl:sameAs	dbpedia-et:Inna .
+@prefix dbpedia-eu:	<http://eu.dbpedia.org/resource/> .
+dbr:Inna	owl:sameAs	dbpedia-eu:Inna ,
+		<http://arz.dbpedia.org/resource/\u0625\u064A\u0646\u0627> .
+@prefix dbpedia-tr:	<http://tr.dbpedia.org/resource/> .
+dbr:Inna	owl:sameAs	dbpedia-tr:Inna .
+@prefix dbpedia-ro:	<http://ro.dbpedia.org/resource/> .
+dbr:Inna	owl:sameAs	dbpedia-ro:Inna ,
+		<http://cs.dbpedia.org/resource/Inna_(zp\u011Bva\u010Dka)> .
+@prefix dbpedia-simple:	<http://simple.dbpedia.org/resource/> .
+dbr:Inna	owl:sameAs	dbpedia-simple:Inna ,
+		<http://ckb.dbpedia.org/resource/\u0626\u06CC\u0646\u0627> .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Inna	owl:sameAs	dbpedia-nl:Inna ;
+	schema:sameAs	<http://viaf.org/viaf/121309287> ;
+	dbo:abstract	"Elena Alexandra Apostoleanu (16 d'octubre de 1986), m\u00E9s coneguda simplement com a Inna, \u00E9s una cantant de m\u00FAsica dance de Mangalia, Romania. Va aconseguir un gran nombre d'\u00E8xits entre 2008 i 2014, amb can\u00E7ons com Sun Is Up, Hot, More Than Friends, D\u00E9j\u00E0 Vu, Cola Song o In Your Eyes."@ca ,
+		"Elena Alexandra Apostoleanu, mest k\u00E4nd som Inna, f\u00F6dd 16 oktober 1986, \u00E4r en rum\u00E4nsk musiker inom genrerna dance och house. Hon b\u00F6rjade samarbeta med produktionsteamet , som producerade hennes debutalbum och hit, Hot. Hon har \u00E4ven blivit popul\u00E4r i Sverige med albumet \"Hot\" som slog igenom \u00E5r 2009. L\u00E5ten Hot blev etta i radiotopplistan i 10 l\u00E4nder. Fr\u00E5n hennes debutalbum, Hot, har hon \u00E4ven lanserat fyra singlar, 10 minutes, Love, D\u00E9j\u00E0 Vu, Amazing, l\u00E5tarna fick ledande positioner i olika topplistor i Europa. Den 15 april 2009 undertecknade Inna ett kontrakt med ett av USA:s st\u00F6rsta skivbolag Ultra Records, senare vann s\u00E5ngerskan fyra trof\u00E9er p\u00E5 prisgalan Romanian Music Awards 2009. April 2009 har l\u00E5ten Hot blivit nominerad som b\u00E4sta internationella l\u00E5ten i prisutdelningsceremonin Eska. H\u00F6sten 2009 blev Inna nominerad som b\u00E4sta rum\u00E4nska s\u00E5ngerska p\u00E5 MTV Europe Music Awards och fick en trof\u00E9 med sig. 2011 lanserade Inna albumet I Am The Club Rocker och turnerade i flera europeiska l\u00E4nder och i Mexiko."@sv ,
+		"Elena Alexandra Apostoleanu (Mangalia, 16 oktober 1986), beter bekend onder haar artiestennaam Inna, is een Roemeense zangeres. Inna zingt vooral electropopnummers."@nl ,
+		"Elena Alexandra Apostoleanu (born 16 October 1986), known professionally as Inna ( E-n-\u0259; stylized in all caps), is a Romanian singer and songwriter. Born in Mangalia and raised in Neptun, she studied political science at Ovidius University before meeting the Romanian trio Play & Win and pursuing a music career. She adopted the stage name \"Alessandra\" in 2008 and adopted a pop-rock style; later that year, she changed her stage name to \"Inna\" and began releasing house music. \"Hot\" (2008), her debut single, was a commercial success worldwide and topped the Romanian and Billboard's Hot Dance Airplay chart, among others. Inna's debut studio album of the same name followed in August 2009 and was certified Gold and Platinum. It featured several other successful singles in Europe, including \"Amazing\" (2009), her second number one single in Romania. Inna's second album, I Am the Club Rocker (2011), yielded global success for the single \"Sun Is Up\" (2010). The track won the Eurodanceweb Award, making Inna the first and only Romanian artist to win the award. In 2011, it was announced Inna was the highest-paid Romanian and Eastern European artist. Her follow-up studio album, Party Never Ends (2013), was nominated for two consecutive years for Best Album at the Romanian Music Awards and reached the top ten in Mexico. It featured \"More than Friends\", a moderate European hit in collaboration with Daddy Yankee. In 2014, Inna signed with Atlantic Records and released the commercially successful \"Cola Song\" with J Balvin, which was used to promote that year's FIFA World Cup. Inna's fourth and eponymous studio album was released in October 2015 and included \"Diggy Down\", the singer's third number-one single in Romania. Beginning in 2017, Inna has been a coach on the talent show Vocea Rom\u00E2niei Junior alongside Andra and Marius Moga. In the same year, she also released her fifth record Nirvana, whose singles found chart success in European countries such as Romania and Turkey. She signed a record deal with Roc Nation in 2018 to release her sixth studio album Yo in May 2019. Entirely envisioned by Inna, the Spanish-language effort marks a change in direction for her, as she approaches experimental and gypsy-influenced music styles. Her first single outside the Yo era, \"Bebe\", reached number one in Romania in March 2020. With global album sales of four million copies from her first three studio albums, Inna is the best-selling Romanian artist. She has received several awards and nominations, including the Balkan Music Awards, European Border Breakers Award, MTV Europe Music Awards and the Romanian Music Awards. Inna is a human rights activist, participating in campaigns against domestic violence and in support of children's and LGBT rights."@en ,
+		"Inna, de son vrai nom Elena Alexandra Apostoleanu, est n\u00E9e le 16 octobre 1986 \u00E0 Mangalia, est une chanteuse de dance-pop et danseuse roumaine. Elle a commenc\u00E9 \u00E0 travailler avec les producteurs Play and Win en 2008. Gr\u00E2ce \u00E0 son premier single Hot, Inna a connu un grand succ\u00E8s \u00E0 travers le monde, particuli\u00E8rement dans son pays natal, la Roumanie, ainsi qu'en Gr\u00E8ce, en Espagne, en Bulgarie, en Hongrie, au Portugal, aux \u00C9tats-Unis, au Canada, en France et en Belgique."@fr ,
+		"\uC774\uB098(Inna, 1986\uB144 10\uC6D4 16\uC77C ~ )\uB294 \uB8E8\uB9C8\uB2C8\uC544\uC758 \uAC00\uC218, \uB304\uC11C, \uC790\uC120\uAC00\uC774\uB2E4."@ko ,
+		"Inna (benetako izena Elena Alexandra Apostoleanu) (, 1986ko urriaren 16a) abeslari eta musikagile errumaniarra da."@eu ,
+		"INNA (\u043D\u0430\u0441\u0442\u043E\u044F\u0449\u0435\u0435 \u0438\u043C\u044F \u2014 \u0415\u043B\u0435\u043D\u0430 \u0410\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u0440\u0430 \u0410\u043F\u043E\u0441\u0442\u043E\u043B\u044F\u043D\u0443; (\u0440\u0443\u043C. Elena Alexandra Apostoleanu); \u0440\u043E\u0434. 16 \u043E\u043A\u0442\u044F\u0431\u0440\u044F 1986, \u041C\u0430\u043D\u0433\u0430\u043B\u0438\u044F, \u0420\u0443\u043C\u044B\u043D\u0438\u044F) \u2014 \u0440\u0443\u043C\u044B\u043D\u0441\u043A\u0430\u044F \u043F\u0435\u0432\u0438\u0446\u0430, \u0438\u0441\u043F\u043E\u043B\u043D\u0438\u0442\u0435\u043B\u044C\u043D\u0438\u0446\u0430 \u0442\u0430\u043D\u0446\u0435\u0432\u0430\u043B\u044C\u043D\u043E\u0439 \u043C\u0443\u0437\u044B\u043A\u0438. \u0418\u043D\u043D\u0430 \u043D\u0430\u0447\u0430\u043B\u0430 \u0440\u0430\u0431\u043E\u0442\u0443 \u0441 Play & Win \u0432 2008 \u0433\u043E\u0434\u0443. \u0418\u0437\u0432\u0435\u0441\u0442\u043D\u043E\u0441\u0442\u044C \u043F\u043E\u043B\u0443\u0447\u0438\u043B\u0430 \u0432 2009 \u0433\u043E\u0434\u0443, \u043F\u043E\u0441\u043B\u0435 \u0442\u043E\u0433\u043E \u043A\u0430\u043A \u0435\u0451 \u0434\u0435\u0431\u044E\u0442\u043D\u044B\u0439 \u0430\u043B\u044C\u0431\u043E\u043C Hot \u0434\u043E\u0431\u0438\u043B\u0441\u044F \u043C\u0435\u0436\u0434\u0443\u043D\u0430\u0440\u043E\u0434\u043D\u043E\u0433\u043E \u0443\u0441\u043F\u0435\u0445\u0430, \u043F\u043E\u043F\u0430\u0432 \u0432\u043E \u043C\u043D\u043E\u0433\u0438\u0435 \u043C\u0443\u0437\u044B\u043A\u0430\u043B\u044C\u043D\u044B\u0435 \u0447\u0430\u0440\u0442\u044B \u043F\u043E \u0432\u0441\u0435\u043C\u0443 \u043C\u0438\u0440\u0443 \u0438 \u0432 \u0442\u043E\u043F-10 \u0447\u0430\u0440\u0442\u043E\u0432 \u0427\u0435\u0445\u0438\u0438, \u0424\u0440\u0430\u043D\u0446\u0438\u0438 \u0438 \u0412\u0435\u043B\u0438\u043A\u043E\u0431\u0440\u0438\u0442\u0430\u043D\u0438\u0438. \u0410\u043B\u044C\u0431\u043E\u043C \u043F\u043E\u043B\u0443\u0447\u0438\u043B \u043F\u043B\u0430\u0442\u0438\u043D\u043E\u0432\u044B\u0439 \u0441\u0442\u0430\u0442\u0443\u0441 \u0432\u043E \u0424\u0440\u0430\u043D\u0446\u0438\u0438 \u0438 \u041F\u043E\u0440\u0442\u0443\u0433\u0430\u043B\u0438\u0438. \u041E\u0434\u043D\u043E\u0438\u043C\u0451\u043D\u043D\u044B\u0439 \u043B\u0438\u0434-\u0441\u0438\u043D\u0433\u043B \u0432 2009 \u0433\u043E\u0434\u0443 \u0432\u043E\u0437\u0433\u043B\u0430\u0432\u0438\u043B \u0430\u043C\u0435\u0440\u0438\u043A\u0430\u043D\u0441\u043A\u0438\u0439 \u0447\u0430\u0440\u0442 Hot Dance Airplay \u0438 \u043E\u0431\u0449\u0435\u0433\u043E\u0434\u043E\u0432\u043E\u0439 \u043F\u043E\u0440\u0442\u0443\u0433\u0430\u043B\u044C\u0441\u043A\u0438\u0439 \u0447\u0430\u0440\u0442. \u041E\u043D \u0442\u0430\u043A\u0436\u0435 \u0441\u0442\u0430\u043B \u00AB\u0437\u043E\u043B\u043E\u0442\u044B\u043C\u00BB \u0438 \u00AB\u043F\u043B\u0430\u0442\u0438\u043D\u043E\u0432\u044B\u043C\u00BB \u0432 \u0418\u0441\u043F\u0430\u043D\u0438\u0438, \u041D\u043E\u0440\u0432\u0435\u0433\u0438\u0438 \u0438 \u0418\u0442\u0430\u043B\u0438\u0438."@ru ,
+		"Elena Alexandra \"Inna\" Apostoleanu (Mangalia, 16 de outubro de 1986), \u00E9 uma cantora, compositora, filantropa e modelo da Rom\u00EAnia. Ela \u00E9 famosa por ser uma das maiores estrelas da Eurodance nos \u00FAltimos anos. Elena teve a grande maioria de suas m\u00FAsicas feitas pela banda Play & Win, trio de produtores romenos, originalmente composto por Marcel Botezan, Radu Bolfea e Sebastian Barac. Eles foram as mentes criadoras por tr\u00E1s dos maiores hits da carreira de INNA. A partir de 2015, somente Marco & Seba (Marcel Botezan e Sebastian Barac), sem Radu Bolfea, continuaram produzindo as m\u00FAsicas da romena. Em fevereiro de 2012, INNA se tornou a primeira cantora europeia que ultrapassou a marca de 1 bilh\u00E3o de visualiza\u00E7\u00F5es, n\u00E3o somente em videoclipes, mas a soma de todos os seus v\u00EDdeos musicais licenciados no YouTube. Por\u00E9m, a quantidade de espectadores em v\u00EDdeos oficiais da romena continuou, extraordinariamente, crescendo. Em outubro de 2015, INNA j\u00E1 tinha mais de um bilh\u00E3o, duzentos e noventa milh\u00F5es de visualiza\u00E7\u00F5es no YouTube, em v\u00EDdeos de singles oficiais, espalhados por canais de gravadoras e editoras licenciadas; mesmo sem contabilizar quaisquer performances gravadas, remixes e \"n\u00E3o-singles\". Al\u00E9m disso, em fevereiro de 2016, seu canal independente chegou a 1 bilh\u00E3o de visualiza\u00E7\u00F5es e, atualmente, possui mais de 4 milh\u00F5es de inscritos. Portanto, a marca de visualiza\u00E7\u00F5es da cantora em v\u00EDdeos musicais oficiais, na maior plataforma de v\u00EDdeos do mundo, \u00E9 bem superior ao bilh\u00E3o. O seu \u00E1lbum de estreia, Hot (2009), foi bem sucedido, internacionalmente, aparecendo em paradas musicais de todo o mundo e atingindo top dez na Fran\u00E7a, Rep\u00FAblica Checa e Reino Unido. A m\u00FAsica de mesmo nome do \u00E1lbum, Hot, foi n\u00FAmero 1 na parada semanal Hot Dance Air Play, da Billboard, em Janeiro de 2010. Ela permaneceu vinte semanas consecutivas entre faixas mais populares, sendo quinze delas no top 10 do mesmo ranqueamento, tamb\u00E9m conhecido como Dance/Mix Show Airplay. O single ganhou certificado de ouro na It\u00E1lia (FIMI), Ouro na Dinamarca (IFPI), Platina na Espanha (PROMUSICAE), Platina no Reino Unido (BPI), 2 vezes Platina na Su\u00E9cia (IFPI), e 3 vezes Platina na Noruega (IFPI). O segundo \u00E1lbum de INNA, I Am The Club Rocker (2011), foi outra produ\u00E7\u00E3o do trio Play & Win. Essa colet\u00E2nea ganhou certificado de ouro na Pol\u00F4nia (ZPAV) e Rom\u00EAnia (UFPR). I Am The Club Rocker trouxe, Sun Is Up, um dos hits mais bem sucedidos da romena na \u00C1sia e Europa. O sexto single de Elena teve grande propor\u00E7\u00E3o em pa\u00EDses como Fran\u00E7a, It\u00E1lia, Su\u00ED\u00E7a, Bulg\u00E1ria, B\u00E9lgica, Hungria, Holanda, L\u00EDbano, Pol\u00F4nia, Rom\u00EAnia, R\u00FAssia e Reino Unido.  Party Never Ends, seu terceiro \u00E1lbum de est\u00FAdio, foi lan\u00E7ado em mar\u00E7o de 2013, sendo mais bem sucedido no M\u00E9xico, onde chegou \u00E0 d\u00E9cima posi\u00E7\u00E3o do Top100MX (AMPROFON). Ela possui, ao menos, 4 \u00E1lbuns de est\u00FAdio, 1 extended play digital e dezenas de varia\u00E7\u00F5es especiais. Dentre eles, Hot (2009); I Am The Club Rocker (2011); Party Never Ends (2013); Summer Days EP (2014); Body And The Sun (2015) e INNA (2015). INNA tem can\u00E7\u00F5es em romeno, ingl\u00EAs, portugu\u00EAs, espanhol, russo, \u00E1rabe e franc\u00EAs. Os singles Hot, Amazing, D\u00E9j\u00E0 Vu, Sun Is Up, Club Rocker, Love, Crazy Sexy Wild, Cola Song, INNdIA, Endless e More Than Friends estiveram no top 100 de paradas musicais da Europa, Am\u00E9rica do Norte ou \u00C1sia. Sua trajet\u00F3ria lhe rendeu diversas premia\u00E7\u00F5es como MTV Romania Music Awards, 2009, que a intitulou Best Borderbreaker (melhor rompedora de fronteiras); EBBA Awards, 2011, que reconhece o sucesso de dez artistas emergentes que alcan\u00E7aram grandes p\u00FAblicos \u2014 internacionalmente \u2014 no \u00E1lbum de estr\u00E9ia); E ainda, foi vencedora de 3 edi\u00E7\u00F5es do Best Romanian Act (melhor ato romeno) na premia\u00E7\u00E3o internacional MTV Europe Music Awards."@pt ,
+		"Inna, nome d'arte di Elena Alexandra Apostoleanu (Mangalia, 16 ottobre 1986), \u00E8 una cantante rumena di musica dance. Il suo singolo di debutto, Hot, pubblicato a novembre 2008, \u00E8 entrato nella Top 10 in otto Paesi europei, garantendo alla cantante il successo del suo album, anch'esso intitolato Hot, uscito l'agosto successivo. Dall'album sono stati estratti altri singoli di successo, come D\u00E9j\u00E0 vu, Love, Amazing e 10 Minutes. Hot \u00E8 l'ottavo album pi\u00F9 venduto in Romania nel 2010. Sun Is Up ha raggiunto le prime dieci posizioni delle classifiche di otto Paesi, ha anticipato l'uscita del secondo album di Inna, intitolato I Am the Club Rocker e uscito alla fine dell'estate 2011. L'album, come il precedente prodotto dalla squadra discografica Play & Win, ha ricevuto meno successo del precedente, entrando in classifica in solo quattro nazioni e venendo certificato disco d'oro in Polonia. Da esso sono stati estratti anche altri due singoli, Club Rocker e Un momento, in duetto con il cantante spagnolo Juan Magan, cantata in parte in lingua spagnola, anche da Inna. Inna \u00E8 un'attivista che si occupa dei diritti dei bambini in Romania; la cantante, tramite la sponsorizzazione di molte campagne dell'UNICEF, esorta i suoi fan, detti Club Rocker (dal titolo del suo secondo album), ad aiutare i bambini bisognosi e l'associazione."@it ,
+		"\u0625\u0650\u064A\u0644\u0650\u064A\u0646\u064E\u0627 \u0623\u064E\u0644\u0650\u0643\u0633\u064E\u0646\u062F\u0631\u064E\u0627 \u0623\u064E\u0628\u064F\u0648\u0633\u062A\u064F\u0648\u0644\u064A\u064E\u0627\u0646\u064F\u0648 (16 \u0623\u0643\u062A\u0648\u0628\u0631 1986) \u0627\u0644\u0645\u0639\u0631\u0648\u0641\u0629 \u0641\u064A \u0627\u0644\u0648\u0633\u0637 \u0627\u0644\u0641\u0646\u064A \u0628\u0627\u0633\u0645 \u0625\u0650\u064A\u0646\u064E\u0627 (\u0628\u0627\u0644\u0625\u0646\u062C\u0644\u064A\u0632\u064A\u0629: Inna) \u0648\u062A\u0643\u062A\u0628 \u0631\u0633\u0645\u064A\u0627\u064B (INNA)\u060C \u0647\u064A \u0645\u063A\u0646\u064A\u0629\u060C \u0631\u0627\u0642\u0635\u0629 \u0648\u0641\u0627\u0639\u0644\u0629 \u062E\u064A\u0631\u064A\u0629 \u0631\u0648\u0645\u0627\u0646\u064A\u0629. \u0627\u0631\u062A\u0642\u062A \u0633\u0646\u0629 2009 \u0625\u0644\u0649 \u0633\u064A\u062F\u0629 \u0631\u0627\u0626\u062F\u0629 \u0627\u0644\u0634\u0647\u0631\u0629 \u0639\u0646\u062F\u0645\u0627 \u062D\u0642\u0642 \u0623\u0644\u0628\u0648\u0645\u0647\u0627 \u0627\u0644\u0623\u0648\u0644 \"\u0633\u0627\u062E\u0646\" \u0646\u062C\u0627\u062D\u0627 \u0648\u0627\u0633\u0639\u0627 \u0639\u0644\u0649 \u0645\u0633\u062A\u0648\u0649 \u0627\u0644\u0639\u0627\u0644\u0645 \u062D\u064A\u062B \u062D\u0642\u0642 \u0646\u0633\u0628\u0629 \u0645\u0628\u064A\u0639\u0627\u062A \u0639\u0627\u0644\u064A\u0629 \u062D\u0648\u0644 \u0627\u0644\u0639\u0627\u0644\u0645 \u0625\u0636\u0627\u0641\u0629 \u0625\u0644\u0649 \u0627\u062E\u062A\u064A\u0627\u0631\u0647 \u0643\u0623\u0641\u0636\u0644 \u0639\u0634\u0631\u0629 \u0623\u0644\u0628\u0648\u0645\u0627\u062A \u0641\u064A \u0643\u0644 \u0645\u0646 \u0627\u0644\u062A\u0634\u064A\u0643\u060C \u0641\u0631\u0646\u0633\u0627 \u0648\u0627\u0644\u0645\u0645\u0644\u0643\u0629 \u0627\u0644\u0645\u062A\u062D\u062F\u0629. \u062A\u0636\u0645\u0646 \u0647\u0630\u0627 \u0627\u0644\u0623\u0644\u0628\u0648\u0645 \u0623\u063A\u0646\u064A\u0629 \u0628\u0646\u0641\u0633 \u0639\u0646\u0648\u0627\u0646 \u0627\u0644\u0623\u0644\u0628\u0648\u0645 \u0627\u0644\u062A\u064A \u062A\u0635\u062F\u0631\u062A \u0625\u062D\u0635\u0627\u0626\u064A\u0627\u062A \u0627\u0644\u0627\u0633\u062A\u0645\u0627\u0639 \u0641\u064A \u062C\u0645\u064A\u0639 \u0623\u0646\u062D\u0627\u0621 \u0627\u0644\u0639\u0627\u0644\u0645\u060C \u0648\u062A\u0631\u0628\u0639\u062A \u0641\u064A 2009 \u0639\u0644\u0649 \u0635\u062F\u0627\u0631\u0629 \u0645\u0642\u064A\u0645 \u0627\u0644\u0645\u0648\u0633\u064A\u0642\u0649 \u0627\u0644\u0623\u0645\u064A\u0631\u064A\u0643\u064A \"\u0647\u0648\u062A \u062F\u0627\u0646\u0633 \u0622\u064A\u0631\u0628\u0644\u0627\u064A\".\u0639\u0644\u0627\u0648\u0629 \u0639\u0644\u0649 \u0630\u0644\u0643\u060C \u062D\u0642\u0642\u062A \u0627\u0644\u0634\u0647\u0627\u062F\u062A\u064A\u0646 \u0627\u0644\u0630\u0647\u0628\u064A\u0629 \u0648\u0627\u0644\u0631\u0645\u0627\u062F\u064A\u0629 \u0641\u064A \u0643\u0644 \u0645\u0646 \u0625\u0633\u0628\u0627\u0646\u064A\u0627\u060C \u0627\u0644\u0646\u0631\u0648\u064A\u062C \u0648\u0625\u064A\u0637\u0627\u0644\u064A\u0627. \u0648\u0641\u0627\u0632\u062A \u0628\u062C\u0627\u0626\u0632\u0629 \u0625\u0645 \u062A\u064A \u0641\u064A \u0623\u0648\u0631\u0648\u0628\u0627 \u0644\u0623\u0641\u0636\u0644 \u0623\u063A\u0646\u064A\u0629 \u0641\u064A \u0631\u0648\u0645\u0627\u0646\u064A\u0627 \u0644\u0633\u0646\u0629 2009. \u0627\u0644\u0623\u063A\u0646\u064A\u062A\u0627\u0646 \u0627\u0644\u0644\u0627\u062D\u0642\u062A\u0627\u0646 \u0644\u0625\u064A\u0646\u0627 \"\u0645\u062F\u0647\u0634\" \u0648\"\u0631\u0623\u064A\u062A\u0647 \u0645\u0633\u0628\u0642\u0627\" \u062D\u0642\u0642\u062A\u0627 \u0628\u062F\u0648\u0631\u0647\u0645\u0627 \u0646\u062C\u0627\u062D\u0627 \u0648\u0627\u0633\u0639\u0627 \u0648\u062A\u0635\u062F\u0631\u062A\u0627 \u0627\u0644\u062A\u0642\u064A\u064A\u0645\u0627\u062A \u0627\u0644\u0645\u0648\u0633\u064A\u0642\u064A\u0629 \u0641\u064A \u0639\u062F\u0629 \u062F\u0648\u0644 \u0623\u0648\u0631\u0648\u0628\u064A\u0629. \u0628\u0639\u062F \u0630\u0644\u0643 \u062F\u062E\u0644\u062A \u0627\u0644\u0623\u063A\u0646\u064A\u062A\u0627\u0646 \u0641\u064A \u0623\u0641\u0636\u0644 10 \u0623\u063A\u0627\u0646\u064A \u0627\u0644\u0645\u0642\u062F\u0645\u0629 \u0645\u0646 \u0637\u0631\u0641 \u0645\u0646\u0638\u0645\u0629 \u0635\u0646\u0627\u0639\u0629 \u0627\u0644\u0645\u0648\u0633\u064A\u0642\u0649 \u0627\u0644\u0641\u0631\u0646\u0633\u064A\u0629 \u0648\u0635\u0646\u0641\u062A\u0627 \u0636\u0645\u0646 \u0627\u0644\u0623\u063A\u0627\u0646\u064A \u0627\u0644\u0623\u0643\u062B\u0631 \u0645\u0628\u064A\u0639\u0627 \u0641\u064A\u0641\u0631\u0646\u0633\u0627 \u0633\u0646\u0629 2010. \u0627\u0644\u0623\u0644\u0628\u0648\u0645 \u0627\u0644\u062B\u0627\u0646\u064A \u0644\u0625\u064A\u0646\u0627 \u0628\u0639\u0646\u0648\u0627\u0646 \"\u0623\u0646\u0627 \u0645\u063A\u0646\u064A\u0629 \u0631\u0648\u0643 \u0627\u0644\u0646\u0627\u062F\u064A\" \u0647\u0648 \u0627\u0644\u062A\u0639\u0627\u0648\u0646 \u0627\u0644\u062B\u0627\u0646\u064A \u0628\u064A\u0646\u0647\u0627 \u0648\u0628\u064A\u0646 \u062B\u0644\u0627\u062B\u064A \u0627\u0644\u0625\u0646\u062A\u0627\u062C \u0627\u0644\u0645\u0648\u0633\u064A\u0642\u064A \u0628\u0644\u0627\u064A \u0623\u0646\u062F \u0648\u064A\u0646\u060C \u062D\u0627\u0632 \u062C\u0627\u0626\u0632\u0629 \u0623\u0644\u0628\u0648\u0645 \u0627\u0644\u0639\u0627\u0645 \u0641\u064A \u0631\u0648\u0645\u0627\u0646\u064A\u0627 \u0627\u0644\u0645\u0642\u062F\u0645\u0629 \u0645\u0646 \u0637\u0631\u0641 \"\u0631\u0648\u062A\u0648\u0646\". \u0625\u0636\u0627\u0641\u0629 \u0625\u0644\u0649 \u0627\u0644\u0634\u0647\u0627\u062F\u0629 \u0627\u0644\u0630\u0647\u0628\u064A\u0629 \u0641\u064A \u0631\u0648\u0645\u0627\u0646\u064A\u0627 \u0648\u0628\u0648\u0644\u0646\u062F\u0627. \u0623\u0648\u0644 \u0623\u063A\u0646\u064A\u0629 \u0645\u0646\u0647 \u0647\u064A \"\u0627\u0631\u062A\u0641\u0639\u062A \u0627\u0644\u0634\u0645\u0633 \" \u0648\u0647\u0648 \u0627\u0644\u0623\u0646\u062C\u062D \u0641\u064A \u062A\u0627\u0631\u064A\u062E\u0647\u0627 \u062D\u064A\u062B \u062D\u0642\u0642 125 \u0623\u0644\u0641 \u0646\u0633\u062E\u0629 \u0645\u0628\u0627\u0639\u0629 \u0641\u064A \u0641\u0631\u0646\u0633\u0627 \u0641\u0642\u0637 \u0648\u0645\u0644\u064A\u0648\u0646\u0627 \u0646\u0633\u062E\u0629 \u0645\u0628\u0627\u0639\u0629 \u062D\u0648\u0644 \u0627\u0644\u0639\u0627\u0644\u0645. \u0628\u0639\u062F \u0630\u0644\u0643 \u062A\u0631\u0634\u062D\u062A \u0627\u0644\u0623\u063A\u0646\u064A\u0629 \u0644\u062B\u0644\u0627\u062A \u062C\u0648\u0627\u0626\u0632 \u0627\u0644\u0645\u0648\u0633\u064A\u0642\u0649 \u0627\u0644\u0631\u0648\u0645\u0627\u0646\u064A\u0629 \u0648\u0641\u0627\u0632\u062A \u0628\u062C\u0627\u0626\u0632\u0629 \"\u064A\u0648\u0631\u0648 \u062F\u0627\u0646\u0633 \u0648\u064A\u0628\" \u0644\u0639\u0627\u0645 2011. \u0645\u0646 \u0646\u0641\u0633 \u0627\u0644\u0623\u0644\u0628\u0648\u0645\u060C \u0648\u0639\u0644\u0649 \u062D\u062F \u0633\u0648\u0627\u0621 \u0627\u0634\u062A\u0631\u0643 \u0643\u0644 \u0645\u0646 \u0641\u0644\u0648 \u0631\u0627\u064A\u062F\u0627  \u0641\u064A \u0623\u063A\u0646\u064A\u062A\u064A \"\u0644\u062D\u0638\u0629 \u0648\u0627\u062D\u062F\u0629\" \u0648\"\u0631\u0648\u0643\u0631 \u0627\u0644\u0646\u0627\u062F\u064A\" \u0639\u0644\u0649 \u0627\u0644\u062A\u0648\u0627\u0644\u064A. \u0647\u0630\u0627 \u0627\u0644\u0623\u062E\u064A\u0631 \u062D\u0642\u0642 \u0627\u0644\u0645\u0631\u0643\u0632 \u0627\u0644\u0631\u0627\u0628\u0639 \u0641\u064A \"\u0644\u0628\u0646\u0627\u0646 \u0637\u0648\u0628 20\" \u0648\u0627\u0644\u0645\u0631\u0643\u0632 \u0627\u0644\u0639\u0634\u0631\u064A\u0646 \u0643\u0623\u0641\u0636\u0644 \u0623\u063A\u0646\u064A\u0629 \u0641\u064A\u0631\u0648\u0645\u0627\u0646\u064A\u0627\u060C \u0633\u0644\u0648\u0641\u0627\u0643\u064A\u0627\u060C \u0627\u0644\u0646\u0645\u0633\u0627 \u0648\u0628\u0648\u0644\u0646\u062F\u0627. \u0641\u064A \u0627\u0644\u0623\u0644\u0628\u0648\u0645 \u0627\u0644\u062B\u0627\u0644\u062B \u0644\u0647\u0627 \u0628\u0639\u0646\u0648\u0627\u0646 \"\u0627\u0644\u062D\u0641\u0644\u0629 \u0644\u0646 \u062A\u0646\u062A\u0647\u064A\" \u0627\u0644\u0645\u064F\u0646\u062A\u064E\u062C \u0641\u064A 2013 \u0644\u0645 \u062A\u062A\u0645\u0643\u0646 \u0645\u0646 \u0627\u0644\u062D\u0641\u0627\u0638 \u0639\u0644\u0649 \u0627\u0644\u0646\u062C\u0627\u062D \u0627\u0644\u0648\u0627\u0633\u0639 \u0644\u0623\u0644\u0628\u0648\u0645\u0627\u062A\u0647\u0627 \u0627\u0644\u0633\u0627\u0628\u0642\u0629 \u062D\u064A\u062B \u0644\u0645 \u064A\u062A\u062E\u0637\u0649 \u0627\u0644\u0623\u0644\u0628\u0648\u0645 \u0627\u0644\u0645\u0631\u0627\u0643\u0632 \u0627\u0644\u0639\u0627\u0634\u0631 \u0641\u064A \u0627\u0644\u0645\u0643\u0633\u064A\u0643. \u0648\u0645\u0639 \u0630\u0644\u0643 \u062D\u0642\u0642 \u0628\u0639\u0636 \u0627\u0644\u0646\u062C\u0627\u062D \u0641\u064A \u0645\u0646\u0627\u0637\u0642 \u0623\u062E\u0631\u0649 \u0645\u0646 \u0627\u0644\u0639\u0627\u0644\u0645 \u0628\u0633\u0628\u0628 \u0645\u0634\u0627\u0631\u0643\u0629 \u0645\u063A\u0646\u064A\u064A\u0646 \u0639\u0627\u0644\u0645\u064A\u064A\u0646 \u0641\u064A \u0628\u0639\u0636 \u0623\u063A\u0627\u0646\u064A \u0627\u0644\u0623\u0644\u0628\u0648\u0645 \u0623\u0645\u062B\u0627\u0644 \u0627\u0644\u0628\u0648\u0631\u062A\u0648\u0631\u064A\u0643\u064A\u0627\u0646\u062F\u0627\u062F\u064A \u064A\u0627\u0646\u0643\u064A . \u0628\u0639\u062F \u0630\u0644\u0643 \u0628\u062F\u0623\u062A \u0625\u064A\u0646\u0627 \u0641\u064A \u0627\u0644\u0639\u0645\u0644 \u0639\u0644\u0649 \u0623\u0644\u0628\u0648\u0645\u0647\u0627 \u0627\u0644\u0631\u0627\u0628\u0639\u060C \u0627\u0644\u0630\u064A \u0643\u0627\u0646\u062A \"\u0623\u063A\u0646\u064A\u0629 \u0643\u0648\u0644\u0627\" \u0623\u0648\u0644 \u0623\u063A\u0627\u0646\u064A\u0647 \u0628\u0645\u0634\u0627\u0631\u0643\u0629 \u062C\u064A \u0628\u0627\u0644\u0641\u064A\u0646. \u0647\u0630\u0629 \u0627\u0644\u0623\u063A\u0646\u064A\u0629 \u0623\u0635\u0628\u062D\u062A \u0627\u0644\u0623\u0634\u0647\u0631 \u0641\u064A \u0623\u0648\u0631\u0648\u0628\u0627 \u0641\u064A \u0641\u062A\u0631\u0629 \u0625\u0635\u062F\u0627\u0631 \u0627\u0644\u0623\u0644\u0628\u0648\u0645 \u0648\u062A\u0648\u062C\u062A \u0628\u0627\u0644\u0634\u0647\u0627\u062F\u0629 \u0627\u0644\u0631\u0645\u0627\u062F\u064A\u0629 \u0645\u0646 \u0637\u0631\u0641\u0645\u0646\u0638\u0645\u0629 \u0635\u0646\u0627\u0639\u0629 \u0627\u0644\u0641\u0648\u0646\u0648\u063A\u0631\u0627\u0641\u064A\u0629 \u0641\u064A \u0625\u0633\u0628\u0627\u0646\u064A\u0627. \u0631\u0627\u0628\u0639 \u0623\u0644\u0628\u0648\u0645\u0627\u062A\u0647\u0627 \u0627\u0644\u0645\u0633\u0645\u0649 \u0628\u0627\u0633\u0645\u0647\u0627 \u0623\u0635\u062F\u0631\u062A\u0647 \u0639\u0628\u0631 \u0635\u0641\u062D\u062A\u0647\u0627 \u0627\u0644\u0631\u0633\u0645\u064A\u0629 \u0639\u0644\u0649 \u0641\u064A\u0633\u0628\u0648\u0643 \u0641\u064A 15 \u0633\u0628\u062A\u0645\u0628\u0631 2015. \u0625\u0636\u0627\u0641\u0629 \u0625\u0644\u0649 \u0646\u0633\u062E\u0629 \u0645\u0639\u0627\u062F\u0629 \u0645\u0646 \u0646\u0641\u0633 \u0627\u0644\u0623\u0644\u0628\u0648\u0645 \u0628\u0639\u0646\u0648\u0627\u0646 \"\u0627\u0644\u062C\u0633\u0645 \u0648\u0627\u0644\u0634\u0645\u0633\" \u0645\u0648\u064E\u062C\u0647 \u0644\u0644\u064A\u0627\u0628\u0627\u0646 \u0623\u064F\u0635\u062F\u0631 \u0628\u062A\u0627\u0631\u064A\u062E 31 \u064A\u0648\u0644\u064A\u0648 2015. \u062A\u0644\u0642\u062A \u0625\u064A\u0646\u0627 \u0627\u0644\u0639\u062F\u064A\u062F \u0645\u0646 \u0627\u0644\u062C\u0648\u0627\u0626\u0632\u060C \u0645\u0646 \u0628\u064A\u0646\u0647\u0627 \u062C\u0627\u0626\u0632\u062A\u0627\u0646 \u0645\u0642\u062F\u0645\u0629 \u0645\u0646 \u0637\u0631\u0641 \u0625\u0645 \u062A\u064A \u0641\u064A \u0627\u0644\u0645\u0648\u0633\u064A\u0642\u0649 \u0627\u0644\u0623\u0648\u0631\u0648\u0628\u064A\u0629 \u0625\u0636\u0627\u0641\u0629 \u0625\u0644\u0649 13 \u062C\u0627\u0626\u0632\u0629 \u0641\u064A \u062B\u0644\u0627\u062B \u062F\u0648\u0631\u0627\u062A \u0644\u062C\u0648\u0627\u0626\u0632 \u0625\u0645 \u062A\u064A \u0641\u064A \u0627\u0644\u0645\u0648\u0633\u064A\u0642\u0649 \u0627\u0644\u0631\u0648\u0645\u0627\u0646\u064A\u0629. \u0641\u064A \u0645\u0627\u064A\u0648 2011\u060C \u0643\u0634\u0641 \u062A\u0642\u0631\u064A\u0631 \u0628\u0623\u0646 \u0625\u064A\u0646\u0627 \u0642\u062F \u062D\u0642\u0642\u062A \u0645\u0628\u064A\u0639\u0627\u062A \u0645\u0644\u064A\u0648\u0646 \u062A\u0633\u062C\u064A\u0644 \u0645\u0648\u0633\u064A\u0642\u064A \u062D\u0648\u0644 \u0627\u0644\u0639\u0627\u0644\u0645\u060C \u0628\u0645\u0627 \u0641\u064A\u0647 100 \u0623\u0644\u0641 \u0623\u0644\u0628\u0648\u0645 \u0648\u0623\u0643\u062B\u0631 600 \u0623\u0644\u0641 \u0623\u063A\u0646\u064A\u0629 \u0645\u0646\u0641\u0631\u062F\u0629 \u0641\u064A \u0627\u0644\u0645\u0645\u0644\u0643\u0629 \u0627\u0644\u0645\u062A\u062D\u062F\u0629. \u0628\u0646\u0647\u0627\u064A\u0629 \u0639\u0627\u0645 2011\u060C \u0623\u0635\u0628\u062D\u062A \u0625\u064A\u0646\u0627 \u0623\u063A\u0646\u0649 \u0645\u063A\u0646\u064A\u0629 \u0641\u064A \u0631\u0648\u0645\u0627\u0646\u064A\u0627\u0648\u0634\u0631\u0642 \u0623\u0648\u0631\u0648\u0628\u0627. \u062D\u064A\u062B \u0648\u0635\u0644\u062A \u062B\u0631\u0648\u062A\u0647\u0627 \u0644\u0623\u0643\u062B\u0631 \u0645\u0646 10 \u0645\u0644\u0627\u064A\u064A\u0646 \u064A\u0648\u0631\u0648. \u0641\u064A \u0645\u0627\u0631\u0633 2016\u060C \u062D\u0642\u0642\u062A \u0645\u0628\u064A\u0639\u0627\u062A \u0623\u0643\u062B\u0631 \u0645\u0646 4 \u0645\u0644\u0627\u064A\u064A\u0646 \u0646\u0633\u062E\u0629 \u0645\u0646 \u0623\u0648\u0644 \u062B\u0644\u0627\u062B \u0623\u0644\u0628\u0648\u0645\u0627\u062A \u0627\u0644\u0625\u0633\u062A\u0648\u062F\u064A\u0648 \u062E\u0627\u0635\u062A\u0647\u0627."@ar ,
+		"Elena Alexandra Apostoleanu, um\u011Bleck\u00FDm jm\u00E9nem Inna (* 16. \u0159\u00EDjna 1986 v Mangalii, Rumunsko), je rumunsk\u00E1 zp\u011Bva\u010Dka, kterou proslavily p\u0159edev\u0161\u00EDm dv\u011B jej\u00ED p\u00EDsn\u011B: jej\u00ED \u00FApln\u011B prvn\u00ED singl \u201EHot\u201C a p\u00EDse\u0148 \u201ESun Is Up\u201C z roku 2010. Stylem hudby b\u00FDv\u00E1 \u010Dasto p\u0159irovn\u00E1v\u00E1na k Rihann\u011B, Shaki\u0159e, Britney Spears nebo Lady Gaga."@cs ,
+		"\u30A4\u30F3\u30CA\uFF08\u82B8\u540D:Inna\u3001\u672C\u540D:\u30EB\u30FC\u30DE\u30CB\u30A2\u8A9E: Elena Alexandra Apostolean\u30011986\u5E7410\u670816\u65E5 - \uFF09\u306F\u3001\u30EB\u30FC\u30DE\u30CB\u30A2\u30FB\u30B3\u30F3\u30B9\u30BF\u30F3\u30C4\u30A1\u770C\u751F\u307E\u308C\u306E\u6B4C\u624B\u3067\u3042\u308B\u3002"@ja ,
+		"Elena Alexandra Apostoleanu\u200B (Mangalia, 16 de octubre de 1986), m\u00E1s conocida por su nombre art\u00EDstico Inna, es una cantante y compositora rumana.\u200B Nacida en Mangalia y criada en Neptun, estudi\u00F3 Ciencias Pol\u00EDticas en la Universidad Ovidius antes de conocer al tr\u00EDo rumano Play & Win y seguir una carrera musical. Us\u00F3 el seud\u00F3nimo de Alessandra en 2008 con un estilo de pop rock. Ese mismo a\u00F1o, cambi\u00F3 su nombre art\u00EDstico a Inna y comenz\u00F3 a lanzar m\u00FAsica house. \u00ABHot\u00BB (2008), su primer sencillo, fue un \u00E9xito comercial en todo el mundo, y alcanz\u00F3 la primera posici\u00F3n en el Top 100 de Rumania y en la lista Hot Dance Airplay de Billboard. Su primer \u00E1lbum de estudio del mismo nombre se lanz\u00F3 en agosto de 2009 y recibi\u00F3 la certificaci\u00F3n de oro y platino en Rumania y Francia, respectivamente. Present\u00F3 varios otros sencillos exitosos en Europa, entre ellos \u00ABAmazing\u00BB (2009), su segundo n\u00FAmero uno en Rumania. El segundo \u00E1lbum de Inna, I Am the Club Rocker (2011), logr\u00F3 un \u00E9xito global con el sencillo \u00ABSun Is Up\u00BB (2010). La pista gan\u00F3 el premio Eurodanceweb Award, que la posicion\u00F3 como la primera artista rumana en conseguirlo. En 2011, se anunci\u00F3 que Inna era la artista rumana y europea del este mejor pagada. Su tercer \u00E1lbum de estudio, Party Never Ends (2013), recibi\u00F3 una nominaci\u00F3n por dos a\u00F1os consecutivos en la categor\u00EDa de mejor \u00E1lbum en los premios Romanian Music Awards y alcanz\u00F3 el top 10 en M\u00E9xico. El \u00E1lbum incluy\u00F3 el sencillo \u00ABMore than Friends\u00BB, un \u00E9xito moderado en Europa, en colaboraci\u00F3n con el artista puertorrique\u00F1o Daddy Yankee. En 2014, Inna firm\u00F3 con Atlantic Records y lanz\u00F3 el sencillo \u00ABCola Song\u00BB con el artista colombiano J Balvin, que se utiliz\u00F3 para promocionar la Copa Mundial de la FIFA de ese a\u00F1o. El cuarto y hom\u00F3nimo \u00E1lbum de estudio de Inna se lanz\u00F3 en octubre de 2015 e incluy\u00F3 \u00ABDiggy Down\u00BB, el tercer sencillo n\u00FAmero uno de la cantante en Rumania. A partir de 2017, form\u00F3 parte del jurado en el programa de talentos Vocea Rom\u00E2niei Junior junto con Andra y Marius Moga. En el mismo a\u00F1o lanz\u00F3 su quinto \u00E1lbum, Nirvana, cuyos sencillos tuvieron \u00E9xito en las listas de pa\u00EDses europeos como Rumania y Turqu\u00EDa. En 2018 firm\u00F3 un contrato de grabaci\u00F3n con Roc Nation y lanz\u00F3 su sexto \u00E1lbum de estudio, Yo, en mayo de 2019. Completamente concebido por Inna, el disco en espa\u00F1ol marca un cambio en su direcci\u00F3n musical, ya que incorpora estilos de m\u00FAsica experimental con influencia gitana. Con ventas globales de cuatro millones de copias con sus primeros tres \u00E1lbumes de estudio, Inna es la artista rumana m\u00E1s exitosa en el extranjero. Ha recibido varios premios y nominaciones, entre ellos los Balkan Music Awards, el European Border Breakers Award, los MTV Europe Music Awards y los Romanian Music Awards. Adem\u00E1s de su carrera musical, Inna tambi\u00E9n es activista por los derechos humanos; ha participado en campa\u00F1as contra la violencia dom\u00E9stica y en apoyo de los derechos de los ni\u00F1os y LGBT."@es ,
+		"Inna, w\u0142a\u015Bc. Elena Alexandra Apostoleanu (ur. 16 pa\u017Adziernika 1986 w Mangalii) \u2013 rumu\u0144ska piosenkarka muzyki dance i eurodance."@pl ,
+		"Inna\uFF0C\u539F\u540DElena Alexandra Apostoleanu\uFF0C\u7F57\u9A6C\u5C3C\u4E9A\u6B4C\u624B\u3001\u821E\u8005\uFF0C1986\u5E7410\u670816\u65E5\u751F\u4E8E\u7F57\u9A6C\u5C3C\u4E9A\u66FC\u52A0\u5229\u4E9A \u30022008\u5E74\u7684\u821E\u66F2\u300AHot\u300B\u56E0\u5176\u5F3A\u70C8\u9707\u64BC\u7684\u8282\u594F\u6210\u4E3A\u7F57\u9A6C\u5C3C\u4E9A\u3001\u6469\u5C14\u591A\u74E6\u3001\u4FDD\u52A0\u5229\u4E9A\u3001\u9ECE\u5DF4\u5AE9\u7B49\u56FD\u7684\u51A0\u519B\u5355\u66F2\uFF0C2009\u5E74\u53C8\u6392\u4E0ABillboard\u6392\u884C\u699C\u51A0\u519B\u3002\u4E0E\u9C8D\u52C3\u6CF0\u52D2\u5408\u4F5C\u7684\u300ADeja Vu\u300B\u4EA6\u6210\u4E3A\u8BB8\u591A\u56FD\u5BB6\u7684\u51A0\u519B\u6B4C\u66F2\u30022011\u5E74\u63A8\u51FA\u65B0\u5355\u66F2\u300ASun is Up\u300B\u3002\u66FE\u83B7\u5F97MTV\u6B27\u6D32\u97F3\u4E50\u5927\u5956\u4E24\u9879\u3002"@zh ,
+		"Inna (\u0441\u043F\u0440\u0430\u0432\u0436\u043D\u0454 \u0456\u043C'\u044F \u0415\u043B\u0435\u043D\u0430 \u0410\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u0440\u0430 \u0410\u043F\u043E\u0441\u0442\u043E\u043B\u044F\u043D\u0443; \u0440\u0443\u043C. Elena Alexandra Apostoleanu, \u043D\u0430\u0440. 16 \u0436\u043E\u0432\u0442\u043D\u044F 1986 \u0440\u043E\u043A\u0443, \u041C\u0430\u043D\u0433\u0430\u043B\u0456\u044F, \u0420\u0443\u043C\u0443\u043D\u0456\u044F) \u2014 \u0441\u043F\u0456\u0432\u0430\u0447\u043A\u0430, \u0432\u0438\u043A\u043E\u043D\u0430\u0432\u0438\u0446\u044F \u0442\u0430\u043D\u0446\u044E\u0432\u0430\u043B\u044C\u043D\u043E\u0457 \u043C\u0443\u0437\u0438\u043A\u0438 \u0432 \u0420\u0443\u043C\u0443\u043D\u0456\u0457. Inna \u0440\u043E\u0437\u043F\u043E\u0447\u0430\u043B\u0430 \u0432\u0438\u0441\u0442\u0443\u043F\u0438 \u0437 Play & Win \u0432 2008 \u0440\u043E\u0446\u0456, \u0432 \u0446\u044C\u043E\u043C\u0443 \u0436 \u0440\u043E\u0446\u0456 \u0431\u0443\u0432 \u0437\u0430\u043F\u0443\u0449\u0435\u043D\u0438\u0439 \u0456 \u043F\u0435\u0440\u0448\u0438\u0439 \u0441\u0438\u043D\u0433\u043B \u00ABHot\u00BB. \u0414\u0456\u0432\u0447\u0438\u043D\u0430 \u0432\u0441\u0442\u0438\u0433\u043B\u0430 \u0437\u0430\u0432\u043E\u044E\u0432\u0430\u0442\u0438 \u0441\u0438\u043C\u043F\u0430\u0442\u0456\u0457 \u0432 \u043A\u0440\u0430\u0457\u043D\u0430\u0445 \u0441\u0445\u0456\u0434\u043D\u043E\u0457 \u0404\u0432\u0440\u043E\u043F\u0438. \u041D\u0430\u0439\u0432\u0456\u0434\u043E\u043C\u0456\u0448\u0438\u043C \u0445\u0456\u0442\u043E\u043C \u0441\u043F\u0456\u0432\u0430\u0447\u043A\u0438 \u0441\u0442\u0430\u043B\u0430 \u043F\u0456\u0441\u043D\u044F \u00ABHot\u00BB. 10 \u0441\u0435\u0440\u043F\u043D\u044F 2009 \u0440\u043E\u043A\u0443 \u0441\u043F\u0456\u0432\u0430\u0447\u043A\u0430 \u0432\u0438\u043F\u0443\u0441\u0442\u0438\u043B\u0430 \u0434\u0435\u0431\u044E\u0442\u043D\u0438\u0439 \u0430\u043B\u044C\u0431\u043E\u043C \u0432 \u0420\u0443\u043C\u0443\u043D\u0456\u0457, \u0430 \u0432\u0436\u0435 \u043D\u0430 \u043F\u043E\u0447\u0430\u0442\u043A\u0443 \u0432\u0435\u0440\u0435\u0441\u043D\u044F \u0430\u043B\u044C\u0431\u043E\u043C \u0432\u0438\u0445\u043E\u0434\u0438\u0442\u044C \u043D\u0430 \u0442\u0435\u0440\u0438\u0442\u043E\u0440\u0456\u0457 \u0420\u043E\u0441\u0456\u0457 \u2014 \u0432\u0438\u043F\u0443\u0441\u0442\u0438\u043B\u0430 \u043A\u043E\u043C\u043F\u0430\u043D\u0456\u044F RDS Records."@uk ;
+	dbp:caption	"Inna at the 2009 MTV Europe Music Awards."@en .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Inna	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Inna?oldid=985169870&ns=0> ;
+	dbp:imageSize	242 ;
+	dbp:name	"Inna"@en ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Elena_Alexandra_Apostoleanu.JPG?width=300> ;
+	dbo:birthPlace	dbr:Mangalia ;
+	dbp:birthPlace	"Mangalia, Romania"@en .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Inna	dbo:birthDate	"1986-10-16"^^xsd:date ;
+	dbp:website	<https://innaofficial.com/> ;
+	dbp:works	dbr:Inna_discography ;
+	dbo:wikiPageExternalLink	<https://innaofficial.com/> ;
+	dbp:alt	"A photograph of Inna."@en ;
+	dbp:awards	dbr:List_of_awards_and_nominations_received_by_Inna ;
+	dbp:birthDate	"1986-10-16"^^xsd:date ;
+	dbo:award	dbr:List_of_awards_and_nominations_received_by_Inna ;
+	dbp:birthName	"Elena Alexandra Apostoleanu"@en ;
+	dbo:birthName	"Elena Alexandra Apostoleanu"@en ;
+	dbp:yearsActive	2008 ;
+	dbp:education	dbr:Ovidius_University ;
+	dbo:education	dbr:Ovidius_University ;
+	dbp:occupation	""@en ,
+		"songwriter"@en ,
+		"Singer"@en ;
+	dbo:activeYearsStartYear	"2008"^^xsd:gYear ;
+	dbo:birthYear	"1986"^^xsd:gYear ;
+	dbo:occupation	dbr:Inna__PersonFunction__1 ;
+	dbo:wikiPageID	23761571 ;
+	dbo:wikiPageRevisionID	985169870 ;
+	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/19th_Annual_Latin_Grammy_Awards> ,
+		dbr:Cola_Song ,
+		<http://dbpedia.org/resource/Marco_&_Seba> ,
+		dbr:YouTube ,
+		dbc:MTV_EMA_winners ,
+		<http://dbpedia.org/resource/Pitbull_(rapper)> ,
+		dbr:House_music ,
+		<http://dbpedia.org/resource/Nirvana_(Inna_song)> ,
+		dbr:Gypsy_style ,
+		dbr:Just_Dance_2017 ,
+		dbr:LGBT_community ,
+		<http://dbpedia.org/resource/Vogue_M\u00E9xico_y_Latinoam\u00E9rica> ,
+		dbr:Inndia ,
+		dbr:Telethon ,
+		dbc:Romanian_dance_musicians ,
+		dbr:Dance-pop ,
+		dbr:Electronic_dance_music ,
+		dbr:News_of_the_World ,
+		<http://dbpedia.org/resource/More_than_Friends_(Inna_song)> ,
+		<http://dbpedia.org/resource/New_Year\u0027s_Eve> ,
+		<http://dbpedia.org/resource/Vocea_Rom\u00E2niei_Junior> ,
+		dbr:Domestic_violence ,
+		dbr:David_Ciente ,
+		dbr:Alexandru_Cotoi ,
+		<http://dbpedia.org/resource/Gimme_Gimme_(Inna_song)> ,
+		dbr:Minimal_music ,
+		dbr:J_Balvin ,
+		<http://dbpedia.org/resource/Ruleta_(Inna_song)> ,
+		dbr:MTV_Europe_Music_Award_for_Best_Romanian_Act ,
+		<http://dbpedia.org/resource/Endless_(Inna_song)> ,
+		dbr:LGBT_rights_by_country_or_territory ,
+		dbr:Dubai ,
+		dbr:Club_Rocker ,
+		dbr:Daddy_Yankee ,
+		dbr:Meydan_Racecourse ,
+		<http://dbpedia.org/resource/Supergroup_(music)> ,
+		<http://dbpedia.org/resource/TV3_(Catalonia)> ,
+		dbr:Rolling_Stone ,
+		dbr:Association_football ,
+		<http://dbpedia.org/resource/Children\u0027s_rights> ,
+		dbr:Marius_Moga ,
+		dbr:Techno ,
+		<http://dbpedia.org/resource/Rendez_Vous_(Inna_song)> ,
+		dbr:David_Rush ,
+		dbr:List_of_awards_and_nominations_received_by_Inna ,
+		dbr:Vlog ,
+		<http://dbpedia.org/resource/Heartbreaker_(Inna_album)> ,
+		dbr:Libertatea ,
+		dbr:Euro ,
+		dbc:Ultra_Records_artists ,
+		dbc:Eurodance_musicians ,
+		dbr:Whitney_Houston ,
+		dbr:Ultra_Music ,
+		<http://dbpedia.org/resource/Nirvana_(Inna_album)> ,
+		dbr:Primary_school ,
+		<http://dbpedia.org/resource/Yo_(album)> ,
+		dbr:Human_rights ,
+		<http://dbpedia.org/resource/Swimming_(sport)> ,
+		dbr:Villa ,
+		dbr:Prime_time ,
+		dbr:UNICEF ,
+		dbr:Global_Records ,
+		dbr:Universal_Music_Group ,
+		<http://dbpedia.org/resource/Roton_(label)> ,
+		dbr:Bucharest ,
+		dbr:Media_Forest ,
+		<http://dbpedia.org/resource/Category:Children\u0027s_rights_activists> ,
+		dbr:Political_science ,
+		dbr:Rescuer ,
+		dbr:Europop .
+@prefix ns44:	<http://dbpedia.org/resource/Dance/> .
+dbr:Inna	dbo:wikiPageWikiLink	ns44:Mix_Show_Airplay ,
+		dbr:Bop_Bop ,
+		<http://dbpedia.org/resource/Antena_3_(Romanian_TV_channel)> ,
+		dbr:Experimental_music ,
+		dbr:Akon ,
+		dbr:Party_Never_Ends ,
+		dbr:Eska_Music_Awards ,
+		<http://dbpedia.org/resource/Andra_(singer)> ,
+		dbr:Constitution_of_Romania ,
+		<http://dbpedia.org/resource/Bebe_(Inna_and_Vinka_song)> ,
+		<http://dbpedia.org/resource/Pink_(singer)> ,
+		dbr:The_Guardian ,
+		dbr:Eurovision_Song_Contest_2008 ,
+		<http://dbpedia.org/resource/Wow_(Inna_song)> ,
+		dbr:Freed_from_Desire ,
+		dbr:Romanian_record_charts ,
+		dbr:Everybody_Fucks ,
+		dbc:Roc_Nation_artists ,
+		dbr:European_Border_Breakers_Award ,
+		dbr:Eastern_Europe ,
+		dbr:Deep_house ,
+		<http://dbpedia.org/resource/Category:1986_births> ,
+		dbr:Swedish_House_Mafia ,
+		dbr:Jay-Z ,
+		dbr:Cartoon_Network ,
+		dbr:The_Powerpuff_Girls ,
+		dbr:G_Girls ,
+		dbr:Yandel ,
+		dbr:Crazy_Sexy_Wild ,
+		dbr:Celine_Dion ,
+		<http://dbpedia.org/resource/Constan\u021Ba> ,
+		<http://dbpedia.org/resource/D\u00E9j\u00E0_Vu_(Bob_Taylor_and_Inna_song)> ,
+		dbr:I_Am_the_Club_Rocker ,
+		dbr:Catalan_language ,
+		dbr:Electro_house ,
+		dbr:We_Wanna ,
+		<http://dbpedia.org/resource/Love_(Inna_song)> ,
+		dbr:Eurovision_Song_Contest_2012 ,
+		dbr:Christina_Aguilera ,
+		dbr:Jessie_J ,
+		dbr:Black_Eyed_Peas ,
+		<http://dbpedia.org/resource/Productores_de_M\u00FAsica_de_Espa\u00F1a> ,
+		<http://dbpedia.org/resource/Ra_(song)> ,
+		dbr:Telehit_Awards ,
+		<http://dbpedia.org/resource/2009_MTV_Europe_Music_Awards> ,
+		dbr:MTV_Europe_Music_Awards ,
+		dbr:Plastic_surgery ,
+		dbr:Untold_Festival ,
+		dbr:Extended_play ,
+		<http://dbpedia.org/resource/Carla\u0027s_Dreams> ,
+		<http://dbpedia.org/resource/Call_the_Police_(G_Girls_song)> ,
+		dbr:Atlantic_Records ,
+		dbr:Sun_Is_Up ,
+		<http://dbpedia.org/resource/Billboard_(magazine)> ,
+		dbc:Romanian_female_singers ,
+		dbr:Romanian_Orthodox_Church ,
+		dbr:Warner_Music_Group ,
+		dbr:MTV_Europe_Music_Award_for_Best_European_Act ,
+		<http://dbpedia.org/resource/In_Your_Eyes_(Inna_song)> ,
+		<http://dbpedia.org/resource/2010_MTV_Europe_Music_Awards> ,
+		<http://dbpedia.org/resource/Amazing_(Inna_song)> ,
+		dbr:Music_genre ,
+		<http://dbpedia.org/resource/File:Inna_en_Barbarella_2013,_Santo_Domingo,_Rep\u00FAblica_Dominicana.jpg> ,
+		<http://dbpedia.org/resource/File:Inna_at_Virgin_Radio_Romania.jpg> ,
+		dbr:Mangalia ,
+		<http://dbpedia.org/resource/Good_Time_(Inna_song)> ,
+		<http://dbpedia.org/resource/Hot_(Inna_song)> ,
+		dbr:Balkan_Music_Awards ,
+		<http://dbpedia.org/resource/Meltdown_(EP)> ,
+		dbc:Global_Records_artists ,
+		dbc:LGBT_rights_activists_from_Romania ,
+		dbc:People_from_Mangalia ,
+		dbc:Balkan_Music_Awards_winners ,
+		<http://dbpedia.org/resource/File:Inna-sopot.jpg> ,
+		<http://dbpedia.org/resource/File:Inna_2011.jpg> ,
+		dbr:Romanian_Music_Awards ,
+		<http://dbpedia.org/resource/Gala_(singer)> ,
+		<http://dbpedia.org/resource/Inna_(album)> ,
+		dbr:Barcelona ,
+		dbr:Eurodanceweb_Award ,
+		dbr:Breast_implant ,
+		<http://dbpedia.org/resource/Neptun,_Romania> ,
+		dbr:Romanian_language ,
+		<http://dbpedia.org/resource/Hot_(Inna_album)> ,
+		dbr:Inna_discography ,
+		<http://dbpedia.org/resource/10_Minutes_(Inna_song)> ,
+		<http://dbpedia.org/resource/Beyonc\u00E9> ,
+		<http://dbpedia.org/resource/2014_FIFA_World_Cup> ,
+		dbr:Roc_Nation ,
+		dbr:Basketball ,
+		dbr:Pop_rock ,
+		dbc:English-language_singers_from_Romania ,
+		dbc:Inna ,
+		dbr:Diggy_Down ,
+		dbr:Romanian_Television ,
+		<http://dbpedia.org/resource/Iguana_(song)> ,
+		dbr:Masked_Singer ,
+		dbr:Alexandra_Stan ,
+		dbr:Music_recording_certification ,
+		dbr:All_caps ,
+		<http://dbpedia.org/resource/Caliente_(Inna_song)> ,
+		dbc:Living_people ,
+		dbr:Pro_TV ,
+		dbr:Ovidius_University ,
+		dbr:Un_Momento .
+@prefix dbt:	<http://dbpedia.org/resource/Template:> .
+dbr:Inna	dbp:wikiPageUsesTemplate	dbt:Official_website ,
+		dbt:IPAc-en ,
+		dbt:Anchor ,
+		dbt:Inna ,
+		dbt:See_also ,
+		<http://dbpedia.org/resource/Template:Music_of_Southeastern_Europe_(the_Balkans)> ,
+		dbt:Efn ,
+		dbt:Good_article ,
+		dbt:Notelist ,
+		dbt:Use_dmy_dates ,
+		dbt:Birth_date_and_age ,
+		dbt:Flat_list ,
+		dbt:Reflist ,
+		<http://dbpedia.org/resource/Template:\u0027s> ,
+		dbt:IPA-ro ,
+		dbt:Infobox_musical_artist ,
+		dbt:Wikipedia_books ,
+		dbt:Respell ,
+		dbt:Main ,
+		dbt:Short_description ,
+		dbt:About ,
+		dbt:Authority_control ,
+		dbt:Infobox_person ,
+		dbt:Commons_category ;
+	dbo:wikiPageLength	"92574"^^xsd:nonNegativeInteger .
+dbr:List_of_2013_albums	dbo:wikiPageWikiLink	dbr:Inna .
+dbr:List_of_2019_albums	dbo:wikiPageWikiLink	dbr:Inna .
+dbr:List_of_Warner_Music_Group_artists	dbo:wikiPageWikiLink	dbr:Inna .
+<http://dbpedia.org/resource/Thal\u00EDa>	dbo:wikiPageWikiLink	dbr:Inna .
+dbr:Romanian_language	dbo:wikiPageWikiLink	dbr:Inna .
+<http://dbpedia.org/resource/Vocea_Rom\u00E2niei_(season_7)>	dbo:wikiPageWikiLink	dbr:Inna .
+<http://dbpedia.org/resource/Iguana_(disambiguation)>	dbo:wikiPageWikiLink	dbr:Inna .
+dbr:Sober	dbo:wikiPageWikiLink	dbr:Inna ;
+	dbo:wikiPageDisambiguates	dbr:Inna .
+dbr:Michael_Calfan	dbo:wikiPageWikiLink	dbr:Inna .
+dbr:List_of_The_Voice_Kids_TV_series	dbo:wikiPageWikiLink	dbr:Inna .
+<http://dbpedia.org/resource/List_of_number-one_singles_of_2011_(France)>	dbo:wikiPageWikiLink	dbr:Inna .
+dbr:List_of_one-word_stage_names	dbo:wikiPageWikiLink	dbr:Inna .
+dbr:Masked_Singer	dbo:wikiPageWikiLink	dbr:Inna .
+dbr:Christmas_in_Romania	dbo:wikiPageWikiLink	dbr:Inna .
+<http://dbpedia.org/resource/Love_(Inna_song)>	dbp:chronology	dbr:Inna ;
+	dbp:artist	dbr:Inna ;
+	dbo:artist	dbr:Inna ;
+	dbo:wikiPageWikiLink	dbr:Inna .
+<http://dbpedia.org/resource/Unlocked_(Alexandra_Stan_album)>	dbo:wikiPageWikiLink	dbr:Inna .
+dbr:J_Balvin_discography	dbo:wikiPageWikiLink	dbr:Inna .
+<http://dbpedia.org/resource/Ruleta_(Inna_song)>	dbo:artist	dbr:Inna ;
+	dbo:wikiPageWikiLink	dbr:Inna .
+dbr:Bop_Bop	dbp:chronology	dbr:Inna ;
+	dbo:artist	dbr:Inna ;
+	dbo:wikiPageWikiLink	dbr:Inna .
+<http://dbpedia.org/resource/Good_Time_(Inna_song)>	dbp:chronology	dbr:Inna ;
+	dbo:artist	dbr:Inna ;
+	dbo:wikiPageWikiLink	dbr:Inna .
+<http://dbpedia.org/resource/Heaven_(Inna_song)>	dbp:artist	dbr:Inna ;
+	dbo:artist	dbr:Inna ;
+	dbo:wikiPageWikiLink	dbr:Inna .
+<http://dbpedia.org/resource/Not_My_Baby_(Inna_song)>	dbp:composer	dbr:Inna ;
+	dbo:composer	dbr:Inna ;
+	dbp:chronology	dbr:Inna ;
+	dbp:artist	dbr:Inna ;
+	dbo:artist	dbr:Inna ;
+	dbo:wikiPageWikiLink	dbr:Inna .
+dbr:Un_Momento	dbp:chronology	dbr:Inna ;
+	dbo:artist	dbr:Inna ;
+	dbo:wikiPageWikiLink	dbr:Inna .
+dbr:Inna_discography	dbp:artist	dbr:Inna ;
+	dbo:artist	dbr:Inna ;
+	dbo:wikiPageWikiLink	dbr:Inna .
+<http://dbpedia.org/resource/Balans_(song)>	dbo:wikiPageWikiLink	dbr:Inna .
+<http://dbpedia.org/resource/Call_the_Police_(G_Girls_song)>	dbo:wikiPageWikiLink	dbr:Inna .
+dbr:Cola_Song	dbp:chronology	dbr:Inna ;
+	dbo:artist	dbr:Inna ;
+	dbo:wikiPageWikiLink	dbr:Inna .
+<http://dbpedia.org/resource/Be_My_Lover_(Inna_song)>	dbo:artist	dbr:Inna ;
+	dbo:wikiPageWikiLink	dbr:Inna .
+<http://dbpedia.org/resource/Bebe_(Inna_and_Vinka_song)>	dbp:chronology	dbr:Inna ;
+	dbp:writer	dbr:Inna ;
+	dbo:artist	dbr:Inna ;
+	dbo:writer	dbr:Inna ;
+	dbo:wikiPageWikiLink	dbr:Inna .
+<http://dbpedia.org/resource/\u00C9coute_(Alexandra_Stan_song)>	dbo:wikiPageWikiLink	dbr:Inna .
+<http://dbpedia.org/resource/Nirvana_(Inna_song)>	dbp:artist	dbr:Inna ;
+	dbo:artist	dbr:Inna ;
+	dbo:writer	dbr:Inna ;
+	dbo:wikiPageWikiLink	dbr:Inna .
+<http://dbpedia.org/resource/Sin_Ti_(Inna_song)>	dbp:writer	dbr:Inna ;
+	dbp:artist	dbr:Inna ;
+	dbo:artist	dbr:Inna ;
+	dbo:writer	dbr:Inna ;
+	dbo:wikiPageWikiLink	dbr:Inna .
+<http://dbpedia.org/resource/Me_Gusta_(Inna_song)>	dbp:chronology	dbr:Inna ;
+	dbp:writer	dbr:Inna ;
+	dbp:artist	dbr:Inna ;
+	dbo:artist	dbr:Inna ;
+	dbo:wikiPageWikiLink	dbr:Inna .
+<http://dbpedia.org/resource/D\u00E9j\u00E0_Vu_(Bob_Taylor_and_Inna_song)>	dbp:chronology	dbr:Inna ;
+	dbo:artist	dbr:Inna ;
+	dbo:wikiPageWikiLink	dbr:Inna .
+dbr:I_Am_the_Club_Rocker	dbp:artist	dbr:Inna ;
+	dbo:wikiPageWikiLink	dbr:Inna .
+<http://dbpedia.org/resource/Iguana_(song)>	dbp:writer	dbr:Inna ;
+	dbp:artist	dbr:Inna ;
+	dbo:artist	dbr:Inna ;
+	dbo:writer	dbr:Inna ;
+	dbo:wikiPageWikiLink	dbr:Inna .
+<http://dbpedia.org/resource/In_Your_Eyes_(Inna_song)>	dbp:chronology	dbr:Inna ;
+	dbo:wikiPageWikiLink	dbr:Inna .
+<http://dbpedia.org/resource/Inna_(album)>	dbp:artist	dbr:Inna ;
+	dbo:wikiPageWikiLink	dbr:Inna .
+<http://dbpedia.org/resource/Rendez_Vous_(Inna_song)>	dbp:artist	dbr:Inna ;
+	dbo:artist	dbr:Inna ;
+	dbo:wikiPageWikiLink	dbr:Inna .
+<http://dbpedia.org/resource/Wow_(Inna_song)>	dbp:artist	dbr:Inna ;
+	dbo:artist	dbr:Inna ;
+	dbo:wikiPageWikiLink	dbr:Inna .
+dbr:Crazy_Sexy_Wild	dbp:artist	dbr:Inna ;
+	dbo:artist	dbr:Inna ;
+	dbo:writer	dbr:Inna ;
+	dbo:wikiPageWikiLink	dbr:Inna .
+<http://dbpedia.org/resource/Caliente_(Inna_song)>	dbp:writer	dbr:Inna ;
+	dbp:artist	dbr:Inna ;
+	dbo:artist	dbr:Inna ;
+	dbo:writer	dbr:Inna ;
+	dbo:wikiPageWikiLink	dbr:Inna .
+<http://dbpedia.org/resource/Everybody_(DJ_BoBo_song)>	dbo:wikiPageWikiLink	dbr:Inna .
+dbr:We_Wanna	dbo:artist	dbr:Inna ;
+	dbo:wikiPageWikiLink	dbr:Inna .
+<http://dbpedia.org/resource/Heartbreaker_(Inna_album)>	dbo:wikiPageWikiLink	dbr:Inna .
+<http://dbpedia.org/resource/More_than_Friends_(Inna_song)>	dbp:chronology	dbr:Inna ;
+	dbo:artist	dbr:Inna ;
+	dbo:wikiPageWikiLink	dbr:Inna .
+<http://dbpedia.org/resource/Yalla_(Inna_song)>	dbp:artist	dbr:Inna ;
+	dbo:artist	dbr:Inna ;
+	dbo:writer	dbr:Inna ;
+	dbo:wikiPageWikiLink	dbr:Inna .
+<http://dbpedia.org/resource/Yo_(album)>	dbp:writer	dbr:Inna ;
+	dbp:artist	dbr:Inna ;
+	dbo:wikiPageWikiLink	dbr:Inna .
+<http://dbpedia.org/resource/Te_Vas_(Inna_song)>	dbp:chronology	dbr:Inna ;
+	dbp:writer	dbr:Inna ;
+	dbp:artist	dbr:Inna ;
+	dbo:artist	dbr:Inna ;
+	dbo:writer	dbr:Inna ;
+	dbo:wikiPageWikiLink	dbr:Inna .
+dbr:Tu_Manera	dbp:chronology	dbr:Inna ;
+	dbp:writer	dbr:Inna ;
+	dbp:artist	dbr:Inna ;
+	dbo:artist	dbr:Inna ;
+	dbo:writer	dbr:Inna ;
+	dbo:wikiPageWikiLink	dbr:Inna .
+dbr:Afrojack_discography	dbo:wikiPageWikiLink	dbr:Inna .
+dbr:Emile_Ghantous	dbo:wikiPageWikiLink	dbr:Inna .
+<http://dbpedia.org/resource/So_You_Think_You_Can_Dance_Australia_(season_4)>	dbo:wikiPageWikiLink	dbr:Inna .
+dbr:List_of_UK_Dance_Albums_Chart_number_ones_of_2011	dbo:wikiPageWikiLink	dbr:Inna .
+dbr:DJ_Sem	dbo:wikiPageWikiLink	dbr:Inna .
+dbr:Craig_Bernard	dbo:wikiPageWikiLink	dbr:Inna .
+dbr:Alexandru_Cotoi	dbo:wikiPageWikiLink	dbr:Inna .
+dbr:David_Ciente	dbo:wikiPageWikiLink	dbr:Inna .
+dbr:Boom_Boom	dbo:wikiPageWikiLink	dbr:Inna .
+dbr:Norway	dbo:wikiPageWikiLink	dbr:Inna .
+dbr:Axident	dbo:wikiPageWikiLink	dbr:Inna .
+ns44:Mix_Show_Airplay	dbo:wikiPageWikiLink	dbr:Inna .
+dbr:Steve_Mac	dbo:wikiPageWikiLink	dbr:Inna .
+dbr:List_of_Romanians	dbo:wikiPageWikiLink	dbr:Inna .
+dbr:Alexandra_Stan	dbo:wikiPageWikiLink	dbr:Inna .
+dbr:Inndia	dbp:chronology	dbr:Inna ;
+	dbo:artist	dbr:Inna ;
+	dbo:wikiPageWikiLink	dbr:Inna .
+dbr:Sam_Feldt	dbo:wikiPageWikiLink	dbr:Inna .
+dbr:Alex_Herron	dbo:wikiPageWikiLink	dbr:Inna .
+dbr:Los_Premios_40_Principales_2014	dbo:wikiPageWikiLink	dbr:Inna .
+<http://dbpedia.org/resource/Orkun_I\u015F\u0131tmak>	dbo:wikiPageWikiLink	dbr:Inna .
+<http://dbpedia.org/resource/Zetra_Olympic_Hall,_Sarajevo>	dbo:wikiPageWikiLink	dbr:Inna .
+dbr:Ankara_Arena	dbo:wikiPageWikiLink	dbr:Inna .
+dbr:Keith_Hetrick	dbo:wikiPageWikiLink	dbr:Inna .
+dbr:Saweetie_discography	dbo:wikiPageWikiLink	dbr:Inna .
+dbr:Coco_Jamboo	dbo:wikiPageWikiLink	dbr:Inna .
+<http://dbpedia.org/resource/Vocea_Rom\u00E2niei_Junior_(season_2)>	dbp:caption	dbr:Inna ;
+	dbp:judges	dbr:Inna ;
+	dbo:wikiPageWikiLink	dbr:Inna .
+dbr:Pitbull_discography	dbo:wikiPageWikiLink	dbr:Inna .
+dbr:Paula_Seling	dbo:wikiPageWikiLink	dbr:Inna .
+dbr:Loop_Live	dbo:wikiPageWikiLink	dbr:Inna .
+<http://dbpedia.org/resource/Dansez_pentru_tine_(season_14)>	dbo:wikiPageWikiLink	dbr:Inna .
+@prefix ns46:	<http://dbpedia.org/resource/Jean-Claude_Van_Damme:> .
+ns46:_Behind_Closed_Doors	dbo:wikiPageWikiLink	dbr:Inna .
+<http://dbpedia.org/resource/2012_in_Romania>	dbo:wikiPageWikiLink	dbr:Inna .
+<http://dbpedia.org/resource/10_Minutes_(Inna_song)>	dbp:chronology	dbr:Inna ;
+	dbo:artist	dbr:Inna ;
+	dbo:wikiPageWikiLink	dbr:Inna .
+<http://dbpedia.org/resource/Hot_(Inna_album)>	dbp:artist	dbr:Inna ;
+	dbo:wikiPageWikiLink	dbr:Inna .
+dbr:Havelock_Park	dbo:wikiPageWikiLink	dbr:Inna .
+dbr:Stereo_Love	dbo:wikiPageWikiLink	dbr:Inna .
+dbr:List_of_media_portrayals_of_bisexuality	dbo:wikiPageWikiLink	dbr:Inna .
+<http://dbpedia.org/resource/Don\u0027t_Let_the_Music_Die>	dbo:wikiPageWikiLink	dbr:Inna .
+dbr:Music_of_Romania	dbo:wikiPageWikiLink	dbr:Inna .
+dbr:List_of_2020_albums	dbo:wikiPageWikiLink	dbr:Inna .
+<http://dbpedia.org/resource/Ultra.2011>	dbo:wikiPageWikiLink	dbr:Inna .
+<http://dbpedia.org/resource/GoodWill_&_MGI>	dbo:wikiPageWikiLink	dbr:Inna .
+dbr:James_Abrahart	dbo:wikiPageWikiLink	dbr:Inna .
+dbr:Flo_Rida_discography	dbo:wikiPageWikiLink	dbr:Inna .
+dbr:DJ_Frank_E	dbo:wikiPageWikiLink	dbr:Inna .
+dbr:G_Girls	dbo:bandMember	dbr:Inna ;
+	dbo:wikiPageWikiLink	dbr:Inna .
+dbr:Breathe_Carolina_discography	dbo:wikiPageWikiLink	dbr:Inna .
+<http://dbpedia.org/resource/Yellow_Claw_(DJs)>	dbo:wikiPageWikiLink	dbr:Inna .
+dbr:Inna_Zobova	dbo:wikiPageWikiLink	dbr:Inna .
+<http://dbpedia.org/resource/Inna_(given_name)>	dbo:wikiPageWikiLink	dbr:Inna .
+dbr:Disco_Romancing	dbo:wikiPageWikiLink	dbr:Inna .
+<http://dbpedia.org/resource/Ra_(song)>	dbp:chronology	dbr:Inna ;
+	dbp:writer	dbr:Inna ;
+	dbp:artist	dbr:Inna ;
+	dbo:artist	dbr:Inna ;
+	dbo:writer	dbr:Inna ;
+	dbo:wikiPageWikiLink	dbr:Inna .
+<http://dbpedia.org/resource/2011_Balkan_Music_Awards>	dbo:wikiPageWikiLink	dbr:Inna .
+dbr:Balkan_Music_Awards	dbo:wikiPageWikiLink	dbr:Inna .
+dbr:List_of_Pepsi_spokespersons	dbo:wikiPageWikiLink	dbr:Inna .
+<http://dbpedia.org/resource/Meltdown_(EP)>	dbo:wikiPageWikiLink	dbr:Inna .
+<http://dbpedia.org/resource/Ultra.2012>	dbo:wikiPageWikiLink	dbr:Inna .
+<http://dbpedia.org/resource/Walkin\u0027_on_the_Sun>	dbo:wikiPageWikiLink	dbr:Inna .
+dbr:Jesus_Luz	dbo:wikiPageWikiLink	dbr:Inna .
+dbr:Eurodanceweb_Award	dbo:wikiPageWikiLink	dbr:Inna .
+dbr:MTV_Europe_Music_Award_for_Best_European_Act	dbo:wikiPageWikiLink	dbr:Inna .
+dbr:MTV_Europe_Music_Award_for_Best_Romanian_Act	dbo:wikiPageWikiLink	dbr:Inna .
+dbr:La_La_Love	dbo:wikiPageWikiLink	dbr:Inna .
+dbr:List_of_Airplay_100_number_ones_of_the_2020s	dbo:wikiPageWikiLink	dbr:Inna .
+dbr:Yandel_discography	dbo:wikiPageWikiLink	dbr:Inna .
+<http://dbpedia.org/resource/No_Help_(Inna_song)>	dbp:artist	dbr:Inna ;
+	dbo:artist	dbr:Inna ;
+	dbo:writer	dbr:Inna ;
+	dbo:wikiPageWikiLink	dbr:Inna .
+<http://dbpedia.org/resource/3_Beat_Records>	dbo:wikiPageWikiLink	dbr:Inna .
+dbr:Hadise	dbo:wikiPageWikiLink	dbr:Inna .
+dbr:Just_Dance_2017	dbo:wikiPageWikiLink	dbr:Inna .
+<http://dbpedia.org/resource/Dear_Future_Self_(Hands_Up)>	dbo:wikiPageWikiLink	dbr:Inna .
+<http://dbpedia.org/resource/Gimme_Gimme_(Inna_song)>	dbp:writer	dbr:Inna ;
+	dbp:artist	dbr:Inna ;
+	dbo:artist	dbr:Inna ;
+	dbo:writer	dbr:Inna ;
+	dbo:wikiPageWikiLink	dbr:Inna .
+<http://dbpedia.org/resource/Hot_(Inna_song)>	dbp:chronology	dbr:Inna ;
+	dbp:artist	dbr:Inna ;
+	dbo:artist	dbr:Inna ;
+	dbo:wikiPageWikiLink	dbr:Inna .
+<http://dbpedia.org/resource/Pitbull_(rapper)>	dbo:wikiPageWikiLink	dbr:Inna .
+dbr:Heartbreak_on_Hold	dbo:wikiPageWikiLink	dbr:Inna .
+<http://dbpedia.org/resource/Video_on_Trial_(season_9)>	dbo:wikiPageWikiLink	dbr:Inna .
+dbr:Sean_Combs_production_discography	dbo:wikiPageWikiLink	dbr:Inna .
+<http://dbpedia.org/resource/Cahill_(group)>	dbo:wikiPageWikiLink	dbr:Inna .
+<http://dbpedia.org/resource/2015_MTV_Europe_Music_Awards>	dbo:wikiPageWikiLink	dbr:Inna .
+dbr:RRA_Awards_2011	dbo:wikiPageWikiLink	dbr:Inna .
+<http://dbpedia.org/resource/Global_Warming_(Pitbull_album)>	dbo:wikiPageWikiLink	dbr:Inna .
+<http://dbpedia.org/resource/Neptun,_Romania>	dbo:wikiPageWikiLink	dbr:Inna .
+<http://dbpedia.org/resource/Play_&_Win>	dbo:associatedMusicalArtist	dbr:Inna ;
+	dbo:associatedBand	dbr:Inna ;
+	dbp:associatedActs	dbr:Inna .
+dbr:Dame_Tu_Amor	dbo:wikiPageWikiLink	dbr:Inna .
+dbr:List_of_Eurodance_songs	dbo:wikiPageWikiLink	dbr:Inna .
+dbr:List_of_awards_and_nominations_received_by_Inna	dbp:name	dbr:Inna ;
+	dbo:wikiPageWikiLink	dbr:Inna .

@@ -1,0 +1,673 @@
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+dbr:Luxembourg_Army	dbo:wikiPageWikiLink	dbr:Dudelange .
+@prefix dbp:	<http://dbpedia.org/property/> .
+<http://dbpedia.org/resource/2012\u201313_FC_Red_Bull_Salzburg_season>	dbp:location	dbr:Dudelange ;
+	dbo:wikiPageWikiLink	dbr:Dudelange .
+<http://dbpedia.org/resource/Zolt\u00E1n_B\u00E9res>	dbo:wikiPageWikiLink	dbr:Dudelange .
+dbr:List_of_Luxembourgish_records_in_athletics	dbo:wikiPageWikiLink	dbr:Dudelange .
+dbr:List_of_twin_towns_and_sister_cities_in_Luxembourg	dbo:wikiPageWikiLink	dbr:Dudelange .
+<http://dbpedia.org/resource/Auguste_Tr\u00E9mont>	dbo:wikiPageWikiLink	dbr:Dudelange .
+dbr:Erna_Hennicot-Schoepges	dbo:wikiPageWikiLink	dbr:Dudelange .
+dbr:Jos_Romersa	dbo:wikiPageWikiLink	dbr:Dudelange .
+dbr:Stade_Dudelange	dbo:wikiPageWikiLink	dbr:Dudelange ;
+	dbo:ground	dbr:Dudelange .
+dbr:CA_Dudelange	dbo:wikiPageWikiLink	dbr:Dudelange .
+<http://dbpedia.org/resource/A1_motorway_(Luxembourg)>	dbo:wikiPageWikiLink	dbr:Dudelange .
+dbr:Bernard_Michaux	dbo:birthPlace	dbr:Dudelange ;
+	dbo:wikiPageWikiLink	dbr:Dudelange .
+<http://dbpedia.org/resource/Belval,_Luxembourg>	dbo:wikiPageWikiLink	dbr:Dudelange .
+<http://dbpedia.org/resource/Eug\u00E8ne_Urbany>	dbo:birthPlace	dbr:Dudelange ;
+	dbp:birthPlace	dbr:Dudelange ;
+	dbo:wikiPageWikiLink	dbr:Dudelange .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+wikipedia-en:Dudelange	foaf:primaryTopic	dbr:Dudelange .
+<http://dbpedia.org/resource/2018\u201319_UEFA_Europa_League_group_stage>	dbo:wikiPageWikiLink	dbr:Dudelange .
+dbr:FIBA_EuroBasket_2005_Division_B	dbp:place	dbr:Dudelange ;
+	dbo:wikiPageWikiLink	dbr:Dudelange .
+<http://dbpedia.org/resource/2018\u201319_Legia_Warsaw_season>	dbo:wikiPageWikiLink	dbr:Dudelange .
+dbr:Germaine_Goetzinger	dbo:wikiPageWikiLink	dbr:Dudelange .
+<http://dbpedia.org/resource/2001\u201302_UEFA_Champions_League_qualifying_rounds>	dbo:wikiPageWikiLink	dbr:Dudelange .
+dbr:Berane	dbo:wikiPageWikiLink	dbr:Dudelange .
+<http://dbpedia.org/resource/2012\u201313_NK_Maribor_season>	dbp:location	dbr:Dudelange ;
+	dbo:wikiPageWikiLink	dbr:Dudelange .
+dbr:Andy_Bausch	dbo:wikiPageWikiLink	dbr:Dudelange .
+<http://dbpedia.org/resource/\u00C9mile_Mayrisch>	dbo:wikiPageWikiLink	dbr:Dudelange .
+dbr:Narrow-gauge_railways_in_Luxembourg	dbo:wikiPageWikiLink	dbr:Dudelange .
+dbr:List_of_football_stadiums_in_Luxembourg	dbo:wikiPageWikiLink	dbr:Dudelange .
+<http://dbpedia.org/resource/2015\u201316_UEFA_Europa_League_qualifying_phase>	dbo:wikiPageWikiLink	dbr:Dudelange .
+<http://dbpedia.org/resource/2006\u201307_UEFA_Champions_League_qualifying_rounds>	dbp:stadium	dbr:Dudelange ;
+	dbo:wikiPageWikiLink	dbr:Dudelange .
+<http://dbpedia.org/resource/2007\u201308_UEFA_Champions_League_qualifying_rounds>	dbp:stadium	dbr:Dudelange ;
+	dbo:wikiPageWikiLink	dbr:Dudelange .
+<http://dbpedia.org/resource/2018\u201319_Videoton_FC_season>	dbp:location	dbr:Dudelange ;
+	dbo:wikiPageWikiLink	dbr:Dudelange .
+<http://dbpedia.org/resource/2019\u201320_UEFA_Europa_League_group_stage>	dbo:wikiPageWikiLink	dbr:Dudelange .
+dbr:Etienne_Schneider	dbo:birthPlace	dbr:Dudelange ;
+	dbp:birthPlace	dbr:Dudelange ;
+	dbo:wikiPageWikiLink	dbr:Dudelange .
+<http://dbpedia.org/resource/European_Champion_Clubs_Cup_(athletics)>	dbo:wikiPageWikiLink	dbr:Dudelange .
+dbr:List_of_radio_stations_in_Luxembourg	dbo:wikiPageWikiLink	dbr:Dudelange .
+dbr:List_of_communes_of_Luxembourg_by_lowest_point	dbo:wikiPageWikiLink	dbr:Dudelange .
+dbr:List_of_communes_of_Luxembourg_by_area	dbo:wikiPageWikiLink	dbr:Dudelange .
+dbr:List_of_communes_of_Luxembourg_by_highest_point	dbo:wikiPageWikiLink	dbr:Dudelange .
+dbr:List_of_communes_of_Luxembourg_by_population	dbo:wikiPageWikiLink	dbr:Dudelange .
+dbr:List_of_communes_of_Luxembourg_by_population_density	dbo:wikiPageWikiLink	dbr:Dudelange .
+dbr:List_of_secondary_schools_in_Luxembourg	dbo:wikiPageWikiLink	dbr:Dudelange .
+<http://dbpedia.org/resource/2008\u201309_UEFA_Champions_League_qualifying_rounds>	dbp:stadium	dbr:Dudelange ;
+	dbo:wikiPageWikiLink	dbr:Dudelange .
+<http://dbpedia.org/resource/2009\u201310_UEFA_Champions_League_qualifying_phase_and_play-off_round>	dbp:stadium	dbr:Dudelange ;
+	dbo:wikiPageWikiLink	dbr:Dudelange .
+<http://dbpedia.org/resource/2012\u201313_UEFA_Europa_League_play-off_round>	dbo:wikiPageWikiLink	dbr:Dudelange .
+<http://dbpedia.org/resource/2012\u201313_UEFA_Europa_League_qualifying_phase>	dbo:wikiPageWikiLink	dbr:Dudelange .
+<http://dbpedia.org/resource/2019\u201320_Sevilla_FC_season>	dbo:wikiPageWikiLink	dbr:Dudelange .
+dbr:Japan_national_under-20_football_team	dbp:location	dbr:Dudelange ;
+	dbo:wikiPageWikiLink	dbr:Dudelange .
+<http://dbpedia.org/resource/2018\u201319_in_Polish_football>	dbo:wikiPageWikiLink	dbr:Dudelange .
+dbr:Lauenburg	dbo:wikiPageWikiLink	dbr:Dudelange .
+dbr:Karim_Guerfi	dbo:wikiPageWikiLink	dbr:Dudelange .
+dbr:Bettembourg	dbp:s	dbr:Dudelange ;
+	dbo:wikiPageWikiLink	dbr:Dudelange .
+dbr:Budersberg	dbo:wikiPageWikiLink	dbr:Dudelange .
+dbr:List_of_towns_in_Luxembourg_by_population	dbo:wikiPageWikiLink	dbr:Dudelange .
+dbr:Ligue_Francophone_de_Football_Americain_de_Belgique	dbo:wikiPageWikiLink	dbr:Dudelange .
+dbr:Phenix_Works	dbo:wikiPageWikiLink	dbr:Dudelange .
+<http://dbpedia.org/resource/2006_UEFA_European_Under-17_Championship>	dbp:stadium	dbr:Dudelange ;
+	dbo:wikiPageWikiLink	dbr:Dudelange .
+dbr:Benelux	dbo:wikiPageWikiLink	dbr:Dudelange .
+dbr:Coverage_of_Google_Street_View	dbo:wikiPageWikiLink	dbr:Dudelange .
+<http://dbpedia.org/resource/2013\u201314_UEFA_Europa_League_qualifying_phase_and_play-off_round>	dbp:stadium	dbr:Dudelange ;
+	dbo:wikiPageWikiLink	dbr:Dudelange .
+<http://dbpedia.org/resource/2014\u201315_UEFA_Champions_League_qualifying_phase_and_play-off_round>	dbp:stadium	dbr:Dudelange ;
+	dbo:wikiPageWikiLink	dbr:Dudelange .
+<http://dbpedia.org/resource/2016\u201317_FK_Qaraba\u011F_season>	dbp:location	dbr:Dudelange ;
+	dbo:wikiPageWikiLink	dbr:Dudelange .
+<http://dbpedia.org/resource/2016\u201317_UEFA_Champions_League_qualifying_phase_and_play-off_round>	dbp:stadium	dbr:Dudelange ;
+	dbo:wikiPageWikiLink	dbr:Dudelange .
+<http://dbpedia.org/resource/2011\u201312_UEFA_Champions_League_qualifying_phase_and_play-off_round>	dbp:stadium	dbr:Dudelange ;
+	dbo:wikiPageWikiLink	dbr:Dudelange .
+<http://dbpedia.org/resource/2012\u201313_KF_Tirana_season>	dbp:location	dbr:Dudelange ;
+	dbo:wikiPageWikiLink	dbr:Dudelange .
+<http://dbpedia.org/resource/2012\u201313_UEFA_Champions_League_qualifying_phase_and_play-off_round>	dbp:stadium	dbr:Dudelange ;
+	dbo:wikiPageWikiLink	dbr:Dudelange .
+<http://dbpedia.org/resource/2018\u201319_FC_Drita_season>	dbo:wikiPageWikiLink	dbr:Dudelange .
+dbr:Pedestrian_scramble	dbo:wikiPageWikiLink	dbr:Dudelange .
+<http://dbpedia.org/resource/2011\u201312_NK_Maribor_season>	dbp:location	dbr:Dudelange ;
+	dbo:wikiPageWikiLink	dbr:Dudelange .
+dbr:List_of_towns_in_Luxembourg	dbo:wikiPageWikiLink	dbr:Dudelange .
+dbr:Nordstad	dbo:wikiPageWikiLink	dbr:Dudelange .
+dbr:Louis_Rech	dbo:wikiPageWikiLink	dbr:Dudelange .
+dbr:Johann_Duhaupas	dbo:wikiPageWikiLink	dbr:Dudelange .
+dbr:Martin_Kollar	dbo:wikiPageWikiLink	dbr:Dudelange .
+dbr:Dudelange_Castle	dbo:wikiPageWikiLink	dbr:Dudelange .
+<http://dbpedia.org/resource/United_States_men\u0027s_national_soccer_team_results_(1980\u201389)>	dbp:location	dbr:Dudelange ;
+	dbo:wikiPageWikiLink	dbr:Dudelange .
+dbr:Marie_Heffenisch	dbo:wikiPageWikiLink	dbr:Dudelange .
+<http://dbpedia.org/resource/2018\u201319_CFR_Cluj_season>	dbp:location	dbr:Dudelange ;
+	dbo:wikiPageWikiLink	dbr:Dudelange .
+dbr:Willy_Klein	dbo:deathPlace	dbr:Dudelange ;
+	dbo:birthPlace	dbr:Dudelange ;
+	dbo:wikiPageWikiLink	dbr:Dudelange .
+dbr:Nicolas_Kettel	dbo:wikiPageWikiLink	dbr:Dudelange .
+<http://dbpedia.org/resource/2013\u201314_Luxembourg_Cup>	dbp:stadium	dbr:Dudelange ;
+	dbo:wikiPageWikiLink	dbr:Dudelange .
+<http://dbpedia.org/resource/2017\u201318_Luxembourg_National_Division>	dbo:wikiPageWikiLink	dbr:Dudelange .
+<http://dbpedia.org/resource/2017\u201318_Total_League_season>	dbo:wikiPageWikiLink	dbr:Dudelange .
+<http://dbpedia.org/resource/Luxembourg_National_Division_(men\u0027s_handball)>	dbo:wikiPageWikiLink	dbr:Dudelange .
+<http://dbpedia.org/resource/Luxembourg_National_Division_(women\u0027s_handball)>	dbo:wikiPageWikiLink	dbr:Dudelange .
+<http://dbpedia.org/resource/2011_Luxembourg_communal_elections>	dbo:wikiPageWikiLink	dbr:Dudelange .
+dbr:HB_Dudelange	dbo:wikiPageWikiLink	dbr:Dudelange .
+<http://dbpedia.org/resource/2004_Luxembourg_general_election>	dbo:wikiPageWikiLink	dbr:Dudelange .
+<http://dbpedia.org/resource/2018\u201319_Luxembourg_National_Division>	dbo:wikiPageWikiLink	dbr:Dudelange .
+<http://dbpedia.org/resource/2018\u201319_Total_League_season>	dbo:wikiPageWikiLink	dbr:Dudelange .
+<http://dbpedia.org/resource/2019\u201320_Luxembourg_National_Division>	dbo:wikiPageWikiLink	dbr:Dudelange .
+<http://dbpedia.org/resource/2019\u201320_Total_League_season>	dbo:wikiPageWikiLink	dbr:Dudelange .
+<http://dbpedia.org/resource/2020\u201321_Luxembourg_National_Division>	dbo:wikiPageWikiLink	dbr:Dudelange .
+dbr:National_Audiovisual_Centre	dbo:wikiPageWikiLink	dbr:Dudelange .
+dbr:Semiray_Ahmedova	dbo:wikiPageWikiLink	dbr:Dudelange .
+<http://dbpedia.org/resource/2005_Luxembourg_communal_elections>	dbo:wikiPageWikiLink	dbr:Dudelange .
+dbr:Burange	dbo:wikiPageWikiLink	dbr:Dudelange .
+dbr:List_of_athletics_clubs_in_Luxembourg	dbo:wikiPageWikiLink	dbr:Dudelange .
+<http://dbpedia.org/resource/List_of_members_of_the_Chamber_of_Deputies_of_Luxembourg_2009\u20132013>	dbo:wikiPageWikiLink	dbr:Dudelange .
+dbr:T71_Dudelange	dbo:location	dbr:Dudelange ;
+	dbo:wikiPageWikiLink	dbr:Dudelange .
+<http://dbpedia.org/resource/List_of_members_of_the_Chamber_of_Deputies_of_Luxembourg_2004\u20132009>	dbo:wikiPageWikiLink	dbr:Dudelange .
+dbr:List_of_railway_stations_in_Luxembourg	dbo:wikiPageWikiLink	dbr:Dudelange .
+<http://dbpedia.org/resource/Stade_J.F._Kennedy>	dbo:wikiPageWikiLink	dbr:Dudelange .
+<http://dbpedia.org/resource/2000\u201301_UEFA_Champions_League_qualifying_rounds>	dbp:stadium	dbr:Dudelange ;
+	dbo:wikiPageWikiLink	dbr:Dudelange .
+dbr:Google_Street_View_in_Europe	dbo:wikiPageWikiLink	dbr:Dudelange .
+<http://dbpedia.org/resource/European_P\u00E9tanque_Championships>	dbo:wikiPageWikiLink	dbr:Dudelange .
+dbr:Sport_in_Luxembourg	dbo:wikiPageWikiLink	dbr:Dudelange .
+@prefix ns5:	<http://dbpedia.org/resource/List_of_licensed_and_localized_editions_of_Monopoly:> .
+ns5:_Europe	dbp:space	dbr:Dudelange ;
+	dbo:wikiPageWikiLink	dbr:Dudelange .
+<http://dbpedia.org/resource/2020_in_archosaur_paleontology>	dbo:wikiPageWikiLink	dbr:Dudelange .
+dbr:Ermano_Fegatilli	dbo:wikiPageWikiLink	dbr:Dudelange .
+dbr:Hauffiopteryx	dbo:wikiPageWikiLink	dbr:Dudelange .
+<http://dbpedia.org/resource/History_of_Ferencv\u00E1rosi_TC>	dbo:wikiPageWikiLink	dbr:Dudelange .
+dbr:Manom	dbo:wikiPageWikiLink	dbr:Dudelange .
+dbr:Gusty_Kemp	dbo:wikiPageWikiLink	dbr:Dudelange .
+<http://dbpedia.org/resource/2014\u201315_R._Charleroi_S.C._season>	dbp:location	dbr:Dudelange ;
+	dbo:wikiPageWikiLink	dbr:Dudelange .
+dbr:ARBED	dbo:wikiPageWikiLink	dbr:Dudelange .
+<http://dbpedia.org/resource/L\u0119bork>	dbo:wikiPageWikiLink	dbr:Dudelange .
+dbr:List_of_motorways_in_Luxembourg	dbo:wikiPageWikiLink	dbr:Dudelange .
+dbr:Howald	dbo:wikiPageWikiLink	dbr:Dudelange .
+dbr:Kayl	dbp:e	dbr:Dudelange ;
+	dbo:wikiPageWikiLink	dbr:Dudelange .
+<http://dbpedia.org/resource/2002\u201303_S.L._Benfica_season>	dbp:location	dbr:Dudelange ;
+	dbo:wikiPageWikiLink	dbr:Dudelange .
+dbr:Luxembourg_District	dbo:wikiPageWikiLink	dbr:Dudelange .
+dbr:GR_5	dbo:wikiPageWikiLink	dbr:Dudelange .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Dudelange	rdf:type	wikidata:Q486972 ,
+		wikidata:Q532 ,
+		dbo:Settlement .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Dudelange	rdf:type	yago:City108524735 ,
+		yago:Municipality108626283 ,
+		yago:WikicatTownsInLuxembourg ,
+		yago:Tract108673395 ,
+		yago:GeographicalArea108574314 ,
+		dbo:Village ,
+		yago:Location100027167 ,
+		yago:UrbanArea108675967 ,
+		yago:YagoGeoEntity ,
+		yago:Region108630985 ,
+		dbo:Place ,
+		dbo:Location ,
+		yago:Object100002684 ,
+		yago:PhysicalEntity100001930 ,
+		yago:YagoLegalActorGeo ,
+		<http://dbpedia.org/class/yago/WikicatCommunesInEsch-sur-Alzette(canton)> .
+@prefix schema:	<http://schema.org/> .
+dbr:Dudelange	rdf:type	schema:Place ,
+		yago:Subdivision108674251 ,
+		yago:YagoPermanentlyLocatedEntity ,
+		yago:WikicatCommunesOfLuxembourg ,
+		yago:WikicatSubdivisionsOfLuxembourg .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Dudelange	rdf:type	owl:Thing ,
+		yago:Town108665504 ,
+		yago:District108552138 ,
+		dbo:PopulatedPlace ,
+		yago:AdministrativeDistrict108491826 ,
+		yago:Commune108541609 ,
+		yago:WikicatCitiesInLuxembourg .
+@prefix umbel-rc:	<http://umbel.org/umbel/rc/> .
+dbr:Dudelange	rdf:type	umbel-rc:PopulatedPlace .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Dudelange	rdfs:label	"Dudelange"@sv ,
+		"Dudelange"@es ,
+		"\u0414\u044E\u0434\u0435\u043B\u0430\u043D\u0436"@uk ,
+		"Dudelange"@eu ,
+		"\u0414\u044E\u0434\u0435\u043B\u0430\u043D\u0436"@ru ,
+		"Dudelange"@pl ,
+		"D\u00FCdelingen"@de ,
+		"\u062F\u0648\u062F\u064A\u0644\u0627\u0646\u062C"@ar ,
+		"Dudelange"@pt ,
+		"Dudelange"@ca ,
+		"Dudelange"@en ,
+		"\uB4A4\uB4E4\uB791\uC8FC"@ko ,
+		"Dudelange"@nl ,
+		"\u8FEA\u5FB7\u6717\u65E5"@zh ,
+		"Dudelange"@it ,
+		"Dudelange"@fr ,
+		"Dudelange"@cs ;
+	rdfs:comment	"Dudelange (en luxemburgu\u00E9s: Diddeleng, en alem\u00E1n: D\u00FCdelingen) es una  con estatus de ciudad al sur de Luxemburgo. Es la cuarta comuna por poblaci\u00F3n, com m\u00E1s de 18.300 habitantes. Dudelange se localiza cerca del l\u00EDmite con Francia. Dudelange es una importante ciudad industrial que creci\u00F3 sobre la base de 3 pueblos y una mina de acero a principios del siglo XX. De hecho, la \"D\" en el nombre del grupo sider\u00FArgico Arbed es por la primera letra de la ciudad. En esta ciudad tambi\u00E9n se encuentra la Torre de radio de Dudelange, que es una radio FM y una ."@es ,
+		"Dudelange (French pronunciation: \u200B[dydl\u0251\u0303\u0292]; Luxembourgish: Diddeleng pronounced [\u02C8did\u0259le\u014B] (), German: D\u00FCdelingen) is a commune with town status in southern Luxembourg. It is the fourth-most populous commune, with 19,734 inhabitants. Dudelange is situated close to the border with France. As of 2015, the town of Dudelange, which lies in the centre of the commune, has a population of 19,734, making it Luxembourg's third-most populous town. The commune also includes the smaller town of Budersberg, to the north-west. The Mont Saint-Jean, close to Budersberg, hosts the ruins of a medieval castle."@en ,
+		"Dudelange (luxemburgiska: Diddeleng, tyska: D\u00FCdelingen) \u00E4r en kommun och stad i s\u00F6dra Luxemburg. Kommunen ligger i kantonen Esch-sur-Alzette. Den hade \u00E5r 2017, 20 480 inv\u00E5nare."@sv ,
+		"Dudelange \u00E9 uma comuna de Luxemburgo com status de cidade, pertencente ao distrito de Luxemburgo e ao cant\u00E3o de Esch-sur-Alzette."@pt ,
+		"Dudelange je m\u011Bsto v ji\u017En\u00EDm Lucembursku bl\u00EDzko hranic s Franci\u00ED. V sou\u010Dasnosti zde \u017Eije v\u00EDce ne\u017E 18 000 obyvatel a jedn\u00E1 se tak o \u010Dtvrt\u00E9 nejv\u011Bt\u0161\u00ED m\u011Bsto v zemi. Dudelange je vedle Esch-sur-Alzette d\u016Fle\u017Eit\u00FDm pr\u016Fmyslov\u00FDm centrem zem\u011B."@cs ,
+		"Dudelange (luxenburgeraz: Diddeleng, frantsesez: Dudelange, alemanez: D\u00FCdelingen) Luxenburgoko hiria da, Luxenburgoko barrutian eta  dagoena. Bertoko futbol taldeak F91 Dudelange du izena."@eu ,
+		"Dudelange (en luxembourgeois : Diddeleng  et en allemand : D\u00FCdelingen) est une ville luxembourgeoise situ\u00E9e dans le canton d'Esch-sur-Alzette, chef-lieu de la commune portant le m\u00EAme nom."@fr ,
+		"Dudelange (Luxemburgs: Diddeleng, Duits: D\u00FCdelingen) is een stad en gemeente in het Luxemburgse Kanton Esch.De gemeente heeft een totale oppervlakte van 21,38 km2 en telde 20480 inwoners op 1 januari 2017, waarvan iets meer dan een kwart van buitenlandse afkomst."@nl ,
+		"\uB4A4\uB4E4\uB791\uC8FC(\uD504\uB791\uC2A4\uC5B4: Dudelange, \uB3C5\uC77C\uC5B4: D\u00FCdelingen \uB4A4\uB378\uB9C1\uAC90[*], \uB8E9\uC148\uBD80\uB974\uD06C\uC5B4: Diddeleng)\uB294 \uB8E9\uC148\uBD80\uB974\uD06C \uB0A8\uBD80\uC5D0 \uC704\uCE58\uD55C \uB3C4\uC2DC\uB85C \uBA74\uC801\uC740 21.38km2, \uB192\uC774\uB294 256~435m, \uC778\uAD6C\uB294 19,421\uBA85(2014\uB144 \uAE30\uC900), \uC778\uAD6C \uBC00\uB3C4\uB294 910\uBA85/km2\uC774\uB2E4. \uD589\uC815 \uAD6C\uC5ED\uC0C1\uC73C\uB85C\uB294 \uB8E9\uC148\uBD80\uB974\uD06C \uAD6C \uC5D0\uC288\uC26C\uB974\uC54C\uC81C\uD2B8 \uC8FC\uC5D0 \uC18D\uD55C\uB2E4. \uD504\uB791\uC2A4 \uAD6D\uACBD\uACFC \uAC00\uAE4C\uC6B4 \uD3B8\uC774\uB2E4. \n* \uC2DC \uBB38\uC7A5"@ko ,
+		"\u0414\u044E\u0434\u0435\u043B\u0430\u0301\u043D\u0436 (\u043B\u044E\u043A\u0441\u0435\u043C\u0431. Diddeleng, \u0444\u0440. Dudelange, \u043D\u0435\u043C. D\u00FCdelingen) \u2014 \u0433\u043E\u0440\u043E\u0434 \u0432 \u041B\u044E\u043A\u0441\u0435\u043C\u0431\u0443\u0440\u0433\u0435, \u0440\u0430\u0441\u043F\u043E\u043B\u043E\u0436\u0435\u043D\u043D\u044B\u0439 \u0432 \u043E\u043A\u0440\u0443\u0433\u0435 \u041B\u044E\u043A\u0441\u0435\u043C\u0431\u0443\u0440\u0433. \u0412\u0445\u043E\u0434\u0438\u0442 \u0432 \u0441\u043E\u0441\u0442\u0430\u0432 \u043A\u0430\u043D\u0442\u043E\u043D\u0430  \u0438 \u044F\u0432\u043B\u044F\u0435\u0442\u0441\u044F \u0446\u0435\u043D\u0442\u0440\u043E\u043C \u043E\u0434\u043D\u043E\u0438\u043C\u0451\u043D\u043D\u043E\u0439 \u043A\u043E\u043C\u043C\u0443\u043D\u044B."@ru ,
+		"Dudelange \u2013 gmina ze statusem miejskim w po\u0142udniowym Luksemburgu, w dystrykcie Luksemburg, w kantonie Esch-sur-Alzette. Graniczy z Francj\u0105. W 2014 roku, miasto Dudelange, kt\u00F3re stanowi centrum gminy, zamieszkiwa\u0142o 20 000 os\u00F3b. Inne miejscowo\u015Bci w gminie: Budersberg oraz . Dudelange jest te\u017C wa\u017Cnym o\u015Brodkiem przemys\u0142owym Luksemburga (przemys\u0142 g\u0142\u00F3wnie metalowy). Na terenie miasta znajduje si\u0119 nadajnik radiowo-telewizyjny. Jednym z miast partnerskich Dudelange jest L\u0119bork. Znajduje si\u0119 tam te\u017C ulica, kt\u00F3rej patronuje polskie miasto. W miejscowo\u015Bci ma siedzib\u0119 klub pi\u0142karski F91 Dudelange."@pl ,
+		"Dudelange (luxemburgu\u00E8s Diddeleng, alemany D\u00FCdelingen) \u00E9s una comuna i vila a l'est de Luxemburg, que forma part del cant\u00F3 d'Esch-sur-Alzette. Va rebre el t\u00EDtol municipal el 1907 de mans de Guillem IV de Luxemburg i compr\u00E8n les viles de Dudelange i Budersberg. Limita a l'oest amb Kayl, al nord amb Bettembourg, a l'est amb Frisange, i al sud i sud-est amb Zoufftgen i Volmerange-les-Mines (Fran\u00E7a)."@ca ,
+		"\u062F\u0648\u062F\u064A\u0644\u0627\u0646\u062C. (\u0628\u0627\u0644\u0623\u0644\u0645\u0627\u0646\u064A\u0629:  D\u00FCdelingen)\u060C \u0647\u064A \u0645\u062F\u064A\u0646\u0629 \u0644\u0644\u0648\u0643\u0633\u0645\u0628\u0648\u0631\u063A \u0648\u0639\u0627\u0635\u0645\u0629 \u0627\u0644\u0628\u0644\u062F\u064A\u0629\u060C \u062A\u062D\u0645\u0644 \u0646\u0641\u0633 \u0627\u0644\u0627\u0633\u0645 \u0648\u062A\u0642\u0639 \u0641\u064A \u0643\u0627\u0646\u062A\u0648\u0646 \u0625\u064A\u0634 \u0633\u064A\u0631 \u0623\u0644\u0632\u0627\u062A \u0648\u0645\u0646\u0637\u0642\u0629 \u0644\u0648\u0643\u0633\u0645\u0628\u0648\u0631\u063A."@ar ,
+		"\u0414\u044E\u0434\u0435\u043B\u0430\u043D\u0436 (\u043B\u044E\u043A\u0441\u0435\u043C\u0431. Diddeleng, \u0444\u0440. Dudelange, \u043D\u0456\u043C. D\u00FCdelingen) \u2014 \u043C\u0456\u0441\u0442\u043E \u0432 \u041B\u044E\u043A\u0441\u0435\u043C\u0431\u0443\u0440\u0437\u0456, \u0449\u043E \u0443\u0442\u0432\u043E\u0440\u044E\u0454 \u0441\u043E\u0431\u043E\u044E \u043E\u043A\u0440\u0435\u043C\u0443 \u043A\u043E\u043C\u0443\u043D\u0443. \u0412\u0445\u043E\u0434\u0438\u0442\u044C \u0434\u043E \u0441\u043A\u043B\u0430\u0434\u0443 \u043A\u0430\u043D\u0442\u043E\u043D\u0443 \u0415\u0448-\u0441\u044E\u0440-\u0410\u043B\u044C\u0437\u0435\u0442\u0442 \u0432 \u043E\u043A\u0440\u0443\u0437\u0456 \u041B\u044E\u043A\u0441\u0435\u043C\u0431\u0443\u0440\u0433."@uk ,
+		"D\u00FCdelingen (luxemburgisch Diddeleng, franz\u00F6sisch Dudelange) ist eine Stadt und eine Gemeinde im Gro\u00DFherzogtum Luxemburg. Sie geh\u00F6rt zum Kanton Esch an der Alzette und ist mit 21.087 Einwohnern (Stand 1. Januar 2019) neben der Stadt Esch an der Alzette der wichtigste Industriestandort des Landes."@de ,
+		"Dudelange (in Lussemburghese: Diddel\u00E9ng, Tedesco: D\u00FCdelingen) \u00E8 un comune del Lussemburgo meridionale. \u00C8 il quarto comune per popolazione, con oltre 17.000 abitanti, e ha lo status di citt\u00E0. Dudelange si trova vicino al confine con la Francia."@it ,
+		"\u8FEA\u5FB7\u6717\u65E5\uFF08\u6CD5\u8A9E\uFF1ADudelange\uFF0C\u6CD5\u8BED\u53D1\u97F3\uFF1A[dydl\u0251\u0303\u0292]\uFF1B\u5FB7\u8A9E\uFF1AD\u00FCdelingen\uFF1B\u76E7\u68EE\u5821\u8A9E\uFF1ADiddeleng\uFF09\u662F\u5362\u68EE\u5821\u897F\u5317\u90E8\u7684\u4E00\u4E2A\u5177\u6709\u57CE\u5E02\u5730\u4F4D\u7684\u5E02\u9547\uFF0C\u9760\u8FD1\u5362\u6CD5\u8FB9\u754C\u3002\u8FEA\u5FB7\u6717\u65E5\u662F\u4EBA\u53E3\u7B2C\u56DB\u5927\u7684\u5E02\u9547\uFF0C\u670920869\u540D\u5C45\u6C11\u3002 \n*"@zh ;
+	rdfs:seeAlso	dbr:Sister_cities ,
+		dbr:List_of_twin_towns ,
+		dbr:Luxembourg ;
+	foaf:name	"Dudelange"@en ;
+	foaf:homepage	<http://www.dudelange.lu> ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Diddeleng_Gemeng.jpg> ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Dudelange .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Dudelange	dct:subject	dbc:Dudelange ,
+		dbc:Towns_in_Luxembourg ,
+		dbc:Cities_in_Luxembourg ,
+		<http://dbpedia.org/resource/Category:Communes_in_Esch-sur-Alzette_(canton)> ;
+	owl:sameAs	<http://lt.dbpedia.org/resource/Diudelan\u017Eas> .
+@prefix ns15:	<https://global.dbpedia.org/id/> .
+dbr:Dudelange	owl:sameAs	ns15:bLWe .
+@prefix dbpedia-tr:	<http://tr.dbpedia.org/resource/> .
+dbr:Dudelange	owl:sameAs	dbpedia-tr:Dudelange .
+@prefix dbpedia-lb:	<http://lb.dbpedia.org/resource/> .
+dbr:Dudelange	owl:sameAs	dbpedia-lb:Gemeng_Diddeleng ,
+		<http://ko.dbpedia.org/resource/\uB4A4\uB4E4\uB791\uC8FC> ,
+		<http://ka.dbpedia.org/resource/\u10D3\u10D8\u10E3\u10D3\u10D4\u10DA\u10D0\u10DC\u10DF\u10D8> ,
+		<http://de.dbpedia.org/resource/D\u00FCdelingen> ,
+		wikidata:Q20969331 .
+@prefix dbpedia-vo:	<http://vo.dbpedia.org/resource/> .
+dbr:Dudelange	owl:sameAs	dbpedia-vo:Diddeleng ,
+		<http://be.dbpedia.org/resource/\u0414\u0437\u044E\u0434\u0437\u0435\u043B\u0430\u043D\u0436> .
+@prefix dbpedia-ro:	<http://ro.dbpedia.org/resource/> .
+dbr:Dudelange	owl:sameAs	dbpedia-ro:Dudelange ,
+		<http://d-nb.info/gnd/1088676-X> ,
+		<http://musicbrainz.org/area/4ea5b9a3-a6d8-409a-b3a4-6438669d5b49> .
+@prefix dbpedia-eu:	<http://eu.dbpedia.org/resource/> .
+dbr:Dudelange	owl:sameAs	dbpedia-eu:Dudelange ,
+		<http://uk.dbpedia.org/resource/\u0414\u044E\u0434\u0435\u043B\u0430\u043D\u0436> .
+@prefix dbpedia-sw:	<http://sw.dbpedia.org/resource/> .
+dbr:Dudelange	owl:sameAs	dbpedia-sw:Dudelange ,
+		<http://sr.dbpedia.org/resource/\u0414\u0438\u0434\u0435\u043B\u0430\u043D\u0436> ,
+		<http://d-nb.info/gnd/4223034-2> .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Dudelange	owl:sameAs	dbpedia-pt:Dudelange .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Dudelange	owl:sameAs	dbpedia-pl:Dudelange .
+@prefix dbpedia-cs:	<http://cs.dbpedia.org/resource/> .
+dbr:Dudelange	owl:sameAs	dbpedia-cs:Dudelange ,
+		<http://viaf.org/viaf/123307504> ,
+		<http://sws.geonames.org/2960634/> .
+@prefix ns25:	<http://d-nb.info/gnd/4223034-2/about/> .
+dbr:Dudelange	owl:sameAs	ns25:rdf .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Dudelange	owl:sameAs	dbpedia-it:Dudelange .
+@prefix dbpedia-hu:	<http://hu.dbpedia.org/resource/> .
+dbr:Dudelange	owl:sameAs	dbpedia-hu:Dudelange .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Dudelange	owl:sameAs	dbpedia-fr:Dudelange .
+@prefix dbpedia-als:	<http://als.dbpedia.org/resource/> .
+dbr:Dudelange	owl:sameAs	dbpedia-als:Diddeleng .
+@prefix dbpedia-nn:	<http://nn.dbpedia.org/resource/> .
+dbr:Dudelange	owl:sameAs	dbpedia-nn:Dudelange ,
+		<http://rdf.freebase.com/ns/m.04rk7c> ,
+		dbr:Dudelange ,
+		<http://viaf.org/viaf/242168057> ,
+		<http://ar.dbpedia.org/resource/\u062F\u0648\u062F\u064A\u0644\u0627\u0646\u062C> .
+@prefix dbpedia-ca:	<http://ca.dbpedia.org/resource/> .
+dbr:Dudelange	owl:sameAs	dbpedia-ca:Dudelange .
+@prefix dbpedia-ms:	<http://ms.dbpedia.org/resource/> .
+dbr:Dudelange	owl:sameAs	dbpedia-ms:Dudelange ,
+		<http://fa.dbpedia.org/resource/\u062F\u0648\u062F\u0644\u0627\u0646\u0698> ,
+		<http://zh.dbpedia.org/resource/\u8FEA\u5FB7\u6717\u65E5> ,
+		<http://ceb.dbpedia.org/resource/Dudelange_(kapital_sa_munisipyo)> .
+@prefix dbpedia-da:	<http://da.dbpedia.org/resource/> .
+dbr:Dudelange	owl:sameAs	dbpedia-da:Dudelange .
+@prefix dbpedia-no:	<http://no.dbpedia.org/resource/> .
+dbr:Dudelange	owl:sameAs	dbpedia-no:Dudelange .
+@prefix dbpedia-sk:	<http://sk.dbpedia.org/resource/> .
+dbr:Dudelange	owl:sameAs	dbpedia-sk:Dudelange .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Dudelange	owl:sameAs	yago-res:Dudelange ,
+		wikidata:Q16014 .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:Dudelange	owl:sameAs	dbpedia-es:Dudelange ,
+		dbpedia-lb:Diddeleng ,
+		<http://ru.dbpedia.org/resource/\u0414\u044E\u0434\u0435\u043B\u0430\u043D\u0436> .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Dudelange	owl:sameAs	dbpedia-nl:Dudelange ,
+		<http://sws.geonames.org/2960634> .
+@prefix dbpedia-sv:	<http://sv.dbpedia.org/resource/> .
+dbr:Dudelange	owl:sameAs	dbpedia-sv:Dudelange ,
+		<http://viaf.org/viaf/1892148037697188350002> ;
+	schema:sameAs	<http://viaf.org/viaf/123307504> ;
+	dbp:s	"Volmerange-les-Mines"@en ;
+	dbp:nativeNameLang	"lb"@en ;
+	dbp:w	dbr:Kayl ;
+	dbp:e	"Zoufftgen"@en .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Dudelange	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Dudelange?oldid=958175001&ns=0> ;
+	dbo:type	dbr:List_of_communes_of_Luxembourg ;
+	dbp:elevationMaxRank	"of 102"@en ;
+	dbp:elevationMinRank	"of 102"@en ;
+	dbp:unitPref	"Metric"@en ;
+	dbp:populationRank	"of 102"@en ;
+	dbo:politicalLeader	dbr:Dudelange__PoliticalFunction__1 ;
+	dbo:country	dbr:Luxembourg ;
+	dbp:imageShield	"Blason ville lu Dudelange .svg"@en ;
+	dbp:imageSkyline	"Diddeleng Gemeng.jpg"@en ;
+	dbo:originalName	"Diddeleng"@en ;
+	dbp:imageMap	"Map Dudelange.PNG"@en ;
+	dbp:leaderName	"Dan Biancalana"@en ;
+	dbp:leaderTitle	"Mayor"@en ;
+	dbp:n	dbr:Bettembourg ;
+	dbp:populationDensityKm	"auto"@en ;
+	dbp:populationDensityRank	"of 102"@en ;
+	dbp:areaRank	"of 102"@en .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Dudelange	dbo:populationTotalRanking	"102"^^xsd:positiveInteger ;
+	dbo:timeZone	dbr:Central_European_Summer_Time ,
+		dbr:Central_European_Time ;
+	dbp:subdivisionName	<http://dbpedia.org/resource/Esch-sur-Alzette_(canton)> ;
+	dbo:subdivision	<http://dbpedia.org/resource/Esch-sur-Alzette_(canton)> ;
+	dbp:imageCaption	"The town hall"@en ;
+	dbp:leaderParty	<http://dbpedia.org/resource/Luxembourg_Socialist_Workers\u0027_Party> ;
+	dbp:name	"Dudelange"@en ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Diddeleng_Gemeng.jpg?width=300> ;
+	dbo:wikiPageID	1305936 ;
+	dbo:wikiPageRevisionID	958175001 ;
+	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Luxembourg_Socialist_Workers\u0027_Party> ,
+		<http://dbpedia.org/resource/1960_Summer_Olympics> ,
+		dbr:Roger_Gilson ,
+		dbr:List_of_towns_in_Luxembourg_by_population ,
+		dbr:Roland_Bombardella ,
+		dbr:Erna_Hennicot-Schoepges ,
+		dbr:ArcelorMittal ,
+		dbr:Jean_Aniset ,
+		dbr:List_of_communes_of_Luxembourg ,
+		dbr:Lauenburg ,
+		dbr:France ,
+		dbr:Nicolas_Pauly ,
+		dbr:Jean_Hengen ,
+		dbr:Central_European_Time ,
+		<http://dbpedia.org/resource/Esch-sur-Alzette_(canton)> ,
+		dbr:Nicolas_Estgen ,
+		dbr:Victor_Feller ,
+		dbr:List_of_communes_of_Luxembourg_by_population ,
+		<http://dbpedia.org/resource/1976_Summer_Olympics> ,
+		dbr:Transmitter ,
+		dbr:Bernard_Michaux ,
+		dbr:Lydia_Mutsch ,
+		dbr:Communes_of_Luxembourg ,
+		dbr:Local_administrative_unit ,
+		dbr:Sister_city ,
+		dbr:Central_European_Summer_Time ,
+		dbr:Kari_Peters ,
+		dbr:Raymond_Wagner ,
+		dbr:Dudelange_Radio_Tower ,
+		dbr:List_of_sovereign_states ,
+		dbr:Andy_Bausch ,
+		dbr:Pierre_Cao ,
+		<http://dbpedia.org/resource/1964_Summer_Olympics> ,
+		dbr:Mars_Di_Bartolomeo ,
+		dbr:Kayl ,
+		<http://dbpedia.org/resource/L\u0119bork> ,
+		dbr:Alex_Bodry ,
+		dbr:Manom ,
+		dbr:Ernest_Mengel ,
+		<http://dbpedia.org/resource/Fred_St\u00FCrmer> ,
+		dbr:Robert_Schiel ,
+		dbr:Zoufftgen ,
+		dbr:Etienne_Schneider ,
+		dbr:Feltre ,
+		dbc:Cities_in_Luxembourg ,
+		dbc:Towns_in_Luxembourg ,
+		dbr:Jean_Schmit ,
+		dbr:Ben_Gastauer ,
+		<http://dbpedia.org/resource/Mont_St._Jean,_Luxembourg> ,
+		dbr:ARBED ,
+		<http://dbpedia.org/resource/Ren\u00E9_Peters> ,
+		dbr:Camille_Libar ,
+		dbr:Volmerange-les-Mines ,
+		dbr:List_of_towns_in_Luxembourg ,
+		<http://dbpedia.org/resource/2014_Winter_Olympics> ,
+		<http://dbpedia.org/resource/1952_Summer_Olympics> ,
+		dbr:Dominique_Lang ,
+		<http://dbpedia.org/resource/1948_Summer_Olympics> ,
+		<http://dbpedia.org/resource/File:Jean_Schmit.jpg> ,
+		dbc:Dudelange ,
+		<http://dbpedia.org/resource/File:Colette-Flesch--w.jpg> ,
+		<http://dbpedia.org/resource/File:Informal_meeting_of_justice_and_home_affairs_Handshake_(Justice)_Urmas_Reinsalu_and_Etienne_Schneider_(34915138884)_-_crop_Schneider.jpg> ,
+		<http://dbpedia.org/resource/File:Germaine_Goetzinger_November_2013-001.jpg> ,
+		dbr:Bernard_Berg ,
+		dbr:Berane_Municipality ,
+		dbr:Budersberg ,
+		dbr:Arganil ,
+		dbr:Luxembourg ,
+		<http://dbpedia.org/resource/Category:Communes_in_Esch-sur-Alzette_(canton)> ,
+		dbr:Colette_Flesch ,
+		dbr:F91_Dudelange ,
+		dbr:Nicolas_Biever ,
+		dbr:Cantons_of_Luxembourg ,
+		<http://dbpedia.org/resource/1936_Summer_Olympics> ,
+		dbr:Jos_Romersa ,
+		dbr:FM_broadcasting ,
+		dbr:Bruno_Mattiussi ,
+		dbr:Bettembourg ,
+		<http://dbpedia.org/resource/Moselle_(department)> ,
+		<http://dbpedia.org/resource/1968_Summer_Olympics> ,
+		dbr:Germaine_Goetzinger ,
+		dbr:Television ,
+		dbr:Jean_Back ,
+		<http://dbpedia.org/resource/2006_Winter_Olympics> ,
+		dbr:Fleur_Maxwell ,
+		dbr:List_of_mayors_of_Dudelange ;
+	dbo:wikiPageExternalLink	<http://www.dudelange.lu/> ,
+		<http://www.dudelange.lu> ,
+		<http://www.cna.public.lu/> ,
+		<https://web.archive.org/web/20050304075612/http:/www.dudelange.biz/> .
+@prefix dbt:	<http://dbpedia.org/resource/Template:> .
+dbr:Dudelange	dbp:wikiPageUsesTemplate	dbt:Luxembourg_commune_low_rank ,
+		dbt:Luxembourg_commune_population ,
+		dbt:Luxembourg_commune_population_rank ,
+		dbt:Luxembourg_communes_statistics_year ,
+		dbt:Luxembourg_commune_area ,
+		dbt:Luxembourg_commune_area_rank ,
+		dbt:Luxembourg_commune_density_rank ,
+		dbt:Luxembourg_commune_high ,
+		dbt:Luxembourg_commune_high_rank ,
+		dbt:Luxembourg_commune_low ,
+		dbt:Reflist ,
+		dbt:Authority_control ,
+		dbt:Coord ,
+		dbt:Flag ,
+		dbt:Wikivoyage ,
+		dbt:Flagicon ,
+		dbt:Geographic_location ,
+		dbt:IPA-fr ,
+		dbt:As_of ,
+		dbt:See_also ,
+		dbt:Div_col ,
+		dbt:Div_col_end ,
+		dbt:Esch-sur-Alzette_commune_footer ,
+		dbt:Commons_category-inline ,
+		dbt:Infobox_settlement ,
+		dbt:IPA-lb ;
+	dbo:abstract	"Dudelange (in Lussemburghese: Diddel\u00E9ng, Tedesco: D\u00FCdelingen) \u00E8 un comune del Lussemburgo meridionale. \u00C8 il quarto comune per popolazione, con oltre 17.000 abitanti, e ha lo status di citt\u00E0. Dudelange si trova vicino al confine con la Francia."@it ,
+		"Dudelange (luxemburgu\u00E8s Diddeleng, alemany D\u00FCdelingen) \u00E9s una comuna i vila a l'est de Luxemburg, que forma part del cant\u00F3 d'Esch-sur-Alzette. Va rebre el t\u00EDtol municipal el 1907 de mans de Guillem IV de Luxemburg i compr\u00E8n les viles de Dudelange i Budersberg. Limita a l'oest amb Kayl, al nord amb Bettembourg, a l'est amb Frisange, i al sud i sud-est amb Zoufftgen i Volmerange-les-Mines (Fran\u00E7a)."@ca ,
+		"Dudelange je m\u011Bsto v ji\u017En\u00EDm Lucembursku bl\u00EDzko hranic s Franci\u00ED. V sou\u010Dasnosti zde \u017Eije v\u00EDce ne\u017E 18 000 obyvatel a jedn\u00E1 se tak o \u010Dtvrt\u00E9 nejv\u011Bt\u0161\u00ED m\u011Bsto v zemi. Dudelange je vedle Esch-sur-Alzette d\u016Fle\u017Eit\u00FDm pr\u016Fmyslov\u00FDm centrem zem\u011B."@cs ,
+		"Dudelange (Luxemburgs: Diddeleng, Duits: D\u00FCdelingen) is een stad en gemeente in het Luxemburgse Kanton Esch.De gemeente heeft een totale oppervlakte van 21,38 km2 en telde 20480 inwoners op 1 januari 2017, waarvan iets meer dan een kwart van buitenlandse afkomst."@nl ,
+		"\u062F\u0648\u062F\u064A\u0644\u0627\u0646\u062C. (\u0628\u0627\u0644\u0623\u0644\u0645\u0627\u0646\u064A\u0629:  D\u00FCdelingen)\u060C \u0647\u064A \u0645\u062F\u064A\u0646\u0629 \u0644\u0644\u0648\u0643\u0633\u0645\u0628\u0648\u0631\u063A \u0648\u0639\u0627\u0635\u0645\u0629 \u0627\u0644\u0628\u0644\u062F\u064A\u0629\u060C \u062A\u062D\u0645\u0644 \u0646\u0641\u0633 \u0627\u0644\u0627\u0633\u0645 \u0648\u062A\u0642\u0639 \u0641\u064A \u0643\u0627\u0646\u062A\u0648\u0646 \u0625\u064A\u0634 \u0633\u064A\u0631 \u0623\u0644\u0632\u0627\u062A \u0648\u0645\u0646\u0637\u0642\u0629 \u0644\u0648\u0643\u0633\u0645\u0628\u0648\u0631\u063A."@ar ,
+		"\u0414\u044E\u0434\u0435\u043B\u0430\u0301\u043D\u0436 (\u043B\u044E\u043A\u0441\u0435\u043C\u0431. Diddeleng, \u0444\u0440. Dudelange, \u043D\u0435\u043C. D\u00FCdelingen) \u2014 \u0433\u043E\u0440\u043E\u0434 \u0432 \u041B\u044E\u043A\u0441\u0435\u043C\u0431\u0443\u0440\u0433\u0435, \u0440\u0430\u0441\u043F\u043E\u043B\u043E\u0436\u0435\u043D\u043D\u044B\u0439 \u0432 \u043E\u043A\u0440\u0443\u0433\u0435 \u041B\u044E\u043A\u0441\u0435\u043C\u0431\u0443\u0440\u0433. \u0412\u0445\u043E\u0434\u0438\u0442 \u0432 \u0441\u043E\u0441\u0442\u0430\u0432 \u043A\u0430\u043D\u0442\u043E\u043D\u0430  \u0438 \u044F\u0432\u043B\u044F\u0435\u0442\u0441\u044F \u0446\u0435\u043D\u0442\u0440\u043E\u043C \u043E\u0434\u043D\u043E\u0438\u043C\u0451\u043D\u043D\u043E\u0439 \u043A\u043E\u043C\u043C\u0443\u043D\u044B."@ru ,
+		"Dudelange \u00E9 uma comuna de Luxemburgo com status de cidade, pertencente ao distrito de Luxemburgo e ao cant\u00E3o de Esch-sur-Alzette."@pt ,
+		"Dudelange (French pronunciation: \u200B[dydl\u0251\u0303\u0292]; Luxembourgish: Diddeleng pronounced [\u02C8did\u0259le\u014B] (), German: D\u00FCdelingen) is a commune with town status in southern Luxembourg. It is the fourth-most populous commune, with 19,734 inhabitants. Dudelange is situated close to the border with France. As of 2015, the town of Dudelange, which lies in the centre of the commune, has a population of 19,734, making it Luxembourg's third-most populous town. The commune also includes the smaller town of Budersberg, to the north-west. The Mont Saint-Jean, close to Budersberg, hosts the ruins of a medieval castle. Dudelange is an important industrial town that grew out of the three villages and a steel mill in 1900. The D in the name of the ARBED steel company, later merged into ArcelorMittal, stood for Dudelange. As well as the Dudelange Radio Tower, an FM radio and television transmitter, it is also the site of the Centre national de l\u2019audiovisuel (CNA), a cultural institute founded in 1989 under the aegis of the Ministry of Culture in order to preserve, promote and exhibit Luxembourg's audiovisual and photographic heritage. The centre hosts a two-screen cinema, a restaurant and a library focused on the visual arts. Dudelange is home to Luxembourg's most successful football club in recent times. F91 Dudelange won nine national titles between 2000 and 2011."@en ,
+		"Dudelange (luxemburgiska: Diddeleng, tyska: D\u00FCdelingen) \u00E4r en kommun och stad i s\u00F6dra Luxemburg. Kommunen ligger i kantonen Esch-sur-Alzette. Den hade \u00E5r 2017, 20 480 inv\u00E5nare."@sv ,
+		"Dudelange (en luxembourgeois : Diddeleng  et en allemand : D\u00FCdelingen) est une ville luxembourgeoise situ\u00E9e dans le canton d'Esch-sur-Alzette, chef-lieu de la commune portant le m\u00EAme nom."@fr ,
+		"Dudelange (en luxemburgu\u00E9s: Diddeleng, en alem\u00E1n: D\u00FCdelingen) es una  con estatus de ciudad al sur de Luxemburgo. Es la cuarta comuna por poblaci\u00F3n, com m\u00E1s de 18.300 habitantes. Dudelange se localiza cerca del l\u00EDmite con Francia. Dudelange es una importante ciudad industrial que creci\u00F3 sobre la base de 3 pueblos y una mina de acero a principios del siglo XX. De hecho, la \"D\" en el nombre del grupo sider\u00FArgico Arbed es por la primera letra de la ciudad. En esta ciudad tambi\u00E9n se encuentra la Torre de radio de Dudelange, que es una radio FM y una . \n*  Wikimedia Commons alberga una categor\u00EDa multimedia sobre Dudelange. \n*  Datos: Q16014 \n*  Multimedia: Dudelange"@es ,
+		"\uB4A4\uB4E4\uB791\uC8FC(\uD504\uB791\uC2A4\uC5B4: Dudelange, \uB3C5\uC77C\uC5B4: D\u00FCdelingen \uB4A4\uB378\uB9C1\uAC90[*], \uB8E9\uC148\uBD80\uB974\uD06C\uC5B4: Diddeleng)\uB294 \uB8E9\uC148\uBD80\uB974\uD06C \uB0A8\uBD80\uC5D0 \uC704\uCE58\uD55C \uB3C4\uC2DC\uB85C \uBA74\uC801\uC740 21.38km2, \uB192\uC774\uB294 256~435m, \uC778\uAD6C\uB294 19,421\uBA85(2014\uB144 \uAE30\uC900), \uC778\uAD6C \uBC00\uB3C4\uB294 910\uBA85/km2\uC774\uB2E4. \uD589\uC815 \uAD6C\uC5ED\uC0C1\uC73C\uB85C\uB294 \uB8E9\uC148\uBD80\uB974\uD06C \uAD6C \uC5D0\uC288\uC26C\uB974\uC54C\uC81C\uD2B8 \uC8FC\uC5D0 \uC18D\uD55C\uB2E4. \uD504\uB791\uC2A4 \uAD6D\uACBD\uACFC \uAC00\uAE4C\uC6B4 \uD3B8\uC774\uB2E4. \n* \uC2DC \uBB38\uC7A5"@ko ,
+		"D\u00FCdelingen (luxemburgisch Diddeleng, franz\u00F6sisch Dudelange) ist eine Stadt und eine Gemeinde im Gro\u00DFherzogtum Luxemburg. Sie geh\u00F6rt zum Kanton Esch an der Alzette und ist mit 21.087 Einwohnern (Stand 1. Januar 2019) neben der Stadt Esch an der Alzette der wichtigste Industriestandort des Landes."@de ,
+		"\u8FEA\u5FB7\u6717\u65E5\uFF08\u6CD5\u8A9E\uFF1ADudelange\uFF0C\u6CD5\u8BED\u53D1\u97F3\uFF1A[dydl\u0251\u0303\u0292]\uFF1B\u5FB7\u8A9E\uFF1AD\u00FCdelingen\uFF1B\u76E7\u68EE\u5821\u8A9E\uFF1ADiddeleng\uFF09\u662F\u5362\u68EE\u5821\u897F\u5317\u90E8\u7684\u4E00\u4E2A\u5177\u6709\u57CE\u5E02\u5730\u4F4D\u7684\u5E02\u9547\uFF0C\u9760\u8FD1\u5362\u6CD5\u8FB9\u754C\u3002\u8FEA\u5FB7\u6717\u65E5\u662F\u4EBA\u53E3\u7B2C\u56DB\u5927\u7684\u5E02\u9547\uFF0C\u670920869\u540D\u5C45\u6C11\u3002 \n*"@zh ,
+		"Dudelange (luxenburgeraz: Diddeleng, frantsesez: Dudelange, alemanez: D\u00FCdelingen) Luxenburgoko hiria da, Luxenburgoko barrutian eta  dagoena. Bertoko futbol taldeak F91 Dudelange du izena."@eu ,
+		"\u0414\u044E\u0434\u0435\u043B\u0430\u043D\u0436 (\u043B\u044E\u043A\u0441\u0435\u043C\u0431. Diddeleng, \u0444\u0440. Dudelange, \u043D\u0456\u043C. D\u00FCdelingen) \u2014 \u043C\u0456\u0441\u0442\u043E \u0432 \u041B\u044E\u043A\u0441\u0435\u043C\u0431\u0443\u0440\u0437\u0456, \u0449\u043E \u0443\u0442\u0432\u043E\u0440\u044E\u0454 \u0441\u043E\u0431\u043E\u044E \u043E\u043A\u0440\u0435\u043C\u0443 \u043A\u043E\u043C\u0443\u043D\u0443. \u0412\u0445\u043E\u0434\u0438\u0442\u044C \u0434\u043E \u0441\u043A\u043B\u0430\u0434\u0443 \u043A\u0430\u043D\u0442\u043E\u043D\u0443 \u0415\u0448-\u0441\u044E\u0440-\u0410\u043B\u044C\u0437\u0435\u0442\u0442 \u0432 \u043E\u043A\u0440\u0443\u0437\u0456 \u041B\u044E\u043A\u0441\u0435\u043C\u0431\u0443\u0440\u0433."@uk ,
+		"Dudelange \u2013 gmina ze statusem miejskim w po\u0142udniowym Luksemburgu, w dystrykcie Luksemburg, w kantonie Esch-sur-Alzette. Graniczy z Francj\u0105. W 2014 roku, miasto Dudelange, kt\u00F3re stanowi centrum gminy, zamieszkiwa\u0142o 20 000 os\u00F3b. Inne miejscowo\u015Bci w gminie: Budersberg oraz . Dudelange jest te\u017C wa\u017Cnym o\u015Brodkiem przemys\u0142owym Luksemburga (przemys\u0142 g\u0142\u00F3wnie metalowy). Na terenie miasta znajduje si\u0119 nadajnik radiowo-telewizyjny. Jednym z miast partnerskich Dudelange jest L\u0119bork. Znajduje si\u0119 tam te\u017C ulica, kt\u00F3rej patronuje polskie miasto. W miejscowo\u015Bci ma siedzib\u0119 klub pi\u0142karski F91 Dudelange."@pl .
+@prefix ns43:	<http://www.w3.org/2006/03/wn/wn20/instances/> .
+dbr:Dudelange	dbp:wordnet_type	ns43:synset-commune-noun-1 ;
+	dbo:wikiPageLength	"10040"^^xsd:nonNegativeInteger ;
+	dbp:website	<http://www.dudelange.lu> ;
+	dbp:mapCaption	"Map of Luxembourg with Dudelange highlighted in orange, and the canton in dark red"@en ;
+	dbp:shieldSize	100 ;
+	dbp:timezone1Dst	dbr:Central_European_Summer_Time ;
+	dbp:utcOffset1Dst	"+2"@en ;
+	dbp:utcOffset	"+1"@en ;
+	dbp:subdivisionType	dbr:List_of_sovereign_states ,
+		dbr:Cantons_of_Luxembourg ;
+	dbp:nativeName	"Diddeleng"@en ;
+	dbp:blankInfoSec	"LU0000203"@en ;
+	dbp:timezone	dbr:Central_European_Time ;
+	dbp:blankNameSec	dbr:Local_administrative_unit ;
+	dbp:settlementType	dbr:List_of_communes_of_Luxembourg ;
+	dbo:utcOffset	"+1" ,
+		"+2" ;
+	dbp:mapsize	200 ;
+	dbp:centre	"Dudelange"@en .
+<http://dbpedia.org/resource/A3_motorway_(Luxembourg)>	dbo:routeJunction	dbr:Dudelange ;
+	dbo:wikiPageWikiLink	dbr:Dudelange .
+dbr:Dudelange-Burange_railway_station	dbo:wikiPageWikiLink	dbr:Dudelange .
+dbr:Dudelange-Centre_railway_station	dbo:wikiPageWikiLink	dbr:Dudelange .
+dbr:Dudelange-Usines_railway_station	dbo:wikiPageWikiLink	dbr:Dudelange .
+dbr:Dudelange-Ville_railway_station	dbo:wikiPageWikiLink	dbr:Dudelange .
+dbr:Red_Lands	dbo:wikiPageWikiLink	dbr:Dudelange .
+dbr:Stenopterygius	dbo:wikiPageWikiLink	dbr:Dudelange .
+<http://dbpedia.org/resource/History_of_Feh\u00E9rv\u00E1r_FC>	dbo:wikiPageWikiLink	dbr:Dudelange .
+dbr:Geography_of_Luxembourg	dbo:wikiPageWikiLink	dbr:Dudelange .
+dbr:European_route_E25	dbo:wikiPageWikiLink	dbr:Dudelange .
+dbr:Yekaterina_Savchenko	dbo:wikiPageWikiLink	dbr:Dudelange .
+dbr:Communes_of_Luxembourg	dbo:wikiPageWikiLink	dbr:Dudelange .
+<http://dbpedia.org/resource/2017\u201318_UEFA_Champions_League_qualifying_phase_and_play-off_round>	dbp:stadium	dbr:Dudelange ;
+	dbo:wikiPageWikiLink	dbr:Dudelange .
+<http://dbpedia.org/resource/2018\u201319_UEFA_Champions_League_qualifying_phase_and_play-off_round>	dbp:stadium	dbr:Dudelange ;
+	dbo:wikiPageWikiLink	dbr:Dudelange .
+<http://dbpedia.org/resource/2018\u201319_UEFA_Europa_League_qualifying_phase_and_play-off_round_(Champions_Path)>	dbp:stadium	dbr:Dudelange ;
+	dbo:wikiPageWikiLink	dbr:Dudelange .
+<http://dbpedia.org/resource/1999\u20132000_UEFA_Cup_qualifying_round>	dbp:stadium	dbr:Dudelange ;
+	dbo:wikiPageWikiLink	dbr:Dudelange .
+<http://dbpedia.org/resource/2009_Luxembourg_general_election>	dbo:wikiPageWikiLink	dbr:Dudelange .
+<http://dbpedia.org/resource/2017_Luxembourg_communal_elections>	dbo:wikiPageWikiLink	dbr:Dudelange .
+dbr:Grand_Ducal_Police	dbo:wikiPageWikiLink	dbr:Dudelange .
+dbr:Colette_Flesch	dbo:birthPlace	dbr:Dudelange ;
+	dbp:birthPlace	dbr:Dudelange ;
+	dbo:wikiPageWikiLink	dbr:Dudelange .
+dbr:Bruno_Mattiussi	dbo:birthPlace	dbr:Dudelange ;
+	dbo:wikiPageWikiLink	dbr:Dudelange .
+<http://dbpedia.org/resource/2002\u201303_UEFA_Champions_League_qualifying_rounds>	dbo:wikiPageWikiLink	dbr:Dudelange .
+dbr:List_of_twin_towns_and_sister_cities_in_Portugal	dbo:wikiPageWikiLink	dbr:Dudelange .
+<http://dbpedia.org/resource/2011_UEFA_European_Under-21_Championship_qualification_Group_3>	dbp:stadium	dbr:Dudelange ;
+	dbo:wikiPageWikiLink	dbr:Dudelange .
+<http://dbpedia.org/resource/Fred_St\u00FCrmer>	dbo:birthPlace	dbr:Dudelange ;
+	dbo:wikiPageWikiLink	dbr:Dudelange .
+dbr:Raymond_Wagner	dbo:birthPlace	dbr:Dudelange ;
+	dbo:wikiPageWikiLink	dbr:Dudelange .
+dbr:Victor_Feller	dbo:birthPlace	dbr:Dudelange ;
+	dbo:wikiPageWikiLink	dbr:Dudelange .
+dbr:Nicolas_Pauly	dbo:deathPlace	dbr:Dudelange ;
+	dbo:birthPlace	dbr:Dudelange ;
+	dbo:wikiPageWikiLink	dbr:Dudelange .
+dbr:Wenzel_Profant	dbo:birthPlace	dbr:Dudelange ;
+	dbo:wikiPageWikiLink	dbr:Dudelange .
+dbr:Ernest_Mengel	dbo:deathPlace	dbr:Dudelange ;
+	dbo:birthPlace	dbr:Dudelange ;
+	dbo:wikiPageWikiLink	dbr:Dudelange .
+dbr:Aline_Mayrisch_de_Saint-Hubert	dbo:wikiPageWikiLink	dbr:Dudelange .
+<http://dbpedia.org/resource/2014\u201315_PFC_Ludogorets_Razgrad_season>	dbp:location	dbr:Dudelange ;
+	dbo:wikiPageWikiLink	dbr:Dudelange .
+<http://dbpedia.org/resource/2004\u201305_UEFA_Cup>	dbp:stadium	dbr:Dudelange ;
+	dbo:wikiPageWikiLink	dbr:Dudelange .
+<http://dbpedia.org/resource/2010\u201311_UEFA_Europa_League_qualifying_phase>	dbp:stadium	dbr:Dudelange ;
+	dbo:wikiPageWikiLink	dbr:Dudelange .
+<http://dbpedia.org/resource/2019\u201320_Qaraba\u011F_FK_season>	dbo:wikiPageWikiLink	dbr:Dudelange .
+dbr:Total_League	dbo:wikiPageWikiLink	dbr:Dudelange .
+dbr:Charles_Reiff	dbo:deathPlace	dbr:Dudelange ;
+	dbo:birthPlace	dbr:Dudelange ;
+	dbo:wikiPageWikiLink	dbr:Dudelange .
+dbr:Jean_Aniset	dbo:birthPlace	dbr:Dudelange ;
+	dbo:wikiPageWikiLink	dbr:Dudelange .
+dbr:Luxembourg_Cup	dbo:wikiPageWikiLink	dbr:Dudelange .
+<http://dbpedia.org/resource/2007\u201308_Luxembourg_National_Division>	dbo:wikiPageWikiLink	dbr:Dudelange .
+dbr:List_of_twin_towns_and_sister_cities_in_Italy	dbo:wikiPageWikiLink	dbr:Dudelange .
+dbr:List_of_twin_towns_and_sister_cities_in_Poland	dbo:wikiPageWikiLink	dbr:Dudelange .
+dbr:Jean_Hengen	dbo:birthPlace	dbr:Dudelange ;
+	dbp:birthPlace	dbr:Dudelange ;
+	dbo:wikiPageWikiLink	dbr:Dudelange .
+<http://dbpedia.org/resource/2015_UEFA_European_Under-21_Championship_qualification_Group_3>	dbp:stadium	dbr:Dudelange ;
+	dbo:wikiPageWikiLink	dbr:Dudelange .
+dbr:F91_Dudelange	dbo:wikiPageWikiLink	dbr:Dudelange ;
+	dbp:ground	dbr:Dudelange ;
+	dbo:ground	dbr:Dudelange .
+<http://dbpedia.org/resource/Free_Luxembourger_Workers\u0027_Union>	dbo:wikiPageWikiLink	dbr:Dudelange .
+<http://dbpedia.org/resource/2006\u201307_Luxembourg_National_Division>	dbo:wikiPageWikiLink	dbr:Dudelange .
+dbr:Croix_de_Gasperich	dbo:wikiPageWikiLink	dbr:Dudelange .
+dbr:Stade_Jos_Nosbaum	dbo:wikiPageWikiLink	dbr:Dudelange .
+<http://dbpedia.org/resource/Esch-sur-Alzette_(canton)>	dbo:subdivision	dbr:Dudelange ;
+	dbo:wikiPageWikiLink	dbr:Dudelange .
+dbr:Bettina_Scholl-Sabbatini	dbo:wikiPageWikiLink	dbr:Dudelange .
+<http://dbpedia.org/resource/Mont_St._Jean,_Luxembourg>	dbo:wikiPageWikiLink	dbr:Dudelange .
+dbr:Michel_Think	dbo:birthPlace	dbr:Dudelange ;
+	dbo:wikiPageWikiLink	dbr:Dudelange .
+dbr:Yvette_Gastauer-Claire	dbo:wikiPageWikiLink	dbr:Dudelange .
+dbr:Hamid_Rahimi	dbo:wikiPageWikiLink	dbr:Dudelange .
+dbr:Steel_industry_in_Luxembourg	dbo:wikiPageWikiLink	dbr:Dudelange .
+dbr:Luxembourg_City	dbo:wikiPageWikiLink	dbr:Dudelange .
+dbr:CFL_Class_2000	dbo:wikiPageWikiLink	dbr:Dudelange .
+<http://dbpedia.org/resource/2017\u201318_UEFA_Youth_League_Domestic_Champions_Path>	dbp:stadium	dbr:Dudelange ;
+	dbo:wikiPageWikiLink	dbr:Dudelange .
+<http://dbpedia.org/resource/34th_Infantry_Division_(Wehrmacht)>	dbo:wikiPageWikiLink	dbr:Dudelange .
+dbr:Fleur_Maxwell	dbo:wikiPageWikiLink	dbr:Dudelange .
+dbr:Nicolas_Biever	dbo:wikiPageWikiLink	dbr:Dudelange .
+dbr:Pol_Schmoetten	dbo:wikiPageWikiLink	dbr:Dudelange .
+dbr:Ben_Gastauer	dbo:birthPlace	dbr:Dudelange ;
+	dbo:wikiPageWikiLink	dbr:Dudelange .
+dbr:Kari_Peters	dbo:birthPlace	dbr:Dudelange ;
+	dbp:birthPlace	dbr:Dudelange ;
+	dbo:wikiPageWikiLink	dbr:Dudelange .
+dbr:Lydia_Mutsch	dbo:wikiPageWikiLink	dbr:Dudelange .
+dbr:Roland_Bombardella	dbo:wikiPageWikiLink	dbr:Dudelange .
+dbr:Mars_Di_Bartolomeo	dbo:wikiPageWikiLink	dbr:Dudelange .
+dbr:Jean_Back	dbo:wikiPageWikiLink	dbr:Dudelange .
+dbr:Aloyse_Meyer	dbo:wikiPageWikiLink	dbr:Dudelange .
+dbr:Bernard_Berg	dbo:wikiPageWikiLink	dbr:Dudelange .
+dbr:Robert_Schiel	dbo:birthPlace	dbr:Dudelange ;
+	dbp:birthPlace	dbr:Dudelange ;
+	dbo:wikiPageWikiLink	dbr:Dudelange .
+dbr:List_of_football_clubs_in_Luxembourg	dbo:wikiPageWikiLink	dbr:Dudelange .
+dbr:Frank_Peeters	dbo:wikiPageWikiLink	dbr:Dudelange .
+dbr:City_rights_in_the_Low_Countries	dbo:wikiPageWikiLink	dbr:Dudelange .
+dbr:List_of_twin_towns_and_sister_cities_in_Montenegro	dbo:wikiPageWikiLink	dbr:Dudelange .
+dbr:Jean_Schmit	dbo:deathPlace	dbr:Dudelange ;
+	dbo:birthPlace	dbr:Dudelange ;
+	dbp:birthPlace	dbr:Dudelange ;
+	dbo:wikiPageWikiLink	dbr:Dudelange .
+dbr:Roger_Gilson	dbo:birthPlace	dbr:Dudelange ;
+	dbp:birthPlace	dbr:Dudelange ;
+	dbo:wikiPageWikiLink	dbr:Dudelange .
+dbr:Alex_Bodry	dbo:wikiPageWikiLink	dbr:Dudelange .
+dbr:List_of_mayors_of_Dudelange	dbo:wikiPageWikiLink	dbr:Dudelange .
+<http://dbpedia.org/resource/2019\u201320_FC_Ararat-Armenia_season>	dbo:wikiPageWikiLink	dbr:Dudelange .
+dbr:List_of_land_borders_with_dates_of_establishment	dbo:wikiPageWikiLink	dbr:Dudelange .
+<http://dbpedia.org/resource/1993\u201394_European_Cup_Winners\u0027_Cup>	dbp:stadium	dbr:Dudelange ;
+	dbo:wikiPageWikiLink	dbr:Dudelange .
+<http://dbpedia.org/resource/1994\u201395_UEFA_Cup_Winners\u0027_Cup>	dbp:stadium	dbr:Dudelange ;
+	dbo:wikiPageWikiLink	dbr:Dudelange .
+dbr:Dudelange_Radio_Tower	dbo:location	dbr:Dudelange ;
+	dbp:location	dbr:Dudelange ;
+	dbo:wikiPageWikiLink	dbr:Dudelange .
+dbr:Camille_Libar	dbo:birthPlace	dbr:Dudelange ;
+	dbo:wikiPageWikiLink	dbr:Dudelange .
+<http://dbpedia.org/resource/Ren\u00E9_Peters>	dbo:birthPlace	dbr:Dudelange ;
+	dbp:birthPlace	dbr:Dudelange ;
+	dbo:wikiPageWikiLink	dbr:Dudelange .
+dbr:Erny_Brenner	dbo:birthPlace	dbr:Dudelange ;
+	dbp:birthPlace	dbr:Dudelange ;
+	dbo:wikiPageWikiLink	dbr:Dudelange .
+<http://dbpedia.org/resource/2005\u201306_UEFA_Champions_League_qualifying_rounds>	dbp:stadium	dbr:Dudelange ;
+	dbo:wikiPageWikiLink	dbr:Dudelange .
+dbr:Caspar_Mathias_Spoo	dbo:wikiPageWikiLink	dbr:Dudelange .
+dbr:Robbie_Benson	dbo:wikiPageWikiLink	dbr:Dudelange .
+<http://dbpedia.org/resource/2009\u201310_Luxembourg_Cup>	dbp:stadium	dbr:Dudelange ;
+	dbo:wikiPageWikiLink	dbr:Dudelange .
+dbr:Brasserie_de_Dudelange	dbp:locationCity	dbr:Dudelange ;
+	dbo:wikiPageWikiLink	dbr:Dudelange .
+dbr:US_Dudelange	dbo:wikiPageWikiLink	dbr:Dudelange .
+dbr:Alliance_Dudelange	dbo:wikiPageWikiLink	dbr:Dudelange .
+dbr:Dudelingen	dbo:wikiPageWikiLink	dbr:Dudelange ;
+	dbo:wikiPageRedirects	dbr:Dudelange .
+dbr:Diddeleng	dbo:wikiPageWikiLink	dbr:Dudelange ;
+	dbo:wikiPageRedirects	dbr:Dudelange .
+dbr:Feltre	dbo:wikiPageWikiLink	dbr:Dudelange .
+<http://dbpedia.org/resource/2019\u201320_UEFA_Champions_League_qualifying_phase_and_play-off_round>	dbo:wikiPageWikiLink	dbr:Dudelange .
+<http://dbpedia.org/resource/2019\u201320_UEFA_Europa_League_qualifying_phase_and_play-off_round_(Champions_Path)>	dbo:wikiPageWikiLink	dbr:Dudelange .
+dbr:Dominique_Lang	dbo:wikiPageWikiLink	dbr:Dudelange .
+dbr:Pierre_Cao	dbo:wikiPageWikiLink	dbr:Dudelange .
+dbr:List_of_communes_of_Luxembourg	dbo:wikiPageWikiLink	dbr:Dudelange .
+dbr:Plagiophthalmosuchus	dbo:wikiPageWikiLink	dbr:Dudelange .

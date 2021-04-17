@@ -1,0 +1,141 @@
+
+
+
+
+    
+
+    @prefix : <http://ocs.taxonconcept.org/ocs/ad94a9e5-0c4d-49e4-ac92-d891ecc4c13f.rdf#> .
+    
+
+    <geo:41.52578112,-70.67256398;u=10> <http://lod.taxonconcept.org/ontology/txn.owl#areaHasIndividual> :Individual  ;
+<http://lod.taxonconcept.org/ontology/txn.owl#areaHasObservedSpeciesConcept> <http://lod.taxonconcept.org/ses/IL2k3.html#Species>  ;
+<http://lod.taxonconcept.org/ontology/txn.owl#areaHasOccurrence> :Occurrence  ;
+<http://lod.taxonconcept.org/ontology/txn.owl#areaInStateProvince> <http://sws.geonames.org/6254926/>  ;
+<http://lod.taxonconcept.org/ontology/txn.owl#areaWithInFeature> <http://sws.geonames.org/4929772/>  ;
+<http://lod.taxonconcept.org/ontology/txn.owl#continent> "North America"  ;
+<http://lod.taxonconcept.org/ontology/txn.owl#country> "United States"  ;
+<http://lod.taxonconcept.org/ontology/txn.owl#countryCode> "US"  ;
+<http://lod.taxonconcept.org/ontology/txn.owl#county> "Barnstable"  ;
+<http://lod.taxonconcept.org/ontology/txn.owl#localityText> "Woods Hole"  ;
+<http://lod.taxonconcept.org/ontology/txn.owl#locationName> "TDWG Woods Hole BioBlitz"  ;
+<http://lod.taxonconcept.org/ontology/txn.owl#radius> "10"  ;
+<http://lod.taxonconcept.org/ontology/txn.owl#stateProvince> "Massachusetts"  ;
+<http://purl.org/dc/terms/created> "2010-10-28T00:00:00-0500"  ;
+<http://purl.org/dc/terms/identifier> "geo:41.52578112,-70.67256398;u=10"  ;
+<http://purl.org/dc/terms/isPartOf> <http://lod.taxonconcept.org/ontology/txn.owl#TDWG2010_BioBlitz> ,<http://lod.taxonconcept.org/ontology/void.rdf#TaxonConcept>  ;
+<http://purl.org/dc/terms/modified> "2013-02-14T12:13:33-0600"  ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://lod.taxonconcept.org/ontology/txn.owl#Area>  ;
+<http://www.w3.org/2000/01/rdf-schema#label> "41.52578112, -70.67256398 Radius 10 meters"  ;
+<http://www.w3.org/2003/01/geo/wgs84_pos#lat> "41.52578112"  ;
+<http://www.w3.org/2003/01/geo/wgs84_pos#long> "-70.67256398"  ;
+<http://www.w3.org/2007/05/powder-s#describedby> <http://ocs.taxonconcept.org/ocs/ad94a9e5-0c4d-49e4-ac92-d891ecc4c13f.rdf>   .<http://lod.taxonconcept.org/ses/IL2k3.html#Species> <http://lod.taxonconcept.org/ontology/txn.owl#isExpectedIn> <http://sws.geonames.org/4929772/> ,<http://sws.geonames.org/6254926/> ,<http://sws.geonames.org/6255149/>  ;
+<http://lod.taxonconcept.org/ontology/txn.owl#speciesConceptHasObservedArea> <geo:41.52578112,-70.67256398;u=10>  ;
+<http://lod.taxonconcept.org/ontology/txn.owl#speciesConceptHasOcccurrence> :Occurrence  ;
+<http://purl.org/dc/terms/isPartOf> <http://lod.taxonconcept.org/ontology/txn.owl#TDWG2010_BioBlitz> ,<http://lod.taxonconcept.org/ontology/void.rdf#TaxonConcept>  ;
+<http://purl.org/dc/terms/modified> "2013-02-14T12:13:33-0600"  ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://lod.taxonconcept.org/ontology/txn.owl#SpeciesConcept>  ;
+<http://www.w3.org/2007/05/powder-s#describedby> <http://ocs.taxonconcept.org/ocs/ad94a9e5-0c4d-49e4-ac92-d891ecc4c13f.rdf>  ;
+<http://xmlns.com/foaf/0.1/depiction> <http://assets.taxonconcept.org/tdwg2010bioblitz/7508.jpg>   .<http://ocs.taxonconcept.org/ocs/ad94a9e5-0c4d-49e4-ac92-d891ecc4c13f.html> <http://purl.org/dc/terms/created> "2010-10-28T00:00:00-0500"  ;
+<http://purl.org/dc/terms/creator> <http://lod.taxonconcept.org/ontology/people.owl#Peter_J_DeVries>  ;
+<http://purl.org/dc/terms/identifier> "http://ocs.taxonconcept.org/ocs/ad94a9e5-0c4d-49e4-ac92-d891ecc4c13f.html"  ;
+<http://purl.org/dc/terms/isPartOf> <http://lod.taxonconcept.org/ontology/void.rdf#TaxonConcept>  ;
+<http://purl.org/dc/terms/modified> "2013-02-14T12:13:33-0600"  ;
+<http://purl.org/dc/terms/publisher> <http://lod.taxonconcept.org/ontology/txn.owl#TaxonConcept_Knowledge_Base_Project>  ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/bibo/Webpage>  ;
+<http://www.w3.org/2000/01/rdf-schema#label> "HTML for Occurrence of Taxus baccata se:IL2k3 at TDWG Woods Hole BioBlitz from 2010-09-29 to 2010-09-29"  ;
+<http://www.w3.org/2007/05/powder-s#describedby> <http://ocs.taxonconcept.org/ocs/ad94a9e5-0c4d-49e4-ac92-d891ecc4c13f.rdf>  ;
+<http://xmlns.com/foaf/0.1/topic> <geo:41.52578112,-70.67256398;u=10> ,<http://lod.taxonconcept.org/ses/IL2k3.html#Species> ,<http://ocs.taxonconcept.org/ocs/ad94a9e5-0c4d-49e4-ac92-d891ecc4c13f.html> ,<http://ocs.taxonconcept.org/ocs/ad94a9e5-0c4d-49e4-ac92-d891ecc4c13f.rdf> ,<http://ocs.taxonconcept.org/ocs/ad94a9e5-0c4d-49e4-ac92-d891ecc4c13f.rdf#Identification_0001> ,:Individual ,:Occurrence ,<http://sws.geonames.org/4929772/> ,<http://sws.geonames.org/6254926/> ,<http://sws.geonames.org/6255149/>   .<http://ocs.taxonconcept.org/ocs/ad94a9e5-0c4d-49e4-ac92-d891ecc4c13f.rdf> <http://creativecommons.org/ns#attributionURL> <http://lod.taxonconcept.org>  ;
+<http://creativecommons.org/ns#license> <http://www.opendatacommons.org/licenses/by/>  ;
+<http://purl.org/dc/terms/created> "2010-10-28T00:00:00-0500"  ;
+<http://purl.org/dc/terms/creator> <http://lod.taxonconcept.org/ontology/people.owl#Peter_J_DeVries>  ;
+<http://purl.org/dc/terms/identifier> "http://ocs.taxonconcept.org/ocs/ad94a9e5-0c4d-49e4-ac92-d891ecc4c13f.rdf"  ;
+<http://purl.org/dc/terms/isPartOf> <http://lod.taxonconcept.org/ontology/void.rdf#TaxonConcept>  ;
+<http://purl.org/dc/terms/modified> "2013-02-14T12:13:33-0600"  ;
+<http://purl.org/dc/terms/publisher> <http://lod.taxonconcept.org/ontology/txn.owl#TaxonConcept_Knowledge_Base_Project>  ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/bibo/Document>  ;
+<http://www.w3.org/2000/01/rdf-schema#label> "RDF for Occurrence of Taxus baccata se:IL2k3 at TDWG Woods Hole BioBlitz from 2010-09-29 to 2010-09-29"  ;
+<http://www.w3.org/2007/05/powder-s#describedby> <http://ocs.taxonconcept.org/ocs/ad94a9e5-0c4d-49e4-ac92-d891ecc4c13f.rdf>  ;
+<http://xmlns.com/foaf/0.1/topic> <geo:41.52578112,-70.67256398;u=10> ,<http://lod.taxonconcept.org/ses/IL2k3.html#Species> ,<http://ocs.taxonconcept.org/ocs/ad94a9e5-0c4d-49e4-ac92-d891ecc4c13f.html> ,<http://ocs.taxonconcept.org/ocs/ad94a9e5-0c4d-49e4-ac92-d891ecc4c13f.rdf> ,<http://ocs.taxonconcept.org/ocs/ad94a9e5-0c4d-49e4-ac92-d891ecc4c13f.rdf#Identification_0001> ,:Individual ,:Occurrence ,<http://sws.geonames.org/4929772/> ,<http://sws.geonames.org/6254926/> ,<http://sws.geonames.org/6255149/>   .<http://ocs.taxonconcept.org/ocs/ad94a9e5-0c4d-49e4-ac92-d891ecc4c13f.rdf#Identification_0001> <http://creativecommons.org/ns#attributionName> "The Biofinity Project"  ;
+<http://creativecommons.org/ns#attributionURL> <http://lod.taxonconcept.org/people/tdwg2010bioblitz.rdf#The_Biofinity_Project>  ;
+<http://lod.taxonconcept.org/ontology/txn.owl#identificationHasOccurrence> :Occurrence  ;
+<http://lod.taxonconcept.org/ontology/txn.owl#identificationHasSpeciesConcept> <http://lod.taxonconcept.org/ses/IL2k3.html#Species>  ;
+<http://lod.taxonconcept.org/ontology/txn.owl#identificationMethod> <http://lod.taxonconcept.org/ontology/txn.owl#HumanSightRecognition>  ;
+<http://lod.taxonconcept.org/ontology/txn.owl#identificationOfIndividual> :Individual  ;
+<http://lod.taxonconcept.org/ontology/txn.owl#identificationReferenceUsed> <http://lod.taxonconcept.org/ontology/txn.owl#ID_Reference_NoneCited>  ;
+<http://lod.taxonconcept.org/ontology/txn.owl#identifiedBy> <http://lod.taxonconcept.org/people/tdwg2010bioblitz.rdf#The_Biofinity_Project>  ;
+<http://lod.taxonconcept.org/ontology/txn.owl#scientificName> "Taxus baccata"  ;
+<http://purl.org/dc/terms/isPartOf> <http://lod.taxonconcept.org/ontology/txn.owl#TDWG2010_BioBlitz> ,<http://lod.taxonconcept.org/ontology/void.rdf#TaxonConcept>  ;
+<http://purl.org/dc/terms/modified> "2013-02-14T12:13:33-0600"  ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://lod.taxonconcept.org/ontology/txn.owl#Identification> ,<http://lod.taxonconcept.org/ses/IL2k3.html#Identification>  ;
+<http://www.w3.org/2000/01/rdf-schema#label> "Identification #0001"  ;
+<http://www.w3.org/2006/time#year> "2010"^^<http://www.w3.org/2001/XMLSchema#gYear>  ;
+<http://www.w3.org/2007/05/powder-s#describedby> <http://ocs.taxonconcept.org/ocs/ad94a9e5-0c4d-49e4-ac92-d891ecc4c13f.rdf>  ;
+<http://xmlns.com/foaf/0.1/depiction> <http://assets.taxonconcept.org/tdwg2010bioblitz/7508.jpg>   .:Individual <http://lod.taxonconcept.org/ontology/txn.owl#basisOfRecord> <http://lod.taxonconcept.org/ontology/txn.owl#BasisOfRecord_StillImage>  ;
+<http://lod.taxonconcept.org/ontology/txn.owl#catalogCode> "7508"  ;
+<http://lod.taxonconcept.org/ontology/txn.owl#collectionCode> "BioBlitz2010"  ;
+<http://lod.taxonconcept.org/ontology/txn.owl#hasCollector> <http://lod.taxonconcept.org/people/tdwg2010bioblitz.rdf#BioBlitz_User>  ;
+<http://lod.taxonconcept.org/ontology/txn.owl#individualHasCurrrentIdentificationAssertion> <http://ocs.taxonconcept.org/ocs/ad94a9e5-0c4d-49e4-ac92-d891ecc4c13f.rdf#Identification_0001>  ;
+<http://lod.taxonconcept.org/ontology/txn.owl#individualHasOccurrence> :Occurrence  ;
+<http://lod.taxonconcept.org/ontology/txn.owl#individualHasSpeciesConcept> <http://lod.taxonconcept.org/ses/IL2k3.html#Species>  ;
+<http://lod.taxonconcept.org/ontology/txn.owl#individualStatus> <http://lod.taxonconcept.org/ontology/txn.owl.rdf#IndividualStatus_Unknown>  ;
+<http://lod.taxonconcept.org/ontology/txn.owl#institutionCode> "TDWG"  ;
+<http://lod.taxonconcept.org/ontology/txn.owl#scientificName> "Taxus baccata"  ;
+<http://purl.org/dc/terms/isPartOf> <http://lod.taxonconcept.org/ontology/txn.owl#TDWG2010_BioBlitz> ,<http://lod.taxonconcept.org/ontology/void.rdf#TaxonConcept>  ;
+<http://purl.org/dc/terms/modified> "2013-02-14T12:13:33-0600"  ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://lod.taxonconcept.org/ontology/txn.owl#SpeciesIndividual> ,<http://lod.taxonconcept.org/ses/IL2k3.rdf#Individual>  ;
+<http://www.w3.org/2000/01/rdf-schema#label> "Individual Organism http://ocs.taxonconcept.org/ocs/ad94a9e5-0c4d-49e4-ac92-d891ecc4c13f.rdf#Individual"  ;
+<http://www.w3.org/2002/07/owl#sameAs> <urn:uuid:d53f1b0c-46c2-4d2f-b00a-8a336cbec2c0>  ;
+<http://www.w3.org/2007/05/powder-s#describedby> <http://ocs.taxonconcept.org/ocs/ad94a9e5-0c4d-49e4-ac92-d891ecc4c13f.rdf>  ;
+<http://xmlns.com/foaf/0.1/depiction> <http://assets.taxonconcept.org/tdwg2010bioblitz/7508.jpg>   .:Occurrence <http://creativecommons.org/ns#attributionName> "BioBlitz User"  ;
+<http://creativecommons.org/ns#attributionURL> <http://lod.taxonconcept.org/people/tdwg2010bioblitz.rdf#BioBlitz_User>  ;
+<http://creativecommons.org/ns#license> <http://www.opendatacommons.org/licenses/by/>  ;
+<http://lod.taxonconcept.org/ontology/txn.owl#basisOfRecord> <http://lod.taxonconcept.org/ontology/txn.owl#BasisOfRecord_StillImage>  ;
+<http://lod.taxonconcept.org/ontology/txn.owl#class> "Pinopsida"  ;
+<http://lod.taxonconcept.org/ontology/txn.owl#commonName> "English Yew"  ;
+<http://lod.taxonconcept.org/ontology/txn.owl#continent> "North America"  ;
+<http://lod.taxonconcept.org/ontology/txn.owl#country> "United States"  ;
+<http://lod.taxonconcept.org/ontology/txn.owl#countryCode> "US"  ;
+<http://lod.taxonconcept.org/ontology/txn.owl#county> "Barnstable"  ;
+<http://lod.taxonconcept.org/ontology/txn.owl#endDate> "2010-09-29"  ;
+<http://lod.taxonconcept.org/ontology/txn.owl#family> "Taxaceae"  ;
+<http://lod.taxonconcept.org/ontology/txn.owl#genus> "Taxus"  ;
+<http://lod.taxonconcept.org/ontology/txn.owl#georeferenceProtocol> <http://lod.taxonconcept.org/ontology/txn.owl#GeoProtocol_GPS>  ;
+<http://lod.taxonconcept.org/ontology/txn.owl#georeferenceVerificationStatus> <http://lod.taxonconcept.org/ontology/txn.owl#GeoVerifiedByCollector>  ;
+<http://lod.taxonconcept.org/ontology/txn.owl#hasCollector> <http://lod.taxonconcept.org/people/tdwg2010bioblitz.rdf#BioBlitz_User>  ;
+<http://lod.taxonconcept.org/ontology/txn.owl#kingdom> "Plantae"  ;
+<http://lod.taxonconcept.org/ontology/txn.owl#localityText> "Woods Hole"  ;
+<http://lod.taxonconcept.org/ontology/txn.owl#locationName> "TDWG Woods Hole BioBlitz"  ;
+<http://lod.taxonconcept.org/ontology/txn.owl#occurrenceHasArea> <geo:41.52578112,-70.67256398;u=10>  ;
+<http://lod.taxonconcept.org/ontology/txn.owl#occurrenceHasIndividual> :Individual  ;
+<http://lod.taxonconcept.org/ontology/txn.owl#occurrenceHasSpeciesConcept> <http://lod.taxonconcept.org/ses/IL2k3.html#Species>  ;
+<http://lod.taxonconcept.org/ontology/txn.owl#occurrenceInContinent> <http://sws.geonames.org/6255149/>  ;
+<http://lod.taxonconcept.org/ontology/txn.owl#occurrenceInCounty> <http://sws.geonames.org/4929772/>  ;
+<http://lod.taxonconcept.org/ontology/txn.owl#occurrenceInStateProvince> <http://sws.geonames.org/6254926/>  ;
+<http://lod.taxonconcept.org/ontology/txn.owl#order> "Pinales"  ;
+<http://lod.taxonconcept.org/ontology/txn.owl#phylum> "Pinophyta"  ;
+<http://lod.taxonconcept.org/ontology/txn.owl#recordedBy> <http://lod.taxonconcept.org/people/tdwg2010bioblitz.rdf#BioBlitz_User>  ;
+<http://lod.taxonconcept.org/ontology/txn.owl#samplingProtocol> <http://lod.taxonconcept.org/ontology/txn.owl#SamplingProtocol_IndividualObservation>  ;
+<http://lod.taxonconcept.org/ontology/txn.owl#scientificName> "Taxus baccata"  ;
+<http://lod.taxonconcept.org/ontology/txn.owl#startDate> "2010-09-29"  ;
+<http://lod.taxonconcept.org/ontology/txn.owl#stateProvince> "Massachusetts"  ;
+<http://purl.org/dc/terms/created> "2010-10-28T00:00:00-0500"  ;
+<http://purl.org/dc/terms/identifier> "http://ocs.taxonconcept.org/ocs/ad94a9e5-0c4d-49e4-ac92-d891ecc4c13f.rdf#Occurrence"  ;
+<http://purl.org/dc/terms/isPartOf> <http://lod.taxonconcept.org/ontology/txn.owl#TDWG2010_BioBlitz> ,<http://lod.taxonconcept.org/ontology/void.rdf#TaxonConcept>  ;
+<http://purl.org/dc/terms/modified> "2013-02-14T12:13:33-0600"  ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://lod.taxonconcept.org/ontology/txn.owl#Occurrence> ,<http://lod.taxonconcept.org/ses/IL2k3.rdf#Occurrence>  ;
+<http://www.w3.org/2000/01/rdf-schema#label> "Occurrence of Taxus baccata se:IL2k3 at TDWG Woods Hole BioBlitz from 2010-09-29 to 2010-09-29"  ;
+<http://www.w3.org/2003/01/geo/wgs84_pos#lat> "41.52578112"  ;
+<http://www.w3.org/2003/01/geo/wgs84_pos#long> "-70.67256398"  ;
+<http://www.w3.org/2006/time#dayOfYear> "272"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger>  ;
+<http://www.w3.org/2006/time#year> "2010"^^<http://www.w3.org/2001/XMLSchema#gYear>  ;
+<http://www.w3.org/2007/05/powder-s#describedby> <http://ocs.taxonconcept.org/ocs/ad94a9e5-0c4d-49e4-ac92-d891ecc4c13f.rdf>  ;
+<http://xmlns.com/foaf/0.1/depiction> <http://assets.taxonconcept.org/tdwg2010bioblitz/7508.jpg>   .<http://sws.geonames.org/4929772/> <http://lod.taxonconcept.org/ontology/txn.owl#hasExpectationOf> <http://lod.taxonconcept.org/ses/IL2k3.html#Species>  ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.geonames.org/ontology#Feature>  ;
+<http://www.w3.org/2007/05/powder-s#describedby> <http://ocs.taxonconcept.org/ocs/ad94a9e5-0c4d-49e4-ac92-d891ecc4c13f.rdf>   .<http://sws.geonames.org/6254926/> <http://lod.taxonconcept.org/ontology/txn.owl#hasExpectationOf> <http://lod.taxonconcept.org/ses/IL2k3.html#Species>  ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.geonames.org/ontology#Feature>  ;
+<http://www.w3.org/2007/05/powder-s#describedby> <http://ocs.taxonconcept.org/ocs/ad94a9e5-0c4d-49e4-ac92-d891ecc4c13f.rdf>   .<http://sws.geonames.org/6255149/> <http://lod.taxonconcept.org/ontology/txn.owl#hasExpectationOf> <http://lod.taxonconcept.org/ses/IL2k3.html#Species>  ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.geonames.org/ontology#Feature>  ;
+<http://www.w3.org/2007/05/powder-s#describedby> <http://ocs.taxonconcept.org/ocs/ad94a9e5-0c4d-49e4-ac92-d891ecc4c13f.rdf>   .
+
+
+

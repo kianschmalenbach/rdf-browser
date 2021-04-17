@@ -1,0 +1,290 @@
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+dbr:Foreign_Excellent_Raincoat_Company	dbo:wikiPageWikiLink	dbr:Henri_Jaspar .
+<http://dbpedia.org/resource/Minister_of_Finance_(Belgium)>	dbo:wikiPageWikiLink	dbr:Henri_Jaspar .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+wikipedia-en:Henri_Jaspar	foaf:primaryTopic	dbr:Henri_Jaspar .
+<http://dbpedia.org/resource/Minister_of_the_Interior_(Belgium)>	dbo:wikiPageWikiLink	dbr:Henri_Jaspar .
+dbr:Jules_Renkin__Tenure__1	dbo:predecessor	dbr:Henri_Jaspar .
+<http://dbpedia.org/resource/F\u00E9licien_Cattier>	dbo:wikiPageWikiLink	dbr:Henri_Jaspar .
+dbr:Jules_Renkin	dbo:wikiPageWikiLink	dbr:Henri_Jaspar .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Jules_Renkin	dbp:predecessor	dbr:Henri_Jaspar .
+<http://dbpedia.org/resource/1870_in_Belgium>	dbo:wikiPageWikiLink	dbr:Henri_Jaspar .
+<http://dbpedia.org/resource/1939>	dbo:wikiPageWikiLink	dbr:Henri_Jaspar .
+<http://dbpedia.org/resource/1926_in_Belgium>	dbo:wikiPageWikiLink	dbr:Henri_Jaspar .
+<http://dbpedia.org/resource/1927_in_Belgium>	dbo:wikiPageWikiLink	dbr:Henri_Jaspar .
+<http://dbpedia.org/resource/1928_in_Belgium>	dbo:wikiPageWikiLink	dbr:Henri_Jaspar .
+<http://dbpedia.org/resource/1930_in_Belgium>	dbo:wikiPageWikiLink	dbr:Henri_Jaspar .
+<http://dbpedia.org/resource/1931_in_Belgium>	dbo:wikiPageWikiLink	dbr:Henri_Jaspar .
+<http://dbpedia.org/resource/Minister_of_the_Colonies_(Belgium)>	dbo:wikiPageWikiLink	dbr:Henri_Jaspar .
+<http://dbpedia.org/resource/Li\u00E8ge_(Chamber_of_Representatives_constituency)>	dbo:wikiPageWikiLink	dbr:Henri_Jaspar .
+dbr:List_of_people_on_the_postage_stamps_of_Belgium	dbo:wikiPageWikiLink	dbr:Henri_Jaspar .
+dbr:Albert_I_of_Belgium	dbo:wikiPageWikiLink	dbr:Henri_Jaspar .
+dbr:Leopold_Trepper	dbo:wikiPageWikiLink	dbr:Henri_Jaspar .
+dbr:India_Knight	dbo:wikiPageWikiLink	dbr:Henri_Jaspar .
+dbr:Order_of_Saints_Maurice_and_Lazarus	dbo:wikiPageWikiLink	dbr:Henri_Jaspar .
+dbr:List_of_state_leaders_in_1931	dbo:wikiPageWikiLink	dbr:Henri_Jaspar .
+<http://dbpedia.org/resource/List_of_state_leaders_in_the_20th_century_(1901\u20131950)>	dbo:wikiPageWikiLink	dbr:Henri_Jaspar .
+dbr:Marcel-Henri_Jaspar	dbo:wikiPageWikiLink	dbr:Henri_Jaspar .
+<http://dbpedia.org/resource/1929_in_Belgium>	dbo:wikiPageWikiLink	dbr:Henri_Jaspar .
+<http://dbpedia.org/resource/1939_in_Belgium>	dbo:wikiPageWikiLink	dbr:Henri_Jaspar .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Henri_Jaspar	rdf:type	yago:WikicatPeopleFromSchaerbeek ,
+		yago:Owner110389398 ,
+		yago:Officeholder110371450 ,
+		yago:Official110372373 ,
+		yago:SkilledWorker110605985 ,
+		yago:Politician110450303 .
+@prefix schema:	<http://schema.org/> .
+dbr:Henri_Jaspar	rdf:type	schema:Person ,
+		yago:Worker109632518 ,
+		foaf:Person ,
+		dbo:OfficeHolder .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Henri_Jaspar	rdf:type	owl:Thing ,
+		yago:Holder110180178 ,
+		dbo:Politician .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Henri_Jaspar	rdf:type	wikidata:Q215627 ,
+		yago:Leader109623038 ,
+		yago:Professional110480253 ,
+		dbo:Person ,
+		yago:Object100002684 ,
+		yago:Person100007846 ,
+		yago:PhysicalEntity100001930 ,
+		yago:WikicatBelgianLawyers ,
+		yago:Organism100004475 ,
+		yago:Whole100003553 ,
+		yago:YagoLegalActor ,
+		wikidata:Q24229398 ,
+		yago:YagoLegalActorGeo ,
+		dbo:Agent ,
+		yago:CausalAgent100007347 ,
+		yago:Adult109605289 ,
+		yago:LivingThing100004258 ,
+		wikidata:Q5 ,
+		yago:Executive110069645 ,
+		yago:Administrator109770949 ,
+		wikidata:Q82955 ,
+		yago:Head110162991 ,
+		yago:WikicatBelgianPeople ,
+		yago:Lawyer110249950 ,
+		yago:Minister110320863 ,
+		yago:WikicatBelgianMinistersOfState ,
+		yago:WikicatForeignMinistersOfBelgium ,
+		yago:WikicatBelgianPoliticians ,
+		yago:WikicatPrimeMinistersOfBelgium ,
+		yago:WikicatGovernmentMinistersOfBelgium ,
+		yago:ForeignMinister110103794 ,
+		yago:FinanceMinister110089892 ,
+		yago:WikicatFinanceMinistersOfBelgium .
+@prefix ns10:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Henri_Jaspar	rdf:type	ns10:NaturalPerson ,
+		ns10:Agent .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Henri_Jaspar	rdfs:label	"\u0416\u0430\u0441\u043F\u0430\u0440, \u0410\u043D\u0440\u0438"@ru ,
+		"Henri Jaspar"@fr ,
+		"Henri Jaspar"@nl ,
+		"\u30A2\u30F3\u30EA\u30FB\u30B8\u30E3\u30B9\u30D1\u30FC\u30EB"@ja ,
+		"Henri Jaspar"@it ,
+		"Henri Jaspar"@en ,
+		"Henri Jaspar"@pl ,
+		"Henri Jaspar"@sv ,
+		"Henri Jaspar"@de ,
+		"\u0410\u043D\u0440\u0456 \u0416\u0430\u0441\u043F\u0430\u0440"@uk ,
+		"Henri Jaspar"@pt ;
+	rdfs:comment	"Henri Jaspar (Schaarbeek, 28 juli 1870 - Sint-Gillis, 15 februari 1939) was een Belgisch katholiek politicus, die twee keer premier van Belgi\u00EB was."@nl ,
+		"Henri Jaspar (Schaerbeek, 28 luglio 1870 \u2013 Bruxelles, 15 febbraio 1939) \u00E8 stato un politico belga. \u00C8 stato Primo Ministro dal 20 maggio 1926 al 6 giugno 1931."@it ,
+		"Henri Jaspar (ur. 28 lipca 1870 w Schaerbeek, zm. 15 lutego 1939 w Brukseli) \u2013 belgijski polityk, dzia\u0142acz . W 1919 zosta\u0142 deputowanym do Izby Reprezentant\u00F3w. Zasiada\u0142 w niej do 1936. By\u0142 ministrem: gospodarki (1918-1920), spraw wewn\u0119trznych (1920, 1926-1927, 1931), spraw zagranicznych (1920-1924, 1934), kolonii (1927-1929, 1930-1931) i finans\u00F3w (1932\u20131934). W latach 1926\u20131931 pe\u0142ni\u0142 funkcj\u0119 premiera Belgii. W 1923 odznaczony Orderem Or\u0142a Bia\u0142ego."@pl ,
+		"\u0410\u043D\u0440\u0456 \u0416\u0430\u0441\u043F\u0430\u0440 (28 \u043B\u0438\u043F\u043D\u044F 1870 \u2014 15 \u043B\u044E\u0442\u043E\u0433\u043E 1939) \u2014 \u0431\u0435\u043B\u044C\u0433\u0456\u0439\u0441\u044C\u043A\u0438\u0439 \u043A\u0430\u0442\u043E\u043B\u0438\u0446\u044C\u043A\u0438\u0439 \u043F\u043E\u043B\u0456\u0442\u0438\u0447\u043D\u0438\u0439 \u0434\u0456\u044F\u0447."@uk ,
+		"Henri Jaspar (28 July 1870 \u2013 15 February 1939) was a Belgian Catholic Party politician. Jaspar was born in Schaerbeek and trained as a lawyer. He represented Li\u00E8ge as a Catholic in the Belgian Chamber of Representatives from 1919 until 1936. He helped create the Belgium-Luxembourg Economic Union in 1921, and served as the 27th Prime Minister of Belgium from 1926 to 1931. In 1924 he was made an honorary Minister of State. He held several ministerial positions including; \n* Minister of Economic Affairs (1918\u20131920) \n* Foreign Minister (1920\u20131924 and 1934) \n* Minister of Finance (1932\u20131934)"@en ,
+		"Henri Jaspar (1870 \u2014 1939) foi um pol\u00EDtico da B\u00E9lgica. Ocupou o lugar de primeiro-ministro da B\u00E9lgica (ou Ministro-Presidente) de 20 de Maio de 1926 a 6 de Junho de 1931."@pt ,
+		"Henri Jaspar, f\u00F6dd 28 juli 1870 i Schaerbeek, d\u00F6d 15 februari 1939 i Saint-Gilles, var en belgisk politiker (katolik). Jaspar blev advokat i Bryssel och 1917 det belgiska advokatsamfundets sekreterare och 1919 ledamot av deputeradekammaren. Han var oktober 1918-november 1920 minister f\u00F6r ekonomiska \u00E4renden i koalitionsminist\u00E4ren under L\u00E9on Delacroix samt d\u00E4refter november 1920-mars 1924 utrikesminister f\u00F6rst i minist\u00E4ren Carton de Wiart, sedan i minist\u00E4ren Theunis. Jaspar hade j\u00E4mte Theunis en viktig roll i Belgiens skadest\u00E5ndspolitik efter f\u00F6rsta v\u00E4rldskriget och f\u00F6retr\u00E4dde sitt land vid en m\u00E4ngd konferenser (till exempel i Cannes och Genua 1922) och ministerm\u00F6ten (s\u00E4rskilt med franske konseljpresidenten Raymond Poincar\u00E9)."@sv ,
+		"\u0410\u043D\u0440\u0438\u0301 \u0416\u0430\u0441\u043F\u0430\u0301\u0440 (\u0444\u0440. Henri Jaspar; 28 \u0438\u044E\u043B\u044F 1870, \u0421\u0445\u0430\u0440\u0431\u0435\u043A \u2014 15 \u0444\u0435\u0432\u0440\u0430\u043B\u044F 1939, \u0421\u0435\u043D-\u0416\u0438\u043B\u044C) \u2014 \u0431\u0435\u043B\u044C\u0433\u0438\u0439\u0441\u043A\u0438\u0439 \u043A\u0430\u0442\u043E\u043B\u0438\u0447\u0435\u0441\u043A\u0438\u0439 \u0433\u043E\u0441\u0443\u0434\u0430\u0440\u0441\u0442\u0432\u0435\u043D\u043D\u044B\u0439 \u0434\u0435\u044F\u0442\u0435\u043B\u044C, \u043F\u0440\u0435\u043C\u044C\u0435\u0440-\u043C\u0438\u043D\u0438\u0441\u0442\u0440 \u0411\u0435\u043B\u044C\u0433\u0438\u0438 (1926\u20141931)."@ru ,
+		"Henri Jaspar (* 28. Juli 1870 in Schaarbeek; \u2020 15. Februar 1939 in Saint-Gilles/Sint-Gillis) war ein belgischer katholischer Politiker und Premierminister."@de ,
+		"\u30A2\u30F3\u30EA\u30FB\u30B8\u30E3\u30B9\u30D1\u30FC\u30EB\uFF08Henri Jaspar\u30011870\u5E747\u670828\u65E5 - 1939\u5E742\u670815\u65E5\uFF09\u306F\u30D9\u30EB\u30AE\u30FC\u306E\u653F\u6CBB\u5BB6\u3002 \u30D6\u30EA\u30E5\u30C3\u30BB\u30EB\u306ESchaerbeek\u3067\u751F\u307E\u308C\u305F\u30B8\u30E3\u30B9\u30D1\u30FC\u30EB\u306F\u3001\u6CD5\u5B66\u306E\u535A\u58EB\u53F7\u3092\u53D6\u5F97\u3057\u30011919\u5E74\u306B\u30AB\u30C8\u30EA\u30C3\u30AF\u515A\u306E\u4EE3\u8B70\u9662\u8B70\u54E1\u3068\u306A\u3063\u305F\u30021918\u5E74\u304B\u30891920\u5E74\u307E\u3067\u7D4C\u6E08\u62C5\u5F53\u5927\u81E3\u30011920\u5E74\u304B\u30891924\u5E74\u307E\u3067\u5916\u52D9\u5927\u81E3\u3092\u52D9\u3081\u3001\u306E\u8A2D\u7ACB\u306B\u5C3D\u529B\u3057\u305F\u30021926\u5E74\u304B\u30891931\u5E74\u307E\u3067\u9996\u76F8\u306B\u5C31\u4EFB\u3057\u30011932\u5E74\u304B\u30891934\u5E74\u307E\u3067\u8CA1\u52D9\u5927\u81E3\u30011934\u5E74\u306B\u306F\u518D\u3073\u5916\u52D9\u5927\u81E3\u3092\u52D9\u3081\u305F\u3002"@ja ,
+		"Henri Jaspar est un avocat et homme d'\u00C9tat catholique belge, n\u00E9 \u00E0 Schaerbeek le 28 juillet 1870 et mort \u00E0 Saint-Gilles-lez-Bruxelles le 15 f\u00E9vrier 1939."@fr ;
+	foaf:name	"Henri Jaspar"@en ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Henri_Jaspar.jpg> ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Henri_Jaspar .
+@prefix dct:	<http://purl.org/dc/terms/> .
+dbr:Henri_Jaspar	dct:subject	<http://dbpedia.org/resource/Category:Members_of_the_Chamber_of_Representatives_(Belgium)> ,
+		<http://dbpedia.org/resource/Category:1870_births> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Henri_Jaspar	dct:subject	dbc:Knights_Grand_Cross_of_the_Order_of_Saints_Maurice_and_Lazarus ,
+		dbc:Belgian_Ministers_of_State ,
+		dbc:Burials_at_Schaerbeek_Cemetery ,
+		dbc:Prime_Ministers_of_Belgium ,
+		dbc:People_from_Schaerbeek ,
+		dbc:Finance_ministers_of_Belgium ,
+		<http://dbpedia.org/resource/Category:1939_deaths> ,
+		<http://dbpedia.org/resource/Category:Catholic_Party_(Belgium)_politicians> .
+@prefix dbpedia-hu:	<http://hu.dbpedia.org/resource/> .
+dbr:Henri_Jaspar	owl:sameAs	dbpedia-hu:Henri_Jaspar ,
+		<http://viaf.org/viaf/9838822> .
+@prefix ns15:	<http://d-nb.info/gnd/124446701/about/> .
+dbr:Henri_Jaspar	owl:sameAs	ns15:rdf ,
+		<http://uk.dbpedia.org/resource/\u0410\u043D\u0440\u0456_\u0416\u0430\u0441\u043F\u0430\u0440> .
+@prefix dbpedia-sv:	<http://sv.dbpedia.org/resource/> .
+dbr:Henri_Jaspar	owl:sameAs	dbpedia-sv:Henri_Jaspar .
+@prefix dbpedia-tr:	<http://tr.dbpedia.org/resource/> .
+dbr:Henri_Jaspar	owl:sameAs	dbpedia-tr:Henri_Jaspar ,
+		<http://rdf.freebase.com/ns/m.02q1c1j> ,
+		<http://ru.dbpedia.org/resource/\u0416\u0430\u0441\u043F\u0430\u0440,_\u0410\u043D\u0440\u0438> ,
+		wikidata:Q14994 .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Henri_Jaspar	owl:sameAs	dbpedia-nl:Henri_Jaspar .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Henri_Jaspar	owl:sameAs	yago-res:Henri_Jaspar .
+@prefix ns20:	<https://global.dbpedia.org/id/> .
+dbr:Henri_Jaspar	owl:sameAs	ns20:VxLR ,
+		<http://d-nb.info/gnd/124446701> .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Henri_Jaspar	owl:sameAs	dbpedia-pt:Henri_Jaspar ,
+		<http://ja.dbpedia.org/resource/\u30A2\u30F3\u30EA\u30FB\u30B8\u30E3\u30B9\u30D1\u30FC\u30EB> .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Henri_Jaspar	owl:sameAs	dbpedia-fr:Henri_Jaspar .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Henri_Jaspar	owl:sameAs	dbpedia-pl:Henri_Jaspar ,
+		dbr:Henri_Jaspar .
+@prefix ns24:	<http://mg.dbpedia.org/resource/> .
+dbr:Henri_Jaspar	owl:sameAs	ns24:Henri_Jaspar .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Henri_Jaspar	owl:sameAs	dbpedia-it:Henri_Jaspar .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Henri_Jaspar	owl:sameAs	dbpedia-de:Henri_Jaspar .
+@prefix dbpedia-la:	<http://la.dbpedia.org/resource/> .
+dbr:Henri_Jaspar	owl:sameAs	dbpedia-la:Henricus_Jaspar ;
+	schema:sameAs	<http://viaf.org/viaf/9838822> .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Henri_Jaspar	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Henri_Jaspar?oldid=975510749&ns=0> ;
+	dbp:title	dbr:Prime_Minister_of_Belgium ;
+	dbp:years	1926 ;
+	dbp:name	"Henri Jaspar"@en ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Henri_Jaspar.jpg?width=300> ;
+	dbo:deathPlace	dbr:Belgium ,
+		dbr:Sint-Gillis ;
+	dbp:deathPlace	"Sint-Gillis, Belgium"@en .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Henri_Jaspar	dbo:deathDate	"1939-02-15"^^xsd:date ;
+	dbo:birthPlace	dbr:Belgium ,
+		dbr:Schaerbeek ;
+	dbp:birthPlace	dbr:Belgium ,
+		dbr:Schaerbeek ;
+	dbo:birthDate	"1870-07-28"^^xsd:date ;
+	dbo:wikiPageID	10086872 ;
+	dbo:wikiPageRevisionID	975510749 ;
+	dbo:wikiPageWikiLink	dbc:Knights_Grand_Cross_of_the_Order_of_Saints_Maurice_and_Lazarus ,
+		dbr:Prosper_Poullet ,
+		<http://dbpedia.org/resource/Minister_of_the_Interior_(Belgium)> ,
+		<http://dbpedia.org/resource/Catholic_Party_(Belgium)> ,
+		<http://dbpedia.org/resource/Order_of_Leopold_(Belgium)> ,
+		<http://dbpedia.org/resource/Category:1870_births> ,
+		dbr:Belgium ,
+		<http://dbpedia.org/resource/Belgium\u2013Luxembourg_Economic_Union> ,
+		dbr:Henri_Baels ,
+		<http://dbpedia.org/resource/L\u00E9on_Delacroix> ,
+		dbr:Gustave_Sap ,
+		dbc:Finance_ministers_of_Belgium ,
+		dbr:Minister_of_State ,
+		<http://dbpedia.org/resource/Category:Catholic_Party_(Belgium)_politicians> ,
+		dbr:Paul_Hymans ,
+		dbr:Jules_Renkin ,
+		<http://dbpedia.org/resource/Minister_of_Finance_(Belgium)> ,
+		dbc:Burials_at_Schaerbeek_Cemetery ,
+		<http://dbpedia.org/resource/Saint-Gilles,_Belgium> ,
+		dbr:Order_of_Saints_Maurice_and_Lazarus ,
+		dbr:List_of_Foreign_Ministers_of_Belgium ,
+		dbr:Order_of_Vasa ,
+		dbr:Order_of_Pope_Pius_IX ,
+		dbc:People_from_Schaerbeek ,
+		dbr:Schaerbeek ,
+		dbr:Order_of_St_Michael_and_St_George ,
+		dbr:Legion_of_Honour ,
+		dbr:Maurice_Vauthier ,
+		<http://dbpedia.org/resource/\u00C9douard_Rolin-Jaequemyns> ,
+		dbr:Henry_Carton_de_Wiart ,
+		dbr:Albert_I_of_Belgium ,
+		dbr:Prime_Minister_of_Belgium ,
+		<http://dbpedia.org/resource/Chamber_of_Representatives_(Belgium)> ,
+		<http://dbpedia.org/resource/Category:1939_deaths> ,
+		dbr:List_of_prime_ministers_of_Belgium ,
+		dbc:Belgian_Ministers_of_State ,
+		dbc:Prime_Ministers_of_Belgium ,
+		<http://dbpedia.org/resource/Category:Members_of_the_Chamber_of_Representatives_(Belgium)> ,
+		<http://dbpedia.org/resource/Li\u00E8ge> ,
+		dbr:Politician .
+@prefix ns30:	<http://www.odis.be/lnk/en/> .
+dbr:Henri_Jaspar	dbo:wikiPageExternalLink	ns30:PS_7443 ,
+		<https://www.odis.eu> .
+@prefix dbt:	<http://dbpedia.org/resource/Template:> .
+dbr:Henri_Jaspar	dbp:wikiPageUsesTemplate	dbt:Birth_date ,
+		dbt:Death_date_and_age ,
+		dbt:S-aft ,
+		dbt:S-off ,
+		dbt:Reflist ,
+		dbt:Short_description ,
+		dbt:Authority_control ,
+		dbt:Flag ,
+		dbt:S-bef ,
+		dbt:S-end ,
+		dbt:S-start ,
+		dbt:S-ttl ,
+		dbt:Infobox_officeholder ,
+		dbt:BelgianPrimeMinisters ,
+		dbt:Refimprove ,
+		dbt:Belgium-politician-stub ,
+		dbt:PM20 ;
+	dbp:birthDate	"1870-07-28"^^xsd:date ;
+	dbp:deathDate	"1939-02-15"^^xsd:date ;
+	dbo:abstract	"Henri Jaspar (ur. 28 lipca 1870 w Schaerbeek, zm. 15 lutego 1939 w Brukseli) \u2013 belgijski polityk, dzia\u0142acz . W 1919 zosta\u0142 deputowanym do Izby Reprezentant\u00F3w. Zasiada\u0142 w niej do 1936. By\u0142 ministrem: gospodarki (1918-1920), spraw wewn\u0119trznych (1920, 1926-1927, 1931), spraw zagranicznych (1920-1924, 1934), kolonii (1927-1929, 1930-1931) i finans\u00F3w (1932\u20131934). W latach 1926\u20131931 pe\u0142ni\u0142 funkcj\u0119 premiera Belgii. W 1923 odznaczony Orderem Or\u0142a Bia\u0142ego."@pl ,
+		"Henri Jaspar (1870 \u2014 1939) foi um pol\u00EDtico da B\u00E9lgica. Ocupou o lugar de primeiro-ministro da B\u00E9lgica (ou Ministro-Presidente) de 20 de Maio de 1926 a 6 de Junho de 1931."@pt ,
+		"Henri Jaspar (Schaerbeek, 28 luglio 1870 \u2013 Bruxelles, 15 febbraio 1939) \u00E8 stato un politico belga. \u00C8 stato Primo Ministro dal 20 maggio 1926 al 6 giugno 1931."@it ,
+		"Henri Jaspar (28 July 1870 \u2013 15 February 1939) was a Belgian Catholic Party politician. Jaspar was born in Schaerbeek and trained as a lawyer. He represented Li\u00E8ge as a Catholic in the Belgian Chamber of Representatives from 1919 until 1936. He helped create the Belgium-Luxembourg Economic Union in 1921, and served as the 27th Prime Minister of Belgium from 1926 to 1931. In 1924 he was made an honorary Minister of State. He held several ministerial positions including; \n* Minister of Economic Affairs (1918\u20131920) \n* Foreign Minister (1920\u20131924 and 1934) \n* Minister of Finance (1932\u20131934)"@en ,
+		"\u0410\u043D\u0440\u0456 \u0416\u0430\u0441\u043F\u0430\u0440 (28 \u043B\u0438\u043F\u043D\u044F 1870 \u2014 15 \u043B\u044E\u0442\u043E\u0433\u043E 1939) \u2014 \u0431\u0435\u043B\u044C\u0433\u0456\u0439\u0441\u044C\u043A\u0438\u0439 \u043A\u0430\u0442\u043E\u043B\u0438\u0446\u044C\u043A\u0438\u0439 \u043F\u043E\u043B\u0456\u0442\u0438\u0447\u043D\u0438\u0439 \u0434\u0456\u044F\u0447."@uk ,
+		"Henri Jaspar (Schaarbeek, 28 juli 1870 - Sint-Gillis, 15 februari 1939) was een Belgisch katholiek politicus, die twee keer premier van Belgi\u00EB was."@nl ,
+		"\u0410\u043D\u0440\u0438\u0301 \u0416\u0430\u0441\u043F\u0430\u0301\u0440 (\u0444\u0440. Henri Jaspar; 28 \u0438\u044E\u043B\u044F 1870, \u0421\u0445\u0430\u0440\u0431\u0435\u043A \u2014 15 \u0444\u0435\u0432\u0440\u0430\u043B\u044F 1939, \u0421\u0435\u043D-\u0416\u0438\u043B\u044C) \u2014 \u0431\u0435\u043B\u044C\u0433\u0438\u0439\u0441\u043A\u0438\u0439 \u043A\u0430\u0442\u043E\u043B\u0438\u0447\u0435\u0441\u043A\u0438\u0439 \u0433\u043E\u0441\u0443\u0434\u0430\u0440\u0441\u0442\u0432\u0435\u043D\u043D\u044B\u0439 \u0434\u0435\u044F\u0442\u0435\u043B\u044C, \u043F\u0440\u0435\u043C\u044C\u0435\u0440-\u043C\u0438\u043D\u0438\u0441\u0442\u0440 \u0411\u0435\u043B\u044C\u0433\u0438\u0438 (1926\u20141931)."@ru ,
+		"Henri Jaspar (* 28. Juli 1870 in Schaarbeek; \u2020 15. Februar 1939 in Saint-Gilles/Sint-Gillis) war ein belgischer katholischer Politiker und Premierminister."@de ,
+		"Henri Jaspar, f\u00F6dd 28 juli 1870 i Schaerbeek, d\u00F6d 15 februari 1939 i Saint-Gilles, var en belgisk politiker (katolik). Jaspar blev advokat i Bryssel och 1917 det belgiska advokatsamfundets sekreterare och 1919 ledamot av deputeradekammaren. Han var oktober 1918-november 1920 minister f\u00F6r ekonomiska \u00E4renden i koalitionsminist\u00E4ren under L\u00E9on Delacroix samt d\u00E4refter november 1920-mars 1924 utrikesminister f\u00F6rst i minist\u00E4ren Carton de Wiart, sedan i minist\u00E4ren Theunis. Jaspar hade j\u00E4mte Theunis en viktig roll i Belgiens skadest\u00E5ndspolitik efter f\u00F6rsta v\u00E4rldskriget och f\u00F6retr\u00E4dde sitt land vid en m\u00E4ngd konferenser (till exempel i Cannes och Genua 1922) och ministerm\u00F6ten (s\u00E4rskilt med franske konseljpresidenten Raymond Poincar\u00E9). Jaspar var premi\u00E4rminister 20 maj 1926-6 juni 1931 (formellt i tv\u00E5 regeringar, Jaspar I och Jaspar II, efter varandra). Hans regering lyckades ta Belgien ur Den stora depressionen. Han tj\u00E4nstgjorde senare som finansminister 1932-1934 och \u00E5ter som utrikesminister en period 1934."@sv ,
+		"\u30A2\u30F3\u30EA\u30FB\u30B8\u30E3\u30B9\u30D1\u30FC\u30EB\uFF08Henri Jaspar\u30011870\u5E747\u670828\u65E5 - 1939\u5E742\u670815\u65E5\uFF09\u306F\u30D9\u30EB\u30AE\u30FC\u306E\u653F\u6CBB\u5BB6\u3002 \u30D6\u30EA\u30E5\u30C3\u30BB\u30EB\u306ESchaerbeek\u3067\u751F\u307E\u308C\u305F\u30B8\u30E3\u30B9\u30D1\u30FC\u30EB\u306F\u3001\u6CD5\u5B66\u306E\u535A\u58EB\u53F7\u3092\u53D6\u5F97\u3057\u30011919\u5E74\u306B\u30AB\u30C8\u30EA\u30C3\u30AF\u515A\u306E\u4EE3\u8B70\u9662\u8B70\u54E1\u3068\u306A\u3063\u305F\u30021918\u5E74\u304B\u30891920\u5E74\u307E\u3067\u7D4C\u6E08\u62C5\u5F53\u5927\u81E3\u30011920\u5E74\u304B\u30891924\u5E74\u307E\u3067\u5916\u52D9\u5927\u81E3\u3092\u52D9\u3081\u3001\u306E\u8A2D\u7ACB\u306B\u5C3D\u529B\u3057\u305F\u30021926\u5E74\u304B\u30891931\u5E74\u307E\u3067\u9996\u76F8\u306B\u5C31\u4EFB\u3057\u30011932\u5E74\u304B\u30891934\u5E74\u307E\u3067\u8CA1\u52D9\u5927\u81E3\u30011934\u5E74\u306B\u306F\u518D\u3073\u5916\u52D9\u5927\u81E3\u3092\u52D9\u3081\u305F\u3002"@ja ,
+		"Henri Jaspar est un avocat et homme d'\u00C9tat catholique belge, n\u00E9 \u00E0 Schaerbeek le 28 juillet 1870 et mort \u00E0 Saint-Gilles-lez-Bruxelles le 15 f\u00E9vrier 1939."@fr ;
+	dbo:wikiPageLength	"3116"^^xsd:nonNegativeInteger ;
+	dbp:office	27 ;
+	dbp:party	<http://dbpedia.org/resource/Catholic_Party_(Belgium)> ;
+	dbp:predecessor	dbr:Prosper_Poullet ;
+	dbp:successor	dbr:Jules_Renkin ;
+	dbp:termEnd	"1931-06-06"^^xsd:date ;
+	dbp:termStart	"1926-05-20"^^xsd:date ;
+	dbo:party	<http://dbpedia.org/resource/Catholic_Party_(Belgium)> ;
+	dbo:termPeriod	dbr:Henri_Jaspar__Tenure__1 ;
+	dbp:monarch	dbr:Albert_I_of_Belgium .
+dbr:Jaspar	dbo:wikiPageWikiLink	dbr:Henri_Jaspar ;
+	dbo:wikiPageDisambiguates	dbr:Henri_Jaspar .
+dbr:Schaerbeek_Cemetery	dbo:wikiPageWikiLink	dbr:Henri_Jaspar .
+dbr:Prosper_Poullet__Tenure__1	dbo:successor	dbr:Henri_Jaspar .
+dbr:List_of_state_leaders_in_1926	dbo:wikiPageWikiLink	dbr:Henri_Jaspar .
+dbr:List_of_state_leaders_in_1927	dbo:wikiPageWikiLink	dbr:Henri_Jaspar .
+dbr:List_of_state_leaders_in_1928	dbo:wikiPageWikiLink	dbr:Henri_Jaspar .
+<http://dbpedia.org/resource/1929_Belgian_general_election>	dbp:afterElection	dbr:Henri_Jaspar ;
+	dbp:beforeElection	dbr:Henri_Jaspar ;
+	dbo:wikiPageWikiLink	dbr:Henri_Jaspar ;
+	dbp:leader	dbr:Henri_Jaspar ;
+	dbo:firstLeader	dbr:Henri_Jaspar .
+dbr:Prosper_Poullet	dbo:wikiPageWikiLink	dbr:Henri_Jaspar ;
+	dbp:successor	dbr:Henri_Jaspar .
+dbr:List_of_Belgians	dbo:wikiPageWikiLink	dbr:Henri_Jaspar .
+dbr:Georges_Vantongerloo	dbo:wikiPageWikiLink	dbr:Henri_Jaspar .
+dbr:Memorial_tablets_to_the_British_Empire_dead_of_the_First_World_War	dbo:wikiPageWikiLink	dbr:Henri_Jaspar .
+<http://dbpedia.org/resource/1921_in_France>	dbo:wikiPageWikiLink	dbr:Henri_Jaspar .
+dbr:List_of_state_leaders_in_1929	dbo:wikiPageWikiLink	dbr:Henri_Jaspar .
+dbr:List_of_state_leaders_in_1930	dbo:wikiPageWikiLink	dbr:Henri_Jaspar .
+dbr:List_of_prime_ministers_of_Belgium	dbo:wikiPageWikiLink	dbr:Henri_Jaspar .
+dbr:List_of_Foreign_Ministers_of_Belgium	dbo:wikiPageWikiLink	dbr:Henri_Jaspar .
+dbr:List_of_ambassadors_of_China_to_Belgium	dbo:wikiPageWikiLink	dbr:Henri_Jaspar .
+dbr:List_of_Belgian_Prime_Ministers_by_political_affiliation	dbo:wikiPageWikiLink	dbr:Henri_Jaspar .
+dbr:List_of_Belgian_Prime_Ministers_by_time_in_office	dbo:wikiPageWikiLink	dbr:Henri_Jaspar .
+<http://dbpedia.org/resource/Minister_of_State_(Belgium)>	dbo:wikiPageWikiLink	dbr:Henri_Jaspar .
+dbr:Lifespan_timeline_of_prime_ministers_of_Belgium	dbo:wikiPageWikiLink	dbr:Henri_Jaspar .

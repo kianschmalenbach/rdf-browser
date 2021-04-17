@@ -1,0 +1,970 @@
+<!DOCTYPE html>
+<html
+    prefix="
+        dbp: http://dbpedia.org/property/
+        dbo: http://dbedia.org/ontology/
+        dct: http://purl.org/dc/terms/
+	"
+    lang="en"
+>
+
+
+<!-- header -->
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <title>About: Dudelange</title>
+    <link rel="alternate" type="application/rdf+xml" 		href="http://dbpedia.org/data/Dudelange.rdf" title="Structured Descriptor Document (RDF/XML format)" />
+    <link rel="alternate" type="text/n3" 			href="http://dbpedia.org/data/Dudelange.n3" title="Structured Descriptor Document (N3 format)" />
+    <link rel="alternate" type="text/turtle" 			href="http://dbpedia.org/data/Dudelange.ttl" title="Structured Descriptor Document (Turtle format)" />
+    <link rel="alternate" type="application/json+rdf" 		href="http://dbpedia.org/data/Dudelange.jrdf" title="Structured Descriptor Document (RDF/JSON format)" />
+    <link rel="alternate" type="application/json" 		href="http://dbpedia.org/data/Dudelange.json" title="Structured Descriptor Document (RDF/JSON format)" />
+    <link rel="alternate" type="application/atom+xml" 		href="http://dbpedia.org/data/Dudelange.atom" title="OData (Atom+Feed format)" />
+    <link rel="alternate" type="text/plain" 			href="http://dbpedia.org/data/Dudelange.ntriples" title="Structured Descriptor Document (N-Triples format)" />
+    <link rel="alternate" type="text/csv"   			href="http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FDudelange%3E&amp;format=text%2Fcsv" title="Structured Descriptor Document (CSV format)" />
+    
+    <link rel="alternate" type="text/cxml"  			href="http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FDudelange%3E&amp;format=text%2Fcxml" title="Structured Descriptor Document (CXML format)" />
+    
+    <link rel="alternate" type="application/microdata+json"	href="http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FDudelange%3E&amp;format=application%2Fmicrodata%2Bjson" title="Structured Descriptor Document (Microdata/JSON format)" />
+    <link rel="alternate" type="text/html" 			href="http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FDudelange%3E&amp;format=text%2Fhtml" title="Structured Descriptor Document (Microdata/HTML format)" />
+    <link rel="alternate" type="application/ld+json" 		href="http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FDudelange%3E&amp;format=application%2Fjson-ld" title="Structured Descriptor Document (JSON-LD format)" />
+    <link rel="alternate" type="text/x-html-script-ld+json"	href="http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FDudelange%3E&amp;format=text%2Fx-html-script-ld%2Bjson" title="Structured Descriptor Document (HTML with embedded JSON-LD)" />
+    <link rel="alternate" type="text/x-html-script-turtle"	href="http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FDudelange%3E&amp;format=text%2Fx-html-script-turtle" title="Structured Descriptor Document (HTML with embedded Turtle)" />
+    <link rel="timegate" type="text/html" 			href="http://dbpedia.mementodepot.org/timegate/http://dbpedia.org/page/Dudelange" title="Time Machine" />
+    <link rel="foaf:primarytopic" 				href="http://dbpedia.org/resource/Dudelange"/>
+    <link rev="describedby" 					href="http://dbpedia.org/resource/Dudelange"/>
+    <link rel="stylesheet" type="text/css"			href="/statics/css/bootstrap.min.css" />
+    <link rel="stylesheet" type="text/css" 			href="/statics/css/dbpedia.css" />
+</head>
+<body about="http://dbpedia.org/resource/Dudelange">
+<div class="navbar navbar-default navbar-fixed-top">
+    <div class="container">
+	<div class="navbar-header">
+	    <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#dbp-navbar" aria-expanded="false">
+		<span class="sr-only">Toggle navigation</span>
+		<span class="icon-bar"></span>
+		<span class="icon-bar"></span>
+		<span class="icon-bar"></span>
+	    </button>
+	    <a class="navbar-brand" href="http://wiki.dbpedia.org/about" title="About DBpedia" style="color: #2c5078">
+	    <img class="img-responsive" src="/statics/images/dbpedia_logo_land_120.png" alt="About DBpedia" style="display: inline-block;  margin-top: -12px"/>
+	    </a>
+	</div>
+
+	<div class="collapse navbar-collapse" id="dbp-navbar">
+	    <ul class="nav navbar-nav navbar-right">
+		<li><a class="active" href="/fct/" title="Switch to /fct endpoint"><span class="glyphicon glyphicon-new-window" aria-hidden="true"></span> Faceted Browser </a></li>
+		<li><a class="active" href="/sparql/" title="Switch to /sparql endpoint"><span class="glyphicon glyphicon-new-window" aria-hidden="true"></span> Sparql Endpoint </a></li>
+	    </ul>
+	    <ul class="nav navbar-nav">
+	    <li class="dropdown">
+		<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span class="glyphicon glyphicon-eye-open" aria-hidden="true"></span> Browse using <span class="caret"></span></a>
+		<ul class="dropdown-menu">
+		<li><a href="/describe/?uri=http%3A%2F%2Fdbpedia.org%2Fresource%2FDudelange">OpenLink Faceted Browser</a></li>
+		<li><a href="http://linkeddata.uriburner.com/rdf-editor/#/editor?uri=http%3A%2F%2Fdbpedia.org%2Fresource%2FDudelange&amp;view=statements">OpenLink Structured Data Editor</a></li>
+		<li><a href="http://en.lodlive.it/?http%3A%2F%2Fdbpedia.org%2Fresource%2FDudelange">LodLive Browser</a></li>
+		<li><a href="http://lodmilla.sztaki.hu/lodmilla/?url=http%3A%2F%2Fdbpedia.org%2Fresource%2FDudelange">LODmilla Browser</a></li>
+		</ul>
+	    </li>
+	    <li class="dropdown">
+		<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span class="glyphicon glyphicon-file" aria-hidden="true"></span> Formats <span class="caret"></span></a>
+		<ul class="dropdown-menu">
+		<li>&nbsp;RDF:</li>
+		    <li><a href="http://dbpedia.org/data/Dudelange.ntriples">N-Triples</a></li>
+		    <li><a href="http://dbpedia.org/data/Dudelange.n3">N3</a></li>
+		    <li><a href="http://dbpedia.org/data/Dudelange.ttl">Turtle</a></li>
+		    <li><a href="http://dbpedia.org/data/Dudelange.json">JSON</a></li>
+		    <li><a href="http://dbpedia.org/data/Dudelange.rdf">XML</a></li>
+		<li class="divider"></li>
+		<li>&nbsp;OData:</li>
+		    <li><a href="http://dbpedia.org/data/Dudelange.atom">Atom</a></li>
+		    <li><a href="http://dbpedia.org/data/Dudelange.jsod">JSON</a></li>
+		<li class="divider"></li>
+		<li>&nbsp;Microdata:</li>
+		    <li><a href="http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FDudelange%3E&amp;format=application%2Fmicrodata%2Bjson">JSON</a></li>
+		    <li><a href="http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FDudelange%3E&amp;format=text%2Fhtml">HTML</a></li>
+		<li class="divider"></li>
+		<li>&nbsp;Embedded:</li>
+		    <li><a href="http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FDudelange%3E&amp;format=text%2Fx-html-script-ld%2Bjson">JSON</a></li>
+		    <li><a href="http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FDudelange%3E&amp;format=text%2Fx-html-script-turtle">Turtle</a></li>
+		<li class="divider"></li>
+		    
+		        <li><a href="http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FDudelange%3E&amp;format=text%2Fcxml">CXML</a></li>
+		    
+		    <li><a href="http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FDudelange%3E&amp;format=text%2Fcsv">CSV</a></li>
+		    <li><a href="http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FDudelange%3E&amp;format=application%2Fjson-ld">JSON-LD</a></li>
+		</ul>
+	    </li>
+	    </ul>
+	</div>
+    </div>
+</div>
+
+<div class="container">
+<!-- page-header -->
+    <div class="page-header">
+	<!-- div class="pull-right">
+	    <a href="http://wiki.dbpedia.org/about" title="About DBpedia">
+	    <img class="img-responsive" src="/statics/images/dbpedia_logo_land_120.png" alt="About DBpedia"/>
+	    </a>
+	</div -->
+	<h1 id="title">About:
+	    <a href="http://dbpedia.org/resource/Dudelange">Dudelange</a>
+	</h1>
+	<div class="page-resource-uri">
+	    An Entity of Type : <a href="http://dbpedia.org/resource/List_of_communes_of_Luxembourg">List of communes of Luxembourg</a>,
+	    from Named Graph : <a href="http://dbpedia.org">http://dbpedia.org</a>,
+	    within Data Space : <a href="http://dbpedia.org">dbpedia.org</a>
+	</div>
+    </div>
+<!-- page-header -->
+<!-- row -->
+    <div class="row">
+	<div class="col-xs-12">
+	    <p class="lead">Dudelange (French pronunciation: ​[dydlɑ̃ʒ]; Luxembourgish: Diddeleng pronounced [ˈdidəleŋ] (), German: Düdelingen) is a commune with town status in southern Luxembourg. It is the fourth-most populous commune, with 19,734 inhabitants. Dudelange is situated close to the border with France. As of 2015, the town of Dudelange, which lies in the centre of the commune, has a population of 19,734, making it Luxembourg's third-most populous town. The commune also includes the smaller town of Budersberg, to the north-west. The Mont Saint-Jean, close to Budersberg, hosts the ruins of a medieval castle.</p>
+	</div>
+	<div class="col-xs-12">
+	    <!-- proptable -->
+	    <table class="description table table-striped">
+	    <tr>
+		<th class="col-xs-3">Property</th>
+		<th class="col-xs-9">Value</th>
+	    </tr>
+<tr class="odd"><td class="property"><a class="uri" href="http://dbpedia.org/ontology/abstract"><small>dbo:</small>abstract</a>
+</td><td><ul>
+	<li style="display:none;"><span class="literal"><span property="dbo:abstract" lang="ar">دوديلانج. (بالألمانية:  Düdelingen)، هي مدينة للوكسمبورغ وعاصمة البلدية، تحمل نفس الاسم وتقع في كانتون إيش سير ألزات ومنطقة لوكسمبورغ.</span><small> (ar)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="dbo:abstract" lang="ca">Dudelange (luxemburguès Diddeleng, alemany Düdelingen) és una comuna i vila a l&#39;est de Luxemburg, que forma part del cantó d&#39;Esch-sur-Alzette. Va rebre el títol municipal el 1907 de mans de Guillem IV de Luxemburg i comprèn les viles de Dudelange i Budersberg. Limita a l&#39;oest amb Kayl, al nord amb Bettembourg, a l&#39;est amb Frisange, i al sud i sud-est amb Zoufftgen i Volmerange-les-Mines (França).</span><small> (ca)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="dbo:abstract" lang="cs">Dudelange je město v jižním Lucembursku blízko hranic s Francií. V současnosti zde žije více než 18 000 obyvatel a jedná se tak o čtvrté největší město v zemi. Dudelange je vedle Esch-sur-Alzette důležitým průmyslovým centrem země.</span><small> (cs)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="dbo:abstract" lang="de">Düdelingen (luxemburgisch Diddeleng, französisch Dudelange) ist eine Stadt und eine Gemeinde im Großherzogtum Luxemburg. Sie gehört zum Kanton Esch an der Alzette und ist mit 21.087 Einwohnern (Stand 1. Januar 2019) neben der Stadt Esch an der Alzette der wichtigste Industriestandort des Landes.</span><small> (de)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="dbo:abstract" lang="es">Dudelange (en luxemburgués: Diddeleng, en alemán: Düdelingen) es una  con estatus de ciudad al sur de Luxemburgo. Es la cuarta comuna por población, com más de 18.300 habitantes. Dudelange se localiza cerca del límite con Francia. Dudelange es una importante ciudad industrial que creció sobre la base de 3 pueblos y una mina de acero a principios del siglo XX. De hecho, la &quot;D&quot; en el nombre del grupo siderúrgico Arbed es por la primera letra de la ciudad. En esta ciudad también se encuentra la Torre de radio de Dudelange, que es una radio FM y una . 
+*  Wikimedia Commons alberga una categoría multimedia sobre Dudelange. 
+*  Datos: Q16014 
+*  Multimedia: Dudelange</span><small> (es)</small></span></li>
+	<li><span class="literal"><span property="dbo:abstract" lang="en">Dudelange (French pronunciation: ​[dydlɑ̃ʒ]; Luxembourgish: Diddeleng pronounced [ˈdidəleŋ] (), German: Düdelingen) is a commune with town status in southern Luxembourg. It is the fourth-most populous commune, with 19,734 inhabitants. Dudelange is situated close to the border with France. As of 2015, the town of Dudelange, which lies in the centre of the commune, has a population of 19,734, making it Luxembourg&#39;s third-most populous town. The commune also includes the smaller town of Budersberg, to the north-west. The Mont Saint-Jean, close to Budersberg, hosts the ruins of a medieval castle. Dudelange is an important industrial town that grew out of the three villages and a steel mill in 1900. The D in the name of the ARBED steel company, later merged into ArcelorMittal, stood for Dudelange. As well as the Dudelange Radio Tower, an FM radio and television transmitter, it is also the site of the Centre national de l’audiovisuel (CNA), a cultural institute founded in 1989 under the aegis of the Ministry of Culture in order to preserve, promote and exhibit Luxembourg&#39;s audiovisual and photographic heritage. The centre hosts a two-screen cinema, a restaurant and a library focused on the visual arts. Dudelange is home to Luxembourg&#39;s most successful football club in recent times. F91 Dudelange won nine national titles between 2000 and 2011.</span><small> (en)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="dbo:abstract" lang="eu">Dudelange (luxenburgeraz: Diddeleng, frantsesez: Dudelange, alemanez: Düdelingen) Luxenburgoko hiria da, Luxenburgoko barrutian eta  dagoena. Bertoko futbol taldeak F91 Dudelange du izena.</span><small> (eu)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="dbo:abstract" lang="fr">Dudelange (en luxembourgeois : Diddeleng  et en allemand : Düdelingen) est une ville luxembourgeoise située dans le canton d&#39;Esch-sur-Alzette, chef-lieu de la commune portant le même nom.</span><small> (fr)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="dbo:abstract" lang="it">Dudelange (in Lussemburghese: Diddeléng, Tedesco: Düdelingen) è un comune del Lussemburgo meridionale. È il quarto comune per popolazione, con oltre 17.000 abitanti, e ha lo status di città. Dudelange si trova vicino al confine con la Francia.</span><small> (it)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="dbo:abstract" lang="ko">뒤들랑주(프랑스어: Dudelange, 독일어: Düdelingen 뒤델링겐[*], 룩셈부르크어: Diddeleng)는 룩셈부르크 남부에 위치한 도시로 면적은 21.38km2, 높이는 256~435m, 인구는 19,421명(2014년 기준), 인구 밀도는 910명/km2이다. 행정 구역상으로는 룩셈부르크 구 에슈쉬르알제트 주에 속한다. 프랑스 국경과 가까운 편이다. 
+* 시 문장</span><small> (ko)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="dbo:abstract" lang="nl">Dudelange (Luxemburgs: Diddeleng, Duits: Düdelingen) is een stad en gemeente in het Luxemburgse Kanton Esch.De gemeente heeft een totale oppervlakte van 21,38 km2 en telde 20480 inwoners op 1 januari 2017, waarvan iets meer dan een kwart van buitenlandse afkomst.</span><small> (nl)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="dbo:abstract" lang="pl">Dudelange – gmina ze statusem miejskim w południowym Luksemburgu, w dystrykcie Luksemburg, w kantonie Esch-sur-Alzette. Graniczy z Francją. W 2014 roku, miasto Dudelange, które stanowi centrum gminy, zamieszkiwało 20 000 osób. Inne miejscowości w gminie: Budersberg oraz . Dudelange jest też ważnym ośrodkiem przemysłowym Luksemburga (przemysł głównie metalowy). Na terenie miasta znajduje się nadajnik radiowo-telewizyjny. Jednym z miast partnerskich Dudelange jest Lębork. Znajduje się tam też ulica, której patronuje polskie miasto. W miejscowości ma siedzibę klub piłkarski F91 Dudelange.</span><small> (pl)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="dbo:abstract" lang="ru">Дюдела́нж (люксемб. Diddeleng, фр. Dudelange, нем. Düdelingen) — город в Люксембурге, расположенный в округе Люксембург. Входит в состав кантона  и является центром одноимённой коммуны.</span><small> (ru)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="dbo:abstract" lang="pt">Dudelange é uma comuna de Luxemburgo com status de cidade, pertencente ao distrito de Luxemburgo e ao cantão de Esch-sur-Alzette.</span><small> (pt)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="dbo:abstract" lang="sv">Dudelange (luxemburgiska: Diddeleng, tyska: Düdelingen) är en kommun och stad i södra Luxemburg. Kommunen ligger i kantonen Esch-sur-Alzette. Den hade år 2017, 20 480 invånare.</span><small> (sv)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="dbo:abstract" lang="zh">迪德朗日（法語：Dudelange，法语发音：[dydlɑ̃ʒ]；德語：Düdelingen；盧森堡語：Diddeleng）是卢森堡西北部的一个具有城市地位的市镇，靠近卢法边界。迪德朗日是人口第四大的市镇，有20869名居民。 
+*</span><small> (zh)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="dbo:abstract" lang="uk">Дюделанж (люксемб. Diddeleng, фр. Dudelange, нім. Düdelingen) — місто в Люксембурзі, що утворює собою окрему комуну. Входить до складу кантону Еш-сюр-Альзетт в окрузі Люксембург.</span><small> (uk)</small></span></li>
+</ul></td></tr><tr class="even"><td class="property"><a class="uri" href="http://dbpedia.org/ontology/country"><small>dbo:</small>country</a>
+</td><td><ul>
+	<li><span class="literal"><a class="uri" rel="dbo:country" href="http://dbpedia.org/resource/Luxembourg"><small>dbr</small>:Luxembourg</a></span></li>
+</ul></td></tr><tr class="odd"><td class="property"><a class="uri" href="http://dbpedia.org/ontology/originalName"><small>dbo:</small>originalName</a>
+</td><td><ul>
+	<li><span class="literal"><span property="dbo:originalName" lang="en">Diddeleng</span><small> (en)</small></span></li>
+</ul></td></tr><tr class="even"><td class="property"><a class="uri" href="http://dbpedia.org/ontology/politicalLeader"><small>dbo:</small>politicalLeader</a>
+</td><td><ul>
+	<li><span class="literal"><a class="uri" rel="dbo:politicalLeader" href="http://dbpedia.org/resource/Dudelange__PoliticalFunction__1"><small>dbr</small>:Dudelange__PoliticalFunction__1</a></span></li>
+</ul></td></tr><tr class="odd"><td class="property"><a class="uri" href="http://dbpedia.org/ontology/populationTotalRanking"><small>dbo:</small>populationTotalRanking</a>
+</td><td><ul>
+	<li><span class="literal"><span property="dbo:populationTotalRanking">102</span><small> (xsd:integer)</small></span></li>
+</ul></td></tr><tr class="even"><td class="property"><a class="uri" href="http://dbpedia.org/ontology/subdivision"><small>dbo:</small>subdivision</a>
+</td><td><ul>
+	<li><span class="literal"><a class="uri" rel="dbo:subdivision" href="http://dbpedia.org/resource/Esch-sur-Alzette_(canton)"><small>dbr</small>:Esch-sur-Alzette_(canton)</a></span></li>
+</ul></td></tr><tr class="odd"><td class="property"><a class="uri" href="http://dbpedia.org/ontology/thumbnail"><small>dbo:</small>thumbnail</a>
+</td><td><ul>
+	<li><span class="literal"><a class="uri" rel="dbo:thumbnail" href="http://commons.wikimedia.org/wiki/Special:FilePath/Diddeleng_Gemeng.jpg?width=300"><small>wiki-commons</small>:Special:FilePath/Diddeleng_Gemeng.jpg?width=300</a></span></li>
+</ul></td></tr><tr class="even"><td class="property"><a class="uri" href="http://dbpedia.org/ontology/timeZone"><small>dbo:</small>timeZone</a>
+</td><td><ul>
+	<li><span class="literal"><a class="uri" rel="dbo:timeZone" href="http://dbpedia.org/resource/Central_European_Summer_Time"><small>dbr</small>:Central_European_Summer_Time</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:timeZone" href="http://dbpedia.org/resource/Central_European_Time"><small>dbr</small>:Central_European_Time</a></span></li>
+</ul></td></tr><tr class="odd"><td class="property"><a class="uri" href="http://dbpedia.org/ontology/type"><small>dbo:</small>type</a>
+</td><td><ul>
+	<li><span class="literal"><a class="uri" rel="dbo:type" href="http://dbpedia.org/resource/List_of_communes_of_Luxembourg"><small>dbr</small>:List_of_communes_of_Luxembourg</a></span></li>
+</ul></td></tr><tr class="even"><td class="property"><a class="uri" href="http://dbpedia.org/ontology/utcOffset"><small>dbo:</small>utcOffset</a>
+</td><td><ul>
+	<li><span class="literal"><span property="dbo:utcOffset">+1</span></span></li>
+	<li><span class="literal"><span property="dbo:utcOffset">+2</span></span></li>
+</ul></td></tr><tr class="odd"><td class="property"><a class="uri" href="http://dbpedia.org/ontology/wikiPageExternalLink"><small>dbo:</small>wikiPageExternalLink</a>
+</td><td><ul>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageExternalLink nofollow" href="http://www.cna.public.lu/">http://www.cna.public.lu/</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageExternalLink nofollow" href="http://www.dudelange.lu/">http://www.dudelange.lu/</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageExternalLink nofollow" href="http://www.dudelange.lu">http://www.dudelange.lu</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageExternalLink nofollow" href="https://web.archive.org/web/20050304075612/http:/www.dudelange.biz/">https://web.archive.org/web/20050304075612/http:/www.dudelange.biz/</a></span></li>
+</ul></td></tr><tr class="even"><td class="property"><a class="uri" href="http://dbpedia.org/ontology/wikiPageID"><small>dbo:</small>wikiPageID</a>
+</td><td><ul>
+	<li><span class="literal"><span property="dbo:wikiPageID">1305936</span><small> (xsd:integer)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="property"><a class="uri" href="http://dbpedia.org/ontology/wikiPageLength"><small>dbo:</small>wikiPageLength</a>
+</td><td><ul>
+	<li><span class="literal"><span property="dbo:wikiPageLength">10040</span><small> (xsd:integer)</small></span></li>
+</ul></td></tr><tr class="even"><td class="property"><a class="uri" href="http://dbpedia.org/ontology/wikiPageRevisionID"><small>dbo:</small>wikiPageRevisionID</a>
+</td><td><ul>
+	<li><span class="literal"><span property="dbo:wikiPageRevisionID">958175001</span><small> (xsd:integer)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="property"><a class="uri" href="http://dbpedia.org/ontology/wikiPageWikiLink"><small>dbo:</small>wikiPageWikiLink</a>
+</td><td><ul>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/1952_Summer_Olympics"><small>dbr</small>:1952_Summer_Olympics</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/1960_Summer_Olympics"><small>dbr</small>:1960_Summer_Olympics</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/ARBED"><small>dbr</small>:ARBED</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Luxembourg"><small>dbr</small>:Luxembourg</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Luxembourg_Socialist_Workers&#39;_Party"><small>dbr</small>:Luxembourg_Socialist_Workers&#39;_Party</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Lębork"><small>dbr</small>:Lębork</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Jos_Romersa"><small>dbr</small>:Jos_Romersa</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Local_administrative_unit"><small>dbr</small>:Local_administrative_unit</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Andy_Bausch"><small>dbr</small>:Andy_Bausch</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/F91_Dudelange"><small>dbr</small>:F91_Dudelange</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Alex_Bodry"><small>dbr</small>:Alex_Bodry</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Category:Cities_in_Luxembourg"><small>dbc</small>:Cities_in_Luxembourg</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Category:Communes_in_Esch-sur-Alzette_(canton)"><small>dbc</small>:Communes_in_Esch-sur-Alzette_(canton)</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Fleur_Maxwell"><small>dbr</small>:Fleur_Maxwell</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Nicolas_Biever"><small>dbr</small>:Nicolas_Biever</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/List_of_communes_of_Luxembourg"><small>dbr</small>:List_of_communes_of_Luxembourg</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/List_of_sovereign_states"><small>dbr</small>:List_of_sovereign_states</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/List_of_towns_in_Luxembourg"><small>dbr</small>:List_of_towns_in_Luxembourg</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/1936_Summer_Olympics"><small>dbr</small>:1936_Summer_Olympics</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/1948_Summer_Olympics"><small>dbr</small>:1948_Summer_Olympics</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/1964_Summer_Olympics"><small>dbr</small>:1964_Summer_Olympics</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/1968_Summer_Olympics"><small>dbr</small>:1968_Summer_Olympics</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Camille_Libar"><small>dbr</small>:Camille_Libar</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Colette_Flesch"><small>dbr</small>:Colette_Flesch</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Jean_Aniset"><small>dbr</small>:Jean_Aniset</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Jean_Hengen"><small>dbr</small>:Jean_Hengen</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Jean_Schmit"><small>dbr</small>:Jean_Schmit</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Dominique_Lang"><small>dbr</small>:Dominique_Lang</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/1976_Summer_Olympics"><small>dbr</small>:1976_Summer_Olympics</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Ben_Gastauer"><small>dbr</small>:Ben_Gastauer</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Berane_Municipality"><small>dbr</small>:Berane_Municipality</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Bernard_Michaux"><small>dbr</small>:Bernard_Michaux</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Bettembourg"><small>dbr</small>:Bettembourg</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Kari_Peters"><small>dbr</small>:Kari_Peters</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Kayl"><small>dbr</small>:Kayl</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Zoufftgen"><small>dbr</small>:Zoufftgen</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Lydia_Mutsch"><small>dbr</small>:Lydia_Mutsch</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Roland_Bombardella"><small>dbr</small>:Roland_Bombardella</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Central_European_Summer_Time"><small>dbr</small>:Central_European_Summer_Time</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Central_European_Time"><small>dbr</small>:Central_European_Time</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Mars_Di_Bartolomeo"><small>dbr</small>:Mars_Di_Bartolomeo</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/2014_Winter_Olympics"><small>dbr</small>:2014_Winter_Olympics</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Category:Dudelange"><small>dbc</small>:Dudelange</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Dudelange_Radio_Tower"><small>dbr</small>:Dudelange_Radio_Tower</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Category:Towns_in_Luxembourg"><small>dbc</small>:Towns_in_Luxembourg</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/France"><small>dbr</small>:France</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Fred_Stürmer"><small>dbr</small>:Fred_Stürmer</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Jean_Back"><small>dbr</small>:Jean_Back</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/2006_Winter_Olympics"><small>dbr</small>:2006_Winter_Olympics</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/ArcelorMittal"><small>dbr</small>:ArcelorMittal</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Arganil"><small>dbr</small>:Arganil</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Budersberg"><small>dbr</small>:Budersberg</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Raymond_Wagner"><small>dbr</small>:Raymond_Wagner</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/René_Peters"><small>dbr</small>:René_Peters</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Communes_of_Luxembourg"><small>dbr</small>:Communes_of_Luxembourg</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Germaine_Goetzinger"><small>dbr</small>:Germaine_Goetzinger</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Bruno_Mattiussi"><small>dbr</small>:Bruno_Mattiussi</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Lauenburg"><small>dbr</small>:Lauenburg</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/List_of_mayors_of_Dudelange"><small>dbr</small>:List_of_mayors_of_Dudelange</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Bernard_Berg"><small>dbr</small>:Bernard_Berg</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Cantons_of_Luxembourg"><small>dbr</small>:Cantons_of_Luxembourg</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Robert_Schiel"><small>dbr</small>:Robert_Schiel</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Roger_Gilson"><small>dbr</small>:Roger_Gilson</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Sister_city"><small>dbr</small>:Sister_city</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Victor_Feller"><small>dbr</small>:Victor_Feller</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Volmerange-les-Mines"><small>dbr</small>:Volmerange-les-Mines</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Mont_St._Jean,_Luxembourg"><small>dbr</small>:Mont_St._Jean,_Luxembourg</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/List_of_communes_of_Luxembourg_by_population"><small>dbr</small>:List_of_communes_of_Luxembourg_by_population</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Etienne_Schneider"><small>dbr</small>:Etienne_Schneider</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Feltre"><small>dbr</small>:Feltre</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Nicolas_Pauly"><small>dbr</small>:Nicolas_Pauly</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Pierre_Cao"><small>dbr</small>:Pierre_Cao</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Erna_Hennicot-Schoepges"><small>dbr</small>:Erna_Hennicot-Schoepges</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/FM_broadcasting"><small>dbr</small>:FM_broadcasting</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Ernest_Mengel"><small>dbr</small>:Ernest_Mengel</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Esch-sur-Alzette_(canton)"><small>dbr</small>:Esch-sur-Alzette_(canton)</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Moselle_(department)"><small>dbr</small>:Moselle_(department)</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/List_of_towns_in_Luxembourg_by_population"><small>dbr</small>:List_of_towns_in_Luxembourg_by_population</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Manom"><small>dbr</small>:Manom</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Television"><small>dbr</small>:Television</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Transmitter"><small>dbr</small>:Transmitter</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Nicolas_Estgen"><small>dbr</small>:Nicolas_Estgen</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/File:Colette-Flesch--w.jpg"><small>dbr</small>:File:Colette-Flesch--w.jpg</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/File:Informal_meeting_of_justice_and_home_affairs_Handshake_(Justice)_Urmas_Reinsalu_and_Etienne_Schneider_(34915138884)_-_crop_Schneider.jpg"><small>dbr</small>:File:Informal_meeting_of_justice_and_h...er_(34915138884)_-_crop_Schneider.jpg</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/File:Germaine_Goetzinger_November_2013-001.jpg"><small>dbr</small>:File:Germaine_Goetzinger_November_2013-001.jpg</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/File:Jean_Schmit.jpg"><small>dbr</small>:File:Jean_Schmit.jpg</a></span></li>
+</ul></td></tr><tr class="even"><td class="property"><a class="uri" href="http://dbpedia.org/property/areaRank"><small>dbp:</small>areaRank</a>
+</td><td><ul>
+	<li><span class="literal"><span property="dbp:areaRank" lang="en">of 102</span><small> (en)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="property"><a class="uri" href="http://dbpedia.org/property/blankInfoSec"><small>dbp:</small>blankInfoSec</a>
+</td><td><ul>
+	<li><span class="literal"><span property="dbp:blankInfoSec" lang="en">LU0000203</span><small> (en)</small></span></li>
+</ul></td></tr><tr class="even"><td class="property"><a class="uri" href="http://dbpedia.org/property/blankNameSec"><small>dbp:</small>blankNameSec</a>
+</td><td><ul>
+	<li><span class="literal"><a class="uri" rel="dbp:blankNameSec" href="http://dbpedia.org/resource/Local_administrative_unit"><small>dbr</small>:Local_administrative_unit</a></span></li>
+</ul></td></tr><tr class="odd"><td class="property"><a class="uri" href="http://dbpedia.org/property/centre"><small>dbp:</small>centre</a>
+</td><td><ul>
+	<li><span class="literal"><span property="dbp:centre" lang="en">Dudelange</span><small> (en)</small></span></li>
+</ul></td></tr><tr class="even"><td class="property"><a class="uri" href="http://dbpedia.org/property/e"><small>dbp:</small>e</a>
+</td><td><ul>
+	<li><span class="literal"><span property="dbp:e" lang="en">Zoufftgen</span><small> (en)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="property"><a class="uri" href="http://dbpedia.org/property/elevationMaxRank"><small>dbp:</small>elevationMaxRank</a>
+</td><td><ul>
+	<li><span class="literal"><span property="dbp:elevationMaxRank" lang="en">of 102</span><small> (en)</small></span></li>
+</ul></td></tr><tr class="even"><td class="property"><a class="uri" href="http://dbpedia.org/property/elevationMinRank"><small>dbp:</small>elevationMinRank</a>
+</td><td><ul>
+	<li><span class="literal"><span property="dbp:elevationMinRank" lang="en">of 102</span><small> (en)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="property"><a class="uri" href="http://dbpedia.org/property/imageCaption"><small>dbp:</small>imageCaption</a>
+</td><td><ul>
+	<li><span class="literal"><span property="dbp:imageCaption" lang="en">The town hall</span><small> (en)</small></span></li>
+</ul></td></tr><tr class="even"><td class="property"><a class="uri" href="http://dbpedia.org/property/imageMap"><small>dbp:</small>imageMap</a>
+</td><td><ul>
+	<li><span class="literal"><span property="dbp:imageMap" lang="en">Map Dudelange.PNG</span><small> (en)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="property"><a class="uri" href="http://dbpedia.org/property/imageShield"><small>dbp:</small>imageShield</a>
+</td><td><ul>
+	<li><span class="literal"><span property="dbp:imageShield" lang="en">Blason ville lu Dudelange .svg</span><small> (en)</small></span></li>
+</ul></td></tr><tr class="even"><td class="property"><a class="uri" href="http://dbpedia.org/property/imageSkyline"><small>dbp:</small>imageSkyline</a>
+</td><td><ul>
+	<li><span class="literal"><span property="dbp:imageSkyline" lang="en">Diddeleng Gemeng.jpg</span><small> (en)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="property"><a class="uri" href="http://dbpedia.org/property/leaderName"><small>dbp:</small>leaderName</a>
+</td><td><ul>
+	<li><span class="literal"><span property="dbp:leaderName" lang="en">Dan Biancalana</span><small> (en)</small></span></li>
+</ul></td></tr><tr class="even"><td class="property"><a class="uri" href="http://dbpedia.org/property/leaderParty"><small>dbp:</small>leaderParty</a>
+</td><td><ul>
+	<li><span class="literal"><a class="uri" rel="dbp:leaderParty" href="http://dbpedia.org/resource/Luxembourg_Socialist_Workers&#39;_Party"><small>dbr</small>:Luxembourg_Socialist_Workers&#39;_Party</a></span></li>
+</ul></td></tr><tr class="odd"><td class="property"><a class="uri" href="http://dbpedia.org/property/leaderTitle"><small>dbp:</small>leaderTitle</a>
+</td><td><ul>
+	<li><span class="literal"><span property="dbp:leaderTitle" lang="en">Mayor</span><small> (en)</small></span></li>
+</ul></td></tr><tr class="even"><td class="property"><a class="uri" href="http://dbpedia.org/property/mapCaption"><small>dbp:</small>mapCaption</a>
+</td><td><ul>
+	<li><span class="literal"><span property="dbp:mapCaption" lang="en">Map of Luxembourg with Dudelange highlighted in orange, and the canton in dark red</span><small> (en)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="property"><a class="uri" href="http://dbpedia.org/property/mapsize"><small>dbp:</small>mapsize</a>
+</td><td><ul>
+	<li><span class="literal"><span property="dbp:mapsize">200</span><small> (xsd:integer)</small></span></li>
+</ul></td></tr><tr class="even"><td class="property"><a class="uri" href="http://dbpedia.org/property/n"><small>dbp:</small>n</a>
+</td><td><ul>
+	<li><span class="literal"><a class="uri" rel="dbp:n" href="http://dbpedia.org/resource/Bettembourg"><small>dbr</small>:Bettembourg</a></span></li>
+</ul></td></tr><tr class="odd"><td class="property"><a class="uri" href="http://dbpedia.org/property/name"><small>dbp:</small>name</a>
+</td><td><ul>
+	<li><span class="literal"><span property="dbp:name" lang="en">Dudelange</span><small> (en)</small></span></li>
+</ul></td></tr><tr class="even"><td class="property"><a class="uri" href="http://dbpedia.org/property/nativeName"><small>dbp:</small>nativeName</a>
+</td><td><ul>
+	<li><span class="literal"><span property="dbp:nativeName" lang="en">Diddeleng</span><small> (en)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="property"><a class="uri" href="http://dbpedia.org/property/nativeNameLang"><small>dbp:</small>nativeNameLang</a>
+</td><td><ul>
+	<li><span class="literal"><span property="dbp:nativeNameLang" lang="en">lb</span><small> (en)</small></span></li>
+</ul></td></tr><tr class="even"><td class="property"><a class="uri" href="http://dbpedia.org/property/populationDensityKm"><small>dbp:</small>populationDensityKm</a>
+</td><td><ul>
+	<li><span class="literal"><span property="dbp:populationDensityKm" lang="en">auto</span><small> (en)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="property"><a class="uri" href="http://dbpedia.org/property/populationDensityRank"><small>dbp:</small>populationDensityRank</a>
+</td><td><ul>
+	<li><span class="literal"><span property="dbp:populationDensityRank" lang="en">of 102</span><small> (en)</small></span></li>
+</ul></td></tr><tr class="even"><td class="property"><a class="uri" href="http://dbpedia.org/property/populationRank"><small>dbp:</small>populationRank</a>
+</td><td><ul>
+	<li><span class="literal"><span property="dbp:populationRank" lang="en">of 102</span><small> (en)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="property"><a class="uri" href="http://dbpedia.org/property/s"><small>dbp:</small>s</a>
+</td><td><ul>
+	<li><span class="literal"><span property="dbp:s" lang="en">Volmerange-les-Mines</span><small> (en)</small></span></li>
+</ul></td></tr><tr class="even"><td class="property"><a class="uri" href="http://dbpedia.org/property/settlementType"><small>dbp:</small>settlementType</a>
+</td><td><ul>
+	<li><span class="literal"><a class="uri" rel="dbp:settlementType" href="http://dbpedia.org/resource/List_of_communes_of_Luxembourg"><small>dbr</small>:List_of_communes_of_Luxembourg</a></span></li>
+</ul></td></tr><tr class="odd"><td class="property"><a class="uri" href="http://dbpedia.org/property/shieldSize"><small>dbp:</small>shieldSize</a>
+</td><td><ul>
+	<li><span class="literal"><span property="dbp:shieldSize">100</span><small> (xsd:integer)</small></span></li>
+</ul></td></tr><tr class="even"><td class="property"><a class="uri" href="http://dbpedia.org/property/subdivisionName"><small>dbp:</small>subdivisionName</a>
+</td><td><ul>
+	<li><span class="literal"><a class="uri" rel="dbp:subdivisionName" href="http://dbpedia.org/resource/Esch-sur-Alzette_(canton)"><small>dbr</small>:Esch-sur-Alzette_(canton)</a></span></li>
+</ul></td></tr><tr class="odd"><td class="property"><a class="uri" href="http://dbpedia.org/property/subdivisionType"><small>dbp:</small>subdivisionType</a>
+</td><td><ul>
+	<li><span class="literal"><a class="uri" rel="dbp:subdivisionType" href="http://dbpedia.org/resource/List_of_sovereign_states"><small>dbr</small>:List_of_sovereign_states</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:subdivisionType" href="http://dbpedia.org/resource/Cantons_of_Luxembourg"><small>dbr</small>:Cantons_of_Luxembourg</a></span></li>
+</ul></td></tr><tr class="even"><td class="property"><a class="uri" href="http://dbpedia.org/property/timezone"><small>dbp:</small>timezone</a>
+</td><td><ul>
+	<li><span class="literal"><a class="uri" rel="dbp:timezone" href="http://dbpedia.org/resource/Central_European_Time"><small>dbr</small>:Central_European_Time</a></span></li>
+</ul></td></tr><tr class="odd"><td class="property"><a class="uri" href="http://dbpedia.org/property/timezone1Dst"><small>dbp:</small>timezone1Dst</a>
+</td><td><ul>
+	<li><span class="literal"><a class="uri" rel="dbp:timezone1Dst" href="http://dbpedia.org/resource/Central_European_Summer_Time"><small>dbr</small>:Central_European_Summer_Time</a></span></li>
+</ul></td></tr><tr class="even"><td class="property"><a class="uri" href="http://dbpedia.org/property/unitPref"><small>dbp:</small>unitPref</a>
+</td><td><ul>
+	<li><span class="literal"><span property="dbp:unitPref" lang="en">Metric</span><small> (en)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="property"><a class="uri" href="http://dbpedia.org/property/utcOffset"><small>dbp:</small>utcOffset</a>
+</td><td><ul>
+	<li><span class="literal"><span property="dbp:utcOffset" lang="en">+1</span><small> (en)</small></span></li>
+</ul></td></tr><tr class="even"><td class="property"><a class="uri" href="http://dbpedia.org/property/utcOffset1Dst"><small>dbp:</small>utcOffset1Dst</a>
+</td><td><ul>
+	<li><span class="literal"><span property="dbp:utcOffset1Dst" lang="en">+2</span><small> (en)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="property"><a class="uri" href="http://dbpedia.org/property/w"><small>dbp:</small>w</a>
+</td><td><ul>
+	<li><span class="literal"><a class="uri" rel="dbp:w" href="http://dbpedia.org/resource/Kayl"><small>dbr</small>:Kayl</a></span></li>
+</ul></td></tr><tr class="even"><td class="property"><a class="uri" href="http://dbpedia.org/property/website"><small>dbp:</small>website</a>
+</td><td><ul>
+	<li><span class="literal"><a class="uri" rel="dbp:website nofollow" href="http://www.dudelange.lu">http://www.dudelange.lu</a></span></li>
+</ul></td></tr><tr class="odd"><td class="property"><a class="uri" href="http://dbpedia.org/property/wikiPageUsesTemplate"><small>dbp:</small>wikiPageUsesTemplate</a>
+</td><td><ul>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" href="http://dbpedia.org/resource/Template:As_of"><small>dbt</small>:As_of</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" href="http://dbpedia.org/resource/Template:Authority_control"><small>dbt</small>:Authority_control</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" href="http://dbpedia.org/resource/Template:Commons_category-inline"><small>dbt</small>:Commons_category-inline</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" href="http://dbpedia.org/resource/Template:Coord"><small>dbt</small>:Coord</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" href="http://dbpedia.org/resource/Template:Div_col"><small>dbt</small>:Div_col</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" href="http://dbpedia.org/resource/Template:Div_col_end"><small>dbt</small>:Div_col_end</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" href="http://dbpedia.org/resource/Template:Flag"><small>dbt</small>:Flag</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" href="http://dbpedia.org/resource/Template:Flagicon"><small>dbt</small>:Flagicon</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" href="http://dbpedia.org/resource/Template:Geographic_location"><small>dbt</small>:Geographic_location</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" href="http://dbpedia.org/resource/Template:IPA-fr"><small>dbt</small>:IPA-fr</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" href="http://dbpedia.org/resource/Template:Infobox_settlement"><small>dbt</small>:Infobox_settlement</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" href="http://dbpedia.org/resource/Template:Reflist"><small>dbt</small>:Reflist</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" href="http://dbpedia.org/resource/Template:See_also"><small>dbt</small>:See_also</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" href="http://dbpedia.org/resource/Template:Wikivoyage"><small>dbt</small>:Wikivoyage</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" href="http://dbpedia.org/resource/Template:Luxembourg_commune_area"><small>dbt</small>:Luxembourg_commune_area</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" href="http://dbpedia.org/resource/Template:Luxembourg_commune_area_rank"><small>dbt</small>:Luxembourg_commune_area_rank</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" href="http://dbpedia.org/resource/Template:Luxembourg_commune_density_rank"><small>dbt</small>:Luxembourg_commune_density_rank</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" href="http://dbpedia.org/resource/Template:Luxembourg_commune_high"><small>dbt</small>:Luxembourg_commune_high</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" href="http://dbpedia.org/resource/Template:Luxembourg_commune_high_rank"><small>dbt</small>:Luxembourg_commune_high_rank</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" href="http://dbpedia.org/resource/Template:Luxembourg_commune_low"><small>dbt</small>:Luxembourg_commune_low</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" href="http://dbpedia.org/resource/Template:Luxembourg_commune_low_rank"><small>dbt</small>:Luxembourg_commune_low_rank</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" href="http://dbpedia.org/resource/Template:Luxembourg_commune_population"><small>dbt</small>:Luxembourg_commune_population</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" href="http://dbpedia.org/resource/Template:Luxembourg_commune_population_rank"><small>dbt</small>:Luxembourg_commune_population_rank</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" href="http://dbpedia.org/resource/Template:Luxembourg_communes_statistics_year"><small>dbt</small>:Luxembourg_communes_statistics_year</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" href="http://dbpedia.org/resource/Template:Esch-sur-Alzette_commune_footer"><small>dbt</small>:Esch-sur-Alzette_commune_footer</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" href="http://dbpedia.org/resource/Template:IPA-lb"><small>dbt</small>:IPA-lb</a></span></li>
+</ul></td></tr><tr class="even"><td class="property"><a class="uri" href="http://dbpedia.org/property/wordnet_type"><small>dbp:</small>wordnet_type</a>
+</td><td><ul>
+	<li><span class="literal"><a class="uri" rel="dbp:wordnet_type nofollow" href="http://www.w3.org/2006/03/wn/wn20/instances/synset-commune-noun-1">http://www.w3.org/2006/03/wn/wn20/instances/synset-commune-noun-1</a></span></li>
+</ul></td></tr><tr class="odd"><td class="property"><a class="uri" href="http://purl.org/dc/terms/subject"><small>dct:</small>subject</a>
+</td><td><ul>
+	<li><span class="literal"><a class="uri" rel="dct:subject" href="http://dbpedia.org/resource/Category:Cities_in_Luxembourg"><small>dbc</small>:Cities_in_Luxembourg</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dct:subject" href="http://dbpedia.org/resource/Category:Communes_in_Esch-sur-Alzette_(canton)"><small>dbc</small>:Communes_in_Esch-sur-Alzette_(canton)</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dct:subject" href="http://dbpedia.org/resource/Category:Dudelange"><small>dbc</small>:Dudelange</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dct:subject" href="http://dbpedia.org/resource/Category:Towns_in_Luxembourg"><small>dbc</small>:Towns_in_Luxembourg</a></span></li>
+</ul></td></tr><tr class="even"><td class="property"><a class="uri" href="http://schema.org/sameAs"><small>schema:</small>sameAs</a>
+</td><td><ul>
+	<li><span class="literal"><a class="uri" rel="schema:sameAs" href="http://viaf.org/viaf/123307504">http://viaf.org/viaf/123307504</a></span></li>
+</ul></td></tr><tr class="odd"><td class="property"><a class="uri" href="http://www.w3.org/1999/02/22-rdf-syntax-ns#type"><small>rdf:</small>type</a>
+</td><td><ul>
+	<li><span class="literal"><a class="uri" rel="rdf:type" href="http://www.w3.org/2002/07/owl#Thing"><small>owl</small>:Thing</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" href="http://dbpedia.org/ontology/Place"><small>dbo</small>:Place</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" href="http://dbpedia.org/ontology/Location"><small>dbo</small>:Location</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" href="http://dbpedia.org/class/yago/Object100002684"><small>yago</small>:Object100002684</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" href="http://dbpedia.org/class/yago/PhysicalEntity100001930"><small>yago</small>:PhysicalEntity100001930</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" href="http://dbpedia.org/class/yago/Region108630985"><small>yago</small>:Region108630985</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" href="http://dbpedia.org/class/yago/Subdivision108674251"><small>yago</small>:Subdivision108674251</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" href="http://dbpedia.org/class/yago/Town108665504"><small>yago</small>:Town108665504</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" href="http://dbpedia.org/class/yago/Tract108673395"><small>yago</small>:Tract108673395</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" href="http://dbpedia.org/class/yago/UrbanArea108675967"><small>yago</small>:UrbanArea108675967</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" href="http://dbpedia.org/class/yago/YagoGeoEntity"><small>yago</small>:YagoGeoEntity</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" href="http://dbpedia.org/class/yago/YagoLegalActorGeo"><small>yago</small>:YagoLegalActorGeo</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" href="http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity"><small>yago</small>:YagoPermanentlyLocatedEntity</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" href="http://dbpedia.org/class/yago/WikicatSubdivisionsOfLuxembourg"><small>yago</small>:WikicatSubdivisionsOfLuxembourg</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" href="http://dbpedia.org/class/yago/WikicatTownsInLuxembourg"><small>yago</small>:WikicatTownsInLuxembourg</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" href="http://schema.org/Place"><small>schema</small>:Place</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" href="http://www.wikidata.org/entity/Q486972"><small>wikidata</small>:Q486972</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" href="http://www.wikidata.org/entity/Q532"><small>wikidata</small>:Q532</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" href="http://dbpedia.org/class/yago/WikicatCitiesInLuxembourg"><small>yago</small>:WikicatCitiesInLuxembourg</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" href="http://dbpedia.org/class/yago/WikicatCommunesInEsch-sur-Alzette(canton)"><small>yago</small>:WikicatCommunesInEsch-sur-Alzette(canton)</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" href="http://dbpedia.org/class/yago/WikicatCommunesOfLuxembourg"><small>yago</small>:WikicatCommunesOfLuxembourg</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" href="http://dbpedia.org/ontology/Settlement"><small>dbo</small>:Settlement</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" href="http://dbpedia.org/ontology/Village"><small>dbo</small>:Village</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" href="http://dbpedia.org/ontology/PopulatedPlace"><small>dbo</small>:PopulatedPlace</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" href="http://dbpedia.org/class/yago/AdministrativeDistrict108491826"><small>yago</small>:AdministrativeDistrict108491826</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" href="http://dbpedia.org/class/yago/City108524735"><small>yago</small>:City108524735</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" href="http://dbpedia.org/class/yago/Commune108541609"><small>yago</small>:Commune108541609</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" href="http://dbpedia.org/class/yago/District108552138"><small>yago</small>:District108552138</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" href="http://dbpedia.org/class/yago/GeographicalArea108574314"><small>yago</small>:GeographicalArea108574314</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" href="http://dbpedia.org/class/yago/Location100027167"><small>yago</small>:Location100027167</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" href="http://dbpedia.org/class/yago/Municipality108626283"><small>yago</small>:Municipality108626283</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" href="http://umbel.org/umbel/rc/PopulatedPlace"><small>umbel-rc</small>:PopulatedPlace</a></span></li>
+</ul></td></tr><tr class="even"><td class="property"><a class="uri" href="http://www.w3.org/2000/01/rdf-schema#comment"><small>rdfs:</small>comment</a>
+</td><td><ul>
+	<li style="display:none;"><span class="literal"><span property="rdfs:comment" lang="ar">دوديلانج. (بالألمانية:  Düdelingen)، هي مدينة للوكسمبورغ وعاصمة البلدية، تحمل نفس الاسم وتقع في كانتون إيش سير ألزات ومنطقة لوكسمبورغ.</span><small> (ar)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="rdfs:comment" lang="ca">Dudelange (luxemburguès Diddeleng, alemany Düdelingen) és una comuna i vila a l&#39;est de Luxemburg, que forma part del cantó d&#39;Esch-sur-Alzette. Va rebre el títol municipal el 1907 de mans de Guillem IV de Luxemburg i comprèn les viles de Dudelange i Budersberg. Limita a l&#39;oest amb Kayl, al nord amb Bettembourg, a l&#39;est amb Frisange, i al sud i sud-est amb Zoufftgen i Volmerange-les-Mines (França).</span><small> (ca)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="rdfs:comment" lang="cs">Dudelange je město v jižním Lucembursku blízko hranic s Francií. V současnosti zde žije více než 18 000 obyvatel a jedná se tak o čtvrté největší město v zemi. Dudelange je vedle Esch-sur-Alzette důležitým průmyslovým centrem země.</span><small> (cs)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="rdfs:comment" lang="de">Düdelingen (luxemburgisch Diddeleng, französisch Dudelange) ist eine Stadt und eine Gemeinde im Großherzogtum Luxemburg. Sie gehört zum Kanton Esch an der Alzette und ist mit 21.087 Einwohnern (Stand 1. Januar 2019) neben der Stadt Esch an der Alzette der wichtigste Industriestandort des Landes.</span><small> (de)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="rdfs:comment" lang="eu">Dudelange (luxenburgeraz: Diddeleng, frantsesez: Dudelange, alemanez: Düdelingen) Luxenburgoko hiria da, Luxenburgoko barrutian eta  dagoena. Bertoko futbol taldeak F91 Dudelange du izena.</span><small> (eu)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="rdfs:comment" lang="fr">Dudelange (en luxembourgeois : Diddeleng  et en allemand : Düdelingen) est une ville luxembourgeoise située dans le canton d&#39;Esch-sur-Alzette, chef-lieu de la commune portant le même nom.</span><small> (fr)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="rdfs:comment" lang="it">Dudelange (in Lussemburghese: Diddeléng, Tedesco: Düdelingen) è un comune del Lussemburgo meridionale. È il quarto comune per popolazione, con oltre 17.000 abitanti, e ha lo status di città. Dudelange si trova vicino al confine con la Francia.</span><small> (it)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="rdfs:comment" lang="ko">뒤들랑주(프랑스어: Dudelange, 독일어: Düdelingen 뒤델링겐[*], 룩셈부르크어: Diddeleng)는 룩셈부르크 남부에 위치한 도시로 면적은 21.38km2, 높이는 256~435m, 인구는 19,421명(2014년 기준), 인구 밀도는 910명/km2이다. 행정 구역상으로는 룩셈부르크 구 에슈쉬르알제트 주에 속한다. 프랑스 국경과 가까운 편이다. 
+* 시 문장</span><small> (ko)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="rdfs:comment" lang="nl">Dudelange (Luxemburgs: Diddeleng, Duits: Düdelingen) is een stad en gemeente in het Luxemburgse Kanton Esch.De gemeente heeft een totale oppervlakte van 21,38 km2 en telde 20480 inwoners op 1 januari 2017, waarvan iets meer dan een kwart van buitenlandse afkomst.</span><small> (nl)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="rdfs:comment" lang="pl">Dudelange – gmina ze statusem miejskim w południowym Luksemburgu, w dystrykcie Luksemburg, w kantonie Esch-sur-Alzette. Graniczy z Francją. W 2014 roku, miasto Dudelange, które stanowi centrum gminy, zamieszkiwało 20 000 osób. Inne miejscowości w gminie: Budersberg oraz . Dudelange jest też ważnym ośrodkiem przemysłowym Luksemburga (przemysł głównie metalowy). Na terenie miasta znajduje się nadajnik radiowo-telewizyjny. Jednym z miast partnerskich Dudelange jest Lębork. Znajduje się tam też ulica, której patronuje polskie miasto. W miejscowości ma siedzibę klub piłkarski F91 Dudelange.</span><small> (pl)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="rdfs:comment" lang="ru">Дюдела́нж (люксемб. Diddeleng, фр. Dudelange, нем. Düdelingen) — город в Люксембурге, расположенный в округе Люксембург. Входит в состав кантона  и является центром одноимённой коммуны.</span><small> (ru)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="rdfs:comment" lang="pt">Dudelange é uma comuna de Luxemburgo com status de cidade, pertencente ao distrito de Luxemburgo e ao cantão de Esch-sur-Alzette.</span><small> (pt)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="rdfs:comment" lang="sv">Dudelange (luxemburgiska: Diddeleng, tyska: Düdelingen) är en kommun och stad i södra Luxemburg. Kommunen ligger i kantonen Esch-sur-Alzette. Den hade år 2017, 20 480 invånare.</span><small> (sv)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="rdfs:comment" lang="zh">迪德朗日（法語：Dudelange，法语发音：[dydlɑ̃ʒ]；德語：Düdelingen；盧森堡語：Diddeleng）是卢森堡西北部的一个具有城市地位的市镇，靠近卢法边界。迪德朗日是人口第四大的市镇，有20869名居民。 
+*</span><small> (zh)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="rdfs:comment" lang="uk">Дюделанж (люксемб. Diddeleng, фр. Dudelange, нім. Düdelingen) — місто в Люксембурзі, що утворює собою окрему комуну. Входить до складу кантону Еш-сюр-Альзетт в окрузі Люксембург.</span><small> (uk)</small></span></li>
+	<li><span class="literal"><span property="rdfs:comment" lang="en">Dudelange (French pronunciation: ​[dydlɑ̃ʒ]; Luxembourgish: Diddeleng pronounced [ˈdidəleŋ] (), German: Düdelingen) is a commune with town status in southern Luxembourg. It is the fourth-most populous commune, with 19,734 inhabitants. Dudelange is situated close to the border with France. As of 2015, the town of Dudelange, which lies in the centre of the commune, has a population of 19,734, making it Luxembourg&#39;s third-most populous town. The commune also includes the smaller town of Budersberg, to the north-west. The Mont Saint-Jean, close to Budersberg, hosts the ruins of a medieval castle.</span><small> (en)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="rdfs:comment" lang="es">Dudelange (en luxemburgués: Diddeleng, en alemán: Düdelingen) es una  con estatus de ciudad al sur de Luxemburgo. Es la cuarta comuna por población, com más de 18.300 habitantes. Dudelange se localiza cerca del límite con Francia. Dudelange es una importante ciudad industrial que creció sobre la base de 3 pueblos y una mina de acero a principios del siglo XX. De hecho, la &quot;D&quot; en el nombre del grupo siderúrgico Arbed es por la primera letra de la ciudad. En esta ciudad también se encuentra la Torre de radio de Dudelange, que es una radio FM y una .</span><small> (es)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="property"><a class="uri" href="http://www.w3.org/2000/01/rdf-schema#label"><small>rdfs:</small>label</a>
+</td><td><ul>
+	<li><span class="literal"><span property="rdfs:label" lang="en">Dudelange</span><small> (en)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="rdfs:label" lang="ar">دوديلانج</span><small> (ar)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="rdfs:label" lang="ca">Dudelange</span><small> (ca)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="rdfs:label" lang="cs">Dudelange</span><small> (cs)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="rdfs:label" lang="de">Düdelingen</span><small> (de)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="rdfs:label" lang="es">Dudelange</span><small> (es)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="rdfs:label" lang="eu">Dudelange</span><small> (eu)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="rdfs:label" lang="fr">Dudelange</span><small> (fr)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="rdfs:label" lang="it">Dudelange</span><small> (it)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="rdfs:label" lang="ko">뒤들랑주</span><small> (ko)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="rdfs:label" lang="nl">Dudelange</span><small> (nl)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="rdfs:label" lang="pl">Dudelange</span><small> (pl)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="rdfs:label" lang="ru">Дюделанж</span><small> (ru)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="rdfs:label" lang="pt">Dudelange</span><small> (pt)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="rdfs:label" lang="sv">Dudelange</span><small> (sv)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="rdfs:label" lang="uk">Дюделанж</span><small> (uk)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="rdfs:label" lang="zh">迪德朗日</span><small> (zh)</small></span></li>
+</ul></td></tr><tr class="even"><td class="property"><a class="uri" href="http://www.w3.org/2000/01/rdf-schema#seeAlso"><small>rdfs:</small>seeAlso</a>
+</td><td><ul>
+	<li><span class="literal"><a class="uri" rel="rdfs:seeAlso" href="http://dbpedia.org/resource/Luxembourg"><small>dbr</small>:Luxembourg</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdfs:seeAlso" href="http://dbpedia.org/resource/Sister_cities"><small>dbr</small>:Sister_cities</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdfs:seeAlso" href="http://dbpedia.org/resource/List_of_twin_towns"><small>dbr</small>:List_of_twin_towns</a></span></li>
+</ul></td></tr><tr class="odd"><td class="property"><a class="uri" href="http://www.w3.org/2002/07/owl#sameAs"><small>owl:</small>sameAs</a>
+</td><td><ul>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://viaf.org/viaf/123307504">http://viaf.org/viaf/123307504</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://viaf.org/viaf/1892148037697188350002">http://viaf.org/viaf/1892148037697188350002</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://yago-knowledge.org/resource/Dudelange"><small>yago-res</small>:Dudelange</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://rdf.freebase.com/ns/m.04rk7c"><small>freebase</small>:Dudelange</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://ms.dbpedia.org/resource/Dudelange"><small>dbpedia-ms</small>:Dudelange</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://ka.dbpedia.org/resource/დიუდელანჟი"><small>dbpedia-ka</small>:Dudelange</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://d-nb.info/gnd/4223034-2">http://d-nb.info/gnd/4223034-2</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://sws.geonames.org/2960634/"><small>geodata</small>:Dudelange</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://sws.geonames.org/2960634"><small>geodata</small>:Dudelange</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://musicbrainz.org/area/4ea5b9a3-a6d8-409a-b3a4-6438669d5b49">http://musicbrainz.org/area/4ea5b9a3-a6d8-409a-b3a4-6438669d5b49</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://fa.dbpedia.org/resource/دودلانژ"><small>dbpedia-fa</small>:Dudelange</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://ca.dbpedia.org/resource/Dudelange"><small>dbpedia-ca</small>:Dudelange</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://hu.dbpedia.org/resource/Dudelange"><small>dbpedia-hu</small>:Dudelange</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://lt.dbpedia.org/resource/Diudelanžas">http://lt.dbpedia.org/resource/Diudelanžas</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://ro.dbpedia.org/resource/Dudelange"><small>dbpedia-ro</small>:Dudelange</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://sw.dbpedia.org/resource/Dudelange"><small>dbpedia-sw</small>:Dudelange</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://lb.dbpedia.org/resource/Gemeng_Diddeleng"><small>dbpedia-lb</small>:Dudelange</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://ru.dbpedia.org/resource/Дюделанж"><small>dbpedia-ru</small>:Dudelange</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://pl.dbpedia.org/resource/Dudelange"><small>dbpedia-pl</small>:Dudelange</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://d-nb.info/gnd/1088676-X">http://d-nb.info/gnd/1088676-X</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://uk.dbpedia.org/resource/Дюделанж"><small>dbpedia-uk</small>:Dudelange</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://d-nb.info/gnd/4223034-2/about/rdf">http://d-nb.info/gnd/4223034-2/about/rdf</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://nn.dbpedia.org/resource/Dudelange"><small>dbpedia-nn</small>:Dudelange</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://ceb.dbpedia.org/resource/Dudelange_(kapital_sa_munisipyo)">http://ceb.dbpedia.org/resource/Dudelange_(kapital_sa_munisipyo)</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://es.dbpedia.org/resource/Dudelange"><small>dbpedia-es</small>:Dudelange</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://lb.dbpedia.org/resource/Diddeleng"><small>dbpedia-lb</small>:Dudelange</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://it.dbpedia.org/resource/Dudelange"><small>dbpedia-it</small>:Dudelange</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://www.wikidata.org/entity/Q20969331"><small>wikidata</small>:Dudelange</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://ar.dbpedia.org/resource/دوديلانج"><small>dbpedia-ar</small>:Dudelange</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://be.dbpedia.org/resource/Дзюдзеланж"><small>dbpedia-be</small>:Dudelange</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://cs.dbpedia.org/resource/Dudelange"><small>dbpedia-cs</small>:Dudelange</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://www.wikidata.org/entity/Q16014"><small>wikidata</small>:Dudelange</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://no.dbpedia.org/resource/Dudelange"><small>dbpedia-no</small>:Dudelange</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://sk.dbpedia.org/resource/Dudelange"><small>dbpedia-sk</small>:Dudelange</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://sr.dbpedia.org/resource/Диделанж"><small>dbpedia-sr</small>:Dudelange</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://als.dbpedia.org/resource/Diddeleng"><small>dbpedia-als</small>:Dudelange</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://da.dbpedia.org/resource/Dudelange"><small>dbpedia-da</small>:Dudelange</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://sv.dbpedia.org/resource/Dudelange"><small>dbpedia-sv</small>:Dudelange</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://eu.dbpedia.org/resource/Dudelange"><small>dbpedia-eu</small>:Dudelange</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://tr.dbpedia.org/resource/Dudelange"><small>dbpedia-tr</small>:Dudelange</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://ko.dbpedia.org/resource/뒤들랑주"><small>dbpedia-ko</small>:Dudelange</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://pt.dbpedia.org/resource/Dudelange"><small>dbpedia-pt</small>:Dudelange</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="https://global.dbpedia.org/id/bLWe">https://global.dbpedia.org/id/bLWe</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://vo.dbpedia.org/resource/Diddeleng"><small>dbpedia-vo</small>:Dudelange</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://fr.dbpedia.org/resource/Dudelange"><small>dbpedia-fr</small>:Dudelange</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://nl.dbpedia.org/resource/Dudelange"><small>dbpedia-nl</small>:Dudelange</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://de.dbpedia.org/resource/Düdelingen"><small>dbpedia-de</small>:Dudelange</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://zh.dbpedia.org/resource/迪德朗日"><small>dbpedia-zh</small>:Dudelange</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://viaf.org/viaf/242168057">http://viaf.org/viaf/242168057</a></span></li>
+</ul></td></tr><tr class="even"><td class="property"><a class="uri" href="http://www.w3.org/ns/prov#wasDerivedFrom"><small>prov:</small>wasDerivedFrom</a>
+</td><td><ul>
+	<li><span class="literal"><a class="uri" rel="prov:wasDerivedFrom" href="http://en.wikipedia.org/wiki/Dudelange?oldid=958175001&amp;ns=0"><small>wikipedia-en</small>:Dudelange?oldid=958175001&amp;ns=0</a></span></li>
+</ul></td></tr><tr class="odd"><td class="property"><a class="uri" href="http://xmlns.com/foaf/0.1/depiction"><small>foaf:</small>depiction</a>
+</td><td><ul>
+	<li><span class="literal"><a class="uri" rel="foaf:depiction" href="http://commons.wikimedia.org/wiki/Special:FilePath/Diddeleng_Gemeng.jpg"><small>wiki-commons</small>:Special:FilePath/Diddeleng_Gemeng.jpg</a></span></li>
+</ul></td></tr><tr class="even"><td class="property"><a class="uri" href="http://xmlns.com/foaf/0.1/homepage"><small>foaf:</small>homepage</a>
+</td><td><ul>
+	<li><span class="literal"><a class="uri" rel="foaf:homepage nofollow" href="http://www.dudelange.lu">http://www.dudelange.lu</a></span></li>
+</ul></td></tr><tr class="odd"><td class="property"><a class="uri" href="http://xmlns.com/foaf/0.1/isPrimaryTopicOf"><small>foaf:</small>isPrimaryTopicOf</a>
+</td><td><ul>
+	<li><span class="literal"><a class="uri" rel="foaf:isPrimaryTopicOf" href="http://en.wikipedia.org/wiki/Dudelange"><small>wikipedia-en</small>:Dudelange</a></span></li>
+</ul></td></tr><tr class="even"><td class="property"><a class="uri" href="http://xmlns.com/foaf/0.1/name"><small>foaf:</small>name</a>
+</td><td><ul>
+	<li><span class="literal"><span property="foaf:name" lang="en">Dudelange</span><small> (en)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="property">is <a class="uri" href="http://dbpedia.org/ontology/birthPlace"><small>dbo:</small>birthPlace</a>
+ of</td><td><ul>
+	<li><span class="literal"><a class="uri" rev="dbo:birthPlace" href="http://dbpedia.org/resource/Charles_Reiff"><small>dbr</small>:Charles_Reiff</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:birthPlace" href="http://dbpedia.org/resource/Camille_Libar"><small>dbr</small>:Camille_Libar</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:birthPlace" href="http://dbpedia.org/resource/Colette_Flesch"><small>dbr</small>:Colette_Flesch</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:birthPlace" href="http://dbpedia.org/resource/Jean_Aniset"><small>dbr</small>:Jean_Aniset</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:birthPlace" href="http://dbpedia.org/resource/Jean_Hengen"><small>dbr</small>:Jean_Hengen</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:birthPlace" href="http://dbpedia.org/resource/Jean_Schmit"><small>dbr</small>:Jean_Schmit</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:birthPlace" href="http://dbpedia.org/resource/Ben_Gastauer"><small>dbr</small>:Ben_Gastauer</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:birthPlace" href="http://dbpedia.org/resource/Bernard_Michaux"><small>dbr</small>:Bernard_Michaux</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:birthPlace" href="http://dbpedia.org/resource/Kari_Peters"><small>dbr</small>:Kari_Peters</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:birthPlace" href="http://dbpedia.org/resource/Michel_Think"><small>dbr</small>:Michel_Think</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:birthPlace" href="http://dbpedia.org/resource/Fred_Stürmer"><small>dbr</small>:Fred_Stürmer</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:birthPlace" href="http://dbpedia.org/resource/Raymond_Wagner"><small>dbr</small>:Raymond_Wagner</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:birthPlace" href="http://dbpedia.org/resource/René_Peters"><small>dbr</small>:René_Peters</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:birthPlace" href="http://dbpedia.org/resource/Bruno_Mattiussi"><small>dbr</small>:Bruno_Mattiussi</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:birthPlace" href="http://dbpedia.org/resource/Robert_Schiel"><small>dbr</small>:Robert_Schiel</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:birthPlace" href="http://dbpedia.org/resource/Roger_Gilson"><small>dbr</small>:Roger_Gilson</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:birthPlace" href="http://dbpedia.org/resource/Victor_Feller"><small>dbr</small>:Victor_Feller</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:birthPlace" href="http://dbpedia.org/resource/Etienne_Schneider"><small>dbr</small>:Etienne_Schneider</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:birthPlace" href="http://dbpedia.org/resource/Eugène_Urbany"><small>dbr</small>:Eugène_Urbany</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:birthPlace" href="http://dbpedia.org/resource/Nicolas_Pauly"><small>dbr</small>:Nicolas_Pauly</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:birthPlace" href="http://dbpedia.org/resource/Wenzel_Profant"><small>dbr</small>:Wenzel_Profant</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:birthPlace" href="http://dbpedia.org/resource/Willy_Klein"><small>dbr</small>:Willy_Klein</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:birthPlace" href="http://dbpedia.org/resource/Ernest_Mengel"><small>dbr</small>:Ernest_Mengel</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:birthPlace" href="http://dbpedia.org/resource/Erny_Brenner"><small>dbr</small>:Erny_Brenner</a></span></li>
+</ul></td></tr><tr class="even"><td class="property">is <a class="uri" href="http://dbpedia.org/ontology/deathPlace"><small>dbo:</small>deathPlace</a>
+ of</td><td><ul>
+	<li><span class="literal"><a class="uri" rev="dbo:deathPlace" href="http://dbpedia.org/resource/Charles_Reiff"><small>dbr</small>:Charles_Reiff</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:deathPlace" href="http://dbpedia.org/resource/Jean_Schmit"><small>dbr</small>:Jean_Schmit</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:deathPlace" href="http://dbpedia.org/resource/Nicolas_Pauly"><small>dbr</small>:Nicolas_Pauly</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:deathPlace" href="http://dbpedia.org/resource/Willy_Klein"><small>dbr</small>:Willy_Klein</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:deathPlace" href="http://dbpedia.org/resource/Ernest_Mengel"><small>dbr</small>:Ernest_Mengel</a></span></li>
+</ul></td></tr><tr class="odd"><td class="property">is <a class="uri" href="http://dbpedia.org/ontology/ground"><small>dbo:</small>ground</a>
+ of</td><td><ul>
+	<li><span class="literal"><a class="uri" rev="dbo:ground" href="http://dbpedia.org/resource/F91_Dudelange"><small>dbr</small>:F91_Dudelange</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:ground" href="http://dbpedia.org/resource/Stade_Dudelange"><small>dbr</small>:Stade_Dudelange</a></span></li>
+</ul></td></tr><tr class="even"><td class="property">is <a class="uri" href="http://dbpedia.org/ontology/location"><small>dbo:</small>location</a>
+ of</td><td><ul>
+	<li><span class="literal"><a class="uri" rev="dbo:location" href="http://dbpedia.org/resource/Dudelange_Radio_Tower"><small>dbr</small>:Dudelange_Radio_Tower</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:location" href="http://dbpedia.org/resource/T71_Dudelange"><small>dbr</small>:T71_Dudelange</a></span></li>
+</ul></td></tr><tr class="odd"><td class="property">is <a class="uri" href="http://dbpedia.org/ontology/routeJunction"><small>dbo:</small>routeJunction</a>
+ of</td><td><ul>
+	<li><span class="literal"><a class="uri" rev="dbo:routeJunction" href="http://dbpedia.org/resource/A3_motorway_(Luxembourg)"><small>dbr</small>:A3_motorway_(Luxembourg)</a></span></li>
+</ul></td></tr><tr class="even"><td class="property">is <a class="uri" href="http://dbpedia.org/ontology/subdivision"><small>dbo:</small>subdivision</a>
+ of</td><td><ul>
+	<li><span class="literal"><a class="uri" rev="dbo:subdivision" href="http://dbpedia.org/resource/Esch-sur-Alzette_(canton)"><small>dbr</small>:Esch-sur-Alzette_(canton)</a></span></li>
+</ul></td></tr><tr class="odd"><td class="property">is <a class="uri" href="http://dbpedia.org/ontology/wikiPageRedirects"><small>dbo:</small>wikiPageRedirects</a>
+ of</td><td><ul>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageRedirects" href="http://dbpedia.org/resource/Dudelingen"><small>dbr</small>:Dudelingen</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageRedirects" href="http://dbpedia.org/resource/Diddeleng"><small>dbr</small>:Diddeleng</a></span></li>
+</ul></td></tr><tr class="even"><td class="property">is <a class="uri" href="http://dbpedia.org/ontology/wikiPageWikiLink"><small>dbo:</small>wikiPageWikiLink</a>
+ of</td><td><ul>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/2013–14_Luxembourg_Cup"><small>dbr</small>:2013–14_Luxembourg_Cup</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/2013–14_UEFA_Europa_League_qualifying_phase_and_play-off_round"><small>dbr</small>:2013–14_UEFA_Europa_League_qualifying_phase_and_play-off_round</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/2014–15_PFC_Ludogorets_Razgrad_season"><small>dbr</small>:2014–15_PFC_Ludogorets_Razgrad_season</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/2014–15_R._Charleroi_S.C._season"><small>dbr</small>:2014–15_R._Charleroi_S.C._season</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/2014–15_UEFA_Champions_League_qualifying_phase_and_play-off_round"><small>dbr</small>:2014–15_UEFA_Champions_League_qualifying_phase_and_play-off_round</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/2015_UEFA_European_Under-21_Championship_qualification_Group_3"><small>dbr</small>:2015_UEFA_European_Under-21_Championship_qualification_Group_3</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/2015–16_UEFA_Europa_League_qualifying_phase"><small>dbr</small>:2015–16_UEFA_Europa_League_qualifying_phase</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/2016–17_FK_Qarabağ_season"><small>dbr</small>:2016–17_FK_Qarabağ_season</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/2016–17_UEFA_Champions_League_qualifying_phase_and_play-off_round"><small>dbr</small>:2016–17_UEFA_Champions_League_qualifying_phase_and_play-off_round</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/2017–18_Luxembourg_National_Division"><small>dbr</small>:2017–18_Luxembourg_National_Division</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/2017–18_Total_League_season"><small>dbr</small>:2017–18_Total_League_season</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/2017–18_UEFA_Champions_League_qualifying_phase_and_play-off_round"><small>dbr</small>:2017–18_UEFA_Champions_League_qualifying_phase_and_play-off_round</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/2017–18_UEFA_Youth_League_Domestic_Champions_Path"><small>dbr</small>:2017–18_UEFA_Youth_League_Domestic_Champions_Path</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/ARBED"><small>dbr</small>:ARBED</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Luxembourg_City"><small>dbr</small>:Luxembourg_City</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Luxembourg_Cup"><small>dbr</small>:Luxembourg_Cup</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Lębork"><small>dbr</small>:Lębork</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Caspar_Mathias_Spoo"><small>dbr</small>:Caspar_Mathias_Spoo</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/United_States_men&#39;s_national_soccer_team_results_(1980–89)"><small>dbr</small>:United_States_men&#39;s_national_soccer_team_results_(1980–89)</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Jos_Romersa"><small>dbr</small>:Jos_Romersa</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Pedestrian_scramble"><small>dbr</small>:Pedestrian_scramble</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Yekaterina_Savchenko"><small>dbr</small>:Yekaterina_Savchenko</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/List_of_motorways_in_Luxembourg"><small>dbr</small>:List_of_motorways_in_Luxembourg</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/List_of_radio_stations_in_Luxembourg"><small>dbr</small>:List_of_radio_stations_in_Luxembourg</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Brasserie_de_Dudelange"><small>dbr</small>:Brasserie_de_Dudelange</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Andy_Bausch"><small>dbr</small>:Andy_Bausch</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Google_Street_View_in_Europe"><small>dbr</small>:Google_Street_View_in_Europe</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Howald"><small>dbr</small>:Howald</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/F91_Dudelange"><small>dbr</small>:F91_Dudelange</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Luxembourg_Army"><small>dbr</small>:Luxembourg_Army</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Luxembourg_National_Division_(men&#39;s_handball)"><small>dbr</small>:Luxembourg_National_Division_(men&#39;s_handball)</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Luxembourg_National_Division_(women&#39;s_handball)"><small>dbr</small>:Luxembourg_National_Division_(women&#39;s_handball)</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Alex_Bodry"><small>dbr</small>:Alex_Bodry</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/2011_Luxembourg_communal_elections"><small>dbr</small>:2011_Luxembourg_communal_elections</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Charles_Reiff"><small>dbr</small>:Charles_Reiff</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Fleur_Maxwell"><small>dbr</small>:Fleur_Maxwell</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/European_Pétanque_Championships"><small>dbr</small>:European_Pétanque_Championships</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Sport_in_Luxembourg"><small>dbr</small>:Sport_in_Luxembourg</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Nicolas_Biever"><small>dbr</small>:Nicolas_Biever</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Stade_J.F._Kennedy"><small>dbr</small>:Stade_J.F._Kennedy</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/List_of_communes_of_Luxembourg"><small>dbr</small>:List_of_communes_of_Luxembourg</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/List_of_licensed_and_localized_editions_of_Monopoly:_Europe"><small>dbr</small>:List_of_licensed_and_localized_editions_of_Monopoly:_Europe</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/List_of_towns_in_Luxembourg"><small>dbr</small>:List_of_towns_in_Luxembourg</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Free_Luxembourger_Workers&#39;_Union"><small>dbr</small>:Free_Luxembourger_Workers&#39;_Union</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Pol_Schmoetten"><small>dbr</small>:Pol_Schmoetten</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Camille_Libar"><small>dbr</small>:Camille_Libar</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/City_rights_in_the_Low_Countries"><small>dbr</small>:City_rights_in_the_Low_Countries</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Colette_Flesch"><small>dbr</small>:Colette_Flesch</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Jean_Aniset"><small>dbr</small>:Jean_Aniset</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Jean_Hengen"><small>dbr</small>:Jean_Hengen</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Jean_Schmit"><small>dbr</small>:Jean_Schmit</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Johann_Duhaupas"><small>dbr</small>:Johann_Duhaupas</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Dominique_Lang"><small>dbr</small>:Dominique_Lang</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/HB_Dudelange"><small>dbr</small>:HB_Dudelange</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/1993–94_European_Cup_Winners&#39;_Cup"><small>dbr</small>:1993–94_European_Cup_Winners&#39;_Cup</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/1994–95_UEFA_Cup_Winners&#39;_Cup"><small>dbr</small>:1994–95_UEFA_Cup_Winners&#39;_Cup</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/1999–2000_UEFA_Cup_qualifying_round"><small>dbr</small>:1999–2000_UEFA_Cup_qualifying_round</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/2000–01_UEFA_Champions_League_qualifying_rounds"><small>dbr</small>:2000–01_UEFA_Champions_League_qualifying_rounds</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Ben_Gastauer"><small>dbr</small>:Ben_Gastauer</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Benelux"><small>dbr</small>:Benelux</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Berane"><small>dbr</small>:Berane</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Bernard_Michaux"><small>dbr</small>:Bernard_Michaux</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Bettembourg"><small>dbr</small>:Bettembourg</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Kari_Peters"><small>dbr</small>:Kari_Peters</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Karim_Guerfi"><small>dbr</small>:Karim_Guerfi</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Kayl"><small>dbr</small>:Kayl</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Ligue_Francophone_de_Football_Americain_de_Belgique"><small>dbr</small>:Ligue_Francophone_de_Football_Americain_de_Belgique</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Louis_Rech"><small>dbr</small>:Louis_Rech</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Lydia_Mutsch"><small>dbr</small>:Lydia_Mutsch</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Roland_Bombardella"><small>dbr</small>:Roland_Bombardella</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/2001–02_UEFA_Champions_League_qualifying_rounds"><small>dbr</small>:2001–02_UEFA_Champions_League_qualifying_rounds</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/2002–03_S.L._Benfica_season"><small>dbr</small>:2002–03_S.L._Benfica_season</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/2002–03_UEFA_Champions_League_qualifying_rounds"><small>dbr</small>:2002–03_UEFA_Champions_League_qualifying_rounds</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/2004_Luxembourg_general_election"><small>dbr</small>:2004_Luxembourg_general_election</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/2004–05_UEFA_Cup"><small>dbr</small>:2004–05_UEFA_Cup</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/2005–06_UEFA_Champions_League_qualifying_rounds"><small>dbr</small>:2005–06_UEFA_Champions_League_qualifying_rounds</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/2006_UEFA_European_Under-17_Championship"><small>dbr</small>:2006_UEFA_European_Under-17_Championship</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/2006–07_UEFA_Champions_League_qualifying_rounds"><small>dbr</small>:2006–07_UEFA_Champions_League_qualifying_rounds</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/2007–08_UEFA_Champions_League_qualifying_rounds"><small>dbr</small>:2007–08_UEFA_Champions_League_qualifying_rounds</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/2008–09_UEFA_Champions_League_qualifying_rounds"><small>dbr</small>:2008–09_UEFA_Champions_League_qualifying_rounds</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/2009_Luxembourg_general_election"><small>dbr</small>:2009_Luxembourg_general_election</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/2009–10_Luxembourg_Cup"><small>dbr</small>:2009–10_Luxembourg_Cup</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/2009–10_UEFA_Champions_League_qualifying_phase_and_play-off_round"><small>dbr</small>:2009–10_UEFA_Champions_League_qualifying_phase_and_play-off_round</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/2010–11_UEFA_Europa_League_qualifying_phase"><small>dbr</small>:2010–11_UEFA_Europa_League_qualifying_phase</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/2011_UEFA_European_Under-21_Championship_qualification_Group_3"><small>dbr</small>:2011_UEFA_European_Under-21_Championship_qualification_Group_3</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/2011–12_NK_Maribor_season"><small>dbr</small>:2011–12_NK_Maribor_season</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/2011–12_UEFA_Champions_League_qualifying_phase_and_play-off_round"><small>dbr</small>:2011–12_UEFA_Champions_League_qualifying_phase_and_play-off_round</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/2012–13_FC_Red_Bull_Salzburg_season"><small>dbr</small>:2012–13_FC_Red_Bull_Salzburg_season</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/2012–13_KF_Tirana_season"><small>dbr</small>:2012–13_KF_Tirana_season</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/2012–13_NK_Maribor_season"><small>dbr</small>:2012–13_NK_Maribor_season</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/2012–13_UEFA_Champions_League_qualifying_phase_and_play-off_round"><small>dbr</small>:2012–13_UEFA_Champions_League_qualifying_phase_and_play-off_round</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/2012–13_UEFA_Europa_League_play-off_round"><small>dbr</small>:2012–13_UEFA_Europa_League_play-off_round</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/2012–13_UEFA_Europa_League_qualifying_phase"><small>dbr</small>:2012–13_UEFA_Europa_League_qualifying_phase</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Michel_Think"><small>dbr</small>:Michel_Think</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Martin_Kollar"><small>dbr</small>:Martin_Kollar</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Luxembourg_District"><small>dbr</small>:Luxembourg_District</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Mars_Di_Bartolomeo"><small>dbr</small>:Mars_Di_Bartolomeo</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Émile_Mayrisch"><small>dbr</small>:Émile_Mayrisch</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/GR_5"><small>dbr</small>:GR_5</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Narrow-gauge_railways_in_Luxembourg"><small>dbr</small>:Narrow-gauge_railways_in_Luxembourg</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Nicolas_Kettel"><small>dbr</small>:Nicolas_Kettel</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/US_Dudelange"><small>dbr</small>:US_Dudelange</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/2018–19_CFR_Cluj_season"><small>dbr</small>:2018–19_CFR_Cluj_season</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/2018–19_FC_Drita_season"><small>dbr</small>:2018–19_FC_Drita_season</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/2018–19_Legia_Warsaw_season"><small>dbr</small>:2018–19_Legia_Warsaw_season</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/2018–19_Luxembourg_National_Division"><small>dbr</small>:2018–19_Luxembourg_National_Division</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/2018–19_Total_League_season"><small>dbr</small>:2018–19_Total_League_season</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/2018–19_UEFA_Champions_League_qualifying_phase_and_play-off_round"><small>dbr</small>:2018–19_UEFA_Champions_League_qualifying_phase_and_play-off_round</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/2018–19_UEFA_Europa_League_group_stage"><small>dbr</small>:2018–19_UEFA_Europa_League_group_stage</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/2018–19_UEFA_Europa_League_qualifying_phase_and_play-off_round_(Champions_Path)"><small>dbr</small>:2018–19_UEFA_Europa_League_qualifying_phase_and_play-off_round_(Champions_Path)</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/2018–19_Videoton_FC_season"><small>dbr</small>:2018–19_Videoton_FC_season</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/2018–19_in_Polish_football"><small>dbr</small>:2018–19_in_Polish_football</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/2019–20_FC_Ararat-Armenia_season"><small>dbr</small>:2019–20_FC_Ararat-Armenia_season</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/2019–20_Luxembourg_National_Division"><small>dbr</small>:2019–20_Luxembourg_National_Division</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/2019–20_Qarabağ_FK_season"><small>dbr</small>:2019–20_Qarabağ_FK_season</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/2019–20_Sevilla_FC_season"><small>dbr</small>:2019–20_Sevilla_FC_season</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/2019–20_Total_League_season"><small>dbr</small>:2019–20_Total_League_season</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/2019–20_UEFA_Champions_League_qualifying_phase_and_play-off_round"><small>dbr</small>:2019–20_UEFA_Champions_League_qualifying_phase_and_play-off_round</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/2019–20_UEFA_Europa_League_group_stage"><small>dbr</small>:2019–20_UEFA_Europa_League_group_stage</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/2019–20_UEFA_Europa_League_qualifying_phase_and_play-off_round_(Champions_Path)"><small>dbr</small>:2019–20_UEFA_Europa_League_qualifying_phase_and_play-off_round_(Champions_Path)</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/2020–21_Luxembourg_National_Division"><small>dbr</small>:2020–21_Luxembourg_National_Division</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/34th_Infantry_Division_(Wehrmacht)"><small>dbr</small>:34th_Infantry_Division_(Wehrmacht)</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/2017_Luxembourg_communal_elections"><small>dbr</small>:2017_Luxembourg_communal_elections</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Auguste_Trémont"><small>dbr</small>:Auguste_Trémont</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/National_Audiovisual_Centre"><small>dbr</small>:National_Audiovisual_Centre</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/List_of_twin_towns_and_sister_cities_in_Portugal"><small>dbr</small>:List_of_twin_towns_and_sister_cities_in_Portugal</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Dudelange_Radio_Tower"><small>dbr</small>:Dudelange_Radio_Tower</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Fred_Stürmer"><small>dbr</small>:Fred_Stürmer</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Gusty_Kemp"><small>dbr</small>:Gusty_Kemp</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Hamid_Rahimi"><small>dbr</small>:Hamid_Rahimi</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Japan_national_under-20_football_team"><small>dbr</small>:Japan_national_under-20_football_team</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Semiray_Ahmedova"><small>dbr</small>:Semiray_Ahmedova</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Zoltán_Béres"><small>dbr</small>:Zoltán_Béres</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Jean_Back"><small>dbr</small>:Jean_Back</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Stade_Dudelange"><small>dbr</small>:Stade_Dudelange</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/2005_Luxembourg_communal_elections"><small>dbr</small>:2005_Luxembourg_communal_elections</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/2006–07_Luxembourg_National_Division"><small>dbr</small>:2006–07_Luxembourg_National_Division</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/2007–08_Luxembourg_National_Division"><small>dbr</small>:2007–08_Luxembourg_National_Division</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/2020_in_archosaur_paleontology"><small>dbr</small>:2020_in_archosaur_paleontology</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Budersberg"><small>dbr</small>:Budersberg</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Burange"><small>dbr</small>:Burange</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/CA_Dudelange"><small>dbr</small>:CA_Dudelange</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Raymond_Wagner"><small>dbr</small>:Raymond_Wagner</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/René_Peters"><small>dbr</small>:René_Peters</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Yvette_Gastauer-Claire"><small>dbr</small>:Yvette_Gastauer-Claire</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/A1_motorway_(Luxembourg)"><small>dbr</small>:A1_motorway_(Luxembourg)</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/A3_motorway_(Luxembourg)"><small>dbr</small>:A3_motorway_(Luxembourg)</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Communes_of_Luxembourg"><small>dbr</small>:Communes_of_Luxembourg</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Total_League"><small>dbr</small>:Total_League</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Dudelange-Burange_railway_station"><small>dbr</small>:Dudelange-Burange_railway_station</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Dudelange-Centre_railway_station"><small>dbr</small>:Dudelange-Centre_railway_station</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Dudelange-Usines_railway_station"><small>dbr</small>:Dudelange-Usines_railway_station</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Dudelange-Ville_railway_station"><small>dbr</small>:Dudelange-Ville_railway_station</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Dudelange_Castle"><small>dbr</small>:Dudelange_Castle</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Germaine_Goetzinger"><small>dbr</small>:Germaine_Goetzinger</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Nordstad"><small>dbr</small>:Nordstad</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Red_Lands"><small>dbr</small>:Red_Lands</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Phenix_Works"><small>dbr</small>:Phenix_Works</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Bruno_Mattiussi"><small>dbr</small>:Bruno_Mattiussi</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/CFL_Class_2000"><small>dbr</small>:CFL_Class_2000</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Aline_Mayrisch_de_Saint-Hubert"><small>dbr</small>:Aline_Mayrisch_de_Saint-Hubert</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Alliance_Dudelange"><small>dbr</small>:Alliance_Dudelange</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Aloyse_Meyer"><small>dbr</small>:Aloyse_Meyer</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Lauenburg"><small>dbr</small>:Lauenburg</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/List_of_athletics_clubs_in_Luxembourg"><small>dbr</small>:List_of_athletics_clubs_in_Luxembourg</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/List_of_communes_of_Luxembourg_by_lowest_point"><small>dbr</small>:List_of_communes_of_Luxembourg_by_lowest_point</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/List_of_mayors_of_Dudelange"><small>dbr</small>:List_of_mayors_of_Dudelange</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/List_of_members_of_the_Chamber_of_Deputies_of_Luxembourg_2009–2013"><small>dbr</small>:List_of_members_of_the_Chamber_of_Deputies_of_Luxembourg_2009–2013</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Belval,_Luxembourg"><small>dbr</small>:Belval,_Luxembourg</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Bernard_Berg"><small>dbr</small>:Bernard_Berg</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Bettina_Scholl-Sabbatini"><small>dbr</small>:Bettina_Scholl-Sabbatini</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Robbie_Benson"><small>dbr</small>:Robbie_Benson</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Robert_Schiel"><small>dbr</small>:Robert_Schiel</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Roger_Gilson"><small>dbr</small>:Roger_Gilson</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/T71_Dudelange"><small>dbr</small>:T71_Dudelange</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Coverage_of_Google_Street_View"><small>dbr</small>:Coverage_of_Google_Street_View</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Victor_Feller"><small>dbr</small>:Victor_Feller</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Mont_St._Jean,_Luxembourg"><small>dbr</small>:Mont_St._Jean,_Luxembourg</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/List_of_communes_of_Luxembourg_by_area"><small>dbr</small>:List_of_communes_of_Luxembourg_by_area</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/List_of_communes_of_Luxembourg_by_highest_point"><small>dbr</small>:List_of_communes_of_Luxembourg_by_highest_point</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/List_of_communes_of_Luxembourg_by_population"><small>dbr</small>:List_of_communes_of_Luxembourg_by_population</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/List_of_communes_of_Luxembourg_by_population_density"><small>dbr</small>:List_of_communes_of_Luxembourg_by_population_density</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/List_of_football_clubs_in_Luxembourg"><small>dbr</small>:List_of_football_clubs_in_Luxembourg</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/List_of_football_stadiums_in_Luxembourg"><small>dbr</small>:List_of_football_stadiums_in_Luxembourg</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Etienne_Schneider"><small>dbr</small>:Etienne_Schneider</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Eugène_Urbany"><small>dbr</small>:Eugène_Urbany</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/European_Champion_Clubs_Cup_(athletics)"><small>dbr</small>:European_Champion_Clubs_Cup_(athletics)</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/European_route_E25"><small>dbr</small>:European_route_E25</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/FIBA_EuroBasket_2005_Division_B"><small>dbr</small>:FIBA_EuroBasket_2005_Division_B</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Feltre"><small>dbr</small>:Feltre</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Nicolas_Pauly"><small>dbr</small>:Nicolas_Pauly</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Pierre_Cao"><small>dbr</small>:Pierre_Cao</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Plagiophthalmosuchus"><small>dbr</small>:Plagiophthalmosuchus</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Steel_industry_in_Luxembourg"><small>dbr</small>:Steel_industry_in_Luxembourg</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Stenopterygius"><small>dbr</small>:Stenopterygius</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Croix_de_Gasperich"><small>dbr</small>:Croix_de_Gasperich</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Wenzel_Profant"><small>dbr</small>:Wenzel_Profant</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Willy_Klein"><small>dbr</small>:Willy_Klein</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Erna_Hennicot-Schoepges"><small>dbr</small>:Erna_Hennicot-Schoepges</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Stade_Jos_Nosbaum"><small>dbr</small>:Stade_Jos_Nosbaum</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/List_of_land_borders_with_dates_of_establishment"><small>dbr</small>:List_of_land_borders_with_dates_of_establishment</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/List_of_members_of_the_Chamber_of_Deputies_of_Luxembourg_2004–2009"><small>dbr</small>:List_of_members_of_the_Chamber_of_Deputies_of_Luxembourg_2004–2009</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/List_of_railway_stations_in_Luxembourg"><small>dbr</small>:List_of_railway_stations_in_Luxembourg</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/List_of_secondary_schools_in_Luxembourg"><small>dbr</small>:List_of_secondary_schools_in_Luxembourg</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Ermano_Fegatilli"><small>dbr</small>:Ermano_Fegatilli</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Ernest_Mengel"><small>dbr</small>:Ernest_Mengel</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Erny_Brenner"><small>dbr</small>:Erny_Brenner</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Esch-sur-Alzette_(canton)"><small>dbr</small>:Esch-sur-Alzette_(canton)</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Hauffiopteryx"><small>dbr</small>:Hauffiopteryx</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/History_of_Fehérvár_FC"><small>dbr</small>:History_of_Fehérvár_FC</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/History_of_Ferencvárosi_TC"><small>dbr</small>:History_of_Ferencvárosi_TC</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Grand_Ducal_Police"><small>dbr</small>:Grand_Ducal_Police</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Geography_of_Luxembourg"><small>dbr</small>:Geography_of_Luxembourg</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/List_of_Luxembourgish_records_in_athletics"><small>dbr</small>:List_of_Luxembourgish_records_in_athletics</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/List_of_towns_in_Luxembourg_by_population"><small>dbr</small>:List_of_towns_in_Luxembourg_by_population</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/List_of_twin_towns_and_sister_cities_in_Italy"><small>dbr</small>:List_of_twin_towns_and_sister_cities_in_Italy</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/List_of_twin_towns_and_sister_cities_in_Luxembourg"><small>dbr</small>:List_of_twin_towns_and_sister_cities_in_Luxembourg</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/List_of_twin_towns_and_sister_cities_in_Montenegro"><small>dbr</small>:List_of_twin_towns_and_sister_cities_in_Montenegro</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/List_of_twin_towns_and_sister_cities_in_Poland"><small>dbr</small>:List_of_twin_towns_and_sister_cities_in_Poland</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Manom"><small>dbr</small>:Manom</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Marie_Heffenisch"><small>dbr</small>:Marie_Heffenisch</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Frank_Peeters"><small>dbr</small>:Frank_Peeters</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Dudelingen"><small>dbr</small>:Dudelingen</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Diddeleng"><small>dbr</small>:Diddeleng</a></span></li>
+</ul></td></tr><tr class="odd"><td class="property">is <a class="uri" href="http://dbpedia.org/property/birthPlace"><small>dbp:</small>birthPlace</a>
+ of</td><td><ul>
+	<li><span class="literal"><a class="uri" rev="dbp:birthPlace" href="http://dbpedia.org/resource/Colette_Flesch"><small>dbr</small>:Colette_Flesch</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbp:birthPlace" href="http://dbpedia.org/resource/Jean_Hengen"><small>dbr</small>:Jean_Hengen</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbp:birthPlace" href="http://dbpedia.org/resource/Jean_Schmit"><small>dbr</small>:Jean_Schmit</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbp:birthPlace" href="http://dbpedia.org/resource/Kari_Peters"><small>dbr</small>:Kari_Peters</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbp:birthPlace" href="http://dbpedia.org/resource/René_Peters"><small>dbr</small>:René_Peters</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbp:birthPlace" href="http://dbpedia.org/resource/Robert_Schiel"><small>dbr</small>:Robert_Schiel</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbp:birthPlace" href="http://dbpedia.org/resource/Roger_Gilson"><small>dbr</small>:Roger_Gilson</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbp:birthPlace" href="http://dbpedia.org/resource/Etienne_Schneider"><small>dbr</small>:Etienne_Schneider</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbp:birthPlace" href="http://dbpedia.org/resource/Eugène_Urbany"><small>dbr</small>:Eugène_Urbany</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbp:birthPlace" href="http://dbpedia.org/resource/Erny_Brenner"><small>dbr</small>:Erny_Brenner</a></span></li>
+</ul></td></tr><tr class="even"><td class="property">is <a class="uri" href="http://dbpedia.org/property/e"><small>dbp:</small>e</a>
+ of</td><td><ul>
+	<li><span class="literal"><a class="uri" rev="dbp:e" href="http://dbpedia.org/resource/Kayl"><small>dbr</small>:Kayl</a></span></li>
+</ul></td></tr><tr class="odd"><td class="property">is <a class="uri" href="http://dbpedia.org/property/ground"><small>dbp:</small>ground</a>
+ of</td><td><ul>
+	<li><span class="literal"><a class="uri" rev="dbp:ground" href="http://dbpedia.org/resource/F91_Dudelange"><small>dbr</small>:F91_Dudelange</a></span></li>
+</ul></td></tr><tr class="even"><td class="property">is <a class="uri" href="http://dbpedia.org/property/location"><small>dbp:</small>location</a>
+ of</td><td><ul>
+	<li><span class="literal"><a class="uri" rev="dbp:location" href="http://dbpedia.org/resource/2014–15_PFC_Ludogorets_Razgrad_season"><small>dbr</small>:2014–15_PFC_Ludogorets_Razgrad_season</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbp:location" href="http://dbpedia.org/resource/2014–15_R._Charleroi_S.C._season"><small>dbr</small>:2014–15_R._Charleroi_S.C._season</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbp:location" href="http://dbpedia.org/resource/2016–17_FK_Qarabağ_season"><small>dbr</small>:2016–17_FK_Qarabağ_season</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbp:location" href="http://dbpedia.org/resource/United_States_men&#39;s_national_soccer_team_results_(1980–89)"><small>dbr</small>:United_States_men&#39;s_national_soccer_team_results_(1980–89)</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbp:location" href="http://dbpedia.org/resource/2002–03_S.L._Benfica_season"><small>dbr</small>:2002–03_S.L._Benfica_season</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbp:location" href="http://dbpedia.org/resource/2011–12_NK_Maribor_season"><small>dbr</small>:2011–12_NK_Maribor_season</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbp:location" href="http://dbpedia.org/resource/2012–13_FC_Red_Bull_Salzburg_season"><small>dbr</small>:2012–13_FC_Red_Bull_Salzburg_season</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbp:location" href="http://dbpedia.org/resource/2012–13_KF_Tirana_season"><small>dbr</small>:2012–13_KF_Tirana_season</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbp:location" href="http://dbpedia.org/resource/2012–13_NK_Maribor_season"><small>dbr</small>:2012–13_NK_Maribor_season</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbp:location" href="http://dbpedia.org/resource/2018–19_CFR_Cluj_season"><small>dbr</small>:2018–19_CFR_Cluj_season</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbp:location" href="http://dbpedia.org/resource/2018–19_Videoton_FC_season"><small>dbr</small>:2018–19_Videoton_FC_season</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbp:location" href="http://dbpedia.org/resource/Dudelange_Radio_Tower"><small>dbr</small>:Dudelange_Radio_Tower</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbp:location" href="http://dbpedia.org/resource/Japan_national_under-20_football_team"><small>dbr</small>:Japan_national_under-20_football_team</a></span></li>
+</ul></td></tr><tr class="odd"><td class="property">is <a class="uri" href="http://dbpedia.org/property/locationCity"><small>dbp:</small>locationCity</a>
+ of</td><td><ul>
+	<li><span class="literal"><a class="uri" rev="dbp:locationCity" href="http://dbpedia.org/resource/Brasserie_de_Dudelange"><small>dbr</small>:Brasserie_de_Dudelange</a></span></li>
+</ul></td></tr><tr class="even"><td class="property">is <a class="uri" href="http://dbpedia.org/property/place"><small>dbp:</small>place</a>
+ of</td><td><ul>
+	<li><span class="literal"><a class="uri" rev="dbp:place" href="http://dbpedia.org/resource/FIBA_EuroBasket_2005_Division_B"><small>dbr</small>:FIBA_EuroBasket_2005_Division_B</a></span></li>
+</ul></td></tr><tr class="odd"><td class="property">is <a class="uri" href="http://dbpedia.org/property/s"><small>dbp:</small>s</a>
+ of</td><td><ul>
+	<li><span class="literal"><a class="uri" rev="dbp:s" href="http://dbpedia.org/resource/Bettembourg"><small>dbr</small>:Bettembourg</a></span></li>
+</ul></td></tr><tr class="even"><td class="property">is <a class="uri" href="http://dbpedia.org/property/space"><small>dbp:</small>space</a>
+ of</td><td><ul>
+	<li><span class="literal"><a class="uri" rev="dbp:space" href="http://dbpedia.org/resource/List_of_licensed_and_localized_editions_of_Monopoly:_Europe"><small>dbr</small>:List_of_licensed_and_localized_editions_of_Monopoly:_Europe</a></span></li>
+</ul></td></tr><tr class="odd"><td class="property">is <a class="uri" href="http://dbpedia.org/property/stadium"><small>dbp:</small>stadium</a>
+ of</td><td><ul>
+	<li><span class="literal"><a class="uri" rev="dbp:stadium" href="http://dbpedia.org/resource/2013–14_Luxembourg_Cup"><small>dbr</small>:2013–14_Luxembourg_Cup</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbp:stadium" href="http://dbpedia.org/resource/2013–14_UEFA_Europa_League_qualifying_phase_and_play-off_round"><small>dbr</small>:2013–14_UEFA_Europa_League_qualifying_phase_and_play-off_round</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbp:stadium" href="http://dbpedia.org/resource/2014–15_UEFA_Champions_League_qualifying_phase_and_play-off_round"><small>dbr</small>:2014–15_UEFA_Champions_League_qualifying_phase_and_play-off_round</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbp:stadium" href="http://dbpedia.org/resource/2015_UEFA_European_Under-21_Championship_qualification_Group_3"><small>dbr</small>:2015_UEFA_European_Under-21_Championship_qualification_Group_3</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbp:stadium" href="http://dbpedia.org/resource/2016–17_UEFA_Champions_League_qualifying_phase_and_play-off_round"><small>dbr</small>:2016–17_UEFA_Champions_League_qualifying_phase_and_play-off_round</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbp:stadium" href="http://dbpedia.org/resource/2017–18_UEFA_Champions_League_qualifying_phase_and_play-off_round"><small>dbr</small>:2017–18_UEFA_Champions_League_qualifying_phase_and_play-off_round</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbp:stadium" href="http://dbpedia.org/resource/2017–18_UEFA_Youth_League_Domestic_Champions_Path"><small>dbr</small>:2017–18_UEFA_Youth_League_Domestic_Champions_Path</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbp:stadium" href="http://dbpedia.org/resource/1993–94_European_Cup_Winners&#39;_Cup"><small>dbr</small>:1993–94_European_Cup_Winners&#39;_Cup</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbp:stadium" href="http://dbpedia.org/resource/1994–95_UEFA_Cup_Winners&#39;_Cup"><small>dbr</small>:1994–95_UEFA_Cup_Winners&#39;_Cup</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbp:stadium" href="http://dbpedia.org/resource/1999–2000_UEFA_Cup_qualifying_round"><small>dbr</small>:1999–2000_UEFA_Cup_qualifying_round</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbp:stadium" href="http://dbpedia.org/resource/2000–01_UEFA_Champions_League_qualifying_rounds"><small>dbr</small>:2000–01_UEFA_Champions_League_qualifying_rounds</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbp:stadium" href="http://dbpedia.org/resource/2004–05_UEFA_Cup"><small>dbr</small>:2004–05_UEFA_Cup</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbp:stadium" href="http://dbpedia.org/resource/2005–06_UEFA_Champions_League_qualifying_rounds"><small>dbr</small>:2005–06_UEFA_Champions_League_qualifying_rounds</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbp:stadium" href="http://dbpedia.org/resource/2006_UEFA_European_Under-17_Championship"><small>dbr</small>:2006_UEFA_European_Under-17_Championship</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbp:stadium" href="http://dbpedia.org/resource/2006–07_UEFA_Champions_League_qualifying_rounds"><small>dbr</small>:2006–07_UEFA_Champions_League_qualifying_rounds</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbp:stadium" href="http://dbpedia.org/resource/2007–08_UEFA_Champions_League_qualifying_rounds"><small>dbr</small>:2007–08_UEFA_Champions_League_qualifying_rounds</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbp:stadium" href="http://dbpedia.org/resource/2008–09_UEFA_Champions_League_qualifying_rounds"><small>dbr</small>:2008–09_UEFA_Champions_League_qualifying_rounds</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbp:stadium" href="http://dbpedia.org/resource/2009–10_Luxembourg_Cup"><small>dbr</small>:2009–10_Luxembourg_Cup</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbp:stadium" href="http://dbpedia.org/resource/2009–10_UEFA_Champions_League_qualifying_phase_and_play-off_round"><small>dbr</small>:2009–10_UEFA_Champions_League_qualifying_phase_and_play-off_round</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbp:stadium" href="http://dbpedia.org/resource/2010–11_UEFA_Europa_League_qualifying_phase"><small>dbr</small>:2010–11_UEFA_Europa_League_qualifying_phase</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbp:stadium" href="http://dbpedia.org/resource/2011_UEFA_European_Under-21_Championship_qualification_Group_3"><small>dbr</small>:2011_UEFA_European_Under-21_Championship_qualification_Group_3</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbp:stadium" href="http://dbpedia.org/resource/2011–12_UEFA_Champions_League_qualifying_phase_and_play-off_round"><small>dbr</small>:2011–12_UEFA_Champions_League_qualifying_phase_and_play-off_round</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbp:stadium" href="http://dbpedia.org/resource/2012–13_UEFA_Champions_League_qualifying_phase_and_play-off_round"><small>dbr</small>:2012–13_UEFA_Champions_League_qualifying_phase_and_play-off_round</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbp:stadium" href="http://dbpedia.org/resource/2018–19_UEFA_Champions_League_qualifying_phase_and_play-off_round"><small>dbr</small>:2018–19_UEFA_Champions_League_qualifying_phase_and_play-off_round</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbp:stadium" href="http://dbpedia.org/resource/2018–19_UEFA_Europa_League_qualifying_phase_and_play-off_round_(Champions_Path)"><small>dbr</small>:2018–19_UEFA_Europa_League_qualifying_phase_and_play-off_round_(Champions_Path)</a></span></li>
+</ul></td></tr><tr class="even"><td class="property">is <a class="uri" href="http://xmlns.com/foaf/0.1/primaryTopic"><small>foaf:</small>primaryTopic</a>
+ of</td><td><ul>
+	<li><span class="literal"><a class="uri" rev="foaf:primaryTopic" href="http://en.wikipedia.org/wiki/Dudelange"><small>wikipedia-en</small>:Dudelange</a></span></li>
+</ul></td></tr>
+      </table>
+    </div>
+<!-- row  -->
+</div>
+</div>
+<!-- footer -->
+<div class="footer">
+    <div class="container">
+	<a href="https://virtuoso.openlinksw.com" title="OpenLink Virtuoso"><img class="powered_by" src="/statics/images/virt_power_no_border.png" alt="Powered by OpenLink Virtuoso"/></a>&nbsp; &nbsp;
+	<a href="http://linkeddata.org/"><img alt="This material is Open Knowledge" src="/statics/images/LoDLogo.gif"/></a> &nbsp; &nbsp;
+	<a href="http://dbpedia.org/sparql"><img alt="W3C Semantic Web Technology" src="/statics/images/sw-sparql-blue.png"/></a> &nbsp;  &nbsp;
+	<a href="https://opendefinition.org/"><img alt="This material is Open Knowledge" src="/statics/images/od_80x15_red_green.png"/></a>&nbsp; &nbsp;
+	<span style="display:none;" about=""
+	    resource="http://www.w3.org/TR/rdfa-syntax"
+	    rel="dc:conformsTo">
+	    <a href="https://validator.w3.org/check?uri=referer">
+		<img src="https://www.w3.org/Icons/valid-xhtml-rdfa" alt="Valid XHTML + RDFa" height="27px" />
+	    </a>
+	</span>
+	<br />
+	<div class="text-muted">
+	    This content was extracted from <a href="http://en.wikipedia.org/wiki/Dudelange">Wikipedia</a> and is licensed under the <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike 3.0 Unported License</a>
+
+	</div>
+    </div>
+</div>
+<!-- #footer -->
+<!--#content-->
+    <!--script type="text/javascript">
+     Place any Javascript code e.g. Google Analytics scripts
+    </script-->
+    
+    <script type="text/javascript" src="/statics/js/jquery.min.js"></script>
+    <script type="text/javascript" src="/statics/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="/statics/js/dbpedia.js"></script>
+</body>
+</html>

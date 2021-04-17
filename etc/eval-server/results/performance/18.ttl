@@ -1,0 +1,1450 @@
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+dbr:France	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Switzerland	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Slovenian_tolar	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Coins_of_Turkey	dbo:wikiPageWikiLink	dbr:Eurozone .
+<http://dbpedia.org/resource/Euro_gold_and_silver_commemorative_coins_(Greece)>	dbo:wikiPageWikiLink	dbr:Eurozone .
+<http://dbpedia.org/resource/T\u00FCrk_Ekonomi_Bankas\u0131>	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Currency_substitution	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:European_Union_response_to_the_COVID-19_pandemic	dbo:wikiPageWikiLink	dbr:Eurozone .
+<http://dbpedia.org/resource/Icelandic_kr\u00F3na>	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Scottish_independence	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Capital_control	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:European_Commissioner_for_Competition	dbo:wikiPageWikiLink	dbr:Eurozone .
+<http://dbpedia.org/resource/2012_Finnish_presidential_election>	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Finland	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Central_Europe	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Frankfurt	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Paris	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Europe	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Financial_centre	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:World_Bank_high-income_economy	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:European_Union	dbo:currency	dbr:Eurozone ;
+	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Sandro_Gozi	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Salary_cap	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:History_of_Belgium	dbo:wikiPageWikiLink	dbr:Eurozone .
+<http://dbpedia.org/resource/Sipil\u00E4_Cabinet>	dbo:wikiPageWikiLink	dbr:Eurozone .
+<http://dbpedia.org/resource/2007>	dbo:wikiPageWikiLink	dbr:Eurozone .
+<http://dbpedia.org/resource/2008_in_the_European_Union>	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Appalled_Economists	dbo:wikiPageWikiLink	dbr:Eurozone .
+<http://dbpedia.org/resource/2020>	dbo:wikiPageWikiLink	dbr:Eurozone .
+<http://dbpedia.org/resource/2020_stock_market_crash>	dbo:wikiPageWikiLink	dbr:Eurozone .
+<http://dbpedia.org/resource/2024>	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Ouroux-en-Morvan	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Regions_of_Europe	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Coin_collecting	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Aachen_Treaty	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Accession_of_Turkey_to_the_European_Union	dbo:wikiPageWikiLink	dbr:Eurozone .
+<http://dbpedia.org/resource/2_euro_commemorative_coins>	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:International_organisations_in_Europe	dbo:wikiPageWikiLink	dbr:Eurozone .
+<http://dbpedia.org/resource/Italy\u2013Spain_relations>	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Timeline_of_French_history	dbo:wikiPageWikiLink	dbr:Eurozone .
+<http://dbpedia.org/resource/Todd_G._Buchholz>	dbo:wikiPageWikiLink	dbr:Eurozone .
+<http://dbpedia.org/resource/J\u00FCrgen_von_Hagen>	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Variety_stores_around_the_world	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Currency_crisis	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Progressive_Party_of_Working_People	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Nintendo_Selects	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:North_American_monetary_union	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Aviva	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Economic_history_of_Spain	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Spahn_tax	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Central_bank	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Centre_for_the_Study_of_Financial_Innovation	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:History_of_the_Balkans	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Concordia_Summit	dbo:wikiPageWikiLink	dbr:Eurozone .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:United_States_of_Europe	dbp:caption	dbr:Eurozone ;
+	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Fixed_exchange_rate_system	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:International_lender_of_last_resort	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Czech_Social_Democratic_Party	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Danmarks_Nationalbank	dbo:wikiPageWikiLink	dbr:Eurozone .
+<http://dbpedia.org/resource/Popular_Unity_(Greece)>	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Federalism_in_India	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Right-wing_populism	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Reserve_currency	dbo:wikiPageWikiLink	dbr:Eurozone .
+<http://dbpedia.org/resource/5_euro_cent_coin>	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Intergovernmentalism	dbo:wikiPageWikiLink	dbr:Eurozone .
+<http://dbpedia.org/resource/1_euro_cent_coin>	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Michael_Sarris	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Economic_forecasting	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Prague_European_Summit	dbo:wikiPageWikiLink	dbr:Eurozone .
+<http://dbpedia.org/resource/2_euro_cent_coin>	dbo:wikiPageWikiLink	dbr:Eurozone .
+<http://dbpedia.org/resource/Viktor_Orb\u00E1n>	dbo:wikiPageWikiLink	dbr:Eurozone .
+<http://dbpedia.org/resource/Mehmet_\u015Eim\u015Fek>	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Political_career_of_Silvio_Berlusconi	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Demetris_Christofias	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Lithuanian_litas	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Pahonia	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Politics_of_Estonia	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Timeline_of_Latvian_history	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Youth_unemployment_in_Spain	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Sol_Daurella	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Euro_Currency_Index	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Euro_calculator	dbo:wikiPageWikiLink	dbr:Eurozone .
+<http://dbpedia.org/resource/2000s_European_sovereign_debt_crisis_timeline>	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Amadeu_Altafaj	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:PASOK	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:CFA_franc	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:List_of_companies_of_Spain	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Heiner_Flassbeck	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Tavar_Zawacki	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Joe_Lynam	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Politics_of_Germany	dbo:wikiPageWikiLink	dbr:Eurozone .
+<http://dbpedia.org/resource/Eurobond_(eurozone)>	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Formula_One_Group	dbo:wikiPageWikiLink	dbr:Eurozone .
+<http://dbpedia.org/resource/Reimer_B\u00F6ge>	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Burkhard_Balz	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Manfred_Weber	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:European_DataWarehouse	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Lothar_Binding	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Jens_Weidmann	dbo:wikiPageWikiLink	dbr:Eurozone .
+@prefix ns3:	<http://dbpedia.org/resource/Austerity:> .
+ns3:_The_History_of_a_Dangerous_Idea	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:President_of_the_European_Central_Bank	dbo:wikiPageWikiLink	dbr:Eurozone .
+<http://dbpedia.org/resource/Stefan_Berger_(politician)>	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Governing_Council_of_the_European_Central_Bank	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Markus_Brunnermeier	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Sanpaolo_IMI	dbo:wikiPageWikiLink	dbr:Eurozone .
+<http://dbpedia.org/resource/Komer\u010Dn\u00ED_banka_Bratislava>	dbo:wikiPageWikiLink	dbr:Eurozone .
+<http://dbpedia.org/resource/Jos\u00E9_Antonio_Alvarez>	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Euronext_Growth	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Berlin	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Malta	dbo:wikiPageWikiLink	dbr:Eurozone .
+<http://dbpedia.org/resource/2014>	dbo:wikiPageWikiLink	dbr:Eurozone .
+<http://dbpedia.org/resource/Douglas_Murray_(author)>	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Luc_Frieden	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Miranda_Xafa	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:EURONIA	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Euribor	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Danae_Kyriakopoulou	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Consensus_Economics	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:List_of_companies_of_Greece	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Aris_Chatzistefanou	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Vicky_Pryce	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:New_Flemish_Alliance	dbo:wikiPageWikiLink	dbr:Eurozone .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+wikipedia-en:Eurozone	foaf:primaryTopic	dbr:Eurozone .
+<http://dbpedia.org/resource/Austria\u2013Germany_relations>	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:James_Dyson	dbo:wikiPageWikiLink	dbr:Eurozone .
+<http://dbpedia.org/resource/1998\u20132002_Argentine_great_depression>	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Italian_Left	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Emma_Reynolds	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Debt_monetization	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Kosovo	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:President_of_the_European_Council	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Jean-Claude_Juncker	dbo:wikiPageWikiLink	dbr:Eurozone .
+<http://dbpedia.org/resource/2004_enlargement_of_the_European_Union>	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Premiership_of_Tony_Blair	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:COVID-19_recession	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Silvio_Berlusconi	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:European_Exchange_Rate_Mechanism	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:United_Kingdom_and_the_euro	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Foreign_relations_of_the_United_Kingdom	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:List_of_presidents_of_the_institutions_of_the_European_Union	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:List_of_European_Council_meetings	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Jeremy_Paxman	dbo:wikiPageWikiLink	dbr:Eurozone .
+<http://dbpedia.org/resource/2011_in_the_United_Kingdom>	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Anthony_Giddens	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Wolfson_Economics_Prize	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Populism_in_Europe	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Peter_Oborne	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Politics_of_the_European_Union	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Premiership_of_Margaret_Thatcher	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Emmanuel_Macron	dbo:wikiPageWikiLink	dbr:Eurozone .
+<http://dbpedia.org/resource/Jos\u00E9_Mar\u00EDa_Aznar>	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Treaty_establishing_a_Constitution_for_Europe	dbo:wikiPageWikiLink	dbr:Eurozone .
+<http://dbpedia.org/resource/2013_Italian_general_election>	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Unemployment	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Baltic_states	dbo:wikiPageWikiLink	dbr:Eurozone .
+<http://dbpedia.org/resource/2018_Italian_general_election>	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Dynamic_stochastic_general_equilibrium	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Corruption	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:European_Union_law	dbo:wikiPageWikiLink	dbr:Eurozone .
+<http://dbpedia.org/resource/Herv\u00E9_Carr\u00E9>	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Internationalization_of_the_renminbi	dbo:wikiPageWikiLink	dbr:Eurozone .
+<http://dbpedia.org/resource/2015_in_the_European_Union>	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:French_Communist_Party	dbo:wikiPageWikiLink	dbr:Eurozone .
+<http://dbpedia.org/resource/C\u00E1ndido_Conde-Pumpido>	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:European_Federalist_Party	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Deutsche_Bundesbank	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:European_System_of_Central_Banks	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Euro_convergence_criteria	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Austerity	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Treaty_on_the_Functioning_of_the_European_Union	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:European_Central_Bank	dbo:wikiPageWikiLink	dbr:Eurozone .
+<http://dbpedia.org/resource/Subsidiarity_(European_Union)>	dbo:wikiPageWikiLink	dbr:Eurozone .
+<http://dbpedia.org/resource/2015\u20132016_United_Kingdom_renegotiation_of_European_Union_membership>	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Controversies_surrounding_the_Eurozone_crisis	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Political_positions_of_Marine_Le_Pen	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Denmark_and_the_euro	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Greek_government-debt_crisis	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:President_of_the_European_Commission	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Central_Bank_of_Ireland	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Fiscal_adjustment	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:European_Financial_Stability_Facility	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Danish_opt-outs_from_the_European_Union	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Debt_crisis	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Acts_of_Parliament_of_the_United_Kingdom_relating_to_the_European_Communities_and_the_European_Union	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Baltic_states_housing_bubble	dbo:wikiPageWikiLink	dbr:Eurozone .
+<http://dbpedia.org/resource/2000_Danish_euro_referendum>	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Causes_of_the_European_debt_crisis	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Special_member_state_territories_and_the_European_Union	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:History_of_the_euro	dbo:wikiPageWikiLink	dbr:Eurozone .
+<http://dbpedia.org/resource/History_of_the_European_Union_(1993\u20132004)>	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Five_economic_tests	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Irish_property_bubble	dbo:wikiPageWikiLink	dbr:Eurozone .
+<http://dbpedia.org/resource/Bruges_Group_(United_Kingdom)>	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Czech_Republic_and_the_euro	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Passports_in_Europe	dbo:currency	dbr:Eurozone ;
+	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Paul_Kazarian	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:European_troika	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Poland_and_the_euro	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Economic_and_monetary_union	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Federalisation_of_the_European_Union	dbp:caption	dbr:Eurozone ;
+	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Elmar_Brok	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Enlargement_of_the_eurozone	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Montenegro_and_the_euro	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Institutions_of_the_European_Union	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Yves_Mersch	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Five_Star_Movement	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Peter_Hintze	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Kosovo_and_the_euro	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:List_of_currencies_in_Europe	dbo:wikiPageWikiLink	dbr:Eurozone .
+<http://dbpedia.org/resource/Croatia\u2013Romania_relations>	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Proposed_long-term_solutions_for_the_Eurozone_crisis	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Greek_government-debt_crisis_timeline	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Economic_union	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Treaty_establishing_the_European_Stability_Mechanism	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:European_Fiscal_Compact	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Green_League	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Finnish_People_First	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Finns_Party	dbo:wikiPageWikiLink	dbr:Eurozone .
+<http://dbpedia.org/resource/Finland\u2013Latvia_relations>	dbo:wikiPageWikiLink	dbr:Eurozone .
+<http://dbpedia.org/resource/Estonia\u2013Finland_relations>	dbo:wikiPageWikiLink	dbr:Eurozone .
+<http://dbpedia.org/resource/2011_Finnish_parliamentary_election>	dbo:wikiPageWikiLink	dbr:Eurozone .
+<http://dbpedia.org/resource/Independence_Party_(Finland)>	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Olli_Rehn	dbo:wikiPageWikiLink	dbr:Eurozone .
+<http://dbpedia.org/resource/Euro_gold_and_silver_commemorative_coins_(Monaco)>	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:History_of_Europe	dbo:wikiPageWikiLink	dbr:Eurozone .
+<http://dbpedia.org/resource/Euro_gold_and_silver_commemorative_coins_(Austria)>	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Pordata	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Estonian_kroon	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Fiat_money	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Trade_bloc	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Belgium	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:History_of_Germany	dbo:wikiPageWikiLink	dbr:Eurozone .
+<http://dbpedia.org/resource/2010s>	dbo:wikiPageWikiLink	dbr:Eurozone .
+<http://dbpedia.org/resource/2012_in_India>	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Legal_tender	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Responses_to_the_COVID-19_pandemic_in_April_2020	dbo:wikiPageWikiLink	dbr:Eurozone .
+<http://dbpedia.org/resource/List_of_international_presidential_trips_made_by_Fran\u00E7ois_Hollande>	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:National_Rally	dbo:wikiPageWikiLink	dbr:Eurozone .
+<http://dbpedia.org/resource/Juha_Sipil\u00E4>	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Latvia	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Montenegro	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Andalusia	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Economic_history_of_Italy	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Economy_of_Cyprus	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Economy_of_Monaco	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:List_of_companies_of_Cyprus	dbo:wikiPageWikiLink	dbr:Eurozone .
+<http://dbpedia.org/resource/2011_in_Germany>	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Identifying_marks_on_euro_coins	dbo:wikiPageWikiLink	dbr:Eurozone .
+<http://dbpedia.org/resource/Germany\u2013Greece_relations>	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Federalism_in_Germany	dbo:wikiPageWikiLink	dbr:Eurozone .
+<http://dbpedia.org/resource/2_euro_coin>	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Economy_of_Portugal	dbo:wikiPageWikiLink	dbr:Eurozone .
+<http://dbpedia.org/resource/Golden_Dawn_(Greece)>	dbo:wikiPageWikiLink	dbr:Eurozone .
+<http://dbpedia.org/resource/State_of_the_Union_(European_Union)>	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Earnings_guidance	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Worshipful_Company_of_World_Traders	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Hazem_Daouk	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Central_Bank_of_Montenegro	dbo:wikiPageWikiLink	dbr:Eurozone .
+<http://dbpedia.org/resource/2008\u20132009_Belgian_financial_crisis>	dbo:wikiPageWikiLink	dbr:Eurozone .
+<http://dbpedia.org/resource/2008\u20132011_Icelandic_financial_crisis>	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Foreign_exchange_market	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Post-2008_Irish_economic_downturn	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Coins_of_the_Republic_of_Ireland	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Economy_of_Estonia	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Council_of_the_European_Union	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Jobbik	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Robin_Hood_tax	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Anti-austerity_movement_in_Ireland	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Seat_of_the_European_Central_Bank	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Germany	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Greece	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Balkans	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Spain	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Cyprus	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Portugal	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Timeline_of_Italian_history	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Norbert_Lammert	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Sede_vacante	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Jeroen_Dijsselbloem	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Edmund_Stoiber	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Postage_stamps_and_postal_history_of_the_Sovereign_Military_Order_of_Malta	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Armin_Laschet	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Lawrence_Gonzi	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Brendan_Simms	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Sergio_Mattarella	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Tourism_in_Malta	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Jacques_Santer	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Currency_board	dbo:wikiPageWikiLink	dbr:Eurozone .
+<http://dbpedia.org/resource/List_of_countries_by_foreign-exchange_reserves_(excluding_gold)>	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Withdrawal_from_the_eurozone	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Eurogroup	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Hans-Olaf_Henkel	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:European_Conservatives_and_Reformists	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:June_2012_Greek_legislative_election	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:May_2012_Greek_legislative_election	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Negative_interest_on_excess_reserves	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Inflation_targeting	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Shu_Lea_Cheang	dbo:wikiPageWikiLink	dbr:Eurozone .
+<http://dbpedia.org/resource/Am\u00E9lie_de_Montchalin>	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Developing_country	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:San_Marino	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Estonia	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Euro_sign	dbo:wikiPageWikiLink	dbr:Eurozone .
+<http://dbpedia.org/resource/Polish_z\u0142oty>	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Money	dbo:wikiPageWikiLink	dbr:Eurozone .
+<http://dbpedia.org/resource/Liberals_(Sweden)>	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Moderate_Party	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:History_of_Finland	dbo:wikiPageWikiLink	dbr:Eurozone .
+<http://dbpedia.org/resource/1995_enlargement_of_the_European_Union>	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Swedish_krona	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Economic_and_Monetary_Union_of_the_European_Union	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Swedish_neutrality	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Anna_Lindh	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Enn_Kokk	dbo:wikiPageWikiLink	dbr:Eurozone .
+<http://dbpedia.org/resource/2014_European_Parliament_election>	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Copenhagen_criteria	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Great_Recession_in_Europe	dbo:wikiPageWikiLink	dbr:Eurozone .
+<http://dbpedia.org/resource/2013_enlargement_of_the_European_Union>	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Nintendo_DS_Lite	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Reserve_requirement	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Euro_Plus_Pact	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Nordic_agrarian_parties	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Xbox_360_launch	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:George_Papandreou	dbo:wikiPageWikiLink	dbr:Eurozone .
+<http://dbpedia.org/resource/2003_in_the_European_Union>	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Timeline_of_Finnish_history	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Economy_of_Finland	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Economy_of_Greece	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Mechanism_for_Cooperation_and_Verification	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:History_of_Estonia	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:History_of_the_European_Union	dbo:wikiPageWikiLink	dbr:Eurozone .
+<http://dbpedia.org/resource/2009_in_the_European_Union>	dbo:wikiPageWikiLink	dbr:Eurozone .
+<http://dbpedia.org/resource/2010>	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:COVID-19_pandemic_in_Sweden	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Banking_union	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Language_and_the_euro	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:January_1	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Dissolution_of_Czechoslovakia	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Danish_krone	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Robert_Mundell	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Sweden_and_the_euro	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Tables_of_historical_exchange_rates_to_the_United_States_dollar	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:The_European_Semester	dbo:wikiPageWikiLink	dbr:Eurozone .
+<http://dbpedia.org/resource/Euro_gold_and_silver_commemorative_coins_(Finland)>	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:European_Stability_Mechanism	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Direct_debit	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Monetary_policy	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Barry_Eichengreen	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Mark_Weisbrot	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Currency_bill_tracking	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:ATM_usage_fees	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:John_Gormley	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Left_Together	dbo:wikiPageWikiLink	dbr:Eurozone .
+<http://dbpedia.org/resource/Original_sin_(economics)>	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:International_monetary_systems	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Czech_Pirate_Party	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Covered_interest_arbitrage	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Volker_Kauder	dbo:wikiPageWikiLink	dbr:Eurozone .
+<http://dbpedia.org/resource/New_Democracy_(Greece)>	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:TicketSource	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Interest_rate_parity	dbo:wikiPageWikiLink	dbr:Eurozone .
+<http://dbpedia.org/resource/Elke_K\u00F6nig>	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Bunq	dbo:regionServed	dbr:Eurozone .
+dbr:Vlaams_Belang	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Pro-Euro_Conservative_Party	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Sort_code	dbo:wikiPageWikiLink	dbr:Eurozone .
+<http://dbpedia.org/resource/Ecofin_Water_&_Power_Opportunities>	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Fiscal_union	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Bankruptcy_tourism	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Michael_Geoghegan	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Dynamic_currency_conversion	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Greek_withdrawal_from_the_eurozone	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:List_of_bank_stress_tests	dbo:wikiPageWikiLink	dbr:Eurozone .
+<http://dbpedia.org/resource/2011_in_the_European_Union>	dbo:wikiPageWikiLink	dbr:Eurozone .
+<http://dbpedia.org/resource/Peter_Ka\u017Eim\u00EDr>	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Monetary_authority	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:List_of_most_expensive_basketball_transfers	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Executive_Vice_President_of_the_European_Commission_for_An_Economy_that_Works_for_People	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Euro_summit	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Economic_and_Financial_Affairs_Council	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Slovak_koruna	dbo:wikiPageWikiLink	dbr:Eurozone .
+<http://dbpedia.org/resource/Sixpack_(European_Union_law)>	dbp:parties	dbr:Eurozone ;
+	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:List_of_countries_by_current_account_balance	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Vatican_euro_coins	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Customs_and_monetary_union	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Czech_Republic_in_the_European_Union	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Zone_euro	dbo:wikiPageRedirects	dbr:Eurozone ;
+	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Holdout_problem	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Executive_Board_of_the_European_Central_Bank	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Member_states_of_the_Eurozone	dbo:wikiPageRedirects	dbr:Eurozone ;
+	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Economy_of_the_eurozone	dbo:wikiPageRedirects	dbr:Eurozone ;
+	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:AnaCredit	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Discount_window	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Fixit	dbo:wikiPageWikiLink	dbr:Eurozone .
+<http://dbpedia.org/resource/National_Independent_Party_(Ireland)>	dbo:wikiPageWikiLink	dbr:Eurozone .
+<http://dbpedia.org/resource/European_Commissioner_for_Financial_Stability,_Financial_Services_and_the_Capital_Markets_Union>	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Hayley_Newman	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Fixed_rate_tender	dbo:wikiPageRedirects	dbr:Eurozone ;
+	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Bank_of_Slovenia	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Bank_rate	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:List_of_stock_market_indices	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Lithuania_and_the_euro	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Economic_Adjustment_Programme_for_Cyprus	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:French_Guianan_franc	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Twin_crises	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Lex_monetae	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Mr_Euro	dbo:wikiPageRedirects	dbr:Eurozone ;
+	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Outright_Monetary_Transactions	dbo:wikiPageWikiLink	dbr:Eurozone .
+<http://dbpedia.org/resource/2010_Slovak_parliamentary_election>	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Central_Securities_Database	dbo:wikiPageWikiLink	dbr:Eurozone .
+<http://dbpedia.org/resource/Juncker\u2013Asselborn_Ministry_I>	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Gauweiler_and_Others_v_Deutscher_Bundestag	dbo:wikiPageWikiLink	dbr:Eurozone .
+<http://dbpedia.org/resource/2014_in_Latvia>	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Jacques_Sapir	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Eckhardt_Rehberg	dbo:wikiPageWikiLink	dbr:Eurozone .
+<http://dbpedia.org/resource/Frank_Sch\u00E4ffler>	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Hungary_and_the_euro	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Huw_van_Steenis	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Jens_Nordvig	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Bronwyn_Curtis	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Collective_action_clause	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Comext	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:STOXX_Europe_50	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Flexicurity	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Georges_Ugeux	dbo:wikiPageWikiLink	dbr:Eurozone .
+<http://dbpedia.org/resource/J\u00E1n_Po\u010Diatek>	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Administered_prices	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Croatia_and_the_euro	dbo:wikiPageWikiLink	dbr:Eurozone .
+<http://dbpedia.org/resource/Alfredo_S\u00E1enz_Abad>	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Banking_in_Greece	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:List_of_euro_mints	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:List_of_countries_by_central_bank_interest_rates	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:List_of_countries_by_future_gross_government_debt	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Monetary_sovereignty	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Romania_and_the_euro	dbo:wikiPageWikiLink	dbr:Eurozone .
+<http://dbpedia.org/resource/Short_Term_European_Paper_(STEP)>	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Slovak_euro_coins	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Euro_area	dbo:wikiPageRedirects	dbr:Eurozone ;
+	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Menoume_Europi	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:List_of_companies_of_Lithuania	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:List_of_companies_of_Slovakia	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Leaving_the_euro	dbo:wikiPageRedirects	dbr:Eurozone ;
+	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Euro_gold_and_silver_commemorative_coins	dbo:wikiPageWikiLink	dbr:Eurozone .
+<http://dbpedia.org/resource/Euro_gold_and_silver_commemorative_coins_(Vatican)>	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:EAMS	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Euro-	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Eurogroup_Working_Group	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Laurence_Boone	dbo:wikiPageWikiLink	dbr:Eurozone .
+<http://dbpedia.org/resource/The_Economic_Liberty_Act_of_Georgia,_2011>	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Guntram_Wolff	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Terminological_inexactitude	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Bailout_rule	dbo:wikiPageRedirects	dbr:Eurozone ;
+	dbo:wikiPageWikiLink	dbr:Eurozone .
+<http://dbpedia.org/resource/Jo\u017Ee_P._Damijan>	dbo:wikiPageWikiLink	dbr:Eurozone .
+<http://dbpedia.org/resource/Greece\u2013Ireland_relations>	dbo:wikiPageWikiLink	dbr:Eurozone .
+<http://dbpedia.org/resource/Greek_Financial_Audit,_2004>	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Greek_euro_coins	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Marc-Olivier_Strauss-Kahn	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Thomas_Silberhorn	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Repayment_plan	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Tuomas_Saarenheimo	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:EA19	dbo:wikiPageRedirects	dbr:Eurozone ;
+	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Variable_rate_tender	dbo:wikiPageRedirects	dbr:Eurozone ;
+	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Euro-area	dbo:wikiPageRedirects	dbr:Eurozone ;
+	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Euro-zone	dbo:wikiPageRedirects	dbr:Eurozone ;
+	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Euro_Area	dbo:wikiPageRedirects	dbr:Eurozone ;
+	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Euro_Zone	dbo:wikiPageRedirects	dbr:Eurozone ;
+	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Euro_countries	dbo:wikiPageRedirects	dbr:Eurozone ;
+	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Euro_exit	dbo:wikiPageRedirects	dbr:Eurozone ;
+	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Euro_expulsion	dbo:wikiPageRedirects	dbr:Eurozone ;
+	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Euro_secession	dbo:wikiPageRedirects	dbr:Eurozone ;
+	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Euro_zone	dbo:wikiPageRedirects	dbr:Eurozone ;
+	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Price_stability	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Euroland	dbo:wikiPageRedirects	dbr:Eurozone ;
+	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:European_Debt_Agency	dbo:wikiPageRedirects	dbr:Eurozone ;
+	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Eurosone	dbo:wikiPageRedirects	dbr:Eurozone ;
+	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Eurozone_countries	dbo:wikiPageRedirects	dbr:Eurozone ;
+	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Eurozone_exit	dbo:wikiPageRedirects	dbr:Eurozone ;
+	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Eurozone_expulsion	dbo:wikiPageRedirects	dbr:Eurozone ;
+	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Eurozone_member_state	dbo:wikiPageRedirects	dbr:Eurozone ;
+	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Eurozone_member_states	dbo:wikiPageRedirects	dbr:Eurozone ;
+	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Eurozone_secession	dbo:wikiPageRedirects	dbr:Eurozone ;
+	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Exit_from_the_Eurozone	dbo:wikiPageRedirects	dbr:Eurozone ;
+	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Exit_from_the_euro	dbo:wikiPageRedirects	dbr:Eurozone ;
+	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Expulsion_from_the_Eurozone	dbo:wikiPageRedirects	dbr:Eurozone ;
+	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Expulsion_from_the_euro	dbo:wikiPageRedirects	dbr:Eurozone ;
+	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Secession_from_the_Eurozone	dbo:wikiPageRedirects	dbr:Eurozone ;
+	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Secession_from_the_euro	dbo:wikiPageRedirects	dbr:Eurozone ;
+	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Early_2000s_recession	dbo:wikiPageWikiLink	dbr:Eurozone .
+<http://dbpedia.org/resource/2012_Republican_Party_presidential_debates_and_forums>	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Chevrolet_Volt	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Economy_of_the_United_States	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:ITunes_Store	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Snap_election	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:European_Green_Deal	dbo:wikiPageWikiLink	dbr:Eurozone .
+<http://dbpedia.org/resource/2000s_energy_crisis>	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Financial_and_social_rankings_of_sovereign_states_in_Europe	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Policy_learning	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Baltic_Tiger	dbo:wikiPageWikiLink	dbr:Eurozone .
+<http://dbpedia.org/resource/Zentrum_f\u00FCr_Europ\u00E4ische_Wirtschaftsforschung>	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Outline_of_Slovenia	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Project_for_Democratic_Union	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Optimum_currency_area	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Stability_and_Growth_Pact	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Self-fulfilling_crisis	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Policy_reactions_to_the_Eurozone_crisis	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:European_unemployment_insurance	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:List_of_countries_by_income_equality	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:International_Monetary_Fund	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Netherlands	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:European_Free_Trade_Association	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:European_Single_Market	dbo:wikiPageWikiLink	dbr:Eurozone .
+<http://dbpedia.org/resource/Euro_gold_and_silver_commemorative_coins_(Belgium)>	dbo:wikiPageWikiLink	dbr:Eurozone .
+<http://dbpedia.org/resource/2017_French_presidential_election>	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Financial_regulation	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Marine_Le_Pen	dbo:wikiPageWikiLink	dbr:Eurozone .
+<http://dbpedia.org/resource/2015_Greek_bailout_referendum>	dbo:wikiPageWikiLink	dbr:Eurozone .
+<http://dbpedia.org/resource/2016_United_Kingdom_European_Union_membership_referendum>	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Currency_war	dbo:wikiPageWikiLink	dbr:Eurozone .
+<http://dbpedia.org/resource/Binali_Y\u0131ld\u0131r\u0131m>	dbo:wikiPageWikiLink	dbr:Eurozone .
+<http://dbpedia.org/resource/2011>	dbo:wikiPageWikiLink	dbr:Eurozone .
+<http://dbpedia.org/resource/2011_Greek_economy_referendum>	dbo:wikiPageWikiLink	dbr:Eurozone .
+<http://dbpedia.org/resource/2012>	dbo:wikiPageWikiLink	dbr:Eurozone .
+<http://dbpedia.org/resource/2012_G20_Los_Cabos_summit>	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Nouriel_Roubini	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Olaf_Scholz	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Economic_reforms_and_recovery_proposals_regarding_the_Eurozone_crisis	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Silver_as_an_investment	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:George_Logothetis	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Kenneth_Clarke	dbo:wikiPageWikiLink	dbr:Eurozone .
+<http://dbpedia.org/resource/2011_in_politics>	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Beyond_the_Crash	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Sabine_Leutheusser-Schnarrenberger	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Donald_Tusk	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Tobin_tax	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:International_reactions_to_the_2016_United_Kingdom_European_Union_membership_referendum	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Contemporary_history	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:List_of_acronyms_associated_with_the_eurozone_crisis	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Robert_Fico	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:European_debt_crisis	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Niall_Ferguson	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Enda_Kenny	dbo:wikiPageWikiLink	dbr:Eurozone .
+<http://dbpedia.org/resource/J\u00F6rg_Asmussen>	dbo:wikiPageWikiLink	dbr:Eurozone .
+<http://dbpedia.org/resource/Wolfgang_Sch\u00E4uble>	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:World_currency	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Economy_of_Bulgaria	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Economy_of_Spain	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Effects_of_the_Great_Recession	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Economy_of_Saint_Martin	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Economy_of_Austria	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Economy_of_Italy	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Economy_of_Malta	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Tarvisio	dbo:wikiPageWikiLink	dbr:Eurozone .
+<http://dbpedia.org/resource/Johannes_Kahrs_(politician)>	dbo:wikiPageWikiLink	dbr:Eurozone .
+<http://dbpedia.org/resource/Peer_Steinbr\u00FCck>	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Alexander_Gauland	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Corruption_in_Venezuela	dbo:wikiPageWikiLink	dbr:Eurozone .
+<http://dbpedia.org/resource/Yes,_Bulgaria!>	dbo:wikiPageWikiLink	dbr:Eurozone .
+<http://dbpedia.org/resource/2015_in_Lithuania>	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Enhanced_cooperation	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Private_sector_involvement	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:TwoPack	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Nordic_countries	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Maastricht_Treaty	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Guadeloupe	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Euro_banknotes	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:BNP_Paribas	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Monaco	dbo:wikiPageWikiLink	dbr:Eurozone .
+<http://dbpedia.org/resource/R\u00E9union>	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Treaty_of_Lisbon	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Slovakia	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Slovenia	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:French_Guiana	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Italy	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:CFP_franc	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:LVMH	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Euro	dbo:usingCountry	dbr:Eurozone ;
+	dbp:usingCountries	dbr:Eurozone ;
+	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Euro_coins	dbo:wikiPageWikiLink	dbr:Eurozone .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Eurozone	rdf:type	yago:Attribute100024264 ,
+		yago:State100024720 ,
+		dbo:Country ,
+		yago:YagoGeoEntity ,
+		yago:YagoPermanentlyLocatedEntity ,
+		yago:YagoLegalActorGeo ,
+		yago:AdministrativeDistrict108491826 ,
+		yago:District108552138 ,
+		yago:Abstraction100002137 ,
+		yago:Location100027167 ,
+		yago:CognitiveState105669934 ,
+		yago:PsychologicalState114373582 ,
+		yago:Matter105671325 ,
+		yago:Curiosity105682570 ,
+		yago:Interest105682950 ,
+		yago:WikicatEurozoneFiscalMatters ,
+		yago:Concern105670710 ,
+		yago:WikicatMemberStatesByOrganization ,
+		yago:Region108630985 ,
+		yago:Object100002684 ,
+		yago:PhysicalEntity100001930 .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Eurozone	rdf:type	owl:Thing ,
+		yago:Condition113920835 .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Eurozone	rdfs:label	"Zona euro"@it ,
+		"\uC720\uB85C\uC874"@ko ,
+		"Euroomr\u00E5det"@sv ,
+		"Strefa euro"@pl ,
+		"Limist\u00E9ar an euro"@ga ,
+		"Eurozone"@nl ,
+		"Eurozone"@de ,
+		"Euroz\u00F3na"@cs ,
+		"Zona Euro"@in ,
+		"Eurogunea"@eu ,
+		"\u0645\u0646\u0637\u0642\u0629 \u0627\u0644\u064A\u0648\u0631\u0648"@ar ,
+		"\u0395\u03C5\u03C1\u03C9\u03B6\u03CE\u03BD\u03B7"@el ,
+		"Zone euro"@fr ,
+		"Eurozone"@en ,
+		"\u6B27\u5143\u533A"@zh ,
+		"\u30E6\u30FC\u30ED\u570F"@ja ,
+		"Zona euro"@ca ,
+		"Zona Euro"@pt ,
+		"\u0404\u0432\u0440\u043E\u0437\u043E\u043D\u0430"@uk ,
+		"\u0415\u0432\u0440\u043E\u0437\u043E\u043D\u0430"@ru ,
+		"E\u016Drozono"@eo ,
+		"Eurozona"@es ;
+	rdfs:comment	"A Zona Euro, oficialmente designada por \u00C1rea do Euro, e tamb\u00E9m coloquialmente referida como Eurozona, refere-se a uma uni\u00E3o monet\u00E1ria dentro da Uni\u00E3o Europeia, na qual alguns Estados-membros adotaram oficialmente o euro como moeda comum. A entidade m\u00E1xima que regula toda a pol\u00EDtica monet\u00E1ria \u00E9 o Banco Central Europeu, sediado em Frankfurt, Alemanha. A Zona Euro \u00E9 a segunda maior economia do mundo, segundo estimativas da Ag\u00EAncia Central de Intelig\u00EAncia (CIA) para 2013."@pt ,
+		"E\u016Drozono, anka\u016D nomata E\u016Drospaco a\u016D E\u016Droareo, estas tiu parto de la membro\u015Dtatoj de E\u016Dropa Unio en kiu validas la monunuo e\u016Dro. La e\u016Drozonon partoprenas (en 2016) dek na\u016D \u015Dtatoj kun entute \u0109irka\u016D 337 milionoj da lo\u011Dantoj: A\u016Dstrio, Belgio, Estonio, Finnlando, Francio, Germanio, Grekio, Hispanio, Irlando, Italio, Kipro, Latvio, Litovio, Luksemburgo, Malto, Nederlando, Portugalio, Slovakio kaj Slovenio. La na\u016D restantaj \u015Dtatoj de E\u016Dropa Unio ne (ankora\u016D) apartenas al la e\u016Drozono: Britio, Bulgario, \u0108e\u0125io, Danio, Hungario, Kroatio, Pollando, Rumanio kaj Svedio."@eo ,
+		"La zone euro, parfois appel\u00E9e eurozone, est une zone mon\u00E9taire qui regroupe les \u00C9tats membres de l'Union europ\u00E9enne qui ont adopt\u00E9 l'euro (EUR, \u20AC) comme monnaie ; sur les vingt-sept \u00C9tats membres de l'UE, dix-neuf utilisent l'euro. Ces dix-neuf pays repr\u00E9sentent plus de 340 millions d'habitants en 2017 pour un PIB cumul\u00E9 de 11 886 milliards d'euros et un taux de ch\u00F4mage moyen de 4,80 % de la population active, qui est cependant plus fort chez les moins de 25 ans, proche des 20 %. La zone euro a \u00E9t\u00E9 cr\u00E9\u00E9e en 1999 par onze pays : Allemagne, Autriche, Belgique, Espagne, Finlande, France, Irlande, Italie, Luxembourg, Pays-Bas, Portugal, rejoints par la Gr\u00E8ce en 2001, par la Slov\u00E9nie en 2007, par Chypre et Malte en 2008, par la Slovaquie en 2009, par l'Estonie en 2011, par la Lettonie en 2014 e"@fr ,
+		"La eurozona,\u200B denominada oficialmente zona del euro\u200B y llamada tambi\u00E9n zona euro,\u200B es el conjunto de estados miembros de la Uni\u00F3n Europea (UE) que han adoptado el euro como moneda oficial (19 estados), formando as\u00ED una uni\u00F3n monetaria. Su creaci\u00F3n data del 1 de enero de 1999. La autoridad monetaria que controla la zona del euro es el Eurosistema. La autoridad econ\u00F3mica y pol\u00EDtica reside en el Eurogrupo y en la Comisi\u00F3n Europea (CE). El Banco Central Europeo (BCE) es la entidad responsable de la pol\u00EDtica monetaria de los estados que forman la zona del euro.\u200B"@es ,
+		"\u0397 \u0395\u03C5\u03C1\u03C9\u03B6\u03CE\u03BD\u03B7, \u03BC\u03B5 \u03B5\u03C0\u03AF\u03C3\u03B7\u03BC\u03B7 \u03BF\u03BD\u03BF\u03BC\u03B1\u03C3\u03AF\u03B1 \u03B6\u03CE\u03BD\u03B7 \u03C4\u03BF\u03C5 \u03B5\u03C5\u03C1\u03CE, \u03B5\u03AF\u03BD\u03B1\u03B9 \u03BC\u03B9\u03B1 \u03BF\u03B9\u03BA\u03BF\u03BD\u03BF\u03BC\u03B9\u03BA\u03AE \u03BA\u03B1\u03B9 \u03BD\u03BF\u03BC\u03B9\u03C3\u03BC\u03B1\u03C4\u03B9\u03BA\u03AE \u03AD\u03BD\u03C9\u03C3\u03B7 \u03C0\u03BF\u03C5 \u03B1\u03C0\u03BF\u03C4\u03B5\u03BB\u03B5\u03AF\u03C4\u03B1\u03B9 \u03B1\u03C0\u03CC 19 \u03B1\u03C0\u03CC \u03C4\u03B9\u03C2 28 \u03C7\u03CE\u03C1\u03B5\u03C2 \u03C4\u03B7\u03C2 \u0395\u03C5\u03C1\u03C9\u03C0\u03B1\u03CA\u03BA\u03AE\u03C2 \u0388\u03BD\u03C9\u03C3\u03B7\u03C2, \u03BF\u03B9 \u03BF\u03C0\u03BF\u03AF\u03B5\u03C2 \u03AD\u03C7\u03BF\u03C5\u03BD \u03BF\u03B9\u03BA\u03B5\u03B9\u03BF\u03B8\u03B5\u03BB\u03CE\u03C2 \u03BA\u03B1\u03C4\u03B1\u03C1\u03B3\u03AE\u03C3\u03B5\u03B9 \u03C4\u03BF \u03B5\u03B8\u03BD\u03B9\u03BA\u03CC \u03C4\u03BF\u03C5\u03C2 \u03BD\u03CC\u03BC\u03B9\u03C3\u03BC\u03B1 \u03BA\u03B1\u03B9 \u03C5\u03B9\u03BF\u03B8\u03B5\u03C4\u03AE\u03C3\u03B5\u03B9 \u03C4\u03BF \u03B5\u03C5\u03C1\u03CE (\u20AC) \u03C9\u03C2 \u03C4\u03BF \u03BA\u03BF\u03B9\u03BD\u03CC \u03C4\u03BF\u03C5\u03C2 \u03BD\u03CC\u03BC\u03B9\u03C3\u03BC\u03B1 \u03BA\u03B1\u03B9 \u03BC\u03BF\u03BD\u03B1\u03B4\u03B9\u03BA\u03CC \u03BD\u03CC\u03BC\u03B9\u03BC\u03BF \u03C7\u03C1\u03AE\u03BC\u03B1."@el ,
+		"Eurogunea euroa (\u20AC) erabiltzeko onartu duten Europar Batasuneko herrialde kideen gunea da. Honela monetaren inguruko batasuna eratu dute eta  egin dute moneta-agintari gune honetan."@eu ,
+		"De eurozone (of eurosysteem, eurolanden, eurogebied) is de verzamelnaam voor de landen van de Europese Unie die de euro als munt hebben. De Europese Centrale Bank is verantwoordelijk voor het monetair beleid binnen de eurozone."@nl ,
+		"Euroomr\u00E5det, \u00E4ven k\u00E4nt som euroland, eurol\u00E4nderna eller eurozonen, utg\u00F6rs av de 19 medlemsstater inom Europeiska unionen som har euron som valuta. Dessa medlemsstater har \u00F6verf\u00F6rt sina befogenheter \u00F6ver den monet\u00E4ra politiken till europeisk niv\u00E5 genom Eurosystemet. Cirka 340 miljoner m\u00E4nniskor bor i euroomr\u00E5det, som \u00E4r en av v\u00E4rldens st\u00F6rsta ekonomier."@sv ,
+		"Strefa euro, zwyczajowo Euroland \u2013 grupa pa\u0144stw, kt\u00F3rych walut\u0105 jest euro. Do strefy euro nale\u017Cy 19 pa\u0144stw cz\u0142onkowskich Unii Europejskiej."@pl ,
+		"\u30E6\u30FC\u30ED\u570F\uFF08\u30E6\u30FC\u30ED\u3051\u3093\u3001\u82F1\u8A9E: eurozone, \u307E\u305F\u306Feuro area\uFF09\u306F\u3001\u30E6\u30FC\u30ED (\u20AC) \u3092\u5171\u901A\u901A\u8CA8\u3068\u3057\u3001\u552F\u4E00\u306E\u6CD5\u5B9A\u901A\u8CA8\u3068\u3057\u3066\u3044\u308B\u6B27\u5DDE\u9023\u5408(EU)\u52A0\u76DF27\u30AB\u56FD\u306E\u3046\u3061\u300119\u30AB\u56FD\u306E\u901A\u8CA8\u540C\u76DF\u3067\u3042\u308B\u3002\u30E6\u30FC\u30ED\u570F\u306E\u901A\u8CA8\u5F53\u5C40\u306F\u3067\u3042\u308B\u3002EU\u306E\u4ED6\u306E8\u30AB\u56FD\u306F\u81EA\u56FD\u901A\u8CA8\u3092\u4F7F\u7528\u3057\u7D9A\u3051\u3066\u3044\u308B\u304C\u3001\u305D\u306E\u307B\u3068\u3093\u3069\u306F\u5C06\u6765\u30E6\u30FC\u30ED\u3092\u63A1\u7528\u3059\u308B\u7FA9\u52D9\u304C\u3042\u308B\u3002 \u30E6\u30FC\u30ED\u570F\u306F\u3001\u30AA\u30FC\u30B9\u30C8\u30EA\u30A2\u3001\u30D9\u30EB\u30AE\u30FC\u3001\u30AD\u30D7\u30ED\u30B9\u3001\u30A8\u30B9\u30C8\u30CB\u30A2\u3001\u30D5\u30A3\u30F3\u30E9\u30F3\u30C9\u3001\u30D5\u30E9\u30F3\u30B9\u3001\u30C9\u30A4\u30C4\u3001\u30AE\u30EA\u30B7\u30E3\u3001\u30A2\u30A4\u30EB\u30E9\u30F3\u30C9\u3001\u30A4\u30BF\u30EA\u30A2\u3001\u30E9\u30C8\u30D3\u30A2\u3001\u30EA\u30C8\u30A2\u30CB\u30A2\u3001\u30EB\u30AF\u30BB\u30F3\u30D6\u30EB\u30AF\u3001\u30DE\u30EB\u30BF\u3001\u30AA\u30E9\u30F3\u30C0\u3001\u30DD\u30EB\u30C8\u30AC\u30EB\u3001\u30B9\u30ED\u30D0\u30AD\u30A2\u3001\u30B9\u30ED\u30D9\u30CB\u30A2\u3001\u30B9\u30DA\u30A4\u30F3\u3067\u69CB\u6210\u3055\u308C\u3066\u3044\u308B\u3002\u4ED6\u306EEU\u52A0\u76DF\u56FD(\u30C7\u30F3\u30DE\u30FC\u30AF\u3092\u9664\u304F)\u306F\u3001\u53C2\u52A0\u57FA\u6E96\u3092\u6E80\u305F\u3057\u305F\u5834\u5408\u3001\u53C2\u52A0\u3059\u308B\u7FA9\u52D9\u304C\u3042\u308B\u3002\u3069\u306E\u56FD\u3082\u96E2\u8131\u3057\u305F\u3053\u3068\u306F\u306A\u304F\u3001\u305D\u306E\u3088\u3046\u306A\u898F\u5B9A\u3082\u8FFD\u653E\u3055\u308C\u308B\u898F\u5B9A\u3082\u306A\u3044\u3002\u30A2\u30F3\u30C9\u30E9\u3001\u30E2\u30CA\u30B3\u3001\u30B5\u30F3\u30DE\u30EA\u30CE\u3001\u30D0\u30C1\u30AB\u30F3\u5E02\u56FD\u306F\u3001\u30E6\u30FC\u30ED\u3092\u516C\u5F0F\u901A\u8CA8\u3068\u3057\u3066\u4F7F\u7528\u3057\u3001\u81EA\u56FD\u306E\u30B3\u30A4\u30F3\u3092\u767A\u884C\u3059\u308B\u3053\u3068\u3067EU\u3068\u6B63\u5F0F\u306B\u5408\u610F\u3057\u3066\u3044\u308B\u3002\u30B3\u30BD\u30DC\u3001\u30E2\u30F3\u30C6\u30CD\u30B0\u30ED\u306F\u30E6\u30FC\u30ED\u3092\u4E00\u65B9\u7684\u306B\u63A1\u7528\u3057\u3066\u3044\u308B\u304C\u3001\u3053\u308C\u3089\u306E\u56FD\u306F\u516C\u5F0F\u306B\u306F\u30E6\u30FC\u30ED\u570F\u306E\u4E00\u90E8\u3092\u69CB\u6210\u3057\u3066\u304A\u3089\u305A\u3001\u6B27\u5DDE\u4E2D\u592E\u9280\u884C(ECB)\u3084\u30E6\u30FC\u30ED\u30B0\u30EB\u30FC\u30D7\u306B\u4EE3\u8868\u3092\u51FA\u3057\u3066\u3044\u306A\u3044\u3002"@ja ,
+		"Is  \u00ED limist\u00E9ar an eor\u00F3 a thugann le ch\u00E9ile t\u00EDortha an Aontais Eorpaigh a ghlac leis an eor\u00F3 mar airgeadra coitianta. Crutha\u00EDodh an chr\u00EDoch i 1999 le aon t\u00EDr d\u00E9ag, agus tugadh isteach an Ghr\u00E9ig i 2001 mar gur lean siadsan i bprionsabal na treoracha a leagadh amach i Maastricht de easnamh poibl\u00ED (a mheasann roinnt t\u00EDortha lasmuigh de chaiteachas mh\u00EDleata) teoranta ag 3 % de Th\u00E1irgeadh Imt\u00EDre Brutto agus fiacha poibl\u00ED nach s\u00E1ra\u00EDonn 60 % de T\u00E1irgeadh Imt\u00EDre Brutto . T\u00E1 cupla t\u00EDr san Aontas Eorpach nach mbaineann feidhm as an eor\u00F3:"@ga ,
+		"Zona Euro (resminya area euro, eurozone, atau secara tidak resminya tanah euro) merujuk pada gabungan mata uang di antara negara-negara anggota Uni Eropa yang telah mengadopsi euro sebagai satu-satunya mata uang resmi. , dipimpin oleh Bank Sentral Eropa, bertanggung jawab atas kebijakan moneter di dalam Zona Euro."@in ,
+		"Euroz\u00F3na, ofici\u00E1ln\u011B naz\u00FDvan\u00E1 euro oblast, je \u00FAzem\u00ED Evropsk\u00E9 unie, na kter\u00E9m se u\u017E\u00EDv\u00E1 spole\u010Dn\u00E1 evropsk\u00E1 m\u011Bna euro. Jej\u00EDmi \u010Dleny jsou tedy st\u00E1ty, je\u017E vstoupily do t\u0159et\u00ED f\u00E1ze Evropsk\u00E9 m\u011Bnov\u00E9 unie (EMU) a t\u00EDm euro na sv\u00E9m \u00FAzem\u00ED zavedly."@cs ,
+		"\u0645\u0646\u0637\u0642\u0629 \u0627\u0644\u064A\u0648\u0631\u0648 \u0623\u0648 (\u0627\u0644\u064A\u0648\u0631\u0648\u0632\u0648\u0646) (\u0628\u0627\u0644\u0625\u0646\u062C\u0644\u064A\u0632\u064A\u0629: Eurozone) \u0647\u0648 \u0627\u0644\u0627\u0633\u0645 \u0627\u0644\u0630\u064A \u064A\u0637\u0644\u0642 \u0639\u0644\u0649 \u062F\u0648\u0644 \u0627\u0644\u0627\u062A\u062D\u0627\u062F \u0627\u0644\u0623\u0648\u0631\u0648\u0628\u064A \u0627\u0644\u0645\u0646\u0636\u0645\u0629 \u0625\u0644\u0649 \u0627\u0644\u0639\u0645\u0644\u0629 \u0627\u0644\u0645\u0648\u062D\u062F\u0629 \u0627\u0644\u064A\u0648\u0631\u0648."@ar ,
+		"La zona euro (o, altrettanto frequentemente, eurozona, area euro o eurolandia) indica informalmente l'insieme degli stati membri dell'Unione europea che adottano l'euro come valuta ufficiale ovvero formano l'Unione economica e monetaria dell'Unione europea. Dal 2015, la zona \u00E8 composta da diciannove stati membri, copre un'area di circa 2.500.000 km\u00B2 (corrispondente circa ad uno Stato come l'Argentina) per 340 milioni di abitanti (all'incirca come gli Stati Uniti d'America): potrebbe quindi essere considerato approssimativamente come il 7\u00BA stato al mondo per superficie e il 3\u00BA per popolazione."@it ,
+		"\u0415\u0432\u0440\u043E\u0437\u043E\u0301\u043D\u0430 \u2014 \u0434\u0435\u0439\u0441\u0442\u0432\u0443\u044E\u0449\u0438\u0439 \u0432 \u0440\u0430\u043C\u043A\u0430\u0445 \u0415\u0432\u0440\u043E\u043F\u0435\u0439\u0441\u043A\u043E\u0433\u043E \u0441\u043E\u044E\u0437\u0430 \u0432\u0430\u043B\u044E\u0442\u043D\u044B\u0439 \u0441\u043E\u044E\u0437 (\u042D\u0412\u0421 \u2014 \u044D\u043A\u043E\u043D\u043E\u043C\u0438\u0447\u0435\u0441\u043A\u0438\u0439 \u0432\u0430\u043B\u044E\u0442\u043D\u044B\u0439 \u0441\u043E\u044E\u0437 \u043E\u0442 \u0430\u043D\u0433\u043B. Economic and Monetary Union (EMU)). \u0412 \u043D\u0430\u0441\u0442\u043E\u044F\u0449\u0435\u0435 \u0432\u0440\u0435\u043C\u044F \u043E\u0431\u044A\u0435\u0434\u0438\u043D\u044F\u0435\u0442 19 \u0441\u0442\u0440\u0430\u043D \u0415\u0432\u0440\u043E\u0441\u043E\u044E\u0437\u0430, \u043E\u0444\u0438\u0446\u0438\u0430\u043B\u044C\u043D\u043E\u0439 \u0432\u0430\u043B\u044E\u0442\u043E\u0439 \u043A\u043E\u0442\u043E\u0440\u044B\u0445 \u044F\u0432\u043B\u044F\u0435\u0442\u0441\u044F \u0435\u0432\u0440\u043E. \u0415\u0432\u0440\u043E\u043F\u0435\u0439\u0441\u043A\u0438\u0439 \u0432\u0430\u043B\u044E\u0442\u043D\u044B\u0439 \u0441\u043E\u044E\u0437 \u043D\u0430\u0447\u0430\u043B \u0444\u0443\u043D\u043A\u0446\u0438\u043E\u043D\u0438\u0440\u043E\u0432\u0430\u0442\u044C 1 \u044F\u043D\u0432\u0430\u0440\u044F 1999 \u0433\u043E\u0434\u0430, \u043A\u043E\u0433\u0434\u0430 \u0432 \u0431\u0435\u0437\u043D\u0430\u043B\u0438\u0447\u043D\u043E\u0435 \u043E\u0431\u0440\u0430\u0449\u0435\u043D\u0438\u0435 \u0431\u044B\u043B\u0430 \u0432\u0432\u0435\u0434\u0435\u043D\u0430 \u0435\u0434\u0438\u043D\u0430\u044F \u0435\u0432\u0440\u043E\u043F\u0435\u0439\u0441\u043A\u0430\u044F \u0432\u0430\u043B\u044E\u0442\u0430 \u0435\u0432\u0440\u043E. \u0415\u0432\u0440\u043E\u043F\u0435\u0439\u0441\u043A\u0438\u0439 \u0441\u043E\u044E\u0437 \u0441\u0442\u0430\u043B \u043F\u0435\u0440\u0432\u044B\u043C \u0438 \u043F\u043E\u043A\u0430 \u0435\u0434\u0438\u043D\u0441\u0442\u0432\u0435\u043D\u043D\u044B\u043C \u0432 \u043C\u0438\u0440\u0435 \u0440\u0435\u0433\u0438\u043E\u043D\u0430\u043B\u044C\u043D\u044B\u043C \u043E\u0431\u044A\u0435\u0434\u0438\u043D\u0435\u043D\u0438\u0435\u043C, \u043F\u0435\u0440\u0435\u0448\u0435\u0434\u0448\u0438\u043C \u043A \u0447\u0435\u0442\u0432\u0451\u0440\u0442\u043E\u0439 \u0441\u0442\u0430\u0434\u0438\u0438 \u044D\u043A\u043E\u043D\u043E\u043C\u0438\u0447\u0435\u0441\u043A\u043E\u0439 \u0438\u043D\u0442\u0435\u0433\u0440\u0430\u0446\u0438\u0438 (\u0432\u0441\u043B\u0435\u0434 \u0437\u0430 \u0437\u043E\u043D\u043E\u0439 \u0441\u0432\u043E\u0431\u043E\u0434\u043D\u043E\u0439 \u0442\u043E\u0440\u0433\u043E\u0432\u043B\u0438, \u0442\u0430\u043C\u043E\u0436\u0435\u043D\u043D\u044B\u043C \u0441\u043E\u044E\u0437\u043E\u043C \u0438 \u043E\u0431\u0449\u0438\u043C \u0440\u044B\u043D\u043A\u043E\u043C)."@ru ,
+		"The eurozone, officially called the euro area, is a monetary union of 19 of the 27 European Union (EU) member states which have adopted the euro (\u20AC) as their common currency and sole legal tender. The monetary authority of the eurozone is the Eurosystem. The other eight members of the European Union continue to use their own national currencies, although most of them are obliged to adopt the euro in the future."@en ,
+		"La zona euro \u00E9s el conjunt d'estats membres de la Uni\u00F3 Europea (UE) que han adoptat l'euro i han creat, aix\u00ED, una uni\u00F3 monet\u00E0ria."@ca ,
+		"\uC720\uB85C\uC874(Eurozone, \uBB38\uD654\uC5B4: \uC720\uB85C \uC0AC\uC6A9 \uC9C0\uB300)\uC740 \uAD6D\uAC00 \uD1B5\uD654\uB85C \uC720\uB85C\uB97C \uB3C4\uC785\uD574 \uC0AC\uC6A9\uD558\uB294 \uAD6D\uAC00\uB098 \uC9C0\uC5ED\uC744 \uD1B5\uD2C0\uC5B4 \uBD80\uB974\uB294 \uB9D0\uC774\uB2E4. \uC720\uB7FD \uC911\uC559\uC740\uD589\uC774 \uC774 \uAD6C\uC5ED \uB0B4\uC758 \uD1B5\uD654 \uC815\uCC45\uC5D0 \uCC45\uC784\uC744 \uB9E1\uACE0 \uC788\uB2E4. \uB2E4\uB978 \uB9D0\uB85C \uC720\uB85C\uC5D0\uC5B4\uB9AC\uC5B4(Euroarea)\uB098 \uC720\uB85C\uB79C\uB4DC(Euroland)\uB77C\uACE0 \uBD80\uB974\uAE30\uB3C4 \uD55C\uB2E4."@ko ,
+		"\u0404\u0432\u0440\u043E\u0437\u043E\u0301\u043D\u0430 \u2014 \u0433\u0440\u0443\u043F\u0430 19 \u0434\u0435\u0440\u0436\u0430\u0432 \u0404\u0432\u0440\u043E\u043F\u0435\u0439\u0441\u044C\u043A\u043E\u0433\u043E \u0421\u043E\u044E\u0437\u0443, \u043E\u0444\u0456\u0446\u0456\u0439\u043D\u043E\u044E \u0432\u0430\u043B\u044E\u0442\u043E\u044E \u044F\u043A\u0438\u0445 \u0454 \u0454\u0432\u0440\u043E. \u0422\u0443\u0442 \u043F\u0440\u043E\u0436\u0438\u0432\u0430\u0454 \u043F\u043E\u043D\u0430\u0434 336 \u043C\u0456\u043B\u044C\u0439\u043E\u043D\u0456\u0432 \u0454\u0432\u0440\u043E\u043F\u0435\u0439\u0446\u0456\u0432. \u0404\u0432\u0440\u043E\u043F\u0435\u0439\u0441\u044C\u043A\u0438\u0439 \u0446\u0435\u043D\u0442\u0440\u0430\u043B\u044C\u043D\u0438\u0439 \u0431\u0430\u043D\u043A \u0432\u0456\u0434\u043F\u043E\u0432\u0456\u0434\u0430\u0454 \u0437\u0430 \u0433\u0440\u043E\u0448\u043E\u0432\u043E-\u043A\u0440\u0435\u0434\u0438\u0442\u043D\u0443 \u043F\u043E\u043B\u0456\u0442\u0438\u043A\u0443 \u0454\u0432\u0440\u043E\u0437\u043E\u043D\u0438."@uk ,
+		"Als Eurozone (amtlich auch Euro-W\u00E4hrungsgebiet oder Euroraum) wird die Gruppe der EU-Staaten bezeichnet, die den Euro als offizielle W\u00E4hrung besitzen. Die Eurozone besteht aus 19 EU-Staaten und wird deswegen als Euro-19 bezeichnet. Zuletzt \u00FCbernahm Litauen am 1. Januar 2015 als 19. EU-Land den Euro als offizielle W\u00E4hrung. Die 19 Staaten der Eurozone sind: Belgien, Deutschland, Estland, Finnland, Frankreich, Griechenland, Irland, Italien, Lettland, Litauen, Luxemburg, Malta, die Niederlande, \u00D6sterreich, Portugal, die Slowakei, Slowenien, Spanien und die Republik Zypern."@de ,
+		"\u6B27\u5143\u533A\uFF08Eurozone\uFF1B\u5B98\u65B9\u79F0euro area\uFF09\u4E3A27\u4E2A\u6B27\u6D32\u8054\u76DF\u6210\u5458\u56FD\u4E2D\u768419\u4E2A\u56FD\u5BB6\u7EC4\u6210\u7684\u8D27\u5E01\u540C\u76DF\u3002\u8FD9\u4E9B\u56FD\u5BB6\u91C7\u7528\u6B27\u5143\uFF08\u20AC\uFF09\u4E3A\u5176\u901A\u7528\u8D27\u5E01\u548C\u552F\u4E00\u6CD5\u507F\u3002\u5176\u4ED68\u4E2A\u6B27\u76DF\u6210\u5458\u56FD\u4F7F\u7528\u81EA\u5DF1\u7684\u8D27\u5E01\u3002 \u6B27\u5143\u533A\u56FD\u5BB6\u5305\u62EC\u5965\u5730\u5229\u3001\u6BD4\u5229\u65F6\u3001\u585E\u6D66\u8DEF\u65AF\u3001\u7231\u6C99\u5C3C\u4E9A\u3001\u82AC\u5170\u3001\u6CD5\u56FD\u3001\u5FB7\u56FD\u3001\u5E0C\u814A\u3001\u7231\u5C14\u5170\u3001\u610F\u5927\u5229\u3001\u62C9\u6258\u7EF4\u4E9A\u3001\u7ACB\u9676\u5B9B\u3001\u5362\u68EE\u5821\u3001\u9A6C\u8033\u4ED6\u3001\u8377\u5170\u3001\u8461\u8404\u7259\u3001\u65AF\u6D1B\u4F10\u514B\u3001\u65AF\u6D1B\u6587\u5C3C\u4E9A\u548C\u897F\u73ED\u7259\u3002\u5176\u4ED6\u6B27\u6D32\u56FD\u5BB6\uFF08\u9664\u4E86\u4E39\u9EA6\uFF09\u5728\u8FBE\u5230\u6807\u51C6\u540E\u4E5F\u5FC5\u987B\u52A0\u5165\u6B27\u5143\u533A\u3002\u81F3\u4ECA\u65E0\u56FD\u5BB6\u9000\u51FA\uFF0C\u4E14\u4EA6\u65E0\u9000\u51FA\u6216\u5F00\u9664\u673A\u5236\u3002\u5B89\u9053\u5C14\u3001\u6469\u7EB3\u54E5\u3001\u5723\u9A6C\u529B\u8BFA\u548C\u68B5\u8482\u5188\u540C\u6B27\u76DF\u7684\u6B63\u5F0F\u534F\u5B9A\u5141\u8BB8\u8FD9\u4E9B\u56FD\u5BB6\u4F7F\u7528\u6B27\u5143\u4F5C\u4E3A\u5B98\u65B9\u8D27\u5E01\u5E76\u81EA\u884C\u53D1\u884C\u786C\u5E01\u3002\u9ED1\u5C71\u548C\u79D1\u7D22\u6C83\u4E24\u56FD\u5355\u65B9\u9762\u91C7\u7528\u6B27\u5143\uFF0C\u4F46\u5E76\u975E\u4E3A\u6B27\u5143\u533A\u6B63\u5F0F\u6210\u5458\uFF0C\u5728\u6B27\u6D32\u4E2D\u592E\u94F6\u884C\u548C\u6B27\u5143\u96C6\u56E2\u4E2D\u65E0\u4EE3\u8868\u6743\u3002 \u6B27\u6D32\u592E\u884C\u7531\u4E00\u540D\u4E3B\u5E2D\u53CA\u7531\u5404\u56FD\u592E\u884C\u4EE3\u8868\u7EC4\u6210\u7684\u8463\u4E8B\u4F1A\u7BA1\u7406\uFF0C\u8D1F\u8D23\u5236\u8BA2\u6B27\u5143\u533A\u7684\u8D27\u5E01\u653F\u7B56\uFF0C\u5176\u9996\u8981\u76EE\u6807\u662F\u63A7\u5236\u901A\u8D27\u81A8\u80C0\u3002\u8FD9\u4E00\u8D27\u5E01\u8054\u76DF\u65E0\u5171\u540C\u7684\u4EE3\u8868\u3001\u7BA1\u5236\u548C\u8D22\u653F\u653F\u7B56\uFF0C\u4F46\u5728\uFF08\u8D1F\u8D23\u5236\u5B9A\u4E0E\u6B27\u5143\u533A\u548C\u6B27\u5143\u76F8\u5173\u7684\u653F\u7B56\uFF09\u5185\u6709\u4E00\u5B9A\u7A0B\u5EA6\u7684\u534F\u4F5C\u3002\u6B27\u5143\u96C6\u56E2\u4E3A\u6B27\u5143\u533A\u56FD\u5BB6\u8D22\u957F\u7EC4\u6210\uFF0C\u4F46\u5728\u7D27\u6025\u60C5\u51B5\u4E0B\u5404\u56FD\u9886\u5BFC\u4EBA\u4EA6\u80FD\u7EC4\u6210\u96C6\u56E2\u3002"@zh ;
+	rdfs:seeAlso	dbr:History_of_the_euro ,
+		dbr:Phillips_curve ,
+		dbr:Greek_withdrawal_from_the_eurozone ,
+		dbr:Euro_Plus_Pact ,
+		dbr:European_Fiscal_Compact ;
+	foaf:homepage	<https://web.archive.org/web/20120609030416/http:/www.eurozone.europa.eu/> ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Campione_d\u0027Italia.svg> ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Eurozone .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Eurozone	dct:subject	dbc:Eurozone ,
+		dbc:Multi-speed_Europe ;
+	owl:sameAs	<http://uk.dbpedia.org/resource/\u0404\u0432\u0440\u043E\u0437\u043E\u043D\u0430> ,
+		<http://sl.dbpedia.org/resource/Evroobmo\u010Dje> ,
+		<http://bn.dbpedia.org/resource/\u0987\u0989\u09B0\u09CB_\u0985\u099E\u09CD\u099A\u09B2> ,
+		<http://d-nb.info/gnd/7553526-9> .
+@prefix ns12:	<http://ast.dbpedia.org/resource/> .
+dbr:Eurozone	owl:sameAs	ns12:Eurozona .
+@prefix ns13:	<http://www4.wiwiss.fu-berlin.de/eurostat/resource/countries/> .
+dbr:Eurozone	owl:sameAs	ns13:Euro_Area ,
+		<http://www4.wiwiss.fu-berlin.de/eurostat/resource/countries/Euro_Area_(_Ea-12_)> .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Eurozone	owl:sameAs	dbpedia-pl:Strefa_euro .
+@prefix dbpedia-nn:	<http://nn.dbpedia.org/resource/> .
+dbr:Eurozone	owl:sameAs	dbpedia-nn:Eurosona ,
+		<http://www4.wiwiss.fu-berlin.de/eurostat/resource/countries/Euro_Area_(_Ea-13_)> .
+@prefix dbpedia-gl:	<http://gl.dbpedia.org/resource/> .
+dbr:Eurozone	owl:sameAs	dbpedia-gl:Eurozona .
+@prefix ns17:	<http://scn.dbpedia.org/resource/> .
+dbr:Eurozone	owl:sameAs	ns17:Euruzzona ,
+		<http://vi.dbpedia.org/resource/Khu_v\u1EF1c_\u0111\u1ED3ng_euro> .
+@prefix dbpedia-fi:	<http://fi.dbpedia.org/resource/> .
+dbr:Eurozone	owl:sameAs	dbpedia-fi:Euroalue ,
+		<http://th.dbpedia.org/resource/\u0E22\u0E39\u0E42\u0E23\u0E42\u0E0B\u0E19> ,
+		<http://ta.dbpedia.org/resource/\u0B90\u0BB0\u0BCB_\u0BB5\u0BB2\u0BAF\u0BAE\u0BCD> .
+@prefix dbpedia-sq:	<http://sq.dbpedia.org/resource/> .
+dbr:Eurozone	owl:sameAs	dbpedia-sq:Eurozona ,
+		<http://zh.dbpedia.org/resource/\u6B27\u5143\u533A> ,
+		<http://sr.dbpedia.org/resource/\u0415\u0432\u0440\u043E\u0437\u043E\u043D\u0430> ,
+		<http://rdf.freebase.com/ns/m.0195tf> .
+@prefix dbpedia-eu:	<http://eu.dbpedia.org/resource/> .
+dbr:Eurozone	owl:sameAs	dbpedia-eu:Eurogunea .
+@prefix dbpedia-ro:	<http://ro.dbpedia.org/resource/> .
+dbr:Eurozone	owl:sameAs	dbpedia-ro:Zona_euro .
+@prefix ns22:	<http://ia.dbpedia.org/resource/> .
+dbr:Eurozone	owl:sameAs	ns22:Zona_euro .
+@prefix ns23:	<http://www.bbc.co.uk/things/91173495-d90c-4451-be72-23a1a823c8d2#> .
+dbr:Eurozone	owl:sameAs	ns23:id .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Eurozone	owl:sameAs	dbpedia-fr:Zone_euro .
+@prefix dbpedia-id:	<http://id.dbpedia.org/resource/> .
+dbr:Eurozone	owl:sameAs	dbpedia-id:Zona_Euro ,
+		<http://ckb.dbpedia.org/resource/\u0646\u0627\u0648\u0686\u06D5\u06CC_\u06CC\u06C6\u0631\u06C6> ,
+		<http://fa.dbpedia.org/resource/\u0645\u0646\u0637\u0642\u0647_\u06CC\u0648\u0631\u0648> .
+@prefix dbpedia-cy:	<http://cy.dbpedia.org/resource/> .
+dbr:Eurozone	owl:sameAs	dbpedia-cy:Ardal_yr_ewro ,
+		dbr:Eurozone ,
+		<http://viaf.org/viaf/168638621> ,
+		<http://jv.dbpedia.org/resource/Zona_\u00C9uro> ,
+		<http://sk.dbpedia.org/resource/Euroz\u00F3na> .
+@prefix ns27:	<http://bs.dbpedia.org/resource/> .
+dbr:Eurozone	owl:sameAs	ns27:Eurozona .
+@prefix ns28:	<http://mg.dbpedia.org/resource/> .
+dbr:Eurozone	owl:sameAs	ns28:Faritra_euro .
+@prefix ns29:	<http://d-nb.info/gnd/7553526-9/about/> .
+dbr:Eurozone	owl:sameAs	ns29:rdf ,
+		<http://cs.dbpedia.org/resource/Euroz\u00F3na> ,
+		<http://bg.dbpedia.org/resource/\u0415\u0432\u0440\u043E\u0437\u043E\u043D\u0430> .
+@prefix ns30:	<http://lt.dbpedia.org/resource/> .
+dbr:Eurozone	owl:sameAs	ns30:Euro_zona ,
+		<http://fy.dbpedia.org/resource/Euros\u00F4ne> ,
+		<http://hu.dbpedia.org/resource/Eur\u00F3z\u00F3na> ,
+		<http://ru.dbpedia.org/resource/\u0415\u0432\u0440\u043E\u0437\u043E\u043D\u0430> .
+@prefix dbpedia-no:	<http://no.dbpedia.org/resource/> .
+dbr:Eurozone	owl:sameAs	dbpedia-no:Eurosonen .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Eurozone	owl:sameAs	dbpedia-nl:Eurozone .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Eurozone	owl:sameAs	dbpedia-de:Eurozone ,
+		<http://vec.dbpedia.org/resource/Xona_de_l\u0027Euro> ,
+		<http://sah.dbpedia.org/resource/\u042D\u0443\u0440\u043E\u0437\u043E\u043D\u0430> .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Eurozone	owl:sameAs	dbpedia-pt:Zona_Euro .
+@prefix dbpedia-ms:	<http://ms.dbpedia.org/resource/> .
+dbr:Eurozone	owl:sameAs	dbpedia-ms:Zon_euro ,
+		<http://mr.dbpedia.org/resource/\u092F\u0941\u0930\u094B\u0915\u094D\u0937\u0947\u0924\u094D\u0930> ,
+		<http://eo.dbpedia.org/resource/E\u016Drozono> .
+@prefix dbpedia-sh:	<http://sh.dbpedia.org/resource/> .
+dbr:Eurozone	owl:sameAs	dbpedia-sh:Eurozona ,
+		<http://mk.dbpedia.org/resource/\u0415\u0432\u0440\u043E\u0437\u043E\u043D\u0430> .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Eurozone	owl:sameAs	wikidata:Q8268 .
+@prefix ns38:	<http://sco.dbpedia.org/resource/> .
+dbr:Eurozone	owl:sameAs	ns38:Eurozone ,
+		<http://be.dbpedia.org/resource/\u0415\u045E\u0440\u0430\u0437\u043E\u043D\u0430> ,
+		<http://is.dbpedia.org/resource/Evrusv\u00E6\u00F0i\u00F0> .
+@prefix dbpedia-ca:	<http://ca.dbpedia.org/resource/> .
+dbr:Eurozone	owl:sameAs	dbpedia-ca:Zona_euro ,
+		<http://ar.dbpedia.org/resource/\u0645\u0646\u0637\u0642\u0629_\u0627\u0644\u064A\u0648\u0631\u0648> ,
+		<http://viaf.org/viaf/130623777> ,
+		<http://sv.dbpedia.org/resource/Euroomr\u00E5det> .
+@prefix dbpedia-hr:	<http://hr.dbpedia.org/resource/> .
+dbr:Eurozone	owl:sameAs	dbpedia-hr:Eurozona ,
+		<http://ko.dbpedia.org/resource/\uC720\uB85C\uC874> ,
+		<http://hy.dbpedia.org/resource/\u0535\u057E\u0580\u0561\u0563\u0578\u057F\u056B> ,
+		<http://ml.dbpedia.org/resource/\u0D2F\u0D42\u0D31\u0D4B\u0D38\u0D4B\u0D7A> .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Eurozone	owl:sameAs	dbpedia-it:Zona_euro ,
+		<http://os.dbpedia.org/resource/\u0415\u0432\u0440\u043E\u0437\u043E\u043D\u00E6> ,
+		<http://ka.dbpedia.org/resource/\u10D4\u10D5\u10E0\u10DD\u10D6\u10DD\u10DC\u10D0> ,
+		<http://ga.dbpedia.org/resource/Limist\u00E9ar_an_euro> ,
+		<http://el.dbpedia.org/resource/\u0395\u03C5\u03C1\u03C9\u03B6\u03CE\u03BD\u03B7> ,
+		<http://he.dbpedia.org/resource/\u05D2\u05D5\u05E9_\u05D4\u05D0\u05D9\u05E8\u05D5> .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:Eurozone	owl:sameAs	dbpedia-es:Eurozona ,
+		<https://global.dbpedia.org/id/4yskJ> .
+@prefix ns43:	<http://lv.dbpedia.org/resource/> .
+dbr:Eurozone	owl:sameAs	ns43:Eirozona ,
+		<http://kk.dbpedia.org/resource/\u0415\u0443\u0440\u043E\u0430\u0439\u043C\u0430\u049B> .
+@prefix dbpedia-et:	<http://et.dbpedia.org/resource/> .
+dbr:Eurozone	owl:sameAs	dbpedia-et:Euroala .
+@prefix dbpedia-da:	<http://da.dbpedia.org/resource/> .
+dbr:Eurozone	owl:sameAs	dbpedia-da:Eurozonen ,
+		<http://hi.dbpedia.org/resource/\u092F\u0942\u0930\u094B\u0915\u094D\u0937\u0947\u0924\u094D\u0930> ,
+		<http://tr.dbpedia.org/resource/Euro_b\u00F6lgesi> .
+@prefix dbpedia-az:	<http://az.dbpedia.org/resource/> .
+dbr:Eurozone	owl:sameAs	dbpedia-az:Avrozona .
+@prefix dbpedia-lb:	<http://lb.dbpedia.org/resource/> .
+dbr:Eurozone	owl:sameAs	dbpedia-lb:Eurozon ,
+		<http://ja.dbpedia.org/resource/\u30E6\u30FC\u30ED\u570F> ,
+		<http://oc.dbpedia.org/resource/Zona_\u00C8uro> .
+@prefix dbpedia-simple:	<http://simple.dbpedia.org/resource/> .
+dbr:Eurozone	owl:sameAs	dbpedia-simple:Eurozone ,
+		<http://yi.dbpedia.org/resource/\u05D0\u05D9\u05D9\u05E8\u05D0\u05D6\u05D0\u05E0\u05E2> .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Eurozone	owl:sameAs	yago-res:Eurozone .
+@prefix schema:	<http://schema.org/> .
+dbr:Eurozone	schema:sameAs	<http://viaf.org/viaf/168638621> ;
+	dbo:abstract	"Is  \u00ED limist\u00E9ar an eor\u00F3 a thugann le ch\u00E9ile t\u00EDortha an Aontais Eorpaigh a ghlac leis an eor\u00F3 mar airgeadra coitianta. Crutha\u00EDodh an chr\u00EDoch i 1999 le aon t\u00EDr d\u00E9ag, agus tugadh isteach an Ghr\u00E9ig i 2001 mar gur lean siadsan i bprionsabal na treoracha a leagadh amach i Maastricht de easnamh poibl\u00ED (a mheasann roinnt t\u00EDortha lasmuigh de chaiteachas mh\u00EDleata) teoranta ag 3 % de Th\u00E1irgeadh Imt\u00EDre Brutto agus fiacha poibl\u00ED nach s\u00E1ra\u00EDonn 60 % de T\u00E1irgeadh Imt\u00EDre Brutto . I m\u00ED Ean\u00E1ir 2004, ba iad na 12 ballst\u00E1it ar chr\u00EDoch an eor\u00F3 n\u00E1: an Bheilg, an Ghearm\u00E1in, an Ghr\u00E9ig, an Sp\u00E1inn, an Fhrainc, Poblacht na h\u00C9ireann, an Iod\u00E1il, Lucsamburg, an \u00CDsilt\u00EDr, an Ostair, an Phortaing\u00E9il agus an Fhionlainn. Cuir an tSl\u00F3v\u00E9in, M\u00E1lta, an Chipir, an tSl\u00F3vaic, an East\u00F3in, an Laitvia, agus an Liotu\u00E1in isteach n\u00EDos d\u00E9ana\u00ED. Chomh maith leo sin, t\u00E1 ceithre \"mhion-st\u00E1t\", at\u00E1 ceangailte leis an gcr\u00EDoch mar gheall ar chonra\u00ED airgidis lena gcomharsain: And\u00F3ra, Monac\u00F3, San Mair\u00EDne agus an Vatac\u00E1in. T\u00E1 an sc\u00E9al ch\u00E9anna sa Chosaiv agus i Montain\u00E9agr\u00F3, a bhaineann feidhm as an eor\u00F3 mar airgead dlistineach. Bhaineadh s\u00ED feidhm as Mark na Gearm\u00E1ine roimhe sin mar airgeadra. T\u00E1 cupla t\u00EDr san Aontas Eorpach nach mbaineann feidhm as an eor\u00F3: \n* imeasc na st\u00E1t a th\u00E1inig isteach san Aontas roimh 2004, t\u00E1 an Danmhairg (ag a bhfuil cead lean\u00FAnach fanacht as, ach ag a bhfuil a cuid airgeadra ceangailte leis an eor\u00F3 le c\u00F3ras malart\u00FAch\u00E1in ar a dtugtar MCE II), an R\u00EDocht Aontaithe (ag a bhfuil cead lean\u00FAnach fanacht as) agus an tSualainn (a d'fh\u00F3gair go dtiocfadh s\u00ED isteach san aontas airgeadra i 2003, ach nach bhfuil cead lean\u00FAnach aici fanacht as agus a chaithfidh iarracht a dh\u00E9anamh na cusp\u00F3ir\u00ED a shroichint sa t\u00E9arma ghearr). \n* an 3 bhall nua san Aontas Eorpach, ag a bhfuil an chuid is m\u00F3 ag iarraidh dul i gcr\u00EDoch an eor\u00F3 chomh luath agus ar f\u00E9idir leo \u00E9: an Ung\u00E1ir, an Phoblacht Sheiceach, agus an Pholainn. Is \u00E9 treoir-ch\u00E1in chr\u00EDocha an eor\u00F3, a shocra\u00EDonn Banc Ceannais na hEorpa, 3.25 %."@ga ,
+		"\u0397 \u0395\u03C5\u03C1\u03C9\u03B6\u03CE\u03BD\u03B7, \u03BC\u03B5 \u03B5\u03C0\u03AF\u03C3\u03B7\u03BC\u03B7 \u03BF\u03BD\u03BF\u03BC\u03B1\u03C3\u03AF\u03B1 \u03B6\u03CE\u03BD\u03B7 \u03C4\u03BF\u03C5 \u03B5\u03C5\u03C1\u03CE, \u03B5\u03AF\u03BD\u03B1\u03B9 \u03BC\u03B9\u03B1 \u03BF\u03B9\u03BA\u03BF\u03BD\u03BF\u03BC\u03B9\u03BA\u03AE \u03BA\u03B1\u03B9 \u03BD\u03BF\u03BC\u03B9\u03C3\u03BC\u03B1\u03C4\u03B9\u03BA\u03AE \u03AD\u03BD\u03C9\u03C3\u03B7 \u03C0\u03BF\u03C5 \u03B1\u03C0\u03BF\u03C4\u03B5\u03BB\u03B5\u03AF\u03C4\u03B1\u03B9 \u03B1\u03C0\u03CC 19 \u03B1\u03C0\u03CC \u03C4\u03B9\u03C2 28 \u03C7\u03CE\u03C1\u03B5\u03C2 \u03C4\u03B7\u03C2 \u0395\u03C5\u03C1\u03C9\u03C0\u03B1\u03CA\u03BA\u03AE\u03C2 \u0388\u03BD\u03C9\u03C3\u03B7\u03C2, \u03BF\u03B9 \u03BF\u03C0\u03BF\u03AF\u03B5\u03C2 \u03AD\u03C7\u03BF\u03C5\u03BD \u03BF\u03B9\u03BA\u03B5\u03B9\u03BF\u03B8\u03B5\u03BB\u03CE\u03C2 \u03BA\u03B1\u03C4\u03B1\u03C1\u03B3\u03AE\u03C3\u03B5\u03B9 \u03C4\u03BF \u03B5\u03B8\u03BD\u03B9\u03BA\u03CC \u03C4\u03BF\u03C5\u03C2 \u03BD\u03CC\u03BC\u03B9\u03C3\u03BC\u03B1 \u03BA\u03B1\u03B9 \u03C5\u03B9\u03BF\u03B8\u03B5\u03C4\u03AE\u03C3\u03B5\u03B9 \u03C4\u03BF \u03B5\u03C5\u03C1\u03CE (\u20AC) \u03C9\u03C2 \u03C4\u03BF \u03BA\u03BF\u03B9\u03BD\u03CC \u03C4\u03BF\u03C5\u03C2 \u03BD\u03CC\u03BC\u03B9\u03C3\u03BC\u03B1 \u03BA\u03B1\u03B9 \u03BC\u03BF\u03BD\u03B1\u03B4\u03B9\u03BA\u03CC \u03BD\u03CC\u03BC\u03B9\u03BC\u03BF \u03C7\u03C1\u03AE\u03BC\u03B1. \u0397 \u0395\u03C5\u03C1\u03C9\u03B6\u03CE\u03BD\u03B7 \u03B1\u03C0\u03BF\u03C4\u03B5\u03BB\u03B5\u03AF\u03C4\u03B1\u03B9 \u03B1\u03C0\u03CC \u03C4\u03B7\u03BD \u0391\u03C5\u03C3\u03C4\u03C1\u03AF\u03B1, \u03C4\u03BF \u0392\u03AD\u03BB\u03B3\u03B9\u03BF, \u03C4\u03B7 \u0393\u03B1\u03BB\u03BB\u03AF\u03B1, \u03C4\u03B7 \u0393\u03B5\u03C1\u03BC\u03B1\u03BD\u03AF\u03B1, \u03C4\u03B7\u03BD \u0395\u03BB\u03BB\u03AC\u03B4\u03B1, \u03C4\u03B7\u03BD \u0395\u03C3\u03B8\u03BF\u03BD\u03AF\u03B1, \u03C4\u03B7\u03BD \u0399\u03C3\u03C0\u03B1\u03BD\u03AF\u03B1, \u03C4\u03B7\u03BD \u0399\u03C4\u03B1\u03BB\u03AF\u03B1 \u03C4\u03B7\u03BD \u0399\u03C1\u03BB\u03B1\u03BD\u03B4\u03AF\u03B1, \u03C4\u03B7\u03BD \u039A\u03CD\u03C0\u03C1\u03BF, \u03C4\u03B7 \u039B\u03B5\u03C4\u03BF\u03BD\u03AF\u03B1, \u03C4\u03BF \u039B\u03BF\u03C5\u03BE\u03B5\u03BC\u03B2\u03BF\u03CD\u03C1\u03B3\u03BF, \u03C4\u03B7 \u039C\u03AC\u03BB\u03C4\u03B1, \u03C4\u03B7\u03BD \u039F\u03BB\u03BB\u03B1\u03BD\u03B4\u03AF\u03B1, \u03C4\u03B7\u03BD \u03A0\u03BF\u03C1\u03C4\u03BF\u03B3\u03B1\u03BB\u03AF\u03B1, \u03C4\u03B7\u03BD \u03A3\u03BB\u03BF\u03B2\u03B1\u03BA\u03AF\u03B1, \u03C4\u03B7\u03BD \u03A3\u03BB\u03BF\u03B2\u03B5\u03BD\u03AF\u03B1, \u03C4\u03B7 \u039B\u03B9\u03B8\u03BF\u03C5\u03B1\u03BD\u03AF\u03B1 \u03BA\u03B1\u03B9 \u03C4\u03B7 \u03A6\u03B9\u03BD\u03BB\u03B1\u03BD\u03B4\u03AF\u03B1. \u03A4\u03B1 \u03AC\u03BB\u03BB\u03B1 \u03BA\u03C1\u03AC\u03C4\u03B7 \u03C4\u03B7\u03C2 \u0395\u0395 (\u03B5\u03BA\u03C4\u03CC\u03C2 \u03B1\u03C0\u03CC \u03C4\u03BF \u0397\u03BD\u03C9\u03BC\u03AD\u03BD\u03BF \u0392\u03B1\u03C3\u03AF\u03BB\u03B5\u03B9\u03BF \u03BA\u03B1\u03B9 \u03C4\u03B7 \u0394\u03B1\u03BD\u03AF\u03B1) \u03B5\u03AF\u03BD\u03B1\u03B9 \u03C5\u03C0\u03BF\u03C7\u03C1\u03B5\u03C9\u03BC\u03AD\u03BD\u03B1 \u03BD\u03B1 \u03C3\u03C5\u03BC\u03BC\u03B5\u03C4\u03AD\u03C7\u03BF\u03C5\u03BD \u03BC\u03CC\u03BB\u03B9\u03C2 \u03B8\u03B1 \u03C0\u03BB\u03B7\u03C1\u03BF\u03CD\u03BD \u03C4\u03B1 \u03BA\u03C1\u03B9\u03C4\u03AE\u03C1\u03B9\u03B1 \u03AD\u03BD\u03C4\u03B1\u03BE\u03B7\u03C2. \u039A\u03B1\u03BD\u03AD\u03BD\u03B1 \u03BA\u03C1\u03AC\u03C4\u03BF\u03C2 \u03B4\u03B5\u03BD \u03AD\u03C7\u03B5\u03B9 \u03C6\u03CD\u03B3\u03B5\u03B9 \u03B1\u03BA\u03CC\u03BC\u03B7 \u03B1\u03C0\u03CC \u03C4\u03B7\u03BD \u0395\u03C5\u03C1\u03C9\u03B6\u03CE\u03BD\u03B7. \u03A4\u03BF \u039C\u03BF\u03BD\u03B1\u03BA\u03CC, \u03C4\u03BF \u03A3\u03B1\u03BD \u039C\u03B1\u03C1\u03AF\u03BD\u03BF, \u03C4\u03BF \u0392\u03B1\u03C4\u03B9\u03BA\u03B1\u03BD\u03CC \u03BA\u03B1\u03B9 \u03B7 \u0391\u03BD\u03B4\u03CC\u03C1\u03C1\u03B1 \u03AD\u03C7\u03BF\u03C5\u03BD \u03B5\u03C0\u03AF\u03C3\u03B7\u03BC\u03B5\u03C2 \u03C3\u03C5\u03BC\u03C6\u03C9\u03BD\u03AF\u03B5\u03C2 \u03BC\u03B5 \u03C4\u03B7\u03BD \u0395\u0395 \u03B3\u03B9\u03B1 \u03BD\u03B1 \u03C7\u03C1\u03B7\u03C3\u03B9\u03BC\u03BF\u03C0\u03BF\u03B9\u03BF\u03CD\u03BD \u03C4\u03BF \u03B5\u03C5\u03C1\u03CE \u03C9\u03C2 \u03C4\u03BF \u03B5\u03C0\u03AF\u03C3\u03B7\u03BC\u03BF \u03BD\u03CC\u03BC\u03B9\u03C3\u03BC\u03B1 \u03C4\u03BF\u03C5\u03C2 \u03BA\u03B1\u03B9 \u03BD\u03B1 \u03B5\u03BA\u03B4\u03AF\u03B4\u03BF\u03C5\u03BD \u03C4\u03B1 \u03B4\u03B9\u03BA\u03AC \u03C4\u03BF\u03C5\u03C2 \u03BD\u03BF\u03BC\u03AF\u03C3\u03BC\u03B1\u03C4\u03B1. \u03A7\u03C9\u03C1\u03AF\u03C2 \u03C3\u03C5\u03BC\u03C6\u03C9\u03BD\u03AF\u03B1 \u03BC\u03B5 \u03C4\u03B7\u03BD \u0395\u03C5\u03C1\u03C9\u03C0\u03B1\u03CA\u03BA\u03AE \u0388\u03BD\u03C9\u03C3\u03B7, \u03C4\u03BF \u03B5\u03C5\u03C1\u03CE \u03C7\u03C1\u03B7\u03C3\u03B9\u03BC\u03BF\u03C0\u03BF\u03B9\u03B5\u03AF\u03C4\u03B1\u03B9 \u03BC\u03BF\u03BD\u03BF\u03BC\u03B5\u03C1\u03CE\u03C2 \u03B1\u03C0\u03CC \u03C4\u03BF \u039C\u03B1\u03C5\u03C1\u03BF\u03B2\u03BF\u03CD\u03BD\u03B9\u03BF \u03B1\u03BB\u03BB\u03AC \u03BA\u03B1\u03B9 \u03B1\u03C0\u03CC \u03C4\u03BF \u039A\u03CC\u03C3\u03BF\u03B2\u03BF, \u03BC\u03B5 \u03C4\u03BF \u039A\u03CC\u03C3\u03BF\u03B2\u03BF \u03BD\u03B1 \u03C7\u03C1\u03B7\u03C3\u03B9\u03BC\u03BF\u03C0\u03BF\u03B9\u03B5\u03AF \u03C4\u03BF \u03B5\u03C5\u03C1\u03CE \u03B1\u03BD\u03C4\u03AF \u03B3\u03B9\u03B1 \u03C4\u03BF \u03B4\u03B7\u03BD\u03AC\u03C1\u03B9\u03BF, \u03BA\u03C5\u03C1\u03AF\u03C9\u03C2 \u03B3\u03B9\u03B1 \u03C0\u03BF\u03BB\u03B9\u03C4\u03B9\u03BA\u03BF\u03CD\u03C2 \u03BB\u03CC\u03B3\u03BF\u03C5\u03C2 (\u03B4\u03B9\u03B1\u03C6\u03BF\u03C1\u03AD\u03C2 \u03BC\u03B5 \u03C4\u03B7 \u03A3\u03B5\u03C1\u03B2\u03AF\u03B1), \u03B5\u03BD\u03CE \u03B7 \u0392\u03CC\u03C1\u03B5\u03B9\u03B1 \u039A\u03BF\u03C1\u03AD\u03B1 \u03AD\u03C7\u03B5\u03B9 \u03C4\u03BF \u03B5\u03C5\u03C1\u03CE \u03C9\u03C2 \u03B5\u03C0\u03AF\u03C3\u03B7\u03BC\u03BF \u03BD\u03CC\u03BC\u03B9\u03C3\u03BC\u03B1 \u03B3\u03B9\u03B1 \u03B4\u03B9\u03B5\u03B8\u03BD\u03B5\u03AF\u03C2 \u03C3\u03C5\u03BD\u03B1\u03BB\u03BB\u03B1\u03B3\u03AD\u03C2 (\u03C4\u03BF \u03B5\u03B8\u03BD\u03B9\u03BA\u03CC \u03BD\u03CC\u03BC\u03B9\u03C3\u03BC\u03B1  \u03B4\u03B5\u03BD \u03B5\u03AF\u03BD\u03B1\u03B9 \u03B1\u03BD\u03C4\u03B1\u03BB\u03BB\u03AC\u03BE\u03B9\u03BC\u03BF \u03C3\u03C4\u03BF \u03B5\u03BE\u03C9\u03C4\u03B5\u03C1\u03B9\u03BA\u03CC). \u0397 \u03BD\u03BF\u03BC\u03B9\u03C3\u03BC\u03B1\u03C4\u03B9\u03BA\u03AE \u03C0\u03BF\u03BB\u03B9\u03C4\u03B9\u03BA\u03AE \u03C4\u03B7\u03C2 \u03B5\u03C5\u03C1\u03C9\u03B6\u03CE\u03BD\u03B7\u03C2 \u03B5\u03AF\u03BD\u03B1\u03B9 \u03B5\u03C5\u03B8\u03CD\u03BD\u03B7 \u03C4\u03B7\u03C2 \u0395\u03C5\u03C1\u03C9\u03C0\u03B1\u03CA\u03BA\u03AE\u03C2 \u039A\u03B5\u03BD\u03C4\u03C1\u03B9\u03BA\u03AE\u03C2 \u03A4\u03C1\u03AC\u03C0\u03B5\u03B6\u03B1\u03C2 (\u0395\u039A\u03A4) \u03B7 \u03BF\u03C0\u03BF\u03AF\u03B1 \u03B4\u03B9\u03BF\u03B9\u03BA\u03B5\u03AF\u03C4\u03B1\u03B9 \u03B1\u03C0\u03CC \u03AD\u03BD\u03B1\u03BD \u03C0\u03C1\u03CC\u03B5\u03B4\u03C1\u03BF \u03BA\u03B1\u03B9 \u03C4\u03BF \u03C3\u03C5\u03BC\u03B2\u03BF\u03CD\u03BB\u03B9\u03BF \u03C4\u03C9\u03BD \u03B5\u03C0\u03B9\u03BA\u03B5\u03C6\u03B1\u03BB\u03AE\u03C2 \u03C4\u03C9\u03BD \u03B5\u03B8\u03BD\u03B9\u03BA\u03CE\u03BD \u03BA\u03B5\u03BD\u03C4\u03C1\u03B9\u03BA\u03CE\u03BD \u03C4\u03C1\u03B1\u03C0\u03B5\u03B6\u03CE\u03BD. \u03A4\u03BF \u03BA\u03CD\u03C1\u03B9\u03BF \u03BA\u03B1\u03B8\u03AE\u03BA\u03BF\u03BD \u03C4\u03B7\u03C2 \u0395\u039A\u03A4 \u03B5\u03AF\u03BD\u03B1\u03B9 \u03BD\u03B1 \u03B4\u03B9\u03B1\u03C4\u03B7\u03C1\u03B5\u03AF \u03C4\u03BF\u03BD \u03AD\u03BB\u03B5\u03B3\u03C7\u03BF \u03C4\u03BF\u03C5 \u03C0\u03BB\u03B7\u03B8\u03C9\u03C1\u03B9\u03C3\u03BC\u03BF\u03CD. \u0391\u03BD \u03BA\u03B1\u03B9 \u03B4\u03B5\u03BD \u03C5\u03C0\u03AC\u03C1\u03C7\u03B5\u03B9 \u03BA\u03BF\u03B9\u03BD\u03AE \u03B5\u03BA\u03C0\u03C1\u03BF\u03C3\u03CE\u03C0\u03B7\u03C3\u03B7, \u03B4\u03B9\u03B1\u03BA\u03C5\u03B2\u03AD\u03C1\u03BD\u03B7\u03C3\u03B7 \u03AE  \u03C3\u03C4\u03B7 \u03BD\u03BF\u03BC\u03B9\u03C3\u03BC\u03B1\u03C4\u03B9\u03BA\u03AE \u03AD\u03BD\u03C9\u03C3\u03B7, \u03BA\u03AC\u03C0\u03BF\u03B9\u03B1 \u03C3\u03C5\u03BD\u03B5\u03C1\u03B3\u03B1\u03C3\u03AF\u03B1 \u03BB\u03B1\u03BC\u03B2\u03AC\u03BD\u03B5\u03B9 \u03C7\u03CE\u03C1\u03B1 \u03BC\u03AD\u03C3\u03C9 \u03C4\u03BF\u03C5 Eurogroup, \u03C4\u03BF \u03BF\u03C0\u03BF\u03AF\u03BF \u03C0\u03B1\u03AF\u03C1\u03BD\u03B5\u03B9 \u03C0\u03BF\u03BB\u03B9\u03C4\u03B9\u03BA\u03AD\u03C2 \u03B1\u03C0\u03BF\u03C6\u03AC\u03C3\u03B5\u03B9\u03C2 \u03C3\u03C7\u03B5\u03C4\u03B9\u03BA\u03AC \u03BC\u03B5 \u03C4\u03B7\u03BD \u0395\u03C5\u03C1\u03C9\u03B6\u03CE\u03BD\u03B7 \u03BA\u03B1\u03B9 \u03C4\u03BF \u03B5\u03C5\u03C1\u03CE. \u03A4\u03BF Eurogroup \u03B1\u03C0\u03BF\u03C4\u03B5\u03BB\u03B5\u03AF\u03C4\u03B1\u03B9 \u03B1\u03C0\u03CC \u03C4\u03BF\u03C5\u03C2 \u03C5\u03C0\u03BF\u03C5\u03C1\u03B3\u03BF\u03CD\u03C2 \u03BF\u03B9\u03BA\u03BF\u03BD\u03BF\u03BC\u03B9\u03BA\u03CE\u03BD \u03C4\u03C9\u03BD \u03BA\u03C1\u03B1\u03C4\u03CE\u03BD \u03BC\u03B5\u03BB\u03CE\u03BD \u03C4\u03B7\u03C2 \u0395\u03C5\u03C1\u03C9\u03B6\u03CE\u03BD\u03B7\u03C2, \u03B1\u03BB\u03BB\u03AC \u03C3\u03B5 \u03AD\u03BA\u03C4\u03B1\u03BA\u03C4\u03B5\u03C2 \u03BA\u03B1\u03C4\u03B1\u03C3\u03C4\u03AC\u03C3\u03B5\u03B9\u03C2, \u03BF\u03B9 \u03B5\u03B8\u03BD\u03B9\u03BA\u03BF\u03AF \u03B7\u03B3\u03AD\u03C4\u03B5\u03C2 \u03C3\u03C7\u03B7\u03BC\u03B1\u03C4\u03AF\u03B6\u03BF\u03C5\u03BD \u03B5\u03C0\u03AF\u03C3\u03B7\u03C2 \u03C4\u03BF Eurogroup. \u0391\u03C0\u03CC \u03C4\u03B7 \u0394\u03B9\u03B5\u03B8\u03BD\u03AE \u03C7\u03C1\u03B7\u03BC\u03B1\u03C4\u03BF\u03C0\u03B9\u03C3\u03C4\u03C9\u03C4\u03B9\u03BA\u03AE \u03BA\u03C1\u03AF\u03C3\u03B7 2007-2008, \u03B7 \u0395\u03C5\u03C1\u03C9\u03B6\u03CE\u03BD\u03B7 \u03AD\u03C7\u03B5\u03B9 \u03BA\u03B1\u03B8\u03B9\u03B5\u03C1\u03CE\u03C3\u03B5\u03B9 \u03BA\u03B1\u03B9 \u03C7\u03C1\u03B7\u03C3\u03B9\u03BC\u03BF\u03C0\u03BF\u03B9\u03AE\u03C3\u03B5\u03B9 \u03BC\u03AD\u03C4\u03C1\u03B1 \u03B3\u03B9\u03B1 \u03C4\u03B7\u03BD \u03C7\u03BF\u03C1\u03AE\u03B3\u03B7\u03C3\u03B7 \u03B4\u03B1\u03BD\u03B5\u03AF\u03C9\u03BD \u03AD\u03BA\u03C4\u03B1\u03BA\u03C4\u03B7\u03C2 \u03B1\u03BD\u03AC\u03B3\u03BA\u03B7\u03C2 \u03C3\u03B5 \u03BA\u03C1\u03AC\u03C4\u03B7 \u03BC\u03AD\u03BB\u03B7 \u03C9\u03C2 \u03B1\u03BD\u03C4\u03AC\u03BB\u03BB\u03B1\u03B3\u03BC\u03B1 \u03B3\u03B9\u03B1 \u03C4\u03B7\u03BD \u03B8\u03AD\u03C3\u03C0\u03B9\u03C3\u03B7 \u03BF\u03B9\u03BA\u03BF\u03BD\u03BF\u03BC\u03B9\u03BA\u03CE\u03BD \u03BC\u03B5\u03C4\u03B1\u03C1\u03C1\u03C5\u03B8\u03BC\u03AF\u03C3\u03B5\u03C9\u03BD. \u0397 \u0395\u03C5\u03C1\u03C9\u03B6\u03CE\u03BD\u03B7 \u03AD\u03C7\u03B5\u03B9 \u03B5\u03C0\u03AF\u03C3\u03B7\u03C2 \u03B8\u03B5\u03C3\u03C0\u03AF\u03C3\u03B5\u03B9 \u03BA\u03AC\u03C0\u03BF\u03B9\u03B1 \u03C0\u03B5\u03C1\u03B9\u03BF\u03C1\u03B9\u03C3\u03BC\u03AD\u03BD\u03B7 , \u03CC\u03C0\u03C9\u03C2 \u03B3\u03B9\u03B1 \u03C0\u03B1\u03C1\u03AC\u03B4\u03B5\u03B9\u03B3\u03BC\u03B1 \u03C4\u03B7\u03BD \u03B1\u03BD\u03B1\u03B8\u03B5\u03CE\u03C1\u03B7\u03C3\u03B7 \u03C4\u03C9\u03BD \u03C4\u03BF\u03C5 \u03BA\u03AC\u03B8\u03B5 \u03AD\u03BD\u03B1 \u03B5\u03B8\u03BD\u03B9\u03BA\u03BF\u03CD \u03C0\u03C1\u03BF\u03CB\u03C0\u03BF\u03BB\u03BF\u03B3\u03B9\u03C3\u03BC\u03BF\u03CD \u03B1\u03C0\u03CC \u03C4\u03BF\u03C5\u03C2 \u03C5\u03C0\u03CC\u03BB\u03BF\u03B9\u03C0\u03BF\u03C5\u03C2. \u03A4\u03BF \u03B8\u03AD\u03BC\u03B1 \u03B5\u03AF\u03BD\u03B1\u03B9 \u03C0\u03BF\u03BB\u03B9\u03C4\u03B9\u03BA\u03CC \u03BA\u03B1\u03B9 \u03B2\u03C1\u03AF\u03C3\u03BA\u03B5\u03C4\u03B1\u03B9 \u03C3\u03B5 \u03C1\u03B5\u03C5\u03C3\u03C4\u03AE \u03BA\u03B1\u03C4\u03AC\u03C3\u03C4\u03B1\u03C3\u03B7 \u03CC\u03C3\u03BF\u03BD \u03B1\u03C6\u03BF\u03C1\u03AC \u03C3\u03C4\u03B9\u03C2 \u03C0\u03B5\u03C1\u03B1\u03B9\u03C4\u03AD\u03C1\u03C9 \u03B4\u03B9\u03B1\u03C4\u03AC\u03BE\u03B5\u03B9\u03C2 \u03C0\u03BF\u03C5 \u03B8\u03B1 \u03C3\u03C5\u03BC\u03C6\u03C9\u03BD\u03B7\u03B8\u03BF\u03CD\u03BD \u03B3\u03B9\u03B1 \u03C4\u03B7\u03BD \u03B1\u03BD\u03B1\u03BC\u03CC\u03C1\u03C6\u03C9\u03C3\u03B7 \u03C4\u03B7\u03C2 \u0395\u03C5\u03C1\u03C9\u03B6\u03CE\u03BD\u03B7\u03C2."@el ,
+		"La eurozona,\u200B denominada oficialmente zona del euro\u200B y llamada tambi\u00E9n zona euro,\u200B es el conjunto de estados miembros de la Uni\u00F3n Europea (UE) que han adoptado el euro como moneda oficial (19 estados), formando as\u00ED una uni\u00F3n monetaria. Su creaci\u00F3n data del 1 de enero de 1999. La autoridad monetaria que controla la zona del euro es el Eurosistema. La autoridad econ\u00F3mica y pol\u00EDtica reside en el Eurogrupo y en la Comisi\u00F3n Europea (CE). El Banco Central Europeo (BCE) es la entidad responsable de la pol\u00EDtica monetaria de los estados que forman la zona del euro.\u200B"@es ,
+		"La zona euro \u00E9s el conjunt d'estats membres de la Uni\u00F3 Europea (UE) que han adoptat l'euro i han creat, aix\u00ED, una uni\u00F3 monet\u00E0ria."@ca ,
+		"Euroomr\u00E5det, \u00E4ven k\u00E4nt som euroland, eurol\u00E4nderna eller eurozonen, utg\u00F6rs av de 19 medlemsstater inom Europeiska unionen som har euron som valuta. Dessa medlemsstater har \u00F6verf\u00F6rt sina befogenheter \u00F6ver den monet\u00E4ra politiken till europeisk niv\u00E5 genom Eurosystemet. Cirka 340 miljoner m\u00E4nniskor bor i euroomr\u00E5det, som \u00E4r en av v\u00E4rldens st\u00F6rsta ekonomier. De medlemsstater som har euron som valuta \u00E4r Belgien, Cypern, Estland, Finland, Frankrike, Grekland, Irland, Italien, Lettland, Litauen, Luxemburg, Malta, Nederl\u00E4nderna, Portugal, Slovakien, Slovenien, Spanien, Tyskland och \u00D6sterrike. D\u00E4rut\u00F6ver har de europeiska mikrostaterna Andorra, Monaco, San Marino och Vatikanstaten euron som valuta genom monet\u00E4ra avtal med unionen, medan Kosovo och Montenegro har euron som valuta utan n\u00E5gra monet\u00E4ra avtal. Inom Europeiska unionen finns det \u00E5tta medlemsstater som har egna nationella valutor och som d\u00E4rmed inte ing\u00E5r i euroomr\u00E5det. Dessa \u00E4r Bulgarien, Danmark, Kroatien, Polen, Rum\u00E4nien, Sverige, Tjeckien och Ungern. Bortsett fr\u00E5n Danmark har dessa medlemsstater f\u00F6rbundit sig att inf\u00F6ra euron som valuta n\u00E4r de v\u00E4l uppfyller de s\u00E5 kallade konvergenskriterierna."@sv ,
+		"La zone euro, parfois appel\u00E9e eurozone, est une zone mon\u00E9taire qui regroupe les \u00C9tats membres de l'Union europ\u00E9enne qui ont adopt\u00E9 l'euro (EUR, \u20AC) comme monnaie ; sur les vingt-sept \u00C9tats membres de l'UE, dix-neuf utilisent l'euro. Ces dix-neuf pays repr\u00E9sentent plus de 340 millions d'habitants en 2017 pour un PIB cumul\u00E9 de 11 886 milliards d'euros et un taux de ch\u00F4mage moyen de 4,80 % de la population active, qui est cependant plus fort chez les moins de 25 ans, proche des 20 %. La zone euro a \u00E9t\u00E9 cr\u00E9\u00E9e en 1999 par onze pays : Allemagne, Autriche, Belgique, Espagne, Finlande, France, Irlande, Italie, Luxembourg, Pays-Bas, Portugal, rejoints par la Gr\u00E8ce en 2001, par la Slov\u00E9nie en 2007, par Chypre et Malte en 2008, par la Slovaquie en 2009, par l'Estonie en 2011, par la Lettonie en 2014 et par la Lituanie en 2015. Les billets et les pi\u00E8ces circulent depuis le 1er janvier 2002 mais sont fabriqu\u00E9s depuis le 1er janvier 1999 dans les onze pays fondateurs. Plusieurs crit\u00E8res sont n\u00E9cessaires pour rejoindre la zone euro : un d\u00E9ficit public inf\u00E9rieur \u00E0 3 % du PIB, une dette publique ne d\u00E9passant pas 60 % du PIB, une inflation ma\u00EEtris\u00E9e, une ind\u00E9pendance de la banque centrale du pays et une devise nationale stable pendant au moins deux ans au sein du MCE II. Le taux directeur refi de la zone euro, fix\u00E9 par la Banque centrale europ\u00E9enne, est de 0 % depuis le 10 mars 2016 (il est publi\u00E9 sur le site de la Banque centrale europ\u00E9enne). \u00C0 partir du d\u00E9but de l'ann\u00E9e 2010, avec le d\u00E9clenchement de la crise de la dette publique grecque, puis de la crise irlandaise, la zone euro entre dans une p\u00E9riode de turbulences. Au cours de nombreuses r\u00E9unions du Conseil europ\u00E9en et de nombreux sommets europ\u00E9ens, l'architecture globale de la zone euro va conna\u00EEtre de profondes \u00E9volutions."@fr ,
+		"The eurozone, officially called the euro area, is a monetary union of 19 of the 27 European Union (EU) member states which have adopted the euro (\u20AC) as their common currency and sole legal tender. The monetary authority of the eurozone is the Eurosystem. The other eight members of the European Union continue to use their own national currencies, although most of them are obliged to adopt the euro in the future. The eurozone consists of Austria, Belgium, Cyprus, Estonia, Finland, France, Germany, Greece, Ireland, Italy, Latvia, Lithuania, Luxembourg, Malta, the Netherlands, Portugal, Slovakia, Slovenia, and Spain. Other EU states (except for Denmark) are obliged to join once they meet the criteria to do so. No state has left, and there are no provisions to do so or to be expelled. Andorra, Monaco, San Marino, and Vatican City have formal agreements with the EU to use the euro as their official currency and issue their own coins. Kosovo and Montenegro have adopted the euro unilaterally, but these countries do not officially form part of the eurozone and do not have representation in the European Central Bank (ECB) or in the Eurogroup. The ECB, which is governed by a president and a board of the heads of national central banks, sets the monetary policy of the zone. The principal task of the ECB is to keep inflation under control. Though there is no common representation, governance or fiscal policy for the currency union, some co-operation does take place through the Eurogroup, which makes political decisions regarding the eurozone and the euro. The Eurogroup is composed of the finance ministers of eurozone states, but in emergencies, national leaders also form the Eurogroup. Since the financial crisis of 2007\u20132008, the eurozone has established and used provisions for granting emergency loans to member states in return for enacting economic reforms. The eurozone has also enacted some limited fiscal integration: for example, in peer review of each other's national budgets. The issue is political and in a state of flux in terms of what further provisions will be agreed for eurozone change."@en ,
+		"\u0645\u0646\u0637\u0642\u0629 \u0627\u0644\u064A\u0648\u0631\u0648 \u0623\u0648 (\u0627\u0644\u064A\u0648\u0631\u0648\u0632\u0648\u0646) (\u0628\u0627\u0644\u0625\u0646\u062C\u0644\u064A\u0632\u064A\u0629: Eurozone) \u0647\u0648 \u0627\u0644\u0627\u0633\u0645 \u0627\u0644\u0630\u064A \u064A\u0637\u0644\u0642 \u0639\u0644\u0649 \u062F\u0648\u0644 \u0627\u0644\u0627\u062A\u062D\u0627\u062F \u0627\u0644\u0623\u0648\u0631\u0648\u0628\u064A \u0627\u0644\u0645\u0646\u0636\u0645\u0629 \u0625\u0644\u0649 \u0627\u0644\u0639\u0645\u0644\u0629 \u0627\u0644\u0645\u0648\u062D\u062F\u0629 \u0627\u0644\u064A\u0648\u0631\u0648."@ar ,
+		"\u6B27\u5143\u533A\uFF08Eurozone\uFF1B\u5B98\u65B9\u79F0euro area\uFF09\u4E3A27\u4E2A\u6B27\u6D32\u8054\u76DF\u6210\u5458\u56FD\u4E2D\u768419\u4E2A\u56FD\u5BB6\u7EC4\u6210\u7684\u8D27\u5E01\u540C\u76DF\u3002\u8FD9\u4E9B\u56FD\u5BB6\u91C7\u7528\u6B27\u5143\uFF08\u20AC\uFF09\u4E3A\u5176\u901A\u7528\u8D27\u5E01\u548C\u552F\u4E00\u6CD5\u507F\u3002\u5176\u4ED68\u4E2A\u6B27\u76DF\u6210\u5458\u56FD\u4F7F\u7528\u81EA\u5DF1\u7684\u8D27\u5E01\u3002 \u6B27\u5143\u533A\u56FD\u5BB6\u5305\u62EC\u5965\u5730\u5229\u3001\u6BD4\u5229\u65F6\u3001\u585E\u6D66\u8DEF\u65AF\u3001\u7231\u6C99\u5C3C\u4E9A\u3001\u82AC\u5170\u3001\u6CD5\u56FD\u3001\u5FB7\u56FD\u3001\u5E0C\u814A\u3001\u7231\u5C14\u5170\u3001\u610F\u5927\u5229\u3001\u62C9\u6258\u7EF4\u4E9A\u3001\u7ACB\u9676\u5B9B\u3001\u5362\u68EE\u5821\u3001\u9A6C\u8033\u4ED6\u3001\u8377\u5170\u3001\u8461\u8404\u7259\u3001\u65AF\u6D1B\u4F10\u514B\u3001\u65AF\u6D1B\u6587\u5C3C\u4E9A\u548C\u897F\u73ED\u7259\u3002\u5176\u4ED6\u6B27\u6D32\u56FD\u5BB6\uFF08\u9664\u4E86\u4E39\u9EA6\uFF09\u5728\u8FBE\u5230\u6807\u51C6\u540E\u4E5F\u5FC5\u987B\u52A0\u5165\u6B27\u5143\u533A\u3002\u81F3\u4ECA\u65E0\u56FD\u5BB6\u9000\u51FA\uFF0C\u4E14\u4EA6\u65E0\u9000\u51FA\u6216\u5F00\u9664\u673A\u5236\u3002\u5B89\u9053\u5C14\u3001\u6469\u7EB3\u54E5\u3001\u5723\u9A6C\u529B\u8BFA\u548C\u68B5\u8482\u5188\u540C\u6B27\u76DF\u7684\u6B63\u5F0F\u534F\u5B9A\u5141\u8BB8\u8FD9\u4E9B\u56FD\u5BB6\u4F7F\u7528\u6B27\u5143\u4F5C\u4E3A\u5B98\u65B9\u8D27\u5E01\u5E76\u81EA\u884C\u53D1\u884C\u786C\u5E01\u3002\u9ED1\u5C71\u548C\u79D1\u7D22\u6C83\u4E24\u56FD\u5355\u65B9\u9762\u91C7\u7528\u6B27\u5143\uFF0C\u4F46\u5E76\u975E\u4E3A\u6B27\u5143\u533A\u6B63\u5F0F\u6210\u5458\uFF0C\u5728\u6B27\u6D32\u4E2D\u592E\u94F6\u884C\u548C\u6B27\u5143\u96C6\u56E2\u4E2D\u65E0\u4EE3\u8868\u6743\u3002 \u6B27\u6D32\u592E\u884C\u7531\u4E00\u540D\u4E3B\u5E2D\u53CA\u7531\u5404\u56FD\u592E\u884C\u4EE3\u8868\u7EC4\u6210\u7684\u8463\u4E8B\u4F1A\u7BA1\u7406\uFF0C\u8D1F\u8D23\u5236\u8BA2\u6B27\u5143\u533A\u7684\u8D27\u5E01\u653F\u7B56\uFF0C\u5176\u9996\u8981\u76EE\u6807\u662F\u63A7\u5236\u901A\u8D27\u81A8\u80C0\u3002\u8FD9\u4E00\u8D27\u5E01\u8054\u76DF\u65E0\u5171\u540C\u7684\u4EE3\u8868\u3001\u7BA1\u5236\u548C\u8D22\u653F\u653F\u7B56\uFF0C\u4F46\u5728\uFF08\u8D1F\u8D23\u5236\u5B9A\u4E0E\u6B27\u5143\u533A\u548C\u6B27\u5143\u76F8\u5173\u7684\u653F\u7B56\uFF09\u5185\u6709\u4E00\u5B9A\u7A0B\u5EA6\u7684\u534F\u4F5C\u3002\u6B27\u5143\u96C6\u56E2\u4E3A\u6B27\u5143\u533A\u56FD\u5BB6\u8D22\u957F\u7EC4\u6210\uFF0C\u4F46\u5728\u7D27\u6025\u60C5\u51B5\u4E0B\u5404\u56FD\u9886\u5BFC\u4EBA\u4EA6\u80FD\u7EC4\u6210\u96C6\u56E2\u3002 \u81EA2007\u5E74\u20132008\u5E74\u73AF\u7403\u91D1\u878D\u5371\u673A\u4EE5\u6765\uFF0C\u6B27\u5143\u533A\u5EFA\u7ACB\u5E76\u91C7\u53D6\u4E86\u63D0\u4F9B\u7D27\u6025\u8D37\u6B3E\u4EE5\u63A8\u52A8\u5176\u6210\u5458\u56FD\u8FDB\u884C\u7ECF\u6D4E\u6539\u9769\u7684\u673A\u5236\u3002\u6B27\u5143\u533A\u540C\u65F6\u8FD8\u8FDB\u884C\u4E86\u4E00\u5B9A\u7A0B\u5EA6\u7684\u8D22\u653F\u7EDF\u5408\uFF0C\u5982\u5BF9\u5404\u56FD\u7684\u9884\u7B97\u8FDB\u884C\u540C\u884C\u8BC4\u5BA1\u3002\u5728\u6B27\u5143\u533A\u6539\u9769\u8FD9\u4E00\u653F\u6CBB\u6027\u95EE\u9898\u4E0A\uFF0C\u5BF9\u4E8E\u6539\u9769\u65B9\u5411\u4ECD\u65E7\u5B58\u5728\u4E89\u8BAE\u30022019\u5E746\u670814\u65E5\uFF0C\u6B27\u5143\u533A\u8D22\u653F\u90E8\u957F\u4F1A\u8BAE\u5C31\u8BBE\u7ACB\u6B27\u5143\u533A\u7EDF\u4E00\u9884\u7B97\u673A\u5236\u7684\u6846\u67B6\u8FBE\u6210\u4E00\u81F4\u610F\u89C1\u3002\u9884\u7B97\u673A\u5236\u540D\u79F0\u521D\u5B9A\u4E3A\u201C\u201D\uFF0C\u5145\u5F53\u7528\u4E8E\u652F\u63F4\u6B27\u5143\u533A\u9879\u76EE\u7684\u516C\u5171\u57FA\u91D1\u3002BICC\u8D44\u91D1\u89C4\u6A21\u4ECE2021\u5E74\u52302027\u5E74\u4E3A170\u4EBF\u6B27\u5143\uFF0C\u753119\u4E2A\u6B27\u5143\u533A\u56FD\u5BB6\u52067\u5E74\u6CE8\u5165\u3002\u7531\u4E8E\u5BCC\u88D5\u56FD\u5BB6\u62C5\u5FC3\u51FA\u8D44\u540E\u8D44\u91D1\u4F1A\u5927\u91CF\u6D41\u5411\u7ECF\u6D4E\u72B6\u51B5\u8F83\u5DEE\u7684\u56FD\u5BB6\uFF0C\u56E0\u6B64\u89C4\u5B9ABICC\u7528\u4E8E\u9884\u5148\u83B7\u5F97\u6B27\u76DF\u6279\u51C6\u7684\u6295\u8D44\u9879\u76EE\uFF0C\u4F46\u4E0D\u80FD\u7528\u6765\u76F4\u63A5\u6551\u52A9\u9677\u5165\u503A\u52A1\u5371\u673A\u7684\u56FD\u5BB6\u3002"@zh ,
+		"Euroz\u00F3na, ofici\u00E1ln\u011B naz\u00FDvan\u00E1 euro oblast, je \u00FAzem\u00ED Evropsk\u00E9 unie, na kter\u00E9m se u\u017E\u00EDv\u00E1 spole\u010Dn\u00E1 evropsk\u00E1 m\u011Bna euro. Jej\u00EDmi \u010Dleny jsou tedy st\u00E1ty, je\u017E vstoupily do t\u0159et\u00ED f\u00E1ze Evropsk\u00E9 m\u011Bnov\u00E9 unie (EMU) a t\u00EDm euro na sv\u00E9m \u00FAzem\u00ED zavedly."@cs ,
+		"\u30E6\u30FC\u30ED\u570F\uFF08\u30E6\u30FC\u30ED\u3051\u3093\u3001\u82F1\u8A9E: eurozone, \u307E\u305F\u306Feuro area\uFF09\u306F\u3001\u30E6\u30FC\u30ED (\u20AC) \u3092\u5171\u901A\u901A\u8CA8\u3068\u3057\u3001\u552F\u4E00\u306E\u6CD5\u5B9A\u901A\u8CA8\u3068\u3057\u3066\u3044\u308B\u6B27\u5DDE\u9023\u5408(EU)\u52A0\u76DF27\u30AB\u56FD\u306E\u3046\u3061\u300119\u30AB\u56FD\u306E\u901A\u8CA8\u540C\u76DF\u3067\u3042\u308B\u3002\u30E6\u30FC\u30ED\u570F\u306E\u901A\u8CA8\u5F53\u5C40\u306F\u3067\u3042\u308B\u3002EU\u306E\u4ED6\u306E8\u30AB\u56FD\u306F\u81EA\u56FD\u901A\u8CA8\u3092\u4F7F\u7528\u3057\u7D9A\u3051\u3066\u3044\u308B\u304C\u3001\u305D\u306E\u307B\u3068\u3093\u3069\u306F\u5C06\u6765\u30E6\u30FC\u30ED\u3092\u63A1\u7528\u3059\u308B\u7FA9\u52D9\u304C\u3042\u308B\u3002 \u30E6\u30FC\u30ED\u570F\u306F\u3001\u30AA\u30FC\u30B9\u30C8\u30EA\u30A2\u3001\u30D9\u30EB\u30AE\u30FC\u3001\u30AD\u30D7\u30ED\u30B9\u3001\u30A8\u30B9\u30C8\u30CB\u30A2\u3001\u30D5\u30A3\u30F3\u30E9\u30F3\u30C9\u3001\u30D5\u30E9\u30F3\u30B9\u3001\u30C9\u30A4\u30C4\u3001\u30AE\u30EA\u30B7\u30E3\u3001\u30A2\u30A4\u30EB\u30E9\u30F3\u30C9\u3001\u30A4\u30BF\u30EA\u30A2\u3001\u30E9\u30C8\u30D3\u30A2\u3001\u30EA\u30C8\u30A2\u30CB\u30A2\u3001\u30EB\u30AF\u30BB\u30F3\u30D6\u30EB\u30AF\u3001\u30DE\u30EB\u30BF\u3001\u30AA\u30E9\u30F3\u30C0\u3001\u30DD\u30EB\u30C8\u30AC\u30EB\u3001\u30B9\u30ED\u30D0\u30AD\u30A2\u3001\u30B9\u30ED\u30D9\u30CB\u30A2\u3001\u30B9\u30DA\u30A4\u30F3\u3067\u69CB\u6210\u3055\u308C\u3066\u3044\u308B\u3002\u4ED6\u306EEU\u52A0\u76DF\u56FD(\u30C7\u30F3\u30DE\u30FC\u30AF\u3092\u9664\u304F)\u306F\u3001\u53C2\u52A0\u57FA\u6E96\u3092\u6E80\u305F\u3057\u305F\u5834\u5408\u3001\u53C2\u52A0\u3059\u308B\u7FA9\u52D9\u304C\u3042\u308B\u3002\u3069\u306E\u56FD\u3082\u96E2\u8131\u3057\u305F\u3053\u3068\u306F\u306A\u304F\u3001\u305D\u306E\u3088\u3046\u306A\u898F\u5B9A\u3082\u8FFD\u653E\u3055\u308C\u308B\u898F\u5B9A\u3082\u306A\u3044\u3002\u30A2\u30F3\u30C9\u30E9\u3001\u30E2\u30CA\u30B3\u3001\u30B5\u30F3\u30DE\u30EA\u30CE\u3001\u30D0\u30C1\u30AB\u30F3\u5E02\u56FD\u306F\u3001\u30E6\u30FC\u30ED\u3092\u516C\u5F0F\u901A\u8CA8\u3068\u3057\u3066\u4F7F\u7528\u3057\u3001\u81EA\u56FD\u306E\u30B3\u30A4\u30F3\u3092\u767A\u884C\u3059\u308B\u3053\u3068\u3067EU\u3068\u6B63\u5F0F\u306B\u5408\u610F\u3057\u3066\u3044\u308B\u3002\u30B3\u30BD\u30DC\u3001\u30E2\u30F3\u30C6\u30CD\u30B0\u30ED\u306F\u30E6\u30FC\u30ED\u3092\u4E00\u65B9\u7684\u306B\u63A1\u7528\u3057\u3066\u3044\u308B\u304C\u3001\u3053\u308C\u3089\u306E\u56FD\u306F\u516C\u5F0F\u306B\u306F\u30E6\u30FC\u30ED\u570F\u306E\u4E00\u90E8\u3092\u69CB\u6210\u3057\u3066\u304A\u3089\u305A\u3001\u6B27\u5DDE\u4E2D\u592E\u9280\u884C(ECB)\u3084\u30E6\u30FC\u30ED\u30B0\u30EB\u30FC\u30D7\u306B\u4EE3\u8868\u3092\u51FA\u3057\u3066\u3044\u306A\u3044\u3002 ECB\u306F\u3001\u7DCF\u88C1\u3068\u5404\u56FD\u4E2D\u592E\u9280\u884C\u306E\u7DCF\u88C1\u306B\u3088\u3063\u3066\u904B\u55B6\u3055\u308C\u3001\u30E6\u30FC\u30ED\u570F\u306E\u91D1\u878D\u653F\u7B56\u3092\u6C7A\u5B9A\u3059\u308B\u3002ECB\u306E\u4E3B\u8981\u4EFB\u52D9\u306F\u30A4\u30F3\u30D5\u30EC\u3092\u6291\u5236\u3059\u308B\u3053\u3068\u3067\u3042\u308B\u3002\u901A\u8CA8\u540C\u76DF\u306B\u5171\u901A\u306E\u4EE3\u8868\u3001\u30AC\u30D0\u30CA\u30F3\u30B9\u3001\u8CA1\u653F\u653F\u7B56\u306F\u5B58\u5728\u3057\u306A\u3044\u304C\u3001\u30E6\u30FC\u30ED\u570F\u3068\u30E6\u30FC\u30ED\u306B\u95A2\u3059\u308B\u653F\u6CBB\u7684\u610F\u601D\u6C7A\u5B9A\u3092\u884C\u3046\u30E6\u30FC\u30ED\u30B0\u30EB\u30FC\u30D7\u3092\u901A\u3058\u305F\u5354\u529B\u304C\u884C\u308F\u308C\u3066\u3044\u308B\u3002\u30E6\u30FC\u30ED\u30B0\u30EB\u30FC\u30D7\u306F\u30E6\u30FC\u30ED\u570F\u8AF8\u56FD\u306E\u8CA1\u52D9\u5927\u81E3\u3067\u69CB\u6210\u3055\u308C\u3066\u3044\u308B\u304C\u3001\u7DCA\u6025\u6642\u306B\u306F\u5404\u56FD\u9996\u8133\u3082\u30E6\u30FC\u30ED\u30B0\u30EB\u30FC\u30D7\u3092\u69CB\u6210\u3059\u308B\u3002 \u30E6\u30FC\u30ED\u570F\u306F\u30012007\u301C2008\u5E74\u306E\u91D1\u878D\u5371\u6A5F\u4EE5\u964D\u3001\u7D4C\u6E08\u6539\u9769\u3092\u5B9F\u65BD\u3059\u308B\u898B\u8FD4\u308A\u3068\u3057\u3066\u52A0\u76DF\u56FD\u306B\u7DCA\u6025\u878D\u8CC7\u3092\u4F9B\u4E0E\u3059\u308B\u6761\u9805\u3092\u5236\u5B9A\u3057\u3001\u5229\u7528\u3057\u3066\u304D\u305F\u3002\u30E6\u30FC\u30ED\u570F\u306F\u307E\u305F\u3001\u76F8\u4E92\u306E\u56FD\u5BB6\u4E88\u7B97\u306E\u76F8\u4E92\u8A55\u4FA1\u306A\u3069\u3001\u9650\u5B9A\u7684\u306A\u8CA1\u653F\u7D71\u5408\u3082\u5B9F\u65BD\u3057\u3066\u3044\u308B\u3002\u3053\u306E\u554F\u984C\u70B9\u306F\u653F\u6CBB\u7684\u306A\u3082\u306E\u3067\u3042\u308A\u3001\u30E6\u30FC\u30ED\u570F\u306E\u5909\u9769\u306E\u305F\u3081\u306B\u4ECA\u5F8C\u3069\u306E\u3088\u3046\u306A\u6761\u9805\u304C\u5408\u610F\u3055\u308C\u308B\u304B\u3068\u3044\u3046\u70B9\u3067\u6D41\u52D5\u7684\u306A\u72B6\u614B\u306B\u3042\u308B\u3002"@ja ,
+		"Strefa euro, zwyczajowo Euroland \u2013 grupa pa\u0144stw, kt\u00F3rych walut\u0105 jest euro. Do strefy euro nale\u017Cy 19 pa\u0144stw cz\u0142onkowskich Unii Europejskiej."@pl ,
+		"E\u016Drozono, anka\u016D nomata E\u016Drospaco a\u016D E\u016Droareo, estas tiu parto de la membro\u015Dtatoj de E\u016Dropa Unio en kiu validas la monunuo e\u016Dro. La e\u016Drozonon partoprenas (en 2016) dek na\u016D \u015Dtatoj kun entute \u0109irka\u016D 337 milionoj da lo\u011Dantoj: A\u016Dstrio, Belgio, Estonio, Finnlando, Francio, Germanio, Grekio, Hispanio, Irlando, Italio, Kipro, Latvio, Litovio, Luksemburgo, Malto, Nederlando, Portugalio, Slovakio kaj Slovenio. La na\u016D restantaj \u015Dtatoj de E\u016Dropa Unio ne (ankora\u016D) apartenas al la e\u016Drozono: Britio, Bulgario, \u0108e\u0125io, Danio, Hungario, Kroatio, Pollando, Rumanio kaj Svedio. La \u015Dtatetoj Monako, San-Marino kaj Vatikanurbo ne partoprenas la e\u016Drozonon, \u0109ar ili ne estas membro\u015Dtatoj de la E\u016Dropa Unio. Tamen, pro duflankaj interkonsentoj kun EU ili rajtas - la\u016D strikte limigita interkonsentita amplekso - uzi e\u016Dron kiel sian monunuon, kaj stampigi proprajn e\u016Dro-monerojn. Krome, la e\u016Dro estas la valuto a\u016D  en proksimume 30 pliaj regnoj a\u016D \u015Dtatoj de regnoj. Kun ili, 40 regnoj kaj partoj de regnoj uzas la e\u016Dron a\u016D valuton dependan de la e\u016Dro. La 1-an de januaro 2015, Litovio i\u011Dis la 19-a lando de la E\u016Drozono."@eo ,
+		"\uC720\uB85C\uC874(Eurozone, \uBB38\uD654\uC5B4: \uC720\uB85C \uC0AC\uC6A9 \uC9C0\uB300)\uC740 \uAD6D\uAC00 \uD1B5\uD654\uB85C \uC720\uB85C\uB97C \uB3C4\uC785\uD574 \uC0AC\uC6A9\uD558\uB294 \uAD6D\uAC00\uB098 \uC9C0\uC5ED\uC744 \uD1B5\uD2C0\uC5B4 \uBD80\uB974\uB294 \uB9D0\uC774\uB2E4. \uC720\uB7FD \uC911\uC559\uC740\uD589\uC774 \uC774 \uAD6C\uC5ED \uB0B4\uC758 \uD1B5\uD654 \uC815\uCC45\uC5D0 \uCC45\uC784\uC744 \uB9E1\uACE0 \uC788\uB2E4. \uB2E4\uB978 \uB9D0\uB85C \uC720\uB85C\uC5D0\uC5B4\uB9AC\uC5B4(Euroarea)\uB098 \uC720\uB85C\uB79C\uB4DC(Euroland)\uB77C\uACE0 \uBD80\uB974\uAE30\uB3C4 \uD55C\uB2E4."@ko ,
+		"Als Eurozone (amtlich auch Euro-W\u00E4hrungsgebiet oder Euroraum) wird die Gruppe der EU-Staaten bezeichnet, die den Euro als offizielle W\u00E4hrung besitzen. Die Eurozone besteht aus 19 EU-Staaten und wird deswegen als Euro-19 bezeichnet. Zuletzt \u00FCbernahm Litauen am 1. Januar 2015 als 19. EU-Land den Euro als offizielle W\u00E4hrung. Die 19 Staaten der Eurozone sind: Belgien, Deutschland, Estland, Finnland, Frankreich, Griechenland, Irland, Italien, Lettland, Litauen, Luxemburg, Malta, die Niederlande, \u00D6sterreich, Portugal, die Slowakei, Slowenien, Spanien und die Republik Zypern. Von den \u00FCbrigen acht EU-Staaten sind sieben verpflichtet, den Euro einzuf\u00FChren, sobald sie die vereinbarten Konvergenzkriterien erreichen. D\u00E4nemark kann den Euro einf\u00FChren, muss es jedoch nicht, das hei\u00DFt, es hat de jure eine Ausstiegsoption. Dasselbe galt f\u00FCr das ehemalige EU-Mitglied Gro\u00DFbritannien. F\u00FCr die Geldpolitik der Eurozone ist die Europ\u00E4ische Zentralbank zust\u00E4ndig und verantwortlich. Zusammen mit den nationalen Zentralbanken der Staaten der Eurozone bildet sie das Eurosystem. Im Rahmen der Euro-Gruppe stimmen die Staaten der Eurozone ihre Steuer- und Wirtschaftspolitik untereinander ab, allerdings ohne formale Entscheidungsbefugnis."@de ,
+		"La zona euro (o, altrettanto frequentemente, eurozona, area euro o eurolandia) indica informalmente l'insieme degli stati membri dell'Unione europea che adottano l'euro come valuta ufficiale ovvero formano l'Unione economica e monetaria dell'Unione europea. Le politiche monetarie dell'eurozona sono regolate esclusivamente dalla Banca centrale europea, che ha sede a Francoforte sul Meno in Germania. L'armonizzazione delle politiche economiche e fiscali dell'area euro \u00E8 agevolata dalle periodiche riunioni dell'Eurogruppo, organismo composto dai Ministri dell'economia e delle finanze degli Stati aderenti alla valuta comune che tradizionalmente precede i vertici dell'Ecofin. Dal 2015, la zona \u00E8 composta da diciannove stati membri, copre un'area di circa 2.500.000 km\u00B2 (corrispondente circa ad uno Stato come l'Argentina) per 340 milioni di abitanti (all'incirca come gli Stati Uniti d'America): potrebbe quindi essere considerato approssimativamente come il 7\u00BA stato al mondo per superficie e il 3\u00BA per popolazione."@it ,
+		"\u0404\u0432\u0440\u043E\u0437\u043E\u0301\u043D\u0430 \u2014 \u0433\u0440\u0443\u043F\u0430 19 \u0434\u0435\u0440\u0436\u0430\u0432 \u0404\u0432\u0440\u043E\u043F\u0435\u0439\u0441\u044C\u043A\u043E\u0433\u043E \u0421\u043E\u044E\u0437\u0443, \u043E\u0444\u0456\u0446\u0456\u0439\u043D\u043E\u044E \u0432\u0430\u043B\u044E\u0442\u043E\u044E \u044F\u043A\u0438\u0445 \u0454 \u0454\u0432\u0440\u043E. \u0422\u0443\u0442 \u043F\u0440\u043E\u0436\u0438\u0432\u0430\u0454 \u043F\u043E\u043D\u0430\u0434 336 \u043C\u0456\u043B\u044C\u0439\u043E\u043D\u0456\u0432 \u0454\u0432\u0440\u043E\u043F\u0435\u0439\u0446\u0456\u0432. \u0404\u0432\u0440\u043E\u043F\u0435\u0439\u0441\u044C\u043A\u0438\u0439 \u0446\u0435\u043D\u0442\u0440\u0430\u043B\u044C\u043D\u0438\u0439 \u0431\u0430\u043D\u043A \u0432\u0456\u0434\u043F\u043E\u0432\u0456\u0434\u0430\u0454 \u0437\u0430 \u0433\u0440\u043E\u0448\u043E\u0432\u043E-\u043A\u0440\u0435\u0434\u0438\u0442\u043D\u0443 \u043F\u043E\u043B\u0456\u0442\u0438\u043A\u0443 \u0454\u0432\u0440\u043E\u0437\u043E\u043D\u0438."@uk ,
+		"Zona Euro (resminya area euro, eurozone, atau secara tidak resminya tanah euro) merujuk pada gabungan mata uang di antara negara-negara anggota Uni Eropa yang telah mengadopsi euro sebagai satu-satunya mata uang resmi. , dipimpin oleh Bank Sentral Eropa, bertanggung jawab atas kebijakan moneter di dalam Zona Euro."@in ,
+		"A Zona Euro, oficialmente designada por \u00C1rea do Euro, e tamb\u00E9m coloquialmente referida como Eurozona, refere-se a uma uni\u00E3o monet\u00E1ria dentro da Uni\u00E3o Europeia, na qual alguns Estados-membros adotaram oficialmente o euro como moeda comum. A entidade m\u00E1xima que regula toda a pol\u00EDtica monet\u00E1ria \u00E9 o Banco Central Europeu, sediado em Frankfurt, Alemanha. A Zona Euro \u00E9 a segunda maior economia do mundo, segundo estimativas da Ag\u00EAncia Central de Intelig\u00EAncia (CIA) para 2013. A Su\u00ED\u00E7a e Liechtenstein, que ficam entre a \u00C1ustria, It\u00E1lia, Fran\u00E7a e Alemanha, ficaram fora da Uni\u00E3o Europeia e tamb\u00E9m n\u00E3o adotaram o euro como a moeda local, permanecendo com o franco su\u00ED\u00E7o. A Noruega tamb\u00E9m n\u00E3o est\u00E1 na Uni\u00E3o Europeia, proposta rejeitada em dois referendos. Os membros da Zona Euro t\u00EAm de respeitar o Pacto de Estabilidade e Crescimento e manter o seu d\u00E9fice p\u00FAblico abaixo de 3% do produto interno bruto (PIB). Se n\u00E3o o fizerem, ficar\u00E3o sujeitos a multas. O pacto de estabilidade e crescimento tamb\u00E9m pro\u00EDbe uma d\u00EDvida p\u00FAblica superior a 60% do PIB."@pt ,
+		"\u0415\u0432\u0440\u043E\u0437\u043E\u0301\u043D\u0430 \u2014 \u0434\u0435\u0439\u0441\u0442\u0432\u0443\u044E\u0449\u0438\u0439 \u0432 \u0440\u0430\u043C\u043A\u0430\u0445 \u0415\u0432\u0440\u043E\u043F\u0435\u0439\u0441\u043A\u043E\u0433\u043E \u0441\u043E\u044E\u0437\u0430 \u0432\u0430\u043B\u044E\u0442\u043D\u044B\u0439 \u0441\u043E\u044E\u0437 (\u042D\u0412\u0421 \u2014 \u044D\u043A\u043E\u043D\u043E\u043C\u0438\u0447\u0435\u0441\u043A\u0438\u0439 \u0432\u0430\u043B\u044E\u0442\u043D\u044B\u0439 \u0441\u043E\u044E\u0437 \u043E\u0442 \u0430\u043D\u0433\u043B. Economic and Monetary Union (EMU)). \u0412 \u043D\u0430\u0441\u0442\u043E\u044F\u0449\u0435\u0435 \u0432\u0440\u0435\u043C\u044F \u043E\u0431\u044A\u0435\u0434\u0438\u043D\u044F\u0435\u0442 19 \u0441\u0442\u0440\u0430\u043D \u0415\u0432\u0440\u043E\u0441\u043E\u044E\u0437\u0430, \u043E\u0444\u0438\u0446\u0438\u0430\u043B\u044C\u043D\u043E\u0439 \u0432\u0430\u043B\u044E\u0442\u043E\u0439 \u043A\u043E\u0442\u043E\u0440\u044B\u0445 \u044F\u0432\u043B\u044F\u0435\u0442\u0441\u044F \u0435\u0432\u0440\u043E. \u0415\u0432\u0440\u043E\u043F\u0435\u0439\u0441\u043A\u0438\u0439 \u0432\u0430\u043B\u044E\u0442\u043D\u044B\u0439 \u0441\u043E\u044E\u0437 \u043D\u0430\u0447\u0430\u043B \u0444\u0443\u043D\u043A\u0446\u0438\u043E\u043D\u0438\u0440\u043E\u0432\u0430\u0442\u044C 1 \u044F\u043D\u0432\u0430\u0440\u044F 1999 \u0433\u043E\u0434\u0430, \u043A\u043E\u0433\u0434\u0430 \u0432 \u0431\u0435\u0437\u043D\u0430\u043B\u0438\u0447\u043D\u043E\u0435 \u043E\u0431\u0440\u0430\u0449\u0435\u043D\u0438\u0435 \u0431\u044B\u043B\u0430 \u0432\u0432\u0435\u0434\u0435\u043D\u0430 \u0435\u0434\u0438\u043D\u0430\u044F \u0435\u0432\u0440\u043E\u043F\u0435\u0439\u0441\u043A\u0430\u044F \u0432\u0430\u043B\u044E\u0442\u0430 \u0435\u0432\u0440\u043E. \u0415\u0432\u0440\u043E\u043F\u0435\u0439\u0441\u043A\u0438\u0439 \u0441\u043E\u044E\u0437 \u0441\u0442\u0430\u043B \u043F\u0435\u0440\u0432\u044B\u043C \u0438 \u043F\u043E\u043A\u0430 \u0435\u0434\u0438\u043D\u0441\u0442\u0432\u0435\u043D\u043D\u044B\u043C \u0432 \u043C\u0438\u0440\u0435 \u0440\u0435\u0433\u0438\u043E\u043D\u0430\u043B\u044C\u043D\u044B\u043C \u043E\u0431\u044A\u0435\u0434\u0438\u043D\u0435\u043D\u0438\u0435\u043C, \u043F\u0435\u0440\u0435\u0448\u0435\u0434\u0448\u0438\u043C \u043A \u0447\u0435\u0442\u0432\u0451\u0440\u0442\u043E\u0439 \u0441\u0442\u0430\u0434\u0438\u0438 \u044D\u043A\u043E\u043D\u043E\u043C\u0438\u0447\u0435\u0441\u043A\u043E\u0439 \u0438\u043D\u0442\u0435\u0433\u0440\u0430\u0446\u0438\u0438 (\u0432\u0441\u043B\u0435\u0434 \u0437\u0430 \u0437\u043E\u043D\u043E\u0439 \u0441\u0432\u043E\u0431\u043E\u0434\u043D\u043E\u0439 \u0442\u043E\u0440\u0433\u043E\u0432\u043B\u0438, \u0442\u0430\u043C\u043E\u0436\u0435\u043D\u043D\u044B\u043C \u0441\u043E\u044E\u0437\u043E\u043C \u0438 \u043E\u0431\u0449\u0438\u043C \u0440\u044B\u043D\u043A\u043E\u043C). \u0421\u0442\u0440\u0430\u043D\u044B \u0435\u0432\u0440\u043E\u0437\u043E\u043D\u044B \u043F\u0435\u0440\u0435\u0434\u0430\u044E\u0442 \u0415\u0432\u0440\u043E\u043F\u0435\u0439\u0441\u043A\u043E\u043C\u0443 \u0446\u0435\u043D\u0442\u0440\u0430\u043B\u044C\u043D\u043E\u043C\u0443 \u0431\u0430\u043D\u043A\u0443 \u0432\u0441\u0435 \u043F\u043E\u043B\u043D\u043E\u043C\u043E\u0447\u0438\u044F \u0432 \u043E\u0431\u043B\u0430\u0441\u0442\u0438 \u0434\u0435\u043D\u0435\u0436\u043D\u043E-\u043A\u0440\u0435\u0434\u0438\u0442\u043D\u043E\u0439 \u043F\u043E\u043B\u0438\u0442\u0438\u043A\u0438, \u0432\u043A\u043B\u044E\u0447\u0430\u044F \u0440\u0435\u0448\u0435\u043D\u0438\u044F \u043E \u0440\u0430\u0437\u043C\u0435\u0440\u0435 \u044D\u043C\u0438\u0441\u0441\u0438\u0438 \u0434\u0435\u043D\u0435\u0436\u043D\u044B\u0445 \u0437\u043D\u0430\u043A\u043E\u0432 \u0438 \u0443\u0440\u043E\u0432\u043D\u0435 \u043A\u043B\u044E\u0447\u0435\u0432\u043E\u0439 \u043F\u0440\u043E\u0446\u0435\u043D\u0442\u043D\u043E\u0439 \u0441\u0442\u0430\u0432\u043A\u0438."@ru ,
+		"De eurozone (of eurosysteem, eurolanden, eurogebied) is de verzamelnaam voor de landen van de Europese Unie die de euro als munt hebben. De Europese Centrale Bank is verantwoordelijk voor het monetair beleid binnen de eurozone."@nl ,
+		"Eurogunea euroa (\u20AC) erabiltzeko onartu duten Europar Batasuneko herrialde kideen gunea da. Honela monetaren inguruko batasuna eratu dute eta  egin dute moneta-agintari gune honetan."@eu ;
+	dbp:align	"right"@en ;
+	dbp:header	"Statistics"@en ,
+		"Governance"@en ;
+	dbp:headerstyle	"background:#efefef;"@en ;
+	dbp:bodystyle	"width:4px"@en .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Eurozone	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Eurozone?oldid=986389373&ns=0> ;
+	dbp:float	"none"@en ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Campione_d\u0027Italia.svg?width=300> ;
+	dbp:data	715 ,
+		"\u20AC362 billion trade surplus"@en ,
+		"France"@en ,
+		1569 ,
+		643 ,
+		"(Further usage)"@en ,
+		"Finland"@en ,
+		2289 ,
+		1720 ,
+		787 ,
+		"Cyprus"@en ,
+		"Luxembourg"@en ,
+		"Slovenia"@en ,
+		950 ,
+		"Spain"@en ,
+		3085 ,
+		1847 ,
+		dbr:European_Central_Bank ,
+		124 .
+@prefix ns52:	<http://dbpedia.org/datatype/> .
+dbr:Eurozone	dbp:data	"7.5"^^ns52:perCent .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Eurozone	dbp:data	"1999-01-01"^^xsd:date ,
+		"Latvia"@en ,
+		"Greece"@en ,
+		"-0.5"^^ns52:perCent ,
+		dbr:Eurogroup ,
+		"Malta"@en ,
+		"1.2712E13"^^ns52:usDollar ,
+		"Belgium"@en ,
+		1112 ,
+		"Netherlands"@en ,
+		"Austria"@en ,
+		dbr:Euro ,
+		"European Union"@en ,
+		dbr:Paschal_Donohoe ,
+		"Slovakia"@en ,
+		dbr:Currency_union ,
+		6203 ,
+		"Lithuania"@en ,
+		"Germany"@en ,
+		21439 ,
+		"Italy"@en ,
+		"Portugal"@en ,
+		dbr:Christine_Lagarde ,
+		"Ireland"@en ,
+		2614 ,
+		"Estonia"@en ,
+		""@en ,
+		1315 ,
+		"2753828.0"^^ns52:squareKilometre ,
+		14188 ,
+		14140 ,
+		2936 ,
+		"0.2"^^ns52:perCent ,
+		342806623 ,
+		585 ,
+		590 ,
+		579 ;
+	dbp:labelType	"Economy"@en ;
+	dbp:dataMax	25000 ;
+	dbp:barWidth	45 ;
+	dbo:wikiPageExternalLink	<http://ec.europa.eu/economy_finance/euro/index_en.htm> ,
+		<http://www.ecb.europa.eu/> ,
+		<https://web.archive.org/web/20120609030416/http:/www.eurozone.europa.eu/> ;
+	dbp:tableWidth	70 ;
+	dbp:label	"Members"@en ,
+		"Currency"@en ,
+		"Switzerland ()"@en ,
+		"Canada ()"@en ,
+		dbr:List_of_countries_by_current_account_balance ,
+		"Unemployment"@en ,
+		"Mexico ()"@en ,
+		"Sweden ()"@en ,
+		"Taiwan ()"@en ,
+		"India ()"@en ,
+		"Indonesia ()"@en ,
+		"Korea ()"@en ,
+		"Argentina ()"@en ,
+		"Japan ()"@en ,
+		dbr:Eurogroup ,
+		"Turkey ()"@en ,
+		dbr:President_of_the_European_Central_Bank ,
+		"Brazil ()"@en ,
+		"Political control"@en ,
+		22 ,
+		"Australia ()"@en ,
+		"United States ()"@en ,
+		"United Kingdom ()"@en ,
+		"Policy of"@en ,
+		"China ()"@en ,
+		"Russia ()"@en ,
+		dbr:Central_bank ,
+		"GDP"@en ,
+		"Established"@en ,
+		dbr:Monetary_policy ,
+		"Area"@en ,
+		"Density"@en ,
+		"Population"@en ,
+		"Type"@en ,
+		"Saudi Arabia ()"@en ,
+		"Poland ()"@en ,
+		"Inflation"@en ;
+	dbo:wikiPageID	184391 ;
+	dbo:wikiPageRevisionID	986389373 ;
+	dbo:wikiPageWikiLink	dbr:President_of_the_European_Central_Bank ,
+		dbr:Belgium ,
+		dbr:The_Economist ,
+		dbr:National_parliaments_of_the_European_Union ,
+		dbr:Legal_tender ,
+		dbr:Caribbean_Netherlands ,
+		dbr:CFA_franc ,
+		dbr:Special_member_state_territories_and_the_European_Union ,
+		dbr:Eurosystem ,
+		dbr:Central_African_CFA_franc ,
+		dbr:Paschal_Donohoe ,
+		<http://dbpedia.org/resource/File:ECBrates.png> ,
+		<http://dbpedia.org/resource/File:Frankfurt_EZB-Neubau.20130909.jpg> ,
+		<http://dbpedia.org/resource/File:European_GNI_PPP_Per_Capita_2017.png> ,
+		<http://dbpedia.org/resource/File:M\u00E1rio_Centeno,_Informal_ECOFIN,_2016-09-10.jpg> ,
+		dbr:Capital_control ,
+		dbr:Portugal ,
+		dbr:Harmonised_Index_of_Consumer_Prices ,
+		dbr:Akrotiri_and_Dhekelia ,
+		<http://dbpedia.org/resource/File:Government_surplus_or_deficit_(EU-USA-UK).png> ,
+		dbr:Brussels ,
+		dbr:List_of_people_associated_with_the_eurozone_crisis ,
+		dbr:Lithuania ,
+		dbr:Treasury ,
+		<http://dbpedia.org/resource/San_Marino\u2013European_Union_relations> ,
+		dbr:President_of_the_European_Commission ,
+		dbr:Monetary_policy ,
+		dbr:Currency ,
+		dbr:West_African_CFA_franc ,
+		dbr:Greek_drachma ,
+		dbr:Finland ,
+		dbr:European_Financial_Stability_Facility ,
+		dbr:Spain ,
+		dbr:Arnulf_Baring ,
+		<http://dbpedia.org/resource/Sixpack_(European_Union_law)> ,
+		dbr:List_of_countries_by_current_account_balance ,
+		dbr:European_Financial_Stabilisation_Mechanism ,
+		<http://dbpedia.org/resource/File:Logo_European_Central_Bank.svg> ,
+		dbr:Euro_summit ,
+		dbr:Economic_and_Financial_Affairs_Council ,
+		<http://dbpedia.org/resource/Andorra\u2013European_Union_relations> ,
+		dbr:Slovak_koruna ,
+		dbc:Multi-speed_Europe ,
+		dbc:Eurozone ,
+		dbr:Executive_Vice_President_of_the_European_Commission_for_An_Economy_that_Works_for_People ,
+		dbr:List_of_acronyms_associated_with_the_eurozone_crisis ,
+		dbr:Cyprus ,
+		<http://dbpedia.org/resource/2013_enlargement_of_the_European_Union> ,
+		dbr:Spanish_peseta ,
+		dbr:European_Monetary_System ,
+		<http://dbpedia.org/resource/2003_Swedish_euro_referendum> ,
+		dbr:Opt-outs_in_the_European_Union ,
+		dbr:Gross_national_income ,
+		dbr:Central_bank ,
+		dbr:Capital_Markets_Union ,
+		dbr:Euro_banknotes ,
+		dbr:Council_of_the_European_Union ,
+		dbr:Exchange_rate_regime ,
+		<http://dbpedia.org/resource/University_of_California,_Berkeley> ,
+		dbr:James_Tobin ,
+		dbr:University_of_Texas_at_Austin ,
+		dbr:Luxembourg_franc ,
+		dbr:International_status_and_usage_of_the_euro ,
+		dbr:Austria ,
+		dbr:Sweden_and_the_euro ,
+		dbr:Government_budget ,
+		dbr:Gross_domestic_product ,
+		dbr:Maltese_lira ,
+		dbr:Italian_lira ,
+		dbr:Slovakia ,
+		dbr:Slovenia ,
+		dbr:Latvian_lats ,
+		dbr:Barry_Eichengreen ,
+		dbr:Deutsche_Mark ,
+		dbr:Christine_Lagarde ,
+		dbr:Banking_union ,
+		dbr:Bailout ,
+		dbr:Netherlands ,
+		dbr:Treaties_of_the_European_Union ,
+		dbr:Dutch_guilder ,
+		<http://dbpedia.org/resource/Saint_Barth\u00E9lemy> ,
+		dbr:Saint_Pierre_and_Miquelon ,
+		dbr:Economic_and_Monetary_Union_of_the_European_Union ,
+		dbr:Austrian_schilling ,
+		dbr:Purchasing_power_parity ,
+		dbr:Fiscal_union ,
+		dbr:Greek_withdrawal_from_the_eurozone ,
+		dbr:Cypriot_pound ,
+		dbr:Fiscal_policy ,
+		dbr:Member_of_the_European_Parliament ,
+		dbr:Eurogroup ,
+		dbr:Latvia ,
+		dbr:Republic_of_Ireland ,
+		dbr:Monetary_authority ,
+		<http://dbpedia.org/resource/Monaco\u2013European_Union_relations> ,
+		dbr:Locke_Lord ,
+		dbr:Malta ,
+		dbr:Slovenian_tolar ,
+		dbr:European_Stability_Mechanism ,
+		<http://dbpedia.org/resource/Cura\u00E7ao> ,
+		dbr:Estonia ,
+		dbr:Euro_sign ,
+		<http://dbpedia.org/resource/2004_enlargement_of_the_European_Union> ,
+		dbr:Enhanced_cooperation ,
+		dbr:United_Nations_Security_Council_Resolution_1244 ,
+		dbr:Sint_Maarten ,
+		dbr:International_Monetary_Fund ,
+		dbr:European_Commission ,
+		dbr:Referendum ,
+		dbr:Jean-Claude_Juncker ,
+		dbr:European_System_of_Central_Banks ,
+		dbr:Euro_convergence_criteria ,
+		dbr:Luxembourg ,
+		dbr:European_Currency_Unit ,
+		<http://dbpedia.org/resource/Holy_See\u2013European_Union_relations> ,
+		dbr:Finnish_markka ,
+		<http://dbpedia.org/resource/Tr\u00E9sor_public> ,
+		dbr:Stability_and_Growth_Pact ,
+		dbr:Government_debt ,
+		<http://dbpedia.org/resource/Joaqu\u00EDn_Almunia> ,
+		dbr:European_Central_Bank ,
+		dbr:Comorian_franc ,
+		dbr:French_franc ,
+		dbr:French_Southern_and_Antarctic_Lands ,
+		dbr:Olivier_Blanchard ,
+		dbr:French_Polynesia ,
+		dbr:European_Fiscal_Compact ,
+		dbr:Italy ,
+		dbr:Greece ,
+		dbr:Economy_of_the_European_Union ,
+		dbr:Bank_run ,
+		dbr:Member_state_of_the_European_Union ,
+		dbr:Portuguese_escudo ,
+		dbr:Federal_Reserve_Bank ,
+		dbr:President_of_France ,
+		dbr:European_Exchange_Rate_Mechanism ,
+		<http://dbpedia.org/resource/M\u00E1rio_Centeno> ,
+		dbr:Germany ,
+		dbr:Nicolas_Sarkozy ,
+		dbr:Euro_coins ,
+		dbr:Estonian_kroon ,
+		dbr:Currency_union ,
+		dbr:Euro ,
+		<http://dbpedia.org/resource/Financial_crisis_of_2007\u20132008> ,
+		dbr:Wallis_and_Futuna ,
+		dbr:Enlargement_of_the_eurozone ,
+		dbr:European_Union ,
+		dbr:Lithuanian_litas ,
+		dbr:France ,
+		dbr:ISO_3166-1 ,
+		dbr:Irish_pound ,
+		dbr:Brexit ,
+		dbr:New_Caledonia ,
+		dbr:Maastricht_Treaty ,
+		dbr:Belgian_franc ;
+	dbp:wikiPageUsesTemplate	<http://dbpedia.org/resource/Template:Europe_topics_(small)> .
+@prefix dbt:	<http://dbpedia.org/resource/Template:> .
+dbr:Eurozone	dbp:wikiPageUsesTemplate	dbt:China ,
+		dbt:Main ,
+		dbt:Euro_accession_map ,
+		dbt:Exchange-rate_regime_for_EU_members ,
+		dbt:Eurozone_labelled_map_interior ,
+		dbt:USA ,
+		dbt:Efn ,
+		dbt:Commons_category ,
+		dbt:Small ,
+		dbt:Supranational_European_Bodies ,
+		dbt:Percentage ,
+		dbt:Use_dmy_dates ,
+		dbt:Clear ,
+		dbt:Yes ,
+		dbt:Wikisource ,
+		dbt:Legend ,
+		dbt:Ref ,
+		dbt:Center ,
+		dbt:No ,
+		dbt:Kosovo-note ,
+		dbt:Citation_needed ,
+		dbt:Increase ,
+		dbt:Further ,
+		dbt:Short_description ,
+		dbt:Infobox ,
+		dbt:Politics_of_the_European_Union ,
+		dbt:Euro_topics .
+@prefix ns55:	<http://dbpedia.org/resource/Template:N/> .
+dbr:Eurozone	dbp:wikiPageUsesTemplate	ns55:a ,
+		dbt:Portal ,
+		dbt:See_also ,
+		dbt:Reflist ,
+		dbt:Bar_chart ,
+		dbt:European_Union_topics ,
+		dbt:Authority_control ,
+		dbt:Note ,
+		dbt:Resize ,
+		dbt:Nts ;
+	dbo:wikiPageLength	"66033"^^xsd:nonNegativeInteger ;
+	dbp:title	"Euro area"@en ,
+		"Comparison with economies of individual sovereign countries"@en ;
+	dbp:size	400 .
+dbr:Credit_rating_agency	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Member_state_of_the_European_Union	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Inner_Six	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Jean-Luc_Dehaene	dbo:wikiPageWikiLink	dbr:Eurozone .
+<http://dbpedia.org/resource/Alain_Jupp\u00E9>	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Christine_Lagarde	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Jean-Claude_Trichet	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Jean_Arthuis	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Baudouin_Prot	dbo:wikiPageWikiLink	dbr:Eurozone .
+<http://dbpedia.org/resource/Fran\u00E7ois_Asselineau>	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Sylvie_Goulard	dbo:wikiPageWikiLink	dbr:Eurozone .
+<http://dbpedia.org/resource/2013_in_Europe>	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Continental_union	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Currency_symbol	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Currency_union	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Democracy_in_Europe_Movement_2025	dbo:wikiPageWikiLink	dbr:Eurozone .
+<http://dbpedia.org/resource/Luxembourg\u0027s_euro_coins>	dbo:wikiPageWikiLink	dbr:Eurozone .
+<http://dbpedia.org/resource/2013_in_France>	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:EURO_STOXX_50	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Euroscepticism	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Non-decimal_currency	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Banque_Saudi_Fransi	dbo:wikiPageWikiLink	dbr:Eurozone .
+<http://dbpedia.org/resource/Belgium\u2013France_relations>	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Lithuania	dbo:wikiPageWikiLink	dbr:Eurozone .
+<http://dbpedia.org/resource/Ga\u00EBtan_Dussausaye>	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Giuseppe_Conte	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Bank_of_France	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:HSBC_France	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Beppe_Grillo	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Liernais	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:STOXX_Europe_600	dbo:wikiPageWikiLink	dbr:Eurozone .
+<http://dbpedia.org/resource/2012_in_Europe>	dbo:wikiPageWikiLink	dbr:Eurozone .
+<http://dbpedia.org/resource/1_euro_coin>	dbo:wikiPageWikiLink	dbr:Eurozone .
+<http://dbpedia.org/resource/2000_in_the_European_Union>	dbo:wikiPageWikiLink	dbr:Eurozone .
+<http://dbpedia.org/resource/2002_in_the_European_Union>	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Big_Mac_Index	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Microstates_and_the_European_Union	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Macroeconomic_Imbalance_Procedure	dbo:wikiPageWikiLink	dbr:Eurozone .
+<http://dbpedia.org/resource/2015>	dbo:wikiPageWikiLink	dbr:Eurozone .
+<http://dbpedia.org/resource/2015_in_Europe>	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Timeline_of_the_Great_Recession	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:EU_Med_Group	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Economy_of_Europe	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Economy_of_Hungary	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Economy_of_Morocco	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Economy_of_Slovenia	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Frugal_Four	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:ISO_3166-1_alpha-2	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:International_status_and_usage_of_the_euro	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Brian_Cowen	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:December_31	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:List_of_countries_by_net_migration_rate	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:List_of_fictional_countries	dbo:wikiPageWikiLink	dbr:Eurozone .
+<http://dbpedia.org/resource/Parafora_(album)>	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Rip-off_Britain	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Ruairi_Quinn	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Sigma_Alimentos	dbo:regionServed	dbr:Eurozone ;
+	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Single_Euro_Payments_Area	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Global_imbalances	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:List_of_companies_of_Portugal	dbo:wikiPageWikiLink	dbr:Eurozone .
+<http://dbpedia.org/resource/List_of_continents_by_GDP_(nominal)>	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:European_Commission	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:European_integration	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Pier_Carlo_Padoan	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Pierre_Moscovici	dbo:wikiPageWikiLink	dbr:Eurozone .
+<http://dbpedia.org/resource/Popular_Republican_Union_(2007)>	dbo:wikiPageWikiLink	dbr:Eurozone .
+<http://dbpedia.org/resource/Portugal\u2013Spain_relations>	dbo:wikiPageWikiLink	dbr:Eurozone .
+<http://dbpedia.org/resource/Cr\u00E9dit_Commercial_de_France>	dbo:wikiPageWikiLink	dbr:Eurozone .
+<http://dbpedia.org/resource/Eco_(currency)>	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:European_Monetary_System	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:European_Public_Prosecutor	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Organization_for_Security_and_Co-operation_in_Europe_statistics	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:EssilorLuxottica	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Montreuillon	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Multi-speed_Europe	dbp:caption	dbr:Eurozone ;
+	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Migration_policy_of_the_European_Union	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Matteo_Salvini	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Metrovacesa	dbo:wikiPageWikiLink	dbr:Eurozone .
+<http://dbpedia.org/resource/Mh\u00E8re>	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Geographical_midpoint_of_Europe	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Greek_economic_miracle	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Euclid_Tsakalotos	dbo:wikiPageWikiLink	dbr:Eurozone .
+<http://dbpedia.org/resource/L\u00FAcio_Mauro_Vinhas_de_Souza>	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Economy_of_Germany	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Symbid	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Wopke_Hoekstra	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Mercedes_Bresso	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Exchange_rate_regime	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Democracy_Movement	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Democratic_Bulgaria	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Economy_of_Latvia	dbo:wikiPageWikiLink	dbr:Eurozone .
+<http://dbpedia.org/resource/Czech_Republic\u2013Greece_relations>	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Luxembourg	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Sweden	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Outline_of_Finland	dbo:wikiPageWikiLink	dbr:Eurozone .
+<http://dbpedia.org/resource/Don\u0027t_Forget_the_Lyrics!>	dbo:wikiPageWikiLink	dbr:Eurozone .
+<http://dbpedia.org/resource/Benford\u0027s_law>	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Anti-austerity_movement_in_Greece	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Brian_Lenihan_Jnr	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Universalmuseum_Joanneum	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Portuguese_escudo	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Erland	dbo:wikiPageWikiLink	dbr:Eurozone ;
+	dbo:wikiPageDisambiguates	dbr:Eurozone .
+dbr:Guy_Abeille	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Currencies_of_the_European_Union	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Revaluation_of_the_Turkish_lira	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Coat_of_arms_of_Lithuania	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Cauliflower_revolution	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Subregion	dbo:wikiPageWikiLink	dbr:Eurozone .
+<http://dbpedia.org/resource/1998>	dbo:wikiPageWikiLink	dbr:Eurozone .
+<http://dbpedia.org/resource/2002>	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:History_of_Malta	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:List_of_motifs_on_banknotes	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Deutsche_Kreditbank	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:European_Research_Forum	dbo:wikiPageWikiLink	dbr:Eurozone .
+<http://dbpedia.org/resource/2014\u20132015_Greek_presidential_election>	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Reza_Moghadam	dbo:wikiPageWikiLink	dbr:Eurozone .
+<http://dbpedia.org/resource/5_euro_note>	dbo:wikiPageWikiLink	dbr:Eurozone .
+<http://dbpedia.org/resource/Euro_gold_and_silver_commemorative_coins_(Malta)>	dbo:wikiPageWikiLink	dbr:Eurozone .
+<http://dbpedia.org/resource/100_euro_note>	dbo:wikiPageWikiLink	dbr:Eurozone .
+<http://dbpedia.org/resource/10_euro_cent_coin>	dbo:wikiPageWikiLink	dbr:Eurozone .
+<http://dbpedia.org/resource/10_euro_note>	dbo:wikiPageWikiLink	dbr:Eurozone .
+<http://dbpedia.org/resource/Belgium\u2013Malta_relations>	dbo:wikiPageWikiLink	dbr:Eurozone .
+<http://dbpedia.org/resource/HSBC_Bank_(Europe)>	dbo:wikiPageWikiLink	dbr:Eurozone .
+<http://dbpedia.org/resource/200_euro_note>	dbo:wikiPageWikiLink	dbr:Eurozone .
+<http://dbpedia.org/resource/20_euro_cent_coin>	dbo:wikiPageWikiLink	dbr:Eurozone .
+<http://dbpedia.org/resource/20_euro_note>	dbo:wikiPageWikiLink	dbr:Eurozone .
+<http://dbpedia.org/resource/500_euro_note>	dbo:wikiPageWikiLink	dbr:Eurozone .
+<http://dbpedia.org/resource/50_euro_cent_coin>	dbo:wikiPageWikiLink	dbr:Eurozone .
+<http://dbpedia.org/resource/50_euro_note>	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Commemorative_coins_of_Malta	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Politics_of_Malta	dbo:wikiPageWikiLink	dbr:Eurozone .
+<http://dbpedia.org/resource/Malta\u2013Slovakia_relations>	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Pensions_in_Malta	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Member_state	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Penny_debate_in_the_United_States	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Withdrawal_of_low-denomination_coins	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Language_law_of_Slovakia	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Lucas_Papademos	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Luigi_Di_Maio	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Kostas_Karamanlis	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Charlie_McCreevy	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Giorgos_Papakonstantinou	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Horst_Seehofer	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Antonis_Samaras	dbo:wikiPageWikiLink	dbr:Eurozone .
+<http://dbpedia.org/resource/Paavo_V\u00E4yrynen>	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Costas_Simitis	dbo:wikiPageWikiLink	dbr:Eurozone .
+<http://dbpedia.org/resource/V\u00EDtor_Const\u00E2ncio>	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Philippe_Maystadt	dbo:wikiPageWikiLink	dbr:Eurozone .
+<http://dbpedia.org/resource/Stanis\u0142aw_Kluza>	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:John_Redwood	dbo:wikiPageWikiLink	dbr:Eurozone .
+<http://dbpedia.org/resource/Jos\u00E9_S\u00F3crates>	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Jutta_Urpilainen	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Yannis_Stournaras	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Costas_Lapavitsas	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Cypriot_euro_coins	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Jean_Peyrelevade	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Single_Resolution_Board	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Single_Supervisory_Mechanism	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Single_Resolution_Mechanism	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:History_of_Spain	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Eurocurrency	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Real-time_gross_settlement	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Wire_transfer	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Nikon_D800	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Eurodollar	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Syndicated_loan	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Macroeconomic_policy_instruments	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Societas_Europaea	dbo:wikiPageWikiLink	dbr:Eurozone .
+<http://dbpedia.org/resource/2010\u20132014_Portuguese_financial_crisis>	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Ricardo_Hausmann	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Capital_Markets_Union	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Money_creation	dbo:wikiPageWikiLink	dbr:Eurozone .
+<http://dbpedia.org/resource/2000s_in_economics>	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Open_market_operation	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Franz_Fehrenbach	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Historical_GDP_of_China	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Slang_terms_for_money	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:The_Conference_Board	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Coin_wrapper	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Uncovered_interest_arbitrage	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:The_Euro_and_the_Battle_of_Ideas	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:N26	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Max_Otte	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Paul_Sheard	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Celtic_Tiger	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Brexit_negotiations	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Glossary_of_Brexit_terms	dbo:wikiPageWikiLink	dbr:Eurozone .
+<http://dbpedia.org/resource/National_Party_(Ireland,_2016)>	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Irish_pound	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Save_the_Greenback_Act	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Stefano_Fassina	dbo:wikiPageWikiLink	dbr:Eurozone .
+<http://dbpedia.org/resource/2013_Italian_social_protests>	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:European_debt_crisis_contagion	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Carlo_Cottarelli	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Bank_of_Estonia	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Procrustes	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:IMF_Stand-By_Arrangement	dbo:wikiPageWikiLink	dbr:Eurozone .
+<http://dbpedia.org/resource/Ivar_N\u00F8rgaard>	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:CLS_Group	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Oesterreichische_Nationalbank	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Eurosystem	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:TARGET2	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Greek_government-debt_crisis_countermeasures	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Foreign_relations_of_Finland	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Treaties_of_the_European_Union	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Fish_for_finance	dbo:wikiPageWikiLink	dbr:Eurozone .
+<http://dbpedia.org/resource/2020_Bulgarian_protests>	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Economy_of_the_European_Union	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Foreign_relations_of_Taiwan	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Forum_for_Democracy	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Institutional_seats_of_the_European_Union	dbo:wikiPageWikiLink	dbr:Eurozone .
+<http://dbpedia.org/resource/Iceland\u2013European_Union_relations>	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Anti-austerity_movement_in_Spain	dbo:wikiPageWikiLink	dbr:Eurozone .
+<http://dbpedia.org/resource/Switzerland\u2013European_Union_relations>	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:De_Nederlandsche_Bank	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Global_financial_system	dbo:wikiPageWikiLink	dbr:Eurozone .
+<http://dbpedia.org/resource/2010_in_Ireland>	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Poland_in_the_European_Union	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Credit_Europe_Bank	dbo:wikiPageWikiLink	dbr:Eurozone .
+<http://dbpedia.org/resource/China\u2013European_Union_relations>	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Timeline_of_international_trade	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Russian_ruble	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Eurasian_Economic_Union	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:List_of_sovereign_states_and_dependencies_by_total_fertility_rate	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Estonian_euro_coins	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Alternative_for_Germany	dbo:wikiPageWikiLink	dbr:Eurozone .
+<http://dbpedia.org/resource/2013_in_Cyprus>	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Directorate-General_for_Economic_and_Financial_Affairs	dbo:wikiPageWikiLink	dbr:Eurozone .
+<http://dbpedia.org/resource/Axel_Sch\u00E4fer>	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:List_of_European_Commission_portfolios	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Pan-European_identity	dbo:wikiPageWikiLink	dbr:Eurozone .
+<http://dbpedia.org/resource/2011_in_Europe>	dbo:wikiPageWikiLink	dbr:Eurozone .
+<http://dbpedia.org/resource/2007_enlargement_of_the_European_Union>	dbo:wikiPageWikiLink	dbr:Eurozone .
+<http://dbpedia.org/resource/2020_in_Bulgaria>	dbo:wikiPageWikiLink	dbr:Eurozone .
+<http://dbpedia.org/resource/International_use_of_the_U.S._dollar>	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Sigmar_Gabriel	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Syriza	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Third-country_economic_relationships_with_the_European_Union	dbo:wikiPageWikiLink	dbr:Eurozone .
+<http://dbpedia.org/resource/Markus_S\u00F6der>	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Transport_in_Ukraine	dbo:wikiPageWikiLink	dbr:Eurozone .
+<http://dbpedia.org/resource/Transfer_(association_football)>	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Central_Bank_of_Cyprus	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Euro_starter_kits	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Redenomination	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Comorian_franc	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:European_Currency_Unit	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Central_Bank_of_Kosovo	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:History_of_the_European_Union_since_2004	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Accession_of_Kosovo_to_the_European_Union	dbo:wikiPageWikiLink	dbr:Eurozone .
+<http://dbpedia.org/resource/V\u00E1clav_Klaus>	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Third_Economic_Adjustment_Programme_for_Greece	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Cyprus_Securities_and_Exchange_Commission	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Exchange_rate	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Deutsche_Mark	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:List_of_companies_of_Italy	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:QR_code	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:MobileMe	dbo:wikiPageWikiLink	dbr:Eurozone .
+<http://dbpedia.org/resource/2008_Greek_riots>	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Economy_of_the_Republic_of_Ireland	dbo:wikiPageWikiLink	dbr:Eurozone .
+<http://dbpedia.org/resource/Mark_(currency)>	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Hans_Vijlbrief	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Honda_UK_Manufacturing	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Survey_on_Household_Income_and_Wealth	dbo:wikiPageWikiLink	dbr:Eurozone .
+<http://dbpedia.org/resource/Household_Finance_and_Consumption_Survey_(Ireland)>	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:German_Banking_Industry_Committee	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:STOXX	dbo:wikiPageWikiLink	dbr:Eurozone .
+<http://dbpedia.org/resource/Euro_gold_and_silver_commemorative_coins_(Cyprus)>	dbo:wikiPageWikiLink	dbr:Eurozone .
+<http://dbpedia.org/resource/Euro_gold_and_silver_commemorative_coins_(Estonia)>	dbo:wikiPageWikiLink	dbr:Eurozone .
+<http://dbpedia.org/resource/Euro_gold_and_silver_commemorative_coins_(Slovakia)>	dbo:wikiPageWikiLink	dbr:Eurozone .
+<http://dbpedia.org/resource/Euro_gold_and_silver_commemorative_coins_(Slovenia)>	dbo:wikiPageWikiLink	dbr:Eurozone .
+<http://dbpedia.org/resource/New_Europe_(newspaper)>	dbo:wikiPageWikiLink	dbr:Eurozone .
+<http://dbpedia.org/resource/EA_(disambiguation)>	dbo:wikiPageWikiLink	dbr:Eurozone ;
+	dbo:wikiPageDisambiguates	dbr:Eurozone .
+<http://dbpedia.org/resource/Ahmet_Davuto\u011Flu>	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Fatherland_and_Constitution	dbo:wikiPageWikiLink	dbr:Eurozone .
+<http://dbpedia.org/resource/PIGS_(economics)>	dbo:wikiPageWikiLink	dbr:Eurozone .
+<http://dbpedia.org/resource/Greek_financial_audits_2009\u20132010>	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Hellenic_Statistical_Authority	dbo:wikiPageWikiLink	dbr:Eurozone .
+dbr:Currency_transaction_tax	dbo:wikiPageWikiLink	dbr:Eurozone .

@@ -1,0 +1,20 @@
+
+
+
+
+    
+
+    
+    
+
+    <http://id.esd-toolkit.eu/BelgianServiceList/1.00> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <http://id.esd-toolkit.eu/service/644>   .<http://id.esd-toolkit.eu/DutchServiceList/1.00> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <http://id.esd-toolkit.eu/service/644>   .<http://id.esd-toolkit.eu/function/80> <http://def.esd.org.uk/containsService> <http://id.esd-toolkit.eu/service/644>   .<http://id.esd-toolkit.eu/LocalGovernmentServiceList/3.13> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <http://id.esd-toolkit.eu/service/644>   .<http://id.esd-toolkit.eu/LocalGovernmentServiceList/3.14> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <http://id.esd-toolkit.eu/service/644>   .<http://id.esd-toolkit.eu/LocalGovernmentServiceList/3.12> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <http://id.esd-toolkit.eu/service/644>   .<http://id.esd-toolkit.eu/ScottishServiceList/3.09> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <http://id.esd-toolkit.eu/service/644>   .<http://id.esd-toolkit.eu/service/644> <http://purl.org/dc/terms/identifier> "644"  ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://def.esd.org.uk/ServiceClass>  ;
+<http://www.w3.org/2002/07/owl#sameAs> <http://id.esd.org.uk/service/644>  ;
+<http://www.w3.org/2004/02/skos/core#definition> "Publication of details of sports facilities provided by the local authority.  This would usually include locations, facilities available, charges, opening hours etc."  ;
+<http://www.w3.org/2004/02/skos/core#historyNote> "Added scope notes in version 2.02. Term name changed from 'Sports facilities' to 'Sports - facilities - information' in version 3.00."  ;
+<http://www.w3.org/2004/02/skos/core#inScheme> <http://id.esd-toolkit.eu/BelgianServiceList/1.00> ,<http://id.esd-toolkit.eu/DutchServiceList/1.00> ,<http://id.esd-toolkit.eu/LocalGovernmentServiceList/3.13> ,<http://id.esd-toolkit.eu/ScottishServiceList/3.09> ,<http://id.esd-toolkit.eu/ServiceList/3.09> ,<http://id.esd-toolkit.eu/ServiceList/3.10> ,<http://id.esd-toolkit.eu/ServiceList/3.11>  ;
+<http://www.w3.org/2004/02/skos/core#prefLabel> "Openluchtsportcentra" ,"Speelterreinen" ,"Sports - facilities - information"  ;
+<http://www.w3.org/2004/02/skos/core#topConceptOf> <http://id.esd-toolkit.eu/BelgianServiceList/1.00> ,<http://id.esd-toolkit.eu/DutchServiceList/1.00> ,<http://id.esd-toolkit.eu/LocalGovernmentServiceList/3.13> ,<http://id.esd-toolkit.eu/LocalGovernmentServiceList/3.14> ,<http://id.esd-toolkit.eu/LocalGovernmentServiceList/3.12> ,<http://id.esd-toolkit.eu/ScottishServiceList/3.09> ,<http://id.esd-toolkit.eu/ServiceList/3.09> ,<http://id.esd-toolkit.eu/ServiceList/3.10> ,<http://id.esd-toolkit.eu/ServiceList/3.11> ,<http://id.esd-toolkit.eu/ServiceList/3.12> ,<http://id.esd-toolkit.eu/ServiceList/3.13> ,<http://id.esd-toolkit.eu/ServiceList/3.14>   .<http://id.esd-toolkit.eu/ServiceList/3.09> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <http://id.esd-toolkit.eu/service/644>   .<http://id.esd-toolkit.eu/ServiceList/3.10> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <http://id.esd-toolkit.eu/service/644>   .<http://id.esd-toolkit.eu/ServiceList/3.11> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <http://id.esd-toolkit.eu/service/644>   .<http://id.esd-toolkit.eu/ServiceList/3.12> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <http://id.esd-toolkit.eu/service/644>   .<http://id.esd-toolkit.eu/ServiceList/3.13> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <http://id.esd-toolkit.eu/service/644>   .<http://id.esd-toolkit.eu/ServiceList/3.14> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <http://id.esd-toolkit.eu/service/644>   .<http://id.esd.org.uk/service/644> <http://www.w3.org/2002/07/owl#sameAs> <http://id.esd-toolkit.eu/service/644>   .
+
+
+

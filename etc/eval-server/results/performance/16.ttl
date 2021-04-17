@@ -1,0 +1,443 @@
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+dbr:List_of_preserved_steam_locomotives_in_Germany	dbo:wikiPageWikiLink	dbr:Ettlingen .
+<http://dbpedia.org/resource/Agnes_of_Baden,_Countess_of_Holstein-Rendsburg>	dbo:wikiPageWikiLink	dbr:Ettlingen .
+dbr:List_of_town_tramway_systems_in_Germany	dbo:wikiPageWikiLink	dbr:Ettlingen .
+dbr:Karl_Albiker	dbo:wikiPageWikiLink	dbr:Ettlingen .
+dbr:Eilzugwagen	dbo:wikiPageWikiLink	dbr:Ettlingen .
+dbr:Taylor_Barracks	dbo:wikiPageWikiLink	dbr:Ettlingen .
+<http://dbpedia.org/resource/Karlsbad_(Baden)>	dbo:wikiPageWikiLink	dbr:Ettlingen .
+dbr:Karlsruhe_Stadtbahn	dbo:wikiPageWikiLink	dbr:Ettlingen .
+dbr:Speleonaut	dbo:wikiPageWikiLink	dbr:Ettlingen .
+dbr:Hardt_Railway	dbo:wikiPageWikiLink	dbr:Ettlingen .
+dbr:Roman_Catholic_Archdiocese_of_Freiburg	dbo:wikiPageWikiLink	dbr:Ettlingen .
+<http://dbpedia.org/resource/List_of_castles_in_Baden-W\u00FCrttemberg>	dbo:wikiPageWikiLink	dbr:Ettlingen .
+dbr:Marxzell	dbo:wikiPageWikiLink	dbr:Ettlingen .
+dbr:List_of_rulers_of_Baden	dbo:wikiPageWikiLink	dbr:Ettlingen .
+dbr:Duchess_Sibylle_of_Saxe-Lauenburg	dbo:wikiPageWikiLink	dbr:Ettlingen .
+dbr:Schubertiade	dbo:wikiPageWikiLink	dbr:Ettlingen .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+wikipedia-en:Ettlingen	foaf:primaryTopic	dbr:Ettlingen .
+dbr:List_of_municipalities_in_Germany	dbo:wikiPageWikiLink	dbr:Ettlingen .
+dbr:List_of_postal_codes_in_Germany	dbo:wikiPageWikiLink	dbr:Ettlingen .
+dbr:List_of_dialling_codes_in_Germany	dbo:wikiPageWikiLink	dbr:Ettlingen .
+dbr:Regional_Garden_Show	dbo:wikiPageWikiLink	dbr:Ettlingen .
+dbr:List_of_co-operative_banks_in_Germany	dbo:wikiPageWikiLink	dbr:Ettlingen .
+dbr:List_of_cities_and_towns_in_Germany	dbo:wikiPageWikiLink	dbr:Ettlingen .
+dbr:Pforzheim	dbo:wikiPageWikiLink	dbr:Ettlingen .
+dbr:Caspar_Hedio	dbo:wikiPageWikiLink	dbr:Ettlingen .
+dbr:Franciscus_Irenicus	dbo:wikiPageWikiLink	dbr:Ettlingen .
+dbr:Christian_Klar	dbo:wikiPageWikiLink	dbr:Ettlingen .
+dbr:List_of_railway_museums_in_Germany	dbo:wikiPageWikiLink	dbr:Ettlingen .
+dbr:Yuja_Wang	dbo:wikiPageWikiLink	dbr:Ettlingen .
+dbr:European_Union_of_Music_Competitions_for_Youth	dbo:wikiPageWikiLink	dbr:Ettlingen .
+<http://dbpedia.org/resource/Historical_Merchants\u0027_Hall_(Freiburg)>	dbo:wikiPageWikiLink	dbr:Ettlingen .
+dbr:Yotam_Ottolenghi	dbo:wikiPageWikiLink	dbr:Ettlingen .
+dbr:Simon_Pierro	dbo:birthPlace	dbr:Ettlingen .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Simon_Pierro	dbp:birthPlace	dbr:Ettlingen ;
+	dbo:wikiPageWikiLink	dbr:Ettlingen .
+dbr:Marianna_Shirinyan	dbo:wikiPageWikiLink	dbr:Ettlingen .
+dbr:Karl_Steinbuch	dbo:wikiPageWikiLink	dbr:Ettlingen .
+dbr:Willy_Wiedmann	dbo:wikiPageWikiLink	dbr:Ettlingen .
+dbr:Lang_Lang	dbo:wikiPageWikiLink	dbr:Ettlingen .
+dbr:List_of_twin_towns_and_sister_cities_in_England	dbo:wikiPageWikiLink	dbr:Ettlingen .
+<http://dbpedia.org/resource/8th_Bohemian_Dragoons_(Count_Montecuccoli\u0027s)>	dbo:wikiPageWikiLink	dbr:Ettlingen .
+<http://dbpedia.org/resource/L\u00F6bau>	dbo:wikiPageWikiLink	dbr:Ettlingen .
+dbr:Prussian_G_12	dbo:wikiPageWikiLink	dbr:Ettlingen .
+dbr:Chopin_Music_In_The_Open_Air	dbo:wikiPageWikiLink	dbr:Ettlingen .
+dbr:Wurmbrand-Stuppach	dbo:wikiPageWikiLink	dbr:Ettlingen .
+dbr:Karlsruhe_freight_bypass_railway	dbo:wikiPageWikiLink	dbr:Ettlingen .
+dbr:Ettlingen_Palace	dbo:wikiPageWikiLink	dbr:Ettlingen .
+<http://dbpedia.org/resource/List_of_railway_stations_in_Baden-W\u00FCrttemberg>	dbo:wikiPageWikiLink	dbr:Ettlingen .
+dbr:Malsch_station	dbo:wikiPageWikiLink	dbr:Ettlingen .
+dbr:Black_Forest	dbo:wikiPageWikiLink	dbr:Ettlingen .
+dbr:Baden_main_line	dbo:wikiPageWikiLink	dbr:Ettlingen .
+dbr:International_Federation_of_Model_Auto_Racing	dbo:wikiPageWikiLink	dbr:Ettlingen .
+<http://dbpedia.org/resource/List_of_cities_in_Baden-W\u00FCrttemberg_by_population>	dbo:wikiPageWikiLink	dbr:Ettlingen .
+dbr:Ettingen	dbo:wikiPageWikiLink	dbr:Ettlingen .
+dbr:Baden_Open	dbo:wikiPageWikiLink	dbr:Ettlingen .
+dbr:Dreieck_Karlsruhe	dbo:wikiPageWikiLink	dbr:Ettlingen .
+dbr:Menfi	dbo:wikiPageWikiLink	dbr:Ettlingen .
+dbr:Friedrich-Wilhelm_Kiel	dbo:wikiPageWikiLink	dbr:Ettlingen .
+dbr:Fritz_Rau	dbo:wikiPageWikiLink	dbr:Ettlingen .
+dbr:Karlsruhe	dbo:wikiPageWikiLink	dbr:Ettlingen .
+<http://dbpedia.org/resource/Karlsruhe_(district)>	dbo:wikiPageWikiLink	dbr:Ettlingen .
+dbr:List_of_tallest_church_buildings	dbo:wikiPageWikiLink	dbr:Ettlingen .
+dbr:Sturmtrupp-Pfadfinder	dbo:wikiPageWikiLink	dbr:Ettlingen .
+dbr:War_of_the_Polish_Succession	dbo:wikiPageWikiLink	dbr:Ettlingen .
+dbr:Clevedon	dbo:wikiPageWikiLink	dbr:Ettlingen .
+<http://dbpedia.org/resource/\u00C9pernay>	dbo:wikiPageWikiLink	dbr:Ettlingen .
+dbr:Rheinstetten	dbo:wikiPageWikiLink	dbr:Ettlingen .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+dbr:Ettlingen	rdf:type	dbo:Town .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Ettlingen	rdf:type	yago:Town108665504 .
+@prefix geo:	<http://www.w3.org/2003/01/geo/wgs84_pos#> .
+dbr:Ettlingen	rdf:type	geo:SpatialThing ,
+		yago:Region108630985 ,
+		dbo:Place ,
+		dbo:Location ,
+		yago:Location100027167 ,
+		yago:GeographicalArea108574314 ,
+		yago:District108552138 ,
+		dbo:PopulatedPlace ,
+		yago:AdministrativeDistrict108491826 ,
+		<http://dbpedia.org/class/yago/WikicatMunicipalitiesInBaden-W\u00FCrttemberg> .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Ettlingen	rdf:type	wikidata:Q486972 ,
+		yago:UrbanArea108675967 ,
+		yago:YagoPermanentlyLocatedEntity ,
+		yago:YagoGeoEntity ,
+		yago:Municipality108626283 ,
+		<http://dbpedia.org/class/yago/WikicatTownsInBaden-W\u00FCrttemberg> ,
+		dbo:Settlement ,
+		wikidata:Q3957 .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Ettlingen	rdf:type	owl:Thing ,
+		yago:YagoLegalActorGeo ,
+		yago:Object100002684 ,
+		yago:PhysicalEntity100001930 .
+@prefix schema:	<http://schema.org/> .
+dbr:Ettlingen	rdf:type	schema:Place .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Ettlingen	rdfs:label	"Ettlingen"@pl ,
+		"Ettlingen"@pt ,
+		"Ettlingen"@es ,
+		"\u0415\u0442\u0442\u043B\u0456\u043D\u0433\u0435\u043D"@uk ,
+		"\u57C3\u7279\u6797\u6839"@zh ,
+		"Ettlingen"@eo ,
+		"\u0625\u064A\u062A\u0644\u064A\u0646\u063A\u0646"@ar ,
+		"Ettlingen"@nl ,
+		"Ettlingen"@it ,
+		"Ettlingen"@fr ,
+		"Ettlingen"@sv ,
+		"Ettlingen"@cs ,
+		"Ettlingen"@en ,
+		"\u042D\u0442\u0442\u043B\u0438\u043D\u0433\u0435\u043D"@ru ,
+		"Ettlingen"@de ;
+	rdfs:comment	"Ettlingen \u00E9 uma cidade da Alemanha, no distrito de Karlsruhe, na regi\u00E3o administrativa de Karlsruhe, estado de Baden-W\u00FCrttemberg. Est\u00E1 a cerca de 8 km a sul da cidade de Karlsruhe e a cerca de 15 km da fronteira com Lauterbourg, no departamento franc\u00EAs do Baixo Reno. Ettlingen \u00E9 a segunda maior cidade do distrito de Karlsruhe, depois de Bruchsal."@pt ,
+		"\u042D\u0301\u0442\u0442\u043B\u0438\u043D\u0433\u0435\u043D \u2014 \u0433\u043E\u0440\u043E\u0434 \u0432 \u0413\u0435\u0440\u043C\u0430\u043D\u0438\u0438. \u041D\u0430\u0441\u0435\u043B\u0435\u043D\u0438\u0435 39 \u0442\u044B\u0441\u044F\u0447 \u0436\u0438\u0442\u0435\u043B\u0435\u0439 (2005). \u0413\u043E\u0440\u043E\u0434 \u0440\u0430\u0441\u043F\u043E\u043B\u043E\u0436\u0435\u043D \u043D\u0430 \u0440\u0435\u043A\u0435 \u0410\u043B\u044C\u0431, \u043D\u0430 \u0441\u0435\u0432\u0435\u0440\u043D\u043E\u043C \u043A\u0440\u0430\u044E \u0428\u0432\u0430\u0440\u0446\u0432\u0430\u043B\u044C\u0434\u0430, \u0432 10 \u043A\u043C \u043A \u044E\u0433\u0443 \u043E\u0442 \u041A\u0430\u0440\u043B\u0441\u0440\u0443\u044D."@ru ,
+		"Ettlingen \u00E4r en stad, 8 kilometer s\u00F6der om Karlsruhe i Baden-W\u00FCrttemberg. Ettlingen, som ligger vid den norra kanten av Schwarzwald, hade 38 553 inv\u00E5nare \u00E5r 2010. Staden var ursprungligen ett romerskt fort, och omn\u00E4mns under medeltiden f\u00F6rsta g\u00E5ngen 788. 1227 erh\u00F6ll den stadsr\u00E4ttigheter. I slaget vid Ettlingen 9-10 juli 1796 vann fransm\u00E4nnen en seger \u00F6ver \u00F6sterrikarna."@sv ,
+		"Ettlingen \u00E8 un comune tedesco di 38.731 abitanti, situato nel land del Baden-W\u00FCrttemberg. Dalla citt\u00E0 di Ettlingen proviene la famiglia di origine ebraica degli Ottolenghi (diffusa in Piemonte e Lombardia), fuggita in Italia in seguito alle espulsioni avvenute tra il XV e il XVI secolo."@it ,
+		"\u0415\u0442\u0442\u043B\u0456\u043D\u0433\u0435\u043D (\u043D\u0456\u043C. Ettlingen) \u2014 \u043C\u0456\u0441\u0442\u043E \u0432 \u041D\u0456\u043C\u0435\u0447\u0447\u0438\u043D\u0456, \u0437\u043D\u0430\u0445\u043E\u0434\u0438\u0442\u044C\u0441\u044F \u0432 \u0437\u0435\u043C\u043B\u0456 \u0411\u0430\u0434\u0435\u043D-\u0412\u044E\u0440\u0442\u0435\u043C\u0431\u0435\u0440\u0433. \u041F\u0456\u0434\u043F\u043E\u0440\u044F\u0434\u043A\u043E\u0432\u0443\u0454\u0442\u044C\u0441\u044F \u0430\u0434\u043C\u0456\u043D\u0456\u0441\u0442\u0440\u0430\u0442\u0438\u0432\u043D\u043E\u043C\u0443 \u043E\u043A\u0440\u0443\u0433\u0443 \u041A\u0430\u0440\u043B\u0441\u0440\u0443\u0435. \u0412\u0445\u043E\u0434\u0438\u0442\u044C \u0434\u043E \u0441\u043A\u043B\u0430\u0434\u0443 \u0440\u0430\u0439\u043E\u043D\u0443 \u041A\u0430\u0440\u043B\u0441\u0440\u0443\u0435. \u041F\u043B\u043E\u0449\u0430 \u2014 56,74 \u043A\u043C2. \u041D\u0430\u0441\u0435\u043B\u0435\u043D\u043D\u044F \u0441\u0442\u0430\u043D\u043E\u0432\u0438\u0442\u044C 39 315 \u043E\u0441. (\u0441\u0442\u0430\u043D\u043E\u043C \u043D\u0430 31 \u0433\u0440\u0443\u0434\u043D\u044F 2017)."@uk ,
+		"\u57C3\u7279\u6797\u6839\uFF08Ettlingen\uFF09\u662F\u5FB7\u56FD\u5DF4\u767B-\u7B26\u817E\u5821\u5DDE\u57CE\u5E02\uFF0C\u4F4D\u4E8E\u5361\u5C14\u65AF\u9C81\u5384\u4EE5\u5357\u548C\u4E1C\u5357\u3002\u5B83\u96B6\u5C5E\u4E8E\u5361\u5C14\u65AF\u9C81\u5384\u884C\u653F\u533A\u5361\u5C14\u65AF\u9C81\u5384\u53BF\uFF0C\u662F\u8BE5\u53BF\u7684\u7B2C\u4E8C\u5927\u57CE\u5E02\uFF0C\u4EC5\u6B21\u4E8E\u5E03\u9C81\u8D6B\u8428\u5C14\uFF08Bruchsal\uFF09\u3002"@zh ,
+		"Ettlingen je velk\u00E9 okresn\u00ED m\u011Bsto v n\u011Bmeck\u00E9 spolkov\u00E9 zemi B\u00E1densko-W\u00FCrttembersko. Le\u017E\u00ED asi 8 km ji\u017En\u011B od m\u011Bsta Karlsruhe na severn\u00EDm okraji \u010Cern\u00E9ho lesa. Po Bruchsalu je Ettlingen druh\u00FDm nejv\u011Bt\u0161\u00EDm m\u011Bstem v okrese Karlsruhe. Ettlingen byl d\u016Fle\u017Eitou k\u0159i\u017Eovatkou v dob\u011B Starov\u011Bk\u00E9ho \u0158\u00EDma. To je dolo\u017Eeno mnoha artefakty nalezen\u00FDmi v oblasti. M\u011Bsto je poprv\u00E9 zmi\u0148ov\u00E1no v roce 788 jako Ediningom v ozn\u00E1men\u00ED z kl\u00E1\u0161tera ve  v Alsasku. V roce 965 p\u0159ijala vesnice Ettlingen (Ediningom)  od c\u00EDsa\u0159e Oty I. Velik\u00E9ho. V roce 1192 byl Ettlingen pov\u00FD\u0161en na m\u011Bsto c\u00EDsa\u0159em Jind\u0159ichem VI."@cs ,
+		"Ettlingen is een Gro\u00DFe Kreisstadt in de Duitse deelstaat Baden-W\u00FCrttemberg, gelegen in het Landkreis Karlsruhe. De stad telt 38.819 inwoners."@nl ,
+		"\u0627\u062A\u0644\u064A\u0646\u063A\u0646 (\u0628\u0627\u0644\u0623\u0644\u0645\u0627\u0646\u064A\u0629: Ettlingen) \u0647\u064A \u060C \u0645\u062F\u064A\u0646\u0629 \u0648 \u0628\u0644\u062F\u0629 \u0623\u0644\u0645\u0627\u0646\u064A\u0629 \u062A\u0642\u0639 \u0641\u064A \u0623\u0644\u0645\u0627\u0646\u064A\u0627 \u0641\u064A . \u064A\u0642\u062F\u0631 \u0639\u062F\u062F \u0633\u0643\u0627\u0646\u0647\u0627 \u0628\u0640 48,875 \u0646\u0633\u0645\u0629 ."@ar ,
+		"Ettlingen is a town in Baden-W\u00FCrttemberg, Germany, about 8 kilometres (5.0 mi) south of the city of Karlsruhe and approximately 15 kilometres (9.3 mi) from the border with Lauterbourg, in France's Bas-Rhin department. Ettlingen is the second largest town in the district of Karlsruhe, after Bruchsal."@en ,
+		"Ettlingen est une ville d'Allemagne, situ\u00E9e au sud de Karlsruhe, dans le Bade-Wurtemberg, au pied de la For\u00EAt-Noire du nord. Elle est la deuxi\u00E8me plus grande ville du district de Karlsruhe (derri\u00E8re Bruchsal)."@fr ,
+		"Ettlingen estas komunumo en Germanio. \u011Ci trovi\u011Das en la distrikto Karlsruhe de la federacia lando Baden-Virtembergo. La 31-an de decembro 2005 la komunumo havis 39026 lo\u011Dantojn."@eo ,
+		"Ettlingen es una ciudad alemana situada al sur de Karlsruhe, en Baden-Wurtemberg. Es la segunda ciudad m\u00E1s grande, tras Bruchsal, del distrito de Karlsruhe."@es ,
+		"Ettlingen \u2013 miasto w Niemczech, w kraju zwi\u0105zkowym Badenia-Wirtembergia, w rejencji Karlsruhe, w regionie Mittlerer Oberrhein, w powiecie Karlsruhe. Le\u017Cy u podn\u00F3\u017Ca Schwarzwaldu, nad rzek\u0105 Alb, na po\u0142udnie od Karlsruhe, na wysoko\u015Bci 132 m n.p.m.. Liczy 38 553 mieszka\u0144c\u00F3w (31.12.2010), na powierzchni 56,74 km\u00B2."@pl ,
+		"Ettlingen () ist eine Stadt s\u00FCdlich von Karlsruhe in Baden-W\u00FCrttemberg. Sie ist nach Bruchsal die zweitgr\u00F6\u00DFte Stadt des Landkreises Karlsruhe und ein Mittelzentrum f\u00FCr die umliegenden Gemeinden. Seit 1. Januar 1966 ist Ettlingen eine Gro\u00DFe Kreisstadt."@de ;
+	foaf:homepage	<https://www.ettlingen.de/> .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Ettlingen	geo:lat	"48.9333343505859375"^^xsd:float ;
+	geo:long	"8.3999996185302734375"^^xsd:float ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Rathausturm_Ettlingen.JPG> ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Ettlingen .
+@prefix virtrdf:	<http://www.openlinksw.com/schemas/virtrdf#> .
+dbr:Ettlingen	geo:geometry	"POINT(8.3999996185303 48.933334350586)"^^virtrdf:Geometry .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Ettlingen	dct:subject	dbc:Historic_Jewish_communities ,
+		<http://dbpedia.org/resource/Category:Karlsruhe_(district)> ,
+		dbc:Holocaust_locations_in_Germany .
+@prefix dbpedia-fi:	<http://fi.dbpedia.org/resource/> .
+dbr:Ettlingen	owl:sameAs	dbpedia-fi:Ettlingen ,
+		<http://bg.dbpedia.org/resource/\u0415\u0442\u043B\u0438\u043D\u0433\u0435\u043D> ,
+		wikidata:Q14893 .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Ettlingen	owl:sameAs	dbpedia-nl:Ettlingen .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Ettlingen	owl:sameAs	dbpedia-de:Ettlingen .
+@prefix ns19:	<http://d-nb.info/gnd/4015636-9/about/> .
+dbr:Ettlingen	owl:sameAs	ns19:rdf ,
+		<http://kk.dbpedia.org/resource/\u042D\u0442\u0442\u043B\u0438\u043D\u0433\u0435\u043D> ,
+		<http://ceb.dbpedia.org/resource/Ettlingen_(lungsod)> ,
+		<http://viaf.org/viaf/145423991> ,
+		<http://fa.dbpedia.org/resource/\u0627\u062A\u0644\u06CC\u0646\u06AF\u0646> .
+@prefix dbpedia-ro:	<http://ro.dbpedia.org/resource/> .
+dbr:Ettlingen	owl:sameAs	dbpedia-ro:Ettlingen .
+@prefix dbpedia-vo:	<http://vo.dbpedia.org/resource/> .
+dbr:Ettlingen	owl:sameAs	dbpedia-vo:Ettlingen .
+@prefix dbpedia-war:	<http://war.dbpedia.org/resource/> .
+dbr:Ettlingen	owl:sameAs	dbpedia-war:Ettlingen ,
+		dbr:Ettlingen .
+@prefix dbpedia-als:	<http://als.dbpedia.org/resource/> .
+dbr:Ettlingen	owl:sameAs	dbpedia-als:Ettlingen .
+@prefix dbpedia-cs:	<http://cs.dbpedia.org/resource/> .
+dbr:Ettlingen	owl:sameAs	dbpedia-cs:Ettlingen .
+@prefix ns25:	<http://uz.dbpedia.org/resource/> .
+dbr:Ettlingen	owl:sameAs	ns25:Ettlingen .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Ettlingen	owl:sameAs	dbpedia-fr:Ettlingen .
+@prefix dbpedia-sh:	<http://sh.dbpedia.org/resource/> .
+dbr:Ettlingen	owl:sameAs	dbpedia-sh:Ettlingen .
+@prefix ns28:	<http://sco.dbpedia.org/resource/> .
+dbr:Ettlingen	owl:sameAs	ns28:Ettlingen .
+@prefix dbpedia-eo:	<http://eo.dbpedia.org/resource/> .
+dbr:Ettlingen	owl:sameAs	dbpedia-eo:Ettlingen ,
+		<http://sws.geonames.org/2928615> ,
+		<http://ar.dbpedia.org/resource/\u0625\u064A\u062A\u0644\u064A\u0646\u063A\u0646> .
+@prefix ns30:	<https://global.dbpedia.org/id/> .
+dbr:Ettlingen	owl:sameAs	ns30:VUQ7 .
+@prefix dbpedia-sv:	<http://sv.dbpedia.org/resource/> .
+dbr:Ettlingen	owl:sameAs	dbpedia-sv:Ettlingen .
+@prefix lgdt:	<http://linkedgeodata.org/triplify/> .
+dbr:Ettlingen	owl:sameAs	lgdt:node17652682 ,
+		<http://sws.geonames.org/2928615/> ,
+		<http://ky.dbpedia.org/resource/\u042D\u0442\u0442\u043B\u0438\u043D\u0433\u0435\u043D> ,
+		<http://ru.dbpedia.org/resource/\u042D\u0442\u0442\u043B\u0438\u043D\u0433\u0435\u043D> .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Ettlingen	owl:sameAs	dbpedia-pl:Ettlingen .
+@prefix dbpedia-hu:	<http://hu.dbpedia.org/resource/> .
+dbr:Ettlingen	owl:sameAs	dbpedia-hu:Ettlingen .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Ettlingen	owl:sameAs	dbpedia-it:Ettlingen ,
+		<http://d-nb.info/gnd/4015636-9> ,
+		<http://zh.dbpedia.org/resource/\u57C3\u7279\u6797\u6839> .
+@prefix dbpedia-tr:	<http://tr.dbpedia.org/resource/> .
+dbr:Ettlingen	owl:sameAs	dbpedia-tr:Ettlingen .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Ettlingen	owl:sameAs	dbpedia-pt:Ettlingen .
+@prefix dbpedia-ms:	<http://ms.dbpedia.org/resource/> .
+dbr:Ettlingen	owl:sameAs	dbpedia-ms:Ettlingen ,
+		<http://ba.dbpedia.org/resource/\u042D\u0442\u0442\u043B\u0438\u043D\u0433\u0435\u043D> .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Ettlingen	owl:sameAs	yago-res:Ettlingen ,
+		<http://uk.dbpedia.org/resource/\u0415\u0442\u0442\u043B\u0456\u043D\u0433\u0435\u043D> .
+@prefix dbpedia-da:	<http://da.dbpedia.org/resource/> .
+dbr:Ettlingen	owl:sameAs	dbpedia-da:Ettlingen .
+@prefix dbpedia-la:	<http://la.dbpedia.org/resource/> .
+dbr:Ettlingen	owl:sameAs	dbpedia-la:Ettelinga .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:Ettlingen	owl:sameAs	dbpedia-es:Ettlingen .
+@prefix dbpedia-hr:	<http://hr.dbpedia.org/resource/> .
+dbr:Ettlingen	owl:sameAs	dbpedia-hr:Ettlingen ,
+		<http://rdf.freebase.com/ns/m.060ktx> ,
+		<http://d-nb.info/gnd/2009707-4> .
+@prefix dbpedia-lmo:	<http://lmo.dbpedia.org/resource/> .
+dbr:Ettlingen	owl:sameAs	dbpedia-lmo:Ettlingen .
+@prefix dbpedia-vi:	<http://vi.dbpedia.org/resource/> .
+dbr:Ettlingen	owl:sameAs	dbpedia-vi:Ettlingen ,
+		<http://sr.dbpedia.org/resource/\u0415\u0442\u043B\u0438\u043D\u0433\u0435\u043D> .
+@prefix georss:	<http://www.georss.org/georss/> .
+dbr:Ettlingen	georss:point	"48.93333333333333 8.4" ;
+	schema:sameAs	<http://viaf.org/viaf/145423991> ;
+	dbp:divisions	7 .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Ettlingen	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Ettlingen?oldid=980452527&ns=0> ;
+	dbp:type	"Stadt"@en ;
+	dbp:elevation	133 ;
+	dbo:licenceNumber	"KA" ;
+	<http://dbpedia.org/property/gemeindeschl\u00FCssel>	8215017 ;
+	dbp:imageCoa	"Coat of Arms of Ettlingen.svg"@en ;
+	dbp:licence	"KA"@en ;
+	dbp:stand	"2006-12-31"^^xsd:date ;
+	dbp:adresse	"Marktplatz 2"@en ,
+		76275 ;
+	dbp:plzAlt	7505 ;
+	dbp:district	"Karlsruhe"@en ;
+	dbp:area	56.74000000000000199 ;
+	dbp:region	"Karlsruhe"@en .
+@prefix ns48:	<http://dbpedia.org/resource/local:/resource/> .
+dbr:Ettlingen	dbo:country	ns48:Germany ;
+	dbo:region	dbr:Karlsruhe ;
+	dbp:population	48875 ;
+	dbo:district	dbr:Karlsruhe ;
+	dbo:elevation	133.0 ;
+	dbo:populationAsOf	"2006-12-31"^^xsd:date ;
+	dbo:populationTotal	"48875"^^xsd:nonNegativeInteger ;
+	dbp:state	"Baden-W\u00FCrttemberg"@en ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Rathausturm_Ettlingen.JPG?width=300> ;
+	dbo:wikiPageID	1846041 ;
+	dbo:wikiPageRevisionID	980452527 ;
+	dbo:wikiPageWikiLink	dbr:Ordinariate ,
+		dbr:Simon_Pierro ,
+		dbc:Holocaust_locations_in_Germany ,
+		dbr:France ,
+		<http://dbpedia.org/resource/Weissenburg_Abbey,_Alsace> ,
+		dbr:Baroque ,
+		dbr:Holy_Roman_Empire ,
+		dbr:Bad_Herrenalb ,
+		dbr:Pfinztal ,
+		dbr:Ottolenghi ,
+		<http://dbpedia.org/resource/File:Alb_Ettlingen.JPG> ,
+		dbr:Army_of_the_Upper_Rhine ,
+		dbr:Liebenzell_Congregation ,
+		<http://dbpedia.org/resource/File:Martinskirche_Ettlingen.JPG> ,
+		dbr:Lauterbourg ,
+		dbr:German_mediatisation ,
+		dbr:Kristallnacht ,
+		dbr:Grand_duke ,
+		dbr:Germany ,
+		dbr:Louis_XIV ,
+		<http://dbpedia.org/resource/L\u00F6bau> ,
+		dbr:Protestantism ,
+		dbr:Catholic_Church ,
+		<http://dbpedia.org/resource/History_of_Baden-W\u00FCrttemberg> ,
+		<http://dbpedia.org/resource/Henry_VI,_Holy_Roman_Emperor> ,
+		<http://dbpedia.org/resource/Winfried_Sch\u00E4fer> ,
+		dbr:Bruchsal ,
+		dbr:Computer_science ,
+		dbr:Rheinstetten ,
+		<http://dbpedia.org/resource/Baden-W\u00FCrttemberg> ,
+		dbr:Eggenstein-Leopoldshafen ,
+		<http://dbpedia.org/resource/Nine_Years\u0027_War> ,
+		dbr:Marxzell ,
+		dbr:Karl_Steinbuch ,
+		<http://dbpedia.org/resource/Alb_(Upper_Rhine)> ,
+		dbr:Alsace ,
+		dbr:Horasis ,
+		dbr:Karlsruhe ,
+		<http://dbpedia.org/resource/Karlsruhe_(district)> ,
+		dbr:Karl_Albiker ,
+		dbr:Prince-elector ,
+		dbr:Battle_of_Ettlingen ,
+		<http://dbpedia.org/resource/Wroc\u0142aw> ,
+		dbr:Free_church ,
+		dbr:Ettlingen_Palace ,
+		dbr:Roman_Catholic_Diocese_of_Speyer ,
+		dbr:Independent_city ,
+		<http://dbpedia.org/resource/Herman_V,_Margrave_of_Baden-Baden> ,
+		<http://dbpedia.org/resource/Charles_Frederick,_Grand_Duke_of_Baden> ,
+		dbr:Roman_Catholic_Archdiocese_of_Freiburg ,
+		<http://dbpedia.org/resource/Gro\u00DFe_Kreisstadt> ,
+		dbr:Reformation ,
+		dbr:French_Revolutionary_Wars ,
+		dbr:Upper_Rhine_Plain ,
+		dbr:Ettlingen_Line ,
+		dbr:Rhine ,
+		dbr:Red_Army_Faction ,
+		dbr:Bas-Rhin ,
+		<http://dbpedia.org/resource/Jehovah\u0027s_Witnesses> ,
+		dbr:International_Federation_of_Free_Evangelical_Churches ,
+		dbr:Synagogue ,
+		dbr:Siegfried_Buback ,
+		<http://dbpedia.org/resource/Karlsbad_(Baden)> ,
+		dbr:Baden ,
+		dbr:Karlsruhe_Stadtbahn ,
+		dbr:Judaism ,
+		dbr:Deanery ,
+		dbr:Gatchina ,
+		dbr:Christian_Klar ,
+		dbc:Historic_Jewish_communities ,
+		dbr:Final_Solution ,
+		dbr:Franciscus_Irenicus ,
+		dbr:Actor ,
+		dbr:Black_Forest ,
+		<http://dbpedia.org/resource/\u00C9pernay> ,
+		dbr:Durlach ,
+		dbr:Menfi ,
+		dbr:Speyer ,
+		dbr:Middelkerke ,
+		<http://dbpedia.org/resource/Otto_I,_Holy_Roman_Emperor> ,
+		<http://dbpedia.org/resource/France\u2013Germany_border> ,
+		dbr:Archdeacon ,
+		<http://dbpedia.org/resource/Frederick_I,_Holy_Roman_Emperor> ,
+		dbr:Army_of_the_Rhine_and_Moselle ,
+		dbr:Market_town ,
+		dbr:Duchess_Sibylle_of_Saxe-Lauenburg ,
+		dbr:Lutheranism ,
+		dbr:Evangelical_Church_in_Germany ,
+		dbr:Waldbronn ,
+		dbr:Napoleon ,
+		dbr:Clevedon ,
+		<http://dbpedia.org/resource/Frank-J\u00FCrgen_Richter> ,
+		dbr:Society_of_Jesus ,
+		<http://dbpedia.org/resource/Category:Karlsruhe_(district)> ,
+		dbr:Alb_Valley_Railway ,
+		dbr:Germania_Superior ,
+		dbr:New_Apostolic_Church ,
+		dbr:Natalia_Avelon ,
+		dbr:Malsch ;
+	dbo:wikiPageExternalLink	<https://www.ettlingen.de/> ;
+	dbp:wikiPageUsesTemplate	<http://dbpedia.org/resource/Template:Cities_and_towns_in_Karlsruhe_(district)> .
+@prefix dbt:	<http://dbpedia.org/resource/Template:> .
+dbr:Ettlingen	dbp:wikiPageUsesTemplate	dbt:Flagicon ,
+		dbt:Authority_control ,
+		dbt:Reflist ,
+		dbt:Infobox_German_location ,
+		dbt:Coord ,
+		dbt:Div_col ,
+		dbt:Div_col_end ,
+		dbt:Convert ;
+	dbo:abstract	"Ettlingen \u00E8 un comune tedesco di 38.731 abitanti, situato nel land del Baden-W\u00FCrttemberg. Dalla citt\u00E0 di Ettlingen proviene la famiglia di origine ebraica degli Ottolenghi (diffusa in Piemonte e Lombardia), fuggita in Italia in seguito alle espulsioni avvenute tra il XV e il XVI secolo."@it ,
+		"Ettlingen \u2013 miasto w Niemczech, w kraju zwi\u0105zkowym Badenia-Wirtembergia, w rejencji Karlsruhe, w regionie Mittlerer Oberrhein, w powiecie Karlsruhe. Le\u017Cy u podn\u00F3\u017Ca Schwarzwaldu, nad rzek\u0105 Alb, na po\u0142udnie od Karlsruhe, na wysoko\u015Bci 132 m n.p.m.. Liczy 38 553 mieszka\u0144c\u00F3w (31.12.2010), na powierzchni 56,74 km\u00B2."@pl ,
+		"Ettlingen est une ville d'Allemagne, situ\u00E9e au sud de Karlsruhe, dans le Bade-Wurtemberg, au pied de la For\u00EAt-Noire du nord. Elle est la deuxi\u00E8me plus grande ville du district de Karlsruhe (derri\u00E8re Bruchsal)."@fr ,
+		"Ettlingen is a town in Baden-W\u00FCrttemberg, Germany, about 8 kilometres (5.0 mi) south of the city of Karlsruhe and approximately 15 kilometres (9.3 mi) from the border with Lauterbourg, in France's Bas-Rhin department. Ettlingen is the second largest town in the district of Karlsruhe, after Bruchsal."@en ,
+		"Ettlingen \u00E9 uma cidade da Alemanha, no distrito de Karlsruhe, na regi\u00E3o administrativa de Karlsruhe, estado de Baden-W\u00FCrttemberg. Est\u00E1 a cerca de 8 km a sul da cidade de Karlsruhe e a cerca de 15 km da fronteira com Lauterbourg, no departamento franc\u00EAs do Baixo Reno. Ettlingen \u00E9 a segunda maior cidade do distrito de Karlsruhe, depois de Bruchsal."@pt ,
+		"Ettlingen \u00E4r en stad, 8 kilometer s\u00F6der om Karlsruhe i Baden-W\u00FCrttemberg. Ettlingen, som ligger vid den norra kanten av Schwarzwald, hade 38 553 inv\u00E5nare \u00E5r 2010. Staden var ursprungligen ett romerskt fort, och omn\u00E4mns under medeltiden f\u00F6rsta g\u00E5ngen 788. 1227 erh\u00F6ll den stadsr\u00E4ttigheter. I slaget vid Ettlingen 9-10 juli 1796 vann fransm\u00E4nnen en seger \u00F6ver \u00F6sterrikarna."@sv ,
+		"Ettlingen estas komunumo en Germanio. \u011Ci trovi\u011Das en la distrikto Karlsruhe de la federacia lando Baden-Virtembergo. La 31-an de decembro 2005 la komunumo havis 39026 lo\u011Dantojn."@eo ,
+		"Ettlingen () ist eine Stadt s\u00FCdlich von Karlsruhe in Baden-W\u00FCrttemberg. Sie ist nach Bruchsal die zweitgr\u00F6\u00DFte Stadt des Landkreises Karlsruhe und ein Mittelzentrum f\u00FCr die umliegenden Gemeinden. Seit 1. Januar 1966 ist Ettlingen eine Gro\u00DFe Kreisstadt."@de ,
+		"\u0415\u0442\u0442\u043B\u0456\u043D\u0433\u0435\u043D (\u043D\u0456\u043C. Ettlingen) \u2014 \u043C\u0456\u0441\u0442\u043E \u0432 \u041D\u0456\u043C\u0435\u0447\u0447\u0438\u043D\u0456, \u0437\u043D\u0430\u0445\u043E\u0434\u0438\u0442\u044C\u0441\u044F \u0432 \u0437\u0435\u043C\u043B\u0456 \u0411\u0430\u0434\u0435\u043D-\u0412\u044E\u0440\u0442\u0435\u043C\u0431\u0435\u0440\u0433. \u041F\u0456\u0434\u043F\u043E\u0440\u044F\u0434\u043A\u043E\u0432\u0443\u0454\u0442\u044C\u0441\u044F \u0430\u0434\u043C\u0456\u043D\u0456\u0441\u0442\u0440\u0430\u0442\u0438\u0432\u043D\u043E\u043C\u0443 \u043E\u043A\u0440\u0443\u0433\u0443 \u041A\u0430\u0440\u043B\u0441\u0440\u0443\u0435. \u0412\u0445\u043E\u0434\u0438\u0442\u044C \u0434\u043E \u0441\u043A\u043B\u0430\u0434\u0443 \u0440\u0430\u0439\u043E\u043D\u0443 \u041A\u0430\u0440\u043B\u0441\u0440\u0443\u0435. \u041F\u043B\u043E\u0449\u0430 \u2014 56,74 \u043A\u043C2. \u041D\u0430\u0441\u0435\u043B\u0435\u043D\u043D\u044F \u0441\u0442\u0430\u043D\u043E\u0432\u0438\u0442\u044C 39 315 \u043E\u0441. (\u0441\u0442\u0430\u043D\u043E\u043C \u043D\u0430 31 \u0433\u0440\u0443\u0434\u043D\u044F 2017)."@uk ,
+		"\u57C3\u7279\u6797\u6839\uFF08Ettlingen\uFF09\u662F\u5FB7\u56FD\u5DF4\u767B-\u7B26\u817E\u5821\u5DDE\u57CE\u5E02\uFF0C\u4F4D\u4E8E\u5361\u5C14\u65AF\u9C81\u5384\u4EE5\u5357\u548C\u4E1C\u5357\u3002\u5B83\u96B6\u5C5E\u4E8E\u5361\u5C14\u65AF\u9C81\u5384\u884C\u653F\u533A\u5361\u5C14\u65AF\u9C81\u5384\u53BF\uFF0C\u662F\u8BE5\u53BF\u7684\u7B2C\u4E8C\u5927\u57CE\u5E02\uFF0C\u4EC5\u6B21\u4E8E\u5E03\u9C81\u8D6B\u8428\u5C14\uFF08Bruchsal\uFF09\u3002"@zh ,
+		"Ettlingen es una ciudad alemana situada al sur de Karlsruhe, en Baden-Wurtemberg. Es la segunda ciudad m\u00E1s grande, tras Bruchsal, del distrito de Karlsruhe."@es ,
+		"Ettlingen je velk\u00E9 okresn\u00ED m\u011Bsto v n\u011Bmeck\u00E9 spolkov\u00E9 zemi B\u00E1densko-W\u00FCrttembersko. Le\u017E\u00ED asi 8 km ji\u017En\u011B od m\u011Bsta Karlsruhe na severn\u00EDm okraji \u010Cern\u00E9ho lesa. Po Bruchsalu je Ettlingen druh\u00FDm nejv\u011Bt\u0161\u00EDm m\u011Bstem v okrese Karlsruhe. Ettlingen byl d\u016Fle\u017Eitou k\u0159i\u017Eovatkou v dob\u011B Starov\u011Bk\u00E9ho \u0158\u00EDma. To je dolo\u017Eeno mnoha artefakty nalezen\u00FDmi v oblasti. M\u011Bsto je poprv\u00E9 zmi\u0148ov\u00E1no v roce 788 jako Ediningom v ozn\u00E1men\u00ED z kl\u00E1\u0161tera ve  v Alsasku. V roce 965 p\u0159ijala vesnice Ettlingen (Ediningom)  od c\u00EDsa\u0159e Oty I. Velik\u00E9ho. V roce 1192 byl Ettlingen pov\u00FD\u0161en na m\u011Bsto c\u00EDsa\u0159em Jind\u0159ichem VI."@cs ,
+		"\u042D\u0301\u0442\u0442\u043B\u0438\u043D\u0433\u0435\u043D \u2014 \u0433\u043E\u0440\u043E\u0434 \u0432 \u0413\u0435\u0440\u043C\u0430\u043D\u0438\u0438. \u041D\u0430\u0441\u0435\u043B\u0435\u043D\u0438\u0435 39 \u0442\u044B\u0441\u044F\u0447 \u0436\u0438\u0442\u0435\u043B\u0435\u0439 (2005). \u0413\u043E\u0440\u043E\u0434 \u0440\u0430\u0441\u043F\u043E\u043B\u043E\u0436\u0435\u043D \u043D\u0430 \u0440\u0435\u043A\u0435 \u0410\u043B\u044C\u0431, \u043D\u0430 \u0441\u0435\u0432\u0435\u0440\u043D\u043E\u043C \u043A\u0440\u0430\u044E \u0428\u0432\u0430\u0440\u0446\u0432\u0430\u043B\u044C\u0434\u0430, \u0432 10 \u043A\u043C \u043A \u044E\u0433\u0443 \u043E\u0442 \u041A\u0430\u0440\u043B\u0441\u0440\u0443\u044D."@ru ,
+		"\u0627\u062A\u0644\u064A\u0646\u063A\u0646 (\u0628\u0627\u0644\u0623\u0644\u0645\u0627\u0646\u064A\u0629: Ettlingen) \u0647\u064A \u060C \u0645\u062F\u064A\u0646\u0629 \u0648 \u0628\u0644\u062F\u0629 \u0623\u0644\u0645\u0627\u0646\u064A\u0629 \u062A\u0642\u0639 \u0641\u064A \u0623\u0644\u0645\u0627\u0646\u064A\u0627 \u0641\u064A . \u064A\u0642\u062F\u0631 \u0639\u062F\u062F \u0633\u0643\u0627\u0646\u0647\u0627 \u0628\u0640 48,875 \u0646\u0633\u0645\u0629 ."@ar ,
+		"Ettlingen is een Gro\u00DFe Kreisstadt in de Duitse deelstaat Baden-W\u00FCrttemberg, gelegen in het Landkreis Karlsruhe. De stad telt 38.819 inwoners."@nl .
+@prefix ns50:	<http://www.w3.org/2006/03/wn/wn20/instances/> .
+dbr:Ettlingen	dbp:wordnet_type	ns50:synset-city-noun-3 ;
+	dbo:wikiPageLength	"12718"^^xsd:nonNegativeInteger ;
+	dbp:party	"non-party"@en ;
+	dbp:website	<https://www.ettlingen.de/> ;
+	dbo:federalState	<http://dbpedia.org/resource/Baden-W\u00FCrttemberg> ;
+	dbo:areaCode	"07243" ;
+	dbp:postalCode	76275 .
+@prefix ns51:	<http://dbpedia.org/datatype/> .
+@prefix ns52:	<http://dbpedia.org/ontology/PopulatedPlace/> .
+dbr:Ettlingen	ns52:areaTotal	"56.74"^^ns51:squareKilometre ;
+	dbp:areaCode	7243 ;
+	dbo:areaTotal	56740000.0 ;
+	dbo:postalCode	"76275" ;
+	dbp:mayor	"Johannes Arnold"@en .
+dbr:Margraviate_of_Baden	dbo:wikiPageWikiLink	dbr:Ettlingen .
+dbr:Francis_Lewis_High_School	dbo:wikiPageWikiLink	dbr:Ettlingen .
+dbr:German_Avenue_Road	dbo:wikiPageWikiLink	dbr:Ettlingen .
+dbr:Ottolenghi	dbo:wikiPageWikiLink	dbr:Ettlingen .
+dbr:Helmut_Kunz	dbo:wikiPageWikiLink	dbr:Ettlingen .
+<http://dbpedia.org/resource/Bernard_I,_Margrave_of_Baden-Baden>	dbo:wikiPageWikiLink	dbr:Ettlingen .
+<http://dbpedia.org/resource/List_of_compositions_by_Bo\u017Eidar_Kantu\u0161er>	dbo:wikiPageWikiLink	dbr:Ettlingen .
+dbr:Gerhard_Bassenge	dbp:birthPlace	dbr:Ettlingen ;
+	dbo:wikiPageWikiLink	dbr:Ettlingen .
+<http://dbpedia.org/resource/Alb_(Upper_Rhine)>	dbo:wikiPageWikiLink	dbr:Ettlingen .
+dbr:Karlsruhe_Hauptbahnhof	dbo:wikiPageWikiLink	dbr:Ettlingen .
+dbr:Reuchlin-Gymnasium	dbo:wikiPageWikiLink	dbr:Ettlingen .
+dbr:Battle_of_Ettlingen	dbo:place	dbr:Ettlingen ;
+	dbo:wikiPageWikiLink	dbr:Ettlingen .
+dbr:Alb_Valley_Railway	dbo:wikiPageWikiLink	dbr:Ettlingen .
+dbr:Grand_Duchy_of_Baden_State_Railway	dbo:wikiPageWikiLink	dbr:Ettlingen .
+<http://dbpedia.org/resource/Ludwig_M\u00FCller_(general)>	dbp:deathPlace	dbr:Ettlingen ;
+	dbo:wikiPageWikiLink	dbr:Ettlingen .
+<http://dbpedia.org/resource/Verena_Joo\u00DF>	dbo:birthPlace	dbr:Ettlingen ;
+	dbo:wikiPageWikiLink	dbr:Ettlingen .
+dbr:Countess_Palatine_Irmengard_of_the_Rhine	dbo:wikiPageWikiLink	dbr:Ettlingen .
+dbr:RIBA_European_Award	dbo:wikiPageWikiLink	dbr:Ettlingen .
+dbr:Jean_Gamans	dbo:wikiPageWikiLink	dbr:Ettlingen .
+dbr:List_of_twin_towns_and_sister_cities_in_Belgium	dbo:wikiPageWikiLink	dbr:Ettlingen .
+dbr:List_of_twin_towns_and_sister_cities_in_France	dbo:wikiPageWikiLink	dbr:Ettlingen .
+dbr:List_of_twin_towns_and_sister_cities_in_Germany	dbo:wikiPageWikiLink	dbr:Ettlingen .
+dbr:List_of_twin_towns_and_sister_cities_in_Russia	dbo:wikiPageWikiLink	dbr:Ettlingen .
+dbr:Gatchina	dbo:wikiPageWikiLink	dbr:Ettlingen .
+dbr:Ulm_Railway_Society	dbo:wikiPageWikiLink	dbr:Ettlingen .
+<http://dbpedia.org/resource/Julius_Francis,_Duke_of_Saxe-Lauenburg>	dbo:wikiPageWikiLink	dbr:Ettlingen .
+<http://dbpedia.org/resource/Jeux_sans_fronti\u00E8res>	dbo:wikiPageWikiLink	dbr:Ettlingen .
+<http://dbpedia.org/resource/555th_Engineer_Brigade_(United_States)>	dbo:wikiPageWikiLink	dbr:Ettlingen .
+dbr:Martin_Wiesner	dbo:birthPlace	dbr:Ettlingen ;
+	dbo:wikiPageWikiLink	dbr:Ettlingen .
+<http://dbpedia.org/resource/Winfried_Sch\u00E4fer>	dbo:wikiPageWikiLink	dbr:Ettlingen .
+dbr:List_of_United_States_Army_installations_in_Germany	dbo:wikiPageWikiLink	dbr:Ettlingen .
+dbr:Cosmas_Damian_Asam	dbo:wikiPageWikiLink	dbr:Ettlingen .
+dbr:Jochen_Schweizer	dbo:birthPlace	dbr:Ettlingen ;
+	dbo:wikiPageWikiLink	dbr:Ettlingen .
+dbr:Ettling	dbo:wikiPageWikiLink	dbr:Ettlingen ;
+	dbo:wikiPageRedirects	dbr:Ettlingen .
+dbr:Ettlinger	dbo:wikiPageWikiLink	dbr:Ettlingen .
+dbr:Ettringen	dbo:wikiPageWikiLink	dbr:Ettlingen .
+@prefix ns53:	<http://dbpedia.org/resource/UN/LOCODE:> .
+ns53:DEETT	dbo:wikiPageWikiLink	dbr:Ettlingen ;
+	dbo:wikiPageRedirects	dbr:Ettlingen .

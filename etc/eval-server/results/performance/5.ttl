@@ -1,0 +1,364 @@
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+dbr:Oesterreichische_Nationalbank	dbo:wikiPageWikiLink	dbr:Economy_of_Austria .
+dbr:Protocol_for_the_reconstruction_of_Austria	dbo:wikiPageWikiLink	dbr:Economy_of_Austria .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+wikipedia-en:Economy_of_Austria	foaf:primaryTopic	dbr:Economy_of_Austria .
+dbr:Slovenian_Democratic_Party	dbo:wikiPageWikiLink	dbr:Economy_of_Austria .
+dbr:Ignaz_Seipel	dbo:wikiPageWikiLink	dbr:Economy_of_Austria .
+dbr:Eleanor_Lansing_Dulles	dbo:wikiPageWikiLink	dbr:Economy_of_Austria .
+dbr:Austria	dbo:wikiPageWikiLink	dbr:Economy_of_Austria .
+dbr:Vienna	dbo:wikiPageWikiLink	dbr:Economy_of_Austria .
+dbr:Outline_of_Austria	dbo:wikiPageWikiLink	dbr:Economy_of_Austria .
+dbr:Timeline_of_the_Great_Recession	dbo:wikiPageWikiLink	dbr:Economy_of_Austria .
+dbr:Tourism_in_Austria	dbo:wikiPageWikiLink	dbr:Economy_of_Austria .
+dbr:Economy_of_Japan	dbo:wikiPageWikiLink	dbr:Economy_of_Austria .
+dbr:Austrian_schilling	dbo:wikiPageWikiLink	dbr:Economy_of_Austria .
+dbr:Index_of_Austria-related_articles	dbo:wikiPageWikiLink	dbr:Economy_of_Austria .
+dbr:Economic_history_of_Austria	dbo:wikiPageWikiLink	dbr:Economy_of_Austria ;
+	dbo:wikiPageRedirects	dbr:Economy_of_Austria .
+@prefix ns4:	<http://dbpedia.org/resource/Austria/> .
+ns4:Economy	dbo:wikiPageWikiLink	dbr:Economy_of_Austria ;
+	dbo:wikiPageRedirects	dbr:Economy_of_Austria .
+dbr:Austrian_economy	dbo:wikiPageWikiLink	dbr:Economy_of_Austria .
+dbr:Austria_economy	dbo:wikiPageWikiLink	dbr:Economy_of_Austria ;
+	dbo:wikiPageRedirects	dbr:Economy_of_Austria .
+dbr:Economy_of_austria	dbo:wikiPageWikiLink	dbr:Economy_of_Austria ;
+	dbo:wikiPageRedirects	dbr:Economy_of_Austria .
+dbr:Culture_of_Austria	dbo:wikiPageWikiLink	dbr:Economy_of_Austria .
+<http://dbpedia.org/resource/Employers\u0027_organization>	dbo:wikiPageWikiLink	dbr:Economy_of_Austria .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Economy_of_Austria	rdf:type	yago:Economy108366753 ,
+		yago:System108435388 ,
+		yago:Group100031264 .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Economy_of_Austria	rdf:type	owl:Thing ,
+		yago:Abstraction100002137 .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Economy_of_Austria	rdfs:label	"Econom\u00EDa de Austria"@es ,
+		"Economia d'\u00C0ustria"@ca ,
+		"\u0415\u043A\u043E\u043D\u043E\u043C\u0456\u043A\u0430 \u0410\u0432\u0441\u0442\u0440\u0456\u0457"@uk ,
+		"Economia dell'Austria"@it ,
+		"\u00C9conomie de l'Autriche"@fr ,
+		"\u0627\u0642\u062A\u0635\u0627\u062F \u0627\u0644\u0646\u0645\u0633\u0627"@ar ,
+		"Economy of Austria"@en ,
+		"Ekonomi Austria"@in ,
+		"Wirtschaft \u00D6sterreichs"@de ,
+		"\u5967\u5730\u5229\u7D93\u6FDF"@zh ,
+		"Ekonomika Rakouska"@cs ,
+		"\u039F\u03B9\u03BA\u03BF\u03BD\u03BF\u03BC\u03AF\u03B1 \u03C4\u03B7\u03C2 \u0391\u03C5\u03C3\u03C4\u03C1\u03AF\u03B1\u03C2"@el ,
+		"Gospodarka Austrii"@pl ,
+		"\u042D\u043A\u043E\u043D\u043E\u043C\u0438\u043A\u0430 \u0410\u0432\u0441\u0442\u0440\u0438\u0438"@ru ,
+		"Economia da \u00C1ustria"@pt ;
+	rdfs:comment	"Austria podobnie jak Niemcy jest tzw. spo\u0142eczn\u0105 gospodark\u0105 rynkow\u0105. Nale\u017Cy do najbardziej rozwini\u0119tych ekonomicznie kraj\u00F3w w UE. Wska\u017Anik 41 700 $ PKB per capita wed\u0142ug PSN daje jej 4. miejsce w Unii Europejskiej, wyprzedzaj\u0105c takie pa\u0144stwa jak Wielka Brytania, Niemcy czy Francja. G\u0142\u00F3wny \u015Brodek p\u0142atniczy to euro."@pl ,
+		"La econom\u00EDa de Austria est\u00E1 definida por ser una econom\u00EDa social de mercado, con empresas privadas y p\u00FAblicas. Las actividades b\u00E1sicas se han nacionalizado tras el final de la Segunda Guerra Mundial. Austria es uno de los pa\u00EDses m\u00E1s pr\u00F3speros y desarrollados de Europa. As\u00ED pues, Austria tiene una econom\u00EDa bien desarrollada gracias a la gran vertebraci\u00F3n de su mercado, vertebraci\u00F3n reflejada en el alto nivel de vida de sus habitantes."@es ,
+		"L'economia dell'Austria \u00E8 l'undicesima dell'Unione europea per PIL (PPA) e la quarta in termini di PIL pro-capite (PPA), pari al 666% della media dei 27 Paesi dell'Unione. Si tratta, comunque di un'economia relativamente piccola, di dimensioni paragonabili a quelle della Lombardia. L'Austria ha aderito all'Unione economica e monetaria fin dall'inizio (1999) e dal 2002 ha adottato l'euro. La politica monetaria, dunque, \u00E8 gestita dalla Banca centrale europea."@it ,
+		"\u0410\u0432\u0441\u0442\u0440\u0438\u044F \u2014 \u0432\u044B\u0441\u043E\u043A\u043E\u0440\u0430\u0437\u0432\u0438\u0442\u043E\u0435 \u043F\u043E\u0441\u0442\u0438\u043D\u0434\u0443\u0441\u0442\u0440\u0438\u0430\u043B\u044C\u043D\u043E\u0435 \u0433\u043E\u0441\u0443\u0434\u0430\u0440\u0441\u0442\u0432\u043E, \u044F\u0432\u043B\u044F\u0435\u0442\u0441\u044F \u043E\u0434\u043D\u043E\u0439 \u0438\u0437 \u0441\u0430\u043C\u044B\u0445 \u0440\u0430\u0437\u0432\u0438\u0442\u044B\u0445 \u0441\u0442\u0440\u0430\u043D \u0415\u0432\u0440\u043E\u043F\u044B. \u0412\u0445\u043E\u0434\u0438\u0442 \u0432 \u0441\u043E\u0441\u0442\u0430\u0432 \u0415\u0432\u0440\u043E\u0441\u043E\u044E\u0437\u0430 (\u0441 1995).\u0412 \u0441\u0442\u0440\u0430\u043D\u0435 \u0440\u0430\u0437\u0432\u0438\u0442\u044B \u043F\u043E\u0447\u0442\u0438 \u0432\u0441\u0435 \u043E\u0442\u0440\u0430\u0441\u043B\u0438 \u044D\u043A\u043E\u043D\u043E\u043C\u0438\u043A\u0438, \u043D\u0430\u0447\u0438\u043D\u0430\u044F \u043E\u0442 \u0442\u0443\u0440\u0438\u0437\u043C\u0430 (\u0435\u0436\u0435\u0433\u043E\u0434\u043D\u043E \u0441\u0442\u0440\u0430\u043D\u0443 \u043F\u043E\u0441\u0435\u0449\u0430\u044E\u0442 \u043E\u043A\u043E\u043B\u043E 15 \u043C\u043B\u043D \u0447\u0435\u043B\u043E\u0432\u0435\u043A) \u0438 \u0437\u0430\u043A\u0430\u043D\u0447\u0438\u0432\u0430\u044F \u0430\u044D\u0440\u043E\u043A\u043E\u0441\u043C\u0438\u0447\u0435\u0441\u043A\u0438\u043C\u0438 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u044F\u043C\u0438. \u0413\u043B\u0430\u0432\u043D\u044B\u043C\u0438 \u043E\u0442\u0440\u0430\u0441\u043B\u044F\u043C\u0438 \u043F\u0440\u043E\u043C\u044B\u0448\u043B\u0435\u043D\u043D\u043E\u0433\u043E \u043F\u0440\u043E\u0438\u0437\u0432\u043E\u0434\u0441\u0442\u0432\u0430 \u044F\u0432\u043B\u044F\u044E\u0442\u0441\u044F \u043C\u0430\u0448\u0438\u043D\u043E\u0441\u0442\u0440\u043E\u0435\u043D\u0438\u0435 (\u0442\u0440\u0430\u043D\u0441\u043F\u043E\u0440\u0442\u043D\u043E\u0435 \u0438 \u0441\u0435\u043B\u044C\u0441\u043A\u043E\u0445\u043E\u0437\u044F\u0439\u0441\u0442\u0432\u0435\u043D\u043D\u043E\u0435), \u0441\u0442\u0430\u043D\u043A\u043E\u0441\u0442\u0440\u043E\u0435\u043D\u0438\u0435 \u0438 \u043F\u0440\u043E\u0438\u0437\u0432\u043E\u0434\u0441\u0442\u0432\u043E \u043E\u0431\u043E\u0440\u0443\u0434\u043E\u0432\u0430\u043D\u0438\u044F \u0434\u043B\u044F \u0434\u0440\u0443\u0433\u0438\u0445 \u043E\u0442\u0440\u0430\u0441\u043B\u0435\u0439 \u0438\u043D\u0434\u0443\u0441\u0442\u0440\u0438\u0438. \u0415\u0451 \u043E\u0441\u043D\u043E\u0432\u043D\u044B\u043C\u0438 \u0446\u0435\u043D\u0442\u0440\u0430\u043C\u0438 \u044F\u0432\u043B\u044F\u044E\u0442\u0441\u044F \u0433\u043E\u0440\u043E\u0434\u0430 \u0412\u0435\u043D\u0430, \u0413\u0440\u0430\u0446, \u041B\u0438\u043D\u0446 \u0438 \u0428\u0442\u0430\u0439\u0440."@ru ,
+		"\u00C1ustria, com a sua economia social de mercado e alto padr\u00E3o de vida, tem liga\u00E7\u00F5es estreitas com outros pa\u00EDses da Uni\u00E3o Europeia, em especial a Alemanha. Tem um forte setor de servi\u00E7os, um expressivo setor industrial e um setor agr\u00EDcola pequeno, por\u00E9m desenvolvido. Apesar da forte presen\u00E7a do Estado na economia, na \u00FAltima d\u00E9cada ocorreu algumas privatiza\u00E7\u00F5es para fazer adequa\u00E7\u00F5es econ\u00F4micas compat\u00EDveis com os pa\u00EDses membros da Uni\u00E3o Europeia. Depois de v\u00E1rios anos de forte demanda pelas exporta\u00E7\u00F5es austr\u00EDacas e de um grande crescimento do n\u00EDvel de emprego, a crise econ\u00F4mica mundial de 2008 trouxe uma recess\u00E3o profunda, mas de curta dura\u00E7\u00E3o. A economia retraiu 3,9% em 2009 mas registrou um crescimento de 2% em 2010. O pa\u00EDs \u00E9 o 19.\u00BA no ranking de competitividade do F\u00F3rum Econ\u00F4mico Mundial."@pt ,
+		"\u0397 \u0391\u03C5\u03C3\u03C4\u03C1\u03AF\u03B1 \u03B5\u03AF\u03BD\u03B1\u03B9 \u03BC\u03AF\u03B1 \u03B1\u03C0\u03CC \u03C4\u03B9\u03C2 11 \u03C0\u03BB\u03BF\u03C5\u03C3\u03B9\u03CC\u03C4\u03B5\u03C1\u03B5\u03C2 \u03C7\u03CE\u03C1\u03B5\u03C2 \u03C3\u03C4\u03BF\u03BD \u03BA\u03CC\u03C3\u03BC\u03BF, \u03CC\u03C3\u03BF\u03BD \u03B1\u03C6\u03BF\u03C1\u03AC \u03C4\u03BF \u0391\u03BA\u03B1\u03B8\u03AC\u03C1\u03B9\u03C3\u03C4\u03BF \u0395\u03B3\u03C7\u03CE\u03C1\u03B9\u03BF \u03A0\u03C1\u03BF\u03CA\u03CC\u03BD \u03C4\u03B7\u03C2 \u03B1\u03BD\u03AC \u03BA\u03AC\u03C4\u03BF\u03B9\u03BA\u03BF, \u03AD\u03C7\u03B5\u03B9 \u03BC\u03B9\u03B1 \u03BA\u03B1\u03BB\u03AC \u03B1\u03BD\u03B1\u03C0\u03C4\u03C5\u03B3\u03BC\u03AD\u03BD\u03B7 \u03BA\u03BF\u03B9\u03BD\u03C9\u03BD\u03B9\u03BA\u03AE \u03BF\u03B9\u03BA\u03BF\u03BD\u03BF\u03BC\u03AF\u03B1 \u03B1\u03B3\u03BF\u03C1\u03AC\u03C2 \u03BA\u03B1\u03B9 \u03AD\u03BD\u03B1 \u03C5\u03C8\u03B7\u03BB\u03CC \u03B2\u03B9\u03BF\u03C4\u03B9\u03BA\u03CC \u03B5\u03C0\u03AF\u03C0\u03B5\u03B4\u03BF. \u039C\u03AD\u03C7\u03C1\u03B9 \u03C4\u03B7 \u03B4\u03B5\u03BA\u03B1\u03B5\u03C4\u03AF\u03B1 \u03C4\u03BF\u03C5 1980, \u03C0\u03BF\u03BB\u03BB\u03AD\u03C2 \u03B1\u03C0\u03CC \u03C4\u03B9\u03C2 \u03BC\u03B5\u03B3\u03B1\u03BB\u03CD\u03C4\u03B5\u03C1\u03B5\u03C2 \u03B2\u03B9\u03BF\u03BC\u03B7\u03C7\u03B1\u03BD\u03B9\u03BA\u03AD\u03C2 \u03B5\u03C4\u03B1\u03B9\u03C1\u03AF\u03B5\u03C2 \u03C4\u03B7\u03C2 \u0391\u03C5\u03C3\u03C4\u03C1\u03AF\u03B1\u03C2 \u03BA\u03C1\u03B1\u03C4\u03B9\u03BA\u03BF\u03C0\u03BF\u03B9\u03AE\u03B8\u03B7\u03BA\u03B1\u03BD. \u03A4\u03B1 \u03C4\u03B5\u03BB\u03B5\u03C5\u03C4\u03B1\u03AF\u03B1 \u03C7\u03C1\u03CC\u03BD\u03B9\u03B1, \u03C9\u03C3\u03C4\u03CC\u03C3\u03BF, \u03B7 \u03B9\u03B4\u03B9\u03C9\u03C4\u03B9\u03BA\u03BF\u03C0\u03BF\u03AF\u03B7\u03C3\u03B7 \u03AD\u03C7\u03B5\u03B9 \u03BC\u03B5\u03B9\u03CE\u03C3\u03B5\u03B9 \u03C4\u03B7\u03BD \u03BA\u03C1\u03B1\u03C4\u03B9\u03BA\u03AE \u03C3\u03C5\u03BC\u03BC\u03B5\u03C4\u03BF\u03C7\u03AE \u03C3\u03B5 \u03B5\u03C0\u03AF\u03C0\u03B5\u03B4\u03BF \u03C0\u03BF\u03C5 \u03C3\u03C5\u03B3\u03BA\u03C1\u03AF\u03BD\u03B5\u03C4\u03B1\u03B9 \u03BC\u03B5 \u03AC\u03BB\u03BB\u03B5\u03C2 \u03B5\u03C5\u03C1\u03C9\u03C0\u03B1\u03CA\u03BA\u03AD\u03C2 \u03BF\u03B9\u03BA\u03BF\u03BD\u03BF\u03BC\u03AF\u03B5\u03C2. \u03A4\u03B1 \u03B5\u03C1\u03B3\u03B1\u03C4\u03B9\u03BA\u03AC \u03BA\u03B9\u03BD\u03AE\u03BC\u03B1\u03C4\u03B1 \u03B5\u03AF\u03BD\u03B1\u03B9 \u03B9\u03B4\u03B9\u03B1\u03AF\u03C4\u03B5\u03C1\u03B1 \u03B9\u03C3\u03C7\u03C5\u03C1\u03AC \u03BA\u03B1\u03B9 \u03AD\u03C7\u03B5\u03B9 \u03BC\u03B5\u03B3\u03AC\u03BB\u03B7 \u03B5\u03C0\u03B9\u03C1\u03C1\u03BF\u03AE \u03C3\u03C4\u03B7\u03BD \u03C0\u03BF\u03BB\u03B9\u03C4\u03B9\u03BA\u03AE \u03C4\u03B7\u03C2 \u03B5\u03C1\u03B3\u03B1\u03C3\u03AF\u03B1\u03C2. \u0394\u03AF\u03C0\u03BB\u03B1 \u03C3\u03C4\u03B7\u03BD \u03C0\u03BF\u03BB\u03CD \u03B1\u03BD\u03B5\u03C0\u03C4\u03C5\u03B3\u03BC\u03AD\u03BD\u03B7 \u03B2\u03B9\u03BF\u03BC\u03B7\u03C7\u03B1\u03BD\u03AF\u03B1, \u03BF \u03B4\u03B9\u03B5\u03B8\u03BD\u03AE\u03C2 \u03C4\u03BF\u03C5\u03C1\u03B9\u03C3\u03BC\u03CC\u03C2 \u03B1\u03C0\u03BF\u03C4\u03B5\u03BB\u03B5\u03AF \u03AD\u03BD\u03B1 \u03B1\u03C0\u03CC \u03C4\u03B1 \u03C0\u03B9\u03BF \u03C3\u03B7\u03BC\u03B1\u03BD\u03C4\u03B9\u03BA\u03AC \u03BA\u03BF\u03BC\u03BC\u03AC\u03C4\u03B9\u03B1 \u03C4\u03B7\u03C2 \u03B5\u03B8\u03BD\u03B9\u03BA\u03AE\u03C2 \u03BF\u03B9\u03BA\u03BF\u03BD\u03BF\u03BC\u03AF\u03B1\u03C2."@el ,
+		"\u00C0ustria, amb seva pr\u00F3spera economia de mercat i alt padr\u00F3 de vida, t\u00E9 lligams estrets amb altres pa\u00EFsos de la Uni\u00F3 Europea, especialment Alemanya. El seu economia t\u00E9 un fort sector de serveis, un expressiu sector industrial i un petit, per\u00F2 b\u00E9 desenvolupat sector agr\u00EDcola. El pa\u00EDs tamb\u00E9 \u00E9s molt beneficiat de relacions comercials fortes, especialment en els sectors bancari i d'asseguran\u00E7a, amb pa\u00EFsos de l'Europa central, oriental, i de sud-est."@ca ,
+		"\u5967\u5730\u5229\u7684\u7D93\u6FDF\u7279\u8272\u4E4B\u4E00\u662F\u5176\u65BD\u884C\u4E8E\u5FB7\u570B\u985E\u4F3C\u7684\u793E\u6703\u5E02\u5834\u7D93\u6FDF\u3002\u57282004\u5E74\uFF0C\u5967\u5730\u5229\u662F\u6B50\u76DF\u5167\u7B2C\u56DB\u5BCC\u88D5\u7684\u570B\u5BB6\u3002\u4EE5\u8CFC\u8CB7\u529B\u5E73\u50F9\u8A08\u7B97\u7684\u8A71\uFF0C\u4EBA\u5747GDP\u7D0427666\u6B50\u5143\uFF0C\u50C5\u6B21\u65BC\u76E7\u68EE\u5821\u3001\u611B\u723E\u862D\u548C\u8377\u862D\u3002\u7DAD\u4E5F\u7D0D\u662F\u6B50\u76DF\u7B2C\u4E94\u5BCC\u6709\u7684NUTS-2\u5340\u57DF\u3002\u4EBA\u5747GDP\u905438632\u6B50\u5143\u3002\u50C5\u6B21\u65BC\u5167\u502B\u6566\u3001\u76E7\u68EE\u5821\u3001\u5E03\u9B6F\u585E\u723E\u548C\u6F22\u5821\u3002\u5965\u5730\u5229\u7684\u4EBA\u5747GDP\u4F4D\u5217\u4E16\u754C\u7B2C14\u4F4D\u3002\u57282002\u5E741\u6708\uFF0C\u5967\u5730\u5229\u52A0\u5165\u6B50\u5143\u5340\uFF0C\u6B50\u5143\u53D6\u4EE3\u820A\u8CA8\u5E63\u5967\u5730\u5229\u5148\u4EE4\uFF0C\u6210\u70BA\u5967\u5730\u5229\u7684\u901A\u7528\u8CA8\u5E63\u3002"@zh ,
+		"L'\u00E9conomie de l'Autriche est une \u00E9conomie d\u00E9velopp\u00E9e et ses habitants comptent parmi les plus riches du monde en termes de PIB PPA par habitant (en 2017, ce PIB \u00E9tait de pratiquement 50 000 US$ tandis que la moyenne mondiale est 17 000 US$, soit 3 fois moins \u00E9lev\u00E9). Jusqu'aux ann\u00E9es 1980, une large partie de l'industrie du pays \u00E9tait sous le contr\u00F4le de l'\u00C9tat. Cependant ces derni\u00E8res ann\u00E9es, de nombreuses privatisations ont r\u00E9duit la participation de l'\u00C9tat \u00E0 un niveau comparable aux autres \u00E9conomies europ\u00E9ennes. Les mouvements ouvriers sont particuli\u00E8rement fort en Autriche et ont une influence importante sur la politique du travail. L'\u00E9conomie de l'Autriche est marqu\u00E9e \u00E9galement par l'importance du tourisme."@fr ,
+		"\u0410\u0432\u0441\u0442\u0440\u0456\u044F \u2014 \u043E\u0434\u043D\u0430 \u0437 \u043D\u0430\u0439\u0440\u043E\u0437\u0432\u0438\u043D\u0435\u043D\u0456\u0448\u0438\u0445 \u0434\u0435\u0440\u0436\u0430\u0432 \u0404\u0432\u0440\u043E\u043F\u0438. \u0426\u0435 \u0456\u043D\u0434\u0443\u0441\u0442\u0440\u0456\u0430\u043B\u044C\u043D\u043E-\u0430\u0433\u0440\u0430\u0440\u043D\u0430 \u043A\u0440\u0430\u0457\u043D\u0430. \u041C\u0430\u0454 \u0434\u043E\u0431\u0440\u0435 \u0440\u043E\u0437\u0432\u0438\u043D\u0435\u043D\u0443 \u0441\u043E\u0446\u0456\u0430\u043B\u044C\u043D\u043E \u043E\u0440\u0456\u0454\u043D\u0442\u043E\u0432\u0430\u043D\u0443 \u0440\u0438\u043D\u043A\u043E\u0432\u0443 \u0435\u043A\u043E\u043D\u043E\u043C\u0456\u043A\u0443 \u0442\u0430 \u0432\u0438\u0441\u043E\u043A\u0438\u0439 \u0440\u0456\u0432\u0435\u043D\u044C \u0436\u0438\u0442\u0442\u044F. \u041F\u0435\u0440\u0435\u0432\u0430\u0433\u043E\u044E \u0430\u0432\u0441\u0442\u0440\u0456\u0439\u0441\u044C\u043A\u043E\u0457 \u0435\u043A\u043E\u043D\u043E\u043C\u0456\u043A\u0438 \u0454 \u0448\u0438\u0440\u043E\u043A\u0430 \u0432\u0438\u0440\u043E\u0431\u043D\u0438\u0447\u0430 \u0431\u0430\u0437\u0430, \u043A\u0432\u0430\u043B\u0456\u0444\u0456\u043A\u043E\u0432\u0430\u043D\u0430 \u0440\u043E\u0431\u043E\u0447\u0430 \u0441\u0438\u043B\u0430, \u0442\u0443\u0440\u0438\u0437\u043C \u044F\u043A \u0432\u0430\u0436\u043B\u0438\u0432\u0435 \u0434\u0436\u0435\u0440\u0435\u043B\u043E \u0432\u0430\u043B\u044E\u0442\u0438 \u0442\u0430 \u0441\u0438\u043B\u044C\u043D\u0430 \u043F\u0440\u043E\u043C\u0438\u0441\u043B\u043E\u0432\u0456\u0441\u0442\u044C."@uk ,
+		"Ekonomi Austria merupakan salah satu dari 14 ekonomi terkaya di dunia berdasarkan produk domestik bruto per kapita dan merupakan ekonomi pasar sosial yang maju dan memiliki standar hidup yang tinggi. Hingga tahun 1980-an, banyak industri besar Austria yang dinasionalisasi; namun, baru-baru ini privatisasi telah mengurangi kepemilikan negara seperti negara-negara Eropa lainnya.  sangat kuat di Austria dan berdampak besar terhadap politik buruh. Selain memiliki industri yang maju, pariwisata juga merupakan sektor yang penting."@in ,
+		"\u0627\u0644\u0646\u0645\u0633\u0627 \u0648\u0627\u062D\u062F\u0629 \u0645\u0646 \u0623\u063A\u0646\u0649 12 \u062F\u0648\u0644\u0629 \u0641\u064A \u0627\u0644\u0639\u0627\u0644\u0645 \u0645\u0646 \u062D\u064A\u062B \u0627\u0644\u0646\u0627\u062A\u062C \u0627\u0644\u0645\u062D\u0644\u064A \u0627\u0644\u0625\u062C\u0645\u0627\u0644\u064A \u0644\u0644\u0641\u0631\u062F, \u0644\u062F\u064A\u0647\u0627 \u0627\u0642\u062A\u0635\u0627\u062F \u0633\u0648\u0642 \u0627\u062C\u062A\u0645\u0627\u0639\u064A \u0645\u062A\u0637\u0648\u0631\u060C \u0648\u0645\u0633\u062A\u0648\u0649 \u0645\u0639\u064A\u0634\u064A \u0645\u0631\u062A\u0641\u0639. \u062D\u062A\u0649 \u0627\u0644\u062B\u0645\u0627\u0646\u064A\u0646\u064A\u0627\u062A\u060C \u0643\u0627\u0646 \u0642\u062F \u062A\u0645 \u062A\u0623\u0645\u064A\u0645 \u0627\u0644\u0639\u062F\u064A\u062F \u0645\u0646 \u0643\u0628\u0631\u064A\u0627\u062A \u0634\u0631\u0643\u0627\u062A \u0627\u0644\u0635\u0646\u0627\u0639\u0629 \u0627\u0644\u0646\u0645\u0633\u0627\u0648\u064A\u0629\u061B \u0641\u064A \u0627\u0644\u0633\u0646\u0648\u0627\u062A \u0627\u0644\u0623\u062E\u064A\u0631\u0629\u060C \u0642\u062F \u062E\u0641\u0636\u062A \u0627\u0644\u062E\u0635\u062E\u0635\u0629 \u062D\u064A\u0627\u0632\u0627\u062A \u0627\u0644\u062F\u0648\u0644\u0629 \u0625\u0644\u0649 \u0645\u0633\u062A\u0648\u0649 \u064A\u064F\u0636\u0627\u0647\u064A \u0627\u0644\u0627\u0642\u062A\u0635\u0627\u062F\u0627\u062A \u0627\u0644\u0623\u0648\u0631\u0648\u0628\u064A\u0629 \u0627\u0644\u0623\u062E\u0631\u0649. \u0627\u0644\u062D\u0631\u0643\u0627\u062A \u0627\u0644\u0639\u0645\u0627\u0644\u064A\u0629 \u0642\u0648\u064A\u0629 \u0628\u0634\u0643\u0644 \u0641\u0639\u0627\u0644 \u0641\u064A \u0627\u0644\u0646\u0645\u0633\u0627 \u0648\u0644\u0647\u0627 \u062A\u0623\u062B\u064A\u0631 \u0643\u0628\u064A\u0631 \u0639\u0644\u0649 \u0633\u064A\u0627\u0633\u0627\u062A \u0627\u0644\u0639\u0645\u0644. \u0627\u0644\u0633\u064A\u0627\u062D\u0629 \u0647\u064A \u0627\u0644\u062C\u0632\u0621 \u0627\u0644\u0623\u0643\u062B\u0631 \u0623\u0647\u0645\u064A\u0629 \u0641\u064A \u0627\u0644\u0627\u0642\u062A\u0635\u0627\u062F \u0627\u0644\u0648\u0637\u0646\u064A\u060C \u0625\u0644\u0649 \u062C\u0627\u0646\u0628 \u0627\u0644\u062A\u0637\u0648\u0631 \u0627\u0644\u0635\u0646\u0627\u0639\u064A \u0627\u0644\u0643\u0628\u064A\u0631. \u0641\u064A \u0639\u0627\u0645 2004 \u0643\u0627\u0646\u062A \u0627\u0644\u0646\u0645\u0633\u0627 \u0631\u0627\u0628\u0639 \u0623\u063A\u0646\u0649 \u062F\u0648\u0644\u0629 \u0641\u064A \u0627\u0644\u0627\u062A\u062D\u0627\u062F \u0627\u0644\u0623\u0648\u0631\u0648\u0628\u064A\u060C \u0644\u0646\u0627\u062A\u062C \u0645\u062D\u0644\u064A \u0625\u062C\u0645\u0627\u0644\u064A (\u062A\u0639\u0627\u062F\u0644 \u0627\u0644\u0642\u0648\u0629 \u0627\u0644\u0634\u0631\u0627\u0626\u064A\u0629) \u0644\u0644\u0641\u0631\u062F \u0627\u0644\u0648\u0627\u062D\u062F \u062D\u0648\u0627\u0644\u064A 27\u060C666 \u064A\u0648\u0631\u0648."@ar ,
+		"Rakousko pat\u0159\u00ED k velmi vysp\u011Bl\u00FDm zem\u00EDm sv\u011Bta, v roce 2010 bylo v hodnocen\u00ED podle HDP na obyvatele 10. nejbohat\u0161\u00EDm st\u00E1tem sv\u011Bta a 3. nejbohat\u0161\u00EDm st\u00E1tem v EU \u2013 v tomto ukazateli dosahuje hodnoty 39 500 USD na obyvatele (dle MMF (2010). V roce 2001 bylo v Rakousku zam\u011Bstn\u00E1no 3 420 788 lid\u00ED na 396 288 pracovi\u0161t\u00EDch. Nejv\u011Bt\u0161\u00ED burza Rakouska je , jej\u00ED\u017E nejv\u011Bt\u0161\u00ED index je ."@cs ,
+		"The economy of Austria is a well-developed social market economy, with the country being one of the fourteen richest in the world in terms of GDP (gross domestic product) per capita. Until the 1980s, many of Austria's largest industry firms were nationalised; in recent years, however, privatisation has reduced state holdings to a level comparable to other European economies. Labour movements are particularly strong in Austria and have large influence on labour politics. Next to a highly developed industry, international tourism is the most important part of the national economy."@en ,
+		"Die Wirtschaft \u00D6sterreichs ist nach den Prinzipien einer Sozialen Marktwirtschaft geregelt. Seit 1995 ist \u00D6sterreich Vollmitglied in der Europ\u00E4ischen Union. In einer Reihung nach Bruttoinlandsprodukt pro Kopf lag \u00D6sterreich 2013 weltweit an 11. Stelle, gemessen am Bruttonationaleinkommen (Stand 2004) an 21. Stelle. Im Vergleich mit dem durchschnittlichen BIP pro Kopf der EU erreichte \u00D6sterreich 2016 einen Index von 127 (EU25=100)."@de ;
+	rdfs:seeAlso	<http://dbpedia.org/resource/Silver_commemorative_coins_(Austria)> ,
+		dbr:List_of_largest_Austrian_companies ,
+		dbr:Euro_gold ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Vienna_DC.JPG> ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Economy_of_Austria .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Economy_of_Austria	dct:subject	dbc:Economy_of_Austria ,
+		dbc:Economies_of_Europe_by_country ,
+		dbc:European_Union_member_economies ,
+		dbc:OECD_member_economies ;
+	owl:sameAs	<http://fi.dbpedia.org/resource/It\u00E4vallan_talous> .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Economy_of_Austria	owl:sameAs	wikidata:Q8085 .
+@prefix dbpedia-cs:	<http://cs.dbpedia.org/resource/> .
+dbr:Economy_of_Austria	owl:sameAs	dbpedia-cs:Ekonomika_Rakouska ,
+		<http://uk.dbpedia.org/resource/\u0415\u043A\u043E\u043D\u043E\u043C\u0456\u043A\u0430_\u0410\u0432\u0441\u0442\u0440\u0456\u0457> ,
+		<http://no.dbpedia.org/resource/\u00D8sterrikes_\u00F8konomi> ,
+		<http://es.dbpedia.org/resource/Econom\u00EDa_de_Austria> ,
+		<http://zh.dbpedia.org/resource/\u5967\u5730\u5229\u7D93\u6FDF> .
+@prefix dbpedia-hr:	<http://hr.dbpedia.org/resource/> .
+dbr:Economy_of_Austria	owl:sameAs	dbpedia-hr:Gospodarstvo_Austrije ,
+		<http://pt.dbpedia.org/resource/Economia_da_\u00C1ustria> ,
+		<http://hy.dbpedia.org/resource/\u0531\u057E\u057D\u057F\u0580\u056B\u0561\u0575\u056B_\u057F\u0576\u057F\u0565\u057D\u0578\u0582\u0569\u0575\u0578\u0582\u0576> ,
+		<http://be.dbpedia.org/resource/\u042D\u043A\u0430\u043D\u043E\u043C\u0456\u043A\u0430_\u0410\u045E\u0441\u0442\u0440\u044B\u0456> ,
+		<http://sq.dbpedia.org/resource/Ekonomia_e_Austris\u00EB> ,
+		<http://rdf.freebase.com/ns/m.011b3pnj> .
+@prefix dbpedia-id:	<http://id.dbpedia.org/resource/> .
+dbr:Economy_of_Austria	owl:sameAs	dbpedia-id:Ekonomi_Austria ,
+		<http://el.dbpedia.org/resource/\u039F\u03B9\u03BA\u03BF\u03BD\u03BF\u03BC\u03AF\u03B1_\u03C4\u03B7\u03C2_\u0391\u03C5\u03C3\u03C4\u03C1\u03AF\u03B1\u03C2> .
+@prefix ns15:	<http://lt.dbpedia.org/resource/> .
+dbr:Economy_of_Austria	owl:sameAs	ns15:Austrijos_ekonomika .
+@prefix dbpedia-ro:	<http://ro.dbpedia.org/resource/> .
+dbr:Economy_of_Austria	owl:sameAs	dbpedia-ro:Economia_Austriei ,
+		<http://fa.dbpedia.org/resource/\u0627\u0642\u062A\u0635\u0627\u062F_\u0627\u062A\u0631\u06CC\u0634> ,
+		<http://az.dbpedia.org/resource/Avstriya_iqtisadiyyat\u0131> ,
+		<http://ast.dbpedia.org/resource/Econom\u00EDa_d\u0027Austria> .
+@prefix dbpedia-ms:	<http://ms.dbpedia.org/resource/> .
+dbr:Economy_of_Austria	owl:sameAs	dbpedia-ms:Ekonomi_Austria ,
+		<http://ka.dbpedia.org/resource/\u10D0\u10D5\u10E1\u10E2\u10E0\u10D8\u10D8\u10E1_\u10D4\u10D9\u10DD\u10DC\u10DD\u10DB\u10D8\u10D9\u10D0> ,
+		<http://bg.dbpedia.org/resource/\u0418\u043A\u043E\u043D\u043E\u043C\u0438\u043A\u0430_\u043D\u0430_\u0410\u0432\u0441\u0442\u0440\u0438\u044F> ,
+		<http://it.dbpedia.org/resource/Economia_dell\u0027Austria> ,
+		<http://de.dbpedia.org/resource/Wirtschaft_\u00D6sterreichs> ,
+		<http://vi.dbpedia.org/resource/Kinh_t\u1EBF_\u00C1o> ,
+		<http://ar.dbpedia.org/resource/\u0627\u0642\u062A\u0635\u0627\u062F_\u0627\u0644\u0646\u0645\u0633\u0627> ,
+		<http://gl.dbpedia.org/resource/Econom\u00EDa_de_Austria> .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Economy_of_Austria	owl:sameAs	dbpedia-pl:Gospodarka_Austrii ,
+		<http://da.dbpedia.org/resource/\u00D8strigs_\u00F8konomi> ,
+		<https://global.dbpedia.org/id/4xyBd> ,
+		<http://oc.dbpedia.org/resource/Economia_d\u0027\u00C0ustria> ,
+		dbr:Economy_of_Austria ,
+		<http://fr.dbpedia.org/resource/\u00C9conomie_de_l\u0027Autriche> .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Economy_of_Austria	owl:sameAs	yago-res:Economy_of_Austria ,
+		<http://ru.dbpedia.org/resource/\u042D\u043A\u043E\u043D\u043E\u043C\u0438\u043A\u0430_\u0410\u0432\u0441\u0442\u0440\u0438\u0438> .
+@prefix dbpedia-io:	<http://io.dbpedia.org/resource/> .
+dbr:Economy_of_Austria	owl:sameAs	dbpedia-io:Ekonomio_di_Austria ,
+		<http://sr.dbpedia.org/resource/\u041F\u0440\u0438\u0432\u0440\u0435\u0434\u0430_\u0410\u0443\u0441\u0442\u0440\u0438\u0458\u0435> .
+@prefix dbpedia-tr:	<http://tr.dbpedia.org/resource/> .
+dbr:Economy_of_Austria	owl:sameAs	dbpedia-tr:Avusturya_ekonomisi ,
+		<http://ca.dbpedia.org/resource/Economia_d\u0027\u00C0ustria> ;
+	dbo:wikiPageInterLanguageLink	<http://bn.dbpedia.org/resource/\u0985\u09B8\u09CD\u099F\u09CD\u09B0\u09BF\u09AF\u09BC\u09BE> .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Economy_of_Austria	dbp:group	dbr:Developed_country ,
+		""@en ,
+		dbr:World_Bank_high-income_economy .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Economy_of_Austria	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Economy_of_Austria?oldid=986430437&ns=0> ;
+	dbp:industries	"construction, machinery, vehicles and parts, food, metals, chemicals, lumber and paper, electronics, tourism"@en ;
+	dbp:labor	""@en ,
+		4559603 .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Economy_of_Austria	dbp:labor	76.200000000000002842 ;
+	dbp:occupations	""@en ,
+		"services: 74.1%"@en ,
+		"agriculture: 0.7%"@en ,
+		"industry: 25.2%"@en .
+@prefix ns25:	<http://dbpedia.org/datatype/> .
+dbr:Economy_of_Austria	dbp:currentAccount	"7.859E9"^^ns25:usDollar ;
+	dbp:country	"Austria"@en ;
+	dbp:bot	"InternetArchiveBot"@en ;
+	dbp:date	"August 2019"@en ;
+	dbp:fixAttempted	"yes"@en ;
+	dbp:population	8901064 ;
+	dbp:gdpRank	""@en ,
+		44 ,
+		26 ;
+	dbp:revenue	49 ;
+	dbp:currency	dbr:Euro ;
+	dbp:gini	27.5 ;
+	dbp:hdi	""@en ,
+		0.91400000000000003464 ,
+		0.84299999999999997158 ;
+	dbp:importGoods	"machinery and equipment, motor vehicles, chemicals, metal goods, oil and oil products, natural gas; foodstuffs"@en ;
+	dbp:year	dbr:Calendar_year ;
+	dbp:exportGoods	"machinery and equipment, motor vehicles and parts, manufactured goods, chemicals, iron and steel, foodstuffs"@en ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Vienna_DC.JPG?width=300> ;
+	dbo:wikiPageID	67545 ;
+	dbo:wikiPageRevisionID	986430437 ;
+	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Kitzb\u00FChel> ,
+		dbr:Sugar ,
+		dbr:Arlberg ,
+		dbr:Apple ,
+		<http://dbpedia.org/resource/File:Health_care_cost_rise.svg> ,
+		dbr:Common_Agricultural_Policy ,
+		dbr:Nomenclature_of_Territorial_Units_for_Statistics ,
+		dbr:Hamburg ,
+		dbr:Tourism ,
+		dbr:Austrian_Business_Agency ,
+		dbr:Soviet_Union ,
+		dbr:Economy_of_Germany ,
+		dbr:Economy_of_Europe ,
+		dbr:Primary_sector_of_the_economy ,
+		dbr:Purchasing_power_parity ,
+		<http://dbpedia.org/resource/Wolfgang_Sch\u00FCssel> ,
+		dbr:Privatization ,
+		dbr:Tertiary_sector_of_the_economy ,
+		<http://dbpedia.org/resource/File:Euro_banknotes_2002.png> ,
+		dbc:Economy_of_Austria ,
+		dbr:Social_Partnership ,
+		dbr:Mergers_and_acquisitions ,
+		dbr:Rapeseed ,
+		dbr:Onion ,
+		dbr:Legal_tender ,
+		dbr:Social_market_economy ,
+		dbr:List_of_European_countries_by_average_wage ,
+		dbr:Donaustadt ,
+		<http://dbpedia.org/resource/List_of_countries_by_GDP_(PPP)> ,
+		<http://dbpedia.org/resource/List_of_countries_by_GDP_(nominal)> ,
+		dbr:List_of_countries_by_Human_Development_Index ,
+		dbr:Ethanol ,
+		dbr:Sugar_beet ,
+		dbr:European_Union ,
+		dbr:Eurostat ,
+		dbr:List_of_Austrian_states_by_GDP ,
+		dbr:Austrian_schilling ,
+		dbr:Calendar_year ,
+		dbr:Barley ,
+		dbc:European_Union_member_economies ,
+		dbr:Gross_domestic_product ,
+		dbr:Brussels ,
+		dbr:List_of_countries_by_inequality-adjusted_HDI ,
+		dbc:Economies_of_Europe_by_country ,
+		dbc:OECD_member_economies ,
+		dbr:World_Bank_high-income_economy ,
+		dbr:Triticale ,
+		dbr:World_Trade_Organization ,
+		dbr:Welfare_state ,
+		<http://dbpedia.org/resource/1995_enlargement_of_the_European_Union> ,
+		dbr:Developed_country ,
+		dbr:Rye ,
+		dbr:Luxembourg ,
+		dbr:Inner_London ,
+		dbr:Red_Vienna ,
+		<http://dbpedia.org/resource/List_of_countries_by_GDP_(PPP)_per_capita> ,
+		dbr:Soybean ,
+		dbr:World_War_II ,
+		<http://dbpedia.org/resource/List_of_countries_by_GDP_(nominal)_per_capita> ,
+		dbr:Maize ,
+		dbr:Potato ,
+		dbr:Austrian_Trade_Union_Federation ,
+		dbr:Wheat ,
+		dbr:Pear ,
+		dbr:Economy_of_the_European_Union ,
+		dbr:Germany ,
+		dbr:War_reparations ,
+		dbr:Euro ,
+		dbr:Grape ,
+		dbr:Eurozone ,
+		dbr:Ease_of_doing_business_index ,
+		dbr:Anschluss ,
+		dbr:List_of_largest_Austrian_companies ,
+		dbr:Secondary_sector_of_the_economy ,
+		dbr:Austria ,
+		dbr:Vienna ,
+		<http://dbpedia.org/resource/File:Kitzb\u00FChel_by_night.jpg> ,
+		dbr:Labour_movement ,
+		<http://dbpedia.org/resource/File:Schneeberg_-_cows-cropped.jpg> ,
+		dbr:OECD ;
+	dbo:wikiPageExternalLink	<http://www.macmap.org/QuickSearch/FindTariff/FindTariff.aspx%3Fsubsite=open_access&country=040&source=1%7CITC> ,
+		<https://web.archive.org/web/20061110070705/http:/www.theglobalguru.com/article.php%3Fid=61&offer=GURU001> ,
+		<https://finance.yahoo.com/q/bc%3Fs=%5EATX&t=my&l=off&z=m&q=l&c=%5EGSPC> .
+@prefix ns26:	<http://wits.worldbank.org/CountryProfile/Country/AUT/Year/2012/> .
+dbr:Economy_of_Austria	dbo:wikiPageExternalLink	ns26:Summary .
+@prefix ns27:	<https://web.archive.org/web/20130704054309/http:/www.quandl.com/> .
+dbr:Economy_of_Austria	dbo:wikiPageExternalLink	ns27:austria ;
+	dbp:wikiPageUsesTemplate	<http://dbpedia.org/resource/Template:Members_of_the_European_Union_(EU)> .
+@prefix dbt:	<http://dbpedia.org/resource/Template:> .
+dbr:Economy_of_Austria	dbp:wikiPageUsesTemplate	dbt:See_also ,
+		dbt:Austria_topics ,
+		dbt:Steady ,
+		dbt:IncreaseNegative ,
+		dbt:DecreasePositive ,
+		dbt:Update ,
+		dbt:Flag ,
+		dbt:More_citations_needed ,
+		dbt:Unreferenced_section ,
+		dbt:Decrease ,
+		dbt:Portal ,
+		dbt:Increase ,
+		dbt:Economy_of_Europe ,
+		dbt:Infobox_economy ,
+		dbt:Use_dmy_dates ,
+		dbt:Color ,
+		dbt:Main ,
+		dbt:Organisation_for_Economic_Co-operation_and_Development ,
+		dbt:Dead_link ,
+		dbt:Multiple_issues ,
+		dbt:Expand_section ,
+		dbt:Reflist ,
+		dbt:Short_description ;
+	dbp:caption	dbr:Donaustadt ,
+		dbr:Vienna ;
+	dbp:imageSize	310 ;
+	dbo:abstract	"Die Wirtschaft \u00D6sterreichs ist nach den Prinzipien einer Sozialen Marktwirtschaft geregelt. Seit 1995 ist \u00D6sterreich Vollmitglied in der Europ\u00E4ischen Union. In einer Reihung nach Bruttoinlandsprodukt pro Kopf lag \u00D6sterreich 2013 weltweit an 11. Stelle, gemessen am Bruttonationaleinkommen (Stand 2004) an 21. Stelle. Im Vergleich mit dem durchschnittlichen BIP pro Kopf der EU erreichte \u00D6sterreich 2016 einen Index von 127 (EU25=100). An der gesamtwirtschaftlichen Leistung hat der Dienstleistungssektor einen gerundeten Anteil von 68 %, der Industrielle Sektor von 30 % und auf Land- und Forstwirtschaft entfallen 2 %. Der Tourismus spielt mit Pro-Kopf-Einnahmen von \u00FCber 2.000 Euro (2017) in \u00D6sterreich eine wesentliche Rolle. Laut Angaben des globalen Wettbewerbsf\u00E4higkeitsindex des Weltwirtschaftsforums rangiert \u00D6sterreich im Jahr 2019 auf Platz 21 (von 141 Staaten) der wettbewerbsf\u00E4higsten L\u00E4nder der Welt."@de ,
+		"\u0397 \u0391\u03C5\u03C3\u03C4\u03C1\u03AF\u03B1 \u03B5\u03AF\u03BD\u03B1\u03B9 \u03BC\u03AF\u03B1 \u03B1\u03C0\u03CC \u03C4\u03B9\u03C2 11 \u03C0\u03BB\u03BF\u03C5\u03C3\u03B9\u03CC\u03C4\u03B5\u03C1\u03B5\u03C2 \u03C7\u03CE\u03C1\u03B5\u03C2 \u03C3\u03C4\u03BF\u03BD \u03BA\u03CC\u03C3\u03BC\u03BF, \u03CC\u03C3\u03BF\u03BD \u03B1\u03C6\u03BF\u03C1\u03AC \u03C4\u03BF \u0391\u03BA\u03B1\u03B8\u03AC\u03C1\u03B9\u03C3\u03C4\u03BF \u0395\u03B3\u03C7\u03CE\u03C1\u03B9\u03BF \u03A0\u03C1\u03BF\u03CA\u03CC\u03BD \u03C4\u03B7\u03C2 \u03B1\u03BD\u03AC \u03BA\u03AC\u03C4\u03BF\u03B9\u03BA\u03BF, \u03AD\u03C7\u03B5\u03B9 \u03BC\u03B9\u03B1 \u03BA\u03B1\u03BB\u03AC \u03B1\u03BD\u03B1\u03C0\u03C4\u03C5\u03B3\u03BC\u03AD\u03BD\u03B7 \u03BA\u03BF\u03B9\u03BD\u03C9\u03BD\u03B9\u03BA\u03AE \u03BF\u03B9\u03BA\u03BF\u03BD\u03BF\u03BC\u03AF\u03B1 \u03B1\u03B3\u03BF\u03C1\u03AC\u03C2 \u03BA\u03B1\u03B9 \u03AD\u03BD\u03B1 \u03C5\u03C8\u03B7\u03BB\u03CC \u03B2\u03B9\u03BF\u03C4\u03B9\u03BA\u03CC \u03B5\u03C0\u03AF\u03C0\u03B5\u03B4\u03BF. \u039C\u03AD\u03C7\u03C1\u03B9 \u03C4\u03B7 \u03B4\u03B5\u03BA\u03B1\u03B5\u03C4\u03AF\u03B1 \u03C4\u03BF\u03C5 1980, \u03C0\u03BF\u03BB\u03BB\u03AD\u03C2 \u03B1\u03C0\u03CC \u03C4\u03B9\u03C2 \u03BC\u03B5\u03B3\u03B1\u03BB\u03CD\u03C4\u03B5\u03C1\u03B5\u03C2 \u03B2\u03B9\u03BF\u03BC\u03B7\u03C7\u03B1\u03BD\u03B9\u03BA\u03AD\u03C2 \u03B5\u03C4\u03B1\u03B9\u03C1\u03AF\u03B5\u03C2 \u03C4\u03B7\u03C2 \u0391\u03C5\u03C3\u03C4\u03C1\u03AF\u03B1\u03C2 \u03BA\u03C1\u03B1\u03C4\u03B9\u03BA\u03BF\u03C0\u03BF\u03B9\u03AE\u03B8\u03B7\u03BA\u03B1\u03BD. \u03A4\u03B1 \u03C4\u03B5\u03BB\u03B5\u03C5\u03C4\u03B1\u03AF\u03B1 \u03C7\u03C1\u03CC\u03BD\u03B9\u03B1, \u03C9\u03C3\u03C4\u03CC\u03C3\u03BF, \u03B7 \u03B9\u03B4\u03B9\u03C9\u03C4\u03B9\u03BA\u03BF\u03C0\u03BF\u03AF\u03B7\u03C3\u03B7 \u03AD\u03C7\u03B5\u03B9 \u03BC\u03B5\u03B9\u03CE\u03C3\u03B5\u03B9 \u03C4\u03B7\u03BD \u03BA\u03C1\u03B1\u03C4\u03B9\u03BA\u03AE \u03C3\u03C5\u03BC\u03BC\u03B5\u03C4\u03BF\u03C7\u03AE \u03C3\u03B5 \u03B5\u03C0\u03AF\u03C0\u03B5\u03B4\u03BF \u03C0\u03BF\u03C5 \u03C3\u03C5\u03B3\u03BA\u03C1\u03AF\u03BD\u03B5\u03C4\u03B1\u03B9 \u03BC\u03B5 \u03AC\u03BB\u03BB\u03B5\u03C2 \u03B5\u03C5\u03C1\u03C9\u03C0\u03B1\u03CA\u03BA\u03AD\u03C2 \u03BF\u03B9\u03BA\u03BF\u03BD\u03BF\u03BC\u03AF\u03B5\u03C2. \u03A4\u03B1 \u03B5\u03C1\u03B3\u03B1\u03C4\u03B9\u03BA\u03AC \u03BA\u03B9\u03BD\u03AE\u03BC\u03B1\u03C4\u03B1 \u03B5\u03AF\u03BD\u03B1\u03B9 \u03B9\u03B4\u03B9\u03B1\u03AF\u03C4\u03B5\u03C1\u03B1 \u03B9\u03C3\u03C7\u03C5\u03C1\u03AC \u03BA\u03B1\u03B9 \u03AD\u03C7\u03B5\u03B9 \u03BC\u03B5\u03B3\u03AC\u03BB\u03B7 \u03B5\u03C0\u03B9\u03C1\u03C1\u03BF\u03AE \u03C3\u03C4\u03B7\u03BD \u03C0\u03BF\u03BB\u03B9\u03C4\u03B9\u03BA\u03AE \u03C4\u03B7\u03C2 \u03B5\u03C1\u03B3\u03B1\u03C3\u03AF\u03B1\u03C2. \u0394\u03AF\u03C0\u03BB\u03B1 \u03C3\u03C4\u03B7\u03BD \u03C0\u03BF\u03BB\u03CD \u03B1\u03BD\u03B5\u03C0\u03C4\u03C5\u03B3\u03BC\u03AD\u03BD\u03B7 \u03B2\u03B9\u03BF\u03BC\u03B7\u03C7\u03B1\u03BD\u03AF\u03B1, \u03BF \u03B4\u03B9\u03B5\u03B8\u03BD\u03AE\u03C2 \u03C4\u03BF\u03C5\u03C1\u03B9\u03C3\u03BC\u03CC\u03C2 \u03B1\u03C0\u03BF\u03C4\u03B5\u03BB\u03B5\u03AF \u03AD\u03BD\u03B1 \u03B1\u03C0\u03CC \u03C4\u03B1 \u03C0\u03B9\u03BF \u03C3\u03B7\u03BC\u03B1\u03BD\u03C4\u03B9\u03BA\u03AC \u03BA\u03BF\u03BC\u03BC\u03AC\u03C4\u03B9\u03B1 \u03C4\u03B7\u03C2 \u03B5\u03B8\u03BD\u03B9\u03BA\u03AE\u03C2 \u03BF\u03B9\u03BA\u03BF\u03BD\u03BF\u03BC\u03AF\u03B1\u03C2. \u0397 \u0393\u03B5\u03C1\u03BC\u03B1\u03BD\u03AF\u03B1 \u03C5\u03C0\u03AE\u03C1\u03BE\u03B5 \u03B9\u03C3\u03C4\u03BF\u03C1\u03B9\u03BA\u03AC \u03BF \u03BA\u03CD\u03C1\u03B9\u03BF\u03C2 \u03B5\u03BC\u03C0\u03BF\u03C1\u03B9\u03BA\u03CC\u03C2 \u03B5\u03C4\u03B1\u03AF\u03C1\u03BF\u03C2 \u03C4\u03B7\u03C2 \u0391\u03C5\u03C3\u03C4\u03C1\u03AF\u03B1\u03C2, \u03BA\u03B1\u03B8\u03B9\u03C3\u03C4\u03CE\u03BD\u03C4\u03B1\u03C2 \u03C4\u03B7 \u03B5\u03C5\u03AC\u03BB\u03C9\u03C4\u03B7 \u03C3\u03B5 \u03C4\u03C5\u03C7\u03CC\u03BD \u03BC\u03B5\u03C4\u03B1\u03B2\u03BF\u03BB\u03AD\u03C2 \u03C4\u03B7\u03C2 . \u03A9\u03C3\u03C4\u03CC\u03C3\u03BF, \u03B4\u03B5\u03B4\u03BF\u03BC\u03AD\u03BD\u03BF\u03C5 \u03CC\u03C4\u03B9 \u03B7 \u0391\u03C5\u03C3\u03C4\u03C1\u03AF\u03B1 \u03B1\u03C0\u03BF\u03C4\u03B5\u03BB\u03B5\u03AF \u03BA\u03C1\u03AC\u03C4\u03BF\u03C2 \u03BC\u03AD\u03BB\u03BF\u03C2 \u03C4\u03B7\u03C2 \u0395\u03C5\u03C1\u03C9\u03C0\u03B1\u03CA\u03BA\u03AE\u03C2 \u0388\u03BD\u03C9\u03C3\u03B7\u03C2, \u03B1\u03C0\u03AD\u03BA\u03C4\u03B7\u03C3\u03B5 \u03C3\u03C4\u03B5\u03BD\u03CC\u03C4\u03B5\u03C1\u03BF\u03C5\u03C2 \u03B4\u03B5\u03C3\u03BC\u03BF\u03CD\u03C2 \u03BC\u03B5 \u03AC\u03BB\u03BB\u03B5\u03C2 \u03BF\u03B9\u03BA\u03BF\u03BD\u03BF\u03BC\u03AF\u03B5\u03C2 \u03C4\u03B7\u03C2 \u0395\u03C5\u03C1\u03C9\u03C0\u03B1\u03CA\u03BA\u03AE\u03C2 \u0388\u03BD\u03C9\u03C3\u03B7\u03C2, \u03BC\u03B5\u03B9\u03CE\u03BD\u03BF\u03BD\u03C4\u03B1\u03C2 \u03C4\u03B7\u03BD \u03BF\u03B9\u03BA\u03BF\u03BD\u03BF\u03BC\u03B9\u03BA\u03AE \u03B5\u03BE\u03AC\u03C1\u03C4\u03B7\u03C3\u03AE \u03C4\u03B7\u03C2 \u03B1\u03C0\u03CC \u03C4\u03B7 \u0393\u03B5\u03C1\u03BC\u03B1\u03BD\u03AF\u03B1. \u0395\u03C0\u03B9\u03C0\u03BB\u03AD\u03BF\u03BD, \u03B7 \u03AD\u03BD\u03C4\u03B1\u03BE\u03B7 \u03C3\u03C4\u03B7\u03BD \u0395\u0395 \u03AD\u03C7\u03B5\u03B9 \u03B4\u03B7\u03BC\u03B9\u03BF\u03C5\u03C1\u03B3\u03AE\u03C3\u03B5\u03B9 \u03BC\u03B9\u03B1 \u03B5\u03B9\u03C3\u03C1\u03BF\u03AE \u03BE\u03AD\u03BD\u03C9\u03BD \u03B5\u03C0\u03B5\u03BD\u03B4\u03C5\u03C4\u03CE\u03BD, \u03C0\u03BF\u03C5 \u03C0\u03C1\u03BF\u03C3\u03B5\u03BB\u03BA\u03CD\u03BF\u03BD\u03C4\u03B1\u03B9 \u03B1\u03C0\u03CC \u03C4\u03B7\u03BD \u03C0\u03C1\u03CC\u03C3\u03B2\u03B1\u03C3\u03B7 \u03C4\u03B7\u03C2 \u0391\u03C5\u03C3\u03C4\u03C1\u03AF\u03B1\u03C2 \u03C3\u03C4\u03B7\u03BD \u03B5\u03BD\u03B9\u03B1\u03AF\u03B1 \u03B5\u03C5\u03C1\u03C9\u03C0\u03B1\u03CA\u03BA\u03AE \u03B1\u03B3\u03BF\u03C1\u03AC \u03BA\u03B1\u03B9 \u03C4\u03B7\u03BD \u03B5\u03B3\u03B3\u03CD\u03C4\u03B7\u03C4\u03AC \u03C4\u03B7\u03C2 \u03BC\u03B5 \u03B9\u03C3\u03C7\u03C5\u03C1\u03AD\u03C2 \u03BF\u03B9\u03BA\u03BF\u03BD\u03BF\u03BC\u03AF\u03B5\u03C2 \u03C4\u03B7\u03C2 \u0395\u03C5\u03C1\u03C9\u03C0\u03B1\u03CA\u03BA\u03AE\u03C2 \u0388\u03BD\u03C9\u03C3\u03B7\u03C2. \u0397 \u03B1\u03CD\u03BE\u03B7\u03C3\u03B7 \u03C4\u03BF\u03C5 \u0391\u0395\u03A0 \u03B5\u03C0\u03B9\u03C4\u03B1\u03C7\u03CD\u03BD\u03B8\u03B7\u03BA\u03B5 \u03C4\u03B1 \u03C4\u03B5\u03BB\u03B5\u03C5\u03C4\u03B1\u03AF\u03B1 \u03C7\u03C1\u03CC\u03BD\u03B9\u03B1 \u03BA\u03B1\u03B9 \u03AD\u03C6\u03C4\u03B1\u03C3\u03B5 \u03C4\u03BF 3,3% \u03C4\u03BF 2006. \u03A4\u03BF 2004, \u03B7 \u0391\u03C5\u03C3\u03C4\u03C1\u03AF\u03B1 \u03AE\u03C4\u03B1\u03BD \u03B7 \u03C4\u03AD\u03C4\u03B1\u03C1\u03C4\u03B7 \u03C0\u03BB\u03BF\u03C5\u03C3\u03B9\u03CC\u03C4\u03B5\u03C1\u03B7 \u03C7\u03CE\u03C1\u03B1 \u03B5\u03BD\u03C4\u03CC\u03C2 \u03C4\u03B7\u03C2 \u0395\u03C5\u03C1\u03C9\u03C0\u03B1\u03CA\u03BA\u03AE\u03C2 \u0388\u03BD\u03C9\u03C3\u03B7\u03C2, \u03BC\u03B5 \u03BA\u03B1\u03C4\u03AC \u03BA\u03B5\u03C6\u03B1\u03BB\u03AE\u03BD \u0391\u0395\u03A0 \u03C0\u03B5\u03C1\u03AF\u03C0\u03BF\u03C5 27.666\u20AC. \u0397 \u0392\u03B9\u03AD\u03BD\u03BD\u03B7 \u03BA\u03B1\u03C4\u03B5\u03C4\u03AC\u03B3\u03B7 \u03C9\u03C2 \u03B7 \u03C0\u03AD\u03BC\u03C0\u03C4\u03B7 \u03C0\u03BB\u03BF\u03C5\u03C3\u03B9\u03CC\u03C4\u03B5\u03C1\u03B7 \u03C0\u03CC\u03BB\u03B7 \u03C4\u03B7\u03C2 \u0395\u03C5\u03C1\u03CE\u03C0\u03B7\u03C2 \u03C3\u03C4\u03B7\u03BD \u03BA\u03C9\u03B4\u03B9\u03BA\u03BF\u03C0\u03BF\u03AF\u03B7\u03C3\u03B7 NUTS-2 \u03BC\u03B5 \u03C4\u03BF \u0391\u0395\u03A0 \u03C4\u03B7\u03C2 \u03BD\u03B1 \u03C6\u03B8\u03AC\u03BD\u03B5\u03B9 \u03C4\u03B1 38.632\u20AC \u03B1\u03BD\u03AC \u03BA\u03AC\u03C4\u03BF\u03B9\u03BA\u03BF, \u03B1\u03BA\u03C1\u03B9\u03B2\u03CE\u03C2 \u03C0\u03AF\u03C3\u03C9 \u03B1\u03C0\u03CC \u03C4\u03BF \u039B\u03BF\u03BD\u03B4\u03AF\u03BD\u03BF, \u03C4\u03BF \u039B\u03BF\u03C5\u03BE\u03B5\u03BC\u03B2\u03BF\u03CD\u03C1\u03B3\u03BF, \u03C4\u03B9\u03C2 \u0392\u03C1\u03C5\u03BE\u03AD\u03BB\u03BB\u03B5\u03C2 \u03BA\u03B1\u03B9 \u03C4\u03BF \u0391\u03BC\u03B2\u03BF\u03CD\u03C1\u03B3\u03BF."@el ,
+		"L'\u00E9conomie de l'Autriche est une \u00E9conomie d\u00E9velopp\u00E9e et ses habitants comptent parmi les plus riches du monde en termes de PIB PPA par habitant (en 2017, ce PIB \u00E9tait de pratiquement 50 000 US$ tandis que la moyenne mondiale est 17 000 US$, soit 3 fois moins \u00E9lev\u00E9). Jusqu'aux ann\u00E9es 1980, une large partie de l'industrie du pays \u00E9tait sous le contr\u00F4le de l'\u00C9tat. Cependant ces derni\u00E8res ann\u00E9es, de nombreuses privatisations ont r\u00E9duit la participation de l'\u00C9tat \u00E0 un niveau comparable aux autres \u00E9conomies europ\u00E9ennes. Les mouvements ouvriers sont particuli\u00E8rement fort en Autriche et ont une influence importante sur la politique du travail. L'\u00E9conomie de l'Autriche est marqu\u00E9e \u00E9galement par l'importance du tourisme."@fr ,
+		"\u00C1ustria, com a sua economia social de mercado e alto padr\u00E3o de vida, tem liga\u00E7\u00F5es estreitas com outros pa\u00EDses da Uni\u00E3o Europeia, em especial a Alemanha. Tem um forte setor de servi\u00E7os, um expressivo setor industrial e um setor agr\u00EDcola pequeno, por\u00E9m desenvolvido. Apesar da forte presen\u00E7a do Estado na economia, na \u00FAltima d\u00E9cada ocorreu algumas privatiza\u00E7\u00F5es para fazer adequa\u00E7\u00F5es econ\u00F4micas compat\u00EDveis com os pa\u00EDses membros da Uni\u00E3o Europeia. Depois de v\u00E1rios anos de forte demanda pelas exporta\u00E7\u00F5es austr\u00EDacas e de um grande crescimento do n\u00EDvel de emprego, a crise econ\u00F4mica mundial de 2008 trouxe uma recess\u00E3o profunda, mas de curta dura\u00E7\u00E3o. A economia retraiu 3,9% em 2009 mas registrou um crescimento de 2% em 2010. O pa\u00EDs \u00E9 o 19.\u00BA no ranking de competitividade do F\u00F3rum Econ\u00F4mico Mundial. \n* Moeda: euro, que substituiu o xelim em 2002."@pt ,
+		"Austria podobnie jak Niemcy jest tzw. spo\u0142eczn\u0105 gospodark\u0105 rynkow\u0105. Nale\u017Cy do najbardziej rozwini\u0119tych ekonomicznie kraj\u00F3w w UE. Wska\u017Anik 41 700 $ PKB per capita wed\u0142ug PSN daje jej 4. miejsce w Unii Europejskiej, wyprzedzaj\u0105c takie pa\u0144stwa jak Wielka Brytania, Niemcy czy Francja. G\u0142\u00F3wny \u015Brodek p\u0142atniczy to euro."@pl ,
+		"The economy of Austria is a well-developed social market economy, with the country being one of the fourteen richest in the world in terms of GDP (gross domestic product) per capita. Until the 1980s, many of Austria's largest industry firms were nationalised; in recent years, however, privatisation has reduced state holdings to a level comparable to other European economies. Labour movements are particularly strong in Austria and have large influence on labour politics. Next to a highly developed industry, international tourism is the most important part of the national economy. Germany has historically been the main trading partner of Austria, making it vulnerable to rapid changes in the German economy. However, since Austria became a member state of the European Union it has gained closer ties to other European Union economies, reducing its economic dependence on Germany. In addition, membership in the EU has drawn an influx of foreign investors attracted by Austria's access to the single European market and proximity to the aspiring economies of the European Union. Growth in GDP accelerated in recent years and reached 3.3% in 2006. In 2004 Austria was the fourth richest country within the European Union, having a GDP (PPP) per capita of approximately \u20AC27,666, with Luxembourg, Ireland, and Netherlands leading the list. Vienna was ranked the fifth richest NUTS-2 region within Europe (see Economy of Europe) with GDP reaching \u20AC38,632 per capita, just behind Inner London, Luxembourg, Brussels-Capital Region and Hamburg. Growth has been steady between 2002\u20132006 varying between 1 and 3.3%. After hitting 0% in 2013, growth has picked up a little and as of 2016 sits at 1.5%."@en ,
+		"\u0627\u0644\u0646\u0645\u0633\u0627 \u0648\u0627\u062D\u062F\u0629 \u0645\u0646 \u0623\u063A\u0646\u0649 12 \u062F\u0648\u0644\u0629 \u0641\u064A \u0627\u0644\u0639\u0627\u0644\u0645 \u0645\u0646 \u062D\u064A\u062B \u0627\u0644\u0646\u0627\u062A\u062C \u0627\u0644\u0645\u062D\u0644\u064A \u0627\u0644\u0625\u062C\u0645\u0627\u0644\u064A \u0644\u0644\u0641\u0631\u062F, \u0644\u062F\u064A\u0647\u0627 \u0627\u0642\u062A\u0635\u0627\u062F \u0633\u0648\u0642 \u0627\u062C\u062A\u0645\u0627\u0639\u064A \u0645\u062A\u0637\u0648\u0631\u060C \u0648\u0645\u0633\u062A\u0648\u0649 \u0645\u0639\u064A\u0634\u064A \u0645\u0631\u062A\u0641\u0639. \u062D\u062A\u0649 \u0627\u0644\u062B\u0645\u0627\u0646\u064A\u0646\u064A\u0627\u062A\u060C \u0643\u0627\u0646 \u0642\u062F \u062A\u0645 \u062A\u0623\u0645\u064A\u0645 \u0627\u0644\u0639\u062F\u064A\u062F \u0645\u0646 \u0643\u0628\u0631\u064A\u0627\u062A \u0634\u0631\u0643\u0627\u062A \u0627\u0644\u0635\u0646\u0627\u0639\u0629 \u0627\u0644\u0646\u0645\u0633\u0627\u0648\u064A\u0629\u061B \u0641\u064A \u0627\u0644\u0633\u0646\u0648\u0627\u062A \u0627\u0644\u0623\u062E\u064A\u0631\u0629\u060C \u0642\u062F \u062E\u0641\u0636\u062A \u0627\u0644\u062E\u0635\u062E\u0635\u0629 \u062D\u064A\u0627\u0632\u0627\u062A \u0627\u0644\u062F\u0648\u0644\u0629 \u0625\u0644\u0649 \u0645\u0633\u062A\u0648\u0649 \u064A\u064F\u0636\u0627\u0647\u064A \u0627\u0644\u0627\u0642\u062A\u0635\u0627\u062F\u0627\u062A \u0627\u0644\u0623\u0648\u0631\u0648\u0628\u064A\u0629 \u0627\u0644\u0623\u062E\u0631\u0649. \u0627\u0644\u062D\u0631\u0643\u0627\u062A \u0627\u0644\u0639\u0645\u0627\u0644\u064A\u0629 \u0642\u0648\u064A\u0629 \u0628\u0634\u0643\u0644 \u0641\u0639\u0627\u0644 \u0641\u064A \u0627\u0644\u0646\u0645\u0633\u0627 \u0648\u0644\u0647\u0627 \u062A\u0623\u062B\u064A\u0631 \u0643\u0628\u064A\u0631 \u0639\u0644\u0649 \u0633\u064A\u0627\u0633\u0627\u062A \u0627\u0644\u0639\u0645\u0644. \u0627\u0644\u0633\u064A\u0627\u062D\u0629 \u0647\u064A \u0627\u0644\u062C\u0632\u0621 \u0627\u0644\u0623\u0643\u062B\u0631 \u0623\u0647\u0645\u064A\u0629 \u0641\u064A \u0627\u0644\u0627\u0642\u062A\u0635\u0627\u062F \u0627\u0644\u0648\u0637\u0646\u064A\u060C \u0625\u0644\u0649 \u062C\u0627\u0646\u0628 \u0627\u0644\u062A\u0637\u0648\u0631 \u0627\u0644\u0635\u0646\u0627\u0639\u064A \u0627\u0644\u0643\u0628\u064A\u0631. \u062A\u0627\u0631\u064A\u062E\u064A\u064B\u0627 \u0643\u0627\u0646\u062A \u0623\u0644\u0645\u0627\u0646\u064A\u0627 \u0627\u0644\u0634\u0631\u064A\u0643 \u0627\u0644\u062A\u062C\u0627\u0631\u064A \u0627\u0644\u0631\u0626\u064A\u0633\u064A \u0644\u0644\u0646\u0645\u0633\u0627\u060C \u0645\u0627 \u062C\u0639\u0644\u0647\u0627 \u063A\u064A\u0631 \u0645\u062D\u0635\u0646\u0629 \u062A\u062C\u0627\u0629 \u0627\u0644\u062A\u063A\u064A\u0631\u0627\u062A \u0627\u0644\u0633\u0631\u064A\u0639\u0629 \u0641\u064A \u0627\u0644\u0627\u0642\u062A\u0635\u0627\u062F \u0627\u0644\u0623\u0644\u0645\u0627\u0646\u064A. \u0648\u0645\u0639 \u0630\u0644\u0643\u060C \u0645\u0646\u0630 \u0623\u0646 \u0623\u0635\u0628\u062D\u062A \u0627\u0644\u0646\u0645\u0633\u0627 \u062F\u0648\u0644\u0629 \u0639\u0636\u0648 \u0641\u064A \u0627\u0644\u0627\u062A\u062D\u0627\u062F \u0627\u0644\u0623\u0648\u0631\u0648\u0628\u064A \u0642\u062F \u0627\u0643\u062A\u0633\u0628 \u0639\u0644\u0627\u0642\u0627\u062A \u0623\u0648\u062B\u0642 \u0645\u0639 \u0627\u0642\u062A\u0635\u0627\u062F\u0627\u062A \u0627\u0644\u0627\u062A\u062D\u0627\u062F \u0627\u0644\u0623\u0648\u0631\u0648\u0628\u064A \u0627\u0644\u0623\u062E\u0631\u0649\u060C \u0648\u0627\u0644\u062D\u062F \u0645\u0646 \u0627\u0644\u0627\u0639\u062A\u0645\u0627\u062F \u0627\u0644\u0627\u0642\u062A\u0635\u0627\u062F\u064A \u0639\u0644\u0649 \u0623\u0644\u0645\u0627\u0646\u064A\u0627. \u0628\u0627\u0644\u0625\u0636\u0627\u0641\u0629 \u0625\u0644\u0649 \u0630\u0644\u0643\u060C \u062C\u0630\u0628\u062A \u0639\u0636\u0648\u064A\u062A\u0647\u0627 \u0641\u064A \u0627\u0644\u0627\u062A\u062D\u0627\u062F \u0627\u0644\u0623\u0648\u0631\u0648\u0628\u064A \u0627\u0644\u0645\u0633\u062A\u062B\u0645\u0631\u064A\u0646 \u0627\u0644\u0623\u062C\u0627\u0646\u0628 \u0628\u0647\u062F\u0641 \u0627\u0644\u0648\u0635\u0648\u0644 \u0625\u0644\u0649 \u0627\u0644\u0633\u0648\u0642 \u0627\u0644\u0623\u0648\u0631\u0648\u0628\u064A\u0629 \u0627\u0644\u0645\u0648\u062D\u062F\u0629 \u0648\u0644\u0642\u0631\u0628\u0647\u0627 \u0645\u0646 \u0627\u0644\u0627\u0642\u062A\u0635\u0627\u062F\u0627\u062A \u0627\u0644\u0637\u0645\u0648\u062D\u0629 \u062F\u0627\u062E\u0644 \u0644\u0644\u0627\u062A\u062D\u0627\u062F \u0627\u0644\u0623\u0648\u0631\u0648\u0628\u064A. \u064A\u062A\u0633\u0627\u0631\u0639 \u0627\u0644\u0646\u0645\u0648 \u0641\u064A \u0627\u0644\u0646\u0627\u062A\u062C \u0627\u0644\u0645\u062D\u0644\u064A \u0627\u0644\u0625\u062C\u0645\u0627\u0644\u064A \u0641\u064A \u0627\u0644\u0633\u0646\u0648\u0627\u062A \u0627\u0644\u0623\u062E\u064A\u0631\u0629\u060C \u0648 \u0628\u0644\u063A \u0645\u0639\u062F\u0644 \u0646\u0645\u0648 3.3\u066A \u0639\u0627\u0645 2006. \u0641\u064A \u0639\u0627\u0645 2004 \u0643\u0627\u0646\u062A \u0627\u0644\u0646\u0645\u0633\u0627 \u0631\u0627\u0628\u0639 \u0623\u063A\u0646\u0649 \u062F\u0648\u0644\u0629 \u0641\u064A \u0627\u0644\u0627\u062A\u062D\u0627\u062F \u0627\u0644\u0623\u0648\u0631\u0648\u0628\u064A\u060C \u0644\u0646\u0627\u062A\u062C \u0645\u062D\u0644\u064A \u0625\u062C\u0645\u0627\u0644\u064A (\u062A\u0639\u0627\u062F\u0644 \u0627\u0644\u0642\u0648\u0629 \u0627\u0644\u0634\u0631\u0627\u0626\u064A\u0629) \u0644\u0644\u0641\u0631\u062F \u0627\u0644\u0648\u0627\u062D\u062F \u062D\u0648\u0627\u0644\u064A 27\u060C666 \u064A\u0648\u0631\u0648."@ar ,
+		"Ekonomi Austria merupakan salah satu dari 14 ekonomi terkaya di dunia berdasarkan produk domestik bruto per kapita dan merupakan ekonomi pasar sosial yang maju dan memiliki standar hidup yang tinggi. Hingga tahun 1980-an, banyak industri besar Austria yang dinasionalisasi; namun, baru-baru ini privatisasi telah mengurangi kepemilikan negara seperti negara-negara Eropa lainnya.  sangat kuat di Austria dan berdampak besar terhadap politik buruh. Selain memiliki industri yang maju, pariwisata juga merupakan sektor yang penting. Jerman adalah partner dagang utama Austria, sehingga ekonomi Austria akan terpengaruh oleh peristiwa ekonomi di Jerman. Namun, semenjak Austria menjadi negara anggota Uni Eropa, hubungan Austria dengan negara-negara Eropa lainnya menguat, sehingga kebergantungan ekonominya kepada Jerman berkurang. Selain itu, keanggotaan Austria di Uni Eropa telah menarik banyak penanam modal asing. Ibu kota Austria, Wina, merupakan wilayah -2 terkaya kelima di Eropa dengan PDB per kapita yang mencapai \u20AC38.632 setelah , Luksemburg, Brussels dan Hamburg."@in ,
+		"Rakousko pat\u0159\u00ED k velmi vysp\u011Bl\u00FDm zem\u00EDm sv\u011Bta, v roce 2010 bylo v hodnocen\u00ED podle HDP na obyvatele 10. nejbohat\u0161\u00EDm st\u00E1tem sv\u011Bta a 3. nejbohat\u0161\u00EDm st\u00E1tem v EU \u2013 v tomto ukazateli dosahuje hodnoty 39 500 USD na obyvatele (dle MMF (2010). V roce 2001 bylo v Rakousku zam\u011Bstn\u00E1no 3 420 788 lid\u00ED na 396 288 pracovi\u0161t\u00EDch. Nejv\u011Bt\u0161\u00ED burza Rakouska je , jej\u00ED\u017E nejv\u011Bt\u0161\u00ED index je ."@cs ,
+		"\u0410\u0432\u0441\u0442\u0440\u0456\u044F \u2014 \u043E\u0434\u043D\u0430 \u0437 \u043D\u0430\u0439\u0440\u043E\u0437\u0432\u0438\u043D\u0435\u043D\u0456\u0448\u0438\u0445 \u0434\u0435\u0440\u0436\u0430\u0432 \u0404\u0432\u0440\u043E\u043F\u0438. \u0426\u0435 \u0456\u043D\u0434\u0443\u0441\u0442\u0440\u0456\u0430\u043B\u044C\u043D\u043E-\u0430\u0433\u0440\u0430\u0440\u043D\u0430 \u043A\u0440\u0430\u0457\u043D\u0430. \u041C\u0430\u0454 \u0434\u043E\u0431\u0440\u0435 \u0440\u043E\u0437\u0432\u0438\u043D\u0435\u043D\u0443 \u0441\u043E\u0446\u0456\u0430\u043B\u044C\u043D\u043E \u043E\u0440\u0456\u0454\u043D\u0442\u043E\u0432\u0430\u043D\u0443 \u0440\u0438\u043D\u043A\u043E\u0432\u0443 \u0435\u043A\u043E\u043D\u043E\u043C\u0456\u043A\u0443 \u0442\u0430 \u0432\u0438\u0441\u043E\u043A\u0438\u0439 \u0440\u0456\u0432\u0435\u043D\u044C \u0436\u0438\u0442\u0442\u044F. \u041F\u0435\u0440\u0435\u0432\u0430\u0433\u043E\u044E \u0430\u0432\u0441\u0442\u0440\u0456\u0439\u0441\u044C\u043A\u043E\u0457 \u0435\u043A\u043E\u043D\u043E\u043C\u0456\u043A\u0438 \u0454 \u0448\u0438\u0440\u043E\u043A\u0430 \u0432\u0438\u0440\u043E\u0431\u043D\u0438\u0447\u0430 \u0431\u0430\u0437\u0430, \u043A\u0432\u0430\u043B\u0456\u0444\u0456\u043A\u043E\u0432\u0430\u043D\u0430 \u0440\u043E\u0431\u043E\u0447\u0430 \u0441\u0438\u043B\u0430, \u0442\u0443\u0440\u0438\u0437\u043C \u044F\u043A \u0432\u0430\u0436\u043B\u0438\u0432\u0435 \u0434\u0436\u0435\u0440\u0435\u043B\u043E \u0432\u0430\u043B\u044E\u0442\u0438 \u0442\u0430 \u0441\u0438\u043B\u044C\u043D\u0430 \u043F\u0440\u043E\u043C\u0438\u0441\u043B\u043E\u0432\u0456\u0441\u0442\u044C."@uk ,
+		"\u5967\u5730\u5229\u7684\u7D93\u6FDF\u7279\u8272\u4E4B\u4E00\u662F\u5176\u65BD\u884C\u4E8E\u5FB7\u570B\u985E\u4F3C\u7684\u793E\u6703\u5E02\u5834\u7D93\u6FDF\u3002\u57282004\u5E74\uFF0C\u5967\u5730\u5229\u662F\u6B50\u76DF\u5167\u7B2C\u56DB\u5BCC\u88D5\u7684\u570B\u5BB6\u3002\u4EE5\u8CFC\u8CB7\u529B\u5E73\u50F9\u8A08\u7B97\u7684\u8A71\uFF0C\u4EBA\u5747GDP\u7D0427666\u6B50\u5143\uFF0C\u50C5\u6B21\u65BC\u76E7\u68EE\u5821\u3001\u611B\u723E\u862D\u548C\u8377\u862D\u3002\u7DAD\u4E5F\u7D0D\u662F\u6B50\u76DF\u7B2C\u4E94\u5BCC\u6709\u7684NUTS-2\u5340\u57DF\u3002\u4EBA\u5747GDP\u905438632\u6B50\u5143\u3002\u50C5\u6B21\u65BC\u5167\u502B\u6566\u3001\u76E7\u68EE\u5821\u3001\u5E03\u9B6F\u585E\u723E\u548C\u6F22\u5821\u3002\u5965\u5730\u5229\u7684\u4EBA\u5747GDP\u4F4D\u5217\u4E16\u754C\u7B2C14\u4F4D\u3002\u57282002\u5E741\u6708\uFF0C\u5967\u5730\u5229\u52A0\u5165\u6B50\u5143\u5340\uFF0C\u6B50\u5143\u53D6\u4EE3\u820A\u8CA8\u5E63\u5967\u5730\u5229\u5148\u4EE4\uFF0C\u6210\u70BA\u5967\u5730\u5229\u7684\u901A\u7528\u8CA8\u5E63\u3002"@zh ,
+		"L'economia dell'Austria \u00E8 l'undicesima dell'Unione europea per PIL (PPA) e la quarta in termini di PIL pro-capite (PPA), pari al 666% della media dei 27 Paesi dell'Unione. Si tratta, comunque di un'economia relativamente piccola, di dimensioni paragonabili a quelle della Lombardia. L'Austria ha aderito all'Unione economica e monetaria fin dall'inizio (1999) e dal 2002 ha adottato l'euro. La politica monetaria, dunque, \u00E8 gestita dalla Banca centrale europea."@it ,
+		"\u00C0ustria, amb seva pr\u00F3spera economia de mercat i alt padr\u00F3 de vida, t\u00E9 lligams estrets amb altres pa\u00EFsos de la Uni\u00F3 Europea, especialment Alemanya. El seu economia t\u00E9 un fort sector de serveis, un expressiu sector industrial i un petit, per\u00F2 b\u00E9 desenvolupat sector agr\u00EDcola. El pa\u00EDs tamb\u00E9 \u00E9s molt beneficiat de relacions comercials fortes, especialment en els sectors bancari i d'asseguran\u00E7a, amb pa\u00EFsos de l'Europa central, oriental, i de sud-est. Seguint diversos anys de demanda estrangera s\u00F2lida, r\u00E8cord d'exportacions austr\u00EDaques, e creixement d'ocupaci\u00F3, la crisi financera internacional i recessi\u00F3 econ\u00F2mica global en 2008 va portar a una recessi\u00F3 que va persistir fins al tercer quart de 2009. El PIB va sofrir una retracci\u00F3 de 3,9% aquell any, per\u00F2 va cr\u00E9ixer 2% l'any seg\u00FCent i 3% el 2011. L'atur no va cr\u00E9ixer tant com en altres zones de la UE, en part a causa dels subsidis del govern perqu\u00E8 les empreses apliquessin la reducci\u00F3 de la jornada laboral sense fer dimissions. Les mesures d'estabilitzaci\u00F3 i d'est\u00EDmul b\u00E9 aix\u00ED una reducci\u00F3 en l'impost a la renda van resultar un augment del d\u00E8ficit pressupostari de 4,7% el 2010 i 3,6% el 2011, comparat a amb prou feines 1,8% el 2008."@ca ,
+		"\u0410\u0432\u0441\u0442\u0440\u0438\u044F \u2014 \u0432\u044B\u0441\u043E\u043A\u043E\u0440\u0430\u0437\u0432\u0438\u0442\u043E\u0435 \u043F\u043E\u0441\u0442\u0438\u043D\u0434\u0443\u0441\u0442\u0440\u0438\u0430\u043B\u044C\u043D\u043E\u0435 \u0433\u043E\u0441\u0443\u0434\u0430\u0440\u0441\u0442\u0432\u043E, \u044F\u0432\u043B\u044F\u0435\u0442\u0441\u044F \u043E\u0434\u043D\u043E\u0439 \u0438\u0437 \u0441\u0430\u043C\u044B\u0445 \u0440\u0430\u0437\u0432\u0438\u0442\u044B\u0445 \u0441\u0442\u0440\u0430\u043D \u0415\u0432\u0440\u043E\u043F\u044B. \u0412\u0445\u043E\u0434\u0438\u0442 \u0432 \u0441\u043E\u0441\u0442\u0430\u0432 \u0415\u0432\u0440\u043E\u0441\u043E\u044E\u0437\u0430 (\u0441 1995).\u0412 \u0441\u0442\u0440\u0430\u043D\u0435 \u0440\u0430\u0437\u0432\u0438\u0442\u044B \u043F\u043E\u0447\u0442\u0438 \u0432\u0441\u0435 \u043E\u0442\u0440\u0430\u0441\u043B\u0438 \u044D\u043A\u043E\u043D\u043E\u043C\u0438\u043A\u0438, \u043D\u0430\u0447\u0438\u043D\u0430\u044F \u043E\u0442 \u0442\u0443\u0440\u0438\u0437\u043C\u0430 (\u0435\u0436\u0435\u0433\u043E\u0434\u043D\u043E \u0441\u0442\u0440\u0430\u043D\u0443 \u043F\u043E\u0441\u0435\u0449\u0430\u044E\u0442 \u043E\u043A\u043E\u043B\u043E 15 \u043C\u043B\u043D \u0447\u0435\u043B\u043E\u0432\u0435\u043A) \u0438 \u0437\u0430\u043A\u0430\u043D\u0447\u0438\u0432\u0430\u044F \u0430\u044D\u0440\u043E\u043A\u043E\u0441\u043C\u0438\u0447\u0435\u0441\u043A\u0438\u043C\u0438 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u044F\u043C\u0438. \u0413\u043B\u0430\u0432\u043D\u044B\u043C\u0438 \u043E\u0442\u0440\u0430\u0441\u043B\u044F\u043C\u0438 \u043F\u0440\u043E\u043C\u044B\u0448\u043B\u0435\u043D\u043D\u043E\u0433\u043E \u043F\u0440\u043E\u0438\u0437\u0432\u043E\u0434\u0441\u0442\u0432\u0430 \u044F\u0432\u043B\u044F\u044E\u0442\u0441\u044F \u043C\u0430\u0448\u0438\u043D\u043E\u0441\u0442\u0440\u043E\u0435\u043D\u0438\u0435 (\u0442\u0440\u0430\u043D\u0441\u043F\u043E\u0440\u0442\u043D\u043E\u0435 \u0438 \u0441\u0435\u043B\u044C\u0441\u043A\u043E\u0445\u043E\u0437\u044F\u0439\u0441\u0442\u0432\u0435\u043D\u043D\u043E\u0435), \u0441\u0442\u0430\u043D\u043A\u043E\u0441\u0442\u0440\u043E\u0435\u043D\u0438\u0435 \u0438 \u043F\u0440\u043E\u0438\u0437\u0432\u043E\u0434\u0441\u0442\u0432\u043E \u043E\u0431\u043E\u0440\u0443\u0434\u043E\u0432\u0430\u043D\u0438\u044F \u0434\u043B\u044F \u0434\u0440\u0443\u0433\u0438\u0445 \u043E\u0442\u0440\u0430\u0441\u043B\u0435\u0439 \u0438\u043D\u0434\u0443\u0441\u0442\u0440\u0438\u0438. \u0415\u0451 \u043E\u0441\u043D\u043E\u0432\u043D\u044B\u043C\u0438 \u0446\u0435\u043D\u0442\u0440\u0430\u043C\u0438 \u044F\u0432\u043B\u044F\u044E\u0442\u0441\u044F \u0433\u043E\u0440\u043E\u0434\u0430 \u0412\u0435\u043D\u0430, \u0413\u0440\u0430\u0446, \u041B\u0438\u043D\u0446 \u0438 \u0428\u0442\u0430\u0439\u0440. \u041E\u0441\u043D\u043E\u0432\u043D\u0443\u044E \u0434\u043E\u043B\u044E \u0432 \u044D\u043A\u043E\u043D\u043E\u043C\u0438\u043A\u0435 \u0441\u0442\u0440\u0430\u043D\u044B \u0441\u043E\u0441\u0442\u0430\u0432\u043B\u044F\u0435\u0442 \u0441\u0444\u0435\u0440\u0430 \u0443\u0441\u043B\u0443\u0433 (65,8 %). \u041D\u0430 \u043F\u0440\u043E\u043C\u044B\u0448\u043B\u0435\u043D\u043D\u043E\u0441\u0442\u044C \u043F\u0440\u0438\u0445\u043E\u0434\u0438\u0442\u0441\u044F 32,3 %, \u0430 \u0441\u0435\u043B\u044C\u0441\u043A\u043E\u0435 \u0445\u043E\u0437\u044F\u0439\u0441\u0442\u0432\u043E \u2014 1,7 %. \u0412 2002 \u0433\u043E\u0434\u0443, \u0431\u044B\u043B\u0430 \u0432\u0432\u0435\u0434\u0435\u043D\u0430 \u0432 \u043E\u0431\u0440\u0430\u0449\u0435\u043D\u0438\u0435 \u0435\u0434\u0438\u043D\u0430\u044F \u0432\u0430\u043B\u044E\u0442\u0430 \u2014 \u0415\u0432\u0440\u043E. \u0410\u0432\u0441\u0442\u0440\u0438\u044F \u043F\u043E\u0434\u0434\u0435\u0440\u0436\u0438\u0432\u0430\u0435\u0442 \u044D\u043A\u043E\u043D\u043E\u043C\u0438\u0447\u0435\u0441\u043A\u0438\u0435 \u0441\u0432\u044F\u0437\u0438 \u0441 150 \u0441\u0442\u0440\u0430\u043D\u0430\u043C\u0438 \u043C\u0438\u0440\u0430. \u0414\u043B\u044F \u043F\u0440\u0438\u0432\u043B\u0435\u0447\u0435\u043D\u0438\u044F \u0438\u043D\u043E\u0441\u0442\u0440\u0430\u043D\u043D\u044B\u0445 \u0444\u0438\u0440\u043C \u0431\u044B\u043B\u043E \u0441\u043E\u0437\u0434\u0430\u043D\u043E \u0430\u0433\u0435\u043D\u0442\u0441\u0442\u0432\u043E Austrian Business Agency, \u043A\u043E\u0442\u043E\u0440\u043E\u0435 \u0434\u0430\u0451\u0442 \u0441\u043F\u0440\u0430\u0432\u043A\u0438 \u043E\u0431 \u044D\u043A\u043E\u043D\u043E\u043C\u0438\u0447\u0435\u0441\u043A\u043E\u0439 \u0441\u0438\u0442\u0443\u0430\u0446\u0438\u0438 \u0432 \u0441\u0442\u0440\u0430\u043D\u0435."@ru ,
+		"La econom\u00EDa de Austria est\u00E1 definida por ser una econom\u00EDa social de mercado, con empresas privadas y p\u00FAblicas. Las actividades b\u00E1sicas se han nacionalizado tras el final de la Segunda Guerra Mundial. Austria es uno de los pa\u00EDses m\u00E1s pr\u00F3speros y desarrollados de Europa. As\u00ED pues, Austria tiene una econom\u00EDa bien desarrollada gracias a la gran vertebraci\u00F3n de su mercado, vertebraci\u00F3n reflejada en el alto nivel de vida de sus habitantes. Durante la d\u00E9cada de 1980, gran parte la industria fue nacionalizada, aunque la privatizaci\u00F3n ha reducido el tama\u00F1o de la econom\u00EDa hasta llegar a un nivel comparable con otras econom\u00EDas europeas. Los movimientos obreros son particularmente fuertes en Austria y tienen una gran influencia sobre la pol\u00EDtica de trabajo. Desde que ingres\u00F3 como miembro de la Uni\u00F3n Europea en 1995, Austria ha impulsado profundas reformas estructurales, como la liberalizaci\u00F3n de las telecomunicaciones, la energ\u00EDa y el tabaco, la privatizaci\u00F3n de bancos, la industria del acero y el petr\u00F3leo. Le siguieron fusiones de empresas nacionales con extranjeras, en sectores como la alimentaci\u00F3n, el comercio, la construcci\u00F3n, la banca, el acero, el petr\u00F3leo, el tabaco y las telecomunicaciones"@es ;
+	dbo:wikiPageLength	"30466"^^xsd:nonNegativeInteger ;
+	dbp:exportPartners	""@en ,
+		"5.1"^^ns25:perCent ,
+		"4.8"^^ns25:perCent ,
+		"29.4"^^ns25:perCent ,
+		"6.3"^^ns25:perCent ,
+		"6.2"^^ns25:perCent ;
+	dbp:importPartners	"5.8"^^ns25:perCent ,
+		""@en ,
+		"4.4"^^ns25:perCent ,
+		"4.2"^^ns25:perCent ,
+		"5.5"^^ns25:perCent ,
+		"41.8"^^ns25:perCent ;
+	dbp:expenses	48.200000000000002842 ;
+	dbp:averageGrossSalary	"\u20AC4,163 / $4,604 monthly"@en ;
+	dbp:averageNetSalary	"\u20AC2,761 / $3,053 monthly"@en ;
+	dbp:balance	""@en ,
+		"+0.7% of GDP"@en ,
+		"\u20AC2.9 billion surplus"@en ;
+	dbp:credit	""@en ,
+		"AAA"@en ,
+		"Outlook: Stable"@en ,
+		"Scope:"@en ;
+	dbp:debt	70.400000000000005684 ,
+		""@en ,
+		"2.80426E11"^^ns25:euro ;
+	dbp:edbr	27 ;
+	dbp:exports	"1.567E11"^^ns25:usDollar ;
+	dbp:fdi	""@en ,
+		"Abroad: $339.7 billion"@en ,
+		"2.941E11"^^ns25:usDollar ;
+	dbp:gdp	""@en ,
+		"5.21E11"^^ns25:usDollar ,
+		"4.46E11"^^ns25:usDollar ;
+	dbp:grossExternalDebt	"6.308E11"^^ns25:usDollar ;
+	dbp:growth	""@en ,
+		2.3999999999999999112 ,
+		"\u22126.7%  4.6%"@en ;
+	dbp:imports	"1.581E11"^^ns25:usDollar ;
+	dbp:inflation	""@en ,
+		"1.5"^^ns25:perCent ,
+		"2.1"^^ns25:perCent ,
+		"1.2"^^ns25:perCent ;
+	dbp:organs	dbr:European_Union ,
+		dbr:OECD ,
+		dbr:World_Trade_Organization ;
+	dbp:perCapita	""@en ,
+		"58850.0"^^ns25:usDollar ,
+		"50380.0"^^ns25:usDollar ;
+	dbp:perCapitaRank	""@en ,
+		13 ,
+		18 ;
+	dbp:poverty	16.899999999999998579 ;
+	dbp:sectors	"agriculture: 1.3%"@en ,
+		""@en ,
+		"industry: 28.4%"@en ,
+		"services: 70.3%"@en ;
+	dbp:reserves	"2.157E10"^^ns25:usDollar ;
+	dbp:unemployment	""@en ,
+		"5.0"^^ns25:perCent ,
+		10.300000000000000711 .
+dbr:Agriculture_in_Austria	dbo:wikiPageWikiLink	dbr:Economy_of_Austria .
+dbr:Administration_for_Soviet_Property_in_Austria	dbo:wikiPageWikiLink	dbr:Economy_of_Austria .
+dbr:Austrian_School	owl:differentFrom	dbr:Economy_of_Austria .
+dbr:List_of_largest_Austrian_companies	dbo:wikiPageWikiLink	dbr:Economy_of_Austria .

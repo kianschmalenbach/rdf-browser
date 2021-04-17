@@ -1,0 +1,1208 @@
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+<http://dbpedia.org/resource/China_Open_(tennis)>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2017_China_Open_(tennis)>	dbo:championInDoubleMale	dbr:Henri_Kontinen ;
+	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2011_ATP_Challenger_Tour>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2013_ATP_Challenger_Tour>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+dbr:Hsieh_Su-wei	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+dbr:Julian_Knowle	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/Ruben_Gonzales_(tennis)>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2014_Sarasota_Open>	dbo:championInDoubleMale	dbr:Henri_Kontinen ;
+	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2014_Savannah_Challenger>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2014_US_Open_\u2013_Men\u0027s_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2016_Australian_Open>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2016_US_Open_(tennis)>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2016_in_tennis>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2017_US_Open_(tennis)>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+dbr:Christopher_Rungkat	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+dbr:Mitchell_Krueger	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2018_US_Open_(tennis)>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2019_US_Open_(tennis)>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2019_in_tennis>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2013_ITF_Men\u0027s_Circuit_(April\u2013June)>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/Queen\u0027s_Club_Championships>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+dbr:Hamburg_European_Open	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2008_French_Open>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2008_US_Open_(tennis)>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2008_Wimbledon_Championships>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+dbr:Tampere_Open	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2009_ATP_Challenger_Tour>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Finland_Davis_Cup_team	dbp:doublesWins	dbr:Henri_Kontinen ;
+	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+dbr:List_of_Finnish_sportspeople	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2009_Caversham_International_Tennis_Tournament_\u2013_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2010_Tampere_Open>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2011_Tampere_Open>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+dbr:Micke_Kontinen	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2014_Heilbronner_Neckarcup>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2014_Intersport_Heilbronn_Open>	dbo:championInDoubleMale	dbr:Henri_Kontinen ;
+	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2016_German_Open>	dbo:championInDoubleMale	dbr:Henri_Kontinen ;
+	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+dbr:Tennis_in_Australia	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2010_ITF_Men\u0027s_Circuit_(October\u2013December)>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2009_If_Stockholm_Open>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2015_Topshelf_Open>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2020_Dubai_Tennis_Championships_\u2013_Men\u0027s_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+dbr:Kontinen	dbo:wikiPageWikiLink	dbr:Henri_Kontinen ;
+	dbo:wikiPageDisambiguates	dbr:Henri_Kontinen .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+wikipedia-en:Henri_Kontinen	foaf:primaryTopic	dbr:Henri_Kontinen .
+dbr:Jamie_Murray_career_statistics	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+dbr:Courtney_John_Lock	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+dbr:Henri	dbo:wikiPageWikiLink	dbr:Henri_Kontinen ;
+	dbo:wikiPageDisambiguates	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2010_If_Stockholm_Open_\u2013_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2013_IPP_Open_\u2013_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2014_IPP_Open_\u2013_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2014_Stockholm_Open_\u2013_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2009_IPP_Open_\u2013_Singles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2009_If_Stockholm_Open_\u2013_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2013_Svijany_Open_\u2013_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+dbr:Philipp_Petzschner	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/Mirza_Ba\u0161i\u0107>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+@prefix ns5:	<http://dbpedia.org/resource/2013_Davis_Cup_Europe/> .
+ns5:Africa_Zone_Group_II	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+@prefix ns6:	<http://dbpedia.org/resource/2014_Davis_Cup_Europe/> .
+ns6:Africa_Zone_Group_II	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+@prefix ns7:	<http://dbpedia.org/resource/2016_Davis_Cup_Europe/> .
+ns7:Africa_Zone_Group_II	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2009_BH_Telecom_Indoors>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2010_ITF_Men\u0027s_Circuit>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2016_BMW_Open>	dbo:championInDoubleMale	dbr:Henri_Kontinen ;
+	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2020_Qatar_ExxonMobil_Open>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2015_Gerry_Weber_Open_\u2013_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2019_Barcelona_Open_Banco_Sabadell_\u2013_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2016_Rakuten_Japan_Open_Tennis_Championships_\u2013_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2015_Winston-Salem_Open_\u2013_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2016_Winston-Salem_Open_\u2013_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/Guillermo_Garc\u00EDa_L\u00F3pez>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+dbr:Chung_Hyeon	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/Adri\u00E1n_Men\u00E9ndez_Maceiras>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+@prefix ns8:	<http://dbpedia.org/resource/2009_Davis_Cup_Europe/> .
+ns8:Africa_Zone_Group_II	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2016_Stan_Wawrinka_tennis_season>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+dbr:Nicolas_Mahut_career_statistics	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+dbr:ATP_Finals	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+dbr:List_of_Wimbledon_mixed_doubles_champions	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/Dan_Evans_(tennis)>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2017_Dubai_Tennis_Championships_\u2013_Men\u0027s_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/Washington_Open_(tennis)>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+dbr:Treat_Huey	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2014_ATP_World_Tour>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2015_ATP_World_Tour>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2016_WTA_Tour>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2017_Citi_Open>	dbo:championInDoubleMale	dbr:Henri_Kontinen ;
+	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2017_WTA_Tour>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2018_Citi_Open>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2013_Pozna\u0144_Open>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2014_Pozna\u0144_Open>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2010_Pozna\u0144_Porsche_Open>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/Pozna\u0144_Open>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+dbr:David_Sammel	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/Adam_Pavl\u00E1sek>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2015_Brisbane_International_\u2013_Men\u0027s_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2016_Brisbane_International_\u2013_Men\u0027s_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2014_Kazan_Kremlin_Cup_\u2013_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2010_IPP_Open_\u2013_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2010_Ixian_Grand_Aegean_Tennis_Cup_\u2013_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2013_Bauer_Watertechnology_Cup_\u2013_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2014_Trofeo_Faip\u2013Perrel_\u2013_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2010_IPP_Open_\u2013_Singles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2020_Davis_Cup_World_Group_I_Play-offs>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2015_in_tennis>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2017_in_tennis>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2017_in_Australia>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+dbr:ATP_Tour_500	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+dbr:ATP_Tour_Masters_1000	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+dbr:Daniel_Nestor	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/Robert_Farah_(tennis)>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+dbr:Vasek_Pospisil	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+dbr:Denis_Shapovalov	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+dbr:Gabriela_Dabrowski	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+dbr:Pierre-Ludovic_Duclos	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+@prefix ns9:	<http://dbpedia.org/resource/2011_Davis_Cup_Europe/> .
+ns9:Africa_Zone_Group_I	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2011_ITF_Men\u0027s_Circuit_(January\u2013March)>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+dbr:Mikhail_Elgin	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2008_ATP_Challenger_Series>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+dbr:Bryan_brothers	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+dbr:Victoria_Azarenka	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2019_Canadian_Open_(tennis)>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/Canadian_Open_(tennis)>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+dbr:Martina_Hingis_career_statistics	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+dbr:List_of_French_Open_champions	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+dbr:List_of_Open_era_Grand_Slam_champions_by_country	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2015_French_Open_\u2013_Day-by-day_summaries>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2015_Wimbledon_Championships_\u2013_Day-by-day_summaries>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2016_Wimbledon_Championships_\u2013_Day-by-day_summaries>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2017_French_Open_\u2013_Day-by-day_summaries>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2017_Wimbledon_Championships_\u2013_Day-by-day_summaries>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2018_French_Open_\u2013_Day-by-day_summaries>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2018_Wimbledon_Championships_\u2013_Day-by-day_summaries>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2019_French_Open_\u2013_Day-by-day_summaries>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2019_Wimbledon_Championships_\u2013_Day-by-day_summaries>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+dbr:List_of_highest_ranked_tennis_players_per_country	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+dbr:Yonex	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2019_Australian_Open>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2013_Tampere_Open>	dbo:championInDoubleMale	dbr:Henri_Kontinen ;
+	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2014_ATP_World_Tour_Finals>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+dbr:Zagreb_Indoors	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/Austrian_Open_Kitzb\u00FChel>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/Barcelona_Open_(tennis)>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+dbr:Slovak_Open	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+dbr:Bavarian_International_Tennis_Championships	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2009_Caversham_International_Tennis_Tournament>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2010_Aegon_Pro-Series_Loughborough>	dbo:championInDoubleMale	dbr:Henri_Kontinen ;
+	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2010_Aegon_Pro-Series_Loughborough_\u2013_Men\u0027s_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2010_Aegon_Pro-Series_Loughborough_\u2013_Men\u0027s_Singles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+dbr:Caversham_International_Tennis_Tournament	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+dbr:Sarasota_Open	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2009_Aegean_Tennis_Cup>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+dbr:Intersport_Heilbronn_Open	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+dbr:Brisbane_International	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+dbr:Rotterdam_Open	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+dbr:Swiss_Indoors	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+dbr:IPP_Open	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+dbr:Moselle_Open	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+dbr:Ixian_Grand_Aegean_Tennis_Cup	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+dbr:Winston-Salem_Open	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+dbr:World_Tennis_Challenge	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2015_Barcelona_Open_Banc_Sabadell>	dbo:championInDoubleMale	dbr:Henri_Kontinen ;
+	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2017_Barcelona_Open_Banco_Sabadell>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2018_Barcelona_Open_Banco_Sabadell>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2014_Wimbledon_Championships_\u2013_Mixed_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2016_French_Open_\u2013_Mixed_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+dbr:List_of_ATP_number_1_ranked_doubles_tennis_players	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2014_French_Open_\u2013_Men\u0027s_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2014_Topshelf_Open_\u2013_Men\u0027s_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2014_Wimbledon_Championships_\u2013_Men\u0027s_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2015_Australian_Open>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2015_Australian_Open_\u2013_Men\u0027s_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2015_Barcelona_Open_Banc_Sabadell_\u2013_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2015_Erste_Bank_Open_\u2013_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2015_French_Open_\u2013_Men\u0027s_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2015_French_Open_\u2013_Mixed_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2015_Miami_Open_\u2013_Men\u0027s_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2015_Monte-Carlo_Rolex_Masters_\u2013_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2015_Mutua_Madrid_Open_\u2013_Men\u0027s_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2015_Rakuten_Japan_Open_Tennis_Championships_\u2013_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2015_US_Open_\u2013_Men\u0027s_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2015_US_Open_\u2013_Mixed_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2015_Wimbledon_Championships_\u2013_Men\u0027s_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2015_Wimbledon_Championships_\u2013_Mixed_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2016_ATP_World_Tour_Finals>	dbo:championInDoubleMale	dbr:Henri_Kontinen ;
+	dbo:wikiPageWikiLink	dbr:Henri_Kontinen ;
+	dbp:team5Abbrev	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2016_ATP_World_Tour_Finals_\u2013_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2016_Australian_Open_\u2013_Men\u0027s_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2016_BNP_Paribas_Masters_\u2013_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2016_BNP_Paribas_Open_\u2013_Men\u0027s_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2016_Barcelona_Open_Banc_Sabadell_\u2013_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2016_Citi_Open_\u2013_Men\u0027s_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2016_French_Open>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2016_French_Open_\u2013_Men\u0027s_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2016_Gerry_Weber_Open_\u2013_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2016_Italian_Open_\u2013_Men\u0027s_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2016_Miami_Open_\u2013_Men\u0027s_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2016_Monte-Carlo_Rolex_Masters_\u2013_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2016_Mutua_Madrid_Open_\u2013_Men\u0027s_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2016_Rogers_Cup_\u2013_Men\u0027s_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2016_Shanghai_Rolex_Masters_\u2013_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2016_Swiss_Indoors_\u2013_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2016_US_Open_\u2013_Men\u0027s_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2016_US_Open_\u2013_Mixed_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2016_Western_&_Southern_Open_\u2013_Men\u0027s_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2016_Wimbledon_Championships_\u2013_Men\u0027s_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2016_Wimbledon_Championships_\u2013_Mixed_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2017_Australian_Open>	dbo:championInDoubleMale	dbr:Henri_Kontinen ;
+	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2017_Australian_Open_\u2013_Men\u0027s_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2017_BMW_Open_\u2013_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2017_BNP_Paribas_Open_\u2013_Men\u0027s_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2017_French_Open_\u2013_Men\u0027s_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2017_German_Open_\u2013_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2017_Italian_Open_\u2013_Men\u0027s_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2017_Miami_Open_\u2013_Men\u0027s_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2017_Monte-Carlo_Rolex_Masters_\u2013_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2017_Mutua_Madrid_Open_\u2013_Men\u0027s_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2017_US_Open_\u2013_Men\u0027s_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2017_Wimbledon_Championships_\u2013_Men\u0027s_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2017_Wimbledon_Championships_\u2013_Mixed_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2017_Winston-Salem_Open_\u2013_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2018_ATP_Finals>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2018_Australian_Open_\u2013_Men\u0027s_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2018_Australian_Open_\u2013_Mixed_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2018_BNP_Paribas_Open_\u2013_Men\u0027s_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+dbr:Jack_Sock_career_statistics	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2018_French_Open_\u2013_Men\u0027s_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2018_French_Open_\u2013_Mixed_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2018_Miami_Open_\u2013_Men\u0027s_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2018_Mutua_Madrid_Open_\u2013_Men\u0027s_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2018_Rakuten_Japan_Open_Tennis_Championships_\u2013_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2018_Wimbledon_Championships_\u2013_Men\u0027s_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2018_Wimbledon_Championships_\u2013_Mixed_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2019_ATP_Finals_\u2013_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2015_Australian_Open_\u2013_Day-by-day_summaries>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2016_Australian_Open_\u2013_Day-by-day_summaries>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2016_French_Open_\u2013_Day-by-day_summaries>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2016_US_Open_\u2013_Day-by-day_summaries>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2017_Australian_Open_\u2013_Day-by-day_summaries>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2018_Australian_Open_\u2013_Day-by-day_summaries>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+dbr:Bob_Bryan_career_statistics	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/Jo\u00E3o_Sousa_career_statistics>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+dbr:List_of_Tennis_Masters_Series_doubles_champions	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+dbr:Grigor_Dimitrov_career_statistics	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2019_Miami_Open>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2019_Mutua_Madrid_Open>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2014_Topshelf_Open>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2015_BNP_Paribas_Open_\u2013_Men\u0027s_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2015_French_Open>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2016_Gerry_Weber_Open>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2016_Rogers_Cup>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2017_ATP_Finals>	dbp:team2Abbrev	dbr:Henri_Kontinen ;
+	dbo:championInDoubleMale	dbr:Henri_Kontinen ;
+	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2017_BNP_Paribas_Open>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2017_French_Open>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2017_Miami_Open>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2017_Rogers_Cup>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2017_Rogers_Cup_\u2013_Men\u0027s_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2017_Western_&_Southern_Open>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2017_Western_&_Southern_Open_\u2013_Men\u0027s_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2018_Australian_Open>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2018_BNP_Paribas_Open>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2018_Miami_Open>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2018_Mutua_Madrid_Open>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2019_ATP_Finals>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2017_US_Open_\u2013_Day-by-day_summaries>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+dbr:Dustin_Brown_career_statistics	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+dbr:John_Isner_career_statistics	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2018_US_Open_\u2013_Day-by-day_summaries>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+dbr:Dimitar_Kutrovsky	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2018_Rogers_Cup>	dbo:championInDoubleMale	dbr:Henri_Kontinen ;
+	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2015_Italian_Open_\u2013_Men\u0027s_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2017_ATP_Finals_\u2013_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2017_Rolex_Paris_Masters_\u2013_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2018_ATP_Finals_\u2013_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2018_Monte-Carlo_Masters_\u2013_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2018_Rogers_Cup_\u2013_Men\u0027s_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2018_Rolex_Paris_Masters_\u2013_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2018_Shanghai_Rolex_Masters_\u2013_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2018_Western_&_Southern_Open_\u2013_Men\u0027s_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2019_Australian_Open_\u2013_Men\u0027s_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2019_BNP_Paribas_Open_\u2013_Men\u0027s_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2019_Italian_Open_\u2013_Men\u0027s_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2019_Miami_Open_\u2013_Men\u0027s_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2019_Mutua_Madrid_Open_\u2013_Men\u0027s_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2019_Rogers_Cup_\u2013_Men\u0027s_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2019_US_Open_\u2013_Men\u0027s_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2019_Western_&_Southern_Open_\u2013_Men\u0027s_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2019_Wimbledon_Championships_\u2013_Men\u0027s_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2020_Australian_Open_\u2013_Men\u0027s_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2016_Apia_International_Sydney_\u2013_Men\u0027s_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2017_Aegon_Championships_\u2013_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2017_Barcelona_Open_Banco_Sabadell_\u2013_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2017_Citi_Open_\u2013_Men\u0027s_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2018_Barcelona_Open_Banco_Sabadell_\u2013_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2018_Citi_Open_\u2013_Men\u0027s_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2018_Erste_Bank_Open_\u2013_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2018_Italian_Open_\u2013_Men\u0027s_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2018_Queen\u0027s_Club_Championships_\u2013_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2019_ASB_Classic_\u2013_Men\u0027s_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2019_Brisbane_International_\u2013_Men\u0027s_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2019_French_Open_\u2013_Men\u0027s_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2019_Monte-Carlo_Masters_\u2013_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2019_Queen\u0027s_Club_Championships_\u2013_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2010_UNICEF_Open_\u2013_Men\u0027s_Singles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2015_Challenger_La_Manche_\u2013_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2009_BH_Telecom_Indoors_\u2013_Singles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2010_Oberstaufen_Cup_\u2013_Singles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2018_Irving_Tennis_Classic_\u2013_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2013_Slovak_Open>	dbo:championInDoubleMale	dbr:Henri_Kontinen ;
+	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2015_Swiss_Indoors_\u2013_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2017_China_Open_\u2013_Men\u0027s_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2017_Shanghai_Rolex_Masters_\u2013_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2019_China_Open_\u2013_Men\u0027s_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2019_Rolex_Shanghai_Masters_\u2013_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2016_Rakuten_Japan_Open_Tennis_Championships>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+dbr:List_of_Finland_Davis_Cup_team_representatives	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2018_Rakuten_Japan_Open_Tennis_Championships>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2010_ATP_Salzburg_Indoors_\u2013_Singles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2015_Wimbledon_Championships>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2016_Wimbledon_Championships>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen ;
+	dbo:championInMixedDouble	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2017_ATP_World_Tour>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2017_Aegon_Championships>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2017_Novak_Djokovic_tennis_season>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2017_Wimbledon_Championships>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2018_Queen\u0027s_Club_Championships>	dbo:championInDoubleMale	dbr:Henri_Kontinen ;
+	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2018_Wimbledon_Championships>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2019_Queen\u0027s_Club_Championships>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2019_Wimbledon_Championships>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+dbr:Andy_Murray	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+dbr:Rhett_Purcell	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/Shanghai_Masters_(tennis)>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+dbr:List_of_tennis_tournaments	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+dbr:Heather_Watson	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+dbr:Paris_Masters	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2013_Internationaux_de_Tennis_de_Vend\u00E9e>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2014_Challenger_La_Manche>	dbo:championInDoubleMale	dbr:Henri_Kontinen ;
+	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+@prefix ns10:	<http://dbpedia.org/resource/2015_Davis_Cup_Europe/> .
+ns10:Africa_Zone_Group_II	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2015_Open_13>	dbo:championInDoubleMale	dbr:Henri_Kontinen ;
+	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2016_ATP_World_Tour_Masters_1000>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2017_ATP_World_Tour_Masters_1000>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2017_Monte-Carlo_Rolex_Masters>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2018_ATP_World_Tour_Masters_1000>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+@prefix ns11:	<http://dbpedia.org/resource/2008_Davis_Cup_Europe/> .
+ns11:Africa_Zone_Group_II	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2010_Open_de_Rennes>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+dbr:Challenger_La_Manche	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2018_French_Open>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2018_Monte-Carlo_Masters>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2019_French_Open>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2019_Monte-Carlo_Masters>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+dbr:Open_13	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2016_BNP_Paribas_Masters>	dbo:championInDoubleMale	dbr:Henri_Kontinen ;
+	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2017_Rolex_Paris_Masters>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2018_Rolex_Paris_Masters>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2015_St._Petersburg_Open>	dbo:championInDoubleMale	dbr:Henri_Kontinen ;
+	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2016_St._Petersburg_Open>	dbo:championInDoubleMale	dbr:Henri_Kontinen ;
+	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2010_UNICEF_Open>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/St._Petersburg_Open>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2011_Open_Castilla_y_Le\u00F3n>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2014_Bet-at-home_Cup_Kitzb\u00FChel_\u2013_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2014_BMW_Open_\u2013_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2014_Cr\u00E9dit_Agricole_Suisse_Open_Gstaad_\u2013_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2014_Malaysian_Open,_Kuala_Lumpur_\u2013_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2014_Moselle_Open_\u2013_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2009_Caversham_International_Tennis_Tournament_\u2013_Singles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2009_IPP_Open_\u2013_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2015_Apia_International_Sydney_\u2013_Men\u0027s_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2015_Malaysian_Open,_Kuala_Lumpur>	dbo:championInDoubleMale	dbr:Henri_Kontinen ;
+	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+dbr:ATP_Malaysian_Open	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2013_IPP_Open_and_the_Orto-L\u00E4\u00E4k\u00E4rit_Open>	dbo:championInDoubleMale	dbr:Henri_Kontinen ;
+	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2014_IPP_Open_and_the_Orto-L\u00E4\u00E4k\u00E4rit_Open>	dbo:championInDoubleMale	dbr:Henri_Kontinen ;
+	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2009_IPP_Open>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2010_IPP_Open>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2015_Croatia_Open_Umag>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2015_PBZ_Zagreb_Indoors>	dbo:championInDoubleMale	dbr:Henri_Kontinen ;
+	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2009_Tampere_Open>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2013_Pozna\u0144_Open_\u2013_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2014_Pozna\u0144_Open_\u2013_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+dbr:List_of_Wimbledon_Open_Era_champions	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2014_ATP_Challenger_Tour>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2016_Shanghai_Rolex_Masters>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2017_Shanghai_Rolex_Masters>	dbo:championInDoubleMale	dbr:Henri_Kontinen ;
+	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2010_ITF_Men\u0027s_Circuit_(July\u2013September)>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2018_Shanghai_Rolex_Masters>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/List_of_men\u0027s_Grand_Slam,_Olympic_and_ATP_Tour_Finals_and_Masters_Series_doubles_champions>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+dbr:Heather_Watson_career_statistics	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2020_ASB_Classic>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2010_Australian_Open_\u2013_Men\u0027s_Singles_Qualifying>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2018_US_Open_\u2013_Men\u0027s_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/List_of_Grand_Slam_men\u0027s_doubles_champions>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2014_Bet-at-home_Cup_Kitzb\u00FChel>	dbo:championInDoubleMale	dbr:Henri_Kontinen ;
+	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2015_Generali_Open_Kitzb\u00FChel>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2009_K\u00F8bst\u00E6dernes_ATP_Challenger_\u2013_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2016_Winston-Salem_Open>	dbo:championInDoubleMale	dbr:Henri_Kontinen ;
+	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+dbr:List_of_Grand_Slam_mixed_doubles_champions	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/List_of_Australian_Open_men\u0027s_doubles_champions>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2016_Brisbane_International>	dbo:championInDoubleMale	dbr:Henri_Kontinen ;
+	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2017_Brisbane_International>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2018_Brisbane_International>	dbo:championInDoubleMale	dbr:Henri_Kontinen ;
+	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2019_Brisbane_International>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+dbr:GB_Pro-Series_Loughborough	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2014_Intersport_Heilbronn_Open_\u2013_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2014_Slovak_Open_\u2013_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2020_French_Open_\u2013_Men\u0027s_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2019_US_Open_\u2013_Mixed_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/Internationaux_de_Tennis_de_Vend\u00E9e>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2018_US_Open_\u2013_Mixed_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2020_ASB_Classic_\u2013_Men\u0027s_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2020_Qatar_ExxonMobil_Open_\u2013_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2018_Brisbane_International_\u2013_Men\u0027s_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2017_US_Open_\u2013_Mixed_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+dbr:Carlos_Berlocq	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2014_in_tennis>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2011_ITF_Men\u0027s_Circuit_(April\u2013June)>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+dbr:Leonardo_Mayer	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+dbr:Horacio_Zeballos	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+@prefix ns12:	<http://dbpedia.org/resource/2018_Davis_Cup_Europe/> .
+ns12:Africa_Zone_Group_II	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+dbr:October_2016_in_sports	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2013_Citt\u00E0_di_Como_Challenger_\u2013_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2013_Maserati_Challenger_\u2013_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2013_Slovak_Open_\u2013_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2013_Tampere_Open_\u2013_Men\u0027s_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2013_T\u00FCrk_Telecom_\u0130zmir_Cup_\u2013_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2014_Aberto_de_S\u00E3o_Paulo_\u2013_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2014_Challenger_La_Manche_\u2013_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2014_D\u00FCsseldorf_Open_\u2013_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2014_Sarasota_Open_\u2013_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2014_Savannah_Challenger_\u2013_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2014_Swedish_Open_\u2013_Men\u0027s_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2014_Swiss_Indoors_\u2013_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2014_Tampere_Open_\u2013_Men\u0027s_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2014_Swiss_Indoors>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2015_Swiss_Indoors>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2017_Swiss_Indoors>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2008_Wimbledon_Championships_\u2013_Boys\u0027_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2008_Wimbledon_Championships_\u2013_Boys\u0027_Singles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2018_China_Open_\u2013_Men\u0027s_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2017_St._Petersburg_Open_\u2013_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2016_ATP_World_Tour>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2018_ATP_World_Tour>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2019_ATP_Tour>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2020_ATP_Tour>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2016_in_sports>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+@prefix ns13:	<http://dbpedia.org/resource/2010_Davis_Cup_Europe/> .
+ns13:Africa_Zone_Group_I	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2017_Mutua_Madrid_Open>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2018_Western_&_Southern_Open>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2019_BNP_Paribas_Open>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2019_Western_&_Southern_Open>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+dbr:List_of_Australian_Open_champions	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2019_Wimbledon_Championships_\u2013_Mixed_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2020_Australian_Open_\u2013_Mixed_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2019_Australian_Open_\u2013_Day-by-day_summaries>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2019_US_Open_\u2013_Day-by-day_summaries>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2020_Australian_Open_\u2013_Day-by-day_summaries>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/List_of_Grand_Slam_boys\u0027_doubles_champions>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+dbr:Tennis_scoring_system	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2009_If_Stockholm_Open_\u2013_Singles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2015_Generali_Open_Kitzb\u00FChel_\u2013_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+dbr:Skander_Mansouri	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2019_ABN_AMRO_World_Tennis_Tournament>	dbo:championInDoubleMale	dbr:Henri_Kontinen ;
+	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2020_ABN_AMRO_World_Tennis_Tournament>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2015_German_Open_\u2013_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2015_Malaysian_Open,_Kuala_Lumpur_\u2013_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2015_PBZ_Zagreb_Indoors_\u2013_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2015_Sarasota_Open_\u2013_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2015_St._Petersburg_Open_\u2013_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2016_BMW_Open_\u2013_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2016_Dubai_Tennis_Championships_\u2013_Men\u0027s_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2008_French_Open_\u2013_Boys\u0027_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2008_French_Open_\u2013_Boys\u0027_Singles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2008_US_Open_\u2013_Boys\u0027_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2008_US_Open_\u2013_Boys\u0027_Singles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2009_French_Open_\u2013_Boys\u0027_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2009_Tampere_Open_\u2013_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2009_Tampere_Open_\u2013_Singles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2010_Bauer_Watertechnology_Cup_\u2013_Singles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2010_McDonald\u0027s_Burnie_International_\u2013_Men\u0027s_Singles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2010_Tampere_Open_\u2013_Singles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2011_Aegon_Pro-Series_Loughborough_\u2013_Men\u0027s_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2011_Tampere_Open_\u2013_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2011_Tampere_Open_\u2013_Singles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2011_Troph\u00E9e_des_Alpilles_\u2013_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2018_Dubai_Tennis_Championships_\u2013_Men\u0027s_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2019_Dubai_Tennis_Championships_\u2013_Men\u0027s_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2019_Stockholm_Open_\u2013_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2014_Swedish_Open>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+@prefix ns14:	<http://dbpedia.org/resource/2017_Davis_Cup_Europe/> .
+ns14:Africa_Zone_Group_II	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+@prefix ns15:	<http://dbpedia.org/resource/2019_Davis_Cup_Europe/> .
+ns15:Africa_Zone_Group_I	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2019_Stockholm_Open>	dbo:championInDoubleMale	dbr:Henri_Kontinen ;
+	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+dbr:Fred_Simonsson	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+dbr:Stockholm_Open	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+dbr:Markus_Eriksson	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2016_Dubai_Tennis_Championships>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2017_Dubai_Tennis_Championships>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2018_Dubai_Tennis_Championships>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2019_Dubai_Tennis_Championships>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2020_Dubai_Tennis_Championships>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+dbr:Aisam-ul-Haq_Qureshi_career_statistics	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2010_Ixian_Grand_Aegean_Tennis_Cup_\u2013_Singles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2009_Aegean_Tennis_Cup_\u2013_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2009_Aegean_Tennis_Cup_\u2013_Singles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2014_Open_Sud_de_France_\u2013_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2015_Topshelf_Open_\u2013_Men\u0027s_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2016_ABN_AMRO_World_Tennis_Tournament_\u2013_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2019_Rolex_Paris_Masters_\u2013_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2013_Internationaux_de_Tennis_de_Vend\u00E9e_\u2013_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2014_Ethias_Trophy_\u2013_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2014_Moselle_Open>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2014_Open_13_\u2013_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2015_Open_13_\u2013_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2016_Open_13_\u2013_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2017_Brisbane_International_\u2013_Men\u0027s_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2017_Swiss_Indoors_\u2013_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2010_Open_de_Rennes_\u2013_Singles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2011_Open_EuroEnergie_de_Quimper_\u2013_Singles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2011_Troph\u00E9e_des_Alpilles_\u2013_Singles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2019_ABN_AMRO_World_Tennis_Tournament_\u2013_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2019_Erste_Bank_Open_\u2013_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2020_ABN_AMRO_World_Tennis_Tournament_\u2013_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2020_Hamburg_European_Open_\u2013_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2020_Italian_Open_\u2013_Men\u0027s_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+dbr:Bob_Bryan	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+dbr:Rajeev_Ram	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+dbr:Dimitar_Kuzmanov	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+dbr:Dominic_Inglot	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+dbr:Grigor_Dimitrov	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+dbr:Konstantin_Kravchuk	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+dbr:Purav_Raja	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+dbr:Radu_Albot	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+dbr:Albano_Olivetti	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+dbr:Alexander_Kudryavtsev	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+dbr:Alexander_Peya	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+dbr:Alexander_Satschko	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+dbr:Lleyton_Hewitt	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/Chris_Eaton_(tennis)>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/Chris_Guccione_(tennis)>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+dbr:Colin_Fleming	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/Gast\u00E3o_Elias>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+dbr:Gero_Kretschmer	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+dbr:Jean-Julien_Rojer	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/Je\u013Cena_Ostapenko>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+dbr:Jo_Durie	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+dbr:Bernard_Tomic	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+dbr:Ken_Skupski	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+dbr:Zheng_Jie	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/\u00C9douard_Roger-Vasselin>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/\u0141ukasz_Kubot>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+dbr:Michael_Ryderstedt	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/Michael_Venus_(tennis)>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/Micha\u0142_Przysi\u0119\u017Cny>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+dbr:Mike_Bryan	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+dbr:Sam_Groth	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+dbr:Frederik_Nielsen	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/Horia_Tec\u0103u>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+dbr:Hugo_Nys	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/James_Duckworth_(tennis)>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+dbr:Jamie_Murray	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+dbr:Jan-Lennard_Struff	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+dbr:Jarkko_Nieminen	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+dbr:Sebastian_Rieschick	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+dbr:Andre_Begemann	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/Andreas_Siljestr\u00F6m>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+dbr:Andrey_Golubev	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/Anna-Lena_Gr\u00F6nefeld>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+dbr:Artem_Sitak	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+dbr:Raven_Klaasen	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+dbr:Bruno_Soares	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+dbr:Conor_Niland	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+dbr:Leander_Paes	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+dbr:Daniele_Bracciali	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+dbr:Robin_Haase	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+dbr:Fabrice_Martin	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+dbr:Neal_Skupski	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/Nenad_Zimonji\u0107>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+dbr:Nicolas_Mahut	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/Nicol\u00E1s_Almagro>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+dbr:Philipp_Marx	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+dbr:Pierre-Hugues_Herbert	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Henri_Kontinen	rdf:type	yago:Athlete109820263 ,
+		dbo:Athlete .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Henri_Kontinen	rdf:type	wikidata:Q10833314 .
+@prefix ns19:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Henri_Kontinen	rdf:type	ns19:NaturalPerson ,
+		ns19:Agent ,
+		wikidata:Q215627 ,
+		dbo:TennisPlayer ,
+		yago:WikicatFrenchOpenChampions ,
+		yago:WikicatLivingPeople ,
+		yago:LivingThing100004258 ,
+		yago:CausalAgent100007347 ,
+		yago:Contestant109613191 ,
+		dbo:Agent .
+@prefix umbel-rc:	<http://umbel.org/umbel/rc/> .
+dbr:Henri_Kontinen	rdf:type	umbel-rc:TennisPlayer ,
+		yago:YagoLegalActor ,
+		yago:YagoLegalActorGeo ,
+		yago:Player110439851 ,
+		yago:Whole100003553 ,
+		yago:Person100007846 ,
+		yago:PhysicalEntity100001930 ,
+		yago:Organism100004475 ,
+		dbo:Person ,
+		yago:Object100002684 .
+@prefix schema:	<http://schema.org/> .
+dbr:Henri_Kontinen	rdf:type	schema:Person .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Henri_Kontinen	rdf:type	owl:Thing ,
+		yago:Champion109906704 ,
+		yago:Rival110533013 ,
+		yago:TennisPlayer110701180 ,
+		foaf:Person ,
+		wikidata:Q5 ,
+		wikidata:Q24229398 ,
+		yago:WikicatPeopleFromEspoo ,
+		yago:WikicatFinnishMaleTennisPlayers .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Henri_Kontinen	rdfs:label	"Henri Kontinen"@es ,
+		"\u4EA8\u5229\u00B7\u5B54\u8482\u5BE7"@zh ,
+		"Henri Kontinen"@en ,
+		"\u0413\u0435\u043D\u0440\u0456 \u041A\u043E\u043D\u0442\u0456\u043D\u0435\u043D"@uk ,
+		"\u30D8\u30F3\u30EA\u30FB\u30B3\u30F3\u30C6\u30A3\u30CD\u30F3"@ja ,
+		"Henri Kontinen"@ca ,
+		"Henri Kontinen"@sv ,
+		"\u041A\u043E\u043D\u0442\u0438\u043D\u0435\u043D, \u0425\u0435\u043D\u0440\u0438"@ru ,
+		"Henri Kontinen"@cs ,
+		"Henri Kontinen"@pt ,
+		"Henri Kontinen"@pl ,
+		"Henri Kontinen"@nl ,
+		"\u0647\u0646\u0631\u064A \u0643\u0648\u0646\u062A\u064A\u0646\u064A\u0646"@ar ,
+		"Henri Kontinen"@de ,
+		"Henri Kontinen"@it ,
+		"Henri Kontinen"@fr ;
+	rdfs:comment	"Henri Kontinen (Finnish pronunciation: [\u02C8henri \u02C8kontinen]; born 19 June 1990) is a Finnish tennis player. Kontinen has won 21 doubles titles on the ATP Tour in his career. He was formerly ranked as world No. 1 in doubles after winning the 2017 Australian Open men's doubles championship. He reached his best singles rankings of world No. 220 in October 2010. His brother Micke is a retired tennis player."@en ,
+		"Henri Kontinen (* 19. Juni 1990 in Helsinki) ist ein finnischer Tennisspieler. Er ist auf Doppel-Wettbewerbe spezialisiert und f\u00FChrte bereits mehrfach die Weltrangliste im Doppel an."@de ,
+		"\u0425\u0435\u043D\u0440\u0438 \u041A\u043E\u043D\u0442\u0438\u043D\u0435\u043D (\u0444\u0438\u043D. Henri Kontinen; \u0440\u043E\u0434. 19 \u0438\u044E\u043D\u044F 1990, \u0425\u0435\u043B\u044C\u0441\u0438\u043D\u043A\u0438, \u0424\u0438\u043D\u043B\u044F\u043D\u0434\u0438\u044F) \u2014 \u0444\u0438\u043D\u0441\u043A\u0438\u0439 \u043F\u0440\u043E\u0444\u0435\u0441\u0441\u0438\u043E\u043D\u0430\u043B\u044C\u043D\u044B\u0439 \u0442\u0435\u043D\u043D\u0438\u0441\u0438\u0441\u0442; \u043F\u043E\u0431\u0435\u0434\u0438\u0442\u0435\u043B\u044C \u043E\u0434\u043D\u043E\u0433\u043E \u0442\u0443\u0440\u043D\u0438\u0440\u0430 \u0411\u043E\u043B\u044C\u0448\u043E\u0433\u043E \u0448\u043B\u0435\u043C\u0430 \u0432 \u043F\u0430\u0440\u043D\u043E\u043C \u0440\u0430\u0437\u0440\u044F\u0434\u0435 (\u041E\u0442\u043A\u0440\u044B\u0442\u044B\u0439 \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442 \u0410\u0432\u0441\u0442\u0440\u0430\u043B\u0438\u0438-2017); \u043F\u043E\u0431\u0435\u0434\u0438\u0442\u0435\u043B\u044C \u043E\u0434\u043D\u043E\u0433\u043E \u0442\u0443\u0440\u043D\u0438\u0440\u0430 \u0411\u043E\u043B\u044C\u0448\u043E\u0433\u043E \u0448\u043B\u0435\u043C\u0430 \u0432 \u043C\u0438\u043A\u0441\u0442\u0435 (\u0423\u0438\u043C\u0431\u043B\u0434\u043E\u043D-2016); \u0444\u0438\u043D\u0430\u043B\u0438\u0441\u0442 \u043E\u0434\u043D\u043E\u0433\u043E \u0442\u0443\u0440\u043D\u0438\u0440\u0430 \u0411\u043E\u043B\u044C\u0448\u043E\u0433\u043E \u0448\u043B\u0435\u043C\u0430 \u0432 \u043F\u0430\u0440\u043D\u043E\u043C \u0440\u0430\u0437\u0440\u044F\u0434\u0435 (\u041E\u0442\u043A\u0440\u044B\u0442\u044B\u0439 \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442 \u0410\u0432\u0441\u0442\u0440\u0430\u043B\u0438\u0438-2019); \u0444\u0438\u043D\u0430\u043B\u0438\u0441\u0442 \u043E\u0434\u043D\u043E\u0433\u043E \u0442\u0443\u0440\u043D\u0438\u0440\u0430 \u0411\u043E\u043B\u044C\u0448\u043E\u0433\u043E \u0448\u043B\u0435\u043C\u0430 \u0432 \u043C\u0438\u043A\u0441\u0442\u0435 (\u0423\u0438\u043C\u0431\u043B\u0434\u043E\u043D-2017); \u043F\u043E\u0431\u0435\u0434\u0438\u0442\u0435\u043B\u044C \u0434\u0432\u0443\u0445 \u0418\u0442\u043E\u0433\u043E\u0432\u044B\u0445 \u0442\u0443\u0440\u043D\u0438\u0440\u043E\u0432 ATP (2016, 2017) \u0432 \u043F\u0430\u0440\u043D\u043E\u043C \u0440\u0430\u0437\u0440\u044F\u0434\u0435; \u043F\u043E\u0431\u0435\u0434\u0438\u0442\u0435\u043B\u044C 23 \u0442\u0443\u0440\u043D\u0438\u0440\u043E\u0432 ATP \u0432 \u043F\u0430\u0440\u043D\u043E\u043C \u0440\u0430\u0437\u0440\u044F\u0434\u0435; \u0431\u044B\u0432\u0448\u0430\u044F \u043F\u0435\u0440\u0432\u0430\u044F \u0440\u0430\u043A\u0435\u0442\u043A\u0430 \u043C\u0438\u0440\u0430 \u0432 \u043F\u0430\u0440\u043D\u043E\u043C \u0440\u0430\u0437\u0440\u044F\u0434\u0435; \u043F\u043E\u0431\u0435\u0434\u0438\u0442\u0435\u043B\u044C \u043E\u0434\u043D\u043E\u0433\u043E \u044E\u043D\u0438\u043E\u0440\u0441\u043A\u043E\u0433\u043E \u0442\u0443\u0440\u043D\u0438\u0440\u0430 \u0411\u043E\u043B\u044C\u0448\u043E\u0433\u043E \u0448\u043B\u0435\u043C\u0430 \u0432 \u043F\u0430\u0440\u043D\u043E\u043C \u0440\u0430\u0437\u0440\u044F\u0434\u0435 (\u041E\u0442\u043A\u0440\u044B\u0442\u044B\u0439 \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442 \u0424\u0440\u0430\u043D\u0446\u0438\u0438-2008)."@ru ,
+		"Henri Kontinen (Helsinki, 19 juni 1990) is een Fins tennisspeler. Hij heeft 23 ATP-toernooien in het dubbelspel op zijn naam staan. Hij deed mee aan grandslamtoernooien. Hij heeft acht challengers in het dubbelspel op zijn naam staan."@nl ,
+		"\u4EA8\u5229\u00B7\u5B54\u8482\u5B81\uFF08\u82AC\u862D\u8A9E\uFF1AHenri Kontinen\uFF0C1990\u5E746\u670819\u65E5\uFF0D\uFF09\uFF0C\u82AC\u5170\u7537\u5B50\u804C\u4E1A\u7F51\u7403\u8FD0\u52A8\u5458\u3002 \u5B54\u8482\u5B81\u5728\u804C\u4E1A\u751F\u6DAF\u4E2D\u76EE\u524D\u5171\u8D62\u5F97\u4E8622\u4E2A\u51A0\u519B\u5956\u676F\u3002\u57282017\u5E74\u593A\u5F97\u6FB3\u7F51\u7537\u53CC\u51A0\u519B\u540E\uFF0C\u4ED6\u7684\u6392\u540D\u9996\u6B21\u6765\u5230\u53CC\u6253\u4E16\u754C\u7B2C\u4E00\u3002\u4ED6\u57282010\u5E7410\u6708\u62FF\u5230\u4E86\u804C\u4E1A\u751F\u6DAF\u5355\u6253\u6700\u9AD8\u6392\u540D\uFF0C\u4E16\u754C\u7B2C220\u540D\u3002 \u4ED6\u7684\u5F1F\u5F1FMicke Kontinen\u662F\u4E00\u540D\u9000\u5F79\u7F51\u7403\u8FD0\u52A8\u5458\u3002 \u56E0\u4E3A\u4F24\u75C5\uFF0C\u4ED6\u88AB\u8FEB\u4ECE\u5355\u6253\u8F6C\u4E3A\u53CC\u6253\u30022016\u5E74\uFF0C\u4ED6\u548C\u642D\u6863John Peers\u6253\u5165\u6E29\u5E03\u5C14\u767B\u7F51\u7403\u9526\u6807\u8D5B\u7537\u53CC\u56DB\u5206\u4E4B\u4E00\u51B3\u8D5B\uFF0C\u4E0E\u6DF7\u53CC\u642D\u6863Heather Watson\u8D62\u5F97\u4E86\u6DF7\u53CC\u51A0\u519B\u3002 \u4ED6\u4E0EJohn Peers\u8FDE\u7EED2016\uFF0C2017\u5E74\u62FF\u4E0B\u4E86ATP\u5E74\u7EC8\u603B\u51B3\u8D5B\u7684\u51A0\u519B\u3002\u4ED6\u548CJohn Peers\u57282017\u5E74\u62FF\u4E0B\u6FB3\u7F51\u7537\u53CC\u51A0\u519B\u662F\u4ED6\u7684\u7B2C\u4E00\u4E2A\u7537\u53CC\u5927\u6EE1\u8D2F\u5934\u8854\u3002"@zh ,
+		"Henri Kontinen  nacido el 19 de junio de 1990 es un tenista profesional finland\u00E9s."@es ,
+		"Henri Kontinen (* 19. \u010Dervna 1990 Helsinky) je finsk\u00FD profesion\u00E1ln\u00ED tenista, v\u00EDt\u011Bz mu\u017Esk\u00E9ho deblu na Australian Open 2017 a Turnaji mistr\u016F 2016 z Lond\u00FDna, kdy\u017E v obou p\u0159\u00EDpadech triumfoval s Australanem Johnem Peersem. Od dubna do listopadu 2017 byl ve dvou odd\u011Blen\u00FDch obdob\u00EDch sv\u011Btovou jedni\u010Dkou ve \u010Dty\u0159h\u0159e, celkov\u011B pades\u00E1tou v po\u0159ad\u00ED a historicky prvn\u00ED v jak\u00E9koli tenisov\u00E9 sout\u011B\u017Ei z Finska. Na \u010Dele str\u00E1vil 26 t\u00FDdn\u016F. B\u011Bhem kari\u00E9ry tr\u00E9noval v tenisov\u00FDch centrech v Uppsale, Praze a akademii Nicka Bollettieriho ve floridsk\u00E9m Bradentonu. Mlad\u0161\u00ED bratr Micke Kontinen (nar. 1992) je tak\u00E9 tenista."@cs ,
+		"\u0647\u0646\u0631\u064A \u0643\u0648\u0646\u062A\u064A\u0646\u064A\u0646 (\u0628\u0627\u0644\u0641\u0646\u0644\u0646\u062F\u064A\u0629: Henri Kontinen) \u0645\u0648\u0627\u0644\u064A\u062F 19 \u064A\u0648\u0646\u064A\u0648 1990 \u0641\u064A \u0647\u0644\u0633\u0646\u0643\u064A\u060C \u0647\u0648 \u0644\u0627\u0639\u0628 \u0643\u0631\u0629 \u0645\u0636\u0631\u0628 \u0641\u0646\u0644\u0646\u062F\u064A \u064A\u0644\u0639\u0628 \u0628\u0627\u0644\u064A\u062F \u0627\u0644\u064A\u0645\u0646\u0649. \u0623\u0639\u0644\u0649 \u062A\u0635\u0646\u064A\u0641 \u0644\u0647 \u0641\u064A \u0627\u0644\u0641\u0631\u062F\u064A \u0643\u0627\u0646 \u0627\u0644\u0645\u0631\u0643\u0632 \u0627\u0644\u0640 220 \u0641\u064A \u0633\u0646\u0629 2010."@ar ,
+		"Henri Kontinen  (nascut el 19 de juny de 1990) \u00E9s un tennista professional finland\u00E8s."@ca ,
+		"Henri Kontinen, f\u00F6dd 19 juni 1990 i Helsingfors, \u00E4r en finl\u00E4ndsk h\u00F6gerh\u00E4nt tennisspelare. Henri Kontinen har bott i bland annat Tammerfors, Esbo, Uppsala och Tjeckien."@sv ,
+		"Henri Kontinen (Helsinki, 19 de Junho de 1990) \u00E9 um tenista profissional finland\u00EAs. Em 2017, se torna no primeiro jogador da Finl\u00E2ndia a liderar um ranking mundial de t\u00EAnis. E isso aconteceu ao se tornar n\u00FAmero 1 do mundo no ranking de duplas da ATP. No final da temporada de 2016, atuando ao lado do australiano John Peers, conquistou o t\u00EDtulo de duplas do ATP World Tour Finals. Na decis\u00E3o, Kontinen e Peers superaram o sul-africano Raven Klaasen e o norte-americano Rajeev Raam, estes os s\u00E9timos favoritos, em tr\u00EAs 'sets', pelas parciais de 2-6, 6-1 e 10-8, em uma hora e dez minutos."@pt ,
+		"Henri Kontinen (Helsinki, 19 giugno 1990) \u00E8 un tennista finlandese."@it ,
+		"\u0413\u0435\u043D\u0440\u0456 \u041A\u043E\u043D\u0442\u0456\u043D\u0435\u043D (\u0444\u0456\u043D. Henri Kontinen) \u2014 \u0444\u0456\u043D\u0441\u044C\u043A\u0438\u0439 \u0442\u0435\u043D\u0456\u0441\u0438\u0441\u0442, \u0441\u043F\u0435\u0446\u0456\u0430\u043B\u0456\u0441\u0442 \u0456\u0437 \u043F\u0430\u0440\u043D\u043E\u0457 \u0433\u0440\u0438, \u0434\u0432\u043E\u0440\u0430\u0437\u043E\u0432\u0438\u0439 \u0447\u0435\u043C\u043F\u0456\u043E\u043D \u0442\u0443\u0440\u043D\u0456\u0440\u0456\u0432 \u0412\u0435\u043B\u0438\u043A\u043E\u0433\u043E \u0448\u043E\u043B\u043E\u043C\u0430 \u2014 \u043E\u0434\u0438\u043D \u0440\u0430\u0437 \u0443 \u043F\u0430\u0440\u043D\u043E\u043C\u0443 \u0440\u043E\u0437\u0440\u044F\u0434\u0456 \u0439 \u043E\u0434\u0438\u043D \u0440\u0430\u0437 \u0443 \u043C\u0456\u043A\u0441\u0442\u0456, \u0434\u0432\u043E\u0440\u0430\u0437\u043E\u0432\u0438\u0439 \u043F\u0435\u0440\u0435\u043C\u043E\u0436\u0435\u0446\u044C \u043F\u0456\u0434\u0441\u0443\u043C\u043A\u043E\u0432\u043E\u0433\u043E \u0442\u0443\u0440\u043D\u0456\u0440\u0443 \u0440\u043E\u043A\u0443, \u043A\u043E\u043B\u0438\u0448\u043D\u044F \u043F\u0435\u0440\u0448\u0430 \u0440\u0430\u043A\u0435\u0442\u043A\u0430 \u0441\u0432\u0456\u0442\u0443 \u0432 \u043F\u0430\u0440\u043D\u0456\u0439 \u0433\u0440\u0456. \u041D\u0430 \u044E\u043D\u0456\u043E\u0440\u0441\u044C\u043A\u043E\u043C\u0443 \u0440\u0456\u0432\u043D\u0456 \u041A\u043E\u043D\u0442\u0456\u043D\u0435\u043D \u0432\u0438\u0433\u0440\u0430\u0432 \u0420\u043E\u043B\u0430\u043D-\u0413\u0430\u0440\u0440\u043E\u0441 \u0443 \u043F\u0430\u0440\u043D\u043E\u043C\u0443 \u0440\u043E\u0437\u0440\u044F\u0434\u0456, \u0431\u0443\u0432 \u0444\u0456\u043D\u0430\u043B\u0456\u0441\u0442\u043E\u043C \u0412\u0456\u043C\u0431\u043B\u0434\u043E\u043D\u0443 \u0432 \u043E\u0434\u0438\u043D\u043E\u0447\u043D\u043E\u043C\u0443 \u0440\u043E\u0437\u0440\u044F\u0434\u0456 \u0439 \u0444\u0456\u043D\u0430\u043B\u0456\u0441\u0442\u043E\u043C \u0412\u0456\u0434\u043A\u0440\u0438\u0442\u043E\u0433\u043E \u0447\u0435\u043C\u043F\u0456\u043E\u043D\u0430\u0442\u0443 \u0421\u0428\u0410 \u0432 \u043F\u0430\u0440\u043D\u043E\u043C\u0443 \u0440\u043E\u0437\u0440\u044F\u0434\u0456. \u0410\u043B\u0435 \u0442\u0440\u0430\u0432\u043C\u0430 \u043A\u043E\u043B\u0456\u043D\u0430 \u0437\u0430\u0432\u0430\u0434\u0438\u043B\u0430 \u0439\u043E\u0433\u043E \u043E\u0434\u0438\u043D\u043E\u0447\u043D\u0456\u0439 \u043A\u0430\u0440'\u0454\u0440\u0456, \u0439 \u0437 2013 \u0440\u043E\u043A\u0443 \u0432\u0456\u043D \u0433\u0440\u0430\u0454 \u0442\u0456\u043B\u044C\u043A\u0438 \u0432 \u043F\u0430\u0440\u0430\u0445."@uk ,
+		"\u30D8\u30F3\u30EA\u30FB\u30B3\u30F3\u30C6\u30A3\u30CD\u30F3\uFF08Henri Kontinen, 1990\u5E746\u670819\u65E5 - \uFF09\u306F\u3001\u30D5\u30A3\u30F3\u30E9\u30F3\u30C9\u306E\u7537\u5B50\u30D7\u30ED\u30C6\u30CB\u30B9\u9078\u624B\u3002\u30D8\u30EB\u30B7\u30F3\u30AD\u51FA\u8EAB\u3067\u30A8\u30B9\u30C8\u30CB\u30A2\u30FB\u30BF\u30EA\u30F3\u306B\u5728\u4F4F\u3002\u30C0\u30D6\u30EB\u30B9\u306714\u52DD\u3092\u6319\u3052\u3066\u3044\u308B\u3002\u81EA\u5DF1\u6700\u9AD8\u30E9\u30F3\u30AD\u30F3\u30B0\u306F\u30B7\u30F3\u30B0\u30EB\u30B9220\u4F4D\u3001\u30C0\u30D6\u30EB\u30B91\u4F4D\u3002\u8EAB\u9577191cm\u3001\u4F53\u91CD82kg\u3002\u53F3\u5229\u304D\u3001\u30D0\u30C3\u30AF\u30CF\u30F3\u30C9\u30FB\u30B9\u30C8\u30ED\u30FC\u30AF\u306F\u7247\u624B\u6253\u3061\u30022016\u5E74\u30A6\u30A3\u30F3\u30D6\u30EB\u30C9\u30F3\u9078\u624B\u6A29\u6DF7\u5408\u30C0\u30D6\u30EB\u30B9\u30012016\u5E74ATP\u30EF\u30FC\u30EB\u30C9\u30C4\u30A2\u30FC\u30FB\u30D5\u30A1\u30A4\u30CA\u30EB\u7537\u5B50\u30C0\u30D6\u30EB\u30B9\u30012017\u5E74\u5168\u8C6A\u30AA\u30FC\u30D7\u30F3\u7537\u5B50\u30C0\u30D6\u30EB\u30B9\u512A\u52DD\u3002"@ja ,
+		"Henri Kontinen (ur. 19 czerwca 1990 w Helsinkach) \u2013 fi\u0144ski tenisista, zwyci\u0119zca Wimbledonu 2016 w grze mieszanej oraz Australian Open 2017 w grze podw\u00F3jnej, lider rankingu ATP deblist\u00F3w, reprezentant w Pucharze Davisa."@pl ,
+		"Henri Kontinen, n\u00E9 le 19 juin 1990 \u00E0 Helsinki, est un joueur de tennis finlandais professionnel depuis 2009. Sp\u00E9cialiste du double, il a remport\u00E9 vingt-trois titres dans cette discipline dont l'Open d'Australie 2017 et deux Masters en 2016 et 2017 avec l'Australien John Peers et s'est class\u00E9 \u00E0 la premi\u00E8re place mondiale du classement ATP en avril 2017. Il s'est \u00E9galement impos\u00E9 en double mixte au tournoi de Wimbledon 2016 avec la Britannique Heather Watson."@fr ;
+	foaf:homepage	<http://www.henrikontinen.com/> ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Kontinen_RG15_(3)_(18685101824).jpg> ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Henri_Kontinen .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Henri_Kontinen	dct:subject	dbc:Wimbledon_champions ,
+		<http://dbpedia.org/resource/Category:Australian_Open_(tennis)_champions> ,
+		dbc:Sportspeople_from_Espoo ,
+		dbc:Living_people ,
+		dbc:Sportspeople_from_Helsinki ,
+		dbc:French_Open_junior_champions ,
+		<http://dbpedia.org/resource/Category:Grand_Slam_(tennis)_champions_in_boys\u0027_doubles> ,
+		<http://dbpedia.org/resource/Category:Grand_Slam_(tennis)_champions_in_mixed_doubles> ,
+		dbc:Finnish_male_tennis_players ,
+		<http://dbpedia.org/resource/Category:Grand_Slam_(tennis)_champions_in_men\u0027s_doubles> ,
+		<http://dbpedia.org/resource/Category:1990_births> .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Henri_Kontinen	owl:sameAs	dbpedia-it:Henri_Kontinen .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Henri_Kontinen	owl:sameAs	dbpedia-pt:Henri_Kontinen ,
+		<http://ru.dbpedia.org/resource/\u041A\u043E\u043D\u0442\u0438\u043D\u0435\u043D,_\u0425\u0435\u043D\u0440\u0438> ,
+		<http://uk.dbpedia.org/resource/\u0413\u0435\u043D\u0440\u0456_\u041A\u043E\u043D\u0442\u0456\u043D\u0435\u043D> ,
+		<http://fa.dbpedia.org/resource/\u0647\u0627\u0646\u0631\u06CC_\u06A9\u0648\u0646\u062A\u06CC\u0646\u0646> .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Henri_Kontinen	owl:sameAs	yago-res:Henri_Kontinen ,
+		wikidata:Q13538 .
+@prefix dbpedia-fi:	<http://fi.dbpedia.org/resource/> .
+dbr:Henri_Kontinen	owl:sameAs	dbpedia-fi:Henri_Kontinen ,
+		<http://sr.dbpedia.org/resource/\u0425\u0435\u043D\u0440\u0438_\u041A\u043E\u043D\u0442\u0438\u043D\u0435\u043D> .
+@prefix dbpedia-et:	<http://et.dbpedia.org/resource/> .
+dbr:Henri_Kontinen	owl:sameAs	dbpedia-et:Henri_Kontinen .
+@prefix dbpedia-da:	<http://da.dbpedia.org/resource/> .
+dbr:Henri_Kontinen	owl:sameAs	dbpedia-da:Henri_Kontinen .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Henri_Kontinen	owl:sameAs	dbpedia-nl:Henri_Kontinen .
+@prefix dbpedia-cs:	<http://cs.dbpedia.org/resource/> .
+dbr:Henri_Kontinen	owl:sameAs	dbpedia-cs:Henri_Kontinen .
+@prefix ns34:	<http://data.europa.eu/euodp/jrc-names/> .
+dbr:Henri_Kontinen	owl:sameAs	ns34:Henri_Kontinen .
+@prefix ns35:	<https://global.dbpedia.org/id/> .
+dbr:Henri_Kontinen	owl:sameAs	ns35:NJVJ .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Henri_Kontinen	owl:sameAs	dbpedia-fr:Henri_Kontinen .
+@prefix dbpedia-vi:	<http://vi.dbpedia.org/resource/> .
+dbr:Henri_Kontinen	owl:sameAs	dbpedia-vi:Henri_Kontinen ,
+		<http://arz.dbpedia.org/resource/\u0647\u0646\u0631\u0649_\u0643\u0648\u0646\u062A\u064A\u0646\u064A\u0646> .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:Henri_Kontinen	owl:sameAs	dbpedia-es:Henri_Kontinen .
+@prefix dbpedia-sv:	<http://sv.dbpedia.org/resource/> .
+dbr:Henri_Kontinen	owl:sameAs	dbpedia-sv:Henri_Kontinen ,
+		<http://ar.dbpedia.org/resource/\u0647\u0646\u0631\u064A_\u0643\u0648\u0646\u062A\u064A\u0646\u064A\u0646> ,
+		<http://zh.dbpedia.org/resource/\u4EA8\u5229\u00B7\u5B54\u8482\u5BE7> .
+@prefix dbpedia-ca:	<http://ca.dbpedia.org/resource/> .
+dbr:Henri_Kontinen	owl:sameAs	dbpedia-ca:Henri_Kontinen ,
+		<http://rdf.freebase.com/ns/m.09gpnx4> .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Henri_Kontinen	owl:sameAs	dbpedia-de:Henri_Kontinen .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Henri_Kontinen	owl:sameAs	dbpedia-pl:Henri_Kontinen ,
+		<http://ja.dbpedia.org/resource/\u30D8\u30F3\u30EA\u30FB\u30B3\u30F3\u30C6\u30A3\u30CD\u30F3> ,
+		dbr:Henri_Kontinen .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Henri_Kontinen	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Henri_Kontinen?oldid=984462441&ns=0> ;
+	dbo:country	dbr:Finland .
+@prefix ns44:	<http://dbpedia.org/datatype/> .
+dbr:Henri_Kontinen	dbo:careerPrizeMoney	"3462527.0"^^ns44:Currency ;
+	dbo:plays	"Right-handed (one-handed backhand)" ;
+	dbp:australianopendoublesresult	"W"@en ;
+	dbp:australianopenresult	"Q1"@en ;
+	dbp:careerprizemoney	"3462527.0"^^ns44:usDollar ;
+	dbp:doublestitles	23 ;
+	dbp:frenchopendoublesresult	"QF"@en ;
+	dbp:highestdoublesranking	dbr:List_of_ATP_number_1_ranked_doubles_tennis_players ;
+	dbp:highestsinglesranking	"No. 220"@en ;
+	dbp:plays	"Right-handed"@en ;
+	dbp:singlesrecord	7 ;
+	dbp:singlestitles	0 ;
+	dbp:turnedpro	2008 ;
+	dbp:usopendoublesresult	"SF"@en ;
+	dbp:wimbledondoublesresult	"SF"@en ;
+	dbp:australianopenmixedresult	"SF"@en ;
+	dbp:masterscupdoublesresult	"W"@en ;
+	dbp:mixed	"yes"@en ;
+	dbp:mixedtitles	1 ;
+	dbp:othertournamentsdoubles	"yes"@en ;
+	dbp:residence	dbr:Tallinn ,
+		dbr:Estonia ;
+	dbo:residence	dbr:Estonia ,
+		dbr:Tallinn .
+@prefix ns45:	<http://dbpedia.org/ontology/Person/> .
+dbr:Henri_Kontinen	ns45:height	"191.0"^^ns44:centimetre .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Henri_Kontinen	dbo:height	1.9099999999999999201 ;
+	dbp:frenchopenmixedresult	"SF"@en ;
+	dbp:usopenmixedresult	"QF"@en ;
+	dbp:wimbledonmixedresult	"W"@en ;
+	dbp:updated	"2020-03-22"^^xsd:date ;
+	dbp:name	"Henri Kontinen"@en ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Kontinen_RG15_(3)_(18685101824).jpg?width=300> ;
+	dbo:birthPlace	dbr:Finland ,
+		dbr:Helsinki ;
+	dbp:birthPlace	dbr:Finland ,
+		dbr:Helsinki ;
+	dbo:birthDate	"1990-06-19"^^xsd:date ;
+	dbo:wikiPageID	25078014 ;
+	dbo:wikiPageRevisionID	984462441 ;
+	dbo:wikiPageWikiLink	dbr:Mitchell_Krueger ,
+		dbr:Marin_Draganja ,
+		ns13:Africa_Zone_Group_I ,
+		dbr:Timo_Nieminen ,
+		<http://dbpedia.org/resource/2018_Brisbane_International_\u2013_Men\u0027s_Doubles> ,
+		<http://dbpedia.org/resource/2020_French_Open_\u2013_Men\u0027s_Doubles> ,
+		<http://dbpedia.org/resource/2019_ABN_AMRO_World_Tennis_Tournament_\u2013_Doubles> ,
+		<http://dbpedia.org/resource/2014_Challenger_La_Manche_\u2013_Doubles> ,
+		<http://dbpedia.org/resource/2014_Intersport_Heilbronn_Open_\u2013_Doubles> ,
+		<http://dbpedia.org/resource/2020_ABN_AMRO_World_Tennis_Tournament_\u2013_Doubles> ,
+		dbr:Leander_Paes ,
+		<http://dbpedia.org/resource/2020_Italian_Open_\u2013_Men\u0027s_Doubles> ,
+		dbr:Exmouth ,
+		dbc:Finnish_male_tennis_players ,
+		dbr:Vilnius ,
+		<http://dbpedia.org/resource/Washington_Open_(tennis)> ,
+		dbr:Carlos_Berlocq ,
+		<http://dbpedia.org/resource/2013_Tampere_Open_\u2013_Men\u0027s_Doubles> ,
+		dbr:Andre_Begemann ,
+		<http://dbpedia.org/resource/2018_ATP_World_Tour> ,
+		dbr:ATP_Finals ,
+		dbr:ATP_Malaysian_Open ,
+		dbr:Kuressaare ,
+		<http://dbpedia.org/resource/2016_ATP_World_Tour> ,
+		dbr:Jonathan_Marray ,
+		<http://dbpedia.org/resource/2013_Slovak_Open_\u2013_Doubles> ,
+		dbr:Scott_Oudsema ,
+		<http://dbpedia.org/resource/Franko_\u0160kugor> ,
+		dbr:Konstantin_Kravchuk ,
+		dbr:Hugo_Nys ,
+		dbr:Jan-Lennard_Struff ,
+		<http://dbpedia.org/resource/2019_French_Open_\u2013_Men\u0027s_Doubles> ,
+		<http://dbpedia.org/resource/2019_Monte-Carlo_Masters_\u2013_Doubles> ,
+		<http://dbpedia.org/resource/Nenad_Zimonji\u0107> ,
+		dbr:GB_Pro-Series_Loughborough ,
+		dbr:Rajeev_Ram ,
+		<http://dbpedia.org/resource/Barcelona_Open_(tennis)> ,
+		<http://dbpedia.org/resource/2014_US_Open_\u2013_Men\u0027s_Doubles> ,
+		<http://dbpedia.org/resource/\u0141ukasz_Kubot> ,
+		<http://dbpedia.org/resource/2018_Italian_Open_\u2013_Men\u0027s_Doubles> ,
+		<http://dbpedia.org/resource/2018_Queen\u0027s_Club_Championships_\u2013_Doubles> ,
+		<http://dbpedia.org/resource/2020_ATP_Tour> ,
+		<http://dbpedia.org/resource/2008_Wimbledon_Championships_\u2013_Boys\u0027_Singles> ,
+		dbr:Estonia ,
+		<http://dbpedia.org/resource/2016_St._Petersburg_Open_\u2013_Doubles> ,
+		<http://dbpedia.org/resource/Austrian_Open_Kitzb\u00FChel> ,
+		<http://dbpedia.org/resource/The_Championships,_Wimbledon> ,
+		<http://dbpedia.org/resource/Shanghai_Masters_(tennis)> ,
+		<http://dbpedia.org/resource/2019_ATP_Tour> ,
+		dbr:Pierre-Hugues_Herbert ,
+		dbr:Josh_Goodall ,
+		dbr:Jarkko_Nieminen ,
+		dbr:Zagreb_Indoors ,
+		<http://dbpedia.org/resource/J\u00E9r\u00E9my_Chardy> ,
+		dbr:Vivek_Shokeen ,
+		dbr:Paris_Masters ,
+		dbr:Martina_Hingis ,
+		dbr:Stockholm_Open ,
+		dbr:Winston-Salem_Open ,
+		dbr:Tallinn ,
+		dbr:Mikhail_Elgin ,
+		<http://dbpedia.org/resource/2018_US_Open_\u2013_Men\u0027s_Doubles> ,
+		dbr:Bob_Bryan ,
+		<http://dbpedia.org/resource/Category:Grand_Slam_(tennis)_champions_in_men\u0027s_doubles> ,
+		<http://dbpedia.org/resource/2010_Australian_Open_\u2013_Men\u0027s_Singles_Qualifying> ,
+		dbr:Jamie_Murray ,
+		<http://dbpedia.org/resource/2016_BMW_Open_\u2013_Doubles> ,
+		dbr:Breda ,
+		dbr:Colin_Fleming ,
+		<http://dbpedia.org/resource/2020_Australian_Open_\u2013_Mixed_Doubles> ,
+		<http://dbpedia.org/resource/Michael_Venus_(tennis)> ,
+		<http://dbpedia.org/resource/Category:1990_births> ,
+		<http://dbpedia.org/resource/2010_IPP_Open_\u2013_Doubles> ,
+		dbr:Daniele_Bracciali ,
+		dbr:Purav_Raja ,
+		<http://dbpedia.org/resource/2015_St._Petersburg_Open_\u2013_Doubles> ,
+		dbr:Joseph_Sirianni ,
+		dbr:Bjorn_Fratangelo ,
+		<http://dbpedia.org/resource/2017_French_Open_\u2013_Men\u0027s_Doubles> ,
+		<http://dbpedia.org/resource/2017_Italian_Open_\u2013_Men\u0027s_Doubles> ,
+		<http://dbpedia.org/resource/2017_Miami_Open_\u2013_Men\u0027s_Doubles> ,
+		<http://dbpedia.org/resource/2017_Monte-Carlo_Rolex_Masters_\u2013_Doubles> ,
+		<http://dbpedia.org/resource/2017_Mutua_Madrid_Open_\u2013_Men\u0027s_Doubles> ,
+		<http://dbpedia.org/resource/2017_US_Open_\u2013_Men\u0027s_Doubles> ,
+		<http://dbpedia.org/resource/2017_Wimbledon_Championships_\u2013_Men\u0027s_Doubles> ,
+		ns11:Africa_Zone_Group_II ,
+		<http://dbpedia.org/resource/2017_Wimbledon_Championships_\u2013_Mixed_Doubles> ,
+		dbr:Raven_Klaasen ,
+		dbr:Aisam-ul-Haq_Qureshi ,
+		<http://dbpedia.org/resource/2018_Australian_Open_\u2013_Men\u0027s_Doubles> ,
+		dbr:Frederik_Nielsen ,
+		dbr:Phillip_Simmonds ,
+		<http://dbpedia.org/resource/Dan_Evans_(tennis)> ,
+		<http://dbpedia.org/resource/2018_BNP_Paribas_Open_\u2013_Men\u0027s_Doubles> ,
+		dbr:French_Open ,
+		<http://dbpedia.org/resource/2016_French_Open_\u2013_Men\u0027s_Doubles> ,
+		<http://dbpedia.org/resource/2016_Italian_Open_\u2013_Men\u0027s_Doubles> ,
+		<http://dbpedia.org/resource/2016_Miami_Open_\u2013_Men\u0027s_Doubles> ,
+		<http://dbpedia.org/resource/2016_Monte-Carlo_Rolex_Masters_\u2013_Doubles> ,
+		<http://dbpedia.org/resource/2016_Mutua_Madrid_Open_\u2013_Men\u0027s_Doubles> ,
+		<http://dbpedia.org/resource/2018_French_Open_\u2013_Men\u0027s_Doubles> ,
+		<http://dbpedia.org/resource/2016_Rogers_Cup_\u2013_Men\u0027s_Doubles> ,
+		dbr:Finland ,
+		<http://dbpedia.org/resource/2016_Shanghai_Rolex_Masters_\u2013_Doubles> ,
+		<http://dbpedia.org/resource/2016_US_Open_\u2013_Men\u0027s_Doubles> ,
+		<http://dbpedia.org/resource/2016_Western_&_Southern_Open_\u2013_Men\u0027s_Doubles> ,
+		<http://dbpedia.org/resource/2016_Wimbledon_Championships_\u2013_Men\u0027s_Doubles> ,
+		<http://dbpedia.org/resource/Nicol\u00E1s_Almagro> ,
+		<http://dbpedia.org/resource/2016_Wimbledon_Championships_\u2013_Mixed_Doubles> ,
+		<http://dbpedia.org/resource/2018_Miami_Open_\u2013_Men\u0027s_Doubles> ,
+		<http://dbpedia.org/resource/2018_Mutua_Madrid_Open_\u2013_Men\u0027s_Doubles> ,
+		ns14:Africa_Zone_Group_II ,
+		<http://dbpedia.org/resource/2017_Australian_Open_\u2013_Men\u0027s_Doubles> ,
+		<http://dbpedia.org/resource/2018_Wimbledon_Championships_\u2013_Men\u0027s_Doubles> ,
+		<http://dbpedia.org/resource/2017_BNP_Paribas_Open_\u2013_Men\u0027s_Doubles> ,
+		<http://dbpedia.org/resource/2015_PBZ_Zagreb_Indoors_\u2013_Doubles> ,
+		<http://dbpedia.org/resource/2015_Miami_Open_\u2013_Men\u0027s_Doubles> ,
+		<http://dbpedia.org/resource/2015_Monte-Carlo_Rolex_Masters_\u2013_Doubles> ,
+		<http://dbpedia.org/resource/2015_Mutua_Madrid_Open_\u2013_Men\u0027s_Doubles> ,
+		<http://dbpedia.org/resource/2015_US_Open_\u2013_Men\u0027s_Doubles> ,
+		<http://dbpedia.org/resource/2015_US_Open_\u2013_Mixed_Doubles> ,
+		dbc:Sportspeople_from_Espoo ,
+		<http://dbpedia.org/resource/2015_Wimbledon_Championships_\u2013_Men\u0027s_Doubles> ,
+		<http://dbpedia.org/resource/Category:Grand_Slam_(tennis)_champions_in_mixed_doubles> ,
+		<http://dbpedia.org/resource/2015_Malaysian_Open,_Kuala_Lumpur_\u2013_Doubles> ,
+		dbr:IPP_Open ,
+		<http://dbpedia.org/resource/2016_ATP_World_Tour_Finals_\u2013_Doubles> ,
+		<http://dbpedia.org/resource/2016_Australian_Open_\u2013_Men\u0027s_Doubles> ,
+		<http://dbpedia.org/resource/2016_BNP_Paribas_Masters_\u2013_Doubles> ,
+		<http://dbpedia.org/resource/2016_BNP_Paribas_Open_\u2013_Men\u0027s_Doubles> ,
+		<http://dbpedia.org/resource/China_Open_(tennis)> ,
+		dbr:Ken_Skupski ,
+		dbr:Jack_Sock ,
+		<http://dbpedia.org/resource/2015_Generali_Open_Kitzb\u00FChel_\u2013_Doubles> ,
+		<http://dbpedia.org/resource/2014_French_Open_\u2013_Men\u0027s_Doubles> ,
+		<http://dbpedia.org/resource/2017_Citi_Open_\u2013_Men\u0027s_Doubles> ,
+		<http://dbpedia.org/resource/2008_US_Open_\u2013_Boys\u0027_Doubles> ,
+		dbr:Helsinki ,
+		dbr:Tennis ,
+		<http://dbpedia.org/resource/2018_Monte-Carlo_Masters_\u2013_Doubles> ,
+		<http://dbpedia.org/resource/2018_Rogers_Cup_\u2013_Men\u0027s_Doubles> ,
+		<http://dbpedia.org/resource/2014_Wimbledon_Championships_\u2013_Men\u0027s_Doubles> ,
+		<http://dbpedia.org/resource/2018_Rolex_Paris_Masters_\u2013_Doubles> ,
+		<http://dbpedia.org/resource/2018_Shanghai_Rolex_Masters_\u2013_Doubles> ,
+		<http://dbpedia.org/resource/2018_Western_&_Southern_Open_\u2013_Men\u0027s_Doubles> ,
+		<http://dbpedia.org/resource/2019_Australian_Open_\u2013_Men\u0027s_Doubles> ,
+		dbr:Michael_Ryderstedt ,
+		<http://dbpedia.org/resource/2019_BNP_Paribas_Open_\u2013_Men\u0027s_Doubles> ,
+		<http://dbpedia.org/resource/2019_Italian_Open_\u2013_Men\u0027s_Doubles> ,
+		<http://dbpedia.org/resource/2019_Miami_Open_\u2013_Men\u0027s_Doubles> ,
+		<http://dbpedia.org/resource/2015_Australian_Open_\u2013_Men\u0027s_Doubles> ,
+		<http://dbpedia.org/resource/2019_Mutua_Madrid_Open_\u2013_Men\u0027s_Doubles> ,
+		<http://dbpedia.org/resource/2019_Rogers_Cup_\u2013_Men\u0027s_Doubles> ,
+		<http://dbpedia.org/resource/2015_Barcelona_Open_Banc_Sabadell_\u2013_Doubles> ,
+		<http://dbpedia.org/resource/2019_US_Open_\u2013_Men\u0027s_Doubles> ,
+		<http://dbpedia.org/resource/2019_Western_&_Southern_Open_\u2013_Men\u0027s_Doubles> ,
+		<http://dbpedia.org/resource/2019_Wimbledon_Championships_\u2013_Men\u0027s_Doubles> ,
+		<http://dbpedia.org/resource/2020_Australian_Open_\u2013_Men\u0027s_Doubles> ,
+		dbr:Mariusz_Fyrstenberg ,
+		<http://dbpedia.org/resource/2015_French_Open_\u2013_Men\u0027s_Doubles> ,
+		<http://dbpedia.org/resource/2015_French_Open_\u2013_Mixed_Doubles> ,
+		ns15:Africa_Zone_Group_I ,
+		dbr:Svingvoll ,
+		<http://dbpedia.org/resource/2016_Brisbane_International_\u2013_Men\u0027s_Doubles> ,
+		<http://dbpedia.org/resource/2019_Stockholm_Open_\u2013_Doubles> ,
+		dbr:Rotterdam_Open ,
+		dbr:Nicolas_Mahut ,
+		<http://dbpedia.org/resource/2015_Italian_Open_\u2013_Men\u0027s_Doubles> ,
+		<http://dbpedia.org/resource/2017_ATP_Finals_\u2013_Doubles> ,
+		<http://dbpedia.org/resource/2008_French_Open_\u2013_Boys\u0027_Doubles> ,
+		<http://dbpedia.org/resource/2017_Rolex_Paris_Masters_\u2013_Doubles> ,
+		<http://dbpedia.org/resource/2018_ATP_Finals_\u2013_Doubles> ,
+		dbr:Swiss_Indoors ,
+		<http://dbpedia.org/resource/2013_IPP_Open_\u2013_Doubles> ,
+		dbr:Tipton ,
+		<http://dbpedia.org/resource/2016_Winston-Salem_Open_\u2013_Doubles> ,
+		<http://dbpedia.org/resource/2014_IPP_Open_\u2013_Doubles> ,
+		dbr:John_Peers ,
+		dbr:Fred_Simonsson ,
+		dbr:List_of_ATP_number_1_ranked_doubles_tennis_players ,
+		dbr:John_Isner ,
+		<http://dbpedia.org/resource/Leimen_(Baden)> ,
+		dbr:Ervin_Eleskovic ,
+		dbr:Grigor_Dimitrov ,
+		dbr:Milos_Sekulic ,
+		dbr:Andrey_Golubev ,
+		<http://dbpedia.org/resource/2020_Davis_Cup_World_Group_I_Play-offs> ,
+		dbr:Yannick_Mertens ,
+		<http://dbpedia.org/resource/2013_ATP_World_Tour> ,
+		dbr:Carl_Bergman ,
+		dbr:Jean-Julien_Rojer ,
+		<http://dbpedia.org/resource/Adam_Pavl\u00E1sek> ,
+		<http://dbpedia.org/resource/2015_ATP_World_Tour> ,
+		dbr:Open_13 ,
+		dbr:Michael_McClune ,
+		<http://dbpedia.org/resource/US_Open_(tennis)> ,
+		<http://dbpedia.org/resource/Andreas_Siljestr\u00F6m> ,
+		dbr:Daniel_Nestor ,
+		<http://dbpedia.org/resource/2019_Rolex_Shanghai_Masters_\u2013_Doubles> ,
+		dbr:Bavarian_International_Tennis_Championships ,
+		dbr:Slovak_Open ,
+		<http://dbpedia.org/resource/2017_Shanghai_Rolex_Masters_\u2013_Doubles> ,
+		dbr:Juho_Paukku ,
+		dbr:Philipp_Marx ,
+		dbc:Sportspeople_from_Helsinki ,
+		dbr:Albano_Olivetti ,
+		ns12:Africa_Zone_Group_II ,
+		<http://dbpedia.org/resource/Mait_K\u00FCnnap> ,
+		ns9:Africa_Zone_Group_I ,
+		<http://dbpedia.org/resource/2014_ATP_World_Tour> ,
+		dbr:Cardiff ,
+		dbc:Wimbledon_champions ,
+		dbr:Sebastian_Rieschick ,
+		dbr:Mateusz_Kowalczyk ,
+		<http://dbpedia.org/resource/Anna-Lena_Gr\u00F6nefeld> ,
+		<http://dbpedia.org/resource/2017_China_Open_\u2013_Men\u0027s_Doubles> ,
+		<http://dbpedia.org/resource/2012_ATP_World_Tour> ,
+		dbr:Bernard_Tomic ,
+		dbr:Micke_Kontinen ,
+		dbr:Radu_Albot ,
+		<http://dbpedia.org/resource/St._Petersburg_Open> ,
+		dbr:Vasek_Pospisil ,
+		<http://dbpedia.org/resource/2011_ATP_World_Tour> ,
+		dbr:Gero_Kretschmer ,
+		dbr:Christopher_Rungkat ,
+		dbr:Sarasota_Open ,
+		<http://dbpedia.org/resource/Pozna\u0144_Open> ,
+		dbr:Amstelveen ,
+		dbr:Zheng_Jie ,
+		dbr:Heather_Watson ,
+		dbr:Jordan_Kerr ,
+		<http://dbpedia.org/resource/James_Duckworth_(tennis)> ,
+		dbr:Danderyd_Municipality ,
+		<http://dbpedia.org/resource/2017_Rogers_Cup_\u2013_Men\u0027s_Doubles> ,
+		<http://dbpedia.org/resource/2009_Caversham_International_Tennis_Tournament_\u2013_Doubles> ,
+		dbr:Australian_Open ,
+		<http://dbpedia.org/resource/Canadian_Open_(tennis)> ,
+		<http://dbpedia.org/resource/2017_Western_&_Southern_Open_\u2013_Men\u0027s_Doubles> ,
+		dbr:Alkmaar ,
+		ns7:Africa_Zone_Group_II ,
+		dbr:ATP_Tour ,
+		<http://dbpedia.org/resource/2010_ATP_World_Tour> ,
+		<http://dbpedia.org/resource/Category:Grand_Slam_(tennis)_champions_in_boys\u0027_doubles> ,
+		<http://dbpedia.org/resource/Mate_Pavi\u0107> ,
+		dbc:French_Open_junior_champions ,
+		<http://dbpedia.org/resource/2014_Swiss_Indoors_\u2013_Doubles> ,
+		dbr:Rohan_Bopanna ,
+		dbr:Horacio_Zeballos ,
+		dbr:Philipp_Petzschner ,
+		<http://dbpedia.org/resource/2009_ATP_World_Tour> ,
+		dbr:Tomasz_Bednarek ,
+		<http://dbpedia.org/resource/\u00C9douard_Roger-Vasselin> ,
+		dbr:Leonardo_Mayer ,
+		dbr:Hamburg_European_Open ,
+		dbr:Indian_Wells_Masters ,
+		<http://dbpedia.org/resource/2015_Open_13_\u2013_Doubles> ,
+		<http://dbpedia.org/resource/Italian_Open_(tennis)> ,
+		<http://dbpedia.org/resource/2014_Sarasota_Open_\u2013_Doubles> ,
+		<http://dbpedia.org/resource/Category:Australian_Open_(tennis)_champions> ,
+		dbr:Monte-Carlo_Masters ,
+		<http://dbpedia.org/resource/Miami_Open_(tennis)> ,
+		ns5:Africa_Zone_Group_II ,
+		dbr:Alexander_Satschko ,
+		dbr:Challenger_La_Manche ,
+		dbr:Brisbane_International ,
+		dbc:Living_people ,
+		<http://dbpedia.org/resource/Harri_Heli\u00F6vaara> ,
+		dbr:Mishref ,
+		<http://dbpedia.org/resource/2019_Rolex_Paris_Masters_\u2013_Doubles> ,
+		<http://dbpedia.org/resource/Rub\u00E9n_Ram\u00EDrez_Hidalgo> ,
+		dbr:Marcin_Matkowski ,
+		ns6:Africa_Zone_Group_II ,
+		ns10:Africa_Zone_Group_II ,
+		<http://dbpedia.org/resource/2013_Internationaux_de_Tennis_de_Vend\u00E9e_\u2013_Doubles> ,
+		dbr:Niels_Lootsma ,
+		<http://dbpedia.org/resource/2019_Wimbledon_Championships> ,
+		dbr:Martin_Emmrich ,
+		dbr:Alexander_Peya ,
+		<http://dbpedia.org/resource/2015_BNP_Paribas_Open_\u2013_Men\u0027s_Doubles> ,
+		dbr:Robin_Haase ,
+		dbr:Intersport_Heilbronn_Open ,
+		<http://dbpedia.org/resource/2013_Pozna\u0144_Open_\u2013_Doubles> ,
+		dbr:Treat_Huey ,
+		<http://dbpedia.org/resource/2014_Pozna\u0144_Open_\u2013_Doubles> ,
+		<http://dbpedia.org/resource/Adri\u00E1n_Men\u00E9ndez_Maceiras> ,
+		<http://dbpedia.org/resource/David_\u0160koch> ,
+		dbr:Tampere_Open ,
+		<http://dbpedia.org/resource/Horia_Tec\u0103u> ,
+		<http://dbpedia.org/resource/2017_ATP_World_Tour> ,
+		dbr:Alexander_Kudryavtsev ,
+		dbr:Bruno_Soares ,
+		<http://dbpedia.org/resource/Madrid_Open_(tennis)> ,
+		<http://dbpedia.org/resource/Queen\u0027s_Club_Championships> ,
+		dbr:ATP_Tour_500 ,
+		dbr:Cincinnati_Masters ,
+		dbr:Falun ,
+		<http://dbpedia.org/resource/Ruben_Gonzales_(tennis)> ,
+		dbr:Marcelo_Melo ,
+		dbr:Davis_Cup ,
+		<http://dbpedia.org/resource/2016_Wimbledon_Championships> ,
+		<http://dbpedia.org/resource/2016_German_Open_\u2013_Doubles> ,
+		<http://dbpedia.org/resource/Juan_Sebasti\u00E1n_Cabal> ,
+		<http://dbpedia.org/resource/Goran_To\u0161i\u0107> ,
+		<http://dbpedia.org/resource/Chris_Guccione_(tennis)> ,
+		<http://dbpedia.org/resource/2009_IPP_Open_\u2013_Doubles> ,
+		dbr:Fabrice_Martin ,
+		dbr:United_States_dollar ,
+		<http://dbpedia.org/resource/Dustin_Brown_(tennis)> ,
+		dbr:Caversham_International_Tennis_Tournament ,
+		<http://dbpedia.org/resource/Micha\u0142_Przysi\u0119\u017Cny> ,
+		dbr:Mike_Bryan ,
+		dbr:Julian_Knowle ,
+		<http://dbpedia.org/resource/2008_ATP_Tour> ,
+		<http://dbpedia.org/resource/Guillermo_Garc\u00EDa_L\u00F3pez> ,
+		<http://dbpedia.org/resource/2010_Aegon_Pro-Series_Loughborough_\u2013_Men\u0027s_Doubles> ,
+		<http://dbpedia.org/resource/2014_Moselle_Open_\u2013_Doubles> ,
+		<http://dbpedia.org/resource/Robert_Farah_(tennis)> ,
+		<http://dbpedia.org/resource/2020_French_Open> ,
+		<http://dbpedia.org/resource/Chris_Eaton_(tennis)> ,
+		dbr:Moselle_Open ,
+		<http://dbpedia.org/resource/2014_Bet-at-home_Cup_Kitzb\u00FChel_\u2013_Doubles> ,
+		ns8:Africa_Zone_Group_II ,
+		dbr:Dominic_Inglot ,
+		<http://dbpedia.org/resource/2019_US_Open_\u2013_Mixed_Doubles> ,
+		dbr:Neal_Skupski ,
+		<http://dbpedia.org/resource/Internationaux_de_Tennis_de_Vend\u00E9e> ,
+		dbr:Sarajevo ;
+	dbo:wikiPageExternalLink	<http://www.henrikontinen.com/> .
+@prefix dbt:	<http://dbpedia.org/resource/Template:> .
+dbr:Henri_Kontinen	dbp:wikiPageUsesTemplate	dbt:Top_ten_Finnish_male_doubles_tennis_players ,
+		dbt:Dts ,
+		dbt:Reflist ,
+		dbt:Short_description ,
+		dbt:ATP ,
+		dbt:Convert ,
+		dbt:Ns ,
+		dbt:Wimbledon_mixed_doubles_champions ,
+		dbt:Year-End_Championships_winners_doubles ,
+		dbt:In_lang ,
+		dbt:Tennis_record ,
+		dbt:ATP_Masters_Series_tournament_doubles_winners ,
+		<http://dbpedia.org/resource/Template:ATP_World_No.1_doubles_players> ,
+		dbt:Birth_date_and_age ,
+		dbt:Performance_key ,
+		dbt:Infobox_tennis_biography ,
+		dbt:ITF_profile ,
+		<http://dbpedia.org/resource/Template:Australian_Open_men\u0027s_doubles_champions> ,
+		dbt:IPA-fi ,
+		<http://dbpedia.org/resource/Template:French_Open_boys\u0027_doubles_champions> ,
+		dbt:Davis_Cup_player ,
+		dbt:FIN ,
+		dbt:Flagicon ;
+	dbp:birthDate	"1990-06-19"^^xsd:date ;
+	dbp:caption	"Kontinen at the 2019 Wimbledon Championships"@en ;
+	dbo:abstract	"Henri Kontinen, f\u00F6dd 19 juni 1990 i Helsingfors, \u00E4r en finl\u00E4ndsk h\u00F6gerh\u00E4nt tennisspelare. Henri Kontinen har bott i bland annat Tammerfors, Esbo, Uppsala och Tjeckien."@sv ,
+		"\u0647\u0646\u0631\u064A \u0643\u0648\u0646\u062A\u064A\u0646\u064A\u0646 (\u0628\u0627\u0644\u0641\u0646\u0644\u0646\u062F\u064A\u0629: Henri Kontinen) \u0645\u0648\u0627\u0644\u064A\u062F 19 \u064A\u0648\u0646\u064A\u0648 1990 \u0641\u064A \u0647\u0644\u0633\u0646\u0643\u064A\u060C \u0647\u0648 \u0644\u0627\u0639\u0628 \u0643\u0631\u0629 \u0645\u0636\u0631\u0628 \u0641\u0646\u0644\u0646\u062F\u064A \u064A\u0644\u0639\u0628 \u0628\u0627\u0644\u064A\u062F \u0627\u0644\u064A\u0645\u0646\u0649. \u0623\u0639\u0644\u0649 \u062A\u0635\u0646\u064A\u0641 \u0644\u0647 \u0641\u064A \u0627\u0644\u0641\u0631\u062F\u064A \u0643\u0627\u0646 \u0627\u0644\u0645\u0631\u0643\u0632 \u0627\u0644\u0640 220 \u0641\u064A \u0633\u0646\u0629 2010."@ar ,
+		"Henri Kontinen, n\u00E9 le 19 juin 1990 \u00E0 Helsinki, est un joueur de tennis finlandais professionnel depuis 2009. Sp\u00E9cialiste du double, il a remport\u00E9 vingt-trois titres dans cette discipline dont l'Open d'Australie 2017 et deux Masters en 2016 et 2017 avec l'Australien John Peers et s'est class\u00E9 \u00E0 la premi\u00E8re place mondiale du classement ATP en avril 2017. Il s'est \u00E9galement impos\u00E9 en double mixte au tournoi de Wimbledon 2016 avec la Britannique Heather Watson. Il est membre de l'\u00E9quipe de Finlande de Coupe Davis depuis 2008. Il est le fr\u00E8re de Micke Kontinen, joueur professionnel entre 2010 et 2015."@fr ,
+		"\u30D8\u30F3\u30EA\u30FB\u30B3\u30F3\u30C6\u30A3\u30CD\u30F3\uFF08Henri Kontinen, 1990\u5E746\u670819\u65E5 - \uFF09\u306F\u3001\u30D5\u30A3\u30F3\u30E9\u30F3\u30C9\u306E\u7537\u5B50\u30D7\u30ED\u30C6\u30CB\u30B9\u9078\u624B\u3002\u30D8\u30EB\u30B7\u30F3\u30AD\u51FA\u8EAB\u3067\u30A8\u30B9\u30C8\u30CB\u30A2\u30FB\u30BF\u30EA\u30F3\u306B\u5728\u4F4F\u3002\u30C0\u30D6\u30EB\u30B9\u306714\u52DD\u3092\u6319\u3052\u3066\u3044\u308B\u3002\u81EA\u5DF1\u6700\u9AD8\u30E9\u30F3\u30AD\u30F3\u30B0\u306F\u30B7\u30F3\u30B0\u30EB\u30B9220\u4F4D\u3001\u30C0\u30D6\u30EB\u30B91\u4F4D\u3002\u8EAB\u9577191cm\u3001\u4F53\u91CD82kg\u3002\u53F3\u5229\u304D\u3001\u30D0\u30C3\u30AF\u30CF\u30F3\u30C9\u30FB\u30B9\u30C8\u30ED\u30FC\u30AF\u306F\u7247\u624B\u6253\u3061\u30022016\u5E74\u30A6\u30A3\u30F3\u30D6\u30EB\u30C9\u30F3\u9078\u624B\u6A29\u6DF7\u5408\u30C0\u30D6\u30EB\u30B9\u30012016\u5E74ATP\u30EF\u30FC\u30EB\u30C9\u30C4\u30A2\u30FC\u30FB\u30D5\u30A1\u30A4\u30CA\u30EB\u7537\u5B50\u30C0\u30D6\u30EB\u30B9\u30012017\u5E74\u5168\u8C6A\u30AA\u30FC\u30D7\u30F3\u7537\u5B50\u30C0\u30D6\u30EB\u30B9\u512A\u52DD\u3002"@ja ,
+		"Henri Kontinen (Helsinki, 19 de Junho de 1990) \u00E9 um tenista profissional finland\u00EAs. Em 2017, se torna no primeiro jogador da Finl\u00E2ndia a liderar um ranking mundial de t\u00EAnis. E isso aconteceu ao se tornar n\u00FAmero 1 do mundo no ranking de duplas da ATP. Em 2016, jogando ao lado da brit\u00E2nica Heather Watson, foi campe\u00E3o de duplas mistas do Torneio de Wimbledon. Na final, eles bateram o colombiano Robert Farah e a alem\u00E3 Anna-Lena Gr\u00F6nefeld, por 7-6(5) e 6-4. No caminho para o t\u00EDtulo, o dueto, que n\u00E3o era cabe\u00E7a de chave, superou a fort\u00EDssima parceria formada pela su\u00ED\u00E7a Martina Hingis e o indiano Leander Paes, \u00FAnicos a tirarem um set deles no torneio, por 3-6, 6-3 e 6-2. Esse foi seu primeiro titulo de Grand Slam na modalidade de duplas mistas e na carreira. J\u00E1 em 2017, como os defensores do t\u00EDtulo, Kontinen/Watson conseguiram chegar \u00E0 final de Wimbledon nas mistas mais uma vez. Entretanto foram impedidos de conquistar o bicampeonato consecutivo do torneio ao serem superados pelo brit\u00E2nico Jamie Murray e a su\u00ED\u00E7a Martina Hingis por duplo 6/4. No final da temporada de 2016, atuando ao lado do australiano John Peers, conquistou o t\u00EDtulo de duplas do ATP World Tour Finals. Na decis\u00E3o, Kontinen e Peers superaram o sul-africano Raven Klaasen e o norte-americano Rajeev Raam, estes os s\u00E9timos favoritos, em tr\u00EAs 'sets', pelas parciais de 2-6, 6-1 e 10-8, em uma hora e dez minutos. J\u00E1 em 2017, jogando duplas masculinas conquistou seu primeiro Grand Slam da modalidade no Open da Austr\u00E1lia ao derrotar na decis\u00E3o, nada mais nada menos, que os irm\u00E3os Bob Bryan e Mike Bryan, com as parciais de 7-5 e 7-5 ao cabo de uma hora e catorze minutos de jogo. Seu parceiro nessa decis\u00E3o foi o australiano John Peers. Esse foi seu primeiro titulo de Grand Slam na modalidade de duplas masculinas, mas o segundo da carreira."@pt ,
+		"Henri Kontinen (* 19. \u010Dervna 1990 Helsinky) je finsk\u00FD profesion\u00E1ln\u00ED tenista, v\u00EDt\u011Bz mu\u017Esk\u00E9ho deblu na Australian Open 2017 a Turnaji mistr\u016F 2016 z Lond\u00FDna, kdy\u017E v obou p\u0159\u00EDpadech triumfoval s Australanem Johnem Peersem. Od dubna do listopadu 2017 byl ve dvou odd\u011Blen\u00FDch obdob\u00EDch sv\u011Btovou jedni\u010Dkou ve \u010Dty\u0159h\u0159e, celkov\u011B pades\u00E1tou v po\u0159ad\u00ED a historicky prvn\u00ED v jak\u00E9koli tenisov\u00E9 sout\u011B\u017Ei z Finska. Na \u010Dele str\u00E1vil 26 t\u00FDdn\u016F. Ve sv\u00E9 dosavadn\u00ED kari\u00E9\u0159e na okruhu ATP World Tour vyhr\u00E1l sedmn\u00E1ct deblov\u00FDch turnaj\u016F. Na challengerech ATP a okruhu Futures z\u00EDskal p\u011Bt titul\u016F ve dvouh\u0159e a osmn\u00E1ct ve \u010Dty\u0159h\u0159e. Je v\u00EDt\u011Bzem sm\u00ED\u0161en\u00E9 \u010Dty\u0159hry ve Wimbledonu 2016, kde triumfoval po boku dom\u00E1c\u00ED Heather Watsonov\u00E9. Na \u017Eeb\u0159\u00ED\u010Dku ATP byl ve dvouh\u0159e nejv\u00FD\u0161e klasifikov\u00E1n v \u0159\u00EDjnu 2010 na 220. m\u00EDst\u011B a ve \u010Dty\u0159h\u0159e pak v dubnu 2017 na 1. m\u00EDst\u011B, kdy\u017E se do \u010Dela posunul po dohr\u00E1n\u00ED Miami Open 2017. Tr\u00E9nuje ho Peter Carlsson. Ve  debutoval v roce 2008 prvn\u00EDm kolem 2. skupiny z\u00F3ny Evropy a Afriky proti Jihoafrick\u00E9 republice, v n\u011Bm\u017E prohr\u00E1l dvouhru i \u010Dty\u0159hru. Finov\u00E9 ode\u0161li pora\u017Eeni 1:4 na z\u00E1pasy. Do roku 2016 v sout\u011B\u017Ei nastoupil ke \u010Dtrn\u00E1cti mezist\u00E1tn\u00EDm utk\u00E1n\u00EDm s bilanc\u00ED 6\u20134 ve dvouh\u0159e a 9\u20135 ve \u010Dty\u0159h\u0159e. B\u011Bhem kari\u00E9ry tr\u00E9noval v tenisov\u00FDch centrech v Uppsale, Praze a akademii Nicka Bollettieriho ve floridsk\u00E9m Bradentonu. Mlad\u0161\u00ED bratr Micke Kontinen (nar. 1992) je tak\u00E9 tenista."@cs ,
+		"Henri Kontinen (Finnish pronunciation: [\u02C8henri \u02C8kontinen]; born 19 June 1990) is a Finnish tennis player. Kontinen has won 21 doubles titles on the ATP Tour in his career. He was formerly ranked as world No. 1 in doubles after winning the 2017 Australian Open men's doubles championship. He reached his best singles rankings of world No. 220 in October 2010. His brother Micke is a retired tennis player. After ending his singles career due to injuries he started focusing on doubles. He reached the quarterfinals of the men's doubles 2016 Wimbledon Championships with John Peers and won the mixed doubles at the same tournament with Heather Watson. His win in the 2017 Australian Open men's doubles with Peers was his first Grand Slam title in men's doubles."@en ,
+		"Henri Kontinen (ur. 19 czerwca 1990 w Helsinkach) \u2013 fi\u0144ski tenisista, zwyci\u0119zca Wimbledonu 2016 w grze mieszanej oraz Australian Open 2017 w grze podw\u00F3jnej, lider rankingu ATP deblist\u00F3w, reprezentant w Pucharze Davisa."@pl ,
+		"Henri Kontinen (Helsinki, 19 giugno 1990) \u00E8 un tennista finlandese."@it ,
+		"\u0413\u0435\u043D\u0440\u0456 \u041A\u043E\u043D\u0442\u0456\u043D\u0435\u043D (\u0444\u0456\u043D. Henri Kontinen) \u2014 \u0444\u0456\u043D\u0441\u044C\u043A\u0438\u0439 \u0442\u0435\u043D\u0456\u0441\u0438\u0441\u0442, \u0441\u043F\u0435\u0446\u0456\u0430\u043B\u0456\u0441\u0442 \u0456\u0437 \u043F\u0430\u0440\u043D\u043E\u0457 \u0433\u0440\u0438, \u0434\u0432\u043E\u0440\u0430\u0437\u043E\u0432\u0438\u0439 \u0447\u0435\u043C\u043F\u0456\u043E\u043D \u0442\u0443\u0440\u043D\u0456\u0440\u0456\u0432 \u0412\u0435\u043B\u0438\u043A\u043E\u0433\u043E \u0448\u043E\u043B\u043E\u043C\u0430 \u2014 \u043E\u0434\u0438\u043D \u0440\u0430\u0437 \u0443 \u043F\u0430\u0440\u043D\u043E\u043C\u0443 \u0440\u043E\u0437\u0440\u044F\u0434\u0456 \u0439 \u043E\u0434\u0438\u043D \u0440\u0430\u0437 \u0443 \u043C\u0456\u043A\u0441\u0442\u0456, \u0434\u0432\u043E\u0440\u0430\u0437\u043E\u0432\u0438\u0439 \u043F\u0435\u0440\u0435\u043C\u043E\u0436\u0435\u0446\u044C \u043F\u0456\u0434\u0441\u0443\u043C\u043A\u043E\u0432\u043E\u0433\u043E \u0442\u0443\u0440\u043D\u0456\u0440\u0443 \u0440\u043E\u043A\u0443, \u043A\u043E\u043B\u0438\u0448\u043D\u044F \u043F\u0435\u0440\u0448\u0430 \u0440\u0430\u043A\u0435\u0442\u043A\u0430 \u0441\u0432\u0456\u0442\u0443 \u0432 \u043F\u0430\u0440\u043D\u0456\u0439 \u0433\u0440\u0456. \u041D\u0430 \u044E\u043D\u0456\u043E\u0440\u0441\u044C\u043A\u043E\u043C\u0443 \u0440\u0456\u0432\u043D\u0456 \u041A\u043E\u043D\u0442\u0456\u043D\u0435\u043D \u0432\u0438\u0433\u0440\u0430\u0432 \u0420\u043E\u043B\u0430\u043D-\u0413\u0430\u0440\u0440\u043E\u0441 \u0443 \u043F\u0430\u0440\u043D\u043E\u043C\u0443 \u0440\u043E\u0437\u0440\u044F\u0434\u0456, \u0431\u0443\u0432 \u0444\u0456\u043D\u0430\u043B\u0456\u0441\u0442\u043E\u043C \u0412\u0456\u043C\u0431\u043B\u0434\u043E\u043D\u0443 \u0432 \u043E\u0434\u0438\u043D\u043E\u0447\u043D\u043E\u043C\u0443 \u0440\u043E\u0437\u0440\u044F\u0434\u0456 \u0439 \u0444\u0456\u043D\u0430\u043B\u0456\u0441\u0442\u043E\u043C \u0412\u0456\u0434\u043A\u0440\u0438\u0442\u043E\u0433\u043E \u0447\u0435\u043C\u043F\u0456\u043E\u043D\u0430\u0442\u0443 \u0421\u0428\u0410 \u0432 \u043F\u0430\u0440\u043D\u043E\u043C\u0443 \u0440\u043E\u0437\u0440\u044F\u0434\u0456. \u0410\u043B\u0435 \u0442\u0440\u0430\u0432\u043C\u0430 \u043A\u043E\u043B\u0456\u043D\u0430 \u0437\u0430\u0432\u0430\u0434\u0438\u043B\u0430 \u0439\u043E\u0433\u043E \u043E\u0434\u0438\u043D\u043E\u0447\u043D\u0456\u0439 \u043A\u0430\u0440'\u0454\u0440\u0456, \u0439 \u0437 2013 \u0440\u043E\u043A\u0443 \u0432\u0456\u043D \u0433\u0440\u0430\u0454 \u0442\u0456\u043B\u044C\u043A\u0438 \u0432 \u043F\u0430\u0440\u0430\u0445. \u041F\u043E\u0441\u0442\u0456\u0439\u043D\u0438\u043C \u043F\u0430\u0440\u0442\u043D\u0435\u0440\u043E\u043C \u041A\u043E\u043D\u0442\u0456\u043D\u0435\u043D\u0430 \u0454 \u0430\u0432\u0441\u0442\u0440\u0430\u043B\u0456\u0454\u0446\u044C \u0414\u0436\u043E\u043D \u041F\u0456\u0440\u0441, \u0430 \u0432 \u043C\u0456\u043A\u0441\u0442\u0456 \u0432\u0456\u043D \u0432\u0438\u0433\u0440\u0430\u0432 \u0412\u0456\u043C\u0431\u043B\u0434\u043E\u043D \u0456\u0437 \u0430\u043D\u0433\u043B\u0456\u0439\u043A\u043E\u044E \u043F\u0430\u043F\u0443\u0430\u0441\u044C\u043A\u043E\u0433\u043E \u043F\u043E\u0445\u043E\u0434\u0436\u0435\u043D\u043D\u044F \u0413\u0435\u0442\u0435\u0440 \u0412\u043E\u0442\u0441\u043E\u043D."@uk ,
+		"\u0425\u0435\u043D\u0440\u0438 \u041A\u043E\u043D\u0442\u0438\u043D\u0435\u043D (\u0444\u0438\u043D. Henri Kontinen; \u0440\u043E\u0434. 19 \u0438\u044E\u043D\u044F 1990, \u0425\u0435\u043B\u044C\u0441\u0438\u043D\u043A\u0438, \u0424\u0438\u043D\u043B\u044F\u043D\u0434\u0438\u044F) \u2014 \u0444\u0438\u043D\u0441\u043A\u0438\u0439 \u043F\u0440\u043E\u0444\u0435\u0441\u0441\u0438\u043E\u043D\u0430\u043B\u044C\u043D\u044B\u0439 \u0442\u0435\u043D\u043D\u0438\u0441\u0438\u0441\u0442; \u043F\u043E\u0431\u0435\u0434\u0438\u0442\u0435\u043B\u044C \u043E\u0434\u043D\u043E\u0433\u043E \u0442\u0443\u0440\u043D\u0438\u0440\u0430 \u0411\u043E\u043B\u044C\u0448\u043E\u0433\u043E \u0448\u043B\u0435\u043C\u0430 \u0432 \u043F\u0430\u0440\u043D\u043E\u043C \u0440\u0430\u0437\u0440\u044F\u0434\u0435 (\u041E\u0442\u043A\u0440\u044B\u0442\u044B\u0439 \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442 \u0410\u0432\u0441\u0442\u0440\u0430\u043B\u0438\u0438-2017); \u043F\u043E\u0431\u0435\u0434\u0438\u0442\u0435\u043B\u044C \u043E\u0434\u043D\u043E\u0433\u043E \u0442\u0443\u0440\u043D\u0438\u0440\u0430 \u0411\u043E\u043B\u044C\u0448\u043E\u0433\u043E \u0448\u043B\u0435\u043C\u0430 \u0432 \u043C\u0438\u043A\u0441\u0442\u0435 (\u0423\u0438\u043C\u0431\u043B\u0434\u043E\u043D-2016); \u0444\u0438\u043D\u0430\u043B\u0438\u0441\u0442 \u043E\u0434\u043D\u043E\u0433\u043E \u0442\u0443\u0440\u043D\u0438\u0440\u0430 \u0411\u043E\u043B\u044C\u0448\u043E\u0433\u043E \u0448\u043B\u0435\u043C\u0430 \u0432 \u043F\u0430\u0440\u043D\u043E\u043C \u0440\u0430\u0437\u0440\u044F\u0434\u0435 (\u041E\u0442\u043A\u0440\u044B\u0442\u044B\u0439 \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442 \u0410\u0432\u0441\u0442\u0440\u0430\u043B\u0438\u0438-2019); \u0444\u0438\u043D\u0430\u043B\u0438\u0441\u0442 \u043E\u0434\u043D\u043E\u0433\u043E \u0442\u0443\u0440\u043D\u0438\u0440\u0430 \u0411\u043E\u043B\u044C\u0448\u043E\u0433\u043E \u0448\u043B\u0435\u043C\u0430 \u0432 \u043C\u0438\u043A\u0441\u0442\u0435 (\u0423\u0438\u043C\u0431\u043B\u0434\u043E\u043D-2017); \u043F\u043E\u0431\u0435\u0434\u0438\u0442\u0435\u043B\u044C \u0434\u0432\u0443\u0445 \u0418\u0442\u043E\u0433\u043E\u0432\u044B\u0445 \u0442\u0443\u0440\u043D\u0438\u0440\u043E\u0432 ATP (2016, 2017) \u0432 \u043F\u0430\u0440\u043D\u043E\u043C \u0440\u0430\u0437\u0440\u044F\u0434\u0435; \u043F\u043E\u0431\u0435\u0434\u0438\u0442\u0435\u043B\u044C 23 \u0442\u0443\u0440\u043D\u0438\u0440\u043E\u0432 ATP \u0432 \u043F\u0430\u0440\u043D\u043E\u043C \u0440\u0430\u0437\u0440\u044F\u0434\u0435; \u0431\u044B\u0432\u0448\u0430\u044F \u043F\u0435\u0440\u0432\u0430\u044F \u0440\u0430\u043A\u0435\u0442\u043A\u0430 \u043C\u0438\u0440\u0430 \u0432 \u043F\u0430\u0440\u043D\u043E\u043C \u0440\u0430\u0437\u0440\u044F\u0434\u0435; \u043F\u043E\u0431\u0435\u0434\u0438\u0442\u0435\u043B\u044C \u043E\u0434\u043D\u043E\u0433\u043E \u044E\u043D\u0438\u043E\u0440\u0441\u043A\u043E\u0433\u043E \u0442\u0443\u0440\u043D\u0438\u0440\u0430 \u0411\u043E\u043B\u044C\u0448\u043E\u0433\u043E \u0448\u043B\u0435\u043C\u0430 \u0432 \u043F\u0430\u0440\u043D\u043E\u043C \u0440\u0430\u0437\u0440\u044F\u0434\u0435 (\u041E\u0442\u043A\u0440\u044B\u0442\u044B\u0439 \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442 \u0424\u0440\u0430\u043D\u0446\u0438\u0438-2008)."@ru ,
+		"Henri Kontinen  (nascut el 19 de juny de 1990) \u00E9s un tennista professional finland\u00E8s."@ca ,
+		"\u4EA8\u5229\u00B7\u5B54\u8482\u5B81\uFF08\u82AC\u862D\u8A9E\uFF1AHenri Kontinen\uFF0C1990\u5E746\u670819\u65E5\uFF0D\uFF09\uFF0C\u82AC\u5170\u7537\u5B50\u804C\u4E1A\u7F51\u7403\u8FD0\u52A8\u5458\u3002 \u5B54\u8482\u5B81\u5728\u804C\u4E1A\u751F\u6DAF\u4E2D\u76EE\u524D\u5171\u8D62\u5F97\u4E8622\u4E2A\u51A0\u519B\u5956\u676F\u3002\u57282017\u5E74\u593A\u5F97\u6FB3\u7F51\u7537\u53CC\u51A0\u519B\u540E\uFF0C\u4ED6\u7684\u6392\u540D\u9996\u6B21\u6765\u5230\u53CC\u6253\u4E16\u754C\u7B2C\u4E00\u3002\u4ED6\u57282010\u5E7410\u6708\u62FF\u5230\u4E86\u804C\u4E1A\u751F\u6DAF\u5355\u6253\u6700\u9AD8\u6392\u540D\uFF0C\u4E16\u754C\u7B2C220\u540D\u3002 \u4ED6\u7684\u5F1F\u5F1FMicke Kontinen\u662F\u4E00\u540D\u9000\u5F79\u7F51\u7403\u8FD0\u52A8\u5458\u3002 \u56E0\u4E3A\u4F24\u75C5\uFF0C\u4ED6\u88AB\u8FEB\u4ECE\u5355\u6253\u8F6C\u4E3A\u53CC\u6253\u30022016\u5E74\uFF0C\u4ED6\u548C\u642D\u6863John Peers\u6253\u5165\u6E29\u5E03\u5C14\u767B\u7F51\u7403\u9526\u6807\u8D5B\u7537\u53CC\u56DB\u5206\u4E4B\u4E00\u51B3\u8D5B\uFF0C\u4E0E\u6DF7\u53CC\u642D\u6863Heather Watson\u8D62\u5F97\u4E86\u6DF7\u53CC\u51A0\u519B\u3002 \u4ED6\u4E0EJohn Peers\u8FDE\u7EED2016\uFF0C2017\u5E74\u62FF\u4E0B\u4E86ATP\u5E74\u7EC8\u603B\u51B3\u8D5B\u7684\u51A0\u519B\u3002\u4ED6\u548CJohn Peers\u57282017\u5E74\u62FF\u4E0B\u6FB3\u7F51\u7537\u53CC\u51A0\u519B\u662F\u4ED6\u7684\u7B2C\u4E00\u4E2A\u7537\u53CC\u5927\u6EE1\u8D2F\u5934\u8854\u3002"@zh ,
+		"Henri Kontinen (* 19. Juni 1990 in Helsinki) ist ein finnischer Tennisspieler. Er ist auf Doppel-Wettbewerbe spezialisiert und f\u00FChrte bereits mehrfach die Weltrangliste im Doppel an."@de ,
+		"Henri Kontinen  nacido el 19 de junio de 1990 es un tenista profesional finland\u00E9s."@es ,
+		"Henri Kontinen (Helsinki, 19 juni 1990) is een Fins tennisspeler. Hij heeft 23 ATP-toernooien in het dubbelspel op zijn naam staan. Hij deed mee aan grandslamtoernooien. Hij heeft acht challengers in het dubbelspel op zijn naam staan."@nl ;
+	dbo:wikiPageLength	"45391"^^xsd:nonNegativeInteger ;
+	dbp:website	<http://www.henrikontinen.com/> ;
+	dbp:currentdoublesranking	"No. 30"@en ;
+	dbp:coach	<http://dbpedia.org/resource/Chris_Eaton_(tennis)> .
+dbr:John_Peers	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+dbr:Jonathan_Marray	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/Juan_Sebasti\u00E1n_Cabal>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/J\u00E9r\u00E9my_Chardy>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/Mate_Pavi\u0107>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+dbr:Marcelo_Melo	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+dbr:Marcin_Matkowski	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+dbr:Marcus_Daniell	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+dbr:Marin_Draganja	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+dbr:Mariusz_Fyrstenberg	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+dbr:Martin_Emmrich	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+dbr:Martina_Hingis	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+dbr:Tihomir_Grozdanov	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/Tomislav_Brki\u0107>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+dbr:Yannick_Mertens	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+dbr:November_2017_in_sports	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2011_Open_Castilla_y_Le\u00F3n_\u2013_Singles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2015_Croatia_Open_Umag_\u2013_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2010_McDonald\u0027s_Burnie_International_\u2013_Men\u0027s_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+dbr:November_2016_in_sports	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2013_ITF_Men\u0027s_Circuit_(July\u2013September)>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2017_Italian_Open_(tennis)>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2010_ITF_Men\u0027s_Circuit_(January\u2013March)>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2018_Italian_Open_(tennis)>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2019_Italian_Open_(tennis)>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2014_Heilbronner_Neckarcup_\u2013_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2016_German_Open_\u2013_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2011_Kazan_Kremlin_Cup_\u2013_Singles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2011_Open_EuroEnergie_de_Quimper_\u2013_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .
+<http://dbpedia.org/resource/2016_St._Petersburg_Open_\u2013_Doubles>	dbo:wikiPageWikiLink	dbr:Henri_Kontinen .

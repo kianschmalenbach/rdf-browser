@@ -1,0 +1,964 @@
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+dbr:List_of_prime_ministers_of_Belgium	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:Ghent_University	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:Crown_Council_of_Belgium	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:State_reform_in_Belgium	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:Flemish_Secession_hoax	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:Godfried_Danneels	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:Purple	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:List_of_Belgians	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:History_of_Belgium	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+<http://dbpedia.org/resource/2007_in_Belgium>	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+<http://dbpedia.org/resource/2007\u20132011_Belgian_political_crisis>	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:Ulrich_Beck	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:HARDTalk	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:Rik_Van_Steenbergen	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:United_States_of_Europe	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:Endorsements_in_the_2019_United_Kingdom_general_election	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:Friends_of_Europe	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:Dendermonde	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:Izaskun_Bilbao_Barandica	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+<http://dbpedia.org/resource/Eurobond_(eurozone)>	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:Renew_Europe	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:Manfred_Weber	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:Constitution_of_Hungary	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:Christian_Lindner	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+<http://dbpedia.org/resource/2019_European_Parliament_election>	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:Daniel_Cohn-Bendit	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:Signing_of_the_Treaty_of_Lisbon	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Freya_Van_den_Bossche	dbp:primeminister	dbr:Guy_Verhofstadt ;
+	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:List_of_ambassadors_of_Myanmar_to_Belgium	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:List_of_ambassadors_of_Thailand_to_Belgium	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:List_of_Belgian_Prime_Ministers_by_political_affiliation	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:List_of_Belgian_Prime_Ministers_by_time_in_office	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+<http://dbpedia.org/resource/Minister_of_State_(Belgium)>	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:Dutch-speaking_electoral_college	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+<http://dbpedia.org/resource/List_of_members_of_the_European_Parliament,_2019\u20132024>	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:European_Choice	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+<http://dbpedia.org/resource/2004_in_Belgium>	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+<http://dbpedia.org/resource/2005_in_Belgium>	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+<http://dbpedia.org/resource/1986_in_Belgium>	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:LVSV	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:Hilde_Vautmans	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:Marc_Dutroux	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+<http://dbpedia.org/resource/1985_Belgian_general_election>	dbp:leader	dbr:Guy_Verhofstadt ;
+	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+<http://dbpedia.org/resource/1991_Belgian_general_election>	dbp:leader	dbr:Guy_Verhofstadt ;
+	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:De_Gordel	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:Guido_Demoor	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+<http://dbpedia.org/resource/2019_Estonian_parliamentary_election>	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:Conservatives_and_Social_Reformers	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+wikipedia-en:Guy_Verhofstadt	foaf:primaryTopic	dbr:Guy_Verhofstadt .
+dbr:List_of_ambassadors_of_China_to_Belgium	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:International_reaction_to_the_assassination_of_Benazir_Bhutto	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:Dirk_Verhofstadt	dbp:relatives	dbr:Guy_Verhofstadt ;
+	dbo:relative	dbr:Guy_Verhofstadt ;
+	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+<http://dbpedia.org/resource/Belgium\u2013China_relations>	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:Didier_Seeuws	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:European_Book_Prize	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:Beatriz_Becerra	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:Jean-Marc_Ferry	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:President_of_the_European_Council	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+<http://dbpedia.org/resource/Liberal_Democrats_(UK)>	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+<http://dbpedia.org/resource/1953>	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:List_of_presidents_of_the_institutions_of_the_European_Union	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:Boris_Johnson	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:List_of_European_Council_meetings	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:European_reactions_to_the_2006_Lebanon_War	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:Belgo-British_Conference	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:List_of_dignitaries_at_the_funeral_of_Pope_John_Paul_II	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:List_of_state_leaders_in_2004	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:List_of_state_leaders_in_2007	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:Signatories_to_the_Treaty_establishing_a_Constitution_for_Europe	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:List_of_state_leaders_in_1999	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:List_of_state_leaders_in_2000	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:List_of_state_leaders_in_2001	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:List_of_state_leaders_in_2002	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:List_of_state_leaders_in_2003	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:List_of_state_leaders_in_2005	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:List_of_state_leaders_in_2006	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Guy_Verhofstadt	rdf:type	yago:WikicatOpenFlemishLiberalsAndDemocratsMEPs .
+@prefix umbel-rc:	<http://umbel.org/umbel/rc/> .
+dbr:Guy_Verhofstadt	rdf:type	umbel-rc:Politician ,
+		umbel-rc:PrimeMinister_HeadOfGovernment ,
+		yago:Officeholder110371450 ,
+		yago:Official110372373 ,
+		dbo:Person ,
+		yago:Object100002684 ,
+		yago:Owner110389398 ,
+		yago:Person100007846 ,
+		yago:Organism100004475 ,
+		yago:PhysicalEntity100001930 ,
+		yago:Politician110450303 ,
+		yago:SkilledWorker110605985 ,
+		yago:Scholar110557854 ,
+		yago:Whole100003553 ,
+		yago:WikicatBelgianMinistersOfState ,
+		yago:WikicatPrimeMinistersOfBelgium ,
+		yago:WikicatGovernmentMinistersOfBelgium ,
+		yago:Administrator109770949 ,
+		yago:Head110162991 ,
+		yago:WikicatBelgianPoliticians ,
+		yago:MilitaryOfficer110317007 ,
+		yago:WikicatFlemishPeople .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Guy_Verhofstadt	rdf:type	wikidata:Q24229398 ,
+		wikidata:Q5 ,
+		wikidata:Q82955 ,
+		yago:WikicatGrandOfficersOfTheOrderOfMeritOfTheItalianRepublic ,
+		yago:Serviceman110582746 .
+@prefix ns9:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Guy_Verhofstadt	rdf:type	ns9:NaturalPerson ,
+		ns9:Agent ,
+		yago:WikicatBelgianPeople ,
+		yago:Liberal110256756 ,
+		wikidata:Q215627 .
+@prefix schema:	<http://schema.org/> .
+dbr:Guy_Verhofstadt	rdf:type	schema:Person ,
+		foaf:Person ,
+		yago:WikicatOpenFlemishLiberalsAndDemocratsPoliticians ,
+		yago:Worker109632518 ,
+		yago:YagoLegalActor ,
+		yago:YagoLegalActorGeo ,
+		yago:WikicatLivingPeople ,
+		dbo:Agent ,
+		yago:WikicatPeopleFromDendermonde ,
+		dbo:Politician ,
+		yago:Alumnus109786338 ,
+		yago:CausalAgent100007347 ,
+		yago:Adult109605289 ,
+		yago:Intellectual109621545 ,
+		yago:Holder110180178 ,
+		yago:Leader109623038 .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Guy_Verhofstadt	rdf:type	owl:Thing ,
+		yago:LivingThing100004258 ,
+		dbo:OfficeHolder ,
+		yago:WikicatGhentUniversityAlumni ,
+		yago:Minister110320863 ,
+		yago:Executive110069645 .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Guy_Verhofstadt	rdfs:label	"\u0412\u0435\u0440\u0445\u043E\u0444\u0441\u0442\u0430\u0434\u0442, \u0413\u0438"@ru ,
+		"Guy Verhofstadt"@pt ,
+		"Guy Verhofstadt"@eu ,
+		"\u5C45\u4F0A\u00B7\u4F0F\u601D\u8FBE"@zh ,
+		"Guy Verhofstadt"@sv ,
+		"Guy Verhofstadt"@cs ,
+		"Guy Verhofstadt"@de ,
+		"Guy Verhofstadt"@en ,
+		"\u30D2\u30FC\u30FB\u30D5\u30A7\u30EB\u30DB\u30D5\u30B9\u30BF\u30C3\u30C8"@ja ,
+		"Guy Verhofstadt"@eo ,
+		"Guy Verhofstadt"@it ,
+		"\u0393\u03BA\u03B9 \u03A6\u03B5\u03C1\u03C7\u03CC\u03C6\u03C3\u03C4\u03B1\u03C4"@el ,
+		"\u0413\u0456 \u0412\u0435\u0440\u0433\u043E\u0444\u0441\u0442\u0430\u0434\u0442"@uk ,
+		"\u062C\u0627\u064A \u0641\u064A\u0631\u0647\u0648\u0641\u0634\u062A\u0627\u0646"@ar ,
+		"Guy Verhofstadt"@in ,
+		"Guy Verhofstadt"@ca ,
+		"Guy Verhofstadt"@pl ,
+		"\uD788 \uBC84\uB974\uD638\uD504\uC2A4\uD0C0\uD2B8"@ko ,
+		"Guy Verhofstadt"@fr ,
+		"Guy Verhofstadt"@es ;
+	rdfs:comment	"Guy Verhofstadt (prononc\u00E9 en n\u00E9erlandais : /\u02C8\u0263i\u02D0 v\u0259r\u02C8\u0266\u0254fst\u0251t/, prononc\u00E9 en fran\u00E7ais : /\u0261i v\u0259\u0281\u0254fstad/), n\u00E9 le 11 avril 1953 \u00E0 Termonde, est un homme d'\u00C9tat belge, 36e Premier ministre du Royaume de Belgique de 1999 \u00E0 2008. Ministre d'\u00C9tat belge, il est membre de l'Open Vld de tendance lib\u00E9rale."@fr ,
+		"\u062C\u0627\u064A \u0641\u064A\u0631\u0647\u0648\u0641\u0634\u062A\u0627\u0646 \u0648\u0644\u062F \u0641\u064A 11 \u0623\u0628\u0631\u064A\u0644 1953 \u0641\u064A  \u0641\u064A \u0628\u0644\u062C\u064A\u0643\u0627 \u060C\u0633\u064A\u0627\u0633\u064A \u0628\u0644\u062C\u064A\u0643\u064A \u0634\u063A\u0644 \u0645\u0646\u0635\u0628 \u0631\u0626\u064A\u0633 \u0648\u0632\u0631\u0621 \u0628\u0644\u062C\u064A\u0643\u0627 \u0645\u0646 12 \u064A\u0648\u0644\u064A\u0648 1999 \u0625\u0644\u0649 20 \u0645\u0627\u0631\u0633 2008 \u060C\u0648\u0623\u062D\u062F \u0627\u0644\u0645\u0639\u0627\u0631\u0636\u064A\u0646 \u0644\u0645\u0639\u0627\u0647\u062F\u0629 \u0644\u0634\u0628\u0648\u0646\u0629 \u0644\u0644\u0627\u062A\u062D\u0627\u062F \u0627\u0644\u0623\u0648\u0631\u0648\u0628\u064A."@ar ,
+		"\u039F \u0393\u03BA\u03B9 \u03A6\u03B5\u03C1\u03C7\u03CC\u03C6\u03C3\u03C4\u03B1\u03C4 (Guy Maurice Marie-Louise Verhofstadt, 11 \u0391\u03C0\u03C1\u03B9\u03BB\u03AF\u03BF\u03C5 1953) \u03B5\u03AF\u03BD\u03B1\u03B9 \u03C0\u03BF\u03BB\u03B9\u03C4\u03B9\u03BA\u03CC\u03C2 \u03B1\u03C0\u03CC \u03C4\u03BF \u0392\u03AD\u03BB\u03B3\u03B9\u03BF, \u03C0\u03BF\u03C5 \u03B4\u03B9\u03B5\u03C4\u03AD\u03BB\u03B5\u03C3\u03B5 \u03C0\u03C1\u03C9\u03B8\u03C5\u03C0\u03BF\u03C5\u03C1\u03B3\u03CC\u03C2 \u03B1\u03C0\u03CC \u03C4\u03BF 1999 \u03C9\u03C2 \u03C4\u03BF 2008. \u0391\u03C0\u03CC \u03C4\u03BF 2009 \u03B7\u03B3\u03B5\u03AF\u03C4\u03B1\u03B9 \u03C4\u03B7\u03C2 \u03A3\u03C5\u03BC\u03BC\u03B1\u03C7\u03AF\u03B1\u03C2 \u03A6\u03B9\u03BB\u03B5\u03BB\u03B5\u03C5\u03B8\u03AD\u03C1\u03C9\u03BD \u03BA\u03B1\u03B9 \u0394\u03B7\u03BC\u03BF\u03BA\u03C1\u03B1\u03C4\u03CE\u03BD \u03B3\u03B9\u03B1 \u03C4\u03B7\u03BD \u0395\u03C5\u03C1\u03CE\u03C0\u03B7, \u03C4\u03B7\u03C2 \u03C4\u03C1\u03AF\u03C4\u03B7\u03C2 \u03BC\u03B5\u03B3\u03B1\u03BB\u03CD\u03C4\u03B5\u03C1\u03B7\u03C2 \u03C0\u03BF\u03BB\u03B9\u03C4\u03B9\u03BA\u03AE\u03C2 \u03BF\u03BC\u03AC\u03B4\u03B1\u03C2 \u03C4\u03BF\u03C5 \u0395\u03C5\u03C1\u03C9\u03C0\u03B1\u03CA\u03BA\u03BF\u03CD \u039A\u03BF\u03B9\u03BD\u03BF\u03B2\u03BF\u03CD\u03BB\u03B9\u03BF\u03C5, \u03B7 \u03BF\u03C0\u03BF\u03AF\u03B1 \u03C4\u03BF\u03BD \u03B5\u03C0\u03AD\u03BB\u03B5\u03BE\u03B5 \u03BA\u03B1\u03B9 \u03C9\u03C2 \u03C5\u03C0\u03BF\u03C8\u03AE\u03C6\u03B9\u03BF \u03B3\u03B9\u03B1 \u03C4\u03B7 \u03B8\u03AD\u03C3\u03B7 \u03C4\u03BF\u03C5 \u03A0\u03C1\u03BF\u03AD\u03B4\u03C1\u03BF\u03C5 \u03C4\u03B7\u03C2 \u0395\u03C5\u03C1\u03C9\u03C0\u03B1\u03CA\u03BA\u03AE\u03C2 \u0395\u03C0\u03B9\u03C4\u03C1\u03BF\u03C0\u03AE\u03C2 \u03B5\u03BD\u03CC\u03C8\u03B5\u03B9 \u03C4\u03C9\u03BD \u03B5\u03C0\u03B9\u03BA\u03B5\u03AF\u03BC\u03B5\u03BD\u03C9\u03BD \u0395\u03C5\u03C1\u03C9\u03B5\u03BA\u03BB\u03BF\u03B3\u03CE\u03BD."@el ,
+		"Guy Maurice Marie Louise Verhofstadt (wym. ; ur. 11 kwietnia 1953 w Dendermonde) \u2013 belgijski i flamandzki polityk, premier Belgii w latach 1999\u20132008, pose\u0142 do Parlamentu Europejskiego VII, VIII i IX kadencji, przewodnicz\u0105cy grupy liberalnej w PE. Brat belgijskiego teoretyka liberalizmu Dirka Verhofstadta. Deklaruje si\u0119 jako zwolennik koncepcji powo\u0142ania Stan\u00F3w Zjednoczonych Europy, co przedstawi\u0142 w opublikowanej w 2005 ksi\u0105\u017Cce Verenigde Staten van Europa."@pl ,
+		"\u0413\u0456 \u041C\u043E\u0440\u0456\u0441 \u041C\u0430\u0440\u0456 \u041B\u0443\u0457\u0437 \u0412\u0435\u0440\u0433\u043E\u0444\u0441\u0442\u0430\u0434\u0442 (\u0442\u0430\u043A\u043E\u0436 \u0490\u0456 \u0412\u0435\u0440\u0433\u043E\u0444\u0441\u0442\u0430\u0434\u0442, \u0413\u0456 \u0412\u0435\u0440\u0445\u043E\u0444\u0441\u0442\u0430\u0434\u0442, \u043D\u0456\u0434. Guy Maurice Marie Louise Verhofstadt; \u043D\u0430\u0440. 11 \u043A\u0432\u0456\u0442\u043D\u044F 1953) \u2014 \u0431\u0435\u043B\u044C\u0433\u0456\u0439\u0441\u044C\u043A\u0438\u0439 \u043F\u043E\u043B\u0456\u0442\u0438\u043A. \u041F\u0440\u0435\u043C'\u0454\u0440-\u043C\u0456\u043D\u0456\u0441\u0442\u0440 \u0411\u0435\u043B\u044C\u0433\u0456\u0457 \u0437 12 \u043B\u0438\u043F\u043D\u044F 1999 \u043F\u043E 20 \u0431\u0435\u0440\u0435\u0437\u043D\u044F 2008. \u0417 2009 \u0440\u043E\u043A\u0443 \u0432\u0456\u043D \u0447\u043B\u0435\u043D \u0404\u0432\u0440\u043E\u043F\u0435\u0439\u0441\u044C\u043A\u043E\u0433\u043E \u043F\u0430\u0440\u043B\u0430\u043C\u0435\u043D\u0442\u0443 \u0432\u0456\u0434 \u043F\u0430\u0440\u0442\u0456\u0457 \u0412\u0456\u0434\u043A\u0440\u0438\u0442\u0456 \u0444\u043B\u0430\u043C\u0430\u043D\u0434\u0441\u044C\u043A\u0456 \u043B\u0456\u0431\u0435\u0440\u0430\u043B\u0438 \u0456 \u0434\u0435\u043C\u043E\u043A\u0440\u0430\u0442\u0438 \u0456 \u043B\u0456\u0434\u0435\u0440 \u0444\u0440\u0430\u043A\u0446\u0456\u0457 \u0410\u043B\u044C\u044F\u043D\u0441 \u043B\u0456\u0431\u0435\u0440\u0430\u043B\u0456\u0432 \u0456 \u0434\u0435\u043C\u043E\u043A\u0440\u0430\u0442\u0456\u0432 \u0437\u0430 \u0404\u0432\u0440\u043E\u043F\u0443."@uk ,
+		"(IPA: [\u0263i: v\u0259\u027E\u02C8\u0266\u0254fst\u0251t]) (terlahir Guy Maurice Marie Louise Verhofstadt pada 11 April 1953 di Dendermonde, Belgia) adalah politikus Belgia dan mantan Perdana Menteri Belgia. Ia mengetuai Flemish Liberal Student's Union dari 1972-1974) ketika sedang menjalani pendidikannya di bidang hukum di Ghent."@in ,
+		"Guy Verhofstadt (* 11. dubna 1953, Dendermonde, Belgie) je belgick\u00FD politik a b\u00FDval\u00FD premi\u00E9r Belgie."@cs ,
+		"\u30D2\u30FC\u30FB\u30E2\u30FC\u30EA\u30B9\u30FB\u30DE\u30EA\u30FB\u30EB\u30A4\u30FC\u30BA\u30FB\u30D5\u30A7\u30EB\u30DB\u30D5\u30B9\u30BF\u30C3\u30C8\uFF08Guy Maurice Marie Louise Verhofstadt\u30011953\u5E744\u670811\u65E5 - \uFF09\u306F\u3001\u30D9\u30EB\u30AE\u30FC\u306E\u653F\u6CBB\u5BB6\u30021999\u5E74\u304B\u30892008\u5E74\u307E\u3067\u540C\u56FD\u9996\u76F8\u3092\u52D9\u3081\u305F\u3002"@ja ,
+		"Guy VERHOFSTADT (naski\u011Dis la 11-an de aprilo 1953 en Dendermonde) estas flandra politikisto de la partio VLD. Verhofstadt estis \u0109efministro de du belgaj registaroj. Li studis en la Genta Re\u011Da Ateneo Voskenslaan. En 1976 li elekti\u011Dis kiel membro de la municipa konsilantaro kaj en 1979 li i\u011Dis la nacia prezidanto de PVV Junularo. Jam en 1982 li estis la nacia prezidanto de PVV, kiam Willy De Clercq i\u011Dis financministro. En la jaro 2011 Verhofstadt ekestis frakciestro de la Alianco de Liberaluloj kaj Demokratoj por E\u016Dropo en la E\u016Dropa Parlamento."@eo ,
+		"Guy Verhofstadt (Dendermonde, 11 d'abril de 1953) \u00E9s un pol\u00EDtic flamenc i l\u00EDder de l'Alian\u00E7a dels Liberals i Dem\u00F2crates per Europa des de l'any 2009. Fou el primer ministre de B\u00E8lgica des del 1999 fins al 2008."@ca ,
+		"\u5C45\u4F0A\u00B7\u4F0F\u601D\u8FBE\uFF08Guy Verhofstadt\uFF0C1953\u5E744\u670811\u65E5\uFF0D\uFF09\uFF0C\u53C8\u8BD1\u4E3A\u5C45\u4F0A\u00B7\u8D39\u5C14\u970D\u592B\u65BD\u5854\u7279\u3001\u76D6\u00B7\u7EF4\u970D\u592B\u65AF\u5854\uFF0C\u524D\u4EFB\u6BD4\u5229\u65F6\u9996\u76F8\u3001\u6B27\u6D32\u8BAE\u4F1A\u81EA\u7531\u6C11\u4E3B\u515A\u515A\u56E2\u4E3B\u5E2D\u3002"@zh ,
+		"Guy Verhofstadt, fullst\u00E4ndigt namn Guy Maurice Marie Louise Verhofstadt, f\u00F6dd 11 april 1953 i Dendermonde, Belgien, \u00E4r en belgisk politiker och var Belgiens premi\u00E4rminister mellan 1999 och 2008. Han \u00E4r gruppledare f\u00F6r Gruppen Alliansen liberaler och demokrater f\u00F6r Europa (ALDE) sedan Europaparlamentsvalet 2009. I november 2013 uts\u00E5g ALDE Guy Verhofstadt till sin kandidat till kommissionsordf\u00F6rande inf\u00F6r Europaparlamentsvalet 2014."@sv ,
+		"\uD788 \uBAA8\uB9AC\uC2A4 \uB9C8\uB9AC \uB8E8\uC774\uC988 \uBC84\uB974\uD638\uD504\uC2A4\uD0C0\uD2B8(Guy Maurice Marie Louise Verhofstadt, 1953\uB144 4\uC6D4 11\uC77C ~ )\uB294 \uBCA8\uAE30\uC5D0\uC758 \uC815\uCE58\uC778\uC774\uB2E4. \uADF8\uB294 2009\uB144 \uC774\uB798 \uBCA8\uAE30\uC5D0\uC5D0\uC11C \uC628 \uC720\uB7FD \uC758\uD68C \uC758\uC6D0\uACFC \uC720\uB7FD\uC790\uC720\uBBFC\uC8FC\uB3D9\uB9F9\uC758 \uB2F9\uC218\uC774\uB2E4. 1999\uB144\uBD80\uD130 2008\uB144\uAE4C\uC9C0 47\uB300 \uCD1D\uB9AC\uB97C \uC9C0\uB0B4\uC654\uC73C\uBA70, 1985\uB144\uBD80\uD130 1992\uB144\uAE4C\uC9C0 \uC608\uC0B0\uBD80 \uC7A5\uAD00 \uACB8 \uBD80\uCD1D\uB9AC\uB97C \uC5ED\uC784\uD558\uC600\uB2E4. \uADF8\uB294 1985\uB144\uBD80\uD130 2009\uB144\uAE4C\uC9C0 \uD558\uC6D0 \uC758\uC6D0\uC774\uC5C8\uB2E4. \uC790\uC2E0\uC774 \uC720\uB7FD\uC790\uC720\uBBFC\uC8FC\uB3D9\uB9F9\uC758 \uB2F9\uC218\uC600\uB358 \uC720\uB7FD \uC758\uD68C\uC758 \uC758\uC6D0\uC744 \uC9C0\uB0B4\uC628 \uADF8\uB294 \uC138\uACC4 \uC758\uC6D0 \uC5F0\uB9F9\uC758 \uC5F0\uBC29\uC8FC\uC758\uC801 \uC2A4\uD53C\uB12C\uB9AC \uADF8\uB8F9\uC744 \uCC3D\uB9BD\uD558\uC600\uB2E4. 2014\uB144 \uC720\uB7FD \uC758\uD68C \uC120\uAC70\uC5D0\uC11C \uC720\uB7FD \uC704\uC6D0\uD68C\uC758 \uC758\uC7A5\uC744 \uC704\uD55C \uC720\uB7FD\uC790\uC720\uBBFC\uC8FC\uB3D9\uB9F9\uC758 \uD6C4\uBCF4\uC600\uB2E4. 2016\uB144 9\uC6D4 \uBC84\uB974\uD638\uD504\uC2A4\uD0C0\uD2B8\uB294 \uC720\uB7FD \uC758\uD68C\uB97C \uC704\uD558\uC5EC \uBE0C\uB809\uC2DC\uD2B8\uC758 \uD611\uC0C1\uC790\uB85C \uC784\uBA85\uB418\uC5C8\uB2E4."@ko ,
+		"Guy Maurice Marie Louise Verhofstadt (Dutch: [\u02C8\u0263i\u02D0 v\u0259r\u02C8\u0266\u0254fst\u0251t] (); French: [\u0261i v\u0259\u0281\u0254fstad]; born 11 April 1953) is a Belgian politician who was the Leader of the Alliance of Liberals and Democrats for Europe from 2009 to 2019, and has been a Member of the European Parliament (MEP) from Belgium since 2009. He was the 47th Prime Minister of Belgium from 1999 to 2008, Deputy Prime Minister of Belgium from 1985 to 1992 and Minister of Budget from 1985 to 1992. He was a Member of the Chamber of Representatives from 1985 to 2009."@en ,
+		"Guy Maurice Marie Louise Verhofstadt (Dendermonde, 11 aprile 1953) \u00E8 un politico belga, di orientamento liberale, attivo sia in Belgio sia nelle istituzioni dell'Unione europea. Primo ministro del Belgio dal 1999 al 2008, ha ricoperto anche la carica di Vice Primo ministro e Ministro del bilancio dal 1985 al 1987. \u00C8 stato membro della Camera dei rappresentanti dal 1985 al 1995."@it ,
+		"Guy Verhofstadt (Dendermonde, B\u00E9lgica, 11 de abril de 1953) es un pol\u00EDtico europeo, l\u00EDder de ALDE entre 2009 y 2019,\u200B as\u00ED y como su portavoz en el grupo parlamentario hom\u00F3nimo del Parlamento Europeo. Entre los a\u00F1os 1999 a 2008 ocup\u00F3 el cargo de Primer Ministro de B\u00E9lgica."@es ,
+		"Guy Maurice Marie Louise Verhofstadt (Dendermonde, 11 de Abril de 1953) \u00E9 um pol\u00EDtico flamengo. Foi primeiro-ministro da B\u00E9lgica entre 1999 e 2008."@pt ,
+		"Guy Maurice Marie Louise Verhofstadt  (* 11. April 1953 in Dendermonde) ist ein belgischer Politiker der Fl\u00E4mischen Liberalen und Demokraten (Open Vld). Er ist seit 2009 Mitglied des Europ\u00E4ischen Parlaments, in dem er bis 2019 die liberale Fraktion ALDE leitete. Zuvor war er unter anderem von 1999 bis 2008 Premierminister Belgiens. Im September 2016 wurde er zum Chefunterh\u00E4ndler des Europ\u00E4ischen Parlaments f\u00FCr die Austrittsverhandlungen mit dem Vereinigten K\u00F6nigreich (\u201EBrexit\u201C) ernannt."@de ,
+		"Guy Maurice Marie Louise Verhofstadt (nederlanderaz: [\u02C8\u0263i\u02D0 v\u0259r\u02C8\u0266\u0254fst\u0251t] ( entzun); 1953ko apirilaren 11) belgiar politikaria da eta herrialde horretako 47. lehen ministroa izan zen 1999 eta 2008 bitarte. . 2009tik Europako Parlamentuko kide da eta bertako Europarako Liberalen eta Demokraten Aliantza taldeko (ALDE) liderra da. 2014ko Europako Parlamenturako hauteskundeetan Liberalen eta Demokraten aliantza bera aukeratu zuten Europako Batzordeko lehendakari izateko."@eu ,
+		"\u0413\u0438 \u0412\u0435\u0440\u0445\u043E\u0301\u0444\u0441\u0442\u0430\u0434\u0442 (\u043D\u0438\u0434\u0435\u0440\u043B. Guy Verhofstadt; \u0440\u043E\u0434. 11 \u0430\u043F\u0440\u0435\u043B\u044F 1953, \u0414\u0435\u043D\u0434\u0435\u0440\u043C\u043E\u043D\u0434\u0435, \u0411\u0435\u043B\u044C\u0433\u0438\u044F) \u2014 \u0431\u0435\u043B\u044C\u0433\u0438\u0439\u0441\u043A\u0438\u0439 \u043F\u043E\u043B\u0438\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0439 \u0434\u0435\u044F\u0442\u0435\u043B\u044C, \u043F\u0440\u0435\u043C\u044C\u0435\u0440-\u043C\u0438\u043D\u0438\u0441\u0442\u0440 \u0411\u0435\u043B\u044C\u0433\u0438\u0438 \u0441 \u0438\u044E\u043B\u044F 1999 \u0433\u043E\u0434\u0430 \u043F\u043E \u043C\u0430\u0440\u0442 2008 \u0433\u043E\u0434\u0430. \u0412 2007 \u0433\u043E\u0434\u0443 \u0441\u0442\u0430\u043B \u043A\u0430\u0432\u0430\u043B\u0435\u0440\u043E\u043C \u0411\u043E\u043B\u044C\u0448\u043E\u0433\u043E \u041A\u0440\u0435\u0441\u0442\u0430 \u041E\u0440\u0434\u0435\u043D\u0430 \u041A\u043E\u0440\u043E\u043D\u044B. \u0412 \u0441\u0435\u043D\u0442\u044F\u0431\u0440\u0435 2016 \u0431\u044B\u043B \u043D\u0430\u0437\u043D\u0430\u0447\u0435\u043D \u043F\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u0438\u0442\u0435\u043B\u0435\u043C \u0415\u0432\u0440\u043E\u043F\u0435\u0439\u0441\u043A\u043E\u0433\u043E \u043F\u0430\u0440\u043B\u0430\u043C\u0435\u043D\u0442\u0430 \u043F\u043E \u0432\u043E\u043F\u0440\u043E\u0441\u0430\u043C \u0411\u0440\u0435\u043A\u0441\u0438\u0442\u0430."@ru ;
+	foaf:name	"Guy Verhofstadt"@en ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Guy_Verhofstadt_EP_press_conference_3.jpg> ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Guy_Verhofstadt .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Guy_Verhofstadt	dct:subject	dbc:Knights_Grand_Cross_of_the_Order_of_Isabella_the_Catholic ,
+		dbc:Eurofederalism ,
+		dbc:People_from_Dendermonde ,
+		dbc:Ghent_University_alumni ,
+		<http://dbpedia.org/resource/Category:Grand_Crosses_of_the_Order_of_Honour_(Greece)> ,
+		dbc:Open_Vlaamse_Liberalen_en_Democraten_MEPs ,
+		dbc:Belgian_social_liberals ,
+		<http://dbpedia.org/resource/Category:1953_births> ,
+		dbc:Commanders_Grand_Cross_of_the_Order_of_the_Polar_Star ,
+		dbc:Knights_Grand_Cross_of_the_Order_of_Merit_of_the_Italian_Republic ,
+		dbc:Recipients_of_the_Order_of_the_Star_of_Romania ,
+		dbc:Politics_of_Europe ,
+		dbc:Living_people ,
+		dbc:Grand_Crosses_of_the_Order_of_the_Dannebrog ,
+		<http://dbpedia.org/resource/Category:Grand_Crosses_of_the_Order_of_the_Crown_(Belgium)> ,
+		dbc:Prime_Ministers_of_Belgium ,
+		dbc:Belgian_Ministers_of_State ,
+		<http://dbpedia.org/resource/Category:MEPs_for_Belgium_2009\u20132014> ,
+		<http://dbpedia.org/resource/Category:MEPs_for_Belgium_2014\u20132019> ,
+		dbc:Royal_Norwegian_Order_of_Merit ,
+		<http://dbpedia.org/resource/Category:MEPs_for_Belgium_2019\u20132024> ,
+		dbc:Brexit ,
+		dbc:Members_of_the_Belgian_Federal_Parliament .
+@prefix dbpedia-da:	<http://da.dbpedia.org/resource/> .
+dbr:Guy_Verhofstadt	owl:sameAs	dbpedia-da:Guy_Verhofstadt .
+@prefix dbpedia-af:	<http://af.dbpedia.org/resource/> .
+dbr:Guy_Verhofstadt	owl:sameAs	dbpedia-af:Guy_Verhofstadt .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:Guy_Verhofstadt	owl:sameAs	dbpedia-es:Guy_Verhofstadt .
+@prefix dbpedia-io:	<http://io.dbpedia.org/resource/> .
+dbr:Guy_Verhofstadt	owl:sameAs	dbpedia-io:Guy_Verhofstadt .
+@prefix dbpedia-id:	<http://id.dbpedia.org/resource/> .
+dbr:Guy_Verhofstadt	owl:sameAs	dbpedia-id:Guy_Verhofstadt .
+@prefix dbpedia-hu:	<http://hu.dbpedia.org/resource/> .
+dbr:Guy_Verhofstadt	owl:sameAs	dbpedia-hu:Guy_Verhofstadt .
+@prefix dbpedia-sh:	<http://sh.dbpedia.org/resource/> .
+dbr:Guy_Verhofstadt	owl:sameAs	dbpedia-sh:Guy_Verhofstadt .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Guy_Verhofstadt	owl:sameAs	dbpedia-fr:Guy_Verhofstadt .
+@prefix dbpedia-simple:	<http://simple.dbpedia.org/resource/> .
+dbr:Guy_Verhofstadt	owl:sameAs	dbpedia-simple:Guy_Verhofstadt .
+@prefix dbpedia-tr:	<http://tr.dbpedia.org/resource/> .
+dbr:Guy_Verhofstadt	owl:sameAs	dbpedia-tr:Guy_Verhofstadt .
+@prefix dbpedia-sv:	<http://sv.dbpedia.org/resource/> .
+dbr:Guy_Verhofstadt	owl:sameAs	dbpedia-sv:Guy_Verhofstadt ,
+		<http://d-nb.info/gnd/129088730> .
+@prefix dbpedia-nn:	<http://nn.dbpedia.org/resource/> .
+dbr:Guy_Verhofstadt	owl:sameAs	dbpedia-nn:Guy_Verhofstadt ,
+		<http://el.dbpedia.org/resource/\u0393\u03BA\u03B9_\u03A6\u03B5\u03C1\u03C7\u03CC\u03C6\u03C3\u03C4\u03B1\u03C4> .
+@prefix ns27:	<http://lt.dbpedia.org/resource/> .
+dbr:Guy_Verhofstadt	owl:sameAs	ns27:Guy_Verhofstadt .
+@prefix dbpedia-pms:	<http://pms.dbpedia.org/resource/> .
+dbr:Guy_Verhofstadt	owl:sameAs	dbpedia-pms:Guy_Verhofstadt ,
+		<http://viaf.org/viaf/46907167> ,
+		<http://mr.dbpedia.org/resource/\u0917\u093E\u092F_\u0935\u094D\u0939\u0947\u0930\u094B\u092B\u094D\u0936\u094D\u091F\u093E\u091F> ,
+		<http://ru.dbpedia.org/resource/\u0412\u0435\u0440\u0445\u043E\u0444\u0441\u0442\u0430\u0434\u0442,_\u0413\u0438> .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Guy_Verhofstadt	owl:sameAs	yago-res:Guy_Verhofstadt .
+@prefix dbpedia-no:	<http://no.dbpedia.org/resource/> .
+dbr:Guy_Verhofstadt	owl:sameAs	dbpedia-no:Guy_Verhofstadt .
+@prefix dbpedia-oc:	<http://oc.dbpedia.org/resource/> .
+dbr:Guy_Verhofstadt	owl:sameAs	dbpedia-oc:Guy_Verhofstadt .
+@prefix ns32:	<https://global.dbpedia.org/id/> .
+dbr:Guy_Verhofstadt	owl:sameAs	ns32:KdK6 .
+@prefix dbpedia-ms:	<http://ms.dbpedia.org/resource/> .
+dbr:Guy_Verhofstadt	owl:sameAs	dbpedia-ms:Guy_Verhofstadt .
+@prefix ns34:	<http://mg.dbpedia.org/resource/> .
+dbr:Guy_Verhofstadt	owl:sameAs	ns34:Guy_Verhofstadt .
+@prefix dbpedia-ro:	<http://ro.dbpedia.org/resource/> .
+dbr:Guy_Verhofstadt	owl:sameAs	dbpedia-ro:Guy_Verhofstadt .
+@prefix dbpedia-eo:	<http://eo.dbpedia.org/resource/> .
+dbr:Guy_Verhofstadt	owl:sameAs	dbpedia-eo:Guy_Verhofstadt .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Guy_Verhofstadt	owl:sameAs	dbpedia-pt:Guy_Verhofstadt ,
+		<http://ko.dbpedia.org/resource/\uD788_\uBC84\uB974\uD638\uD504\uC2A4\uD0C0\uD2B8> ,
+		wikidata:Q12978 .
+@prefix dbpedia-cs:	<http://cs.dbpedia.org/resource/> .
+dbr:Guy_Verhofstadt	owl:sameAs	dbpedia-cs:Guy_Verhofstadt .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Guy_Verhofstadt	owl:sameAs	dbpedia-de:Guy_Verhofstadt ,
+		<http://ka.dbpedia.org/resource/\u10D2\u10D8_\u10D5\u10D4\u10E0\u10F0\u10DD\u10E4\u10E1\u10E2\u10D0\u10D3\u10E2\u10D8> .
+@prefix ns40:	<http://li.dbpedia.org/resource/> .
+dbr:Guy_Verhofstadt	owl:sameAs	ns40:Guy_Verhofstadt ,
+		<http://rdf.freebase.com/ns/m.012l22> ,
+		<http://be.dbpedia.org/resource/\u0413\u0456_\u0412\u0435\u0440\u0445\u043E\u0444\u0441\u0442\u0430\u0442> .
+@prefix dbpedia-sw:	<http://sw.dbpedia.org/resource/> .
+dbr:Guy_Verhofstadt	owl:sameAs	dbpedia-sw:Guy_Verhofstadt .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Guy_Verhofstadt	owl:sameAs	dbpedia-pl:Guy_Verhofstadt .
+@prefix dbpedia-br:	<http://br.dbpedia.org/resource/> .
+dbr:Guy_Verhofstadt	owl:sameAs	dbpedia-br:Guy_Verhofstadt .
+@prefix dbpedia-eu:	<http://eu.dbpedia.org/resource/> .
+dbr:Guy_Verhofstadt	owl:sameAs	dbpedia-eu:Guy_Verhofstadt .
+@prefix ns45:	<http://data.europa.eu/euodp/jrc-names/> .
+dbr:Guy_Verhofstadt	owl:sameAs	ns45:Guy_Verhofstadt .
+@prefix dbpedia-lb:	<http://lb.dbpedia.org/resource/> .
+dbr:Guy_Verhofstadt	owl:sameAs	dbpedia-lb:Guy_Verhofstadt ,
+		<http://fa.dbpedia.org/resource/\u062E\u06CC_\u0648\u0631\u0647\u0648\u0641\u0633\u062A\u0627\u062A> .
+@prefix dbpedia-fi:	<http://fi.dbpedia.org/resource/> .
+dbr:Guy_Verhofstadt	owl:sameAs	dbpedia-fi:Guy_Verhofstadt .
+@prefix dbpedia-lmo:	<http://lmo.dbpedia.org/resource/> .
+dbr:Guy_Verhofstadt	owl:sameAs	dbpedia-lmo:Guy_Verhostadt ,
+		<http://zh.dbpedia.org/resource/\u5C45\u4F0A\u00B7\u4F0F\u601D\u8FBE> .
+@prefix ns49:	<http://sw.cyc.com/concept/> .
+dbr:Guy_Verhofstadt	owl:sameAs	ns49:Mx4r9gmjWrZ2QdiEFPJEMt9TlA .
+@prefix ns50:	<http://ast.dbpedia.org/resource/> .
+dbr:Guy_Verhofstadt	owl:sameAs	ns50:Guy_Verhofstadt .
+@prefix dbpedia-la:	<http://la.dbpedia.org/resource/> .
+dbr:Guy_Verhofstadt	owl:sameAs	dbpedia-la:Guido_Verhofstadt ,
+		<http://d-nb.info/gnd/158845072> .
+@prefix dbpedia-ca:	<http://ca.dbpedia.org/resource/> .
+dbr:Guy_Verhofstadt	owl:sameAs	dbpedia-ca:Guy_Verhofstadt .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Guy_Verhofstadt	owl:sameAs	dbpedia-it:Guy_Verhofstadt ,
+		<http://ar.dbpedia.org/resource/\u062C\u0627\u064A_\u0641\u064A\u0631\u0647\u0648\u0641\u0634\u062A\u0627\u0646> ,
+		<http://sr.dbpedia.org/resource/\u0413\u0438_\u0412\u0435\u0440\u0445\u043E\u0444\u0441\u0442\u0430\u0442> ,
+		<http://uk.dbpedia.org/resource/\u0413\u0456_\u0412\u0435\u0440\u0433\u043E\u0444\u0441\u0442\u0430\u0434\u0442> .
+@prefix dbpedia-gl:	<http://gl.dbpedia.org/resource/> .
+dbr:Guy_Verhofstadt	owl:sameAs	dbpedia-gl:Guy_Verhofstadt ,
+		<http://bg.dbpedia.org/resource/\u0413\u0438_\u0412\u0435\u0440\u0445\u043E\u0444\u0441\u0442\u0430\u0442> ,
+		<http://ja.dbpedia.org/resource/\u30D2\u30FC\u30FB\u30D5\u30A7\u30EB\u30DB\u30D5\u30B9\u30BF\u30C3\u30C8> ,
+		dbr:Guy_Verhofstadt .
+@prefix dbpedia-hr:	<http://hr.dbpedia.org/resource/> .
+dbr:Guy_Verhofstadt	owl:sameAs	dbpedia-hr:Guy_Verhofstadt ;
+	schema:sameAs	<http://viaf.org/viaf/46907167> ;
+	dbo:abstract	"Guy Maurice Marie Louise Verhofstadt  (* 11. April 1953 in Dendermonde) ist ein belgischer Politiker der Fl\u00E4mischen Liberalen und Demokraten (Open Vld). Er ist seit 2009 Mitglied des Europ\u00E4ischen Parlaments, in dem er bis 2019 die liberale Fraktion ALDE leitete. Zuvor war er unter anderem von 1999 bis 2008 Premierminister Belgiens. Im September 2016 wurde er zum Chefunterh\u00E4ndler des Europ\u00E4ischen Parlaments f\u00FCr die Austrittsverhandlungen mit dem Vereinigten K\u00F6nigreich (\u201EBrexit\u201C) ernannt."@de ,
+		"Guy Maurice Marie Louise Verhofstadt (nederlanderaz: [\u02C8\u0263i\u02D0 v\u0259r\u02C8\u0266\u0254fst\u0251t] ( entzun); 1953ko apirilaren 11) belgiar politikaria da eta herrialde horretako 47. lehen ministroa izan zen 1999 eta 2008 bitarte. . 2009tik Europako Parlamentuko kide da eta bertako Europarako Liberalen eta Demokraten Aliantza taldeko (ALDE) liderra da. 2014ko Europako Parlamenturako hauteskundeetan Liberalen eta Demokraten aliantza bera aukeratu zuten Europako Batzordeko lehendakari izateko."@eu ,
+		"Guy Verhofstadt (* 11. dubna 1953, Dendermonde, Belgie) je belgick\u00FD politik a b\u00FDval\u00FD premi\u00E9r Belgie."@cs ,
+		"Guy Verhofstadt (prononc\u00E9 en n\u00E9erlandais : /\u02C8\u0263i\u02D0 v\u0259r\u02C8\u0266\u0254fst\u0251t/, prononc\u00E9 en fran\u00E7ais : /\u0261i v\u0259\u0281\u0254fstad/), n\u00E9 le 11 avril 1953 \u00E0 Termonde, est un homme d'\u00C9tat belge, 36e Premier ministre du Royaume de Belgique de 1999 \u00E0 2008. Ministre d'\u00C9tat belge, il est membre de l'Open Vld de tendance lib\u00E9rale. Depuis le 30 juin 2009, il est d\u00E9put\u00E9 europ\u00E9en et pr\u00E9side le groupe parlementaire Alliance des d\u00E9mocrates et des lib\u00E9raux pour l'Europe (ADLE) de 2009 \u00E0 2019. Il est \u00E9galement co-fondateur du Groupe Spinelli, qui vise \u00E0 rassembler les d\u00E9put\u00E9s europ\u00E9ens f\u00E9d\u00E9ralistes parmi les diverses tendances politiques. En 2014, il est candidat \u00E0 la pr\u00E9sidence de la Commission europ\u00E9enne, soutenu par le Parti de l'Alliance des lib\u00E9raux et des d\u00E9mocrates pour l'Europe et le Parti d\u00E9mocrate europ\u00E9en ; il obtient 7,2 % des suffrages."@fr ,
+		"\u0413\u0438 \u0412\u0435\u0440\u0445\u043E\u0301\u0444\u0441\u0442\u0430\u0434\u0442 (\u043D\u0438\u0434\u0435\u0440\u043B. Guy Verhofstadt; \u0440\u043E\u0434. 11 \u0430\u043F\u0440\u0435\u043B\u044F 1953, \u0414\u0435\u043D\u0434\u0435\u0440\u043C\u043E\u043D\u0434\u0435, \u0411\u0435\u043B\u044C\u0433\u0438\u044F) \u2014 \u0431\u0435\u043B\u044C\u0433\u0438\u0439\u0441\u043A\u0438\u0439 \u043F\u043E\u043B\u0438\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0439 \u0434\u0435\u044F\u0442\u0435\u043B\u044C, \u043F\u0440\u0435\u043C\u044C\u0435\u0440-\u043C\u0438\u043D\u0438\u0441\u0442\u0440 \u0411\u0435\u043B\u044C\u0433\u0438\u0438 \u0441 \u0438\u044E\u043B\u044F 1999 \u0433\u043E\u0434\u0430 \u043F\u043E \u043C\u0430\u0440\u0442 2008 \u0433\u043E\u0434\u0430. \u0412 2007 \u0433\u043E\u0434\u0443 \u0441\u0442\u0430\u043B \u043A\u0430\u0432\u0430\u043B\u0435\u0440\u043E\u043C \u0411\u043E\u043B\u044C\u0448\u043E\u0433\u043E \u041A\u0440\u0435\u0441\u0442\u0430 \u041E\u0440\u0434\u0435\u043D\u0430 \u041A\u043E\u0440\u043E\u043D\u044B. \u0412 \u0441\u0435\u043D\u0442\u044F\u0431\u0440\u0435 2016 \u0431\u044B\u043B \u043D\u0430\u0437\u043D\u0430\u0447\u0435\u043D \u043F\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u0438\u0442\u0435\u043B\u0435\u043C \u0415\u0432\u0440\u043E\u043F\u0435\u0439\u0441\u043A\u043E\u0433\u043E \u043F\u0430\u0440\u043B\u0430\u043C\u0435\u043D\u0442\u0430 \u043F\u043E \u0432\u043E\u043F\u0440\u043E\u0441\u0430\u043C \u0411\u0440\u0435\u043A\u0441\u0438\u0442\u0430."@ru ,
+		"Guy Maurice Marie Louise Verhofstadt (Dendermonde, 11 aprile 1953) \u00E8 un politico belga, di orientamento liberale, attivo sia in Belgio sia nelle istituzioni dell'Unione europea. Primo ministro del Belgio dal 1999 al 2008, ha ricoperto anche la carica di Vice Primo ministro e Ministro del bilancio dal 1985 al 1987. \u00C8 stato membro della Camera dei rappresentanti dal 1985 al 1995. Dal 2009 \u00E8 membro del Parlamento europeo dove \u00E8 presidente del Gruppo dell'Alleanza dei Democratici e dei Liberali per l'Europa, ha fondato il gruppo federale inter-parlamentare Spinelli. \u00C8 stato candidato dal Partito dell'Alleanza dei Liberali e dei Democratici per l'Europa alla carica di Presidente della Commissione europea nelle elezioni del Parlamento europeo del 2014, ed \u00E8 il rappresentante del Parlamento europeo nei negoziati Brexit."@it ,
+		"Guy Maurice Marie Louise Verhofstadt (Dendermonde, 11 de Abril de 1953) \u00E9 um pol\u00EDtico flamengo. Foi primeiro-ministro da B\u00E9lgica entre 1999 e 2008."@pt ,
+		"Guy Verhofstadt (Dendermonde, B\u00E9lgica, 11 de abril de 1953) es un pol\u00EDtico europeo, l\u00EDder de ALDE entre 2009 y 2019,\u200B as\u00ED y como su portavoz en el grupo parlamentario hom\u00F3nimo del Parlamento Europeo. Entre los a\u00F1os 1999 a 2008 ocup\u00F3 el cargo de Primer Ministro de B\u00E9lgica."@es ,
+		"\uD788 \uBAA8\uB9AC\uC2A4 \uB9C8\uB9AC \uB8E8\uC774\uC988 \uBC84\uB974\uD638\uD504\uC2A4\uD0C0\uD2B8(Guy Maurice Marie Louise Verhofstadt, 1953\uB144 4\uC6D4 11\uC77C ~ )\uB294 \uBCA8\uAE30\uC5D0\uC758 \uC815\uCE58\uC778\uC774\uB2E4. \uADF8\uB294 2009\uB144 \uC774\uB798 \uBCA8\uAE30\uC5D0\uC5D0\uC11C \uC628 \uC720\uB7FD \uC758\uD68C \uC758\uC6D0\uACFC \uC720\uB7FD\uC790\uC720\uBBFC\uC8FC\uB3D9\uB9F9\uC758 \uB2F9\uC218\uC774\uB2E4. 1999\uB144\uBD80\uD130 2008\uB144\uAE4C\uC9C0 47\uB300 \uCD1D\uB9AC\uB97C \uC9C0\uB0B4\uC654\uC73C\uBA70, 1985\uB144\uBD80\uD130 1992\uB144\uAE4C\uC9C0 \uC608\uC0B0\uBD80 \uC7A5\uAD00 \uACB8 \uBD80\uCD1D\uB9AC\uB97C \uC5ED\uC784\uD558\uC600\uB2E4. \uADF8\uB294 1985\uB144\uBD80\uD130 2009\uB144\uAE4C\uC9C0 \uD558\uC6D0 \uC758\uC6D0\uC774\uC5C8\uB2E4. \uC790\uC2E0\uC774 \uC720\uB7FD\uC790\uC720\uBBFC\uC8FC\uB3D9\uB9F9\uC758 \uB2F9\uC218\uC600\uB358 \uC720\uB7FD \uC758\uD68C\uC758 \uC758\uC6D0\uC744 \uC9C0\uB0B4\uC628 \uADF8\uB294 \uC138\uACC4 \uC758\uC6D0 \uC5F0\uB9F9\uC758 \uC5F0\uBC29\uC8FC\uC758\uC801 \uC2A4\uD53C\uB12C\uB9AC \uADF8\uB8F9\uC744 \uCC3D\uB9BD\uD558\uC600\uB2E4. 2014\uB144 \uC720\uB7FD \uC758\uD68C \uC120\uAC70\uC5D0\uC11C \uC720\uB7FD \uC704\uC6D0\uD68C\uC758 \uC758\uC7A5\uC744 \uC704\uD55C \uC720\uB7FD\uC790\uC720\uBBFC\uC8FC\uB3D9\uB9F9\uC758 \uD6C4\uBCF4\uC600\uB2E4. 2016\uB144 9\uC6D4 \uBC84\uB974\uD638\uD504\uC2A4\uD0C0\uD2B8\uB294 \uC720\uB7FD \uC758\uD68C\uB97C \uC704\uD558\uC5EC \uBE0C\uB809\uC2DC\uD2B8\uC758 \uD611\uC0C1\uC790\uB85C \uC784\uBA85\uB418\uC5C8\uB2E4."@ko ,
+		"\u30D2\u30FC\u30FB\u30E2\u30FC\u30EA\u30B9\u30FB\u30DE\u30EA\u30FB\u30EB\u30A4\u30FC\u30BA\u30FB\u30D5\u30A7\u30EB\u30DB\u30D5\u30B9\u30BF\u30C3\u30C8\uFF08Guy Maurice Marie Louise Verhofstadt\u30011953\u5E744\u670811\u65E5 - \uFF09\u306F\u3001\u30D9\u30EB\u30AE\u30FC\u306E\u653F\u6CBB\u5BB6\u30021999\u5E74\u304B\u30892008\u5E74\u307E\u3067\u540C\u56FD\u9996\u76F8\u3092\u52D9\u3081\u305F\u3002"@ja ,
+		"Guy Verhofstadt, fullst\u00E4ndigt namn Guy Maurice Marie Louise Verhofstadt, f\u00F6dd 11 april 1953 i Dendermonde, Belgien, \u00E4r en belgisk politiker och var Belgiens premi\u00E4rminister mellan 1999 och 2008. Han \u00E4r gruppledare f\u00F6r Gruppen Alliansen liberaler och demokrater f\u00F6r Europa (ALDE) sedan Europaparlamentsvalet 2009. I november 2013 uts\u00E5g ALDE Guy Verhofstadt till sin kandidat till kommissionsordf\u00F6rande inf\u00F6r Europaparlamentsvalet 2014."@sv ,
+		"Guy Verhofstadt (Dendermonde, 11 d'abril de 1953) \u00E9s un pol\u00EDtic flamenc i l\u00EDder de l'Alian\u00E7a dels Liberals i Dem\u00F2crates per Europa des de l'any 2009. Fou el primer ministre de B\u00E8lgica des del 1999 fins al 2008."@ca ,
+		"(IPA: [\u0263i: v\u0259\u027E\u02C8\u0266\u0254fst\u0251t]) (terlahir Guy Maurice Marie Louise Verhofstadt pada 11 April 1953 di Dendermonde, Belgia) adalah politikus Belgia dan mantan Perdana Menteri Belgia. Ia mengetuai Flemish Liberal Student's Union dari 1972-1974) ketika sedang menjalani pendidikannya di bidang hukum di Ghent."@in ,
+		"Guy Maurice Marie Louise Verhofstadt (wym. ; ur. 11 kwietnia 1953 w Dendermonde) \u2013 belgijski i flamandzki polityk, premier Belgii w latach 1999\u20132008, pose\u0142 do Parlamentu Europejskiego VII, VIII i IX kadencji, przewodnicz\u0105cy grupy liberalnej w PE. Brat belgijskiego teoretyka liberalizmu Dirka Verhofstadta. Deklaruje si\u0119 jako zwolennik koncepcji powo\u0142ania Stan\u00F3w Zjednoczonych Europy, co przedstawi\u0142 w opublikowanej w 2005 ksi\u0105\u017Cce Verenigde Staten van Europa."@pl ,
+		"\u062C\u0627\u064A \u0641\u064A\u0631\u0647\u0648\u0641\u0634\u062A\u0627\u0646 \u0648\u0644\u062F \u0641\u064A 11 \u0623\u0628\u0631\u064A\u0644 1953 \u0641\u064A  \u0641\u064A \u0628\u0644\u062C\u064A\u0643\u0627 \u060C\u0633\u064A\u0627\u0633\u064A \u0628\u0644\u062C\u064A\u0643\u064A \u0634\u063A\u0644 \u0645\u0646\u0635\u0628 \u0631\u0626\u064A\u0633 \u0648\u0632\u0631\u0621 \u0628\u0644\u062C\u064A\u0643\u0627 \u0645\u0646 12 \u064A\u0648\u0644\u064A\u0648 1999 \u0625\u0644\u0649 20 \u0645\u0627\u0631\u0633 2008 \u060C\u0648\u0623\u062D\u062F \u0627\u0644\u0645\u0639\u0627\u0631\u0636\u064A\u0646 \u0644\u0645\u0639\u0627\u0647\u062F\u0629 \u0644\u0634\u0628\u0648\u0646\u0629 \u0644\u0644\u0627\u062A\u062D\u0627\u062F \u0627\u0644\u0623\u0648\u0631\u0648\u0628\u064A."@ar ,
+		"Guy Maurice Marie Louise Verhofstadt (Dutch: [\u02C8\u0263i\u02D0 v\u0259r\u02C8\u0266\u0254fst\u0251t] (); French: [\u0261i v\u0259\u0281\u0254fstad]; born 11 April 1953) is a Belgian politician who was the Leader of the Alliance of Liberals and Democrats for Europe from 2009 to 2019, and has been a Member of the European Parliament (MEP) from Belgium since 2009. He was the 47th Prime Minister of Belgium from 1999 to 2008, Deputy Prime Minister of Belgium from 1985 to 1992 and Minister of Budget from 1985 to 1992. He was a Member of the Chamber of Representatives from 1985 to 2009. Since 2009, he has been a Member of the European Parliament, led the Alliance of Liberals and Democrats for Europe Group (ALDE) from 2009 to 2019, and founded the inter-parliamentarian federalist Spinelli Group. He was the Alliance of Liberals and Democrats for Europe Party nominee for President of the European Commission in the 2014 European Parliament election, and has been the European Parliament's Brexit Coordinator and Chair of the Brexit Steering Group since 2016. He is an advocate for federalisation of the European Union."@en ,
+		"\u039F \u0393\u03BA\u03B9 \u03A6\u03B5\u03C1\u03C7\u03CC\u03C6\u03C3\u03C4\u03B1\u03C4 (Guy Maurice Marie-Louise Verhofstadt, 11 \u0391\u03C0\u03C1\u03B9\u03BB\u03AF\u03BF\u03C5 1953) \u03B5\u03AF\u03BD\u03B1\u03B9 \u03C0\u03BF\u03BB\u03B9\u03C4\u03B9\u03BA\u03CC\u03C2 \u03B1\u03C0\u03CC \u03C4\u03BF \u0392\u03AD\u03BB\u03B3\u03B9\u03BF, \u03C0\u03BF\u03C5 \u03B4\u03B9\u03B5\u03C4\u03AD\u03BB\u03B5\u03C3\u03B5 \u03C0\u03C1\u03C9\u03B8\u03C5\u03C0\u03BF\u03C5\u03C1\u03B3\u03CC\u03C2 \u03B1\u03C0\u03CC \u03C4\u03BF 1999 \u03C9\u03C2 \u03C4\u03BF 2008. \u0391\u03C0\u03CC \u03C4\u03BF 2009 \u03B7\u03B3\u03B5\u03AF\u03C4\u03B1\u03B9 \u03C4\u03B7\u03C2 \u03A3\u03C5\u03BC\u03BC\u03B1\u03C7\u03AF\u03B1\u03C2 \u03A6\u03B9\u03BB\u03B5\u03BB\u03B5\u03C5\u03B8\u03AD\u03C1\u03C9\u03BD \u03BA\u03B1\u03B9 \u0394\u03B7\u03BC\u03BF\u03BA\u03C1\u03B1\u03C4\u03CE\u03BD \u03B3\u03B9\u03B1 \u03C4\u03B7\u03BD \u0395\u03C5\u03C1\u03CE\u03C0\u03B7, \u03C4\u03B7\u03C2 \u03C4\u03C1\u03AF\u03C4\u03B7\u03C2 \u03BC\u03B5\u03B3\u03B1\u03BB\u03CD\u03C4\u03B5\u03C1\u03B7\u03C2 \u03C0\u03BF\u03BB\u03B9\u03C4\u03B9\u03BA\u03AE\u03C2 \u03BF\u03BC\u03AC\u03B4\u03B1\u03C2 \u03C4\u03BF\u03C5 \u0395\u03C5\u03C1\u03C9\u03C0\u03B1\u03CA\u03BA\u03BF\u03CD \u039A\u03BF\u03B9\u03BD\u03BF\u03B2\u03BF\u03CD\u03BB\u03B9\u03BF\u03C5, \u03B7 \u03BF\u03C0\u03BF\u03AF\u03B1 \u03C4\u03BF\u03BD \u03B5\u03C0\u03AD\u03BB\u03B5\u03BE\u03B5 \u03BA\u03B1\u03B9 \u03C9\u03C2 \u03C5\u03C0\u03BF\u03C8\u03AE\u03C6\u03B9\u03BF \u03B3\u03B9\u03B1 \u03C4\u03B7 \u03B8\u03AD\u03C3\u03B7 \u03C4\u03BF\u03C5 \u03A0\u03C1\u03BF\u03AD\u03B4\u03C1\u03BF\u03C5 \u03C4\u03B7\u03C2 \u0395\u03C5\u03C1\u03C9\u03C0\u03B1\u03CA\u03BA\u03AE\u03C2 \u0395\u03C0\u03B9\u03C4\u03C1\u03BF\u03C0\u03AE\u03C2 \u03B5\u03BD\u03CC\u03C8\u03B5\u03B9 \u03C4\u03C9\u03BD \u03B5\u03C0\u03B9\u03BA\u03B5\u03AF\u03BC\u03B5\u03BD\u03C9\u03BD \u0395\u03C5\u03C1\u03C9\u03B5\u03BA\u03BB\u03BF\u03B3\u03CE\u03BD."@el ,
+		"Guy VERHOFSTADT (naski\u011Dis la 11-an de aprilo 1953 en Dendermonde) estas flandra politikisto de la partio VLD. Verhofstadt estis \u0109efministro de du belgaj registaroj. Li studis en la Genta Re\u011Da Ateneo Voskenslaan. En 1976 li elekti\u011Dis kiel membro de la municipa konsilantaro kaj en 1979 li i\u011Dis la nacia prezidanto de PVV Junularo. Jam en 1982 li estis la nacia prezidanto de PVV, kiam Willy De Clercq i\u011Dis financministro. En 1985 Verhofstadt unuafoje elekti\u011Dis kiel parlamentano. La 28-an de novembro de tiu jaro li ali\u011Dis al la registaro de Wilfried Martens 6 kiel ministro pri bu\u011Deto kaj scienca esplorado. Tiu \u0109i registaro jam falis la 19-an de oktobro 1987. Verhofstadt do preska\u016D du jarojn estis ministro. En tiu mallonga periodo li tamen stampis la politikon. Li kondukis severan, novliberalan direkton kun strikta bu\u011Deto. La 12-an de julio 1999 li i\u011Dis \u0109efministro de Belgio (en koalicio inter la naciaj liberaluloj kaj verduloj, kaj fone de pluraj politikaj kaj justicaj skandaloj en la lando tre penis draste trakonstrui la politikan sistemon. La 18-an de majo 2003 li por dua oficperiodo reelekti\u011Dis \u0109efministro de Belgio, nun tamen en koalicio kun la du belgaj socialistaj partioj (Partio Socialista (Belgio) () kaj sp.a / Socialistische Partij Anders). Dum la parlamentaj balotoj de la 10-a de junio 2007 en Belgio la registara koalicio signife perdis vo\u0109ojn, kaj Guy Vorhofstadt anoncis sian demision. En la jaro 2011 Verhofstadt ekestis frakciestro de la Alianco de Liberaluloj kaj Demokratoj por E\u016Dropo en la E\u016Dropa Parlamento. En la jaro 2014 li estis reelektita al la E\u016Dropa Parlamento, anka\u016D en tiuj balotoj li estis kandidato de Alianco de Liberaluloj kaj Demokratoj por E\u016Dropo por la posteno de prezidanto de E\u016Dropa Komisiono. Li denove nun estas la frakciestro de la Alianco de Liberaluloj kaj Demokratoj por E\u016Dropo en la E\u016Dropa Parlamento anka\u016D en la 8-a oficperiodo de la E\u016Dropa Parlamento. Dum novembro 2017 publike en E\u016Dropa Parlamento li post la tago de nacia festo en Pollando kiu estis la 11a de novembro 2017 - temas pri la Nacia tago de sendependeco (Pollando) (la 11a de novembro) dum kiu \u0109iujare okazadas la tradicia \"Mar\u015Do de Sendependeco\" - li nomis la partoprenantojn de \u011Di jene: \"... en la mar\u015Do partoprenis 60 miloj da novnazioj kaj fa\u015Distoj ...\", tiuj vortoj vokis kritikon kaj protestojn de multaj polaj medioj kaj ili anoncis la plendon (akuzon) kontra\u016D Verhofstadt."@eo ,
+		"\u5C45\u4F0A\u00B7\u4F0F\u601D\u8FBE\uFF08Guy Verhofstadt\uFF0C1953\u5E744\u670811\u65E5\uFF0D\uFF09\uFF0C\u53C8\u8BD1\u4E3A\u5C45\u4F0A\u00B7\u8D39\u5C14\u970D\u592B\u65BD\u5854\u7279\u3001\u76D6\u00B7\u7EF4\u970D\u592B\u65AF\u5854\uFF0C\u524D\u4EFB\u6BD4\u5229\u65F6\u9996\u76F8\u3001\u6B27\u6D32\u8BAE\u4F1A\u81EA\u7531\u6C11\u4E3B\u515A\u515A\u56E2\u4E3B\u5E2D\u3002"@zh ,
+		"\u0413\u0456 \u041C\u043E\u0440\u0456\u0441 \u041C\u0430\u0440\u0456 \u041B\u0443\u0457\u0437 \u0412\u0435\u0440\u0433\u043E\u0444\u0441\u0442\u0430\u0434\u0442 (\u0442\u0430\u043A\u043E\u0436 \u0490\u0456 \u0412\u0435\u0440\u0433\u043E\u0444\u0441\u0442\u0430\u0434\u0442, \u0413\u0456 \u0412\u0435\u0440\u0445\u043E\u0444\u0441\u0442\u0430\u0434\u0442, \u043D\u0456\u0434. Guy Maurice Marie Louise Verhofstadt; \u043D\u0430\u0440. 11 \u043A\u0432\u0456\u0442\u043D\u044F 1953) \u2014 \u0431\u0435\u043B\u044C\u0433\u0456\u0439\u0441\u044C\u043A\u0438\u0439 \u043F\u043E\u043B\u0456\u0442\u0438\u043A. \u041F\u0440\u0435\u043C'\u0454\u0440-\u043C\u0456\u043D\u0456\u0441\u0442\u0440 \u0411\u0435\u043B\u044C\u0433\u0456\u0457 \u0437 12 \u043B\u0438\u043F\u043D\u044F 1999 \u043F\u043E 20 \u0431\u0435\u0440\u0435\u0437\u043D\u044F 2008. \u0417 2009 \u0440\u043E\u043A\u0443 \u0432\u0456\u043D \u0447\u043B\u0435\u043D \u0404\u0432\u0440\u043E\u043F\u0435\u0439\u0441\u044C\u043A\u043E\u0433\u043E \u043F\u0430\u0440\u043B\u0430\u043C\u0435\u043D\u0442\u0443 \u0432\u0456\u0434 \u043F\u0430\u0440\u0442\u0456\u0457 \u0412\u0456\u0434\u043A\u0440\u0438\u0442\u0456 \u0444\u043B\u0430\u043C\u0430\u043D\u0434\u0441\u044C\u043A\u0456 \u043B\u0456\u0431\u0435\u0440\u0430\u043B\u0438 \u0456 \u0434\u0435\u043C\u043E\u043A\u0440\u0430\u0442\u0438 \u0456 \u043B\u0456\u0434\u0435\u0440 \u0444\u0440\u0430\u043A\u0446\u0456\u0457 \u0410\u043B\u044C\u044F\u043D\u0441 \u043B\u0456\u0431\u0435\u0440\u0430\u043B\u0456\u0432 \u0456 \u0434\u0435\u043C\u043E\u043A\u0440\u0430\u0442\u0456\u0432 \u0437\u0430 \u0404\u0432\u0440\u043E\u043F\u0443."@uk ;
+	dbp:years	1999 ,
+		2009 .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Guy_Verhofstadt	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Guy_Verhofstadt?oldid=985190725&ns=0> ;
+	dbp:honorificSuffix	dbr:Member_of_the_European_Parliament ;
+	dbp:as	"Leader of Renew Europe"@en ;
+	dbp:successor	"Dacian Ciolo\u0219"@en ,
+		"Office abolished"@en ,
+		dbr:Yves_Leterme ,
+		"Pedro Manns"@en ;
+	dbp:monarch	dbr:Albert_II_of_Belgium ;
+	dbp:deputy	dbr:Laurette_Onkelinx ,
+		dbr:Didier_Reynders ;
+	dbp:name	"Guy Verhofstadt"@en ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Guy_Verhofstadt_EP_press_conference_3.jpg?width=300> ;
+	dbo:birthPlace	dbr:Dendermonde ,
+		dbr:Belgium ;
+	dbp:birthPlace	dbr:Dendermonde ,
+		dbr:Belgium .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Guy_Verhofstadt	dbo:birthDate	"1953-04-11"^^xsd:date ;
+	dbp:office	"Chair of the Brexit Steering Group"@en ,
+		dbr:Member_of_the_European_Parliament ,
+		47 ,
+		dbr:European_Parliament ,
+		"Deputy Prime Minister of Belgium"@en ,
+		"Member of the Chamber of Representatives"@en ,
+		"Leader of the Alliance of Liberals and Democrats for Europe Group"@en ,
+		<http://dbpedia.org/resource/Minister_of_Budget_(Belgium)> ,
+		dbr:Brexit_negotiations ,
+		"for Belgium"@en ;
+	dbp:party	"Open Flemish Liberals and Democrats"@en ,
+		"Party for Freedom and Progress"@en ;
+	dbp:president	dbr:David_Sassoli ,
+		dbr:Graham_Watson ,
+		dbr:Antonio_Tajani ,
+		dbr:Martin_Schulz ,
+		dbr:Hans_van_Baalen ,
+		dbr:Annemie_Neyts-Uyttebroeck ;
+	dbp:termEnd	"2020-01-31"^^xsd:date ,
+		"1992-03-07"^^xsd:date ,
+		"2008-03-20"^^xsd:date ,
+		"2019-07-01"^^xsd:date ,
+		"2009-06-14"^^xsd:date ;
+	dbp:termStart	"1985-10-13"^^xsd:date ,
+		"2009-07-01"^^xsd:date ,
+		"2016-09-08"^^xsd:date ,
+		"2009-07-14"^^xsd:date ,
+		"1999-07-12"^^xsd:date ,
+		"1985-05-14"^^xsd:date ;
+	dbp:otherparty	"Alliance of Liberals and Democrats for Europe"@en ,
+		"Renew Europe"@en ;
+	dbo:signature	"Signature of Guy Verhofstadt.png" ;
+	dbo:party	dbr:Open_Vlaamse_Liberalen_en_Democraten ,
+		dbr:Party_for_Freedom_and_Progress ,
+		dbr:Renew_Europe ,
+		dbr:Alliance_of_Liberals_and_Democrats_for_Europe ;
+	dbo:termPeriod	dbr:Guy_Verhofstadt__Tenure__1 ,
+		dbr:Guy_Verhofstadt__Tenure__5 ,
+		dbr:Guy_Verhofstadt__Tenure__6 ,
+		dbr:Guy_Verhofstadt__Tenure__7 ,
+		dbr:Guy_Verhofstadt__Tenure__4 ,
+		dbr:Guy_Verhofstadt__Tenure__3 ,
+		dbr:Guy_Verhofstadt__Tenure__2 ;
+	dbp:primeminister	"Wilfried Martens"@en ,
+		dbr:Wilfried_Martens ;
+	dbp:predecessor	"Leo Uberman"@en ,
+		"Alan Vanackere"@en ,
+		dbr:Graham_Watson ,
+		"Office established"@en ,
+		dbr:Jean-Luc_Dehaene ;
+	dbp:signature	"Signature of Guy Verhofstadt.png"@en ;
+	dbo:wikiPageExternalLink	<https://web.archive.org/web/20190212173737/http:/spinelligroup.eu/> ,
+		<https://web.archive.org/web/20101026021044/http:/www.alde.eu/alde-group/guy-verhofstadt-mep-leader-alde-group/> ,
+		<http://www.europarl.europa.eu/members/public/geoSearch/search.do%3Fcountry=BE&zone=Nederlands+Kiescollege&language=EN/> ,
+		<http://www.guyverhofstadt.be/> .
+@prefix ns58:	<https://web.archive.org/web/20100312053332/http:/www.iiea.com/events/> .
+dbr:Guy_Verhofstadt	dbo:wikiPageExternalLink	ns58:politics-talk-guy-verhofstadt-belgium-mep ,
+		<http://www.federalists.eu/> ;
+	dbp:birthDate	"1953-04-11"^^xsd:date ;
+	dbp:after	<http://dbpedia.org/resource/Dacian_Ciolo\u0219> ;
+	dbp:birthName	"Guy Maurice Marie Louise Verhofstadt"@en ;
+	dbo:birthName	"Guy Maurice Marie Louise Verhofstadt"@en ;
+	dbp:education	dbr:Ghent_University ;
+	dbo:education	dbr:Ghent_University ;
+	dbp:children	"2019-05-02"^^xsd:date ;
+	dbp:spouse	"Dominique Verkinderen"@en .
+@prefix ns59:	<http://www.w3.org/2006/03/wn/wn20/instances/> .
+dbr:Guy_Verhofstadt	dbp:wordnet_type	ns59:synset-incumbent-noun-1 ,
+		ns59:synset-chancellor-noun-1 ;
+	dbo:wikiPageID	145933 ;
+	dbo:wikiPageRevisionID	985190725 ;
+	dbo:wikiPageWikiLink	dbr:Friends_of_Europe ,
+		<http://dbpedia.org/resource/Category:MEPs_for_Belgium_2009\u20132014> ,
+		dbr:Dioxin_affair ,
+		dbr:Antonio_Tajani ,
+		dbr:Order_of_Merit_of_the_Republic_of_Poland ,
+		dbr:Royal_Norwegian_Order_of_Merit ,
+		dbr:Partition_of_Belgium ,
+		dbr:United_States_of_Europe ,
+		dbc:Politics_of_Europe ,
+		dbc:Royal_Norwegian_Order_of_Merit ,
+		dbr:Donald_Trump ,
+		dbr:Twitter ,
+		dbr:Louis_Michel ,
+		dbr:Prime_Minister_of_Belgium ,
+		dbr:Bournemouth ,
+		<http://dbpedia.org/resource/2003_Belgian_federal_election> ,
+		<http://dbpedia.org/resource/2009_European_Parliament_election_in_Belgium> ,
+		dbr:Project_Syndicate ,
+		dbr:Berggruen_Institute ,
+		dbr:Political_philosophy ,
+		<http://dbpedia.org/resource/2014_European_Parliament_election> ,
+		dbr:Party_for_Freedom_and_Progress ,
+		<http://dbpedia.org/resource/Minister_of_Budget_(Belgium)> ,
+		dbr:Carles_Puigdemont ,
+		dbr:Nigel_Farage ,
+		dbr:European_Union ,
+		dbr:Zaventem ,
+		dbr:European_Commission ,
+		dbr:French_Revolution ,
+		dbr:Club_of_Madrid ,
+		<http://dbpedia.org/resource/Fran\u00E7ois_Hollande> ,
+		dbr:Didier_Reynders ,
+		dbr:Party_of_European_Socialists ,
+		dbc:Commanders_Grand_Cross_of_the_Order_of_the_Polar_Star ,
+		dbr:Belgian_colonial_empire ,
+		dbr:International_Monetary_Fund ,
+		dbr:Order_of_Merit_of_the_Italian_Republic ,
+		dbr:Dendermonde ,
+		dbr:David_Cameron ,
+		dbr:Flemish_Movement ,
+		dbr:Tony_Blair ,
+		dbr:European_Movement_International ,
+		dbr:United_Kingdom ,
+		dbr:United_States ,
+		dbr:Moscow_Kremlin ,
+		<http://dbpedia.org/resource/2016_United_Kingdom_European_Union_membership_referendum> ,
+		<http://dbpedia.org/resource/Category:MEPs_for_Belgium_2014\u20132019> ,
+		<http://dbpedia.org/resource/Category:MEPs_for_Belgium_2019\u20132024> ,
+		dbr:Aung_San_Suu_Kyi ,
+		dbr:Federalisation_of_the_European_Union ,
+		dbr:Declaration_of_independence ,
+		dbr:Exmar_Shipmanagement ,
+		dbc:Brexit ,
+		dbr:Spinelli_Group ,
+		dbr:Martin_Schulz ,
+		dbr:Graham_Watson ,
+		dbr:Yves_Leterme ,
+		<http://dbpedia.org/resource/Dacian_Ciolo\u0219> ,
+		dbr:Brussels_Airport ,
+		<http://dbpedia.org/resource/2007\u201308_Belgian_government_formation> ,
+		dbr:Socialistische_Partij_Anders ,
+		dbr:Fifth_column ,
+		dbc:Open_Vlaamse_Liberalen_en_Democraten_MEPs ,
+		<http://dbpedia.org/resource/File:Afscheid_oud-premier_Juncker_(12596139824).jpg> ,
+		<http://dbpedia.org/resource/File:Big_Crunch_Presidential_Debate_(14069695682).jpg> ,
+		<http://dbpedia.org/resource/File:Defense.gov_News_Photo_050608-F-7203T-130.jpg> ,
+		<http://dbpedia.org/resource/File:Flickr_-_Converg\u00E8ncia_Democr\u00E0tica_de_Catalunya_-_President_Mas_durant_la_roda_de_premsa_amb_Verhofstadt,_Watson_i_Tremosa.jpg> ,
+		<http://dbpedia.org/resource/File:Vladimir_Putin_in_Belgium_1-2_October_2001-2.jpg> ,
+		<http://dbpedia.org/resource/People\u0027s_Union_(Belgium)> ,
+		dbr:Atrocities_in_the_Congo_Free_State ,
+		dbr:Brussels-Halle-Vilvoorde ,
+		<http://dbpedia.org/resource/2005_Dutch_European_Constitution_referendum> ,
+		dbr:DHL ,
+		dbr:Wilfried_Martens ,
+		dbr:Bahraini_uprising_of_2011 ,
+		dbr:LVSV ,
+		dbr:Greek_government-debt_crisis ,
+		<http://dbpedia.org/resource/Constitutional_Court_(Belgium)> ,
+		dbr:President_of_the_European_Commission ,
+		dbr:European_Parliament ,
+		<http://dbpedia.org/resource/Jos\u00E9_Manuel_Barroso> ,
+		<http://dbpedia.org/resource/Groen_(political_party)> ,
+		dbr:Conference_of_Presidents_of_the_European_Parliament ,
+		dbr:List_of_prime_ministers_of_Belgium ,
+		dbr:Dirk_Verhofstadt ,
+		dbr:Vladimir_Putin ,
+		dbr:Belgium ,
+		dbr:Social_liberalism ,
+		dbr:Order_of_the_Dannebrog ,
+		<http://dbpedia.org/resource/Viktor_Orb\u00E1n> ,
+		dbr:European_Parliament_Committee_on_Constitutional_Affairs ,
+		dbr:Theresa_May ,
+		dbr:Federal_Government_of_Belgium ,
+		dbr:Iraq_disarmament_crisis ,
+		<http://dbpedia.org/resource/Order_of_the_Crown_(Belgium)> ,
+		dbr:India ,
+		dbr:David_Sassoli ,
+		<http://dbpedia.org/resource/Liberal_Democrats_(UK)> ,
+		dbr:Belgian_Revolution ,
+		<http://dbpedia.org/resource/2006_Lebanon_War> ,
+		<http://dbpedia.org/resource/2003_invasion_of_Iraq> ,
+		<http://dbpedia.org/resource/Category:Grand_Crosses_of_the_Order_of_the_Crown_(Belgium)> ,
+		dbc:Grand_Crosses_of_the_Order_of_the_Dannebrog ,
+		dbr:Renew_Europe ,
+		dbc:Ghent_University_alumni ,
+		dbr:Alliance_of_Liberals_and_Democrats_for_Europe_Party ,
+		dbr:Sofina ,
+		<http://dbpedia.org/resource/2007_Belgian_federal_election> ,
+		<http://dbpedia.org/resource/Category:Grand_Crosses_of_the_Order_of_Honour_(Greece)> ,
+		<http://dbpedia.org/resource/Chamber_of_Representatives_(Belgium)> ,
+		dbr:Congo_Free_State ,
+		dbr:President_of_Turkey ,
+		dbr:The_Parliament_Magazine ,
+		dbr:Vision_for_Europe_Award .
+@prefix ns60:	<http://dbpedia.org/resource/Wikt:> .
+dbr:Guy_Verhofstadt	dbo:wikiPageWikiLink	ns60:adversary ,
+		dbr:China ,
+		<http://dbpedia.org/resource/2008_Kosovo_declaration_of_independence> ,
+		dbr:Candidate ,
+		<http://dbpedia.org/resource/Greens\u2013European_Free_Alliance> ,
+		<http://dbpedia.org/resource/Order_of_Honour_(Greece)> ,
+		dbr:Matteo_Salvini ,
+		dbr:La_Une ,
+		dbr:European_Institute_of_Public_Administration ,
+		dbr:Brexit_negotiations ,
+		dbr:Spain ,
+		dbr:Rohingya_genocide ,
+		dbr:European_Leadership_Network ,
+		dbr:Turkey ,
+		<http://dbpedia.org/resource/George_W._Bush> ,
+		dbr:Romano_Prodi ,
+		dbr:Alliance_of_Liberals_and_Democrats_for_Europe ,
+		dbr:Dutch-speaking_electoral_college ,
+		dbr:Kosovo ,
+		dbr:Prime_Minister_of_the_United_Kingdom ,
+		dbc:Recipients_of_the_Order_of_the_Star_of_Romania ,
+		dbr:Centrism ,
+		dbc:People_from_Dendermonde ,
+		dbr:Christen-Democratisch_en_Vlaams ,
+		<http://dbpedia.org/resource/Mouvement_R\u00E9formateur> ,
+		dbr:Olly_Robbins ,
+		dbr:Flanders ,
+		<http://dbpedia.org/resource/2007\u20132011_Belgian_political_crisis> ,
+		dbr:Open_Vlaamse_Liberalen_en_Democraten ,
+		dbr:Conference_on_the_Future_of_Europe ,
+		dbr:Order_of_the_White_Rose_of_Finland ,
+		dbc:Knights_Grand_Cross_of_the_Order_of_Isabella_the_Catholic ,
+		<http://dbpedia.org/resource/Parti_Socialiste_(Belgium)> ,
+		dbr:Willy_De_Clercq ,
+		<http://dbpedia.org/resource/Category:1953_births> ,
+		dbr:Crown_Council_of_Belgium ,
+		dbr:Jacob_Rees-Mogg ,
+		dbr:President_of_Russia ,
+		dbr:Universal_jurisdiction ,
+		dbc:Prime_Ministers_of_Belgium ,
+		dbr:Margaret_Thatcher ,
+		dbc:Belgian_Ministers_of_State ,
+		dbr:Jean-Luc_Dehaene ,
+		dbc:Members_of_the_Belgian_Federal_Parliament ,
+		dbc:Belgian_social_liberals ,
+		<http://dbpedia.org/resource/2006_Belgian_local_elections> ,
+		dbr:Crimes_against_humanity ,
+		<http://dbpedia.org/resource/Minister_of_State_(Belgium)> ,
+		dbr:Member_of_the_European_Parliament ,
+		dbr:Order_of_Isabella_the_Catholic ,
+		<http://dbpedia.org/resource/Jaros\u0142aw_Kaczy\u0144ski> ,
+		dbr:Leipzig ,
+		dbr:Eurobarometer ,
+		dbr:Vlaams_Belang ,
+		<http://dbpedia.org/resource/Purple_(government)> ,
+		dbr:Israel ,
+		dbc:Living_people ,
+		<http://dbpedia.org/resource/2017_Catalan_independence_referendum> ,
+		<http://dbpedia.org/resource/2005_French_European_Constitution_referendum> ,
+		dbr:Coalition_of_the_willing ,
+		dbr:Annemie_Neyts-Uyttebroeck ,
+		dbc:Knights_Grand_Cross_of_the_Order_of_Merit_of_the_Italian_Republic ,
+		dbr:Presidency_of_Donald_Trump ,
+		dbr:Flemish_Parliament ,
+		dbr:Alexis_Tsipras ,
+		dbr:European_migrant_crisis ,
+		dbr:Russia ,
+		dbr:Ghent_University ,
+		dbr:Brexit ,
+		dbr:Myanmar ,
+		dbr:Albert_II_of_Belgium ,
+		dbr:Syriza ,
+		dbr:Law ,
+		dbr:Bahrain ,
+		dbr:Freya_Van_den_Bossche ,
+		dbr:Leopold_II_of_Belgium ,
+		dbr:European_Central_Bank ,
+		dbr:European_Book_Prize ,
+		dbr:Boris_Johnson ,
+		dbr:Bahrain_Grand_Prix ,
+		dbr:No-deal_Brexit ,
+		dbr:Iraq_War ,
+		dbr:Hans_van_Baalen ,
+		dbr:List_of_parties_to_the_Genocide_Convention ,
+		dbr:Ukrainian_crisis ,
+		dbr:Ecolo ,
+		dbr:Alliance_of_Liberals_and_Democrats_for_Europe_group ,
+		<http://dbpedia.org/resource/Recep_Tayyip_Erdo\u011Fan> ,
+		dbr:Neoliberalism ,
+		dbr:Order_of_the_Polar_Star ,
+		dbc:Eurofederalism ,
+		dbr:Arron_Banks ,
+		dbr:Laurette_Onkelinx ,
+		<http://dbpedia.org/resource/Order_of_Leopold_(Belgium)> .
+@prefix dbt:	<http://dbpedia.org/resource/Template:> .
+dbr:Guy_Verhofstadt	dbp:wikiPageUsesTemplate	dbt:S-ppo ,
+		dbt:Use_dmy_dates ,
+		dbt:Small ,
+		dbt:Flag ,
+		dbt:Portal ,
+		dbt:Infobox_officeholder ,
+		dbt:Authority_control ,
+		dbt:Which ,
+		dbt:Current_EP_Belgium ,
+		dbt:Citation_needed ,
+		dbt:Reflist ,
+		dbt:S-ttl ,
+		dbt:S-aft ,
+		dbt:S-start ,
+		dbt:S-bef ,
+		dbt:S-end ,
+		dbt:Wikiquote ,
+		dbt:EP_Political_Group_Renew ,
+		dbt:Main ,
+		dbt:IPA-fr ,
+		dbt:Commons_category ,
+		dbt:Alliance_of_Liberals_and_Democrats_for_Europe_Party ,
+		dbt:Short_description ,
+		dbt:BelgianPrimeMinisters ,
+		dbt:Presidents_of_the_European_Council ,
+		dbt:Url ,
+		dbt:C-SPAN ,
+		dbt:S-off ,
+		dbt:IPA-nl ,
+		dbt:Fact ,
+		dbt:Birth_date_and_age ,
+		dbt:Navboxes ;
+	dbo:wikiPageLength	"50038"^^xsd:nonNegativeInteger ;
+	dbp:title	"Guy Verhofstadt navigational boxes"@en ,
+		"Leader of the Alliance of Liberals and Democrats for Europe in the European Parliament"@en ,
+		dbr:Prime_Minister_of_Belgium .
+dbr:Rationale_for_the_Iraq_War	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+<http://dbpedia.org/resource/Operation_Enduring_Freedom_\u2013_Horn_of_Africa>	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt ;
+	dbo:commander	dbr:Guy_Verhofstadt .
+<http://dbpedia.org/resource/27th_G8_summit>	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:Death_and_state_funeral_of_King_Hussein	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+@prefix ns62:	<http://dbpedia.org/resource/List_of_diplomatic_visits_to_the_United_States:> .
+ns62:_Europe	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+<http://dbpedia.org/resource/Paul_Beli\u00EBn>	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:Council_on_the_Future_of_Europe	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:List_of_delegates_to_the_Millennium_Summit	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:List_of_diplomatic_visits_to_North_Macedonia	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:Presidency_of_the_Council_of_the_European_Union	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+<http://dbpedia.org/resource/List_of_international_presidential_trips_made_by_George_W._Bush>	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:List_of_ministers_of_the_environment	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:List_of_overseas_visits_by_the_14th_Dalai_Lama_outside_India	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+<http://dbpedia.org/resource/List_of_state_leaders_in_the_20th_century_(1951\u20132000)>	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:Parties_in_the_European_Council_between_January_and_April_2004	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:Parties_in_the_European_Council_between_May_and_December_2004	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:Parties_in_the_European_Council_during_1999	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:Parties_in_the_European_Council_during_2000	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:Parties_in_the_European_Council_during_2001	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:Parties_in_the_European_Council_during_2002	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:Parties_in_the_European_Council_during_2003	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:Parties_in_the_European_Council_during_2005	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:Parties_in_the_European_Council_during_2006	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:Parties_in_the_European_Council_during_2007	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+<http://dbpedia.org/resource/Timeline_of_the_George_W._Bush_presidency_(2006)>	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:List_of_Grand_Cordons_of_the_Order_of_Leopold	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:Jacques_Delors	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:Boudewijn_Bouckaert	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:List_of_ambassadors_of_Rwanda_to_Belgium	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:Kathleen_Van_Brempt	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:President_of_the_European_Commission	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:Elmar_Brok	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:Adi_Schwartz	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:Five_Star_Movement	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:Socialistische_Partij_Anders	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:Endorsements_in_the_2019_European_Parliament_election_in_the_United_Kingdom	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+<http://dbpedia.org/resource/2014_European_Parliament_election_in_Belgium>	dbp:leader	dbr:Guy_Verhofstadt ;
+	dbo:secondLeader	dbr:Guy_Verhofstadt ;
+	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+<http://dbpedia.org/resource/1995_Belgian_federal_election>	dbp:leader	dbr:Guy_Verhofstadt ;
+	dbo:secondLeader	dbr:Guy_Verhofstadt ;
+	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+<http://dbpedia.org/resource/1999_Belgian_federal_election>	dbp:leader	dbr:Guy_Verhofstadt ;
+	dbo:firstLeader	dbr:Guy_Verhofstadt ;
+	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+<http://dbpedia.org/resource/2003_Belgian_federal_election>	dbp:leader	dbr:Guy_Verhofstadt ;
+	dbo:firstLeader	dbr:Guy_Verhofstadt ;
+	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+<http://dbpedia.org/resource/2004_European_Parliament_election_in_Belgium>	dbp:leader	dbr:Guy_Verhofstadt ;
+	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+<http://dbpedia.org/resource/2009_European_Parliament_election_in_Belgium>	dbp:leader	dbr:Guy_Verhofstadt ;
+	dbo:secondLeader	dbr:Guy_Verhofstadt ;
+	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:Guy_Vanhengel	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:Party_for_Freedom_and_Progress	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:Liberales	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:Luc_Coene	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:Dioxin_affair	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:List_of_candidates_in_the_2014_European_Parliament_election_in_Belgium	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+<http://dbpedia.org/resource/List_of_members_of_the_European_Parliament_for_Belgium,_2009\u20132014>	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:Liberalism_in_Europe	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+<http://dbpedia.org/resource/2019_European_Parliament_election_in_Belgium>	dbp:leader	dbr:Guy_Verhofstadt ;
+	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:List_of_candidates_in_the_2009_European_Parliament_election_in_Belgium	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:List_of_candidates_in_the_2004_European_Parliament_election_in_Belgium	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+<http://dbpedia.org/resource/Pierre_Chevalier_(politician)>	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:Verhofstadt_III_Government	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+<http://dbpedia.org/resource/List_of_members_of_the_European_Parliament_for_Belgium,_2019\u20132024>	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:Verhofstadt_II_Government	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:Parties_in_the_European_Council_during_2008	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:List_of_Joe_Biden_2020_presidential_campaign_endorsements	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:Atomwaffen_Division	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+<http://dbpedia.org/resource/Croatia\u2013Slovenia_border_disputes>	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+<http://dbpedia.org/resource/Groen_(political_party)>	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:Hans_Van_Themsche	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+<http://dbpedia.org/resource/J\u00FCri_Ratas>	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+<http://dbpedia.org/resource/2016_Hungarian_migrant_quota_referendum>	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:Belgium	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:International_Visitor_Leadership_Program	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:List_of_international_presidential_trips_made_by_Vladimir_Putin	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:List_of_ministers_of_climate_change	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:List_of_state_leaders_in_the_21st_century	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:Endorsements_in_the_2016_United_Kingdom_European_Union_membership_referendum	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:Albert_II_of_Belgium	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:Lifespan_timeline_of_prime_ministers_of_Belgium	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:Manifesto	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:Jean-Luc_Dehaene__Tenure__1	dbo:successor	dbr:Guy_Verhofstadt .
+dbr:Filip_Claus	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:List_of_ambassadors_of_Uruguay_to_Belgium	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:List_of_ambassadors_of_Yemen_to_Belgium	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:Conference_on_the_Future_of_Europe	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+<http://dbpedia.org/resource/Ghent-Eeklo_(Chamber_of_Representatives_constituency)>	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+<http://dbpedia.org/resource/Mouvement_R\u00E9formateur>	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:Open_Vlaamse_Liberalen_en_Democraten	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:Joe_Van_Holsbeeck	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:Civic_Choice	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:Gesine_Schwan	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:Hugo_Claus	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:Rik_Torfs	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:Political_parties_in_Flanders	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:Politics_of_Flanders	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:List_of_people_from_Ghent	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:Martin_Schulz	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+<http://dbpedia.org/resource/Sophie_in_\u0027t_Veld>	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:Margaretha_Guidone	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:Eurogroup	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:Vision_for_Europe_Award	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+<http://dbpedia.org/resource/2000_in_Belgium>	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:Pat_Cox	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:Von_der_Leyen_Commission	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:Liberalism_in_Belgium	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+<http://dbpedia.org/resource/2020_USR-PLUS_Alliance>	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:Alexander_De_Croo__Tenure__5	dbo:predecessor	dbr:Guy_Verhofstadt ;
+	dbo:successor	dbr:Guy_Verhofstadt .
+dbr:Bart_Somers__Tenure__2	dbo:successor	dbr:Guy_Verhofstadt .
+dbr:European_Parliament	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:Fredrick_Federley	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+<http://dbpedia.org/resource/2014_European_Parliament_election>	dbp:leader	dbr:Guy_Verhofstadt ;
+	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:Nuclear_power_phase-out	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:Joschka_Fischer	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:Karel_De_Gucht	dbp:primeminister	dbr:Guy_Verhofstadt ;
+	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+<http://dbpedia.org/resource/Danuta_H\u00FCbner>	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:Fientje_Moerman	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:Pieter_De_Crem	dbp:primeminister	dbr:Guy_Verhofstadt ;
+	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:Federalist	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:Eliot_Higgins	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:Vlaams_Belang	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+<http://dbpedia.org/resource/List_of_members_of_the_European_Parliament,_2014\u20132019>	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+<http://dbpedia.org/resource/Timeline_of_the_2006_Lebanon_War_(late_August)>	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:Federal_Government_of_Belgium	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+<http://dbpedia.org/resource/List_of_members_of_the_Senate_of_Belgium,_2007\u20132010>	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+<http://dbpedia.org/resource/List_of_members_of_the_Senate_of_Belgium,_1999\u20132003>	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+<http://dbpedia.org/resource/Frank_Vandenbroucke_(politician)__Tenure__3>	dbo:primeMinister	dbr:Guy_Verhofstadt .
+<http://dbpedia.org/resource/Frank_Vandenbroucke_(politician)__Tenure__4>	dbo:primeMinister	dbr:Guy_Verhofstadt .
+<http://dbpedia.org/resource/Frank_Vandenbroucke_(politician)__Tenure__5>	dbo:primeMinister	dbr:Guy_Verhofstadt .
+dbr:Nigel_Farage	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+<http://dbpedia.org/resource/Belgium\u2013United_States_relations>	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+<http://dbpedia.org/resource/Timeline_of_the_George_W._Bush_presidency_(2001)>	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:An_Inconvenient_Truth	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:Graham_Watson	dbp:successor	dbr:Guy_Verhofstadt ;
+	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:List_of_elected_or_appointed_female_deputy_heads_of_government	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+<http://dbpedia.org/resource/2008_in_Belgium>	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+<http://dbpedia.org/resource/European_of_the_Year_(European_Voice_award)>	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:Antisemitism_in_contemporary_Belgium	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:Philippe_De_Backer	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:Yves_Leterme	dbp:predecessor	dbr:Guy_Verhofstadt ;
+	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:List_of_people_sanctioned_during_the_Ukrainian_crisis	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:Led_By_Donkeys	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:NATO_summit	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+<http://dbpedia.org/resource/2007_Belgian_federal_election>	dbp:leader	dbr:Guy_Verhofstadt ;
+	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:Laurette_Onkelinx	dbp:primeminister	dbr:Guy_Verhofstadt ;
+	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:Partition_of_Belgium	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:Bart_Somers	dbp:successor	dbr:Guy_Verhofstadt ;
+	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:Second_Balkenende_cabinet	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:Patrick_Dewael	dbp:primeminister	dbr:Guy_Verhofstadt ;
+	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:Act_to_Stop_the_Decline	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:Hans_van_Baalen__Tenure__1	dbo:leader	dbr:Guy_Verhofstadt .
+dbr:Jean-Luc_Dehaene	dbp:successor	dbr:Guy_Verhofstadt ;
+	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:Dominique_Riquet	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:Sylvie_Goulard	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:Foreign_relations_of_Belgium	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:Trial_of_Saddam_Hussein	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:European_act_of_state_in_honour_of_Helmut_Kohl	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+<http://dbpedia.org/resource/Belgium\u2013France_relations>	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+<http://dbpedia.org/resource/Belgium\u2013Mexico_relations>	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+<http://dbpedia.org/resource/Belgium\u2013Pakistan_relations>	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:Model_European_Union_Strasbourg	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:List_of_state_leaders_in_2008	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:April_6_Youth_Movement	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:LGBT_rights_in_Belgium	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+<http://dbpedia.org/resource/Dacian_Ciolo\u0219>	dbp:before	dbr:Guy_Verhofstadt ;
+	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:Role_of_the_international_community_in_the_Rwandan_genocide	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:European_Commission	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:Eurovision_Debate	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:Poisoning_of_Sergei_and_Yulia_Skripal	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:Hans_van_Baalen	dbp:leader	dbr:Guy_Verhofstadt ;
+	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:Neelie_Kroes	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+<http://dbpedia.org/resource/Diogo_Pinto_(activist)>	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:Sabena	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:Alexander_De_Croo	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+<http://dbpedia.org/resource/2006_Belgian_local_elections>	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:Brussels-Halle-Vilvoorde	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+<http://dbpedia.org/resource/1953_in_Belgium>	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+<http://dbpedia.org/resource/Belgium\u2013Turkey_relations>	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+<http://dbpedia.org/resource/1999_in_Belgium>	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+<http://dbpedia.org/resource/2001_in_Belgium>	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+<http://dbpedia.org/resource/2002_in_Belgium>	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+<http://dbpedia.org/resource/2003_in_Belgium>	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:Verhofstadt_I_Government	dbp:governmentHead	dbr:Guy_Verhofstadt ;
+	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+<http://dbpedia.org/resource/2006_in_Belgium>	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+<http://dbpedia.org/resource/2007\u201308_Belgian_government_formation>	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+<http://dbpedia.org/resource/List_of_members_of_the_European_Parliament,_2009\u20132014>	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+<http://dbpedia.org/resource/Alliance_of_Liberals_and_Democrats_(Romania)>	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:Seventh_European_Parliament	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+<http://dbpedia.org/resource/Fernando_Maura_Barandiar\u00E1n>	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+<http://dbpedia.org/resource/Dacian_Ciolo\u0219__Tenure__1>	dbo:predecessor	dbr:Guy_Verhofstadt .
+dbr:Pillarisation	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+<http://dbpedia.org/resource/Guy_(given_name)>	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:David_Campbell_Bannerman	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:Alliance_of_Liberals_and_Democrats_for_Europe_group	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+<http://dbpedia.org/resource/2019_European_Parliament_election_in_France>	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:Freya_Van_den_Bossche__Tenure__1	dbo:primeMinister	dbr:Guy_Verhofstadt .
+dbr:April_11	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:Citizenship_of_the_European_Union	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+<http://dbpedia.org/resource/Frank_Vandenbroucke_(politician)>	dbp:primeminister	dbr:Guy_Verhofstadt ;
+	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:President_of_the_European_Parliament	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:College_of_Europe	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:European_civil_code	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:Didier_Reynders	dbp:primeminister	dbr:Guy_Verhofstadt ;
+	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:Charles_Michel	dbp:primeminister	dbr:Guy_Verhofstadt ;
+	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:Louis_Michel	dbp:primeminister	dbr:Guy_Verhofstadt ;
+	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:Isabelle_Durant	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+<http://dbpedia.org/resource/Andr\u00E9_Flahaut>	dbp:primeminister	dbr:Guy_Verhofstadt ;
+	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:Monica_De_Coninck	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:Marie_Arena	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:Patrick_Dewael__Tenure__4	dbo:primeMinister	dbr:Guy_Verhofstadt .
+dbr:Helicopter_money	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+<http://dbpedia.org/resource/War_Crimes_Law_(Belgium)>	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:Brexit_negotiations	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:Traffic_light_coalition	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:Antonio_Tajani	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:Roberto_Gualtieri	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+<http://dbpedia.org/resource/Purple_(government)>	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:Office_for_Metropolitan_Architecture	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:United_States_presidential_visits_to_Western_Europe	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:Arab_European_League	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:History_of_pan-European_liberalism	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:International_reactions_to_the_Euromaidan	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:European_Green_Party	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:Alexander_Graf_Lambsdorff	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:Ninth_European_Parliament	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:Open_Dialogue_Foundation	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:Rebecca_Harms	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:Mario_Monti	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:History_of_the_European_Union_since_2004	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:Graham_Watson__Tenure__2	dbo:successor	dbr:Guy_Verhofstadt .
+dbr:Index_of_Belgium-related_articles	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+<http://dbpedia.org/resource/2020_Thuringian_government_crisis>	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:Didier_Reynders__Tenure__4	dbo:primeMinister	dbr:Guy_Verhofstadt .
+dbr:Yves_Leterme__Tenure__2	dbo:predecessor	dbr:Guy_Verhofstadt .
+dbr:Barroso_Commission	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:Edward_McMillan-Scott	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:Strong_and_stable	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:Proposed_second_Scottish_independence_referendum	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:O1G	dbp:name	dbr:Guy_Verhofstadt ;
+	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:Reactions_to_the_2017_Catalan_independence_referendum	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+<http://dbpedia.org/resource/Act!_(Italy)>	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:Andrew_Duff	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:Liberalism_and_radicalism_in_Italy	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:Spinelli_Group	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:Alliance_for_Italy	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:Verhofstadt	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt ;
+	dbo:wikiPageDisambiguates	dbr:Guy_Verhofstadt .
+dbr:Laurette_Onkelinx__Tenure__4	dbo:primeMinister	dbr:Guy_Verhofstadt .
+dbr:Louis_Michel__Tenure__3	dbo:primeMinister	dbr:Guy_Verhofstadt .
+dbr:Charles_Michel__Tenure__5	dbo:primeMinister	dbr:Guy_Verhofstadt .
+dbr:Guy_Maurice_Marie_Louise_Verhofstadt	dbo:wikiPageRedirects	dbr:Guy_Verhofstadt ;
+	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:Guy_Verhofstad	dbo:wikiPageRedirects	dbr:Guy_Verhofstadt ;
+	dbo:wikiPageWikiLink	dbr:Guy_Verhofstadt .
+dbr:Karel_De_Gucht__Tenure__3	dbo:primeMinister	dbr:Guy_Verhofstadt .
+dbr:Laurette_Onkelinx__Tenure__1	dbo:primeMinister	dbr:Guy_Verhofstadt .
+dbr:Laurette_Onkelinx__Tenure__2	dbo:primeMinister	dbr:Guy_Verhofstadt .
+dbr:Laurette_Onkelinx__Tenure__3	dbo:primeMinister	dbr:Guy_Verhofstadt .
+dbr:Pieter_De_Crem__Tenure__3	dbo:primeMinister	dbr:Guy_Verhofstadt .
+<http://dbpedia.org/resource/Andr\u00E9_Flahaut__Tenure__2>	dbo:primeMinister	dbr:Guy_Verhofstadt .

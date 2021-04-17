@@ -1,0 +1,29 @@
+
+
+
+
+    
+
+    @prefix : <http://www.rusmarc.ru/RDF/Work/title5.rdf#> .
+    
+
+    <http://www.rusmarc.ru/RDF/Work/title5.rdf> <http://purl.org/dc/elements/1.1/created> "2015-01-16"^^<http://www.w3.org/2001/XMLSchema#date>  ;
+<http://purl.org/dc/elements/1.1/creator> [ <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization>  ;
+<http://www.w3.org/2000/01/rdf-schema#label> "Национальная Служба развития системы форматов RUSMARC"@ru  ;
+<http://xmlns.com/foaf/0.1/homepage> <http://www.rusmarc.ru/>  ]   .:1 <http://purl.org/dc/elements/1.1/creator> <http://www.rusmarc.ru/RDF/PersName/nlr77386.rdf#person>  ;
+<http://purl.org/dc/elements/1.1/language> "ru"  ;
+<http://purl.org/dc/elements/1.1/subject> <http://www.rusmarc.ru/RDF/SubjHead/nlr6601563888.rdf#concept> ,<http://www.rusmarc.ru/RDF/SubjHead/nlr6616122.rdf#concept> ,<http://www.rusmarc.ru/RDF/SubjHead/nlr66341183.rdf#concept>  ;
+<http://purl.org/dc/elements/1.1/title> "Евгений Онегин"  ;
+<http://purl.org/dc/elements/1.1/type> "http://purl.org/dc/dcmitype/Text"  ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class>  ;
+<http://www.w3.org/2000/01/rdf-schema#label> "Произведение 'Евгений Онегин' на русском языке"  ;
+<http://xmlns.com/foaf/0.1/page> <http://primo.nlr.ru/primo_library/libweb/action/search.do?fn=search&ct=search&initialSearch=true&mode=Advanced&tab=default_tab&indx=1&dum=true&srt=rank&vid=07NLR_VU1&frbg=&vl%28199949086UI0%29=creator&vl%28199949086UI0%29=title&vl%28199949086UI0%29=creator&vl%281UIStartWith0%29=contains&vl%28freeText0%29=%D0%9F%D1%83%D1%88%D0%BA%D0%B8%D0%BD&vl%28boolOperator0%29=AND&vl%28267247494UI1%29=title&vl%28267247494UI1%29=title&vl%28267247494UI1%29=title&title2=2&vl%281UIStartWith1%29=contains&vl%28freeText1%29=%D0%95%D0%B2%D0%B3%D0%B5%D0%BD%D0%B8%D0%B9+%D0%9E%D0%BD%D0%B5%D0%B3%D0%B8%D0%BD&vl%28boolOperator1%29=AND&vl%28267247768UI2%29=any&vl%28267247768UI2%29=title&vl%28267247768UI2%29=any&vl%281UIStartWith2%29=contains&vl%28freeText2%29=&vl%28boolOperator2%29=AND&vl%28199890271UI3%29=any&vl%28199890271UI3%29=title&vl%28199890271UI3%29=any&vl%281UIStartWith3%29=contains&vl%28freeText3%29=&vl%28boolOperator3%29=AND&vl%28199950180UI4%29=all_items&vl%28199950185UI5%29=all_items&vl%28422913607UI6%29=all_items&Submit=%D0%9F%D0%BE%D0%B8%D1%81%D0%BA>   .:triple12345 <http://purl.org/dc/elements/1.1/source> <https://ru.wikipedia.org/wiki/Евгений_Онегин>  ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#object> "«Евге́ний Оне́гин» (дореф. «Евгеній Онѣгинъ») — роман в стихах Александра Сергеевича Пушкина,
+		 написанный в 1823—1831 годах, одно из самых значительных произведений русской словесности.
+  "  ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://purl.org/dc/elements/1.1/description>  ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://www.rusmarc.ru//RDF/Work/title5.rdf#1>  ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement>   .
+
+
+

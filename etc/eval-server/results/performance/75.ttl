@@ -1,0 +1,348 @@
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+dbr:Kamlang_Wildlife_Sanctuary	dbo:wikiPageWikiLink	dbr:Lohit_district .
+dbr:Karusha_Kingdom	dbo:wikiPageWikiLink	dbr:Lohit_district .
+dbr:Lauhitya_Kingdom	dbo:wikiPageWikiLink	dbr:Lohit_district .
+<http://dbpedia.org/resource/1950_Assam\u2013Tibet_earthquake>	dbo:wikiPageWikiLink	dbr:Lohit_district .
+dbr:Jingpo_people	dbo:wikiPageWikiLink	dbr:Lohit_district .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Lohit_district	rdf:type	owl:Thing ,
+		dbo:Place .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Lohit_district	rdf:type	yago:Object100002684 ,
+		yago:PhysicalEntity100001930 ,
+		yago:Region108630985 .
+@prefix schema:	<http://schema.org/> .
+dbr:Lohit_district	rdf:type	schema:AdministrativeArea ,
+		dbo:Settlement ,
+		schema:Place .
+@prefix geo:	<http://www.w3.org/2003/01/geo/wgs84_pos#> .
+dbr:Lohit_district	rdf:type	geo:SpatialThing ,
+		yago:WikicatDistrictsOfArunachalPradesh ,
+		yago:Location100027167 ,
+		yago:YagoGeoEntity ,
+		dbo:Location ,
+		dbo:PopulatedPlace ,
+		yago:YagoPermanentlyLocatedEntity ,
+		yago:YagoLegalActorGeo .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Lohit_district	rdf:type	wikidata:Q3455524 ,
+		dbo:Region ,
+		dbo:AdministrativeRegion ,
+		yago:District108552138 .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Lohit_district	rdfs:label	"District de Lohit"@fr ,
+		"Distretto di Lohit"@it ,
+		"Lohit District"@sv ,
+		"\u041B\u0443\u0445\u0438\u0442 (\u043E\u043A\u0440\u0443\u0433)"@ru ,
+		"\u9C81\u897F\u7279\u53BF"@zh ,
+		"Lohit district"@en ,
+		"Lohit (Distrikt)"@de ,
+		"Distrito de Lohit"@es ;
+	rdfs:comment	"Der Distrikt Lohit ist ein Distrikt im indischen Bundesstaat Arunachal Pradesh. Sitz der Distriktverwaltung ist . Der zugeh\u00F6rige Hierarchische Administrative Subdivision-Code (HASC) lautet: IN.AR.LH."@de ,
+		"Lohit (en panyab\u00ED; \u0636\u0644\u0639 \u0644\u0648\u06C1\u062A) es un distrito de India en el estado de Arunachal Pradesh. C\u00F3digo ISO: IN.AR.LO.\u200B Comprende una superficie de 2 402 km\u00B2. El centro administrativo es la ciudad de Tezu."@es ,
+		"Le district de Lohit est un district de l'\u00E9tat de l'Arunachal Pradesh, en Inde,"@fr ,
+		"Il distretto di Lohit \u00E8 un distretto dell'Arunachal Pradesh, in India. Il suo capoluogo \u00E8 Tezu."@it ,
+		"Lohit (Pron: /\u02C8l\u0259\u028Ah\u026At/) is an administrative district in the state of Arunachal Pradesh in India. The district headquarters are located at Tezu. As of 2011 it is the third most populous district of Arunachal Pradesh, after Papum Pare and Changlang."@en ,
+		"Lohit District \u00E4r ett distrikt i Indien. Det ligger i delstaten Arunachal Pradesh, i den \u00F6stra delen av landet, 1 900 km \u00F6ster om huvudstaden New Delhi. Antalet inv\u00E5nare \u00E4r 145 726. Arean \u00E4r 2 402 kvadratkilometer. Lohit District gr\u00E4nsar till Tinsukia och Anjaw. Terr\u00E4ngen i Lohit District \u00E4r varierad. F\u00F6ljande samh\u00E4llen finns i Lohit District: \n* Tezu I \u00F6vrigt finns f\u00F6ljande i Lohit District: \n* Dapha Bum (en bergstopp)"@sv ,
+		"\u041B\u0443\u0445\u0438\u0442 (\u0430\u043D\u0433\u043B. Lohit) \u2014 \u043E\u043A\u0440\u0443\u0433 \u043D\u0430 \u0432\u043E\u0441\u0442\u043E\u043A\u0435 \u0438\u043D\u0434\u0438\u0439\u0441\u043A\u043E\u0433\u043E \u0448\u0442\u0430\u0442\u0430 \u0410\u0440\u0443\u043D\u0430\u0447\u0430\u043B-\u041F\u0440\u0430\u0434\u0435\u0448. \u0410\u0434\u043C\u0438\u043D\u0438\u0441\u0442\u0440\u0430\u0442\u0438\u0432\u043D\u044B\u0439 \u0446\u0435\u043D\u0442\u0440 \u2014 \u0433\u043E\u0440\u043E\u0434 \u0422\u0435\u0437\u0443. \u041F\u043B\u043E\u0449\u0430\u0434\u044C \u043E\u043A\u0440\u0443\u0433\u0430 \u2014 11 402 \u043A\u043C\u00B2. \u041F\u043E \u0434\u0430\u043D\u043D\u044B\u043C \u0432\u0441\u0435\u0438\u043D\u0434\u0438\u0439\u0441\u043A\u043E\u0439 \u043F\u0435\u0440\u0435\u043F\u0438\u0441\u0438 2001 \u0433\u043E\u0434\u0430 \u043D\u0430\u0441\u0435\u043B\u0435\u043D\u0438\u0435 \u043E\u043A\u0440\u0443\u0433\u0430 \u0441\u043E\u0441\u0442\u0430\u0432\u043B\u044F\u043B\u043E 143 527 \u0447\u0435\u043B\u043E\u0432\u0435\u043A. \u0423\u0440\u043E\u0432\u0435\u043D\u044C \u0433\u0440\u0430\u043C\u043E\u0442\u043D\u043E\u0441\u0442\u0438 \u0432\u0437\u0440\u043E\u0441\u043B\u043E\u0433\u043E \u043D\u0430\u0441\u0435\u043B\u0435\u043D\u0438\u044F \u0441\u043E\u0441\u0442\u0430\u0432\u043B\u044F\u043B 56,1 %, \u0447\u0442\u043E \u043D\u0435\u043C\u043D\u043E\u0433\u043E \u043D\u0438\u0436\u0435 \u0441\u0440\u0435\u0434\u043D\u0435\u0438\u043D\u0434\u0438\u0439\u0441\u043A\u043E\u0433\u043E \u0443\u0440\u043E\u0432\u043D\u044F (59,5 %). \u0414\u043E\u043B\u044F \u0433\u043E\u0440\u043E\u0434\u0441\u043A\u043E\u0433\u043E \u043D\u0430\u0441\u0435\u043B\u0435\u043D\u0438\u044F \u0441\u043E\u0441\u0442\u0430\u0432\u043B\u044F\u043B\u0430 18,6 %. \u0421\u0432\u043E\u0451 \u043D\u0430\u0437\u0432\u0430\u043D\u0438\u0435 \u043E\u043A\u0440\u0443\u0433 \u043F\u043E\u043B\u0443\u0447\u0438\u043B \u043E\u0442 \u0440\u0435\u043A\u0438 \u041B\u0443\u0445\u0438\u0442. 16 \u0444\u0435\u0432\u0440\u0430\u043B\u044F 2004 \u0433\u043E\u0434\u0430 \u0438\u0437 \u0447\u0430\u0441\u0442\u0438 \u0442\u0435\u0440\u0440\u0438\u0442\u043E\u0440\u0438\u0438 \u043E\u043A\u0440\u0443\u0433\u0430 \u0431\u044B\u043B \u0441\u043E\u0437\u0434\u0430\u043D \u043D\u043E\u0432\u044B\u0439 \u043E\u043A\u0440\u0443\u0433 \u0410\u043D\u0434\u0436\u0430\u0432."@ru ,
+		"\u9C81\u897F\u7279\u53BF\uFF08\u82F1\u8A9E\uFF1ALohit district\uFF09\uFF0C\u4E00\u8BD1\u6D1B\u897F\u7279\u53BF\uFF0C\u662F\u5370\u5EA6\u963F\u9C81\u7EB3\u6070\u5C14\u90A6\u7684\u4E00\u4E2A\u53BF\u3002\u8BE5\u53BF\u7684\u90E8\u5206\u8F96\u5883\u4F4D\u4E8E\u4E2D\u5370\u4E89\u8BAE\u7684\u201C\u85CF\u5357\u5730\u533A\u201D\u4E2D\u3002\u603B\u9762\u79EF2,402\u5E73\u65B9\u516C\u91CC\uFF0C\u603B\u4EBA\u53E3145538(2011\u5E74)\u3002 \u6D1B\u897F\u7279\u53BF\u5F97\u540D\u4E8E\u6D1B\u897F\u7279\u6CB3\u3002"@zh .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+dbr:Lohit_district	foaf:name	"Lohit district"@en ;
+	foaf:homepage	<http://lohit.nic.in/> .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Lohit_district	geo:lat	"28.0"^^xsd:float ;
+	geo:long	"96.5"^^xsd:float ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Arunachal_Pradesh_district_location_map_Lohit.svg> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+dbr:Lohit_district	foaf:isPrimaryTopicOf	wikipedia-en:Lohit_district .
+@prefix virtrdf:	<http://www.openlinksw.com/schemas/virtrdf#> .
+dbr:Lohit_district	geo:geometry	"POINT(96.5 28)"^^virtrdf:Geometry .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Lohit_district	dct:subject	dbc:Lohit_district ,
+		dbc:Districts_of_Arunachal_Pradesh .
+@prefix ns15:	<http://d-nb.info/gnd/7651191-1/about/> .
+dbr:Lohit_district	owl:sameAs	ns15:rdf ,
+		<http://ru.dbpedia.org/resource/\u041B\u0443\u0445\u0438\u0442_(\u043E\u043A\u0440\u0443\u0433)> ,
+		wikidata:Q15438 .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Lohit_district	owl:sameAs	dbpedia-fr:District_de_Lohit ,
+		<http://vi.dbpedia.org/resource/Lohit_(huy\u1EC7n)> ,
+		<http://hi.dbpedia.org/resource/\u0932\u094B\u0939\u093F\u0924_\u091C\u093F\u0932\u093E> ,
+		<http://no.dbpedia.org/resource/Lohit_(distrikt)> ,
+		<http://d-nb.info/gnd/7651191-1> ,
+		<http://rdf.freebase.com/ns/m.05n5y_> ,
+		<http://ta.dbpedia.org/resource/\u0BB2\u0BCB\u0BB9\u0BBF\u0BA4\u0BCD_\u0BAE\u0BBE\u0BB5\u0B9F\u0BCD\u0B9F\u0BAE\u0BCD> ,
+		<http://or.dbpedia.org/resource/\u0B32\u0B4B\u0B39\u0B3F\u0B24_\u0B1C\u0B3F\u0B32\u0B4D\u0B32\u0B3E> ,
+		<http://pnb.dbpedia.org/resource/\u0636\u0644\u0639_\u0644\u0648\u06C1\u062A> .
+@prefix ns17:	<https://global.dbpedia.org/id/> .
+dbr:Lohit_district	owl:sameAs	ns17:Y1JZ .
+@prefix dbpedia-fi:	<http://fi.dbpedia.org/resource/> .
+dbr:Lohit_district	owl:sameAs	dbpedia-fi:Lohitin_piirikunta ,
+		<http://ne.dbpedia.org/resource/\u0932\u094B\u0939\u093F\u0924_\u091C\u093F\u0932\u094D\u0932\u093E> ,
+		<http://gu.dbpedia.org/resource/\u0AB2\u0ACB\u0AB9\u0ABF\u0AA4_\u0A9C\u0ABF\u0AB2\u0ACD\u0AB2\u0ACB> .
+@prefix ns19:	<http://sw.cyc.com/concept/> .
+dbr:Lohit_district	owl:sameAs	ns19:Mx4rjnBj2upOQdiLufbqBp75eA ,
+		<http://de.dbpedia.org/resource/Lohit_(Distrikt)> ,
+		<http://te.dbpedia.org/resource/\u0C32\u0C4B\u0C39\u0C3F\u0C24\u0C4D_\u0C1C\u0C3F\u0C32\u0C4D\u0C32\u0C3E> ,
+		<http://sa.dbpedia.org/resource/\u0932\u094B\u0939\u093F\u0924\u092E\u0923\u094D\u0921\u0932\u092E\u094D> .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Lohit_district	owl:sameAs	yago-res:Lohit_district ,
+		<http://zh.dbpedia.org/resource/\u9C81\u897F\u7279\u53BF> ,
+		<http://mr.dbpedia.org/resource/\u0932\u094B\u0939\u093F\u0924_\u091C\u093F\u0932\u094D\u0939\u093E> .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:Lohit_district	owl:sameAs	dbpedia-es:Distrito_de_Lohit ,
+		<http://bn.dbpedia.org/resource/\u09B2\u09CB\u09B9\u09BF\u09A4_\u099C\u09C7\u09B2\u09BE> ,
+		<http://new.dbpedia.org/resource/\u0932\u094B\u0939\u093F\u0924_\u091C\u093F\u0932\u094D\u0932\u093E> .
+@prefix ns22:	<http://ceb.dbpedia.org/resource/> .
+dbr:Lohit_district	owl:sameAs	ns22:Lohit_District .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Lohit_district	owl:sameAs	dbpedia-it:Distretto_di_Lohit ,
+		<http://viaf.org/viaf/144250825> .
+@prefix dbpedia-sv:	<http://sv.dbpedia.org/resource/> .
+dbr:Lohit_district	owl:sameAs	dbpedia-sv:Lohit_District ,
+		dbr:Lohit_district ,
+		<http://ur.dbpedia.org/resource/\u0644\u0648\u06C1\u062A_\u0636\u0644\u0639> .
+@prefix georss:	<http://www.georss.org/georss/> .
+dbr:Lohit_district	georss:point	"28.0 96.5" ;
+	schema:sameAs	<http://viaf.org/viaf/144250825> ;
+	dbo:abstract	"Lohit District \u00E4r ett distrikt i Indien. Det ligger i delstaten Arunachal Pradesh, i den \u00F6stra delen av landet, 1 900 km \u00F6ster om huvudstaden New Delhi. Antalet inv\u00E5nare \u00E4r 145 726. Arean \u00E4r 2 402 kvadratkilometer. Lohit District gr\u00E4nsar till Tinsukia och Anjaw. Terr\u00E4ngen i Lohit District \u00E4r varierad. F\u00F6ljande samh\u00E4llen finns i Lohit District: \n* Tezu I \u00F6vrigt finns f\u00F6ljande i Lohit District: \n* Dapha Bum (en bergstopp) Klimatet i omr\u00E5det \u00E4r fuktigt och subtropiskt. \u00C5rsmedeltemperaturen i trakten \u00E4r 19 \u00B0C. Den varmaste m\u00E5naden \u00E4r maj, d\u00E5 medeltemperaturen \u00E4r 24 \u00B0C, och den kallaste \u00E4r januari, med 14 \u00B0C. Genomsnittlig \u00E5rsnederb\u00F6rd \u00E4r 3 204 millimeter. Den regnigaste m\u00E5naden \u00E4r augusti, med i genomsnitt 549 mm nederb\u00F6rd, och den torraste \u00E4r december, med 13 mm nederb\u00F6rd."@sv ,
+		"Der Distrikt Lohit ist ein Distrikt im indischen Bundesstaat Arunachal Pradesh. Sitz der Distriktverwaltung ist . Der zugeh\u00F6rige Hierarchische Administrative Subdivision-Code (HASC) lautet: IN.AR.LH."@de ,
+		"Lohit (Pron: /\u02C8l\u0259\u028Ah\u026At/) is an administrative district in the state of Arunachal Pradesh in India. The district headquarters are located at Tezu. As of 2011 it is the third most populous district of Arunachal Pradesh, after Papum Pare and Changlang."@en ,
+		"\u9C81\u897F\u7279\u53BF\uFF08\u82F1\u8A9E\uFF1ALohit district\uFF09\uFF0C\u4E00\u8BD1\u6D1B\u897F\u7279\u53BF\uFF0C\u662F\u5370\u5EA6\u963F\u9C81\u7EB3\u6070\u5C14\u90A6\u7684\u4E00\u4E2A\u53BF\u3002\u8BE5\u53BF\u7684\u90E8\u5206\u8F96\u5883\u4F4D\u4E8E\u4E2D\u5370\u4E89\u8BAE\u7684\u201C\u85CF\u5357\u5730\u533A\u201D\u4E2D\u3002\u603B\u9762\u79EF2,402\u5E73\u65B9\u516C\u91CC\uFF0C\u603B\u4EBA\u53E3145538(2011\u5E74)\u3002 \u6D1B\u897F\u7279\u53BF\u5F97\u540D\u4E8E\u6D1B\u897F\u7279\u6CB3\u3002"@zh ,
+		"Lohit (en panyab\u00ED; \u0636\u0644\u0639 \u0644\u0648\u06C1\u062A) es un distrito de India en el estado de Arunachal Pradesh. C\u00F3digo ISO: IN.AR.LO.\u200B Comprende una superficie de 2 402 km\u00B2. El centro administrativo es la ciudad de Tezu."@es ,
+		"\u041B\u0443\u0445\u0438\u0442 (\u0430\u043D\u0433\u043B. Lohit) \u2014 \u043E\u043A\u0440\u0443\u0433 \u043D\u0430 \u0432\u043E\u0441\u0442\u043E\u043A\u0435 \u0438\u043D\u0434\u0438\u0439\u0441\u043A\u043E\u0433\u043E \u0448\u0442\u0430\u0442\u0430 \u0410\u0440\u0443\u043D\u0430\u0447\u0430\u043B-\u041F\u0440\u0430\u0434\u0435\u0448. \u0410\u0434\u043C\u0438\u043D\u0438\u0441\u0442\u0440\u0430\u0442\u0438\u0432\u043D\u044B\u0439 \u0446\u0435\u043D\u0442\u0440 \u2014 \u0433\u043E\u0440\u043E\u0434 \u0422\u0435\u0437\u0443. \u041F\u043B\u043E\u0449\u0430\u0434\u044C \u043E\u043A\u0440\u0443\u0433\u0430 \u2014 11 402 \u043A\u043C\u00B2. \u041F\u043E \u0434\u0430\u043D\u043D\u044B\u043C \u0432\u0441\u0435\u0438\u043D\u0434\u0438\u0439\u0441\u043A\u043E\u0439 \u043F\u0435\u0440\u0435\u043F\u0438\u0441\u0438 2001 \u0433\u043E\u0434\u0430 \u043D\u0430\u0441\u0435\u043B\u0435\u043D\u0438\u0435 \u043E\u043A\u0440\u0443\u0433\u0430 \u0441\u043E\u0441\u0442\u0430\u0432\u043B\u044F\u043B\u043E 143 527 \u0447\u0435\u043B\u043E\u0432\u0435\u043A. \u0423\u0440\u043E\u0432\u0435\u043D\u044C \u0433\u0440\u0430\u043C\u043E\u0442\u043D\u043E\u0441\u0442\u0438 \u0432\u0437\u0440\u043E\u0441\u043B\u043E\u0433\u043E \u043D\u0430\u0441\u0435\u043B\u0435\u043D\u0438\u044F \u0441\u043E\u0441\u0442\u0430\u0432\u043B\u044F\u043B 56,1 %, \u0447\u0442\u043E \u043D\u0435\u043C\u043D\u043E\u0433\u043E \u043D\u0438\u0436\u0435 \u0441\u0440\u0435\u0434\u043D\u0435\u0438\u043D\u0434\u0438\u0439\u0441\u043A\u043E\u0433\u043E \u0443\u0440\u043E\u0432\u043D\u044F (59,5 %). \u0414\u043E\u043B\u044F \u0433\u043E\u0440\u043E\u0434\u0441\u043A\u043E\u0433\u043E \u043D\u0430\u0441\u0435\u043B\u0435\u043D\u0438\u044F \u0441\u043E\u0441\u0442\u0430\u0432\u043B\u044F\u043B\u0430 18,6 %. \u0421\u0432\u043E\u0451 \u043D\u0430\u0437\u0432\u0430\u043D\u0438\u0435 \u043E\u043A\u0440\u0443\u0433 \u043F\u043E\u043B\u0443\u0447\u0438\u043B \u043E\u0442 \u0440\u0435\u043A\u0438 \u041B\u0443\u0445\u0438\u0442. 16 \u0444\u0435\u0432\u0440\u0430\u043B\u044F 2004 \u0433\u043E\u0434\u0430 \u0438\u0437 \u0447\u0430\u0441\u0442\u0438 \u0442\u0435\u0440\u0440\u0438\u0442\u043E\u0440\u0438\u0438 \u043E\u043A\u0440\u0443\u0433\u0430 \u0431\u044B\u043B \u0441\u043E\u0437\u0434\u0430\u043D \u043D\u043E\u0432\u044B\u0439 \u043E\u043A\u0440\u0443\u0433 \u0410\u043D\u0434\u0436\u0430\u0432."@ru ,
+		"Il distretto di Lohit \u00E8 un distretto dell'Arunachal Pradesh, in India. Il suo capoluogo \u00E8 Tezu."@it ,
+		"Le district de Lohit est un district de l'\u00E9tat de l'Arunachal Pradesh, en Inde,"@fr ;
+	dbo:country	dbr:India .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Lohit_district	dbp:leaderTitle	dbr:Lok_Sabha ,
+		dbr:District_magistrate ,
+		dbr:State_legislative_assemblies_of_India ;
+	dbp:leaderName	"Prince Dhawan, IAS"@en ,
+		1 ;
+	dbp:imageMap	"Arunachal Pradesh district location map Lohit.svg"@en ;
+	dbp:blankInfoSec	"nh-13"@en ;
+	dbp:blankNameSec	dbr:Roads_in_India ;
+	dbp:centre	"Lohit district"@en ;
+	dbp:east	dbr:Anjaw_district ;
+	dbp:north	dbr:Lower_Dibang_Valley_district ;
+	dbp:northeast	"China"@en ;
+	dbp:p	3 ;
+	dbp:partsStyle	"para"@en ;
+	dbp:seatType	"Headquarters"@en ;
+	dbp:south	dbr:Changlang_district ;
+	dbp:totalType	"Total"@en ;
+	dbp:west	"Tinsukia district, Assam"@en ;
+	dbo:politicalLeader	dbr:Lohit_district__PoliticalFunction__1 ,
+		dbr:Lohit_district__PoliticalFunction__2 ,
+		dbr:Lohit_district__PoliticalFunction__3 .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Lohit_district	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Lohit_district?oldid=972177678&ns=0> ;
+	dbp:coorPinpoint	"Tezu"@en ;
+	dbo:type	dbr:Districts_of_Arunachal_Pradesh ;
+	dbp:establishedTitle	"Established"@en ;
+	dbp:areaTotalKm	2402 .
+@prefix ns28:	<http://dbpedia.org/datatype/> .
+dbr:Lohit_district	dbp:demographics1Info	"69.9"^^ns28:perCent ,
+		901 ;
+	dbp:demographics1Title	dbr:Literacy_in_India ,
+		"Sex ratio"@en ;
+	dbp:demographicsType	"Demographics"@en ;
+	dbp:populationAsOf	2011 ;
+	dbp:settlementType	dbr:List_of_districts_of_Arunachal_Pradesh ;
+	dbp:subdivisionName	dbr:India ,
+		"East"@en ,
+		dbr:Arunachal_Pradesh ;
+	dbp:utcOffset	"330.0"^^ns28:second ;
+	dbo:utcOffset	"+05:30" ;
+	dbo:timeZone	dbr:Indian_Standard_Time .
+@prefix ns29:	<http://dbpedia.org/ontology/PopulatedPlace/> .
+dbr:Lohit_district	ns29:areaTotal	"2402.0"^^ns28:squareKilometre ;
+	dbp:name	"Lohit district"@en ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Arunachal_Pradesh_district_location_map_Lohit.svg?width=300> ;
+	dbp:website	<http://lohit.nic.in/> ;
+	dbo:wikiPageExternalLink	<http://lohit.nic.in/> ;
+	dbp:seat	dbr:Tezu ;
+	dbo:areaTotal	2402000000.0 ;
+	dbp:subdivisionType	dbr:States_and_union_territories_of_India ,
+		"Country"@en ,
+		dbr:Administrative_divisions_of_India ;
+	dbp:populationDensityKm	"auto"@en ;
+	dbo:subdivision	dbr:Arunachal_Pradesh ;
+	dbo:populationTotal	"145726"^^xsd:nonNegativeInteger ;
+	dbp:mapCaption	"Location of Lohit district in Arunachal Pradesh"@en ;
+	dbp:populationTotal	145726 ;
+	dbp:timezone	dbr:Indian_Standard_Time ;
+	dbp:partsType	dbr:List_of_subdistricts_in_India ;
+	dbo:wikiPageID	1684316 ;
+	dbo:wikiPageRevisionID	972177678 ;
+	dbo:wikiPageWikiLink	dbr:Subspecies ,
+		dbr:Territory ,
+		dbr:Sanskrit ,
+		dbr:Walong ,
+		dbr:Biodiesel ,
+		dbr:Animism ,
+		dbr:Flying_squirrel ,
+		dbr:Mishmi_people ,
+		dbr:Parshuram_Kund ,
+		dbr:State_legislative_assemblies_of_India ,
+		dbr:Sex_ratio ,
+		dbr:Assam ,
+		dbr:Endangered_language ,
+		dbr:Arunachal_Pradesh_Legislative_Assembly ,
+		dbr:Upper_Dibang_Valley_district ,
+		dbr:Holy_place ,
+		dbr:Tibetan_people ,
+		dbc:Lohit_district ,
+		dbr:Sino-Tibetan_languages ,
+		dbr:Mishmi_Hills ,
+		dbr:North ,
+		dbr:Border ,
+		dbr:Fauna ,
+		dbr:Myanmar ,
+		dbc:Districts_of_Arunachal_Pradesh ,
+		dbr:List_of_subdistricts_in_India ,
+		dbr:States_and_union_territories_of_India ,
+		dbr:Wakro ,
+		dbr:Administrative_divisions_of_India ,
+		dbr:Tezu ,
+		dbr:Family_planning_in_India ,
+		dbr:Tinsukia_district ,
+		dbr:Hayuliang ,
+		dbr:Zekhring_people ,
+		dbr:Flora ,
+		dbr:Papum_Pare_district ,
+		dbr:Amendment ,
+		dbr:Saint_Lucia ,
+		dbr:List_of_districts_of_Arunachal_Pradesh ,
+		dbr:Garrison ,
+		dbr:Roads_in_India ,
+		dbr:Arunachal_Pradesh ,
+		dbr:Lower_Dibang_Valley_district ,
+		dbr:Lok_Sabha ,
+		dbr:Hoolock_gibbon ,
+		dbr:Buddhism ,
+		dbr:Anjaw_district ,
+		dbr:Demographics_of_India ,
+		dbr:Literacy_in_India ,
+		dbr:British_people ,
+		dbr:District_magistrate ,
+		dbr:Women_in_India ,
+		<http://dbpedia.org/resource/Sunpura,_Arunachal_Pradesh._All_of_these_are_part_of_%5B%5BArunachal_East_(Lok_Sabha_constituency)> ,
+		dbr:List_of_wildlife_sanctuaries_of_India ,
+		dbr:Middle_Ages ,
+		dbr:Hawaii ,
+		dbr:Chutia_Kingdom ,
+		dbr:Changlang_district ,
+		dbr:India ,
+		dbr:Indian_Standard_Time ,
+		dbr:Tibet ,
+		<http://dbpedia.org/resource/2011_Census_of_India> ,
+		dbr:China ,
+		dbr:Jingpo_people ,
+		dbr:Adi_people ,
+		dbr:Jatropha ,
+		dbr:List_of_districts_in_India ,
+		dbr:Khamti_people ,
+		dbr:Lohit_River ,
+		dbr:South ,
+		dbr:Syllable .
+@prefix dbt:	<http://dbpedia.org/resource/Template:> .
+dbr:Lohit_district	dbp:wikiPageUsesTemplate	dbt:Use_British_English ,
+		dbt:Use_dmy_dates ,
+		dbt:IPA ,
+		dbt:Convert ,
+		dbt:Infobox_settlement ,
+		dbt:Arunachal_Pradesh ,
+		dbt:Authority_control ,
+		dbt:Cvt ,
+		dbt:Geographic_location ,
+		dbt:Coord ,
+		dbt:Reflist ;
+	dbo:wikiPageLength	"9803"^^xsd:nonNegativeInteger .
+dbr:Idu_Mishmi_language	dbo:wikiPageWikiLink	dbr:Lohit_district .
+dbr:Anini	dbo:wikiPageWikiLink	dbr:Lohit_district .
+dbr:Ahom_people	dbo:wikiPageWikiLink	dbr:Lohit_district .
+dbr:Abor_Hills	dbo:wikiPageWikiLink	dbr:Lohit_district .
+dbr:Walong	dbo:wikiPageWikiLink	dbr:Lohit_district .
+dbr:Digaro_Mishmi_language	dbo:wikiPageWikiLink	dbr:Lohit_district .
+dbr:Mishmi_people	dbo:wikiPageWikiLink	dbr:Lohit_district .
+dbr:Geography_of_Arunachal_Pradesh	dbo:wikiPageWikiLink	dbr:Lohit_district .
+<http://dbpedia.org/resource/1946_Birthday_Honours>	dbo:wikiPageWikiLink	dbr:Lohit_district .
+wikipedia-en:Lohit_district	foaf:primaryTopic	dbr:Lohit_district .
+dbr:Environmental_flow	dbo:wikiPageWikiLink	dbr:Lohit_district .
+dbr:Karikho_Kri	dbo:wikiPageWikiLink	dbr:Lohit_district .
+dbr:Lohit	dbo:wikiPageWikiLink	dbr:Lohit_district ;
+	dbo:wikiPageDisambiguates	dbr:Lohit_district .
+dbr:List_of_districts_in_India	dbo:wikiPageWikiLink	dbr:Lohit_district .
+dbr:Arunachal_Pradesh	dbo:wikiPageWikiLink	dbr:Lohit_district .
+dbr:Roman_Catholic_Diocese_of_Miao	dbo:wikiPageWikiLink	dbr:Lohit_district .
+<http://dbpedia.org/resource/C._C._Gohain>	dbo:wikiPageWikiLink	dbr:Lohit_district .
+dbr:List_of_Regional_Transport_Office_districts_in_India	dbo:wikiPageWikiLink	dbr:Lohit_district .
+dbr:Outline_of_Arunachal_Pradesh	dbo:wikiPageWikiLink	dbr:Lohit_district .
+dbr:Rodent_farming	dbo:wikiPageWikiLink	dbr:Lohit_district .
+dbr:List_of_districts_of_Arunachal_Pradesh	dbo:wikiPageWikiLink	dbr:Lohit_district .
+dbr:List_of_constituencies_of_the_Arunachal_Pradesh_Legislative_Assembly	dbo:wikiPageWikiLink	dbr:Lohit_district .
+dbr:Bhismaknagar	dbo:wikiPageWikiLink	dbr:Lohit_district .
+<http://dbpedia.org/resource/Palin,_Arunachal_Pradesh>	dbo:wikiPageWikiLink	dbr:Lohit_district .
+dbr:Padam_people	dbo:wikiPageWikiLink	dbr:Lohit_district .
+<http://dbpedia.org/resource/National_Highway_13_(India)>	dbp:terminusB	dbr:Lohit_district ;
+	dbo:routeEnd	dbr:Lohit_district ;
+	dbo:wikiPageWikiLink	dbr:Lohit_district .
+dbr:Trans-Arunachal_Highway	dbo:wikiPageWikiLink	dbr:Lohit_district .
+dbr:Zingnu_Namchoom	dbo:wikiPageWikiLink	dbr:Lohit_district .
+dbr:Lower_Dibang_Valley_district	dbp:east	dbr:Lohit_district ;
+	dbo:wikiPageWikiLink	dbr:Lohit_district .
+dbr:Upper_Dibang_Valley_district	dbo:wikiPageWikiLink	dbr:Lohit_district .
+dbr:Kento_Rina	dbo:wikiPageWikiLink	dbr:Lohit_district .
+dbr:Dangku	dbo:wikiPageWikiLink	dbr:Lohit_district .
+dbr:Adi_people	dbo:wikiPageWikiLink	dbr:Lohit_district .
+dbr:Singpho_dialect	dbo:wikiPageWikiLink	dbr:Lohit_district .
+dbr:Tinsukia_district	dbp:northeast	dbr:Lohit_district ;
+	dbo:wikiPageWikiLink	dbr:Lohit_district .
+dbr:Lekang	dbo:wikiPageWikiLink	dbr:Lohit_district .
+dbr:List_of_State_Protected_Monuments_in_Arunachal_Pradesh	dbp:location	dbr:Lohit_district ;
+	dbp:district	dbr:Lohit_district ;
+	dbo:wikiPageWikiLink	dbr:Lohit_district .
+dbr:Sobeng_Tayeng	dbo:wikiPageWikiLink	dbr:Lohit_district .
+dbr:Tezu	dbp:subdivisionName	dbr:Lohit_district ;
+	dbo:subdivision	dbr:Lohit_district ;
+	dbo:wikiPageWikiLink	dbr:Lohit_district .
+dbr:Aiton_language	dbo:wikiPageWikiLink	dbr:Lohit_district .
+dbr:Deori_language	dbo:wikiPageWikiLink	dbr:Lohit_district .
+dbr:Dumsi	dbo:wikiPageWikiLink	dbr:Lohit_district .
+dbr:Administrative_divisions_of_India	dbo:wikiPageWikiLink	dbr:Lohit_district .
+<http://dbpedia.org/resource/Arunachal_East_(Lok_Sabha_constituency)>	dbo:wikiPageWikiLink	dbr:Lohit_district .
+dbr:Parshuram_Kund	dbp:district	dbr:Lohit_district ;
+	dbo:wikiPageWikiLink	dbr:Lohit_district .
+dbr:Wakro	dbp:subdivisionName	dbr:Lohit_district ;
+	dbo:subdivision	dbr:Lohit_district ;
+	dbo:wikiPageWikiLink	dbr:Lohit_district .
+dbr:Namsai_district	dbp:east	dbr:Lohit_district ;
+	dbp:north	dbr:Lohit_district ;
+	dbo:wikiPageWikiLink	dbr:Lohit_district .
+dbr:Anjaw_district	dbp:west	dbr:Lohit_district ;
+	dbo:wikiPageWikiLink	dbr:Lohit_district .
+dbr:Chowkham	dbo:wikiPageWikiLink	dbr:Lohit_district .
+dbr:Jorhat_Airport	dbo:wikiPageWikiLink	dbr:Lohit_district .
+dbr:Tani_languages	dbo:wikiPageWikiLink	dbr:Lohit_district .
+dbr:Mising_people	dbo:wikiPageWikiLink	dbr:Lohit_district .
+dbr:Tai_Phake_people	dbo:wikiPageWikiLink	dbr:Lohit_district .
+dbr:Changlang_district	dbp:north	dbr:Lohit_district ;
+	dbo:wikiPageWikiLink	dbr:Lohit_district .
+dbr:Territories_of_Catholic_dioceses_in_India	dbo:wikiPageWikiLink	dbr:Lohit_district .
+dbr:Lohit_District	dbo:wikiPageRedirects	dbr:Lohit_district ;
+	dbo:wikiPageWikiLink	dbr:Lohit_district .
+dbr:Lohit_Frontier_Division	dbo:wikiPageRedirects	dbr:Lohit_district ;
+	dbo:wikiPageWikiLink	dbr:Lohit_district .
+<http://dbpedia.org/resource/Lohit_district,_Arunachal_Pradesh>	dbo:wikiPageRedirects	dbr:Lohit_district ;
+	dbo:wikiPageWikiLink	dbr:Lohit_district .
+dbr:Miju_language	dbo:wikiPageWikiLink	dbr:Lohit_district .
+dbr:Kaisu	dbo:wikiPageWikiLink	dbr:Lohit_district .
+dbr:List_of_cities_and_towns_in_Arunachal_Pradesh	dbo:wikiPageWikiLink	dbr:Lohit_district .
+dbr:Zekhring_people	dbo:wikiPageWikiLink	dbr:Lohit_district .
+dbr:Chowna_Mein	dbo:wikiPageWikiLink	dbr:Lohit_district .
+dbr:Ratnadhwajpal	dbo:wikiPageWikiLink	dbr:Lohit_district .

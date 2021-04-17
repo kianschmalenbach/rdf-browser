@@ -1,0 +1,976 @@
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+dbr:Pacific_Ocean	dbo:nearestCity	dbr:Magadan ;
+	dbo:wikiPageWikiLink	dbr:Magadan .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Pacific_Ocean	dbp:cities	dbr:Magadan .
+dbr:Russia	dbo:wikiPageWikiLink	dbr:Magadan .
+<http://dbpedia.org/resource/The_Voice_(Russian_season_2)>	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:Mondo_Enduro	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:List_of_S7_Airlines_destinations	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:Yuri_Rytkheu	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:Namangan	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:Baranavichy	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:Russian_Academy_of_Sciences	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:Ludwik_Kowalski	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:East_Siberian_Mountains	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:Voice_of_Russia	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:Helictotrichon	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:Vladimir_Yarets	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:Radio_Moscow	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:Varlam_Shalamov	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:Demokrat_Leonov	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:Vasily_Aksyonov	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:Diana_Arbenina	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:Inna_Korobkina	dbo:birthPlace	dbr:Magadan ;
+	dbp:birthPlace	dbr:Magadan ;
+	dbo:wikiPageWikiLink	dbr:Magadan .
+<http://dbpedia.org/resource/Anatoly_Bykov_(wrestler)>	dbo:birthPlace	dbr:Magadan ;
+	dbp:birthPlace	dbr:Magadan ;
+	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:Vladimir_Shmelyov	dbo:birthPlace	dbr:Magadan ;
+	dbp:birthPlace	dbr:Magadan ;
+	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:Igor_Kokhanovsky	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:Yalchin_Adigezalov	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:Ukrainians_in_Siberia	dbp:popplace	dbr:Magadan ;
+	dbo:populationPlace	dbr:Magadan ;
+	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:R504_Kolyma_Highway	dbp:terminusB	dbr:Magadan ;
+	dbo:routeEnd	dbr:Magadan ;
+	dbo:wikiPageWikiLink	dbr:Magadan .
+<http://dbpedia.org/resource/Imperium_(Kapu\u015Bci\u0144ski_book)>	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:Aleksandra_Boiko	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:Art_and_culture_in_the_Gulag_labor_camps	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:George_Bagration_of_Mukhrani	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:Kedra_Mitrei	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:SS_Heinrich_Arp	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:SS_Indigirka	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:Vaninsky_port	dbo:wikiPageWikiLink	dbr:Magadan .
+<http://dbpedia.org/resource/E._H._Carr>	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:Eddie_Rosner	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:Huseyn_Javid	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:List_of_Gulag_camps	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:Antonov_An-26	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:Trude_Richter	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:Aeroflot_accidents_and_incidents_in_the_1960s	dbo:wikiPageWikiLink	dbr:Magadan .
+<http://dbpedia.org/resource/Confrontation_(miniseries)>	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:Peter_Demant	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:Serhiy_Sitalo	dbo:birthPlace	dbr:Magadan ;
+	dbp:birthPlace	dbr:Magadan ;
+	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:Viktor_Rybakov	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:Even_language	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:Federation_of_Jewish_Communities_of_the_CIS	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:Largest_artificial_non-nuclear_explosions	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:Soviet_Border_Troops	dbo:wikiPageWikiLink	dbr:Magadan .
+<http://dbpedia.org/resource/43rd_Army_Corps_(Soviet_Union)>	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:Rosie_Swale-Pope	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:Oeneis_alpina	dbo:wikiPageWikiLink	dbr:Magadan .
+<http://dbpedia.org/resource/World\u0027s_Most_Dangerous_Roads>	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:List_of_Arctic_expeditions	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:Heath_fritillary	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:Ivan_Nikishov	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:Dalstroy	dbo:location	dbr:Magadan ;
+	dbo:headquarter	dbr:Magadan ;
+	dbo:wikiPageWikiLink	dbr:Magadan .
+<http://dbpedia.org/resource/July_27_(Eastern_Orthodox_liturgics)>	dbo:wikiPageWikiLink	dbr:Magadan .
+<http://dbpedia.org/resource/Magadan_(disambiguation)>	dbo:wikiPageWikiLink	dbr:Magadan ;
+	dbo:wikiPageDisambiguates	dbr:Magadan .
+dbr:List_of_twin_towns_and_sister_cities_in_Russia	dbo:wikiPageWikiLink	dbr:Magadan .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+wikipedia-en:Magadan	foaf:primaryTopic	dbr:Magadan .
+dbr:Lilium_lancifolium	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:List_of_Yakutia_destinations	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:Sakhalin_Shipping_Company	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:KAPO_Avia	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:List_of_VIM_Airlines_destinations	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:List_of_accidents_and_incidents_involving_the_Ilyushin_Il-14	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:List_of_accidents_and_incidents_involving_the_Ilyushin_Il-18	dbo:wikiPageWikiLink	dbr:Magadan .
+<http://dbpedia.org/resource/Territory_(2015_film)>	dbo:wikiPageWikiLink	dbr:Magadan .
+<http://dbpedia.org/resource/Anchorage,_Alaska>	dbo:wikiPageWikiLink	dbr:Magadan .
+<http://dbpedia.org/resource/Henry_A._Wallace>	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:Ilyushin_Il-12	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:Owen_Lattimore	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:Eparchies_and_Metropolitanates_of_the_Russian_Orthodox_Church	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:List_of_Transaero_destinations	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:Religion_in_Russia	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:Mikhail_Stadukhin	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:Sevvostlag	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:Defection_of_Viktor_Belenko	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:Pavel_Vinogradov	dbo:birthPlace	dbr:Magadan ;
+	dbp:birthPlace	dbr:Magadan ;
+	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:Inukjuak	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:Kurile_Lake	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:List_of_institutions_of_higher_education_in_Russia	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:Sergey_Orlovskiy	dbo:birthPlace	dbr:Magadan ;
+	dbp:birthPlace	dbr:Magadan ;
+	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:Sven_Haakanson	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:Long_Way_Round	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:Alastair_Humphreys	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:Phippsia	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:Colias_chippewa	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:Torreyochloa	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:Fritillaria_camschatcensis	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:Arctodupontia	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:Sakha	dbo:wikiPageWikiLink	dbr:Magadan .
+<http://dbpedia.org/resource/Far_North_(Russia)>	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:Shane_Lundgren	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:Interavia_Airlines	dbp:focusCities	dbr:Magadan ;
+	dbo:targetAirport	dbr:Magadan ;
+	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:Letter_beacon	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:List_of_Centre-South_destinations	dbo:wikiPageWikiLink	dbr:Magadan .
+<http://dbpedia.org/resource/Igor_Alekseyev_(politician)>	dbo:wikiPageWikiLink	dbr:Magadan .
+<http://dbpedia.org/resource/The_Voice_(Russian_season_1)>	dbo:wikiPageWikiLink	dbr:Magadan .
+<http://dbpedia.org/resource/The_Voice_(Russian_season_9)>	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:List_of_Vladivostok_Air_destinations	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:Antonina_Kymytval	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:List_of_the_busiest_airports_in_Russia	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:The_Black_Circle	dbo:wikiPageWikiLink	dbr:Magadan .
+<http://dbpedia.org/resource/2011_Avis_Amur_Antonov_An-12_crash>	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:Alaska_Airlines	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:Eurasian_eagle-owl	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:Sakhalin	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:Communications_satellite	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:Siberia	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:Andronicus_Rudenko	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:Lovett_Fort-Whiteman	dbo:wikiPageWikiLink	dbr:Magadan .
+<http://dbpedia.org/resource/Church_of_the_Nativity_(Magadan)>	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:List_of_Aurora_Airlines_destinations	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:Rob_Lilwall	dbo:wikiPageWikiLink	dbr:Magadan .
+<http://dbpedia.org/resource/Aurora_(airline)>	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:New_Life_Radio-Moscow	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:Clavariadelphus_ligula	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:Small_blue	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:Maxim_Gorky	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:Gulag	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:Walrus	dbo:wikiPageWikiLink	dbr:Magadan .
+<http://dbpedia.org/resource/Friendship_Flight_\u002789>	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:List_of_the_largest_country_subdivisions_by_area	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:Aeroflot_accidents_and_incidents_in_the_1970s	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:Aeroflot_accidents_and_incidents_in_the_1980s	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:Aeroflot_accidents_and_incidents_in_the_1990s	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:Vladimir_Nikolayevich_Petrov	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:Taras_Voznyak	dbo:wikiPageWikiLink	dbr:Magadan .
+<http://dbpedia.org/resource/Timeline_of_the_2006_Lebanon_War_(late_August)>	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:Potemkin_village	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:List_of_urban_localities_in_the_Russian_Far_East	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:Ukrainian_diaspora	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:Arnica	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:Bear_hunting	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:List_of_Alaska_Airlines_destinations	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:List_of_UTC_time_offsets	dbo:wikiPageWikiLink	dbr:Magadan .
+@prefix ns5:	<http://dbpedia.org/resource/List_of_airports_by_IATA_airport_code:> .
+ns5:_G	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:Coverage_of_Google_Street_View	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:List_of_Rescue_911_episodes	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:Time_zone	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:List_of_twin_towns_and_sister_cities_in_Belarus	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:List_of_twin_towns_and_sister_cities_in_Latvia	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:Yakutsk	dbo:wikiPageWikiLink	dbr:Magadan .
+<http://dbpedia.org/resource/UTC+11:00>	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:Flag_of_Magadan_Oblast	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:Jelgava	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:List_of_Rossiya_destinations	dbo:wikiPageWikiLink	dbr:Magadan .
+<http://dbpedia.org/resource/2002_in_politics>	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:Longwave	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:List_of_sister_cities_in_the_United_States	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:April_1968	dbo:wikiPageWikiLink	dbr:Magadan .
+<http://dbpedia.org/resource/Tatra_(company)>	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:Taui_Bay	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:Vladimir_Vysotsky	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:January_1966	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:List_of_Ural_Airlines_destinations	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:List_of_twin_towns_and_sister_cities_in_China	dbo:wikiPageWikiLink	dbr:Magadan .
+<http://dbpedia.org/resource/Wac\u0142aw_Kopisto>	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:Yekaterina_Antonyuk	dbo:birthPlace	dbr:Magadan ;
+	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:Red-eye_flight	dbo:wikiPageWikiLink	dbr:Magadan .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Magadan	rdf:type	yago:WikicatCitiesAndTownsInMagadanOblast ,
+		yago:WikicatPopulatedPlacesEstablishedIn1929 ,
+		yago:Town108665504 .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Magadan	rdf:type	owl:Thing ,
+		yago:Tract108673395 .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Magadan	rdf:type	wikidata:Q486972 ,
+		yago:Site108651247 ,
+		yago:UrbanArea108675967 ,
+		yago:Region108630985 ,
+		yago:PhysicalEntity100001930 ,
+		yago:Object100002684 ,
+		dbo:Settlement ,
+		yago:Municipality108626283 ,
+		yago:Location100027167 ,
+		yago:YagoPermanentlyLocatedEntity ,
+		yago:YagoLegalActorGeo ,
+		yago:YagoGeoEntity ,
+		yago:WikicatPortCities ,
+		yago:GeographicalArea108574314 ,
+		yago:District108552138 ,
+		yago:City108524735 ,
+		yago:AdministrativeDistrict108491826 ,
+		dbo:PopulatedPlace ,
+		dbo:Location .
+@prefix geo:	<http://www.w3.org/2003/01/geo/wgs84_pos#> .
+dbr:Magadan	rdf:type	geo:SpatialThing ,
+		dbo:Place ,
+		yago:WikicatPopulatedCoastalPlacesInRussia ,
+		yago:WikicatCitiesAndTownsBuiltInTheSovietUnion ,
+		yago:WikicatPortCitiesAndTownsInRussia .
+@prefix schema:	<http://schema.org/> .
+dbr:Magadan	rdf:type	schema:Place .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Magadan	rdfs:label	"\u0645\u0627\u063A\u0627\u062F\u0627\u0646"@ar ,
+		"\u041C\u0430\u0433\u0430\u0434\u0430\u043D"@ru ,
+		"Magadan"@ga ,
+		"\u9A6C\u52A0\u4E39"@zh ,
+		"Magadan"@pl ,
+		"\u039C\u03B1\u03B3\u03BA\u03B1\u03BD\u03C4\u03AC\u03BD"@el ,
+		"Magadan"@nl ,
+		"\u30DE\u30AC\u30C0\u30F3"@ja ,
+		"Magadan"@it ,
+		"\u041C\u0430\u0433\u0430\u0434\u0430\u043D"@uk ,
+		"Magadan"@pt ,
+		"Magadan"@eo ,
+		"Magadan"@en ,
+		"Magadan"@sv ,
+		"\uB9C8\uAC00\uB2E8"@ko ,
+		"Magadan"@fr ,
+		"Magadan"@eu ,
+		"Magadan"@cs ,
+		"Magadan"@ca ,
+		"Magadan"@in ,
+		"Magadan"@de ;
+	rdfs:comment	"Magadan (en rus \u041C\u0430\u0433\u0430\u0434\u0430\u043D) \u00E9s una ciutat russa capital de l'\u00F3blast de Magadan. Est\u00E0 situada al  i t\u00E9 port al Mar d'Okhotsk, obert de maig a desembre. Va ser fundada l'any 1929, provinent d'un assentament de la d\u00E8cada de 1920 i va rebre l'status de ciutat l'any1939. De 1932 a 1953 va ser el centre administratiu del  i dels seus camps correccionals, dedicats a la creaci\u00F3 d'infraestructures i vies de comunicaci\u00F3. La  uneix la ciutat amb la regi\u00F3 superior del riu Kolim\u00E0, rica en mines d'or, i amb Iakutsk."@ca ,
+		"Magadan (errusieraz: \u041C\u0430\u0433\u0430\u0434\u0430\u043D) Errusiako hiria da, Magadan oblastaren hiriburua. Ekialde Urruneko Barruti Federalean dago, Okhotskeko itsasoaren iparraldeko kostaldean, Taui badian, Moskutik 5.910 km ekialdera eta Khabarovsketik 1.655 km ipar-ekialdera. 2010ean 95.982 biztanle zituen."@eu ,
+		"Magadan \u00E8 una citt\u00E0 e porto stagionale russo; \u00E8 situata nell'estremo oriente russo, nel mare di Ochotsk, in fondo alla piccola baia di Nagaev all'interno della baia del Tauj. \u00C8 il capoluogo dell'omonima oblast'."@it ,
+		"\u30DE\u30AC\u30C0\u30F3\uFF08\u30ED\u30B7\u30A2\u8A9E: \u041C\u0430\u0433\u0430\u0434\u0430\u043D\uFF09\u306F\u30ED\u30B7\u30A2\u9023\u90A6\u306E\u90FD\u5E02\u3002\u30DE\u30AC\u30C0\u30F3\u5DDE\u306E\u5DDE\u90FD\u3002\u30AA\u30DB\u30FC\u30C4\u30AF\u6D77\u306B\u9762\u3059\u308B\u6D77\u6E2F\u90FD\u5E02\u3067\u3042\u308B\u3002\u6E2F\u306F5\u6708\u304B\u308912\u6708\u307E\u3067\u4F7F\u7528\u53EF\u80FD\u3002\u9020\u8239\u3084\u6F01\u696D\u304C\u76DB\u3093\u3002\u4EBA\u53E3\u306F89,200\u4EBA\uFF082004\u5E74\uFF09\u3002\u90CA\u5916\u306B\u30BD\u30B3\u30EB\u7A7A\u6E2F\u3092\u6301\u3064\u3002"@ja ,
+		"\u041C\u0430\u0433\u0430\u0434\u0430\u0301\u043D (\u0440\u043E\u0441. \u041C\u0430\u0433\u0430\u0434\u0430\u0301\u043D) \u2014 \u043C\u0456\u0441\u0442\u043E \u043D\u0430 \u043A\u0440\u0430\u0439\u043D\u044C\u043E\u043C\u0443 \u0441\u0445\u043E\u0434\u0456 \u0420\u043E\u0441\u0456\u0457. \u0410\u0434\u043C\u0456\u043D\u0456\u0441\u0442\u0440\u0430\u0442\u0438\u0432\u043D\u0438\u0439 \u0446\u0435\u043D\u0442\u0440 \u041C\u0430\u0433\u0430\u0434\u0430\u043D\u0441\u044C\u043A\u043E\u0457 \u043E\u0431\u043B\u0430\u0441\u0442\u0456. \u041C\u0456\u0441\u0442\u043E \u043E\u0431\u043B\u0430\u0441\u043D\u043E\u0433\u043E \u043F\u0456\u0434\u043F\u043E\u0440\u044F\u0434\u043A\u0443\u0432\u0430\u043D\u043D\u044F. \u0417\u043D\u0430\u0445\u043E\u0434\u0438\u0442\u044C\u0441\u044F \u043D\u0430 \u0432\u0456\u0434\u0441\u0442\u0430\u043D\u0456 5911 \u043A\u043C \u0432\u0456\u0434 \u041C\u043E\u0441\u043A\u0432\u0438, \u0456 \u0442\u0430\u043A\u0438\u043C \u0447\u0438\u043D\u043E\u043C \u0454 \u043E\u0434\u043D\u0438\u043C \u0456\u0437 \u043D\u0430\u0439\u0432\u0456\u0434\u0434\u0430\u043B\u0435\u043D\u0456\u0448\u0438\u0445 \u043C\u0456\u0441\u0442 \u0420\u043E\u0441\u0456\u0457 \u0432\u0456\u0434 \u0441\u0442\u043E\u043B\u0438\u0446\u0456. \u041C\u0456\u0441\u0442\u043E \u043D\u0435 \u043C\u0430\u0454 \u0437\u0430\u043B\u0456\u0437\u043D\u0438\u0447\u043D\u043E\u0433\u043E \u0441\u043F\u043E\u043B\u0443\u0447\u0435\u043D\u043D\u044F."@uk ,
+		"\u9A6C\u52A0\u4E39\uFF08\u4FC4\u8A9E\uFF1A\u041C\u0430\u0433\u0430\u0434\u0430\u0301\u043D\uFF09\u662F\u4FC4\u7F85\u65AF\u99AC\u52A0\u4E39\u5DDE\u9996\u5E9C\u3001\u79D1\u7D2F\u99AC\u5730\u5340\u7684\u4E2D\u5FC3\u57CE\u5E02\uFF0C\u4F4D\u65BC\u9102\u970D\u6B21\u514B\u6D77\u6CBF\u5CB8\u30022010\u5E74\u4EBA\u53E3\u70BA95,925\u4EBA\u3002\u7D93\u6FDF\u4EE5\u9020\u8239\u548C\u6355\u9B5A\u70BA\u4E3B\u3002\u4EA4\u901A\u65B9\u9762\u6E2F\u53E35\u6708\u81F312\u6708\u53EF\u4EE5\u901A\u822A\u3002\u6709\u5169\u500B\u6A5F\u5834\u3002\u6709\u4E00\u689D\u516C\u8DEF\u901A\u5F80\u96C5\u5EAB\u8328\u514B\u3002"@zh ,
+		"Magadan (bahasa Rusia: \u041C\u0430\u0433\u0430\u0434\u0430\u043D) adalah  pelabuhan dan ibu kota Oblast Magadan, Rusia. Kota ini terletak di , Laut Okhotsk, dan berfungsi sebagai pintu gerbang ke wilayah ."@in ,
+		"Magadan (ros. \u041C\u0430\u0433\u0430\u0434\u0430\u043D) \u2013 stolica obwodu magada\u0144skiego w azjatyckiej cz\u0119\u015Bci Federacji Rosyjskiej, port nad Morzem Ochockim; 96 tys. mieszka\u0144c\u00F3w (2010)."@pl ,
+		"Magadan (rusky \u041C\u0430\u0433\u0430\u0434\u0430\u0301\u043D) je p\u0159\u00EDstavn\u00ED m\u011Bsto na rusk\u00E9m D\u00E1ln\u00E9m v\u00FDchod\u011B, na pob\u0159e\u017E\u00ED Ochotsk\u00E9ho mo\u0159e v Kolymsk\u00E9m poho\u0159\u00ED. M\u011Bsto je centrem Magadansk\u00E9 oblasti. \u017Dije zde p\u0159ibli\u017En\u011B 93 tis\u00EDc obyvatel. V Magadanu je subarktick\u00E9 klima, v lednu padaj\u00ED teploty k -40 \u00B0C, v \u010Dervenci se pohybuj\u00ED okolo 12\u201316 \u00B0C. Pr\u016Fm\u011Brn\u00E1 ro\u010Dn\u00ED teplota \u010Din\u00ED -3 \u00B0C. V okol\u00ED se vyskytuj\u00ED tajgy a tundry."@cs ,
+		"Magadan (Russisch: \u041C\u0430\u0433\u0430\u0434\u0430\u043D) is een stad in de gelijknamige Russische oblast Magadan in het Russische Verre Oosten en vormt het bestuurlijk centrum van deze oblast. Magadan is de grootste haven in het noordoosten van Rusland en ligt aan de noordkant van de Zee van Ochotsk aan de Nagajevabaai op 5911 kilometer ten oosten van Moskou en 1600 kilometer van Chabarovsk."@nl ,
+		"Magadan (ryska: \u041C\u0430\u0433\u0430\u0434\u0430\u0301\u043D) \u00E4r administrativ huvudort f\u00F6r Magadan oblast i Ryssland. Staden grundades 1930. Magadan \u00E4r en hamnstad vid Ochotska havet och har lite mindre \u00E4n 100 000 inv\u00E5nare. De viktigaste n\u00E4ringsv\u00E4garna \u00E4r skeppsbyggning och fiske. Under Stalins tid var Magadan ett viktigt centrum f\u00F6r f\u00E5ngar som s\u00E4ndes till arbetsl\u00E4ger. Magadan \u00E4r n\u00E5got isolerat d\u00E5 endast en v\u00E4g leder in och ut ur staden, dessutom i mycket d\u00E5ligt skick, och den n\u00E4rmaste staden \u00E4r Jakutsk, 2 200 kilometer d\u00E4rifr\u00E5n."@sv ,
+		"Magadan (Russian: \u041C\u0430\u0433\u0430\u0434\u0430\u043D, IPA: [m\u0259\u0261\u0250\u02C8dan]) is a port town and the administrative center of Magadan Oblast, Russia, located on the Sea of Okhotsk in Nagayev Bay (within Taui Bay) and serving as a gateway to the Kolyma region. Population: 95,982\u2009(2010 Census); 99,399\u2009(2002 Census); 151,652\u2009(1989 Census)."@en ,
+		"Magadan (russo:  \u041C\u0430\u0433\u0430\u0434\u0430\u043D; IPA: [m\u0259\u0261\u0250\u02C8dan]) \u00E9 uma cidade e o centro administrativo do oblast de Magadan, na R\u00FAssia, fundada em 1933. Tem uma popula\u00E7\u00E3o aproximada de 95.925 (Censo russo de 2010); 152.000 (Censo de 1989). As atividades mais importantes s\u00E3o constru\u00E7\u00E3o naval e pesca. A cidade tem um porto naveg\u00E1vel de maio a dezembro e um aeroporto. Uma auto-estrada leva \u00E0 regi\u00E3o das minas de ouro de Magadan, no alto Rio Kolyma. Ela \u00E9 conhecida como a \"estrada dos ossos\", devido aos prisioneiros que morreram durante a sua constru\u00E7\u00E3o."@pt ,
+		"Magadan (en russe : \u041C\u0430\u0433\u0430\u0434\u0430\u043D) est une ville de Russie, un port maritime de Sib\u00E9rie orientale et la capitale administrative de l'oblast de Magadan, dans l'Extr\u00EAme-Orient russe. Sa population s'\u00E9levait \u00E0 95 048 habitants en 2013."@fr ,
+		"Magadan (ruse \u041C\u0430\u0433\u0430\u0434\u0430\u043D) estas urbo en Rusio, \u0109efurbo de Magadana provinco. Kodo de OKATO de la urbo (en jaro 2005) estas 44401. La urbo estis fondita en komenco de la 1930-aj jaroj pro komenco de eligado de oro kaj fari\u011Das fifama pro la punlaborejoj tie (Gulago) dum la stalinisma regado. \u011Ci havas statuson de urbo ekde jaro 1939. La interurba telefona kodo estas 41322, la enurbaj telefonnumeroj estas kvinciferaj (en jaro 2005). Diferenco de la loka kaj moskva tempoj estas 8 horoj (en jaro 2011). Geografiaj koordinatoj de la urbo estas 59\u00B034\u2032N 150\u00B048\u2032O\uFEFF \uFEFF / \uFEFF \uFEFF59.567\u00B0N, 150.8\u00B0O  (mapo)."@eo ,
+		"\u041C\u0430\u0433\u0430\u0434\u0430\u0301\u043D \u2014 \u0433\u043E\u0440\u043E\u0434-\u043F\u043E\u0440\u0442 \u043D\u0430 \u0441\u0435\u0432\u0435\u0440\u043E-\u0432\u043E\u0441\u0442\u043E\u043A\u0435 \u0420\u043E\u0441\u0441\u0438\u0438. \u0410\u0434\u043C\u0438\u043D\u0438\u0441\u0442\u0440\u0430\u0442\u0438\u0432\u043D\u044B\u0439 \u0446\u0435\u043D\u0442\u0440 \u041C\u0430\u0433\u0430\u0434\u0430\u043D\u0441\u043A\u043E\u0439 \u043E\u0431\u043B\u0430\u0441\u0442\u0438, \u043E\u0431\u0440\u0430\u0437\u0443\u0435\u0442 \u043C\u0443\u043D\u0438\u0446\u0438\u043F\u0430\u043B\u044C\u043D\u043E\u0435 \u043E\u0431\u0440\u0430\u0437\u043E\u0432\u0430\u043D\u0438\u0435 \u00AB\u0433\u043E\u0440\u043E\u0434 \u041C\u0430\u0433\u0430\u0434\u0430\u043D\u00BB. \u041D\u0430\u0441\u0435\u043B\u0435\u043D\u0438\u0435 \u2014 91 781 \u0447\u0435\u043B. (2019). \u0420\u0430\u0441\u043F\u043E\u043B\u043E\u0436\u0435\u043D \u0432\u043E\u043A\u0440\u0443\u0433 \u0441\u043E\u043F\u043E\u043A \u043D\u0430 \u0431\u0435\u0440\u0435\u0433\u0443 \u0422\u0430\u0443\u0439\u0441\u043A\u043E\u0439 \u0433\u0443\u0431\u044B \u041E\u0445\u043E\u0442\u0441\u043A\u043E\u0433\u043E \u043C\u043E\u0440\u044F, \u043D\u0430 \u043F\u0435\u0440\u0435\u0448\u0435\u0439\u043A\u0435, \u0441\u043E\u0435\u0434\u0438\u043D\u044F\u044E\u0449\u0435\u043C \u043F\u043E\u043B\u0443\u043E\u0441\u0442\u0440\u043E\u0432 \u0421\u0442\u0430\u0440\u0438\u0446\u043A\u043E\u0433\u043E \u0441 \u043C\u0430\u0442\u0435\u0440\u0438\u043A\u043E\u043C \u043C\u0435\u0436\u0434\u0443 \u0431\u0443\u0445\u0442\u0430\u043C\u0438 \u041D\u0430\u0433\u0430\u0435\u0432\u0430 \u0438 \u0413\u0435\u0440\u0442\u043D\u0435\u0440\u0430. \u041A\u043B\u0438\u043C\u0430\u0442 \u0441\u0443\u0440\u043E\u0432\u044B\u0439 \u0441 \u043A\u043E\u0440\u043E\u0442\u043A\u0438\u043C \u043B\u0435\u0442\u043E\u043C, \u043D\u0430 \u043A\u043E\u0442\u043E\u0440\u043E\u0435 \u043F\u0440\u0438\u0445\u043E\u0434\u0438\u0442\u0441\u044F \u043F\u0435\u0440\u0438\u043E\u0434 \u0431\u0435\u043B\u044B\u0445 \u043D\u043E\u0447\u0435\u0439."@ru ,
+		"\uB9C8\uAC00\uB2E8(\uB7EC\uC2DC\uC544\uC5B4: \u041C\u0430\u0433\u0430\u0434\u0430\u0301\u043D)\uC740 \uB9C8\uAC00\uB2E8\uC8FC\uC758 \uC8FC\uB3C4\uB85C, \uC624\uD638\uCE20\uD06C \uD574\uC5D0 \uC811\uD574 \uC788\uB294 \uD56D\uAD6C\uB3C4\uC2DC\uC774\uB2E4. \uD56D\uAD6C\uB294 5\uC6D4\uBD80\uD130 12\uC6D4\uAE4C\uC9C0 \uC0AC\uC6A9\uAC00\uB2A5\uD558\uB2E4. \uC870\uC120\uC5C5\uC774\uB098 \uC5B4\uC5C5\uC774 \uC655\uC131\uD558\uACE0, \uC778\uAD6C\uB294 8\uB9CC9,200\uBA85(2004\uB144)\uC774\uB2E4. \uAD50\uC678\uC5D0 \uC18C\uCF5C \uACF5\uD56D\uC774 \uC788\uB2E4."@ko ,
+		"\u0645\u0627\u063A\u0627\u062F\u0627\u0646 (\u0628\u0627\u0644\u0631\u0648\u0633\u064A\u0629: \u041C\u0430\u0433\u0430\u0434\u0430\u043D) \u0647\u064A \u0625\u062D\u062F\u0649 \u0645\u062F\u0646 \u0631\u0648\u0633\u064A\u0627 \u0648\u0647\u064A \u0639\u0627\u0635\u0645\u0629 \u0627\u0644\u0643\u064A\u0627\u0646 \u0627\u0644\u0641\u062F\u0631\u0627\u0644\u064A \u0627\u0644\u0631\u0648\u0633\u064A \u0645\u0627\u063A\u0627\u062F\u0627\u0646 \u0623\u0648\u0628\u0644\u0627\u0633\u062A.\u064A\u0628\u0644\u063A \u0639\u062F\u062F \u0633\u0643\u0627\u0646\u0647\u0627 100000 \u0646\u0633\u0645\u0629."@ar ,
+		"Calafort agus pr\u00EDomhchathair Ch\u00FAige Mhagadan is ea Magadan. T\u00E1 Magadan suite in oirthuaisceart na R\u00FAise ar ch\u00F3sta Mhuir Ocatsc. Buna\u00EDodh Magadan i 1930 agus, go dt\u00ED an bhliain 1991, bh\u00ED an chathair d\u00FAnta ar an domhan m\u00F3r. T\u00E1 s\u00E9 oscailte do chuairteoir\u00ED \u00F3 shin i leith, ach t\u00E1 laghd\u00FA lean\u00FAnach ar an l\u00EDon daoine ina gc\u00F3na\u00ED ann: 151,652 duine sa bhliain 1989; 99,399 i 2002; agus 95,982 i 2010."@ga ,
+		"Magadan (russisch \u041C\u0430\u0433\u0430\u0434\u0430\u043D) ist eine russische Hafenstadt in der Oblast Magadan an zwei Buchten des Ochotskischen Meeres. Die Stadt hat 95.982 Einwohner (Stand: 14. Oktober 2010). Der auch im Winter eisfreie Hafen wird milit\u00E4risch genutzt. Bis zum Ende der Sowjetunion 1991 war er Sperrgebiet. Heute steht die Stadt Magadan f\u00FCr Touristen offen und auch der milit\u00E4rische Hafen kann von zivilen Schiffen genutzt werden."@de ,
+		"\u03A4\u03BF \u039C\u03B1\u03B3\u03BA\u03B1\u03BD\u03C4\u03AC\u03BD (\u03C1\u03C9\u03C3\u03B9\u03BA\u03AC: \u041C\u0430\u0433\u0430\u0434\u0430\u043D) \u03B5\u03AF\u03BD\u03B1\u03B9 \u03C1\u03C9\u03C3\u03B9\u03BA\u03CC \u03BB\u03B9\u03BC\u03AC\u03BD\u03B9 \u03C3\u03C4\u03B7\u03BD \u039F\u03C7\u03BF\u03C4\u03C3\u03BA\u03B9\u03BA\u03AE \u03B8\u03AC\u03BB\u03B1\u03C3\u03C3\u03B1 (\u0392\u0394 \u0395\u03B9\u03C1\u03B7\u03BD\u03B9\u03BA\u03CC\u03C2), \u03B5\u03C5\u03C1\u03B9\u03C3\u03BA\u03CC\u03BC\u03B5\u03BD\u03BF \u03B1\u03BA\u03C1\u03B9\u03B2\u03CE\u03C2 5.900 \u03C7\u03B9\u03BB\u03B9\u03CC\u03BC\u03B5\u03C4\u03C1\u03B1 \u03B1\u03BD\u03B1\u03C4\u03BF\u03BB\u03B9\u03BA\u03AC \u03C4\u03B7\u03C2 \u039C\u03CC\u03C3\u03C7\u03B1\u03C2. \u0395\u03AF\u03BD\u03B1\u03B9 \u03B7 \u03C0\u03C1\u03C9\u03C4\u03B5\u03CD\u03BF\u03C5\u03C3\u03B1 \u03BA\u03B1\u03B9 \u03BC\u03BF\u03BD\u03B1\u03B4\u03B9\u03BA\u03AE \u03C0\u03CC\u03BB\u03B7 \u03C4\u03B7\u03C2 \u03A0\u03B5\u03C1\u03B9\u03C6\u03AD\u03C1\u03B5\u03B9\u03B1\u03C2 \u039C\u03B1\u03B3\u03BA\u03B1\u03BD\u03C4\u03AC\u03BD \u03BA\u03B1\u03B9 \u03C3\u03CD\u03BC\u03C6\u03C9\u03BD\u03B1 \u03BC\u03B5 \u03C4\u03B7\u03BD \u03B1\u03C0\u03BF\u03B3\u03C1\u03B1\u03C6\u03AE \u03C4\u03BF\u03C5 2010, \u03AD\u03C7\u03B5\u03B9 95.982 \u03BA\u03B1\u03C4\u03BF\u03AF\u03BA\u03BF\u03C5\u03C2. \u039A\u03CD\u03C1\u03B9\u03B5\u03C2 \u03B4\u03C1\u03B1\u03C3\u03C4\u03B7\u03C1\u03B9\u03CC\u03C4\u03B7\u03C4\u03B5\u03C2 \u03C4\u03C9\u03BD \u03BA\u03B1\u03C4\u03BF\u03AF\u03BA\u03C9\u03BD \u03B5\u03AF\u03BD\u03B1\u03B9 \u03B7 \u03BD\u03B1\u03C5\u03C0\u03AE\u03B3\u03B7\u03C3\u03B7 \u03C0\u03BB\u03BF\u03AF\u03C9\u03BD, \u03B7 \u03B1\u03BB\u03B9\u03B5\u03AF\u03B1 \u03BA\u03B1\u03B9 \u03B7 \u03B4\u03B9\u03B1\u03BC\u03B5\u03C4\u03B1\u03BA\u03BF\u03BC\u03B9\u03B4\u03AE \u03C4\u03BF\u03C5 \u03C7\u03C1\u03C5\u03C3\u03BF\u03CD \u03C0\u03BF\u03C5 \u03B5\u03BE\u03AC\u03B3\u03B5\u03C4\u03B1\u03B9 \u03B1\u03C0\u03CC \u03C4\u03B1 \u03BF\u03C1\u03C5\u03C7\u03B5\u03AF\u03B1 \u03C4\u03BF\u03C5 \u03C0\u03BF\u03C4\u03B1\u03BC\u03BF\u03CD . \u0397 \u03C0\u03CC\u03BB\u03B7 \u03B5\u03BE\u03C5\u03C0\u03B7\u03C1\u03B5\u03C4\u03B5\u03AF\u03C4\u03B1\u03B9 \u03B1\u03C0\u03CC \u03B4\u03CD\u03BF \u03B1\u03B5\u03C1\u03BF\u03B4\u03C1\u03CC\u03BC\u03B9\u03B1, \u03C4\u03BF \u03A3\u03BF\u03BA\u03CC\u03BB (\u03BA\u03C9\u03B4\u03B9\u03BA\u03CC\u03C2 \u0399\u0391\u03A4\u0391: GDX) \u03BA\u03B1\u03B9 \u03C4\u03BF \u03BC\u03B9\u03BA\u03C1\u03CC\u03C4\u03B5\u03C1\u03BF \u039C\u03B1\u03B3\u03BA\u03B1\u03BD\u03C4\u03AC\u03BD-13."@el ;
+	rdfs:seeAlso	dbr:List_of_twin_towns ,
+		dbr:Sister_cities ,
+		dbr:Russia ;
+	foaf:homepage	<http://www.magadangorod.ru> .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Magadan	geo:lat	"59.5666656494140625"^^xsd:float ;
+	geo:long	"150.8000030517578125"^^xsd:float ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Magadan_seen_from_mountain.jpg> ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Magadan .
+@prefix virtrdf:	<http://www.openlinksw.com/schemas/virtrdf#> .
+dbr:Magadan	geo:geometry	"POINT(150.80000305176 59.566665649414)"^^virtrdf:Geometry .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Magadan	dct:subject	dbc:Sea_of_Okhotsk ,
+		dbc:Russian_Far_East ,
+		dbc:Magadan ,
+		dbc:Cities_and_towns_built_in_the_Soviet_Union ,
+		dbc:Russian_and_Soviet_Navy_bases ,
+		<http://dbpedia.org/resource/Category:1929_establishments_in_the_Soviet_Union> ,
+		<http://dbpedia.org/resource/Category:1929_establishments_in_Russia> ,
+		dbc:Cities_and_towns_in_Magadan_Oblast ,
+		dbc:Populated_places_established_in_1929 ,
+		dbc:Populated_coastal_places_in_Russia ,
+		dbc:Port_cities_and_towns_in_Russia .
+@prefix dbpedia-war:	<http://war.dbpedia.org/resource/> .
+dbr:Magadan	owl:sameAs	dbpedia-war:Magadan .
+@prefix dbpedia-tr:	<http://tr.dbpedia.org/resource/> .
+dbr:Magadan	owl:sameAs	dbpedia-tr:Magadan .
+@prefix dbpedia-eo:	<http://eo.dbpedia.org/resource/> .
+dbr:Magadan	owl:sameAs	dbpedia-eo:Magadan .
+@prefix dbpedia-sh:	<http://sh.dbpedia.org/resource/> .
+dbr:Magadan	owl:sameAs	dbpedia-sh:Magadan ,
+		<http://ja.dbpedia.org/resource/\u30DE\u30AC\u30C0\u30F3> .
+@prefix ns21:	<http://uz.dbpedia.org/resource/> .
+dbr:Magadan	owl:sameAs	ns21:Magadan ,
+		<http://rdf.freebase.com/ns/m.0fxsv> .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Magadan	owl:sameAs	dbpedia-pt:Magadan .
+@prefix dbpedia-eu:	<http://eu.dbpedia.org/resource/> .
+dbr:Magadan	owl:sameAs	dbpedia-eu:Magadan .
+@prefix dbpedia-sw:	<http://sw.dbpedia.org/resource/> .
+dbr:Magadan	owl:sameAs	dbpedia-sw:Magadan ,
+		<http://he.dbpedia.org/resource/\u05DE\u05D2\u05D3\u05DF> ,
+		<http://musicbrainz.org/area/296105fc-6902-4714-8f05-0daa95b8937e> .
+@prefix dbpedia-hr:	<http://hr.dbpedia.org/resource/> .
+dbr:Magadan	owl:sameAs	dbpedia-hr:Magadan ,
+		<http://d-nb.info/gnd/1028506-4> ,
+		<http://fa.dbpedia.org/resource/\u0645\u0627\u06AF\u0627\u062F\u0627\u0646> ,
+		<http://ur.dbpedia.org/resource/\u0645\u0627\u06AF\u0627\u062F\u0627\u0646> .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Magadan	owl:sameAs	dbpedia-de:Magadan .
+@prefix dbpedia-et:	<http://et.dbpedia.org/resource/> .
+dbr:Magadan	owl:sameAs	dbpedia-et:Magadan ,
+		<http://ar.dbpedia.org/resource/\u0645\u0627\u063A\u0627\u062F\u0627\u0646> ,
+		wikidata:Q7968 ,
+		<http://ko.dbpedia.org/resource/\uB9C8\uAC00\uB2E8> .
+@prefix ns28:	<http://tl.dbpedia.org/resource/> .
+dbr:Magadan	owl:sameAs	ns28:Magadan ,
+		<http://el.dbpedia.org/resource/\u039C\u03B1\u03B3\u03BA\u03B1\u03BD\u03C4\u03AC\u03BD> .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Magadan	owl:sameAs	dbpedia-fr:Magadan ,
+		<http://azb.dbpedia.org/resource/\u0645\u0627\u0642\u0627\u062F\u0627\u0646> ,
+		<http://mn.dbpedia.org/resource/\u041C\u0430\u0433\u0430\u0434\u0430\u043D> .
+@prefix ns30:	<http://d-nb.info/gnd/4441100-5/about/> .
+dbr:Magadan	owl:sameAs	ns30:rdf ,
+		dbr:Magadan ,
+		<http://tg.dbpedia.org/resource/\u041C\u0430\u0433\u0430\u0434\u0430\u043D> ,
+		<http://arz.dbpedia.org/resource/\u0645\u0627\u062C\u0627\u062F\u0627\u0646> .
+@prefix dbpedia-nn:	<http://nn.dbpedia.org/resource/> .
+dbr:Magadan	owl:sameAs	dbpedia-nn:Magadan ,
+		<http://mr.dbpedia.org/resource/\u092E\u093E\u0917\u093E\u0926\u093E\u0928> .
+@prefix dbpedia-hu:	<http://hu.dbpedia.org/resource/> .
+dbr:Magadan	owl:sameAs	dbpedia-hu:Magadan .
+@prefix dbpedia-da:	<http://da.dbpedia.org/resource/> .
+dbr:Magadan	owl:sameAs	dbpedia-da:Magadan ,
+		<http://viaf.org/viaf/146542586> ,
+		<http://bg.dbpedia.org/resource/\u041C\u0430\u0433\u0430\u0434\u0430\u043D> ,
+		<http://zh.dbpedia.org/resource/\u9A6C\u52A0\u4E39> .
+@prefix dbpedia-vi:	<http://vi.dbpedia.org/resource/> .
+dbr:Magadan	owl:sameAs	dbpedia-vi:Magadan .
+@prefix dbpedia-ga:	<http://ga.dbpedia.org/resource/> .
+dbr:Magadan	owl:sameAs	dbpedia-ga:Magadan .
+@prefix dbpedia-ca:	<http://ca.dbpedia.org/resource/> .
+dbr:Magadan	owl:sameAs	dbpedia-ca:Magadan .
+@prefix dbpedia-la:	<http://la.dbpedia.org/resource/> .
+dbr:Magadan	owl:sameAs	dbpedia-la:Magadanum ,
+		<http://sr.dbpedia.org/resource/\u041C\u0430\u0433\u0430\u0434\u0430\u043D> ,
+		<http://viaf.org/viaf/241850708> .
+@prefix ns38:	<http://lv.dbpedia.org/resource/> .
+dbr:Magadan	owl:sameAs	ns38:Magadana .
+@prefix ns39:	<http://sw.cyc.com/concept/> .
+dbr:Magadan	owl:sameAs	ns39:Mx4rps5kvrlmQdeXB_TJ-uhcPQ ,
+		<http://ta.dbpedia.org/resource/\u0BAE\u0B95\u0BA4\u0BBE\u0BA9\u0BCD> ,
+		<http://sah.dbpedia.org/resource/\u041C\u0430\u0433\u0430\u0434\u0430\u0430\u043D> .
+@prefix dbpedia-af:	<http://af.dbpedia.org/resource/> .
+dbr:Magadan	owl:sameAs	dbpedia-af:Magadan .
+@prefix dbpedia-ro:	<http://ro.dbpedia.org/resource/> .
+dbr:Magadan	owl:sameAs	dbpedia-ro:Magadan ,
+		<http://ru.dbpedia.org/resource/\u041C\u0430\u0433\u0430\u0434\u0430\u043D> ,
+		<http://uk.dbpedia.org/resource/\u041C\u0430\u0433\u0430\u0434\u0430\u043D> ,
+		<https://global.dbpedia.org/id/4xTXT> ,
+		<http://d-nb.info/gnd/4441100-5> .
+@prefix dbpedia-cy:	<http://cy.dbpedia.org/resource/> .
+dbr:Magadan	owl:sameAs	dbpedia-cy:Magadan .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Magadan	owl:sameAs	dbpedia-it:Magadan .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Magadan	owl:sameAs	dbpedia-nl:Magadan .
+@prefix dbpedia-az:	<http://az.dbpedia.org/resource/> .
+dbr:Magadan	owl:sameAs	dbpedia-az:Maqadan ,
+		<http://tt.dbpedia.org/resource/\u041C\u0430\u0433\u0430\u0434\u0430\u043D> ,
+		<http://ceb.dbpedia.org/resource/Magadan_(kapital_sa_lalawigan_sa_Rusya)> .
+@prefix dbpedia-id:	<http://id.dbpedia.org/resource/> .
+dbr:Magadan	owl:sameAs	dbpedia-id:Magadan .
+@prefix ns47:	<http://lt.dbpedia.org/resource/> .
+dbr:Magadan	owl:sameAs	ns47:Magadanas ,
+		<http://sws.geonames.org/2123628/> .
+@prefix ns48:	<http://sco.dbpedia.org/resource/> .
+dbr:Magadan	owl:sameAs	ns48:Magadan ,
+		<http://ky.dbpedia.org/resource/\u041C\u0430\u0433\u0430\u0434\u0430\u043D> .
+@prefix dbpedia-sv:	<http://sv.dbpedia.org/resource/> .
+dbr:Magadan	owl:sameAs	dbpedia-sv:Magadan ,
+		<http://mk.dbpedia.org/resource/\u041C\u0430\u0433\u0430\u0434\u0430\u043D> ,
+		<http://hy.dbpedia.org/resource/\u0544\u0561\u0563\u0561\u0564\u0561\u0576> .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Magadan	owl:sameAs	yago-res:Magadan .
+@prefix dbpedia-hsb:	<http://hsb.dbpedia.org/resource/> .
+dbr:Magadan	owl:sameAs	dbpedia-hsb:Magadan .
+@prefix dbpedia-oc:	<http://oc.dbpedia.org/resource/> .
+dbr:Magadan	owl:sameAs	dbpedia-oc:Magadan ,
+		<http://sws.geonames.org/2123628> .
+@prefix dbpedia-sk:	<http://sk.dbpedia.org/resource/> .
+dbr:Magadan	owl:sameAs	dbpedia-sk:Magadan ,
+		<http://be.dbpedia.org/resource/\u041C\u0430\u0433\u0430\u0434\u0430\u043D> .
+@prefix dbpedia-fi:	<http://fi.dbpedia.org/resource/> .
+dbr:Magadan	owl:sameAs	dbpedia-fi:Magadan .
+@prefix dbpedia-no:	<http://no.dbpedia.org/resource/> .
+dbr:Magadan	owl:sameAs	dbpedia-no:Magadan .
+@prefix dbpedia-gl:	<http://gl.dbpedia.org/resource/> .
+dbr:Magadan	owl:sameAs	dbpedia-gl:Magadan ,
+		<http://ce.dbpedia.org/resource/\u041C\u0430\u0433\u0430\u0434\u0430\u043D> .
+@prefix dbpedia-cs:	<http://cs.dbpedia.org/resource/> .
+dbr:Magadan	owl:sameAs	dbpedia-cs:Magadan .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Magadan	owl:sameAs	dbpedia-pl:Magadan ,
+		<http://os.dbpedia.org/resource/\u041C\u0430\u0433\u0430\u0434\u0430\u043D> .
+@prefix georss:	<http://www.georss.org/georss/> .
+dbr:Magadan	georss:point	"59.56666666666667 150.8" ;
+	schema:sameAs	<http://viaf.org/viaf/146542586> ;
+	dbo:abstract	"Magadan (ryska: \u041C\u0430\u0433\u0430\u0434\u0430\u0301\u043D) \u00E4r administrativ huvudort f\u00F6r Magadan oblast i Ryssland. Staden grundades 1930. Magadan \u00E4r en hamnstad vid Ochotska havet och har lite mindre \u00E4n 100 000 inv\u00E5nare. De viktigaste n\u00E4ringsv\u00E4garna \u00E4r skeppsbyggning och fiske. Under Stalins tid var Magadan ett viktigt centrum f\u00F6r f\u00E5ngar som s\u00E4ndes till arbetsl\u00E4ger. Magadan \u00E4r n\u00E5got isolerat d\u00E5 endast en v\u00E4g leder in och ut ur staden, dessutom i mycket d\u00E5ligt skick, och den n\u00E4rmaste staden \u00E4r Jakutsk, 2 200 kilometer d\u00E4rifr\u00E5n. I Magadan byggs[n\u00E4r?] en stor katedral och ett stort monument format som en mask i sten finns p\u00E5 en kulle \u00F6ver staden. Monumentet hedrar dem som d\u00F6dades under Stalins regim."@sv ,
+		"\u03A4\u03BF \u039C\u03B1\u03B3\u03BA\u03B1\u03BD\u03C4\u03AC\u03BD (\u03C1\u03C9\u03C3\u03B9\u03BA\u03AC: \u041C\u0430\u0433\u0430\u0434\u0430\u043D) \u03B5\u03AF\u03BD\u03B1\u03B9 \u03C1\u03C9\u03C3\u03B9\u03BA\u03CC \u03BB\u03B9\u03BC\u03AC\u03BD\u03B9 \u03C3\u03C4\u03B7\u03BD \u039F\u03C7\u03BF\u03C4\u03C3\u03BA\u03B9\u03BA\u03AE \u03B8\u03AC\u03BB\u03B1\u03C3\u03C3\u03B1 (\u0392\u0394 \u0395\u03B9\u03C1\u03B7\u03BD\u03B9\u03BA\u03CC\u03C2), \u03B5\u03C5\u03C1\u03B9\u03C3\u03BA\u03CC\u03BC\u03B5\u03BD\u03BF \u03B1\u03BA\u03C1\u03B9\u03B2\u03CE\u03C2 5.900 \u03C7\u03B9\u03BB\u03B9\u03CC\u03BC\u03B5\u03C4\u03C1\u03B1 \u03B1\u03BD\u03B1\u03C4\u03BF\u03BB\u03B9\u03BA\u03AC \u03C4\u03B7\u03C2 \u039C\u03CC\u03C3\u03C7\u03B1\u03C2. \u0395\u03AF\u03BD\u03B1\u03B9 \u03B7 \u03C0\u03C1\u03C9\u03C4\u03B5\u03CD\u03BF\u03C5\u03C3\u03B1 \u03BA\u03B1\u03B9 \u03BC\u03BF\u03BD\u03B1\u03B4\u03B9\u03BA\u03AE \u03C0\u03CC\u03BB\u03B7 \u03C4\u03B7\u03C2 \u03A0\u03B5\u03C1\u03B9\u03C6\u03AD\u03C1\u03B5\u03B9\u03B1\u03C2 \u039C\u03B1\u03B3\u03BA\u03B1\u03BD\u03C4\u03AC\u03BD \u03BA\u03B1\u03B9 \u03C3\u03CD\u03BC\u03C6\u03C9\u03BD\u03B1 \u03BC\u03B5 \u03C4\u03B7\u03BD \u03B1\u03C0\u03BF\u03B3\u03C1\u03B1\u03C6\u03AE \u03C4\u03BF\u03C5 2010, \u03AD\u03C7\u03B5\u03B9 95.982 \u03BA\u03B1\u03C4\u03BF\u03AF\u03BA\u03BF\u03C5\u03C2. \u039A\u03CD\u03C1\u03B9\u03B5\u03C2 \u03B4\u03C1\u03B1\u03C3\u03C4\u03B7\u03C1\u03B9\u03CC\u03C4\u03B7\u03C4\u03B5\u03C2 \u03C4\u03C9\u03BD \u03BA\u03B1\u03C4\u03BF\u03AF\u03BA\u03C9\u03BD \u03B5\u03AF\u03BD\u03B1\u03B9 \u03B7 \u03BD\u03B1\u03C5\u03C0\u03AE\u03B3\u03B7\u03C3\u03B7 \u03C0\u03BB\u03BF\u03AF\u03C9\u03BD, \u03B7 \u03B1\u03BB\u03B9\u03B5\u03AF\u03B1 \u03BA\u03B1\u03B9 \u03B7 \u03B4\u03B9\u03B1\u03BC\u03B5\u03C4\u03B1\u03BA\u03BF\u03BC\u03B9\u03B4\u03AE \u03C4\u03BF\u03C5 \u03C7\u03C1\u03C5\u03C3\u03BF\u03CD \u03C0\u03BF\u03C5 \u03B5\u03BE\u03AC\u03B3\u03B5\u03C4\u03B1\u03B9 \u03B1\u03C0\u03CC \u03C4\u03B1 \u03BF\u03C1\u03C5\u03C7\u03B5\u03AF\u03B1 \u03C4\u03BF\u03C5 \u03C0\u03BF\u03C4\u03B1\u03BC\u03BF\u03CD . \u03A4\u03BF \u03BA\u03BB\u03AF\u03BC\u03B1 \u03C3\u03C4\u03BF \u039C\u03B1\u03B3\u03BA\u03B1\u03BD\u03C4\u03AC\u03BD \u03B5\u03AF\u03BD\u03B1\u03B9 . \u03A4\u03BF \u03C7\u03B5\u03B9\u03BC\u03CE\u03BD\u03B1 \u03C3\u03C5\u03BD\u03AE\u03B8\u03C9\u03C2 \u03C3\u03C5\u03BC\u03C0\u03BB\u03B7\u03C1\u03CE\u03BD\u03BF\u03BD\u03C4\u03B1\u03B9 \u03BC\u03AD\u03C7\u03C1\u03B9 \u03BA\u03B1\u03B9 \u03AD\u03BE\u03B9 \u03BC\u03AE\u03BD\u03B5\u03C2 \u03BC\u03B5 \u03C4\u03BF \u03B8\u03B5\u03C1\u03BC\u03CC\u03BC\u03B5\u03C4\u03C1\u03BF \u03C3\u03C5\u03BD\u03B5\u03C7\u03CE\u03C2 \u03BA\u03AC\u03C4\u03C9 \u03C4\u03BF\u03C5 \u03BC\u03B7\u03B4\u03B5\u03BD\u03CC\u03C2. \u03A9\u03C2 \u03C3\u03C5\u03BD\u03AD\u03C0\u03B5\u03B9\u03B1 \u03B1\u03C5\u03C4\u03BF\u03CD, \u03C4\u03BF \u03BB\u03B9\u03BC\u03AC\u03BD\u03B9 \u03BA\u03BB\u03B5\u03AF\u03BD\u03B5\u03B9 \u03C4\u03BF\u03C5\u03C2 \u03C4\u03AD\u03C3\u03C3\u03B5\u03C1\u03B9\u03C2 \u03C0\u03C1\u03CE\u03C4\u03BF\u03C5\u03C2 \u03BC\u03AE\u03BD\u03B5\u03C2 \u03C4\u03BF\u03C5 \u03AD\u03C4\u03BF\u03C5\u03C2 \u03B1\u03C6\u03BF\u03CD \u03B7 \u03B8\u03AC\u03BB\u03B1\u03C3\u03C3\u03B1 \u03C0\u03B1\u03B3\u03CE\u03BD\u03B5\u03B9 - \u03C3\u03B5 \u03C0\u03B5\u03C1\u03AF\u03C0\u03C4\u03C9\u03C3\u03B7 \u03B1\u03BD\u03AC\u03B3\u03BA\u03B7\u03C2, \u03C7\u03C1\u03B7\u03C3\u03B9\u03BC\u03BF\u03C0\u03BF\u03B9\u03BF\u03CD\u03BD\u03C4\u03B1\u03B9 \u03C0\u03B1\u03B3\u03BF\u03B8\u03C1\u03B1\u03C5\u03C3\u03C4\u03B9\u03BA\u03AC. \u0397 \u03BC\u03AD\u03C3\u03B7 \u03B8\u03B5\u03C1\u03BC\u03BF\u03BA\u03C1\u03B1\u03C3\u03AF\u03B1 \u03BA\u03C5\u03BC\u03B1\u03AF\u03BD\u03B5\u03C4\u03B1\u03B9 \u03B1\u03C0\u03CC -22 \u00B0C \u03C4\u03BF \u0393\u03B5\u03BD\u03AC\u03C1\u03B7 \u03BC\u03AD\u03C7\u03C1\u03B9 +12 \u03C4\u03BF\u03BD \u0399\u03BF\u03CD\u03BB\u03B9\u03BF. \u03A3\u03C4\u03BF \u03B5\u03C3\u03C9\u03C4\u03B5\u03C1\u03B9\u03BA\u03CC \u03C4\u03B7\u03C2 \u03C0\u03B5\u03C1\u03B9\u03C6\u03AD\u03C1\u03B5\u03B9\u03B1\u03C2 \u03BF\u03B9 \u03BA\u03B1\u03C4\u03CE\u03C4\u03B1\u03C4\u03B5\u03C2 \u03B8\u03B5\u03C1\u03BC\u03BF\u03BA\u03C1\u03B1\u03C3\u03AF\u03B5\u03C2 \u03B5\u03AF\u03BD\u03B1\u03B9 \u03B1\u03BA\u03CC\u03BC\u03B1 \u03C0\u03B9\u03BF \u03B1\u03BA\u03C1\u03B1\u03AF\u03B5\u03C2. \u0397 \u03C0\u03CC\u03BB\u03B7 \u03B5\u03BE\u03C5\u03C0\u03B7\u03C1\u03B5\u03C4\u03B5\u03AF\u03C4\u03B1\u03B9 \u03B1\u03C0\u03CC \u03B4\u03CD\u03BF \u03B1\u03B5\u03C1\u03BF\u03B4\u03C1\u03CC\u03BC\u03B9\u03B1, \u03C4\u03BF \u03A3\u03BF\u03BA\u03CC\u03BB (\u03BA\u03C9\u03B4\u03B9\u03BA\u03CC\u03C2 \u0399\u0391\u03A4\u0391: GDX) \u03BA\u03B1\u03B9 \u03C4\u03BF \u03BC\u03B9\u03BA\u03C1\u03CC\u03C4\u03B5\u03C1\u03BF \u039C\u03B1\u03B3\u03BA\u03B1\u03BD\u03C4\u03AC\u03BD-13."@el ,
+		"Magadan (russo:  \u041C\u0430\u0433\u0430\u0434\u0430\u043D; IPA: [m\u0259\u0261\u0250\u02C8dan]) \u00E9 uma cidade e o centro administrativo do oblast de Magadan, na R\u00FAssia, fundada em 1933. Tem uma popula\u00E7\u00E3o aproximada de 95.925 (Censo russo de 2010); 152.000 (Censo de 1989). As atividades mais importantes s\u00E3o constru\u00E7\u00E3o naval e pesca. A cidade tem um porto naveg\u00E1vel de maio a dezembro e um aeroporto. Uma auto-estrada leva \u00E0 regi\u00E3o das minas de ouro de Magadan, no alto Rio Kolyma. Ela \u00E9 conhecida como a \"estrada dos ossos\", devido aos prisioneiros que morreram durante a sua constru\u00E7\u00E3o."@pt ,
+		"\u30DE\u30AC\u30C0\u30F3\uFF08\u30ED\u30B7\u30A2\u8A9E: \u041C\u0430\u0433\u0430\u0434\u0430\u043D\uFF09\u306F\u30ED\u30B7\u30A2\u9023\u90A6\u306E\u90FD\u5E02\u3002\u30DE\u30AC\u30C0\u30F3\u5DDE\u306E\u5DDE\u90FD\u3002\u30AA\u30DB\u30FC\u30C4\u30AF\u6D77\u306B\u9762\u3059\u308B\u6D77\u6E2F\u90FD\u5E02\u3067\u3042\u308B\u3002\u6E2F\u306F5\u6708\u304B\u308912\u6708\u307E\u3067\u4F7F\u7528\u53EF\u80FD\u3002\u9020\u8239\u3084\u6F01\u696D\u304C\u76DB\u3093\u3002\u4EBA\u53E3\u306F89,200\u4EBA\uFF082004\u5E74\uFF09\u3002\u90CA\u5916\u306B\u30BD\u30B3\u30EB\u7A7A\u6E2F\u3092\u6301\u3064\u3002"@ja ,
+		"\u041C\u0430\u0433\u0430\u0434\u0430\u0301\u043D (\u0440\u043E\u0441. \u041C\u0430\u0433\u0430\u0434\u0430\u0301\u043D) \u2014 \u043C\u0456\u0441\u0442\u043E \u043D\u0430 \u043A\u0440\u0430\u0439\u043D\u044C\u043E\u043C\u0443 \u0441\u0445\u043E\u0434\u0456 \u0420\u043E\u0441\u0456\u0457. \u0410\u0434\u043C\u0456\u043D\u0456\u0441\u0442\u0440\u0430\u0442\u0438\u0432\u043D\u0438\u0439 \u0446\u0435\u043D\u0442\u0440 \u041C\u0430\u0433\u0430\u0434\u0430\u043D\u0441\u044C\u043A\u043E\u0457 \u043E\u0431\u043B\u0430\u0441\u0442\u0456. \u041C\u0456\u0441\u0442\u043E \u043E\u0431\u043B\u0430\u0441\u043D\u043E\u0433\u043E \u043F\u0456\u0434\u043F\u043E\u0440\u044F\u0434\u043A\u0443\u0432\u0430\u043D\u043D\u044F. \u0417\u043D\u0430\u0445\u043E\u0434\u0438\u0442\u044C\u0441\u044F \u043D\u0430 \u0432\u0456\u0434\u0441\u0442\u0430\u043D\u0456 5911 \u043A\u043C \u0432\u0456\u0434 \u041C\u043E\u0441\u043A\u0432\u0438, \u0456 \u0442\u0430\u043A\u0438\u043C \u0447\u0438\u043D\u043E\u043C \u0454 \u043E\u0434\u043D\u0438\u043C \u0456\u0437 \u043D\u0430\u0439\u0432\u0456\u0434\u0434\u0430\u043B\u0435\u043D\u0456\u0448\u0438\u0445 \u043C\u0456\u0441\u0442 \u0420\u043E\u0441\u0456\u0457 \u0432\u0456\u0434 \u0441\u0442\u043E\u043B\u0438\u0446\u0456. \u041C\u0456\u0441\u0442\u043E \u043D\u0435 \u043C\u0430\u0454 \u0437\u0430\u043B\u0456\u0437\u043D\u0438\u0447\u043D\u043E\u0433\u043E \u0441\u043F\u043E\u043B\u0443\u0447\u0435\u043D\u043D\u044F."@uk ,
+		"Magadan (Russian: \u041C\u0430\u0433\u0430\u0434\u0430\u043D, IPA: [m\u0259\u0261\u0250\u02C8dan]) is a port town and the administrative center of Magadan Oblast, Russia, located on the Sea of Okhotsk in Nagayev Bay (within Taui Bay) and serving as a gateway to the Kolyma region. Population: 95,982\u2009(2010 Census); 99,399\u2009(2002 Census); 151,652\u2009(1989 Census)."@en ,
+		"Calafort agus pr\u00EDomhchathair Ch\u00FAige Mhagadan is ea Magadan. T\u00E1 Magadan suite in oirthuaisceart na R\u00FAise ar ch\u00F3sta Mhuir Ocatsc. Buna\u00EDodh Magadan i 1930 agus, go dt\u00ED an bhliain 1991, bh\u00ED an chathair d\u00FAnta ar an domhan m\u00F3r. T\u00E1 s\u00E9 oscailte do chuairteoir\u00ED \u00F3 shin i leith, ach t\u00E1 laghd\u00FA lean\u00FAnach ar an l\u00EDon daoine ina gc\u00F3na\u00ED ann: 151,652 duine sa bhliain 1989; 99,399 i 2002; agus 95,982 i 2010."@ga ,
+		"Magadan (rusky \u041C\u0430\u0433\u0430\u0434\u0430\u0301\u043D) je p\u0159\u00EDstavn\u00ED m\u011Bsto na rusk\u00E9m D\u00E1ln\u00E9m v\u00FDchod\u011B, na pob\u0159e\u017E\u00ED Ochotsk\u00E9ho mo\u0159e v Kolymsk\u00E9m poho\u0159\u00ED. M\u011Bsto je centrem Magadansk\u00E9 oblasti. \u017Dije zde p\u0159ibli\u017En\u011B 93 tis\u00EDc obyvatel. V Magadanu je subarktick\u00E9 klima, v lednu padaj\u00ED teploty k -40 \u00B0C, v \u010Dervenci se pohybuj\u00ED okolo 12\u201316 \u00B0C. Pr\u016Fm\u011Brn\u00E1 ro\u010Dn\u00ED teplota \u010Din\u00ED -3 \u00B0C. V okol\u00ED se vyskytuj\u00ED tajgy a tundry. S\u00EDdlo bylo zalo\u017Eeno roku 1929. Od 30. do 50. let zde s\u00EDdlila instituce Dalstroj, kter\u00E1 organizovala t\u011B\u017Ebu nerost\u016F (p\u0159edev\u0161\u00EDm zlata) na D\u00E1ln\u00E9m V\u00FDchod\u011B; k pr\u00E1ci byli vyu\u017E\u00EDv\u00E1ni v\u011Bzni z gulag\u016F, kter\u00FDch zde Dalstroj vystav\u011Bl p\u0159ibli\u017En\u011B 80. Ve m\u011Bst\u011B se vyr\u00E1b\u00ED d\u016Fln\u00ED za\u0159\u00EDzen\u00ED, nach\u00E1zej\u00ED se zde podniky na zpracov\u00E1n\u00ED ryb, stroj\u00EDrensk\u00E9 a kovod\u011Bln\u00E9 z\u00E1vody. Ve m\u011Bst\u011B funguje p\u0159\u00EDstav a leti\u0161t\u011B \u201ESokol\u201C, \u017Eeleznice sem nevede. Silnice \u201EKolyma\u201C, zbudovan\u00E1 tak\u00E9 p\u0159ev\u00E1\u017En\u011B v\u011Bzni, spojuje Magadan s 1826 km vzd\u00E1len\u00FDm Jakutskem."@cs ,
+		"\u9A6C\u52A0\u4E39\uFF08\u4FC4\u8A9E\uFF1A\u041C\u0430\u0433\u0430\u0434\u0430\u0301\u043D\uFF09\u662F\u4FC4\u7F85\u65AF\u99AC\u52A0\u4E39\u5DDE\u9996\u5E9C\u3001\u79D1\u7D2F\u99AC\u5730\u5340\u7684\u4E2D\u5FC3\u57CE\u5E02\uFF0C\u4F4D\u65BC\u9102\u970D\u6B21\u514B\u6D77\u6CBF\u5CB8\u30022010\u5E74\u4EBA\u53E3\u70BA95,925\u4EBA\u3002\u7D93\u6FDF\u4EE5\u9020\u8239\u548C\u6355\u9B5A\u70BA\u4E3B\u3002\u4EA4\u901A\u65B9\u9762\u6E2F\u53E35\u6708\u81F312\u6708\u53EF\u4EE5\u901A\u822A\u3002\u6709\u5169\u500B\u6A5F\u5834\u3002\u6709\u4E00\u689D\u516C\u8DEF\u901A\u5F80\u96C5\u5EAB\u8328\u514B\u3002"@zh ,
+		"Magadan (en rus \u041C\u0430\u0433\u0430\u0434\u0430\u043D) \u00E9s una ciutat russa capital de l'\u00F3blast de Magadan. Est\u00E0 situada al  i t\u00E9 port al Mar d'Okhotsk, obert de maig a desembre. Va ser fundada l'any 1929, provinent d'un assentament de la d\u00E8cada de 1920 i va rebre l'status de ciutat l'any1939. De 1932 a 1953 va ser el centre administratiu del  i dels seus camps correccionals, dedicats a la creaci\u00F3 d'infraestructures i vies de comunicaci\u00F3. La  uneix la ciutat amb la regi\u00F3 superior del riu Kolim\u00E0, rica en mines d'or, i amb Iakutsk."@ca ,
+		"Magadan (ros. \u041C\u0430\u0433\u0430\u0434\u0430\u043D) \u2013 stolica obwodu magada\u0144skiego w azjatyckiej cz\u0119\u015Bci Federacji Rosyjskiej, port nad Morzem Ochockim; 96 tys. mieszka\u0144c\u00F3w (2010)."@pl ,
+		"Magadan (bahasa Rusia: \u041C\u0430\u0433\u0430\u0434\u0430\u043D) adalah  pelabuhan dan ibu kota Oblast Magadan, Rusia. Kota ini terletak di , Laut Okhotsk, dan berfungsi sebagai pintu gerbang ke wilayah ."@in ,
+		"Magadan (en russe : \u041C\u0430\u0433\u0430\u0434\u0430\u043D) est une ville de Russie, un port maritime de Sib\u00E9rie orientale et la capitale administrative de l'oblast de Magadan, dans l'Extr\u00EAme-Orient russe. Sa population s'\u00E9levait \u00E0 95 048 habitants en 2013."@fr ,
+		"\u0645\u0627\u063A\u0627\u062F\u0627\u0646 (\u0628\u0627\u0644\u0631\u0648\u0633\u064A\u0629: \u041C\u0430\u0433\u0430\u0434\u0430\u043D) \u0647\u064A \u0625\u062D\u062F\u0649 \u0645\u062F\u0646 \u0631\u0648\u0633\u064A\u0627 \u0648\u0647\u064A \u0639\u0627\u0635\u0645\u0629 \u0627\u0644\u0643\u064A\u0627\u0646 \u0627\u0644\u0641\u062F\u0631\u0627\u0644\u064A \u0627\u0644\u0631\u0648\u0633\u064A \u0645\u0627\u063A\u0627\u062F\u0627\u0646 \u0623\u0648\u0628\u0644\u0627\u0633\u062A.\u064A\u0628\u0644\u063A \u0639\u062F\u062F \u0633\u0643\u0627\u0646\u0647\u0627 100000 \u0646\u0633\u0645\u0629."@ar ,
+		"Magadan (russisch \u041C\u0430\u0433\u0430\u0434\u0430\u043D) ist eine russische Hafenstadt in der Oblast Magadan an zwei Buchten des Ochotskischen Meeres. Die Stadt hat 95.982 Einwohner (Stand: 14. Oktober 2010). Der auch im Winter eisfreie Hafen wird milit\u00E4risch genutzt. Bis zum Ende der Sowjetunion 1991 war er Sperrgebiet. Heute steht die Stadt Magadan f\u00FCr Touristen offen und auch der milit\u00E4rische Hafen kann von zivilen Schiffen genutzt werden."@de ,
+		"Magadan (ruse \u041C\u0430\u0433\u0430\u0434\u0430\u043D) estas urbo en Rusio, \u0109efurbo de Magadana provinco. Kodo de OKATO de la urbo (en jaro 2005) estas 44401. La urbo estis fondita en komenco de la 1930-aj jaroj pro komenco de eligado de oro kaj fari\u011Das fifama pro la punlaborejoj tie (Gulago) dum la stalinisma regado. \u011Ci havas statuson de urbo ekde jaro 1939. La interurba telefona kodo estas 41322, la enurbaj telefonnumeroj estas kvinciferaj (en jaro 2005). Diferenco de la loka kaj moskva tempoj estas 8 horoj (en jaro 2011). Geografiaj koordinatoj de la urbo estas 59\u00B034\u2032N 150\u00B048\u2032O\uFEFF \uFEFF / \uFEFF \uFEFF59.567\u00B0N, 150.8\u00B0O  (mapo). La urbo estas sur bordo de maro sur multjare frosti\u011Dinta tero. En la urbo estas flughaveno. En jaro 1959 la urbo havis 62,2 mil lo\u011Dantojn. En jaro 2010 la urbo havis 95,9 mil lo\u011Dantojn."@eo ,
+		"\u041C\u0430\u0433\u0430\u0434\u0430\u0301\u043D \u2014 \u0433\u043E\u0440\u043E\u0434-\u043F\u043E\u0440\u0442 \u043D\u0430 \u0441\u0435\u0432\u0435\u0440\u043E-\u0432\u043E\u0441\u0442\u043E\u043A\u0435 \u0420\u043E\u0441\u0441\u0438\u0438. \u0410\u0434\u043C\u0438\u043D\u0438\u0441\u0442\u0440\u0430\u0442\u0438\u0432\u043D\u044B\u0439 \u0446\u0435\u043D\u0442\u0440 \u041C\u0430\u0433\u0430\u0434\u0430\u043D\u0441\u043A\u043E\u0439 \u043E\u0431\u043B\u0430\u0441\u0442\u0438, \u043E\u0431\u0440\u0430\u0437\u0443\u0435\u0442 \u043C\u0443\u043D\u0438\u0446\u0438\u043F\u0430\u043B\u044C\u043D\u043E\u0435 \u043E\u0431\u0440\u0430\u0437\u043E\u0432\u0430\u043D\u0438\u0435 \u00AB\u0433\u043E\u0440\u043E\u0434 \u041C\u0430\u0433\u0430\u0434\u0430\u043D\u00BB. \u041D\u0430\u0441\u0435\u043B\u0435\u043D\u0438\u0435 \u2014 91 781 \u0447\u0435\u043B. (2019). \u0420\u0430\u0441\u043F\u043E\u043B\u043E\u0436\u0435\u043D \u0432\u043E\u043A\u0440\u0443\u0433 \u0441\u043E\u043F\u043E\u043A \u043D\u0430 \u0431\u0435\u0440\u0435\u0433\u0443 \u0422\u0430\u0443\u0439\u0441\u043A\u043E\u0439 \u0433\u0443\u0431\u044B \u041E\u0445\u043E\u0442\u0441\u043A\u043E\u0433\u043E \u043C\u043E\u0440\u044F, \u043D\u0430 \u043F\u0435\u0440\u0435\u0448\u0435\u0439\u043A\u0435, \u0441\u043E\u0435\u0434\u0438\u043D\u044F\u044E\u0449\u0435\u043C \u043F\u043E\u043B\u0443\u043E\u0441\u0442\u0440\u043E\u0432 \u0421\u0442\u0430\u0440\u0438\u0446\u043A\u043E\u0433\u043E \u0441 \u043C\u0430\u0442\u0435\u0440\u0438\u043A\u043E\u043C \u043C\u0435\u0436\u0434\u0443 \u0431\u0443\u0445\u0442\u0430\u043C\u0438 \u041D\u0430\u0433\u0430\u0435\u0432\u0430 \u0438 \u0413\u0435\u0440\u0442\u043D\u0435\u0440\u0430. \u041A\u043B\u0438\u043C\u0430\u0442 \u0441\u0443\u0440\u043E\u0432\u044B\u0439 \u0441 \u043A\u043E\u0440\u043E\u0442\u043A\u0438\u043C \u043B\u0435\u0442\u043E\u043C, \u043D\u0430 \u043A\u043E\u0442\u043E\u0440\u043E\u0435 \u043F\u0440\u0438\u0445\u043E\u0434\u0438\u0442\u0441\u044F \u043F\u0435\u0440\u0438\u043E\u0434 \u0431\u0435\u043B\u044B\u0445 \u043D\u043E\u0447\u0435\u0439. \u041E\u0441\u043D\u043E\u0432\u0430\u043D \u043A\u0430\u043A \u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u043F\u043E\u0441\u0451\u043B\u043E\u043A \u0434\u043B\u044F \u043E\u0441\u0432\u043E\u0435\u043D\u0438\u044F \u043F\u043E\u043B\u0435\u0437\u043D\u044B\u0445 \u0438\u0441\u043A\u043E\u043F\u0430\u0435\u043C\u044B\u0445 \u041A\u043E\u043B\u044B\u043C\u0441\u043A\u043E\u0433\u043E \u043A\u0440\u0430\u044F \u0432 1929 \u0433\u043E\u0434\u0443, \u0441\u0442\u0430\u0442\u0443\u0441 \u0433\u043E\u0440\u043E\u0434\u0430 \u0441 1939 \u0433\u043E\u0434\u0430. \u0420\u0435\u043A\u0430 \u041C\u0430\u0433\u0430\u0434\u0430\u043D\u043A\u0430 \u0434\u0435\u043B\u0438\u0442 \u0433\u043E\u0440\u043E\u0434 \u043D\u0430 \u0434\u0432\u0435 \u0447\u0430\u0441\u0442\u0438. \u041A\u0440\u0443\u043F\u043D\u0435\u0439\u0448\u0435\u0439 \u0440\u0435\u043A\u043E\u0439 \u0432 \u043F\u0440\u0435\u0434\u0435\u043B\u0430\u0445 \u0433\u043E\u0440\u043E\u0434\u0441\u043A\u043E\u0433\u043E \u043E\u043A\u0440\u0443\u0433\u0430 \u044F\u0432\u043B\u044F\u0435\u0442\u0441\u044F \u0414\u0443\u043A\u0447\u0430, \u0434\u043E\u043B\u0438\u043D\u0430 \u043A\u043E\u0442\u043E\u0440\u043E\u0439 \u0438\u043C\u0435\u0435\u0442 \u0432\u0430\u0436\u043D\u043E\u0435 \u0441\u0435\u043B\u044C\u0441\u043A\u043E\u0445\u043E\u0437\u044F\u0439\u0441\u0442\u0432\u0435\u043D\u043D\u043E\u0435 \u0438 \u0440\u0435\u043A\u0440\u0435\u0430\u0446\u0438\u043E\u043D\u043D\u043E\u0435 \u0437\u043D\u0430\u0447\u0435\u043D\u0438\u0435 \u0434\u043B\u044F \u044D\u043A\u043E\u043D\u043E\u043C\u0438\u043A\u0438 \u0433\u043E\u0440\u043E\u0434\u0430. \u0418\u0441\u0442\u043E\u0440\u0438\u0447\u0435\u0441\u043A\u0438\u0439 \u0446\u0435\u043D\u0442\u0440 \u043E\u0431\u0440\u0430\u0437\u0443\u044E\u0442 \u0430\u043D\u0441\u0430\u043C\u0431\u043B\u0438 \u0437\u0434\u0430\u043D\u0438\u0439, \u043F\u043E\u0441\u0442\u0440\u043E\u0435\u043D\u043D\u044B\u0435 \u0432 1950-\u0435 \u0433\u043E\u0434\u044B \u043F\u043E \u043F\u0440\u043E\u0435\u043A\u0442\u0430\u043C \u043B\u0435\u043D\u0438\u043D\u0433\u0440\u0430\u0434\u0441\u043A\u0438\u0445 \u0430\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u043E\u0440\u043E\u0432 \u0432 \u0441\u0442\u0438\u043B\u0435 \u043D\u0435\u043E\u043A\u043B\u0430\u0441\u0441\u0438\u0446\u0438\u0437\u043C\u0430."@ru ,
+		"Magadan (Russisch: \u041C\u0430\u0433\u0430\u0434\u0430\u043D) is een stad in de gelijknamige Russische oblast Magadan in het Russische Verre Oosten en vormt het bestuurlijk centrum van deze oblast. Magadan is de grootste haven in het noordoosten van Rusland en ligt aan de noordkant van de Zee van Ochotsk aan de Nagajevabaai op 5911 kilometer ten oosten van Moskou en 1600 kilometer van Chabarovsk. De stad is berucht vanwege haar Goelagverleden. Tussen de laatste twee volkstellingen in 1989 en 2002 daalde de bevolking van 151.600 naar 99.399, oftewel met 34,4%. De stad is verbonden met Jakoetsk via de Bottenweg. Verder liggen er wegen naar de plaatsen Ola en  en heeft Magadan een scheepvaartverbinding met Vladivostok. De stad heeft ook haar eigen luchthaven."@nl ,
+		"\uB9C8\uAC00\uB2E8(\uB7EC\uC2DC\uC544\uC5B4: \u041C\u0430\u0433\u0430\u0434\u0430\u0301\u043D)\uC740 \uB9C8\uAC00\uB2E8\uC8FC\uC758 \uC8FC\uB3C4\uB85C, \uC624\uD638\uCE20\uD06C \uD574\uC5D0 \uC811\uD574 \uC788\uB294 \uD56D\uAD6C\uB3C4\uC2DC\uC774\uB2E4. \uD56D\uAD6C\uB294 5\uC6D4\uBD80\uD130 12\uC6D4\uAE4C\uC9C0 \uC0AC\uC6A9\uAC00\uB2A5\uD558\uB2E4. \uC870\uC120\uC5C5\uC774\uB098 \uC5B4\uC5C5\uC774 \uC655\uC131\uD558\uACE0, \uC778\uAD6C\uB294 8\uB9CC9,200\uBA85(2004\uB144)\uC774\uB2E4. \uAD50\uC678\uC5D0 \uC18C\uCF5C \uACF5\uD56D\uC774 \uC788\uB2E4."@ko ,
+		"Magadan (errusieraz: \u041C\u0430\u0433\u0430\u0434\u0430\u043D) Errusiako hiria da, Magadan oblastaren hiriburua. Ekialde Urruneko Barruti Federalean dago, Okhotskeko itsasoaren iparraldeko kostaldean, Taui badian, Moskutik 5.910 km ekialdera eta Khabarovsketik 1.655 km ipar-ekialdera. 2010ean 95.982 biztanle zituen."@eu ,
+		"Magadan \u00E8 una citt\u00E0 e porto stagionale russo; \u00E8 situata nell'estremo oriente russo, nel mare di Ochotsk, in fondo alla piccola baia di Nagaev all'interno della baia del Tauj. \u00C8 il capoluogo dell'omonima oblast'."@it ;
+	dbo:country	dbr:Russia ;
+	dbp:leaderTitle	"Head/Mayor"@en ;
+	dbp:anthem	"none"@en ;
+	dbp:leaderName	"Yuri Fyodorovich Grishan"@en ,
+		"Andey Popov ,"@en ;
+	dbp:establishedDate	1929 ;
+	dbp:areaKm	295 ;
+	dbp:popLatest	101045 ;
+	dbp:aprHighC	"\u22121.6"@en ;
+	dbp:aprLowC	"\u22127.5"@en ;
+	dbp:aprMeanC	-4.5999999999999996447 ;
+	dbp:aprPrecipitationMm	33 ;
+	dbp:aprRecordHighC	9.6999999999999992895 ;
+	dbp:aprRecordLowC	"\u221223.5"@en ;
+	dbp:aprSnowDays	15 ;
+	dbp:augHighC	15 ;
+	dbp:augLowC	9.6999999999999992895 ;
+	dbp:augMeanC	12 ;
+	dbp:augPrecipitationMm	93 ;
+	dbp:augRecordHighC	26.100000000000001421 ;
+	dbp:augRecordLowC	"\u22121.0"@en ;
+	dbp:augSnowDays	0 ;
+	dbp:decHighC	"\u221212.8"@en ;
+	dbp:decLowC	"\u221217.0"@en ;
+	dbp:decMeanC	-14.900000000000000355 ;
+	dbp:decPrecipitationMm	26 ;
+	dbp:decRecordHighC	3.6000000000000000888 ;
+	dbp:decRecordLowC	"\u221237"@en ;
+	dbp:decSnowDays	16 ;
+	dbp:febHighC	"\u221212.5"@en ;
+	dbp:febLowC	"\u221217.8"@en ;
+	dbp:febMeanC	-15.400000000000000355 ;
+	dbp:febPrecipitationMm	13 ;
+	dbp:febRecordHighC	3.2000000000000001776 ;
+	dbp:febRecordLowC	"\u221233.3"@en ;
+	dbp:febSnowDays	14 ;
+	dbp:janHighC	"\u221214.2"@en ;
+	dbp:janLowC	"\u221218.5"@en ;
+	dbp:janMeanC	-16.399999999999998579 ;
+	dbp:janPrecipitationMm	14 ;
+	dbp:janRecordHighC	2.3999999999999999112 ;
+	dbp:janRecordLowC	"\u221234.6"@en ;
+	dbp:janSnowDays	16 ;
+	dbp:julHighC	14.800000000000000711 ;
+	dbp:julLowC	9.5999999999999996447 ;
+	dbp:julMeanC	11.800000000000000711 ;
+	dbp:julPrecipitationMm	64 ;
+	dbp:julRecordHighC	27.199999999999999289 ;
+	dbp:julRecordLowC	2 ;
+	dbp:julSnowDays	0 ;
+	dbp:junHighC	11.300000000000000711 ;
+	dbp:junLowC	5.2000000000000001776 ;
+	dbp:junMeanC	7.7999999999999998224 ;
+	dbp:junPrecipitationMm	47 ;
+	dbp:junRecordHighC	24.5 ;
+	dbp:junRecordLowC	"\u22123.0"@en ;
+	dbp:junSnowDays	0 ;
+	dbp:marHighC	"\u22128.0"@en ;
+	dbp:marLowC	"\u221214.4"@en ;
+	dbp:marMeanC	-11.400000000000000355 ;
+	dbp:marPrecipitationMm	17 ;
+	dbp:marRecordHighC	5.7999999999999998224 ;
+	dbp:marRecordLowC	"\u221230.8"@en ;
+	dbp:marSnowDays	15 ;
+	dbp:mayHighC	4.9000000000000003553 ;
+	dbp:mayLowC	"\u22120.5"@en ;
+	dbp:mayMeanC	1.8000000000000000444 ;
+	dbp:mayPrecipitationMm	37 ;
+	dbp:mayRecordHighC	22.300000000000000711 ;
+	dbp:mayRecordLowC	"\u221210.8"@en ;
+	dbp:maySnowDays	6 ;
+	dbp:metricFirst	"yes"@en ;
+	dbp:novHighC	"\u22127.3"@en ;
+	dbp:novLowC	"\u221212.0"@en ;
+	dbp:novMeanC	-9.8000000000000007105 ;
+	dbp:novPrecipitationMm	60 ;
+	dbp:novRecordHighC	6.5999999999999996447 ;
+	dbp:novRecordLowC	"\u221226.9"@en ;
+	dbp:novSnowDays	17 ;
+	dbp:octHighC	1.6999999999999999556 ;
+	dbp:octLowC	"\u22123.1"@en ;
+	dbp:octMeanC	-0.9000000000000000222 ;
+	dbp:octPrecipitationMm	80 ;
+	dbp:octRecordHighC	13.800000000000000711 ;
+	dbp:octRecordLowC	"\u221221.1"@en ;
+	dbp:octSnowDays	8 ;
+	dbp:precipitationColour	"green"@en ;
+	dbp:sepHighC	10.400000000000000355 ;
+	dbp:sepLowC	5.0999999999999996447 ;
+	dbp:sepMeanC	7.5 ;
+	dbp:sepPrecipitationMm	77 ;
+	dbp:sepRecordHighC	20.199999999999999289 ;
+	dbp:sepRecordLowC	"\u22126.3"@en ;
+	dbp:sepSnowDays	0.2000000000000000111 ;
+	dbp:singleLine	"yes"@en ;
+	dbp:source	"\u041F\u043E\u0433\u043E\u0434\u0430 \u0438 \u041A\u043B\u0438\u043C\u0430\u0442"@en ,
+		"Hong Kong Observatory"@en ;
+	dbp:yearPrecipitationMm	561 ;
+	dbp:aprHumidity	71 ;
+	dbp:aprSun	228 ;
+	dbp:augHumidity	83 ;
+	dbp:augSun	170.5 ;
+	dbp:decHumidity	64 ;
+	dbp:decSun	40.299999999999997158 ;
+	dbp:febHumidity	64 ;
+	dbp:febSun	127.09999999999999432 ;
+	dbp:janHumidity	65 ;
+	dbp:janSun	74.400000000000005684 ;
+	dbp:julHumidity	86 ;
+	dbp:julSun	182.90000000000000568 ;
+	dbp:junHumidity	82 ;
+	dbp:junSun	216 ;
+	dbp:marHumidity	65 ;
+	dbp:marSun	226.30000000000001137 ;
+	dbp:mayHumidity	78 ;
+	dbp:maySun	198.40000000000000568 ;
+	dbp:novHumidity	66 ;
+	dbp:novSun	81 ;
+	dbp:octHumidity	69 ;
+	dbp:octSun	130.19999999999998863 ;
+	dbp:sepHumidity	78 ;
+	dbp:sepSun	147 .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Magadan	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Magadan?oldid=982626920&ns=0> ;
+	dbp:imageCaption	"Magadan seen from the local mountains"@en ;
+	dbp:postalCodes	685000 ;
+	dbp:location	"Magadan"@en ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Magadan_seen_from_mountain.jpg?width=300> ;
+	dbp:website	<http://www.magadangorod.ru> ;
+	dbp:popLatestDate	"January 2014"@en ;
+	dbo:wikiPageExternalLink	<https://web.archive.org/web/20110408012047/http:/lifekino.ru/component/content/article/3-films/246-the-road-up-to-the-kolyma-river-eng> ,
+		<http://www.magadangorod.ru> ,
+		<https://www.youtube.com/watch%3Fv=apbN2qypLM8> ,
+		<http://www.thecatholictravelguide.com/RussiaMagadan.html> ,
+		<http://kolymskiy.narod.ru/Magadan_F.html> ;
+	dbp:imageFlag	"Flag of Magadan.svg"@en ;
+	dbo:leaderTitle	"Head/Mayor"@en ;
+	dbp:imageCoa	"COA Magadan, Russian Federation.svg"@en ;
+	dbp:urbanOkrugJur	"Magadan Urban Okrug"@en ;
+	dbp:aprRainDays	2.1000000000000000888 ;
+	dbp:augRainDays	20 ;
+	dbp:decRainDays	0.10000000000000000555 ;
+	dbp:febRainDays	0.2999999999999999889 ;
+	dbp:janRainDays	0.10000000000000000555 ;
+	dbp:julRainDays	21 ;
+	dbp:junRainDays	16 ;
+	dbp:marRainDays	0.2999999999999999889 ;
+	dbp:mayRainDays	11 ;
+	dbp:novRainDays	2 ;
+	dbp:octRainDays	10 ;
+	dbp:sepRainDays	18 .
+@prefix ns61:	<http://dbpedia.org/datatype/> .
+dbr:Magadan	dbp:unitRainDays	"0.1"^^ns61:millimetre ;
+	dbp:admCityJur	"town of oblast significance of Magadan"@en ;
+	dbp:areaAsOf	2004 ;
+	dbp:holiday	"third Saturday of July"@en ,
+		"July 14; observed on the"@en ;
+	dbp:aprAvgRecordHighC	4.9000000000000003553 ;
+	dbp:aprAvgRecordLowC	-15.300000000000000711 ;
+	dbp:augAvgRecordHighC	20.800000000000000711 ;
+	dbp:augAvgRecordLowC	5.9000000000000003553 ;
+	dbp:decAvgRecordHighC	-3.2000000000000001776 ;
+	dbp:decAvgRecordLowC	-23.300000000000000711 ;
+	dbp:febAvgRecordHighC	-5.2000000000000001776 ;
+	dbp:febAvgRecordLowC	-26.300000000000000711 ;
+	dbp:janAvgRecordHighC	-3.7999999999999998224 ;
+	dbp:janAvgRecordLowC	-26.199999999999999289 ;
+	dbp:julAvgRecordHighC	21.5 ;
+	dbp:julAvgRecordLowC	7 ;
+	dbp:junAvgRecordHighC	18.899999999999998579 ;
+	dbp:junAvgRecordLowC	1.3000000000000000444 ;
+	dbp:marAvgRecordHighC	0.5999999999999999778 ;
+	dbp:marAvgRecordLowC	-21.5 ;
+	dbp:mayAvgRecordHighC	13.300000000000000711 ;
+	dbp:mayAvgRecordLowC	-4.2000000000000001776 ;
+	dbp:novAvgRecordHighC	1.1999999999999999556 ;
+	dbp:novAvgRecordLowC	-19.5 ;
+	dbp:octAvgRecordHighC	8.4000000000000003553 ;
+	dbp:octAvgRecordLowC	-11.199999999999999289 ;
+	dbp:sepAvgRecordHighC	16.199999999999999289 ;
+	dbp:sepAvgRecordLowC	-0.5 ;
+	dbp:yearAvgRecordHighC	23 ;
+	dbp:yearAvgRecordLowC	-28 ;
+	dbp:date	"May 2010"@en ,
+		"August 2010"@en ;
+	dbo:wikiPageID	58098 ;
+	dbo:wikiPageRevisionID	982626920 ;
+	dbo:wikiPageWikiLink	dbr:Climate ,
+		dbr:Long_Way_Round ,
+		dbr:Anya_Garnis ,
+		dbr:Magadan_Oblast ,
+		dbr:Betula_pendula ,
+		dbr:Sasha_Luss ,
+		dbr:Magadan-13_Airport ,
+		dbc:Cities_and_towns_built_in_the_Soviet_Union ,
+		dbr:Sea_of_Okhotsk ,
+		<http://dbpedia.org/resource/Hudson\u0027s_Bay_Company> ,
+		dbr:Eduard_Berzin ,
+		<http://dbpedia.org/resource/150th_meridian_east> ,
+		dbr:Pavel_Vinogradov ,
+		<http://dbpedia.org/resource/151st_meridian_east> ,
+		dbr:Kolyma ,
+		dbr:Uptar ,
+		dbr:Viktor_Rybakov ,
+		dbr:Oblast ,
+		dbr:Permafrost ,
+		<http://dbpedia.org/resource/Democratic_Party_(United_States)> ,
+		dbc:Magadan ,
+		dbc:Russian_Far_East ,
+		dbr:Nina_Lugovskaya ,
+		dbc:Sea_of_Okhotsk ,
+		dbr:Tundra ,
+		dbr:China ,
+		dbr:Catholic_Church ,
+		dbr:Russian_Orthodox_Church ,
+		dbr:Larch ,
+		dbc:Populated_coastal_places_in_Russia ,
+		dbc:Port_cities_and_towns_in_Russia ,
+		dbr:Yakutsk ,
+		dbr:Ecoregion ,
+		dbr:Pinophyta ,
+		dbr:Scandinavia ,
+		dbr:R504_Kolyma_Highway ,
+		dbr:Nikolai_Getman ,
+		dbr:Jilin ,
+		<http://dbpedia.org/resource/Sokol,_Magadan_Oblast> ,
+		dbr:Sokol_Airport ,
+		dbr:Vadim_Kozin ,
+		dbc:Populated_places_established_in_1929 ,
+		dbc:Cities_and_towns_in_Magadan_Oblast ,
+		<http://dbpedia.org/resource/Ryszard_Kapu\u015Bci\u0144ski> ,
+		dbr:Joseph_Stalin ,
+		dbr:Mikhail_Krug ,
+		dbr:Zlatitsa ,
+		dbr:Fir ,
+		dbr:Nizhny_Bestyakh ,
+		dbr:Tonghua ,
+		dbr:Labor_camp ,
+		dbr:Tennessee_Valley_Authority ,
+		dbr:Sister_city ,
+		dbr:Taui_Bay ,
+		dbr:Nagaev_Bay ,
+		dbr:Varlam_Shalamov ,
+		dbr:Administrative_centre ,
+		dbr:Port_of_Magadan ,
+		<http://dbpedia.org/resource/Lena_(river)> ,
+		dbr:Bulgaria ,
+		dbr:Latvia ,
+		dbr:Shuangyashan ,
+		dbr:Inna_Korobkina ,
+		dbc:Russian_and_Soviet_Navy_bases ,
+		dbr:Siberian_High ,
+		<http://dbpedia.org/resource/Henry_A._Wallace> ,
+		dbr:United_States ,
+		dbr:Unfree_labour ,
+		dbr:Great_Purge ,
+		<http://dbpedia.org/resource/Church_of_the_Nativity_(Magadan)> ,
+		dbr:Temperature ,
+		dbr:Northeast_Siberian_taiga ,
+		dbr:Administrative_divisions_of_Magadan_Oblast ,
+		dbr:Hachette_Book_Group ,
+		<http://dbpedia.org/resource/K\u00F6ppen_climate_classification> ,
+		<http://dbpedia.org/resource/Anchorage,_Alaska> ,
+		dbr:Australia ,
+		<http://dbpedia.org/resource/Harry_S._Truman> ,
+		dbr:Charley_Boorman ,
+		dbr:Soil ,
+		dbr:Subarctic_climate ,
+		dbr:Ewan_McGregor ,
+		<http://dbpedia.org/resource/Category:1929_establishments_in_the_Soviet_Union> ,
+		<http://dbpedia.org/resource/Category:1929_establishments_in_Russia> ,
+		dbr:Ernst_Neizvestny ,
+		dbr:Dalstroy ,
+		dbr:Greater_Western_Sydney ,
+		<http://dbpedia.org/resource/Nagayevo,_Magadan> ,
+		<http://dbpedia.org/resource/Kolyma_(river)> ,
+		dbr:Dimitry_Ipatov ,
+		dbr:Urban-type_settlement ,
+		dbr:Classification_of_inhabited_localities_in_Russia ,
+		dbr:Scotland ,
+		dbr:Subdivisions_of_Russia ,
+		dbr:Russia ,
+		dbr:Mask_of_Sorrow ,
+		dbr:NKVD ,
+		dbr:Jelgava ,
+		dbr:City_of_federal_subject_significance ,
+		<http://dbpedia.org/resource/File:Magadan-church-winter.jpg> ,
+		dbr:North-Eastern_State_University ,
+		dbr:Magadan_Town_Duma ,
+		<http://dbpedia.org/resource/File:Aeroport_magadan_1.jpg> ,
+		<http://dbpedia.org/resource/File:Laika_ac_Magadan_beach_(6457763827).jpg> ,
+		<http://dbpedia.org/resource/File:Magadan,_Lenin-Street.jpg> ,
+		dbr:Yelena_Vyalbe ,
+		dbr:Theo_Uittenbogaard .
+@prefix dbt:	<http://dbpedia.org/resource/Template:> .
+dbr:Magadan	dbp:wikiPageUsesTemplate	dbt:See_also ,
+		dbt:Lang-rus ,
+		dbt:Wikivoyage ,
+		dbt:Commonscat_inline ,
+		dbt:RussiaBasicLawRef ,
+		dbt:Cite_Russian_law ,
+		dbt:Russian_Far_East ,
+		dbt:Citation_needed ,
+		dbt:ISBN ,
+		dbt:In_lang ,
+		dbt:Flagicon ,
+		dbt:When ,
+		dbt:Weather_box ,
+		dbt:Other_uses ,
+		dbt:Use_mdy_dates ,
+		dbt:Authority_control ,
+		dbt:Coord ,
+		dbt:Reflist ,
+		dbt:Convert ,
+		dbt:Infobox_Russian_town ,
+		dbt:Magadan_Oblast ,
+		dbt:RussiaAdmMunRef ;
+	dbo:wikiPageLength	"21255"^^xsd:nonNegativeInteger ;
+	dbp:imageSkyline	"Magadan seen from mountain.jpg"@en ;
+	dbp:dialingCodes	4132 ;
+	dbp:munAdmctrOf	"Magadan Urban Okrug"@en ;
+	dbp:ruName	"\u041C\u0430\u0433\u0430\u0434\u0430\u043D"@en ;
+	dbp:admCtrOf	"town of oblast significance of Magadan"@en ,
+		"Magadan Oblast"@en ;
+	dbp:federalSubject	dbr:Magadan_Oblast ;
+	dbp:pop2010censusRank	178 ;
+	dbp:inhablocCat	"Town"@en ;
+	dbp:admDataAsOf	"June 2014"@en ;
+	dbp:currentCatDate	"July 14, 1939"@en ;
+	dbp:munDataAsOf	"March 2013"@en ;
+	dbp:enName	"Magadan"@en ;
+	dbp:pop2010census	95982 ;
+	dbp:mapLabelPosition	"right"@en ;
+	dbp:representativeBody	dbr:Magadan_Town_Duma .
+dbr:Ust-Omchug	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:Anton_Belyaev	dbo:birthPlace	dbr:Magadan ;
+	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:Usmon_Nosir	dbo:wikiPageWikiLink	dbr:Magadan .
+<http://dbpedia.org/resource/Ints_C\u0101l\u012Btis>	dbo:wikiPageWikiLink	dbr:Magadan .
+<http://dbpedia.org/resource/Micha\u0142_Jankowski>	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:Greater_Western_Sydney	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:Geography_of_Sydney	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:Accidents_and_incidents_involving_the_An-12_family	dbo:wikiPageWikiLink	dbr:Magadan .
+<http://dbpedia.org/resource/1962_Pacific_typhoon_season>	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:Full_Circle_with_Michael_Palin	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:Google_Street_View_in_Asia	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:Novosibirsk	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:Mask_of_Sorrow	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:Russian_Orthodox_Eparchy_of_Magadan	dbp:headquarters	dbr:Magadan ;
+	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:List_of_Navtex_stations	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:Okhotsk_Coast	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:Kolyma	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:Hudson_Bay	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:Valery_Yankovsky	dbo:wikiPageWikiLink	dbr:Magadan .
+<http://dbpedia.org/resource/Skynet_(airline)>	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:Eduard_Berzin	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:Google_Street_View_in_Europe	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:SS_Dzhurma	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:List_of_Aeroflot_destinations	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:List_of_international_airports_by_country	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:North_Asia	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:List_of_cities_and_towns_in_Russia_by_population	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:Chukotka_Autonomous_Okrug	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:Russian_federal_highways	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:Sea_of_Okhotsk	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:Federal_subjects_of_Russia	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:Ernst_Neizvestny	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:Telecommunications_in_Russia	dbo:wikiPageWikiLink	dbr:Magadan .
+<http://dbpedia.org/resource/Anadyr_(town)>	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:Transport_in_Russia	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:Vadim_Kozin	dbp:deathPlace	dbr:Magadan ;
+	dbo:deathPlace	dbr:Magadan ;
+	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:Nina_Lugovskaya	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:Yuri_Shabanov	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:Dimitry_Ipatov	dbo:birthPlace	dbr:Magadan ;
+	dbp:birthPlace	dbr:Magadan ;
+	dbo:wikiPageWikiLink	dbr:Magadan ;
+	dbo:club	dbr:Magadan .
+dbr:Sasha_Luss	dbo:birthPlace	dbr:Magadan ;
+	dbp:birthPlace	dbr:Magadan ;
+	dbo:wikiPageWikiLink	dbr:Magadan .
+<http://dbpedia.org/resource/2014_Winter_Olympics_torch_relay>	dbo:wikiPageWikiLink	dbr:Magadan .
+<http://dbpedia.org/resource/2014_Winter_Paralympics_torch_relay>	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:Magadan-13_Airport	dbo:location	dbr:Magadan ;
+	dbo:wikiPageWikiLink	dbr:Magadan .
+<http://dbpedia.org/resource/Magadan_(icebreaker)>	dbp:shipNamesake	dbr:Magadan ;
+	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:Magadan_Nature_Reserve	dbp:nearestCity	dbr:Magadan ;
+	dbo:nearestCity	dbr:Magadan ;
+	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:Magadan_Oblast	dbo:wikiPageWikiLink	dbr:Magadan ;
+	dbp:admCtrName	dbr:Magadan .
+dbr:Magadanskaya_Pravda	dbp:headquarters	dbr:Magadan ;
+	dbo:headquarter	dbr:Magadan ;
+	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:Uptar	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:Ust-Nera	dbo:wikiPageWikiLink	dbr:Magadan .
+<http://dbpedia.org/resource/Valeri_Lebedev_(footballer,_born_1969)>	dbo:birthPlace	dbr:Magadan ;
+	dbp:birthPlace	dbr:Magadan ;
+	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:Valery_Tishkov	dbo:wikiPageWikiLink	dbr:Magadan .
+<http://dbpedia.org/resource/Vanino,_Khabarovsk_Krai>	dbo:wikiPageWikiLink	dbr:Magadan .
+<http://dbpedia.org/resource/D._S._Mirsky>	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:Dalavia	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:Xestia_brunneopicta	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:Yamsk	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:Miss_Russia_2006	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:Nochnye_Snaipery	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:Northeast_Siberian_taiga	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:Bogdan_Bulychev	dbo:birthPlace	dbr:Magadan ;
+	dbp:birthPlace	dbr:Magadan ;
+	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:Greek_Operation_of_the_NKVD	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:Khandyga	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:Khasynsky_District	dbp:south	dbr:Magadan ;
+	dbo:wikiPageWikiLink	dbr:Magadan .
+<http://dbpedia.org/resource/Kholodny,_Magadan_Oblast>	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:Magadan_Oblast_Duma	dbo:wikiPageWikiLink	dbr:Magadan .
+<http://dbpedia.org/resource/Al-Majdal,_Tiberias>	dbo:wikiPageWikiLink	dbr:Magadan .
+<http://dbpedia.org/resource/Amur\u2013Yakutsk_Mainline>	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:Nizhny_Bestyakh	dbo:wikiPageWikiLink	dbr:Magadan .
+<http://dbpedia.org/resource/Ola,_Russia>	dbo:wikiPageWikiLink	dbr:Magadan .
+<http://dbpedia.org/resource/Ola_(river)>	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:Vladimir_Narbut	dbo:wikiPageWikiLink	dbr:Magadan .
+<http://dbpedia.org/resource/SiLA_(airlines)>	dbp:headquarters	dbr:Magadan ;
+	dbo:headquarter	dbr:Magadan ;
+	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:Bilibinsky_District	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:Kekurny_Island	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:Leonid_Pasechnik	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:Terra_Circa	dbo:wikiPageWikiLink	dbr:Magadan .
+@prefix ns63:	<http://dbpedia.org/resource/Odyssey:> .
+ns63:_Driving_Around_the_World	dbo:wikiPageWikiLink	dbr:Magadan .
+<http://dbpedia.org/resource/Sokol,_Russia>	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:Magadan_Time	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:List_of_IrAero_destinations	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:SS_Dekabrist	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:Miss_Russia_2012	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:Miss_Russia_2018	dbp:returns	dbr:Magadan ;
+	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:Scouting_in_Alaska	dbo:wikiPageWikiLink	dbr:Magadan .
+<http://dbpedia.org/resource/8th_Air_Defence_Corps>	dbo:wikiPageWikiLink	dbr:Magadan .
+<http://dbpedia.org/resource/Sokol,_Magadan_Oblast>	dbo:wikiPageWikiLink	dbr:Magadan ;
+	dbp:admDistrictJur	dbr:Magadan .
+dbr:Sokol_Airport	dbo:location	dbr:Magadan ;
+	dbp:cityServed	dbr:Magadan ;
+	dbo:city	dbr:Magadan ;
+	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:List_of_small_airlines_and_helicopter_airlines_of_Russia	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:List_of_tallest_structures_built_in_the_Soviet_Union	dbo:wikiPageWikiLink	dbr:Magadan .
+<http://dbpedia.org/resource/Dukat,_Russia>	dbo:wikiPageWikiLink	dbr:Magadan .
+<http://dbpedia.org/resource/Fyodor_Litke_(1909_icebreaker)>	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:Iris_humilis	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:MAVIAL_Magadan_Airlines	dbp:headquarters	dbr:Magadan ;
+	dbo:headquarter	dbr:Magadan ;
+	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:History_of_Siberia	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:Nedorazumeniya_Island	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:Nebria_frigida	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:Amguema	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:Anatoly_Fomenko	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:Antonov_An-24	dbo:wikiPageWikiLink	dbr:Magadan .
+<http://dbpedia.org/resource/Atka,_Russia>	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:Boris_Petelin	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:Olsky_District	dbp:north	dbr:Magadan ;
+	dbo:wikiPageWikiLink	dbr:Magadan .
+<http://dbpedia.org/resource/Omolon_(meteorite)>	dbp:region	dbr:Magadan ;
+	dbo:wikiPageWikiLink	dbr:Magadan .
+<http://dbpedia.org/resource/Omolon_(rural_locality)>	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:Omsukchan	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:Orotukan	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:Oymyakonsky_District	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:Pacific_National_University	dbo:wikiPageWikiLink	dbr:Magadan .
+<http://dbpedia.org/resource/Palatka,_Magadan_Oblast>	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:A360_Lena_Highway	dbo:wikiPageWikiLink	dbr:Magadan .
+@prefix ns64:	<http://dbpedia.org/resource/List_of_airports_by_ICAO_code:> .
+ns64:_U	dbo:wikiPageWikiLink	dbr:Magadan .
+<http://dbpedia.org/resource/Three_Brothers,_Okhotsk_Sea>	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:Zavyalov_Island	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:Ust-Srednekan	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:Strait_of_Tartary	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:Administrative_divisions_of_Magadan_Oblast	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:Aeroflot_accidents_and_incidents	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:Endocellion	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:List_of_cities_and_towns_in_Russia	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:List_of_federal_subjects_of_Russia_by_unemployment_rate	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:Day_of_Remembrance_of_the_Victims_of_Political_Repressions	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:Pegas_Fly	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:Roman_Catholic_Diocese_of_Saint_Joseph_at_Irkutsk	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:Serpantinka	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:Sevmorput	dbo:wikiPageWikiLink	dbr:Magadan .
+<http://dbpedia.org/resource/Seymchan_(urban-type_settlement)>	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:Shelikan	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:Sinegorye	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:Susuman	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:Susuman_Airport	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:Vladimir_Lysenko	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:List_of_cathedrals_in_Russia	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:Far_Eastern_Federal_District	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:Nagaev_Bay	rdfs:seeAlso	dbr:Magadan ;
+	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:Nera_Plateau	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:Port_of_Magadan	dbp:location	dbr:Magadan ;
+	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:Trans-Siberian_Highway	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:Leymus	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:Egvekinot	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:Myaundzha	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:Margarita_Drobiazko	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:Churapcha	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:Thief_in_law	dbo:wikiPageWikiLink	dbr:Magadan .
+<http://dbpedia.org/resource/Yagodnoye,_Magadan_Oblast>	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:Yam_Islands	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:Yelena_Vyalbe	dbo:birthPlace	dbr:Magadan ;
+	dbp:birthPlace	dbr:Magadan ;
+	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:Yevgenia_Ginzburg	dbo:wikiPageWikiLink	dbr:Magadan .
+<http://dbpedia.org/resource/Nagayevo,_Magadan>	dbo:wikiPageWikiLink	dbr:Magadan .
+<http://dbpedia.org/resource/Naukan_(village)>	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:List_of_airports_in_Russia	dbo:wikiPageWikiLink	dbr:Magadan .
+<http://dbpedia.org/resource/Cinna_(plant)>	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:Dalstroy_explosion	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:History_of_Magadan	dbo:wikiPageRedirects	dbr:Magadan ;
+	dbo:wikiPageWikiLink	dbr:Magadan .
+<http://dbpedia.org/resource/Magadan,_Russia>	dbo:wikiPageRedirects	dbr:Magadan ;
+	dbo:wikiPageWikiLink	dbr:Magadan .
+<http://dbpedia.org/resource/Magadan,_Siberia>	dbo:wikiPageRedirects	dbr:Magadan ;
+	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:Magadan_Urban_Okrug	dbo:wikiPageRedirects	dbr:Magadan ;
+	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:Town_of_oblast_significance_of_Magadan	dbo:wikiPageRedirects	dbr:Magadan ;
+	dbo:wikiPageWikiLink	dbr:Magadan .
+dbr:Vladimir_Zeltser	dbo:wikiPageWikiLink	dbr:Magadan .

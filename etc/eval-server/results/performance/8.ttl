@@ -1,0 +1,381 @@
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+dbr:List_of_motorways_in_the_Netherlands	dbo:wikiPageWikiLink	dbr:Eersel .
+dbr:North_Brabant	dbo:wikiPageWikiLink	dbr:Eersel .
+dbr:COROP	dbo:wikiPageWikiLink	dbr:Eersel .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Eindhoven	dbp:west	dbr:Eersel ;
+	dbo:wikiPageWikiLink	dbr:Eersel .
+dbr:Telephone_numbers_in_the_Netherlands	dbo:wikiPageWikiLink	dbr:Eersel .
+dbr:European_route_E34	dbo:wikiPageWikiLink	dbr:Eersel .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+wikipedia-en:Eersel	foaf:primaryTopic	dbr:Eersel .
+dbr:Bladel	dbp:east	dbr:Eersel ;
+	dbo:wikiPageWikiLink	dbr:Eersel .
+dbr:Oirschot	dbp:south	dbr:Eersel ;
+	dbo:wikiPageWikiLink	dbr:Eersel .
+dbr:Bergeijk	dbp:north	dbr:Eersel ;
+	dbo:wikiPageWikiLink	dbr:Eersel .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Eersel	rdf:type	owl:Thing .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Eersel	rdf:type	yago:Location100027167 ,
+		yago:Municipality108626283 ,
+		dbo:Location .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Eersel	rdf:type	wikidata:Q486972 ,
+		dbo:PopulatedPlace ,
+		dbo:Settlement ,
+		dbo:Town ,
+		yago:Site108651247 ,
+		yago:Tract108673395 ,
+		yago:Region108630985 .
+@prefix schema:	<http://schema.org/> .
+dbr:Eersel	rdf:type	schema:Place ,
+		yago:UrbanArea108675967 ,
+		yago:Object100002684 ,
+		yago:PhysicalEntity100001930 .
+@prefix geo:	<http://www.w3.org/2003/01/geo/wgs84_pos#> .
+dbr:Eersel	rdf:type	geo:SpatialThing ,
+		yago:WikicatPopulatedPlacesInNorthBrabant ,
+		yago:YagoGeoEntity ,
+		yago:WikicatMunicipalitiesOfNorthBrabant ,
+		yago:YagoPermanentlyLocatedEntity ,
+		yago:YagoLegalActorGeo ,
+		yago:AdministrativeDistrict108491826 ,
+		yago:GeographicalArea108574314 ,
+		yago:District108552138 ,
+		wikidata:Q3957 ,
+		dbo:Place .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Eersel	rdfs:label	"Eersel (commune)"@fr ,
+		"Eersel"@sv ,
+		"\u57C3\u723E\u745F\u723E"@zh ,
+		"Eersel (gemeente)"@nl ,
+		"Eersel"@pt ,
+		"Eersel"@ca ,
+		"Eersel"@de ,
+		"Eersel"@it ,
+		"Eersel"@eo ,
+		"Eersel"@in ,
+		"Eersel"@eu ,
+		"Eersel"@es ,
+		"Eersel"@en ,
+		"\u0625\u064A\u0631\u0633\u0644"@ar ,
+		"Eersel"@pl ;
+	rdfs:comment	"Eersel (  (i \u00B7 ?)) Herbehereetako Ipar Brabante probintziako herria da. 2010eko urtarrilaren 1eko erroldaren arabera, herriak 18.166 biztanle zituen."@eu ,
+		"Eersel \u00E4r en kommun i provinsen Noord-Brabant i Nederl\u00E4nderna. Kommunens totala area \u00E4r 83,28 km\u00B2 (d\u00E4r 0,84 km\u00B2 \u00E4r vatten) och inv\u00E5narantalet \u00E4r 18 171 inv\u00E5nare (februari 2012)."@sv ,
+		"Eersel estas urbo kaj municipo en la provinco Norda Brabanto en Nederlando."@eo ,
+		"Eersel () ist eine Gemeinde in der niederl\u00E4ndischen Provinz Noord-Brabant. Die fr\u00FChere Gemeinde  wurde 1922, die fr\u00FChere Gemeinde  1997 eingemeindet."@de ,
+		"\u57C3\u723E\u745F\u723E\uFF08\u8377\u862D\u8A9E\uFF1AEersel\uFF09\u662F\u8377\u862D\u7684\u4E00\u500B\u5E02\u93AE\uFF0C\u4F4D\u65BC\u8377\u862D\u5357\u90E8\uFF0C\u5C6C\u65BC\u5317\u5E03\u62C9\u73ED\u7279\u7701\u3002\u57C3\u723E\u745F\u723E\u4EE5\u5176\u7368\u7279\u7684\u5E02\u5834\u800C\u8457\u7A31\u3002"@zh ,
+		"Eersel \u2013 miasto i gmina w prowincji Brabancja P\u00F3\u0142nocna w Holandii. Populacja gminy w 2014 roku wynios\u0142a 18 201 mieszka\u0144c\u00F3w."@pl ,
+		"Eersel (  (info / uitleg)) (Brabants: Irsel) is een gemeente in de provincie Noord-Brabant, Nederland."@nl ,
+		"Eersel () is a municipality and a town in southern Netherlands in the province of North Brabant. Eersel is situated in the Campine (Kempen) area. Eersel is part of the Acht Zaligheden (Eight Delights) and known for its attractive market. This market, together with the Hint, has been declared a protected village on October 19, 1967. This has been done to guarantee the future survival of its authentic character. The spoken language is Kempenlands (an East Brabantian dialect, which is very similar to colloquial Dutch)."@en ,
+		"Eersel \u00E9s un municipi de la prov\u00EDncia de Brabant Septentrional, al sud dels Pa\u00EFsos Baixos. L'1 de gener del 2009 tenia 18.200 habitants repartits sobre una superf\u00EDcie de 83,28 km\u00B2 (dels quals 0,87 km\u00B2 corresponen a aigua). Limita al nord amb Oirschot i Eindhoven, a l'oest amb Bladel, a l'est amb Veldhoven i al sud amb Bergeijk."@ca ,
+		"Eersel \u00E9 um munic\u00EDpio no sul dos Pa\u00EDses Baixos na prov\u00EDncia Brabante do Norte. Os munic\u00EDpios hist\u00F3ricos ,  e  foram repectivamente anexados nos anos de 1922, e 1997."@pt ,
+		"Eersel, adalah sebuah gemeente Belanda yang terletak di provinsi Noord Brabant. Pada tahun 2007 daerah ini memiliki penduduk sebesar 18.032 jiwa."@in ,
+		"Eersel \u00E8 una municipalit\u00E0 dei Paesi Bassi di 18.166 abitanti situata nella provincia di Brabante Settentrionale."@it ,
+		"Eersel est une commune des Pays-Bas de la province du Brabant-Septentrional."@fr ,
+		"\u0625\u064A\u0631\u0633\u0644   \u0628\u0644\u062F\u064A\u0629 \u0648\u0628\u0644\u062F\u0629 \u0628\u0645\u0642\u0627\u0637\u0639\u0629 \u0634\u0645\u0627\u0644 \u0628\u0631\u0627\u0628\u0646\u062A\u060C \u062C\u0646\u0648\u0628\u064A \u0647\u0648\u0644\u0646\u062F\u0627."@ar ,
+		"Eersel es un municipio de la provincia de Brabante Septentrional en los Pa\u00EDses Bajos. El 30 de abril de 2017 contaba con una poblaci\u00F3n de 18.628 habitantes,\u200B sobre una superficie de 83,33 km\u00B2, de los que 0,86 km\u00B2 cubiertos por el agua, con una densidad de 226 h/km\u00B2. El municipio lo forman, con Eersel, el antiguo municipio de Duizel y Steensel, agregado en 1922, y el de Vessem, Wintelre y Knegsel, que se incorpor\u00F3 en la reorganizaci\u00F3n municipal de 1997.\u200B Est\u00E1 comunicado por la autopista A67."@es ;
+	foaf:name	"Eersel"@en ;
+	foaf:homepage	<http://www.eersel.nl> .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Eersel	geo:lat	"51.34999847412109375"^^xsd:float ;
+	geo:long	"5.3166666030883789062"^^xsd:float ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Gemeentehuis_Eersel.jpg> ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Eersel .
+@prefix virtrdf:	<http://www.openlinksw.com/schemas/virtrdf#> .
+dbr:Eersel	geo:geometry	"POINT(5.3166666030884 51.349998474121)"^^virtrdf:Geometry .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Eersel	dct:subject	dbc:Eersel ,
+		dbc:Municipalities_of_North_Brabant ,
+		dbc:Populated_places_in_North_Brabant ;
+	owl:sameAs	<http://nl.dbpedia.org/resource/Eersel_(gemeente)> .
+@prefix ns16:	<http://jv.dbpedia.org/resource/> .
+dbr:Eersel	owl:sameAs	ns16:Eersel ,
+		<http://fa.dbpedia.org/resource/\u0627\u06CC\u0631\u0633\u0644> .
+@prefix dbpedia-vo:	<http://vo.dbpedia.org/resource/> .
+dbr:Eersel	owl:sameAs	dbpedia-vo:Eersel .
+@prefix dbpedia-commons:	<http://commons.dbpedia.org/resource/> .
+dbr:Eersel	owl:sameAs	dbpedia-commons:Eersel .
+@prefix lgdt:	<http://linkedgeodata.org/triplify/> .
+dbr:Eersel	owl:sameAs	lgdt:node42458294 .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Eersel	owl:sameAs	dbpedia-pt:Eersel .
+@prefix ns21:	<http://ceb.dbpedia.org/resource/> .
+dbr:Eersel	owl:sameAs	ns21:Gemeente_Eersel .
+@prefix dbpedia-an:	<http://an.dbpedia.org/resource/> .
+dbr:Eersel	owl:sameAs	dbpedia-an:Eersel .
+@prefix dbpedia-da:	<http://da.dbpedia.org/resource/> .
+dbr:Eersel	owl:sameAs	dbpedia-da:Eersel .
+@prefix dbpedia-id:	<http://id.dbpedia.org/resource/> .
+dbr:Eersel	owl:sameAs	dbpedia-id:Eersel .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Eersel	owl:sameAs	dbpedia-pl:Eersel ,
+		<http://sws.geonames.org/2756342/> ,
+		dbr:Eersel .
+@prefix dbpedia-ro:	<http://ro.dbpedia.org/resource/> .
+dbr:Eersel	owl:sameAs	dbpedia-ro:Eersel .
+@prefix dbpedia-ca:	<http://ca.dbpedia.org/resource/> .
+dbr:Eersel	owl:sameAs	dbpedia-ca:Eersel ,
+		<http://gadm.geovocab.org/id/2_24439> ,
+		<http://hy.dbpedia.org/resource/\u0537\u0575\u0580\u057D\u0565\u056C_(\u0570\u0561\u0574\u0561\u0575\u0576\u0584)> .
+@prefix dbpedia-eu:	<http://eu.dbpedia.org/resource/> .
+dbr:Eersel	owl:sameAs	dbpedia-eu:Eersel .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:Eersel	owl:sameAs	dbpedia-es:Eersel .
+@prefix ns30:	<http://li.dbpedia.org/resource/> .
+dbr:Eersel	owl:sameAs	ns30:Eersel ,
+		<https://global.dbpedia.org/id/57UA8> .
+@prefix dbpedia-vi:	<http://vi.dbpedia.org/resource/> .
+dbr:Eersel	owl:sameAs	dbpedia-vi:Eersel ,
+		<http://rdf.freebase.com/ns/m.0vl9h> ,
+		wikidata:Q9831 .
+@prefix dbpedia-sq:	<http://sq.dbpedia.org/resource/> .
+dbr:Eersel	owl:sameAs	dbpedia-sq:Eersel .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Eersel	owl:sameAs	yago-res:Eersel ,
+		<http://fr.dbpedia.org/resource/Eersel_(commune)> ,
+		<http://sws.geonames.org/2756341/> ,
+		<http://ar.dbpedia.org/resource/\u0625\u064A\u0631\u0633\u0644> .
+@prefix dbpedia-sv:	<http://sv.dbpedia.org/resource/> .
+dbr:Eersel	owl:sameAs	dbpedia-sv:Eersel .
+@prefix dbpedia-war:	<http://war.dbpedia.org/resource/> .
+dbr:Eersel	owl:sameAs	dbpedia-war:Eersel ,
+		<http://zh.dbpedia.org/resource/\u57C3\u723E\u745F\u723E> .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Eersel	owl:sameAs	dbpedia-de:Eersel .
+@prefix dbpedia-ms:	<http://ms.dbpedia.org/resource/> .
+dbr:Eersel	owl:sameAs	dbpedia-ms:Eersel .
+@prefix dbpedia-eo:	<http://eo.dbpedia.org/resource/> .
+dbr:Eersel	owl:sameAs	dbpedia-eo:Eersel .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Eersel	owl:sameAs	dbpedia-it:Eersel .
+@prefix georss:	<http://www.georss.org/georss/> .
+dbr:Eersel	georss:point	"51.35 5.316666666666666" ;
+	dbo:abstract	"Eersel \u00E9 um munic\u00EDpio no sul dos Pa\u00EDses Baixos na prov\u00EDncia Brabante do Norte. Os munic\u00EDpios hist\u00F3ricos ,  e  foram repectivamente anexados nos anos de 1922, e 1997."@pt ,
+		"Eersel (  (info / uitleg)) (Brabants: Irsel) is een gemeente in de provincie Noord-Brabant, Nederland."@nl ,
+		"Eersel \u00E8 una municipalit\u00E0 dei Paesi Bassi di 18.166 abitanti situata nella provincia di Brabante Settentrionale."@it ,
+		"Eersel \u2013 miasto i gmina w prowincji Brabancja P\u00F3\u0142nocna w Holandii. Populacja gminy w 2014 roku wynios\u0142a 18 201 mieszka\u0144c\u00F3w."@pl ,
+		"Eersel () ist eine Gemeinde in der niederl\u00E4ndischen Provinz Noord-Brabant. Die fr\u00FChere Gemeinde  wurde 1922, die fr\u00FChere Gemeinde  1997 eingemeindet."@de ,
+		"Eersel est une commune des Pays-Bas de la province du Brabant-Septentrional."@fr ,
+		"Eersel (  (i \u00B7 ?)) Herbehereetako Ipar Brabante probintziako herria da. 2010eko urtarrilaren 1eko erroldaren arabera, herriak 18.166 biztanle zituen."@eu ,
+		"\u0625\u064A\u0631\u0633\u0644   \u0628\u0644\u062F\u064A\u0629 \u0648\u0628\u0644\u062F\u0629 \u0628\u0645\u0642\u0627\u0637\u0639\u0629 \u0634\u0645\u0627\u0644 \u0628\u0631\u0627\u0628\u0646\u062A\u060C \u062C\u0646\u0648\u0628\u064A \u0647\u0648\u0644\u0646\u062F\u0627."@ar ,
+		"Eersel \u00E9s un municipi de la prov\u00EDncia de Brabant Septentrional, al sud dels Pa\u00EFsos Baixos. L'1 de gener del 2009 tenia 18.200 habitants repartits sobre una superf\u00EDcie de 83,28 km\u00B2 (dels quals 0,87 km\u00B2 corresponen a aigua). Limita al nord amb Oirschot i Eindhoven, a l'oest amb Bladel, a l'est amb Veldhoven i al sud amb Bergeijk."@ca ,
+		"Eersel estas urbo kaj municipo en la provinco Norda Brabanto en Nederlando."@eo ,
+		"Eersel () is a municipality and a town in southern Netherlands in the province of North Brabant. Eersel is situated in the Campine (Kempen) area. Eersel is part of the Acht Zaligheden (Eight Delights) and known for its attractive market. This market, together with the Hint, has been declared a protected village on October 19, 1967. This has been done to guarantee the future survival of its authentic character. The spoken language is Kempenlands (an East Brabantian dialect, which is very similar to colloquial Dutch)."@en ,
+		"Eersel \u00E4r en kommun i provinsen Noord-Brabant i Nederl\u00E4nderna. Kommunens totala area \u00E4r 83,28 km\u00B2 (d\u00E4r 0,84 km\u00B2 \u00E4r vatten) och inv\u00E5narantalet \u00E4r 18 171 inv\u00E5nare (februari 2012)."@sv ,
+		"Eersel, adalah sebuah gemeente Belanda yang terletak di provinsi Noord Brabant. Pada tahun 2007 daerah ini memiliki penduduk sebesar 18.032 jiwa."@in ,
+		"\u57C3\u723E\u745F\u723E\uFF08\u8377\u862D\u8A9E\uFF1AEersel\uFF09\u662F\u8377\u862D\u7684\u4E00\u500B\u5E02\u93AE\uFF0C\u4F4D\u65BC\u8377\u862D\u5357\u90E8\uFF0C\u5C6C\u65BC\u5317\u5E03\u62C9\u73ED\u7279\u7701\u3002\u57C3\u723E\u745F\u723E\u4EE5\u5176\u7368\u7279\u7684\u5E02\u5834\u800C\u8457\u7A31\u3002"@zh ,
+		"Eersel es un municipio de la provincia de Brabante Septentrional en los Pa\u00EDses Bajos. El 30 de abril de 2017 contaba con una poblaci\u00F3n de 18.628 habitantes,\u200B sobre una superficie de 83,33 km\u00B2, de los que 0,86 km\u00B2 cubiertos por el agua, con una densidad de 226 h/km\u00B2. El municipio lo forman, con Eersel, el antiguo municipio de Duizel y Steensel, agregado en 1922, y el de Vessem, Wintelre y Knegsel, que se incorpor\u00F3 en la reorganizaci\u00F3n municipal de 1997.\u200B Est\u00E1 comunicado por la autopista A67."@es ;
+	dbo:country	dbr:Netherlands ;
+	dbo:demonym	"Eerselnaar"@en ;
+	dbp:leaderTitle	dbr:Burgomaster ;
+	dbp:leaderName	dbr:Wim_Wouters ;
+	dbp:imageMap	"Map - NL - Municipality code 0770 .svg"@en ;
+	dbp:centre	"Eersel"@en ;
+	dbp:east	dbr:Veldhoven ,
+		dbr:Eindhoven ;
+	dbp:flagSize	100 ;
+	dbp:governingBody	<http://dbpedia.org/resource/Municipal_council_(Netherlands)> ;
+	dbp:imageShield	"Coat of arms of Eersel.svg"@en ;
+	dbp:north	dbr:Oirschot ;
+	dbp:populationDemonym	"Eerselnaar"@en ;
+	dbp:shieldSize	100 ;
+	dbp:south	dbr:Bergeijk ;
+	dbp:timezoneDst	dbr:Central_European_Summer_Time ;
+	dbp:utcOffsetDst	"+2"@en ;
+	dbp:west	dbr:Bladel ;
+	dbo:governingBody	<http://dbpedia.org/resource/Municipal_council_(Netherlands)> ;
+	dbo:politicalLeader	dbr:Eersel__PoliticalFunction__1 .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Eersel	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Eersel?oldid=957459556&ns=0> ;
+	dbp:imageCaption	"Eersel municipal hall"@en ;
+	dbo:type	dbr:List_of_municipalities_of_the_Netherlands ;
+	dbp:areaCode	400497 ;
+	dbp:areaCodeType	dbr:Telephone_numbers_in_the_Netherlands ;
+	dbp:elevationM	31 ;
+	dbp:postalCode	5511 ;
+	dbp:postalCodeType	dbr:Postal_codes_in_the_Netherlands ;
+	dbp:settlementType	dbr:List_of_municipalities_of_the_Netherlands ;
+	dbp:subdivisionName	dbr:North_Brabant ,
+		dbr:Netherlands ;
+	dbp:utcOffset	"+1"@en ;
+	dbo:areaCode	"040, 0497" ;
+	dbo:postalCode	"5511\u20135525" ;
+	dbo:utcOffset	"+2" ,
+		"+1" ;
+	dbo:timeZone	dbr:Central_European_Time ,
+		dbr:Central_European_Summer_Time ;
+	dbp:name	"Eersel"@en ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Gemeentehuis_Eersel.jpg?width=300> ;
+	dbp:website	<http://www.eersel.nl> ;
+	dbo:wikiPageExternalLink	<http://www.geschiedeniseersel.nl> ,
+		<http://www.eersel.nl> ;
+	dbp:imageFlag	"Eersel vlag.svg"@en ;
+	dbp:mapAlt	"Highlighted position of Eersel in a municipal map of North Brabant"@en ;
+	dbo:elevation	31.0 ;
+	dbp:unitPref	"Metric"@en ;
+	dbp:subdivisionType	dbr:List_of_sovereign_states ,
+		dbr:Provinces_of_the_Netherlands ;
+	dbo:subdivision	dbr:North_Brabant ;
+	dbp:mapCaption	"Location in North Brabant"@en ;
+	dbp:timezone	dbr:Central_European_Time ;
+	dbo:wikiPageID	118715 ;
+	dbo:wikiPageRevisionID	957459556 ;
+	dbo:wikiPageWikiLink	dbr:Hapert ,
+		dbr:Wintelre ,
+		<http://dbpedia.org/resource/\u0027s-Hertogenbosch> ,
+		<http://dbpedia.org/resource/John_III,_Duke_of_Brabant> ,
+		dbr:North_Brabant ,
+		dbr:World_War_II ,
+		dbr:Texandria ,
+		dbr:Bronze_Age ,
+		dbr:Bertus_Borgers ,
+		dbr:Veldhoven ,
+		dbr:Earl ,
+		dbc:Eersel ,
+		dbr:Postal_codes_in_the_Netherlands ,
+		<http://dbpedia.org/resource/Church_(building)> ,
+		dbr:County ,
+		dbr:Oirschot ,
+		dbr:Turnhout ,
+		dbr:List_of_sovereign_states ,
+		dbr:Leuven ,
+		dbr:Provinces_of_the_Netherlands ,
+		dbr:Westerhoven ,
+		dbr:Bladel ,
+		dbr:Willibrord ,
+		dbr:Eburones ,
+		<http://dbpedia.org/resource/Municipal_council_(Netherlands)> ,
+		dbr:Vessem ,
+		dbr:Merchant ,
+		dbr:Steensel ,
+		dbr:Burgomaster ,
+		dbr:Salian_Franks ,
+		<http://dbpedia.org/resource/Peace_of_M\u00FCnster> ,
+		dbr:Luxembourg ,
+		dbr:Cigar ,
+		dbr:Dutch_language ,
+		dbr:Urnfield_culture ,
+		dbr:Campine ,
+		dbr:Tram ,
+		dbr:Hoogeloon ,
+		dbr:Ancient_Rome ,
+		dbr:Tumulus ,
+		dbr:Municipality ,
+		dbr:Wil_van_der_Aalst ,
+		dbr:Catholic_Church ,
+		dbr:Franks ,
+		dbr:Tumulus_culture ,
+		dbr:Knegsel ,
+		dbr:East_Brabantian ,
+		dbr:Guelders ,
+		<http://dbpedia.org/resource/Hamlet_(place)> ,
+		dbr:Duizel ,
+		dbr:Gaobertus ,
+		dbr:Hilvarenbeek ,
+		dbr:Duizel_en_Steensel ,
+		dbr:Verengaotus ,
+		dbc:Municipalities_of_North_Brabant ,
+		dbc:Populated_places_in_North_Brabant ,
+		dbr:Wim_Wouters ,
+		dbr:Aengilbertus ,
+		<http://dbpedia.org/resource/File:Gem-Eersel-OpenTopo.jpg> ,
+		<http://dbpedia.org/resource/File:Willibroduskerk_Eersel.jpg> ,
+		dbr:Netherlands ,
+		<http://dbpedia.org/resource/Reek,_Netherlands> ,
+		dbr:Borkel_en_Schaft ,
+		dbr:Telephone_numbers_in_the_Netherlands ,
+		dbr:Charter ,
+		dbr:Bergeijk ,
+		dbr:Codex_Aureus_of_Echternach ,
+		dbr:Postel_Abbey ,
+		dbr:Eindhoven ,
+		dbr:Town_privileges ,
+		dbr:Antwerp ,
+		dbr:Coppersmith ,
+		dbr:Artisan ,
+		dbr:Protestantism ,
+		dbr:William_I_of_the_Netherlands ,
+		<http://dbpedia.org/resource/Tramway_(industrial)> ,
+		dbr:Texandri ,
+		dbr:Duchy_of_Brabant ,
+		dbr:Pottery ,
+		dbr:Abbey_of_Echternach ,
+		dbr:Dommelen ,
+		dbr:Middle_Ages ,
+		dbr:Central_European_Summer_Time ,
+		dbr:Central_European_Time ,
+		dbr:Schepen ,
+		dbr:Cart ,
+		dbr:List_of_municipalities_of_the_Netherlands .
+@prefix dbt:	<http://dbpedia.org/resource/Template:> .
+dbr:Eersel	dbp:wikiPageUsesTemplate	dbt:Commons_category-inline ,
+		dbt:Authority_control ,
+		dbt:Reflist ,
+		dbt:Geographic_location ,
+		dbt:Coord ,
+		dbt:Dutch_municipality_population ,
+		dbt:MONTHNAME ,
+		dbt:Dutch_municipality_population_density ,
+		dbt:Dutch_municipality_water_area ,
+		dbt:Dutch_municipality_land_area ,
+		dbt:Dutch_municipality_total_area ,
+		dbt:Infobox_settlement ,
+		dbt:North_Brabant_Province ,
+		dbt:Pronunciation ,
+		dbt:Columns-list ;
+	dbo:wikiPageLength	"11638"^^xsd:nonNegativeInteger ;
+	dbp:imageSkyline	"Gemeentehuis Eersel.jpg"@en .
+<http://dbpedia.org/resource/Eersel_(plaats)>	dbo:wikiPageRedirects	dbr:Eersel ;
+	dbo:wikiPageWikiLink	dbr:Eersel .
+dbr:World_Chess_Championship_1969	dbo:wikiPageWikiLink	dbr:Eersel .
+dbr:List_of_museums_in_North_Brabant	dbo:wikiPageWikiLink	dbr:Eersel .
+dbr:Ursula_Levy	dbo:wikiPageWikiLink	dbr:Eersel .
+dbr:Veldhoven	dbp:west	dbr:Eersel ;
+	dbo:wikiPageWikiLink	dbr:Eersel .
+dbr:Wintelre	dbo:subdivision	dbr:Eersel ;
+	dbo:wikiPageWikiLink	dbr:Eersel .
+dbr:Steensel	dbo:subdivision	dbr:Eersel ;
+	dbo:wikiPageWikiLink	dbr:Eersel .
+dbr:Vessem	dbo:subdivision	dbr:Eersel ;
+	dbo:wikiPageWikiLink	dbr:Eersel .
+dbr:Cartierheide	dbo:wikiPageWikiLink	dbr:Eersel .
+<http://dbpedia.org/resource/Mr._Belt_&_Wezol>	dbo:wikiPageWikiLink	dbr:Eersel .
+<http://dbpedia.org/resource/Run_(stream)>	dbo:wikiPageWikiLink	dbr:Eersel .
+dbr:Duizel	dbo:subdivision	dbr:Eersel ;
+	dbo:wikiPageWikiLink	dbr:Eersel .
+dbr:Duizel_en_Steensel	dbo:wikiPageWikiLink	dbr:Eersel .
+<http://dbpedia.org/resource/List_of_cities,_towns_and_villages_in_North_Brabant>	dbo:wikiPageWikiLink	dbr:Eersel .
+dbr:Knegsel	dbo:subdivision	dbr:Eersel ;
+	dbo:wikiPageWikiLink	dbr:Eersel .
+<http://dbpedia.org/resource/Vessem,_Wintelre_en_Knegsel>	dbo:wikiPageWikiLink	dbr:Eersel .
+dbr:List_of_electronic_music_festivals	dbo:wikiPageWikiLink	dbr:Eersel .
+dbr:Metropoolregio_Eindhoven	dbp:p	dbr:Eersel ;
+	dbo:subdivision	dbr:Eersel ;
+	dbo:wikiPageWikiLink	dbr:Eersel .
+dbr:De_Acht_Zaligheden	dbp:city	dbr:Eersel ;
+	dbo:wikiPageWikiLink	dbr:Eersel .
+dbr:Jan_Franco	dbo:birthPlace	dbr:Eersel ;
+	dbp:birthPlace	dbr:Eersel ;
+	dbo:wikiPageWikiLink	dbr:Eersel .
+<http://dbpedia.org/resource/Gender_(stream)>	dbo:wikiPageWikiLink	dbr:Eersel .
+dbr:Campine	dbo:wikiPageWikiLink	dbr:Eersel .
+dbr:Valkenswaard_War_Cemetery	dbo:wikiPageWikiLink	dbr:Eersel .
+dbr:List_of_museums_in_the_Netherlands	dbo:wikiPageWikiLink	dbr:Eersel .
+dbr:List_of_reggae_festivals	dbo:wikiPageWikiLink	dbr:Eersel .
+dbr:Borislav_Ivkov	dbo:wikiPageWikiLink	dbr:Eersel .
+dbr:List_of_populated_places_in_the_Netherlands	dbo:wikiPageWikiLink	dbr:Eersel .
+dbr:Bent_Larsen	dbo:wikiPageWikiLink	dbr:Eersel .
+dbr:List_of_Michelin_starred_restaurants_in_the_Netherlands	dbo:wikiPageWikiLink	dbr:Eersel .
+dbr:List_of_Dutch_records_in_athletics	dbo:wikiPageWikiLink	dbr:Eersel .
+dbr:List_of_municipal_flags_of_the_Netherlands	dbo:wikiPageWikiLink	dbr:Eersel .
+dbr:Wil_van_der_Aalst	dbo:birthPlace	dbr:Eersel ;
+	dbp:birthPlace	dbr:Eersel ;
+	dbo:wikiPageWikiLink	dbr:Eersel .
+dbr:Van_Iersel	dbo:wikiPageWikiLink	dbr:Eersel .

@@ -1,0 +1,663 @@
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+<http://dbpedia.org/resource/Minette_(ore)>	dbo:wikiPageWikiLink	dbr:Differdange .
+dbr:Gabriel_Maugas	dbo:wikiPageWikiLink	dbr:Differdange .
+dbr:Communes_of_Luxembourg	dbo:wikiPageWikiLink	dbr:Differdange .
+dbr:Luxembourg_art	dbo:wikiPageWikiLink	dbr:Differdange .
+dbr:Fernand_de_Saintignon	dbo:wikiPageWikiLink	dbr:Differdange .
+dbr:Marcelle_Lentz-Cornette	dbo:wikiPageWikiLink	dbr:Differdange .
+<http://dbpedia.org/resource/2013_Games_of_the_Small_States_of_Europe>	dbo:wikiPageWikiLink	dbr:Differdange .
+dbr:Shooting_at_the_2013_Games_of_the_Small_States_of_Europe	dbo:wikiPageWikiLink	dbr:Differdange .
+dbr:City_rights_in_the_Low_Countries	dbo:wikiPageWikiLink	dbr:Differdange .
+dbr:Celtic_Luxembourg	dbo:wikiPageWikiLink	dbr:Differdange .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Sanem	dbp:w	dbr:Differdange ;
+	dbo:wikiPageWikiLink	dbr:Differdange .
+dbr:History_of_rail_transport_in_Luxembourg	dbo:wikiPageWikiLink	dbr:Differdange .
+dbr:Trabzonspor_in_European_football	dbp:stadium	dbr:Differdange ;
+	dbo:wikiPageWikiLink	dbr:Differdange .
+<http://dbpedia.org/resource/2015_UEFA_European_Under-19_Championship_qualification>	dbp:stadium	dbr:Differdange ;
+	dbo:wikiPageWikiLink	dbr:Differdange .
+<http://dbpedia.org/resource/2017_UEFA_European_Under-21_Championship_qualification_Group_5>	dbp:stadium	dbr:Differdange ;
+	dbo:wikiPageWikiLink	dbr:Differdange .
+<http://dbpedia.org/resource/2018_Tour_de_Luxembourg>	dbo:wikiPageWikiLink	dbr:Differdange .
+<http://dbpedia.org/resource/2020_Tour_de_Luxembourg>	dbo:wikiPageWikiLink	dbr:Differdange .
+dbr:List_of_twin_towns_and_sister_cities_in_Portugal	dbo:wikiPageWikiLink	dbr:Differdange .
+dbr:Jakob_Fuglsang	dbo:wikiPageWikiLink	dbr:Differdange .
+dbr:Miami_University	dbo:wikiPageWikiLink	dbr:Differdange .
+dbr:Tessy_Antony_de_Nassau	dbo:wikiPageWikiLink	dbr:Differdange .
+<http://dbpedia.org/resource/2015_UEFA_European_Under-21_Championship_qualification_Group_3>	dbp:stadium	dbr:Differdange ;
+	dbo:wikiPageWikiLink	dbr:Differdange .
+dbr:FA_Red_Boys_Differdange	dbo:ground	dbr:Differdange ;
+	dbo:wikiPageWikiLink	dbr:Differdange ;
+	dbp:ground	dbr:Differdange .
+dbr:Differdange_Castle	dbo:wikiPageWikiLink	dbr:Differdange .
+dbr:Harmonie_Municipale_de_la_Ville_de_Differdange	dbo:wikiPageWikiLink	dbr:Differdange .
+<http://dbpedia.org/resource/2012_Vacansoleil\u2013DCM_season>	dbo:wikiPageWikiLink	dbr:Differdange .
+<http://dbpedia.org/resource/2006\u201307_Luxembourg_National_Division>	dbo:wikiPageWikiLink	dbr:Differdange .
+dbr:FC_Differdange_03	dbo:ground	dbr:Differdange ;
+	dbo:wikiPageWikiLink	dbr:Differdange ;
+	dbp:ground	dbr:Differdange .
+<http://dbpedia.org/resource/2016_Tour_de_Luxembourg>	dbo:wikiPageWikiLink	dbr:Differdange .
+<http://dbpedia.org/resource/2019_Deceuninck\u2013Quick-Step_season>	dbo:wikiPageWikiLink	dbr:Differdange .
+<http://dbpedia.org/resource/2020\u201321_UEFA_Europa_League_qualifying_phase_and_play-off_round_(Main_Path)>	dbo:wikiPageWikiLink	dbr:Differdange .
+dbr:Martin_Bakole	dbo:wikiPageWikiLink	dbr:Differdange .
+dbr:Winky_Wright	dbo:wikiPageWikiLink	dbr:Differdange .
+dbr:Vincent_Baestaens	dbo:wikiPageWikiLink	dbr:Differdange .
+<http://dbpedia.org/resource/K\u00E4erjeng>	dbp:s	dbr:Differdange ;
+	dbo:wikiPageWikiLink	dbr:Differdange .
+dbr:List_of_communes_of_Luxembourg	dbo:wikiPageWikiLink	dbr:Differdange .
+<http://dbpedia.org/resource/2017\u201318_Luxembourg_National_Division>	dbo:wikiPageWikiLink	dbr:Differdange .
+dbr:Luxembourg_Cup	dbo:wikiPageWikiLink	dbr:Differdange .
+<http://dbpedia.org/resource/2011_Luxembourg_communal_elections>	dbo:wikiPageWikiLink	dbr:Differdange .
+<http://dbpedia.org/resource/2018\u201319_Luxembourg_National_Division>	dbo:wikiPageWikiLink	dbr:Differdange .
+<http://dbpedia.org/resource/2019\u201320_Luxembourg_National_Division>	dbo:wikiPageWikiLink	dbr:Differdange .
+<http://dbpedia.org/resource/2020\u201321_Luxembourg_National_Division>	dbo:wikiPageWikiLink	dbr:Differdange .
+<http://dbpedia.org/resource/2005_Luxembourg_communal_elections>	dbo:wikiPageWikiLink	dbr:Differdange .
+dbr:List_of_communes_of_Luxembourg_by_lowest_point	dbo:wikiPageWikiLink	dbr:Differdange .
+dbr:List_of_communes_of_Luxembourg_by_area	dbo:wikiPageWikiLink	dbr:Differdange .
+dbr:List_of_communes_of_Luxembourg_by_highest_point	dbo:wikiPageWikiLink	dbr:Differdange .
+dbr:List_of_communes_of_Luxembourg_by_population	dbo:wikiPageWikiLink	dbr:Differdange .
+dbr:List_of_communes_of_Luxembourg_by_population_density	dbo:wikiPageWikiLink	dbr:Differdange .
+dbr:List_of_football_clubs_in_Luxembourg	dbo:wikiPageWikiLink	dbr:Differdange .
+dbr:List_of_towns_in_Luxembourg_by_population	dbo:wikiPageWikiLink	dbr:Differdange .
+<http://dbpedia.org/resource/2013\u201314_in_Croatian_football>	dbo:wikiPageWikiLink	dbr:Differdange .
+<http://dbpedia.org/resource/2012\u201313_in_Belgian_football>	dbo:wikiPageWikiLink	dbr:Differdange .
+dbr:Michael_Skibbe	dbo:wikiPageWikiLink	dbr:Differdange .
+<http://dbpedia.org/resource/2012\u201313_UEFA_Europa_League_qualifying_phase>	dbo:wikiPageWikiLink	dbr:Differdange .
+<http://dbpedia.org/resource/Aur\u00E9lien_Joachim>	dbo:wikiPageWikiLink	dbr:Differdange .
+<http://dbpedia.org/resource/2018\u201319_Budapest_Honv\u00E9d_FC_season>	dbp:location	dbr:Differdange ;
+	dbo:wikiPageWikiLink	dbr:Differdange .
+<http://dbpedia.org/resource/2020\u201321_UEFA_Futsal_Champions_League>	dbo:wikiPageWikiLink	dbr:Differdange .
+<http://dbpedia.org/resource/2017_Luxembourg_communal_elections>	dbo:wikiPageWikiLink	dbr:Differdange .
+dbr:Oberkorn	dbo:wikiPageWikiLink	dbr:Differdange .
+dbr:List_of_towns_in_Luxembourg	dbo:wikiPageWikiLink	dbr:Differdange .
+dbr:Luxembourg_Amateur_Radio_Union	dbo:wikiPageWikiLink	dbr:Differdange .
+dbr:Josy_Stoffel	dbo:birthPlace	dbr:Differdange ;
+	dbp:birthPlace	dbr:Differdange ;
+	dbo:wikiPageWikiLink	dbr:Differdange .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+wikipedia-en:Differdange	foaf:primaryTopic	dbr:Differdange .
+<http://dbpedia.org/resource/List_of_memorials_to_John_F._Kennedy>	dbo:wikiPageWikiLink	dbr:Differdange .
+dbr:Foni_Tissen	dbo:wikiPageWikiLink	dbr:Differdange .
+dbr:Nico_Helminger	dbo:wikiPageWikiLink	dbr:Differdange .
+dbr:Jim_Clemes	dbo:wikiPageWikiLink	dbr:Differdange .
+<http://dbpedia.org/resource/2020\u201321_AS_Nancy_season>	dbo:wikiPageWikiLink	dbr:Differdange .
+dbr:Joseph_Mulema	dbo:wikiPageWikiLink	dbr:Differdange .
+dbr:Michel_Maurer	dbo:wikiPageWikiLink	dbr:Differdange .
+dbr:Lambert_Schlechter	dbo:wikiPageWikiLink	dbr:Differdange .
+dbr:Niederkorn_railway_station	dbo:wikiPageWikiLink	dbr:Differdange .
+dbr:Alain_Anen	dbo:birthPlace	dbr:Differdange ;
+	dbo:wikiPageWikiLink	dbr:Differdange .
+dbr:Differdange_railway_station	dbo:wikiPageWikiLink	dbr:Differdange .
+dbr:Fred_Sunnen	dbo:wikiPageWikiLink	dbr:Differdange .
+dbr:Dominique_Urbany	dbo:wikiPageWikiLink	dbr:Differdange .
+dbr:Stade_du_Thillenberg	dbo:wikiPageWikiLink	dbr:Differdange .
+<http://dbpedia.org/resource/2008\u201309_Luxembourg_Cup>	dbp:stadium	dbr:Differdange ;
+	dbo:wikiPageWikiLink	dbr:Differdange .
+<http://dbpedia.org/resource/2009\u201310_Luxembourg_Cup>	dbp:stadium	dbr:Differdange ;
+	dbo:wikiPageWikiLink	dbr:Differdange .
+dbr:Rudy_Kugeler	dbo:birthPlace	dbr:Differdange ;
+	dbp:birthPlace	dbr:Differdange ;
+	dbo:wikiPageWikiLink	dbr:Differdange .
+<http://dbpedia.org/resource/A13_motorway_(Luxembourg)>	dbo:wikiPageWikiLink	dbr:Differdange ;
+	dbo:routeJunction	dbr:Differdange .
+dbr:Georges_Hausemer	dbo:wikiPageWikiLink	dbr:Differdange .
+<http://dbpedia.org/resource/Johny_L\u00E9onard>	dbo:birthPlace	dbr:Differdange ;
+	dbo:wikiPageWikiLink	dbr:Differdange .
+dbr:Marcel_Di_Domenico	dbo:birthPlace	dbr:Differdange ;
+	dbo:wikiPageWikiLink	dbr:Differdange .
+<http://dbpedia.org/resource/2020\u201321_Willem_II_season>	dbo:wikiPageWikiLink	dbr:Differdange .
+<http://dbpedia.org/resource/2020_UAE_Team_Emirates_season>	dbo:wikiPageWikiLink	dbr:Differdange .
+<http://dbpedia.org/resource/2013\u201314_UEFA_Champions_League_qualifying_phase_and_play-off_round>	dbo:wikiPageWikiLink	dbr:Differdange .
+<http://dbpedia.org/resource/2014\u201315_UEFA_Europa_League_qualifying_phase_and_play-off_round>	dbo:wikiPageWikiLink	dbr:Differdange .
+<http://dbpedia.org/resource/2015\u201316_UEFA_Europa_League_qualifying_phase>	dbo:wikiPageWikiLink	dbr:Differdange .
+<http://dbpedia.org/resource/2016\u201317_UEFA_Europa_League_qualifying_phase_and_play-off_round>	dbo:wikiPageWikiLink	dbr:Differdange .
+dbr:Fernand_Backes	dbo:wikiPageWikiLink	dbr:Differdange .
+<http://dbpedia.org/resource/Georgia_national_football_team_results_(1990\u20132019)>	dbo:wikiPageWikiLink	dbr:Differdange .
+<http://dbpedia.org/resource/1970_World_Men\u0027s_Handball_Championship_\u2013_qualification>	dbp:stadium	dbr:Differdange ;
+	dbo:wikiPageWikiLink	dbr:Differdange .
+<http://dbpedia.org/resource/1982_UEFA_European_Under-16_Championship_qualifying>	dbp:stadium	dbr:Differdange ;
+	dbo:wikiPageWikiLink	dbr:Differdange .
+<http://dbpedia.org/resource/1985\u201386_European_Cup_Winners\u0027_Cup>	dbp:stadium	dbr:Differdange ;
+	dbo:wikiPageWikiLink	dbr:Differdange .
+<http://dbpedia.org/resource/2012\u201313_UEFA_Europa_League_play-off_round>	dbo:wikiPageWikiLink	dbr:Differdange .
+<http://dbpedia.org/resource/2018\u201319_UEFA_Europa_League_qualifying_phase_and_play-off_round_(Main_Path)>	dbo:wikiPageWikiLink	dbr:Differdange .
+dbr:Fernand_Leischen	dbo:birthPlace	dbr:Differdange ;
+	dbo:wikiPageWikiLink	dbr:Differdange .
+dbr:Same-sex_marriage_in_Luxembourg	dbo:wikiPageWikiLink	dbr:Differdange .
+dbr:Fernand_Ciatti	dbo:wikiPageWikiLink	dbr:Differdange .
+dbr:Jean-Claude_Hollerich	dbo:birthPlace	dbr:Differdange ;
+	dbp:birthPlace	dbr:Differdange ;
+	dbo:wikiPageWikiLink	dbr:Differdange .
+dbr:Fernand_Franck	dbo:wikiPageWikiLink	dbr:Differdange .
+<http://dbpedia.org/resource/2012\u201313_Alemannia_Aachen_season>	dbp:location	dbr:Differdange ;
+	dbo:wikiPageWikiLink	dbr:Differdange .
+<http://dbpedia.org/resource/2015_World_Men\u0027s_Handball_Championship_\u2013_European_qualification>	dbp:stadium	dbr:Differdange ;
+	dbo:wikiPageWikiLink	dbr:Differdange .
+dbr:Italy_national_under-21_football_team	dbo:wikiPageWikiLink	dbr:Differdange .
+dbr:Communist_Party_of_Luxembourg	dbo:wikiPageWikiLink	dbr:Differdange .
+<http://dbpedia.org/resource/2021_UEFA_European_Under-21_Championship_qualification_Group_1>	dbp:stadium	dbr:Differdange ;
+	dbo:wikiPageWikiLink	dbr:Differdange .
+<http://dbpedia.org/resource/1942_Luxembourgish_general_strike>	dbo:wikiPageWikiLink	dbr:Differdange .
+dbr:Pierre_Schmitz	dbo:birthPlace	dbr:Differdange ;
+	dbo:wikiPageWikiLink	dbr:Differdange .
+dbr:Mathias_Logelin	dbo:birthPlace	dbr:Differdange ;
+	dbo:wikiPageWikiLink	dbr:Differdange .
+dbr:Coverage_of_Google_Street_View	dbo:wikiPageWikiLink	dbr:Differdange .
+dbr:Bernard_Fischer	dbo:birthPlace	dbr:Differdange ;
+	dbo:wikiPageWikiLink	dbr:Differdange .
+dbr:Ahlen	dbo:wikiPageWikiLink	dbr:Differdange .
+<http://dbpedia.org/resource/1972\u201373_European_Cup_Winners\u0027_Cup>	dbp:stadium	dbr:Differdange ;
+	dbo:wikiPageWikiLink	dbr:Differdange .
+dbr:Luxembourgish_National_Road_Race_Championships	dbo:wikiPageWikiLink	dbr:Differdange .
+dbr:List_of_secondary_schools_in_Luxembourg	dbo:wikiPageWikiLink	dbr:Differdange .
+dbr:Gusty_Kemp	dbo:birthPlace	dbr:Differdange ;
+	dbo:wikiPageWikiLink	dbr:Differdange .
+<http://dbpedia.org/resource/Charles_Fran\u00E7ois_(kickboxer)>	dbo:wikiPageWikiLink	dbr:Differdange .
+<http://dbpedia.org/resource/2013\u201314_Eintracht_Frankfurt_season>	dbo:wikiPageWikiLink	dbr:Differdange .
+<http://dbpedia.org/resource/2014\u201315_R._Charleroi_S.C._season>	dbp:location	dbr:Differdange ;
+	dbo:wikiPageWikiLink	dbr:Differdange .
+<http://dbpedia.org/resource/2017_World_Men\u0027s_Handball_Championship_\u2013_European_qualification>	dbp:stadium	dbr:Differdange ;
+	dbo:wikiPageWikiLink	dbr:Differdange .
+<http://dbpedia.org/resource/Luxembourg_national_football_team_results_(2000\u201319)>	dbo:wikiPageWikiLink	dbr:Differdange .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+dbr:Differdange	rdf:type	dbo:Settlement .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Differdange	rdf:type	owl:Thing .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Differdange	rdf:type	yago:Town108665504 ,
+		dbo:Village ,
+		yago:UrbanArea108675967 ,
+		yago:Region108630985 ,
+		yago:Commune108541609 ,
+		yago:PhysicalEntity100001930 ,
+		yago:Object100002684 ,
+		yago:Tract108673395 ,
+		dbo:PopulatedPlace ,
+		dbo:Location ,
+		dbo:Place ,
+		yago:Location100027167 ,
+		yago:Municipality108626283 ,
+		yago:City108524735 ,
+		yago:GeographicalArea108574314 ,
+		yago:District108552138 ,
+		yago:AdministrativeDistrict108491826 .
+@prefix schema:	<http://schema.org/> .
+dbr:Differdange	rdf:type	schema:Place ,
+		yago:Subdivision108674251 ,
+		yago:YagoPermanentlyLocatedEntity ,
+		yago:WikicatSubdivisionsOfLuxembourg ,
+		yago:YagoLegalActorGeo ,
+		yago:WikicatCommunesOfLuxembourg ,
+		yago:WikicatTownsInLuxembourg ,
+		yago:WikicatCitiesInLuxembourg ,
+		<http://dbpedia.org/class/yago/WikicatCommunesInEsch-sur-Alzette(canton)> ,
+		yago:YagoGeoEntity .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Differdange	rdf:type	wikidata:Q532 ,
+		wikidata:Q486972 .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Differdange	rdfs:label	"\u0414\u0456\u0444\u0444\u0435\u0440\u0434\u0430\u043D\u0436 (\u043A\u043E\u043C\u0443\u043D\u0430)"@uk ,
+		"Differdange"@eu ,
+		"Differdange"@ca ,
+		"Differdange"@pt ,
+		"\u062F\u064A\u0641\u0631\u062F\u0627\u0646\u062C"@ar ,
+		"Differdingen"@de ,
+		"Differdange"@nl ,
+		"\u0414\u0438\u0444\u0444\u0435\u0440\u0434\u0430\u043D\u0436"@ru ,
+		"Differdange"@cs ,
+		"Differdange"@in ,
+		"\u8FEA\u5F17\u7576\u65E5"@zh ,
+		"Differdange"@en ,
+		"Differdange"@pl ,
+		"Differdange"@sv ,
+		"Differdange"@it ,
+		"Differdange"@fr ,
+		"Differdange"@es ,
+		"\uB514\uD398\uB974\uB2F9\uC8FC"@ko ;
+	rdfs:comment	"\u062F\u064A\u0641\u0631\u062F\u0627\u0646\u062C (\u0628\u0627\u0644\u0644\u0648\u0643\u0633\u0645\u0628\u0648\u0631\u063A\u064A\u0629: D\u00E9ifferdeng\u060C \u0648\u0628\u0627\u0644\u0623\u0644\u0645\u0627\u0646\u064A\u0629: Differdingen) \u0647\u064A \u0628\u0644\u062F\u0629 \u0648\u0628\u0644\u062F\u064A\u0629 \u062A\u0642\u0639 \u0628\u0627\u0644\u0642\u0631\u0628 \u0645\u0646 \u0627\u0644\u062D\u062F\u0648\u062F \u0645\u0639 \u0643\u0644 \u0645\u0646 \u0628\u0644\u062C\u064A\u0643\u0627 \u0648\u0641\u0631\u0646\u0633\u0627 \u062C\u0646\u0648\u0628 \u063A\u0631\u0628 \u0644\u0648\u0643\u0633\u0645\u0628\u0648\u0631\u063A \u0639\u0644\u0649 \u0628\u0639\u062F 27 \u0643\u0645 (17 \u0645\u064A\u0644) \u0645\u0646 \u0627\u0644\u0639\u0627\u0635\u0645\u0629 \u0641\u064A \u0643\u0627\u0646\u062A\u0648\u0646 . \u064A\u0628\u0644\u063A \u0639\u062F\u062F \u0633\u0643\u0627\u0646 \u062F\u064A\u0641\u0631\u062F\u0627\u0646\u062C \u062D\u0648\u0627\u0644\u064A 26,000 \u0646\u0633\u0645\u0629\u060C \u0645\u0627 \u064A\u062C\u0639\u0644\u0647\u0627 \u062B\u0627\u0644\u062B \u0623\u0643\u0628\u0631 \u0645\u062F\u0646 \u0627\u0644\u0628\u0644\u0627\u062F. \u062A\u0639\u062F\u0651 \u062F\u064A\u0641\u0631\u062F\u0627\u0646\u062C \u0628\u0644\u062F\u0629 \u0635\u0646\u0627\u0639\u064A\u0629 \u062D\u064A\u062B \u0643\u0627\u0646\u062A \u0645\u0648\u0637\u0646\u0627\u064B \u0644\u0635\u0646\u0627\u0639\u0629 \u0627\u0644\u0635\u0644\u0628 \u0641\u064A \u0627\u0644\u0628\u0644\u0627\u062F\u060C \u0648\u0648\u0642\u0639 \u0645\u0639\u0638\u0645 \u0646\u0645\u0648 \u0627\u0644\u0645\u062F\u064A\u0646\u0629 \u062E\u0644\u0627\u0644 \u0641\u062A\u0631\u0629 \u0627\u0644\u0627\u0632\u062F\u0647\u0627\u0631 \u0627\u0644\u062A\u064A \u0639\u0627\u0634\u062A\u0647\u0627. \u0648\u0645\u0627 \u0632\u0627\u0644\u062A \u0627\u0644\u0628\u0644\u062F\u0629 \u062D\u062A\u0649 \u064A\u0648\u0645\u0646\u0627 \u0647\u0630\u0627 \u0645\u0631\u0643\u0632\u0627\u064B \u0635\u0646\u0627\u0639\u064A\u0627\u064B \u0647\u0627\u0645\u0627\u064B \u062D\u064A\u062B \u064A\u0648\u062C\u062F \u0641\u064A \u0627\u0644\u0628\u0644\u062F\u0629 \u0645\u0635\u0646\u0639 \u0644\u0644\u0635\u0644\u0628 \u062A\u0627\u0628\u0639 \u0644\u0634\u0631\u0643\u0629 \u0622\u0631\u0633\u064A\u0644\u0648\u0631\u0640 \u0645\u064A\u062A\u0627\u0644 \u0648\u0647\u064A \u0623\u0643\u0628\u0631 \u0634\u0631\u0643\u0629 \u0644\u0635\u0646\u0627\u0639\u0629 \u0627\u0644\u0635\u0644\u0628 \u0641\u064A \u0627\u0644\u0639\u0627\u0644\u0645."@ar ,
+		"Differdange (Luxemburgs: D\u00E9ifferdeng; Duits: Differdingen) is een stad en een gemeente in het Luxemburgse Kanton Esch. De gemeente heeft een totale oppervlakte van 22,18 km2 en telde 20.065 inwoners op 1 januari 2007."@nl ,
+		"Differdange (en luxembourgeois : D\u00E9ifferdeng et en allemand : Differdingen) est une ville du sud-ouest du Grand-Duch\u00E9 de Luxembourg et le chef-lieu de la commune portant le m\u00EAme nom. Situ\u00E9e dans le canton d'Esch-sur-Alzette, elle compte environ 24 300 habitants, ce qui en fait la 3e ville du Luxembourg."@fr ,
+		"Differdange (n\u011Bmecky Differdingen, lucembursky D\u00E9ifferdeng) je m\u011Bsto na jihoz\u00E1pad\u011B Lucemburska. Je t\u0159et\u00EDm nejv\u011Bt\u0161\u00EDm m\u011Bstem v zemi, \u017Eije v n\u011Bm p\u0159ibli\u017En\u011B 27 tis\u00EDc obyvatel. Differdange spolu s , ,  a \u010D\u00E1st\u00ED  tvo\u0159\u00ED jednu z obc\u00ED v r\u00E1mci kantonu Esch an der Alzette. M\u011Bsto le\u017E\u00ED na \u00FApat\u00ED  a prot\u00E9k\u00E1 j\u00EDm \u0159eka Chiers."@cs ,
+		"Differdange (Luxembourgish: D\u00E9ifferdeng pronounced [\u02C8d\u0259\u026A\u032Ff\u0250de\u014B], German: Differdingen) is a commune with town status in south-western Luxembourg, 17 miles (27 km) west from the country's capital. It lies near the borders with Belgium and France and it is located in the canton of Esch-sur-Alzette. With a population of around 26,000, Differdange is the country's third largest city. It is also the main town of the commune, and other towns within the commune include Lasauvage, Niederkorn, and Oberkorn. Differdange is also home to football team FC Differdange 03."@en ,
+		"Differdange (luxenburgeraz: D\u00E9ifferdeng, frantsesez: Differdange, alemanez: Differdingen) Luxenburgoko hiria da, Luxenburgoko barrutia eta  dagoena. Bertoko futbol taldeak FC Differdange 03 du izena."@eu ,
+		"Differdange \u2013 gmina ze statusem miejskim w po\u0142udniowo-zachodnim Luksemburgu, w dystrykcie Luksemburg, w kantonie Esch-sur-Alzette. Graniczy z Belgi\u0105 oraz Francj\u0105. Miasto Differdange, kt\u00F3re stanowi centrum gminy, zamieszkuje 5296 os\u00F3b. Inne miejscowo\u015Bci w gminie: Lasauvage, Niederkorn oraz Oberkorn."@pl ,
+		"Differdange (bahasa Luksemburg: D\u00E9ifferdeng, bahasa Jerman: Differdingen) merupakan sebuah kota di Luksemburg. Kota ini letaknya di bagian selatan. Tepatnya di Kanton Esch-sur-Alzette. Pada tahun 2011, kota ini memiliki jumlah penduduk sebesar 20.979 jiwa dan memiliki luas wilayah 22,18 km\u00B2. Kota ini memiliki angka kepadatan penduduk 950 jiwa/km\u00B2."@in ,
+		"Differdange (D\u00E9ifferdeng en luxemburgu\u00E9s) es una comuna del suroeste de Luxemburgo."@es ,
+		"Differdange \u00E9 uma comuna de Luxemburgo com status de cidade, pertencente ao distrito de Luxemburgo e ao cant\u00E3o de Esch-sur-Alzette."@pt ,
+		"\u0414\u0456\u0444\u0444\u0435\u0440\u0434\u0430\u043D\u0436 (\u043B\u044E\u043A\u0441\u0435\u043C\u0431. D\u00E9ifferdeng, \u0444\u0440. Differdange, \u043D\u0456\u043C. Differdingen) \u2014 \u043A\u043E\u043C\u0443\u043D\u0430 \u041B\u044E\u043A\u0441\u0435\u043C\u0431\u0443\u0440\u0433\u0443. \u0412\u0445\u043E\u0434\u0438\u0442\u044C \u0434\u043E \u0441\u043A\u043B\u0430\u0434\u0443 \u043A\u0430\u043D\u0442\u043E\u043D\u0443 \u0415\u0448-\u0441\u044E\u0440-\u0410\u043B\u044C\u0437\u0435\u0442\u0442 \u0432 \u043E\u043A\u0440\u0443\u0437\u0456 \u041B\u044E\u043A\u0441\u0435\u043C\u0431\u0443\u0440\u0433."@uk ,
+		"\u8FEA\u5F17\u7576\u65E5\uFF08\u6CD5\u8BED\uFF1ADifferdange\uFF1B\u5FB7\u8BED\uFF1ADifferdingen\uFF1B\u5362\u68EE\u5821\u8BED\uFF1AD\u00E9ifferdeng\uFF09\u662F\u5362\u68EE\u5821\u897F\u5357\u90E8\u7684\u4E00\u4E2A\u5177\u6709\u57CE\u5E02\u5730\u4F4D\u7684\u5E02\u9547 \uFF0C\u5C5E\u4E8E\u963F\u5C14\u6CFD\u7279\u6CB3\u7554\u57C3\u65BD\u53BF\uFF0C\u9762\u7A4D22\u5E73\u65B9\u516C\u91CC\uFF0C\u6D77\u62D4\u9AD8\u5EA6277\u81F3427\u7C73\u3002"@zh ,
+		"Differdange (luxemburgiska: D\u00E9ifferdeng, tyska: Differdingen) \u00E4r en kommun och stad i sydv\u00E4stra Luxemburg. Kommunen ligger i kantonen Esch-sur-Alzette. Den hade \u00E5r 2017, 25 402 inv\u00E5nare."@sv ,
+		"\uB514\uD398\uB974\uB2F9\uC8FC(\uD504\uB791\uC2A4\uC5B4: Differdange, \uB3C5\uC77C\uC5B4: Differdingen \uB514\uD398\uB974\uB529\uAC90[*], \uB8E9\uC148\uBD80\uB974\uD06C\uC5B4: D\u00E9ifferdeng)\uB294 \uB8E9\uC148\uBD80\uB974\uD06C \uB0A8\uC11C\uBD80\uC5D0 \uC704\uCE58\uD55C \uB3C4\uC2DC\uB85C \uBA74\uC801\uC740 22.18km2, \uB192\uC774\uB294 277~427m, \uC778\uAD6C\uB294 23,571\uBA85(2014\uB144 \uAE30\uC900), \uC778\uAD6C \uBC00\uB3C4\uB294 1,100\uBA85/km2\uC774\uB2E4. \uD589\uC815 \uAD6C\uC5ED\uC0C1\uC73C\uB85C\uB294 \uB8E9\uC148\uBD80\uB974\uD06C \uAD6C \uC5D0\uC288\uC26C\uB974\uC54C\uC81C\uD2B8 \uC8FC\uC5D0 \uC18D\uD558\uBA70 \uBCA8\uAE30\uC5D0, \uD504\uB791\uC2A4 \uAD6D\uACBD\uACFC \uAC00\uAE4C\uC6B4 \uD3B8\uC774\uB2E4. \uB8E9\uC148\uBD80\uB974\uD06C\uC758 \uCCA0\uAC15 \uC0B0\uC5C5\uC758 \uC911\uC2EC\uC9C0\uC774\uB2E4. \n* \uC2DC \uBB38\uC7A5"@ko ,
+		"Differdange (luxemburgu\u00E8s D\u00E9ifferdeng, alemany Differdingen) \u00E9s una comuna i vila a l'est de Luxemburg, que forma part del cant\u00F3 d'Esch-sur-Alzette. \u00C9s la tercera ciutat m\u00E9s poblada de Luxemburg. Compr\u00E8n les viles de Differdange, Lasauvage, Niederkorn i Oberkorn. Limita al nord-oest amb Bascharage, al nord amb Sanem, a l'oest amb P\u00E9tange, al sud-oest amb Saulnes, al sud amb Hussigny-Godbrange i al sud-est amb Thil. Tamb\u00E9 hi ha la seu del  i la sala de concerts Aalt Stadhaus."@ca ,
+		"\u0414\u0438\u0444\u0444\u0435\u0440\u0434\u0430\u0301\u043D\u0436 (\u043B\u044E\u043A\u0441\u0435\u043C\u0431. D\u00E9ifferdeng, \u0444\u0440. Differdange, \u043D\u0435\u043C. Differdingen) \u2014 \u0433\u043E\u0440\u043E\u0434 \u0432 \u0433\u0435\u0440\u0446\u043E\u0433\u0441\u0442\u0432\u0435 \u041B\u044E\u043A\u0441\u0435\u043C\u0431\u0443\u0440\u0433, \u0440\u0430\u0441\u043F\u043E\u043B\u043E\u0436\u0435\u043D\u043D\u043E\u0435 \u0432 \u043E\u043A\u0440\u0443\u0433\u0435 \u041B\u044E\u043A\u0441\u0435\u043C\u0431\u0443\u0440\u0433. \u0412\u0445\u043E\u0434\u0438\u0442 \u0432 \u0441\u043E\u0441\u0442\u0430\u0432 \u043A\u0430\u043D\u0442\u043E\u043D\u0430  \u0438 \u044F\u0432\u043B\u044F\u0435\u0442\u0441\u044F \u0446\u0435\u043D\u0442\u0440\u043E\u043C \u043E\u0434\u043D\u043E\u0438\u043C\u0451\u043D\u043D\u043E\u0439 \u043A\u043E\u043C\u043C\u0443\u043D\u044B."@ru ,
+		"Differdange (in lussemburghese D\u00E9ifferdeng, in tedesco Differdingen) \u00E8 un comune nel Lussemburgo sud-occidentale. Differdange \u00E8 una cittadina industriale da cui proviene la gran parte della produzione siderurgica lussemburghese; essa si estende lungo i confini tra il Belgio e la Francia. Situata nel cantone di Esch-sur-Alzette, che \u00E8 parte del distretto di Lussemburgo."@it ,
+		"Differdingen (luxemburgisch D\u00E9ifferdeng', \u00F6rtlich D\u00E9ifferdang, franz\u00F6sisch Differdange) ist eine Stadt sowie eine Gemeinde im Gro\u00DFherzogtum Luxemburg. Sie geh\u00F6rt zum Kanton Esch an der Alzette. Die Stadt liegt im S\u00FCden von Luxemburg im Dreil\u00E4ndereck mit Belgien und Frankreich. Differdingen ist nach den St\u00E4dten Luxemburg und Esch an der Alzette die drittgr\u00F6\u00DFte Gemeinde des Landes und hat wie Esch einen Ausl\u00E4nderanteil von \u00FCber 50 Prozent. Bekannt ist die Stadt vor allem f\u00FCr ihre Stahlindustrie \u2013 Differdinger ist in der Bauwirtschaft ein Synonym f\u00FCr mittlere Stahltr\u00E4ger."@de ;
+	rdfs:seeAlso	dbr:Luxembourg ,
+		dbr:Sister_cities ,
+		dbr:List_of_twin_towns ;
+	foaf:name	"Differdange"@en ;
+	foaf:homepage	<http://www.differdange.lu> ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Stahlwerk_Differdingen.jpg> ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Differdange .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Differdange	dct:subject	dbc:Cities_in_Luxembourg ,
+		dbc:Towns_in_Luxembourg ,
+		dbc:Differdange ,
+		dbc:Miami_University ,
+		<http://dbpedia.org/resource/Category:Communes_in_Esch-sur-Alzette_(canton)> ;
+	owl:sameAs	<http://ar.dbpedia.org/resource/\u062F\u064A\u0641\u0631\u062F\u0627\u0646\u062C> ,
+		<http://uk.dbpedia.org/resource/\u0414\u0456\u0444\u0444\u0435\u0440\u0434\u0430\u043D\u0436_(\u043A\u043E\u043C\u0443\u043D\u0430)> ,
+		<http://be.dbpedia.org/resource/\u0414\u0437\u0456\u0444\u0435\u0440\u0434\u0430\u043D\u0436> .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:Differdange	owl:sameAs	dbpedia-es:Differdange ,
+		<http://zh.dbpedia.org/resource/\u8FEA\u5F17\u7576\u65E5> ,
+		<http://d-nb.info/gnd/1037798-0> .
+@prefix ns14:	<https://global.dbpedia.org/id/> .
+dbr:Differdange	owl:sameAs	ns14:aqnT ,
+		<http://ka.dbpedia.org/resource/\u10D3\u10D8\u10E4\u10D4\u10E0\u10D3\u10D0\u10DC\u10DF\u10D8> .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Differdange	owl:sameAs	dbpedia-fr:Differdange ,
+		<http://d-nb.info/gnd/4012245-1> ,
+		<http://bg.dbpedia.org/resource/\u0414\u0438\u0444\u0435\u0440\u0434\u0430\u043D\u0436> .
+@prefix dbpedia-ro:	<http://ro.dbpedia.org/resource/> .
+dbr:Differdange	owl:sameAs	dbpedia-ro:Differdange ,
+		<http://rdf.freebase.com/ns/m.07nnz2> .
+@prefix dbpedia-tr:	<http://tr.dbpedia.org/resource/> .
+dbr:Differdange	owl:sameAs	dbpedia-tr:Differdange .
+@prefix dbpedia-sk:	<http://sk.dbpedia.org/resource/> .
+dbr:Differdange	owl:sameAs	dbpedia-sk:Differdange ,
+		<http://lb.dbpedia.org/resource/Gemeng_D\u00E9ifferdeng> .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Differdange	owl:sameAs	dbpedia-pt:Differdange .
+@prefix dbpedia-sw:	<http://sw.dbpedia.org/resource/> .
+dbr:Differdange	owl:sameAs	dbpedia-sw:Differdange ,
+		<http://als.dbpedia.org/resource/D\u00E9ifferdeng> .
+@prefix dbpedia-eu:	<http://eu.dbpedia.org/resource/> .
+dbr:Differdange	owl:sameAs	dbpedia-eu:Differdange ,
+		<http://musicbrainz.org/area/8e4c3f1a-855c-4070-8400-4a8f5e394fa1> .
+@prefix dbpedia-id:	<http://id.dbpedia.org/resource/> .
+dbr:Differdange	owl:sameAs	dbpedia-id:Differdange ,
+		dbr:Differdange ,
+		<http://fa.dbpedia.org/resource/\u062F\u06CC\u0641\u0631\u062F\u0627\u0646\u0698> .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Differdange	owl:sameAs	dbpedia-nl:Differdange .
+@prefix dbpedia-hu:	<http://hu.dbpedia.org/resource/> .
+dbr:Differdange	owl:sameAs	dbpedia-hu:Differdange ,
+		<http://viaf.org/viaf/248948853> ,
+		<http://sws.geonames.org/2960651/> ,
+		<http://viaf.org/viaf/129111958> ,
+		<http://sr.dbpedia.org/resource/\u0414\u0438\u0444\u0435\u0440\u0434\u0430\u043D\u0436> ,
+		wikidata:Q16012 .
+@prefix dbpedia-no:	<http://no.dbpedia.org/resource/> .
+dbr:Differdange	owl:sameAs	dbpedia-no:Differdange .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Differdange	owl:sameAs	dbpedia-pl:Differdange .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Differdange	owl:sameAs	yago-res:Differdange ,
+		<http://ceb.dbpedia.org/resource/Differdange_(munisipyo)> .
+@prefix dbpedia-vi:	<http://vi.dbpedia.org/resource/> .
+dbr:Differdange	owl:sameAs	dbpedia-vi:Differdange .
+@prefix dbpedia-sv:	<http://sv.dbpedia.org/resource/> .
+dbr:Differdange	owl:sameAs	dbpedia-sv:Differdange .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Differdange	owl:sameAs	dbpedia-de:Differdingen .
+@prefix dbpedia-da:	<http://da.dbpedia.org/resource/> .
+dbr:Differdange	owl:sameAs	dbpedia-da:Differdange .
+@prefix ns32:	<http://d-nb.info/gnd/4012245-1/about/> .
+dbr:Differdange	owl:sameAs	ns32:rdf .
+@prefix dbpedia-fi:	<http://fi.dbpedia.org/resource/> .
+dbr:Differdange	owl:sameAs	dbpedia-fi:Differdange ,
+		<http://ru.dbpedia.org/resource/\u0414\u0438\u0444\u0444\u0435\u0440\u0434\u0430\u043D\u0436> .
+@prefix dbpedia-cs:	<http://cs.dbpedia.org/resource/> .
+dbr:Differdange	owl:sameAs	dbpedia-cs:Differdange ,
+		<http://lt.dbpedia.org/resource/Diferdan\u017Eas> .
+@prefix dbpedia-ca:	<http://ca.dbpedia.org/resource/> .
+dbr:Differdange	owl:sameAs	dbpedia-ca:Differdange ,
+		<http://ko.dbpedia.org/resource/\uB514\uD398\uB974\uB2F9\uC8FC> ,
+		<http://sws.geonames.org/2960651> .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Differdange	owl:sameAs	dbpedia-it:Differdange .
+@prefix dbpedia-ms:	<http://ms.dbpedia.org/resource/> .
+dbr:Differdange	owl:sameAs	dbpedia-ms:Differdange ,
+		<http://sws.geonames.org/2960652/> ,
+		<http://vo.dbpedia.org/resource/D\u00E9ifferdeng> .
+@prefix dbpedia-nn:	<http://nn.dbpedia.org/resource/> .
+dbr:Differdange	owl:sameAs	dbpedia-nn:Differdange ;
+	schema:sameAs	<http://viaf.org/viaf/129111958> ;
+	dbo:abstract	"Differdange (in lussemburghese D\u00E9ifferdeng, in tedesco Differdingen) \u00E8 un comune nel Lussemburgo sud-occidentale. Differdange \u00E8 una cittadina industriale da cui proviene la gran parte della produzione siderurgica lussemburghese; essa si estende lungo i confini tra il Belgio e la Francia. Situata nel cantone di Esch-sur-Alzette, che \u00E8 parte del distretto di Lussemburgo."@it ,
+		"Differdange (D\u00E9ifferdeng en luxemburgu\u00E9s) es una comuna del suroeste de Luxemburgo."@es ,
+		"Differdange (en luxembourgeois : D\u00E9ifferdeng et en allemand : Differdingen) est une ville du sud-ouest du Grand-Duch\u00E9 de Luxembourg et le chef-lieu de la commune portant le m\u00EAme nom. Situ\u00E9e dans le canton d'Esch-sur-Alzette, elle compte environ 24 300 habitants, ce qui en fait la 3e ville du Luxembourg."@fr ,
+		"\u0414\u0456\u0444\u0444\u0435\u0440\u0434\u0430\u043D\u0436 (\u043B\u044E\u043A\u0441\u0435\u043C\u0431. D\u00E9ifferdeng, \u0444\u0440. Differdange, \u043D\u0456\u043C. Differdingen) \u2014 \u043A\u043E\u043C\u0443\u043D\u0430 \u041B\u044E\u043A\u0441\u0435\u043C\u0431\u0443\u0440\u0433\u0443. \u0412\u0445\u043E\u0434\u0438\u0442\u044C \u0434\u043E \u0441\u043A\u043B\u0430\u0434\u0443 \u043A\u0430\u043D\u0442\u043E\u043D\u0443 \u0415\u0448-\u0441\u044E\u0440-\u0410\u043B\u044C\u0437\u0435\u0442\u0442 \u0432 \u043E\u043A\u0440\u0443\u0437\u0456 \u041B\u044E\u043A\u0441\u0435\u043C\u0431\u0443\u0440\u0433."@uk ,
+		"Differdange (luxemburgu\u00E8s D\u00E9ifferdeng, alemany Differdingen) \u00E9s una comuna i vila a l'est de Luxemburg, que forma part del cant\u00F3 d'Esch-sur-Alzette. \u00C9s la tercera ciutat m\u00E9s poblada de Luxemburg. Compr\u00E8n les viles de Differdange, Lasauvage, Niederkorn i Oberkorn. Limita al nord-oest amb Bascharage, al nord amb Sanem, a l'oest amb P\u00E9tange, al sud-oest amb Saulnes, al sud amb Hussigny-Godbrange i al sud-est amb Thil. Tamb\u00E9 hi ha la seu del  i la sala de concerts Aalt Stadhaus."@ca ,
+		"\u0414\u0438\u0444\u0444\u0435\u0440\u0434\u0430\u0301\u043D\u0436 (\u043B\u044E\u043A\u0441\u0435\u043C\u0431. D\u00E9ifferdeng, \u0444\u0440. Differdange, \u043D\u0435\u043C. Differdingen) \u2014 \u0433\u043E\u0440\u043E\u0434 \u0432 \u0433\u0435\u0440\u0446\u043E\u0433\u0441\u0442\u0432\u0435 \u041B\u044E\u043A\u0441\u0435\u043C\u0431\u0443\u0440\u0433, \u0440\u0430\u0441\u043F\u043E\u043B\u043E\u0436\u0435\u043D\u043D\u043E\u0435 \u0432 \u043E\u043A\u0440\u0443\u0433\u0435 \u041B\u044E\u043A\u0441\u0435\u043C\u0431\u0443\u0440\u0433. \u0412\u0445\u043E\u0434\u0438\u0442 \u0432 \u0441\u043E\u0441\u0442\u0430\u0432 \u043A\u0430\u043D\u0442\u043E\u043D\u0430  \u0438 \u044F\u0432\u043B\u044F\u0435\u0442\u0441\u044F \u0446\u0435\u043D\u0442\u0440\u043E\u043C \u043E\u0434\u043D\u043E\u0438\u043C\u0451\u043D\u043D\u043E\u0439 \u043A\u043E\u043C\u043C\u0443\u043D\u044B."@ru ,
+		"Differdange (Luxembourgish: D\u00E9ifferdeng pronounced [\u02C8d\u0259\u026A\u032Ff\u0250de\u014B], German: Differdingen) is a commune with town status in south-western Luxembourg, 17 miles (27 km) west from the country's capital. It lies near the borders with Belgium and France and it is located in the canton of Esch-sur-Alzette. With a population of around 26,000, Differdange is the country's third largest city. It is also the main town of the commune, and other towns within the commune include Lasauvage, Niederkorn, and Oberkorn. Differdange is an industrial town that was home to much of Luxembourg's steel production, much of its development occurred during its heyday. Today, Differdange still remains an important industrial center, with ArcelorMittal, the world's largest steel producer, retaining an important steel factory in the town. Notable landmarks in Differdange include the , an ancient Cistercian abbey dating back to 1235 and the Differdange Castle, located on a hill in the centre of the town, which dates from 1577 and is now used by Miami University. As such, Differdange is home to Miami University's Dolibois European Center, the University's European campus branch where students study abroad. Differdange is also home to football team FC Differdange 03."@en ,
+		"Differdange (Luxemburgs: D\u00E9ifferdeng; Duits: Differdingen) is een stad en een gemeente in het Luxemburgse Kanton Esch. De gemeente heeft een totale oppervlakte van 22,18 km2 en telde 20.065 inwoners op 1 januari 2007."@nl ,
+		"\u8FEA\u5F17\u7576\u65E5\uFF08\u6CD5\u8BED\uFF1ADifferdange\uFF1B\u5FB7\u8BED\uFF1ADifferdingen\uFF1B\u5362\u68EE\u5821\u8BED\uFF1AD\u00E9ifferdeng\uFF09\u662F\u5362\u68EE\u5821\u897F\u5357\u90E8\u7684\u4E00\u4E2A\u5177\u6709\u57CE\u5E02\u5730\u4F4D\u7684\u5E02\u9547 \uFF0C\u5C5E\u4E8E\u963F\u5C14\u6CFD\u7279\u6CB3\u7554\u57C3\u65BD\u53BF\uFF0C\u9762\u7A4D22\u5E73\u65B9\u516C\u91CC\uFF0C\u6D77\u62D4\u9AD8\u5EA6277\u81F3427\u7C73\u3002"@zh ,
+		"Differdange (luxemburgiska: D\u00E9ifferdeng, tyska: Differdingen) \u00E4r en kommun och stad i sydv\u00E4stra Luxemburg. Kommunen ligger i kantonen Esch-sur-Alzette. Den hade \u00E5r 2017, 25 402 inv\u00E5nare."@sv ,
+		"Differdange \u00E9 uma comuna de Luxemburgo com status de cidade, pertencente ao distrito de Luxemburgo e ao cant\u00E3o de Esch-sur-Alzette."@pt ,
+		"\uB514\uD398\uB974\uB2F9\uC8FC(\uD504\uB791\uC2A4\uC5B4: Differdange, \uB3C5\uC77C\uC5B4: Differdingen \uB514\uD398\uB974\uB529\uAC90[*], \uB8E9\uC148\uBD80\uB974\uD06C\uC5B4: D\u00E9ifferdeng)\uB294 \uB8E9\uC148\uBD80\uB974\uD06C \uB0A8\uC11C\uBD80\uC5D0 \uC704\uCE58\uD55C \uB3C4\uC2DC\uB85C \uBA74\uC801\uC740 22.18km2, \uB192\uC774\uB294 277~427m, \uC778\uAD6C\uB294 23,571\uBA85(2014\uB144 \uAE30\uC900), \uC778\uAD6C \uBC00\uB3C4\uB294 1,100\uBA85/km2\uC774\uB2E4. \uD589\uC815 \uAD6C\uC5ED\uC0C1\uC73C\uB85C\uB294 \uB8E9\uC148\uBD80\uB974\uD06C \uAD6C \uC5D0\uC288\uC26C\uB974\uC54C\uC81C\uD2B8 \uC8FC\uC5D0 \uC18D\uD558\uBA70 \uBCA8\uAE30\uC5D0, \uD504\uB791\uC2A4 \uAD6D\uACBD\uACFC \uAC00\uAE4C\uC6B4 \uD3B8\uC774\uB2E4. \uB8E9\uC148\uBD80\uB974\uD06C\uC758 \uCCA0\uAC15 \uC0B0\uC5C5\uC758 \uC911\uC2EC\uC9C0\uC774\uB2E4. \n* \uC2DC \uBB38\uC7A5"@ko ,
+		"Differdange (n\u011Bmecky Differdingen, lucembursky D\u00E9ifferdeng) je m\u011Bsto na jihoz\u00E1pad\u011B Lucemburska. Je t\u0159et\u00EDm nejv\u011Bt\u0161\u00EDm m\u011Bstem v zemi, \u017Eije v n\u011Bm p\u0159ibli\u017En\u011B 27 tis\u00EDc obyvatel. Differdange spolu s , ,  a \u010D\u00E1st\u00ED  tvo\u0159\u00ED jednu z obc\u00ED v r\u00E1mci kantonu Esch an der Alzette. M\u011Bsto le\u017E\u00ED na \u00FApat\u00ED  a prot\u00E9k\u00E1 j\u00EDm \u0159eka Chiers."@cs ,
+		"Differdange (bahasa Luksemburg: D\u00E9ifferdeng, bahasa Jerman: Differdingen) merupakan sebuah kota di Luksemburg. Kota ini letaknya di bagian selatan. Tepatnya di Kanton Esch-sur-Alzette. Pada tahun 2011, kota ini memiliki jumlah penduduk sebesar 20.979 jiwa dan memiliki luas wilayah 22,18 km\u00B2. Kota ini memiliki angka kepadatan penduduk 950 jiwa/km\u00B2."@in ,
+		"Differdingen (luxemburgisch D\u00E9ifferdeng', \u00F6rtlich D\u00E9ifferdang, franz\u00F6sisch Differdange) ist eine Stadt sowie eine Gemeinde im Gro\u00DFherzogtum Luxemburg. Sie geh\u00F6rt zum Kanton Esch an der Alzette. Die Stadt liegt im S\u00FCden von Luxemburg im Dreil\u00E4ndereck mit Belgien und Frankreich. Differdingen ist nach den St\u00E4dten Luxemburg und Esch an der Alzette die drittgr\u00F6\u00DFte Gemeinde des Landes und hat wie Esch einen Ausl\u00E4nderanteil von \u00FCber 50 Prozent. Bekannt ist die Stadt vor allem f\u00FCr ihre Stahlindustrie \u2013 Differdinger ist in der Bauwirtschaft ein Synonym f\u00FCr mittlere Stahltr\u00E4ger."@de ,
+		"Differdange \u2013 gmina ze statusem miejskim w po\u0142udniowo-zachodnim Luksemburgu, w dystrykcie Luksemburg, w kantonie Esch-sur-Alzette. Graniczy z Belgi\u0105 oraz Francj\u0105. Miasto Differdange, kt\u00F3re stanowi centrum gminy, zamieszkuje 5296 os\u00F3b. Inne miejscowo\u015Bci w gminie: Lasauvage, Niederkorn oraz Oberkorn."@pl ,
+		"Differdange (luxenburgeraz: D\u00E9ifferdeng, frantsesez: Differdange, alemanez: Differdingen) Luxenburgoko hiria da, Luxenburgoko barrutia eta  dagoena. Bertoko futbol taldeak FC Differdange 03 du izena."@eu ,
+		"\u062F\u064A\u0641\u0631\u062F\u0627\u0646\u062C (\u0628\u0627\u0644\u0644\u0648\u0643\u0633\u0645\u0628\u0648\u0631\u063A\u064A\u0629: D\u00E9ifferdeng\u060C \u0648\u0628\u0627\u0644\u0623\u0644\u0645\u0627\u0646\u064A\u0629: Differdingen) \u0647\u064A \u0628\u0644\u062F\u0629 \u0648\u0628\u0644\u062F\u064A\u0629 \u062A\u0642\u0639 \u0628\u0627\u0644\u0642\u0631\u0628 \u0645\u0646 \u0627\u0644\u062D\u062F\u0648\u062F \u0645\u0639 \u0643\u0644 \u0645\u0646 \u0628\u0644\u062C\u064A\u0643\u0627 \u0648\u0641\u0631\u0646\u0633\u0627 \u062C\u0646\u0648\u0628 \u063A\u0631\u0628 \u0644\u0648\u0643\u0633\u0645\u0628\u0648\u0631\u063A \u0639\u0644\u0649 \u0628\u0639\u062F 27 \u0643\u0645 (17 \u0645\u064A\u0644) \u0645\u0646 \u0627\u0644\u0639\u0627\u0635\u0645\u0629 \u0641\u064A \u0643\u0627\u0646\u062A\u0648\u0646 . \u064A\u0628\u0644\u063A \u0639\u062F\u062F \u0633\u0643\u0627\u0646 \u062F\u064A\u0641\u0631\u062F\u0627\u0646\u062C \u062D\u0648\u0627\u0644\u064A 26,000 \u0646\u0633\u0645\u0629\u060C \u0645\u0627 \u064A\u062C\u0639\u0644\u0647\u0627 \u062B\u0627\u0644\u062B \u0623\u0643\u0628\u0631 \u0645\u062F\u0646 \u0627\u0644\u0628\u0644\u0627\u062F. \u062A\u0639\u062F\u0651 \u062F\u064A\u0641\u0631\u062F\u0627\u0646\u062C \u0628\u0644\u062F\u0629 \u0635\u0646\u0627\u0639\u064A\u0629 \u062D\u064A\u062B \u0643\u0627\u0646\u062A \u0645\u0648\u0637\u0646\u0627\u064B \u0644\u0635\u0646\u0627\u0639\u0629 \u0627\u0644\u0635\u0644\u0628 \u0641\u064A \u0627\u0644\u0628\u0644\u0627\u062F\u060C \u0648\u0648\u0642\u0639 \u0645\u0639\u0638\u0645 \u0646\u0645\u0648 \u0627\u0644\u0645\u062F\u064A\u0646\u0629 \u062E\u0644\u0627\u0644 \u0641\u062A\u0631\u0629 \u0627\u0644\u0627\u0632\u062F\u0647\u0627\u0631 \u0627\u0644\u062A\u064A \u0639\u0627\u0634\u062A\u0647\u0627. \u0648\u0645\u0627 \u0632\u0627\u0644\u062A \u0627\u0644\u0628\u0644\u062F\u0629 \u062D\u062A\u0649 \u064A\u0648\u0645\u0646\u0627 \u0647\u0630\u0627 \u0645\u0631\u0643\u0632\u0627\u064B \u0635\u0646\u0627\u0639\u064A\u0627\u064B \u0647\u0627\u0645\u0627\u064B \u062D\u064A\u062B \u064A\u0648\u062C\u062F \u0641\u064A \u0627\u0644\u0628\u0644\u062F\u0629 \u0645\u0635\u0646\u0639 \u0644\u0644\u0635\u0644\u0628 \u062A\u0627\u0628\u0639 \u0644\u0634\u0631\u0643\u0629 \u0622\u0631\u0633\u064A\u0644\u0648\u0631\u0640 \u0645\u064A\u062A\u0627\u0644 \u0648\u0647\u064A \u0623\u0643\u0628\u0631 \u0634\u0631\u0643\u0629 \u0644\u0635\u0646\u0627\u0639\u0629 \u0627\u0644\u0635\u0644\u0628 \u0641\u064A \u0627\u0644\u0639\u0627\u0644\u0645."@ar ;
+	dbo:country	dbr:Luxembourg ;
+	dbp:leaderTitle	"Mayor"@en .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Differdange	dbo:populationTotalRanking	"102"^^xsd:positiveInteger ;
+	dbp:imageMap	"Map Differdange.PNG"@en ;
+	dbp:populationDensityRank	"of 102"@en ;
+	dbp:blankInfoSec	"LU0000202"@en ;
+	dbp:blankNameSec	dbr:Local_administrative_unit ;
+	dbp:centre	"Differdange"@en ;
+	dbp:imageShield	"Blason ville lu Differdange .svg"@en ;
+	dbp:n	<http://dbpedia.org/resource/K\u00E4erjeng> ,
+		<http://dbpedia.org/resource/P\u00E9tange> ;
+	dbp:shieldSize	100 ;
+	dbp:mapsize	200 ;
+	dbo:politicalLeader	dbr:Differdange__PoliticalFunction__1 ;
+	dbp:nativeName	"D\u00E9ifferdeng"@en ;
+	dbp:e	dbr:Sanem ;
+	dbp:se	"R\u00E9dange"@en .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Differdange	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Differdange?oldid=985819387&ns=0> ;
+	dbp:imageCaption	"City center of Differdange"@en ;
+	dbp:elevationMaxRank	"of 102"@en ;
+	dbp:elevationMinRank	"of 102"@en ;
+	dbo:type	dbr:List_of_communes_of_Luxembourg ;
+	dbp:settlementType	dbr:List_of_communes_of_Luxembourg ;
+	dbp:subdivisionName	<http://dbpedia.org/resource/Esch-sur-Alzette_(canton)> ;
+	dbp:utcOffset	"+1"@en ;
+	dbo:utcOffset	"+1" ,
+		"+2" ;
+	dbo:timeZone	dbr:Central_European_Time ,
+		dbr:Central_European_Summer_Time ;
+	dbp:name	"Differdange"@en ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Stahlwerk_Differdingen.jpg?width=300> ;
+	dbp:website	<http://www.differdange.lu> ;
+	dbp:s	"Hussigny-Godbrange"@en ;
+	dbp:w	"Hussigny-Godbrange"@en ,
+		dbr:Saulnes ;
+	dbp:nativeNameLang	"lb"@en ;
+	dbo:wikiPageExternalLink	<http://www.differdange.lu> ;
+	dbp:areaRank	"of 102"@en ;
+	dbp:timezone1Dst	dbr:Central_European_Summer_Time ;
+	dbp:populationRank	"of 102"@en ;
+	dbp:utcOffset1Dst	"+2"@en ;
+	dbo:originalName	"D\u00E9ifferdeng"@en .
+@prefix ns41:	<http://www.w3.org/2006/03/wn/wn20/instances/> .
+dbr:Differdange	dbp:wordnet_type	ns41:synset-commune-noun-1 ;
+	dbp:unitPref	"Metric"@en ;
+	dbp:subdivisionType	dbr:List_of_sovereign_states ,
+		dbr:Cantons_of_Luxembourg ;
+	dbp:populationDensityKm	"auto"@en ;
+	dbo:subdivision	<http://dbpedia.org/resource/Esch-sur-Alzette_(canton)> ;
+	dbp:mapCaption	"Map of Luxembourg with Differdange highlighted in orange, and the canton in dark red"@en ;
+	dbp:timezone	dbr:Central_European_Time ;
+	dbo:wikiPageID	2569512 ;
+	dbo:wikiPageRevisionID	985819387 ;
+	dbo:wikiPageWikiLink	dbr:Differdange_Castle ,
+		dbr:Local_administrative_unit ,
+		dbr:Luxembourg_City ,
+		dbc:Miami_University ,
+		<http://dbpedia.org/resource/Anna_of_Isenburg-B\u00FCdingen> ,
+		dbr:Georges_Hausemer ,
+		dbr:Roman_Catholic_Archdiocese_of_Luxembourg ,
+		<http://dbpedia.org/resource/Chaves,_Portugal> ,
+		dbr:Ferd_Lahure ,
+		<http://dbpedia.org/resource/1928_Summer_Olympics> ,
+		dbr:Hussigny-Godbrange ,
+		dbr:Steel_industry_in_Luxembourg ,
+		dbr:Summer_Olympic_Games ,
+		dbr:Roger_Menghi ,
+		<http://dbpedia.org/resource/1948_Summer_Olympics> ,
+		dbr:Alain_Anen ,
+		dbr:Rudy_Kugeler ,
+		dbr:ARBED ,
+		<http://dbpedia.org/resource/R\u00E9dange> ,
+		dbr:Cistercians ,
+		dbr:Jean-Claude_Hollerich ,
+		dbr:Central_European_Summer_Time ,
+		dbr:Central_European_Time ,
+		<http://dbpedia.org/resource/1976_Summer_Olympics> ,
+		<http://dbpedia.org/resource/Oxford,_Ohio> ,
+		dbr:Paul_Anen ,
+		<http://dbpedia.org/resource/Luxembourg_(Belgium)> ,
+		<http://dbpedia.org/resource/File:Mgr_JCL_Hollerich_cath_20111016.jpg> ,
+		dbr:FC_Differdange_03 ,
+		<http://dbpedia.org/resource/P\u00E9tange> ,
+		dbr:Paul_Feierstein ,
+		<http://dbpedia.org/resource/1972_Summer_Olympics> ,
+		dbr:Cistercian_architecture ,
+		dbc:Towns_in_Luxembourg ,
+		<http://dbpedia.org/resource/Moselle_(department)> ,
+		dbr:List_of_communes_of_Luxembourg ,
+		dbr:Ahlen ,
+		dbr:Roby_Hentges ,
+		dbr:ArcelorMittal ,
+		dbr:Nicholas_Muller ,
+		dbr:Miami_University_Dolibois_European_Center ,
+		dbr:France ,
+		dbr:Communes_of_Luxembourg ,
+		dbr:Fernand_Leischen ,
+		<http://dbpedia.org/resource/Category:Communes_in_Esch-sur-Alzette_(canton)> ,
+		dbr:Sister_city ,
+		dbr:List_of_sovereign_states ,
+		<http://dbpedia.org/resource/Fran\u00E7ois_Konter> ,
+		<http://dbpedia.org/resource/\u00C9mile_Kolb> ,
+		<http://dbpedia.org/resource/Siege_of_Luxembourg_(1684)> ,
+		<http://dbpedia.org/resource/\u00C9mile_Krieps> ,
+		<http://dbpedia.org/resource/\u00C9tienne_Bausch> ,
+		dbr:Nico_Helminger ,
+		dbr:Nicolas_May ,
+		dbr:Lorraine ,
+		<http://dbpedia.org/resource/1952_Summer_Olympics> ,
+		dbr:Fernand_Backes ,
+		dbr:Jean_Portante ,
+		dbr:Johny_Lahure ,
+		<http://dbpedia.org/resource/1960_Summer_Olympics> ,
+		dbr:I-beam ,
+		dbr:Abbess ,
+		dbr:Abbey ,
+		dbr:Bernard_Fischer ,
+		<http://dbpedia.org/resource/1924_Summer_Olympics> ,
+		dbr:List_of_towns_in_Luxembourg ,
+		dbr:Cantons_of_Luxembourg ,
+		dbr:Josiane_Kartheiser ,
+		dbr:Longwy ,
+		dbr:Niederkorn ,
+		dbr:Oberkorn ,
+		dbr:Hectare ,
+		dbr:Meurthe-et-Moselle ,
+		dbr:Michel_Maurer ,
+		dbr:Belgium ,
+		dbr:Meuse ,
+		dbr:Fred_Sunnen ,
+		<http://dbpedia.org/resource/File:Chiers_Charency-Vezin.jpg> ,
+		<http://dbpedia.org/resource/File:Deifferdengerpflegeheim1.jpg> ,
+		<http://dbpedia.org/resource/File:Differdange_steel_factory,_Luxembourg.jpg> ,
+		<http://dbpedia.org/resource/File:F\u00E9lix-Braz--w.jpg> ,
+		<http://dbpedia.org/resource/File:Josiane-Kartheiser--w.jpg> ,
+		<http://dbpedia.org/resource/File:Julien_Darui_(1947).png> ,
+		dbr:Maison_de_Soins_de_Differdange ,
+		<http://dbpedia.org/resource/File:Differdange_Castle7.JPG> ,
+		dbr:Fernand_Ciatti ,
+		dbr:Fiuminata ,
+		<http://dbpedia.org/resource/K\u00E4erjeng> ,
+		<http://dbpedia.org/resource/1936_Summer_Olympics> ,
+		dbr:Marcelle_Lentz-Cornette ,
+		dbr:Josy_Stoffel ,
+		dbr:Lasauvage ,
+		dbr:Yvonne_Useldinger ,
+		<http://dbpedia.org/resource/William_IV,_Grand_Duke_of_Luxembourg> ,
+		dbc:Differdange ,
+		dbr:Chiers ,
+		<http://dbpedia.org/resource/Esch-sur-Alzette_(canton)> ,
+		dbr:Julien_Darui ,
+		<http://dbpedia.org/resource/Waterloo,_Belgium> ,
+		dbr:Renaissance ,
+		dbr:Sanem ,
+		dbr:Miami_University ,
+		<http://dbpedia.org/resource/F\u00E9lix_Braz> ,
+		dbr:Saulnes ,
+		dbr:Gusty_Kemp ,
+		dbr:Arnold_Kieffer ,
+		dbc:Cities_in_Luxembourg ,
+		dbr:Luxembourg .
+@prefix dbt:	<http://dbpedia.org/resource/Template:> .
+dbr:Differdange	dbp:wikiPageUsesTemplate	dbt:Div_col_end ,
+		dbt:Reflist ,
+		dbt:Coord ,
+		dbt:IPA-lb ,
+		dbt:Luxembourg_commune_area ,
+		dbt:Luxembourg_commune_high ,
+		dbt:Luxembourg_commune_high_rank ,
+		dbt:Luxembourg_commune_area_rank ,
+		dbt:Luxembourg_commune_density_rank ,
+		dbt:Luxembourg_commune_mayor ,
+		dbt:Luxembourg_commune_population ,
+		dbt:Luxembourg_commune_low ,
+		dbt:Luxembourg_commune_low_rank ,
+		dbt:Luxembourg_commune_population_rank ,
+		dbt:Luxembourg_communes_statistics_year ,
+		dbt:Convert ,
+		dbt:Esch-sur-Alzette_commune_footer ,
+		dbt:See_also ,
+		dbt:Esch-geo-stub ,
+		dbt:Commons_category-inline ,
+		dbt:Authority_control ,
+		dbt:Flag ,
+		dbt:Infobox_settlement ,
+		dbt:Wikivoyage ,
+		dbt:Flagicon ,
+		dbt:Geographic_location ,
+		dbt:Div_col ;
+	dbo:wikiPageLength	"14702"^^xsd:nonNegativeInteger ;
+	dbp:imageSkyline	"Differdange Centre.jpg"@en .
+<http://dbpedia.org/resource/Greece_national_football_team_results_(2000\u201319)>	dbo:wikiPageWikiLink	dbr:Differdange .
+<http://dbpedia.org/resource/P\u00E9tange>	dbp:s	dbr:Differdange ;
+	dbo:wikiPageWikiLink	dbr:Differdange .
+dbr:Sport_in_Luxembourg	dbo:wikiPageWikiLink	dbr:Differdange .
+dbr:Chiers	dbo:wikiPageWikiLink	dbr:Differdange .
+<http://dbpedia.org/resource/1981\u201382_UEFA_Cup>	dbp:stadium	dbr:Differdange ;
+	dbo:wikiPageWikiLink	dbr:Differdange .
+<http://dbpedia.org/resource/List_of_Yes_concert_tours_(1980s\u201390s)>	dbo:wikiPageWikiLink	dbr:Differdange .
+dbr:Luxembourg_District	dbo:wikiPageWikiLink	dbr:Differdange .
+<http://dbpedia.org/resource/2019_in_Swedish_football>	dbp:location	dbr:Differdange ;
+	dbo:wikiPageWikiLink	dbr:Differdange .
+dbr:Lasauvage	dbo:wikiPageWikiLink	dbr:Differdange .
+dbr:Ilunga_Makabu	dbo:wikiPageWikiLink	dbr:Differdange .
+<http://dbpedia.org/resource/J\u0027adore_Hardcore>	dbo:wikiPageWikiLink	dbr:Differdange .
+dbr:Titelberg	dbo:wikiPageWikiLink	dbr:Differdange .
+dbr:Red_Lands	dbo:wikiPageWikiLink	dbr:Differdange .
+dbr:Romania_national_under-21_football_team_results	dbp:location	dbr:Differdange ;
+	dbo:wikiPageWikiLink	dbr:Differdange .
+dbr:Geography_of_Luxembourg	dbo:wikiPageWikiLink	dbr:Differdange .
+<http://dbpedia.org/resource/2013\u201314_UEFA_Europa_League_qualifying_phase_and_play-off_round>	dbp:stadium	dbr:Differdange ;
+	dbo:wikiPageWikiLink	dbr:Differdange .
+dbr:European_Capitals_and_Cities_of_Sport_Federation	dbo:wikiPageWikiLink	dbr:Differdange .
+<http://dbpedia.org/resource/2010_Team_Saxo_Bank_season>	dbo:wikiPageWikiLink	dbr:Differdange .
+<http://dbpedia.org/resource/2019\u201320_UEFA_Europa_League_qualifying_phase_and_play-off_round_(Main_Path)>	dbo:wikiPageWikiLink	dbr:Differdange .
+dbr:List_of_twin_towns_and_sister_cities_in_Germany	dbo:wikiPageWikiLink	dbr:Differdange .
+dbr:List_of_twin_towns_and_sister_cities_in_Luxembourg	dbo:wikiPageWikiLink	dbr:Differdange .
+<http://dbpedia.org/resource/F\u00E9lix_Braz>	dbo:birthPlace	dbr:Differdange ;
+	dbp:birthPlace	dbr:Differdange ;
+	dbo:wikiPageWikiLink	dbr:Differdange .
+dbr:Raymond_Strasser	dbo:birthPlace	dbr:Differdange ;
+	dbo:wikiPageWikiLink	dbr:Differdange .
+dbr:Roby_Hentges	dbo:birthPlace	dbr:Differdange ;
+	dbp:birthPlace	dbr:Differdange ;
+	dbo:wikiPageWikiLink	dbr:Differdange .
+dbr:Josiane_Kartheiser	dbo:birthPlace	dbr:Differdange ;
+	dbo:wikiPageWikiLink	dbr:Differdange .
+<http://dbpedia.org/resource/2019_UEFA_European_Under-21_Championship_qualification_Group_9>	dbp:stadium	dbr:Differdange ;
+	dbo:wikiPageWikiLink	dbr:Differdange .
+<http://dbpedia.org/resource/Luxembourg_National_Division_(men\u0027s_handball)>	dbo:wikiPageWikiLink	dbr:Differdange .
+dbr:Beer_in_Luxembourg	dbo:wikiPageWikiLink	dbr:Differdange .
+<http://dbpedia.org/resource/2004_Luxembourg_general_election>	dbo:wikiPageWikiLink	dbr:Differdange .
+dbr:Aalt_Stadhaus	dbo:wikiPageWikiLink	dbr:Differdange .
+dbr:Nordstad	dbo:wikiPageWikiLink	dbr:Differdange .
+<http://dbpedia.org/resource/List_of_members_of_the_Chamber_of_Deputies_of_Luxembourg_2009\u20132013>	dbo:wikiPageWikiLink	dbr:Differdange .
+dbr:List_of_castles_in_Luxembourg	dbo:wikiPageWikiLink	dbr:Differdange .
+<http://dbpedia.org/resource/List_of_members_of_the_Chamber_of_Deputies_of_Luxembourg_2004\u20132009>	dbo:wikiPageWikiLink	dbr:Differdange .
+dbr:El_Camino_Ocho_Tour	dbo:wikiPageWikiLink	dbr:Differdange .
+<http://dbpedia.org/resource/1978\u201379_European_Cup>	dbp:stadium	dbr:Differdange ;
+	dbo:wikiPageWikiLink	dbr:Differdange .
+<http://dbpedia.org/resource/2017\u201318_Zira_FK_season>	dbp:location	dbr:Differdange ;
+	dbo:wikiPageWikiLink	dbr:Differdange .
+<http://dbpedia.org/resource/2018\u201319_Gabala_FC_season>	dbp:location	dbr:Differdange ;
+	dbo:wikiPageWikiLink	dbr:Differdange .
+<http://dbpedia.org/resource/Z\u00E9non_Bernard>	dbo:wikiPageWikiLink	dbr:Differdange .
+dbr:Nicolas_Schmit	dbo:birthPlace	dbr:Differdange ;
+	dbp:birthPlace	dbr:Differdange ;
+	dbo:wikiPageWikiLink	dbr:Differdange .
+<http://dbpedia.org/resource/2012\u201313_Hapoel_Tel_Aviv_F.C._season>	dbp:location	dbr:Differdange ;
+	dbo:wikiPageWikiLink	dbr:Differdange .
+<http://dbpedia.org/resource/2007\u201308_Luxembourg_National_Division>	dbo:wikiPageWikiLink	dbr:Differdange .
+dbr:Narrow-gauge_railways_in_Luxembourg	dbo:wikiPageWikiLink	dbr:Differdange .
+dbr:Miami_University_Dolibois_European_Center	dbp:city	dbr:Differdange ;
+	dbo:city	dbr:Differdange ;
+	dbo:wikiPageWikiLink	dbr:Differdange .
+<http://dbpedia.org/resource/2009_Tour_de_Luxembourg>	dbo:wikiPageWikiLink	dbr:Differdange .
+<http://dbpedia.org/resource/2011_Tour_de_Luxembourg>	dbo:wikiPageWikiLink	dbr:Differdange .
+<http://dbpedia.org/resource/2012_Tour_de_Luxembourg>	dbo:wikiPageWikiLink	dbr:Differdange .
+<http://dbpedia.org/resource/1978\u201379_Real_Madrid_CF_season>	dbp:location	dbr:Differdange ;
+	dbo:wikiPageWikiLink	dbr:Differdange .
+<http://dbpedia.org/resource/2017\u201318_UEFA_Europa_League_qualifying_phase_and_play-off_round>	dbo:wikiPageWikiLink	dbr:Differdange .
+<http://dbpedia.org/resource/Luxembourg_national_football_team_results_(1910\u201359)>	dbp:location	dbr:Differdange ;
+	dbo:wikiPageWikiLink	dbr:Differdange .
+dbr:Global_Greens	dbo:wikiPageWikiLink	dbr:Differdange .
+dbr:Google_Street_View_in_Europe	dbo:wikiPageWikiLink	dbr:Differdange .
+@prefix ns43:	<http://dbpedia.org/resource/List_of_licensed_and_localized_editions_of_Monopoly:> .
+ns43:_Europe	dbo:wikiPageWikiLink	dbr:Differdange ;
+	dbp:space	dbr:Differdange .
+dbr:Germany_national_football_team_goal_records	dbo:wikiPageWikiLink	dbr:Differdange .
+<http://dbpedia.org/resource/Germany_national_football_team_results_(1908\u201342)>	dbo:wikiPageWikiLink	dbr:Differdange .
+<http://dbpedia.org/resource/1979\u201380_European_Cup>	dbp:stadium	dbr:Differdange ;
+	dbo:wikiPageWikiLink	dbr:Differdange .
+<http://dbpedia.org/resource/1980\u201381_UEFA_Cup>	dbp:stadium	dbr:Differdange ;
+	dbo:wikiPageWikiLink	dbr:Differdange .
+<http://dbpedia.org/resource/1981_UEFA_Cup_Final>	dbo:wikiPageWikiLink	dbr:Differdange .
+<http://dbpedia.org/resource/1984\u201385_UEFA_Cup>	dbp:stadium	dbr:Differdange ;
+	dbo:wikiPageWikiLink	dbr:Differdange .
+dbr:Benelux	dbo:wikiPageWikiLink	dbr:Differdange .
+dbr:List_of_cities_by_country_that_have_stolpersteine	dbo:wikiPageWikiLink	dbr:Differdange .
+<http://dbpedia.org/resource/2018\u201319_FC_Ufa_season>	dbp:location	dbr:Differdange ;
+	dbo:wikiPageWikiLink	dbr:Differdange .
+dbr:List_of_twin_towns_and_sister_cities_in_France	dbo:wikiPageWikiLink	dbr:Differdange .
+dbr:Grand_Ducal_Police	dbo:wikiPageWikiLink	dbr:Differdange .
+dbr:Georges_Bauer	dbo:birthPlace	dbr:Differdange ;
+	dbo:wikiPageWikiLink	dbr:Differdange .
+<http://dbpedia.org/resource/\u00C9mile_Kolb>	dbo:birthPlace	dbr:Differdange ;
+	dbo:wikiPageWikiLink	dbr:Differdange .
+<http://dbpedia.org/resource/\u00C9tienne_Bausch>	dbo:birthPlace	dbr:Differdange ;
+	dbo:wikiPageWikiLink	dbr:Differdange .
+<http://dbpedia.org/resource/2014_Tinkoff\u2013Saxo_season>	dbo:wikiPageWikiLink	dbr:Differdange .
+<http://dbpedia.org/resource/2011_Leopard_Trek_season>	dbo:wikiPageWikiLink	dbr:Differdange .
+<http://dbpedia.org/resource/Fran\u00E7ois_Bausch>	dbo:birthPlace	dbr:Differdange ;
+	dbp:birthPlace	dbr:Differdange ;
+	dbo:wikiPageWikiLink	dbr:Differdange .
+<http://dbpedia.org/resource/L\u0027essentiel_(newspaper)>	dbo:headquarter	dbr:Differdange ;
+	dbo:wikiPageWikiLink	dbr:Differdange .
+dbr:Paul_Anen	dbo:deathPlace	dbr:Differdange ;
+	dbo:wikiPageWikiLink	dbr:Differdange .
+dbr:Roger_Menghi	dbo:birthPlace	dbr:Differdange ;
+	dbo:wikiPageWikiLink	dbr:Differdange .
+dbr:Niederkorn	dbo:wikiPageWikiLink	dbr:Differdange .
+dbr:Stade_Municipal_de_la_Ville_de_Differdange	dbo:location	dbr:Differdange ;
+	dbo:wikiPageWikiLink	dbr:Differdange .
+dbr:Enzo_Mezzapesa	dbo:birthPlace	dbr:Differdange ;
+	dbp:birthPlace	dbr:Differdange ;
+	dbo:wikiPageWikiLink	dbr:Differdange .
+<http://dbpedia.org/resource/Esch-sur-Alzette_(canton)>	dbo:subdivision	dbr:Differdange ;
+	dbo:wikiPageWikiLink	dbr:Differdange .
+dbr:Nicholas_Muller	dbo:wikiPageWikiLink	dbr:Differdange .
+<http://dbpedia.org/resource/Pierre_Brasseur_(Luxembourg)>	dbo:wikiPageWikiLink	dbr:Differdange .
+dbr:List_of_football_stadiums_in_Luxembourg	dbo:wikiPageWikiLink	dbr:Differdange .
+<http://dbpedia.org/resource/Red_Boys_Differdange_(handball)>	dbo:wikiPageWikiLink	dbr:Differdange ;
+	dbp:ground	dbr:Differdange .

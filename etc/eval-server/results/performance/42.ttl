@@ -1,0 +1,1871 @@
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+dbr:Early_Middle_Ages	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:History_of_human_thought	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Europeans_in_Medieval_China	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+<http://dbpedia.org/resource/15th_century>	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Dominique_Parrenin	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+<http://dbpedia.org/resource/Theodore_K._Rabb>	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Cornell_University_Department_of_History	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+<http://dbpedia.org/resource/Diplomacy_(game)>	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Gog_and_Magog	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+<http://dbpedia.org/resource/Golden_Valley_High_School_(Bakersfield,_California)>	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+<http://dbpedia.org/resource/1783>	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Amerigame	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+@prefix dbp:	<http://dbpedia.org/property/> .
+<http://dbpedia.org/resource/Norman_J._W._Goda>	dbp:mainInterests	dbr:History_of_Europe ;
+	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Revolution	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Fernando_Gerassi	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Alex_Nesic	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:David_Farley	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Leland_Sage	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Robert_Lewis_Koehl	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Suffrage_in_Australia	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Frederic_Wakeman	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:History_of_Transnistria	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:History_of_Cyprus	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:History_of_Liechtenstein	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+<http://dbpedia.org/resource/History_of_Poland_(1795\u20131918)>	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:History_of_the_European_Union	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Napoleonic_era	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Princeton_University_Department_of_History	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+<http://dbpedia.org/resource/Arno_J._Mayer>	dbo:wikiPageWikiLink	dbr:History_of_Europe ;
+	dbp:fields	dbr:History_of_Europe .
+dbr:The_Historical_Journal	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Metapedia	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+<http://dbpedia.org/resource/Essai_sur_les_m\u0153urs_et_l\u0027esprit_des_nations>	dbp:subject	dbr:History_of_Europe ;
+	dbo:nonFictionSubject	dbr:History_of_Europe ;
+	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Laura_Kolbe	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Heikki_Kirkinen	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Robert_Gerwarth	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+<http://dbpedia.org/resource/Robert_F._Barkowski>	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Katharine_Keats-Rohan	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+<http://dbpedia.org/resource/The_Age_of_Revolution:_Europe_1789\u20131848>	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Gregory_Melleuish	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+<http://dbpedia.org/resource/The_Age_of_Capital:_1848\u20131875>	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Steven_Pincus	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Mohammad_Fazlhashemi	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:David_Stahel	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Christianity_in_the_Safavid_Empire	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Ardashes_Der-Khachadourian	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Antichthones	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+<http://dbpedia.org/resource/Christian_Hartmann_(historian)>	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Robert_Darnton	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+<http://dbpedia.org/resource/1920s_Berlin>	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+<http://dbpedia.org/resource/Antoni_M\u0105czak>	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Transition_from_Renaissance_to_Baroque_in_instrumental_music	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Johan_Schot	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Liliana_Segre	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Ruth_Harris	dbp:subDiscipline	dbr:History_of_Europe ;
+	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Zara_Steiner	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+<http://dbpedia.org/resource/Gerd_R._Uebersch\u00E4r>	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Aristotle_Kallis	dbp:mainInterests	dbr:History_of_Europe ;
+	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Elena_Maria_Vidal	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Greater_Croatia	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:History_of_Croatia	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:History_of_North_Macedonia	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+<http://dbpedia.org/resource/G\u00E9za_Gy\u00F3ni>	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+<http://dbpedia.org/resource/Women\u0027s_suffrage_in_Australia>	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Ben_Linus	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Contemporary_European_History	dbo:academicDiscipline	dbr:History_of_Europe ;
+	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+<http://dbpedia.org/resource/Early_Medieval_Europe_(journal)>	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Cultural_area	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+<http://dbpedia.org/resource/Bible_moralis\u00E9e>	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:List_of_states_during_Late_Antiquity	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Peter_Lieb	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+<http://dbpedia.org/resource/Ben_H._Shepherd>	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Congregation_Albert	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Stage_combat	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+<http://dbpedia.org/resource/Richard_Hughes_(British_writer)>	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:AP_European_History	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Walter_Shapiro	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:History_of_Austria	rdfs:seeAlso	dbr:History_of_Europe ;
+	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Ma_Keyao	dbp:subDiscipline	dbr:History_of_Europe ;
+	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Timeline_of_science_and_engineering_in_the_Muslim_world	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+<http://dbpedia.org/resource/International_relations,_1648\u20131814>	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+<http://dbpedia.org/resource/St._Mary\u0027s_Church,_Southampton>	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:List_of_wars_involving_Lithuania	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+<http://dbpedia.org/resource/Radziwi\u0142\u0142_family>	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Ludwig_Riess	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+@prefix ns4:	<http://dbpedia.org/resource/Europe:> .
+ns4:_A_History	dbp:subject	dbr:History_of_Europe ;
+	dbo:nonFictionSubject	dbr:History_of_Europe ;
+	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Consequences_of_the_Black_Death	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+<http://dbpedia.org/resource/Felix_R\u00F6mer>	dbp:mainInterests	dbr:History_of_Europe ;
+	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Laura_Schor	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Green_Mountain_High_School	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:An_Economic_and_Social_History_of_Europe	dbp:subject	dbr:History_of_Europe ;
+	dbo:nonFictionSubject	dbr:History_of_Europe ;
+	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Herbert_Baxter_Adams_Prize	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Cameron_Munter	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Sherman_Kent	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Garrett_Mattingly	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+<http://dbpedia.org/resource/Earl_A._Powell_III>	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Classical_antiquity	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Wakefield_Country_Day_School	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Sultanate_of_Bagirmi	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+<http://dbpedia.org/resource/J\u00FCrgen_Matth\u00E4us>	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Matuschka	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Monarchy_of_Thailand	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Iain_McCalman	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Change_and_continuity	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:House_of_Rohan	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Prehistory_of_Anatolia	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Rozenkwit	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Jacek_Proszyk	dbo:wikiPageWikiLink	dbr:History_of_Europe ;
+	dbp:fields	dbr:History_of_Europe .
+dbr:Geisslerlieder	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Outline_of_the_Middle_Ages	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Women_in_Europe	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Nikolaus_Wachsmann	dbp:discipline	dbr:History_of_Europe ;
+	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Horst_Boog	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Outline_of_the_history_of_Europe	dbo:wikiPageWikiLink	dbr:History_of_Europe ;
+	dbo:wikiPageRedirects	dbr:History_of_Europe .
+dbr:History_of_europe	dbo:wikiPageWikiLink	dbr:History_of_Europe ;
+	dbo:wikiPageRedirects	dbr:History_of_Europe .
+dbr:HistoryOfEurope	dbo:wikiPageWikiLink	dbr:History_of_Europe ;
+	dbo:wikiPageRedirects	dbr:History_of_Europe .
+dbr:The_Roots_of_Europe	dbo:wikiPageWikiLink	dbr:History_of_Europe ;
+	dbo:wikiPageRedirects	dbr:History_of_Europe .
+dbr:Modern_Europe	dbo:wikiPageWikiLink	dbr:History_of_Europe ;
+	dbo:wikiPageRedirects	dbr:History_of_Europe .
+dbr:The_History_of_Europe	dbo:wikiPageWikiLink	dbr:History_of_Europe ;
+	dbo:wikiPageRedirects	dbr:History_of_Europe .
+dbr:European_History	dbo:wikiPageWikiLink	dbr:History_of_Europe ;
+	dbo:wikiPageRedirects	dbr:History_of_Europe .
+dbr:European_Middle_Ages	dbo:wikiPageWikiLink	dbr:History_of_Europe ;
+	dbo:wikiPageRedirects	dbr:History_of_Europe .
+dbr:Classical_Europe	dbo:wikiPageWikiLink	dbr:History_of_Europe ;
+	dbo:wikiPageRedirects	dbr:History_of_Europe .
+dbr:Europe	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Norman_Davies	dbp:field	dbr:History_of_Europe ;
+	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Norman_Stone	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Ancient_history	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Genetic_history_of_Europe	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:History_of_Western_civilization	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Outline_of_Europe	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Migration_Period	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+<http://dbpedia.org/resource/Rudolf_V._Perina>	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Middle_Ages	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Scotland	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:History_of_Bulgaria	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:History_of_the_Balkans	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:History_of_the_Czech_lands	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:History_of_the_Jews_in_Europe	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:List_of_Dewey_Decimal_classes	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Prehistory_of_Southeastern_Europe	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Culture_of_Europe	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:History_of_Europe	rdf:type	owl:Thing ;
+	rdfs:label	"\u6B27\u6D32\u5386\u53F2"@zh ,
+		"Historia de Europa"@es ,
+		"\u0418\u0441\u0442\u043E\u0440\u0438\u044F \u0415\u0432\u0440\u043E\u043F\u044B"@ru ,
+		"\u062A\u0627\u0631\u064A\u062E \u0623\u0648\u0631\u0648\u0628\u0627"@ar ,
+		"Geschichte Europas"@de ,
+		"\u30E8\u30FC\u30ED\u30C3\u30D1\u53F2"@ja ,
+		"Storia dell'Europa"@it ,
+		"Europas historia"@sv ,
+		"Historia Europy"@pl ,
+		"D\u011Bjiny Evropy"@cs ,
+		"Hist\u00F2ria d'Europa"@ca ,
+		"Historio de E\u016Dropo"@eo ,
+		"Hist\u00F3ria da Europa"@pt ,
+		"Histoire de l'Europe"@fr ,
+		"\uC720\uB7FD\uC758 \uC5ED\uC0AC"@ko ,
+		"History of Europe"@en ,
+		"\u0406\u0441\u0442\u043E\u0440\u0456\u044F \u0404\u0432\u0440\u043E\u043F\u0438"@uk ,
+		"Geschiedenis van Europa"@nl ,
+		"Europako historia"@eu ,
+		"Sejarah Eropa"@in ;
+	rdfs:comment	"Prvn\u00EDm p\u0159\u00EDslu\u0161n\u00EDky lidsk\u00E9ho rodu v Evrop\u011B byli Homo antecessor, kte\u0159\u00ED do n\u00ED pronikli p\u0159ed 800 tis\u00EDci lety a p\u0159ed 600 tis\u00EDci lety se vyvinuli v Homo heidelbergensis a ti zas pod vlivem sni\u017Euj\u00EDc\u00EDch se teplot p\u0159ed 250 tis\u00EDci lety na Homo neanderthalensis. Stali se nositeli kultur jako Micoquien,  a  a p\u0159ed 70 tis\u00EDci lety os\u00EDdlili i P\u0159edn\u00ED v\u00FDchod a st\u0159edn\u00ED Asii. Prvn\u00ED Homo sapiens v Evrop\u011B se za\u010Dali nejsp\u00ED\u0161 \u0161\u00ED\u0159it p\u0159ed 45 tis\u00EDci lety St\u0159edomo\u0159\u00EDm a na Balk\u00E1n. P\u0159ibli\u017En\u011B p\u0159ed 36 500 lety pak p\u0159ich\u00E1z\u00ED ze st\u0159edn\u00ED Asie dal\u0161\u00ED populace Homo sapiens naz\u00FDvan\u00E1 kroma\u0148onci a zakl\u00E1d\u00E1 kulturu aurignacien a b\u011Bhem interglaci\u00E1lu p\u0159ed 29 tis\u00EDci lety z Arabsk\u00E9ho poloostrova nositel\u00E9 kultury gravettien. V t\u00E9to dob\u011B, nejsp\u00ED\u0161 pod vlivem p\u0159e\u010D\u00EDslen\u00ED nov\u011B p\u0159\u00EDchoz\u00EDmi vym\u00EDraj\u00ED neandrt\u00E1lci. V obdob\u00ED 22 \u2013 10 tis\u00EDci lety n\u00E1s"@cs ,
+		"La historia de Europa se refiere al conjunto de sucesos relativos al continente europeo, desde que fue poblado por los primeros seres humanos hasta la actualidad. El Homo sapiens habr\u00EDa aparecido hace unos 130.000 a\u00F1os en \u00C1frica, seg\u00FAn la opini\u00F3n cient\u00EDfica mayoritaria. La llegada del Homo sapiens a Europa podr\u00EDa haberse dado desde el Cercano Oriente a Europa, donde se asentaron entre 40.000 y 25.000 a. C. (Paleol\u00EDtico Superior).\u200B"@es ,
+		"\u0643\u0644\u0645\u0629 \u0623\u0648\u0631\u0648\u0628\u0627 \u062A\u0631\u062C\u0639 \u0644\u0627\u0633\u0645 \u0625\u064A\u0631\u0648\u0628\u0627 \u0627\u0628\u0646\u0629 \u0645\u062F\u064A\u0646\u0629 \u0635\u0648\u0631 \u0641\u064A \u0644\u0628\u0646\u0627\u0646 (\u0628\u0627\u0644\u0625\u0646\u062C\u0644\u064A\u0632\u064A\u0629: Phoenix) \u0648\u062A\u0642\u0648\u0644 \u0627\u0644\u0623\u0633\u0627\u0637\u064A\u0631 \u0627\u0644\u0625\u063A\u0631\u064A\u0642\u064A\u0629 \u0623\u0646 \u0627\u0644\u062A\u0633\u0645\u064A\u0629 \u062A\u0631\u062C\u0639 \u0644\u0643\u0644\u0645\u0629 \u0625\u064A\u0631\u0628 (\u0628\u0627\u0644\u0625\u0646\u062C\u0644\u064A\u0632\u064A\u0629: Ereb) \u0627\u0644\u0641\u064A\u0646\u064A\u0642\u064A\u0629 \u0627\u0644\u062A\u064A \u0645\u0639\u0646\u0627\u0647\u0627 \u063A\u0631\u0648\u0628 \u0627\u0644\u0634\u0645\u0633 \u0627\u0644\u0623\u0645\u064A\u0631\u0629 \u0627\u0644\u0641\u064A\u0646\u064A\u0641\u064A\u0651\u0629 \u0645\u0646 \u0634\u0648\u0627\u0637\u0626 \u0635\u0648\u0631 \u0641\u064A \u062C\u0646\u0648\u0628 \u0644\u0628\u0646\u0627\u0646 \u0627\u0644\u062A\u064A \u0623\u062D\u0628\u0647\u0627 \u0632\u064A\u0648\u0633 \u0648\u0623\u0635\u0628\u062D\u062A \u0623\u0634\u0647\u0631 \u0639\u0634\u064A\u0642\u0627\u062A\u0647 \u0648\u0633\u0645\u0649 \u0645\u0645\u0644\u0643\u062A\u0647 \u0623\u064A \u0642\u0627\u0631\u0629 \u0623\u0648\u0631\u0648\u0628\u0627 \u0628\u0627\u0633\u0645\u0647\u0627. \u0648\u0623\u0645\u0627 \u0627\u0644\u0642\u0627\u0631\u0629 \u0623\u0648\u0631\u0648\u0628\u0627 \u0641\u062A\u0639\u062A\u0628\u0631 \u0645\u0631\u0643\u0632\u0627\u064B \u0647\u0627\u0645\u0627\u064B \u0644\u0644\u062B\u0642\u0627\u0641\u0629 \u0648\u0627\u0644\u0627\u0642\u062A\u0635\u0627\u062F. \u062A\u0631\u062C\u0639 \u0645\u0639\u0638\u0645 \u0627\u0644\u0644\u063A\u0627\u062A \u0627\u0644\u0623\u0648\u0631\u0628\u064A\u0629 \u0625\u0644\u0649  \u0645\u0627\u0639\u062F\u0627 \u0644\u063A\u0629 \u0648\u064A\u0644\u0632 \u0648\u0627\u0633\u0643\u062A\u0644\u0646\u062F\u0627 \u0648\u0625\u064A\u0631\u0644\u0646\u062F\u0629 \u0648\u0628\u0631\u064A\u0637\u0627\u0646\u064A\u0627. \u0644\u0623\u0646 \u0623\u0635\u0644 \u0644\u063A\u062A\u0647\u0645 \u0647\u064A \u0627\u0644\u0644\u063A\u0629 \u0627\u0644\u0633\u0644\u062A\u064A\u0629."@ar ,
+		"Sejarah Eropa dimulai dari sejak manusia pertama menghuni daratan Eropa pada zaman prasejarah hingga saat ini. Untuk prasejarah Eropa, manusia mulai masuk ke Eropa pada Zaman Batu Tua (Paleolitikum). Penerapan pertanian sekitar tahun 7000 SM mengantar manusia masuk Zaman Batu Muda (Neolitikum). Neolitikum di Eropa berlangsung selama 4000 tahun bersamaan dengan tersebarnya budaya penggunaan logam ke seluruh benua. Kemajuan teknologi selama zaman prasejarah datang melalui orang-orang Mediterania, menyebar secara bertahap ke arah barat laut. Beberapa peradaban paling terkenal dari prasejarah Eropa adalah peradaban Minoa dan Mykenai, yang berkembang selama Zaman Perunggu sampai  dalam waktu yang singkat sekitar tahun 1200 SM."@in ,
+		"\uC720\uB7FD\uC758 \uC5ED\uC0AC \uB610\uB294 \uC720\uB7FD\uC0AC\uB294 \uC120\uC0AC \uC2DC\uB300\uBD80\uD130 \uD604\uB300\uAE4C\uC9C0 \uC720\uB7FD\uC5D0 \uAC70\uC8FC\uD55C \uBBFC\uC871\uC5D0 \uB300\uD574 \uB2E4\uB8EC\uB2E4. \uC2E0\uC11D\uAE30 \uC2DC\uB300\uACFC \uC778\uB3C4-\uC720\uB7FD\uC5B4\uC871\uC744 \uC0AC\uC6A9\uD558\uB294 \uBD80\uC871\uC758 \uC774\uB3D9 \uAE30\uAC04 \uB3D9\uC548 \uC720\uB7FD \uB300\uB959\uC5D0\uB294 \uB3D9\uCABD\uACFC \uB3D9\uB0A8\uCABD\uC73C\uB85C\uBD80\uD130 \uC778\uAC04\uC774 \uC720\uC785\uB418\uC5C8\uACE0, \uC911\uC694\uD55C \uBB38\uD654\uC801, \uBB3C\uC9C8\uC801 \uAD50\uB958\uAC00 \uBC1C\uC0DD\uD558\uC600\uB2E4. \uACE0\uC804 \uACE0\uB300\uB85C \uC54C\uB824\uC9C4 \uC2DC\uAE30\uB294 \uACE0\uB300 \uADF8\uB9AC\uC2A4 \uB3C4\uC2DC \uAD6D\uAC00\uC758 \uBC1C\uC0DD\uACFC \uD568\uAED8 \uC2DC\uC791\uB418\uC5C8\uACE0, \uC774\uD6C4 \uB85C\uB9C8 \uC81C\uAD6D\uC774 \uC9C0\uC911\uD574 \uC9C0\uC5ED\uC744 \uC9C0\uBC30\uD558\uAC8C \uB418\uC5C8\uB2E4. \uAE30\uC6D0\uD6C4 476\uB144 \uB85C\uB9C8\uC758 \uBA78\uB9DD\uC73C\uB85C \uC911\uC138\uAC00 \uC2DC\uC791\uB418\uC5C8\uB2E4. 14\uC138\uAE30\uAC00 \uC2DC\uC791\uB418\uBA74\uC11C \uC9C0\uC2DD\uC758 \uB974\uB124\uC0C1\uC2A4\uB294 \uACFC\uD559\uACFC \uC2E0\uD559\uC5D0 \uB300\uD55C \uC804\uD1B5\uC801\uC778 \uACAC\uD574\uC5D0 \uB3C4\uC804\uD558\uC600\uB2E4. \uB3D9\uC2DC\uC5D0 \uC885\uAD50 \uAC1C\uD601\uC73C\uB85C \uB3C5\uC77C, \uC2A4\uCE78\uB514\uB098\uBE44\uC544, \uC601\uAD6D\uC5D0 \uAC1C\uC2E0\uAD50\uD68C\uAC00 \uC138\uC6CC\uC84C\uB2E4. 1800\uB144 \uC774\uD6C4, \uC0B0\uC5C5 \uD601\uBA85\uC740 \uC601\uAD6D\uACFC \uC11C\uC720\uB7FD\uC5D0 \uBC88\uC601\uC744 \uAC00\uC838\uB2E4 \uC8FC\uC5C8\uACE0, \uD328\uAD8C\uAD6D\uB4E4\uC740 \uC544\uBA54\uB9AC\uCE74\uC640 \uC544\uD504\uB9AC\uCE74 \uB300\uBD80\uBD84\uC758 \uC9C0\uC5ED\uACFC \uC544\uC2DC\uC544\uC758 \uC77C\uBD80 \uC9C0\uC5ED\uC5D0 \uC2DD\uBBFC\uC9C0\uB97C \uAC74\uC124\uD558\uC600\uB2E4. 20\uC138\uAE30\uC5D0\uB294 \uC81C1\uCC28 \uC138\uACC4 \uB300\uC804\uACFC \uC81C2\uCC28 \uC138\uACC4 \uB300\uC804\uC73C\uB85C \uB300\uB7C9 \uC0B4\uC0C1\uC774 \uBC1C\uC0DD\uD558\uC600\uACE0, 1947\uB144\uBD80\uD130 1989\uB144\uAE4C\uC9C0 \uB0C9\uC804\uC740 \uC720\uB7FD\uC758 \uC9C0\uC815\uD559\uC744 \uC9C0\uBC30\uD558\uC600\uB2E4."@ko ,
+		"La historio de E\u016Dropo referencas al la serio de okazinta\u0135oj relativaj al la E\u016Dropa kontinento, ekde kiam \u011Di estis lo\u011Data de la unuaj homoj al la aktualo. La Homo sapiens \u015Dajne aperis anta\u016D \u0109irka\u016D 130 000 jaroj en Afriko, la\u016D la majoritata scienca opinio. La alveno de la Homo sapiens al E\u016Dropo eble okazis el Proksima Oriento al E\u016Dropo, kie ili setlis inter 40 000 kaj 25 000 a.K. (Supra Paleolitiko)."@eo ,
+		"La hist\u00F2ria d'Europa es refereix al conjunt de successos relatius al continent europeu, des que va ser poblat pels primers \u00E9ssers humans fins a l'actualitat. L'Homo sapiens hauria aparegut fa uns 130.000 anys a \u00C0frica, segons l'opini\u00F3 cient\u00EDfica majorit\u00E0ria. L'arribada de l'Homo sapiens a Europa podria haver-se donat des del Pr\u00F2xim Orient a Europa, on es van assentar entre 40.000 i 25.000 aC (paleol\u00EDtic superior)."@ca ,
+		"Die Geschichte Europas ist die Geschichte der Menschen auf dem europ\u00E4ischen Kontinent, von dessen erster Besiedlung bis zur Gegenwart. Die klassische Antike begann im antiken Griechenland, das im Allgemeinen als der Beginn der westlichen Zivilisation angesehen wird und einen immensen Einfluss auf Sprache, Politik, Erziehungssysteme, Philosophie, Naturwissenschaften und K\u00FCnste aus\u00FCbte. Die griechische Kultur, die sich w\u00E4hrend des Hellenismus \u00FCber weite Teile der \u00F6stlichen Mittelmeerwelt ausgebreitet hatte, wurde vom R\u00F6mischen Reich \u00FCbernommen, das sich nach der Eroberung Italiens seit dem 3. Jahrhundert v. Chr. von Italien aus nach und nach \u00FCber den gesamten Mittelmeerraum ausbreitete und im fr\u00FChen 2. Jahrhundert n. Chr. seine gr\u00F6\u00DFte Ausdehnung erreichte. Der r\u00F6mische Kaiser Konstantin der "@de ,
+		"L\u2019histoire de l'Europe, et surtout de l\u2019Europe m\u00E9ridionale, est une des parties les mieux document\u00E9es, \u00E9tudi\u00E9es et connues de l\u2019histoire mondiale, pour quatre raisons : \n* la g\u00E9ologie fait affleurer des roches en de nombreux endroits, ce qui a permis tr\u00E8s t\u00F4t les constructions en pierre ; \n* les climats permettent la bonne conservation de nombreux sites arch\u00E9ologiques ; \n* l\u2019\u00E9criture s\u2019y est t\u00F4t impos\u00E9e et de nombreux documents \u00E9crits se sont conserv\u00E9s ; \n* les Europ\u00E9ens ont eu t\u00F4t le souci de transcrire leurs histoires (H\u00E9rodote, Thucydide, Strabon, Tacite...)."@fr ,
+		"\u6B27\u6D32\u5386\u53F2\u6700\u65E9\u53EF\u4EE5\u8FFD\u6EAF\u5230\u516C\u5143\u524D3\u4E075\u5343\u5E74\uFF08\u751A\u81F3\u662F\u4E00\u767E\u842C\u5E74\u524D\uFF09\u7684\u65E7\u77F3\u5668\u65F6\u4EE3\uFF0C\u5DF2\u7ECF\u6709\u4EBA\u7C7B\u5C45\u4F4F\u9057\u8FF9\u3002\u5728\u524D7000\u5E74\u7684\u65B0\u77F3\u5668\u65F6\u4EE3\u65E9\u671F\u51FA\u73B0\u4E86\u5B9A\u5C45\u70B9\u3001\u519C\u8015\u6280\u672F\u548C\u9A6F\u517B\u5BB6\u755C\u3002\u4ECE\u6700\u65E9\u6709\u6587\u5B57\u8BB0\u8F7D\u7684\u6587\u660E\u622A\u81F3\u516C\u5143\u524D1200\u5E74\u6587\u660E\u6682\u65F6\u5012\u9000\u6D88\u5931\u7684\u65F6\u671F\u79F0\u4E3A\u9752\u94DC\u65F6\u4EE3\uFF0C\u94DC\u662F\u5F53\u65F6\u5236\u4F5C\u5DE5\u5177\u548C\u6B66\u5668\u7684\u4E3B\u8981\u91D1\u5C5E\u6750\u6599\u3002\u77F3\u5668\u65F6\u4EE3\u4E0E\u9752\u94DC\u65F6\u4EE3\u79F0\u4E3A\u6B27\u6D32\u7684\u53F2\u524D\u65F6\u671F\u3002\u897F\u5143\u524D3000\u5E74\u5DE6\u53F3\uFF0C\u5E0C\u81D8\u53CA\u611B\u7434\u6D77\u5217\u5CF6\u9032\u5165\u9752\u9285\u6642\u4EE3\uFF0C\u5176\u4E2D\u7684\u4EE3\u8868\u662F\u7C73\u8AFE\u65AF\u6587\u660E\u8207\u9081\u932B\u5C3C\u6587\u660E\u3002 \u6B27\u6D32\u53E4\u5178\u65F6\u671F\u4ECE\u524D9\u4E16\u7D00\u53E4\u5E0C\u81D8\u8A9E\u518D\u6B21\u51FA\u73B0\u5F00\u59CB\u3002\u7F57\u9A6C\u5171\u548C\u56FD\u4E8E\u524D509\u5E74\u5EFA\u7ACB\u3002\u7F57\u9A6C\u4EBA\u5C06\u7586\u57DF\u62D3\u5C55\u81F3\u6574\u4E2A\u610F\u5927\u5229\uFF0C\u968F\u540E\u662F\u6574\u4E2A\u5730\u4E2D\u6D77\u5468\u8FB9\u548C\u897F\u6B27\u3002\u7F57\u9A6C\u5E1D\u56FD\u7684\u9886\u571F\u4E8E\u516C\u5143117\u5E74\u5230\u8FBE\u6700\u5927\u3002313\u5E74\uFF0C\u57FA\u7763\u6559\u5728\u541B\u58EB\u5766\u4E01\u5927\u5E1D\u6CBB\u4E0B\u5408\u6CD5\u5316\u3002\u53EA\u662F\u51E0\u4E2A\u4E16\u4EE3\u540E\uFF0C\u57FA\u7763\u6559\u5C31\u6210\u4E3A\u5E1D\u56FD\u7684\u56FD\u6559\u3002\u7F85\u99AC\u5E1D\u570B\u7684\u8870\u843D\uFF0C\u6A19\u8A8C\u8457\u53E4\u5178\u6642\u4EE3\u7684\u7D42\u7D50\u548C\u6B50\u6D32\u4E2D\u4E16\u7D00\u7684\u958B\u59CB\u3002395\u5E74\uFF0C\u7F57\u9A6C\u5E1D\u56FD\u4E00\u5206\u4E3A\u4E8C\u3002\u968F\u5373\u86EE\u65CF\u90E8\u843D\u5F00\u59CB\u5165\u4FB5\u897F\u7F57\u9A6C\u5E1D\u56FD\u3002\u897F\u54E5\u7279\u4EBA\u662F\u9996\u5148\u5411\u5357\u4E0E\u5411\u897F\u8D8A\u8FC7\u7F57\u9A6C\u56FD\u5883\u7EBF\u8FDB\u5165\u524D\u7F57\u9A6C\u5E1D\u56FD\u9886\u571F\u7684\u90E8\u843D\u4E4B\u4E00\uFF0C\u5E76\u4E8E5\u4E16\u7EAA\u521D\uFF0C\u4E09\u5EA6\u56F4\u653B\u7F57\u9A6C\u3002418\u5E74\uFF0C\u5728\u539F\u7F57\u9A6C\u5E1D\u56FD\u5883\u5185\u5EFA\u7ACB\u897F\u54E5\u7279\u738B\u56FD\u3002476\u5E74\uFF0C\u6700\u540E\u4E00\u4E2A\u897F\u7F57\u9A6C\u5E1D\u56FD\u7687\u5E1D\u7F57\u6155\u8DEF\u65AF\u00B7\u5965\u53E4\u65AF\u90FD\u88AB\u5E9F\u9EDC\uFF0C\u6B27\u6D32\u8FDB\u5165\u4E2D\u4E16\u7EAA\u65F6\u671F\u3002"@zh ,
+		"Per storia dell'Europa si intende convenzionalmente la storia dell'omonimo continente e dei popoli che l'hanno abitato e che lo abitano. In un'accezione pi\u00F9 ristretta per storia dell'Europa si intende invece la storia dell'Unione europea, dalla creazione della Comunit\u00E0 economica europea con i trattati di Roma (1957) fino a oggi."@it ,
+		"\u0406\u0441\u0442\u043E\u0440\u0456\u044F \u0404\u0432\u0440\u043E\u043F\u0438 \u043E\u043F\u0438\u0441\u0443\u0454 \u0456\u0441\u0442\u043E\u0440\u0456\u044E \u0437\u0430\u0441\u0435\u043B\u0435\u043D\u043D\u044F \u043B\u044E\u0434\u044C\u043C\u0438 \u0404\u0432\u0440\u043E\u043F\u0435\u0439\u0441\u044C\u043A\u043E\u0433\u043E \u043A\u043E\u043D\u0442\u0438\u043D\u0435\u043D\u0442\u0443, \u0434\u0456\u044F\u043B\u044C\u043D\u0456\u0441\u0442\u044C \u043B\u044E\u0434\u0435\u0439, \u0456\u0441\u0442\u043E\u0440\u0456\u044E \u043D\u0430\u0440\u043E\u0434\u0456\u0432 \u0456 \u043A\u0440\u0430\u0457\u043D, \u043F\u043E\u0447\u0438\u043D\u0430\u044E\u0447\u0438 \u0437 \u0434\u043E\u0456\u0441\u0442\u043E\u0440\u0438\u0447\u043D\u0438\u0445 \u0447\u0430\u0441\u0456\u0432 \u0437 \u043F\u0435\u0440\u0448\u0438\u043C\u0438 \u043F\u043E\u0441\u0435\u043B\u0435\u043D\u043D\u044F\u043C\u0438 \u043C\u0456\u0436 45,000 \u0456 25,000 \u0440\u043E\u043A\u0430\u043C\u0438 \u0434\u043E \u043D. \u0435., \u0434\u043E \u0442\u0435\u043F\u0435\u0440\u0435\u0448\u043D\u0456\u0445 \u0447\u0430\u0441\u0456\u0432. \u041D\u0430\u0439\u0434\u0430\u0432\u043D\u0456\u0448\u0456 \u043F\u043E\u0441\u0435\u043B\u0435\u043D\u0446\u0456 \u0434\u043E\u0456\u0441\u0442\u043E\u0440\u0438\u0447\u043D\u043E\u0457 \u0404\u0432\u0440\u043E\u043F\u0438 \u0432\u0456\u0434\u043D\u043E\u0441\u044F\u0442\u044C\u0441\u044F \u0434\u043E \u043F\u0430\u043B\u0435\u043E\u043B\u0456\u0442\u0443. \u0412\u0435\u0434\u0435\u043D\u043D\u044F \u0441\u0456\u043B\u044C\u0441\u044C\u043A\u043E\u0433\u043E \u0433\u043E\u0441\u043F\u043E\u0434\u0430\u0440\u0441\u0442\u0432\u0430 \u043F\u043E\u0447\u0430\u043B\u043E\u0441\u044F \u0431\u043B\u0438\u0437\u044C\u043A\u043E 7000 \u0434\u043E \u043D. \u0435. \u0432 \u043D\u0435\u043E\u043B\u0456\u0442\u0456."@uk ,
+		"\u0415\u0432\u0440\u043E\u043F\u0430 \u043E\u0441\u0442\u0430\u0432\u0430\u043B\u0430\u0441\u044C \u043D\u0435\u0437\u0430\u0441\u0435\u043B\u0451\u043D\u043D\u043E\u0439 \u043B\u044E\u0434\u044C\u043C\u0438 \u0434\u043E\u0432\u043E\u043B\u044C\u043D\u043E \u0434\u043E\u043B\u0433\u043E. \u041E\u0442\u043A\u0443\u0434\u0430 \u043F\u0440\u0438\u0448\u0451\u043B \u0447\u0435\u043B\u043E\u0432\u0435\u043A \u0432 \u0415\u0432\u0440\u043E\u043F\u0443, \u0441\u043F\u043E\u0440\u043D\u043E. \u0418\u0437\u0432\u0435\u0441\u0442\u043D\u043E \u0442\u043E\u043B\u044C\u043A\u043E, \u0447\u0442\u043E \u0415\u0432\u0440\u043E\u043F\u0430 \u043D\u0435 \u044F\u0432\u043B\u044F\u043B\u0430\u0441\u044C \u043C\u0435\u0441\u0442\u043E\u043C \u0437\u0430\u0440\u043E\u0436\u0434\u0435\u043D\u0438\u044F \u0447\u0435\u043B\u043E\u0432\u0435\u0447\u0435\u0441\u0442\u0432\u0430. \u0421\u0443\u0449\u0435\u0441\u0442\u0432\u0443\u044E\u0442 \u0432\u0435\u0440\u0441\u0438\u0438 \u043E \u0442\u043E\u043C, \u0447\u0442\u043E \u043F\u0435\u0440\u0432\u044B\u0435 \u0433\u043E\u043C\u0438\u043D\u0438\u0434\u044B \u043F\u0440\u0438\u0448\u043B\u0438 \u0432 \u0415\u0432\u0440\u043E\u043F\u0443 \u0438\u0437 \u0418\u043D\u0434\u0438\u0438. \u0421 \u044D\u0442\u0438\u043C \u0441\u043E\u0433\u043B\u0430\u0441\u0443\u044E\u0442\u0441\u044F \u0433\u0435\u043D\u0435\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435 \u0438\u0441\u0441\u043B\u0435\u0434\u043E\u0432\u0430\u043D\u0438\u044F. \u041D\u043E \u043D\u0430\u0438\u0431\u043E\u043B\u0435\u0435 \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0430\u043D\u043D\u043E\u0439 \u044F\u0432\u043B\u044F\u0435\u0442\u0441\u044F \u0433\u0438\u043F\u043E\u0442\u0435\u0437\u0430 \u043E \u043F\u0440\u0438\u0445\u043E\u0434\u0435 \u0433\u043E\u043C\u0438\u043D\u0438\u0434\u043E\u0432 \u0432 \u0415\u0432\u0440\u043E\u043F\u0443 \u0438\u0437 \u0410\u0444\u0440\u0438\u043A\u0438 \u0447\u0435\u0440\u0435\u0437 \u041F\u0435\u0440\u0435\u0434\u043D\u044E\u044E \u0410\u0437\u0438\u044E. \u0415\u0441\u0442\u044C \u043F\u0440\u0435\u0434\u043F\u043E\u043B\u043E\u0436\u0435\u043D\u0438\u0435, \u0447\u0442\u043E \u044D\u0442\u043E \u043F\u0440\u043E\u0438\u0437\u043E\u0448\u043B\u043E \u0432 \u0441\u0435\u0440\u0435\u0434\u0438\u043D\u0435 \u0432\u0438\u043B\u043B\u0430\u0444\u0440\u0430\u043D\u043A\u0441\u043A\u043E\u0433\u043E \u0432\u0440\u0435\u043C\u0435\u043D\u0438. \u0414\u043E Homo Sapiens \u0415\u0432\u0440\u043E\u043F\u0443 \u0438 \u0417\u0430\u043F\u0430\u0434\u043D\u0443\u044E \u0410\u0437\u0438\u044E \u0437\u0430\u0441\u0435\u043B\u044F\u043B\u0438 \u043D\u0435\u0430\u043D\u0434\u0435\u0440\u0442\u0430\u043B\u044C\u0446\u044B."@ru ,
+		"Historia Europy \u2013 obejmuje histori\u0119 cywilizacji ludzkiej na kontynencie europejskim od pojawienia si\u0119 pierwszych ludzi a\u017C do czas\u00F3w wsp\u00F3\u0142czesnych Histori\u0119 Europy mo\u017Cemy podzieli\u0107 na cztery epoki historyczne: staro\u017Cytno\u015B\u0107, \u015Bredniowiecze, nowo\u017Cytno\u015B\u0107 i histori\u0119 najnowsz\u0105. Staro\u017Cytno\u015B\u0107 obejmuj\u0105ca okres do 476 r. to g\u0142\u00F3wnie cywilizacje basenu Morza \u015Ar\u00F3dziemnego \u2013 grecka i rzymska. Nowo\u017Cytno\u015B\u0107 obejmuj\u0105ca lata 1492\u20131789, to czas rozkwitu renesansu, pojawienie si\u0119 reformacji i wojen religijnych na kontynencie. Okres ten obejmuje te\u017C dob\u0119 baroku i o\u015Bwiecenia."@pl ,
+		"The history of Europe covers the people inhabiting the continent of Europe from prehistory to the present. During the Neolithic era and the time of the Indo-European migrations Europe saw human inflows from east and southeast and subsequent important cultural and material exchange. The period known as classical antiquity began with the emergence of the city-states of ancient Greece. Later, the Roman Empire came to dominate the entire Mediterranean basin. The fall of the Roman Empire in AD 476 traditionally marks the start of the Middle Ages. Beginning in the 14th century a Renaissance of knowledge challenged traditional doctrines in science and theology. Simultaneously, the Protestant Reformation set up Protestant churches primarily in Germany, Scandinavia and England. After 1800, the Indu"@en ,
+		"A Hist\u00F3ria da Europa descreve a passagem no tempo desde os primeiros humanos que habitaram o continente europeu at\u00E9 a atualidade. A primeira evid\u00EAncia do Homo sapiens na Europa data de 35 000 a.C. O relato mais antigo feito sobre o continente \u00E9 a Il\u00EDada, de Homero, da Gr\u00E9cia Antiga, que data de 700 a.C. A Rep\u00FAblica Romana foi estabelecida em 509 a.C., e transformada no Novo Imp\u00E9rio de Augusto na primeira metade do s\u00E9culo I. A religi\u00E3o crist\u00E3 foi adotada no s\u00E9culo IV. Confrontado com migra\u00E7\u00F5es b\u00E1rbaras e a praga, o imp\u00E9rio foi dividido entre Leste e Oeste e a Idade M\u00E9dia se instalou no cora\u00E7\u00E3o da Europa Ocidental. O Imp\u00E9rio Bizantino manteve a luz da civiliza\u00E7\u00E3o acesa no Leste. A Igreja Oriental e Ocidental confrontaram-se por s\u00E9culos sobre o meio de governo eclesi\u00E1stico, provocando o cisma"@pt ,
+		"Denna artikel skildrar Europas historia. De f\u00F6rsta f\u00F6r-m\u00E4nniskorna kom till Europa f\u00F6r cirka 800 000 \u00E5r sedan som ett resultat av att Homo erectus spred sig \u00F6ver jorden. Medan den moderna m\u00E4nniskan (Homo sapiens) fortfarande utvecklades i Afrika levde Homo heidelbergensis och Homo neanderthalensis (neandertalm\u00E4nniska) i Europa."@sv ,
+		"\u30E8\u30FC\u30ED\u30C3\u30D1\u53F2\uFF08\u30E8\u30FC\u30ED\u30C3\u30D1\u3057\uFF09\u3068\u306F\u3001\u30E8\u30FC\u30ED\u30C3\u30D1\u306B\u304A\u3051\u308B\u6B74\u53F2\u3067\u3042\u308B\u3002\u6B27\u5DDE\u53F2\uFF08\u304A\u3046\u3057\u3085\u3046\u3057\uFF09\u3068\u3082\u547C\u3070\u308C\u308B\u3002"@ja ,
+		"Dit artikel is een overzicht van de (menselijke) geschiedenis van het werelddeel Europa. Deze valt ruwweg chronologisch in te delen in de prehistorie, de klassieke oudheid, de middeleeuwen, de nieuwe tijd, de moderne tijd en de eigentijdse tijd."@nl ,
+		"Europako historia kontinente horretan gertatutakoa kontatzen duten kondaira da. Hutsuneak hutsune, Historiaurretik Aro Garaikidera arte ongi ikertutako historia da."@eu ;
+	rdfs:seeAlso	dbr:Aftermath_of_World_War_I ,
+		<http://dbpedia.org/resource/19th_century> .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+dbr:History_of_Europe	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Abraham_Ortelius_Map_of_Europe.jpg> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+dbr:History_of_Europe	foaf:isPrimaryTopicOf	wikipedia-en:History_of_Europe .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:History_of_Europe	dct:subject	dbc:History_of_Europe .
+@prefix ns11:	<http://tl.dbpedia.org/resource/> .
+dbr:History_of_Europe	owl:sameAs	ns11:Kasaysayan_ng_Europa .
+@prefix dbpedia-gl:	<http://gl.dbpedia.org/resource/> .
+dbr:History_of_Europe	owl:sameAs	dbpedia-gl:Historia_de_Europa ,
+		dbr:History_of_Europe .
+@prefix dbpedia-simple:	<http://simple.dbpedia.org/resource/> .
+dbr:History_of_Europe	owl:sameAs	dbpedia-simple:History_of_Europe .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:History_of_Europe	owl:sameAs	dbpedia-pl:Historia_Europy ,
+		<http://cs.dbpedia.org/resource/D\u011Bjiny_Evropy> ,
+		<http://zh.dbpedia.org/resource/\u6B27\u6D32\u5386\u53F2> .
+@prefix dbpedia-no:	<http://no.dbpedia.org/resource/> .
+dbr:History_of_Europe	owl:sameAs	dbpedia-no:Europas_historie ,
+		<https://global.dbpedia.org/id/4wUxp> .
+@prefix dbpedia-id:	<http://id.dbpedia.org/resource/> .
+dbr:History_of_Europe	owl:sameAs	dbpedia-id:Sejarah_Eropa .
+@prefix dbpedia-da:	<http://da.dbpedia.org/resource/> .
+dbr:History_of_Europe	owl:sameAs	dbpedia-da:Europas_historie ,
+		<http://ml.dbpedia.org/resource/\u0D2F\u0D42\u0D31\u0D4B\u0D2A\u0D4D\u0D2A\u0D3F\u0D28\u0D4D\u0D31\u0D46_\u0D1A\u0D30\u0D3F\u0D24\u0D4D\u0D30\u0D02> ,
+		<http://ta.dbpedia.org/resource/\u0B90\u0BB0\u0BCB\u0BAA\u0BCD\u0BAA\u0BBF\u0BAF_\u0BB5\u0BB0\u0BB2\u0BBE\u0BB1\u0BC1> ,
+		<http://uk.dbpedia.org/resource/\u0406\u0441\u0442\u043E\u0440\u0456\u044F_\u0404\u0432\u0440\u043E\u043F\u0438> .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:History_of_Europe	owl:sameAs	dbpedia-nl:Geschiedenis_van_Europa ,
+		<http://is.dbpedia.org/resource/Saga_Evr\u00F3pu> ,
+		<http://ne.dbpedia.org/resource/\u092F\u0942\u0930\u094B\u092A\u0915\u094B_\u0907\u0924\u093F\u0939\u093E\u0938> ,
+		<http://be.dbpedia.org/resource/\u0413\u0456\u0441\u0442\u043E\u0440\u044B\u044F_\u0415\u045E\u0440\u043E\u043F\u044B> ,
+		<http://ar.dbpedia.org/resource/\u062A\u0627\u0631\u064A\u062E_\u0623\u0648\u0631\u0648\u0628\u0627> .
+@prefix dbpedia-fi:	<http://fi.dbpedia.org/resource/> .
+dbr:History_of_Europe	owl:sameAs	dbpedia-fi:Euroopan_historia .
+@prefix ns20:	<http://ceb.dbpedia.org/resource/> .
+dbr:History_of_Europe	owl:sameAs	ns20:Kasaysayan_sa_Uropa .
+@prefix ns21:	<http://bs.dbpedia.org/resource/> .
+dbr:History_of_Europe	owl:sameAs	ns21:Historija_Evrope ,
+		<http://cv.dbpedia.org/resource/\u0415\u0432\u0440\u043E\u043F\u0430_\u043A\u0443\u043D-\u00E7\u0443\u043B\u0115> .
+@prefix dbpedia-sv:	<http://sv.dbpedia.org/resource/> .
+dbr:History_of_Europe	owl:sameAs	dbpedia-sv:Europas_historia .
+@prefix dbpedia-fy:	<http://fy.dbpedia.org/resource/> .
+dbr:History_of_Europe	owl:sameAs	dbpedia-fy:Skiednis_fan_Jeropa .
+@prefix dbpedia-la:	<http://la.dbpedia.org/resource/> .
+dbr:History_of_Europe	owl:sameAs	dbpedia-la:Historia_Europae ,
+		<http://th.dbpedia.org/resource/\u0E1B\u0E23\u0E30\u0E27\u0E31\u0E15\u0E34\u0E28\u0E32\u0E2A\u0E15\u0E23\u0E4C\u0E22\u0E38\u0E42\u0E23\u0E1B> ,
+		<http://hy.dbpedia.org/resource/\u0535\u057E\u0580\u0578\u057A\u0561\u0575\u056B_\u057A\u0561\u057F\u0574\u0578\u0582\u0569\u0575\u0578\u0582\u0576> ,
+		<http://ca.dbpedia.org/resource/Hist\u00F2ria_d\u0027Europa> .
+@prefix dbpedia-tr:	<http://tr.dbpedia.org/resource/> .
+dbr:History_of_Europe	owl:sameAs	dbpedia-tr:Avrupa_tarihi .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:History_of_Europe	owl:sameAs	dbpedia-es:Historia_de_Europa ,
+		<http://sq.dbpedia.org/resource/Historia_e_Evrop\u00EBs> ,
+		<http://ko.dbpedia.org/resource/\uC720\uB7FD\uC758_\uC5ED\uC0AC> ,
+		<http://bg.dbpedia.org/resource/\u0418\u0441\u0442\u043E\u0440\u0438\u044F_\u043D\u0430_\u0415\u0432\u0440\u043E\u043F\u0430> ,
+		<http://vi.dbpedia.org/resource/L\u1ECBch_s\u1EED_ch\u00E2u_\u00C2u> ,
+		<http://fr.dbpedia.org/resource/Histoire_de_l\u0027Europe> .
+@prefix dbpedia-cy:	<http://cy.dbpedia.org/resource/> .
+dbr:History_of_Europe	owl:sameAs	dbpedia-cy:Hanes_Ewrop ,
+		<http://si.dbpedia.org/resource/\u0DBA\u0DD4\u0DBB\u0DDD\u0DB4\u0DCF\u0DB1\u0DD4_\u0D89\u0DAD\u0DD2\u0DC4\u0DCF\u0DC3\u0DBA> ,
+		<http://sk.dbpedia.org/resource/Dejiny_Eur\u00F3py> ,
+		<http://pt.dbpedia.org/resource/Hist\u00F3ria_da_Europa> ,
+		<http://fa.dbpedia.org/resource/\u062A\u0627\u0631\u06CC\u062E_\u0627\u0631\u0648\u067E\u0627> ,
+		<http://azb.dbpedia.org/resource/\u0627\u0648\u0631\u0648\u067E\u0627_\u062A\u0627\u0631\u06CC\u062E\u06CC> .
+@prefix dbpedia-ro:	<http://ro.dbpedia.org/resource/> .
+dbr:History_of_Europe	owl:sameAs	dbpedia-ro:Istoria_Europei .
+@prefix dbpedia-sh:	<http://sh.dbpedia.org/resource/> .
+dbr:History_of_Europe	owl:sameAs	dbpedia-sh:Historija_Evrope .
+@prefix dbpedia-war:	<http://war.dbpedia.org/resource/> .
+dbr:History_of_Europe	owl:sameAs	dbpedia-war:Kaagi_han_Europa ,
+		<http://rdf.freebase.com/ns/m.0dmd6_> ,
+		<http://yi.dbpedia.org/resource/\u05D4\u05D9\u05E1\u05D8\u05D0\u05E8\u05D9\u05E2_\u05E4\u05D5\u05DF_\u05D0\u05D9\u05D9\u05E8\u05D0\u05E4\u05E2> .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:History_of_Europe	owl:sameAs	dbpedia-de:Geschichte_Europas .
+@prefix dbpedia-nn:	<http://nn.dbpedia.org/resource/> .
+dbr:History_of_Europe	owl:sameAs	dbpedia-nn:Europeisk_historie .
+@prefix dbpedia-sr:	<http://sr.dbpedia.org/resource/> .
+dbr:History_of_Europe	owl:sameAs	dbpedia-sr:Istorija_Evrope .
+@prefix dbpedia-commons:	<http://commons.dbpedia.org/resource/> .
+dbr:History_of_Europe	owl:sameAs	dbpedia-commons:History_of_Europe .
+@prefix dbpedia-eu:	<http://eu.dbpedia.org/resource/> .
+dbr:History_of_Europe	owl:sameAs	dbpedia-eu:Europako_historia ,
+		<http://ja.dbpedia.org/resource/\u30E8\u30FC\u30ED\u30C3\u30D1\u53F2> ,
+		<http://ast.dbpedia.org/resource/Historia_d\u0027Europa> ,
+		<http://it.dbpedia.org/resource/Storia_dell\u0027Europa> ,
+		<http://hi.dbpedia.org/resource/\u092F\u0942\u0930\u094B\u092A_\u0915\u093E_\u0907\u0924\u093F\u0939\u093E\u0938> .
+@prefix dbpedia-hr:	<http://hr.dbpedia.org/resource/> .
+dbr:History_of_Europe	owl:sameAs	dbpedia-hr:Povijest_Europe ,
+		<http://he.dbpedia.org/resource/\u05D4\u05D9\u05E1\u05D8\u05D5\u05E8\u05D9\u05D4_\u05E9\u05DC_\u05D0\u05D9\u05E8\u05D5\u05E4\u05D4> ,
+		<http://eo.dbpedia.org/resource/Historio_de_E\u016Dropo> .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:History_of_Europe	owl:sameAs	wikidata:Q7787 ,
+		<http://hu.dbpedia.org/resource/Eur\u00F3pa_t\u00F6rt\u00E9nelme> ,
+		<http://ru.dbpedia.org/resource/\u0418\u0441\u0442\u043E\u0440\u0438\u044F_\u0415\u0432\u0440\u043E\u043F\u044B> ;
+	dbp:footerAlign	"left"@en .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:History_of_Europe	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/History_of_Europe?oldid=986558913&ns=0> ;
+	dbp:align	"center"@en ,
+		"right"@en ;
+	dbp:direction	"horizontal"@en ;
+	dbp:footer	"Isaac Newton and Jean-Jacques Rousseau"@en ;
+	dbp:image	"European-late-neolithic-english.svg"@en ,
+		"Jean-Jacques Rousseau .jpg"@en ,
+		"Neolithic expansion.svg"@en ,
+		"IE_expansion.png"@en ,
+		"GodfreyKneller-IsaacNewton-1689.jpg"@en ,
+		"Europe late bronze age.png"@en ;
+	dbp:width	230 ,
+		240 ,
+		255 ,
+		140 .
+@prefix ns39:	<http://dbpedia.org/datatype/> .
+dbr:History_of_Europe	dbp:width	"25.0"^^ns39:perCent ;
+	dbp:quote	"\"Why do the Christian nations, which were so weak in the past compared with Muslim nations begin to dominate so many lands in modern times and even defeat the once victorious Ottoman armies?\"...\"Because they have laws and rules invented by reason.\""@en ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Abraham_Ortelius_Map_of_Europe.jpg?width=300> ;
+	dbo:wikiPageID	13212 ;
+	dbo:wikiPageRevisionID	986558913 ;
+	dbo:wikiPageWikiLink	dbr:Bulgarian_alphabet ,
+		<http://dbpedia.org/resource/Geissenkl\u00F6sterle> ,
+		dbr:Balzi_Rossi ,
+		dbr:Batavian_Republic ,
+		dbr:Appeasement ,
+		dbr:Cyprus_in_the_Middle_Ages ,
+		dbr:Seven_Slavic_tribes ,
+		dbr:Russo-Georgian_War ,
+		dbr:Maximilien_Robespierre ,
+		dbr:Medieval_demography ,
+		dbr:The_Wealth_of_Nations ,
+		dbr:Immanuel_Kant ,
+		dbr:Ivan_the_Terrible ,
+		dbr:Jacobin ,
+		dbr:Minoan_civilization ,
+		dbr:Poet_laureate ,
+		dbr:Uluzzian ,
+		dbr:Carthage ,
+		dbr:French_Revolution ,
+		dbr:Szeletian ,
+		<http://dbpedia.org/resource/File:Europe_1815_map_en.png> ,
+		dbr:NATO ,
+		dbr:Schuman_Declaration ,
+		dbr:Italian_Renaissance ,
+		dbr:Liberalism ,
+		dbr:Caucasus ,
+		dbr:Julius_Caesar ,
+		dbr:Magdalenian ,
+		dbr:Napoleon ,
+		dbr:Margaret_Thatcher ,
+		dbr:Marshall_Plan ,
+		dbr:Martin_Luther ,
+		dbr:David_Hume ,
+		<http://dbpedia.org/resource/Siege_of_Constantinople_(717\u2013718)> ,
+		dbr:Wars_of_Scottish_Independence ,
+		dbr:History_of_Islam_in_southern_Italy ,
+		dbr:Great_power ,
+		dbr:Serbian_Revolution ,
+		dbr:Otto_von_Bismarck ,
+		dbr:Centralized_government ,
+		dbr:Adam_Smith ,
+		dbr:Age_of_Enlightenment ,
+		dbr:Norman_conquest_of_England ,
+		dbr:Philip_Neri ,
+		dbr:Trajan ,
+		dbr:Alexander_the_Great ,
+		dbr:History_of_Florence ,
+		dbr:World_War_II_casualties ,
+		dbr:League_of_Nations_mandate ,
+		dbr:Religion_in_ancient_Rome ,
+		dbr:Punic_Wars ,
+		dbr:Homer ,
+		dbr:Battle_of_Kursk ,
+		dbr:Migration_Period ,
+		dbr:Uprising_of_Asen_and_Peter ,
+		dbr:Archduke_Franz_Ferdinand_of_Austria ,
+		dbr:Ancient_Rome ,
+		dbr:Bernard_Slicher_van_Bath ,
+		dbr:Kalmar_Union ,
+		dbr:Economy_of_Greece ,
+		dbr:Anatolia ,
+		dbr:Battle_of_Trafalgar ,
+		dbr:Indus_River ,
+		dbr:First_Crusade ,
+		dbr:Christianity ,
+		dbr:Timeline_of_European_Union_history ,
+		dbr:Battle_of_Leipzig ,
+		dbr:East_Indies ,
+		dbr:Assassination_of_Julius_Caesar ,
+		dbr:Holodomor ,
+		dbr:John_Locke ,
+		<http://dbpedia.org/resource/Rus\u0027_people> ,
+		dbr:Hominidae ,
+		dbr:European_debt_crisis ,
+		dbr:Clement_of_Ohrid ,
+		dbr:Declaration_of_the_Rights_of_Man_and_of_the_Citizen ,
+		dbr:Decolonization_of_the_Americas ,
+		dbr:Peter_the_Great ,
+		dbr:List_of_modern_great_powers ,
+		<http://dbpedia.org/resource/European_Union\u2013United_Kingdom_relations> ,
+		dbr:Communist_state ,
+		dbr:Hamburg_culture ,
+		dbr:Gustav_IV_Adolf ,
+		dbr:Early_modern_human ,
+		dbr:October_Revolution ,
+		dbr:Portuguese_Macau ,
+		<http://dbpedia.org/resource/File:Defenestration-prague-1618.jpg> ,
+		dbr:Reichstag_building ,
+		<http://dbpedia.org/resource/Orchomenus_(Boeotia)> ,
+		dbr:Second_French_Empire ,
+		dbr:November_Uprising ,
+		dbr:French_colonial_empire ,
+		dbr:Kristallnacht ,
+		dbr:Battle_of_Friedland ,
+		dbr:Battle_of_Austerlitz ,
+		dbr:Italian_Fascism ,
+		dbr:Montesquieu ,
+		dbr:International_Brigades ,
+		dbr:Manorialism ,
+		dbr:Transatlantic_telegraph_cable ,
+		dbr:Huns ,
+		dbr:Polis ,
+		dbr:Crisis_of_the_Late_Middle_Ages ,
+		<http://dbpedia.org/resource/Russo-Polish_War_(1654\u20131667)> ,
+		dbr:Romanticism ,
+		dbr:United_States_Declaration_of_Independence ,
+		dbr:Ahmad_ibn_Fadlan ,
+		dbr:Paul_I_of_Russia ,
+		dbr:Roman_Britain ,
+		dbr:Battle_of_Plataea ,
+		dbr:European_integration ,
+		dbr:Cossacks ,
+		dbr:European_Economic_Area ,
+		dbr:Abu_Bakr ,
+		dbr:European_Economic_Community ,
+		dbr:Omar ,
+		dbr:Ottoman_Turks ,
+		<http://dbpedia.org/resource/Africa_(Roman_province)> ,
+		dbr:Classical_antiquity ,
+		dbr:Battle_of_Thermopylae ,
+		dbr:Orce ,
+		dbr:Walter_Laqueur ,
+		dbr:Cumania ,
+		dbr:Herodotus ,
+		dbr:Pylos ,
+		dbr:Early_Muslim_conquests ,
+		dbr:League_of_Nations ,
+		dbr:Tiryns ,
+		dbr:Printing_press ,
+		<http://dbpedia.org/resource/2004_enlargement_of_the_European_Union> ,
+		dbr:Cappadocia ,
+		dbr:Cyprus ,
+		dbr:Kenneth_Scott_Latourette ,
+		dbr:Seljuq_dynasty ,
+		dbr:Club_of_Rome ,
+		dbr:Russo-Persian_Wars ,
+		dbr:Robert_Walpole ,
+		dbr:Cisalpine_Republic ,
+		dbr:Astrakhan_Khanate ,
+		<http://dbpedia.org/resource/2014_Crimean_status_referendum> ,
+		dbr:Russian_Revolution ,
+		dbr:Autocracy ,
+		dbr:Dissolution_of_the_Soviet_Union ,
+		dbr:SPQR ,
+		dbr:Decolonization ,
+		dbr:Colonialism ,
+		<http://dbpedia.org/resource/Thebes,_Greece> ,
+		dbr:Colonial_empire ,
+		dbr:Livonian_Order ,
+		<http://dbpedia.org/resource/File:First.Crusade.Map.jpg> ,
+		dbr:Jazz_Age ,
+		dbr:Serfdom_in_Russia ,
+		dbr:Old_Great_Bulgaria ,
+		dbr:Causes_of_World_War_II ,
+		dbr:The_Prince ,
+		dbr:Muslims ,
+		dbr:Feudalism ,
+		dbr:German_colonial_empire ,
+		dbr:Byzantine_art ,
+		dbr:Pelagius_of_Asturias ,
+		dbr:Italian_Empire ,
+		dbr:English_Civil_War ,
+		dbr:Charlemagne ,
+		<http://dbpedia.org/resource/Factory_(trading_post)> ,
+		dbr:Great_Depression ,
+		<http://dbpedia.org/resource/Peace_of_Pressburg_(1805)> ,
+		<http://dbpedia.org/resource/File:Napoli_BW_2013-05-16_16-24-01.jpg> ,
+		dbr:Elective_monarchy ,
+		dbr:Georges_Clemenceau ,
+		dbr:Philippines ,
+		dbr:Iliad ,
+		dbr:Ostrogothic_Kingdom ,
+		<http://dbpedia.org/resource/State_of_Slovenes,_Croats_and_Serbs> ,
+		dbr:Napoleonic_Wars ,
+		dbr:Eastern_Orthodox_Slavs ,
+		dbr:Socioeconomics ,
+		dbr:Kingdom_of_Asturias ,
+		dbr:National_Fascist_Party ,
+		dbr:Suez_Crisis ,
+		dbr:Russian_Civil_War ,
+		dbr:Age_of_Discovery ,
+		dbr:Saint_Naum ,
+		dbr:Communist_International ,
+		dbr:Perestroika ,
+		dbr:Witch_trials_in_the_early_modern_period ,
+		dbr:Karl_Marx ,
+		<http://dbpedia.org/resource/4th_of_August_Regime> ,
+		<http://dbpedia.org/resource/David_Stevenson_(historian)> ,
+		<http://dbpedia.org/resource/Robert_Aldrich_(historian)> ,
+		dbr:Homicide ,
+		dbr:Guild ,
+		dbr:History_of_technology ,
+		<http://dbpedia.org/resource/Jean_le_Rond_d\u0027Alembert> ,
+		dbr:Indian_subcontinent ,
+		dbr:Kingdom_of_Great_Britain ,
+		dbr:Revolutions_of_1989 ,
+		dbr:Imperial_Russian_Army ,
+		dbr:Khanate_of_Sibir ,
+		dbr:Khazars ,
+		dbr:Kingdom_of_Serbia ,
+		dbr:Mesopotamia ,
+		dbr:The_Communist_Manifesto ,
+		dbr:Tennis_Court_Oath ,
+		dbr:New_World ,
+		<http://dbpedia.org/resource/Deluge_(history)> ,
+		dbr:List_of_sovereign_states_by_date_of_formation ,
+		dbr:House_of_Sasan ,
+		dbr:Mercantilism ,
+		dbr:American_Revolutionary_War ,
+		dbr:Gravettian ,
+		<http://dbpedia.org/resource/Che\u0142mno> ,
+		dbr:Mycenaean_Greece ,
+		dbr:Presidency_of_Woodrow_Wilson ,
+		dbr:Charles_IV_of_Spain ,
+		dbr:Simeon_I_of_Bulgaria ,
+		dbr:Christian_Church ,
+		dbr:Plague_of_Justinian ,
+		dbr:Yugoslavia ,
+		dbr:New_Netherland ,
+		dbr:Unification_of_Germany ,
+		dbr:Donetsk ,
+		dbr:Das_Kapital ,
+		dbr:List_of_largest_European_cities_in_history ,
+		dbr:Pakistan ,
+		dbr:Battle_of_Artemisium ,
+		dbr:Capitalism ,
+		dbr:Portuguese_Empire ,
+		dbr:Humanism ,
+		dbr:Benjamin_Franklin ,
+		dbr:Chernobyl_disaster ,
+		dbr:Dynastic_union ,
+		dbr:Knossos ,
+		dbr:Antioch ,
+		dbr:Arabs ,
+		dbr:Ancient_Greece ,
+		dbr:Atlantic_Revolutions ,
+		dbr:Pericles ,
+		dbr:Corinthian_War ,
+		dbr:Medieval_art ,
+		<http://dbpedia.org/resource/Emirate_of_C\u00F3rdoba> ,
+		dbr:Council_of_Europe ,
+		<http://dbpedia.org/resource/File:Cicer\u00F3n_denuncia_a_Catilina,_por_Cesare_Maccari.jpg> ,
+		dbr:Constitutional_monarchy ,
+		<http://dbpedia.org/resource/Molotov\u2013Ribbentrop_Pact> ,
+		dbr:Kulturkampf ,
+		dbr:List_of_medieval_great_powers ,
+		dbr:Rise_of_nationalism_in_Europe ,
+		dbr:Denis_Diderot ,
+		<http://dbpedia.org/resource/Philosophi\u00E6_Naturalis_Principia_Mathematica> ,
+		<http://dbpedia.org/resource/File:Quarto_Stato.jpg> ,
+		dbr:Will_Durant ,
+		<http://dbpedia.org/resource/File:Prise_de_la_Bastille.jpg> ,
+		dbr:Benito_Mussolini ,
+		dbr:Breakup_of_Yugoslavia ,
+		dbr:British_Isles ,
+		dbr:Greco-Persian_Wars ,
+		dbr:Freemasonry ,
+		dbr:British_Empire ,
+		dbr:Petrarch ,
+		dbr:Gulag ,
+		<http://dbpedia.org/resource/S\u00F8ren_Kierkegaard> ,
+		dbr:COVID-19_pandemic ,
+		dbr:History_of_Switzerland ,
+		dbr:Asparuh_of_Bulgaria ,
+		dbr:Old_Prussians ,
+		dbr:Stockton_and_Darlington_Railway ,
+		dbr:Federal_subjects_of_Russia ,
+		dbr:Brexit ,
+		<http://dbpedia.org/resource/Auguste_and_Louis_Lumi\u00E8re> ,
+		dbr:Guglielmo_Marconi ,
+		dbr:Ivan_Asen_II ,
+		dbr:Roman_emperor ,
+		dbr:Christendom ,
+		dbr:Annexation_of_Crimea_by_the_Russian_Federation ,
+		<http://dbpedia.org/resource/Encyclop\u00E9die> ,
+		dbr:Ferdinand_Magellan ,
+		<http://dbpedia.org/resource/File:Europe-In-117AD.png> ,
+		<http://dbpedia.org/resource/Kingdom_of_Armenia_(antiquity)> ,
+		dbr:IBM_and_the_Holocaust ,
+		dbr:May_68 ,
+		dbr:William_the_Conqueror ,
+		dbr:Aftermath_of_the_2016_United_Kingdom_European_Union_membership_referendum ,
+		dbr:Battle_of_Tours ,
+		dbr:Empire_of_Japan ,
+		dbr:Florence ,
+		<http://dbpedia.org/resource/Roman\u2013Persian_Wars> ,
+		dbr:French_Consulate ,
+		dbr:Tervel_of_Bulgaria ,
+		dbr:Battle_of_Ongal ,
+		dbr:Reason ,
+		dbr:Abbasid_Caliphate ,
+		dbr:Ottoman_Serbia ,
+		<http://dbpedia.org/resource/War_in_Afghanistan_(2001\u2013present)> ,
+		dbr:Ohrid_Literary_School ,
+		dbr:European_colonization_of_the_Americas ,
+		dbr:Treaty_of_Lisbon ,
+		dbr:Sasanian_Empire ,
+		dbr:Azilian ,
+		dbr:Schengen_Agreement ,
+		dbr:Property_law ,
+		dbr:Grand_Duchy_of_Moscow ,
+		dbr:Revolutions_of_1848 ,
+		dbr:Pskov_Republic ,
+		dbr:Bulgarian_Empire ,
+		<http://dbpedia.org/resource/War_in_the_Vend\u00E9e> ,
+		dbr:Christianization ,
+		<http://dbpedia.org/resource/Digest_(Roman_law)> ,
+		dbr:Ukrainians ,
+		dbr:Roman_Republic ,
+		dbr:Hungarian_Revolution_of_1956 ,
+		dbr:Decline_and_modernization_of_the_Ottoman_Empire ,
+		dbr:Roman_Dacia ,
+		dbr:Gibraltar ,
+		dbr:Pannonia ,
+		dbr:Nobility ,
+		dbr:Americas ,
+		dbr:George_Stephenson ,
+		dbr:Germanic_peoples ,
+		dbr:Hanseatic_League ,
+		dbr:Abolition_of_feudalism_in_France ,
+		dbr:Caliphate ,
+		dbr:Anti-Comintern_Pact ,
+		dbr:Elbe ,
+		dbr:Great_Northern_War ,
+		dbr:Treaty_of_Verdun ,
+		dbr:Prague_Spring ,
+		<http://dbpedia.org/resource/File:Alberico_Gentili.jpg> ,
+		dbr:Moors ,
+		dbr:Committee_of_Public_Safety ,
+		dbr:Confederation_of_the_Rhine ,
+		<http://dbpedia.org/resource/\u00D6z_Beg_Khan> ,
+		dbr:Africa ,
+		dbr:Persecution_of_Christians_in_the_Roman_Empire ,
+		dbr:Muslim_conquest_of_Persia ,
+		dbr:War_of_the_Spanish_Succession ,
+		dbr:Duchy_of_Warsaw ,
+		<http://dbpedia.org/resource/Balance_of_power_(international_relations)> ,
+		dbr:United_Nations ,
+		dbr:Isaac_Newton ,
+		dbr:Kosovo ,
+		<http://dbpedia.org/resource/Fran\u00E7ois_Victor_Alphonse_Aulard> ,
+		dbr:Holy_Land ,
+		dbr:Iraq_War ,
+		<http://dbpedia.org/resource/Kingdom_of_Croatia_(925\u20131102)> ,
+		dbr:Adolf_von_Harnack ,
+		dbr:India ,
+		dbr:Elba ,
+		dbr:Industrial_Revolution ,
+		<http://dbpedia.org/resource/Kievan_Rus\u0027> ,
+		<http://dbpedia.org/resource/Jehovah\u0027s_Witnesses> ,
+		dbr:Reductionism ,
+		dbr:Spanish_Inquisition ,
+		dbr:Bolsheviks ,
+		dbr:List_of_historians ,
+		dbr:West_Germany ,
+		dbr:Western_world ,
+		dbr:Central_Powers ,
+		<http://dbpedia.org/resource/Polish\u2013Lithuanian_Commonwealth> ,
+		dbr:Nazism ,
+		dbr:Poland ,
+		dbr:Edward_Gibbon ,
+		dbr:Eurozone ,
+		dbr:James_Watt ,
+		dbr:Fascism ,
+		dbr:Jacquerie ,
+		dbr:Nazi_Germany ,
+		dbr:Columbian_exchange ,
+		dbr:Vojvodina ,
+		dbr:Pentarchy ,
+		dbr:Estonia ,
+		dbr:Europe ,
+		dbr:Hew_Strachan ,
+		dbr:Kingdom_of_Romania ,
+		dbr:House_of_European_History ,
+		dbr:Counter-Reformation ,
+		dbr:Tithe ,
+		dbr:Totalitarianism ,
+		dbr:New_Sweden ,
+		dbr:Winston_Churchill ,
+		dbr:World_War_I ,
+		dbr:World_War_II ,
+		dbr:Saints_Cyril_and_Methodius ,
+		<http://dbpedia.org/resource/Thirty_Years\u0027_War> ,
+		dbr:Italian_Peninsula ,
+		dbr:Political_geography ,
+		dbr:Belgian_colonial_empire ,
+		dbr:First_Persian_invasion_of_Greece ,
+		dbr:Apostolic_Majesty ,
+		dbr:Pandemic ,
+		dbr:Joseph_Stalin ,
+		dbr:Aristocracy ,
+		dbr:Tram ,
+		dbr:Mongolia ,
+		<http://dbpedia.org/resource/Hundred_Years\u0027_War> ,
+		dbr:Triple_Entente ,
+		dbr:Berbers ,
+		dbr:Johannes_Gutenberg ,
+		dbr:Greek_East_and_Latin_West ,
+		dbr:Carl_Benz ,
+		dbr:Timeline_of_sovereign_states_in_Europe ,
+		dbr:Nazi_crimes_against_the_Polish_nation ,
+		dbr:Vikings ,
+		dbr:Fall_of_Constantinople ,
+		dbr:Adolf_Hitler ,
+		dbr:Rhine ,
+		dbr:The_Holocaust ,
+		dbr:French_Revolutionary_Wars ,
+		dbr:Second_Bulgarian_Empire ,
+		dbr:Asia ,
+		<http://dbpedia.org/resource/File:Europe_in_1923.jpg> ,
+		dbr:Francis_Bacon ,
+		dbr:Long_Depression ,
+		dbr:Serbia ,
+		dbr:Pannonian_Basin ,
+		dbr:Allies_of_World_War_II ,
+		dbr:Western_Europe ,
+		dbr:Aurignacian ,
+		dbr:Mongol_Empire ,
+		dbr:Danube ,
+		dbr:Mongol_invasion_of_Europe ,
+		dbr:Equality_before_the_law ,
+		dbr:Enlightened_absolutism ,
+		dbr:Iron_Curtain ,
+		dbr:De_facto ,
+		dbr:Coronation ,
+		dbr:Heruli ,
+		dbr:Lands_of_the_Bohemian_Crown ,
+		dbr:High_Middle_Ages ,
+		dbr:Latin ,
+		dbr:Treaty_of_Rome ,
+		dbr:Scramble_for_Africa ,
+		dbr:Latvia ,
+		dbr:Czech_Republic ,
+		dbr:Czechoslovakia ,
+		dbr:Boris_I_of_Bulgaria ,
+		dbr:Communism ,
+		dbr:Prehistoric_Europe ,
+		dbr:Benz_Patent-Motorwagen ,
+		dbr:Pope_Urban_II ,
+		dbr:Cyrillic_script ,
+		dbr:Normandy_landings ,
+		dbr:Normans ,
+		dbr:Western_philosophy ,
+		<http://dbpedia.org/resource/File:Europe_map_1648.PNG> ,
+		<http://dbpedia.org/resource/Battle_of_Jena\u2013Auerstedt> ,
+		dbr:Nicolaus_Copernicus ,
+		dbr:Neanderthal ,
+		dbr:Joel_Colton ,
+		dbr:European_wars_of_religion ,
+		dbr:Christianization_of_Bulgaria ,
+		<http://dbpedia.org/resource/Financial_crisis_of_2007\u20132008> ,
+		dbr:Charles_Darwin ,
+		dbr:History_of_slavery ,
+		dbr:Philosophes ,
+		dbr:Diadochi ,
+		dbr:Munich_Agreement ,
+		dbr:Kingdom_of_Scotland ,
+		dbr:Socrates ,
+		dbr:Kingdom_of_England ,
+		dbr:Yugoslav_Wars ,
+		dbr:War_of_the_Third_Coalition ,
+		<http://dbpedia.org/resource/File:Cold_War_border_changes.png> ,
+		dbr:De_revolutionibus_orbium_coelestium ,
+		<http://dbpedia.org/resource/File:Maerz1848_berlin.jpg> ,
+		dbr:David_Lloyd_George ,
+		dbr:Thirteen_Colonies ,
+		dbr:War_of_the_Fourth_Coalition ,
+		dbr:Great_Britain ,
+		dbr:Glorious_Revolution ,
+		dbr:Visigoths ,
+		dbr:Konrad_I_of_Masovia ,
+		dbr:Hegemony ,
+		dbr:Crisis_of_the_Third_Century ,
+		dbr:Counter-Enlightenment ,
+		dbr:Golden_Age_of_medieval_Bulgarian_culture ,
+		<http://dbpedia.org/resource/2013_enlargement_of_the_European_Union> ,
+		dbr:Umayyad_Caliphate ,
+		dbr:Ravenna ,
+		dbr:Stilicho ,
+		dbr:Thermidorian_Reaction ,
+		dbr:Alaric_I ,
+		<http://dbpedia.org/resource/Macedonia_(ancient_kingdom)> ,
+		dbr:Federalism ,
+		dbr:Revolutionary_Tribunal ,
+		dbr:Silesian_Wars ,
+		dbr:Roman_Syria ,
+		dbr:Nicomedia ,
+		<http://dbpedia.org/resource/National_Assembly_(French_Revolution)> ,
+		<http://dbpedia.org/resource/Great_Famine_of_1315\u20131317> ,
+		dbr:Coup_of_18_Brumaire ,
+		dbr:Durankulak ,
+		dbr:East_Francia ,
+		dbr:Columbanus ,
+		dbr:Corpus_Juris_Civilis ,
+		dbr:Charles_Martel ,
+		dbr:Anarchism ,
+		dbr:Basques ,
+		dbr:Battle_of_Britain ,
+		dbr:Helvetic_Republic ,
+		dbr:British_colonization_of_the_Americas ,
+		dbr:List_of_Byzantine_emperors ,
+		dbr:Pyrenees ,
+		dbr:Steam_engine ,
+		dbr:French_invasion_of_Russia ,
+		dbr:Francoist_Spain ,
+		dbr:Dorian_invasion ,
+		dbr:Treaty_of_Tordesillas ,
+		<http://dbpedia.org/resource/File:Republik_Venedig_Handelswege01.png> ,
+		<http://dbpedia.org/resource/2008_Kosovo_declaration_of_independence> ,
+		dbr:Italian_unification ,
+		dbr:Gaul ,
+		dbr:Volga_Bulgaria ,
+		dbr:Central_Europe ,
+		<http://dbpedia.org/resource/Centre_Party_(Germany)> ,
+		dbr:Elizabeth_I ,
+		dbr:Chindasuinth ,
+		dbr:Barry_Eichengreen ,
+		<http://dbpedia.org/resource/Battle_of_Smolensk_(1812)> ,
+		dbr:Popular_sovereignty ,
+		dbr:Kozarnika ,
+		dbr:Great_Moravia ,
+		dbr:Greece ,
+		dbr:Portugal ,
+		dbr:Late_Bronze_Age_collapse ,
+		dbr:Manuel_Eisner ,
+		dbr:Final_Solution ,
+		dbr:Reichswehr ,
+		dbr:Bosnia_and_Herzegovina ,
+		dbr:Golden_Horde ,
+		dbr:French_colonization_of_the_Americas ,
+		dbr:Ibrahim_Muteferrika ,
+		dbr:Eastern_Bloc ,
+		dbr:Moesia ,
+		<http://dbpedia.org/resource/Polish\u2013Soviet_War> ,
+		dbr:Commonwealth_of_Independent_States ,
+		dbr:Ukraine ,
+		dbr:Thomas_Newcomen ,
+		dbr:Plato ,
+		dbr:Battle_of_Adrianople ,
+		dbr:Independence_of_Brazil ,
+		dbr:The_History_of_the_Decline_and_Fall_of_the_Roman_Empire ,
+		<http://dbpedia.org/resource/Six_Days\u0027_Campaign> ,
+		dbr:Yalta ,
+		dbr:Warsaw_Pact ,
+		dbr:Yalta_Conference ,
+		dbr:Solutrean ,
+		dbr:Asturias ,
+		dbr:Generalplan_Ost ,
+		dbr:Christianisation_of_Anglo-Saxon_England ,
+		dbr:Christian_cross ,
+		<http://dbpedia.org/resource/Battle_of_Achelous_(917)> ,
+		<http://dbpedia.org/resource/John_Churchill,_1st_Duke_of_Marlborough> ,
+		dbr:January_Uprising ,
+		dbr:Principality_of_Serbia ,
+		dbr:Western_imperialism_in_Asia ,
+		dbr:Toleration ,
+		dbr:Friedrich_Engels ,
+		dbr:Great_Recession ,
+		dbr:Achaemenid_Empire ,
+		dbr:Iolcus ,
+		dbr:Fall_of_the_Western_Roman_Empire ,
+		<http://dbpedia.org/resource/File:Missolonghi.jpg> ,
+		dbr:European_Union ,
+		<http://dbpedia.org/resource/File:Breakup_of_Yugoslavia-TRY2.gif> ,
+		dbr:Constitutionalism ,
+		<http://dbpedia.org/resource/Ch\u00E2telperronian> ,
+		<http://dbpedia.org/resource/Kenneth_O._Morgan> ,
+		dbr:Indo-European_languages ,
+		dbr:Thracian_treasure ,
+		dbr:Mexican_War_of_Independence ,
+		dbr:Cinematograph ,
+		dbr:Isthmus_of_Corinth ,
+		<http://dbpedia.org/resource/\u00D6gedei_Khan> ,
+		dbr:War_of_the_Sixth_Coalition ,
+		dbr:Western_Roman_Empire ,
+		dbr:West_Indies ,
+		dbr:Neolithic ,
+		dbr:Neolithic_Europe ,
+		dbr:Succession_of_the_Roman_Empire ,
+		dbr:Romulus_Augustulus ,
+		dbr:Russia ,
+		dbr:Referendums_related_to_the_European_Union ,
+		dbr:Russian_Empire ,
+		dbr:Baruch_Spinoza ,
+		dbr:Mikhail_Gorbachev ,
+		dbr:Jus_patronatus ,
+		dbr:Western_Schism ,
+		dbr:Northern_Europe ,
+		dbr:Reconquista ,
+		dbr:Berlin_Wall ,
+		dbr:Francisco_Pizarro ,
+		dbr:Belarus ,
+		dbr:West_Francia ,
+		<http://dbpedia.org/resource/Paeonia_(kingdom)> ,
+		<http://dbpedia.org/resource/Western_Front_(World_War_II)> ,
+		dbr:Federmesser_culture ,
+		dbr:Longship ,
+		dbr:Scientific_method ,
+		dbr:Italy ,
+		dbr:Holy_Roman_Empire ,
+		dbr:Habsburg_Monarchy ,
+		dbr:Ivan_Alexander_of_Bulgaria ,
+		dbr:Francia ,
+		dbr:Battle_of_Stalingrad ,
+		dbr:Eastern_Europe ,
+		dbr:Eastern_Orthodox_Church ,
+		<http://dbpedia.org/resource/East\u2013West_Schism> ,
+		dbr:East_Germany ,
+		dbr:Southeast_Europe ,
+		dbr:Soviet_Union ,
+		dbr:Liturgy ,
+		dbr:Slavs ,
+		dbr:Long_nineteenth_century ,
+		dbr:Peace_of_Utrecht ,
+		dbr:Slovakia ,
+		dbr:Slovenia ,
+		dbr:John_Calvin ,
+		dbr:Finland ,
+		dbr:American_Revolution ,
+		dbr:Louis_XIV ,
+		dbr:Catholic_Church ,
+		dbr:Trade_route ,
+		dbr:Edict_of_Serdica ,
+		dbr:Henry_VIII ,
+		<http://dbpedia.org/resource/Brison_D._Gooch> ,
+		<http://dbpedia.org/resource/Fatherland_Front_(Austria)> ,
+		dbr:List_of_predecessors_of_sovereign_states_in_Europe ,
+		dbr:Alps ,
+		dbr:Crete ,
+		dbr:Peloponnesian_War ,
+		dbr:Kingdom_of_Hungary ,
+		dbr:Lyngby_culture ,
+		dbr:Kingdom_of_Yugoslavia ,
+		dbr:Frederick_William_III_of_Prussia ,
+		<http://dbpedia.org/resource/File:Trencheswwi2.jpg> ,
+		<http://dbpedia.org/resource/File:Chrzest_Litwy_1387_Matejko.JPG> ,
+		dbr:German_Empire ,
+		dbr:Germany ,
+		<http://dbpedia.org/resource/Battle_of_Adrianople_(1205)> ,
+		dbr:United_Nations_Security_Council ,
+		<http://dbpedia.org/resource/File:Warsaw_1944.jpg> ,
+		<http://dbpedia.org/resource/File:Marshall_Plan.png> ,
+		dbr:Classical_Athens ,
+		<http://dbpedia.org/resource/File:Bundesarchiv_N_1576_Bild-003,_Warschau,_Bettelnde_Kinder.jpg> ,
+		<http://dbpedia.org/resource/File:Tholos_of_Atreus.jpg> ,
+		<http://dbpedia.org/resource/File:Hagia_Sophia_Southwestern_entrance_mosaics_2.jpg> ,
+		dbr:Continental_Europe ,
+		dbr:Cold_War ,
+		<http://dbpedia.org/resource/File:Map_of_Europe_in_1794_Samuel_Dunn_Map_of_the_World_in_Hemispheres.JPG> ,
+		<http://dbpedia.org/resource/File:Abraham_Ortelius_Map_of_Europe.jpg> ,
+		<http://dbpedia.org/resource/File:Les_Tr\u00E8s_Riches_Heures_du_duc_de_Berry_octobre_detail.jpg> ,
+		<http://dbpedia.org/resource/File:William_Orpen_\u2013_The_Signing_of_Peace_in_the_Hall_of_Mirrors,_Versailles_1919,_Ausschnitt.jpg> ,
+		<http://dbpedia.org/resource/File:HRE-at-its-peak.jpg> ,
+		dbr:Calvinism ,
+		dbr:Spanish_Civil_War ,
+		<http://dbpedia.org/resource/File:Sweden_Vaxholm_1938.jpg> ,
+		<http://dbpedia.org/resource/File:AmericanAndSovietAtElbe.jpg> ,
+		<http://dbpedia.org/resource/2016_United_Kingdom_European_Union_membership_referendum> ,
+		dbr:Nationalism ,
+		dbr:Scholasticism ,
+		dbr:Congress_Poland ,
+		dbr:Estates_General_of_1789 ,
+		<http://dbpedia.org/resource/File:Bundesarchiv_Bild_183-R68588,_Otto_von_Bismarck.jpg> ,
+		dbr:Society_of_Jesus ,
+		dbr:Lithuania ,
+		dbr:Balkans ,
+		dbr:Baltic_Sea ,
+		dbr:Bulgarians ,
+		dbr:Austria-Hungary ,
+		dbr:Axis_powers ,
+		dbr:Crown_of_the_Kingdom_of_Poland ,
+		dbr:European_Coal_and_Steel_Community ,
+		dbr:Louis_XVI ,
+		dbr:Diocletian ,
+		<http://dbpedia.org/resource/Hamish_Scott_(historian)> .
+@prefix ns40:	<http://dbpedia.org/resource/Europe_at_War_1939\u20131945:> .
+dbr:History_of_Europe	dbo:wikiPageWikiLink	ns40:_No_Simple_Victory ,
+		dbr:Scientific_Revolution ,
+		<http://dbpedia.org/resource/File:M\u00E1ria_Ter\u00E9zia_koron\u00E1z\u00E1sa_a_Szent_M\u00E1rton_sz\u00E9kesegyh\u00E1zban.jpg> ,
+		<http://dbpedia.org/resource/File:Europe-In-301BC.png> ,
+		<http://dbpedia.org/resource/File:Europe_Prehistory.gif> ,
+		<http://dbpedia.org/resource/Treaty_of_London_(1518)> ,
+		dbr:Kingdom_of_France ,
+		<http://dbpedia.org/resource/Alm\u0131\u015F_I> ,
+		<http://dbpedia.org/resource/Niccol\u00F2_Machiavelli> ,
+		<http://dbpedia.org/resource/File:Partition_of_the_Roman_Empire_in_395_AD.png> ,
+		<http://dbpedia.org/resource/File:Herman_Moll_Map_of_Europe.jpg> ,
+		<http://dbpedia.org/resource/File:Cantino_planisphere_(1502).jpg> ,
+		<http://dbpedia.org/resource/File:DNV_opona.jpg> ,
+		<http://dbpedia.org/resource/File:Dore_London.jpg> ,
+		<http://dbpedia.org/resource/Battle_of_S\u00E3o_Mamede> ,
+		<http://dbpedia.org/resource/File:Parthenon_from_south.jpg> ,
+		<http://dbpedia.org/resource/File:Palatinus_Strandf\u00FCrd\u0151._Fortepan_78086.jpg> ,
+		<http://dbpedia.org/resource/File:Europa_in_526.png> ,
+		<http://dbpedia.org/resource/File:Barricade_Voltaire_Lenoir_Commune_Paris_1871.jpg> ,
+		dbr:Civil_Constitution_of_the_Clergy .
+@prefix ns41:	<http://dbpedia.org/resource/Iarchive:> .
+dbr:History_of_Europe	dbo:wikiPageWikiLink	ns41:americanannualc22unkngoog ,
+		<http://dbpedia.org/resource/File:Bubonic_plague-en.svg> ,
+		dbc:History_of_Europe ,
+		dbr:Authoritarianism ,
+		<http://dbpedia.org/resource/File:SiegeofAntioch.jpeg> ,
+		<http://dbpedia.org/resource/File:Europe_As_A_Queen_Sebastian_Munster_1570.jpg> ,
+		<http://dbpedia.org/resource/File:Europe_814.svg> ,
+		<http://dbpedia.org/resource/File:Europe_1000.jpg> ,
+		dbr:Kurgan_hypothesis ,
+		dbr:Philip_II_of_Macedon ,
+		dbr:Saxons ,
+		dbr:French_Indochina ,
+		dbr:Hispania ,
+		dbr:Angles ,
+		dbr:Architecture_of_the_Tarnovo_Artistic_School ,
+		dbr:Terra_Mariana ,
+		dbr:Sauveterrian ,
+		dbr:Revolution_of_Dignity ,
+		dbr:Black_Sea ,
+		dbr:Khanate_of_Kazan ,
+		dbr:Louis_Daguerre ,
+		<http://dbpedia.org/resource/Nicholas_V._Riasanovsky> ,
+		dbr:British_Hong_Kong ,
+		dbr:Jean-Jacques_Rousseau ,
+		dbr:National_Convention ,
+		dbr:Moscow ,
+		dbr:Battle_of_the_Neva ,
+		dbr:Vladimir_Lenin ,
+		dbr:Battle_on_the_Ice ,
+		<http://dbpedia.org/resource/Grande_Arm\u00E9e> ,
+		dbr:Wolfgang_Amadeus_Mozart ,
+		dbr:Holy_Roman_Emperor ,
+		dbr:Indonesia ,
+		dbr:New_York_City ,
+		dbr:Pannonian_Avars ,
+		dbr:Luhansk ,
+		<http://dbpedia.org/resource/Soviet\u2013Ukrainian_War> ,
+		dbr:Congress_of_Berlin ,
+		<http://dbpedia.org/resource/File:Colonization_1945.png> ,
+		dbr:Haitian_Revolution ,
+		dbr:Renaissance_humanism ,
+		dbr:Ninety-five_Theses ,
+		dbr:Kingdom_of_Italy ,
+		dbr:North_Africa ,
+		dbr:European_migrant_crisis ,
+		dbr:Peace_of_Westphalia ,
+		dbr:Napoleon_III ,
+		dbr:Tengri ,
+		<http://dbpedia.org/resource/File:Afrikakonferenz.jpg> ,
+		dbr:Wall_Street_Crash_of_1929 ,
+		<http://dbpedia.org/resource/File:95Thesen.jpg> ,
+		dbr:List_of_empires ,
+		dbr:George_III ,
+		dbr:Musa_ibn_Nusayr ,
+		dbr:Thomas_Jefferson ,
+		dbr:Peter_Heather ,
+		dbr:Nation_state ,
+		dbr:Emirate_of_Crete ,
+		dbr:Novgorod_Republic ,
+		dbr:Tsardom_of_Russia ,
+		dbr:Republic_of_Venice ,
+		dbr:Renaissance ,
+		dbr:Republic_of_Genoa ,
+		dbr:Battle_of_Blenheim ,
+		dbr:Pope_Leo_IX ,
+		dbr:Bohemia ,
+		dbr:Microlith ,
+		dbr:Russell_Weigley ,
+		dbr:Frederick_the_Great ,
+		dbr:German_reunification ,
+		dbr:Gallia_Aquitania ,
+		dbr:Upper_Paleolithic ,
+		dbr:Delian_League ,
+		dbr:Muslim_conquest_of_Egypt ,
+		dbr:Cardium_pottery ,
+		dbr:Reformation ,
+		dbr:Ancient_Corinth ,
+		dbr:Giuseppe_Garibaldi ,
+		dbr:Marie_Antoinette ,
+		dbr:Principality_of_Montenegro ,
+		dbr:Maria_Theresa ,
+		dbr:Franks ,
+		dbr:Nicene_Creed ,
+		dbr:Congress_of_Vienna ,
+		dbr:History_of_Athens ,
+		dbr:Hispania_Baetica ,
+		dbr:First_Bulgarian_Empire ,
+		dbr:Treaty_of_the_Pyrenees ,
+		dbr:Movable_type ,
+		dbr:Roaring_Twenties ,
+		dbr:Anglicanism ,
+		dbr:Reign_of_Terror ,
+		<http://dbpedia.org/resource/Paris_Peace_Conference_(1919\u20131920)> ,
+		dbr:Bulgaria ,
+		dbr:Hundred_Days ,
+		<http://dbpedia.org/resource/Francis_II,_Holy_Roman_Emperor> ,
+		dbr:Romanesque_architecture ,
+		dbr:Pietism ,
+		dbr:Treaty_establishing_a_Constitution_for_Europe ,
+		dbr:Weimar_Republic ,
+		dbr:Merovingian_dynasty ,
+		dbr:King_of_the_Romans ,
+		dbr:Partitions_of_Poland ,
+		<http://dbpedia.org/resource/File:Berezyna.jpg> ,
+		dbr:House_of_Habsburg ,
+		dbr:Odrysian_kingdom ,
+		dbr:Kingdom_of_Sardinia ,
+		dbr:Bulgarian_Orthodox_Church ,
+		dbr:Umayyad_conquest_of_Hispania ,
+		dbr:Michel_de_Montaigne ,
+		dbr:Vasco_da_Gama ,
+		dbr:Platonic_Academy ,
+		<http://dbpedia.org/resource/File:Battle_of_Calatafimi.jpg> ,
+		dbr:Textile_manufacturing ,
+		<http://dbpedia.org/resource/Juan_Sebasti\u00E1n_Elcano> ,
+		dbr:Friedrich_Schleiermacher ,
+		<http://dbpedia.org/resource/National_Constituent_Assembly_(France)> ,
+		dbr:Gregorian_calendar ,
+		dbr:Direct_democracy ,
+		dbr:Francisco_Franco ,
+		dbr:Kaloyan_of_Bulgaria ,
+		dbr:Parthenopean_Republic ,
+		dbr:Visigothic_Code ,
+		<http://dbpedia.org/resource/Baldwin_I,_Latin_Emperor> ,
+		dbr:Linear_A ,
+		<http://dbpedia.org/resource/The_Last_Supper_(Leonardo)> ,
+		dbr:Political_freedom ,
+		dbr:Rashidun_Caliphate ,
+		dbr:Treaty_of_Versailles ,
+		dbr:Maastricht_Treaty ,
+		dbr:Matteo_Palmieri ,
+		<http://dbpedia.org/resource/Triple_Alliance_(1882)> ,
+		dbr:Treaty_of_Karlowitz ,
+		dbr:Tardenoisian ,
+		dbr:Russian_Orthodox_Church ,
+		dbr:Aristotle ,
+		dbr:Ferdinand_VII_of_Spain ,
+		dbr:Treaties_of_Tilsit ,
+		dbr:Glasnost ,
+		dbr:Athens ,
+		<http://dbpedia.org/resource/2007_enlargement_of_the_European_Union> ,
+		dbr:History_of_the_Balkans ,
+		dbr:Commercial_Revolution ,
+		dbr:North_Macedonia ,
+		dbr:Trade_union ,
+		<http://dbpedia.org/resource/File:Milicianas_CNT-FAI.png> ,
+		dbr:Short_twentieth_century ,
+		dbr:King_of_Rome ,
+		<http://dbpedia.org/resource/Libert\u00E9,_\u00E9galit\u00E9,_fraternit\u00E9> ,
+		<http://dbpedia.org/resource/File:Bakunin_speaking.png> ,
+		dbr:Johann_Wolfgang_von_Goethe ,
+		<http://dbpedia.org/resource/Maximilian_I,_Holy_Roman_Emperor> ,
+		dbr:Kingdom_of_Prussia ,
+		dbr:Al-Andalus ,
+		dbr:Ottoman_wars_in_Europe ,
+		dbr:Malta ,
+		dbr:Norman_conquest_of_southern_Italy ,
+		dbr:Great_Turkish_War ,
+		dbr:Gothic_architecture ,
+		<http://dbpedia.org/resource/Banat,_Ba\u010Dka_and_Baranja> ,
+		dbr:Council_of_Chalcedon ,
+		dbr:Dutch_Empire ,
+		dbr:Latin_Empire ,
+		dbr:Warsaw_Pact_invasion_of_Czechoslovakia ,
+		<http://dbpedia.org/resource/Kingdom_of_Poland_(1385\u20131569)> ,
+		dbr:Linear_B ,
+		dbr:Indo-European_migrations ,
+		<http://dbpedia.org/resource/Wilhelm_II,_German_Emperor> ,
+		dbr:Iberian_Peninsula ,
+		dbr:An_Economic_and_Social_History_of_Europe ,
+		<http://dbpedia.org/resource/Egypt_(Roman_province)> ,
+		dbr:Minority_Treaties ,
+		dbr:Cleisthenes ,
+		dbr:Pax_Romana ,
+		dbr:Raymond_James_Sontag ,
+		<http://dbpedia.org/resource/Mesopotamia_(Roman_province)> ,
+		dbr:Bulgarian_Exarchate ,
+		dbr:Byzantium ,
+		dbr:Russian_Far_East ,
+		<http://dbpedia.org/resource/Frederick_II,_Holy_Roman_Emperor> ,
+		dbr:Peloponnesian_League ,
+		dbr:Minority_rights ,
+		dbr:Sarajevo ,
+		dbr:Eurasian_nomads ,
+		dbr:European_Council ,
+		dbr:Homo_erectus ,
+		dbr:Second_Polish_Republic ,
+		<http://dbpedia.org/resource/Salon_(gathering)> ,
+		dbr:Evangelicalism ,
+		dbr:Crimea ,
+		dbr:Battle_of_Grunwald ,
+		dbr:Low_Countries ,
+		dbr:House_of_Bourbon ,
+		<http://dbpedia.org/resource/W\u00FCrm_glaciation> ,
+		dbr:Dante_Alighieri ,
+		dbr:French_Wars_of_Religion ,
+		dbr:Printing ,
+		dbr:New_Rome ,
+		dbr:Spartan_hegemony ,
+		dbr:Pan-Slavism ,
+		dbr:Ionian_Revolt ,
+		dbr:Bulgars ,
+		<http://dbpedia.org/resource/The_Age_of_Empire:_1875\u20131914> ,
+		dbr:Christine_de_Pizan ,
+		dbr:Socialism ,
+		<http://dbpedia.org/resource/Otto_I,_Holy_Roman_Emperor> ,
+		dbr:Ottoman_Empire ,
+		dbr:Spain ,
+		dbr:Arthur_Evans ,
+		<http://dbpedia.org/resource/The_Struggle_for_Mastery_in_Europe_1848\u20131918> ,
+		dbr:Veliky_Novgorod ,
+		dbr:Western_Christianity ,
+		dbr:Thomas_Aquinas ,
+		dbr:Operation_Barbarossa ,
+		dbr:Republicanism ,
+		<http://dbpedia.org/resource/File:Cesare_prima_Gallia_58_a.C._jpg.jpg> ,
+		dbr:Viking_Age ,
+		dbr:Justinian_I ,
+		dbr:Inca_Empire ,
+		<http://dbpedia.org/resource/12th_century_in_literature> ,
+		dbr:Republic_of_Crimea ,
+		dbr:New_Monarchs ,
+		dbr:Machine_tool ,
+		dbr:Aegean_Sea ,
+		dbr:Argentine_War_of_Independence ,
+		dbr:Greek_Dark_Ages ,
+		<http://dbpedia.org/resource/Hern\u00E1n_Cort\u00E9s> ,
+		dbr:Galileo_Galilei ,
+		dbr:Battle_of_Waterloo ,
+		dbr:History_of_liberalism ,
+		dbr:Vernacular ,
+		dbr:City-state ,
+		dbr:First_French_Empire ,
+		dbr:Atlantic_World ,
+		dbr:Albrecht_Ritschl ,
+		dbr:Greek_language ,
+		<http://dbpedia.org/resource/Stanley_G._Payne> ,
+		dbr:Constantine_the_Great ,
+		dbr:Livonian_Brothers_of_the_Sword ,
+		dbr:Georges_Danton ,
+		<http://dbpedia.org/resource/Iv\u00E1n_T._Berend> ,
+		dbr:Early_Middle_Ages ,
+		dbr:Constantinople ,
+		dbr:Byzantine_Empire ,
+		dbr:Crimean_War ,
+		dbr:Pierre_Bayle ,
+		dbr:Leonardo_da_Vinci ,
+		dbr:Lend-Lease ,
+		dbr:Levant ,
+		<http://dbpedia.org/resource/File:Pacioli.jpg> ,
+		dbr:Bronze_Age ,
+		dbr:Filioque ,
+		<http://dbpedia.org/resource/File:Colonisation2.gif> ,
+		dbr:United_States_Bill_of_Rights ,
+		dbr:Franco-Prussian_War ,
+		dbr:Major_explorations_after_the_Age_of_Discovery ,
+		<http://dbpedia.org/resource/Georgia_(country)> ,
+		<http://dbpedia.org/resource/Solidarity_(Polish_trade_union)> ,
+		<http://dbpedia.org/resource/File:Berlin_Wall_1961-11-20.jpg> ,
+		dbr:Madame_Roland ,
+		dbr:Theodosius_I ,
+		dbr:Mediterranean_Basin ,
+		dbr:Roman_Empire ,
+		dbr:Robert_Roswell_Palmer ,
+		<http://dbpedia.org/resource/Big_Four_(World_War_I)> ,
+		dbr:Egypt ,
+		dbr:Middle_Ages ,
+		dbr:Seleucid_Empire ,
+		dbr:Rashidun_army ,
+		dbr:Creswellian_culture ,
+		dbr:Voltaire ,
+		<http://dbpedia.org/resource/G._M._Trevelyan> ,
+		dbr:Teutonic_Order ,
+		<http://dbpedia.org/resource/All_Saints\u0027_Church,_Wittenberg> ,
+		dbr:Canal ,
+		dbr:History_of_Rome ,
+		dbr:Unification_of_Norway ,
+		dbr:Anti-austerity_movement ,
+		dbr:Christopher_Columbus ,
+		dbr:Invasion ,
+		dbr:Theodoric_the_Great ,
+		dbr:Renaissance_of_the_12th_century ,
+		dbr:Phoenicia ,
+		dbr:Hellenistic_period ,
+		dbr:Konrad_Jarausch ,
+		dbr:Dalmatia ,
+		dbr:Allies_of_World_War_I ,
+		dbr:Epirus ,
+		dbr:Heraclius ,
+		dbr:Dmanisi_hominins ,
+		dbr:Wars_of_the_Diadochi ,
+		dbr:Kingdom_of_the_Lombards ,
+		dbr:Magna_Graecia ,
+		dbr:Hungarians ,
+		dbr:World_War_I_reparations ,
+		dbr:Invasion_of_Poland ,
+		<http://dbpedia.org/resource/Byzantine\u2013Sasanian_War_of_602\u2013628> ,
+		dbr:Ligurian_Republic ,
+		dbr:George_Washington ,
+		dbr:Edict_of_Milan ,
+		dbr:Euro ,
+		dbr:Augustus ,
+		dbr:Vittorio_Emanuele_Orlando ,
+		dbr:Avignon_Papacy ,
+		<http://dbpedia.org/resource/File:Invasions_of_the_Roman_Empire_1.png> ,
+		dbr:Lombards ,
+		dbr:Pope_Leo_III ,
+		dbr:Spanish_Empire ,
+		dbr:Early_modern_period ,
+		dbr:Late_Middle_Ages ,
+		<http://dbpedia.org/resource/Lech_Wa\u0142\u0119sa> ,
+		dbr:State_church_of_the_Roman_Empire ,
+		<http://dbpedia.org/resource/File:Maquina_vapor_Watt_ETSIIM.jpg> ,
+		dbr:Ghetto ,
+		dbr:Siberia ,
+		dbr:Pechenegs ,
+		dbr:Genghis_Khan ,
+		<http://dbpedia.org/resource/Macedonia_(region)> ,
+		dbr:War_in_Donbass ,
+		dbr:Battle_of_Borodino ,
+		dbr:Varna_Necropolis ,
+		<http://dbpedia.org/resource/Eastern_Front_(World_War_I)> ,
+		dbr:Monte_Poggiolo ,
+		dbr:Prussian_Army ,
+		<http://dbpedia.org/resource/Eastern_Front_(World_War_II)> ,
+		dbr:Panic_of_1873 ,
+		dbr:Emancipation_reform_of_1861 ,
+		dbr:Greek_War_of_Independence ,
+		<http://dbpedia.org/resource/C._R._M._F._Cruttwell> ,
+		dbr:History_of_Sparta ,
+		dbr:Helladic_chronology ,
+		dbr:Astures ,
+		dbr:Bastille ,
+		dbr:Grand_Duchy_of_Lithuania ,
+		dbr:Ptolemaic_Kingdom ,
+		<http://dbpedia.org/resource/\u00C1rp\u00E1d> ,
+		dbr:Pan-European_Picnic ,
+		dbr:Black_Death ,
+		dbr:Yermak_Timofeyevich ,
+		<http://dbpedia.org/resource/Francis_Hutcheson_(philosopher)> ,
+		dbr:Article_231_of_the_Treaty_of_Versailles ,
+		dbr:Preslav_Literary_School ,
+		dbr:French_Third_Republic ,
+		dbr:List_of_history_journals ,
+		dbr:Serfdom ,
+		dbr:Muslim_conquest_of_the_Levant ,
+		<http://dbpedia.org/resource/Histories_(Herodotus)> ,
+		dbr:Union_of_Krewo ,
+		dbr:Isturits ,
+		dbr:Swedish_Empire ,
+		dbr:History_of_Western_civilization ,
+		dbr:Mycenae ,
+		dbr:Venice ,
+		dbr:Tetrarchy ,
+		dbr:Population_transfer_in_the_Soviet_Union ,
+		dbr:Wittenberg ,
+		dbr:Christianization_of_Lithuania ,
+		dbr:Tariq_ibn_Ziyad ,
+		dbr:Thracians ,
+		<http://dbpedia.org/resource/Peasants\u0027_Revolt> ,
+		dbr:Klemens_von_Metternich ,
+		<http://dbpedia.org/resource/Answering_the_Question:_What_Is_Enlightenment%3F> ,
+		dbr:National_accounts ,
+		dbr:Batu_Khan ,
+		dbr:February_Revolution ,
+		dbr:Odoacer ,
+		dbr:Battle_of_Covadonga ,
+		dbr:April_Uprising_of_1876 ,
+		dbr:Second_Persian_invasion_of_Greece ,
+		dbr:Normandy ,
+		dbr:Principality_of_Bulgaria ,
+		dbr:Bactria ,
+		dbr:Battle_of_Leuctra ,
+		dbr:Tatars ,
+		<http://dbpedia.org/resource/File:1916_political_map_of_Europe.jpg> ,
+		<http://dbpedia.org/resource/Estado_Novo_(Portugal)> ,
+		<http://dbpedia.org/resource/State_(polity)> ,
+		<http://dbpedia.org/resource/Treaty_of_Paris_(1763)> ,
+		<http://dbpedia.org/resource/File:Thefalloftheberlinwall1989.JPG> ,
+		dbr:Visigothic_Kingdom ,
+		<http://dbpedia.org/resource/L\u00E9zignan-la-C\u00E8be> ,
+		dbr:Carolingian_dynasty ,
+		dbr:Syria_Palaestina ,
+		dbr:Khmelnytsky_Uprising ,
+		dbr:Romani_genocide ,
+		dbr:Pact_of_Steel ,
+		dbr:Crusader_states ,
+		dbr:Crusades ,
+		<http://dbpedia.org/resource/Syracuse,_Sicily> ,
+		dbr:Constitution_of_3_May_1791 .
+@prefix ns42:	<https://archive.org/details/> .
+dbr:History_of_Europe	dbo:wikiPageExternalLink	ns42:ageofbaroque100frie ,
+		<https://archive.org/details/in.ernet.dli.2015.98593> ,
+		ns42:struggleformaste00ajpt ,
+		<https://archive.org/download/in.ernet.dli.2015.183653/2015.183653.Europe-And-The-French-Imperium-1799-1814_text.pdf> ,
+		<https://www.amazon.com/Historical-Companion-Postcolonial-Literatures-Continental/dp/0748623949/> .
+@prefix ns43:	<https://www.questia.com/library/3696068/> .
+dbr:History_of_Europe	dbo:wikiPageExternalLink	ns43:the-transformation-of-european-politics-1763-1848 ,
+		<https://www.amazon.com/Western-Power-Asia-Slow-Swift/dp/0470824891/> ,
+		<http://www.h-net.msu.edu/reviews/showrev.php%3Fid=52226> ,
+		<https://www.jstor.org/stable/10.3366/j.ctt1g0b6vw> ,
+		<https://www.amazon.com/Empires-War-1911-1923-Greater-dp-0198702515/dp/0198702515/> ,
+		<https://web.archive.org/web/20160101023359/http:/babel.hathitrust.org/cgi/pt%3Fid=mdp.39015027344731;view=1up;seq=5> ,
+		<http://universitypublishingonline.org/cambridge/histories/subject_title_list.jsf%3FsubjectCode=15&heading=Warfare&tSort=title+closed&aSort=author+default_list&ySort=year+default_list> ,
+		<https://archive.org/details/interpretingeuro0001gooc/page/n1/mode/2up> ,
+		ns42:interpretingeuro0002gooc ,
+		<https://archive.today/20121205041741/http:/chla.library.cornell.edu/cgi/t/text/text-idx%3Fc=chla;idno=2845579> ,
+		<https://archive.org/details/in.ernet.dli.2015.84095> ,
+		<https://archive.org/details/in.ernet.dli.2015.503351> ,
+		<https://archive.org/details/in.ernet.dli.2015.57902> ,
+		<http://press.princeton.edu/titles/10812.html> ,
+		<http://primary-sources.eui.eu/> ,
+		<https://web.archive.org/web/20131005005904/http:/www.vistorica.com/eng/persongroups/1500%2C2000%2Ceuropean%2Call.html> ,
+		<http://www.nypl.org/collections/nypl-recommendations/guides%3Ffield_subject_taxonomy_value=604> ,
+		<https://semanticscholar.org/paper/85c1c799aeead8f9e03d67141b6f287858452bcc> ,
+		<https://semanticscholar.org/paper/2a353864e68f71a204b7768269790fba51cf5875> .
+@prefix ns44:	<https://semanticscholar.org/paper/> .
+dbr:History_of_Europe	dbo:wikiPageExternalLink	ns44:c1603a42ec2e35de43885ee71734ee32f20a24be .
+@prefix ns45:	<https://www.questia.com/read/55547824/> .
+dbr:History_of_Europe	dbo:wikiPageExternalLink	ns45:barricades-and-borders-europe-1800-1914 ,
+		<https://books.google.com/books%3Fid=bjQYAAAAYAAJ> ,
+		ns42:wealthpovertyeco00poll ,
+		<https://archive.org/details/historicalgeogra00poun%7Curl-access=registration> ,
+		<https://archive.org/details/in.ernet.dli.2015.78914> ,
+		<https://archive.org/details/in.ernet.dli.2015.74354> ,
+		<https://archive.org/details/in.ernet.dli.2015.503129> ,
+		<https://scholar.harvard.edu/files/manela/files/diplomatic_history-2014-786-800.pdf> ,
+		<https://archive.org/search.php%3Fquery=atlas%20world%20history%20haywood> ,
+		ns42:historyofworldin00gren .
+@prefix ns46:	<https://www.theguardian.com/books/2014/nov/17/> .
+dbr:History_of_Europe	dbo:wikiPageExternalLink	ns46:the-english-and-their-history-review-robert-tombs-resounding-importance ,
+		ns42:dictionaryofnapo00rich ,
+		ns42:europeinnineteen00gooc ,
+		<http://hsozkult.geschichte.hu-berlin.de/eurhistxx.asp> ,
+		<https://archive.org/search.php%3Fquery=title%3A%28atlas%20war%29%20AND%20creator%3A%28horrabin%29> ,
+		ns42:outlineofmodernh00earl ,
+		<https://www.amazon.com/Europe-Twentieth-Century-Robert-Paxton-ebook/dp/B00B7L8ZQ2/ref=sr_1_1%3Fs=books&ie=UTF8&qid=1482129779&sr=8-1&keywords=Paxton%2C+Robert+O.%2C+and+Julie+Hessler.+Europe+in+the+twentieth+century.+Cengage+Learning%2C+2011.> ,
+		ns42:randmcnallyatlas00 .
+@prefix ns47:	<https://doi.org/10.1017/> .
+dbr:History_of_Europe	dbo:wikiPageExternalLink	ns47:S0960777319000146 .
+@prefix ns48:	<https://www.questia.com/library/23721/> .
+dbr:History_of_Europe	dbo:wikiPageExternalLink	ns48:a-history-of-european-diplomacy-1451-1789 ,
+		ns42:moderneurope00gayp .
+@prefix ns49:	<https://www.questia.com/library/91116106/> .
+dbr:History_of_Europe	dbo:wikiPageExternalLink	ns49:the-european-world-since-1815-triumph-and-transition .
+@prefix ns50:	<https://www.questia.com/library/70061929/> .
+dbr:History_of_Europe	dbo:wikiPageExternalLink	ns50:women-in-western-european-history-a-select-chronological .
+@prefix ns51:	<https://www.questia.com/library/4005380/> .
+dbr:History_of_Europe	dbo:wikiPageExternalLink	ns51:diplomatic-history-1713-1933 .
+@prefix ns52:	<https://www.questia.com/library/1608627/> .
+dbr:History_of_Europe	dbo:wikiPageExternalLink	ns52:europe-in-transition-1300-1520 ,
+		ns42:diplomatichistor0000albr_b4c1 ,
+		<http://bookshop.europa.eu/en/eurostat-yearbook-95-pbCA8193204/> .
+@prefix ns53:	<https://archive.org/details/brokenworld1919100sont/page/> .
+dbr:History_of_Europe	dbo:wikiPageExternalLink	ns53:n11 .
+@prefix ns54:	<https://archive.org/details/atlas-of-world-history/page/> .
+dbr:History_of_Europe	dbo:wikiPageExternalLink	ns54:n2 ,
+		ns42:HistoricalAtlas .
+@prefix ns55:	<https://commons.wikimedia.org/wiki/> .
+dbr:History_of_Europe	dbo:wikiPageExternalLink	ns55:Historical_atlas ,
+		ns55:Atlas_of_Germany .
+@prefix dbt:	<http://dbpedia.org/resource/Template:> .
+dbr:History_of_Europe	dbp:wikiPageUsesTemplate	dbt:Cite_journal ,
+		dbt:Wikivoyage ,
+		dbt:Cite_document ,
+		dbt:Citation_needed ,
+		dbt:Cite_web ,
+		dbt:Commons ,
+		dbt:Reflist ,
+		dbt:Short_description ,
+		dbt:Use_dmy_dates ,
+		dbt:ISBN ,
+		dbt:Anchor ,
+		dbt:Multiple_image ,
+		dbt:See_also ,
+		dbt:Cite_book ,
+		dbt:Div_col ,
+		dbt:Div_col_end ,
+		dbt:Further ,
+		dbt:SS ,
+		<http://dbpedia.org/resource/Template:Europe_topics_(small)> ,
+		dbt:Wikiversity ,
+		dbt:Main ,
+		dbt:Wikibooks ,
+		dbt:History_by_continent ,
+		dbt:TOC_limit ,
+		dbt:European_history_by_country ,
+		dbt:History_of_Europe ,
+		dbt:Convert ,
+		dbt:Quote_box ;
+	dbp:caption	"Scheme of Indo-European migrations from c. 4000 to 1000 BC according to the Kurgan hypothesis"@en ,
+		"Late neolithic Europe in c. 4000\u20133500 BC."@en ,
+		"Late Bronze Age Europe."@en ,
+		"Map showing the Neolithic expansions from the 7th to the 5th millennium BC, including the Cardium culture in blue."@en ;
+	dbo:abstract	"\u6B27\u6D32\u5386\u53F2\u6700\u65E9\u53EF\u4EE5\u8FFD\u6EAF\u5230\u516C\u5143\u524D3\u4E075\u5343\u5E74\uFF08\u751A\u81F3\u662F\u4E00\u767E\u842C\u5E74\u524D\uFF09\u7684\u65E7\u77F3\u5668\u65F6\u4EE3\uFF0C\u5DF2\u7ECF\u6709\u4EBA\u7C7B\u5C45\u4F4F\u9057\u8FF9\u3002\u5728\u524D7000\u5E74\u7684\u65B0\u77F3\u5668\u65F6\u4EE3\u65E9\u671F\u51FA\u73B0\u4E86\u5B9A\u5C45\u70B9\u3001\u519C\u8015\u6280\u672F\u548C\u9A6F\u517B\u5BB6\u755C\u3002\u4ECE\u6700\u65E9\u6709\u6587\u5B57\u8BB0\u8F7D\u7684\u6587\u660E\u622A\u81F3\u516C\u5143\u524D1200\u5E74\u6587\u660E\u6682\u65F6\u5012\u9000\u6D88\u5931\u7684\u65F6\u671F\u79F0\u4E3A\u9752\u94DC\u65F6\u4EE3\uFF0C\u94DC\u662F\u5F53\u65F6\u5236\u4F5C\u5DE5\u5177\u548C\u6B66\u5668\u7684\u4E3B\u8981\u91D1\u5C5E\u6750\u6599\u3002\u77F3\u5668\u65F6\u4EE3\u4E0E\u9752\u94DC\u65F6\u4EE3\u79F0\u4E3A\u6B27\u6D32\u7684\u53F2\u524D\u65F6\u671F\u3002\u897F\u5143\u524D3000\u5E74\u5DE6\u53F3\uFF0C\u5E0C\u81D8\u53CA\u611B\u7434\u6D77\u5217\u5CF6\u9032\u5165\u9752\u9285\u6642\u4EE3\uFF0C\u5176\u4E2D\u7684\u4EE3\u8868\u662F\u7C73\u8AFE\u65AF\u6587\u660E\u8207\u9081\u932B\u5C3C\u6587\u660E\u3002 \u6B27\u6D32\u53E4\u5178\u65F6\u671F\u4ECE\u524D9\u4E16\u7D00\u53E4\u5E0C\u81D8\u8A9E\u518D\u6B21\u51FA\u73B0\u5F00\u59CB\u3002\u7F57\u9A6C\u5171\u548C\u56FD\u4E8E\u524D509\u5E74\u5EFA\u7ACB\u3002\u7F57\u9A6C\u4EBA\u5C06\u7586\u57DF\u62D3\u5C55\u81F3\u6574\u4E2A\u610F\u5927\u5229\uFF0C\u968F\u540E\u662F\u6574\u4E2A\u5730\u4E2D\u6D77\u5468\u8FB9\u548C\u897F\u6B27\u3002\u7F57\u9A6C\u5E1D\u56FD\u7684\u9886\u571F\u4E8E\u516C\u5143117\u5E74\u5230\u8FBE\u6700\u5927\u3002313\u5E74\uFF0C\u57FA\u7763\u6559\u5728\u541B\u58EB\u5766\u4E01\u5927\u5E1D\u6CBB\u4E0B\u5408\u6CD5\u5316\u3002\u53EA\u662F\u51E0\u4E2A\u4E16\u4EE3\u540E\uFF0C\u57FA\u7763\u6559\u5C31\u6210\u4E3A\u5E1D\u56FD\u7684\u56FD\u6559\u3002\u7F85\u99AC\u5E1D\u570B\u7684\u8870\u843D\uFF0C\u6A19\u8A8C\u8457\u53E4\u5178\u6642\u4EE3\u7684\u7D42\u7D50\u548C\u6B50\u6D32\u4E2D\u4E16\u7D00\u7684\u958B\u59CB\u3002395\u5E74\uFF0C\u7F57\u9A6C\u5E1D\u56FD\u4E00\u5206\u4E3A\u4E8C\u3002\u968F\u5373\u86EE\u65CF\u90E8\u843D\u5F00\u59CB\u5165\u4FB5\u897F\u7F57\u9A6C\u5E1D\u56FD\u3002\u897F\u54E5\u7279\u4EBA\u662F\u9996\u5148\u5411\u5357\u4E0E\u5411\u897F\u8D8A\u8FC7\u7F57\u9A6C\u56FD\u5883\u7EBF\u8FDB\u5165\u524D\u7F57\u9A6C\u5E1D\u56FD\u9886\u571F\u7684\u90E8\u843D\u4E4B\u4E00\uFF0C\u5E76\u4E8E5\u4E16\u7EAA\u521D\uFF0C\u4E09\u5EA6\u56F4\u653B\u7F57\u9A6C\u3002418\u5E74\uFF0C\u5728\u539F\u7F57\u9A6C\u5E1D\u56FD\u5883\u5185\u5EFA\u7ACB\u897F\u54E5\u7279\u738B\u56FD\u3002476\u5E74\uFF0C\u6700\u540E\u4E00\u4E2A\u897F\u7F57\u9A6C\u5E1D\u56FD\u7687\u5E1D\u7F57\u6155\u8DEF\u65AF\u00B7\u5965\u53E4\u65AF\u90FD\u88AB\u5E9F\u9EDC\uFF0C\u6B27\u6D32\u8FDB\u5165\u4E2D\u4E16\u7EAA\u65F6\u671F\u3002 \u4E1C\u5357\u6B27\u548C\u5730\u4E2D\u6D77\u5730\u533A\u4ECD\u7531\u4E1C\u7F57\u9A6C\u5E1D\u56FD\u63A7\u5236\uFF0C\u9996\u90FD\u4E3A\u541B\u58EB\u5766\u4E01\u5821\u30026\u4E16\u7EAA\u665A\u671F\u5F00\u59CB\u88AB\u65E5\u8033\u66FC\u4EBA\u4FB5\u8680\u30027\u4E16\u7EAA\u5F00\u59CB\uFF0C\u4E2D\u4E1C\u548C\u5317\u975E\u5730\u533A\u88AB\u963F\u62C9\u4F2F\u5E1D\u56FD\u5360\u9886\uFF0C\u5E76\u4F0A\u65AF\u5170\u5316\u3002\u5728\u897F\u6B27\uFF0C\u5F88\u591A\u65B0\u56FD\u5BB6\u4ECD\u4FDD\u7559\u4E86\u7F57\u9A6C\u7684\u4E60\u4FD7\uFF0C\u4F7F\u7528\u62C9\u4E01\u8BED\u4F5C\u4E3A\u4E66\u9762\u8BED\u8A00\uFF0C\u5E76\u666E\u904D\u4FE1\u4EF0\u57FA\u7763\u6559\u3002800\u5E74\u67E5\u7406\u66FC\u88AB\u6559\u5B97\u52A0\u5195\u4E3A\u201C\u7F57\u9A6C\u7687\u5E1D\u201D\u3002\u6B27\u6D32\u53D7\u5230\u65AF\u582A\u7684\u7EB3\u7EF4\u4E9A\u7684\u7DAD\u4EAC\u4EBA\u3001\u5317\u975E\u7684\u7A46\u65AF\u6797\u548C\u5308\u7259\u5229\u7684\u9A6C\u624E\u5C14\u4EBA\u7684\u5165\u4FB5\u3002\u523010\u4E16\u7EAA\u4E2D\u671F\uFF0C\u7A46\u65AF\u6797\u548C\u9A6C\u624E\u5C14\u4EBA\u5BF9\u897F\u6B27\u7684\u5A01\u80C1\u6D88\u9664\u4E86\uFF0C\u4F46\u662F\u7DAD\u4EAC\u4EBA\u4ECD\u7136\u662F\u4FB5\u72AF\u548C\u5A01\u80C1\u4E0D\u5217\u98A0\u7FA4\u5C9B\u6700\u4E45\u7684\u30021054\u5E74\u4E1C\u897F\u6559\u4F1A\u5206\u88C2\u52A0\u5267\uFF0C\u968F\u540E\u5341\u5B57\u8ECD\u6771\u5F81\u5F00\u59CB\u524A\u5F31\u62DC\u5360\u5EAD\u5E1D\u56FD\uFF0C\u6559\u5B97\u7684\u6743\u529B\u6B64\u65F6\u4E5F\u5728\u897F\u73ED\u7259\u3001\u6CD5\u56FD\u5357\u90E8\u3001\u7ACB\u9676\u5B9B\u4E0E\u5176\u4ED6\u7684\u5F02\u6559\u5730\u533A\u7A33\u56FA\u4E0B\u6765\u3002\u590D\u6742\u7684\u5C01\u5EFA\u7B49\u7EA7\u5236\u5EA6\u53D1\u5C55\u8D77\u6765\uFF0C\u65B0\u56FD\u5BB6\u7684\u5927\u591A\u6570\u8D35\u65CF\u7531\u4E8E\u901A\u5A5A\u4E92\u76F8\u662F\u8FD1\u4EB2\u3002\u5C01\u5EFA\u793E\u4F1A\u5728\u8499\u53E4\u5165\u4FB5\u540E\u5F00\u59CB\u89E3\u4F53\u3002\u4E2D\u4E16\u7EAA\u540E\u671F\u6B27\u6D32\u7206\u53D1\u4E86\u5927\u9965\u8352\u548C\u9ED1\u6B7B\u75C5\u3002 15\u4E16\u7EAA\uFF0C\u6B27\u6D32\u4ECE\u4E2D\u4E16\u7EAA\u82CF\u9192\u8FC7\u6765\u30021492\u5E74\u897F\u73ED\u7259\u7684\u6536\u590D\u5931\u5730\u8FD0\u52A8\u548C\u54E5\u4F26\u5E03\u53D1\u73B0\u7F8E\u6D32\uFF0C\u540C\u65F6\u7EC8\u7ED3\u4E86\u5341\u5B57\u519B\u4E1C\u5F81\uFF0C\u77E5\u8BC6\u83B7\u5F97\u5C0A\u91CD\uFF0C\u5F00\u59CB\u6311\u6218\u4F20\u7EDF\u7684\u79D1\u5B66\u548C\u795E\u5B66\u6559\u6761\u3002\u65B0\u6559\u6539\u9769\u5F00\u59CB\uFF0C\u5FB7\u56FD\u795E\u7236\u99AC\u4E01\u00B7\u8DEF\u5FB7\u6311\u6218\u6559\u5B97\u7684\u6743\u5A01\u3002\u540C\u65F6\u4EA8\u5229\u516B\u4E16\u4F7F\u82F1\u56FD\u6559\u4F1A\u8131\u79BB\u6559\u5B97\u7BA1\u5236\uFF0C\u4E5F\u8BA9\u82F1\u683C\u5170\u5728\u968F\u4E4B\u800C\u6765\u7684\u5FB7\u610F\u5FD7\u548C\u897F\u73ED\u7259\u4E4B\u95F4\u7684\u5B97\u6559\u6218\u4E89\u4E2D\u5F97\u4EE5\u91C7\u53D6\u66F4\u7075\u6D3B\u7684\u7ED3\u76DF\u653F\u7B56\u3002\u4F46\u662F\uFF0C\u5B97\u6559\u6218\u4E89\u4E00\u76F4\u6301\u7EED\u5230\u4E09\u5341\u5E74\u6218\u4E89\uFF0C\u8FD9\u573A\u6218\u4E89\u7ED3\u675F\u4E8E\u5A01\u65AF\u7279\u4F10\u5229\u4E9A\u548C\u7EA6\uFF1B\u5149\u8363\u9769\u547D\u786E\u8BA4\u8FD9\u4E2A\u534F\u8BAE\u3002 18\u4E16\u7EAA\u540E\u671F\uFF0C\u82F1\u56FD\u5DE5\u4E1A\u9769\u547D\u5F00\u542F\u4E86\u673A\u5668\u65F6\u4EE3\uFF0C\u5927\u82F1\u5E1D\u56FD\u5728\u7F8E\u6D32\u7684\u6B96\u6C11\u5730\u72EC\u7ACB\uFF0C\u800C\u6B27\u6D32\u5927\u9646\u4E5F\u7206\u53D1\u4E86\u6CD5\u56FD\u5927\u9769\u547D\uFF0C\u76F4\u5230\u62FF\u7834\u4ED1\u767C\u52D5\u9727\u6708\u653F\u8B8A\u30021848\u5E74\uFF0C\u6B50\u6D32\u5404\u570B\u7206\u767C\u4E00\u7CFB\u5217\u6B66\u88DD\u9769\u547D\u3002\u6700\u540E\u7684\u519C\u5974\u5236\u6B8B\u4F59\u57281848\u5E74\u7684\u5965\u5308\u5E1D\u56FD\u88AB\u5E9F\u9664\u3002\u4FC4\u56FD\u519C\u5974\u5236\u57281861\u5E74\u88AB\u5E9F\u9664\u3002\u5DF4\u5C14\u5E72\u56FD\u5BB6\u5F00\u59CB\u4ECE\u5965\u65AF\u66FC\u5E1D\u56FD\u91CD\u83B7\u72EC\u7ACB\u30021870\u5E74\u666E\u6CD5\u6230\u722D\u540E\uFF0C\u610F\u5927\u5229\u548C\u5FB7\u56FD\u5B8C\u6210\u7EDF\u4E00\u30021914\u5E74\u7B2C\u4E00\u6B21\u4E16\u754C\u5927\u6218\u7206\u53D1\uFF0C1917\u5E74\u4FC4\u56FD\u9769\u547D\uFF0C1918\u5E74\u540C\u76DF\u56FD\u6218\u8D25\uFF0C\u5FB7\u610F\u5FD7\u5E1D\u56FD\u3001\u5965\u5308\u5E1D\u56FD\u3001\u5965\u65AF\u66FC\u5E1D\u56FD\u7EDF\u6CBB\u5D29\u6E83\u30021933\u5E74\u7EB3\u7CB9\u4E0A\u53F0\uFF0C\u4E4B\u540E\u5F15\u53D1\u7B2C\u4E8C\u6B21\u4E16\u754C\u5927\u6218\uFF0C\u7EB3\u7CB9\u5FB7\u56FD\u4E0E\u8F74\u5FC3\u56FD\u6218\u8D25\u3002\u6218\u540E\u7F8E\u82CF\u4E3A\u9996\u7684\u4E24\u5927\u6218\u80DC\u56FD\u96C6\u56E2\u5728\u6B27\u6D32\u4E0E\u5168\u4E16\u754C\u8303\u56F4\u5185\u5C55\u5F00\u51B7\u6218\u30021989\u5E74\u67CF\u6797\u570D\u7246\u5012\u584C\u540E\uFF0C\u6B27\u6D32\u7B7E\u8BA2\u9A6C\u65AF\u7279\u91CC\u8D6B\u7279\u6761\u7EA6\u3002\u81F32016\u5E74\u4E3A\u6B62\uFF0C\u6B27\u76DF\u5305\u62EC28\u4E2A\u6B27\u6D32\u56FD\u5BB6\uFF0C\u8D85\u8FC75\u4EBF\u4EBA\u53E3\u3002\u5317\u7EA6\u4E5F\u6269\u5927\u5230\u5305\u62EC\u4FC4\u7F57\u65AF\u7684\u90BB\u56FD\u2014\u2014\u8FD9\u662F\u6B27\u6D32\u81EA\u4ECE\u4E00\u4E16\u7EAA\u7F57\u9A6C\u5E1D\u56FD\u4EE5\u6765\u4E00\u4F53\u5316\u6700\u663E\u8457\u4E0E\u6700\u5177\u519B\u4E8B\u4F18\u52BF\u7684\u65F6\u671F\u3002"@zh ,
+		"Die Geschichte Europas ist die Geschichte der Menschen auf dem europ\u00E4ischen Kontinent, von dessen erster Besiedlung bis zur Gegenwart. Die klassische Antike begann im antiken Griechenland, das im Allgemeinen als der Beginn der westlichen Zivilisation angesehen wird und einen immensen Einfluss auf Sprache, Politik, Erziehungssysteme, Philosophie, Naturwissenschaften und K\u00FCnste aus\u00FCbte. Die griechische Kultur, die sich w\u00E4hrend des Hellenismus \u00FCber weite Teile der \u00F6stlichen Mittelmeerwelt ausgebreitet hatte, wurde vom R\u00F6mischen Reich \u00FCbernommen, das sich nach der Eroberung Italiens seit dem 3. Jahrhundert v. Chr. von Italien aus nach und nach \u00FCber den gesamten Mittelmeerraum ausbreitete und im fr\u00FChen 2. Jahrhundert n. Chr. seine gr\u00F6\u00DFte Ausdehnung erreichte. Der r\u00F6mische Kaiser Konstantin der Gro\u00DFe f\u00F6rderte mit der konstantinischen Wende den Aufstieg des Christentums zur Staatsreligion im Imperium und verlegte seine Residenz in den Osten des Reiches nach Konstantinopel, dem heutigen Istanbul. Nach dem Untergang des Westr\u00F6mischen Reiches 476 blieben gro\u00DFe Teile S\u00FCdosteuropas im Machtbereich des Ostr\u00F6mischen Reiches (Byzanz), w\u00E4hrend das Gebiet des fr\u00FCheren Westr\u00F6mischen Reiches im Laufe der V\u00F6lkerwanderung eine instabile Zeit durchlebte und sich hier mehrere germanisch-romanische Reiche bildeten. Karl der Gro\u00DFe, 800 vom Papst zum Kaiser (im Westen) gekr\u00F6nt, beherrschte gro\u00DFe Teile Westeuropas, das jedoch bald darauf von Wikingern, Muslimen (islamische Expansion bereits seit dem 7. Jahrhundert) und Magyaren (Ungarneinf\u00E4lle) angegriffen wurde. Das Paderborner Epos, ein Werk der das Abendland erfassenden Karolingischen Renaissance, erkl\u00E4rte ihn zum \u201EVater Europas\u201C (pater Europ\u00E6). Im weiteren Verlauf des Fr\u00FChmittelalters entstanden eine Reihe neuer Reiche in Europa und es fand eine Umformung des r\u00F6mischen Erbes statt. Das europ\u00E4ische Mittelalter war unter anderem gepr\u00E4gt von der Entstehung des Lehnswesens, einer st\u00E4ndischen Herrschaftsordnung und einer starken Rolle der christlichen Religion in Kultur und Alltag. Der Mongolensturm in der Mitte des 13. und die Pestepidemie in der Mitte des 14. Jahrhunderts versetzten dem europ\u00E4ischen Feudalsystem schwere Schl\u00E4ge. Die Renaissance, das erneute kulturelle Aufleben der griechisch-r\u00F6mischen Antike, begann im 14. Jahrhundert in Florenz. Die Ausbreitung des Buchdrucks, ausgehend von der Erfindung der Druckerpresse durch Johannes Gutenberg in Mainz, f\u00F6rderte die Bewegungen des Humanismus und der Reformation. Das Zeitalter der Reformation und Gegenreformation war von zahlreichen Religionskriegen gekennzeichnet, die ihren Abschluss im Drei\u00DFigj\u00E4hrigen Krieg und dem Westf\u00E4lischen Frieden 1648 fanden. Die christliche Reconquista Spaniens und Portugals f\u00FChrte zum Zeitalter der Entdeckungen in Nord- und S\u00FCdamerika, Afrika und Asien, zum Aufbau europ\u00E4ischer Kolonialreiche sowie zum \u201EColumbian Exchange\u201C, dem Austausch von Pflanzen und Tieren zwischen der \u00F6stlichen und westlichen Hemisph\u00E4re. Die industrielle Revolution, ausgehend von Gro\u00DFbritannien, f\u00F6rderte die Mechanisierung der Arbeitsprozesse und den internationalen Handel. Die Aufkl\u00E4rung forderte die Gewaltenteilung. Sie war der Vorbote der Franz\u00F6sischen Revolution von 1789, aus welcher als neuer Herrscher Frankreichs Napoleon hervorging, der bis 1815 mehrere Kriege f\u00FChrte. Die erste H\u00E4lfte des 19. Jahrhunderts war von weiteren Revolutionen gekennzeichnet, aus denen das B\u00FCrgertum und die Arbeiterklasse in Frankreich und England gest\u00E4rkt hervorgingen. 1861 entstand das K\u00F6nigreich Italien und 1871 das Deutsche Reich als Nationalstaaten, wie die meisten damaligen Staaten Europas in Form von konstitutionellen Monarchien. Gegen Ende des 19. Jahrhunderts verst\u00E4rkte sich im Zuge des Imperialismus der Konkurrenzkampf der europ\u00E4ischen Gro\u00DFm\u00E4chte, bis zum Ausbruch des Ersten Weltkriegs 1914. Die russische Oktoberrevolution von 1917 f\u00FChrte zur Bildung der kommunistischen Sowjetunion. Die Unzufriedenheit mit den Ergebnissen des Ersten Weltkriegs sowie die Weltwirtschaftskrise von 1929 beg\u00FCnstigten den Aufstieg des Nationalsozialismus in Deutschland, des Faschismus in Italien, des Franquismus in Spanien und f\u00FChrten letztlich zum Zweiten Weltkrieg. Nach dem Kriegsende im Jahr 1945 war Europa in der Periode des Kalten Kriegs durch den \u201EEisernen Vorhang\u201C zwischen dem von den USA dominierten Westen und dem von der Sowjetunion beherrschten Ostblock getrennt. 1989 fiel der Eiserne Vorhang und in allen Ostblockstaaten erodierte die Macht der Kommunisten. Das bewirkte einen Wechsel des Regierungssystems in der DDR, in Polen, in Ungarn, in der \u010CSSR, sowie in Bulgarien und in Rum\u00E4nien. Bis 1991 wurden die meisten sowjetischen Gliedstaaten unabh\u00E4ngig und die Sowjetunion selbst l\u00F6ste sich auf. Ab 1991 kam es zum Zerfall Jugoslawiens. Mit der Aufl\u00F6sung des Ostblockes \u00E4nderte sich die geopolitische Lage in Europa grundlegend womit sich im Rahmen der europ\u00E4ischen Einigung M\u00F6glichkeiten zur Vertiefung der Integration aber auch zur Vorbereitung von Erweiterungen im Osten ergaben. Mit der EU-Erweiterung sind dann bis 2007 die meisten Staaten und Gebiete des ehemaligen Ostblocks der EU beigetreten. Der Einfluss der Geschichte auf die Kulturen Europas kann geografisch in sechs unterschiedlichen \u201E\u201C abgebildet werden."@de ,
+		"Europako historia kontinente horretan gertatutakoa kontatzen duten kondaira da. Hutsuneak hutsune, Historiaurretik Aro Garaikidera arte ongi ikertutako historia da."@eu ,
+		"Prvn\u00EDm p\u0159\u00EDslu\u0161n\u00EDky lidsk\u00E9ho rodu v Evrop\u011B byli Homo antecessor, kte\u0159\u00ED do n\u00ED pronikli p\u0159ed 800 tis\u00EDci lety a p\u0159ed 600 tis\u00EDci lety se vyvinuli v Homo heidelbergensis a ti zas pod vlivem sni\u017Euj\u00EDc\u00EDch se teplot p\u0159ed 250 tis\u00EDci lety na Homo neanderthalensis. Stali se nositeli kultur jako Micoquien,  a  a p\u0159ed 70 tis\u00EDci lety os\u00EDdlili i P\u0159edn\u00ED v\u00FDchod a st\u0159edn\u00ED Asii. Prvn\u00ED Homo sapiens v Evrop\u011B se za\u010Dali nejsp\u00ED\u0161 \u0161\u00ED\u0159it p\u0159ed 45 tis\u00EDci lety St\u0159edomo\u0159\u00EDm a na Balk\u00E1n. P\u0159ibli\u017En\u011B p\u0159ed 36 500 lety pak p\u0159ich\u00E1z\u00ED ze st\u0159edn\u00ED Asie dal\u0161\u00ED populace Homo sapiens naz\u00FDvan\u00E1 kroma\u0148onci a zakl\u00E1d\u00E1 kulturu aurignacien a b\u011Bhem interglaci\u00E1lu p\u0159ed 29 tis\u00EDci lety z Arabsk\u00E9ho poloostrova nositel\u00E9 kultury gravettien. V t\u00E9to dob\u011B, nejsp\u00ED\u0161 pod vlivem p\u0159e\u010D\u00EDslen\u00ED nov\u011B p\u0159\u00EDchoz\u00EDmi vym\u00EDraj\u00ED neandrt\u00E1lci. V obdob\u00ED 22 \u2013 10 tis\u00EDci lety n\u00E1sleduj\u00ED kultury solutr\u00E9en, , , ahrensburg a . S koncem posledn\u00ED doby ledov\u00E9 lid\u00E9 (je\u0161t\u011B jako lovci a sb\u011Bra\u010Di) migruj\u00ED do Evropy."@cs ,
+		"Denna artikel skildrar Europas historia. De f\u00F6rsta f\u00F6r-m\u00E4nniskorna kom till Europa f\u00F6r cirka 800 000 \u00E5r sedan som ett resultat av att Homo erectus spred sig \u00F6ver jorden. Medan den moderna m\u00E4nniskan (Homo sapiens) fortfarande utvecklades i Afrika levde Homo heidelbergensis och Homo neanderthalensis (neandertalm\u00E4nniska) i Europa. De f\u00F6rsta moderna m\u00E4nniskorna utvecklades i Afrika f\u00F6r omkring 200 000 \u00E5r sedan och kom till Europa f\u00F6r cirka 40 000 \u00E5r sedan. Det var endast en liten grupp afrikaner som f\u00F6r kanske 60 000 \u00E5r sedan tog sig \u00F6ver till Sinaihalv\u00F6n, och som blev f\u00F6rf\u00E4der till alla m\u00E4nniskor utom de svarta afrikaner som stannade i Afrika. Forskarna tvistar \u00E4nnu om v\u00E4gen till Europa har g\u00E5tt direkt norrut genom det som idag \u00E4r Israel, Libanon och Syrien, eller om v\u00E5ra f\u00F6rf\u00E4der tog sig vidare \u00F6ver till Arabiska halv\u00F6n och sedan f\u00F6ljde Indiska oceanens kust tills de st\u00F6tte p\u00E5 floder som de f\u00F6ljde norrut. I b\u00E4gge fallen b\u00F6r Homo sapiens i sin f\u00F6rsta inflyttningsv\u00E5g till Europa f\u00F6r 40 000 \u00E5r sedan ha tagit sig till Europa via det som idag \u00E4r Anatolien (Turkiska halv\u00F6n), d\u00E4r mycket gamla fynd har hittats, och vidare \u00F6ver Bosporen. Ansiktsbenen fr\u00E5n den hittills \u00E4ldsta \"europ\u00E9n\" \u2013 en 40 000 \u00E5r gamla fossil fr\u00E5n en ton\u00E5ring \u2013 har hittats i en grotta i Rum\u00E4nien, och Richard Neave, brittisk kriminaltekniker har \u00E5terskapat ansiktet med hj\u00E4lp av kopior av skallbenen. En m\u00F6rkhyad, men inte svart, person med ansiktsdrag som inte \u00F6verensst\u00E4mmer helt med n\u00E5gon nu levande folkgrupp blev resultatet. (Den ljusa hudf\u00E4rgen antas ha utvecklats som ett resultat av m\u00E4nniskans behov av vitamin D.) Neave talar om ett ansikte som tycks befinna sig i \"flux\" \u2013 i ett tillst\u00E5nd av f\u00F6r\u00E4ndring mot vilken som helst av de folkgrupper som idag finns i v\u00E4rlden. Omkring tio procent av dagens europ\u00E9er b\u00E4r p\u00E5 gener fr\u00E5n dessa f\u00F6rsta europ\u00E9er. Europ\u00E9erna \u00E4r dock ingen folkgrupp avskild fr\u00E5n andra p\u00E5 jorden. Om vi moderna m\u00E4nniskor j\u00E4mf\u00F6r oss med varandra \u00E4r en person, vilken som helst, till 99,9 procent genetiskt identisk med en slumpvis utvald m\u00E4nniska var som helst p\u00E5 jorden. Enligt nya r\u00F6n b\u00E4r dessutom alla m\u00E4nniskor p\u00E5 jorden utom svarta afrikaner p\u00E5 en liten m\u00E4ngd genetiskt material som \u00E4r unikt f\u00F6r neandertalm\u00E4nniskan. De sista neandertalm\u00E4nniskorna dog ut f\u00F6r cirka 30 000 \u00E5r sedan. F\u00F6r cirka 25 000 \u00E5r sedan svepte v\u00E5gor av invandrare fr\u00E5n Asien in i Europa, och kom att dominera kontinenten. Att likadana konstf\u00F6rem\u00E5l hittats fr\u00E5n dagens Frankrike till omr\u00E5det kring Kaspiska havet tyder p\u00E5 ett socialt n\u00E4tverk och m\u00E4nniskor med en \u00F6vergripande gemensam kultur."@sv ,
+		"\u0406\u0441\u0442\u043E\u0440\u0456\u044F \u0404\u0432\u0440\u043E\u043F\u0438 \u043E\u043F\u0438\u0441\u0443\u0454 \u0456\u0441\u0442\u043E\u0440\u0456\u044E \u0437\u0430\u0441\u0435\u043B\u0435\u043D\u043D\u044F \u043B\u044E\u0434\u044C\u043C\u0438 \u0404\u0432\u0440\u043E\u043F\u0435\u0439\u0441\u044C\u043A\u043E\u0433\u043E \u043A\u043E\u043D\u0442\u0438\u043D\u0435\u043D\u0442\u0443, \u0434\u0456\u044F\u043B\u044C\u043D\u0456\u0441\u0442\u044C \u043B\u044E\u0434\u0435\u0439, \u0456\u0441\u0442\u043E\u0440\u0456\u044E \u043D\u0430\u0440\u043E\u0434\u0456\u0432 \u0456 \u043A\u0440\u0430\u0457\u043D, \u043F\u043E\u0447\u0438\u043D\u0430\u044E\u0447\u0438 \u0437 \u0434\u043E\u0456\u0441\u0442\u043E\u0440\u0438\u0447\u043D\u0438\u0445 \u0447\u0430\u0441\u0456\u0432 \u0437 \u043F\u0435\u0440\u0448\u0438\u043C\u0438 \u043F\u043E\u0441\u0435\u043B\u0435\u043D\u043D\u044F\u043C\u0438 \u043C\u0456\u0436 45,000 \u0456 25,000 \u0440\u043E\u043A\u0430\u043C\u0438 \u0434\u043E \u043D. \u0435., \u0434\u043E \u0442\u0435\u043F\u0435\u0440\u0435\u0448\u043D\u0456\u0445 \u0447\u0430\u0441\u0456\u0432. \u041D\u0430\u0439\u0434\u0430\u0432\u043D\u0456\u0448\u0456 \u043F\u043E\u0441\u0435\u043B\u0435\u043D\u0446\u0456 \u0434\u043E\u0456\u0441\u0442\u043E\u0440\u0438\u0447\u043D\u043E\u0457 \u0404\u0432\u0440\u043E\u043F\u0438 \u0432\u0456\u0434\u043D\u043E\u0441\u044F\u0442\u044C\u0441\u044F \u0434\u043E \u043F\u0430\u043B\u0435\u043E\u043B\u0456\u0442\u0443. \u0412\u0435\u0434\u0435\u043D\u043D\u044F \u0441\u0456\u043B\u044C\u0441\u044C\u043A\u043E\u0433\u043E \u0433\u043E\u0441\u043F\u043E\u0434\u0430\u0440\u0441\u0442\u0432\u0430 \u043F\u043E\u0447\u0430\u043B\u043E\u0441\u044F \u0431\u043B\u0438\u0437\u044C\u043A\u043E 7000 \u0434\u043E \u043D. \u0435. \u0432 \u043D\u0435\u043E\u043B\u0456\u0442\u0456."@uk ,
+		"A Hist\u00F3ria da Europa descreve a passagem no tempo desde os primeiros humanos que habitaram o continente europeu at\u00E9 a atualidade. A primeira evid\u00EAncia do Homo sapiens na Europa data de 35 000 a.C. O relato mais antigo feito sobre o continente \u00E9 a Il\u00EDada, de Homero, da Gr\u00E9cia Antiga, que data de 700 a.C. A Rep\u00FAblica Romana foi estabelecida em 509 a.C., e transformada no Novo Imp\u00E9rio de Augusto na primeira metade do s\u00E9culo I. A religi\u00E3o crist\u00E3 foi adotada no s\u00E9culo IV. Confrontado com migra\u00E7\u00F5es b\u00E1rbaras e a praga, o imp\u00E9rio foi dividido entre Leste e Oeste e a Idade M\u00E9dia se instalou no cora\u00E7\u00E3o da Europa Ocidental. O Imp\u00E9rio Bizantino manteve a luz da civiliza\u00E7\u00E3o acesa no Leste. A Igreja Oriental e Ocidental confrontaram-se por s\u00E9culos sobre o meio de governo eclesi\u00E1stico, provocando o cisma em 1054, que aconteceu em seguida \u00E0 divis\u00E3o anterior de 451, e foi prosseguida das Cruzadas do oeste para recuperar o leste da Invas\u00E3o dos Mu\u00E7ulmanos. A sociedade feudal come\u00E7ava a ruir enquanto os invasores mong\u00F3is carregavam a peste negra com eles. Os muros de Constantinopla caem em 1453, e ainda o Novo Mundo \u00E9 descoberto em 1492, por iniciativa de Portugueses e Espanh\u00F3is. A Europa acorda do per\u00EDodo medieval atrav\u00E9s do redescobrimento do ensinamento cl\u00E1ssico. O Renascimento foi seguido da Reforma Protestante, do frade alem\u00E3o Martinho Lutero, que atacou a autoridade papal. A Guerra dos Trinta Anos, a Paz de Vestf\u00E1lia e a revolu\u00E7\u00E3o Gloriosa deram a base para uma nova era de expans\u00E3o e o iluminismo. A revolu\u00E7\u00E3o industrial, come\u00E7ando na Gr\u00E3-Bretanha, permitiu \u00E0s pessoas, pela primeira vez, n\u00E3o dependerem mais de material de subsist\u00EAncia. O recente Imp\u00E9rio Brit\u00E2nico dividiu-se assim como suas col\u00F4nias na Am\u00E9rica revoltadas para estabelecer um governo representativo. Uma mudan\u00E7a pol\u00EDtica na Europa aconteceu a partir da Revolu\u00E7\u00E3o Francesa, quando as pessoas gritavam \"Libert\u00E9, Egalit\u00E9, Fraternit\u00E9\". O l\u00EDder franc\u00EAs seguinte, Napole\u00E3o Bonaparte, conquistou e reformou a estrutura social do continente atrav\u00E9s de guerras at\u00E9 1815 Quanto mais e mais donos de pequenas propriedades ganhavam poder de voto, na Fran\u00E7a e no Reino Unido, a atividade socialista e dos sindicatos desenvolveu-se e a revolu\u00E7\u00E3o se instalou na Europa em 1848. Os \u00FAltimos vest\u00EDgios de servid\u00E3o foram abolidos do Imp\u00E9rio Austr\u00EDaco no mesmo ano. A servid\u00E3o russa foi abolida em 1861. As na\u00E7\u00F5es balc\u00E2nicas come\u00E7aram a ganhar suas independ\u00EAncias do Imp\u00E9rio Otomano. Depois da Guerra Franco-Prussiana, o Reino de It\u00E1lia e o Imp\u00E9rio Alem\u00E3o foram formadas de grupos de principados em 1870 e 1871. Conflitos desencadearam-se ao redor do globo, em uma s\u00E9rie de imp\u00E9rios, at\u00E9 que a procura do lugar ao sol acabou com o in\u00EDcio da Primeira Guerra Mundial. No desespero da guerra, a Revolu\u00E7\u00E3o Russa prometia ao povo \"paz, p\u00E3o e terra\". Al\u00E9m de humilhada com o Tratado de Versalhes, a Alemanha tem sua economia destru\u00EDda com a grande depress\u00E3o e uma nova grande guerra. Com a vit\u00F3ria do capitalismo e do comunismo sobre o fascismo, come\u00E7ou uma nova ordem mundial conhecida como guerra fria. A Europa Ocidental formou uma \u00E1rea de livre com\u00E9rcio, dividida pela Cortina de Ferro da Uni\u00E3o Sovi\u00E9tica. Quando o muro de Berlim caiu em 1989, a Europa assinou um novo tratado de uni\u00E3o, que em 2007, compreendia 27 pa\u00EDses."@pt ,
+		"\u0643\u0644\u0645\u0629 \u0623\u0648\u0631\u0648\u0628\u0627 \u062A\u0631\u062C\u0639 \u0644\u0627\u0633\u0645 \u0625\u064A\u0631\u0648\u0628\u0627 \u0627\u0628\u0646\u0629 \u0645\u062F\u064A\u0646\u0629 \u0635\u0648\u0631 \u0641\u064A \u0644\u0628\u0646\u0627\u0646 (\u0628\u0627\u0644\u0625\u0646\u062C\u0644\u064A\u0632\u064A\u0629: Phoenix) \u0648\u062A\u0642\u0648\u0644 \u0627\u0644\u0623\u0633\u0627\u0637\u064A\u0631 \u0627\u0644\u0625\u063A\u0631\u064A\u0642\u064A\u0629 \u0623\u0646 \u0627\u0644\u062A\u0633\u0645\u064A\u0629 \u062A\u0631\u062C\u0639 \u0644\u0643\u0644\u0645\u0629 \u0625\u064A\u0631\u0628 (\u0628\u0627\u0644\u0625\u0646\u062C\u0644\u064A\u0632\u064A\u0629: Ereb) \u0627\u0644\u0641\u064A\u0646\u064A\u0642\u064A\u0629 \u0627\u0644\u062A\u064A \u0645\u0639\u0646\u0627\u0647\u0627 \u063A\u0631\u0648\u0628 \u0627\u0644\u0634\u0645\u0633 \u0627\u0644\u0623\u0645\u064A\u0631\u0629 \u0627\u0644\u0641\u064A\u0646\u064A\u0641\u064A\u0651\u0629 \u0645\u0646 \u0634\u0648\u0627\u0637\u0626 \u0635\u0648\u0631 \u0641\u064A \u062C\u0646\u0648\u0628 \u0644\u0628\u0646\u0627\u0646 \u0627\u0644\u062A\u064A \u0623\u062D\u0628\u0647\u0627 \u0632\u064A\u0648\u0633 \u0648\u0623\u0635\u0628\u062D\u062A \u0623\u0634\u0647\u0631 \u0639\u0634\u064A\u0642\u0627\u062A\u0647 \u0648\u0633\u0645\u0649 \u0645\u0645\u0644\u0643\u062A\u0647 \u0623\u064A \u0642\u0627\u0631\u0629 \u0623\u0648\u0631\u0648\u0628\u0627 \u0628\u0627\u0633\u0645\u0647\u0627. \u0648\u0623\u0645\u0627 \u0627\u0644\u0642\u0627\u0631\u0629 \u0623\u0648\u0631\u0648\u0628\u0627 \u0641\u062A\u0639\u062A\u0628\u0631 \u0645\u0631\u0643\u0632\u0627\u064B \u0647\u0627\u0645\u0627\u064B \u0644\u0644\u062B\u0642\u0627\u0641\u0629 \u0648\u0627\u0644\u0627\u0642\u062A\u0635\u0627\u062F. \u062A\u0631\u062C\u0639 \u0645\u0639\u0638\u0645 \u0627\u0644\u0644\u063A\u0627\u062A \u0627\u0644\u0623\u0648\u0631\u0628\u064A\u0629 \u0625\u0644\u0649  \u0645\u0627\u0639\u062F\u0627 \u0644\u063A\u0629 \u0648\u064A\u0644\u0632 \u0648\u0627\u0633\u0643\u062A\u0644\u0646\u062F\u0627 \u0648\u0625\u064A\u0631\u0644\u0646\u062F\u0629 \u0648\u0628\u0631\u064A\u0637\u0627\u0646\u064A\u0627. \u0644\u0623\u0646 \u0623\u0635\u0644 \u0644\u063A\u062A\u0647\u0645 \u0647\u064A \u0627\u0644\u0644\u063A\u0629 \u0627\u0644\u0633\u0644\u062A\u064A\u0629. \u0639\u0627\u0634 \u0633\u0643\u0627\u0646 \u0623\u0648\u0631\u0648\u0628\u0627 \u0641\u064A \u0627\u0644\u0639\u0635\u0631 \u0627\u0644\u0646\u064A\u0648\u0644\u064A\u062A\u064A \u0639\u0644\u064A \u0635\u064A\u062F \u0627\u0644\u0623\u0633\u0645\u0627\u0643 \u0648\u0627\u0644\u062D\u064A\u0648\u0627\u0646\u0627\u062A. \u0648\u0641\u064A \u0627\u0644\u0639\u0635\u0631 \u0627\u0644\u0646\u064A\u0648\u0644\u064A\u062A\u064A (\u0645\u0627\u062F\u0629) \u0642\u0627\u0645\u0648\u0627 \u0628\u062A\u0631\u0628\u064A\u0629 \u0627\u0644\u062D\u064A\u0648\u0627\u0646\u0627\u062A \u0648\u0627\u0644\u0632\u0631\u0627\u0639\u0629. \u0648\u0628\u062F\u0623 \u0641\u064A \u0643\u0631\u064A\u062A \u062A\u0639\u062F\u064A\u0646 \u0627\u0644\u0628\u0631\u0648\u0646\u0632 \u0633\u0646\u0629 3000 \u0642.\u0645 \u0648\u0642\u062F \u0646\u0642\u0644\u062A \u0639\u0646 \u0627\u0644\u0645\u0635\u0631\u064A\u064A\u0646 \u0648\u0627\u0644\u0641\u064A\u0646\u064A\u0642\u064A\u064A\u0646. \u0648\u0648\u0635\u0644\u062A  \u0625\u0644\u0649 \u0623\u0644\u0645\u0627\u0646\u064A\u0627 \u0648\u0628\u0631\u064A\u0637\u0627\u0646\u064A\u0627 \u0633\u0646\u0629 2000 \u0642.\u0645. \u0648\u0623\u0642\u0627\u0645 \u0627\u0644\u064A\u0648\u0646\u0627\u0646\u064A\u0648\u0646  \u0633\u0646\u0629 1400\u0642.\u0645.. \u0648\u0647\u0630\u0647 \u0627\u0644\u062D\u0636\u0627\u0631\u0629 \u0627\u0646\u062A\u0642\u0644\u062A \u0644\u0634\u0645\u0627\u0644 \u0648\u063A\u0631\u0628 \u0623\u0648\u0631\u0648\u0628\u0627. \u0648\u0641\u064A \u0633\u0646\u0629 700\u0642.\u0645. \u0627\u0646\u062A\u0634\u0631\u062A \u0641\u064A \u0623\u0648\u0631\u0648\u0628\u0627 \u0627\u0644\u0623\u0628\u062C\u062F\u064A\u0629 \u0627\u0644\u0641\u064A\u0646\u064A\u0642\u064A\u0629 \u0648\u0627\u0644\u0646\u0642\u0648\u062F \u0645\u0646 \u0622\u0633\u064A\u0627 \u0627\u0644\u0635\u063A\u0631\u0649. \u0648\u0641\u064A \u0627\u0644\u0642\u0631\u0646\u064A\u0646 6- 4 \u0642.\u0645. \u0642\u0627\u0645\u062A \u0627\u0644\u062D\u0636\u0627\u0631\u0629 \u0627\u0644\u0625\u063A\u0631\u064A\u0642\u064A\u0629. \u0648\u0641\u064A \u0627\u0644\u0642\u0631\u0646 \u0627\u0644\u062B\u0627\u0644\u062B \u0642.\u0645. \u0642\u0627\u0645\u062A \u0627\u0644\u062D\u0636\u0627\u0631\u0629 \u0638\u0647\u0631\u062A \u0627\u0644\u062D\u0636\u0627\u0631\u0629 \u0627\u0644\u0631\u0648\u0645\u0627\u0646\u064A\u0629 \u0641\u064A \u0634\u0628\u0647 \u062C\u0632\u064A\u0631\u0629 \u0625\u064A\u0637\u0627\u0644\u064A\u0627 \u0648\u0638\u0644\u062A \u062D\u062A\u0649 \u0627\u0644\u0642\u0631\u0646 \u0627\u0644\u062B\u0627\u0646\u064A \u0642.\u0645. \u0648\u0642\u062F \u0627\u0646\u062F\u0645\u062C\u062A \u0641\u064A\u0647\u0627 . \u0648\u0644\u0642\u062F \u0643\u0627\u0646 \u0627\u0644\u0625\u063A\u0631\u064A\u0642 \u0627\u0644\u0642\u062F\u0645\u0627\u0621 \u0648\u0627\u0644\u0631\u0648\u0645\u0627\u0646 \u0642\u062F \u0623\u0642\u0627\u0645\u0648\u0627 \u062D\u0636\u0627\u0631\u0627\u062A \u0643\u0628\u0631\u0649 \u0627\u0634\u062A\u0647\u0631\u062A \u0628\u0627\u0644\u0641\u0644\u0633\u0641\u0629 \u0648\u0627\u0644\u0622\u062F\u0627\u0628 \u0648\u0627\u0644\u0641\u0646\u0648\u0646 \u0627\u0644\u062C\u0645\u064A\u0644\u0629 \u0648\u0627\u0644\u062D\u0643\u0648\u0645\u0629 \u0648\u0627\u0644\u0625\u062F\u0627\u0631\u0629. \u0648\u0623\u0635\u0644 \u0627\u0644\u0623\u0648\u0631\u0628\u064A\u064A\u0646 \u0642\u062F \u0646\u0632\u062D\u0648\u0627 \u0645\u0646 \u0627\u0644\u0634\u0631\u0642 \u0641\u064A \u0634\u0643\u0644 \u0645\u0648\u062C\u0627\u062A \u0645\u0647\u0627\u062C\u0631\u0629 \u0639\u0628\u0631 \u0622\u0631\u0627\u0636\u064A  \u0644\u0644\u0628\u0644\u0642\u0627\u0646 \u0628\u0634\u0631\u0642 \u0623\u0648\u0631\u0648\u0628\u0627 \u0623\u0648 \u0645\u0646 \u062D\u0648\u0644 \u0627\u0644\u0628\u062D\u0631 \u0627\u0644\u0623\u0633\u0648\u062F \u0633\u0639\u064A\u0627 \u0648\u0631\u0627\u0621 \u0627\u0644\u0643\u0644\u0623 \u0645\u0646\u0630 . \u0641\u0644\u0642\u062F \u0638\u0647\u0631 \u0627\u0644\u0625\u0646\u0633\u0627\u0646 \u0627\u0644\u0639\u0627\u0642\u0644 Homo sapiens \u0628\u0623\u0648\u0631\u0628\u0627 \u0641\u064A \u0623\u0648\u0627\u062E\u0631 \u0627\u0644\u0639\u0635\u0631 \u0627\u0644\u062D\u062C\u0631\u064A. \u0648\u0643\u0627\u0646 \u0642\u0646\u0627\u0635\u0627 \u0648\u062C\u0627\u0645\u0639\u0627 \u0644\u0644\u062B\u0645\u0627\u0631. \u0648\u0642\u062F \u062E\u0644\u0641 \u0648\u0631\u0627\u0621\u0647 \u0622\u062B\u0627\u0631\u0647 \u0627\u0644\u062A\u064A \u064A\u0631\u062C\u0639 \u062A\u0627\u0631\u064A\u062E\u0647\u0627 25 \u0623\u0644\u0641 \u0625\u0644\u0649 10 \u0622\u0644\u0627\u0641 \u0633\u0646\u0629 \u0641\u064A \u062D\u0648\u0627\u0644\u064A 200 \u0643\u0647\u0641 \u0645\u0639\u0638\u0645\u0647\u0627 \u0641\u064A \u0623\u0633\u0628\u0627\u0646\u064A\u0627 \u0648\u0641\u0631\u0646\u0633\u0627. \u0648\u0641\u064A \u0627\u0644\u0639\u0635\u0631 \u0627\u0644\u062D\u062C\u0631\u064A \u0627\u0644\u062D\u062F\u064A\u062B \u0628\u062F\u0623 \u0625\u0646\u0633\u0627\u0646 \u0623\u0648\u0631\u0648\u0628\u0627 \u0641\u064A \u0645\u0645\u0627\u0631\u0633\u0629 \u0627\u0644\u0632\u0631\u0627\u0639\u0629 \u0644\u062A\u062D\u0644 \u0645\u062D\u0644 \u0627\u0644\u0635\u064A\u062F. \u0648\u062E\u0644\u0627\u0644 \u0627\u0644\u0623\u0644\u0641\u064A\u0629 \u0627\u0644\u0633\u0627\u062F\u0633\u0629 \u0642.\u0645. \u0627\u0646\u062A\u0634\u0631\u062A \u0627\u0644\u0632\u0631\u0627\u0639\u0629 \u0641\u064A \u063A\u0631\u0628 \u0623\u0648\u0631\u0648\u0628\u0627. \u0648\u0647\u0630\u0647 \u0627\u0644\u062D\u0636\u0627\u0631\u0627\u062A \u0627\u0644\u0646\u064A\u0648\u0644\u064A\u062B\u064A\u0629 \u0642\u062F \u0628\u062F\u0623\u062A \u0639\u0627\u0645 5000\u0642.\u0645. \u062D\u064A\u062B \u0623\u0642\u0627\u0645\u062A \u0627\u0644\u0646\u0635\u0628 \u0627\u0644\u062D\u062C\u0631\u064A\u0629 \u0627\u0644\u0639\u0645\u0644\u0627\u0642\u0629. \u0648\u0638\u0647\u0631\u062A \u0641\u064A \u0647\u0630\u0647 \u0627\u0644\u0641\u062A\u0631\u0629 \u062B\u0642\u0627\u0641\u0627\u062A \u0627\u0644\u062F\u0627\u0646\u0648\u0628 \u0648\u0627\u0644\u0628\u0644\u0642\u0627\u0646 \u0628\u0635\u0631\u0628\u064A\u0627 \u0648\u0627\u0644\u064A\u0648\u0646\u0627\u0646 \u0627\u0644\u0642\u062F\u064A\u0645\u0629 \u0627\u0644\u062A\u064A \u062A\u0645\u064A\u0632\u062A \u0628\u0627\u0644\u0642\u0631\u064A \u0627\u0644\u062D\u0635\u064A\u0646\u0629. \u0648\u0642\u062F \u0623\u0638\u0647\u0631\u062A \u0627\u0644\u062D\u0641\u0631\u064A\u0627\u062A \u0628\u0647\u0630\u0647 \u0627\u0644\u0645\u0646\u0627\u0637\u0642 \u0627\u0644\u062D\u0636\u0627\u0631\u064A\u0629 \u0628\u0627\u0644\u0628\u0644\u0642\u0627\u0646 \u0627\u0646 \u0627\u0644\u0646\u062D\u0627\u0633 \u0643\u0627\u0646 \u0645\u0633\u062A\u0639\u0645\u0644\u0627 \u0645\u0646\u0630 4000\u0642.\u0645.\u0623\u062B\u0646\u0627\u0621  Vin\u010Da culture. \u0648\u0623\u062B\u0646\u0627\u0621 \u0647\u0630\u0647 \u0627\u0644\u0641\u062A\u0631\u0629 \u0643\u0627\u0646 \u064A\u062C\u0644\u0628 \u0627\u0644\u0639\u062A\u064A\u0631 \u0645\u0646 \u0628\u062D\u0631 \u0627\u0644\u0628\u0644\u0637\u064A\u0642 \u0648\u0643\u0627\u0646 \u0644\u0647 \u0623\u0647\u0645\u064A\u062A\u0647. \u0648\u0623\u062B\u0646\u0627\u0621 \u0627\u0644\u0623\u0644\u0641\u064A\u0629 \u0627\u0644\u062B\u0627\u0644\u062B\u0629 \u0642.\u0645 \u0627\u0643\u062A\u0634\u0641 \u0627\u0644\u0646\u062D\u0627\u0633 \u0648\u0627\u0644\u0642\u0635\u062F\u064A\u0631 \u0628\u0643\u0645\u064A\u0627\u062A \u0641\u064A \u0628\u0648\u0647\u064A\u0645\u064A\u0627 (\u0627\u0644\u062A\u0634\u064A\u0643) \u0628\u0648\u0633\u0637 \u0623\u0648\u0631\u0648\u0628\u0627 \u0648\u0635\u0646\u0639 \u0645\u0646\u0647\u0645\u0627 \u0627\u0644\u0628\u0631\u0648\u0646\u0632. \u0648\u0643\u0627\u0646\u062A \u0627\u0644\u0645\u0642\u0627\u0628\u0631 \u0627\u0644\u0645\u0644\u0643\u064A\u0629 \u0648\u0627\u0644\u0637\u0628\u0642\u0629 \u0627\u0644\u0631\u0627\u0642\u064A\u0629 \u0641\u064A \u0647\u0630\u0647 \u0627\u0644\u0641\u062A\u0631\u0629 \u0639\u0628\u0627\u0631\u0629 \u0639\u0646 \u0644\u062D\u0648\u062F \u0641\u0648\u0642\u0647\u0627 \u0627\u0644\u062A\u0631\u0627\u0628. \u0644\u0643\u0646 \u0641\u064A \u0623\u0648\u0627\u062E\u0631 \u0627\u0644\u0623\u0644\u0641\u064A\u0629 \u0627\u0644\u062B\u0627\u0646\u064A\u0629 \u0643\u0627\u0646 \u062D\u0631\u0642 \u0627\u0644\u0645\u0648\u062A\u064A \u0648\u0648\u0636\u0639 \u0627\u0644\u0631\u0645\u0627\u062F \u0641\u064A \u0642\u0648\u0627\u0631\u064A\u0631 urn \u0648\u0643\u0627\u0646\u062A \u0647\u0630\u0647 \u0639\u0627\u062F\u0629 \u0645\u062A\u0628\u0639\u0629 \u0641\u064A  urnfield culture. \u0648\u062D\u062A\u0649 \u0627\u0644\u0622\u0646 \u0644\u0627\u064A\u0639\u0631\u0641 \u0643\u064A\u0641 \u0646\u0634\u0623\u062A  \u0641\u064A . \u0648\u064A\u0642\u0627\u0644 \u0623\u0646 \u0627\u0644\u0647\u0646\u062F\u0648 \u0623\u0648\u0631\u0628\u064A\u064A\u0646 \u0642\u062F \u0639\u0627\u0634\u0648\u0627 \u0628\u0634\u0645\u0627\u0644 \u0627\u0644\u0628\u062D\u0631 \u0627\u0644\u0623\u0633\u0648\u062F \u0633\u0646\u0629 2500\u0642.\u0645. \u0648\u0627\u0646\u062A\u0634\u0631\u0648\u0627 \u0628\u0627\u0644\u0628\u0644\u0642\u0627\u0646 \u0628\u0639\u062F \u063A\u0632\u0648\u0647\u0627 \u0648\u0627\u062D\u0636\u0631\u0648\u0627 \u0645\u0639\u0647\u0645 \u0627\u0644\u062E\u064A\u0648\u0644 \u0644\u0623\u0648\u0631\u0628\u0627 \u0633\u0646\u0629 2200\u0642.\u0645. \u0642\u062F \u0627\u0646\u062A\u0634\u0631\u0648\u0627 \u0628\u0639\u062F\u0647\u0627 \u0644\u0628\u0642\u064A\u0629 \u0623\u0648\u0631\u0648\u0628\u0627 \u0623\u062B\u0646\u0627\u0621 \u0645\u0646\u062A\u0635\u0641 \u0627\u0644\u0639\u0635\u0631 \u0627\u0644\u0628\u0631\u0648\u0646\u0632\u064A. \u0648\u0643\u0627\u0646\u062A \u0623\u0648\u0644 \u062D\u0636\u0627\u0631\u0629 \u0638\u0647\u0631\u062A \u0641\u064A \u0623\u0648\u0631\u0648\u0628\u0627 \u0643\u0627\u0646\u062A \u0628\u062C\u0632\u064A\u0631\u0629 \u0643\u0631\u064A\u062A \u0623\u062B\u0646\u0627\u0621 \u0627\u0644\u0623\u0644\u0641\u064A\u0629 \u0627\u0644\u062B\u0627\u0646\u064A\u0629 \u0642.\u0645. \u0648\u0641\u064A  \u0627\u0644\u0630\u064A \u0628\u062F\u0623 \u0633\u0646\u0629 1000\u0642.\u0645. \u0643\u0627\u0646\u062A  \u0627\u0644\u062A\u064A \u0627\u0645\u062A\u062F\u062A \u0627\u0644\u0637\u0631\u0641 \u0627\u0644\u0631\u0626\u064A\u0633\u064A\u0629 \u0639\u0644\u064A \u0627\u0644\u0623\u0646\u0647\u0627\u0631 \u0645\u0645\u0627 \u0623\u062F\u062A \u0625\u0644\u0649 \u062A\u0643\u0648\u064A\u0646 \u0645\u062C\u0645\u0648\u0639\u0627\u062A \u0628\u0634\u0631\u064A\u0629 \u0643\u0627\u0644\u0633\u0644\u062A \u0648\u0627\u0644\u0633\u0644\u0627\u0641 \u0648\u0627\u0644\u0645\u062A\u0643\u0644\u0645\u064A\u0646 \u0628\u0627\u0644\u0625\u064A\u0637\u0627\u0644\u064A\u0629  Illyrians. \u0643\u0645\u0627 \u0638\u0647\u0631\u062A \u0628\u0634\u0645\u0627\u0644 \u0625\u064A\u0637\u0627\u0644\u064A\u0627  \u0645\u0627 \u0628\u064A\u0646 1000\u0642.\u0645. \u0648700\u0642.\u0645. \u0648\u0623\u0635\u0628\u062D \u0644\u0647\u0627 \u0623\u0647\u0645\u064A\u062A\u0647\u0627 \u0648\u0638\u0647\u0631\u062A \u062D\u0636\u0627\u0631\u0629 \u0645\u0634\u0627\u0628\u0647\u0629 \u0647\u064A  Hallstatt \u0645\u0627 \u0628\u064A\u0646 \u0627\u0644\u0642\u0631\u0646\u064A\u0646 8 \u0642.\u0645. \u06485 \u0642.\u0645 \u0627\u0644\u062A\u064A \u0627\u0646\u062A\u0634\u0631\u062A \u0646\u0639 \u0627\u0644\u0633\u0644\u062A \u0641\u064A \u0645\u0639\u0638\u0645 \u063A\u0631\u0628 \u0623\u0648\u0631\u0648\u0628\u0627 \u0645\u0627 \u0628\u064A\u0646 \u0627\u0644\u0642\u0631\u0646\u064A\u0646 7 \u0642.\u0645. \u06484 \u0642.\u0645. \u0648\u0643\u0627\u0646 \u0627\u0644\u0633\u0644\u062A \u062A\u0639\u0631\u0641 \u062D\u0636\u0627\u0631\u062A\u0647\u0645 \u0628\u062D\u0636\u0627\u0631\u0629 \u0627\u0644\u0644\u0627\u062A\u064A\u0646 La T\u00E8ne \u0627\u0644\u062A\u064A \u0623\u062E\u0630\u062A \u0627\u0644\u0643\u062B\u064A\u0631 \u0645\u0646 \u062D\u0636\u0627\u0631\u0629 \u0647\u0627\u0644\u0644\u0634\u062A\u0627\u062A. \u0648\u0623\u062E\u0630\u062A \u0627\u0644\u0634\u0639\u0648\u0628 \u0627\u0644\u062C\u0631\u0645\u0627\u0646\u064A\u0629 Germanic Peoples \u062A\u0646\u062A\u0634\u0631 \u0645\u0646 \u062C\u0646\u0648\u0628 \u0625\u0633\u0643\u0646\u062F\u064A\u0646\u0627\u0641\u064A\u0627 \u0648\u0627\u0644\u0628\u0644\u0637\u064A\u0642 \u0645\u0646\u0630 \u0633\u0646\u0629 500\u0642.\u0645. \u0648\u0641\u064A \u0633\u0646\u0629 800\u0642.\u0645.\u0628\u062F\u0623\u062A \u062A\u0628\u0632\u063A \u0627\u0644\u062D\u0636\u0627\u0631\u0629 \u0627\u0644\u0625\u063A\u0631\u064A\u0642\u064A\u0629 \u064A\u0639\u062F \u0647\u062C\u0648\u0645 \u0627\u0644\u062F\u0648\u0631\u064A\u0648\u0646 \u0648\u0644\u0643\u0646 \u0628\u0637\u0631\u064A\u0642\u0629 \u062A\u062E\u0627\u0644\u0641 . \u0648\u0647\u0630\u0627 \u0628\u0642\u0636\u0644 \u0627\u0644\u0641\u064A\u0646\u064A\u0642\u064A\u064A\u0646 \u0627\u0644\u0630\u064A\u0646 \u0623\u0642\u0627\u0645\u0648\u0627 \u0645\u0631\u0627\u0643\u0632 \u062A\u062C\u0627\u0631\u064A\u0629 \u0648\u062D\u0636\u0627\u0631\u064A\u0629 \u0641\u064A \u0627\u0644\u0628\u062D\u0631 \u0627\u0644\u0623\u0628\u064A\u0636 \u0627\u0644\u0645\u062A\u0648\u0633\u0637. \u0648\u0646\u0634\u0631\u0648\u0627 \u0639\u0646\u0627\u0635\u0631 \u062A\u062C\u0627\u0647 \u0627\u0644\u063A\u0631\u0628. \u0641\u0646\u0642\u0644 \u0639\u0646\u0647\u0645 \u0627\u0644\u0625\u063A\u0631\u064A\u0642 \u0627\u0644\u0623\u0628\u062C\u062F\u064A\u0629. \u0644\u0643\u0646\u0647\u0645 \u0623\u0636\u0627\u0641\u0648\u0627 \u0644\u0647\u0627 \u062D\u0631\u0648\u0641 \u0627\u0644\u0639\u0644\u0629. \u0648\u0641\u064A \u0627\u0644\u0642\u0631\u0646 8\u0642.\u0645. \u0628\u062F\u0623 \u0627\u0644\u0625\u063A\u0631\u064A\u0642 \u064A\u0646\u062A\u0634\u0631\u0648\u0646 \u0628\u0645\u0633\u062A\u0639\u0645\u0631\u0627\u062A\u0647\u0645 \u0648\u0644\u0627\u0633\u064A\u0645\u0627 \u0641\u064A \u062C\u0646\u0648\u0628\u064A \u0625\u064A\u0637\u0627\u0644\u064A\u0627. \u0648\u0641\u064A \u0627\u0644\u0642\u0631\u0646 \u0627\u0644\u0630\u064A \u064A\u0644\u064A\u0647 \u0628\u0644\u063A\u062A  \u0648\u0643\u0627\u0646 \u0644\u0644\u062A\u0628\u0627\u062F\u0644 \u0627\u0644\u062A\u062C\u0627\u0631\u064A \u0628\u064A\u0646 \u0647\u0630\u0647 \u0627\u0644\u0645\u0646\u0627\u0637\u0642 \u0627\u0644\u0645\u062D\u062A\u0644\u0629 \u0648\u0627\u0644\u0625\u063A\u0631\u064A\u0642 \u0642\u062F \u0623\u0633\u0641\u0631 \u0639\u0646 \u0627\u0646\u062A\u0634\u0627\u0631 \u0627\u0644\u062B\u0642\u0627\u0641\u0629 \u0627\u0644\u0625\u063A\u0631\u064A\u0642\u064A\u0629. \u0648\u0643\u0627\u0646\u0648\u0627 \u064A\u062E\u0634\u0648\u0646 \u0639\u0644\u064A \u0645\u064A\u0631\u0627\u062B\u0647\u0645 \u0627\u0644\u062D\u0636\u0627\u0631\u064A \u0645\u0639\u062A\u0628\u0631\u064A\u0646 \u063A\u064A\u0631\u0647\u0645 \u0628\u0631\u0627\u0628\u0631\u0629. \u0648\u0645\u0639\u0638\u0645 \u0627\u0644\u0645\u062C\u0645\u0648\u0639\u0627\u062A \u0627\u0644\u0639\u0631\u0642\u064A\u0629 \u0641\u064A \u063A\u0631\u0628 \u0623\u0648\u0631\u0648\u0628\u0627 \u0628\u0645\u0627 \u0641\u064A\u0647\u0627 \u0627\u0644\u0625\u062A\u0631\u0648\u0633\u0643\u0627\u0646 Etruscans \u0627\u0644\u0630\u064A\u0646 \u0623\u0642\u0627\u0645\u0648\u0627 \u062D\u0636\u0627\u0631\u0629 \u0641\u064A\u0644\u0644\u0627\u0646\u0648\u0641\u0627\u0646 Villanovans \u0642\u062F \u062A\u0648\u0627\u0626\u0645\u0648\u0627 \u0645\u0639 \u0627\u0644\u062B\u0642\u0627\u0641\u0629 \u0627\u0644\u0625\u063A\u0631\u064A\u0642\u064A\u0629. \u0648\u0628\u0639\u0636 \u0627\u0644\u0645\u0631\u0627\u0643\u0632 \u0627\u0644\u0625\u063A\u0631\u064A\u0642\u064A\u0629 \u0643\u0623\u062B\u064A\u0646\u0627 \u0642\u062F \u062A\u0637\u0648\u0631\u062A \u0644\u0644\u062F\u064A\u0645\u0648\u0642\u0631\u0627\u0637\u064A\u0629 \u0628\u0627\u0644\u0642\u0631\u0646 5 \u0642.\u0645.\u0648\u0641\u064A \u0647\u0630\u0647 \u0627\u0644\u0641\u062A\u0631\u0629 \u0643\u0627\u0646 \u0627\u0644\u064A\u0648\u0646\u0627\u0646 \u0645\u0647\u062F\u062F\u0629 \u0645\u0646 \u0627\u0644\u062E\u0637\u0631 \u0627\u0644\u0641\u0627\u0631\u0633\u064A \u0648\u0644\u0627\u0633\u064A\u0645\u0627 \u0648\u0623\u0646 \u0622\u0633\u064A\u0627 \u0627\u0644\u0635\u063A\u0631\u064A \u0642\u062F \u062E\u0636\u0639\u062A \u0644\u0644\u0641\u0631\u0633 \u0627\u0644\u0630\u064A\u0646 \u0647\u0627\u062C\u0645\u0648\u0627 \u0627\u0644\u064A\u0648\u0646\u0627\u0646 \u0639\u0627\u0645 490 \u0642.\u0645.\u0648\u0628\u0639\u062F \u0637\u0631\u062F\u0647\u0645 \u0639\u0627\u0645 479 \u0642.\u0645. \u0623\u0635\u0628\u062D\u062A \u0623\u062B\u064A\u0646\u0627 \u0627\u0644\u062F\u064A\u0645\u0648\u0642\u0631\u0627\u0637\u064A\u0629 \u0627\u0644\u0642\u0648\u0629 \u0627\u0644\u0639\u0638\u0645\u064A \u0641\u064A \u0627\u0644\u0639\u0627\u0644\u0645 \u0627\u0644\u0625\u063A\u0631\u064A\u0642\u064A. \u0641\u0623\u0642\u064A\u0645\u062A  \u0641\u064A \u0645\u0646\u0637\u0642\u0629 \u0628\u062D\u0631 \u0625\u064A\u062C\u0647 \u0645\u0645\u0627 \u062D\u0642\u0642 \u062A\u0643\u0627\u0645\u0644\u0627 \u062B\u0642\u0627\u0641\u064A\u0627 \u0648\u0627\u0642\u062A\u0635\u0627\u062F\u064A\u0627 \u0641\u064A \u0627\u0644\u0642\u0631\u0646 5 \u0642.\u0645. \u0627\u0644\u0630\u064A \u064A\u0639\u062A\u0628\u0631 \u0627\u0644\u0639\u0635\u0631 \u0627\u0644\u0630\u0647\u0628\u064A \u0627\u0644\u062A\u0642\u0644\u064A\u062F\u064A \u0644\u0644\u062D\u0636\u0627\u0631\u0629 \u0627\u0644\u0625\u063A\u0631\u064A\u0642\u064A\u0629. \u0628\u0639\u062F\u0647\u0627 \u062A\u0641\u0634\u062A \u0627\u0644\u0646\u0632\u0627\u0639\u0627\u062A \u0627\u0644\u062F\u0627\u062E\u0644\u064A\u0629 \u0628\u064A\u0646 \u0627\u0644\u0645\u062F\u0646 \u0627\u0644\u064A\u0648\u0646\u0627\u0646\u064A\u0629 \u062D\u062A\u0649 \u0638\u0647\u0631\u062A \u0642\u0648\u0629 \u0645\u0642\u062F\u0648\u0646\u064A\u0627 \u0628\u0634\u0645\u0627\u0644 \u0627\u0644\u064A\u0648\u0646\u0627\u0646 \u0639\u0644\u064A \u064A\u062F \u0641\u064A\u0644\u064A\u0628 \u0648\u0627\u0628\u0646\u0647 \u0627\u0644\u0625\u0633\u0643\u0646\u062F\u0631 \u0627\u0644\u0623\u0643\u0628\u0631(\u0645\u0627\u062F\u0629) \u0645\u0646 \u0628\u0639\u062F\u0647 \u0628\u0627\u0644\u0642\u0631\u0646 4 \u0642.\u0645 \u062D\u064A\u062B \u0648\u062D\u062F\u0627 \u0627\u0644\u064A\u0648\u0646\u0627\u0646 \u0648\u0645\u0642\u062F\u0648\u0646\u064A\u0627 \u0648\u0623\u0633\u062A\u0648\u0644\u0649 \u0627\u0644\u0625\u0633\u0643\u0646\u062F\u0631 \u0639\u0644\u064A \u0645\u0635\u0631 \u0648\u0627\u0644\u0634\u0627\u0645 \u0648\u0628\u0644\u0627\u062F \u0627\u0644\u0641\u0631\u0633 \u062D\u062A\u0649 \u0627\u0644\u0647\u0646\u062F. \u062B\u0645 \u0642\u0636\u064A \u0627\u0644\u0631\u0648\u0645\u0627\u0646 \u0647\u0630\u0647 \u0627\u0644\u0625\u0645\u0628\u0631\u0627\u0637\u0648\u0631\u064A\u0629 \u0627\u0644\u0647\u064A\u0644\u0644\u064A\u0646\u064A\u0629 \u0628\u0639\u062F\u0645\u0627 \u0627\u0633\u062A\u0648\u0644\u0648\u0627 \u0639\u0644\u064A \u0645\u0642\u062F\u0648\u0646\u064A\u0627 \u0648\u0627\u0644\u064A\u0648\u0646\u0627\u0646 \u0628\u0627\u0644\u0642\u0631\u0646 \u0627\u0644\u062B\u0627\u0646\u064A \u0642.\u0645. \u0648\u0625\u064A\u0637\u0627\u0644\u064A\u0627 \u063A\u064A\u0631 \u0627\u0644\u064A\u0648\u0646\u0627\u0646 \u0641\u064A \u0639\u0635\u0631 \u0627\u0644\u062D\u062F\u064A\u062F. \u0641\u0642\u062F \u0643\u0627\u0646\u062A \u0645\u0646\u0642\u0633\u0645\u0629 \u0644\u0639\u062F\u0629 \u0645\u062C\u0645\u0648\u0639\u0627\u062A \u0639\u0631\u0642\u064A\u0629 \u0648\u0644\u063A\u0648\u064A\u0629 \u0645\u0637\u0639\u0645\u0629 \u0628\u062D\u0636\u0627\u0631\u0627\u062A \u0627\u0644\u0639\u0635\u0631 \u0627\u0644\u0646\u064A\u0648\u0644\u064A\u062A\u064A \u0627\u0644\u0645\u0628\u0643\u0631. \u0648\u0643\u0627\u0646\u062A \u0647\u0630\u0647 \u0627\u0644\u0645\u062C\u0645\u0648\u0639\u0627\u062A \u0639\u0628\u0627\u0631\u0629 \u0639\u0646 \u062A\u0646\u0648\u0639\u0627\u062A \u0645\u0646 \u0627\u0644\u0647\u0646\u062F\u0648\u0623\u0648\u0631\u0628\u064A\u064A\u0646 \u0627\u0644\u0630\u064A\u0646 \u0646\u0632\u062D\u0648\u0627 \u0644\u0634\u0645\u0627\u0644 \u0625\u064A\u0637\u0627\u0644\u064A\u0627 \u0641\u064A \u0627\u0644\u0623\u0644\u0641\u064A\u0629 \u0627\u0644\u062B\u0627\u0646\u064A\u0629 \u0642.\u0645. \u0627\u0644\u062A\u064A \u062A\u0648\u0627\u0644\u062A \u0639\u0644\u064A \u0634\u0628\u0647 \u0627\u0644\u062C\u0632\u064A\u0631\u0629 \u0627\u0644\u0625\u064A\u0637\u0627\u0644\u064A\u0629. \u0648\u0643\u0627\u0646 \u063A\u0627\u0644\u0628\u064A\u0629 \u0647\u0630\u0647 \u0627\u0644\u0645\u062C\u0645\u0648\u0639\u0627\u062A \u0645\u0646 \u0627\u0644\u0625\u064A\u0637\u0627\u0644\u064A\u064A\u0646. \u0648\u0623\u0643\u0628\u0631 \u062D\u0636\u0627\u0631\u0629 \u0627\u0644\u0639\u0635\u0631 \u0627\u0644\u062D\u062F\u064A\u062F\u064A \u0643\u0627\u0646\u062A \u062D\u0636\u0627\u0631\u0629 \u0641\u064A\u0644\u0627\u0646\u0648\u0641\u0627\u0646\u0627\u0644\u062A\u064A \u0646\u0634\u0623\u062A \u0641\u064A \u0627\u0644\u0634\u0645\u0627\u0644. \u0648\u0643\u0627\u0646 \u0644\u0647\u0627 \u062A\u0623\u062B\u064A\u0631\u0647\u0627 \u0639\u0644\u064A \u0627\u0644\u0645\u0646\u0627\u0637\u0642 \u0627\u0644\u0645\u062D\u064A\u0637\u0629. \u0648\u0643\u0627\u0646 \u0627\u0644\u0625\u062A\u0631\u0648\u0633\u0643\u0627\u0646 \u0642\u062F \u0646\u0632\u062D\u0648\u0627 \u0645\u0646 \u0622\u0633\u064A\u0627 \u0627\u0644\u0635\u063A\u0631\u064A \u0641\u064A \u0627\u0644\u0642\u0631\u0646 10 \u0642.\u0645. \u062D\u064A\u062B \u0627\u0633\u062A\u0642\u0631\u0648\u0627 \u0641\u064A \u0648\u0633\u0637 \u0648\u0634\u0645\u0627\u0644 \u0625\u064A\u0637\u0627\u0644\u064A\u0627 \u0648\u0643\u0648\u0646\u0648\u0627 \u062D\u0636\u0627\u0631\u0629 \u0645\u0631\u0643\u0628\u0629 \u0645\u0646 \u0627\u0644\u0641\u064A\u0644\u0627\u0646\u0648\u0641\u064A\u0629 \u0648\u0627\u0644\u0639\u0646\u0627\u0635\u0631 \u0627\u0644\u0634\u0631\u0642\u064A\u0629 \u0648\u0645\u0639\u0647\u0645\u0627 \u0627\u0644\u062D\u0636\u0627\u0631\u0629 \u0627\u0644\u0625\u063A\u0631\u064A\u0642\u064A\u0629 \u0627\u0644\u062A\u064A \u0627\u0633\u062A\u0642\u064A\u062A \u0645\u0646 \u0627\u0644\u0645\u0633\u0627\u063A\u0645\u0631\u0627\u062A \u0627\u0644\u0625\u063A\u0631\u064A\u0642\u064A\u0629 \u0627\u0644\u062C\u0646\u0648\u0628\u064A\u0629 \u0628\u0645\u0627 \u0641\u064A\u0647\u0627 \u0627\u0644\u0623\u0628\u062C\u062F\u064A\u0629. \u0648\u0641\u064A 753 \u0642.\u0645. \u0623\u0633\u0633\u062A \u0645\u062F\u064A\u0646\u0629 \u0631\u0648\u0645\u0627 \u0639\u0644\u064A \u0646\u0647\u0631 \u0627\u0644\u062A\u064A\u0628\u0631. \u0648\u0643\u0627\u0646 \u0627\u0644\u0631\u0648\u0645\u0627\u0646 \u0634\u0639\u0628\u0627 \u0644\u0627\u062A\u064A\u0646\u064A\u0627 \u064A\u0646\u062A\u0633\u0628 \u0644\u0644\u0645\u062C\u0645\u0648\u0639\u0629 \u0627\u0644\u0625\u064A\u0637\u0627\u0644\u064A\u0629. \u0648\u0643\u0627\u0646\u062A \u0631\u0648\u0645\u0627 \u0641\u064A \u0627\u0644\u0628\u062F\u0627\u064A\u0629 \u0642\u0631\u064A\u0629 \u0628\u062F\u0627\u0626\u064A\u0629 \u0627\u062D\u062A\u0644\u0647\u0627 \u0627\u0644\u0625\u062A\u0631\u0648\u0633\u0643\u0627\u0646 \u062D\u062A\u0649 \u0623\u0648\u0627\u062E\u0631 \u0627\u0644\u0642\u0631\u0646 6 \u0642.\u0645. \u0648\u0623\u062E\u0630 \u0627\u0644\u0631\u0648\u0645\u0627\u0646 \u0628\u0639\u062F\u0647\u0627 \u0641\u064A \u0627\u062D\u062A\u0644\u0627\u0644 \u0627\u0644\u0645\u0646\u0627\u0637\u0642 \u0627\u0644\u0645\u062D\u064A\u0637\u0629. \u0648\u0641\u064A \u0623\u0648\u0627\u0626\u0644 \u0627\u0644\u0642\u0631\u0646 4\u0642.\u0645. \u0647\u0627\u062C\u0645\u0648\u0627  Gauls \u0648\u0647\u0645 \u0642\u0628\u0627\u0626\u0644 \u0645\u0646 \u0627\u0644\u0633\u0644\u062A (\u0645\u0627\u062F\u0629). \u0648\u0641\u064A \u0628\u062F\u0627\u064A\u0629 \u0627\u0644\u0642\u0631\u0646 3 \u0642.\u0645. \u0623\u062E\u0630 \u0627\u0644\u0631\u0648\u0645\u0627\u0646 \u0641\u064A \u0627\u0644\u0627\u0633\u062A\u064A\u0644\u0627\u0621 \u0639\u0644\u064A \u0623\u062C\u0632\u0627\u0621 \u0643\u0628\u064A\u0631\u0629 \u0645\u0646 \u0625\u064A\u0637\u0627\u0644\u064A\u0627 \u0648\u0623\u0635\u0628\u062D\u062A \u0631\u0648\u0645\u0627\u0646\u064A\u0629. \u0648\u0627\u0644\u0631\u0648\u0645\u0627\u0646 \u0634\u0642\u0648\u0627 \u0627\u0644\u0637\u0631\u0642 \u0648\u0648\u062D\u062F\u0648\u0627 \u0644\u063A\u062A\u0647\u0645 \u0627\u0644\u0644\u0627\u062A\u064A\u0646\u064A\u0629 \u0648\u062D\u0636\u0627\u0631\u062A\u0647\u0645 \u0648\u0623\u0635\u0628\u062D\u062A \u0631\u0648\u0645\u0627 \u0641\u064A \u0645\u0648\u0627\u062C\u0647\u0629 \u0642\u0631\u0637\u0627\u062C (\u0645\u0627\u062F\u0629).\u0648\u0633\u064A\u0637\u0631 \u0627\u0644\u0631\u0648\u0645\u0627\u0646 \u0639\u0644\u064A \u0634\u0645\u0627\u0644 \u0623\u0641\u0631\u064A\u0642\u064A\u0627 \u0648\u062C\u0632\u0631 \u063A\u0631\u0628\u064A \u0627\u0644\u0628\u062D\u0631 \u0627\u0644\u0623\u0628\u064A\u0636 \u0627\u0644\u0645\u062A\u0648\u0633\u0637 \u0648\u0645\u0642\u062F\u0648\u0646\u064A\u0627 \u0648\u0627\u0644\u064A\u0648\u0646\u0627\u0646 \u062A\u0645\u0627\u0645\u0627 \u0641\u064A \u0627\u0644\u0642\u0631\u0646 \u0627\u0644\u062B\u0627\u0646\u064A \u0642.\u0645. \u0648\u0623\u0635\u0628\u062D \u0627\u0644\u0628\u062C\u0631 \u0627\u0644\u0623\u0628\u064A\u0636 \u0627\u0644\u0645\u062A\u0648\u0633\u0637 \u0641\u064A \u0627\u0644\u0642\u0631\u0646 \u0627\u0644\u0623\u0648\u0644 \u0642.\u0645. \u0628\u062D\u064A\u0631\u0629 \u0631\u0648\u0645\u0627\u0646\u064A\u0629. \u0648\u0646\u0634\u0631 \u0627\u0644\u0631\u0648\u0645\u0627\u0646 \u0628\u0639\u062F\u0647\u0627 \u0627\u0644\u0637\u0631\u0642 \u0644\u0633\u0647\u0648\u0644\u0629 \u0627\u0644\u0645\u0648\u0627\u0635\u0644\u0627\u062A \u0628\u064A\u0646 \u0623\u062C\u0632\u0627\u0621 \u0627\u0645\u0628\u0631\u0627\u0637\u0648\u0631\u064A\u062A\u0647\u0645 \u0627\u0644\u0645\u062A\u0631\u0627\u0645\u064A\u0629 \u0648\u062D\u0642\u0642\u0648\u0627 \u0648\u062D\u062F\u0629 \u062D\u0636\u0627\u0631\u062A\u0647\u0645. \u0648\u0643\u0627\u0646 \u0627\u0644\u0627\u062E\u062A\u0644\u0627\u0637 \u0645\u0627 \u0628\u064A\u0646 \u0627\u0644\u062D\u0636\u0627\u0631\u062A\u064A\u0646 \u0627\u0644\u0647\u064A\u0644\u064A\u0646\u064A\u0629 \u0648\u0627\u0644\u0631\u0648\u0645\u0627\u0646\u064A\u0629 \u0642\u062F \u0627\u0633\u0641\u0631 \u0639\u0646 \u0627\u0632\u062F\u0648\u0627\u062C\u064A\u0629 \u0644\u063A\u0648\u064A\u0629 \u0628\u064A\u0646 \u0627\u0644\u0645\u0633\u062A\u0648\u0637\u0646\u064A\u0646 \u0641\u064A \u0627\u0644\u063A\u0631\u0628 \u0648\u0627\u0644\u0625\u063A\u0631\u064A\u0642 \u0628\u0627\u0644\u0634\u0631\u0642. \u0648\u0628\u0639\u062F\u0629 \u062D\u0631\u0648\u0628 \u0623\u0647\u0644\u064A\u0629 \u0645\u062F\u0645\u0631\u0629 \u062A\u062D\u0648\u0644\u062A \u0631\u0648\u0645\u0627 \u0645\u0646 \u062C\u0645\u0647\u0648\u0631\u064A\u0629 \u0625\u0644\u0649 \u0625\u0645\u0628\u0631\u0627\u0637\u0648\u0631\u064A\u0629 \u0641\u064A \u0627\u0644\u0642\u0631\u0646 \u0627\u0644\u0623\u0648\u0644 \u0645. \u0623\u064A\u0627\u0645 \u062D\u0643\u0645 \u0623\u0648\u062C\u0648\u0633\u062A. \u0648\u0641\u064A 212 \u0645.\u0643\u0627\u0646\u062A \u0639\u0646\u0627\u0635\u0631 \u0627\u0644\u062D\u0636\u0627\u0631\u0629 \u0627\u0644\u0625\u063A\u0631\u064A\u0642\u064A\u0629 \u0627\u0644\u0631\u0648\u0645\u0627\u0646\u064A\u0629 \u0642\u062F \u0623\u062B\u0631\u062A \u0641\u064A \u0627\u0644\u0642\u0628\u0627\u0626\u0644 \u0627\u0644\u062C\u0631\u0645\u0627\u0646\u064A\u0629 Germanic tribes \u0648\u0627\u0644\u0633\u0644\u062A\u064A\u0629. \u0648\u0641\u064A \u0627\u0644\u0642\u0631\u062A \u0627\u0644\u062B\u0627\u0644\u062B \u0645. \u0628\u062F\u0623\u062A \u0627\u0644\u0625\u0645\u0628\u0631\u0627\u0637\u0648\u0631\u064A\u0629 \u0641\u064A \u0627\u0644\u0625\u0641\u0648\u0644 \u0648\u0627\u0644\u062A\u062D\u0644\u0644. \u0648\u0641\u064A \u0627\u0644\u0642\u0631\u0646 \u0627\u0644\u0631\u0627\u0628\u0639 \u0645\u064A\u0644\u0627\u062F\u064A \u0646\u0642\u0644 \u0627\u0644\u0625\u0645\u0628\u0631\u0627\u0637\u0648\u0631 \u0642\u0633\u0637\u0646\u0637\u064A\u0646 \u0627\u0644\u0639\u0627\u0635\u0645\u0629 \u0645\u0646 \u0631\u0648\u0645\u0627 \u0644\u0644\u0642\u0633\u0637\u0646\u0637\u064A\u0646\u064A\u0629 (\u0625\u0633\u062A\u0627\u0646\u0628\u0648\u0644) \u0645\u0624\u0633\u0633\u0627 \u0627\u0644\u0625\u0645\u0628\u0631\u0627\u0637\u0648\u0631\u064A\u0629 \u0627\u0644\u0631\u0648\u0645\u0627\u0646\u064A\u0629 \u0627\u0644\u0634\u0631\u0642\u064A\u0629 \u0648\u062A\u0639\u0631\u0636\u062A \u0627\u0644\u0625\u0645\u0628\u0631\u0627\u0637\u0648\u0631\u064A\u0629 \u0627\u0644\u0631\u0648\u0645\u0627\u0646\u064A\u0629 \u0627\u0644\u063A\u0631\u0628\u064A\u0629 \u0648\u0639\u0627\u0635\u0645\u062A\u0647\u0627 \u0631\u0648\u0645\u0627\u0641\u064A \u0627\u0644\u0642\u0631\u0646 \u0627\u0644\u062E\u0627\u0645\u0633 \u0645\u064A\u0644\u0627\u062F\u064A \u0644\u063A\u0632\u0648 \u0627\u0644\u062C\u0631\u0645\u0627\u0646 \u0645\u0643\u0648\u0646\u064A\u0646 \u0627\u0644\u0645\u0645\u0627\u0644\u0643 \u0627\u0644\u062C\u0631\u0645\u0627\u0646\u064A\u0629. \u0648\u0627\u062D\u062A\u0641\u0638\u062A \u0627\u0644\u0643\u0646\u064A\u0633\u0629 \u0628\u0627\u0644\u0645\u064A\u0631\u0627\u062B \u0627\u0644\u0631\u0648\u0645\u0627\u0646\u064A. \u0648\u062E\u0644\u0641\u062A \u0627\u0644\u0625\u0645\u0628\u0631\u0627\u0637\u0648\u0631\u064A\u0629 \u0627\u0644\u0631\u0648\u0645\u0627\u0646\u064A\u0629 \u062A\u0623\u062B\u064A\u0631\u0647\u0627 \u0627\u0644\u0644\u063A\u0648\u064A \u0627\u0644\u0644\u0627\u062A\u064A\u0646\u064A \u062D\u064A\u062B \u062A\u0641\u0631\u0639\u062A \u0645\u0646 \u0627\u0644\u0644\u0627\u062A\u064A\u0646\u064A\u0629 \u0627\u0644\u0641\u0631\u0646\u0633\u064A\u0629 \u0648\u0627\u0644\u0628\u0631\u062A\u063A\u0627\u0644\u064A\u0629 \u0648\u0627\u0644\u0625\u064A\u0637\u0627\u0644\u064A\u0629 \u0648\u0627\u0644\u0623\u0633\u0628\u0627\u0646\u064A\u0629. \u0648\u0641\u064A \u0627\u0644\u0642\u0631\u0646 \u0627\u0644\u0633\u0627\u0628\u0639 \u0645\u064A\u0644\u0627\u062F\u064A \u0627\u0633\u062A\u0648\u0644\u0649  \u0623\u064A\u0627\u0645 \u0627\u0644\u062E\u0644\u0627\u0641\u0629 \u0627\u0644\u0623\u0645\u0648\u064A\u0629 \u0639\u0644\u0649  \u0648\u0623\u062C\u0632\u0627\u0621 \u0645\u0646 \u062C\u0646\u0648\u0628 \u0641\u0631\u0646\u0633\u0627. \u0648\u0643\u0627\u0646 \u0634\u0645\u0627\u0644 \u0623\u0648\u0631\u0648\u0628\u0627 \u0642\u062F \u0625\u0633\u062A\u0648\u0637\u0646\u062A\u0647 \u0642\u0628\u0627\u0626\u0644 \u0627\u0644\u0641\u0631\u0646\u062C Franks \u0645\u0646 \u063A\u0631\u0628 \u0623\u0648\u0631\u0648\u0628\u0627 \u0645\u0627 \u0628\u064A\u0646 \u0627\u0644\u0642\u0631\u0646\u064A\u0646 5 \u0645.\u06489 \u0645. \u0648\u0643\u0627\u0646\u0648\u0627 \u0648\u062B\u0646\u064A\u064A\u0646 \u0642\u062F \u062A\u062D\u0648\u0644\u0648\u0627 \u0644\u0644\u0643\u0627\u062B\u0648\u0644\u064A\u0643\u064A\u0629 \u0648\u0643\u0627\u0646 \u064A\u0637\u0644\u0642 \u0639\u0644\u064A\u0647\u0645 \u0627\u0644\u0643\u0627\u0631\u0648\u0644\u0646\u062C\u064A\u0648\u0646 Carolingians. \u0648\u0623\u0634\u0647\u0631\u0645\u0644\u0648\u0643\u0647\u0645 \u0643\u0627\u0646 \u0627\u0644\u0645\u0644\u0643 \u0634\u0627\u0631\u0644\u0645\u0627\u0646 \u0641\u0641\u064A \u0639\u0647\u062F\u0647 \u0623\u0635\u0628\u062D \u0627\u0644\u0641\u0631\u0646\u062C \u0633\u0627\u062F\u0629 \u063A\u0631\u0628 \u0623\u0648\u0631\u0648\u0628\u0627. \u0648\u0642\u0627\u0645 \u0628\u0627\u0644\u062A\u0628\u0634\u064A\u0631 \u0644\u0644\u0645\u0633\u064A\u062D\u064A\u0629.  \u0627\u0633\u062A\u0637\u0627\u0639\u062A \u0636\u0645 \u0645\u0639\u0638\u0645 \u0623\u0648\u0631\u0648\u0628\u0627 \u0648\u062B\u0642\u0627\u0641\u062A\u0647\u0627 \u062F\u0627\u062E\u0644 \u062D\u062F\u0648\u062F\u0647\u0627. \u0648\u0647\u0630\u0627 \u0644\u0645 \u064A\u062D\u062F\u062B \u0645\u0646\u0630 \u0627\u0644\u0625\u0645\u0628\u0631\u0627\u0637\u0648\u0631\u064A\u0629 \u0627\u0644\u0631\u0648\u0645\u0627\u0646\u064A\u0629 \u062D\u064A\u062B \u0623\u0639\u0644\u0646\u062A \u0627\u0644\u0625\u0645\u0628\u0631\u0627\u0637\u0648\u0631\u064A\u0629 \u0627\u0644\u0631\u0648\u0645\u0627\u0646\u064A\u0629 \u0627\u0644\u0645\u0642\u062F\u0633\u0629 \u062A\u062D\u062A \u0633\u0644\u0637\u0629 \u0627\u0644\u0643\u0646\u064A\u0633\u0629 \u0627\u0644\u0643\u0627\u062B\u0648\u0644\u064A\u0643\u064A\u0629. \u0648\u0641\u064A \u0633\u0646\u0629 1045 \u0645. \u062F\u062E\u0644\u062A \u0623\u0648\u0631\u0648\u0628\u0627 \u0642\u062A\u0631\u0629 \u062A\u062D\u0648\u0644 \u0643\u0628\u0631\u064A \u062D\u064A\u062B \u062A\u0648\u0642\u0641\u062A \u0647\u062C\u0631\u0629 \u0627\u0644\u062C\u0631\u0645\u0627\u0646 \u0648\u0627\u0644\u0622\u0633\u064A\u0648\u064A\u064A\u0646 \u0648\u0627\u0633\u062A\u0642\u0631\u062A \u0623\u0648\u0631\u0648\u0628\u0627 \u0641\u064A \u0627\u0644\u0633\u0643\u0627\u0646. \u0648\u062A\u0648\u0633\u0639\u062A \u0627\u0644\u062A\u062C\u0627\u0631\u0629 \u0628\u0634\u0643\u0644 \u0643\u0628\u064A\u0631 \u0641\u064A \u0625\u064A\u0637\u0627\u0644\u064A\u0627 \u0648\u062C\u0646\u0648\u0628 \u0641\u0631\u0646\u0633\u0627 \u0648\u0647\u0648\u0644\u0627\u0646\u062F\u0627. \u0641\u0627\u0644\u0646\u0647\u0636\u0629 \u0627\u0644\u062A\u064A \u0628\u0632\u063A\u062A \u0645\u0646\u0630 \u0627\u0644\u0642\u0631\u064614 \u0645. \u0643\u0627\u0646\u062A \u0641\u062A\u0631\u0629 \u0625\u0646\u062C\u0627\u0632\u0627\u062A \u0644\u0644\u0641\u0646\u0627\u0646\u064A\u0646 \u0648\u0627\u0644\u0645\u0639\u0645\u0627\u0631\u064A\u064A\u0646 \u0627\u0644\u0623\u0648\u0631\u0628\u064A\u064A\u0646 \u0648\u0639\u0635\u0631 \u0627\u0644\u0627\u0643\u062A\u0634\u0627\u0641\u0627\u062A \u0627\u0644\u0643\u0628\u0631\u064A \u0648\u0642\u062A\u0647\u0627 \u0627\u0644\u062A\u064A \u0628\u062F\u0623\u062A \u0641\u064A \u0627\u0644\u0642\u0631\u0646 15 \u0645. \u0628\u0627\u0643\u062A\u0634\u0627\u0641\u0627\u062A \u0628\u062D\u0631\u064A\u0629 \u0644\u0644\u0623\u0631\u0627\u0636\u064A \u0648\u0627\u0644\u0628\u062D\u0627\u0631 \u0627\u0644\u0645\u062C\u0647\u0648\u0644\u0629. \u0648\u0623\u062E\u0630\u062A \u0627\u0644\u0628\u0631\u062A\u063A\u0627\u0644 \u0648\u0628\u0631\u064A\u0637\u0627\u0646\u064A\u0627 \u0648\u0641\u0631\u0646\u0633\u0627 \u0648\u0623\u0633\u0628\u0627\u0646\u064A\u0627 \u062A\u0628\u0646\u064A \u0625\u0645\u0628\u0631\u0627\u0637\u0648\u0631\u064A\u0627\u062A\u0647\u0627 \u0627\u0644\u0627\u0633\u062A\u0639\u0645\u0627\u0631\u064A\u0629 \u0641\u064A \u0623\u0641\u0631\u064A\u0642\u064A\u0627 \u0648\u0622\u0633\u064A\u0627 \u0648\u0627\u0644\u0623\u0645\u0631\u064A\u0643\u062A\u064A\u0646. \u0648\u0641\u064A \u0627\u0644\u0642\u0631\u0646 18\u0645. \u0638\u0647\u0631\u062A \u0635\u0646\u0627\u0639\u0627\u062A \u062C\u062F\u064A\u062F\u0629 \u062A\u0638\u0647\u0631 \u0648\u062A\u0637\u0648\u0631\u062A. \u0648\u0641\u064A \u0627\u0644\u0642\u0631\u0646 \u0627\u0644\u0639\u0634\u0631\u064A\u0646 \u0648\u0627\u062C\u0647\u062A \u0623\u0648\u0631\u0648\u0628\u0627 \u062D\u0631\u0628\u064A\u0646 \u0639\u0627\u0644\u0645\u064A\u062A\u064A\u0646 \u0627\u0646\u062A\u0647\u062A \u0639\u0627\u0645 1945\u0645. \u0628\u0639\u062F\u0647\u0645\u0627 \u0627\u0646\u0642\u0633\u0645\u062A \u0623\u0648\u0631\u0648\u0628\u0627 \u0644\u0645\u0639\u0633\u0643\u0631\u064A\u0646 \u0647\u0645\u0627 \u0627\u0644\u0645\u0639\u0633\u0643\u0631 \u0627\u0644\u0634\u0631\u0642\u064A \u0628\u0632\u0639\u0627\u0645\u0629 \u0627\u0644\u0625\u062A\u062D\u0627\u062F \u0627\u0644\u0633\u0648\u0641\u064A\u062A\u064A \u0648\u0627\u0644\u0645\u0639\u0633\u0643\u0631 \u0627\u0644\u063A\u0631\u0628\u064A \u0628\u0632\u0639\u0627\u0645\u0629 \u0627\u0644\u0648\u0644\u0627\u064A\u0627\u062A \u0627\u0644\u0645\u062A\u062D\u062F\u0629 \u0627\u0644\u0623\u0645\u0631\u064A\u0643\u064A\u0629 \u0648\u0645\u0627 \u0628\u064A\u0646 \u0633\u0646\u062A\u064A 1989 \u06481991\u0625\u0646\u0647\u0627\u0631\u062A \u0627\u0644\u0643\u062A\u0644\u0629 \u0627\u0644\u0634\u0631\u0642\u064A\u0629 \u0628\u062A\u0641\u0643\u064A\u0643 \u0627\u0644\u0627\u062A\u062D\u0627\u062F \u0627\u0644\u0633\u0648\u0641\u064A\u062A\u064A."@ar ,
+		"\u30E8\u30FC\u30ED\u30C3\u30D1\u53F2\uFF08\u30E8\u30FC\u30ED\u30C3\u30D1\u3057\uFF09\u3068\u306F\u3001\u30E8\u30FC\u30ED\u30C3\u30D1\u306B\u304A\u3051\u308B\u6B74\u53F2\u3067\u3042\u308B\u3002\u6B27\u5DDE\u53F2\uFF08\u304A\u3046\u3057\u3085\u3046\u3057\uFF09\u3068\u3082\u547C\u3070\u308C\u308B\u3002"@ja ,
+		"The history of Europe covers the people inhabiting the continent of Europe from prehistory to the present. During the Neolithic era and the time of the Indo-European migrations Europe saw human inflows from east and southeast and subsequent important cultural and material exchange. The period known as classical antiquity began with the emergence of the city-states of ancient Greece. Later, the Roman Empire came to dominate the entire Mediterranean basin. The fall of the Roman Empire in AD 476 traditionally marks the start of the Middle Ages. Beginning in the 14th century a Renaissance of knowledge challenged traditional doctrines in science and theology. Simultaneously, the Protestant Reformation set up Protestant churches primarily in Germany, Scandinavia and England. After 1800, the Industrial Revolution brought prosperity to Britain and Western Europe. The main European powers set up colonies in most of the Americas and Africa, and parts of Asia. In the 20th century, World War I and World War II resulted in massive numbers of deaths. The Cold War dominated European geo-politics from 1947 to 1989. After the fall of the Iron Curtain, the European countries grew together."@en ,
+		"Historia Europy \u2013 obejmuje histori\u0119 cywilizacji ludzkiej na kontynencie europejskim od pojawienia si\u0119 pierwszych ludzi a\u017C do czas\u00F3w wsp\u00F3\u0142czesnych Histori\u0119 Europy mo\u017Cemy podzieli\u0107 na cztery epoki historyczne: staro\u017Cytno\u015B\u0107, \u015Bredniowiecze, nowo\u017Cytno\u015B\u0107 i histori\u0119 najnowsz\u0105. Staro\u017Cytno\u015B\u0107 obejmuj\u0105ca okres do 476 r. to g\u0142\u00F3wnie cywilizacje basenu Morza \u015Ar\u00F3dziemnego \u2013 grecka i rzymska. Nast\u0119puj\u0105ce po staro\u017Cytno\u015Bci \u015Bredniowiecze to okres dominacji na kontynencie chrze\u015Bcija\u0144stwa oraz kszta\u0142towania si\u0119 wielu pa\u0144stw wsp\u00F3\u0142czesnej Europy. Epoka ta trwa\u0142a do czasu wielkich odkry\u0107 geograficznych, za kt\u00F3rych symboliczn\u0105 dat\u0119 mo\u017Cna przyj\u0105\u0107 rok 1492. Nowo\u017Cytno\u015B\u0107 obejmuj\u0105ca lata 1492\u20131789, to czas rozkwitu renesansu, pojawienie si\u0119 reformacji i wojen religijnych na kontynencie. Okres ten obejmuje te\u017C dob\u0119 baroku i o\u015Bwiecenia. Historia najnowsza kontynentu to okres XIX-wiecznych imperi\u00F3w europejskich ukszta\u0142towanych po kongresie wiede\u0144skim w 1815 r. Obejmuje on r\u00F3wnie\u017C I wojn\u0119 \u015Bwiatow\u0105, okres mi\u0119dzywojenny i II wojn\u0119 \u015Bwiatow\u0105, a tak\u017Ce zimn\u0105 wojn\u0119 i upadek systemu komunistycznego w wielu krajach Europy."@pl ,
+		"\uC720\uB7FD\uC758 \uC5ED\uC0AC \uB610\uB294 \uC720\uB7FD\uC0AC\uB294 \uC120\uC0AC \uC2DC\uB300\uBD80\uD130 \uD604\uB300\uAE4C\uC9C0 \uC720\uB7FD\uC5D0 \uAC70\uC8FC\uD55C \uBBFC\uC871\uC5D0 \uB300\uD574 \uB2E4\uB8EC\uB2E4. \uC2E0\uC11D\uAE30 \uC2DC\uB300\uACFC \uC778\uB3C4-\uC720\uB7FD\uC5B4\uC871\uC744 \uC0AC\uC6A9\uD558\uB294 \uBD80\uC871\uC758 \uC774\uB3D9 \uAE30\uAC04 \uB3D9\uC548 \uC720\uB7FD \uB300\uB959\uC5D0\uB294 \uB3D9\uCABD\uACFC \uB3D9\uB0A8\uCABD\uC73C\uB85C\uBD80\uD130 \uC778\uAC04\uC774 \uC720\uC785\uB418\uC5C8\uACE0, \uC911\uC694\uD55C \uBB38\uD654\uC801, \uBB3C\uC9C8\uC801 \uAD50\uB958\uAC00 \uBC1C\uC0DD\uD558\uC600\uB2E4. \uACE0\uC804 \uACE0\uB300\uB85C \uC54C\uB824\uC9C4 \uC2DC\uAE30\uB294 \uACE0\uB300 \uADF8\uB9AC\uC2A4 \uB3C4\uC2DC \uAD6D\uAC00\uC758 \uBC1C\uC0DD\uACFC \uD568\uAED8 \uC2DC\uC791\uB418\uC5C8\uACE0, \uC774\uD6C4 \uB85C\uB9C8 \uC81C\uAD6D\uC774 \uC9C0\uC911\uD574 \uC9C0\uC5ED\uC744 \uC9C0\uBC30\uD558\uAC8C \uB418\uC5C8\uB2E4. \uAE30\uC6D0\uD6C4 476\uB144 \uB85C\uB9C8\uC758 \uBA78\uB9DD\uC73C\uB85C \uC911\uC138\uAC00 \uC2DC\uC791\uB418\uC5C8\uB2E4. 14\uC138\uAE30\uAC00 \uC2DC\uC791\uB418\uBA74\uC11C \uC9C0\uC2DD\uC758 \uB974\uB124\uC0C1\uC2A4\uB294 \uACFC\uD559\uACFC \uC2E0\uD559\uC5D0 \uB300\uD55C \uC804\uD1B5\uC801\uC778 \uACAC\uD574\uC5D0 \uB3C4\uC804\uD558\uC600\uB2E4. \uB3D9\uC2DC\uC5D0 \uC885\uAD50 \uAC1C\uD601\uC73C\uB85C \uB3C5\uC77C, \uC2A4\uCE78\uB514\uB098\uBE44\uC544, \uC601\uAD6D\uC5D0 \uAC1C\uC2E0\uAD50\uD68C\uAC00 \uC138\uC6CC\uC84C\uB2E4. 1800\uB144 \uC774\uD6C4, \uC0B0\uC5C5 \uD601\uBA85\uC740 \uC601\uAD6D\uACFC \uC11C\uC720\uB7FD\uC5D0 \uBC88\uC601\uC744 \uAC00\uC838\uB2E4 \uC8FC\uC5C8\uACE0, \uD328\uAD8C\uAD6D\uB4E4\uC740 \uC544\uBA54\uB9AC\uCE74\uC640 \uC544\uD504\uB9AC\uCE74 \uB300\uBD80\uBD84\uC758 \uC9C0\uC5ED\uACFC \uC544\uC2DC\uC544\uC758 \uC77C\uBD80 \uC9C0\uC5ED\uC5D0 \uC2DD\uBBFC\uC9C0\uB97C \uAC74\uC124\uD558\uC600\uB2E4. 20\uC138\uAE30\uC5D0\uB294 \uC81C1\uCC28 \uC138\uACC4 \uB300\uC804\uACFC \uC81C2\uCC28 \uC138\uACC4 \uB300\uC804\uC73C\uB85C \uB300\uB7C9 \uC0B4\uC0C1\uC774 \uBC1C\uC0DD\uD558\uC600\uACE0, 1947\uB144\uBD80\uD130 1989\uB144\uAE4C\uC9C0 \uB0C9\uC804\uC740 \uC720\uB7FD\uC758 \uC9C0\uC815\uD559\uC744 \uC9C0\uBC30\uD558\uC600\uB2E4."@ko ,
+		"La hist\u00F2ria d'Europa es refereix al conjunt de successos relatius al continent europeu, des que va ser poblat pels primers \u00E9ssers humans fins a l'actualitat. L'Homo sapiens hauria aparegut fa uns 130.000 anys a \u00C0frica, segons l'opini\u00F3 cient\u00EDfica majorit\u00E0ria. L'arribada de l'Homo sapiens a Europa podria haver-se donat des del Pr\u00F2xim Orient a Europa, on es van assentar entre 40.000 i 25.000 aC (paleol\u00EDtic superior). L'antiguitat cl\u00E0ssica est\u00E0 dominada per l'influx de la civilitzaci\u00F3 grecollatina sobre la resta d'Europa. La fragmentaci\u00F3 pol\u00EDtica d'Europa i els successius intents for\u00E7ats d'unificaci\u00F3 van sumir el continent en nombrosos conflictes i guerres durant l'edat mitjana, com la Guerra dels Cent Anys (que va durar m\u00E9s d'un segle). L'edat moderna marca per a Europa l'inici de processos que molt de temps despr\u00E9s donaran lloc a la globalitzaci\u00F3, i \u00E9s el temps en el qual els conflictes b\u00E8l\u00B7lics es van fer cada vegada m\u00E9s desastrosos, com l'anomenada Guerra dels Trenta Anys. Els processos econ\u00F2mics i el desenvolupament cient\u00EDfic i tecnol\u00F2gic es van accelerar en comparaci\u00F3 amb altres continents de manera molt m\u00E9s not\u00F2ria durant l'edat contempor\u00E0nia, produint tensions per compet\u00E8ncies que van desencadenar m\u00E9s guerres (com les guerres napole\u00F2niques i les guerres mundials). Avui, els processos tendents a la unificaci\u00F3 es procuren pac\u00EDficament, tal \u00E9s el cas de la formaci\u00F3 de la Uni\u00F3 Europea, si b\u00E9 no els eximeix d'avan\u00E7os i reculades."@ca ,
+		"\u0415\u0432\u0440\u043E\u043F\u0430 \u043E\u0441\u0442\u0430\u0432\u0430\u043B\u0430\u0441\u044C \u043D\u0435\u0437\u0430\u0441\u0435\u043B\u0451\u043D\u043D\u043E\u0439 \u043B\u044E\u0434\u044C\u043C\u0438 \u0434\u043E\u0432\u043E\u043B\u044C\u043D\u043E \u0434\u043E\u043B\u0433\u043E. \u041E\u0442\u043A\u0443\u0434\u0430 \u043F\u0440\u0438\u0448\u0451\u043B \u0447\u0435\u043B\u043E\u0432\u0435\u043A \u0432 \u0415\u0432\u0440\u043E\u043F\u0443, \u0441\u043F\u043E\u0440\u043D\u043E. \u0418\u0437\u0432\u0435\u0441\u0442\u043D\u043E \u0442\u043E\u043B\u044C\u043A\u043E, \u0447\u0442\u043E \u0415\u0432\u0440\u043E\u043F\u0430 \u043D\u0435 \u044F\u0432\u043B\u044F\u043B\u0430\u0441\u044C \u043C\u0435\u0441\u0442\u043E\u043C \u0437\u0430\u0440\u043E\u0436\u0434\u0435\u043D\u0438\u044F \u0447\u0435\u043B\u043E\u0432\u0435\u0447\u0435\u0441\u0442\u0432\u0430. \u0421\u0443\u0449\u0435\u0441\u0442\u0432\u0443\u044E\u0442 \u0432\u0435\u0440\u0441\u0438\u0438 \u043E \u0442\u043E\u043C, \u0447\u0442\u043E \u043F\u0435\u0440\u0432\u044B\u0435 \u0433\u043E\u043C\u0438\u043D\u0438\u0434\u044B \u043F\u0440\u0438\u0448\u043B\u0438 \u0432 \u0415\u0432\u0440\u043E\u043F\u0443 \u0438\u0437 \u0418\u043D\u0434\u0438\u0438. \u0421 \u044D\u0442\u0438\u043C \u0441\u043E\u0433\u043B\u0430\u0441\u0443\u044E\u0442\u0441\u044F \u0433\u0435\u043D\u0435\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435 \u0438\u0441\u0441\u043B\u0435\u0434\u043E\u0432\u0430\u043D\u0438\u044F. \u041D\u043E \u043D\u0430\u0438\u0431\u043E\u043B\u0435\u0435 \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0430\u043D\u043D\u043E\u0439 \u044F\u0432\u043B\u044F\u0435\u0442\u0441\u044F \u0433\u0438\u043F\u043E\u0442\u0435\u0437\u0430 \u043E \u043F\u0440\u0438\u0445\u043E\u0434\u0435 \u0433\u043E\u043C\u0438\u043D\u0438\u0434\u043E\u0432 \u0432 \u0415\u0432\u0440\u043E\u043F\u0443 \u0438\u0437 \u0410\u0444\u0440\u0438\u043A\u0438 \u0447\u0435\u0440\u0435\u0437 \u041F\u0435\u0440\u0435\u0434\u043D\u044E\u044E \u0410\u0437\u0438\u044E. \u0415\u0441\u0442\u044C \u043F\u0440\u0435\u0434\u043F\u043E\u043B\u043E\u0436\u0435\u043D\u0438\u0435, \u0447\u0442\u043E \u044D\u0442\u043E \u043F\u0440\u043E\u0438\u0437\u043E\u0448\u043B\u043E \u0432 \u0441\u0435\u0440\u0435\u0434\u0438\u043D\u0435 \u0432\u0438\u043B\u043B\u0430\u0444\u0440\u0430\u043D\u043A\u0441\u043A\u043E\u0433\u043E \u0432\u0440\u0435\u043C\u0435\u043D\u0438. \u0414\u043E Homo Sapiens \u0415\u0432\u0440\u043E\u043F\u0443 \u0438 \u0417\u0430\u043F\u0430\u0434\u043D\u0443\u044E \u0410\u0437\u0438\u044E \u0437\u0430\u0441\u0435\u043B\u044F\u043B\u0438 \u043D\u0435\u0430\u043D\u0434\u0435\u0440\u0442\u0430\u043B\u044C\u0446\u044B. \u041F\u043E-\u043D\u0430\u0441\u0442\u043E\u044F\u0449\u0435\u043C\u0443 \u0437\u0430\u0441\u0435\u043B\u0438\u043B\u0438 \u0415\u0432\u0440\u043E\u043F\u0443 \u0433\u0435\u0439\u0434\u0435\u043B\u044C\u0431\u0435\u0440\u0433\u0441\u043A\u0438\u0439 \u0447\u0435\u043B\u043E\u0432\u0435\u043A \u0438 \u0435\u0433\u043E \u0432\u0435\u0440\u043E\u044F\u0442\u043D\u044B\u0439 \u043F\u0440\u044F\u043C\u043E\u0439 \u043F\u043E\u0442\u043E\u043C\u043E\u043A \u043D\u0435\u0430\u043D\u0434\u0435\u0440\u0442\u0430\u043B\u0435\u0446, \u043F\u0440\u0438\u0447\u0451\u043C \u043F\u043E\u0441\u043B\u0435\u0434\u043D\u0438\u0439 \u043F\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043B\u044F\u043B \u0441\u043E\u0431\u043E\u0439 \u0441\u043F\u0435\u0446\u0438\u0430\u043B\u0438\u0437\u0438\u0440\u043E\u0432\u0430\u043D\u043D\u0443\u044E \u0444\u043E\u0440\u043C\u0443, \u0430\u0434\u0430\u043F\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u043D\u0443\u044E \u043A \u0435\u0432\u0440\u043E\u043F\u0435\u0439\u0441\u043A\u043E\u043C\u0443 \u043A\u043B\u0438\u043C\u0430\u0442\u0443. \u0421\u0430\u043C\u043E\u0435 \u0440\u0430\u043D\u043D\u0435\u0435 \u043F\u043E\u044F\u0432\u043B\u0435\u043D\u0438\u0435 \u043B\u044E\u0434\u0435\u0439 \u0441\u043E\u0432\u0440\u0435\u043C\u0435\u043D\u043D\u043E\u0433\u043E \u0444\u0438\u0437\u0438\u0447\u0435\u0441\u043A\u043E\u0433\u043E \u0442\u0438\u043F\u0430 (Homo sapiens) \u0432 \u0415\u0432\u0440\u043E\u043F\u0435, \u0438\u0437\u0432\u0435\u0441\u0442\u043D\u043E\u0435 \u043D\u0430 \u043D\u0430\u0441\u0442\u043E\u044F\u0449\u0438\u0439 \u043C\u043E\u043C\u0435\u043D\u0442, \u0434\u0430\u0442\u0438\u0440\u0443\u0435\u0442\u0441\u044F 35 \u0442\u044B\u0441. \u043B\u0435\u0442 \u043D\u0430\u0437\u0430\u0434, \u0430 28 \u0442\u044B\u0441\u044F\u0447 \u043B\u0435\u0442 \u043D\u0430\u0437\u0430\u0434, \u0432\u0435\u0440\u043E\u044F\u0442\u043D\u043E, \u043E\u043A\u043E\u043D\u0447\u0430\u0442\u0435\u043B\u044C\u043D\u043E \u0438\u0441\u0447\u0435\u0437 \u043D\u0435\u0430\u043D\u0434\u0435\u0440\u0442\u0430\u043B\u0435\u0446. \u041F\u0440\u043E\u043D\u0438\u043A\u043D\u043E\u0432\u0435\u043D\u0438\u0435 \u043F\u0440\u043E\u0442\u043E\u0438\u043D\u0434\u043E\u0435\u0432\u0440\u043E\u043F\u0435\u0439\u0446\u0435\u0432 \u0432 \u0415\u0432\u0440\u043E\u043F\u0443 \u0434\u0430\u0442\u0438\u0440\u0443\u0435\u0442\u0441\u044F 4-\u043C \u0442\u044B\u0441\u044F\u0447\u0435\u043B\u0435\u0442\u0438\u0435\u043C \u0434\u043E \u043D. \u044D., \u0441 \u043A\u043E\u0442\u043E\u0440\u044B\u043C \u0441\u0432\u044F\u0437\u044B\u0432\u0430\u044E\u0442\u043F\u043E\u044F\u0432\u043B\u0435\u043D\u0438\u0435 \u0411\u0430\u0434\u0435\u043D\u0441\u043A\u043E\u0439, \u042F\u043C\u043D\u043E\u0439 \u0438 \u043A\u0443\u043B\u044C\u0442\u0443\u0440\u044B \u0411\u043E\u0435\u0432\u044B\u0445 \u0442\u043E\u043F\u043E\u0440\u043E\u0432. \u0412 \u0432\u043E\u0441\u0442\u043E\u0447\u043D\u043E\u0439 \u0447\u0430\u0441\u0442\u0438 \u0421\u0440\u0435\u0434\u0438\u0437\u0435\u043C\u043D\u043E\u043C\u043E\u0440\u044C\u044F \u0432 \u0414\u0440\u0435\u0432\u043D\u0435\u0439 \u0413\u0440\u0435\u0446\u0438\u0438 \u0437\u0430\u0440\u043E\u0434\u0438\u043B\u0430\u0441\u044C \u0435\u0432\u0440\u043E\u043F\u0435\u0439\u0441\u043A\u0430\u044F \u0446\u0438\u0432\u0438\u043B\u0438\u0437\u0430\u0446\u0438\u044F.\u0412\u0435\u043B\u0438\u043A\u043E\u0435 \u043F\u0435\u0440\u0435\u0441\u0435\u043B\u0435\u043D\u0438\u0435 \u043D\u0430\u0440\u043E\u0434\u043E\u0432 \u043B\u0435\u0433\u043B\u043E \u0432 \u043E\u0441\u043D\u043E\u0432\u0443 \u0444\u043E\u0440\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F \u043B\u0430\u0442\u0438\u043D\u0441\u043A\u043E\u0439 \u044F\u0437\u044B\u043A\u043E\u0432\u043E\u0439 \u0441\u0438\u0441\u0442\u0435\u043C\u044B \u0415\u0432\u0440\u043E\u043F\u044B, \u043D\u0430 \u043E\u0441\u043D\u043E\u0432\u0435\u043A\u043E\u0442\u043E\u0440\u043E\u0439 \u043E\u0431\u0440\u0430\u0437\u043E\u0432\u0430\u043B\u0438\u0441\u044C \u043C\u043D\u043E\u0433\u0438\u0435 \u044F\u0437\u044B\u043A\u0438 \u0417\u0430\u043F\u0430\u0434\u043D\u043E\u0439 \u0415\u0432\u0440\u043E\u043F\u044B. \u0412 10 \u0442\u044B\u0441. \u0434\u043E \u043D. \u044D. \u0432 \u0415\u0432\u0440\u043E\u043F\u0435 \u043F\u0440\u043E\u0436\u0438\u0432\u0430\u043B\u0430 \u043F\u043E\u043B\u043E\u0432\u0438\u043D\u0430 \u043D\u0430\u0441\u0435\u043B\u0435\u043D\u0438\u044F \u0417\u0435\u043C\u043B\u0438, \u0432 1930-\u043C 25 % (\u043D\u044B\u043D\u0435 \u043E\u043A\u043E\u043B\u043E 9 %),\u0432 \u0421\u0440\u0435\u0434\u043D\u0438\u0435 \u0412\u0435\u043A\u0430 \u043F\u043E\u0447\u0442\u0438 95 % \u0445\u0440\u0438\u0441\u0442\u0438\u0430\u043D \u043F\u0440\u043E\u0436\u0438\u0432\u0430\u043B\u0430 \u0432 \u0415\u0432\u0440\u043E\u043F\u0435 (\u0441\u0435\u0439\u0447\u0430\u0441 \u0431\u043E\u043B\u044C\u0448\u0438\u043D\u0441\u0442\u0432\u043E \u0445\u0440\u0438\u0441\u0442\u0438\u0430\u043D \u043F\u0440\u043E\u0436\u0438\u0432\u0430\u0435\u0442 \u0437\u0430 \u043F\u0440\u0435\u0434\u0435\u043B\u0430\u043C\u0438 \u0415\u0432\u0440\u043E\u043F\u044B), \u043F\u043E\u0447\u0442\u0438 \u0432\u0441\u044F\u043F\u0440\u043E\u043C\u044B\u0448\u043B\u0435\u043D\u043D\u043E\u0441\u0442\u044C \u0432 XIX \u0432 \u043A\u043E\u043D\u0446\u0435\u043D\u0442\u0440\u0438\u0440\u043E\u0432\u0430\u043B\u0430\u0441\u044C \u0432 \u0415\u0432\u0440\u043E\u043F\u0435 (\u0432 XXI \u0432 \u2014 \u0431\u043E\u043B\u0435\u0435 80 % \u0437\u0430 \u043F\u0440\u0435\u0434\u0435\u043B\u0430\u043C\u0438 \u0415\u0432\u0440\u043E\u043F\u044B)."@ru ,
+		"Sejarah Eropa dimulai dari sejak manusia pertama menghuni daratan Eropa pada zaman prasejarah hingga saat ini. Untuk prasejarah Eropa, manusia mulai masuk ke Eropa pada Zaman Batu Tua (Paleolitikum). Penerapan pertanian sekitar tahun 7000 SM mengantar manusia masuk Zaman Batu Muda (Neolitikum). Neolitikum di Eropa berlangsung selama 4000 tahun bersamaan dengan tersebarnya budaya penggunaan logam ke seluruh benua. Kemajuan teknologi selama zaman prasejarah datang melalui orang-orang Mediterania, menyebar secara bertahap ke arah barat laut. Beberapa peradaban paling terkenal dari prasejarah Eropa adalah peradaban Minoa dan Mykenai, yang berkembang selama Zaman Perunggu sampai  dalam waktu yang singkat sekitar tahun 1200 SM. Periode dalam sejarah Eropa yang dikenal sebagai era klasik dimulai dengan munculnya negara-kota Yunani Kuno. Pengaruh Yunani mencapai puncaknya di bawah kekaisaran Alexander Agung, yang menyebar ke seluruh Asia. Eropa utara dan barat didominasi oleh kebudayaan La T\u00E8ne, pendahulu bangsa Kelt. Roma, sebuah negara-kota kecil, secara tradisional berdiri pada tahun 753 SM, kemudian tumbuh menjadi Republik Romawi pada 509 SM dan kemudian menggantikan kebudayaan Yunani sebagai peradaban Mediterania dominan. Peristiwa-peristiwa pada masa pemerintahan Julius Caesar mendorong reorganisasi Republik Romawi menjadi Kekaisaran Romawi. Kekaisaran ini kemudian dibagi oleh kaisar Diokletianus menjadi Kekaisaran Romawi Barat dan Kekaisaran Romawi Timur. Selama abad ke-4 dan ke-5, orang-orang  dari Eropa utara meningkatkan kekuatan dan serangan yang berulang-ulang yang menyebabkan runtuhnya Kekaisaran Romawi Barat pada tahun 476 M, saat yang secara tradisional menandai akhir dari periode klasik dan awal Abad Pertengahan. Selama Abad Pertengahan, Kekaisaran Romawi Timur bertahan, meskipun sejarawan modern menyebut negara ini sebagai Kekaisaran Bizantium. Di Eropa Barat, bangsa Jermanik menduduki bekas wilayah kekuasaan Kekaisaran Romawi Barat dan mendirikan kerajaan dan kekaisaran mereka sendiri. Dari semua bangsa Jermanik,  naik ke posisi hegemoni atas di Eropa Barat, Kerajaan Franka mencapai puncaknya di bawah pimpinan Charlemagne sekitar tahun 800 M. Kerajaan ini kemudian terbagi menjadi beberapa bagian;  akan berevolusi menjadi Kerajaan Prancis, sementara Franka Timur akan berevolusi menjadi Kekaisaran Romawi Suci, cikal bakal Jerman modern. Kepulauan Inggris menjadi tempat beberapa migrasi skala besar. Penduduk asli Celtic telah terpinggirkan selama periode Britania Romawi, dan ketika bangsa Romawi meninggalkan Kepulauan Inggris selama tahun 400-an, gelombang bangsa Anglo-Saxon Jermanik bermigrasi ke Inggris selatan dan mendirikan serangkaian kerajaan kecil yang akhirnya berkembang menjadi Kerajaan Inggris tahun 927 M. Peradaban Yunani-Romawi menghiasi zaman permulaan Eropa, dimulai dari Yunani Kuno, yang biasanya dianggap sebagai dasar dari peradaban Barat dan pengaruhnya dalam bahasa, politik, sistem pendidikan, filsafat, ilmu pengetahuan, dan seni. Nilai-nilai tersebut diteruskan oleh Republik Roma yang berpusat di Laut Tengah, hingga Kekaisaran Romawi mencapai puncak kejayaannya sekitar tahun 150."@in ,
+		"La historio de E\u016Dropo referencas al la serio de okazinta\u0135oj relativaj al la E\u016Dropa kontinento, ekde kiam \u011Di estis lo\u011Data de la unuaj homoj al la aktualo. La Homo sapiens \u015Dajne aperis anta\u016D \u0109irka\u016D 130 000 jaroj en Afriko, la\u016D la majoritata scienca opinio. La alveno de la Homo sapiens al E\u016Dropo eble okazis el Proksima Oriento al E\u016Dropo, kie ili setlis inter 40 000 kaj 25 000 a.K. (Supra Paleolitiko)."@eo ,
+		"Dit artikel is een overzicht van de (menselijke) geschiedenis van het werelddeel Europa. Deze valt ruwweg chronologisch in te delen in de prehistorie, de klassieke oudheid, de middeleeuwen, de nieuwe tijd, de moderne tijd en de eigentijdse tijd. Een Europese economische eenheid bestond in de oudheid in de vorm van het Romeinse handelsnetwerk; dit besloeg vooral het zuidelijk deel van het continent, ofwel het zuidelijk deel van het Middellandse Zeegebied. Met name sinds de opmars van de Islam in het Middellandse Zeegebied en als reactie daarop de Kruistochten in de Middeleeuwen en vervolgens de strijd tegen het Ottomaanse Rijk in Zuidoost-Europa in de 16e en 17e eeuw is een groeiende culturele eenwording waar te nemen, die hand in hand ging met de verspreiding van het christendom over het gehele continent; dit verdrong langzaamaan vrijwel alle andere religies, ook in de gebieden die niet tot het Romeinse Rijk hadden behoord, zij het dat het noordelijk deel veel langer aan de oude cultus vasthield. Enige mate van economische samenhang, vergelijkbaar met die in de Romeinse tijd, werd pas weer bereikt in de 16e eeuw met de opkomst van het kapitalisme. Desondanks werd Europa nooit een staatkundige eenheid, maar was het toneel van een bloedige strijd, die zijn dieptepunt vond in de Eerste en Tweede Wereldoorlog; deze beide Europese conflicten verspreidden zich tevens naar andere delen van de wereld. Vanaf de 16e eeuw begonnen Europese koloniale mogendheden andere delen van de wereld in onderlinge rivaliteit te overheersen, hetgeen in de 19e eeuw leidde tot een Europese hegemonie op het wereldtoneel. In de wetenschappelijke en industri\u00EBle revoluties ontstane nieuwe idee\u00EBn en technieken konden door deze hegemonie vanuit Europa over de rest van de wereld worden verspreid. De opkomst van de Verenigde Staten (van oorsprong een Europese kolonie) en de Sovjet-Unie (die deels in Europa lag) en de twee wereldoorlogen verdeelden het continent in de tweede helft van de 20e eeuw grofweg in twee gescheiden economisch-politieke blokken. Tegelijkertijd begon een groeiende groep landen door middel van economische en politieke samenwerking aan een proces dat de Europese eenwording wordt genoemd, vanuit de wens verdere oorlogen te voorkomen."@nl ,
+		"L\u2019histoire de l'Europe, et surtout de l\u2019Europe m\u00E9ridionale, est une des parties les mieux document\u00E9es, \u00E9tudi\u00E9es et connues de l\u2019histoire mondiale, pour quatre raisons : \n* la g\u00E9ologie fait affleurer des roches en de nombreux endroits, ce qui a permis tr\u00E8s t\u00F4t les constructions en pierre ; \n* les climats permettent la bonne conservation de nombreux sites arch\u00E9ologiques ; \n* l\u2019\u00E9criture s\u2019y est t\u00F4t impos\u00E9e et de nombreux documents \u00E9crits se sont conserv\u00E9s ; \n* les Europ\u00E9ens ont eu t\u00F4t le souci de transcrire leurs histoires (H\u00E9rodote, Thucydide, Strabon, Tacite...). C\u2019est en Europe que les historiens europ\u00E9ens ont d\u00E9fini les grandes p\u00E9riodes historiques (Antiquit\u00E9, Moyen \u00C2ge...) qui valent principalement pour ce continent, celles de l\u2019histoire africaine sub-saharienne, am\u00E9rindienne pr\u00E9colombienne, chinoise ou indienne \u00E9tant diff\u00E9rentes. Toutefois, l\u2019histoire europ\u00E9enne connait les m\u00EAmes grandes \u00AB r\u00E9volutions techniques \u00BB que le reste de l\u2019histoire mondiale, chacune d\u2019elles bouleversant profond\u00E9ment les modes de vie ant\u00E9rieurs : \n* la \u00AB r\u00E9volution n\u00E9olithique \u00BB, intervenue selon les aires g\u00E9ographiques il y a 10 000 \u00E0 2 000 ans, marqu\u00E9e par l'adoption de l\u2019agriculture ; \n* la \u00AB r\u00E9volution industrielle \u00BB, intervenue depuis deux si\u00E8cles environ, et qui a donn\u00E9 au genre humain acc\u00E8s \u00E0 l\u2019\u00E9nergie \u00E9lectrique et aux \u00E9nergies fossiles et fissiles."@fr ,
+		"La historia de Europa se refiere al conjunto de sucesos relativos al continente europeo, desde que fue poblado por los primeros seres humanos hasta la actualidad. El Homo sapiens habr\u00EDa aparecido hace unos 130.000 a\u00F1os en \u00C1frica, seg\u00FAn la opini\u00F3n cient\u00EDfica mayoritaria. La llegada del Homo sapiens a Europa podr\u00EDa haberse dado desde el Cercano Oriente a Europa, donde se asentaron entre 40.000 y 25.000 a. C. (Paleol\u00EDtico Superior).\u200B La Antig\u00FCedad cl\u00E1sica est\u00E1 dominada por el influjo de la civilizaci\u00F3n greco-latina sobre el resto de Europa. . La fragmentaci\u00F3n pol\u00EDtica de Europa y los sucesivos intentos forzados de unificaci\u00F3n sumieron al continente en numerosos conflictos y guerras durante la Edad Media, como la Guerra de los Cien A\u00F1os (que dur\u00F3 m\u00E1s de un siglo). La Edad Moderna marca para Europa el inicio de procesos que mucho despu\u00E9s dar\u00E1n lugar a la globalizaci\u00F3n, y es el tiempo en el que los conflictos b\u00E9licos se hicieron cada vez m\u00E1s desastrosos, como la llamada guerra de los Treinta A\u00F1os. Los procesos econ\u00F3micos y el desarrollo cient\u00EDfico y tecnol\u00F3gico se aceleraron en desmedro de otros continentes de manera mucho m\u00E1s notoria durante la Edad Contempor\u00E1nea, produciendo tensiones por competencias que desencadenaron m\u00E1s guerras (como las guerras Napole\u00F3nicas y las guerras mundiales). Hoy los procesos tendentes a la unificaci\u00F3n se procuran pac\u00EDficamente, tal es el caso de la formaci\u00F3n de la Uni\u00F3n Europea\u200B, si bien no exenta de avances y retrocesos."@es ,
+		"Per storia dell'Europa si intende convenzionalmente la storia dell'omonimo continente e dei popoli che l'hanno abitato e che lo abitano. In un'accezione pi\u00F9 ristretta per storia dell'Europa si intende invece la storia dell'Unione europea, dalla creazione della Comunit\u00E0 economica europea con i trattati di Roma (1957) fino a oggi."@it .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:History_of_Europe	dbo:wikiPageLength	"234968"^^xsd:nonNegativeInteger ;
+	dbp:source	"Ibrahim Muteferrika, Rational basis for the Politics of Nations"@en ;
+	dbp:valign	"middle"@en .
+dbr:David_Sorkin	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Swiss_people	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Medieval_reenactment	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Early_modern_Europe	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:List_of_historians_by_area_of_study	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:High_Middle_Ages	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Revolutions_of_1848	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+<http://dbpedia.org/resource/History_of_Australia_(1788\u20131850)>	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:LGBT_social_movements	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+<http://dbpedia.org/resource/Abul_A\u0027la_Maududi>	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Tenth_grade	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Scott_Rauland	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:History_of_the_city	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Mausoleum	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:History_of_Azerbaijan	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:History_of_Iran	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+wikipedia-en:History_of_Europe	foaf:primaryTopic	dbr:History_of_Europe .
+dbr:Intimate_part	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Arctic_Ocean	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Vikings	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Qamar_Javed_Bajwa	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:History_of_European_universities	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:History_of_Slovenia	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+<http://dbpedia.org/resource/Anna_Agnarsd\u00F3ttir>	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Rhetoric	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Chronicle	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:History	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Leonora_Christina_Ulfeldt	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+<http://dbpedia.org/resource/Robert_S._Wistrich>	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+<http://dbpedia.org/resource/Greece\u2013Italy_relations>	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Southern_Levant	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:History_of_the_Jews_in_Spain	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:At_the_Hub	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+<http://dbpedia.org/resource/Richard_B._Spencer>	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Philip_Giraldi	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Face_powder	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Frank_Hoar	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+<http://dbpedia.org/resource/History_of_Australia_(1851\u20131900)>	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Trinitarian_Order	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Index_of_history_articles	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+<http://dbpedia.org/resource/Settlements_of_the_Cucuteni\u2013Trypillia_culture>	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Anna_Kisselgoff	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Frederick_Douglass_Academy	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Edgewood_High_School_of_the_Sacred_Heart	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:History_of_Eurasia	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:The_Oxford_History_of_Modern_Europe	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Gregory_Weeks	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Roman_Holliday	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Lynn_Abbey	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Breast_binding	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Hungarian_invasions_of_Europe	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Kremnica	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:History_of_Anatolia	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Wendy_Lower	dbp:mainInterests	dbr:History_of_Europe ;
+	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Ron_Sider	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:European_studies	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Daphne_Berdahl	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+<http://dbpedia.org/resource/Hundred_Years\u0027_War>	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+<http://dbpedia.org/resource/International_relations_of_the_Great_Powers_(1814\u20131919)>	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:History_of_the_United_Kingdom	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Age_of_Discovery	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Great_power	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Tony_Judt	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Mark_Mazower	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Universal_history	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Monarchies_in_Europe	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+<http://dbpedia.org/resource/Krishan_Kumar_(sociologist)>	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Cherbourg-Octeville	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Richard_Vinen	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+<http://dbpedia.org/resource/1840s>	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:List_of_wars_and_anthropogenic_disasters_by_death_toll	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Outline_of_the_history_of_Western_civilization	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Ruth_Bettina_Birn	dbp:mainInterests	dbr:History_of_Europe ;
+	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Maritime_history	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+<http://dbpedia.org/resource/France\u2013Germany_relations>	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:History_of_Poland	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+<http://dbpedia.org/resource/Ideal_(ethics)>	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Politics_of_Europe	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:History_of_Ireland	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:History_of_Malta	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Yitzhak_Hen	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Adam_Tooze	dbp:mainInterests	dbr:History_of_Europe ;
+	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:List_of_academic_fields	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+<http://dbpedia.org/resource/Robert_Fox_(historian)>	dbp:mainInterests	dbr:History_of_Europe ;
+	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Walter_Alison_Phillips	dbp:subDiscipline	dbr:History_of_Europe ;
+	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Military_history_of_Italy	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Stephen_Toope	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Crisis_situations_and_unrest_in_Europe_since_2000	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Outline_of_academic_disciplines	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:List_of_history_awards	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:History_of_Kosovo	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:List_of_fields_of_doctoral_studies_in_the_United_States	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Guy_Neave	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Forced_assimilation	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Vanna	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Pan-European_identity	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:History_of_Moldova	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+<http://dbpedia.org/resource/The_Struggle_for_Mastery_in_Europe_1848\u20131918>	dbp:subject	dbr:History_of_Europe ;
+	dbo:nonFictionSubject	dbr:History_of_Europe ;
+	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Marci_Shore	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Dechristianization_of_France_during_the_French_Revolution	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+<http://dbpedia.org/resource/\u00C9lys\u00E9e_Treaty>	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Catherine_Jackson	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Barding	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Geoffrey_Vickers	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Migration_Period_sword	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Alsace_independence_movement	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:History_of_Andorra	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:History_of_Monaco	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Aachen_Treaty	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Barbarian_kingdoms	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Robert_Aron	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Tadeusz_Manteuffel	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Glenda_Sluga	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+<http://dbpedia.org/resource/\u00C9douard_Alletz>	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+<http://dbpedia.org/resource/The_Golden_Hour_(novel)>	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+<http://dbpedia.org/resource/Resistance_movements_in_partitioned_Poland_(1795\u20131918)>	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Bathtub	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+<http://dbpedia.org/resource/Economic_History_of_Europe_(1000_AD_\u2014_Present)>	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Marc_Ferro	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:History_of_Spain	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+<http://dbpedia.org/resource/Ant\u00F3nio_Costa_Pinto>	dbo:wikiPageWikiLink	dbr:History_of_Europe ;
+	dbp:fields	dbr:History_of_Europe .
+dbr:Cabinet_wars	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Lynn_Hunt	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+<http://dbpedia.org/resource/Greater_Luxembourg_(modern_region)>	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Jens_Westemeier	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Wilhelm_Deist	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Belgian_general_strike_of_1893	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Bernd_Stegemann	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:David_Bayne_Horn	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+<http://dbpedia.org/resource/Jackson_J._Spielvogel>	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:House_of_European_History	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Midland_History	dbp:discipline	dbr:History_of_Europe ;
+	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:James_Franklin_Collins	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Nancy_Koehn	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Europatriotism	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Westmoor_High_School	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+<http://dbpedia.org/resource/James_Kennedy_(historian)>	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+@prefix ns58:	<http://dbpedia.org/resource/Postwar:> .
+ns58:_A_History_of_Europe_Since_1945	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+<http://dbpedia.org/resource/Francisco_Moraz\u00E1n>	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Scholastic_accolades	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+<http://dbpedia.org/resource/Charles_Sanford_Terry_(historian)>	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+<http://dbpedia.org/resource/Magill\u0027s_History_of_Europe>	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:The_Incredible_Adventures_of_Van_Helsing	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Berghahn_Books	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+<http://dbpedia.org/resource/Daniel_Adam_z_Veleslav\u00EDna>	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Rena_Molho	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Wolfram_Wette	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+<http://dbpedia.org/resource/Geoffrey_P._Megargee>	dbp:mainInterests	dbr:History_of_Europe ;
+	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Helmut_Krausnick	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:History_of_Australia	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Louis_XIV	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Brendan_Simms	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Armenians_in_the_Ottoman_Empire	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Paschalis_Kitromilides	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+<http://dbpedia.org/resource/Ivan_P._Hall>	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:List_of_historical_classifications	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Euratlas	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Uniforms_and_insignia_of_the_Schutzstaffel	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:ARC_Centre_of_Excellence_for_the_History_of_Emotions	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+<http://dbpedia.org/resource/James_Murdoch_(Scottish_Orientalist)>	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+<http://dbpedia.org/resource/T._Peter_Park>	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Benedictine_Military_School	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Ancient_Europe	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Detlef_Vogel	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+<http://dbpedia.org/resource/George_Miller_(historian)>	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:History_of_Western_civilization_before_AD_500	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Pennsylvania_State_University	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Victoria_and_Albert_Museum	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Madison_Grant	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Nippon_Decimal_Classification	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+<http://dbpedia.org/resource/11th_century>	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Nuova_Rivista_Storica	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:The_English_Historical_Review	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Armour	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:History_of_Hungary	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+<http://dbpedia.org/resource/William_L._Langer>	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+<http://dbpedia.org/resource/Janowiec_and_Others_v._Russia>	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Michael_Oakeshott	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Eric_Hobsbawm	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Whig_history	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Stanley_Karnow	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+<http://dbpedia.org/resource/Gordon_Wright_(historian)>	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Germania	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+<http://dbpedia.org/resource/Piotr_S._Wandycz>	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+<http://dbpedia.org/resource/Europ\u00E4ische_Stammtafeln>	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Democratic_Monarchy_Alliance	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:European_history	dbo:wikiPageWikiLink	dbr:History_of_Europe ;
+	dbo:wikiPageRedirects	dbr:History_of_Europe .
+dbr:The_New_Cambridge_Medieval_History	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Jonathan_Stock	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+<http://dbpedia.org/resource/Chilton_Williamson,_Jr.>	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:The_Penguin_History_of_Europe	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+<http://dbpedia.org/resource/2019_in_literature>	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:History_of_Romania	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:List_of_In_Our_Time_programmes	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+@prefix dc:	<http://purl.org/dc/elements/1.1/> .
+dbr:Dario_Fo	dc:subject	dbr:History_of_Europe ;
+	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:History_of_the_Byzantine_Empire	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:North_Rockland_High_School	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:New_Bulgarian_University	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Maritime_history_of_Europe	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Ernst_Klink	dbp:mainInterests	dbr:History_of_Europe ;
+	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+<http://dbpedia.org/resource/1346>	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+<http://dbpedia.org/resource/J\u00F6rg_Echternkamp>	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+<http://dbpedia.org/resource/Klaus_Naumann_(historian)>	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Gerhard_Schreiber	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Bernd_Wegner	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+<http://dbpedia.org/resource/J\u00FCrgen_F\u00F6rster>	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Old_Europe	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:List_of_Renaissance_composers	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Late_Middle_Ages	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Stara_Zagora_Province	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+<http://dbpedia.org/resource/The_Seven_Deadly_Sins_(manga)>	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Law_of_the_sea	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:History_of_Luxembourg	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:History_of_Switzerland	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+@prefix ns60:	<http://dbpedia.org/resource/Medieval:> .
+ns60:_Total_War	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:College_Level_Examination_Program	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:The_Time_Meddler	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Lisa_Lines	dbp:mainInterests	dbr:History_of_Europe ;
+	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Herbert_Tuttle	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:The_Western_Heritage	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Manfred_Messerschmidt	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Richard_Steigmann-Gall	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+<http://dbpedia.org/resource/Charles_S._Maier>	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Harry_Ziegler	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+<http://dbpedia.org/resource/Samuel_Johnson_(Nigerian_historian)>	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+<http://dbpedia.org/resource/Rolf-Dieter_M\u00FCller>	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+<http://dbpedia.org/resource/Ronald_E._Powaski>	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Renaissance	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Iwo_Cyprian_Pogonowski	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:History_of_the_Netherlands	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Commercial_Revolution	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+<http://dbpedia.org/resource/List_of_people_from_Newark,_New_Jersey>	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Becki_Newton	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Chinese_Library_Classification	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Atlantic_World	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+<http://dbpedia.org/resource/Virgil_I._Grissom_High_School>	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Claudio_Magris	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Feudal_fragmentation	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Reed_Browning	dbp:mainInterests	dbr:History_of_Europe ;
+	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+<http://dbpedia.org/resource/Steven_Kaplan_(historian)>	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+<http://dbpedia.org/resource/Adele_\u00C4ngg\u00E5rd>	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Lionel_Kochan	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:North_Callahan	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Punahou_School	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Carlo_Ginzburg	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Christianity_in_the_Middle_Ages	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:History_of_the_Italian_Republic	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:History_of_San_Marino	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Byzantine_Empire_under_the_Macedonian_dynasty	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:History_of_Slovakia	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+@prefix ns61:	<http://dbpedia.org/resource/Elizabeth:> .
+ns61:_The_Golden_Age	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:History_of_Sweden	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+<http://dbpedia.org/resource/14th_century>	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:History_of_Estonia	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:History_of_the_Russo-Turkish_wars	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Roman_Dmowski	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:List_of_states_during_the_Middle_Ages	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:General_strikes_in_Belgium	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Katja_Brose	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Leonard_Krieger	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Christopher_Clark	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+<http://dbpedia.org/resource/The_Mirage_(Al-Suwaidi_book)>	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Ronald_Smelser	dbp:mainInterests	dbr:History_of_Europe ;
+	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:The_Miller_School_of_Albemarle	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Body_armor	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Comparison_of_Dewey_and_Library_of_Congress_subject_classification	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+<http://dbpedia.org/resource/David_T._Zabecki>	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+<http://dbpedia.org/resource/Craig_A._Kelly>	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Vines_High_School	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Nafplio	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+<http://dbpedia.org/resource/Wayne_S._Vucinich>	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Henri_Pirenne	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:History_of_Greece	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+<http://dbpedia.org/resource/Michael_Burns_(actor)>	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Larry_Portis	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Quinn_Slobodian	dbp:mainInterests	dbr:History_of_Europe ;
+	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Michael_Phayer	dbp:subDiscipline	dbr:History_of_Europe ;
+	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Paul_Lawrence_Rose	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+<http://dbpedia.org/resource/Nicholas_V._Riasanovsky>	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Stephanie_Coontz	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Christopher_Snyder	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+<http://dbpedia.org/resource/History_of_the_Polish\u2013Lithuanian_Commonwealth_(1569\u20131648)>	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+<http://dbpedia.org/resource/Larry_Scott_(sports_administrator)>	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Altoona_Area_High_School	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Montgomery_Blair_High_School	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Margery_Williams	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Women_in_the_Middle_Ages	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+<http://dbpedia.org/resource/Religion_and_ritual_of_the_Cucuteni\u2013Trypillia_culture>	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:The_General_Crisis	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Europhile	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:August_Potthast	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Hominid_dispersals_in_Europe	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Bulgarian_Empire	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Critique_of_Cynical_Reason	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+<http://dbpedia.org/resource/Chebogue,_Nova_Scotia>	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Minsoo_Kang	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Byzantine_diplomacy	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Foreign_relations	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:List_of_museums_in_Brussels	dbo:wikiPageWikiLink	dbr:History_of_Europe .
+dbr:Hari_Vasudevan	dbo:wikiPageWikiLink	dbr:History_of_Europe .

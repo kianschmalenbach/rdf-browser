@@ -1,0 +1,16 @@
+
+
+
+
+    
+
+    
+    
+
+    <http://prefix.cc/foaf.file.vann> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document>  ;
+<http://xmlns.com/foaf/0.1/topic> [ <http://purl.org/vocab/vann/preferredNamespacePrefix> "foaf"  ;
+<http://purl.org/vocab/vann/preferredNamespaceUri> "http://xmlns.com/foaf/0.1/"  ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Ontology>  ]   .
+
+
+

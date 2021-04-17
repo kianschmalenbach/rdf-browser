@@ -1,0 +1,726 @@
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+dbr:Daejeon	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:David_Chalmers	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Singapore_Mathematical_Olympiad	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+<http://dbpedia.org/resource/Olympiade_Math\u00E9matique_Belge>	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Mathematical_Kangaroo	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+<http://dbpedia.org/resource/St._Mark\u0027s_School_of_Texas>	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:International_Physics_Olympiad	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:List_of_International_Mathematical_Olympiad_participants	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Artur_Avila	dbo:award	dbr:International_Mathematical_Olympiad ;
+	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Women_in_STEM_fields	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Education_in_Romania	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:United_States_of_America_Mathematical_Olympiad	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+<http://dbpedia.org/resource/Women\u0027s_rights_in_Iran>	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Canadian_Mathematical_Society	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Mathematical_Association_of_America	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Bremen	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Alexei_Borodin	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Nikolai_Durov	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Joseph_Bernstein	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+<http://dbpedia.org/resource/Milan_Raspopovi\u0107>	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Moscow_Institute_of_Physics_and_Technology	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Tanya_Khovanova	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Soviet_Student_Olympiads	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Mind_sport	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+<http://dbpedia.org/resource/Martin-Andersen-Nex\u00F6-Gymnasium_Dresden>	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Christian_Reiher	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Lisa_Sauermann	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+<http://dbpedia.org/resource/Lajos_P\u00F3sa_(mathematician)>	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Jacob_Lurie	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Mymensingh_Zilla_School	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Kei_Nangon	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Oum_Sang-il	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Mendsaikhany_Enkhsaikhan	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Mladen_Bestvina	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Math_55	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:V_Gymnasium	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:High_School_for_the_Gifted	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+<http://dbpedia.org/resource/Jan_III_Sobieski_High_School,_Krak\u00F3w>	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+<http://dbpedia.org/resource/Ion_Br\u0103tianu_National_College_(Pite\u0219ti)>	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Mathematical_Olympiad_Cell	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Affiliated_High_School_of_South_China_Normal_University	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Colonel_By_Secondary_School	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:National_Science_Talent_Contest	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Ioana_Dumitriu	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Romania	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Bernard_Silverman	dbp:prizes	dbr:International_Mathematical_Olympiad ;
+	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Pham_Huu_Tiep	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:John_Overdeck	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Mar_del_Plata	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Asian_Pacific_Mathematics_Olympiad	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+<http://dbpedia.org/resource/Botond_K\u0151szegi>	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Worldwide_Online_Olympiad_Training	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Shevah_Mofet	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Margaret_Hayman	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Clifford_Cocks	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:George_Dassios	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+<http://dbpedia.org/resource/Ben_Green_(mathematician)>	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+<http://dbpedia.org/resource/Richard_M._Durbin>	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+<http://dbpedia.org/resource/Simon_P._Norton>	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Po-Shen_Loh	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Hong_Kong_Mathematics_Olympiad	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Rodica_Simion	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Flanders_Mathematics_Olympiad	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Zhiwei_Yun	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Andy_Liu	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Jack_Hui	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Shenzhen_Middle_School	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:High_School_Attached_to_Hunan_Normal_University	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Xinyi_Yuan	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Yali_High_School	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+<http://dbpedia.org/resource/No._2_High_School_Attached_to_East_China_Normal_University>	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Terence_Tao	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Huanggang	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+<http://dbpedia.org/resource/Shanghai_Yan\u0027an_High_School>	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Anushakti_Nagar	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+<http://dbpedia.org/resource/Shri_Keshavraj_Vidyalaya,_Latur>	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:International_Olympiad_in_Informatics	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:List_of_University_of_Utah_people	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Jean-Christophe_Yoccoz	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Raphael_Douady	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Patrice_Ossona_de_Mendez	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+<http://dbpedia.org/resource/Instituto_Nacional_de_Matem\u00E1tica_Pura_e_Aplicada>	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+<http://dbpedia.org/resource/Centro_de_Investigaci\u00F3n_en_Matem\u00E1ticas>	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:University_of_Utah_College_of_Science	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Mathematical_Grammar_School	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Nairi_Sedrakyan	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+<http://dbpedia.org/resource/1_vs._100_(Philippine_game_show)>	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Nerds_FC	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Randall_Dougherty	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Beautiful_Young_Minds	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Matthew_Cook	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Andris_Ambainis	dbo:award	dbr:International_Mathematical_Olympiad ;
+	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Language_of_mathematics	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+<http://dbpedia.org/resource/Boles\u0142aw_Szyma\u0144ski>	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Two_Sigma	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+<http://dbpedia.org/resource/Government_College_University,_Lahore>	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Mark_Vos	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Vestal_High_School	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Peter_Shor	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+wikipedia-en:International_Mathematical_Olympiad	foaf:primaryTopic	dbr:International_Mathematical_Olympiad .
+dbr:Grigory_Margulis	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+<http://dbpedia.org/resource/A._R._Rao>	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Hungary	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Mediterranean_Mathematics_Competition	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Imre_Leader	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Peter_Scholze	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+<http://dbpedia.org/resource/L\u00E1szl\u00F3_Babai>	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Moses_Charikar	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Andrei_Zelevinsky	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+<http://dbpedia.org/resource/Malcolm_J._Williamson>	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Sabir_Gusein-Zade	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:IMO	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad ;
+	dbo:wikiPageDisambiguates	dbr:International_Mathematical_Olympiad .
+dbr:Daniel_Lightwing	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Simultala_Awasiya_Vidyalaya	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Maryam_Mirzakhani	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Portuguese_Mathematical_Society	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Google	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:List_of_Chinese_Americans	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+<http://dbpedia.org/resource/King\u0027s_College,_Hong_Kong>	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+<http://dbpedia.org/resource/George_P\u00F3lya>	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+<http://dbpedia.org/resource/St_Eunan\u0027s_College>	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Chinese_mathematics	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Anne_Lester_Hudson	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Georg_Mohr	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+<http://dbpedia.org/resource/D._E._Shaw_&_Co.>	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Sherry_Gong	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+<http://dbpedia.org/resource/X+Y>	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Pan-African_Mathematics_Olympiads	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Mathematics	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:International_Astronomy_Olympiad	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Nordic_Mathematical_Contest	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+<http://dbpedia.org/resource/Johan_H\u00E5stad>	dbo:award	dbr:International_Mathematical_Olympiad ;
+	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:International_Mathematical_Olympiad_selection_process	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Kiran_Kedlaya	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Jordan_Ellenberg	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Valentin_Vornicu	dbo:award	dbr:International_Mathematical_Olympiad ;
+	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+<http://dbpedia.org/resource/Dan_Cohen_(academic)>	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Bjorn_Poonen	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Mathlete	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Ciprian_Manolescu	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Jeremy_Kahn	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:United_States_Academic_Pentathlon	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Vladimir_Drinfeld	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Starnberg	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:West_Windsor-Plainsboro_High_School_South	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Titu_Andreescu	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:XV_Gymnasium	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+<http://dbpedia.org/resource/Antun_Vran\u010Di\u0107_High_School>	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Lviv_Physics_and_Mathematics_Lyceum	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Ukrainian_Physics_and_Mathematics_Lyceum	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Yuliy_Sannikov	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Kevin_Buzzard	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+<http://dbpedia.org/resource/Geoff_Smith_(mathematician)>	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Richard_Borcherds	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Tony_Gardiner	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+<http://dbpedia.org/resource/Ra\u00FAl_Ch\u00E1vez_Sarmiento>	dbo:knownFor	dbr:International_Mathematical_Olympiad ;
+	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Alison_Miller	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+<http://dbpedia.org/resource/Evan_O\u0027Dorney>	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Akshay_Venkatesh	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Wojciech_Zaremba	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Franz_Mertens	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+<http://dbpedia.org/resource/Stanis\u0142aw_Szarek>	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+<http://dbpedia.org/resource/West_University_of_Timi\u0219oara>	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+<http://dbpedia.org/resource/Yucat\u00E1n_Siglo_XXI_Convention_Centre>	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+<http://dbpedia.org/resource/Coll\u00E8ge_Saint-Michel>	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Mandelbrot_Competition	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Cyprus_Mathematical_Society	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+<http://dbpedia.org/resource/Gam\u010Da>	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:IMO_Training_Camp	dbo:wikiPageRedirects	dbr:International_Mathematical_Olympiad ;
+	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:IMOTC	dbo:wikiPageRedirects	dbr:International_Mathematical_Olympiad ;
+	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:International_Mathematical_Olympiads	dbo:wikiPageRedirects	dbr:International_Mathematical_Olympiad ;
+	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:International_mathematical_olympiad	dbo:wikiPageRedirects	dbr:International_Mathematical_Olympiad ;
+	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Math_Olympics	dbo:wikiPageRedirects	dbr:International_Mathematical_Olympiad ;
+	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Mathematical_Olympiad	dbo:wikiPageRedirects	dbr:International_Mathematical_Olympiad ;
+	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Mathematical_Olympiad_Argentina	dbo:wikiPageRedirects	dbr:International_Mathematical_Olympiad ;
+	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Maths_Olympiad	dbo:wikiPageRedirects	dbr:International_Mathematical_Olympiad ;
+	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Maths_Olympics	dbo:wikiPageRedirects	dbr:International_Mathematical_Olympiad ;
+	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:India_at_the_IMO	dbo:wikiPageRedirects	dbr:International_Mathematical_Olympiad ;
+	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:India_at_the_International_Mathematical_Olympiad	dbo:wikiPageRedirects	dbr:International_Mathematical_Olympiad ;
+	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:International_Math_Olympiad	dbo:wikiPageRedirects	dbr:International_Mathematical_Olympiad ;
+	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:International_Math_Olympics	dbo:wikiPageRedirects	dbr:International_Mathematical_Olympiad ;
+	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:International_Mathematical_Olympiad_Training_Camp	dbo:wikiPageRedirects	dbr:International_Mathematical_Olympiad ;
+	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:International_Mathematical_Olympics	dbo:wikiPageRedirects	dbr:International_Mathematical_Olympiad ;
+	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:International_Mathematics_Olympiad	dbo:wikiPageRedirects	dbr:International_Mathematical_Olympiad ;
+	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:International_Mathematics_Olympiad_Training_Camp	dbo:wikiPageRedirects	dbr:International_Mathematical_Olympiad ;
+	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:International_Mathematics_Olympics	dbo:wikiPageRedirects	dbr:International_Mathematical_Olympiad ;
+	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Regional_Mathematics_Olympiad	dbo:wikiPageRedirects	dbr:International_Mathematical_Olympiad ;
+	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:List_of_Serbs	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:United_Kingdom_Mathematics_Trust	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Steve_Furber	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Minh_Do	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:International_Science_Olympiad	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Russian_language	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Eric_Lander	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+<http://dbpedia.org/resource/B\u00E9la_Bollob\u00E1s>	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:KFUPM_mathematics_olympiad	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:List_of_women_in_mathematics	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Luis_Davidson_San_Juan	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+<http://dbpedia.org/resource/Timeline_of_M\u00E9rida,_Mexico>	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+<http://dbpedia.org/resource/Arthur_Engel_(mathematician)>	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+<http://dbpedia.org/resource/Michael_J._Larsen>	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Carl-Zeiss-Gymnasium_Jena	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Ana_Caraiani	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:George_Tseng	dbo:award	dbr:International_Mathematical_Olympiad ;
+	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Yael_Karshon	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Sir-Karl-Popper-Schule	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Laurent_Lafforgue	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Vincent_Lafforgue	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:List_of_countries_by_medal_count_at_International_Mathematical_Olympiad	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+<http://dbpedia.org/resource/List_of_countries\u0027_positions_in_the_Macedonia_naming_dispute>	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+<http://dbpedia.org/resource/Ng\u00F4_B\u1EA3o_Ch\u00E2u>	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+<http://dbpedia.org/resource/Nicu\u0219or_Dan>	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Zvezdelina_Stankova	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Noam_Elkies	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+<http://dbpedia.org/resource/High_School_for_Gifted_Students,_Hanoi_National_University_of_Education>	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Ross_Honsberger	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Mathematical_practice	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Taichung_Municipal_Taichung_First_Senior_High_School	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Institute_of_Mathematics_and_Informatics	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+<http://dbpedia.org/resource/No.1_Middle_School_Affiliated_to_Central_China_Normal_University>	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+<http://dbpedia.org/resource/P\u00E9ter_Komj\u00E1th>	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Ramin_Takloo-Bighash	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Bangladesh_Mathematical_Olympiad	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+<http://dbpedia.org/resource/Weitzenb\u00F6ck\u0027s_inequality>	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:American_Mathematics_Competitions	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Orchlon_school	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Ovidiu_Savin	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+<http://dbpedia.org/resource/Fazekas_Mih\u00E1ly_Gimn\u00E1zium_(Budapest)>	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:List_of_mathematics_competitions	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:British_Mathematical_Olympiad	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Ludomir_Newelski	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Gantuya_Badamgarav	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Antony_Wassermann	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Ian_Wanless	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+<http://dbpedia.org/resource/Zden\u011Bk_Dvo\u0159\u00E1k>	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Alexandru_Dimca	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+<http://dbpedia.org/resource/Allan_Sly_(mathematician)>	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Julia_Pevtsova	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Edith_Elkind	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Patricia_Fauring	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+<http://dbpedia.org/resource/Thomas_J._Laffey>	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+<http://dbpedia.org/resource/Sedrakyan\u0027s_inequality>	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Grigori_Perelman	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Greta_Panova	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Sam_Vandervelde	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Khanindra_Chandra_Chowdhury	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Sucharit_Sarkar	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Indian_National_Mathematical_Olympiad	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Kannan_Soundararajan	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+<http://dbpedia.org/resource/International_Institute_of_Information_Technology,_Hyderabad>	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Arvind_Rajaraman	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:National_Board_for_Higher_Mathematics	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Netarhat_Residential_School	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Hauz_Khas	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Nina_Holden	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Askar_Dzhumadildayev	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Ravi_Vakil	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+<http://dbpedia.org/resource/\u00D6mer_Cerraho\u011Flu>	dbo:knownFor	dbr:International_Mathematical_Olympiad ;
+	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+<http://dbpedia.org/resource/Atat\u00FCrk_High_School_of_Science,_Istanbul>	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:House_System_at_the_California_Institute_of_Technology	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+<http://dbpedia.org/resource/L\u00E1szl\u00F3_Lov\u00E1sz>	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+<http://dbpedia.org/resource/Daniel_Kane_(mathematician)>	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Subhash_Khot	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+<http://dbpedia.org/resource/Toma\u017E_Pisanski>	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Abdus_Salam_School_of_Mathematical_Sciences	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Mathematical_Society_of_the_Philippines	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Philippine_Science_High_School_System	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Mathematics_education	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Education_in_China	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Eliyahu_Rips	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Ian_Goldberg	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Rita_Orji	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Woburn_Collegiate_Institute	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+<http://dbpedia.org/resource/Lubo\u0161_Motl>	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:International_Biology_Olympiad	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+<http://dbpedia.org/resource/Jan_de_Boer_(physicist)>	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Morgan_Girls_High_School	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Rashtriya_Madhyamik_Shiksha_Abhiyan	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Frank_Calegari	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Mark_Kisin	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:The_Perse_School	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Robert_Kleinberg	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+<http://dbpedia.org/resource/Micha\u0142_Misiurewicz>	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Lenhard_Ng	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Future_of_Life_Institute	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Gabriel_Carroll	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Science_and_technology_in_China	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+<http://dbpedia.org/resource/Hong_Kong\u2013North_Korea_relations>	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Paul_Zeitz	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+<http://dbpedia.org/resource/Reid_W._Barton>	dbo:award	dbr:International_Mathematical_Olympiad ;
+	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Aaron_Pixton	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+<http://dbpedia.org/resource/Bohuslav_Divi\u0161>	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Anna_Donald	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+<http://dbpedia.org/resource/Murray_S._Klamkin>	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Mathematical_Olympiad_Program	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Melanie_Wood	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+<http://dbpedia.org/resource/Melih_Onu\u015F>	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:David_Conlon	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Moynihan	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Wei-Hwa_Huang	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Sydney_Grammar_School	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Phillips_Exeter_Academy	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Loreto_Mandeville_Hall	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Germiston_High_School	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+<http://dbpedia.org/resource/L\u00E1szl\u00F3_M\u00E9r\u0151>	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+<http://dbpedia.org/resource/David_Walker_(bishop_of_Manchester)>	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:International_Mathematical_Olympiad	rdf:type	yago:YagoPermanentlyLocatedEntity ,
+		yago:Contest107456188 ,
+		yago:Diversion100426928 ,
+		yago:WikicatSports ,
+		yago:Event100029378 ,
+		yago:Activity100407535 ,
+		yago:Act100030358 ,
+		yago:WikicatRecurringEventsEstablishedIn1959 ,
+		yago:WikicatMathematicsCompetitions ,
+		yago:Sport100523513 ,
+		yago:WikicatScienceCompetitions .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:International_Mathematical_Olympiad	rdf:type	owl:Thing ,
+		yago:Abstraction100002137 ,
+		yago:SocialEvent107288639 ,
+		yago:PsychologicalFeature100023100 .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:International_Mathematical_Olympiad	rdfs:label	"Olimpiadi internazionali della matematica"@it ,
+		"International Mathematical Olympiad"@en ,
+		"Internationale Mathematik-Olympiade"@de ,
+		"Olimp\u00EDada Internacional de Matem\u00E0tiques"@ca ,
+		"Olimpiada Internacional de Matem\u00E1tica"@es ,
+		"\u041C\u0435\u0436\u0434\u0443\u043D\u0430\u0440\u043E\u0434\u043D\u0430\u044F \u043C\u0430\u0442\u0435\u043C\u0430\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F \u043E\u043B\u0438\u043C\u043F\u0438\u0430\u0434\u0430"@ru ,
+		"\u56FD\u969B\u6570\u5B66\u30AA\u30EA\u30F3\u30D4\u30C3\u30AF"@ja ,
+		"Mezin\u00E1rodn\u00ED matematick\u00E1 olympi\u00E1da"@cs ,
+		"\u041C\u0456\u0436\u043D\u0430\u0440\u043E\u0434\u043D\u0430 \u043C\u0430\u0442\u0435\u043C\u0430\u0442\u0438\u0447\u043D\u0430 \u043E\u043B\u0456\u043C\u043F\u0456\u0430\u0434\u0430"@uk ,
+		"Olimpiade Matematika Internasional"@in ,
+		"Internationale Wiskunde Olympiade"@nl ,
+		"Olimp\u00EDada Internacional de Matem\u00E1tica"@pt ,
+		"Olympiades internationales de math\u00E9matiques"@fr ,
+		"Matematikolympiaden"@sv ,
+		"Mi\u0119dzynarodowa Olimpiada Matematyczna"@pl ,
+		"\u0627\u0644\u0623\u0648\u0644\u0645\u0628\u064A\u0627\u062F \u0627\u0644\u062F\u0648\u0644\u064A \u0644\u0644\u0631\u064A\u0627\u0636\u064A\u0627\u062A"@ar ,
+		"\uAD6D\uC81C\uC218\uD559\uC62C\uB9BC\uD53C\uC544\uB4DC"@ko ,
+		"\u56FD\u9645\u6570\u5B66\u5965\u6797\u5339\u514B"@zh ;
+	rdfs:comment	"Olimpiade Matematika Internasional (Inggris: International Mathematical Olympiad/IMO) adalah sebuah  tahunan untuk siswa-siswa SMA. Ini adalah olimpiade sains internasional tertua. OMI pertama diselenggarakan di Rumania pada 1959. Sejak itu, OMI telah diselenggarakan setiap tahun kecuali pada 1980. Sekitar 90 negara mengirimkan timnya yang terdiri atas (paling banyak) enam siswa masing-masing (ditambah seorang pemimpin tim, satu wakil pemimpin tim dan pengamat-pengamat). Tim-tim ini tidak semuanya diakui \u2013 semua angka hanya diberikan kepada peserta masing-masing. Para peserta harus berusia di bawah 20 tahun dan tidak boleh pernah menempuh pendidikan pasca-sekolah menengah. Sejauh memenuhi syarat-syarat ini, seorang peserta dapat ikut serta berapa kalipun dalam OMI."@in ,
+		"Die Internationale Mathematik-Olympiade (IMO) ist ein internationaler Sch\u00FClerwettbewerb im Bereich Mathematik, der seit 1959 (mit einer Ausnahme) j\u00E4hrlich stattfindet. Jedes Land darf sechs Teilnehmer entsenden, die zwei Klausuren mit jeweils drei Aufgaben aus verschiedenen Gebieten der Mathematik wie Algebra, Kombinatorik, Geometrie und Zahlentheorie schreiben. Daneben findet ein umfangreiches Rahmenprogramm statt, in dem die Teilnehmer das Gastland und die Teilnehmer der anderen L\u00E4nder kennenlernen. An der 60. IMO in Gro\u00DFbritannien 2019 nahmen insgesamt 621 Sch\u00FCler aus 112 L\u00E4ndern teil."@de ,
+		"\u56FD\u969B\u6570\u5B66\u30AA\u30EA\u30F3\u30D4\u30C3\u30AF\uFF08\u3053\u304F\u3055\u3044\u3059\u3046\u304C\u304F\u30AA\u30EA\u30F3\u30D4\u30C3\u30AF\u3001\u82F1: International Mathematical Olympiad, IMO\uFF09\u306F\u3001\u6BCE\u5E74\u884C\u308F\u308C\u308B\u9AD8\u6821\u751F\u3092\u5BFE\u8C61\u3068\u3057\u305F\u6570\u5B66\u306E\u554F\u984C\u3092\u89E3\u304F\u80FD\u529B\u3092\u7AF6\u3046\u56FD\u969B\u5927\u4F1A\u3067\u3042\u308B\u3002"@ja ,
+		"Mezin\u00E1rodn\u00ED matematick\u00E1 olympi\u00E1da (IMO) je nejvy\u0161\u0161\u00EDm stupn\u011Bm matematick\u00FDch sout\u011B\u017E\u00ED pro neuniverzitn\u00ED studenty mlad\u0161\u00ED 20 let. Je to z\u00E1rove\u0148 nejstar\u0161\u00ED z mezin\u00E1rodn\u00EDch oborov\u00FDch olympi\u00E1d. Prvn\u00ED se konala v roce 1959 v Rumunsku a od t\u00E9 doby ka\u017Edoro\u010Dn\u011B krom\u011B roku 1980. Okolo 90 zem\u00ED pos\u00EDl\u00E1 na olympi\u00E1du \u0161est student\u016F doprov\u00E1zen\u00FDch vedouc\u00EDm, jeho z\u00E1stupcem a pop\u0159\u00EDpad\u011B div\u00E1ky. Sout\u011B\u017E se skl\u00E1d\u00E1 ze \u0161esti \u00FAloh, z nich\u017E za ka\u017Edou lze z\u00EDskat maxim\u00E1ln\u011B 7 bod\u016F."@cs ,
+		"L'Olimp\u00EDada Internacional de Matem\u00E0tiques (OIM) \u00E9s una competici\u00F3 matem\u00E0tica anual, que consta de 6 problemes i 42 punts, dirigida a estudiants de secund\u00E0ria, i \u00E9s la m\u00E9s antiga de les . La primera OIM se celebr\u00E0 a Romania l'any 1959, i s'ha celebrat cada any excepte en 1980. Al voltant de 100 pa\u00EFsos hi envien delegacions de fins a 6 estudiants, m\u00E9s un capit\u00E0, un vicecapit\u00E0 i observadors."@ca ,
+		"\u0623\u0648\u0644\u0645\u067E\u064A\u0627\u062F \u0627\u0644\u0631\u064A\u0627\u0636\u064A\u0627\u062A \u0627\u0644\u0639\u0627\u0644\u0645\u064A (\u0628\u0627\u0644\u0625\u0646\u062C\u0644\u064A\u0632\u064A\u0629: International Mathematical Olympiad, IMO) \u0647\u0648  \u0633\u0646\u0648\u064A \u0645\u0643\u0648\u0646 \u0645\u0646 42 \u0646\u0642\u0637\u0629 \u0639\u0644\u0649 \u0633\u062A\u0629 \u0623\u0633\u0626\u0644\u0629 \u0644\u0644\u0637\u0644\u0628\u0629 \u0642\u0628\u0644 \u0627\u0644\u0645\u0631\u062D\u0644\u0629 \u0627\u0644\u062C\u0627\u0645\u0639\u064A\u0629 \u0648\u0647\u064A \u0623\u0642\u062F\u0645 \u0623\u0648\u0644\u0645\u067E\u064A\u0627\u062F \u0639\u0644\u0648\u0645 \u0639\u0627\u0644\u0645\u064A. \u0623\u0648\u0644 \u0627.\u0631.\u0639. \u0627\u0646\u0639\u0642\u062F \u0641\u064A \u0631\u0648\u0645\u0627\u0646\u064A\u0627 \u0639\u0627\u0645 1959. \u0648\u0645\u0646\u0630 \u0630\u0644\u0643 \u0627\u0644\u062D\u064A\u0646 \u064A\u0646\u0639\u0642\u062F \u0633\u0646\u0648\u064A\u0627\u064B\u060C \u0628\u0627\u0633\u062A\u062B\u0646\u0627\u0621 \u0639\u0627\u0645 1980. \u0648\u0647\u0646\u0627\u0643 \u0623\u0643\u062B\u0631 \u0645\u0646 100 \u062F\u0648\u0644\u0629 \u0623\u0635\u0628\u062D\u062A \u062A\u0634\u0627\u0631\u0643 \u0648\u062A\u0631\u0633\u0644 \u0641\u0631\u0642\u0627\u064B \u0643\u0644 \u0645\u0646\u0647\u0627 \u0628\u062D\u062F \u0623\u0642\u0635\u0649 \u0633\u062A\u0629 \u0637\u0644\u0627\u0628\u060C \u0628\u0627\u0644\u0625\u0636\u0627\u0641\u0629 \u0644\u0642\u0627\u0626\u062F \u0644\u0644\u0641\u0631\u064A\u0642\u060C \u0648\u0646\u0627\u0626\u0628 \u0644\u0644\u0642\u0627\u0626\u062F\u060C \u0648\u0645\u0631\u0627\u0642\u0628\u064A\u0646."@ar ,
+		"Matematikolympiaden \u00E4r en \u00E5rlig internationell matematikt\u00E4vling f\u00F6r gymnasister, den \u00E4ldsta av de olika vetenskapsolympiaderna. Matematikolympiaden har arrangerats varje \u00E5r sedan 1959. Sverige har sedan sextiotalet st\u00E4llt upp i t\u00E4vlingen, och skickar varje \u00E5r 6 deltagare. Deltagarna tas ut p\u00E5 resultaten fr\u00E5n Skolornas Matematikt\u00E4vling (SMT),  (NMC) och en korrespondenskurs f\u00F6r dem som tagit sig till final i SMT. I januari 2011 sk\u00E4nkte Google 1 miljon euro till IMO f\u00F6r att hj\u00E4lpa till att t\u00E4cka evenemangens kostnader mellan 2011 och 2015."@sv ,
+		"\uAD6D\uC81C\uC218\uD559\uC62C\uB9BC\uD53C\uC544\uB4DC(International Mathematical Olympiad, IMO)\uB294 \uB300\uD559 \uAD50\uC721\uC744 \uBC1B\uC9C0 \uC54A\uC740 \uB9CC 20\uC138 \uBBF8\uB9CC(19\uC138 \uC774\uD558)\uC758 \uCCAD\uC18C\uB144\uB4E4\uC744 \uB300\uC0C1\uC73C\uB85C \uB9E4\uB144 \uC5F4\uB9AC\uB294 \uAD6D\uC81C\uC218\uD559\uACBD\uC2DC\uB300\uD68C\uC774\uB2E4. 2000\uB144\uC5D0\uB294 \uB300\uD55C\uBBFC\uAD6D \uB300\uC804\uAD11\uC5ED\uC2DC\uC5D0\uC11C \uC5F4\uB9AC\uAE30\uB3C4 \uD558\uC600\uB2E4. \uAD6D\uC81C\uC218\uD559\uC62C\uB9BC\uD53C\uC544\uB4DC\uC758 \uC2DC\uC791\uC740 \uACF5\uC0B0\uAD8C \uAD6D\uAC00\uB4E4\uC758 \uC8FC\uCD95\uC774 \uB418\uC5B4\uC11C \uC2DC\uC791\uB418\uC5C8\uB2E4. \uCCAB \uB300\uD68C\uB294 1959\uB144 \uB8E8\uB9C8\uB2C8\uC544\uC5D0\uC11C 7\uAC1C\uAD6D\uC774 \uCC38\uAC00\uD568\uC73C\uB85C \uAC1C\uCD5C\uB418\uC5C8\uACE0, \uADF8 \uD6C4 1980\uB144\uC744 \uC81C\uC678\uD558\uACE0\uB294 \uB9E4\uB144 \uC5F4\uB838\uB2E4. \uD604\uC7AC\uB294 \uB300\uB7B5 100\uC5EC \uAC1C \uAD6D\uAC00\uAC00 \uCC38\uAC00\uD558\uACE0, \uAC01 \uAD6D\uAC00\uC5D0\uC11C\uB294 \uCD5C\uB300 6\uBA85\uC758 \uD559\uC0DD\uC744 \uBCF4\uB0B8\uB2E4. \uCC38\uAC00\uC790\uB294 \uB300\uD559 \uAD50\uC721\uC744 \uBC1B\uC740 \uC801\uC774 \uC5C6\uB294 20\uC138 \uBBF8\uB9CC\uC758 \uCCAD\uC18C\uB144\uC774\uC5B4\uC57C \uD55C\uB2E4. 1\uBA85\uC774 \uC5EC\uB7EC \uD574\uC5D0 \uAC78\uCCD0\uC11C \uC5EC\uB7EC \uBC88 \uCC38\uAC00\uD560 \uC218 \uC788\uB2E4. \uC6B0\uC218\uD55C \uCC38\uAC00\uC790\uC5D0\uAC8C\uB294 \uC131\uC801\uC5D0 \uB530\uB77C \uAE08\uBA54\uB2EC, \uC740\uBA54\uB2EC, \uB3D9\uBA54\uB2EC\uC774 \uC8FC\uC5B4\uC9C4\uB2E4. \uC774\uC678\uC5D0\uB3C4 \uBA85\uC608\uC0C1\uC774 \uC788\uB294\uB370, \uBA85\uC608\uC0C1\uC740 \uBA54\uB2EC \uBBF8\uC218\uC0C1\uC790\uAC00 \uC804\uCCB4 6\uBB38\uC81C \uC911 \uD55C \uBB38\uC81C\uB97C \uC815\uD655\uD788 \uD480\uC5B4\uC11C \uD574\uB2F9 \uBB38\uC81C\uC5D0\uC11C 7\uC810\uC744 \uD68D\uB4DD\uD560 \uACBD\uC6B0 \uC218\uC0C1\uD560 \uC218 \uC788\uB2E4."@ko ,
+		"De Internationale Wiskunde Olympiade (IWO) (Engels: International Mathematical Olympiad of IMO) is een jaarlijkse wiskundewedstrijd voor middelbare scholieren. Het is de oudste internationale wetenschapsolympiade. De eerste IWO werd gehouden in 1959 in Roemeni\u00EB. Sindsdien is ze elk jaar gehouden, behalve in 1980. Ongeveer 100 landen sturen een team bestaande uit maximaal zes scholieren, \u00E9\u00E9n teamleider, \u00E9\u00E9n plaatsvervangende teamleider en eventuele waarnemers. Jaarlijks komen ongeveer 600 scholieren bijeen om de zes wiskundeopgaven zo goed mogelijk op te lossen."@nl ,
+		"Les Olympiades internationales de math\u00E9matiques (en anglais : International Mathematical Olympiad) constituent un championnat international de math\u00E9matiques concernant des \u00E9l\u00E8ves \u00E0 l'issue de leurs \u00E9tudes secondaires. Les Olympiades ont lieu chaque ann\u00E9e dans un pays diff\u00E9rent."@fr ,
+		"Mi\u0119dzynarodowa Olimpiada Matematyczna (ang. International Mathematical Olympiad, IMO) \u2013 coroczny konkurs matematyczny dla uczni\u00F3w szk\u00F3\u0142 \u015Brednich (lub m\u0142odszych, np. Terence Tao). Jest najstarsz\u0105 mi\u0119dzynarodow\u0105 olimpiad\u0105 przedmiotow\u0105. Pierwsze zawody odby\u0142y si\u0119 w Rumunii w 1959 roku. Zawody trwaj\u0105 dwa dni. Uczestnicy otrzymuj\u0105 sze\u015B\u0107 zada\u0144 (po trzy ka\u017Cdego dnia), ocenianych w skali 0-7. Zadania dotycz\u0105 algebry, teorii liczb, geometrii i kombinatoryki. Do ich rozwi\u0105zania nie jest potrzebna znajomo\u015B\u0107 matematyki wy\u017Cszej."@pl ,
+		"Le Olimpiadi internazionali della matematica, abbreviate sovente in IMO, acronimo per International Mathematics Olympiads, sono una competizione internazionale di risoluzione di problemi matematici per studenti delle scuole medie superiori che non abbiano compiuto 20 anni, che non siano iscritti a un livello terziario di istruzione, che si svolge annualmente. Esse sono la pi\u00F9 antica delle olimpiadi scientifiche. Nel 2011 Google ha donato 1 milione di dollari all'organizzazione delle Imo per coprire i costi del quinquennio 2011-2015."@it ,
+		"The International Mathematical Olympiad (IMO) is a mathematical olympiad for pre-college students, and is the oldest of the International Science Olympiads. The first IMO was held in Romania in 1959. It has since been held annually, except in 1980. More than 100 countries, representing over 90% of the world's population, send teams of up to six students, plus one team leader, one deputy leader, and observers."@en ,
+		"La Olimpiada Internacional de Matem\u00E1tica (International Mathematical Olympiad, IMO por sus siglas en ingl\u00E9s) es una competencia anual para estudiantes preuniversitarios y es la m\u00E1s antigua de las Olimpiadas Internacionales de Ciencias.\u200B La primera IMO se celebr\u00F3 en Rumania en 1959. Desde entonces se ha celebrado cada a\u00F1o. Cerca de cien pa\u00EDses de todo el mundo env\u00EDan equipos de un m\u00E1ximo de seis estudiantes\u200B\u200B junto con un l\u00EDder de equipo, un tutor - o col\u00EDder - y observadores.\u200B El procedimiento para la entrada de un nuevo pa\u00EDs en la competici\u00F3n se encuentra disponible en el siguiente enlace\u200B (en ingl\u00E9s)."@es ,
+		"\u041C\u0456\u0436\u043D\u0430\u0440\u043E\u0434\u043D\u0430 \u043C\u0430\u0442\u0435\u043C\u0430\u0442\u0438\u0447\u043D\u0430 \u043E\u043B\u0456\u043C\u043F\u0456\u0430\u0434\u0430 (\u041C\u041C\u041E, \u0430\u043D\u0433\u043B. IMO, International Mathematical Olympiad) \u2014 \u0449\u043E\u0440\u0456\u0447\u043D\u0435 \u0437\u043C\u0430\u0433\u0430\u043D\u043D\u044F \u0437 \u043C\u0430\u0442\u0435\u043C\u0430\u0442\u0438\u043A\u0438 \u0434\u043B\u044F \u0448\u043A\u043E\u043B\u044F\u0440\u0456\u0432. \u0426\u0435 \u043D\u0430\u0439\u0441\u0442\u0430\u0440\u0456\u0448\u0430 \u0437 \u043C\u0456\u0436\u043D\u0430\u0440\u043E\u0434\u043D\u0438\u0445 \u043D\u0430\u0443\u043A\u043E\u0432\u0438\u0445 \u043E\u043B\u0456\u043C\u043F\u0456\u0430\u0434 \u0448\u043A\u043E\u043B\u044F\u0440\u0456\u0432. \u041F\u0435\u0440\u0448\u0430 \u041C\u041C\u041E \u0431\u0443\u043B\u0430 \u043F\u0440\u043E\u0432\u0435\u0434\u0435\u043D\u0430 \u0432 1959 \u0432 \u041D\u0430\u0440\u043E\u0434\u043D\u0456\u0439 \u0420\u0435\u0441\u043F\u0443\u0431\u043B\u0456\u0446\u0456 \u0420\u0443\u043C\u0443\u043D\u0456\u044F. \u0417 \u0442\u0438\u0445 \u043F\u0456\u0440 \u0432\u043E\u043D\u0430 \u043F\u0440\u043E\u0432\u043E\u0434\u0438\u0442\u044C\u0441\u044F \u0449\u043E\u0440\u0456\u0447\u043D\u043E (\u0454\u0434\u0438\u043D\u0438\u043C \u0432\u0438\u043D\u044F\u0442\u043A\u043E\u043C \u0431\u0443\u0432 1980-\u0439, \u043A\u043E\u043B\u0438 \u0432\u043E\u043D\u0430 \u043D\u0435 \u043F\u0440\u043E\u0432\u043E\u0434\u0438\u043B\u0430\u0441\u044C). \u0421\u043F\u043E\u0447\u0430\u0442\u043A\u0443 \u0432 \u041E\u043B\u0456\u043C\u043F\u0456\u0430\u0434\u0456 \u0431\u0440\u0430\u043B\u0438 \u0443\u0447\u0430\u0441\u0442\u044C \u0442\u0456\u043B\u044C\u043A\u0438 \u0448\u043A\u043E\u043B\u044F\u0440\u0456 \u0456\u0437 \u043A\u0440\u0430\u0457\u043D \u0420\u0415\u0412, \u0430\u043B\u0435 \u043D\u0435\u0437\u0430\u0431\u0430\u0440\u043E\u043C \u0433\u0435\u043E\u0433\u0440\u0430\u0444\u0456\u044F \u0440\u043E\u0437\u0448\u0438\u0440\u0438\u043B\u0430\u0441\u044F. \u0423 2009 \u0440\u043E\u0446\u0456 \u0431\u0443\u043B\u043E 104 \u043A\u0440\u0430\u0457\u043D\u0438-\u0443\u0447\u0430\u0441\u043D\u0438\u0446\u0456."@uk ,
+		"\u570B\u969B\u6578\u5B78\u5967\u6797\u5339\u4E9E\uFF08\u82F1\u8A9E\uFF1AInternational Mathematical Olympiad\uFF0C\u7C21\u7A31\uFF1AIMO\uFF09\uFF0C\u662F\u570B\u969B\u79D1\u5B78\u5967\u6797\u5339\u4E9E\u6B77\u53F2\u6700\u9577\u7684\u8CFD\u4E8B\u30021934\u5E74\u548C1935\u5E74\uFF0C\u524D\u8607\u806F\u7387\u5148\u5728\u5176\u570B\u5167\u7684\u5217\u5BE7\u683C\u52D2\u548C\u83AB\u65AF\u79D1\u8209\u8FA6\u4E2D\u5B78\u6578\u5B78\u7AF6\u8CFD\uFF0C\u4E26\u628A\u8FD9\u79CD\u6570\u5B66\u7ADE\u8D5B\u548C\u4F53\u80B2\u7ADE\u8D5B\u76F8\u63D0\u5E76\u8BBA\uFF0C\u51A0\u4EE5\u300C\u6578\u5B78\u5967\u6797\u5339\u4E9E\u300D\u7684\u540D\u7A31\uFF0C\u5F62\u8C61\u5730\u63ED\u793A\u9009\u624B\u95F4\u667A\u529B\u8F83\u91CF\u7684\u8FC7\u7A0B\u3002 1959\u5E74\uFF0C\u7B2C\u4E00\u5C46IMO\u65BC\u7F85\u99AC\u5C3C\u4E9E\u8209\u884C\uFF0C\u53C2\u8D5B\u56FD\u5305\u62EC7\u4E2A\u4E1C\u6B27\u56FD\u5BB6\u3002\u81EA\u6B64\u4EE5\u6765\uFF0C\u9664\u4E861980\u5E74\u4E4B\u5916\uFF0CIMO\u4ECE\u672A\u4E2D\u65AD\u3002\u968F\u7740IMO\u5F71\u54CD\u529B\u7684\u4E0D\u65AD\u6269\u5927\uFF0C\u53C2\u8D5B\u56FD\u4E5F\u4E0D\u65AD\u589E\u591A\uFF0C\u8FD1\u51E0\u5E74\u5DF2\u8FBE\u7EA6100\u4E2A\uFF0C\u57FA\u672C\u5305\u62EC\u4E86\u4E2D\u5B66\u6570\u5B66\u6559\u80B2\u6C34\u5E73\u8F83\u9AD8\u7684\u56FD\u5BB6\u3002\u76EE\u524D\u6BCF\u4E2A\u53C2\u8D5B\u56FD\u53EF\u6D3E\u51FA\u6700\u591A6\u4F4D\u53C2\u8D5B\u9009\u624B\u3001\u4E00\u540D\u9818\u968A\u3001\u4E00\u540D\u526F\u9818\u968A\u548C\u89C0\u5BDF\u54E1\u3002\u53C3\u8CFD\u8005\u5FC5\u9808\u5728\u6BD4\u8CFD\u6642\u672A\u6EE120\u5468\u5C81\uFF0C\u6700\u9AD8\u5B66\u5386\u4E3A\u4E2D\u5B66\uFF0C\u4E0D\u8FC7\u6BCF\u540D\u9009\u624B\u53C3\u52A0IMO\u7684\u6B21\u6578\u6CA1\u6709\u9650\u5236\u3002"@zh ,
+		"A Olimp\u00EDada Internacional de Matem\u00E1tica (IMO) \u00E9 uma olimp\u00EDada de matem\u00E1tica que ocorre anualmente e \u00E9 destinada a alunos do ensino m\u00E9dio. Ela \u00E9 a mais antiga das Olimp\u00EDadas Internacionais de Ci\u00EAncias. Ela foi sediada pela primeira vez em 1959 na Rom\u00EAnia e foi realizada anualmente desde ent\u00E3o, com exce\u00E7\u00E3o de 1980. Atualmente aproximadamente 90 pa\u00EDses mandam seus times compostos de at\u00E9 seis competidores. Os participantes t\u00EAm que ter menos de 20 anos e n\u00E3o podem estar cursando qualquer universidade."@pt ,
+		"\u041C\u0435\u0436\u0434\u0443\u043D\u0430\u0440\u043E\u0434\u043D\u0430\u044F \u043C\u0430\u0442\u0435\u043C\u0430\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F \u043E\u043B\u0438\u043C\u043F\u0438\u0430\u0434\u0430 (\u041C\u041C\u041E, \u0430\u043D\u0433\u043B. IMO, International Mathematical Olympiad) \u2014 \u0435\u0436\u0435\u0433\u043E\u0434\u043D\u0430\u044F \u043C\u0430\u0442\u0435\u043C\u0430\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F \u043E\u043B\u0438\u043C\u043F\u0438\u0430\u0434\u0430 \u0434\u043B\u044F \u0448\u043A\u043E\u043B\u044C\u043D\u0438\u043A\u043E\u0432, \u0441\u0442\u0430\u0440\u0435\u0439\u0448\u0430\u044F \u0438\u0437 \u043C\u0435\u0436\u0434\u0443\u043D\u0430\u0440\u043E\u0434\u043D\u044B\u0445 \u043F\u0440\u0435\u0434\u043C\u0435\u0442\u043D\u044B\u0445 \u043E\u043B\u0438\u043C\u043F\u0438\u0430\u0434. \u041F\u0435\u0440\u0432\u0430\u044F \u041C\u041C\u041E \u0431\u044B\u043B\u0430 \u043F\u0440\u043E\u0432\u0435\u0434\u0435\u043D\u0430 \u0432 1959 \u0433\u043E\u0434\u0443 \u0432 \u0420\u0443\u043C\u044B\u043D\u0438\u0438. \u0421 \u0442\u0435\u0445 \u043F\u043E\u0440 \u043E\u043D\u0430 \u043F\u0440\u043E\u0432\u043E\u0434\u0438\u0442\u0441\u044F \u043A\u0430\u0436\u0434\u044B\u0439 \u0433\u043E\u0434 (\u0435\u0434\u0438\u043D\u0441\u0442\u0432\u0435\u043D\u043D\u044B\u043C \u0438\u0441\u043A\u043B\u044E\u0447\u0435\u043D\u0438\u0435\u043C \u0431\u044B\u043B 1980 \u0433\u043E\u0434, \u043A\u043E\u0433\u0434\u0430 \u043E\u043D\u0430 \u043D\u0435 \u0441\u043E\u0441\u0442\u043E\u044F\u043B\u0430\u0441\u044C). \u041F\u0435\u0440\u0432\u043E\u043D\u0430\u0447\u0430\u043B\u044C\u043D\u043E \u0432 \u041E\u043B\u0438\u043C\u043F\u0438\u0430\u0434\u0435 \u0443\u0447\u0430\u0441\u0442\u0432\u043E\u0432\u0430\u043B\u0438 \u0442\u043E\u043B\u044C\u043A\u043E \u0448\u043A\u043E\u043B\u044C\u043D\u0438\u043A\u0438 \u0438\u0437 \u0441\u0442\u0440\u0430\u043D \u0421\u042D\u0412, \u043D\u043E \u0441\u043A\u043E\u0440\u043E \u0433\u0435\u043E\u0433\u0440\u0430\u0444\u0438\u044F \u0440\u0430\u0441\u0448\u0438\u0440\u0438\u043B\u0430\u0441\u044C. \u0412 2017 \u0433\u043E\u0434\u0443 \u0447\u0438\u0441\u043B\u043E \u0441\u0442\u0440\u0430\u043D-\u0443\u0447\u0430\u0441\u0442\u043D\u0438\u0446 \u0434\u043E\u0441\u0442\u0438\u0433\u043B\u043E 111. \u0417\u0430\u0434\u0430\u0447\u0438 \u041C\u0435\u0436\u0434\u0443\u043D\u0430\u0440\u043E\u0434\u043D\u044B\u0445 \u043C\u0430\u0442\u0435\u043C\u0430\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0445 \u043E\u043B\u0438\u043C\u043F\u0438\u0430\u0434 \u0438 \u0438\u0445 \u0440\u0435\u0448\u0435\u043D\u0438\u044F \u043F\u0443\u0431\u043B\u0438\u043A\u0443\u044E\u0442\u0441\u044F, \u043D\u0430\u043F\u0440\u0438\u043C\u0435\u0440, \u0432 \u0436\u0443\u0440\u043D\u0430\u043B\u0435 \u00AB\u041A\u0432\u0430\u043D\u0442\u00BB."@ru ;
+	rdfs:seeAlso	dbr:List_of_International_Mathematical_Olympiad_participants ,
+		dbr:List_of_International_Mathematical_Olympiads ;
+	foaf:homepage	<http://www.imo-official.org/> ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/IMO_logo.svg> ;
+	foaf:isPrimaryTopicOf	wikipedia-en:International_Mathematical_Olympiad .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:International_Mathematical_Olympiad	dct:subject	dbc:Recurring_events_established_in_1959 ,
+		dbc:International_Mathematical_Olympiad ,
+		dbc:International_Science_Olympiad ,
+		dbc:Mathematics_competitions ;
+	owl:sameAs	<http://sl.dbpedia.org/resource/Mednarodna_matemati\u010Dna_olimpijada> ,
+		<http://ko.dbpedia.org/resource/\uAD6D\uC81C\uC218\uD559\uC62C\uB9BC\uD53C\uC544\uB4DC> ,
+		<http://hy.dbpedia.org/resource/\u0544\u0561\u0569\u0565\u0574\u0561\u057F\u056B\u056F\u0561\u0575\u056B_\u0574\u056B\u057B\u0561\u0566\u0563\u0561\u0575\u056B\u0576_\u0585\u056C\u056B\u0574\u057A\u056B\u0561\u0564\u0561> .
+@prefix dbpedia-lb:	<http://lb.dbpedia.org/resource/> .
+dbr:International_Mathematical_Olympiad	owl:sameAs	dbpedia-lb:International_Mathematik-Olympiad .
+@prefix dbpedia-da:	<http://da.dbpedia.org/resource/> .
+dbr:International_Mathematical_Olympiad	owl:sameAs	dbpedia-da:Internationale_Matematik-Olympiade ,
+		<http://ja.dbpedia.org/resource/\u56FD\u969B\u6570\u5B66\u30AA\u30EA\u30F3\u30D4\u30C3\u30AF> ,
+		<http://ar.dbpedia.org/resource/\u0627\u0644\u0623\u0648\u0644\u0645\u0628\u064A\u0627\u062F_\u0627\u0644\u062F\u0648\u0644\u064A_\u0644\u0644\u0631\u064A\u0627\u0636\u064A\u0627\u062A> ,
+		<http://d-nb.info/gnd/4169097-7> ,
+		<http://zh.dbpedia.org/resource/\u56FD\u9645\u6570\u5B66\u5965\u6797\u5339\u514B> .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:International_Mathematical_Olympiad	owl:sameAs	dbpedia-it:Olimpiadi_internazionali_della_matematica ,
+		<http://ro.dbpedia.org/resource/Olimpiada_Interna\u021Bional\u0103_de_Matematic\u0103> ,
+		<http://he.dbpedia.org/resource/\u05D0\u05D5\u05DC\u05D9\u05DE\u05E4\u05D9\u05D0\u05D3\u05EA_\u05D4\u05DE\u05EA\u05DE\u05D8\u05D9\u05E7\u05D4_\u05D4\u05D1\u05D9\u05E0\u05DC\u05D0\u05D5\u05DE\u05D9\u05EA> .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:International_Mathematical_Olympiad	owl:sameAs	dbpedia-de:Internationale_Mathematik-Olympiade ,
+		<http://rdf.freebase.com/ns/m.0l3rs> ,
+		<http://uk.dbpedia.org/resource/\u041C\u0456\u0436\u043D\u0430\u0440\u043E\u0434\u043D\u0430_\u043C\u0430\u0442\u0435\u043C\u0430\u0442\u0438\u0447\u043D\u0430_\u043E\u043B\u0456\u043C\u043F\u0456\u0430\u0434\u0430> ,
+		<http://tg.dbpedia.org/resource/\u041E\u0437\u043C\u0443\u043D\u0438_\u0411\u0430\u0439\u043D\u0430\u043B\u0445\u0430\u043B\u049B\u0438\u0438_\u041C\u0430\u0442\u0435\u043C\u0430\u0442\u0438\u043A\u0430> .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:International_Mathematical_Olympiad	owl:sameAs	wikidata:Q7983 ,
+		<http://pt.dbpedia.org/resource/Olimp\u00EDada_Internacional_de_Matem\u00E1tica> ,
+		<http://sk.dbpedia.org/resource/Medzin\u00E1rodn\u00E1_matematick\u00E1_olympi\u00E1da> ,
+		<http://fa.dbpedia.org/resource/\u0627\u0644\u0645\u067E\u06CC\u0627\u062F_\u062C\u0647\u0627\u0646\u06CC_\u0631\u06CC\u0627\u0636\u06CC> .
+@prefix dbpedia-id:	<http://id.dbpedia.org/resource/> .
+dbr:International_Mathematical_Olympiad	owl:sameAs	dbpedia-id:Olimpiade_Matematika_Internasional .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:International_Mathematical_Olympiad	owl:sameAs	yago-res:International_Mathematical_Olympiad .
+@prefix dbpedia-commons:	<http://commons.dbpedia.org/resource/> .
+dbr:International_Mathematical_Olympiad	owl:sameAs	dbpedia-commons:International_Mathematical_Olympiad ,
+		<http://hi.dbpedia.org/resource/\u0905\u0902\u0924\u0930\u0930\u093E\u0937\u094D\u091F\u094D\u0930\u0940\u092F_\u0917\u0923\u093F\u0924\u0940\u092F_\u0913\u0932\u0902\u092A\u093F\u092F\u093E\u0921> ,
+		<http://cs.dbpedia.org/resource/Mezin\u00E1rodn\u00ED_matematick\u00E1_olympi\u00E1da> ,
+		dbr:International_Mathematical_Olympiad ,
+		<http://vi.dbpedia.org/resource/Olympic_To\u00E1n_h\u1ECDc_Qu\u1ED1c_t\u1EBF> ,
+		<http://fr.dbpedia.org/resource/Olympiades_internationales_de_math\u00E9matiques> ,
+		<http://ca.dbpedia.org/resource/Olimp\u00EDada_Internacional_de_Matem\u00E0tiques> .
+@prefix dbpedia-no:	<http://no.dbpedia.org/resource/> .
+dbr:International_Mathematical_Olympiad	owl:sameAs	dbpedia-no:Den_internasjonale_matematikkolympiaden ,
+		<http://viaf.org/viaf/153803549> ,
+		<http://fi.dbpedia.org/resource/Kansainv\u00E4liset_matematiikkaolympialaiset> ,
+		<http://bn.dbpedia.org/resource/\u0986\u09A8\u09CD\u09A4\u09B0\u09CD\u099C\u09BE\u09A4\u09BF\u0995_\u0997\u09A3\u09BF\u09A4_\u0985\u09B2\u09BF\u09AE\u09CD\u09AA\u09BF\u09AF\u09BC\u09BE\u09A1> .
+@prefix dbpedia-nn:	<http://nn.dbpedia.org/resource/> .
+dbr:International_Mathematical_Olympiad	owl:sameAs	dbpedia-nn:Den_internasjonale_matematikkolympiaden ,
+		<http://ml.dbpedia.org/resource/\u0D05\u0D28\u0D4D\u0D24\u0D3E\u0D30\u0D3E\u0D37\u0D4D\u0D1F\u0D4D\u0D30_\u0D17\u0D23\u0D3F\u0D24\u0D36\u0D3E\u0D38\u0D4D\u0D24\u0D4D\u0D30_\u0D12\u0D33\u0D3F\u0D2E\u0D4D\u0D2A\u0D4D\u0D2F\u0D3E\u0D21\u0D4D> ,
+		<http://lv.dbpedia.org/resource/Starptautisk\u0101_matem\u0101tikas_olimpi\u0101de> ,
+		<http://is.dbpedia.org/resource/\u00D3lymp\u00EDuleikarnir_\u00ED_st\u00E6r\u00F0fr\u00E6\u00F0i> ,
+		<http://mn.dbpedia.org/resource/\u041E\u043B\u043E\u043D_\u0423\u043B\u0441\u044B\u043D_\u041C\u0430\u0442\u0435\u043C\u0430\u0442\u0438\u043A\u0438\u0439\u043D_\u041E\u043B\u0438\u043C\u043F\u0438\u0430\u0434> ,
+		<http://si.dbpedia.org/resource/\u0D85\u0DB1\u0DCA\u0DAD\u0DBB\u0DCA\u0DA2\u0DCF\u0DAD\u0DD2\u0D9A_\u0D9C\u0DAB\u0DD2\u0DAD_\u0D94\u0DBD\u0DD2\u0DB8\u0DCA\u0DB4\u0DD2\u0DBA\u0DCF\u0DA9\u0DBA> ,
+		<http://sr.dbpedia.org/resource/\u041C\u0435\u0452\u0443\u043D\u0430\u0440\u043E\u0434\u043D\u0430_\u043C\u0430\u0442\u0435\u043C\u0430\u0442\u0438\u0447\u043A\u0430_\u043E\u043B\u0438\u043C\u043F\u0438\u0458\u0430\u0434\u0430> ,
+		<http://ur.dbpedia.org/resource/\u0628\u06CC\u0646_\u0627\u0644\u0627\u0642\u0648\u0627\u0645\u06CC_\u0631\u06CC\u0627\u0636\u06CC\u0627\u062A\u06CC_\u0627\u0648\u0644\u0645\u067E\u06CC\u0627\u0688> ,
+		<http://pl.dbpedia.org/resource/Mi\u0119dzynarodowa_Olimpiada_Matematyczna> .
+@prefix dbpedia-simple:	<http://simple.dbpedia.org/resource/> .
+dbr:International_Mathematical_Olympiad	owl:sameAs	dbpedia-simple:International_Mathematical_Olympiad ,
+		<http://lt.dbpedia.org/resource/Tarptautin\u0117_matematikos_olimpiada> ,
+		<http://es.dbpedia.org/resource/Olimpiada_Internacional_de_Matem\u00E1tica> .
+@prefix dbpedia-sv:	<http://sv.dbpedia.org/resource/> .
+dbr:International_Mathematical_Olympiad	owl:sameAs	dbpedia-sv:Matematikolympiaden ,
+		<http://ta.dbpedia.org/resource/\u0B9A\u0BB0\u0BCD\u0BB5\u0BA4\u0BC7\u0B9A\u0B95\u0BCD_\u0B95\u0BA3\u0BBF\u0BA4_\u0B92\u0BB2\u0BBF\u0BAE\u0BCD\u0BAA\u0BBF\u0BAF\u0BBE\u0B9F\u0BCD> ,
+		<https://global.dbpedia.org/id/4xUa3> ,
+		<http://kk.dbpedia.org/resource/\u0425\u0430\u043B\u044B\u049B\u0430\u0440\u0430\u043B\u044B\u049B_\u041C\u0430\u0442\u0435\u043C\u0430\u0442\u0438\u043A\u0430\u043B\u044B\u049B_\u041E\u043B\u0438\u043C\u043F\u0438\u0430\u0434\u0430> ,
+		<http://ru.dbpedia.org/resource/\u041C\u0435\u0436\u0434\u0443\u043D\u0430\u0440\u043E\u0434\u043D\u0430\u044F_\u043C\u0430\u0442\u0435\u043C\u0430\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F_\u043E\u043B\u0438\u043C\u043F\u0438\u0430\u0434\u0430> .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:International_Mathematical_Olympiad	owl:sameAs	dbpedia-nl:Internationale_Wiskunde_Olympiade ,
+		<http://th.dbpedia.org/resource/\u0E04\u0E13\u0E34\u0E15\u0E28\u0E32\u0E2A\u0E15\u0E23\u0E4C\u0E42\u0E2D\u0E25\u0E34\u0E21\u0E1B\u0E34\u0E01\u0E23\u0E30\u0E2B\u0E27\u0E48\u0E32\u0E07\u0E1B\u0E23\u0E30\u0E40\u0E17\u0E28> ;
+	dbo:abstract	"\u041C\u0435\u0436\u0434\u0443\u043D\u0430\u0440\u043E\u0434\u043D\u0430\u044F \u043C\u0430\u0442\u0435\u043C\u0430\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F \u043E\u043B\u0438\u043C\u043F\u0438\u0430\u0434\u0430 (\u041C\u041C\u041E, \u0430\u043D\u0433\u043B. IMO, International Mathematical Olympiad) \u2014 \u0435\u0436\u0435\u0433\u043E\u0434\u043D\u0430\u044F \u043C\u0430\u0442\u0435\u043C\u0430\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F \u043E\u043B\u0438\u043C\u043F\u0438\u0430\u0434\u0430 \u0434\u043B\u044F \u0448\u043A\u043E\u043B\u044C\u043D\u0438\u043A\u043E\u0432, \u0441\u0442\u0430\u0440\u0435\u0439\u0448\u0430\u044F \u0438\u0437 \u043C\u0435\u0436\u0434\u0443\u043D\u0430\u0440\u043E\u0434\u043D\u044B\u0445 \u043F\u0440\u0435\u0434\u043C\u0435\u0442\u043D\u044B\u0445 \u043E\u043B\u0438\u043C\u043F\u0438\u0430\u0434. \u041F\u0435\u0440\u0432\u0430\u044F \u041C\u041C\u041E \u0431\u044B\u043B\u0430 \u043F\u0440\u043E\u0432\u0435\u0434\u0435\u043D\u0430 \u0432 1959 \u0433\u043E\u0434\u0443 \u0432 \u0420\u0443\u043C\u044B\u043D\u0438\u0438. \u0421 \u0442\u0435\u0445 \u043F\u043E\u0440 \u043E\u043D\u0430 \u043F\u0440\u043E\u0432\u043E\u0434\u0438\u0442\u0441\u044F \u043A\u0430\u0436\u0434\u044B\u0439 \u0433\u043E\u0434 (\u0435\u0434\u0438\u043D\u0441\u0442\u0432\u0435\u043D\u043D\u044B\u043C \u0438\u0441\u043A\u043B\u044E\u0447\u0435\u043D\u0438\u0435\u043C \u0431\u044B\u043B 1980 \u0433\u043E\u0434, \u043A\u043E\u0433\u0434\u0430 \u043E\u043D\u0430 \u043D\u0435 \u0441\u043E\u0441\u0442\u043E\u044F\u043B\u0430\u0441\u044C). \u041F\u0435\u0440\u0432\u043E\u043D\u0430\u0447\u0430\u043B\u044C\u043D\u043E \u0432 \u041E\u043B\u0438\u043C\u043F\u0438\u0430\u0434\u0435 \u0443\u0447\u0430\u0441\u0442\u0432\u043E\u0432\u0430\u043B\u0438 \u0442\u043E\u043B\u044C\u043A\u043E \u0448\u043A\u043E\u043B\u044C\u043D\u0438\u043A\u0438 \u0438\u0437 \u0441\u0442\u0440\u0430\u043D \u0421\u042D\u0412, \u043D\u043E \u0441\u043A\u043E\u0440\u043E \u0433\u0435\u043E\u0433\u0440\u0430\u0444\u0438\u044F \u0440\u0430\u0441\u0448\u0438\u0440\u0438\u043B\u0430\u0441\u044C. \u0412 2017 \u0433\u043E\u0434\u0443 \u0447\u0438\u0441\u043B\u043E \u0441\u0442\u0440\u0430\u043D-\u0443\u0447\u0430\u0441\u0442\u043D\u0438\u0446 \u0434\u043E\u0441\u0442\u0438\u0433\u043B\u043E 111. \u041A\u0430\u0436\u0434\u0443\u044E \u0441\u0442\u0440\u0430\u043D\u0443 \u043F\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043B\u044F\u0435\u0442 \u043A\u043E\u043C\u0430\u043D\u0434\u0430, \u0441\u043E\u0441\u0442\u043E\u044F\u0449\u0430\u044F \u043D\u0435 \u0431\u043E\u043B\u0435\u0435 \u0447\u0435\u043C \u0438\u0437 \u0448\u0435\u0441\u0442\u0438 (\u043F\u0435\u0440\u0432\u043E\u043D\u0430\u0447\u0430\u043B\u044C\u043D\u043E \u2014 \u0432\u043E\u0441\u044C\u043C\u0438) \u0443\u0447\u0430\u0441\u0442\u043D\u0438\u043A\u043E\u0432, \u0440\u0443\u043A\u043E\u0432\u043E\u0434\u0438\u0442\u0435\u043B\u044F \u0438 \u043D\u0430\u0443\u0447\u043D\u043E\u0433\u043E \u0440\u0443\u043A\u043E\u0432\u043E\u0434\u0438\u0442\u0435\u043B\u044F. \u041E\u0444\u0438\u0446\u0438\u0430\u043B\u044C\u043D\u043E \u041C\u041C\u041E \u2014 \u043B\u0438\u0447\u043D\u043E\u0435 \u043F\u0435\u0440\u0432\u0435\u043D\u0441\u0442\u0432\u043E. \u0423\u0447\u0430\u0441\u0442\u043D\u0438\u043A\u0438 \u0434\u043E\u043B\u0436\u043D\u044B \u0431\u044B\u0442\u044C \u043D\u0435 \u0441\u0442\u0430\u0440\u0448\u0435 20 \u043B\u0435\u0442 \u0438 \u0434\u043E\u043B\u0436\u043D\u044B \u0443\u0447\u0438\u0442\u044C\u0441\u044F \u043D\u0430 \u043F\u043E\u043B\u0443\u0447\u0435\u043D\u0438\u0435 \u0430\u0442\u0442\u0435\u0441\u0442\u0430\u0442\u0430 \u0437\u0440\u0435\u043B\u043E\u0441\u0442\u0438 \u0438\u043B\u0438 \u0435\u0433\u043E \u044D\u043A\u0432\u0438\u0432\u0430\u043B\u0435\u043D\u0442\u0430. \u042F\u0437\u044B\u043A\u0438 IMO \u2014 \u0430\u043D\u0433\u043B\u0438\u0439\u0441\u043A\u0438\u0439, \u0444\u0440\u0430\u043D\u0446\u0443\u0437\u0441\u043A\u0438\u0439, \u043D\u0435\u043C\u0435\u0446\u043A\u0438\u0439, \u0440\u0443\u0441\u0441\u043A\u0438\u0439 \u0438 \u0438\u0441\u043F\u0430\u043D\u0441\u043A\u0438\u0439. \u0423\u0447\u0430\u0441\u0442\u043D\u0438\u043A\u0430\u043C \u043F\u0440\u0435\u0434\u043B\u0430\u0433\u0430\u0435\u0442\u0441\u044F \u0440\u0435\u0448\u0438\u0442\u044C 6 \u0437\u0430\u0434\u0430\u0447 (\u043F\u043E \u0442\u0440\u0438 \u0437\u0430\u0434\u0430\u0447\u0438 \u0432 \u0434\u0435\u043D\u044C, \u0432 \u0442\u0435\u0447\u0435\u043D\u0438\u0435 \u0434\u0432\u0443\u0445 \u0434\u043D\u0435\u0439 \u043F\u043E\u0434\u0440\u044F\u0434), \u043A\u0430\u0436\u0434\u0430\u044F \u0438\u0437 \u043A\u043E\u0442\u043E\u0440\u044B\u0445 \u043E\u0446\u0435\u043D\u0438\u0432\u0430\u0435\u0442\u0441\u044F \u0432 7 \u0431\u0430\u043B\u043B\u043E\u0432, \u0442\u0430\u043A \u0447\u0442\u043E \u0432\u043E\u0437\u043C\u043E\u0436\u043D\u044B\u0439 \u043C\u0430\u043A\u0441\u0438\u043C\u0443\u043C \u2014 42 \u0431\u0430\u043B\u043B\u0430. 1-\u044F \u0438 4-\u044F \u0437\u0430\u0434\u0430\u0447\u0438 \u043A\u043B\u0430\u0441\u0441\u0438\u0444\u0438\u0446\u0438\u0440\u0443\u044E\u0442\u0441\u044F \u043A\u0430\u043A \u043B\u0451\u0433\u043A\u0438\u0435, 2-\u044F \u0438 5-\u044F \u2014 \u043A\u0430\u043A \u0441\u0440\u0435\u0434\u043D\u0438\u0435, 3-\u044F \u0438 6-\u044F \u2014 \u043A\u0430\u043A \u0442\u044F\u0436\u0451\u043B\u044B\u0435. \u041D\u0430\u043F\u0440\u0438\u043C\u0435\u0440, \u043D\u0430 \u041C\u041C\u041E-2007 \u0442\u0440\u0435\u0442\u044C\u044E \u0438 \u0448\u0435\u0441\u0442\u0443\u044E \u0437\u0430\u0434\u0430\u0447\u0438 \u0440\u0435\u0448\u0438\u043B\u0438 \u043F\u043E 5 \u0447\u0435\u043B\u043E\u0432\u0435\u043A \u0438\u0437 \u043D\u0435\u0441\u043A\u043E\u043B\u044C\u043A\u0438\u0445 \u0441\u043E\u0442\u0435\u043D \u043B\u0443\u0447\u0448\u0438\u0445 \u0432 \u0441\u0432\u043E\u0438\u0445 \u0441\u0442\u0440\u0430\u043D\u0430\u0445 \u043C\u043E\u043B\u043E\u0434\u044B\u0445 \u043C\u0430\u0442\u0435\u043C\u0430\u0442\u0438\u043A\u043E\u0432. \u0417\u0430\u0434\u0430\u0447\u0438 \u0432\u044B\u0431\u0438\u0440\u0430\u044E\u0442\u0441\u044F \u0438\u0437 \u0440\u0430\u0437\u043D\u044B\u0445 \u043E\u0431\u043B\u0430\u0441\u0442\u0435\u0439 \u0448\u043A\u043E\u043B\u044C\u043D\u043E\u0439 \u043C\u0430\u0442\u0435\u043C\u0430\u0442\u0438\u043A\u0438, \u0433\u043B\u0430\u0432\u043D\u044B\u043C \u043E\u0431\u0440\u0430\u0437\u043E\u043C \u0438\u0437 \u0433\u0435\u043E\u043C\u0435\u0442\u0440\u0438\u0438, \u0442\u0435\u043E\u0440\u0438\u0438 \u0447\u0438\u0441\u0435\u043B, \u0430\u043B\u0433\u0435\u0431\u0440\u044B \u0438 \u043A\u043E\u043C\u0431\u0438\u043D\u0430\u0442\u043E\u0440\u0438\u043A\u0438.\u041E\u043D\u0438 \u043D\u0435 \u0442\u0440\u0435\u0431\u0443\u044E\u0442 \u043E\u0431\u044F\u0437\u0430\u0442\u0435\u043B\u044C\u043D\u044B\u0445 \u0437\u043D\u0430\u043D\u0438\u0439 \u0432\u044B\u0441\u0448\u0435\u0439 \u043C\u0430\u0442\u0435\u043C\u0430\u0442\u0438\u043A\u0438 \u0438 \u043F\u0440\u0438 \u0432\u044B\u0431\u043E\u0440\u0435 \u0437\u0430\u0434\u0430\u0447 \u0434\u043B\u044F \u041E\u043B\u0438\u043C\u043F\u0438\u0430\u0434\u044B \u043E\u0442\u0434\u0430\u0435\u0442\u0441\u044F \u043F\u0440\u0435\u0434\u043F\u043E\u0447\u0442\u0435\u043D\u0438\u0435 \u0437\u0430\u0434\u0430\u0447\u0430\u043C \u0441 \u043F\u0440\u043E\u0441\u0442\u044B\u043C \u0443\u0441\u043B\u043E\u0432\u0438\u0435\u043C, \u043F\u043E\u043D\u044F\u0442\u043D\u044B\u043C \u043D\u0435\u043F\u043E\u0434\u0433\u043E\u0442\u043E\u0432\u043B\u0435\u043D\u043D\u043E\u043C\u0443 \u0443\u0447\u0435\u043D\u0438\u043A\u0443. \u0414\u043B\u044F \u043D\u0430\u0445\u043E\u0436\u0434\u0435\u043D\u0438\u044F \u0440\u0435\u0448\u0435\u043D\u0438\u044F, \u043E\u0441\u043E\u0431\u0435\u043D\u043D\u043E \u0434\u043B\u044F \u043D\u0430\u0445\u043E\u0436\u0434\u0435\u043D\u0438\u044F \u043A\u043E\u0440\u043E\u0442\u043A\u043E\u0433\u043E \u0440\u0435\u0448\u0435\u043D\u0438\u044F \u043C\u043E\u0433\u0443\u0442 \u043F\u043E\u0442\u0440\u0435\u0431\u043E\u0432\u0430\u0442\u044C\u0441\u044F \u0437\u043D\u0430\u043D\u0438\u044F \u0434\u0430\u043B\u0435\u043A\u043E \u0437\u0430 \u043F\u0440\u0435\u0434\u0435\u043B\u0430\u043C\u0438 \u043E\u0431\u044F\u0437\u0430\u0442\u0435\u043B\u044C\u043D\u043E\u0439 \u0448\u043A\u043E\u043B\u044C\u043D\u043E\u0439 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B.\u041D\u0430\u043F\u0440\u0438\u043C\u0435\u0440, \u0437\u0430\u0434\u0430\u0447\u0430 6 \u0437\u0430 2007 \u0433\u043E\u0434 \u043F\u043E\u0447\u0442\u0438 \u0432 \u043E\u0434\u0438\u043D \u0445\u043E\u0434 \u0440\u0435\u0448\u0430\u0435\u0442\u0441\u044F \u043F\u0440\u0438 \u043F\u043E\u043C\u043E\u0449\u0438 \u043A\u043E\u043C\u0431\u0438\u043D\u0430\u0442\u043E\u0440\u043D\u043E\u0439 \u0442\u0435\u043E\u0440\u0435\u043C\u044B \u043E \u043D\u0443\u043B\u044F\u0445. \u0417\u0430\u0434\u0430\u0447\u0438 \u041C\u0435\u0436\u0434\u0443\u043D\u0430\u0440\u043E\u0434\u043D\u044B\u0445 \u043C\u0430\u0442\u0435\u043C\u0430\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0445 \u043E\u043B\u0438\u043C\u043F\u0438\u0430\u0434 \u0438 \u0438\u0445 \u0440\u0435\u0448\u0435\u043D\u0438\u044F \u043F\u0443\u0431\u043B\u0438\u043A\u0443\u044E\u0442\u0441\u044F, \u043D\u0430\u043F\u0440\u0438\u043C\u0435\u0440, \u0432 \u0436\u0443\u0440\u043D\u0430\u043B\u0435 \u00AB\u041A\u0432\u0430\u043D\u0442\u00BB."@ru ,
+		"\u041C\u0456\u0436\u043D\u0430\u0440\u043E\u0434\u043D\u0430 \u043C\u0430\u0442\u0435\u043C\u0430\u0442\u0438\u0447\u043D\u0430 \u043E\u043B\u0456\u043C\u043F\u0456\u0430\u0434\u0430 (\u041C\u041C\u041E, \u0430\u043D\u0433\u043B. IMO, International Mathematical Olympiad) \u2014 \u0449\u043E\u0440\u0456\u0447\u043D\u0435 \u0437\u043C\u0430\u0433\u0430\u043D\u043D\u044F \u0437 \u043C\u0430\u0442\u0435\u043C\u0430\u0442\u0438\u043A\u0438 \u0434\u043B\u044F \u0448\u043A\u043E\u043B\u044F\u0440\u0456\u0432. \u0426\u0435 \u043D\u0430\u0439\u0441\u0442\u0430\u0440\u0456\u0448\u0430 \u0437 \u043C\u0456\u0436\u043D\u0430\u0440\u043E\u0434\u043D\u0438\u0445 \u043D\u0430\u0443\u043A\u043E\u0432\u0438\u0445 \u043E\u043B\u0456\u043C\u043F\u0456\u0430\u0434 \u0448\u043A\u043E\u043B\u044F\u0440\u0456\u0432. \u041F\u0435\u0440\u0448\u0430 \u041C\u041C\u041E \u0431\u0443\u043B\u0430 \u043F\u0440\u043E\u0432\u0435\u0434\u0435\u043D\u0430 \u0432 1959 \u0432 \u041D\u0430\u0440\u043E\u0434\u043D\u0456\u0439 \u0420\u0435\u0441\u043F\u0443\u0431\u043B\u0456\u0446\u0456 \u0420\u0443\u043C\u0443\u043D\u0456\u044F. \u0417 \u0442\u0438\u0445 \u043F\u0456\u0440 \u0432\u043E\u043D\u0430 \u043F\u0440\u043E\u0432\u043E\u0434\u0438\u0442\u044C\u0441\u044F \u0449\u043E\u0440\u0456\u0447\u043D\u043E (\u0454\u0434\u0438\u043D\u0438\u043C \u0432\u0438\u043D\u044F\u0442\u043A\u043E\u043C \u0431\u0443\u0432 1980-\u0439, \u043A\u043E\u043B\u0438 \u0432\u043E\u043D\u0430 \u043D\u0435 \u043F\u0440\u043E\u0432\u043E\u0434\u0438\u043B\u0430\u0441\u044C). \u0421\u043F\u043E\u0447\u0430\u0442\u043A\u0443 \u0432 \u041E\u043B\u0456\u043C\u043F\u0456\u0430\u0434\u0456 \u0431\u0440\u0430\u043B\u0438 \u0443\u0447\u0430\u0441\u0442\u044C \u0442\u0456\u043B\u044C\u043A\u0438 \u0448\u043A\u043E\u043B\u044F\u0440\u0456 \u0456\u0437 \u043A\u0440\u0430\u0457\u043D \u0420\u0415\u0412, \u0430\u043B\u0435 \u043D\u0435\u0437\u0430\u0431\u0430\u0440\u043E\u043C \u0433\u0435\u043E\u0433\u0440\u0430\u0444\u0456\u044F \u0440\u043E\u0437\u0448\u0438\u0440\u0438\u043B\u0430\u0441\u044F. \u0423 2009 \u0440\u043E\u0446\u0456 \u0431\u0443\u043B\u043E 104 \u043A\u0440\u0430\u0457\u043D\u0438-\u0443\u0447\u0430\u0441\u043D\u0438\u0446\u0456. \u041A\u043E\u0436\u043D\u0443 \u043A\u0440\u0430\u0457\u043D\u0443 \u043F\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043B\u044F\u0454 \u043A\u043E\u043C\u0430\u043D\u0434\u0430 \u043D\u0435 \u0431\u0456\u043B\u044C\u0448\u0435 \u043D\u0456\u0436 \u0437 \u0448\u0435\u0441\u0442\u0438 (\u0441\u043F\u043E\u0447\u0430\u0442\u043A\u0443 \u2014 \u0432\u043E\u0441\u044C\u043C\u0438) \u0443\u0447\u0430\u0441\u043D\u0438\u043A\u0456\u0432, \u043A\u0435\u0440\u0456\u0432\u043D\u0438\u043A\u0430 \u0456 \u043D\u0430\u0443\u043A\u043E\u0432\u043E\u0433\u043E \u043A\u0435\u0440\u0456\u0432\u043D\u0438\u043A\u0430. \u041E\u0444\u0456\u0446\u0456\u0439\u043D\u043E \u041C\u041C\u041E \u2014 \u043E\u0441\u043E\u0431\u0438\u0441\u0442\u0430 \u043F\u0435\u0440\u0448\u0456\u0441\u0442\u044C. \u0423\u0447\u0430\u0441\u043D\u0438\u043A\u0438 \u043C\u0430\u044E\u0442\u044C \u0431\u0443\u0442\u0438 \u043D\u0435 \u0441\u0442\u0430\u0440\u0448\u0456 \u0437\u0430 20 \u0440\u043E\u043A\u0456\u0432 \u0456 \u043D\u0435 \u0432\u0447\u0438\u0442\u0438\u0441\u044F \u0432 \u0432\u0438\u0448\u0456. \u0423\u0447\u0430\u0441\u043D\u0438\u043A\u0430\u043C \u043F\u0440\u043E\u043F\u043E\u043D\u0443\u0454\u0442\u044C\u0441\u044F \u0440\u043E\u0437\u0432'\u044F\u0437\u0430\u0442\u0438 6 \u0437\u0430\u0434\u0430\u0447 (\u043F\u043E \u0442\u0440\u0438 \u0437\u0430\u0434\u0430\u0447\u0456 \u043D\u0430 \u0434\u0435\u043D\u044C, \u043F\u0440\u043E\u0442\u044F\u0433\u043E\u043C \u0434\u0432\u043E\u0445 \u0434\u043D\u0456\u0432 \u043F\u043E\u0441\u043F\u0456\u043B\u044C), \u043A\u043E\u0436\u043D\u0430 \u0437 \u044F\u043A\u0438\u0445 \u043E\u0446\u0456\u043D\u044E\u0454\u0442\u0441\u044F \u0432 7 \u0431\u0430\u043B\u0456\u0432, \u0442\u0430\u043A \u0449\u043E \u043C\u043E\u0436\u043B\u0438\u0432\u0438\u0439 \u043C\u0430\u043A\u0441\u0438\u043C\u0443\u043C \u2014 42 \u0431\u0430\u043B\u0438.\u0417\u0430\u0434\u0430\u0447\u0456 \u0432\u0438\u0431\u0438\u0440\u0430\u044E\u0442\u044C\u0441\u044F \u0437 \u0440\u0456\u0437\u043D\u0438\u0445 \u043E\u0431\u043B\u0430\u0441\u0442\u0435\u0439 \u0448\u043A\u0456\u043B\u044C\u043D\u043E\u0457 \u043C\u0430\u0442\u0435\u043C\u0430\u0442\u0438\u043A\u0438, \u044F\u043A \u043F\u0440\u0430\u0432\u0438\u043B\u043E \u0437 \u0433\u0435\u043E\u043C\u0435\u0442\u0440\u0456\u0457, \u0442\u0435\u043E\u0440\u0456\u0457 \u0447\u0438\u0441\u0435\u043B, \u0430\u043B\u0433\u0435\u0431\u0440\u0438 \u0456 \u043A\u043E\u043C\u0431\u0456\u043D\u0430\u0442\u043E\u0440\u0438\u043A\u0438.\u0412\u043E\u043D\u0438 \u043D\u0435 \u0432\u0438\u043C\u0430\u0433\u0430\u044E\u0442\u044C \u0437\u043D\u0430\u043D\u044C \u0432\u0438\u0449\u043E\u0457 \u043C\u0430\u0442\u0435\u043C\u0430\u0442\u0438\u043A\u0438 \u0456 \u0447\u0430\u0441\u0442\u043E \u043C\u0430\u044E\u0442\u044C \u043A\u0440\u0430\u0441\u0438\u0432\u0435 \u0456 \u043A\u043E\u0440\u043E\u0442\u043A\u0435 \u0440\u0456\u0448\u0435\u043D\u043D\u044F.\u041F\u0435\u0440\u0448\u0430 \u0456 \u0447\u0435\u0442\u0432\u0435\u0440\u0442\u0430 \u0437\u0430\u0434\u0430\u0447\u0430 \u043A\u043B\u0430\u0441\u0438\u0444\u0456\u043A\u0443\u044E\u0442\u044C\u0441\u044F \u044F\u043A \u043B\u0435\u0433\u043A\u0456, \u0434\u0440\u0443\u0433\u0430 \u0456 \u043F'\u044F\u0442\u0430 \u2014 \u044F\u043A \u0441\u0435\u0440\u0435\u0434\u043D\u0456, \u0442\u0440\u0435\u0442\u044F \u0456 \u0448\u043E\u0441\u0442\u0430 \u2014 \u044F\u043A \u0432\u0430\u0436\u043A\u0456. (\u0423 2007 \u0440\u043E\u0446\u0456 \u0442\u0440\u0435\u0442\u044E \u0456 \u0448\u043E\u0441\u0442\u0443 \u0440\u043E\u0437\u0432'\u044F\u0437\u0430\u043B\u0438 \u043F\u043E 5 \u0443\u0447\u0430\u0441\u043D\u0438\u043A\u0456\u0432 \u0437 \u0443\u0441\u044C\u043E\u0433\u043E \u0441\u0432\u0456\u0442\u0443)."@uk ,
+		"Mi\u0119dzynarodowa Olimpiada Matematyczna (ang. International Mathematical Olympiad, IMO) \u2013 coroczny konkurs matematyczny dla uczni\u00F3w szk\u00F3\u0142 \u015Brednich (lub m\u0142odszych, np. Terence Tao). Jest najstarsz\u0105 mi\u0119dzynarodow\u0105 olimpiad\u0105 przedmiotow\u0105. Pierwsze zawody odby\u0142y si\u0119 w Rumunii w 1959 roku. Zawody trwaj\u0105 dwa dni. Uczestnicy otrzymuj\u0105 sze\u015B\u0107 zada\u0144 (po trzy ka\u017Cdego dnia), ocenianych w skali 0-7. Zadania dotycz\u0105 algebry, teorii liczb, geometrii i kombinatoryki. Do ich rozwi\u0105zania nie jest potrzebna znajomo\u015B\u0107 matematyki wy\u017Cszej."@pl ,
+		"L'Olimp\u00EDada Internacional de Matem\u00E0tiques (OIM) \u00E9s una competici\u00F3 matem\u00E0tica anual, que consta de 6 problemes i 42 punts, dirigida a estudiants de secund\u00E0ria, i \u00E9s la m\u00E9s antiga de les . La primera OIM se celebr\u00E0 a Romania l'any 1959, i s'ha celebrat cada any excepte en 1980. Al voltant de 100 pa\u00EFsos hi envien delegacions de fins a 6 estudiants, m\u00E9s un capit\u00E0, un vicecapit\u00E0 i observadors. El contingut de les proves va des de problemes d'addici\u00F3 extremadament dif\u00EDcils fins a \u00E0rees de les matem\u00E0tiques que no es tracten en l'ensenyament secundari i fins i tot tampoc en nivells universitaris, com per exemple geometria projectiva i , equacions funcionals i teoria de nombres, que requereixen amplis coneixements de teoremes relacionats. El c\u00E0lcul, encara que est\u00E0 perm\u00E8s en les solucions, no \u00E9s necessari, ja que \u00E9s un requisit que qualsevol persona que tingui una comprensi\u00F3 b\u00E0sica de matem\u00E0tiques ha de poder entendre els problemes, fins i tot si el desenvolupament de la soluci\u00F3 requereix un coneixement m\u00E9s ampli. Aquells qui estan a favor d'aquest principi asseguren que aix\u00F2 permet una major universalitat, i que crea un incentiu per tal de trobar solucions elegants als problemes. El proc\u00E9s de selecci\u00F3 varia segons el pa\u00EDs, per\u00F2 sovint consisteix d'un conjunt de proves que admeten cada cop menys estudiants a cada fase del proc\u00E9s. S'atorguen guardons al menor percentatge dels participants individuals. Oficialment no es reconeixen els equips: totes les puntuacions s'atorguen als participants individuals, per\u00F2 sovint es comparen, encara que de forma oficiosa, les puntuacions dels equips. Els participants han de tenir menys de 20 anys, i no poden estar inscrits en cap instituci\u00F3 d' (universitats, instituts de formaci\u00F3 t\u00E8cnica, escoles d'infermeria, laboratoris de recerca, centres d'excel\u00B7l\u00E8ncia o centres d'educaci\u00F3 a dist\u00E0ncia). Amb aquestes condicions, un estudiant pot participar qualsevol nombre de vegades en les OIM."@ca ,
+		"De Internationale Wiskunde Olympiade (IWO) (Engels: International Mathematical Olympiad of IMO) is een jaarlijkse wiskundewedstrijd voor middelbare scholieren. Het is de oudste internationale wetenschapsolympiade. De eerste IWO werd gehouden in 1959 in Roemeni\u00EB. Sindsdien is ze elk jaar gehouden, behalve in 1980. Ongeveer 100 landen sturen een team bestaande uit maximaal zes scholieren, \u00E9\u00E9n teamleider, \u00E9\u00E9n plaatsvervangende teamleider en eventuele waarnemers. Jaarlijks komen ongeveer 600 scholieren bijeen om de zes wiskundeopgaven zo goed mogelijk op te lossen. Hoewel het begon als een toernooi voor Oostbloklanden, heeft de wedstrijd zich in de loop der jaren ontwikkeld tot het hoogtepunt van de wiskundewedstrijden met deelnemers uit ruim 100 landen. Het is uitgegroeid tot een zeer prestigieus evenement in de wiskundewereld."@nl ,
+		"Matematikolympiaden \u00E4r en \u00E5rlig internationell matematikt\u00E4vling f\u00F6r gymnasister, den \u00E4ldsta av de olika vetenskapsolympiaderna. Matematikolympiaden har arrangerats varje \u00E5r sedan 1959. Sverige har sedan sextiotalet st\u00E4llt upp i t\u00E4vlingen, och skickar varje \u00E5r 6 deltagare. Deltagarna tas ut p\u00E5 resultaten fr\u00E5n Skolornas Matematikt\u00E4vling (SMT),  (NMC) och en korrespondenskurs f\u00F6r dem som tagit sig till final i SMT. Sveriges lag fick en silvermedalj i IMO 2008, och 2009 fick Sveriges lag 2 bronsmedaljer. Senast en svensk fick guldmedalj var 2019, och det skedde \u00E4ven 2018. D\u00E5 (2018) fick laget \u00E4ven tv\u00E5 silvermedaljer och tv\u00E5 bronsmedaljer. F\u00F6r att f\u00E5 delta i matematikolympiaden f\u00E5r man inte studera eller ha studerat vid universitet eller h\u00F6gskola och inte ha fyllt 20 \u00E5r. Andra namn p\u00E5 matematikolympiaden \u00E4r Internationella Matematikolympiaden, och p\u00E5 engelska International Mathematics Olympiad (IMO). T\u00E4vlingen g\u00E5r under tv\u00E5 dagar med 3 problem p\u00E5 4,5h/dag. Det ges maximalt 7 po\u00E4ng per problem, 42 \u00E4r den maximala po\u00E4ngen. 2009 fick endast 2 st av ca 600 deltagare 42 po\u00E4ng. D\u00E5 deltog 104 l\u00E4nder. I januari 2011 sk\u00E4nkte Google 1 miljon euro till IMO f\u00F6r att hj\u00E4lpa till att t\u00E4cka evenemangens kostnader mellan 2011 och 2015."@sv ,
+		"A Olimp\u00EDada Internacional de Matem\u00E1tica (IMO) \u00E9 uma olimp\u00EDada de matem\u00E1tica que ocorre anualmente e \u00E9 destinada a alunos do ensino m\u00E9dio. Ela \u00E9 a mais antiga das Olimp\u00EDadas Internacionais de Ci\u00EAncias. Ela foi sediada pela primeira vez em 1959 na Rom\u00EAnia e foi realizada anualmente desde ent\u00E3o, com exce\u00E7\u00E3o de 1980. Atualmente aproximadamente 90 pa\u00EDses mandam seus times compostos de at\u00E9 seis competidores. Os participantes t\u00EAm que ter menos de 20 anos e n\u00E3o podem estar cursando qualquer universidade."@pt ,
+		"Olimpiade Matematika Internasional (Inggris: International Mathematical Olympiad/IMO) adalah sebuah  tahunan untuk siswa-siswa SMA. Ini adalah olimpiade sains internasional tertua. OMI pertama diselenggarakan di Rumania pada 1959. Sejak itu, OMI telah diselenggarakan setiap tahun kecuali pada 1980. Sekitar 90 negara mengirimkan timnya yang terdiri atas (paling banyak) enam siswa masing-masing (ditambah seorang pemimpin tim, satu wakil pemimpin tim dan pengamat-pengamat). Tim-tim ini tidak semuanya diakui \u2013 semua angka hanya diberikan kepada peserta masing-masing. Para peserta harus berusia di bawah 20 tahun dan tidak boleh pernah menempuh pendidikan pasca-sekolah menengah. Sejauh memenuhi syarat-syarat ini, seorang peserta dapat ikut serta berapa kalipun dalam OMI. Kertas tesnya terdiri atas enam problema, dengan masing-masing problema bernilai 7 angka. Jadi total nilainya 42. Ujian ini diselenggarakan dalam dua hari berturut-turut; peserta diberi waktu empat setengah jam untuk memecahkan tiga problema setiap harinya. Problema-problema ini dipilih dari berbagai bidang matematika sekolah menengah, yang secara umum diklasifikasikan sebagai geometri, teori bilangan, aljabar, dan kombinatorika. Mereka tidak membutuhkan pengetahuan matematika yang lebih tinggi, dan pemecahan-pemecahannya singkat dan elegan. Namun untuk mendapatkan jawabannya dibutuhkan kecakapan dan kemampuan matematika luar biasa. Masing-masing negara peserta, selain negara tuan rumah, boleh mengajukan usulan problema kepada Komite Pemilihan Problema, yang disediakan oleh negara tuan rumah, yang kemudian menyaringnya. Para pemimpin tim tiba di OMI beberapa hari lebih awal daripada para kontestan dan membentuk Dewan Juri OMI yang bertanggung jawab untuk semua keputusan resmi yang berkaitan dengan pertandingan itu, dimulai dengan memilih enam problema dari daftar saringan. Karena para pemimpin itu sudah mengetahui problema-problemanya sebelum para kontestan, mereka ditempatkan terpisah dari para kontestan hingga ujian yang kedua selesai. Para kontestan disertai ke OMI oleh wakil pemimpin mereka (dan mungkin juga oleh para pengamat). Angka masing-masing negara disepakati antara pemimpin negara itu dan wakil pemimpinnya serta para koordinator yang disediakan oleh negara tuan rumah (pemimpin tim yang negaranya mengajukan problema dalam hal angka untuk negara tuan rumah), tunduk kepada keputusan Koordinator Kepala dan akhirnya pada Juri apabila pertikaian tidak dapat diselesaikan."@in ,
+		"\u0623\u0648\u0644\u0645\u067E\u064A\u0627\u062F \u0627\u0644\u0631\u064A\u0627\u0636\u064A\u0627\u062A \u0627\u0644\u0639\u0627\u0644\u0645\u064A (\u0628\u0627\u0644\u0625\u0646\u062C\u0644\u064A\u0632\u064A\u0629: International Mathematical Olympiad, IMO) \u0647\u0648  \u0633\u0646\u0648\u064A \u0645\u0643\u0648\u0646 \u0645\u0646 42 \u0646\u0642\u0637\u0629 \u0639\u0644\u0649 \u0633\u062A\u0629 \u0623\u0633\u0626\u0644\u0629 \u0644\u0644\u0637\u0644\u0628\u0629 \u0642\u0628\u0644 \u0627\u0644\u0645\u0631\u062D\u0644\u0629 \u0627\u0644\u062C\u0627\u0645\u0639\u064A\u0629 \u0648\u0647\u064A \u0623\u0642\u062F\u0645 \u0623\u0648\u0644\u0645\u067E\u064A\u0627\u062F \u0639\u0644\u0648\u0645 \u0639\u0627\u0644\u0645\u064A. \u0623\u0648\u0644 \u0627.\u0631.\u0639. \u0627\u0646\u0639\u0642\u062F \u0641\u064A \u0631\u0648\u0645\u0627\u0646\u064A\u0627 \u0639\u0627\u0645 1959. \u0648\u0645\u0646\u0630 \u0630\u0644\u0643 \u0627\u0644\u062D\u064A\u0646 \u064A\u0646\u0639\u0642\u062F \u0633\u0646\u0648\u064A\u0627\u064B\u060C \u0628\u0627\u0633\u062A\u062B\u0646\u0627\u0621 \u0639\u0627\u0645 1980. \u0648\u0647\u0646\u0627\u0643 \u0623\u0643\u062B\u0631 \u0645\u0646 100 \u062F\u0648\u0644\u0629 \u0623\u0635\u0628\u062D\u062A \u062A\u0634\u0627\u0631\u0643 \u0648\u062A\u0631\u0633\u0644 \u0641\u0631\u0642\u0627\u064B \u0643\u0644 \u0645\u0646\u0647\u0627 \u0628\u062D\u062F \u0623\u0642\u0635\u0649 \u0633\u062A\u0629 \u0637\u0644\u0627\u0628\u060C \u0628\u0627\u0644\u0625\u0636\u0627\u0641\u0629 \u0644\u0642\u0627\u0626\u062F \u0644\u0644\u0641\u0631\u064A\u0642\u060C \u0648\u0646\u0627\u0626\u0628 \u0644\u0644\u0642\u0627\u0626\u062F\u060C \u0648\u0645\u0631\u0627\u0642\u0628\u064A\u0646."@ar ,
+		"\u570B\u969B\u6578\u5B78\u5967\u6797\u5339\u4E9E\uFF08\u82F1\u8A9E\uFF1AInternational Mathematical Olympiad\uFF0C\u7C21\u7A31\uFF1AIMO\uFF09\uFF0C\u662F\u570B\u969B\u79D1\u5B78\u5967\u6797\u5339\u4E9E\u6B77\u53F2\u6700\u9577\u7684\u8CFD\u4E8B\u30021934\u5E74\u548C1935\u5E74\uFF0C\u524D\u8607\u806F\u7387\u5148\u5728\u5176\u570B\u5167\u7684\u5217\u5BE7\u683C\u52D2\u548C\u83AB\u65AF\u79D1\u8209\u8FA6\u4E2D\u5B78\u6578\u5B78\u7AF6\u8CFD\uFF0C\u4E26\u628A\u8FD9\u79CD\u6570\u5B66\u7ADE\u8D5B\u548C\u4F53\u80B2\u7ADE\u8D5B\u76F8\u63D0\u5E76\u8BBA\uFF0C\u51A0\u4EE5\u300C\u6578\u5B78\u5967\u6797\u5339\u4E9E\u300D\u7684\u540D\u7A31\uFF0C\u5F62\u8C61\u5730\u63ED\u793A\u9009\u624B\u95F4\u667A\u529B\u8F83\u91CF\u7684\u8FC7\u7A0B\u3002 1959\u5E74\uFF0C\u7B2C\u4E00\u5C46IMO\u65BC\u7F85\u99AC\u5C3C\u4E9E\u8209\u884C\uFF0C\u53C2\u8D5B\u56FD\u5305\u62EC7\u4E2A\u4E1C\u6B27\u56FD\u5BB6\u3002\u81EA\u6B64\u4EE5\u6765\uFF0C\u9664\u4E861980\u5E74\u4E4B\u5916\uFF0CIMO\u4ECE\u672A\u4E2D\u65AD\u3002\u968F\u7740IMO\u5F71\u54CD\u529B\u7684\u4E0D\u65AD\u6269\u5927\uFF0C\u53C2\u8D5B\u56FD\u4E5F\u4E0D\u65AD\u589E\u591A\uFF0C\u8FD1\u51E0\u5E74\u5DF2\u8FBE\u7EA6100\u4E2A\uFF0C\u57FA\u672C\u5305\u62EC\u4E86\u4E2D\u5B66\u6570\u5B66\u6559\u80B2\u6C34\u5E73\u8F83\u9AD8\u7684\u56FD\u5BB6\u3002\u76EE\u524D\u6BCF\u4E2A\u53C2\u8D5B\u56FD\u53EF\u6D3E\u51FA\u6700\u591A6\u4F4D\u53C2\u8D5B\u9009\u624B\u3001\u4E00\u540D\u9818\u968A\u3001\u4E00\u540D\u526F\u9818\u968A\u548C\u89C0\u5BDF\u54E1\u3002\u53C3\u8CFD\u8005\u5FC5\u9808\u5728\u6BD4\u8CFD\u6642\u672A\u6EE120\u5468\u5C81\uFF0C\u6700\u9AD8\u5B66\u5386\u4E3A\u4E2D\u5B66\uFF0C\u4E0D\u8FC7\u6BCF\u540D\u9009\u624B\u53C3\u52A0IMO\u7684\u6B21\u6578\u6CA1\u6709\u9650\u5236\u3002 \u81EA\u7B2C24\u5C4A\uFF081983\u5E74\uFF09\u8D77\uFF0CIMO\u8A66\u5377\u75316\u9053\u984C\u76EE\u7EC4\u6210\uFF0C\u6BCF\u984C7\u5206\uFF0C\u6EFF\u520642\u5206\u3002\u8CFD\u4E8B\u5206\u5169\u65E5\u9032\u884C\uFF0C\u6BCF\u5929\u53C3\u8CFD\u8005\u67094.5\u5C0F\u6642\u4F86\u89E3\u6C7A3\u9053\u554F\u984C\uFF08\u7531\u4E0A\u53489\u6642\u5230\u4E0B\u53481\u664230\u5206\uFF09\u3002\u901A\u5E38\u6BCF\u5929\u7684\u7B2C1\u984C\uFF08\u5373\u7B2C1\u30014\u984C\uFF09\u6700\u7B80\u5355\uFF0C\u7B2C2\u984C\uFF08\u5373\u7B2C2\u30015\u984C\uFF09\u4E2D\u7B49\uFF0C\u7B2C3\u984C\uFF08\u5373\u7B2C3\u30016\u984C\uFF09\u6700\u56F0\u96BE\u3002\u7406\u89E3\u9898\u9762\u4E0D\u9700\u8981\u8D85\u51FA\u516C\u8BA4\u7684\u4E2D\u5B66\u6570\u5B66\u8BFE\u7A0B\u8303\u56F4\u7684\u77E5\u8BC6\uFF0C\u4F46\u662F\u89E3\u9898\u9700\u8981\u61C2\u5F97\u5F88\u591A\u8D85\u51FA\u4E2D\u5B66\u8BFE\u7A0B\u8303\u56F4\uFF0C\u4F46\u662F\u53C8\u4E0D\u5C5E\u4E8E\u5927\u5B66\u8BFE\u7A0B\u7684\u77E5\u8BC6\u3002\u4E00\u822C\u5206\u4E3A\u4EE3\u6578\u3001\u5E7E\u4F55\u3001\u6578\u8AD6\u548C\u7D44\u5408\u6578\u5B78\u56DB\u5927\u7C7B\u3002IMO\u9898\u76EE\u690D\u6839\u4E8E\u4E2D\u5B66\u6570\u5B66\uFF0C\u4F46\u5728\u5177\u4F53\u77E5\u8BC6\u65B9\u9762\u6709\u6240\u6269\u5C55\uFF0C\u9700\u8981\u8BB0\u5FC6\u5927\u91CF\u5B9A\u7406\uFF0C\u65B9\u6CD5\u4E0A\u6709\u66F4\u9AD8\u8981\u6C42\u3002\u4E00\u822C\u6765\u8BF4\uFF0CIMO\u9898\u76EE\u7684\u96BE\u5EA6\u8F83\u5927\uFF0C\u7075\u6D3B\u6027\u5F3A\uFF0C\u5BCC\u4E8E\u667A\u5DE7\u3002\u8981\u89E3\u6C7A\u9019\u4E9B\u554F\u984C\uFF0C\u4E00\u822C\u4E0D\u9700\u8981\u53C2\u8D5B\u8005\u5177\u6709\u9AD8\u7B49\u6578\u5B78\u77E5\u8B58\uFF08\u4F8B\u5982\u5FAE\u79EF\u5206\uFF09\uFF0C\u4F46\u9700\u8981\u53C2\u8D5B\u8005\u6709\u6B63\u786E\u7684\u601D\u7DAD\u65B9\u5F0F\uFF0C\u826F\u597D\u7684\u6578\u5B78\u7D20\u517B\u548C\u57FA\u672C\u529F\uFF0C\u575A\u97E7\u7684\u6BC5\u529B\u4EE5\u53CA\u4E00\u5B9A\u7684\u521B\u9020\u6027\u3002\u539F\u5219\u4E0A\uFF0CIMO\u4E0D\u9F13\u52B1\u9009\u624B\u5229\u7528\u8D85\u51FA\u4E2D\u5B66\u8303\u7574\u7684\u6570\u5B66\u77E5\u8BC6\u4E0E\u5DE5\u5177\u89E3\u51B3\u95EE\u9898\uFF08\u4F46\u5E76\u6CA1\u6709\u660E\u786E\u9650\u5236\uFF09\uFF0C\u5E76\u4F1A\u5728\u786E\u5B9A\u9898\u76EE\u65F6\u5145\u5206\u8003\u91CF\u8FD9\u70B9\u3002\u8003\u8651\u5230\u4E0A\u8FF0\u7279\u70B9\uFF0CIMO\u8BD5\u9898\u53CA\u5176\u5907\u9009\u9898\uFF0C\u8FDE\u540C\u5404\u56FD\u7684\u4E00\u4E9B\u6570\u5B66\u7ADE\u8D5B\u9898\u76EE\u548C\u8BAD\u7EC3\u9898\u76EE\u4E00\u8D77\uFF0C\u4EE3\u8868\u7740\u4E00\u79CD\u4ECB\u4E8E\u521D\u7B49\u6570\u5B66\u548C\u9AD8\u7B49\u6570\u5B66\u4E4B\u95F4\u7684\u7279\u6B8A\u7684\u6570\u5B66\u2014\u2014\u7ADE\u8D5B\u6570\u5B66\u3002"@zh ,
+		"Mezin\u00E1rodn\u00ED matematick\u00E1 olympi\u00E1da (IMO) je nejvy\u0161\u0161\u00EDm stupn\u011Bm matematick\u00FDch sout\u011B\u017E\u00ED pro neuniverzitn\u00ED studenty mlad\u0161\u00ED 20 let. Je to z\u00E1rove\u0148 nejstar\u0161\u00ED z mezin\u00E1rodn\u00EDch oborov\u00FDch olympi\u00E1d. Prvn\u00ED se konala v roce 1959 v Rumunsku a od t\u00E9 doby ka\u017Edoro\u010Dn\u011B krom\u011B roku 1980. Okolo 90 zem\u00ED pos\u00EDl\u00E1 na olympi\u00E1du \u0161est student\u016F doprov\u00E1zen\u00FDch vedouc\u00EDm, jeho z\u00E1stupcem a pop\u0159\u00EDpad\u011B div\u00E1ky. Sout\u011B\u017E se skl\u00E1d\u00E1 ze \u0161esti \u00FAloh, z nich\u017E za ka\u017Edou lze z\u00EDskat maxim\u00E1ln\u011B 7 bod\u016F. Obsah \u00FAloh se pohybuje od extr\u00E9mn\u011B n\u00E1ro\u010Dn\u00FDch \u00FAloh z oblast\u00ED od matematick\u00E9 anal\u00FDzy a\u017E k probl\u00E9m\u016Fm z&bsp;oblast\u00ED matematiky, kter\u00E9 nejsou p\u0159\u00EDli\u0161 tradi\u010Dn\u00ED ve \u0161kol\u00E1ch, dokonce ani na univerzitn\u00ED \u00FArovni, jako je projektivn\u00ED a komplexn\u00ED geometrie, funkcion\u00E1ln\u00ED rovnice, d\u00E1le je pak pevn\u011B zakotvena teorie \u010D\u00EDsel, kde jsou po\u017Eadov\u00E1ny rozs\u00E1hl\u00E9 v\u011Bdomosti r\u016Fzn\u00FDch teor\u00E9m\u016F. A\u010Dkoliv je matematick\u00E1 anal\u00FDza k \u0159e\u0161en\u00ED probl\u00E9m\u016F povolena, nikdy nen\u00ED k \u0159e\u0161en\u00ED nezbytn\u00E1. \u00DAlohy jsou tvo\u0159eny tak, aby jejich zad\u00E1n\u00ED bylo snadno srozumiteln\u00E9 i se z\u00E1kladn\u00EDmi znalostmi matematiky, a\u010Dkoliv k \u0159e\u0161en\u00ED je \u010Dasto nezbytn\u00E9 zn\u00E1t o mnoho v\u00EDce. Tento princip podle autor\u016F poskytuje v\u00EDce univerzality a vytv\u00E1\u0159\u00ED popud k nalezen\u00ED elegantn\u00EDch, klamn\u011B lehce vyhl\u00ED\u017Eej\u00EDc\u00EDch probl\u00E9m\u016F, k jejich\u017E \u0159e\u0161en\u00ED je v\u0161ak pot\u0159eba ur\u010Dit\u00E1 d\u00E1vka vynal\u00E9zavosti. Proces v\u00FDb\u011Bru reprezentant\u016F se li\u0161\u00ED st\u00E1t od st\u00E1tu. \u010Casto je to postupn\u00FD syst\u00E9m n\u00E1rodn\u00EDch sout\u011B\u017E\u00ED, ve kter\u00E9m se postupn\u011B t\u0159\u00EDd\u00ED \u00FA\u010Dastn\u00EDci, a\u017E se dos\u00E1hne z\u00E1v\u011Bre\u010Dn\u00FDch reprezentant\u016F. Ceny jsou na IMO ud\u011Blov\u00E1ny ur\u010Dit\u00E9mu horn\u00EDmu procentu sout\u011B\u017E\u00EDc\u00EDch. T\u00FDmov\u00E1 sout\u011B\u017E nen\u00ED ofici\u00E1ln\u011B vyhla\u0161ov\u00E1na, ale statistiky jsou vedeny a t\u00FDmov\u00E9 v\u00FDsledky jsou neofici\u00E1ln\u011B porovn\u00E1v\u00E1ny \u010Dast\u011Bji, ne\u017E v\u00FDsledky jednotliv\u00FDch \u00FA\u010Dastn\u00EDk\u016F. V\u0161ichni \u00FA\u010Dastn\u00EDci mus\u00ED b\u00FDt mlad\u0161\u00ED 20 let a nesm\u00ED b\u00FDt registrov\u00E1ni na \u017E\u00E1dn\u00E9 vysoko\u0161kolsk\u00E9 instituci."@cs ,
+		"Les Olympiades internationales de math\u00E9matiques (en anglais : International Mathematical Olympiad) constituent un championnat international de math\u00E9matiques concernant des \u00E9l\u00E8ves \u00E0 l'issue de leurs \u00E9tudes secondaires. Les Olympiades ont lieu chaque ann\u00E9e dans un pays diff\u00E9rent."@fr ,
+		"La Olimpiada Internacional de Matem\u00E1tica (International Mathematical Olympiad, IMO por sus siglas en ingl\u00E9s) es una competencia anual para estudiantes preuniversitarios y es la m\u00E1s antigua de las Olimpiadas Internacionales de Ciencias.\u200B La primera IMO se celebr\u00F3 en Rumania en 1959. Desde entonces se ha celebrado cada a\u00F1o. Cerca de cien pa\u00EDses de todo el mundo env\u00EDan equipos de un m\u00E1ximo de seis estudiantes\u200B\u200B junto con un l\u00EDder de equipo, un tutor - o col\u00EDder - y observadores.\u200B El procedimiento para la entrada de un nuevo pa\u00EDs en la competici\u00F3n se encuentra disponible en el siguiente enlace\u200B (en ingl\u00E9s). La competici\u00F3n consta de dos cuestionarios con tres problemas cada uno. Cada pregunta da una puntuaci\u00F3n m\u00E1xima de 7 puntos, con una puntuaci\u00F3n m\u00E1xima total de 42 puntos. La prueba se desarrolla en dos d\u00EDas, en cada uno de los cuales el concursante dispone de cuatro horas y media para resolver tres problemas. Estos se escogen entre varias \u00E1reas de la matem\u00E1tica vista en secundaria, los cuales pueden clasificarse grosso modo en geometr\u00EDa, teor\u00EDa de n\u00FAmeros, \u00E1lgebra y combinatoria. No se requieren conocimientos de matem\u00E1ticas superiores y de las soluciones se espera que sean cortas y elegantes[cita requerida]. Encontrarlas requiere, sin embargo, ingenio excepcional y habilidad matem\u00E1tica[cita requerida]. Cada pa\u00EDs participante, salvo el pa\u00EDs anfitri\u00F3n, puede enviar problemas propuestos a un Comit\u00E9 de Selecci\u00F3n de Problemas organizado por el pa\u00EDs anfitri\u00F3n,\u200B el cual reduce los problemas propuestos a una peque\u00F1a lista. Los l\u00EDderes de los equipos se re\u00FAnen con anterioridad a los participantes para formar el Jurado de la Olimpiada, el cual es el responsable de tomar las decisiones formales de la competencia de ese a\u00F1o, comenzando con la selecci\u00F3n de los seis problemas que deber\u00E1n resolver los estudiantes.\u200B La puntuaci\u00F3n de cada participante es acordada entre el l\u00EDder y el col\u00EDder del equipo junto con los coordinadores o calificadores del pa\u00EDs anfitri\u00F3n (o el l\u00EDder del pa\u00EDs que envi\u00F3 el problema para calificar a los concursantes del pa\u00EDs anfitri\u00F3n). Si no hay acuerdo o surge cualquier otro tipo de disputa, la decisi\u00F3n final corresponde al Jurado. El proceso de selecci\u00F3n es diferente seg\u00FAn el pa\u00EDs, pero a menudo consiste en una serie de pruebas que van filtrando el n\u00FAmero de estudiantes en cada una. Los premios se entregan con relaci\u00F3n a un porcentaje alto de los participantes individuales. Los equipos no son reconocidos oficialmente, todos los resultados son para los concursantes individualmente. La puntuaci\u00F3n del equipo es extraoficialmente una comparaci\u00F3n de las puntuaciones individuales.\u200B Los participantes deben ser menores de veinte a\u00F1os y no deben estar matriculados en instituci\u00F3n de educaci\u00F3n superior alguna. En estas condiciones, un individuo puede participar cuantas veces desee en la OMI.\u200B"@es ,
+		"The International Mathematical Olympiad (IMO) is a mathematical olympiad for pre-college students, and is the oldest of the International Science Olympiads. The first IMO was held in Romania in 1959. It has since been held annually, except in 1980. More than 100 countries, representing over 90% of the world's population, send teams of up to six students, plus one team leader, one deputy leader, and observers. The content ranges from extremely difficult algebra and pre-calculus problems to problems on branches of mathematics not conventionally covered at school and often not at university level either, such as projective and complex geometry, functional equations, combinatorics, and well-grounded number theory, of which extensive knowledge of theorems is required. Calculus, though allowed in solutions, is never required, as there is a principle that anyone with a basic understanding of mathematics should understand the problems, even if the solutions require a great deal more knowledge. Supporters of this principle claim that this allows more universality and creates an incentive to find elegant, deceptively simple-looking problems which nevertheless require a certain level of ingenuity. The selection process differs by country, but it often consists of a series of tests which admit fewer students at each progressing test. Awards are given to approximately the top-scoring 50% of the individual contestants. Teams are not officially recognized\u2014all scores are given only to individual contestants, but team scoring is unofficially compared more than individual scores. Contestants must be under the age of 20 and must not be registered at any tertiary institution. Subject to these conditions, an individual may participate any number of times in the IMO. The International Mathematical Olympiad is one of the most prestigious mathematical competitions in the world. In January 2011, Google sponsored \u20AC1 million to the International Mathematical Olympiad organization."@en ,
+		"\uAD6D\uC81C\uC218\uD559\uC62C\uB9BC\uD53C\uC544\uB4DC(International Mathematical Olympiad, IMO)\uB294 \uB300\uD559 \uAD50\uC721\uC744 \uBC1B\uC9C0 \uC54A\uC740 \uB9CC 20\uC138 \uBBF8\uB9CC(19\uC138 \uC774\uD558)\uC758 \uCCAD\uC18C\uB144\uB4E4\uC744 \uB300\uC0C1\uC73C\uB85C \uB9E4\uB144 \uC5F4\uB9AC\uB294 \uAD6D\uC81C\uC218\uD559\uACBD\uC2DC\uB300\uD68C\uC774\uB2E4. 2000\uB144\uC5D0\uB294 \uB300\uD55C\uBBFC\uAD6D \uB300\uC804\uAD11\uC5ED\uC2DC\uC5D0\uC11C \uC5F4\uB9AC\uAE30\uB3C4 \uD558\uC600\uB2E4. \uAD6D\uC81C\uC218\uD559\uC62C\uB9BC\uD53C\uC544\uB4DC\uC758 \uC2DC\uC791\uC740 \uACF5\uC0B0\uAD8C \uAD6D\uAC00\uB4E4\uC758 \uC8FC\uCD95\uC774 \uB418\uC5B4\uC11C \uC2DC\uC791\uB418\uC5C8\uB2E4. \uCCAB \uB300\uD68C\uB294 1959\uB144 \uB8E8\uB9C8\uB2C8\uC544\uC5D0\uC11C 7\uAC1C\uAD6D\uC774 \uCC38\uAC00\uD568\uC73C\uB85C \uAC1C\uCD5C\uB418\uC5C8\uACE0, \uADF8 \uD6C4 1980\uB144\uC744 \uC81C\uC678\uD558\uACE0\uB294 \uB9E4\uB144 \uC5F4\uB838\uB2E4. \uD604\uC7AC\uB294 \uB300\uB7B5 100\uC5EC \uAC1C \uAD6D\uAC00\uAC00 \uCC38\uAC00\uD558\uACE0, \uAC01 \uAD6D\uAC00\uC5D0\uC11C\uB294 \uCD5C\uB300 6\uBA85\uC758 \uD559\uC0DD\uC744 \uBCF4\uB0B8\uB2E4. \uCC38\uAC00\uC790\uB294 \uB300\uD559 \uAD50\uC721\uC744 \uBC1B\uC740 \uC801\uC774 \uC5C6\uB294 20\uC138 \uBBF8\uB9CC\uC758 \uCCAD\uC18C\uB144\uC774\uC5B4\uC57C \uD55C\uB2E4. 1\uBA85\uC774 \uC5EC\uB7EC \uD574\uC5D0 \uAC78\uCCD0\uC11C \uC5EC\uB7EC \uBC88 \uCC38\uAC00\uD560 \uC218 \uC788\uB2E4. \uC6B0\uC218\uD55C \uCC38\uAC00\uC790\uC5D0\uAC8C\uB294 \uC131\uC801\uC5D0 \uB530\uB77C \uAE08\uBA54\uB2EC, \uC740\uBA54\uB2EC, \uB3D9\uBA54\uB2EC\uC774 \uC8FC\uC5B4\uC9C4\uB2E4. \uC774\uC678\uC5D0\uB3C4 \uBA85\uC608\uC0C1\uC774 \uC788\uB294\uB370, \uBA85\uC608\uC0C1\uC740 \uBA54\uB2EC \uBBF8\uC218\uC0C1\uC790\uAC00 \uC804\uCCB4 6\uBB38\uC81C \uC911 \uD55C \uBB38\uC81C\uB97C \uC815\uD655\uD788 \uD480\uC5B4\uC11C \uD574\uB2F9 \uBB38\uC81C\uC5D0\uC11C 7\uC810\uC744 \uD68D\uB4DD\uD560 \uACBD\uC6B0 \uC218\uC0C1\uD560 \uC218 \uC788\uB2E4. \uCD1D 6\uBB38\uC81C\uAC00 \uCD9C\uC81C\uB418\uACE0, \uAC01 \uBB38\uC81C\uC758 \uBC30\uC810\uC740 7\uC810\uC73C\uB85C 42\uC810\uC774 \uB9CC\uC810\uC774\uB2E4. \uC774\uD2C0\uC5D0 \uAC78\uCCD0\uC11C \uCCAB \uB0A0 3\uBB38\uC81C, \uB2E4\uC74C \uB0A0 3\uBB38\uC81C\uB97C \uAC01\uAC01 4\uC2DC\uAC04 30\uBD84 \uC548\uC5D0 \uD480\uC5B4\uC57C \uD55C\uB2E4. \uAD00\uB840\uC801\uC73C\uB85C \uAC01 \uB0A0\uC758 1\uBC88 \uBB38\uC81C(1\uBC88 \uBB38\uC81C\uC640 4\uBC88 \uBB38\uC81C)\uAC00 \uAC00\uC7A5 \uC27D\uACE0, 3\uBC88 \uBB38\uC81C(3\uBC88 \uBB38\uC81C\uC640 6\uBC88 \uBB38\uC81C)\uAC00 \uAC00\uC7A5 \uC5B4\uB835\uAC8C \uCD9C\uC81C\uB41C\uB2E4. \uBB38\uC81C\uB294 \uAC1C\uCD5C\uAD6D \uC774\uC678\uC758 \uCC38\uAC00\uAD6D\uC5D0\uC11C \uC81C\uC548\uD55C \uBB38\uC81C \uC911\uC5D0\uC11C \uBB38\uC81C \uC120\uC815 \uC704\uC6D0\uD68C\uC5D0\uC11C \uC120\uC815\uD558\uACE0, \uADF8\uAC83\uC744 \uAC01 \uB098\uB77C\uC758 \uC5B8\uC5B4\uB85C \uBC88\uC5ED\uD558\uAC8C \uB41C\uB2E4."@ko ,
+		"Die Internationale Mathematik-Olympiade (IMO) ist ein internationaler Sch\u00FClerwettbewerb im Bereich Mathematik, der seit 1959 (mit einer Ausnahme) j\u00E4hrlich stattfindet. Jedes Land darf sechs Teilnehmer entsenden, die zwei Klausuren mit jeweils drei Aufgaben aus verschiedenen Gebieten der Mathematik wie Algebra, Kombinatorik, Geometrie und Zahlentheorie schreiben. Daneben findet ein umfangreiches Rahmenprogramm statt, in dem die Teilnehmer das Gastland und die Teilnehmer der anderen L\u00E4nder kennenlernen. An der 60. IMO in Gro\u00DFbritannien 2019 nahmen insgesamt 621 Sch\u00FCler aus 112 L\u00E4ndern teil."@de ,
+		"Le Olimpiadi internazionali della matematica, abbreviate sovente in IMO, acronimo per International Mathematics Olympiads, sono una competizione internazionale di risoluzione di problemi matematici per studenti delle scuole medie superiori che non abbiano compiuto 20 anni, che non siano iscritti a un livello terziario di istruzione, che si svolge annualmente. Esse sono la pi\u00F9 antica delle olimpiadi scientifiche. Le prime olimpiadi si tennero nel 1959 in Romania con la partecipazione di 7 nazioni. Da allora la gara si \u00E8 tenuta ogni anno, tranne il 1980, e si \u00E8 estesa a pi\u00F9 di 80 nazioni partecipanti di 5 continenti. Ogni nazione pu\u00F2 inviare fino ad un massimo di 6 partecipanti (contestants), accompagnati da un caposquadra (team leader), un vice (deputy leader) ed eventuali osservatori. I partecipanti non devono aver compiuto i 20 anni e non devono essere iscritti a nessuna universit\u00E0 o ente di istruzione superiore. La competizione \u00E8 individuale e non ci sono risultati ufficiali per squadre. La squadra italiana \u00E8 selezionata tramite le fasi nazionali delle Olimpiadi della matematica. Le olimpiadi consistono nella soluzione di 6 problemi nei domini della geometria, algebra, teoria dei numeri e combinatoria. La gara si svolge in due giornate di 4 ore e mezza ciascuna nelle quali vengono assegnati 3 problemi ciascuna. Le soluzioni devono essere costituite da una dimostrazione completa e dettagliata del problema posto e sono redatte nella lingua madre dei partecipanti. I problemi vengono valutati numericamente da 0 a 7 e quindi il risultato massimo possibile \u00E8 42. I problemi sono contrassegnati dalle cifre Q1 Q2 Q3 Q4 Q5 Q6 e sono in ordine crescente di difficolt\u00E0. Nel 2011 Google ha donato 1 milione di dollari all'organizzazione delle Imo per coprire i costi del quinquennio 2011-2015. Nel 2014 Terence Tao, uno dei maggiori matematici contemporanei, \u00E8 diventato testimonial della Imo Foundation, l'organizzazione non profit che si occupa di organizzare le Imo. Terence Tao \u00E8 stato il pi\u00F9 giovane partecipante ad aver vinto un oro nel 1988 all'et\u00E0 di 12 anni."@it ,
+		"\u56FD\u969B\u6570\u5B66\u30AA\u30EA\u30F3\u30D4\u30C3\u30AF\uFF08\u3053\u304F\u3055\u3044\u3059\u3046\u304C\u304F\u30AA\u30EA\u30F3\u30D4\u30C3\u30AF\u3001\u82F1: International Mathematical Olympiad, IMO\uFF09\u306F\u3001\u6BCE\u5E74\u884C\u308F\u308C\u308B\u9AD8\u6821\u751F\u3092\u5BFE\u8C61\u3068\u3057\u305F\u6570\u5B66\u306E\u554F\u984C\u3092\u89E3\u304F\u80FD\u529B\u3092\u7AF6\u3046\u56FD\u969B\u5927\u4F1A\u3067\u3042\u308B\u3002"@ja .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:International_Mathematical_Olympiad	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/International_Mathematical_Olympiad?oldid=982696417&ns=0> ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/IMO_logo.svg?width=300> ;
+	dbo:wikiPageExternalLink	<http://search.ebscohost.com/login.aspx%3Fdirect=true&db=a9h&AN=4818783&site=ehost-live> ,
+		<http://www.win.tue.nl/~wstomv/publications/imo2002report.pdf> .
+@prefix ns25:	<https://archive.org/details/> .
+dbr:International_Mathematical_Olympiad	dbo:wikiPageExternalLink	ns25:countdown00stev ,
+		<https://web.archive.org/web/20040328160450/http:/www.imo.math.ca/> ,
+		<http://www.imo-official.org/> ,
+		<http://www.ams.org/notices/200305/comm-saul.pdf> ;
+	dbo:wikiPageID	82208 ;
+	dbo:wikiPageRevisionID	982696417 ;
+	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Washington,_D.C.> ,
+		dbr:Junior_Science_Talent_Search_Examination ,
+		<http://dbpedia.org/resource/Wroc\u0142aw> ,
+		dbr:Bucharest ,
+		dbr:Bremen ,
+		<http://dbpedia.org/resource/File:Bdimoteam09.JPG> ,
+		<http://dbpedia.org/resource/File:Zhuo_Qun_(Alex)_Song.jpg> ,
+		<http://dbpedia.org/resource/Time_(magazine)> ,
+		dbc:International_Science_Olympiad ,
+		dbr:Budapest ,
+		<http://dbpedia.org/resource/File:IMO_logo.svg> ,
+		dbr:Projective_geometry ,
+		dbc:International_Mathematical_Olympiad ,
+		<http://dbpedia.org/resource/File:IMO_2007.jpg> ,
+		<http://dbpedia.org/resource/File:Perfect-scorers.jpg> ,
+		dbr:Saint_Petersburg ,
+		<http://dbpedia.org/resource/File:Matemati\u010Dka_gimnazija_-_Mathematical_Gymnasium_Belgrade_-_MGB_-_IMO_2010_-_pic3.jpg> ,
+		<http://dbpedia.org/resource/Nikolay_Nikolov_(mathematician)> ,
+		<http://dbpedia.org/resource/File:IMO_2015_closing_ceremony.jpg> ,
+		<http://dbpedia.org/resource/File:International_Mathematical_Olympiad_all-members-gold_bar_chart.svg> ,
+		<http://dbpedia.org/resource/File:International_Mathematical_Olympiad_highest_team_score_bar_chart.svg> ,
+		dbr:Belgrade ,
+		dbr:Pan-African_Mathematics_Olympiads ,
+		<http://dbpedia.org/resource/File:Geo_prob_diagram.svg> ,
+		dbr:Wolfgang_Burmeister ,
+		dbr:IMO_Advisory_Board ,
+		dbr:Madrid ,
+		<http://dbpedia.org/resource/Martin_H\u00E4rterich> ,
+		<http://dbpedia.org/resource/X+Y> ,
+		dbr:Canada ,
+		dbr:Cluj-Napoca ,
+		<http://dbpedia.org/resource/Nicu\u0219or_Dan> ,
+		dbr:Straightedge_and_compass_construction ,
+		dbr:Germany ,
+		dbr:Mar_del_Plata ,
+		dbr:Moscow ,
+		dbr:Tertiary_education ,
+		dbr:Burgas ,
+		dbr:Ciprian_Manolescu ,
+		dbr:Chiba_Prefecture ,
+		dbr:Paul_Zeitz ,
+		dbr:Lisa_Sauermann ,
+		dbr:Warsaw ,
+		<http://dbpedia.org/resource/Ra\u00FAl_Ch\u00E1vez_Sarmiento> ,
+		<http://dbpedia.org/resource/M\u00E9rida,_Yucat\u00E1n> ,
+		dbr:Keszthely ,
+		dbr:London ,
+		dbr:Maryam_Mirzakhani ,
+		dbr:Chiang_Mai_Province ,
+		dbr:Functional_equation ,
+		dbr:South_Korea ,
+		dbc:Mathematics_competitions ,
+		<http://dbpedia.org/resource/U.S._News_&_World_Report> ,
+		dbr:Complex_number ,
+		dbr:United_States_of_America_Mathematical_Olympiad ,
+		dbr:Hong_Kong ,
+		dbr:Mongolia ,
+		dbr:Geometry ,
+		dbr:Taipei ,
+		<http://dbpedia.org/resource/\u017Dilina> ,
+		dbr:Melbourne ,
+		dbr:Ljubljana ,
+		dbr:List_of_International_Mathematical_Olympiad_participants ,
+		<http://dbpedia.org/resource/Reid_W._Barton> ,
+		dbr:Istanbul ,
+		dbr:Beautiful_Young_Minds ,
+		dbr:Terence_Tao ,
+		dbr:Complex_geometry ,
+		dbr:Joutsa ,
+		<http://dbpedia.org/resource/Bath,_Somerset> ,
+		dbr:Warsaw_Pact ,
+		dbr:Oslo ,
+		dbr:Beijing ,
+		dbr:Hanoi ,
+		dbr:Mathematical_Olympiad_Program ,
+		dbr:Toronto ,
+		<http://dbpedia.org/resource/\u010Cesk\u00E9_Bud\u011Bjovice> ,
+		dbr:Braunschweig ,
+		dbr:List_of_mathematics_competitions ,
+		dbr:Notices_of_the_American_Mathematical_Society ,
+		<http://dbpedia.org/resource/Bra\u0219ov> ,
+		<http://dbpedia.org/resource/File:Maryam_Mirzakhani_in_Seoul_2014.jpg> ,
+		dbr:Singapore ,
+		dbr:Sinaia ,
+		dbr:Teodor_von_Burg ,
+		dbr:Algebra ,
+		dbr:East_Germany ,
+		dbr:Eugenia_Malinnikova ,
+		dbr:Lienz ,
+		dbr:Bulgaria ,
+		dbr:Thailand ,
+		dbr:International_Mathematical_Olympiad_selection_process ,
+		dbr:Nur-Sultan ,
+		<http://dbpedia.org/resource/Ng\u00F4_B\u1EA3o_Ch\u00E2u> ,
+		dbr:Moldova ,
+		dbr:China ,
+		dbr:Sofia ,
+		dbr:Hungary ,
+		dbr:Iran ,
+		<http://dbpedia.org/resource/Inequality_(mathematics)> ,
+		dbr:East_Berlin ,
+		dbr:Romania ,
+		dbr:Sydney ,
+		dbr:College ,
+		dbr:American_Invitational_Mathematics_Examination ,
+		dbr:International_Science_Olympiad ,
+		dbr:Ukraine ,
+		dbr:West_Germany ,
+		dbr:Rio_de_Janeiro ,
+		dbr:Serbia ,
+		dbr:Tokyo ,
+		dbr:Sigtuna ,
+		dbr:Mumbai ,
+		dbr:Noam_Elkies ,
+		dbr:Erfurt ,
+		dbr:Athens ,
+		dbr:Calculus ,
+		dbr:Prague ,
+		dbr:Glasgow ,
+		dbr:Number_theory ,
+		dbr:Combinatorics ,
+		dbr:Havana ,
+		dbr:List_of_International_Mathematical_Olympiads ,
+		dbr:Fields_Medal ,
+		dbr:Cape_Town ,
+		dbr:British_Hong_Kong ,
+		dbr:Further_Mathematics ,
+		dbr:Mathematical_analysis ,
+		dbr:United_States ,
+		dbr:Grigori_Perelman ,
+		dbr:Autism_spectrum ,
+		dbr:Canberra ,
+		dbr:Daejeon ,
+		dbr:East_Asia ,
+		dbr:Mathematician ,
+		dbr:Soviet_Union ,
+		<http://dbpedia.org/resource/Toru\u0144> ,
+		dbr:Christian_Reiher ,
+		dbr:Cetinje ,
+		dbr:Russia ,
+		dbr:William_Lowell_Putnam_Mathematical_Competition ,
+		dbr:North_Korea ,
+		dbr:American_Mathematics_Competitions ,
+		dbc:Recurring_events_established_in_1959 ,
+		dbr:Amsterdam ,
+		dbr:Paris ,
+		<http://dbpedia.org/resource/Veszpr\u00E9m> ,
+		dbr:Europe ,
+		dbr:Santa_Marta ,
+		dbr:International_Mathematics_Competition_for_University_Students .
+@prefix dbt:	<http://dbpedia.org/resource/Template:> .
+dbr:International_Mathematical_Olympiad	dbp:wikiPageUsesTemplate	dbt:Flag ,
+		dbt:Cite_book ,
+		dbt:See_also ,
+		dbt:International_Science_Olympiad ,
+		dbt:Authority_control ,
+		dbt:Sort ,
+		dbt:Good_article ,
+		dbt:Main ,
+		dbt:Flagicon ,
+		dbt:Clarify ,
+		dbt:Cite_journal ,
+		dbt:Reflist .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:International_Mathematical_Olympiad	dbo:wikiPageLength	"46153"^^xsd:nonNegativeInteger .
+dbr:List_of_International_Mathematical_Olympiads	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+<http://dbpedia.org/resource/Ricardo_Rossell\u00F3>	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:List_of_events_affected_by_the_COVID-19_pandemic	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Olympiad	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Valery_Senderov	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Sergey_Fomin	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Tournament_of_the_Towns	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Aleksandr_Khazanov	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Saint_Petersburg_Lyceum_239	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Jacob_Tsimerman	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Sergei_Konyagin	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Omsk_Giftedness_Development_Center	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Romanian_Master_of_Mathematics_and_Sciences	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Physics_and_Technology_School	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+<http://dbpedia.org/resource/High_School_for_Gifted_Students,_Hanoi_University_of_Science>	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:China_Girls_Mathematical_Olympiad	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Yuri_Matiyasevich	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+<http://dbpedia.org/resource/Srbijanka_Turajli\u0107>	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Diane_Maclagan	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Eugenia_Malinnikova	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Tatiana_Toro	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Elon_Lindenstrauss	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+<http://dbpedia.org/resource/J\u00F3zsef_Balogh_(mathematician)>	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+<http://dbpedia.org/resource/Olimp\u00EDada_Brasileira_de_Matem\u00E1tica>	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Thailand_at_the_International_Science_Olympiads	rdfs:seeAlso	dbr:International_Mathematical_Olympiad ;
+	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+<http://dbpedia.org/resource/Ath\u00E9n\u00E9e_Robert_Catteau>	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+<http://dbpedia.org/resource/Freeport,_New_York>	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Manoj_Samanta	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+<http://dbpedia.org/resource/2018_in_Romania>	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Hsiao-Wuen_Hon	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Timothy_Gowers	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Sava_Grozdev	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Alexander_Goncharov	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Cristina_Pereyra	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Australian_Student_Prize	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Mathematical_modelling_competition	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Icelandic_Junior_College_Mathematics_Competition	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Vieta_jumping	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Peter_Keevash	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Don_Mills_Collegiate_Institute	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:List_of_Old_Mancunians	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:List_of_Peruvians	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:World_Maths_Day	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+<http://dbpedia.org/resource/V\u00F5_Nguy\u00EAn_Gi\u00E1p_Gifted_High_School>	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Timeline_of_women_in_mathematics_in_the_United_States	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Turks_of_Romania	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+<http://dbpedia.org/resource/Hao_Wu_(biochemist)>	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:International_rankings_of_Belarus	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+<http://dbpedia.org/resource/P\u00E9ter_Frankl>	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+<http://dbpedia.org/resource/Imre_Z._Ruzsa>	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+<http://dbpedia.org/resource/J\u00E1nos_Koll\u00E1r>	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+<http://dbpedia.org/resource/Mar\u00EDa_Falk_de_Losada>	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+<http://dbpedia.org/resource/Reza_Sadeghi_(mathematician)>	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:British_Mathematical_Olympiad_Subtrust	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Korean_Mathematical_Olympiad	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+<http://dbpedia.org/resource/H\u00E0_Huy_Kho\u00E1i>	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+dbr:Canadian_Mathematical_Olympiad	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+<http://dbpedia.org/resource/Sergei_Ivanov_(mathematician)>	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .
+<http://dbpedia.org/resource/Le_Quy_Don_High_School_for_the_Gifted,_Danang>	dbo:wikiPageWikiLink	dbr:International_Mathematical_Olympiad .

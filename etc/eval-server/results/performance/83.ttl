@@ -1,0 +1,313 @@
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+dbr:COROP	dbo:wikiPageWikiLink	dbr:Maasgouw .
+dbr:Seligenstadt	dbo:wikiPageWikiLink	dbr:Maasgouw .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+wikipedia-en:Maasgouw	foaf:primaryTopic	dbr:Maasgouw .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+dbr:Maasgouw	rdf:type	<http://dbpedia.org/class/yago/WikicatMunicipalitiesOfLimburg(Netherlands)> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Maasgouw	rdf:type	yago:Municipality108626283 .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Maasgouw	rdf:type	owl:Thing ,
+		yago:Location100027167 .
+@prefix schema:	<http://schema.org/> .
+dbr:Maasgouw	rdf:type	schema:Place ,
+		dbo:PopulatedPlace ,
+		dbo:Town ,
+		dbo:Settlement ,
+		dbo:Location ,
+		yago:YagoPermanentlyLocatedEntity .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Maasgouw	rdf:type	wikidata:Q3957 ,
+		yago:YagoLegalActorGeo ,
+		yago:YagoGeoEntity ,
+		yago:GeographicalArea108574314 ,
+		yago:District108552138 ,
+		yago:AdministrativeDistrict108491826 ,
+		wikidata:Q486972 ,
+		dbo:Place ,
+		yago:UrbanArea108675967 ,
+		yago:Region108630985 ,
+		yago:PhysicalEntity100001930 ,
+		yago:Object100002684 .
+@prefix geo:	<http://www.w3.org/2003/01/geo/wgs84_pos#> .
+dbr:Maasgouw	rdf:type	geo:SpatialThing .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Maasgouw	rdfs:label	"Maasgouw"@en ,
+		"\u99AC\u65AF\u8C6A"@zh ,
+		"Maasgouw (gemeente)"@nl ,
+		"Maasgouw"@de ,
+		"Maasgouw"@pl ,
+		"\u0645\u0627\u0633\u062E\u0627\u0648"@ar ,
+		"Maasgouw"@fr ,
+		"Maasgouw"@es ,
+		"Maasgouw"@eo ,
+		"Maasgouw"@ca ,
+		"Maasgouw"@eu ,
+		"Maasgouw"@sv ,
+		"Maasgouw"@it ;
+	rdfs:comment	"Maasgouw \u00E8 un comune olandese di 24.318 abitanti situato nella provincia di Limburgo. Il comune \u00E8 creato il 1\u00BA gennaio 2007 dalla fusione delle citt\u00E0 di Heel, di Maasbracht, e di Thorn."@it ,
+		"\u99AC\u65AF\u8C6A\uFF08\u8377\u862D\u8A9E\uFF1AMaasgouw\uFF09\u662F\u8377\u862D\u7684\u4E00\u500B\u5E02\u93AE\uFF0C\u4F4D\u65BC\u8377\u862D\u6771\u5357\u90E8\uFF0C\u9B6F\u723E\u8499\u5FB7\u897F\u5357\uFF0C\u5728\u884C\u653F\u5340\u5283\u4E0A\u5C6C\u65BC\u6797\u5821\u7701\u3002\u99AC\u65AF\u8C6A\u8A2D\u7ACB\u65BC2007\u5E741\u67081\u65E5\uFF0C\u662F\u7531Heel\u3001Maasbracht\u3001Thorn\u4E09\u500B\u6751\u838A\u5408\u4F75\u800C\u6210\u3002"@zh ,
+		"Maasgouw Herbehereetako Limburg probintziako herria da. 2010eko urtarrilaren 1eko erroldaren arabera, herriak 24.318 biztanle zituen."@eu ,
+		"Maasgouw \u2013 gmina w Holandii, w prowincji Limburgia."@pl ,
+		"Maasgouw \u00E4r en kommun i provinsen Limburg i Nederl\u00E4nderna. Kommunens totala area \u00E4r 57,99 km\u00B2 (d\u00E4r 12,16 km\u00B2 \u00E4r vatten) och inv\u00E5narantalet \u00E4r p\u00E5 23 822 inv\u00E5nare (2017)."@sv ,
+		"Maasgouw (en limburgu\u00E9s: Maasgoew) es un municipio de la Provincia de Limburgo al sureste de los Pa\u00EDses Bajos, creado el 1 de enero de 2007 por la fusi\u00F3n de tres antiguos municipios: ,  y ."@es ,
+		"La commune de Maasgouw est une commune des Pays-Bas de la province du Limbourg n\u00E9erlandais. Maasgouw a \u00E9t\u00E9 cr\u00E9\u00E9e le 1er janvier 2007 par la fusion des communes de Heel, de Maasbracht, et de Thorn."@fr ,
+		"Maasgouw (limburgu\u00E8s Maasgoew) \u00E9s un municipi de la prov\u00EDncia de Limburg, al sud-est dels Pa\u00EFsos Baixos. L'1 de gener del 2009 tenia 24.406 habitants repartits sobre una superf\u00EDcie de 58,02 km\u00B2 (dels quals 12,21 km\u00B2 corresponen a aigua). Limita al nord amb Leudal i Roermond, a l'oest amb Kinrooi i al sud amb Maaseik, Echt-Susteren i Roerdalen"@ca ,
+		"Maasgouw is a municipality in the Dutch province of Limburg. It is located on both banks of the river Meuse southwest of the city of Roermond. It was formed in a merger of the former municipalities of Heel, Maasbracht and Thorn on 1 January 2007. The municipality contains a number of towns and villages: \n* Beegden \n* Brachterbeek \n* Heel \n* Linne \n* Maasbracht \n* Oh\u00E9 en Laak \n* Panheel \n* Stevensweert \n* Thorn \n* Wessem."@en ,
+		"Maasgouw (Limburgs: Maasgoew) is een gemeente die per 1 januari 2007 is ontstaan uit de gemeenten Heel, Maasbracht en Thorn. Deze drie gemeenten hebben besloten tot een vrijwillige gemeentelijke herindeling."@nl ,
+		"Maasgouw (limburgisch Maasgoew) ist eine Gemeinde in der niederl\u00E4ndischen Provinz Limburg. Sie ist aus dem mit Wirkung zum 1. Januar 2007 vollzogenen Zusammenschluss der bisherigen Gemeinden Heel, Maasbracht und Thorn entstanden. Auf ihrem 5812 Hektar gro\u00DFen Gemeindegebiet lebten am 31. Januar 2019 23.714 Einwohner."@de ,
+		"\u0645\u0627\u0633\u062E\u0627\u0648 \u0628\u0644\u062F\u064A\u0629 \u0628\u0645\u0642\u0627\u0637\u0639\u0629 \u0644\u064A\u0645\u0628\u0648\u0631\u062E\u060C \u0647\u0648\u0644\u0646\u062F\u0627."@ar ,
+		"Maasgouw estas municipo en la nederlanda provinco Limburgo, kiu esti\u011Dis en 2007 kiel kuniga\u0135o de la anta\u016Daj municipoj Heel, Maasbracht kaj Thorn. La nomo Maasgouw estas kunigo de Maas kaj Gouw. Maas estas la rivero kiu ligas la 3 anta\u016Dajn municipojn. Gouw signifas regionon. La municipo nun konsistas el la urboj Beegden, Heel en Panheel, Linne, Maasbracht/Brachterbeek, Oh\u00E9 en Laak, Stevensweert, Thorn kaj Wessem."@eo ;
+	foaf:name	"Maasgouw"@en ;
+	foaf:homepage	<http://gemeentemaasgouw.nl> .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Maasgouw	geo:lat	"51.15000152587890625"^^xsd:float ;
+	geo:long	"5.9000000953674316406"^^xsd:float ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Exterieur_OVERZICHT_-_Oh\u00E9_-_20264793_-_RCE.jpg> ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Maasgouw .
+@prefix virtrdf:	<http://www.openlinksw.com/schemas/virtrdf#> .
+dbr:Maasgouw	geo:geometry	"POINT(5.9000000953674 51.150001525879)"^^virtrdf:Geometry .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Maasgouw	dct:subject	dbc:Maasgouw ,
+		<http://dbpedia.org/resource/Category:Municipalities_of_Limburg_(Netherlands)> ;
+	owl:sameAs	dbr:Maasgouw .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:Maasgouw	owl:sameAs	dbpedia-es:Maasgouw .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Maasgouw	owl:sameAs	dbpedia-fr:Maasgouw .
+@prefix dbpedia-af:	<http://af.dbpedia.org/resource/> .
+dbr:Maasgouw	owl:sameAs	dbpedia-af:Maasgouw .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Maasgouw	owl:sameAs	yago-res:Maasgouw .
+@prefix dbpedia-vo:	<http://vo.dbpedia.org/resource/> .
+dbr:Maasgouw	owl:sameAs	dbpedia-vo:Maasgouw .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Maasgouw	owl:sameAs	dbpedia-de:Maasgouw ,
+		<http://nl.dbpedia.org/resource/Maasgouw_(gemeente)> ,
+		<http://ar.dbpedia.org/resource/\u0645\u0627\u0633\u062E\u0627\u0648> ,
+		<http://rdf.freebase.com/ns/m.027fn9k> .
+@prefix dbpedia-no:	<http://no.dbpedia.org/resource/> .
+dbr:Maasgouw	owl:sameAs	dbpedia-no:Maasgouw .
+@prefix dbpedia-war:	<http://war.dbpedia.org/resource/> .
+dbr:Maasgouw	owl:sameAs	dbpedia-war:Maasgouw ,
+		wikidata:Q9792 .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Maasgouw	owl:sameAs	dbpedia-it:Maasgouw .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Maasgouw	owl:sameAs	dbpedia-pl:Maasgouw .
+@prefix ns25:	<http://ceb.dbpedia.org/resource/> .
+dbr:Maasgouw	owl:sameAs	ns25:Gemeente_Maasgouw .
+@prefix dbpedia-vi:	<http://vi.dbpedia.org/resource/> .
+dbr:Maasgouw	owl:sameAs	dbpedia-vi:Maasgouw .
+@prefix dbpedia-ca:	<http://ca.dbpedia.org/resource/> .
+dbr:Maasgouw	owl:sameAs	dbpedia-ca:Maasgouw .
+@prefix ns28:	<http://jv.dbpedia.org/resource/> .
+dbr:Maasgouw	owl:sameAs	ns28:Maasgouw ,
+		<http://sws.geonames.org/6544244/> ,
+		<http://fa.dbpedia.org/resource/\u0645\u0627\u0633\u200C\u062E\u0627\u0648> ,
+		<https://global.dbpedia.org/id/57hLU> .
+@prefix dbpedia-sq:	<http://sq.dbpedia.org/resource/> .
+dbr:Maasgouw	owl:sameAs	dbpedia-sq:Maasgouw .
+@prefix dbpedia-eu:	<http://eu.dbpedia.org/resource/> .
+dbr:Maasgouw	owl:sameAs	dbpedia-eu:Maasgouw ,
+		<http://viaf.org/viaf/306267236> .
+@prefix dbpedia-ro:	<http://ro.dbpedia.org/resource/> .
+dbr:Maasgouw	owl:sameAs	dbpedia-ro:Maasgouw ,
+		<http://zh.dbpedia.org/resource/\u99AC\u65AF\u8C6A> .
+@prefix dbpedia-eo:	<http://eo.dbpedia.org/resource/> .
+dbr:Maasgouw	owl:sameAs	dbpedia-eo:Maasgouw ,
+		<http://hy.dbpedia.org/resource/\u0544\u0561\u057D\u056D\u0561\u0578\u0582_(\u0570\u0561\u0574\u0561\u0575\u0576\u0584)> ,
+		<http://d-nb.info/gnd/1046466682> .
+@prefix ns33:	<http://li.dbpedia.org/resource/> .
+dbr:Maasgouw	owl:sameAs	ns33:Maasgoew .
+@prefix dbpedia-da:	<http://da.dbpedia.org/resource/> .
+dbr:Maasgouw	owl:sameAs	dbpedia-da:Maasgouw ,
+		<http://ur.dbpedia.org/resource/\u0645\u0627\u0633\u06AF\u0648\u0648> .
+@prefix dbpedia-sv:	<http://sv.dbpedia.org/resource/> .
+dbr:Maasgouw	owl:sameAs	dbpedia-sv:Maasgouw .
+@prefix georss:	<http://www.georss.org/georss/> .
+dbr:Maasgouw	georss:point	"51.15 5.9" ;
+	schema:sameAs	<http://viaf.org/viaf/306267236> ;
+	dbo:abstract	"Maasgouw estas municipo en la nederlanda provinco Limburgo, kiu esti\u011Dis en 2007 kiel kuniga\u0135o de la anta\u016Daj municipoj Heel, Maasbracht kaj Thorn. La nomo Maasgouw estas kunigo de Maas kaj Gouw. Maas estas la rivero kiu ligas la 3 anta\u016Dajn municipojn. Gouw signifas regionon. La municipo nun konsistas el la urboj Beegden, Heel en Panheel, Linne, Maasbracht/Brachterbeek, Oh\u00E9 en Laak, Stevensweert, Thorn kaj Wessem."@eo ,
+		"La commune de Maasgouw est une commune des Pays-Bas de la province du Limbourg n\u00E9erlandais. Maasgouw a \u00E9t\u00E9 cr\u00E9\u00E9e le 1er janvier 2007 par la fusion des communes de Heel, de Maasbracht, et de Thorn."@fr ,
+		"Maasgouw (limburgisch Maasgoew) ist eine Gemeinde in der niederl\u00E4ndischen Provinz Limburg. Sie ist aus dem mit Wirkung zum 1. Januar 2007 vollzogenen Zusammenschluss der bisherigen Gemeinden Heel, Maasbracht und Thorn entstanden. Auf ihrem 5812 Hektar gro\u00DFen Gemeindegebiet lebten am 31. Januar 2019 23.714 Einwohner."@de ,
+		"Maasgouw Herbehereetako Limburg probintziako herria da. 2010eko urtarrilaren 1eko erroldaren arabera, herriak 24.318 biztanle zituen."@eu ,
+		"Maasgouw is a municipality in the Dutch province of Limburg. It is located on both banks of the river Meuse southwest of the city of Roermond. It was formed in a merger of the former municipalities of Heel, Maasbracht and Thorn on 1 January 2007. The municipality contains a number of towns and villages: \n* Beegden \n* Brachterbeek \n* Heel \n* Linne \n* Maasbracht \n* Oh\u00E9 en Laak \n* Panheel \n* Stevensweert \n* Thorn \n* Wessem."@en ,
+		"Maasgouw \u00E4r en kommun i provinsen Limburg i Nederl\u00E4nderna. Kommunens totala area \u00E4r 57,99 km\u00B2 (d\u00E4r 12,16 km\u00B2 \u00E4r vatten) och inv\u00E5narantalet \u00E4r p\u00E5 23 822 inv\u00E5nare (2017)."@sv ,
+		"\u0645\u0627\u0633\u062E\u0627\u0648 \u0628\u0644\u062F\u064A\u0629 \u0628\u0645\u0642\u0627\u0637\u0639\u0629 \u0644\u064A\u0645\u0628\u0648\u0631\u062E\u060C \u0647\u0648\u0644\u0646\u062F\u0627."@ar ,
+		"Maasgouw (limburgu\u00E8s Maasgoew) \u00E9s un municipi de la prov\u00EDncia de Limburg, al sud-est dels Pa\u00EFsos Baixos. L'1 de gener del 2009 tenia 24.406 habitants repartits sobre una superf\u00EDcie de 58,02 km\u00B2 (dels quals 12,21 km\u00B2 corresponen a aigua). Limita al nord amb Leudal i Roermond, a l'oest amb Kinrooi i al sud amb Maaseik, Echt-Susteren i Roerdalen"@ca ,
+		"\u99AC\u65AF\u8C6A\uFF08\u8377\u862D\u8A9E\uFF1AMaasgouw\uFF09\u662F\u8377\u862D\u7684\u4E00\u500B\u5E02\u93AE\uFF0C\u4F4D\u65BC\u8377\u862D\u6771\u5357\u90E8\uFF0C\u9B6F\u723E\u8499\u5FB7\u897F\u5357\uFF0C\u5728\u884C\u653F\u5340\u5283\u4E0A\u5C6C\u65BC\u6797\u5821\u7701\u3002\u99AC\u65AF\u8C6A\u8A2D\u7ACB\u65BC2007\u5E741\u67081\u65E5\uFF0C\u662F\u7531Heel\u3001Maasbracht\u3001Thorn\u4E09\u500B\u6751\u838A\u5408\u4F75\u800C\u6210\u3002"@zh ,
+		"Maasgouw \u2013 gmina w Holandii, w prowincji Limburgia."@pl ,
+		"Maasgouw (Limburgs: Maasgoew) is een gemeente die per 1 januari 2007 is ontstaan uit de gemeenten Heel, Maasbracht en Thorn. Deze drie gemeenten hebben besloten tot een vrijwillige gemeentelijke herindeling."@nl ,
+		"Maasgouw \u00E8 un comune olandese di 24.318 abitanti situato nella provincia di Limburgo. Il comune \u00E8 creato il 1\u00BA gennaio 2007 dalla fusione delle citt\u00E0 di Heel, di Maasbracht, e di Thorn."@it ,
+		"Maasgouw (en limburgu\u00E9s: Maasgoew) es un municipio de la Provincia de Limburgo al sureste de los Pa\u00EDses Bajos, creado el 1 de enero de 2007 por la fusi\u00F3n de tres antiguos municipios: ,  y ."@es ;
+	dbo:country	dbr:Netherlands .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Maasgouw	dbp:leaderTitle	dbr:Burgomaster ;
+	dbp:leaderName	dbr:Stef_Strous ;
+	dbp:establishedDate	"2007-01-01"^^xsd:date ;
+	dbp:imageMap	"Map - NL - Municipality code 1641 .svg"@en ;
+	dbp:centre	"Maasgouw"@en ;
+	dbp:east	dbr:Roerdalen ;
+	dbp:flagSize	100 ;
+	dbp:governingBody	<http://dbpedia.org/resource/Municipal_council_(Netherlands)> ;
+	dbp:imageShield	"Coat of arms of Maasgouw.svg"@en ;
+	dbp:north	dbr:Leudal ;
+	dbp:northeast	dbr:Roermond ,
+		"''Meuse"@en ;
+	dbp:shieldSize	100 ;
+	dbp:southeast	dbr:Echt-Susteren ;
+	dbo:governingBody	<http://dbpedia.org/resource/Municipal_council_(Netherlands)> ;
+	dbo:politicalLeader	dbr:Maasgouw__PoliticalFunction__1 .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Maasgouw	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Maasgouw?oldid=982706327&ns=0> ;
+	dbp:imageCaption	"Hasselholt castle in Oh\u00E9 en Laak"@en ;
+	dbo:foundingDate	"2007-01-01"^^xsd:date ;
+	dbo:type	dbr:List_of_municipalities_of_the_Netherlands ;
+	dbp:establishedTitle	"Established"@en ;
+	dbp:areaCode	475 ;
+	dbp:areaCodeType	dbr:Telephone_numbers_in_the_Netherlands ;
+	dbp:elevationM	27 ;
+	dbp:postalCode	"Parts of 6000 range"@en ;
+	dbp:postalCodeType	dbr:Postal_codes_in_the_Netherlands ;
+	dbp:pushpinMap	"Netherlands"@en ;
+	dbp:pushpinMapCaption	"Location in the Netherlands"@en ;
+	dbp:settlementType	dbr:List_of_municipalities_of_the_Netherlands ;
+	dbp:subdivisionName	dbr:Netherlands ,
+		<http://dbpedia.org/resource/Limburg_(Netherlands)> ;
+	dbp:utcOffset	"+1"@en ;
+	dbo:areaCode	"0475" ;
+	dbo:postalCode	"Parts of 6000 range" ;
+	dbo:utcOffset	"+2" ,
+		"+1" ;
+	dbo:timeZone	dbr:Central_European_Time ,
+		dbr:Central_European_Summer_Time ;
+	dbp:name	"Maasgouw"@en ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Exterieur_OVERZICHT_-_Oh\u00E9_-_20264793_-_RCE.jpg?width=300> ;
+	dbp:website	<http://gemeentemaasgouw.nl> ;
+	dbo:wikiPageExternalLink	<http://gemeentemaasgouw.nl> ,
+		<http://www.gemeentemaasgouw.nl/> ;
+	dbp:imageFlag	"Maasgouw vlag.svg"@en ;
+	dbp:timezone1Dst	dbr:Central_European_Summer_Time ;
+	dbp:utcOffset1Dst	"+2"@en ;
+	dbp:southwest	"Kinrooi"@en ,
+		"Maaseik"@en ;
+	dbp:leaderParty	<http://dbpedia.org/resource/Labour_Party_(Netherlands)> ;
+	dbp:mapAlt	"Highlighted position of Maasgouw in a municipal map of Limburg"@en ;
+	dbo:elevation	27.0 ;
+	dbp:unitPref	"Metric"@en ;
+	dbp:subdivisionType	dbr:List_of_sovereign_states ,
+		dbr:Provinces_of_the_Netherlands ;
+	dbo:subdivision	<http://dbpedia.org/resource/Limburg_(Netherlands)> ;
+	dbp:mapCaption	"Location in Limburg"@en ;
+	dbp:timezone	dbr:Central_European_Time ;
+	dbo:wikiPageID	8705348 ;
+	dbo:wikiPageRevisionID	982706327 ;
+	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/1984_Summer_Olympics> ,
+		dbr:Provinces_of_the_Netherlands ,
+		dbr:Margo_Reuten ,
+		<http://dbpedia.org/resource/Municipal_council_(Netherlands)> ,
+		dbr:Telephone_numbers_in_the_Netherlands ,
+		dbc:Maasgouw ,
+		dbr:Burgomaster ,
+		dbr:Maasbracht ,
+		dbr:Leudal ,
+		dbr:Mark_van_Bommel ,
+		dbr:Meuse ,
+		dbr:Belgium ,
+		dbr:List_of_sovereign_states ,
+		<http://dbpedia.org/resource/Labour_Party_(Netherlands)> ,
+		<http://dbpedia.org/resource/Limburg_(Belgium)> ,
+		dbr:Panheel ,
+		<http://dbpedia.org/resource/Oh\u00E9_en_Laak> ,
+		dbr:Michelin_Guide ,
+		<http://dbpedia.org/resource/2004_Summer_Olympics> ,
+		dbr:List_of_municipalities_of_the_Netherlands ,
+		<http://dbpedia.org/resource/1988_Summer_Olympics> ,
+		dbr:Annemiek_Derckx ,
+		<http://dbpedia.org/resource/Heel,_Netherlands> ,
+		dbr:Jan_Cober ,
+		dbr:Henk_van_Hoof ,
+		dbr:Stef_Strous ,
+		<http://dbpedia.org/resource/File:Gem-Maasgouw-OpenTopo.jpg> ,
+		dbr:Wessem ,
+		dbr:Netherlands ,
+		dbr:Echt-Susteren ,
+		<http://dbpedia.org/resource/File:Mark_van_Bommel_2.jpg> ,
+		dbr:Beegden ,
+		dbr:Roermond ,
+		<http://dbpedia.org/resource/Limburg_(Netherlands)> ,
+		dbr:Guido_Geelen ,
+		dbr:Roerdalen ,
+		<http://dbpedia.org/resource/Thorn,_Netherlands> ,
+		dbr:Central_European_Summer_Time ,
+		dbr:Central_European_Time ,
+		dbr:Bas_Peters ,
+		dbr:Kinrooi ,
+		dbr:Lies_Visschedijk ,
+		dbr:Stevensweert ,
+		dbr:Linne ,
+		dbr:Postal_codes_in_the_Netherlands ,
+		dbr:Maaseik ,
+		<http://dbpedia.org/resource/Category:Municipalities_of_Limburg_(Netherlands)> .
+@prefix dbt:	<http://dbpedia.org/resource/Template:> .
+dbr:Maasgouw	dbp:wikiPageUsesTemplate	dbt:Columns-list ,
+		dbt:Geographic_location ,
+		dbt:Dutch_municipality_population_density ,
+		dbt:Space ,
+		dbt:Infobox_settlement ,
+		dbt:Authority_control ,
+		dbt:Dutch_municipality_water_area ,
+		dbt:Dutch_municipality_land_area ,
+		dbt:Dutch_municipality_total_area ,
+		dbt:Dutch_municipality_population ,
+		dbt:MONTHNAME ,
+		dbt:Coord ,
+		dbt:Reflist ,
+		<http://dbpedia.org/resource/Template:Limburg_Province_(Netherlands)> ,
+		dbt:LimburgNL-geo-stub ,
+		dbt:Commonscat-inline ;
+	dbo:wikiPageLength	"7242"^^xsd:nonNegativeInteger ;
+	dbp:imageSkyline	"Exterieur OVERZICHT - Oh\u00E9 - 20264793 - RCE.jpg"@en .
+dbr:Leudal	dbp:southeast	dbr:Maasgouw ;
+	dbo:wikiPageWikiLink	dbr:Maasgouw .
+dbr:Roerdalen	dbp:west	dbr:Maasgouw ;
+	dbo:wikiPageWikiLink	dbr:Maasgouw .
+dbr:Echt-Susteren	dbp:north	dbr:Maasgouw ;
+	dbo:wikiPageWikiLink	dbr:Maasgouw .
+dbr:Maas-Schwalm-Nette_Nature_Park	dbo:wikiPageWikiLink	dbr:Maasgouw .
+dbr:Maasbracht	dbo:wikiPageWikiLink	dbr:Maasgouw .
+<http://dbpedia.org/resource/Oh\u00E9_en_Laak>	dbp:subdivisionName	dbr:Maasgouw ;
+	dbo:subdivision	dbr:Maasgouw ;
+	dbo:wikiPageWikiLink	dbr:Maasgouw .
+dbr:Linne	dbp:subdivisionName	dbr:Maasgouw ;
+	dbo:subdivision	dbr:Maasgouw ;
+	dbo:wikiPageWikiLink	dbr:Maasgouw .
+dbr:Beegden	dbp:subdivisionName	dbr:Maasgouw ;
+	dbo:subdivision	dbr:Maasgouw ;
+	dbo:wikiPageWikiLink	dbr:Maasgouw .
+dbr:Stevensweert	dbp:subdivisionName	dbr:Maasgouw ;
+	dbo:subdivision	dbr:Maasgouw ;
+	dbo:wikiPageWikiLink	dbr:Maasgouw .
+<http://dbpedia.org/resource/Thorn,_Netherlands>	dbo:wikiPageWikiLink	dbr:Maasgouw .
+<http://dbpedia.org/resource/List_of_cities,_towns_and_villages_in_Limburg_(Netherlands)>	dbo:wikiPageWikiLink	dbr:Maasgouw .
+<http://dbpedia.org/resource/Municipalities_of_Limburg_(Netherlands)>	dbo:wikiPageWikiLink	dbr:Maasgouw .
+dbr:Panheel	dbo:subdivision	dbr:Maasgouw ;
+	dbo:wikiPageWikiLink	dbr:Maasgouw .
+<http://dbpedia.org/resource/Heel,_Netherlands>	dbo:subdivision	dbr:Maasgouw ;
+	dbo:wikiPageWikiLink	dbr:Maasgouw .
+dbr:Kinrooi	dbo:wikiPageWikiLink	dbr:Maasgouw .
+dbr:Maaseik	dbo:wikiPageWikiLink	dbr:Maasgouw .
+<http://dbpedia.org/resource/Limburg_(Netherlands)>	dbo:wikiPageWikiLink	dbr:Maasgouw .
+dbr:Wessem	dbp:subdivisionName	dbr:Maasgouw ;
+	dbo:subdivision	dbr:Maasgouw ;
+	dbo:wikiPageWikiLink	dbr:Maasgouw .
+<http://dbpedia.org/resource/50PLUS>	dbo:wikiPageWikiLink	dbr:Maasgouw .
+dbr:Margo_Reuten	dbo:wikiPageWikiLink	dbr:Maasgouw .
+dbr:Roermond	dbp:southwest	dbr:Maasgouw ;
+	dbo:wikiPageWikiLink	dbr:Maasgouw .
+dbr:List_of_municipal_flags_of_the_Netherlands	dbo:wikiPageWikiLink	dbr:Maasgouw .

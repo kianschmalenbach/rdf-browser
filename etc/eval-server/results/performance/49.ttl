@@ -1,0 +1,975 @@
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+dbr:Ancient_Greek_astronomy	dbo:wikiPageWikiLink	dbr:Hypatia .
+dbr:Iota_Draconis	dbo:wikiPageWikiLink	dbr:Hypatia .
+dbr:Jay_Pasachoff	dbo:wikiPageWikiLink	dbr:Hypatia .
+dbr:Greek_numerals	dbo:wikiPageWikiLink	dbr:Hypatia .
+dbr:Hypatia_Bradlaugh_Bonner	dbo:wikiPageWikiLink	dbr:Hypatia .
+dbr:Women_in_Mathematics	dbo:wikiPageWikiLink	dbr:Hypatia .
+dbr:Woman_in_Science	dbo:wikiPageWikiLink	dbr:Hypatia .
+dbr:Intermediate_Math_League_of_Eastern_Massachusetts	dbo:wikiPageWikiLink	dbr:Hypatia .
+dbr:Catherine_of_Alexandria	dbo:wikiPageWikiLink	dbr:Hypatia .
+dbr:History_of_Alexandria	dbo:wikiPageWikiLink	dbr:Hypatia .
+<http://dbpedia.org/resource/4th_century>	dbo:wikiPageWikiLink	dbr:Hypatia .
+dbr:List_of_female_scientists_before_the_20th_century	dbo:wikiPageWikiLink	dbr:Hypatia .
+dbr:List_of_Egyptians	dbo:wikiPageWikiLink	dbr:Hypatia .
+dbr:List_of_Greek_mathematicians	dbo:wikiPageWikiLink	dbr:Hypatia .
+dbr:List_of_women_writers	dbo:wikiPageWikiLink	dbr:Hypatia .
+dbr:History_of_mathematics	dbo:wikiPageWikiLink	dbr:Hypatia .
+dbr:The_Dinner_Party	dbo:wikiPageWikiLink	dbr:Hypatia .
+dbr:Index_of_women_scientists_articles	dbo:wikiPageWikiLink	dbr:Hypatia .
+dbr:List_of_astrologers	dbo:wikiPageWikiLink	dbr:Hypatia .
+dbr:List_of_feminist_philosophers	dbo:wikiPageWikiLink	dbr:Hypatia .
+dbr:Hydrometer	dbo:wikiPageWikiLink	dbr:Hypatia .
+dbr:Index_of_Egypt-related_articles	dbo:wikiPageWikiLink	dbr:Hypatia .
+dbr:Iota_Draconis_b	dbo:wikiPageWikiLink	dbr:Hypatia .
+<http://dbpedia.org/resource/Agora_(film)>	dbo:wikiPageWikiLink	dbr:Hypatia .
+dbr:Maria_Cunitz	dbo:wikiPageWikiLink	dbr:Hypatia .
+dbr:Alfred_Seifert	dbo:wikiPageWikiLink	dbr:Hypatia .
+<http://dbpedia.org/resource/Hypatia_(disambiguation)>	dbo:wikiPageWikiLink	dbr:Hypatia ;
+	dbo:wikiPageDisambiguates	dbr:Hypatia .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+wikipedia-en:Hypatia	foaf:primaryTopic	dbr:Hypatia .
+dbr:Philosopher	dbo:wikiPageWikiLink	dbr:Hypatia .
+dbr:Mathematician	dbo:wikiPageWikiLink	dbr:Hypatia .
+dbr:Roman_Empire	dbo:wikiPageWikiLink	dbr:Hypatia .
+dbr:List_of_geometers	dbo:wikiPageWikiLink	dbr:Hypatia .
+dbr:Science	dbo:wikiPageWikiLink	dbr:Hypatia .
+dbr:Max_Minghella	dbo:wikiPageWikiLink	dbr:Hypatia .
+dbr:Caesareum_of_Alexandria	dbo:wikiPageWikiLink	dbr:Hypatia .
+dbr:The_Darkening_Age	dbo:wikiPageWikiLink	dbr:Hypatia .
+<http://dbpedia.org/resource/Hypatia_(stone)>	dbo:wikiPageWikiLink	dbr:Hypatia .
+<http://dbpedia.org/resource/Egypt_(Roman_province)>	dbo:wikiPageWikiLink	dbr:Hypatia .
+dbr:Flaying	dbo:wikiPageWikiLink	dbr:Hypatia .
+<http://dbpedia.org/resource/370>	dbo:wikiPageWikiLink	dbr:Hypatia .
+<http://dbpedia.org/resource/405>	dbo:wikiPageWikiLink	dbr:Hypatia .
+dbr:List_of_women_astronomers	dbo:wikiPageWikiLink	dbr:Hypatia .
+<http://dbpedia.org/resource/Index_of_Byzantine_Empire\u2013related_articles>	dbo:wikiPageWikiLink	dbr:Hypatia .
+dbr:List_of_historical_drama_films_and_series_set_in_Near_Eastern_and_Western_civilization	dbo:wikiPageWikiLink	dbr:Hypatia .
+dbr:List_of_biographical_films	dbo:wikiPageWikiLink	dbr:Hypatia .
+<http://dbpedia.org/resource/Hypatia_(journal)>	dbo:wikiPageWikiLink	dbr:Hypatia .
+dbr:Cyrenaica	dbo:wikiPageWikiLink	dbr:Hypatia .
+dbr:Pilar_Pedraza	dbo:wikiPageWikiLink	dbr:Hypatia .
+dbr:Witch-hunt	dbo:wikiPageWikiLink	dbr:Hypatia .
+dbr:Secret_history	dbo:wikiPageWikiLink	dbr:Hypatia .
+dbr:List_of_alternate_history_fiction	dbo:wikiPageWikiLink	dbr:Hypatia .
+dbr:Baudolino	dbo:wikiPageWikiLink	dbr:Hypatia .
+dbr:History_of_algebra	dbo:wikiPageWikiLink	dbr:Hypatia .
+dbr:Astrolabe	dbo:wikiPageWikiLink	dbr:Hypatia .
+<http://dbpedia.org/resource/History_of_Grandi\u0027s_series>	dbo:wikiPageWikiLink	dbr:Hypatia .
+dbr:Timeline_of_women_in_science	dbo:wikiPageWikiLink	dbr:Hypatia .
+<http://dbpedia.org/resource/5th_century>	dbo:wikiPageWikiLink	dbr:Hypatia .
+dbr:Andrew_Kuster	dbo:wikiPageWikiLink	dbr:Hypatia .
+dbr:Monica_Maimone	dbo:wikiPageWikiLink	dbr:Hypatia .
+dbr:The_Story_of_Maths	dbo:wikiPageWikiLink	dbr:Hypatia .
+<http://dbpedia.org/resource/Orestes_(prefect)>	dbo:wikiPageWikiLink	dbr:Hypatia .
+dbr:Parabalani	dbo:wikiPageWikiLink	dbr:Hypatia .
+dbr:Synesius	dbo:wikiPageWikiLink	dbr:Hypatia .
+dbr:Heirs_of_Alexandria_series	dbo:wikiPageWikiLink	dbr:Hypatia .
+@prefix dbp:	<http://dbpedia.org/property/> .
+<http://dbpedia.org/resource/Hypatia_(crater)>	dbp:eponym	dbr:Hypatia ;
+	dbo:wikiPageWikiLink	dbr:Hypatia .
+dbr:Charles_William_Mitchell	dbo:wikiPageWikiLink	dbr:Hypatia .
+dbr:List_of_proper_names_of_exoplanets	dbo:wikiPageWikiLink	dbr:Hypatia .
+dbr:List_of_people_from_Greece	dbo:wikiPageWikiLink	dbr:Hypatia .
+<http://dbpedia.org/resource/340s>	dbo:wikiPageWikiLink	dbr:Hypatia .
+dbr:Theon_of_Alexandria	dbo:wikiPageWikiLink	dbr:Hypatia .
+dbr:African_philosophy	dbo:wikiPageWikiLink	dbr:Hypatia .
+<http://dbpedia.org/resource/The_Dream_of_Scipio_(novel)>	dbo:wikiPageWikiLink	dbr:Hypatia .
+dbr:Francis_Itty_Cora	dbo:wikiPageWikiLink	dbr:Hypatia .
+dbr:Library_of_Alexandria	dbo:wikiPageWikiLink	dbr:Hypatia .
+dbr:Religious_persecution_in_the_Roman_Empire	dbo:wikiPageWikiLink	dbr:Hypatia .
+dbr:List_of_Pagans	dbo:wikiPageWikiLink	dbr:Hypatia .
+<http://dbpedia.org/resource/1st_millennium>	dbo:wikiPageWikiLink	dbr:Hypatia .
+dbr:History_of_Egypt	dbo:wikiPageWikiLink	dbr:Hypatia .
+dbr:List_of_films_set_in_ancient_Rome	dbo:wikiPageWikiLink	dbr:Hypatia .
+dbr:Hydroscope	dbo:wikiPageWikiLink	dbr:Hypatia .
+dbr:Kristian_Birkeland	dbo:wikiPageWikiLink	dbr:Hypatia .
+<http://dbpedia.org/resource/Jonas_\u0160li\u016Bpas>	dbo:wikiPageWikiLink	dbr:Hypatia .
+<http://dbpedia.org/resource/List_of_The_Mr._Peabody_&_Sherman_Show_episodes>	dbo:wikiPageWikiLink	dbr:Hypatia .
+dbr:Greek_name	dbo:wikiPageWikiLink	dbr:Hypatia .
+<http://dbpedia.org/resource/238_Hypatia>	dbp:namedAfter	dbr:Hypatia ;
+	dbo:wikiPageWikiLink	dbr:Hypatia .
+<http://dbpedia.org/resource/\u00D1uSat>	dbo:wikiPageWikiLink	dbr:Hypatia .
+@prefix ns5:	<http://dbpedia.org/resource/Cosmos:> .
+ns5:_A_Personal_Voyage	dbo:wikiPageWikiLink	dbr:Hypatia .
+dbr:List_of_librarians	dbo:wikiPageWikiLink	dbr:Hypatia .
+<http://dbpedia.org/resource/Antoninus_(philosopher)>	dbo:wikiPageWikiLink	dbr:Hypatia .
+dbr:Chronology_of_ancient_Greek_mathematicians	dbo:wikiPageWikiLink	dbr:Hypatia .
+dbr:List_of_common_misconceptions	dbo:wikiPageWikiLink	dbr:Hypatia .
+dbr:List_of_women_in_Female_Biography	dbo:wikiPageWikiLink	dbr:Hypatia .
+dbr:Charles_Bradlaugh	dbo:wikiPageWikiLink	dbr:Hypatia .
+dbr:Rachel_Weisz	dbo:wikiPageWikiLink	dbr:Hypatia .
+dbr:Pope_Theophilus_of_Alexandria	dbo:wikiPageWikiLink	dbr:Hypatia .
+dbr:Socrates_of_Constantinople	dbo:wikiPageWikiLink	dbr:Hypatia .
+dbr:Diophantus_and_Diophantine_Equations	dbo:wikiPageWikiLink	dbr:Hypatia .
+<http://dbpedia.org/resource/Michael_A._B._Deakin>	dbo:wikiPageWikiLink	dbr:Hypatia .
+dbr:Hypatia_of_Alexandria	dbo:wikiPageRedirects	dbr:Hypatia ;
+	dbo:wikiPageWikiLink	dbr:Hypatia .
+<http://dbpedia.org/resource/Meanings_of_minor_planet_names:_1\u20131000>	dbo:wikiPageWikiLink	dbr:Hypatia .
+dbr:Ammonius_Saccas	dbo:influenced	dbr:Hypatia ;
+	dbp:influenced	dbr:Hypatia ;
+	dbo:wikiPageWikiLink	dbr:Hypatia .
+dbr:Decline_of_Greco-Roman_polytheism	dbo:wikiPageWikiLink	dbr:Hypatia .
+dbr:Isidore_of_Alexandria	dbo:wikiPageWikiLink	dbr:Hypatia .
+dbr:Plotinus	dbp:influenced	dbr:Hypatia ;
+	dbo:wikiPageWikiLink	dbr:Hypatia .
+<http://dbpedia.org/resource/List_of_philosophers_(D\u2013H)>	dbo:wikiPageWikiLink	dbr:Hypatia .
+dbr:List_of_philosophers_born_in_the_1st_through_10th_centuries	dbo:wikiPageWikiLink	dbr:Hypatia .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Hypatia	rdf:type	wikidata:Q24229398 ,
+		wikidata:Q5 ,
+		wikidata:Q4964182 .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Hypatia	rdf:type	yago:Wikicat4th-centuryEgyptianPeople ,
+		yago:Wikicat5th-centuryEgyptianPeople ,
+		yago:Saint110546850 ,
+		yago:Philosopher110423589 ,
+		yago:WikicatAncientGreekWomenPhilosophers ,
+		yago:WikicatWomenInventors ,
+		yago:GoodPerson110138767 ,
+		yago:WikicatAncientGreekWomenWriters .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Hypatia	rdf:type	owl:Thing ,
+		yago:WikicatAcademics ,
+		yago:WikicatEgyptianPhilosophers .
+@prefix umbel-rc:	<http://umbel.org/umbel/rc/> .
+dbr:Hypatia	rdf:type	umbel-rc:Philosopher ,
+		yago:WikicatAtheistPhilosophers ,
+		yago:WikicatAncientGreekWomen ,
+		yago:WikicatGreekTortureVictims ,
+		yago:WikicatAncientGreekMathematicians ,
+		yago:Wikicat5th-centuryByzantinePeople ,
+		yago:WikicatGreekPhilosophers ,
+		yago:Wikicat5th-centuryPhilosophers ,
+		yago:WikicatAncientGreekPhilosophers ,
+		yago:WikicatAncientPhilosophers ,
+		yago:WikicatRoman-eraPhilosophers ,
+		yago:WikicatEgyptianAcademics ,
+		yago:Inventor110214637 ,
+		yago:WikicatGreekAstronomers ,
+		dbo:Philosopher ,
+		dbo:Person ,
+		yago:Object100002684 ,
+		yago:Scientist110560637 ,
+		yago:PhysicalEntity100001930 ,
+		yago:Person100007846 ,
+		yago:Organism100004475 ,
+		yago:Scholar110557854 ,
+		yago:Professional110480253 ,
+		yago:Whole100003553 ,
+		yago:WikicatAncientAstronomers ,
+		yago:Intellectual109621545 ,
+		yago:LivingThing100004258 ,
+		yago:Writer110794014 ,
+		yago:YagoLegalActor ,
+		yago:YagoLegalActorGeo ,
+		dbo:Agent ,
+		yago:CausalAgent100007347 ,
+		yago:Adult109605289 ,
+		yago:Academician109759069 ,
+		yago:Educator110045713 ,
+		yago:Communicator109610660 ,
+		yago:WikicatLate-Roman-eraStudentsInAthens ,
+		yago:WikicatEgyptianPeopleOfGreekDescent ,
+		yago:WikicatWomenMathematicians ,
+		yago:WikicatWomenScientists ,
+		yago:Unfortunate109630641 ,
+		yago:Wikicat4th-centuryPhilosophers ,
+		yago:Wikicat4th-centuryByzantinePeople .
+@prefix schema:	<http://schema.org/> .
+dbr:Hypatia	rdf:type	schema:Person ,
+		yago:Creator109614315 ,
+		yago:Wikicat5th-centuryWomenWriters ,
+		yago:WikicatGreekWomen ,
+		yago:Wikicat4th-centuryGreekPeople ,
+		yago:Wikicat4th-centuryWriters ,
+		yago:WikicatWomenPhilosophers ,
+		yago:Female109619168 ,
+		yago:Geometer110128016 ,
+		yago:WikicatGeometers ,
+		yago:WikicatMurderedScientists ,
+		yago:WikicatPeopleFromAlexandria ,
+		yago:WikicatWomen ,
+		yago:Physicist110428004 ,
+		yago:Mathematician110301261 ,
+		yago:WikicatPeopleExecutedByFlaying ,
+		yago:WikicatExecutedPhilosophers ,
+		yago:Librarian110257948 ,
+		yago:WikicatAncientGreekAstronomers ,
+		yago:Wikicat4th-centuryWomenWriters ,
+		yago:WikicatAncientRomanWomen ,
+		yago:WikicatRoman-eraLibrariansOfAlexandria ,
+		yago:WikicatWomenInTechnology ,
+		yago:Astronomer109818343 ,
+		yago:Enrollee110059162 ,
+		yago:Student110665698 ,
+		wikidata:Q215627 ,
+		yago:Woman110787470 ,
+		yago:Victim110752093 ,
+		yago:WikicatWomenWriters ,
+		yago:WikicatMurderVictims ,
+		yago:WikicatInventors .
+@prefix ns12:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Hypatia	rdf:type	ns12:NaturalPerson ,
+		ns12:Agent ,
+		yago:Wikicat5th-centuryMathematicians ,
+		yago:WikicatEgyptianMathematicians ,
+		yago:WikicatGreekMathematicians ,
+		yago:WikicatAncientMathematicians ,
+		yago:WikicatSaints ,
+		yago:Wikicat5th-centuryWriters ,
+		foaf:Person .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Hypatia	rdfs:label	"Hypatie"@fr ,
+		"\u5E0C\u5E15\u63D0\u5A6D"@zh ,
+		"\u03A5\u03C0\u03B1\u03C4\u03AF\u03B1"@el ,
+		"Hypatia z Alexandrie"@cs ,
+		"\u0647\u064A\u0628\u0627\u062A\u064A\u0627"@ar ,
+		"\u0413\u0456\u043F\u0430\u0442\u0456\u044F"@uk ,
+		"Hypatia z Aleksandrii"@pl ,
+		"Hypatia"@sv ,
+		"Hipatia Alexandriakoa"@eu ,
+		"Hypatia"@de ,
+		"Hypatia"@en ,
+		"Hip\u00E1tia"@pt ,
+		"\uD788\uD30C\uD2F0\uC544"@ko ,
+		"Hypatia"@nl ,
+		"Hip\u00E0tia"@ca ,
+		"Ipazia"@it ,
+		"Hipatia"@eo ,
+		"\u30D2\u30E5\u30D1\u30C6\u30A3\u30A2"@ja ,
+		"Hypatia"@ga ,
+		"Hipatia"@in ,
+		"\u0413\u0438\u043F\u0430\u0442\u0438\u044F"@ru ,
+		"Hipatia"@es ;
+	rdfs:comment	"Hypatie (\u1F59\u03C0\u03B1\u03C4\u03AF\u03B1, n\u00E9e entre 355 et 370 selon les sources et assassin\u00E9e par des chr\u00E9tiens en 415) est une philosophe n\u00E9oplatonicienne, astronome et math\u00E9maticienne grecque d'Alexandrie. Femme de lettres et de sciences, elle est \u00E0 la t\u00EAte de l'\u00E9cole n\u00E9oplatonicienne d'Alexandrie, au sein de laquelle elle enseigne la philosophie et l'astronomie. C'est la premi\u00E8re math\u00E9maticienne dont la vie est bien document\u00E9e."@fr ,
+		"Hip\u00E0tia (en grec \u1F59\u03C0\u03B1\u03C4\u03AF\u03B1, transliterat Hypat\u00EDa [hy.pa.ti.a]); Alexandria, 355 o 350-ib\u00EDd., 415) va ser una fil\u00F2sofa i mestra neoplat\u00F2nica grega, natural d'Egipte, que va destacar als camps de les matem\u00E0tiques i l'astronomia, fou membre i cap de l'escola neoplat\u00F2nica d'Alexandria a comen\u00E7aments del segle v. Seguidora de Plot\u00ED, va conrear els estudis l\u00F2gics i les ci\u00E8ncies exactes, i va portar una vida asc\u00E8tica."@ca ,
+		"Hypatia (born c. 350\u2013370; died 415) was a Hellenistic Neoplatonist philosopher, astronomer, and mathematician, who lived in Alexandria, Egypt, then part of the Eastern Roman Empire. She was a prominent thinker of the Neoplatonic school in Alexandria where she taught philosophy and astronomy. She is the first female mathematician whose life is reasonably well recorded. Hypatia was renowned in her own lifetime as a great teacher and a wise counselor. She is known to have written a commentary on Diophantus's thirteen-volume Arithmetica, which may survive in part, having been interpolated into Diophantus's original text, and another commentary on Apollonius of Perga's treatise on conic sections, which has not survived. Many modern scholars also believe that Hypatia may have edited the survivin"@en ,
+		"Hip\u00E1tia ou Hip\u00E1cia (em grego cl\u00E1ssico: \u1F59\u03C0\u03B1\u03C4\u03AF\u03B1; transl.: Hypat\u00EDa; Alexandria, c. 351/370 \u2013 Alexandria, 8 de mar\u00E7o de 415) foi uma fil\u00F3sofa neoplat\u00F4nica grega do Egito Romano. Foi a primeira mulher documentada como tendo sido matem\u00E1tica. Como chefe da escola plat\u00F4nica em Alexandria, tamb\u00E9m lecionou filosofia e astronomia. De acordo com a \u00FAnica fonte contempor\u00E2nea, Hip\u00E1tia foi assassinada por uma multid\u00E3o de crist\u00E3os depois de ser acusada de exacerbar um conflito entre duas figuras proeminentes em Alexandria: o governador Orestes e o bispo de Alexandria, Cirilo de Alexandria."@pt ,
+		"\u30D2\u30E5\u30D1\u30C6\u30A3\u30A2\uFF08\u1F59\u03C0\u03B1\u03C4\u03AF\u03B1, Hypatia\u3001350\u5E74\uFF5E370\u5E74\u9803 - 415\u5E743\u6708\uFF09\u306F\u3001\u6771\u30ED\u30FC\u30DE\u6642\u4EE3\u306E\u30A8\u30B8\u30D7\u30C8\u3067\u6D3B\u52D5\u3057\u305F\u30AE\u30EA\u30B7\u30E3\u7CFB\u306E\u6570\u5B66\u8005\u30FB\u5929\u6587\u5B66\u8005\u30FB\u65B0\u30D7\u30E9\u30C8\u30F3\u4E3B\u7FA9\u54F2\u5B66\u8005\u3002\u30CF\u30A4\u30D1\u30C6\u30A3\u30A2\u3068\u3082\u30D2\u30D1\u30C6\u30A3\u30A2\u3068\u3082\u547C\u3070\u308C\u308B\u3002\u30AD\u30EA\u30B9\u30C8\u6559\u5F92\u306B\u3088\u308A\u7570\u6559\u5F92\u3068\u3057\u3066\u8650\u6BBA\u3055\u308C\u305F\u3002"@ja ,
+		"Hipatia, greke Y\u03C0\u03B1\u03C4\u03AF\u03B1, (a\u016D Hipatio) naski\u011Dis \u0109irka\u016D 370 en Aleksandrio - murdita la 12-an de marto 415 en Aleksandrio) estis filozofino helena. \u015Ci anka\u016D estis la unua matematikistino en historio. \u015Ci estis filino kaj lernantino de Teono el Aleksandrio. \u015Ci poste instruis sciencojn al  kiu estis poste episkopo de . Facile naski\u011Dis vo\u0109o ke komisiinto estis episkopo Sankta Cirilo, kiu ne batalis kontra\u016D paganismo (preska\u016D ne plu ekzistanta en la urbo) a\u016D novplatonismo sed kontra\u016D diversaj kristanaj, beda\u016Drinde ne pacigaj, herezuloj."@eo ,
+		"Hipatia (lahir antara 350 dan 370; meninggal tahun 415) adalah seorang filsuf, astronom, dan matematikawan Helenistik yang tinggal di kota Aleksandria, Mesir pada zaman Kekaisaran Romawi. Ia merupakan tokoh neoplatonisme di Aleksandria, dan di kota tersebut ia mengajarkan ilmu filsafat dan astronomi. Ia adalah matematikawan wanita pertama dengan keterangan sejarah yang cukup mudah untuk ditemui. Hipatia dikenal pada masanya sebagai seorang guru besar dan penasihat yang bijak. Ia pernah menulis sebuah tafsir untuk Aritmetika karya Diofantos yang terdiri dari tiga belas jilid, dan tafsir ini telah disisipkan ke dalam naskah aslinya. Ia juga pernah membuat tafsir untuk risalah Apolonios dari Perga mengenai irisan kerucut, tetapi tafsir ini sudah hilang ditelan zaman. Banyak ahli modern yang m"@in ,
+		"\u5E0C\u5E15\u63D0\u5A6D\uFF08\u53E4\u5E0C\u81D8\u8A9E\uFF1A\u1F59\u03C0\u03B1\u03C4\u03AF\u03B1\uFF0C\u751F\u65BC\u7D04350\u5E74\uFF0D370\u5E74\u4E4B\u9593\uFF0C\u6B7B\u65BC415\u5E743\u6708\uFF09\uFF0C\u53C8\u8B6F\u4F5C\u6D77\u82AD\u590F\u3001\u6D77\u5E15\u897F\u5A6D\uFF0C\u8457\u540D\u7684\u5E0C\u81D8\u5316\u53E4\u57C3\u53CA\u65B0\u67CF\u62C9\u5716\u4E3B\u7FA9\u5B78\u8005\uFF0C\u662F\u7576\u6642\u540D\u91CD\u4E00\u6642\u3001\u5EE3\u53D7\u6B61\u8FCE\u7684\u5973\u6027\u54F2\u5B78\u5BB6\u3001\u6578\u5B78\u5BB6\u3001\u5929\u6587\u5B78\u5BB6\u3001\u4EE5\u53CA\u6559\u5E2B\uFF0C\u5979\u5C45\u4F4F\u5728\u5E0C\u81D8\u5316\u6642\u4EE3\u53E4\u57C3\u53CA\u7684\u4E9E\u6B77\u5C71\u5927\u6E2F\uFF0C\u5C0D\u8A72\u57CE\u7684\u77E5\u8B58\u793E\u7FA4\u505A\u51FA\u4E86\u6975\u5927\u8CA2\u737B\u3002\u6839\u64DA\u5F8C\u4E16\u7814\u7A76\u986F\u793A\uFF0C\u5979\u66FE\u5C0D\u4E1F\u756A\u5716\u7684\u300A\u7B97\u8853\u300B\uFF08Arithmetica\uFF09\u3001\u963F\u6CE2\u7F85\u5C3C\u5967\u65AF\u7684\u300A\u5713\u9310\u66F2\u7DDA\u8AD6\u300B\uFF08Conics\uFF09\u4EE5\u53CA\u6258\u52D2\u5BC6\u7684\u4F5C\u54C1\u505A\u904E\u8A55\u8A3B\uFF0C\u4F46\u5747\u672A\u7559\u5B58\u3002\u5F9E\u5979\u7684\u5B78\u751F\u5BEB\u7D66\u5979\u7684\u4FE1\u4E2D\uFF0C\u53EF\u4EE5\u770B\u51FA\u5979\u7684\u77E5\u8B58\u80CC\u666F\uFF1A\u5979\u5C6C\u67CF\u62C9\u5716\u5B78\u6D3E\u2500\u2500\u96D6\u7136\u6211\u5011\u53EA\u80FD\u5047\u8A2D\u5979\u66FE\u63A1\u7D0D\u666E\u7F85\u63D0\u8AFE\u7684\u5B78\u8AAA\uFF08\u666E\u7F85\u63D0\u7D0D\u65AF\u70BA\u516C\u5143\u4E09\u4E16\u7D00\u6642\u7684\u67CF\u62C9\u5716\u9580\u4EBA\uFF0C\u4E5F\u662F\u65B0\u67CF\u62C9\u5716\u5B78\u6D3E\u7684\u5275\u59CB\u8005\uFF09\u3002\u53E6\u5916\u6709\u5C11\u8A31\u8B49\u64DA\u986F\u793A\uFF0C\u5E0C\u5E15\u63D0\u5A6D\u5728\u79D1\u5B78\u4E0A\u6700\u77E5\u540D\u7684\u8CA2\u737B\uFF0C\u70BA\u767C\u660E\u4E86\u4EE5\u53CA\u6BD4\u91CD\u8A08\u3002\u5979\u6700\u5F8C\u88AB\u66B4\u5F92\u8FEB\u5BB3\u6BBA\u6B7B\u30022009\u5E74\u5176\u751F\u5E73\u88AB\u6539\u7F16\u6210\u897F\u73ED\u7259\u7535\u5F71\u300A\u98A8\u66B4\u4F73\u4EBA\u300B\u642C\u4E0A\u94F6\u5E55\u3002"@zh ,
+		"\uD788\uD30C\uD2F0\uC544(\uACE0\uB300 \uADF8\uB9AC\uC2A4\uC5B4: \u1F59\u03C0\u03B1\u03C4\u03AF\u03B1, 355\uB144 - 415\uB144)\uB294 \uACE0\uB300 \uC774\uC9D1\uD2B8 \uC54C\uB809\uC0B0\uB4DC\uB9AC\uC544\uC5D0\uC11C \uD65C\uB3D9\uD55C \uC2E0\uD50C\uB77C\uD1A4\uC8FC\uC758\uC758 \uB300\uD45C\uC801\uC778 \uADF8\uB9AC\uC2A4\uACC4 \uC5EC\uC131 \uCCA0\uD559\uC790, \uC218\uD559\uC790\uC774\uB2E4."@ko ,
+		"\u0397 \u03A5\u03C0\u03B1\u03C4\u03AF\u03B1 (\u0391\u03BB\u03B5\u03BE\u03AC\u03BD\u03B4\u03C1\u03B5\u03B9\u03B1, 370 - \u0391\u03BB\u03B5\u03BE\u03AC\u03BD\u03B4\u03C1\u03B5\u03B9\u03B1, 8 \u039C\u03B1\u03C1\u03C4\u03AF\u03BF\u03C5 415) \u03AE\u03C4\u03B1\u03BD \u0395\u03BB\u03BB\u03B7\u03BD\u03AF\u03B4\u03B1 \u03BD\u03B5\u03BF\u03C0\u03BB\u03B1\u03C4\u03C9\u03BD\u03B9\u03BA\u03AE \u03C6\u03B9\u03BB\u03CC\u03C3\u03BF\u03C6\u03BF\u03C2, \u03B1\u03C3\u03C4\u03C1\u03BF\u03BD\u03CC\u03BC\u03BF\u03C2 \u03BA\u03B1\u03B9 \u03BC\u03B1\u03B8\u03B7\u03BC\u03B1\u03C4\u03B9\u03BA\u03CC\u03C2, \u03B4\u03B9\u03B5\u03C5\u03B8\u03CD\u03BD\u03C4\u03C1\u03B9\u03B1 \u03C4\u03B7\u03C2 \u03BD\u03B5\u03BF\u03C0\u03BB\u03B1\u03C4\u03C9\u03BD\u03B9\u03BA\u03AE\u03C2 \u03C3\u03C7\u03BF\u03BB\u03AE\u03C2 \u03C3\u03C4\u03B7\u03BD \u0391\u03BB\u03B5\u03BE\u03AC\u03BD\u03B4\u03C1\u03B5\u03B9\u03B1. \u0394\u03AF\u03B4\u03B1\u03BE\u03B5 \u03C6\u03B9\u03BB\u03BF\u03C3\u03BF\u03C6\u03AF\u03B1 \u03BA\u03B1\u03B9 \u03B1\u03C3\u03C4\u03C1\u03BF\u03BD\u03BF\u03BC\u03AF\u03B1 \u03C3\u03C4\u03B7\u03BD \u0391\u03BB\u03B5\u03BE\u03AC\u03BD\u03B4\u03C1\u03B5\u03B9\u03B1, \u03CC\u03C0\u03BF\u03C5 \u03BA\u03B1\u03B9 \u03B4\u03BF\u03BB\u03BF\u03C6\u03BF\u03BD\u03AE\u03B8\u03B7\u03BA\u03B5 \u03B1\u03C0\u03CC \u03CC\u03C7\u03BB\u03BF \u03C0\u03BF\u03C5 \u03B1\u03C0\u03BF\u03C4\u03B5\u03BB\u03BF\u03CD\u03BD\u03C4\u03B1\u03BD \u03B1\u03C0\u03CC \u03C6\u03B1\u03BD\u03B1\u03C4\u03B9\u03BA\u03BF\u03CD\u03C2 \u03C7\u03C1\u03B9\u03C3\u03C4\u03B9\u03B1\u03BD\u03BF\u03CD\u03C2."@el ,
+		"Hipatia\u2009\u200B (\u1F59\u03C0\u03B1\u03C4\u03AF\u03B1: Alejandr\u00EDa, 355 o 370-ib\u00EDd., marzo de 415 o 416\u200B) fue una fil\u00F3sofa y maestra neoplat\u00F3nica griega, natural de Egipto,\u200B que destac\u00F3 en los campos de las matem\u00E1ticas y la astronom\u00EDa,\u200B miembro y cabeza de la Escuela neoplat\u00F3nica de Alejandr\u00EDa a comienzos del siglo V. Seguidora de Plotino, cultiv\u00F3 los estudios l\u00F3gicos y las ciencias exactas, llevando una vida asc\u00E9tica. Educ\u00F3 a una selecta escuela de arist\u00F3cratas cristianos y paganos que ocuparon altos cargos, entre los que sobresalen el obispo Sinesio de Cirene \u2014que mantuvo una importante correspondencia con ella\u2014, Hesiquio de Alejandr\u00EDa y Orestes, prefecto de Egipto en el momento de su muerte."@es ,
+		"Ip\u00E0zia (in greco antico: \u1F59\u03C0\u03B1\u03C4\u03AF\u03B1, Hypat\u00EDa, in latino: Hypatia; Alessandria d'Egitto, 350/370 \u2013 Alessandria d'Egitto, marzo 415) \u00E8 stata una matematica, astronoma e filosofa greca antica.Rappresentante della filosofia neo-platonica, la sua uccisione da parte di una folla di cristiani in tumulto, per alcuni autori composta di monaci detti parabolani, l'ha resa secondo il teosofo Augusto Agabiti una \u00ABmartire della libert\u00E0 di pensiero\u00BB."@it ,
+		"Fealsamh agus eola\u00ED Nua-Phlat\u00F3nach ab ea Hypatia n\u00F3 Hypatia Chathair Alastair (Gr\u00E9igis: Hypatia, \u1F59\u03C0\u03B1\u03C4\u03AF\u03B1; (c. 370 - M\u00E1rta 415). Bh\u00ED c\u00E1il uirthi go h\u00E1irithe mar mhatamaiticeoir agus r\u00E9alteola\u00ED. Teagasc\u00F3ir agus ceannaire ar Scoil Nua-Phlat\u00F3nach Chathair Alastair a bh\u00ED inti. \u00C1ir\u00EDtear \u00ED mar an ch\u00E9ad bhean a raibh p\u00E1irt mh\u00F3r aici i bhforbairt na matamaitice."@ga ,
+		"Hypatia z Alexandrie  (\u0159ecky \u201B\u03A5\u03C0\u03B1\u03C4\u03AF\u03B1 \u2013 Hypati\u00E1, v \u010De\u0161tin\u011B t\u00E9\u017E Hypatie; mezi lety 350/370 \u2013 b\u0159ezen 415, p\u0159\u00EDp. 416) byla pohansk\u00E1 platonsk\u00E1 \u010Di sp\u00ED\u0161e novoplatonsk\u00E1 filosofka a prvn\u00ED historicky zn\u00E1m\u00E1 matemati\u010Dka \u017Eij\u00EDc\u00ED v z\u00E1v\u011Bru \u0159ecko-\u0159\u00EDmsk\u00E9 doby v egyptsk\u00E9 Alexandrii, \u201Epova\u017Eovan\u00E1 za jednu z hlavn\u00EDch postav pohansk\u00E9 filosofie a v\u00EDry v t\u00E9 dob\u011B.\u201C Sv\u00FDmi sou\u010Dasn\u00EDky byla pokl\u00E1d\u00E1na za charismatick\u00E9ho u\u010Ditele a v\u00FDznamn\u00E9ho u\u010Dence se zna\u010Dn\u00FDm rozsahem odbornosti. Sou\u010Dasn\u011B po\u017E\u00EDvala ve m\u011Bst\u011B v\u0161eobecn\u00E9 obliby a \u00FActy. Jej\u00ED p\u016Fsoben\u00ED bylo dokladem \u017Eivotaschopnosti pozdn\u011B antick\u00E9 tradice jako intelektu\u00E1ln\u00ED a do jist\u00E9 m\u00EDry i n\u00E1bo\u017Eensk\u00E9 alternativy k tehdy u\u017E dominuj\u00EDc\u00EDmu k\u0159es\u0165anstv\u00ED. P\u0159esto\u017Ee na rozd\u00EDl od jin\u00FDch novoplatonik\u016F nezauj\u00EDmala protik\u0159es\u0165anskou pozici a velmi pravd\u011Bpodobn\u011B sama stejn\u011B jako jej\u00ED k\u0159es\u0165an"@cs ,
+		"\u0413\u0456\u043F\u0430\u0442\u0456\u044F (\u0406\u043F\u0430\u0442\u0456\u044F), \u0432\u0456\u0434\u043E\u043C\u0430 \u044F\u043A \u0413\u0456\u043F\u0430\u0442\u0456\u044F \u0437 \u0410\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u0440\u0456\u0457 (\u0433\u0440\u0435\u0446. \u1F59\u03C0\u1FB0\u03C4\u03AF\u03B1 \u1F21 \u1F08\u03BB\u03B5\u03BE\u03AC\u03BD\u03B4\u03C1\u03B5\u1FD6\u03B1) (*\u0431\u043B. 350-370 \u2014 \u2020415) \u2014 \u0433\u0440\u0435\u0446\u044C\u043A\u0430 \u0444\u0456\u043B\u043E\u0441\u043E\u0444, \u043C\u0430\u0442\u0435\u043C\u0430\u0442\u0438\u043A \u0456 \u0430\u0441\u0442\u0440\u043E\u043D\u043E\u043C, \u0449\u043E \u043F\u0440\u0430\u0446\u044E\u0432\u0430\u043B\u0430 \u0432 \u0410\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u0440\u0456\u0457. \u0414\u043E\u0447\u043A\u0430 \u043C\u0430\u0442\u0435\u043C\u0430\u0442\u0438\u043A\u0430 , \u043E\u0441\u0442\u0430\u043D\u043D\u044C\u043E\u0433\u043E \u0443\u043F\u0440\u0430\u0432\u0438\u0442\u0435\u043B\u044F \u0410\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u0440\u0456\u0439\u0441\u044C\u043A\u043E\u0457 \u0431\u0456\u0431\u043B\u0456\u043E\u0442\u0435\u043A\u0438. \u041F\u043E\u0441\u043B\u0456\u0434\u043E\u0432\u043D\u0438\u0446\u044F \u043D\u0435\u043E\u043F\u043B\u0430\u0442\u043E\u043D\u0456\u0432\u0441\u044C\u043A\u043E\u0457 \u0448\u043A\u043E\u043B\u0438 \u042F\u043C\u0432\u043B\u0456\u0445\u0430. \u0417\u0430\u0439\u043C\u0430\u043B\u0430\u0441\u044F \u043E\u0431\u0447\u0438\u0441\u043B\u0435\u043D\u043D\u044F\u043C \u0430\u0441\u0442\u0440\u043E\u043D\u043E\u043C\u0456\u0447\u043D\u0438\u0445 \u0442\u0430\u0431\u043B\u0438\u0446\u044C, \u043D\u0430\u043F\u0438\u0441\u0430\u043B\u0430 \u043A\u043E\u043C\u0435\u043D\u0442\u0430\u0440\u0456 \u0434\u043E \u0442\u0432\u043E\u0440\u0456\u0432 \u0410\u043F\u043E\u043B\u043B\u043E\u043D\u0456\u044F (\u0449\u043E\u0434\u043E \u043A\u043E\u043D\u0456\u0447\u043D\u0438\u0445 \u043F\u0435\u0440\u0435\u0442\u0438\u043D\u0456\u0432) \u0456 \u0414\u0456\u043E\u0444\u0430\u043D\u0442\u0430 (\u0437 \u0430\u0440\u0438\u0444\u043C\u0435\u0442\u0438\u043A\u0438), \u044F\u043A\u0456 \u043D\u0435 \u0437\u0431\u0435\u0440\u0435\u0433\u043B\u0438\u0441\u044F. \u0413\u0456\u043F\u0430\u0442\u0456\u044F \u0431\u0440\u0430\u043B\u0430 \u0443\u0447\u0430\u0441\u0442\u044C \u0443 \u0433\u0440\u043E\u043C\u0430\u0434\u0441\u044C\u043A\u0438\u0445 \u0441\u043F\u0440\u0430\u0432\u0430\u0445 \u043C\u0456\u0441\u0442\u0430 \u0456 \u043A\u043E\u0440\u0438\u0441\u0442\u0443\u0432\u0430\u043B\u0430\u0441\u044F \u0437\u043D\u0430\u0447\u043D\u043E\u044E \u043F\u043E\u043F\u0443\u043B\u044F\u0440\u043D\u0456\u0441\u0442\u044E. \u0413\u0456\u043F\u0430\u0442\u0456\u044F \u0431\u0443\u043B\u0430 \u043F\u0440\u043E\u043E\u0431\u0440\u0430\u0437\u043E\u043C \u0421\u0432\u044F\u0442\u043E\u0457 \u041A\u0430\u0442\u0435\u0440\u0438\u043D\u0438."@uk ,
+		"\u0647\u064A\u0628\u0627\u062A\u064A\u0627 \u0627\u0644\u0633\u0643\u0646\u062F\u0631\u064A\u0629 (350-370 \u062A\u0642\u0631\u064A\u0628\u064B\u0627 - 415) (\u0628\u0627\u0644\u064A\u0648\u0646\u0627\u0646\u064A\u0629: \u03A5\u03C0\u03B1\u03C4\u03AF\u03B1) \u0647\u064A \u0641\u064A\u0644\u0633\u0648\u0641\u0629 \u062A\u062E\u0635\u0635\u062A \u0641\u064A \u0627\u0644\u0641\u0644\u0633\u0641\u0629 \u0627\u0644\u0623\u0641\u0644\u0627\u0637\u0648\u0646\u064A\u0629 \u0627\u0644\u0645\u062D\u062F\u062B\u0629\u060C \u0648\u0647\u064A \u062A\u0639\u062F \u0623\u0648\u0644 \u0627\u0645\u0631\u0623\u0629 \u0641\u064A \u0627\u0644\u062A\u0627\u0631\u064A\u062E \u064A\u0644\u0645\u0639 \u0627\u0633\u0645\u0647\u0627 \u0643\u0639\u0627\u0644\u0645\u0629 \u0631\u064A\u0627\u0636\u064A\u0627\u062A\u060C \u0643\u0645\u0627 \u0644\u0645\u0639\u062A \u0641\u064A \u062A\u062F\u0631\u064A\u0633 \u0627\u0644\u0641\u0644\u0633\u0641\u0629 \u0648\u0639\u0644\u0645 \u0627\u0644\u0641\u0644\u0643. \u0643\u0627\u0646\u062A \u0647\u064A\u0628\u0627\u062A\u064A\u0627 \u062A\u062A\u0628\u0639 \u0627\u0644\u0645\u062F\u0631\u0633\u0629 \u0627\u0644\u0623\u0641\u0644\u0627\u0637\u0648\u0646\u064A\u0629 \u0627\u0644\u0645\u062D\u062F\u062B\u0629 \u0627\u0644\u0641\u0644\u0633\u0641\u064A\u0629 \u0627\u0644\u0642\u062F\u064A\u0645\u0629\u060C \u0644\u0630\u0627 \u0641\u0643\u0627\u0646\u062A \u062A\u062A\u0628\u0639 \u0627\u0644\u0646\u0647\u062C \u0627\u0644\u0631\u064A\u0627\u0636\u064A \u0644\u0623\u0643\u0627\u062F\u064A\u0645\u064A\u0629 \u0623\u0641\u0644\u0627\u0637\u0648\u0646 \u0641\u064A \u0623\u062B\u064A\u0646\u0627\u060C \u0627\u0644\u062A\u064A \u0645\u062B\u0651\u0644\u0647\u0627 \u0625\u064A\u0648\u062F\u0648\u0643\u064A\u0648\u0633 \u0627\u0644\u0643\u0646\u064A\u062F\u0648\u0633\u064A\u060C \u062A\u0623\u062B\u0631\u062A \u0647\u064A\u0628\u0627\u062A\u064A\u0627 \u0628\u0641\u0643\u0631 \u0623\u0641\u0644\u0648\u0637\u064A\u0646 \u0627\u0644\u0630\u064A \u0639\u0627\u0634 \u0641\u064A \u0627\u0644\u0642\u0631\u0646 \u0627\u0644\u062B\u0627\u0644\u062B \u0627\u0644\u0645\u064A\u0644\u0627\u062F\u064A\u060C \u0627\u0644\u0630\u064A \u0643\u0627\u0646 \u064A\u0641\u0636\u0651\u0644 \u0627\u0644\u062F\u0631\u0627\u0633\u0629 \u0627\u0644\u0645\u0646\u0637\u0642\u064A\u0629 \u0648\u0627\u0644\u0631\u064A\u0627\u0636\u064A\u0627\u062A\u064A\u0629 \u0628\u062F\u0644\u0627\u064B \u0645\u0646 \u0627\u0644\u0645\u0639\u0631\u0641\u0629 \u0627\u0644\u062A\u062C\u0631\u064A\u0628\u064A\u0629\u060C \u0648\u064A\u0631\u0649 \u0623\u0646 \u0644\u0644\u0642\u0627\u0646\u0648\u0646 \u0623\u0641\u0636\u0644\u064A\u0629 \u0639\u0644\u0649 \u0627\u0644\u0637\u0628\u064A\u0639\u0629. \u062D\u064A\u0627\u0629 \u0627\u0644\u0639\u0642\u0644 \u0644\u0623\u062A\u0628\u0627\u0639 \u0623\u0641\u0644\u0648\u0637\u064A\u0646 \u0643\u0627\u0646 \u0627\u0644\u0647\u062F\u0641 \u0645\u0646\u0647\u0627 \u0627\u0644\u0627\u062A\u062D\u0627\u062F \u0645\u0639 \u0627\u0644\u0635\u0648\u0641\u064A\u0629 \u0627\u0644\u0625\u0644\u0647\u064A\u0629."@ar ,
+		"Hypatia z Aleksandrii (gr. \u1F59\u03C0\u03B1\u03C4\u03AF\u03B1, ur. ok. 355 lub 370 r., zm. w marcu 415 r. w Aleksandrii) \u2013 aleksandryjska filozofka neoplato\u0144ska, matematyczka; c\u00F3rka Teona z Aleksandrii. Zwana r\u00F3wnie\u017C \u201Em\u0119czennic\u0105 nauki\u201D. Legenda przypisuje Hypatii wynalezienie astrolabium i rodzaju areometru."@pl ,
+		"Hypatia av Alexandria (grekiska: \u1F59\u03C0\u03B1\u03C4\u03AF\u03B1), f\u00F6dd ca 350\u2013370 e.Kr., d\u00F6d mars 415 (m\u00F6rdad), var en grekisk filosof av den nyplatonska skolan, matematiker och astronom, som levde i Alexandria i Egypten, d\u00E5 del av det \u00D6stromerska riket. Hon var dotter till matematikern, filosofen och astronomen Theon. Hon studerade faderns \u00E4mnen under dennes ledning och anses vara den f\u00F6rsta k\u00E4nda kvinnliga matematikern vars liv \u00E4r v\u00E4ldokumenterat."@sv ,
+		"\u0413\u0438\u043F\u0430\u0301\u0442\u0438\u044F \u0410\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u0440\u0438\u0301\u0439\u0441\u043A\u0430\u044F (\u0434\u0440.-\u0433\u0440\u0435\u0447. \u1F59\u03C0\u1FB0\u03C4\u03AF\u03B1 \u1F21 \u1F08\u03BB\u03B5\u03BE\u03AC\u03BD\u03B4\u03C1\u03B5\u1FD6\u03B1; (350/370 (?) \u2014 \u043C\u0430\u0440\u0442 415) \u2014 \u043F\u043E\u0437\u0434\u043D\u0435\u044D\u043B\u043B\u0438\u043D\u0438\u0441\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0439 \u0444\u0438\u043B\u043E\u0441\u043E\u0444-\u043D\u0435\u043E\u043F\u043B\u0430\u0442\u043E\u043D\u0438\u043A, \u043C\u0430\u0442\u0435\u043C\u0430\u0442\u0438\u043A, \u0430\u0441\u0442\u0440\u043E\u043D\u043E\u043C \u0438 \u043C\u0435\u0445\u0430\u043D\u0438\u043A. \u041F\u0440\u0435\u043F\u043E\u0434\u0430\u0432\u0430\u043B\u0430 \u0432 \u0410\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u0440\u0438\u0438; \u0441\u0445\u043E\u043B\u0430\u0440\u0445 \u0448\u043A\u043E\u043B\u044B \u0422\u0435\u043E\u043D\u0430-\u0413\u0438\u043F\u0430\u0442\u0438\u0438. \u0420\u0430\u0437\u043D\u043E\u0447\u0442\u0435\u043D\u0438\u044F \u0432 \u043D\u0430\u043F\u0438\u0441\u0430\u043D\u0438\u0438 \u0438\u043C\u0435\u043D\u0438 (\u0413\u0438\u043F\u0430\u0442\u0438\u044F \u2014 \u0418\u043F\u0430\u0442\u0438\u044F) \u0441\u0432\u044F\u0437\u0430\u043D\u044B \u0441 \u0444\u043E\u043D\u0435\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u043C\u0438 \u0438\u0437\u043C\u0435\u043D\u0435\u043D\u0438\u044F\u043C\u0438 \u0432 \u0434\u0440\u0435\u0432\u043D\u0435\u0433\u0440\u0435\u0447\u0435\u0441\u043A\u043E\u043C \u044F\u0437\u044B\u043A\u0435 (\u043E\u0444\u043E\u0440\u043C\u043B\u044F\u0432\u0448\u0438\u043C\u0438\u0441\u044F \u0432 IV\u2014V \u0432\u0432.), \u0438\u0441\u0447\u0435\u0437\u043D\u043E\u0432\u0435\u043D\u0438\u0435\u043C \u0433\u0443\u0441\u0442\u043E\u0433\u043E \u043F\u0440\u0438\u0434\u044B\u0445\u0430\u043D\u0438\u044F \u0432 \u043D\u0430\u0447\u0430\u043B\u0435 \u0441\u043B\u043E\u0432\u0430 \u0438 \u0438\u0442\u0430\u0446\u0438\u0437\u043C\u043E\u043C (\u043A\u043B\u0430\u0441\u0441\u0438\u0447\u0435\u0441\u043A\u043E\u0435 \u043F\u0440\u043E\u0438\u0437\u043D\u043E\u0448\u0435\u043D\u0438\u0435 \u2014 \u00AB\u0425\u044E\u043F\u0430\u0442\u0438\u044F\u00BB, \u043F\u0435\u0440\u0435\u0434\u0430\u0432\u0430\u0435\u043C\u043E\u0435 \u043D\u044B\u043D\u0435 \u043F\u043E-\u0440\u0443\u0441\u0441\u043A\u0438 \u043A\u0430\u043A \u00AB\u0413\u0438\u043F\u0430\u0442\u0438\u044F\u00BB; \u0432\u0438\u0437\u0430\u043D\u0442\u0438\u0439\u0441\u043A\u043E\u0435 \u2014 \u00AB\u0418\u043F\u0430\u0442\u0438\u044F\u00BB)."@ru ,
+		"Hypatia (Grieks: \u1F59\u03C0\u03B1\u03C4\u03AF\u03B1) (Alexandri\u00EB, ca. 350-370 - aldaar, maart 415) was een Griekse wiskundige en neoplatonisch filosofe. Zij wordt wel de eerste vrouwelijke wiskundige genoemd. Ze leefde in Alexandri\u00EB (Egypte) en doceerde wiskunde en neoplatonische filosofie. Vanwege haar vooruitstrevende en wetenschappelijke manier van denken en doen werd zij in stukken gereten door een menigte christenen, waarschijnlijk Parabolani. Sommigen beweren dat de patriarch Cyrillus van Alexandri\u00EB daar de hand in had."@nl ,
+		"Hipatia (Alexandria, Egipto, 370 - 415) zientzialari, filosofo, neoplatoniko eta irakaslea izan zen, bere jakinduria eta ikasketekin matematikaren eta astronomiaren garapenean lagundu zuena."@eu ,
+		"Hypatia (auch Hypatia von Alexandria, griechisch \u1F59\u03C0\u03B1\u03C4\u03AF\u03B1 Hypat\u00EDa; * um 355 in Alexandria; \u2020 M\u00E4rz 415 oder M\u00E4rz 416 in Alexandria) war eine griechische sp\u00E4tantike Mathematikerin, Astronomin und Philosophin. Von ihren Werken ist nichts erhalten geblieben, Einzelheiten ihrer Lehre sind nicht bekannt. Sie unterrichtete \u00F6ffentlich und vertrat einen vermutlich mit kynischem Gedankengut angereicherten Neuplatonismus. Als Vertreterin einer nichtchristlichen philosophischen Tradition geh\u00F6rte sie im \u00FCberwiegend christlichen Alexandria der bedr\u00E4ngten paganen Minderheit an. Dennoch konnte sie lange unangefochten lehren und erfreute sich hohen Ansehens. Schlie\u00DFlich wurde sie aber das Opfer eines politischen Machtkampfs, in dem der Kirchenlehrer Kyrill von Alexandria religi\u00F6se Gegens\u00E4tze instrumentalisie"@de ;
+	foaf:name	"Hypatia"@en .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+@prefix ns15:	<http://globalwordnet.org/ili/> .
+dbr:Hypatia	skos:exactMatch	ns15:i95644 ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Mort_de_la_philosophe_Hypatie.jpg> ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Hypatia .
+@prefix dct:	<http://purl.org/dc/terms/> .
+dbr:Hypatia	dct:subject	<http://dbpedia.org/resource/Category:4th-century_women_writers> ,
+		<http://dbpedia.org/resource/Category:5th-century_Byzantine_scientists> ,
+		<http://dbpedia.org/resource/Category:4th-century_mathematicians> ,
+		<http://dbpedia.org/resource/Category:5th-century_philosophers> ,
+		<http://dbpedia.org/resource/Category:5th-century_mathematicians> ,
+		<http://dbpedia.org/resource/Category:4th-century_Byzantine_people> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Hypatia	dct:subject	dbc:Roman-era_philosophers ,
+		dbc:Neoplatonists ,
+		dbc:Byzantine-era_pagans ,
+		<http://dbpedia.org/resource/Category:5th-century_Byzantine_people> ,
+		dbc:Hellenistic-era_philosophers ,
+		dbc:Persecution_of_pagans_in_the_late_Roman_Empire ,
+		<http://dbpedia.org/resource/Category:5th-century_Byzantine_writers> ,
+		dbc:Women_inventors ,
+		<http://dbpedia.org/resource/Category:4th-century_Greek_people> ,
+		dbc:Ancient_Greek_women_philosophers ,
+		<http://dbpedia.org/resource/Category:4th-century_philosophers> ,
+		<http://dbpedia.org/resource/Category:4th-century_Byzantine_writers> ,
+		<http://dbpedia.org/resource/Category:4th-century_Romans> ,
+		<http://dbpedia.org/resource/Category:5th-century_women_writers> ,
+		dbc:Ancient_Greek_mathematicians ,
+		dbc:Egyptian_people_of_Greek_descent ,
+		<http://dbpedia.org/resource/Category:5th-century_Egyptian_people> ,
+		dbc:Murdered_women_writers ,
+		<http://dbpedia.org/resource/Category:4th-century_people_of_Roman_Egypt> ,
+		dbc:Murdered_philosophers ,
+		dbc:Ancient_Greek_astronomers ,
+		dbc:Ancient_Greek_women_writers ,
+		dbc:Byzantine_astronomers ,
+		<http://dbpedia.org/resource/Category:4th-century_Byzantine_scientists> ,
+		dbc:Lynching_deaths ,
+		dbc:Ancient_Roman_murder_victims ,
+		dbc:Ancient_Egyptian_women ,
+		dbc:Roman-era_Alexandrians ,
+		<http://dbpedia.org/resource/Category:415_deaths> ,
+		dbc:Women_mathematicians ,
+		<http://dbpedia.org/resource/Category:4th-century_births> ,
+		<http://dbpedia.org/resource/Category:5th-century_Byzantine_women> ,
+		<http://dbpedia.org/resource/Category:4th-century_Byzantine_women> ,
+		dbc:Hypatia ,
+		<http://dbpedia.org/resource/Category:5th-century_astronomers> ,
+		<http://dbpedia.org/resource/Category:5th-century_Romans> ;
+	owl:sameAs	<http://kk.dbpedia.org/resource/\u0413\u0438\u043F\u0430\u0442\u0438\u044F> .
+@prefix dbpedia-eu:	<http://eu.dbpedia.org/resource/> .
+dbr:Hypatia	owl:sameAs	dbpedia-eu:Hipatia_Alexandriakoa .
+@prefix dbpedia-sk:	<http://sk.dbpedia.org/resource/> .
+dbr:Hypatia	owl:sameAs	dbpedia-sk:Hypatia .
+@prefix dbpedia-az:	<http://az.dbpedia.org/resource/> .
+dbr:Hypatia	owl:sameAs	dbpedia-az:Hipatia .
+@prefix dbpedia-war:	<http://war.dbpedia.org/resource/> .
+dbr:Hypatia	owl:sameAs	dbpedia-war:Hypatia .
+@prefix ns22:	<http://ast.dbpedia.org/resource/> .
+dbr:Hypatia	owl:sameAs	ns22:Hipatia ,
+		<http://lv.dbpedia.org/resource/Hip\u0101tija> .
+@prefix dbpedia-simple:	<http://simple.dbpedia.org/resource/> .
+dbr:Hypatia	owl:sameAs	dbpedia-simple:Hypatia ,
+		<http://arz.dbpedia.org/resource/\u0647\u064A\u0628\u0627\u062A\u064A\u0627> ,
+		<http://sr.dbpedia.org/resource/\u0425\u0438\u043F\u0430\u0442\u0438\u0458\u0430> .
+@prefix dbpedia-et:	<http://et.dbpedia.org/resource/> .
+dbr:Hypatia	owl:sameAs	dbpedia-et:Hypatia ,
+		<http://be.dbpedia.org/resource/\u0413\u0456\u043F\u0430\u0446\u0456\u044F_\u0410\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u0440\u044B\u0439\u0441\u043A\u0430\u044F> ,
+		<http://is.dbpedia.org/resource/H\u00FDpat\u00EDa> ,
+		dbr:Hypatia ,
+		<http://pnb.dbpedia.org/resource/\u06C1\u0627\u0626\u06CC\u067E\u06CC\u0634\u06CC\u0627> ,
+		<http://hy.dbpedia.org/resource/\u0540\u056B\u057A\u0561\u057F\u056B\u0561> .
+@prefix ns25:	<http://d-nb.info/gnd/119121409/about/> .
+dbr:Hypatia	owl:sameAs	ns25:rdf ,
+		<http://pms.dbpedia.org/resource/Ipassia_\u00EBd_Lissandria> .
+@prefix dbpedia-eo:	<http://eo.dbpedia.org/resource/> .
+dbr:Hypatia	owl:sameAs	dbpedia-eo:Hipatia ,
+		<http://ky.dbpedia.org/resource/\u0413\u0438\u043F\u0430\u0442\u0438\u044F> ,
+		<http://ca.dbpedia.org/resource/Hip\u00E0tia> .
+@prefix dbpedia-fi:	<http://fi.dbpedia.org/resource/> .
+dbr:Hypatia	owl:sameAs	dbpedia-fi:Hypatia_Aleksandrialainen ,
+		<http://ta.dbpedia.org/resource/\u0B95\u0BC8\u0BAA\u0BCD\u0BAA\u0BC7\u0B9A\u0BBF\u0BAF\u0BBE> ,
+		<http://hu.dbpedia.org/resource/Alexandriai_H\u00FCpatia> .
+@prefix ns28:	<http://mg.dbpedia.org/resource/> .
+dbr:Hypatia	owl:sameAs	ns28:Hypatie .
+@prefix dbpedia-cy:	<http://cy.dbpedia.org/resource/> .
+dbr:Hypatia	owl:sameAs	dbpedia-cy:Hypatia .
+@prefix ns30:	<http://sco.dbpedia.org/resource/> .
+dbr:Hypatia	owl:sameAs	ns30:Hypatia .
+@prefix dbpedia-fy:	<http://fy.dbpedia.org/resource/> .
+dbr:Hypatia	owl:sameAs	dbpedia-fy:Hypatia ,
+		<http://new.dbpedia.org/resource/\u0905\u0932\u0947\u0915\u094D\u091C\u0947\u0928\u094D\u0921\u094D\u0930\u0940\u092F\u093E\u092F\u093E\u092E\u094D\u0939_\u0939\u0947\u092A\u093E\u091F\u093F\u092F\u093E> ,
+		<http://ku.dbpedia.org/resource/H\u00EEpatiya> .
+@prefix ns32:	<https://global.dbpedia.org/id/> .
+dbr:Hypatia	owl:sameAs	ns32:F3Av .
+@prefix dbpedia-hr:	<http://hr.dbpedia.org/resource/> .
+dbr:Hypatia	owl:sameAs	dbpedia-hr:Hipatija ,
+		<http://he.dbpedia.org/resource/\u05D4\u05D9\u05E4\u05D0\u05D8\u05D9\u05D4> .
+@prefix dbpedia-sv:	<http://sv.dbpedia.org/resource/> .
+dbr:Hypatia	owl:sameAs	dbpedia-sv:Hypatia ,
+		<http://fa.dbpedia.org/resource/\u0647\u06CC\u067E\u0627\u062A\u06CC\u0627> ,
+		<http://th.dbpedia.org/resource/\u0E44\u0E2E\u0E1E\u0E32\u0E40\u0E17\u0E35\u0E22> ,
+		<http://pt.dbpedia.org/resource/Hip\u00E1tia> ,
+		<http://ko.dbpedia.org/resource/\uD788\uD30C\uD2F0\uC544> .
+@prefix dbpedia-nn:	<http://nn.dbpedia.org/resource/> .
+dbr:Hypatia	owl:sameAs	dbpedia-nn:Hypatia_av_Alexandria .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Hypatia	owl:sameAs	dbpedia-de:Hypatia ,
+		<http://ar.dbpedia.org/resource/\u0647\u064A\u0628\u0627\u062A\u064A\u0627> .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Hypatia	owl:sameAs	dbpedia-pl:Hypatia_z_Aleksandrii .
+@prefix dbpedia-sh:	<http://sh.dbpedia.org/resource/> .
+dbr:Hypatia	owl:sameAs	dbpedia-sh:Hipatija ,
+		<http://ckb.dbpedia.org/resource/\u06BE\u06CC\u067E\u0627\u062A\u06CC\u0627> .
+@prefix dbpedia-tr:	<http://tr.dbpedia.org/resource/> .
+dbr:Hypatia	owl:sameAs	dbpedia-tr:Hypatia .
+@prefix dbpedia-id:	<http://id.dbpedia.org/resource/> .
+dbr:Hypatia	owl:sameAs	dbpedia-id:Hipatia .
+@prefix ns41:	<http://sw.cyc.com/concept/> .
+dbr:Hypatia	owl:sameAs	ns41:Mx4rKeroZtqWRc-6kQPe4lMvGg ,
+		<http://d-nb.info/gnd/1090258712> ,
+		<http://ja.dbpedia.org/resource/\u30D2\u30E5\u30D1\u30C6\u30A3\u30A2> ,
+		<http://viaf.org/viaf/316731617> ,
+		<http://uk.dbpedia.org/resource/\u0413\u0456\u043F\u0430\u0442\u0456\u044F> .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Hypatia	owl:sameAs	dbpedia-fr:Hypatie .
+@prefix ns43:	<http://lt.dbpedia.org/resource/> .
+dbr:Hypatia	owl:sameAs	ns43:Hipatija ,
+		<http://zh.dbpedia.org/resource/\u5E0C\u5E15\u63D0\u5A6D> ,
+		<http://ru.dbpedia.org/resource/\u0413\u0438\u043F\u0430\u0442\u0438\u044F> ,
+		<http://d-nb.info/gnd/119121409> .
+@prefix dbpedia-ro:	<http://ro.dbpedia.org/resource/> .
+dbr:Hypatia	owl:sameAs	dbpedia-ro:Hypatia_din_Alexandria .
+@prefix dbpedia-da:	<http://da.dbpedia.org/resource/> .
+dbr:Hypatia	owl:sameAs	dbpedia-da:Hypatia_af_Alexandria ,
+		<http://cv.dbpedia.org/resource/\u0413\u0438\u043F\u0430\u0442\u0438> .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:Hypatia	owl:sameAs	dbpedia-es:Hipatia .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Hypatia	owl:sameAs	yago-res:Hypatia ,
+		<http://ur.dbpedia.org/resource/\u06C1\u0627\u0626\u067E\u06CC\u0634\u06CC\u0627> ,
+		<http://el.dbpedia.org/resource/\u03A5\u03C0\u03B1\u03C4\u03AF\u03B1> .
+@prefix dbpedia-la:	<http://la.dbpedia.org/resource/> .
+dbr:Hypatia	owl:sameAs	dbpedia-la:Hypatia .
+@prefix dbpedia-no:	<http://no.dbpedia.org/resource/> .
+dbr:Hypatia	owl:sameAs	dbpedia-no:Hypatia .
+@prefix dbpedia-br:	<http://br.dbpedia.org/resource/> .
+dbr:Hypatia	owl:sameAs	dbpedia-br:Hipatia .
+@prefix ns51:	<http://uz.dbpedia.org/resource/> .
+dbr:Hypatia	owl:sameAs	ns51:Gipatiya ,
+		<http://scn.dbpedia.org/resource/Ip\u00E0zzia> ,
+		<http://bn.dbpedia.org/resource/\u09B9\u09BE\u0987\u09AA\u09C7\u09B6\u09BF\u09AF\u09BC\u09BE> .
+@prefix dbpedia-sl:	<http://sl.dbpedia.org/resource/> .
+dbr:Hypatia	owl:sameAs	dbpedia-sl:Hipatija ,
+		<http://mk.dbpedia.org/resource/\u0425\u0438\u043F\u0430\u0442\u0438\u0458\u0430> ,
+		<http://rdf.freebase.com/ns/m.09kjn> ,
+		wikidata:Q11903 ,
+		<http://ml.dbpedia.org/resource/\u0D39\u0D48\u0D2A\u0D4D\u0D2A\u0D47\u0D37\u0D3F\u0D2F> ,
+		<http://d-nb.info/gnd/1089457707> ,
+		<http://bg.dbpedia.org/resource/\u0425\u0438\u043F\u0430\u0442\u0438\u044F> ,
+		<http://hi.dbpedia.org/resource/\u0939\u093E\u0908\u092A\u0947\u0936\u093F\u092F\u093E> .
+@prefix dbpedia-cs:	<http://cs.dbpedia.org/resource/> .
+dbr:Hypatia	owl:sameAs	dbpedia-cs:Hypatia_z_Alexandrie .
+@prefix dbpedia-vi:	<http://vi.dbpedia.org/resource/> .
+dbr:Hypatia	owl:sameAs	dbpedia-vi:Hypatia .
+@prefix dbpedia-ga:	<http://ga.dbpedia.org/resource/> .
+dbr:Hypatia	owl:sameAs	dbpedia-ga:Hypatia ,
+		<http://si.dbpedia.org/resource/\u0DC4\u0DBA\u0DD2\u0DB4\u0DDA\u0DC2\u0DD2\u0DBA\u0DCF> .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Hypatia	owl:sameAs	dbpedia-it:Ipazia .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Hypatia	owl:sameAs	dbpedia-nl:Hypatia ;
+	schema:sameAs	<http://viaf.org/viaf/316731617> ;
+	dbo:abstract	"\u0647\u064A\u0628\u0627\u062A\u064A\u0627 \u0627\u0644\u0633\u0643\u0646\u062F\u0631\u064A\u0629 (350-370 \u062A\u0642\u0631\u064A\u0628\u064B\u0627 - 415) (\u0628\u0627\u0644\u064A\u0648\u0646\u0627\u0646\u064A\u0629: \u03A5\u03C0\u03B1\u03C4\u03AF\u03B1) \u0647\u064A \u0641\u064A\u0644\u0633\u0648\u0641\u0629 \u062A\u062E\u0635\u0635\u062A \u0641\u064A \u0627\u0644\u0641\u0644\u0633\u0641\u0629 \u0627\u0644\u0623\u0641\u0644\u0627\u0637\u0648\u0646\u064A\u0629 \u0627\u0644\u0645\u062D\u062F\u062B\u0629\u060C \u0648\u0647\u064A \u062A\u0639\u062F \u0623\u0648\u0644 \u0627\u0645\u0631\u0623\u0629 \u0641\u064A \u0627\u0644\u062A\u0627\u0631\u064A\u062E \u064A\u0644\u0645\u0639 \u0627\u0633\u0645\u0647\u0627 \u0643\u0639\u0627\u0644\u0645\u0629 \u0631\u064A\u0627\u0636\u064A\u0627\u062A\u060C \u0643\u0645\u0627 \u0644\u0645\u0639\u062A \u0641\u064A \u062A\u062F\u0631\u064A\u0633 \u0627\u0644\u0641\u0644\u0633\u0641\u0629 \u0648\u0639\u0644\u0645 \u0627\u0644\u0641\u0644\u0643. \u0644\u0627 \u062A\u0648\u062C\u062F \u0645\u0639\u0644\u0648\u0645\u0627\u062A \u0645\u0624\u0643\u062F\u0629 \u0639\u0646 \u062A\u0627\u0631\u064A\u062E \u0645\u064A\u0644\u0627\u062F\u0647\u0627 \u0644\u0643\u0646 \u062F\u0631\u0627\u0633\u0627\u062A \u0623\u062C\u0631\u064A\u062A \u0645\u0624\u062E\u0631\u0627\u064B \u062A\u0634\u064A\u0631 \u0625\u0644\u0649 \u0623\u0646\u0647\u0627 \u0642\u062F \u0648\u0644\u062F\u062A \u0639\u0627\u0645 370\u0645 \u0628\u0627\u0644\u0625\u0633\u0643\u0646\u062F\u0631\u064A\u0629. \u0623\u064A \u0623\u0646\u0647\u0627 \u0643\u0627\u0646\u062A \u062A\u0628\u0644\u063A 45 \u0639\u0627\u0645\u064B\u0627 \u0639\u0646\u062F \u0648\u0641\u0627\u062A\u0647\u0627. \u064A\u0628\u062F\u0648 \u0623\u0646 \u0647\u064A\u064A\u0627\u062A\u064A\u0627 \u0643\u0627\u0646 \u062A\u0639\u0631\u0641 \u0628\u0627\u0633\u0645\u064A\u0646 \u0645\u062E\u062A\u0644\u0641\u064A\u0646 \u0623\u0648 \u0643\u0627\u0646 \u0647\u0646\u0627\u0643 \u0637\u0631\u064A\u0642\u062A\u0627\u0646 \u0644\u0643\u062A\u0627\u0628\u0629 \u0646\u0641\u0633 \u0627\u0644\u0627\u0633\u0645\u060C \u0627\u0644\u0623\u0648\u0644\u0649 \u0647\u064A\u0628\u0627\u062A\u064A\u0627 \u0648\u0627\u0644\u062B\u0627\u0646\u064A\u0629 \u0647\u064A\u0628\u0627\u0634\u064A\u0627. \u0648\u0642\u062F \u0643\u0627\u0646 \u0647\u0646\u0627\u0643 \u0622\u0646\u0630\u0627\u0643 \u0627\u0645\u0631\u0623\u062A\u0627\u0646 \u062A\u062D\u0645\u0644\u0627\u0646 \u0630\u0644\u0643 \u0627\u0644\u0627\u0633\u0645\u060C \u0647\u064A\u0628\u0627\u062A\u064A\u0627 \u0627\u0628\u0646\u0629 \u062B\u064A\u0648\u0646 \u0627\u0644\u0633\u0643\u0646\u062F\u0631\u064A\u060C \u0648\u0647\u064A\u0628\u0627\u062A\u064A\u0627 \u0627\u0628\u0646\u0629 \u0627\u0631\u064A\u062A\u0631\u064A\u0648\u0633. \u0643\u0627\u0646 \u0648\u0627\u0644\u062F \u0627\u0644\u0623\u0648\u0644\u0649 \u0647\u0648 \u0639\u0627\u0644\u0645 \u0627\u0644\u0631\u064A\u0627\u0636\u064A\u0627\u062A \u0648\u0627\u0644\u0641\u0644\u0643 \u0627\u0644\u0634\u0647\u064A\u0631 \u062B\u064A\u0648\u0633 \u0627\u0644\u0630\u064A \u0639\u0627\u0635\u0631 \u0628\u0628\u0633 \u0627\u0644\u0631\u0648\u0645\u064A \u0627\u0644\u0630\u064A \u0639\u0627\u0634 \u0628\u0627\u0644\u0625\u0633\u0643\u0646\u062F\u0631\u064A\u0629 \u062E\u0644\u0627\u0644 \u0641\u062A\u0631\u0629 \u062D\u0643\u0645 \u0627\u0644\u0625\u0645\u0628\u0631\u0627\u0637\u0648\u0631 \u062B\u064A\u0648\u0630\u0648\u0633\u064A\u0648\u0633 \u0627\u0644\u0623\u0648\u0644. \u0648\u0642\u062F \u0627\u0639\u062A\u0628\u0631 \u0643\u064F\u062A\u0651\u0627\u0628 \u0627\u0644\u0633\u064A\u0631\u0629 \u0627\u0644\u0630\u0627\u062A\u064A\u0629 \u0644\u062B\u064A\u0648\u0646\u060C \u0631\u0626\u064A\u0633 \u062C\u0627\u0645\u0639\u0629 \u0627\u0644\u0625\u0633\u0643\u0646\u062F\u0631\u064A\u0629\u060C \u0623\u0646\u0647 \u0643\u0627\u0646 \u0641\u064A\u0644\u0633\u0648\u0641\u064B\u0627. \u0643\u0627\u0646\u062A \u0647\u064A\u0628\u0627\u062A\u064A\u0627 \u062A\u062A\u0628\u0639 \u0627\u0644\u0645\u062F\u0631\u0633\u0629 \u0627\u0644\u0623\u0641\u0644\u0627\u0637\u0648\u0646\u064A\u0629 \u0627\u0644\u0645\u062D\u062F\u062B\u0629 \u0627\u0644\u0641\u0644\u0633\u0641\u064A\u0629 \u0627\u0644\u0642\u062F\u064A\u0645\u0629\u060C \u0644\u0630\u0627 \u0641\u0643\u0627\u0646\u062A \u062A\u062A\u0628\u0639 \u0627\u0644\u0646\u0647\u062C \u0627\u0644\u0631\u064A\u0627\u0636\u064A \u0644\u0623\u0643\u0627\u062F\u064A\u0645\u064A\u0629 \u0623\u0641\u0644\u0627\u0637\u0648\u0646 \u0641\u064A \u0623\u062B\u064A\u0646\u0627\u060C \u0627\u0644\u062A\u064A \u0645\u062B\u0651\u0644\u0647\u0627 \u0625\u064A\u0648\u062F\u0648\u0643\u064A\u0648\u0633 \u0627\u0644\u0643\u0646\u064A\u062F\u0648\u0633\u064A\u060C \u062A\u0623\u062B\u0631\u062A \u0647\u064A\u0628\u0627\u062A\u064A\u0627 \u0628\u0641\u0643\u0631 \u0623\u0641\u0644\u0648\u0637\u064A\u0646 \u0627\u0644\u0630\u064A \u0639\u0627\u0634 \u0641\u064A \u0627\u0644\u0642\u0631\u0646 \u0627\u0644\u062B\u0627\u0644\u062B \u0627\u0644\u0645\u064A\u0644\u0627\u062F\u064A\u060C \u0627\u0644\u0630\u064A \u0643\u0627\u0646 \u064A\u0641\u0636\u0651\u0644 \u0627\u0644\u062F\u0631\u0627\u0633\u0629 \u0627\u0644\u0645\u0646\u0637\u0642\u064A\u0629 \u0648\u0627\u0644\u0631\u064A\u0627\u0636\u064A\u0627\u062A\u064A\u0629 \u0628\u062F\u0644\u0627\u064B \u0645\u0646 \u0627\u0644\u0645\u0639\u0631\u0641\u0629 \u0627\u0644\u062A\u062C\u0631\u064A\u0628\u064A\u0629\u060C \u0648\u064A\u0631\u0649 \u0623\u0646 \u0644\u0644\u0642\u0627\u0646\u0648\u0646 \u0623\u0641\u0636\u0644\u064A\u0629 \u0639\u0644\u0649 \u0627\u0644\u0637\u0628\u064A\u0639\u0629. \u062D\u064A\u0627\u0629 \u0627\u0644\u0639\u0642\u0644 \u0644\u0623\u062A\u0628\u0627\u0639 \u0623\u0641\u0644\u0648\u0637\u064A\u0646 \u0643\u0627\u0646 \u0627\u0644\u0647\u062F\u0641 \u0645\u0646\u0647\u0627 \u0627\u0644\u0627\u062A\u062D\u0627\u062F \u0645\u0639 \u0627\u0644\u0635\u0648\u0641\u064A\u0629 \u0627\u0644\u0625\u0644\u0647\u064A\u0629. \u0639\u0627\u0634\u062A \u0647\u064A\u0628\u0627\u062A\u064A\u0627 \u0641\u064A \u0645\u0635\u0631 \u0627\u0644\u0631\u0648\u0645\u0627\u0646\u064A\u0629\u060C \u0648\u0645\u0627\u062A\u062A \u0639\u0644\u0649 \u064A\u062F \u062D\u0634\u062F \u0645\u0646 \u0627\u0644\u063A\u0648\u063A\u0627\u0621 \u0627\u0644\u0645\u0633\u064A\u062D\u064A\u064A\u0646 \u0628\u0639\u062F \u0627\u062A\u0647\u0627\u0645\u0647\u0627 \u0628\u0645\u0645\u0627\u0631\u0633\u0629 \u0627\u0644\u0633\u062D\u0631 \u0648\u0627\u0644\u0625\u0644\u062D\u0627\u062F \u0648\u0627\u0644\u062A\u0633\u0628\u0628 \u0641\u064A \u0627\u0636\u0637\u0631\u0627\u0628\u0627\u062A \u062F\u064A\u0646\u064A\u0629. \u062A\u0631\u0649 \u0643\u0627\u062B\u0644\u064A\u0646 \u0648\u0627\u064A\u0644\u062F\u0631 \u0623\u0646 \u0645\u0642\u062A\u0644 \u0647\u064A\u0628\u0627\u062A\u064A\u0627 \u064A\u064F\u0639\u062F\u0651 \u0646\u0647\u0627\u064A\u0629 \u0644\u0644\u0639\u0635\u0631 \u0627\u0644\u0643\u0644\u0627\u0633\u064A\u0643\u064A \u0627\u0644\u0642\u062F\u064A\u0645\u060C \u0643\u0645\u0627 \u0644\u0627\u062D\u0638 \u0633\u062A\u064A\u0641\u0646 \u063A\u0631\u064A\u0646\u0628\u0644\u0627\u062A \u0625\u0646 \u0645\u0642\u062A\u0644\u0647\u0627 \"\u0623\u062B\u064E\u0651\u0631 \u0628\u0634\u062F\u0629 \u0641\u064A \u0627\u0646\u062D\u062F\u0627\u0631 \u0627\u0644\u062D\u064A\u0627\u0629 \u0627\u0644\u0641\u0643\u0631\u064A\u0629 \u0627\u0644\u0633\u0643\u0646\u062F\u0631\u064A\u064E\u0651\u0629\"\u060C \u0648\u0639\u0644\u0649 \u0627\u0644\u0646\u0642\u064A\u0636 \u0641\u064A\u0631\u0649 \u0643\u0631\u064A\u0633\u062A\u064A\u0627\u0646 \u0641\u064A\u0644\u062F\u0628\u0631\u063A \u0648\u0645\u0627\u0631\u064A\u0627 \u0632\u064A\u0644\u064A\u0633\u0643\u0627 \u0623\u0646 \u0627\u0644\u0641\u0644\u0633\u0641\u0629 \u0627\u0644\u0647\u0644\u0646\u0633\u062A\u064A\u0629 \u0638\u0644\u062A \u0641\u064A \u062D\u0627\u0644\u0629 \u0645\u062A\u0623\u0644\u0642\u0629 \u062E\u0644\u0627\u0644 \u0627\u0644\u0642\u0631\u0646\u064A\u0646 \u0627\u0644\u062E\u0627\u0645\u0633 \u0648\u0627\u0644\u0633\u0627\u062F\u0633\u060C \u0648\u0631\u0628\u0645\u0627 \u062D\u062A\u0649 \u0625\u0628\u064E\u0651\u0627\u0646 \u0639\u0647\u062F \u0627\u0644\u0625\u0645\u0628\u0631\u0627\u0637\u0648\u0631 \u062C\u0633\u062A\u064A\u0646\u064A\u0627\u0646 \u0627\u0644\u0623\u0648\u0644."@ar ,
+		"Hypatia av Alexandria (grekiska: \u1F59\u03C0\u03B1\u03C4\u03AF\u03B1), f\u00F6dd ca 350\u2013370 e.Kr., d\u00F6d mars 415 (m\u00F6rdad), var en grekisk filosof av den nyplatonska skolan, matematiker och astronom, som levde i Alexandria i Egypten, d\u00E5 del av det \u00D6stromerska riket. Hon var dotter till matematikern, filosofen och astronomen Theon. Hon studerade faderns \u00E4mnen under dennes ledning och anses vara den f\u00F6rsta k\u00E4nda kvinnliga matematikern vars liv \u00E4r v\u00E4ldokumenterat."@sv ,
+		"\u0397 \u03A5\u03C0\u03B1\u03C4\u03AF\u03B1 (\u0391\u03BB\u03B5\u03BE\u03AC\u03BD\u03B4\u03C1\u03B5\u03B9\u03B1, 370 - \u0391\u03BB\u03B5\u03BE\u03AC\u03BD\u03B4\u03C1\u03B5\u03B9\u03B1, 8 \u039C\u03B1\u03C1\u03C4\u03AF\u03BF\u03C5 415) \u03AE\u03C4\u03B1\u03BD \u0395\u03BB\u03BB\u03B7\u03BD\u03AF\u03B4\u03B1 \u03BD\u03B5\u03BF\u03C0\u03BB\u03B1\u03C4\u03C9\u03BD\u03B9\u03BA\u03AE \u03C6\u03B9\u03BB\u03CC\u03C3\u03BF\u03C6\u03BF\u03C2, \u03B1\u03C3\u03C4\u03C1\u03BF\u03BD\u03CC\u03BC\u03BF\u03C2 \u03BA\u03B1\u03B9 \u03BC\u03B1\u03B8\u03B7\u03BC\u03B1\u03C4\u03B9\u03BA\u03CC\u03C2, \u03B4\u03B9\u03B5\u03C5\u03B8\u03CD\u03BD\u03C4\u03C1\u03B9\u03B1 \u03C4\u03B7\u03C2 \u03BD\u03B5\u03BF\u03C0\u03BB\u03B1\u03C4\u03C9\u03BD\u03B9\u03BA\u03AE\u03C2 \u03C3\u03C7\u03BF\u03BB\u03AE\u03C2 \u03C3\u03C4\u03B7\u03BD \u0391\u03BB\u03B5\u03BE\u03AC\u03BD\u03B4\u03C1\u03B5\u03B9\u03B1. \u0394\u03AF\u03B4\u03B1\u03BE\u03B5 \u03C6\u03B9\u03BB\u03BF\u03C3\u03BF\u03C6\u03AF\u03B1 \u03BA\u03B1\u03B9 \u03B1\u03C3\u03C4\u03C1\u03BF\u03BD\u03BF\u03BC\u03AF\u03B1 \u03C3\u03C4\u03B7\u03BD \u0391\u03BB\u03B5\u03BE\u03AC\u03BD\u03B4\u03C1\u03B5\u03B9\u03B1, \u03CC\u03C0\u03BF\u03C5 \u03BA\u03B1\u03B9 \u03B4\u03BF\u03BB\u03BF\u03C6\u03BF\u03BD\u03AE\u03B8\u03B7\u03BA\u03B5 \u03B1\u03C0\u03CC \u03CC\u03C7\u03BB\u03BF \u03C0\u03BF\u03C5 \u03B1\u03C0\u03BF\u03C4\u03B5\u03BB\u03BF\u03CD\u03BD\u03C4\u03B1\u03BD \u03B1\u03C0\u03CC \u03C6\u03B1\u03BD\u03B1\u03C4\u03B9\u03BA\u03BF\u03CD\u03C2 \u03C7\u03C1\u03B9\u03C3\u03C4\u03B9\u03B1\u03BD\u03BF\u03CD\u03C2."@el ,
+		"Hipatia, greke Y\u03C0\u03B1\u03C4\u03AF\u03B1, (a\u016D Hipatio) naski\u011Dis \u0109irka\u016D 370 en Aleksandrio - murdita la 12-an de marto 415 en Aleksandrio) estis filozofino helena. \u015Ci anka\u016D estis la unua matematikistino en historio. \u015Ci estis filino kaj lernantino de Teono el Aleksandrio. \u015Ci poste instruis sciencojn al  kiu estis poste episkopo de . Instruante \u015Di havis multajn problemojn ka\u016Dze de \u015Dia ineco. \u015Ci ne estis kristanino tial \u015Dia kontra\u016Dulo estis . \u015Ci tamen estis protektita de  la guberniestro de Aleksandrio kies \u015Di estis konsilistino. La kontrastoj inter Cirilo kaj Orestes akri\u011Dis \u011Dispunkte impliki anka\u016D Hipatian, kies filozofia skolo altiris anka\u016D kristanojn: unu el tiuj \u015Diaj \u015Datantoj estis Sinezio el Cireno estonta kristana episkopo. Aprecoj pri \u015Di naski\u011Dis anka\u016D el la fakto ke \u015Di, konfesante novplatonismon, se ne estis kristana, certe ne plu adheris al la tradicia paganismo. En la kontrasto inter la du, pro la provo de Orestes cezaropapisme gvidi anka\u016D la ekleziajn aferojn, inter la du intermeti\u011Dis tria protagonisto: la kristanoj, precipe mona\u0125oj, nomataj \u201Cparabolaroj\u201D pro ilia sinteno simila al tiuj de la iamaj gladiatoroj. Ilia centra doktrino estis fanatika ser\u0109ado de martiro (ili flegis pestajn malsanulojn kun la espero trafi\u011Dis per la konta\u011Don kaj tiel mortis pro amo al la proksimularo!). Iuj el tiuj, suspektitaj je herezo far la espiskopo Cirilo, en la marto 415 grupe sturmis la sesdekjara\u011Dan Hipatian kaj kruele \u015Din mortigis \u015Din akuzante kiel la ka\u016Dzo de la kontrasto inter regno kaj eklezio kaj pro akuzo pri magio kaj nekromancio. Facile naski\u011Dis vo\u0109o ke komisiinto estis episkopo Sankta Cirilo, kiu ne batalis kontra\u016D paganismo (preska\u016D ne plu ekzistanta en la urbo) a\u016D novplatonismo sed kontra\u016D diversaj kristanaj, beda\u016Drinde ne pacigaj, herezuloj. La kristanaro de Aleksandrio jam mortigis sian episkopon, en 361, Georgon el Kapadokio, kaj tion ripetados en 467 mortigante Proterion, episkopon senditan el Konstantinopolo. Hipatia en la posta kristana medio estis kutime konsiderita estiminda: Raffaello Sanzio imagas \u015Din belega junulino, serioze rigardanta al publiko, en la fama vatikana pentra\u0135o \u201CScuola di Ateno\u201D (Lernejo de Ateno [1] Probable \u0109iuj verkoj de Hipatia estis en la bruligita biblioteko de la Aleksandrio tamen oni scias ke \u015Di komentis Almagest de Ptolemeo kaj Aritmetikon de Diofanto. La\u016D iuj rakontoj, \u015Di estas kredata esti la inventisto de la astrolabo kaj la . La memoro pri Hipatia konservi\u011Dis viva inter la intelektularo kristana. La katolika profesoro pri literaturo, kaj eminenta poeto, , dedi\u0109is al la martireco de la pagana pensistino ardan dramon versforman, en kiu la martirigita korpo de la virino estas alproksimigita, senhezite, al tiu de Kristo, la \u015Dafido misfigura... La dramo estis enscenigita en Milano."@eo ,
+		"Hipatia\u2009\u200B (\u1F59\u03C0\u03B1\u03C4\u03AF\u03B1: Alejandr\u00EDa, 355 o 370-ib\u00EDd., marzo de 415 o 416\u200B) fue una fil\u00F3sofa y maestra neoplat\u00F3nica griega, natural de Egipto,\u200B que destac\u00F3 en los campos de las matem\u00E1ticas y la astronom\u00EDa,\u200B miembro y cabeza de la Escuela neoplat\u00F3nica de Alejandr\u00EDa a comienzos del siglo V. Seguidora de Plotino, cultiv\u00F3 los estudios l\u00F3gicos y las ciencias exactas, llevando una vida asc\u00E9tica. Educ\u00F3 a una selecta escuela de arist\u00F3cratas cristianos y paganos que ocuparon altos cargos, entre los que sobresalen el obispo Sinesio de Cirene \u2014que mantuvo una importante correspondencia con ella\u2014, Hesiquio de Alejandr\u00EDa y Orestes, prefecto de Egipto en el momento de su muerte. Hija y disc\u00EDpula del astr\u00F3nomo Te\u00F3n, Hipatia fue la primera mujer matem\u00E1tica de la que se tiene conocimiento razonablemente seguro y detallado. Escribi\u00F3 sobre geometr\u00EDa, \u00E1lgebra y astronom\u00EDa, mejor\u00F3 el dise\u00F1o de los primitivos astrolabios \u2014instrumentos para determinar las posiciones de las estrellas sobre la b\u00F3veda celeste\u2014 e invent\u00F3 un dens\u00EDmetro, por ello est\u00E1 considerada como una pionera en la historia de las mujeres en la ciencia.\u200B Hipatia fue asesinada a los 45 o 60 a\u00F1os (dependiendo de cu\u00E1l sea su fecha correcta de nacimiento), linchada por una turba de cristianos. La motivaci\u00F3n de los asesinos y su vinculaci\u00F3n o no con la autoridad eclesi\u00E1stica ha sido objeto de muchos debates. El asesinato se produjo en el marco de la hostilidad cristiana contra el declinante paganismo y las luchas pol\u00EDticas entre las distintas facciones de la Iglesia, el patriarcado alejandrino y el poder imperial, representado en Egipto por el prefecto Orestes, exalumno de la fil\u00F3sofa. S\u00F3crates Escol\u00E1stico, el historiador m\u00E1s cercano a los hechos, afirma que la muerte de Hipatia fue causa de \u00ABno poco oprobio\u00BB para el patriarca Cirilo y la iglesia de Alejandr\u00EDa,\u200B y fuentes posteriores, tanto paganas como cristianas, le achacan directamente el crimen, por lo que muchos historiadores consideran probada o muy probable la implicaci\u00F3n de Cirilo, si bien el debate al respecto sigue abierto.\u200B Su car\u00E1cter singular de mujer entregada al pensamiento y la ense\u00F1anza en plena tardoantig\u00FCedad, su fidelidad al paganismo en el momento de auge del catolicismo teodosiano como nueva religi\u00F3n del Estado romano, y su muerte a manos de cristianos le han conferido gran fama. La figura de Hipatia se ha convertido en un verdadero mito: desde la \u00E9poca de la Ilustraci\u00F3n se la presenta como a una \u00ABm\u00E1rtir de la ciencia\u00BB y s\u00EDmbolo del fin del pensamiento cl\u00E1sico ante el avance del cristianismo.\u200B No obstante, en la actualidad se destaca que su asesinato fue un caso excepcional y que, de hecho, la escuela neoplat\u00F3nica alejandrina, progresivamente cristianizada, floreci\u00F3 hasta pleno siglo VII.\u200B Por su parte, los movimientos feministas la han reivindicado como paradigma de mujer liberada, incluso sexualmente,\u200B aunque, seg\u00FAn la Suda, estuvo casada con otro fil\u00F3sofo \u2014llamado Isidoro\u2014 y se mantuvo virgen.\u200B Tambi\u00E9n se la ha asociado con la Biblioteca de Alejandr\u00EDa, si bien no hay ninguna referencia que vincule a ambas: se cree que la Gran Biblioteca ptolemaica desapareci\u00F3 en un momento incierto del siglo III, o quiz\u00E1 del IV, y su sucesora, la Biblioteca-hija del Serapeo, fue expoliada en 391. Seg\u00FAn las fuentes, Hipatia ense\u00F1aba a sus disc\u00EDpulos en su propio hogar."@es ,
+		"Hypatie (\u1F59\u03C0\u03B1\u03C4\u03AF\u03B1, n\u00E9e entre 355 et 370 selon les sources et assassin\u00E9e par des chr\u00E9tiens en 415) est une philosophe n\u00E9oplatonicienne, astronome et math\u00E9maticienne grecque d'Alexandrie. Femme de lettres et de sciences, elle est \u00E0 la t\u00EAte de l'\u00E9cole n\u00E9oplatonicienne d'Alexandrie, au sein de laquelle elle enseigne la philosophie et l'astronomie. C'est la premi\u00E8re math\u00E9maticienne dont la vie est bien document\u00E9e. Hypatie est reconnue de son vivant pour \u00EAtre une professeure de renom et une sage conseill\u00E8re. La seule source listant ses \u0153uvres, la Souda, lui attribue un commentaire sur les Arithm\u00E9tiques de Diophante d'Alexandrie, qui aurait peut-\u00EAtre partiellement surv\u00E9cu en se m\u00E9langeant au texte original de Diophante parvenu jusqu'\u00E0 nous, et un autre, perdu, sur le trait\u00E9 d'Apollonios de Perga portant sur les sections coniques. Elle participe par ailleurs au commentaire ou \u00E0 l'\u00E9dition de l'Almageste de Ptol\u00E9m\u00E9e par son p\u00E8re. Elle est aussi capable de construire des astrolabes et des hydrom\u00E8tres. Bien que non chr\u00E9tienne, Hypatie est connue pour sa tol\u00E9rance \u00E0 l'\u00E9gard des premiers chr\u00E9tiens. Elle enseigne ainsi \u00E0 de nombreux \u00E9tudiants chr\u00E9tiens, dont Syn\u00E9sios de Cyr\u00E8ne, futur \u00E9v\u00EAque de Ptol\u00E9ma\u00EFs. Jusqu'\u00E0 la fin de sa vie, Hypatie conseille Oreste, alors pr\u00E9fet d'\u00C9gypte, qui est en conflit ouvert avec Cyrille d'Alexandrie, \u00E9v\u00EAque d'Alexandrie. Des rumeurs indiquant qu'elle entretient le conflit entre Oreste et Cyrille poussent une foule de moines chr\u00E9tiens, en mars 415, \u00E0 l'assassiner, \u00E0 la d\u00E9membrer et \u00E0 la br\u00FBler. Ils sont notamment incit\u00E9s \u00E0 tuer Hypatie par un meneur spirituel nomm\u00E9 Pierre, sous l'influence de Cyrille d'Alexandrie. Sa mort sous les coups des chr\u00E9tiens choque l'Empire et fait d'elle une \u00AB martyre de la philosophie \u00BB, menant les futurs n\u00E9oplatoniciens comme Damascios \u00E0 devenir de fervents opposants au christianisme. Pendant le Moyen \u00C2ge, le symbole d'Hypatie est r\u00E9cup\u00E9r\u00E9 et d\u00E9form\u00E9 pour en faire une incarnation des vertus chr\u00E9tiennes ; elle pourrait \u00EAtre \u00E0 l'origine de la l\u00E9gende de Catherine d'Alexandrie. Pendant le si\u00E8cle des Lumi\u00E8res, elle redevient un symbole de l'opposition au catholicisme. Elle int\u00E8gre la litt\u00E9rature europ\u00E9enne sous l'impulsion de Charles Kingsley en 1853, qui r\u00E9dige un ouvrage romanc\u00E9 sur la vie de la math\u00E9maticienne, puis, au XXe si\u00E8cle, devient une ic\u00F4ne du mouvement pour les droits des femmes et du f\u00E9minisme. Plusieurs descriptions associent sa mort \u00E0 l'incendie de la grande biblioth\u00E8que d'Alexandrie ; les faits d\u00E9montrent pourtant que les deux attaques sont distinctes."@fr ,
+		"Hypatia (auch Hypatia von Alexandria, griechisch \u1F59\u03C0\u03B1\u03C4\u03AF\u03B1 Hypat\u00EDa; * um 355 in Alexandria; \u2020 M\u00E4rz 415 oder M\u00E4rz 416 in Alexandria) war eine griechische sp\u00E4tantike Mathematikerin, Astronomin und Philosophin. Von ihren Werken ist nichts erhalten geblieben, Einzelheiten ihrer Lehre sind nicht bekannt. Sie unterrichtete \u00F6ffentlich und vertrat einen vermutlich mit kynischem Gedankengut angereicherten Neuplatonismus. Als Vertreterin einer nichtchristlichen philosophischen Tradition geh\u00F6rte sie im \u00FCberwiegend christlichen Alexandria der bedr\u00E4ngten paganen Minderheit an. Dennoch konnte sie lange unangefochten lehren und erfreute sich hohen Ansehens. Schlie\u00DFlich wurde sie aber das Opfer eines politischen Machtkampfs, in dem der Kirchenlehrer Kyrill von Alexandria religi\u00F6se Gegens\u00E4tze instrumentalisierte. Ein aufgehetzter Mob aus christlichen Laienbr\u00FCdern und M\u00F6nchen brachte sie schlie\u00DFlich in eine Kirche und ermordete sie dort. Der Leichnam wurde zerst\u00FCckelt. Der Nachwelt blieb Hypatia haupts\u00E4chlich wegen der spektakul\u00E4ren Umst\u00E4nde ihrer Ermordung in Erinnerung. Seit dem 18. Jahrhundert wird der Fall von Heidenverfolgung oft von Kritikern der Kirche als Beispiel f\u00FCr Intoleranz und Wissenschaftsfeindlichkeit angef\u00FChrt. Aus feministischer Sicht erscheint die Philosophin als fr\u00FChe, mit \u00FCberlegenem Wissen ausgestattete Vertreterin einer emanzipierten Weiblichkeit und als Opfer einer frauenfeindlichen Haltung ihrer Gegner. Moderne nichtwissenschaftliche Darstellungen und belletristische Bearbeitungen des Stoffs zeichnen ein Bild, das die sp\u00E4rliche antike \u00DCberlieferung ausschm\u00FCckt und teils stark abwandelt."@de ,
+		"\u0413\u0438\u043F\u0430\u0301\u0442\u0438\u044F \u0410\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u0440\u0438\u0301\u0439\u0441\u043A\u0430\u044F (\u0434\u0440.-\u0433\u0440\u0435\u0447. \u1F59\u03C0\u1FB0\u03C4\u03AF\u03B1 \u1F21 \u1F08\u03BB\u03B5\u03BE\u03AC\u03BD\u03B4\u03C1\u03B5\u1FD6\u03B1; (350/370 (?) \u2014 \u043C\u0430\u0440\u0442 415) \u2014 \u043F\u043E\u0437\u0434\u043D\u0435\u044D\u043B\u043B\u0438\u043D\u0438\u0441\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0439 \u0444\u0438\u043B\u043E\u0441\u043E\u0444-\u043D\u0435\u043E\u043F\u043B\u0430\u0442\u043E\u043D\u0438\u043A, \u043C\u0430\u0442\u0435\u043C\u0430\u0442\u0438\u043A, \u0430\u0441\u0442\u0440\u043E\u043D\u043E\u043C \u0438 \u043C\u0435\u0445\u0430\u043D\u0438\u043A. \u041F\u0440\u0435\u043F\u043E\u0434\u0430\u0432\u0430\u043B\u0430 \u0432 \u0410\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u0440\u0438\u0438; \u0441\u0445\u043E\u043B\u0430\u0440\u0445 \u0448\u043A\u043E\u043B\u044B \u0422\u0435\u043E\u043D\u0430-\u0413\u0438\u043F\u0430\u0442\u0438\u0438. \u0420\u0430\u0437\u043D\u043E\u0447\u0442\u0435\u043D\u0438\u044F \u0432 \u043D\u0430\u043F\u0438\u0441\u0430\u043D\u0438\u0438 \u0438\u043C\u0435\u043D\u0438 (\u0413\u0438\u043F\u0430\u0442\u0438\u044F \u2014 \u0418\u043F\u0430\u0442\u0438\u044F) \u0441\u0432\u044F\u0437\u0430\u043D\u044B \u0441 \u0444\u043E\u043D\u0435\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u043C\u0438 \u0438\u0437\u043C\u0435\u043D\u0435\u043D\u0438\u044F\u043C\u0438 \u0432 \u0434\u0440\u0435\u0432\u043D\u0435\u0433\u0440\u0435\u0447\u0435\u0441\u043A\u043E\u043C \u044F\u0437\u044B\u043A\u0435 (\u043E\u0444\u043E\u0440\u043C\u043B\u044F\u0432\u0448\u0438\u043C\u0438\u0441\u044F \u0432 IV\u2014V \u0432\u0432.), \u0438\u0441\u0447\u0435\u0437\u043D\u043E\u0432\u0435\u043D\u0438\u0435\u043C \u0433\u0443\u0441\u0442\u043E\u0433\u043E \u043F\u0440\u0438\u0434\u044B\u0445\u0430\u043D\u0438\u044F \u0432 \u043D\u0430\u0447\u0430\u043B\u0435 \u0441\u043B\u043E\u0432\u0430 \u0438 \u0438\u0442\u0430\u0446\u0438\u0437\u043C\u043E\u043C (\u043A\u043B\u0430\u0441\u0441\u0438\u0447\u0435\u0441\u043A\u043E\u0435 \u043F\u0440\u043E\u0438\u0437\u043D\u043E\u0448\u0435\u043D\u0438\u0435 \u2014 \u00AB\u0425\u044E\u043F\u0430\u0442\u0438\u044F\u00BB, \u043F\u0435\u0440\u0435\u0434\u0430\u0432\u0430\u0435\u043C\u043E\u0435 \u043D\u044B\u043D\u0435 \u043F\u043E-\u0440\u0443\u0441\u0441\u043A\u0438 \u043A\u0430\u043A \u00AB\u0413\u0438\u043F\u0430\u0442\u0438\u044F\u00BB; \u0432\u0438\u0437\u0430\u043D\u0442\u0438\u0439\u0441\u043A\u043E\u0435 \u2014 \u00AB\u0418\u043F\u0430\u0442\u0438\u044F\u00BB)."@ru ,
+		"Ip\u00E0zia (in greco antico: \u1F59\u03C0\u03B1\u03C4\u03AF\u03B1, Hypat\u00EDa, in latino: Hypatia; Alessandria d'Egitto, 350/370 \u2013 Alessandria d'Egitto, marzo 415) \u00E8 stata una matematica, astronoma e filosofa greca antica.Rappresentante della filosofia neo-platonica, la sua uccisione da parte di una folla di cristiani in tumulto, per alcuni autori composta di monaci detti parabolani, l'ha resa secondo il teosofo Augusto Agabiti una \u00ABmartire della libert\u00E0 di pensiero\u00BB."@it ,
+		"\u30D2\u30E5\u30D1\u30C6\u30A3\u30A2\uFF08\u1F59\u03C0\u03B1\u03C4\u03AF\u03B1, Hypatia\u3001350\u5E74\uFF5E370\u5E74\u9803 - 415\u5E743\u6708\uFF09\u306F\u3001\u6771\u30ED\u30FC\u30DE\u6642\u4EE3\u306E\u30A8\u30B8\u30D7\u30C8\u3067\u6D3B\u52D5\u3057\u305F\u30AE\u30EA\u30B7\u30E3\u7CFB\u306E\u6570\u5B66\u8005\u30FB\u5929\u6587\u5B66\u8005\u30FB\u65B0\u30D7\u30E9\u30C8\u30F3\u4E3B\u7FA9\u54F2\u5B66\u8005\u3002\u30CF\u30A4\u30D1\u30C6\u30A3\u30A2\u3068\u3082\u30D2\u30D1\u30C6\u30A3\u30A2\u3068\u3082\u547C\u3070\u308C\u308B\u3002\u30AD\u30EA\u30B9\u30C8\u6559\u5F92\u306B\u3088\u308A\u7570\u6559\u5F92\u3068\u3057\u3066\u8650\u6BBA\u3055\u308C\u305F\u3002"@ja ,
+		"Hypatia (born c. 350\u2013370; died 415) was a Hellenistic Neoplatonist philosopher, astronomer, and mathematician, who lived in Alexandria, Egypt, then part of the Eastern Roman Empire. She was a prominent thinker of the Neoplatonic school in Alexandria where she taught philosophy and astronomy. She is the first female mathematician whose life is reasonably well recorded. Hypatia was renowned in her own lifetime as a great teacher and a wise counselor. She is known to have written a commentary on Diophantus's thirteen-volume Arithmetica, which may survive in part, having been interpolated into Diophantus's original text, and another commentary on Apollonius of Perga's treatise on conic sections, which has not survived. Many modern scholars also believe that Hypatia may have edited the surviving text of Ptolemy's Almagest, based on the title of her father Theon's commentary on Book III of the Almagest. Hypatia is known to have constructed astrolabes and hydrometers, but did not invent either of these, which were both in use long before she was born. Although she herself was a pagan, she was tolerant towards Christians and taught many Christian students, including Synesius, the future bishop of Ptolemais. Ancient sources record that Hypatia was widely beloved by pagans and Christians alike and that she established great influence with the political elite in Alexandria. Towards the end of her life, Hypatia advised Orestes, the Roman prefect of Alexandria, who was in the midst of a political feud with Cyril, the bishop of Alexandria. Rumors spread accusing her of preventing Orestes from reconciling with Cyril and, in March 415 AD, she was murdered by a mob of Christians led by a lector named Peter. Hypatia's murder shocked the empire and transformed her into a \"martyr for philosophy\", leading future Neoplatonists such as Damascius to become increasingly fervent in their opposition to Christianity. During the Middle Ages, Hypatia was co-opted as a symbol of Christian virtue and scholars believe she was part of the basis for the legend of Saint Catherine of Alexandria. During the Age of Enlightenment, she became a symbol of opposition to Catholicism. In the nineteenth century, European literature, especially Charles Kingsley's 1853 novel Hypatia, romanticized her as \"the last of the Hellenes\". In the twentieth century, Hypatia became seen as an icon for women's rights and a precursor to the feminist movement. Since the late twentieth century, some portrayals have associated Hypatia's death with the destruction of the Library of Alexandria, despite the historical fact that the library no longer existed during Hypatia's lifetime."@en ,
+		"Hypatia z Aleksandrii (gr. \u1F59\u03C0\u03B1\u03C4\u03AF\u03B1, ur. ok. 355 lub 370 r., zm. w marcu 415 r. w Aleksandrii) \u2013 aleksandryjska filozofka neoplato\u0144ska, matematyczka; c\u00F3rka Teona z Aleksandrii. Zwana r\u00F3wnie\u017C \u201Em\u0119czennic\u0105 nauki\u201D. Legenda przypisuje Hypatii wynalezienie astrolabium i rodzaju areometru."@pl ,
+		"Hypatia (Grieks: \u1F59\u03C0\u03B1\u03C4\u03AF\u03B1) (Alexandri\u00EB, ca. 350-370 - aldaar, maart 415) was een Griekse wiskundige en neoplatonisch filosofe. Zij wordt wel de eerste vrouwelijke wiskundige genoemd. Ze leefde in Alexandri\u00EB (Egypte) en doceerde wiskunde en neoplatonische filosofie. Vanwege haar vooruitstrevende en wetenschappelijke manier van denken en doen werd zij in stukken gereten door een menigte christenen, waarschijnlijk Parabolani. Sommigen beweren dat de patriarch Cyrillus van Alexandri\u00EB daar de hand in had."@nl ,
+		"Hip\u00E1tia ou Hip\u00E1cia (em grego cl\u00E1ssico: \u1F59\u03C0\u03B1\u03C4\u03AF\u03B1; transl.: Hypat\u00EDa; Alexandria, c. 351/370 \u2013 Alexandria, 8 de mar\u00E7o de 415) foi uma fil\u00F3sofa neoplat\u00F4nica grega do Egito Romano. Foi a primeira mulher documentada como tendo sido matem\u00E1tica. Como chefe da escola plat\u00F4nica em Alexandria, tamb\u00E9m lecionou filosofia e astronomia. Como neoplatonista, pertencia \u00E0 tradi\u00E7\u00E3o matem\u00E1tica da Academia de Atenas, representada por Eudoxo de Cnido e era da escola intelectual do pensador Plotino, que a incentivou a estudar L\u00F3gica e Matem\u00E1tica, no lugar de se dedicar \u00E0 investiga\u00E7\u00E3o emp\u00EDrica, e a estudar Direito, em vez de ci\u00EAncias da natureza. De acordo com a \u00FAnica fonte contempor\u00E2nea, Hip\u00E1tia foi assassinada por uma multid\u00E3o de crist\u00E3os depois de ser acusada de exacerbar um conflito entre duas figuras proeminentes em Alexandria: o governador Orestes e o bispo de Alexandria, Cirilo de Alexandria. Kathleen Wider prop\u00F5e que o assassinato de Hip\u00E1tia marcou o fim da Antiguidade Cl\u00E1ssica, e Stephen Greenblatt observa que o assassinato \"efetivamente marcou a queda da vida intelectual em Alexandria\" Por outro lado, Maria Dzielska e Christian Wildberg notam que a filosofia helen\u00EDstica continuou a florescer nos s\u00E9culos V e VI, e, talvez, at\u00E9 a era de Justiniano."@pt ,
+		"\u5E0C\u5E15\u63D0\u5A6D\uFF08\u53E4\u5E0C\u81D8\u8A9E\uFF1A\u1F59\u03C0\u03B1\u03C4\u03AF\u03B1\uFF0C\u751F\u65BC\u7D04350\u5E74\uFF0D370\u5E74\u4E4B\u9593\uFF0C\u6B7B\u65BC415\u5E743\u6708\uFF09\uFF0C\u53C8\u8B6F\u4F5C\u6D77\u82AD\u590F\u3001\u6D77\u5E15\u897F\u5A6D\uFF0C\u8457\u540D\u7684\u5E0C\u81D8\u5316\u53E4\u57C3\u53CA\u65B0\u67CF\u62C9\u5716\u4E3B\u7FA9\u5B78\u8005\uFF0C\u662F\u7576\u6642\u540D\u91CD\u4E00\u6642\u3001\u5EE3\u53D7\u6B61\u8FCE\u7684\u5973\u6027\u54F2\u5B78\u5BB6\u3001\u6578\u5B78\u5BB6\u3001\u5929\u6587\u5B78\u5BB6\u3001\u4EE5\u53CA\u6559\u5E2B\uFF0C\u5979\u5C45\u4F4F\u5728\u5E0C\u81D8\u5316\u6642\u4EE3\u53E4\u57C3\u53CA\u7684\u4E9E\u6B77\u5C71\u5927\u6E2F\uFF0C\u5C0D\u8A72\u57CE\u7684\u77E5\u8B58\u793E\u7FA4\u505A\u51FA\u4E86\u6975\u5927\u8CA2\u737B\u3002\u6839\u64DA\u5F8C\u4E16\u7814\u7A76\u986F\u793A\uFF0C\u5979\u66FE\u5C0D\u4E1F\u756A\u5716\u7684\u300A\u7B97\u8853\u300B\uFF08Arithmetica\uFF09\u3001\u963F\u6CE2\u7F85\u5C3C\u5967\u65AF\u7684\u300A\u5713\u9310\u66F2\u7DDA\u8AD6\u300B\uFF08Conics\uFF09\u4EE5\u53CA\u6258\u52D2\u5BC6\u7684\u4F5C\u54C1\u505A\u904E\u8A55\u8A3B\uFF0C\u4F46\u5747\u672A\u7559\u5B58\u3002\u5F9E\u5979\u7684\u5B78\u751F\u5BEB\u7D66\u5979\u7684\u4FE1\u4E2D\uFF0C\u53EF\u4EE5\u770B\u51FA\u5979\u7684\u77E5\u8B58\u80CC\u666F\uFF1A\u5979\u5C6C\u67CF\u62C9\u5716\u5B78\u6D3E\u2500\u2500\u96D6\u7136\u6211\u5011\u53EA\u80FD\u5047\u8A2D\u5979\u66FE\u63A1\u7D0D\u666E\u7F85\u63D0\u8AFE\u7684\u5B78\u8AAA\uFF08\u666E\u7F85\u63D0\u7D0D\u65AF\u70BA\u516C\u5143\u4E09\u4E16\u7D00\u6642\u7684\u67CF\u62C9\u5716\u9580\u4EBA\uFF0C\u4E5F\u662F\u65B0\u67CF\u62C9\u5716\u5B78\u6D3E\u7684\u5275\u59CB\u8005\uFF09\u3002\u53E6\u5916\u6709\u5C11\u8A31\u8B49\u64DA\u986F\u793A\uFF0C\u5E0C\u5E15\u63D0\u5A6D\u5728\u79D1\u5B78\u4E0A\u6700\u77E5\u540D\u7684\u8CA2\u737B\uFF0C\u70BA\u767C\u660E\u4E86\u4EE5\u53CA\u6BD4\u91CD\u8A08\u3002\u5979\u6700\u5F8C\u88AB\u66B4\u5F92\u8FEB\u5BB3\u6BBA\u6B7B\u30022009\u5E74\u5176\u751F\u5E73\u88AB\u6539\u7F16\u6210\u897F\u73ED\u7259\u7535\u5F71\u300A\u98A8\u66B4\u4F73\u4EBA\u300B\u642C\u4E0A\u94F6\u5E55\u3002"@zh ,
+		"\uD788\uD30C\uD2F0\uC544(\uACE0\uB300 \uADF8\uB9AC\uC2A4\uC5B4: \u1F59\u03C0\u03B1\u03C4\u03AF\u03B1, 355\uB144 - 415\uB144)\uB294 \uACE0\uB300 \uC774\uC9D1\uD2B8 \uC54C\uB809\uC0B0\uB4DC\uB9AC\uC544\uC5D0\uC11C \uD65C\uB3D9\uD55C \uC2E0\uD50C\uB77C\uD1A4\uC8FC\uC758\uC758 \uB300\uD45C\uC801\uC778 \uADF8\uB9AC\uC2A4\uACC4 \uC5EC\uC131 \uCCA0\uD559\uC790, \uC218\uD559\uC790\uC774\uB2E4."@ko ,
+		"Hip\u00E0tia (en grec \u1F59\u03C0\u03B1\u03C4\u03AF\u03B1, transliterat Hypat\u00EDa [hy.pa.ti.a]); Alexandria, 355 o 350-ib\u00EDd., 415) va ser una fil\u00F2sofa i mestra neoplat\u00F2nica grega, natural d'Egipte, que va destacar als camps de les matem\u00E0tiques i l'astronomia, fou membre i cap de l'escola neoplat\u00F2nica d'Alexandria a comen\u00E7aments del segle v. Seguidora de Plot\u00ED, va conrear els estudis l\u00F2gics i les ci\u00E8ncies exactes, i va portar una vida asc\u00E8tica."@ca ,
+		"Hypatia z Alexandrie  (\u0159ecky \u201B\u03A5\u03C0\u03B1\u03C4\u03AF\u03B1 \u2013 Hypati\u00E1, v \u010De\u0161tin\u011B t\u00E9\u017E Hypatie; mezi lety 350/370 \u2013 b\u0159ezen 415, p\u0159\u00EDp. 416) byla pohansk\u00E1 platonsk\u00E1 \u010Di sp\u00ED\u0161e novoplatonsk\u00E1 filosofka a prvn\u00ED historicky zn\u00E1m\u00E1 matemati\u010Dka \u017Eij\u00EDc\u00ED v z\u00E1v\u011Bru \u0159ecko-\u0159\u00EDmsk\u00E9 doby v egyptsk\u00E9 Alexandrii, \u201Epova\u017Eovan\u00E1 za jednu z hlavn\u00EDch postav pohansk\u00E9 filosofie a v\u00EDry v t\u00E9 dob\u011B.\u201C Sv\u00FDmi sou\u010Dasn\u00EDky byla pokl\u00E1d\u00E1na za charismatick\u00E9ho u\u010Ditele a v\u00FDznamn\u00E9ho u\u010Dence se zna\u010Dn\u00FDm rozsahem odbornosti. Sou\u010Dasn\u011B po\u017E\u00EDvala ve m\u011Bst\u011B v\u0161eobecn\u00E9 obliby a \u00FActy. Jej\u00ED p\u016Fsoben\u00ED bylo dokladem \u017Eivotaschopnosti pozdn\u011B antick\u00E9 tradice jako intelektu\u00E1ln\u00ED a do jist\u00E9 m\u00EDry i n\u00E1bo\u017Eensk\u00E9 alternativy k tehdy u\u017E dominuj\u00EDc\u00EDmu k\u0159es\u0165anstv\u00ED. P\u0159esto\u017Ee na rozd\u00EDl od jin\u00FDch novoplatonik\u016F nezauj\u00EDmala protik\u0159es\u0165anskou pozici a velmi pravd\u011Bpodobn\u011B sama stejn\u011B jako jej\u00ED k\u0159es\u0165an\u0161t\u00ED \u017E\u00E1ci zast\u00E1vala p\u0159esv\u011Bd\u010Den\u00ED o kompatibilit\u011B sv\u00E9 nauky s k\u0159es\u0165anstv\u00EDm, p\u0159edstavitel\u00E9 c\u00EDrkve jej\u00ED p\u016Fsoben\u00ED ve \u201Em\u011Bst\u011B tak d\u016Fle\u017Eit\u00E9m a bou\u0159liv\u00E9m, jako je Alexandrie,\u201C pokl\u00E1dali za nebezpe\u010Dn\u00E9 a snad i za nejv\u011Bt\u0161\u00ED p\u0159ek\u00E1\u017Eku \u00FApln\u00E9ho pok\u0159es\u0165an\u0161t\u011Bn\u00ED jeho obyvatel. Byla, podle n\u011Bkter\u00FDch zdroj\u016F p\u0159i\u010Din\u011Bn\u00EDm patriarchy Kyrilla, brut\u00E1ln\u011B zavra\u017Ed\u011Bna davem v obdob\u00ED vyhrocen\u00FDch n\u00E1bo\u017Eensk\u00FDch spor\u016F; proto n\u011Bkdy b\u00FDv\u00E1 ozna\u010Dov\u00E1na jako \u201Epohansk\u00E1 mu\u010Dednice\u201C a posledn\u00ED p\u0159edstavitelka hel\u00E9nismu. A\u010Dkoli je mo\u017En\u00E9, \u017Ee jej\u00ED smrt byla v\u00EDce d\u016Fsledkem otev\u0159en\u00E9ho mocensk\u00E9ho konfliktu a osobn\u00ED nevra\u017Eivosti mezi dv\u011Bma alexandrijsk\u00FDmi frakcemi ne\u017E \u010Dist\u011B n\u00E1bo\u017Eensk\u00E9ho antagonismu pohan\u016F a k\u0159es\u0165an\u016F a snahy omezit pohansk\u00FD intelektu\u00E1ln\u00ED vliv. Pozd\u011Bj\u0161\u00ED k\u0159es\u0165ansk\u00E1 tradice z Hypatie umu\u010Den\u00E9 zfanatizovan\u00FDmi k\u0159es\u0165any s nejv\u011Bt\u0161\u00ED pravd\u011Bpodobnost\u00ED vytvo\u0159ila legend\u00E1rn\u00ED postavu svat\u00E9 mu\u010Dednice Kate\u0159iny popraven\u00E9 \u00FAdajn\u011B pohansk\u00FDm c\u00EDsa\u0159em pro sv\u00E9 k\u0159es\u0165ansk\u00E9 vyzn\u00E1n\u00ED. A\u010Dkoli se z Hypatiina v\u011Bdeck\u00E9ho d\u00EDla nic nezachovalo, v dobov\u00FDch souvislostech vedl jej\u00ED osud ke vzniku a\u017E do sou\u010Dasnosti tradovan\u00E9ho liter\u00E1rn\u00EDho m\u00FDtu, v n\u011Bm\u017E se stala emblematickou postavou v \u201Ez\u00E1pase mezi duchem kriti\u010Dnosti a duchem dogmatismu\u201C \u2013 symbolem \u201Etragick\u00FDch d\u016Fsledk\u016F fanatismu\u201C. Po\u010D\u00EDnaje 18. stolet\u00EDm se (zejm\u00E9na v deistick\u00FDch a osv\u00EDcensk\u00FDch kruz\u00EDch) v tomto smyslu opakovan\u011B objevuje jako p\u0159edm\u011Bt interpretac\u00ED autor\u016F novov\u011Bk\u00E9 a modern\u00ED literatury, kte\u0159\u00ED si o n\u00ED mnohdy vytv\u00E1\u0159ej\u00ED sv\u016Fj vlastn\u00ED a skute\u010Dnosti ne zcela odpov\u00EDdaj\u00EDc\u00ED obraz. \u010Casto je jej\u00ED osud ch\u00E1p\u00E1n jako argument pro kritiku c\u00EDrkve a k\u0159es\u0165anstv\u00ED v\u016Fbec; b\u00FDv\u00E1 v n\u011Bm spat\u0159ov\u00E1n projev jejich \u00FAdajn\u00E9 nesn\u00E1\u0161enlivosti a anti-v\u011Bdeck\u00E9ho postoje. Ve feministick\u00E9 literatu\u0159e je Hypatia uv\u00E1d\u011Bna jako p\u0159\u00EDklad emancipace \u017Eenstv\u00ED a ob\u011B\u0165 misogynie sv\u00FDch nep\u0159\u00E1tel."@cs ,
+		"\u0413\u0456\u043F\u0430\u0442\u0456\u044F (\u0406\u043F\u0430\u0442\u0456\u044F), \u0432\u0456\u0434\u043E\u043C\u0430 \u044F\u043A \u0413\u0456\u043F\u0430\u0442\u0456\u044F \u0437 \u0410\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u0440\u0456\u0457 (\u0433\u0440\u0435\u0446. \u1F59\u03C0\u1FB0\u03C4\u03AF\u03B1 \u1F21 \u1F08\u03BB\u03B5\u03BE\u03AC\u03BD\u03B4\u03C1\u03B5\u1FD6\u03B1) (*\u0431\u043B. 350-370 \u2014 \u2020415) \u2014 \u0433\u0440\u0435\u0446\u044C\u043A\u0430 \u0444\u0456\u043B\u043E\u0441\u043E\u0444, \u043C\u0430\u0442\u0435\u043C\u0430\u0442\u0438\u043A \u0456 \u0430\u0441\u0442\u0440\u043E\u043D\u043E\u043C, \u0449\u043E \u043F\u0440\u0430\u0446\u044E\u0432\u0430\u043B\u0430 \u0432 \u0410\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u0440\u0456\u0457. \u0414\u043E\u0447\u043A\u0430 \u043C\u0430\u0442\u0435\u043C\u0430\u0442\u0438\u043A\u0430 , \u043E\u0441\u0442\u0430\u043D\u043D\u044C\u043E\u0433\u043E \u0443\u043F\u0440\u0430\u0432\u0438\u0442\u0435\u043B\u044F \u0410\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u0440\u0456\u0439\u0441\u044C\u043A\u043E\u0457 \u0431\u0456\u0431\u043B\u0456\u043E\u0442\u0435\u043A\u0438. \u041F\u043E\u0441\u043B\u0456\u0434\u043E\u0432\u043D\u0438\u0446\u044F \u043D\u0435\u043E\u043F\u043B\u0430\u0442\u043E\u043D\u0456\u0432\u0441\u044C\u043A\u043E\u0457 \u0448\u043A\u043E\u043B\u0438 \u042F\u043C\u0432\u043B\u0456\u0445\u0430. \u0417\u0430\u0439\u043C\u0430\u043B\u0430\u0441\u044F \u043E\u0431\u0447\u0438\u0441\u043B\u0435\u043D\u043D\u044F\u043C \u0430\u0441\u0442\u0440\u043E\u043D\u043E\u043C\u0456\u0447\u043D\u0438\u0445 \u0442\u0430\u0431\u043B\u0438\u0446\u044C, \u043D\u0430\u043F\u0438\u0441\u0430\u043B\u0430 \u043A\u043E\u043C\u0435\u043D\u0442\u0430\u0440\u0456 \u0434\u043E \u0442\u0432\u043E\u0440\u0456\u0432 \u0410\u043F\u043E\u043B\u043B\u043E\u043D\u0456\u044F (\u0449\u043E\u0434\u043E \u043A\u043E\u043D\u0456\u0447\u043D\u0438\u0445 \u043F\u0435\u0440\u0435\u0442\u0438\u043D\u0456\u0432) \u0456 \u0414\u0456\u043E\u0444\u0430\u043D\u0442\u0430 (\u0437 \u0430\u0440\u0438\u0444\u043C\u0435\u0442\u0438\u043A\u0438), \u044F\u043A\u0456 \u043D\u0435 \u0437\u0431\u0435\u0440\u0435\u0433\u043B\u0438\u0441\u044F. \u0413\u0456\u043F\u0430\u0442\u0456\u044F \u0431\u0440\u0430\u043B\u0430 \u0443\u0447\u0430\u0441\u0442\u044C \u0443 \u0433\u0440\u043E\u043C\u0430\u0434\u0441\u044C\u043A\u0438\u0445 \u0441\u043F\u0440\u0430\u0432\u0430\u0445 \u043C\u0456\u0441\u0442\u0430 \u0456 \u043A\u043E\u0440\u0438\u0441\u0442\u0443\u0432\u0430\u043B\u0430\u0441\u044F \u0437\u043D\u0430\u0447\u043D\u043E\u044E \u043F\u043E\u043F\u0443\u043B\u044F\u0440\u043D\u0456\u0441\u0442\u044E. \u0417\u0433\u0456\u0434\u043D\u043E \u0441\u0432\u0456\u0434\u0447\u0435\u043D\u044C \u0457\u0457 \u0441\u0443\u0447\u0430\u0441\u043D\u0438\u043A\u0456\u0432, \u0413\u0456\u043F\u0430\u0442\u0456\u044F \u0431\u0443\u043B\u0430 \u0432\u0431\u0438\u0442\u0430 \u0440\u043E\u0437\u043B\u044E\u0447\u0435\u043D\u0438\u043C \u043D\u0430\u0442\u043E\u0432\u043F\u043E\u043C \u0445\u0440\u0438\u0441\u0442\u0438\u044F\u043D \u0430\u0431\u043E \u0445\u0440\u0438\u0441\u0442\u0438\u044F\u043D\u0441\u044C\u043A\u0438\u043C\u0438 \u0444\u0430\u043D\u0430\u0442\u0438\u043A\u0430\u043C\u0438 , \u0432\u0456\u0434\u043F\u043E\u0432\u0456\u0434\u0430\u043B\u044C\u043D\u0456\u0441\u0442\u044C \u0437\u0430 \u0449\u043E \u0432 \u0431\u0430\u0433\u0430\u0442\u044C\u043E\u0445 \u0434\u0436\u0435\u0440\u0435\u043B\u0430\u0445 \u043F\u043E\u043A\u043B\u0430\u0434\u0430\u0454\u0442\u044C\u0441\u044F \u043D\u0430 \u043F\u0430\u0442\u0440\u0456\u0430\u0440\u0445\u0430 \u041A\u0438\u0440\u0438\u043B\u0430 \u0410\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u0440\u0456\u0439\u0441\u044C\u043A\u043E\u0433\u043E, \u043E\u0434\u043D\u043E\u0433\u043E \u0437 \u043E\u0442\u0446\u0456\u0432 \u0426\u0435\u0440\u043A\u0432\u0438. \u0412\u0431\u0438\u0432\u0441\u0442\u0432\u043E \u0413\u0456\u043F\u0430\u0442\u0456\u0457 \u0447\u0430\u0441\u0442\u043E \u0432\u0432\u0430\u0436\u0430\u0454\u0442\u044C\u0441\u044F \u043F\u043E\u0434\u0456\u0454\u044E, \u0449\u043E \u0432\u0456\u0434\u043C\u0456\u0447\u0430\u0454 \u043A\u0456\u043D\u0435\u0446\u044C \u043A\u043B\u0430\u0441\u0438\u0447\u043D\u043E\u0457 \u0430\u043D\u0442\u0438\u0447\u043D\u043E\u0441\u0442\u0456 \u0442\u0430 \u043E\u0441\u0442\u0430\u0442\u043E\u0447\u043D\u0438\u0439 \u0437\u0430\u043D\u0435\u043F\u0430\u0434 \u0456\u043D\u0442\u0435\u043B\u0435\u043A\u0442\u0443\u0430\u043B\u044C\u043D\u043E\u0433\u043E \u0436\u0438\u0442\u0442\u044F \u0410\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u0440\u0456\u0457. \u0413\u0456\u043F\u0430\u0442\u0456\u044F \u0431\u0443\u043B\u0430 \u043F\u0440\u043E\u043E\u0431\u0440\u0430\u0437\u043E\u043C \u0421\u0432\u044F\u0442\u043E\u0457 \u041A\u0430\u0442\u0435\u0440\u0438\u043D\u0438."@uk ,
+		"Hipatia (lahir antara 350 dan 370; meninggal tahun 415) adalah seorang filsuf, astronom, dan matematikawan Helenistik yang tinggal di kota Aleksandria, Mesir pada zaman Kekaisaran Romawi. Ia merupakan tokoh neoplatonisme di Aleksandria, dan di kota tersebut ia mengajarkan ilmu filsafat dan astronomi. Ia adalah matematikawan wanita pertama dengan keterangan sejarah yang cukup mudah untuk ditemui. Hipatia dikenal pada masanya sebagai seorang guru besar dan penasihat yang bijak. Ia pernah menulis sebuah tafsir untuk Aritmetika karya Diofantos yang terdiri dari tiga belas jilid, dan tafsir ini telah disisipkan ke dalam naskah aslinya. Ia juga pernah membuat tafsir untuk risalah Apolonios dari Perga mengenai irisan kerucut, tetapi tafsir ini sudah hilang ditelan zaman. Banyak ahli modern yang meyakini bahwa Hipatia mungkin pernah menyunting naskah Almagest karya Ptolemaios berdasarkan judul tafsir buatan ayahnya, Theon, untuk Buku III Almagest. Hipatia dikenal karena pernah membuat astrolab dan hidrometer, tetapi ia bukanlah penemu kedua alat ini, dan alat-alat ini sendiri sudah digunakan jauh sebelum ia lahir. Walaupun Hipatia adalah seorang pagan, ia toleran terhadap orang-orang Kristen dan memiliki banyak murid Kristen, termasuk Sinesios yang kelak akan menjadi Uskup Ptolemais. Sumber-sumber kuno mencatat bahwa Hipatia disukai oleh orang pagan maupun Kristen, dan ia sangat berpengaruh di kalangan elit politik Aleksandria. Menjelang akhir hayatnya, Hipatia menasihati Orestes, prefek Romawi di Aleksandria yang saat itu tengah bersaing secara politik dengan Uskup Aleksandria Kirilos. Muncul desas desus bahwa Hipatia adalah orang yang membuat Orestes tidak bisa rukun dengan Kirilos, dan pada Maret 415, Hipatia dibunuh oleh gerombolan Kristen yang dipimpin oleh seorang lektor yang bernama Petros. Pembunuhan Hipatia mengguncang kekaisaran dan mengubah sosoknya menjadi seorang \"martir untuk filsafat\", sehingga tokoh-tokoh neoplatonis sesudahnya (seperti Damaskios) menjadi semakin ganas dalam mengkritik agama Kristen. Pada Abad Pertengahan, Hipatia dijadikan simbol kebajikan Kristen, dan para ahli meyakini bahwa legenda Santa Katarina dari Aleksandria dilandaskan pada kisah Hipatia. Pada Abad Pencerahan, Hipatia menjadi simbol perlawanan terhadap agama Katolik. Pada abad ke-19, karya-karya sastra Eropa (khususnya novel Hypatia karya Charles Kingsley dari tahun 1853) meromantisasi Hipatia sebagai \"orang Helen terakhir\". Pada abad ke-20, Hipatia juga menjadi simbol dalam pergerakan hak wanita. Semenjak akhir abad ke-20, mulai muncul penggambaran yang mengait-ngaitkan kematian Hipatia dengan kehancuran Perpustakaan Aleksandria, meskipun faktanya perpustakaan itu sudah tidak lagi ada pasa masa kehidupan filsuf wanita tersebut."@in ,
+		"Fealsamh agus eola\u00ED Nua-Phlat\u00F3nach ab ea Hypatia n\u00F3 Hypatia Chathair Alastair (Gr\u00E9igis: Hypatia, \u1F59\u03C0\u03B1\u03C4\u03AF\u03B1; (c. 370 - M\u00E1rta 415). Bh\u00ED c\u00E1il uirthi go h\u00E1irithe mar mhatamaiticeoir agus r\u00E9alteola\u00ED. Teagasc\u00F3ir agus ceannaire ar Scoil Nua-Phlat\u00F3nach Chathair Alastair a bh\u00ED inti. \u00C1ir\u00EDtear \u00ED mar an ch\u00E9ad bhean a raibh p\u00E1irt mh\u00F3r aici i bhforbairt na matamaitice. In\u00EDon le Theon, matamaiticeoir agus ceannaire ar Leabharlann Chathair Alastair, san \u00C9igipt, ab ea Hypatia. Thosaigh s\u00ED ar a saol gairmi\u00FAil ag glacadh p\u00E1irte i saothar feals\u00FAnachta a hathar. De r\u00E9ir a bhfuil scr\u00EDofa f\u00FAithi sa seanam, bean \u00E1lainn ach modh\u00FAil \u00ED. Mharaigh slua Cr\u00EDostaithe i gCathair Alastair \u00ED."@ga ,
+		"Hipatia (Alexandria, Egipto, 370 - 415) zientzialari, filosofo, neoplatoniko eta irakaslea izan zen, bere jakinduria eta ikasketekin matematikaren eta astronomiaren garapenean lagundu zuena."@eu ;
+	dbp:align	"right"@en ;
+	dbp:image	"Hypatia, by Julia Margaret Cameron.jpg"@en ,
+		"Hypatia portrait.png"@en ,
+		"Hypatia .png"@en .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Hypatia	dbp:image	"--01-21"^^xsd:gMonthDay ;
+	dbp:v	"no"@en ;
+	dbp:caption	"The play Hypatia, performed at the Haymarket Theatre in January 1893, was based on the novel by Charles Kingsley."@en ,
+		"An actress, possibly Mary Anderson, in the title role of the play Hypatia,  1900. Similarities between this image and the Gaspard portrait at right indicate this one may have served as a model for the Gaspard."@en ,
+		"Julia Margaret Cameron's 1867 photograph Hypatia, also inspired by Charles Kingsley's novel"@en ,
+		"This fictional portrait of Hypatia by Jules Maurice Gaspard, originally the illustration for Elbert Hubbard's 1908 fictional biography, has now become, by far, the most iconic and widely reproduced image of her."@en ;
+	dbp:b	"no"@en ;
+	dbp:n	"no"@en ;
+	dbp:q	"no"@en ;
+	dbp:wikt	"Hypatia"@en .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Hypatia	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Hypatia?oldid=986291857&ns=0> ;
+	dbp:species	"no"@en ;
+	dbo:philosophicalSchool	dbr:Neoplatonism ;
+	dbp:direction	"horizontal"@en ;
+	dbo:influenced	dbr:Damascius ,
+		dbr:Synesius_of_Cyrene ;
+	dbp:name	"Hypatia"@en ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Mort_de_la_philosophe_Hypatie.jpg?width=300> ;
+	dbo:birthPlace	dbr:Eastern_Roman_Empire ,
+		dbr:Alexandria ,
+		<http://dbpedia.org/resource/Egypt_(Roman_province)> ;
+	dbp:birthPlace	dbr:Alexandria ,
+		dbr:Byzantine_Empire ,
+		<http://dbpedia.org/resource/Egypt_(Roman_province)> ;
+	dbp:width	207 ,
+		220 ;
+	dbp:influenced	dbr:Damascius ,
+		dbr:Synesius ,
+		""@en ;
+	dbp:d	"Q11903"@en ;
+	dbp:s	"author:Hypatia"@en ;
+	dbp:mw	"no"@en ;
+	dbo:influencedBy	dbr:Plotinus ,
+		dbr:Aristotle ,
+		dbr:Theon_of_Alexandria ,
+		dbr:Plato ;
+	dbp:deathPlace	"Alexandria, Province of Egypt, Eastern Roman Empire"@en ;
+	dbo:wikiPageExternalLink	<https://books.google.com/books%3Fid=LuhZyh1_j6oC&pg=PA240> ,
+		<https://books.google.com/books%3Fid=EIdtVPeD7GcC%7Clocation=New> ,
+		<http://grbs.library.duke.edu/article/view/4171> ,
+		<https://books.google.com/books%3Fid=H7ZwCgAAQBAJ&pg=PA194%7Clocation=Oxford,> ,
+		<http://www.uni-kassel.de/upress/online/frei/978-3-89958-449-3.volltext.frei.pdf%7Ceditor-first=Dominik%7Ceditor-last=Gro%C3%9F%7Ctitle=Gender> ,
+		<https://web.archive.org/web/20060902110939/http:/math.coe.uga.edu/tme/Issues/v06n1/4whitfield.pdf> ,
+		<http://www.documentacatholicaomnia.eu/03d/0380-0440,_Socrates_Scholasticus,_Ecclesiastica_Hstoria_2_(Hussey_Editore),_GR.pdf> ,
+		<http://math.coe.uga.edu/tme/issues/v06n1/4whitfield.pdf> ,
+		<https://books.google.com/books%3Fid=hNtcejI_IGkC&pg=PA129%7Clocation=Leiden,> ,
+		<https://books.google.com/books%3Fid=cVHKPW5MRaQC%7Clocation=Baltimore,> ,
+		<https://books.google.com/books%3Fid=dgF9DQAAQBAJ&pg=PA283%7Clocation=Santa> ,
+		<https://books.google.com/books%3Fid=YcgSDAAAQBAJ%7Cseries=Oxford> ,
+		<https://archive.org/stream/ecclesiasticalhi00socruoft%23page/348/mode/2up> ,
+		<https://books.google.com/books%3Fid=UCkgLBCh2m0C%7Cyear=1996%7Clocation=Cambridge,> ,
+		<https://archive.org/stream/somelieserrorsof00parsuoft%23page/44/mode/2up> ,
+		<https://books.google.com/books%3Fid=V_515iG8i14C&pg=PA39%7Cseries=The> ,
+		<https://books.google.com/books%3Fid=WtGengEACAAJ%7Cdate=> ,
+		<http://ccdl.libraries.claremont.edu/cdm/singleitem/collection/cce/id/2159%7Ctitle=Claremont> ,
+		<https://books.google.com/books%3Fid=x7ngECDpxmMC&pg=PA173%7Cvolume=1%7Clocation=Dordrecht,> ,
+		<http://www.isns.us/> ,
+		<https://archive.org/details/textualstudiesin0000knor/page/753> ,
+		<https://books.google.com/books%3Fid=sboJPPCBpuQC&pg=PA45> ,
+		<https://books.google.com/books%3Fid=t-BF1CHkc50C%7Clocation=New> ,
+		<https://books.google.com/books%3Fid=v8iW8C7eE3YC%7Cyear=1999%7Clocation=Cambridge,> ,
+		<https://books.google.com/books%3Fid=ojrjh0aJKVsC&pg=PA10%7Cdate=2007%7Cpublisher=Ashgate> ,
+		<https://books.google.com/books%3Fid=rCF5BgAAQBAJ&pg=PA100%7Clocation=Oxford,> ,
+		<https://zenodo.org/record/1448938> ,
+		<https://books.google.com/books%3Fid=kwj31dqNssAC&pg=PA47%7Clocation=New> ,
+		<http://babel.hathitrust.org/cgi/pt%3Fid=mdp.39015022676665;view=1up;seq=449> ,
+		<https://books.google.com/books%3Fid=lNV6-HsUppsC%7Clocation=Oxford,> ,
+		<https://books.google.com/books%3Fid=A8ixyQJA7_MC%7Clocation=Ithaca,> ,
+		<http://www.smithsonianmag.com/specialsections/womens-history/Hypatia-Ancient-Alexandrias-Great-Female-Scholar.html%7Ctitle=Hypatia,> ,
+		<https://books.google.com/books%3Fid=3QPWDAAAQBAJ&pg=PA183%7Clocation=Manchester,> ,
+		<https://books.google.com/books%3Fid=5gScAAAACAAJ> ,
+		<https://books.google.com/books%3Fid=0KL_DQAAQBAJ&pg=PA119%7Clocation=Oxford,> ,
+		<http://www.qedcat.com/function/16.1short.pdf%7Cpages=17%E2%80%9322%7Cjournal=Function%7Cvolume=16%7Cissue=1> .
+@prefix ns60:	<https://www.britannica.com/biography/> .
+dbr:Hypatia	dbo:wikiPageExternalLink	ns60:Hypatia .
+@prefix ns61:	<https://archive.org/details/> .
+dbr:Hypatia	dbo:wikiPageExternalLink	ns61:fullmoonofwomen200moli ,
+		<http://jnsilva.ludicum.org/Sherlock/hypatia1.pdf> ,
+		<https://books.google.com/books%3Fid=RVvdDgAAQBAJ&pg=PT57%7Clocation=London%7Cpublisher=Fonthill> ,
+		<https://books.google.com/books%3Fid=T6t44B0-a98C&pg=PA59%7Clocation=Berkeley> ,
+		<https://books.google.com/books%3Fid=MKolDQAAQBAJ%7Clocation=Berkeley> ,
+		<https://books.google.com/books%3Fid=OB4OgT8OH7sC%7Clocation=Santa> ,
+		<https://www.ancient.eu/article/656/historical-accuracy-in-the-film-agora/%7Cwebsite=Ancient> ,
+		<https://books.google.com/books%3Fid=P6X1DJ7UIb4C&pg=PA135%7Clocation=Amherst,> ,
+		<https://books.google.com/books%3Fid=KD5aAAAAMAAJ%7Cyear=1948%7Cpublisher=Allen> ;
+	dbp:birthDate	350 ;
+	dbp:deathDate	"March 415 AD"@en ;
+	dbp:voy	"no"@en ;
+	dbp:region	dbr:Western_philosophy ;
+	dbo:region	dbr:Western_philosophy ;
+	dbp:mainInterests	""@en ,
+		dbr:Mathematics ,
+		dbr:Astronomy ;
+	dbp:schoolTradition	dbr:Neoplatonism ;
+	dbo:mainInterest	dbr:Mathematics ,
+		dbr:Astronomy ;
+	dbo:era	dbr:Ancient_philosophy ;
+	dbo:birthYear	"0350"^^xsd:gYear .
+@prefix ns62:	<http://www.w3.org/2006/03/wn/wn20/instances/> .
+dbr:Hypatia	dbp:wordnet_type	ns62:synset-philosopher-noun-1 ;
+	dbo:deathPlace	<http://dbpedia.org/resource/Egypt_(Roman_province)> ,
+		dbr:Eastern_Roman_Empire ,
+		dbr:Alexandria ;
+	dbo:deathYear	"0415"^^xsd:gYear ;
+	dbp:era	dbr:Ancient_philosophy ;
+	dbp:influences	dbr:Plotinus ,
+		""@en ,
+		dbr:Aristotle ,
+		dbr:Plato ,
+		dbr:Theon_of_Alexandria ;
+	dbp:m	"no"@en ;
+	dbp:c	"Category:Hypatia"@en ;
+	dbo:wikiPageID	38375 ;
+	dbo:wikiPageRevisionID	986291857 ;
+	dbo:wikiPageWikiLink	dbr:Middle_Ages ,
+		dbr:Library_of_Alexandria ,
+		dbr:Martyr ,
+		dbr:Feminist_movement ,
+		dbr:Diodata_Saluzzo_Roero ,
+		dbr:Youssef_Ziedan ,
+		dbr:Mare_Tranquillitatis ,
+		<http://dbpedia.org/resource/Historia_(classical_antiquity_history_journal)> ,
+		dbr:Theodosius_II ,
+		dbr:Linchpin ,
+		dbr:Smear_campaign ,
+		dbr:Victorian_era ,
+		<http://dbpedia.org/resource/Hypatia_(crater)> ,
+		dbr:Eudokia_Makrembolitissa ,
+		dbr:Satanism ,
+		<http://dbpedia.org/resource/Reader_(liturgy)> ,
+		<http://dbpedia.org/resource/Category:4th-century_mathematicians> ,
+		dbr:Herbert_Beerbohm_Tree ,
+		dbr:Hubert_Parry ,
+		dbr:PBS ,
+		dbr:Copts ,
+		<http://dbpedia.org/resource/Category:4th-century_women_writers> ,
+		dbr:Archimedes ,
+		dbr:Mathematics ,
+		<http://dbpedia.org/resource/Category:4th-century_Byzantine_writers> ,
+		<http://dbpedia.org/resource/Category:4th-century_Romans> ,
+		<http://dbpedia.org/resource/Category:4th-century_philosophers> ,
+		<http://dbpedia.org/resource/Category:4th-century_Greek_people> ,
+		dbr:Long_division ,
+		dbr:Wilbur_Knorr ,
+		dbr:Witch-hunt ,
+		dbr:March_equinox ,
+		dbr:Philosophy ,
+		dbr:Impromptu ,
+		dbr:Greeks ,
+		dbr:Mathematics_and_Mechanics_of_Complex_Systems ,
+		dbr:Stereographic_projection ,
+		<http://dbpedia.org/resource/Division_(mathematics)> ,
+		dbr:Witchcraft ,
+		dbr:History_of_Christianity ,
+		dbr:Charles_Kingsley ,
+		dbr:Justinian_I ,
+		dbr:Dora_Russell ,
+		dbr:Apollonius_of_Perga ,
+		dbc:Ancient_Roman_murder_victims ,
+		dbc:Hypatia ,
+		dbr:List_of_governors_of_Roman_Egypt ,
+		dbr:United_Kingdom ,
+		dbr:United_States ,
+		dbr:Ki_Longfellow ,
+		dbr:Cyril_of_Alexandria ,
+		dbr:Diocese ,
+		dbr:Baudolino ,
+		dbr:Synagogue ,
+		dbr:Algebra ,
+		<http://dbpedia.org/resource/Category:415_deaths> ,
+		dbr:Hydrometer ,
+		dbc:Ancient_Greek_women_philosophers ,
+		dbr:Table_setting ,
+		dbr:Deism ,
+		dbr:Ancient_philosophy ,
+		<http://dbpedia.org/resource/Category:4th-century_people_of_Roman_Egypt> ,
+		<http://dbpedia.org/resource/Category:5th-century_philosophers> ,
+		dbr:Kathleen_Wider ,
+		<http://dbpedia.org/resource/File:Alexandrian_World_Chronicle_-_6v.jpg> ,
+		dbr:Hierocles_of_Alexandria ,
+		<http://dbpedia.org/resource/Category:5th-century_mathematicians> ,
+		<http://dbpedia.org/resource/Category:5th-century_Byzantine_scientists> ,
+		<http://dbpedia.org/resource/File:Astrolabio_(16787706916).jpg> ,
+		<http://dbpedia.org/resource/File:Icon_of_Saint_Catherine.jpg> ,
+		dbr:Julia_Neilson ,
+		<http://dbpedia.org/resource/File:Hypatia_-_John_Toland_1720.jpg> ,
+		dbr:Julia_Margaret_Cameron ,
+		dbr:Sexual_assault ,
+		<http://dbpedia.org/resource/File:Hypatia_(Charles_Mitchell).jpg> ,
+		<http://dbpedia.org/resource/Edward_J._Watts> ,
+		<http://dbpedia.org/resource/File:Mort_de_la_philosophe_Hypatie.jpg> ,
+		<http://dbpedia.org/resource/Category:4th-century_Byzantine_scientists> ,
+		<http://dbpedia.org/resource/File:Letter_of_Synesius_to_Hypatia_b2.jpg> ,
+		dbr:Aedesia ,
+		dbr:Dogma ,
+		dbr:Theatre_Royal_Haymarket ,
+		dbr:Conic_section ,
+		dbr:Anti-Catholicism ,
+		dbr:Women_in_Mathematics ,
+		<http://dbpedia.org/resource/Agora_(film)> ,
+		<http://dbpedia.org/resource/Category:5th-century_Byzantine_writers> ,
+		dbr:Carl_Sagan ,
+		dbr:Astrolabe ,
+		dbc:Hellenistic-era_philosophers ,
+		dbr:Virginity ,
+		dbr:Age_of_Enlightenment ,
+		<http://dbpedia.org/resource/Ptolemais,_Cyrenaica> ,
+		dbr:Diophantus ,
+		dbr:Elbert_Hubbard ,
+		dbr:The_Plot_to_Save_Socrates ,
+		dbr:Measurement_of_a_Circle ,
+		dbr:Alexandrian_school ,
+		dbr:Iain_Pears ,
+		dbr:Armillary_sphere ,
+		dbr:Ancient_Greece ,
+		dbr:Libya ,
+		dbr:Byzantine_Empire ,
+		dbr:Dictionnaire_philosophique ,
+		dbr:Criticism_of_Christianity ,
+		dbr:Voltaire ,
+		dbr:Koine_Greek ,
+		dbr:Imperial_cult_of_ancient_Rome ,
+		dbr:Atheism ,
+		dbr:Paganism ,
+		dbr:History_of_photography ,
+		dbr:Serapeum ,
+		dbr:Plato ,
+		dbr:Edward_Gibbon ,
+		dbr:Close_reading ,
+		<http://dbpedia.org/resource/File:Euclid_Vat_ms_no_190_I_prop_47.jpg> ,
+		dbc:Murdered_philosophers ,
+		dbr:Early_Middle_Ages ,
+		dbr:Alexandria ,
+		dbr:Hellenistic_religion ,
+		dbr:Umberto_Eco ,
+		dbr:Judy_Chicago ,
+		dbr:Philostorgius ,
+		<http://dbpedia.org/resource/Category:5th-century_astronomers> ,
+		dbr:Ammianus_Marcellinus ,
+		dbr:Arcadius ,
+		dbr:Parabalani ,
+		dbr:Aristotle ,
+		dbr:Lent ,
+		dbr:Christian_martyr ,
+		dbr:Musaeum ,
+		<http://dbpedia.org/resource/Hellenism_(neoclassicism)> ,
+		dbr:Numerology ,
+		dbr:Pythagoras ,
+		dbr:Christian_fundamentalism ,
+		dbr:List_of_women_in_mathematics ,
+		dbc:Ancient_Greek_women_writers ,
+		dbr:Mathematician ,
+		<http://dbpedia.org/resource/Alejandro_Amen\u00E1bar> ,
+		<http://dbpedia.org/resource/John_of_Niki\u00FB> ,
+		dbr:Ptolemy ,
+		dbr:Marcel_Proust ,
+		dbr:Theological_virtues ,
+		dbr:John_Toland ,
+		dbr:Geocentric_model ,
+		dbr:Aristarchus_of_Samos ,
+		dbr:Aphrodite ,
+		dbr:Asteroid_belt ,
+		dbr:Synesius ,
+		dbr:The_Dinner_Party ,
+		dbc:Ancient_Egyptian_women ,
+		dbr:Sexagesimal ,
+		dbr:History_of_the_Jews_in_Egypt ,
+		dbr:Heliocentrism ,
+		dbr:Classical_antiquity ,
+		<http://dbpedia.org/resource/Category:5th-century_Egyptian_people> ,
+		dbr:Hesychius_of_Miletus ,
+		dbc:Egyptian_people_of_Greek_descent ,
+		dbr:Polymath ,
+		dbr:Charles_William_Mitchell ,
+		dbr:John_Philoponus ,
+		dbr:Arithmetica ,
+		dbr:Patriarch_of_Alexandria ,
+		dbr:Hesychius_of_Alexandria ,
+		dbr:Lisa_Kudrow ,
+		<http://dbpedia.org/resource/Women\u0027s_rights> ,
+		dbr:American_Mathematical_Monthly ,
+		dbc:Ancient_Greek_astronomers ,
+		dbc:Women_inventors ,
+		<http://dbpedia.org/resource/Alan_Cameron_(classical_scholar)> ,
+		dbr:Asclepigenia ,
+		dbr:Apatheia ,
+		dbr:Damascius ,
+		dbc:Persecution_of_pagans_in_the_late_Roman_Empire ,
+		<http://dbpedia.org/resource/Category:5th-century_Byzantine_people> ,
+		dbr:Plutarch_of_Athens ,
+		<http://dbpedia.org/resource/Thomas_Lewis_(controversialist)> ,
+		dbr:Iamblichus ,
+		dbr:Mediterranean_Sea ,
+		dbc:Roman-era_philosophers ,
+		dbc:Byzantine-era_pagans ,
+		dbr:Philadelphia ,
+		dbr:Nicephorus_Gregoras ,
+		dbc:Neoplatonists ,
+		dbr:Spondee ,
+		dbr:Suda ,
+		dbr:Plotinus ,
+		<http://dbpedia.org/resource/Bibliotheca_(Photius)> ,
+		dbr:Isidore_of_Alexandria ,
+		dbr:Theodora_of_Emesa ,
+		dbr:Photios_I_of_Constantinople ,
+		dbr:Olympiodorus_the_Younger ,
+		dbr:Simplicius_of_Cilicia ,
+		<http://dbpedia.org/resource/The_Dream_of_Scipio_(novel)> ,
+		dbr:Sanitary_napkin ,
+		dbr:Forgery ,
+		dbr:Paul_Tannery ,
+		dbr:Astrology ,
+		<http://dbpedia.org/resource/Thomas_Heath_(classicist)> ,
+		<http://dbpedia.org/resource/Category:5th-century_Romans> ,
+		<http://dbpedia.org/resource/Hypatia_(novel)> ,
+		dbr:Timeline_of_women_in_science ,
+		dbr:John_Malalas ,
+		dbr:Hellenistic_period ,
+		dbr:Feminism ,
+		dbr:The_History_of_the_Decline_and_Fall_of_the_Roman_Empire ,
+		dbr:Severus_Sebokht ,
+		dbr:Lunar_craters ,
+		dbr:Roof_tiles ,
+		dbr:Stephen_Greenblatt ,
+		<http://dbpedia.org/resource/File:Conic_Sections.svg> ,
+		ns5:_A_Personal_Voyage ,
+		dbr:Almagest ,
+		dbr:Richard_Hoche ,
+		<http://dbpedia.org/resource/Cynicism_(philosophy)> ,
+		dbr:Catholic_Church ,
+		dbr:Pandrosion ,
+		dbr:Harvard_University_Press ,
+		dbr:Pythagoreanism ,
+		dbr:Western_philosophy ,
+		dbr:The_Good_Place ,
+		dbr:The_Mathematics_Educator ,
+		dbc:Roman-era_Alexandrians ,
+		dbr:Constantine_X_Doukas ,
+		dbr:Paul_Levinson ,
+		<http://dbpedia.org/resource/Egypt_(Roman_province)> ,
+		<http://dbpedia.org/resource/Smithsonian_(magazine)> ,
+		dbr:Caesareum_of_Alexandria ,
+		dbr:Decian_persecution ,
+		dbr:Catherine_of_Alexandria ,
+		dbr:Puritans ,
+		<http://dbpedia.org/resource/Category:5th-century_women_writers> ,
+		dbr:Novatianism ,
+		dbr:Hellenistic_philosophy ,
+		dbr:Ostracon ,
+		dbc:Ancient_Greek_mathematicians ,
+		dbc:Women_mathematicians ,
+		dbr:Oyster ,
+		dbr:Athanasius_of_Alexandria ,
+		<http://dbpedia.org/resource/File:Ptolemaicsystem-small.png> ,
+		<http://dbpedia.org/resource/Mary_Anderson_(actress,_born_1859)> ,
+		dbr:Internet_Archive ,
+		<http://dbpedia.org/resource/Category:4th-century_Byzantine_people> ,
+		<http://dbpedia.org/resource/John_of_Tynemouth_(geometer)> ,
+		dbr:Neoplatonism ,
+		dbr:Rachel_Weisz ,
+		<http://dbpedia.org/resource/238_Hypatia> ,
+		dbc:Murdered_women_writers ,
+		<http://dbpedia.org/resource/Category:4th-century_Byzantine_women> ,
+		dbr:Algorithm ,
+		dbr:Leconte_de_Lisle ,
+		dbr:Fordham_University ,
+		dbr:Pope_Theophilus_of_Alexandria ,
+		<http://dbpedia.org/resource/Hypatia_(journal)> ,
+		dbr:Socrates_of_Constantinople ,
+		<http://dbpedia.org/resource/Honorius_(emperor)> ,
+		<http://dbpedia.org/resource/Category:4th-century_births> ,
+		dbc:Lynching_deaths ,
+		<http://dbpedia.org/resource/Orestes_(prefect)> ,
+		<http://dbpedia.org/resource/Category:5th-century_Byzantine_women> ,
+		dbc:Byzantine_astronomers ,
+		dbr:Bertrand_Russell ,
+		dbr:Theon_of_Alexandria ,
+		dbr:Astronomy ,
+		dbr:In_Search_of_Lost_Time .
+@prefix dbt:	<http://dbpedia.org/resource/Template:> .
+dbr:Hypatia	dbp:wikiPageUsesTemplate	dbt:Sisterlinks ,
+		dbt:Lang-grc-gre ,
+		dbt:Refbegin ,
+		dbt:Multiple_image ,
+		dbt:Reflist ,
+		dbt:Platonists ,
+		dbt:Use_dmy_dates ,
+		dbt:In_lang ,
+		dbt:Other_uses ,
+		dbt:Citation ,
+		dbt:IPA-el ,
+		dbt:Efn ,
+		dbt:Ancient_Greek_mathematics ,
+		dbt:Respell ,
+		dbt:Rquote ,
+		dbt:Short_description ,
+		dbt:Wikisourcelang ,
+		dbt:Quote ,
+		dbt:Sfn ,
+		dbt:Bibleverse ,
+		dbt:Notelist ,
+		dbt:IPAc-en ,
+		dbt:Refend ,
+		dbt:Authority_control ,
+		dbt:Infobox_philosopher ,
+		dbt:Circa ,
+		dbt:Clear ,
+		dbt:Good_article ;
+	dbo:wikiPageLength	"97210"^^xsd:nonNegativeInteger .
+dbr:List_of_ancient_Greek_philosophers	dbo:wikiPageWikiLink	dbr:Hypatia .
+dbr:Index_of_ancient_philosophy_articles	dbo:wikiPageWikiLink	dbr:Hypatia .
+dbr:List_of_ancient_Greeks	dbo:wikiPageWikiLink	dbr:Hypatia .
+dbr:List_of_ancient_Platonists	dbo:wikiPageWikiLink	dbr:Hypatia .
+dbr:Greeks_in_Egypt	dbo:wikiPageWikiLink	dbr:Hypatia .
+<http://dbpedia.org/resource/Bale\u00E0ria>	dbo:wikiPageWikiLink	dbr:Hypatia .
+<http://dbpedia.org/resource/Ruth_Randall_Edstr\u00F6m>	dbo:wikiPageWikiLink	dbr:Hypatia .
+dbr:Capitoline_Wolf	dbo:wikiPageWikiLink	dbr:Hypatia .
+dbr:Eio_Books	dbo:wikiPageWikiLink	dbr:Hypatia .
+<http://dbpedia.org/resource/The_Good_Place_(season_4)>	dbo:wikiPageWikiLink	dbr:Hypatia .
+dbr:Hypathia	dbo:wikiPageRedirects	dbr:Hypatia ;
+	dbo:wikiPageWikiLink	dbr:Hypatia .
+dbr:Hypathia_of_Alexandria	dbo:wikiPageRedirects	dbr:Hypatia ;
+	dbo:wikiPageWikiLink	dbr:Hypatia .
+dbr:Hypatia_Divine_Pagan	dbo:wikiPageRedirects	dbr:Hypatia ;
+	dbo:wikiPageWikiLink	dbr:Hypatia .
+dbr:Hypatia_Of_Alexandria	dbo:wikiPageRedirects	dbr:Hypatia ;
+	dbo:wikiPageWikiLink	dbr:Hypatia .
+dbr:Hypatia_of_Alexandria_in_popular_culture	dbo:wikiPageRedirects	dbr:Hypatia ;
+	dbo:wikiPageWikiLink	dbr:Hypatia .
+dbr:Hipacia	dbo:wikiPageRedirects	dbr:Hypatia ;
+	dbo:wikiPageWikiLink	dbr:Hypatia .
+dbr:Hipatia	dbo:wikiPageRedirects	dbr:Hypatia ;
+	dbo:wikiPageWikiLink	dbr:Hypatia .
+dbr:Hipatia_of_Alexandria	dbo:wikiPageRedirects	dbr:Hypatia ;
+	dbo:wikiPageWikiLink	dbr:Hypatia .
+dbr:Hypatia_of_alexandria	dbo:wikiPageRedirects	dbr:Hypatia ;
+	dbo:wikiPageWikiLink	dbr:Hypatia .
+dbr:Hyptachia	dbo:wikiPageRedirects	dbr:Hypatia ;
+	dbo:wikiPageWikiLink	dbr:Hypatia .
+dbr:Hypatia_of_Alexandria_in_art_and_culture	dbo:wikiPageRedirects	dbr:Hypatia ;
+	dbo:wikiPageWikiLink	dbr:Hypatia .
+dbr:Scraping_with_shells	dbo:wikiPageRedirects	dbr:Hypatia ;
+	dbo:wikiPageWikiLink	dbr:Hypatia .
+dbr:Greek_Anthology	dbo:wikiPageWikiLink	dbr:Hypatia .
+dbr:List_of_theoretical_physicists	dbo:wikiPageWikiLink	dbr:Hypatia .
+dbr:Ki_Longfellow	dbo:wikiPageWikiLink	dbr:Hypatia .
+<http://dbpedia.org/resource/List_of_people_from_Marin_County,_California>	dbo:wikiPageWikiLink	dbr:Hypatia .
+dbr:The_Epic_of_Utnoa	dbo:wikiPageWikiLink	dbr:Hypatia .
+dbr:The_Secret_Magdalene	dbo:subsequentWork	dbr:Hypatia ;
+	dbo:wikiPageWikiLink	dbr:Hypatia .
+<http://dbpedia.org/resource/350>	dbo:wikiPageWikiLink	dbr:Hypatia .
+<http://dbpedia.org/resource/415>	dbo:wikiPageWikiLink	dbr:Hypatia .
+dbr:Neoplatonism	dbo:wikiPageWikiLink	dbr:Hypatia .
+<http://dbpedia.org/resource/Asimov\u0027s_Biographical_Encyclopedia_of_Science_and_Technology>	dbo:wikiPageWikiLink	dbr:Hypatia .
+<http://dbpedia.org/resource/Index_of_philosophy_articles_(D\u2013H)>	dbo:wikiPageWikiLink	dbr:Hypatia .
+dbr:Women_in_philosophy	dbo:wikiPageWikiLink	dbr:Hypatia .
+dbr:List_of_women_in_mathematics	dbo:wikiPageWikiLink	dbr:Hypatia .
+dbr:Multipotentiality	dbo:wikiPageWikiLink	dbr:Hypatia .
+dbr:Late_antiquity	dbo:wikiPageWikiLink	dbr:Hypatia .
+dbr:Voltaire	dbo:wikiPageWikiLink	dbr:Hypatia .
+<http://dbpedia.org/resource/Women\u0027s_rights>	dbo:wikiPageWikiLink	dbr:Hypatia .
+dbr:Musaeum	dbo:wikiPageWikiLink	dbr:Hypatia .
+dbr:List_of_minor_planets_named_after_people	dbo:wikiPageWikiLink	dbr:Hypatia .
+dbr:Copts_in_Libya	dbo:wikiPageWikiLink	dbr:Hypatia .
+dbr:Egyptian_astronomy	dbo:wikiPageWikiLink	dbr:Hypatia .
+dbr:Timeline_of_mathematics	dbo:wikiPageWikiLink	dbr:Hypatia .
+dbr:List_of_films_about_philosophers	dbo:wikiPageWikiLink	dbr:Hypatia .
+dbr:List_of_films_about_mathematicians	dbo:wikiPageWikiLink	dbr:Hypatia .
+<http://dbpedia.org/resource/Man:_Whence,_How_and_Whither,_a_Record_of_Clairvoyant_Investigation>	dbo:wikiPageWikiLink	dbr:Hypatia .
+dbr:Lawrence_Aronovitch	dbo:wikiPageWikiLink	dbr:Hypatia .
+dbr:Palladas	dbo:wikiPageWikiLink	dbr:Hypatia .
+dbr:Centre_for_Education_in_Mathematics_and_Computing	dbo:wikiPageWikiLink	dbr:Hypatia .
+dbr:Cyril_of_Alexandria	dbo:wikiPageWikiLink	dbr:Hypatia .
+dbr:Christianity_in_Libya	dbo:wikiPageWikiLink	dbr:Hypatia .
+dbr:Persecution_of_pagans_in_the_late_Roman_Empire	dbo:wikiPageWikiLink	dbr:Hypatia .
+<http://dbpedia.org/resource/400>	dbo:wikiPageWikiLink	dbr:Hypatia .
+dbr:Deaths_of_philosophers	dbo:wikiPageWikiLink	dbr:Hypatia .
+dbr:List_of_women_philosophers	dbo:wikiPageWikiLink	dbr:Hypatia .
+<http://dbpedia.org/resource/Hypatia_(novel)>	dbo:wikiPageWikiLink	dbr:Hypatia .
+dbr:Maria_Dzielska	dbo:wikiPageWikiLink	dbr:Hypatia .
+dbr:Sanitary_napkin	dbo:wikiPageWikiLink	dbr:Hypatia .
+<http://dbpedia.org/resource/List_of_craters_on_the_Moon:_G\u2013K>	dbo:wikiPageWikiLink	dbr:Hypatia .
+dbr:List_of_women_inventors	dbo:wikiPageWikiLink	dbr:Hypatia .
+dbr:The_Shadow_of_the_Lion	dbo:wikiPageWikiLink	dbr:Hypatia .
+dbr:The_Plot_to_Save_Socrates	dbo:wikiPageWikiLink	dbr:Hypatia .
+<http://dbpedia.org/resource/Eternity_(novel)>	dbo:wikiPageWikiLink	dbr:Hypatia .
+dbr:List_of_book-burning_incidents	dbo:wikiPageWikiLink	dbr:Hypatia .
+dbr:Women_in_science	dbo:wikiPageWikiLink	dbr:Hypatia .
+dbr:Of_Alexandria	dbo:wikiPageWikiLink	dbr:Hypatia ;
+	dbo:wikiPageDisambiguates	dbr:Hypatia .
+dbr:Timeline_of_Alexandria	dbo:wikiPageWikiLink	dbr:Hypatia .
+dbr:Satellogic	dbo:wikiPageWikiLink	dbr:Hypatia .
+dbr:Lisa_Kudrow	dbo:wikiPageWikiLink	dbr:Hypatia .
+dbr:List_of_people_with_craters_of_the_Moon_named_after_them	dbo:wikiPageWikiLink	dbr:Hypatia .
+dbr:Design_Museum_of_Chicago	dbo:wikiPageWikiLink	dbr:Hypatia .
+dbr:Harlan_Literary_Society	dbo:wikiPageWikiLink	dbr:Hypatia .
+dbr:Freethought_Day	dbo:wikiPageWikiLink	dbr:Hypatia .
+dbr:Frome_Community_College	dbo:wikiPageWikiLink	dbr:Hypatia .
+<http://dbpedia.org/resource/Ancient_History_(novel)>	dbo:wikiPageWikiLink	dbr:Hypatia .
+dbr:Henriette_Harich-Schwarzbauer	dbo:wikiPageWikiLink	dbr:Hypatia .
+dbr:Timeline_of_women_in_mathematics	dbo:wikiPageWikiLink	dbr:Hypatia .
+dbr:Wilbur_Knorr	dbo:wikiPageWikiLink	dbr:Hypatia .
+dbr:Pandrosion	dbo:wikiPageWikiLink	dbr:Hypatia .
+dbr:List_of_women_innovators_and_inventors_by_country	dbo:wikiPageWikiLink	dbr:Hypatia .

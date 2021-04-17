@@ -1,0 +1,1765 @@
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+dbr:Roger_Scruton	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Louie_Gohmert	dbo:wikiPageWikiLink	dbr:George_Soros .
+<http://dbpedia.org/resource/Ro\u0219ia_Montan\u0103_Project>	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:First_Eagle_Investment_Management	dbo:wikiPageWikiLink	dbr:George_Soros .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:List_of_Jewish_American_businesspeople_in_finance	dbp:caption	dbr:George_Soros ;
+	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Tivadar_Soros	dbo:wikiPageWikiLink	dbr:George_Soros .
+<http://dbpedia.org/resource/The_Europeans_(podcast)>	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Capital_control	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:George_Soros_conspiracy_theories	dbo:wikiPageRedirects	dbr:George_Soros ;
+	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Central_Europe	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Glenn_Beck	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Islam_in_the_Netherlands	dbo:wikiPageWikiLink	dbr:George_Soros .
+<http://dbpedia.org/resource/1997_Asian_financial_crisis>	dbo:wikiPageWikiLink	dbr:George_Soros .
+<http://dbpedia.org/resource/Financial_crisis_of_2007\u20132008>	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Congress_for_Cultural_Freedom	dbo:wikiPageWikiLink	dbr:George_Soros .
+<http://dbpedia.org/resource/John_F._Ince>	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Financial_economics	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Northern_Westchester	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Open_Media	dbo:wikiPageWikiLink	dbr:George_Soros .
+<http://dbpedia.org/resource/List_of_American_Academy_of_Arts_and_Sciences_members_(1994\u20132005)>	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Central_American_migrant_caravans	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Central_bank	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Hainan_Airlines	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Institute_for_New_Economic_Thinking	dbo:foundedBy	dbr:George_Soros ;
+	dbo:wikiPageWikiLink	dbr:George_Soros ;
+	dbp:founder	dbr:George_Soros .
+<http://dbpedia.org/resource/Sea_Cliff,_San_Francisco>	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:List_of_Hungarians	dbo:wikiPageWikiLink	dbr:George_Soros .
+<http://dbpedia.org/resource/2010_California_Proposition_19>	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Concordia_Summit	dbo:wikiPageWikiLink	dbr:George_Soros .
+<http://dbpedia.org/resource/People\u0027s_Vote>	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Volodymyr_Semynozhenko	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:List_of_fellows_of_the_British_Academy_elected_in_the_2010s	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Pittsburgh_synagogue_shooting	dbo:wikiPageWikiLink	dbr:George_Soros .
+<http://dbpedia.org/resource/Washington,_Connecticut>	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:WikiLeaks	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Positive_feedback	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Opposition_to_Brexit	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Moscow_State_School_57	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Frederik_van_Zyl_Slabbert	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:International_Centre_for_Democratic_Transition	dbo:wikiPageWikiLink	dbr:George_Soros .
+<http://dbpedia.org/resource/Viktor_Orb\u00E1n>	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:List_of_philanthropists	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Tibor_Fischer	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Dakar_Conference	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Princess_Mabel_of_Orange-Nassau	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Richard_Goldstone	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Medical_Education_for_South_African_Blacks	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:White_genocide_conspiracy_theory	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Institute_for_Democratic_Alternatives_in_South_Africa	dbo:wikiPageWikiLink	dbr:George_Soros .
+<http://dbpedia.org/resource/Boris_Berezovsky_(businessman)>	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Grigory_Baklanov	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Nikolay_Artemov	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Gennady_Zyuganov	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Sergei_Roldugin	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Araz_Azimov	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Shamil_Omarov	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Guram_Sharadze	dbo:wikiPageWikiLink	dbr:George_Soros .
+<http://dbpedia.org/resource/Alexander_Goldfarb_(biologist)>	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Masoch_Fund	dbo:wikiPageWikiLink	dbr:George_Soros .
+<http://dbpedia.org/resource/Mikl\u00F3s_V\u00E1s\u00E1rhelyi>	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:VNIIPAS	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Hamilton_Fish_V	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Igor_Giorgadze	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Jane_Mayer	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:International_Renaissance_Foundation	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Rose_Revolution	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Anne_Lonsdale	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:List_of_Jewish_atheists_and_agnostics	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Fomento_de_Construcciones_y_Contratas	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Alfred_Winslow_Jones	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Party_of_Shariy	dbo:wikiPageWikiLink	dbr:George_Soros .
+<http://dbpedia.org/resource/Vox_(political_party)>	dbo:wikiPageWikiLink	dbr:George_Soros .
+<http://dbpedia.org/resource/A.S._Roma>	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Manfred_Weber	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:List_of_books_written_by_CEOs	dbo:wikiPageWikiLink	dbr:George_Soros .
+<http://dbpedia.org/resource/Michael_Platt_(financier)>	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Cargill_family	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Literatura_Mondo	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Joon_Yun	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Quantum_economics	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Chuck_Sudetic	dbo:wikiPageWikiLink	dbr:George_Soros .
+<http://dbpedia.org/resource/Witold_Kie\u017Cun>	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Catalist	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Ballot_Initiative_Strategy_Center	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Center_for_a_Free_Cuba	dbo:wikiPageWikiLink	dbr:George_Soros .
+<http://dbpedia.org/resource/Kaupthing_Singer_&_Friedlander>	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:SCCA-Ljubljana	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Lindesmith_Center	dbo:wikiPageWikiLink	dbr:George_Soros .
+<http://dbpedia.org/resource/IMRO_\u2013_Bulgarian_National_Movement>	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Nakhchivan_State_University	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Texans_for_Public_Justice	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:BNK_Petroleum	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Group_for_Social_Dialogue	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:MapLight	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Vsevolod_Perekalin	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Beit_Shemesh	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Charles_Koch	dbo:wikiPageWikiLink	dbr:George_Soros .
+<http://dbpedia.org/resource/John_Solomon_(political_commentator)>	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Fidesz	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Criticism_of_Human_Rights_Watch	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Morton_Halperin	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Matt_Gaetz	dbo:wikiPageWikiLink	dbr:George_Soros .
+<http://dbpedia.org/resource/Douglas_Murray_(author)>	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:DATA	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Greg_Coffey	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Kerr_Neilson	dbo:wikiPageWikiLink	dbr:George_Soros .
+<http://dbpedia.org/resource/Flora_Fraser_(writer)>	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Definers_Public_Affairs	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Quantum_Group_of_Funds	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Helios_Towers	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Frances_Pinter	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:TowerBrook_Capital_Partners	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Seth_Klarman	dbo:wikiPageWikiLink	dbr:George_Soros .
+<http://dbpedia.org/resource/Eye_to_Eye_(British_TV_series)>	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:List_of_impact_investing_firms	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Golden_Telecom	dbo:wikiPageWikiLink	dbr:George_Soros .
+<http://dbpedia.org/resource/Steven_F._Udvar-H\u00E1zy>	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Open_Society_Foundation_for_South_Africa	dbo:foundedBy	dbr:George_Soros ;
+	dbo:wikiPageWikiLink	dbr:George_Soros ;
+	dbp:founder	dbr:George_Soros .
+dbr:Russian_undesirable_organizations_law	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Oby_Ezekwesili	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Ed_Kashi	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Antisemitism_in_the_UK_Conservative_Party	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Shen_Tong	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Grand_China_Air	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Bernard_Kouchner	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Central_Bank_of_Malaysia	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Rebecca_MacKinnon	dbo:wikiPageWikiLink	dbr:George_Soros .
+<http://dbpedia.org/resource/Ina_Mar\u010Diulionyt\u0117>	dbo:wikiPageWikiLink	dbr:George_Soros .
+<http://dbpedia.org/resource/Meanings_of_minor_planet_names:_3001\u20134000>	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Patricia_Martin	dbo:wikiPageWikiLink	dbr:George_Soros .
+<http://dbpedia.org/resource/Republika_(Macedonian_newspaper)>	dbo:wikiPageWikiLink	dbr:George_Soros .
+<http://dbpedia.org/resource/Nicolas_M\u00FCller>	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Constitutional_Rights_Union	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:George_Vassiliou	dbo:wikiPageWikiLink	dbr:George_Soros .
+<http://dbpedia.org/resource/2019_European_Parliament_election_in_Hungary>	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:CEU_Business_School	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Crime_in_Hungary	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Hungarian_Spectrum	dbo:wikiPageWikiLink	dbr:George_Soros .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+wikipedia-en:George_Soros	foaf:primaryTopic	dbr:George_Soros .
+dbr:European_Exchange_Rate_Mechanism	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Black_Wednesday	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:List_of_people_associated_with_the_London_School_of_Economics	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:List_of_premature_obituaries	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Boyko_Vasilev	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Fareed_Zakaria_GPS	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Financial_Times_Person_of_the_Year	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:London_School_of_Economics	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Laureate_Education	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Modern_liberalism_in_the_United_States	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Igor_Korchilov	dbo:wikiPageWikiLink	dbr:George_Soros .
+<http://dbpedia.org/resource/Islamophobia_in_the_UK_Conservative_Party_(1997\u2013present)>	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Asian_University_for_Women	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Ranil_Wickremesinghe	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Reactions_to_Occupy_Wall_Street	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:The_Money_Programme	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Los_Angeles_World_Affairs_Council	dbo:wikiPageWikiLink	dbr:George_Soros .
+<http://dbpedia.org/resource/Allen_&_Company_Sun_Valley_Conference>	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:List_of_University_of_London_people	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Criticism_of_the_war_on_terror	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Margaret_Brennan	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:The_Political_Zoo	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Democracy_Alliance	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:List_of_Barack_Obama_2012_presidential_campaign_endorsements	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:List_of_Hillary_Clinton_2016_presidential_campaign_non-political_endorsements	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Open_society	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:James_Woods	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Police_corruption	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Robert_Slater	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Robin_Hood_Foundation	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Financial_transaction_tax	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:University_of_London	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:List_of_Wesleyan_University_people	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:The_Obama_Identity	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:List_of_After_Words_interviews_first_aired_in_2006	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Culture_Warrior	dbo:wikiPageWikiLink	dbr:George_Soros .
+<http://dbpedia.org/resource/List_of_covers_of_Time_magazine_(1990s)>	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:List_of_people_from_the_Upper_East_Side	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Osman_Kavala	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Ernest_Gellner	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Alessandra_Farkas	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Francine_Lacqua	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Ewa_Kuryluk	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:European_Council_on_Foreign_Relations	dbo:wikiPageWikiLink	dbr:George_Soros .
+<http://dbpedia.org/resource/Israel\u2013Malaysia_relations>	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Credit_default_swap	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Controversies_surrounding_the_Eurozone_crisis	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Victor_Niederhoffer	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Negative_feedback	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Soros_Fund_Management	dbo:foundedBy	dbr:George_Soros ;
+	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Steven_Gan	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Quincy_Institute_for_Responsible_Statecraft	dbo:wikiPageWikiLink	dbr:George_Soros .
+<http://dbpedia.org/resource/Nils-G\u00F6ran_Areskoug>	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Far-right_politics_in_Slovenia	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Eugeniusz_Smolar	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Fred_Cuny	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Scott_Bessent	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Central_Park_Conservancy	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Coloboma	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Ezra_Levant	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:List_of_people_from_Budapest	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Chuck_Collins	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:David_Giampaolo	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Post-socialist_art	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Soros_Realism	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Catherine_Croft	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Pentti_Kouri	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Ryurik_Lonin	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Nils_Taube	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Eaton_Square	dbo:wikiPageWikiLink	dbr:George_Soros .
+<http://dbpedia.org/resource/Donald_Trump_Jr.>	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Jerzy_Onuch	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Bronislovas_Rudys	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Mortgage_loan	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Speculation	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Avaaz	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Human_Rights_Watch	dbo:wikiPageWikiLink	dbr:George_Soros .
+<http://dbpedia.org/resource/50_Most_Influential_(Bloomberg_Markets_ranking)>	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Wharton_India_Economic_Forum	dbo:wikiPageWikiLink	dbr:George_Soros .
+<http://dbpedia.org/resource/2019_United_Kingdom_general_election>	dbo:wikiPageWikiLink	dbr:George_Soros .
+<http://dbpedia.org/resource/2020_United_States_presidential_election>	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Reactions_to_the_George_Floyd_protests	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Philippine_drug_war	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:World_Economic_Forum	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Ukraine	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Mortgage_industry_of_Denmark	dbo:wikiPageWikiLink	dbr:George_Soros .
+<http://dbpedia.org/resource/Trump_International_Hotel_and_Tower_(Chicago)>	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:August_1930	dbo:wikiPageWikiLink	dbr:George_Soros .
+<http://dbpedia.org/resource/Jack_Nash_(businessman)>	dbo:wikiPageWikiLink	dbr:George_Soros .
+<http://dbpedia.org/resource/Arnhold_and_S._Bleichroeder>	dbo:wikiPageWikiLink	dbr:George_Soros .
+<http://dbpedia.org/resource/L\u00EDvia_J\u00E1r\u00F3ka>	dbo:wikiPageWikiLink	dbr:George_Soros .
+<http://dbpedia.org/resource/Sarm\u012Bte_\u0112lerte>	dbo:wikiPageWikiLink	dbr:George_Soros .
+<http://dbpedia.org/resource/51st_Munich_Security_Conference>	dbo:wikiPageWikiLink	dbr:George_Soros .
+<http://dbpedia.org/resource/AntiGravity,_Inc>	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Douglas_Tompkins	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Order_of_the_Cross_of_Terra_Mariana	dbo:wikiPageWikiLink	dbr:George_Soros .
+<http://dbpedia.org/resource/Reformasi_(Malaysia)>	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Centre_for_International_Governance_Innovation	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:The_Mayfair_Set	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Malaysiakini	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Anwar_Ibrahim	dbo:wikiPageWikiLink	dbr:George_Soros .
+<http://dbpedia.org/resource/Adair_Turner,_Baron_Turner_of_Ecchinswell>	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Committee_for_Sensible_Marijuana_Policy	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Michael_Anton	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:International_Crisis_Group	dbo:wikiPageWikiLink	dbr:George_Soros .
+<http://dbpedia.org/resource/Zbigniew_Pe\u0142czy\u0144ski>	dbo:wikiPageWikiLink	dbr:George_Soros .
+<http://dbpedia.org/resource/Lee_Anderson_(British_politician)>	dbo:wikiPageWikiLink	dbr:George_Soros .
+<http://dbpedia.org/resource/Quaglino\u0027s>	dbo:wikiPageWikiLink	dbr:George_Soros .
+<http://dbpedia.org/resource/The_World\u0027s_Billionaires_2014>	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Michael_Steinhardt	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Carnegie_Medal_of_Philanthropy	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Michael_Scammell	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Second_round_of_voting_in_the_2008_Zimbabwean_presidential_election	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Media_Development_Investment_Fund	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Hedge_fund	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Foreign_exchange_market	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Millennium_Villages_Project	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Lucian_Wintrich	dbo:wikiPageWikiLink	dbr:George_Soros .
+<http://dbpedia.org/resource/Reflexivity_(social_theory)>	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:The_Open_Society_and_Its_Enemies	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Sonja_Licht	dbo:wikiPageWikiLink	dbr:George_Soros .
+<http://dbpedia.org/resource/Steven_\u0027Bo\u0027_Keeley>	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:BlueMountain_Capital	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Global_Marshall_Plan_Initiative	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Vulture_capitalist	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:List_of_Hungarians_by_net_worth	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Robin_Hood_tax	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Sheldon_Adelson	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Karl_Popper	dbo:influenced	dbr:George_Soros ;
+	dbp:influenced	dbr:George_Soros ;
+	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Sub-Saharan_Africa	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Donald_Tsang	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Jacob_Rees-Mogg	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Anti-LGBT_rhetoric	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Armin_Laschet	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Feral_Tribune	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:List_of_Esperanto_speakers	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Bruce_Kovner	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Columbia_Journalism_Review	dbo:wikiPageWikiLink	dbr:George_Soros .
+<http://dbpedia.org/resource/2013_New_York_City_mayoral_election>	dbo:wikiPageWikiLink	dbr:George_Soros .
+<http://dbpedia.org/resource/Joe_Lewis_(British_businessman)>	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:George_Lakoff	dbo:wikiPageWikiLink	dbr:George_Soros .
+<http://dbpedia.org/resource/Justify_(horse)>	dbo:wikiPageWikiLink	dbr:George_Soros .
+<http://dbpedia.org/resource/Kevin_Payne_(soccer)>	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Economics_of_bitcoin	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:America_Coming_Together	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Media_Fund	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Rock_Against_Bush	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:America_Votes	dbo:wikiPageWikiLink	dbr:George_Soros .
+<http://dbpedia.org/resource/2008_California_Proposition_5>	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Torre_Mayor	dbp:owner	dbr:George_Soros ;
+	dbo:owner	dbr:George_Soros ;
+	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Pat_Stryker	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Richard_Gilder	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Controversies_surrounding_President_Mohammad_Khatami	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Marcy_Blum	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Quantedge	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Refugees_International	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Basharat_Peer	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Jed_Horne	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Adriana_Ferreyr	dbo:wikiPageWikiLink	dbr:George_Soros .
+<http://dbpedia.org/resource/K\u00E1lm\u00E1n_Mizsei>	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:International_Academy_for_Systems_and_Cybernetic_Sciences	dbo:wikiPageWikiLink	dbr:George_Soros .
+<http://dbpedia.org/resource/Pir\u00E9z_people>	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Bitcoin	dbo:wikiPageWikiLink	dbr:George_Soros .
+<http://dbpedia.org/resource/2016_Dutch_Ukraine\u2013European_Union_Association_Agreement_referendum>	dbo:wikiPageWikiLink	dbr:George_Soros .
+<http://dbpedia.org/resource/1930>	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Boao_Forum_for_Asia	dbo:wikiPageWikiLink	dbr:George_Soros .
+<http://dbpedia.org/resource/2010_Pakistan_floods>	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Alex_Donner	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Outboard_Marine_Corporation	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Bohdan_Hawrylyshyn	dbo:wikiPageWikiLink	dbr:George_Soros .
+<http://dbpedia.org/resource/Sigmundur_Dav\u00ED\u00F0_Gunnlaugsson>	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Stina_Lundberg_Dabrowski	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:John_Ranard	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Human_rights_in_Belarus	dbo:wikiPageWikiLink	dbr:George_Soros .
+<http://dbpedia.org/resource/Peter_B._Lewis>	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Jack_Kingston	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Scott_Wagner	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:David_Cornstein	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Joseph_diGenova	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Bob_Livingston	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Kenneth_Roth	dbo:wikiPageWikiLink	dbr:George_Soros .
+<http://dbpedia.org/resource/2013_Romanian_protests_against_the_Ro\u0219ia_Montan\u0103_Project>	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Urban_debate_league	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:InSight_Crime	dbo:wikiPageWikiLink	dbr:George_Soros .
+<http://dbpedia.org/resource/Christopher_Stone_(criminal_justice_expert)>	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Jewish_Funds_for_Justice	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Mark_Schmitt	dbo:wikiPageWikiLink	dbr:George_Soros .
+<http://dbpedia.org/resource/Bedford_(town),_New_York>	dbo:wikiPageWikiLink	dbr:George_Soros .
+<http://dbpedia.org/resource/Bedford_Hills,_New_York>	dbo:wikiPageWikiLink	dbr:George_Soros .
+<http://dbpedia.org/resource/Katonah,_New_York>	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Leon_Levy	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:LifeZette	dbo:wikiPageWikiLink	dbr:George_Soros .
+<http://dbpedia.org/resource/Edward_W._Scott>	dbo:wikiPageWikiLink	dbr:George_Soros .
+<http://dbpedia.org/resource/Cadre_(company)>	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Comverse_Technology	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Alexis_Papahelas	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Citizens_for_Self-Governance	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:People_for_the_American_Way	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Cannabis_in_Oregon	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Sumgait_pogrom	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Criticism_of_the_Israeli_government	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Wences_Casares	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Executive_Intelligence_Review	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Ciklum	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Timothy_Garton_Ash	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Robert_Schriesheim	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Paul_Gosar	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:List_of_Booknotes_interviews_first_aired_in_2004	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Naftogaz	dbo:wikiPageWikiLink	dbr:George_Soros .
+<http://dbpedia.org/resource/Order_of_Liberty_(Ukraine)>	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Adam_Daniel_Rotfeld	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Mark_Almond	dbo:wikiPageWikiLink	dbr:George_Soros .
+<http://dbpedia.org/resource/Aera_(magazine)>	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:OpenDemocracy	dbo:wikiPageWikiLink	dbr:George_Soros .
+<http://dbpedia.org/resource/Do_as_I_Say_(Not_as_I_Do)>	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Chanel_Rion	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Sally-Ann_Hart	dbo:wikiPageWikiLink	dbr:George_Soros .
+<http://dbpedia.org/resource/2015\u20132016_stock_market_selloff>	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:State_capture	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Arabella_Advisors	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Larry_Krasner	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Victoria_Toensing	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Ready_PAC	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:HP_Indigo_Division	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Charmian_Gooch	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Herbert_Black	dbo:wikiPageWikiLink	dbr:George_Soros .
+<http://dbpedia.org/resource/The_World\u0027s_Billionaires_2010>	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Secretary_of_State_Project	dbo:wikiPageWikiLink	dbr:George_Soros .
+<http://dbpedia.org/resource/Lu\u00EDs_Paix\u00E3o_Martins>	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Daisy_Soros	dbp:relatives	dbr:George_Soros ;
+	dbo:relative	dbr:George_Soros ;
+	dbo:wikiPageWikiLink	dbr:George_Soros .
+<http://dbpedia.org/resource/2017_Hungarian_presidential_election>	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Hungarians_in_the_United_Kingdom	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Hungarian_Americans	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:First_inauguration_of_Barack_Obama	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Nigel_Farage	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Decriminalization_of_non-medical_cannabis_in_the_United_States	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:List_of_Barack_Obama_2008_presidential_campaign_endorsements	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:History_of_the_Internet	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:John_Edwards_2008_presidential_campaign	dbo:wikiPageWikiLink	dbr:George_Soros .
+<http://dbpedia.org/resource/2018_in_American_television>	dbo:wikiPageWikiLink	dbr:George_Soros .
+<http://dbpedia.org/resource/2018_in_the_United_States>	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Sidney_Powell	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Terrorism_in_the_United_States	dbo:wikiPageWikiLink	dbr:George_Soros .
+<http://dbpedia.org/resource/Political_views_of_Bill_O\u0027Reilly>	dbo:wikiPageWikiLink	dbr:George_Soros .
+<http://dbpedia.org/resource/John_R._Hunting>	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Timeline_of_the_2004_United_States_presidential_election	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Open_Society_Archives	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Nick_Timothy	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:European_Movement_UK	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:ZaMirNET	dbo:wikiPageWikiLink	dbr:George_Soros .
+<http://dbpedia.org/resource/The_Movement_(populist_group)>	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Roger_Ailes	dbo:wikiPageWikiLink	dbr:George_Soros .
+<http://dbpedia.org/resource/D.C._United>	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Tadeusz_Pieronek	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:The_New_York_Review_of_Books	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:PublicAffairs	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:October_2018_United_States_mail_bombing_attempts	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Joint_Comprehensive_Plan_of_Action	dbo:wikiPageWikiLink	dbr:George_Soros .
+<http://dbpedia.org/resource/2016_shooting_of_Dallas_police_officers>	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Madeleine_Albright	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:DCLeaks	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Political_positions_of_Ted_Cruz	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Gordon_Bajnai	dbo:wikiPageWikiLink	dbr:George_Soros .
+<http://dbpedia.org/resource/Kevin_McCarthy_(California_politician)>	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:QAnon	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Racism_in_the_UK_Conservative_Party	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:FP_Top_100_Global_Thinkers	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Alex_Jones	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Alexander_Soros	dbo:parent	dbr:George_Soros ;
+	dbp:parents	dbr:George_Soros ;
+	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Center_for_American_Progress	dbo:wikiPageWikiLink	dbr:George_Soros .
+<http://dbpedia.org/resource/Fiona_Hill_(presidential_advisor)>	dbo:wikiPageWikiLink	dbr:George_Soros .
+<http://dbpedia.org/resource/Robert_Johnson_(economist)>	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Lou_Dobbs	dbo:wikiPageWikiLink	dbr:George_Soros .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:George_Soros	rdf:type	yago:Survivor110681194 ,
+		yago:WikicatHungarianPhilosophers ,
+		yago:WikicatNativeEsperantoSpeakers ,
+		yago:WikicatFramingTheorists .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:George_Soros	rdf:type	wikidata:Q5 ,
+		wikidata:Q24229398 ,
+		yago:Traveler109629752 ,
+		yago:WikicatAlumniOfTheLondonSchoolOfEconomics ,
+		yago:Theorist110706812 ,
+		foaf:Person ,
+		yago:Merchant110309896 ,
+		yago:Billionaire110529684 ,
+		yago:WikicatPeopleConvictedOfInsiderTrading ,
+		yago:Migrant110314952 ,
+		yago:Emigrant110051975 .
+@prefix schema:	<http://schema.org/> .
+dbr:George_Soros	rdf:type	schema:Person ,
+		yago:MilitaryOfficer110317007 ,
+		yago:Businessperson109882716 ,
+		yago:Capitalist109609232 ,
+		yago:WikicatAmericanBillionaires ,
+		yago:WikicatAmericanPeopleOfHungarianDescent ,
+		yago:Serviceman110582746 ,
+		yago:Unfortunate109630641 ,
+		yago:Director110014939 ,
+		yago:WikicatAmericanPeopleOfHungarian-JewishDescent ,
+		yago:WikicatHungarianPhilanthropists ,
+		yago:WikicatHungarianStockTraders ,
+		yago:WikicatHungarianFinanciers ,
+		yago:WikicatHungarianInvestors ,
+		yago:WikicatHungarianBillionaires ,
+		yago:WikicatHungarianAtheists ,
+		yago:Administrator109770949 ,
+		yago:WikicatAmericanPhilanthropists ,
+		yago:NonreligiousPerson109625789 ,
+		yago:Atheist109820044 ,
+		yago:Disbeliever110015897 ,
+		yago:WikicatJewishAtheists ,
+		yago:WikicatAmericanAtheists ,
+		yago:Head110162991 .
+@prefix umbel-rc:	<http://umbel.org/umbel/rc/> .
+dbr:George_Soros	rdf:type	umbel-rc:PersonWithOccupation ,
+		yago:Banker109837824 ,
+		yago:Financier110090020 ,
+		yago:WikicatAmericanEconomists ,
+		yago:Positivist110456138 ,
+		yago:WikicatPeopleFromBudapest ,
+		yago:Whole100003553 ,
+		yago:SkilledWorker110605985 ,
+		yago:Scholar110557854 ,
+		yago:Reformer110515194 ,
+		yago:PhysicalEntity100001930 ,
+		yago:Person100007846 ,
+		yago:WikicatJewishActivists ,
+		yago:Organism100004475 ,
+		dbo:Person ,
+		yago:Object100002684 ,
+		yago:WikicatJewishAmericanPhilanthropists ,
+		yago:WikicatDrugPolicyReformActivists ,
+		yago:RichPerson110529231 ,
+		yago:WikicatCriticalRationalists ,
+		yago:WikicatAmericanPhilosophers ,
+		yago:WikicatPoliticalPhilosophers ,
+		yago:Disputant109615465 ,
+		yago:Communicator109610660 ,
+		yago:Alumnus109786338 ,
+		yago:CausalAgent100007347 ,
+		dbo:Agent ,
+		yago:Scientist110560637 ,
+		yago:WikicatAmericanPeople ,
+		yago:Trader110720453 ,
+		yago:Articulator109811712 ,
+		yago:WikicatLivingPeople ,
+		yago:Speaker110630188 ,
+		yago:YagoLegalActor ,
+		yago:YagoLegalActorGeo ,
+		yago:Writer110794014 ,
+		yago:Worker109632518 ,
+		yago:Economist110043643 ,
+		yago:SocialScientist110619642 .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:George_Soros	rdf:type	owl:Thing ,
+		yago:WikicatJewishPhilosophers ,
+		yago:Militant110315837 ,
+		yago:LivingThing100004258 ,
+		yago:WikicatHolocaustSurvivors ,
+		yago:Leader109623038 ,
+		yago:Intellectual109621545 ,
+		yago:Investor110216106 ,
+		yago:WikicatAmericanInvestors ,
+		yago:WikicatInvestors ,
+		yago:Donor110025730 ,
+		yago:Benefactor109608709 ,
+		yago:Philanthropist110421956 ,
+		yago:WikicatAmericanCurrencyTraders ,
+		yago:WikicatJewishAmericanWriters ,
+		yago:WikicatStockTraders ,
+		yago:GoodPerson110138767 ,
+		yago:CommandingOfficer109941964 ,
+		yago:Philosopher110423589 ,
+		yago:WikicatHedgeFundManagers ,
+		yago:WikicatBankers ,
+		yago:WikicatAmericanFinanciers ,
+		yago:WikicatCommandersWithStarOfTheOrderOfMeritOfTheRepublicOfPoland ,
+		yago:WikicatHungarianPeopleOfJewishDescent ,
+		yago:WikicatHungarianEmigrantsToTheUnitedStates ,
+		yago:WikicatHungarianWriters ,
+		yago:WikicatAmericanBusinessWriters ,
+		yago:WikicatHungarianPeople ,
+		yago:WikicatAmericanEconomicsWriters .
+@prefix ns11:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:George_Soros	rdf:type	ns11:NaturalPerson ,
+		ns11:Agent ,
+		wikidata:Q215627 ,
+		yago:WikicatHungarianHedgeFundManagers ,
+		yago:WikicatHungarianMoneyManagers ,
+		yago:WikicatAmericanMoneyManagers ,
+		yago:WikicatAmericanStockTraders ,
+		yago:StockTrader110657835 ,
+		yago:WikicatAmericanHedgeFundManagers .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:George_Soros	rdfs:label	"George Soros"@ca ,
+		"George Soros"@in ,
+		"George Soros"@sv ,
+		"George Soros"@en ,
+		"George Soros"@eo ,
+		"George Soros"@cs ,
+		"George Soros"@it ,
+		"George Soros"@pl ,
+		"\u0421\u043E\u0440\u043E\u0441, \u0414\u0436\u043E\u0440\u0434\u0436"@ru ,
+		"George Soros"@es ,
+		"\u4E54\u6CBB\u00B7\u7D22\u7F57\u65AF"@zh ,
+		"George Soros"@de ,
+		"George Soros"@nl ,
+		"\u0414\u0436\u043E\u0440\u0434\u0436 \u0421\u043E\u0440\u043E\u0441"@uk ,
+		"\u062C\u0648\u0631\u062C \u0633\u0648\u0631\u0648\u0633"@ar ,
+		"George Soros"@pt ,
+		"\u03A4\u03B6\u03C9\u03C1\u03C4\u03B6 \u03A3\u03CC\u03C1\u03BF\u03C2"@el ,
+		"George Soros"@fr ,
+		"\uC870\uC9C0 \uC18C\uB85C\uC2A4"@ko ;
+	rdfs:comment	"\u0414\u0436\u043E\u0440\u0434\u0436 \u0421\u043E\u0301\u0440\u043E\u0441 (\u0430\u043D\u0433\u043B. George Soros, \u0414\u044C\u0451\u0440\u0434\u044C \u0428\u043E\u0440\u043E\u0448, \u0432\u0435\u043D\u0433. Soros Gy\u00F6rgy \u2014 \u043D\u0430\u0441\u0442\u043E\u044F\u0449\u0430\u044F \u0444\u0430\u043C\u0438\u043B\u0438\u044F \u2014 \u0428\u0432\u0430\u0440\u0446, \u043D\u0435\u043C. Schwartz; \u0440\u043E\u0434. 12 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 1930, \u0411\u0443\u0434\u0430\u043F\u0435\u0448\u0442, \u041A\u043E\u0440\u043E\u043B\u0435\u0432\u0441\u0442\u0432\u043E \u0412\u0435\u043D\u0433\u0440\u0438\u044F) \u2014 \u0430\u043C\u0435\u0440\u0438\u043A\u0430\u043D\u0441\u043A\u0438\u0439 \u0442\u0440\u0435\u0439\u0434\u0435\u0440, \u0444\u0438\u043D\u0430\u043D\u0441\u0438\u0441\u0442, \u0438\u043D\u0432\u0435\u0441\u0442\u043E\u0440. \u0421\u0442\u043E\u0440\u043E\u043D\u043D\u0438\u043A \u0442\u0435\u043E\u0440\u0438\u0438 \u043E\u0442\u043A\u0440\u044B\u0442\u043E\u0433\u043E \u043E\u0431\u0449\u0435\u0441\u0442\u0432\u0430 \u0438 \u043F\u0440\u043E\u0442\u0438\u0432\u043D\u0438\u043A \u00AB\u0440\u044B\u043D\u043E\u0447\u043D\u043E\u0433\u043E \u0444\u0443\u043D\u0434\u0430\u043C\u0435\u043D\u0442\u0430\u043B\u0438\u0437\u043C\u0430\u00BB (\u0432 \u044D\u0442\u043E\u043C \u043D\u0430\u043F\u0440\u0430\u0432\u043B\u0435\u043D\u0438\u0438 \u0431\u043B\u0438\u0437\u043E\u043A \u043A \u0441\u043E\u0446\u0438\u0430\u043B\u044C\u043D\u044B\u043C \u0438\u0434\u0435\u044F\u043C \u041A\u0430\u0440\u043B\u0430 \u041F\u043E\u043F\u043F\u0435\u0440\u0430). \u0421\u043E\u0437\u0434\u0430\u0442\u0435\u043B\u044C \u0441\u0435\u0442\u0438 \u0431\u043B\u0430\u0433\u043E\u0442\u0432\u043E\u0440\u0438\u0442\u0435\u043B\u044C\u043D\u044B\u0445 \u043E\u0440\u0433\u0430\u043D\u0438\u0437\u0430\u0446\u0438\u0439, \u0438\u0437\u0432\u0435\u0441\u0442\u043D\u044B\u0445 \u043A\u0430\u043A \u00AB\u0424\u043E\u043D\u0434 \u0421\u043E\u0440\u043E\u0441\u0430\u00BB. \u0427\u043B\u0435\u043D \u0438\u0441\u043F\u043E\u043B\u043D\u0438\u0442\u0435\u043B\u044C\u043D\u043E\u0433\u043E \u043A\u043E\u043C\u0438\u0442\u0435\u0442\u0430 . \u041D\u0430 \u0441\u0435\u043D\u0442\u044F\u0431\u0440\u044C 2019 \u0433\u043E\u0434\u0430 \u0435\u0433\u043E \u0441\u043E\u0441\u0442\u043E\u044F\u043D\u0438\u0435 \u043E\u0446\u0435\u043D\u0438\u0432\u0430\u0435\u0442\u0441\u044F \u0432 8,3 \u043C\u043B\u0440\u0434 \u0434\u043E\u043B\u043B\u0430\u0440\u043E\u0432 \u0421\u0428\u0410."@ru ,
+		"\u55AC\u6CBB\u00B7\u7D22\u7F85\u65AF\uFF08\u82F1\u8A9E\uFF1AGeorge Soros\uFF0C1930\u5E748\u670812\u65E5\uFF0D\uFF09\uFF0C\u672C\u540D\u662F\u65BD\u74E6\u8328\u00B7\u6377\u723E\u5409\uFF08\u5308\u7259\u5229\u8A9E\uFF1ASchwartz Gy\u00F6rgy\uFF09\uFF0C\u66FE\u7528\u8BD1\u540D\u7ECD\u7F57\u4EC0\u00B7\u6377\u723E\u5409\uFF0C\u662F\u5308\u7259\u5229\u51FA\u751F\u7684\u7F8E\u7C4D\u7336\u592A\u4EBA\u5546\u4EBA\uFF0C\u8457\u540D\u7684\u8CA8\u5E63\u6295\u6A5F\u5BB6\uFF0C\u80A1\u7968\u6295\u8CC7\u8005\uFF0C\u9032\u6B65\u4E3B\u7FA9\u653F\u6CBB\u53CA\u793E\u6703\u904B\u52D5\u5BB6\u548C\u54F2\u5B78\u5BB6\u3001\u6148\u5584\u5BB6\uFF0C\u7528\u91D1\u878D\u5E02\u5834\u4F86\u5BE6\u9A57\u81EA\u8EAB\u7684\u54F2\u5B78\u7406\u5FF5\u3002\u73B0\u5728\u4ED6\u662F\u548C\u958B\u653E\u793E\u6703\u7814\u7A76\u6240\u4E3B\u5E2D\uFF0C\u4E5F\u662F\u8463\u4E8B\u6703\u524D\u6210\u5458\u3002\u57282019\u5E74\u7F8E\u570B400\u5BCC\u8C6A\u699C\uFF0C\u4ED6\u4EE586\u5104\u7F8E\u5143\u7684\u8CC7\u7522\uFF0C\u6392\u540D\u7B2C56\u540D\u3002"@zh ,
+		"\u062C\u0648\u0631\u062C \u0633\u0648\u0631\u0648\u0633 \u0648\u0644\u062F \u0641\u064A \u0627\u0644\u062B\u0627\u0646\u064A \u0645\u0646 \u0634\u0647\u0631 \u0622\u0628 \u0623\u063A\u0633\u0637\u0633 \u0639\u0627\u0645 1930 \u060C\u0648\u0647\u0648 \u0647\u0646\u063A\u0627\u0631\u064A \u0627\u0644\u0645\u0648\u0644\u062F \u0623\u0645\u0631\u064A\u0643\u064A \u0627\u0644\u062C\u0646\u0633\u064A\u0629 \u060C\u0631\u062C\u0644 \u0623\u0639\u0645\u0627\u0644 \u0648\u0645\u0633\u062A\u062B\u0645\u0631 \u0648\u0645\u0647\u062A\u0645 \u0628\u0627\u0644\u0639\u0645\u0644 \u0627\u0644\u062E\u064A\u0631\u064A. \u0639\u0631\u0641 \u0628\u062F\u0639\u0645\u0647 \u0644\u0644\u0633\u064A\u0627\u0633\u0627\u062A \u0627\u0644\u0644\u064A\u0628\u0631\u0627\u0644\u064A\u0629 \u0648\u0628\u062F\u0648\u0631\u0647 \u0627\u0644\u0641\u0639\u0627\u0644 \u0641\u064A \u0645\u0631\u062D\u0644\u0629 \u0627\u0644\u062A\u062D\u0648\u0644 \u0645\u0646 \u0627\u0644\u0634\u064A\u0648\u0639\u064A\u0629 \u0625\u0644\u0649 \u0627\u0644\u0646\u0638\u0627\u0645 \u0627\u0644\u0631\u0623\u0633 \u0645\u0627\u0644\u064A \u0641\u064A \u0627\u0644\u0645\u062C\u0631 (1984-1989). \u0623\u0639\u0637\u0649 \u062C\u0648\u0631\u062C \u0623\u0643\u0628\u0631 \u0645\u0646\u062D\u0629 \u0642\u062F\u0645\u062A \u0644\u0644\u062C\u0627\u0645\u0639\u0629 \u0627\u0644\u0623\u0648\u0631\u0628\u064A\u0629 \u0641\u064A \u0628\u0648\u062F\u0627\u0628\u0633\u062A \u0639\u0627\u0635\u0645\u0629 \u0627\u0644\u0645\u062C\u0631 \u0639\u0644\u0645\u0627 \u0623\u0646\u0647 \u0643\u0627\u0646 \u062A\u0628\u0631\u0639 \u0636\u062F \u0627\u0644\u0627\u062C\u062A\u064A\u0627\u062D \u0627\u0644\u0635\u0631\u0628\u064A \u0644\u0645\u062F\u064A\u0646\u0629 \u0633\u0631\u0627\u064A\u064A\u0641\u0648 \u0641\u064A \u0627\u0644\u062A\u0633\u0639\u064A\u0646\u0627\u062A."@ar ,
+		"George Soros [d\u017Eord\u017E soros] \u010Di [d\u017Eord\u017E soro\u0161] (ma\u010Farsky Soros Gy\u00F6rgy [\u0161oro\u0161 \u010Fer\u010F], * 12. srpna 1930 Budape\u0161\u0165 jako Schwartz Gy\u00F6rgy) je americk\u00FD finan\u010Dn\u00EDk, multimiliard\u00E1\u0159 \u017Eidovsk\u00E9ho p\u016Fvodu narozen\u00FD v Ma\u010Farsku, jeden z nejv\u00FDznamn\u011Bj\u0161\u00EDch filantrop\u016F na sv\u011Bt\u011B."@cs ,
+		"George Soros\u200B (nacido como Gy\u00F6rgy Schwartz, Budapest, 12 de agosto de 1930) es un magnate e inversor financiero\u200B h\u00FAngaro de origen jud\u00EDo y naturalizado estadounidense.\u200B Es presidente del Soros Fund Management y fundador de Quantum Fund. Es conocido por ser \u00ABel hombre que provoc\u00F3 la quiebra del Banco de Inglaterra\u00BB el 16 de septiembre de 1992, episodio llamado mi\u00E9rcoles negro, donde Soros obtuvo unas ganancias de unos 1000 millones de d\u00F3lares\u200B y produjo p\u00E9rdidas al Estado brit\u00E1nico por valor de unas 3400 millones de libras. Es una de las personas m\u00E1s ricas del mundo, con 24 200 millones de d\u00F3lares en 2015 seg\u00FAn Forbes.\u200B\u200B"@es ,
+		"George Soros, geboren als Gy\u00F6rgy Schwartz (Boedapest, 12 augustus 1930), is een Hongaars-Amerikaans zakenman en publicist. Hij verwierf een enorm vermogen met beursspeculaties, geld dat hij is gaan gebruiken voor het realiseren van zijn filosofische en politieke idealen. Aanvankelijk door het ondersteunen van democratische ontwikkelingen in Oost-Europa, afgelopen jaren ook door het subsidi\u00EBren van oppositie tegen oud-president Bush jr. Soros is goed voor zo'n 24,9 miljard dollar. Op de lijst van Forbes van rijkste mensen ter wereld bezette hij daarmee in 2016 de 23e plek."@nl ,
+		"\u0414\u0436\u043E\u0440\u0434\u0436 \u0421\u043E\u0301\u0440\u043E\u0441 (\u0443\u0433\u043E\u0440. Soros Gy\u00F6rgy \u2014 \u0414\u0454\u0440\u0434\u044C \u0428\u043E\u0440\u043E\u0448, \u0430\u043D\u0433\u043B. George Soros, \u0441\u043F\u0440\u0430\u0432\u0436\u043D\u0454 \u043F\u0440\u0456\u0437\u0432\u0438\u0449\u0435 \u2014 \u0428\u0432\u0430\u0440\u0446 (Schwartz); \u043D\u0430\u0440. 12 \u0441\u0435\u0440\u043F\u043D\u044F 1930, \u0411\u0443\u0434\u0430\u043F\u0435\u0448\u0442, \u041A\u043E\u0440\u043E\u043B\u0456\u0432\u0441\u0442\u0432\u043E \u0423\u0433\u043E\u0440\u0449\u0438\u043D\u0430) \u2014 \u0432\u0438\u0437\u043D\u0430\u0447\u043D\u0438\u0439 \u0430\u043C\u0435\u0440\u0438\u043A\u0430\u043D\u0441\u044C\u043A\u0438\u0439 \u0444\u0456\u043D\u0430\u043D\u0441\u0438\u0441\u0442 \u0443\u0433\u043E\u0440\u0441\u044C\u043A\u043E-\u0454\u0432\u0440\u0435\u0439\u0441\u044C\u043A\u043E\u0433\u043E \u043F\u043E\u0445\u043E\u0434\u0436\u0435\u043D\u043D\u044F, \u043C\u0435\u0446\u0435\u043D\u0430\u0442, \u0444\u0456\u043B\u043E\u0441\u043E\u0444. \u041F\u0440\u0438\u0445\u0438\u043B\u044C\u043D\u0438\u043A \u0442\u0435\u043E\u0440\u0456\u0457 \u0432\u0456\u0434\u043A\u0440\u0438\u0442\u043E\u0433\u043E \u0441\u0443\u0441\u043F\u0456\u043B\u044C\u0441\u0442\u0432\u0430 \u0456 \u043F\u0440\u043E\u0442\u0438\u0432\u043D\u0438\u043A \u00AB\u0440\u0438\u043D\u043A\u043E\u0432\u043E\u0433\u043E \u0444\u0443\u043D\u0434\u0430\u043C\u0435\u043D\u0442\u0430\u043B\u0456\u0437\u043C\u0443\u00BB. \u041F\u0440\u043E\u0434\u043E\u0432\u0436\u0443\u0432\u0430\u0447 \u0456\u0434\u0435\u0439 \u041A\u0430\u0440\u043B\u0430 \u041F\u043E\u043F\u043F\u0435\u0440\u0430. \u0412\u0440\u043E\u0434\u0436\u0435\u043D\u0438\u0439 \u0435\u0441\u043F\u0435\u0440\u0430\u043D\u0442\u0438\u0441\u0442."@uk ,
+		"George Soros, n\u00E9 Gy\u00F6rgy Schwartz le 12 ao\u00FBt 1930 \u00E0 Budapest, ou Gy\u00F6rgy Soros ([\u02C8\u025F\u00F8\u027E\u025F], [\u02C8\u0283o\u027Eo\u0283]), est un financier milliardaire am\u00E9ricain d'origine hongroise. Il devient c\u00E9l\u00E8bre pour ses activit\u00E9s de sp\u00E9culation sur les devises et les actions, qui ont marqu\u00E9 l'histoire des bourses de valeurs et ont caus\u00E9 des crises \u00E9conomiques, puis par ses activit\u00E9s de philanthropie. Il est \u00E0 l'origine des hedge funds apparus dans les ann\u00E9es 1970, qui se distinguent d\u00E8s la bulle financi\u00E8re japonaise."@fr ,
+		"George Soros (w\u0119g. Gy\u00F6rgy Soros [\u02C8\u025F\u00F8r\u025F \u02C8\u0283oro\u0283], w\u0142a\u015Bc. Gy\u00F6rgy Schwartz [\u0283va\u0281\u02A6]; ur. 12 sierpnia 1930 w Budapeszcie) \u2013 ameryka\u0144ski inwestor gie\u0142dowy pochodzenia w\u0119giersko-\u017Cydowskiego, tak\u017Ce filantrop, fundator Open Society Foundations i licznych fundacji, w tym Fundacji im. Stefana Batorego."@pl ,
+		"George Soros, Hon  (born Schwartz Gy\u00F6rgy; August 12, 1930) is a Hungarian-American billionaire investor and philanthropist. As of May 2020, he had a net worth of $8.3 billion, having donated more than $32 billion to the Open Society Foundations."@en ,
+		"George Soros (geb\u00FCrtig Gy\u00F6rgy Schwartz; * 12. August 1930 in Budapest) ist ein US-amerikanischer Philanthrop und Investor ungarischer Herkunft und Betreuer vieler Fonds, unter anderem des Quantum Funds. Mit seinem Verm\u00F6gen unterst\u00FCtzt Soros unter anderem B\u00FCrgerrechtsorganisationen, Bildungseinrichtungen sowie politische Aktivisten."@de ,
+		"George Soros, ursprungligen Gy\u00F6rgy Schwartz, f\u00F6dd 12 augusti 1930 i Budapest i Ungern, \u00E4r en amerikansk finansman, valutaspekulant, ekonomisk och filosofisk debatt\u00F6r samt filantrop. Soros har \u00E4gnat sig \u00E5t en omfattande spekulationsverksamhet, mot bland annat Storbritanniens och Sveriges ekonomier kring 1992 och mot Thailands och Malaysias ekonomier vid Asienkrisen 1997. Det finns de som h\u00E4vdar att Soros och andra valutaspekulanters agerande var med och bidrog till ekonomiska kriser och s\u00E4nkt levnadsstandard i dessa stater. Soros \u00E4r f\u00F6r globalisering, marknadsekonomi, demokrati, globala institutioner och gener\u00F6s flyktingpolitik. Han vill dock ha regleringar av marknadsekonomin, inklusive den finanskapitalism han sj\u00E4lv verkar inom."@sv ,
+		"George Soros ( /\u02C8s\u0254\u02D0ro\u028As/ ou  /\u02C8s\u0254\u02D0r\u0252s/; em h\u00FAngaro:  Gy\u00F6rgy Soros, pronunciado [\u02C8\u0283oro\u0283 \u02C8\u025F\u00F8r\u025F]; nascido como Gy\u00F6rgy Schwartz; Budapeste, 12 de agosto de 1930) \u00E9 um investidor e filantropo h\u00FAngaro-estadunidense. Em fevereiro de 2018, ele tinha um patrim\u00F4nio l\u00EDquido de 8 bilh\u00F5es de d\u00F3lares, tendo doado mais de 32 bilh\u00F5es de d\u00F3lares para sua ag\u00EAncia filantr\u00F3pica, a Open Society Foundation."@pt ,
+		"George Soros (pronunciato [\u02C8\u0283oro\u0283]), nato Gy\u00F6rgy Schwartz (pron. [\u0283va\u0281\u02A6]) (Budapest, 12 agosto 1930) \u00E8 un imprenditore e attivista ungherese naturalizzato statunitense. Soros \u00E8 Presidente del , dell'Open Society Foundations e fondatore e consigliere del . Politicamente \u00E8 un sostenitore del movimento liberal del Partito Democratico degli Stati Uniti d'America e un finanziatore di gruppi per i diritti umani con un marcato interesse per la filosofia, a partire da quella del suo insegnante giovanile, Karl Popper."@it ,
+		"George Soros [Djordj \u015Coro\u015D]), hungare Gy\u00F6rgy Soros, naski\u011Dis la 12-an de a\u016Dgusto 1930 en Budape\u015Dto sub la nomo Gy\u00F6rgy Schwarz (elp. \u015Dvarc). Li estas financisto, spekulanto, filantropo kaj filo de la Esperanto-verkisto Tivadar Schwarz, alinomata Teodoro \u015Cvarc, unu el la eldonintoj de la fama beletra revuo en Esperanto (Literatura Mondo). Soros estas konata kiel \"La viro, kiu rompis la bankon de Anglio\" kiam li en 1992 forte vetis kontra\u016D la britan pound, kiam li estis profesie financa analisto kaj inter\u015Dan\u011Disto de valutoj (angle: 'trader') en la londona borso-merkato."@eo ,
+		"\u039F \u03A4\u03B6\u03C9\u03C1\u03C4\u03B6 \u03A3\u03CC\u03C1\u03BF\u03C2 (George Soros), \u03C0\u03BF\u03C5 \u03B3\u03B5\u03BD\u03BD\u03AE\u03B8\u03B7\u03BA\u03B5 \u03C3\u03C4\u03B9\u03C2 12 \u0391\u03C5\u03B3\u03BF\u03CD\u03C3\u03C4\u03BF\u03C5 1930 \u03BC\u03B5 \u03C4\u03BF \u03C0\u03C1\u03B1\u03B3\u03BC\u03B1\u03C4\u03B9\u03BA\u03CC \u03CC\u03BD\u03BF\u03BC\u03B1 \u0393\u03BA\u03C5\u03CC\u03C1\u03B3\u03BA\u03C5 \u03A3\u03B2\u03B1\u03C1\u03C4\u03C2 (Gy\u00F6rgy Schwartz) \u03B5\u03AF\u03BD\u03B1\u03B9 \u039F\u03C5\u03B3\u03B3\u03C1\u03BF\u03B1\u03BC\u03B5\u03C1\u03B9\u03BA\u03B1\u03BD\u03BF\u03B5\u03B2\u03C1\u03B1\u03B9\u03BF\u03C2 \u03BA\u03B5\u03C1\u03B4\u03BF\u03C3\u03BA\u03CC\u03C0\u03BF\u03C2, , \u03B5\u03C0\u03B9\u03C7\u03B5\u03B9\u03C1\u03B7\u03BC\u03B1\u03C4\u03AF\u03B1\u03C2,  \u03BA\u03B1\u03B9 \u03C0\u03BF\u03BB\u03B9\u03C4\u03B9\u03BA\u03CC\u03C2 \u03B1\u03BA\u03C4\u03B9\u03B2\u03B9\u03C3\u03C4\u03AE\u03C2. \u039A\u03AD\u03C1\u03B4\u03B9\u03C3\u03B5 \u03C6\u03AE\u03BC\u03B7 \u03C9\u03C2 \u03BF \u00AB\u03AC\u03BD\u03B8\u03C1\u03C9\u03C0\u03BF\u03C2 \u03C0\u03BF\u03C5 \u03BA\u03B1\u03C4\u03AD\u03C3\u03C4\u03C1\u03B5\u03C8\u03B5 \u03C4\u03B7\u03BD \u03A4\u03C1\u03AC\u03C0\u03B5\u03B6\u03B1 \u03C4\u03B7\u03C2 \u0391\u03B3\u03B3\u03BB\u03AF\u03B1\u03C2\u00BB, \u03B1\u03C6\u03BF\u03CD \u03BA\u03B1\u03C4\u03AC\u03C6\u03B5\u03C1\u03B5 \u03BD\u03B1 \u03B1\u03C0\u03BF\u03BA\u03BF\u03BC\u03AF\u03C3\u03B5\u03B9 \u03BA\u03AD\u03C1\u03B4\u03BF\u03C2 1 \u03B4\u03B9\u03C3. \u03B4\u03BF\u03BB\u03B1\u03C1\u03AF\u03C9\u03BD \u03BA\u03B1\u03C4\u03AC \u03C4\u03B7\u03BD \u03BA\u03C1\u03AF\u03C3\u03B7 \u03C4\u03BF\u03C5 \u03BD\u03BF\u03BC\u03AF\u03C3\u03BC\u03B1\u03C4\u03BF\u03C2 \u03C4\u03BF\u03C5 \u0397\u03BD\u03C9\u03BC\u03AD\u03BD\u03BF\u03C5 \u0392\u03B1\u03C3\u03B9\u03BB\u03B5\u03AF\u03BF\u03C5 \u03C4\u03BF 1992."@el ,
+		"George Soros (Hungaria: Gy\u00F6rgy Schwartz; lahir di Budapest, Hungaria, 12 Agustus 1930; umur 89 tahun) adalah seorang kapitalis radikal  ( Lihat: \"The Capitalist Threat\"), pelaku bisnis keuangan dan ekonomi, penanam modal saham, dan aktivis politik yang berkebangsaan Amerika Serikat. George Soros adalah seorang keturunan etnis Yahudi."@in ,
+		"\uC870\uC9C0 \uC18C\uB85C\uC2A4(\uC601\uC5B4: George Soros, 1930\uB144 8\uC6D4 12\uC77C ~ )\uB294 \uD5DD\uAC00\uB9AC\uACC4 \uBBF8\uAD6D\uC778\uC73C\uB85C\uC11C \uAE08\uC735\uC778\uC774\uC790 \uD22C\uC790\uAC00\uC774\uB2E4. \uC758 \uC758\uC7A5\uC744 \uB9E1\uACE0 \uC788\uB2E4. \uBCF8\uBA85\uC740 \uC288\uBC14\uB974\uCE20 \uC8C4\uB974\uC9C0(\uD5DD\uAC00\uB9AC\uC5B4: Schwartz Gy\u00F6rgy)\uC774\uB2E4. \uC18C\uB85C\uC2A4\uB294 \uC9C4\uBCF4\uC790\uC720\uC8FC\uC758 \uC6B4\uB3D9\uC744 \uC9C0\uC9C0\uD55C\uB2E4. \uBD80\uBAA8\uAC00 \uBAA8\uB450 \uC5D0\uC2A4\uD398\uB780\uD2F0\uC2A4\uD1A0\uC778 \uAD00\uACC4\uB85C \uBD80\uBAA8\uC5D0\uAC8C\uC11C \uBAA8\uAD6D\uC5B4\uB85C \uD5DD\uAC00\uB9AC\uC5B4\uC640 \uD568\uAED8 \uC5D0\uC2A4\uD398\uB780\uD1A0\uB97C \uBC30\uC6E0\uB2E4. \uB530\uB77C\uC11C \uADF8\uB294 \uC5D0\uC2A4\uD398\uB780\uD1A0\uB97C \uBAA8\uAD6D\uC5B4\uB85C \uC0AC\uC6A9\uD558\uB294 \uC5D0\uC2A4\uD398\uB780\uD1A0 \uC6D0\uC5B4\uBBFC\uC774\uB2E4. 1979\uB144\uBD80\uD130 2011\uB144 \uC0AC\uC774\uC5D0 \uC18C\uB85C\uC2A4\uB294 80\uC5B5 \uB2EC\uB7EC \uC774\uC0C1\uC744 \uC778\uAD8C, \uBCF5\uC9C0, \uAD50\uC721 \uC9C0\uC6D0\uC5D0 \uBCF4\uD0F0\uB2E4. \uC18C\uB85C\uC2A4\uB294 \uD5DD\uAC00\uB9AC (1984 ~ 89\uB144)\uC5D0\uC11C \uACF5\uC0B0\uC8FC\uC758\uB97C \uC790\uBCF8\uC8FC\uC758\uB85C \uD3C9\uD654\uB86D\uAC8C \uC804\uD658\uC2DC\uD0A8 \uC911\uC694\uD55C \uC5ED\uD560\uC744 \uD558\uC600\uC73C\uBA70 \uBD80\uB2E4\uD398\uC2A4\uD2B8\uC758 \uC5D0 \uC720\uB7FD \uC0AC\uC0C1 \uCD5C\uB300\uC758 \uACE0\uB4F1\uAD50\uC721 \uAE30\uBD80\uAE08\uC744 \uC81C\uACF5\uD558\uAE30\uB3C4 \uD588\uB2E4. \uC18C\uB85C\uC2A4\uB294 (Open Society Institute)\uC758 \uC758\uC7A5\uC774\uC790 \uC758 \uC804 \uC784\uC6D0\uC774\uAE30\uB3C4 \uD558\uB2E4."@ko ,
+		"George Soros (nascut el 12 d'agost de 1930 a Budapest, com a Schwartz Gy\u00F6rgy), \u00E9s un emprenedor financer, inversionista i activista pol\u00EDtic, d'origen hongar\u00E8s i nacionalitat estatunidenca."@ca ;
+	foaf:name	"George Soros"@en ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/George_Soros_47th_Munich_Security_Conference_2011_crop.jpg> ;
+	foaf:isPrimaryTopicOf	wikipedia-en:George_Soros .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:George_Soros	dct:subject	dbc:Speculators ,
+		dbc:Alumni_of_the_London_School_of_Economics ,
+		dbc:American_philosophers ,
+		dbc:Hungarian_emigrants_to_the_United_States ,
+		dbc:Drug_policy_reform_activists ,
+		dbc:People_from_Budapest ,
+		<http://dbpedia.org/resource/Category:21st-century_American_non-fiction_writers> ,
+		<http://dbpedia.org/resource/Category:20th-century_American_non-fiction_writers> ,
+		dbc:Hungarian_philanthropists ,
+		<http://dbpedia.org/resource/Category:Recipients_of_the_Order_of_the_Cross_of_Terra_Mariana,_1st_Class> ,
+		dbc:Jewish_activists ,
+		dbc:Writers_about_globalization ,
+		dbc:Jewish_American_philanthropists ,
+		dbc:Stock_and_commodity_market_managers ,
+		dbc:Critical_rationalists ,
+		dbc:American_financiers ,
+		dbc:Naturalized_citizens_of_the_United_States ,
+		dbc:George_Soros ,
+		dbc:People_convicted_of_insider_trading ,
+		<http://dbpedia.org/resource/Category:1930_births> ,
+		dbc:American_political_fundraisers ,
+		dbc:American_financial_analysts ,
+		dbc:American_financial_company_founders ,
+		dbc:American_chief_executives_of_financial_services_companies ,
+		dbc:University_and_college_founders ,
+		dbc:Soros_family ,
+		dbc:Jewish_American_writers ,
+		dbc:American_people_of_Hungarian-Jewish_descent ,
+		dbc:Hungarian_Jews ,
+		dbc:American_stock_traders ,
+		<http://dbpedia.org/resource/Category:21st-century_American_businesspeople> ,
+		dbc:American_hedge_fund_managers ,
+		dbc:American_money_managers ,
+		dbc:Living_people ,
+		dbc:American_investors ,
+		dbc:American_billionaires ,
+		dbc:American_currency_traders ,
+		dbc:American_anti-globalization_writers ,
+		dbc:Central_European_University ,
+		dbc:Hungarian_atheists ,
+		dbc:American_Esperantists ,
+		dbc:Jewish_atheists ,
+		dbc:Esperanto_speaking_Jews ,
+		dbc:American_commodities_traders ,
+		dbc:American_derivatives_traders ,
+		dbc:American_business_writers ,
+		dbc:Hungarian_political_writers ,
+		dbc:American_foreign_policy_writers ,
+		dbc:American_finance_and_investment_writers ,
+		dbc:Alumni_of_the_University_of_London ,
+		dbc:Institute_for_New_Economic_Thinking ,
+		dbc:American_social_activists ,
+		dbc:Fellows_of_the_British_Academy ,
+		dbc:American_economics_writers ,
+		<http://dbpedia.org/resource/Category:20th-century_American_businesspeople> ,
+		dbc:American_atheists ,
+		dbc:Hungarian_money_managers ,
+		dbc:Hungarian_stock_traders ,
+		dbc:Hungarian_hedge_fund_managers ,
+		dbc:Hungarian_investors ,
+		dbc:Hungarian_billionaires ,
+		dbc:Hungarian_financiers ,
+		dbc:American_male_non-fiction_writers ,
+		dbc:Hungarian_Esperantists ;
+	owl:sameAs	<http://d-nb.info/gnd/1090386168> ,
+		wikidata:Q12908 ,
+		<http://el.dbpedia.org/resource/\u03A4\u03B6\u03C9\u03C1\u03C4\u03B6_\u03A3\u03CC\u03C1\u03BF\u03C2> .
+@prefix dbpedia-ro:	<http://ro.dbpedia.org/resource/> .
+dbr:George_Soros	owl:sameAs	dbpedia-ro:George_Soros ,
+		<http://api.nytimes.com/svc/semantic/v2/concept/name/nytd_per/Soros,%20George> .
+@prefix dbpedia-is:	<http://is.dbpedia.org/resource/> .
+dbr:George_Soros	owl:sameAs	dbpedia-is:George_Soros ,
+		<http://sr.dbpedia.org/resource/\u040F\u043E\u0440\u045F_\u0421\u043E\u0440\u043E\u0441> ,
+		<http://gu.dbpedia.org/resource/\u0A9C\u0AAF\u0ACB\u0AB0\u0ACD\u0A9C_\u0AB8\u0ACB\u0AB0\u0ACB\u0AB8> ,
+		<http://be.dbpedia.org/resource/\u0414\u0436\u043E\u0440\u0434\u0436_\u0421\u043E\u0440\u0430\u0441> .
+@prefix dbpedia-et:	<http://et.dbpedia.org/resource/> .
+dbr:George_Soros	owl:sameAs	dbpedia-et:George_Soros ,
+		<http://d-nb.info/gnd/119160382> .
+@prefix dbpedia-gl:	<http://gl.dbpedia.org/resource/> .
+dbr:George_Soros	owl:sameAs	dbpedia-gl:George_Soros ,
+		<http://ml.dbpedia.org/resource/\u0D1C\u0D4B\u0D7C\u0D1C\u0D4D_\u0D38\u0D4B\u0D31\u0D4B\u0D38\u0D4D> .
+@prefix dbpedia-tr:	<http://tr.dbpedia.org/resource/> .
+dbr:George_Soros	owl:sameAs	dbpedia-tr:George_Soros ,
+		<http://ru.dbpedia.org/resource/\u0421\u043E\u0440\u043E\u0441,_\u0414\u0436\u043E\u0440\u0434\u0436> .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:George_Soros	owl:sameAs	dbpedia-fr:George_Soros .
+@prefix dbpedia-hr:	<http://hr.dbpedia.org/resource/> .
+dbr:George_Soros	owl:sameAs	dbpedia-hr:George_Soros .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:George_Soros	owl:sameAs	dbpedia-de:George_Soros ,
+		<http://ta.dbpedia.org/resource/\u0B9C\u0BBE\u0BB0\u0BCD\u0B9C\u0BCD_\u0B9A\u0BCA\u0BB0\u0BC6\u0BB8\u0BCD> ,
+		<http://rdf.freebase.com/ns/m.0gyk6w> .
+@prefix dbpedia-da:	<http://da.dbpedia.org/resource/> .
+dbr:George_Soros	owl:sameAs	dbpedia-da:George_Soros ,
+		<http://uk.dbpedia.org/resource/\u0414\u0436\u043E\u0440\u0434\u0436_\u0421\u043E\u0440\u043E\u0441> .
+@prefix dbpedia-oc:	<http://oc.dbpedia.org/resource/> .
+dbr:George_Soros	owl:sameAs	dbpedia-oc:George_Soros ,
+		<http://my.dbpedia.org/resource/\u1002\u103B\u1031\u102C\u1037\u1001\u103B\u103A_\u1006\u102D\u102F\u1038\u101B\u1031\u102C\u1037\u1005\u103A> ,
+		<http://fa.dbpedia.org/resource/\u062C\u0631\u062C_\u0633\u0648\u0631\u0648\u0633> ,
+		<http://hi.dbpedia.org/resource/\u091C\u0949\u0930\u094D\u091C_\u0938\u094B\u0930\u094B\u0938> .
+@prefix dbpedia-io:	<http://io.dbpedia.org/resource/> .
+dbr:George_Soros	owl:sameAs	dbpedia-io:George_Soros .
+@prefix ns26:	<https://global.dbpedia.org/id/> .
+dbr:George_Soros	owl:sameAs	ns26:KHWy ,
+		<http://zh.dbpedia.org/resource/\u4E54\u6CBB\u00B7\u7D22\u7F57\u65AF> ,
+		<http://hy.dbpedia.org/resource/\u054B\u0578\u0580\u057B_\u054D\u0578\u0580\u0578\u057D> .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:George_Soros	owl:sameAs	dbpedia-it:George_Soros ,
+		<http://d-nb.info/gnd/109020194X> .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:George_Soros	owl:sameAs	dbpedia-pl:George_Soros .
+@prefix dbpedia-br:	<http://br.dbpedia.org/resource/> .
+dbr:George_Soros	owl:sameAs	dbpedia-br:George_Soros .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:George_Soros	owl:sameAs	dbpedia-nl:George_Soros ,
+		<http://ko.dbpedia.org/resource/\uC870\uC9C0_\uC18C\uB85C\uC2A4> .
+@prefix dbpedia-az:	<http://az.dbpedia.org/resource/> .
+dbr:George_Soros	owl:sameAs	dbpedia-az:Corc_Soros .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:George_Soros	owl:sameAs	dbpedia-pt:George_Soros .
+@prefix ns33:	<http://data.europa.eu/euodp/jrc-names/> .
+dbr:George_Soros	owl:sameAs	ns33:George_Soros .
+@prefix dbpedia-id:	<http://id.dbpedia.org/resource/> .
+dbr:George_Soros	owl:sameAs	dbpedia-id:George_Soros ,
+		<http://hu.dbpedia.org/resource/Soros_Gy\u00F6rgy> ,
+		dbr:George_Soros .
+@prefix dbpedia-simple:	<http://simple.dbpedia.org/resource/> .
+dbr:George_Soros	owl:sameAs	dbpedia-simple:George_Soros .
+@prefix ns36:	<http://d-nb.info/gnd/119160382/about/> .
+dbr:George_Soros	owl:sameAs	ns36:rdf ,
+		<http://azb.dbpedia.org/resource/\u062C\u0631\u062C_\u0633\u0648\u0631\u0648\u0633> ,
+		<http://ka.dbpedia.org/resource/\u10EF\u10DD\u10E0\u10EF_\u10E1\u10DD\u10E0\u10DD\u10E1\u10D8> .
+@prefix dbpedia-fi:	<http://fi.dbpedia.org/resource/> .
+dbr:George_Soros	owl:sameAs	dbpedia-fi:George_Soros ,
+		<http://lv.dbpedia.org/resource/D\u017Eord\u017Es_Soross> .
+@prefix dbpedia-sh:	<http://sh.dbpedia.org/resource/> .
+dbr:George_Soros	owl:sameAs	dbpedia-sh:George_Soros ,
+		<http://yi.dbpedia.org/resource/\u05D3\u05D6\u05E9\u05D0\u05E8\u05D3\u05D6\u05E9_\u05E1\u05D0\u05E8\u05D0\u05E1> .
+@prefix dbpedia-sq:	<http://sq.dbpedia.org/resource/> .
+dbr:George_Soros	owl:sameAs	dbpedia-sq:George_Soros ,
+		<http://ky.dbpedia.org/resource/\u0416\u043E\u0440\u0436_\u0421\u043E\u0440\u043E\u0441> ,
+		<http://bg.dbpedia.org/resource/\u0414\u0436\u043E\u0440\u0434\u0436_\u0421\u043E\u0440\u043E\u0441> ,
+		<http://te.dbpedia.org/resource/\u0C1C\u0C3E\u0C30\u0C4D\u0C1C\u0C4D_\u0C38\u0C4B\u0C30\u0C4B\u0C38\u0C4D> .
+@prefix dbpedia-ca:	<http://ca.dbpedia.org/resource/> .
+dbr:George_Soros	owl:sameAs	dbpedia-ca:George_Soros ,
+		<http://kk.dbpedia.org/resource/\u0414\u0436\u043E\u0440\u0434\u0436_\u0421\u043E\u0440\u043E\u0441> .
+@prefix dbpedia-vi:	<http://vi.dbpedia.org/resource/> .
+dbr:George_Soros	owl:sameAs	dbpedia-vi:George_Soros .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:George_Soros	owl:sameAs	yago-res:George_Soros ,
+		<http://kn.dbpedia.org/resource/\u0C9C\u0CBE\u0CB0\u0CCD\u0C9C\u0CCD\u200C_\u0CB8\u0CCA\u0CB0\u0CCA\u0CB8\u0CCD\u200C> .
+@prefix dbpedia-no:	<http://no.dbpedia.org/resource/> .
+dbr:George_Soros	owl:sameAs	dbpedia-no:George_Soros .
+@prefix dbpedia-commons:	<http://commons.dbpedia.org/resource/> .
+dbr:George_Soros	owl:sameAs	dbpedia-commons:George_Soros ,
+		<http://mk.dbpedia.org/resource/\u040F\u043E\u0440\u045F_\u0421\u043E\u0440\u043E\u0441> .
+@prefix dbpedia-sk:	<http://sk.dbpedia.org/resource/> .
+dbr:George_Soros	owl:sameAs	dbpedia-sk:George_Soros ,
+		<http://ar.dbpedia.org/resource/\u062C\u0648\u0631\u062C_\u0633\u0648\u0631\u0648\u0633> .
+@prefix ns46:	<http://lt.dbpedia.org/resource/> .
+dbr:George_Soros	owl:sameAs	ns46:George_Soros .
+@prefix dbpedia-eo:	<http://eo.dbpedia.org/resource/> .
+dbr:George_Soros	owl:sameAs	dbpedia-eo:George_Soros .
+@prefix dbpedia-sv:	<http://sv.dbpedia.org/resource/> .
+dbr:George_Soros	owl:sameAs	dbpedia-sv:George_Soros ,
+		<http://viaf.org/viaf/102383784> .
+@prefix ns49:	<http://sw.cyc.com/concept/> .
+dbr:George_Soros	owl:sameAs	ns49:Mx4r1dbTsCXyQdiYvNvACDK_Dg ,
+		<http://th.dbpedia.org/resource/\u0E08\u0E2D\u0E23\u0E4C\u0E08_\u0E42\u0E0B\u0E23\u0E2D\u0E2A> .
+@prefix dbpedia-cs:	<http://cs.dbpedia.org/resource/> .
+dbr:George_Soros	owl:sameAs	dbpedia-cs:George_Soros .
+@prefix dbpedia-sl:	<http://sl.dbpedia.org/resource/> .
+dbr:George_Soros	owl:sameAs	dbpedia-sl:George_Soros .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:George_Soros	owl:sameAs	dbpedia-es:George_Soros ,
+		<http://he.dbpedia.org/resource/\u05D2\u0027\u05D5\u05E8\u05D2\u0027_\u05E1\u05D5\u05E8\u05D5\u05E1> .
+@prefix dbpedia-ms:	<http://ms.dbpedia.org/resource/> .
+dbr:George_Soros	owl:sameAs	dbpedia-ms:George_Soros ,
+		<http://mn.dbpedia.org/resource/\u0416\u043E\u0440\u0436_\u0421\u043E\u0440\u043E\u0441> .
+@prefix ns54:	<http://ast.dbpedia.org/resource/> .
+dbr:George_Soros	owl:sameAs	ns54:George_Soros ;
+	schema:sameAs	<http://viaf.org/viaf/102383784> ;
+	dbo:abstract	"George Soros [d\u017Eord\u017E soros] \u010Di [d\u017Eord\u017E soro\u0161] (ma\u010Farsky Soros Gy\u00F6rgy [\u0161oro\u0161 \u010Fer\u010F], * 12. srpna 1930 Budape\u0161\u0165 jako Schwartz Gy\u00F6rgy) je americk\u00FD finan\u010Dn\u00EDk, multimiliard\u00E1\u0159 \u017Eidovsk\u00E9ho p\u016Fvodu narozen\u00FD v Ma\u010Farsku, jeden z nejv\u00FDznamn\u011Bj\u0161\u00EDch filantrop\u016F na sv\u011Bt\u011B."@cs ,
+		"George Soros (geb\u00FCrtig Gy\u00F6rgy Schwartz; * 12. August 1930 in Budapest) ist ein US-amerikanischer Philanthrop und Investor ungarischer Herkunft und Betreuer vieler Fonds, unter anderem des Quantum Funds. Mit seinem Verm\u00F6gen unterst\u00FCtzt Soros unter anderem B\u00FCrgerrechtsorganisationen, Bildungseinrichtungen sowie politische Aktivisten."@de ,
+		"George Soros (Hungaria: Gy\u00F6rgy Schwartz; lahir di Budapest, Hungaria, 12 Agustus 1930; umur 89 tahun) adalah seorang kapitalis radikal  ( Lihat: \"The Capitalist Threat\"), pelaku bisnis keuangan dan ekonomi, penanam modal saham, dan aktivis politik yang berkebangsaan Amerika Serikat. George Soros adalah seorang keturunan etnis Yahudi."@in ,
+		"\u0414\u0436\u043E\u0440\u0434\u0436 \u0421\u043E\u0301\u0440\u043E\u0441 (\u0443\u0433\u043E\u0440. Soros Gy\u00F6rgy \u2014 \u0414\u0454\u0440\u0434\u044C \u0428\u043E\u0440\u043E\u0448, \u0430\u043D\u0433\u043B. George Soros, \u0441\u043F\u0440\u0430\u0432\u0436\u043D\u0454 \u043F\u0440\u0456\u0437\u0432\u0438\u0449\u0435 \u2014 \u0428\u0432\u0430\u0440\u0446 (Schwartz); \u043D\u0430\u0440. 12 \u0441\u0435\u0440\u043F\u043D\u044F 1930, \u0411\u0443\u0434\u0430\u043F\u0435\u0448\u0442, \u041A\u043E\u0440\u043E\u043B\u0456\u0432\u0441\u0442\u0432\u043E \u0423\u0433\u043E\u0440\u0449\u0438\u043D\u0430) \u2014 \u0432\u0438\u0437\u043D\u0430\u0447\u043D\u0438\u0439 \u0430\u043C\u0435\u0440\u0438\u043A\u0430\u043D\u0441\u044C\u043A\u0438\u0439 \u0444\u0456\u043D\u0430\u043D\u0441\u0438\u0441\u0442 \u0443\u0433\u043E\u0440\u0441\u044C\u043A\u043E-\u0454\u0432\u0440\u0435\u0439\u0441\u044C\u043A\u043E\u0433\u043E \u043F\u043E\u0445\u043E\u0434\u0436\u0435\u043D\u043D\u044F, \u043C\u0435\u0446\u0435\u043D\u0430\u0442, \u0444\u0456\u043B\u043E\u0441\u043E\u0444. \u041F\u0440\u0438\u0445\u0438\u043B\u044C\u043D\u0438\u043A \u0442\u0435\u043E\u0440\u0456\u0457 \u0432\u0456\u0434\u043A\u0440\u0438\u0442\u043E\u0433\u043E \u0441\u0443\u0441\u043F\u0456\u043B\u044C\u0441\u0442\u0432\u0430 \u0456 \u043F\u0440\u043E\u0442\u0438\u0432\u043D\u0438\u043A \u00AB\u0440\u0438\u043D\u043A\u043E\u0432\u043E\u0433\u043E \u0444\u0443\u043D\u0434\u0430\u043C\u0435\u043D\u0442\u0430\u043B\u0456\u0437\u043C\u0443\u00BB. \u041F\u0440\u043E\u0434\u043E\u0432\u0436\u0443\u0432\u0430\u0447 \u0456\u0434\u0435\u0439 \u041A\u0430\u0440\u043B\u0430 \u041F\u043E\u043F\u043F\u0435\u0440\u0430. \u0412\u0440\u043E\u0434\u0436\u0435\u043D\u0438\u0439 \u0435\u0441\u043F\u0435\u0440\u0430\u043D\u0442\u0438\u0441\u0442."@uk ,
+		"George Soros (w\u0119g. Gy\u00F6rgy Soros [\u02C8\u025F\u00F8r\u025F \u02C8\u0283oro\u0283], w\u0142a\u015Bc. Gy\u00F6rgy Schwartz [\u0283va\u0281\u02A6]; ur. 12 sierpnia 1930 w Budapeszcie) \u2013 ameryka\u0144ski inwestor gie\u0142dowy pochodzenia w\u0119giersko-\u017Cydowskiego, tak\u017Ce filantrop, fundator Open Society Foundations i licznych fundacji, w tym Fundacji im. Stefana Batorego."@pl ,
+		"George Soros, geboren als Gy\u00F6rgy Schwartz (Boedapest, 12 augustus 1930), is een Hongaars-Amerikaans zakenman en publicist. Hij verwierf een enorm vermogen met beursspeculaties, geld dat hij is gaan gebruiken voor het realiseren van zijn filosofische en politieke idealen. Aanvankelijk door het ondersteunen van democratische ontwikkelingen in Oost-Europa, afgelopen jaren ook door het subsidi\u00EBren van oppositie tegen oud-president Bush jr. Soros is goed voor zo'n 24,9 miljard dollar. Op de lijst van Forbes van rijkste mensen ter wereld bezette hij daarmee in 2016 de 23e plek."@nl ,
+		"George Soros ( /\u02C8s\u0254\u02D0ro\u028As/ ou  /\u02C8s\u0254\u02D0r\u0252s/; em h\u00FAngaro:  Gy\u00F6rgy Soros, pronunciado [\u02C8\u0283oro\u0283 \u02C8\u025F\u00F8r\u025F]; nascido como Gy\u00F6rgy Schwartz; Budapeste, 12 de agosto de 1930) \u00E9 um investidor e filantropo h\u00FAngaro-estadunidense. Em fevereiro de 2018, ele tinha um patrim\u00F4nio l\u00EDquido de 8 bilh\u00F5es de d\u00F3lares, tendo doado mais de 32 bilh\u00F5es de d\u00F3lares para sua ag\u00EAncia filantr\u00F3pica, a Open Society Foundation. Nascido em Budapeste, Soros sobreviveu \u00E0 Hungria ocupada pela Alemanha Nazista e, ap\u00F3s a Segunda Guerra Mundial, emigrou para o Reino Unido em 1947. Ele frequentou a London School of Economics, graduando-se em bacharelado e em mestrado em filosofia. Soros iniciou sua carreira comercial assumindo v\u00E1rios empregos em bancos comerciais no Reino Unido e depois nos Estados Unidos, antes de iniciar seu primeiro fundo de hedge, o Double Eagle, em 1969. Os lucros de seu primeiro fundo forneceram o dinheiro inicial para iniciar o Soros Fund Management, seu segundo fundo de hedge, em 1970. O Double Eagle foi renomeado para Quantum Fund e foi a principal empresa que Soros aconselhou. Na sua funda\u00E7\u00E3o, o Quantum Fund possu\u00EDa 12 milh\u00F5es de d\u00F3lares em ativos sob gest\u00E3o e, em 2011, possu\u00EDa 25 bilh\u00F5es de d\u00F3lares, a maioria do patrim\u00F4nio l\u00EDquido geral de Soros. Soros \u00E9 conhecido como \"o homem que quebrou o Banco da Inglaterra\" por causa de sua venda a descoberto de 10 bilh\u00F5es de d\u00F3lares em libras esterlinas, o que lhe rendeu um lucro de 1 bilh\u00E3o de d\u00F3lares durante a crise monet\u00E1ria do Reino Unido na \"Quarta-Feira Negra\" de 1992. Com base em seus primeiros estudos de filosofia, Soros formulou uma aplica\u00E7\u00E3o da Teoria Geral da Reflexividade de Karl Popper para o mercado de capitais, que ele afirma render a ele uma imagem clara das bolhas de ativos e do valor fundamental/de mercado dos valores mobili\u00E1rios, bem como das discrep\u00E2ncias de valor usadas para reduzir e troca de a\u00E7\u00F5es. Soros \u00E9 um conhecido apoiador de causas pol\u00EDticas progressistas e liberais, para as quais ele distribui doa\u00E7\u00F5es por meio de sua funda\u00E7\u00E3o. Entre 1979 e 2011, ele doou mais de 11 bilh\u00F5es de d\u00F3lares para v\u00E1rias causas filantr\u00F3picas; at\u00E9 2017, suas doa\u00E7\u00F5es \"em iniciativas civis para reduzir a pobreza e aumentar a transpar\u00EAncia e em bolsas de estudo e universidades em todo o mundo\" totalizaram 12 bilh\u00F5es de d\u00F3lares. Ele influenciou o colapso do comunismo na Europa Oriental no final dos anos 1980 e in\u00EDcio dos anos 1990 e forneceu uma das maiores doa\u00E7\u00F5es ao ensino superior da Europa para a Universidade Centro-Europeia em sua cidade natal h\u00FAngara. Seu extenso financiamento de causas pol\u00EDticas fez dele um \"alvo dos nacionalistas europeus\". V\u00E1rios conservadores estadunidenses promoveram falsas alega\u00E7\u00F5es que caracterizam Soros como um \"mestre das marionetes\" singularmente perigoso por tr\u00E1s de uma variedade de supostas conspira\u00E7\u00F5es globais, sendo que o The New York Times relatou em 2018 que essas alega\u00E7\u00F5es haviam \"mudado da periferia para a corrente principal\" da pol\u00EDtica do Partido Republicano. As teorias da conspira\u00E7\u00E3o dirigidas a Soros, que \u00E9 descendente de judeus, t\u00EAm sido frequentemente descritas como antissemitas."@pt ,
+		"George Soros\u200B (nacido como Gy\u00F6rgy Schwartz, Budapest, 12 de agosto de 1930) es un magnate e inversor financiero\u200B h\u00FAngaro de origen jud\u00EDo y naturalizado estadounidense.\u200B Es presidente del Soros Fund Management y fundador de Quantum Fund. Es conocido por ser \u00ABel hombre que provoc\u00F3 la quiebra del Banco de Inglaterra\u00BB el 16 de septiembre de 1992, episodio llamado mi\u00E9rcoles negro, donde Soros obtuvo unas ganancias de unos 1000 millones de d\u00F3lares\u200B y produjo p\u00E9rdidas al Estado brit\u00E1nico por valor de unas 3400 millones de libras. Es una de las personas m\u00E1s ricas del mundo, con 24 200 millones de d\u00F3lares en 2015 seg\u00FAn Forbes.\u200B\u200B Es presidente de la Open Society Foundations, una de las organizaciones que canalizan los fondos donados por Soros\u200B a diferentes causas.\u200B Se calcula que entre 1979 y 2011, Soros don\u00F3 m\u00E1s de 8000 millones de d\u00F3lares a \u00ABcausas relacionadas con la educaci\u00F3n, la salud p\u00FAblica y los derechos humanos\u00BB.\u200B Es el presidente de la Soros Fund Management y del Open Society Institute (la principal fundaci\u00F3n de la red Open Society Foundations) as\u00ED como tambi\u00E9n miembro del consejo directivo del Council on Foreign Relations en Nueva York."@es ,
+		"George Soros, Hon  (born Schwartz Gy\u00F6rgy; August 12, 1930) is a Hungarian-American billionaire investor and philanthropist. As of May 2020, he had a net worth of $8.3 billion, having donated more than $32 billion to the Open Society Foundations. Born in Budapest, Soros survived Nazi Germany-occupied Hungary and immigrated to the United Kingdom in 1947. He attended the London School of Economics, graduating with a bachelor's and eventually a master's degree in philosophy. Soros began his business career by taking various jobs at merchant banks in the United Kingdom and then the United States, before starting his first hedge fund, Double Eagle, in 1969. Profits from his first fund furnished the seed money to start Soros Fund Management, his second hedge fund, in 1970. Double Eagle was renamed to Quantum Fund and was the principal firm Soros advised. At its founding, Quantum Fund had $12 million in assets under management, and as of 2011 it had $25 billion, the majority of Soros's overall net worth. Soros is known as \"The Man Who Broke the Bank of England\" because of his short sale of US$10 billion worth of pounds sterling, which made him a profit of $1 billion during the 1992 Black Wednesday UK currency crisis. Based on his early studies of philosophy, Soros formulated an application of Karl Popper's General Theory of Reflexivity to capital markets, which he claims renders a clear picture of asset bubbles and fundamental/market value of securities, as well as value discrepancies used for shorting and swapping stocks. Soros is a well-known supporter of progressive and liberal political causes, to which he dispenses donations through his foundation, the Open Society Foundations. Between 1979 and 2011, he donated more than $11 billion to various philanthropic causes; by 2017, his donations \"on civil initiatives to reduce poverty and increase transparency, and on scholarships and universities around the world\" totaled $12 billion. He influenced the collapse of communism in Eastern Europe in the late 1980s and early 1990s, and provided one of Europe's largest higher education endowments to the Central European University in his Hungarian hometown. His extensive funding of political causes has made him a \"bugaboo of European nationalists\". Numerous American conservatives have promoted false claims that characterize Soros as a singularly dangerous \"puppet master\" behind a variety of alleged global plots, with The New York Times reporting that by 2018 these claims had \"moved from the fringes to the mainstream\" of Republican politics. Conspiracy theories targeting Soros, who is of Jewish descent, have often been described as antisemitic."@en ,
+		"\u039F \u03A4\u03B6\u03C9\u03C1\u03C4\u03B6 \u03A3\u03CC\u03C1\u03BF\u03C2 (George Soros), \u03C0\u03BF\u03C5 \u03B3\u03B5\u03BD\u03BD\u03AE\u03B8\u03B7\u03BA\u03B5 \u03C3\u03C4\u03B9\u03C2 12 \u0391\u03C5\u03B3\u03BF\u03CD\u03C3\u03C4\u03BF\u03C5 1930 \u03BC\u03B5 \u03C4\u03BF \u03C0\u03C1\u03B1\u03B3\u03BC\u03B1\u03C4\u03B9\u03BA\u03CC \u03CC\u03BD\u03BF\u03BC\u03B1 \u0393\u03BA\u03C5\u03CC\u03C1\u03B3\u03BA\u03C5 \u03A3\u03B2\u03B1\u03C1\u03C4\u03C2 (Gy\u00F6rgy Schwartz) \u03B5\u03AF\u03BD\u03B1\u03B9 \u039F\u03C5\u03B3\u03B3\u03C1\u03BF\u03B1\u03BC\u03B5\u03C1\u03B9\u03BA\u03B1\u03BD\u03BF\u03B5\u03B2\u03C1\u03B1\u03B9\u03BF\u03C2 \u03BA\u03B5\u03C1\u03B4\u03BF\u03C3\u03BA\u03CC\u03C0\u03BF\u03C2, , \u03B5\u03C0\u03B9\u03C7\u03B5\u03B9\u03C1\u03B7\u03BC\u03B1\u03C4\u03AF\u03B1\u03C2,  \u03BA\u03B1\u03B9 \u03C0\u03BF\u03BB\u03B9\u03C4\u03B9\u03BA\u03CC\u03C2 \u03B1\u03BA\u03C4\u03B9\u03B2\u03B9\u03C3\u03C4\u03AE\u03C2. \u039A\u03AD\u03C1\u03B4\u03B9\u03C3\u03B5 \u03C6\u03AE\u03BC\u03B7 \u03C9\u03C2 \u03BF \u00AB\u03AC\u03BD\u03B8\u03C1\u03C9\u03C0\u03BF\u03C2 \u03C0\u03BF\u03C5 \u03BA\u03B1\u03C4\u03AD\u03C3\u03C4\u03C1\u03B5\u03C8\u03B5 \u03C4\u03B7\u03BD \u03A4\u03C1\u03AC\u03C0\u03B5\u03B6\u03B1 \u03C4\u03B7\u03C2 \u0391\u03B3\u03B3\u03BB\u03AF\u03B1\u03C2\u00BB, \u03B1\u03C6\u03BF\u03CD \u03BA\u03B1\u03C4\u03AC\u03C6\u03B5\u03C1\u03B5 \u03BD\u03B1 \u03B1\u03C0\u03BF\u03BA\u03BF\u03BC\u03AF\u03C3\u03B5\u03B9 \u03BA\u03AD\u03C1\u03B4\u03BF\u03C2 1 \u03B4\u03B9\u03C3. \u03B4\u03BF\u03BB\u03B1\u03C1\u03AF\u03C9\u03BD \u03BA\u03B1\u03C4\u03AC \u03C4\u03B7\u03BD \u03BA\u03C1\u03AF\u03C3\u03B7 \u03C4\u03BF\u03C5 \u03BD\u03BF\u03BC\u03AF\u03C3\u03BC\u03B1\u03C4\u03BF\u03C2 \u03C4\u03BF\u03C5 \u0397\u03BD\u03C9\u03BC\u03AD\u03BD\u03BF\u03C5 \u0392\u03B1\u03C3\u03B9\u03BB\u03B5\u03AF\u03BF\u03C5 \u03C4\u03BF 1992."@el ,
+		"\u062C\u0648\u0631\u062C \u0633\u0648\u0631\u0648\u0633 \u0648\u0644\u062F \u0641\u064A \u0627\u0644\u062B\u0627\u0646\u064A \u0645\u0646 \u0634\u0647\u0631 \u0622\u0628 \u0623\u063A\u0633\u0637\u0633 \u0639\u0627\u0645 1930 \u060C\u0648\u0647\u0648 \u0647\u0646\u063A\u0627\u0631\u064A \u0627\u0644\u0645\u0648\u0644\u062F \u0623\u0645\u0631\u064A\u0643\u064A \u0627\u0644\u062C\u0646\u0633\u064A\u0629 \u060C\u0631\u062C\u0644 \u0623\u0639\u0645\u0627\u0644 \u0648\u0645\u0633\u062A\u062B\u0645\u0631 \u0648\u0645\u0647\u062A\u0645 \u0628\u0627\u0644\u0639\u0645\u0644 \u0627\u0644\u062E\u064A\u0631\u064A. \u0639\u0631\u0641 \u0628\u062F\u0639\u0645\u0647 \u0644\u0644\u0633\u064A\u0627\u0633\u0627\u062A \u0627\u0644\u0644\u064A\u0628\u0631\u0627\u0644\u064A\u0629 \u0648\u0628\u062F\u0648\u0631\u0647 \u0627\u0644\u0641\u0639\u0627\u0644 \u0641\u064A \u0645\u0631\u062D\u0644\u0629 \u0627\u0644\u062A\u062D\u0648\u0644 \u0645\u0646 \u0627\u0644\u0634\u064A\u0648\u0639\u064A\u0629 \u0625\u0644\u0649 \u0627\u0644\u0646\u0638\u0627\u0645 \u0627\u0644\u0631\u0623\u0633 \u0645\u0627\u0644\u064A \u0641\u064A \u0627\u0644\u0645\u062C\u0631 (1984-1989). \u0623\u0639\u0637\u0649 \u062C\u0648\u0631\u062C \u0623\u0643\u0628\u0631 \u0645\u0646\u062D\u0629 \u0642\u062F\u0645\u062A \u0644\u0644\u062C\u0627\u0645\u0639\u0629 \u0627\u0644\u0623\u0648\u0631\u0628\u064A\u0629 \u0641\u064A \u0628\u0648\u062F\u0627\u0628\u0633\u062A \u0639\u0627\u0635\u0645\u0629 \u0627\u0644\u0645\u062C\u0631 \u0639\u0644\u0645\u0627 \u0623\u0646\u0647 \u0643\u0627\u0646 \u062A\u0628\u0631\u0639 \u0636\u062F \u0627\u0644\u0627\u062C\u062A\u064A\u0627\u062D \u0627\u0644\u0635\u0631\u0628\u064A \u0644\u0645\u062F\u064A\u0646\u0629 \u0633\u0631\u0627\u064A\u064A\u0641\u0648 \u0641\u064A \u0627\u0644\u062A\u0633\u0639\u064A\u0646\u0627\u062A."@ar ,
+		"\u0414\u0436\u043E\u0440\u0434\u0436 \u0421\u043E\u0301\u0440\u043E\u0441 (\u0430\u043D\u0433\u043B. George Soros, \u0414\u044C\u0451\u0440\u0434\u044C \u0428\u043E\u0440\u043E\u0448, \u0432\u0435\u043D\u0433. Soros Gy\u00F6rgy \u2014 \u043D\u0430\u0441\u0442\u043E\u044F\u0449\u0430\u044F \u0444\u0430\u043C\u0438\u043B\u0438\u044F \u2014 \u0428\u0432\u0430\u0440\u0446, \u043D\u0435\u043C. Schwartz; \u0440\u043E\u0434. 12 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 1930, \u0411\u0443\u0434\u0430\u043F\u0435\u0448\u0442, \u041A\u043E\u0440\u043E\u043B\u0435\u0432\u0441\u0442\u0432\u043E \u0412\u0435\u043D\u0433\u0440\u0438\u044F) \u2014 \u0430\u043C\u0435\u0440\u0438\u043A\u0430\u043D\u0441\u043A\u0438\u0439 \u0442\u0440\u0435\u0439\u0434\u0435\u0440, \u0444\u0438\u043D\u0430\u043D\u0441\u0438\u0441\u0442, \u0438\u043D\u0432\u0435\u0441\u0442\u043E\u0440. \u0421\u0442\u043E\u0440\u043E\u043D\u043D\u0438\u043A \u0442\u0435\u043E\u0440\u0438\u0438 \u043E\u0442\u043A\u0440\u044B\u0442\u043E\u0433\u043E \u043E\u0431\u0449\u0435\u0441\u0442\u0432\u0430 \u0438 \u043F\u0440\u043E\u0442\u0438\u0432\u043D\u0438\u043A \u00AB\u0440\u044B\u043D\u043E\u0447\u043D\u043E\u0433\u043E \u0444\u0443\u043D\u0434\u0430\u043C\u0435\u043D\u0442\u0430\u043B\u0438\u0437\u043C\u0430\u00BB (\u0432 \u044D\u0442\u043E\u043C \u043D\u0430\u043F\u0440\u0430\u0432\u043B\u0435\u043D\u0438\u0438 \u0431\u043B\u0438\u0437\u043E\u043A \u043A \u0441\u043E\u0446\u0438\u0430\u043B\u044C\u043D\u044B\u043C \u0438\u0434\u0435\u044F\u043C \u041A\u0430\u0440\u043B\u0430 \u041F\u043E\u043F\u043F\u0435\u0440\u0430). \u0421\u043E\u0437\u0434\u0430\u0442\u0435\u043B\u044C \u0441\u0435\u0442\u0438 \u0431\u043B\u0430\u0433\u043E\u0442\u0432\u043E\u0440\u0438\u0442\u0435\u043B\u044C\u043D\u044B\u0445 \u043E\u0440\u0433\u0430\u043D\u0438\u0437\u0430\u0446\u0438\u0439, \u0438\u0437\u0432\u0435\u0441\u0442\u043D\u044B\u0445 \u043A\u0430\u043A \u00AB\u0424\u043E\u043D\u0434 \u0421\u043E\u0440\u043E\u0441\u0430\u00BB. \u0427\u043B\u0435\u043D \u0438\u0441\u043F\u043E\u043B\u043D\u0438\u0442\u0435\u043B\u044C\u043D\u043E\u0433\u043E \u043A\u043E\u043C\u0438\u0442\u0435\u0442\u0430 . \u041D\u0430 \u0441\u0435\u043D\u0442\u044F\u0431\u0440\u044C 2019 \u0433\u043E\u0434\u0430 \u0435\u0433\u043E \u0441\u043E\u0441\u0442\u043E\u044F\u043D\u0438\u0435 \u043E\u0446\u0435\u043D\u0438\u0432\u0430\u0435\u0442\u0441\u044F \u0432 8,3 \u043C\u043B\u0440\u0434 \u0434\u043E\u043B\u043B\u0430\u0440\u043E\u0432 \u0421\u0428\u0410. \u0414\u0435\u044F\u0442\u0435\u043B\u044C\u043D\u043E\u0441\u0442\u044C \u0421\u043E\u0440\u043E\u0441\u0430 \u0432\u044B\u0437\u044B\u0432\u0430\u0435\u0442 \u043D\u0435\u043E\u0434\u043D\u043E\u0437\u043D\u0430\u0447\u043D\u0443\u044E \u043E\u0446\u0435\u043D\u043A\u0443 \u0432 \u0440\u0430\u0437\u043D\u044B\u0445 \u0441\u0442\u0440\u0430\u043D\u0430\u0445 \u0438 \u0440\u0430\u0437\u043B\u0438\u0447\u043D\u044B\u0445 \u043A\u0440\u0443\u0433\u0430\u0445 \u043E\u0431\u0449\u0435\u0441\u0442\u0432\u0430."@ru ,
+		"George Soros [Djordj \u015Coro\u015D]), hungare Gy\u00F6rgy Soros, naski\u011Dis la 12-an de a\u016Dgusto 1930 en Budape\u015Dto sub la nomo Gy\u00F6rgy Schwarz (elp. \u015Dvarc). Li estas financisto, spekulanto, filantropo kaj filo de la Esperanto-verkisto Tivadar Schwarz, alinomata Teodoro \u015Cvarc, unu el la eldonintoj de la fama beletra revuo en Esperanto (Literatura Mondo). Soros estas konata kiel \"La viro, kiu rompis la bankon de Anglio\" kiam li en 1992 forte vetis kontra\u016D la britan pound, kiam li estis profesie financa analisto kaj inter\u015Dan\u011Disto de valutoj (angle: 'trader') en la londona borso-merkato. La patro de George Soros, Teodoro \u015Cvarc, estis esperantisto kaj eldoninto de unu el la plej gravaj beletraj revuoj, nome Literatura Mondo. \u011Ci aperis en Budape\u015Dto en tri periodoj. La unuan numeron eldonis Teodoro Schwartz en oktobro 1922."@eo ,
+		"George Soros (pronunciato [\u02C8\u0283oro\u0283]), nato Gy\u00F6rgy Schwartz (pron. [\u0283va\u0281\u02A6]) (Budapest, 12 agosto 1930) \u00E8 un imprenditore e attivista ungherese naturalizzato statunitense. Soros \u00E8 Presidente del , dell'Open Society Foundations e fondatore e consigliere del . Politicamente \u00E8 un sostenitore del movimento liberal del Partito Democratico degli Stati Uniti d'America e un finanziatore di gruppi per i diritti umani con un marcato interesse per la filosofia, a partire da quella del suo insegnante giovanile, Karl Popper. Soros \u00E8 considerato da alcuni come uno degli investitori di maggior successo nel mondo.Al maggio 2017, Soros aveva un patrimonio netto stimato in 25,2 miliardi di dollari, una delle trenta persone pi\u00F9 ricche del mondo. Dopo aver donato una parte della propria ricchezza in beneficenza, a fine 2017 \u00E8 al 195\u00BA posto della classifica di Bloomberg con un patrimonio netto di 8 miliardi. Nato a Budapest in una famiglia ebraica, Soros sopravvive all'occupazione nazista dell'Ungheria ed emigra nel Regno Unito nel 1947, dove si laurea alla London School of Economics con un master in filosofia. Lavora quindi in varie banche commerciali londinesi prima di avviare il suo primo hedge fund, Double Eagle, nel 1969, i cui utili reinveste l'anno successivo nel , il suo secondo hedge fund. Double Eagle, ribattezzato , \u00E8 stata la principale azienda di cui Soros \u00E8 stato consulente, passando da 12 milioni di dollari di attivit\u00E0 in gestione alla sua fondazione fino a 25 miliardi di dollari nel 2011, la maggior parte del suo patrimonio netto complessivo. Soros \u00E8 noto come l'uomo che ha sbancato la Banca d'Inghilterra e la Banca d'Italia per le sue speculazioni di maggior successo, quando durante il mercoled\u00EC nero (16 settembre del 1992) vendette sterline a pronti contro termine per un valore complessivo di 10 miliardi di dollari, constringendo la Banca d'Inghilterra a svalutare la sterlina e guadagnando cos\u00EC in un giorno solo una cifra stimata in 1,1 miliardi di dollari. Operazione analoga fu da lui effettuata contro la lira italiana italiana col risultato che questa fu svalutata del 30%. I suoi studi in filosofia lo hanno portato a sviluppare e applicare la teoria generale della riflessivit\u00E0 di Karl Popper ai mercati dei capitali; Soros afferma di aver raggiunto cos\u00EC un quadro chiaro delle  e del valore dei , nonch\u00E9 delle discrepanze di valore utilizzate in borsa. Soros \u00E8 un noto sostenitore delle cause politiche progressiste e liberali statunitensi e dispensa filantropicamente donazioni a tal fine attraverso la sua fondazione, la Open Society Foundations. Tra il 1979 e il 2011, Soros ha donato pi\u00F9 di 11 miliardi di dollari per varie cause filantropiche; entro il 2017, le sue donazioni \"a iniziative civiche per ridurre la povert\u00E0 e aumentare la trasparenza e per borse di studio e universit\u00E0 in tutto il mondo\" hanno raggiunto i 12 miliardi di dollari. Soros ha svolto un ruolo significativo nel sostenere la transizione pacifica dal comunismo al capitalismo dell'Europa orientale alla fine degli anni '80 e agli inizi degli anni '90 e ha finanziato con una delle pi\u00F9 grandi donazioni la creazione della Central European University nella sua citt\u00E0 natale."@it ,
+		"George Soros, n\u00E9 Gy\u00F6rgy Schwartz le 12 ao\u00FBt 1930 \u00E0 Budapest, ou Gy\u00F6rgy Soros ([\u02C8\u025F\u00F8\u027E\u025F], [\u02C8\u0283o\u027Eo\u0283]), est un financier milliardaire am\u00E9ricain d'origine hongroise. Il devient c\u00E9l\u00E8bre pour ses activit\u00E9s de sp\u00E9culation sur les devises et les actions, qui ont marqu\u00E9 l'histoire des bourses de valeurs et ont caus\u00E9 des crises \u00E9conomiques, puis par ses activit\u00E9s de philanthropie. Il est \u00E0 l'origine des hedge funds apparus dans les ann\u00E9es 1970, qui se distinguent d\u00E8s la bulle financi\u00E8re japonaise. George Soros est actuellement pr\u00E9sident de Soros Fund Management, bas\u00E9 \u00E0 New York, qui g\u00E8re en 2012, 25 milliards de dollars pour lui, sa famille et ses fondations. Il a fond\u00E9 l'Open Society Institute, devenu en 2010 Open Society Foundations, dont il est le pr\u00E9sident."@fr ,
+		"George Soros, ursprungligen Gy\u00F6rgy Schwartz, f\u00F6dd 12 augusti 1930 i Budapest i Ungern, \u00E4r en amerikansk finansman, valutaspekulant, ekonomisk och filosofisk debatt\u00F6r samt filantrop. Soros har \u00E4gnat sig \u00E5t en omfattande spekulationsverksamhet, mot bland annat Storbritanniens och Sveriges ekonomier kring 1992 och mot Thailands och Malaysias ekonomier vid Asienkrisen 1997. Det finns de som h\u00E4vdar att Soros och andra valutaspekulanters agerande var med och bidrog till ekonomiska kriser och s\u00E4nkt levnadsstandard i dessa stater. Soros \u00E4r f\u00F6r globalisering, marknadsekonomi, demokrati, globala institutioner och gener\u00F6s flyktingpolitik. Han vill dock ha regleringar av marknadsekonomin, inklusive den finanskapitalism han sj\u00E4lv verkar inom. Soros har \u00E4ven donerat stora summor till olika filantropiska \u00E4ndam\u00E5l och till en l\u00E5ng rad organisationer. Det omfattande ekonomiska st\u00F6det till organisationer och n\u00E4tverk runt om i v\u00E4rlden, inklusive press och media, har av hans meningsmotst\u00E5ndare uppfattats som kontroversiellt. Han har engagerat sig i de amerikanska presidentvalsr\u00F6relserna och sk\u00E4nkt stora summor till Demokraterna och dem n\u00E4rst\u00E5ende organisationer. Han \u00E4r \u00E4ven starkt kritisk till Vladimir Putin i Ryssland, Duterte i Filippinerna, Viktor Orb\u00E1n i Ungern och andra auktorit\u00E4ra och nationalistiska politiska ledare och regimer. Genom sina organisationer f\u00F6rs\u00F6ker han p\u00E5verka en l\u00E5ng rad l\u00E4nder, mot det han kallar f\u00F6r det \u00F6ppna samh\u00E4llet. Soros \u00E4r enligt Forbes en av de 30 rikaste personerna i v\u00E4rlden."@sv ,
+		"\uC870\uC9C0 \uC18C\uB85C\uC2A4(\uC601\uC5B4: George Soros, 1930\uB144 8\uC6D4 12\uC77C ~ )\uB294 \uD5DD\uAC00\uB9AC\uACC4 \uBBF8\uAD6D\uC778\uC73C\uB85C\uC11C \uAE08\uC735\uC778\uC774\uC790 \uD22C\uC790\uAC00\uC774\uB2E4. \uC758 \uC758\uC7A5\uC744 \uB9E1\uACE0 \uC788\uB2E4. \uBCF8\uBA85\uC740 \uC288\uBC14\uB974\uCE20 \uC8C4\uB974\uC9C0(\uD5DD\uAC00\uB9AC\uC5B4: Schwartz Gy\u00F6rgy)\uC774\uB2E4. \uC18C\uB85C\uC2A4\uB294 \uC9C4\uBCF4\uC790\uC720\uC8FC\uC758 \uC6B4\uB3D9\uC744 \uC9C0\uC9C0\uD55C\uB2E4. \uBD80\uBAA8\uAC00 \uBAA8\uB450 \uC5D0\uC2A4\uD398\uB780\uD2F0\uC2A4\uD1A0\uC778 \uAD00\uACC4\uB85C \uBD80\uBAA8\uC5D0\uAC8C\uC11C \uBAA8\uAD6D\uC5B4\uB85C \uD5DD\uAC00\uB9AC\uC5B4\uC640 \uD568\uAED8 \uC5D0\uC2A4\uD398\uB780\uD1A0\uB97C \uBC30\uC6E0\uB2E4. \uB530\uB77C\uC11C \uADF8\uB294 \uC5D0\uC2A4\uD398\uB780\uD1A0\uB97C \uBAA8\uAD6D\uC5B4\uB85C \uC0AC\uC6A9\uD558\uB294 \uC5D0\uC2A4\uD398\uB780\uD1A0 \uC6D0\uC5B4\uBBFC\uC774\uB2E4. 1979\uB144\uBD80\uD130 2011\uB144 \uC0AC\uC774\uC5D0 \uC18C\uB85C\uC2A4\uB294 80\uC5B5 \uB2EC\uB7EC \uC774\uC0C1\uC744 \uC778\uAD8C, \uBCF5\uC9C0, \uAD50\uC721 \uC9C0\uC6D0\uC5D0 \uBCF4\uD0F0\uB2E4. \uC18C\uB85C\uC2A4\uB294 \uD5DD\uAC00\uB9AC (1984 ~ 89\uB144)\uC5D0\uC11C \uACF5\uC0B0\uC8FC\uC758\uB97C \uC790\uBCF8\uC8FC\uC758\uB85C \uD3C9\uD654\uB86D\uAC8C \uC804\uD658\uC2DC\uD0A8 \uC911\uC694\uD55C \uC5ED\uD560\uC744 \uD558\uC600\uC73C\uBA70 \uBD80\uB2E4\uD398\uC2A4\uD2B8\uC758 \uC5D0 \uC720\uB7FD \uC0AC\uC0C1 \uCD5C\uB300\uC758 \uACE0\uB4F1\uAD50\uC721 \uAE30\uBD80\uAE08\uC744 \uC81C\uACF5\uD558\uAE30\uB3C4 \uD588\uB2E4. \uC18C\uB85C\uC2A4\uB294 (Open Society Institute)\uC758 \uC758\uC7A5\uC774\uC790 \uC758 \uC804 \uC784\uC6D0\uC774\uAE30\uB3C4 \uD558\uB2E4."@ko ,
+		"George Soros (nascut el 12 d'agost de 1930 a Budapest, com a Schwartz Gy\u00F6rgy), \u00E9s un emprenedor financer, inversionista i activista pol\u00EDtic, d'origen hongar\u00E8s i nacionalitat estatunidenca."@ca ,
+		"\u55AC\u6CBB\u00B7\u7D22\u7F85\u65AF\uFF08\u82F1\u8A9E\uFF1AGeorge Soros\uFF0C1930\u5E748\u670812\u65E5\uFF0D\uFF09\uFF0C\u672C\u540D\u662F\u65BD\u74E6\u8328\u00B7\u6377\u723E\u5409\uFF08\u5308\u7259\u5229\u8A9E\uFF1ASchwartz Gy\u00F6rgy\uFF09\uFF0C\u66FE\u7528\u8BD1\u540D\u7ECD\u7F57\u4EC0\u00B7\u6377\u723E\u5409\uFF0C\u662F\u5308\u7259\u5229\u51FA\u751F\u7684\u7F8E\u7C4D\u7336\u592A\u4EBA\u5546\u4EBA\uFF0C\u8457\u540D\u7684\u8CA8\u5E63\u6295\u6A5F\u5BB6\uFF0C\u80A1\u7968\u6295\u8CC7\u8005\uFF0C\u9032\u6B65\u4E3B\u7FA9\u653F\u6CBB\u53CA\u793E\u6703\u904B\u52D5\u5BB6\u548C\u54F2\u5B78\u5BB6\u3001\u6148\u5584\u5BB6\uFF0C\u7528\u91D1\u878D\u5E02\u5834\u4F86\u5BE6\u9A57\u81EA\u8EAB\u7684\u54F2\u5B78\u7406\u5FF5\u3002\u73B0\u5728\u4ED6\u662F\u548C\u958B\u653E\u793E\u6703\u7814\u7A76\u6240\u4E3B\u5E2D\uFF0C\u4E5F\u662F\u8463\u4E8B\u6703\u524D\u6210\u5458\u3002\u57282019\u5E74\u7F8E\u570B400\u5BCC\u8C6A\u699C\uFF0C\u4ED6\u4EE586\u5104\u7F8E\u5143\u7684\u8CC7\u7522\uFF0C\u6392\u540D\u7B2C56\u540D\u3002"@zh ;
+	dbp:v	"no"@en ;
+	dbp:caption	"Soros at the 2011 Munich Security Conference"@en ;
+	dbp:b	"no"@en ;
+	dbp:n	"no"@en ;
+	dbp:wikt	"no"@en ;
+	dbp:citizenship	"Hungary"@en ,
+		"United States"@en ;
+	dbo:citizenship	dbr:United_States ,
+		<http://dbpedia.org/resource/Kingdom_of_Hungary_(1920\u20131946)> .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:George_Soros	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/George_Soros?oldid=986659131&ns=0> ;
+	dbp:species	"no"@en ;
+	dbp:float	"right"@en ;
+	dbp:name	"George Soros"@en ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/George_Soros_47th_Munich_Security_Conference_2011_crop.jpg?width=300> ;
+	dbo:birthPlace	dbr:Kingdom_of_Hungary ,
+		dbr:Budapest ;
+	dbp:birthPlace	dbr:Kingdom_of_Hungary ,
+		dbr:Budapest .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:George_Soros	dbo:birthDate	"1930-08-12"^^xsd:date ;
+	dbp:width	210 ;
+	dbp:d	"Q12908"@en ;
+	dbp:s	"no"@en ;
+	dbp:relatives	dbr:Paul_Soros ;
+	dbp:mw	"no"@en .
+@prefix ns57:	<http://dbpedia.org/datatype/> .
+dbr:George_Soros	dbo:networth	"8.3E9"^^ns57:Currency ;
+	dbo:relative	dbr:Paul_Soros ;
+	dbo:wikiPageExternalLink	<https://www.youtube.com/watch%3Fv=DFyfYBcbbac> ,
+		<https://www.youtube.com/watch%3Fv=RHSEEJDKJho> ,
+		<http://www.nybooks.com/authors/157> ,
+		<https://www.cfr.org/sites/default/files/report_pdf/FY17%20Membership%20Roster.pdf> .
+@prefix ns58:	<https://www.c-span.org/video/%3F180744-1/> .
+dbr:George_Soros	dbo:wikiPageExternalLink	ns58:the-bubble-american-supremacy ,
+		<https://web.archive.org/web/20051127200608/http:/www.msnbc.com/news/991865.asp%3Fvts=111120030842&cp1=1> ,
+		<https://www.youtube.com/watch%3Fv=bDrTkvFB6Zk> ,
+		<https://www.youtube.com/watch%3Fv=oCaCrWzFPYY> ,
+		<https://www.youtube.com/watch%3Fv=f-XT1hnkXZY> ,
+		<https://www.ynetnews.com/articles/0,7340,L-5241290,00.html> ,
+		<https://web.archive.org/web/20080926204125/http:/www.ft.com/cms/s/0/9973c5b0-8a6d-11dd-a76a-0000779fd18c,dwp_uuid=11f94e6e-7e94-11dd-b1af-000077b07658.html> ,
+		<https://www.theatlantic.com/magazine/archive/1997/02/the-capitalist-threat/376773/> ,
+		<http://wrap.warwick.ac.uk/647/1/WRAP_Stone_Market_Principles.pdf> ,
+		<http://wrap.warwick.ac.uk/1741/1/WRAP_Stone_OSI__Policy_Transfer_FINAL.pdf> ,
+		<https://web.archive.org/web/20110511141012/http:/www.project-syndicate.org/contributor/27> .
+@prefix ns59:	<https://www.wsj.com/articles/> .
+dbr:George_Soros	dbo:wikiPageExternalLink	ns59:SB10001424052702303467004575574450703567656 ,
+		<https://www.forbes.com/profile/george-soros/> ,
+		<https://web.archive.org/web/20080602062326/http:/www.ft.com/cms/s/0/304f1e6e-253b-11dd-a14a-000077b07658.html> .
+@prefix ns60:	<https://www.nytimes.com/topic/person/> .
+dbr:George_Soros	dbo:wikiPageExternalLink	ns60:george-soros ,
+		<http://www.time.com/time/specials/2007/time100powergivers/article/0,28804,1616375_1615711_1615683,00.html> ,
+		<http://www.time.com/time/magazine/article/0,9171,986206-7,00.html> ,
+		<http://www.soros.org/> ,
+		<http://ineteconomics.org> ,
+		<https://www.msnbc.com/news/991865.asp%3Fvts=111120030842&cp1=1> ,
+		<http://www.ft.com/cms/s/0/9973c5b0-8a6d-11dd-a76a-0000779fd18c,dwp_uuid=11f94e6e-7e94-11dd-b1af-000077b07658.html> ,
+		<http://www.ft.com/cms/s/0/304f1e6e-253b-11dd-a14a-000077b07658.html> ;
+	dbp:birthDate	"1930-08-12"^^xsd:date ;
+	dbp:voy	"no"@en ;
+	dbp:birthName	"Schwartz Gy\u00F6rgy"@en ;
+	dbo:birthName	"Schwartz Gy\u00F6rgy"@en ;
+	dbp:education	"London School of Economics"@en ;
+	dbo:education	dbr:Doctor_of_Philosophy ,
+		dbr:University_of_London ,
+		dbr:Master_of_Arts ;
+	dbp:knownFor	"Founding the Open Society Foundations"@en ,
+		"Advising the Quantum Fund"@en ,
+		"Managing Soros Fund Management"@en ,
+		"Philanthropy"@en ,
+		""@en ;
+	dbp:video	"3120.0"^^ns57:second ,
+		"--02-29"^^xsd:gMonthDay ,
+		"176.0"^^ns57:second ,
+		"2639.0"^^ns57:second ,
+		"2858.0"^^ns57:second ,
+		"2619.0"^^ns57:second ;
+	dbp:children	5 ;
+	dbp:occupation	"Investor, hedge fund manager, author, and philanthropist"@en ;
+	dbp:spouse	"Tamiko Bolton"@en ,
+		""@en ,
+		2005 ,
+		2013 ,
+		1960 ,
+		1983 ,
+		<http://dbpedia.org/resource/Susan_Weber_(historian)> ,
+		"Annaliese Witschak"@en ;
+	dbo:birthYear	"1930"^^xsd:gYear ;
+	dbo:child	dbr:Jonathan_Soros ,
+		dbr:Alexander_Soros ;
+	dbo:occupation	dbr:George_Soros__PersonFunction__1 ;
+	dbo:spouse	<http://dbpedia.org/resource/Susan_Weber_(historian)> .
+@prefix ns61:	<http://www.w3.org/2006/03/wn/wn20/instances/> .
+dbr:George_Soros	dbp:wordnet_type	ns61:synset-celebrity-noun-1 ;
+	dbp:headerimage	210 ;
+	dbp:accessDate	"2015-10-16"^^xsd:date ;
+	dbp:networth	"8.3E9"^^ns57:usDollar ;
+	dbp:m	"no"@en ;
+	dbp:c	"Category:George Soros"@en ;
+	dbo:knownFor	dbr:Soros_Fund_Management ,
+		dbr:Quantum_Fund ,
+		dbr:Open_Society_Foundations ;
+	dbo:wikiPageID	6951166 ;
+	dbo:wikiPageRevisionID	986659131 ;
+	dbo:wikiPageWikiLink	dbc:People_from_Budapest ,
+		dbr:Every_Voice ,
+		<http://dbpedia.org/resource/Aventura,_Florida> ,
+		dbr:University_of_Miami ,
+		<http://dbpedia.org/resource/Imre_Kert\u00E9sz> ,
+		dbr:Karl_Popper ,
+		dbr:Quakers ,
+		dbr:Esperanto ,
+		dbc:Alumni_of_the_University_of_London ,
+		<http://dbpedia.org/resource/Steve_Cohen_(businessman)> ,
+		dbr:University_of_London ,
+		dbc:American_philosophers ,
+		<http://dbpedia.org/resource/President_of_the_People\u0027s_Republic_of_China> ,
+		dbr:Antonia_Fraser ,
+		dbr:Pittsburgh_synagogue_shooting ,
+		dbr:Capital_market ,
+		dbr:Financial_endowment ,
+		dbr:James_Woods ,
+		dbr:ZTE ,
+		dbr:Literatura_Mondo ,
+		dbr:Politics_of_Guinea ,
+		dbr:Andrei_Sakharov ,
+		<http://dbpedia.org/resource/2010_California_Proposition_19> ,
+		dbr:Breaking_the_bank ,
+		dbr:Hungarian_Spectrum ,
+		dbr:The_New_School_for_Social_Research ,
+		dbr:Brett_Kavanaugh ,
+		dbr:Trade_war ,
+		<http://dbpedia.org/resource/Sigmundur_Dav\u00ED\u00F0_Gunnlaugsson> ,
+		dbr:District_attorney ,
+		dbr:The_New_Yorker ,
+		dbc:American_currency_traders ,
+		dbr:Right_to_die ,
+		dbr:Major_League_Soccer ,
+		dbr:The_Times ,
+		<http://dbpedia.org/resource/Reflexivity_(social_theory)> ,
+		<http://dbpedia.org/resource/Derivative_(finance)> ,
+		dbr:Bruce_Kovner ,
+		dbr:Meretz ,
+		<http://dbpedia.org/resource/Third_Orb\u00E1n_Government> ,
+		dbc:Critical_rationalists ,
+		dbr:Nationalism ,
+		dbr:Paul_Tudor_Jones ,
+		dbr:Paul_Volcker ,
+		dbr:Enemy_of_the_state ,
+		<http://dbpedia.org/resource/Bill_O\u0027Reilly_(political_commentator)> ,
+		dbr:Devaluation ,
+		dbr:Stefan_Batory_Foundation ,
+		<http://dbpedia.org/resource/Susan_Weber_(historian)> ,
+		<http://dbpedia.org/resource/Category:Recipients_of_the_Order_of_the_Cross_of_Terra_Mariana,_1st_Class> ,
+		dbr:Police_misconduct ,
+		<http://dbpedia.org/resource/2020_United_States_elections> ,
+		<http://dbpedia.org/resource/1997_Asian_financial_crisis> ,
+		dbr:European_Economic_Community ,
+		dbr:Munich_Security_Conference ,
+		dbr:Joseph_diGenova ,
+		dbr:Interest_Equalization_Tax ,
+		dbc:Alumni_of_the_London_School_of_Economics ,
+		dbr:Bachelor_of_Science ,
+		dbc:American_foreign_policy_writers ,
+		<http://dbpedia.org/resource/Donald_Trump_Jr.> ,
+		dbc:American_finance_and_investment_writers ,
+		dbr:Washington_Nationals ,
+		<http://dbpedia.org/resource/Kingdom_of_Hungary_(1920\u20131946)> ,
+		dbr:Malcolm_Gladwell ,
+		dbr:Huawei ,
+		dbr:University_of_Cape_Town ,
+		<http://dbpedia.org/resource/Honorary_title_(academic)> ,
+		dbr:Twitter ,
+		dbr:Premiership_of_Theresa_May ,
+		<http://dbpedia.org/resource/D.C._United> ,
+		dbr:Turkey ,
+		<http://dbpedia.org/resource/527_organization> ,
+		dbr:America_Coming_Together ,
+		dbr:Hemlock_Society ,
+		<http://dbpedia.org/resource/Katonah,_New_York> ,
+		dbr:Adbusters ,
+		dbr:Kalle_Lasn ,
+		dbr:The_New_York_Review_of_Books ,
+		<http://dbpedia.org/resource/Vaira_V\u012B\u0137e-Freiberga> ,
+		dbr:Operation_Margarethe ,
+		<http://dbpedia.org/resource/Antifa_(United_States)> ,
+		dbr:Wikimedia_Foundation ,
+		dbr:University_of_Oxford ,
+		dbr:Snopes ,
+		dbc:Jewish_atheists ,
+		<http://dbpedia.org/resource/2016\u2013present_purges_in_Turkey> ,
+		<http://dbpedia.org/resource/2017_Women\u0027s_March> ,
+		dbc:American_economics_writers ,
+		dbr:Gezi_Park_protests ,
+		dbc:Hungarian_Esperantists ,
+		dbc:American_atheists ,
+		dbc:American_commodities_traders ,
+		dbc:American_derivatives_traders ,
+		dbr:Americans ,
+		dbc:American_business_writers ,
+		dbr:Black_Wednesday ,
+		dbr:Value_investing ,
+		<http://dbpedia.org/resource/Category:20th-century_American_businesspeople> ,
+		dbr:Xi_Jinping ,
+		dbr:World_Economic_Forum ,
+		dbr:Center_for_Responsive_Politics ,
+		dbc:Soros_family ,
+		dbr:European_Exchange_Rate_Mechanism ,
+		<http://dbpedia.org/resource/Viktor_Orb\u00E1n> ,
+		dbr:Fareed_Zakaria ,
+		dbr:Occupy_Wall_Street ,
+		dbr:Corvinus_University_of_Budapest ,
+		dbr:Modern_liberalism_in_the_United_States ,
+		dbr:Millennium_Promise ,
+		dbr:The_Jewish_Chronicle ,
+		dbr:Stephen_Pollard ,
+		dbr:Leader_of_the_House_of_Commons ,
+		dbc:American_social_activists ,
+		dbr:Brexit ,
+		dbr:Revolutions_of_1989 ,
+		<http://dbpedia.org/resource/Henry_H._Arnhold> ,
+		dbr:Black_people ,
+		dbr:The_Atlantic ,
+		dbr:Economic_bubble ,
+		<http://dbpedia.org/resource/1994_Oregon_Ballot_Measure_16> ,
+		dbr:Ariel_Sharon ,
+		dbr:Joe_Biden ,
+		dbc:American_financiers ,
+		dbr:Democratization ,
+		dbr:Hungarian_border_barrier ,
+		dbr:Kingdom_of_Hungary ,
+		dbr:Arbitrage ,
+		dbr:HM_Treasury ,
+		dbr:Harold_Pinter ,
+		<http://dbpedia.org/resource/U.S._Securities_and_Exchange_Commission> ,
+		dbr:Trend_following ,
+		dbr:October_2018_United_States_mail_bombing_attempts ,
+		dbc:Esperanto_speaking_Jews ,
+		dbr:Nahum_Barnea ,
+		dbr:Dick_Cheney ,
+		dbr:Michael_Lewis ,
+		dbr:Independent_Diplomat ,
+		dbr:Doctor_of_Philosophy ,
+		<http://dbpedia.org/resource/George_W._Bush> ,
+		<http://dbpedia.org/resource/Solidarity_(Polish_trade_union)> ,
+		dbr:Drug_policy_reform ,
+		dbr:George_Floyd_protests ,
+		dbr:Floating_exchange_rate ,
+		dbr:Emma_Bonino ,
+		dbr:Efficient-market_hypothesis ,
+		dbr:Hungary ,
+		dbr:Master_of_Science ,
+		dbr:Bank_of_England ,
+		dbr:Assets_under_management ,
+		dbr:Financial_Times ,
+		dbr:Channel_4 ,
+		dbr:History_of_the_Jews_in_Hungary ,
+		dbr:World_War_I ,
+		dbc:American_male_non-fiction_writers ,
+		dbr:Kosovo ,
+		dbr:Belarus ,
+		<http://dbpedia.org/resource/Ministry_of_Foreign_Affairs_(Israel)> ,
+		dbr:Priorities_USA_Action ,
+		dbr:Brett_Kavanaugh_Supreme_Court_nomination ,
+		dbr:Drug_Policy_Alliance ,
+		dbc:University_and_college_founders ,
+		<http://dbpedia.org/resource/A.S._Roma> ,
+		dbr:Center_for_American_Progress ,
+		dbr:Charter_77 ,
+		dbr:Alexander_Lukashenko ,
+		dbr:MoveOn ,
+		dbr:North_Macedonia ,
+		<http://dbpedia.org/resource/File:George_Soros_-_Festival_Economia_2012_02.JPG> ,
+		<http://dbpedia.org/resource/File:Anti_George_Soros_sentiment_graffiti_in_Resen_Macedonia_2018.jpg> .
+@prefix ns62:	<http://dbpedia.org/resource/Wiktionary:> .
+dbr:George_Soros	dbo:wikiPageWikiLink	ns62:bug-a-boo ,
+		dbc:Speculators ,
+		dbr:Article_7_of_the_European_Convention_on_Human_Rights ,
+		<http://dbpedia.org/resource/File:Soros_talk_in_Malaysia.jpg> ,
+		<http://dbpedia.org/resource/File:Anti-Soros_demonstrations_(Tbilisi_Sep_28,_2005).jpg> ,
+		dbr:Net_worth ,
+		dbr:Open_Society_Initiative_for_Southern_Africa ,
+		dbr:Early_1990s_depression_in_Finland ,
+		dbc:American_billionaires ,
+		dbc:American_investors ,
+		dbr:Seth_Klarman ,
+		dbr:Larry_Krasner ,
+		dbc:Hungarian_hedge_fund_managers ,
+		dbc:Hungarian_investors ,
+		dbc:Hungarian_money_managers ,
+		dbc:American_financial_analysts ,
+		dbc:Hungarian_stock_traders ,
+		dbc:Hungarian_billionaires ,
+		dbc:Hungarian_financiers ,
+		dbr:Institute_for_New_Economic_Thinking ,
+		dbr:Yitzhak_Rabin ,
+		<http://dbpedia.org/resource/Bachelor\u0027s_degree> ,
+		<http://dbpedia.org/resource/Financial_crisis_of_2007\u20132008> ,
+		dbr:Bank_of_Finland ,
+		<http://dbpedia.org/resource/Manchester_United_F.C.> ,
+		dbr:Nobel_Prize_in_Literature ,
+		dbr:Bar_and_bat_mitzvah ,
+		<http://dbpedia.org/resource/Reason_(magazine)> ,
+		dbr:European_Union ,
+		<http://dbpedia.org/resource/Freedom_of_Information_Act_(United_States)> ,
+		dbc:American_anti-globalization_writers ,
+		dbr:Business_Insider ,
+		<http://dbpedia.org/resource/Soci\u00E9t\u00E9_G\u00E9n\u00E9rale> ,
+		dbc:Jewish_American_philanthropists ,
+		dbc:Fellows_of_the_British_Academy ,
+		<http://dbpedia.org/resource/5G> ,
+		dbr:The_Daily_Telegraph ,
+		dbr:Finnish_Government ,
+		dbr:The_Wall_Street_Journal ,
+		<http://dbpedia.org/resource/Georgia_(country)> ,
+		dbr:BBC ,
+		dbr:Daniel_Cohn-Bendit ,
+		<http://dbpedia.org/resource/Hugh_Fraser_(British_politician)> ,
+		dbr:Los_Angeles_Times ,
+		dbr:Conspiracy_theory ,
+		dbr:Norman_Lamont ,
+		dbr:Reuters ,
+		dbr:Open_society ,
+		dbr:Ynet ,
+		dbr:Transparency_International ,
+		dbr:Fox_News ,
+		<http://dbpedia.org/resource/Internationalism_(politics)> ,
+		dbr:Jim_Rogers ,
+		dbr:Andrew_Duff ,
+		<http://dbpedia.org/resource/End_of_communism_in_Hungary_(1989)> ,
+		dbr:Grover_Gardner ,
+		dbc:Institute_for_New_Economic_Thinking ,
+		<http://dbpedia.org/resource/2008_California_Proposition_5> ,
+		dbr:Progressivism_in_the_United_States ,
+		dbr:Budapest ,
+		dbc:Writers_about_globalization ,
+		dbc:Living_people ,
+		dbc:Naturalized_citizens_of_the_United_States ,
+		<http://dbpedia.org/resource/2016_United_Kingdom_European_Union_membership_referendum> ,
+		dbc:Hungarian_Jews ,
+		dbc:Jewish_American_writers ,
+		dbc:American_people_of_Hungarian-Jewish_descent ,
+		dbr:Emmanuel_Goldstein ,
+		dbr:Jonathan_Soros ,
+		<http://dbpedia.org/resource/National_Press_Club_(United_States)> ,
+		dbc:People_convicted_of_insider_trading ,
+		dbr:University_of_Bologna ,
+		dbr:Criminal_justice_reform_in_the_United_States ,
+		<http://dbpedia.org/resource/Category:1930_births> ,
+		<http://dbpedia.org/resource/Category:21st-century_American_businesspeople> ,
+		dbr:Daisy_Soros ,
+		<http://dbpedia.org/resource/Flora_Fraser_(writer)> ,
+		dbr:Salome_Zourabichvili ,
+		dbr:Kazakhstan ,
+		<http://dbpedia.org/resource/Boycott,_Divestment_and_Sanctions> ,
+		dbr:Jacques_Chirac ,
+		dbr:Barack_Obama ,
+		<http://dbpedia.org/resource/Big_Brother_(Nineteen_Eighty-Four)> ,
+		dbr:Louis_Bacon ,
+		<http://dbpedia.org/resource/Opinions_(TV_series)> ,
+		<http://dbpedia.org/resource/Massimo_D\u0027Alema> ,
+		<http://dbpedia.org/resource/Republican_Party_(United_States)> ,
+		<http://dbpedia.org/resource/Short_(finance)> ,
+		dbc:Hungarian_philanthropists ,
+		dbr:Western_Sahara ,
+		dbr:Polisario_Front ,
+		dbc:Hungarian_political_writers ,
+		<http://dbpedia.org/resource/Speakers\u0027_Corner> ,
+		dbr:Jacob_Rees-Mogg ,
+		dbr:Ready_PAC ,
+		dbr:Larry_Klayman ,
+		dbr:Pipe_bomb ,
+		<http://dbpedia.org/resource/Position_(finance)> ,
+		dbr:Drug_rehabilitation ,
+		dbc:American_stock_traders ,
+		dbr:Javier_Solana ,
+		dbc:Stock_and_commodity_market_managers ,
+		<http://dbpedia.org/resource/Dinesh_D\u0027Souza> ,
+		dbr:Breitbart_News ,
+		dbc:American_hedge_fund_managers ,
+		dbc:American_money_managers ,
+		dbr:Federal_Reserve ,
+		dbr:Major_League_Baseball ,
+		dbr:Santa_Fe_Institute ,
+		dbr:Complexity_economics ,
+		dbr:Alfred_Winslow_Jones ,
+		dbr:Donald_Trump ,
+		dbr:International_sanctions_during_the_Ukrainian_crisis ,
+		dbr:Stanley_Druckenmiller ,
+		dbr:Market_fundamentalism ,
+		dbr:Two-state_solution ,
+		dbr:Economic_antisemitism ,
+		dbr:Scott_Bessent ,
+		<http://dbpedia.org/resource/Acumen_(organization)> ,
+		dbr:Geopolitics ,
+		dbr:Siege_of_Sarajevo ,
+		dbr:European_Convention_on_Human_Rights ,
+		dbr:Annexation_of_Crimea_by_the_Russian_Federation ,
+		dbr:Rex_Tillerson ,
+		dbr:United_States ,
+		dbr:American_Recovery_and_Reinvestment_Act_of_2009 ,
+		dbr:Renminbi ,
+		dbr:Federal_Bureau_of_Investigation ,
+		dbr:Judenrat ,
+		dbr:Michael_Steinhardt ,
+		<http://dbpedia.org/resource/Recep_Tayyip_Erdo\u011Fan> ,
+		dbr:Apartheid ,
+		dbr:Council_on_Foreign_Relations ,
+		dbr:David_Aaronovitch ,
+		dbr:Netherlands_Antilles ,
+		dbr:National_academy ,
+		dbr:Quincy_Institute_for_Responsible_Statecraft ,
+		dbr:Moskovskiye_Novosti ,
+		dbr:Alexander_Soros ,
+		dbr:Central_Europe ,
+		dbr:Great_Recession ,
+		<http://dbpedia.org/resource/Kenneth_C._Griffin> ,
+		dbr:Somaliland ,
+		dbr:Hedge_fund ,
+		dbr:European_Coal_and_Steel_Community ,
+		dbr:Panama_Papers ,
+		dbr:Alex_Jones ,
+		dbr:Master_of_Arts ,
+		dbr:Myanmar ,
+		dbr:Beny_Steinmetz ,
+		dbc:Hungarian_atheists ,
+		dbr:Louie_Gohmert ,
+		<http://dbpedia.org/resource/Wertheim_&_Co.> ,
+		dbr:Anti-Defamation_League ,
+		dbr:Yale_University ,
+		dbr:Post-Soviet_states ,
+		dbr:Social_Credit_System ,
+		dbr:National_Review ,
+		dbr:Central_American_migrant_caravans ,
+		dbr:The_New_York_Times ,
+		dbr:Paul_Krugman ,
+		<http://dbpedia.org/resource/Kaupthing_Singer_&_Friedlander> ,
+		dbr:Soviet_Union ,
+		dbr:Justice_minister ,
+		dbr:Journal_of_Economic_Methodology ,
+		dbr:District_Attorney_of_Philadelphia ,
+		dbr:Ideology ,
+		dbr:Zignal_Labs ,
+		dbr:Stock_market ,
+		<http://dbpedia.org/resource/Trader_(finance)> ,
+		dbr:Los_Angeles_World_Affairs_Council ,
+		dbr:Israeli_Labor_Party ,
+		dbr:Palindrome ,
+		dbr:Human_Rights_Watch ,
+		dbr:Billionaire ,
+		dbr:Leon_Levy ,
+		dbr:Forbes ,
+		<http://dbpedia.org/resource/Arnhold_and_S._Bleichroeder> ,
+		<http://dbpedia.org/resource/FactCheck.org> ,
+		dbr:Quantum_mechanics ,
+		dbr:The_Heritage_Foundation ,
+		<http://dbpedia.org/resource/2004_United_States_presidential_election> ,
+		dbr:Stoneman_Douglas_High_School_shooting ,
+		dbr:London_School_of_Economics ,
+		dbr:Bachelor_of_Arts ,
+		dbr:Fellow_of_the_British_Academy ,
+		dbr:Quantum_Group_of_Funds ,
+		dbr:European_migrant_crisis ,
+		<http://dbpedia.org/resource/David_F._Swensen> ,
+		<http://dbpedia.org/resource/Category:20th-century_American_non-fiction_writers> ,
+		dbr:Right-wing_politics ,
+		<http://dbpedia.org/resource/Category:21st-century_American_non-fiction_writers> ,
+		<http://dbpedia.org/resource/Cura\u00E7ao> ,
+		dbr:Conservatism_in_the_United_States ,
+		dbr:Mahathir_Mohamad ,
+		dbr:World_War_II ,
+		dbr:Tibetan_people ,
+		dbr:Japanese_Americans ,
+		dbc:George_Soros ,
+		dbr:Hillary_Clinton ,
+		dbr:ASEAN ,
+		dbr:PBS ,
+		dbr:Abraham_Foxman ,
+		dbc:Drug_policy_reform_activists ,
+		dbr:British_Academy ,
+		dbr:General_Secretary_of_the_Chinese_Communist_Party ,
+		dbr:Forbes_400 ,
+		dbr:Congregation_Emanu-El_of_New_York ,
+		<http://dbpedia.org/resource/2016_United_States_presidential_election> ,
+		dbr:Finnish_markka ,
+		dbr:Merchant_bank ,
+		dbr:Open_Society_Foundations ,
+		<http://dbpedia.org/resource/Jim_Simons_(mathematician)> ,
+		dbr:Soros_Fund_Management ,
+		dbc:Jewish_activists ,
+		dbr:Northern_Cyprus ,
+		dbr:Nazi_Germany ,
+		dbr:The_Moscow_News ,
+		dbr:The_Ridenhour_Prizes ,
+		dbr:Assistive_Media ,
+		dbr:Jews ,
+		dbr:Alexander_Lomaia ,
+		dbc:Central_European_University ,
+		dbr:List_of_institutions_of_higher_education_in_Russia ,
+		dbr:Insider_trading ,
+		dbr:Marshall_Plan ,
+		dbc:American_financial_company_founders ,
+		dbc:American_chief_executives_of_financial_services_companies ,
+		<http://dbpedia.org/resource/Autorit\u00E9_des_march\u00E9s_financiers_(France)> ,
+		dbr:Democracy_Alliance ,
+		dbr:Project_Syndicate ,
+		dbc:Hungarian_emigrants_to_the_United_States ,
+		dbr:Jeffrey_Sachs ,
+		dbr:C-SPAN ,
+		dbc:American_political_fundraisers ,
+		dbr:Iron_Curtain ,
+		dbr:Central_European_University ,
+		dbr:Judicial_Watch ,
+		<http://dbpedia.org/resource/2008_Kosovo_declaration_of_independence> ,
+		dbr:Israel ,
+		dbr:Julian_Robertson ,
+		<http://dbpedia.org/resource/Jack_Nash_(businessman)> ,
+		dbc:American_Esperantists ,
+		dbr:Lynne_Stewart ,
+		dbr:Paul_Soros ,
+		dbr:Pound_sterling ,
+		dbr:Rose_Revolution ,
+		dbr:Mass_surveillance_in_China ,
+		<http://dbpedia.org/resource/Master\u0027s_degree> ,
+		dbr:The_Open_Society_and_Its_Enemies ,
+		dbr:Lindesmith_Center ,
+		dbr:Komi_Republic ,
+		dbr:Turkmenistan ,
+		dbr:Massachusetts_Sensible_Marijuana_Policy_Initiative ,
+		dbr:Antisemitism ,
+		dbr:Tivadar_Soros ,
+		dbr:European_Court_of_Human_Rights ,
+		dbr:Siege_of_Budapest ,
+		dbr:The_Washington_Post .
+@prefix dbt:	<http://dbpedia.org/resource/Template:> .
+dbr:George_Soros	dbp:wikiPageUsesTemplate	dbt:IPA-hu ,
+		dbt:Sfrac ,
+		dbt:Refn ,
+		dbt:External_media ,
+		dbt:Pp ,
+		dbt:Charlie_Rose_view ,
+		dbt:Authority_control ,
+		dbt:Infobox_person ,
+		dbt:ISBN ,
+		dbt:Efn ,
+		dbt:Use_American_English ,
+		dbt:Official_website ,
+		dbt:C-SPAN ,
+		dbt:New_York_Times_topic ,
+		dbt:Use_mdy_dates ,
+		<http://dbpedia.org/resource/Template:Than_what%3F> ,
+		dbt:Short_description ,
+		dbt:Cite_journal ,
+		dbt:Notelist ,
+		dbt:Cite_arXiv ,
+		dbt:Postnominals ,
+		dbt:Guardian_topic ,
+		dbt:Quote ,
+		dbt:Cn ,
+		dbt:Portal_bar ,
+		dbt:Reflist ,
+		dbt:Redirect ,
+		dbt:Details ,
+		dbt:As_of ,
+		dbt:Url ,
+		dbt:Citation_needed ,
+		dbt:Birth_date_and_age ,
+		dbt:IPAc-en ,
+		dbt:Anchor ,
+		dbt:Cite_web ,
+		dbt:Cite_book ,
+		dbt:Sisterlinks ,
+		dbt:FBA_2017 ;
+	dbo:wikiPageLength	"159368"^^xsd:nonNegativeInteger .
+<http://dbpedia.org/resource/Jed_S._Rakoff>	dbo:wikiPageWikiLink	dbr:George_Soros .
+@prefix ns64:	<http://dbpedia.org/resource/Jesus_Strikes_Back:> .
+ns64:_Judgment_Day	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Jim_Balsillie	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Jim_Wallis	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:John_Maynard_Keynes	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Letter_bomb	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Zionist_Organization_of_America	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Pipe_bomb	dbo:wikiPageWikiLink	dbr:George_Soros .
+@prefix ns65:	<http://dbpedia.org/resource/Shared_earning/> .
+ns65:shared_parenting_marriage	dbo:wikiPageWikiLink	dbr:George_Soros .
+<http://dbpedia.org/resource/Biden\u2013Ukraine_conspiracy_theory>	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Modern_flat_Earth_societies	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Rudy_Giuliani	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Rush_Limbaugh	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Causes_of_the_Great_Recession	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Israel_lobby_in_the_United_States	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Lumumba_Di-Aping	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Gail_Furman	dbo:wikiPageWikiLink	dbr:George_Soros .
+<http://dbpedia.org/resource/2018_Florida_gubernatorial_election>	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Smartmatic	dbo:wikiPageWikiLink	dbr:George_Soros .
+<http://dbpedia.org/resource/Republican_reactions_to_Donald_Trump\u0027s_claims_of_2020_election_fraud>	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Fox_News	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:J_Street	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Jared_Kushner	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:List_of_Barnard_College_people	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:List_of_Hungarian_Americans	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Subprime_mortgage_crisis_solutions_debate	dbo:wikiPageWikiLink	dbr:George_Soros .
+<http://dbpedia.org/resource/2010_California_Proposition_27>	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Andy_Stern	dbo:wikiPageWikiLink	dbr:George_Soros .
+<http://dbpedia.org/resource/2018_Virginia\u0027s_10th_congressional_district_election>	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:One_America_News_Network	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Rick_Wiles	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Reaction_to_the_Tobin_Tax	dbo:wikiPageWikiLink	dbr:George_Soros .
+<http://dbpedia.org/resource/1996_California_Proposition_215>	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Al_Jazeera_controversies_and_criticism	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Conflict-of-interest_editing_on_Wikipedia	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Tobin_tax	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Disputes_surrounding_the_2020_United_States_presidential_election_results	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Brennan_Gilmore	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Larry_Klayman	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:List_of_conspiracy_theories	dbo:wikiPageWikiLink	dbr:George_Soros .
+<http://dbpedia.org/resource/David_F._Swensen>	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Paul_Tudor_Jones	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Peter_Osnos	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Robert_Castelli	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Roseanne	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Roseanne_Barr	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Susie_Tompkins_Buell	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Glazer_ownership_of_Manchester_United	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Melanie_Morgan	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Members_of_the_Council_on_Foreign_Relations	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Ethan_Nadelmann	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:European_debt_crisis	dbo:wikiPageWikiLink	dbr:George_Soros .
+<http://dbpedia.org/resource/FactCheck.org>	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:National_Review	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Steve_King	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Steven_Mnuchin	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Wayne_Allyn_Root	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:United_Constitutional_Patriots	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Emergency_Economic_Stabilization_Act_of_2008	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Erica_Payne	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Anti-Israel_lobby_in_the_United_States	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Hillary_Clinton_2016_presidential_campaign	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:MoveOn	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Judy_Shalom_Nir-Mozes	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Max_Blumenthal	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Michael_Ignatieff	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Washington_Consensus	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:List_of_New_York_University_alumni	dbo:wikiPageWikiLink	dbr:George_Soros .
+<http://dbpedia.org/resource/Trump\u2013Ukraine_scandal>	dbo:wikiPageWikiLink	dbr:George_Soros .
+<http://dbpedia.org/resource/Inversiones_y_Representaciones_Sociedad_An\u00F3nima_(IRSA)>	dbo:wikiPageWikiLink	dbr:George_Soros .
+<http://dbpedia.org/resource/Southampton_(village),_New_York>	dbo:wikiPageWikiLink	dbr:George_Soros .
+<http://dbpedia.org/resource/Sid_Miller_(politician)>	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Rosa_Brooks	dbo:wikiPageWikiLink	dbr:George_Soros .
+<http://dbpedia.org/resource/Steve_Cohen_(businessman)>	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Julian_Robertson	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:David_Rothman	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Ben_Garrison	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Lynne_Stewart	dbo:wikiPageWikiLink	dbr:George_Soros .
+<http://dbpedia.org/resource/Ji\u0159\u00ED_\u010Cernick\u00FD>	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Larry_Hsien_Ping_Lang	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Ilan_Kapoor	dbo:wikiPageWikiLink	dbr:George_Soros .
+<http://dbpedia.org/resource/Figyel\u0151>	dbo:wikiPageWikiLink	dbr:George_Soros .
+<http://dbpedia.org/resource/Team_HC_Strache_\u2013_Alliance_for_Austria>	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Jaime_Gilinski_Bacal	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:School_of_Public_Policy_at_Central_European_University	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Freedom_of_religion_in_Europe_by_country	dbo:wikiPageWikiLink	dbr:George_Soros .
+<http://dbpedia.org/resource/Biljana_Srbljanovi\u0107>	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Irena_Lasota	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Cryptome	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Tax_Cuts_and_Jobs_Act_of_2017	dbo:wikiPageWikiLink	dbr:George_Soros .
+<http://dbpedia.org/resource/European_People\u0027s_Party>	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Anti-globalization_movement	dbo:wikiPageWikiLink	dbr:George_Soros .
+<http://dbpedia.org/resource/Short_(finance)>	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Human_rights_in_Russia	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Native_Esperanto_speakers	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Great_Replacement	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Live_from_Clear_Channel_Stripped_2008	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Vanessa_Beeley	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Yair_Netanyahu	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:George_Birnbaum	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Anne_Sinclair	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Bretton_Woods_Committee	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Yang_Lan	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Momentum_investing	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:The_Complete_TurtleTrader	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Ivan_Aralica	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Kerry-Lynne_Findlay	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Stephan_Ouaknine	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Claire_Wallace	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:More_Money_Than_God	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Clare_Melford	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Neale_Hanvey	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Kimberly_Gardner	dbo:wikiPageWikiLink	dbr:George_Soros .
+<http://dbpedia.org/resource/Krystyna_Paw\u0142owicz>	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Jonathan_Rapping	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Philipp_Haas	dbo:wikiPageWikiLink	dbr:George_Soros .
+<http://dbpedia.org/resource/Tam\u00E1s_Soproni>	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Nicholas_Roditi	dbo:wikiPageWikiLink	dbr:George_Soros .
+<http://dbpedia.org/resource/Gy\u00F6rgy>	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Transparify	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Facebook	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:List_of_philosophy_anniversaries	dbo:wikiPageWikiLink	dbr:George_Soros .
+<http://dbpedia.org/resource/Paul_M._Doty>	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:List_of_quantitative_analysts	dbo:wikiPageWikiLink	dbr:George_Soros .
+<http://dbpedia.org/resource/Radmila_\u0160ekerinska>	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:List_of_Bowdoin_College_people	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Tides_Foundation	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Jim_Rogers	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Beny_Steinmetz	dbo:wikiPageWikiLink	dbr:George_Soros .
+<http://dbpedia.org/resource/David_D._Cole>	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Millennium_Promise	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Bongani_Christopher_Majola	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Corporate_Knights	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Missouri_Republican_Party	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:UC_Berkeley_Graduate_School_of_Journalism	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Globalization_and_Its_Discontents	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Recession_shapes	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Synthetic_CDO	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:John_Sitaras	dbo:wikiPageWikiLink	dbr:George_Soros .
+<http://dbpedia.org/resource/Mustafa_Sar\u0131g\u00FCl>	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:StockPickr	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Breakthrough_Energy	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:OpenForum	dbo:wikiPageWikiLink	dbr:George_Soros .
+<http://dbpedia.org/resource/Mark_Malloch_Brown,_Baron_Malloch-Brown>	dbo:wikiPageWikiLink	dbr:George_Soros .
+<http://dbpedia.org/resource/Fist_Fight_(TV_series)>	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Central_European_University	dbo:wikiPageWikiLink	dbr:George_Soros ;
+	dbp:founder	dbr:George_Soros .
+dbr:Social_Credit_System	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Oleksandr_Yefremov	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Ion_Sturza	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Thum_Ping_Tjin	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Economic_antisemitism	dbo:wikiPageWikiLink	dbr:George_Soros .
+<http://dbpedia.org/resource/Jim_Simons_(mathematician)>	dbo:wikiPageWikiLink	dbr:George_Soros .
+<http://dbpedia.org/resource/Condoleezza_Rice\u0027s_tenure_as_Secretary_of_State>	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Global_Witness	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Oksana_Syroyid	dbo:wikiPageWikiLink	dbr:George_Soros .
+<http://dbpedia.org/resource/Tom_Davis_(Virginia_politician)>	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Kelly_Sadler	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Tom_Emmer	dbo:wikiPageWikiLink	dbr:George_Soros .
+<http://dbpedia.org/resource/Mich\u00E8le_Pierre-Louis>	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Arminio_Fraga	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Ernesto_Zedillo	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Bertrand_Newton	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Justice_at_Stake	dbo:wikiPageWikiLink	dbr:George_Soros .
+<http://dbpedia.org/resource/Currency_War_of_2009\u20132011>	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:American_Bridge_21st_Century	dbo:wikiPageWikiLink	dbr:George_Soros .
+<http://dbpedia.org/resource/Tim_Miller_(political_strategist)>	dbo:wikiPageWikiLink	dbr:George_Soros .
+<http://dbpedia.org/resource/GetUp!>	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Rebecca_Peters	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Christine_Ockrent	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Gerald_Knaus	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:European_Strategic_Intelligence_and_Security_Center	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Arthur_Edwin_Bye	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Global_Business_Coalition	dbo:wikiPageWikiLink	dbr:George_Soros .
+<http://dbpedia.org/resource/Caucasus_Institute_for_Peace,_Democracy_and_Development>	dbo:wikiPageWikiLink	dbr:George_Soros .
+<http://dbpedia.org/resource/The_World\u0027s_Billionaires_2015>	dbo:wikiPageWikiLink	dbr:George_Soros .
+<http://dbpedia.org/resource/Viacom_(2005\u20132019)>	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Stoneman_Douglas_High_School_shooting	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Columbia_University	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Feedback	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:American_University_of_Central_Asia	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:International_Freedom_Center	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Sky_Dayton	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Paul_Reichmann	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Paul_Soros	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Silviu_Brucan	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:List_of_Deerfield_alumni	dbo:wikiPageWikiLink	dbr:George_Soros .
+<http://dbpedia.org/resource/Mike_S._Miller>	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Missourians_Organizing_for_Reform_and_Empowerment	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Cathy_Zoi	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Drug_Policy_Alliance	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Drummond_Pike	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Eduardo_Elsztain	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:SanCor	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Joint_Victory_Campaign_2004	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:List_of_Americans_by_net_worth	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Anatole_Kaletsky	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:OneWest_Bank	dbo:wikiPageWikiLink	dbr:George_Soros .
+<http://dbpedia.org/resource/Henry_H._Arnhold>	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Media_Matters_for_America	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Financial_crisis	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Indus_Capital_Partners	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Subprime_crisis_impact_timeline	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Pace_University_High_School	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Byron_Wien	dbo:wikiPageWikiLink	dbr:George_Soros .
+<http://dbpedia.org/resource/Denis_O\u0027Brien>	dbo:wikiPageWikiLink	dbr:George_Soros .
+<http://dbpedia.org/resource/Patrick_Boyle_(financier)>	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Viatel	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Yesh_Din	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Paradise_Papers	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Gestora_de_Inversiones_Audiovisuales_La_Sexta	dbo:wikiPageWikiLink	dbr:George_Soros .
+<http://dbpedia.org/resource/Murder_of_J\u00E1n_Kuciak>	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Enrico_Corte	dbo:wikiPageWikiLink	dbr:George_Soros .
+<http://dbpedia.org/resource/Massimo_D\u0027Alema>	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Avenida_Corrientes	dbo:wikiPageWikiLink	dbr:George_Soros .
+<http://dbpedia.org/resource/Erik_S._Reinert>	dbo:wikiPageWikiLink	dbr:George_Soros .
+<http://dbpedia.org/resource/John_Gray_(philosopher)>	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:List_of_chess_players	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Nova24TV	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Andrey_Efi	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:List_of_Hungarian_Jews	dbo:wikiPageWikiLink	dbr:George_Soros .
+<http://dbpedia.org/resource/Mikl\u00F3s_Sug\u00E1r>	dbo:wikiPageWikiLink	dbr:George_Soros .
+<http://dbpedia.org/resource/Schwartz_(surname)>	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Vice_Media	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:VEON	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:The_Ascent_of_Money	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Gezi_Park_protests	dbo:wikiPageWikiLink	dbr:George_Soros .
+<http://dbpedia.org/resource/2020_Bulgarian_protests>	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:August_12	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:History_of_the_Jews_in_the_United_States	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Wikimedia_Foundation	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Stock_market_crash	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:John_Sperling	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Telecommunications_in_Russia	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Dmitry_Likhachov	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Valery_Soyfer	dbo:wikiPageWikiLink	dbr:George_Soros .
+<http://dbpedia.org/resource/2013\u20132014_Bulgarian_protests_against_the_Oresharski_cabinet>	dbo:wikiPageWikiLink	dbr:George_Soros .
+<http://dbpedia.org/resource/Dan_E._Davidson>	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Dmytro_Korchynsky	dbo:wikiPageWikiLink	dbr:George_Soros .
+<http://dbpedia.org/resource/Square_of_Contracts_(Kyiv)>	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Novosibirsk_Lavrentyev_Lyceum_130	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Jia_Chunwang	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Balcerowicz_Plan	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Saint_Petersburg_Lyceum_239	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Scytl	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Open_Society_Foundations	dbo:foundedBy	dbr:George_Soros ;
+	dbo:keyPerson	dbr:George_Soros ;
+	dbo:wikiPageWikiLink	dbr:George_Soros ;
+	dbp:founder	dbr:George_Soros .
+<http://dbpedia.org/resource/Agora_(organization)>	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:CRDF_Global	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Alexey_Ivanovich_Borozdin	dbo:wikiPageWikiLink	dbr:George_Soros .
+<http://dbpedia.org/resource/Susan_Weber_(historian)>	dbp:spouse	dbr:George_Soros ;
+	dbo:spouse	dbr:George_Soros ;
+	dbo:wikiPageWikiLink	dbr:George_Soros .
+<http://dbpedia.org/resource/Hromadske.TV>	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Physics_and_Technology_School	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Informatization	dbo:wikiPageWikiLink	dbr:George_Soros .
+<http://dbpedia.org/resource/Tourmaline_(activist)>	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Reactions_to_the_2020_Thai_protests	dbo:wikiPageWikiLink	dbr:George_Soros .
+<http://dbpedia.org/resource/Monitor_(magazine)>	dbo:wikiPageWikiLink	dbr:George_Soros .
+<http://dbpedia.org/resource/Antena_3_(Romanian_TV_channel)>	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Humanitarian_Law_Center	dbo:wikiPageWikiLink	dbr:George_Soros .
+<http://dbpedia.org/resource/Opinions_(TV_series)>	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Jack_Willis	dbo:wikiPageWikiLink	dbr:George_Soros .
+<http://dbpedia.org/resource/Andr\u00E9s_Freire>	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Internet_censorship_in_Russia	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Crispin_Odey	dbo:wikiPageWikiLink	dbr:George_Soros .
+<http://dbpedia.org/resource/Paul_Marshall_(investor)>	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Toxic_asset	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Andrew_Gillum	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Nor_Mohamed_Yakcop	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Oakland_freeway_shootout	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Sheryl_Sandberg	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Yehuda_Raveh	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Washington_Initiative_692	dbo:wikiPageWikiLink	dbr:George_Soros .
+<http://dbpedia.org/resource/Empire_(Card_novel)>	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Jonathan_Soros	dbo:parent	dbr:George_Soros ;
+	dbp:parents	dbr:George_Soros ;
+	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Andor_Nagy	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Craig_Sawyer	dbo:wikiPageWikiLink	dbr:George_Soros .
+<http://dbpedia.org/resource/J\u00E1nos_P\u00F3cs>	dbo:wikiPageWikiLink	dbr:George_Soros .
+<http://dbpedia.org/resource/Fourth_Orb\u00E1n_Government>	dbo:wikiPageWikiLink	dbr:George_Soros .
+<http://dbpedia.org/resource/2018_in_Hungary>	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Domingo_Zapata	dbo:wikiPageWikiLink	dbr:George_Soros .
+<http://dbpedia.org/resource/White_knight_(business)>	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:List_of_honorary_fellows_of_the_British_Academy	dbo:wikiPageWikiLink	dbr:George_Soros .
+<http://dbpedia.org/resource/Vincent_Chang_(academic)>	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:James_Madison_Award	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Massachusetts_Sensible_Marijuana_Policy_Initiative	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:List_of_projects_supported_by_George_Soros	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Angela_and_Jennifer_Chun	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Wisconsin_Center_for_Investigative_Journalism	dbo:wikiPageWikiLink	dbr:George_Soros .
+<http://dbpedia.org/resource/George_Soros,_Breaking_the_Bank_of_England>	dbo:wikiPageRedirects	dbr:George_Soros ;
+	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:George_Soros_Conspiracy_Theories	dbo:wikiPageRedirects	dbr:George_Soros ;
+	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:George_Soros_conspiracy_theory	dbo:wikiPageRedirects	dbr:George_Soros ;
+	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:George_soros	dbo:wikiPageRedirects	dbr:George_Soros ;
+	dbo:wikiPageWikiLink	dbr:George_Soros .
+<http://dbpedia.org/resource/Soros_(disambiguation)>	dbo:wikiPageWikiLink	dbr:George_Soros ;
+	dbo:wikiPageDisambiguates	dbr:George_Soros .
+dbr:Goerge_Soros	dbo:wikiPageRedirects	dbr:George_Soros ;
+	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Soros	dbo:wikiPageRedirects	dbr:George_Soros ;
+	dbo:wikiPageWikiLink	dbr:George_Soros .
+<http://dbpedia.org/resource/Soros,_George>	dbo:wikiPageRedirects	dbr:George_Soros ;
+	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Political_views_of_George_Soros	dbo:wikiPageRedirects	dbr:George_Soros ;
+	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Gyorgy_Schwartz	dbo:wikiPageRedirects	dbr:George_Soros ;
+	dbo:wikiPageWikiLink	dbr:George_Soros .
+<http://dbpedia.org/resource/Gy\u00F6rgy_Schwartz>	dbo:wikiPageRedirects	dbr:George_Soros ;
+	dbo:wikiPageWikiLink	dbr:George_Soros .
+<http://dbpedia.org/resource/George_Soros\u0027_conspiracy_theories>	dbo:wikiPageRedirects	dbr:George_Soros ;
+	dbo:wikiPageWikiLink	dbr:George_Soros .
+<http://dbpedia.org/resource/Schwartz_Gy\u00F6rgy>	dbo:wikiPageRedirects	dbr:George_Soros ;
+	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Conspiracy_theories_about_George_Soros	dbo:wikiPageRedirects	dbr:George_Soros ;
+	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Conspiracy_theories_regarding_George_Soros	dbo:wikiPageRedirects	dbr:George_Soros ;
+	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Gyoergy_Schwartz	dbo:wikiPageRedirects	dbr:George_Soros ;
+	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Gyoergy_Soros	dbo:wikiPageRedirects	dbr:George_Soros ;
+	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Gyorgy_Soros	dbo:wikiPageRedirects	dbr:George_Soros ;
+	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:George_Sorros	dbo:wikiPageRedirects	dbr:George_Soros ;
+	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:George_sorros	dbo:wikiPageRedirects	dbr:George_Soros ;
+	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Soros_Gyoergy	dbo:wikiPageRedirects	dbr:George_Soros ;
+	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Soros_Gyorgy	dbo:wikiPageRedirects	dbr:George_Soros ;
+	dbo:wikiPageWikiLink	dbr:George_Soros .
+<http://dbpedia.org/resource/Gy\u00F6rgy_Soros>	dbo:wikiPageRedirects	dbr:George_Soros ;
+	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Schwartz_Gyorgy	dbo:wikiPageRedirects	dbr:George_Soros ;
+	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Political_activities_of_George_Soros	dbo:wikiPageRedirects	dbr:George_Soros ;
+	dbo:wikiPageWikiLink	dbr:George_Soros .
+<http://dbpedia.org/resource/Soros_Gy\u00F6rgy>	dbo:wikiPageRedirects	dbr:George_Soros ;
+	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Gstaad	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Speculative_attack	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Stanley_Druckenmiller	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Best_for_Britain	dbo:wikiPageWikiLink	dbr:George_Soros .
+<http://dbpedia.org/resource/224_West_57th_Street>	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:CASA_de_Maryland	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Progressive_Jewish_Thought_and_the_New_Anti-Semitism	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Laura_Silber	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Amnesty_International_Ireland	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:List_of_people_and_organisations_named_in_the_Paradise_Papers	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Candace_Owens	dbo:wikiPageWikiLink	dbr:George_Soros .
+<http://dbpedia.org/resource/Gemma_O\u0027Doherty>	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Kate_Shemirani	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Charitable_activities_related_to_the_COVID-19_pandemic	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Jacob_Wohl	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:List_of_University_of_Michigan_business_alumni	dbo:wikiPageWikiLink	dbr:George_Soros .
+<http://dbpedia.org/resource/David_Clarke_(sheriff)>	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Parler	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Roland_Hedley	dbo:wikiPageWikiLink	dbr:George_Soros .
+<http://dbpedia.org/resource/Neboj\u0161a_Medojevi\u0107>	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Cryptocurrency_bubble	dbo:wikiPageWikiLink	dbr:George_Soros .
+<http://dbpedia.org/resource/Antifa_(United_States)>	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Marjorie_Taylor_Greene	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Center_for_Media_and_Democracy	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Vijesti	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Project_Syndicate	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Paul_Flather	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Istvan_Teplan	dbo:wikiPageWikiLink	dbr:George_Soros .
+<http://dbpedia.org/resource/Genevi\u00E9ve_Jones-Wright>	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Center_on_Budget_and_Policy_Priorities	dbo:wikiPageWikiLink	dbr:George_Soros .
+<http://dbpedia.org/resource/Nuffield_College,_Oxford>	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:The_Ridenhour_Prizes	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Order_of_the_Lithuanian_Grand_Duke_Gediminas	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Timap_for_Justice	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Currency_transaction_tax	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:List_of_Baltic_Germans	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Courier_Newsroom	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Elza_Brandeisz	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Weiser_Fulop	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Christa_Gannon	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Julie_Glass	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Luis_Emilio_Velutini	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Global_macro	dbo:wikiPageWikiLink	dbr:George_Soros .
+dbr:Open_Estonia_Foundation	dbo:wikiPageWikiLink	dbr:George_Soros .

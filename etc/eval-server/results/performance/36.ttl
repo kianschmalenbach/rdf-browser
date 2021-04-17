@@ -1,0 +1,782 @@
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+dbr:Madame_Tussauds_Vienna	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+dbr:Life_Ball	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+dbr:Universiade	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+dbr:Richard_Frey	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+dbr:Foreign_relations_of_Austria	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+dbr:List_of_presidential_trips_made_by_Frank-Walter_Steinmeier	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+dbr:Susan_McCaw	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+<http://dbpedia.org/resource/Boris_Tadi\u0107>	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+dbr:Radisson_Blu_Daugava_Hotel	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+dbr:Evo_Morales_grounding_incident	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+<http://dbpedia.org/resource/2005_Moscow_Victory_Day_Parade>	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+dbr:List_of_visitors_to_Tsitsernakaberd	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+dbr:List_of_state_visits_made_by_King_Harald_V_of_Norway	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+dbr:Papal_inauguration_of_Pope_Francis	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+dbr:Reactions_to_the_November_2015_Paris_attacks	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+dbr:List_of_state_visits_to_Iran	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+dbr:Kurt_Waldheim	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+<http://dbpedia.org/resource/2012_Nobel_Peace_Prize>	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+dbr:General_debate_of_the_sixty-eighth_session_of_the_United_Nations_General_Assembly	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+<http://dbpedia.org/resource/2010_Lisbon_summit>	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+dbr:Phoenix_TV_Talk_with_World_Leaders	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+dbr:List_of_diplomatic_visits_to_North_Macedonia	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Werner_Faymann	dbp:president	dbr:Heinz_Fischer ;
+	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+<http://dbpedia.org/resource/M\u00FCrzsteg_Hunting_Lodge>	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+<http://dbpedia.org/resource/Thomas_Stelzer_(born_1955)>	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+dbr:Harald_Grobner	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+dbr:Olaf_Nicolai	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+dbr:Reinhold_Mitterlehner__Tenure__1	dbo:president	dbr:Heinz_Fischer .
+dbr:Alfred_Gusenbauer__Tenure__1	dbo:president	dbr:Heinz_Fischer .
+dbr:Norbert_Darabos__Tenure__1	dbo:appointer	dbr:Heinz_Fischer .
+dbr:Beatrix_Karl__Tenure__3	dbo:president	dbr:Heinz_Fischer .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+wikipedia-en:Heinz_Fischer	foaf:primaryTopic	dbr:Heinz_Fischer .
+dbr:Austrian_Holocaust_Memorial_Service	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+dbr:Kibbutz_volunteer	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+<http://dbpedia.org/resource/Heinz_(given_name)>	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+dbr:Assassination_of_Archduke_Franz_Ferdinand	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+dbr:Brdo-Brijuni_Process	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+dbr:Alexander_Boldachev	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+dbr:Social_Democratic_Party_of_Austria	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+dbr:October_1938	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+dbr:Waris_Dirie	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+dbr:Muna_Duzdar	dbp:president	dbr:Heinz_Fischer ;
+	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+<http://dbpedia.org/resource/List_of_international_presidential_trips_made_by_An\u00EDbal_Cavaco_Silva>	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+dbr:Leopold_Engleitner	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+<http://dbpedia.org/resource/Austria\u2013United_States_relations>	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+dbr:List_of_trips_made_by_Secretary-General_of_the_United_Nations_Ban_Ki-moon	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+dbr:Atifete_Jahjaga	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+dbr:List_of_international_presidential_trips_made_by_Vladimir_Putin	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+dbr:William_Eacho	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+dbr:Salzburg_Global_Seminar	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+dbr:Ballhausplatz	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+dbr:Norbert_Hofer	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+dbr:Temple_of_Garni	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+dbr:Ute_Bock	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+dbr:Chernivtsi_University	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+dbr:Austrian_Parliament_Building	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+dbr:Ohrid_Summit_2008	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+dbr:Outline_of_Austria	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+dbr:History_of_the_Social_Democratic_Party_of_Austria	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+dbr:Light_for_the_World	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+<http://dbpedia.org/resource/2004_in_politics>	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+dbr:Muslim_Jewish_Conference	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+dbr:Taliban_insurgency	dbo:commander	dbr:Heinz_Fischer ;
+	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+dbr:List_of_international_presidential_trips_made_by_Hassan_Rouhani	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+dbr:Desertion	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+dbr:Foreign_relations_of_Mexico	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+dbr:October_9	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+dbr:Human_rights_in_Austria	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+dbr:Foreign_relations_of_Malaysia	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+<http://dbpedia.org/resource/Kreisky\u2013Peter\u2013Wiesenthal_affair>	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+dbr:Andreas_Maislinger	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+dbr:Sarid	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+dbr:Sebastian_Kurz	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Heinz_Fischer	rdf:type	yago:Scientist110560637 ,
+		yago:SocialScientist110619642 ,
+		yago:Communicator109610660 ,
+		yago:WikicatAustrianSocialists ,
+		yago:WikicatPresidentsOfAustria ,
+		yago:WikicatGrandMastersOfTheDecorationForServicesToTheRepublicOfAustria .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Heinz_Fischer	rdf:type	owl:Thing ,
+		yago:WikicatAustrianPoliticians ,
+		foaf:Person ,
+		yago:Person100007846 ,
+		yago:PhysicalEntity100001930 .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Heinz_Fischer	rdf:type	wikidata:Q215627 ,
+		yago:Organism100004475 ,
+		dbo:Person ,
+		yago:Aristocrat109807754 ,
+		yago:WikicatAustrianLawyers ,
+		yago:Object100002684 ,
+		yago:Holder110180178 ,
+		dbo:Politician ,
+		yago:YagoLegalActor ,
+		yago:WikicatAustrianPoliticalScientists ,
+		yago:YagoLegalActorGeo ,
+		yago:Whole100003553 ,
+		yago:MaleAristocrat110285135 ,
+		yago:Leader109623038 ,
+		yago:CausalAgent100007347 ,
+		yago:Adult109605289 ,
+		dbo:Agent ,
+		yago:LivingThing100004258 ,
+		yago:Academician109759069 ,
+		yago:Minister110320863 ,
+		yago:WikicatAustrianAcademics ,
+		yago:WikicatAustrianAgnostics .
+@prefix ns9:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Heinz_Fischer	rdf:type	ns9:NaturalPerson ,
+		ns9:Agent ,
+		yago:Educator110045713 ,
+		yago:Lawyer110249950 ,
+		yago:PoliticalScientist110450161 ,
+		yago:SkilledWorker110605985 ,
+		yago:Politician110450303 ,
+		yago:Owner110389398 ,
+		yago:Officeholder110371450 ,
+		yago:Official110372373 ,
+		yago:WikicatLivingPeople ,
+		yago:Worker109632518 ,
+		yago:Creator109614315 ,
+		yago:HeadOfState110164747 ,
+		yago:Negotiator110351874 ,
+		yago:Artist109812338 ,
+		yago:President110467179 ,
+		yago:Representative110522035 ,
+		dbo:OfficeHolder ,
+		yago:WikicatPeopleFromGraz ,
+		wikidata:Q24229398 ,
+		wikidata:Q5 ,
+		yago:WikicatKnightsOfTheOrderOfTheGoldLionOfTheHouseOfNassau ,
+		yago:Professional110480253 ,
+		wikidata:Q82955 ,
+		yago:Agnostic109779124 .
+@prefix schema:	<http://schema.org/> .
+dbr:Heinz_Fischer	rdf:type	schema:Person ,
+		yago:WikicatGovernmentMinistersOfAustria ,
+		yago:Socialist110618848 ,
+		yago:WikicatAustrianPeople ,
+		yago:Executive110069645 ,
+		yago:Administrator109770949 ,
+		yago:Head110162991 ,
+		yago:Maestro110280130 ,
+		yago:Knight110238375 .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Heinz_Fischer	rdfs:label	"\u0647\u0627\u064A\u0646\u0632 \u0641\u064A\u0634\u0631"@ar ,
+		"\u03A7\u03AC\u03B9\u03BD\u03C4\u03C2 \u03A6\u03AF\u03C3\u03B5\u03C1"@el ,
+		"\uD558\uC778\uCE20 \uD53C\uC154"@ko ,
+		"\u0413\u0430\u0439\u043D\u0446 \u0424\u0456\u0448\u0435\u0440"@uk ,
+		"\u6D77\u56E0\u8328\u00B7\u83F2\u820D\u5C14"@zh ,
+		"Heinz Fischer"@fr ,
+		"Heinz Fischer"@de ,
+		"Heinz Fischer"@pl ,
+		"Heinz Fischer"@pt ,
+		"Heinz Fischer"@in ,
+		"Heinz Fischer"@nl ,
+		"Heinz Fischer"@ca ,
+		"Heinz Fischer"@cs ,
+		"Heinz Fischer"@es ,
+		"Heinz Fischer"@en ,
+		"Heinz Fischer"@it ,
+		"\u30CF\u30A4\u30F3\u30C4\u30FB\u30D5\u30A3\u30C3\u30B7\u30E3\u30FC"@ja ,
+		"Heinz Fischer"@sv ,
+		"Heinz Fischer"@eo ;
+	rdfs:comment	"Heinz Fischer (pronunciaci\u00F3 alemanya: [ha\u026Ants \u02C8f\u026A\u0283\u0250] ( ); Graz, 9 d'octubre de 1938) \u00E9s un pol\u00EDtic austr\u00EDac, que va ser President de la Rep\u00FAblica d'\u00C0ustria, del 2004 al 2016."@ca ,
+		"\u039F \u03A7\u03AC\u03B9\u03BD\u03C4\u03C2 \u03A6\u03AF\u03C3\u03B5\u03C1 (Heinz Fischer, 9 \u039F\u03BA\u03C4\u03C9\u03B2\u03C1\u03AF\u03BF\u03C5 1938-) \u03B5\u03AF\u03BD\u03B1\u03B9 \u03BF \u03C0\u03C1\u03CC\u03B5\u03B4\u03C1\u03BF\u03C2 \u03C4\u03B7\u03C2 \u0391\u03C5\u03C3\u03C4\u03C1\u03AF\u03B1\u03C2 \u03B1\u03C0\u03CC \u03C4\u03B9\u03C2 8 \u0399\u03BF\u03C5\u03BB\u03AF\u03BF\u03C5 \u03C4\u03BF\u03C5 2004.\u0391\u03BD\u03AE\u03BA\u03B5\u03B9 \u03C0\u03BF\u03BB\u03B9\u03C4\u03B9\u03BA\u03AC \u03C3\u03C4\u03BF SP\u00D6 (\u03A3\u03BF\u03C3\u03B9\u03B1\u03BB\u03B4\u03B7\u03BC\u03BF\u03BA\u03C1\u03B1\u03C4\u03B9\u03BA\u03CC \u039A\u03CC\u03BC\u03BC\u03B1 \u03C4\u03B7\u03C2 \u0391\u03C5\u03C3\u03C4\u03C1\u03AF\u03B1\u03C2). \u0395\u03AF\u03BD\u03B1\u03B9 \u03B5\u03C0\u03AF\u03C3\u03B7\u03C2 \u03B1\u03B3\u03BD\u03C9\u03C3\u03C4\u03B9\u03BA\u03B9\u03C3\u03C4\u03AE\u03C2."@el ,
+		"\u0413\u0430\u0439\u043D\u0446 \u0424\u0456\u0301\u0448\u0435\u0440 (\u043D\u0456\u043C. Heinz Fischer; \u043D\u0430\u0440. 9 \u0436\u043E\u0432\u0442\u043D\u044F 1938) \u2014 \u0430\u0432\u0441\u0442\u0440\u0456\u0439\u0441\u044C\u043A\u0438\u0439 \u0434\u0435\u0440\u0436\u0430\u0432\u043D\u0438\u0439 \u0456 \u043F\u043E\u043B\u0456\u0442\u0438\u0447\u043D\u0438\u0439 \u0434\u0456\u044F\u0447, \u0444\u0435\u0434\u0435\u0440\u0430\u043B\u044C\u043D\u0438\u0439 \u043F\u0440\u0435\u0437\u0438\u0434\u0435\u043D\u0442 \u0410\u0432\u0441\u0442\u0440\u0456\u0457 \u0437 8 \u043B\u0438\u043F\u043D\u044F 2004 \u0440\u043E\u043A\u0443 \u043F\u043E 8 \u043B\u0438\u043F\u043D\u044F 2016 \u0440\u043E\u043A\u0443."@uk ,
+		"Heinz FISCHER [FI\u015Der] (naski\u011Dis la 9-an de oktobro 1938 en Graz [Grac], Stirio), estis elektita de la a\u016Dstria popolo kiel federacia prezidento la 25-an de aprilo 2004. Ekde la 8-an de julio 2004 li plenumas la oficon \"Federacia Prezidento de A\u016Dstrio\" en Hofburg (Kortega Kastelo), Vieno. Okaze de la milito Heinz Fischer vizitis kvin diversajn elementajn lernejojn en Vieno. Post la abiturienta diplomo (gimnazio Fichtergasse en Hietzing, Vieno) 1956, li studis juran sciencon \u0109e la Universitato Vieno kaj atingis 1961 la titolon doktoro. Post sia studado estis Fischer klubsekretario de la SP\u00D6."@eo ,
+		"Heinz Fischer  GColIH OMRI RSerafO GCollSE (German pronunciation: [ha\u026Ants \u02C8f\u026A\u0283\u0250] (); born 9 October 1938 in Graz, Styria) is a former Austrian politician. He took office as President of Austria on 8 July 2004 and was re-elected for a second and last term on 25 April 2010, leaving office on 8 July 2016. Fischer previously served as minister of science from 1983 to 1987 and as president of the National Council of Austria from 1990 to 2002. A member of the Social Democratic Party of Austria (SP\u00D6), he suspended his party membership for the duration of his presidency."@en ,
+		"Dr. Heinz Fischer (  (ajuda\u00B7info); Graz, 9 de outubro de 1938) foi presidente federal da \u00C1ustria entre 2004 e 2016. Foi eleito presidente no dia 25 de abril de 2004. Hoje \u00E9 o pol\u00EDtico mais popular do pa\u00EDs. Heinz Fischer acabou sua educa\u00E7\u00E3o secund\u00E1ria em 1956. Cursou depois Direito na Universidade de Viena, graduando em 1961. Ao mesmo tempo, ele n\u00E3o abandonou sua carreira acad\u00E9mica, em 1978 tirou sua agrega\u00E7\u00E3o e em 1993 assumiu uma cadeira em ci\u00EAncias pol\u00EDticas na Universidade de Innsbruck."@pt ,
+		"Heinz Fischer ( ; * 9. \u0159\u00EDjna 1938 \u0160t\u00FDrsk\u00FD Hradec) je rakousk\u00FD politik, pr\u00E1vn\u00EDk, \u010Dlen soci\u00E1ln\u011B-demokratick\u00E9 strany. Od 8. \u010Dervence 2004 do 8. \u010Dervence 2016 zast\u00E1val po dv\u011B funk\u010Dn\u00ED obdob\u00ED (podruh\u00E9 zvolen roku 2010) \u00FA\u0159ad rakousk\u00E9ho spolkov\u00E9ho prezidenta."@cs ,
+		"Heinz Fischer (* 9. Oktober 1938 in Graz, Steiermark) ist ein ehemaliger \u00F6sterreichischer Politiker (SP\u00D6). Von 2004 bis 2016 war er Bundespr\u00E4sident der Republik \u00D6sterreich. Davor war er Wissenschaftsminister und Nationalratsabgeordneter der SP\u00D6 sowie Pr\u00E4sident beziehungsweise Zweiter Pr\u00E4sident des \u00F6sterreichischen Nationalrates."@de ,
+		"Heinz Fischer, f\u00F6dd 10 oktober 1938 i Graz, socialdemokratisk \u00F6sterrikisk politiker (SP\u00D6). Han var fr\u00E5n den 8 juli 2004 till 8 juli 2016 \u00D6sterrikes \u00E5ttonde f\u00F6rbundspresident i andra republiken efter att i valet ha besegrat den kristdemokratiska motkandidaten Benita Ferrero-Waldner (\u00D6VP). Heinz Fischer \u00E4r gift med , f\u00F6dd Binder den 28 juni 1943 i Stockholm."@sv ,
+		"Heinz Fischer (wym. ; ur. 9 pa\u017Adziernika 1938 w Grazu) \u2013 austriacki polityk, dzia\u0142acz Socjalistycznej Partii Austrii (SP\u00D6), w latach 1983\u20131987 minister nauki, d\u0142ugoletni pose\u0142 do Rady Narodowej, a od 1990 do 2002 jej przewodnicz\u0105cy. W latach 2004\u20132016 prezydent Austrii."@pl ,
+		"Heinz Fischer (lahir [lahir di Graz, Austria, 9 Oktober 1938; umur 81 tahun) adalah Presiden Federal Presiden Austria. Ia menjabat sejak 8 Juli 2004 dan terpilih kembali pada 25 April 2010."@in ,
+		"\u6D77\u56E0\u8328\u00B7\u83F2\u820D\u5C14\uFF08\u5FB7\u8A9E\uFF1AHeinz Fischer\uFF0C1938\u5E7410\u67089\u65E5\uFF0D\uFF09\u5965\u5730\u5229\u653F\u6CBB\u5BB6\uFF0C\u524D\u4EFB\u5965\u5730\u5229\u603B\u7EDF\uFF082004\uFF0D2016\uFF09\u3002"@zh ,
+		"\u30CF\u30A4\u30F3\u30C4\u30FB\u30D5\u30A3\u30C3\u30B7\u30E3\u30FC\uFF08Heinz Fischer\u30011938\u5E7410\u67089\u65E5 - \uFF09\u306F\u3001\u30AA\u30FC\u30B9\u30C8\u30EA\u30A2\u306E\u653F\u6CBB\u5BB6\u3002\u30AA\u30FC\u30B9\u30C8\u30EA\u30A2\u793E\u4F1A\u6C11\u4E3B\u515A\u6240\u5C5E\u3002\u540C\u56FD\u9023\u90A6\u5927\u7D71\u9818\uFF082\u671F\u3001\u5728\u4EFB2004\u5E74 - 2016\u5E74\uFF09\u3002"@ja ,
+		"Heinz Fischer, n\u00E9 le 9 octobre 1938 \u00E0 Graz (Styrie), est un homme d'\u00C9tat autrichien, pr\u00E9sident f\u00E9d\u00E9ral de la R\u00E9publique d'Autriche de 2004 \u00E0 2016. Issu d'une famille sociale-d\u00E9mocrate, il passe en 1961 son doctorat en droit \u00E0 l'universit\u00E9 de Vienne. Il est recrut\u00E9 l'ann\u00E9e suivante comme collaborateur du groupe du SP\u00D6 au Conseil national."@fr ,
+		"\u0647\u0627\u064A\u0646\u0632 \u0641\u064A\u0634\u0631 :(\u0646\u0637\u0642 \u0628\u0627\u0644\u0623\u0644\u0645\u0627\u0646\u064A\u0629: [ha\u026Ants f\u026A\u0283\u0250]\u061B 9 \u0623\u0643\u062A\u0648\u0628\u0631 1938 - ) : \u0647\u0648 \u0631\u0626\u064A\u0633 \u062C\u0645\u0647\u0648\u0631\u064A\u0629 \u0627\u0644\u0646\u0645\u0633\u0627\u060C \u062A\u0648\u0644\u0649 \u0645\u0646\u0635\u0628\u0647 \u0641\u064A 8 \u064A\u0648\u0644\u064A\u0648 2004\u060C \u0648\u0623\u0639\u064A\u062F \u0627\u0646\u062A\u062E\u0627\u0628\u0647 \u0644\u0648\u0644\u0627\u064A\u0629 \u0623\u062E\u0631\u0649 \u0641\u064A 25 \u0623\u0628\u0631\u064A\u0644 2010\u060C \u0634\u063A\u0644 \u0641\u064A\u0634\u0631 \u0633\u0627\u0628\u0642\u0627 \u0645\u0646\u0635\u0628 \u0648\u0632\u064A\u0631 \u0627\u0644\u0639\u0644\u0648\u0645 (1983-1987) \u0648\u0631\u0626\u064A\u0633\u0627 \u0644\u0644\u0645\u062C\u0644\u0633 \u0627\u0644\u0648\u0637\u0646\u064A \u0627\u0644\u0646\u0645\u0633\u0627\u0648\u064A (1990 - 2002) ."@ar ,
+		"Heinz Fischer (Graz, 9 ottobre 1938) \u00E8 un politico austriaco, Presidente dell'Austria dal 2004 al 2016."@it ,
+		"Heinz Fischer (Graz, 9 de octubre de 1938) es un pol\u00EDtico austriaco, Presidente Federal de su pa\u00EDs desde 2004 hasta el 2016."@es ,
+		"\uD558\uC778\uCE20 \uD53C\uC154(\uB3C5\uC77C\uC5B4: Heinz Fischer, 1938\uB144 10\uC6D4 9\uC77C ~ )\uC740 \uC624\uC2A4\uD2B8\uB9AC\uC544\uC758 \uC815\uCE58\uC778\uC774\uB2E4. 2004\uB144\uBD80\uD130 2016\uB144\uAE4C\uC9C0 \uB300\uD1B5\uB839\uC73C\uB85C \uC7AC\uC784\uD588\uB2E4. \uADF8\uB77C\uCE20 \uCD9C\uC2E0\uC774\uBA70, \uBE48 \uB300\uD559\uAD50\uC5D0\uC11C \uBC95\uD559\uC744 \uC804\uACF5\uD588\uB2E4. 1971\uB144 \uAD6D\uD68C\uC758\uC6D0\uC774 \uB418\uC5C8\uB2E4. 1983\uB144 ~ 1987\uB144  \uCD1D\uB9AC\uAC00 \uC774\uB044\uB294 \uC5F0\uC815\uC5D0\uC11C \uACFC\uD559\uBD80 \uC7A5\uAD00\uC744 \uC9C0\uB0C8\uB2E4. 1990\uB144 ~ 2004\uB144, \uAD6D\uD68C\uC758\uC7A5\uC744 \uC9C0\uB0C8\uB2E4. \uD55C\uD3B8 \uC774\uC640 \uD568\uAED8 \uC778\uC2A4\uBE0C\uB8E8\uD06C \uB300\uD559\uAD50\uC5D0\uC11C \uC815\uCE58\uD559 \uAD50\uC218\uB85C \uC7AC\uC9C1\uD558\uAE30\uB3C4 \uD588\uB2E4. 2004\uB144 1\uC6D4, \uB300\uC120 \uCD9C\uB9C8\uB97C \uC120\uC5B8, \uC0AC\uD68C\uBBFC\uC8FC\uB2F9 \uD6C4\uBCF4\uB85C \uBF51\uD614\uB2E4. 2004\uB144 4\uC6D4, \uAD6D\uBBFC \uC9C1\uC811 \uC120\uAC70\uC5D0\uC11C 52.4%\uC758 \uB4DD\uD45C\uC728\uB85C 6\uB144 \uC784\uAE30\uC758 \uB300\uD1B5\uB839\uC5D0 \uB2F9\uC120\uB418\uC5C8\uB2E4. 2007\uB144 4\uC6D4, \uB300\uD55C\uBBFC\uAD6D\uC744 \uBC29\uBB38\uD558\uC5EC \uB178\uBB34\uD604 \uB300\uD1B5\uB839\uACFC \uC815\uC0C1\uD68C\uB2F4\uC744 \uAC00\uC84C\uB2E4. 2010\uB144 4\uC6D4 25\uC77C \uC624\uC2A4\uD2B8\uB9AC\uC544 \uB300\uD1B5\uB839 \uC120\uAC70\uC5D0\uC11C 79.8%\uB97C \uB4DD\uD45C\uD558\uC5EC \uC5F0\uC784\uC5D0 \uC131\uACF5\uD558\uC600\uB2E4."@ko ,
+		"Heinz Fischer (  (info / uitleg); Graz, 9 oktober 1938) is een Oostenrijks politicus voor de Sociaaldemocratische SP\u00D6. Van 2004 tot 2016 was hij bondspresident van Oostenrijk. Fischer studeerde rechten aan de Universiteit van Wenen, waar hij in 1961 promoveerde. Fischer werd in 1971 gekozen in de Nationale Raad, waarvan hij tussen 1990 en 2004 voorzitter was. Hij was Minister van Wetenschap in de regering van Fred Sinowatz, tussen 1983 en 1987. Hij was naast zijn politieke carri\u00E8re hoogleraar politicologie aan de universiteit van Innsbruck."@nl ;
+	foaf:name	"Heinz Fischer"@en ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Heinz_Fischer_2012_(cropped).jpg> ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Heinz_Fischer .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Heinz_Fischer	dct:subject	dbc:Grand_Collars_of_the_Order_of_Saint_James_of_the_Sword ,
+		dbc:Grand_Crosses_with_Golden_Chain_of_the_Order_of_Vytautas_the_Great ,
+		dbc:Living_people ,
+		dbc:Austrian_agnostics ,
+		<http://dbpedia.org/resource/Category:1938_births> ,
+		<http://dbpedia.org/resource/Category:Grand_Croix_of_the_L\u00E9gion_d\u0027honneur> ,
+		dbc:Austrian_people_of_Jewish_descent ,
+		dbc:University_of_Vienna_alumni ,
+		dbc:People_from_Graz ,
+		dbc:Recipients_of_the_Order_of_the_Condor_of_the_Andes ,
+		dbc:Knights_of_the_Order_of_the_Gold_Lion_of_the_House_of_Nassau ,
+		dbc:Grand_Collars_of_the_Order_of_Prince_Henry ,
+		<http://dbpedia.org/resource/Category:Grand_Crosses_of_the_Order_of_Merit_of_the_Republic_of_Hungary_(civil)> ,
+		dbc:Knights_Grand_Cross_with_Collar_of_the_Order_of_Merit_of_the_Italian_Republic ,
+		<http://dbpedia.org/resource/Category:Presidents_of_the_National_Council_(Austria)> ,
+		<http://dbpedia.org/resource/Category:Members_of_the_National_Council_(Austria)> ,
+		dbc:Knights_Grand_Cross_of_the_Order_of_Isabella_the_Catholic ,
+		dbc:Presidents_of_Austria ,
+		dbc:Candidates_for_President_of_Austria .
+@prefix dbpedia-sk:	<http://sk.dbpedia.org/resource/> .
+dbr:Heinz_Fischer	owl:sameAs	dbpedia-sk:Heinz_Fischer .
+@prefix ns15:	<http://sw.cyc.com/concept/> .
+dbr:Heinz_Fischer	owl:sameAs	ns15:Mx4rSyMvZQxXEeCV9wAhm0kILA .
+@prefix dbpedia-no:	<http://no.dbpedia.org/resource/> .
+dbr:Heinz_Fischer	owl:sameAs	dbpedia-no:Heinz_Fischer .
+@prefix dbpedia-hr:	<http://hr.dbpedia.org/resource/> .
+dbr:Heinz_Fischer	owl:sameAs	dbpedia-hr:Heinz_Fischer ,
+		<http://ar.dbpedia.org/resource/\u0647\u0627\u064A\u0646\u0632_\u0641\u064A\u0634\u0631> ,
+		<http://fa.dbpedia.org/resource/\u0647\u0627\u06CC\u0646\u062A\u0633_\u0641\u06CC\u0634\u0631> ,
+		<http://ja.dbpedia.org/resource/\u30CF\u30A4\u30F3\u30C4\u30FB\u30D5\u30A3\u30C3\u30B7\u30E3\u30FC> .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Heinz_Fischer	owl:sameAs	dbpedia-pt:Heinz_Fischer ,
+		<http://ko.dbpedia.org/resource/\uD558\uC778\uCE20_\uD53C\uC154> .
+@prefix dbpedia-simple:	<http://simple.dbpedia.org/resource/> .
+dbr:Heinz_Fischer	owl:sameAs	dbpedia-simple:Heinz_Fischer .
+@prefix dbpedia-sh:	<http://sh.dbpedia.org/resource/> .
+dbr:Heinz_Fischer	owl:sameAs	dbpedia-sh:Heinz_Fischer ,
+		<http://th.dbpedia.org/resource/\u0E44\u0E2E\u0E19\u0E17\u0E0B\u0E4C_\u0E1F\u0E34\u0E0A\u0E40\u0E0A\u0E2D\u0E23\u0E4C> ,
+		<http://be.dbpedia.org/resource/\u0425\u0430\u0439\u043D\u0446_\u0424\u0456\u0448\u044D\u0440> .
+@prefix ns21:	<http://uz.dbpedia.org/resource/> .
+dbr:Heinz_Fischer	owl:sameAs	ns21:Heinz_Fischer ,
+		<http://sr.dbpedia.org/resource/\u0425\u0430\u0458\u043D\u0446_\u0424\u0438\u0448\u0435\u0440> .
+@prefix dbpedia-yo:	<http://yo.dbpedia.org/resource/> .
+dbr:Heinz_Fischer	owl:sameAs	dbpedia-yo:Heinz_Fischer .
+@prefix dbpedia-cs:	<http://cs.dbpedia.org/resource/> .
+dbr:Heinz_Fischer	owl:sameAs	dbpedia-cs:Heinz_Fischer ,
+		<http://uk.dbpedia.org/resource/\u0413\u0430\u0439\u043D\u0446_\u0424\u0456\u0448\u0435\u0440> ,
+		<http://hi.dbpedia.org/resource/\u0939\u0947\u0902\u091C_\u092B\u093F\u0936\u0930> .
+@prefix dbpedia-gl:	<http://gl.dbpedia.org/resource/> .
+dbr:Heinz_Fischer	owl:sameAs	dbpedia-gl:Heinz_Fischer ,
+		<http://lv.dbpedia.org/resource/Heincs_Fi\u0161ers> .
+@prefix dbpedia-fi:	<http://fi.dbpedia.org/resource/> .
+dbr:Heinz_Fischer	owl:sameAs	dbpedia-fi:Heinz_Fischer .
+@prefix dbpedia-lb:	<http://lb.dbpedia.org/resource/> .
+dbr:Heinz_Fischer	owl:sameAs	dbpedia-lb:Heinz_Fischer ,
+		dbr:Heinz_Fischer .
+@prefix dbpedia-vi:	<http://vi.dbpedia.org/resource/> .
+dbr:Heinz_Fischer	owl:sameAs	dbpedia-vi:Heinz_Fischer .
+@prefix ns28:	<http://data.europa.eu/euodp/jrc-names/> .
+dbr:Heinz_Fischer	owl:sameAs	ns28:Heinz_Fischer .
+@prefix dbpedia-ms:	<http://ms.dbpedia.org/resource/> .
+dbr:Heinz_Fischer	owl:sameAs	dbpedia-ms:Heinz_Fischer ,
+		<http://az.dbpedia.org/resource/Haynz_Fi\u015Fer> .
+@prefix dbpedia-hsb:	<http://hsb.dbpedia.org/resource/> .
+dbr:Heinz_Fischer	owl:sameAs	dbpedia-hsb:Heinz_Fischer ,
+		<http://mn.dbpedia.org/resource/\u0425\u0430\u0439\u043D\u0446_\u0424\u0438\u0448\u0435\u0440> .
+@prefix dbpedia-ku:	<http://ku.dbpedia.org/resource/> .
+dbr:Heinz_Fischer	owl:sameAs	dbpedia-ku:Heinz_Fischer .
+@prefix dbpedia-id:	<http://id.dbpedia.org/resource/> .
+dbr:Heinz_Fischer	owl:sameAs	dbpedia-id:Heinz_Fischer ,
+		<http://ka.dbpedia.org/resource/\u10F0\u10D0\u10D8\u10DC\u10EA_\u10E4\u10D8\u10E8\u10D4\u10E0\u10D8> ,
+		<http://mk.dbpedia.org/resource/\u0425\u0430\u0458\u043D\u0446_\u0424\u0438\u0448\u0435\u0440> .
+@prefix dbpedia-et:	<http://et.dbpedia.org/resource/> .
+dbr:Heinz_Fischer	owl:sameAs	dbpedia-et:Heinz_Fischer .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Heinz_Fischer	owl:sameAs	dbpedia-de:Heinz_Fischer .
+@prefix dbpedia-lmo:	<http://lmo.dbpedia.org/resource/> .
+dbr:Heinz_Fischer	owl:sameAs	dbpedia-lmo:Heinz_Fischer .
+@prefix dbpedia-cy:	<http://cy.dbpedia.org/resource/> .
+dbr:Heinz_Fischer	owl:sameAs	dbpedia-cy:Heinz_Fischer .
+@prefix dbpedia-ro:	<http://ro.dbpedia.org/resource/> .
+dbr:Heinz_Fischer	owl:sameAs	dbpedia-ro:Heinz_Fischer .
+@prefix dbpedia-bar:	<http://bar.dbpedia.org/resource/> .
+dbr:Heinz_Fischer	owl:sameAs	dbpedia-bar:Heinz_Fischer .
+@prefix dbpedia-nn:	<http://nn.dbpedia.org/resource/> .
+dbr:Heinz_Fischer	owl:sameAs	dbpedia-nn:Heinz_Fischer .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Heinz_Fischer	owl:sameAs	dbpedia-pl:Heinz_Fischer .
+@prefix dbpedia-nah:	<http://nah.dbpedia.org/resource/> .
+dbr:Heinz_Fischer	owl:sameAs	dbpedia-nah:Heinz_Fischer .
+@prefix dbpedia-br:	<http://br.dbpedia.org/resource/> .
+dbr:Heinz_Fischer	owl:sameAs	dbpedia-br:Heinz_Fischer ,
+		<http://el.dbpedia.org/resource/\u03A7\u03AC\u03B9\u03BD\u03C4\u03C2_\u03A6\u03AF\u03C3\u03B5\u03C1> ,
+		<http://viaf.org/viaf/46800469> .
+@prefix dbpedia-sq:	<http://sq.dbpedia.org/resource/> .
+dbr:Heinz_Fischer	owl:sameAs	dbpedia-sq:Heinz_Fischer .
+@prefix ns44:	<http://bs.dbpedia.org/resource/> .
+dbr:Heinz_Fischer	owl:sameAs	ns44:Heinz_Fischer .
+@prefix ns45:	<https://global.dbpedia.org/id/> .
+dbr:Heinz_Fischer	owl:sameAs	ns45:Dh6v ,
+		<http://rdf.freebase.com/ns/m.027bg7> .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Heinz_Fischer	owl:sameAs	dbpedia-nl:Heinz_Fischer .
+@prefix dbpedia-oc:	<http://oc.dbpedia.org/resource/> .
+dbr:Heinz_Fischer	owl:sameAs	dbpedia-oc:Heinz_Fischer .
+@prefix dbpedia-sv:	<http://sv.dbpedia.org/resource/> .
+dbr:Heinz_Fischer	owl:sameAs	dbpedia-sv:Heinz_Fischer .
+@prefix ns49:	<http://d-nb.info/gnd/120668890/about/> .
+dbr:Heinz_Fischer	owl:sameAs	ns49:rdf .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Heinz_Fischer	owl:sameAs	dbpedia-it:Heinz_Fischer ,
+		<http://bg.dbpedia.org/resource/\u0425\u0430\u0439\u043D\u0446_\u0424\u0438\u0448\u0435\u0440> .
+@prefix dbpedia-io:	<http://io.dbpedia.org/resource/> .
+dbr:Heinz_Fischer	owl:sameAs	dbpedia-io:Heinz_Fischer ,
+		<http://ba.dbpedia.org/resource/\u0425\u0430\u0439\u043D\u0446_\u0424\u0438\u0448\u0435\u0440> ,
+		<http://he.dbpedia.org/resource/\u05D4\u05D9\u05D9\u05E0\u05E5_\u05E4\u05D9\u05E9\u05E8> ,
+		<http://zh.dbpedia.org/resource/\u6D77\u56E0\u8328\u00B7\u83F2\u820D\u5C14> .
+@prefix ns52:	<http://lt.dbpedia.org/resource/> .
+dbr:Heinz_Fischer	owl:sameAs	ns52:Heinz_Fischer .
+@prefix dbpedia-hu:	<http://hu.dbpedia.org/resource/> .
+dbr:Heinz_Fischer	owl:sameAs	dbpedia-hu:Heinz_Fischer ,
+		<http://d-nb.info/gnd/120668890> .
+@prefix dbpedia-la:	<http://la.dbpedia.org/resource/> .
+dbr:Heinz_Fischer	owl:sameAs	dbpedia-la:Henricus_Fischer .
+@prefix ns55:	<http://sco.dbpedia.org/resource/> .
+dbr:Heinz_Fischer	owl:sameAs	ns55:Heinz_Fischer .
+@prefix ns56:	<http://mg.dbpedia.org/resource/> .
+dbr:Heinz_Fischer	owl:sameAs	ns56:Heinz_Fischer .
+@prefix dbpedia-da:	<http://da.dbpedia.org/resource/> .
+dbr:Heinz_Fischer	owl:sameAs	dbpedia-da:Heinz_Fischer .
+@prefix dbpedia-tr:	<http://tr.dbpedia.org/resource/> .
+dbr:Heinz_Fischer	owl:sameAs	dbpedia-tr:Heinz_Fischer .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Heinz_Fischer	owl:sameAs	yago-res:Heinz_Fischer .
+@prefix dbpedia-eo:	<http://eo.dbpedia.org/resource/> .
+dbr:Heinz_Fischer	owl:sameAs	dbpedia-eo:Heinz_Fischer ,
+		wikidata:Q11753 .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Heinz_Fischer	owl:sameAs	dbpedia-fr:Heinz_Fischer .
+@prefix dbpedia-is:	<http://is.dbpedia.org/resource/> .
+dbr:Heinz_Fischer	owl:sameAs	dbpedia-is:Heinz_Fischer .
+@prefix ns63:	<http://ast.dbpedia.org/resource/> .
+dbr:Heinz_Fischer	owl:sameAs	ns63:Heinz_Fischer .
+@prefix dbpedia-fy:	<http://fy.dbpedia.org/resource/> .
+dbr:Heinz_Fischer	owl:sameAs	dbpedia-fy:Heinz_Fischer ,
+		<http://hy.dbpedia.org/resource/\u0540\u0561\u0575\u0576\u0581_\u0556\u056B\u0577\u0565\u0580> .
+@prefix dbpedia-ca:	<http://ca.dbpedia.org/resource/> .
+dbr:Heinz_Fischer	owl:sameAs	dbpedia-ca:Heinz_Fischer .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:Heinz_Fischer	owl:sameAs	dbpedia-es:Heinz_Fischer ;
+	schema:sameAs	<http://viaf.org/viaf/46800469> ;
+	dbp:commons	"y"@en ;
+	dbo:spouse	dbr:Margit_Fischer .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Heinz_Fischer	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Heinz_Fischer?oldid=979640543&ns=0> ;
+	dbp:otherparty	dbr:Social_Democratic_Party_of_Austria ;
+	dbp:title	dbr:President_of_Austria ,
+		<http://dbpedia.org/resource/President_of_the_National_Council_(Austria)> ;
+	dbp:years	2004 ,
+		1990 ;
+	dbp:awards	dbr:Order_of_Merit_of_the_Italian_Republic ,
+		"Royal Order of the Seraphim"@en ,
+		"Military Order of Saint James of the Sword"@en ,
+		"Order of Prince Henry"@en ;
+	dbp:almaMater	dbr:University_of_Vienna ;
+	dbo:almaMater	dbr:University_of_Vienna ;
+	dbo:award	dbr:Order_of_Prince_Henry ,
+		dbr:Royal_Order_of_the_Seraphim ,
+		dbr:Military_Order_of_Saint_James_of_the_Sword ,
+		dbr:Order_of_Merit_of_the_Italian_Republic ;
+	dbp:name	"Heinz Fischer"@en ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Heinz_Fischer_2012_(cropped).jpg?width=300> ;
+	dbo:birthPlace	dbr:Graz ,
+		dbr:Nazi_Germany ,
+		dbr:Austria_under_National_Socialism ,
+		dbr:Austria ,
+		dbr:Styria ,
+		dbr:Reichsgau_Steiermark ;
+	dbp:birthPlace	"Graz, Reichsgau Steiermark, State of Austria, Nazi Germany"@en .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Heinz_Fischer	dbo:birthDate	"1938-10-09"^^xsd:date ;
+	dbo:wikiPageID	428411 ;
+	dbo:wikiPageRevisionID	979640543 ;
+	dbo:wikiPageWikiLink	dbr:Politician ,
+		dbr:Portugal ,
+		<http://dbpedia.org/resource/Wolfgang_Sch\u00FCssel> ,
+		dbr:Bruno_Kreisky ,
+		<http://dbpedia.org/resource/File:ALB_National_Flag_Order.png> ,
+		<http://dbpedia.org/resource/Category:Grand_Croix_of_the_L\u00E9gion_d\u0027honneur> ,
+		dbr:Independent_politician ,
+		<http://dbpedia.org/resource/File:ESP_Isabella_Catholic_Order_GC.svg> ,
+		dbr:Decoration_of_Honour_for_Services_to_the_Republic_of_Austria ,
+		dbr:Die_Presse ,
+		dbr:Albania ,
+		dbr:Bulgaria ,
+		dbr:Spain ,
+		dbr:University_of_Innsbruck ,
+		<http://dbpedia.org/resource/File:OPMM-co.svg> ,
+		<http://dbpedia.org/resource/File:PRT_Order_of_Prince_Henry_-_Grand_Collar_BAR.png> ,
+		<http://dbpedia.org/resource/File:Legion_Honneur_GC_ribbon.svg> ,
+		<http://dbpedia.org/resource/File:PRT_Order_of_Saint_James_of_the_Sword_-_Grand_Collar_BAR.png> ,
+		dbr:Margit_Fischer ,
+		dbr:Norbert_Leser ,
+		<http://dbpedia.org/resource/File:Cordone_di_gran_Croce_OMRI_BAR.svg> ,
+		<http://dbpedia.org/resource/President_of_the_National_Council_(Austria)> ,
+		dbr:List_of_current_heads_of_state_and_government ,
+		<http://dbpedia.org/resource/Orders,_decorations,_and_medals_of_Bulgaria> ,
+		dbr:Graz ,
+		dbr:Israel ,
+		dbr:Sweden ,
+		dbc:Knights_Grand_Cross_with_Collar_of_the_Order_of_Merit_of_the_Italian_Republic ,
+		dbr:Military_Order_of_Saint_James_of_the_Sword ,
+		<http://dbpedia.org/resource/Category:1938_births> ,
+		dbr:Hertha_Firnberg ,
+		dbr:Sovereign_Military_Order_of_Malta ,
+		dbr:Simon_Wiesenthal ,
+		dbr:Social_Democratic_Party_of_Austria ,
+		<http://dbpedia.org/resource/Category:Members_of_the_National_Council_(Austria)> ,
+		dbc:Presidents_of_Austria ,
+		<http://dbpedia.org/resource/Austrian_People\u0027s_Party> ,
+		dbr:Hans_Tuppy ,
+		<http://dbpedia.org/resource/File:LTU_Order_of_Vytautas_the_Great_with_the_Golden_Chain_BAR.png> ,
+		dbc:Politicians_from_Graz ,
+		<http://dbpedia.org/resource/File:FIN_Order_of_the_White_Rose_Grand_Cross_BAR.png> ,
+		dbc:Grand_Crosses_with_Golden_Chain_of_the_Order_of_Vytautas_the_Great ,
+		dbc:Living_people ,
+		dbr:Andreas_Khol ,
+		dbc:Grand_Collars_of_the_Order_of_Saint_James_of_the_Sword ,
+		dbr:Royal_Order_of_the_Seraphim ,
+		dbr:Agnosticism ,
+		dbr:Tel_Aviv_University ,
+		dbr:Norway ,
+		dbr:Professor ,
+		<http://dbpedia.org/resource/2004_Austrian_presidential_election> ,
+		dbr:Political_science ,
+		dbr:Werner_Faymann ,
+		<http://dbpedia.org/resource/2010_Austrian_presidential_election> ,
+		dbr:Benita_Ferrero-Waldner ,
+		dbr:Order_of_the_Gold_Lion_of_the_House_of_Nassau ,
+		dbr:Nazi_Germany ,
+		<http://dbpedia.org/resource/National_Flag_Decoration_(Albania)> ,
+		dbr:Bolivia ,
+		dbr:Thomas_Prinzhorn ,
+		<http://dbpedia.org/resource/File:Huisorde_van_de_Gouden_Leeuw_van_Nassau_Ribbon.gif> ,
+		<http://dbpedia.org/resource/National_Council_(Austria)> ,
+		dbc:Knights_of_the_Order_of_the_Gold_Lion_of_the_House_of_Nassau ,
+		dbr:Order_of_Isabella_the_Catholic ,
+		dbr:Order_of_Merit_of_the_Italian_Republic ,
+		<http://dbpedia.org/resource/Order_of_St._Olav> ,
+		dbr:Order_of_the_White_Rose_of_Finland ,
+		dbr:Austria_under_National_Socialism ,
+		dbr:Order_of_Prince_Henry ,
+		dbc:Knights_Grand_Cross_of_the_Order_of_Isabella_the_Catholic ,
+		dbr:Finland ,
+		dbr:Mountaineering ,
+		dbr:National_Academy_of_Sciences_of_Ukraine ,
+		<http://dbpedia.org/resource/File:Order_Sint_Olaf_1_kl.png> ,
+		<http://dbpedia.org/resource/File:Kirchner&Fischer.png> ,
+		<http://dbpedia.org/resource/File:The_President_of_Austria,_Heinz_Fischer_is_welcomed_to_ESO\u2019s_premises_in_Santiago.jpg> ,
+		<http://dbpedia.org/resource/File:Order_Stara_planina_ribbon.gif> ,
+		<http://dbpedia.org/resource/File:Coat_of_Arms_of_Heinz_Fischer_(Order_of_the_Seraphim).svg> ,
+		dbr:President_of_Austria ,
+		<http://dbpedia.org/resource/File:Fischer_Ostermayer_Klug_f3_Michelides.jpg> ,
+		dbr:Thomas_Klestil ,
+		<http://dbpedia.org/resource/File:Austrian_federal_president\u0027s_re-election_party,_Vienna_20100425.jpg> ,
+		dbr:Order_pro_Merito_Melitensi ,
+		dbr:Lithuania ,
+		<http://dbpedia.org/resource/File:HUN_Order_of_Merit_of_the_Hungarian_Rep_(civ)_1class_Collar_BAR.svg> ,
+		dbr:Austria ,
+		dbc:Austrian_agnostics ,
+		dbc:University_of_Vienna_alumni ,
+		dbr:Franz_Vranitzky ,
+		dbc:Austrian_people_of_Jewish_descent ,
+		dbr:Alfred_Gusenbauer ,
+		dbr:Anschluss ,
+		dbr:Alexander_Van_der_Bellen ,
+		dbr:Hungary ,
+		dbr:Italy ,
+		dbr:France ,
+		dbr:Fred_Sinowatz ,
+		dbr:Politics_of_Austria ,
+		dbr:Order_of_Vytautas_the_Great ,
+		dbr:Styria ,
+		dbr:Sarid ,
+		dbr:Hungarian_Order_of_Merit ,
+		<http://dbpedia.org/resource/File:Seraphimerorden_ribbon.svg> ,
+		dbr:Doctorate ,
+		<http://dbpedia.org/resource/File:AUT_Honour_for_Services_to_the_Republic_of_Austria_-_1st_Class_BAR.png> ,
+		dbr:Friends_of_Nature ,
+		<http://dbpedia.org/resource/Category:Grand_Crosses_of_the_Order_of_Merit_of_the_Republic_of_Hungary_(civil)> ,
+		dbr:Voter_turnout ,
+		dbr:Reichsgau_Steiermark ,
+		<http://dbpedia.org/resource/Category:Presidents_of_the_National_Council_(Austria)> ,
+		dbr:Barbara_Prammer ,
+		dbc:Grand_Collars_of_the_Order_of_Prince_Henry ,
+		dbr:Kibbutz_volunteer ,
+		<http://dbpedia.org/resource/File:ITA_OMRI_2001_GC-GCord_BAR.svg> ,
+		dbr:Social_democracy ,
+		dbr:Legion_of_Honour ,
+		<http://dbpedia.org/resource/File:BOL_Order_of_Condor_of_the_Andes_-_Grand_Cross_BAR.png> ,
+		dbc:Recipients_of_the_Order_of_the_Condor_of_the_Andes ,
+		dbr:Order_of_the_Condor_of_the_Andes ,
+		dbr:University_of_Vienna ,
+		dbr:Christian_Kern ,
+		dbc:Candidates_for_President_of_Austria ,
+		dbr:Luxembourg ,
+		<http://dbpedia.org/resource/Rudolf_P\u00F6der> ,
+		dbr:Kibbutz .
+@prefix dbt:	<http://dbpedia.org/resource/Template:> .
+dbr:Heinz_Fischer	dbp:wikiPageUsesTemplate	dbt:S-off ,
+		dbt:Birth_date_and_age ,
+		dbt:S-bef ,
+		dbt:S-end ,
+		dbt:S-start ,
+		dbt:S-ttl ,
+		dbt:Infobox_officeholder ,
+		dbt:Presidents_of_Austria ,
+		dbt:IPA-de ,
+		dbt:Reflist ,
+		dbt:Authority_control ,
+		dbt:S-aft ,
+		dbt:Subject_bar ,
+		dbt:Ubl ;
+	dbp:birthDate	"1938-10-09"^^xsd:date ;
+	dbp:children	2 ;
+	dbp:spouse	dbr:Margit_Fischer ;
+	dbo:abstract	"Heinz Fischer (  (info / uitleg); Graz, 9 oktober 1938) is een Oostenrijks politicus voor de Sociaaldemocratische SP\u00D6. Van 2004 tot 2016 was hij bondspresident van Oostenrijk. Fischer studeerde rechten aan de Universiteit van Wenen, waar hij in 1961 promoveerde. Fischer werd in 1971 gekozen in de Nationale Raad, waarvan hij tussen 1990 en 2004 voorzitter was. Hij was Minister van Wetenschap in de regering van Fred Sinowatz, tussen 1983 en 1987. Hij was naast zijn politieke carri\u00E8re hoogleraar politicologie aan de universiteit van Innsbruck. In januari 2004 kondigde hij aan verkiesbaar te willen zijn als opvolger van Bondspresident Thomas Klestil. Hij werd - hoewel op dat moment lid van een oppositiepartij - met bijna 53% van de stemmen gekozen in zijn strijd tegen de conservatieve Benita Ferrero-Waldner (\u00D6VP), die even later benoemd zou worden tot Euro-commissaris. Sinds zijn verkiezing tot president is Fischers populariteit alleen nog maar gestegen. In oktober 2008 gaf de Oostenrijkse posterij een postzegel uit met zijn beeltenis. Ook woonde hij in die maand de begrafenis bij van de verongelukte gouverneur van Karinthi\u00EB, J\u00F6rg Haider. In juli 2010 stelde hij de dienstplicht ter discussie en deed daarbij de volgende uitspraak:\"Vrouwen verkrijgen steeds meer rechten, dan kan men ook argumenteren dat ze meer plichten moeten overnemen.\" Na twee termijnen als bondspresident kon hij zich voor de verkiezingen van april 2016 niet meer verkiesbaar stellen. Op 8 juli 2016 zou zijn opvolger ge\u00EFnstalleerd worden, maar omdat de tweede ronde tussen Alexander Van der Bellen en Norbert Hofer moest worden overgedaan, bleef Fischer aan tot 26 januari 2017."@nl ,
+		"\u039F \u03A7\u03AC\u03B9\u03BD\u03C4\u03C2 \u03A6\u03AF\u03C3\u03B5\u03C1 (Heinz Fischer, 9 \u039F\u03BA\u03C4\u03C9\u03B2\u03C1\u03AF\u03BF\u03C5 1938-) \u03B5\u03AF\u03BD\u03B1\u03B9 \u03BF \u03C0\u03C1\u03CC\u03B5\u03B4\u03C1\u03BF\u03C2 \u03C4\u03B7\u03C2 \u0391\u03C5\u03C3\u03C4\u03C1\u03AF\u03B1\u03C2 \u03B1\u03C0\u03CC \u03C4\u03B9\u03C2 8 \u0399\u03BF\u03C5\u03BB\u03AF\u03BF\u03C5 \u03C4\u03BF\u03C5 2004.\u0391\u03BD\u03AE\u03BA\u03B5\u03B9 \u03C0\u03BF\u03BB\u03B9\u03C4\u03B9\u03BA\u03AC \u03C3\u03C4\u03BF SP\u00D6 (\u03A3\u03BF\u03C3\u03B9\u03B1\u03BB\u03B4\u03B7\u03BC\u03BF\u03BA\u03C1\u03B1\u03C4\u03B9\u03BA\u03CC \u039A\u03CC\u03BC\u03BC\u03B1 \u03C4\u03B7\u03C2 \u0391\u03C5\u03C3\u03C4\u03C1\u03AF\u03B1\u03C2). \u0395\u03AF\u03BD\u03B1\u03B9 \u03B5\u03C0\u03AF\u03C3\u03B7\u03C2 \u03B1\u03B3\u03BD\u03C9\u03C3\u03C4\u03B9\u03BA\u03B9\u03C3\u03C4\u03AE\u03C2."@el ,
+		"\u0413\u0430\u0439\u043D\u0446 \u0424\u0456\u0301\u0448\u0435\u0440 (\u043D\u0456\u043C. Heinz Fischer; \u043D\u0430\u0440. 9 \u0436\u043E\u0432\u0442\u043D\u044F 1938) \u2014 \u0430\u0432\u0441\u0442\u0440\u0456\u0439\u0441\u044C\u043A\u0438\u0439 \u0434\u0435\u0440\u0436\u0430\u0432\u043D\u0438\u0439 \u0456 \u043F\u043E\u043B\u0456\u0442\u0438\u0447\u043D\u0438\u0439 \u0434\u0456\u044F\u0447, \u0444\u0435\u0434\u0435\u0440\u0430\u043B\u044C\u043D\u0438\u0439 \u043F\u0440\u0435\u0437\u0438\u0434\u0435\u043D\u0442 \u0410\u0432\u0441\u0442\u0440\u0456\u0457 \u0437 8 \u043B\u0438\u043F\u043D\u044F 2004 \u0440\u043E\u043A\u0443 \u043F\u043E 8 \u043B\u0438\u043F\u043D\u044F 2016 \u0440\u043E\u043A\u0443."@uk ,
+		"Heinz Fischer (wym. ; ur. 9 pa\u017Adziernika 1938 w Grazu) \u2013 austriacki polityk, dzia\u0142acz Socjalistycznej Partii Austrii (SP\u00D6), w latach 1983\u20131987 minister nauki, d\u0142ugoletni pose\u0142 do Rady Narodowej, a od 1990 do 2002 jej przewodnicz\u0105cy. W latach 2004\u20132016 prezydent Austrii."@pl ,
+		"\uD558\uC778\uCE20 \uD53C\uC154(\uB3C5\uC77C\uC5B4: Heinz Fischer, 1938\uB144 10\uC6D4 9\uC77C ~ )\uC740 \uC624\uC2A4\uD2B8\uB9AC\uC544\uC758 \uC815\uCE58\uC778\uC774\uB2E4. 2004\uB144\uBD80\uD130 2016\uB144\uAE4C\uC9C0 \uB300\uD1B5\uB839\uC73C\uB85C \uC7AC\uC784\uD588\uB2E4. \uADF8\uB77C\uCE20 \uCD9C\uC2E0\uC774\uBA70, \uBE48 \uB300\uD559\uAD50\uC5D0\uC11C \uBC95\uD559\uC744 \uC804\uACF5\uD588\uB2E4. 1971\uB144 \uAD6D\uD68C\uC758\uC6D0\uC774 \uB418\uC5C8\uB2E4. 1983\uB144 ~ 1987\uB144  \uCD1D\uB9AC\uAC00 \uC774\uB044\uB294 \uC5F0\uC815\uC5D0\uC11C \uACFC\uD559\uBD80 \uC7A5\uAD00\uC744 \uC9C0\uB0C8\uB2E4. 1990\uB144 ~ 2004\uB144, \uAD6D\uD68C\uC758\uC7A5\uC744 \uC9C0\uB0C8\uB2E4. \uD55C\uD3B8 \uC774\uC640 \uD568\uAED8 \uC778\uC2A4\uBE0C\uB8E8\uD06C \uB300\uD559\uAD50\uC5D0\uC11C \uC815\uCE58\uD559 \uAD50\uC218\uB85C \uC7AC\uC9C1\uD558\uAE30\uB3C4 \uD588\uB2E4. 2004\uB144 1\uC6D4, \uB300\uC120 \uCD9C\uB9C8\uB97C \uC120\uC5B8, \uC0AC\uD68C\uBBFC\uC8FC\uB2F9 \uD6C4\uBCF4\uB85C \uBF51\uD614\uB2E4. 2004\uB144 4\uC6D4, \uAD6D\uBBFC \uC9C1\uC811 \uC120\uAC70\uC5D0\uC11C 52.4%\uC758 \uB4DD\uD45C\uC728\uB85C 6\uB144 \uC784\uAE30\uC758 \uB300\uD1B5\uB839\uC5D0 \uB2F9\uC120\uB418\uC5C8\uB2E4. 2007\uB144 4\uC6D4, \uB300\uD55C\uBBFC\uAD6D\uC744 \uBC29\uBB38\uD558\uC5EC \uB178\uBB34\uD604 \uB300\uD1B5\uB839\uACFC \uC815\uC0C1\uD68C\uB2F4\uC744 \uAC00\uC84C\uB2E4. 2010\uB144 4\uC6D4 25\uC77C \uC624\uC2A4\uD2B8\uB9AC\uC544 \uB300\uD1B5\uB839 \uC120\uAC70\uC5D0\uC11C 79.8%\uB97C \uB4DD\uD45C\uD558\uC5EC \uC5F0\uC784\uC5D0 \uC131\uACF5\uD558\uC600\uB2E4."@ko ,
+		"\u6D77\u56E0\u8328\u00B7\u83F2\u820D\u5C14\uFF08\u5FB7\u8A9E\uFF1AHeinz Fischer\uFF0C1938\u5E7410\u67089\u65E5\uFF0D\uFF09\u5965\u5730\u5229\u653F\u6CBB\u5BB6\uFF0C\u524D\u4EFB\u5965\u5730\u5229\u603B\u7EDF\uFF082004\uFF0D2016\uFF09\u3002"@zh ,
+		"Heinz FISCHER [FI\u015Der] (naski\u011Dis la 9-an de oktobro 1938 en Graz [Grac], Stirio), estis elektita de la a\u016Dstria popolo kiel federacia prezidento la 25-an de aprilo 2004. Ekde la 8-an de julio 2004 li plenumas la oficon \"Federacia Prezidento de A\u016Dstrio\" en Hofburg (Kortega Kastelo), Vieno. Okaze de la milito Heinz Fischer vizitis kvin diversajn elementajn lernejojn en Vieno. Post la abiturienta diplomo (gimnazio Fichtergasse en Hietzing, Vieno) 1956, li studis juran sciencon \u0109e la Universitato Vieno kaj atingis 1961 la titolon doktoro. Post sia studado estis Fischer klubsekretario de la SP\u00D6. Pliaj gravaj datoj \n* 1968 Geedzi\u011Do kun Margit Fischer. La geedza paro havas 2 infanojn. \n* 1971 Membro de la A\u016Dstria Parlamento (Nacia Konsilio) (\u011Dis 2004). \n* 1975 Klubestro de SP\u00D6. \n* 1977 Vicpartiestro \n* 1983-1987 Ministro por Scienco en la registaro Sinowatz, poste denove klubestro de SP\u00D6. \n* 1990 Prezidanto de la A\u016Dstria Parlamento (\u011Dis 2002). \n* 2002-2004 Dua Prezidanto de la Parlamento. \n* 2004 Kandidato por la ofico de la a\u016Dstria federacia prezidanto."@eo ,
+		"\u30CF\u30A4\u30F3\u30C4\u30FB\u30D5\u30A3\u30C3\u30B7\u30E3\u30FC\uFF08Heinz Fischer\u30011938\u5E7410\u67089\u65E5 - \uFF09\u306F\u3001\u30AA\u30FC\u30B9\u30C8\u30EA\u30A2\u306E\u653F\u6CBB\u5BB6\u3002\u30AA\u30FC\u30B9\u30C8\u30EA\u30A2\u793E\u4F1A\u6C11\u4E3B\u515A\u6240\u5C5E\u3002\u540C\u56FD\u9023\u90A6\u5927\u7D71\u9818\uFF082\u671F\u3001\u5728\u4EFB2004\u5E74 - 2016\u5E74\uFF09\u3002"@ja ,
+		"Heinz Fischer, f\u00F6dd 10 oktober 1938 i Graz, socialdemokratisk \u00F6sterrikisk politiker (SP\u00D6). Han var fr\u00E5n den 8 juli 2004 till 8 juli 2016 \u00D6sterrikes \u00E5ttonde f\u00F6rbundspresident i andra republiken efter att i valet ha besegrat den kristdemokratiska motkandidaten Benita Ferrero-Waldner (\u00D6VP). I valet till f\u00F6rbundspresidentposten 25 april 2010 kandiderade han f\u00F6r omval f\u00F6r en andra mandatperiod om sex \u00E5r. Ingen kandidat fr\u00E5n \u00D6VP st\u00E4llde upp i valet och redan p\u00E5 valdagens kv\u00E4ll stod det klart att Fischer som f\u00F6rhandstippat hade vunnit en stor seger. De prelimin\u00E4ra siffrorna visade att han hade f\u00E5tt n\u00E4ra 79 procent av r\u00F6sterna. Hans fr\u00E4msta konkurrenter i valet var Barbara Rosenkranz fr\u00E5n det h\u00F6gerpopulistiska Frihetspartiet (FP\u00D6), som fick omkring 15 procent av r\u00F6sterna, och  fr\u00E5n ett litet kristet parti, som fick omkring fem procent av r\u00F6sterna. Fischers sista mandatperiod slutade den 8 juli 2016. Heinz Fischer \u00E4r gift med , f\u00F6dd Binder den 28 juni 1943 i Stockholm."@sv ,
+		"Heinz Fischer (* 9. Oktober 1938 in Graz, Steiermark) ist ein ehemaliger \u00F6sterreichischer Politiker (SP\u00D6). Von 2004 bis 2016 war er Bundespr\u00E4sident der Republik \u00D6sterreich. Davor war er Wissenschaftsminister und Nationalratsabgeordneter der SP\u00D6 sowie Pr\u00E4sident beziehungsweise Zweiter Pr\u00E4sident des \u00F6sterreichischen Nationalrates."@de ,
+		"Heinz Fischer (pronunciaci\u00F3 alemanya: [ha\u026Ants \u02C8f\u026A\u0283\u0250] ( ); Graz, 9 d'octubre de 1938) \u00E9s un pol\u00EDtic austr\u00EDac, que va ser President de la Rep\u00FAblica d'\u00C0ustria, del 2004 al 2016."@ca ,
+		"Dr. Heinz Fischer (  (ajuda\u00B7info); Graz, 9 de outubro de 1938) foi presidente federal da \u00C1ustria entre 2004 e 2016. Foi eleito presidente no dia 25 de abril de 2004. Hoje \u00E9 o pol\u00EDtico mais popular do pa\u00EDs. Heinz Fischer acabou sua educa\u00E7\u00E3o secund\u00E1ria em 1956. Cursou depois Direito na Universidade de Viena, graduando em 1961. Ap\u00F3s sua gradua\u00E7\u00E3o, Fischer iniciou uma carreira pol\u00EDtica como sub-secret\u00E1rio do Partido Social-Democrata da \u00C1ustria (SP\u00D6). Em 1971 foi eleito no , no qual ficou como deputado at\u00E9 2004, com uma interrup\u00E7\u00E3o de tr\u00EAs anos. Em 1975 assumiu a presid\u00EAncia dos parlament\u00E1rios da SP\u00D6, e em 1977 tornou-se vice-presidente to Partido Social-Democrata. Ao mesmo tempo, ele n\u00E3o abandonou sua carreira acad\u00E9mica, em 1978 tirou sua agrega\u00E7\u00E3o e em 1993 assumiu uma cadeira em ci\u00EAncias pol\u00EDticas na Universidade de Innsbruck. Entre 1983 e 1987, foi Ministro dos assuntos econ\u00F3micos do governo de Fred Sinowatz, depois tournou-se novamente vice-presidente do partido. Em 1990 foi eleito Primeiro presidente do conselho nacional austr\u00EDaco, ficando nesta fun\u00E7\u00E3o at\u00E9 2002. Entre 2002 e 2004, foi vice-presidente do conselho nacional. Em Janeiro de 2004 foi anunciada sua decis\u00E3o de se candidatar \u00E0 Presid\u00EAncia Federal em sucess\u00E3o de Thomas Klestil. No dia 10 de Mar\u00E7o, seguindo uma tradi\u00E7\u00E3o na pol\u00EDtica austr\u00EDaca, Heinz Fischer demitiu-se de todas as posi\u00E7\u00F5es no Partido Social-Democrata. Nas elei\u00E7\u00F5es em Abril de 2004, Fischer derrotou Benita Ferrero-Waldner, candidata do \u00D6VP que tamb\u00E9m foi apoiada pelo FP\u00D6, com 52,39% dos votos. Tornou-se 8\u00BA presidente da Segunda Rep\u00FAblica oficialmente no dia 18 de Julho. A 31 de Janeiro de 2005 foi agraciado com o Grande-Colar da Ordem do Infante D. Henrique e a 23 de Julho de 2009 foi agraciado com o Grande-Colar da Ordem Militar de Sant'Iago da Espada de Portugal."@pt ,
+		"Heinz Fischer, n\u00E9 le 9 octobre 1938 \u00E0 Graz (Styrie), est un homme d'\u00C9tat autrichien, pr\u00E9sident f\u00E9d\u00E9ral de la R\u00E9publique d'Autriche de 2004 \u00E0 2016. Issu d'une famille sociale-d\u00E9mocrate, il passe en 1961 son doctorat en droit \u00E0 l'universit\u00E9 de Vienne. Il est recrut\u00E9 l'ann\u00E9e suivante comme collaborateur du groupe du SP\u00D6 au Conseil national. En 1971, il est \u00E9lu \u00E0 33 ans d\u00E9put\u00E9 f\u00E9d\u00E9ral. Il est d\u00E9sign\u00E9 pr\u00E9sident du groupe quatre ans plus tard et vice-pr\u00E9sident du parti en 1977. Apr\u00E8s les \u00E9lections de 1983, il est choisi comme nouveau ministre f\u00E9d\u00E9ral de la Science, un poste qu'il occupe trois ans. Il est \u00E9lu pr\u00E9sident du Conseil national \u00E0 la suite des \u00E9lections de 1990 et conserve cette fonction jusqu'en 2002, quand il devient deuxi\u00E8me pr\u00E9sident apr\u00E8s la victoire relative du Parti populaire. Il remporte en 2004 l'\u00E9lection pr\u00E9sidentielle face \u00E0 Benita Ferrero-Waldner, \u00E9tant le premier social-d\u00E9mocrate \u00E9lu \u00E0 cette fonction depuis Franz Jonas en 1971. Il renonce \u00E0 son affiliation politique le jour de son entr\u00E9e en fonction. Il est r\u00E9\u00E9lu d\u00E8s le premier tour en 2010, avec le soutien tacite du Parti populaire."@fr ,
+		"Heinz Fischer (Graz, 9 ottobre 1938) \u00E8 un politico austriaco, Presidente dell'Austria dal 2004 al 2016."@it ,
+		"Heinz Fischer (lahir [lahir di Graz, Austria, 9 Oktober 1938; umur 81 tahun) adalah Presiden Federal Presiden Austria. Ia menjabat sejak 8 Juli 2004 dan terpilih kembali pada 25 April 2010."@in ,
+		"\u0647\u0627\u064A\u0646\u0632 \u0641\u064A\u0634\u0631 :(\u0646\u0637\u0642 \u0628\u0627\u0644\u0623\u0644\u0645\u0627\u0646\u064A\u0629: [ha\u026Ants f\u026A\u0283\u0250]\u061B 9 \u0623\u0643\u062A\u0648\u0628\u0631 1938 - ) : \u0647\u0648 \u0631\u0626\u064A\u0633 \u062C\u0645\u0647\u0648\u0631\u064A\u0629 \u0627\u0644\u0646\u0645\u0633\u0627\u060C \u062A\u0648\u0644\u0649 \u0645\u0646\u0635\u0628\u0647 \u0641\u064A 8 \u064A\u0648\u0644\u064A\u0648 2004\u060C \u0648\u0623\u0639\u064A\u062F \u0627\u0646\u062A\u062E\u0627\u0628\u0647 \u0644\u0648\u0644\u0627\u064A\u0629 \u0623\u062E\u0631\u0649 \u0641\u064A 25 \u0623\u0628\u0631\u064A\u0644 2010\u060C \u0634\u063A\u0644 \u0641\u064A\u0634\u0631 \u0633\u0627\u0628\u0642\u0627 \u0645\u0646\u0635\u0628 \u0648\u0632\u064A\u0631 \u0627\u0644\u0639\u0644\u0648\u0645 (1983-1987) \u0648\u0631\u0626\u064A\u0633\u0627 \u0644\u0644\u0645\u062C\u0644\u0633 \u0627\u0644\u0648\u0637\u0646\u064A \u0627\u0644\u0646\u0645\u0633\u0627\u0648\u064A (1990 - 2002) ."@ar ,
+		"Heinz Fischer (Graz, 9 de octubre de 1938) es un pol\u00EDtico austriaco, Presidente Federal de su pa\u00EDs desde 2004 hasta el 2016."@es ,
+		"Heinz Fischer ( ; * 9. \u0159\u00EDjna 1938 \u0160t\u00FDrsk\u00FD Hradec) je rakousk\u00FD politik, pr\u00E1vn\u00EDk, \u010Dlen soci\u00E1ln\u011B-demokratick\u00E9 strany. Od 8. \u010Dervence 2004 do 8. \u010Dervence 2016 zast\u00E1val po dv\u011B funk\u010Dn\u00ED obdob\u00ED (podruh\u00E9 zvolen roku 2010) \u00FA\u0159ad rakousk\u00E9ho spolkov\u00E9ho prezidenta."@cs ,
+		"Heinz Fischer  GColIH OMRI RSerafO GCollSE (German pronunciation: [ha\u026Ants \u02C8f\u026A\u0283\u0250] (); born 9 October 1938 in Graz, Styria) is a former Austrian politician. He took office as President of Austria on 8 July 2004 and was re-elected for a second and last term on 25 April 2010, leaving office on 8 July 2016. Fischer previously served as minister of science from 1983 to 1987 and as president of the National Council of Austria from 1990 to 2002. A member of the Social Democratic Party of Austria (SP\u00D6), he suspended his party membership for the duration of his presidency."@en .
+@prefix ns70:	<http://www.w3.org/2006/03/wn/wn20/instances/> .
+dbr:Heinz_Fischer	dbp:wordnet_type	ns70:synset-president-noun-3 ,
+		ns70:synset-incumbent-noun-1 ;
+	dbo:wikiPageLength	"15721"^^xsd:nonNegativeInteger ;
+	dbp:office	dbr:President_of_Austria ,
+		<http://dbpedia.org/resource/President_of_the_National_Council_(Austria)> ,
+		"Minister of Science and Research"@en ;
+	dbp:party	dbr:Independent_politician ;
+	dbp:predecessor	dbr:Hertha_Firnberg ,
+		dbr:Thomas_Prinzhorn ,
+		dbr:Thomas_Klestil ,
+		<http://dbpedia.org/resource/Rudolf_P\u00F6der> ;
+	dbp:successor	dbr:Hans_Tuppy ,
+		dbr:Barbara_Prammer ,
+		dbr:Andreas_Khol ,
+		dbr:Alexander_Van_der_Bellen ;
+	dbp:termEnd	"1987-01-21"^^xsd:date ,
+		"2016-07-08"^^xsd:date ,
+		"2002-12-20"^^xsd:date ,
+		"2004-06-16"^^xsd:date ;
+	dbp:termStart	"1983-05-24"^^xsd:date ,
+		"2004-07-08"^^xsd:date ,
+		"1990-11-05"^^xsd:date ,
+		"2002-12-20"^^xsd:date ;
+	dbo:party	dbr:Social_Democratic_Party_of_Austria ,
+		dbr:Independent_politician ;
+	dbo:termPeriod	dbr:Heinz_Fischer__Tenure__1 ,
+		dbr:Heinz_Fischer__Tenure__3 ,
+		dbr:Heinz_Fischer__Tenure__4 ,
+		dbr:Heinz_Fischer__Tenure__2 ;
+	dbp:portal	"Biography"@en ,
+		"Austria"@en ,
+		"Politics"@en ;
+	dbp:honorificSuffix	dbr:Royal_Order_of_the_Seraphim ,
+		dbr:Order_of_Merit_of_the_Italian_Republic ,
+		dbr:Military_Order_of_Saint_James_of_the_Sword ,
+		dbr:Order_of_Prince_Henry .
+<http://dbpedia.org/resource/J\u00F6rg_Haider>	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+dbr:Gerald_Klug	dbo:wikiPageWikiLink	dbr:Heinz_Fischer ;
+	dbp:appointer	dbr:Heinz_Fischer .
+<http://dbpedia.org/resource/Albania\u2013Austria_relations>	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+<http://dbpedia.org/resource/Austria\u2013South_Korea_relations>	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+dbr:Terezija_Stoisits	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+dbr:Thomas_Prinzhorn	dbo:wikiPageWikiLink	dbr:Heinz_Fischer ;
+	dbp:successor	dbr:Heinz_Fischer .
+<http://dbpedia.org/resource/2012_Winter_Youth_Olympics>	dbp:openedBy	dbr:Heinz_Fischer ;
+	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+<http://dbpedia.org/resource/2015_Graz_attack>	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+<http://dbpedia.org/resource/Wolfgang_Amadeus_Mozart_monument,_Baku>	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+dbr:Salif_Diallo	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+dbr:Ruth_Wodak	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+dbr:Foreign_relations_of_South_Korea	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+dbr:Ban_Ki-moon	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+dbr:List_of_official_trips_made_by_Edi_Rama	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+dbr:List_of_state_leaders_in_2004	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+dbr:List_of_state_leaders_in_2007	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+dbr:List_of_state_leaders_in_2011	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+dbr:List_of_state_leaders_in_2012	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+<http://dbpedia.org/resource/List_of_state_visits_made_by_Kolinda_Grabar-Kitarovi\u0107>	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+dbr:Signatories_to_the_Treaty_establishing_a_Constitution_for_Europe	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+dbr:List_of_Knights_of_the_Royal_Order_of_the_Seraphim	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+dbr:List_of_state_leaders_in_2005	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+dbr:List_of_state_leaders_in_2006	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+dbr:List_of_state_leaders_in_2008	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+dbr:List_of_state_leaders_in_2009	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+dbr:List_of_state_leaders_in_2010	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+dbr:List_of_state_leaders_in_2013	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+dbr:List_of_state_leaders_in_2014	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+dbr:List_of_state_leaders_in_2015	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+dbr:Foreign_relations_of_North_Korea	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+dbr:List_of_Bilderberg_participants	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+dbr:List_of_pastoral_visits_of_Pope_Benedict_XVI	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+dbr:List_of_current_Knights_of_the_Royal_Order_of_the_Seraphim	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+dbr:List_of_international_presidential_trips_made_by_Maithripala_Sirisena	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+dbr:President_of_Austria	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+dbr:List_of_people_who_have_opened_the_Olympic_Games	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+dbr:List_of_state_leaders_in_the_21st_century	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+<http://dbpedia.org/resource/Austria\u2013Mexico_relations>	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+dbr:Index_of_Austria-related_articles	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+dbr:Alfred_Gusenbauer	dbp:president	dbr:Heinz_Fischer ;
+	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+<http://dbpedia.org/resource/2008_Serbian_presidential_election>	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+dbr:First_Lady_of_Austria	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+<http://dbpedia.org/resource/Margot_Klestil-L\u00F6ffler>	dbp:president	dbr:Heinz_Fischer ;
+	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+dbr:Death_and_funeral_of_Otto_von_Habsburg	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+<http://dbpedia.org/resource/2016_Austrian_presidential_election>	dbp:beforeElection	dbr:Heinz_Fischer ;
+	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+dbr:Benita_Ferrero-Waldner	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+<http://dbpedia.org/resource/2008_Austrian_legislative_election>	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+<http://dbpedia.org/resource/2010_Austrian_presidential_election>	dbp:afterElection	dbr:Heinz_Fischer ;
+	dbp:beforeElection	dbr:Heinz_Fischer ;
+	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+<http://dbpedia.org/resource/2004_Austrian_presidential_election>	dbp:afterElection	dbr:Heinz_Fischer ;
+	dbp:nominee	dbr:Heinz_Fischer ;
+	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+dbr:Michael_Spindelegger	dbp:president	dbr:Heinz_Fischer ;
+	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+dbr:Reinhold_Mitterlehner	dbp:president	dbr:Heinz_Fischer ;
+	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+dbr:Wilhelm_Molterer	dbp:president	dbr:Heinz_Fischer ;
+	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+<http://dbpedia.org/resource/Josef_Pr\u00F6ll>	dbp:president	dbr:Heinz_Fischer ;
+	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+dbr:Hietzing	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+dbr:Kern_government	dbo:wikiPageWikiLink	dbr:Heinz_Fischer ;
+	dbp:appointer	dbr:Heinz_Fischer .
+<http://dbpedia.org/resource/President_of_the_National_Council_(Austria)>	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+dbr:Norbert_Darabos	dbo:wikiPageWikiLink	dbr:Heinz_Fischer ;
+	dbp:appointer	dbr:Heinz_Fischer .
+dbr:Barbara_Prammer	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+dbr:Barbara_Rosenkranz	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+dbr:Beatrix_Karl	dbp:president	dbr:Heinz_Fischer ;
+	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+dbr:Josefstadt	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+dbr:Christian_Kern	dbp:president	dbr:Heinz_Fischer ;
+	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+dbr:Gerhart_Holzinger	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+dbr:Karlheinz_Kopf	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+dbr:Liese_Prokop	dbp:president	dbr:Heinz_Fischer ;
+	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+<http://dbpedia.org/resource/2014_in_Austria>	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+dbr:Politics_of_Austria	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+dbr:Gusenbauer_government	dbo:wikiPageWikiLink	dbr:Heinz_Fischer ;
+	dbp:appointer	dbr:Heinz_Fischer .
+dbr:Hubert_Gorbach	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+dbr:Second_Faymann_government	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+<http://dbpedia.org/resource/2007_in_Austria>	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+<http://dbpedia.org/resource/2008_Austrian_government_formation>	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+dbr:Parliamentary_parties_involved_in_the_2008_Austrian_legislative_election	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+dbr:July_Revolt_of_1927	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+<http://dbpedia.org/resource/1938_in_Austria>	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+dbr:List_of_presidents_of_Austria	dbp:officeholder	dbr:Heinz_Fischer ;
+	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+dbr:Anton_Schmid	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+dbr:Werner_Faymann__Tenure__1	dbo:president	dbr:Heinz_Fischer .
+<http://dbpedia.org/resource/Austria\u2013Malaysia_relations>	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+<http://dbpedia.org/resource/National_Flag_Decoration_(Albania)>	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+dbr:List_of_recipients_of_the_Order_of_the_Three_Stars	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+<http://dbpedia.org/resource/2010_Bilderberg_Conference>	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+<http://dbpedia.org/resource/2015_Bilderberg_Conference>	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+dbr:List_of_recipients_of_the_Grand_Collar_of_the_Order_of_Prince_Henry	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+dbr:List_of_honours_of_Austria_awarded_to_heads_of_state_and_royalty	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+<http://dbpedia.org/resource/Wolfgang_Sch\u00FCssel>	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+dbr:Rakhat_Aliyev	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+dbr:Doris_Bures	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+<http://dbpedia.org/resource/2012_in_Austria>	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+<http://dbpedia.org/resource/2013_in_Austria>	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+<http://dbpedia.org/resource/2012_Winter_Youth_Olympics_opening_ceremony>	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+<http://dbpedia.org/resource/2015_European_Youth_Olympic_Winter_Festival>	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+<http://dbpedia.org/resource/2015_in_Austria>	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+<http://dbpedia.org/resource/Austria\u2013Saudi_Arabia_relations>	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+<http://dbpedia.org/resource/Austria\u2013Vietnam_relations>	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+<http://dbpedia.org/resource/Bundespr\u00E4sidentenstichwahlwiederholungsverschiebung>	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+<http://dbpedia.org/resource/Thomas_Stelzer_(born_1955)__Tenure__1>	dbo:president	dbr:Heinz_Fischer .
+dbr:List_of_agnostics	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+<http://dbpedia.org/resource/Ludwig_Adamovich_Jr.>	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+dbr:Taras_Borodajkewycz	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+<http://dbpedia.org/resource/Austria\u2013Brazil_relations>	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+dbr:Fischer	dbo:wikiPageWikiLink	dbr:Heinz_Fischer ;
+	dbo:wikiPageDisambiguates	dbr:Heinz_Fischer .
+<http://dbpedia.org/resource/St._Gallen_Symposium>	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+dbr:Vienna_Business_School	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+dbr:Order_of_Merit_of_the_Italian_Republic	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+<http://dbpedia.org/resource/Order_of_St._Olav>	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+dbr:List_of_honours_of_Italy_awarded_to_heads_of_state_and_royalty	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+dbr:List_of_honours_of_Luxembourg_awarded_to_heads_of_state_and_royalty	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+dbr:List_of_honours_of_Norway_awarded_to_heads_of_state_and_royalty	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+dbr:List_of_honours_of_Portugal_awarded_to_heads_of_state_and_royalty	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+dbr:List_of_Commanders_of_the_Grand_Cross_of_the_Order_of_the_White_Rose_of_Finland	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+dbr:Vienna_International_School	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+dbr:Youth_Olympic_Games	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+dbr:Wien_Hauptbahnhof	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+dbr:Fritz_Frauenheim	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+dbr:Andreas_Khol	dbo:wikiPageWikiLink	dbr:Heinz_Fischer ;
+	dbp:predecessor	dbr:Heinz_Fischer .
+<http://dbpedia.org/resource/Austria\u2013Indonesia_relations>	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+<http://dbpedia.org/resource/Operation_Freedom\u0027s_Sentinel>	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+dbr:University_of_Klagenfurt	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+dbr:University_of_Vienna	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+dbr:Alexander_Van_der_Bellen	dbo:wikiPageWikiLink	dbr:Heinz_Fischer ;
+	dbp:predecessor	dbr:Heinz_Fischer .
+dbr:List_of_chancellors_of_Austria	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+<http://dbpedia.org/resource/Istiqlal_Mosque,_Jakarta>	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+dbr:Ilse_Korotin	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+dbr:Timeline_of_Austrian_history	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+dbr:Peter_Kaiser	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+dbr:Walter_Guggenberger	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+<http://dbpedia.org/resource/2005_Winter_Universiade>	dbp:officiallyOpenedBy	dbr:Heinz_Fischer ;
+	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+dbr:List_of_presidential_trips_made_by_Joachim_Gauck	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+dbr:Conchita_Wurst	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+dbr:List_of_Austrians	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+dbr:List_of_Esperanto_speakers	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+dbr:List_of_Austrian_politicians	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+dbr:Rudolf_Hundstorfer	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+<http://dbpedia.org/resource/Xokonoschtletl_G\u00F3mora>	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+dbr:Alexander_Van_der_Bellen__Tenure__1	dbo:predecessor	dbr:Heinz_Fischer .
+dbr:Reinhold_Mitterlehner__Tenure__2	dbo:president	dbr:Heinz_Fischer .
+dbr:Muna_Duzdar__Tenure__1	dbo:president	dbr:Heinz_Fischer .
+dbr:List_of_dignitaries_at_the_funeral_of_Pope_John_Paul_II	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+dbr:List_of_state_leaders_in_2016	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+dbr:List_of_state_visits_made_by_King_Carl_XVI_Gustaf_of_Sweden	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+<http://dbpedia.org/resource/2010_in_Europe>	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+dbr:Margit_Fischer	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+dbr:Order_of_Vytautas_the_Great	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+dbr:Decoration_of_Honour_for_Services_to_the_Republic_of_Austria	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+dbr:International_Visitor_Leadership_Program	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+dbr:List_of_presidential_trips_made_by_Christian_Wulff	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+dbr:Arraiolos_Group	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+dbr:Matenadaran	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+dbr:Die_Zweite_Sparkasse	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+<http://dbpedia.org/resource/Austria\u2013Kurdistan_Region_relations>	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+dbr:Christian_Kern__Tenure__1	dbo:president	dbr:Heinz_Fischer .
+<http://dbpedia.org/resource/Siege_of_Koban\u00EE>	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+dbr:Volodymyr_Zhovtyak	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+dbr:Thomas_Klestil	dbo:wikiPageWikiLink	dbr:Heinz_Fischer ;
+	dbp:successor	dbr:Heinz_Fischer ;
+	dbo:successor	dbr:Heinz_Fischer .
+dbr:World_Policy_Conference	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+dbr:United_Nations_Security_Council_Resolution_1887	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+<http://dbpedia.org/resource/Christian_Meier_(historian)>	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+dbr:FIS_Alpine_World_Ski_Championships_2013	dbp:officiallyOpenedBy	dbr:Heinz_Fischer ;
+	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+<http://dbpedia.org/resource/St._P\u00F6lten_University_of_Applied_Sciences>	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+dbr:Gerald_Klug__Tenure__1	dbo:appointer	dbr:Heinz_Fischer .
+dbr:Gerald_Klug__Tenure__2	dbo:appointer	dbr:Heinz_Fischer .
+dbr:Twin_City_Liner	dbo:wikiPageWikiLink	dbr:Heinz_Fischer .
+dbr:Michael_Spindelegger__Tenure__1	dbo:president	dbr:Heinz_Fischer .
+<http://dbpedia.org/resource/Josef_Pr\u00F6ll__Tenure__1>	dbo:president	dbr:Heinz_Fischer .
+dbr:Andreas_Khol__Tenure__1	dbo:predecessor	dbr:Heinz_Fischer .
+<http://dbpedia.org/resource/Wolfgang_Sch\u00FCssel__Tenure__1>	dbo:president	dbr:Heinz_Fischer .
+dbr:Liese_Prokop__Tenure__1	dbo:president	dbr:Heinz_Fischer .
+dbr:Hubert_Gorbach__Tenure__1	dbo:president	dbr:Heinz_Fischer .
+<http://dbpedia.org/resource/Margot_Klestil-L\u00F6ffler__Tenure__1>	dbo:president	dbr:Heinz_Fischer .
+<http://dbpedia.org/resource/Margot_Klestil-L\u00F6ffler__Tenure__2>	dbo:president	dbr:Heinz_Fischer .
+dbr:Wilhelm_Molterer__Tenure__1	dbo:president	dbr:Heinz_Fischer .
+dbr:Thomas_Prinzhorn__Tenure__1	dbo:successor	dbr:Heinz_Fischer .

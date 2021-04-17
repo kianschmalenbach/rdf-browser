@@ -1,0 +1,1274 @@
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+dbr:Golden_Tour	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Rockhal	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:China_Airlines_Flight_334	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Battle_Born_World_Tour	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Wrath_Tour	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Sascha_Palgen	dbo:birthPlace	dbr:Esch-sur-Alzette .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Sascha_Palgen	dbp:birthPlace	dbr:Esch-sur-Alzette ;
+	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Screaming_Bloody_Murder_Tour	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:List_of_preserved_historic_blast_furnaces	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:China_Airlines_Flight_358	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:German_invasion_of_Luxembourg	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Mister_World_2012	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Association_of_Luxembourg_Student_Unions	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Lungs_Tour	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/1942_Luxembourgish_general_strike>	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Guy_Helminger	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Marcel_Wengler	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/1975\u201376_FC_Bayern_Munich_season>	dbp:location	dbr:Esch-sur-Alzette ;
+	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/1988\u201389_European_Cup>	dbp:stadium	dbr:Esch-sur-Alzette ;
+	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/2002_Giro_d\u0027Italia>	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/2002_Giro_d\u0027Italia,_Prologue_to_Stage_10>	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/Turkey_national_football_team_1961\u201380_results>	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Dark_Horse_Tour	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:List_of_Luxembourgish_records_in_athletics	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:List_of_twin_towns_and_sister_cities_in_Luxembourg	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:List_of_twin_towns_and_sister_cities_in_the_Netherlands	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Fred_Gil_career_statistics	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/2017_Tour_de_France,_Stage_1_to_Stage_11>	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Gust_Graas	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Nico_Helminger	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Simone_Decker	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/1960\u201361_European_Cup>	dbp:stadium	dbr:Esch-sur-Alzette ;
+	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/1968_Tour_de_France>	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/1968\u201369_European_Cup>	dbp:stadium	dbr:Esch-sur-Alzette ;
+	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Jean_Majerus	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/1974\u201375_European_Cup>	dbp:stadium	dbr:Esch-sur-Alzette ;
+	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/1986_FIFA_World_Cup_qualification_\u2013_UEFA_Group_4>	dbp:stadium	dbr:Esch-sur-Alzette ;
+	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/1997\u201398_UEFA_Champions_League_qualifying_rounds>	dbp:stadium	dbr:Esch-sur-Alzette ;
+	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Jim_Clemes	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/2006_Tour_de_France>	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/Fran\u00E7ois_Biltgen>	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/2006_Tour_de_France,_Prologue_to_Stage_11>	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:UEFA_Euro_1980_qualifying_Group_5	dbp:stadium	dbr:Esch-sur-Alzette ;
+	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:List_of_Syrian_records_in_athletics	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:David_Fiegen	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Pierre_Gramegna	dbo:birthPlace	dbr:Esch-sur-Alzette ;
+	dbp:birthPlace	dbr:Esch-sur-Alzette ;
+	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Marcel_Mart	dbo:birthPlace	dbr:Esch-sur-Alzette ;
+	dbp:birthPlace	dbr:Esch-sur-Alzette ;
+	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Jeunesse_Esch	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Raymond_Petit	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Nora_Wagener	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Ketty_Thull	dbo:deathPlace	dbr:Esch-sur-Alzette ;
+	dbp:deathPlace	dbr:Esch-sur-Alzette ;
+	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/Fr\u00E4nz_Ehringer>	dbo:birthPlace	dbr:Esch-sur-Alzette ;
+	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/Belval,_Luxembourg>	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Kulturfabrik_Esch-sur-Alzette	dbo:location	dbr:Esch-sur-Alzette ;
+	dbp:location	dbr:Esch-sur-Alzette ;
+	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Aldo_Bolzan	dbo:birthPlace	dbr:Esch-sur-Alzette ;
+	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/Ren\u00E9_Kremer>	dbo:deathPlace	dbr:Esch-sur-Alzette ;
+	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/20th_Anniversary_Tour_(Blink-182)>	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Apocalyptic_Love_World_Tour	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Imaginaerum_World_Tour	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/The_Doo-Wops_&_Hooligans_Tour>	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:The_Eighth_Plague_Tour	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Twins_of_Evil_Tour	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/Juncker\u2013Polfer_Ministry>	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Germaine_Goetzinger	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+wikipedia-en:Esch-sur-Alzette	foaf:primaryTopic	dbr:Esch-sur-Alzette .
+dbr:The_Path_of_Totality_Tour	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/Dea_Herd\u017Eela\u0161>	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/Nefisa_Berberovi\u0107>	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Monique_Philippart	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Marianne_Majerus	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/1977\u201378_Celtic_F.C._season>	dbp:location	dbr:Esch-sur-Alzette ;
+	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/Fran\u00E7ois_Besch>	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Narrow-gauge_railways_in_Luxembourg	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:List_of_football_stadiums_in_Luxembourg	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Kevin_Geniets	dbo:birthPlace	dbr:Esch-sur-Alzette ;
+	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/Tim_Hall_(footballer)>	dbo:birthPlace	dbr:Esch-sur-Alzette ;
+	dbp:birthPlace	dbr:Esch-sur-Alzette ;
+	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:German_occupation_of_Luxembourg_during_World_War_II	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Robert_Schuman	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+@prefix ns5:	<http://dbpedia.org/resource/2020_Billie_Jean_King_Cup_Europe/> .
+ns5:Africa_Zone	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Luc_Frieden	dbo:birthPlace	dbr:Esch-sur-Alzette ;
+	dbp:birthPlace	dbr:Esch-sur-Alzette ;
+	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/1967\u201368_European_Cup>	dbp:stadium	dbr:Esch-sur-Alzette ;
+	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Chunky_Shrapnel	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/1970\u201371_European_Cup>	dbp:stadium	dbr:Esch-sur-Alzette ;
+	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/1977\u201378_European_Cup>	dbp:stadium	dbr:Esch-sur-Alzette ;
+	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/1991\u201392_European_Cup_Winners\u0027_Cup>	dbp:stadium	dbr:Esch-sur-Alzette ;
+	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/1999\u20132000_UEFA_Champions_League_qualifying_rounds>	dbp:stadium	dbr:Esch-sur-Alzette ;
+	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/2010\u201311_UEFA_Champions_League_qualifying_phase_and_play-off_round>	dbp:stadium	dbr:Esch-sur-Alzette ;
+	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Full_Frequency_Tour	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:UCI_Cyclo-cross_World_Championships	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:The_Human_Demands	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/1987\u201388_in_Scottish_football>	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Cranbrook_Estate	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Great_Britain_Davis_Cup_team_results	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/1990\u201391_European_Cup_Winners\u0027_Cup>	dbp:stadium	dbr:Esch-sur-Alzette ;
+	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:List_of_Dutch_cyclists_who_have_led_the_Tour_de_France_general_classification	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Independent_Luxembourg_Trade_Union_Confederation	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:List_of_communes_of_Luxembourg_by_lowest_point	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:List_of_communes_of_Luxembourg_by_area	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:List_of_communes_of_Luxembourg_by_highest_point	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:List_of_communes_of_Luxembourg_by_population	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:List_of_communes_of_Luxembourg_by_population_density	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:List_of_secondary_schools_in_Luxembourg	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/Scotland_national_football_team_1980\u201399_results>	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:November_1918	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Deserve_the_Future_Tour	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Going_to_Hell_Tour	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Cleopatra_World_Tour	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Lucien_Wercollier	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Carnival	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/2020_WTA_Tour>	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:True_Colors_Tour	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Alive_35_World_Tour	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Memphis_Blues_Tour	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Coimbra	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/2014\u201315_UEFA_Europa_League_qualifying_phase_and_play-off_round>	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/2006\u201307_UEFA_Cup_qualifying_rounds>	dbp:stadium	dbr:Esch-sur-Alzette ;
+	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/2012\u201313_UEFA_Europa_League_qualifying_phase>	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/AEK_Athens_F.C._in_European_football>	dbp:location	dbr:Esch-sur-Alzette ;
+	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/IFK_G\u00F6teborg_in_European_football>	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/Ultimate_Tour_(Bryan_Adams)>	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:The_Songs_That_Built_Rock_Tour	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/Maja_Chwali\u0144ska>	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:The_Queensberry_Show	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/2021_UEFA_European_Under-21_Championship_qualification_Group_1>	dbp:stadium	dbr:Esch-sur-Alzette ;
+	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Jean_Wolter	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/2007_UEFA_European_Under-21_Championship_qualification_preliminary_round>	dbp:stadium	dbr:Esch-sur-Alzette ;
+	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Mondercange	dbp:s	dbr:Esch-sur-Alzette ;
+	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Schifflange	dbp:w	dbr:Esch-sur-Alzette ;
+	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Niederkorn	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/Esch-sur-S\u00FBre>	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:List_of_towns_in_Luxembourg_by_population	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:CA_Fola_Esch	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:CS_Fola_Esch	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Serbs_in_Luxembourg	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Luxembourg_Institute_of_Socio-Economic_Research	dbo:city	dbr:Esch-sur-Alzette ;
+	dbp:city	dbr:Esch-sur-Alzette ;
+	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/2013_UEFA_European_Under-21_Championship_qualification_Group_10>	dbp:stadium	dbr:Esch-sur-Alzette ;
+	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Luxembourg	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Benelux	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Zemun	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Kaunas	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:History_of_the_Jews_in_Luxembourg	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Coverage_of_Google_Street_View	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/1993_Davis_Cup>	dbp:rd1t3Loc	dbr:Esch-sur-Alzette ;
+	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/2013\u201314_UEFA_Champions_League_qualifying_phase_and_play-off_round>	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/2013\u201314_UEFA_Europa_League_qualifying_phase_and_play-off_round>	dbp:stadium	dbr:Esch-sur-Alzette ;
+	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/2015\u201316_GNK_Dinamo_Zagreb_season>	dbp:location	dbr:Esch-sur-Alzette ;
+	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/2015\u201316_UEFA_Champions_League_qualifying_phase_and_play-off_round>	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/2015\u201316_in_Croatian_football>	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/2016\u201317_UEFA_Europa_League_qualifying_phase_and_play-off_round>	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/2017\u201318_UEFA_Europa_League_qualifying_phase_and_play-off_round>	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/2015_Davis_Cup>	dbp:rd1t7Loc	dbr:Esch-sur-Alzette ;
+	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/Unbreakable_Tour_(Backstreet_Boys_tour)>	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Delta_Tour	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Kill_to_Get_Crimson_Tour	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/Bang_and_Whimper_2017_\u2013_The_Farewell_Tour>	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Ballroom_Blitz_Tour	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:The_Long_Goodbye_Tour	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Slovakia_Davis_Cup_team	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Jean_Welter	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:The_Best_Damn_World_Tour	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Refused_Reunion_Tour	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/Lindsey_Stirling_2012\u20132013_Tour>	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/Lindsey_Stirling_2014\u20132015_Tour>	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Stranded_on_the_Earth_World_Tour	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/2016\u201317_in_Scottish_football>	dbp:location	dbr:Esch-sur-Alzette ;
+	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/Luxembourg_national_football_team_results_(1980\u201399)>	dbp:location	dbr:Esch-sur-Alzette ;
+	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/Luxembourg_national_football_team_results_(2000\u201319)>	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Bosnia_and_Herzegovina_Fed_Cup_team	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Guardian_Angel_Tour	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/There_Is_a_Hell..._Tour>	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:North_Macedonia_national_under-21_football_team_results	dbp:location	dbr:Esch-sur-Alzette ;
+	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Joel_Lion	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:The_Fading	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+@prefix ns6:	<http://dbpedia.org/resource/1996_Davis_Cup_Europe/> .
+ns6:Africa_Zone	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette ;
+	dbp:rd1t6Loc	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/2001_Davis_Cup>	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette ;
+	dbp:rd1t6Loc	dbr:Esch-sur-Alzette .
+@prefix ns7:	<http://dbpedia.org/resource/2001_Davis_Cup_Europe/> .
+ns7:Africa_Zone	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette ;
+	dbp:rd1t6Loc	dbr:Esch-sur-Alzette .
+ns7:Africa_Zone_Group_II	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette ;
+	dbp:rd1t6Loc	dbr:Esch-sur-Alzette .
+dbr:Storm_World_Tour	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+@prefix ns8:	<http://dbpedia.org/resource/2003_Davis_Cup_Europe/> .
+ns8:Africa_Zone	dbp:rd2t1Loc	dbr:Esch-sur-Alzette ;
+	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+ns8:Africa_Zone_Group_I	dbp:rd2t1Loc	dbr:Esch-sur-Alzette ;
+	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+@prefix ns9:	<http://dbpedia.org/resource/2004_Davis_Cup_Europe/> .
+ns9:Africa_Zone	dbp:rd2t2Loc	dbr:Esch-sur-Alzette ;
+	dbp:rd1t4Loc	dbr:Esch-sur-Alzette ;
+	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+ns9:Africa_Zone_Group_I	dbp:rd2t2Loc	dbr:Esch-sur-Alzette ;
+	dbp:rd1t4Loc	dbr:Esch-sur-Alzette ;
+	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+@prefix ns10:	<http://dbpedia.org/resource/2005_Davis_Cup_Europe/> .
+ns10:Africa_Zone	<http://dbpedia.org/property/1rpt3Loc>	dbr:Esch-sur-Alzette ;
+	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+ns10:Africa_Zone_Group_I	<http://dbpedia.org/property/1rpt3Loc>	dbr:Esch-sur-Alzette ;
+	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+@prefix ns11:	<http://dbpedia.org/resource/2007_Davis_Cup_Europe/> .
+ns11:Africa_Zone	<http://dbpedia.org/property/2rpt1Loc>	dbr:Esch-sur-Alzette ;
+	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+ns11:Africa_Zone_Group_I	<http://dbpedia.org/property/2rpt1Loc>	dbr:Esch-sur-Alzette ;
+	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:IF_Elfsborg_in_European_football	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Scream_World_Tour	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/Malta_national_football_team_results_(2000\u201319)>	dbp:location	dbr:Esch-sur-Alzette ;
+	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Viviane_Reding	dbo:birthPlace	dbr:Esch-sur-Alzette ;
+	dbp:birthPlace	dbr:Esch-sur-Alzette ;
+	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Redeemer_of_Souls_Tour	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Paul_Helminger	dbo:birthPlace	dbr:Esch-sur-Alzette ;
+	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:List_of_towns_in_Luxembourg	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Nordstad	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:William_Justin_Kroll	dbo:birthPlace	dbr:Esch-sur-Alzette ;
+	dbp:birthPlace	dbr:Esch-sur-Alzette ;
+	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/1998\u201399_UEFA_Champions_League_qualifying_rounds>	dbp:stadium	dbr:Esch-sur-Alzette ;
+	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/1985\u201386_Juventus_F.C._season>	dbp:location	dbr:Esch-sur-Alzette ;
+	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/1986\u201387_UEFA_Cup>	dbp:stadium	dbr:Esch-sur-Alzette ;
+	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Simili_Tour	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Sinja_Kraus	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/2018\u201319_in_Belgian_football>	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Italy_national_football_B_team	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Victor_Thorn	dbo:birthPlace	dbr:Esch-sur-Alzette ;
+	dbp:birthPlace	dbr:Esch-sur-Alzette ;
+	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/Liberal_League_(Luxembourg)>	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/1968\u201369_European_Cup_Winners\u0027_Cup>	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/Mutiny_on_the_Bounty_(band)>	dbp:origin	dbr:Esch-sur-Alzette ;
+	dbo:hometown	dbr:Esch-sur-Alzette ;
+	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Postal_codes_in_Luxembourg	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Mathias_Erang	dbo:deathPlace	dbr:Esch-sur-Alzette ;
+	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Yvonne_Stoffel-Wagener	dbo:deathPlace	dbr:Esch-sur-Alzette ;
+	dbo:birthPlace	dbr:Esch-sur-Alzette ;
+	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/\u00C9mile_Munhofen>	dbo:deathPlace	dbr:Esch-sur-Alzette ;
+	dbo:birthPlace	dbr:Esch-sur-Alzette ;
+	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Hubert_Erang	dbo:birthPlace	dbr:Esch-sur-Alzette ;
+	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Jacques_Palzer	dbo:deathPlace	dbr:Esch-sur-Alzette ;
+	dbo:birthPlace	dbr:Esch-sur-Alzette ;
+	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Armand_Huberty	dbo:birthPlace	dbr:Esch-sur-Alzette ;
+	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/Ren\u00E9_Schroeder>	dbo:deathPlace	dbr:Esch-sur-Alzette ;
+	dbo:birthPlace	dbr:Esch-sur-Alzette ;
+	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Polo_Welfring	dbo:birthPlace	dbr:Esch-sur-Alzette ;
+	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Jos_Cillien	dbo:birthPlace	dbr:Esch-sur-Alzette ;
+	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Jean-Paul_Pier	dbo:birthPlace	dbr:Esch-sur-Alzette ;
+	dbp:birthPlace	dbr:Esch-sur-Alzette ;
+	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/Fran\u00E7ois_Fug>	dbo:birthPlace	dbr:Esch-sur-Alzette ;
+	dbp:birthPlace	dbr:Esch-sur-Alzette ;
+	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/2013\u201314_Luxembourg_Cup>	dbp:stadium	dbr:Esch-sur-Alzette ;
+	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/2017\u201318_Luxembourg_National_Division>	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/2017\u201318_Total_League_season>	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Handball_Esch	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/Luxembourg_National_Division_(men\u0027s_handball)>	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/2011_Luxembourg_communal_elections>	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:List_of_airports_in_Luxembourg	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Gilbert_Dresch	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/Left_Bloc_(Luxembourg)>	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:US_Esch	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/2018\u201319_Luxembourg_National_Division>	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/2018\u201319_Total_League_season>	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/2019_Fed_Cup_Europe/Africa_Zone_Group_II_\u2013_Play-offs>	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/2019_Fed_Cup_Europe/Africa_Zone_Group_II_\u2013_Pool_A>	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/2019_Fed_Cup_Europe/Africa_Zone_Group_II_\u2013_Pool_B>	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/2019\u201320_Luxembourg_National_Division>	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/2019\u201320_Total_League_season>	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/2020_Billie_Jean_King_Cup_Europe/Africa_Zone_Group_I_\u2013_Pool_A_(Esch-sur-Alzette)>	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/2020_Billie_Jean_King_Cup_Europe/Africa_Zone_Group_I_\u2013_Pool_B_(Esch-sur-Alzette)>	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/2020\u201321_Luxembourg_National_Division>	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/2005_Luxembourg_communal_elections>	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Lameschmillen	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:List_of_athletics_clubs_in_Luxembourg	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/List_of_members_of_the_Chamber_of_Deputies_of_Luxembourg_2009\u20132013>	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Simone_Asselborn-Bintz	dbo:birthPlace	dbr:Esch-sur-Alzette ;
+	dbp:birthPlace	dbr:Esch-sur-Alzette ;
+	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/List_of_members_of_the_Chamber_of_Deputies_of_Luxembourg_2004\u20132009>	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Taina_Bofferding	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Lublin_R-XVI	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Jean_Ellis	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:LWS-2	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Harry_Rabinger	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/2020_Bohemian_F.C._season>	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:List_of_television_networks_by_country	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Rendolepsis	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:World_on_Fire_World_Tour	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/Slash_2010\u201311_World_Tour>	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/Euphoria_Tour_(Enrique_Iglesias)>	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Joseph_Kirpes	dbo:birthPlace	dbr:Esch-sur-Alzette ;
+	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Sevil_Yuldasheva	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Velletri	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:El_Dorado_World_Tour	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Google_Street_View_in_Europe	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Offenbach_am_Main	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Sport_in_Luxembourg	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+@prefix ns12:	<http://dbpedia.org/resource/List_of_licensed_and_localized_editions_of_Monopoly:> .
+ns12:_Europe	dbp:space	dbr:Esch-sur-Alzette ;
+	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/1995_Davis_Cup>	dbp:rd2t1Loc	dbr:Esch-sur-Alzette ;
+	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+@prefix ns13:	<http://dbpedia.org/resource/1995_Davis_Cup_Europe/> .
+ns13:Africa_Zone	dbp:rd2t1Loc	dbr:Esch-sur-Alzette ;
+	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+ns13:Africa_Zone_Group_II	dbp:rd2t1Loc	dbr:Esch-sur-Alzette ;
+	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/1996_Davis_Cup>	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette ;
+	dbp:rd1t6Loc	dbr:Esch-sur-Alzette .
+ns6:Africa_Zone_Group_II	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette ;
+	dbp:rd1t6Loc	dbr:Esch-sur-Alzette .
+dbr:List_of_LGBT_events	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Pandemonium_Tour	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/Tour_of_the_Universe_(tour)>	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+@prefix ns14:	<http://dbpedia.org/resource/2006_Davis_Cup_Europe/> .
+ns14:Africa_Zone	dbp:rd1t4Loc	dbr:Esch-sur-Alzette ;
+	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+ns14:Africa_Zone_Group_I	dbp:rd1t4Loc	dbr:Esch-sur-Alzette ;
+	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/List_of_Yes_concert_tours_(2020s)>	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/2019_Fed_Cup>	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+@prefix ns15:	<http://dbpedia.org/resource/2019_Fed_Cup_Europe/> .
+ns15:Africa_Zone	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Transport_in_Luxembourg	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Humanz_Tour	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/20_Years_Paranoid>	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Revolution_Radio_Tour	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:The_Nicki_Wrld_Tour	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:The_Resist_Tour	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/Escape_from_the_Studio_Tour_(Korn)>	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+@prefix ns16:	<http://dbpedia.org/resource/List_of_airports_by_ICAO_code:> .
+ns16:_E	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Rotterdam	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:European_Capital_of_Culture	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/Never_Say_Die!_Tour_2008>	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/Never_Say_Die!_Tour_2009>	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/Never_Say_Die!_Tour_2011>	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:European_Arenas_Association	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:List_of_medallists	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Hello_Katy_Tour	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/Worlds_Collide_(tour)>	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:July_1913	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Tourism_in_Luxembourg	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Puteaux	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Gusty_Kemp	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+@prefix ns17:	<http://dbpedia.org/resource/2015_Davis_Cup_Europe/> .
+ns17:Africa_Zone_Group_II	dbp:rd1t7Loc	dbr:Esch-sur-Alzette ;
+	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/Th\u00E9o_Kerg>	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:List_of_motorways_in_Luxembourg	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/P\u00E9tange>	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/1958_UEFA_European_Under-18_Championship>	dbp:stadium	dbr:Esch-sur-Alzette ;
+	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/1958\u201359_European_Cup>	dbp:stadium	dbr:Esch-sur-Alzette ;
+	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Kayl	dbp:w	dbr:Esch-sur-Alzette ;
+	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Esch-sur-Alzette_railway_station	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+@prefix ns18:	<http://dbpedia.org/resource/2008_Davis_Cup_Europe/> .
+ns18:Africa_Zone	dbp:rd1t1Loc	dbr:Esch-sur-Alzette ;
+	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+ns18:Africa_Zone_Group_II	dbp:rd1t1Loc	dbr:Esch-sur-Alzette ;
+	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Rumelange	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette ;
+	dbp:nw	dbr:Esch-sur-Alzette .
+dbr:Jean_Le_Moal	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Luxembourg_District	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Hands_All_Over_Tour	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Sanem	dbp:se	dbr:Esch-sur-Alzette ;
+	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:History_of_rail_transport_in_Luxembourg	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Alzette	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Athus	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Audun-le-Tiche	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:CFL_Line_70	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:A30_autoroute	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Red_Lands	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Brittany_national_football_team	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/Belval-R\u00E9dange_railway_station>	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Esch-sur-Alzette	rdf:type	yago:WikicatCommunesOfLuxembourg ,
+		yago:WikicatSubdivisionsOfLuxembourg ,
+		yago:YagoLegalActorGeo ,
+		yago:Object100002684 ,
+		yago:PhysicalEntity100001930 ,
+		<http://dbpedia.org/class/yago/WikicatCommunesInEsch-sur-Alzette(canton)> .
+@prefix schema:	<http://schema.org/> .
+dbr:Esch-sur-Alzette	rdf:type	schema:Place .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Esch-sur-Alzette	rdf:type	owl:Thing ,
+		yago:Commune108541609 ,
+		yago:WikicatCitiesInLuxembourg ,
+		yago:Subdivision108674251 .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Esch-sur-Alzette	rdf:type	wikidata:Q532 ,
+		wikidata:Q486972 ,
+		yago:WikicatTownsInLuxembourg ,
+		dbo:Village ,
+		yago:UrbanArea108675967 ,
+		yago:YagoPermanentlyLocatedEntity ,
+		yago:Municipality108626283 ,
+		dbo:Settlement ,
+		yago:City108524735 ,
+		yago:Region108630985 ,
+		dbo:Place ,
+		dbo:Location ,
+		yago:Location100027167 ,
+		yago:Tract108673395 ,
+		yago:GeographicalArea108574314 ,
+		yago:Town108665504 ,
+		yago:YagoGeoEntity .
+@prefix umbel-rc:	<http://umbel.org/umbel/rc/> .
+dbr:Esch-sur-Alzette	rdf:type	umbel-rc:PopulatedPlace ,
+		umbel-rc:Location_Underspecified ,
+		yago:District108552138 ,
+		dbo:PopulatedPlace ,
+		yago:AdministrativeDistrict108491826 .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Esch-sur-Alzette	rdfs:label	"Esch-sur-Alzette"@in ,
+		"Esch-sur-Alzette"@nl ,
+		"Esch-sur-Alzette"@cs ,
+		"Esch-sur-Alzette"@eo ,
+		"Esch-sur-Alzette"@en ,
+		"\uC5D0\uC288\uC26C\uB974\uC54C\uC81C\uD2B8"@ko ,
+		"\u042D\u0448-\u0441\u044E\u0440-\u0410\u043B\u044C\u0437\u0435\u0442\u0442"@ru ,
+		"Esch-sur-Alzette"@it ,
+		"\u963F\u5C14\u6CFD\u7279\u6CB3\u7554\u57C3\u65BD"@zh ,
+		"\u0415\u0448-\u0441\u044E\u0440-\u0410\u043B\u044C\u0437\u0435\u0442\u0442"@uk ,
+		"Esch-sur-Alzette"@sv ,
+		"Esch-sur-Alzette"@pl ,
+		"Esch-sur-Alzette"@eu ,
+		"Esch-sur-Alzette"@pt ,
+		"\u0625\u064A\u0634 \u0633\u0648\u063A \u0623\u0644\u0632\u064A\u062A"@ar ,
+		"Esch-sur-Alzette"@ca ,
+		"\u0395\u03C2-\u03C3\u03C5\u03C1-\u0391\u03BB\u03B6\u03AD\u03C4"@el ,
+		"Esch an der Alzette"@de ,
+		"\u30A8\u30B7\u30E5\uFF1D\u30B7\u30E5\u30EB\uFF1D\u30A2\u30EB\u30BC\u30C3\u30C8"@ja ,
+		"Esch-sur-Alzette"@es ,
+		"Esch-sur-Alzette"@fr ;
+	rdfs:comment	"Esch-sur-Alzette (en luxembourgeois : Esch-Uelzecht et en allemand : Esch an der Alzette) est une ville luxembourgeoise. Chef-lieu du canton du m\u00EAme nom, elle est, apr\u00E8s Luxembourg-ville, la seconde ville du pays, avec environ 34 000 habitants. La ville est la capitale des \u00AB Terres Rouges \u00BB (\u00AB Minett \u00BB en luxembourgeois), riches en minerai de fer, et reste un grand centre sid\u00E9rurgique du pays. Cosmopolite \u2014 plus de 30 % de ses habitants sont des \u00E9trangers \u2014, elle conna\u00EEt aujourd\u2019hui une importante activit\u00E9 commerciale."@fr ,
+		"Esch-sur-Alzette (Luxembourgish: Esch-Uelzecht pronounced [\u02CC\u00E6\u0292\u203F\u02C8u\u0259\u032Flts\u0259\u0255t] (), German: Esch-an-der-Alzette [\u02CC\u025B\u0283 \u0294an de\u02D0\u0250\u032F \u0294al\u02C8z\u025Bt] or Esch-an-der-Alzig, French: Esch-sur-Alzette) is a commune with town status in south-western Luxembourg. It is the country's second \"city\", and its second-most populous commune, with a population of 35,040 inhabitants, as of 2018. It lies in the south-west of the country, on the border with France and in the valley of the Alzette, which flows through the town. The town is usually referred to as just Esch; however, the full name distinguishes it from the village and commune of Esch-sur-S\u00FBre which lies 45 kilometres (28 miles) further north. The country's capital, Luxembourg City, is roughly 15 km (9.3 mi) to the north-east."@en ,
+		"Esch an der Alzette, international Esch-sur-Alzette (franz\u00F6sisch) oder Esch/Alzette, luxemburgisch Esch-Uelzecht, ist eine Stadt und eine Gemeinde im Gro\u00DFherzogtum Luxemburg und geh\u00F6rt zum Kanton Esch. Sie ist nach der Hauptstadt Luxemburg die zweitgr\u00F6\u00DFte Stadt des Landes."@de ,
+		"Esch-sur-Alzette (luxemburgu\u00E8s Esch-Uelzecht, alemany Esch-an-der-Alzig) \u00E9s una comuna i vila a l'est de Luxemburg, que forma part del cant\u00F3 d'Esch-sur-Alzette."@ca ,
+		"Esch-sur-Alzette (Esch-Uelzecht in lussemburghese, Esch an der Alzette in tedesco) \u00E8 la seconda citt\u00E0 del Lussemburgo. La popolazione \u00E8 di circa 31.000 abitanti. Essa \u00E8 anche posta nel cuore del bacino minerario del Lussemburgo. Situata nel sud, sul confine con la Francia, non va confusa con Esch-sur-S\u00FBre, che si trova invece nel nord del paese. Per decenni \u00E8 stata sede del Consolato d'Italia in Lussemburgo, prima che questo venisse spostato nella capitale nel 2010. \u00C8 stata scelta per essere capitale europea della cultura nel 2022, insieme a Kaunas."@it ,
+		"Esch-sur-Alzette (v lucembur\u0161tin\u011B Esch-Uelzecht) je druh\u00E9 nejv\u011Bt\u0161\u00ED m\u011Bsto Lucembursk\u00E9ho velkov\u00E9vodstv\u00ED. M\u00E1 33 286 obyvatel a nach\u00E1z\u00ED se 15 km jihoz\u00E1padn\u011B od hlavn\u00EDho m\u011Bsta Lucemburku. Le\u017E\u00ED na \u0159ece Alzette (b\u011B\u017En\u011B se mu \u0159\u00EDk\u00E1 jenom Esch, \u00FA\u0159edn\u00ED n\u00E1zev slou\u017E\u00ED k odli\u0161en\u00ED od m\u011Bste\u010Dka  v severn\u00EDm Lucembursku). Ve m\u011Bst\u011B existuj\u00ED t\u0159i fotbalov\u00E9 kluby:  (zalo\u017Een 1906 jako prvn\u00ED klub v zemi, \u0161estin\u00E1sobn\u00FD mistr Lucemburska), Jeunesse Esch (nej\u00FAsp\u011B\u0161n\u011Bj\u0161\u00ED mu\u017Estvo zem\u011B s 27 tituly) a Union Sportive (U.S.) Esch hraj\u00EDc\u00ED v sou\u010Dasn\u00E9 dob\u011B Ehrenpromotion (2. liga)."@cs ,
+		"\uC5D0\uC288\uC26C\uB974\uC54C\uC81C\uD2B8(\uD504\uB791\uC2A4\uC5B4: Esch-sur-Alzette, \uB8E9\uC148\uBD80\uB974\uD06C\uC5B4: Esch-Uelzecht, \uB3C5\uC77C\uC5B4: Esch-an-der-Alzette, Esch-an-der-Alzig)\uB294 \uB8E9\uC148\uBD80\uB974\uD06C \uB0A8\uC11C\uBD80\uC5D0 \uC704\uCE58\uD55C \uB3C4\uC2DC\uC774\uB2E4. \uD589\uC815 \uAD6C\uC5ED\uC0C1\uC73C\uB85C\uB294 \uB8E9\uC148\uBD80\uB974\uD06C \uAD6C\uC5D0 \uC18D\uD558\uB294 \uC8FC \uAC00\uC6B4\uB370 \uD558\uB098\uC778 \uC5D0\uC288\uC26C\uB974\uC54C\uC81C\uD2B8 \uC8FC\uC758 \uC8FC\uB3C4\uC774\uBA70 \uB8E9\uC148\uBD80\uB974\uD06C\uC5D0\uC11C \uB450 \uBC88\uC9F8\uB85C \uD070 \uB3C4\uC2DC\uC774\uB2E4. \uD504\uB791\uC2A4\uC640 \uAD6D\uACBD\uC744 \uC811\uD558\uACE0 \uC788\uACE0 \uC54C\uC81C\uD2B8 \uAC15\uC758 \uACC4\uACE1\uACFC \uC811\uD55C\uB2E4. \uB8E9\uC148\uBD80\uB974\uD06C\uC758 \uC218\uB3C4\uC778 \uB8E9\uC148\uBD80\uB974\uD06C \uC2DC\uC5D0\uC11C \uBD81\uB3D9\uCABD\uC73C\uB85C \uC57D 15km \uC815\uB3C4 \uB5A8\uC5B4\uC9C4 \uACF3\uC5D0 \uC704\uCE58\uD55C\uB2E4."@ko ,
+		"Esch-sur-Alzette \u00E9 uma comuna de Luxemburgo com status de cidade, pertencente ao distrito de Luxemburgo e ao cant\u00E3o de Esch-sur-Alzette."@pt ,
+		"Esch-sur-Alzette (Luxemburgs: Esch-Uelzecht; Duits, verouderd: Esch an der Alzig) is een gemeente en stad in het zuiden van het Groothertogdom Luxemburg en de hoofdplaats van het gelijknamige kanton, gelegen aan de rivier de Alzette. In 2010 telde de stad telde 30.105 inwoners en is daarmee na de hoofdstad de grootste stad van het land. Esch dankt zijn ontwikkeling aan de ijzer- en staalindustrie. Het ijzererts werd onder andere uit de Gaalgebierg gewonnen."@nl ,
+		"Esch-sur-Alzette (bahasa Jerman: Esch an der Alzette atau Esch an der Alzig, bahasa Luksemburg: Esch-Uelzecht) merupakan sebuah kota di Luksemburg. Kota ini letaknya di bagian selatan. Tepatnya di Distrik Luksemburg. Pada tahun 2009, kota ini memiliki jumlah penduduk sebesar 29.853 jiwa dan memiliki luas wilayah 14,35 km\u00B2. Kota ini memiliki angka kepadatan penduduk 2.080,3 jiwa/km\u00B2."@in ,
+		"Esch-sur-Alzette (jen duongermane-duonfrance, nur germane Esch an der Alzette, luksemburge Esch-Uelzech) estas municipo en Luksemburgio. \u011Ci estas la administra centro de samnoma kantono Esch-sur-Alzette, la plej suda parto de Luksemburgio, kaj estas unu el al plej grandaj urboj de la lando: en marto 2020 la urbo havis 32\u2009600 lo\u011Dantojn. Sude la urba teritorio limas je la historia regiono Loreno de Francio, parto de la administra regiono Grand Est kreita en 2016."@eo ,
+		"\u963F\u5C14\u6CFD\u7279\u6CB3\u7554\u57C3\u65BD\uFF08\u6CD5\u8A9E\uFF1AEsch-sur-Alzette\uFF1B\u5FB7\u8A9E\uFF1AEsch an der Alzette\uFF1B\u76E7\u68EE\u5821\u8A9E\uFF1AEsch-Uelzecht\uFF09\u662F\u5362\u68EE\u5821\u897F\u5357\u90E8\u7684\u4E00\u4E2A\u5177\u6709\u57CE\u5E02\u5730\u4F4D\u7684\u5E02\u9547 \uFF0C\u4F4D\u4E8E\u963F\u5C14\u6CFD\u7279\u6CB3\u7554\uFF0C\u4E5F\u662F\u5362\u68EE\u5821\u5927\u5B66\u7684\u6240\u5728\u5730\u3002"@zh ,
+		"Esch-sur-Alzette (luxemburgiska: Esch-Uelzecht; tyska: Esch an der Alzette eller Esch an der Alzig) \u00E4r en kommun och kommunhuvudort i Luxemburg. Kommunen ligger i kantonen Esch-sur-Alzette. Den hade \u00E5r 2017, 34 378 inv\u00E5nare. Det g\u00F6r den till den n\u00E4st st\u00F6rsta staden i Luxemburg. Esch-sur-Alzette ligger cirka 15 kilometer sydv\u00E4st om huvudstaden Luxemburg. Staden har haft en betydelsefull plats f\u00F6r landets st\u00E5lindustri, men har sedan st\u00E5lkrisen under 1970-talet drabbats av nedl\u00E4ggningar, bland annat under 1990-talet."@sv ,
+		"Esch-sur-Alzette (luks. Esch-Uelzecht; niem. Esch an der Alzette) \u2013 gmina ze statusem miejskim w po\u0142udniowo-zachodnim Luksemburgu, w dystrykcie Luksemburg, stolica administracyjna kantonu Esch-sur-Alzette. Jest drugim pod wzgl\u0119dem wielko\u015Bci miastem w Luksemburgu oraz cechuje si\u0119 najwi\u0119ksz\u0105 g\u0119sto\u015Bci\u0105 zaludnienia. Graniczy z Francj\u0105. W 2005 roku miasto Esch-sur-Alzette, kt\u00F3re stanowi centrum gminy, zamieszkiwa\u0142o 27 146 os\u00F3b. W 2006 roku w Esch-sur-Alzette ko\u0144czy\u0142 si\u0119 etap 2 i zaczyna\u0142 etap 3 Tour de France."@pl ,
+		"Esch-sur-Alzette (en luxemburgu\u00E9s Esch-Uelzecht) es una localidad de Luxemburgo. Tiene una poblaci\u00F3n de 30.000 habitantes, por lo que es la segunda ciudad despu\u00E9s de la ciudad de Luxemburgo. Se encuentra en el valle del Alzette, y la capital se encuentra a 15 km."@es ,
+		"\u30A8\u30B7\u30E5\uFF1D\u30B7\u30E5\u30EB\uFF1D\u30A2\u30EB\u30BC\u30C3\u30C8 \uFF08\u30D5\u30E9\u30F3\u30B9\u8A9E:Esch-sur-Alzette\u3001\u30EB\u30AF\u30BB\u30F3\u30D6\u30EB\u30AF\u8A9E:Esch-Uelzecht\u3001\u30C9\u30A4\u30C4\u8A9E:Esch-an-der-Alzette \u307E\u305F\u306F Esch-an-der-Alzig\uFF09\u306F\u3001\u30EB\u30AF\u30BB\u30F3\u30D6\u30EB\u30AF\u306E\u3001\u5E02\u8CC7\u683C\u3092\u6301\u3064\u30B3\u30DF\u30E5\u30FC\u30F3\u3002\u30EB\u30AF\u30BB\u30F3\u30D6\u30EB\u30AF\u5357\u897F\u90E8\u306B\u4F4D\u7F6E\u3059\u308B\u3001\u4EBA\u53E3\u3082\u4EBA\u53E3\u5BC6\u5EA6\u3082\u56FD\u5185\u7B2C2\u306E\u30B3\u30DF\u30E5\u30FC\u30F3\u3067\u3042\u308B\u3002\u5317\u6771\u7D0415km\u306B\u306F\u9996\u90FD\u30EB\u30AF\u30BB\u30F3\u30D6\u30EB\u30AF\u5E02\u304C\u3042\u308B\u3002\u30D5\u30E9\u30F3\u30B9\u3068\u56FD\u5883\u3092\u63A5\u3057\u3066\u3044\u308B\u3002 \u8C37\u306E\u4E2D\u306B\u3042\u308B\u3002\u5358\u306B\u30A8\u30B7\u30E5\u3068\u547C\u3070\u308C\u308B\u3053\u3068\u304C\u591A\u3044\u304C\u3001\u5317\u306B\u3042\u308B\u30A8\u30B7\u30E5\uFF1D\u30B7\u30E5\u30EB\uFF1D\u30B7\u30E5\u30FC\u30EB\u3068\u533A\u5225\u3059\u308B\u305F\u3081\u306B\u3001\u3053\u306E\u540D\u3067\u547C\u3070\u308C\u308B\u3002"@ja ,
+		"\u042D\u0448-\u0441\u044E\u0440-\u0410\u043B\u044C\u0437\u0435\u0301\u0442\u0442 (\u043B\u044E\u043A\u0441\u0435\u043C\u0431. Esch-Uelzecht, \u0444\u0440. Esch-sur-Alzette, \u043D\u0435\u043C. Esch an der Alzette) \u2014 \u0433\u043E\u0440\u043E\u0434 \u043D\u0430 \u044E\u0433\u0435 \u041B\u044E\u043A\u0441\u0435\u043C\u0431\u0443\u0440\u0433\u0430, \u0432 \u043E\u043A\u0440\u0443\u0433\u0435 \u041B\u044E\u043A\u0441\u0435\u043C\u0431\u0443\u0440\u0433. \u0410\u0434\u043C\u0438\u043D\u0438\u0441\u0442\u0440\u0430\u0442\u0438\u0432\u043D\u044B\u0439 \u0446\u0435\u043D\u0442\u0440 \u043E\u0434\u043D\u043E\u0438\u043C\u0451\u043D\u043D\u043E\u0433\u043E \u043A\u0430\u043D\u0442\u043E\u043D\u0430 ."@ru ,
+		"\u0625\u064A\u0634 \u0633\u0648\u063A \u0623\u0644\u0632\u064A\u062A \u0647\u064A \u0645\u062F\u064A\u0646\u0629 \u0645\u0646 \u0645\u062F\u0646 \u0644\u0648\u0643\u0633\u0645\u0628\u0648\u0631\u063A. \u064A\u0628\u0644\u063A \u0639\u062F\u062F \u0633\u0643\u0627\u0646\u0647\u0627 32,600 \u0646\u0633\u0645\u0629 \u0648\u0630\u0644\u0643 \u062D\u0633\u0628 \u0625\u062D\u0635\u0627\u0626\u064A\u0627\u062A \u0633\u0646\u0629 2014. \u062A\u0628\u0644\u063A \u0645\u0633\u0627\u062D\u062A\u0647\u0627 14.35 \u0643\u0645\u00B2. \u062A\u0642\u0639 \u0639\u0644\u0649 \u062D\u062F\u0648\u062F \u0641\u0631\u0646\u0633\u0627 \u0648\u062A\u0631\u0628\u0637\u0647\u0627 \u0639\u062F\u064E\u0651\u0629 \u0637\u0631\u0642 \u0627\u0644\u064A\u0647\u0627 , \u0648\u0623\u0642\u0631\u0628 \u0627\u0644\u0645\u0646\u0627\u0637\u0642 \u0627\u0644\u0641\u0631\u0646\u0633\u064A\u0651\u0629 \u0647\u064A audun le tiche \u0623\u0648\u062F\u0648\u0646 \u0644\u0648 \u062A\u064A\u0643 \u0648 redange \u063A\u064A\u062F\u0627\u0646\u062C \u062A\u0639\u062F \u0645\u062F\u064A\u0646\u0629 esch \u0625\u064A\u0634 \u062B\u0627\u0646\u064A \u0623\u0643\u0628\u0631 \u0645\u062F\u064A\u0646\u0629 \u0641\u064A \u062F\u0648\u0642\u064A\u0629 \u0644\u0648\u0643\u0633\u0645\u0628\u0648\u0631\u063A \u0628\u0639\u062F \u0627\u0644\u0639\u0627\u0635\u0645\u0629 \u0645\u0628\u0627\u0634\u0631\u0629\u064B \u0648\u064A\u0642\u0639 \u0641\u064A\u0647\u0627 \u0645\u0642\u0631 \u062C\u0627\u0645\u0639\u0629 \u0644\u0648\u0643\u0633\u0645\u0628\u0648\u0631\u063A \u0627\u0644\u0627\u0633\u0627\u0633\u064A \u0641\u064A belval"@ar ,
+		"\u0397 \u0395\u03C2-\u03C3\u03C5\u03C1-\u0391\u03BB\u03B6\u03AD\u03C4 (\u03BB\u03BF\u03C5\u03BE\u03B5\u03BC\u03B2\u03BF\u03C5\u03C1\u03B3\u03B9\u03B1\u03BD\u03AC: Esch-Uelzecht, \u03B3\u03B5\u03C1\u03BC\u03B1\u03BD\u03B9\u03BA\u03AC: Esch-an-der-Alzette \u03AE Esch-an-der-Alzig, \u03B3\u03B1\u03BB\u03BB\u03B9\u03BA\u03AC: Esch-sur-Alzette) \u03B5\u03AF\u03BD\u03B1\u03B9 \u03C0\u03CC\u03BB\u03B7 \u03C3\u03C4\u03BF \u039B\u03BF\u03C5\u03BE\u03B5\u03BC\u03B2\u03BF\u03CD\u03C1\u03B3\u03BF. \u0395\u03AF\u03BD\u03B1\u03B9 \u03B7 \u03B4\u03B5\u03CD\u03C4\u03B5\u03C1\u03B7 \u03BC\u03B5\u03B3\u03B1\u03BB\u03CD\u03C4\u03B5\u03C1\u03B7 \u03C0\u03CC\u03BB\u03B7 \u03C4\u03B7\u03C2 \u03C7\u03CE\u03C1\u03B1\u03C2, \u03BA\u03B1\u03B9 \u03B7 \u03B4\u03B5\u03CD\u03C4\u03B5\u03C1\u03B7 \u03C0\u03B9\u03BF \u03C0\u03C5\u03BA\u03BD\u03BF\u03BA\u03B1\u03C4\u03BF\u03B9\u03BA\u03B7\u03BC\u03AD\u03BD\u03B7 \u03BA\u03BF\u03B9\u03BD\u03CC\u03C4\u03B7\u03C4\u03B1, \u03BC\u03B5 \u03C0\u03BB\u03B7\u03B8\u03C5\u03C3\u03BC\u03CC 29.853 \u03B1\u03C4\u03CC\u03BC\u03C9\u03BD.\u0392\u03C1\u03AF\u03C3\u03BA\u03B5\u03C4\u03B1\u03B9 \u03C3\u03C4\u03BF \u03BD\u03BF\u03C4\u03B9\u03BF\u03B4\u03C5\u03C4\u03B9\u03BA\u03CC \u03C4\u03BC\u03AE\u03BC\u03B1 \u03C4\u03B7\u03C2 \u03C7\u03CE\u03C1\u03B1\u03C2, \u03C3\u03C4\u03B1 \u03C3\u03CD\u03BD\u03BF\u03C1\u03B1 \u03BC\u03B5 \u03C4\u03B7 \u0393\u03B1\u03BB\u03BB\u03AF\u03B1. \u0397 \u03C0\u03CC\u03BB\u03B7 \u03B1\u03BD\u03B1\u03C6\u03AD\u03C1\u03B5\u03C4\u03B1\u03B9 \u03C3\u03C5\u03BD\u03AE\u03B8\u03C9\u03C2 \u03B1\u03C0\u03BB\u03AC \u03C9\u03C2 \u0395\u03C2, \u0397 \u0395\u03C2 \u03B2\u03C1\u03AF\u03C3\u03BA\u03B5\u03C4\u03B1\u03B9 \u03C3\u03C4\u03B7\u03BD \u03BA\u03BF\u03B9\u03BB\u03AC\u03B4\u03B1 \u03C4\u03BF\u03C5 \u0391\u03BB\u03B6\u03AD\u03C4. \u0397 \u03C0\u03C1\u03C9\u03C4\u03B5\u03CD\u03BF\u03C5\u03C3\u03B1 \u03C4\u03B7\u03C2 \u03C7\u03CE\u03C1\u03B1\u03C2 \u03C0\u03CC\u03BB\u03B7 \u03C4\u03BF\u03C5 \u039B\u03BF\u03C5\u03BE\u03B5\u03BC\u03B2\u03BF\u03CD\u03C1\u03B3\u03BF\u03C5 \u03B2\u03C1\u03AF\u03C3\u03BA\u03B5\u03C4\u03B1\u03B9 \u03C0\u03B5\u03C1\u03AF\u03C0\u03BF\u03C5 15 \u03C7\u03BB\u03BC (9 \u03BC\u03AF\u03BB\u03B9\u03B1) \u03B2\u03CC\u03C1\u03B5\u03B9\u03BF-\u03B1\u03BD\u03B1\u03C4\u03BF\u03BB\u03B9\u03BA\u03AC."@el ,
+		"\u0415\u0448-\u0441\u044E\u0440-\u0410\u043B\u044C\u0437\u0435\u0442\u0442, \u0442\u0430\u043A\u043E\u0436 \u0415\u0448 (\u0444\u0440. Esch-sur-Alzette, \u043B\u044E\u043A\u0441\u0435\u043C\u0431. Esch-Uelzecht; \u043D\u0456\u043C. Esch an der Alzette, \u0456\u043D\u043E\u0434\u0456 Esch/Alzette) \u2014 \u0434\u0440\u0443\u0433\u0435 \u0437\u0430 \u043D\u0430\u0441\u0435\u043B\u0435\u043D\u043D\u044F\u043C \u043C\u0456\u0441\u0442\u043E \u0433\u0435\u0440\u0446\u043E\u0433\u0441\u0442\u0432\u0430 \u041B\u044E\u043A\u0441\u0435\u043C\u0431\u0443\u0440\u0433. \u0423\u0442\u0432\u043E\u0440\u044E\u0454 \u043E\u043A\u0440\u0435\u043C\u0443 \u043A\u043E\u043C\u0443\u043D\u0443. \u0423 \u043C\u0456\u0441\u0442\u0456 \u043F\u0440\u043E\u0432\u043E\u0434\u044F\u0442\u044C\u0441\u044F \u0435\u0442\u0430\u043F\u0438 \u0432\u0435\u043B\u043E\u0433\u043E\u043D\u043A\u0438 \u0422\u0443\u0440 \u0434\u0435 \u0424\u0440\u0430\u043D\u0441."@uk ,
+		"Esch-sur-Alzette (luxenburgeraz: Esch-Uelzecht, frantsesez: Esch-sur-Alzette, alemanez: Esch-an-der-Alzette edo Esch-an-der-Alzig) Luxenburgoko hiria da, izen bereko kantonamenduan eta Luxenburgoko barrutian dagoena.  ibaiak zeharkatua, herrialdeko bigarren hiririk populatuena da."@eu ;
+	rdfs:seeAlso	dbr:Luxembourg ,
+		dbr:Sister_cities ,
+		dbr:List_of_twin_towns ,
+		dbr:List_of_mayors_of_Esch-sur-Alzette ;
+	foaf:name	"Esch-sur-Alzette"@en ;
+	foaf:homepage	<http://www.esch.lu> ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Esch_vum_Bierg1.JPG> ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Esch-sur-Alzette .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Esch-sur-Alzette	dct:subject	dbc:Towns_in_Luxembourg ,
+		dbc:Cities_in_Luxembourg ,
+		dbc:Alzette ,
+		dbc:Esch-sur-Alzette ,
+		<http://dbpedia.org/resource/Category:Communes_in_Esch-sur-Alzette_(canton)> ;
+	owl:sameAs	<http://sr.dbpedia.org/resource/\u0415\u0448_\u0441\u0438\u0440_\u0410\u043B\u0437\u0435\u0442> ,
+		<http://el.dbpedia.org/resource/\u0395\u03C2-\u03C3\u03C5\u03C1-\u0391\u03BB\u03B6\u03AD\u03C4> .
+@prefix dbpedia-lmo:	<http://lmo.dbpedia.org/resource/> .
+dbr:Esch-sur-Alzette	owl:sameAs	dbpedia-lmo:Esch-sur-Alzette .
+@prefix dbpedia-no:	<http://no.dbpedia.org/resource/> .
+dbr:Esch-sur-Alzette	owl:sameAs	dbpedia-no:Esch-sur-Alzette ,
+		<http://ar.dbpedia.org/resource/\u0625\u064A\u0634_\u0633\u0648\u063A_\u0623\u0644\u0632\u064A\u062A> ,
+		<http://d-nb.info/gnd/10100039-X> .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Esch-sur-Alzette	owl:sameAs	yago-res:Esch-sur-Alzette .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Esch-sur-Alzette	owl:sameAs	dbpedia-nl:Esch-sur-Alzette .
+@prefix dbpedia-id:	<http://id.dbpedia.org/resource/> .
+dbr:Esch-sur-Alzette	owl:sameAs	dbpedia-id:Esch-sur-Alzette ,
+		<http://zh.dbpedia.org/resource/\u963F\u5C14\u6CFD\u7279\u6CB3\u7554\u57C3\u65BD> .
+@prefix dbpedia-sk:	<http://sk.dbpedia.org/resource/> .
+dbr:Esch-sur-Alzette	owl:sameAs	dbpedia-sk:Esch-sur-Alzette ,
+		<http://uk.dbpedia.org/resource/\u0415\u0448-\u0441\u044E\u0440-\u0410\u043B\u044C\u0437\u0435\u0442\u0442> .
+@prefix dbpedia-hu:	<http://hu.dbpedia.org/resource/> .
+dbr:Esch-sur-Alzette	owl:sameAs	dbpedia-hu:Esch-sur-Alzette .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Esch-sur-Alzette	owl:sameAs	dbpedia-it:Esch-sur-Alzette ,
+		<http://be.dbpedia.org/resource/\u042D\u0448-\u0441\u044E\u0440-\u0410\u043B\u044C\u0437\u0435\u0442> .
+@prefix dbpedia-io:	<http://io.dbpedia.org/resource/> .
+dbr:Esch-sur-Alzette	owl:sameAs	dbpedia-io:Esch-sur-Alzette ,
+		<http://lt.dbpedia.org/resource/E\u0161as_prie_Alzeto> ,
+		<http://ko.dbpedia.org/resource/\uC5D0\uC288\uC26C\uB974\uC54C\uC81C\uD2B8> ,
+		wikidata:Q16010 .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:Esch-sur-Alzette	owl:sameAs	dbpedia-es:Esch-sur-Alzette .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Esch-sur-Alzette	owl:sameAs	dbpedia-pt:Esch-sur-Alzette .
+@prefix dbpedia-tr:	<http://tr.dbpedia.org/resource/> .
+dbr:Esch-sur-Alzette	owl:sameAs	dbpedia-tr:Esch-sur-Alzette ,
+		<http://ru.dbpedia.org/resource/\u042D\u0448-\u0441\u044E\u0440-\u0410\u043B\u044C\u0437\u0435\u0442\u0442> .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Esch-sur-Alzette	owl:sameAs	dbpedia-pl:Esch-sur-Alzette .
+@prefix dbpedia-sw:	<http://sw.dbpedia.org/resource/> .
+dbr:Esch-sur-Alzette	owl:sameAs	dbpedia-sw:Esch-sur-Alzette .
+@prefix dbpedia-als:	<http://als.dbpedia.org/resource/> .
+dbr:Esch-sur-Alzette	owl:sameAs	dbpedia-als:Esch-Uelzecht ,
+		<http://ur.dbpedia.org/resource/\u0627\u0634-\u0633\u0648\u0631-\u0627\u0644\u0632\u06CC\u062A> ,
+		<http://viaf.org/viaf/147826430> ,
+		<http://rdf.freebase.com/ns/m.01kj75> .
+@prefix dbpedia-cs:	<http://cs.dbpedia.org/resource/> .
+dbr:Esch-sur-Alzette	owl:sameAs	dbpedia-cs:Esch-sur-Alzette ,
+		<http://ka.dbpedia.org/resource/\u10D4\u10E8-\u10E1\u10D8\u10E3\u10E0-\u10D0\u10DA\u10D6\u10D4\u10E2\u10D8> .
+@prefix dbpedia-da:	<http://da.dbpedia.org/resource/> .
+dbr:Esch-sur-Alzette	owl:sameAs	dbpedia-da:Esch-sur-Alzette .
+@prefix dbpedia-lb:	<http://lb.dbpedia.org/resource/> .
+dbr:Esch-sur-Alzette	owl:sameAs	dbpedia-lb:Esch-Uelzecht .
+@prefix dbpedia-ro:	<http://ro.dbpedia.org/resource/> .
+dbr:Esch-sur-Alzette	owl:sameAs	dbpedia-ro:Esch-sur-Alzette .
+@prefix dbpedia-pms:	<http://pms.dbpedia.org/resource/> .
+dbr:Esch-sur-Alzette	owl:sameAs	dbpedia-pms:Esch-sur-Alzette .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Esch-sur-Alzette	owl:sameAs	dbpedia-de:Esch_an_der_Alzette .
+@prefix dbpedia-eu:	<http://eu.dbpedia.org/resource/> .
+dbr:Esch-sur-Alzette	owl:sameAs	dbpedia-eu:Esch-sur-Alzette .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Esch-sur-Alzette	owl:sameAs	dbpedia-fr:Esch-sur-Alzette .
+@prefix ns51:	<http://musicbrainz.org/area/> .
+dbr:Esch-sur-Alzette	owl:sameAs	ns51:b9f644d9-5a9e-44f4-a5b8-6e8d238081e1 .
+@prefix dbpedia-ca:	<http://ca.dbpedia.org/resource/> .
+dbr:Esch-sur-Alzette	owl:sameAs	dbpedia-ca:Esch-sur-Alzette .
+@prefix dbpedia-ms:	<http://ms.dbpedia.org/resource/> .
+dbr:Esch-sur-Alzette	owl:sameAs	dbpedia-ms:Esch-sur-Alzette ,
+		dbr:Esch-sur-Alzette .
+@prefix dbpedia-sv:	<http://sv.dbpedia.org/resource/> .
+dbr:Esch-sur-Alzette	owl:sameAs	dbpedia-sv:Esch-sur-Alzette ,
+		<http://sws.geonames.org/2960596/> .
+@prefix ns55:	<http://d-nb.info/gnd/10100039-X/about/> .
+dbr:Esch-sur-Alzette	owl:sameAs	ns55:rdf ,
+		<http://fa.dbpedia.org/resource/\u0627\u0634-\u0633\u0648\u0631-\u0622\u0644\u0632\u062A> .
+@prefix dbpedia-vo:	<http://vo.dbpedia.org/resource/> .
+dbr:Esch-sur-Alzette	owl:sameAs	dbpedia-vo:Esch-Uelzecht ,
+		<http://ja.dbpedia.org/resource/\u30A8\u30B7\u30E5\uFF1D\u30B7\u30E5\u30EB\uFF1D\u30A2\u30EB\u30BC\u30C3\u30C8> .
+@prefix ns57:	<http://sco.dbpedia.org/resource/> .
+dbr:Esch-sur-Alzette	owl:sameAs	ns57:Esch-sur-Alzette ,
+		<http://mk.dbpedia.org/resource/\u0415\u0448_\u043D\u0430_\u0410\u043B\u0437\u0435\u0442> .
+@prefix dbpedia-nn:	<http://nn.dbpedia.org/resource/> .
+dbr:Esch-sur-Alzette	owl:sameAs	dbpedia-nn:Esch-sur-Alzette .
+@prefix dbpedia-eo:	<http://eo.dbpedia.org/resource/> .
+dbr:Esch-sur-Alzette	owl:sameAs	dbpedia-eo:Esch-sur-Alzette .
+@prefix ns60:	<https://global.dbpedia.org/id/> .
+dbr:Esch-sur-Alzette	owl:sameAs	ns60:afEa .
+@prefix dbpedia-fi:	<http://fi.dbpedia.org/resource/> .
+dbr:Esch-sur-Alzette	owl:sameAs	dbpedia-fi:Esch-sur-Alzette ,
+		<http://ceb.dbpedia.org/resource/Esch-sur-Alzette_(kapital_sa_kanton)> .
+@prefix dbpedia-simple:	<http://simple.dbpedia.org/resource/> .
+dbr:Esch-sur-Alzette	owl:sameAs	dbpedia-simple:Esch-sur-Alzette ;
+	schema:sameAs	<http://viaf.org/viaf/147826430> ;
+	dbp:nativeNameLang	"lb"@en ;
+	dbp:w	"Russange"@en ;
+	dbp:e	dbr:Schifflange ,
+		dbr:Kayl .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Esch-sur-Alzette	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Esch-sur-Alzette?oldid=983592280&ns=0> ;
+	dbo:type	dbr:List_of_communes_of_Luxembourg ;
+	dbp:elevationMaxRank	"of 102"@en ;
+	dbp:elevationMinRank	"of 102"@en ;
+	dbp:unitPref	"Metric"@en ;
+	dbp:populationRank	"of 102"@en ;
+	dbo:politicalLeader	dbr:Esch-sur-Alzette__PoliticalFunction__1 ;
+	dbp:sw	"Audun-le-Tiche"@en ;
+	dbo:country	dbr:Luxembourg ;
+	dbp:imageShield	"Coat of arms esch alzette luxbrg.png"@en ;
+	dbp:imageSkyline	"Esch vum Bierg1.JPG"@en ;
+	dbo:originalName	"Esch-Uelzecht"@en ;
+	dbp:se	dbr:Rumelange ;
+	dbp:imageMap	"Map Esch-sur-Alzette.PNG"@en ;
+	dbp:leaderName	"Mischo Georges"@en ;
+	dbp:leaderTitle	"Mayor"@en ;
+	dbp:n	dbr:Mondercange ;
+	dbp:populationDensityKm	"auto"@en ;
+	dbp:populationDensityRank	"of 102"@en ;
+	dbp:areaRank	"of 102"@en .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Esch-sur-Alzette	dbo:populationTotal	"36218"^^xsd:nonNegativeInteger ;
+	dbo:populationTotalRanking	"102"^^xsd:positiveInteger ;
+	dbo:timeZone	dbr:Central_European_Time ,
+		dbr:Central_European_Summer_Time ;
+	dbp:subdivisionName	<http://dbpedia.org/resource/Esch-sur-Alzette_(canton)> ;
+	dbo:subdivision	<http://dbpedia.org/resource/Esch-sur-Alzette_(canton)> ;
+	dbp:imageCaption	"The town seen from the Gaalgebierg park"@en ;
+	dbp:leaderParty	<http://dbpedia.org/resource/Christian_Social_People\u0027s_Party> ;
+	dbp:name	"Esch-sur-Alzette"@en ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Esch_vum_Bierg1.JPG?width=300> ;
+	dbo:wikiPageID	245366 ;
+	dbo:wikiPageRevisionID	983592280 ;
+	dbo:wikiPageWikiLink	dbr:Cantons_of_Luxembourg ,
+		dbr:Luxembourg_City ,
+		dbr:Proportional_representation ,
+		dbr:Turin ,
+		<http://dbpedia.org/resource/M\u00F6dling> ,
+		dbr:List_of_countries_by_largest_and_second_largest_cities ,
+		<http://dbpedia.org/resource/Luxembourg_Socialist_Workers\u0027_Party> ,
+		dbr:Velletri ,
+		dbr:Steel_industry_in_Luxembourg ,
+		dbr:Rockhal ,
+		<http://dbpedia.org/resource/Moselle_(department)> ,
+		dbr:Audun-le-Tiche ,
+		<http://dbpedia.org/resource/Esch-sur-Alzette_(canton)> ,
+		dbr:Puteaux ,
+		dbr:Kayl ,
+		dbc:Alzette ,
+		dbc:Esch-sur-Alzette ,
+		dbr:Valley ,
+		dbr:Alternative_Democratic_Reform_Party ,
+		<http://dbpedia.org/resource/The_Greens_(Luxembourg)> ,
+		dbr:List_of_communes_of_Luxembourg ,
+		dbr:List_of_towns_in_Luxembourg ,
+		dbr:Sanem ,
+		dbr:Lankelz_Railway ,
+		dbr:List_of_sovereign_states ,
+		<http://dbpedia.org/resource/Christian_Social_People\u0027s_Party> ,
+		dbr:Cologne ,
+		dbr:Communist_Party_of_Luxembourg ,
+		dbc:Cities_in_Luxembourg ,
+		dbc:Towns_in_Luxembourg ,
+		dbr:Central_European_Summer_Time ,
+		dbr:Rumelange ,
+		<http://dbpedia.org/resource/Esch-sur-S\u00FBre> ,
+		<http://dbpedia.org/resource/Li\u00E8ge> ,
+		<http://dbpedia.org/resource/Category:Communes_in_Esch-sur-Alzette_(canton)> ,
+		dbr:Rotterdam ,
+		dbr:Russange ,
+		dbr:Schifflange ,
+		<http://dbpedia.org/resource/The_Left_(Luxembourg)> ,
+		dbr:University_of_Luxembourg ,
+		dbr:Mondercange ,
+		dbr:Lille ,
+		dbr:Communes_of_Luxembourg ,
+		dbr:Luxembourg ,
+		dbr:Sister_city ,
+		dbr:France ,
+		dbr:ARBED ,
+		<http://dbpedia.org/resource/File:Esch-sur-Alzette_station_sign.jpg> ,
+		<http://dbpedia.org/resource/File:EscherStadhaus08.JPG> ,
+		<http://dbpedia.org/resource/File:Jeunesse_Stadion_1.jpg> ,
+		<http://dbpedia.org/resource/Democratic_Party_(Luxembourg)> ,
+		dbr:Central_European_Time ,
+		<http://dbpedia.org/resource/Belval,_Luxembourg> ,
+		dbr:Zemun ,
+		dbr:Coimbra ,
+		dbr:Pirate_Party_Luxembourg ,
+		dbr:List_of_communes_of_Luxembourg_by_population ,
+		dbr:Offenbach_am_Main ,
+		dbr:Alzette ,
+		dbr:Local_administrative_unit ;
+	dbo:wikiPageExternalLink	<http://HoloGuides.com/cities/Esch_Alzette_LU/> ,
+		<http://www.esch.lu> ,
+		<http://www.feats.org/archive/news/news1299.htm> ,
+		<http://www.esch.lu/> ,
+		<http://www.eschalzette.com/> .
+@prefix dbt:	<http://dbpedia.org/resource/Template:> .
+dbr:Esch-sur-Alzette	dbp:wikiPageUsesTemplate	dbt:IPA-lb ,
+		dbt:Flag ,
+		dbt:Div_col ,
+		dbt:Div_col_end ,
+		dbt:See_also .
+@prefix ns66:	<http://dbpedia.org/resource/Template:Christian_Social_People\u0027s_Party/meta/> .
+dbr:Esch-sur-Alzette	dbp:wikiPageUsesTemplate	ns66:color .
+@prefix ns67:	<http://dbpedia.org/resource/Template:Democratic_Party_(Luxembourg)/meta/> .
+dbr:Esch-sur-Alzette	dbp:wikiPageUsesTemplate	ns67:color .
+@prefix ns68:	<http://dbpedia.org/resource/Template:Luxembourg_Socialist_Workers\u0027_Party/meta/> .
+dbr:Esch-sur-Alzette	dbp:wikiPageUsesTemplate	ns68:color .
+@prefix ns69:	<http://dbpedia.org/resource/Template:The_Greens_(Luxembourg)/meta/> .
+dbr:Esch-sur-Alzette	dbp:wikiPageUsesTemplate	ns69:color .
+@prefix ns70:	<http://dbpedia.org/resource/Template:The_Left_(Luxembourg)/meta/> .
+dbr:Esch-sur-Alzette	dbp:wikiPageUsesTemplate	ns70:color ,
+		dbt:Infobox_settlement ,
+		dbt:As_of .
+@prefix ns71:	<http://dbpedia.org/resource/Template:Pirate_Party_Luxembourg/meta/> .
+dbr:Esch-sur-Alzette	dbp:wikiPageUsesTemplate	ns71:color .
+@prefix ns72:	<http://dbpedia.org/resource/Template:Alternative_Democratic_Reform_Party/meta/> .
+dbr:Esch-sur-Alzette	dbp:wikiPageUsesTemplate	ns72:color ,
+		dbt:IPA-de .
+@prefix ns73:	<http://dbpedia.org/resource/Template:Communist_Party_of_Luxembourg/meta/> .
+dbr:Esch-sur-Alzette	dbp:wikiPageUsesTemplate	ns73:color ,
+		dbt:Steady ,
+		dbt:Esch-sur-Alzette_commune_footer ,
+		dbt:Increase ,
+		dbt:Decrease ,
+		dbt:Authority_control ,
+		dbt:Reflist ,
+		dbt:Coord ,
+		dbt:Flagicon ,
+		dbt:Geographic_location ,
+		dbt:Commons_category ,
+		dbt:Wikivoyage ,
+		dbt:Convert ,
+		dbt:Percentage_bar ,
+		dbt:In_lang ,
+		dbt:Luxembourg_commune_area ,
+		dbt:Luxembourg_commune_area_rank ,
+		dbt:Luxembourg_commune_density_rank ,
+		dbt:Luxembourg_commune_high ,
+		dbt:Luxembourg_commune_high_rank ,
+		dbt:Luxembourg_commune_low ,
+		dbt:Luxembourg_commune_low_rank ,
+		dbt:Luxembourg_commune_population_rank ;
+	dbo:abstract	"Esch-sur-Alzette (Luxembourgish: Esch-Uelzecht pronounced [\u02CC\u00E6\u0292\u203F\u02C8u\u0259\u032Flts\u0259\u0255t] (), German: Esch-an-der-Alzette [\u02CC\u025B\u0283 \u0294an de\u02D0\u0250\u032F \u0294al\u02C8z\u025Bt] or Esch-an-der-Alzig, French: Esch-sur-Alzette) is a commune with town status in south-western Luxembourg. It is the country's second \"city\", and its second-most populous commune, with a population of 35,040 inhabitants, as of 2018. It lies in the south-west of the country, on the border with France and in the valley of the Alzette, which flows through the town. The town is usually referred to as just Esch; however, the full name distinguishes it from the village and commune of Esch-sur-S\u00FBre which lies 45 kilometres (28 miles) further north. The country's capital, Luxembourg City, is roughly 15 km (9.3 mi) to the north-east."@en ,
+		"Esch-sur-Alzette (luxenburgeraz: Esch-Uelzecht, frantsesez: Esch-sur-Alzette, alemanez: Esch-an-der-Alzette edo Esch-an-der-Alzig) Luxenburgoko hiria da, izen bereko kantonamenduan eta Luxenburgoko barrutian dagoena.  ibaiak zeharkatua, herrialdeko bigarren hiririk populatuena da."@eu ,
+		"\u0415\u0448-\u0441\u044E\u0440-\u0410\u043B\u044C\u0437\u0435\u0442\u0442, \u0442\u0430\u043A\u043E\u0436 \u0415\u0448 (\u0444\u0440. Esch-sur-Alzette, \u043B\u044E\u043A\u0441\u0435\u043C\u0431. Esch-Uelzecht; \u043D\u0456\u043C. Esch an der Alzette, \u0456\u043D\u043E\u0434\u0456 Esch/Alzette) \u2014 \u0434\u0440\u0443\u0433\u0435 \u0437\u0430 \u043D\u0430\u0441\u0435\u043B\u0435\u043D\u043D\u044F\u043C \u043C\u0456\u0441\u0442\u043E \u0433\u0435\u0440\u0446\u043E\u0433\u0441\u0442\u0432\u0430 \u041B\u044E\u043A\u0441\u0435\u043C\u0431\u0443\u0440\u0433. \u0423\u0442\u0432\u043E\u0440\u044E\u0454 \u043E\u043A\u0440\u0435\u043C\u0443 \u043A\u043E\u043C\u0443\u043D\u0443. \u0423 \u043C\u0456\u0441\u0442\u0456 \u043F\u0440\u043E\u0432\u043E\u0434\u044F\u0442\u044C\u0441\u044F \u0435\u0442\u0430\u043F\u0438 \u0432\u0435\u043B\u043E\u0433\u043E\u043D\u043A\u0438 \u0422\u0443\u0440 \u0434\u0435 \u0424\u0440\u0430\u043D\u0441."@uk ,
+		"Esch-sur-Alzette (bahasa Jerman: Esch an der Alzette atau Esch an der Alzig, bahasa Luksemburg: Esch-Uelzecht) merupakan sebuah kota di Luksemburg. Kota ini letaknya di bagian selatan. Tepatnya di Distrik Luksemburg. Pada tahun 2009, kota ini memiliki jumlah penduduk sebesar 29.853 jiwa dan memiliki luas wilayah 14,35 km\u00B2. Kota ini memiliki angka kepadatan penduduk 2.080,3 jiwa/km\u00B2."@in ,
+		"Esch-sur-Alzette (Luxemburgs: Esch-Uelzecht; Duits, verouderd: Esch an der Alzig) is een gemeente en stad in het zuiden van het Groothertogdom Luxemburg en de hoofdplaats van het gelijknamige kanton, gelegen aan de rivier de Alzette. In 2010 telde de stad telde 30.105 inwoners en is daarmee na de hoofdstad de grootste stad van het land. Esch dankt zijn ontwikkeling aan de ijzer- en staalindustrie. Het ijzererts werd onder andere uit de Gaalgebierg gewonnen."@nl ,
+		"Esch-sur-Alzette (Esch-Uelzecht in lussemburghese, Esch an der Alzette in tedesco) \u00E8 la seconda citt\u00E0 del Lussemburgo. La popolazione \u00E8 di circa 31.000 abitanti. Essa \u00E8 anche posta nel cuore del bacino minerario del Lussemburgo. Situata nel sud, sul confine con la Francia, non va confusa con Esch-sur-S\u00FBre, che si trova invece nel nord del paese. Per decenni \u00E8 stata sede del Consolato d'Italia in Lussemburgo, prima che questo venisse spostato nella capitale nel 2010. \u00C8 stata scelta per essere capitale europea della cultura nel 2022, insieme a Kaunas."@it ,
+		"Esch-sur-Alzette (luxemburgu\u00E8s Esch-Uelzecht, alemany Esch-an-der-Alzig) \u00E9s una comuna i vila a l'est de Luxemburg, que forma part del cant\u00F3 d'Esch-sur-Alzette."@ca ,
+		"Esch-sur-Alzette (jen duongermane-duonfrance, nur germane Esch an der Alzette, luksemburge Esch-Uelzech) estas municipo en Luksemburgio. \u011Ci estas la administra centro de samnoma kantono Esch-sur-Alzette, la plej suda parto de Luksemburgio, kaj estas unu el al plej grandaj urboj de la lando: en marto 2020 la urbo havis 32\u2009600 lo\u011Dantojn. Sude la urba teritorio limas je la historia regiono Loreno de Francio, parto de la administra regiono Grand Est kreita en 2016."@eo ,
+		"Esch-sur-Alzette (en luxembourgeois : Esch-Uelzecht et en allemand : Esch an der Alzette) est une ville luxembourgeoise. Chef-lieu du canton du m\u00EAme nom, elle est, apr\u00E8s Luxembourg-ville, la seconde ville du pays, avec environ 34 000 habitants. La ville est la capitale des \u00AB Terres Rouges \u00BB (\u00AB Minett \u00BB en luxembourgeois), riches en minerai de fer, et reste un grand centre sid\u00E9rurgique du pays. Cosmopolite \u2014 plus de 30 % de ses habitants sont des \u00E9trangers \u2014, elle conna\u00EEt aujourd\u2019hui une importante activit\u00E9 commerciale."@fr ,
+		"\u0625\u064A\u0634 \u0633\u0648\u063A \u0623\u0644\u0632\u064A\u062A \u0647\u064A \u0645\u062F\u064A\u0646\u0629 \u0645\u0646 \u0645\u062F\u0646 \u0644\u0648\u0643\u0633\u0645\u0628\u0648\u0631\u063A. \u064A\u0628\u0644\u063A \u0639\u062F\u062F \u0633\u0643\u0627\u0646\u0647\u0627 32,600 \u0646\u0633\u0645\u0629 \u0648\u0630\u0644\u0643 \u062D\u0633\u0628 \u0625\u062D\u0635\u0627\u0626\u064A\u0627\u062A \u0633\u0646\u0629 2014. \u062A\u0628\u0644\u063A \u0645\u0633\u0627\u062D\u062A\u0647\u0627 14.35 \u0643\u0645\u00B2. \u062A\u0642\u0639 \u0639\u0644\u0649 \u062D\u062F\u0648\u062F \u0641\u0631\u0646\u0633\u0627 \u0648\u062A\u0631\u0628\u0637\u0647\u0627 \u0639\u062F\u064E\u0651\u0629 \u0637\u0631\u0642 \u0627\u0644\u064A\u0647\u0627 , \u0648\u0623\u0642\u0631\u0628 \u0627\u0644\u0645\u0646\u0627\u0637\u0642 \u0627\u0644\u0641\u0631\u0646\u0633\u064A\u0651\u0629 \u0647\u064A audun le tiche \u0623\u0648\u062F\u0648\u0646 \u0644\u0648 \u062A\u064A\u0643 \u0648 redange \u063A\u064A\u062F\u0627\u0646\u062C \u062A\u0639\u062F \u0645\u062F\u064A\u0646\u0629 esch \u0625\u064A\u0634 \u062B\u0627\u0646\u064A \u0623\u0643\u0628\u0631 \u0645\u062F\u064A\u0646\u0629 \u0641\u064A \u062F\u0648\u0642\u064A\u0629 \u0644\u0648\u0643\u0633\u0645\u0628\u0648\u0631\u063A \u0628\u0639\u062F \u0627\u0644\u0639\u0627\u0635\u0645\u0629 \u0645\u0628\u0627\u0634\u0631\u0629\u064B \u0648\u064A\u0642\u0639 \u0641\u064A\u0647\u0627 \u0645\u0642\u0631 \u062C\u0627\u0645\u0639\u0629 \u0644\u0648\u0643\u0633\u0645\u0628\u0648\u0631\u063A \u0627\u0644\u0627\u0633\u0627\u0633\u064A \u0641\u064A belval"@ar ,
+		"Esch an der Alzette, international Esch-sur-Alzette (franz\u00F6sisch) oder Esch/Alzette, luxemburgisch Esch-Uelzecht, ist eine Stadt und eine Gemeinde im Gro\u00DFherzogtum Luxemburg und geh\u00F6rt zum Kanton Esch. Sie ist nach der Hauptstadt Luxemburg die zweitgr\u00F6\u00DFte Stadt des Landes."@de ,
+		"\u042D\u0448-\u0441\u044E\u0440-\u0410\u043B\u044C\u0437\u0435\u0301\u0442\u0442 (\u043B\u044E\u043A\u0441\u0435\u043C\u0431. Esch-Uelzecht, \u0444\u0440. Esch-sur-Alzette, \u043D\u0435\u043C. Esch an der Alzette) \u2014 \u0433\u043E\u0440\u043E\u0434 \u043D\u0430 \u044E\u0433\u0435 \u041B\u044E\u043A\u0441\u0435\u043C\u0431\u0443\u0440\u0433\u0430, \u0432 \u043E\u043A\u0440\u0443\u0433\u0435 \u041B\u044E\u043A\u0441\u0435\u043C\u0431\u0443\u0440\u0433. \u0410\u0434\u043C\u0438\u043D\u0438\u0441\u0442\u0440\u0430\u0442\u0438\u0432\u043D\u044B\u0439 \u0446\u0435\u043D\u0442\u0440 \u043E\u0434\u043D\u043E\u0438\u043C\u0451\u043D\u043D\u043E\u0433\u043E \u043A\u0430\u043D\u0442\u043E\u043D\u0430 ."@ru ,
+		"Esch-sur-Alzette (luxemburgiska: Esch-Uelzecht; tyska: Esch an der Alzette eller Esch an der Alzig) \u00E4r en kommun och kommunhuvudort i Luxemburg. Kommunen ligger i kantonen Esch-sur-Alzette. Den hade \u00E5r 2017, 34 378 inv\u00E5nare. Det g\u00F6r den till den n\u00E4st st\u00F6rsta staden i Luxemburg. Esch-sur-Alzette ligger cirka 15 kilometer sydv\u00E4st om huvudstaden Luxemburg. Staden har haft en betydelsefull plats f\u00F6r landets st\u00E5lindustri, men har sedan st\u00E5lkrisen under 1970-talet drabbats av nedl\u00E4ggningar, bland annat under 1990-talet. Tillnamnet har staden f\u00E5tt fr\u00E5n floden Alzette. V\u00E4norter \u00E4r K\u00F6ln, Li\u00E8ge, Lille, Rotterdam, Turin och Coimbra."@sv ,
+		"Esch-sur-Alzette (en luxemburgu\u00E9s Esch-Uelzecht) es una localidad de Luxemburgo. Tiene una poblaci\u00F3n de 30.000 habitantes, por lo que es la segunda ciudad despu\u00E9s de la ciudad de Luxemburgo. Se encuentra en el valle del Alzette, y la capital se encuentra a 15 km."@es ,
+		"Esch-sur-Alzette \u00E9 uma comuna de Luxemburgo com status de cidade, pertencente ao distrito de Luxemburgo e ao cant\u00E3o de Esch-sur-Alzette."@pt ,
+		"\u0397 \u0395\u03C2-\u03C3\u03C5\u03C1-\u0391\u03BB\u03B6\u03AD\u03C4 (\u03BB\u03BF\u03C5\u03BE\u03B5\u03BC\u03B2\u03BF\u03C5\u03C1\u03B3\u03B9\u03B1\u03BD\u03AC: Esch-Uelzecht, \u03B3\u03B5\u03C1\u03BC\u03B1\u03BD\u03B9\u03BA\u03AC: Esch-an-der-Alzette \u03AE Esch-an-der-Alzig, \u03B3\u03B1\u03BB\u03BB\u03B9\u03BA\u03AC: Esch-sur-Alzette) \u03B5\u03AF\u03BD\u03B1\u03B9 \u03C0\u03CC\u03BB\u03B7 \u03C3\u03C4\u03BF \u039B\u03BF\u03C5\u03BE\u03B5\u03BC\u03B2\u03BF\u03CD\u03C1\u03B3\u03BF. \u0395\u03AF\u03BD\u03B1\u03B9 \u03B7 \u03B4\u03B5\u03CD\u03C4\u03B5\u03C1\u03B7 \u03BC\u03B5\u03B3\u03B1\u03BB\u03CD\u03C4\u03B5\u03C1\u03B7 \u03C0\u03CC\u03BB\u03B7 \u03C4\u03B7\u03C2 \u03C7\u03CE\u03C1\u03B1\u03C2, \u03BA\u03B1\u03B9 \u03B7 \u03B4\u03B5\u03CD\u03C4\u03B5\u03C1\u03B7 \u03C0\u03B9\u03BF \u03C0\u03C5\u03BA\u03BD\u03BF\u03BA\u03B1\u03C4\u03BF\u03B9\u03BA\u03B7\u03BC\u03AD\u03BD\u03B7 \u03BA\u03BF\u03B9\u03BD\u03CC\u03C4\u03B7\u03C4\u03B1, \u03BC\u03B5 \u03C0\u03BB\u03B7\u03B8\u03C5\u03C3\u03BC\u03CC 29.853 \u03B1\u03C4\u03CC\u03BC\u03C9\u03BD.\u0392\u03C1\u03AF\u03C3\u03BA\u03B5\u03C4\u03B1\u03B9 \u03C3\u03C4\u03BF \u03BD\u03BF\u03C4\u03B9\u03BF\u03B4\u03C5\u03C4\u03B9\u03BA\u03CC \u03C4\u03BC\u03AE\u03BC\u03B1 \u03C4\u03B7\u03C2 \u03C7\u03CE\u03C1\u03B1\u03C2, \u03C3\u03C4\u03B1 \u03C3\u03CD\u03BD\u03BF\u03C1\u03B1 \u03BC\u03B5 \u03C4\u03B7 \u0393\u03B1\u03BB\u03BB\u03AF\u03B1. \u0397 \u03C0\u03CC\u03BB\u03B7 \u03B1\u03BD\u03B1\u03C6\u03AD\u03C1\u03B5\u03C4\u03B1\u03B9 \u03C3\u03C5\u03BD\u03AE\u03B8\u03C9\u03C2 \u03B1\u03C0\u03BB\u03AC \u03C9\u03C2 \u0395\u03C2, \u0397 \u0395\u03C2 \u03B2\u03C1\u03AF\u03C3\u03BA\u03B5\u03C4\u03B1\u03B9 \u03C3\u03C4\u03B7\u03BD \u03BA\u03BF\u03B9\u03BB\u03AC\u03B4\u03B1 \u03C4\u03BF\u03C5 \u0391\u03BB\u03B6\u03AD\u03C4. \u0397 \u03C0\u03C1\u03C9\u03C4\u03B5\u03CD\u03BF\u03C5\u03C3\u03B1 \u03C4\u03B7\u03C2 \u03C7\u03CE\u03C1\u03B1\u03C2 \u03C0\u03CC\u03BB\u03B7 \u03C4\u03BF\u03C5 \u039B\u03BF\u03C5\u03BE\u03B5\u03BC\u03B2\u03BF\u03CD\u03C1\u03B3\u03BF\u03C5 \u03B2\u03C1\u03AF\u03C3\u03BA\u03B5\u03C4\u03B1\u03B9 \u03C0\u03B5\u03C1\u03AF\u03C0\u03BF\u03C5 15 \u03C7\u03BB\u03BC (9 \u03BC\u03AF\u03BB\u03B9\u03B1) \u03B2\u03CC\u03C1\u03B5\u03B9\u03BF-\u03B1\u03BD\u03B1\u03C4\u03BF\u03BB\u03B9\u03BA\u03AC."@el ,
+		"Esch-sur-Alzette (luks. Esch-Uelzecht; niem. Esch an der Alzette) \u2013 gmina ze statusem miejskim w po\u0142udniowo-zachodnim Luksemburgu, w dystrykcie Luksemburg, stolica administracyjna kantonu Esch-sur-Alzette. Jest drugim pod wzgl\u0119dem wielko\u015Bci miastem w Luksemburgu oraz cechuje si\u0119 najwi\u0119ksz\u0105 g\u0119sto\u015Bci\u0105 zaludnienia. Graniczy z Francj\u0105. W 2005 roku miasto Esch-sur-Alzette, kt\u00F3re stanowi centrum gminy, zamieszkiwa\u0142o 27 146 os\u00F3b. W mie\u015Bcie znajduje si\u0119 Narodowe Muzeum Ruchu Oporu, gdzie zebrane s\u0105 materia\u0142y o ruchu oporu w czasie II wojny \u015Bwiatowej. Innymi atrakcjami s\u0105 wielki park i Wie\u017Ca Berwart, zbudowana w 1621 roku. W mie\u015Bcie s\u0105 dwa kina: \"Ariston\" oraz \"Kinosch\". G\u0142\u00F3wnym teatrem jest Teatr Ksi\u0105\u017C\u0119cy. W Esch-sur-Alzette jest te\u017C centrum kulturalne \"Kulturfabrik\". Miasto jest siedzib\u0105 jednej z sze\u015Bciu regionalnych g\u0142\u00F3wnych komend Policji Wielkiego Ksi\u0119stwa (Police Grand-Ducale). Miasto jest centrum krajowej produkcji stali. Jednym z najwi\u0119kszych pracodawc\u00F3w jest firma Arcelor, najwi\u0119kszy \u015Bwiatowy producent stali, powsta\u0142y z po\u0142\u0105czenia firm Aceralia, Arbed i Usinor. W 2006 roku w Esch-sur-Alzette ko\u0144czy\u0142 si\u0119 etap 2 i zaczyna\u0142 etap 3 Tour de France. W mie\u015Bcie Esch-sur-Alzette, na stadionie Stade de la Fronti\u00E8re, gra jeden z najlepszych luksemburskich klub\u00F3w pi\u0142karskich Jeunesse Esch."@pl ,
+		"Esch-sur-Alzette (v lucembur\u0161tin\u011B Esch-Uelzecht) je druh\u00E9 nejv\u011Bt\u0161\u00ED m\u011Bsto Lucembursk\u00E9ho velkov\u00E9vodstv\u00ED. M\u00E1 33 286 obyvatel a nach\u00E1z\u00ED se 15 km jihoz\u00E1padn\u011B od hlavn\u00EDho m\u011Bsta Lucemburku. Le\u017E\u00ED na \u0159ece Alzette (b\u011B\u017En\u011B se mu \u0159\u00EDk\u00E1 jenom Esch, \u00FA\u0159edn\u00ED n\u00E1zev slou\u017E\u00ED k odli\u0161en\u00ED od m\u011Bste\u010Dka  v severn\u00EDm Lucembursku). Prvn\u00ED p\u00EDsemn\u00E1 zpr\u00E1va o Esch-sur-Alzette poch\u00E1z\u00ED z roku 1128. R\u016Fst obce za\u010Dal v devaten\u00E1ct\u00E9m stolet\u00ED, kdy\u017E byla objevena zdej\u0161\u00ED bohat\u00E1 lo\u017Eiska \u017Eelezn\u00E9 rudy. V roce 1911 byla zalo\u017Eena ocel\u00E1\u0159sk\u00E1 firma  (Aci\u00E9ries R\u00E9unies de Burbach-Eich-Dudelange). \u00DAtlum pr\u016Fmyslu za\u010Dal v sedmdes\u00E1t\u00FDch letech 20. stolet\u00ED, posledn\u00ED tov\u00E1rna byla uzav\u0159ena v roce 1997 a v\u011Bt\u0161inu obyvatel zam\u011Bstn\u00E1v\u00E1 terci\u00E1rn\u00ED sektor. V pr\u016Fmyslov\u00E9 \u010Dtvrti Belvalu prob\u011Bhla revitalizace, od t\u00E9 doby se zde nach\u00E1zej\u00ED \u0161kolsk\u00E1 a kulturn\u00ED za\u0159\u00EDzen\u00ED, nap\u0159. , nejv\u011Bt\u0161\u00ED koncertn\u00ED s\u00ED\u0148 v Lucembursku. Ve m\u011Bst\u011B tak\u00E9 s\u00EDdl\u00ED Mus\u00E9e national de la R\u00E9sistance, v\u011Bnovan\u00E9 lucembursk\u00E9mu protinacistick\u00E9mu odboji. Ve m\u011Bst\u011B existuj\u00ED t\u0159i fotbalov\u00E9 kluby:  (zalo\u017Een 1906 jako prvn\u00ED klub v zemi, \u0161estin\u00E1sobn\u00FD mistr Lucemburska), Jeunesse Esch (nej\u00FAsp\u011B\u0161n\u011Bj\u0161\u00ED mu\u017Estvo zem\u011B s 27 tituly) a Union Sportive (U.S.) Esch hraj\u00EDc\u00ED v sou\u010Dasn\u00E9 dob\u011B Ehrenpromotion (2. liga)."@cs ,
+		"\u963F\u5C14\u6CFD\u7279\u6CB3\u7554\u57C3\u65BD\uFF08\u6CD5\u8A9E\uFF1AEsch-sur-Alzette\uFF1B\u5FB7\u8A9E\uFF1AEsch an der Alzette\uFF1B\u76E7\u68EE\u5821\u8A9E\uFF1AEsch-Uelzecht\uFF09\u662F\u5362\u68EE\u5821\u897F\u5357\u90E8\u7684\u4E00\u4E2A\u5177\u6709\u57CE\u5E02\u5730\u4F4D\u7684\u5E02\u9547 \uFF0C\u4F4D\u4E8E\u963F\u5C14\u6CFD\u7279\u6CB3\u7554\uFF0C\u4E5F\u662F\u5362\u68EE\u5821\u5927\u5B66\u7684\u6240\u5728\u5730\u3002"@zh ,
+		"\uC5D0\uC288\uC26C\uB974\uC54C\uC81C\uD2B8(\uD504\uB791\uC2A4\uC5B4: Esch-sur-Alzette, \uB8E9\uC148\uBD80\uB974\uD06C\uC5B4: Esch-Uelzecht, \uB3C5\uC77C\uC5B4: Esch-an-der-Alzette, Esch-an-der-Alzig)\uB294 \uB8E9\uC148\uBD80\uB974\uD06C \uB0A8\uC11C\uBD80\uC5D0 \uC704\uCE58\uD55C \uB3C4\uC2DC\uC774\uB2E4. \uD589\uC815 \uAD6C\uC5ED\uC0C1\uC73C\uB85C\uB294 \uB8E9\uC148\uBD80\uB974\uD06C \uAD6C\uC5D0 \uC18D\uD558\uB294 \uC8FC \uAC00\uC6B4\uB370 \uD558\uB098\uC778 \uC5D0\uC288\uC26C\uB974\uC54C\uC81C\uD2B8 \uC8FC\uC758 \uC8FC\uB3C4\uC774\uBA70 \uB8E9\uC148\uBD80\uB974\uD06C\uC5D0\uC11C \uB450 \uBC88\uC9F8\uB85C \uD070 \uB3C4\uC2DC\uC774\uB2E4. \uD504\uB791\uC2A4\uC640 \uAD6D\uACBD\uC744 \uC811\uD558\uACE0 \uC788\uACE0 \uC54C\uC81C\uD2B8 \uAC15\uC758 \uACC4\uACE1\uACFC \uC811\uD55C\uB2E4. \uB8E9\uC148\uBD80\uB974\uD06C\uC758 \uC218\uB3C4\uC778 \uB8E9\uC148\uBD80\uB974\uD06C \uC2DC\uC5D0\uC11C \uBD81\uB3D9\uCABD\uC73C\uB85C \uC57D 15km \uC815\uB3C4 \uB5A8\uC5B4\uC9C4 \uACF3\uC5D0 \uC704\uCE58\uD55C\uB2E4."@ko ,
+		"\u30A8\u30B7\u30E5\uFF1D\u30B7\u30E5\u30EB\uFF1D\u30A2\u30EB\u30BC\u30C3\u30C8 \uFF08\u30D5\u30E9\u30F3\u30B9\u8A9E:Esch-sur-Alzette\u3001\u30EB\u30AF\u30BB\u30F3\u30D6\u30EB\u30AF\u8A9E:Esch-Uelzecht\u3001\u30C9\u30A4\u30C4\u8A9E:Esch-an-der-Alzette \u307E\u305F\u306F Esch-an-der-Alzig\uFF09\u306F\u3001\u30EB\u30AF\u30BB\u30F3\u30D6\u30EB\u30AF\u306E\u3001\u5E02\u8CC7\u683C\u3092\u6301\u3064\u30B3\u30DF\u30E5\u30FC\u30F3\u3002\u30EB\u30AF\u30BB\u30F3\u30D6\u30EB\u30AF\u5357\u897F\u90E8\u306B\u4F4D\u7F6E\u3059\u308B\u3001\u4EBA\u53E3\u3082\u4EBA\u53E3\u5BC6\u5EA6\u3082\u56FD\u5185\u7B2C2\u306E\u30B3\u30DF\u30E5\u30FC\u30F3\u3067\u3042\u308B\u3002\u5317\u6771\u7D0415km\u306B\u306F\u9996\u90FD\u30EB\u30AF\u30BB\u30F3\u30D6\u30EB\u30AF\u5E02\u304C\u3042\u308B\u3002\u30D5\u30E9\u30F3\u30B9\u3068\u56FD\u5883\u3092\u63A5\u3057\u3066\u3044\u308B\u3002 \u8C37\u306E\u4E2D\u306B\u3042\u308B\u3002\u5358\u306B\u30A8\u30B7\u30E5\u3068\u547C\u3070\u308C\u308B\u3053\u3068\u304C\u591A\u3044\u304C\u3001\u5317\u306B\u3042\u308B\u30A8\u30B7\u30E5\uFF1D\u30B7\u30E5\u30EB\uFF1D\u30B7\u30E5\u30FC\u30EB\u3068\u533A\u5225\u3059\u308B\u305F\u3081\u306B\u3001\u3053\u306E\u540D\u3067\u547C\u3070\u308C\u308B\u3002"@ja .
+@prefix ns74:	<http://www.w3.org/2006/03/wn/wn20/instances/> .
+dbr:Esch-sur-Alzette	dbp:wordnet_type	ns74:synset-commune-noun-1 ;
+	dbo:wikiPageLength	"17491"^^xsd:nonNegativeInteger ;
+	dbp:nw	dbr:Sanem ;
+	dbp:website	<http://www.esch.lu> ;
+	dbp:mapCaption	"Map of Luxembourg with Esch-sur-Alzette highlighted in orange, and the canton in dark red"@en ;
+	dbp:shieldSize	100 ;
+	dbp:timezone1Dst	dbr:Central_European_Summer_Time ;
+	dbp:utcOffset1Dst	"+2"@en ;
+	dbp:utcOffset	"+1"@en ;
+	dbp:subdivisionType	dbr:List_of_sovereign_states ,
+		dbr:Cantons_of_Luxembourg ;
+	dbp:nativeName	"Esch-Uelzecht"@en ;
+	dbp:blankInfoSec	"LU0000204"@en ;
+	dbp:timezone	dbr:Central_European_Time ;
+	dbp:blankNameSec	dbr:Local_administrative_unit ;
+	dbp:populationAsOf	2020 ;
+	dbp:settlementType	dbr:List_of_communes_of_Luxembourg ;
+	dbo:utcOffset	"+2" ,
+		"+1" ;
+	dbp:populationTotal	36218 ;
+	dbp:mapsize	200 ;
+	dbp:centre	"Esch-sur-Alzette"@en .
+dbr:Geography_of_Luxembourg	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Anne_Grommerch	dbo:deathPlace	dbr:Esch-sur-Alzette ;
+	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/Jazzf\u00E4st>	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/M\u00F6dling>	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Portugal_Davis_Cup_team	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Aly_Jaerling	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Michel_Majerus	dbo:birthPlace	dbr:Esch-sur-Alzette ;
+	dbp:birthPlace	dbr:Esch-sur-Alzette ;
+	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Joe_Thein	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:The_Integrated_Traffic_and_Landscape_Concept_for_the_Grand_Duchy_of_Luxembourg	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Ramon_Humbert	dbo:birthPlace	dbr:Esch-sur-Alzette ;
+	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Communes_of_Luxembourg	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Lily_Unden	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/2020\u201321_Billie_Jean_King_Cup>	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/1995\u201396_UEFA_Cup>	dbp:stadium	dbr:Esch-sur-Alzette ;
+	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/Lyc\u00E9e_Hubert_Cl\u00E9ment>	dbo:location	dbr:Esch-sur-Alzette ;
+	dbp:location	dbr:Esch-sur-Alzette ;
+	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Alternative_Democratic_Reform_Party	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Same-sex_marriage_in_Luxembourg	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/2017_Luxembourg_communal_elections>	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Grand_Ducal_Police	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Quarters_of_Esch-sur-Alzette	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/2012_UEFA_European_Under-17_Championship_elite_round>	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Lankelz_Railway	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/1987\u201388_European_Cup>	dbp:stadium	dbr:Esch-sur-Alzette ;
+	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/1980\u201381_European_Cup>	dbp:stadium	dbr:Esch-sur-Alzette ;
+	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:List_of_twin_towns_and_sister_cities_in_Portugal	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/Th\u00E9\u00E2tre_d\u0027Esch>	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/2011\u201312_UEFA_Europa_League_first_qualifying_round>	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/Iga_\u015Awi\u0105tek_career_statistics>	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/2002_UEFA_European_Under-21_Championship_qualification_Group_1>	dbp:stadium	dbr:Esch-sur-Alzette ;
+	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/2008_UEFA_European_Under-19_Championship_qualification>	dbp:stadium	dbr:Esch-sur-Alzette ;
+	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/1953_in_Luxembourg>	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/1990_FIFA_World_Cup_qualification_\u2013_UEFA_Group_7>	dbp:stadium	dbr:Esch-sur-Alzette ;
+	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Jean-Pierre_Weber	dbo:deathPlace	dbr:Esch-sur-Alzette ;
+	dbo:birthPlace	dbr:Esch-sur-Alzette ;
+	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Camille_Schumacher	dbo:deathPlace	dbr:Esch-sur-Alzette ;
+	dbo:birthPlace	dbr:Esch-sur-Alzette ;
+	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Jean-Pierre_Frisch	dbo:deathPlace	dbr:Esch-sur-Alzette ;
+	dbo:birthPlace	dbr:Esch-sur-Alzette ;
+	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Jean-Pierre_Weisgerber	dbo:deathPlace	dbr:Esch-sur-Alzette ;
+	dbo:birthPlace	dbr:Esch-sur-Alzette ;
+	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/Fran\u00E7ois_Langers>	dbo:deathPlace	dbr:Esch-sur-Alzette ;
+	dbo:birthPlace	dbr:Esch-sur-Alzette ;
+	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Roger_Hippertchen	dbo:deathPlace	dbr:Esch-sur-Alzette ;
+	dbo:birthPlace	dbr:Esch-sur-Alzette ;
+	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/Victor_Maj\u00E9rus>	dbo:birthPlace	dbr:Esch-sur-Alzette ;
+	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Henri_Scharry	dbo:deathPlace	dbr:Esch-sur-Alzette ;
+	dbo:birthPlace	dbr:Esch-sur-Alzette ;
+	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Johny_Jaminet	dbo:deathPlace	dbr:Esch-sur-Alzette ;
+	dbo:birthPlace	dbr:Esch-sur-Alzette ;
+	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/Julien_Lef\u00E8vre>	dbo:birthPlace	dbr:Esch-sur-Alzette ;
+	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Tilly_Decker	dbo:birthPlace	dbr:Esch-sur-Alzette ;
+	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Aline_Mayrisch_de_Saint-Hubert	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Mira_Antonitsch	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Gasperich	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Limpertsberg	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/Andr\u00E9_Braun>	dbo:birthPlace	dbr:Esch-sur-Alzette ;
+	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:RWD_13	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/1963\u201364_FK_Partizan_season>	dbp:location	dbr:Esch-sur-Alzette ;
+	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/2007_UEFA_Intertoto_Cup>	dbp:stadium	dbr:Esch-sur-Alzette ;
+	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/2017_UEFA_European_Under-17_Championship_qualification>	dbp:stadium	dbr:Esch-sur-Alzette ;
+	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/Gon\u00E7alo_Nicau>	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Camillo_Felgen	dbo:deathPlace	dbr:Esch-sur-Alzette ;
+	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Total_League	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Catherine_Schleimer-Kill	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Norbert_Franck	dbo:birthPlace	dbr:Esch-sur-Alzette ;
+	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Jim_Kremer	dbo:birthPlace	dbr:Esch-sur-Alzette ;
+	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Luxembourg_Cup	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/2007\u201308_Luxembourg_National_Division>	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Brasserie_Battin	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:List_of_twin_towns_and_sister_cities_in_Austria	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:List_of_twin_towns_and_sister_cities_in_Italy	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Charles_Kohl	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/1979\u201380_S.L._Benfica_season>	dbp:location	dbr:Esch-sur-Alzette ;
+	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/Don\u0027t_Call_It_a_Sum-Back_Tour>	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Nostradamus_World_Tour	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/Alive_2006/2007>	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:La_Futura_Tour	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Beacon_World_Tour	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/List_of_R.E.M._concert_tours>	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Hellbilly_Deluxe_2_World_Tour	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Taking_Back_the_Cities_Tour	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Back_to_Bass_Tour	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Paradise_Tour	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/Smoke_+_Mirrors_Tour>	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Welcome_2	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Ernie_Hammes	dbo:birthPlace	dbr:Esch-sur-Alzette ;
+	dbp:birthPlace	dbr:Esch-sur-Alzette ;
+	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:List_of_twin_towns_and_sister_cities_in_Serbia	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Wave_Goodbye_Tour	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:July_2006_in_sports	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Tageblatt	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette ;
+	dbp:headquarters	dbr:Esch-sur-Alzette ;
+	dbo:headquarter	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/Le_Quotidien_(newspaper)>	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette ;
+	dbp:headquarters	dbr:Esch-sur-Alzette ;
+	dbo:headquarter	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/G\u00E9rard_Lopez_(businessman)>	dbo:birthPlace	dbr:Esch-sur-Alzette ;
+	dbp:birthPlace	dbr:Esch-sur-Alzette ;
+	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:German_occupation_of_Luxembourg_during_World_War_I	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Tonnage_Tour	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/1976\u201377_European_Cup>	dbp:stadium	dbr:Esch-sur-Alzette ;
+	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/1983\u201384_European_Cup>	dbp:stadium	dbr:Esch-sur-Alzette ;
+	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/L\u00E9on_Metz>	dbo:deathPlace	dbr:Esch-sur-Alzette ;
+	dbp:deathPlace	dbr:Esch-sur-Alzette ;
+	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Auguste_Laval	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/2007_UEFA_European_Under-19_Championship_qualification>	dbp:stadium	dbr:Esch-sur-Alzette ;
+	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/Belval-Universit\u00E9_railway_station>	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Jos_Koetz	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/2015_UEFA_European_Under-21_Championship_qualification_Group_3>	dbp:stadium	dbr:Esch-sur-Alzette ;
+	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/2017_UEFA_European_Under-21_Championship_qualification_Group_5>	dbp:stadium	dbr:Esch-sur-Alzette ;
+	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/2019_UEFA_European_Under-21_Championship_qualification_Group_9>	dbp:stadium	dbr:Esch-sur-Alzette ;
+	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/Lyc\u00E9e_de_Gar\u00E7ons_Esch-sur-Alzette>	dbo:location	dbr:Esch-sur-Alzette ;
+	dbp:location	dbr:Esch-sur-Alzette ;
+	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/Stade_de_la_Fronti\u00E8re>	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/Stade_\u00C9mile_Mayrisch>	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Iconomaques	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Esch-sur-Alzette_communal_council	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette ;
+	dbo:wikiPageRedirects	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/2006\u201307_Luxembourg_National_Division>	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/Cactus_(supermarket)>	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/The_Left_(Luxembourg)>	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/Soci\u00E9t\u00E9_pr\u00E9historique_luxembourgeoise>	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Editpress	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Croix_de_Cessange	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/Esch-sur-Alzette_(canton)>	dbp:seat	dbr:Esch-sur-Alzette ;
+	dbo:subdivision	dbr:Esch-sur-Alzette ;
+	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Bettina_Scholl-Sabbatini	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/A4_motorway_(Luxembourg)>	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette ;
+	dbo:routeEnd	dbr:Esch-sur-Alzette ;
+	dbp:terminusB	dbr:Esch-sur-Alzette .
+dbr:Kinneksbond	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/Fran\u00E7oise_Folmer>	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Yvette_Gastauer-Claire	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Esch	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette ;
+	dbo:wikiPageDisambiguates	dbr:Esch-sur-Alzette .
+dbr:Esch-Sur-Alzette	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette ;
+	dbo:wikiPageRedirects	dbr:Esch-sur-Alzette .
+dbr:History_of_Esch-sur-Alzette	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette ;
+	dbo:wikiPageRedirects	dbr:Esch-sur-Alzette .
+dbr:Technoport	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Esch-Alzette	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette ;
+	dbo:wikiPageRedirects	dbr:Esch-sur-Alzette .
+dbr:Esch-Uelzecht	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette ;
+	dbo:wikiPageRedirects	dbr:Esch-sur-Alzette .
+dbr:List_of_oldest_universities_in_continuous_operation	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Uruguay_national_football_team	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/Kyuss_Lives!_Tour>	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/57th_&_9th_Tour>	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Steel_industry_in_Luxembourg	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Luxembourg_City	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Emil_Cioran	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/Luxembourg_national_football_team_results_(1910\u201359)>	dbp:location	dbr:Esch-sur-Alzette ;
+	dbp:stadium	dbr:Esch-sur-Alzette ;
+	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+@prefix ns75:	<http://dbpedia.org/resource/1993_Davis_Cup_Europe/> .
+ns75:Africa_Zone	dbp:rd1t3Loc	dbr:Esch-sur-Alzette ;
+	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+ns75:Africa_Zone_Group_I	dbp:rd1t3Loc	dbr:Esch-sur-Alzette ;
+	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+@prefix ns76:	<http://dbpedia.org/resource/2018_Davis_Cup_Europe/> .
+ns76:Africa_Zone_Group_II	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette ;
+	dbp:rd0t1Loc	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/2009_UEFA_European_Under-21_Championship_qualification_Group_9>	dbp:stadium	dbr:Esch-sur-Alzette ;
+	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Le_prisonnier_politique	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/A13_motorway_(Luxembourg)>	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/National_Resistance_Museum,_Luxembourg>	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+@prefix ns77:	<http://dbpedia.org/resource/We_Will_Rock_You:> .
+ns77:_10th_Anniversary_Tour	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:The_Sweet_Sweet_Fantasy_Tour	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/Ren\u00E9_Deltgen>	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/Mosconi_(restaurant)>	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Zani_Barnard	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Marcel_Glesener	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Bim_Diederich	dbo:birthPlace	dbr:Esch-sur-Alzette ;
+	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/Andr\u00E9_Hoffmann_(politician)>	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/Andr\u00E9_Wollscheidt>	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Henri_Grethen	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Arthur_Useldinger	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Joseph_Brebsom	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Ginette_Rossini	dbo:birthPlace	dbr:Esch-sur-Alzette ;
+	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Johannes_Joseph_Koppes	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Emile_Kirscht	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Jean_Origer	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Marc_Spautz	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Jean_Colombera	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Lydia_Mutsch	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Mariette_Kemmer	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Mars_Di_Bartolomeo	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Pierre_Mores	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Jean_Back	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Jean_Flammang	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Mathias_Sancassiani	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Raymond_Freymann	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Georges_Hausemer	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Laurent_Fels	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Claus_Cito	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Nicolas_Adam	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/Hubert_Cl\u00E9ment>	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Guy_Rewenig	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Max_Kohn	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Nancy_Kemp-Arendt	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Michel_Maquil	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/Pierre_Brasseur_(Luxembourg)>	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Steve_Fogen	dbo:birthPlace	dbr:Esch-sur-Alzette ;
+	dbp:birthPlace	dbr:Esch-sur-Alzette ;
+	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/2020_Billie_Jean_King_Cup_Europe/Africa_Zone_Group_I_\u2013_Play-offs>	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:List_of_football_clubs_in_Luxembourg	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Cologne	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/Li\u00E8ge>	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Lille	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/Made_in_Germany_1995\u20132011_(tour)>	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:List_of_music_venues	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:List_of_presidential_trips_made_by_Joachim_Gauck	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Blooddrunk_Tour	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:A_Flash_Flood_of_Colour_World_Tour	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:A_Pale_Tour_Named_Death	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Delirium_World_Tour	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Privateering_Tour	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/All_the_Hits,_All_Night_Long>	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:No_Fixed_Address_Tour	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:No_Sound_Without_Silence_Tour	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Funhouse_Tour	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:East_Germany_national_football_team_results	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Monolith_Tour	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:City_rights_in_the_Low_Countries	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Rock_the_Cosmos_Tour	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/1989\u201390_UEFA_Cup>	dbp:stadium	dbr:Esch-sur-Alzette ;
+	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/1996\u201397_UEFA_Cup>	dbp:stadium	dbr:Esch-sur-Alzette ;
+	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:List_of_Dua_Lipa_concert_tours	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:List_of_England_national_football_team_hat-tricks	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Ceremonials_Tour	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/2019\u201320_UEFA_Europa_League_qualifying_phase_and_play-off_round_(Main_Path)>	dbp:stadium	dbr:Esch-sur-Alzette ;
+	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/7/27_Tour>	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Down_the_Road_Wherever_Tour	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Free_Spirit_World_Tour	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:List_of_Belgian_cyclists_who_have_led_the_Tour_de_France_general_classification	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Apocryphon_Tour	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Revival_Tour	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:The_Altar_Tour	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:The_Getaway_World_Tour	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:The_Moonshine_Jungle_Tour	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:The_Ugly_World_Tour_2011	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:The_Unforgiving_Tour	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Trams_in_Europe	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Turin	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:KylieX2008	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Last_Girl_on_Earth	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:List_of_cities_by_country_that_have_stolpersteine	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Dark_Passion_Play_World_Tour	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Pentatonix_World_Tour	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Set_the_World_on_Fire_Tour	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:List_of_countries_by_largest_and_second_largest_cities	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:The_Book_of_Souls_World_Tour	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Evolve_World_Tour	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Native_Tour	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Never_Ending_Tour_2011	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Never_Ending_Tour_2017	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/Never_Say_Die!_Tour_2012>	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Endgame_Tour	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Endless_Forms_Most_Beautiful_World_Tour	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/England_national_football_team_results_(1900\u201329)>	dbp:location	dbr:Esch-sur-Alzette ;
+	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Heavy_Rotation_Tour	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Government_of_Rotterdam	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:List_of_twin_towns_and_sister_cities_in_Belgium	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:List_of_twin_towns_and_sister_cities_in_France	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:List_of_twin_towns_and_sister_cities_in_Germany	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Manic_World_Tour	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Black_Holes_and_Revelations_Tour	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:The_Sweet_Escape_Tour	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Wonderful_Wonderful_World_Tour	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Planet_Pit_World_Tour	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Doll_Domination_Tour	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/D\u00E9sir\u00E9e_Nosbusch>	dbo:birthPlace	dbr:Esch-sur-Alzette ;
+	dbp:birthPlace	dbr:Esch-sur-Alzette ;
+	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Primate_city	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Claude_Rohla	dbo:deathPlace	dbr:Esch-sur-Alzette ;
+	dbo:birthPlace	dbr:Esch-sur-Alzette ;
+	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Jhemp_Hoscheit	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Rothe_Erde	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Kaja_Juvan	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/2018_UEFA_European_Under-19_Championship_qualification>	dbp:stadium	dbr:Esch-sur-Alzette ;
+	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Louis_Grisius	dbo:birthPlace	dbr:Esch-sur-Alzette ;
+	dbp:birthPlace	dbr:Esch-sur-Alzette ;
+	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Marcel_Ernzer	dbo:birthPlace	dbr:Esch-sur-Alzette ;
+	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Nathalie_Ronvaux	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Alex_Bodry	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Trams_in_Luxembourg	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:List_of_mayors_of_Esch-sur-Alzette	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Luxembourg_Tennis_Federation	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Raoul_Biltgen	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Ridable_miniature_railway	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/\u00C9mile_Colling>	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/2017_\u00D6stersunds_FK_season>	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/Luxembourg_national_football_team_results_(1960\u201379)>	dbp:location	dbr:Esch-sur-Alzette ;
+	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Stahleck_Castle	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/1956_Davis_Cup_Europe_Zone>	dbp:venue	dbr:Esch-sur-Alzette ;
+	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/1959\u201360_European_Cup>	dbp:stadium	dbr:Esch-sur-Alzette ;
+	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:The_Sacrament_of_Sin	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/List_of_international_goals_scored_by_Ferenc_Pusk\u00E1s>	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:List_of_land_borders_with_dates_of_establishment	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/1978_UEFA_European_Under-21_Championship>	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Joseph_Roller	dbo:birthPlace	dbr:Esch-sur-Alzette ;
+	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/1994_in_Luxembourg>	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Aftershock_Tour	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Communist_Party_of_Luxembourg	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette ;
+	dbp:headquarters	dbr:Esch-sur-Alzette ;
+	dbo:headquarter	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/Cornucopia_(concert_tour)>	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:My_Songs_Tour	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/Embassy_of_the_United_States,_Luxembourg>	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Louis_Pilot	dbo:birthPlace	dbr:Esch-sur-Alzette ;
+	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Claudio_Lombardelli	dbo:birthPlace	dbr:Esch-sur-Alzette ;
+	dbp:birthPlace	dbr:Esch-sur-Alzette ;
+	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Gilles_Bettmer	dbo:birthPlace	dbr:Esch-sur-Alzette ;
+	dbp:birthPlace	dbr:Esch-sur-Alzette ;
+	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Jeff_Strasser	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Leonardo_Tavares	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Rui_Machado	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/Fran\u00E7ois_Konter>	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Michel_Wolter	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Daniele_Zoratto	dbo:birthPlace	dbr:Esch-sur-Alzette ;
+	dbp:birthPlace	dbr:Esch-sur-Alzette ;
+	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/J\u00F6rg_St\u00FCbner>	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Mandy_Minella	dbo:birthPlace	dbr:Esch-sur-Alzette ;
+	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/Z\u00E9non_Bernard>	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/1973\u201374_European_Cup>	dbp:stadium	dbr:Esch-sur-Alzette ;
+	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Lallange	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/2014_Dundalk_F.C._season>	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/2016_St_Patrick\u0027s_Athletic_F.C._season>	dbp:location	dbr:Esch-sur-Alzette ;
+	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Belarus_Davis_Cup_team	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/1965\u201366_European_Cup>	dbp:stadium	dbr:Esch-sur-Alzette ;
+	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:UEFA_Euro_1988_qualifying_Group_7	dbp:stadium	dbr:Esch-sur-Alzette ;
+	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Caspar_Mathias_Spoo	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Union_Grand-Duc_Adolphe	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:University_of_Luxembourg	dbo:city	dbr:Esch-sur-Alzette ;
+	dbp:city	dbr:Esch-sur-Alzette ;
+	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Metty_Scheitler	dbo:birthPlace	dbr:Esch-sur-Alzette ;
+	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Lilya_Hadab	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/2008\u201309_Luxembourg_Cup>	dbp:stadium	dbr:Esch-sur-Alzette ;
+	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/1963\u201364_European_Cup>	dbp:stadium	dbr:Esch-sur-Alzette ;
+	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/1975\u201376_European_Cup>	dbp:stadium	dbr:Esch-sur-Alzette ;
+	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/1984_UEFA_European_Under-16_Championship_qualifying>	dbp:stadium	dbr:Esch-sur-Alzette ;
+	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/2004\u201305_UEFA_Champions_League_qualifying_rounds>	dbp:stadium	dbr:Esch-sur-Alzette ;
+	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/2005\u201306_UEFA_Cup_qualifying_rounds>	dbp:stadium	dbr:Esch-sur-Alzette ;
+	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/2018\u201319_UEFA_Europa_League_qualifying_phase_and_play-off_round_(Main_Path)>	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/Asylum_Tour_(Disturbed)>	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Never_Ending_Tour_2013	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:NSB_Di_6	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/2017\u201318_Ke\u015Fla_FK_season>	dbp:location	dbr:Esch-sur-Alzette ;
+	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/2005_in_Luxembourg>	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/2019_FC_Tobol_season>	dbp:location	dbr:Esch-sur-Alzette ;
+	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Ray_Cillien	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Dominique_Lang	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Fernand_Franck	dbo:birthPlace	dbr:Esch-sur-Alzette ;
+	dbp:birthPlace	dbr:Esch-sur-Alzette ;
+	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:Sanem_Castle	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+<http://dbpedia.org/resource/Alain_Dusch\u00E8ne>	dbp:birthPlace	dbr:Esch-sur-Alzette ;
+	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .
+dbr:List_of_communes_of_Luxembourg	dbo:wikiPageWikiLink	dbr:Esch-sur-Alzette .

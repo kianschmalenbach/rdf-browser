@@ -1,0 +1,1960 @@
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+dbr:Decomposition	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+<http://dbpedia.org/resource/2DTV>	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:List_of_wax_figures_displayed_at_Madame_Tussauds_museums	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Kim_Il-sung_and_Kim_Jong-il_portraits	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Margaret_Cho	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:December_17	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+<http://dbpedia.org/resource/1990s>	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Chinese_Communist_Party	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Chinese_characters	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Kim_Cheol-woong	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Kim_Han-sol	dbp:relations	dbr:Kim_Jong-il ;
+	dbo:relation	dbr:Kim_Jong-il ;
+	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+<http://dbpedia.org/resource/Kim_Jong-il_(athlete)>	owl:differentFrom	dbr:Kim_Jong-il .
+dbr:Kim_Jong-nam	dbp:father	dbr:Kim_Jong-il ;
+	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Kim_Ki-nam	dbo:wikiPageWikiLink	dbr:Kim_Jong-il ;
+	dbp:leader	dbr:Kim_Jong-il .
+dbr:Kim_Song-ae	<http://dbpedia.org/property/1namedata>	dbr:Kim_Jong-il ;
+	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Koreans_in_Japan	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Pyongui_Line	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Pyongyang	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Nuclear_power_in_North_Korea	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+<http://dbpedia.org/resource/North_Korean_leaders\u0027_trains>	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Telecommunications_in_North_Korea	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+<http://dbpedia.org/resource/2008_Summer_Olympics_torch_relay>	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Catholic_Church_in_North_Korea	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:United_States_presidential_visits_to_East_Asia	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+<http://dbpedia.org/resource/History_of_the_People\u0027s_Republic_of_China_(2002\u2013present)>	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Hwang_Jang-yop	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Hwang_Sok-yong	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Jang_Jin-sung	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Otto_Warmbier	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:The_Amazing_Race_Vietnam_2019	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:The_Spy_Gone_North	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Mansudae_Art_Studio	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:List_of_international_trips_made_by_Kim_Jong-il	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:List_of_international_trips_made_by_Madeleine_Albright_as_United_States_Secretary_of_State	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Moranbong_Band	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Juche	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Brian_Sloan	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Ten_thousand_years	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+<http://dbpedia.org/resource/China\u2013North_Korea_relations>	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Yi_Han-yong	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+<http://dbpedia.org/resource/North_Korea\u2013Venezuela_relations>	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Korean_language	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Unsung_Heroes	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Culture_of_North_Korea	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+<http://dbpedia.org/resource/Japan\u2013North_Korea_Pyongyang_Declaration>	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Peace_Mission_2005	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Turkish_Left	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Bombardment_of_Yeonpyeong	dbp:commander	dbr:Kim_Jong-il ;
+	dbo:commander	dbr:Kim_Jong-il ;
+	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Demographics_of_North_Korea	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Kim_Jong-un	dbp:parents	dbr:Kim_Jong-il ;
+	dbo:parent	dbr:Kim_Jong-il ;
+	dbp:before	dbr:Kim_Jong-il ;
+	dbo:wikiPageWikiLink	dbr:Kim_Jong-il ;
+	dbp:predecessor	dbr:Kim_Jong-il .
+dbr:Korean_Central_News_Agency	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Korean_Central_Television	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Korean_conflict	dbo:commander	dbr:Kim_Jong-il ;
+	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Primetime_Emmy_Award_for_Outstanding_Guest_Actress_in_a_Comedy_Series	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Princess_Tenko	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Delta_Asia_Financial_Group	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:OPLAN_5029	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:O_Kuk-ryol	dbo:wikiPageWikiLink	dbr:Kim_Jong-il ;
+	dbp:leader	dbr:Kim_Jong-il .
+dbr:Generalissimo	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+@prefix ns4:	<http://dbpedia.org/resource/List_of_Space:> .
+ns4:_1999_books_and_other_media	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Pyongyang_University_of_Science_and_Technology	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+<http://dbpedia.org/resource/The_Orphan_Master\u0027s_Son>	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Sinchon_Museum_of_American_War_Atrocities	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Military_parades_in_North_Korea	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Alexander_Losyukov	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Urban_planning_in_communist_countries	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Sport_in_North_Korea	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:KPS_9566	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+<http://dbpedia.org/resource/Lewis_Black\u0027s_Root_of_All_Evil>	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:North_Korean_abductions_of_South_Koreans	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Mass_media_in_North_Korea	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+<http://dbpedia.org/resource/2009_in_Algeria>	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Russians_in_Korea	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Censorship_in_North_Korea	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Peter_Maass	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+<http://dbpedia.org/resource/6th_Congress_of_the_Workers\u0027_Party_of_Korea>	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:List_of_state_leaders_in_1993	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:East_Pyongyang_Grand_Theatre	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Human_rights_in_North_Korea	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:International_Friendship_Exhibition	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+<http://dbpedia.org/resource/Iran\u2013Turkey_proxy_conflict>	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+<http://dbpedia.org/resource/Jang_(Korean_surname)>	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:History_of_North_Korea	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+<http://dbpedia.org/resource/2007_North_Korean_floods>	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+<http://dbpedia.org/resource/2009_imprisonment_of_American_journalists_by_North_Korea>	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Assassination_of_Kim_Jong-nam	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Onion_News_Network	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Our_Socialism_Centred_on_the_Masses_Shall_Not_Perish	dbo:author	dbr:Kim_Jong-il ;
+	dbp:author	dbr:Kim_Jong-il ;
+	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Revolutions_of_1989	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Outline_of_rights	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Koreans_in_Singapore	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Hereditary_politicians	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Kim_Dae-jung	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Kim_Jong-pil	owl:differentFrom	dbr:Kim_Jong-il .
+dbr:Jang_Song-thaek	dbp:relatives	dbr:Kim_Jong-il ;
+	dbo:relation	dbr:Kim_Jong-il ;
+	<http://dbpedia.org/property/1namedata>	dbr:Kim_Jong-il ;
+	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+<http://dbpedia.org/resource/The_Dictator_(2012_film)>	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+<http://dbpedia.org/resource/Kwangmy\u014Fngs\u014Fng-3>	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+<http://dbpedia.org/resource/Kwangmy\u014Fngs\u014Fng-3_Unit_2>	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:List_of_people_of_Korean_descent	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Kim_Yong-chol	<http://dbpedia.org/property/1namedata>	dbr:Kim_Jong-il ;
+	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Divided_family	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Michael_Spavor	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+<http://dbpedia.org/resource/30_Rock_(season_5)>	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Constitution_of_North_Korea	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Dominican_Republic_passport	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Kimjongilia	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Propaganda_in_North_Korea	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Takashi_Matsuo	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+<http://dbpedia.org/resource/Saikin-rett\u014D>	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Smoking_in_North_Korea	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Inoki_Genome_Federation	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Anocha_Panjoy	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Red_Flag_1-class_locomotive	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:FC_Korea	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Vinylon	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+<http://dbpedia.org/resource/Tomb_of_King_Tongmy\u014Fng>	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Masamori_Tokuyama	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Tokyo_Korean_Junior_and_Senior_High_School	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+<http://dbpedia.org/resource/Communist_Party_of_Germany_(1990)>	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Geneva_Summit_for_Human_Rights_and_Democracy	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Day_of_the_Shining_Star	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Pyongyang_Metro	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Inter-Korean_summits	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+<http://dbpedia.org/resource/Kim_(Korean_surname)>	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Kippumjo	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Korea_Stamp_Museum	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Hyundai_Asan	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+<http://dbpedia.org/resource/2011_in_North_Korea>	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+<http://dbpedia.org/resource/North_Korean_People\u0027s_Liberation_Front>	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Kapsan_Faction_Incident	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Munali_Secondary_School	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+<http://dbpedia.org/resource/2007_North\u2013South_Summit_Declaration>	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+<http://dbpedia.org/resource/2000_inter-Korean_summit>	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Samjiyon_Airport	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Samjiyon_Band	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+<http://dbpedia.org/resource/June_15th_North\u2013South_Joint_Declaration>	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+<http://dbpedia.org/resource/Gambia\u2013North_Korea_relations>	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:The_Tears_of_My_Soul	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+<http://dbpedia.org/resource/2007_inter-Korean_summit>	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:The_Flower_Girl	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Wonsu	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Supreme_Commander_of_the_Armed_Forces_of_North_Korea	dbp:officeholder	dbr:Kim_Jong-il ;
+	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:National_symbols_of_North_Korea	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+<http://dbpedia.org/resource/Joint_Security_Area_(film)>	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Yonhap_News_Agency	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Nation_and_Destiny	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Lyudmila_Zykina	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+<http://dbpedia.org/resource/2001_in_North_Korea>	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Order_of_Kim_Il-sung	dbp:firstAward	dbr:Kim_Jong-il ;
+	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+<http://dbpedia.org/resource/List_of_Kim_Jong-il\u0027s_titles>	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+<http://dbpedia.org/resource/7th_Central_Committee_of_the_Workers\u0027_Party_of_Korea>	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Kim_Ceng-il	dbo:wikiPageWikiLink	dbr:Kim_Jong-il ;
+	dbo:wikiPageRedirects	dbr:Kim_Jong-il .
+dbr:Kim_Chen_Ir	dbo:wikiPageWikiLink	dbr:Kim_Jong-il ;
+	dbo:wikiPageRedirects	dbr:Kim_Jong-il .
+dbr:Kim_Chong-Il	dbo:wikiPageWikiLink	dbr:Kim_Jong-il ;
+	dbo:wikiPageRedirects	dbr:Kim_Jong-il .
+dbr:Kim_Chong-il	dbo:wikiPageWikiLink	dbr:Kim_Jong-il ;
+	dbo:wikiPageRedirects	dbr:Kim_Jong-il .
+dbr:Kim_Chong_Il	dbo:wikiPageWikiLink	dbr:Kim_Jong-il ;
+	dbo:wikiPageRedirects	dbr:Kim_Jong-il .
+dbr:Kim_Chongil	dbo:wikiPageWikiLink	dbr:Kim_Jong-il ;
+	dbo:wikiPageRedirects	dbr:Kim_Jong-il .
+dbr:Kim_Chung-il	dbo:wikiPageWikiLink	dbr:Kim_Jong-il ;
+	dbo:wikiPageRedirects	dbr:Kim_Jong-il .
+<http://dbpedia.org/resource/Kim_Ch\u014Fng-il>	dbo:wikiPageWikiLink	dbr:Kim_Jong-il ;
+	dbo:wikiPageRedirects	dbr:Kim_Jong-il .
+dbr:Kim_Jeong-il	dbo:wikiPageWikiLink	dbr:Kim_Jong-il ;
+	dbo:wikiPageRedirects	dbr:Kim_Jong-il .
+dbr:Kim_Jon-il	dbo:wikiPageWikiLink	dbr:Kim_Jong-il ;
+	dbo:wikiPageRedirects	dbr:Kim_Jong-il .
+dbr:Kim_Jon_il	dbo:wikiPageWikiLink	dbr:Kim_Jong-il ;
+	dbo:wikiPageRedirects	dbr:Kim_Jong-il .
+dbr:Kim_Jong-II	dbo:wikiPageWikiLink	dbr:Kim_Jong-il ;
+	dbo:wikiPageRedirects	dbr:Kim_Jong-il .
+dbr:Kim_Jong-Il	dbo:wikiPageWikiLink	dbr:Kim_Jong-il ;
+	dbo:wikiPageRedirects	dbr:Kim_Jong-il .
+dbr:Kim_Jong-Ill	dbo:wikiPageWikiLink	dbr:Kim_Jong-il ;
+	dbo:wikiPageRedirects	dbr:Kim_Jong-il .
+dbr:Kim_Jong-iI	dbo:wikiPageWikiLink	dbr:Kim_Jong-il ;
+	dbo:wikiPageRedirects	dbr:Kim_Jong-il .
+dbr:Kim_Jong_IL	dbo:wikiPageWikiLink	dbr:Kim_Jong-il ;
+	dbo:wikiPageRedirects	dbr:Kim_Jong-il .
+dbr:Kim_Jong_Ihl	dbo:wikiPageWikiLink	dbr:Kim_Jong-il ;
+	dbo:wikiPageRedirects	dbr:Kim_Jong-il .
+dbr:Kim_Jong_Il	dbo:wikiPageWikiLink	dbr:Kim_Jong-il ;
+	dbo:wikiPageRedirects	dbr:Kim_Jong-il .
+dbr:Kim_Jong_Ill	dbo:wikiPageWikiLink	dbr:Kim_Jong-il ;
+	dbo:wikiPageRedirects	dbr:Kim_Jong-il .
+dbr:Kim_Jong_il	dbo:wikiPageWikiLink	dbr:Kim_Jong-il ;
+	dbo:wikiPageRedirects	dbr:Kim_Jong-il .
+dbr:Kim_Jun_Il	dbo:wikiPageWikiLink	dbr:Kim_Jong-il ;
+	dbo:wikiPageRedirects	dbr:Kim_Jong-il .
+dbr:Kim_Jung-Il	dbo:wikiPageWikiLink	dbr:Kim_Jong-il ;
+	dbo:wikiPageRedirects	dbr:Kim_Jong-il .
+dbr:Kim_Jung-il	dbo:wikiPageWikiLink	dbr:Kim_Jong-il ;
+	dbo:wikiPageRedirects	dbr:Kim_Jong-il .
+dbr:Kim_Jung_Il	dbo:wikiPageWikiLink	dbr:Kim_Jong-il ;
+	dbo:wikiPageRedirects	dbr:Kim_Jong-il .
+dbr:Kim_Jung_Ill	dbo:wikiPageWikiLink	dbr:Kim_Jong-il ;
+	dbo:wikiPageRedirects	dbr:Kim_Jong-il .
+<http://dbpedia.org/resource/Kim_J\u014Fng-il>	dbo:wikiPageWikiLink	dbr:Kim_Jong-il ;
+	dbo:wikiPageRedirects	dbr:Kim_Jong-il .
+<http://dbpedia.org/resource/Kim_Song-chol_(politician)>	<http://dbpedia.org/property/1namedata>	dbr:Kim_Jong-il ;
+	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Kim_The_Second	dbo:wikiPageWikiLink	dbr:Kim_Jong-il ;
+	dbo:wikiPageRedirects	dbr:Kim_Jong-il .
+dbr:Kim_il_Jong	dbo:wikiPageWikiLink	dbr:Kim_Jong-il ;
+	dbo:wikiPageRedirects	dbr:Kim_Jong-il .
+dbr:Kim_il_jung	dbo:wikiPageWikiLink	dbr:Kim_Jong-il ;
+	dbo:wikiPageRedirects	dbr:Kim_Jong-il .
+dbr:Kim_jong_2	dbo:wikiPageWikiLink	dbr:Kim_Jong-il ;
+	dbo:wikiPageRedirects	dbr:Kim_Jong-il .
+dbr:Kim_jong_Il	dbo:wikiPageWikiLink	dbr:Kim_Jong-il ;
+	dbo:wikiPageRedirects	dbr:Kim_Jong-il .
+dbr:Kim_jong_il	dbo:wikiPageWikiLink	dbr:Kim_Jong-il ;
+	dbo:wikiPageRedirects	dbr:Kim_Jong-il .
+dbr:Kim_jongil	dbo:wikiPageWikiLink	dbr:Kim_Jong-il ;
+	dbo:wikiPageRedirects	dbr:Kim_Jong-il .
+dbr:Kim_the_Second	dbo:wikiPageWikiLink	dbr:Kim_Jong-il ;
+	dbo:wikiPageRedirects	dbr:Kim_Jong-il .
+dbr:Kin_Jong-il	dbo:wikiPageWikiLink	dbr:Kim_Jong-il ;
+	dbo:wikiPageRedirects	dbr:Kim_Jong-il .
+dbr:Kim_jong-il	dbo:wikiPageWikiLink	dbr:Kim_Jong-il ;
+	dbo:wikiPageRedirects	dbr:Kim_Jong-il .
+<http://dbpedia.org/resource/\u91D1\u6B63\u65E5>	dbo:wikiPageWikiLink	dbr:Kim_Jong-il ;
+	dbo:wikiPageRedirects	dbr:Kim_Jong-il .
+<http://dbpedia.org/resource/\uAE40\uC815\uC77C>	dbo:wikiPageWikiLink	dbr:Kim_Jong-il ;
+	dbo:wikiPageRedirects	dbr:Kim_Jong-il .
+<http://dbpedia.org/resource/Kim_Jong-il\u0027s_parka>	dbo:wikiPageWikiLink	dbr:Kim_Jong-il ;
+	dbo:wikiPageRedirects	dbr:Kim_Jong-il .
+<http://dbpedia.org/resource/Kim_Jong\u2011il>	dbo:wikiPageWikiLink	dbr:Kim_Jong-il ;
+	dbo:wikiPageRedirects	dbr:Kim_Jong-il .
+dbr:Gim_Jeongil	dbo:wikiPageWikiLink	dbr:Kim_Jong-il ;
+	dbo:wikiPageRedirects	dbr:Kim_Jong-il .
+dbr:Gim_Jeong-il	dbo:wikiPageWikiLink	dbr:Kim_Jong-il ;
+	dbo:wikiPageRedirects	dbr:Kim_Jong-il .
+dbr:Gim_Jeong_Il	dbo:wikiPageWikiLink	dbr:Kim_Jong-il ;
+	dbo:wikiPageRedirects	dbr:Kim_Jong-il .
+dbr:KIM_JONG_IL	dbo:wikiPageWikiLink	dbr:Kim_Jong-il ;
+	dbo:wikiPageRedirects	dbr:Kim_Jong-il .
+dbr:List_of_North_Korean_actors	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+<http://dbpedia.org/resource/1999_in_North_Korea>	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+<http://dbpedia.org/resource/2002_in_North_Korea>	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+<http://dbpedia.org/resource/2003_in_North_Korea>	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Kim_Il	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+<http://dbpedia.org/resource/Kim_Yong-il_(disambiguation)>	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+<http://dbpedia.org/resource/6th_Central_Committee_of_the_Workers\u0027_Party_of_Korea>	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Hye-kyung	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+<http://dbpedia.org/resource/It\u0027s_Always_Sunny_in_Philadelphia_(season_3)>	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+<http://dbpedia.org/resource/2006_in_North_Korea>	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+<http://dbpedia.org/resource/2007_in_North_Korea>	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+<http://dbpedia.org/resource/2008_in_North_Korea>	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Order_of_Freedom_and_Independence	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:The_Dear_Leader	dbo:wikiPageWikiLink	dbr:Kim_Jong-il ;
+	dbo:wikiPageRedirects	dbr:Kim_Jong-il .
+<http://dbpedia.org/resource/3rd_Conference_of_the_Workers\u0027_Party_of_Korea>	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Yura	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Kim-Jong-il	dbo:wikiPageWikiLink	dbr:Kim_Jong-il ;
+	dbo:wikiPageRedirects	dbr:Kim_Jong-il .
+dbr:Kim-jong_il	dbo:wikiPageWikiLink	dbr:Kim_Jong-il ;
+	dbo:wikiPageRedirects	dbr:Kim_Jong-il .
+dbr:Kim_Jong	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+<http://dbpedia.org/resource/Kim_Jong\u0027il>	dbo:wikiPageWikiLink	dbr:Kim_Jong-il ;
+	dbo:wikiPageRedirects	dbr:Kim_Jong-il .
+dbr:Kim_Jong_II	dbo:wikiPageWikiLink	dbr:Kim_Jong-il ;
+	dbo:wikiPageRedirects	dbr:Kim_Jong-il .
+dbr:Kim_Jongil	dbo:wikiPageWikiLink	dbr:Kim_Jong-il ;
+	dbo:wikiPageRedirects	dbr:Kim_Jong-il .
+dbr:Jong-il_Kim	dbo:wikiPageWikiLink	dbr:Kim_Jong-il ;
+	dbo:wikiPageRedirects	dbr:Kim_Jong-il .
+dbr:Jong_Il_Kim	dbo:wikiPageWikiLink	dbr:Kim_Jong-il ;
+	dbo:wikiPageRedirects	dbr:Kim_Jong-il .
+dbr:Choe_Sang-gon	<http://dbpedia.org/property/1namedata>	dbr:Kim_Jong-il ;
+	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Yura_Kim	dbo:wikiPageWikiLink	dbr:Kim_Jong-il ;
+	dbo:wikiPageRedirects	dbr:Kim_Jong-il .
+dbr:Yuri_Irsenovich_Kim	dbo:wikiPageWikiLink	dbr:Kim_Jong-il ;
+	dbo:wikiPageRedirects	dbr:Kim_Jong-il .
+dbr:Yuri_Kim	dbo:wikiPageWikiLink	dbr:Kim_Jong-il ;
+	dbo:wikiPageRedirects	dbr:Kim_Jong-il .
+dbr:Ri_Mu-yong	<http://dbpedia.org/property/1namedata>	dbr:Kim_Jong-il ;
+	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Jin_Zhengri	dbo:wikiPageWikiLink	dbr:Kim_Jong-il ;
+	dbo:wikiPageRedirects	dbr:Kim_Jong-il .
+<http://dbpedia.org/resource/\u042E\u0440\u0438\u0439_\u0418\u0440\u0441\u0435\u043D\u043E\u0432\u0438\u0447_\u041A\u0438\u043C>	dbo:wikiPageWikiLink	dbr:Kim_Jong-il ;
+	dbo:wikiPageRedirects	dbr:Kim_Jong-il .
+dbr:Kim_Ik-hyon__Tenure__1	dbo:leader	dbr:Kim_Jong-il .
+dbr:Kim_Ki-nam__Tenure__1	dbo:leader	dbr:Kim_Jong-il .
+dbr:Kim_Kuk-thae__Tenure__1	dbo:leader	dbr:Kim_Jong-il .
+<http://dbpedia.org/resource/Kim_Kwang-jin_(politician)__Tenure__1>	dbo:leader	dbr:Kim_Jong-il .
+dbr:Kim_Kye-gwan__Tenure__1	dbo:leader	dbr:Kim_Jong-il .
+dbr:Kim_Phyong-hae__Tenure__2	dbo:leader	dbr:Kim_Jong-il .
+dbr:Kim_Pong-ryul__Tenure__1	dbo:leader	dbr:Kim_Jong-il .
+dbr:Kim_Yong-il__Tenure__1	dbo:leader	dbr:Kim_Jong-il .
+dbr:Yang_Hyong-sop__Tenure__1	dbo:leader	dbr:Kim_Jong-il .
+dbr:Hong_Song-nam__Tenure__1	dbo:leader	dbr:Kim_Jong-il .
+dbr:Ju_To-il__Tenure__1	dbo:leader	dbr:Kim_Jong-il .
+dbr:O_Jin-u__Tenure__1	dbo:leader	dbr:Kim_Jong-il .
+dbr:O_Kuk-ryol__Tenure__1	dbo:leader	dbr:Kim_Jong-il .
+dbr:Sim_Chol-ho__Tenure__3	dbo:leader	dbr:Kim_Jong-il .
+dbr:Choe_In-dok__Tenure__1	dbo:leader	dbr:Kim_Jong-il .
+dbr:Choe_Thae-bok__Tenure__1	dbo:leader	dbr:Kim_Jong-il .
+dbr:Kim_Jong-un__Tenure__1	dbo:predecessor	dbr:Kim_Jong-il .
+dbr:Kim_Jong-un__Tenure__4	dbo:predecessor	dbr:Kim_Jong-il .
+dbr:Kim_Jong-un__Tenure__5	dbo:predecessor	dbr:Kim_Jong-il .
+dbr:Kim_Jong-un__Tenure__6	dbo:predecessor	dbr:Kim_Jong-il .
+dbr:Kim_Il-sung__Tenure__1	dbo:successor	dbr:Kim_Jong-il .
+dbr:Kim_Il-sung__Tenure__4	dbo:successor	dbr:Kim_Jong-il .
+dbr:Kim_Il-sung__Tenure__5	dbo:successor	dbr:Kim_Jong-il .
+dbr:Kim_Yong-ju__Tenure__4	dbo:successor	dbr:Kim_Jong-il .
+<http://dbpedia.org/resource/64th_Primetime_Creative_Arts_Emmy_Awards>	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Amy_Poehler	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+<http://dbpedia.org/resource/The_Tale_of_Shim_Chong_(film)>	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Abduction_of_Shin_Sang-ok_and_Choi_Eun-hee	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+<http://dbpedia.org/resource/Taep\u0027oong_International_Investment_Group_of_Korea>	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+wikipedia-en:Kim_Jong-il	foaf:primaryTopic	dbr:Kim_Jong-il .
+dbr:Korea	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:The_Interview	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+<http://dbpedia.org/resource/Michael_Leavitt_(artist)>	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Official_Portraits	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Politics_of_Libya_under_Muammar_Gaddafi	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:January_2016_North_Korean_nuclear_test	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Kumsusan_Palace_of_the_Sun	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Family_dictatorship	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:List_of_heads_of_state_and_government_who_died_in_office	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Ambassador_of_North_Korea_to_Mexico	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+<http://dbpedia.org/resource/Korean_People\u0027s_Army>	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Korean_nationalist_historiography	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Northern_Limit_Line	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Korean_War_POWs_detained_in_North_Korea	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Haeju	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:List_of_wars_involving_North_Korea	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Timeline_of_Korean_history	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+<http://dbpedia.org/resource/2017_in_North_Korea>	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:List_of_photo_manipulation_controversies	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Day_of_the_Foundation_of_the_Republic	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Kim_Il-sung_bibliography	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Kimilsungia	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:On_the_Juche_Idea	dbo:author	dbr:Kim_Jong-il ;
+	dbp:author	dbr:Kim_Jong-il ;
+	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Juche_Tower	dbp:designer	dbr:Kim_Jong-il ;
+	dbo:designer	dbr:Kim_Jong-il ;
+	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:My_Home_Village	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+<http://dbpedia.org/resource/Yes_We_Can_(will.i.am_song)>	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Embalming	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Michael_Malice	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Kanji_of_the_year	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Purge	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Frank_Zappa_in_popular_culture	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Kang_Hyong-bong	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Kang_Ki-sop	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Kang_Phyo-yong	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Ri_Je-gang	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Kim_Bo-hyon	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Kim_Chol	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Kim_Chol-man	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Kim_Hyong-gwon	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Kim_Hyong-jik	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Kim_Hyong-ryong	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Kim_Ik-hyon	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+<http://dbpedia.org/resource/Kim_Il_(politician)>	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Kim_Jong-chul	dbp:parents	dbr:Kim_Jong-il ;
+	dbo:parent	dbr:Kim_Jong-il ;
+	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Kim_Jong-gak	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Kim_Jong-suk	dbo:wikiPageWikiLink	dbr:Kim_Jong-il ;
+	dbp:children	dbr:Kim_Jong-il ;
+	dbo:child	dbr:Kim_Jong-il .
+dbr:Kim_Kuk-thae	dbo:wikiPageWikiLink	dbr:Kim_Jong-il ;
+	dbp:leader	dbr:Kim_Jong-il .
+<http://dbpedia.org/resource/Kim_Kwang-jin_(politician)>	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Kim_Kyong-hui	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Kim_Kyong-ok	<http://dbpedia.org/property/1namedata>	dbr:Kim_Jong-il ;
+	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Kim_Man-il	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Kim_Ok	dbp:partner	dbr:Kim_Jong-il ;
+	dbo:partner	dbr:Kim_Jong-il ;
+	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Kim_Phyong-hae	dbo:wikiPageWikiLink	dbr:Kim_Jong-il ;
+	dbp:leader	dbr:Kim_Jong-il .
+dbr:Kim_Pyong-il	<http://dbpedia.org/property/1namedata>	dbr:Kim_Jong-il ;
+	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Kim_Pyong-ryul	<http://dbpedia.org/property/1namedata>	dbr:Kim_Jong-il ;
+	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Kim_Ryong-yon	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+<http://dbpedia.org/resource/Kim_Seong-min_(defector)>	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Kim_Sol-song	dbp:parents	dbr:Kim_Jong-il ;
+	dbo:parent	dbr:Kim_Jong-il ;
+	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Kim_To-man	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Kim_Won-gyun	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Kim_Won-hong	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Kim_Yang-gon	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Kim_Yo-jong	dbp:parents	dbr:Kim_Jong-il ;
+	dbo:parent	dbr:Kim_Jong-il ;
+	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Kim_Yong-chun	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Kim_Yong-il	dbo:wikiPageWikiLink	dbr:Kim_Jong-il ;
+	dbp:leader	dbr:Kim_Jong-il .
+dbr:Kim_Yong-ju	dbo:wikiPageWikiLink	dbr:Kim_Jong-il ;
+	dbp:successor	dbr:Kim_Jong-il .
+dbr:Kim_Yong-nam	<http://dbpedia.org/property/1namedata>	dbr:Kim_Jong-il ;
+	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Kim_Yong-sun	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Kim_Young-sik	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Kim_Young-sook	dbo:spouse	dbr:Kim_Jong-il ;
+	dbo:wikiPageWikiLink	dbr:Kim_Jong-il ;
+	dbp:spouse	dbr:Kim_Jong-il .
+dbr:Ko_Yong-hui	dbp:partner	dbr:Kim_Jong-il ;
+	dbo:partner	dbr:Kim_Jong-il ;
+	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Ra_Jong-yil	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:O_Il-jong	<http://dbpedia.org/property/1namedata>	dbr:Kim_Jong-il ;
+	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:O_Jin-u	dbo:wikiPageWikiLink	dbr:Kim_Jong-il ;
+	dbp:leader	dbr:Kim_Jong-il .
+dbr:Kang_Kwan-il	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Choe_Hyon	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Choe_Ik-gyu	dbp:author	dbr:Kim_Jong-il ;
+	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Choe_In-dok	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Choe_Kwang	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Choe_Kyong-song	<http://dbpedia.org/property/1namedata>	dbr:Kim_Jong-il ;
+	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Choe_Ryong-hae	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Choe_Sang-ryo	<http://dbpedia.org/property/1namedata>	dbr:Kim_Jong-il ;
+	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Choe_Thae-bok	dbo:wikiPageWikiLink	dbr:Kim_Jong-il ;
+	dbp:leader	dbr:Kim_Jong-il .
+dbr:Choe_Yong-rim	<http://dbpedia.org/property/1namedata>	dbr:Kim_Jong-il ;
+	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Choi_Eun-hee	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Chung_Mong-hun	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Gi_Ju-bong	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Ji_Seong-ho	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Jo_Myong-rok	<http://dbpedia.org/property/1namedata>	dbr:Kim_Jong-il ;
+	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Bae_Eun-sik	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Paek_Se-bong	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Kang_Kwan-ju	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Kang_Nung-su	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Kang_Pan-sok	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Kang_Sok-ju	<http://dbpedia.org/property/1namedata>	dbr:Kim_Jong-il ;
+	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Kang_Tong-yun	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Lee_Hee-ho	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Lee_Hoesung	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Lim_Chum-chu	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Zhou_Yongkang	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Song_Hye-rang	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Song_Hye-rim	dbp:partner	dbr:Kim_Jong-il ;
+	dbo:partner	dbr:Kim_Jong-il ;
+	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Hong_Il-chon	dbo:spouse	dbr:Kim_Jong-il ;
+	dbo:wikiPageWikiLink	dbr:Kim_Jong-il ;
+	dbp:spouse	dbr:Kim_Jong-il .
+dbr:Hong_Sok-hyong	<http://dbpedia.org/property/1namedata>	dbr:Kim_Jong-il ;
+	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Hong_Song-nam	dbo:wikiPageWikiLink	dbr:Kim_Jong-il ;
+	dbp:leader	dbr:Kim_Jong-il .
+dbr:Hyon_Chol-hae	<http://dbpedia.org/property/1namedata>	dbr:Kim_Jong-il ;
+	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Hyon_Song-wol	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Hyon_Yong-chol	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Hyung_Jin_Moon	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Hong_In-bom	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Kim_Myong-chol	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Kim_Chang-son	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Kim_Jong-im	<http://dbpedia.org/property/1namedata>	dbr:Kim_Jong-il ;
+	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Kim_Tal-hyon	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Andrei_Karlov	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Paek_Hak-rim	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Paek_Nam-sun	<http://dbpedia.org/property/1namedata>	dbr:Kim_Jong-il ;
+	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Pak_Jae-gyong	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Pak_Pong-ju	<http://dbpedia.org/property/1namedata>	dbr:Kim_Jong-il ;
+	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Pak_Ui-chun	<http://dbpedia.org/property/1namedata>	dbr:Kim_Jong-il ;
+	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Ri_Ho-jun	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Ri_Il-hwan	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Ri_Jae-il	<http://dbpedia.org/property/1namedata>	dbr:Kim_Jong-il ;
+	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Ri_Ryong-nam	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Ri_Sol-ju	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Ri_Su-yong	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Ri_Thae-nam	<http://dbpedia.org/property/1namedata>	dbr:Kim_Jong-il ;
+	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Ri_Ul-sol	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+<http://dbpedia.org/resource/Ri_Yong-ho_(general)>	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Ri_Yong-suk	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Ri_Myong-su	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Kwak_Pom-gi	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Ro_Song-sil	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Roh_Su-hui	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Shin_Dong-hyuk	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Shin_Sang-ok	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Shin_Suk-ja	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Sim_Chol-ho	dbo:wikiPageWikiLink	dbr:Kim_Jong-il ;
+	dbp:leader	dbr:Kim_Jong-il .
+dbr:Wang_Tuoh	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Kim_Pong-chol	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Nam_Il	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Suh_Hoon	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:O_Su-yong	<http://dbpedia.org/property/1namedata>	dbr:Kim_Jong-il ;
+	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Jon_Jae-son	<http://dbpedia.org/property/1namedata>	dbr:Kim_Jong-il ;
+	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Jon_Pyong-ho	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Jong_Song-ok	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Son_Jong-nam	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Woo_In-hee	dbp:partner	dbr:Kim_Jong-il ;
+	dbo:partner	dbr:Kim_Jong-il ;
+	dbo:knownFor	dbr:Kim_Jong-il ;
+	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Yon_Hyong-muk	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Yun_Jong-rin	<http://dbpedia.org/property/1namedata>	dbr:Kim_Jong-il ;
+	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Ju_Sang-song	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Pyongyang_Chewing_Gum_Factory	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Mercedes-Benz_G-Class	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Crimes_against_humanity_under_communist_regimes	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Korean_Air_incidents_and_accidents	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Songun	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Ryongchon_disaster	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Omsk_State_Library	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Chongnyon_Jonwi	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Koryolink	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+<http://dbpedia.org/resource/Chairman_of_the_Workers\u0027_Party_of_Korea>	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:No_Motherland_Without_You	dbp:country	dbr:Kim_Jong-il ;
+	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Ten_Principles_for_the_Establishment_of_a_Monolithic_Ideological_System	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+<http://dbpedia.org/resource/Ministry_of_State_Security_(North_Korea)>	dbp:officeholder	dbr:Kim_Jong-il ;
+	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Songbun	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Hwasong_concentration_camp	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Arirang_Mass_Games	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Strong_and_Prosperous_Nation	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Wangjaesan_Light_Music_Band	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+<http://dbpedia.org/resource/Index_of_North_Korea\u2013related_articles>	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Eternal_leaders_of_North_Korea	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Kim_Pong-ryul	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Ju_To-il	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+<http://dbpedia.org/resource/5th_Congress_of_the_Workers\u0027_Party_of_Korea>	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Magicians_Association_of_Korea	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Unbong_Line	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Unbong_station	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Hamhung_Grand_Theatre	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Kumsong_Tractor_Factory	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+<http://dbpedia.org/resource/Grand_People\u0027s_Study_House>	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Kimilsungist-Kimjongilist_Youth_League	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Kimjongsuk_County	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+<http://dbpedia.org/resource/Presidium_of_the_Politburo_of_the_Workers\u0027_Party_of_Korea>	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Pukbunaeryuk_Line	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Pungsan_dog	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Pyongyang_Golf_Course	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Pyongyang_University_of_Music_and_Dance	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Pornography_in_North_Korea	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+<http://dbpedia.org/resource/2010_in_North_Korea>	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:First_Lady_of_North_Korea	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Song_of_General_Kim_Jong-il	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+<http://dbpedia.org/resource/10th_Supreme_People\u0027s_Assembly>	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+<http://dbpedia.org/resource/11th_Supreme_People\u0027s_Assembly>	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:List_of_heads_of_state_of_North_Korea	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+<http://dbpedia.org/resource/Love,_Love,_My_Love>	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Choe_Hui-jong	<http://dbpedia.org/property/1namedata>	dbr:Kim_Jong-il ;
+	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Chollima_Steel_Complex	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+<http://dbpedia.org/resource/1986_North_Korean_parliamentary_election>	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+<http://dbpedia.org/resource/1990_North_Korean_parliamentary_election>	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+<http://dbpedia.org/resource/1998_North_Korean_parliamentary_election>	dbp:afterElection	dbr:Kim_Jong-il ;
+	dbp:beforeElection	dbr:Kim_Jong-il ;
+	dbo:wikiPageWikiLink	dbr:Kim_Jong-il ;
+	dbp:leader	dbr:Kim_Jong-il ;
+	dbo:firstLeader	dbr:Kim_Jong-il .
+dbr:Kang_Min-chol	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Kangdong_Residence	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Kanggye_Line	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Organization_and_Guidance_Department	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:List_of_Koreans_in_Japan	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Mansudae_Art_Troupe	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+<http://dbpedia.org/resource/2003_North_Korean_parliamentary_election>	dbp:afterElection	dbr:Kim_Jong-il ;
+	dbp:beforeElection	dbr:Kim_Jong-il ;
+	dbo:wikiPageWikiLink	dbr:Kim_Jong-il ;
+	dbp:leader	dbr:Kim_Jong-il ;
+	dbo:firstLeader	dbr:Kim_Jong-il .
+<http://dbpedia.org/resource/2009_North_Korean_parliamentary_election>	dbp:afterElection	dbr:Kim_Jong-il ;
+	dbp:beforeElection	dbr:Kim_Jong-il ;
+	dbo:wikiPageWikiLink	dbr:Kim_Jong-il ;
+	dbp:leader	dbr:Kim_Jong-il ;
+	dbo:firstLeader	dbr:Kim_Jong-il .
+<http://dbpedia.org/resource/1996_in_North_Korea>	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+<http://dbpedia.org/resource/1997_in_North_Korea>	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+<http://dbpedia.org/resource/1998_in_North_Korea>	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+<http://dbpedia.org/resource/2000_in_North_Korea>	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Ryongsong_Residence	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Samjiyon	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Vice_President_of_North_Korea	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Song_of_General_Kim_Il-sung	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Songun_Red_Flag-class_locomotive	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Hoeryong	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Jang_Jong-nam	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Steven_Rosefielde	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+<http://dbpedia.org/resource/North_Korea\u2013Rwanda_relations>	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Kim_Il-sung_Prize	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Kim_Ung-so_House	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+<http://dbpedia.org/resource/2005_in_North_Korea>	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:April_25_House_of_Culture	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Oleg_Shenin	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:On_Further_Improving_Party_Ideological_Work	dbo:author	dbr:Kim_Jong-il ;
+	dbp:author	dbr:Kim_Jong-il ;
+	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:On_the_Art_of_the_Cinema	dbo:author	dbr:Kim_Jong-il ;
+	dbp:author	dbr:Kim_Jong-il ;
+	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Order_of_Kim_Jong-il	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Red_Flag_Mangyongdae_Revolutionary_School	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Reminiscences_of_the_Anti-Japanese_Guerillas	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Residences_of_North_Korean_leaders	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Revolutionary_Site	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Ryangchonsa	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Pak_Kwan-o	<http://dbpedia.org/property/1namedata>	dbr:Kim_Jong-il ;
+	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+<http://dbpedia.org/resource/1994_in_North_Korea>	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+<http://dbpedia.org/resource/1995_in_North_Korea>	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Conscription_in_North_Korea	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:International_Kim_Jong-il_Prize	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Yanggakdo_International_Hotel	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+<http://dbpedia.org/resource/Commitment_(2013_film)>	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Kuunbong_station	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Day_of_Songun	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Party_Foundation_Day	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+<http://dbpedia.org/resource/People\u0027s_Prize>	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+<http://dbpedia.org/resource/Sinuiju_North_Korean_Leader\u0027s_Residence>	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Supreme_Guard_Command	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Taewonsu	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Jang_Chol	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Pothonggang_Department_Store	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+<http://dbpedia.org/resource/Namibia\u2013North_Korea_relations>	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:List_of_members_of_the_National_Defence_Commission	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Supung_Lake	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Heaven_Lake	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+<http://dbpedia.org/resource/Hero_of_Labor_(North_Korea)>	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Hero_of_the_Republic	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Monument_to_Party_Founding	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Moranbong	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Ullim_Falls	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Jong-il_Peak	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Jong_Myong-do	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+<http://dbpedia.org/resource/General_Political_Bureau_of_the_Korean_People\u0027s_Army>	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+<http://dbpedia.org/resource/Great_Party,_Rosy_Korea>	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:List_of_Koryo-saram	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:List_of_South_Korean_submissions_for_the_Academy_Award_for_Best_International_Feature_Film	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Chukjibeop	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Theses_on_the_Socialist_Rural_Question_in_Our_Country	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Tongil_Market	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:With_the_Century	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+<http://dbpedia.org/resource/Oh,_Youth!>	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Korean_Revolutionary_Opera	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+<http://dbpedia.org/resource/VI_Corps_(North_Korea)>	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Red_Flag_7-class_locomotive	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+<http://dbpedia.org/resource/Charter_of_the_Workers\u0027_Party_of_Korea>	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Madeleine_Albright	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Foreign_policy_of_the_Stephen_Harper_government	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+<http://dbpedia.org/resource/1941>	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Bill_Clinton	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+<http://dbpedia.org/resource/2004_in_rail_transport>	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+<http://dbpedia.org/resource/2006_North_Korean_nuclear_test>	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+<http://dbpedia.org/resource/2018_North_Korea\u2013United_States_Singapore_Summit>	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+<http://dbpedia.org/resource/30_Rock>	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Authoritarian_socialism	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Apotheosis	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Bolivarian_propaganda	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+<http://dbpedia.org/resource/Condoleezza_Rice\u0027s_tenure_as_Secretary_of_State>	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Truman_Taylor	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:List_of_international_presidential_trips_made_by_Vladimir_Putin	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Shinzo_Abe	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+<http://dbpedia.org/resource/National_Intelligence_Service_(South_Korea)>	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:NK_News	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Workers_World_Party	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Yang_Hyong-sop	dbo:wikiPageWikiLink	dbr:Kim_Jong-il ;
+	dbp:leader	dbr:Kim_Jong-il .
+dbr:February_16	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:July_8	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:June_13	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Chongjin	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Order_of_the_National_Flag	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:North_Korean_cuisine	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:List_of_ambassadors_of_North_Korea_to_Germany	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Viva_Radio_2	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Balloon_mail	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+<http://dbpedia.org/resource/Kim_Chong-t\u0027ae_Electric_Locomotive_Works>	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Land_of_the_Blind	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Film_manifesto	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+<http://dbpedia.org/resource/2009_in_North_Korea>	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+<http://dbpedia.org/resource/2004_in_North_Korea>	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+<http://dbpedia.org/resource/Festival_(1996_film)>	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Foreign_policy_of_the_Donald_Trump_administration	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Kwalliso	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:List_of_mummies	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Human_cannibalism	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:North_Korea	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+<http://dbpedia.org/resource/Foreign_policy_of_Donald_Trump_(2015\u201316)>	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Dictator	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Great_Leader	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+<http://dbpedia.org/resource/2011>	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+<http://dbpedia.org/resource/North_Korea\u2013United_States_relations>	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:North_Korean_famine	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:JibJab	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Cha_Chol-ma	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Down-with-Imperialism_Union	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+<http://dbpedia.org/resource/Iran\u2013Saudi_Arabia_proxy_conflict>	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Arif_Lohar	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+<http://dbpedia.org/resource/20th-century_events>	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Crime_of_apartheid	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:List_of_banned_films	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Supreme_leader	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Wikistrat	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:History_of_Libya_under_Muammar_Gaddafi	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Mercedes-Benz_600	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+@prefix ns7:	<http://dbpedia.org/resource/Team_America:> .
+ns7:_World_Police	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+<http://dbpedia.org/resource/North_Korea\u2013Sweden_relations>	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Freedom_to_Create_Prize	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Lee_Myung-bak	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:List_of_state_leaders_in_1994	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+<http://dbpedia.org/resource/2008_New_York_Philharmonic_visit_to_North_Korea>	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+<http://dbpedia.org/resource/2009_in_the_United_States>	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Ambassador_of_Sweden_to_North_Korea	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+@prefix ns8:	<http://dbpedia.org/resource/CNN/> .
+ns8:YouTube_presidential_debates	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Ri_Myung-hun	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:State_funeral	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+<http://dbpedia.org/resource/Communist_Party_of_Canada_(Marxist\u2013Leninist)>	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:List_of_figures_in_nationalism	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Father_of_the_Nation	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:February_1941	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:List_of_30_Rock_characters	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Korean_diaspora	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Charismatic_authority	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Manifesto	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Prostitution_in_North_Korea	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Capital_punishment_in_North_Korea	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Post-presidency_of_Jimmy_Carter	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Billy_Graham	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+<http://dbpedia.org/resource/2000_in_politics>	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Politics_and_sports	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Soramimi	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+<http://dbpedia.org/resource/2018_in_Brazil>	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Gangnam_Style_in_popular_culture	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:National_day_of_mourning	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:List_of_atheists_in_politics_and_law	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Fifth_column	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Criticism_of_communist_party_rule	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+<http://dbpedia.org/resource/Runaway_(1984_North_Korean_film)>	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+<http://dbpedia.org/resource/Laura_Lepist\u00F6>	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:An_Emissary_of_No_Return	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Im_Dienst_des_Diktators	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Room_39	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:List_of_ammonium_nitrate_disasters	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Rosario_Fiorello	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:DPRK_Amateur_Golf_Open	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Democratic_Kampuchea	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Chongryon	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Pong_Su_incident	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+<http://dbpedia.org/resource/Hugo_Ch\u00E1vez\u0027s_cult_of_personality>	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:List_of_people_with_the_Korean_family_name_Kim	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Korean_revolutionary_opera	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:On_the_Green_Carpet	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+<http://dbpedia.org/resource/What_Will_Happen_to_the_Gang_Next_Year%3F>	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Aegukka	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+<http://dbpedia.org/resource/Hungary\u2013North_Korea_relations>	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:The_Lovers_and_the_Despot	dbo:wikiPageWikiLink	dbr:Kim_Jong-il ;
+	dbp:starring	dbr:Kim_Jong-il ;
+	dbo:starring	dbr:Kim_Jong-il .
+dbr:Onwards_Toward_the_Final_Victory	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+<http://dbpedia.org/resource/Ch\u014Dsen_gakk\u014D>	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+<http://dbpedia.org/resource/2009_North_Korean_nuclear_test>	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:CollegeHumor	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Source_criticism	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:DPR_Korea_Premier_Football_League	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Chuo_University	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+<http://dbpedia.org/resource/Kim_dynasty_(North_Korea)>	dbp:members	dbr:Kim_Jong-il ;
+	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Cinema_of_North_Korea	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+<http://dbpedia.org/resource/2011_military_intervention_in_Libya>	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Commander-in-chief	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Absolute_monarchy	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+<http://dbpedia.org/resource/Foreign_policy_of_the_George_W._Bush_administration>	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Birthday	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Kim_Il-sung	dbo:wikiPageWikiLink	dbr:Kim_Jong-il ;
+	dbp:children	dbr:Kim_Jong-il ;
+	dbp:successor	dbr:Kim_Jong-il ;
+	dbp:next	dbr:Kim_Jong-il ;
+	dbo:child	dbr:Kim_Jong-il .
+dbr:Korean_reunification	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+<http://dbpedia.org/resource/2010s>	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:North_Korean_defectors	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:History_of_South_Korea	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+<http://dbpedia.org/resource/North_Korea\u2013Russia_relations>	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Ban_Ki-moon	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:List_of_United_States_presidential_firsts	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:List_of_ambassadors_of_North_Korea_to_the_United_Kingdom	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:List_of_concentration_and_internment_camps	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:List_of_state_leaders_in_2004	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:List_of_state_leaders_in_2007	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:List_of_state_leaders_in_2011	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:List_of_wars_and_anthropogenic_disasters_by_death_toll	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:George_Kennedy	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Beer_in_North_Korea	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+<http://dbpedia.org/resource/Lil\u0027_Bush>	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:North_Korean_abductions_of_Japanese_citizens	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+<http://dbpedia.org/resource/2011_in_politics>	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+<http://dbpedia.org/resource/2000_in_the_United_States>	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Military_service	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Monarchy	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Lying_in_state	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:North_Korean_cult_of_personality	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Official_state_car	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+<http://dbpedia.org/resource/1971>	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+<http://dbpedia.org/resource/21st_century>	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+<http://dbpedia.org/resource/2017>	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:List_of_state_leaders_in_1995	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:List_of_state_leaders_in_1996	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:List_of_state_leaders_in_1997	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:List_of_state_leaders_in_1998	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:List_of_state_leaders_in_1999	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:List_of_state_leaders_in_2001	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:List_of_state_leaders_in_2002	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:List_of_state_leaders_in_2003	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:List_of_state_leaders_in_2005	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:List_of_state_leaders_in_2006	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:List_of_state_leaders_in_2008	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:List_of_state_leaders_in_2009	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:List_of_state_leaders_in_2010	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Timeline_of_the_20th_century	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Foreign_relations_of_North_Korea	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Ima_Korean	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+<http://dbpedia.org/resource/International_Meeting_of_Communist_and_Workers\u0027_Parties>	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:List_of_Emberverse_characters	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Thae_Yong-ho	<http://dbpedia.org/property/1namedata>	dbr:Kim_Jong-il ;
+	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:United_World_Colleges	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Pornography_laws_by_region	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:List_of_ambassadors_of_the_United_Kingdom_to_North_Korea	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:List_of_banned_video_games	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Criticism_of_the_United_Nations	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:List_of_national_governments	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:List_of_political_leaders_who_held_active_military_ranks_in_office	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+<http://dbpedia.org/resource/List_of_state_leaders_in_the_20th_century_(1951\u20132000)>	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:List_of_state_leaders_in_the_21st_century	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Head_of_state	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+@prefix ns9:	<http://dbpedia.org/resource/Monster_X_Strikes_Back:> .
+ns9:_Attack_the_G8_Summit	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Mass_killings_under_communist_regimes	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Military_parade	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+<http://dbpedia.org/resource/Humanitarian_response_to_the_2011_T\u014Dhoku_earthquake_and_tsunami>	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+<http://dbpedia.org/resource/Opinions_Won\u0027t_Keep_You_Warm_at_Night>	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Pyongyang_Racer	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Time_Person_of_the_Year	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Title	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:North_Koreans_in_Russia	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+<http://dbpedia.org/resource/Kim_Jae-yeon_(politician)>	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Namsan_Senior_High_School	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+<http://dbpedia.org/resource/North\u2013South_differences_in_the_Korean_language>	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:On_the_Art_of_Opera	dbo:author	dbr:Kim_Jong-il ;
+	dbp:author	dbr:Kim_Jong-il ;
+	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+<http://dbpedia.org/resource/Korea_University_(Japan)>	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Hennessy	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Christophe_Lemoine	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+<http://dbpedia.org/resource/Sosnovy_Bor_(garrison)>	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Armoured_train	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Outline_of_North_Korea	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+<http://dbpedia.org/resource/Sakhalin\u2013Khabarovsk\u2013Vladivostok_pipeline>	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Rail_transport_in_North_Korea	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:President_for_life	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+<http://dbpedia.org/resource/Vyatskoye,_Khabarovsk_Krai>	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Communism_in_Korea	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:North_Korean_literature	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Moscow_Yaroslavsky_railway_station	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Yodok_concentration_camp	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Kenji_Fujimoto	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Day_of_the_Sun	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Public_holidays_in_North_Korea	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Brian_Reynolds_Myers	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Government_of_North_Korea	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:The_Cleanest_Race	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Mansu_Hill_Grand_Monument	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:KJI	dbo:wikiPageDisambiguates	dbr:Kim_Jong-il .
+dbr:Yury	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Ryang_Man-gil	<http://dbpedia.org/property/1namedata>	dbr:Kim_Jong-il ;
+	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Jang_Song-u	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Pak_Ki-so	<http://dbpedia.org/property/1namedata>	dbr:Kim_Jong-il ;
+	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Jong_Chang-ryol	<http://dbpedia.org/property/1namedata>	dbr:Kim_Jong-il ;
+	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Special_Task_Force_On_Organised_Crime	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Ramlan_Ibrahim	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+<http://dbpedia.org/resource/The_Falcon_and_the_D\u0027ohman>	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+<http://dbpedia.org/resource/Communist_Workers\u0027_Party_\u2013_For_Peace_and_Socialism>	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+dbr:Kim_Jong-il	rdf:type	foaf:Person .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Kim_Jong-il	rdf:type	yago:Owner110389398 ,
+		yago:Officeholder110371450 ,
+		yago:Official110372373 ,
+		yago:Serviceman110582746 ,
+		yago:SkilledWorker110605985 ,
+		yago:Politician110450303 ,
+		yago:Scholar110557854 ,
+		yago:Worker109632518 ,
+		yago:WikicatChildrenOfNationalLeaders ,
+		yago:Holder110180178 ,
+		dbo:Politician ,
+		yago:Alumnus109786338 ,
+		yago:Intellectual109621545 ,
+		yago:Leader109623038 ,
+		yago:MilitaryOfficer110317007 ,
+		yago:WikicatDeifiedPeople ,
+		yago:WikicatNorthKoreanPeople ,
+		yago:WikicatKoreanExpatriatesInTheSovietUnion ,
+		yago:WikicatAlumniOfTheUniversityOfMalta ,
+		yago:Writer110794014 ,
+		yago:WikicatNorthKoreanPoliticians ,
+		yago:Communicator109610660 .
+@prefix umbel-rc:	<http://umbel.org/umbel/rc/> .
+dbr:Kim_Jong-il	rdf:type	umbel-rc:PersonWithOccupation ,
+		yago:WikicatAsianFilmProducers ,
+		umbel-rc:Politician ,
+		umbel-rc:PresidentOfOrganization ,
+		yago:WikicatGeneralissimos .
+@prefix schema:	<http://schema.org/> .
+dbr:Kim_Jong-il	rdf:type	schema:Person ,
+		yago:CommanderInChief109941787 ,
+		dbo:Agent ,
+		yago:CausalAgent100007347 ,
+		dbo:Person ,
+		yago:Object100002684 ,
+		yago:Person100007846 ,
+		yago:PhysicalEntity100001930 ,
+		yago:Organism100004475 ,
+		yago:Whole100003553 ,
+		yago:YagoLegalActor ,
+		yago:YagoLegalActorGeo ,
+		yago:LivingThing100004258 ,
+		yago:Juvenile109622049 ,
+		yago:Child109917593 ,
+		dbo:OfficeHolder ,
+		yago:Representative110522035 ,
+		yago:CommandingOfficer109941964 ,
+		yago:Absentee109757653 ,
+		yago:HeadOfState110164747 ,
+		yago:Creator109614315 ,
+		yago:Exile110071332 ,
+		yago:Negotiator110351874 ,
+		yago:Traveler109629752 ,
+		yago:Producer110480018 ,
+		yago:FilmMaker110088390 ,
+		owl:Thing .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Kim_Jong-il	rdf:type	wikidata:Q24229398 ,
+		wikidata:Q82955 ,
+		wikidata:Q5 ,
+		yago:WikicatKoreanFilmProducers ,
+		yago:WikicatPeopleFromKhabarovskKrai ,
+		yago:WikicatHeadsOfStateOfNorthKorea ,
+		yago:WikicatKimIl-sungUniversityAlumni ,
+		yago:WikicatPeopleFromKhabarovskyDistrict .
+@prefix ns15:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Kim_Jong-il	rdf:type	ns15:NaturalPerson ,
+		ns15:Agent ,
+		wikidata:Q215627 ,
+		yago:WikicatLeadersOfPoliticalPartiesInNorthKorea ,
+		yago:Wikicat20th-centuryWriters .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Kim_Jong-il	rdfs:label	"Kim Jong-il"@in ,
+		"Kim Jong-il"@ga ,
+		"\u039A\u03B9\u03BC \u03A4\u03B6\u03BF\u03BD\u03B3\u03BA-\u03B9\u03BB"@el ,
+		"Kim Jong-il"@nl ,
+		"\u91D1\u6B63\u65E5"@ja ,
+		"Kim Jong-il"@sv ,
+		"Kim Jong-il"@es ,
+		"Kim \u011Cong-il"@eo ,
+		"Kim Dzong Il"@pl ,
+		"\u041A\u0456\u043C \u0427\u0435\u043D \u0406\u0440"@uk ,
+		"Kim Jong-il"@eu ,
+		"Kim Jong-il"@de ,
+		"\uAE40\uC815\uC77C"@ko ,
+		"Kim Jong-il"@ca ,
+		"\u0643\u0645 \u062C\u0648\u0646\u063A \u0625\u0644"@ar ,
+		"\u91D1\u6B63\u65E5"@zh ,
+		"Kim Jong-il"@fr ,
+		"Kim Jong-il"@en ,
+		"Kim Jong-il"@pt ,
+		"Kim Jong-il"@it ,
+		"\u041A\u0438\u043C \u0427\u0435\u043D \u0418\u0440"@ru ,
+		"Kim \u010Cong-il"@cs ;
+	rdfs:comment	"Bh\u00ED Kim Jong-il (Yuri Irsenovich Kim; 16 Feabhra 1941 \u2013 17 Nollaig 2011) ina Ardcheannaire ar an gC\u00F3ir\u00E9 Thuaidh idir 1994 agus l\u00E1 a bh\u00E1is sa bhliain 2011. Th\u00E1inig s\u00E9 i gcomharbacht ar a athair Kim Il-sung, bunaitheoir an st\u00E1it. Bh\u00ED Kim Jong-il ina Ard-R\u00FAna\u00ED ar Ph\u00E1irt\u00ED Oibrithe na C\u00F3ir\u00E9, Cathaoirleach ar Choimisi\u00FAn Cosanta N\u00E1isi\u00FAnta na C\u00F3ir\u00E9 Thuaidh, agus Ardcheannasa\u00ED ar Arm an Phobail, an ceathr\u00FA harm is m\u00F3 ar domhain. Nuair a fuair Kim Jong-il b\u00E1s a bhliain 2011, th\u00E1inig mac leis, Kim Jong-un, i gcomharbacht air."@ga ,
+		"Kim Jong-il, em coreano \u91D1\u6B63\u65E5; \uAE40\uC815\uC77C, (16 de fevereiro de 1941 \u2014 17 de dezembro de 2011) foi um chefe de Estado que, de 1994 a 2011, exerceu as fun\u00E7\u00F5es de L\u00EDder Supremo da Rep\u00FAblica Popular Democr\u00E1tica da Coreia e de Presidente da Comiss\u00E3o de Defesa Nacional da Coreia do Norte e Secret\u00E1rio-Geral do Partido dos Trabalhadores da Coreia \u2014 cargos m\u00E1ximos em \u00E2mbito militar e pol\u00EDtico da na\u00E7\u00E3o coreana. Kim Jong-il herdou do pai, Kim Il-Sung, o controle do governo norte-coreano, mantendo sua face autorit\u00E1ria e a centraliza\u00E7\u00E3o do poder. Kim Jong-il manteve a ideologia oficial juche, de completa autossufici\u00EAncia nacional, e um regime comunista totalit\u00E1rio de vi\u00E9s estalinista. Enfrentou san\u00E7\u00F5es econ\u00F4micas internacionais, carestia dentre seu povo e deteriora\u00E7\u00E3o da qualidade de vida da popula\u00E7\u00E3o, mas se m"@pt ,
+		"Kim Jong-il, f\u00F6dd 16 februari 1941 i  n\u00E4ra Chabarovsk i Sibirien eller 16 februari 1942 vid berget Paektu i d\u00E5varande Japanska Korea, d\u00F6d 17 december 2011 i Pyongyang, var Nordkoreas ledare tillika diktator mellan 1994 och 2011. Han innehade posterna som ordf\u00F6rande i den nationella f\u00F6rsvarskommitt\u00E9n och generalsekreterare i Koreas arbetarparti."@sv ,
+		"Kim Jong-il or Kim Jong Il (Korean: \uAE40\uC815\uC77C; Korean pronunciation: [kim.dz\u0254\u014B.il]; 16 February 1941 or 1942 \u2013 17 December 2011) was a North Korean politician who served as the second Supreme Leader of North Korea from 1994 to 2011. He led North Korea from the 1994 death of his father Kim Il-sung, North Korea\u2019s first Supreme Leader, until his own death in 2011, when he was succeeded by his son, Kim Jong-un."@en ,
+		"Kim Dzong Il (IPA: [\u0261\u030Aimd\u035Cz\u0254\u014Bil], kor. \uAE40\uC815\uC77C) (ur. 16 lutego 1941 we Wiatskoje, zm. 17 grudnia 2011 w Pjongjangu) \u2013 przyw\u00F3dca Korei P\u00F3\u0142nocnej w latach 1994\u20132011. By\u0142 nast\u0119pc\u0105 swego ojca i za\u0142o\u017Cyciela KRLD, Kim Ir Sena po jego \u015Bmierci w 1994. By\u0142 r\u00F3wnie\u017C sekretarzem generalnym Partii Pracy Korei, przewodnicz\u0105cym Narodowej Komisji Obrony, a tak\u017Ce marsza\u0142kiem i dow\u00F3dc\u0105 Korea\u0144skiej Armii Ludowej."@pl ,
+		"Kim \u010Cong-il, v anglick\u00E9m p\u0159episu Kim Jong-il, rusky: \u041A\u0438\u043C \u0427\u0435\u043D \u0418\u0440, Kim \u010Cen Ir, korejsky: \uAE40\uC815\uC77C, (16. \u00FAnora 1941,  pobl\u00ED\u017E Chabarovsku, Sov\u011Btsk\u00FD svaz /sov\u011Btsk\u00E9 prameny/ nebo 16. \u00FAnora 1942, Pektusan, Korea /severokorejsk\u00E9 prameny/ \u2013 17. prosince 2011, Severn\u00ED Korea) byl severokorejsk\u00FD politik, zast\u00E1nce u\u010Den\u00ED \u010Du\u010Dche, a od roku 1994 de facto v\u016Fdce Korejsk\u00E9 lidov\u011B demokratick\u00E9 republiky. B\u011Bhem sv\u00E9ho pobytu v SSSR pou\u017E\u00EDval jm\u00E9no Jurij Irsenovi\u010D Kim. Zem\u0159el na rozs\u00E1hl\u00FD srde\u010Dn\u00ED infarkt."@cs ,
+		"Kim Jong-il (\uAE40\uC815\uC77C?; Chabarovsk, 16 febbraio 1941 \u2013 Pyongyang, 17 dicembre 2011) \u00E8 stato un politico e dittatore nordcoreano. Ha governato la Corea del Nord dal 1994 fino alla morte. \u00C8 stato preceduto dal padre Kim Il-sung, che ha governato la Corea del Nord dal 1948 alla morte nel 1994 e che conserva a tutt'oggi il titolo di \"presidente eterno\". Kim Jong-il \u00E8 stato presidente della Commissione di difesa nazionale e segretario del Partito del Lavoro di Corea (nominato segretario generale eterno del partito nell'aprile 2012)."@it ,
+		"Kim Jong-il (1941eko otsailaren 16a - 2011ko abenduaren 17a) Koreako Herri Errepublika Demokratikoko diktadorea izan zen; herrialde hartako de facto , haren aita Kim Il-sung hil zenetik. Defentsa Batzordeko zuzendaria,  idazkari nagusia eta Armadako komandante gorena ere zen. Buruzagi Maitea, Gure Aita, Jenerala eta Generalissimo tituluekin aipatua da bere agintepeko hedabide ofizialetan. Kim Jong-ilen seme Kim Jong-un haren balizko ondorengo bilakatu zen."@eu ,
+		"Kim Jong-il (en chosongeul : \uAE40\uC815\uC77C et en hanja : \u91D1\u6B63\u65E5), n\u00E9 le 16 f\u00E9vrier 1941 ou 1942 et mort le 17 d\u00E9cembre 2011, est un homme d'\u00C9tat nord-cor\u00E9en, dirigeant de la Cor\u00E9e du Nord de 1994 \u00E0 sa mort en 2011. Kim Jong-il meurt le 17 d\u00E9cembre 2011. Son plus jeune fils Kim Jong-un lui succ\u00E8de au pouvoir, maintenant la lign\u00E9e du mont Paektu \u00E0 la t\u00EAte de la Cor\u00E9e du Nord. Son jour de naissance est un jour f\u00E9ri\u00E9 en Cor\u00E9e du Nord \u00AB f\u00EAte nationale \u00E0 sa m\u00E9moire \u00BB."@fr ,
+		"\u039F \u039A\u03B9\u03BC \u03A4\u03B6\u03BF\u03BD\u03B3\u03BA-\u03B9\u03BB \u03AE \u03BF \u039A\u03B9\u03BC \u0393\u03B9\u03BF\u03BD\u03B3\u03BA \u0399\u03BB (16 \u03A6\u03B5\u03B2\u03C1\u03BF\u03C5\u03B1\u03C1\u03AF\u03BF\u03C5 1941 - 17 \u0394\u03B5\u03BA\u03B5\u03BC\u03B2\u03C1\u03AF\u03BF\u03C5 2011) \u03AE\u03C4\u03B1\u03BD \u03BF \u03B7\u03B3\u03AD\u03C4\u03B7\u03C2 \u03C4\u03B7\u03C2 \u0392\u03CC\u03C1\u03B5\u03B9\u03B1\u03C2 \u039A\u03BF\u03C1\u03AD\u03B1\u03C2. \u0394\u03B9\u03B1\u03B4\u03AD\u03C7\u03C4\u03B7\u03BA\u03B5 \u03C4\u03BF\u03BD \u03C0\u03B1\u03C4\u03AD\u03C1\u03B1 \u03C4\u03BF\u03C5, \u039A\u03B9\u03BC \u038A\u03BB-\u03C3\u03BF\u03BD\u03B3\u03BA, \u03BC\u03B5\u03C4\u03AC \u03C4\u03BF \u03B8\u03AC\u03BD\u03B1\u03C4\u03CC \u03C4\u03BF\u03C5, \u03C4\u03BF\u03BD \u0399\u03BF\u03CD\u03BB\u03B9\u03BF \u03C4\u03BF\u03C5 1994. \u0393\u03BD\u03C9\u03C3\u03C4\u03CC\u03C2 \u03C9\u03C2 \"\u03A0\u03BF\u03BB\u03C5\u03B1\u03B3\u03B1\u03C0\u03B7\u03BC\u03AD\u03BD\u03BF\u03C2 \u0397\u03B3\u03AD\u03C4\u03B7\u03C2\", \u03AE\u03C4\u03B1\u03BD \u03A0\u03C1\u03CC\u03B5\u03B4\u03C1\u03BF\u03C2 \u03C4\u03B7\u03C2 \u0395\u03C0\u03B9\u03C4\u03C1\u03BF\u03C0\u03AE\u03C2 \u0395\u03B8\u03BD\u03B9\u03BA\u03AE\u03C2 \u0386\u03BC\u03C5\u03BD\u03B1\u03C2 \u03BA\u03B1\u03B9 \u0393.\u0393. \u03C4\u03BF\u03C5 \u039A\u03CC\u03BC\u03BC\u03B1\u03C4\u03BF\u03C2 \u03C4\u03C9\u03BD \u0395\u03C1\u03B3\u03B1\u03C4\u03CE\u03BD \u03C4\u03B7\u03C2 \u039A\u03BF\u03C1\u03AD\u03B1\u03C2. \u03A4\u03BF \u03A3\u03B5\u03C0\u03C4\u03AD\u03BC\u03B2\u03C1\u03B9\u03BF \u03C4\u03BF\u03C5 2008 \u03B1\u03BE\u03B9\u03C9\u03BC\u03B1\u03C4\u03BF\u03CD\u03C7\u03BF\u03C2 \u03B4\u03C5\u03C4\u03B9\u03BA\u03AE\u03C2 \u03C5\u03C0\u03B7\u03C1\u03B5\u03C3\u03AF\u03B1\u03C2 \u03C0\u03BB\u03B7\u03C1\u03BF\u03C6\u03BF\u03C1\u03B9\u03CE\u03BD \u03BC\u03B5\u03C4\u03AD\u03B4\u03C9\u03C3\u03B5 \u03CC\u03C4\u03B9 \u03BF \u0392\u03BF\u03C1\u03B5\u03B9\u03BF\u03BA\u03BF\u03C1\u03B5\u03AC\u03C4\u03B7\u03C2 \u03B7\u03B3\u03AD\u03C4\u03B7\u03C2 \u03B5\u03AF\u03C7\u03B5 \u03C5\u03C0\u03BF\u03C3\u03C4\u03B5\u03AF \u03B5\u03B3\u03BA\u03B5\u03C6\u03B1\u03BB\u03B9\u03BA\u03CC \u03B5\u03C0\u03B5\u03B9\u03C3\u03CC\u03B4\u03B9\u03BF \u03BA\u03B1\u03B9 \u03C4\u03BF \u03B3\u03B5\u03B3\u03BF\u03BD\u03CC\u03C2 \u03BA\u03C1\u03B1\u03C4\u03AE\u03B8\u03B7\u03BA\u03B5 \u03BC\u03C5\u03C3\u03C4\u03B9\u03BA\u03CC \u03B1\u03C0\u03CC \u03C4\u03B9\u03C2 \u03B1\u03C1\u03C7\u03AD\u03C2. \u03A4\u03B9\u03C2 \u03C6\u03AE\u03BC\u03B5\u03C2 \u03B3\u03B9\u03B1 \u03C4\u03B7\u03BD \u03C5\u03B3\u03B5\u03AF\u03B1 \u03C4\u03BF\u03C5 \u03B4\u03B9\u03B5\u03CD\u03C1\u03C5\u03BD\u03B5 \u03BA\u03B1\u03B9 \u03C4\u03BF \u03B3\u03B5\u03B3\u03BF\u03BD\u03CC\u03C2 \u03CC\u03C4\u03B9 \u03B4\u03B5\u03BD \u03C0\u03B1\u03C1\u03AD\u03C3\u03C4\u03B7 \u03C3\u03C4\u03BF\u03C5\u03C2 \u03B5\u03BF\u03C1\u03C4\u03B1\u03C3\u03BC\u03BF\u03CD\u03C2 \u03B3\u03B9\u03B1 \u03C4\u03B7\u03BD \u03B5\u03C0\u03AD\u03C4\u03B5\u03B9\u03BF \u03C4\u03B7\u03C2 \u03B1\u03BD\u03B5\u03BE\u03B1\u03C1\u03C4\u03B7\u03C3\u03AF\u03B1\u03C2 \u03C4\u03B7\u03C2 \u03C7\u03CE\u03C1\u03B1\u03C2 \u03C4\u03BF\u03C5. \u03A3\u03CD\u03BC\u03C6\u03C9\u03BD\u03B1 \u03BC\u03B5 \u03B1\u03BD\u03B1\u03BA\u03BF\u03AF\u03BD\u03C9\u03C3\u03B7 \u03C4\u03B7\u03C2 \u03BA\u03C1\u03B1\u03C4\u03B9\u03BA\u03AE\u03C2 \u03C4\u03B7\u03BB\u03B5\u03CC\u03C1\u03B1\u03C3\u03B7\u03C2 \u03C4\u03B7\u03C2 \u0392. \u039A\u03BF\u03C1\u03AD\u03B1\u03C2 \u03C0\u03BF\u03C5 \u03B1\u03BD\u03B1\u03BC\u03B5\u03C4\u03B1\u03B4\u03CC\u03B8\u03B7\u03BA\u03B5 \u03B1\u03C0\u03CC \u039C\u039C\u0395 \u03C3\u03B5 \u03CC\u03BB\u03BF\u03BD \u03C4\u03BF\u03BD \u03BA\u03CC\u03C3\u03BC\u03BF, \u03C0\u03AD\u03B8\u03B1\u03BD\u03B5 \u03C4\u03BF \u03A3\u03AC\u03B2\u03B2\u03B1\u03C4\u03BF 17 \u0394\u03B5\u03BA\u03B5\u03BC\u03B2\u03C1\u03AF\u03BF\u03C5 2011 \u03C3\u03B5 \u03B7\u03BB\u03B9\u03BA\u03AF\u03B1 70 \u03B5\u03C4\u03CE\u03BD \u03B1\u03C0\u03CC "@el ,
+		"\u0643\u064A\u0645 \u062C\u0648\u0646\u063A \u0625\u0644 (16 \u0641\u0628\u0631\u0627\u064A\u0631 1941 - 17 \u062F\u064A\u0633\u0645\u0628\u0631 2011) \u0631\u0626\u064A\u0633 \u0643\u0648\u0631\u064A\u0627 \u0627\u0644\u0634\u0645\u0627\u0644\u064A\u0629 \u0645\u0646\u0630 \u0639\u0627\u0645 1994 \u062D\u062A\u0649 \u0648\u0641\u0627\u062A\u0647\u060C \u0643\u0645\u0627 \u0634\u063A\u0644 \u0645\u0646\u0635\u0628 \u0645\u0633\u062A\u0634\u0627\u0631\u064A \u0644\u062C\u0646\u0629 \u0627\u0644\u062F\u0641\u0627\u0639 \u0627\u0644\u0642\u0648\u0645\u064A\u060C \u0648\u0627\u0644\u0642\u0627\u0626\u062F \u0627\u0644\u0623\u0639\u0644\u0649 \u0644\u062C\u064A\u0634 \u0643\u0648\u0631\u064A\u0627 \u0627\u0644\u0634\u0639\u0628\u064A\u060C \u0648\u0627\u0644\u0633\u0643\u0631\u062A\u064A\u0631 \u0627\u0644\u0639\u0627\u0645 \u0644\u062D\u0632\u0628 \u0627\u0644\u0639\u0645\u0627\u0644 \u0627\u0644\u0643\u0648\u0631\u064A (\u0627\u0644\u062D\u0632\u0628 \u0627\u0644\u062D\u0627\u0643\u0645 \u0645\u0646\u0630 1948) \u062A\u0648\u0644\u0649 \u0627\u0644\u062D\u0643\u0645 \u062E\u0644\u0641\u0627 \u0644\u0648\u0627\u0644\u062F\u0647 \u0643\u064A\u0645 \u0625\u0644 \u0633\u0648\u0646\u063A\u060C \u0645\u0624\u0633\u0633 \u0643\u0648\u0631\u064A\u0627 \u0627\u0644\u0634\u0645\u0627\u0644\u064A\u0629\u060C \u0627\u0644\u0630\u064A \u062A\u0648\u0641\u064A \u0641\u064A \u0627\u0644\u0639\u0627\u0645 1994. \u064A\u0634\u0627\u0631 \u0644\u0644\u0631\u0626\u064A\u0633 \u0628\u0640 \u0627\u0644\u0642\u0627\u0626\u062F \u0627\u0644\u0639\u0632\u064A\u0632 \u0648\u064A\u0639\u062F \u0627\u0644\u0627\u062D\u062A\u0641\u0627\u0644 \u0628\u0639\u064A\u062F \u0645\u064A\u0644\u0627\u062F\u0647 \u0645\u0646 \u0623\u0647\u0645 \u0627\u0644\u0623\u0639\u064A\u0627\u062F \u0627\u0644\u0648\u0637\u0646\u064A\u0629 \u0641\u064A \u0643\u0648\u0631\u064A\u0627 \u0627\u0644\u0634\u0645\u0627\u0644\u064A\u0629."@ar ,
+		"Kim Jong-il (en chos\u014Fn'g\u016Dl, \uAE40\uC815\uC77C; en hancha, \u91D1\u6B63\u65E5; Monte Paektu, 16 de febrero de 1942 - Pionyang, 17 de diciembre de 2011)\u200B fue un pol\u00EDtico y militar norcoreano. Fue presidente de la Comisi\u00F3n Nacional de Defensa, comandante supremo del Ej\u00E9rcito Popular de Corea y secretario general del Partido del Trabajo de Corea."@es ,
+		"\u041A\u0456\u043C \u0427\u0435\u043D \u0406\u0440 (\u043A\u043E\u0440. \uAE40\uC815\uC77C, \u0437\u0430 \u0441\u0438\u0441\u0442\u0435\u043C\u043E\u044E \u041A\u043E\u043D\u0446\u0435\u0432\u0438\u0447\u0430 \u2014 \u041A\u0456\u043C \u0414\u0436\u043E\u043D'\u0456\u043B\u044C; \u0456\u043C'\u044F \u043F\u0440\u0438 \u043D\u0430\u0440\u043E\u0434\u0436\u0435\u043D\u043D\u0456 \u2014 \u042E\u0440\u0456\u0439 \u0406\u0440\u0441\u0435\u043D\u043E\u0432\u0438\u0447 \u041A\u0456\u043C; 16 \u043B\u044E\u0442\u043E\u0433\u043E 1941 \u0430\u0431\u043E 1942 \u2014 17 \u0433\u0440\u0443\u0434\u043D\u044F 2011) \u2014 \u0433\u043E\u043B\u043E\u0432\u0430 \u041A\u043E\u0440\u0435\u0439\u0441\u044C\u043A\u043E\u0457 \u041D\u0430\u0440\u043E\u0434\u043D\u043E-\u0414\u0435\u043C\u043E\u043A\u0440\u0430\u0442\u0438\u0447\u043D\u043E\u0457 \u0420\u0435\u0441\u043F\u0443\u0431\u043B\u0456\u043A\u0438, \u0433\u0435\u043D\u0435\u0440\u0430\u043B\u044C\u043D\u0438\u0439 \u0441\u0435\u043A\u0440\u0435\u0442\u0430\u0440 \u0422\u0440\u0443\u0434\u043E\u0432\u043E\u0457 \u043F\u0430\u0440\u0442\u0456\u0457 \u041A\u043E\u0440\u0435\u0457, \u0412\u0435\u0440\u0445\u043E\u0432\u043D\u0438\u0439 \u0413\u043E\u043B\u043E\u0432\u043D\u043E\u043A\u043E\u043C\u0430\u043D\u0434\u0443\u0432\u0430\u0447 \u041A\u043E\u0440\u0435\u0439\u0441\u044C\u043A\u043E\u0457 \u043D\u0430\u0440\u043E\u0434\u043D\u043E\u0457 \u0430\u0440\u043C\u0456\u0457, \u0433\u043E\u043B\u043E\u0432\u0430 \u0414\u0435\u0440\u0436\u0430\u0432\u043D\u043E\u0433\u043E \u041A\u043E\u043C\u0456\u0442\u0435\u0442\u0443 \u043E\u0431\u043E\u0440\u043E\u043D\u0438 \u041A\u041D\u0414\u0420, \u0441\u0438\u043D \u00AB\u0432\u0435\u043B\u0438\u043A\u043E\u0433\u043E \u0432\u043E\u0436\u0434\u044F\u00BB \u041A\u0456\u043C \u0406\u0440 \u0421\u0435\u043D\u0430. \u041D\u0430 \u0432\u0456\u0434\u043C\u0456\u043D\u0443 \u0432\u0456\u0434 \u0431\u0430\u0442\u044C\u043A\u0430 \u043C\u0430\u0432 \u0442\u0438\u0442\u0443\u043B \u00AB\u0412\u0435\u043B\u0438\u043A\u0438\u0439 \u043A\u0435\u0440\u0456\u0432\u043D\u0438\u043A\u00BB (\uC704\uB300\uD55C \uB839\uB3C4\uC790), \u0440\u0430\u043D\u0456\u0448\u0435, \u0434\u043E \u0441\u043C\u0435\u0440\u0442\u0456 \u0431\u0430\u0442\u044C\u043A\u0430 \u2014 \u00AB\u0423\u043B\u044E\u0431\u043B\u0435\u043D\u0438\u0439 \u043A\u0435\u0440\u0456\u0432\u043D\u0438\u043A\u00BB (\uCE5C\uC560\uD558\uB294 \uC9C0\uB3C4\uC790). \u0419\u043E\u0433\u043E \u0447\u0430\u0441\u0442\u043E \u043D\u0430\u0437\u0438\u0432\u0430\u043B\u0438 \u0442\u0430\u043A\u043E\u0436 \u00AB\u041F\u043E\u043B\u043A\u043E\u0432\u043E\u0434\u0446\u0435\u043C\u00BB (\uC7A5\uAD70)."@uk ,
+		"Kim Jong-il (menurut versi resmi biografinya lahir 16 Februari 1942 \u2013 meninggal 17 Desember 2011 pada umur 69 tahun) telah menjabat sebagai pemimpin Korea Utara (Korut) sejak 1994. Ia menggantikan ayahnya, Kim Il-sung, yang telah memimpin Korut sejak 1948. Kim Jong-il diangkat menggunakan sistem di mana dialah satu-satunya calon pemimpin. Kim yang mendapat julukan Dear Leader juga menjabat sebagai Ketua Komisi Pertahanan Nasional dan Sekretaris Jenderal Partai Pekerja Korea. Ulang tahunnya dirayakan sebagai salah satu hari libur di Korut."@in ,
+		"\u91D1\u6B63\u65E5\uFF08\u671D\u9BAE\u8A9E\uFF1A\uAE40\uC815\uC77C\uFF0C1941\u5E742\u670816\u65E5\uFF0D2011\u5E7412\u670817\u65E5\uFF09\uFF0C\u662F\u671D\u9BAE\u6C11\u4E3B\u4E3B\u7FA9\u4EBA\u6C11\u5171\u548C\u570B\u7684\u7B2C\u4E8C\u4EE3\u6700\u9AD8\u9818\u5C0E\u4EBA\uFF0C\u671D\u9C9C\u52B3\u52A8\u515A\u6C38\u8FDC\u7684\u603B\u4E66\u8BB0\u3002\u751F\u524D\u64D4\u4EFB\u671D\u9BAE\u52DE\u52D5\u9EE8\u7E3D\u66F8\u8A18\u3001\u671D\u9BAE\u570B\u9632\u59D4\u54E1\u6703\u59D4\u54E1\u9577\u3001\u671D\u9BAE\u4EBA\u6C11\u8ECD\u6700\u9AD8\u53F8\u4EE4\u5B98\u53CA\u671D\u9BAE\u52DE\u52D5\u9EE8\u4E2D\u592E\u8ECD\u4E8B\u59D4\u54E1\u6703\u59D4\u54E1\u9577\u7B49\u8077\u52D9\u3002\u91D1\u6B63\u65E5\u662F\u671D\u9BAE\u5EFA\u570B\u9818\u5C0E\u4EBA\u91D1\u65E5\u6210\u9577\u5B50\uFF0C\u5176\u6BCD\u70BA\u91D1\u6B63\u6DD1\u3002\u91D1\u6B63\u65E5\u7ECF\u8FC7\u6700\u9AD8\u4EBA\u6C11\u4F1A\u8BAE\u9009\u4E3E\uFF0C\u64D4\u4EFB\u6700\u9AD8\u9886\u5BFC\u4EBA\uFF0C\u9818\u5C0E\u671D\u9BAE\u9577\u905417\u5E74\u3002 1992\u5E744\u670820\u65E5\u88AB\u6388\u4E88\u671D\u9C9C\u6C11\u4E3B\u4E3B\u4E49\u4EBA\u6C11\u5171\u548C\u56FD\u5143\u5E05\u519B\u8854\uFF08\u671D\u9C9C\u8BED\u79F0\u519B\u8854\u4E3A\u201C\u519B\u4E8B\u79F0\u53F7\u201D\uFF09\uFF0C2012\u5E742\u670814\u65E5\u88AB\u8FFD\u6388\u671D\u9C9C\u6C11\u4E3B\u4E3B\u4E49\u4EBA\u6C11\u5171\u548C\u56FD\u5927\u5143\u5E05\u519B\u4E8B\u79F0\u53F7\u30022012\u5E744\u670811\u65E5\u7684\u52B3\u52A8\u515A\u4EE3\u8868\u4F1A\u8BAE\u4E0A\u88AB\u62E5\u6234\u4E3A\u201C\u6C38\u8FDC\u7684\u603B\u4E66\u8BB0\u201D\uFF0C\u5C06\u671D\u9C9C\u52B3\u52A8\u515A\u603B\u6700\u9AD8\u9886\u5BFC\u4EBA\u7684\u804C\u79F0\u6539\u4E3A\u201C\u7B2C\u4E00\u4E66\u8BB0\u201D\uFF1B\u572813\u65E5\u7684\u7B2C12\u5C4A\u6700\u9AD8\u4EBA\u6C11\u4F1A\u8BAE\u7B2C5\u6B21\u4F1A\u8BAE\u4E0A\u88AB\u62E5\u6234\u4E3A\u300C\u6C38\u8FDC\u7684\u56FD\u9632\u59D4\u5458\u4F1A\u59D4\u5458\u957F\u300D\u3002"@zh ,
+		"Kim Jong-il (* 16. Februar 1941 in Wjatskoje, Russische SFSR, Sowjetunion als Juri Irsenowitsch Kim, russisch \u042E\u0440\u0438\u0439 \u0418\u0440\u0441\u0435\u043D\u043E\u0432\u0438\u0447 \u041A\u0438\u043C; offiziell * 16. Februar 1942 nahe dem Paektusan im Geheimlager Paektusan, Ch\u014Dsen; \u2020 17. Dezember 2011 in Pj\u00F6ngjang, Nordkorea) war ein nordkoreanischer kommunistischer Politiker und nach dem Tod seines Vaters Kim Il-sung als Generalsekret\u00E4r der Partei der Arbeit Koreas (PdAK), Vorsitzender der Nationalen Verteidigungskommission der Demokratischen Volksrepublik Korea und Oberster Befehlshaber der Koreanischen Volksarmee (KVA) von 1994 bis 2011 der stalinistische Diktator Nordkoreas."@de ,
+		"\u91D1 \u6B63\u65E5\uFF08\u30AD\u30E0\u30FB\u30B8\u30E7\u30F3\u30A4\u30EB\u3001\u671D\u9BAE\u8A9E: \uAE40\uC815\uC77C\u3001\u82F1\u8A9E: Kim Jong-il\u30011941\u5E742\u670816\u65E5 - 2011\u5E7412\u670817\u65E5\uFF09\u306F\u3001\u5317\u671D\u9BAE\u306E\u653F\u6CBB\u5BB6\u3001\u8ECD\u4EBA\u3002\u5317\u671D\u9BAE\u3092\u5EFA\u56FD\u3057\u305F\u91D1\u65E5\u6210\u306E\u9577\u7537\u3067\u3042\u308A\u7236\u306E\u6B7B\u5F8C\u3001\u540C\u56FD\u306E\u4E8B\u5B9F\u4E0A\u306E\u6700\u9AD8\u6307\u5C0E\u8005\u3068\u306A\u308B\u3002\u4EE5\u5F8C\u3001\u6B7B\u53BB\u3059\u308B\u307E\u3067\u671D\u9BAE\u52B4\u50CD\u515A\u4E2D\u592E\u59D4\u54E1\u4F1A\u7DCF\u66F8\u8A18\u3001\u671D\u9BAE\u6C11\u4E3B\u4E3B\u7FA9\u4EBA\u6C11\u5171\u548C\u56FD\u56FD\u9632\u59D4\u54E1\u4F1A\u59D4\u54E1\u9577\u3001\u671D\u9BAE\u4EBA\u6C11\u8ECD\u6700\u9AD8\u53F8\u4EE4\u5B98\u3001\u671D\u9BAE\u52B4\u50CD\u515A\u4E2D\u592E\u8ECD\u4E8B\u59D4\u54E1\u4F1A\u59D4\u54E1\u9577\u3001\u671D\u9BAE\u52B4\u50CD\u515A\u4E2D\u592E\u59D4\u54E1\u4F1A\u653F\u6CBB\u5C40\u5E38\u52D9\u59D4\u54E1\u3092\u52D9\u3081\u305F\u3002 \u79F0\u53F7\u306F\u671D\u9BAE\u6C11\u4E3B\u4E3B\u7FA9\u4EBA\u6C11\u5171\u548C\u56FD\u5143\u5E25\u3001\u671D\u9BAE\u6C11\u4E3B\u4E3B\u7FA9\u4EBA\u6C11\u5171\u548C\u56FD\u82F1\u96C4\uFF083\u56DE\u53D7\u7AE0\u3057\u3066\u304A\u308A\u300C\u4E09\u91CD\u82F1\u96C4\u300D\u3068\u79F0\u3055\u308C\u308B\uFF09\u3002\u6B7B\u5F8C\u3001\u671D\u9BAE\u6C11\u4E3B\u4E3B\u7FA9\u4EBA\u6C11\u5171\u548C\u56FD\u5927\u5143\u5E25\u306E\u79F0\u53F7\u3092\u8FFD\u8D08\u3055\u308C\u305F\u3002"@ja ,
+		"KIM \u011Cong-il (korea:\uAE40\uC815\uC77C - \u91D1\u6B63\u65E5; 16-a de februaro 1941 \u2013 17-a de decembro 2011) estis la estro de Nord-Koreio ekde 1994. Li estis la \u0108efo de la Nacia Defendo-Komisio, \u0108efkomandanto de la Korea Popola Armeo, kaj \u011Cenerala Sekretario de la Laborista Partio de Koreio. Li sekvis sian patron Kim Il-sung, la fondinto de Nord-Koreio, kiu forpasis en 1994. Anta\u016Dvidata posteulo estas Kim \u011Cong-un, la plej juna filo de Kim \u011Cong-il."@eo ,
+		"Kim Jong-il of Kim Ch\u014Fngil (Hangul: \uAE40\uC815\uC77C; Hanja: \u91D1\u6B63\u65E5; Vjatskoje, 16 februari 1942 (Juche 31) \u2013 omgeving van Pyongyang, 17 december 2011 (Juche 99)), tijdens zijn jeugd bekend als Joeri Irsenovitsj Kim (Russisch: \u042E\u0440\u0438\u0439 \u0418\u0440\u0441\u0435\u043D\u043E\u0432\u0438\u0447 \u041A\u0438\u043C), was van 1994 tot zijn overlijden in 2011 de leider van Noord-Korea. Hij was voorzitter van de Nationale Defensiecommissie, secretaris-generaal van de Koreaanse Arbeiderspartij en opperbevelhebber van het Koreaanse Volksleger. In al deze functies was hij de opvolger van zijn vader, Kim Il-sung."@nl ,
+		"\uAE40\uC815\uC77C(\u91D1\u6B63\u65E5, 1941\uB144 2\uC6D4 16\uC77C ~ 2011\uB144 12\uC6D4 17\uC77C)\uC740 \uC870\uC120\uBBFC\uC8FC\uC8FC\uC758\uC778\uBBFC\uACF5\uD654\uAD6D\uC758 \uCD5C\uACE0\uC9C0\uB3C4\uC790\uC774\uB2E4. \uC870\uC120\uBBFC\uC8FC\uC8FC\uC758\uC778\uBBFC\uACF5\uD654\uAD6D \uAD6D\uBC29\uC704\uC6D0\uD68C\uC758 \uC704\uC6D0\uC7A5\uC774\uC5C8\uC73C\uBA70 \uAE40\uC77C\uC131\uACFC \uAE40\uC815\uC219 \uC0AC\uC774\uC758 \uCCAB\uC9F8 \uC544\uB4E4\uC774\uB2E4. \uAE40\uC815\uC77C\uC740 \uC5B4\uB9B0 \uC2DC\uC808 \uD55C\uAD6D \uC804\uC7C1 \uB2F9\uC2DC \uD3C9\uC591\uC744 \uB5A0\uB098 \uAC04\uB3C4 \uC9C0\uC5ED\uC73C\uB85C \uC740\uC2E0\uD558\uC600\uC73C\uB098 \uC911\uAD6D\uC778\uBBFC\uC9C0\uC6D0\uAD70\uC758 \uCC38\uC804\uC73C\uB85C \uADC0\uD658\uD588\uB2E4. \uAE40\uC77C\uC131\uC885\uD569\uB300\uD559 \uC815\uCE58\uACBD\uC81C\uD559\uACFC\uB97C \uC878\uC5C5\uD558\uC600\uC73C\uBA70 1961\uB144 7\uC6D4 22\uC77C \uC870\uC120\uB85C\uB3D9\uB2F9\uC5D0 \uC785\uB2F9\uD55C \uC774\uD6C4\uBD80\uD130 \uC870\uC120\uB85C\uB3D9\uB2F9 \uC911\uC559\uC704\uC6D0\uD68C \uC704\uC6D0\uACFC \uBE44\uC11C \uB4F1\uC5D0 \uC784\uBA85\uB418\uC5C8\uB2E4. 1970\uB144\uB300\uBD80\uD130 \uAE40\uC77C\uC131\uC758 \uD6C4\uACC4\uC790\uB85C \uC8FC\uBAA9\uB418\uC5C8\uC73C\uBA70 1980\uB144 \uC81C6\uCC28 \uB2F9 \uB300\uD68C\uB97C \uD1B5\uD574\uC11C \uACF5\uC2DD\uC801\uC778 \uD6C4\uACC4\uC790\uAC00 \uB418\uC5C8\uB2E4. 1994\uB144 \uAE40\uC77C\uC131 \uAD6D\uAC00 \uC8FC\uC11D\uC758 \uC0AC\uB9DD \uC774\uD6C4\uC5D0 \uAD8C\uB825\uC744 \uC138\uC2B5\uD574 \uACF5\uD654\uAD6D\uC758 \uC2E4\uAD8C\uC744 \uC7A1\uC544 \uD1B5\uCE58\uC790\uAC00 \uB418\uC5C8\uACE0 \uACBD\uC81C\uC801 \uC0C1\uD669\uC774 \uB9E4\uC6B0 \uC88B\uC9C0 \uC54A\uC558\uB358 1993\uB144\uBD80\uD130 6\uB144 \uB3D9\uC548 \uC774\uB978\uBC14 \uACE0\uB09C\uC758 \uD589\uAD70 \uC2DC\uAE30\uB97C \uAC70\uCE58\uBA74\uC11C \uC7AC\uC815\uB0AD\uBE44\uB4F1\uC73C\uB85C \uBB34\uB2A5\uB825\uD55C \uC9C0\uB3C4\uC790\uB85C \uBE44\uD310\uBC1B\uC558\uB2E4. 2011\uB144 12\uC6D4 17\uC77C\uC5D0 \uAE09\uC131 \uC2EC\uADFC\uACBD\uC0C9\uC73C\uB85C \uC0AC\uB9DD\uD558\uBA74\uC11C \uAE40\uC815\uC77C\uC758 \uD6C4\uACC4 \uC790\uB9AC\uB294 \uADF8\uC758 \uC14B\uC9F8 \uC544\uB4E4\uC778 \uAE40\uC815\uC740\uC5D0\uAC8C \uC2B9\uACC4\uB418\uC5C8\uB2E4."@ko ,
+		"\u041A\u0438\u043C \u0427\u0435\u043D \u0418\u0440 (\u043A\u043E\u0440. \uAE40\uC815\uC77C?, \u91D1\u6B63\u65E5?;; 16 \u0444\u0435\u0432\u0440\u0430\u043B\u044F 1941 \u0438\u043B\u0438 1942 \u2014 17 \u0434\u0435\u043A\u0430\u0431\u0440\u044F 2011) \u2014 \u0441\u0435\u0432\u0435\u0440\u043E\u043A\u043E\u0440\u0435\u0439\u0441\u043A\u0438\u0439 \u0433\u043E\u0441\u0443\u0434\u0430\u0440\u0441\u0442\u0432\u0435\u043D\u043D\u044B\u0439, \u043F\u043E\u043B\u0438\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0439, \u043F\u0430\u0440\u0442\u0438\u0439\u043D\u044B\u0439 \u0438 \u0432\u043E\u0435\u043D\u043D\u044B\u0439 \u0434\u0435\u044F\u0442\u0435\u043B\u044C, \u0412\u0435\u043B\u0438\u043A\u0438\u0439 \u0440\u0443\u043A\u043E\u0432\u043E\u0434\u0438\u0442\u0435\u043B\u044C \u041A\u043E\u0440\u0435\u0439\u0441\u043A\u043E\u0439 \u041D\u0430\u0440\u043E\u0434\u043D\u043E-\u0414\u0435\u043C\u043E\u043A\u0440\u0430\u0442\u0438\u0447\u0435\u0441\u043A\u043E\u0439 \u0420\u0435\u0441\u043F\u0443\u0431\u043B\u0438\u043A\u0438, \u0413\u0435\u043D\u0435\u0440\u0430\u043B\u044C\u043D\u044B\u0439 \u0441\u0435\u043A\u0440\u0435\u0442\u0430\u0440\u044C \u0426\u041A \u0422\u0440\u0443\u0434\u043E\u0432\u043E\u0439 \u043F\u0430\u0440\u0442\u0438\u0438 \u041A\u043E\u0440\u0435\u0438, \u0412\u0435\u0440\u0445\u043E\u0432\u043D\u044B\u0439 \u0433\u043B\u0430\u0432\u043D\u043E\u043A\u043E\u043C\u0430\u043D\u0434\u0443\u044E\u0449\u0438\u0439 \u041A\u043E\u0440\u0435\u0439\u0441\u043A\u043E\u0439 \u043D\u0430\u0440\u043E\u0434\u043D\u043E\u0439 \u0430\u0440\u043C\u0438\u0438, \u041F\u0440\u0435\u0434\u0441\u0435\u0434\u0430\u0442\u0435\u043B\u044C \u0413\u043E\u0441\u0443\u0434\u0430\u0440\u0441\u0442\u0432\u0435\u043D\u043D\u043E\u0433\u043E \u043A\u043E\u043C\u0438\u0442\u0435\u0442\u0430 \u043E\u0431\u043E\u0440\u043E\u043D\u044B \u041A\u041D\u0414\u0420, \u0441\u044B\u043D \u0412\u0435\u043B\u0438\u043A\u043E\u0433\u043E \u0412\u043E\u0436\u0434\u044F \u041A\u0438\u043C \u0418\u0440 \u0421\u0435\u043D\u0430. \u0413\u0435\u043D\u0435\u0440\u0430\u043B\u0438\u0441\u0441\u0438\u043C\u0443\u0441 \u041A\u041D\u0414\u0420 (2012, \u043F\u043E\u0441\u043C\u0435\u0440\u0442\u043D\u043E). \u0427\u0435\u0442\u044B\u0440\u0435\u0436\u0434\u044B \u0413\u0435\u0440\u043E\u0439 \u041A\u041D\u0414\u0420."@ru ,
+		"Kim Jong-il, tamb\u00E9 transcrit Kim Jong Il (16 de febrer del 1941 - 17 de desembre del 2011), va ser el l\u00EDder de facto de la Rep\u00FAblica Popular Democr\u00E0tica de Corea, comunament coneguda com a Corea del Nord, des del 1994 fins al 2011, quan va morir. Per a principis de 1980, Kim s'havia convertit en l'hereu de la direcci\u00F3 del pa\u00EDs i va assumir importants c\u00E0rrecs en els \u00F2rgans del partit i de l'ex\u00E8rcit, ja que el l\u00EDder oficial del pa\u00EDs va continuar sent el seu pare mort, Kim Il-sung, fundador de l'estat."@ca ;
+	owl:differentFrom	dbr:Kim_Yong-il ,
+		<http://dbpedia.org/resource/Kim_Jong-il_(athlete)> ,
+		dbr:Kim_Jong-pil ,
+		<http://dbpedia.org/resource/Kim_Jung-il_(writer)> ;
+	rdfs:seeAlso	dbr:Human_rights ,
+		dbr:North_Korea ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Kim_Jong_il_Portrait.jpg> ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Kim_Jong-il .
+@prefix dct:	<http://purl.org/dc/terms/> .
+dbr:Kim_Jong-il	dct:subject	<http://dbpedia.org/resource/Category:Kim_dynasty_(North_Korea)> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Kim_Jong-il	dct:subject	dbc:National_Heroes_of_North_Korea ,
+		dbc:Anti-Americanism ,
+		dbc:Generalissimos ,
+		dbc:Communist_rulers ,
+		dbc:Kim_Jong-il ,
+		dbc:Korean_nationalists ,
+		<http://dbpedia.org/resource/Category:20th-century_North_Korean_male_actors> ,
+		<http://dbpedia.org/resource/Category:21st-century_North_Korean_people> ,
+		<http://dbpedia.org/resource/Category:20th-century_Korean_writers> ,
+		dbc:Kim_Il-sung_University_alumni ,
+		dbc:Korean_expatriates_in_the_Soviet_Union ,
+		dbc:Heads_of_state_of_North_Korea ,
+		<http://dbpedia.org/resource/Category:Chairmen_and_General_Secretaries_of_the_Workers\u0027_Party_of_Korea> ,
+		dbc:Leaders_of_political_parties_in_North_Korea ,
+		dbc:People_from_Khabarovsky_District ,
+		dbc:Korean_film_producers ,
+		dbc:Koryo-saram ,
+		<http://dbpedia.org/resource/Category:Members_of_the_Supreme_People\u0027s_Assembly> ,
+		dbc:North_Korean_communists ,
+		<http://dbpedia.org/resource/Category:2011_deaths> ,
+		dbc:People_who_died_in_office ,
+		<http://dbpedia.org/resource/Category:1940s_births> ,
+		dbc:Asian_film_producers ,
+		dbc:Children_of_national_leaders ;
+	owl:sameAs	<http://ko.dbpedia.org/resource/\uAE40\uC815\uC77C> .
+@prefix dbpedia-vi:	<http://vi.dbpedia.org/resource/> .
+dbr:Kim_Jong-il	owl:sameAs	dbpedia-vi:Kim_Jong-il .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:Kim_Jong-il	owl:sameAs	dbpedia-es:Kim_Jong-il .
+@prefix ns21:	<http://uz.dbpedia.org/resource/> .
+dbr:Kim_Jong-il	owl:sameAs	ns21:Kim_Jong-il ,
+		<http://ar.dbpedia.org/resource/\u0643\u0645_\u062C\u0648\u0646\u063A_\u0625\u0644> ,
+		<http://rdf.freebase.com/ns/m.0143y5> .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Kim_Jong-il	owl:sameAs	dbpedia-fr:Kim_Jong-il .
+@prefix dbpedia-ku:	<http://ku.dbpedia.org/resource/> .
+dbr:Kim_Jong-il	owl:sameAs	dbpedia-ku:Kim_Jong-il .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Kim_Jong-il	owl:sameAs	dbpedia-pl:Kim_Dzong_Il ,
+		<http://eo.dbpedia.org/resource/Kim_\u011Cong-il> ,
+		<http://uk.dbpedia.org/resource/\u041A\u0456\u043C_\u0427\u0435\u043D_\u0406\u0440> ,
+		<http://ru.dbpedia.org/resource/\u041A\u0438\u043C_\u0427\u0435\u043D_\u0418\u0440> .
+@prefix dbpedia-la:	<http://la.dbpedia.org/resource/> .
+dbr:Kim_Jong-il	owl:sameAs	dbpedia-la:Gim_Jeong-il ,
+		<http://et.dbpedia.org/resource/Kim_Ch\u014Fng-il> ,
+		<http://mk.dbpedia.org/resource/\u041A\u0438\u043C_\u040F\u043E\u043D\u0433_\u0418\u043B> ,
+		<http://be.dbpedia.org/resource/\u041A\u0456\u043C_\u0427\u044D\u043D_\u0406\u0440> .
+@prefix dbpedia-an:	<http://an.dbpedia.org/resource/> .
+dbr:Kim_Jong-il	owl:sameAs	dbpedia-an:Kim_Jong-il .
+@prefix dbpedia-tr:	<http://tr.dbpedia.org/resource/> .
+dbr:Kim_Jong-il	owl:sameAs	dbpedia-tr:Kim_Jong-il .
+@prefix dbpedia-ro:	<http://ro.dbpedia.org/resource/> .
+dbr:Kim_Jong-il	owl:sameAs	dbpedia-ro:Kim_Jong-il .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Kim_Jong-il	owl:sameAs	dbpedia-pt:Kim_Jong-il .
+@prefix dbpedia-io:	<http://io.dbpedia.org/resource/> .
+dbr:Kim_Jong-il	owl:sameAs	dbpedia-io:Kim_Jong-il .
+@prefix dbpedia-gl:	<http://gl.dbpedia.org/resource/> .
+dbr:Kim_Jong-il	owl:sameAs	dbpedia-gl:Kim_Jong-il ,
+		<http://el.dbpedia.org/resource/\u039A\u03B9\u03BC_\u03A4\u03B6\u03BF\u03BD\u03B3\u03BA-\u03B9\u03BB> ,
+		<http://sr.dbpedia.org/resource/\u041A\u0438\u043C_\u040F\u043E\u043D\u0433_\u0418\u043B> .
+@prefix dbpedia-id:	<http://id.dbpedia.org/resource/> .
+dbr:Kim_Jong-il	owl:sameAs	dbpedia-id:Kim_Jong-il .
+@prefix dbpedia-br:	<http://br.dbpedia.org/resource/> .
+dbr:Kim_Jong-il	owl:sameAs	dbpedia-br:Kim_Jong-il .
+@prefix ns34:	<http://ceb.dbpedia.org/resource/> .
+dbr:Kim_Jong-il	owl:sameAs	ns34:Kim_Jong-il ,
+		<http://kn.dbpedia.org/resource/\u0C95\u0CBF\u0CAE\u0CCD_\u0C9C\u0CCA\u0C82\u0C97\u0CCD> .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Kim_Jong-il	owl:sameAs	dbpedia-de:Kim_Jong-il ,
+		<http://tg.dbpedia.org/resource/\u041A\u0438\u043C_\u0427\u0435\u043D_\u0418\u0440> ,
+		<http://my.dbpedia.org/resource/\u1000\u1004\u103A\u1002\u103B\u102F\u1036\u1021\u102E> ,
+		<http://zh.dbpedia.org/resource/\u91D1\u6B63\u65E5> ,
+		<http://mr.dbpedia.org/resource/\u0915\u093F\u092E_\u091C\u093E\u0901\u0917-\u0907\u0932> ,
+		dbr:Kim_Jong-il ,
+		<http://api.nytimes.com/svc/semantic/v2/concept/name/nytd_per/Kim%20Jong%20Il> ,
+		<http://am.dbpedia.org/resource/\u12AA\u121D_\u1306\u1295\u130D_\u12A2\u120D> ,
+		<http://lv.dbpedia.org/resource/Kims_\u010Cenirs> ,
+		<http://th.dbpedia.org/resource/\u0E04\u0E34\u0E21_\u0E08\u0E47\u0E2D\u0E07-\u0E2D\u0E34\u0E25> ,
+		<http://d-nb.info/gnd/11883536X> .
+@prefix dbpedia-sq:	<http://sq.dbpedia.org/resource/> .
+dbr:Kim_Jong-il	owl:sameAs	dbpedia-sq:Kim_Jong_Il .
+@prefix ns37:	<http://data.europa.eu/euodp/jrc-names/> .
+dbr:Kim_Jong-il	owl:sameAs	ns37:Kim_Jong_Il .
+@prefix dbpedia-ca:	<http://ca.dbpedia.org/resource/> .
+dbr:Kim_Jong-il	owl:sameAs	dbpedia-ca:Kim_Jong-il ,
+		<http://ka.dbpedia.org/resource/\u10D9\u10D8\u10DB_\u10E9\u10D4\u10DC_\u10D8\u10E0\u10D8> .
+@prefix dbpedia-lmo:	<http://lmo.dbpedia.org/resource/> .
+dbr:Kim_Jong-il	owl:sameAs	dbpedia-lmo:Kim_Jong-il .
+@prefix dbpedia-war:	<http://war.dbpedia.org/resource/> .
+dbr:Kim_Jong-il	owl:sameAs	dbpedia-war:Kim_Jong-il .
+@prefix dbpedia-eu:	<http://eu.dbpedia.org/resource/> .
+dbr:Kim_Jong-il	owl:sameAs	dbpedia-eu:Kim_Jong-il ,
+		<https://global.dbpedia.org/id/9eWU> ,
+		ns37:Kim_Jon-il .
+@prefix dbpedia-da:	<http://da.dbpedia.org/resource/> .
+dbr:Kim_Jong-il	owl:sameAs	dbpedia-da:Kim_Jong-il .
+@prefix dbpedia-nn:	<http://nn.dbpedia.org/resource/> .
+dbr:Kim_Jong-il	owl:sameAs	dbpedia-nn:Kim_Jong-il .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Kim_Jong-il	owl:sameAs	dbpedia-nl:Kim_Jong-il .
+@prefix ns45:	<http://sco.dbpedia.org/resource/> .
+dbr:Kim_Jong-il	owl:sameAs	ns45:Kim_Jong-il .
+@prefix ns46:	<http://bs.dbpedia.org/resource/> .
+dbr:Kim_Jong-il	owl:sameAs	ns46:Kim_Jong-il .
+@prefix dbpedia-bar:	<http://bar.dbpedia.org/resource/> .
+dbr:Kim_Jong-il	owl:sameAs	dbpedia-bar:Kim_Jong-il ,
+		<http://arz.dbpedia.org/resource/\u0643\u064A\u0645_\u0686\u0648\u0646\u062C_\u0627\u064A\u0644> .
+@prefix dbpedia-simple:	<http://simple.dbpedia.org/resource/> .
+dbr:Kim_Jong-il	owl:sameAs	dbpedia-simple:Kim_Jong-il ,
+		<http://az.dbpedia.org/resource/Kim_\u00C7en_\u0130r> ,
+		<http://mn.dbpedia.org/resource/\u041A\u0438\u043C_\u0416\u043E\u043D_\u0418\u043B> .
+@prefix ns49:	<http://tl.dbpedia.org/resource/> .
+dbr:Kim_Jong-il	owl:sameAs	ns49:Kim_Jong-il ,
+		<http://sk.dbpedia.org/resource/Kim_\u010Cong-il> .
+@prefix ns50:	<http://www.bbc.co.uk/things/4bbc2e48-ac75-4f09-86c1-ce19f7070659#> .
+dbr:Kim_Jong-il	owl:sameAs	ns50:id ,
+		<http://ne.dbpedia.org/resource/\u0915\u093F\u092E_\u091C\u094B\u0919\u094D_\u0907\u0932> ,
+		<http://hy.dbpedia.org/resource/\u053F\u056B\u0574_\u054B\u0578\u0576\u0563_\u053B\u056C> .
+@prefix dbpedia-ga:	<http://ga.dbpedia.org/resource/> .
+dbr:Kim_Jong-il	owl:sameAs	dbpedia-ga:Kim_Jong-il ,
+		<http://ml.dbpedia.org/resource/\u0D15\u0D3F\u0D02_\u0D1C\u0D4B\u0D19\u0D4D_\u0D07\u0D7D> .
+@prefix dbpedia-fi:	<http://fi.dbpedia.org/resource/> .
+dbr:Kim_Jong-il	owl:sameAs	dbpedia-fi:Kim_Jong-il ,
+		<http://ur.dbpedia.org/resource/\u06A9\u0645_\u062C\u0648\u0646\u06AF_\u0627\u06CC\u0644> ,
+		<http://pa.dbpedia.org/resource/\u0A15\u0A3F\u0A2E_\u0A1C\u0A4C\u0A02\u0A17_\u0A07\u0A32> .
+@prefix dbpedia-sv:	<http://sv.dbpedia.org/resource/> .
+dbr:Kim_Jong-il	owl:sameAs	dbpedia-sv:Kim_Jong-il ,
+		<http://fa.dbpedia.org/resource/\u06A9\u06CC\u0645_\u062C\u0648\u0646\u06AF-\u0627\u06CC\u0644> .
+@prefix dbpedia-lb:	<http://lb.dbpedia.org/resource/> .
+dbr:Kim_Jong-il	owl:sameAs	dbpedia-lb:Kim_Jong-il ,
+		<http://ta.dbpedia.org/resource/\u0B95\u0BBF\u0BAE\u0BCD_\u0B9C\u0BCA\u0B99\u0BCD-\u0B87\u0BB2\u0BCD> ,
+		<http://bg.dbpedia.org/resource/\u041A\u0438\u043C_\u0427\u0435\u043D_\u0418\u0440> .
+@prefix dbpedia-hr:	<http://hr.dbpedia.org/resource/> .
+dbr:Kim_Jong-il	owl:sameAs	dbpedia-hr:Kim_Jong-il ,
+		wikidata:Q10665 .
+@prefix dbpedia-yo:	<http://yo.dbpedia.org/resource/> .
+dbr:Kim_Jong-il	owl:sameAs	dbpedia-yo:Kim_Jong-il .
+@prefix dbpedia-ms:	<http://ms.dbpedia.org/resource/> .
+dbr:Kim_Jong-il	owl:sameAs	dbpedia-ms:Kim_Jong-il .
+@prefix dbpedia-af:	<http://af.dbpedia.org/resource/> .
+dbr:Kim_Jong-il	owl:sameAs	dbpedia-af:Kim_Jong-il .
+@prefix dbpedia-nds:	<http://nds.dbpedia.org/resource/> .
+dbr:Kim_Jong-il	owl:sameAs	dbpedia-nds:Kim_Jong-il ,
+		<http://hi.dbpedia.org/resource/\u0915\u093F\u092E_\u091C\u094B\u0902\u0917-\u0907\u0932> .
+@prefix ns60:	<http://d-nb.info/gnd/11883536X/about/> .
+dbr:Kim_Jong-il	owl:sameAs	ns60:rdf .
+@prefix ns61:	<http://ast.dbpedia.org/resource/> .
+dbr:Kim_Jong-il	owl:sameAs	ns61:Kim_Jong-il .
+@prefix dbpedia-no:	<http://no.dbpedia.org/resource/> .
+dbr:Kim_Jong-il	owl:sameAs	dbpedia-no:Kim_Jong-il .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Kim_Jong-il	owl:sameAs	dbpedia-it:Kim_Jong-il .
+@prefix dbpedia-als:	<http://als.dbpedia.org/resource/> .
+dbr:Kim_Jong-il	owl:sameAs	dbpedia-als:Kim_Jong-il .
+@prefix ns65:	<http://scn.dbpedia.org/resource/> .
+dbr:Kim_Jong-il	owl:sameAs	ns65:Kim_Jong_Il ,
+		<http://pnb.dbpedia.org/resource/\u06A9\u0645_\u062C\u0648\u0646\u06AF_\u0627\u0650\u0644> ,
+		<http://viaf.org/viaf/56628926> .
+@prefix dbpedia-sh:	<http://sh.dbpedia.org/resource/> .
+dbr:Kim_Jong-il	owl:sameAs	dbpedia-sh:Kim_Jong-il .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Kim_Jong-il	owl:sameAs	yago-res:Kim_Jong-il ,
+		<http://ja.dbpedia.org/resource/\u91D1\u6B63\u65E5> ,
+		<http://cs.dbpedia.org/resource/Kim_\u010Cong-il> .
+@prefix dbpedia-cy:	<http://cy.dbpedia.org/resource/> .
+dbr:Kim_Jong-il	owl:sameAs	dbpedia-cy:Kim_Jong-il .
+@prefix ns69:	<http://sw.cyc.com/concept/> .
+dbr:Kim_Jong-il	owl:sameAs	ns69:Mx4rP6wsBLArEdiUkQACs4vPnA .
+@prefix dbpedia-hu:	<http://hu.dbpedia.org/resource/> .
+dbr:Kim_Jong-il	owl:sameAs	dbpedia-hu:Kim_Dzsongil .
+@prefix dbpedia-is:	<http://is.dbpedia.org/resource/> .
+dbr:Kim_Jong-il	owl:sameAs	dbpedia-is:Kim_Jong-il ,
+		<http://lt.dbpedia.org/resource/Kim_\u010Cen_Iras> ,
+		<http://he.dbpedia.org/resource/\u05E7\u05D9\u05DD_\u05D2\u0027\u05D5\u05E0\u05D2-\u05D0\u05D9\u05DC> ,
+		<http://bn.dbpedia.org/resource/\u0995\u09BF\u09AE_\u099C\u0982_\u0987\u09B2> .
+@prefix dbpedia-oc:	<http://oc.dbpedia.org/resource/> .
+dbr:Kim_Jong-il	owl:sameAs	dbpedia-oc:Kim_Jong-il ;
+	schema:sameAs	<http://viaf.org/viaf/56628926> ;
+	dbo:deathCause	dbr:Myocardial_infarction ;
+	dbp:president	dbr:Kim_Yong-nam ,
+		dbr:Yang_Hyong-sop ;
+	dbp:partner	dbr:Ko_Yong-hui ,
+		dbr:Song_Hye-rim ,
+		dbr:Kim_Ok ;
+	dbo:partner	dbr:Ko_Yong-hui ,
+		dbr:Song_Hye-rim ,
+		dbr:Kim_Ok ;
+	dbp:rank	25 ;
+	dbo:spouse	dbr:Hong_Il-chon ,
+		dbr:Kim_Young-sook ;
+	dbp:mr	"ch'inaehan\u016Dn jidoja"@en ;
+	dbp:premier	dbr:Pak_Pong-ju ,
+		dbr:Choe_Yong-rim ,
+		dbr:Kim_Yong-il ,
+		dbr:Kang_Song-san ,
+		dbr:Hong_Song-nam .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Kim_Jong-il	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Kim_Jong-il?oldid=985831387&ns=0> ;
+	dbp:order	2 ;
+	dbp:parents	dbr:Kim_Il-sung ,
+		dbr:Kim_Jong-suk ;
+	dbp:serviceyears	1991 ;
+	dbp:deathCause	dbr:Myocardial_infarction ;
+	dbp:nationality	dbr:Koreans ,
+		"Soviet"@en ;
+	dbo:nationality	dbr:Soviet_people ,
+		dbr:Koreans ;
+	dbp:signature	"Kim Jong-il Signature.svg"@en ;
+	dbp:titlestyle	"background: #BAE675;"@en ;
+	dbo:parent	dbr:Kim_Jong-suk ,
+		dbr:Kim_Il-sung ;
+	dbp:after	dbr:Kim_Jong-un ,
+		"Yun Sung-gwan"@en ;
+	dbp:title	"Head of the Organization and Guidance Department"@en ,
+		"First Vice Chairman of the National Defence Commission"@en ,
+		<http://dbpedia.org/resource/Chairman_of_the_Workers\u0027_Party_of_Korea> ,
+		"Chairman of the WPK Central Military Commission"@en ,
+		dbr:Chairman_of_the_State_Affairs_Commission ,
+		"Director of the Organization and Guidance Department"@en ,
+		""@en ,
+		dbr:Supreme_Commander_of_the_Armed_Forces_of_North_Korea ;
+	dbp:years	1994 ,
+		1993 ,
+		1997 ,
+		1990 ,
+		1991 ,
+		1974 .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Kim_Jong-il	dbp:footnotes	"--02-16"^^xsd:gMonthDay ,
+		"----\nLeader of the Democratic People's  Republic of Korea"@en ,
+		""@en ,
+		1990 ,
+		1997 ,
+		1974 ,
+		1972 ,
+		1982 ,
+		1980 ,
+		"----"@en ,
+		"Kim Jong-un"@en ,
+		"Kim Il-sung"@en ;
+	dbo:restingPlace	dbr:North_Korea ,
+		dbr:Kumsusan_Palace_of_the_Sun ,
+		dbr:Pyongyang ;
+	dbp:context	"north"@en ;
+	dbp:almaMater	dbr:Kim_Il-sung_University ,
+		dbr:Red_Flag_Mangyongdae_Revolutionary_School ;
+	dbo:almaMater	dbr:Mangyongdae_Revolutionary_School ,
+		dbr:Kim_Il-sung_University ;
+	dbp:rows	2 ;
+	dbp:as	"First Secretary"@en ,
+		"First Chairman"@en ,
+		"Director"@en ;
+	dbp:deputy	dbr:Jo_Myong-rok ,
+		dbr:O_Jin-u ;
+	dbp:hangul	"\uAE40\uC815\uC77C"@en ,
+		"\uCE5C\uC560\uD558\uB294 \uC9C0\uB3C4\uC790"@en ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Kim_Jong_il_Portrait.jpg?width=300> ;
+	dbo:deathPlace	dbr:North_Korea ,
+		dbr:Pyongyang ;
+	dbp:deathPlace	dbr:North_Korea ,
+		dbr:Pyongyang ;
+	dbo:deathDate	"2011-12-17"^^xsd:date ;
+	dbo:birthDate	"1941-02-16"^^xsd:date ;
+	dbo:wikiPageID	154099 ;
+	dbo:wikiPageRevisionID	985831387 ;
+	dbo:wikiPageWikiLink	dbr:Koryo-saram ,
+		dbr:Kim_Man-il ,
+		dbr:Fuji_TV ,
+		dbr:North_Korea ,
+		dbr:Central_Intelligence_Agency ,
+		dbr:Kim_Kyong-hui ,
+		dbr:Koreans ,
+		dbr:Intelligence_agency ,
+		dbr:Rangoon_bombing ,
+		dbr:Primorsky_Krai ,
+		dbr:Kim_Il-sung_University ,
+		<http://dbpedia.org/resource/Sh\u016Bkan_Gendai> ,
+		dbr:Day_of_the_Sun ,
+		<http://dbpedia.org/resource/Executive_Policy_Bureau_of_the_Workers\u0027_Party_of_Korea> ,
+		dbr:Malta ,
+		<http://dbpedia.org/resource/Chairman_of_the_Workers\u0027_Party_of_Korea> ,
+		dbr:No_Motherland_Without_You ,
+		dbr:Sunshine_Policy ,
+		dbr:Free_market ,
+		<http://dbpedia.org/resource/Kim_Il_(politician)> ,
+		dbr:Nuclear_reactor ,
+		dbr:Seoul ,
+		dbr:O_Kuk-ryol ,
+		dbr:Far_Eastern_Federal_District ,
+		dbr:The_Sunday_Telegraph ,
+		dbr:Jo_Myong-rok ,
+		dbr:Russian_Soviet_Federative_Socialist_Republic ,
+		<http://dbpedia.org/resource/Central_Military_Commission_of_the_Workers\u0027_Party_of_Korea> ,
+		dbr:Eternal_leaders_of_North_Korea ,
+		<http://dbpedia.org/resource/Central_Committee_of_the_Workers\u0027_Party_of_Korea> ,
+		dbr:Bouffant ,
+		<http://dbpedia.org/resource/Workers\u0027_Party_of_Korea_Publishing_House> ,
+		dbr:Ealing_comedies ,
+		dbr:Martyr ,
+		dbr:Fake_passport ,
+		dbr:Dynasty ,
+		<http://dbpedia.org/resource/Workers\u0027_Party_of_Korea> ,
+		dbr:Supreme_Commander_of_the_Armed_Forces_of_North_Korea ,
+		dbr:Sonbong_County ,
+		dbr:WikiLeaks ,
+		dbr:Fear_of_flying ,
+		dbr:List_of_leaders_of_North_Korea ,
+		dbr:Dissolution_of_the_Soviet_Union ,
+		<http://dbpedia.org/resource/Ministry_of_Foreign_Affairs_(Japan)> ,
+		dbr:Kyodo_News ,
+		<http://dbpedia.org/resource/Supreme_People\u0027s_Assembly> ,
+		dbr:Jang_Song-thaek ,
+		dbr:Autocracy ,
+		dbr:The_Dong-a_Ilbo ,
+		<http://dbpedia.org/resource/Kurt_M._Campbell> ,
+		dbr:The_Times ,
+		dbr:Wonsan ,
+		dbr:Crimes_against_humanity ,
+		dbr:Politics_of_North_Korea ,
+		dbr:Songun ,
+		dbr:Kim_Il-sung ,
+		dbr:Khabarovsk_Krai ,
+		dbr:Khabarovsky_District ,
+		dbr:Delicacy ,
+		dbr:Myocardial_infarction ,
+		<http://dbpedia.org/resource/Kim_(Korean_surname)> ,
+		dbr:Tokyo_Disneyland ,
+		dbr:Hangul ,
+		dbc:Korean_film_producers ,
+		dbc:Koryo-saram ,
+		dbc:Leaders_of_political_parties_in_North_Korea ,
+		dbc:People_from_Khabarovsky_District ,
+		dbc:Heads_of_state_of_North_Korea ,
+		<http://dbpedia.org/resource/Category:Chairmen_and_General_Secretaries_of_the_Workers\u0027_Party_of_Korea> ,
+		dbc:Kim_Il-sung_University_alumni ,
+		dbc:Korean_expatriates_in_the_Soviet_Union ,
+		<http://dbpedia.org/resource/Category:20th-century_Korean_writers> ,
+		dbr:Hanja ,
+		<http://dbpedia.org/resource/Category:20th-century_North_Korean_male_actors> ,
+		<http://dbpedia.org/resource/Category:21st-century_North_Korean_people> ,
+		<http://dbpedia.org/resource/File:Statue_at_Mansudae_Art_Studio.JPG> ,
+		<http://dbpedia.org/resource/File:Vladimir_Putin_4_August_2001-1.jpg> ,
+		<http://dbpedia.org/resource/File:Kim_Jong_Il_Books_(33012753981).jpg> ,
+		dbr:Kim_Hye-kyung ,
+		<http://dbpedia.org/resource/File:Kim_Jong-il_2011-5.jpg> ,
+		<http://dbpedia.org/resource/File:Kim_Jong-il_in_North_Korean_propaganda_(6075328850).jpg> ,
+		<http://dbpedia.org/resource/File:Kimilsungia_and_Kimjongilia.JPG> ,
+		<http://dbpedia.org/resource/File:Laika_ac_Samijyon_(6900265643).jpg> ,
+		<http://dbpedia.org/resource/File:DPRK_election.jpg> ,
+		<http://dbpedia.org/resource/File:Dmitry_Medvedev_and_Kim_Jong-il_2011-7.jpeg> ,
+		<http://dbpedia.org/resource/File:Grand_People\u0027s_Study_House_08.JPG> ,
+		<http://dbpedia.org/resource/File:Kim_Jong-Il.jpg> ,
+		<http://dbpedia.org/resource/Category:Members_of_the_Supreme_People\u0027s_Assembly> ,
+		dbc:North_Korean_communists ,
+		<http://dbpedia.org/resource/List_of_Kim_Jong-il\u0027s_titles> ,
+		<http://dbpedia.org/resource/File:The_statues_of_Kim_Il_Sung_and_Kim_Jong_Il_on_Mansu_Hill_in_Pyongyang_(april_2012).jpg> ,
+		dbr:The_Daily_Telegraph ,
+		dbr:Videotape ,
+		<http://dbpedia.org/resource/File:Kim_Jong_il_Portrait.jpg> ,
+		dbr:Michael_Jordan ,
+		<http://dbpedia.org/resource/File:Kim_Jong-il_on_August_24,_2011_(mini).jpg> ,
+		<http://dbpedia.org/resource/File:SD_William_Cohen_meets_with_Jo_Myong_Rok_in_the_Pentagon.jpg> ,
+		<http://dbpedia.org/resource/File:DPRK-Army-OF-12.svg> ,
+		dbr:Kim_Jong-nam ,
+		dbr:Grand_marshal ,
+		dbr:Kim_Il-sung_Square ,
+		dbr:National_Defence_Commission ,
+		dbr:Wonsu ,
+		dbr:Tokyo_Shimbun ,
+		dbr:Dictator ,
+		dbr:Soviet_people ,
+		dbr:North_Korean_famine ,
+		dbr:Pyongyang ,
+		dbr:Kim_Jong-un ,
+		dbr:Kim_Hyon-hui ,
+		dbr:James_Bond ,
+		<http://dbpedia.org/resource/Category:1940s_births> ,
+		dbr:Hong_Kong_action_cinema ,
+		dbr:Kim_Dae-jung ,
+		dbr:Khabarovsk ,
+		dbr:Juche ,
+		dbr:Le_Point ,
+		dbr:Chairman_of_the_State_Affairs_Commission ,
+		dbr:BBC ,
+		<http://dbpedia.org/resource/Rambo_(franchise)> ,
+		dbr:Triumvirate ,
+		dbr:Korean_Central_News_Agency ,
+		dbr:National_Basketball_Association ,
+		dbr:Legislative_session ,
+		dbr:Korea_under_Japanese_rule ,
+		dbr:Generalissimo ,
+		dbr:North_Korean_won ,
+		dbr:Human_rights_in_North_Korea ,
+		dbr:Dmitry_Medvedev ,
+		dbr:Bunker ,
+		dbr:Tokyo_Broadcasting_System ,
+		dbr:Dongguk_University ,
+		<http://dbpedia.org/resource/Godzilla_(franchise)> ,
+		dbr:Supreme_Guard_Command ,
+		<http://dbpedia.org/resource/Category:Kim_dynasty_(North_Korea)> ,
+		dbr:Epilepsy ,
+		dbr:Taewonsu ,
+		dbr:United_States_Secretary_of_State ,
+		dbr:Flood ,
+		dbc:National_Heroes_of_North_Korea ,
+		dbc:Korean_nationalists ,
+		<http://dbpedia.org/resource/Category:2011_deaths> ,
+		<http://dbpedia.org/resource/Korean_People\u0027s_Army> ,
+		dbr:Economy_of_North_Korea ,
+		dbr:Korea ,
+		<http://dbpedia.org/resource/2006_North_Korean_nuclear_test> ,
+		dbr:The_New_York_Times ,
+		dbr:Stanford_University_centers_and_institutes ,
+		dbr:Song_Hye-rim ,
+		dbr:Paektu_Mountain ,
+		dbr:Constitution_of_North_Korea ,
+		dbr:Kumsusan_Palace_of_the_Sun ,
+		dbr:Korean_Air_Flight_858 ,
+		dbc:Anti-Americanism ,
+		dbr:Human_Rights_Watch ,
+		dbr:Madeleine_Albright ,
+		dbr:Yodok_concentration_camp ,
+		dbr:Dalian ,
+		dbc:Asian_film_producers ,
+		<http://dbpedia.org/resource/Tar\u014D_As\u014D> ,
+		<http://dbpedia.org/resource/North_Korean_leaders\u0027_trains> ,
+		<http://dbpedia.org/resource/Vyatskoye,_Khabarovsk_Krai> ,
+		dbr:Ko_Yong-hui ,
+		dbr:Order_of_Kim_Jong-il ,
+		<http://dbpedia.org/resource/The_Schoolgirl\u0027s_Diary> ,
+		dbr:Sadistic_personality_disorder ,
+		dbr:Red_Flag_Mangyongdae_Revolutionary_School ,
+		dbr:Residences_of_North_Korean_leaders ,
+		dbc:Communist_rulers ,
+		dbr:Antisocial_personality_disorder ,
+		dbr:Human_rights ,
+		<http://dbpedia.org/resource/Friday_the_13th_(franchise)> ,
+		dbr:On_the_Art_of_the_Cinema ,
+		dbr:O_Jin-u ,
+		dbr:Sean_Connery ,
+		dbr:First_Lady ,
+		dbr:Diabetes ,
+		dbr:Korean_War ,
+		dbr:Yomiuri_Shimbun ,
+		dbr:Chain_smoking ,
+		<http://dbpedia.org/resource/George_W._Bush> ,
+		dbr:Kim_Yo-jong ,
+		dbr:Associated_Press ,
+		dbr:Musical_theatre ,
+		dbr:Namsan_Senior_High_School ,
+		dbr:Schizotypal_personality_disorder ,
+		dbr:Kim_Yong-ju ,
+		dbr:Mainichi_Shimbun ,
+		dbr:Dom_Mintoff ,
+		dbr:Poland ,
+		dbr:Joseph_Stalin ,
+		dbr:Hwangap ,
+		dbr:Totalitarianism ,
+		dbc:Kim_Jong-il ,
+		dbr:Elizabeth_Taylor ,
+		dbr:Cult_of_personality ,
+		dbr:Kaesong_Industrial_Region ,
+		dbr:Death_and_state_funeral_of_Kim_Il-sung ,
+		dbr:Adolf_Hitler ,
+		dbr:Agreed_Framework ,
+		dbr:Central_Clinical_Hospital ,
+		dbr:Ryongsong_Residence ,
+		dbr:Deng_Xiaoping ,
+		dbr:Kim_Yong-nam ,
+		dbr:Choe_Yong-rim ,
+		<http://dbpedia.org/resource/Transcription_(linguistics)> ,
+		dbr:Death_and_state_funeral_of_Kim_Jong-il ,
+		dbr:Paranoid_personality_disorder ,
+		dbr:Kim_Young-sook ,
+		dbr:Choi_Eun-hee ,
+		dbr:List_of_countries_by_number_of_military_and_paramilitary_personnel ,
+		dbr:Shin_Sang-ok ,
+		dbr:Saddam_Hussein ,
+		<http://dbpedia.org/resource/Mistress_(lover)> ,
+		dbr:Narita_International_Airport ,
+		dbc:People_who_died_in_office ,
+		dbc:Children_of_national_leaders ,
+		dbr:Luxembourg ,
+		dbr:Kim_Pyong-il ,
+		dbr:Neurosurgery ,
+		dbr:Kim_Ok ,
+		<http://dbpedia.org/resource/6th_Congress_of_the_Workers\u0027_Party_of_Korea> ,
+		dbr:Kenji_Fujimoto ,
+		dbr:Nyongbyon_County ,
+		dbr:Hong_Il-chon ,
+		dbr:Schizoid_personality_disorder ,
+		dbr:Huichon ,
+		dbr:Korean_Demilitarized_Zone ,
+		dbr:Intracerebral_hemorrhage ,
+		dbr:Hwang_Jang-yop ,
+		<http://dbpedia.org/resource/Kim_dynasty_(North_Korea)> ,
+		dbr:Soviet_Union ,
+		dbr:Organization_and_Guidance_Department ,
+		dbr:Kim_Sol-song ,
+		dbr:Abduction_of_Shin_Sang-ok_and_Choi_Eun-hee ,
+		dbc:Generalissimos ,
+		dbr:Sobriquet ,
+		dbr:Narcissistic_personality_disorder ,
+		dbr:Ussuriysk ,
+		dbr:Kim_Jong-chul ,
+		<http://dbpedia.org/resource/1982_North_Korean_parliamentary_election> ,
+		dbr:Kim_Jong-suk ,
+		dbr:Waseda_University ,
+		dbr:Lobster ,
+		dbr:North_Korea_and_weapons_of_mass_destruction ,
+		dbr:Heir_apparent ,
+		<http://dbpedia.org/resource/2008_Summer_Olympics_torch_relay> ,
+		<http://dbpedia.org/resource/Presidium_of_the_Politburo_of_the_Workers\u0027_Party_of_Korea> ;
+	dbo:wikiPageExternalLink	<https://web.archive.org/web/20050213081159/http:/www.east-asia-intel.com/eai/Sample/2.html> ,
+		<http://theseoultimes.com/ST/%3Furl=/ST/db/read.php%3Fidx=1643> .
+@prefix ns75:	<https://www.bbc.co.uk/news/> .
+dbr:Kim_Jong-il	dbo:wikiPageExternalLink	ns75:world-asia-pacific-10745725 ,
+		<https://books.google.com/books%3Fid=nTCC2ZheFu0C&pg=PA291%7Cyear=2001%7Cpublisher=World> ,
+		<https://books.google.com/books%3Fid=yswqBwAAQBAJ&pg=PA28%7Cdate=2015%7Cpublisher=Routledge%7Cisbn=978-1-317-56741-7%7Cref=> ,
+		<http://www.uccs.edu/~faculty/fcoolidg/pdfs/Kim%20Jong-il%202009%20Behavioral%20Sciences%20of%20Terrorism.pdf%7Ctitle=Is> ,
+		<https://books.google.com/books%3Fid=FHpYCwAAQBAJ&pg=PA4%7Cyear=2014%7Cpublisher=Oxford> ,
+		<https://web.archive.org/web/20161009105223/http:/www.uccs.edu/~faculty/fcoolidg/pdfs/Kim%20Jong-il%202009%20Behavioral%20Sciences%20of%20Terrorism.pdf%7Carchive-date=9> ,
+		<https://web.archive.org/web/20061102085028/http:/times.hankooki.com/lpage/opinion/200406/kt2004060817432954140.htm> ,
+		<http://news.bbc.co.uk/2/hi/asia-pacific/3203523.stm> ,
+		<http://www.naenara.com.kp/en/book/download.php%3F4+4010%23.pdf%7Cyear=1999%7Cpublisher=Foreign> ,
+		<http://www.naenara.com.kp/en/book/download.php%3F4+4013%23.pdf%7Cvolume=1%7Cyear=2005%7Cpublisher=Foreign> ,
+		<http://www.naenara.com.kp/en/book/download.php%3F4+4008%23.pdf%7Cvolume=2%7Cyear=1995%7Cpublisher=Foreign> ,
+		<http://www.naenara.com.kp/en/book/download.php%3F4+4009%23.pdf%7Cyear=2002%7Cpublisher=Foreign> ,
+		<http://www.naenara.com.kp/en/book/download.php%3F4+4002%23.pdf%7Ctitle=Kim> ,
+		<http://www.naenara.com.kp/en/book/download.php%3F4+4058%23.pdf%7Cyear=2015%7Cpublisher=Foreign> ,
+		<http://www.naenara.com.kp/en/book/download.php%3F4+4037%23.pdf%7Cpublisher=Foreign> ,
+		<http://www.naenara.com.kp/en/book/download.php%3F4+4023%23.pdf%7Cvolume=2%7Cyear=2006%7Cpublisher=Foreign> ,
+		<http://www.naenara.com.kp/en/book/download.php%3F4+4034%23.pdf%7Cvolume=3%7Cyear=2008%7Cpublisher=Foreign> ,
+		<http://times.hankooki.com/lpage/opinion/200406/kt2004060817432954140.htm> .
+@prefix dbt:	<http://dbpedia.org/resource/Template:> .
+dbr:Kim_Jong-il	dbp:wikiPageUsesTemplate	dbt:Armed_forces ,
+		dbt:Family_name_hatnote ,
+		dbt:Nbsp ,
+		dbt:Curlie ,
+		dbt:Navboxes ,
+		dbt:Nobold ,
+		dbt:Pp-semi-indef ,
+		dbt:Sister_project_links ,
+		dbt:Birth_date ,
+		dbt:Death_date_and_age ,
+		dbt:Cite_web ,
+		dbt:Infobox_officeholder ,
+		dbt:Reflist ,
+		dbt:Refbegin ,
+		dbt:Short_description ,
+		dbt:Refend ,
+		dbt:Authority_control ,
+		dbt:S-bef ,
+		dbt:S-end ,
+		dbt:S-start ,
+		dbt:S-ttl ,
+		dbt:Use_dmy_dates ,
+		dbt:Infobox_Korean_name ,
+		dbt:IPA-ko ,
+		dbt:S-off ,
+		dbt:Korean ,
+		dbt:WPKHeads ,
+		dbt:Kim_Jong-il ,
+		<http://dbpedia.org/resource/Template:Commanders_of_the_Korean_People\u0027s_Army> ,
+		dbt:Family_of_Kim_Jong-il ,
+		dbt:NKSupremeLeaders ,
+		dbt:North_Korean_marshals ,
+		dbt:S-mil ,
+		dbt:S-ppo ,
+		dbt:S-aft ,
+		dbt:NYTtopic ,
+		dbt:Distinguish ,
+		dbt:Worldcat_id ,
+		dbt:Note ,
+		dbt:Linktext ,
+		dbt:Leaders_of_Korea ,
+		dbt:Block_quote ,
+		dbt:Raise ,
+		dbt:Main ,
+		dbt:Spnd ,
+		dbt:Flag ,
+		dbt:Lower ,
+		dbt:S-vac ,
+		dbt:Cite_journal ,
+		dbt:Notelist ,
+		dbt:See_also ,
+		dbt:Sfn ,
+		dbt:SfnRef ,
+		dbt:Cite_book ,
+		dbt:Efn ,
+		dbt:Further ,
+		dbt:Pp-move-indef ,
+		dbt:Harvid ,
+		dbt:Portal ,
+		dbt:Big ;
+	dbp:birthDate	dbr:Russian_Soviet_Federative_Socialist_Republic ,
+		"1942-02-16"^^xsd:date ,
+		dbr:Khabarovsky_District ,
+		dbr:Khabarovsk_Krai ,
+		dbr:Korea_under_Japanese_rule ,
+		dbr:Paektu_Mountain ,
+		<http://dbpedia.org/resource/Vyatskoye,_Khabarovsk_Krai> ,
+		"1941-02-16"^^xsd:date ,
+		"Camp Voroshilov, Primorsky Krai, Far Eastern Federal District, Russian SFSR, Soviet Union"@en ,
+		dbr:Soviet_Union ;
+	dbp:birthName	"Yuri Irsenovich Kim"@en ;
+	dbp:caption	"Kim in 2011"@en ;
+	dbp:children	dbr:Kim_Jong-nam ,
+		dbr:Kim_Jong-un ,
+		dbr:Kim_Yo-jong ,
+		dbr:Kim_Sol-song ,
+		dbr:Kim_Jong-chul ;
+	dbp:deathDate	"2011-12-17"^^xsd:date ;
+	dbp:imageSize	180 ;
+	dbp:restingPlace	dbr:North_Korea ,
+		dbr:Pyongyang ,
+		dbr:Kumsusan_Palace_of_the_Sun ;
+	dbp:spouse	dbr:Kim_Young-sook ,
+		dbr:Hong_Il-chon ;
+	dbo:abstract	"\u91D1 \u6B63\u65E5\uFF08\u30AD\u30E0\u30FB\u30B8\u30E7\u30F3\u30A4\u30EB\u3001\u671D\u9BAE\u8A9E: \uAE40\uC815\uC77C\u3001\u82F1\u8A9E: Kim Jong-il\u30011941\u5E742\u670816\u65E5 - 2011\u5E7412\u670817\u65E5\uFF09\u306F\u3001\u5317\u671D\u9BAE\u306E\u653F\u6CBB\u5BB6\u3001\u8ECD\u4EBA\u3002\u5317\u671D\u9BAE\u3092\u5EFA\u56FD\u3057\u305F\u91D1\u65E5\u6210\u306E\u9577\u7537\u3067\u3042\u308A\u7236\u306E\u6B7B\u5F8C\u3001\u540C\u56FD\u306E\u4E8B\u5B9F\u4E0A\u306E\u6700\u9AD8\u6307\u5C0E\u8005\u3068\u306A\u308B\u3002\u4EE5\u5F8C\u3001\u6B7B\u53BB\u3059\u308B\u307E\u3067\u671D\u9BAE\u52B4\u50CD\u515A\u4E2D\u592E\u59D4\u54E1\u4F1A\u7DCF\u66F8\u8A18\u3001\u671D\u9BAE\u6C11\u4E3B\u4E3B\u7FA9\u4EBA\u6C11\u5171\u548C\u56FD\u56FD\u9632\u59D4\u54E1\u4F1A\u59D4\u54E1\u9577\u3001\u671D\u9BAE\u4EBA\u6C11\u8ECD\u6700\u9AD8\u53F8\u4EE4\u5B98\u3001\u671D\u9BAE\u52B4\u50CD\u515A\u4E2D\u592E\u8ECD\u4E8B\u59D4\u54E1\u4F1A\u59D4\u54E1\u9577\u3001\u671D\u9BAE\u52B4\u50CD\u515A\u4E2D\u592E\u59D4\u54E1\u4F1A\u653F\u6CBB\u5C40\u5E38\u52D9\u59D4\u54E1\u3092\u52D9\u3081\u305F\u3002 \u79F0\u53F7\u306F\u671D\u9BAE\u6C11\u4E3B\u4E3B\u7FA9\u4EBA\u6C11\u5171\u548C\u56FD\u5143\u5E25\u3001\u671D\u9BAE\u6C11\u4E3B\u4E3B\u7FA9\u4EBA\u6C11\u5171\u548C\u56FD\u82F1\u96C4\uFF083\u56DE\u53D7\u7AE0\u3057\u3066\u304A\u308A\u300C\u4E09\u91CD\u82F1\u96C4\u300D\u3068\u79F0\u3055\u308C\u308B\uFF09\u3002\u6B7B\u5F8C\u3001\u671D\u9BAE\u6C11\u4E3B\u4E3B\u7FA9\u4EBA\u6C11\u5171\u548C\u56FD\u5927\u5143\u5E25\u306E\u79F0\u53F7\u3092\u8FFD\u8D08\u3055\u308C\u305F\u3002"@ja ,
+		"\u039F \u039A\u03B9\u03BC \u03A4\u03B6\u03BF\u03BD\u03B3\u03BA-\u03B9\u03BB \u03AE \u03BF \u039A\u03B9\u03BC \u0393\u03B9\u03BF\u03BD\u03B3\u03BA \u0399\u03BB (16 \u03A6\u03B5\u03B2\u03C1\u03BF\u03C5\u03B1\u03C1\u03AF\u03BF\u03C5 1941 - 17 \u0394\u03B5\u03BA\u03B5\u03BC\u03B2\u03C1\u03AF\u03BF\u03C5 2011) \u03AE\u03C4\u03B1\u03BD \u03BF \u03B7\u03B3\u03AD\u03C4\u03B7\u03C2 \u03C4\u03B7\u03C2 \u0392\u03CC\u03C1\u03B5\u03B9\u03B1\u03C2 \u039A\u03BF\u03C1\u03AD\u03B1\u03C2. \u0394\u03B9\u03B1\u03B4\u03AD\u03C7\u03C4\u03B7\u03BA\u03B5 \u03C4\u03BF\u03BD \u03C0\u03B1\u03C4\u03AD\u03C1\u03B1 \u03C4\u03BF\u03C5, \u039A\u03B9\u03BC \u038A\u03BB-\u03C3\u03BF\u03BD\u03B3\u03BA, \u03BC\u03B5\u03C4\u03AC \u03C4\u03BF \u03B8\u03AC\u03BD\u03B1\u03C4\u03CC \u03C4\u03BF\u03C5, \u03C4\u03BF\u03BD \u0399\u03BF\u03CD\u03BB\u03B9\u03BF \u03C4\u03BF\u03C5 1994. \u0393\u03BD\u03C9\u03C3\u03C4\u03CC\u03C2 \u03C9\u03C2 \"\u03A0\u03BF\u03BB\u03C5\u03B1\u03B3\u03B1\u03C0\u03B7\u03BC\u03AD\u03BD\u03BF\u03C2 \u0397\u03B3\u03AD\u03C4\u03B7\u03C2\", \u03AE\u03C4\u03B1\u03BD \u03A0\u03C1\u03CC\u03B5\u03B4\u03C1\u03BF\u03C2 \u03C4\u03B7\u03C2 \u0395\u03C0\u03B9\u03C4\u03C1\u03BF\u03C0\u03AE\u03C2 \u0395\u03B8\u03BD\u03B9\u03BA\u03AE\u03C2 \u0386\u03BC\u03C5\u03BD\u03B1\u03C2 \u03BA\u03B1\u03B9 \u0393.\u0393. \u03C4\u03BF\u03C5 \u039A\u03CC\u03BC\u03BC\u03B1\u03C4\u03BF\u03C2 \u03C4\u03C9\u03BD \u0395\u03C1\u03B3\u03B1\u03C4\u03CE\u03BD \u03C4\u03B7\u03C2 \u039A\u03BF\u03C1\u03AD\u03B1\u03C2. \u03A4\u03BF \u03A3\u03B5\u03C0\u03C4\u03AD\u03BC\u03B2\u03C1\u03B9\u03BF \u03C4\u03BF\u03C5 2008 \u03B1\u03BE\u03B9\u03C9\u03BC\u03B1\u03C4\u03BF\u03CD\u03C7\u03BF\u03C2 \u03B4\u03C5\u03C4\u03B9\u03BA\u03AE\u03C2 \u03C5\u03C0\u03B7\u03C1\u03B5\u03C3\u03AF\u03B1\u03C2 \u03C0\u03BB\u03B7\u03C1\u03BF\u03C6\u03BF\u03C1\u03B9\u03CE\u03BD \u03BC\u03B5\u03C4\u03AD\u03B4\u03C9\u03C3\u03B5 \u03CC\u03C4\u03B9 \u03BF \u0392\u03BF\u03C1\u03B5\u03B9\u03BF\u03BA\u03BF\u03C1\u03B5\u03AC\u03C4\u03B7\u03C2 \u03B7\u03B3\u03AD\u03C4\u03B7\u03C2 \u03B5\u03AF\u03C7\u03B5 \u03C5\u03C0\u03BF\u03C3\u03C4\u03B5\u03AF \u03B5\u03B3\u03BA\u03B5\u03C6\u03B1\u03BB\u03B9\u03BA\u03CC \u03B5\u03C0\u03B5\u03B9\u03C3\u03CC\u03B4\u03B9\u03BF \u03BA\u03B1\u03B9 \u03C4\u03BF \u03B3\u03B5\u03B3\u03BF\u03BD\u03CC\u03C2 \u03BA\u03C1\u03B1\u03C4\u03AE\u03B8\u03B7\u03BA\u03B5 \u03BC\u03C5\u03C3\u03C4\u03B9\u03BA\u03CC \u03B1\u03C0\u03CC \u03C4\u03B9\u03C2 \u03B1\u03C1\u03C7\u03AD\u03C2. \u03A4\u03B9\u03C2 \u03C6\u03AE\u03BC\u03B5\u03C2 \u03B3\u03B9\u03B1 \u03C4\u03B7\u03BD \u03C5\u03B3\u03B5\u03AF\u03B1 \u03C4\u03BF\u03C5 \u03B4\u03B9\u03B5\u03CD\u03C1\u03C5\u03BD\u03B5 \u03BA\u03B1\u03B9 \u03C4\u03BF \u03B3\u03B5\u03B3\u03BF\u03BD\u03CC\u03C2 \u03CC\u03C4\u03B9 \u03B4\u03B5\u03BD \u03C0\u03B1\u03C1\u03AD\u03C3\u03C4\u03B7 \u03C3\u03C4\u03BF\u03C5\u03C2 \u03B5\u03BF\u03C1\u03C4\u03B1\u03C3\u03BC\u03BF\u03CD\u03C2 \u03B3\u03B9\u03B1 \u03C4\u03B7\u03BD \u03B5\u03C0\u03AD\u03C4\u03B5\u03B9\u03BF \u03C4\u03B7\u03C2 \u03B1\u03BD\u03B5\u03BE\u03B1\u03C1\u03C4\u03B7\u03C3\u03AF\u03B1\u03C2 \u03C4\u03B7\u03C2 \u03C7\u03CE\u03C1\u03B1\u03C2 \u03C4\u03BF\u03C5. \u03A3\u03CD\u03BC\u03C6\u03C9\u03BD\u03B1 \u03BC\u03B5 \u03B1\u03BD\u03B1\u03BA\u03BF\u03AF\u03BD\u03C9\u03C3\u03B7 \u03C4\u03B7\u03C2 \u03BA\u03C1\u03B1\u03C4\u03B9\u03BA\u03AE\u03C2 \u03C4\u03B7\u03BB\u03B5\u03CC\u03C1\u03B1\u03C3\u03B7\u03C2 \u03C4\u03B7\u03C2 \u0392. \u039A\u03BF\u03C1\u03AD\u03B1\u03C2 \u03C0\u03BF\u03C5 \u03B1\u03BD\u03B1\u03BC\u03B5\u03C4\u03B1\u03B4\u03CC\u03B8\u03B7\u03BA\u03B5 \u03B1\u03C0\u03CC \u039C\u039C\u0395 \u03C3\u03B5 \u03CC\u03BB\u03BF\u03BD \u03C4\u03BF\u03BD \u03BA\u03CC\u03C3\u03BC\u03BF, \u03C0\u03AD\u03B8\u03B1\u03BD\u03B5 \u03C4\u03BF \u03A3\u03AC\u03B2\u03B2\u03B1\u03C4\u03BF 17 \u0394\u03B5\u03BA\u03B5\u03BC\u03B2\u03C1\u03AF\u03BF\u03C5 2011 \u03C3\u03B5 \u03B7\u03BB\u03B9\u03BA\u03AF\u03B1 70 \u03B5\u03C4\u03CE\u03BD \u03B1\u03C0\u03CC \u03BA\u03B1\u03C1\u03B4\u03B9\u03B1\u03BA\u03AE \u03C0\u03C1\u03BF\u03C3\u03B2\u03BF\u03BB\u03AE."@el ,
+		"Kim Jong-il (* 16. Februar 1941 in Wjatskoje, Russische SFSR, Sowjetunion als Juri Irsenowitsch Kim, russisch \u042E\u0440\u0438\u0439 \u0418\u0440\u0441\u0435\u043D\u043E\u0432\u0438\u0447 \u041A\u0438\u043C; offiziell * 16. Februar 1942 nahe dem Paektusan im Geheimlager Paektusan, Ch\u014Dsen; \u2020 17. Dezember 2011 in Pj\u00F6ngjang, Nordkorea) war ein nordkoreanischer kommunistischer Politiker und nach dem Tod seines Vaters Kim Il-sung als Generalsekret\u00E4r der Partei der Arbeit Koreas (PdAK), Vorsitzender der Nationalen Verteidigungskommission der Demokratischen Volksrepublik Korea und Oberster Befehlshaber der Koreanischen Volksarmee (KVA) von 1994 bis 2011 der stalinistische Diktator Nordkoreas. In Nordkorea war Kim Jong-il Mittelpunkt eines F\u00FChrerkults; au\u00DFerhalb des Landes galt seine Herrschaft als ein diktatorisches, von Menschenrechtsverletzungen gekennzeichnetes Regime. W\u00E4hrend seiner Amtszeit f\u00FChrte auch eine verfehlte Wirtschaftspolitik, die auf das Milit\u00E4r konzentriert war, zur Verarmung der Bev\u00F6lkerung. Als seinen Nachfolger hatte er seinen j\u00FCngsten Sohn Kim Jong-un bestimmt. Postum wurde Kim Jong-il im April 2012 zum \u201EEwigen Generalsekret\u00E4r\u201C sowie zum \u201EEwigen Vorsitzenden des Nationalen Verteidigungskomitees der DVRK\u201C ernannt."@de ,
+		"Kim Jong-il of Kim Ch\u014Fngil (Hangul: \uAE40\uC815\uC77C; Hanja: \u91D1\u6B63\u65E5; Vjatskoje, 16 februari 1942 (Juche 31) \u2013 omgeving van Pyongyang, 17 december 2011 (Juche 99)), tijdens zijn jeugd bekend als Joeri Irsenovitsj Kim (Russisch: \u042E\u0440\u0438\u0439 \u0418\u0440\u0441\u0435\u043D\u043E\u0432\u0438\u0447 \u041A\u0438\u043C), was van 1994 tot zijn overlijden in 2011 de leider van Noord-Korea. Hij was voorzitter van de Nationale Defensiecommissie, secretaris-generaal van de Koreaanse Arbeiderspartij en opperbevelhebber van het Koreaanse Volksleger. In al deze functies was hij de opvolger van zijn vader, Kim Il-sung. Kim Jong-il werd in Noord-Korea veelal aangeduid als \"de Geliefde Leider\", ter onderscheiding van zijn vader, die \"de Grote Leider\" genoemd werd. Ook \"de Generaal\" was een veelgebruikte titel. Bijzonder is dat Kim de eerste leider in de gehele communistische wereld was die ooit zijn vader opvolgde als leider van het land."@nl ,
+		"Kim Jong-il (en chos\u014Fn'g\u016Dl, \uAE40\uC815\uC77C; en hancha, \u91D1\u6B63\u65E5; Monte Paektu, 16 de febrero de 1942 - Pionyang, 17 de diciembre de 2011)\u200B fue un pol\u00EDtico y militar norcoreano. Fue presidente de la Comisi\u00F3n Nacional de Defensa, comandante supremo del Ej\u00E9rcito Popular de Corea y secretario general del Partido del Trabajo de Corea. Fue conocido en su pa\u00EDs como el \u00ABQuerido L\u00EDder\u00BB, el \u00ABAmado L\u00EDder\u00BB o el \u00ABGran Dirigente\u00BB\u200B y en la Constituci\u00F3n como el \u00ABL\u00EDder Supremo\u00BB.\u200B Como autor te\u00F3rico, firm\u00F3 un buen n\u00FAmero de obras en las que desarroll\u00F3 la teor\u00EDa juche, una doctrina colectivista y nacionalista en el que se ha basado la pol\u00EDtica de su Estado. Su fecha de nacimiento es d\u00EDa de fiesta nacional.\u200B"@es ,
+		"Kim Jong-il, f\u00F6dd 16 februari 1941 i  n\u00E4ra Chabarovsk i Sibirien eller 16 februari 1942 vid berget Paektu i d\u00E5varande Japanska Korea, d\u00F6d 17 december 2011 i Pyongyang, var Nordkoreas ledare tillika diktator mellan 1994 och 2011. Han innehade posterna som ordf\u00F6rande i den nationella f\u00F6rsvarskommitt\u00E9n och generalsekreterare i Koreas arbetarparti. Den vanligaste uppfattningen om Kim g\u00F6r g\u00E4llande att han var en grym diktator, bland annat enligt erk\u00E4nda m\u00E4nniskor\u00E4ttsorganisationen Human Rights Watch, som likst\u00E4ller Kim med en diktator som - enligt ovann\u00E4mnda organisation och d\u00E4rtill 24 andra m\u00E4nniskor\u00E4ttsorganisationer - var synnerligen korrupt.\u00C4ven Amnesty g\u00F6r g\u00E4llande att Kim fortsatte p\u00E5 den diktatoriska v\u00E4g som hans fader banat v\u00E4g f\u00F6r, d\u00E5 han, i likhet med sin far, satte hundratusentals olikt\u00E4nkande nordkoreanska medborgare i brutala f\u00E5ngl\u00E4ger och samtidigt l\u00E4t miljontals f\u00F6rbli i fattigdom med f\u00F6ljder som sv\u00E4lt och bristf\u00E4llig sjukv\u00E5rd."@sv ,
+		"\u0643\u064A\u0645 \u062C\u0648\u0646\u063A \u0625\u0644 (16 \u0641\u0628\u0631\u0627\u064A\u0631 1941 - 17 \u062F\u064A\u0633\u0645\u0628\u0631 2011) \u0631\u0626\u064A\u0633 \u0643\u0648\u0631\u064A\u0627 \u0627\u0644\u0634\u0645\u0627\u0644\u064A\u0629 \u0645\u0646\u0630 \u0639\u0627\u0645 1994 \u062D\u062A\u0649 \u0648\u0641\u0627\u062A\u0647\u060C \u0643\u0645\u0627 \u0634\u063A\u0644 \u0645\u0646\u0635\u0628 \u0645\u0633\u062A\u0634\u0627\u0631\u064A \u0644\u062C\u0646\u0629 \u0627\u0644\u062F\u0641\u0627\u0639 \u0627\u0644\u0642\u0648\u0645\u064A\u060C \u0648\u0627\u0644\u0642\u0627\u0626\u062F \u0627\u0644\u0623\u0639\u0644\u0649 \u0644\u062C\u064A\u0634 \u0643\u0648\u0631\u064A\u0627 \u0627\u0644\u0634\u0639\u0628\u064A\u060C \u0648\u0627\u0644\u0633\u0643\u0631\u062A\u064A\u0631 \u0627\u0644\u0639\u0627\u0645 \u0644\u062D\u0632\u0628 \u0627\u0644\u0639\u0645\u0627\u0644 \u0627\u0644\u0643\u0648\u0631\u064A (\u0627\u0644\u062D\u0632\u0628 \u0627\u0644\u062D\u0627\u0643\u0645 \u0645\u0646\u0630 1948) \u062A\u0648\u0644\u0649 \u0627\u0644\u062D\u0643\u0645 \u062E\u0644\u0641\u0627 \u0644\u0648\u0627\u0644\u062F\u0647 \u0643\u064A\u0645 \u0625\u0644 \u0633\u0648\u0646\u063A\u060C \u0645\u0624\u0633\u0633 \u0643\u0648\u0631\u064A\u0627 \u0627\u0644\u0634\u0645\u0627\u0644\u064A\u0629\u060C \u0627\u0644\u0630\u064A \u062A\u0648\u0641\u064A \u0641\u064A \u0627\u0644\u0639\u0627\u0645 1994. \u064A\u0634\u0627\u0631 \u0644\u0644\u0631\u0626\u064A\u0633 \u0628\u0640 \u0627\u0644\u0642\u0627\u0626\u062F \u0627\u0644\u0639\u0632\u064A\u0632 \u0648\u064A\u0639\u062F \u0627\u0644\u0627\u062D\u062A\u0641\u0627\u0644 \u0628\u0639\u064A\u062F \u0645\u064A\u0644\u0627\u062F\u0647 \u0645\u0646 \u0623\u0647\u0645 \u0627\u0644\u0623\u0639\u064A\u0627\u062F \u0627\u0644\u0648\u0637\u0646\u064A\u0629 \u0641\u064A \u0643\u0648\u0631\u064A\u0627 \u0627\u0644\u0634\u0645\u0627\u0644\u064A\u0629."@ar ,
+		"Kim Jong-il or Kim Jong Il (Korean: \uAE40\uC815\uC77C; Korean pronunciation: [kim.dz\u0254\u014B.il]; 16 February 1941 or 1942 \u2013 17 December 2011) was a North Korean politician who served as the second Supreme Leader of North Korea from 1994 to 2011. He led North Korea from the 1994 death of his father Kim Il-sung, North Korea\u2019s first Supreme Leader, until his own death in 2011, when he was succeeded by his son, Kim Jong-un. In the early 1980s, Kim had become the heir apparent for the leadership of the Democratic People's Republic of Korea (DPRK) and assumed important posts in the party and army organs. Kim succeeded his father and DPRK founder Kim Il-sung, following the elder Kim's death in 1994. Kim was the General Secretary of the Workers' Party of Korea (WPK), WPK Presidium, Chairman of the National Defence Commission (NDC) of North Korea and the Supreme Commander of the Korean People's Army (KPA), the fourth-largest standing army in the world. Kim ruled a repressive and totalitarian dictatorship in North Korea. Kim assumed supreme leadership during a period of catastrophic economic crisis amidst the dissolution of the Soviet Union, on which it was heavily dependent for trade in food and other supplies, which brought a famine. While the famine had ended by the late 1990s, food scarcity continued to be a problem throughout his tenure. Kim strengthened the role of the military by his Songun (\"military-first\") policies, making the army the central organizer of civil society. Kim's rule also saw tentative economic reforms, including the opening of the Kaesong Industrial Park in 2003. In April 2009, North Korea's constitution was amended to refer to him and his successors as the \"supreme leader of the DPRK\". The most common colloquial title given to Kim was \"Dear Leader\" to distinguish him from his father Kim Il-sung, the \"Great Leader\". Following Kim's failure to appear at important public events in 2008, foreign observers assumed that Kim had either fallen seriously ill or died. On 19 December 2011, the North Korean government announced that he had died two days earlier, whereupon his third son, Kim Jong-un, was promoted to a senior position in the ruling WPK and succeeded him. After his death, Kim was designated the \"Eternal General Secretary\" of the WPK and the \"Eternal Chairman of the National Defence Commission\", in keeping with the tradition of establishing eternal posts for the dead members of the Kim dynasty."@en ,
+		"KIM \u011Cong-il (korea:\uAE40\uC815\uC77C - \u91D1\u6B63\u65E5; 16-a de februaro 1941 \u2013 17-a de decembro 2011) estis la estro de Nord-Koreio ekde 1994. Li estis la \u0108efo de la Nacia Defendo-Komisio, \u0108efkomandanto de la Korea Popola Armeo, kaj \u011Cenerala Sekretario de la Laborista Partio de Koreio. Li sekvis sian patron Kim Il-sung, la fondinto de Nord-Koreio, kiu forpasis en 1994. Anta\u016Dvidata posteulo estas Kim \u011Cong-un, la plej juna filo de Kim \u011Cong-il."@eo ,
+		"\u041A\u0456\u043C \u0427\u0435\u043D \u0406\u0440 (\u043A\u043E\u0440. \uAE40\uC815\uC77C, \u0437\u0430 \u0441\u0438\u0441\u0442\u0435\u043C\u043E\u044E \u041A\u043E\u043D\u0446\u0435\u0432\u0438\u0447\u0430 \u2014 \u041A\u0456\u043C \u0414\u0436\u043E\u043D'\u0456\u043B\u044C; \u0456\u043C'\u044F \u043F\u0440\u0438 \u043D\u0430\u0440\u043E\u0434\u0436\u0435\u043D\u043D\u0456 \u2014 \u042E\u0440\u0456\u0439 \u0406\u0440\u0441\u0435\u043D\u043E\u0432\u0438\u0447 \u041A\u0456\u043C; 16 \u043B\u044E\u0442\u043E\u0433\u043E 1941 \u0430\u0431\u043E 1942 \u2014 17 \u0433\u0440\u0443\u0434\u043D\u044F 2011) \u2014 \u0433\u043E\u043B\u043E\u0432\u0430 \u041A\u043E\u0440\u0435\u0439\u0441\u044C\u043A\u043E\u0457 \u041D\u0430\u0440\u043E\u0434\u043D\u043E-\u0414\u0435\u043C\u043E\u043A\u0440\u0430\u0442\u0438\u0447\u043D\u043E\u0457 \u0420\u0435\u0441\u043F\u0443\u0431\u043B\u0456\u043A\u0438, \u0433\u0435\u043D\u0435\u0440\u0430\u043B\u044C\u043D\u0438\u0439 \u0441\u0435\u043A\u0440\u0435\u0442\u0430\u0440 \u0422\u0440\u0443\u0434\u043E\u0432\u043E\u0457 \u043F\u0430\u0440\u0442\u0456\u0457 \u041A\u043E\u0440\u0435\u0457, \u0412\u0435\u0440\u0445\u043E\u0432\u043D\u0438\u0439 \u0413\u043E\u043B\u043E\u0432\u043D\u043E\u043A\u043E\u043C\u0430\u043D\u0434\u0443\u0432\u0430\u0447 \u041A\u043E\u0440\u0435\u0439\u0441\u044C\u043A\u043E\u0457 \u043D\u0430\u0440\u043E\u0434\u043D\u043E\u0457 \u0430\u0440\u043C\u0456\u0457, \u0433\u043E\u043B\u043E\u0432\u0430 \u0414\u0435\u0440\u0436\u0430\u0432\u043D\u043E\u0433\u043E \u041A\u043E\u043C\u0456\u0442\u0435\u0442\u0443 \u043E\u0431\u043E\u0440\u043E\u043D\u0438 \u041A\u041D\u0414\u0420, \u0441\u0438\u043D \u00AB\u0432\u0435\u043B\u0438\u043A\u043E\u0433\u043E \u0432\u043E\u0436\u0434\u044F\u00BB \u041A\u0456\u043C \u0406\u0440 \u0421\u0435\u043D\u0430. \u041D\u0430 \u0432\u0456\u0434\u043C\u0456\u043D\u0443 \u0432\u0456\u0434 \u0431\u0430\u0442\u044C\u043A\u0430 \u043C\u0430\u0432 \u0442\u0438\u0442\u0443\u043B \u00AB\u0412\u0435\u043B\u0438\u043A\u0438\u0439 \u043A\u0435\u0440\u0456\u0432\u043D\u0438\u043A\u00BB (\uC704\uB300\uD55C \uB839\uB3C4\uC790), \u0440\u0430\u043D\u0456\u0448\u0435, \u0434\u043E \u0441\u043C\u0435\u0440\u0442\u0456 \u0431\u0430\u0442\u044C\u043A\u0430 \u2014 \u00AB\u0423\u043B\u044E\u0431\u043B\u0435\u043D\u0438\u0439 \u043A\u0435\u0440\u0456\u0432\u043D\u0438\u043A\u00BB (\uCE5C\uC560\uD558\uB294 \uC9C0\uB3C4\uC790). \u0419\u043E\u0433\u043E \u0447\u0430\u0441\u0442\u043E \u043D\u0430\u0437\u0438\u0432\u0430\u043B\u0438 \u0442\u0430\u043A\u043E\u0436 \u00AB\u041F\u043E\u043B\u043A\u043E\u0432\u043E\u0434\u0446\u0435\u043C\u00BB (\uC7A5\uAD70)."@uk ,
+		"Kim Jong-il, tamb\u00E9 transcrit Kim Jong Il (16 de febrer del 1941 - 17 de desembre del 2011), va ser el l\u00EDder de facto de la Rep\u00FAblica Popular Democr\u00E0tica de Corea, comunament coneguda com a Corea del Nord, des del 1994 fins al 2011, quan va morir. Per a principis de 1980, Kim s'havia convertit en l'hereu de la direcci\u00F3 del pa\u00EDs i va assumir importants c\u00E0rrecs en els \u00F2rgans del partit i de l'ex\u00E8rcit, ja que el l\u00EDder oficial del pa\u00EDs va continuar sent el seu pare mort, Kim Il-sung, fundador de l'estat. Va ser conegut al seu pa\u00EDs com el L\u00EDder Estimat o el Gran Dirigent i oficialment en la  com el  L\u00EDder Suprem . Com a autor te\u00F2ric, va signar un bon nombre d'obres en les quals va desenvolupar la teoria juche, una doctrina col\u00B7lectivista i nacionalista en el qual es va basar la pol\u00EDtica del seu Estat. La seva data d'aniversari \u00E9s una festa nacional."@ca ,
+		"Kim Jong-il (\uAE40\uC815\uC77C?; Chabarovsk, 16 febbraio 1941 \u2013 Pyongyang, 17 dicembre 2011) \u00E8 stato un politico e dittatore nordcoreano. Ha governato la Corea del Nord dal 1994 fino alla morte. \u00C8 stato preceduto dal padre Kim Il-sung, che ha governato la Corea del Nord dal 1948 alla morte nel 1994 e che conserva a tutt'oggi il titolo di \"presidente eterno\". Kim Jong-il \u00E8 stato presidente della Commissione di difesa nazionale e segretario del Partito del Lavoro di Corea (nominato segretario generale eterno del partito nell'aprile 2012). Comandante del terzo esercito pi\u00F9 grande al mondo, in Corea del Nord veniva salutato come il \"caro leader\" o il \"grande leader della Patria\". L'anniversario della nascita \u00E8 inoltre una festivit\u00E0 pubblica."@it ,
+		"Kim Jong-il (1941eko otsailaren 16a - 2011ko abenduaren 17a) Koreako Herri Errepublika Demokratikoko diktadorea izan zen; herrialde hartako de facto , haren aita Kim Il-sung hil zenetik. Defentsa Batzordeko zuzendaria,  idazkari nagusia eta Armadako komandante gorena ere zen. Buruzagi Maitea, Gure Aita, Jenerala eta Generalissimo tituluekin aipatua da bere agintepeko hedabide ofizialetan. Kim Jong-ilen seme Kim Jong-un haren balizko ondorengo bilakatu zen."@eu ,
+		"Kim Jong-il (menurut versi resmi biografinya lahir 16 Februari 1942 \u2013 meninggal 17 Desember 2011 pada umur 69 tahun) telah menjabat sebagai pemimpin Korea Utara (Korut) sejak 1994. Ia menggantikan ayahnya, Kim Il-sung, yang telah memimpin Korut sejak 1948. Kim Jong-il diangkat menggunakan sistem di mana dialah satu-satunya calon pemimpin. Kim yang mendapat julukan Dear Leader juga menjabat sebagai Ketua Komisi Pertahanan Nasional dan Sekretaris Jenderal Partai Pekerja Korea. Ulang tahunnya dirayakan sebagai salah satu hari libur di Korut. Pada tanggal 19 Desember 2011, kantor berita Reuters memberitakan bahwa Kim Jong-il meninggal dunia pada hari Sabtu, 17 Desember 2011 dalam sebuah perjalanan dengan kereta api. Diumumkan bahwa pemimpin berusia 69 tahun itu meninggal karena kelelahan fisik dan mental setelah bekerja terlalu keras untuk memberi \"bimbingan di lapangan\" . Ia dimakamkan di Istana Pemakaman Kumsusan, Pyongyang . Untuk mengenang jasa-jasanya, pada tanggal 15 Februari 2012, ia dianugerahi gelar tertinggi sebagai \"Jenderal Besar\". Penobatan Kim sebagai \"Jenderal Besar\" diumumkan sehari setelah peresmian patung Kim sedang mengendarai kuda di samping ayahnya yang juga pendiri negara Korea Utara, Kim Il Sung, di Pyongyang ."@in ,
+		"Kim \u010Cong-il, v anglick\u00E9m p\u0159episu Kim Jong-il, rusky: \u041A\u0438\u043C \u0427\u0435\u043D \u0418\u0440, Kim \u010Cen Ir, korejsky: \uAE40\uC815\uC77C, (16. \u00FAnora 1941,  pobl\u00ED\u017E Chabarovsku, Sov\u011Btsk\u00FD svaz /sov\u011Btsk\u00E9 prameny/ nebo 16. \u00FAnora 1942, Pektusan, Korea /severokorejsk\u00E9 prameny/ \u2013 17. prosince 2011, Severn\u00ED Korea) byl severokorejsk\u00FD politik, zast\u00E1nce u\u010Den\u00ED \u010Du\u010Dche, a od roku 1994 de facto v\u016Fdce Korejsk\u00E9 lidov\u011B demokratick\u00E9 republiky. B\u011Bhem sv\u00E9ho pobytu v SSSR pou\u017E\u00EDval jm\u00E9no Jurij Irsenovi\u010D Kim. Zem\u0159el na rozs\u00E1hl\u00FD srde\u010Dn\u00ED infarkt."@cs ,
+		"Bh\u00ED Kim Jong-il (Yuri Irsenovich Kim; 16 Feabhra 1941 \u2013 17 Nollaig 2011) ina Ardcheannaire ar an gC\u00F3ir\u00E9 Thuaidh idir 1994 agus l\u00E1 a bh\u00E1is sa bhliain 2011. Th\u00E1inig s\u00E9 i gcomharbacht ar a athair Kim Il-sung, bunaitheoir an st\u00E1it. Bh\u00ED Kim Jong-il ina Ard-R\u00FAna\u00ED ar Ph\u00E1irt\u00ED Oibrithe na C\u00F3ir\u00E9, Cathaoirleach ar Choimisi\u00FAn Cosanta N\u00E1isi\u00FAnta na C\u00F3ir\u00E9 Thuaidh, agus Ardcheannasa\u00ED ar Arm an Phobail, an ceathr\u00FA harm is m\u00F3 ar domhain. Nuair a fuair Kim Jong-il b\u00E1s a bhliain 2011, th\u00E1inig mac leis, Kim Jong-un, i gcomharbacht air. Is iadsan an t-aon deacht\u00F3ireacht cumannach oidhreacht\u00FAil i stair an domhain iad."@ga ,
+		"\u041A\u0438\u043C \u0427\u0435\u043D \u0418\u0440 (\u043A\u043E\u0440. \uAE40\uC815\uC77C?, \u91D1\u6B63\u65E5?;; 16 \u0444\u0435\u0432\u0440\u0430\u043B\u044F 1941 \u0438\u043B\u0438 1942 \u2014 17 \u0434\u0435\u043A\u0430\u0431\u0440\u044F 2011) \u2014 \u0441\u0435\u0432\u0435\u0440\u043E\u043A\u043E\u0440\u0435\u0439\u0441\u043A\u0438\u0439 \u0433\u043E\u0441\u0443\u0434\u0430\u0440\u0441\u0442\u0432\u0435\u043D\u043D\u044B\u0439, \u043F\u043E\u043B\u0438\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0439, \u043F\u0430\u0440\u0442\u0438\u0439\u043D\u044B\u0439 \u0438 \u0432\u043E\u0435\u043D\u043D\u044B\u0439 \u0434\u0435\u044F\u0442\u0435\u043B\u044C, \u0412\u0435\u043B\u0438\u043A\u0438\u0439 \u0440\u0443\u043A\u043E\u0432\u043E\u0434\u0438\u0442\u0435\u043B\u044C \u041A\u043E\u0440\u0435\u0439\u0441\u043A\u043E\u0439 \u041D\u0430\u0440\u043E\u0434\u043D\u043E-\u0414\u0435\u043C\u043E\u043A\u0440\u0430\u0442\u0438\u0447\u0435\u0441\u043A\u043E\u0439 \u0420\u0435\u0441\u043F\u0443\u0431\u043B\u0438\u043A\u0438, \u0413\u0435\u043D\u0435\u0440\u0430\u043B\u044C\u043D\u044B\u0439 \u0441\u0435\u043A\u0440\u0435\u0442\u0430\u0440\u044C \u0426\u041A \u0422\u0440\u0443\u0434\u043E\u0432\u043E\u0439 \u043F\u0430\u0440\u0442\u0438\u0438 \u041A\u043E\u0440\u0435\u0438, \u0412\u0435\u0440\u0445\u043E\u0432\u043D\u044B\u0439 \u0433\u043B\u0430\u0432\u043D\u043E\u043A\u043E\u043C\u0430\u043D\u0434\u0443\u044E\u0449\u0438\u0439 \u041A\u043E\u0440\u0435\u0439\u0441\u043A\u043E\u0439 \u043D\u0430\u0440\u043E\u0434\u043D\u043E\u0439 \u0430\u0440\u043C\u0438\u0438, \u041F\u0440\u0435\u0434\u0441\u0435\u0434\u0430\u0442\u0435\u043B\u044C \u0413\u043E\u0441\u0443\u0434\u0430\u0440\u0441\u0442\u0432\u0435\u043D\u043D\u043E\u0433\u043E \u043A\u043E\u043C\u0438\u0442\u0435\u0442\u0430 \u043E\u0431\u043E\u0440\u043E\u043D\u044B \u041A\u041D\u0414\u0420, \u0441\u044B\u043D \u0412\u0435\u043B\u0438\u043A\u043E\u0433\u043E \u0412\u043E\u0436\u0434\u044F \u041A\u0438\u043C \u0418\u0440 \u0421\u0435\u043D\u0430. \u0413\u0435\u043D\u0435\u0440\u0430\u043B\u0438\u0441\u0441\u0438\u043C\u0443\u0441 \u041A\u041D\u0414\u0420 (2012, \u043F\u043E\u0441\u043C\u0435\u0440\u0442\u043D\u043E). \u0427\u0435\u0442\u044B\u0440\u0435\u0436\u0434\u044B \u0413\u0435\u0440\u043E\u0439 \u041A\u041D\u0414\u0420."@ru ,
+		"Kim Jong-il (en chosongeul : \uAE40\uC815\uC77C et en hanja : \u91D1\u6B63\u65E5), n\u00E9 le 16 f\u00E9vrier 1941 ou 1942 et mort le 17 d\u00E9cembre 2011, est un homme d'\u00C9tat nord-cor\u00E9en, dirigeant de la Cor\u00E9e du Nord de 1994 \u00E0 sa mort en 2011. Il succ\u00E8de \u00E0 son p\u00E8re, Kim Il-sung, qui a dirig\u00E9 le pays entre 1948 et 1994. Appel\u00E9 le \u00AB Cher dirigeant \u00BB (\uCE5C\uC560\uD558\uB294 \uC9C0\uB3C4\uC790, chinaehaneun jidoja ; \u00E9galement traduit par \u00AB Dirigeant bien-aim\u00E9 \u00BB), il occupe alors les fonctions de pr\u00E9sident du Comit\u00E9 de la d\u00E9fense nationale et de secr\u00E9taire g\u00E9n\u00E9ral du Parti du travail de Cor\u00E9e. En 2010, il est list\u00E9 \u00E0 la 31e place des personnalit\u00E9s les plus puissantes au monde par le magazine Forbes. Kim Jong-il meurt le 17 d\u00E9cembre 2011. Son plus jeune fils Kim Jong-un lui succ\u00E8de au pouvoir, maintenant la lign\u00E9e du mont Paektu \u00E0 la t\u00EAte de la Cor\u00E9e du Nord. Son jour de naissance est un jour f\u00E9ri\u00E9 en Cor\u00E9e du Nord \u00AB f\u00EAte nationale \u00E0 sa m\u00E9moire \u00BB."@fr ,
+		"Kim Dzong Il (IPA: [\u0261\u030Aimd\u035Cz\u0254\u014Bil], kor. \uAE40\uC815\uC77C) (ur. 16 lutego 1941 we Wiatskoje, zm. 17 grudnia 2011 w Pjongjangu) \u2013 przyw\u00F3dca Korei P\u00F3\u0142nocnej w latach 1994\u20132011. By\u0142 nast\u0119pc\u0105 swego ojca i za\u0142o\u017Cyciela KRLD, Kim Ir Sena po jego \u015Bmierci w 1994. By\u0142 r\u00F3wnie\u017C sekretarzem generalnym Partii Pracy Korei, przewodnicz\u0105cym Narodowej Komisji Obrony, a tak\u017Ce marsza\u0142kiem i dow\u00F3dc\u0105 Korea\u0144skiej Armii Ludowej."@pl ,
+		"Kim Jong-il, em coreano \u91D1\u6B63\u65E5; \uAE40\uC815\uC77C, (16 de fevereiro de 1941 \u2014 17 de dezembro de 2011) foi um chefe de Estado que, de 1994 a 2011, exerceu as fun\u00E7\u00F5es de L\u00EDder Supremo da Rep\u00FAblica Popular Democr\u00E1tica da Coreia e de Presidente da Comiss\u00E3o de Defesa Nacional da Coreia do Norte e Secret\u00E1rio-Geral do Partido dos Trabalhadores da Coreia \u2014 cargos m\u00E1ximos em \u00E2mbito militar e pol\u00EDtico da na\u00E7\u00E3o coreana. Kim Jong-il herdou do pai, Kim Il-Sung, o controle do governo norte-coreano, mantendo sua face autorit\u00E1ria e a centraliza\u00E7\u00E3o do poder. Kim Jong-il manteve a ideologia oficial juche, de completa autossufici\u00EAncia nacional, e um regime comunista totalit\u00E1rio de vi\u00E9s estalinista. Enfrentou san\u00E7\u00F5es econ\u00F4micas internacionais, carestia dentre seu povo e deteriora\u00E7\u00E3o da qualidade de vida da popula\u00E7\u00E3o, mas se manteve no poder por meio repress\u00E3o e um extenso culto \u00E0 personalidade."@pt ,
+		"\uAE40\uC815\uC77C(\u91D1\u6B63\u65E5, 1941\uB144 2\uC6D4 16\uC77C ~ 2011\uB144 12\uC6D4 17\uC77C)\uC740 \uC870\uC120\uBBFC\uC8FC\uC8FC\uC758\uC778\uBBFC\uACF5\uD654\uAD6D\uC758 \uCD5C\uACE0\uC9C0\uB3C4\uC790\uC774\uB2E4. \uC870\uC120\uBBFC\uC8FC\uC8FC\uC758\uC778\uBBFC\uACF5\uD654\uAD6D \uAD6D\uBC29\uC704\uC6D0\uD68C\uC758 \uC704\uC6D0\uC7A5\uC774\uC5C8\uC73C\uBA70 \uAE40\uC77C\uC131\uACFC \uAE40\uC815\uC219 \uC0AC\uC774\uC758 \uCCAB\uC9F8 \uC544\uB4E4\uC774\uB2E4. \uAE40\uC815\uC77C\uC740 \uC5B4\uB9B0 \uC2DC\uC808 \uD55C\uAD6D \uC804\uC7C1 \uB2F9\uC2DC \uD3C9\uC591\uC744 \uB5A0\uB098 \uAC04\uB3C4 \uC9C0\uC5ED\uC73C\uB85C \uC740\uC2E0\uD558\uC600\uC73C\uB098 \uC911\uAD6D\uC778\uBBFC\uC9C0\uC6D0\uAD70\uC758 \uCC38\uC804\uC73C\uB85C \uADC0\uD658\uD588\uB2E4. \uAE40\uC77C\uC131\uC885\uD569\uB300\uD559 \uC815\uCE58\uACBD\uC81C\uD559\uACFC\uB97C \uC878\uC5C5\uD558\uC600\uC73C\uBA70 1961\uB144 7\uC6D4 22\uC77C \uC870\uC120\uB85C\uB3D9\uB2F9\uC5D0 \uC785\uB2F9\uD55C \uC774\uD6C4\uBD80\uD130 \uC870\uC120\uB85C\uB3D9\uB2F9 \uC911\uC559\uC704\uC6D0\uD68C \uC704\uC6D0\uACFC \uBE44\uC11C \uB4F1\uC5D0 \uC784\uBA85\uB418\uC5C8\uB2E4. 1970\uB144\uB300\uBD80\uD130 \uAE40\uC77C\uC131\uC758 \uD6C4\uACC4\uC790\uB85C \uC8FC\uBAA9\uB418\uC5C8\uC73C\uBA70 1980\uB144 \uC81C6\uCC28 \uB2F9 \uB300\uD68C\uB97C \uD1B5\uD574\uC11C \uACF5\uC2DD\uC801\uC778 \uD6C4\uACC4\uC790\uAC00 \uB418\uC5C8\uB2E4. 1994\uB144 \uAE40\uC77C\uC131 \uAD6D\uAC00 \uC8FC\uC11D\uC758 \uC0AC\uB9DD \uC774\uD6C4\uC5D0 \uAD8C\uB825\uC744 \uC138\uC2B5\uD574 \uACF5\uD654\uAD6D\uC758 \uC2E4\uAD8C\uC744 \uC7A1\uC544 \uD1B5\uCE58\uC790\uAC00 \uB418\uC5C8\uACE0 \uACBD\uC81C\uC801 \uC0C1\uD669\uC774 \uB9E4\uC6B0 \uC88B\uC9C0 \uC54A\uC558\uB358 1993\uB144\uBD80\uD130 6\uB144 \uB3D9\uC548 \uC774\uB978\uBC14 \uACE0\uB09C\uC758 \uD589\uAD70 \uC2DC\uAE30\uB97C \uAC70\uCE58\uBA74\uC11C \uC7AC\uC815\uB0AD\uBE44\uB4F1\uC73C\uB85C \uBB34\uB2A5\uB825\uD55C \uC9C0\uB3C4\uC790\uB85C \uBE44\uD310\uBC1B\uC558\uB2E4. 2011\uB144 12\uC6D4 17\uC77C\uC5D0 \uAE09\uC131 \uC2EC\uADFC\uACBD\uC0C9\uC73C\uB85C \uC0AC\uB9DD\uD558\uBA74\uC11C \uAE40\uC815\uC77C\uC758 \uD6C4\uACC4 \uC790\uB9AC\uB294 \uADF8\uC758 \uC14B\uC9F8 \uC544\uB4E4\uC778 \uAE40\uC815\uC740\uC5D0\uAC8C \uC2B9\uACC4\uB418\uC5C8\uB2E4. \uC870\uC120\uBBFC\uC8FC\uC8FC\uC758\uC778\uBBFC\uACF5\uD654\uAD6D\uC5D0\uC11C\uB294 \"\uC870\uC120\uB85C\uB3D9\uB2F9 \uCD1D\uBE44\uC11C\uC774\uC2DC\uBA70 \uC870\uC120\uBBFC\uC8FC\uC8FC\uC758\uC778\uBBFC\uACF5\uD654\uAD6D \uAD6D\uBC29\uC704\uC6D0\uD68C \uC704\uC6D0\uC7A5\uC774\uC2DC\uBA70 \uC870\uC120\uC778\uBBFC\uAD70 \uCD5C\uACE0\uC0AC\uB839\uAD00\uC774\uC2E0 \uC6B0\uB9AC \uB2F9\uACFC \uC6B0\uB9AC \uC778\uBBFC\uC758 \uC704\uB300\uD55C \uB839\uB3C4\uC790 \uAE40\uC815\uC77C \uB3D9\uC9C0\"(\uC904\uC5EC\uC11C \"\uC704\uB300\uD55C \uB839\uB3C4\uC790 \uAE40\uC815\uC77C \uB3D9\uC9C0\")\uB85C \uBD88\uB838\uB2E4. 2012\uB144 4\uC6D4 11\uC77C \uC870\uC120\uB85C\uB3D9\uB2F9 \uB2F9\uB300\uD45C\uC790\uD68C\uC758\uC5D0\uC11C \uC870\uC120\uB85C\uB3D9\uB2F9\uC758 \uC601\uC6D0\uD55C \uCD1D\uBE44\uC11C\uB85C \uCD94\uB300\uB418\uC5C8\uC73C\uBA70 2012\uB144 4\uC6D4 13\uC77C \uC870\uC120\uBBFC\uC8FC\uC8FC\uC758\uC778\uBBFC\uACF5\uD654\uAD6D \uCD5C\uACE0\uC778\uBBFC\uD68C\uC758 \uC81C12\uAE30 \uC81C5\uCC28 \uD68C\uC758\uC5D0\uC11C \uC601\uC6D0\uD55C \uAD6D\uBC29\uC704\uC6D0\uC7A5\uC73C\uB85C \uCD94\uB300\uB418\uC5C8\uB2E4."@ko ,
+		"\u91D1\u6B63\u65E5\uFF08\u671D\u9BAE\u8A9E\uFF1A\uAE40\uC815\uC77C\uFF0C1941\u5E742\u670816\u65E5\uFF0D2011\u5E7412\u670817\u65E5\uFF09\uFF0C\u662F\u671D\u9BAE\u6C11\u4E3B\u4E3B\u7FA9\u4EBA\u6C11\u5171\u548C\u570B\u7684\u7B2C\u4E8C\u4EE3\u6700\u9AD8\u9818\u5C0E\u4EBA\uFF0C\u671D\u9C9C\u52B3\u52A8\u515A\u6C38\u8FDC\u7684\u603B\u4E66\u8BB0\u3002\u751F\u524D\u64D4\u4EFB\u671D\u9BAE\u52DE\u52D5\u9EE8\u7E3D\u66F8\u8A18\u3001\u671D\u9BAE\u570B\u9632\u59D4\u54E1\u6703\u59D4\u54E1\u9577\u3001\u671D\u9BAE\u4EBA\u6C11\u8ECD\u6700\u9AD8\u53F8\u4EE4\u5B98\u53CA\u671D\u9BAE\u52DE\u52D5\u9EE8\u4E2D\u592E\u8ECD\u4E8B\u59D4\u54E1\u6703\u59D4\u54E1\u9577\u7B49\u8077\u52D9\u3002\u91D1\u6B63\u65E5\u662F\u671D\u9BAE\u5EFA\u570B\u9818\u5C0E\u4EBA\u91D1\u65E5\u6210\u9577\u5B50\uFF0C\u5176\u6BCD\u70BA\u91D1\u6B63\u6DD1\u3002\u91D1\u6B63\u65E5\u7ECF\u8FC7\u6700\u9AD8\u4EBA\u6C11\u4F1A\u8BAE\u9009\u4E3E\uFF0C\u64D4\u4EFB\u6700\u9AD8\u9886\u5BFC\u4EBA\uFF0C\u9818\u5C0E\u671D\u9BAE\u9577\u905417\u5E74\u3002 1992\u5E744\u670820\u65E5\u88AB\u6388\u4E88\u671D\u9C9C\u6C11\u4E3B\u4E3B\u4E49\u4EBA\u6C11\u5171\u548C\u56FD\u5143\u5E05\u519B\u8854\uFF08\u671D\u9C9C\u8BED\u79F0\u519B\u8854\u4E3A\u201C\u519B\u4E8B\u79F0\u53F7\u201D\uFF09\uFF0C2012\u5E742\u670814\u65E5\u88AB\u8FFD\u6388\u671D\u9C9C\u6C11\u4E3B\u4E3B\u4E49\u4EBA\u6C11\u5171\u548C\u56FD\u5927\u5143\u5E05\u519B\u4E8B\u79F0\u53F7\u30022012\u5E744\u670811\u65E5\u7684\u52B3\u52A8\u515A\u4EE3\u8868\u4F1A\u8BAE\u4E0A\u88AB\u62E5\u6234\u4E3A\u201C\u6C38\u8FDC\u7684\u603B\u4E66\u8BB0\u201D\uFF0C\u5C06\u671D\u9C9C\u52B3\u52A8\u515A\u603B\u6700\u9AD8\u9886\u5BFC\u4EBA\u7684\u804C\u79F0\u6539\u4E3A\u201C\u7B2C\u4E00\u4E66\u8BB0\u201D\uFF1B\u572813\u65E5\u7684\u7B2C12\u5C4A\u6700\u9AD8\u4EBA\u6C11\u4F1A\u8BAE\u7B2C5\u6B21\u4F1A\u8BAE\u4E0A\u88AB\u62E5\u6234\u4E3A\u300C\u6C38\u8FDC\u7684\u56FD\u9632\u59D4\u5458\u4F1A\u59D4\u5458\u957F\u300D\u3002"@zh ;
+	dbo:birthName	"Yuri Irsenovich Kim"@en .
+@prefix ns77:	<http://www.w3.org/2006/03/wn/wn20/instances/> .
+dbr:Kim_Jong-il	dbp:wordnet_type	ns77:synset-incumbent-noun-1 ,
+		ns77:synset-president-noun-3 ;
+	dbo:wikiPageLength	"99600"^^xsd:nonNegativeInteger ;
+	dbp:honorificPrefix	dbr:Taewonsu ,
+		dbr:Eternal_leaders_of_North_Korea ;
+	dbp:office	<http://dbpedia.org/resource/Chairman_of_the_Workers\u0027_Party_of_Korea> ,
+		dbr:Chairman_of_the_State_Affairs_Commission ,
+		"Supreme Leader of North Korea"@en ,
+		dbr:Supreme_Commander_of_the_Armed_Forces_of_North_Korea ;
+	dbp:party	<http://dbpedia.org/resource/Workers\u0027_Party_of_Korea> ;
+	dbp:predecessor	dbr:Kim_Il-sung ;
+	dbp:successor	dbr:Kim_Jong-un ;
+	dbp:termEnd	"--04-11"^^xsd:gMonthDay ,
+		"--04-13"^^xsd:gMonthDay ,
+		"2011-12-17"^^xsd:date ;
+	dbp:termStart	"1993-04-09"^^xsd:date ,
+		"1994-07-08"^^xsd:date ,
+		"1991-12-24"^^xsd:date ,
+		"1997-10-08"^^xsd:date ;
+	dbo:party	<http://dbpedia.org/resource/Workers\u0027_Party_of_Korea> ;
+	dbo:termPeriod	dbr:Kim_Jong-il__Tenure__1 ,
+		dbr:Kim_Jong-il__Tenure__4 ,
+		dbr:Kim_Jong-il__Tenure__2 ,
+		dbr:Kim_Jong-il__Tenure__3 ;
+	dbo:child	dbr:Kim_Jong-un ,
+		dbr:Kim_Jong-nam ,
+		dbr:Kim_Jong-chul ,
+		dbr:Kim_Sul-song ,
+		dbr:Kim_Yo-jong ;
+	dbp:last	dbr:Kim_Il-sung ;
+	dbp:commands	dbr:Supreme_Commander_of_the_Armed_Forces_of_North_Korea ;
+	dbo:signature	"Kim Jong-il Signature.svg" ;
+	dbo:militaryService	dbr:Kim_Jong-il__MilitaryService__1 .
+<http://dbpedia.org/resource/Public_image_of_George_W._Bush>	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Roh_Moo-hyun	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:The_Political_Zoo	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+<http://dbpedia.org/resource/Hu_Ge_(director)>	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+<http://dbpedia.org/resource/North_Korea\u2013South_Korea_relations>	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:East_Asian_foreign_policy_of_the_Barack_Obama_administration	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Dong_Moon_Joo	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+<http://dbpedia.org/resource/List_of_The_1/2_Hour_News_Hour_episodes>	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+<http://dbpedia.org/resource/2002_in_Japan>	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Post-presidency_of_Bill_Clinton	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+<http://dbpedia.org/resource/2006_North_Korean_missile_test>	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+<http://dbpedia.org/resource/Real_Time_with_Bill_Maher_(season_3)>	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Wen_Jiabao	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:United_States_of_Whatever	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Mudazumo_Naki_Kaikaku	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Mark_Wallace	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+<http://dbpedia.org/resource/North_Korea\u0027s_illicit_activities>	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Epic_Rap_Battles_of_History_discography	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Epic_Rap_Battles_of_History	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Join_or_Die_with_Craig_Ferguson	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Kid_Notorious	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Kong_Qingdong	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+<http://dbpedia.org/resource/Ishii_Hisaichi\u0027s_CNN>	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+<http://dbpedia.org/resource/The_Autobiography_of_Nicolae_Ceau\u0219escu>	dbo:wikiPageWikiLink	dbr:Kim_Jong-il ;
+	dbp:starring	dbr:Kim_Jong-il ;
+	dbo:starring	dbr:Kim_Jong-il .
+dbr:U_Tong-chuk	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+<http://dbpedia.org/resource/Vanguard_(TV_series)>	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Kim_Kye-gwan	dbo:wikiPageWikiLink	dbr:Kim_Jong-il ;
+	dbp:leader	dbr:Kim_Jong-il .
+dbr:Kim_Song-gun	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Seoul_Metropolitan_Police_Agency	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Vladimir_Zhirinovsky_1996_presidential_campaign	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+<http://dbpedia.org/resource/Kwangmy\u014Fngs\u014Fng-1>	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Death_and_state_funeral_of_Kim_Il-sung	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:State_atheism	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Steve_Gong	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Sony_Pictures_hack	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Paektu_Mountain	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:List_of_leaders_of_North_Korea	dbp:officeholder	dbr:Kim_Jong-il ;
+	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Mass_games	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Bobby_Lee	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Emblem_of_North_Korea	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:We_Will_Go_to_Mount_Paektu	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Prisons_in_North_Korea	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Kim_Il-sung_and_Kim_Jong-il_badges	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Misti_Traya	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+<http://dbpedia.org/resource/Homefront_(video_game)>	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+<http://dbpedia.org/resource/Kimjongilia_(film)>	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:The_Respected_Comrade_Supreme_Commander_Is_Our_Destiny	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Kim_Chin-kyung	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:International_Kim_Il-sung_Prize	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Charles_Robert_Jenkins	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:James_Joseph_Dresnok	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Sentetsu_Purena-class_locomotives	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Ryanggang_Province	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Changsan_Revolutionary_Site	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Jung-il	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+<http://dbpedia.org/resource/George_W._Bush>	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+<http://dbpedia.org/resource/20th_century>	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Mount_Myohyang	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:List_of_recurring_Saturday_Night_Live_characters_and_sketches_by_cast_member	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Metropolis_of_Korea	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Marcelo_Madureira	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Potato_production_in_North_Korea	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Korean_language_and_computers	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Khmer_Rouge_rule_of_Cambodia	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Inter-Korean_Liaison_Office	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Kim_Jung-won	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+<http://dbpedia.org/resource/The_Ministry_of_Truth_(Kracht_book)>	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+<http://dbpedia.org/resource/Under_the_Sun_(2015_film)>	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Kim_Jong-un_bibliography	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:General_Satellite_Control_Center	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+<http://dbpedia.org/resource/Party_Songs_(Laibach_album)>	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Yuri	dbo:wikiPageDisambiguates	dbr:Kim_Jong-il .
+dbr:John_Podesta	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:List_of_The_Complete_Guide_to_Everything_episodes	dbp:title	dbr:Kim_Jong-il ;
+	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+<http://dbpedia.org/resource/Editors\u0027_Choice_Magazine_Journalism_Award>	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Daily_NK	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Weekly_World_News	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:List_of_Epic_Rap_Battles_of_History_episodes	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Internet_in_North_Korea	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+<http://dbpedia.org/resource/1973_in_film>	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Korean_philosophy	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:The_Superclass_List	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+<http://dbpedia.org/resource/List_of_covers_of_Time_magazine_(2000s)>	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Poet_laureate	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Cho_Ki-chon	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:On_Eliminating_Dogmatism_and_Formalism_and_Establishing_Juche_in_Ideological_Work	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Korean_axe_murder_incident	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:List_of_field_marshals	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Huichon	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Energy_in_North_Korea	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Chollima_Movement	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Premier_of_North_Korea	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+<http://dbpedia.org/resource/Let_Us_March_Forward_Dynamically_Towards_Final_Victory,_Holding_Higher_the_Banner_of_Songun>	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Ancient_Electrons	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Engrish	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Until_the_Azalea_Blooms	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Timothy_DeLaGhetto	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Team_5P	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Kim_Myong-guk	<http://dbpedia.org/property/1namedata>	dbr:Kim_Jong-il ;
+	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Kim_Chang-sop	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+<http://dbpedia.org/resource/Don\u0027t_Tell_My_Mother>	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+<http://dbpedia.org/resource/Kim_Sung-il_(general)>	owl:differentFrom	dbr:Kim_Jong-il .
+<http://dbpedia.org/resource/Pearls_Before_Swine_(comics)>	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Crime_in_North_Korea	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Brazilian_passport	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Expo_2010_pavilions	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Fake_passport	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:List_of_women_who_died_in_childbirth	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+<http://dbpedia.org/resource/Deface_(film)>	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+<http://dbpedia.org/resource/Supreme_People\u0027s_Assembly>	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+<http://dbpedia.org/resource/Let\u0027s_trim_our_hair_in_accordance_with_the_socialist_lifestyle>	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:David_Belton	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Anbyon_County	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:On-the-spot_guidance	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+<http://dbpedia.org/resource/Woljongsa_(Anak)>	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Military_Foundation_Day	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Kim_Jong-il_bibliography	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Surnames_by_country	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:List_of_titles_used_by_dictators	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Richard_Marcinko	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Christian_Kracht	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+<http://dbpedia.org/resource/List_of_It\u0027s_Showtime_segments>	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Climate_change_in_North_Korea	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Line_Rider	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:The_Return_of_Avery_Jessup	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Everything_Sunny_All_the_Time_Always	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+@prefix ns78:	<http://dbpedia.org/resource/Pyongyang:> .
+ns78:_A_Journey_in_North_Korea	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+<http://dbpedia.org/resource/Respawn_(30_Rock)>	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Norbert_Vollertsen	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Posthumous_promotion	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Ekan_Ikeguchi	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Mototeru_Kamo	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+<http://dbpedia.org/resource/That\u0027s_Tough>	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:South_Korea	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Tourism_in_North_Korea	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Sacha_Baron_Cohen	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Ho_Chi_Minh	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+<http://dbpedia.org/resource/Mad_TV_(season_9)>	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:I_Love_the_New_Millennium	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Pyongyang_Maternity_Hospital	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Fortune_Smiles	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:September_2016_North_Korean_nuclear_test	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Deaths_in_December_2011	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:List_of_South_Korean_records_in_athletics	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Hisaichi_Ishii	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Sanduk_Ruit	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Unit_124	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:List_of_North_Korean_defectors_in_South_Korea	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Madagascar_hissing_cockroach	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Sinchon_Massacre	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+<http://dbpedia.org/resource/List_of_equipment_of_the_Korean_People\u0027s_Army_Ground_Force>	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Jilin_Yuwen_High_School	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Timeline_of_the_North_Korean_nuclear_program	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:List_of_political_families	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:List_of_state_leaders_in_2000	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Korea_Central_Zoo	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+<http://dbpedia.org/resource/Finland\u2013North_Korea_relations>	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Highest_military_ranks	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+<http://dbpedia.org/resource/Contents_of_the_United_States_diplomatic_cables_leak_(analysis_of_individual_leaders)>	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+<http://dbpedia.org/resource/List_of_The_Colbert_Report_episodes_(2012)>	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Economy_of_North_Korea	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+<http://dbpedia.org/resource/Hungary\u2013South_Korea_relations>	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Bert_is_Evil	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Lee_Myung-bak_government	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Urban_Vermin	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+<http://dbpedia.org/resource/Santo,_Sam_and_Ed\u0027s_Cup_Fever!>	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Pulgasari	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Secret_Reunion	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+<http://dbpedia.org/resource/Academy_of_Sciences_of_the_Democratic_People\u0027s_Republic_of_Korea>	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+<http://dbpedia.org/resource/The_Noose_(TV_series)>	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Wonsan_Agricultural_University	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+<http://dbpedia.org/resource/Church_of_the_Life-Giving_Trinity_(Pyongyang)>	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Chairman_of_the_State_Affairs_Commission	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Television_in_North_Korea	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Information_Center_on_North_Korea	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:The_Late_Late_Show_with_Craig_Ferguson	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Communist_Party_of_Korea	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+<http://dbpedia.org/resource/Kwangmy\u014Fngs\u014Fng-2>	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+<http://dbpedia.org/resource/Kwangmy\u014Fngs\u014Fng-4>	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Laura_Ling	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:List_of_cults_of_personality	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Death_and_state_funeral_of_Kim_Jong-il	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Park_Yeon-mi	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Robert_Egan	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Media_coverage_of_North_Korea	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Politics_of_North_Korea	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Suki_Kim	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:White_Swan_Hotel	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Lee_Soon-ok	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:List_of_North_Korean_missile_tests	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Ted_Turner	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Time_100	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Wonsan	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+<http://dbpedia.org/resource/Workers\u0027_Party_of_Korea>	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Sunshine_Policy	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Gerald_Ford	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Randy_Savage	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Jangmadang	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Keiko_Chiba	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Korean_Air_Flight_858	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Isolationism	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+<http://dbpedia.org/resource/30_Rock_(season_6)>	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Marxist_bibliography	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Jean-Baptiste_Kim	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Cross-gender_acting	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Kim_Il-sung_University	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+<http://dbpedia.org/resource/2011_in_China>	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Pokpung-ho	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:North_Korean_won	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+<http://dbpedia.org/resource/Footsteps_(Ri_Jong-o_song)>	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:Propaganda_and_Agitation_Department	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .
+dbr:United_Front_Department	dbo:wikiPageWikiLink	dbr:Kim_Jong-il .

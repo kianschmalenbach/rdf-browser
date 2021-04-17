@@ -1,0 +1,242 @@
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+dbr:Eurovision_Song_Contest_1996	dbo:wikiPageWikiLink	dbr:Luc_Van_den_Brande .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+wikipedia-en:Luc_Van_den_Brande	foaf:primaryTopic	dbr:Luc_Van_den_Brande .
+dbr:Bonheiden	dbo:wikiPageWikiLink	dbr:Luc_Van_den_Brande .
+dbr:European_Committee_of_the_Regions	dbo:wikiPageWikiLink	dbr:Luc_Van_den_Brande .
+dbr:Secretary_General_of_the_Council_of_Europe	dbo:wikiPageWikiLink	dbr:Luc_Van_den_Brande .
+dbr:Minister-President_of_Flanders	dbo:wikiPageWikiLink	dbr:Luc_Van_den_Brande .
+dbr:Flemish_Government	dbo:wikiPageWikiLink	dbr:Luc_Van_den_Brande .
+<http://dbpedia.org/resource/List_of_members_of_the_Flemish_Parliament,_1995\u20131999>	dbo:wikiPageWikiLink	dbr:Luc_Van_den_Brande .
+<http://dbpedia.org/resource/Antwerp_(Flemish_Parliament_constituency)>	dbo:wikiPageWikiLink	dbr:Luc_Van_den_Brande .
+dbr:Flemish_Government_Architect	dbo:wikiPageWikiLink	dbr:Luc_Van_den_Brande .
+<http://dbpedia.org/resource/1995_Belgian_regional_elections>	dbo:wikiPageWikiLink	dbr:Luc_Van_den_Brande .
+<http://dbpedia.org/resource/1999_Belgian_regional_elections>	dbo:wikiPageWikiLink	dbr:Luc_Van_den_Brande .
+dbr:List_of_people_from_Mechelen	dbo:wikiPageWikiLink	dbr:Luc_Van_den_Brande .
+<http://dbpedia.org/resource/List_of_members_of_the_Senate_of_Belgium,_2007\u20132010>	dbo:wikiPageWikiLink	dbr:Luc_Van_den_Brande .
+dbr:Assembly_of_European_Regions	dbo:wikiPageWikiLink	dbr:Luc_Van_den_Brande .
+dbr:Creation_and_evolution_in_public_education	dbo:wikiPageWikiLink	dbr:Luc_Van_den_Brande .
+dbr:Same-sex_marriage_in_Belgium	dbo:wikiPageWikiLink	dbr:Luc_Van_den_Brande .
+dbr:Theo_Kelchtermans	dbo:wikiPageWikiLink	dbr:Luc_Van_den_Brande .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Patrick_Dewael	dbp:predecessor	dbr:Luc_Van_den_Brande ;
+	dbo:wikiPageWikiLink	dbr:Luc_Van_den_Brande .
+<http://dbpedia.org/resource/European_Centre_for_Workers\u0027_Questions>	dbo:wikiPageWikiLink	dbr:Luc_Van_den_Brande .
+dbr:List_of_foreign_ministers_in_1992	dbo:wikiPageWikiLink	dbr:Luc_Van_den_Brande .
+dbr:List_of_foreign_ministers_in_1993	dbo:wikiPageWikiLink	dbr:Luc_Van_den_Brande .
+dbr:List_of_foreign_ministers_in_1994	dbo:wikiPageWikiLink	dbr:Luc_Van_den_Brande .
+dbr:List_of_foreign_ministers_in_1995	dbo:wikiPageWikiLink	dbr:Luc_Van_den_Brande .
+dbr:List_of_foreign_ministers_in_1996	dbo:wikiPageWikiLink	dbr:Luc_Van_den_Brande .
+dbr:List_of_foreign_ministers_in_1997	dbo:wikiPageWikiLink	dbr:Luc_Van_den_Brande .
+dbr:List_of_foreign_ministers_in_1998	dbo:wikiPageWikiLink	dbr:Luc_Van_den_Brande .
+dbr:List_of_foreign_ministers_in_1999	dbo:wikiPageWikiLink	dbr:Luc_Van_den_Brande .
+dbr:Mercedes_Bresso	dbp:predecessor	dbr:Luc_Van_den_Brande ;
+	dbo:wikiPageWikiLink	dbr:Luc_Van_den_Brande .
+dbr:Luc_Van_Den_Brande	dbo:wikiPageRedirects	dbr:Luc_Van_den_Brande ;
+	dbo:wikiPageWikiLink	dbr:Luc_Van_den_Brande .
+dbr:Van_den_Brande	dbo:wikiPageRedirects	dbr:Luc_Van_den_Brande ;
+	dbo:wikiPageWikiLink	dbr:Luc_Van_den_Brande .
+dbr:Mercedes_Bresso__Tenure__3	dbo:predecessor	dbr:Luc_Van_den_Brande .
+dbr:Gaston_Geens__Tenure__1	dbo:successor	dbr:Luc_Van_den_Brande .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Luc_Van_den_Brande	rdf:type	owl:Thing .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Luc_Van_den_Brande	rdf:type	yago:YagoLegalActor ,
+		foaf:Person ,
+		yago:YagoLegalActorGeo ,
+		yago:SkilledWorker110605985 ,
+		yago:Scholar110557854 ,
+		yago:Whole100003553 ,
+		yago:Officeholder110371450 ,
+		yago:Official110372373 ,
+		dbo:Person ,
+		yago:Object100002684 ,
+		yago:PhysicalEntity100001930 .
+@prefix schema:	<http://schema.org/> .
+dbr:Luc_Van_den_Brande	rdf:type	schema:Person ,
+		yago:Politician110450303 ,
+		yago:Owner110389398 ,
+		yago:Person100007846 ,
+		yago:Organism100004475 ,
+		yago:WikicatBelgianPeople .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Luc_Van_den_Brande	rdf:type	wikidata:Q82955 ,
+		yago:WikicatKatholiekeUniversiteitLeuvenAlumni ,
+		wikidata:Q5 ,
+		yago:WikicatCommandersWithStarOfTheOrderOfMeritOfTheRepublicOfPoland ,
+		yago:WikicatGovernmentMinistersOfBelgium ,
+		yago:WikicatChristen-DemocratischEnVlaamsPoliticians ,
+		wikidata:Q24229398 ,
+		yago:WikicatPeopleFromMechelen ,
+		wikidata:Q215627 ,
+		yago:Minister110320863 ,
+		yago:Executive110069645 ,
+		yago:Head110162991 ,
+		yago:CommandingOfficer109941964 ,
+		yago:MilitaryOfficer110317007 ,
+		dbo:OfficeHolder ,
+		yago:Leader109623038 .
+@prefix ns10:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Luc_Van_den_Brande	rdf:type	ns10:NaturalPerson ,
+		ns10:Agent .
+@prefix umbel-rc:	<http://umbel.org/umbel/rc/> .
+dbr:Luc_Van_den_Brande	rdf:type	umbel-rc:PresidentOfOrganization ,
+		yago:Intellectual109621545 ,
+		umbel-rc:Politician ,
+		yago:Holder110180178 ,
+		yago:LivingThing100004258 ,
+		yago:Alumnus109786338 ,
+		yago:CausalAgent100007347 ,
+		yago:Serviceman110582746 ,
+		dbo:Politician ,
+		yago:Administrator109770949 ,
+		dbo:Agent ,
+		<http://dbpedia.org/class/yago/WikicatGrandOfficersOfTheOrderOfLeopold(Belgium)> ,
+		yago:WikicatLivingPeople ,
+		yago:Worker109632518 .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Luc_Van_den_Brande	rdfs:label	"Luc Van den Brande"@pl ,
+		"Luc Van den Brande"@fr ,
+		"Luc Van den Brande"@en ,
+		"Luc Van den Brande"@nl ,
+		"Luc Van den Brande"@de ,
+		"Luc Van den Brande"@it ;
+	rdfs:comment	"Luc Van den Brande (Mechelen, 13 October 1945) is a Flemish politician, member of the CD&V and was Minister-president of Flanders from 21 January 1992 until 13 July 1999. He took the initiative to create the Flanders Institute for Biotechnology (VIB). On 6 February 2008 he became President of the European Union's Committee of the Regions for a period of two years."@en ,
+		"Luc Constant H\u00E9l\u00E8ne Van den Brande (Mechelen, 13 oktober 1945) is een Belgisch politicus. Hij was zeven jaar lang minister-president van Vlaanderen."@nl ,
+		"Luc Constant H\u00E9l\u00E8ne Van den Brande (* 13. Oktober 1945 in Mechelen) ist ein belgischer Politiker (CD&V). Er war vom 21. Februar 1992 bis zum 13. Juli 1999 Ministerpr\u00E4sident von Flandern."@de ,
+		"Luc Constant H\u00E9l\u00E8ne Van den Brande (Malines, 13 ottobre 1945) \u00E8 un politico belga, membro dei Cristiano-Democratici e Fiamminghi, gi\u00E0 Ministro dell'occupazione e del lavoro dal 9 maggio 1988 al 20 gennaio 1992, \u00E8 stato Ministro presidente delle Fiandre dal 21 febbraio 1992 al 13 luglio 1999."@it ,
+		"Luc Van den Brande (ur. 15 pa\u017Adziernika 1945 w Mechelen) \u2013 belgijski polityk, w latach 1992\u20131999 minister-prezydent Regionu Flamandzkiego."@pl ,
+		"Luc Van den Brande, n\u00E9 le 13 octobre 1945 \u00E0 Malines, est un homme politique belge, membre du CD&V. Mari\u00E9 et p\u00E8re de 3 enfants, il est docteur en droit et licenci\u00E9 en notariat de la Katholieke Universiteit Leuven. Il a \u00E9t\u00E9 pendant sept ann\u00E9es Ministre-pr\u00E9sident du gouvernement flamand."@fr ;
+	foaf:name	"Luc Van den Brande"@en ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Flickr_-_europeanpeoplesparty_-_EPP_Congress_Bonn_(630).jpg> ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Luc_Van_den_Brande .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Luc_Van_den_Brande	dct:subject	dbc:Living_people ,
+		<http://dbpedia.org/resource/Category:1945_births> ,
+		dbc:People_from_Mechelen ,
+		dbc:Minister-Presidents_of_Flanders ,
+		dbc:Christen-Democratisch_en_Vlaams_politicians ,
+		dbc:Belgian_Roman_Catholics ,
+		dbc:Members_of_the_Belgian_Federal_Parliament ,
+		dbc:Recipients_of_the_Grand_Cross_of_the_Order_of_Leopold_II ;
+	owl:sameAs	<http://rdf.freebase.com/ns/m.0dwwtw> .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Luc_Van_den_Brande	owl:sameAs	dbpedia-pl:Luc_Van_den_Brande ,
+		<http://d-nb.info/gnd/172861519> .
+@prefix ns16:	<http://mg.dbpedia.org/resource/> .
+dbr:Luc_Van_den_Brande	owl:sameAs	ns16:Luc_Van_den_Brande .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Luc_Van_den_Brande	owl:sameAs	dbpedia-nl:Luc_Van_den_Brande ,
+		wikidata:Q15991 .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Luc_Van_den_Brande	owl:sameAs	dbpedia-de:Luc_Van_den_Brande .
+@prefix ns19:	<http://li.dbpedia.org/resource/> .
+dbr:Luc_Van_den_Brande	owl:sameAs	ns19:Luc_Van_den_Brande ,
+		dbr:Luc_Van_den_Brande .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Luc_Van_den_Brande	owl:sameAs	yago-res:Luc_Van_den_Brande .
+@prefix ns21:	<http://d-nb.info/gnd/172861519/about/> .
+dbr:Luc_Van_den_Brande	owl:sameAs	ns21:rdf .
+@prefix ns22:	<https://global.dbpedia.org/id/> .
+dbr:Luc_Van_den_Brande	owl:sameAs	ns22:absv .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Luc_Van_den_Brande	owl:sameAs	dbpedia-fr:Luc_Van_den_Brande ,
+		<http://viaf.org/viaf/31244999> .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Luc_Van_den_Brande	owl:sameAs	dbpedia-it:Luc_Van_den_Brande .
+@prefix ns25:	<http://data.europa.eu/euodp/jrc-names/> .
+dbr:Luc_Van_den_Brande	owl:sameAs	ns25:Luc_Van_den_Brande ;
+	schema:sameAs	<http://viaf.org/viaf/31244999> ;
+	dbo:abstract	"Luc Constant H\u00E9l\u00E8ne Van den Brande (* 13. Oktober 1945 in Mechelen) ist ein belgischer Politiker (CD&V). Er war vom 21. Februar 1992 bis zum 13. Juli 1999 Ministerpr\u00E4sident von Flandern."@de ,
+		"Luc Van den Brande (Mechelen, 13 October 1945) is a Flemish politician, member of the CD&V and was Minister-president of Flanders from 21 January 1992 until 13 July 1999. He took the initiative to create the Flanders Institute for Biotechnology (VIB). On 6 February 2008 he became President of the European Union's Committee of the Regions for a period of two years."@en ,
+		"Luc Constant H\u00E9l\u00E8ne Van den Brande (Malines, 13 ottobre 1945) \u00E8 un politico belga, membro dei Cristiano-Democratici e Fiamminghi, gi\u00E0 Ministro dell'occupazione e del lavoro dal 9 maggio 1988 al 20 gennaio 1992, \u00E8 stato Ministro presidente delle Fiandre dal 21 febbraio 1992 al 13 luglio 1999."@it ,
+		"Luc Constant H\u00E9l\u00E8ne Van den Brande (Mechelen, 13 oktober 1945) is een Belgisch politicus. Hij was zeven jaar lang minister-president van Vlaanderen."@nl ,
+		"Luc Van den Brande (ur. 15 pa\u017Adziernika 1945 w Mechelen) \u2013 belgijski polityk, w latach 1992\u20131999 minister-prezydent Regionu Flamandzkiego."@pl ,
+		"Luc Van den Brande, n\u00E9 le 13 octobre 1945 \u00E0 Malines, est un homme politique belge, membre du CD&V. Mari\u00E9 et p\u00E8re de 3 enfants, il est docteur en droit et licenci\u00E9 en notariat de la Katholieke Universiteit Leuven. Il a \u00E9t\u00E9 pendant sept ann\u00E9es Ministre-pr\u00E9sident du gouvernement flamand."@fr ;
+	dbp:years	1992 .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Luc_Van_den_Brande	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Luc_Van_den_Brande?oldid=981720725&ns=0> ;
+	dbp:successor	dbr:Patrick_Dewael ;
+	dbp:name	"Luc Van den Brande"@en ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Flickr_-_europeanpeoplesparty_-_EPP_Congress_Bonn_(630).jpg?width=300> ;
+	dbo:birthPlace	dbr:Mechelen ,
+		dbr:Belgium ;
+	dbp:birthPlace	dbr:Mechelen ,
+		dbr:Belgium .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Luc_Van_den_Brande	dbo:birthDate	"1945-10-13"^^xsd:date ;
+	dbp:office	dbr:Minister-President_of_Flanders ;
+	dbp:party	dbr:Christen-Democratisch_en_Vlaams ;
+	dbp:termEnd	"1999-07-13"^^xsd:date ;
+	dbp:termStart	"1992-01-21"^^xsd:date ;
+	dbo:party	dbr:Christen-Democratisch_en_Vlaams ;
+	dbo:termPeriod	dbr:Luc_Van_den_Brande__Tenure__1 ;
+	dbp:predecessor	dbr:Gaston_Geens ;
+	dbo:wikiPageExternalLink	<http://www.senate.be/www/%3FMIval=/showSenator&ID=155&LANG=fr> ;
+	dbp:birthDate	"1945-10-13"^^xsd:date ;
+	dbp:almaMater	dbr:KU_Leuven ;
+	dbo:almaMater	dbr:Katholieke_Universiteit_Leuven ;
+	dbp:children	3 ;
+	dbp:spouse	"Maria Baelus"@en ;
+	dbo:wikiPageID	5623534 ;
+	dbo:wikiPageRevisionID	981720725 ;
+	dbo:wikiPageWikiLink	dbr:Flemish_Parliament ,
+		<http://dbpedia.org/resource/Order_of_Leopold_(Belgium)> ,
+		dbc:Members_of_the_Belgian_Federal_Parliament ,
+		<http://dbpedia.org/resource/Chamber_of_Representatives_(Belgium)> ,
+		dbc:Belgian_Roman_Catholics ,
+		<http://dbpedia.org/resource/Senate_(Belgium)> ,
+		dbc:People_from_Mechelen ,
+		dbc:Minister-Presidents_of_Flanders ,
+		dbr:Christen-Democratisch_en_Vlaams ,
+		dbr:Flanders ,
+		dbr:KU_Leuven ,
+		dbr:Parliamentary_Assembly_of_the_Council_of_Europe ,
+		dbr:Mechelen ,
+		dbc:Christen-Democratisch_en_Vlaams_politicians ,
+		dbr:Assembly_of_the_Western_European_Union ,
+		dbr:Order_of_Leopold_II ,
+		<http://dbpedia.org/resource/Category:1945_births> ,
+		dbr:Patrick_Dewael ,
+		dbc:Recipients_of_the_Grand_Cross_of_the_Order_of_Leopold_II ,
+		dbr:European_Union ,
+		dbc:Living_people ,
+		dbr:Assembly_of_European_Regions ,
+		dbr:European_Committee_of_the_Regions ,
+		dbr:Western_European_Union ,
+		dbr:Gaston_Geens ,
+		dbr:Council_of_Europe ,
+		dbr:Minister-President_of_Flanders ,
+		dbr:Vlaams_Instituut_voor_Biotechnologie ,
+		dbr:Belgium .
+@prefix dbt:	<http://dbpedia.org/resource/Template:> .
+dbr:Luc_Van_den_Brande	dbp:wikiPageUsesTemplate	dbt:Commons_category-inline ,
+		dbt:S-off ,
+		dbt:Use_dmy_dates ,
+		dbt:Infobox_officeholder ,
+		dbt:Reflist ,
+		dbt:Multiple_issues ,
+		dbt:Birth_date_and_age ,
+		dbt:Like_resume ,
+		dbt:S-ttl ,
+		dbt:S-start ,
+		dbt:S-bef ,
+		dbt:S-end ,
+		dbt:Authority_control ,
+		dbt:S-aft ,
+		dbt:Family_name_hatnote ,
+		dbt:BLP_sources ,
+		dbt:Short_description ;
+	dbo:wikiPageLength	"6337"^^xsd:nonNegativeInteger ;
+	dbp:title	dbr:Minister-President_of_Flanders .
+dbr:Gaston_Geens	dbp:successor	dbr:Luc_Van_den_Brande ;
+	dbo:wikiPageWikiLink	dbr:Luc_Van_den_Brande .
+dbr:Monica_De_Coninck	dbo:wikiPageWikiLink	dbr:Luc_Van_den_Brande .
+dbr:Patrick_Dewael__Tenure__5	dbo:predecessor	dbr:Luc_Van_den_Brande .
+dbr:Elections_in_Russia	dbo:wikiPageWikiLink	dbr:Luc_Van_den_Brande .
+<http://dbpedia.org/resource/2007_Russian_legislative_election>	dbo:wikiPageWikiLink	dbr:Luc_Van_den_Brande .
+<http://dbpedia.org/resource/Mechelen_(Chamber_of_Representatives_constituency)>	dbo:wikiPageWikiLink	dbr:Luc_Van_den_Brande .

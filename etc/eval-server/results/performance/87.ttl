@@ -1,0 +1,358 @@
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+<http://dbpedia.org/resource/Jagdgeschwader_1_(World_War_II)>	dbo:wikiPageWikiLink	dbr:Maldegem .
+dbr:Charge_of_Burkel	dbo:place	dbr:Maldegem ;
+	dbo:wikiPageWikiLink	dbr:Maldegem .
+<http://dbpedia.org/resource/Gmina_\u015Awidnica,_Lower_Silesian_Voivodeship>	dbo:wikiPageWikiLink	dbr:Maldegem .
+dbr:Niels_Albert	dbo:wikiPageWikiLink	dbr:Maldegem .
+dbr:Sven_Nys	dbo:wikiPageWikiLink	dbr:Maldegem .
+dbr:Maurice_De_Waele	dbo:deathPlace	dbr:Maldegem ;
+	dbo:wikiPageWikiLink	dbr:Maldegem .
+<http://dbpedia.org/resource/Fiat_G.50>	dbo:wikiPageWikiLink	dbr:Maldegem .
+@prefix dbp:	<http://dbpedia.org/property/> .
+<http://dbpedia.org/resource/1995_UEFA_European_Under-16_Championship>	dbp:stadium	dbr:Maldegem ;
+	dbo:wikiPageWikiLink	dbr:Maldegem .
+dbr:Adria	dbo:wikiPageWikiLink	dbr:Maldegem .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+wikipedia-en:Maldegem	foaf:primaryTopic	dbr:Maldegem .
+<http://dbpedia.org/resource/2007_Eneco_Tour>	dbo:wikiPageWikiLink	dbr:Maldegem .
+dbr:Knesselare	dbp:n	dbr:Maldegem ;
+	dbo:wikiPageWikiLink	dbr:Maldegem .
+dbr:Stoomcentrum_Maldegem	dbo:wikiPageWikiLink	dbr:Maldegem .
+dbr:Flugplatz_Maldegem	dbo:wikiPageWikiLink	dbr:Maldegem .
+<http://dbpedia.org/resource/Battle_of_the_Lys_(1940)>	dbo:wikiPageWikiLink	dbr:Maldegem .
+dbr:Beernem	dbo:wikiPageWikiLink	dbr:Maldegem .
+<http://dbpedia.org/resource/2016\u201317_Cyclo-cross_Brico_Cross_Trophy>	dbo:wikiPageWikiLink	dbr:Maldegem .
+<http://dbpedia.org/resource/2017\u201318_Brico_Cross_Trophy>	dbo:wikiPageWikiLink	dbr:Maldegem .
+dbr:Arrondissement_of_Eeklo	dbo:wikiPageWikiLink	dbr:Maldegem .
+dbr:Aalter	dbo:wikiPageWikiLink	dbr:Maldegem .
+dbr:Cyclocross_Vossenhol-Maldegem	dbo:location	dbr:Maldegem ;
+	dbp:region	dbr:Maldegem ;
+	dbo:wikiPageWikiLink	dbr:Maldegem .
+dbr:Meetjesland	dbo:wikiPageWikiLink	dbr:Maldegem .
+<http://dbpedia.org/resource/List_of_castles_and_ch\u00E2teaux_in_Belgium>	dbo:wikiPageWikiLink	dbr:Maldegem .
+dbr:Names_of_Belgian_places_in_other_languages	dbo:wikiPageWikiLink	dbr:Maldegem .
+dbr:Eeklo	dbp:w	dbr:Maldegem ;
+	dbo:wikiPageWikiLink	dbr:Maldegem .
+dbr:Pieter_Bladelin	dbo:wikiPageWikiLink	dbr:Maldegem .
+dbr:Sluis	dbo:wikiPageWikiLink	dbr:Maldegem .
+dbr:Alfred_Haemerlinck	dbo:wikiPageWikiLink	dbr:Maldegem .
+dbr:Belgian_railway_line_58	dbo:wikiPageWikiLink	dbr:Maldegem .
+dbr:Butyricicoccus_pullicaecorum	dbo:wikiPageWikiLink	dbr:Maldegem .
+dbr:Zomergem	dbp:northwest	dbr:Maldegem ;
+	dbo:wikiPageWikiLink	dbr:Maldegem .
+dbr:Operation_Bodenplatte	dbo:wikiPageWikiLink	dbr:Maldegem .
+dbr:Battle_of_the_Scheldt	dbo:wikiPageWikiLink	dbr:Maldegem .
+dbr:List_of_cities_with_defensive_walls	dbo:wikiPageWikiLink	dbr:Maldegem .
+dbr:Lampertheim	dbo:wikiPageWikiLink	dbr:Maldegem .
+dbr:Joanna_Courtmans	dbp:deathPlace	dbr:Maldegem ;
+	dbo:deathPlace	dbr:Maldegem ;
+	dbo:wikiPageWikiLink	dbr:Maldegem .
+<http://dbpedia.org/resource/2008_Eneco_Tour>	dbo:wikiPageWikiLink	dbr:Maldegem .
+dbr:East_Flanders	dbo:wikiPageWikiLink	dbr:Maldegem .
+dbr:Red_Tilson_Trophy	dbo:wikiPageWikiLink	dbr:Maldegem .
+dbr:Damme	dbo:wikiPageWikiLink	dbr:Maldegem .
+dbr:Sint-Laureins	dbp:w	dbr:Maldegem ;
+	dbo:wikiPageWikiLink	dbr:Maldegem .
+dbr:Bronze_and_brass_ornamental_work	dbo:wikiPageWikiLink	dbr:Maldegem .
+<http://dbpedia.org/resource/No._119_Squadron_RAF>	dbo:wikiPageWikiLink	dbr:Maldegem .
+<http://dbpedia.org/resource/No._485_Squadron_RNZAF>	dbo:wikiPageWikiLink	dbr:Maldegem .
+<http://dbpedia.org/resource/W\u0142odzimierz_Kolanowski>	dbo:wikiPageWikiLink	dbr:Maldegem .
+<http://dbpedia.org/resource/Ren\u00E9_Pinchart>	dbo:birthPlace	dbr:Maldegem ;
+	dbo:wikiPageWikiLink	dbr:Maldegem .
+<http://dbpedia.org/resource/2012_Eneco_Tour>	dbo:wikiPageWikiLink	dbr:Maldegem .
+dbr:List_of_windmills_in_East_Flanders	dbo:wikiPageWikiLink	dbr:Maldegem .
+<http://dbpedia.org/resource/Middelburg_(disambiguation)>	dbo:wikiPageWikiLink	dbr:Maldegem ;
+	dbo:wikiPageDisambiguates	dbr:Maldegem .
+dbr:Ermont	dbo:wikiPageWikiLink	dbr:Maldegem .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Maldegem	rdf:type	yago:Location100027167 ,
+		yago:Municipality108626283 ,
+		dbo:Place .
+@prefix geo:	<http://www.w3.org/2003/01/geo/wgs84_pos#> .
+dbr:Maldegem	rdf:type	geo:SpatialThing .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Maldegem	rdf:type	owl:Thing ,
+		yago:YagoGeoEntity ,
+		yago:YagoPermanentlyLocatedEntity ,
+		yago:YagoLegalActorGeo .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Maldegem	rdf:type	wikidata:Q486972 ,
+		yago:AdministrativeDistrict108491826 ,
+		yago:GeographicalArea108574314 ,
+		yago:District108552138 ,
+		dbo:Settlement ,
+		dbo:Location ,
+		dbo:PopulatedPlace ,
+		yago:Object100002684 ,
+		yago:PhysicalEntity100001930 ,
+		yago:Region108630985 ,
+		yago:UrbanArea108675967 .
+@prefix schema:	<http://schema.org/> .
+dbr:Maldegem	rdf:type	schema:Place ,
+		yago:WikicatMunicipalitiesOfEastFlanders .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Maldegem	rdfs:label	"Maldegem"@es ,
+		"Maldegem"@eo ,
+		"Maldegem"@nl ,
+		"Maldegem"@en ,
+		"\u9A6C\u5C14\u5FB7\u6D77\u59C6"@zh ,
+		"Maldegem"@it ,
+		"Maldegem"@eu ,
+		"Maldegem"@in ,
+		"Maldegem"@ca ,
+		"Maldegem"@de ,
+		"Maldegem"@sv ,
+		"Maldegem"@fr ,
+		"Maldegem"@pt ,
+		"\u0645\u0627\u0644\u062F\u064A\u062E\u064A\u0645"@ar ,
+		"Maldegem"@pl ;
+	rdfs:comment	"Maldegem \u00E9s un municipi belga de la prov\u00EDncia de Flandes Oriental a la regi\u00F3 de Flandes."@ca ,
+		"Maldegem \u00E4r en kommun i provinsen \u00D6stflandern i regionen Flandern i Belgien. Maldegem hade 22 397 inv\u00E5nare per 1 januari 2008."@sv ,
+		"\u9A6C\u5C14\u5FB7\u6D77\u59C6\uFF08\u8377\u862D\u8A9E\uFF1AMaldegem\uFF09\u662F\u4F4D\u65BC\u6BD4\u5229\u65F6\u4E1C\u4F5B\u5170\u5FB7\u7701\u90E8\u7684\u4E00\u5EA7\u57CE\u5E02\uFF0C\u4EBA\u53E322,289\u4EBA\uFF082006\u5E74\uFF09\u3002"@zh ,
+		"Maldegem \u2013 gmina po\u0142o\u017Cona w prowincji Flandrii Wschodniej, w Belgii. Miasto Maldegem, od 2012 roku, jest obustronnym partnerem \u015Awidnicy."@pl ,
+		"Maldegem (Dutch pronunciation: [\u02C8m\u0251ld\u0259\u0263\u025Bm]) (West Flemish: Moaldegem) is a municipality located in the Belgian province of East Flanders. The municipality comprises the villages of Maldegem,  and Middelburg.  and  have always been separate hamlets of Maldegem. On January 1, 2006, Maldegem had a total population of 22,289. The total area is 94.64 square kilometres (36.54 sq mi) which gives a population density of 236 inhabitants per km\u00B2. The Stoomcentrum Maldegem is located at the former NMBS railway station at Maldegem."@en ,
+		"Maldegem (nederlande, proksimuma prononco [MALde\u0125em]) estas municipo en Belgio, en la nederlandlingva provinco Orienta Flandrio. Komence de januaro 2016 la municipo havis 23\u2009452 lo\u011Dantojn. Ekde 1977, la municipoj Adegem kaj Middelburg apartenas al Maldegem."@eo ,
+		"Maldeghem, en n\u00E9erlandais Maldegem est une commune n\u00E9erlandophone de Belgique situ\u00E9e en R\u00E9gion flamande, dans la province de Flandre-Orientale. Elle est la plus \u00E9tendue de la province de Flandre orientale. Points d'int\u00E9r\u00EAt : Le Stoomcentrum Maldegem (chemin de fer touristique), l'\u00E9glise, le cimeti\u00E8re canadien, l'h\u00F4tel de ville."@fr ,
+		"\u0645\u0627\u0644\u062F\u064A\u062E\u064A\u0645 (\u062A\u0646\u0637\u0642 \u0628\u0627\u0644\u0647\u0648\u0644\u0646\u062F\u064A\u0629: [\u02C8m\u0251ld\u0259\u0263\u025Bm]) \u0647\u064A \u0628\u0644\u062F\u064A\u0629 \u062A\u0642\u0639 \u0641\u064A \u0628\u0644\u062C\u064A\u0643\u0627 \u0645\u0642\u0627\u0637\u0639\u0629 \u0641\u0644\u0627\u0646\u062F\u0631 \u0627\u0644\u0634\u0631\u0642\u064A\u0629."@ar ,
+		"Maldegem \u00E9 um munic\u00EDpio belga situado na prov\u00EDncia de Flandres Oriental. O munic\u00EDpio est\u00E1 dividido em tr\u00EAs deelgemeenten: Maldegem,  e . Em 1 de Julho de 2006, o munic\u00EDpio tinha uma popula\u00E7\u00E3o de 22.336 habitantes, uma \u00E1rea total de 94,64 km\u00B2 e uma densidade populacional de 236 habitantes por km\u00B2."@pt ,
+		"Maldegem (pengucapan Belanda: [\u02C8m\u0251ld\u0259\u0263\u025Bm]) (Barat Flemish: Moaldegem) adalah sebuah munisipalitas yang terletak di provinsi Belgia Flandria Timur. Munsisipalitas ini terdiri atas Desa Maldegem, , dan Middelburg.  dan  selama ini selalu manjadi dukuh yang terpisah dari Maldegem. Pada tanggal 1 Januari 2006, Maldegem memiliki jumlah penduduk 22.289 jiwa. Jumlah luasnya adalah 94,64 kilometer persegi yang memberikannya kepadatan penduduk 236 jiwa per km\u00B2. Yang Stoomcentrum Maldegem terletak di bekas NMBS stasiun kereta api di Maldegem."@in ,
+		"Maldegem \u00E8 un comune belga situato nella regione fiamminga."@it ,
+		"Maldegem (nederlanderazko ahoskera: \u02C8m\u0251ld\u0259\u0263\u025Bm) Belgikako ipar-mendebaldeko udalerri bat da, Ekialdeko Flandria probintziakoa. Udalerriaren barruan herri hauek daude: Maldegem,  eta . 2006ko urtarrilaren 1ean, 22.289 biztanle zituen udalerriak."@eu ,
+		"Maldegem (auch Maldeghem) ist eine belgische Gemeinde in der Region Flandern. Sie liegt in der Provinz Ostflandern im belgischen Arrondissement Eeklo auf einer H\u00F6he von etwa 10 Metern \u00FCber NN."@de ,
+		"Maldegem is een gemeente in de Belgische provincie Oost-Vlaanderen. Deze gemeente in het noordwesten van de regio Meetjesland telt ruim 23.000 inwoners, waarvan er ruim 16.000 in Maldegem zelf wonen. De inwoners van Maldegem worden Maldegemnaars genoemd. Maldegem heeft als bijnaam \"die Loyale\", een naam die het verkreeg toen  zich in 1300 onderscheidde door zijn trouw aan de Vlaamse graaf Gwijde van Dampierre. Later is die naam dan overgenomen door Maldegem zelf. Taalkundig gezien behoort het Maldegems duidelijk tot het West-Vlaams, hoewel het minder Franse leenwoorden bevat."@nl ,
+		"Maldegem (Pronunciaci\u00F3n holandesa: [\u02C8m\u0251ld\u0259\u0263\u025Bm]) es un municipio localizado en la provincia belga de Flandes Oriental. El municipio comprende los pueblos de Maldegem, Adegem y Middelburg. Las poblaciones de Kleit y Donk siempre han sido aldeas separadas de Maldegem. A comienzos del 2018, Maldegem ten\u00EDa una poblaci\u00F3n total de 23.689 habitantes. El \u00E1rea total es 94.64 km\u00B2 (36.54 sq mi) lo cual da una densidad de poblaci\u00F3n de 250 habitantes por km\u00B2. El Stoomcentrum Maldegem est\u00E1 localizado en la antigua estaci\u00F3n de ferrocarril de Maldegem perteneciente a NMBS."@es ;
+	rdfs:seeAlso	dbr:Sister_cities ,
+		dbr:List_of_twin_towns ,
+		dbr:Belgium ;
+	foaf:homepage	<http://www.maldegem.be/> .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Maldegem	geo:lat	"51.200000762939453125"^^xsd:float ;
+	geo:long	"3.4333333969116210938"^^xsd:float ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Maldegem_(Belgium)_-_Rectorie_Maldegem_(Dekenij).jpg> ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Maldegem .
+@prefix virtrdf:	<http://www.openlinksw.com/schemas/virtrdf#> .
+dbr:Maldegem	geo:geometry	"POINT(3.4333333969116 51.200000762939)"^^virtrdf:Geometry .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Maldegem	dct:subject	dbc:Municipalities_of_East_Flanders ,
+		dbc:Maldegem ;
+	owl:sameAs	<http://sws.geonames.org/2791858/> .
+@prefix dbpedia-simple:	<http://simple.dbpedia.org/resource/> .
+dbr:Maldegem	owl:sameAs	dbpedia-simple:Maldegem .
+@prefix dbpedia-sv:	<http://sv.dbpedia.org/resource/> .
+dbr:Maldegem	owl:sameAs	dbpedia-sv:Maldegem ,
+		dbr:Maldegem .
+@prefix dbpedia-id:	<http://id.dbpedia.org/resource/> .
+dbr:Maldegem	owl:sameAs	dbpedia-id:Maldegem .
+@prefix dbpedia-br:	<http://br.dbpedia.org/resource/> .
+dbr:Maldegem	owl:sameAs	dbpedia-br:Maldegem .
+@prefix lgdt:	<http://linkedgeodata.org/triplify/> .
+dbr:Maldegem	owl:sameAs	lgdt:node662007517 ,
+		<http://zh.dbpedia.org/resource/\u9A6C\u5C14\u5FB7\u6D77\u59C6> .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Maldegem	owl:sameAs	dbpedia-de:Maldegem .
+@prefix dbpedia-eu:	<http://eu.dbpedia.org/resource/> .
+dbr:Maldegem	owl:sameAs	dbpedia-eu:Maldegem .
+@prefix dbpedia-no:	<http://no.dbpedia.org/resource/> .
+dbr:Maldegem	owl:sameAs	dbpedia-no:Maldegem .
+@prefix dbpedia-ca:	<http://ca.dbpedia.org/resource/> .
+dbr:Maldegem	owl:sameAs	dbpedia-ca:Maldegem .
+@prefix dbpedia-tr:	<http://tr.dbpedia.org/resource/> .
+dbr:Maldegem	owl:sameAs	dbpedia-tr:Maldegem .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:Maldegem	owl:sameAs	dbpedia-es:Maldegem .
+@prefix ns27:	<http://vec.dbpedia.org/resource/> .
+dbr:Maldegem	owl:sameAs	ns27:Maldegem .
+@prefix dbpedia-sk:	<http://sk.dbpedia.org/resource/> .
+dbr:Maldegem	owl:sameAs	dbpedia-sk:Maldegem ,
+		<http://rdf.freebase.com/ns/m.0148kv> ,
+		<http://musicbrainz.org/area/0303b200-4db1-4ea1-89cd-1345073cb7ef> .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Maldegem	owl:sameAs	dbpedia-it:Maldegem .
+@prefix ns30:	<http://d-nb.info/gnd/7521127-0/about/> .
+dbr:Maldegem	owl:sameAs	ns30:rdf .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Maldegem	owl:sameAs	dbpedia-pt:Maldegem ,
+		wikidata:Q12896 ,
+		<http://d-nb.info/gnd/7521127-0> .
+@prefix dbpedia-eo:	<http://eo.dbpedia.org/resource/> .
+dbr:Maldegem	owl:sameAs	dbpedia-eo:Maldegem .
+@prefix dbpedia-war:	<http://war.dbpedia.org/resource/> .
+dbr:Maldegem	owl:sameAs	dbpedia-war:Maldegem .
+@prefix dbpedia-oc:	<http://oc.dbpedia.org/resource/> .
+dbr:Maldegem	owl:sameAs	dbpedia-oc:Maldegem .
+@prefix dbpedia-et:	<http://et.dbpedia.org/resource/> .
+dbr:Maldegem	owl:sameAs	dbpedia-et:Maldegem .
+@prefix dbpedia-vo:	<http://vo.dbpedia.org/resource/> .
+dbr:Maldegem	owl:sameAs	dbpedia-vo:Maldegem ,
+		<http://ar.dbpedia.org/resource/\u0645\u0627\u0644\u062F\u064A\u062E\u064A\u0645> ,
+		<http://bg.dbpedia.org/resource/\u041C\u0430\u043B\u0434\u0435\u0433\u0435\u043C> ,
+		<http://viaf.org/viaf/126661980> ,
+		<http://fa.dbpedia.org/resource/\u0645\u0644\u062F\u0648\u0698\u0645> .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Maldegem	owl:sameAs	dbpedia-fr:Maldegem .
+@prefix dbpedia-vi:	<http://vi.dbpedia.org/resource/> .
+dbr:Maldegem	owl:sameAs	dbpedia-vi:Maldegem .
+@prefix dbpedia-ro:	<http://ro.dbpedia.org/resource/> .
+dbr:Maldegem	owl:sameAs	dbpedia-ro:Maldegem .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Maldegem	owl:sameAs	dbpedia-nl:Maldegem ,
+		<http://d-nb.info/gnd/5191905-9> ,
+		<http://sws.geonames.org/2791857/> .
+@prefix ns41:	<https://global.dbpedia.org/id/> .
+dbr:Maldegem	owl:sameAs	ns41:KZps ,
+		<http://ceb.dbpedia.org/resource/Maldegem_(parokya)> ,
+		<http://be.dbpedia.org/resource/\u041C\u0430\u043B\u0434\u044D\u0433\u0435\u043C> ,
+		<http://sws.geonames.org/2791857> .
+@prefix dbpedia-hu:	<http://hu.dbpedia.org/resource/> .
+dbr:Maldegem	owl:sameAs	dbpedia-hu:Maldegem .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Maldegem	owl:sameAs	dbpedia-pl:Maldegem .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Maldegem	owl:sameAs	yago-res:Maldegem .
+@prefix georss:	<http://www.georss.org/georss/> .
+dbr:Maldegem	georss:point	"51.2 3.4333333333333336" ;
+	dbo:abstract	"Maldegem (nederlande, proksimuma prononco [MALde\u0125em]) estas municipo en Belgio, en la nederlandlingva provinco Orienta Flandrio. Komence de januaro 2016 la municipo havis 23\u2009452 lo\u011Dantojn. Ekde 1977, la municipoj Adegem kaj Middelburg apartenas al Maldegem."@eo ,
+		"Maldegem (Dutch pronunciation: [\u02C8m\u0251ld\u0259\u0263\u025Bm]) (West Flemish: Moaldegem) is a municipality located in the Belgian province of East Flanders. The municipality comprises the villages of Maldegem,  and Middelburg.  and  have always been separate hamlets of Maldegem. On January 1, 2006, Maldegem had a total population of 22,289. The total area is 94.64 square kilometres (36.54 sq mi) which gives a population density of 236 inhabitants per km\u00B2. The Stoomcentrum Maldegem is located at the former NMBS railway station at Maldegem."@en ,
+		"Maldegem \u00E8 un comune belga situato nella regione fiamminga."@it ,
+		"Maldegem \u00E4r en kommun i provinsen \u00D6stflandern i regionen Flandern i Belgien. Maldegem hade 22 397 inv\u00E5nare per 1 januari 2008."@sv ,
+		"Maldegem \u00E9 um munic\u00EDpio belga situado na prov\u00EDncia de Flandres Oriental. O munic\u00EDpio est\u00E1 dividido em tr\u00EAs deelgemeenten: Maldegem,  e . Em 1 de Julho de 2006, o munic\u00EDpio tinha uma popula\u00E7\u00E3o de 22.336 habitantes, uma \u00E1rea total de 94,64 km\u00B2 e uma densidade populacional de 236 habitantes por km\u00B2."@pt ,
+		"Maldegem \u00E9s un municipi belga de la prov\u00EDncia de Flandes Oriental a la regi\u00F3 de Flandes."@ca ,
+		"Maldegem (pengucapan Belanda: [\u02C8m\u0251ld\u0259\u0263\u025Bm]) (Barat Flemish: Moaldegem) adalah sebuah munisipalitas yang terletak di provinsi Belgia Flandria Timur. Munsisipalitas ini terdiri atas Desa Maldegem, , dan Middelburg.  dan  selama ini selalu manjadi dukuh yang terpisah dari Maldegem. Pada tanggal 1 Januari 2006, Maldegem memiliki jumlah penduduk 22.289 jiwa. Jumlah luasnya adalah 94,64 kilometer persegi yang memberikannya kepadatan penduduk 236 jiwa per km\u00B2. Yang Stoomcentrum Maldegem terletak di bekas NMBS stasiun kereta api di Maldegem."@in ,
+		"\u9A6C\u5C14\u5FB7\u6D77\u59C6\uFF08\u8377\u862D\u8A9E\uFF1AMaldegem\uFF09\u662F\u4F4D\u65BC\u6BD4\u5229\u65F6\u4E1C\u4F5B\u5170\u5FB7\u7701\u90E8\u7684\u4E00\u5EA7\u57CE\u5E02\uFF0C\u4EBA\u53E322,289\u4EBA\uFF082006\u5E74\uFF09\u3002"@zh ,
+		"Maldegem (nederlanderazko ahoskera: \u02C8m\u0251ld\u0259\u0263\u025Bm) Belgikako ipar-mendebaldeko udalerri bat da, Ekialdeko Flandria probintziakoa. Udalerriaren barruan herri hauek daude: Maldegem,  eta . 2006ko urtarrilaren 1ean, 22.289 biztanle zituen udalerriak."@eu ,
+		"Maldegem (Pronunciaci\u00F3n holandesa: [\u02C8m\u0251ld\u0259\u0263\u025Bm]) es un municipio localizado en la provincia belga de Flandes Oriental. El municipio comprende los pueblos de Maldegem, Adegem y Middelburg. Las poblaciones de Kleit y Donk siempre han sido aldeas separadas de Maldegem. A comienzos del 2018, Maldegem ten\u00EDa una poblaci\u00F3n total de 23.689 habitantes. El \u00E1rea total es 94.64 km\u00B2 (36.54 sq mi) lo cual da una densidad de poblaci\u00F3n de 250 habitantes por km\u00B2. El Stoomcentrum Maldegem est\u00E1 localizado en la antigua estaci\u00F3n de ferrocarril de Maldegem perteneciente a NMBS."@es ,
+		"\u0645\u0627\u0644\u062F\u064A\u062E\u064A\u0645 (\u062A\u0646\u0637\u0642 \u0628\u0627\u0644\u0647\u0648\u0644\u0646\u062F\u064A\u0629: [\u02C8m\u0251ld\u0259\u0263\u025Bm]) \u0647\u064A \u0628\u0644\u062F\u064A\u0629 \u062A\u0642\u0639 \u0641\u064A \u0628\u0644\u062C\u064A\u0643\u0627 \u0645\u0642\u0627\u0637\u0639\u0629 \u0641\u0644\u0627\u0646\u062F\u0631 \u0627\u0644\u0634\u0631\u0642\u064A\u0629."@ar ,
+		"Maldegem \u2013 gmina po\u0142o\u017Cona w prowincji Flandrii Wschodniej, w Belgii. Miasto Maldegem, od 2012 roku, jest obustronnym partnerem \u015Awidnicy."@pl ,
+		"Maldeghem, en n\u00E9erlandais Maldegem est une commune n\u00E9erlandophone de Belgique situ\u00E9e en R\u00E9gion flamande, dans la province de Flandre-Orientale. Elle est la plus \u00E9tendue de la province de Flandre orientale. Points d'int\u00E9r\u00EAt : Le Stoomcentrum Maldegem (chemin de fer touristique), l'\u00E9glise, le cimeti\u00E8re canadien, l'h\u00F4tel de ville."@fr ,
+		"Maldegem (auch Maldeghem) ist eine belgische Gemeinde in der Region Flandern. Sie liegt in der Provinz Ostflandern im belgischen Arrondissement Eeklo auf einer H\u00F6he von etwa 10 Metern \u00FCber NN."@de ,
+		"Maldegem is een gemeente in de Belgische provincie Oost-Vlaanderen. Deze gemeente in het noordwesten van de regio Meetjesland telt ruim 23.000 inwoners, waarvan er ruim 16.000 in Maldegem zelf wonen. De inwoners van Maldegem worden Maldegemnaars genoemd. Maldegem heeft als bijnaam \"die Loyale\", een naam die het verkreeg toen  zich in 1300 onderscheidde door zijn trouw aan de Vlaamse graaf Gwijde van Dampierre. Later is die naam dan overgenomen door Maldegem zelf. Het achtervoegsel \"-gem\" stamt af van het Germaanse (Frankische) \"-haim\" (= heem, huis, woonplaats). Plaatsnamen die hierop eindigen stammen vaak uit de 10de eeuw. Maldegem betekent \u2018vesting van (onbekende naam Germaanse leider)\u2019. Taalkundig gezien behoort het Maldegems duidelijk tot het West-Vlaams, hoewel het minder Franse leenwoorden bevat."@nl ;
+	dbo:country	dbr:Belgium ;
+	dbp:majority	dbr:De_Merlaan ,
+		dbr:Nieuw_Vlaamse_Aliantie ,
+		dbr:Open_Vlaams_Liberalen_en_Democraten ;
+	dbp:centre	"Maldegem"@en ;
+	dbp:east	dbr:Eeklo ,
+		dbr:Sint-Laureins ;
+	dbp:north	"Sluis"@en ;
+	dbp:south	dbr:Knesselare ;
+	dbp:southeast	dbr:Zomergem ;
+	dbp:west	"Damme"@en .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Maldegem	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Maldegem?oldid=980755810&ns=0> ;
+	dbp:picture	"Maldegem  - Rectorie Maldegem .jpg"@en ;
+	dbp:mapLegend	"Location of Maldegem in East Flanders"@en ;
+	dbp:nis	43010 ;
+	dbp:postalCodes	9990 ;
+	dbp:telephoneArea	50 ;
+	dbo:arrondissement	dbr:Arrondissement_of_Eeklo ;
+	dbo:areaCode	"050" ;
+	dbo:postalCode	"9990-9992" ;
+	dbp:name	"Maldegem"@en ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Maldegem_(Belgium)_-_Rectorie_Maldegem_(Dekenij).jpg?width=300> ;
+	dbp:flag	"Maldegem vlag.svg"@en ;
+	dbp:web	<http://www.maldegem.be/> ;
+	dbo:wikiPageExternalLink	<http://www.maldegem.be> ,
+		<http://www.maldegem.be/> ;
+	dbp:southwest	"Beernem"@en ;
+	dbp:mayor	"Bart Van Hulle"@en .
+@prefix ns47:	<http://www.w3.org/2006/03/wn/wn20/instances/> .
+dbr:Maldegem	dbp:wordnet_type	ns47:synset-township-noun-1 ;
+	dbp:arrondissement	dbr:Arrondissement_of_Eeklo ;
+	dbp:arms	"Blason ville be Maldegem.svg"@en ;
+	dbp:pictureLegend	"Maldegem rectory"@en ;
+	dbo:wikiPageID	154933 ;
+	dbo:wikiPageRevisionID	980755810 ;
+	dbo:wikiPageWikiLink	dbr:Beernem ,
+		dbr:East_Flanders ,
+		dbr:Stoomcentrum_Maldegem ,
+		dbr:Italy ,
+		dbr:Municipality ,
+		dbr:Belgium ,
+		dbr:Netherlands ,
+		dbr:Poland ,
+		dbr:Lampertheim ,
+		dbr:Population_density ,
+		dbr:Eeklo ,
+		dbr:Sint-Laureins ,
+		dbr:Sluis ,
+		<http://dbpedia.org/resource/\u015Awidnica> ,
+		dbr:National_Railway_Company_of_Belgium ,
+		dbc:Municipalities_of_East_Flanders ,
+		dbr:Arrondissement_of_Eeklo ,
+		dbr:Wierden ,
+		dbr:Knesselare ,
+		dbr:Damme ,
+		dbr:Zeeland ,
+		dbr:Sister_city ,
+		dbr:Zomergem ,
+		dbc:Maldegem ,
+		dbr:De_Merlaan ,
+		dbr:Nieuw_Vlaamse_Aliantie ,
+		dbr:Open_Vlaams_Liberalen_en_Democraten ,
+		<http://dbpedia.org/resource/File:Maldegem_weekblad.jpg> ,
+		dbr:France ,
+		dbr:Germany ,
+		dbr:Joanna_Courtmans ,
+		dbr:Ermont ,
+		dbr:Adria ,
+		dbr:West_Flanders ,
+		dbr:West_Flemish .
+@prefix dbt:	<http://dbpedia.org/resource/Template:> .
+dbr:Maldegem	dbp:wikiPageUsesTemplate	dbt:Municipalities_in_East_Flanders ,
+		dbt:Infobox_Belgium_municipality ,
+		dbt:Flagicon ,
+		dbt:Geographic_location ,
+		dbt:IPA-nl ,
+		dbt:In_lang ,
+		dbt:EastFlanders-geo-stub ,
+		dbt:BE-PROV-OV ,
+		dbt:Convert ,
+		dbt:Ill ,
+		dbt:BE-NL ,
+		dbt:BE-REG-FLE ,
+		dbt:Commons_category-inline ,
+		dbt:See_also ,
+		dbt:Reflist ,
+		dbt:Coord ;
+	dbo:wikiPageLength	"2948"^^xsd:nonNegativeInteger .
+dbr:East_Flemish	dbo:wikiPageWikiLink	dbr:Maldegem .
+<http://dbpedia.org/resource/4th_Canadian_Division>	dbo:wikiPageWikiLink	dbr:Maldegem .
+dbr:List_of_friendly_fire_incidents	dbo:wikiPageWikiLink	dbr:Maldegem .
+dbr:Wierden	dbo:wikiPageWikiLink	dbr:Maldegem .
+dbr:October_1918	dbo:wikiPageWikiLink	dbr:Maldegem .
+dbr:Herbert_Ihlefeld	dbo:wikiPageWikiLink	dbr:Maldegem .
+dbr:List_of_twin_towns_and_sister_cities_in_Belgium	dbo:wikiPageWikiLink	dbr:Maldegem .
+dbr:List_of_twin_towns_and_sister_cities_in_Germany	dbo:wikiPageWikiLink	dbr:Maldegem .
+dbr:List_of_twin_towns_and_sister_cities_in_Italy	dbo:wikiPageWikiLink	dbr:Maldegem .
+dbr:List_of_twin_towns_and_sister_cities_in_Poland	dbo:wikiPageWikiLink	dbr:Maldegem .
+dbr:Isolde_Lasoen	dbo:wikiPageWikiLink	dbr:Maldegem .
+dbr:List_of_Fairtrade_settlements	dbo:wikiPageWikiLink	dbr:Maldegem .
+dbr:Nikola_Storm	dbo:birthPlace	dbr:Maldegem ;
+	dbo:wikiPageWikiLink	dbr:Maldegem .
+dbr:Jellert_Van_Landschoot	dbo:birthPlace	dbr:Maldegem ;
+	dbp:birthPlace	dbr:Maldegem ;
+	dbo:wikiPageWikiLink	dbr:Maldegem .
+dbr:Erik_Hazelhoff_Roelfzema	dbo:wikiPageWikiLink	dbr:Maldegem .
+dbr:List_of_National_Roads_in_Belgium	dbo:wikiPageWikiLink	dbr:Maldegem .
+dbr:List_of_municipalities_of_the_Flemish_Region	dbo:wikiPageWikiLink	dbr:Maldegem .
+dbr:List_of_power_stations_in_Belgium	dbo:wikiPageWikiLink	dbr:Maldegem .
+dbr:GR_footpath	dbo:wikiPageWikiLink	dbr:Maldegem .
+dbr:Gago_Drago	dbo:wikiPageWikiLink	dbr:Maldegem .
+dbr:Marat_Grigorian	dbo:wikiPageWikiLink	dbr:Maldegem .
+dbr:Bladelin_Altarpiece	dbo:wikiPageWikiLink	dbr:Maldegem .
+dbr:Gerhard_Barkhorn	dbo:wikiPageWikiLink	dbr:Maldegem .
+dbr:List_of_twin_towns_and_sister_cities_in_France	dbo:wikiPageWikiLink	dbr:Maldegem .
+dbr:Index_of_Belgium-related_articles	dbo:wikiPageWikiLink	dbr:Maldegem .
+dbr:Donk	dbo:wikiPageWikiLink	dbr:Maldegem .
+<http://dbpedia.org/resource/Middelburg,_Belgium>	dbo:wikiPageRedirects	dbr:Maldegem ;
+	dbo:wikiPageWikiLink	dbr:Maldegem .
+<http://dbpedia.org/resource/Middelburg_(Belgium)>	dbo:wikiPageRedirects	dbr:Maldegem ;
+	dbo:wikiPageWikiLink	dbr:Maldegem .
+<http://dbpedia.org/resource/Maldegem,_Belgium>	dbo:wikiPageRedirects	dbr:Maldegem ;
+	dbo:wikiPageWikiLink	dbr:Maldegem .
+dbr:Moaldegem	dbo:wikiPageRedirects	dbr:Maldegem ;
+	dbo:wikiPageWikiLink	dbr:Maldegem .

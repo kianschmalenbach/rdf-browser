@@ -1,0 +1,362 @@
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+dbr:Surf-n-Burn	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Goldfinger_(Shirley_Bassey_song)> .
+<http://dbpedia.org/resource/Diamonds_Are_Forever_(film)>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Goldfinger_(Shirley_Bassey_song)> .
+dbr:The_Bucket_List	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Goldfinger_(Shirley_Bassey_song)> .
+dbr:The_Brightest_Void	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Goldfinger_(Shirley_Bassey_song)> .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:The_Brightest_Void	dbp:title	<http://dbpedia.org/resource/Goldfinger_(Shirley_Bassey_song)> .
+<http://dbpedia.org/resource/The_Nation\u0027s_Favourite>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Goldfinger_(Shirley_Bassey_song)> .
+dbr:The_Shadow_Self	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Goldfinger_(Shirley_Bassey_song)> .
+dbr:Billboard_Year-End_Hot_100_singles_of_1965	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Goldfinger_(Shirley_Bassey_song)> .
+dbr:List_of_Billboard_Hot_100_top-ten_singles_in_1965	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Goldfinger_(Shirley_Bassey_song)> .
+<http://dbpedia.org/resource/Operaci\u00F3n_Triunfo_(series_5)>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Goldfinger_(Shirley_Bassey_song)> .
+<http://dbpedia.org/resource/The_World_Is_Not_Enough_(song)>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Goldfinger_(Shirley_Bassey_song)> .
+dbr:For_Your_Files_Only	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Goldfinger_(Shirley_Bassey_song)> .
+dbr:Kerry_Ellis_Sings_the_Great_British_Songbook	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Goldfinger_(Shirley_Bassey_song)> .
+dbr:Party_at_the_Palace	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Goldfinger_(Shirley_Bassey_song)> .
+<http://dbpedia.org/resource/Soul_(Ray_Bryant_album)>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Goldfinger_(Shirley_Bassey_song)> .
+dbr:Thank_You_for_the_Years	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Goldfinger_(Shirley_Bassey_song)> .
+<http://dbpedia.org/resource/Small_Town_(album)>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Goldfinger_(Shirley_Bassey_song)> .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+<http://en.wikipedia.org/wiki/Goldfinger_(Shirley_Bassey_song)>	foaf:primaryTopic	<http://dbpedia.org/resource/Goldfinger_(Shirley_Bassey_song)> .
+dbr:List_of_people_from_Cardiff	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Goldfinger_(Shirley_Bassey_song)> .
+<http://dbpedia.org/resource/Tawag_ng_Tanghalan_(season_4)>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Goldfinger_(Shirley_Bassey_song)> .
+dbr:List_of_The_Simpsons_guest_stars	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Goldfinger_(Shirley_Bassey_song)> .
+dbr:List_of_The_Muppet_Show_episodes	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Goldfinger_(Shirley_Bassey_song)> .
+<http://dbpedia.org/resource/1964_in_music>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Goldfinger_(Shirley_Bassey_song)> .
+<http://dbpedia.org/resource/1965_in_music>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Goldfinger_(Shirley_Bassey_song)> .
+dbr:Shirley_Bassey	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Goldfinger_(Shirley_Bassey_song)> .
+<http://dbpedia.org/resource/The_Liquidator_(1965_film)>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Goldfinger_(Shirley_Bassey_song)> .
+dbr:You_Know_My_Name	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Goldfinger_(Shirley_Bassey_song)> .
+dbr:Shirley_Bassey_discography	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Goldfinger_(Shirley_Bassey_song)> .
+dbr:Eric_Arthur_Tomlinson	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Goldfinger_(Shirley_Bassey_song)> .
+dbr:Blue_Stingrays	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Goldfinger_(Shirley_Bassey_song)> .
+<http://dbpedia.org/resource/25th_Anniversary_Album_(Shirley_Bassey_album)>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Goldfinger_(Shirley_Bassey_song)> .
+<http://dbpedia.org/resource/1977_(Ash_album)>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Goldfinger_(Shirley_Bassey_song)> .
+dbr:Masked_Singer_Suomi	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Goldfinger_(Shirley_Bassey_song)> .
+<http://dbpedia.org/resource/Stronghold_\u2013_The_Collector\u0027s_Hit_Box>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Goldfinger_(Shirley_Bassey_song)> ;
+	dbp:title	<http://dbpedia.org/resource/Goldfinger_(Shirley_Bassey_song)> .
+<http://dbpedia.org/resource/Diamonds_Are_Forever_(soundtrack)>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Goldfinger_(Shirley_Bassey_song)> .
+dbr:Goldfinger	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Goldfinger_(Shirley_Bassey_song)> ;
+	dbo:wikiPageDisambiguates	<http://dbpedia.org/resource/Goldfinger_(Shirley_Bassey_song)> .
+<http://dbpedia.org/resource/007_Villain_Club_by_Swatch>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Goldfinger_(Shirley_Bassey_song)> ;
+	dbp:title	<http://dbpedia.org/resource/Goldfinger_(Shirley_Bassey_song)> .
+dbr:A_Thousand_Evenings	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Goldfinger_(Shirley_Bassey_song)> .
+dbr:Drive-In_Movie_Time	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Goldfinger_(Shirley_Bassey_song)> ;
+	dbp:title	<http://dbpedia.org/resource/Goldfinger_(Shirley_Bassey_song)> .
+<http://dbpedia.org/resource/Those_Were_the_Days_\u2013_The_Best_of_Leningrad_Cowboys>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Goldfinger_(Shirley_Bassey_song)> ;
+	dbp:title	<http://dbpedia.org/resource/Goldfinger_(Shirley_Bassey_song)> .
+dbr:Harry_James_discography	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Goldfinger_(Shirley_Bassey_song)> .
+dbr:Leslie_Bricusse	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Goldfinger_(Shirley_Bassey_song)> .
+dbr:Anthony_Newley	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Goldfinger_(Shirley_Bassey_song)> .
+dbr:Outline_of_James_Bond	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Goldfinger_(Shirley_Bassey_song)> .
+<http://dbpedia.org/resource/Belting_(music)>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Goldfinger_(Shirley_Bassey_song)> .
+dbr:George_Martin	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Goldfinger_(Shirley_Bassey_song)> .
+dbr:Royal_Albert_Hall	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Goldfinger_(Shirley_Bassey_song)> .
+<http://dbpedia.org/resource/The_Best..._Album_in_the_World...Ever!>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Goldfinger_(Shirley_Bassey_song)> .
+<http://dbpedia.org/resource/Forbidden_Broadway,_Vol._2>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Goldfinger_(Shirley_Bassey_song)> .
+dbr:Shirley_Stops_the_Shows	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Goldfinger_(Shirley_Bassey_song)> .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+<http://dbpedia.org/resource/Goldfinger_(Shirley_Bassey_song)>	rdf:type	<http://dbpedia.org/class/yago/WikicatSongsWithMusicByJohnBarry(composer)> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+<http://dbpedia.org/resource/Goldfinger_(Shirley_Bassey_song)>	rdf:type	yago:Abstraction100002137 .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+<http://dbpedia.org/resource/Goldfinger_(Shirley_Bassey_song)>	rdf:type	wikidata:Q386724 ,
+		yago:WikicatSongRecordingsProducedByGeorgeMartin ,
+		yago:Signal106791372 ,
+		yago:WikicatSongsFromFilms ,
+		yago:WikicatSongsFromJamesBondFilms .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+<http://dbpedia.org/resource/Goldfinger_(Shirley_Bassey_song)>	rdf:type	owl:Thing ,
+		yago:Communication100033020 ,
+		yago:AuditoryCommunication107109019 ,
+		dbo:Work ,
+		yago:Song107048000 ,
+		dbo:Song ,
+		yago:Wikicat1964Songs ,
+		yago:Music107020895 ,
+		yago:MusicalComposition107037465 ,
+		yago:Recording104063661 ,
+		dbo:MusicalWork .
+@prefix schema:	<http://schema.org/> .
+<http://dbpedia.org/resource/Goldfinger_(Shirley_Bassey_song)>	rdf:type	schema:CreativeWork ,
+		yago:WikicatPopSongs ,
+		schema:MusicRecording ,
+		yago:WikicatBritishSongs ,
+		yago:WikicatShirleyBasseySongs ,
+		wikidata:Q2188189 .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+<http://dbpedia.org/resource/Goldfinger_(Shirley_Bassey_song)>	rdfs:label	"Goldfinger (Lied)"@de ,
+		"Goldfinger (brano musicale)"@it ,
+		"Goldfinger (nummer)"@nl ,
+		"Goldfinger (\u043F\u0435\u0441\u043D\u044F)"@ru ,
+		"Goldfinger (can\u00E7\u00E3o)"@pt ,
+		"Goldfinger (Shirley Bassey song)"@en ,
+		"Goldfinger (chanson)"@fr ;
+	rdfs:comment	"\"Goldfinger\" \u00E9 uma can\u00E7\u00E3o composta por John Barry, Leslie Bricusse e Anthony Newley e interpretada por Shirley Bassey para o filme hom\u00F4nimo, da franquia James Bond, de 1964. Executada na sequ\u00EAncia de abertura e final da obra cinematogr\u00E1fica, \u00E9 o \u00FAnico single de Bassey a configurar na Billboard Hot 100 por quatro semanas. Ela aparece na posi\u00E7\u00E3o 53 na lista das melhores can\u00E7\u00F5es de filmes estadunidenses segundo o American Film Institute (AFI's 100 Years...100 Songs), al\u00E9m de j\u00E1 ter conquistado o Grammy Hall of Fame."@pt ,
+		"Goldfinger est une chanson britannique de Shirley Bassey, extraite de la bande originale du film du m\u00EAme nom (3e film de la saga James Bond). La chanson est respectivement class\u00E9e no 1 aux hit-parades japonais, no 2 au Hot Adult Contemporary Tracks du Billboard mais seulement 21e au UK Singles Chart en 1964. Elle est certifi\u00E9e disque d'or aux \u00C9tats-Unis en 1965. En 2004, elle a \u00E9t\u00E9 class\u00E9e 53e au classement AFI's 100 Years... 100 Songs des 100 plus grandes chansons du cin\u00E9ma am\u00E9ricain. Deux autres versions existent, l'une d'Anthony Newley, l'autre en fran\u00E7ais de John William."@fr ,
+		"Goldfinger ist das Titellied des gleichnamigen James-Bond-Films aus dem Jahre 1964. Das St\u00FCck wurde von John Barry komponiert, der Text stammt von Leslie Bricusse und Anthony Newley. Gesungen wird das Lied von Shirley Bassey."@de ,
+		"Goldfinger is de titelsong van de gelijknamige James Bond-film Goldfinger uit 1964. Het nummer werd gecomponeerd door John Barry met teksten van Leslie Bricusse en Anthony Newley. De uitvoerende van het nummer werd Shirley Bassey, de zangeres die later nog tweemaal een James Bond-nummer opnam ( en ). Goldfinger wordt gebruikt tijdens de openingstitels en de aftiteling van de film. Ook verscheen het nummer op de soundtrack van de film."@nl ,
+		"\"Goldfinger\" is the title song from the 1964 James Bond film Goldfinger. Composed by John Barry and with lyrics by Leslie Bricusse and Anthony Newley, the song was performed by Shirley Bassey for the film's opening and closing title sequences, as well as the soundtrack album release. The single release of the song gave Bassey her only Billboard Hot 100 top forty hit, peaking in the Top 10 at No. 8 and No. 2 for four weeks on the Adult Contemporary chart, and in the United Kingdom the single reached No. 21."@en ,
+		"\u00ABGoldfinger\u00BB \u2014 \u043F\u0435\u0441\u043D\u044F \u0432\u0430\u043B\u043B\u0438\u0439\u0441\u043A\u043E\u0439 \u043F\u0435\u0432\u0438\u0446\u044B \u0428\u0438\u0440\u043B\u0438 \u0411\u044D\u0441\u0441\u0438, \u043D\u0430\u043F\u0438\u0441\u0430\u043D\u043D\u0430\u044F \u0414\u0436\u043E\u043D\u043E\u043C \u0411\u0430\u0440\u0440\u0438 (\u043C\u0443\u0437\u044B\u043A\u0430), \u041B\u0435\u0441\u043B\u0438 \u0411\u0440\u0438\u043A\u0430\u0441\u0441\u043E\u043C \u0438 \u042D\u043D\u0442\u043E\u043D\u0438 \u041D\u044C\u044E\u043B\u0438 (\u0441\u043B\u043E\u0432\u0430) \u0434\u043B\u044F \u043E\u0434\u043D\u043E\u0438\u043C\u0451\u043D\u043D\u043E\u0433\u043E \u0444\u0438\u043B\u044C\u043C\u0430 \u043E \u0414\u0436\u0435\u0439\u043C\u0441\u0435 \u0411\u043E\u043D\u0434\u0435. \u041D\u0430 \u044D\u0442\u0443 \u043F\u0435\u0441\u043D\u044E \u0431\u044B\u043B\u043E \u0441\u043E\u0437\u0434\u0430\u043D\u043E \u043D\u0435\u0441\u043A\u043E\u043B\u044C\u043A\u043E \u043F\u0430\u0440\u043E\u0434\u0438\u0439, \u0432 \u0442\u043E\u043C \u0447\u0438\u0441\u043B\u0435 Dr. Evil, \u043D\u0430\u043F\u0438\u0441\u0430\u043D\u043D\u0430\u044F They Might Be Giants \u0434\u043B\u044F \u0444\u0438\u043B\u044C\u043C\u0430 \u00AB\u041E\u0441\u0442\u0438\u043D \u041F\u0430\u0443\u044D\u0440\u0441: \u0428\u043F\u0438\u043E\u043D, \u043A\u043E\u0442\u043E\u0440\u044B\u0439 \u043C\u0435\u043D\u044F \u0441\u043E\u0431\u043B\u0430\u0437\u043D\u0438\u043B\u00BB, \u0438 Max Power \u043A \u0441\u0435\u0440\u0438\u0438 Homer to the Max \u043C\u0443\u043B\u044C\u0442\u0441\u0435\u0440\u0438\u0430\u043B\u0430 The Simpsons."@ru ,
+		"Goldfinger \u00E8 un singolo del 1964 di Shirley Bassey. \u00C8 la title track dell'omonimo film Agente 007 - Missione Goldfinger, 3\u00BA capitolo della serie cinematografica di James Bond. Il brano \u00E8 stato scritto da John Barry per quanto riguarda la musica, e da Leslie Bricusse con Anthony Newley per il testo."@it ;
+	foaf:name	"Goldfinger"@en ;
+	foaf:isPrimaryTopicOf	<http://en.wikipedia.org/wiki/Goldfinger_(Shirley_Bassey_song)> .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+<http://dbpedia.org/resource/Goldfinger_(Shirley_Bassey_song)>	dct:subject	dbc:Songs_written_by_Leslie_Bricusse ,
+		dbc:Songs_written_by_Anthony_Newley ,
+		dbc:Song_recordings_produced_by_George_Martin ,
+		dbc:Songs_from_James_Bond_films ,
+		dbc:Capitol_Records_singles ,
+		<http://dbpedia.org/resource/Category:Goldfinger_(film)> ,
+		dbc:Columbia_Graphophone_Company_singles ,
+		<http://dbpedia.org/resource/Category:1964_singles> ,
+		<http://dbpedia.org/resource/Category:1964_songs> ,
+		dbc:Songs_about_fictional_male_characters ,
+		dbc:Shirley_Bassey_songs ,
+		<http://dbpedia.org/resource/Category:Songs_with_music_by_John_Barry_(composer)> ,
+		dbc:United_Artists_Records_singles ;
+	owl:sameAs	<http://rdf.freebase.com/ns/m.0l0ygh> ,
+		<http://de.dbpedia.org/resource/Goldfinger_(Lied)> ,
+		<http://it.dbpedia.org/resource/Goldfinger_(brano_musicale)> .
+@prefix ns12:	<http://musicbrainz.org/work/> .
+<http://dbpedia.org/resource/Goldfinger_(Shirley_Bassey_song)>	owl:sameAs	ns12:c0a94aa3-21e6-3a06-9142-a891c323f010 .
+@prefix ns13:	<https://global.dbpedia.org/id/> .
+<http://dbpedia.org/resource/Goldfinger_(Shirley_Bassey_song)>	owl:sameAs	ns13:UwK1 ,
+		<http://yago-knowledge.org/resource/Goldfinger_(Shirley_Bassey_song)> ,
+		wikidata:Q14716 ,
+		<http://fr.dbpedia.org/resource/Goldfinger_(chanson)> ,
+		<http://ru.dbpedia.org/resource/Goldfinger_(\u043F\u0435\u0441\u043D\u044F)> ,
+		<http://nl.dbpedia.org/resource/Goldfinger_(nummer)> ,
+		<http://dbpedia.org/resource/Goldfinger_(Shirley_Bassey_song)> ,
+		<http://pt.dbpedia.org/resource/Goldfinger_(can\u00E7\u00E3o)> ;
+	dbo:abstract	"Goldfinger est une chanson britannique de Shirley Bassey, extraite de la bande originale du film du m\u00EAme nom (3e film de la saga James Bond). La chanson est respectivement class\u00E9e no 1 aux hit-parades japonais, no 2 au Hot Adult Contemporary Tracks du Billboard mais seulement 21e au UK Singles Chart en 1964. Elle est certifi\u00E9e disque d'or aux \u00C9tats-Unis en 1965. En 2004, elle a \u00E9t\u00E9 class\u00E9e 53e au classement AFI's 100 Years... 100 Songs des 100 plus grandes chansons du cin\u00E9ma am\u00E9ricain. Deux autres versions existent, l'une d'Anthony Newley, l'autre en fran\u00E7ais de John William. En 2013, une reprise de Sharon Jones appara\u00EEt dans le film Le Loup de Wall Street (The Wolf of Wall Street) de Martin Scorsese."@fr ,
+		"\u00ABGoldfinger\u00BB \u2014 \u043F\u0435\u0441\u043D\u044F \u0432\u0430\u043B\u043B\u0438\u0439\u0441\u043A\u043E\u0439 \u043F\u0435\u0432\u0438\u0446\u044B \u0428\u0438\u0440\u043B\u0438 \u0411\u044D\u0441\u0441\u0438, \u043D\u0430\u043F\u0438\u0441\u0430\u043D\u043D\u0430\u044F \u0414\u0436\u043E\u043D\u043E\u043C \u0411\u0430\u0440\u0440\u0438 (\u043C\u0443\u0437\u044B\u043A\u0430), \u041B\u0435\u0441\u043B\u0438 \u0411\u0440\u0438\u043A\u0430\u0441\u0441\u043E\u043C \u0438 \u042D\u043D\u0442\u043E\u043D\u0438 \u041D\u044C\u044E\u043B\u0438 (\u0441\u043B\u043E\u0432\u0430) \u0434\u043B\u044F \u043E\u0434\u043D\u043E\u0438\u043C\u0451\u043D\u043D\u043E\u0433\u043E \u0444\u0438\u043B\u044C\u043C\u0430 \u043E \u0414\u0436\u0435\u0439\u043C\u0441\u0435 \u0411\u043E\u043D\u0434\u0435. \u041D\u0430 \u044D\u0442\u0443 \u043F\u0435\u0441\u043D\u044E \u0431\u044B\u043B\u043E \u0441\u043E\u0437\u0434\u0430\u043D\u043E \u043D\u0435\u0441\u043A\u043E\u043B\u044C\u043A\u043E \u043F\u0430\u0440\u043E\u0434\u0438\u0439, \u0432 \u0442\u043E\u043C \u0447\u0438\u0441\u043B\u0435 Dr. Evil, \u043D\u0430\u043F\u0438\u0441\u0430\u043D\u043D\u0430\u044F They Might Be Giants \u0434\u043B\u044F \u0444\u0438\u043B\u044C\u043C\u0430 \u00AB\u041E\u0441\u0442\u0438\u043D \u041F\u0430\u0443\u044D\u0440\u0441: \u0428\u043F\u0438\u043E\u043D, \u043A\u043E\u0442\u043E\u0440\u044B\u0439 \u043C\u0435\u043D\u044F \u0441\u043E\u0431\u043B\u0430\u0437\u043D\u0438\u043B\u00BB, \u0438 Max Power \u043A \u0441\u0435\u0440\u0438\u0438 Homer to the Max \u043C\u0443\u043B\u044C\u0442\u0441\u0435\u0440\u0438\u0430\u043B\u0430 The Simpsons."@ru ,
+		"\"Goldfinger\" \u00E9 uma can\u00E7\u00E3o composta por John Barry, Leslie Bricusse e Anthony Newley e interpretada por Shirley Bassey para o filme hom\u00F4nimo, da franquia James Bond, de 1964. Executada na sequ\u00EAncia de abertura e final da obra cinematogr\u00E1fica, \u00E9 o \u00FAnico single de Bassey a configurar na Billboard Hot 100 por quatro semanas. Ela aparece na posi\u00E7\u00E3o 53 na lista das melhores can\u00E7\u00F5es de filmes estadunidenses segundo o American Film Institute (AFI's 100 Years...100 Songs), al\u00E9m de j\u00E1 ter conquistado o Grammy Hall of Fame."@pt ,
+		"Goldfinger is de titelsong van de gelijknamige James Bond-film Goldfinger uit 1964. Het nummer werd gecomponeerd door John Barry met teksten van Leslie Bricusse en Anthony Newley. De uitvoerende van het nummer werd Shirley Bassey, de zangeres die later nog tweemaal een James Bond-nummer opnam ( en ). Goldfinger wordt gebruikt tijdens de openingstitels en de aftiteling van de film. Ook verscheen het nummer op de soundtrack van de film. Oorspronkelijk nam Newley het nummer zelf op. Bassey werd uitgekozen omdat haar stem meer effect zou hebben. In 1992 werd de versie van Newley uitgebracht ter gelegenheid van de dertigste verjaardag van de James Bond-films in een compilatie: The Best of Bond... James Bond. Het nummer werd goud in de Verenigde Staten en behaalde de top 10 in verschillende Europese landen, waaronder Nederland. In Japan werd het nummer een nummer 1-hit. Sinds de jaren 60 is het nummer het bekendste werk van Shirley Bassey. Ze zingt het nummer tijdens de meeste optredens die ze geeft."@nl ,
+		"\"Goldfinger\" is the title song from the 1964 James Bond film Goldfinger. Composed by John Barry and with lyrics by Leslie Bricusse and Anthony Newley, the song was performed by Shirley Bassey for the film's opening and closing title sequences, as well as the soundtrack album release. The single release of the song gave Bassey her only Billboard Hot 100 top forty hit, peaking in the Top 10 at No. 8 and No. 2 for four weeks on the Adult Contemporary chart, and in the United Kingdom the single reached No. 21. The song finished at No. 53 in AFI's 100 Years...100 Songs survey of top tunes in American cinema. In 2008, the single was inducted into the Grammy Hall of Fame."@en ,
+		"Goldfinger \u00E8 un singolo del 1964 di Shirley Bassey. \u00C8 la title track dell'omonimo film Agente 007 - Missione Goldfinger, 3\u00BA capitolo della serie cinematografica di James Bond. Il brano \u00E8 stato scritto da John Barry per quanto riguarda la musica, e da Leslie Bricusse con Anthony Newley per il testo. La canzone ottenne numerosi riconoscimenti internazionali, diventando l'unico successo da top 40 nella Billboard Hot 100 per la Bassey, raggiungendo la seconda posizione in classifica negli Stati Uniti e la numero 21 nel Regno Unito; venendo inoltre inserita nella classifica AFI's 100 Years... 100 Songs (n. 53) e nel 2008 ammessa nella Grammy Hall of Fame."@it ,
+		"Goldfinger ist das Titellied des gleichnamigen James-Bond-Films aus dem Jahre 1964. Das St\u00FCck wurde von John Barry komponiert, der Text stammt von Leslie Bricusse und Anthony Newley. Gesungen wird das Lied von Shirley Bassey."@de ;
+	dbp:caption	"A-side label of UK vinyl single"@en .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+<http://dbpedia.org/resource/Goldfinger_(Shirley_Bassey_song)>	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Goldfinger_(Shirley_Bassey_song)?oldid=984467726&ns=0> ;
+	dbp:type	"single"@en ;
+	dbp:name	"Goldfinger"@en .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+<http://dbpedia.org/resource/Goldfinger_(Shirley_Bassey_song)>	dbo:runtime	168.0 .
+@prefix ns16:	<http://dbpedia.org/datatype/> .
+@prefix ns17:	<http://dbpedia.org/ontology/Work/> .
+<http://dbpedia.org/resource/Goldfinger_(Shirley_Bassey_song)>	ns17:runtime	"2.8"^^ns16:minute ;
+	dbp:bSide	"\"Strange How Love Can Be\""@en ;
+	dbp:producer	dbr:George_Martin ;
+	dbp:writer	dbr:Anthony_Newley ,
+		dbr:Leslie_Bricusse ,
+		<http://dbpedia.org/resource/John_Barry_(composer)> ;
+	dbp:artist	dbr:Shirley_Bassey ;
+	dbp:released	1964 ;
+	dbp:cover	"Goldfinger by Shirley Bassey UK vinyl.jpg"@en ;
+	dbp:length	"168.0"^^ns16:second ;
+	dbp:label	dbr:Columbia_Records ,
+		dbr:United_Artists_Records ,
+		dbr:Capitol_Records ;
+	dbo:producer	dbr:George_Martin ;
+	dbo:artist	dbr:Shirley_Bassey ;
+	dbo:writer	<http://dbpedia.org/resource/John_Barry_(composer)> ,
+		dbr:Leslie_Bricusse ,
+		dbr:Anthony_Newley ;
+	dbo:wikiPageID	7612761 ;
+	dbo:wikiPageRevisionID	984467726 ;
+	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Diamonds_Are_Forever_(film)> ,
+		<http://dbpedia.org/resource/007_Legends> ,
+		<http://dbpedia.org/resource/The_Wolf_of_Wall_Street_(2013_film)> ,
+		<http://dbpedia.org/resource/John_Barry_(composer)> ,
+		<http://dbpedia.org/resource/Eino_Gr\u00F6n> ,
+		dbr:Outline_of_James_Bond ,
+		dbc:Songs_about_fictional_male_characters ,
+		<http://dbpedia.org/resource/Goldfinger_(film)> ,
+		dbr:Sean_Connery ,
+		dbr:El_Abayarde_Contraataca ,
+		dbr:Hank_Marvin ,
+		dbr:Jimmy_Page ,
+		dbr:Celine_Dion ,
+		dbr:The_Simpsons ,
+		dbr:Frasier ,
+		dbr:Rhythm_and_blues ,
+		<http://dbpedia.org/resource/Licence_to_Kill_(song)> ,
+		dbr:Vic_Flick ,
+		dbc:Song_recordings_produced_by_George_Martin ,
+		<http://dbpedia.org/resource/Category:Songs_with_music_by_John_Barry_(composer)> ,
+		<http://dbpedia.org/resource/Little_Voice_(film)> ,
+		dbr:Wembley ,
+		dbr:Mack_the_Knife ,
+		dbr:The_Honeycombs ,
+		<http://dbpedia.org/resource/Small_Town_(album)> ,
+		dbr:Michael_Caine ,
+		dbr:Nightwish ,
+		dbr:James_Bond_music ,
+		dbr:Tom_Petty_and_the_Heartbreakers ,
+		<http://dbpedia.org/resource/Interpolation_(popular_music)> ,
+		dbr:Niles_Crane ,
+		dbr:Tarja_Turunen ,
+		<http://dbpedia.org/resource/85th_Academy_Awards> ,
+		dbc:Songs_from_James_Bond_films ,
+		dbr:Orchestral_pop ,
+		dbr:Moon_River ,
+		dbr:The_Ed_Sullivan_Show ,
+		dbc:Capitol_Records_singles ,
+		dbr:David_Arnold ,
+		<http://dbpedia.org/resource/Man_or_Astro-man%3F> ,
+		dbc:United_Artists_Records_singles ,
+		dbr:Billy_Preston ,
+		dbr:Bill_Frisell ,
+		dbr:Licence_to_Kill ,
+		dbr:Howard_Devoto ,
+		dbr:Ray_Barretto ,
+		dbc:Shirley_Bassey_songs ,
+		dbr:CTS_Studios ,
+		dbr:Shirley_Bassey .
+@prefix ns18:	<http://dbpedia.org/resource/Austin_Powers:> .
+<http://dbpedia.org/resource/Goldfinger_(Shirley_Bassey_song)>	dbo:wikiPageWikiLink	ns18:_The_Spy_Who_Shagged_Me ,
+		<http://dbpedia.org/resource/Magazine_(band)> ,
+		dbr:Hello_Like_Before ,
+		dbr:Connie_Francis ,
+		dbr:The_Live_Anthology ,
+		dbr:The_Muppet_Show ,
+		dbr:They_Might_Be_Giants ,
+		dbr:The_Brightest_Void ,
+		<http://dbpedia.org/resource/The_Best_of_Bond...James_Bond> ,
+		dbr:Harry_Saltzman ,
+		<http://dbpedia.org/resource/Thomas_Morgan_(bassist)> ,
+		dbc:Songs_written_by_Anthony_Newley ,
+		dbr:Zombies_Paradise ,
+		dbr:Homer_to_the_Max ,
+		dbr:Enoch_Light ,
+		dbr:Count_Basie ,
+		dbr:Leslie_Bricusse ,
+		dbr:Leningrad_Cowboys ,
+		dbr:Big_Jim_Sullivan ,
+		<http://dbpedia.org/resource/AFI\u0027s_100_Years...100_Songs> ,
+		dbr:James_Bond ,
+		dbr:Billy_Strange ,
+		dbc:Songs_written_by_Leslie_Bricusse ,
+		dbr:Adult_contemporary_music ,
+		<http://dbpedia.org/resource/Category:Goldfinger_(film)> ,
+		dbr:Las_Vegas ,
+		dbr:Pop_music ,
+		dbr:Dot_Records ,
+		dbr:George_Martin ,
+		dbc:Columbia_Graphophone_Company_singles ,
+		<http://dbpedia.org/resource/Tego_Calder\u00F3n> ,
+		dbr:Post-punk ,
+		dbr:Columbia_Records ,
+		dbr:Jordan_Belfort ,
+		<http://dbpedia.org/resource/Category:1964_singles> ,
+		dbr:Anthony_Newley ,
+		<http://dbpedia.org/resource/Category:1964_songs> ,
+		dbr:Billboard_Hot_100 ,
+		<http://dbpedia.org/resource/Dr._Evil> ,
+		dbr:Midas ,
+		dbr:Grammy_Hall_of_Fame ,
+		dbr:United_Artists_Records ,
+		dbr:Martin_Crane ,
+		dbr:Capitol_Records ,
+		dbr:The_Fillmore ,
+		dbr:BBC_Radio_2 ,
+		dbr:Frasier_Crane ,
+		dbr:Harry_James ,
+		dbr:Propellerheads ,
+		<http://dbpedia.org/resource/Breakfast_at_Tiffany\u0027s_(film)> .
+@prefix dbt:	<http://dbpedia.org/resource/Template:> .
+<http://dbpedia.org/resource/Goldfinger_(Shirley_Bassey_song)>	dbp:wikiPageUsesTemplate	dbt:James_Bond_music ,
+		dbt:Reflist ,
+		<http://dbpedia.org/resource/Template:!> ,
+		dbt:Redirect ,
+		dbt:Shirley_Bassey ,
+		dbt:Infobox_song ,
+		dbt:Citation_needed ;
+	dbo:wikiPageLength	"15517"^^xsd:nonNegativeInteger ;
+	dbp:genre	dbr:Orchestral_pop ,
+		dbr:Pop_music ,
+		dbr:Rhythm_and_blues ;
+	dbo:genre	dbr:Pop_music ,
+		dbr:Rhythm_and_blues ,
+		dbr:Orchestral_pop ;
+	dbo:recordLabel	dbr:Capitol_Records ,
+		dbr:United_Artists_Records ,
+		dbr:Columbia_Records .
+<http://dbpedia.org/resource/Cityscape_(David_%22Fathead%22_Newman_album)>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Goldfinger_(Shirley_Bassey_song)> .
+<http://dbpedia.org/resource/Monster_(Jimmy_Smith_album)>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Goldfinger_(Shirley_Bassey_song)> .
+dbr:The_Honeycombs	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Goldfinger_(Shirley_Bassey_song)> .
+dbr:ClassiKhan	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Goldfinger_(Shirley_Bassey_song)> .
+<http://dbpedia.org/resource/Everything_or_Nothing_(song)>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Goldfinger_(Shirley_Bassey_song)> .
+dbr:List_of_The_Tracey_Ullman_Show_episodes	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Goldfinger_(Shirley_Bassey_song)> .
+dbr:List_of_signature_songs	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Goldfinger_(Shirley_Bassey_song)> .
+dbr:List_of_songs_recorded_by_Tom_Petty_and_the_Heartbreakers	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Goldfinger_(Shirley_Bassey_song)> .
+<http://dbpedia.org/resource/Dancing_with_the_Stars_(American_season_4)>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Goldfinger_(Shirley_Bassey_song)> .
+dbr:Arthur_Greenslade	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Goldfinger_(Shirley_Bassey_song)> .
+dbr:Filipa_Azevedo	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Goldfinger_(Shirley_Bassey_song)> .
+dbr:Homer_to_the_Max	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Goldfinger_(Shirley_Bassey_song)> .
+<http://dbpedia.org/resource/1937>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Goldfinger_(Shirley_Bassey_song)> .
+<http://dbpedia.org/resource/The_Wolf_of_Wall_Street_(2013_film)>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Goldfinger_(Shirley_Bassey_song)> ;
+	dbp:title	<http://dbpedia.org/resource/Goldfinger_(Shirley_Bassey_song)> .
+<http://dbpedia.org/resource/Janelle_Mon\u00E1e>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Goldfinger_(Shirley_Bassey_song)> .
+dbr:Four_Decades_of_Song	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Goldfinger_(Shirley_Bassey_song)> .
+dbr:Last_Choir_Standing	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Goldfinger_(Shirley_Bassey_song)> .
+<http://dbpedia.org/resource/76th_Academy_Awards>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Goldfinger_(Shirley_Bassey_song)> .
+dbr:Tarja_Turunen	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Goldfinger_(Shirley_Bassey_song)> .
+dbr:Velvet_Knights_Drum_and_Bugle_Corps	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Goldfinger_(Shirley_Bassey_song)> .
+<http://dbpedia.org/resource/Bassey_\u2013_The_EMI/UA_Years_1959_\u2013_1979>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Goldfinger_(Shirley_Bassey_song)> .
+<http://dbpedia.org/resource/Skyfall_(Adele_song)>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Goldfinger_(Shirley_Bassey_song)> .
+dbr:Early_Hits_of_1965	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Goldfinger_(Shirley_Bassey_song)> .
+<http://dbpedia.org/resource/The_Best_of_Bond...James_Bond>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Goldfinger_(Shirley_Bassey_song)> .
+dbr:The_Bond_Collection	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Goldfinger_(Shirley_Bassey_song)> .
+dbr:Shirley_Bassey_Sings_the_Movies	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Goldfinger_(Shirley_Bassey_song)> .
+dbr:The_Shirley_Bassey_Singles_Album	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Goldfinger_(Shirley_Bassey_song)> .
+<http://dbpedia.org/resource/85th_Academy_Awards>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Goldfinger_(Shirley_Bassey_song)> .
+dbr:List_of_Stars_in_Their_Eyes_episodes	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Goldfinger_(Shirley_Bassey_song)> .
+<http://dbpedia.org/resource/Celine_(concert_residency)>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Goldfinger_(Shirley_Bassey_song)> .
+dbr:Donna_Loren	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Goldfinger_(Shirley_Bassey_song)> .
+<http://dbpedia.org/resource/Live_in_Japan_(Shirley_Bassey_album)>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Goldfinger_(Shirley_Bassey_song)> .
+dbr:The_Live_Anthology	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Goldfinger_(Shirley_Bassey_song)> ;
+	dbp:title	<http://dbpedia.org/resource/Goldfinger_(Shirley_Bassey_song)> .
+dbr:Sixties_Power_Ballads	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Goldfinger_(Shirley_Bassey_song)> .
+<http://dbpedia.org/resource/Twoja_twarz_brzmi_znajomo_(season_12)>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Goldfinger_(Shirley_Bassey_song)> .
+dbr:Vic_Flick	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Goldfinger_(Shirley_Bassey_song)> .
+dbr:List_of_number-one_singles_in_Australia_during_the_1960s	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Goldfinger_(Shirley_Bassey_song)> .
+dbr:Produced_by_George_Martin	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Goldfinger_(Shirley_Bassey_song)> .
+dbr:James_Bond_music	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Goldfinger_(Shirley_Bassey_song)> .
+<http://dbpedia.org/resource/007_Legends>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Goldfinger_(Shirley_Bassey_song)> .
+<http://dbpedia.org/resource/Strictly_Come_Dancing_(series_11)>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Goldfinger_(Shirley_Bassey_song)> .
+dbr:Teresa_Brewer	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Goldfinger_(Shirley_Bassey_song)> .
+dbr:Basie_Meets_Bond	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Goldfinger_(Shirley_Bassey_song)> ;
+	dbp:title	<http://dbpedia.org/resource/Goldfinger_(Shirley_Bassey_song)> .
+<http://dbpedia.org/resource/Strictly_Come_Dancing_(series_2)>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Goldfinger_(Shirley_Bassey_song)> .
+<http://dbpedia.org/resource/I_Am_What_I_Am_(Shirley_Bassey_album)>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Goldfinger_(Shirley_Bassey_song)> .
+<http://dbpedia.org/resource/AFI\u0027s_100_Years...100_Songs>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Goldfinger_(Shirley_Bassey_song)> .
+<http://dbpedia.org/resource/I\u0027ve_Got_a_Song_for_You>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Goldfinger_(Shirley_Bassey_song)> .
+<http://dbpedia.org/resource/Real_Life_(Magazine_album)>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Goldfinger_(Shirley_Bassey_song)> ;
+	dbp:title	<http://dbpedia.org/resource/Goldfinger_(Shirley_Bassey_song)> .
+dbr:Filming_of_James_Bond_in_the_1960s	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Goldfinger_(Shirley_Bassey_song)> .
+dbr:The_Cham-Cham	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Goldfinger_(Shirley_Bassey_song)> .
+dbr:List_of_awards_and_nominations_received_by_Jessica_Lange	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Goldfinger_(Shirley_Bassey_song)> .
+dbr:Licence_to_Kill	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Goldfinger_(Shirley_Bassey_song)> .
+<http://dbpedia.org/resource/On_Her_Majesty\u0027s_Secret_Service_(film)>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Goldfinger_(Shirley_Bassey_song)> .
+dbr:Dorian_Awards	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Goldfinger_(Shirley_Bassey_song)> .
+<http://dbpedia.org/resource/Goldfinger_(film)>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Goldfinger_(Shirley_Bassey_song)> .
+dbr:Maksim_Chmerkovskiy	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Goldfinger_(Shirley_Bassey_song)> .
+<http://dbpedia.org/resource/List_of_Grammy_Hall_of_Fame_Award_recipients_(E\u2013I)>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Goldfinger_(Shirley_Bassey_song)> .
+<http://dbpedia.org/resource/No_Time_to_Die_(song)>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Goldfinger_(Shirley_Bassey_song)> .
+<http://dbpedia.org/resource/Dancing_on_Ice_(series_7)>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Goldfinger_(Shirley_Bassey_song)> .
+dbr:Zombies_Paradise	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Goldfinger_(Shirley_Bassey_song)> ;
+	dbp:title	<http://dbpedia.org/resource/Goldfinger_(Shirley_Bassey_song)> .
+<http://dbpedia.org/resource/Taniec_z_Gwiazdami_(season_7)>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Goldfinger_(Shirley_Bassey_song)> .
+<http://dbpedia.org/resource/Let\u0027s_Dance_(German_season_8)>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Goldfinger_(Shirley_Bassey_song)> .
+<http://dbpedia.org/resource/Strictly_Come_Dancing_(series_12)>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Goldfinger_(Shirley_Bassey_song)> .
+<http://dbpedia.org/resource/Your_Face_Sounds_Familiar_(Greek_series_3)>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Goldfinger_(Shirley_Bassey_song)> .
+<http://dbpedia.org/resource/Here_Comes_the_Judge_(album)>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Goldfinger_(Shirley_Bassey_song)> .
+<http://dbpedia.org/resource/Goldfinger_(Tarja_song)>	dbo:wikiPageRedirects	<http://dbpedia.org/resource/Goldfinger_(Shirley_Bassey_song)> ;
+	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Goldfinger_(Shirley_Bassey_song)> .
+<http://dbpedia.org/resource/Goldfinger_(song)>	dbo:wikiPageRedirects	<http://dbpedia.org/resource/Goldfinger_(Shirley_Bassey_song)> ;
+	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Goldfinger_(Shirley_Bassey_song)> .

@@ -1,0 +1,903 @@
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+dbr:Somerset_Space_Walk	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Dormington	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Algoma_Eastern_Railway	dbo:wikiPageWikiLink	dbr:Milestone .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Listed_buildings_in_Cardiff	dbp:function	dbr:Milestone ;
+	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:South_Hylton	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Overseas_Highway	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Turda	dbo:wikiPageWikiLink	dbr:Milestone .
+<http://dbpedia.org/resource/Croydon,_Cambridgeshire>	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Canadian_Pacific_Railway_in_British_Columbia	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Graniterock	dbo:wikiPageWikiLink	dbr:Milestone .
+<http://dbpedia.org/resource/Withington,_Herefordshire>	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Kilometre_zero	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:List_of_Italian_inventions_and_discoveries	dbo:wikiPageWikiLink	dbr:Milestone .
+<http://dbpedia.org/resource/Shooter\u0027s_Hill>	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:History_of_Worthing	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Music_of_Guadeloupe	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Charing_Cross	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Traffic_light_rating_system	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:AOKP	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Nottinghamshire	dbo:wikiPageWikiLink	dbr:Milestone .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix geo:	<http://www.w3.org/2003/01/geo/wgs84_pos#> .
+dbr:Milestone	rdf:type	geo:SpatialThing .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Milestone	rdf:type	yago:WikicatRomanRoads ,
+		yago:YagoPermanentlyLocatedEntity .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Milestone	rdf:type	owl:Thing ,
+		yago:YagoGeoEntity ,
+		yago:PhysicalEntity100001930 ,
+		yago:Object100002684 ,
+		yago:Whole100003553 ,
+		yago:Artifact100021939 ,
+		dbo:Company ,
+		yago:Road104096066 ,
+		yago:Way104564698 .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Milestone	rdfs:label	"Meilenstein"@de ,
+		"\u91CC\u7A0B\u7891"@zh ,
+		"\u0639\u0644\u0627\u0645\u0629 \u0627\u0644\u0645\u0633\u0627\u0641\u0627\u062A"@ar ,
+		"Pal"@in ,
+		"\uC774\uC815\uD45C"@ko ,
+		"\u041A\u0430\u043C\u0456\u043D\u044C \u0432\u0456\u0434\u043B\u0456\u043A\u0443 \u043C\u0438\u043B\u044C"@uk ,
+		"Borne routi\u00E8re"@fr ,
+		"Milsten"@sv ,
+		"Milestone"@en ,
+		"\u30DE\u30A4\u30EB\u30B9\u30C8\u30FC\u30F3"@ja ,
+		"Fita"@ca ,
+		"Mijlpaal"@nl ;
+	rdfs:comment	"Pal atau tonggak penanda jarak (bahasa Inggris: milestone) adalah rangkaian tonggak yang dipasang di median atau pinggir jalan maupun rel kereta api untuk menunjukkan seberapa jauh suatu ruas jalan/rel telah ditempuh. Pal umumnya berbentuk batu yang dilengkapi penanda angka jarak tempuh beserta penanda nama daerah yang diukur. Pal dipasang antara satu tonggak dengan tonggak yang lain berdasarkan ukuran panjang jalan yang dipakai, misalnya dalam kilometer atau mil."@in ,
+		"\u0639\u0644\u0627\u0645\u0629 \u0627\u0644\u0645\u0633\u0627\u0641\u0627\u062A \u0623\u0648 \u0627\u0644\u0635\u064F\u0651\u0648\u064E\u0651\u0629 \u062A\u0648\u0636\u0639 \u0639\u0627\u062F\u0629 \u0639\u0644\u0649 \u062C\u0627\u0646\u0628 \u0627\u0644\u0637\u0631\u064A\u0642 \u0644\u0625\u0639\u0644\u0627\u0645 \u0627\u0644\u0645\u0633\u0627\u0641\u0631 \u0628\u0639\u062F\u062F \u0627\u0644\u0643\u064A\u0644\u0648\u0645\u062A\u0631\u0627\u062A \u0623\u0648 \u0627\u0644\u0623\u0645\u064A\u0627\u0644 \u0627\u0644\u0645\u062A\u0628\u0642\u064A\u0629 \u0644\u0628\u0644\u0648\u063A \u0627\u0644\u0645\u062F\u064A\u0646\u0629 \u0627\u0644\u0645\u0642\u0635\u0648\u062F\u0629.\u062A\u0643\u0648\u0646 \u0639\u0627\u062F\u0629 \u0641\u064A \u062C\u0627\u0646\u0628 \u0627\u0644\u0637\u0631\u064A\u0642 \u0639\u0644\u0649 \u0641\u062A\u0631\u0627\u062A \u0645\u0646 \u0645\u064A\u0644 \u0648\u0627\u062D\u062F \u0623\u0648 \u0643\u064A\u0644\u0648\u0645\u062A\u0631 \u0648\u0627\u062D\u062F. \u062A\u0633\u062A\u062E\u062F\u0645 \u0639\u0644\u0627\u0645\u0629 \u0627\u0644\u0645\u0633\u0627\u0641\u0627\u062A \u0644\u0637\u0645\u0623\u0646\u0629 \u0627\u0644\u0645\u0633\u0627\u0641\u0631\u064A\u0646 \u0628\u0623\u0646\u0647\u0645 \u064A\u062A\u0628\u0639\u0648\u0646 \u0627\u0644\u0645\u0633\u0627\u0631 \u0627\u0644\u0635\u062D\u064A\u062D \u0648 \u0644\u0625\u0639\u0644\u0627\u0645\u0647\u0645 \u0628\u0627\u0644\u0645\u0633\u0627\u0641\u0629 \u0627\u0644\u0645\u0642\u0637\u0648\u0639\u0629 \u0623\u0648 \u0627\u0644\u0645\u0633\u0627\u0641\u0629 \u0627\u0644\u0645\u062A\u0628\u0642\u064A\u0629 \u0625\u0644\u0649 \u0627\u0644\u0648\u062C\u0647\u0629. \u0648\u062A\u0633\u062A\u062E\u062F\u0645 \u0647\u0630\u0647 \u0627\u0644\u0625\u0634\u0627\u0631\u0627\u062A \u0623\u064A\u0636\u0627 \u0645\u0646 \u0642\u0628\u0644 \u0645\u0647\u0646\u062F\u0633\u064A \u0627\u0644\u0635\u064A\u0627\u0646\u0629 \u0648 \u062E\u062F\u0645\u0627\u062A \u0627\u0644\u0637\u0648\u0627\u0631\u0626 \u0644\u062A\u0648\u062C\u064A\u0647\u0647\u0645 \u0625\u0644\u0649 \u0646\u0642\u0627\u0637 \u0645\u062D\u062F\u062F\u0629. \u0648\u064A\u0633\u062A\u062E\u062F\u0645 \u0647\u0630\u0627 \u0627\u0644\u0645\u0635\u0637\u0644\u062D \u0623\u062D\u064A\u0627\u0646\u0627 \u0644\u0644\u062F\u0644\u0627\u0644\u0629 \u0639\u0644\u0649 \u0645\u0648\u0642\u0639 \u0639\u0644\u0649 \u0627\u0644\u0637\u0631\u064A\u0642 \u062D\u062A\u0649 \u0625\u0630\u0627 \u0644\u0645 \u064A\u0643\u0646 \u0647\u0646\u0627\u0643 \u0639\u0644\u0627\u0645\u0629 \u0645\u062C\u0633\u062F\u0629 \u0641\u0639\u0644\u064A\u0627. \u0648\u0647\u0630\u0627 \u0645\u0641\u064A\u062F \u0644\u0644\u0625\u0628\u0644\u0627\u063A \u0639\u0646 \u0627\u0644\u062D\u0627\u062F\u062B \u0648\u063A\u064A\u0631\u0647 \u0645\u0646 \u062D\u0641\u0638 \u0627\u0644\u0633\u062C\u0644\u0627\u062A."@ar ,
+		"Una fita, fita de terme, pedra de fita o moll\u00F3 \u00E9s una marca sobre el terra que serveix per a delimitar un terme o finca o b\u00E9 per a marcar el recorregut d'una via, cam\u00ED o carretera. Solen ser fets de pedra, tot i que modernament s\u00F3n fetes de metalls, ciment o altres materials resistents a les inclem\u00E8ncies del temps. Molt sovint duen inscripcions que indiquen la dist\u00E0ncia a l'origen del terme. \u00C9s probable que derivin dels mil\u00B7liaris que els romans col\u00B7locaven a les seves vies. El terme fita ha estat incorporat a diversos top\u00F2nims de la pen\u00EDnsula Ib\u00E8rica, com ara Perafita (al Llu\u00E7an\u00E8s), al Puig de les Tres Fites (Montu\u00EFri, Mallorca) o Pedrafita do Cebreiro (municipi de la prov\u00EDncia de Lugo, Gal\u00EDcia) entre molts altres."@ca ,
+		"En milstolpe eller milsten \u00E4r en f\u00F6reg\u00E5ngare till v\u00E4gm\u00E4rken. Ordet milstolpe anv\u00E4nds idag ofta i \u00F6verf\u00F6rd bem\u00E4rkelse om ett etappm\u00E5l i ett st\u00F6rre projekt, eller en viktig h\u00E4ndelse under till exempel ett krig. Milstenarna har i sin f\u00F6reg\u00E5ngare i miliaria; stencylindrar som var uppsatta l\u00E4ngs romarrikets huvudv\u00E4gar och angav avst\u00E5ndet till Rom eller n\u00E4rmsta centralort."@sv ,
+		"\u041A\u0430\u043C\u0456\u043D\u044C \u0432\u0456\u0434\u043B\u0456\u043A\u0443 \u043C\u0438\u043B\u044C, \u043C\u0438\u043B\u044C\u043E\u0432\u0438\u0439 \u043A\u0430\u043C\u0456\u043D\u044C, \u043C\u0438\u043B\u044C\u043E\u0432\u0438\u0439 \u0441\u0442\u043E\u0432\u043F (\u043B\u0430\u0442. miliarium) \u2014 \u043D\u0435\u0432\u0435\u043B\u0438\u043A\u0430 \u043A\u0430\u043C'\u044F\u043D\u0430 \u043A\u043E\u043B\u043E\u043D\u0430 \u0432\u0438\u0441\u043E\u0442\u043E\u044E 1,50 \u043C, 50 \u0441\u043C \u0432 \u0434\u0456\u0430\u043C\u0435\u0442\u0440\u0456, \u0440\u043E\u0437\u043C\u0456\u0449\u0435\u043D\u0430 \u043D\u0430 \u0443\u0437\u0431\u0456\u0447\u0447\u0456 \u0434\u043E\u0440\u043E\u0433\u0438, \u043D\u0430 \u044F\u043A\u0456\u0439 \u0431\u0443\u043B\u043E \u0432\u043A\u0430\u0437\u0430\u043D\u043E \u043A\u0456\u043B\u044C\u043A\u0456\u0441\u0442\u044C \u043C\u0438\u043B\u044C \u0434\u0430\u0432\u043D\u044C\u043E\u0440\u0438\u043C\u0441\u044C\u043A\u0438\u0445 \u0434\u043E\u0440\u0456\u0433 \u0442\u0430 \u0432\u0456\u0434\u0441\u0442\u0430\u043D\u044C \u0434\u043E \u043F\u0435\u0432\u043D\u0438\u0445 \u043F\u0443\u043D\u043A\u0442\u0456\u0432 \u043F\u0440\u0438\u0437\u043D\u0430\u0447\u0435\u043D\u043D\u044F."@uk ,
+		"\uC774\uC815\uD45C(\u91CC\u7A0B\u6A19, Milestone)\uB294 \uB3C4\uB85C\uC5D0\uC11C \uAC01 \uBC29\uD5A5\uC774 \uC5B4\uB290 \uCABD\uC744 \uAC00\uB9AC\uD0A4\uACE0 \uC788\uB294\uC9C0\uB97C \uB098\uD0C0\uB0B4\uB294 \uD45C\uC9C0\uC774\uB2E4."@ko ,
+		"Ein Meilenstein, auch Postmeilens\u00E4ule (auch Halbmeilenstein bzw. Posthalbmeilens\u00E4ule), ist ein in regelm\u00E4\u00DFigen Abst\u00E4nden an Stra\u00DFen errichteter Entfernungsanzeiger. Meilensteine geh\u00F6ren wie Wegkreuze oder Bildst\u00F6cke zu den Kleindenkm\u00E4lern und unter diesen zu den Distanzsteinen."@de ,
+		"Een mijlpaal is een paal die de afstand in mijlen aangeeft, tot een bepaalde stadspoort of tot de volgende mijlpaal. Voordat er mechanische kilometertellers bestonden, werden deze palen langs interlokale wegen geplaatst om reizigers te informeren over hun positie. Landmeten was echter geen exacte wetenschap. De nauwkeurigheid liet door slordigheid of om politieke redenen weleens te wensen over. Want niet alleen vermeldt een mijlpaal de namen van plaatsen in de buurt, er blijkt ook uit (al dan niet omdat het er met zoveel woorden op staat) wie het voor het zeggen heeft in het gebied."@nl ,
+		"Une borne routi\u00E8re est un \u00E9l\u00E9ment signal\u00E9tique plac\u00E9 r\u00E9guli\u00E8rement en bordure de route et destin\u00E9 \u00E0 identifier la route concern\u00E9e et \u00E0 y indiquer les distances, le plus souvent vers les localit\u00E9s voisines. Les premi\u00E8res bornes routi\u00E8res que l'on connaisse sont les bornes milliaires qui jalonnaient les voies romaines. Au Royaume-Uni, certaines bornes routi\u00E8res sont class\u00E9es monument historique."@fr ,
+		"\u91CC\u7A0B\u7891\uFF0C\u4E00\u822C\u662F\u6307\u5EFA\u7ACB\u5728\u9053\u8DEF\u65C1\u8FB9\u523B\u6709\u6570\u5B57\u7684\u56FA\u5B9A\u6807\u5FD7\uFF0C\u901A\u5E38\u6BCF\u9694\u4E00\u6BB5\u8DEF\u4FBF\u8BBE\u7ACB\u4E00\u4E2A\uFF0C\u4EE5\u5C55\u793A\u5176\u4F4D\u7F6E\u53CA\u4E0E\u7279\u5B9A\u7684\u8DDD\u79BB\u3002\u6614\u65E5\u91CC\u7A0B\u7891\u662F\u4E00\u5757\u77F3\u7891\uFF0C\u73B0\u5728\u5927\u591A\u6539\u7528\u91D1\u5C5E\u677F\u3002\u9A6C\u8DEF\u3001\u5C71\u8DEF\u3001\u94C1\u8DEF\u5747\u53EF\u80FD\u4F1A\u8BBE\u6709\u91CC\u7A0B\u7891\u3002\u91CC\u7A0B\u7891\u4E0A\u7684\u6578\u5B57\u8868\u793A\u8A72\u8655\u8DDD\u96E2\u8D77\u9EDE\u6216\u6709\u591A\u9060\u3002\u73B0\u4EE3\u9879\u76EE\u7BA1\u7406\u4E2D\u5F15\u7528\u91CC\u7A0B\u7891\u6982\u5FF5\uFF0C\u4EE5\u9636\u6BB5\u6027\u660E\u786E\u7684\u53EF\u4EA4\u4ED8\u7269\u6765\u8861\u91CF\u9879\u76EE\u8FDB\u5EA6\u3002\u91CC\u7A0B\u7891\u7684\u53E6\u4E00\u79CD\uFF0C\u662F\u6307\u67D0\u79CD\u91CD\u5927\u4E8B\u4EF6\uFF0C\u6216\u767C\u751F\u67D0\u7A2E\u7684\u5178\u578B\u4E8B\u4EF6\uFF0C\u6216\u5177\u6709\u6027\u610F\u7FA9\u7684\u91CD\u5927\u4E8B\u4EF6\uFF0C\u6216\u5177\u6709\u91CD\u5927\u5B78\u8853\u7406\u8AD6\u610F\u7FA9\u7684\u4E8B\u4EF6\u7B49\u3002"@zh ,
+		"\u30DE\u30A4\u30EB\u30B9\u30C8\u30FC\u30F3\uFF08Milestone\uFF09\u306F\u3001\u9244\u9053\u3084\u9053\u8DEF\u7B49\u306E\u8D77\u70B9\u3088\u308A\u306E\u8DDD\u96E2\u3092\u30DE\u30A4\u30EB\u3067\u8868\u3057\u305F\u8DDD\u96E2\u6A19\u8B58\u3002\u30DE\u30A4\u30EB\u30DE\u30FC\u30AB\u30FC\uFF08Milemarker\uFF09\u3001\u30DE\u30A4\u30EB\u30DD\u30B9\u30C8\uFF08Milepost\uFF09\u3068\u3082\u3044\u3046\u3002 \u30ED\u30FC\u30DE\u5E1D\u56FD\u304C\u524D120\u5E74\u9803\u306E\u9053\u8DEF\u95A2\u9023\u6CD5\u300C\u300D\u306B\u57FA\u304D\u3001\u4E3B\u8981\u306A\u8857\u9053\u306B1\u30ED\u30FC\u30DE\u30FB\u30DE\u30A4\u30EB\uFF081000\u6B69\uFF09\u3054\u3068\u306B\u8A2D\u7F6E\u3057\u305F\u306E\u304C\u59CB\u307E\u308A\u3068\u3055\u308C\u3001\u30A2\u30C3\u30D4\u30A2\u8857\u9053\u306B\u306F\u305D\u308C\u304C\u73FE\u5728\u3067\u3082\u6B8B\u3063\u3066\u3044\u308B\u3002 \u30A2\u30E1\u30EA\u30AB\u5408\u8846\u56FD\u306B\u304A\u3044\u3066\u306F\u30DE\u30A4\u30EB\u3092\u6A19\u6E96\u7684\u306B\u4F7F\u7528\u3057\u3066\u3044\u308B\u3053\u3068\u304B\u3089\u3001\u30AD\u30ED\u30DD\u30B9\u30C8\u3068\u540C\u69D8\u306B\u7F6E\u304B\u308C\u308B\u304C\u3001\u30E8\u30FC\u30ED\u30C3\u30D1\u306B\u304A\u3044\u3066\u306F\u3001\u30AD\u30ED\u30E1\u30FC\u30C8\u30EB\u3092\u6A19\u6E96\u3068\u3059\u308B\u56FD\u3005\u304C\u591A\u3044\u3053\u3068\u304B\u3089\u30AD\u30ED\u30DD\u30B9\u30C8\u306E\u4E8B\u3092\u305D\u3046\u547C\u3076\u5834\u5408\u304C\u591A\u3044\u3002 \u307E\u305F\u3001\u3042\u308B\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8\u3084\u4E16\u754C\u7684\u306A\u30A4\u30D9\u30F3\u30C8\u306A\u3069\u304C\u5B8C\u6210\u30FB\u6210\u529F\u3057\u305F\u5834\u5408\u306B\u6BD4\u55A9\u7684\u306B\u8A00\u8449\u3068\u3057\u3066\u4F7F\u7528\u3059\u308B\u5834\u5408\u304C\u3042\u308B\u3002\u307E\u305F\u3001\u30E2\u30CB\u30E5\u30E1\u30F3\u30C8\u3068\u3057\u3066\u6B8B\u3059\u5834\u5408\u3082\u3042\u308B\u3002 \u65E5\u672C\u306B\u306F\u540C\u69D8\u306E\u3082\u306E\u3068\u3057\u3066\u4E00\u91CC\u585A\u304C\u3042\u308A\u3001\u65E7\u8857\u9053\u3067\u4E00\u91CC(\u7D044km)\u3054\u3068\u306B\u898B\u308B\u3053\u3068\u304C\u3067\u304D\u308B\u3002"@ja ,
+		"A milestone is one of a series of numbered markers placed along a road, railway, canal or boundary at intervals of one mile or occasionally, parts of a mile. They are typically located at the side of the road or in a median or central reservation. They are alternatively known as mile markers, mileposts or mile posts (sometimes abbreviated MPs). Mileage is the distance along the road from a fixed commencement point. Commonly the term \"milestone\" may also refer to markers placed at other distances, such as every kilometre."@en ;
+	rdfs:seeAlso	dbr:California_postmile .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Milestone	geo:lat	"-35.7014007568359375"^^xsd:float ;
+	geo:long	"150.1815032958984375"^^xsd:float .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+dbr:Milestone	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/AUT_0345.JPG> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+dbr:Milestone	foaf:isPrimaryTopicOf	wikipedia-en:Milestone .
+@prefix virtrdf:	<http://www.openlinksw.com/schemas/virtrdf#> .
+dbr:Milestone	geo:geometry	"POINT(150.1815032959 -35.701400756836)"^^virtrdf:Geometry .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Milestone	dct:subject	dbc:Street_furniture ,
+		dbc:Surveying ,
+		dbc:Monument_types ;
+	owl:sameAs	<http://rdf.freebase.com/ns/m.01p_55> ,
+		<http://ja.dbpedia.org/resource/\u30DE\u30A4\u30EB\u30B9\u30C8\u30FC\u30F3> .
+@prefix dbpedia-ms:	<http://ms.dbpedia.org/resource/> .
+dbr:Milestone	owl:sameAs	dbpedia-ms:Batu_Penanda .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Milestone	owl:sameAs	dbpedia-de:Meilenstein ,
+		<http://tr.dbpedia.org/resource/Mil_ta\u015F\u0131> .
+@prefix dbpedia-nn:	<http://nn.dbpedia.org/resource/> .
+dbr:Milestone	owl:sameAs	dbpedia-nn:Milestolpe ,
+		<http://ar.dbpedia.org/resource/\u0639\u0644\u0627\u0645\u0629_\u0627\u0644\u0645\u0633\u0627\u0641\u0627\u062A> ,
+		<http://hi.dbpedia.org/resource/\u0938\u0902\u0917\u092E\u0940\u0932> ,
+		<http://uk.dbpedia.org/resource/\u041A\u0430\u043C\u0456\u043D\u044C_\u0432\u0456\u0434\u043B\u0456\u043A\u0443_\u043C\u0438\u043B\u044C> ,
+		<http://ta.dbpedia.org/resource/\u0BA4\u0BCA\u0BB2\u0BC8\u0BB5\u0BC1\u0B95\u0BCD_\u0B95\u0BB2\u0BCD> ,
+		<https://global.dbpedia.org/id/6oo4> ,
+		<http://fa.dbpedia.org/resource/\u0641\u0631\u0633\u0646\u06AF\u200C\u0634\u0645\u0627\u0631> .
+@prefix ns17:	<http://d-nb.info/gnd/4038439-1/about/> .
+dbr:Milestone	owl:sameAs	ns17:rdf ,
+		<http://ro.dbpedia.org/resource/Born\u0103_rutier\u0103> ,
+		<http://da.dbpedia.org/resource/Milep\u00E6l> ,
+		<http://he.dbpedia.org/resource/\u05D0\u05D1\u05DF_\u05DE\u05D9\u05DC> ,
+		<http://zh.dbpedia.org/resource/\u91CC\u7A0B\u7891> ,
+		dbr:Milestone .
+@prefix dbpedia-als:	<http://als.dbpedia.org/resource/> .
+dbr:Milestone	owl:sameAs	dbpedia-als:Meilenstein ,
+		<http://th.dbpedia.org/resource/\u0E2B\u0E25\u0E31\u0E01\u0E01\u0E34\u0E42\u0E25\u0E40\u0E21\u0E15\u0E23> .
+@prefix dbpedia-ca:	<http://ca.dbpedia.org/resource/> .
+dbr:Milestone	owl:sameAs	dbpedia-ca:Fita ,
+		<http://kn.dbpedia.org/resource/\u0CAE\u0CC8\u0CB2\u0CBF\u0C97\u0CB2\u0CCD\u0CB2\u0CC1> .
+@prefix dbpedia-id:	<http://id.dbpedia.org/resource/> .
+dbr:Milestone	owl:sameAs	dbpedia-id:Pal ,
+		<http://mk.dbpedia.org/resource/\u041C\u0438\u043B\u0458\u043E\u043A\u0430\u0437> .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Milestone	owl:sameAs	wikidata:Q10145 .
+@prefix dbpedia-sv:	<http://sv.dbpedia.org/resource/> .
+dbr:Milestone	owl:sameAs	dbpedia-sv:Milsten ,
+		<http://ml.dbpedia.org/resource/\u0D2E\u0D48\u0D7D\u0D15\u0D41\u0D31\u0D4D\u0D31\u0D3F> ,
+		<http://fr.dbpedia.org/resource/Borne_routi\u00E8re> ,
+		<http://bg.dbpedia.org/resource/\u041A\u0438\u043B\u043E\u043C\u0435\u0442\u0440\u0438\u0447\u0435\u043D_\u043A\u0430\u043C\u044A\u043A> ,
+		<http://fi.dbpedia.org/resource/Kilometripylv\u00E4s> ,
+		<http://ko.dbpedia.org/resource/\uC774\uC815\uD45C> ,
+		<http://pa.dbpedia.org/resource/\u0A2E\u0A40\u0A32_\u0A2A\u0A71\u0A25\u0A30> ,
+		<http://d-nb.info/gnd/4038439-1> .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Milestone	owl:sameAs	dbpedia-nl:Mijlpaal ,
+		<http://no.dbpedia.org/resource/Milep\u00E6l> .
+@prefix georss:	<http://www.georss.org/georss/> .
+dbr:Milestone	georss:point	"-35.7014 150.1815" ;
+	dbo:abstract	"En milstolpe eller milsten \u00E4r en f\u00F6reg\u00E5ngare till v\u00E4gm\u00E4rken. Ordet milstolpe anv\u00E4nds idag ofta i \u00F6verf\u00F6rd bem\u00E4rkelse om ett etappm\u00E5l i ett st\u00F6rre projekt, eller en viktig h\u00E4ndelse under till exempel ett krig. Milstenarna har i sin f\u00F6reg\u00E5ngare i miliaria; stencylindrar som var uppsatta l\u00E4ngs romarrikets huvudv\u00E4gar och angav avst\u00E5ndet till Rom eller n\u00E4rmsta centralort."@sv ,
+		"Ein Meilenstein, auch Postmeilens\u00E4ule (auch Halbmeilenstein bzw. Posthalbmeilens\u00E4ule), ist ein in regelm\u00E4\u00DFigen Abst\u00E4nden an Stra\u00DFen errichteter Entfernungsanzeiger. Meilensteine geh\u00F6ren wie Wegkreuze oder Bildst\u00F6cke zu den Kleindenkm\u00E4lern und unter diesen zu den Distanzsteinen."@de ,
+		"A milestone is one of a series of numbered markers placed along a road, railway, canal or boundary at intervals of one mile or occasionally, parts of a mile. They are typically located at the side of the road or in a median or central reservation. They are alternatively known as mile markers, mileposts or mile posts (sometimes abbreviated MPs). Mileage is the distance along the road from a fixed commencement point. Commonly the term \"milestone\" may also refer to markers placed at other distances, such as every kilometre. Milestones are installed to provide reference points along the road. This can be used to reassure travellers that the proper path is being followed, and to indicate either distance travelled or the remaining distance to a destination. Such references are also used by maintenance engineers and emergency services to direct them to specific points where their presence is required. This term is sometimes used to denote a location on a road even if no physical sign is present. This is useful for accident reporting and other record keeping (e.g., \"an accident occurred at the 13 mile mark\" even if the road is only marked with a stone once every 10 miles)."@en ,
+		"\uC774\uC815\uD45C(\u91CC\u7A0B\u6A19, Milestone)\uB294 \uB3C4\uB85C\uC5D0\uC11C \uAC01 \uBC29\uD5A5\uC774 \uC5B4\uB290 \uCABD\uC744 \uAC00\uB9AC\uD0A4\uACE0 \uC788\uB294\uC9C0\uB97C \uB098\uD0C0\uB0B4\uB294 \uD45C\uC9C0\uC774\uB2E4."@ko ,
+		"\u041A\u0430\u043C\u0456\u043D\u044C \u0432\u0456\u0434\u043B\u0456\u043A\u0443 \u043C\u0438\u043B\u044C, \u043C\u0438\u043B\u044C\u043E\u0432\u0438\u0439 \u043A\u0430\u043C\u0456\u043D\u044C, \u043C\u0438\u043B\u044C\u043E\u0432\u0438\u0439 \u0441\u0442\u043E\u0432\u043F (\u043B\u0430\u0442. miliarium) \u2014 \u043D\u0435\u0432\u0435\u043B\u0438\u043A\u0430 \u043A\u0430\u043C'\u044F\u043D\u0430 \u043A\u043E\u043B\u043E\u043D\u0430 \u0432\u0438\u0441\u043E\u0442\u043E\u044E 1,50 \u043C, 50 \u0441\u043C \u0432 \u0434\u0456\u0430\u043C\u0435\u0442\u0440\u0456, \u0440\u043E\u0437\u043C\u0456\u0449\u0435\u043D\u0430 \u043D\u0430 \u0443\u0437\u0431\u0456\u0447\u0447\u0456 \u0434\u043E\u0440\u043E\u0433\u0438, \u043D\u0430 \u044F\u043A\u0456\u0439 \u0431\u0443\u043B\u043E \u0432\u043A\u0430\u0437\u0430\u043D\u043E \u043A\u0456\u043B\u044C\u043A\u0456\u0441\u0442\u044C \u043C\u0438\u043B\u044C \u0434\u0430\u0432\u043D\u044C\u043E\u0440\u0438\u043C\u0441\u044C\u043A\u0438\u0445 \u0434\u043E\u0440\u0456\u0433 \u0442\u0430 \u0432\u0456\u0434\u0441\u0442\u0430\u043D\u044C \u0434\u043E \u043F\u0435\u0432\u043D\u0438\u0445 \u043F\u0443\u043D\u043A\u0442\u0456\u0432 \u043F\u0440\u0438\u0437\u043D\u0430\u0447\u0435\u043D\u043D\u044F."@uk ,
+		"Pal atau tonggak penanda jarak (bahasa Inggris: milestone) adalah rangkaian tonggak yang dipasang di median atau pinggir jalan maupun rel kereta api untuk menunjukkan seberapa jauh suatu ruas jalan/rel telah ditempuh. Pal umumnya berbentuk batu yang dilengkapi penanda angka jarak tempuh beserta penanda nama daerah yang diukur. Pal dipasang antara satu tonggak dengan tonggak yang lain berdasarkan ukuran panjang jalan yang dipakai, misalnya dalam kilometer atau mil. Pal dipasang untuk menyediakan titik referensi di sepanjang jalan. Ini dapat digunakan untuk meyakinkan pengguna jalan bahwa jalur yang tepat digunakan oleh pengguna sedang diikuti, dan untuk menunjukkan jarak yang ditempuh atau jarak yang tersisa ke tujuan. Referensi semacam itu juga digunakan oleh para insinyur pemeliharaan dan pelayanan darurat untuk mengarahkan mereka ke titik-titik tertentu di mana kehadiran mereka diperlukan. Istilah ini terkadang digunakan untuk menunjukkan lokasi di jalan, termasuk jika tidak ada tanda fisik untuk menentukan lokasi tersebut. Hal tersebut berguna untuk pelaporan kecelakaan dan pencatatan lain (misalnya, \"Kecelakaan terjadi pada jarak 13 mil\" bahkan jika jalan hanya ditandai dengan batu sekali setiap 10 mil)."@in ,
+		"\u0639\u0644\u0627\u0645\u0629 \u0627\u0644\u0645\u0633\u0627\u0641\u0627\u062A \u0623\u0648 \u0627\u0644\u0635\u064F\u0651\u0648\u064E\u0651\u0629 \u062A\u0648\u0636\u0639 \u0639\u0627\u062F\u0629 \u0639\u0644\u0649 \u062C\u0627\u0646\u0628 \u0627\u0644\u0637\u0631\u064A\u0642 \u0644\u0625\u0639\u0644\u0627\u0645 \u0627\u0644\u0645\u0633\u0627\u0641\u0631 \u0628\u0639\u062F\u062F \u0627\u0644\u0643\u064A\u0644\u0648\u0645\u062A\u0631\u0627\u062A \u0623\u0648 \u0627\u0644\u0623\u0645\u064A\u0627\u0644 \u0627\u0644\u0645\u062A\u0628\u0642\u064A\u0629 \u0644\u0628\u0644\u0648\u063A \u0627\u0644\u0645\u062F\u064A\u0646\u0629 \u0627\u0644\u0645\u0642\u0635\u0648\u062F\u0629.\u062A\u0643\u0648\u0646 \u0639\u0627\u062F\u0629 \u0641\u064A \u062C\u0627\u0646\u0628 \u0627\u0644\u0637\u0631\u064A\u0642 \u0639\u0644\u0649 \u0641\u062A\u0631\u0627\u062A \u0645\u0646 \u0645\u064A\u0644 \u0648\u0627\u062D\u062F \u0623\u0648 \u0643\u064A\u0644\u0648\u0645\u062A\u0631 \u0648\u0627\u062D\u062F. \u062A\u0633\u062A\u062E\u062F\u0645 \u0639\u0644\u0627\u0645\u0629 \u0627\u0644\u0645\u0633\u0627\u0641\u0627\u062A \u0644\u0637\u0645\u0623\u0646\u0629 \u0627\u0644\u0645\u0633\u0627\u0641\u0631\u064A\u0646 \u0628\u0623\u0646\u0647\u0645 \u064A\u062A\u0628\u0639\u0648\u0646 \u0627\u0644\u0645\u0633\u0627\u0631 \u0627\u0644\u0635\u062D\u064A\u062D \u0648 \u0644\u0625\u0639\u0644\u0627\u0645\u0647\u0645 \u0628\u0627\u0644\u0645\u0633\u0627\u0641\u0629 \u0627\u0644\u0645\u0642\u0637\u0648\u0639\u0629 \u0623\u0648 \u0627\u0644\u0645\u0633\u0627\u0641\u0629 \u0627\u0644\u0645\u062A\u0628\u0642\u064A\u0629 \u0625\u0644\u0649 \u0627\u0644\u0648\u062C\u0647\u0629. \u0648\u062A\u0633\u062A\u062E\u062F\u0645 \u0647\u0630\u0647 \u0627\u0644\u0625\u0634\u0627\u0631\u0627\u062A \u0623\u064A\u0636\u0627 \u0645\u0646 \u0642\u0628\u0644 \u0645\u0647\u0646\u062F\u0633\u064A \u0627\u0644\u0635\u064A\u0627\u0646\u0629 \u0648 \u062E\u062F\u0645\u0627\u062A \u0627\u0644\u0637\u0648\u0627\u0631\u0626 \u0644\u062A\u0648\u062C\u064A\u0647\u0647\u0645 \u0625\u0644\u0649 \u0646\u0642\u0627\u0637 \u0645\u062D\u062F\u062F\u0629. \u0648\u064A\u0633\u062A\u062E\u062F\u0645 \u0647\u0630\u0627 \u0627\u0644\u0645\u0635\u0637\u0644\u062D \u0623\u062D\u064A\u0627\u0646\u0627 \u0644\u0644\u062F\u0644\u0627\u0644\u0629 \u0639\u0644\u0649 \u0645\u0648\u0642\u0639 \u0639\u0644\u0649 \u0627\u0644\u0637\u0631\u064A\u0642 \u062D\u062A\u0649 \u0625\u0630\u0627 \u0644\u0645 \u064A\u0643\u0646 \u0647\u0646\u0627\u0643 \u0639\u0644\u0627\u0645\u0629 \u0645\u062C\u0633\u062F\u0629 \u0641\u0639\u0644\u064A\u0627. \u0648\u0647\u0630\u0627 \u0645\u0641\u064A\u062F \u0644\u0644\u0625\u0628\u0644\u0627\u063A \u0639\u0646 \u0627\u0644\u062D\u0627\u062F\u062B \u0648\u063A\u064A\u0631\u0647 \u0645\u0646 \u062D\u0641\u0638 \u0627\u0644\u0633\u062C\u0644\u0627\u062A."@ar ,
+		"Una fita, fita de terme, pedra de fita o moll\u00F3 \u00E9s una marca sobre el terra que serveix per a delimitar un terme o finca o b\u00E9 per a marcar el recorregut d'una via, cam\u00ED o carretera. Solen ser fets de pedra, tot i que modernament s\u00F3n fetes de metalls, ciment o altres materials resistents a les inclem\u00E8ncies del temps. Molt sovint duen inscripcions que indiquen la dist\u00E0ncia a l'origen del terme. \u00C9s probable que derivin dels mil\u00B7liaris que els romans col\u00B7locaven a les seves vies. El terme fita ha estat incorporat a diversos top\u00F2nims de la pen\u00EDnsula Ib\u00E8rica, com ara Perafita (al Llu\u00E7an\u00E8s), al Puig de les Tres Fites (Montu\u00EFri, Mallorca) o Pedrafita do Cebreiro (municipi de la prov\u00EDncia de Lugo, Gal\u00EDcia) entre molts altres."@ca ,
+		"Une borne routi\u00E8re est un \u00E9l\u00E9ment signal\u00E9tique plac\u00E9 r\u00E9guli\u00E8rement en bordure de route et destin\u00E9 \u00E0 identifier la route concern\u00E9e et \u00E0 y indiquer les distances, le plus souvent vers les localit\u00E9s voisines. Les premi\u00E8res bornes routi\u00E8res que l'on connaisse sont les bornes milliaires qui jalonnaient les voies romaines. En France, les bornes routi\u00E8res \u00E9quipent les anciens r\u00E9seaux nationaux, les r\u00E9seaux d\u00E9partementaux et autoroutiers. Elles sont entr\u00E9es dans le langage familier comme synonyme de kilom\u00E8tre parcouru, parfois \u00E0 tort, car elles ne tiennent pas toujours compte des derniers am\u00E9nagements et trac\u00E9s routiers et n'indiquent pas n\u00E9cessairement des distances kilom\u00E9triques exactes. Au fil des ann\u00E9es, elles deviennent des points de localisation plus que des points kilom\u00E9triques exacts. Au Royaume-Uni, certaines bornes routi\u00E8res sont class\u00E9es monument historique."@fr ,
+		"Een mijlpaal is een paal die de afstand in mijlen aangeeft, tot een bepaalde stadspoort of tot de volgende mijlpaal. Voordat er mechanische kilometertellers bestonden, werden deze palen langs interlokale wegen geplaatst om reizigers te informeren over hun positie. Landmeten was echter geen exacte wetenschap. De nauwkeurigheid liet door slordigheid of om politieke redenen weleens te wensen over. Want niet alleen vermeldt een mijlpaal de namen van plaatsen in de buurt, er blijkt ook uit (al dan niet omdat het er met zoveel woorden op staat) wie het voor het zeggen heeft in het gebied."@nl ,
+		"\u91CC\u7A0B\u7891\uFF0C\u4E00\u822C\u662F\u6307\u5EFA\u7ACB\u5728\u9053\u8DEF\u65C1\u8FB9\u523B\u6709\u6570\u5B57\u7684\u56FA\u5B9A\u6807\u5FD7\uFF0C\u901A\u5E38\u6BCF\u9694\u4E00\u6BB5\u8DEF\u4FBF\u8BBE\u7ACB\u4E00\u4E2A\uFF0C\u4EE5\u5C55\u793A\u5176\u4F4D\u7F6E\u53CA\u4E0E\u7279\u5B9A\u7684\u8DDD\u79BB\u3002\u6614\u65E5\u91CC\u7A0B\u7891\u662F\u4E00\u5757\u77F3\u7891\uFF0C\u73B0\u5728\u5927\u591A\u6539\u7528\u91D1\u5C5E\u677F\u3002\u9A6C\u8DEF\u3001\u5C71\u8DEF\u3001\u94C1\u8DEF\u5747\u53EF\u80FD\u4F1A\u8BBE\u6709\u91CC\u7A0B\u7891\u3002\u91CC\u7A0B\u7891\u4E0A\u7684\u6578\u5B57\u8868\u793A\u8A72\u8655\u8DDD\u96E2\u8D77\u9EDE\u6216\u6709\u591A\u9060\u3002\u73B0\u4EE3\u9879\u76EE\u7BA1\u7406\u4E2D\u5F15\u7528\u91CC\u7A0B\u7891\u6982\u5FF5\uFF0C\u4EE5\u9636\u6BB5\u6027\u660E\u786E\u7684\u53EF\u4EA4\u4ED8\u7269\u6765\u8861\u91CF\u9879\u76EE\u8FDB\u5EA6\u3002\u91CC\u7A0B\u7891\u7684\u53E6\u4E00\u79CD\uFF0C\u662F\u6307\u67D0\u79CD\u91CD\u5927\u4E8B\u4EF6\uFF0C\u6216\u767C\u751F\u67D0\u7A2E\u7684\u5178\u578B\u4E8B\u4EF6\uFF0C\u6216\u5177\u6709\u6027\u610F\u7FA9\u7684\u91CD\u5927\u4E8B\u4EF6\uFF0C\u6216\u5177\u6709\u91CD\u5927\u5B78\u8853\u7406\u8AD6\u610F\u7FA9\u7684\u4E8B\u4EF6\u7B49\u3002"@zh ,
+		"\u30DE\u30A4\u30EB\u30B9\u30C8\u30FC\u30F3\uFF08Milestone\uFF09\u306F\u3001\u9244\u9053\u3084\u9053\u8DEF\u7B49\u306E\u8D77\u70B9\u3088\u308A\u306E\u8DDD\u96E2\u3092\u30DE\u30A4\u30EB\u3067\u8868\u3057\u305F\u8DDD\u96E2\u6A19\u8B58\u3002\u30DE\u30A4\u30EB\u30DE\u30FC\u30AB\u30FC\uFF08Milemarker\uFF09\u3001\u30DE\u30A4\u30EB\u30DD\u30B9\u30C8\uFF08Milepost\uFF09\u3068\u3082\u3044\u3046\u3002 \u30ED\u30FC\u30DE\u5E1D\u56FD\u304C\u524D120\u5E74\u9803\u306E\u9053\u8DEF\u95A2\u9023\u6CD5\u300C\u300D\u306B\u57FA\u304D\u3001\u4E3B\u8981\u306A\u8857\u9053\u306B1\u30ED\u30FC\u30DE\u30FB\u30DE\u30A4\u30EB\uFF081000\u6B69\uFF09\u3054\u3068\u306B\u8A2D\u7F6E\u3057\u305F\u306E\u304C\u59CB\u307E\u308A\u3068\u3055\u308C\u3001\u30A2\u30C3\u30D4\u30A2\u8857\u9053\u306B\u306F\u305D\u308C\u304C\u73FE\u5728\u3067\u3082\u6B8B\u3063\u3066\u3044\u308B\u3002 \u30A2\u30E1\u30EA\u30AB\u5408\u8846\u56FD\u306B\u304A\u3044\u3066\u306F\u30DE\u30A4\u30EB\u3092\u6A19\u6E96\u7684\u306B\u4F7F\u7528\u3057\u3066\u3044\u308B\u3053\u3068\u304B\u3089\u3001\u30AD\u30ED\u30DD\u30B9\u30C8\u3068\u540C\u69D8\u306B\u7F6E\u304B\u308C\u308B\u304C\u3001\u30E8\u30FC\u30ED\u30C3\u30D1\u306B\u304A\u3044\u3066\u306F\u3001\u30AD\u30ED\u30E1\u30FC\u30C8\u30EB\u3092\u6A19\u6E96\u3068\u3059\u308B\u56FD\u3005\u304C\u591A\u3044\u3053\u3068\u304B\u3089\u30AD\u30ED\u30DD\u30B9\u30C8\u306E\u4E8B\u3092\u305D\u3046\u547C\u3076\u5834\u5408\u304C\u591A\u3044\u3002 \u307E\u305F\u3001\u3042\u308B\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8\u3084\u4E16\u754C\u7684\u306A\u30A4\u30D9\u30F3\u30C8\u306A\u3069\u304C\u5B8C\u6210\u30FB\u6210\u529F\u3057\u305F\u5834\u5408\u306B\u6BD4\u55A9\u7684\u306B\u8A00\u8449\u3068\u3057\u3066\u4F7F\u7528\u3059\u308B\u5834\u5408\u304C\u3042\u308B\u3002\u307E\u305F\u3001\u30E2\u30CB\u30E5\u30E1\u30F3\u30C8\u3068\u3057\u3066\u6B8B\u3059\u5834\u5408\u3082\u3042\u308B\u3002 \u65E5\u672C\u306B\u306F\u540C\u69D8\u306E\u3082\u306E\u3068\u3057\u3066\u4E00\u91CC\u585A\u304C\u3042\u308A\u3001\u65E7\u8857\u9053\u3067\u4E00\u91CC(\u7D044km)\u3054\u3068\u306B\u898B\u308B\u3053\u3068\u304C\u3067\u304D\u308B\u3002"@ja .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Milestone	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Milestone?oldid=973811166&ns=0> ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/AUT_0345.JPG?width=300> ;
+	dbo:wikiPageExternalLink	<http://www.towpathtreks.co.uk/LLC/mileposts.html> ,
+		<http://www.milestonesociety.co.uk/> ,
+		<http://mutcd.fhwa.dot.gov/HTM/2003r1/part2/part2d2.htm%23section2D46> ,
+		<http://penelope.uchicago.edu/Thayer/E/Roman/Texts/secondary/SMIGRA*/Milliare.html> ,
+		<http://www.archeolyon.com/Bornemil/Milrepertoire.html> ,
+		<http://www.stonestructures.org/html/milestones.html> ,
+		<http://mile.stonesgur.us/> ,
+		<https://www.youtube.com/watch%3Fv=yJHgYrFlYLQ> ;
+	dbo:wikiPageID	285728 ;
+	dbo:wikiPageRevisionID	973811166 ;
+	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Interchange_(road)> ,
+		dbr:A5130_road ,
+		dbr:Philippine_highway_network ,
+		dbr:Florida_Keys ,
+		dbr:Mughal_Empire ,
+		dbr:B1149_road ,
+		dbr:Median_strip ,
+		dbr:Roman_Empire ,
+		dbr:Charing_Cross ,
+		dbr:Ancient_Greek_technology ,
+		dbr:Myanmar ,
+		dbr:Exit_number ,
+		dbr:Manual_on_Uniform_Traffic_Control_Devices ,
+		dbr:Missouri ,
+		dbr:Peleg_Arnold ,
+		dbr:Staffordshire ,
+		dbr:Granite ,
+		dbr:National_highways_of_India ,
+		dbr:Boundary_markers_of_the_original_District_of_Columbia ,
+		dbr:Kentucky ,
+		dbr:Eleanor_cross ,
+		dbr:Kilometric_point ,
+		dbr:Incident_report ,
+		dbr:List_of_National_Highways_in_India_by_state ,
+		dbr:London ,
+		dbr:Metrication_in_Australia ,
+		dbc:Monument_types ,
+		dbr:Milepost_equation ,
+		dbr:Illinois ,
+		dbr:Maryland ,
+		dbr:Interstate_Highway_System ,
+		dbr:Cornwall ,
+		dbr:Highway_location_marker ,
+		dbr:Anno_Domini ,
+		dbr:Wiltshire ,
+		dbr:Surveying ,
+		<http://dbpedia.org/resource/File:A_milestone_at_Berwick-upon-Tweed_-_geograph.org.uk_-_1513459.jpg> ,
+		<http://dbpedia.org/resource/File:A_milestone_from_the_Umayyad_period.jpg> ,
+		<http://dbpedia.org/resource/File:Cumberland_258.jpg> ,
+		dbr:Minaret ,
+		<http://dbpedia.org/resource/File:Philippine_highway_marker.jpg> ,
+		dbr:Constantinople ,
+		dbr:Overseas_Highway ,
+		dbr:A350_road ,
+		dbr:Corpusty ,
+		dbr:California ,
+		dbr:Virginia ,
+		dbr:Sher_Shah_Suri ,
+		dbr:Chellaston ,
+		dbr:Parting_stone ,
+		<http://dbpedia.org/resource/File:Milepost_358-6_on_Yangon-Mandalay_Expressway.JPG> ,
+		<http://dbpedia.org/resource/File:Naypyitaw_Tollbooth.jpg> ,
+		<http://dbpedia.org/resource/File:Milestone_kirkby_thore.JPG> ,
+		<http://dbpedia.org/resource/File:Railmileposts.jpg> ,
+		<http://dbpedia.org/resource/File:Road_Stone_Payyambalam.jpg> ,
+		dbr:Railways_Clauses_Consolidation_Act_1845 ,
+		<http://dbpedia.org/resource/File:Geira_Milha_XXIX_caminho.jpg> ,
+		<http://dbpedia.org/resource/File:Intersection_of_the_Bypass_Highway_and_Van_Giesen_Street_6.jpg> ,
+		<http://dbpedia.org/resource/File:Kos_Minar_03.jpg> ,
+		<http://dbpedia.org/resource/File:Milestone@Penrhosgarnedd_2.jpg> ,
+		dbr:Longbridge_Deverill ,
+		dbr:World_War_II ,
+		dbr:Great_Road_Historic_District ,
+		dbr:Highway ,
+		dbr:Skanderborg ,
+		dbr:India ,
+		dbr:Milion ,
+		dbr:Travel ,
+		dbr:County ,
+		dbr:Harvard_Square ,
+		dbr:Metrication ,
+		dbr:Scenic_route ,
+		dbr:Road ,
+		<http://dbpedia.org/resource/Kingston,_Massachusetts> ,
+		<http://dbpedia.org/resource/Rock_(geology)> ,
+		dbc:Surveying ,
+		dbr:Boundary_marker ,
+		dbr:B3306_road ,
+		<http://dbpedia.org/resource/Broughton,_Milton_Keynes> ,
+		dbr:United_Kingdom ,
+		dbr:United_States ,
+		dbr:Derby ,
+		dbr:Furlong ,
+		dbr:Rhodesia ,
+		dbr:List_of_motorways_in_the_United_Kingdom ,
+		<http://dbpedia.org/resource/Land\u0027s_End_Airport> ,
+		dbr:Ortigas_Avenue ,
+		<http://dbpedia.org/resource/Sutton,_London> ,
+		dbr:Turnpike_trust ,
+		dbr:Arizona ,
+		dbr:Frederick_VII_of_Denmark ,
+		dbr:Rhode_Island ,
+		dbr:Zimbabwe ,
+		dbr:Operation_Herkules ,
+		dbr:Boston_Post_Road ,
+		dbr:Cainta ,
+		dbr:Canal ,
+		dbr:Potterne ,
+		dbr:Odometer ,
+		dbr:Zero_Milestone ,
+		dbr:Rail_transport ,
+		dbr:Norfolk ,
+		dbr:Royal_cypher ,
+		dbr:Blue_Ridge_Parkway ,
+		dbr:A360_road ,
+		dbr:Akbarnama ,
+		dbr:Ancient_Rome ,
+		dbr:Haridwar ,
+		<http://dbpedia.org/resource/Washington,_D.C.> ,
+		<http://dbpedia.org/resource/42nd_parallel_north> ,
+		dbr:North_Carolina ,
+		dbr:Survey_marker ,
+		<http://dbpedia.org/resource/U.S._state> ,
+		<http://dbpedia.org/resource/Yangon\u2013Mandalay_Expressway> ,
+		dbr:Roman_roads ,
+		dbr:Reassurance_marker ,
+		dbc:Street_furniture ,
+		dbr:Obelisk ,
+		dbr:Town ,
+		dbr:Akbar ,
+		dbr:Pasig ,
+		dbr:Swieqi ,
+		dbr:Byzantine_Empire ,
+		dbr:Marble ,
+		dbr:Latin ,
+		dbr:Border ,
+		dbr:Milliarium_Aureum ,
+		dbr:Europe ,
+		<http://dbpedia.org/resource/Abu\u0027l-Fazl_ibn_Mubarak> ,
+		<http://dbpedia.org/resource/San_Juan,_Metro_Manila> ,
+		dbr:Luzon ,
+		dbr:Kilometre_zero ,
+		dbr:Uttarakhand ,
+		dbr:Driver_location_sign ,
+		dbr:Malta_at_War_Museum ,
+		dbr:Batemans_Bay ,
+		dbr:Crown_Colony_of_Malta ,
+		dbr:A514_road ,
+		<http://dbpedia.org/resource/Afghan_(ethnonym)> ,
+		<http://dbpedia.org/resource/Kos_(unit)> ,
+		dbr:Linear_referencing ,
+		<http://dbpedia.org/resource/Mellie\u0127a> ,
+		dbr:Appian_Way ,
+		dbr:Concrete ,
+		dbr:Trail_blazing ,
+		<http://dbpedia.org/resource/Chain_(unit)> ,
+		dbr:Rizal_Park ,
+		dbr:Fife ,
+		dbr:Distance ,
+		dbr:City .
+@prefix dbt:	<http://dbpedia.org/resource/Template:> .
+dbr:Milestone	dbp:wikiPageUsesTemplate	dbt:Main_article ,
+		dbt:Quote ,
+		dbt:See_also ,
+		dbt:Short_description ,
+		dbt:Redirect ,
+		dbt:Unreferenced_section ,
+		dbt:Coord ,
+		dbt:Reflist ,
+		dbt:Cite_web ,
+		dbt:Frac ,
+		dbt:Use_dmy_dates ,
+		dbt:Convert ,
+		dbt:Div_col ,
+		dbt:Div_col_end ,
+		dbt:Details ,
+		dbt:Commons_category ,
+		dbt:Citation_needed ,
+		dbt:Clear ,
+		dbt:Other_uses ;
+	dbo:wikiPageLength	"23302"^^xsd:nonNegativeInteger .
+dbr:Hank_Aaron	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Bollard	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Distance	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Milliarium_Aureum	dbp:type	dbr:Milestone ;
+	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Interstate_70_in_Colorado	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Auckland_Castle	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Washington_State_Route_504	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Ethan_Allen_Express	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Roman_roads	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Economic_history_of_Vietnam	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:South_Shore_Line	dbo:wikiPageWikiLink	dbr:Milestone .
+<http://dbpedia.org/resource/Stanis\u0142aw_Jaros>	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Balmaseda	dbo:wikiPageWikiLink	dbr:Milestone .
+<http://dbpedia.org/resource/List_of_Xbox_360_games_(M\u2013Z)>	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Dagenham	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Port_Jervis_Line	dbo:wikiPageWikiLink	dbr:Milestone .
+<http://dbpedia.org/resource/Orange,_Texas>	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Oberwiesenthal	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Amasya_Museum	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:First_haircut	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Al-Qabu	dbo:wikiPageWikiLink	dbr:Milestone .
+<http://dbpedia.org/resource/Jire\u010Dek_Line>	dbo:wikiPageWikiLink	dbr:Milestone .
+wikipedia-en:Milestone	foaf:primaryTopic	dbr:Milestone .
+dbr:Remote_Associates_Test	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Rail_directions	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Mile_End_tube_station	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:History_of_dental_treatments	dbo:wikiPageWikiLink	dbr:Milestone .
+<http://dbpedia.org/resource/Arrington,_Cambridgeshire>	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:The_Temptation_of_Sarah_Jane_Smith	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Cuckoo_Trail	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Eltisley	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:North_Jersey_Coast_Line	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:River_Camel	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Irish_measure	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Prater_Liliputbahn	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Ichirizuka	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Roseville_Tunnel	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Sheridan_State_Scenic_Corridor	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Images_of_England	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Combe_Hay_Locks	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Tilli_Antonelli	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Johanngeorgenstadt	dbo:wikiPageWikiLink	dbr:Milestone .
+<http://dbpedia.org/resource/Dalgarven_Mill_\u2013_Museum_of_Ayrshire_Country_Life_and_Costume>	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Railroadiana	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Zibo_train_collision	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Massachusetts_Route_28	dbo:wikiPageWikiLink	dbr:Milestone .
+@prefix ns27:	<http://dbpedia.org/resource/Newburyport/> .
+ns27:Rockport_Line	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Haverhill_Line	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Kansas_Turnpike	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Atlantic_City_Line	dbo:wikiPageWikiLink	dbr:Milestone .
+<http://dbpedia.org/resource/Trenton_Line_(SEPTA)>	dbo:wikiPageWikiLink	dbr:Milestone .
+<http://dbpedia.org/resource/West_Trenton_Line_(SEPTA)>	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Great_Wagon_Road	dbo:wikiPageWikiLink	dbr:Milestone .
+<http://dbpedia.org/resource/U.S._Route_93_in_Nevada>	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Pascack_Valley_Line	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Sunder_Singh_Lyallpuri	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Tajemnica_Statuetki	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Nicholson_Cutoff	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Route_46_Passaic_River_Bridge	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:List_of_crossings_of_the_Rahway_River	dbo:wikiPageWikiLink	dbr:Milestone .
+<http://dbpedia.org/resource/C._Rudraiah>	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Road	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Boston_Post_Road	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Castellane	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Mile	dbo:wikiPageWikiLink	dbr:Milestone .
+<http://dbpedia.org/resource/Tucson,_Arizona>	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Roman_Cyprus	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Blythburgh	dbo:wikiPageWikiLink	dbr:Milestone .
+<http://dbpedia.org/resource/Tuscaloosa,_Alabama>	dbo:wikiPageWikiLink	dbr:Milestone .
+<http://dbpedia.org/resource/John_Mullan_(road_builder)>	dbo:wikiPageWikiLink	dbr:Milestone .
+<http://dbpedia.org/resource/Mason\u2013Dixon_line>	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Cippi_of_Melqart	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Antikythera_mechanism	dbo:wikiPageWikiLink	dbr:Milestone .
+<http://dbpedia.org/resource/U.S._Route_50_in_Nevada>	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Llanfairfechan	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Geocoding	dbo:wikiPageWikiLink	dbr:Milestone .
+<http://dbpedia.org/resource/Direction,_position,_or_indication_sign>	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Linear_referencing	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:River_mile	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Road_signs_in_the_United_Kingdom	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Cameron_Corner_Survey_Marker	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:North_Carolina_Highway_106	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:North_Carolina_Highway_128	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Interstate_77_in_Virginia	dbo:wikiPageWikiLink	dbr:Milestone .
+<http://dbpedia.org/resource/Interstate_795_(North_Carolina)>	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Blue_Ridge_Parkway_tunnels	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Kilometric_point	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Cadence-lypso	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Umpqua_River_Bridge	dbo:wikiPageWikiLink	dbr:Milestone .
+<http://dbpedia.org/resource/Union_Village,_Rhode_Island>	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Utah_State_Route_210	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Department_of_Rural_Roads	dbo:wikiPageWikiLink	dbr:Milestone .
+<http://dbpedia.org/resource/Military_Way_(Hadrian\u0027s_Wall)>	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Chestnut_Hill_East_Line	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Chestnut_Hill_West_Line	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Lincoln_Highway_Hackensack_River_Bridge	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Lincoln_Highway_Passaic_River_Bridge	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Itinerarium	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Listed_buildings_in_Lancashire	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Apodemica	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Interstate_422	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Iowa_Highway_110	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:West_Run_Expressway	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Studebaker	dbo:wikiPageWikiLink	dbr:Milestone .
+<http://dbpedia.org/resource/Vermonter_(train)>	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Keystone_Corridor	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Empire_Service	dbo:wikiPageWikiLink	dbr:Milestone .
+<http://dbpedia.org/resource/Interstate_35E_(Minnesota)>	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Beacon	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Via_Egnatia	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Listed_buildings_in_Lymm	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Nevada_State_Route_342	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Maine_State_Route_703	dbo:wikiPageWikiLink	dbr:Milestone .
+<http://dbpedia.org/resource/King\u0027s_Highway_Historic_District_(New_Jersey)>	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Princeton_Branch	dbo:wikiPageWikiLink	dbr:Milestone .
+<http://dbpedia.org/resource/1767_Milestones>	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Old_Colony_Lines	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:CapeFlyer	dbo:wikiPageWikiLink	dbr:Milestone .
+<http://dbpedia.org/resource/Milestone_(Arlington,_Massachusetts)>	dbo:wikiPageWikiLink	dbr:Milestone .
+@prefix ns28:	<http://dbpedia.org/resource/Framingham/> .
+ns28:Worcester_Line	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Franklin_Line	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Shore_Line_East	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Needham_Line	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Haverhill_Street_Milestone	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Richard_Wall_house	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Strata_Diocletiana	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Carausius	dbo:wikiPageWikiLink	dbr:Milestone .
+<http://dbpedia.org/resource/Onomasticon_(Eusebius)>	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Epigraphy	dbo:wikiPageWikiLink	dbr:Milestone .
+<http://dbpedia.org/resource/Terminus_(god)>	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Nickel_Centre	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Listed_building	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:List_of_Alaska_Routes	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Alaska_Highway	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Klondike_Highway	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Alaska_Route_1	dbo:wikiPageWikiLink	dbr:Milestone .
+<http://dbpedia.org/resource/Leskovec_pri_Kr\u0161kem>	dbo:wikiPageWikiLink	dbr:Milestone .
+<http://dbpedia.org/resource/Leahill_Turret,_Hadrian\u0027s_Wall>	dbo:wikiPageWikiLink	dbr:Milestone .
+<http://dbpedia.org/resource/Aqu\u00ED_no_hay_quien_viva>	dbp:network	dbr:Milestone ;
+	dbo:network	dbr:Milestone ;
+	dbo:wikiPageWikiLink	dbr:Milestone .
+<http://dbpedia.org/resource/Bensonhurst,_Brooklyn>	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Roman_bridge_of_Salamanca	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Corpus_Inscriptionum_Latinarum	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Chaussee	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Normanton-on-Cliffe	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Threekingham_Bar	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Aswarby	dbo:wikiPageWikiLink	dbr:Milestone .
+<http://dbpedia.org/resource/U.S._Route_95_in_Nevada>	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Pierre_Salama	dbo:wikiPageWikiLink	dbr:Milestone .
+<http://dbpedia.org/resource/St_Martin\u0027s_Church,_Ancaster>	dbo:wikiPageWikiLink	dbr:Milestone .
+<http://dbpedia.org/resource/Springside,_North_Ayrshire>	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Saxon_milepost	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Parting_stone	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Macquarie_Place_Park	dbo:wikiPageWikiLink	dbr:Milestone .
+<http://dbpedia.org/resource/Washington_&_Old_Dominion_Railroad_Regional_Park>	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Montclair-Boonton_Line	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Bisceglie	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Lowell_Line	dbo:wikiPageWikiLink	dbr:Milestone .
+<http://dbpedia.org/resource/Santa_Claus,_Arizona>	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Braga	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Oberwesel	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Cellae_in_Proconsulari	dbo:wikiPageWikiLink	dbr:Milestone .
+<http://dbpedia.org/resource/Augsburg-G\u00F6ggingen>	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Slabinja	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:East_Sheen	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Flint_Cross	dbo:wikiPageWikiLink	dbr:Milestone .
+<http://dbpedia.org/resource/B\u00FCren_an_der_Aare>	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Juliopolis	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Mumpf	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Theale	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Microsoft_Office_97	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Emergency_telephone	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Exit_number	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Ontario_Global_Edge_Program	dbo:wikiPageWikiLink	dbr:Milestone .
+<http://dbpedia.org/resource/Victoria_Park,_Widnes>	dbo:wikiPageWikiLink	dbr:Milestone .
+<http://dbpedia.org/resource/Little_Stretton,_Shropshire>	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:History_of_Slough	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:A536_road	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Strefford	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Hilperton	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Monk_Fryston	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Transport_in_Ipswich	dbo:wikiPageWikiLink	dbr:Milestone .
+<http://dbpedia.org/resource/U.S._Route_6_in_Nevada>	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Nevada_State_Route_208	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Nevada_State_Route_267	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Nevada_State_Route_28	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Nevada_State_Route_376	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Nevada_State_Route_774	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Peter_Glantz	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Gladstone_Branch	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Bergen_County_Line	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Smith_Tavern	dbo:wikiPageWikiLink	dbr:Milestone .
+<http://dbpedia.org/resource/U.S._Route_1/9_Truck>	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:New_Haven_Line	dbo:wikiPageWikiLink	dbr:Milestone .
+<http://dbpedia.org/resource/Hobart_station_(New_York)>	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:MP	dbo:wikiPageWikiLink	dbr:Milestone ;
+	dbo:wikiPageDisambiguates	dbr:Milestone .
+dbr:Stadiasmus_Patarensis	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Canzo	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Weald_and_Downland_Living_Museum	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Glossary_of_road_transport_terms	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Boundary_marker	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Mythology_of_Benjamin_Banneker	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:John_Paul_Leon	dbo:wikiPageWikiLink	dbr:Milestone .
+<http://dbpedia.org/resource/Main_Line_(Long_Island_Rail_Road)>	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Utah_State_Route_269	dbo:wikiPageWikiLink	dbr:Milestone .
+<http://dbpedia.org/resource/Roy\u0027s_Motel_and_Caf\u00E9>	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Music_of_Dominica	dbo:wikiPageWikiLink	dbr:Milestone .
+@prefix ns29:	<http://dbpedia.org/resource/Providence/> .
+ns29:Stoughton_Line	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Carter_Aviation_Technologies	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Beach_Bridge	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Bee_Thousand	dbo:wikiPageWikiLink	dbr:Milestone .
+<http://dbpedia.org/resource/U.S._Route_93_Alternate_(Nevada)>	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Cynwyd_Line	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:History_of_road_transport	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Park_Avenue_main_line	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Ronkonkoma_Branch	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Fairmount_Line	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Far_Rockaway_Branch	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Nevada_State_Route_604	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Port_Jefferson_Branch	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Port_Washington_Branch	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Waterbury_Branch	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:West_Orange_Trail	dbo:wikiPageWikiLink	dbr:Milestone .
+<http://dbpedia.org/resource/U.S._Route_395_in_Washington>	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:San_Casciano_in_Val_di_Pesa	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Cantlop	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Khlong_Prem_Prachakon	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Rockbourne_Roman_Villa	dbo:wikiPageWikiLink	dbr:Milestone .
+<http://dbpedia.org/resource/Park_Square,_Rhode_Island>	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Bramhope	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Glengormley	dbo:wikiPageWikiLink	dbr:Milestone .
+<http://dbpedia.org/resource/Baglan,_Neath_Port_Talbot>	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Little_Wolford	dbo:wikiPageWikiLink	dbr:Milestone .
+<http://dbpedia.org/resource/Loudwater,_Buckinghamshire>	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Callander_railway_station	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Beccles	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Middop	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Rawreth	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Lambroughton	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Swanbourne_railway_station	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Merrybent	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Yatton_Keynell	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:List_of_RenderWare_games	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Triccianus	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Survey_marker	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Michigan_State_Trunkline_Highway_System	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:List_of_wolf_attacks_in_North_America	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Traffic_sign	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Huron_Central_Railway	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Interstate_90	dbo:wikiPageWikiLink	dbr:Milestone .
+<http://dbpedia.org/resource/U.S._Route_10>	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Street_sign_theft	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Truck_driver	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:London_Borough_of_Hounslow	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Greenbush_Line	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:List_of_Old_Colony_Railroad_stations	dbo:wikiPageWikiLink	dbr:Milestone .
+<http://dbpedia.org/resource/Main_Line_(NJ_Transit)>	dbo:wikiPageWikiLink	dbr:Milestone .
+<http://dbpedia.org/resource/Concurrency_(road)>	dbo:wikiPageWikiLink	dbr:Milestone .
+<http://dbpedia.org/resource/New_York,_Susquehanna_and_Western_Railway>	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Via_Agrippa	dbo:wikiPageWikiLink	dbr:Milestone .
+<http://dbpedia.org/resource/\u02BBAkoni_Pule_Highway>	dbo:wikiPageWikiLink	dbr:Milestone .
+<http://dbpedia.org/resource/U.S._Route_395_in_Nevada>	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Signaling_of_the_New_York_City_Subway	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:All_a_Bir-r-r-d	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Lak_Si_District	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Strasbourg	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Roman_numerals	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Interstate_22	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Interstate_4	dbo:wikiPageWikiLink	dbr:Milestone .
+<http://dbpedia.org/resource/Transportation,_Housing_and_Urban_Development,_and_Related_Agencies_Appropriations_Act,_2015>	dbo:wikiPageWikiLink	dbr:Milestone .
+<http://dbpedia.org/resource/Brodhead\u0027s_Bridge_station>	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Road_signs_in_Malaysia	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Rimini	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Historic_Columbia_River_Highway	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Marienberg	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Cornish_hurling	dbo:wikiPageWikiLink	dbr:Milestone .
+<http://dbpedia.org/resource/Woodville,_Ohio>	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Haddon_Corner	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Great_Locomotive_Chase	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Utah_State_Route_190	dbo:wikiPageWikiLink	dbr:Milestone .
+<http://dbpedia.org/resource/Tucker,_Utah>	dbo:wikiPageWikiLink	dbr:Milestone .
+<http://dbpedia.org/resource/U.S._Route_50_Alternate_(Nevada)>	dbo:wikiPageWikiLink	dbr:Milestone .
+<http://dbpedia.org/resource/U.S._Route_95_Alternate_(Schurz\u2013Fernley,_Nevada)>	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Nevada_State_Route_160	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Nevada_State_Route_278	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Transport_in_Niger	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:John_Brewer_Cameron	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Tiroi_Komuter_station	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Brian_McTernan	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Mieming_Plateau	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Milepost_equation	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Controlled-access_highway	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Bobingen	dbo:wikiPageWikiLink	dbr:Milestone .
+<http://dbpedia.org/resource/Ditton,_Kent>	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Baerenthal	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Bavay	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Leienkaul	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Highway_location_marker	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Music_of_Martinique	dbo:wikiPageWikiLink	dbr:Milestone .
+<http://dbpedia.org/resource/D\u00F6rrebach>	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Landkern	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Le_Donzeil	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Feurs	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Warning_sign	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Piedfort	dbo:wikiPageWikiLink	dbr:Milestone .
+<http://dbpedia.org/resource/Atlantic_City\u2013Brigantine_Connector>	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Colorado_State_Highway_94	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Morristown_Line	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Interstate_15_in_Utah	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:List_of_crossings_of_the_Upper_Passaic_River	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Nevada_State_Route_292	dbo:wikiPageWikiLink	dbr:Milestone .
+<http://dbpedia.org/resource/\u00D8ster_All\u00E9>	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Alon_Shvut	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Canovium	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Scarborough_Connector	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Utah_State_Route_129	dbo:wikiPageWikiLink	dbr:Milestone .
+@prefix ns30:	<http://dbpedia.org/resource/Highland_Village/> .
+ns30:Lewisville_Lake_station	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Seed_bank	dbo:wikiPageWikiLink	dbr:Milestone .
+<http://dbpedia.org/resource/Peneda-Ger\u00EAs_National_Park>	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Groundhog_Day	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Choe_Bu	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Windhof	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Parenzana	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:List_of_industrial_archaeology_topics	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Thermae	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Interstate_95_in_Virginia	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Roman_roads_in_Britannia	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Track_Warrant_Control	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Spectrum_of_theistic_probability	dbo:wikiPageWikiLink	dbr:Milestone .
+<http://dbpedia.org/resource/Ounga,_Tunisia>	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Trolley_Museum_of_New_York	dbo:wikiPageWikiLink	dbr:Milestone .
+<http://dbpedia.org/resource/Special_routes_of_U.S._Route_30>	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:California_postmile	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Turnpike_trusts_in_Greater_Manchester	dbo:wikiPageWikiLink	dbr:Milestone .
+<http://dbpedia.org/resource/Kalka\u2013Shimla_railway>	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Akash_Mitra_Mandal	dbo:wikiPageWikiLink	dbr:Milestone .
+<http://dbpedia.org/resource/U.S._Route_70_in_Arizona>	dbo:wikiPageWikiLink	dbr:Milestone .
+<http://dbpedia.org/resource/U.S._Route_93_in_Arizona>	dbo:wikiPageWikiLink	dbr:Milestone .
+<http://dbpedia.org/resource/Velika_Vas_pri_Kr\u0161kem>	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Bayt_Nattif	dbo:wikiPageWikiLink	dbr:Milestone .
+<http://dbpedia.org/resource/Caracalla\u0027s_inscription>	dbo:wikiPageWikiLink	dbr:Milestone .
+<http://dbpedia.org/resource/Potaissa_(castra)>	dbo:wikiPageWikiLink	dbr:Milestone .
+<http://dbpedia.org/resource/U.S._Route_50_in_California>	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:John_Longmire	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Kitanaura	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Aulus_Larcius_Macedo	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Trebenna	dbo:wikiPageWikiLink	dbr:Milestone .
+<http://dbpedia.org/resource/Richmond_Bridge,_London>	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Lex_Ogulnia	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Royalty_payment	dbo:wikiPageWikiLink	dbr:Milestone .
+<http://dbpedia.org/resource/Spiral_(railway)>	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Florida_Keys	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Cranleigh_line	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Trade_route	dbo:wikiPageWikiLink	dbr:Milestone .
+<http://dbpedia.org/resource/List_of_PlayStation_2_games_(A\u2013K)>	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:List_of_Wii_games	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Martinian_and_Processus	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Abd_al-Malik_ibn_Marwan	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Sinop_Archaeological_Museum	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Jisr_el-Majami	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Lommatzsch	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:List_of_medieval_abbreviations	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Checkerboard_Inn	dbo:wikiPageWikiLink	dbr:Milestone .
+<http://dbpedia.org/resource/Chisholm,_Ontario>	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Ten_Mile_Lake_Provincial_Park	dbo:wikiPageWikiLink	dbr:Milestone .
+<http://dbpedia.org/resource/Princess_Street_(Kingston,_Ontario)>	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Nevada_State_Route_375	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:District_of_Columbia_Route_295	dbo:wikiPageWikiLink	dbr:Milestone .
+@prefix ns31:	<http://dbpedia.org/resource/Wilmington/> .
+ns31:Newark_Line	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Milliarium_of_Aiton	dbo:wikiPageWikiLink	dbr:Milestone .
+<http://dbpedia.org/resource/JazzReggae_Festival_@_UCLA>	dbo:wikiPageWikiLink	dbr:Milestone .
+<http://dbpedia.org/resource/1993_in_archaeology>	dbo:wikiPageWikiLink	dbr:Milestone .
+<http://dbpedia.org/resource/Airport_Line_(SEPTA)>	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Warminster_Line	dbo:wikiPageWikiLink	dbr:Milestone .
+@prefix ns32:	<http://dbpedia.org/resource/Media/> .
+ns32:Elwyn_Line	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Florida_State_Road_913	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Rueso_railway_station	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Dorset_Avenue_Bridge	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:List_of_waterways_forming_and_crossings_of_the_Gulf_Intracoastal_Waterway	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Fitchburg_Line	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Northeast_Corridor_Line	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Old_Albany_Post_Road	dbo:wikiPageWikiLink	dbr:Milestone .
+<http://dbpedia.org/resource/Diamond_Gulch_(Juab_County,_Utah)>	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Dino_Run	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Babylon_Branch	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Track_geometry_car	dbo:wikiPageWikiLink	dbr:Milestone .
+<http://dbpedia.org/resource/Utah_Division_(D&RGW)>	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Smathers_Beach	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Tony_Michaelides	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Zero_Milestone	dbo:wikiPageWikiLink	dbr:Milestone .
+<http://dbpedia.org/resource/Francis_Turner_(engineer)>	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Hardy_Bridge	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Harlem_Line	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Hooper_Bald	dbo:wikiPageWikiLink	dbr:Milestone .
+<http://dbpedia.org/resource/International_reactions_to_the_2018_North_Korea\u2013United_States_summit>	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Post_riders	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:National_Certification_Commission_for_Acupuncture_and_Oriental_Medicine	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Arizona_State_Route_101	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Atlantic_Branch	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Boundary_markers_of_the_original_District_of_Columbia	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Oregon_Route_219	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Oyster_Bay_Branch	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Raritan_Valley_Line	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:The_Amazing_Race_18	dbo:wikiPageWikiLink	dbr:Milestone .
+<http://dbpedia.org/resource/Eighty_Four,_Pennsylvania>	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Ellsworth_Street_Bridge	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Empire_Corridor	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Hawaii_Route_200	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Hempstead_Branch	dbo:wikiPageWikiLink	dbr:Milestone .
+<http://dbpedia.org/resource/Mount_Pisgah_(mountain_in_North_Carolina)>	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Meadowlands_Rail_Line	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Key_Largo_School	dbo:wikiPageWikiLink	dbr:Milestone .
+<http://dbpedia.org/resource/Hall_Station,_Colorado>	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Scout_Key	dbo:wikiPageWikiLink	dbr:Milestone .
+<http://dbpedia.org/resource/Perky,_Florida>	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Ballaghaderreen_branch_line	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Small_Heath	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:History_of_roads_in_Ireland	dbo:wikiPageWikiLink	dbr:Milestone .
+<http://dbpedia.org/resource/A5_road_(Great_Britain)>	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Turnpike_trust	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Queensland_borders	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:List_of_Xbox_games	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Kogane_Ichirizuka	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Horseshoe_curve	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Capidava	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Seefeld_Saddle	dbo:wikiPageWikiLink	dbr:Milestone .
+<http://dbpedia.org/resource/\u014Chira_Ichirizuka>	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Marcia_Euphemia	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Ano_Ichirizuka	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Tarui_Ichirizuka	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Sukagawa_Ichirizuka	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Mibu_Ichirizuka	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Tomida_Ichirizuka	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Via_Aurelia	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Latium_adiectum	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Mirabilia_Urbis_Romae	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Gerard_Crane_House	dbo:wikiPageWikiLink	dbr:Milestone .
+<http://dbpedia.org/resource/Street_football_(American)>	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Gatepost	dbo:wikiPageWikiLink	dbr:Milestone .
+<http://dbpedia.org/resource/U.S._Route_51_in_Tennessee>	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Minnesota_State_Highway_36	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Interstate_694	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Rahway_River_Bridge	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Apple_Capital_Recreation_Loop_Trail	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Raritan_River_Bridge	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Connecticut_River_Line	dbo:wikiPageWikiLink	dbr:Milestone .
+<http://dbpedia.org/resource/List_of_bridges_on_U.S._Route_101_in_Oregon>	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Englewood_Route_4_station	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Railway_milepost	dbo:wikiPageRedirects	dbr:Milestone ;
+	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Kilometer_post	dbo:wikiPageRedirects	dbr:Milestone ;
+	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Kilometerpost	dbo:wikiPageRedirects	dbr:Milestone ;
+	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Kilometre_post	dbo:wikiPageRedirects	dbr:Milestone ;
+	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Roman_milliarium	dbo:wikiPageRedirects	dbr:Milestone ;
+	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Mile_Stone	dbo:wikiPageRedirects	dbr:Milestone ;
+	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Mile_marker	dbo:wikiPageRedirects	dbr:Milestone ;
+	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Mile_post	dbo:wikiPageRedirects	dbr:Milestone ;
+	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Mile_stone	dbo:wikiPageRedirects	dbr:Milestone ;
+	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Mileage_marker	dbo:wikiPageRedirects	dbr:Milestone ;
+	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Milemarker	dbo:wikiPageRedirects	dbr:Milestone ;
+	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Milepoint	dbo:wikiPageRedirects	dbr:Milestone ;
+	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Milepost	dbo:wikiPageRedirects	dbr:Milestone ;
+	dbo:wikiPageWikiLink	dbr:Milestone .
+<http://dbpedia.org/resource/Milestone_(Road_transport)>	dbo:wikiPageRedirects	dbr:Milestone ;
+	dbo:wikiPageWikiLink	dbr:Milestone .
+<http://dbpedia.org/resource/Milestone_(transport)>	dbo:wikiPageRedirects	dbr:Milestone ;
+	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Millarium	dbo:wikiPageRedirects	dbr:Milestone ;
+	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Milliarium	dbo:wikiPageRedirects	dbr:Milestone ;
+	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Indre_By	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Dan-Air	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Ukrainian_Railways	dbo:wikiPageWikiLink	dbr:Milestone .
+<http://dbpedia.org/resource/Sergio_Ag\u00FCero>	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Flat_Top_Manor	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Claydon_railway_station	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Georgia_Northeastern_Railroad	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Fox_Chase_Line	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Road_signs_in_the_Czech_Republic	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:New_Canaan_Branch	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Philadelphia_to_Harrisburg_Main_Line	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Hillam	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Montauk_Branch	dbo:wikiPageWikiLink	dbr:Milestone .
+@prefix ns33:	<http://dbpedia.org/resource/Manayunk/> .
+ns33:Norristown_Line	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Wootton_Broadmead_Halt_railway_station	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Scheduled_monuments_in_Lancashire	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Chew_Stoke	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:List_of_scheduled_monuments_in_South_Kesteven	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Troy_Museum	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Watton-at-Stone	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Rabba	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Vicarello_Cups	dbo:wikiPageWikiLink	dbr:Milestone .
+<http://dbpedia.org/resource/A12_road_(England)>	dbo:wikiPageWikiLink	dbr:Milestone .
+<http://dbpedia.org/resource/Marco_Zero_(S\u00E3o_Paulo)>	dbp:type	dbr:Milestone ;
+	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Lindenholzhausen	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Lak_Song	dbo:wikiPageWikiLink	dbr:Milestone .
+<http://dbpedia.org/resource/Hudson_Line_(Metro-North)>	dbo:wikiPageWikiLink	dbr:Milestone .
+<http://dbpedia.org/resource/U.S._Route_192>	dbo:wikiPageWikiLink	dbr:Milestone .
+@prefix ns34:	<http://dbpedia.org/resource/Paoli/> .
+ns34:Thorndale_Line	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Disappearance_of_Logan_Schiendelman	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Dog_Mountain	dbo:wikiPageWikiLink	dbr:Milestone .
+<http://dbpedia.org/resource/U.S._Route_195>	dbo:wikiPageWikiLink	dbr:Milestone .
+<http://dbpedia.org/resource/U.S._Route_97_Alternate>	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Washington_State_Route_16	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Washington_State_Route_502	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Washington_State_Route_900	dbo:wikiPageWikiLink	dbr:Milestone .
+<http://dbpedia.org/resource/2N_Telekomunikace>	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Western_and_Atlantic_Railroad	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:William_Allen_Fuller	dbo:wikiPageWikiLink	dbr:Milestone .
+<http://dbpedia.org/resource/Baseline_(configuration_management)>	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Villa_di_Quarto	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Pensacola_and_Atlantic_Railroad	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Moyie_River_Canyon_Bridge	dbo:wikiPageWikiLink	dbr:Milestone .
+<http://dbpedia.org/resource/Pike\u0027s_Mile_Markers>	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:List_of_racing_video_games	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Leeming_Bar	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:A4117_road	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Carlbury	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Gamlingay_railway_station	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:A350_road	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Two_Mile_Ash	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Uttoxeter_Canal	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Listed_buildings_in_Liverpool	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:What_the_Romans_Did_for_Us	dbo:wikiPageWikiLink	dbr:Milestone .
+<http://dbpedia.org/resource/Index_of_Windows_games_(S)>	dbo:wikiPageWikiLink	dbr:Milestone .
+<http://dbpedia.org/resource/Quinto,_Aragon>	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Reassurance_marker	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Driver_location_sign	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Haytor_Granite_Tramway	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:UPEDU	dbo:wikiPageWikiLink	dbr:Milestone .
+<http://dbpedia.org/resource/Milestone_(disambiguation)>	dbo:wikiPageWikiLink	dbr:Milestone ;
+	dbo:wikiPageDisambiguates	dbr:Milestone .
+dbr:List_of_crossings_of_the_Lower_Passaic_River	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Logan_Pyett	dbo:birthPlace	dbr:Milestone ;
+	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Ampass	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Danbury_Branch	dbo:wikiPageWikiLink	dbr:Milestone .
+<http://dbpedia.org/resource/Interstate_86_(Pennsylvania\u2013New_York)>	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Dolomites_Gold_Cup_Race	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Abundius_and_Abundantius	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:List_of_crossings_of_the_Hackensack_River	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Virginia_Smart_Road	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Thomas_of_Maurienne	dbo:wikiPageWikiLink	dbr:Milestone .
+<http://dbpedia.org/resource/Kingston,_New_York_railroad_stations>	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Nandalala	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Nevada_State_Route_265	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Nevada_State_Route_306	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Nevada_State_Route_318	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Nevada_State_Route_341	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Nevada_State_Route_361	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Nevada_State_Route_427	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Nevada_State_Route_722	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Nevada_State_Route_773	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:Newark_Drawbridge	dbo:wikiPageWikiLink	dbr:Milestone .
+<http://dbpedia.org/resource/Petrel,_North_Dakota>	dbo:wikiPageWikiLink	dbr:Milestone .
+dbr:CSX_milepost_prefixes	dbo:wikiPageWikiLink	dbr:Milestone .

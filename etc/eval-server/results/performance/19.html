@@ -1,0 +1,1035 @@
+<!DOCTYPE html>
+<html
+    prefix="
+        dbp: http://dbpedia.org/property/
+        dbo: http://dbedia.org/ontology/
+        dct: http://purl.org/dc/terms/
+	"
+    lang="en"
+>
+
+
+<!-- header -->
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <title>About: Fairy</title>
+    <link rel="alternate" type="application/rdf+xml" 		href="http://dbpedia.org/data/Fairy.rdf" title="Structured Descriptor Document (RDF/XML format)" />
+    <link rel="alternate" type="text/n3" 			href="http://dbpedia.org/data/Fairy.n3" title="Structured Descriptor Document (N3 format)" />
+    <link rel="alternate" type="text/turtle" 			href="http://dbpedia.org/data/Fairy.ttl" title="Structured Descriptor Document (Turtle format)" />
+    <link rel="alternate" type="application/json+rdf" 		href="http://dbpedia.org/data/Fairy.jrdf" title="Structured Descriptor Document (RDF/JSON format)" />
+    <link rel="alternate" type="application/json" 		href="http://dbpedia.org/data/Fairy.json" title="Structured Descriptor Document (RDF/JSON format)" />
+    <link rel="alternate" type="application/atom+xml" 		href="http://dbpedia.org/data/Fairy.atom" title="OData (Atom+Feed format)" />
+    <link rel="alternate" type="text/plain" 			href="http://dbpedia.org/data/Fairy.ntriples" title="Structured Descriptor Document (N-Triples format)" />
+    <link rel="alternate" type="text/csv"   			href="http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FFairy%3E&amp;format=text%2Fcsv" title="Structured Descriptor Document (CSV format)" />
+    
+    <link rel="alternate" type="text/cxml"  			href="http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FFairy%3E&amp;format=text%2Fcxml" title="Structured Descriptor Document (CXML format)" />
+    
+    <link rel="alternate" type="application/microdata+json"	href="http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FFairy%3E&amp;format=application%2Fmicrodata%2Bjson" title="Structured Descriptor Document (Microdata/JSON format)" />
+    <link rel="alternate" type="text/html" 			href="http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FFairy%3E&amp;format=text%2Fhtml" title="Structured Descriptor Document (Microdata/HTML format)" />
+    <link rel="alternate" type="application/ld+json" 		href="http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FFairy%3E&amp;format=application%2Fjson-ld" title="Structured Descriptor Document (JSON-LD format)" />
+    <link rel="alternate" type="text/x-html-script-ld+json"	href="http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FFairy%3E&amp;format=text%2Fx-html-script-ld%2Bjson" title="Structured Descriptor Document (HTML with embedded JSON-LD)" />
+    <link rel="alternate" type="text/x-html-script-turtle"	href="http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FFairy%3E&amp;format=text%2Fx-html-script-turtle" title="Structured Descriptor Document (HTML with embedded Turtle)" />
+    <link rel="timegate" type="text/html" 			href="http://dbpedia.mementodepot.org/timegate/http://dbpedia.org/page/Fairy" title="Time Machine" />
+    <link rel="foaf:primarytopic" 				href="http://dbpedia.org/resource/Fairy"/>
+    <link rev="describedby" 					href="http://dbpedia.org/resource/Fairy"/>
+    <link rel="stylesheet" type="text/css"			href="/statics/css/bootstrap.min.css" />
+    <link rel="stylesheet" type="text/css" 			href="/statics/css/dbpedia.css" />
+</head>
+<body about="http://dbpedia.org/resource/Fairy">
+<div class="navbar navbar-default navbar-fixed-top">
+    <div class="container">
+	<div class="navbar-header">
+	    <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#dbp-navbar" aria-expanded="false">
+		<span class="sr-only">Toggle navigation</span>
+		<span class="icon-bar"></span>
+		<span class="icon-bar"></span>
+		<span class="icon-bar"></span>
+	    </button>
+	    <a class="navbar-brand" href="http://wiki.dbpedia.org/about" title="About DBpedia" style="color: #2c5078">
+	    <img class="img-responsive" src="/statics/images/dbpedia_logo_land_120.png" alt="About DBpedia" style="display: inline-block;  margin-top: -12px"/>
+	    </a>
+	</div>
+
+	<div class="collapse navbar-collapse" id="dbp-navbar">
+	    <ul class="nav navbar-nav navbar-right">
+		<li><a class="active" href="/fct/" title="Switch to /fct endpoint"><span class="glyphicon glyphicon-new-window" aria-hidden="true"></span> Faceted Browser </a></li>
+		<li><a class="active" href="/sparql/" title="Switch to /sparql endpoint"><span class="glyphicon glyphicon-new-window" aria-hidden="true"></span> Sparql Endpoint </a></li>
+	    </ul>
+	    <ul class="nav navbar-nav">
+	    <li class="dropdown">
+		<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span class="glyphicon glyphicon-eye-open" aria-hidden="true"></span> Browse using <span class="caret"></span></a>
+		<ul class="dropdown-menu">
+		<li><a href="/describe/?uri=http%3A%2F%2Fdbpedia.org%2Fresource%2FFairy">OpenLink Faceted Browser</a></li>
+		<li><a href="http://linkeddata.uriburner.com/rdf-editor/#/editor?uri=http%3A%2F%2Fdbpedia.org%2Fresource%2FFairy&amp;view=statements">OpenLink Structured Data Editor</a></li>
+		<li><a href="http://en.lodlive.it/?http%3A%2F%2Fdbpedia.org%2Fresource%2FFairy">LodLive Browser</a></li>
+		<li><a href="http://lodmilla.sztaki.hu/lodmilla/?url=http%3A%2F%2Fdbpedia.org%2Fresource%2FFairy">LODmilla Browser</a></li>
+		</ul>
+	    </li>
+	    <li class="dropdown">
+		<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span class="glyphicon glyphicon-file" aria-hidden="true"></span> Formats <span class="caret"></span></a>
+		<ul class="dropdown-menu">
+		<li>&nbsp;RDF:</li>
+		    <li><a href="http://dbpedia.org/data/Fairy.ntriples">N-Triples</a></li>
+		    <li><a href="http://dbpedia.org/data/Fairy.n3">N3</a></li>
+		    <li><a href="http://dbpedia.org/data/Fairy.ttl">Turtle</a></li>
+		    <li><a href="http://dbpedia.org/data/Fairy.json">JSON</a></li>
+		    <li><a href="http://dbpedia.org/data/Fairy.rdf">XML</a></li>
+		<li class="divider"></li>
+		<li>&nbsp;OData:</li>
+		    <li><a href="http://dbpedia.org/data/Fairy.atom">Atom</a></li>
+		    <li><a href="http://dbpedia.org/data/Fairy.jsod">JSON</a></li>
+		<li class="divider"></li>
+		<li>&nbsp;Microdata:</li>
+		    <li><a href="http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FFairy%3E&amp;format=application%2Fmicrodata%2Bjson">JSON</a></li>
+		    <li><a href="http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FFairy%3E&amp;format=text%2Fhtml">HTML</a></li>
+		<li class="divider"></li>
+		<li>&nbsp;Embedded:</li>
+		    <li><a href="http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FFairy%3E&amp;format=text%2Fx-html-script-ld%2Bjson">JSON</a></li>
+		    <li><a href="http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FFairy%3E&amp;format=text%2Fx-html-script-turtle">Turtle</a></li>
+		<li class="divider"></li>
+		    
+		        <li><a href="http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FFairy%3E&amp;format=text%2Fcxml">CXML</a></li>
+		    
+		    <li><a href="http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FFairy%3E&amp;format=text%2Fcsv">CSV</a></li>
+		    <li><a href="http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FFairy%3E&amp;format=application%2Fjson-ld">JSON-LD</a></li>
+		</ul>
+	    </li>
+	    </ul>
+	</div>
+    </div>
+</div>
+
+<div class="container">
+<!-- page-header -->
+    <div class="page-header">
+	<!-- div class="pull-right">
+	    <a href="http://wiki.dbpedia.org/about" title="About DBpedia">
+	    <img class="img-responsive" src="/statics/images/dbpedia_logo_land_120.png" alt="About DBpedia"/>
+	    </a>
+	</div -->
+	<h1 id="title">About:
+	    <a href="http://dbpedia.org/resource/Fairy">Fairy</a>
+	</h1>
+	<div class="page-resource-uri">
+	    An Entity of Type : <a href="http://www.w3.org/2002/07/owl#Thing">Thing</a>,
+	    from Named Graph : <a href="http://dbpedia.org">http://dbpedia.org</a>,
+	    within Data Space : <a href="http://dbpedia.org">dbpedia.org</a>
+	</div>
+    </div>
+<!-- page-header -->
+<!-- row -->
+    <div class="row">
+	<div class="col-xs-12">
+	    <p class="lead">A fairy (also fay, fae, fair folk) is a type of mythical being or legendary creature found in the folklore of multiple European cultures (including Celtic, Slavic, German, English, and French folklore), a form of spirit, often described as metaphysical, supernatural, or preternatural. In addition to their folkloric origins, fairies were a common feature of Renaissance literature and Romantic art, and were especially popular in the United Kingdom during the Victorian and Edwardian eras. The Celtic Revival also saw fairies established as a canonical part of Celtic cultural heritage.</p>
+	</div>
+	<div class="col-xs-12">
+	    <!-- proptable -->
+	    <table class="description table table-striped">
+	    <tr>
+		<th class="col-xs-3">Property</th>
+		<th class="col-xs-9">Value</th>
+	    </tr>
+<tr class="odd"><td class="property"><a class="uri" href="http://dbpedia.org/ontology/abstract"><small>dbo:</small>abstract</a>
+</td><td><ul>
+	<li style="display:none;"><span class="literal"><span property="dbo:abstract" lang="ar">جنية  هي عبارة عن مخلوق أسطوري مذكور في التراث الشعبي العربي وبصفة العامة العالمي، وبضمنه الأوروبي. وصفت الجنيات على انها كائنات في غاية الجمال، بيضاء جدا، وفي الغالب تتواجد بالقرب من الغابات والمياه. الأساطير والقصص حول الجنيات ليس لها أصل واحد، ولكنها بالأحرى مجموعة من المعتقدات الشعبية من مصادر متباينة. في بعض الأحيان، لا ينطبق اسم الجنية إلا على مخلوقات سحرية محددة ذات مظهر بشري، وقامة صغيرة، وقوى سحرية، وميل إلى الخداع. وفي أحيان أخرى قد تم استخدامها لوصف أي مخلوق سحري، مثل العفاريت والتماثيل. وقد استخدمت الجنية في بعض الأحيان كصفة، بمعنى أنها تكون مشابه لـ &quot;السحر&quot;. قبل ظهور الطب الحديث، اتهمت الجنيات أنها مسببه للمرض، وخاصة السل. كانت للجنيات سمة مشتركة في أدب عصر النهضة والفن الرومانسي، وكان لها شعبية خاصة في المملكة المتحدة خلال العصر الفيكتوري والعصر الإدواردي.</span><small> (ar)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="dbo:abstract" lang="ca">Les fades (del llatí fata) són esperits de la naturalesa que tenen cura de mantenir l&#39;equilibri d&#39;aquesta. El seu nom en llatí significa destí, ja que les fades són una transposició de les moires gregues, unes criatures que apareixien al tercer dia del naixement d&#39;un infant per predir-ne el futur. Des del romanticisme se les representa com a noies joves amb ales. Apareixen sovint als contes populars, i sempre com a gent menuda, de gran bellesa i amb molt bon cor. Tanmateix, a l&#39;edat mitjana les pintaven com un esperit protector o, sovint, maliciós i per protegir-se d&#39;elles, la gent portava un amulet de ferro negre. Les fades vesteixen amb pètals de flors o amb teles de color blau, verd o daurat. De vegades porten una vareta màgica a la mà. Es poden tornar invisibles a voluntat i n&#39;hi ha que poden parlar com els éssers humans. Els agrada molt la música, especialment la tradicional, els seus instruments preferits són les flautes i l&#39;arpa. També els agrada molt ballar a la llum de la lluna, ho fan sovint, i les seves dances encisadores són d&#39;una gran bellesa artística. Porten una vida idíl·lica i de lleure. Acostumen a ser molt delicades, suceptibles, polides i geloses. Les fades no són dolentes del tot ni tampoc bones del tot, són tant petites que no els caben dos sentiments a la vegada. Les fades són presents a la mitologia de moltes cultures com ara la britànica, la sueca, la xinesa, l&#39;occitana, la iraniana i la catalana.</span><small> (ca)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="dbo:abstract" lang="el">Οι Νεράιδες είναι δαιμονικά, κατά κανόνα ωραία, αγαθά, ή, κατά τις περιστάσεις, βλαπτικά όντα της λαϊκής φαντασίας. Οι νεράιδες, που κλώθουν, υφαίνουν και τραγουδούν, έχουν ασυνήθεις δυνάμεις (γίνονται αόρατες, μεταμορφώνονται και μεταμορφώνουν), διευθύνουν την ανθρώπινη τύχη, την καθορίζουν μάλιστα με τις καλές ή κακές ευχές τους. Διάφορες θεωρίες προσφέρουν μία εξήγηση για την προέλευση των νεράιδων: είναι ξεπεσμένες θεές, πρωτόγονα πνεύματα της φύσης, πνεύματα των νεκρών, μυθικά πρόσωπα που προήλθαν από την ανάμνηση των αρχαίων τελετουργιών της μύησης. Παράλληλα με τις λυγερόκορμες και όμορφες νεράιδες υπάρχουν και μερικές που παρουσιάζουν τερατώδη χαρακτηριστικά, όπως σιδερένια άκρα (Γερμανία), πάρα πολύ μακριά στήθη (Σαρδηνία, Βόρεια Αφρική). Οι νεράιδες ανήκουν σε μία προφιλολογική παράδοση και η πίστη σ&#39; αυτές είναι παγκόσμια. Για τις ελληνικές νεράιδες - που επιχειρήθηκε η συσχέτισή τους με τις «νηρηίδες» της αρχαίας ελληνικής μυθολογίας, με τις οποίες υπάρχει φανερή ετυμολογική σχέση - ο Νικόλαος Γ. Πολίτης δημοσίευσε πλήθος από θαυμάσιες παραδόσεις στον πρώτο τόμο των Παραδόσεών του (1904): έχουν εξαίσια όμορφα, μακριά ξανθά μαλλιά - κάποτε πράσινα - που τα χτενίζουν με χρυσό χτένι, μάτια αμυγδαλωτά, και είναι κατά κανόνα ασπροντυμένες· ζουν σε όλα τα σημεία της φύσης, σε νεραϊδόκηπους και νεραϊδόσπηλιους, όπου απάγουν εκείνους που ερωτεύονται. Οι παραδόσεις για τις νεράιδες διατηρήθηκαν ζωντανές ως τα νεώτερα χρόνια στη μνήμη του ελληνικού λαού, όπως οι παραδόσεις των καλικαντζάρων.</span><small> (el)</small></span></li>
+	<li><span class="literal"><span property="dbo:abstract" lang="en">A fairy (also fay, fae, fair folk) is a type of mythical being or legendary creature found in the folklore of multiple European cultures (including Celtic, Slavic, German, English, and French folklore), a form of spirit, often described as metaphysical, supernatural, or preternatural. Myths and stories about fairies do not have a single origin, but are rather a collection of folk beliefs from disparate sources. Various folk theories about the origins of fairies include casting them as either demoted angels or demons in a Christian tradition, as minor deities in Pagan belief systems, as spirits of the dead, as prehistoric precursors to humans, or as elementals. The label of fairy has at times applied only to specific magical creatures with human appearance, small stature, magical powers, and a penchant for trickery. At other times it has been used to describe any magical creature, such as goblins and gnomes. Fairy has at times been used as an adjective, with a meaning equivalent to &quot;enchanted&quot; or &quot;magical&quot;. A recurring motif of legends about fairies is the need to ward off fairies using protective charms. Common examples of such charms include church bells, wearing clothing inside out, four-leaf clover, and food. Fairies were also sometimes thought to haunt specific locations, and to lead travelers astray using will-o&#39;-the-wisps. Before the advent of modern medicine, fairies were often blamed for sickness, particularly tuberculosis and birth deformities. In addition to their folkloric origins, fairies were a common feature of Renaissance literature and Romantic art, and were especially popular in the United Kingdom during the Victorian and Edwardian eras. The Celtic Revival also saw fairies established as a canonical part of Celtic cultural heritage.</span><small> (en)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="dbo:abstract" lang="eo">Feoj estas magia malgranda popolo de Eŭropaj fabeloj. Feo ordinare havas insektajn flugilojn.</span><small> (eo)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="dbo:abstract" lang="de">Feen sind nach romanischer und keltischer Volkssage geisterhafte, mit höheren Kräften begabte Fabelwesen, die sowohl weiblich als auch männlich sein können. Begriff und Name entwickelten sich aus den römischen Schicksalsgöttinnen, den Fata (vgl. Parzen), lat. Fatua, ital. Fata, span. Hada, franz. Fée. In der deutschen Poesie des Mittelalters kommen sie unter dem Namen Feien oder Feinen vor und sind mythologisch mit den sogenannten weißen Frauen und den Nornen verwandt. Im slawischen Raum sind sie als Wilen bekannt, im inselkeltischen als Sidhe.</span><small> (de)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="dbo:abstract" lang="es">Un hada (del latín fatum: hado, destino) es una criatura fantástica y sutil. Se las representa generalmente en forma de mujer hermosa y bella con alas de mariposa. Según la tradición son protectoras de la naturaleza, producto de la imaginación, la tradición o las creencias y pertenecientes a ese fabuloso mundo de los elfos, gnomos, duendes, dioses, sirenas y gigantes que da color a las leyendas y mitologías de todos los pueblos antiguos. Se puede provocar el contacto con ellas desarrollando la visión etérea según las leyendas. La mayoría de ellas se representan con alas. Se conoce de un caso en el que Sir Arthur Conan Doyle, creador de Sherlock Holmes, fue engañado por unas niñas que se fotografiaron con figuras de papel en forma de hadas, a las que el consagrado escritor atribuyó autenticidad.</span><small> (es)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="dbo:abstract" lang="eu">Maitagarria izaki mitologikoa da, gehienetan emakume eder baten gisa irudikatua, usadioaren arabera naturaren babesleak dira, siniskera, mitologia eta ohituren ondorioz sortuak. Gehienak hegalekin irudikatu ohi dira. Maitagarri-ipuinetako ohiko pertsonaia da.</span><small> (eu)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="dbo:abstract" lang="ga">Sióg a thugtar ar dhuine den lucht sí. Bíonn riocht duine ar shióga de ghnáth, cé go bhfuil difríochtaí suntasacha idir an dá chine, agus tá na cineálacha sióige éagsúil lena chéile freisin. I gcontrárthacht leis an smaoineamh nua-aimseartha Béarla, ní daoine beaga agus sciatháin orthu iad na sióga ar fad, de réir thraidisiún na hÉireann; tá cuid de na sióga, cuir i gcás na fir dhearga, níos mó ná méid duine, agus tá sióga eile, ar nós na mban sí, ar mhéid duine normálta. De réir an tseanchais, síolraíonn cuid mhaith de na sióga ó Thuatha Dé Danann, a dibríodh go dtí liosanna, ráthanna agus cnoic na hÉireann nuair a maidhmeadh orthu sa gcogadh in aghaidh Lucht Mhíl Easpáine, óna síolraíonn Gaeil an lae inniu. De réir scéalta eile, is aingil iad a thit go talamh ó na Flaithis toisc nach raibh siad sách maith chun fanacht ar neamh agus nach raibh siad sách olc chun dul go hifreann.I gceantair áirithe, ba gheis an lucht sí a lua, agus cumadh neart leasainmneacha orthu dá bharr, mar shampla &quot;na daoine maithe&quot; agus &quot;na daoine áin&quot;. Creideadh go forleathan sna sióga go dtí tús an 20ú aois san Eoraip; is beag duine a chreideann iontu sa lá atá inniú ann. Is iad seo a leanas na príomhchineálacha sióige in Éirinn: bean sí, púca, leipreachán, fear dearg, maighdean mhara, síofra.</span><small> (ga)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="dbo:abstract" lang="fr">Une fée est un être légendaire, généralement décrit comme anthropomorphe et féminin, d&#39;une grande beauté, capable de conférer des dons aux nouveau-nés, de voler dans les airs, de lancer des sorts et d&#39;influencer le futur. L&#39;idée que l&#39;Homme se fait des fées varie selon les cultures et les pays : revenantes, anges déchus, élémentaires ou même humaines, minuscules ou immenses, toutes sont étroitement liées aux forces de la nature et au concept de monde parallèle. La Befana, la Dame blanche, les sirènes, les nymphes, Morgane, Viviane et une grande variété d&#39;êtres et de créatures généralement féminines peuvent être considérés comme des « fées ». Les Anglo-Saxons utilisent le nom « fairies » pour désigner les fées, mais également toutes les petites créatures anthropomorphes du folklore païen telles que les lutins, les nains et les elfes. Issues des croyances populaires et de mythologies anciennes, de la littérature inspirée du folklore et des contes celtiques ainsi que d&#39;anciennes divinités, les fées sont une création de l&#39;Occident médiéval. Elles jouent des rôles très variés. Si certaines aident, soignent, guident des personnes ou leur fournissent des armes enchantées, d&#39;autres fées sont plus connues pour leurs « tours », leur habitude de danser en cercle et d&#39;enlever des personnes, en particulier les nouveau-nés humains qu&#39;elles remplacent par un changelin. Douées de facultés magiques, elles se déguisent et modifient l&#39;apparence de ce qui les entoure. Dès le XIIe siècle, deux grandes figures féeriques se distinguent dans la littérature d&#39;Europe de l&#39;Ouest : la fée marraine et la fée amante. Bien connues de la littérature médiévale, les fées disparaissent des récits à l&#39;arrivée de la Renaissance, pour réapparaître sous de nouvelles formes dans Le Songe d&#39;une nuit d&#39;été de William Shakespeare, et les contes merveilleux qui modifient leur taille, leur apparence et leur symbolique. Les petites fées anglo-saxonnes sont popularisées durant l&#39;époque victorienne, notamment par la peinture féerique. Les fées font toujours partie intégrante des croyances populaires dans les régions de culture celte, en Islande et dans toute la Scandinavie, où des précautions à tenir envers elles sont popularisées par le folklore. Elles restent connues des folklores allemand, français et wallon, bien que les croyances aient largement reculé au XXe siècle. De tous temps, des personnes ont affirmé voir les fées, communiquer avec elles et invoquer leur aide ; en Angleterre, l&#39;affaire des fées de Cottingley entraîne un long débat sur la réalité de leur existence. Les fées sont désormais des personnages incontournables de la littérature fantastique et fantasy et du cinéma, entre autres grâce à Walt Disney qui les a largement popularisées aux États-Unis, et à des films comme Dark Crystal. Elles intéressent des chercheurs comme Katharine Mary Briggs, des illustrateurs tels que Cicely Mary Barker, Brian Froud et Alan Lee, ainsi que des conteurs comme l&#39;elficologue Pierre Dubois à qui l&#39;on doit, en France, la redécouverte du folklore qui leur est lié.</span><small> (fr)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="dbo:abstract" lang="in">Peri adalah istilah yang sering digunakan pada cerita rakyat, dongeng, fiksi untuk menggambarkan mahluk yang memiliki kekuatan gaib yang kadang kala turut campur dalam urusan-urusan manusia. Dalam bahasa Indonesia istilah peri sering digunakan dalam penerjemahan tokoh yang menggambarkan elf atau fairy (istilah dalam bahasa Inggris) dalam cerita fiksi maupun dongeng-dongeng dari Eropa. Pada kisah fiksi modern karakter Peri sering dipinjam dari versi aslinya dan digunakan dalam kisah fiksi fantasi masa kini dengan berbagai variasi penggambaran tergantung oleh penulis atau penciptanya.</span><small> (in)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="dbo:abstract" lang="it">La fata è una creatura leggendaria, presente nelle fiabe o nei miti di origine principalmente italiana e francese, ma che trova comunque figure affini nelle mitologie dell&#39;Europa dell&#39;Est. Nell&#39;originale accezione dell&#39;Europa meridionale (senza influenze celtiche) è totalmente sovrannaturale, cioè non ha nulla di umano se non l&#39;aspetto. Il nome fata deriva dall&#39;altro nome latino delle Parche, che è Fatae, ovvero coloro che presiedono al Fato. La fata è un essere magico, una sorta di spirito della Natura.</span><small> (it)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="dbo:abstract" lang="ko">페어리(fairy 또는 faery, faerie)는 서양의 신화나 전설에 등장하는 신과 인간의 중간적인 존재의 총칭으로, 주로 한국에서는 ‘요정’으로 번역되기도 한다. 다른 신화나 전승과 마찬가지로 페어리와 관련된 신화나 전설 역시 지방이나 민족마다 인간에게 호의적인 것, 아내나 남편으로서 행동하는 것, 사람에게 장난을 치거나 속이거나 목숨을 빼앗으려고 하는 것, 장애물로서 가로막는 것, 운명을 알려주는 것 등 다양한 관련 전승이 내려오고 있다. 코팅리 요정 사건 이후부터는, 회화나 문학에 등장하는 페어리는 등에 잠자리나 나비 등 하늘을 나는 곤충의 날개를 달고 있는 작고 귀여운 인형같은 모습으로 등장하게 된다. 페어리라는 말은 라틴어의 ‘fatum(운명, 신탁)’과 그 동사형인 ‘fatare(마법을 걸다)’에서 유래한다. 페어리의 기원에 대해서는 다양한 설이 있는데, 이교의 신이나 토착신이 기독교의 전파에 의해 신격이 박탈되면서 그 형태가 바뀐 것, 사회적으로 차별이나 추방당한 사람들을 비유적으로 표현한 것, 멸족당한 옛날 민족의 기억, 죽은 자의 영혼, 타락한 천사, 아이들에게 경각심을 불러일으키기 위한 위협이나 예술 작품 안에서의 창작 등을 들 수 있다. 토마스 카이트리를 비롯한 역사가나 신화 연구자는 본래 켈트족에게는 이런 요정이 없었는데 11세기 노르만 정벌 때 그레이트브리튼 섬에 살고 있던 원주민들의 민간 전승에서 들여온 것이라고 추측하고 있다. 이는 동시에 기독교의 전파를 나타내고 있다. 그렇기 때문에 켈트족의 전승에서의 페어리는 천국에서 추방당한 천사들인데 지옥으로 떨어질 정도로 죄가 크지는 않고, 그렇다고 천국으로 되돌아갈 정도로 죄가 작지도 않기 때문에 지상에 머물고 있는 것이라고 전해진다. 이들은 지상에서 무리 지어서 살거나 혼자서만 따로 사는데, 최후의 심판 때 자신들의 운명이 어떻게 될 것인가에 대해 무척 궁금해한다고 한다. 인간의 모습을 취하고 있지 않은 페어리도 적지 않다. 여행자를 유혹한다는 빛의 정령 윌 오 위스프는 한국에서 흔히 말하는 도깨비불이다. 드래곤과 더불어 윌 오 위스프는 동화에서 주인공을 가로막는 장해나 적으로서 등장하는 경우가 많다. 가축과 친밀한 동물 모습의 페어리도 많다. 고양이는 요정적인 생물로 여겨져 마녀의 애완동물로서 자주 등장하며, 고양이 모습의 요정인 캣시라는 종류도 있다. 개의 형태를 한 요정은 아서 코난 도일의 바스카빌가의 개나 조앤 롤링의 해리포터 시리즈에서 등장한다. 일반적으로 알려진 페어리는 영원불멸의 존재로 달밤, 고요함, 음악 등을 좋아하며 철이나 햇빛, 십자가, 교회 등 신성한 존재를 싫어한다고 알려져 있다. 또한 동물의 젖, 쇠고기, 다른 생물의 생명력, 과일이나 채소 등을 식량으로 섭취한다. 또한 페어리는 장난을 무척 좋아하지만 그 이상의 나쁜 짓은 거의 하지 않는다. 그들의 가장 짓궂은 장난은 일명 ‘아이 바꿔치기(Changeling)’라는 것인데, 말 그대로 인간의 아이를 훔쳐서 그 대신 못생기고 몇천 살이나 나이 먹은 늙은 요정을 놓고 가는 것이다. 그러나 현대에 들어오면서 페어리는 인간에게 호의적이고 상냥한 성격의 생물로 여겨지게 된다.</span><small> (ko)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="dbo:abstract" lang="ja">フェアリー（英: fairy または faery）は、主に妖精と訳され西洋の神話や伝説に登場する、超自然的な存在、人間と神の中間的な存在の総称。人とも神とも違う性格と行動は、しばしば気まぐれと形容される。名前はラテン語で運命を意味する「Fata」という言葉に由来する。説によっては元々は神の使いであったといもされている。</span><small> (ja)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="dbo:abstract" lang="nl">Een fee is een mythisch wezen, algemeen omschreven als antropomorf en vrouwelijk. Het wezen is van grote schoonheid, kan geschenken brengen aan pasgeborenen, kan vliegen, toveren, wensen vervullen en heeft invloed op de toekomst. De eigenschappen van een fee verschillen per gebied en cultuur. Zo zou een fee een gevallen engel zijn, een elementaal, een spook of zelfs menselijk. Een fee is soms klein, maar in andere gevallen van normaal postuur. Ze kan een jong uiterlijk hebben, maar ook dat van een oude vrouw. Feeën zijn nauw verbonden met de krachten van de natuur en het concept van de parallelle wereld. Er is een grote verscheidenheid van (in het algemeen vrouwelijke) wezens die als fee worden beschouwd, zoals witte wieven, sirenes, nimfen, Rhiannon, Morgana, de Vrouwe van het Meer, Melusine en Befana. In veel gevallen lopen de begrippen heks en fee in elkaar over. De Angelsaksen gebruikten de term fee ook om kleine antropomorfe wezens uit de heidense folklore aan te duiden, zoals een elf, kabouter, lutin, imp of dwerg.</span><small> (nl)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="dbo:abstract" lang="pl">Wróżka – w baśniach oraz literaturze dla dzieci osoba płci żeńskiej mająca moc czynienia czarów. Wróżka jest najczęściej przedstawiana jako istota dobra i opiekuńcza, choć niekiedy może też rzucać czary szkodzące bohaterom opowieści (jak np. wróżka niezaproszona na chrzest Śpiącej Królewny).</span><small> (pl)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="dbo:abstract" lang="pt">A fada é um ser mitológico, característico dos mitos célticos e germânicos. O primeiro autor que mencionou as fadas foi Pompônio Mela, um geógrafo que viveu durante o século I d.c. As fadas não são o feminino dos elfos. Levando em conta que esse mito surgiu pelo fato de a Deusa Grian, a rainha dos elfos, e a Deusa Aine, a rainha das fadas, serem irmãs. Mas elas nunca se encontravam, Grian e Aine alternavam-se na regência do ciclo solar na Roda do Ano, trocando de lugar a cada solstício. Sendo assim elfos e fadas não tem nenhum contato direto. É usado o termo &quot;Fada&quot; tanto para fadas do sexo masculino, quanto para fadas do sexo feminino. O termo incorporou-se a cultura ocidental a partir dos assim chamados &quot;contos de fadas&quot;. Nesse tipo de história, a fada é representada de forma semelhante a versão clássica dos elfos de J.R.R. Tolkien, porém apresentando asas de libélula nas costas e utilizando-se de uma &quot;varinha de condão&quot; para realizar encantamentos. Dependendo da obra em que aparece, a fada pode ser retratada em estatura de uma mulher normal ou diminuta. No primeiro caso, temos a fada de Cinderela. Como exemplo da segunda representação podemos citar &quot;Sininho&quot;, do clássico infantil &quot;Peter Pan&quot;, de J. M. Barrie. O escritor e folclorista inglês Joseph Ritson, na sua dissertação On Fairies, definiu as fadas como uma espécie de seres parcialmente materiais, parcialmente espirituais, com o poder de mudarem a sua aparência e de, conforme a sua vontade, serem visíveis ou invisíveis para os seres humanos.</span><small> (pt)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="dbo:abstract" lang="sv">Fe (ytterst av medeltidslatinets fata, &#39;ödesgudinna&#39;) är ett särskilt i romanska folksagor förekommande övernaturligt kvinnligt väsen. Från romanska länder har de importerats till Storbritannien, där de främst förekommer i konstsagor. De bor ibland i ett mer eller mindre utomvärldsligt rike ofta kallat Faerie eller Faerieland, som till sitt ursprung är besläktat med síd eller sídhe i den keltiska mytologin. I brittisk folktro har de, såsom fairies, identifierats med diverse inhemska väsen, bland annat med alver (engelska elves). Detta eftersom begreppet fairy i äldre engelsk folkloristik används på samma vis som svenskans &quot;väsen&quot;, och alltså också kan användas för att beskriva varelser i utombrittisk eller rent av utomeuropeisk folklore. I folketymologi har man tänkt sig ordet som en förkortning av the fair folk eller dylikt; fair har emellertid samma germanska ursprung som svenskans &quot;fager&quot;. På svenska översätts orden (fée, fairy, osv.) ibland som älva; det finns dock ingen direkt historisk koppling mellan älvor och feer, utan det har att göra med en sammanblandning mellan älvor och alver, och den ovan nämnda sammanblandningen mellan alver och feer. Fairy tale betyder saga. Sir Arthur Conan Doyle har skrivit en bok som heter The coming of the Fairies. Han blev lurad av några unga flickor, sextonåriga Elsie Wright och hennes tioåriga kusin Frances Griffith, att tro att de hade tagit foton på älvor. 1983 erkände den 76-åriga Frances Griffith att bilderna var förfalskningar, se Cottingley Fairies. Om det kan man läsa i boken Vetenskap och ovetenskap av Sven Ove Hansson.</span><small> (sv)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="dbo:abstract" lang="ru">Фея (авест. парика — ведьма, фарси پری Пе́ри, фр. fee, англ. fairy — также faery, faerie, fay, fae; «маленькие люди», «хорошие люди», «прекрасные люди» и т. д.) — в кельтском и германском фольклоре — мифологическое существо метафизической природы, обладающее необъяснимыми, сверхъестественными способностями, ведущее скрытый (как коллективный, так и обособленный) образ жизни и при этом имеющее свойство вмешиваться в повседневную жизнь человека — под видом добрых намерений, нередко причиняя вред. Образ феи как изысканно-привлекательной, как правило, миниатюрной женщины, сформировался в эпоху расцвета романтизма в западной литературе и получил своё развитие в викторианскую эпоху. В широком смысле под «феями» в западноевропейском фольклоре принято подразумевать всё многообразие родственных мифологических существ, нередко кардинально отличающихся друг от друга и внешностью, и повадками; якобы дружелюбных и приносящих удачу, чаще — лукавых и мстительных, склонных к злым шуткам и похищениям — прежде всего, младенцев..</span><small> (ru)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="dbo:abstract" lang="zh">小仙子（Fairy），是西方文化裡一種傳說生物。其體型嬌小，一般長有翅膀。 在西方民间传说中，它们并非人类，但长着人类外表，且拥有超自然的能力。 它们一般被认为是作为与demon相对应的存在（fairy&amp;demon）。在最早的西方民间传说中，Fairy与demon可正可邪，然而现在普遍认为fairy一般正义，demon一般邪恶。 西方民间传说中，Fairy的概念被认为来源于Animism（万物有灵），或至少与其有关。例如，人们惧怕某些自然现象，则在民间就会有“那里住着鬼怪”的传说。 英文字的「fairy」有時也能作為對精靈、矮人、地精和哥布林等各種外形接近人或具有超自然力量的生物總稱。在這樣的情況下，「fairy」就會被翻譯成精靈。</span><small> (zh)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="dbo:abstract" lang="uk">Фе́я (фр. fée, англ. fairy, faery, faerie, fay, fae) — в кельтському та німецькому фольклорі істота метафізичної природи, яка володіє надприродними здібностями, веде таємничий спосіб життя і при цьому має властивість втручатись в повсякденне життя людини. Образ феї як мініатюрної та привабливої жінки сформувався в епоху розквіту романтизму в західній літературі і отримав свій розвиток у вікторіанську епоху. В широкому значення під феями прийнято розуміти всі споріднені міфологічні істоти, які нерідко кардинально відрізняються одна від одної.</span><small> (uk)</small></span></li>
+</ul></td></tr><tr class="even"><td class="property"><a class="uri" href="http://dbpedia.org/ontology/thumbnail"><small>dbo:</small>thumbnail</a>
+</td><td><ul>
+	<li><span class="literal"><a class="uri" rel="dbo:thumbnail" href="http://commons.wikimedia.org/wiki/Special:FilePath/SophieAndersonTakethefairfaceofWoman.jpg?width=300"><small>wiki-commons</small>:Special:FilePath/SophieAndersonTakethefairfaceofWoman.jpg?width=300</a></span></li>
+</ul></td></tr><tr class="odd"><td class="property"><a class="uri" href="http://dbpedia.org/ontology/wikiPageExternalLink"><small>dbo:</small>wikiPageExternalLink</a>
+</td><td><ul>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageExternalLink nofollow" href="http://www.anagnosis.gr/index.php%3FpageID=74&amp;la=eng">http://www.anagnosis.gr/index.php%3FpageID=74&amp;la=eng</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageExternalLink nofollow" href="https://archive.org/details/DaleGilbertJarvisOriginofFairies">https://archive.org/details/DaleGilbertJarvisOriginofFairies</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageExternalLink nofollow" href="https://archive.org/details/DaleJarvisTheHouseOnTheFairyPath">https://archive.org/details/DaleJarvisTheHouseOnTheFairyPath</a></span></li>
+</ul></td></tr><tr class="even"><td class="property"><a class="uri" href="http://dbpedia.org/ontology/wikiPageID"><small>dbo:</small>wikiPageID</a>
+</td><td><ul>
+	<li><span class="literal"><span property="dbo:wikiPageID">54317</span><small> (xsd:integer)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="property"><a class="uri" href="http://dbpedia.org/ontology/wikiPageInterLanguageLink"><small>dbo:</small>wikiPageInterLanguageLink</a>
+</td><td><ul>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageInterLanguageLink nofollow" href="http://tt.dbpedia.org/resource/Дию_пәрие">http://tt.dbpedia.org/resource/Дию_пәрие</a></span></li>
+</ul></td></tr><tr class="even"><td class="property"><a class="uri" href="http://dbpedia.org/ontology/wikiPageLength"><small>dbo:</small>wikiPageLength</a>
+</td><td><ul>
+	<li><span class="literal"><span property="dbo:wikiPageLength">50321</span><small> (xsd:integer)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="property"><a class="uri" href="http://dbpedia.org/ontology/wikiPageRevisionID"><small>dbo:</small>wikiPageRevisionID</a>
+</td><td><ul>
+	<li><span class="literal"><span property="dbo:wikiPageRevisionID">985361367</span><small> (xsd:integer)</small></span></li>
+</ul></td></tr><tr class="even"><td class="property"><a class="uri" href="http://dbpedia.org/ontology/wikiPageWikiLink"><small>dbo:</small>wikiPageWikiLink</a>
+</td><td><ul>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Magic_(supernatural)"><small>dbr</small>:Magic_(supernatural)</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/United_Kingdom"><small>dbr</small>:United_Kingdom</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/D._L._Ashliman"><small>dbr</small>:D._L._Ashliman</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Daemonologie"><small>dbr</small>:Daemonologie</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Rowan"><small>dbr</small>:Rowan</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Sculpture"><small>dbr</small>:Sculpture</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Huon_of_Bordeaux"><small>dbr</small>:Huon_of_Bordeaux</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Tuatha_Dé_Danann"><small>dbr</small>:Tuatha_Dé_Danann</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Spirit"><small>dbr</small>:Spirit</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Folk_belief"><small>dbr</small>:Folk_belief</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Demon"><small>dbr</small>:Demon</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Deva_(New_Age)"><small>dbr</small>:Deva_(New_Age)</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Disney_Fairies"><small>dbr</small>:Disney_Fairies</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Gnome"><small>dbr</small>:Gnome</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Goblin"><small>dbr</small>:Goblin</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/God"><small>dbr</small>:God</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Puritans"><small>dbr</small>:Puritans</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Rainbow_Magic"><small>dbr</small>:Rainbow_Magic</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Emain_Ablach"><small>dbr</small>:Emain_Ablach</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/King_Arthur"><small>dbr</small>:King_Arthur</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Madame_d&#39;Aulnoy"><small>dbr</small>:Madame_d&#39;Aulnoy</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Will-o&#39;-the-wisp"><small>dbr</small>:Will-o&#39;-the-wisp</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Goddess"><small>dbr</small>:Goddess</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Hag"><small>dbr</small>:Hag</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Hardtack"><small>dbr</small>:Hardtack</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Rebecca_Guay"><small>dbr</small>:Rebecca_Guay</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Sir_Gawain_and_the_Green_Knight"><small>dbr</small>:Sir_Gawain_and_the_Green_Knight</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Warwick_Goble"><small>dbr</small>:Warwick_Goble</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Herb"><small>dbr</small>:Herb</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Hobgoblin"><small>dbr</small>:Hobgoblin</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Prehistory"><small>dbr</small>:Prehistory</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Elfshot"><small>dbr</small>:Elfshot</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Yōsei"><small>dbr</small>:Yōsei</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Alan_Lee_(illustrator)"><small>dbr</small>:Alan_Lee_(illustrator)</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Alexander_Pope"><small>dbr</small>:Alexander_Pope</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Celtic_Britons"><small>dbr</small>:Celtic_Britons</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Flower_Fairies"><small>dbr</small>:Flower_Fairies</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Old_French"><small>dbr</small>:Old_French</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Diane_Purkiss"><small>dbr</small>:Diane_Purkiss</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Germanic_mythology"><small>dbr</small>:Germanic_mythology</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Giant"><small>dbr</small>:Giant</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Gingerbread"><small>dbr</small>:Gingerbread</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Ulex"><small>dbr</small>:Ulex</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Le_Morte_d&#39;Arthur"><small>dbr</small>:Le_Morte_d&#39;Arthur</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Morgan_le_Fay"><small>dbr</small>:Morgan_le_Fay</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Noun"><small>dbr</small>:Noun</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Joseph_Ritson"><small>dbr</small>:Joseph_Ritson</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/The_Little_White_Bird"><small>dbr</small>:The_Little_White_Bird</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Victorian_era"><small>dbr</small>:Victorian_era</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Euphemism"><small>dbr</small>:Euphemism</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/European_folklore"><small>dbr</small>:European_folklore</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Barefoot"><small>dbr</small>:Barefoot</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Armour"><small>dbr</small>:Armour</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Artemis_Fowl"><small>dbr</small>:Artemis_Fowl</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Little_people_(mythology)"><small>dbr</small>:Little_people_(mythology)</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Lost_Girl"><small>dbr</small>:Lost_Girl</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/French_folklore"><small>dbr</small>:French_folklore</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Knockshigowna"><small>dbr</small>:Knockshigowna</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Mag_Mell"><small>dbr</small>:Mag_Mell</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Oisín"><small>dbr</small>:Oisín</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Sir_Launfal"><small>dbr</small>:Sir_Launfal</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Calvinism"><small>dbr</small>:Calvinism</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Carnival_Row"><small>dbr</small>:Carnival_Row</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Christian_theosophy"><small>dbr</small>:Christian_theosophy</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Cicely_Mary_Barker"><small>dbr</small>:Cicely_Mary_Barker</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Geoffrey_Chaucer"><small>dbr</small>:Geoffrey_Chaucer</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Germanic_languages"><small>dbr</small>:Germanic_languages</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Germanic_peoples"><small>dbr</small>:Germanic_peoples</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/John_Atkinson_Grimshaw"><small>dbr</small>:John_Atkinson_Grimshaw</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Donas_de_fuera"><small>dbr</small>:Donas_de_fuera</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Incorporeality"><small>dbr</small>:Incorporeality</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Preternatural"><small>dbr</small>:Preternatural</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Ida_Rentoul_Outhwaite"><small>dbr</small>:Ida_Rentoul_Outhwaite</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Northern_Europe"><small>dbr</small>:Northern_Europe</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Nymph"><small>dbr</small>:Nymph</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Oberon"><small>dbr</small>:Oberon</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Peter_Pan"><small>dbr</small>:Peter_Pan</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Sir_Orfeo"><small>dbr</small>:Sir_Orfeo</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Slavic_paganism"><small>dbr</small>:Slavic_paganism</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Spriggan"><small>dbr</small>:Spriggan</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Sprite_(folklore)"><small>dbr</small>:Sprite_(folklore)</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/The_Discarded_Image"><small>dbr</small>:The_Discarded_Image</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/File:Sir_Joseph_Noel_Paton_-_The_Quarrel_of_Oberon_and_Titania_-_Google_Art_Project_2.jpg"><small>dbr</small>:File:Sir_Joseph_Noel_Paton_-_The_Quarr...nd_Titania_-_Google_Art_Project_2.jpg</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Category:Fairies"><small>dbc</small>:Fairies</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Rudyard_Kipling"><small>dbr</small>:Rudyard_Kipling</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Celtic_Revival"><small>dbr</small>:Celtic_Revival</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Celtic_mythology"><small>dbr</small>:Celtic_mythology</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Changeling"><small>dbr</small>:Changeling</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/James_Hogg"><small>dbr</small>:James_Hogg</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/John_Lydgate"><small>dbr</small>:John_Lydgate</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Lamia_(poem)"><small>dbr</small>:Lamia_(poem)</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Medicine"><small>dbr</small>:Medicine</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Ogre"><small>dbr</small>:Ogre</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Walter_Map"><small>dbr</small>:Walter_Map</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Four-leaf_clover"><small>dbr</small>:Four-leaf_clover</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Lizanne_Henderson"><small>dbr</small>:Lizanne_Henderson</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Avalon"><small>dbr</small>:Avalon</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Sophie_Gengembre_Anderson"><small>dbr</small>:Sophie_Gengembre_Anderson</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/The_Triumph_of_the_Moon"><small>dbr</small>:The_Triumph_of_the_Moon</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Dragonfly"><small>dbr</small>:Dragonfly</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Dwarf_(mythology)"><small>dbr</small>:Dwarf_(mythology)</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Edmund_Spenser"><small>dbr</small>:Edmund_Spenser</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Gaels"><small>dbr</small>:Gaels</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Gustave_Doré"><small>dbr</small>:Gustave_Doré</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Hades"><small>dbr</small>:Hades</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Aos_Sí"><small>dbr</small>:Aos_Sí</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Human"><small>dbr</small>:Human</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Hypericum_perforatum"><small>dbr</small>:Hypericum_perforatum</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Ireland"><small>dbr</small>:Ireland</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Irish_language"><small>dbr</small>:Irish_language</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Irish_mythology"><small>dbr</small>:Irish_mythology</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Irish_people"><small>dbr</small>:Irish_people</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/J._M._Barrie"><small>dbr</small>:J._M._Barrie</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/J._R._R._Tolkien"><small>dbr</small>:J._R._R._Tolkien</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/James_VI_and_I"><small>dbr</small>:James_VI_and_I</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Satyr"><small>dbr</small>:Satyr</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Scottish_people"><small>dbr</small>:Scottish_people</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Middle_English"><small>dbr</small>:Middle_English</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Senecio"><small>dbr</small>:Senecio</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Jasmine_Becket-Griffith"><small>dbr</small>:Jasmine_Becket-Griffith</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Middle_French"><small>dbr</small>:Middle_French</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/The_Spiderwick_Chronicles"><small>dbr</small>:The_Spiderwick_Chronicles</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Amulet"><small>dbr</small>:Amulet</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Andrew_Lang"><small>dbr</small>:Andrew_Lang</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Angel"><small>dbr</small>:Angel</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Anglicanism"><small>dbr</small>:Anglicanism</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Arthur_Conan_Doyle"><small>dbr</small>:Arthur_Conan_Doyle</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Arthur_Rackham"><small>dbr</small>:Arthur_Rackham</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Border_ballad"><small>dbr</small>:Border_ballad</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Orkney"><small>dbr</small>:Orkney</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Paganism"><small>dbr</small>:Paganism</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Richard_Dadd"><small>dbr</small>:Richard_Dadd</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/The_Fairly_OddParents"><small>dbr</small>:The_Fairly_OddParents</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/A_Midsummer_Night&#39;s_Dream"><small>dbr</small>:A_Midsummer_Night&#39;s_Dream</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Aberfoyle,_Stirling"><small>dbr</small>:Aberfoyle,_Stirling</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/True_Blood"><small>dbr</small>:True_Blood</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Tuberculosis"><small>dbr</small>:Tuberculosis</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Tooth_fairy"><small>dbr</small>:Tooth_fairy</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Tír_na_nÓg"><small>dbr</small>:Tír_na_nÓg</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Faerie_faith"><small>dbr</small>:Faerie_faith</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Faery_Wicca"><small>dbr</small>:Faery_Wicca</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Fairy-lock"><small>dbr</small>:Fairy-lock</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Fairy_Doors_of_Ann_Arbor"><small>dbr</small>:Fairy_Doors_of_Ann_Arbor</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Fairy_Ointment"><small>dbr</small>:Fairy_Ointment</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Fairy_fort"><small>dbr</small>:Fairy_fort</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Fairy_path"><small>dbr</small>:Fairy_path</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Florence_Harrison"><small>dbr</small>:Florence_Harrison</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/German_folklore"><small>dbr</small>:German_folklore</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/John_Anster_Fitzgerald"><small>dbr</small>:John_Anster_Fitzgerald</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Yakshini"><small>dbr</small>:Yakshini</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Category:European_legendary_creatures"><small>dbc</small>:European_legendary_creatures</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Bretons"><small>dbr</small>:Bretons</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Brian_Froud"><small>dbr</small>:Brian_Froud</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Brothers_Grimm"><small>dbr</small>:Brothers_Grimm</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Brownie_(folklore)"><small>dbr</small>:Brownie_(folklore)</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Butterfly"><small>dbr</small>:Butterfly</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/C._S._Lewis"><small>dbr</small>:C._S._Lewis</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Cornish_people"><small>dbr</small>:Cornish_people</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Cottingley_Fairies"><small>dbr</small>:Cottingley_Fairies</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/County_Wexford"><small>dbr</small>:County_Wexford</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Allan_Cunningham_(author)"><small>dbr</small>:Allan_Cunningham_(author)</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Banshee"><small>dbr</small>:Banshee</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Kylie_InGold"><small>dbr</small>:Kylie_InGold</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Lady_Isabel_and_the_Elf_Knight"><small>dbr</small>:Lady_Isabel_and_the_Elf_Knight</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Classical_mythology"><small>dbr</small>:Classical_mythology</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Classifications_of_fairies"><small>dbr</small>:Classifications_of_fairies</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Gold"><small>dbr</small>:Gold</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Peter_and_Wendy"><small>dbr</small>:Peter_and_Wendy</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Katharine_Mary_Briggs"><small>dbr</small>:Katharine_Mary_Briggs</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Nene_Thomas"><small>dbr</small>:Nene_Thomas</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Daniel_Maclise"><small>dbr</small>:Daniel_Maclise</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Paracelsus"><small>dbr</small>:Paracelsus</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Robert_Kirk_(folklorist)"><small>dbr</small>:Robert_Kirk_(folklorist)</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Romance_languages"><small>dbr</small>:Romance_languages</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Romanticism"><small>dbr</small>:Romanticism</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Ronald_Hutton"><small>dbr</small>:Ronald_Hutton</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Suza_Scalora"><small>dbr</small>:Suza_Scalora</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Vulgar_Latin"><small>dbr</small>:Vulgar_Latin</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/W._B._Yeats"><small>dbr</small>:W._B._Yeats</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Walter_Scott"><small>dbr</small>:Walter_Scott</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Renaissance_literature"><small>dbr</small>:Renaissance_literature</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/List_of_fairy_and_sprite_characters"><small>dbr</small>:List_of_fairy_and_sprite_characters</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/The_Dresden_Files"><small>dbr</small>:The_Dresden_Files</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Europe"><small>dbr</small>:Europe</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Eve"><small>dbr</small>:Eve</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Evolution"><small>dbr</small>:Evolution</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Fairy_ring"><small>dbr</small>:Fairy_ring</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Familiar"><small>dbr</small>:Familiar</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Nature"><small>dbr</small>:Nature</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Neverland"><small>dbr</small>:Neverland</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Newfoundland_and_Labrador"><small>dbr</small>:Newfoundland_and_Labrador</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Plant"><small>dbr</small>:Plant</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Supernatural_(American_TV_series)"><small>dbr</small>:Supernatural_(American_TV_series)</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Welsh_language"><small>dbr</small>:Welsh_language</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Welsh_people"><small>dbr</small>:Welsh_people</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Wild_Hunt"><small>dbr</small>:Wild_Hunt</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/William_Blake"><small>dbr</small>:William_Blake</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/William_Shakespeare"><small>dbr</small>:William_Shakespeare</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Dryad"><small>dbr</small>:Dryad</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Elemental"><small>dbr</small>:Elemental</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Fairy_Investigation_Society"><small>dbr</small>:Fairy_Investigation_Society</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Fairy_godmother"><small>dbr</small>:Fairy_godmother</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Fairy_tale"><small>dbr</small>:Fairy_tale</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Fairyland"><small>dbr</small>:Fairyland</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Fantasy"><small>dbr</small>:Fantasy</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Faun"><small>dbr</small>:Faun</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Lang&#39;s_Fairy_Books"><small>dbr</small>:Lang&#39;s_Fairy_Books</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Précieuses"><small>dbr</small>:Précieuses</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Knight-errant"><small>dbr</small>:Knight-errant</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Edwardian_era"><small>dbr</small>:Edwardian_era</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Elf"><small>dbr</small>:Elf</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Elizabethan_era"><small>dbr</small>:Elizabethan_era</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/English_folklore"><small>dbr</small>:English_folklore</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Motif-Index_of_Folk-Literature"><small>dbr</small>:Motif-Index_of_Folk-Literature</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Myth"><small>dbr</small>:Myth</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Christian_Church"><small>dbr</small>:Christian_Church</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Christian_mythology"><small>dbr</small>:Christian_mythology</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/The_Rape_of_the_Lock"><small>dbr</small>:The_Rape_of_the_Lock</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Joseph_Noel_Paton"><small>dbr</small>:Joseph_Noel_Paton</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Meredith_Dillman"><small>dbr</small>:Meredith_Dillman</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Legendary_creature"><small>dbr</small>:Legendary_creature</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/The_Chronicles_of_Narnia"><small>dbr</small>:The_Chronicles_of_Narnia</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/The_Chronicles_of_Prydain"><small>dbr</small>:The_Chronicles_of_Prydain</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/The_Faerie_Queene"><small>dbr</small>:The_Faerie_Queene</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Michael_Drayton"><small>dbr</small>:Michael_Drayton</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Manx_people"><small>dbr</small>:Manx_people</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Mary_of_Teck"><small>dbr</small>:Mary_of_Teck</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Bluebeard"><small>dbr</small>:Bluebeard</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Child_Ballads"><small>dbr</small>:Child_Ballads</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Childe_Rowland"><small>dbr</small>:Childe_Rowland</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Chivalric_romance"><small>dbr</small>:Chivalric_romance</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Thomas_the_Rhymer"><small>dbr</small>:Thomas_the_Rhymer</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Tinker_Bell"><small>dbr</small>:Tinker_Bell</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Tithe"><small>dbr</small>:Tithe</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Winx_Club"><small>dbr</small>:Winx_Club</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Peri"><small>dbr</small>:Peri</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Photograph"><small>dbr</small>:Photograph</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Pixie"><small>dbr</small>:Pixie</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Puck_(folklore)"><small>dbr</small>:Puck_(folklore)</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Puck_of_Pook&#39;s_Hill"><small>dbr</small>:Puck_of_Pook&#39;s_Hill</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Stone_Age"><small>dbr</small>:Stone_Age</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Supernatural"><small>dbr</small>:Supernatural</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Sylph"><small>dbr</small>:Sylph</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Talisman"><small>dbr</small>:Talisman</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Tam_Lin"><small>dbr</small>:Tam_Lin</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Welsh_mythology"><small>dbr</small>:Welsh_mythology</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Scottish_folklore"><small>dbr</small>:Scottish_folklore</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/File:James_I;_Daemonologie,_in_forme_of_a_dialogue._Title_page._Wellcome_M0014280.jpg"><small>dbr</small>:File:James_I;_Daemonologie,_in_forme_o...ue._Title_page._Wellcome_M0014280.jpg</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Wikt:fey"><small>dbr</small>:Wikt:fey</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/File:Fairychapeltoun.JPG"><small>dbr</small>:File:Fairychapeltoun.JPG</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/File:Falero_Luis_Ricardo_Lily_Fairy_1888.jpg"><small>dbr</small>:File:Falero_Luis_Ricardo_Lily_Fairy_1888.jpg</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/File:Johann_Heinrich_Füssli_058.jpg"><small>dbr</small>:File:Johann_Heinrich_Füssli_058.jpg</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Greta_James"><small>dbr</small>:Greta_James</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Harmonia_Saille"><small>dbr</small>:Harmonia_Saille</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Scottish_Fairy_Belief:_A_History"><small>dbr</small>:Scottish_Fairy_Belief:_A_History</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Wiktionary:revel"><small>dbr</small>:Wiktionary:revel</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Wikt:fay"><small>dbr</small>:Wikt:fay</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Cratageus_monogyna"><small>dbr</small>:Cratageus_monogyna</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/E._L._Gardner"><small>dbr</small>:E._L._Gardner</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/File:Brock_Fairy.jpg"><small>dbr</small>:File:Brock_Fairy.jpg</a></span></li>
+</ul></td></tr><tr class="odd"><td class="property"><a class="uri" href="http://dbpedia.org/property/caption"><small>dbp:</small>caption</a>
+</td><td><ul>
+	<li><span class="literal"><span property="dbp:caption" lang="en">A portrait of a fairy, by Sophie Gengembre Anderson . The title of the painting is Take the Fair Face of Woman, and Gently Suspending, With Butterflies, Flowers, and Jewels Attending, Thus Your Fairy is Made of Most Beautiful Things – purportedly from a poem by Charles Ede.</span><small> (en)</small></span></li>
+</ul></td></tr><tr class="even"><td class="property"><a class="uri" href="http://dbpedia.org/property/firstReported"><small>dbp:</small>firstReported</a>
+</td><td><ul>
+	<li><span class="literal"><span property="dbp:firstReported" lang="en">In folklore</span><small> (en)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="property"><a class="uri" href="http://dbpedia.org/property/grouping"><small>dbp:</small>grouping</a>
+</td><td><ul>
+	<li><span class="literal"><a class="uri" rel="dbp:grouping" href="http://dbpedia.org/resource/Legendary_creature"><small>dbr</small>:Legendary_creature</a></span></li>
+	<li><span class="literal"><span property="dbp:grouping" lang="en">Tuatha Dé Danann</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:grouping" lang="en">Pixie</span><small> (en)</small></span></li>
+	<li><span class="literal"><span property="dbp:grouping" lang="en">Sprite</span><small> (en)</small></span></li>
+</ul></td></tr><tr class="even"><td class="property"><a class="uri" href="http://dbpedia.org/property/name"><small>dbp:</small>name</a>
+</td><td><ul>
+	<li><span class="literal"><span property="dbp:name" lang="en">Fairy</span><small> (en)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="property"><a class="uri" href="http://dbpedia.org/property/region"><small>dbp:</small>region</a>
+</td><td><ul>
+	<li><span class="literal"><a class="uri" rel="dbp:region" href="http://dbpedia.org/resource/Europe"><small>dbr</small>:Europe</a></span></li>
+</ul></td></tr><tr class="even"><td class="property"><a class="uri" href="http://dbpedia.org/property/wikiPageUsesTemplate"><small>dbp:</small>wikiPageUsesTemplate</a>
+</td><td><ul>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" href="http://dbpedia.org/resource/Template:Citation_needed"><small>dbt</small>:Citation_needed</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" href="http://dbpedia.org/resource/Template:Clear"><small>dbt</small>:Clear</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" href="http://dbpedia.org/resource/Template:Cn"><small>dbt</small>:Cn</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" href="http://dbpedia.org/resource/Template:Commons_category_inline"><small>dbt</small>:Commons_category_inline</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" href="http://dbpedia.org/resource/Template:Div_col"><small>dbt</small>:Div_col</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" href="http://dbpedia.org/resource/Template:Div_col_end"><small>dbt</small>:Div_col_end</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" href="http://dbpedia.org/resource/Template:ISBN"><small>dbt</small>:ISBN</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" href="http://dbpedia.org/resource/Template:In_Our_Time"><small>dbt</small>:In_Our_Time</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" href="http://dbpedia.org/resource/Template:Main"><small>dbt</small>:Main</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" href="http://dbpedia.org/resource/Template:Other_uses"><small>dbt</small>:Other_uses</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" href="http://dbpedia.org/resource/Template:Pp-semi-indef"><small>dbt</small>:Pp-semi-indef</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" href="http://dbpedia.org/resource/Template:Reflist"><small>dbt</small>:Reflist</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" href="http://dbpedia.org/resource/Template:See_also"><small>dbt</small>:See_also</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" href="http://dbpedia.org/resource/Template:Short_description"><small>dbt</small>:Short_description</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" href="http://dbpedia.org/resource/Template:Wikiquote"><small>dbt</small>:Wikiquote</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" href="http://dbpedia.org/resource/Template:Infobox_mythical_creature"><small>dbt</small>:Infobox_mythical_creature</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" href="http://dbpedia.org/resource/Template:Wikt-lang"><small>dbt</small>:Wikt-lang</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" href="http://dbpedia.org/resource/Template:Wiktionary_inline"><small>dbt</small>:Wiktionary_inline</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" href="http://dbpedia.org/resource/Template:Fairies"><small>dbt</small>:Fairies</a></span></li>
+</ul></td></tr><tr class="odd"><td class="property"><a class="uri" href="http://purl.org/dc/terms/subject"><small>dct:</small>subject</a>
+</td><td><ul>
+	<li><span class="literal"><a class="uri" rel="dct:subject" href="http://dbpedia.org/resource/Category:Fairies"><small>dbc</small>:Fairies</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dct:subject" href="http://dbpedia.org/resource/Category:European_legendary_creatures"><small>dbc</small>:European_legendary_creatures</a></span></li>
+</ul></td></tr><tr class="even"><td class="property"><a class="uri" href="http://www.w3.org/1999/02/22-rdf-syntax-ns#type"><small>rdf:</small>type</a>
+</td><td><ul>
+	<li><span class="literal"><a class="uri" rel="rdf:type" href="http://www.w3.org/2002/07/owl#Thing"><small>owl</small>:Thing</a></span></li>
+</ul></td></tr><tr class="odd"><td class="property"><a class="uri" href="http://www.w3.org/2000/01/rdf-schema#comment"><small>rdfs:</small>comment</a>
+</td><td><ul>
+	<li style="display:none;"><span class="literal"><span property="rdfs:comment" lang="eo">Feoj estas magia malgranda popolo de Eŭropaj fabeloj. Feo ordinare havas insektajn flugilojn.</span><small> (eo)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="rdfs:comment" lang="de">Feen sind nach romanischer und keltischer Volkssage geisterhafte, mit höheren Kräften begabte Fabelwesen, die sowohl weiblich als auch männlich sein können. Begriff und Name entwickelten sich aus den römischen Schicksalsgöttinnen, den Fata (vgl. Parzen), lat. Fatua, ital. Fata, span. Hada, franz. Fée. In der deutschen Poesie des Mittelalters kommen sie unter dem Namen Feien oder Feinen vor und sind mythologisch mit den sogenannten weißen Frauen und den Nornen verwandt. Im slawischen Raum sind sie als Wilen bekannt, im inselkeltischen als Sidhe.</span><small> (de)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="rdfs:comment" lang="eu">Maitagarria izaki mitologikoa da, gehienetan emakume eder baten gisa irudikatua, usadioaren arabera naturaren babesleak dira, siniskera, mitologia eta ohituren ondorioz sortuak. Gehienak hegalekin irudikatu ohi dira. Maitagarri-ipuinetako ohiko pertsonaia da.</span><small> (eu)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="rdfs:comment" lang="in">Peri adalah istilah yang sering digunakan pada cerita rakyat, dongeng, fiksi untuk menggambarkan mahluk yang memiliki kekuatan gaib yang kadang kala turut campur dalam urusan-urusan manusia. Dalam bahasa Indonesia istilah peri sering digunakan dalam penerjemahan tokoh yang menggambarkan elf atau fairy (istilah dalam bahasa Inggris) dalam cerita fiksi maupun dongeng-dongeng dari Eropa. Pada kisah fiksi modern karakter Peri sering dipinjam dari versi aslinya dan digunakan dalam kisah fiksi fantasi masa kini dengan berbagai variasi penggambaran tergantung oleh penulis atau penciptanya.</span><small> (in)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="rdfs:comment" lang="it">La fata è una creatura leggendaria, presente nelle fiabe o nei miti di origine principalmente italiana e francese, ma che trova comunque figure affini nelle mitologie dell&#39;Europa dell&#39;Est. Nell&#39;originale accezione dell&#39;Europa meridionale (senza influenze celtiche) è totalmente sovrannaturale, cioè non ha nulla di umano se non l&#39;aspetto. Il nome fata deriva dall&#39;altro nome latino delle Parche, che è Fatae, ovvero coloro che presiedono al Fato. La fata è un essere magico, una sorta di spirito della Natura.</span><small> (it)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="rdfs:comment" lang="ja">フェアリー（英: fairy または faery）は、主に妖精と訳され西洋の神話や伝説に登場する、超自然的な存在、人間と神の中間的な存在の総称。人とも神とも違う性格と行動は、しばしば気まぐれと形容される。名前はラテン語で運命を意味する「Fata」という言葉に由来する。説によっては元々は神の使いであったといもされている。</span><small> (ja)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="rdfs:comment" lang="pl">Wróżka – w baśniach oraz literaturze dla dzieci osoba płci żeńskiej mająca moc czynienia czarów. Wróżka jest najczęściej przedstawiana jako istota dobra i opiekuńcza, choć niekiedy może też rzucać czary szkodzące bohaterom opowieści (jak np. wróżka niezaproszona na chrzest Śpiącej Królewny).</span><small> (pl)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="rdfs:comment" lang="zh">小仙子（Fairy），是西方文化裡一種傳說生物。其體型嬌小，一般長有翅膀。 在西方民间传说中，它们并非人类，但长着人类外表，且拥有超自然的能力。 它们一般被认为是作为与demon相对应的存在（fairy&amp;demon）。在最早的西方民间传说中，Fairy与demon可正可邪，然而现在普遍认为fairy一般正义，demon一般邪恶。 西方民间传说中，Fairy的概念被认为来源于Animism（万物有灵），或至少与其有关。例如，人们惧怕某些自然现象，则在民间就会有“那里住着鬼怪”的传说。 英文字的「fairy」有時也能作為對精靈、矮人、地精和哥布林等各種外形接近人或具有超自然力量的生物總稱。在這樣的情況下，「fairy」就會被翻譯成精靈。</span><small> (zh)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="rdfs:comment" lang="uk">Фе́я (фр. fée, англ. fairy, faery, faerie, fay, fae) — в кельтському та німецькому фольклорі істота метафізичної природи, яка володіє надприродними здібностями, веде таємничий спосіб життя і при цьому має властивість втручатись в повсякденне життя людини. Образ феї як мініатюрної та привабливої жінки сформувався в епоху розквіту романтизму в західній літературі і отримав свій розвиток у вікторіанську епоху. В широкому значення під феями прийнято розуміти всі споріднені міфологічні істоти, які нерідко кардинально відрізняються одна від одної.</span><small> (uk)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="rdfs:comment" lang="ar">جنية  هي عبارة عن مخلوق أسطوري مذكور في التراث الشعبي العربي وبصفة العامة العالمي، وبضمنه الأوروبي. وصفت الجنيات على انها كائنات في غاية الجمال، بيضاء جدا، وفي الغالب تتواجد بالقرب من الغابات والمياه. الأساطير والقصص حول الجنيات ليس لها أصل واحد، ولكنها بالأحرى مجموعة من المعتقدات الشعبية من مصادر متباينة. في بعض الأحيان، لا ينطبق اسم الجنية إلا على مخلوقات سحرية محددة ذات مظهر بشري، وقامة صغيرة، وقوى سحرية، وميل إلى الخداع. وفي أحيان أخرى قد تم استخدامها لوصف أي مخلوق سحري، مثل العفاريت والتماثيل. وقد استخدمت الجنية في بعض الأحيان كصفة، بمعنى أنها تكون مشابه لـ &quot;السحر&quot;.</span><small> (ar)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="rdfs:comment" lang="ca">Les fades (del llatí fata) són esperits de la naturalesa que tenen cura de mantenir l&#39;equilibri d&#39;aquesta. El seu nom en llatí significa destí, ja que les fades són una transposició de les moires gregues, unes criatures que apareixien al tercer dia del naixement d&#39;un infant per predir-ne el futur.</span><small> (ca)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="rdfs:comment" lang="el">Οι Νεράιδες είναι δαιμονικά, κατά κανόνα ωραία, αγαθά, ή, κατά τις περιστάσεις, βλαπτικά όντα της λαϊκής φαντασίας. Οι νεράιδες, που κλώθουν, υφαίνουν και τραγουδούν, έχουν ασυνήθεις δυνάμεις (γίνονται αόρατες, μεταμορφώνονται και μεταμορφώνουν), διευθύνουν την ανθρώπινη τύχη, την καθορίζουν μάλιστα με τις καλές ή κακές ευχές τους. Διάφορες θεωρίες προσφέρουν μία εξήγηση για την προέλευση των νεράιδων: είναι ξεπεσμένες θεές, πρωτόγονα πνεύματα της φύσης, πνεύματα των νεκρών, μυθικά πρόσωπα που προήλθαν από την ανάμνηση των αρχαίων τελετουργιών της μύησης. Παράλληλα με τις λυγερόκορμες και όμορφες νεράιδες υπάρχουν και μερικές που παρουσιάζουν τερατώδη χαρακτηριστικά, όπως σιδερένια άκρα (Γερμανία), πάρα πολύ μακριά στήθη (Σαρδηνία, Βόρεια Αφρική). Οι νεράιδες ανήκουν σε μία προφιλολογική π</span><small> (el)</small></span></li>
+	<li><span class="literal"><span property="rdfs:comment" lang="en">A fairy (also fay, fae, fair folk) is a type of mythical being or legendary creature found in the folklore of multiple European cultures (including Celtic, Slavic, German, English, and French folklore), a form of spirit, often described as metaphysical, supernatural, or preternatural. In addition to their folkloric origins, fairies were a common feature of Renaissance literature and Romantic art, and were especially popular in the United Kingdom during the Victorian and Edwardian eras. The Celtic Revival also saw fairies established as a canonical part of Celtic cultural heritage.</span><small> (en)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="rdfs:comment" lang="es">Un hada (del latín fatum: hado, destino) es una criatura fantástica y sutil. Se las representa generalmente en forma de mujer hermosa y bella con alas de mariposa. Según la tradición son protectoras de la naturaleza, producto de la imaginación, la tradición o las creencias y pertenecientes a ese fabuloso mundo de los elfos, gnomos, duendes, dioses, sirenas y gigantes que da color a las leyendas y mitologías de todos los pueblos antiguos. Se puede provocar el contacto con ellas desarrollando la visión etérea según las leyendas. La mayoría de ellas se representan con alas. Se conoce de un caso en el que Sir Arthur Conan Doyle, creador de Sherlock Holmes, fue engañado por unas niñas que se fotografiaron con figuras de papel en forma de hadas, a las que el consagrado escritor atribuyó autentic</span><small> (es)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="rdfs:comment" lang="ga">Sióg a thugtar ar dhuine den lucht sí. Bíonn riocht duine ar shióga de ghnáth, cé go bhfuil difríochtaí suntasacha idir an dá chine, agus tá na cineálacha sióige éagsúil lena chéile freisin. I gcontrárthacht leis an smaoineamh nua-aimseartha Béarla, ní daoine beaga agus sciatháin orthu iad na sióga ar fad, de réir thraidisiún na hÉireann; tá cuid de na sióga, cuir i gcás na fir dhearga, níos mó ná méid duine, agus tá sióga eile, ar nós na mban sí, ar mhéid duine normálta. De réir an tseanchais, síolraíonn cuid mhaith de na sióga ó Thuatha Dé Danann, a dibríodh go dtí liosanna, ráthanna agus cnoic na hÉireann nuair a maidhmeadh orthu sa gcogadh in aghaidh Lucht Mhíl Easpáine, óna síolraíonn Gaeil an lae inniu. De réir scéalta eile, is aingil iad a thit go talamh ó na Flaithis toisc nach rai</span><small> (ga)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="rdfs:comment" lang="fr">Une fée est un être légendaire, généralement décrit comme anthropomorphe et féminin, d&#39;une grande beauté, capable de conférer des dons aux nouveau-nés, de voler dans les airs, de lancer des sorts et d&#39;influencer le futur. L&#39;idée que l&#39;Homme se fait des fées varie selon les cultures et les pays : revenantes, anges déchus, élémentaires ou même humaines, minuscules ou immenses, toutes sont étroitement liées aux forces de la nature et au concept de monde parallèle. La Befana, la Dame blanche, les sirènes, les nymphes, Morgane, Viviane et une grande variété d&#39;êtres et de créatures généralement féminines peuvent être considérés comme des « fées ». Les Anglo-Saxons utilisent le nom « fairies » pour désigner les fées, mais également toutes les petites créatures anthropomorphes du folklore païen te</span><small> (fr)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="rdfs:comment" lang="ko">페어리(fairy 또는 faery, faerie)는 서양의 신화나 전설에 등장하는 신과 인간의 중간적인 존재의 총칭으로, 주로 한국에서는 ‘요정’으로 번역되기도 한다. 다른 신화나 전승과 마찬가지로 페어리와 관련된 신화나 전설 역시 지방이나 민족마다 인간에게 호의적인 것, 아내나 남편으로서 행동하는 것, 사람에게 장난을 치거나 속이거나 목숨을 빼앗으려고 하는 것, 장애물로서 가로막는 것, 운명을 알려주는 것 등 다양한 관련 전승이 내려오고 있다. 코팅리 요정 사건 이후부터는, 회화나 문학에 등장하는 페어리는 등에 잠자리나 나비 등 하늘을 나는 곤충의 날개를 달고 있는 작고 귀여운 인형같은 모습으로 등장하게 된다. 페어리라는 말은 라틴어의 ‘fatum(운명, 신탁)’과 그 동사형인 ‘fatare(마법을 걸다)’에서 유래한다.</span><small> (ko)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="rdfs:comment" lang="nl">Een fee is een mythisch wezen, algemeen omschreven als antropomorf en vrouwelijk. Het wezen is van grote schoonheid, kan geschenken brengen aan pasgeborenen, kan vliegen, toveren, wensen vervullen en heeft invloed op de toekomst. De Angelsaksen gebruikten de term fee ook om kleine antropomorfe wezens uit de heidense folklore aan te duiden, zoals een elf, kabouter, lutin, imp of dwerg.</span><small> (nl)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="rdfs:comment" lang="pt">A fada é um ser mitológico, característico dos mitos célticos e germânicos. O primeiro autor que mencionou as fadas foi Pompônio Mela, um geógrafo que viveu durante o século I d.c. As fadas não são o feminino dos elfos. Levando em conta que esse mito surgiu pelo fato de a Deusa Grian, a rainha dos elfos, e a Deusa Aine, a rainha das fadas, serem irmãs. Mas elas nunca se encontravam, Grian e Aine alternavam-se na regência do ciclo solar na Roda do Ano, trocando de lugar a cada solstício. Sendo assim elfos e fadas não tem nenhum contato direto. É usado o termo &quot;Fada&quot; tanto para fadas do sexo masculino, quanto para fadas do sexo feminino. O termo incorporou-se a cultura ocidental a partir dos assim chamados &quot;contos de fadas&quot;. Nesse tipo de história, a fada é representada de forma semelhante a</span><small> (pt)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="rdfs:comment" lang="ru">Фея (авест. парика — ведьма, фарси پری Пе́ри, фр. fee, англ. fairy — также faery, faerie, fay, fae; «маленькие люди», «хорошие люди», «прекрасные люди» и т. д.) — в кельтском и германском фольклоре — мифологическое существо метафизической природы, обладающее необъяснимыми, сверхъестественными способностями, ведущее скрытый (как коллективный, так и обособленный) образ жизни и при этом имеющее свойство вмешиваться в повседневную жизнь человека — под видом добрых намерений, нередко причиняя вред. Образ феи как изысканно-привлекательной, как правило, миниатюрной женщины, сформировался в эпоху расцвета романтизма в западной литературе и получил своё развитие в викторианскую эпоху. В широком смысле под «феями» в западноевропейском фольклоре принято подразумевать всё многообразие родственных мифо</span><small> (ru)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="rdfs:comment" lang="sv">Fe (ytterst av medeltidslatinets fata, &#39;ödesgudinna&#39;) är ett särskilt i romanska folksagor förekommande övernaturligt kvinnligt väsen. Från romanska länder har de importerats till Storbritannien, där de främst förekommer i konstsagor. De bor ibland i ett mer eller mindre utomvärldsligt rike ofta kallat Faerie eller Faerieland, som till sitt ursprung är besläktat med síd eller sídhe i den keltiska mytologin. I brittisk folktro har de, såsom fairies, identifierats med diverse inhemska väsen, bland annat med alver (engelska elves). Detta eftersom begreppet fairy i äldre engelsk folkloristik används på samma vis som svenskans &quot;väsen&quot;, och alltså också kan användas för att beskriva varelser i utombrittisk eller rent av utomeuropeisk folklore. I folketymologi har man tänkt sig ordet som en förko</span><small> (sv)</small></span></li>
+</ul></td></tr><tr class="even"><td class="property"><a class="uri" href="http://www.w3.org/2000/01/rdf-schema#label"><small>rdfs:</small>label</a>
+</td><td><ul>
+	<li><span class="literal"><span property="rdfs:label" lang="en">Fairy</span><small> (en)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="rdfs:label" lang="ar">جنية</span><small> (ar)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="rdfs:label" lang="ca">Fada</span><small> (ca)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="rdfs:label" lang="de">Fee</span><small> (de)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="rdfs:label" lang="el">Νεράιδες</span><small> (el)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="rdfs:label" lang="eo">Feo</span><small> (eo)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="rdfs:label" lang="es">Hada</span><small> (es)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="rdfs:label" lang="eu">Maitagarri</span><small> (eu)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="rdfs:label" lang="fr">Fée</span><small> (fr)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="rdfs:label" lang="ga">Sióg</span><small> (ga)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="rdfs:label" lang="in">Peri</span><small> (in)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="rdfs:label" lang="it">Fata</span><small> (it)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="rdfs:label" lang="ja">フェアリー</span><small> (ja)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="rdfs:label" lang="ko">페어리</span><small> (ko)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="rdfs:label" lang="nl">Fee</span><small> (nl)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="rdfs:label" lang="pl">Wróżka (literatura)</span><small> (pl)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="rdfs:label" lang="ru">Фея</span><small> (ru)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="rdfs:label" lang="pt">Fada</span><small> (pt)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="rdfs:label" lang="sv">Fe</span><small> (sv)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="rdfs:label" lang="uk">Фея</span><small> (uk)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="rdfs:label" lang="zh">小仙子</span><small> (zh)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="property"><a class="uri" href="http://www.w3.org/2000/01/rdf-schema#seeAlso"><small>rdfs:</small>seeAlso</a>
+</td><td><ul>
+	<li><span class="literal"><a class="uri" rel="rdfs:seeAlso" href="http://dbpedia.org/resource/Fairy_painting"><small>dbr</small>:Fairy_painting</a></span></li>
+</ul></td></tr><tr class="even"><td class="property"><a class="uri" href="http://www.w3.org/2002/07/owl#sameAs"><small>owl:</small>sameAs</a>
+</td><td><ul>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://rdf.freebase.com/ns/m.0f5zw"><small>freebase</small>:Fairy</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://bg.dbpedia.org/resource/Фея"><small>dbpedia-bg</small>:Fairy</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://nn.dbpedia.org/resource/Vesenet_fe"><small>dbpedia-nn</small>:Fairy</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://ro.dbpedia.org/resource/Zână"><small>dbpedia-ro</small>:Fairy</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://ka.dbpedia.org/resource/ფერია"><small>dbpedia-ka</small>:Fairy</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://simple.dbpedia.org/resource/Fairy"><small>dbpedia-simple</small>:Fairy</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://ia.dbpedia.org/resource/Fee">http://ia.dbpedia.org/resource/Fee</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://tt.dbpedia.org/resource/Пәри">http://tt.dbpedia.org/resource/Пәри</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://d-nb.info/gnd/4325485-8/about/rdf">http://d-nb.info/gnd/4325485-8/about/rdf</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://fi.dbpedia.org/resource/Keijukainen"><small>dbpedia-fi</small>:Fairy</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://vec.dbpedia.org/resource/Fada">http://vec.dbpedia.org/resource/Fada</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://lt.dbpedia.org/resource/Fėja">http://lt.dbpedia.org/resource/Fėja</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://gl.dbpedia.org/resource/Fada"><small>dbpedia-gl</small>:Fairy</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://hu.dbpedia.org/resource/Tündér"><small>dbpedia-hu</small>:Fairy</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://ur.dbpedia.org/resource/پری">http://ur.dbpedia.org/resource/پری</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://ca.dbpedia.org/resource/Fada"><small>dbpedia-ca</small>:Fairy</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://ga.dbpedia.org/resource/Sióg"><small>dbpedia-ga</small>:Fairy</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://bn.dbpedia.org/resource/পরী">http://bn.dbpedia.org/resource/পরী</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://la.dbpedia.org/resource/Fada"><small>dbpedia-la</small>:Fairy</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://it.dbpedia.org/resource/Fata"><small>dbpedia-it</small>:Fairy</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://gd.dbpedia.org/resource/Sìthiche"><small>dbpedia-gd</small>:Fairy</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://eu.dbpedia.org/resource/Maitagarri"><small>dbpedia-eu</small>:Fairy</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://hr.dbpedia.org/resource/Vila_(mitologija)"><small>dbpedia-hr</small>:Fairy</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://ms.dbpedia.org/resource/Pari-pari"><small>dbpedia-ms</small>:Fairy</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://wa.dbpedia.org/resource/Blanke_dame">http://wa.dbpedia.org/resource/Blanke_dame</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://d-nb.info/gnd/4325485-8">http://d-nb.info/gnd/4325485-8</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://pt.dbpedia.org/resource/Fada"><small>dbpedia-pt</small>:Fairy</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://id.dbpedia.org/resource/Peri"><small>dbpedia-id</small>:Fairy</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://ja.dbpedia.org/resource/フェアリー"><small>dbpedia-ja</small>:Fairy</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://ko.dbpedia.org/resource/페어리"><small>dbpedia-ko</small>:Fairy</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://be.dbpedia.org/resource/Фея"><small>dbpedia-be</small>:Fairy</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://ast.dbpedia.org/resource/Fada">http://ast.dbpedia.org/resource/Fada</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://ky.dbpedia.org/resource/Пери">http://ky.dbpedia.org/resource/Пери</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://tr.dbpedia.org/resource/Peri"><small>dbpedia-tr</small>:Fairy</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://es.dbpedia.org/resource/Hada"><small>dbpedia-es</small>:Fairy</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://no.dbpedia.org/resource/Fe_(eventyr)"><small>dbpedia-no</small>:Fairy</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://pl.dbpedia.org/resource/Wróżka_(literatura)"><small>dbpedia-pl</small>:Fairy</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://oc.dbpedia.org/resource/Hada"><small>dbpedia-oc</small>:Fairy</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://www.wikidata.org/entity/Q8028"><small>wikidata</small>:Fairy</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://az.dbpedia.org/resource/Pəri"><small>dbpedia-az</small>:Fairy</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://fa.dbpedia.org/resource/فری"><small>dbpedia-fa</small>:Fairy</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://hy.dbpedia.org/resource/Փերի">http://hy.dbpedia.org/resource/Փերի</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://bar.dbpedia.org/resource/Fee"><small>dbpedia-bar</small>:Fairy</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="https://global.dbpedia.org/id/4xw31">https://global.dbpedia.org/id/4xw31</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://nl.dbpedia.org/resource/Fee"><small>dbpedia-nl</small>:Fairy</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://uk.dbpedia.org/resource/Фея"><small>dbpedia-uk</small>:Fairy</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://sh.dbpedia.org/resource/Vila_(mitologija)"><small>dbpedia-sh</small>:Fairy</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://de.dbpedia.org/resource/Fee"><small>dbpedia-de</small>:Fairy</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://sl.dbpedia.org/resource/Vila_(mitološko_bitje)"><small>dbpedia-sl</small>:Fairy</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://ru.dbpedia.org/resource/Фея"><small>dbpedia-ru</small>:Fairy</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://ar.dbpedia.org/resource/جنية"><small>dbpedia-ar</small>:Fairy</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://sr.dbpedia.org/resource/Вила_(митологија)"><small>dbpedia-sr</small>:Fairy</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://sco.dbpedia.org/resource/Fairy">http://sco.dbpedia.org/resource/Fairy</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://et.dbpedia.org/resource/Haldjas"><small>dbpedia-et</small>:Fairy</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://fr.dbpedia.org/resource/Fée"><small>dbpedia-fr</small>:Fairy</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://he.dbpedia.org/resource/פיה_(פנטזיה)"><small>dbpedia-he</small>:Fairy</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://zh.dbpedia.org/resource/小仙子"><small>dbpedia-zh</small>:Fairy</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://fy.dbpedia.org/resource/Fee_(mytysk_wêzen)"><small>dbpedia-fy</small>:Fairy</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://eo.dbpedia.org/resource/Feo"><small>dbpedia-eo</small>:Fairy</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://sv.dbpedia.org/resource/Fe"><small>dbpedia-sv</small>:Fairy</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://el.dbpedia.org/resource/Νεράιδες"><small>dbpedia-el</small>:Fairy</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://mk.dbpedia.org/resource/Самовила"><small>dbpedia-mk</small>:Fairy</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://vi.dbpedia.org/resource/Tiên_nữ"><small>dbpedia-vi</small>:Fairy</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://io.dbpedia.org/resource/Feo"><small>dbpedia-io</small>:Fairy</a></span></li>
+</ul></td></tr><tr class="odd"><td class="property"><a class="uri" href="http://www.w3.org/ns/prov#wasDerivedFrom"><small>prov:</small>wasDerivedFrom</a>
+</td><td><ul>
+	<li><span class="literal"><a class="uri" rel="prov:wasDerivedFrom" href="http://en.wikipedia.org/wiki/Fairy?oldid=985361367&amp;ns=0"><small>wikipedia-en</small>:Fairy?oldid=985361367&amp;ns=0</a></span></li>
+</ul></td></tr><tr class="even"><td class="property"><a class="uri" href="http://xmlns.com/foaf/0.1/depiction"><small>foaf:</small>depiction</a>
+</td><td><ul>
+	<li><span class="literal"><a class="uri" rel="foaf:depiction" href="http://commons.wikimedia.org/wiki/Special:FilePath/SophieAndersonTakethefairfaceofWoman.jpg"><small>wiki-commons</small>:Special:FilePath/SophieAndersonTakethefairfaceofWoman.jpg</a></span></li>
+</ul></td></tr><tr class="odd"><td class="property"><a class="uri" href="http://xmlns.com/foaf/0.1/isPrimaryTopicOf"><small>foaf:</small>isPrimaryTopicOf</a>
+</td><td><ul>
+	<li><span class="literal"><a class="uri" rel="foaf:isPrimaryTopicOf" href="http://en.wikipedia.org/wiki/Fairy"><small>wikipedia-en</small>:Fairy</a></span></li>
+</ul></td></tr><tr class="even"><td class="property">is <a class="uri" href="http://dbpedia.org/ontology/nonFictionSubject"><small>dbo:</small>nonFictionSubject</a>
+ of</td><td><ul>
+	<li><span class="literal"><a class="uri" rev="dbo:nonFictionSubject" href="http://dbpedia.org/resource/Lords_and_Ladies_(novel)"><small>dbr</small>:Lords_and_Ladies_(novel)</a></span></li>
+</ul></td></tr><tr class="odd"><td class="property">is <a class="uri" href="http://dbpedia.org/ontology/species"><small>dbo:</small>species</a>
+ of</td><td><ul>
+	<li><span class="literal"><a class="uri" rev="dbo:species" href="http://dbpedia.org/resource/Maleficent"><small>dbr</small>:Maleficent</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:species" href="http://dbpedia.org/resource/Alena_(Encantadia)"><small>dbr</small>:Alena_(Encantadia)</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:species" href="http://dbpedia.org/resource/Princess_Ozma"><small>dbr</small>:Princess_Ozma</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:species" href="http://dbpedia.org/resource/Sookie_Stackhouse"><small>dbr</small>:Sookie_Stackhouse</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:species" href="http://dbpedia.org/resource/Amihan_(Encantadia)"><small>dbr</small>:Amihan_(Encantadia)</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:species" href="http://dbpedia.org/resource/Fairy_with_Turquoise_Hair"><small>dbr</small>:Fairy_with_Turquoise_Hair</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:species" href="http://dbpedia.org/resource/Danaya"><small>dbr</small>:Danaya</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:species" href="http://dbpedia.org/resource/Polychrome_(Oz)"><small>dbr</small>:Polychrome_(Oz)</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:species" href="http://dbpedia.org/resource/Pirena"><small>dbr</small>:Pirena</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:species" href="http://dbpedia.org/resource/Fairy_Godmother_(Shrek)"><small>dbr</small>:Fairy_Godmother_(Shrek)</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:species" href="http://dbpedia.org/resource/Flora,_Fauna_and_Merryweather"><small>dbr</small>:Flora,_Fauna_and_Merryweather</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:species" href="http://dbpedia.org/resource/Tinker_Bell"><small>dbr</small>:Tinker_Bell</a></span></li>
+</ul></td></tr><tr class="even"><td class="property">is <a class="uri" href="http://dbpedia.org/ontology/wikiPageDisambiguates"><small>dbo:</small>wikiPageDisambiguates</a>
+ of</td><td><ul>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageDisambiguates" href="http://dbpedia.org/resource/FAE"><small>dbr</small>:FAE</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageDisambiguates" href="http://dbpedia.org/resource/Fairy_(disambiguation)"><small>dbr</small>:Fairy_(disambiguation)</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageDisambiguates" href="http://dbpedia.org/resource/Fary"><small>dbr</small>:Fary</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageDisambiguates" href="http://dbpedia.org/resource/Fay_(disambiguation)"><small>dbr</small>:Fay_(disambiguation)</a></span></li>
+</ul></td></tr><tr class="odd"><td class="property">is <a class="uri" href="http://dbpedia.org/ontology/wikiPageRedirects"><small>dbo:</small>wikiPageRedirects</a>
+ of</td><td><ul>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageRedirects" href="http://dbpedia.org/resource/Fairie"><small>dbr</small>:Fairie</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageRedirects" href="http://dbpedia.org/resource/Fairies_in_Theosophy"><small>dbr</small>:Fairies_in_Theosophy</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageRedirects" href="http://dbpedia.org/resource/Fairy_faith"><small>dbr</small>:Fairy_faith</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageRedirects" href="http://dbpedia.org/resource/Fairy_folk"><small>dbr</small>:Fairy_folk</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageRedirects" href="http://dbpedia.org/resource/Fairy_magic"><small>dbr</small>:Fairy_magic</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageRedirects" href="http://dbpedia.org/resource/Fairys"><small>dbr</small>:Fairys</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageRedirects" href="http://dbpedia.org/resource/Fairywinkle"><small>dbr</small>:Fairywinkle</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageRedirects" href="http://dbpedia.org/resource/Farie"><small>dbr</small>:Farie</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageRedirects" href="http://dbpedia.org/resource/Faries"><small>dbr</small>:Faries</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageRedirects" href="http://dbpedia.org/resource/Fay"><small>dbr</small>:Fay</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageRedirects" href="http://dbpedia.org/resource/Fayrye"><small>dbr</small>:Fayrye</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageRedirects" href="http://dbpedia.org/resource/Feary"><small>dbr</small>:Feary</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageRedirects" href="http://dbpedia.org/resource/Atomie"><small>dbr</small>:Atomie</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageRedirects" href="http://dbpedia.org/resource/Atomy_(fae)"><small>dbr</small>:Atomy_(fae)</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageRedirects" href="http://dbpedia.org/resource/Atomy_(faerie)"><small>dbr</small>:Atomy_(faerie)</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageRedirects" href="http://dbpedia.org/resource/Atomy_(faery)"><small>dbr</small>:Atomy_(faery)</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageRedirects" href="http://dbpedia.org/resource/Atomy_(fairy)"><small>dbr</small>:Atomy_(fairy)</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageRedirects" href="http://dbpedia.org/resource/Atomy_(fay)"><small>dbr</small>:Atomy_(fay)</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageRedirects" href="http://dbpedia.org/resource/Atomy_(mythology)"><small>dbr</small>:Atomy_(mythology)</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageRedirects" href="http://dbpedia.org/resource/Fae_folk"><small>dbr</small>:Fae_folk</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageRedirects" href="http://dbpedia.org/resource/Faerie_information"><small>dbr</small>:Faerie_information</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageRedirects" href="http://dbpedia.org/resource/Faeries"><small>dbr</small>:Faeries</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageRedirects" href="http://dbpedia.org/resource/Atomies"><small>dbr</small>:Atomies</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageRedirects" href="http://dbpedia.org/resource/Faery"><small>dbr</small>:Faery</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageRedirects" href="http://dbpedia.org/resource/Fair_Folk"><small>dbr</small>:Fair_Folk</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageRedirects" href="http://dbpedia.org/resource/Fair_folk"><small>dbr</small>:Fair_folk</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageRedirects" href="http://dbpedia.org/resource/Fairies"><small>dbr</small>:Fairies</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageRedirects" href="http://dbpedia.org/resource/Atomy"><small>dbr</small>:Atomy</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageRedirects" href="http://dbpedia.org/resource/Sleagh_Maith"><small>dbr</small>:Sleagh_Maith</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageRedirects" href="http://dbpedia.org/resource/Færie"><small>dbr</small>:Færie</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageRedirects" href="http://dbpedia.org/resource/Færies"><small>dbr</small>:Færies</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageRedirects" href="http://dbpedia.org/resource/Good_Folk"><small>dbr</small>:Good_Folk</a></span></li>
+</ul></td></tr><tr class="even"><td class="property">is <a class="uri" href="http://dbpedia.org/ontology/wikiPageWikiLink"><small>dbo:</small>wikiPageWikiLink</a>
+ of</td><td><ul>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/1920_Calgary_municipal_election"><small>dbr</small>:1920_Calgary_municipal_election</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/978"><small>dbr</small>:978</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/ACME_Comics_&amp;_Collectibles"><small>dbr</small>:ACME_Comics_&amp;_Collectibles</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Love_Profusion"><small>dbr</small>:Love_Profusion</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Magic_Knight_Rayearth"><small>dbr</small>:Magic_Knight_Rayearth</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Magical_creatures_in_Harry_Potter"><small>dbr</small>:Magical_creatures_in_Harry_Potter</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Maleficent"><small>dbr</small>:Maleficent</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Maleficent_(film)"><small>dbr</small>:Maleficent_(film)</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Caroline_Crachami"><small>dbr</small>:Caroline_Crachami</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Carrigaphooca_Castle"><small>dbr</small>:Carrigaphooca_Castle</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Cat_sìth"><small>dbr</small>:Cat_sìth</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Catalan_myths_and_legends"><small>dbr</small>:Catalan_myths_and_legends</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Cormac_mac_Airt"><small>dbr</small>:Cormac_mac_Airt</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Unavowed"><small>dbr</small>:Unavowed</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Vale_Park,_New_Brighton"><small>dbr</small>:Vale_Park,_New_Brighton</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Culture_of_Sussex"><small>dbr</small>:Culture_of_Sussex</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Cunning_Folk_and_Familiar_Spirits"><small>dbr</small>:Cunning_Folk_and_Familiar_Spirits</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Cunning_folk_in_Britain"><small>dbr</small>:Cunning_folk_in_Britain</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Cupcake"><small>dbr</small>:Cupcake</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Daemonologie"><small>dbr</small>:Daemonologie</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Rowan"><small>dbr</small>:Rowan</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Spring-heeled_Jack"><small>dbr</small>:Spring-heeled_Jack</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/The_Merry_Wives_of_Windsor"><small>dbr</small>:The_Merry_Wives_of_Windsor</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Leshy"><small>dbr</small>:Leshy</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/List_of_Chaotic_characters"><small>dbr</small>:List_of_Chaotic_characters</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/List_of_Darkstalkers_characters"><small>dbr</small>:List_of_Darkstalkers_characters</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/List_of_Gargoyles_characters"><small>dbr</small>:List_of_Gargoyles_characters</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Recurring_Saturday_Night_Live_characters_and_sketches_introduced_2010–11"><small>dbr</small>:Recurring_Saturday_Night_Live_characters_and_sketches_introduced_2010–11</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/The_Bridei_Chronicles"><small>dbr</small>:The_Bridei_Chronicles</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Tom_Bombadil"><small>dbr</small>:Tom_Bombadil</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Universe_of_The_Legend_of_Zelda"><small>dbr</small>:Universe_of_The_Legend_of_Zelda</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Eilistraee"><small>dbr</small>:Eilistraee</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Sea_witch"><small>dbr</small>:Sea_witch</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Speculative_fiction"><small>dbr</small>:Speculative_fiction</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Spirit"><small>dbr</small>:Spirit</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Forest_of_Burzee"><small>dbr</small>:Forest_of_Burzee</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Fortunée"><small>dbr</small>:Fortunée</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Merry_Gentry_(series)"><small>dbr</small>:Merry_Gentry_(series)</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Reduplicated_plural"><small>dbr</small>:Reduplicated_plural</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/The_Fairy&#39;s_Dilemma"><small>dbr</small>:The_Fairy&#39;s_Dilemma</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Weaveworld"><small>dbr</small>:Weaveworld</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Irshi"><small>dbr</small>:Irshi</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Nelebel&#39;s_Fairyland"><small>dbr</small>:Nelebel&#39;s_Fairyland</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Nicnevin"><small>dbr</small>:Nicnevin</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/The_Children&#39;s_Book"><small>dbr</small>:The_Children&#39;s_Book</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Soon_I_Will_Be_Invincible"><small>dbr</small>:Soon_I_Will_Be_Invincible</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Halfling"><small>dbr</small>:Halfling</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Halloween_costume"><small>dbr</small>:Halloween_costume</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Haltija"><small>dbr</small>:Haltija</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Sagramore"><small>dbr</small>:Sagramore</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Satanism_and_Witchcraft_(book)"><small>dbr</small>:Satanism_and_Witchcraft_(book)</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Karin_Svensdotter"><small>dbr</small>:Karin_Svensdotter</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/May_Day"><small>dbr</small>:May_Day</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Scottish_Folk_Tales"><small>dbr</small>:Scottish_Folk_Tales</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/The_Stolen_Child"><small>dbr</small>:The_Stolen_Child</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/The_Benevolent_Frog"><small>dbr</small>:The_Benevolent_Frog</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/The_White_Doe"><small>dbr</small>:The_White_Doe</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/The_Pitcher_Shower"><small>dbr</small>:The_Pitcher_Shower</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/The_Tree_of_Swords_and_Jewels"><small>dbr</small>:The_Tree_of_Swords_and_Jewels</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/The_Two_Princesses_of_Bamarre"><small>dbr</small>:The_Two_Princesses_of_Bamarre</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Tylwyth_Teg"><small>dbr</small>:Tylwyth_Teg</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Mobile_phone_games_of_the_Breath_of_Fire_series"><small>dbr</small>:Mobile_phone_games_of_the_Breath_of_Fire_series</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Monaciello"><small>dbr</small>:Monaciello</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Norse_mythology_in_popular_culture"><small>dbr</small>:Norse_mythology_in_popular_culture</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/The_Entertainment_at_Althorp"><small>dbr</small>:The_Entertainment_at_Althorp</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/The_Golden_Branch"><small>dbr</small>:The_Golden_Branch</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/The_Secret_World_of_Og"><small>dbr</small>:The_Secret_World_of_Og</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Tree-topper"><small>dbr</small>:Tree-topper</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Watercolor_Fairies"><small>dbr</small>:Watercolor_Fairies</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Photographic_manipulation"><small>dbr</small>:Photographic_manipulation</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Fairie"><small>dbr</small>:Fairie</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Fairies_in_Theosophy"><small>dbr</small>:Fairies_in_Theosophy</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Fairy_faith"><small>dbr</small>:Fairy_faith</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Fairy_folk"><small>dbr</small>:Fairy_folk</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Fairy_magic"><small>dbr</small>:Fairy_magic</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Fairys"><small>dbr</small>:Fairys</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Fairywinkle"><small>dbr</small>:Fairywinkle</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Farie"><small>dbr</small>:Farie</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Faries"><small>dbr</small>:Faries</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Fay"><small>dbr</small>:Fay</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Fayrye"><small>dbr</small>:Fayrye</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Feary"><small>dbr</small>:Feary</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Bisexuality"><small>dbr</small>:Bisexuality</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Bishōjo_game"><small>dbr</small>:Bishōjo_game</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Black-and-white_dualism"><small>dbr</small>:Black-and-white_dualism</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Black_Cherry_(Koda_Kumi_album)"><small>dbr</small>:Black_Cherry_(Koda_Kumi_album)</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Bondage_Fairies"><small>dbr</small>:Bondage_Fairies</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Book_of_Imaginary_Beings"><small>dbr</small>:Book_of_Imaginary_Beings</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Borgue,_Dumfries_and_Galloway"><small>dbr</small>:Borgue,_Dumfries_and_Galloway</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Borrisokane"><small>dbr</small>:Borrisokane</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Borve,_Skye"><small>dbr</small>:Borve,_Skye</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Breath_of_Fire_III"><small>dbr</small>:Breath_of_Fire_III</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/A_Caress_of_Twilight"><small>dbr</small>:A_Caress_of_Twilight</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/A_Fada_Oriana"><small>dbr</small>:A_Fada_Oriana</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/A_Kidnapped_Santa_Claus"><small>dbr</small>:A_Kidnapped_Santa_Claus</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/A_Kiss_of_Shadows"><small>dbr</small>:A_Kiss_of_Shadows</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/A_Midsummer_Night&#39;s_Dream_(Seiji_Ozawa_recording)"><small>dbr</small>:A_Midsummer_Night&#39;s_Dream_(Seiji_Ozawa_recording)</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/A_Stroke_of_Midnight"><small>dbr</small>:A_Stroke_of_Midnight</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Abbacadabra"><small>dbr</small>:Abbacadabra</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Demetri_Martin"><small>dbr</small>:Demetri_Martin</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Denji_Sentai_Megaranger"><small>dbr</small>:Denji_Sentai_Megaranger</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Deva_(New_Age)"><small>dbr</small>:Deva_(New_Age)</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Diana_(mythology)"><small>dbr</small>:Diana_(mythology)</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Discworld_(world)"><small>dbr</small>:Discworld_(world)</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Disenchantment_(TV_series)"><small>dbr</small>:Disenchantment_(TV_series)</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Disney_Fairies"><small>dbr</small>:Disney_Fairies</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Divljana_Monastery"><small>dbr</small>:Divljana_Monastery</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Glaslyn"><small>dbr</small>:Glaslyn</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Glastonbury_Tor"><small>dbr</small>:Glastonbury_Tor</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Gnome"><small>dbr</small>:Gnome</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Goblin"><small>dbr</small>:Goblin</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/God_of_Gamblers_III:_Back_to_Shanghai"><small>dbr</small>:God_of_Gamblers_III:_Back_to_Shanghai</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Green"><small>dbr</small>:Green</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Grizzly_Tales_for_Gruesome_Kids"><small>dbr</small>:Grizzly_Tales_for_Gruesome_Kids</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Guernsey"><small>dbr</small>:Guernsey</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Guinevere_Jones"><small>dbr</small>:Guinevere_Jones</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Kerli"><small>dbr</small>:Kerli</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Khushbu_Sundar"><small>dbr</small>:Khushbu_Sundar</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Kidd_Video"><small>dbr</small>:Kidd_Video</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/King_of_Kings_(1988_video_game)"><small>dbr</small>:King_of_Kings_(1988_video_game)</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Kisa_the_Cat"><small>dbr</small>:Kisa_the_Cat</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Kojin_Jugyō"><small>dbr</small>:Kojin_Jugyō</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Princess_Gwenevere_and_the_Jewel_Riders"><small>dbr</small>:Princess_Gwenevere_and_the_Jewel_Riders</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Princess_Nicotine;_or,_The_Smoke_Fairy"><small>dbr</small>:Princess_Nicotine;_or,_The_Smoke_Fairy</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Puck_(moon)"><small>dbr</small>:Puck_(moon)</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Puppeteer_(video_game)"><small>dbr</small>:Puppeteer_(video_game)</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Puss_in_Boots_(1961_film)"><small>dbr</small>:Puss_in_Boots_(1961_film)</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Queen_(band)"><small>dbr</small>:Queen_(band)</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Queen_of_Elphame"><small>dbr</small>:Queen_of_Elphame</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Queer"><small>dbr</small>:Queer</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Rachel_Newton"><small>dbr</small>:Rachel_Newton</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Radical_Faeries"><small>dbr</small>:Radical_Faeries</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Raiden_(video_game)"><small>dbr</small>:Raiden_(video_game)</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Rainbow_Magic"><small>dbr</small>:Rainbow_Magic</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Rainbow_Ruby"><small>dbr</small>:Rainbow_Ruby</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Halloween"><small>dbr</small>:Halloween</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/List_of_Digimon_Fusion_characters"><small>dbr</small>:List_of_Digimon_Fusion_characters</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Moirai"><small>dbr</small>:Moirai</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Đerzelez_Alija"><small>dbr</small>:Đerzelez_Alija</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Deciduous_teeth"><small>dbr</small>:Deciduous_teeth</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Ealdwood_Stories"><small>dbr</small>:Ealdwood_Stories</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Elf_(Middle-earth)"><small>dbr</small>:Elf_(Middle-earth)</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Encantadia"><small>dbr</small>:Encantadia</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Giritli_Ali_Aziz_Efendi"><small>dbr</small>:Giritli_Ali_Aziz_Efendi</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/List_of_The_Sandman_characters"><small>dbr</small>:List_of_The_Sandman_characters</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Transpersonal_anthropology"><small>dbr</small>:Transpersonal_anthropology</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Âu_Cơ"><small>dbr</small>:Âu_Cơ</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Folk_healer"><small>dbr</small>:Folk_healer</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Good_People"><small>dbr</small>:Good_People</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Green_Knight"><small>dbr</small>:Green_Knight</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Gwyn_ap_Nudd"><small>dbr</small>:Gwyn_ap_Nudd</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Hag"><small>dbr</small>:Hag</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Heer_Halewijn"><small>dbr</small>:Heer_Halewijn</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Hoi_polloi"><small>dbr</small>:Hoi_polloi</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/List_of_Once_Upon_a_Time_recurring_characters"><small>dbr</small>:List_of_Once_Upon_a_Time_recurring_characters</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Sir_Gawain_and_the_Green_Knight"><small>dbr</small>:Sir_Gawain_and_the_Green_Knight</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Gingalain"><small>dbr</small>:Gingalain</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Hobgoblin"><small>dbr</small>:Hobgoblin</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Hollows_(series)"><small>dbr</small>:Hollows_(series)</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Imp"><small>dbr</small>:Imp</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Ingeborg_i_Mjärhult"><small>dbr</small>:Ingeborg_i_Mjärhult</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Interstitial_art"><small>dbr</small>:Interstitial_art</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Iolanthe"><small>dbr</small>:Iolanthe</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Elemental_Masters"><small>dbr</small>:Elemental_Masters</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Eleonora_Säfström"><small>dbr</small>:Eleonora_Säfström</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Elfin_Oak"><small>dbr</small>:Elfin_Oak</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Ella_Enchanted"><small>dbr</small>:Ella_Enchanted</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Mythic_humanoids"><small>dbr</small>:Mythic_humanoids</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/The_Twilight_of_the_Grey_Gods"><small>dbr</small>:The_Twilight_of_the_Grey_Gods</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Yōsei"><small>dbr</small>:Yōsei</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Lutin"><small>dbr</small>:Lutin</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/MI-13_(comics)"><small>dbr</small>:MI-13_(comics)</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Madonna_videography"><small>dbr</small>:Madonna_videography</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Magical_Circle_Guru_Guru"><small>dbr</small>:Magical_Circle_Guru_Guru</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Odiljenje_sigetsko"><small>dbr</small>:Odiljenje_sigetsko</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/The_Monster_Bed"><small>dbr</small>:The_Monster_Bed</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Wish_tree"><small>dbr</small>:Wish_tree</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Sebile"><small>dbr</small>:Sebile</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Atomie"><small>dbr</small>:Atomie</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Atomy_(fae)"><small>dbr</small>:Atomy_(fae)</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Atomy_(faerie)"><small>dbr</small>:Atomy_(faerie)</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Atomy_(faery)"><small>dbr</small>:Atomy_(faery)</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Atomy_(fairy)"><small>dbr</small>:Atomy_(fairy)</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Atomy_(fay)"><small>dbr</small>:Atomy_(fay)</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Atomy_(mythology)"><small>dbr</small>:Atomy_(mythology)</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Ala_(demon)"><small>dbr</small>:Ala_(demon)</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Alan_Lee_(illustrator)"><small>dbr</small>:Alan_Lee_(illustrator)</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Alexa_Bliss"><small>dbr</small>:Alexa_Bliss</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Alice_in_Chains_(album)"><small>dbr</small>:Alice_in_Chains_(album)</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Allison_Gross"><small>dbr</small>:Allison_Gross</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Alp_(folklore)"><small>dbr</small>:Alp_(folklore)</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Cath_Palug"><small>dbr</small>:Cath_Palug</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Celia_(Spanish_TV_series)"><small>dbr</small>:Celia_(Spanish_TV_series)</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Cerrie_Burnell"><small>dbr</small>:Cerrie_Burnell</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Changeling:_The_Lost"><small>dbr</small>:Changeling:_The_Lost</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Changeling_(film)"><small>dbr</small>:Changeling_(film)</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Chanson_de_geste"><small>dbr</small>:Chanson_de_geste</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Characters_of_Final_Fantasy_X_and_X-2"><small>dbr</small>:Characters_of_Final_Fantasy_X_and_X-2</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Characters_of_The_Legend_of_Zelda"><small>dbr</small>:Characters_of_The_Legend_of_Zelda</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Charlie_Chalk"><small>dbr</small>:Charlie_Chalk</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Cheshire_Crossing"><small>dbr</small>:Cheshire_Crossing</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Chicagoland_Vampires"><small>dbr</small>:Chicagoland_Vampires</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Final_Fantasy_XIV:_Shadowbringers"><small>dbr</small>:Final_Fantasy_XIV:_Shadowbringers</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/First_Unitarian_Church_(Cincinnati,_Ohio)"><small>dbr</small>:First_Unitarian_Church_(Cincinnati,_Ohio)</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Flint_the_Time_Detective"><small>dbr</small>:Flint_the_Time_Detective</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Flower_Fairies"><small>dbr</small>:Flower_Fairies</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Folklore_of_Romania"><small>dbr</small>:Folklore_of_Romania</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Nomy_Lamm"><small>dbr</small>:Nomy_Lamm</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Nonestica"><small>dbr</small>:Nonestica</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Noonbory_and_the_Super_Seven"><small>dbr</small>:Noonbory_and_the_Super_Seven</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Núi_Cốc_Lake"><small>dbr</small>:Núi_Cốc_Lake</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/O._R._Melling"><small>dbr</small>:O._R._Melling</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Off_the_Page"><small>dbr</small>:Off_the_Page</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Old_Colwyn"><small>dbr</small>:Old_Colwyn</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Charnwood_Forest"><small>dbr</small>:Charnwood_Forest</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Chepi"><small>dbr</small>:Chepi</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Deverry_Cycle"><small>dbr</small>:Deverry_Cycle</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Diamonds_and_Toads"><small>dbr</small>:Diamonds_and_Toads</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Die_(comic)"><small>dbr</small>:Die_(comic)</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Die_Blümelein_sie_schlafen"><small>dbr</small>:Die_Blümelein_sie_schlafen</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Gallathea"><small>dbr</small>:Gallathea</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Gandharva"><small>dbr</small>:Gandharva</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Garrett_P.I."><small>dbr</small>:Garrett_P.I.</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Gavin_O&#39;Keefe"><small>dbr</small>:Gavin_O&#39;Keefe</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Gawain"><small>dbr</small>:Gawain</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Jinn"><small>dbr</small>:Jinn</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Library_of_Congress_Classification:Class_G_--_Geography._Anthropology._Recreation"><small>dbr</small>:Library_of_Congress_Classification:Cla...-_Geography._Anthropology._Recreation</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/List_of_Touhou_Project_characters"><small>dbr</small>:List_of_Touhou_Project_characters</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Lord_Reay"><small>dbr</small>:Lord_Reay</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Merry_Gentry"><small>dbr</small>:Merry_Gentry</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Earthdawn"><small>dbr</small>:Earthdawn</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Le_Morte_d&#39;Arthur"><small>dbr</small>:Le_Morte_d&#39;Arthur</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Mimi_(folklore)"><small>dbr</small>:Mimi_(folklore)</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Mistral&#39;s_Kiss"><small>dbr</small>:Mistral&#39;s_Kiss</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Morgaine_le_Fey_(DC_Comics)"><small>dbr</small>:Morgaine_le_Fey_(DC_Comics)</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Morgan_le_Fay"><small>dbr</small>:Morgan_le_Fay</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Ms._Mystic"><small>dbr</small>:Ms._Mystic</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Mythopoeia"><small>dbr</small>:Mythopoeia</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Obernewtyn_Chronicles"><small>dbr</small>:Obernewtyn_Chronicles</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Red_Skye_Comics"><small>dbr</small>:Red_Skye_Comics</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/The_Little_White_Bird"><small>dbr</small>:The_Little_White_Bird</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/The_White_Cat_(fairy_tale)"><small>dbr</small>:The_White_Cat_(fairy_tale)</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/The_Wild_Swans"><small>dbr</small>:The_Wild_Swans</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Uttarakuru"><small>dbr</small>:Uttarakuru</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Vila_(fairy)"><small>dbr</small>:Vila_(fairy)</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Walter_Evans-Wentz"><small>dbr</small>:Walter_Evans-Wentz</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/White_Lady"><small>dbr</small>:White_Lady</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Widdershins_(novel)"><small>dbr</small>:Widdershins_(novel)</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Ywain"><small>dbr</small>:Ywain</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Fulad-zereh"><small>dbr</small>:Fulad-zereh</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/The_Dreamstone_(novel)"><small>dbr</small>:The_Dreamstone_(novel)</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/The_Moorchild"><small>dbr</small>:The_Moorchild</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Fae_folk"><small>dbr</small>:Fae_folk</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Xak_II:_Rising_of_the_Redmoon"><small>dbr</small>:Xak_II:_Rising_of_the_Redmoon</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/-stan"><small>dbr</small>:-stan</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/1895"><small>dbr</small>:1895</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/1895_in_Ireland"><small>dbr</small>:1895_in_Ireland</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Axe_Cop_(TV_series)"><small>dbr</small>:Axe_Cop_(TV_series)</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/BBC_Television_Shakespeare"><small>dbr</small>:BBC_Television_Shakespeare</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Bailey_Noble"><small>dbr</small>:Bailey_Noble</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Barbie:_Fairytopia"><small>dbr</small>:Barbie:_Fairytopia</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Barbie_Dreamhouse_Adventures"><small>dbr</small>:Barbie_Dreamhouse_Adventures</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Barbie_in_the_Nutcracker"><small>dbr</small>:Barbie_in_the_Nutcracker</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Bargain_Buys"><small>dbr</small>:Bargain_Buys</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Beauty_and_the_Beast"><small>dbr</small>:Beauty_and_the_Beast</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/List_of_The_Amazing_World_of_Gumball_characters"><small>dbr</small>:List_of_The_Amazing_World_of_Gumball_characters</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/List_of_The_Backyardigans_episodes"><small>dbr</small>:List_of_The_Backyardigans_episodes</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/List_of_The_Last_Podcast_on_the_Left_episodes"><small>dbr</small>:List_of_The_Last_Podcast_on_the_Left_episodes</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/List_of_The_Seven_Deadly_Sins_characters"><small>dbr</small>:List_of_The_Seven_Deadly_Sins_characters</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/List_of_awards_and_nominations_received_by_Once_Upon_a_Time"><small>dbr</small>:List_of_awards_and_nominations_received_by_Once_Upon_a_Time</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/List_of_children&#39;s_films"><small>dbr</small>:List_of_children&#39;s_films</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/List_of_fictional_tricksters"><small>dbr</small>:List_of_fictional_tricksters</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/List_of_hybrid_creatures_in_folklore"><small>dbr</small>:List_of_hybrid_creatures_in_folklore</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/List_of_legendary_creatures_by_type"><small>dbr</small>:List_of_legendary_creatures_by_type</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/List_of_mythological_objects"><small>dbr</small>:List_of_mythological_objects</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/List_of_urban_fantasy_novels"><small>dbr</small>:List_of_urban_fantasy_novels</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/List_of_words_ending_in_ology"><small>dbr</small>:List_of_words_ending_in_ology</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Loch_Lomond"><small>dbr</small>:Loch_Lomond</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Lord_Chancellor"><small>dbr</small>:Lord_Chancellor</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Lore_(podcast)"><small>dbr</small>:Lore_(podcast)</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Lost_Girl"><small>dbr</small>:Lost_Girl</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Lost_Girl_(season_1)"><small>dbr</small>:Lost_Girl_(season_1)</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Dancing_Fairies"><small>dbr</small>:Dancing_Fairies</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Deliria"><small>dbr</small>:Deliria</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Deliverance:_Stormlord_II"><small>dbr</small>:Deliverance:_Stormlord_II</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Demetrius_(A_Midsummer_Night&#39;s_Dream)"><small>dbr</small>:Demetrius_(A_Midsummer_Night&#39;s_Dream)</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Erlkönig_(Goethe)"><small>dbr</small>:Erlkönig_(Goethe)</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/French_folklore"><small>dbr</small>:French_folklore</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Knockshigowna"><small>dbr</small>:Knockshigowna</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Menninkäinen"><small>dbr</small>:Menninkäinen</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Narrative_of_the_abduction_phenomenon"><small>dbr</small>:Narrative_of_the_abduction_phenomenon</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Jack,_the_Giant_Killer_(novel)"><small>dbr</small>:Jack,_the_Giant_Killer_(novel)</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Oisín"><small>dbr</small>:Oisín</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Seduced_by_Moonlight"><small>dbr</small>:Seduced_by_Moonlight</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Maeterlinck&#39;s_Blue_Bird:_Tyltyl_and_Mytyl&#39;s_Adventurous_Journey"><small>dbr</small>:Maeterlinck&#39;s_Blue_Bird:_Tyltyl_and_Mytyl&#39;s_Adventurous_Journey</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/The_High_Deeds_of_Finn_MacCool"><small>dbr</small>:The_High_Deeds_of_Finn_MacCool</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Keeping_It_Real_(novel)"><small>dbr</small>:Keeping_It_Real_(novel)</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Music_of_Montserrat"><small>dbr</small>:Music_of_Montserrat</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/War_for_the_Oaks"><small>dbr</small>:War_for_the_Oaks</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Marie_de_France"><small>dbr</small>:Marie_de_France</a></span></li>
+</ul></td></tr><tr class="odd"><td class="property">is <a class="uri" href="http://dbpedia.org/property/grouping"><small>dbp:</small>grouping</a>
+ of</td><td><ul>
+	<li><span class="literal"><a class="uri" rev="dbp:grouping" href="http://dbpedia.org/resource/Haltija"><small>dbr</small>:Haltija</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbp:grouping" href="http://dbpedia.org/resource/Leprechaun"><small>dbr</small>:Leprechaun</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbp:grouping" href="http://dbpedia.org/resource/Kobold"><small>dbr</small>:Kobold</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbp:grouping" href="http://dbpedia.org/resource/Chuhaister"><small>dbr</small>:Chuhaister</a></span></li>
+</ul></td></tr><tr class="even"><td class="property">is <a class="uri" href="http://dbpedia.org/property/note"><small>dbp:</small>note</a>
+ of</td><td><ul>
+	<li><span class="literal"><a class="uri" rev="dbp:note" href="http://dbpedia.org/resource/Nestvarne_stvari"><small>dbr</small>:Nestvarne_stvari</a></span></li>
+</ul></td></tr><tr class="odd"><td class="property">is <a class="uri" href="http://dbpedia.org/property/similarCreatures"><small>dbp:</small>similarCreatures</a>
+ of</td><td><ul>
+	<li><span class="literal"><a class="uri" rev="dbp:similarCreatures" href="http://dbpedia.org/resource/Huldufólk"><small>dbr</small>:Huldufólk</a></span></li>
+</ul></td></tr><tr class="even"><td class="property">is <a class="uri" href="http://dbpedia.org/property/species"><small>dbp:</small>species</a>
+ of</td><td><ul>
+	<li><span class="literal"><a class="uri" rev="dbp:species" href="http://dbpedia.org/resource/Maleficent"><small>dbr</small>:Maleficent</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbp:species" href="http://dbpedia.org/resource/Fairy_with_Turquoise_Hair"><small>dbr</small>:Fairy_with_Turquoise_Hair</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbp:species" href="http://dbpedia.org/resource/Polychrome_(Oz)"><small>dbr</small>:Polychrome_(Oz)</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbp:species" href="http://dbpedia.org/resource/Fairy_Godmother_(Shrek)"><small>dbr</small>:Fairy_Godmother_(Shrek)</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbp:species" href="http://dbpedia.org/resource/Flora,_Fauna_and_Merryweather"><small>dbr</small>:Flora,_Fauna_and_Merryweather</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbp:species" href="http://dbpedia.org/resource/Gwystyl"><small>dbr</small>:Gwystyl</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbp:species" href="http://dbpedia.org/resource/Tinker_Bell"><small>dbr</small>:Tinker_Bell</a></span></li>
+</ul></td></tr><tr class="odd"><td class="property">is <a class="uri" href="http://dbpedia.org/property/subGrouping"><small>dbp:</small>subGrouping</a>
+ of</td><td><ul>
+	<li><span class="literal"><a class="uri" rev="dbp:subGrouping" href="http://dbpedia.org/resource/Cat_sìth"><small>dbr</small>:Cat_sìth</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbp:subGrouping" href="http://dbpedia.org/resource/Brownie_(folklore)"><small>dbr</small>:Brownie_(folklore)</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbp:subGrouping" href="http://dbpedia.org/resource/Groac&#39;h"><small>dbr</small>:Groac&#39;h</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbp:subGrouping" href="http://dbpedia.org/resource/Patupaiarehe"><small>dbr</small>:Patupaiarehe</a></span></li>
+</ul></td></tr><tr class="even"><td class="property">is <a class="uri" href="http://xmlns.com/foaf/0.1/primaryTopic"><small>foaf:</small>primaryTopic</a>
+ of</td><td><ul>
+	<li><span class="literal"><a class="uri" rev="foaf:primaryTopic" href="http://en.wikipedia.org/wiki/Fairy"><small>wikipedia-en</small>:Fairy</a></span></li>
+</ul></td></tr>
+      </table>
+    </div>
+<!-- row  -->
+</div>
+</div>
+<!-- footer -->
+<div class="footer">
+    <div class="container">
+	<a href="https://virtuoso.openlinksw.com" title="OpenLink Virtuoso"><img class="powered_by" src="/statics/images/virt_power_no_border.png" alt="Powered by OpenLink Virtuoso"/></a>&nbsp; &nbsp;
+	<a href="http://linkeddata.org/"><img alt="This material is Open Knowledge" src="/statics/images/LoDLogo.gif"/></a> &nbsp; &nbsp;
+	<a href="http://dbpedia.org/sparql"><img alt="W3C Semantic Web Technology" src="/statics/images/sw-sparql-blue.png"/></a> &nbsp;  &nbsp;
+	<a href="https://opendefinition.org/"><img alt="This material is Open Knowledge" src="/statics/images/od_80x15_red_green.png"/></a>&nbsp; &nbsp;
+	<span style="display:none;" about=""
+	    resource="http://www.w3.org/TR/rdfa-syntax"
+	    rel="dc:conformsTo">
+	    <a href="https://validator.w3.org/check?uri=referer">
+		<img src="https://www.w3.org/Icons/valid-xhtml-rdfa" alt="Valid XHTML + RDFa" height="27px" />
+	    </a>
+	</span>
+	<br />
+	<div class="text-muted">
+	    This content was extracted from <a href="http://en.wikipedia.org/wiki/Fairy">Wikipedia</a> and is licensed under the <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike 3.0 Unported License</a>
+
+	</div>
+    </div>
+</div>
+<!-- #footer -->
+<!--#content-->
+    <!--script type="text/javascript">
+     Place any Javascript code e.g. Google Analytics scripts
+    </script-->
+    
+    <script type="text/javascript" src="/statics/js/jquery.min.js"></script>
+    <script type="text/javascript" src="/statics/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="/statics/js/dbpedia.js"></script>
+</body>
+</html>

@@ -1,0 +1,40 @@
+
+
+
+
+    
+
+    
+    
+
+    <http://identi.ca/user/7788> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Agent>  ;
+<http://xmlns.com/foaf/0.1/account> <http://identi.ca/user/7788#acct>   .<http://identi.ca/user/7788#acct> <http://rdfs.org/sioc/ns#account_of> <http://identi.ca/user/7788>  ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/OnlineAccount>  ;
+<http://xmlns.com/foaf/0.1/accountName> "gregkh"  ;
+<http://xmlns.com/foaf/0.1/accountProfilePage> <http://identi.ca/gregkh>   .<http://status.samnoble.org/user/54> <http://purl.org/vocab/bio/0.1/olb> "Just another news feed."  ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Agent>  ;
+<http://xmlns.com/foaf/0.1/account> <http://status.samnoble.org/user/54#acct>  ;
+<http://xmlns.com/foaf/0.1/homepage> <http://planet.thepromisedlan.org>  ;
+<http://xmlns.com/foaf/0.1/img> <https://status.samnoble.org/avatar/54-136-20100329152857.png>  ;
+<http://xmlns.com/foaf/0.1/name> "planet Via feed2omb"  ;
+<http://xmlns.com/foaf/0.1/weblog> <http://status.samnoble.org/planet>   .<http://status.samnoble.org/user/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Agent>  ;
+<http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://status.samnoble.org/sam/foaf>  ;
+<http://xmlns.com/foaf/0.1/account> <http://status.samnoble.org/user/1#acct>   .<http://status.samnoble.org/user/1#acct> <http://rdfs.org/sioc/ns#account_of> <http://status.samnoble.org/user/1>  ;
+<http://rdfs.org/sioc/ns#follows> <http://status.samnoble.org/user/54#acct>  ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/OnlineAccount>  ;
+<http://xmlns.com/foaf/0.1/accountName> "sam"  ;
+<http://xmlns.com/foaf/0.1/accountProfilePage> <http://status.samnoble.org/sam>  ;
+<http://xmlns.com/foaf/0.1/accountServiceHomepage> <http://status.samnoble.org/>   .<http://status.samnoble.org/user/54#acct> <http://rdfs.org/sioc/ns#account_of> <http://status.samnoble.org/user/54>  ;
+<http://rdfs.org/sioc/ns#follows> <http://identi.ca/user/7788#acct>  ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/OnlineAccount>  ;
+<http://xmlns.com/foaf/0.1/accountName> "planet"  ;
+<http://xmlns.com/foaf/0.1/accountProfilePage> <http://status.samnoble.org/planet>  ;
+<http://xmlns.com/foaf/0.1/accountServiceHomepage> <http://status.samnoble.org/>   .<https://status.samnoble.org/avatar/54-136-20100329152857.png> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Image>  ;
+<http://xmlns.com/foaf/0.1/thumbnail> <https://status.samnoble.org/avatar/54-24-20100329152857.png> ,<https://status.samnoble.org/avatar/54-48-20100329152857.png> ,<https://status.samnoble.org/avatar/54-96-20100329152857.png>   .<https://status.samnoble.org/avatar/54-24-20100329152857.png> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Image>   .<https://status.samnoble.org/avatar/54-48-20100329152857.png> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Image>   .<https://status.samnoble.org/avatar/54-96-20100329152857.png> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Image>   .<https://status.samnoble.org/planet/foaf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/PersonalProfileDocument>  ;
+<http://xmlns.com/foaf/0.1/maker> <http://status.samnoble.org/user/54>  ;
+<http://xmlns.com/foaf/0.1/primaryTopic> <http://status.samnoble.org/user/54>   .<https://status.samnoble.org/sam/foaf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/PersonalProfileDocument>  ;
+<http://xmlns.com/foaf/0.1/maker> <http://status.samnoble.org/user/1>  ;
+<http://xmlns.com/foaf/0.1/primaryTopic> <http://status.samnoble.org/user/1>   .
+
+
+

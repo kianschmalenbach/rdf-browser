@@ -1,0 +1,681 @@
+<!DOCTYPE html>
+<html
+    prefix="
+        dbp: http://dbpedia.org/property/
+        dbo: http://dbedia.org/ontology/
+        dct: http://purl.org/dc/terms/
+	"
+    lang="en"
+>
+
+
+<!-- header -->
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <title>About: Ettlingen</title>
+    <link rel="alternate" type="application/rdf+xml" 		href="http://dbpedia.org/data/Ettlingen.rdf" title="Structured Descriptor Document (RDF/XML format)" />
+    <link rel="alternate" type="text/n3" 			href="http://dbpedia.org/data/Ettlingen.n3" title="Structured Descriptor Document (N3 format)" />
+    <link rel="alternate" type="text/turtle" 			href="http://dbpedia.org/data/Ettlingen.ttl" title="Structured Descriptor Document (Turtle format)" />
+    <link rel="alternate" type="application/json+rdf" 		href="http://dbpedia.org/data/Ettlingen.jrdf" title="Structured Descriptor Document (RDF/JSON format)" />
+    <link rel="alternate" type="application/json" 		href="http://dbpedia.org/data/Ettlingen.json" title="Structured Descriptor Document (RDF/JSON format)" />
+    <link rel="alternate" type="application/atom+xml" 		href="http://dbpedia.org/data/Ettlingen.atom" title="OData (Atom+Feed format)" />
+    <link rel="alternate" type="text/plain" 			href="http://dbpedia.org/data/Ettlingen.ntriples" title="Structured Descriptor Document (N-Triples format)" />
+    <link rel="alternate" type="text/csv"   			href="http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FEttlingen%3E&amp;format=text%2Fcsv" title="Structured Descriptor Document (CSV format)" />
+    
+    <link rel="alternate" type="text/cxml"  			href="http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FEttlingen%3E&amp;format=text%2Fcxml" title="Structured Descriptor Document (CXML format)" />
+    
+    <link rel="alternate" type="application/microdata+json"	href="http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FEttlingen%3E&amp;format=application%2Fmicrodata%2Bjson" title="Structured Descriptor Document (Microdata/JSON format)" />
+    <link rel="alternate" type="text/html" 			href="http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FEttlingen%3E&amp;format=text%2Fhtml" title="Structured Descriptor Document (Microdata/HTML format)" />
+    <link rel="alternate" type="application/ld+json" 		href="http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FEttlingen%3E&amp;format=application%2Fjson-ld" title="Structured Descriptor Document (JSON-LD format)" />
+    <link rel="alternate" type="text/x-html-script-ld+json"	href="http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FEttlingen%3E&amp;format=text%2Fx-html-script-ld%2Bjson" title="Structured Descriptor Document (HTML with embedded JSON-LD)" />
+    <link rel="alternate" type="text/x-html-script-turtle"	href="http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FEttlingen%3E&amp;format=text%2Fx-html-script-turtle" title="Structured Descriptor Document (HTML with embedded Turtle)" />
+    <link rel="timegate" type="text/html" 			href="http://dbpedia.mementodepot.org/timegate/http://dbpedia.org/page/Ettlingen" title="Time Machine" />
+    <link rel="foaf:primarytopic" 				href="http://dbpedia.org/resource/Ettlingen"/>
+    <link rev="describedby" 					href="http://dbpedia.org/resource/Ettlingen"/>
+    <link rel="stylesheet" type="text/css"			href="/statics/css/bootstrap.min.css" />
+    <link rel="stylesheet" type="text/css" 			href="/statics/css/dbpedia.css" />
+</head>
+<body about="http://dbpedia.org/resource/Ettlingen">
+<div class="navbar navbar-default navbar-fixed-top">
+    <div class="container">
+	<div class="navbar-header">
+	    <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#dbp-navbar" aria-expanded="false">
+		<span class="sr-only">Toggle navigation</span>
+		<span class="icon-bar"></span>
+		<span class="icon-bar"></span>
+		<span class="icon-bar"></span>
+	    </button>
+	    <a class="navbar-brand" href="http://wiki.dbpedia.org/about" title="About DBpedia" style="color: #2c5078">
+	    <img class="img-responsive" src="/statics/images/dbpedia_logo_land_120.png" alt="About DBpedia" style="display: inline-block;  margin-top: -12px"/>
+	    </a>
+	</div>
+
+	<div class="collapse navbar-collapse" id="dbp-navbar">
+	    <ul class="nav navbar-nav navbar-right">
+		<li><a class="active" href="/fct/" title="Switch to /fct endpoint"><span class="glyphicon glyphicon-new-window" aria-hidden="true"></span> Faceted Browser </a></li>
+		<li><a class="active" href="/sparql/" title="Switch to /sparql endpoint"><span class="glyphicon glyphicon-new-window" aria-hidden="true"></span> Sparql Endpoint </a></li>
+	    </ul>
+	    <ul class="nav navbar-nav">
+	    <li class="dropdown">
+		<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span class="glyphicon glyphicon-eye-open" aria-hidden="true"></span> Browse using <span class="caret"></span></a>
+		<ul class="dropdown-menu">
+		<li><a href="/describe/?uri=http%3A%2F%2Fdbpedia.org%2Fresource%2FEttlingen">OpenLink Faceted Browser</a></li>
+		<li><a href="http://linkeddata.uriburner.com/rdf-editor/#/editor?uri=http%3A%2F%2Fdbpedia.org%2Fresource%2FEttlingen&amp;view=statements">OpenLink Structured Data Editor</a></li>
+		<li><a href="http://en.lodlive.it/?http%3A%2F%2Fdbpedia.org%2Fresource%2FEttlingen">LodLive Browser</a></li>
+		<li><a href="http://lodmilla.sztaki.hu/lodmilla/?url=http%3A%2F%2Fdbpedia.org%2Fresource%2FEttlingen">LODmilla Browser</a></li>
+		</ul>
+	    </li>
+	    <li class="dropdown">
+		<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span class="glyphicon glyphicon-file" aria-hidden="true"></span> Formats <span class="caret"></span></a>
+		<ul class="dropdown-menu">
+		<li>&nbsp;RDF:</li>
+		    <li><a href="http://dbpedia.org/data/Ettlingen.ntriples">N-Triples</a></li>
+		    <li><a href="http://dbpedia.org/data/Ettlingen.n3">N3</a></li>
+		    <li><a href="http://dbpedia.org/data/Ettlingen.ttl">Turtle</a></li>
+		    <li><a href="http://dbpedia.org/data/Ettlingen.json">JSON</a></li>
+		    <li><a href="http://dbpedia.org/data/Ettlingen.rdf">XML</a></li>
+		<li class="divider"></li>
+		<li>&nbsp;OData:</li>
+		    <li><a href="http://dbpedia.org/data/Ettlingen.atom">Atom</a></li>
+		    <li><a href="http://dbpedia.org/data/Ettlingen.jsod">JSON</a></li>
+		<li class="divider"></li>
+		<li>&nbsp;Microdata:</li>
+		    <li><a href="http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FEttlingen%3E&amp;format=application%2Fmicrodata%2Bjson">JSON</a></li>
+		    <li><a href="http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FEttlingen%3E&amp;format=text%2Fhtml">HTML</a></li>
+		<li class="divider"></li>
+		<li>&nbsp;Embedded:</li>
+		    <li><a href="http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FEttlingen%3E&amp;format=text%2Fx-html-script-ld%2Bjson">JSON</a></li>
+		    <li><a href="http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FEttlingen%3E&amp;format=text%2Fx-html-script-turtle">Turtle</a></li>
+		<li class="divider"></li>
+		    
+		        <li><a href="http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FEttlingen%3E&amp;format=text%2Fcxml">CXML</a></li>
+		    
+		    <li><a href="http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FEttlingen%3E&amp;format=text%2Fcsv">CSV</a></li>
+		    <li><a href="http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FEttlingen%3E&amp;format=application%2Fjson-ld">JSON-LD</a></li>
+		</ul>
+	    </li>
+	    </ul>
+	</div>
+    </div>
+</div>
+
+<div class="container">
+<!-- page-header -->
+    <div class="page-header">
+	<!-- div class="pull-right">
+	    <a href="http://wiki.dbpedia.org/about" title="About DBpedia">
+	    <img class="img-responsive" src="/statics/images/dbpedia_logo_land_120.png" alt="About DBpedia"/>
+	    </a>
+	</div -->
+	<h1 id="title">About:
+	    <a href="http://dbpedia.org/resource/Ettlingen">Ettlingen</a>
+	</h1>
+	<div class="page-resource-uri">
+	    An Entity of Type : <a href="http://dbpedia.org/ontology/Location">Location</a>,
+	    from Named Graph : <a href="http://dbpedia.org">http://dbpedia.org</a>,
+	    within Data Space : <a href="http://dbpedia.org">dbpedia.org</a>
+	</div>
+    </div>
+<!-- page-header -->
+<!-- row -->
+    <div class="row">
+	<div class="col-xs-12">
+	    <p class="lead">Ettlingen is a town in Baden-Württemberg, Germany, about 8 kilometres (5.0 mi) south of the city of Karlsruhe and approximately 15 kilometres (9.3 mi) from the border with Lauterbourg, in France's Bas-Rhin department. Ettlingen is the second largest town in the district of Karlsruhe, after Bruchsal.</p>
+	</div>
+	<div class="col-xs-12">
+	    <!-- proptable -->
+	    <table class="description table table-striped">
+	    <tr>
+		<th class="col-xs-3">Property</th>
+		<th class="col-xs-9">Value</th>
+	    </tr>
+<tr class="odd"><td class="property"><a class="uri" href="http://dbpedia.org/ontology/PopulatedPlace/areaTotal"><small>dbo:</small>PopulatedPlace/areaTotal</a>
+</td><td><ul>
+	<li><span class="literal"><span property="ns0:areaTotal" prefix="ns0: http://dbpedia.org/ontology/PopulatedPlace/">56.74</span></span></li>
+</ul></td></tr><tr class="even"><td class="property"><a class="uri" href="http://dbpedia.org/ontology/abstract"><small>dbo:</small>abstract</a>
+</td><td><ul>
+	<li style="display:none;"><span class="literal"><span property="dbo:abstract" lang="ar">اتلينغن (بالألمانية: Ettlingen) هي ، مدينة و بلدة ألمانية تقع في ألمانيا في . يقدر عدد سكانها بـ 48,875 نسمة .</span><small> (ar)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="dbo:abstract" lang="cs">Ettlingen je velké okresní město v německé spolkové zemi Bádensko-Württembersko. Leží asi 8 km jižně od města Karlsruhe na severním okraji Černého lesa. Po Bruchsalu je Ettlingen druhým největším městem v okrese Karlsruhe. Ettlingen byl důležitou křižovatkou v době Starověkého Říma. To je doloženo mnoha artefakty nalezenými v oblasti. Město je poprvé zmiňováno v roce 788 jako Ediningom v oznámení z kláštera ve  v Alsasku. V roce 965 přijala vesnice Ettlingen (Ediningom)  od císaře Oty I. Velikého. V roce 1192 byl Ettlingen povýšen na město císařem Jindřichem VI.</span><small> (cs)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="dbo:abstract" lang="eo">Ettlingen estas komunumo en Germanio. Ĝi troviĝas en la distrikto Karlsruhe de la federacia lando Baden-Virtembergo. La 31-an de decembro 2005 la komunumo havis 39026 loĝantojn.</span><small> (eo)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="dbo:abstract" lang="de">Ettlingen () ist eine Stadt südlich von Karlsruhe in Baden-Württemberg. Sie ist nach Bruchsal die zweitgrößte Stadt des Landkreises Karlsruhe und ein Mittelzentrum für die umliegenden Gemeinden. Seit 1. Januar 1966 ist Ettlingen eine Große Kreisstadt.</span><small> (de)</small></span></li>
+	<li><span class="literal"><span property="dbo:abstract" lang="en">Ettlingen is a town in Baden-Württemberg, Germany, about 8 kilometres (5.0 mi) south of the city of Karlsruhe and approximately 15 kilometres (9.3 mi) from the border with Lauterbourg, in France&#39;s Bas-Rhin department. Ettlingen is the second largest town in the district of Karlsruhe, after Bruchsal.</span><small> (en)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="dbo:abstract" lang="es">Ettlingen es una ciudad alemana situada al sur de Karlsruhe, en Baden-Wurtemberg. Es la segunda ciudad más grande, tras Bruchsal, del distrito de Karlsruhe.</span><small> (es)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="dbo:abstract" lang="fr">Ettlingen est une ville d&#39;Allemagne, située au sud de Karlsruhe, dans le Bade-Wurtemberg, au pied de la Forêt-Noire du nord. Elle est la deuxième plus grande ville du district de Karlsruhe (derrière Bruchsal).</span><small> (fr)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="dbo:abstract" lang="it">Ettlingen è un comune tedesco di 38.731 abitanti, situato nel land del Baden-Württemberg. Dalla città di Ettlingen proviene la famiglia di origine ebraica degli Ottolenghi (diffusa in Piemonte e Lombardia), fuggita in Italia in seguito alle espulsioni avvenute tra il XV e il XVI secolo.</span><small> (it)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="dbo:abstract" lang="nl">Ettlingen is een Große Kreisstadt in de Duitse deelstaat Baden-Württemberg, gelegen in het Landkreis Karlsruhe. De stad telt 38.819 inwoners.</span><small> (nl)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="dbo:abstract" lang="pl">Ettlingen – miasto w Niemczech, w kraju związkowym Badenia-Wirtembergia, w rejencji Karlsruhe, w regionie Mittlerer Oberrhein, w powiecie Karlsruhe. Leży u podnóża Schwarzwaldu, nad rzeką Alb, na południe od Karlsruhe, na wysokości 132 m n.p.m.. Liczy 38 553 mieszkańców (31.12.2010), na powierzchni 56,74 km².</span><small> (pl)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="dbo:abstract" lang="pt">Ettlingen é uma cidade da Alemanha, no distrito de Karlsruhe, na região administrativa de Karlsruhe, estado de Baden-Württemberg. Está a cerca de 8 km a sul da cidade de Karlsruhe e a cerca de 15 km da fronteira com Lauterbourg, no departamento francês do Baixo Reno. Ettlingen é a segunda maior cidade do distrito de Karlsruhe, depois de Bruchsal.</span><small> (pt)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="dbo:abstract" lang="ru">Э́ттлинген — город в Германии. Население 39 тысяч жителей (2005). Город расположен на реке Альб, на северном краю Шварцвальда, в 10 км к югу от Карлсруэ.</span><small> (ru)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="dbo:abstract" lang="sv">Ettlingen är en stad, 8 kilometer söder om Karlsruhe i Baden-Württemberg. Ettlingen, som ligger vid den norra kanten av Schwarzwald, hade 38 553 invånare år 2010. Staden var ursprungligen ett romerskt fort, och omnämns under medeltiden första gången 788. 1227 erhöll den stadsrättigheter. I slaget vid Ettlingen 9-10 juli 1796 vann fransmännen en seger över österrikarna.</span><small> (sv)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="dbo:abstract" lang="zh">埃特林根（Ettlingen）是德国巴登-符腾堡州城市，位于卡尔斯鲁厄以南和东南。它隶属于卡尔斯鲁厄行政区卡尔斯鲁厄县，是该县的第二大城市，仅次于布鲁赫萨尔（Bruchsal）。</span><small> (zh)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="dbo:abstract" lang="uk">Еттлінген (нім. Ettlingen) — місто в Німеччині, знаходиться в землі Баден-Вюртемберг. Підпорядковується адміністративному округу Карлсруе. Входить до складу району Карлсруе. Площа — 56,74 км2. Населення становить 39 315 ос. (станом на 31 грудня 2017).</span><small> (uk)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="property"><a class="uri" href="http://dbpedia.org/ontology/areaCode"><small>dbo:</small>areaCode</a>
+</td><td><ul>
+	<li><span class="literal"><span property="dbo:areaCode">07243</span></span></li>
+</ul></td></tr><tr class="even"><td class="property"><a class="uri" href="http://dbpedia.org/ontology/areaTotal"><small>dbo:</small>areaTotal</a>
+</td><td><ul>
+	<li><span class="literal"><span property="dbo:areaTotal">56740000.000000</span><small> (xsd:double)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="property"><a class="uri" href="http://dbpedia.org/ontology/country"><small>dbo:</small>country</a>
+</td><td><ul>
+	<li><span class="literal"><a class="uri" rel="dbo:country" href="http://dbpedia.org/resource/http://dbpedia.org/resource/Germany"><small>dbr</small>:http://dbpedia.org/resource/Germany</a></span></li>
+</ul></td></tr><tr class="even"><td class="property"><a class="uri" href="http://dbpedia.org/ontology/district"><small>dbo:</small>district</a>
+</td><td><ul>
+	<li><span class="literal"><a class="uri" rel="dbo:district" href="http://dbpedia.org/resource/Karlsruhe"><small>dbr</small>:Karlsruhe</a></span></li>
+</ul></td></tr><tr class="odd"><td class="property"><a class="uri" href="http://dbpedia.org/ontology/elevation"><small>dbo:</small>elevation</a>
+</td><td><ul>
+	<li><span class="literal"><span property="dbo:elevation">133.000000</span><small> (xsd:double)</small></span></li>
+</ul></td></tr><tr class="even"><td class="property"><a class="uri" href="http://dbpedia.org/ontology/federalState"><small>dbo:</small>federalState</a>
+</td><td><ul>
+	<li><span class="literal"><a class="uri" rel="dbo:federalState" href="http://dbpedia.org/resource/Baden-Württemberg"><small>dbr</small>:Baden-Württemberg</a></span></li>
+</ul></td></tr><tr class="odd"><td class="property"><a class="uri" href="http://dbpedia.org/ontology/licenceNumber"><small>dbo:</small>licenceNumber</a>
+</td><td><ul>
+	<li><span class="literal"><span property="dbo:licenceNumber">KA</span></span></li>
+</ul></td></tr><tr class="even"><td class="property"><a class="uri" href="http://dbpedia.org/ontology/populationAsOf"><small>dbo:</small>populationAsOf</a>
+</td><td><ul>
+	<li><span class="literal"><span property="dbo:populationAsOf">2006-12-31</span><small> (xsd:date)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="property"><a class="uri" href="http://dbpedia.org/ontology/populationTotal"><small>dbo:</small>populationTotal</a>
+</td><td><ul>
+	<li><span class="literal"><span property="dbo:populationTotal">48875</span><small> (xsd:integer)</small></span></li>
+</ul></td></tr><tr class="even"><td class="property"><a class="uri" href="http://dbpedia.org/ontology/postalCode"><small>dbo:</small>postalCode</a>
+</td><td><ul>
+	<li><span class="literal"><span property="dbo:postalCode">76275</span></span></li>
+</ul></td></tr><tr class="odd"><td class="property"><a class="uri" href="http://dbpedia.org/ontology/region"><small>dbo:</small>region</a>
+</td><td><ul>
+	<li><span class="literal"><a class="uri" rel="dbo:region" href="http://dbpedia.org/resource/Karlsruhe"><small>dbr</small>:Karlsruhe</a></span></li>
+</ul></td></tr><tr class="even"><td class="property"><a class="uri" href="http://dbpedia.org/ontology/thumbnail"><small>dbo:</small>thumbnail</a>
+</td><td><ul>
+	<li><span class="literal"><a class="uri" rel="dbo:thumbnail" href="http://commons.wikimedia.org/wiki/Special:FilePath/Rathausturm_Ettlingen.JPG?width=300"><small>wiki-commons</small>:Special:FilePath/Rathausturm_Ettlingen.JPG?width=300</a></span></li>
+</ul></td></tr><tr class="odd"><td class="property"><a class="uri" href="http://dbpedia.org/ontology/wikiPageExternalLink"><small>dbo:</small>wikiPageExternalLink</a>
+</td><td><ul>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageExternalLink nofollow" href="https://www.ettlingen.de/">https://www.ettlingen.de/</a></span></li>
+</ul></td></tr><tr class="even"><td class="property"><a class="uri" href="http://dbpedia.org/ontology/wikiPageID"><small>dbo:</small>wikiPageID</a>
+</td><td><ul>
+	<li><span class="literal"><span property="dbo:wikiPageID">1846041</span><small> (xsd:integer)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="property"><a class="uri" href="http://dbpedia.org/ontology/wikiPageLength"><small>dbo:</small>wikiPageLength</a>
+</td><td><ul>
+	<li><span class="literal"><span property="dbo:wikiPageLength">12718</span><small> (xsd:integer)</small></span></li>
+</ul></td></tr><tr class="even"><td class="property"><a class="uri" href="http://dbpedia.org/ontology/wikiPageRevisionID"><small>dbo:</small>wikiPageRevisionID</a>
+</td><td><ul>
+	<li><span class="literal"><span property="dbo:wikiPageRevisionID">980452527</span><small> (xsd:integer)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="property"><a class="uri" href="http://dbpedia.org/ontology/wikiPageWikiLink"><small>dbo:</small>wikiPageWikiLink</a>
+</td><td><ul>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Lutheranism"><small>dbr</small>:Lutheranism</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Löbau"><small>dbr</small>:Löbau</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Synagogue"><small>dbr</small>:Synagogue</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Karl_Albiker"><small>dbr</small>:Karl_Albiker</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Black_Forest"><small>dbr</small>:Black_Forest</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Category:Historic_Jewish_communities"><small>dbc</small>:Historic_Jewish_communities</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Category:Holocaust_locations_in_Germany"><small>dbc</small>:Holocaust_locations_in_Germany</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Grand_duke"><small>dbr</small>:Grand_duke</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Kristallnacht"><small>dbr</small>:Kristallnacht</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Protestantism"><small>dbr</small>:Protestantism</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/New_Apostolic_Church"><small>dbr</small>:New_Apostolic_Church</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Alb_(Upper_Rhine)"><small>dbr</small>:Alb_(Upper_Rhine)</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Alb_Valley_Railway"><small>dbr</small>:Alb_Valley_Railway</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Alsace"><small>dbr</small>:Alsace</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Catholic_Church"><small>dbr</small>:Catholic_Church</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Charles_Frederick,_Grand_Duke_of_Baden"><small>dbr</small>:Charles_Frederick,_Grand_Duke_of_Baden</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Final_Solution"><small>dbr</small>:Final_Solution</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Nine_Years&#39;_War"><small>dbr</small>:Nine_Years&#39;_War</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Franciscus_Irenicus"><small>dbr</small>:Franciscus_Irenicus</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Free_church"><small>dbr</small>:Free_church</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Upper_Rhine_Plain"><small>dbr</small>:Upper_Rhine_Plain</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Weissenburg_Abbey,_Alsace"><small>dbr</small>:Weissenburg_Abbey,_Alsace</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Bad_Herrenalb"><small>dbr</small>:Bad_Herrenalb</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Baden-Württemberg"><small>dbr</small>:Baden-Württemberg</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Baroque"><small>dbr</small>:Baroque</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Bas-Rhin"><small>dbr</small>:Bas-Rhin</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Battle_of_Ettlingen"><small>dbr</small>:Battle_of_Ettlingen</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Army_of_the_Rhine_and_Moselle"><small>dbr</small>:Army_of_the_Rhine_and_Moselle</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Louis_XIV"><small>dbr</small>:Louis_XIV</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Actor"><small>dbr</small>:Actor</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Christian_Klar"><small>dbr</small>:Christian_Klar</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Clevedon"><small>dbr</small>:Clevedon</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Gatchina"><small>dbr</small>:Gatchina</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Germania_Superior"><small>dbr</small>:Germania_Superior</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Germany"><small>dbr</small>:Germany</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Karlsbad_(Baden)"><small>dbr</small>:Karlsbad_(Baden)</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Karlsruhe"><small>dbr</small>:Karlsruhe</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Karlsruhe_(district)"><small>dbr</small>:Karlsruhe_(district)</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Karlsruhe_Stadtbahn"><small>dbr</small>:Karlsruhe_Stadtbahn</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Épernay"><small>dbr</small>:Épernay</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Ottolenghi"><small>dbr</small>:Ottolenghi</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Ettlingen_Line"><small>dbr</small>:Ettlingen_Line</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Ettlingen_Palace"><small>dbr</small>:Ettlingen_Palace</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Karl_Steinbuch"><small>dbr</small>:Karl_Steinbuch</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Middelkerke"><small>dbr</small>:Middelkerke</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Jehovah&#39;s_Witnesses"><small>dbr</small>:Jehovah&#39;s_Witnesses</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Market_town"><small>dbr</small>:Market_town</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/France–Germany_border"><small>dbr</small>:France–Germany_border</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Frank-Jürgen_Richter"><small>dbr</small>:Frank-Jürgen_Richter</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Society_of_Jesus"><small>dbr</small>:Society_of_Jesus</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Speyer"><small>dbr</small>:Speyer</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Duchess_Sibylle_of_Saxe-Lauenburg"><small>dbr</small>:Duchess_Sibylle_of_Saxe-Lauenburg</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Durlach"><small>dbr</small>:Durlach</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/France"><small>dbr</small>:France</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Frederick_I,_Holy_Roman_Emperor"><small>dbr</small>:Frederick_I,_Holy_Roman_Emperor</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/French_Revolutionary_Wars"><small>dbr</small>:French_Revolutionary_Wars</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Holy_Roman_Empire"><small>dbr</small>:Holy_Roman_Empire</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Horasis"><small>dbr</small>:Horasis</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Independent_city"><small>dbr</small>:Independent_city</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/International_Federation_of_Free_Evangelical_Churches"><small>dbr</small>:International_Federation_of_Free_Evangelical_Churches</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Siegfried_Buback"><small>dbr</small>:Siegfried_Buback</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/History_of_Baden-Württemberg"><small>dbr</small>:History_of_Baden-Württemberg</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Otto_I,_Holy_Roman_Emperor"><small>dbr</small>:Otto_I,_Holy_Roman_Emperor</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Red_Army_Faction"><small>dbr</small>:Red_Army_Faction</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Reformation"><small>dbr</small>:Reformation</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Rheinstetten"><small>dbr</small>:Rheinstetten</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Rhine"><small>dbr</small>:Rhine</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Category:Karlsruhe_(district)"><small>dbc</small>:Karlsruhe_(district)</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Computer_science"><small>dbr</small>:Computer_science</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/German_mediatisation"><small>dbr</small>:German_mediatisation</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Judaism"><small>dbr</small>:Judaism</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Bruchsal"><small>dbr</small>:Bruchsal</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Lauterbourg"><small>dbr</small>:Lauterbourg</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Deanery"><small>dbr</small>:Deanery</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Ordinariate"><small>dbr</small>:Ordinariate</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Archdeacon"><small>dbr</small>:Archdeacon</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Baden"><small>dbr</small>:Baden</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Roman_Catholic_Archdiocese_of_Freiburg"><small>dbr</small>:Roman_Catholic_Archdiocese_of_Freiburg</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Roman_Catholic_Diocese_of_Speyer"><small>dbr</small>:Roman_Catholic_Diocese_of_Speyer</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Simon_Pierro"><small>dbr</small>:Simon_Pierro</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Waldbronn"><small>dbr</small>:Waldbronn</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Große_Kreisstadt"><small>dbr</small>:Große_Kreisstadt</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Napoleon"><small>dbr</small>:Napoleon</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Natalia_Avelon"><small>dbr</small>:Natalia_Avelon</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Pfinztal"><small>dbr</small>:Pfinztal</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Evangelical_Church_in_Germany"><small>dbr</small>:Evangelical_Church_in_Germany</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Prince-elector"><small>dbr</small>:Prince-elector</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Eggenstein-Leopoldshafen"><small>dbr</small>:Eggenstein-Leopoldshafen</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Henry_VI,_Holy_Roman_Emperor"><small>dbr</small>:Henry_VI,_Holy_Roman_Emperor</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Herman_V,_Margrave_of_Baden-Baden"><small>dbr</small>:Herman_V,_Margrave_of_Baden-Baden</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Menfi"><small>dbr</small>:Menfi</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Malsch"><small>dbr</small>:Malsch</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Marxzell"><small>dbr</small>:Marxzell</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Winfried_Schäfer"><small>dbr</small>:Winfried_Schäfer</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Wrocław"><small>dbr</small>:Wrocław</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Army_of_the_Upper_Rhine"><small>dbr</small>:Army_of_the_Upper_Rhine</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/File:Alb_Ettlingen.JPG"><small>dbr</small>:File:Alb_Ettlingen.JPG</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/File:Martinskirche_Ettlingen.JPG"><small>dbr</small>:File:Martinskirche_Ettlingen.JPG</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Liebenzell_Congregation"><small>dbr</small>:Liebenzell_Congregation</a></span></li>
+</ul></td></tr><tr class="even"><td class="property"><a class="uri" href="http://dbpedia.org/property/adresse"><small>dbp:</small>adresse</a>
+</td><td><ul>
+	<li><span class="literal"><span property="dbp:adresse">76275</span><small> (xsd:integer)</small></span></li>
+	<li><span class="literal"><span property="dbp:adresse" lang="en">Marktplatz 2</span><small> (en)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="property"><a class="uri" href="http://dbpedia.org/property/area"><small>dbp:</small>area</a>
+</td><td><ul>
+	<li><span class="literal"><span property="dbp:area">56.740000</span><small> (xsd:double)</small></span></li>
+</ul></td></tr><tr class="even"><td class="property"><a class="uri" href="http://dbpedia.org/property/areaCode"><small>dbp:</small>areaCode</a>
+</td><td><ul>
+	<li><span class="literal"><span property="dbp:areaCode">7243</span><small> (xsd:integer)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="property"><a class="uri" href="http://dbpedia.org/property/district"><small>dbp:</small>district</a>
+</td><td><ul>
+	<li><span class="literal"><span property="dbp:district" lang="en">Karlsruhe</span><small> (en)</small></span></li>
+</ul></td></tr><tr class="even"><td class="property"><a class="uri" href="http://dbpedia.org/property/divisions"><small>dbp:</small>divisions</a>
+</td><td><ul>
+	<li><span class="literal"><span property="dbp:divisions">7</span><small> (xsd:integer)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="property"><a class="uri" href="http://dbpedia.org/property/elevation"><small>dbp:</small>elevation</a>
+</td><td><ul>
+	<li><span class="literal"><span property="dbp:elevation">133</span><small> (xsd:integer)</small></span></li>
+</ul></td></tr><tr class="even"><td class="property"><a class="uri" href="http://dbpedia.org/property/gemeindeschlüssel"><small>dbp:</small>gemeindeschlüssel</a>
+</td><td><ul>
+	<li><span class="literal"><span property="dbp:gemeindeschlüssel">8215017</span><small> (xsd:integer)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="property"><a class="uri" href="http://dbpedia.org/property/imageCoa"><small>dbp:</small>imageCoa</a>
+</td><td><ul>
+	<li><span class="literal"><span property="dbp:imageCoa" lang="en">Coat of Arms of Ettlingen.svg</span><small> (en)</small></span></li>
+</ul></td></tr><tr class="even"><td class="property"><a class="uri" href="http://dbpedia.org/property/licence"><small>dbp:</small>licence</a>
+</td><td><ul>
+	<li><span class="literal"><span property="dbp:licence" lang="en">KA</span><small> (en)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="property"><a class="uri" href="http://dbpedia.org/property/mayor"><small>dbp:</small>mayor</a>
+</td><td><ul>
+	<li><span class="literal"><span property="dbp:mayor" lang="en">Johannes Arnold</span><small> (en)</small></span></li>
+</ul></td></tr><tr class="even"><td class="property"><a class="uri" href="http://dbpedia.org/property/party"><small>dbp:</small>party</a>
+</td><td><ul>
+	<li><span class="literal"><span property="dbp:party" lang="en">non-party</span><small> (en)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="property"><a class="uri" href="http://dbpedia.org/property/plzAlt"><small>dbp:</small>plzAlt</a>
+</td><td><ul>
+	<li><span class="literal"><span property="dbp:plzAlt">7505</span><small> (xsd:integer)</small></span></li>
+</ul></td></tr><tr class="even"><td class="property"><a class="uri" href="http://dbpedia.org/property/population"><small>dbp:</small>population</a>
+</td><td><ul>
+	<li><span class="literal"><span property="dbp:population">48875</span><small> (xsd:integer)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="property"><a class="uri" href="http://dbpedia.org/property/postalCode"><small>dbp:</small>postalCode</a>
+</td><td><ul>
+	<li><span class="literal"><span property="dbp:postalCode">76275</span><small> (xsd:integer)</small></span></li>
+</ul></td></tr><tr class="even"><td class="property"><a class="uri" href="http://dbpedia.org/property/region"><small>dbp:</small>region</a>
+</td><td><ul>
+	<li><span class="literal"><span property="dbp:region" lang="en">Karlsruhe</span><small> (en)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="property"><a class="uri" href="http://dbpedia.org/property/stand"><small>dbp:</small>stand</a>
+</td><td><ul>
+	<li><span class="literal"><span property="dbp:stand">2006-12-31</span><small> (xsd:date)</small></span></li>
+</ul></td></tr><tr class="even"><td class="property"><a class="uri" href="http://dbpedia.org/property/state"><small>dbp:</small>state</a>
+</td><td><ul>
+	<li><span class="literal"><span property="dbp:state" lang="en">Baden-Württemberg</span><small> (en)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="property"><a class="uri" href="http://dbpedia.org/property/type"><small>dbp:</small>type</a>
+</td><td><ul>
+	<li><span class="literal"><span property="dbp:type" lang="en">Stadt</span><small> (en)</small></span></li>
+</ul></td></tr><tr class="even"><td class="property"><a class="uri" href="http://dbpedia.org/property/website"><small>dbp:</small>website</a>
+</td><td><ul>
+	<li><span class="literal"><a class="uri" rel="dbp:website nofollow" href="https://www.ettlingen.de/">https://www.ettlingen.de/</a></span></li>
+</ul></td></tr><tr class="odd"><td class="property"><a class="uri" href="http://dbpedia.org/property/wikiPageUsesTemplate"><small>dbp:</small>wikiPageUsesTemplate</a>
+</td><td><ul>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" href="http://dbpedia.org/resource/Template:Authority_control"><small>dbt</small>:Authority_control</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" href="http://dbpedia.org/resource/Template:Convert"><small>dbt</small>:Convert</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" href="http://dbpedia.org/resource/Template:Coord"><small>dbt</small>:Coord</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" href="http://dbpedia.org/resource/Template:Div_col"><small>dbt</small>:Div_col</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" href="http://dbpedia.org/resource/Template:Div_col_end"><small>dbt</small>:Div_col_end</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" href="http://dbpedia.org/resource/Template:Flagicon"><small>dbt</small>:Flagicon</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" href="http://dbpedia.org/resource/Template:Reflist"><small>dbt</small>:Reflist</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" href="http://dbpedia.org/resource/Template:Infobox_German_location"><small>dbt</small>:Infobox_German_location</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" href="http://dbpedia.org/resource/Template:Cities_and_towns_in_Karlsruhe_(district)"><small>dbt</small>:Cities_and_towns_in_Karlsruhe_(district)</a></span></li>
+</ul></td></tr><tr class="even"><td class="property"><a class="uri" href="http://dbpedia.org/property/wordnet_type"><small>dbp:</small>wordnet_type</a>
+</td><td><ul>
+	<li><span class="literal"><a class="uri" rel="dbp:wordnet_type nofollow" href="http://www.w3.org/2006/03/wn/wn20/instances/synset-city-noun-3">http://www.w3.org/2006/03/wn/wn20/instances/synset-city-noun-3</a></span></li>
+</ul></td></tr><tr class="odd"><td class="property"><a class="uri" href="http://purl.org/dc/terms/subject"><small>dct:</small>subject</a>
+</td><td><ul>
+	<li><span class="literal"><a class="uri" rel="dct:subject" href="http://dbpedia.org/resource/Category:Historic_Jewish_communities"><small>dbc</small>:Historic_Jewish_communities</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dct:subject" href="http://dbpedia.org/resource/Category:Holocaust_locations_in_Germany"><small>dbc</small>:Holocaust_locations_in_Germany</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dct:subject" href="http://dbpedia.org/resource/Category:Karlsruhe_(district)"><small>dbc</small>:Karlsruhe_(district)</a></span></li>
+</ul></td></tr><tr class="even"><td class="property"><a class="uri" href="http://schema.org/sameAs"><small>schema:</small>sameAs</a>
+</td><td><ul>
+	<li><span class="literal"><a class="uri" rel="schema:sameAs" href="http://viaf.org/viaf/145423991">http://viaf.org/viaf/145423991</a></span></li>
+</ul></td></tr><tr class="odd"><td class="property"><a class="uri" href="http://www.georss.org/georss/point"><small>georss:</small>point</a>
+</td><td><ul>
+	<li><span class="literal"><span property="georss:point" prefix="georss: http://www.georss.org/georss/">48.93333333333333 8.4</span></span></li>
+</ul></td></tr><tr class="even"><td class="property"><a class="uri" href="http://www.w3.org/1999/02/22-rdf-syntax-ns#type"><small>rdf:</small>type</a>
+</td><td><ul>
+	<li><span class="literal"><a class="uri" rel="rdf:type" href="http://www.w3.org/2002/07/owl#Thing"><small>owl</small>:Thing</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" href="http://dbpedia.org/ontology/Place"><small>dbo</small>:Place</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" href="http://dbpedia.org/ontology/Location"><small>dbo</small>:Location</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" href="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"><small>geo</small>:SpatialThing</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" href="http://dbpedia.org/class/yago/Object100002684"><small>yago</small>:Object100002684</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" href="http://dbpedia.org/class/yago/PhysicalEntity100001930"><small>yago</small>:PhysicalEntity100001930</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" href="http://dbpedia.org/class/yago/Region108630985"><small>yago</small>:Region108630985</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" href="http://dbpedia.org/class/yago/Town108665504"><small>yago</small>:Town108665504</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" href="http://dbpedia.org/class/yago/UrbanArea108675967"><small>yago</small>:UrbanArea108675967</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" href="http://dbpedia.org/class/yago/YagoGeoEntity"><small>yago</small>:YagoGeoEntity</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" href="http://dbpedia.org/class/yago/YagoLegalActorGeo"><small>yago</small>:YagoLegalActorGeo</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" href="http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity"><small>yago</small>:YagoPermanentlyLocatedEntity</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" href="http://dbpedia.org/class/yago/WikicatMunicipalitiesInBaden-Württemberg"><small>yago</small>:WikicatMunicipalitiesInBaden-Württemberg</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" href="http://dbpedia.org/class/yago/WikicatTownsInBaden-Württemberg"><small>yago</small>:WikicatTownsInBaden-Württemberg</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" href="http://schema.org/Place"><small>schema</small>:Place</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" href="http://www.wikidata.org/entity/Q3957"><small>wikidata</small>:Q3957</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" href="http://www.wikidata.org/entity/Q486972"><small>wikidata</small>:Q486972</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" href="http://dbpedia.org/ontology/Settlement"><small>dbo</small>:Settlement</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" href="http://dbpedia.org/ontology/Town"><small>dbo</small>:Town</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" href="http://dbpedia.org/ontology/PopulatedPlace"><small>dbo</small>:PopulatedPlace</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" href="http://dbpedia.org/class/yago/AdministrativeDistrict108491826"><small>yago</small>:AdministrativeDistrict108491826</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" href="http://dbpedia.org/class/yago/District108552138"><small>yago</small>:District108552138</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" href="http://dbpedia.org/class/yago/GeographicalArea108574314"><small>yago</small>:GeographicalArea108574314</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" href="http://dbpedia.org/class/yago/Location100027167"><small>yago</small>:Location100027167</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" href="http://dbpedia.org/class/yago/Municipality108626283"><small>yago</small>:Municipality108626283</a></span></li>
+</ul></td></tr><tr class="odd"><td class="property"><a class="uri" href="http://www.w3.org/2000/01/rdf-schema#comment"><small>rdfs:</small>comment</a>
+</td><td><ul>
+	<li style="display:none;"><span class="literal"><span property="rdfs:comment" lang="ar">اتلينغن (بالألمانية: Ettlingen) هي ، مدينة و بلدة ألمانية تقع في ألمانيا في . يقدر عدد سكانها بـ 48,875 نسمة .</span><small> (ar)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="rdfs:comment" lang="cs">Ettlingen je velké okresní město v německé spolkové zemi Bádensko-Württembersko. Leží asi 8 km jižně od města Karlsruhe na severním okraji Černého lesa. Po Bruchsalu je Ettlingen druhým největším městem v okrese Karlsruhe. Ettlingen byl důležitou křižovatkou v době Starověkého Říma. To je doloženo mnoha artefakty nalezenými v oblasti. Město je poprvé zmiňováno v roce 788 jako Ediningom v oznámení z kláštera ve  v Alsasku. V roce 965 přijala vesnice Ettlingen (Ediningom)  od císaře Oty I. Velikého. V roce 1192 byl Ettlingen povýšen na město císařem Jindřichem VI.</span><small> (cs)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="rdfs:comment" lang="eo">Ettlingen estas komunumo en Germanio. Ĝi troviĝas en la distrikto Karlsruhe de la federacia lando Baden-Virtembergo. La 31-an de decembro 2005 la komunumo havis 39026 loĝantojn.</span><small> (eo)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="rdfs:comment" lang="de">Ettlingen () ist eine Stadt südlich von Karlsruhe in Baden-Württemberg. Sie ist nach Bruchsal die zweitgrößte Stadt des Landkreises Karlsruhe und ein Mittelzentrum für die umliegenden Gemeinden. Seit 1. Januar 1966 ist Ettlingen eine Große Kreisstadt.</span><small> (de)</small></span></li>
+	<li><span class="literal"><span property="rdfs:comment" lang="en">Ettlingen is a town in Baden-Württemberg, Germany, about 8 kilometres (5.0 mi) south of the city of Karlsruhe and approximately 15 kilometres (9.3 mi) from the border with Lauterbourg, in France&#39;s Bas-Rhin department. Ettlingen is the second largest town in the district of Karlsruhe, after Bruchsal.</span><small> (en)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="rdfs:comment" lang="es">Ettlingen es una ciudad alemana situada al sur de Karlsruhe, en Baden-Wurtemberg. Es la segunda ciudad más grande, tras Bruchsal, del distrito de Karlsruhe.</span><small> (es)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="rdfs:comment" lang="fr">Ettlingen est une ville d&#39;Allemagne, située au sud de Karlsruhe, dans le Bade-Wurtemberg, au pied de la Forêt-Noire du nord. Elle est la deuxième plus grande ville du district de Karlsruhe (derrière Bruchsal).</span><small> (fr)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="rdfs:comment" lang="it">Ettlingen è un comune tedesco di 38.731 abitanti, situato nel land del Baden-Württemberg. Dalla città di Ettlingen proviene la famiglia di origine ebraica degli Ottolenghi (diffusa in Piemonte e Lombardia), fuggita in Italia in seguito alle espulsioni avvenute tra il XV e il XVI secolo.</span><small> (it)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="rdfs:comment" lang="nl">Ettlingen is een Große Kreisstadt in de Duitse deelstaat Baden-Württemberg, gelegen in het Landkreis Karlsruhe. De stad telt 38.819 inwoners.</span><small> (nl)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="rdfs:comment" lang="pl">Ettlingen – miasto w Niemczech, w kraju związkowym Badenia-Wirtembergia, w rejencji Karlsruhe, w regionie Mittlerer Oberrhein, w powiecie Karlsruhe. Leży u podnóża Schwarzwaldu, nad rzeką Alb, na południe od Karlsruhe, na wysokości 132 m n.p.m.. Liczy 38 553 mieszkańców (31.12.2010), na powierzchni 56,74 km².</span><small> (pl)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="rdfs:comment" lang="pt">Ettlingen é uma cidade da Alemanha, no distrito de Karlsruhe, na região administrativa de Karlsruhe, estado de Baden-Württemberg. Está a cerca de 8 km a sul da cidade de Karlsruhe e a cerca de 15 km da fronteira com Lauterbourg, no departamento francês do Baixo Reno. Ettlingen é a segunda maior cidade do distrito de Karlsruhe, depois de Bruchsal.</span><small> (pt)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="rdfs:comment" lang="ru">Э́ттлинген — город в Германии. Население 39 тысяч жителей (2005). Город расположен на реке Альб, на северном краю Шварцвальда, в 10 км к югу от Карлсруэ.</span><small> (ru)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="rdfs:comment" lang="sv">Ettlingen är en stad, 8 kilometer söder om Karlsruhe i Baden-Württemberg. Ettlingen, som ligger vid den norra kanten av Schwarzwald, hade 38 553 invånare år 2010. Staden var ursprungligen ett romerskt fort, och omnämns under medeltiden första gången 788. 1227 erhöll den stadsrättigheter. I slaget vid Ettlingen 9-10 juli 1796 vann fransmännen en seger över österrikarna.</span><small> (sv)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="rdfs:comment" lang="zh">埃特林根（Ettlingen）是德国巴登-符腾堡州城市，位于卡尔斯鲁厄以南和东南。它隶属于卡尔斯鲁厄行政区卡尔斯鲁厄县，是该县的第二大城市，仅次于布鲁赫萨尔（Bruchsal）。</span><small> (zh)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="rdfs:comment" lang="uk">Еттлінген (нім. Ettlingen) — місто в Німеччині, знаходиться в землі Баден-Вюртемберг. Підпорядковується адміністративному округу Карлсруе. Входить до складу району Карлсруе. Площа — 56,74 км2. Населення становить 39 315 ос. (станом на 31 грудня 2017).</span><small> (uk)</small></span></li>
+</ul></td></tr><tr class="even"><td class="property"><a class="uri" href="http://www.w3.org/2000/01/rdf-schema#label"><small>rdfs:</small>label</a>
+</td><td><ul>
+	<li style="display:none;"><span class="literal"><span property="rdfs:label" lang="ar">إيتلينغن</span><small> (ar)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="rdfs:label" lang="cs">Ettlingen</span><small> (cs)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="rdfs:label" lang="de">Ettlingen</span><small> (de)</small></span></li>
+	<li><span class="literal"><span property="rdfs:label" lang="en">Ettlingen</span><small> (en)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="rdfs:label" lang="eo">Ettlingen</span><small> (eo)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="rdfs:label" lang="es">Ettlingen</span><small> (es)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="rdfs:label" lang="fr">Ettlingen</span><small> (fr)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="rdfs:label" lang="it">Ettlingen</span><small> (it)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="rdfs:label" lang="nl">Ettlingen</span><small> (nl)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="rdfs:label" lang="pl">Ettlingen</span><small> (pl)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="rdfs:label" lang="pt">Ettlingen</span><small> (pt)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="rdfs:label" lang="ru">Эттлинген</span><small> (ru)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="rdfs:label" lang="sv">Ettlingen</span><small> (sv)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="rdfs:label" lang="uk">Еттлінген</span><small> (uk)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="rdfs:label" lang="zh">埃特林根</span><small> (zh)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="property"><a class="uri" href="http://www.w3.org/2002/07/owl#sameAs"><small>owl:</small>sameAs</a>
+</td><td><ul>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://rdf.freebase.com/ns/m.060ktx"><small>freebase</small>:Ettlingen</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://viaf.org/viaf/145423991">http://viaf.org/viaf/145423991</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://la.dbpedia.org/resource/Ettelinga"><small>dbpedia-la</small>:Ettlingen</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://d-nb.info/gnd/4015636-9">http://d-nb.info/gnd/4015636-9</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://linkedgeodata.org/triplify/node17652682"><small>lgdt</small>:Ettlingen</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://kk.dbpedia.org/resource/Эттлинген"><small>dbpedia-kk</small>:Ettlingen</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://lmo.dbpedia.org/resource/Ettlingen"><small>dbpedia-lmo</small>:Ettlingen</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://d-nb.info/gnd/2009707-4">http://d-nb.info/gnd/2009707-4</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://eo.dbpedia.org/resource/Ettlingen"><small>dbpedia-eo</small>:Ettlingen</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://sr.dbpedia.org/resource/Етлинген"><small>dbpedia-sr</small>:Ettlingen</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://de.dbpedia.org/resource/Ettlingen"><small>dbpedia-de</small>:Ettlingen</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://ceb.dbpedia.org/resource/Ettlingen_(lungsod)">http://ceb.dbpedia.org/resource/Ettlingen_(lungsod)</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://yago-knowledge.org/resource/Ettlingen"><small>yago-res</small>:Ettlingen</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://sws.geonames.org/2928615/"><small>geodata</small>:Ettlingen</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://nl.dbpedia.org/resource/Ettlingen"><small>dbpedia-nl</small>:Ettlingen</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://uz.dbpedia.org/resource/Ettlingen">http://uz.dbpedia.org/resource/Ettlingen</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://war.dbpedia.org/resource/Ettlingen"><small>dbpedia-war</small>:Ettlingen</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://da.dbpedia.org/resource/Ettlingen"><small>dbpedia-da</small>:Ettlingen</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://fa.dbpedia.org/resource/اتلینگن"><small>dbpedia-fa</small>:Ettlingen</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://sco.dbpedia.org/resource/Ettlingen">http://sco.dbpedia.org/resource/Ettlingen</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://pt.dbpedia.org/resource/Ettlingen"><small>dbpedia-pt</small>:Ettlingen</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://als.dbpedia.org/resource/Ettlingen"><small>dbpedia-als</small>:Ettlingen</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://d-nb.info/gnd/4015636-9/about/rdf">http://d-nb.info/gnd/4015636-9/about/rdf</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://it.dbpedia.org/resource/Ettlingen"><small>dbpedia-it</small>:Ettlingen</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="https://global.dbpedia.org/id/VUQ7">https://global.dbpedia.org/id/VUQ7</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://fr.dbpedia.org/resource/Ettlingen"><small>dbpedia-fr</small>:Ettlingen</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://uk.dbpedia.org/resource/Еттлінген"><small>dbpedia-uk</small>:Ettlingen</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://tr.dbpedia.org/resource/Ettlingen"><small>dbpedia-tr</small>:Ettlingen</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://hr.dbpedia.org/resource/Ettlingen"><small>dbpedia-hr</small>:Ettlingen</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://vi.dbpedia.org/resource/Ettlingen"><small>dbpedia-vi</small>:Ettlingen</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://sv.dbpedia.org/resource/Ettlingen"><small>dbpedia-sv</small>:Ettlingen</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://ms.dbpedia.org/resource/Ettlingen"><small>dbpedia-ms</small>:Ettlingen</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://pl.dbpedia.org/resource/Ettlingen"><small>dbpedia-pl</small>:Ettlingen</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://ar.dbpedia.org/resource/إيتلينغن"><small>dbpedia-ar</small>:Ettlingen</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://ro.dbpedia.org/resource/Ettlingen"><small>dbpedia-ro</small>:Ettlingen</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://sws.geonames.org/2928615"><small>geodata</small>:Ettlingen</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://fi.dbpedia.org/resource/Ettlingen"><small>dbpedia-fi</small>:Ettlingen</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://zh.dbpedia.org/resource/埃特林根"><small>dbpedia-zh</small>:Ettlingen</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://ru.dbpedia.org/resource/Эттлинген"><small>dbpedia-ru</small>:Ettlingen</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://bg.dbpedia.org/resource/Етлинген"><small>dbpedia-bg</small>:Ettlingen</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://hu.dbpedia.org/resource/Ettlingen"><small>dbpedia-hu</small>:Ettlingen</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://www.wikidata.org/entity/Q14893"><small>wikidata</small>:Ettlingen</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://ky.dbpedia.org/resource/Эттлинген">http://ky.dbpedia.org/resource/Эттлинген</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://sh.dbpedia.org/resource/Ettlingen"><small>dbpedia-sh</small>:Ettlingen</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://vo.dbpedia.org/resource/Ettlingen"><small>dbpedia-vo</small>:Ettlingen</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://cs.dbpedia.org/resource/Ettlingen"><small>dbpedia-cs</small>:Ettlingen</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://es.dbpedia.org/resource/Ettlingen"><small>dbpedia-es</small>:Ettlingen</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://ba.dbpedia.org/resource/Эттлинген">http://ba.dbpedia.org/resource/Эттлинген</a></span></li>
+</ul></td></tr><tr class="even"><td class="property"><a class="uri" href="http://www.w3.org/2003/01/geo/wgs84_pos#geometry"><small>geo:</small>geometry</a>
+</td><td><ul>
+	<li><span class="literal"><span property="geo:geometry" prefix="geo: http://www.w3.org/2003/01/geo/wgs84_pos#">POINT(8.3999996185303 48.933334350586)</span></span></li>
+</ul></td></tr><tr class="odd"><td class="property"><a class="uri" href="http://www.w3.org/2003/01/geo/wgs84_pos#lat"><small>geo:</small>lat</a>
+</td><td><ul>
+	<li><span class="literal"><span property="geo:lat" prefix="geo: http://www.w3.org/2003/01/geo/wgs84_pos#">48.933334</span><small> (xsd:float)</small></span></li>
+</ul></td></tr><tr class="even"><td class="property"><a class="uri" href="http://www.w3.org/2003/01/geo/wgs84_pos#long"><small>geo:</small>long</a>
+</td><td><ul>
+	<li><span class="literal"><span property="geo:long" prefix="geo: http://www.w3.org/2003/01/geo/wgs84_pos#">8.400000</span><small> (xsd:float)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="property"><a class="uri" href="http://www.w3.org/ns/prov#wasDerivedFrom"><small>prov:</small>wasDerivedFrom</a>
+</td><td><ul>
+	<li><span class="literal"><a class="uri" rel="prov:wasDerivedFrom" href="http://en.wikipedia.org/wiki/Ettlingen?oldid=980452527&amp;ns=0"><small>wikipedia-en</small>:Ettlingen?oldid=980452527&amp;ns=0</a></span></li>
+</ul></td></tr><tr class="even"><td class="property"><a class="uri" href="http://xmlns.com/foaf/0.1/depiction"><small>foaf:</small>depiction</a>
+</td><td><ul>
+	<li><span class="literal"><a class="uri" rel="foaf:depiction" href="http://commons.wikimedia.org/wiki/Special:FilePath/Rathausturm_Ettlingen.JPG"><small>wiki-commons</small>:Special:FilePath/Rathausturm_Ettlingen.JPG</a></span></li>
+</ul></td></tr><tr class="odd"><td class="property"><a class="uri" href="http://xmlns.com/foaf/0.1/homepage"><small>foaf:</small>homepage</a>
+</td><td><ul>
+	<li><span class="literal"><a class="uri" rel="foaf:homepage nofollow" href="https://www.ettlingen.de/">https://www.ettlingen.de/</a></span></li>
+</ul></td></tr><tr class="even"><td class="property"><a class="uri" href="http://xmlns.com/foaf/0.1/isPrimaryTopicOf"><small>foaf:</small>isPrimaryTopicOf</a>
+</td><td><ul>
+	<li><span class="literal"><a class="uri" rel="foaf:isPrimaryTopicOf" href="http://en.wikipedia.org/wiki/Ettlingen"><small>wikipedia-en</small>:Ettlingen</a></span></li>
+</ul></td></tr><tr class="odd"><td class="property">is <a class="uri" href="http://dbpedia.org/ontology/birthPlace"><small>dbo:</small>birthPlace</a>
+ of</td><td><ul>
+	<li><span class="literal"><a class="uri" rev="dbo:birthPlace" href="http://dbpedia.org/resource/Verena_Jooß"><small>dbr</small>:Verena_Jooß</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:birthPlace" href="http://dbpedia.org/resource/Jochen_Schweizer"><small>dbr</small>:Jochen_Schweizer</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:birthPlace" href="http://dbpedia.org/resource/Simon_Pierro"><small>dbr</small>:Simon_Pierro</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:birthPlace" href="http://dbpedia.org/resource/Martin_Wiesner"><small>dbr</small>:Martin_Wiesner</a></span></li>
+</ul></td></tr><tr class="even"><td class="property">is <a class="uri" href="http://dbpedia.org/ontology/place"><small>dbo:</small>place</a>
+ of</td><td><ul>
+	<li><span class="literal"><a class="uri" rev="dbo:place" href="http://dbpedia.org/resource/Battle_of_Ettlingen"><small>dbr</small>:Battle_of_Ettlingen</a></span></li>
+</ul></td></tr><tr class="odd"><td class="property">is <a class="uri" href="http://dbpedia.org/ontology/wikiPageRedirects"><small>dbo:</small>wikiPageRedirects</a>
+ of</td><td><ul>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageRedirects" href="http://dbpedia.org/resource/Ettling"><small>dbr</small>:Ettling</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageRedirects" href="http://dbpedia.org/resource/UN/LOCODE:DEETT"><small>dbr</small>:UN/LOCODE:DEETT</a></span></li>
+</ul></td></tr><tr class="even"><td class="property">is <a class="uri" href="http://dbpedia.org/ontology/wikiPageWikiLink"><small>dbo:</small>wikiPageWikiLink</a>
+ of</td><td><ul>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/8th_Bohemian_Dragoons_(Count_Montecuccoli&#39;s)"><small>dbr</small>:8th_Bohemian_Dragoons_(Count_Montecuccoli&#39;s)</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Ludwig_Müller_(general)"><small>dbr</small>:Ludwig_Müller_(general)</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Löbau"><small>dbr</small>:Löbau</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Caspar_Hedio"><small>dbr</small>:Caspar_Hedio</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Verena_Jooß"><small>dbr</small>:Verena_Jooß</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Eilzugwagen"><small>dbr</small>:Eilzugwagen</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Karl_Albiker"><small>dbr</small>:Karl_Albiker</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/List_of_municipalities_in_Germany"><small>dbr</small>:List_of_municipalities_in_Germany</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/List_of_postal_codes_in_Germany"><small>dbr</small>:List_of_postal_codes_in_Germany</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/List_of_preserved_steam_locomotives_in_Germany"><small>dbr</small>:List_of_preserved_steam_locomotives_in_Germany</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/List_of_railway_museums_in_Germany"><small>dbr</small>:List_of_railway_museums_in_Germany</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Black_Forest"><small>dbr</small>:Black_Forest</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Prussian_G_12"><small>dbr</small>:Prussian_G_12</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/List_of_rulers_of_Baden"><small>dbr</small>:List_of_rulers_of_Baden</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Alb_(Upper_Rhine)"><small>dbr</small>:Alb_(Upper_Rhine)</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Alb_Valley_Railway"><small>dbr</small>:Alb_Valley_Railway</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Franciscus_Irenicus"><small>dbr</small>:Franciscus_Irenicus</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Willy_Wiedmann"><small>dbr</small>:Willy_Wiedmann</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/European_Union_of_Music_Competitions_for_Youth"><small>dbr</small>:European_Union_of_Music_Competitions_for_Youth</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Fritz_Rau"><small>dbr</small>:Fritz_Rau</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Baden_main_line"><small>dbr</small>:Baden_main_line</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Battle_of_Ettlingen"><small>dbr</small>:Battle_of_Ettlingen</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/List_of_dialling_codes_in_Germany"><small>dbr</small>:List_of_dialling_codes_in_Germany</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/RIBA_European_Award"><small>dbr</small>:RIBA_European_Award</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Taylor_Barracks"><small>dbr</small>:Taylor_Barracks</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Chopin_Music_In_The_Open_Air"><small>dbr</small>:Chopin_Music_In_The_Open_Air</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Christian_Klar"><small>dbr</small>:Christian_Klar</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Clevedon"><small>dbr</small>:Clevedon</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Gatchina"><small>dbr</small>:Gatchina</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Gerhard_Bassenge"><small>dbr</small>:Gerhard_Bassenge</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Jeux_sans_frontières"><small>dbr</small>:Jeux_sans_frontières</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Jochen_Schweizer"><small>dbr</small>:Jochen_Schweizer</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Schubertiade"><small>dbr</small>:Schubertiade</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Bernard_I,_Margrave_of_Baden-Baden"><small>dbr</small>:Bernard_I,_Margrave_of_Baden-Baden</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Karlsbad_(Baden)"><small>dbr</small>:Karlsbad_(Baden)</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Karlsruhe"><small>dbr</small>:Karlsruhe</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Karlsruhe_(district)"><small>dbr</small>:Karlsruhe_(district)</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Karlsruhe_Hauptbahnhof"><small>dbr</small>:Karlsruhe_Hauptbahnhof</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Karlsruhe_Stadtbahn"><small>dbr</small>:Karlsruhe_Stadtbahn</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Karlsruhe_freight_bypass_railway"><small>dbr</small>:Karlsruhe_freight_bypass_railway</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Épernay"><small>dbr</small>:Épernay</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Ottolenghi"><small>dbr</small>:Ottolenghi</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Ettlingen_Palace"><small>dbr</small>:Ettlingen_Palace</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Karl_Steinbuch"><small>dbr</small>:Karl_Steinbuch</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/555th_Engineer_Brigade_(United_States)"><small>dbr</small>:555th_Engineer_Brigade_(United_States)</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Speleonaut"><small>dbr</small>:Speleonaut</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Jean_Gamans"><small>dbr</small>:Jean_Gamans</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/List_of_tallest_church_buildings"><small>dbr</small>:List_of_tallest_church_buildings</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Dreieck_Karlsruhe"><small>dbr</small>:Dreieck_Karlsruhe</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Duchess_Sibylle_of_Saxe-Lauenburg"><small>dbr</small>:Duchess_Sibylle_of_Saxe-Lauenburg</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Francis_Lewis_High_School"><small>dbr</small>:Francis_Lewis_High_School</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Friedrich-Wilhelm_Kiel"><small>dbr</small>:Friedrich-Wilhelm_Kiel</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Hardt_Railway"><small>dbr</small>:Hardt_Railway</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/International_Federation_of_Model_Auto_Racing"><small>dbr</small>:International_Federation_of_Model_Auto_Racing</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Ulm_Railway_Society"><small>dbr</small>:Ulm_Railway_Society</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Historical_Merchants&#39;_Hall_(Freiburg)"><small>dbr</small>:Historical_Merchants&#39;_Hall_(Freiburg)</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Reuchlin-Gymnasium"><small>dbr</small>:Reuchlin-Gymnasium</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Rheinstetten"><small>dbr</small>:Rheinstetten</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Regional_Garden_Show"><small>dbr</small>:Regional_Garden_Show</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Agnes_of_Baden,_Countess_of_Holstein-Rendsburg"><small>dbr</small>:Agnes_of_Baden,_Countess_of_Holstein-Rendsburg</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Wurmbrand-Stuppach"><small>dbr</small>:Wurmbrand-Stuppach</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/German_Avenue_Road"><small>dbr</small>:German_Avenue_Road</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Sturmtrupp-Pfadfinder"><small>dbr</small>:Sturmtrupp-Pfadfinder</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Cosmas_Damian_Asam"><small>dbr</small>:Cosmas_Damian_Asam</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Countess_Palatine_Irmengard_of_the_Rhine"><small>dbr</small>:Countess_Palatine_Irmengard_of_the_Rhine</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Lang_Lang"><small>dbr</small>:Lang_Lang</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/List_of_United_States_Army_installations_in_Germany"><small>dbr</small>:List_of_United_States_Army_installations_in_Germany</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/List_of_cities_in_Baden-Württemberg_by_population"><small>dbr</small>:List_of_cities_in_Baden-Württemberg_by_population</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/List_of_co-operative_banks_in_Germany"><small>dbr</small>:List_of_co-operative_banks_in_Germany</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Baden_Open"><small>dbr</small>:Baden_Open</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Roman_Catholic_Archdiocese_of_Freiburg"><small>dbr</small>:Roman_Catholic_Archdiocese_of_Freiburg</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Simon_Pierro"><small>dbr</small>:Simon_Pierro</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/War_of_the_Polish_Succession"><small>dbr</small>:War_of_the_Polish_Succession</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Ettling"><small>dbr</small>:Ettling</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/List_of_castles_in_Baden-Württemberg"><small>dbr</small>:List_of_castles_in_Baden-Württemberg</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/List_of_cities_and_towns_in_Germany"><small>dbr</small>:List_of_cities_and_towns_in_Germany</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/List_of_compositions_by_Božidar_Kantušer"><small>dbr</small>:List_of_compositions_by_Božidar_Kantušer</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Ettingen"><small>dbr</small>:Ettingen</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Pforzheim"><small>dbr</small>:Pforzheim</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Ettlinger"><small>dbr</small>:Ettlinger</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Ettringen"><small>dbr</small>:Ettringen</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/List_of_railway_stations_in_Baden-Württemberg"><small>dbr</small>:List_of_railway_stations_in_Baden-Württemberg</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Helmut_Kunz"><small>dbr</small>:Helmut_Kunz</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Grand_Duchy_of_Baden_State_Railway"><small>dbr</small>:Grand_Duchy_of_Baden_State_Railway</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Julius_Francis,_Duke_of_Saxe-Lauenburg"><small>dbr</small>:Julius_Francis,_Duke_of_Saxe-Lauenburg</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Menfi"><small>dbr</small>:Menfi</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/List_of_town_tramway_systems_in_Germany"><small>dbr</small>:List_of_town_tramway_systems_in_Germany</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/List_of_twin_towns_and_sister_cities_in_Belgium"><small>dbr</small>:List_of_twin_towns_and_sister_cities_in_Belgium</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/List_of_twin_towns_and_sister_cities_in_England"><small>dbr</small>:List_of_twin_towns_and_sister_cities_in_England</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/List_of_twin_towns_and_sister_cities_in_France"><small>dbr</small>:List_of_twin_towns_and_sister_cities_in_France</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/List_of_twin_towns_and_sister_cities_in_Germany"><small>dbr</small>:List_of_twin_towns_and_sister_cities_in_Germany</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/List_of_twin_towns_and_sister_cities_in_Russia"><small>dbr</small>:List_of_twin_towns_and_sister_cities_in_Russia</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Malsch_station"><small>dbr</small>:Malsch_station</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Margraviate_of_Baden"><small>dbr</small>:Margraviate_of_Baden</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Marianna_Shirinyan"><small>dbr</small>:Marianna_Shirinyan</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Martin_Wiesner"><small>dbr</small>:Martin_Wiesner</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Marxzell"><small>dbr</small>:Marxzell</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Winfried_Schäfer"><small>dbr</small>:Winfried_Schäfer</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Yotam_Ottolenghi"><small>dbr</small>:Yotam_Ottolenghi</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Yuja_Wang"><small>dbr</small>:Yuja_Wang</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/UN/LOCODE:DEETT"><small>dbr</small>:UN/LOCODE:DEETT</a></span></li>
+</ul></td></tr><tr class="odd"><td class="property">is <a class="uri" href="http://dbpedia.org/property/birthPlace"><small>dbp:</small>birthPlace</a>
+ of</td><td><ul>
+	<li><span class="literal"><a class="uri" rev="dbp:birthPlace" href="http://dbpedia.org/resource/Gerhard_Bassenge"><small>dbr</small>:Gerhard_Bassenge</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbp:birthPlace" href="http://dbpedia.org/resource/Simon_Pierro"><small>dbr</small>:Simon_Pierro</a></span></li>
+</ul></td></tr><tr class="even"><td class="property">is <a class="uri" href="http://dbpedia.org/property/deathPlace"><small>dbp:</small>deathPlace</a>
+ of</td><td><ul>
+	<li><span class="literal"><a class="uri" rev="dbp:deathPlace" href="http://dbpedia.org/resource/Ludwig_Müller_(general)"><small>dbr</small>:Ludwig_Müller_(general)</a></span></li>
+</ul></td></tr><tr class="odd"><td class="property">is <a class="uri" href="http://xmlns.com/foaf/0.1/primaryTopic"><small>foaf:</small>primaryTopic</a>
+ of</td><td><ul>
+	<li><span class="literal"><a class="uri" rev="foaf:primaryTopic" href="http://en.wikipedia.org/wiki/Ettlingen"><small>wikipedia-en</small>:Ettlingen</a></span></li>
+</ul></td></tr>
+      </table>
+    </div>
+<!-- row  -->
+</div>
+</div>
+<!-- footer -->
+<div class="footer">
+    <div class="container">
+	<a href="https://virtuoso.openlinksw.com" title="OpenLink Virtuoso"><img class="powered_by" src="/statics/images/virt_power_no_border.png" alt="Powered by OpenLink Virtuoso"/></a>&nbsp; &nbsp;
+	<a href="http://linkeddata.org/"><img alt="This material is Open Knowledge" src="/statics/images/LoDLogo.gif"/></a> &nbsp; &nbsp;
+	<a href="http://dbpedia.org/sparql"><img alt="W3C Semantic Web Technology" src="/statics/images/sw-sparql-blue.png"/></a> &nbsp;  &nbsp;
+	<a href="https://opendefinition.org/"><img alt="This material is Open Knowledge" src="/statics/images/od_80x15_red_green.png"/></a>&nbsp; &nbsp;
+	<span style="display:none;" about=""
+	    resource="http://www.w3.org/TR/rdfa-syntax"
+	    rel="dc:conformsTo">
+	    <a href="https://validator.w3.org/check?uri=referer">
+		<img src="https://www.w3.org/Icons/valid-xhtml-rdfa" alt="Valid XHTML + RDFa" height="27px" />
+	    </a>
+	</span>
+	<br />
+	<div class="text-muted">
+	    This content was extracted from <a href="http://en.wikipedia.org/wiki/Ettlingen">Wikipedia</a> and is licensed under the <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike 3.0 Unported License</a>
+
+	</div>
+    </div>
+</div>
+<!-- #footer -->
+<!--#content-->
+    <!--script type="text/javascript">
+     Place any Javascript code e.g. Google Analytics scripts
+    </script-->
+    
+    <script type="text/javascript" src="/statics/js/jquery.min.js"></script>
+    <script type="text/javascript" src="/statics/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="/statics/js/dbpedia.js"></script>
+</body>
+</html>

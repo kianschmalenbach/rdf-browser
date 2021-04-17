@@ -1,0 +1,26 @@
+
+
+
+
+    
+
+    
+    
+
+    <http://msc2010.org/resources/MSC/2010/18B30> <http://msc2010.org/resources/MSC/2010/mscvocab#xmlns> "http://msc2010.org/resources/MSC/2010/mscvocab#"  ;
+<http://www.w3.org/2000/01/rdf-schema#xmlns> "http://www.w3.org/2000/01/rdf-schema#"   .<http://msc2010.org/resources/MSC/2010/54B30> <http://msc2010.org/resources/MSC/2010/mscvocab#seeAlso> <http://msc2010.org/resources/MSC/2010/18B30>  ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept>  ;
+<http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://msc2010.org/resources/MSC/2010/18B30>  ;
+<http://www.w3.org/2004/02/skos/core#altLabel> "Categorical methods [See also 18B30]"@en ,"Metodi categoriali [Vedi anche 18B30]"@it ,"范畴方法[参见18B30]"@zh  ;
+<http://www.w3.org/2004/02/skos/core#broader> <http://msc2010.org/resources/MSC/2010/54Bxx>  ;
+<http://www.w3.org/2004/02/skos/core#exactMatch> <http://msc2010.org/resources/MSC/2000/54B30>  ;
+<http://www.w3.org/2004/02/skos/core#historyNote> <http://msc2010.org/resources/MSC/2010/54B30-formerly-1991>  ;
+<http://www.w3.org/2004/02/skos/core#inScheme> <http://msc2010.org/resources/MSC/2010/MSC2010>  ;
+<http://www.w3.org/2004/02/skos/core#notation> "54B30"^^<http://msc2010.org/resources/MSC/2010/mscvocab#MSCNotation>  ;
+<http://www.w3.org/2004/02/skos/core#note> "See also 18B30."  ;
+<http://www.w3.org/2004/02/skos/core#prefLabel> "Categorical methods"@en ,"Metodi categoriali"@it ,"范畴方法"@zh  ;
+<http://www.w3.org/2004/02/skos/core#relatedMatch> <http://msc2010.org/resources/MSC/2010/fullDD21-512.55>  ;
+<http://www.w3.org/2004/02/skos/core#semanticRelation> <http://msc2010.org/resources/MSC/2010/18B30>   .
+
+
+

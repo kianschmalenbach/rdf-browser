@@ -1,0 +1,1497 @@
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+dbr:Sugar	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Indo-European_languages	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Purba_Bardhaman_district	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Bengal	dbp:establishedTitle	dbr:Gupta_Empire ;
+	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:West_Bengal	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Princely_state	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:John_Faithfull_Fleet	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:History_of_Asia	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Sucrose	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Himachal_Pradesh	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Timeline_of_scientific_discoveries	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Assam	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Delhi	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Flat_Earth	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Kathmandu_Valley	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Patna	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Wartime_sexual_violence	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Empire	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Sari	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+<http://dbpedia.org/resource/Golden_age_(metaphor)>	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+<http://dbpedia.org/resource/History_of_the_World_(board_game)>	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Ferrous_metallurgy	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+<http://dbpedia.org/resource/5>	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Eastern_South_Asia	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:History_of_lute-family_instruments	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Hansi	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+<http://dbpedia.org/resource/Gau\u1E0Da_(city)>	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Timeline_of_Delhi	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Iron_pillar_of_Delhi	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Alwar_district	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Asigarh_Fort	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+<http://dbpedia.org/resource/Osian,_Jodhpur>	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+<http://dbpedia.org/resource/Hisar_(city)>	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:History_of_Delhi	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Historiography_of_the_Philippines	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Samudragupta	dbp:succession	dbr:Gupta_Empire ;
+	dbo:wikiPageWikiLink	dbr:Gupta_Empire ;
+	dbp:house	dbr:Gupta_Empire .
+<http://dbpedia.org/resource/240>	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+<http://dbpedia.org/resource/415>	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Bhiwani_district	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Saraswati_Wildlife_Sanctuary	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+<http://dbpedia.org/resource/Rang_Mahal,_Sri_Ganganagar>	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+<http://dbpedia.org/resource/Nagari,_Rajasthan>	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+<http://dbpedia.org/resource/Telhara,_Nalanda_district>	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+<http://dbpedia.org/resource/Approximations_of_\u03C0>	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:List_of_political_entities_in_the_4th_century	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:List_of_political_entities_in_the_5th_century	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:List_of_political_entities_in_the_6th_century	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:List_of_political_entities_in_the_7th_century	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+<http://dbpedia.org/resource/List_of_National_Treasures_of_Japan_(sculptures)>	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Bihar_Museum	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Lakshmi	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Kalpavriksha	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:The_Archaeology_of_Hindu_Ritual	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Dinar	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+<http://dbpedia.org/resource/Kalinga_(historical_region)>	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Samatata	dbo:wikiPageWikiLink	dbr:Gupta_Empire ;
+	dbp:leader	dbr:Gupta_Empire .
+dbr:Skanda_Purana	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Magadai	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+<http://dbpedia.org/resource/John_Allan_(numismatist)>	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+<http://dbpedia.org/resource/Raghuva\u1E43\u015Ba>	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+wikipedia-en:Gupta_Empire	foaf:primaryTopic	dbr:Gupta_Empire .
+<http://dbpedia.org/resource/3rd_century>	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Ardhanarishvara	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:List_of_state_leaders_in_the_3rd_century	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Bronze	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Eastern_philosophy	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Varanasi	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Brahmi_script	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+<http://dbpedia.org/resource/Jambudv\u012Bpa>	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Chandragupta_II	dbp:dynasty	dbr:Gupta_Empire ;
+	dbp:succession	dbr:Gupta_Empire ;
+	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+<http://dbpedia.org/resource/Gaya,_India>	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+<http://dbpedia.org/resource/Chakravarti_(Sanskrit_term)>	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Sarnath	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Buddharupa	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+<http://dbpedia.org/resource/Tantras_(Buddhism)>	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Army	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Agni	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Krishna_Janmasthan_Temple_Complex	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Indian_martial_arts	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+<http://dbpedia.org/resource/3>	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:History_of_martial_arts	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:History_of_science_and_technology_in_the_Indian_subcontinent	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Ancient_Asian_history	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:List_of_states_during_Late_Antiquity	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Battle_of_Mobei	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Tarumanagara	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+<http://dbpedia.org/resource/Lata_(region)>	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:List_of_rulers_of_Malwa	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Govindagupta	dbp:dynasty	dbr:Gupta_Empire ;
+	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:History_by_period	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Great_king	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Education_in_Uttar_Pradesh	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Ayodhya	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Bankura_district	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Kannauj	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Paramara_dynasty	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Chaulukya_dynasty	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Muzaffargarh	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Saurashtra_people	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Architecture_of_India	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Mahabodhi_Temple	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Devunigutta_Temple	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Gupta_art	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Sultanganj_Buddha	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Chandraprabha	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Jain_art	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Buddhapad_Hoard	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+<http://dbpedia.org/resource/390>	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+<http://dbpedia.org/resource/Michael_D._Willis>	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Jagadhri	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Gajra	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+<http://dbpedia.org/resource/Pointed_arch_(architecture)>	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:History_of_Chittagong	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+<http://dbpedia.org/resource/Langar_(Sikhism)>	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+<http://dbpedia.org/resource/List_of_political_and_geographic_subdivisions_by_total_area_in_excess_of_1,000,000_square_kilometers>	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Bhanpura	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Timeline_of_architecture	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Arch	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:History_of_Thailand	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Uttarakhand	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Chhatrapati_Shivaji_Maharaj_Vastu_Sangrahalaya	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Samkhyakarika	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Patna_district	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Culture_of_Mangalore	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+<http://dbpedia.org/resource/Government_Museum,_Mathura>	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Bhagavata	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Agastya	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Hindu_calendar	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Yamuna_in_Hinduism	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Tribhanga	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Culture_of_Uttar_Pradesh	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Puranic_chronology	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Cave_Temples_of_Mahabalipuram	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Girnar	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Kadamba_dynasty	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Kanheri_Caves	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Bhitari_pillar_inscription_of_Skandagupta	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Theatre_in_Bangladesh	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Pancharatra	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Eastern_Rukum_District	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Arang	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Historical_Vishnuism	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Animal_sacrifice_in_Hinduism	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Kushan_art	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+<http://dbpedia.org/resource/48_kos_parikrama_of_Kurukshetra>	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Iravan	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Music_of_Uttar_Pradesh	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Kurukshetra	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+<http://dbpedia.org/resource/Dashavatara_Temple,_Deogarh>	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Ashvamedha	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Sihor	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Nanoor	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Shekhawati	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Clothing_in_India	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Parel_Relief	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Rashtrakuta_dynasty	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Martand_Sun_Temple	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Satavahana_dynasty	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+<http://dbpedia.org/resource/Saurashtra_(region)>	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Madurai_Sungudi	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Hindu_temple_architecture	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Agnivansha	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Samanta	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:List_of_Brahmin_dynasties_and_states	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Shikhara	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Kaumudi-Mahotsava	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Origin_of_the_Gurjara-Pratiharas	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Later_Gupta_dynasty	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:History_of_clothing_in_the_Indian_subcontinent	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Brahmadeya	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Ancient_veena	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Goa_State_Museum	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+<http://dbpedia.org/resource/Imperial,_royal_and_noble_ranks>	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:List_of_ancient_great_powers	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Ancient_history	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:History_of_art	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Human_history	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Post-classical_history	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:List_of_empires	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Timeline_of_historic_inventions	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Chess	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Common_law	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Vajrayana	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Outline_of_South_Asian_history	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+<http://dbpedia.org/resource/Punjab,_Pakistan>	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:North_India	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+<http://dbpedia.org/resource/Dharmapala_(emperor)>	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Gandhara	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:South_Asia	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Harappa	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:History_of_Pakistan	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Indian_nationalism	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Indo-Aryan_peoples	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Indo-Greek_Kingdom	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Indus_Valley_Civilisation	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:History_of_Bangladesh	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Pala_Empire	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Culture_of_Pakistan	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Kushan_Empire	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Sindh	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Maurya_Empire	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Punjab	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Vehari	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Sculpture	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Terracotta	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Sculpture_in_the_Indian_subcontinent	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Birbhum_district	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Dera_Ismail_Khan_District	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Dera_Ismail_Khan_Tehsil	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Angarkha	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Guimet_Museum	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Gujarat	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Khushab_Tehsil	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Kidarites	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Krishna	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Rajanpur_District	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Timeline_of_ancient_history	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Gurjar	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Mahayana	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Akhnoor	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Alchon_Huns	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Noorpur_Thal_Tehsil	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Okara_District	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Mihirakula	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Salwar	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:List_of_rulers_of_Bengal	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Lost-wax_casting	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Chiniot_District	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Coinage_of_India	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Ancient_higher-learning_institutions	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Biharis	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Kalighat	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Kasur	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Kasur_District	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Hellenistic_influence_on_Indian_art	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Rupnagar_district	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Sacred_Rock_of_Hunza	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Sahiwal_District	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:History_of_Afghanistan	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Lakh	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Lingam	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Timeline_of_Bihar	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Timeline_of_South_Asian_history	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:East_India	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Economic_history_of_India	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Edicts_of_Ashoka	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Hadali	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Haripur_District	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:History_of_metallurgy_in_the_Indian_subcontinent	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Huna_people	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Indian_art	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Indian_religions	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Indo-Aryan_migrations	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Indo-Scythians	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Sasanian_Empire	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Hinglajgarh	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:History_of_Buddhism	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:History_of_Larkana	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:History_of_Punjab	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:History_of_agriculture_in_the_Indian_subcontinent	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:History_of_education_in_the_Indian_subcontinent	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Western_India	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Outline_of_ancient_India	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Pakpattan_District	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Buddhism_and_Hinduism	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Buddhist_art	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Yaudheya	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Tulamba	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Ghagra_choli	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Military_history_of_India	rdfs:seeAlso	dbr:Gupta_Empire ;
+	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Post-Mauryan_coinage_of_Gandhara	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Kushano-Sasanian_Kingdom	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Brahma_from_Mirpur-Khas	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Peopling_of_India	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Shapur_II	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Sialkot_District	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Siranwali	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Punjabi_clothing	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Farooqabad	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+<http://dbpedia.org/resource/National_Museum,_New_Delhi>	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Pillars_of_Ashoka	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Politics_of_West_Bengal	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Pottery_in_the_Indian_subcontinent	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Stupa	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Western_Satraps	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Hephthalites	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:History_of_Hinduism	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:History_of_Kutch	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Junagadh	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Greco-Buddhist_art	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Indo-Gangetic_Plain	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Mansehra	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Toramana	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Sanskrit	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Hindustani_classical_music	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Medieval_India	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Veena	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Kirtu	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Gupta_Empire	rdf:type	yago:Domain108556491 ,
+		dbo:Country ,
+		yago:WikicatFormerEmpiresOfAsia .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Gupta_Empire	rdf:type	wikidata:Q6256 .
+@prefix schema:	<http://schema.org/> .
+dbr:Gupta_Empire	rdf:type	schema:Country ,
+		yago:WikicatFormerEmpires ,
+		yago:WikicatFormerCountriesInAsia ,
+		yago:YagoGeoEntity ,
+		yago:WikicatEmpires ,
+		yago:Region108630985 ,
+		dbo:Place ,
+		dbo:Location ,
+		schema:Place ,
+		yago:Location100027167 ,
+		yago:Country108544813 ,
+		yago:District108552138 ,
+		dbo:PopulatedPlace ,
+		yago:AdministrativeDistrict108491826 ,
+		yago:YagoPermanentlyLocatedEntity ,
+		yago:WikicatHistoricalHinduEmpires ,
+		yago:WikicatStatesAndTerritoriesEstablishedInThe3rdCentury .
+@prefix umbel-rc:	<http://umbel.org/umbel/rc/> .
+dbr:Gupta_Empire	rdf:type	umbel-rc:PopulatedPlace ,
+		umbel-rc:Location_Underspecified ,
+		yago:YagoLegalActorGeo ,
+		yago:PhysicalEntity100001930 ,
+		yago:Object100002684 ,
+		yago:Empire108557482 ,
+		yago:WikicatEmpiresAndKingdomsOfIndia ,
+		umbel-rc:Country .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Gupta_Empire	rdf:type	owl:Thing ;
+	rdfs:label	"\uAD7D\uD0C0 \uC655\uC870"@ko ,
+		"\u0391\u03C5\u03C4\u03BF\u03BA\u03C1\u03B1\u03C4\u03BF\u03C1\u03AF\u03B1 \u0393\u03BA\u03BF\u03CD\u03C0\u03C4\u03B1"@el ,
+		"Gupta imperio"@eo ,
+		"Gupta-Reich"@de ,
+		"Imperio Gupta"@es ,
+		"Dynastia Gupt\u00F3w"@pl ,
+		"\u30B0\u30D7\u30BF\u671D"@ja ,
+		"Guptovsk\u00E1 \u0159\u00ED\u0161e"@cs ,
+		"Imp\u00E9rio Gupta"@pt ,
+		"Impero Gupta"@it ,
+		"Guptariket"@sv ,
+		"\u0406\u043C\u043F\u0435\u0440\u0456\u044F \u0413\u0443\u043F\u0442\u0456\u0432"@uk ,
+		"Gupta's"@nl ,
+		"Kemaharajaan Gupta"@in ,
+		"Gupta Empire"@en ,
+		"\u7B08\u591A\u738B\u671D"@zh ,
+		"\u0625\u0645\u0628\u0631\u0627\u0637\u0648\u0631\u064A\u0629 \u062C\u0648\u0628\u062A\u0627"@ar ,
+		"Gupta Inperioa"@eu ,
+		"Imperi Gupta"@ca ,
+		"Empire Gupta"@fr ;
+	rdfs:comment	"\uAD7D\uD0C0 \uC655\uC870(\uD78C\uB514\uC5B4: \u0917\u0941\u092A\u094D\u0924 \u0930\u093E\u091C\u0935\u0902\u0936 Gupta dynasty)\uB294 \uCFE0\uC0E8 \uC655\uC870\uAC00 \uBA78\uB9DD\uD55C \uD6C4 4\uC138\uAE30 \uCD08\uC5D0 \uCC2C\uB4DC\uB77C\uAD7D\uD0C01\uC138\uAC00 \uAC74\uAD6D\uD558\uC5EC \uBD81\uC778\uB3C4\uB97C \uC9C0\uBC30\uD558\uB358 \uC81C\uAD6D\uC774\uC5C8\uB2E4. \uC774 \uAC00 \uCE58\uC138\uC5D0 \uC2ED\uC9C4\uBC95\uC774 \uBC1C\uBA85\uB418\uC5C8\uB2E4. \uCC2C\uB4DC\uB77C\uAD7D\uD0C02\uC138 \uB54C \uCFE0\uC0E8\uC778\uACFC \uC0E4\uCE74\uC778, \uD22C\uB974\uD06C\uC778\uACFC \uAC19\uC740 \uC774\uBBFC\uC871\uB4E4\uC744 \uBAB0\uC544\uB0B4\uACE0 \uBD81\uC778\uB3C4\uB97C \uD1B5\uC77C\uD558\uAC8C \uB418\uB294\uB370, \uC774\uB54C\uBD80\uD130 \uAD7D\uD0C0 \uC655\uC870\uC5D0\uC11C \uBBFC\uC871\uC758\uC2DD\uC774 \uD2B8\uC774\uAE30 \uC2DC\uC791\uD588\uC5C8\uB2E4. \uADF8 \uACB0\uACFC \uBE0C\uB77C\uB9CC\uAD50\uB97C \uBC14\uD0D5\uC73C\uB85C \uC778\uB3C4\uC758 \uBBFC\uAC04\uC2E0\uC559\uACFC \uBD88\uAD50\uB97C \uC735\uD569\uD55C \uD78C\uB450\uAD50\uAC00 \uC655\uACFC \uBC31\uC131\uB4E4\uC758 \uC9C0\uC9C0\uB97C \uBC1B\uAC8C\uB418\uC5C8\uB2E4. \uD78C\uB450\uAD50\uB3C4\uB4E4\uC758 \uC77C\uC0C1\uC0DD\uD65C\uC5D0 \uB9C8\uB204 \uBC95\uC804\uC774 \uC601\uD5A5\uC744 \uB07C\uCE58\uAC8C \uB41C \uAC83\uB3C4 \uAD7D\uD0C0 \uC655\uC870 \uC2DC\uAE30\uB54C\uBD80\uD130\uC600\uB2E4. \uB610\uD55C, \uC544\uB9AC\uC544\uC778\uC758 \uC5B8\uC5B4\uC778 \uC0B0\uC2A4\uD06C\uB9AC\uD2B8\uC5B4\uB85C \uC4F0\uC778 '\uB9C8\uD558\uBC14\uB77C\uD0C0'\uAC00 \uD78C\uB450\uAD50\uC758 \uACBD\uC804\uC774 \uB418\uC5C8\uB2E4. \uADF8 \uC774\uC678\uC5D0\uB3C4 \uCE7C\uB9AC\uB2E4\uC0AC\uC758 \uD76C\uACE1 '\uC0E4\uCFE4\uD0C8\uB77C', \uC11C\uC0AC\uC2DC '\uB77C\uB9C8\uC57C\uB098'\uC640 \uAC19\uC740 \uC791\uD488\uC774 \uD0C4\uC0DD\uD558\uBA70 \uC0B0\uC2A4\uD06C\uB9AC\uD2B8 \uBB38\uD559\uC774 \uBC1C\uC804\uD558\uC600\uB2E4. \uAD7D\uD0C0 \uC655\uC870\uB294 \uC5EC\uB7EC\uCC28\uB840\uC5D0 \uAC78\uCCD0 \uBC31\uD6C8\uC871(\uC5D0\uD504\uD0C8)\uC758 \uCE68\uC785\uC73C\uB85C \uBD81\uC778\uB3C4 \uC9C0\uBC29\uC758 \uBD88\uAD50 \uAD50\uB2E8\uC774 \uD06C\uAC8C \uD0C0\uACA9\uC744 \uC785\uC5B4 \uBBFC\uAC04\uC758 \uBD88\uAD50\uC2E0\uC559\uC740 \uC1E0\uD1F4\uD558\uC600\uC73C\uB098, \uC544\uC794\uD0C0 \uC11D\uAD74\uC0AC\uC6D0\uACFC \uAC19\uC740 \uAD7D\uD0C0 \uC591\uC2DD\uC758 \uBD88\uAD50 \uBBF8\uC220\uC774 \uBC1C\uB2EC\uD558\uC600\uB2E4."@ko ,
+		"Die Gupta (Sanskrit, \u0917\u0941\u092A\u094D\u0924, gupta) waren eine altindische Herrscher-Dynastie. Ihr Name steht neben den Maurya und Kuschana f\u00FCr das antike Indien. Die Epoche der Gupta-Dynastie von etwa 320 bis 550 n. Chr. gilt als \u201Egoldenes\u201C bzw. \u201Eklassisches Zeitalter\u201C der indischen Geschichte."@de ,
+		"El Imperio Gupta fue uno de los mayores imperios pol\u00EDticos y militares de la historia de la India. Fue gobernado por la dinast\u00EDa Gupta entre 320 y 550 d. C. y ocup\u00F3 la mayor parte de la India septentrional y de los actuales Pakist\u00E1n oriental y Banglad\u00E9s.\u200B Bajo este imperio, se dio un per\u00EDodo de paz y prosperidad que favoreci\u00F3 el desarrollo de la cultura india desde el punto de vista art\u00EDstico, literario y cient\u00EDfico.\u200B"@es ,
+		"Les Gupta sont une dynastie ayant r\u00E9gn\u00E9 sur le nord de l'Inde de la fin du IIIe si\u00E8cle aux alentours du milieu du VIe si\u00E8cle. Leur origine reste myst\u00E9rieuse et il est probable qu'ils aient tout d'abord \u00E9t\u00E9 un clan de roitelets \u00E0 la t\u00EAte de petits \u00C9tats dans la vall\u00E9e du Gange et de ses affluents. Cette dynastie conna\u00EEt une expansion rapide au IVe si\u00E8cle, sous l'impulsion des conqu\u00E9rants Chandragupta et Samudragupta, et voit l'apog\u00E9e de sa prosp\u00E9rit\u00E9 durant la premi\u00E8re moiti\u00E9 du Ve si\u00E8cle, notamment sous le r\u00E8gne de Kum\u00E2ragupta Ier et de son fils Skandagupta. Le d\u00E9clin des Gupta d\u00E9bute ensuite, sous l'effet d'invasions ext\u00E9rieures et de forces centrifuges, et leur fin reste mal connue."@fr ,
+		"Guptariket var ett rike i Indien, grundat 275 e.Kr. och som bestod till ungef\u00E4r 550 e. Kr. Riket innebar en kulturell blomstringsperiod f\u00F6r Indien. V\u00E4rdet av \"pi\" ber\u00E4knades f\u00F6r f\u00F6rsta g\u00E5ngen av matematikern Aryabhata 499 e. Kr. Aryabhata fastslog ocks\u00E5 att jorden \u00E4r rund och roterar runt sin egen axel. Han ber\u00E4knade \u00E4ven sol\u00E5rets l\u00E4ngd till exaktheten av 365,358 dagar. Den indiska handeln med romarriket avtog vid tiden f\u00F6r Guptarikets uppkomst. Ist\u00E4llet kom man att under Guptariket handla med Sydostasien."@sv ,
+		"\u0406\u043C\u043F\u0435\u0301\u0440\u0456\u044F \u0413\u0443\u0301\u043F\u0442\u0456\u0432 (\u0441\u0430\u043D\u0441\u043A\u0440. \u0917\u0941\u092A\u094D\u0924, gupta, \u0433\u0456\u043D\u0434\u0456 \u0917\u0941\u092A\u094D\u0924 \u0930\u093E\u091C\u0935\u0902\u0936, Gupta R\u0101java\u1E43\u015Ba; \u043F\u0440\u0438\u0431\u043B\u0438\u0437\u043D\u043E 320 \u2014 550 \u0440\u043E\u043A\u0438) \u2014 \u0434\u0435\u0440\u0436\u0430\u0432\u0430 \u0432 \u0406\u043D\u0434\u0456\u0457 \u0437\u0456 \u0441\u0442\u043E\u043B\u0438\u0446\u0435\u044E \u0432 \u041F\u0430\u0442\u0430\u043B\u0456\u043F\u0443\u0442\u0440\u0456, \u043D\u0430\u0437\u0432\u0430 \u044F\u043A\u043E\u0457 \u043F\u043E\u0445\u043E\u0434\u0438\u0442\u044C \u0432\u0456\u0434 \u0456\u043C\u0435\u043D\u0456 \u0437\u0430\u0441\u043D\u043E\u0432\u043D\u0438\u043A\u0430 \u043F\u0440\u0430\u0432\u043B\u044F\u0447\u043E\u0457 \u0434\u0430\u0432\u043D\u044C\u043E\u0456\u043D\u0434\u0456\u0439\u0441\u044C\u043A\u043E\u0457 \u0434\u0438\u043D\u0430\u0441\u0442\u0456\u0457 \u0413\u0443\u043F\u0442\u0456\u0432 \u0428\u0440\u0456-\u0413\u0443\u043F\u0442\u0438. \u0414\u0435\u0440\u0436\u0430\u0432\u0430 \u0413\u0443\u043F\u0442\u0456\u0432 \u0431\u0443\u043B\u0430 \u0437\u0430\u0441\u043D\u043E\u0432\u0430\u043D\u0430 \u0440\u0430\u0434\u0436\u0435\u044E \u0427\u0430\u043D\u0434\u0440\u0430\u0433\u0443\u043F\u0442\u043E\u044E I \u043D\u0430\u0439\u0456\u043C\u043E\u0432\u0456\u0440\u043D\u0456\u0448\u0435 320 \u0440\u043E\u043A\u0443. \u0412\u0456\u0434 \u0446\u0456\u0454\u0457 \u0434\u0430\u0442\u0438 \u0432\u0435\u0434\u0435\u0442\u044C\u0441\u044F \u0441\u0435\u0440\u0435\u0434\u043D\u044C\u043E\u0432\u0456\u0447\u043D\u0435 \u043B\u0456\u0442\u043E\u0447\u0438\u0441\u043B\u0435\u043D\u043D\u044F \u00AB\u0435\u043F\u043E\u0445\u0438 \u0413\u0443\u043F\u0442\u0456\u0432\u00BB, \u044F\u043A\u0430 \u043F\u0440\u043E\u0456\u0441\u043D\u0443\u0432\u0430\u043B\u0430 \u043F\u043E\u043D\u0430\u0434 300 \u0440\u043E\u043A\u0456\u0432. \u041F\u0430\u043D\u0443\u0432\u0430\u043D\u043D\u044F \u0434\u0438\u043D\u0430\u0441\u0442\u0456\u0457 \u0413\u0443\u043F\u0442\u0456\u0432 \u043F\u043E \u043F\u0440\u0430\u0432\u0443 \u0432\u0432\u0430\u0436\u0430\u044E\u0442\u044C \u0437\u043E\u043B\u043E\u0442\u0438\u043C \u0441\u0442\u043E\u043B\u0456\u0442\u0442\u044F\u043C \u043A\u043B\u0430\u0441\u0438\u0447\u043D\u043E\u0457 \u0456\u043D\u0434\u0456\u0439\u0441\u044C\u043A\u043E\u0457 \u0456\u0441\u0442\u043E\u0440\u0456\u0457. \u041D\u0430\u043F\u0440\u0438\u043A\u0456\u043D\u0446\u0456 VI \u0441\u0442\u043E\u043B\u0456\u0442\u0442\u044F \u0434\u0435\u0440\u0436\u0430\u0432\u0430 \u0413\u0443\u043F\u0442\u0456\u0432 \u043F\u0440\u0438\u043F\u0438\u043D\u0438\u043B\u0430 \u0456\u0441\u043D\u0443\u0432\u0430\u043D\u043D\u044F."@uk ,
+		"La Gupta Imperio (hindia lingvo: \u0917\u0941\u092A\u094D\u0924 \u0930\u093E\u091C\u0935\u0902\u0936) estis fondita de , kaj prosperis de 280 \u011Dis 550. La imperio kovris pliparton de la norda Hindujo kaj orienta Pakistano, partojn de Gu\u011Darato kaj Ra\u011Dasthano kaj la nuntempan Banglade\u015Don. La \u0109efurbo de la gupta imperio estis Pataliputro, nuntempe Patna, en la norda barata sub\u015Dtato Biharo."@eo ,
+		"\u0625\u0645\u0628\u0631\u0627\u0637\u0648\u0631\u064A\u0629 \u062C\u0648\u0628\u062A\u0627 \u0647\u064A \u0625\u0645\u0628\u0631\u0627\u0637\u0648\u0631\u064A\u0629 \u0647\u0646\u062F\u064A\u0629 \u0642\u062F\u064A\u0645\u0629 \u062D\u0643\u0645\u062A \u0634\u0645\u0627\u0644 \u0627\u0644\u0647\u0646\u062F \u0648\u0634\u0631\u0642 \u0628\u0627\u0643\u0633\u062A\u0627\u0646 \u0641\u064A \u0627\u0644\u0641\u062A\u0631\u0629 \u0627\u0644\u0645\u0645\u062A\u062F\u0629 \u062A\u0642\u0631\u064A\u0628\u0627\u064B \u0645\u0646 320 \u0625\u0644\u0649 550\u0645. \u0623\u0633\u0633\u0647\u0627 \"\u0645\u0627\u0647\u0627\u0631\u0627\u062C\u0627 \u0633\u0631\u0650-\u062C\u0648\u0628\u062A\u0627\". \u0648\u0642\u062F \u0639\u0645\u0651 \u0641\u064A \u0639\u0647\u062F\u0647\u0627 \u0627\u0644\u0623\u0645\u0646 \u0648\u0627\u0644\u0631\u062E\u0627\u0621 \u0645\u0645\u0627 \u0645\u0643\u0646 \u0627\u0644\u0639\u0644\u0648\u0645 \u0648\u0627\u0644\u0641\u0646\u0648\u0646 \u0645\u0646 \u0627\u0644\u0627\u0646\u062A\u0634\u0627\u0631. \u0648\u062A\u0633\u0645\u0649 \u0647\u0630\u0647 \u0627\u0644\u0641\u062A\u0631\u0629 \u060C \u0641\u0642\u062F \u062A\u0645\u062A \u062E\u0644\u0627\u0644\u0647\u0627 \u0625\u0646\u062C\u0627\u0632\u0627\u062A \u0648\u0627\u0633\u0639\u0629 \u0641\u064A \u0627\u0644\u0639\u0644\u0645 \u0648\u0627\u0644\u062A\u0643\u0646\u0648\u0644\u0648\u062C\u064A\u0627 \u0648\u0627\u0644\u0647\u0646\u062F\u0633\u0629 \u0648\u0627\u0644\u0641\u0646 \u0648\u0627\u0644\u0623\u062F\u0628 \u0648\u0639\u0644\u0645 \u0627\u0644\u0645\u0646\u0637\u0642 \u0648\u0627\u0644\u0631\u064A\u0627\u0636\u064A\u0627\u062A \u0648\u0639\u0644\u0645 \u0627\u0644\u0641\u0644\u0643 \u0648\u0627\u0644\u062F\u064A\u0646 \u0648\u0627\u0644\u0641\u0644\u0633\u0641\u0629 \u0648\u0628\u0644\u0648\u0631\u062A \u0645\u0627 \u064A\u064F\u0639\u0631\u0641 \u0639\u0645\u0648\u0645\u0627 \u0628\u0627\u0644\u062B\u0642\u0627\u0641\u0629 \u0627\u0644\u0647\u0646\u062F\u064A\u0629. \u0648\u0623\u0647\u0645 \u062D\u0643\u0627\u0645 \u0625\u0645\u0628\u0631\u0627\u0637\u0648\u0631\u064A\u0629 \u062C\u0648\u0628\u062A\u0627 \u0647\u0645 \u0634\u0627\u0646\u062F\u0631\u0627 \u062C\u0648\u0628\u062A\u0627 \u0627\u0644\u0623\u0648\u0644  ."@ar ,
+		"\u30B0\u30D7\u30BF\u671D\uFF08\u30B0\u30D7\u30BF\u3061\u3087\u3046\u3001Gupta Empire\uFF09\u306F\u3001\u53E4\u4EE3\u30A4\u30F3\u30C9\u306B\u304A\u3044\u3066\u3001\u897F\u66A6320\u5E74\u304B\u3089550\u5E74\u9803\u307E\u3067\u3001\u30D1\u30FC\u30BF\u30EA\u30D7\u30C8\u30E9\u3092\u90FD\u3068\u3057\u3066\u6804\u3048\u305F\u738B\u671D\u3067\u3042\u308B\u30024\u4E16\u7D00\u306B\u6700\u76DB\u671F\u3092\u8FCE\u3048\u3001\u30A4\u30F3\u30C9\u5317\u90E8\u3092\u7D71\u4E00\u3057\u305F\u3002"@ja ,
+		"L'Imperi Gupta (s\u00E0nscrit \u0917\u0941\u092A\u094D\u0924 \u0938\u093E\u092E\u094D\u0930\u093E\u091C\u094D\u092F, Gupta S\u0101mr\u0101jya) fou un antic imperi indi que va existir aproximadament des del 320 al 550 de la nostra era, i ocup\u00E0 bona part del subcontinent indi. Fundat per , la dinastia \u00E9s un model de civilitzaci\u00F3 cl\u00E0ssica. La pau i prosperitat creades sota el govern dels Guptes va permetre l'exercici d'activitats cient\u00EDfiques i t\u00E8cniques. Aquest per\u00EDode s'anomena l'Edad Daurada de l'\u00CDndia i estigu\u00E9 marcat per un bon nombre d'invents i descobriments en el camp de la ci\u00E8ncia, la tecnologia, l'enginyeria, l'art, la dial\u00E8ctica, la literatura, la l\u00F2gica, les matem\u00E0tiques, l'astronomia, la  i la filosofia que cristal\u00B7litzaren els elements del que generalment \u00E9s conegut com a cultura hind\u00FA. ,  i  foren els governants m\u00E9s notables de la dinastia Gupta. Al segle iv, e"@ca ,
+		"Kemaharajaan Gupta diperintah oleh raja-raja  sejak 320 M sampai 550 M. Wilayahnya meliputi hampir seluruh India utara. Zaman Kemaharajaan Gupta dianggap sebagai  dalam ilmu pengetahuan, matematika, astronomi, agama dan filsafat. Kedamaian yang ada selama kekuasaan kemaharajaan Gupta membuat pengejaran ilmu pengetahuan dan artistik. Sejarawan menyejajarkan dinasti Gupta bersama dengan Dinasti Han, Dinasti Tang dan Kekaisaran Romawi sebagai model peradaban klasik."@in ,
+		"Guptowie \u2013 dynastia panuj\u0105ca na r\u00F3\u017Cnych obszarach dzisiejszych Indii, Pakistanu, Bangladeszu i Afganistanu w latach 320\u2013720 n.e. Cz\u0142onkowie: 1.  \n* \u0106andragupta I (320-330) 2.  \n* Samudragupta (330-375) 3.  \n* \u0106andragupta II (375-414) 4.  \n* Kumaragupta I (415-455) 5.  \n*  (455-467) 6.  \n*  (467-473) 7.  \n*  (473-476) 8.  \n*  (476-495?) Kolejni w\u0142adcy nie odgrywali ju\u017C w Indiach znacz\u0105cej roli. Guptowie przetrwali jako ksi\u0105\u017C\u0119ta Magadhy do pocz\u0105tk\u00F3w VIII w. (cz\u0119sto jednak uwa\u017Ca si\u0119, \u017Ce od ok. 550 roku by\u0142 to inny r\u00F3d o identycznej nazwie)."@pl ,
+		"The Gupta Empire was an ancient Indian empire existing from the mid-to-late 3rd century CE to 543 CE. At its zenith, from approximately 319 to 467 CE, it covered much of the Indian subcontinent. This period is considered as the Golden Age of India by some historians. The ruling dynasty of the empire was founded by the king Sri Gupta; the most notable rulers of the dynasty were Chandragupta I, Samudragupta, and Chandragupta II alias Vikramaditya. The 5th-century CE Sanskrit poet Kalidasa credits the Guptas with having conquered about twenty-one kingdoms, both in and outside India, including the kingdoms of Parasikas, the Hunas, the Kambojas, tribes located in the west and east Oxus valleys, the Kinnaras, Kiratas, and others."@en ,
+		"\u0397 \u0391\u03C5\u03C4\u03BF\u03BA\u03C1\u03B1\u03C4\u03BF\u03C1\u03AF\u03B1 \u0393\u03BA\u03BF\u03CD\u03C0\u03C4\u03B1 (\u03C3\u03B1\u03BD\u03C3\u03BA\u03C1\u03B9\u03C4\u03B9\u03BA\u03AC: \u0917\u0941\u092A\u094D\u0924 \u0938\u093E\u092E\u094D\u0930\u093E\u091C\u094D\u092F), \u03AE\u03C4\u03B1\u03BD \u03B1\u03C1\u03C7\u03B1\u03AF\u03B1 \u03B9\u03BD\u03B4\u03B9\u03BA\u03AE \u03B1\u03C5\u03C4\u03BF\u03BA\u03C1\u03B1\u03C4\u03BF\u03C1\u03AF\u03B1 \u03C0\u03BF\u03C5 \u03B4\u03B9\u03AE\u03C1\u03BA\u03B5\u03C3\u03B5 \u03B1\u03C0\u03CC \u03C4\u03BF 320 \u03BC.\u03A7. \u03BC\u03AD\u03C7\u03C1\u03B9 \u03C4\u03BF 550 \u03BC.\u03A7., \u03BA\u03B1\u03BB\u03CD\u03C0\u03C4\u03BF\u03BD\u03C4\u03B1\u03C2 \u03BC\u03B5\u03B3\u03AC\u03BB\u03BF \u03C4\u03BC\u03AE\u03BC\u03B1 \u03C4\u03B7\u03C2 \u03B9\u03BD\u03B4\u03B9\u03BA\u03AE\u03C2 \u03C5\u03C0\u03BF\u03B7\u03C0\u03B5\u03AF\u03C1\u03BF\u03C5. \u0399\u03B4\u03C1\u03CD\u03B8\u03B7\u03BA\u03B5 \u03B1\u03C0\u03CC \u03C4\u03BF \u039C\u03B1\u03C7\u03B1\u03C1\u03B1\u03B3\u03B9\u03AC \u03A3\u03C1\u03B9 \u0393\u03BA\u03BF\u03CD\u03C0\u03C4\u03B1, \u03B1\u03C0\u03BF\u03C4\u03B5\u03BB\u03CE\u03BD\u03C4\u03B1\u03C2 \u03BC\u03BF\u03BD\u03C4\u03AD\u03BB\u03BF \u03BA\u03BB\u03B1\u03C3\u03B9\u03BA\u03BF\u03CD \u03C0\u03BF\u03BB\u03B9\u03C4\u03B9\u03C3\u03BC\u03BF\u03CD. \u03A3\u03C4\u03B1 \u03C7\u03C1\u03CC\u03BD\u03B9\u03B1 \u03C4\u03B7\u03C2, \u03B7 \u03B5\u03B9\u03C1\u03AE\u03BD\u03B7 \u03BA\u03B1\u03B9 \u03B5\u03C5\u03B7\u03BC\u03B5\u03C1\u03AF\u03B1 \u03B4\u03B7\u03BC\u03B9\u03BF\u03CD\u03C1\u03B3\u03B7\u03C3\u03B1\u03BD \u03C4\u03B9\u03C2 \u03C3\u03C5\u03BD\u03B8\u03AE\u03BA\u03B5\u03C2 \u03B3\u03B9\u03B1 \u03C4\u03B7\u03BD \u03B5\u03C0\u03B9\u03B4\u03AF\u03C9\u03BE\u03B7 \u03B5\u03C0\u03B9\u03C3\u03C4\u03B7\u03BC\u03BF\u03BD\u03B9\u03BA\u03CE\u03BD \u03BA\u03B1\u03B9 \u03BA\u03B1\u03BB\u03BB\u03B9\u03C4\u03B5\u03C7\u03BD\u03B9\u03BA\u03CE\u03BD \u03B5\u03C0\u03B9\u03C4\u03B5\u03C5\u03B3\u03BC\u03AC\u03C4\u03C9\u03BD. \u0397 \u03C0\u03B5\u03C1\u03AF\u03BF\u03B4\u03BF\u03C2 \u03B1\u03C5\u03C4\u03AE \u03BA\u03B1\u03BB\u03B5\u03AF\u03C4\u03B1\u03B9 \u03C9\u03C2 \u03A7\u03C1\u03C5\u03C3\u03AE \u0395\u03C0\u03BF\u03C7\u03AE \u03C4\u03B7\u03C2 \u0399\u03BD\u03B4\u03AF\u03B1\u03C2 \u03BA\u03B1\u03B9 \u03C3\u03B7\u03BC\u03B1\u03B4\u03B5\u03CD\u03C4\u03B7\u03BA\u03B5 \u03B1\u03C0\u03CC \u03B5\u03BA\u03C4\u03B5\u03C4\u03B1\u03BC\u03AD\u03BD\u03B5\u03C2 \u03B1\u03BD\u03B1\u03BA\u03B1\u03BB\u03CD\u03C8\u03B5\u03B9\u03C2 \u03C3\u03C4\u03B7\u03BD \u0395\u03C0\u03B9\u03C3\u03C4\u03AE\u03BC\u03B7, \u03C4\u03B7\u03BD \u03A4\u03B5\u03C7\u03BD\u03BF\u03BB\u03BF\u03B3\u03AF\u03B1, \u03C4\u03B7 \u039C\u03B7\u03C7\u03B1\u03BD\u03B9\u03BA\u03AE, \u03C4\u03B7\u03BD \u03A4\u03AD\u03C7\u03BD\u03B7, \u03C4\u03B7 \u0394\u03B9\u03B1\u03BB\u03B5\u03BA\u03C4\u03B9\u03BA\u03AE, \u03C4\u03B7 \u039B\u03BF\u03B3\u03BF\u03C4\u03B5\u03C7\u03BD\u03AF\u03B1, \u03C4\u03B7 \u039B\u03BF\u03B3\u03B9\u03BA\u03AE, \u03C4\u03B1 \u039C\u03B1\u03B8\u03B7\u03BC\u03B1\u03C4\u03B9\u03BA\u03AC, \u03C4\u03B7\u03BD \u0391\u03C3\u03C4\u03C1\u03BF\u03BD\u03BF\u03BC\u03AF\u03B1, \u03C4\u03B7 \u0398\u03C1\u03B7\u03C3\u03BA\u03B5\u03AF\u03B1 \u03BA\u03B1\u03B9 \u03C4\u03B7 \u03A6\u03B9\u03BB\u03BF\u03C3\u03BF\u03C6\u03AF\u03B1 \u03C0\u03BF\u03C5 \u03B1\u03C0\u03BF\u03BA\u03C1\u03C5\u03C3\u03C4\u03AC\u03BB\u03BB\u03C9\u03C3\u03B1\u03BD \u03C4\u03B1 \u03C3\u03C4\u03BF\u03B9\u03C7\u03B5\u03AF\u03B1 \u03C0\u03BF\u03C5 \u03B5\u03AF\u03BD\u03B1\u03B9 \u03B3\u03BD\u03C9\u03C3\u03C4\u03AC \u03B3\u03B5\u03BD\u03B9\u03BA\u03CE\u03C2 \u03C9\u03C2 \u03B9\u03BD\u03B4\u03BF\u03C5\u03B9\u03C3\u03C4\u03B9\u03BA\u03AE \u03BA\u03BF\u03C5\u03BB\u03C4\u03BF\u03CD\u03C1\u03B1. \u039F \u03A4\u03C3\u03AC\u03BD\u03C4\u03C1\u03B1 \u0393\u03BA\u03BF\u03CD\u03C0\u03C4\u03B1 \u0391', \u03BF \u03A3\u03B1\u03BC\u03BF\u03CD\u03BD\u03C4\u03C1\u03B1 \u0393\u03BA\u03BF\u03CD\u03C0\u03C4\u03B1 \u03BF \u039C\u03AD\u03B3\u03B1\u03C2 \u03BA\u03B1\u03B9 \u03BF \u03A4\u03C3\u03AC\u03BD\u03C4\u03C1\u03B1 \u0393\u03BA\u03BF\u03CD\u03C0\u03C4\u03B1 \u0392' "@el ,
+		"Guptovsk\u00E1 \u0159\u00ED\u0161e se rozprost\u00EDrala na v\u011Bt\u0161in\u011B \u00FAzem\u00ED severn\u00ED Indie (v\u010Detn\u011B \u00FAzem\u00ED dne\u0161n\u00EDch st\u00E1t\u016F P\u00E1kist\u00E1n a Banglad\u00E9\u0161) p\u0159ibli\u017En\u011B v obdob\u00ED let 320\u2013550. Obdob\u00ED vl\u00E1dy dynastie Gupt\u016F je ozna\u010Dov\u00E1no jako zlat\u00FD v\u011Bk Indie, jeliko\u017E velk\u00FD rozmach za\u017Eila v\u011Bda, matematika, astronomie, n\u00E1bo\u017Eenstv\u00ED i filosofie. K nejv\u00FDznamn\u011Bj\u0161\u00EDm panovn\u00EDk\u016Fm Guptovsk\u00E9 \u0159\u00ED\u0161e pak pat\u0159\u00ED \u010Candragupta I. Historici umis\u0165uj\u00ED Guptovskou \u0159\u00ED\u0161i mezi klasick\u00E9 civilizace jako byla \u010D\u00EDnsk\u00E1 dynastie Chan \u010Di Tchang nebo \u0158\u00EDmsk\u00E1 \u0159\u00ED\u0161e."@cs ,
+		"L'Impero Gupta \u00E8 stato uno dei maggiori imperi politici e militari dell'antica India. Fu governato dalla dinastia Gupta tra il 240 e il 550 d.C. e occup\u00F2 la maggior parte dell'India settentrionale, degli attuali Pakistan orientale e del Bangladesh. Sotto questo impero si ebbe un periodo di pace e prosperit\u00E0 che favor\u00EC lo sviluppo culturale: viene considerata l'\"et\u00E0 dell'oro\" della cultura indiana dal punto di vista artistico, letterario e scientifico (in modo analogo alle dinastie Han e Tang in Cina e alla cultura greco-romana per la civilt\u00E0 occidentale)."@it ,
+		"De Gupta's (Sanskriet: gupta) waren een dynastie in het noorden van zuidelijk Azi\u00EB (\"India\") tussen de laat 3e en 6e eeuw. In de 4e en 5e eeuw heersten ze over een rijk dat vrijwel het hele noorden van India besloeg. Hoewel hun rijk nooit zo groot was als het eerdere Mauryarijk of het latere Mogolrijk, worden de Gupta's als een van de belangrijkste dynastie\u00EBn in de Indische geschiedenis beschouwd. Dat is vooral vanwege de maatschappelijke en culturele ontwikkelingen onder hun heerschappij. In de periode voor de Gupta's hadden invallen van volkeren uit het noordwesten politieke instabiliteit, maar ook culturele uitwisseling gebracht. Onder de Gupta's beleefde India een stabiele periode, waarin de handel met het Middellandse Zeegebied, China en Centraal- en Zuidoost-Azi\u00EB grotere welvaart bra"@nl ,
+		"\u7B08\u591A\u738B\u671D\uFF08Gupta Empire\uFF09\uFF08319\u5E74\uFF0D550\u5E74\uFF09\u662F\u4EE5\u6046\u6CB3\u6D41\u57DF\u4E2D\u4E0B\u6E38\u70BA\u57FA\u5730\u7684\u5927\u5E1D\u570B\uFF0C\u66FE\u7D71\u6CBB\u5370\u5EA6\u6B21\u5927\u9678\u4E2D\u7684\u8A31\u591A\u5730\u5340\uFF0C\u662F\u5370\u5EA6\u6B77\u53F2\u4E0A\u5176\u4E2D\u4E00\u500B\u6700\u5174\u76DB\u7684\u65F6\u671F\uFF0C\u7A31\u70BA\u5370\u5EA6\u7684\u9EC3\u91D1\u6642\u4EE3\uFF0C\u5728\u6B77\u53F2\u4E0A\u4F54\u6709\u91CD\u8981\u5730\u4F4D\u3002\u7B08\u591A\u738B\u671D\u7684\u548C\u5E73\u53CA\u5BCC\u88D5\u4F7F\u5F97\u767E\u59D3\u53EF\u4EE5\u5728\u81F4\u529B\u65BC\u79D1\u5B78\u53CA\u85DD\u8853\u7684\u767C\u5C55\uFF0C\u5728\u3001\u3001\u3001\u8FA9\u8BC1\u6CD5\u3001\u6587\u5B78\u3001\u3001\u6578\u5B78\u3001\u3001\u5B97\u6559\u53CA\u54F2\u5B78\u4E0A\u90FD\u6709\u8A31\u591A\u7684\u6210\u5C31\uFF0C\u9019\u4E9B\u4E5F\u662F\u5370\u5EA6\u6559\u6587\u5316\u7684\u91CD\u8981\u6210\u4EFD\u3002 \u7B08\u591A\u738B\u671D\u8457\u540D\u7684\u570B\u738B\u6709\u65C3\u9640\u7F85\u00B7\u7B08\u591A\u4E00\u4E16\u3001\u6D77\u8B77\u738B\u6C99\u6469\u9640\u7F85\u00B7\u7B08\u591A\u53CA\u8D85\u65E5\u738B\u65C3\u9640\u7F85\u00B7\u7B08\u591A\u4E8C\u4E16\u3002\u56DB\u4E16\u7D00\u7684\u68B5\u8A9E\u8A69\u4EBA\u8FE6\u68A8\u9640\u5A11\u8A8D\u70BA\u7B08\u591A\u738B\u671D\u6253\u6557\u4E86\u7D04\u4E8C\u5341\u4E00\u500B\u738B\u570B\uFF0C\u6709\u5728\u5370\u5EA6\u5883\u5167\u7684\uFF0C\u4E5F\u6709\u5728\u5176\u4ED6\u5730\u5340\u7684\uFF0C\u9019\u4E9B\u738B\u570B\u5305\u62EC\u585E\u65CF\u738B\u570B\u3001\u3001\u67EC\u57D4\u5BE8\u3001\u5728\u963F\u59C6\u6CB3\u8C37\u6771\u897F\u7684\u90E8\u65CF\u3001, \u7B49\u3002 \u7B08\u591A\u738B\u671D\u5728\u5EFA\u7BC9\u3001\u96D5\u5851\u548C\u7E6A\u756B\u4E0A\u6709\u9AD8\u5EA6\u7684\u6210\u5C31\u3002\u7576\u6642\u7684\u5B78\u8005\uFF0C\u50CF\u8FE6\u68A8\u9640\u5A11\u3001\u963F\u8036\u6CE2\u591A\u3001\u4F10\u7F85\u8A36\u5BC6\u5E0C\u7F85\u3001\u53CA\u90FD\u5728\u5B78\u8853\u4E0A\u6709\u9AD8\u5EA6\u7684\u6210\u5C31\u3002"@zh ,
+		"Gupta Inperioa (sanskritoz: \u0917\u0941\u092A\u094D\u0924 \u0938\u093E\u092E\u094D\u0930\u093E\u091C\u094D\u092F, Gupta S\u0101mr\u0101jya) Indiako inoizko inperio politiko eta militar handienetariko bat izan zen.  agindu zuen Inperioan 240-550 urte bitartean. Lurraldez, India iparraldeko eremu gehiena, eta gaur egungo Pakistan ekialdea eta Bangladesh hartzen zituen. Inperioaren sasoian merkataritza eta kanpo-harremanak hain aberatsak izan ziren, ezen, sinesmen eta arkitektura hinduistak eta budistak Borneo, Kanbodia, Indonesia eta Thailandiaraino heldu ziren."@eu ;
+	foaf:name	"Gupta Empire (Dynasty)"@en ,
+		"Gupta Empire"@en ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Kushanmap.jpg> ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Gupta_Empire .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Gupta_Empire	dct:subject	dbc:Dynasties_of_India ,
+		dbc:History_of_Kolkata ,
+		dbc:Kingdoms_of_Bihar ,
+		dbc:Medieval_India ,
+		dbc:History_of_Pakistan ,
+		dbc:Empires_and_kingdoms_of_India ,
+		dbc:States_and_territories_established_in_the_320s ,
+		<http://dbpedia.org/resource/Category:550s_disestablishments> ,
+		<http://dbpedia.org/resource/Category:6th-century_disestablishments_in_India> ,
+		dbc:Historical_Hindu_empires ,
+		<http://dbpedia.org/resource/Category:4th-century_establishments_in_India> ,
+		dbc:History_of_Bengal ,
+		dbc:History_of_Bangladesh ,
+		dbc:History_of_West_Bengal ,
+		dbc:States_and_territories_disestablished_in_the_550s ,
+		dbc:Former_empires ,
+		dbc:Gupta_Empire ;
+	owl:sameAs	<http://ml.dbpedia.org/resource/\u0D17\u0D41\u0D2A\u0D4D\u0D24\u0D38\u0D3E\u0D2E\u0D4D\u0D30\u0D3E\u0D1C\u0D4D\u0D2F\u0D02> .
+@prefix ns14:	<http://ast.dbpedia.org/resource/> .
+dbr:Gupta_Empire	owl:sameAs	ns14:Imperiu_Gupta ,
+		<http://mr.dbpedia.org/resource/\u0917\u0941\u092A\u094D\u0924_\u0938\u093E\u092E\u094D\u0930\u093E\u091C\u094D\u092F> .
+@prefix dbpedia-eo:	<http://eo.dbpedia.org/resource/> .
+dbr:Gupta_Empire	owl:sameAs	dbpedia-eo:Gupta_imperio .
+@prefix dbpedia-sq:	<http://sq.dbpedia.org/resource/> .
+dbr:Gupta_Empire	owl:sameAs	dbpedia-sq:Perandoria_Gupta ,
+		<http://oc.dbpedia.org/resource/Emp\u00E8ri_Gupta> ,
+		<http://fo.dbpedia.org/resource/Guptar\u00EDki\u00F0> .
+@prefix dbpedia-sv:	<http://sv.dbpedia.org/resource/> .
+dbr:Gupta_Empire	owl:sameAs	dbpedia-sv:Guptariket .
+@prefix dbpedia-hu:	<http://hu.dbpedia.org/resource/> .
+dbr:Gupta_Empire	owl:sameAs	dbpedia-hu:Gupta_Birodalom .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Gupta_Empire	owl:sameAs	yago-res:Gupta_era ,
+		<http://pt.dbpedia.org/resource/Imp\u00E9rio_Gupta> ,
+		yago-res:Gupta_Empire .
+@prefix dbpedia-hr:	<http://hr.dbpedia.org/resource/> .
+dbr:Gupta_Empire	owl:sameAs	dbpedia-hr:Carstvo_Gupta ,
+		<http://az.dbpedia.org/resource/Qupta_\u0130mperiyas\u0131> ,
+		<http://lt.dbpedia.org/resource/Gupt\u0173_imperija> .
+@prefix dbpedia-no:	<http://no.dbpedia.org/resource/> .
+dbr:Gupta_Empire	owl:sameAs	dbpedia-no:Guptariket ,
+		<http://kn.dbpedia.org/resource/\u0C97\u0CC1\u0CAA\u0CCD\u0CA4_\u0CB8\u0CBE\u0CAE\u0CCD\u0CB0\u0CBE\u0C9C\u0CCD\u0CAF> .
+@prefix dbpedia-fi:	<http://fi.dbpedia.org/resource/> .
+dbr:Gupta_Empire	owl:sameAs	dbpedia-fi:Gupta-valtakunta .
+@prefix dbpedia-la:	<http://la.dbpedia.org/resource/> .
+dbr:Gupta_Empire	owl:sameAs	dbpedia-la:Imperium_Guptanum .
+@prefix dbpedia-sl:	<http://sl.dbpedia.org/resource/> .
+dbr:Gupta_Empire	owl:sameAs	dbpedia-sl:Guptski_imperij ,
+		<http://ne.dbpedia.org/resource/\u0917\u0941\u092A\u094D\u0924_\u0930\u093E\u091C\u0935\u0902\u0936> .
+@prefix dbpedia-eu:	<http://eu.dbpedia.org/resource/> .
+dbr:Gupta_Empire	owl:sameAs	dbpedia-eu:Gupta_Inperioa .
+@prefix dbpedia-als:	<http://als.dbpedia.org/resource/> .
+dbr:Gupta_Empire	owl:sameAs	dbpedia-als:Gupta-Reich ,
+		dbr:Gupta_Empire ,
+		<http://hi.dbpedia.org/resource/\u0917\u0941\u092A\u094D\u0924_\u0930\u093E\u091C\u0935\u0902\u0936> ,
+		<http://el.dbpedia.org/resource/\u0391\u03C5\u03C4\u03BF\u03BA\u03C1\u03B1\u03C4\u03BF\u03C1\u03AF\u03B1_\u0393\u03BA\u03BF\u03CD\u03C0\u03C4\u03B1> .
+@prefix dbpedia-br:	<http://br.dbpedia.org/resource/> .
+dbr:Gupta_Empire	owl:sameAs	dbpedia-br:Impalaeriezh_Gupta .
+@prefix dbpedia-ca:	<http://ca.dbpedia.org/resource/> .
+dbr:Gupta_Empire	owl:sameAs	dbpedia-ca:Imperi_Gupta .
+@prefix dbpedia-et:	<http://et.dbpedia.org/resource/> .
+dbr:Gupta_Empire	owl:sameAs	dbpedia-et:Guptade_riik ,
+		<http://zh.dbpedia.org/resource/\u7B08\u591A\u738B\u671D> .
+@prefix dbpedia-war:	<http://war.dbpedia.org/resource/> .
+dbr:Gupta_Empire	owl:sameAs	dbpedia-war:Imperyo_Gupta ,
+		<http://gu.dbpedia.org/resource/\u0A97\u0AC1\u0AAA\u0ACD\u0AA4_\u0AB8\u0ABE\u0AAE\u0ACD\u0AB0\u0ABE\u0A9C\u0ACD\u0AAF> .
+@prefix dbpedia-sw:	<http://sw.dbpedia.org/resource/> .
+dbr:Gupta_Empire	owl:sameAs	dbpedia-sw:Milki_ya_Gupta .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Gupta_Empire	owl:sameAs	dbpedia-de:Gupta-Reich ,
+		<http://new.dbpedia.org/resource/\u0917\u0941\u092A\u094D\u0924_\u0930\u093E\u091C\u0935\u0902\u0936> .
+@prefix dbpedia-sh:	<http://sh.dbpedia.org/resource/> .
+dbr:Gupta_Empire	owl:sameAs	dbpedia-sh:Gupta_Carstvo ,
+		<http://uk.dbpedia.org/resource/\u0406\u043C\u043F\u0435\u0440\u0456\u044F_\u0413\u0443\u043F\u0442\u0456\u0432> .
+@prefix ns34:	<http://uz.dbpedia.org/resource/> .
+dbr:Gupta_Empire	owl:sameAs	ns34:Guptalar_davlati ,
+		<http://nl.dbpedia.org/resource/Gupta\u0027s> ,
+		<http://bn.dbpedia.org/resource/\u0997\u09C1\u09AA\u09CD\u09A4_\u09B8\u09BE\u09AE\u09CD\u09B0\u09BE\u099C\u09CD\u09AF> ,
+		<http://ta.dbpedia.org/resource/\u0B95\u0BC1\u0BAA\u0BCD\u0BA4\u0BAA\u0BCD_\u0BAA\u0BC7\u0BB0\u0BB0\u0B9A\u0BC1> .
+@prefix ns35:	<http://sco.dbpedia.org/resource/> .
+dbr:Gupta_Empire	owl:sameAs	ns35:Gupta_Empire ,
+		<http://ckb.dbpedia.org/resource/\u0626\u06CC\u0645\u067E\u0631\u0627\u062A\u06C6\u0631\u06CC\u06D5\u062A\u06CC\u06CC_\u06AF\u0648\u067E\u062A\u0627> .
+@prefix dbpedia-ro:	<http://ro.dbpedia.org/resource/> .
+dbr:Gupta_Empire	owl:sameAs	dbpedia-ro:Dinastia_Gupta .
+@prefix ns37:	<http://bs.dbpedia.org/resource/> .
+dbr:Gupta_Empire	owl:sameAs	ns37:Gupta_carstvo .
+@prefix dbpedia-ms:	<http://ms.dbpedia.org/resource/> .
+dbr:Gupta_Empire	owl:sameAs	dbpedia-ms:Empayar_Gupta ,
+		<http://ka.dbpedia.org/resource/\u10D2\u10E3\u10DE\u10E2\u10D0\u10E1_\u10D8\u10DB\u10DE\u10D4\u10E0\u10D8\u10D0> ,
+		<http://fa.dbpedia.org/resource/\u067E\u0627\u062F\u0634\u0627\u0647\u06CC_\u06AF\u0648\u067E\u062A\u0627> ,
+		<http://te.dbpedia.org/resource/\u0C17\u0C41\u0C2A\u0C4D\u0C24_\u0C38\u0C3E\u0C2E\u0C4D\u0C30\u0C3E\u0C1C\u0C4D\u0C2F\u0C2E\u0C41> ,
+		<http://lv.dbpedia.org/resource/Guptu_imp\u0113rija> ,
+		<http://ko.dbpedia.org/resource/\uAD7D\uD0C0_\uC655\uC870> ,
+		<http://pl.dbpedia.org/resource/Dynastia_Gupt\u00F3w> ,
+		wikidata:Q11774 .
+@prefix dbpedia-cy:	<http://cy.dbpedia.org/resource/> .
+dbr:Gupta_Empire	owl:sameAs	dbpedia-cy:Ymerodraeth_y_Gupta ,
+		<http://pa.dbpedia.org/resource/\u0A17\u0A41\u0A2A\u0A24_\u0A38\u0A3E\u0A2E\u0A30\u0A3E\u0A1C> ,
+		<http://vi.dbpedia.org/resource/\u0110\u1EBF_qu\u1ED1c_Gupta> .
+@prefix dbpedia-gl:	<http://gl.dbpedia.org/resource/> .
+dbr:Gupta_Empire	owl:sameAs	dbpedia-gl:Imperio_Gupta ,
+		<http://hy.dbpedia.org/resource/\u0533\u0578\u0582\u057A\u057F\u0561_\u056F\u0561\u0575\u057D\u0580\u0578\u0582\u0569\u0575\u0578\u0582\u0576> ,
+		<http://si.dbpedia.org/resource/\u0D9C\u0DD4\u0DB4\u0DCA\u0DAD_\u0DBB\u0DCF\u0DA2\u0DC0\u0D82\u0DC1\u0DBA> ,
+		<http://viaf.org/viaf/304914528> .
+@prefix dbpedia-simple:	<http://simple.dbpedia.org/resource/> .
+dbr:Gupta_Empire	owl:sameAs	dbpedia-simple:Gupta_Empire .
+@prefix dbpedia-an:	<http://an.dbpedia.org/resource/> .
+dbr:Gupta_Empire	owl:sameAs	dbpedia-an:Imperio_Gupta .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Gupta_Empire	owl:sameAs	dbpedia-it:Impero_Gupta ,
+		<http://cs.dbpedia.org/resource/Guptovsk\u00E1_\u0159\u00ED\u0161e> ,
+		<http://bg.dbpedia.org/resource/\u0413\u0443\u043F\u0442\u0430> .
+@prefix ns44:	<https://global.dbpedia.org/id/> .
+dbr:Gupta_Empire	owl:sameAs	ns44:DqhV ,
+		<http://bpy.dbpedia.org/resource/\u0997\u09C1\u09AA\u09CD\u09A4_\u09B0\u09BE\u099C\u09AC\u0982\u09B6> ,
+		<http://ar.dbpedia.org/resource/\u0625\u0645\u0628\u0631\u0627\u0637\u0648\u0631\u064A\u0629_\u062C\u0648\u0628\u062A\u0627> ,
+		<http://th.dbpedia.org/resource/\u0E08\u0E31\u0E01\u0E23\u0E27\u0E23\u0E23\u0E14\u0E34\u0E04\u0E38\u0E1B\u0E15\u0E30> ,
+		<http://sa.dbpedia.org/resource/\u0917\u0941\u092A\u094D\u0924\u0938\u093E\u092E\u094D\u0930\u093E\u091C\u094D\u092F\u092E\u094D> ,
+		<http://ba.dbpedia.org/resource/\u0413\u0443\u043F\u0442\u0430_\u0438\u043C\u043F\u0435\u0440\u0438\u044F\u04BB\u044B> ,
+		<http://kk.dbpedia.org/resource/\u0413\u0443\u043F\u0442\u0430_\u0438\u043C\u043F\u0435\u0440\u0438\u044F\u0441\u044B> ,
+		<http://is.dbpedia.org/resource/Gupta-veldi\u00F0> .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Gupta_Empire	owl:sameAs	dbpedia-fr:Empire_Gupta ,
+		<http://he.dbpedia.org/resource/\u05DE\u05DE\u05DC\u05DB\u05EA_\u05D2\u05D5\u05E4\u05D8\u05D4> ,
+		<http://tr.dbpedia.org/resource/Gupta_\u0130mparatorlu\u011Fu> ,
+		<http://rdf.freebase.com/ns/m.01h5xv> ,
+		<http://ja.dbpedia.org/resource/\u30B0\u30D7\u30BF\u671D> .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:Gupta_Empire	owl:sameAs	dbpedia-es:Imperio_Gupta .
+@prefix dbpedia-id:	<http://id.dbpedia.org/resource/> .
+dbr:Gupta_Empire	owl:sameAs	dbpedia-id:Kemaharajaan_Gupta ,
+		<http://pnb.dbpedia.org/resource/\u06AF\u067E\u062A\u0627_\u0633\u0644\u0637\u0646\u062A> ,
+		<http://ur.dbpedia.org/resource/\u06AF\u067E\u062A\u0627_\u0633\u0644\u0637\u0646\u062A> ,
+		<http://azb.dbpedia.org/resource/\u0642\u0648\u067E\u062A\u0627_\u0627\u06CC\u0645\u067E\u06CC\u0631\u0627\u062A\u0648\u0631\u0644\u0648\u063A\u0648> .
+@prefix dbpedia-da:	<http://da.dbpedia.org/resource/> .
+dbr:Gupta_Empire	owl:sameAs	dbpedia-da:Guptariget ,
+		<http://be.dbpedia.org/resource/\u0406\u043C\u043F\u0435\u0440\u044B\u044F_\u0413\u0443\u043F\u0442\u0430> .
+@prefix dbpedia-nn:	<http://nn.dbpedia.org/resource/> .
+dbr:Gupta_Empire	owl:sameAs	dbpedia-nn:Gupta ,
+		<http://sr.dbpedia.org/resource/\u0413\u0443\u043F\u0442\u0430_\u0446\u0430\u0440\u0441\u0442\u0432\u043E> ;
+	schema:sameAs	<http://viaf.org/viaf/304914528> ;
+	dbp:s	"Maitraka"@en ,
+		"Later Guptas"@en ,
+		"Kalachuris"@en ,
+		"Maukhari"@en ,
+		"Varman dynasty"@en ,
+		"Brahman dynasty of Sindh"@en ,
+		"Mathara dynasty"@en ,
+		"Vardhana dynasty"@en .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Gupta_Empire	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Gupta_Empire?oldid=986005955&ns=0> ;
+	dbp:imageMap2Caption	"Approximate extent of the Gupta territories  in 450 CE."@en ;
+	dbp:statArea	1700000 ,
+		3500000 ;
+	dbp:era	"Ancient India"@en ;
+	dbp:statYear	440 ,
+		400 ;
+	dbp:governmentType	"Monarchy"@en ;
+	dbp:imageMap	"South Asia historical AD450 EN.svg"@en ,
+		"South Asia historical AD375 EN.svg"@en ;
+	dbp:capital	dbr:Pataliputra ;
+	dbp:conventionalLongName	"Gupta Empire"@en ;
+	dbp:commonName	"Gupta Empire"@en ;
+	dbo:capital	dbr:Pataliputra ;
+	dbp:today	dbr:Bangladesh ,
+		dbr:Afghanistan ,
+		dbr:India ,
+		dbr:Pakistan ,
+		dbr:Myanmar ;
+	dbp:yearLeader	"c. late 3rd century"@en ,
+		"c.\u2009540 \u2013 c.\u2009550 CE"@en ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Kushanmap.jpg?width=300> ;
+	dbo:wikiPageID	227918 ;
+	dbo:wikiPageRevisionID	986005955 ;
+	dbo:wikiPageWikiLink	dbr:Ganges ,
+		dbr:Maukhari_dynasty ,
+		<http://dbpedia.org/resource/Dashavatara_Temple,_Deogarh> ,
+		dbr:Ashvamedha ,
+		<http://dbpedia.org/resource/M\u1E5Bga\u015Bikh\u0101vana> ,
+		dbr:Gurjara-Pratihara_dynasty ,
+		<http://dbpedia.org/resource/Ma\u00F1ju\u015Br\u012B-m\u016Bla-kalpa> ,
+		<http://dbpedia.org/resource/File:GuptaEmpire300-550.png> ,
+		dbr:Sanchi ,
+		dbr:Sanskrit ,
+		dbr:Shiva ,
+		dbr:Buddhism ,
+		dbr:Decimal ,
+		dbr:Vidisha ,
+		dbr:Ujjain ,
+		dbr:Skandagupta ,
+		dbc:Dynasties_of_India ,
+		dbr:Malwa ,
+		dbr:International_Alphabet_of_Sanskrit_Transliteration ,
+		dbr:Vakataka_dynasty ,
+		dbr:Puranas ,
+		dbr:Tirthankara ,
+		dbr:Chaturanga ,
+		dbr:Kambojas ,
+		dbr:Amu_Darya ,
+		dbr:Davaka ,
+		<http://dbpedia.org/resource/Dhy\u0101na_in_Buddhism> ,
+		dbr:Historical_Vedic_religion ,
+		<http://dbpedia.org/resource/File:Maukharis_of_Kanauj._Isanavarman._Circa_AD_535-553.jpg> ,
+		dbr:Portico ,
+		dbr:Harisena ,
+		dbr:Rudrasimha_III ,
+		dbr:Trimurti ,
+		dbr:Tushara ,
+		dbr:Kshemendra ,
+		dbr:Ellora_Caves ,
+		<http://dbpedia.org/resource/Avalokite\u015Bvara> ,
+		dbr:Sanskrit_literature ,
+		dbr:Vishnu ,
+		dbr:Allahabad ,
+		dbr:Bhitari_pillar_inscription_of_Skandagupta ,
+		dbr:Pushyamitras ,
+		dbr:Odisha ,
+		<http://dbpedia.org/resource/File:Gupta_allahabad_gu.jpg> ,
+		dbr:Siege_engine ,
+		<http://dbpedia.org/resource/File:Gupta_allahabad_pt.jpg> ,
+		<http://dbpedia.org/resource/File:Kakandi.jpg> ,
+		<http://dbpedia.org/resource/Keshi_(demon)> ,
+		dbr:Garuda ,
+		dbr:Gupta_script ,
+		dbr:Rajput ,
+		<http://dbpedia.org/resource/Gupta_(king)> ,
+		dbr:Mihirakula ,
+		<http://dbpedia.org/resource/K\u0101lid\u0101sa> ,
+		dbr:Nepal ,
+		dbr:Sangharama ,
+		dbr:Abhira_tribe ,
+		dbr:Mahabharata ,
+		dbr:Hinduism ,
+		dbr:Bodhi_Tree ,
+		dbr:Sri_Lanka ,
+		dbr:Bodh_Gaya ,
+		dbr:Gujarat ,
+		dbr:Oligarchy ,
+		dbr:Prostyle ,
+		dbr:Brahmi_script ,
+		dbr:Arjunayanas ,
+		dbr:Varanasi ,
+		dbr:Kamarupa ,
+		dbr:Vaishya ,
+		dbr:Infantry ,
+		dbr:Light_infantry ,
+		dbr:Paramara_dynasty ,
+		dbr:Kannauj ,
+		dbr:Yona ,
+		dbr:Brahmin ,
+		dbr:Mleccha ,
+		dbr:Allahabad_Pillar ,
+		dbr:Ivory ,
+		dbr:Mathura ,
+		dbc:Empires_and_kingdoms_of_India ,
+		dbr:Chaulukya_dynasty ,
+		dbr:Samatata ,
+		dbr:Indo-Roman_trade_relations ,
+		dbr:Yashodharman ,
+		dbr:Purugupta ,
+		dbr:Kushinagar ,
+		dbr:Human_sexual_activity ,
+		dbr:Jainism ,
+		dbr:Shaivism ,
+		dbr:Gupta_art ,
+		dbr:Lunar_eclipse ,
+		dbr:Chandragupta_II ,
+		dbr:Kirata ,
+		dbr:Toramana ,
+		dbr:Vaishnavism ,
+		dbc:History_of_Pakistan ,
+		dbc:Medieval_India ,
+		dbr:Persians ,
+		dbr:Narmada_River ,
+		dbr:Yojana ,
+		dbr:Kidarites ,
+		dbr:Vikramaditya ,
+		dbr:Saka ,
+		dbr:Faxian ,
+		dbr:Samudragupta ,
+		dbr:Xuanzang ,
+		dbr:Indo-Sasanian_coinage ,
+		<http://dbpedia.org/resource/Kapilavastu_(ancient_city)> ,
+		dbr:Sushruta ,
+		dbr:Gandhara ,
+		dbr:Eran ,
+		<http://dbpedia.org/resource/Licchavi_(clan)> ,
+		<http://dbpedia.org/resource/Var\u0101hamihira> ,
+		dbr:Bhumara_Temple ,
+		dbr:Uttar_Pradesh ,
+		dbr:Kashmir ,
+		dbr:Pataliputra ,
+		dbr:Huna_people ,
+		dbr:Eclipse ,
+		dbr:Ramayana ,
+		dbr:Yaudheya ,
+		dbr:Shesha ,
+		dbr:Western_Satraps ,
+		dbr:Bhanugupta ,
+		dbr:Himalayas ,
+		dbr:Hephthalites ,
+		dbr:Indian_subcontinent ,
+		dbr:Silk ,
+		dbr:Sirimeghavanna_of_Anuradhapura ,
+		dbr:Indian_art ,
+		dbr:Central_Asia ,
+		dbr:Gotra ,
+		dbr:Kama_Sutra ,
+		<http://dbpedia.org/resource/V\u0101tsy\u0101yana> ,
+		<http://dbpedia.org/resource/Deogarh,_Uttar_Pradesh> ,
+		dbr:Gupta_Empire ,
+		dbr:Southeast_Asia ,
+		dbr:Nashik ,
+		dbr:Budhagupta ,
+		dbr:Udayagiri_Caves ,
+		<http://dbpedia.org/resource/0> ,
+		dbr:Caste_system_in_India ,
+		dbr:Heavy_cavalry ,
+		dbr:Golden_Age_of_India ,
+		<http://dbpedia.org/resource/Hindu\u2013Arabic_numeral_system> ,
+		dbr:History_of_science_and_technology_in_the_Indian_subcontinent ,
+		dbr:Kushan_Empire ,
+		dbr:Ram_Sharan_Sharma ,
+		dbr:Nagas_of_Padmavati ,
+		dbr:Taxila ,
+		dbr:Chandragupta_I ,
+		<http://dbpedia.org/resource/File:Standing_Buddha_Installed_by_Buddist_Monk_Yasadinna_-_Circa_5th_Century_CE_-_Jamalpur_Mound_-_ACCN_00-A-5_-_Government_Museum_Mathura_Golden_background.jpg> ,
+		<http://dbpedia.org/resource/File:South_Asia_historical_AD550_EN.svg> ,
+		dbc:Historical_Hindu_empires ,
+		<http://dbpedia.org/resource/Category:4th-century_establishments_in_India> ,
+		<http://dbpedia.org/resource/Category:550s_disestablishments> ,
+		dbc:States_and_territories_disestablished_in_the_550s ,
+		<http://dbpedia.org/resource/Category:6th-century_disestablishments_in_India> ,
+		dbc:States_and_territories_established_in_the_320s ,
+		<http://dbpedia.org/resource/File:Queen_Kumaradevi_and_King_Chandragupta_I_on_a_coin_of_their_son_Samudragupta_350_380_CE.jpg> ,
+		<http://dbpedia.org/resource/File:Buddha_in_Sarnath_Museum_(Dhammajak_Mutra).jpg> ,
+		<http://dbpedia.org/resource/File:SamudraguptaCoin.jpg> ,
+		<http://dbpedia.org/resource/File:Silver_Coin_of_Kumaragupta_I.jpg> ,
+		<http://dbpedia.org/resource/File:Two_Gold_coins_of_Chandragupta_II.jpg> ,
+		<http://dbpedia.org/resource/File:Vishnu_sculpture.jpg> ,
+		<http://dbpedia.org/resource/File:Maharaja_Sri_Gupta_inscription_on_the_Allahabad_pillar_Samudragupta_inscription.jpg> ,
+		dbr:Bangarh ,
+		dbr:Deccan_Plateau ,
+		<http://dbpedia.org/resource/Vishnugupta_(Gupta_Empire)> ,
+		<http://dbpedia.org/resource/Vaishali_(ancient_city)> ,
+		dbr:Chess ,
+		dbr:Bhitargaon ,
+		dbr:Middle_kingdoms_of_India ,
+		dbr:Europe ,
+		dbr:Maurya_Empire ,
+		<http://dbpedia.org/resource/Raghuva\u1E43\u015Ba> ,
+		dbr:Pearl ,
+		dbr:War_elephant ,
+		<http://dbpedia.org/resource/Kacha_(king)> ,
+		dbr:King_of_Kings ,
+		dbc:Kingdoms_of_Bihar ,
+		dbr:Vasubandhu ,
+		<http://dbpedia.org/resource/File:ChandraguptaIIOnHorse.jpg> ,
+		dbr:Mahayana ,
+		dbr:Kinnara_Kingdom ,
+		dbr:Mahabodhi_Temple ,
+		dbr:Malavas ,
+		dbr:Vainyagupta ,
+		dbr:Rudrasena_II ,
+		dbr:Kumaragupta_III ,
+		<http://dbpedia.org/resource/Ghatotkacha_(king)> ,
+		dbr:Hindus ,
+		dbr:Gurjaradesa ,
+		<http://dbpedia.org/resource/Yijing_(monk)> ,
+		<http://dbpedia.org/resource/Ketu_(mythology)> ,
+		dbr:Rahu ,
+		dbr:Ancient_veena ,
+		<http://dbpedia.org/resource/S\u0101keta> ,
+		dbr:Mukhalinga ,
+		dbr:Prabhavatigupta ,
+		dbr:Sasanian_coinage ,
+		dbr:Aulikaras ,
+		dbr:Kumaragupta_I ,
+		dbr:Bihar ,
+		dbr:Alchon_Huns ,
+		dbr:Numeral_system ,
+		dbr:Positional_notation ,
+		dbc:Gupta_Empire ,
+		dbr:Lingam ,
+		dbr:Chariot ,
+		dbr:Paramartha ,
+		<http://dbpedia.org/resource/Saurashtra_(region)> ,
+		dbr:Nalanda ,
+		dbr:Madra_Kingdom ,
+		dbr:Narasimhagupta ,
+		dbr:Ajanta_Caves ,
+		dbr:Barbarian ,
+		dbr:Kumaragupta_II ,
+		dbr:Paithan ,
+		dbr:Bay_of_Bengal ,
+		dbr:Pushyabhuti_dynasty ,
+		<http://dbpedia.org/resource/\u0100ry\u0101varta> ,
+		dbr:Shri ,
+		<http://dbpedia.org/resource/Varna_(Hinduism)> ,
+		<http://dbpedia.org/resource/Vih\u0101ra> ,
+		dbr:Elephanta_Caves ,
+		dbr:Kanchipuram ,
+		dbr:Pallava_dynasty ,
+		dbr:Hindu_calendar ,
+		dbr:Solar_eclipse ,
+		dbr:Solar_dynasty ,
+		dbr:Bangladesh ,
+		dbr:Prakrit ,
+		dbr:Aryabhata ,
+		dbr:Greco-Buddhist_art ,
+		<http://dbpedia.org/resource/D._N._Jha> ,
+		dbr:Maharaja ,
+		dbr:Cavalry ,
+		dbr:Outline_of_ancient_India ,
+		dbr:West_Bengal ,
+		dbr:Myanmar ,
+		dbr:Bengal ,
+		dbr:Rajgir ,
+		dbr:Shakuntala ,
+		dbc:History_of_West_Bengal ,
+		dbr:Magadha ,
+		dbc:History_of_Bangladesh ,
+		dbr:Indo-Gangetic_Plain ,
+		dbc:History_of_Bengal ,
+		dbc:History_of_Kolkata ,
+		dbr:Anant_Sadashiv_Altekar ,
+		dbr:Afghanistan ,
+		dbc:Former_empires ,
+		dbr:India ,
+		dbr:Dakshinapatha ,
+		dbr:Pakistan ,
+		dbr:Sarnath ,
+		dbr:Buddhist_architecture ;
+	dbo:wikiPageExternalLink	<https://books.google.com/books%3Fid=Hud2_Ie3T94C&pg=PP1> .
+@prefix ns51:	<https://archive.org/details/> .
+dbr:Gupta_Empire	dbo:wikiPageExternalLink	ns51:artarchitectureo00harl ,
+		ns51:politicalhistory00raycuoft ,
+		<https://books.google.com/books%3Fid=dYM4DwAAQBAJ&pg=PA343> ,
+		<https://books.google.com/books%3Fid=hRjC5IaJ2zcC&pg=PA315> ,
+		<https://books.google.com/books%3Fid=mRBuAAAAMAAJ> ,
+		<https://books.google.com/books%3Fid=CJ2UAAAACAAJ> ,
+		<https://books.google.com/books%3Fid=fWVZWjNAcAgC&pg=PA50> ,
+		<http://coinindia.com/galleries-gupta.html> ,
+		<https://books.google.com/books%3Fid=ZSVuAAAAMAAJ> .
+@prefix dbt:	<http://dbpedia.org/resource/Template:> .
+dbr:Gupta_Empire	dbp:wikiPageUsesTemplate	dbt:IAST ,
+		dbt:Ref_begin ,
+		dbt:Ref_end ,
+		<http://dbpedia.org/resource/Template:Unreliable_source%3F> ,
+		dbt:Wikisource1911Enc ,
+		dbt:Gupta_Empire ,
+		dbt:Middle_kingdoms_of_India ,
+		dbt:Empires ,
+		dbt:Use_dmy_dates ,
+		dbt:Commons_category ,
+		dbt:Britannica ,
+		dbt:Npsn ,
+		dbt:Infobox_Former_Country ,
+		dbt:Use_Indian_English ,
+		dbt:Cite_book ,
+		dbt:Sfn ,
+		dbt:Wikiquote ,
+		dbt:Part_of_History_of_India ,
+		dbt:Ubl ,
+		dbt:Rp ,
+		dbt:Main ,
+		dbt:Convert ,
+		dbt:Reflist ,
+		dbt:Short_description ,
+		dbt:Citation_needed ;
+	dbo:abstract	"Kemaharajaan Gupta diperintah oleh raja-raja  sejak 320 M sampai 550 M. Wilayahnya meliputi hampir seluruh India utara. Zaman Kemaharajaan Gupta dianggap sebagai  dalam ilmu pengetahuan, matematika, astronomi, agama dan filsafat. Kedamaian yang ada selama kekuasaan kemaharajaan Gupta membuat pengejaran ilmu pengetahuan dan artistik. Sejarawan menyejajarkan dinasti Gupta bersama dengan Dinasti Han, Dinasti Tang dan Kekaisaran Romawi sebagai model peradaban klasik."@in ,
+		"Die Gupta (Sanskrit, \u0917\u0941\u092A\u094D\u0924, gupta) waren eine altindische Herrscher-Dynastie. Ihr Name steht neben den Maurya und Kuschana f\u00FCr das antike Indien. Die Epoche der Gupta-Dynastie von etwa 320 bis 550 n. Chr. gilt als \u201Egoldenes\u201C bzw. \u201Eklassisches Zeitalter\u201C der indischen Geschichte."@de ,
+		"\uAD7D\uD0C0 \uC655\uC870(\uD78C\uB514\uC5B4: \u0917\u0941\u092A\u094D\u0924 \u0930\u093E\u091C\u0935\u0902\u0936 Gupta dynasty)\uB294 \uCFE0\uC0E8 \uC655\uC870\uAC00 \uBA78\uB9DD\uD55C \uD6C4 4\uC138\uAE30 \uCD08\uC5D0 \uCC2C\uB4DC\uB77C\uAD7D\uD0C01\uC138\uAC00 \uAC74\uAD6D\uD558\uC5EC \uBD81\uC778\uB3C4\uB97C \uC9C0\uBC30\uD558\uB358 \uC81C\uAD6D\uC774\uC5C8\uB2E4. \uC774 \uAC00 \uCE58\uC138\uC5D0 \uC2ED\uC9C4\uBC95\uC774 \uBC1C\uBA85\uB418\uC5C8\uB2E4. \uCC2C\uB4DC\uB77C\uAD7D\uD0C02\uC138 \uB54C \uCFE0\uC0E8\uC778\uACFC \uC0E4\uCE74\uC778, \uD22C\uB974\uD06C\uC778\uACFC \uAC19\uC740 \uC774\uBBFC\uC871\uB4E4\uC744 \uBAB0\uC544\uB0B4\uACE0 \uBD81\uC778\uB3C4\uB97C \uD1B5\uC77C\uD558\uAC8C \uB418\uB294\uB370, \uC774\uB54C\uBD80\uD130 \uAD7D\uD0C0 \uC655\uC870\uC5D0\uC11C \uBBFC\uC871\uC758\uC2DD\uC774 \uD2B8\uC774\uAE30 \uC2DC\uC791\uD588\uC5C8\uB2E4. \uADF8 \uACB0\uACFC \uBE0C\uB77C\uB9CC\uAD50\uB97C \uBC14\uD0D5\uC73C\uB85C \uC778\uB3C4\uC758 \uBBFC\uAC04\uC2E0\uC559\uACFC \uBD88\uAD50\uB97C \uC735\uD569\uD55C \uD78C\uB450\uAD50\uAC00 \uC655\uACFC \uBC31\uC131\uB4E4\uC758 \uC9C0\uC9C0\uB97C \uBC1B\uAC8C\uB418\uC5C8\uB2E4. \uD78C\uB450\uAD50\uB3C4\uB4E4\uC758 \uC77C\uC0C1\uC0DD\uD65C\uC5D0 \uB9C8\uB204 \uBC95\uC804\uC774 \uC601\uD5A5\uC744 \uB07C\uCE58\uAC8C \uB41C \uAC83\uB3C4 \uAD7D\uD0C0 \uC655\uC870 \uC2DC\uAE30\uB54C\uBD80\uD130\uC600\uB2E4. \uB610\uD55C, \uC544\uB9AC\uC544\uC778\uC758 \uC5B8\uC5B4\uC778 \uC0B0\uC2A4\uD06C\uB9AC\uD2B8\uC5B4\uB85C \uC4F0\uC778 '\uB9C8\uD558\uBC14\uB77C\uD0C0'\uAC00 \uD78C\uB450\uAD50\uC758 \uACBD\uC804\uC774 \uB418\uC5C8\uB2E4. \uADF8 \uC774\uC678\uC5D0\uB3C4 \uCE7C\uB9AC\uB2E4\uC0AC\uC758 \uD76C\uACE1 '\uC0E4\uCFE4\uD0C8\uB77C', \uC11C\uC0AC\uC2DC '\uB77C\uB9C8\uC57C\uB098'\uC640 \uAC19\uC740 \uC791\uD488\uC774 \uD0C4\uC0DD\uD558\uBA70 \uC0B0\uC2A4\uD06C\uB9AC\uD2B8 \uBB38\uD559\uC774 \uBC1C\uC804\uD558\uC600\uB2E4. \uAD7D\uD0C0 \uC655\uC870\uB294 \uC5EC\uB7EC\uCC28\uB840\uC5D0 \uAC78\uCCD0 \uBC31\uD6C8\uC871(\uC5D0\uD504\uD0C8)\uC758 \uCE68\uC785\uC73C\uB85C \uBD81\uC778\uB3C4 \uC9C0\uBC29\uC758 \uBD88\uAD50 \uAD50\uB2E8\uC774 \uD06C\uAC8C \uD0C0\uACA9\uC744 \uC785\uC5B4 \uBBFC\uAC04\uC758 \uBD88\uAD50\uC2E0\uC559\uC740 \uC1E0\uD1F4\uD558\uC600\uC73C\uB098, \uC544\uC794\uD0C0 \uC11D\uAD74\uC0AC\uC6D0\uACFC \uAC19\uC740 \uAD7D\uD0C0 \uC591\uC2DD\uC758 \uBD88\uAD50 \uBBF8\uC220\uC774 \uBC1C\uB2EC\uD558\uC600\uB2E4."@ko ,
+		"L'Imperi Gupta (s\u00E0nscrit \u0917\u0941\u092A\u094D\u0924 \u0938\u093E\u092E\u094D\u0930\u093E\u091C\u094D\u092F, Gupta S\u0101mr\u0101jya) fou un antic imperi indi que va existir aproximadament des del 320 al 550 de la nostra era, i ocup\u00E0 bona part del subcontinent indi. Fundat per , la dinastia \u00E9s un model de civilitzaci\u00F3 cl\u00E0ssica. La pau i prosperitat creades sota el govern dels Guptes va permetre l'exercici d'activitats cient\u00EDfiques i t\u00E8cniques. Aquest per\u00EDode s'anomena l'Edad Daurada de l'\u00CDndia i estigu\u00E9 marcat per un bon nombre d'invents i descobriments en el camp de la ci\u00E8ncia, la tecnologia, l'enginyeria, l'art, la dial\u00E8ctica, la literatura, la l\u00F2gica, les matem\u00E0tiques, l'astronomia, la  i la filosofia que cristal\u00B7litzaren els elements del que generalment \u00E9s conegut com a cultura hind\u00FA. ,  i  foren els governants m\u00E9s notables de la dinastia Gupta. Al segle iv, el poeta en s\u00E0nscrit Kalidasa assegura que els Guptes haurien conquerit vora vint-i-un regnes, tant a dins com a fora de l'\u00CDndia, inclosos els reialmes de les tribus saques (perses), els hunes, els kamboges, ubicades a l'oest i a l'est de les valls de l'Oxus, els , , etc. Els punts m\u00E9s alts d'aquesta creativitat cultural s\u00F3n una magn\u00EDfica arquitectura, escultures i pintures. El per\u00EDode Gupta va produir erudits com ara Kalidasa, Aryabhata, Varahamihira,  i  que feren grans aven\u00E7os en molts camps acad\u00E8mics. La ci\u00E8ncia i l'administraci\u00F3 pol\u00EDtica assoliren noves fites durant l'era Gupta. Els forts lligams comercials tamb\u00E9 feren de la regi\u00F3 un important centre cultural i establiren la regi\u00F3 com una base que influiria els regnes i regions properes a Myanmar, Sri Lanka i \u00C0sia Sud-oriental. Els puranes m\u00E9s antics de qu\u00E8 es disposa tamb\u00E9 es pensa que van ser escrits pels volts d'aquest per\u00EDode. L'imperi va declinar gradualment per causa de diversos factors, com ara una substancial p\u00E8rdua de territori i autoritat imperial causa pels seus propis antics feus i la invasi\u00F3 dels hunes procedents de l'\u00C0sia Central. Despr\u00E9s de la caiguda de l'Imperi Gupta al segle vi, l'\u00CDndia fou governada altre cop per nombrosos regnes regionals. Una branca menor del clan Gupta continu\u00E0 governant Magadha despr\u00E9s de la desintegraci\u00F3 de l'imperi. Aquests Guptes finalment van ser expulsats pel governant Vardhana Harsha Vardhana, el qual establ\u00ED un imperi en la primera meitat del segle vii."@ca ,
+		"The Gupta Empire was an ancient Indian empire existing from the mid-to-late 3rd century CE to 543 CE. At its zenith, from approximately 319 to 467 CE, it covered much of the Indian subcontinent. This period is considered as the Golden Age of India by some historians. The ruling dynasty of the empire was founded by the king Sri Gupta; the most notable rulers of the dynasty were Chandragupta I, Samudragupta, and Chandragupta II alias Vikramaditya. The 5th-century CE Sanskrit poet Kalidasa credits the Guptas with having conquered about twenty-one kingdoms, both in and outside India, including the kingdoms of Parasikas, the Hunas, the Kambojas, tribes located in the west and east Oxus valleys, the Kinnaras, Kiratas, and others. The high points of this period are the great cultural developments which took place primarily during the reigns of Samudragupta, Chandragupta II and Kumaragupta I. Many of the literary sources, such as Mahabharata and Ramayana, were canonised during this period. The Gupta period produced scholars such as Kalidasa, Aryabhata, Varahamihira, and Vatsyayana who made great advancements in many academic fields. Science and political administration reached new heights during the Gupta era. The period gave rise to achievements in architecture, sculpture, and painting that \"set standards of form and taste [that] determined the whole subsequent course of art, not only in India but far beyond her borders\". Strong trade ties also made the region an important cultural centre and established the region as a base that would influence nearby kingdoms and regions in South Asia and Southeast Asia. The Puranas, earlier long poems on a variety of subjects, are also thought to have been committed to written texts around this period. The empire eventually died out because of many factors such as substantial loss of territory and imperial authority caused by their own erstwhile feudatories, as well as the invasion by the Huna peoples (Kidarites and Alchon Huns) from Central Asia. After the collapse of the Gupta Empire in the 6th century, India was again ruled by numerous regional kingdoms."@en ,
+		"\u0406\u043C\u043F\u0435\u0301\u0440\u0456\u044F \u0413\u0443\u0301\u043F\u0442\u0456\u0432 (\u0441\u0430\u043D\u0441\u043A\u0440. \u0917\u0941\u092A\u094D\u0924, gupta, \u0433\u0456\u043D\u0434\u0456 \u0917\u0941\u092A\u094D\u0924 \u0930\u093E\u091C\u0935\u0902\u0936, Gupta R\u0101java\u1E43\u015Ba; \u043F\u0440\u0438\u0431\u043B\u0438\u0437\u043D\u043E 320 \u2014 550 \u0440\u043E\u043A\u0438) \u2014 \u0434\u0435\u0440\u0436\u0430\u0432\u0430 \u0432 \u0406\u043D\u0434\u0456\u0457 \u0437\u0456 \u0441\u0442\u043E\u043B\u0438\u0446\u0435\u044E \u0432 \u041F\u0430\u0442\u0430\u043B\u0456\u043F\u0443\u0442\u0440\u0456, \u043D\u0430\u0437\u0432\u0430 \u044F\u043A\u043E\u0457 \u043F\u043E\u0445\u043E\u0434\u0438\u0442\u044C \u0432\u0456\u0434 \u0456\u043C\u0435\u043D\u0456 \u0437\u0430\u0441\u043D\u043E\u0432\u043D\u0438\u043A\u0430 \u043F\u0440\u0430\u0432\u043B\u044F\u0447\u043E\u0457 \u0434\u0430\u0432\u043D\u044C\u043E\u0456\u043D\u0434\u0456\u0439\u0441\u044C\u043A\u043E\u0457 \u0434\u0438\u043D\u0430\u0441\u0442\u0456\u0457 \u0413\u0443\u043F\u0442\u0456\u0432 \u0428\u0440\u0456-\u0413\u0443\u043F\u0442\u0438. \u0414\u0435\u0440\u0436\u0430\u0432\u0430 \u0413\u0443\u043F\u0442\u0456\u0432 \u0431\u0443\u043B\u0430 \u0437\u0430\u0441\u043D\u043E\u0432\u0430\u043D\u0430 \u0440\u0430\u0434\u0436\u0435\u044E \u0427\u0430\u043D\u0434\u0440\u0430\u0433\u0443\u043F\u0442\u043E\u044E I \u043D\u0430\u0439\u0456\u043C\u043E\u0432\u0456\u0440\u043D\u0456\u0448\u0435 320 \u0440\u043E\u043A\u0443. \u0412\u0456\u0434 \u0446\u0456\u0454\u0457 \u0434\u0430\u0442\u0438 \u0432\u0435\u0434\u0435\u0442\u044C\u0441\u044F \u0441\u0435\u0440\u0435\u0434\u043D\u044C\u043E\u0432\u0456\u0447\u043D\u0435 \u043B\u0456\u0442\u043E\u0447\u0438\u0441\u043B\u0435\u043D\u043D\u044F \u00AB\u0435\u043F\u043E\u0445\u0438 \u0413\u0443\u043F\u0442\u0456\u0432\u00BB, \u044F\u043A\u0430 \u043F\u0440\u043E\u0456\u0441\u043D\u0443\u0432\u0430\u043B\u0430 \u043F\u043E\u043D\u0430\u0434 300 \u0440\u043E\u043A\u0456\u0432. \u041F\u0430\u043D\u0443\u0432\u0430\u043D\u043D\u044F \u0434\u0438\u043D\u0430\u0441\u0442\u0456\u0457 \u0413\u0443\u043F\u0442\u0456\u0432 \u043F\u043E \u043F\u0440\u0430\u0432\u0443 \u0432\u0432\u0430\u0436\u0430\u044E\u0442\u044C \u0437\u043E\u043B\u043E\u0442\u0438\u043C \u0441\u0442\u043E\u043B\u0456\u0442\u0442\u044F\u043C \u043A\u043B\u0430\u0441\u0438\u0447\u043D\u043E\u0457 \u0456\u043D\u0434\u0456\u0439\u0441\u044C\u043A\u043E\u0457 \u0456\u0441\u0442\u043E\u0440\u0456\u0457. \u0427\u0430\u043D\u0434\u0440\u0430\u0433\u0443\u043F\u0442\u0430 I \u0440\u043E\u0437\u0448\u0438\u0440\u0438\u0432 \u0432\u043E\u043B\u043E\u0434\u0456\u043D\u043D\u044F \u0434\u0438\u043D\u0430\u0441\u0442\u0456\u0457 \u0437\u0430 \u0440\u0430\u0445\u0443\u043D\u043E\u043A \u041C\u0430\u0433\u0430\u0434\u0445\u0438, \u0447\u0430\u0441\u0442\u0438\u043D\u0438 \u0411\u0435\u043D\u0433\u0430\u043B\u0456\u0457, \u0441\u0435\u0440\u0435\u0434\u043D\u044C\u043E\u0457 \u0447\u0430\u0441\u0442\u0438\u043D\u0438 \u0434\u043E\u043B\u0438\u043D\u0438 \u0413\u0430\u043D\u0433\u0443. \u0412 \u043F\u0435\u0440\u0456\u043E\u0434 \u043D\u0430\u0439\u0431\u0456\u043B\u044C\u0448\u043E\u0457 \u043C\u043E\u0433\u0443\u0442\u043D\u043E\u0441\u0442\u0456, \u043F\u0440\u0438 \u0427\u0430\u043D\u0434\u0440\u0430\u0433\u0443\u043F\u0442\u0456 II \u0412\u0456\u043A\u0440\u0430\u043C\u0430\u0434\u0438\u0442\u044C\u0457 (380\u2013415), \u0442\u0435\u0440\u0438\u0442\u043E\u0440\u0456\u044F \u0434\u0435\u0440\u0436\u0430\u0432\u0438 \u043E\u0445\u043E\u043F\u043B\u044E\u0432\u0430\u043B\u0430 \u043C\u0430\u0439\u0436\u0435 \u0432\u0441\u044E \u041F\u0456\u0432\u043D\u0456\u0447\u043D\u0443 \u0406\u043D\u0434\u0456\u044E \u0442\u0430 \u0413\u0443\u0434\u0436\u0430\u0440\u0430\u0442, \u0432\u0456\u0434 \u0410\u0440\u0430\u0432\u0456\u0439\u0441\u044C\u043A\u043E\u0433\u043E \u043C\u043E\u0440\u044F \u0434\u043E \u0411\u0435\u043D\u0433\u0430\u043B\u044C\u0441\u044C\u043A\u043E\u0457 \u0437\u0430\u0442\u043E\u043A\u0438. \u0421\u0430\u043C\u0443\u0434\u0440\u0430\u0433\u0443\u043F\u0442\u0430 \u0437\u0434\u0456\u0439\u0441\u043D\u0438\u0432 \u0432\u0456\u0439\u0441\u044C\u043A\u043E\u0432\u0438\u0439 \u043F\u043E\u0445\u0456\u0434 \u0443 \u041F\u0456\u0432\u0434\u0435\u043D\u043D\u0443 \u0406\u043D\u0434\u0456\u044E. \u0417\u0430 \u0447\u0430\u0441\u0456\u0432 \u0421\u043A\u0430\u043D\u0434\u0430\u0433\u0443\u043F\u0442\u0438 (455\u2013467) \u043F\u043E\u0447\u0430\u043B\u0438\u0441\u044F \u043F\u043E\u0432\u0441\u0442\u0430\u043D\u043D\u044F \u043F\u0456\u0434\u043A\u043E\u0440\u0435\u043D\u0438\u0445 \u043D\u0430\u0440\u043E\u0434\u0456\u0432 \u0456 \u0432\u0456\u0434\u0431\u0443\u0432\u0441\u044F \u043D\u0430\u043F\u0430\u0434 \u0435\u0444\u0442\u0430\u043B\u0456\u0442\u0456\u0432 \u043D\u0430 \u043F\u0456\u0432\u043D\u0456\u0447\u043D\u043E-\u0437\u0430\u0445\u0456\u0434\u043D\u0456 \u043A\u043E\u0440\u0434\u043E\u043D\u0438 \u0434\u0435\u0440\u0436\u0430\u0432\u0438. \u041F\u0456\u0434 \u0447\u0430\u0441 \u043F\u0440\u0430\u0432\u043B\u0456\u043D\u043D\u044F  (467\u2013500) \u043F\u043E\u0447\u0430\u0432\u0441\u044F \u0440\u043E\u0437\u043F\u0430\u0434 \u0434\u0435\u0440\u0436\u0430\u0432\u0438 \u0413\u0443\u043F\u0442\u0456\u0432. \u0412\u0456\u0434 \u043D\u0435\u0457 \u0432\u0456\u0434\u043F\u0430\u043B\u0438 \u041A\u0430\u0442\u0445\u0456\u0430\u0432\u0430\u0440\u0430, \u0413\u0443\u0434\u0436\u0430\u0440\u0430\u0442 \u0456 \u041C\u0430\u043B\u0432\u0430. \u041D\u0430 \u043F\u043E\u0447\u0430\u0442\u043A\u0443 VI \u0441\u0442\u043E\u043B\u0456\u0442\u0442\u044F \u0435\u0444\u0442\u0430\u043B\u0456\u0442\u0438 \u043E\u0432\u043E\u043B\u043E\u0434\u0456\u043B\u0438 \u0437\u0430\u0445\u0456\u0434\u043D\u043E\u044E \u0447\u0430\u0441\u0442\u0438\u043D\u043E\u044E \u0434\u0435\u0440\u0436\u0430\u0432\u0438 \u043C\u0430\u0439\u0436\u0435 \u0434\u043E \u041C\u0430\u0433\u0430\u0434\u0445\u0438 \u0456 \u0437\u043C\u0443\u0441\u0438\u043B\u0438 \u0411\u0430\u043B\u0430\u0434\u0456\u0442\u044C\u044E \u043F\u043B\u0430\u0442\u0438\u0442\u0438 \u0457\u043C \u0434\u0430\u043D\u0438\u043D\u0443. \u0411\u043B\u0438\u0437\u044C\u043A\u043E 528 \u0440\u043E\u043A\u0443 \u043E\u0441\u0442\u0430\u043D\u043D\u0456\u0439 \u0432 \u0441\u043E\u044E\u0437\u0456 \u0437 \u043F\u0440\u0430\u0432\u0438\u0442\u0435\u043B\u0435\u043C  (\u0426\u0435\u043D\u0442\u0440\u0430\u043B\u044C\u043D\u0430 \u0406\u043D\u0434\u0456\u044F)  \u0440\u043E\u0437\u0431\u0438\u0432 \u0435\u0444\u0442\u0430\u043B\u0456\u0442\u0456\u0432. \u041D\u0430\u043F\u0440\u0438\u043A\u0456\u043D\u0446\u0456 VI \u0441\u0442\u043E\u043B\u0456\u0442\u0442\u044F \u0434\u0435\u0440\u0436\u0430\u0432\u0430 \u0413\u0443\u043F\u0442\u0456\u0432 \u043F\u0440\u0438\u043F\u0438\u043D\u0438\u043B\u0430 \u0456\u0441\u043D\u0443\u0432\u0430\u043D\u043D\u044F."@uk ,
+		"Gupta Inperioa (sanskritoz: \u0917\u0941\u092A\u094D\u0924 \u0938\u093E\u092E\u094D\u0930\u093E\u091C\u094D\u092F, Gupta S\u0101mr\u0101jya) Indiako inoizko inperio politiko eta militar handienetariko bat izan zen.  agindu zuen Inperioan 240-550 urte bitartean. Lurraldez, India iparraldeko eremu gehiena, eta gaur egungo Pakistan ekialdea eta Bangladesh hartzen zituen. Gupta inperioak iraun zuen bitartean bakea, oparotasuna eta garapena izan ziren nagusi; horrenbestez, kultura indiarra asko aurreratu zen artean, literaturan eta zientzian: zientzia bera (gaur darabilgun zenbaki-sistema hamartarra garatu zuten, besteak beste), filosofia, arkitektura, eskultura, pintura, literatura, musika eta dantza landu zuten, gaurdaino iraun duenez. Sanskritoa zen Gupta Inperioko hizkuntza. Gupta errege-erreginek administrazio-sistema eraginkorra ezarri zuten; botere zentral indartsua zeukaten, baina bake-garaietan herriei autonomia ere ematen zieten. Hinduismoa nagusi zenez, gizartearen antolaketa eredu horren araberakoa zen, kasta edo leinuka banatuta. Hinduismoaren ezaugarri nagusiak orduan ezarri ziren: jainko-jainkosak, erlijio-ohiturak eta tenpluak. Inperioaren sasoian merkataritza eta kanpo-harremanak hain aberatsak izan ziren, ezen, sinesmen eta arkitektura hinduistak eta budistak Borneo, Kanbodia, Indonesia eta Thailandiaraino heldu ziren."@eu ,
+		"\u7B08\u591A\u738B\u671D\uFF08Gupta Empire\uFF09\uFF08319\u5E74\uFF0D550\u5E74\uFF09\u662F\u4EE5\u6046\u6CB3\u6D41\u57DF\u4E2D\u4E0B\u6E38\u70BA\u57FA\u5730\u7684\u5927\u5E1D\u570B\uFF0C\u66FE\u7D71\u6CBB\u5370\u5EA6\u6B21\u5927\u9678\u4E2D\u7684\u8A31\u591A\u5730\u5340\uFF0C\u662F\u5370\u5EA6\u6B77\u53F2\u4E0A\u5176\u4E2D\u4E00\u500B\u6700\u5174\u76DB\u7684\u65F6\u671F\uFF0C\u7A31\u70BA\u5370\u5EA6\u7684\u9EC3\u91D1\u6642\u4EE3\uFF0C\u5728\u6B77\u53F2\u4E0A\u4F54\u6709\u91CD\u8981\u5730\u4F4D\u3002\u7B08\u591A\u738B\u671D\u7684\u548C\u5E73\u53CA\u5BCC\u88D5\u4F7F\u5F97\u767E\u59D3\u53EF\u4EE5\u5728\u81F4\u529B\u65BC\u79D1\u5B78\u53CA\u85DD\u8853\u7684\u767C\u5C55\uFF0C\u5728\u3001\u3001\u3001\u8FA9\u8BC1\u6CD5\u3001\u6587\u5B78\u3001\u3001\u6578\u5B78\u3001\u3001\u5B97\u6559\u53CA\u54F2\u5B78\u4E0A\u90FD\u6709\u8A31\u591A\u7684\u6210\u5C31\uFF0C\u9019\u4E9B\u4E5F\u662F\u5370\u5EA6\u6559\u6587\u5316\u7684\u91CD\u8981\u6210\u4EFD\u3002 \u7B08\u591A\u738B\u671D\u8457\u540D\u7684\u570B\u738B\u6709\u65C3\u9640\u7F85\u00B7\u7B08\u591A\u4E00\u4E16\u3001\u6D77\u8B77\u738B\u6C99\u6469\u9640\u7F85\u00B7\u7B08\u591A\u53CA\u8D85\u65E5\u738B\u65C3\u9640\u7F85\u00B7\u7B08\u591A\u4E8C\u4E16\u3002\u56DB\u4E16\u7D00\u7684\u68B5\u8A9E\u8A69\u4EBA\u8FE6\u68A8\u9640\u5A11\u8A8D\u70BA\u7B08\u591A\u738B\u671D\u6253\u6557\u4E86\u7D04\u4E8C\u5341\u4E00\u500B\u738B\u570B\uFF0C\u6709\u5728\u5370\u5EA6\u5883\u5167\u7684\uFF0C\u4E5F\u6709\u5728\u5176\u4ED6\u5730\u5340\u7684\uFF0C\u9019\u4E9B\u738B\u570B\u5305\u62EC\u585E\u65CF\u738B\u570B\u3001\u3001\u67EC\u57D4\u5BE8\u3001\u5728\u963F\u59C6\u6CB3\u8C37\u6771\u897F\u7684\u90E8\u65CF\u3001, \u7B49\u3002 \u7B08\u591A\u738B\u671D\u5728\u5EFA\u7BC9\u3001\u96D5\u5851\u548C\u7E6A\u756B\u4E0A\u6709\u9AD8\u5EA6\u7684\u6210\u5C31\u3002\u7576\u6642\u7684\u5B78\u8005\uFF0C\u50CF\u8FE6\u68A8\u9640\u5A11\u3001\u963F\u8036\u6CE2\u591A\u3001\u4F10\u7F85\u8A36\u5BC6\u5E0C\u7F85\u3001\u53CA\u90FD\u5728\u5B78\u8853\u4E0A\u6709\u9AD8\u5EA6\u7684\u6210\u5C31\u3002"@zh ,
+		"Les Gupta sont une dynastie ayant r\u00E9gn\u00E9 sur le nord de l'Inde de la fin du IIIe si\u00E8cle aux alentours du milieu du VIe si\u00E8cle. Leur origine reste myst\u00E9rieuse et il est probable qu'ils aient tout d'abord \u00E9t\u00E9 un clan de roitelets \u00E0 la t\u00EAte de petits \u00C9tats dans la vall\u00E9e du Gange et de ses affluents. Cette dynastie conna\u00EEt une expansion rapide au IVe si\u00E8cle, sous l'impulsion des conqu\u00E9rants Chandragupta et Samudragupta, et voit l'apog\u00E9e de sa prosp\u00E9rit\u00E9 durant la premi\u00E8re moiti\u00E9 du Ve si\u00E8cle, notamment sous le r\u00E8gne de Kum\u00E2ragupta Ier et de son fils Skandagupta. Le d\u00E9clin des Gupta d\u00E9bute ensuite, sous l'effet d'invasions ext\u00E9rieures et de forces centrifuges, et leur fin reste mal connue. Consid\u00E9r\u00E9 comme un Empire en raison de son \u00E9tendue et de la puissance incontest\u00E9e qu'exer\u00E7aient ses souverains sur le sous-continent indien \u00E0 leur apog\u00E9e, l'\u00C9tat des Gupta s'av\u00E8re peu centralis\u00E9. Ces rois dominaient plusieurs royaumes voisins qui partageaient une culture similaire, et les pouvoirs locaux disposaient de marges de man\u0153uvre importantes, notamment les monast\u00E8res. Du point de vue religieux, cette \u00E9poque est marqu\u00E9e par la cohabitation de deux grandes religions, le brahmanisme (l'\u00E9tat ancien de ce qu'on d\u00E9signe aujourd'hui comme l'hindouisme) et le bouddhisme, ce dernier connaissant alors son dernier \u00E9clat en Inde, avant de conna\u00EEtre un reflux face au premier. La p\u00E9riode gupta est souvent assimil\u00E9e \u00E0 un \u00AB \u00E2ge classique \u00BB, ou un \u00AB \u00E2ge d'or \u00BB de la culture indienne ancienne, en raison des r\u00E9alisations remarquables qui sont dat\u00E9es de cette \u00E9poque en math\u00E9matiques et en astronomie (travaux d'\u00C2ryabhata, apparition du z\u00E9ro en tant que nombre), en litt\u00E9rature et th\u00E9\u00E2tre (\u0153uvres de K\u00E2lid\u00E2sa) ou encore en sculpture (\u00E9coles de Mathura et de S\u0101rn\u0101th, temple de Deogarh) et peinture (\u00E0 Ajant\u00E2). S'il est d\u00E9sormais \u00E9vident que ces accomplissements sont largement tributaires de ceux de la p\u00E9riode les pr\u00E9c\u00E9dant, leur importance dans l'histoire de la civilisation indienne et leur rayonnement sur les pays voisins sont ind\u00E9niables."@fr ,
+		"El Imperio Gupta fue uno de los mayores imperios pol\u00EDticos y militares de la historia de la India. Fue gobernado por la dinast\u00EDa Gupta entre 320 y 550 d. C. y ocup\u00F3 la mayor parte de la India septentrional y de los actuales Pakist\u00E1n oriental y Banglad\u00E9s.\u200B Bajo este imperio, se dio un per\u00EDodo de paz y prosperidad que favoreci\u00F3 el desarrollo de la cultura india desde el punto de vista art\u00EDstico, literario y cient\u00EDfico.\u200B Los reyes Gupta establecieron un eficaz sistema administrativo y un fuerte poder central, permitiendo la autonom\u00EDa local en per\u00EDodos de paz. La sociedad era ordenada seg\u00FAn las creencias del hinduismo con una r\u00EDgida divisi\u00F3n en castas.En esta etapa el hinduismo adquiere sus principales caracter\u00EDsticas: las principales divinidades, las pr\u00E1cticas religiosas y la importancia de los templos. Durante este per\u00EDodo fueron tan grandes el comercio y los intercambios con el exterior que la mitolog\u00EDa y arquitectura hinduista y budista se expandieron por Borneo, Camboya, Indonesia y Tailandia."@es ,
+		"Guptovsk\u00E1 \u0159\u00ED\u0161e se rozprost\u00EDrala na v\u011Bt\u0161in\u011B \u00FAzem\u00ED severn\u00ED Indie (v\u010Detn\u011B \u00FAzem\u00ED dne\u0161n\u00EDch st\u00E1t\u016F P\u00E1kist\u00E1n a Banglad\u00E9\u0161) p\u0159ibli\u017En\u011B v obdob\u00ED let 320\u2013550. Obdob\u00ED vl\u00E1dy dynastie Gupt\u016F je ozna\u010Dov\u00E1no jako zlat\u00FD v\u011Bk Indie, jeliko\u017E velk\u00FD rozmach za\u017Eila v\u011Bda, matematika, astronomie, n\u00E1bo\u017Eenstv\u00ED i filosofie. K nejv\u00FDznamn\u011Bj\u0161\u00EDm panovn\u00EDk\u016Fm Guptovsk\u00E9 \u0159\u00ED\u0161e pak pat\u0159\u00ED \u010Candragupta I. Historici umis\u0165uj\u00ED Guptovskou \u0159\u00ED\u0161i mezi klasick\u00E9 civilizace jako byla \u010D\u00EDnsk\u00E1 dynastie Chan \u010Di Tchang nebo \u0158\u00EDmsk\u00E1 \u0159\u00ED\u0161e."@cs ,
+		"La Gupta Imperio (hindia lingvo: \u0917\u0941\u092A\u094D\u0924 \u0930\u093E\u091C\u0935\u0902\u0936) estis fondita de , kaj prosperis de 280 \u011Dis 550. La imperio kovris pliparton de la norda Hindujo kaj orienta Pakistano, partojn de Gu\u011Darato kaj Ra\u011Dasthano kaj la nuntempan Banglade\u015Don. La \u0109efurbo de la gupta imperio estis Pataliputro, nuntempe Patna, en la norda barata sub\u015Dtato Biharo. La paco kaj prospereco kreitaj sub la estreco de la guptidoj ebligis plurajn sciencajn kaj artajn progresojn. Historiistoj sidigas la guptan dinastion kune kun la Han Dinastio, la Tang Dinastio, kaj la Romia Imperio, kiel ekzemplo de klasika civilizo. La tempo de la gupta imperio estas ofte konata kiel la ora epoko de Hindujo."@eo ,
+		"\u0397 \u0391\u03C5\u03C4\u03BF\u03BA\u03C1\u03B1\u03C4\u03BF\u03C1\u03AF\u03B1 \u0393\u03BA\u03BF\u03CD\u03C0\u03C4\u03B1 (\u03C3\u03B1\u03BD\u03C3\u03BA\u03C1\u03B9\u03C4\u03B9\u03BA\u03AC: \u0917\u0941\u092A\u094D\u0924 \u0938\u093E\u092E\u094D\u0930\u093E\u091C\u094D\u092F), \u03AE\u03C4\u03B1\u03BD \u03B1\u03C1\u03C7\u03B1\u03AF\u03B1 \u03B9\u03BD\u03B4\u03B9\u03BA\u03AE \u03B1\u03C5\u03C4\u03BF\u03BA\u03C1\u03B1\u03C4\u03BF\u03C1\u03AF\u03B1 \u03C0\u03BF\u03C5 \u03B4\u03B9\u03AE\u03C1\u03BA\u03B5\u03C3\u03B5 \u03B1\u03C0\u03CC \u03C4\u03BF 320 \u03BC.\u03A7. \u03BC\u03AD\u03C7\u03C1\u03B9 \u03C4\u03BF 550 \u03BC.\u03A7., \u03BA\u03B1\u03BB\u03CD\u03C0\u03C4\u03BF\u03BD\u03C4\u03B1\u03C2 \u03BC\u03B5\u03B3\u03AC\u03BB\u03BF \u03C4\u03BC\u03AE\u03BC\u03B1 \u03C4\u03B7\u03C2 \u03B9\u03BD\u03B4\u03B9\u03BA\u03AE\u03C2 \u03C5\u03C0\u03BF\u03B7\u03C0\u03B5\u03AF\u03C1\u03BF\u03C5. \u0399\u03B4\u03C1\u03CD\u03B8\u03B7\u03BA\u03B5 \u03B1\u03C0\u03CC \u03C4\u03BF \u039C\u03B1\u03C7\u03B1\u03C1\u03B1\u03B3\u03B9\u03AC \u03A3\u03C1\u03B9 \u0393\u03BA\u03BF\u03CD\u03C0\u03C4\u03B1, \u03B1\u03C0\u03BF\u03C4\u03B5\u03BB\u03CE\u03BD\u03C4\u03B1\u03C2 \u03BC\u03BF\u03BD\u03C4\u03AD\u03BB\u03BF \u03BA\u03BB\u03B1\u03C3\u03B9\u03BA\u03BF\u03CD \u03C0\u03BF\u03BB\u03B9\u03C4\u03B9\u03C3\u03BC\u03BF\u03CD. \u03A3\u03C4\u03B1 \u03C7\u03C1\u03CC\u03BD\u03B9\u03B1 \u03C4\u03B7\u03C2, \u03B7 \u03B5\u03B9\u03C1\u03AE\u03BD\u03B7 \u03BA\u03B1\u03B9 \u03B5\u03C5\u03B7\u03BC\u03B5\u03C1\u03AF\u03B1 \u03B4\u03B7\u03BC\u03B9\u03BF\u03CD\u03C1\u03B3\u03B7\u03C3\u03B1\u03BD \u03C4\u03B9\u03C2 \u03C3\u03C5\u03BD\u03B8\u03AE\u03BA\u03B5\u03C2 \u03B3\u03B9\u03B1 \u03C4\u03B7\u03BD \u03B5\u03C0\u03B9\u03B4\u03AF\u03C9\u03BE\u03B7 \u03B5\u03C0\u03B9\u03C3\u03C4\u03B7\u03BC\u03BF\u03BD\u03B9\u03BA\u03CE\u03BD \u03BA\u03B1\u03B9 \u03BA\u03B1\u03BB\u03BB\u03B9\u03C4\u03B5\u03C7\u03BD\u03B9\u03BA\u03CE\u03BD \u03B5\u03C0\u03B9\u03C4\u03B5\u03C5\u03B3\u03BC\u03AC\u03C4\u03C9\u03BD. \u0397 \u03C0\u03B5\u03C1\u03AF\u03BF\u03B4\u03BF\u03C2 \u03B1\u03C5\u03C4\u03AE \u03BA\u03B1\u03BB\u03B5\u03AF\u03C4\u03B1\u03B9 \u03C9\u03C2 \u03A7\u03C1\u03C5\u03C3\u03AE \u0395\u03C0\u03BF\u03C7\u03AE \u03C4\u03B7\u03C2 \u0399\u03BD\u03B4\u03AF\u03B1\u03C2 \u03BA\u03B1\u03B9 \u03C3\u03B7\u03BC\u03B1\u03B4\u03B5\u03CD\u03C4\u03B7\u03BA\u03B5 \u03B1\u03C0\u03CC \u03B5\u03BA\u03C4\u03B5\u03C4\u03B1\u03BC\u03AD\u03BD\u03B5\u03C2 \u03B1\u03BD\u03B1\u03BA\u03B1\u03BB\u03CD\u03C8\u03B5\u03B9\u03C2 \u03C3\u03C4\u03B7\u03BD \u0395\u03C0\u03B9\u03C3\u03C4\u03AE\u03BC\u03B7, \u03C4\u03B7\u03BD \u03A4\u03B5\u03C7\u03BD\u03BF\u03BB\u03BF\u03B3\u03AF\u03B1, \u03C4\u03B7 \u039C\u03B7\u03C7\u03B1\u03BD\u03B9\u03BA\u03AE, \u03C4\u03B7\u03BD \u03A4\u03AD\u03C7\u03BD\u03B7, \u03C4\u03B7 \u0394\u03B9\u03B1\u03BB\u03B5\u03BA\u03C4\u03B9\u03BA\u03AE, \u03C4\u03B7 \u039B\u03BF\u03B3\u03BF\u03C4\u03B5\u03C7\u03BD\u03AF\u03B1, \u03C4\u03B7 \u039B\u03BF\u03B3\u03B9\u03BA\u03AE, \u03C4\u03B1 \u039C\u03B1\u03B8\u03B7\u03BC\u03B1\u03C4\u03B9\u03BA\u03AC, \u03C4\u03B7\u03BD \u0391\u03C3\u03C4\u03C1\u03BF\u03BD\u03BF\u03BC\u03AF\u03B1, \u03C4\u03B7 \u0398\u03C1\u03B7\u03C3\u03BA\u03B5\u03AF\u03B1 \u03BA\u03B1\u03B9 \u03C4\u03B7 \u03A6\u03B9\u03BB\u03BF\u03C3\u03BF\u03C6\u03AF\u03B1 \u03C0\u03BF\u03C5 \u03B1\u03C0\u03BF\u03BA\u03C1\u03C5\u03C3\u03C4\u03AC\u03BB\u03BB\u03C9\u03C3\u03B1\u03BD \u03C4\u03B1 \u03C3\u03C4\u03BF\u03B9\u03C7\u03B5\u03AF\u03B1 \u03C0\u03BF\u03C5 \u03B5\u03AF\u03BD\u03B1\u03B9 \u03B3\u03BD\u03C9\u03C3\u03C4\u03AC \u03B3\u03B5\u03BD\u03B9\u03BA\u03CE\u03C2 \u03C9\u03C2 \u03B9\u03BD\u03B4\u03BF\u03C5\u03B9\u03C3\u03C4\u03B9\u03BA\u03AE \u03BA\u03BF\u03C5\u03BB\u03C4\u03BF\u03CD\u03C1\u03B1. \u039F \u03A4\u03C3\u03AC\u03BD\u03C4\u03C1\u03B1 \u0393\u03BA\u03BF\u03CD\u03C0\u03C4\u03B1 \u0391', \u03BF \u03A3\u03B1\u03BC\u03BF\u03CD\u03BD\u03C4\u03C1\u03B1 \u0393\u03BA\u03BF\u03CD\u03C0\u03C4\u03B1 \u03BF \u039C\u03AD\u03B3\u03B1\u03C2 \u03BA\u03B1\u03B9 \u03BF \u03A4\u03C3\u03AC\u03BD\u03C4\u03C1\u03B1 \u0393\u03BA\u03BF\u03CD\u03C0\u03C4\u03B1 \u0392' \u03BF \u039C\u03AD\u03B3\u03B1\u03C2 \u03AE\u03C4\u03B1\u03BD \u03BF\u03B9 \u03C0\u03B9\u03BF \u03B1\u03BE\u03B9\u03BF\u03C3\u03B7\u03BC\u03B5\u03AF\u03C9\u03C4\u03BF\u03B9 \u03B7\u03B3\u03AD\u03C4\u03B5\u03C2 \u03C4\u03B7\u03C2 \u03B4\u03C5\u03BD\u03B1\u03C3\u03C4\u03B5\u03AF\u03B1\u03C2 \u03C4\u03C9\u03BD \u0393\u03BA\u03BF\u03CD\u03C0\u03C4\u03B1. \u03A4\u03BF\u03BD 4\u03BF \u03B1\u03B9\u03CE\u03BD\u03B1 \u03BC.\u03A7., \u03BF \u03C3\u03B1\u03BD\u03C3\u03BA\u03C1\u03B9\u03C4\u03B9\u03BA\u03CC\u03C2 \u03C0\u03BF\u03B9\u03B7\u03C4\u03AE\u03C2 \u039A\u03B1\u03BB\u03B9\u03BD\u03C4\u03AC\u03C3\u03B1, \u03C0\u03B9\u03C3\u03C4\u03CE\u03BD\u03B5\u03B9 \u03C3\u03C4\u03BF\u03C5\u03C2 \u0393\u03BA\u03BF\u03CD\u03C0\u03C4\u03B1 \u03C4\u03B7\u03BD \u03BA\u03B1\u03C4\u03AC\u03BA\u03C4\u03B7\u03C3\u03B7 \u03C0\u03B5\u03C1\u03AF\u03C0\u03BF\u03C5 20 \u03B2\u03B1\u03C3\u03B9\u03BB\u03B5\u03AF\u03C9\u03BD, \u03C4\u03CC\u03C3\u03BF \u03B5\u03BD\u03C4\u03CC\u03C2 \u03CC\u03C3\u03BF \u03BA\u03B1\u03B9 \u03B5\u03BA\u03C4\u03CC\u03C2 \u03C4\u03B7\u03C2 \u03B9\u03BD\u03B4\u03B9\u03BA\u03AE\u03C2 \u03C5\u03C0\u03BF\u03B7\u03C0\u03B5\u03AF\u03C1\u03BF\u03C5, \u03CC\u03C0\u03C9\u03C2 \u03C4\u03BF \u0392\u03B1\u03C3\u03AF\u03BB\u03B5\u03B9\u03BF \u03C4\u03C9\u03BD \u03A3\u03B1\u03BA\u03CE\u03BD, \u03C4\u03C9\u03BD , \u03C4\u03B1 \u03B2\u03B1\u03C3\u03AF\u03BB\u03B5\u03B9\u03B1 \u03C4\u03C9\u03BD \u03BA\u03B1\u03BC\u03C0\u03BF\u03C4\u03B6\u03B9\u03B1\u03BD\u03CE\u03BD \u03C6\u03C5\u03BB\u03CE\u03BD \u03C3\u03C4\u03B1 \u03B4\u03C5\u03C4\u03B9\u03BA\u03AC \u03BA\u03B1\u03B9 \u03B1\u03BD\u03B1\u03C4\u03BF\u03BB\u03B9\u03BA\u03AC \u03C4\u03B7\u03C2 \u03BA\u03BF\u03B9\u03BB\u03AC\u03B4\u03B1\u03C2 \u03C4\u03BF\u03C5 \u03C0\u03BF\u03C4\u03B1\u03BC\u03BF\u03CD \u038F\u03BE\u03BF\u03C5, \u03C4\u03C9\u03BD \u039A\u03B9\u03BD\u03BD\u03AC\u03C1\u03B1\u03C2 \u03BA\u03B1\u03B9 \u039A\u03B9\u03C1\u03AC\u03C4\u03B1\u03C2 \u03BA\u03BB\u03C0. \u0397 \u03C0\u03BF\u03BB\u03B9\u03C4\u03B9\u03C3\u03C4\u03B9\u03BA\u03AE \u03B1\u03C5\u03C4\u03AE \u03B4\u03B7\u03BC\u03B9\u03BF\u03C5\u03C1\u03B3\u03AF\u03B1 \u03AD\u03C6\u03C4\u03B1\u03C3\u03B5 \u03C3\u03B5 \u03C5\u03C8\u03B7\u03BB\u03AC \u03B5\u03C0\u03B9\u03C4\u03B5\u03CD\u03B3\u03BC\u03B1\u03C4\u03B1 \u03B1\u03BA\u03CC\u03BC\u03B1 \u03C0\u03B5\u03C1\u03B9\u03C3\u03C3\u03CC\u03C4\u03B5\u03C1\u03BF \u03C3\u03C4\u03B7\u03BD \u0391\u03C1\u03C7\u03B9\u03C4\u03B5\u03BA\u03C4\u03BF\u03BD\u03B9\u03BA\u03AE, \u0393\u03BB\u03C5\u03C0\u03C4\u03B9\u03BA\u03AE \u03BA\u03B1\u03B9 \u0396\u03C9\u03B3\u03C1\u03B1\u03C6\u03B9\u03BA\u03AE. \u0397 \u03C0\u03B5\u03C1\u03AF\u03BF\u03B4\u03BF\u03C2 \u03C4\u03C9\u03BD \u0399\u03BD\u03B4\u03CE\u03BD \u0393\u03BA\u03BF\u03CD\u03C0\u03C4\u03B1 \u03C0\u03B1\u03C1\u03AE\u03B3\u03B1\u03B3\u03B5 \u03BB\u03CC\u03B3\u03B9\u03BF\u03C5\u03C2 \u03CC\u03C0\u03C9\u03C2 \u03C4\u03BF\u03BD \u039A\u03B1\u03BB\u03B9\u03BD\u03C4\u03AC\u03C3\u03B1, \u03C4\u03BF\u03BD \u0391\u03C1\u03B9\u03B1\u03BC\u03C0\u03AC\u03C4\u03B1, \u03C4\u03BF \u0392\u03B1\u03C1\u03B1\u03C7\u03B1\u03BC\u03B9\u03C7\u03AF\u03C1\u03B1, \u03C4\u03BF  \u03BA\u03B1\u03B9 \u03C4\u03BF  \u03C0\u03BF\u03C5 \u03C0\u03AD\u03C4\u03C5\u03C7\u03B1\u03BD \u03C3\u03C0\u03BF\u03C5\u03B4\u03B1\u03AF\u03B1 \u03B5\u03C0\u03B9\u03C4\u03B5\u03CD\u03B3\u03BC\u03B1\u03C4\u03B1 \u03C3\u03B5 \u03C0\u03BF\u03BB\u03BB\u03AC \u03B1\u03BA\u03B1\u03B4\u03B7\u03BC\u03B1\u03CA\u03BA\u03AC \u03C0\u03B5\u03B4\u03AF\u03B1. \u0397 \u03B5\u03C0\u03B9\u03C3\u03C4\u03AE\u03BC\u03B7 \u03BA\u03B1\u03B9 \u03B7 \u03C4\u03AD\u03C7\u03BD\u03B7 \u03C4\u03B7\u03C2 \u03C0\u03BF\u03BB\u03B9\u03C4\u03B9\u03BA\u03AE\u03C2 \u03B4\u03B9\u03BF\u03AF\u03BA\u03B7\u03C3\u03B7\u03C2 \u03AD\u03C6\u03C4\u03B1\u03C3\u03B1\u03BD \u03B5\u03C0\u03AF\u03C3\u03B7\u03C2 \u03C3\u03B5 \u03BD\u03AD\u03B1 \u03CD\u03C8\u03B7 \u03BA\u03B1\u03C4\u03AC \u03C4\u03B7 \u03B4\u03B9\u03AC\u03C1\u03BA\u03B5\u03B9\u03B1 \u03B5\u03BA\u03B5\u03AF\u03BD\u03B7\u03C2 \u03C4\u03B7\u03C2 \u03B5\u03C0\u03BF\u03C7\u03AE\u03C2. \u0399\u03C3\u03C7\u03C5\u03C1\u03BF\u03AF \u03B5\u03BC\u03C0\u03BF\u03C1\u03B9\u03BA\u03BF\u03AF \u03B4\u03B5\u03C3\u03BC\u03BF\u03AF \u03AD\u03BA\u03B1\u03BD\u03B1\u03BD \u03B5\u03C0\u03B9\u03C0\u03BB\u03AD\u03BF\u03BD \u03C4\u03B7\u03BD \u03C0\u03B5\u03C1\u03B9\u03BF\u03C7\u03AE \u03C3\u03B7\u03BC\u03B1\u03BD\u03C4\u03B9\u03BA\u03CC \u03C0\u03BF\u03BB\u03B9\u03C4\u03B9\u03C3\u03C4\u03B9\u03BA\u03CC \u03BA\u03AD\u03BD\u03C4\u03C1\u03BF \u03BA\u03B1\u03B9 \u03C9\u03C2 \u03B2\u03AC\u03C3\u03B7 \u03C0\u03BF\u03C5 \u03B8\u03B1 \u03B5\u03C0\u03B7\u03C1\u03AD\u03B1\u03B6\u03B5 \u03C4\u03B1 \u03B4\u03B9\u03C0\u03BB\u03B1\u03BD\u03AC \u03B2\u03B1\u03C3\u03AF\u03BB\u03B5\u03B9\u03B1 \u03BA\u03B1\u03B9 \u03C0\u03B5\u03C1\u03B9\u03BF\u03C7\u03AD\u03C2 \u03C3\u03C4\u03B7 \u0392\u03B9\u03C1\u03BC\u03B1\u03BD\u03AF\u03B1, \u03C4\u03B7 \u03A3\u03C1\u03B9 \u039B\u03AC\u03BD\u03BA\u03B1 \u03BA\u03B1\u03B9 \u03C4\u03B7 \u039D\u03BF\u03C4\u03B9\u03BF\u03B1\u03BD\u03B1\u03C4\u03BF\u03BB\u03B9\u03BA\u03AE \u0391\u03C3\u03AF\u03B1. \u03A4\u03B1 \u03C0\u03B9\u03BF \u03C0\u03C1\u03CE\u03B9\u03BC\u03B1 \u03B4\u03B9\u03B1\u03B8\u03AD\u03C3\u03B9\u03BC\u03B1 \u03C3\u03AE\u03BC\u03B5\u03C1\u03B1 \u03B9\u03BD\u03B4\u03B9\u03BA\u03AC \u03AD\u03C0\u03B7 \u03C0\u03B9\u03C3\u03C4\u03B5\u03CD\u03B5\u03C4\u03B1\u03B9 \u03CC\u03C4\u03B9 \u03B3\u03C1\u03AC\u03C6\u03C4\u03B7\u03BA\u03B1\u03BD \u03C0\u03B5\u03C1\u03AF\u03C0\u03BF\u03C5 \u03B5\u03BA\u03B5\u03AF\u03BD\u03B7 \u03C4\u03B7\u03BD \u03C0\u03B5\u03C1\u03AF\u03BF\u03B4\u03BF. \u0397 \u03B1\u03C5\u03C4\u03BF\u03BA\u03C1\u03B1\u03C4\u03BF\u03C1\u03AF\u03B1 \u03B2\u03B1\u03B8\u03BC\u03B9\u03B1\u03AF\u03B1 \u03C0\u03B1\u03C1\u03AE\u03BA\u03BC\u03B1\u03C3\u03B5 \u03B5\u03BE\u03B1\u03B9\u03C4\u03AF\u03B1\u03C2 \u03C0\u03BF\u03BB\u03BB\u03CE\u03BD \u03C0\u03B1\u03C1\u03B1\u03B3\u03CC\u03BD\u03C4\u03C9\u03BD, \u03BA\u03C5\u03C1\u03AF\u03C9\u03C2 \u03CC\u03BC\u03C9\u03C2 \u03B5\u03BE\u03B1\u03B9\u03C4\u03AF\u03B1\u03C2 \u03C4\u03B7\u03C2 \u03B1\u03C0\u03CE\u03BB\u03B5\u03B9\u03B1\u03C2 \u03C3\u03B7\u03BC\u03B1\u03BD\u03C4\u03B9\u03BA\u03AE\u03C2 \u03B5\u03B4\u03B1\u03C6\u03B9\u03BA\u03AE\u03C2 \u03B5\u03C0\u03B9\u03BA\u03C1\u03AC\u03C4\u03B5\u03B9\u03B1\u03C2 \u03BA\u03B1\u03B9 \u03C4\u03B9\u03C2 \u03B4\u03B9\u03B1\u03BC\u03AC\u03C7\u03B5\u03C2 \u03C4\u03C9\u03BD \u03C6\u03B5\u03BF\u03C5\u03B4\u03B1\u03C1\u03C7\u03CE\u03BD \u03BA\u03B1\u03B8\u03CE\u03C2 \u03BA\u03B1\u03B9 \u03C4\u03B7\u03C2 \u03B5\u03B9\u03C3\u03B2\u03BF\u03BB\u03AE\u03C2 \u03C4\u03C9\u03BD \u03A7\u03B9\u03BF\u03BD\u03B9\u03C4\u03CE\u03BD \u039F\u03CD\u03BD\u03BD\u03C9\u03BD \u03B1\u03C0\u03CC \u03C4\u03B7\u03BD \u039A\u03B5\u03BD\u03C4\u03C1\u03B9\u03BA\u03AE \u0391\u03C3\u03AF\u03B1. \u039C\u03B5\u03C4\u03AC \u03C4\u03B7\u03BD \u03BA\u03B1\u03C4\u03AC\u03C1\u03C1\u03B5\u03C5\u03C3\u03B7 \u03C4\u03B7\u03C2 \u03B1\u03C5\u03C4\u03BF\u03BA\u03C1\u03B1\u03C4\u03BF\u03C1\u03AF\u03B1\u03C2 \u03C4\u03BF\u03BD 6\u03BF \u03B1\u03B9\u03CE\u03BD\u03B1 \u03BC.\u03A7., \u03B7 \u0399\u03BD\u03B4\u03AF\u03B1 \u03B4\u03B9\u03B1\u03B9\u03C1\u03AD\u03B8\u03B7\u03BA\u03B5 \u03C0\u03AC\u03BB\u03B9 \u03C3\u03B5 \u03C0\u03BF\u03BB\u03C5\u03AC\u03C1\u03B9\u03B8\u03BC\u03B1 \u03C4\u03BF\u03C0\u03B9\u03BA\u03AC \u03B2\u03B1\u03C3\u03AF\u03BB\u03B5\u03B9\u03B1. \u0388\u03BD\u03B1 \u03BC\u03B9\u03BA\u03C1\u03CC\u03C4\u03B5\u03C1\u03BF \u03C0\u03B1\u03C1\u03B1\u03BA\u03BB\u03AC\u03B4\u03B9 \u03C4\u03B7\u03C2 \u03B4\u03C5\u03BD\u03B1\u03C3\u03C4\u03B5\u03AF\u03B1\u03C2 \u03C4\u03C9\u03BD \u0393\u03BA\u03BF\u03CD\u03C0\u03C4\u03B1 \u03C3\u03C5\u03BD\u03AD\u03C7\u03B9\u03C3\u03B5 \u03BD\u03B1 \u03BA\u03C5\u03B2\u03B5\u03C1\u03BD\u03AC \u03C4\u03BF \u03B9\u03BD\u03B4\u03B9\u03BA\u03CC \u0392\u03B1\u03C3\u03AF\u03BB\u03B5\u03B9\u03BF \u03C4\u03B7\u03C2 \u039C\u03B1\u03B3\u03BA\u03AC\u03BD\u03C4\u03B1 \u03BC\u03B5\u03C4\u03AC \u03C4\u03B7 \u03B4\u03B9\u03AC\u03BB\u03C5\u03C3\u03B7 \u03C4\u03B7\u03C2 \u03B1\u03C5\u03C4\u03BF\u03BA\u03C1\u03B1\u03C4\u03BF\u03C1\u03AF\u03B1\u03C2. \u039F\u03B9 \u0393\u03BA\u03BF\u03CD\u03C0\u03C4\u03B1 \u03B1\u03C5\u03C4\u03BF\u03AF \u03C4\u03B5\u03BB\u03B9\u03BA\u03CE\u03C2 \u03B1\u03BD\u03B1\u03C4\u03C1\u03AC\u03C0\u03B7\u03BA\u03B1\u03BD \u03B1\u03C0\u03CC \u03C4\u03BF\u03BD \u03B1\u03C5\u03B8\u03AD\u03BD\u03C4\u03B7 \u03C4\u03BF\u03C5 \u03B9\u03BD\u03B4\u03B9\u03BA\u03BF\u03CD \u0392\u03B1\u03C3\u03B9\u03BB\u03B5\u03AF\u03BF\u03C5 \u0392\u03B1\u03C1\u03B4\u03AC\u03BD\u03B1, \u03C4\u03BF\u03BD , \u03BF \u03BF\u03C0\u03BF\u03AF\u03BF\u03C2 \u03B5\u03B3\u03BA\u03B1\u03B8\u03AF\u03B4\u03C1\u03C5\u03C3\u03B5 \u03BC\u03B9\u03B1 \u03BD\u03AD\u03B1 \u03B1\u03C5\u03C4\u03BF\u03BA\u03C1\u03B1\u03C4\u03BF\u03C1\u03AF\u03B1 \u03C4\u03BF \u03C0\u03C1\u03CE\u03C4\u03BF \u03BC\u03B9\u03C3\u03CC \u03C4\u03BF\u03C5 7\u03BF\u03C5 \u03B1\u03B9\u03CE\u03BD\u03B1."@el ,
+		"L'Impero Gupta \u00E8 stato uno dei maggiori imperi politici e militari dell'antica India. Fu governato dalla dinastia Gupta tra il 240 e il 550 d.C. e occup\u00F2 la maggior parte dell'India settentrionale, degli attuali Pakistan orientale e del Bangladesh. Sotto questo impero si ebbe un periodo di pace e prosperit\u00E0 che favor\u00EC lo sviluppo culturale: viene considerata l'\"et\u00E0 dell'oro\" della cultura indiana dal punto di vista artistico, letterario e scientifico (in modo analogo alle dinastie Han e Tang in Cina e alla cultura greco-romana per la civilt\u00E0 occidentale). I Gupta stabilirono un efficace sistema amministrativo e un forte potere centrale, permettendo tuttavia una sviluppata autonomia locale in periodo di pace, quando solo la raccolta delle tasse confluiva verso la capitale. La societ\u00E0 era ordinata secondo le credenze induiste, con una rigida divisione in caste. L'induismo vide una cristallizzazione delle sue pi\u00F9 importanti caratteristiche: principali divinit\u00E0, pratiche devozionali e importanza dei templi. Fiorirono i commerci e gli scambi, mentre la mitologia e l'architettura induista e buddhista si radicarono nel Borneo, in Cambogia, in Thailandia, in Indonesia."@it ,
+		"Guptowie \u2013 dynastia panuj\u0105ca na r\u00F3\u017Cnych obszarach dzisiejszych Indii, Pakistanu, Bangladeszu i Afganistanu w latach 320\u2013720 n.e. Cz\u0142onkowie: 1.  \n* \u0106andragupta I (320-330) 2.  \n* Samudragupta (330-375) 3.  \n* \u0106andragupta II (375-414) 4.  \n* Kumaragupta I (415-455) 5.  \n*  (455-467) 6.  \n*  (467-473) 7.  \n*  (473-476) 8.  \n*  (476-495?) Kolejni w\u0142adcy nie odgrywali ju\u017C w Indiach znacz\u0105cej roli. Guptowie przetrwali jako ksi\u0105\u017C\u0119ta Magadhy do pocz\u0105tk\u00F3w VIII w. (cz\u0119sto jednak uwa\u017Ca si\u0119, \u017Ce od ok. 550 roku by\u0142 to inny r\u00F3d o identycznej nazwie). Pa\u0144stwo rz\u0105dzone przez dynasti\u0119 Gupt\u00F3w powsta\u0142o w pocz\u0105tkach IV w. nad \u015Brodkowym biegiem Gangesu. W wyniku kolejnych podboj\u00F3w do 410 r. obj\u0119\u0142o ono ca\u0142e p\u00F3\u0142nocne Indie. Zajmowa\u0142o, poza dolin\u0105 i delt\u0105 Gangesu, tak\u017Ce Kaling\u0119, Pend\u017Cab, dolin\u0119 Indusu i Kathijawar. Okres panowania dynastii Gupt\u00F3w uwa\u017Cany jest za z\u0142oty wiek rozwoju kulturalnego kr\u00F3lestwa. Rozwija\u0142y si\u0119 zw\u0142aszcza astronomia i matematyka, wynaleziono wtedy dziesi\u0119tny system liczbowy oraz cyfry arabskie, zwane tak, gdy\u017C do Europy dotar\u0142y za po\u015Brednictwem Arab\u00F3w. Rozkwita\u0142a literatura i poezja, powsta\u0142y hinduskie eposy Ramajana i Mahabharata. Za ich rz\u0105d\u00F3w dzia\u0142a\u0142 tak\u017Ce poeta i dramaturg K\u0101lid\u0101sa. W V stuleciu Kr\u00F3lestwo Gupt\u00F3w zacz\u0119\u0142o chyli\u0107 si\u0119 ku upadkowi, a to g\u0142\u00F3wnie za przyczyn\u0105 wielkich najazd\u00F3w Bia\u0142ych Hun\u00F3w \u2013 Heftalit\u00F3w. Co prawda Skandagupta w 460 pokona\u0142 Hun\u00F3w, ale po jego \u015Bmierci pa\u0144stwo zaczyna upada\u0107, tak, \u017Ce podczas najazdu w 510 r. Heftalici zaj\u0119li p\u00F3\u0142nocno-zachodnie Indie. Tym niemniej, niejaki , w\u0142adca Magadhy i Bengalu zdo\u0142a\u0142 ok. 528 roku zada\u0107 powa\u017Cn\u0105 kl\u0119sk\u0119 Heftalitom, uwalniaj\u0105c od nich znaczn\u0105 cz\u0119\u015B\u0107 doliny Gangesu, co jednak nie przywr\u00F3ci\u0142o \u015Bwietno\u015Bci dynastii. Natomiast nowe, dynamiczne pa\u0144stwa powsta\u0142y w regionie p\u0142askowy\u017Cu Dekanu, zajmuj\u0105cego \u015Brodek p\u00F3\u0142wyspu, i na nizinach wzd\u0142u\u017C wybrze\u017Cy po\u0142udniowo-wschodnich. Z okresu VI-VII w. cywilizacja hinduska pozostawi\u0142a wiele wspania\u0142ych kamiennych budowli sakralnych, charakteryzuj\u0105cych si\u0119 zw\u0142aszcza bogatymi p\u0142askorze\u017Abami, g\u0142\u00F3wnie o tematyce religijnej. Nadal funkcjonowa\u0142 buddyzm, ale odradza\u0142 si\u0119 r\u00F3wnie\u017C braminizm, pod postaci\u0105 hinduizmu."@pl ,
+		"Guptariket var ett rike i Indien, grundat 275 e.Kr. och som bestod till ungef\u00E4r 550 e. Kr. Riket innebar en kulturell blomstringsperiod f\u00F6r Indien. V\u00E4rdet av \"pi\" ber\u00E4knades f\u00F6r f\u00F6rsta g\u00E5ngen av matematikern Aryabhata 499 e. Kr. Aryabhata fastslog ocks\u00E5 att jorden \u00E4r rund och roterar runt sin egen axel. Han ber\u00E4knade \u00E4ven sol\u00E5rets l\u00E4ngd till exaktheten av 365,358 dagar. Den indiska handeln med romarriket avtog vid tiden f\u00F6r Guptarikets uppkomst. Ist\u00E4llet kom man att under Guptariket handla med Sydostasien."@sv ,
+		"\u30B0\u30D7\u30BF\u671D\uFF08\u30B0\u30D7\u30BF\u3061\u3087\u3046\u3001Gupta Empire\uFF09\u306F\u3001\u53E4\u4EE3\u30A4\u30F3\u30C9\u306B\u304A\u3044\u3066\u3001\u897F\u66A6320\u5E74\u304B\u3089550\u5E74\u9803\u307E\u3067\u3001\u30D1\u30FC\u30BF\u30EA\u30D7\u30C8\u30E9\u3092\u90FD\u3068\u3057\u3066\u6804\u3048\u305F\u738B\u671D\u3067\u3042\u308B\u30024\u4E16\u7D00\u306B\u6700\u76DB\u671F\u3092\u8FCE\u3048\u3001\u30A4\u30F3\u30C9\u5317\u90E8\u3092\u7D71\u4E00\u3057\u305F\u3002"@ja ,
+		"\u0625\u0645\u0628\u0631\u0627\u0637\u0648\u0631\u064A\u0629 \u062C\u0648\u0628\u062A\u0627 \u0647\u064A \u0625\u0645\u0628\u0631\u0627\u0637\u0648\u0631\u064A\u0629 \u0647\u0646\u062F\u064A\u0629 \u0642\u062F\u064A\u0645\u0629 \u062D\u0643\u0645\u062A \u0634\u0645\u0627\u0644 \u0627\u0644\u0647\u0646\u062F \u0648\u0634\u0631\u0642 \u0628\u0627\u0643\u0633\u062A\u0627\u0646 \u0641\u064A \u0627\u0644\u0641\u062A\u0631\u0629 \u0627\u0644\u0645\u0645\u062A\u062F\u0629 \u062A\u0642\u0631\u064A\u0628\u0627\u064B \u0645\u0646 320 \u0625\u0644\u0649 550\u0645. \u0623\u0633\u0633\u0647\u0627 \"\u0645\u0627\u0647\u0627\u0631\u0627\u062C\u0627 \u0633\u0631\u0650-\u062C\u0648\u0628\u062A\u0627\". \u0648\u0642\u062F \u0639\u0645\u0651 \u0641\u064A \u0639\u0647\u062F\u0647\u0627 \u0627\u0644\u0623\u0645\u0646 \u0648\u0627\u0644\u0631\u062E\u0627\u0621 \u0645\u0645\u0627 \u0645\u0643\u0646 \u0627\u0644\u0639\u0644\u0648\u0645 \u0648\u0627\u0644\u0641\u0646\u0648\u0646 \u0645\u0646 \u0627\u0644\u0627\u0646\u062A\u0634\u0627\u0631. \u0648\u062A\u0633\u0645\u0649 \u0647\u0630\u0647 \u0627\u0644\u0641\u062A\u0631\u0629 \u060C \u0641\u0642\u062F \u062A\u0645\u062A \u062E\u0644\u0627\u0644\u0647\u0627 \u0625\u0646\u062C\u0627\u0632\u0627\u062A \u0648\u0627\u0633\u0639\u0629 \u0641\u064A \u0627\u0644\u0639\u0644\u0645 \u0648\u0627\u0644\u062A\u0643\u0646\u0648\u0644\u0648\u062C\u064A\u0627 \u0648\u0627\u0644\u0647\u0646\u062F\u0633\u0629 \u0648\u0627\u0644\u0641\u0646 \u0648\u0627\u0644\u0623\u062F\u0628 \u0648\u0639\u0644\u0645 \u0627\u0644\u0645\u0646\u0637\u0642 \u0648\u0627\u0644\u0631\u064A\u0627\u0636\u064A\u0627\u062A \u0648\u0639\u0644\u0645 \u0627\u0644\u0641\u0644\u0643 \u0648\u0627\u0644\u062F\u064A\u0646 \u0648\u0627\u0644\u0641\u0644\u0633\u0641\u0629 \u0648\u0628\u0644\u0648\u0631\u062A \u0645\u0627 \u064A\u064F\u0639\u0631\u0641 \u0639\u0645\u0648\u0645\u0627 \u0628\u0627\u0644\u062B\u0642\u0627\u0641\u0629 \u0627\u0644\u0647\u0646\u062F\u064A\u0629. \u0648\u0623\u0647\u0645 \u062D\u0643\u0627\u0645 \u0625\u0645\u0628\u0631\u0627\u0637\u0648\u0631\u064A\u0629 \u062C\u0648\u0628\u062A\u0627 \u0647\u0645 \u0634\u0627\u0646\u062F\u0631\u0627 \u062C\u0648\u0628\u062A\u0627 \u0627\u0644\u0623\u0648\u0644  . \u0648\u0645\u0646 \u0627\u0644\u0646\u0642\u0627\u0637 \u0627\u0644\u0647\u0627\u0645\u0629 \u0627\u0644\u062A\u064A \u064A\u062A\u0636\u062D \u0641\u064A\u0647\u0627 \u0647\u0630\u0627 \u0627\u0644\u0625\u0628\u062F\u0627\u0639 \u0627\u0644\u062B\u0642\u0627\u0641\u064A \u0641\u064A \u0647\u0630\u0627 \u0627\u0644\u0639\u0635\u0631 \u0641\u0646 \u0627\u0644\u0639\u0645\u0627\u0631\u0629 \u0648\u0627\u0644\u0646\u062D\u062A \u0648\u0627\u0644\u0631\u0633\u0645 \u0627\u0644\u0632\u064A\u062A\u064A. \u0648\u0645\u0646 \u0623\u0634\u0647\u0631 \u0627\u0644\u0639\u0644\u0645\u0627\u0621 \u0648\u0627\u0644\u0641\u0646\u0627\u0646\u064A\u0646 \u0627\u0644\u0630\u064A\u0646 \u0638\u0647\u0631\u0648\u0627 \u0641\u064A \u0639\u0635\u0631 \u0647\u0630\u0647 \u0627\u0644\u0625\u0645\u0628\u0631\u0627\u0637\u0648\u0631\u064A\u0629: \u0643\u0627\u0644\u064A\u062F\u0627\u0633\u0627 \u0648\u0623\u0631\u064A\u0627\u0628\u0647\u0627\u062A\u0627   \u0648\u0641\u0627\u062A\u0633\u064A\u0627\u064A\u0627\u0646\u0627 \u0648\u0627\u0644\u0630\u064A\u0646 \u064A\u0645\u0644\u0643\u0648\u0646 \u0625\u0646\u062C\u0627\u0632\u0627\u062A \u0639\u0638\u064A\u0645\u0629 \u0641\u064A \u0645\u062C\u0627\u0644\u0627\u062A \u0645\u062D\u062A\u0644\u0641\u0629. \u0648\u0623\u064A\u0636\u0627 \u0642\u0627\u0645\u062A \u0631\u0648\u0627\u0628\u0637 \u062A\u062C\u0627\u0631\u064A\u0629 \u0642\u0648\u064A\u0629 \u0628\u062C\u0639\u0644 \u0627\u0644\u0645\u0646\u0637\u0642\u0629 \u0645\u0631\u0643\u0632\u0627\u064B \u062B\u0642\u0627\u0641\u064A\u0627\u064B \u0647\u0627\u0645\u0627\u064B \u0648\u0623\u0635\u0628\u062D\u062A \u062A\u0624\u062B\u0631 \u0628\u0645\u0627 \u062D\u0648\u0644\u0647\u0627 \u0645\u0646 \u0645\u0645\u0627\u0644\u0643 \u0645\u062B\u0644: \u0628\u0648\u0631\u0645\u0627 \u0648\u0633\u0631\u064A\u0644\u0627\u0646\u0643\u0627 \u0648\u0623\u0631\u062E\u0628\u064A\u0644 \u0627\u0644\u0645\u0644\u0627\u064A\u0648 \u0648\u0627\u0644\u0647\u0646\u062F \u0627\u0644\u0635\u064A\u0646\u064A\u0629. \u0648\u0623\u0642\u062F\u0645 \u0646\u0633\u062E\u0629 \u0645\u0648\u062C\u0648\u062F\u0629 \u0645\u0646  (\u0648\u0647\u0648 \u0646\u0635 \u0647\u0646\u062F\u064A \u062F\u064A\u0646\u064A \u0647\u0627\u0645) \u064A\u064F\u0639\u062A\u0642\u062F \u0623\u0646\u0647\u0627 \u0623\u064A\u0636\u0627\u064B \u0643\u064F\u062A\u0628\u062A \u0641\u064A \u0647\u0630\u0647 \u0627\u0644\u0641\u062A\u0631\u0629. \u0648\u0642\u062F \u0627\u0646\u062A\u0647\u062A \u0647\u0630\u0647 \u0627\u0644\u0625\u0645\u0628\u0631\u0627\u0637\u0648\u0631\u064A\u0629 \u0628\u0647\u062C\u0648\u0645 \"\u0634\u0639\u0628 \u0627\u0644\u0647\u0648\u0646\u0627\" \u0627\u0644\u0642\u0627\u062F\u0645 \u0645\u0646 \u0648\u0633\u0637 \u0622\u0633\u064A\u0627. \u0648\u0628\u0639\u062F \u0627\u0646\u0647\u064A\u0627\u0631\u0647\u0627 \u0641\u064A \u0627\u0644\u0642\u0631\u0646 \u0627\u0644\u0633\u0627\u062F\u0633 \u0627\u0644\u0645\u064A\u0644\u0627\u062F\u064A\u060C \u0639\u0627\u062F \u0634\u0645\u0627\u0644 \u0627\u0644\u0647\u0646\u062F \u0639\u0628\u0627\u0631\u0629 \u0639\u0646 \u0645\u062C\u0645\u0648\u0639\u0629 \u0645\u0646 \u0627\u0644\u0645\u0645\u0627\u0644\u0643 \u0648\u0627\u0644\u062C\u0645\u0647\u0648\u0631\u064A\u0627\u062A \u0627\u0644\u0635\u063A\u064A\u0631\u0629. \u0648\u0628\u0639\u062F \u0627\u0646\u0647\u064A\u0627\u0631\u0647\u0627 \u0628\u0642\u064A\u062A \u0645\u062C\u0645\u0648\u0639\u0629 \u0645\u0646 \u0627\u0644\u0633\u0644\u0627\u0644\u0629 \u0627\u0644\u062D\u0627\u0643\u0645\u0629 \u062A\u062D\u0643\u0645 \u0645\u0646\u0637\u0642\u0629 \"\u0645\u0627\u063A\u0627\u062F\u0627\". \u0648\u0644\u0643\u0646 \u0633\u0631\u0639\u0627\u0646 \u0645\u0627 \u0633\u064F\u0644\u0628\u062A \u0645\u0646\u0647\u0645 \u0628\u0642\u0627\u064A\u0627 \u0625\u0645\u0628\u0631\u0627\u0637\u0648\u0631\u064A\u062A\u0647\u0645 \u0628\u0648\u0627\u0633\u0637\u0629 \u0647\u0627\u0631\u0634\u0627 \u0627\u0644\u0630\u064A \u0648\u064E\u062D\u0651\u062F \u0634\u0645\u0627\u0644 \u0627\u0644\u0647\u0646\u062F \u0645\u0646 \u062C\u062F\u064A\u062F \u0648\u0623\u0633\u0633 \u0625\u0645\u0628\u0631\u0627\u0637\u0648\u0631\u064A\u0629 \u0641\u064A \u0627\u0644\u0646\u0635\u0641 \u0627\u0644\u0623\u0648\u0644 \u0645\u0646 \u0627\u0644\u0642\u0631\u0646 \u0627\u0644\u0633\u0627\u0628\u0639 \u0627\u0644\u0645\u064A\u0644\u0627\u062F\u064A."@ar ,
+		"De Gupta's (Sanskriet: gupta) waren een dynastie in het noorden van zuidelijk Azi\u00EB (\"India\") tussen de laat 3e en 6e eeuw. In de 4e en 5e eeuw heersten ze over een rijk dat vrijwel het hele noorden van India besloeg. Hoewel hun rijk nooit zo groot was als het eerdere Mauryarijk of het latere Mogolrijk, worden de Gupta's als een van de belangrijkste dynastie\u00EBn in de Indische geschiedenis beschouwd. Dat is vooral vanwege de maatschappelijke en culturele ontwikkelingen onder hun heerschappij. In de periode voor de Gupta's hadden invallen van volkeren uit het noordwesten politieke instabiliteit, maar ook culturele uitwisseling gebracht. Onder de Gupta's beleefde India een stabiele periode, waarin de handel met het Middellandse Zeegebied, China en Centraal- en Zuidoost-Azi\u00EB grotere welvaart bracht. De wetenschap, nijverheid, literatuur en kunsten bloeiden op. De Gupta's stimuleerden een groeiende interesse in oude Vedische teksten en brahmanistische rituelen. Tegelijkertijd ontstonden nieuwe cultusvormen gebaseerd op persoonlijke devotie. Beide ontwikkelingen stonden aan de basis van het ontstaan van het moderne hindoe\u00EFsme. In de Guptaperiode had India een grote culturele invloed op andere delen van de wereld, met name Centraal-Azi\u00EB, Zuidoost-Azi\u00EB en China. De kunst en architectuur uit de Guptatijd zetten ook de standaard voor latere ontwikkelingen in India zelf. De politieke en religieuze instituten van de Indische maatschappij zouden vanaf de Gupta's tot de 13e eeuw ongewijzigd blijven."@nl .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Gupta_Empire	dbo:wikiPageLength	"58978"^^xsd:nonNegativeInteger ;
+	dbp:leader	<http://dbpedia.org/resource/Gupta_(king)> ,
+		<http://dbpedia.org/resource/Vishnugupta_(Gupta_Empire)> ;
+	dbp:commonLanguages	dbr:Prakrit ,
+		dbr:Sanskrit ;
+	dbp:p	"Western Satraps"@en ,
+		"Nagas of Padmavati"@en ,
+		"Kushan Empire"@en ;
+	dbp:imageMapCaption	"Approximate extent of the Gupta territories  in 375 CE."@en ;
+	dbp:yearStart	3 ;
+	dbp:yearEnd	550 .
+<http://dbpedia.org/resource/List_of_regions_by_past_GDP_(PPP)>	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Gold_mining	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+<http://dbpedia.org/resource/Punjab,_India>	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Pilgrimage_places_in_India	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Buddhist_influences_on_Advaita_Vedanta	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Culture_of_India	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+<http://dbpedia.org/resource/5th_century>	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+<http://dbpedia.org/resource/6th_century>	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Palaeography	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:List_of_conflicts_in_Asia	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Bokklubben_World_Library	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Magahi_language	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Malda_district	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Paschim_Bardhaman_district	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Indian_astronomy	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+<http://dbpedia.org/resource/Gupta_(king)>	dbp:dynasty	dbr:Gupta_Empire ;
+	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Kavad_I	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+<http://dbpedia.org/resource/319>	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:History_of_the_center_of_the_Universe	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Maharajas_of_Valkha	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Sridharavarman	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Pranala	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Anant_Sadashiv_Altekar	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Dakshina_Kosala	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Kosambi	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+<http://dbpedia.org/resource/Ratnagiri,_Odisha>	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Dharmathakur	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+<http://dbpedia.org/resource/M\u1E5Bga\u015Bikh\u0101vana>	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Supiya	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Kumaragupta_III	dbp:dynasty	dbr:Gupta_Empire ;
+	dbp:title	dbr:Gupta_Empire ;
+	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Harsh_Ka_Tila	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Time_Warp_Trio	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:History_of_women_in_the_Indian_subcontinent	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+<http://dbpedia.org/resource/320>	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+<http://dbpedia.org/resource/375>	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:War_of_succession	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Culture_of_Bengal	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Ajanta_Caves	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Bengali_Kayastha	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Elephanta_Caves	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Magahi_culture	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Anumarana	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+<http://dbpedia.org/resource/Barbat_(lute)>	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+<http://dbpedia.org/resource/Sheikh_Chilli\u0027s_Tomb>	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Thanesar	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Shaka_era	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Magadha	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Vanga_Kingdom	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Shashanka	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Pundravardhana	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:History_of_Bengal	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Persecution_of_Buddhists	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Arts_of_China	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:The_Continent_of_Circe	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Shukra-Niti	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Audumbaras	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Mahendra_of_Dakshina_Kosala	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+<http://dbpedia.org/resource/\u015Aanakanika_Maharaja_(feudatory_of_Gupta_Dynasty)>	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Pushyamitras	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Indian_cuisine	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Bangladesh	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:List_of_largest_empires	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Bengali_language	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:India	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Pakistan	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Buddhism	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Nepal	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Hinduism	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Maharashtra	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Cartography_of_India	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Effects_of_economic_inequality	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Shalwar_kameez	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Punjabi_Muslims	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+<http://dbpedia.org/resource/Chamba,_Himachal_Pradesh>	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Odia_people	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Devadasi	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Beef	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Bengali_Hindus	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Kalinjar_Fort	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+<http://dbpedia.org/resource/Kamasutra_(manga)>	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:History_of_Sindh	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:List_of_sovereign_states_by_date_of_formation	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+<http://dbpedia.org/resource/Timeline_of_geopolitical_changes_(before_1900)>	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Indian_people	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Irredentism	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Sapta_Puri	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:History_of_Kolkata	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:History_of_Madhya_Pradesh	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:History_of_games	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:History_of_sugar	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Nagpur	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Emperor	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:List_of_monarchies	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:List_of_pre-modern_states	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:List_of_predecessors_of_sovereign_states_in_Asia	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Hindu_temple	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:History_of_Bihar	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:History_of_Gujarat	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:History_of_India	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Province	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Linguistic_history_of_India	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Timeline_of_Pakistani_history	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Tourism_in_Uttar_Pradesh	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:British_Museum	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Bengalis	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Royal_family	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+<http://dbpedia.org/resource/1931_in_archaeology>	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:History_of_Odisha	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:History_of_trigonometry	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+<http://dbpedia.org/resource/280>	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Deccan_Plateau	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Chanakya	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Index_of_Bangladesh-related_articles	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:History_of_archery	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Hindu_denominations	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Women_in_ancient_warfare	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+<http://dbpedia.org/resource/R._D._Banerji>	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Chausa_hoard	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Akota_Bronzes	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:List_of_Hindu_empires_and_dynasties	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Indonesian_Esoteric_Buddhism	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Death_by_burning	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Dashavatara	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Udayagiri_Caves	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Varaha	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Chandragupta_I	dbp:dynasty	dbr:Gupta_Empire ;
+	dbp:succession	dbr:Gupta_Empire ;
+	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Nagas_of_Padmavati	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+<http://dbpedia.org/resource/Vikram_(name)>	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Ancient_Indian_architecture	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Bharuch	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Bihari_culture	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+<http://dbpedia.org/resource/Kacha_(king)>	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Legend_of_Tirumala	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+<http://dbpedia.org/resource/Kir\u0101t\u0101rjun\u012Bya>	dbp:period	dbr:Gupta_Empire ;
+	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Vaikuntha_Chaturmurti	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Kaumodaki	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Gopala_I	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:History_of_Shaktism	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Art_of_Mathura	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Kumaragupta_I	dbp:dynasty	dbr:Gupta_Empire ;
+	dbp:succession	dbr:Gupta_Empire ;
+	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Ayudhapurusha	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Sharabhapuriya_dynasty	dbp:empire	dbr:Gupta_Empire ;
+	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Svayam_Bhagavan	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Nanda_Empire	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Narasimhagupta	dbp:dynasty	dbr:Gupta_Empire ;
+	dbp:title	dbr:Gupta_Empire ;
+	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Heliodorus_pillar	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Parivrajaka_dynasty	dbp:empire	dbr:Gupta_Empire ;
+	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Vrishni_heroes	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+<http://dbpedia.org/resource/Thakur_(title)>	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Origin_of_the_Gupta_dynasty	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Chandravarman	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Garhwa_Fort	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Gauda_Kingdom	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+<http://dbpedia.org/resource/Y\u016Bpa>	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+<http://dbpedia.org/resource/Gupta_(disambiguation)>	dbo:wikiPageWikiLink	dbr:Gupta_Empire ;
+	dbo:wikiPageDisambiguates	dbr:Gupta_Empire .
+dbr:Ganesha	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Madhya_Pradesh	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+<http://dbpedia.org/resource/Sati_(practice)>	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Bhumara_Temple	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Amarakosha	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Bor_Wildlife_Sanctuary	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+<http://dbpedia.org/resource/Deogarh,_Uttar_Pradesh>	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Gop_Temple	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Khedbrahma	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+<http://dbpedia.org/resource/Nuh_(city)>	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Barabar_Caves	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Bhitargaon	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Gorakhnath_Math	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Sculpture_of_Bangladesh	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Kushan_coinage	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Ravananugraha	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Nalanda	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Undavalli_Caves	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Mundeshwari_Temple	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Indian_armour	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Dashanami_Sampradaya	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+<http://dbpedia.org/resource/George_L._Hart>	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Archaeology_of_Ayodhya	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Gadhwa_Stone_Inscriptions	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Mathara_dynasty	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Rudrasena_II	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Tibetan_Buddhism	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Yoga	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Kanchipuram	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Sri_Ksetra_Kingdom	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+<http://dbpedia.org/resource/Vih\u0101ra>	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Decline_of_Buddhism_in_the_Indian_subcontinent	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Barwani_district	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Gurgaon_district	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+<http://dbpedia.org/resource/335>	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Choli	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Chaitya	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+<http://dbpedia.org/resource/Mahabodhi_Temple,_Bagan>	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Uttar_Mandabari	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+<http://dbpedia.org/resource/Vajrasana,_Bodh_Gaya>	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Vallabhi	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Malavas	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Deulpota	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Dhamek_Stupa	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+<http://dbpedia.org/resource/Dhumketu_(writer)>	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Gohilwad_Timbo	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Kesaria_stupa	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Khajuraho	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Khargapur	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Kirada	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+<http://dbpedia.org/resource/Konch_(community_development_block)>	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Purugupta	dbp:dynasty	dbr:Gupta_Empire ;
+	dbp:title	dbr:Gupta_Empire ;
+	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Early_Indian_epigraphy	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Nagvanshis_of_Chotanagpur	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Allahabad_Pillar	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Chanchal_I	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Chanchal_II	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Chandraketugarh	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Chapai_Nawabganj_District	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Chaukhandi_Stupa	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:North_24_Parganas_district	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Navaratnas	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+<http://dbpedia.org/resource/0>	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Balrampur	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+<http://dbpedia.org/resource/Bamangola_(community_development_block)>	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Bangarh	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:List_of_largest_empires_in_India	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Lohanipur_torso	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Dandabhukti	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Sonbhadra_district	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Albert_Hall_Museum	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+<http://dbpedia.org/resource/Gazole_(community_development_block)>	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Ramtek_Kevala_Narasimha_temple_inscription	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Bihar_Sharif	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Kaliachak_I	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Kaliachak_II	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Kaliachak_III	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Kamarupa	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+<http://dbpedia.org/resource/Kartikeya_Temple,_Pehowa>	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+<http://dbpedia.org/resource/Pal_(surname)>	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Etymology_of_Kolkata	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Political_history_of_medieval_Karnataka	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+<http://dbpedia.org/resource/Mitra_dynasty_(Kosambi)>	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+<http://dbpedia.org/resource/Rudrasena_II_(Western_Satrap)>	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Lion_Capital_of_Ashoka	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Gadahara	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+<http://dbpedia.org/resource/India\u2013Indonesia_relations>	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Satna_district	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Uparkot_Fort	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Gadarwara	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+<http://dbpedia.org/resource/Habibpur_(community_development_block)>	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Harishchandrapur_I	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Harishchandrapur_II	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Anupa	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+<http://dbpedia.org/resource/Jain_temples,_Vidisha>	dbp:creator	dbr:Gupta_Empire ;
+	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Jamui_district	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Golden_Age_of_India	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Salivanhana	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:History_of_Andhra_Pradesh	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:History_of_Bankura_district	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:History_of_Ranchi_district	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:History_of_Uttarakhand	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Iconography_of_Gautama_Buddha_in_Laos_and_Thailand	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Rajgir_hills	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Madhyadesha	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Ashtabhuji_Temple	dbp:creator	dbr:Gupta_Empire ;
+	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Aulikaras	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+<http://dbpedia.org/resource/Old_Malda_(community_development_block)>	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Pakhanna	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Ratua_I	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Ratua_II	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Abstract_strategy_game	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Agroha_Mound	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+<http://dbpedia.org/resource/341>	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+<http://dbpedia.org/resource/348>	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+<http://dbpedia.org/resource/413>	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+<http://dbpedia.org/resource/467>	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+<http://dbpedia.org/resource/474>	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+<http://dbpedia.org/resource/480>	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Bardhaman_district	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Bardhamanbhukti	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Kushinagar	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Lakhimpur_Kheri_district	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Lakulisa_Mathura_Pillar_Inscription	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Dah_Parvatiya	dbp:architecture	dbr:Gupta_Empire ;
+	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Damoh	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Dantan_I	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Parel	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Parinirvana_Stupa	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+<http://dbpedia.org/resource/Pashupatinath_Temple,_Mandsaur>	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Silk_Road_sites_in_India	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Koodiyattam	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:List_of_capitals_of_India	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Thai_Buddhist_sculpture	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Nasik_inscription_of_Ushavadata	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Nawada_district	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+<http://dbpedia.org/resource/Pilak,_Tripura>	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Pravarasena_II	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Dutta	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Kankagrambhukti	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+<http://dbpedia.org/resource/English_Bazar_(community_development_block)>	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Mongalkote	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Nachna_Hindu_temples	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Junagadh_rock_inscription_of_Rudradaman	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Maukhari_dynasty	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Indo-Sasanian_coinage	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Wardha_district	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Manikchak	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Tigawa	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Yashodharman	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Yuezhi	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Tosham_rock_inscription	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Panchala	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Paramartha	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Kenud	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Gaya_district	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Mahabub_Nagar_district	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Dhaneswar_Khera_Buddha_image_inscription	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Chilapata_Forests	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Bawani_Khera	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Ahiran	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Kullu	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Etawah	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:List_of_rulers_of_Odisha	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+<http://dbpedia.org/resource/Parwar_(Jain_community)>	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Kumaragupta_II	dbp:dynasty	dbr:Gupta_Empire ;
+	dbp:title	dbr:Gupta_Empire ;
+	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Ganges	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Rann_of_Kutch	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:List_of_World_Heritage_Sites_in_India	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Funan	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Indo-Roman_trade_relations	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+<http://dbpedia.org/resource/Hindu\u2013Arabic_numeral_system>	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:RBI_Monetary_Museum	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Mandir_kalash	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Prashasti	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Bhaktamara_Stotra	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+<http://dbpedia.org/resource/M\u012Bm\u0101\u1E43s\u0101>	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Srughna	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Kanakerha_inscription	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Cosmic_Calendar	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Rudrasimha_III	dbp:after	dbr:Gupta_Empire ;
+	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+<http://dbpedia.org/resource/Ayodhya_(Ramayana)>	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Varendra	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Nagaur_district	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Jabalpur	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Roman_economy	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Srivijaya	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Pataliputra_capital	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Buddhism_in_Kashmir	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Maharaja	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Indore	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Bihar	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Pataliputra	dbo:wikiPageWikiLink	dbr:Gupta_Empire ;
+	dbp:occupants	dbr:Gupta_Empire .
+dbr:Cultural_Development_of_Kamarupa	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:War_elephant	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Matrikas	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:East_Godavari	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Sanchi	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Burmese_calendar	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Japanese_sculpture	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+<http://dbpedia.org/resource/Var\u0101hamihira>	dbp:period	dbr:Gupta_Empire ;
+	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+<http://dbpedia.org/resource/Yogad\u1E5B\u1E63\u1E6Disamuccaya>	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Eran	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Prabhakaravardhana	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Kulin_Kayastha	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Varman_dynasty	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Bogra_District	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Pundranagar	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Chandradwip	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Somapura_Mahavihara	dbp:architecture	dbr:Gupta_Empire ;
+	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Gokul_Medh	dbp:architecture	dbr:Gupta_Empire ;
+	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Mandasor_Pillar_Inscriptions_of_Yasodharman	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Fine_Arts_of_Assam	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Kakusthavarma	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Uchchhakalpa_dynasty	dbp:empire	dbr:Gupta_Empire ;
+	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Maharaja_Hastin	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Uttar_Pradesh	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Pre-Ghaznavid_history_of_Punjab	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Iranian_Huns	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Middle_kingdoms_of_India	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:List_of_dynasties	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Ancient_warfare	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:List_of_Indian_inventions_and_discoveries	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:List_of_Indian_monarchs	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Legacy_of_the_Indo-Greeks	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:History_of_Patna	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:History_of_Uttar_Pradesh	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Arjunayanas	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:History_of_calendars	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Body_piercing	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+<http://dbpedia.org/resource/4th_century>	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+<http://dbpedia.org/resource/380>	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+<http://dbpedia.org/resource/395>	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:List_of_state_leaders_in_the_4th_century	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:List_of_state_leaders_in_the_5th_century	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Rigveda	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Bhubaneswar	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Outline_of_Bihar	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Outline_of_India	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Outline_of_Maharashtra	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Outline_of_Uttarakhand	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+<http://dbpedia.org/resource/475>	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Dvaravati_art	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Amalaka	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Ahichchhatra	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+<http://dbpedia.org/resource/Mahi_(Kushan)>	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:History_of_clothing_and_textiles	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:History_of_mathematics	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:History_of_the_Philippines	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:History_of_literature	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Nagaur	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Abhira_tribe	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Mahabharata	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Huns	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Rajput	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Harsha	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Ogive	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Yamuna	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:History_of_Indonesia	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Race_Life_of_the_Aryan_Peoples	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Mahasamund	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Indian_copper_plate_inscriptions	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+<http://dbpedia.org/resource/Y\u0101j\u00F1avalkya_Sm\u1E5Bti>	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+<http://dbpedia.org/resource/Ubhay\u0101bhis\u0101rika>	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Dharmakirti	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Gupta_era	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+<http://dbpedia.org/resource/Indian_Feudalism_(book)>	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Azimabad	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Vainyagupta	dbp:dynasty	dbr:Gupta_Empire ;
+	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Ramagupta	dbp:succession	dbr:Gupta_Empire ;
+	dbo:wikiPageWikiLink	dbr:Gupta_Empire ;
+	dbp:house	dbr:Gupta_Empire .
+dbr:Vasudeva_II	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+<http://dbpedia.org/resource/K._P._Jayaswal>	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Kipunada	dbp:after	dbr:Gupta_Empire ;
+	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Vasujyeshtha	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+<http://dbpedia.org/resource/Ghatotkacha_(king)>	dbp:dynasty	dbr:Gupta_Empire ;
+	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Prabhavatigupta	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+<http://dbpedia.org/resource/Vishnugupta_(Gupta_Empire)>	dbp:dynasty	dbr:Gupta_Empire ;
+	dbp:title	dbr:Gupta_Empire ;
+	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Kukuraja	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Bodh_Stupa	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Roman_Empire	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Cavalry	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Economy_of_India	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Names_of_the_days_of_the_week	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Aryabhata	dbp:era	dbr:Gupta_Empire ;
+	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Borobudur	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Brahmic_scripts	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Gupta_script	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Kalachuri_dynasty	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Skandagupta	dbp:dynasty	dbr:Gupta_Empire ;
+	dbp:title	dbr:Gupta_Empire ;
+	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Vidarbha	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Malwa	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Vakataka_dynasty	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Chalukya_dynasty	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Vidisha	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Maitraka_dynasty	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Ujjain	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Kayastha	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Kama_Sutra	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Lajja_Gauri	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Vadama	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Ghoonghat	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Bhanugupta	dbp:dynasty	dbr:Gupta_Empire ;
+	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Budhagupta	dbp:dynasty	dbr:Gupta_Empire ;
+	dbp:title	dbr:Gupta_Empire ;
+	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Shashthi	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Golgong_Rock_Temple	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+<http://dbpedia.org/resource/\u0917\u0941\u092A\u094D\u0924_\u0938\u093E\u092E\u094D\u0930\u093E\u091C\u094D\u092F>	dbo:wikiPageWikiLink	dbr:Gupta_Empire ;
+	dbo:wikiPageRedirects	dbr:Gupta_Empire .
+dbr:Gupta_empire	dbo:wikiPageWikiLink	dbr:Gupta_Empire ;
+	dbo:wikiPageRedirects	dbr:Gupta_Empire .
+dbr:Adityavardhana	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Damodarasena	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+<http://dbpedia.org/resource/India\u0027s_golden_age>	dbo:wikiPageWikiLink	dbr:Gupta_Empire ;
+	dbo:wikiPageRedirects	dbr:Gupta_Empire .
+dbr:Indian_golden_age	dbo:wikiPageWikiLink	dbr:Gupta_Empire ;
+	dbo:wikiPageRedirects	dbr:Gupta_Empire .
+dbr:Gupta_Samrajya	dbo:wikiPageWikiLink	dbr:Gupta_Empire ;
+	dbo:wikiPageRedirects	dbr:Gupta_Empire .
+<http://dbpedia.org/resource/Gupta_S\u0101mr\u0101jya>	dbo:wikiPageWikiLink	dbr:Gupta_Empire ;
+	dbo:wikiPageRedirects	dbr:Gupta_Empire .
+dbr:Virasena_Saba	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:The_Gupta_Dynasty	dbo:wikiPageWikiLink	dbr:Gupta_Empire ;
+	dbo:wikiPageRedirects	dbr:Gupta_Empire .
+<http://dbpedia.org/resource/\u06AF\u067E\u062A\u0627_\u0633\u0644\u0637\u0646\u062A>	dbo:wikiPageWikiLink	dbr:Gupta_Empire ;
+	dbo:wikiPageRedirects	dbr:Gupta_Empire .
+dbr:Classical_Hinduism	dbo:wikiPageWikiLink	dbr:Gupta_Empire ;
+	dbo:wikiPageRedirects	dbr:Gupta_Empire .
+dbr:Gupta-era_India	dbo:wikiPageWikiLink	dbr:Gupta_Empire ;
+	dbo:wikiPageRedirects	dbr:Gupta_Empire .
+dbr:Gupta_Dynasty	dbo:wikiPageWikiLink	dbr:Gupta_Empire ;
+	dbo:wikiPageRedirects	dbr:Gupta_Empire .
+dbr:Gupta_India	dbo:wikiPageWikiLink	dbr:Gupta_Empire ;
+	dbo:wikiPageRedirects	dbr:Gupta_Empire .
+dbr:Gupta_dynasty	dbo:wikiPageWikiLink	dbr:Gupta_Empire ;
+	dbo:wikiPageRedirects	dbr:Gupta_Empire .
+dbr:Gupta_period	dbo:wikiPageWikiLink	dbr:Gupta_Empire ;
+	dbo:wikiPageRedirects	dbr:Gupta_Empire .
+dbr:Guptas	dbo:wikiPageWikiLink	dbr:Gupta_Empire ;
+	dbo:wikiPageRedirects	dbr:Gupta_Empire .
+dbr:Timeline_of_Indian_history	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Trigonometric_functions	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Sine	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+<http://dbpedia.org/resource/1st_millennium>	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:List_of_state_leaders_in_the_6th_century	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+<http://dbpedia.org/resource/Helg\u00F6>	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+<http://dbpedia.org/resource/Extreme_weather_events_of_535\u2013536>	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Bloomery	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Jharkhand	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Shiva	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Kartikeya	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Panchayatana_puja	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Vishnu	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Hindu_deities	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Kutch_district	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Mota_Bhamodra	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Hindu_architecture	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Vikramaditya	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Agnicayana	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Satrubhanja	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Vasishtha_dynasty	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Panduvamshis_of_Mekala	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Golapurva	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:History_of_chess	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Indian_club	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Timeline_of_Indian_innovation	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Rohtak	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Adi_Shankara	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Advaita_Vedanta	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Shaivism	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Vaishnavism	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Vamana	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Arthashastra	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Mathura	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Timeline_of_the_economy_of_the_Indian_subcontinent	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Vaishya	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Chess_variant	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:List_of_time_periods	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+<http://dbpedia.org/resource/Pratisthan_Pur_(Jhunsi)>	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Nalgonda	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Week	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+<http://dbpedia.org/resource/455>	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:List_of_kingdoms_and_royal_dynasties	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Diu_Fortress	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+<http://dbpedia.org/resource/History_of_the_Hindu\u2013Arabic_numeral_system>	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+<http://dbpedia.org/resource/550>	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:History_of_authoritarianism	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:List_of_kingdoms_in_pre-colonial_Africa	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Achkan	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Harisena	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Vasavadatta	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+<http://dbpedia.org/resource/Hakuh\u014D_period>	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Chaturanga	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+<http://dbpedia.org/resource/7th_century>	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Gurjara-Pratihara_dynasty	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+<http://dbpedia.org/resource/388>	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+<http://dbpedia.org/resource/530>	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Indian_influence_on_Islamic_science	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Vasu_Vihara	dbp:architecture	dbr:Gupta_Empire ;
+	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Early_history_of_Himachal_Pradesh	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Johiya	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+<http://dbpedia.org/resource/Khanda_(sword)>	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Rani_Mahal	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Hemangada	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Dhruvadevi	dbp:dynasty	dbr:Gupta_Empire ;
+	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Davaka	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Pushyavarman	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Magadha_Empire	dbo:wikiPageWikiLink	dbr:Gupta_Empire .
+dbr:Dattadevi	dbo:wikiPageWikiLink	dbr:Gupta_Empire .

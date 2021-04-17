@@ -1,0 +1,1748 @@
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+wikipedia-en:Fairy	foaf:primaryTopic	dbr:Fairy .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+<http://dbpedia.org/resource/-stan>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Magical_creatures_in_Harry_Potter	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Book_of_Imaginary_Beings	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/Ala_(demon)>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:List_of_hybrid_creatures_in_folklore	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:List_of_legendary_creatures_by_type	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/List_of_Advanced_Dungeons_&_Dragons_2nd_edition_monsters>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:List_of_Kamen_Rider_Saber_characters	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/List_of_M\u00C4R_characters>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Shapeshifting	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Mon_Colle_Knights	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/Face_Off_(season_11)>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:List_of_Bakugan	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/Next_Top_Model_(Greek_season_1)>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Cultural_references_to_absinthe	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/Celia_(Spanish_TV_series)>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Mothra	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Coraline	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/ACME_Comics_&_Collectibles>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Cupcake	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:The_Tree_of_Swords_and_Jewels	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/Princess_Nicotine;_or,_The_Smoke_Fairy>	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/Puss_in_Boots_(1961_film)>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Radical_Faeries	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:The_Twilight_of_the_Grey_Gods	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/First_Unitarian_Church_(Cincinnati,_Ohio)>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Flint_the_Time_Detective	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Merry_Gentry	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Seduced_by_Moonlight	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Saga_of_the_Noble_Dead	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Nome_King	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Jason_Stackhouse	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:The_Little_Mouse	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Sookie_Stackhouse	dbo:species	dbr:Fairy ;
+	dbo:wikiPageWikiLink	dbr:Fairy .
+@prefix ns4:	<http://dbpedia.org/resource/Dream_Chronicles:> .
+ns4:_The_Book_of_Air	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Duel_Masters_Trading_Card_Game	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:History_of_tattooing	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:London_String_Quartet	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Kandide_and_the_Secret_of_the_Mists	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Amulya_Malladi	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Celtic_neopaganism	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Gnome	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:List_of_awards_and_nominations_received_by_Once_Upon_a_Time	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/Courtier\u0027s_reply>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Magic_Knight_Rayearth	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Engkanto	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Palmer_Cox	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Fairy_Flag	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Scottish_Protestant_missions	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:De_nugis_curialium	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/Raiden_(video_game)>	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/Tales_of_the_World:_Summoner\u0027s_Lineage>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Tree-topper	dbo:wikiPageWikiLink	dbr:Fairy .
+@prefix ns5:	<http://dbpedia.org/resource/Victorian_Age:> .
+ns5:_Vampire	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Smith_of_Wootton_Major	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/Beren_and_L\u00FAthien>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:The_Adventures_of_Tom_Bombadil	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Fairyland	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Halfling	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/Die_(comic)>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Bandersnatch	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Errantry	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Denham_Tracts	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:The_Sea-Bell	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Suza_Scalora	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Pointy_ears	dbo:wikiPageWikiLink	dbr:Fairy .
+@prefix ns6:	<http://dbpedia.org/resource/Wizardry_VII:> .
+ns6:_Crusaders_of_the_Dark_Savant	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/King_of_Kings_(1988_video_game)>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Love_Romance	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Tweeny_Witches	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/Mimi_(folklore)>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Flower_Fairies	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/Isis_(ship)>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Witchcraft_Today	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/Faeries_(book)>	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/List_of_legendary_creatures_(A)>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Chepi	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Nestvarne_stvari	dbo:wikiPageWikiLink	dbr:Fairy .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Nestvarne_stvari	dbp:note	dbr:Fairy .
+dbr:Bailey_Noble	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/Faeries\u0027_Landing>	dbo:wikiPageWikiLink	dbr:Fairy .
+@prefix ns8:	<http://dbpedia.org/resource/Dream_Chronicles_2:> .
+ns8:_The_Eternal_Maze	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Gillikin_Country	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:List_of_tree_deities	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Arthur_Stilwell	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:True_Blood	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Fairy_with_Turquoise_Hair	dbp:species	dbr:Fairy ;
+	dbo:species	dbr:Fairy ;
+	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Cyberpunk_derivatives	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Koi_no_Tsubomi	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Spirit_of_place	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Fairy_Queen	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Characters_of_Chrono_Cross	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Ghosts_in_Thai_culture	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Cheshire_Crossing	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Characters_of_The_Legend_of_Zelda	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Ghox	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:The_Astyanax	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Dark_Cloud	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Woody_Poco	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Gwyn_ap_Nudd	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/The_Merman\u0027s_Children>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Peruonto	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/Titania\u0027s_Palace>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Son_Pari	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Wandaba_Style	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Sarah-Jane_Honeywell	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/Julien_(opera)>	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/Maleficent_(film)>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Madonna_videography	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/Changeling_(film)>	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/Legend_(1985_film)>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:List_of_productions_of_The_Nutcracker	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/Sleeping_Beauty_(1959_film)>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Secret_of_the_Wings	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:The_Dark_Crystal	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/The_Jackson_5ive_(TV_series)>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:The_Pagemaster	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/The_Spiderwick_Chronicles_(film)>	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/Labyrinth_(1986_film)>	dbo:wikiPageWikiLink	dbr:Fairy .
+@prefix ns9:	<http://dbpedia.org/resource/FernGully:> .
+ns9:_The_Last_Rainforest	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/Tinker_Bell_(film)>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Tinker_Bell_and_the_Great_Fairy_Rescue	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Tinker_Bell_and_the_Lost_Treasure	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/Wizards_(film)>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Odiljenje_sigetsko	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Tennin	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/List_of_April_Fools\u0027_Day_jokes>	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/\u0110erzelez_Alija>	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/Erlk\u00F6nig_(Goethe)>	dbo:wikiPageWikiLink	dbr:Fairy .
+@prefix ns10:	<http://dbpedia.org/resource/Final_Fantasy_XIV:> .
+ns10:_Shadowbringers	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Dear_Jessie	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Merlin	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:List_of_Shrek_characters	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:List_of_words_that_may_be_spelled_with_a_ligature	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Wild_Hunt	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/Amihan_(Encantadia)>	dbo:species	dbr:Fairy .
+dbr:Pirena	dbo:species	dbr:Fairy .
+<http://dbpedia.org/resource/Alena_(Encantadia)>	dbo:species	dbr:Fairy .
+dbr:Danaya	dbo:species	dbr:Fairy .
+dbr:Churching_of_women	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Weaveworld	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Four_Great_Books_of_Song	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/Dawkins\u0027_God>	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/Legacies_(TV_series)>	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/The_Life_&_Adventures_of_Santa_Claus_(2000_film)>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Fulad-zereh	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Creatures_of_Impulse	dbo:wikiPageWikiLink	dbr:Fairy .
+@prefix ns11:	<http://dbpedia.org/resource/Changeling:> .
+ns11:_The_Lost	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Cunning_Folk_and_Familiar_Spirits	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Janet_Boyman	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Dead_fairy_hoax	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/Fe_(video_game)>	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/Hansel_and_Gretel_(opera)>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Peter_Pan	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Untermensch	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Mavis	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/Robert_Grant_(novelist)>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Chris_King_and_Vicki_Grant	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Demetri_Martin	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Magical_Circle_Guru_Guru	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Monument_to_Chocolate	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Dragon_Raja	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:List_of_Cardcaptor_Sakura_characters	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Aoki_Lapis	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/Le_Morte_d\u0027Arthur>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Jareth	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:List_of_The_Last_Podcast_on_the_Left_episodes	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Walter_Evans-Wentz	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Etheric_body	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Laguitas	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Lauma	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/Satanism_and_Witchcraft_(book)>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Elfin_Oak	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Lady_Midnight	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Becky_and_Barnaby_Bear	dbo:wikiPageWikiLink	dbr:Fairy .
+@prefix ns12:	<http://dbpedia.org/resource/ZanZarah:> .
+ns12:_The_Hidden_Portal	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:The_Shuttleworths	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:James_Hogg	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:John_Lydgate	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:The_Shadowhunter_Chronicles	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/Fox\u0027s_Peter_Pan_&_the_Pirates>	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/Brou\u010Dci>	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/The_Ancient_Magus\u0027_Bride>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:The_Skriker	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Lord_of_Shadows	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:The_Princess_and_the_Unicorn	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Peter_and_Wendy	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Museum_of_Witchcraft_and_Magic	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:The_Cottingley_Secret	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/Michael_Howard_(Luciferian)>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Geoffrey_Crawley	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Witchcraft_in_early_modern_Britain	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Kathleen_Aerts	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:List_of_Digimon_Fusion_characters	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Pinocchio_3000	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Queen_of_Elphame	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Dave_McKean	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/Leanan_s\u00EDdhe>	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/Winter\u0027s_Tale_(novel)>	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/Lore_(podcast)>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Bernard_Sleigh	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/1895>	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/Germany\u0027s_Next_Topmodel_(season_8)>	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/Jam_&_Jerusalem>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Speculative_fiction	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Movie_43	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:List_of_South_African_slang_words	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Gil_Vicente	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:List_of_Dance_Academy_episodes	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Lanval	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/Sailors\u0027_superstitions>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Princess_Gwenevere_and_the_Jewel_Riders	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Irish_mythology_in_popular_culture	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Female_monsters_in_literature	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Uttarakuru	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/Thunderstone_(folklore)>	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/Lego_Minifigures_(theme)>	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/Hansel_and_Gretel_(2002_film)>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Nonestica	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Nac_Mac_Feegle	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Daemonologie	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:The_Merry_Wives_of_Windsor	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Halloween_costume	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Black-and-white_dualism	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/A_Midsummer_Night\u0027s_Dream_(Seiji_Ozawa_recording)>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Gallathea	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:List_of_fictional_tricksters	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Mommur	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Characters_of_Chrono_Trigger	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/Lords_and_Ladies_(novel)>	dbo:nonFictionSubject	dbr:Fairy ;
+	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Margent	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Return_to_Labyrinth	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/The_Librarians_(2014_TV_series)>	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/The_Sandman_(comic_book)>	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/Hermia_and_Lysander_(painting)>	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/Titania_(DC_Comics)>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Fairy-lock	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Fairy_painting	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Bard	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:The_Wisdom_of_Doctor_Dodypoll	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:ShakespeaRe-Told	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/Azul...>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:List_of_fairy_and_sprite_characters	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Elves_in_fiction	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/Puck_(A_Midsummer_Night\u0027s_Dream)>	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/Puck_(folklore)>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Sylph	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Castle_Marrach	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/Vale_Park,_New_Brighton>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Bridget_Cleary	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Bargain_Buys	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/The_Fairy_Who_Didn\u0027t_Want_to_Be_a_Fairy_Anymore>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Yakshini	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Deliria	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/Angel_of_Darkness_(anime)>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Green	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:High_Middle_Ages	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Homosexuality	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:True_name	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Traditional_story	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/Trow_(folklore)>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:List_of_Chaotic_characters	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:List_of_vampire_traits_in_folklore_and_fiction	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Ear	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Bisexuality	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Actor	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:History_of_theatre	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:LGBT_in_Mexico	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Satyr	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:The_Secret_World_of_Og	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Guinevere_Jones	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Rainbow_Ruby	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Lutin	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Noonbory_and_the_Super_Seven	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/Library_of_Congress_Classification:Class_G_--_Geography._Anthropology._Recreation>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:The_Slutcracker	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Spinnolio	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Sole_a_catinelle	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Parallel_universes_in_fiction	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Cairn	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Petrosomatoglyph	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/Angus_Og_(comics)>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Mont_Saint-Hilaire	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/O._R._Melling>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Incantation	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Supernatural	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Cantabria	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Fantastique	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Elf	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Brothers_Grimm	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Catalan_myths_and_legends	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Cormac_mac_Airt	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Divljana_Monastery	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Chanson_de_geste	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Obernewtyn_Chronicles	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:White_Lady	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:List_of_mythological_objects	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:French_folklore	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/Mother_Ludlam\u0027s_Cave>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Atmospheric_ghost_lights	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Hypotheses_about_the_identity_of_Dhu_al-Qarnayn	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:The_Spiderwick_Chronicles	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Voyage_of_the_Basset	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Onde_Tem_Bruxa_Tem_Fada	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/Pierre_Dubois_(author)>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Haunted_house	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Outline_of_fantasy	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Chivalric_romance	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:List_of_Gargoyles_characters	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Spirit	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:List_of_Artemis_Fowl_characters	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Kidd_Video	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Sir_Gawain_and_the_Green_Knight	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Global_Guardians	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:The_Adventures_of_Peter_Pan	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Hooded_crow	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Culture_of_Sussex	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Calendula	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Narrative_of_the_abduction_phenomenon	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Irish_mythology	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Welsh_mythology	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/Widdershins_(novel)>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Yarrow_Water	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/1978_in_literature>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Iroquois_mythology	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Cantabrian_mythology	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Ngaru	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Bluebird_of_happiness	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:The_Knights_of_Emerald	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Captivity_narrative	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Hobgoblin	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Urban_fantasy	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Samhain	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Carlotta_Nillson	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Wicked_Lovely	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/Fairy_Godmother_(Shrek)>	dbp:species	dbr:Fairy ;
+	dbo:species	dbr:Fairy ;
+	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:The_Moorchild	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Ella_Enchanted	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Caer_Bran	dbo:wikiPageWikiLink	dbr:Fairy .
+@prefix ns13:	<http://dbpedia.org/resource/Avalon:> .
+ns13:_Web_of_Magic	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/Twice_Upon_a_Time_(book_series)>	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/Fablehaven_(novel)>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Shadow_Falls	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:The_Cruel_Prince	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/The_Brothers_(novella)>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Foxglove_Summer	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/The_Hanging_Tree_(novel)>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Eve_Bunting	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Ailsa_Craig	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Sea_witch	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/The_Everlasting_(role-playing_game)>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Pentamerone	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Monte_Vettore	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Storybook_Weaver	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/Peter_Pan_(1954_musical)>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Meredith_Dillman	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/Pas-ta\u0027ai>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Xuxa_e_os_Duendes	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Shirley_Barber	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/Supernatural_(season_6)>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Pamela_Dean	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Rock-cut_basin	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Gandharva	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Dreamflight	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:List_of_fictional_Native_Americans	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Jinn	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Lost_Girl	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/Lost_Girl_(season_1)>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:List_of_The_League_of_Extraordinary_Gentlemen_characters	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Tom_Thumb	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Witch_trials_in_early_modern_Scotland	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Outsider_art	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Ghosts_in_Bengali_culture	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/Axe_Cop_(TV_series)>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Carnival_of_Santa_Cruz_de_Tenerife	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:The_Enchanted_World	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Nereid	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Polytheism	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Mythology_of_The_Librarian	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Sesame_Street_characters	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:The_Book_of_Three	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Taran_Wanderer	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:The_Chronicles_of_Prydain	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/Gerald_Gardner_(Wiccan)>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Knight_of_the_Swan	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Csodamalom	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/Celtic_Tales_(Corto_Maltese)>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Interstitial_art	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Maureen_Duffy	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:List_of_fictional_humanoid_species_in_video_games	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/The_Fairy\u0027s_Dilemma>	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/The_Children\u0027s_Book>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Rachel_Newton	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Some_Kind_of_Fairy_Tale	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/The_Changeling_(Star_Trek:_The_Original_Series)>	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/Circulus_(band)>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Under_the_Pendulum_Sun	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Chiitan	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Korrigan	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Symphonic_Rain	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Buffy_the_Vampire_Slayer_Season_Ten	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Cath_Palug	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Ywain	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Lady_of_the_Lake	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Avalon	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Lanzelet	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Sagramore	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:List_of_Once_Upon_a_Time_recurring_characters	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Gingalain	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Sebile	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Sir_Launfal	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Adar_Llwch_Gwin	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:The_Story_of_King_Arthur_and_His_Knights	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Picts_in_literature_and_popular_culture	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/Broc\u00E9liande>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Picts_in_fantasy	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/Hellboy_(2019_film)>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Daughter_of_Tintagel	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:The_Sword_and_the_Circle	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Libeaus_Desconus	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Popular_belief	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Halloween	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Guernsey	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/Queen_(band)>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Snowdon	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Enid_Blyton	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Rowan	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Spring-heeled_Jack	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Queer	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Rainbow_Magic	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Moirai	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/MI-13_(comics)>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Charlie_Chalk	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Off_the_Page	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/Morgaine_le_Fey_(DC_Comics)>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:List_of_words_ending_in_ology	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Lord_Chancellor	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/Keeping_It_Real_(novel)>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:List_of_British_artists	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Girlguiding	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/Kavach_(TV_series)>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Lepidoptera	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/List_of_Jakers!_The_Adventures_of_Piggley_Winks_episodes>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Merry_England	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Modern_Paganism	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Five_Children_and_It	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Little_green_men	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Lorien_Trust	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Maypole	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Dread_Dragon_Droom	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Apocalyptic_and_post-apocalyptic_fiction	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/Nick_Fury\u0027s_Howling_Commandos>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Pandalian	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/Bucca_(mythological_creature)>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:The_Magical_Legend_of_the_Leprechauns	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:The_Southern_Vampire_Mysteries	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Maria_Rebecca_Davison	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Faery_in_Shadow	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Medieval_theatre	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Katharine_Mary_Briggs	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:List_of_fictional_princes	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Deborah_Hyde	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Captain_Midlands	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Fairy_ring	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/Neverland_(miniseries)>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Wicca	dbo:wikiPageWikiLink	dbr:Fairy .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Fairy	rdf:type	owl:Thing .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Fairy	rdfs:label	"\u0424\u0435\u044F"@ru ,
+		"Hada"@es ,
+		"Fada"@ca ,
+		"\u5C0F\u4ED9\u5B50"@zh ,
+		"Fee"@nl ,
+		"\u062C\u0646\u064A\u0629"@ar ,
+		"Wr\u00F3\u017Cka (literatura)"@pl ,
+		"Fada"@pt ,
+		"Feo"@eo ,
+		"Fata"@it ,
+		"\u30D5\u30A7\u30A2\u30EA\u30FC"@ja ,
+		"\uD398\uC5B4\uB9AC"@ko ,
+		"Fairy"@en ,
+		"\u0424\u0435\u044F"@uk ,
+		"Fee"@de ,
+		"\u039D\u03B5\u03C1\u03AC\u03B9\u03B4\u03B5\u03C2"@el ,
+		"F\u00E9e"@fr ,
+		"Si\u00F3g"@ga ,
+		"Peri"@in ,
+		"Maitagarri"@eu ,
+		"Fe"@sv ;
+	rdfs:comment	"\u5C0F\u4ED9\u5B50\uFF08Fairy\uFF09\uFF0C\u662F\u897F\u65B9\u6587\u5316\u88E1\u4E00\u7A2E\u50B3\u8AAA\u751F\u7269\u3002\u5176\u9AD4\u578B\u5B0C\u5C0F\uFF0C\u4E00\u822C\u9577\u6709\u7FC5\u8180\u3002 \u5728\u897F\u65B9\u6C11\u95F4\u4F20\u8BF4\u4E2D\uFF0C\u5B83\u4EEC\u5E76\u975E\u4EBA\u7C7B\uFF0C\u4F46\u957F\u7740\u4EBA\u7C7B\u5916\u8868\uFF0C\u4E14\u62E5\u6709\u8D85\u81EA\u7136\u7684\u80FD\u529B\u3002 \u5B83\u4EEC\u4E00\u822C\u88AB\u8BA4\u4E3A\u662F\u4F5C\u4E3A\u4E0Edemon\u76F8\u5BF9\u5E94\u7684\u5B58\u5728\uFF08fairy&demon\uFF09\u3002\u5728\u6700\u65E9\u7684\u897F\u65B9\u6C11\u95F4\u4F20\u8BF4\u4E2D\uFF0CFairy\u4E0Edemon\u53EF\u6B63\u53EF\u90AA\uFF0C\u7136\u800C\u73B0\u5728\u666E\u904D\u8BA4\u4E3Afairy\u4E00\u822C\u6B63\u4E49\uFF0Cdemon\u4E00\u822C\u90AA\u6076\u3002 \u897F\u65B9\u6C11\u95F4\u4F20\u8BF4\u4E2D\uFF0CFairy\u7684\u6982\u5FF5\u88AB\u8BA4\u4E3A\u6765\u6E90\u4E8EAnimism\uFF08\u4E07\u7269\u6709\u7075\uFF09\uFF0C\u6216\u81F3\u5C11\u4E0E\u5176\u6709\u5173\u3002\u4F8B\u5982\uFF0C\u4EBA\u4EEC\u60E7\u6015\u67D0\u4E9B\u81EA\u7136\u73B0\u8C61\uFF0C\u5219\u5728\u6C11\u95F4\u5C31\u4F1A\u6709\u201C\u90A3\u91CC\u4F4F\u7740\u9B3C\u602A\u201D\u7684\u4F20\u8BF4\u3002 \u82F1\u6587\u5B57\u7684\u300Cfairy\u300D\u6709\u6642\u4E5F\u80FD\u4F5C\u70BA\u5C0D\u7CBE\u9748\u3001\u77EE\u4EBA\u3001\u5730\u7CBE\u548C\u54E5\u5E03\u6797\u7B49\u5404\u7A2E\u5916\u5F62\u63A5\u8FD1\u4EBA\u6216\u5177\u6709\u8D85\u81EA\u7136\u529B\u91CF\u7684\u751F\u7269\u7E3D\u7A31\u3002\u5728\u9019\u6A23\u7684\u60C5\u6CC1\u4E0B\uFF0C\u300Cfairy\u300D\u5C31\u6703\u88AB\u7FFB\u8B6F\u6210\u7CBE\u9748\u3002"@zh ,
+		"\u062C\u0646\u064A\u0629  \u0647\u064A \u0639\u0628\u0627\u0631\u0629 \u0639\u0646 \u0645\u062E\u0644\u0648\u0642 \u0623\u0633\u0637\u0648\u0631\u064A \u0645\u0630\u0643\u0648\u0631 \u0641\u064A \u0627\u0644\u062A\u0631\u0627\u062B \u0627\u0644\u0634\u0639\u0628\u064A \u0627\u0644\u0639\u0631\u0628\u064A \u0648\u0628\u0635\u0641\u0629 \u0627\u0644\u0639\u0627\u0645\u0629 \u0627\u0644\u0639\u0627\u0644\u0645\u064A\u060C \u0648\u0628\u0636\u0645\u0646\u0647 \u0627\u0644\u0623\u0648\u0631\u0648\u0628\u064A. \u0648\u0635\u0641\u062A \u0627\u0644\u062C\u0646\u064A\u0627\u062A \u0639\u0644\u0649 \u0627\u0646\u0647\u0627 \u0643\u0627\u0626\u0646\u0627\u062A \u0641\u064A \u063A\u0627\u064A\u0629 \u0627\u0644\u062C\u0645\u0627\u0644\u060C \u0628\u064A\u0636\u0627\u0621 \u062C\u062F\u0627\u060C \u0648\u0641\u064A \u0627\u0644\u063A\u0627\u0644\u0628 \u062A\u062A\u0648\u0627\u062C\u062F \u0628\u0627\u0644\u0642\u0631\u0628 \u0645\u0646 \u0627\u0644\u063A\u0627\u0628\u0627\u062A \u0648\u0627\u0644\u0645\u064A\u0627\u0647. \u0627\u0644\u0623\u0633\u0627\u0637\u064A\u0631 \u0648\u0627\u0644\u0642\u0635\u0635 \u062D\u0648\u0644 \u0627\u0644\u062C\u0646\u064A\u0627\u062A \u0644\u064A\u0633 \u0644\u0647\u0627 \u0623\u0635\u0644 \u0648\u0627\u062D\u062F\u060C \u0648\u0644\u0643\u0646\u0647\u0627 \u0628\u0627\u0644\u0623\u062D\u0631\u0649 \u0645\u062C\u0645\u0648\u0639\u0629 \u0645\u0646 \u0627\u0644\u0645\u0639\u062A\u0642\u062F\u0627\u062A \u0627\u0644\u0634\u0639\u0628\u064A\u0629 \u0645\u0646 \u0645\u0635\u0627\u062F\u0631 \u0645\u062A\u0628\u0627\u064A\u0646\u0629. \u0641\u064A \u0628\u0639\u0636 \u0627\u0644\u0623\u062D\u064A\u0627\u0646\u060C \u0644\u0627 \u064A\u0646\u0637\u0628\u0642 \u0627\u0633\u0645 \u0627\u0644\u062C\u0646\u064A\u0629 \u0625\u0644\u0627 \u0639\u0644\u0649 \u0645\u062E\u0644\u0648\u0642\u0627\u062A \u0633\u062D\u0631\u064A\u0629 \u0645\u062D\u062F\u062F\u0629 \u0630\u0627\u062A \u0645\u0638\u0647\u0631 \u0628\u0634\u0631\u064A\u060C \u0648\u0642\u0627\u0645\u0629 \u0635\u063A\u064A\u0631\u0629\u060C \u0648\u0642\u0648\u0649 \u0633\u062D\u0631\u064A\u0629\u060C \u0648\u0645\u064A\u0644 \u0625\u0644\u0649 \u0627\u0644\u062E\u062F\u0627\u0639. \u0648\u0641\u064A \u0623\u062D\u064A\u0627\u0646 \u0623\u062E\u0631\u0649 \u0642\u062F \u062A\u0645 \u0627\u0633\u062A\u062E\u062F\u0627\u0645\u0647\u0627 \u0644\u0648\u0635\u0641 \u0623\u064A \u0645\u062E\u0644\u0648\u0642 \u0633\u062D\u0631\u064A\u060C \u0645\u062B\u0644 \u0627\u0644\u0639\u0641\u0627\u0631\u064A\u062A \u0648\u0627\u0644\u062A\u0645\u0627\u062B\u064A\u0644. \u0648\u0642\u062F \u0627\u0633\u062A\u062E\u062F\u0645\u062A \u0627\u0644\u062C\u0646\u064A\u0629 \u0641\u064A \u0628\u0639\u0636 \u0627\u0644\u0623\u062D\u064A\u0627\u0646 \u0643\u0635\u0641\u0629\u060C \u0628\u0645\u0639\u0646\u0649 \u0623\u0646\u0647\u0627 \u062A\u0643\u0648\u0646 \u0645\u0634\u0627\u0628\u0647 \u0644\u0640 \"\u0627\u0644\u0633\u062D\u0631\"."@ar ,
+		"\u0424\u0435\u0301\u044F (\u0444\u0440. f\u00E9e, \u0430\u043D\u0433\u043B. fairy, faery, faerie, fay, fae) \u2014 \u0432 \u043A\u0435\u043B\u044C\u0442\u0441\u044C\u043A\u043E\u043C\u0443 \u0442\u0430 \u043D\u0456\u043C\u0435\u0446\u044C\u043A\u043E\u043C\u0443 \u0444\u043E\u043B\u044C\u043A\u043B\u043E\u0440\u0456 \u0456\u0441\u0442\u043E\u0442\u0430 \u043C\u0435\u0442\u0430\u0444\u0456\u0437\u0438\u0447\u043D\u043E\u0457 \u043F\u0440\u0438\u0440\u043E\u0434\u0438, \u044F\u043A\u0430 \u0432\u043E\u043B\u043E\u0434\u0456\u0454 \u043D\u0430\u0434\u043F\u0440\u0438\u0440\u043E\u0434\u043D\u0438\u043C\u0438 \u0437\u0434\u0456\u0431\u043D\u043E\u0441\u0442\u044F\u043C\u0438, \u0432\u0435\u0434\u0435 \u0442\u0430\u0454\u043C\u043D\u0438\u0447\u0438\u0439 \u0441\u043F\u043E\u0441\u0456\u0431 \u0436\u0438\u0442\u0442\u044F \u0456 \u043F\u0440\u0438 \u0446\u044C\u043E\u043C\u0443 \u043C\u0430\u0454 \u0432\u043B\u0430\u0441\u0442\u0438\u0432\u0456\u0441\u0442\u044C \u0432\u0442\u0440\u0443\u0447\u0430\u0442\u0438\u0441\u044C \u0432 \u043F\u043E\u0432\u0441\u044F\u043A\u0434\u0435\u043D\u043D\u0435 \u0436\u0438\u0442\u0442\u044F \u043B\u044E\u0434\u0438\u043D\u0438. \u041E\u0431\u0440\u0430\u0437 \u0444\u0435\u0457 \u044F\u043A \u043C\u0456\u043D\u0456\u0430\u0442\u044E\u0440\u043D\u043E\u0457 \u0442\u0430 \u043F\u0440\u0438\u0432\u0430\u0431\u043B\u0438\u0432\u043E\u0457 \u0436\u0456\u043D\u043A\u0438 \u0441\u0444\u043E\u0440\u043C\u0443\u0432\u0430\u0432\u0441\u044F \u0432 \u0435\u043F\u043E\u0445\u0443 \u0440\u043E\u0437\u043A\u0432\u0456\u0442\u0443 \u0440\u043E\u043C\u0430\u043D\u0442\u0438\u0437\u043C\u0443 \u0432 \u0437\u0430\u0445\u0456\u0434\u043D\u0456\u0439 \u043B\u0456\u0442\u0435\u0440\u0430\u0442\u0443\u0440\u0456 \u0456 \u043E\u0442\u0440\u0438\u043C\u0430\u0432 \u0441\u0432\u0456\u0439 \u0440\u043E\u0437\u0432\u0438\u0442\u043E\u043A \u0443 \u0432\u0456\u043A\u0442\u043E\u0440\u0456\u0430\u043D\u0441\u044C\u043A\u0443 \u0435\u043F\u043E\u0445\u0443. \u0412 \u0448\u0438\u0440\u043E\u043A\u043E\u043C\u0443 \u0437\u043D\u0430\u0447\u0435\u043D\u043D\u044F \u043F\u0456\u0434 \u0444\u0435\u044F\u043C\u0438 \u043F\u0440\u0438\u0439\u043D\u044F\u0442\u043E \u0440\u043E\u0437\u0443\u043C\u0456\u0442\u0438 \u0432\u0441\u0456 \u0441\u043F\u043E\u0440\u0456\u0434\u043D\u0435\u043D\u0456 \u043C\u0456\u0444\u043E\u043B\u043E\u0433\u0456\u0447\u043D\u0456 \u0456\u0441\u0442\u043E\u0442\u0438, \u044F\u043A\u0456 \u043D\u0435\u0440\u0456\u0434\u043A\u043E \u043A\u0430\u0440\u0434\u0438\u043D\u0430\u043B\u044C\u043D\u043E \u0432\u0456\u0434\u0440\u0456\u0437\u043D\u044F\u044E\u0442\u044C\u0441\u044F \u043E\u0434\u043D\u0430 \u0432\u0456\u0434 \u043E\u0434\u043D\u043E\u0457."@uk ,
+		"La fata \u00E8 una creatura leggendaria, presente nelle fiabe o nei miti di origine principalmente italiana e francese, ma che trova comunque figure affini nelle mitologie dell'Europa dell'Est. Nell'originale accezione dell'Europa meridionale (senza influenze celtiche) \u00E8 totalmente sovrannaturale, cio\u00E8 non ha nulla di umano se non l'aspetto. Il nome fata deriva dall'altro nome latino delle Parche, che \u00E8 Fatae, ovvero coloro che presiedono al Fato. La fata \u00E8 un essere magico, una sorta di spirito della Natura."@it ,
+		"A fada \u00E9 um ser mitol\u00F3gico, caracter\u00EDstico dos mitos c\u00E9lticos e germ\u00E2nicos. O primeiro autor que mencionou as fadas foi Pomp\u00F4nio Mela, um ge\u00F3grafo que viveu durante o s\u00E9culo I d.c. As fadas n\u00E3o s\u00E3o o feminino dos elfos. Levando em conta que esse mito surgiu pelo fato de a Deusa Grian, a rainha dos elfos, e a Deusa Aine, a rainha das fadas, serem irm\u00E3s. Mas elas nunca se encontravam, Grian e Aine alternavam-se na reg\u00EAncia do ciclo solar na Roda do Ano, trocando de lugar a cada solst\u00EDcio. Sendo assim elfos e fadas n\u00E3o tem nenhum contato direto. \u00C9 usado o termo \"Fada\" tanto para fadas do sexo masculino, quanto para fadas do sexo feminino. O termo incorporou-se a cultura ocidental a partir dos assim chamados \"contos de fadas\". Nesse tipo de hist\u00F3ria, a fada \u00E9 representada de forma semelhante a"@pt ,
+		"Wr\u00F3\u017Cka \u2013 w ba\u015Bniach oraz literaturze dla dzieci osoba p\u0142ci \u017Ce\u0144skiej maj\u0105ca moc czynienia czar\u00F3w. Wr\u00F3\u017Cka jest najcz\u0119\u015Bciej przedstawiana jako istota dobra i opieku\u0144cza, cho\u0107 niekiedy mo\u017Ce te\u017C rzuca\u0107 czary szkodz\u0105ce bohaterom opowie\u015Bci (jak np. wr\u00F3\u017Cka niezaproszona na chrzest \u015Api\u0105cej Kr\u00F3lewny)."@pl ,
+		"Een fee is een mythisch wezen, algemeen omschreven als antropomorf en vrouwelijk. Het wezen is van grote schoonheid, kan geschenken brengen aan pasgeborenen, kan vliegen, toveren, wensen vervullen en heeft invloed op de toekomst. De Angelsaksen gebruikten de term fee ook om kleine antropomorfe wezens uit de heidense folklore aan te duiden, zoals een elf, kabouter, lutin, imp of dwerg."@nl ,
+		"Si\u00F3g a thugtar ar dhuine den lucht s\u00ED. B\u00EDonn riocht duine ar shi\u00F3ga de ghn\u00E1th, c\u00E9 go bhfuil difr\u00EDochta\u00ED suntasacha idir an d\u00E1 chine, agus t\u00E1 na cine\u00E1lacha si\u00F3ige \u00E9ags\u00FAil lena ch\u00E9ile freisin. I gcontr\u00E1rthacht leis an smaoineamh nua-aimseartha B\u00E9arla, n\u00ED daoine beaga agus sciath\u00E1in orthu iad na si\u00F3ga ar fad, de r\u00E9ir thraidisi\u00FAn na h\u00C9ireann; t\u00E1 cuid de na si\u00F3ga, cuir i gc\u00E1s na fir dhearga, n\u00EDos m\u00F3 n\u00E1 m\u00E9id duine, agus t\u00E1 si\u00F3ga eile, ar n\u00F3s na mban s\u00ED, ar mh\u00E9id duine norm\u00E1lta. De r\u00E9ir an tseanchais, s\u00EDolra\u00EDonn cuid mhaith de na si\u00F3ga \u00F3 Thuatha D\u00E9 Danann, a dibr\u00EDodh go dt\u00ED liosanna, r\u00E1thanna agus cnoic na h\u00C9ireann nuair a maidhmeadh orthu sa gcogadh in aghaidh Lucht Mh\u00EDl Easp\u00E1ine, \u00F3na s\u00EDolra\u00EDonn Gaeil an lae inniu. De r\u00E9ir sc\u00E9alta eile, is aingil iad a thit go talamh \u00F3 na Flaithis toisc nach rai"@ga ,
+		"\uD398\uC5B4\uB9AC(fairy \uB610\uB294 faery, faerie)\uB294 \uC11C\uC591\uC758 \uC2E0\uD654\uB098 \uC804\uC124\uC5D0 \uB4F1\uC7A5\uD558\uB294 \uC2E0\uACFC \uC778\uAC04\uC758 \uC911\uAC04\uC801\uC778 \uC874\uC7AC\uC758 \uCD1D\uCE6D\uC73C\uB85C, \uC8FC\uB85C \uD55C\uAD6D\uC5D0\uC11C\uB294 \u2018\uC694\uC815\u2019\uC73C\uB85C \uBC88\uC5ED\uB418\uAE30\uB3C4 \uD55C\uB2E4. \uB2E4\uB978 \uC2E0\uD654\uB098 \uC804\uC2B9\uACFC \uB9C8\uCC2C\uAC00\uC9C0\uB85C \uD398\uC5B4\uB9AC\uC640 \uAD00\uB828\uB41C \uC2E0\uD654\uB098 \uC804\uC124 \uC5ED\uC2DC \uC9C0\uBC29\uC774\uB098 \uBBFC\uC871\uB9C8\uB2E4 \uC778\uAC04\uC5D0\uAC8C \uD638\uC758\uC801\uC778 \uAC83, \uC544\uB0B4\uB098 \uB0A8\uD3B8\uC73C\uB85C\uC11C \uD589\uB3D9\uD558\uB294 \uAC83, \uC0AC\uB78C\uC5D0\uAC8C \uC7A5\uB09C\uC744 \uCE58\uAC70\uB098 \uC18D\uC774\uAC70\uB098 \uBAA9\uC228\uC744 \uBE7C\uC557\uC73C\uB824\uACE0 \uD558\uB294 \uAC83, \uC7A5\uC560\uBB3C\uB85C\uC11C \uAC00\uB85C\uB9C9\uB294 \uAC83, \uC6B4\uBA85\uC744 \uC54C\uB824\uC8FC\uB294 \uAC83 \uB4F1 \uB2E4\uC591\uD55C \uAD00\uB828 \uC804\uC2B9\uC774 \uB0B4\uB824\uC624\uACE0 \uC788\uB2E4. \uCF54\uD305\uB9AC \uC694\uC815 \uC0AC\uAC74 \uC774\uD6C4\uBD80\uD130\uB294, \uD68C\uD654\uB098 \uBB38\uD559\uC5D0 \uB4F1\uC7A5\uD558\uB294 \uD398\uC5B4\uB9AC\uB294 \uB4F1\uC5D0 \uC7A0\uC790\uB9AC\uB098 \uB098\uBE44 \uB4F1 \uD558\uB298\uC744 \uB098\uB294 \uACE4\uCDA9\uC758 \uB0A0\uAC1C\uB97C \uB2EC\uACE0 \uC788\uB294 \uC791\uACE0 \uADC0\uC5EC\uC6B4 \uC778\uD615\uAC19\uC740 \uBAA8\uC2B5\uC73C\uB85C \uB4F1\uC7A5\uD558\uAC8C \uB41C\uB2E4. \uD398\uC5B4\uB9AC\uB77C\uB294 \uB9D0\uC740 \uB77C\uD2F4\uC5B4\uC758 \u2018fatum(\uC6B4\uBA85, \uC2E0\uD0C1)\u2019\uACFC \uADF8 \uB3D9\uC0AC\uD615\uC778 \u2018fatare(\uB9C8\uBC95\uC744 \uAC78\uB2E4)\u2019\uC5D0\uC11C \uC720\uB798\uD55C\uB2E4."@ko ,
+		"Un hada (del lat\u00EDn fatum: hado, destino) es una criatura fant\u00E1stica y sutil. Se las representa generalmente en forma de mujer hermosa y bella con alas de mariposa. Seg\u00FAn la tradici\u00F3n son protectoras de la naturaleza, producto de la imaginaci\u00F3n, la tradici\u00F3n o las creencias y pertenecientes a ese fabuloso mundo de los elfos, gnomos, duendes, dioses, sirenas y gigantes que da color a las leyendas y mitolog\u00EDas de todos los pueblos antiguos. Se puede provocar el contacto con ellas desarrollando la visi\u00F3n et\u00E9rea seg\u00FAn las leyendas. La mayor\u00EDa de ellas se representan con alas. Se conoce de un caso en el que Sir Arthur Conan Doyle, creador de Sherlock Holmes, fue enga\u00F1ado por unas ni\u00F1as que se fotografiaron con figuras de papel en forma de hadas, a las que el consagrado escritor atribuy\u00F3 autentic"@es ,
+		"Fe (ytterst av medeltidslatinets fata, '\u00F6desgudinna') \u00E4r ett s\u00E4rskilt i romanska folksagor f\u00F6rekommande \u00F6vernaturligt kvinnligt v\u00E4sen. Fr\u00E5n romanska l\u00E4nder har de importerats till Storbritannien, d\u00E4r de fr\u00E4mst f\u00F6rekommer i konstsagor. De bor ibland i ett mer eller mindre utomv\u00E4rldsligt rike ofta kallat Faerie eller Faerieland, som till sitt ursprung \u00E4r besl\u00E4ktat med s\u00EDd eller s\u00EDdhe i den keltiska mytologin. I brittisk folktro har de, s\u00E5som fairies, identifierats med diverse inhemska v\u00E4sen, bland annat med alver (engelska elves). Detta eftersom begreppet fairy i \u00E4ldre engelsk folkloristik anv\u00E4nds p\u00E5 samma vis som svenskans \"v\u00E4sen\", och allts\u00E5 ocks\u00E5 kan anv\u00E4ndas f\u00F6r att beskriva varelser i utombrittisk eller rent av utomeuropeisk folklore. I folketymologi har man t\u00E4nkt sig ordet som en f\u00F6rko"@sv ,
+		"A fairy (also fay, fae, fair folk) is a type of mythical being or legendary creature found in the folklore of multiple European cultures (including Celtic, Slavic, German, English, and French folklore), a form of spirit, often described as metaphysical, supernatural, or preternatural. In addition to their folkloric origins, fairies were a common feature of Renaissance literature and Romantic art, and were especially popular in the United Kingdom during the Victorian and Edwardian eras. The Celtic Revival also saw fairies established as a canonical part of Celtic cultural heritage."@en ,
+		"Maitagarria izaki mitologikoa da, gehienetan emakume eder baten gisa irudikatua, usadioaren arabera naturaren babesleak dira, siniskera, mitologia eta ohituren ondorioz sortuak. Gehienak hegalekin irudikatu ohi dira. Maitagarri-ipuinetako ohiko pertsonaia da."@eu ,
+		"\u039F\u03B9 \u039D\u03B5\u03C1\u03AC\u03B9\u03B4\u03B5\u03C2 \u03B5\u03AF\u03BD\u03B1\u03B9 \u03B4\u03B1\u03B9\u03BC\u03BF\u03BD\u03B9\u03BA\u03AC, \u03BA\u03B1\u03C4\u03AC \u03BA\u03B1\u03BD\u03CC\u03BD\u03B1 \u03C9\u03C1\u03B1\u03AF\u03B1, \u03B1\u03B3\u03B1\u03B8\u03AC, \u03AE, \u03BA\u03B1\u03C4\u03AC \u03C4\u03B9\u03C2 \u03C0\u03B5\u03C1\u03B9\u03C3\u03C4\u03AC\u03C3\u03B5\u03B9\u03C2, \u03B2\u03BB\u03B1\u03C0\u03C4\u03B9\u03BA\u03AC \u03CC\u03BD\u03C4\u03B1 \u03C4\u03B7\u03C2 \u03BB\u03B1\u03CA\u03BA\u03AE\u03C2 \u03C6\u03B1\u03BD\u03C4\u03B1\u03C3\u03AF\u03B1\u03C2. \u039F\u03B9 \u03BD\u03B5\u03C1\u03AC\u03B9\u03B4\u03B5\u03C2, \u03C0\u03BF\u03C5 \u03BA\u03BB\u03CE\u03B8\u03BF\u03C5\u03BD, \u03C5\u03C6\u03B1\u03AF\u03BD\u03BF\u03C5\u03BD \u03BA\u03B1\u03B9 \u03C4\u03C1\u03B1\u03B3\u03BF\u03C5\u03B4\u03BF\u03CD\u03BD, \u03AD\u03C7\u03BF\u03C5\u03BD \u03B1\u03C3\u03C5\u03BD\u03AE\u03B8\u03B5\u03B9\u03C2 \u03B4\u03C5\u03BD\u03AC\u03BC\u03B5\u03B9\u03C2 (\u03B3\u03AF\u03BD\u03BF\u03BD\u03C4\u03B1\u03B9 \u03B1\u03CC\u03C1\u03B1\u03C4\u03B5\u03C2, \u03BC\u03B5\u03C4\u03B1\u03BC\u03BF\u03C1\u03C6\u03CE\u03BD\u03BF\u03BD\u03C4\u03B1\u03B9 \u03BA\u03B1\u03B9 \u03BC\u03B5\u03C4\u03B1\u03BC\u03BF\u03C1\u03C6\u03CE\u03BD\u03BF\u03C5\u03BD), \u03B4\u03B9\u03B5\u03C5\u03B8\u03CD\u03BD\u03BF\u03C5\u03BD \u03C4\u03B7\u03BD \u03B1\u03BD\u03B8\u03C1\u03CE\u03C0\u03B9\u03BD\u03B7 \u03C4\u03CD\u03C7\u03B7, \u03C4\u03B7\u03BD \u03BA\u03B1\u03B8\u03BF\u03C1\u03AF\u03B6\u03BF\u03C5\u03BD \u03BC\u03AC\u03BB\u03B9\u03C3\u03C4\u03B1 \u03BC\u03B5 \u03C4\u03B9\u03C2 \u03BA\u03B1\u03BB\u03AD\u03C2 \u03AE \u03BA\u03B1\u03BA\u03AD\u03C2 \u03B5\u03C5\u03C7\u03AD\u03C2 \u03C4\u03BF\u03C5\u03C2. \u0394\u03B9\u03AC\u03C6\u03BF\u03C1\u03B5\u03C2 \u03B8\u03B5\u03C9\u03C1\u03AF\u03B5\u03C2 \u03C0\u03C1\u03BF\u03C3\u03C6\u03AD\u03C1\u03BF\u03C5\u03BD \u03BC\u03AF\u03B1 \u03B5\u03BE\u03AE\u03B3\u03B7\u03C3\u03B7 \u03B3\u03B9\u03B1 \u03C4\u03B7\u03BD \u03C0\u03C1\u03BF\u03AD\u03BB\u03B5\u03C5\u03C3\u03B7 \u03C4\u03C9\u03BD \u03BD\u03B5\u03C1\u03AC\u03B9\u03B4\u03C9\u03BD: \u03B5\u03AF\u03BD\u03B1\u03B9 \u03BE\u03B5\u03C0\u03B5\u03C3\u03BC\u03AD\u03BD\u03B5\u03C2 \u03B8\u03B5\u03AD\u03C2, \u03C0\u03C1\u03C9\u03C4\u03CC\u03B3\u03BF\u03BD\u03B1 \u03C0\u03BD\u03B5\u03CD\u03BC\u03B1\u03C4\u03B1 \u03C4\u03B7\u03C2 \u03C6\u03CD\u03C3\u03B7\u03C2, \u03C0\u03BD\u03B5\u03CD\u03BC\u03B1\u03C4\u03B1 \u03C4\u03C9\u03BD \u03BD\u03B5\u03BA\u03C1\u03CE\u03BD, \u03BC\u03C5\u03B8\u03B9\u03BA\u03AC \u03C0\u03C1\u03CC\u03C3\u03C9\u03C0\u03B1 \u03C0\u03BF\u03C5 \u03C0\u03C1\u03BF\u03AE\u03BB\u03B8\u03B1\u03BD \u03B1\u03C0\u03CC \u03C4\u03B7\u03BD \u03B1\u03BD\u03AC\u03BC\u03BD\u03B7\u03C3\u03B7 \u03C4\u03C9\u03BD \u03B1\u03C1\u03C7\u03B1\u03AF\u03C9\u03BD \u03C4\u03B5\u03BB\u03B5\u03C4\u03BF\u03C5\u03C1\u03B3\u03B9\u03CE\u03BD \u03C4\u03B7\u03C2 \u03BC\u03CD\u03B7\u03C3\u03B7\u03C2. \u03A0\u03B1\u03C1\u03AC\u03BB\u03BB\u03B7\u03BB\u03B1 \u03BC\u03B5 \u03C4\u03B9\u03C2 \u03BB\u03C5\u03B3\u03B5\u03C1\u03CC\u03BA\u03BF\u03C1\u03BC\u03B5\u03C2 \u03BA\u03B1\u03B9 \u03CC\u03BC\u03BF\u03C1\u03C6\u03B5\u03C2 \u03BD\u03B5\u03C1\u03AC\u03B9\u03B4\u03B5\u03C2 \u03C5\u03C0\u03AC\u03C1\u03C7\u03BF\u03C5\u03BD \u03BA\u03B1\u03B9 \u03BC\u03B5\u03C1\u03B9\u03BA\u03AD\u03C2 \u03C0\u03BF\u03C5 \u03C0\u03B1\u03C1\u03BF\u03C5\u03C3\u03B9\u03AC\u03B6\u03BF\u03C5\u03BD \u03C4\u03B5\u03C1\u03B1\u03C4\u03CE\u03B4\u03B7 \u03C7\u03B1\u03C1\u03B1\u03BA\u03C4\u03B7\u03C1\u03B9\u03C3\u03C4\u03B9\u03BA\u03AC, \u03CC\u03C0\u03C9\u03C2 \u03C3\u03B9\u03B4\u03B5\u03C1\u03AD\u03BD\u03B9\u03B1 \u03AC\u03BA\u03C1\u03B1 (\u0393\u03B5\u03C1\u03BC\u03B1\u03BD\u03AF\u03B1), \u03C0\u03AC\u03C1\u03B1 \u03C0\u03BF\u03BB\u03CD \u03BC\u03B1\u03BA\u03C1\u03B9\u03AC \u03C3\u03C4\u03AE\u03B8\u03B7 (\u03A3\u03B1\u03C1\u03B4\u03B7\u03BD\u03AF\u03B1, \u0392\u03CC\u03C1\u03B5\u03B9\u03B1 \u0391\u03C6\u03C1\u03B9\u03BA\u03AE). \u039F\u03B9 \u03BD\u03B5\u03C1\u03AC\u03B9\u03B4\u03B5\u03C2 \u03B1\u03BD\u03AE\u03BA\u03BF\u03C5\u03BD \u03C3\u03B5 \u03BC\u03AF\u03B1 \u03C0\u03C1\u03BF\u03C6\u03B9\u03BB\u03BF\u03BB\u03BF\u03B3\u03B9\u03BA\u03AE \u03C0"@el ,
+		"\u30D5\u30A7\u30A2\u30EA\u30FC\uFF08\u82F1: fairy \u307E\u305F\u306F faery\uFF09\u306F\u3001\u4E3B\u306B\u5996\u7CBE\u3068\u8A33\u3055\u308C\u897F\u6D0B\u306E\u795E\u8A71\u3084\u4F1D\u8AAC\u306B\u767B\u5834\u3059\u308B\u3001\u8D85\u81EA\u7136\u7684\u306A\u5B58\u5728\u3001\u4EBA\u9593\u3068\u795E\u306E\u4E2D\u9593\u7684\u306A\u5B58\u5728\u306E\u7DCF\u79F0\u3002\u4EBA\u3068\u3082\u795E\u3068\u3082\u9055\u3046\u6027\u683C\u3068\u884C\u52D5\u306F\u3001\u3057\u3070\u3057\u3070\u6C17\u307E\u3050\u308C\u3068\u5F62\u5BB9\u3055\u308C\u308B\u3002\u540D\u524D\u306F\u30E9\u30C6\u30F3\u8A9E\u3067\u904B\u547D\u3092\u610F\u5473\u3059\u308B\u300CFata\u300D\u3068\u3044\u3046\u8A00\u8449\u306B\u7531\u6765\u3059\u308B\u3002\u8AAC\u306B\u3088\u3063\u3066\u306F\u5143\u3005\u306F\u795E\u306E\u4F7F\u3044\u3067\u3042\u3063\u305F\u3068\u3044\u3082\u3055\u308C\u3066\u3044\u308B\u3002"@ja ,
+		"Feen sind nach romanischer und keltischer Volkssage geisterhafte, mit h\u00F6heren Kr\u00E4ften begabte Fabelwesen, die sowohl weiblich als auch m\u00E4nnlich sein k\u00F6nnen. Begriff und Name entwickelten sich aus den r\u00F6mischen Schicksalsg\u00F6ttinnen, den Fata (vgl. Parzen), lat. Fatua, ital. Fata, span. Hada, franz. F\u00E9e. In der deutschen Poesie des Mittelalters kommen sie unter dem Namen Feien oder Feinen vor und sind mythologisch mit den sogenannten wei\u00DFen Frauen und den Nornen verwandt. Im slawischen Raum sind sie als Wilen bekannt, im inselkeltischen als Sidhe."@de ,
+		"Peri adalah istilah yang sering digunakan pada cerita rakyat, dongeng, fiksi untuk menggambarkan mahluk yang memiliki kekuatan gaib yang kadang kala turut campur dalam urusan-urusan manusia. Dalam bahasa Indonesia istilah peri sering digunakan dalam penerjemahan tokoh yang menggambarkan elf atau fairy (istilah dalam bahasa Inggris) dalam cerita fiksi maupun dongeng-dongeng dari Eropa. Pada kisah fiksi modern karakter Peri sering dipinjam dari versi aslinya dan digunakan dalam kisah fiksi fantasi masa kini dengan berbagai variasi penggambaran tergantung oleh penulis atau penciptanya."@in ,
+		"Les fades (del llat\u00ED fata) s\u00F3n esperits de la naturalesa que tenen cura de mantenir l'equilibri d'aquesta. El seu nom en llat\u00ED significa dest\u00ED, ja que les fades s\u00F3n una transposici\u00F3 de les moires gregues, unes criatures que apareixien al tercer dia del naixement d'un infant per predir-ne el futur."@ca ,
+		"\u0424\u0435\u044F (\u0430\u0432\u0435\u0441\u0442. \u043F\u0430\u0440\u0438\u043A\u0430 \u2014 \u0432\u0435\u0434\u044C\u043C\u0430, \u0444\u0430\u0440\u0441\u0438 \u067E\u0631\u06CC \u041F\u0435\u0301\u0440\u0438, \u0444\u0440. fee, \u0430\u043D\u0433\u043B. fairy \u2014 \u0442\u0430\u043A\u0436\u0435 faery, faerie, fay, fae; \u00AB\u043C\u0430\u043B\u0435\u043D\u044C\u043A\u0438\u0435 \u043B\u044E\u0434\u0438\u00BB, \u00AB\u0445\u043E\u0440\u043E\u0448\u0438\u0435 \u043B\u044E\u0434\u0438\u00BB, \u00AB\u043F\u0440\u0435\u043A\u0440\u0430\u0441\u043D\u044B\u0435 \u043B\u044E\u0434\u0438\u00BB \u0438 \u0442. \u0434.) \u2014 \u0432 \u043A\u0435\u043B\u044C\u0442\u0441\u043A\u043E\u043C \u0438 \u0433\u0435\u0440\u043C\u0430\u043D\u0441\u043A\u043E\u043C \u0444\u043E\u043B\u044C\u043A\u043B\u043E\u0440\u0435 \u2014 \u043C\u0438\u0444\u043E\u043B\u043E\u0433\u0438\u0447\u0435\u0441\u043A\u043E\u0435 \u0441\u0443\u0449\u0435\u0441\u0442\u0432\u043E \u043C\u0435\u0442\u0430\u0444\u0438\u0437\u0438\u0447\u0435\u0441\u043A\u043E\u0439 \u043F\u0440\u0438\u0440\u043E\u0434\u044B, \u043E\u0431\u043B\u0430\u0434\u0430\u044E\u0449\u0435\u0435 \u043D\u0435\u043E\u0431\u044A\u044F\u0441\u043D\u0438\u043C\u044B\u043C\u0438, \u0441\u0432\u0435\u0440\u0445\u044A\u0435\u0441\u0442\u0435\u0441\u0442\u0432\u0435\u043D\u043D\u044B\u043C\u0438 \u0441\u043F\u043E\u0441\u043E\u0431\u043D\u043E\u0441\u0442\u044F\u043C\u0438, \u0432\u0435\u0434\u0443\u0449\u0435\u0435 \u0441\u043A\u0440\u044B\u0442\u044B\u0439 (\u043A\u0430\u043A \u043A\u043E\u043B\u043B\u0435\u043A\u0442\u0438\u0432\u043D\u044B\u0439, \u0442\u0430\u043A \u0438 \u043E\u0431\u043E\u0441\u043E\u0431\u043B\u0435\u043D\u043D\u044B\u0439) \u043E\u0431\u0440\u0430\u0437 \u0436\u0438\u0437\u043D\u0438 \u0438 \u043F\u0440\u0438 \u044D\u0442\u043E\u043C \u0438\u043C\u0435\u044E\u0449\u0435\u0435 \u0441\u0432\u043E\u0439\u0441\u0442\u0432\u043E \u0432\u043C\u0435\u0448\u0438\u0432\u0430\u0442\u044C\u0441\u044F \u0432 \u043F\u043E\u0432\u0441\u0435\u0434\u043D\u0435\u0432\u043D\u0443\u044E \u0436\u0438\u0437\u043D\u044C \u0447\u0435\u043B\u043E\u0432\u0435\u043A\u0430 \u2014 \u043F\u043E\u0434 \u0432\u0438\u0434\u043E\u043C \u0434\u043E\u0431\u0440\u044B\u0445 \u043D\u0430\u043C\u0435\u0440\u0435\u043D\u0438\u0439, \u043D\u0435\u0440\u0435\u0434\u043A\u043E \u043F\u0440\u0438\u0447\u0438\u043D\u044F\u044F \u0432\u0440\u0435\u0434. \u041E\u0431\u0440\u0430\u0437 \u0444\u0435\u0438 \u043A\u0430\u043A \u0438\u0437\u044B\u0441\u043A\u0430\u043D\u043D\u043E-\u043F\u0440\u0438\u0432\u043B\u0435\u043A\u0430\u0442\u0435\u043B\u044C\u043D\u043E\u0439, \u043A\u0430\u043A \u043F\u0440\u0430\u0432\u0438\u043B\u043E, \u043C\u0438\u043D\u0438\u0430\u0442\u044E\u0440\u043D\u043E\u0439 \u0436\u0435\u043D\u0449\u0438\u043D\u044B, \u0441\u0444\u043E\u0440\u043C\u0438\u0440\u043E\u0432\u0430\u043B\u0441\u044F \u0432 \u044D\u043F\u043E\u0445\u0443 \u0440\u0430\u0441\u0446\u0432\u0435\u0442\u0430 \u0440\u043E\u043C\u0430\u043D\u0442\u0438\u0437\u043C\u0430 \u0432 \u0437\u0430\u043F\u0430\u0434\u043D\u043E\u0439 \u043B\u0438\u0442\u0435\u0440\u0430\u0442\u0443\u0440\u0435 \u0438 \u043F\u043E\u043B\u0443\u0447\u0438\u043B \u0441\u0432\u043E\u0451 \u0440\u0430\u0437\u0432\u0438\u0442\u0438\u0435 \u0432 \u0432\u0438\u043A\u0442\u043E\u0440\u0438\u0430\u043D\u0441\u043A\u0443\u044E \u044D\u043F\u043E\u0445\u0443. \u0412 \u0448\u0438\u0440\u043E\u043A\u043E\u043C \u0441\u043C\u044B\u0441\u043B\u0435 \u043F\u043E\u0434 \u00AB\u0444\u0435\u044F\u043C\u0438\u00BB \u0432 \u0437\u0430\u043F\u0430\u0434\u043D\u043E\u0435\u0432\u0440\u043E\u043F\u0435\u0439\u0441\u043A\u043E\u043C \u0444\u043E\u043B\u044C\u043A\u043B\u043E\u0440\u0435 \u043F\u0440\u0438\u043D\u044F\u0442\u043E \u043F\u043E\u0434\u0440\u0430\u0437\u0443\u043C\u0435\u0432\u0430\u0442\u044C \u0432\u0441\u0451 \u043C\u043D\u043E\u0433\u043E\u043E\u0431\u0440\u0430\u0437\u0438\u0435 \u0440\u043E\u0434\u0441\u0442\u0432\u0435\u043D\u043D\u044B\u0445 \u043C\u0438\u0444\u043E"@ru ,
+		"Une f\u00E9e est un \u00EAtre l\u00E9gendaire, g\u00E9n\u00E9ralement d\u00E9crit comme anthropomorphe et f\u00E9minin, d'une grande beaut\u00E9, capable de conf\u00E9rer des dons aux nouveau-n\u00E9s, de voler dans les airs, de lancer des sorts et d'influencer le futur. L'id\u00E9e que l'Homme se fait des f\u00E9es varie selon les cultures et les pays : revenantes, anges d\u00E9chus, \u00E9l\u00E9mentaires ou m\u00EAme humaines, minuscules ou immenses, toutes sont \u00E9troitement li\u00E9es aux forces de la nature et au concept de monde parall\u00E8le. La Befana, la Dame blanche, les sir\u00E8nes, les nymphes, Morgane, Viviane et une grande vari\u00E9t\u00E9 d'\u00EAtres et de cr\u00E9atures g\u00E9n\u00E9ralement f\u00E9minines peuvent \u00EAtre consid\u00E9r\u00E9s comme des \u00AB f\u00E9es \u00BB. Les Anglo-Saxons utilisent le nom \u00AB fairies \u00BB pour d\u00E9signer les f\u00E9es, mais \u00E9galement toutes les petites cr\u00E9atures anthropomorphes du folklore pa\u00EFen te"@fr ,
+		"Feoj estas magia malgranda popolo de E\u016Dropaj fabeloj. Feo ordinare havas insektajn flugilojn."@eo ;
+	rdfs:seeAlso	dbr:Fairy_painting ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/SophieAndersonTakethefairfaceofWoman.jpg> ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Fairy .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Fairy	dct:subject	dbc:European_legendary_creatures ,
+		dbc:Fairies ;
+	owl:sameAs	<http://fr.dbpedia.org/resource/F\u00E9e> ,
+		<http://zh.dbpedia.org/resource/\u5C0F\u4ED9\u5B50> .
+@prefix ns19:	<http://ast.dbpedia.org/resource/> .
+dbr:Fairy	owl:sameAs	ns19:Fada .
+@prefix dbpedia-tr:	<http://tr.dbpedia.org/resource/> .
+dbr:Fairy	owl:sameAs	dbpedia-tr:Peri ,
+		<http://hu.dbpedia.org/resource/T\u00FCnd\u00E9r> ,
+		<http://ar.dbpedia.org/resource/\u062C\u0646\u064A\u0629> ,
+		<http://be.dbpedia.org/resource/\u0424\u0435\u044F> ,
+		<https://global.dbpedia.org/id/4xw31> ,
+		<http://sh.dbpedia.org/resource/Vila_(mitologija)> ,
+		<http://tt.dbpedia.org/resource/\u041F\u04D9\u0440\u0438> .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:Fairy	owl:sameAs	dbpedia-es:Hada ,
+		<http://gd.dbpedia.org/resource/S\u00ECthiche> ,
+		<http://az.dbpedia.org/resource/P\u0259ri> ,
+		<http://ro.dbpedia.org/resource/Z\u00E2n\u0103> ,
+		<http://fy.dbpedia.org/resource/Fee_(mytysk_w\u00EAzen)> ,
+		<http://bg.dbpedia.org/resource/\u0424\u0435\u044F> .
+@prefix ns22:	<http://d-nb.info/gnd/4325485-8/about/> .
+dbr:Fairy	owl:sameAs	ns22:rdf .
+@prefix dbpedia-la:	<http://la.dbpedia.org/resource/> .
+dbr:Fairy	owl:sameAs	dbpedia-la:Fada ,
+		<http://mk.dbpedia.org/resource/\u0421\u0430\u043C\u043E\u0432\u0438\u043B\u0430> .
+@prefix dbpedia-ms:	<http://ms.dbpedia.org/resource/> .
+dbr:Fairy	owl:sameAs	dbpedia-ms:Pari-pari ,
+		<http://no.dbpedia.org/resource/Fe_(eventyr)> ,
+		<http://hy.dbpedia.org/resource/\u0553\u0565\u0580\u056B> .
+@prefix dbpedia-oc:	<http://oc.dbpedia.org/resource/> .
+dbr:Fairy	owl:sameAs	dbpedia-oc:Hada .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Fairy	owl:sameAs	dbpedia-de:Fee .
+@prefix dbpedia-eo:	<http://eo.dbpedia.org/resource/> .
+dbr:Fairy	owl:sameAs	dbpedia-eo:Feo ,
+		<http://vi.dbpedia.org/resource/Ti\u00EAn_n\u1EEF> ,
+		<http://uk.dbpedia.org/resource/\u0424\u0435\u044F> .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Fairy	owl:sameAs	dbpedia-it:Fata ,
+		<http://el.dbpedia.org/resource/\u039D\u03B5\u03C1\u03AC\u03B9\u03B4\u03B5\u03C2> .
+@prefix ns29:	<http://wa.dbpedia.org/resource/> .
+dbr:Fairy	owl:sameAs	ns29:Blanke_dame .
+@prefix dbpedia-gl:	<http://gl.dbpedia.org/resource/> .
+dbr:Fairy	owl:sameAs	dbpedia-gl:Fada .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Fairy	owl:sameAs	wikidata:Q8028 .
+@prefix dbpedia-bar:	<http://bar.dbpedia.org/resource/> .
+dbr:Fairy	owl:sameAs	dbpedia-bar:Fee ,
+		<http://ur.dbpedia.org/resource/\u067E\u0631\u06CC> ,
+		<http://ga.dbpedia.org/resource/Si\u00F3g> ,
+		<http://bn.dbpedia.org/resource/\u09AA\u09B0\u09C0> ,
+		<http://hr.dbpedia.org/resource/Vila_(mitologija)> ,
+		<http://d-nb.info/gnd/4325485-8> .
+@prefix dbpedia-sv:	<http://sv.dbpedia.org/resource/> .
+dbr:Fairy	owl:sameAs	dbpedia-sv:Fe ,
+		<http://sr.dbpedia.org/resource/\u0412\u0438\u043B\u0430_(\u043C\u0438\u0442\u043E\u043B\u043E\u0433\u0438\u0458\u0430)> ,
+		<http://fa.dbpedia.org/resource/\u0641\u0631\u06CC> .
+@prefix dbpedia-id:	<http://id.dbpedia.org/resource/> .
+dbr:Fairy	owl:sameAs	dbpedia-id:Peri ,
+		<http://he.dbpedia.org/resource/\u05E4\u05D9\u05D4_(\u05E4\u05E0\u05D8\u05D6\u05D9\u05D4)> .
+@prefix ns35:	<http://sco.dbpedia.org/resource/> .
+dbr:Fairy	owl:sameAs	ns35:Fairy .
+@prefix dbpedia-fi:	<http://fi.dbpedia.org/resource/> .
+dbr:Fairy	owl:sameAs	dbpedia-fi:Keijukainen .
+@prefix dbpedia-et:	<http://et.dbpedia.org/resource/> .
+dbr:Fairy	owl:sameAs	dbpedia-et:Haldjas .
+@prefix dbpedia-nn:	<http://nn.dbpedia.org/resource/> .
+dbr:Fairy	owl:sameAs	dbpedia-nn:Vesenet_fe ,
+		<http://ka.dbpedia.org/resource/\u10E4\u10D4\u10E0\u10D8\u10D0> ,
+		<http://ky.dbpedia.org/resource/\u041F\u0435\u0440\u0438> ,
+		<http://ko.dbpedia.org/resource/\uD398\uC5B4\uB9AC> .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Fairy	owl:sameAs	dbpedia-nl:Fee ,
+		dbr:Fairy ,
+		<http://rdf.freebase.com/ns/m.0f5zw> .
+@prefix dbpedia-eu:	<http://eu.dbpedia.org/resource/> .
+dbr:Fairy	owl:sameAs	dbpedia-eu:Maitagarri .
+@prefix dbpedia-simple:	<http://simple.dbpedia.org/resource/> .
+dbr:Fairy	owl:sameAs	dbpedia-simple:Fairy ,
+		<http://lt.dbpedia.org/resource/F\u0117ja> .
+@prefix ns42:	<http://ia.dbpedia.org/resource/> .
+dbr:Fairy	owl:sameAs	ns42:Fee .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Fairy	owl:sameAs	dbpedia-pt:Fada ,
+		<http://sl.dbpedia.org/resource/Vila_(mitolo\u0161ko_bitje)> ,
+		<http://ja.dbpedia.org/resource/\u30D5\u30A7\u30A2\u30EA\u30FC> ,
+		<http://pl.dbpedia.org/resource/Wr\u00F3\u017Cka_(literatura)> .
+@prefix dbpedia-ca:	<http://ca.dbpedia.org/resource/> .
+dbr:Fairy	owl:sameAs	dbpedia-ca:Fada .
+@prefix dbpedia-io:	<http://io.dbpedia.org/resource/> .
+dbr:Fairy	owl:sameAs	dbpedia-io:Feo ,
+		<http://ru.dbpedia.org/resource/\u0424\u0435\u044F> .
+@prefix ns46:	<http://vec.dbpedia.org/resource/> .
+dbr:Fairy	owl:sameAs	ns46:Fada ;
+	dbo:wikiPageInterLanguageLink	<http://tt.dbpedia.org/resource/\u0414\u0438\u044E_\u043F\u04D9\u0440\u0438\u0435> .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Fairy	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Fairy?oldid=985361367&ns=0> ;
+	dbp:region	dbr:Europe ;
+	dbp:grouping	"Pixie"@en ,
+		dbr:Legendary_creature ,
+		"Tuatha D\u00E9 Danann"@en ,
+		"Sprite"@en ;
+	dbp:firstReported	"In folklore"@en ;
+	dbp:name	"Fairy"@en ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/SophieAndersonTakethefairfaceofWoman.jpg?width=300> ;
+	dbo:wikiPageID	54317 ;
+	dbo:wikiPageRevisionID	985361367 ;
+	dbo:wikiPageWikiLink	dbr:Talisman ,
+		dbr:Rainbow_Magic ,
+		dbr:Angel ,
+		dbr:Familiar ,
+		dbr:County_Wexford ,
+		dbr:Walter_Map ,
+		dbr:Flower_Fairies ,
+		dbr:Childe_Rowland ,
+		<http://dbpedia.org/resource/Madame_d\u0027Aulnoy> ,
+		dbr:Christian_theosophy ,
+		dbr:Artemis_Fowl ,
+		dbr:Jasmine_Becket-Griffith ,
+		dbr:Dragonfly ,
+		<http://dbpedia.org/resource/Little_people_(mythology)> ,
+		dbr:Gaels ,
+		<http://dbpedia.org/resource/E._L._Gardner> ,
+		<http://dbpedia.org/resource/File:Brock_Fairy.jpg> ,
+		dbr:Nene_Thomas ,
+		<http://dbpedia.org/resource/File:James_I;_Daemonologie,_in_forme_of_a_dialogue._Title_page._Wellcome_M0014280.jpg> .
+@prefix ns48:	<http://dbpedia.org/resource/Wikt:> .
+dbr:Fairy	dbo:wikiPageWikiLink	ns48:fey ,
+		<http://dbpedia.org/resource/File:Fairychapeltoun.JPG> ,
+		dbr:Border_ballad ,
+		<http://dbpedia.org/resource/T\u00EDr_na_n\u00D3g> ,
+		dbr:Faery_Wicca ,
+		dbr:Andrew_Lang ,
+		dbr:Fairy_fort .
+@prefix ns49:	<http://dbpedia.org/resource/Scottish_Fairy_Belief:> .
+dbr:Fairy	dbo:wikiPageWikiLink	ns49:_A_History .
+@prefix ns50:	<http://dbpedia.org/resource/Wiktionary:> .
+dbr:Fairy	dbo:wikiPageWikiLink	ns50:revel ,
+		ns48:fay ,
+		dbr:Cratageus_monogyna ,
+		<http://dbpedia.org/resource/File:Falero_Luis_Ricardo_Lily_Fairy_1888.jpg> ,
+		<http://dbpedia.org/resource/File:Johann_Heinrich_F\u00FCssli_058.jpg> ,
+		dbr:Euphemism ,
+		dbr:Greta_James ,
+		dbr:Harmonia_Saille ,
+		dbr:Germanic_mythology ,
+		dbr:Photograph ,
+		<http://dbpedia.org/resource/Le_Morte_d\u0027Arthur> ,
+		dbr:Medicine ,
+		dbr:Michael_Drayton ,
+		dbr:The_Spiderwick_Chronicles ,
+		dbr:Classifications_of_fairies ,
+		dbr:Joseph_Ritson ,
+		dbr:Child_Ballads ,
+		dbr:Folk_belief ,
+		dbr:Kylie_InGold ,
+		dbr:Hades ,
+		dbr:Sir_Launfal ,
+		dbr:Elfshot ,
+		<http://dbpedia.org/resource/Robert_Kirk_(folklorist)> ,
+		dbr:Paracelsus ,
+		<http://dbpedia.org/resource/D._L._Ashliman> ,
+		dbr:Legendary_creature ,
+		dbr:German_folklore ,
+		dbr:Fairy_path ,
+		dbr:Knight-errant ,
+		dbr:Daemonologie ,
+		dbr:Goblin ,
+		dbr:French_folklore ,
+		dbr:Peri ,
+		dbr:Arthur_Conan_Doyle ,
+		<http://dbpedia.org/resource/Pr\u00E9cieuses> ,
+		dbr:Scottish_folklore ,
+		dbr:Lost_Girl ,
+		dbr:Herb ,
+		dbr:Spriggan ,
+		<http://dbpedia.org/resource/Sprite_(folklore)> ,
+		<http://dbpedia.org/resource/Will-o\u0027-the-wisp> ,
+		dbr:Orkney ,
+		dbr:Satyr ,
+		dbr:Fairy_Investigation_Society ,
+		dbr:John_Lydgate ,
+		dbr:Thomas_the_Rhymer ,
+		dbr:Nature ,
+		dbr:Christian_Church ,
+		dbr:Bretons ,
+		dbr:Donas_de_fuera ,
+		dbr:Prehistory ,
+		dbr:Fairy-lock ,
+		dbr:Ulex ,
+		dbr:Warwick_Goble ,
+		dbr:English_folklore ,
+		dbr:Christian_mythology ,
+		dbr:Katharine_Mary_Briggs ,
+		dbr:Banshee ,
+		dbr:Fairy_Ointment ,
+		<http://dbpedia.org/resource/C._S._Lewis> ,
+		dbr:Chivalric_romance ,
+		dbr:Geoffrey_Chaucer ,
+		dbr:Richard_Dadd ,
+		dbr:Fairy_tale ,
+		<http://dbpedia.org/resource/A_Midsummer_Night\u0027s_Dream> ,
+		dbr:Germanic_peoples ,
+		dbr:Tam_Lin ,
+		dbr:Plant ,
+		<http://dbpedia.org/resource/Allan_Cunningham_(author)> ,
+		dbr:Joseph_Noel_Paton ,
+		dbr:Hardtack ,
+		dbr:Neverland ,
+		dbr:Sir_Gawain_and_the_Green_Knight ,
+		<http://dbpedia.org/resource/Puck_(folklore)> ,
+		<http://dbpedia.org/resource/Puck_of_Pook\u0027s_Hill> ,
+		dbr:Disney_Fairies ,
+		dbr:Rudyard_Kipling ,
+		dbr:Sylph ,
+		<http://dbpedia.org/resource/Deva_(New_Age)> ,
+		dbr:Cicely_Mary_Barker ,
+		dbr:Irish_mythology ,
+		dbr:Morgan_le_Fay ,
+		dbr:Spirit ,
+		dbr:Tinker_Bell ,
+		dbr:Alexander_Pope ,
+		dbr:Welsh_mythology ,
+		dbr:Paganism ,
+		dbr:Irish_language ,
+		dbr:Irish_people ,
+		dbr:The_Discarded_Image ,
+		<http://dbpedia.org/resource/J._M._Barrie> ,
+		<http://dbpedia.org/resource/J._R._R._Tolkien> ,
+		dbr:Edmund_Spenser ,
+		dbr:Rowan ,
+		dbr:Ireland ,
+		dbr:Scottish_people ,
+		dbr:Middle_English ,
+		dbr:Barefoot ,
+		dbr:James_VI_and_I ,
+		<http://dbpedia.org/resource/Dwarf_(mythology)> ,
+		dbr:Gnome ,
+		dbr:Fairy_ring ,
+		dbr:Diane_Purkiss ,
+		dbr:Florence_Harrison ,
+		dbr:Cornish_people ,
+		dbr:Nymph ,
+		dbr:John_Atkinson_Grimshaw ,
+		dbr:Meredith_Dillman ,
+		dbr:Motif-Index_of_Folk-Literature ,
+		dbr:Myth ,
+		dbr:Puritans ,
+		dbr:Fantasy ,
+		dbr:Faerie_faith ,
+		<http://dbpedia.org/resource/Aos_S\u00ED> ,
+		dbr:Germanic_languages ,
+		dbr:Sculpture ,
+		<http://dbpedia.org/resource/Aberfoyle,_Stirling> ,
+		dbr:Rebecca_Guay ,
+		dbr:Renaissance_literature ,
+		dbr:Mag_Mell ,
+		dbr:Peter_and_Wendy ,
+		dbr:Carnival_Row ,
+		dbr:List_of_fairy_and_sprite_characters ,
+		dbr:Fairyland ,
+		dbr:Human ,
+		dbr:Fairy_godmother ,
+		dbr:Romanticism ,
+		dbr:Peter_Pan ,
+		dbr:Evolution ,
+		dbr:Walter_Scott ,
+		dbr:Winx_Club ,
+		dbr:The_Chronicles_of_Prydain ,
+		dbr:Lizanne_Henderson ,
+		<http://dbpedia.org/resource/Ois\u00EDn> ,
+		dbr:William_Blake ,
+		dbr:Welsh_language ,
+		dbr:Welsh_people ,
+		dbr:Senecio ,
+		dbr:William_Shakespeare ,
+		dbr:God ,
+		dbr:Daniel_Maclise ,
+		dbr:Goddess ,
+		dbr:Ronald_Hutton ,
+		dbr:Hag ,
+		dbr:True_Blood ,
+		<http://dbpedia.org/resource/Alan_Lee_(illustrator)> ,
+		<http://dbpedia.org/resource/Supernatural_(American_TV_series)> ,
+		dbr:Manx_people ,
+		<http://dbpedia.org/resource/Lamia_(poem)> ,
+		dbr:Elemental ,
+		<http://dbpedia.org/resource/Magic_(supernatural)> ,
+		dbr:Four-leaf_clover ,
+		dbr:Supernatural ,
+		dbr:Vulgar_Latin ,
+		dbr:Oberon ,
+		dbr:Hypericum_perforatum ,
+		dbr:Amulet ,
+		dbr:Stone_Age ,
+		dbr:Tuberculosis ,
+		dbr:The_Chronicles_of_Narnia ,
+		dbr:Celtic_mythology ,
+		dbr:The_Triumph_of_the_Moon ,
+		dbr:Avalon ,
+		dbc:Fairies ,
+		<http://dbpedia.org/resource/Y\u014Dsei> ,
+		dbr:Old_French ,
+		dbr:Victorian_era ,
+		dbr:Anglicanism ,
+		<http://dbpedia.org/resource/Tuatha_D\u00E9_Danann> ,
+		dbr:Brothers_Grimm ,
+		dbr:Armour ,
+		dbr:Gingerbread ,
+		dbr:Giant ,
+		dbr:Yakshini ,
+		dbr:Romance_languages ,
+		dbr:Huon_of_Bordeaux ,
+		dbr:Emain_Ablach ,
+		dbr:Butterfly ,
+		dbr:Middle_French ,
+		dbr:Changeling ,
+		dbr:Europe ,
+		<http://dbpedia.org/resource/Lang\u0027s_Fairy_Books> ,
+		dbr:Suza_Scalora ,
+		dbr:The_Little_White_Bird ,
+		dbr:Fairy_Doors_of_Ann_Arbor ,
+		dbr:Cottingley_Fairies ,
+		dbr:Eve ,
+		dbr:Pixie ,
+		dbr:United_Kingdom ,
+		dbr:Demon ,
+		<http://dbpedia.org/resource/W._B._Yeats> ,
+		dbr:Classical_mythology ,
+		dbr:Slavic_paganism ,
+		dbr:Ida_Rentoul_Outhwaite ,
+		dbr:Brian_Froud ,
+		dbr:Tithe ,
+		dbr:Ogre ,
+		dbr:Bluebeard ,
+		dbr:King_Arthur ,
+		dbr:Celtic_Britons ,
+		dbr:James_Hogg ,
+		dbr:Noun ,
+		dbr:Elf ,
+		dbr:The_Dresden_Files ,
+		<http://dbpedia.org/resource/File:Sir_Joseph_Noel_Paton_-_The_Quarrel_of_Oberon_and_Titania_-_Google_Art_Project_2.jpg> ,
+		dbr:John_Anster_Fitzgerald ,
+		dbr:Edwardian_era ,
+		dbr:Calvinism ,
+		dbr:European_folklore ,
+		dbr:Gold ,
+		dbr:Faun ,
+		dbc:European_legendary_creatures ,
+		dbr:Hobgoblin ,
+		dbr:Northern_Europe ,
+		dbr:Sir_Orfeo ,
+		dbr:Mary_of_Teck ,
+		dbr:Knockshigowna ,
+		dbr:The_Faerie_Queene ,
+		dbr:Newfoundland_and_Labrador ,
+		dbr:Celtic_Revival ,
+		dbr:The_Rape_of_the_Lock ,
+		dbr:Preternatural ,
+		dbr:Wild_Hunt ,
+		dbr:Elizabethan_era ,
+		dbr:The_Fairly_OddParents ,
+		dbr:Dryad ,
+		dbr:Tooth_fairy ,
+		dbr:Incorporeality ,
+		dbr:Lady_Isabel_and_the_Elf_Knight ,
+		<http://dbpedia.org/resource/Brownie_(folklore)> ,
+		<http://dbpedia.org/resource/Gustave_Dor\u00E9> ,
+		dbr:Sophie_Gengembre_Anderson ,
+		dbr:Arthur_Rackham ;
+	dbo:wikiPageExternalLink	<http://www.anagnosis.gr/index.php%3FpageID=74&la=eng> .
+@prefix ns51:	<https://archive.org/details/> .
+dbr:Fairy	dbo:wikiPageExternalLink	ns51:DaleJarvisTheHouseOnTheFairyPath ,
+		ns51:DaleGilbertJarvisOriginofFairies .
+@prefix dbt:	<http://dbpedia.org/resource/Template:> .
+dbr:Fairy	dbp:wikiPageUsesTemplate	dbt:Infobox_mythical_creature ,
+		dbt:Wikt-lang ,
+		dbt:Commons_category_inline ,
+		dbt:Pp-semi-indef ,
+		dbt:Wiktionary_inline ,
+		dbt:Cn ,
+		dbt:Other_uses ,
+		dbt:ISBN ,
+		dbt:Fairies ,
+		dbt:In_Our_Time ,
+		dbt:Clear ,
+		dbt:Div_col ,
+		dbt:Div_col_end ,
+		dbt:See_also ,
+		dbt:Wikiquote ,
+		dbt:Citation_needed ,
+		dbt:Reflist ,
+		dbt:Short_description ,
+		dbt:Main ;
+	dbp:caption	"A portrait of a fairy, by Sophie Gengembre Anderson . The title of the painting is Take the Fair Face of Woman, and Gently Suspending, With Butterflies, Flowers, and Jewels Attending, Thus Your Fairy is Made of Most Beautiful Things \u2013 purportedly from a poem by Charles Ede."@en ;
+	dbo:abstract	"A fada \u00E9 um ser mitol\u00F3gico, caracter\u00EDstico dos mitos c\u00E9lticos e germ\u00E2nicos. O primeiro autor que mencionou as fadas foi Pomp\u00F4nio Mela, um ge\u00F3grafo que viveu durante o s\u00E9culo I d.c. As fadas n\u00E3o s\u00E3o o feminino dos elfos. Levando em conta que esse mito surgiu pelo fato de a Deusa Grian, a rainha dos elfos, e a Deusa Aine, a rainha das fadas, serem irm\u00E3s. Mas elas nunca se encontravam, Grian e Aine alternavam-se na reg\u00EAncia do ciclo solar na Roda do Ano, trocando de lugar a cada solst\u00EDcio. Sendo assim elfos e fadas n\u00E3o tem nenhum contato direto. \u00C9 usado o termo \"Fada\" tanto para fadas do sexo masculino, quanto para fadas do sexo feminino. O termo incorporou-se a cultura ocidental a partir dos assim chamados \"contos de fadas\". Nesse tipo de hist\u00F3ria, a fada \u00E9 representada de forma semelhante a vers\u00E3o cl\u00E1ssica dos elfos de J.R.R. Tolkien, por\u00E9m apresentando asas de lib\u00E9lula nas costas e utilizando-se de uma \"varinha de cond\u00E3o\" para realizar encantamentos. Dependendo da obra em que aparece, a fada pode ser retratada em estatura de uma mulher normal ou diminuta. No primeiro caso, temos a fada de Cinderela. Como exemplo da segunda representa\u00E7\u00E3o podemos citar \"Sininho\", do cl\u00E1ssico infantil \"Peter Pan\", de J. M. Barrie. O escritor e folclorista ingl\u00EAs Joseph Ritson, na sua disserta\u00E7\u00E3o On Fairies, definiu as fadas como uma esp\u00E9cie de seres parcialmente materiais, parcialmente espirituais, com o poder de mudarem a sua apar\u00EAncia e de, conforme a sua vontade, serem vis\u00EDveis ou invis\u00EDveis para os seres humanos."@pt ,
+		"Peri adalah istilah yang sering digunakan pada cerita rakyat, dongeng, fiksi untuk menggambarkan mahluk yang memiliki kekuatan gaib yang kadang kala turut campur dalam urusan-urusan manusia. Dalam bahasa Indonesia istilah peri sering digunakan dalam penerjemahan tokoh yang menggambarkan elf atau fairy (istilah dalam bahasa Inggris) dalam cerita fiksi maupun dongeng-dongeng dari Eropa. Pada kisah fiksi modern karakter Peri sering dipinjam dari versi aslinya dan digunakan dalam kisah fiksi fantasi masa kini dengan berbagai variasi penggambaran tergantung oleh penulis atau penciptanya."@in ,
+		"Les fades (del llat\u00ED fata) s\u00F3n esperits de la naturalesa que tenen cura de mantenir l'equilibri d'aquesta. El seu nom en llat\u00ED significa dest\u00ED, ja que les fades s\u00F3n una transposici\u00F3 de les moires gregues, unes criatures que apareixien al tercer dia del naixement d'un infant per predir-ne el futur. Des del romanticisme se les representa com a noies joves amb ales. Apareixen sovint als contes populars, i sempre com a gent menuda, de gran bellesa i amb molt bon cor. Tanmateix, a l'edat mitjana les pintaven com un esperit protector o, sovint, malici\u00F3s i per protegir-se d'elles, la gent portava un amulet de ferro negre. Les fades vesteixen amb p\u00E8tals de flors o amb teles de color blau, verd o daurat. De vegades porten una vareta m\u00E0gica a la m\u00E0. Es poden tornar invisibles a voluntat i n'hi ha que poden parlar com els \u00E9ssers humans. Els agrada molt la m\u00FAsica, especialment la tradicional, els seus instruments preferits s\u00F3n les flautes i l'arpa. Tamb\u00E9 els agrada molt ballar a la llum de la lluna, ho fan sovint, i les seves dances encisadores s\u00F3n d'una gran bellesa art\u00EDstica. Porten una vida id\u00EDl\u00B7lica i de lleure. Acostumen a ser molt delicades, suceptibles, polides i geloses. Les fades no s\u00F3n dolentes del tot ni tampoc bones del tot, s\u00F3n tant petites que no els caben dos sentiments a la vegada. Les fades s\u00F3n presents a la mitologia de moltes cultures com ara la brit\u00E0nica, la sueca, la xinesa, l'occitana, la iraniana i la catalana."@ca ,
+		"Wr\u00F3\u017Cka \u2013 w ba\u015Bniach oraz literaturze dla dzieci osoba p\u0142ci \u017Ce\u0144skiej maj\u0105ca moc czynienia czar\u00F3w. Wr\u00F3\u017Cka jest najcz\u0119\u015Bciej przedstawiana jako istota dobra i opieku\u0144cza, cho\u0107 niekiedy mo\u017Ce te\u017C rzuca\u0107 czary szkodz\u0105ce bohaterom opowie\u015Bci (jak np. wr\u00F3\u017Cka niezaproszona na chrzest \u015Api\u0105cej Kr\u00F3lewny)."@pl ,
+		"La fata \u00E8 una creatura leggendaria, presente nelle fiabe o nei miti di origine principalmente italiana e francese, ma che trova comunque figure affini nelle mitologie dell'Europa dell'Est. Nell'originale accezione dell'Europa meridionale (senza influenze celtiche) \u00E8 totalmente sovrannaturale, cio\u00E8 non ha nulla di umano se non l'aspetto. Il nome fata deriva dall'altro nome latino delle Parche, che \u00E8 Fatae, ovvero coloro che presiedono al Fato. La fata \u00E8 un essere magico, una sorta di spirito della Natura."@it ,
+		"Une f\u00E9e est un \u00EAtre l\u00E9gendaire, g\u00E9n\u00E9ralement d\u00E9crit comme anthropomorphe et f\u00E9minin, d'une grande beaut\u00E9, capable de conf\u00E9rer des dons aux nouveau-n\u00E9s, de voler dans les airs, de lancer des sorts et d'influencer le futur. L'id\u00E9e que l'Homme se fait des f\u00E9es varie selon les cultures et les pays : revenantes, anges d\u00E9chus, \u00E9l\u00E9mentaires ou m\u00EAme humaines, minuscules ou immenses, toutes sont \u00E9troitement li\u00E9es aux forces de la nature et au concept de monde parall\u00E8le. La Befana, la Dame blanche, les sir\u00E8nes, les nymphes, Morgane, Viviane et une grande vari\u00E9t\u00E9 d'\u00EAtres et de cr\u00E9atures g\u00E9n\u00E9ralement f\u00E9minines peuvent \u00EAtre consid\u00E9r\u00E9s comme des \u00AB f\u00E9es \u00BB. Les Anglo-Saxons utilisent le nom \u00AB fairies \u00BB pour d\u00E9signer les f\u00E9es, mais \u00E9galement toutes les petites cr\u00E9atures anthropomorphes du folklore pa\u00EFen telles que les lutins, les nains et les elfes. Issues des croyances populaires et de mythologies anciennes, de la litt\u00E9rature inspir\u00E9e du folklore et des contes celtiques ainsi que d'anciennes divinit\u00E9s, les f\u00E9es sont une cr\u00E9ation de l'Occident m\u00E9di\u00E9val. Elles jouent des r\u00F4les tr\u00E8s vari\u00E9s. Si certaines aident, soignent, guident des personnes ou leur fournissent des armes enchant\u00E9es, d'autres f\u00E9es sont plus connues pour leurs \u00AB tours \u00BB, leur habitude de danser en cercle et d'enlever des personnes, en particulier les nouveau-n\u00E9s humains qu'elles remplacent par un changelin. Dou\u00E9es de facult\u00E9s magiques, elles se d\u00E9guisent et modifient l'apparence de ce qui les entoure. D\u00E8s le XIIe si\u00E8cle, deux grandes figures f\u00E9eriques se distinguent dans la litt\u00E9rature d'Europe de l'Ouest : la f\u00E9e marraine et la f\u00E9e amante. Bien connues de la litt\u00E9rature m\u00E9di\u00E9vale, les f\u00E9es disparaissent des r\u00E9cits \u00E0 l'arriv\u00E9e de la Renaissance, pour r\u00E9appara\u00EEtre sous de nouvelles formes dans Le Songe d'une nuit d'\u00E9t\u00E9 de William Shakespeare, et les contes merveilleux qui modifient leur taille, leur apparence et leur symbolique. Les petites f\u00E9es anglo-saxonnes sont popularis\u00E9es durant l'\u00E9poque victorienne, notamment par la peinture f\u00E9erique. Les f\u00E9es font toujours partie int\u00E9grante des croyances populaires dans les r\u00E9gions de culture celte, en Islande et dans toute la Scandinavie, o\u00F9 des pr\u00E9cautions \u00E0 tenir envers elles sont popularis\u00E9es par le folklore. Elles restent connues des folklores allemand, fran\u00E7ais et wallon, bien que les croyances aient largement recul\u00E9 au XXe si\u00E8cle. De tous temps, des personnes ont affirm\u00E9 voir les f\u00E9es, communiquer avec elles et invoquer leur aide ; en Angleterre, l'affaire des f\u00E9es de Cottingley entra\u00EEne un long d\u00E9bat sur la r\u00E9alit\u00E9 de leur existence. Les f\u00E9es sont d\u00E9sormais des personnages incontournables de la litt\u00E9rature fantastique et fantasy et du cin\u00E9ma, entre autres gr\u00E2ce \u00E0 Walt Disney qui les a largement popularis\u00E9es aux \u00C9tats-Unis, et \u00E0 des films comme Dark Crystal. Elles int\u00E9ressent des chercheurs comme Katharine Mary Briggs, des illustrateurs tels que Cicely Mary Barker, Brian Froud et Alan Lee, ainsi que des conteurs comme l'elficologue Pierre Dubois \u00E0 qui l'on doit, en France, la red\u00E9couverte du folklore qui leur est li\u00E9."@fr ,
+		"\u0424\u0435\u0301\u044F (\u0444\u0440. f\u00E9e, \u0430\u043D\u0433\u043B. fairy, faery, faerie, fay, fae) \u2014 \u0432 \u043A\u0435\u043B\u044C\u0442\u0441\u044C\u043A\u043E\u043C\u0443 \u0442\u0430 \u043D\u0456\u043C\u0435\u0446\u044C\u043A\u043E\u043C\u0443 \u0444\u043E\u043B\u044C\u043A\u043B\u043E\u0440\u0456 \u0456\u0441\u0442\u043E\u0442\u0430 \u043C\u0435\u0442\u0430\u0444\u0456\u0437\u0438\u0447\u043D\u043E\u0457 \u043F\u0440\u0438\u0440\u043E\u0434\u0438, \u044F\u043A\u0430 \u0432\u043E\u043B\u043E\u0434\u0456\u0454 \u043D\u0430\u0434\u043F\u0440\u0438\u0440\u043E\u0434\u043D\u0438\u043C\u0438 \u0437\u0434\u0456\u0431\u043D\u043E\u0441\u0442\u044F\u043C\u0438, \u0432\u0435\u0434\u0435 \u0442\u0430\u0454\u043C\u043D\u0438\u0447\u0438\u0439 \u0441\u043F\u043E\u0441\u0456\u0431 \u0436\u0438\u0442\u0442\u044F \u0456 \u043F\u0440\u0438 \u0446\u044C\u043E\u043C\u0443 \u043C\u0430\u0454 \u0432\u043B\u0430\u0441\u0442\u0438\u0432\u0456\u0441\u0442\u044C \u0432\u0442\u0440\u0443\u0447\u0430\u0442\u0438\u0441\u044C \u0432 \u043F\u043E\u0432\u0441\u044F\u043A\u0434\u0435\u043D\u043D\u0435 \u0436\u0438\u0442\u0442\u044F \u043B\u044E\u0434\u0438\u043D\u0438. \u041E\u0431\u0440\u0430\u0437 \u0444\u0435\u0457 \u044F\u043A \u043C\u0456\u043D\u0456\u0430\u0442\u044E\u0440\u043D\u043E\u0457 \u0442\u0430 \u043F\u0440\u0438\u0432\u0430\u0431\u043B\u0438\u0432\u043E\u0457 \u0436\u0456\u043D\u043A\u0438 \u0441\u0444\u043E\u0440\u043C\u0443\u0432\u0430\u0432\u0441\u044F \u0432 \u0435\u043F\u043E\u0445\u0443 \u0440\u043E\u0437\u043A\u0432\u0456\u0442\u0443 \u0440\u043E\u043C\u0430\u043D\u0442\u0438\u0437\u043C\u0443 \u0432 \u0437\u0430\u0445\u0456\u0434\u043D\u0456\u0439 \u043B\u0456\u0442\u0435\u0440\u0430\u0442\u0443\u0440\u0456 \u0456 \u043E\u0442\u0440\u0438\u043C\u0430\u0432 \u0441\u0432\u0456\u0439 \u0440\u043E\u0437\u0432\u0438\u0442\u043E\u043A \u0443 \u0432\u0456\u043A\u0442\u043E\u0440\u0456\u0430\u043D\u0441\u044C\u043A\u0443 \u0435\u043F\u043E\u0445\u0443. \u0412 \u0448\u0438\u0440\u043E\u043A\u043E\u043C\u0443 \u0437\u043D\u0430\u0447\u0435\u043D\u043D\u044F \u043F\u0456\u0434 \u0444\u0435\u044F\u043C\u0438 \u043F\u0440\u0438\u0439\u043D\u044F\u0442\u043E \u0440\u043E\u0437\u0443\u043C\u0456\u0442\u0438 \u0432\u0441\u0456 \u0441\u043F\u043E\u0440\u0456\u0434\u043D\u0435\u043D\u0456 \u043C\u0456\u0444\u043E\u043B\u043E\u0433\u0456\u0447\u043D\u0456 \u0456\u0441\u0442\u043E\u0442\u0438, \u044F\u043A\u0456 \u043D\u0435\u0440\u0456\u0434\u043A\u043E \u043A\u0430\u0440\u0434\u0438\u043D\u0430\u043B\u044C\u043D\u043E \u0432\u0456\u0434\u0440\u0456\u0437\u043D\u044F\u044E\u0442\u044C\u0441\u044F \u043E\u0434\u043D\u0430 \u0432\u0456\u0434 \u043E\u0434\u043D\u043E\u0457."@uk ,
+		"\uD398\uC5B4\uB9AC(fairy \uB610\uB294 faery, faerie)\uB294 \uC11C\uC591\uC758 \uC2E0\uD654\uB098 \uC804\uC124\uC5D0 \uB4F1\uC7A5\uD558\uB294 \uC2E0\uACFC \uC778\uAC04\uC758 \uC911\uAC04\uC801\uC778 \uC874\uC7AC\uC758 \uCD1D\uCE6D\uC73C\uB85C, \uC8FC\uB85C \uD55C\uAD6D\uC5D0\uC11C\uB294 \u2018\uC694\uC815\u2019\uC73C\uB85C \uBC88\uC5ED\uB418\uAE30\uB3C4 \uD55C\uB2E4. \uB2E4\uB978 \uC2E0\uD654\uB098 \uC804\uC2B9\uACFC \uB9C8\uCC2C\uAC00\uC9C0\uB85C \uD398\uC5B4\uB9AC\uC640 \uAD00\uB828\uB41C \uC2E0\uD654\uB098 \uC804\uC124 \uC5ED\uC2DC \uC9C0\uBC29\uC774\uB098 \uBBFC\uC871\uB9C8\uB2E4 \uC778\uAC04\uC5D0\uAC8C \uD638\uC758\uC801\uC778 \uAC83, \uC544\uB0B4\uB098 \uB0A8\uD3B8\uC73C\uB85C\uC11C \uD589\uB3D9\uD558\uB294 \uAC83, \uC0AC\uB78C\uC5D0\uAC8C \uC7A5\uB09C\uC744 \uCE58\uAC70\uB098 \uC18D\uC774\uAC70\uB098 \uBAA9\uC228\uC744 \uBE7C\uC557\uC73C\uB824\uACE0 \uD558\uB294 \uAC83, \uC7A5\uC560\uBB3C\uB85C\uC11C \uAC00\uB85C\uB9C9\uB294 \uAC83, \uC6B4\uBA85\uC744 \uC54C\uB824\uC8FC\uB294 \uAC83 \uB4F1 \uB2E4\uC591\uD55C \uAD00\uB828 \uC804\uC2B9\uC774 \uB0B4\uB824\uC624\uACE0 \uC788\uB2E4. \uCF54\uD305\uB9AC \uC694\uC815 \uC0AC\uAC74 \uC774\uD6C4\uBD80\uD130\uB294, \uD68C\uD654\uB098 \uBB38\uD559\uC5D0 \uB4F1\uC7A5\uD558\uB294 \uD398\uC5B4\uB9AC\uB294 \uB4F1\uC5D0 \uC7A0\uC790\uB9AC\uB098 \uB098\uBE44 \uB4F1 \uD558\uB298\uC744 \uB098\uB294 \uACE4\uCDA9\uC758 \uB0A0\uAC1C\uB97C \uB2EC\uACE0 \uC788\uB294 \uC791\uACE0 \uADC0\uC5EC\uC6B4 \uC778\uD615\uAC19\uC740 \uBAA8\uC2B5\uC73C\uB85C \uB4F1\uC7A5\uD558\uAC8C \uB41C\uB2E4. \uD398\uC5B4\uB9AC\uB77C\uB294 \uB9D0\uC740 \uB77C\uD2F4\uC5B4\uC758 \u2018fatum(\uC6B4\uBA85, \uC2E0\uD0C1)\u2019\uACFC \uADF8 \uB3D9\uC0AC\uD615\uC778 \u2018fatare(\uB9C8\uBC95\uC744 \uAC78\uB2E4)\u2019\uC5D0\uC11C \uC720\uB798\uD55C\uB2E4. \uD398\uC5B4\uB9AC\uC758 \uAE30\uC6D0\uC5D0 \uB300\uD574\uC11C\uB294 \uB2E4\uC591\uD55C \uC124\uC774 \uC788\uB294\uB370, \uC774\uAD50\uC758 \uC2E0\uC774\uB098 \uD1A0\uCC29\uC2E0\uC774 \uAE30\uB3C5\uAD50\uC758 \uC804\uD30C\uC5D0 \uC758\uD574 \uC2E0\uACA9\uC774 \uBC15\uD0C8\uB418\uBA74\uC11C \uADF8 \uD615\uD0DC\uAC00 \uBC14\uB010 \uAC83, \uC0AC\uD68C\uC801\uC73C\uB85C \uCC28\uBCC4\uC774\uB098 \uCD94\uBC29\uB2F9\uD55C \uC0AC\uB78C\uB4E4\uC744 \uBE44\uC720\uC801\uC73C\uB85C \uD45C\uD604\uD55C \uAC83, \uBA78\uC871\uB2F9\uD55C \uC61B\uB0A0 \uBBFC\uC871\uC758 \uAE30\uC5B5, \uC8FD\uC740 \uC790\uC758 \uC601\uD63C, \uD0C0\uB77D\uD55C \uCC9C\uC0AC, \uC544\uC774\uB4E4\uC5D0\uAC8C \uACBD\uAC01\uC2EC\uC744 \uBD88\uB7EC\uC77C\uC73C\uD0A4\uAE30 \uC704\uD55C \uC704\uD611\uC774\uB098 \uC608\uC220 \uC791\uD488 \uC548\uC5D0\uC11C\uC758 \uCC3D\uC791 \uB4F1\uC744 \uB4E4 \uC218 \uC788\uB2E4. \uD1A0\uB9C8\uC2A4 \uCE74\uC774\uD2B8\uB9AC\uB97C \uBE44\uB86F\uD55C \uC5ED\uC0AC\uAC00\uB098 \uC2E0\uD654 \uC5F0\uAD6C\uC790\uB294 \uBCF8\uB798 \uCF08\uD2B8\uC871\uC5D0\uAC8C\uB294 \uC774\uB7F0 \uC694\uC815\uC774 \uC5C6\uC5C8\uB294\uB370 11\uC138\uAE30 \uB178\uB974\uB9CC \uC815\uBC8C \uB54C \uADF8\uB808\uC774\uD2B8\uBE0C\uB9AC\uD2BC \uC12C\uC5D0 \uC0B4\uACE0 \uC788\uB358 \uC6D0\uC8FC\uBBFC\uB4E4\uC758 \uBBFC\uAC04 \uC804\uC2B9\uC5D0\uC11C \uB4E4\uC5EC\uC628 \uAC83\uC774\uB77C\uACE0 \uCD94\uCE21\uD558\uACE0 \uC788\uB2E4. \uC774\uB294 \uB3D9\uC2DC\uC5D0 \uAE30\uB3C5\uAD50\uC758 \uC804\uD30C\uB97C \uB098\uD0C0\uB0B4\uACE0 \uC788\uB2E4. \uADF8\uB807\uAE30 \uB54C\uBB38\uC5D0 \uCF08\uD2B8\uC871\uC758 \uC804\uC2B9\uC5D0\uC11C\uC758 \uD398\uC5B4\uB9AC\uB294 \uCC9C\uAD6D\uC5D0\uC11C \uCD94\uBC29\uB2F9\uD55C \uCC9C\uC0AC\uB4E4\uC778\uB370 \uC9C0\uC625\uC73C\uB85C \uB5A8\uC5B4\uC9C8 \uC815\uB3C4\uB85C \uC8C4\uAC00 \uD06C\uC9C0\uB294 \uC54A\uACE0, \uADF8\uB807\uB2E4\uACE0 \uCC9C\uAD6D\uC73C\uB85C \uB418\uB3CC\uC544\uAC08 \uC815\uB3C4\uB85C \uC8C4\uAC00 \uC791\uC9C0\uB3C4 \uC54A\uAE30 \uB54C\uBB38\uC5D0 \uC9C0\uC0C1\uC5D0 \uBA38\uBB3C\uACE0 \uC788\uB294 \uAC83\uC774\uB77C\uACE0 \uC804\uD574\uC9C4\uB2E4. \uC774\uB4E4\uC740 \uC9C0\uC0C1\uC5D0\uC11C \uBB34\uB9AC \uC9C0\uC5B4\uC11C \uC0B4\uAC70\uB098 \uD63C\uC790\uC11C\uB9CC \uB530\uB85C \uC0AC\uB294\uB370, \uCD5C\uD6C4\uC758 \uC2EC\uD310 \uB54C \uC790\uC2E0\uB4E4\uC758 \uC6B4\uBA85\uC774 \uC5B4\uB5BB\uAC8C \uB420 \uAC83\uC778\uAC00\uC5D0 \uB300\uD574 \uBB34\uCC99 \uAD81\uAE08\uD574\uD55C\uB2E4\uACE0 \uD55C\uB2E4. \uC778\uAC04\uC758 \uBAA8\uC2B5\uC744 \uCDE8\uD558\uACE0 \uC788\uC9C0 \uC54A\uC740 \uD398\uC5B4\uB9AC\uB3C4 \uC801\uC9C0 \uC54A\uB2E4. \uC5EC\uD589\uC790\uB97C \uC720\uD639\uD55C\uB2E4\uB294 \uBE5B\uC758 \uC815\uB839 \uC70C \uC624 \uC704\uC2A4\uD504\uB294 \uD55C\uAD6D\uC5D0\uC11C \uD754\uD788 \uB9D0\uD558\uB294 \uB3C4\uAE68\uBE44\uBD88\uC774\uB2E4. \uB4DC\uB798\uACE4\uACFC \uB354\uBD88\uC5B4 \uC70C \uC624 \uC704\uC2A4\uD504\uB294 \uB3D9\uD654\uC5D0\uC11C \uC8FC\uC778\uACF5\uC744 \uAC00\uB85C\uB9C9\uB294 \uC7A5\uD574\uB098 \uC801\uC73C\uB85C\uC11C \uB4F1\uC7A5\uD558\uB294 \uACBD\uC6B0\uAC00 \uB9CE\uB2E4. \uAC00\uCD95\uACFC \uCE5C\uBC00\uD55C \uB3D9\uBB3C \uBAA8\uC2B5\uC758 \uD398\uC5B4\uB9AC\uB3C4 \uB9CE\uB2E4. \uACE0\uC591\uC774\uB294 \uC694\uC815\uC801\uC778 \uC0DD\uBB3C\uB85C \uC5EC\uACA8\uC838 \uB9C8\uB140\uC758 \uC560\uC644\uB3D9\uBB3C\uB85C\uC11C \uC790\uC8FC \uB4F1\uC7A5\uD558\uBA70, \uACE0\uC591\uC774 \uBAA8\uC2B5\uC758 \uC694\uC815\uC778 \uCEA3\uC2DC\uB77C\uB294 \uC885\uB958\uB3C4 \uC788\uB2E4. \uAC1C\uC758 \uD615\uD0DC\uB97C \uD55C \uC694\uC815\uC740 \uC544\uC11C \uCF54\uB09C \uB3C4\uC77C\uC758 \uBC14\uC2A4\uCE74\uBE4C\uAC00\uC758 \uAC1C\uB098 \uC870\uC564 \uB864\uB9C1\uC758 \uD574\uB9AC\uD3EC\uD130 \uC2DC\uB9AC\uC988\uC5D0\uC11C \uB4F1\uC7A5\uD55C\uB2E4. \uC77C\uBC18\uC801\uC73C\uB85C \uC54C\uB824\uC9C4 \uD398\uC5B4\uB9AC\uB294 \uC601\uC6D0\uBD88\uBA78\uC758 \uC874\uC7AC\uB85C \uB2EC\uBC24, \uACE0\uC694\uD568, \uC74C\uC545 \uB4F1\uC744 \uC88B\uC544\uD558\uBA70 \uCCA0\uC774\uB098 \uD587\uBE5B, \uC2ED\uC790\uAC00, \uAD50\uD68C \uB4F1 \uC2E0\uC131\uD55C \uC874\uC7AC\uB97C \uC2EB\uC5B4\uD55C\uB2E4\uACE0 \uC54C\uB824\uC838 \uC788\uB2E4. \uB610\uD55C \uB3D9\uBB3C\uC758 \uC816, \uC1E0\uACE0\uAE30, \uB2E4\uB978 \uC0DD\uBB3C\uC758 \uC0DD\uBA85\uB825, \uACFC\uC77C\uC774\uB098 \uCC44\uC18C \uB4F1\uC744 \uC2DD\uB7C9\uC73C\uB85C \uC12D\uCDE8\uD55C\uB2E4. \uB610\uD55C \uD398\uC5B4\uB9AC\uB294 \uC7A5\uB09C\uC744 \uBB34\uCC99 \uC88B\uC544\uD558\uC9C0\uB9CC \uADF8 \uC774\uC0C1\uC758 \uB098\uC05C \uC9D3\uC740 \uAC70\uC758 \uD558\uC9C0 \uC54A\uB294\uB2E4. \uADF8\uB4E4\uC758 \uAC00\uC7A5 \uC9D3\uAD82\uC740 \uC7A5\uB09C\uC740 \uC77C\uBA85 \u2018\uC544\uC774 \uBC14\uAFD4\uCE58\uAE30(Changeling)\u2019\uB77C\uB294 \uAC83\uC778\uB370, \uB9D0 \uADF8\uB300\uB85C \uC778\uAC04\uC758 \uC544\uC774\uB97C \uD6D4\uCCD0\uC11C \uADF8 \uB300\uC2E0 \uBABB\uC0DD\uAE30\uACE0 \uBA87\uCC9C \uC0B4\uC774\uB098 \uB098\uC774 \uBA39\uC740 \uB299\uC740 \uC694\uC815\uC744 \uB193\uACE0 \uAC00\uB294 \uAC83\uC774\uB2E4. \uADF8\uB7EC\uB098 \uD604\uB300\uC5D0 \uB4E4\uC5B4\uC624\uBA74\uC11C \uD398\uC5B4\uB9AC\uB294 \uC778\uAC04\uC5D0\uAC8C \uD638\uC758\uC801\uC774\uACE0 \uC0C1\uB0E5\uD55C \uC131\uACA9\uC758 \uC0DD\uBB3C\uB85C \uC5EC\uACA8\uC9C0\uAC8C \uB41C\uB2E4."@ko ,
+		"Un hada (del lat\u00EDn fatum: hado, destino) es una criatura fant\u00E1stica y sutil. Se las representa generalmente en forma de mujer hermosa y bella con alas de mariposa. Seg\u00FAn la tradici\u00F3n son protectoras de la naturaleza, producto de la imaginaci\u00F3n, la tradici\u00F3n o las creencias y pertenecientes a ese fabuloso mundo de los elfos, gnomos, duendes, dioses, sirenas y gigantes que da color a las leyendas y mitolog\u00EDas de todos los pueblos antiguos. Se puede provocar el contacto con ellas desarrollando la visi\u00F3n et\u00E9rea seg\u00FAn las leyendas. La mayor\u00EDa de ellas se representan con alas. Se conoce de un caso en el que Sir Arthur Conan Doyle, creador de Sherlock Holmes, fue enga\u00F1ado por unas ni\u00F1as que se fotografiaron con figuras de papel en forma de hadas, a las que el consagrado escritor atribuy\u00F3 autenticidad."@es ,
+		"\u062C\u0646\u064A\u0629  \u0647\u064A \u0639\u0628\u0627\u0631\u0629 \u0639\u0646 \u0645\u062E\u0644\u0648\u0642 \u0623\u0633\u0637\u0648\u0631\u064A \u0645\u0630\u0643\u0648\u0631 \u0641\u064A \u0627\u0644\u062A\u0631\u0627\u062B \u0627\u0644\u0634\u0639\u0628\u064A \u0627\u0644\u0639\u0631\u0628\u064A \u0648\u0628\u0635\u0641\u0629 \u0627\u0644\u0639\u0627\u0645\u0629 \u0627\u0644\u0639\u0627\u0644\u0645\u064A\u060C \u0648\u0628\u0636\u0645\u0646\u0647 \u0627\u0644\u0623\u0648\u0631\u0648\u0628\u064A. \u0648\u0635\u0641\u062A \u0627\u0644\u062C\u0646\u064A\u0627\u062A \u0639\u0644\u0649 \u0627\u0646\u0647\u0627 \u0643\u0627\u0626\u0646\u0627\u062A \u0641\u064A \u063A\u0627\u064A\u0629 \u0627\u0644\u062C\u0645\u0627\u0644\u060C \u0628\u064A\u0636\u0627\u0621 \u062C\u062F\u0627\u060C \u0648\u0641\u064A \u0627\u0644\u063A\u0627\u0644\u0628 \u062A\u062A\u0648\u0627\u062C\u062F \u0628\u0627\u0644\u0642\u0631\u0628 \u0645\u0646 \u0627\u0644\u063A\u0627\u0628\u0627\u062A \u0648\u0627\u0644\u0645\u064A\u0627\u0647. \u0627\u0644\u0623\u0633\u0627\u0637\u064A\u0631 \u0648\u0627\u0644\u0642\u0635\u0635 \u062D\u0648\u0644 \u0627\u0644\u062C\u0646\u064A\u0627\u062A \u0644\u064A\u0633 \u0644\u0647\u0627 \u0623\u0635\u0644 \u0648\u0627\u062D\u062F\u060C \u0648\u0644\u0643\u0646\u0647\u0627 \u0628\u0627\u0644\u0623\u062D\u0631\u0649 \u0645\u062C\u0645\u0648\u0639\u0629 \u0645\u0646 \u0627\u0644\u0645\u0639\u062A\u0642\u062F\u0627\u062A \u0627\u0644\u0634\u0639\u0628\u064A\u0629 \u0645\u0646 \u0645\u0635\u0627\u062F\u0631 \u0645\u062A\u0628\u0627\u064A\u0646\u0629. \u0641\u064A \u0628\u0639\u0636 \u0627\u0644\u0623\u062D\u064A\u0627\u0646\u060C \u0644\u0627 \u064A\u0646\u0637\u0628\u0642 \u0627\u0633\u0645 \u0627\u0644\u062C\u0646\u064A\u0629 \u0625\u0644\u0627 \u0639\u0644\u0649 \u0645\u062E\u0644\u0648\u0642\u0627\u062A \u0633\u062D\u0631\u064A\u0629 \u0645\u062D\u062F\u062F\u0629 \u0630\u0627\u062A \u0645\u0638\u0647\u0631 \u0628\u0634\u0631\u064A\u060C \u0648\u0642\u0627\u0645\u0629 \u0635\u063A\u064A\u0631\u0629\u060C \u0648\u0642\u0648\u0649 \u0633\u062D\u0631\u064A\u0629\u060C \u0648\u0645\u064A\u0644 \u0625\u0644\u0649 \u0627\u0644\u062E\u062F\u0627\u0639. \u0648\u0641\u064A \u0623\u062D\u064A\u0627\u0646 \u0623\u062E\u0631\u0649 \u0642\u062F \u062A\u0645 \u0627\u0633\u062A\u062E\u062F\u0627\u0645\u0647\u0627 \u0644\u0648\u0635\u0641 \u0623\u064A \u0645\u062E\u0644\u0648\u0642 \u0633\u062D\u0631\u064A\u060C \u0645\u062B\u0644 \u0627\u0644\u0639\u0641\u0627\u0631\u064A\u062A \u0648\u0627\u0644\u062A\u0645\u0627\u062B\u064A\u0644. \u0648\u0642\u062F \u0627\u0633\u062A\u062E\u062F\u0645\u062A \u0627\u0644\u062C\u0646\u064A\u0629 \u0641\u064A \u0628\u0639\u0636 \u0627\u0644\u0623\u062D\u064A\u0627\u0646 \u0643\u0635\u0641\u0629\u060C \u0628\u0645\u0639\u0646\u0649 \u0623\u0646\u0647\u0627 \u062A\u0643\u0648\u0646 \u0645\u0634\u0627\u0628\u0647 \u0644\u0640 \"\u0627\u0644\u0633\u062D\u0631\". \u0642\u0628\u0644 \u0638\u0647\u0648\u0631 \u0627\u0644\u0637\u0628 \u0627\u0644\u062D\u062F\u064A\u062B\u060C \u0627\u062A\u0647\u0645\u062A \u0627\u0644\u062C\u0646\u064A\u0627\u062A \u0623\u0646\u0647\u0627 \u0645\u0633\u0628\u0628\u0647 \u0644\u0644\u0645\u0631\u0636\u060C \u0648\u062E\u0627\u0635\u0629 \u0627\u0644\u0633\u0644. \u0643\u0627\u0646\u062A \u0644\u0644\u062C\u0646\u064A\u0627\u062A \u0633\u0645\u0629 \u0645\u0634\u062A\u0631\u0643\u0629 \u0641\u064A \u0623\u062F\u0628 \u0639\u0635\u0631 \u0627\u0644\u0646\u0647\u0636\u0629 \u0648\u0627\u0644\u0641\u0646 \u0627\u0644\u0631\u0648\u0645\u0627\u0646\u0633\u064A\u060C \u0648\u0643\u0627\u0646 \u0644\u0647\u0627 \u0634\u0639\u0628\u064A\u0629 \u062E\u0627\u0635\u0629 \u0641\u064A \u0627\u0644\u0645\u0645\u0644\u0643\u0629 \u0627\u0644\u0645\u062A\u062D\u062F\u0629 \u062E\u0644\u0627\u0644 \u0627\u0644\u0639\u0635\u0631 \u0627\u0644\u0641\u064A\u0643\u062A\u0648\u0631\u064A \u0648\u0627\u0644\u0639\u0635\u0631 \u0627\u0644\u0625\u062F\u0648\u0627\u0631\u062F\u064A."@ar ,
+		"\u0424\u0435\u044F (\u0430\u0432\u0435\u0441\u0442. \u043F\u0430\u0440\u0438\u043A\u0430 \u2014 \u0432\u0435\u0434\u044C\u043C\u0430, \u0444\u0430\u0440\u0441\u0438 \u067E\u0631\u06CC \u041F\u0435\u0301\u0440\u0438, \u0444\u0440. fee, \u0430\u043D\u0433\u043B. fairy \u2014 \u0442\u0430\u043A\u0436\u0435 faery, faerie, fay, fae; \u00AB\u043C\u0430\u043B\u0435\u043D\u044C\u043A\u0438\u0435 \u043B\u044E\u0434\u0438\u00BB, \u00AB\u0445\u043E\u0440\u043E\u0448\u0438\u0435 \u043B\u044E\u0434\u0438\u00BB, \u00AB\u043F\u0440\u0435\u043A\u0440\u0430\u0441\u043D\u044B\u0435 \u043B\u044E\u0434\u0438\u00BB \u0438 \u0442. \u0434.) \u2014 \u0432 \u043A\u0435\u043B\u044C\u0442\u0441\u043A\u043E\u043C \u0438 \u0433\u0435\u0440\u043C\u0430\u043D\u0441\u043A\u043E\u043C \u0444\u043E\u043B\u044C\u043A\u043B\u043E\u0440\u0435 \u2014 \u043C\u0438\u0444\u043E\u043B\u043E\u0433\u0438\u0447\u0435\u0441\u043A\u043E\u0435 \u0441\u0443\u0449\u0435\u0441\u0442\u0432\u043E \u043C\u0435\u0442\u0430\u0444\u0438\u0437\u0438\u0447\u0435\u0441\u043A\u043E\u0439 \u043F\u0440\u0438\u0440\u043E\u0434\u044B, \u043E\u0431\u043B\u0430\u0434\u0430\u044E\u0449\u0435\u0435 \u043D\u0435\u043E\u0431\u044A\u044F\u0441\u043D\u0438\u043C\u044B\u043C\u0438, \u0441\u0432\u0435\u0440\u0445\u044A\u0435\u0441\u0442\u0435\u0441\u0442\u0432\u0435\u043D\u043D\u044B\u043C\u0438 \u0441\u043F\u043E\u0441\u043E\u0431\u043D\u043E\u0441\u0442\u044F\u043C\u0438, \u0432\u0435\u0434\u0443\u0449\u0435\u0435 \u0441\u043A\u0440\u044B\u0442\u044B\u0439 (\u043A\u0430\u043A \u043A\u043E\u043B\u043B\u0435\u043A\u0442\u0438\u0432\u043D\u044B\u0439, \u0442\u0430\u043A \u0438 \u043E\u0431\u043E\u0441\u043E\u0431\u043B\u0435\u043D\u043D\u044B\u0439) \u043E\u0431\u0440\u0430\u0437 \u0436\u0438\u0437\u043D\u0438 \u0438 \u043F\u0440\u0438 \u044D\u0442\u043E\u043C \u0438\u043C\u0435\u044E\u0449\u0435\u0435 \u0441\u0432\u043E\u0439\u0441\u0442\u0432\u043E \u0432\u043C\u0435\u0448\u0438\u0432\u0430\u0442\u044C\u0441\u044F \u0432 \u043F\u043E\u0432\u0441\u0435\u0434\u043D\u0435\u0432\u043D\u0443\u044E \u0436\u0438\u0437\u043D\u044C \u0447\u0435\u043B\u043E\u0432\u0435\u043A\u0430 \u2014 \u043F\u043E\u0434 \u0432\u0438\u0434\u043E\u043C \u0434\u043E\u0431\u0440\u044B\u0445 \u043D\u0430\u043C\u0435\u0440\u0435\u043D\u0438\u0439, \u043D\u0435\u0440\u0435\u0434\u043A\u043E \u043F\u0440\u0438\u0447\u0438\u043D\u044F\u044F \u0432\u0440\u0435\u0434. \u041E\u0431\u0440\u0430\u0437 \u0444\u0435\u0438 \u043A\u0430\u043A \u0438\u0437\u044B\u0441\u043A\u0430\u043D\u043D\u043E-\u043F\u0440\u0438\u0432\u043B\u0435\u043A\u0430\u0442\u0435\u043B\u044C\u043D\u043E\u0439, \u043A\u0430\u043A \u043F\u0440\u0430\u0432\u0438\u043B\u043E, \u043C\u0438\u043D\u0438\u0430\u0442\u044E\u0440\u043D\u043E\u0439 \u0436\u0435\u043D\u0449\u0438\u043D\u044B, \u0441\u0444\u043E\u0440\u043C\u0438\u0440\u043E\u0432\u0430\u043B\u0441\u044F \u0432 \u044D\u043F\u043E\u0445\u0443 \u0440\u0430\u0441\u0446\u0432\u0435\u0442\u0430 \u0440\u043E\u043C\u0430\u043D\u0442\u0438\u0437\u043C\u0430 \u0432 \u0437\u0430\u043F\u0430\u0434\u043D\u043E\u0439 \u043B\u0438\u0442\u0435\u0440\u0430\u0442\u0443\u0440\u0435 \u0438 \u043F\u043E\u043B\u0443\u0447\u0438\u043B \u0441\u0432\u043E\u0451 \u0440\u0430\u0437\u0432\u0438\u0442\u0438\u0435 \u0432 \u0432\u0438\u043A\u0442\u043E\u0440\u0438\u0430\u043D\u0441\u043A\u0443\u044E \u044D\u043F\u043E\u0445\u0443. \u0412 \u0448\u0438\u0440\u043E\u043A\u043E\u043C \u0441\u043C\u044B\u0441\u043B\u0435 \u043F\u043E\u0434 \u00AB\u0444\u0435\u044F\u043C\u0438\u00BB \u0432 \u0437\u0430\u043F\u0430\u0434\u043D\u043E\u0435\u0432\u0440\u043E\u043F\u0435\u0439\u0441\u043A\u043E\u043C \u0444\u043E\u043B\u044C\u043A\u043B\u043E\u0440\u0435 \u043F\u0440\u0438\u043D\u044F\u0442\u043E \u043F\u043E\u0434\u0440\u0430\u0437\u0443\u043C\u0435\u0432\u0430\u0442\u044C \u0432\u0441\u0451 \u043C\u043D\u043E\u0433\u043E\u043E\u0431\u0440\u0430\u0437\u0438\u0435 \u0440\u043E\u0434\u0441\u0442\u0432\u0435\u043D\u043D\u044B\u0445 \u043C\u0438\u0444\u043E\u043B\u043E\u0433\u0438\u0447\u0435\u0441\u043A\u0438\u0445 \u0441\u0443\u0449\u0435\u0441\u0442\u0432, \u043D\u0435\u0440\u0435\u0434\u043A\u043E \u043A\u0430\u0440\u0434\u0438\u043D\u0430\u043B\u044C\u043D\u043E \u043E\u0442\u043B\u0438\u0447\u0430\u044E\u0449\u0438\u0445\u0441\u044F \u0434\u0440\u0443\u0433 \u043E\u0442 \u0434\u0440\u0443\u0433\u0430 \u0438 \u0432\u043D\u0435\u0448\u043D\u043E\u0441\u0442\u044C\u044E, \u0438 \u043F\u043E\u0432\u0430\u0434\u043A\u0430\u043C\u0438; \u044F\u043A\u043E\u0431\u044B \u0434\u0440\u0443\u0436\u0435\u043B\u044E\u0431\u043D\u044B\u0445 \u0438 \u043F\u0440\u0438\u043D\u043E\u0441\u044F\u0449\u0438\u0445 \u0443\u0434\u0430\u0447\u0443, \u0447\u0430\u0449\u0435 \u2014 \u043B\u0443\u043A\u0430\u0432\u044B\u0445 \u0438 \u043C\u0441\u0442\u0438\u0442\u0435\u043B\u044C\u043D\u044B\u0445, \u0441\u043A\u043B\u043E\u043D\u043D\u044B\u0445 \u043A \u0437\u043B\u044B\u043C \u0448\u0443\u0442\u043A\u0430\u043C \u0438 \u043F\u043E\u0445\u0438\u0449\u0435\u043D\u0438\u044F\u043C \u2014 \u043F\u0440\u0435\u0436\u0434\u0435 \u0432\u0441\u0435\u0433\u043E, \u043C\u043B\u0430\u0434\u0435\u043D\u0446\u0435\u0432.."@ru ,
+		"\u30D5\u30A7\u30A2\u30EA\u30FC\uFF08\u82F1: fairy \u307E\u305F\u306F faery\uFF09\u306F\u3001\u4E3B\u306B\u5996\u7CBE\u3068\u8A33\u3055\u308C\u897F\u6D0B\u306E\u795E\u8A71\u3084\u4F1D\u8AAC\u306B\u767B\u5834\u3059\u308B\u3001\u8D85\u81EA\u7136\u7684\u306A\u5B58\u5728\u3001\u4EBA\u9593\u3068\u795E\u306E\u4E2D\u9593\u7684\u306A\u5B58\u5728\u306E\u7DCF\u79F0\u3002\u4EBA\u3068\u3082\u795E\u3068\u3082\u9055\u3046\u6027\u683C\u3068\u884C\u52D5\u306F\u3001\u3057\u3070\u3057\u3070\u6C17\u307E\u3050\u308C\u3068\u5F62\u5BB9\u3055\u308C\u308B\u3002\u540D\u524D\u306F\u30E9\u30C6\u30F3\u8A9E\u3067\u904B\u547D\u3092\u610F\u5473\u3059\u308B\u300CFata\u300D\u3068\u3044\u3046\u8A00\u8449\u306B\u7531\u6765\u3059\u308B\u3002\u8AAC\u306B\u3088\u3063\u3066\u306F\u5143\u3005\u306F\u795E\u306E\u4F7F\u3044\u3067\u3042\u3063\u305F\u3068\u3044\u3082\u3055\u308C\u3066\u3044\u308B\u3002"@ja ,
+		"\u5C0F\u4ED9\u5B50\uFF08Fairy\uFF09\uFF0C\u662F\u897F\u65B9\u6587\u5316\u88E1\u4E00\u7A2E\u50B3\u8AAA\u751F\u7269\u3002\u5176\u9AD4\u578B\u5B0C\u5C0F\uFF0C\u4E00\u822C\u9577\u6709\u7FC5\u8180\u3002 \u5728\u897F\u65B9\u6C11\u95F4\u4F20\u8BF4\u4E2D\uFF0C\u5B83\u4EEC\u5E76\u975E\u4EBA\u7C7B\uFF0C\u4F46\u957F\u7740\u4EBA\u7C7B\u5916\u8868\uFF0C\u4E14\u62E5\u6709\u8D85\u81EA\u7136\u7684\u80FD\u529B\u3002 \u5B83\u4EEC\u4E00\u822C\u88AB\u8BA4\u4E3A\u662F\u4F5C\u4E3A\u4E0Edemon\u76F8\u5BF9\u5E94\u7684\u5B58\u5728\uFF08fairy&demon\uFF09\u3002\u5728\u6700\u65E9\u7684\u897F\u65B9\u6C11\u95F4\u4F20\u8BF4\u4E2D\uFF0CFairy\u4E0Edemon\u53EF\u6B63\u53EF\u90AA\uFF0C\u7136\u800C\u73B0\u5728\u666E\u904D\u8BA4\u4E3Afairy\u4E00\u822C\u6B63\u4E49\uFF0Cdemon\u4E00\u822C\u90AA\u6076\u3002 \u897F\u65B9\u6C11\u95F4\u4F20\u8BF4\u4E2D\uFF0CFairy\u7684\u6982\u5FF5\u88AB\u8BA4\u4E3A\u6765\u6E90\u4E8EAnimism\uFF08\u4E07\u7269\u6709\u7075\uFF09\uFF0C\u6216\u81F3\u5C11\u4E0E\u5176\u6709\u5173\u3002\u4F8B\u5982\uFF0C\u4EBA\u4EEC\u60E7\u6015\u67D0\u4E9B\u81EA\u7136\u73B0\u8C61\uFF0C\u5219\u5728\u6C11\u95F4\u5C31\u4F1A\u6709\u201C\u90A3\u91CC\u4F4F\u7740\u9B3C\u602A\u201D\u7684\u4F20\u8BF4\u3002 \u82F1\u6587\u5B57\u7684\u300Cfairy\u300D\u6709\u6642\u4E5F\u80FD\u4F5C\u70BA\u5C0D\u7CBE\u9748\u3001\u77EE\u4EBA\u3001\u5730\u7CBE\u548C\u54E5\u5E03\u6797\u7B49\u5404\u7A2E\u5916\u5F62\u63A5\u8FD1\u4EBA\u6216\u5177\u6709\u8D85\u81EA\u7136\u529B\u91CF\u7684\u751F\u7269\u7E3D\u7A31\u3002\u5728\u9019\u6A23\u7684\u60C5\u6CC1\u4E0B\uFF0C\u300Cfairy\u300D\u5C31\u6703\u88AB\u7FFB\u8B6F\u6210\u7CBE\u9748\u3002"@zh ,
+		"Fe (ytterst av medeltidslatinets fata, '\u00F6desgudinna') \u00E4r ett s\u00E4rskilt i romanska folksagor f\u00F6rekommande \u00F6vernaturligt kvinnligt v\u00E4sen. Fr\u00E5n romanska l\u00E4nder har de importerats till Storbritannien, d\u00E4r de fr\u00E4mst f\u00F6rekommer i konstsagor. De bor ibland i ett mer eller mindre utomv\u00E4rldsligt rike ofta kallat Faerie eller Faerieland, som till sitt ursprung \u00E4r besl\u00E4ktat med s\u00EDd eller s\u00EDdhe i den keltiska mytologin. I brittisk folktro har de, s\u00E5som fairies, identifierats med diverse inhemska v\u00E4sen, bland annat med alver (engelska elves). Detta eftersom begreppet fairy i \u00E4ldre engelsk folkloristik anv\u00E4nds p\u00E5 samma vis som svenskans \"v\u00E4sen\", och allts\u00E5 ocks\u00E5 kan anv\u00E4ndas f\u00F6r att beskriva varelser i utombrittisk eller rent av utomeuropeisk folklore. I folketymologi har man t\u00E4nkt sig ordet som en f\u00F6rkortning av the fair folk eller dylikt; fair har emellertid samma germanska ursprung som svenskans \"fager\". P\u00E5 svenska \u00F6vers\u00E4tts orden (f\u00E9e, fairy, osv.) ibland som \u00E4lva; det finns dock ingen direkt historisk koppling mellan \u00E4lvor och feer, utan det har att g\u00F6ra med en sammanblandning mellan \u00E4lvor och alver, och den ovan n\u00E4mnda sammanblandningen mellan alver och feer. Fairy tale betyder saga. Sir Arthur Conan Doyle har skrivit en bok som heter The coming of the Fairies. Han blev lurad av n\u00E5gra unga flickor, sexton\u00E5riga Elsie Wright och hennes tio\u00E5riga kusin Frances Griffith, att tro att de hade tagit foton p\u00E5 \u00E4lvor. 1983 erk\u00E4nde den 76-\u00E5riga Frances Griffith att bilderna var f\u00F6rfalskningar, se Cottingley Fairies. Om det kan man l\u00E4sa i boken Vetenskap och ovetenskap av Sven Ove Hansson."@sv ,
+		"Feen sind nach romanischer und keltischer Volkssage geisterhafte, mit h\u00F6heren Kr\u00E4ften begabte Fabelwesen, die sowohl weiblich als auch m\u00E4nnlich sein k\u00F6nnen. Begriff und Name entwickelten sich aus den r\u00F6mischen Schicksalsg\u00F6ttinnen, den Fata (vgl. Parzen), lat. Fatua, ital. Fata, span. Hada, franz. F\u00E9e. In der deutschen Poesie des Mittelalters kommen sie unter dem Namen Feien oder Feinen vor und sind mythologisch mit den sogenannten wei\u00DFen Frauen und den Nornen verwandt. Im slawischen Raum sind sie als Wilen bekannt, im inselkeltischen als Sidhe."@de ,
+		"Maitagarria izaki mitologikoa da, gehienetan emakume eder baten gisa irudikatua, usadioaren arabera naturaren babesleak dira, siniskera, mitologia eta ohituren ondorioz sortuak. Gehienak hegalekin irudikatu ohi dira. Maitagarri-ipuinetako ohiko pertsonaia da."@eu ,
+		"Een fee is een mythisch wezen, algemeen omschreven als antropomorf en vrouwelijk. Het wezen is van grote schoonheid, kan geschenken brengen aan pasgeborenen, kan vliegen, toveren, wensen vervullen en heeft invloed op de toekomst. De eigenschappen van een fee verschillen per gebied en cultuur. Zo zou een fee een gevallen engel zijn, een elementaal, een spook of zelfs menselijk. Een fee is soms klein, maar in andere gevallen van normaal postuur. Ze kan een jong uiterlijk hebben, maar ook dat van een oude vrouw. Fee\u00EBn zijn nauw verbonden met de krachten van de natuur en het concept van de parallelle wereld. Er is een grote verscheidenheid van (in het algemeen vrouwelijke) wezens die als fee worden beschouwd, zoals witte wieven, sirenes, nimfen, Rhiannon, Morgana, de Vrouwe van het Meer, Melusine en Befana. In veel gevallen lopen de begrippen heks en fee in elkaar over. De Angelsaksen gebruikten de term fee ook om kleine antropomorfe wezens uit de heidense folklore aan te duiden, zoals een elf, kabouter, lutin, imp of dwerg."@nl ,
+		"Feoj estas magia malgranda popolo de E\u016Dropaj fabeloj. Feo ordinare havas insektajn flugilojn."@eo ,
+		"A fairy (also fay, fae, fair folk) is a type of mythical being or legendary creature found in the folklore of multiple European cultures (including Celtic, Slavic, German, English, and French folklore), a form of spirit, often described as metaphysical, supernatural, or preternatural. Myths and stories about fairies do not have a single origin, but are rather a collection of folk beliefs from disparate sources. Various folk theories about the origins of fairies include casting them as either demoted angels or demons in a Christian tradition, as minor deities in Pagan belief systems, as spirits of the dead, as prehistoric precursors to humans, or as elementals. The label of fairy has at times applied only to specific magical creatures with human appearance, small stature, magical powers, and a penchant for trickery. At other times it has been used to describe any magical creature, such as goblins and gnomes. Fairy has at times been used as an adjective, with a meaning equivalent to \"enchanted\" or \"magical\". A recurring motif of legends about fairies is the need to ward off fairies using protective charms. Common examples of such charms include church bells, wearing clothing inside out, four-leaf clover, and food. Fairies were also sometimes thought to haunt specific locations, and to lead travelers astray using will-o'-the-wisps. Before the advent of modern medicine, fairies were often blamed for sickness, particularly tuberculosis and birth deformities. In addition to their folkloric origins, fairies were a common feature of Renaissance literature and Romantic art, and were especially popular in the United Kingdom during the Victorian and Edwardian eras. The Celtic Revival also saw fairies established as a canonical part of Celtic cultural heritage."@en ,
+		"Si\u00F3g a thugtar ar dhuine den lucht s\u00ED. B\u00EDonn riocht duine ar shi\u00F3ga de ghn\u00E1th, c\u00E9 go bhfuil difr\u00EDochta\u00ED suntasacha idir an d\u00E1 chine, agus t\u00E1 na cine\u00E1lacha si\u00F3ige \u00E9ags\u00FAil lena ch\u00E9ile freisin. I gcontr\u00E1rthacht leis an smaoineamh nua-aimseartha B\u00E9arla, n\u00ED daoine beaga agus sciath\u00E1in orthu iad na si\u00F3ga ar fad, de r\u00E9ir thraidisi\u00FAn na h\u00C9ireann; t\u00E1 cuid de na si\u00F3ga, cuir i gc\u00E1s na fir dhearga, n\u00EDos m\u00F3 n\u00E1 m\u00E9id duine, agus t\u00E1 si\u00F3ga eile, ar n\u00F3s na mban s\u00ED, ar mh\u00E9id duine norm\u00E1lta. De r\u00E9ir an tseanchais, s\u00EDolra\u00EDonn cuid mhaith de na si\u00F3ga \u00F3 Thuatha D\u00E9 Danann, a dibr\u00EDodh go dt\u00ED liosanna, r\u00E1thanna agus cnoic na h\u00C9ireann nuair a maidhmeadh orthu sa gcogadh in aghaidh Lucht Mh\u00EDl Easp\u00E1ine, \u00F3na s\u00EDolra\u00EDonn Gaeil an lae inniu. De r\u00E9ir sc\u00E9alta eile, is aingil iad a thit go talamh \u00F3 na Flaithis toisc nach raibh siad s\u00E1ch maith chun fanacht ar neamh agus nach raibh siad s\u00E1ch olc chun dul go hifreann.I gceantair \u00E1irithe, ba gheis an lucht s\u00ED a lua, agus cumadh neart leasainmneacha orthu d\u00E1 bharr, mar shampla \"na daoine maithe\" agus \"na daoine \u00E1in\". Creideadh go forleathan sna si\u00F3ga go dt\u00ED t\u00FAs an 20\u00FA aois san Eoraip; is beag duine a chreideann iontu sa l\u00E1 at\u00E1 inni\u00FA ann. Is iad seo a leanas na pr\u00EDomhchine\u00E1lacha si\u00F3ige in \u00C9irinn: bean s\u00ED, p\u00FAca, leipreach\u00E1n, fear dearg, maighdean mhara, s\u00EDofra."@ga ,
+		"\u039F\u03B9 \u039D\u03B5\u03C1\u03AC\u03B9\u03B4\u03B5\u03C2 \u03B5\u03AF\u03BD\u03B1\u03B9 \u03B4\u03B1\u03B9\u03BC\u03BF\u03BD\u03B9\u03BA\u03AC, \u03BA\u03B1\u03C4\u03AC \u03BA\u03B1\u03BD\u03CC\u03BD\u03B1 \u03C9\u03C1\u03B1\u03AF\u03B1, \u03B1\u03B3\u03B1\u03B8\u03AC, \u03AE, \u03BA\u03B1\u03C4\u03AC \u03C4\u03B9\u03C2 \u03C0\u03B5\u03C1\u03B9\u03C3\u03C4\u03AC\u03C3\u03B5\u03B9\u03C2, \u03B2\u03BB\u03B1\u03C0\u03C4\u03B9\u03BA\u03AC \u03CC\u03BD\u03C4\u03B1 \u03C4\u03B7\u03C2 \u03BB\u03B1\u03CA\u03BA\u03AE\u03C2 \u03C6\u03B1\u03BD\u03C4\u03B1\u03C3\u03AF\u03B1\u03C2. \u039F\u03B9 \u03BD\u03B5\u03C1\u03AC\u03B9\u03B4\u03B5\u03C2, \u03C0\u03BF\u03C5 \u03BA\u03BB\u03CE\u03B8\u03BF\u03C5\u03BD, \u03C5\u03C6\u03B1\u03AF\u03BD\u03BF\u03C5\u03BD \u03BA\u03B1\u03B9 \u03C4\u03C1\u03B1\u03B3\u03BF\u03C5\u03B4\u03BF\u03CD\u03BD, \u03AD\u03C7\u03BF\u03C5\u03BD \u03B1\u03C3\u03C5\u03BD\u03AE\u03B8\u03B5\u03B9\u03C2 \u03B4\u03C5\u03BD\u03AC\u03BC\u03B5\u03B9\u03C2 (\u03B3\u03AF\u03BD\u03BF\u03BD\u03C4\u03B1\u03B9 \u03B1\u03CC\u03C1\u03B1\u03C4\u03B5\u03C2, \u03BC\u03B5\u03C4\u03B1\u03BC\u03BF\u03C1\u03C6\u03CE\u03BD\u03BF\u03BD\u03C4\u03B1\u03B9 \u03BA\u03B1\u03B9 \u03BC\u03B5\u03C4\u03B1\u03BC\u03BF\u03C1\u03C6\u03CE\u03BD\u03BF\u03C5\u03BD), \u03B4\u03B9\u03B5\u03C5\u03B8\u03CD\u03BD\u03BF\u03C5\u03BD \u03C4\u03B7\u03BD \u03B1\u03BD\u03B8\u03C1\u03CE\u03C0\u03B9\u03BD\u03B7 \u03C4\u03CD\u03C7\u03B7, \u03C4\u03B7\u03BD \u03BA\u03B1\u03B8\u03BF\u03C1\u03AF\u03B6\u03BF\u03C5\u03BD \u03BC\u03AC\u03BB\u03B9\u03C3\u03C4\u03B1 \u03BC\u03B5 \u03C4\u03B9\u03C2 \u03BA\u03B1\u03BB\u03AD\u03C2 \u03AE \u03BA\u03B1\u03BA\u03AD\u03C2 \u03B5\u03C5\u03C7\u03AD\u03C2 \u03C4\u03BF\u03C5\u03C2. \u0394\u03B9\u03AC\u03C6\u03BF\u03C1\u03B5\u03C2 \u03B8\u03B5\u03C9\u03C1\u03AF\u03B5\u03C2 \u03C0\u03C1\u03BF\u03C3\u03C6\u03AD\u03C1\u03BF\u03C5\u03BD \u03BC\u03AF\u03B1 \u03B5\u03BE\u03AE\u03B3\u03B7\u03C3\u03B7 \u03B3\u03B9\u03B1 \u03C4\u03B7\u03BD \u03C0\u03C1\u03BF\u03AD\u03BB\u03B5\u03C5\u03C3\u03B7 \u03C4\u03C9\u03BD \u03BD\u03B5\u03C1\u03AC\u03B9\u03B4\u03C9\u03BD: \u03B5\u03AF\u03BD\u03B1\u03B9 \u03BE\u03B5\u03C0\u03B5\u03C3\u03BC\u03AD\u03BD\u03B5\u03C2 \u03B8\u03B5\u03AD\u03C2, \u03C0\u03C1\u03C9\u03C4\u03CC\u03B3\u03BF\u03BD\u03B1 \u03C0\u03BD\u03B5\u03CD\u03BC\u03B1\u03C4\u03B1 \u03C4\u03B7\u03C2 \u03C6\u03CD\u03C3\u03B7\u03C2, \u03C0\u03BD\u03B5\u03CD\u03BC\u03B1\u03C4\u03B1 \u03C4\u03C9\u03BD \u03BD\u03B5\u03BA\u03C1\u03CE\u03BD, \u03BC\u03C5\u03B8\u03B9\u03BA\u03AC \u03C0\u03C1\u03CC\u03C3\u03C9\u03C0\u03B1 \u03C0\u03BF\u03C5 \u03C0\u03C1\u03BF\u03AE\u03BB\u03B8\u03B1\u03BD \u03B1\u03C0\u03CC \u03C4\u03B7\u03BD \u03B1\u03BD\u03AC\u03BC\u03BD\u03B7\u03C3\u03B7 \u03C4\u03C9\u03BD \u03B1\u03C1\u03C7\u03B1\u03AF\u03C9\u03BD \u03C4\u03B5\u03BB\u03B5\u03C4\u03BF\u03C5\u03C1\u03B3\u03B9\u03CE\u03BD \u03C4\u03B7\u03C2 \u03BC\u03CD\u03B7\u03C3\u03B7\u03C2. \u03A0\u03B1\u03C1\u03AC\u03BB\u03BB\u03B7\u03BB\u03B1 \u03BC\u03B5 \u03C4\u03B9\u03C2 \u03BB\u03C5\u03B3\u03B5\u03C1\u03CC\u03BA\u03BF\u03C1\u03BC\u03B5\u03C2 \u03BA\u03B1\u03B9 \u03CC\u03BC\u03BF\u03C1\u03C6\u03B5\u03C2 \u03BD\u03B5\u03C1\u03AC\u03B9\u03B4\u03B5\u03C2 \u03C5\u03C0\u03AC\u03C1\u03C7\u03BF\u03C5\u03BD \u03BA\u03B1\u03B9 \u03BC\u03B5\u03C1\u03B9\u03BA\u03AD\u03C2 \u03C0\u03BF\u03C5 \u03C0\u03B1\u03C1\u03BF\u03C5\u03C3\u03B9\u03AC\u03B6\u03BF\u03C5\u03BD \u03C4\u03B5\u03C1\u03B1\u03C4\u03CE\u03B4\u03B7 \u03C7\u03B1\u03C1\u03B1\u03BA\u03C4\u03B7\u03C1\u03B9\u03C3\u03C4\u03B9\u03BA\u03AC, \u03CC\u03C0\u03C9\u03C2 \u03C3\u03B9\u03B4\u03B5\u03C1\u03AD\u03BD\u03B9\u03B1 \u03AC\u03BA\u03C1\u03B1 (\u0393\u03B5\u03C1\u03BC\u03B1\u03BD\u03AF\u03B1), \u03C0\u03AC\u03C1\u03B1 \u03C0\u03BF\u03BB\u03CD \u03BC\u03B1\u03BA\u03C1\u03B9\u03AC \u03C3\u03C4\u03AE\u03B8\u03B7 (\u03A3\u03B1\u03C1\u03B4\u03B7\u03BD\u03AF\u03B1, \u0392\u03CC\u03C1\u03B5\u03B9\u03B1 \u0391\u03C6\u03C1\u03B9\u03BA\u03AE). \u039F\u03B9 \u03BD\u03B5\u03C1\u03AC\u03B9\u03B4\u03B5\u03C2 \u03B1\u03BD\u03AE\u03BA\u03BF\u03C5\u03BD \u03C3\u03B5 \u03BC\u03AF\u03B1 \u03C0\u03C1\u03BF\u03C6\u03B9\u03BB\u03BF\u03BB\u03BF\u03B3\u03B9\u03BA\u03AE \u03C0\u03B1\u03C1\u03AC\u03B4\u03BF\u03C3\u03B7 \u03BA\u03B1\u03B9 \u03B7 \u03C0\u03AF\u03C3\u03C4\u03B7 \u03C3' \u03B1\u03C5\u03C4\u03AD\u03C2 \u03B5\u03AF\u03BD\u03B1\u03B9 \u03C0\u03B1\u03B3\u03BA\u03CC\u03C3\u03BC\u03B9\u03B1. \u0393\u03B9\u03B1 \u03C4\u03B9\u03C2 \u03B5\u03BB\u03BB\u03B7\u03BD\u03B9\u03BA\u03AD\u03C2 \u03BD\u03B5\u03C1\u03AC\u03B9\u03B4\u03B5\u03C2 - \u03C0\u03BF\u03C5 \u03B5\u03C0\u03B9\u03C7\u03B5\u03B9\u03C1\u03AE\u03B8\u03B7\u03BA\u03B5 \u03B7 \u03C3\u03C5\u03C3\u03C7\u03AD\u03C4\u03B9\u03C3\u03AE \u03C4\u03BF\u03C5\u03C2 \u03BC\u03B5 \u03C4\u03B9\u03C2 \u00AB\u03BD\u03B7\u03C1\u03B7\u03AF\u03B4\u03B5\u03C2\u00BB \u03C4\u03B7\u03C2 \u03B1\u03C1\u03C7\u03B1\u03AF\u03B1\u03C2 \u03B5\u03BB\u03BB\u03B7\u03BD\u03B9\u03BA\u03AE\u03C2 \u03BC\u03C5\u03B8\u03BF\u03BB\u03BF\u03B3\u03AF\u03B1\u03C2, \u03BC\u03B5 \u03C4\u03B9\u03C2 \u03BF\u03C0\u03BF\u03AF\u03B5\u03C2 \u03C5\u03C0\u03AC\u03C1\u03C7\u03B5\u03B9 \u03C6\u03B1\u03BD\u03B5\u03C1\u03AE \u03B5\u03C4\u03C5\u03BC\u03BF\u03BB\u03BF\u03B3\u03B9\u03BA\u03AE \u03C3\u03C7\u03AD\u03C3\u03B7 - \u03BF \u039D\u03B9\u03BA\u03CC\u03BB\u03B1\u03BF\u03C2 \u0393. \u03A0\u03BF\u03BB\u03AF\u03C4\u03B7\u03C2 \u03B4\u03B7\u03BC\u03BF\u03C3\u03AF\u03B5\u03C5\u03C3\u03B5 \u03C0\u03BB\u03AE\u03B8\u03BF\u03C2 \u03B1\u03C0\u03CC \u03B8\u03B1\u03C5\u03BC\u03AC\u03C3\u03B9\u03B5\u03C2 \u03C0\u03B1\u03C1\u03B1\u03B4\u03CC\u03C3\u03B5\u03B9\u03C2 \u03C3\u03C4\u03BF\u03BD \u03C0\u03C1\u03CE\u03C4\u03BF \u03C4\u03CC\u03BC\u03BF \u03C4\u03C9\u03BD \u03A0\u03B1\u03C1\u03B1\u03B4\u03CC\u03C3\u03B5\u03CE\u03BD \u03C4\u03BF\u03C5 (1904): \u03AD\u03C7\u03BF\u03C5\u03BD \u03B5\u03BE\u03B1\u03AF\u03C3\u03B9\u03B1 \u03CC\u03BC\u03BF\u03C1\u03C6\u03B1, \u03BC\u03B1\u03BA\u03C1\u03B9\u03AC \u03BE\u03B1\u03BD\u03B8\u03AC \u03BC\u03B1\u03BB\u03BB\u03B9\u03AC - \u03BA\u03AC\u03C0\u03BF\u03C4\u03B5 \u03C0\u03C1\u03AC\u03C3\u03B9\u03BD\u03B1 - \u03C0\u03BF\u03C5 \u03C4\u03B1 \u03C7\u03C4\u03B5\u03BD\u03AF\u03B6\u03BF\u03C5\u03BD \u03BC\u03B5 \u03C7\u03C1\u03C5\u03C3\u03CC \u03C7\u03C4\u03AD\u03BD\u03B9, \u03BC\u03AC\u03C4\u03B9\u03B1 \u03B1\u03BC\u03C5\u03B3\u03B4\u03B1\u03BB\u03C9\u03C4\u03AC, \u03BA\u03B1\u03B9 \u03B5\u03AF\u03BD\u03B1\u03B9 \u03BA\u03B1\u03C4\u03AC \u03BA\u03B1\u03BD\u03CC\u03BD\u03B1 \u03B1\u03C3\u03C0\u03C1\u03BF\u03BD\u03C4\u03C5\u03BC\u03AD\u03BD\u03B5\u03C2\u00B7 \u03B6\u03BF\u03C5\u03BD \u03C3\u03B5 \u03CC\u03BB\u03B1 \u03C4\u03B1 \u03C3\u03B7\u03BC\u03B5\u03AF\u03B1 \u03C4\u03B7\u03C2 \u03C6\u03CD\u03C3\u03B7\u03C2, \u03C3\u03B5 \u03BD\u03B5\u03C1\u03B1\u03CA\u03B4\u03CC\u03BA\u03B7\u03C0\u03BF\u03C5\u03C2 \u03BA\u03B1\u03B9 \u03BD\u03B5\u03C1\u03B1\u03CA\u03B4\u03CC\u03C3\u03C0\u03B7\u03BB\u03B9\u03BF\u03C5\u03C2, \u03CC\u03C0\u03BF\u03C5 \u03B1\u03C0\u03AC\u03B3\u03BF\u03C5\u03BD \u03B5\u03BA\u03B5\u03AF\u03BD\u03BF\u03C5\u03C2 \u03C0\u03BF\u03C5 \u03B5\u03C1\u03C9\u03C4\u03B5\u03CD\u03BF\u03BD\u03C4\u03B1\u03B9. \u039F\u03B9 \u03C0\u03B1\u03C1\u03B1\u03B4\u03CC\u03C3\u03B5\u03B9\u03C2 \u03B3\u03B9\u03B1 \u03C4\u03B9\u03C2 \u03BD\u03B5\u03C1\u03AC\u03B9\u03B4\u03B5\u03C2 \u03B4\u03B9\u03B1\u03C4\u03B7\u03C1\u03AE\u03B8\u03B7\u03BA\u03B1\u03BD \u03B6\u03C9\u03BD\u03C4\u03B1\u03BD\u03AD\u03C2 \u03C9\u03C2 \u03C4\u03B1 \u03BD\u03B5\u03CE\u03C4\u03B5\u03C1\u03B1 \u03C7\u03C1\u03CC\u03BD\u03B9\u03B1 \u03C3\u03C4\u03B7 \u03BC\u03BD\u03AE\u03BC\u03B7 \u03C4\u03BF\u03C5 \u03B5\u03BB\u03BB\u03B7\u03BD\u03B9\u03BA\u03BF\u03CD \u03BB\u03B1\u03BF\u03CD, \u03CC\u03C0\u03C9\u03C2 \u03BF\u03B9 \u03C0\u03B1\u03C1\u03B1\u03B4\u03CC\u03C3\u03B5\u03B9\u03C2 \u03C4\u03C9\u03BD \u03BA\u03B1\u03BB\u03B9\u03BA\u03B1\u03BD\u03C4\u03B6\u03AC\u03C1\u03C9\u03BD."@el .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Fairy	dbo:wikiPageLength	"50321"^^xsd:nonNegativeInteger .
+dbr:Fairy_tale	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/Ion_Creang\u0103>	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/Ella_(name)>	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/He_Wasn\u0027t>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Helen_Adam	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Henry_Newbolt	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Italian_fashion	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Traditional_witchcraft	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Black_cat	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Witchcraft	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Pixie	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/Tunnels_&_Trolls>	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/Borgue,_Dumfries_and_Galloway>	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/Borve,_Skye>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Old_Colwyn	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Betws_Garmon	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Doune	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/Dunlop,_East_Ayrshire>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Frensham	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Hoghton	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Aberdaron	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/William_Nicholson_(poet)>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Criccieth	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Penwortham	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/Rothley,_Northumberland>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:St_Fillans	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Worthen	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Leshy	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Hana_no_Ko_Lunlun	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Tinker_Bell	dbp:species	dbr:Fairy ;
+	dbo:species	dbr:Fairy ;
+	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:List_of_works_based_on_Peter_Pan	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Ancient_Celtic_religion	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Sleeping_Beauty	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Tristan_and_Iseult	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/978>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Abbacadabra	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/The_White_Cat_(fairy_tale)>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Princess_Belle-Etoile	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Gheorghe_Asachi	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Harap_Alb	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Saint_Brelade	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/Song_of_the_Sea_(2014_film)>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:The_Kid_with_a_Bike	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:The_Secret_of_Kells	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/Communaut\u00E9_de_communes_de_Haute_Picardie>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Tooth_fairy	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Fairy_Ointment	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Elecampane	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Magical_Sentosa	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/Arlequin_poli_par_l\u0027amour>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Crataegus	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Ile-Rien	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/Super_4_(TV_series)>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Monghidoro	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Melusine	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Edward_Kloczko	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Kerli	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Earthdawn	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Fairy_Meat	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Denji_Sentai_Megaranger	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Angel	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/How_Long_\u0027til_Black_Future_Month%3F>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Bondage_Fairies	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Safari_Ltd	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Familiar	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/Robert_(singer)>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:The_Entertainment_at_Althorp	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Banba	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Nuala	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/F\u00F3dla>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Amadan_Dubh	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Buggane	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Clurichaun	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Sleih_beggey	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Enchanted_Moura	dbo:wikiPageWikiLink	dbr:Fairy .
+ns4:_The_Book_of_Water	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Transpersonal_anthropology	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/N\u00FB\u00F1n\u00EB\u0027h\u00EF>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Pikyaw	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Fairy_godmother	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Alexa_Bliss	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/Pilgrim_(Baczkiewicz)>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Icmadophila	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Caroline_Crachami	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Dullahan	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Encantadia	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Vampire_folklore_by_region	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Thai_folklore	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Death_by_burning	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Haltija	dbp:grouping	dbr:Fairy ;
+	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:List_of_Kaizoku_Sentai_Gokaiger_characters	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Pagan_religions_of_Azerbaijan	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/Supernatural_(season_8)>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Ada-Nicole_Sanger	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/Deadtime_Stories_(novel)>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Back_to_the_Forest	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Marvel_Land	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/Woodstock_Express_(Carowinds)>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Apsara	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Khushbu_Sundar	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Yaksha	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/Black_Cherry_(Koda_Kumi_album)>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Tylwyth_Teg	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Glaslyn	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/The_Sun_Also_Rises_(duo)>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Glaistig	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Gwyllion	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Willo_the_Wisp	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Wyrd	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:List_of_Darkstalkers_characters	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:List_of_Turkic_mythological_figures	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Rhymney_Valley	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:The_Good_People	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Knockshigowna	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/Lamba_(Faroe_Islands)>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:The_Pitcher_Shower	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Little_Bunny_Foo_Foo	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:La_Belle_Dame_sans_Merci	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Beauty_and_the_Beast	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Eat_a_Peach	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Human_guise	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/Hoodwinked!>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Disney_Fairies	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/Chowder_(TV_series)>	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/Centre_de_l\u0027Imaginaire_Arthurien>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Photographic_manipulation	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Ghillie_suit	dbo:wikiPageWikiLink	dbr:Fairy .
+@prefix ns54:	<http://dbpedia.org/resource/Tarot:> .
+ns54:_Witch_of_the_Black_Rose	dbo:wikiPageWikiLink	dbr:Fairy .
+@prefix ns55:	<http://dbpedia.org/resource/God_of_Gamblers_III:> .
+ns55:_Back_to_Shanghai	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Unavowed	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Tom_Bombadil	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Breath_of_Fire_III	dbo:wikiPageWikiLink	dbr:Fairy .
+@prefix ns56:	<http://dbpedia.org/resource/Xak_II:> .
+ns56:_Rising_of_the_Redmoon	dbo:wikiPageWikiLink	dbr:Fairy .
+@prefix ns57:	<http://dbpedia.org/resource/Zwei:> .
+ns57:_The_Ilvard_Insurrection	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Dragon_Hopper	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Trials_of_Mana	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/Ois\u00EDn>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Edmund_Lenihan	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/Alp_(folklore)>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:List_of_spirits_appearing_in_grimoires	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Nicnevin	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Yumboes	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Mingulay	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Ghillie_Dhu	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Silver_Branch	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Baobhan_sith	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Caoineag	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/River_North_Esk,_Angus>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Sagina_procumbens	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Iron_in_folklore	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Fiaraidh	dbo:wikiPageWikiLink	dbr:Fairy .
+@prefix ns58:	<http://dbpedia.org/resource/The_Sandman:> .
+ns58:_Season_of_Mists	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Carnival_Row	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:The_Twin_Dilemma	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Midori_Snyder	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/D\u00E9racin\u00E9>	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/Pixie_Hollow_(video_game)>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Karin_Svensdotter	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Erotic_Ghost_Story	dbo:wikiPageWikiLink	dbr:Fairy .
+ns4:_The_Chosen_Child	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/Disenchantment_(TV_series)>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Slender_Man	dbo:wikiPageWikiLink	dbr:Fairy .
+ns11:_The_Dreaming	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Snow_Sakura	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Spyro	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Drakengard	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/The_Spiderwick_Chronicles_(video_game)>	dbo:wikiPageWikiLink	dbr:Fairy .
+@prefix ns59:	<http://dbpedia.org/resource/Faery:> .
+ns59:_Legends_of_Avalon	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Matchless_Raijin-Oh	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Household_deity	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Universe_of_The_Legend_of_Zelda	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Iranian_folklore	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/Gavin_O\u0027Keefe>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Lancelot	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Charnwood_Forest	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:The_Wedding_of_Sir_Gawain_and_Dame_Ragnelle	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/North_Hill,_Malvern>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Sir_Orfeo	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/Janet\u0027s_Foss>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Camelot_3000	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/Ring_a_Ring_o\u0027_Roses>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Yallery_Brown	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Cunning_folk_in_Britain	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Mythopoeia	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:John_Keel	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Phouoibi_Shayon	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:The_Wild_Swans	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/Jigsaw_(Marvel_Comics)>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Richard_Dadd	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Characters_of_Final_Fantasy_X_and_X-2	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/Zapped_(TV_series)>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Pearlie	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:List_of_Tweeny_Witches_characters	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/Flora,_Fauna_and_Merryweather>	dbp:species	dbr:Fairy ;
+	dbo:species	dbr:Fairy ;
+	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Word_Association	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:The_Monster_Bed	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Vlasina_Lake	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Abundantia	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Marie_de_France	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/Vila_(fairy)>	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/List_of_Fablehaven\u0027s_magical_creatures>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Yellow-rumped_cacique	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Feya_Tarn	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Love_Profusion	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/Bish\u014Djo_game>	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/Shugo_Chara!>	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/1895_in_Ireland>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Themes_of_The_Lord_of_the_Rings	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/The_Fairies_(TV_series)>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Hoi_polloi	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:War_for_the_Oaks	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/S._J._Tucker>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Maleficent	dbp:species	dbr:Fairy ;
+	dbo:species	dbr:Fairy ;
+	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:She_Kills_Monsters	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Swiss_folklore	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Faux_de_Verzy	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Borrisokane	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/L\u0027Histoire_d\u0027une_f\u00E9e,_c\u0027est...>	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/Jerina\u0027s_town,_Brangovi\u0107>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:List_of_alumni_of_the_University_of_St_Andrews	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/Creatures_(video_game_series)>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:May_Day	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Chicagoland_Vampires	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:List_of_urban_fantasy_novels	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Dora_Kunz	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Viva_Forever	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/Discworld_(world)>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Politically_Correct_Bedtime_Stories	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Knights_of_the_Dinner_Table	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/Antiques_Roadshow_(series_29)>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Welsh_Corgi	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Gundagai_lore	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/Recurring_Saturday_Night_Live_characters_and_sketches_introduced_2010\u201311>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Grizzly_Tales_for_Gruesome_Kids	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:History_of_Guernsey	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Harry_Hay	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/Fata_Morgana_(mirage)>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Ella_Young	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:David_MacRitchie	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Fantastic_Beasts_and_Where_to_Find_Them	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/Cat_s\u00ECth>	dbo:wikiPageWikiLink	dbr:Fairy ;
+	dbp:subGrouping	dbr:Fairy .
+dbr:Goblin	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/Hollows_(series)>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Mythic_humanoids	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Dormarch	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Leprechaun	dbp:grouping	dbr:Fairy ;
+	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Spriggan	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/Sprite_(folklore)>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:List_of_Kishiryu_Sentai_Ryusoulger_characters	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Kobold	dbp:grouping	dbr:Fairy ;
+	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Gaiapolis	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/Hulduf\u00F3lk>	dbp:similarCreatures	dbr:Fairy ;
+	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Iele	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Anito	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/9M133_Kornet>	dbo:wikiPageWikiLink	dbr:Fairy .
+@prefix ns60:	<http://dbpedia.org/resource/Fablehaven:> .
+ns60:_Grip_of_the_Shadow_Plague	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:List_of_legendary_creatures_from_Japan	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/Groac\u0027h>	dbo:wikiPageWikiLink	dbr:Fairy ;
+	dbp:subGrouping	dbr:Fairy .
+dbr:List_of_flying_mythological_creatures	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Enchanted_forest	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:The_Darkest_Part_of_the_Forest	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Bluecap	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Nang_Tani	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Nang_Ta-khian	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/7th_Sea_(role-playing_game)>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Morgan_le_Fay	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Morgan_le_Fay_in_modern_culture	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:List_of_Digimon_Tamers_characters	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Neverland	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Forest_of_Burzee	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:The_White_Doe	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Catacol_Bay	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Tyolet	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:The_Life_and_Adventures_of_Santa_Claus	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/Puppeteer_(video_game)>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Character_race	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Technology_demonstration	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Here_Comes_Fortune	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/Robert_Kirk_(folklorist)>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:The_Boy_in_the_Oak	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Sluagh	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/Y\u014Dsei>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Faery_Wicca	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Fairy_fort	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/1920_Calgary_municipal_election>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Carrigaphooca_Castle	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Reduplicated_plural	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Irshi	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Fairie	dbo:wikiPageWikiLink	dbr:Fairy ;
+	dbo:wikiPageRedirects	dbr:Fairy .
+dbr:Fairies_in_Theosophy	dbo:wikiPageWikiLink	dbr:Fairy ;
+	dbo:wikiPageRedirects	dbr:Fairy .
+dbr:Fairy_faith	dbo:wikiPageWikiLink	dbr:Fairy ;
+	dbo:wikiPageRedirects	dbr:Fairy .
+dbr:Fairy_folk	dbo:wikiPageWikiLink	dbr:Fairy ;
+	dbo:wikiPageRedirects	dbr:Fairy .
+dbr:Fairy_magic	dbo:wikiPageWikiLink	dbr:Fairy ;
+	dbo:wikiPageRedirects	dbr:Fairy .
+dbr:Fairys	dbo:wikiPageWikiLink	dbr:Fairy ;
+	dbo:wikiPageRedirects	dbr:Fairy .
+dbr:Fairywinkle	dbo:wikiPageWikiLink	dbr:Fairy ;
+	dbo:wikiPageRedirects	dbr:Fairy .
+dbr:Farie	dbo:wikiPageWikiLink	dbr:Fairy ;
+	dbo:wikiPageRedirects	dbr:Fairy .
+dbr:Faries	dbo:wikiPageWikiLink	dbr:Fairy ;
+	dbo:wikiPageRedirects	dbr:Fairy .
+dbr:Fay	dbo:wikiPageWikiLink	dbr:Fairy ;
+	dbo:wikiPageRedirects	dbr:Fairy .
+dbr:Fayrye	dbo:wikiPageWikiLink	dbr:Fairy ;
+	dbo:wikiPageRedirects	dbr:Fairy .
+dbr:Feary	dbo:wikiPageWikiLink	dbr:Fairy ;
+	dbo:wikiPageRedirects	dbr:Fairy .
+<http://dbpedia.org/resource/Kojin_Jugy\u014D>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Good_People	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Heer_Halewijn	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/Ingeborg_i_Mj\u00E4rhult>	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/Eleonora_S\u00E4fstr\u00F6m>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Atomie	dbo:wikiPageWikiLink	dbr:Fairy ;
+	dbo:wikiPageRedirects	dbr:Fairy .
+<http://dbpedia.org/resource/Atomy_(fae)>	dbo:wikiPageWikiLink	dbr:Fairy ;
+	dbo:wikiPageRedirects	dbr:Fairy .
+<http://dbpedia.org/resource/Atomy_(faerie)>	dbo:wikiPageWikiLink	dbr:Fairy ;
+	dbo:wikiPageRedirects	dbr:Fairy .
+<http://dbpedia.org/resource/Atomy_(faery)>	dbo:wikiPageWikiLink	dbr:Fairy ;
+	dbo:wikiPageRedirects	dbr:Fairy .
+<http://dbpedia.org/resource/Atomy_(fairy)>	dbo:wikiPageWikiLink	dbr:Fairy ;
+	dbo:wikiPageRedirects	dbr:Fairy .
+<http://dbpedia.org/resource/Atomy_(fay)>	dbo:wikiPageWikiLink	dbr:Fairy ;
+	dbo:wikiPageRedirects	dbr:Fairy .
+<http://dbpedia.org/resource/Atomy_(mythology)>	dbo:wikiPageWikiLink	dbr:Fairy ;
+	dbo:wikiPageRedirects	dbr:Fairy .
+<http://dbpedia.org/resource/N\u00FAi_C\u1ED1c_Lake>	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/Ms._Mystic>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Fae_folk	dbo:wikiPageWikiLink	dbr:Fairy ;
+	dbo:wikiPageRedirects	dbr:Fairy .
+@prefix ns61:	<http://dbpedia.org/resource/Barbie:> .
+ns61:_Fairytopia	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Barbie_Dreamhouse_Adventures	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Barbie_in_the_Nutcracker	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/Mennink\u00E4inen>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Canotila	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Adhene	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Little_Daylight	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Supposititious_children	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Osebury_Rock	dbo:wikiPageWikiLink	dbr:Fairy .
+@prefix ns62:	<http://dbpedia.org/resource/List_of_Poltergeist:> .
+ns62:_The_Legacy_episodes	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/Oum_L\u00E2alag>	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/Starlight_(fairy_tale)>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:The_Princess_That_Wore_a_Rabbit-skin_Dress	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/L\u1EA1c_Long_Qu\u00E2n>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:White_Dalmatian	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/Changelings_(Once_Upon_a_Time)>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Characters_from_Ile-Rien	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/Korgi_(book)>	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/Merli_(software)>	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/The_Merchant_(fairy_tale)>	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/F\u0103t-Frumos_with_the_Golden_Hair>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Gancanagh	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Gary_Stadler	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Ursitory	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Sally_the_Dunstable_Witch	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/367943_Duende>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Auparu	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Seth_Sorenson	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Ogbanje	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:The_Fairy_Prince	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Faerie_information	dbo:wikiPageWikiLink	dbr:Fairy ;
+	dbo:wikiPageRedirects	dbr:Fairy .
+dbr:Faeries	dbo:wikiPageWikiLink	dbr:Fairy ;
+	dbo:wikiPageRedirects	dbr:Fairy .
+dbr:Alux	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Amelia_Jane_Murray	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/Anu_(Irish_goddess)>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:The_Brownies	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Gnommish	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Goodwin_Wharton	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:My_Own_Self	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Robert_John_Stewart	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Stray_sod	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:The_Enchanted_Maiden	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:The_Young_Slave	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Bronze_Canticles	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Atomies	dbo:wikiPageWikiLink	dbr:Fairy ;
+	dbo:wikiPageRedirects	dbr:Fairy .
+<http://dbpedia.org/resource/The_Outcasts_(1982_film)>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:The_Peanuts	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Kurentovanje	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:The_Three_Fairies	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:The_Goddess_of_Spring	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Conflicting_Kingdoms	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/Tiger_Lily_(Peter_Pan)>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Fairie_Festival	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Far_darrig	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Whuppity_Stoorie	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Bute_witches	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Concealed_shoes	dbo:wikiPageWikiLink	dbr:Fairy .
+ns61:_Mariposa	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Landover_Mall	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Judika_Illes	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:The_Pig_King	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Arkan_Sonney	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/Ash_(novel)>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Asrai	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/A\u015F\u0131q_P\u0259ri>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Babiole	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Betty_Stogs	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Petite_Princess_Yucie	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Rogues_of_Clwyd-Rhan	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Romania_in_the_Eurovision_Song_Contest_2019	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Shopnopuri_artificial_amusement_park	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/W._Walter_Gill>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Girdle-measurers	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Guerrino_and_the_Savage_Man	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:The_Pigeon_and_the_Dove	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Joint-eater	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:List_of_beings_referred_to_as_fairies	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Faery	dbo:wikiPageWikiLink	dbr:Fairy ;
+	dbo:wikiPageRedirects	dbr:Fairy .
+dbr:Fair_Folk	dbo:wikiPageWikiLink	dbr:Fairy ;
+	dbo:wikiPageRedirects	dbr:Fairy .
+dbr:Fair_folk	dbo:wikiPageWikiLink	dbr:Fairy ;
+	dbo:wikiPageRedirects	dbr:Fairy .
+dbr:Fairies	dbo:wikiPageWikiLink	dbr:Fairy ;
+	dbo:wikiPageRedirects	dbr:Fairy .
+<http://dbpedia.org/resource/Nanaka_6/17>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Natalia_Jaster	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/Never+Land>	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/The_Dolphin_(fairy_tale)>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:The_Dreamside	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:FAE	dbo:wikiPageWikiLink	dbr:Fairy ;
+	dbo:wikiPageDisambiguates	dbr:Fairy .
+dbr:Faes	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/Fairy_(disambiguation)>	dbo:wikiPageWikiLink	dbr:Fairy ;
+	dbo:wikiPageDisambiguates	dbr:Fairy .
+dbr:Fairy_King	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Fary	dbo:wikiPageWikiLink	dbr:Fairy ;
+	dbo:wikiPageDisambiguates	dbr:Fairy .
+<http://dbpedia.org/resource/Fay_(disambiguation)>	dbo:wikiPageWikiLink	dbr:Fairy ;
+	dbo:wikiPageDisambiguates	dbr:Fairy .
+<http://dbpedia.org/resource/Ferry_(disambiguation)>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Fey	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Father_Roquelaure	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Fear_Doirich	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Heroic_Fantasy	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Herr_Mannelig	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/List_of_legendary_creatures_(F)>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Elf_Life	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Gwragedd_Annwn	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/A_Princess,_an_Elf,_and_a_Demon_Walk_Into_a_Bar>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Daoine_maithe	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:The_Wee_Wee_Man	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Lorwyn	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:The_Imp_Prince	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/Cl\u00EDodhna>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Togepi	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Perihan	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/Phantasmagoria_(poem)>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Teind	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/The_Golden_Key_(MacDonald_book)>	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/St_Brelade\u0027s_Church>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Paristan	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Atomy	dbo:wikiPageWikiLink	dbr:Fairy ;
+	dbo:wikiPageRedirects	dbr:Fairy .
+<http://dbpedia.org/resource/William_in_Trouble_(short_story_collection)>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Sleagh_Maith	dbo:wikiPageWikiLink	dbr:Fairy ;
+	dbo:wikiPageRedirects	dbr:Fairy .
+<http://dbpedia.org/resource/F\u00E6rie>	dbo:wikiPageWikiLink	dbr:Fairy ;
+	dbo:wikiPageRedirects	dbr:Fairy .
+<http://dbpedia.org/resource/F\u00E6ries>	dbo:wikiPageWikiLink	dbr:Fairy ;
+	dbo:wikiPageRedirects	dbr:Fairy .
+dbr:Good_Folk	dbo:wikiPageWikiLink	dbr:Fairy ;
+	dbo:wikiPageRedirects	dbr:Fairy .
+dbr:Amanita_muscaria	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Philippine_shamans	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Loch_Lomond	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Wish_tree	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/Benjam\u00EDn_Solari_Parravicini>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:List_of_In_Our_Time_programmes	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/The_Hairy_Bikers\u0027_Cookbook>	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/Rinc\u00F3n_de_Luz_(orphanage)>	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/A_Midsummer_Night\u0027s_Dream>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Lord_Reay	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Folklore_of_Romania	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/R\u00F6lli>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Norse_mythology_in_popular_culture	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:List_of_The_Backyardigans_episodes	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Islay	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Johan_Herman_Wessel	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:List_of_Touhou_Project_characters	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Glossary_of_Shinto	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Otherkin	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Galician_Massif	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Donas_de_fuera	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Hop-tu-Naa	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:List_of_The_Southern_Vampire_Mysteries_characters	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/Wizard_of_Oz_(character)>	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/\u00C2u_C\u01A1>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Gwystyl	dbp:species	dbr:Fairy ;
+	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Dusios	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/Orddu,_Orwen_and_Orgoch>	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/J\u0027ai_Rencontr\u00E9_Le_P\u00E8re_No\u00EBl>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Robert	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/Diana_(mythology)>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Gawain	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/K3_(band)>	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/The_Dancing_Water,_the_Singing_Apple,_and_the_Speaking_Bird>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Anglo-Saxon_paganism	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Jorinde_and_Joringel	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Mythology_in_the_Low_Countries	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Ballad	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Trickster	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:List_of_The_Seven_Deadly_Sins_characters	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Classification_of_demons	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Characters_and_races_of_The_Dark_Crystal	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Nymph	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/Pluto_(mythology)>	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/Puck_(moon)>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Oberon	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Ley_line	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:List_of_Kaijudo_characters	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/Fairy_Rock_(Crans_Montana,_Valais)>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Fenodyree	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Fallen_angel	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/The_Black_Cauldron_(film)>	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/Merry_Gentry_(series)>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Soon_I_Will_Be_Invincible	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:The_Stolen_Child	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:A_Caress_of_Twilight	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:A_Kidnapped_Santa_Claus	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:A_Kiss_of_Shadows	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:A_Stroke_of_Midnight	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Ealdwood_Stories	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Elemental_Masters	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/Garrett_P.I.>	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/Mistral\u0027s_Kiss>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:The_Little_White_Bird	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:The_High_Deeds_of_Finn_MacCool	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Harper_Connelly_Mysteries	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:The_Heart_of_Princess_Joan	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/New_Men_(Image_Comics)>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Queen_Silver-Bell	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:The_Tears_of_Princess_Prunella	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Pwyll_Pendefig_Dyfed	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/God_Game_(novel)>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Bones_of_Faerie	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/The_Blue_Bird_(play)>	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/Tochmarc_\u00C9ta\u00EDne>	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/M\u00E9lusine_(comics)>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:The_Stress_of_Her_Regard	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Greysteil	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:How_to_Ditch_Your_Fairy	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:The_Fortress_Series	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Maugris	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Princ_zelenih_sanj	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Elfenlied	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Dark_Swan	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Club_Dead	dbo:wikiPageWikiLink	dbr:Fairy .
+@prefix ns63:	<http://dbpedia.org/resource/Deliverance:> .
+ns63:_Stormlord_II	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Princess_Maker	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/Demetrius_(A_Midsummer_Night\u0027s_Dream)>	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/Samodiva_(folklore)>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Folk_healer	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Biddy_Early	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:The_Bridei_Chronicles	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Scottish_Folk_Tales	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:A_Fada_Oriana	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/The_Dreamstone_(novel)>	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/Operation_Trojan_Horse_(book)>	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/The_Witch\u0027s_Garden>	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/Gui_d\u0027Excideuil>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Hex_Hall	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Besom	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Michelle_Collins	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/Feast_of_the_Gods_(art)>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:List_of_The_Sandman_characters	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Translations_of_The_Lord_of_the_Rings	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/List_of_children\u0027s_films>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Cottingley_Fairies	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/Nelebel\u0027s_Fairyland>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:California_Institute_of_Abnormalarts	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/List_of_Fantasia_(franchise)_characters>	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/Knocker_(folklore)>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Feri_Tradition	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Church_of_All_Worlds	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Troll	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/Jonathan_Strange_&_Mr_Norrell_(TV_series)>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Erlking	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/The_Black_Cauldron_(video_game)>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Chuhaister	dbp:grouping	dbr:Fairy ;
+	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/Aos_S\u00ED>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Punkie_Night	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Allison_Gross	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Irish_folklore	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/Scooby-Doo!_and_the_Goblin_King>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:The_Monster_of_Phineas-n-Ferbenstein	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Witchcraft_in_Orkney	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Aiken_Drum	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Photographing_Fairies	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Prince_Prigio	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/Fortun\u00E9e>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:The_Benevolent_Frog	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:The_Golden_Branch	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Kisa_the_Cat	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Diamonds_and_Toads	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:The_Little_Green_Frog	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Kate_Crackernuts	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/Jackal_or_Tiger%3F>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:The_False_Prince_and_the_True	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/The_Groac\u0027h_of_the_Isle_of_Lok>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:The_Little_Good_Mouse	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:The_Princess_Mayblossom	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:The_Red_Ettin	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:The_Story_of_Zoulvisia	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/The_Ram_(fairy_tale)>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:The_Yellow_Dwarf	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:The_King_Who_Would_Have_a_Beautiful_Wife	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Rosanella	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:The_Story_of_the_Queen_of_the_Flowery_Isles	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/Fairer-than-a-Fairy_(Mailly)>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Fairy_Gifts	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Graciosa_and_Percinet	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/Prunella_(fairy_tale)>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Pays_interdit	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Bai_Baianai	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/Farce_of_\u00C1vila>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Peter_Pan_in_Kensington_Gardens	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Cultural_tracking	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Mobile_phone_games_of_the_Breath_of_Fire_series	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Sakura_Momoko_no_Ukiuki_Carnival	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/Brigandine_(video_game)>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Virtual_Hydlide	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/King\u0027s_Quest_IV>	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/Belle-Belle_ou_Le_Chevalier_Fortun\u00E9>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Lil_i_Put	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/Sleeping_Beauty_(1987_film)>	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/Z\u00E2n\u0103>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Dacian_fortress_of_Covasna	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/S\u00E2ntoaderi>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Cerrie_Burnell	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/Poison_(Bardot_song)>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:The_Slow_Norris	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Herminie_Templeton_Kavanagh	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Jack_Frost	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Paul_Lynde	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Winter_Jones	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:BBC_Television_Shakespeare	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Nora_of_Kelmendi	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Queen_Mab	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Deciduous_teeth	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Dancing_Fairies	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Legend_of_Mana	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/\u00C5rets_N\u00E4ck>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Fairy_path	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Ringfort	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/S\u00E2nzian\u0103>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Christmas_elf	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Music_of_Montserrat	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/Deva_(New_Age)>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:San-X	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Monaciello	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Red_Skye_Comics	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:The_Book_of_the_Damned	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/Oh_My_Gods!>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Faerie_faith	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/Alice_in_Chains_(album)>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Green_Knight	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Classifications_of_fairies	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Thomas_Chestre	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Breton_lai	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/Micronauts_(comics)>	dbo:wikiPageWikiLink	dbr:Fairy .
+@prefix ns64:	<http://dbpedia.org/resource/The_Lord_of_the_Rings:> .
+ns64:_film_versus_book	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Betty_Jumel	dbo:wikiPageWikiLink	dbr:Fairy .
+@prefix ns65:	<http://dbpedia.org/resource/Riviera:> .
+ns65:_The_Promised_Land	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Selkie	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Alien_abduction_entities	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/Faeries_(1999_film)>	dbo:wikiPageWikiLink	dbr:Fairy .
+@prefix ns66:	<http://dbpedia.org/resource/Avataars:> .
+ns66:_Covenant_of_the_Shield	dbo:wikiPageWikiLink	dbr:Fairy .
+@prefix ns67:	<http://dbpedia.org/resource/The_Sims_3:> .
+ns67:_Supernatural	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Scary_Godmother	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Steve_Berman	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/Wizards_of_Waverly_Place_(season_2)>	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/True_Blood_(season_3)>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:List_of_Mermaid_Melody_Pichi_Pichi_Pitch_characters	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:List_of_The_Amazing_World_of_Gumball_characters	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/Elves,_Leprechauns,_Gnomes,_and_Little_Men\u0027s_Chowder_&_Marching_Society>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Eilistraee	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:The_Two_Princesses_of_Bamarre	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Watercolor_Fairies	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Hag	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Deverry_Cycle	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/Jack,_the_Giant_Killer_(novel)>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:BattleDragons	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/The_Collected_Short_Fiction_of_C._J._Cherryh>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:The_Foundling_and_Other_Tales_of_Prydain	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/Winter_Rose_(novel)>	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/Faeries_(anthology)>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Kylie_InGold	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/Fairest_(novel)>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Solstice_Wood	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:The_Glo_Friends	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/The_Mr._Potato_Head_Show>	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/The_Simpsons:_Bart\u0027s_Nightmare>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Faerieworlds	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/The_Iron_Dragon\u0027s_Daughter>	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/Brownie_(folklore)>	dbo:wikiPageWikiLink	dbr:Fairy ;
+	dbp:subGrouping	dbr:Fairy .
+dbr:Labyrinth_of_Jareth_Masquerade_Ball	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/Polychrome_(Oz)>	dbp:species	dbr:Fairy ;
+	dbo:species	dbr:Fairy ;
+	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Naghma	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Crow_religion	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Anita_Blake_mythology	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Mythology_of_Stargate	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:The_Frost_King	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Johnny_and_the_Sprites	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/The_Black_Cauldron_(novel)>	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/Pontoffel_Pock,_Where_Are_You%3F>	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/Alan_Lee_(illustrator)>	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/Maeterlinck\u0027s_Blue_Bird:_Tyltyl_and_Mytyl\u0027s_Adventurous_Journey>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:The_Maxx	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/Bo_(Lost_Girl)>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Super_Inggo	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:List_of_Lost_Girl_characters	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/Xian_(Taoism)>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Geoffrey_Hodson	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/A._E._Waite>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Nomy_Lamm	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Matter_of_Rome	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Thomas_Keightley	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/Eris_(mythology)>	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/The_Love_for_Three_Oranges_(fairy_tale)>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Seven_Dwarfs	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/Level_Up_(American_TV_series)>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Fairy_riding	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Mystic_Knights_of_Tir_Na_Nog	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Exalted	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Glastonbury_Tor	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/Elf_(Middle-earth)>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Fernacre	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/M\u00EAn-an-Tol>	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/Photographing_Fairies_(novel)>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Imp	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/Die_Bl\u00FCmelein_sie_schlafen>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Changeling	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Cardamine_pratensis	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/Fable_(1996_video_game)>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Patupaiarehe	dbo:wikiPageWikiLink	dbr:Fairy ;
+	dbp:subGrouping	dbr:Fairy .
+dbr:Poltergeist	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Brian_Froud	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Spider-Plant_Man	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/U\u00ED_Enechglaiss>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Switchers_Trilogy	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Princess_Ozma	dbo:species	dbr:Fairy ;
+	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/Parisa_(given_name)>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Peri	dbo:wikiPageWikiLink	dbr:Fairy .
+<http://dbpedia.org/resource/Anjana_(Cantabrian_mythology)>	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Uther_Pendragon	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Iolanthe	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Giritli_Ali_Aziz_Efendi	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Trois_valses_romantiques	dbo:wikiPageWikiLink	dbr:Fairy .
+dbr:Characters_of_Peter_Pan	dbo:wikiPageWikiLink	dbr:Fairy .

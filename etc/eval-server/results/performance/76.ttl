@@ -1,0 +1,874 @@
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+<http://dbpedia.org/resource/The_Bill_(series_24)>	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:Berlin_Brandenburg_Airport	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:Legnica_Airport	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:Dresden_Airport	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:Frankfurt_Airport	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:Ibiza_Airport	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:London_Stadium	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:Gulfstream_G650	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:One_Voice_at_Christmas	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+<http://dbpedia.org/resource/David_Keene_(judge)>	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:University_of_East_London	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:German_Regional_Airlines	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:Augsburg_Airport	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:Airport_rail_link	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+<http://dbpedia.org/resource/100_Degrees_Below_Zero>	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:Edinburgh_Airport	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:London_City_Airways	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:London_City_Airways	dbp:headquarters	dbr:London_City_Airport ;
+	dbo:headquarter	dbr:London_City_Airport .
+dbr:Business_class_airline	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:Linate_Airport	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:ExCeL_London	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:Mannheim_City_Airport	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:Airport_Carbon_Accreditation	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:List_of_airports_in_the_United_Kingdom_and_the_British_Crown_Dependencies	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:Billund_Airport	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+<http://dbpedia.org/resource/2006_Birthday_Honours>	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:Augsburg_Airways	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:London_Regatta_Centre	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:GIS_and_environmental_governance	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:Budapest_Ferenc_Liszt_International_Airport	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+wikipedia-en:London_City_Airport	foaf:primaryTopic	dbr:London_City_Airport .
+dbr:Flybe	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:London_Fire_Brigade	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:Airport_policing_in_the_United_Kingdom	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:Manchester_Airport	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:Pilatus_PC-24	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:COVID-19_pandemic_in_Jersey	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:Julian_Richer	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:Real_Irish_Republican_Army	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:Thames_Clippers	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:London_Buses_route_69	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+<http://dbpedia.org/resource/King_George_V_Dock,_London>	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:Thames_Gateway_Bridge	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:London_Underground_in_popular_culture	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:List_of_Alitalia_CityLiner_destinations	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:List_of_BA_CityFlyer_destinations	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:List_of_British_Airways_franchise_destinations	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:List_of_TAP_Express_destinations	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:List_of_Flybe_destinations	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:List_of_KLM_Cityhopper_destinations	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:List_of_Loganair_destinations	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:List_of_Lufthansa_CityLine_destinations	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:List_of_Luxair_destinations	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:London_Terminal_Control_Centre	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:London_City	dbo:wikiPageWikiLink	dbr:London_City_Airport ;
+	dbo:wikiPageDisambiguates	dbr:London_City_Airport .
+dbr:Aviation_Security_Operational_Command_Unit	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:Split_Airport	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:University_of_East_London_Docklands_Campus	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+<http://dbpedia.org/resource/London\u0027s_third_airport>	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:London_Docklands_Development_Corporation	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:Transport_in_Cambridge	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:Arcus-Air	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:Royal_Victoria_Dock	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:Sheffield_City_Airport	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:Stobart_Air	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:Warsaw_Chopin_Airport	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:Transport_in_Luton	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:Woolwich_Arsenal_Pier	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:List_of_airports_under_construction	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:List_of_Swiss_International_Air_Lines_destinations	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:List_of_Alitalia_destinations	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:List_of_Austrian_Airlines_destinations	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:List_of_Scandinavian_Airlines_destinations	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:List_of_TAP_Air_Portugal_destinations	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+<http://dbpedia.org/resource/Pau,_Pyr\u00E9n\u00E9es-Atlantiques>	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:Swissair	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:List_of_LOT_Polish_Airlines_destinations	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:List_of_Lufthansa_destinations	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:De_Havilland_Canada	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:Zurich_Airport	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+<http://dbpedia.org/resource/V\u00E1clav_Havel_Airport_Prague>	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:List_of_public_art_in_the_London_Borough_of_Newham	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:Drivers_Jonas	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:Mark_Darby	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:George_Best_Belfast_City_Airport	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:Gulfstream_G100	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:List_of_international_airports_by_country	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:Coverage_of_Google_Street_View	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:Woolwich	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+<http://dbpedia.org/resource/Roger_Sainsbury_(engineer)>	dbo:significantProject	dbr:London_City_Airport ;
+	dbo:wikiPageWikiLink	dbr:London_City_Airport ;
+	dbp:significantProjects	dbr:London_City_Airport .
+dbr:Gilgit_Airport	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:Airport_police	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+@prefix ns5:	<http://dbpedia.org/resource/List_of_airports_by_IATA_airport_code:> .
+ns5:_L	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:IATA_airport_code	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:Airbus_A220	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:Solar_System_model	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:Automated_border_control_system	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:OMERS	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+<http://dbpedia.org/resource/Ontario_Teachers\u0027_Pension_Plan>	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+<http://dbpedia.org/resource/2012_Summer_Olympic_development>	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+<http://dbpedia.org/resource/2009_in_the_United_Kingdom>	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:Unexploded_ordnance	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:List_of_airlines_impacted_by_the_COVID-19_pandemic	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:List_of_lowest_airports	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:Munich_Airport	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:JetMagic	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:Reg_Ward	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:Boarding_pass	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:Venice_Marco_Polo_Airport	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:Rotterdam_The_Hague_Airport	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:List_of_border_crossing_points_in_France	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+<http://dbpedia.org/resource/30_St_Mary_Axe>	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:List_of_tallest_buildings_and_structures_in_London	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:Royal_Docks	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:List_of_Docklands_Light_Railway_stations	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+<http://dbpedia.org/resource/P&O_(company)>	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:Peter_Cruddas	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:Canary_Wharf	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:City_of_London	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:Dundee	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:British_Airways	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:Crossrail	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:Royal_Air_Force	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:Heathrow_Airport	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:Luton_Airport	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:Transport_in_London	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:List_of_seaplane_bases_in_the_United_Kingdom	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:World_Airlines	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:Black_Lives_Matter	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:Blue_Islands	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:Devon	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:Dissident_Irish_republican_campaign	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:Google_Street_View_in_Europe	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:Queen_Elizabeth_Olympic_Park	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:Odyssey_Airlines	dbo:targetAirport	dbr:London_City_Airport ;
+	dbp:bases	dbr:London_City_Airport ;
+	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:Airbus_A318	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:Airports_of_London	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:Alberta_Investment_Management_Corporation	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:Chelmsford	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:EPassport_gates	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:Identity_Cards_Act_2006	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:Specialist_Operations	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+@prefix ns6:	<http://dbpedia.org/resource/List_of_licensed_and_localized_editions_of_Monopoly:> .
+ns6:_Europe	dbp:space	dbr:London_City_Airport ;
+	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:London_Borough_of_Croydon	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:London_Borough_of_Newham	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:London_Borough_of_Tower_Hamlets	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:Economy_of_London	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:List_of_Braathens_destinations	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:Carlisle_Lake_District_Airport	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+<http://dbpedia.org/resource/Citigroup_Centre,_London>	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+<http://dbpedia.org/resource/1987_in_the_United_Kingdom>	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+<http://dbpedia.org/resource/1_Undershaft>	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+<http://dbpedia.org/resource/Leonardo_da_Vinci\u2013Fiumicino_Airport>	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:Landing_slot	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:Plane_Stupid	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:List_of_SkyWork_Airlines_destinations	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:List_of_Swiss_Global_Air_Lines_destinations	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:STOLport	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+<http://dbpedia.org/resource/2009_in_aviation>	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:Sadiq_Khan	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+<http://dbpedia.org/resource/22_Bishopsgate>	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:Authorised_firearms_officer	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+<http://dbpedia.org/resource/Squirrel_(personal_finance_company)>	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:List_of_the_busiest_airports_in_Europe	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:Timeline_of_Real_Irish_Republican_Army_actions	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+<http://dbpedia.org/resource/HMS_Dauntless_(D33)>	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:Isle_of_Man_Airport	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:History_of_the_Royal_Air_Force	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:Aurigny	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:COVID-19_pandemic_in_London	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:Mowlem	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:Aer_Lingus	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:Air_Antwerp	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:AirUK	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:Flightline	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:CityFlyer_Express	dbp:hubs	dbr:London_City_Airport ;
+	dbo:wikiPageWikiLink	dbr:London_City_Airport ;
+	dbo:hubAirport	dbr:London_City_Airport .
+dbr:Suckling_Airways	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+@prefix ns7:	<http://dbpedia.org/resource/List_of_airports_by_ICAO_code:> .
+ns7:_E	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:De_Havilland_Canada_Dash_7	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:BA_Connect	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+<http://dbpedia.org/resource/Royal_Albert_Dock,_London>	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:Virgin_Media_Business	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:Walthamstow	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:List_of_busiest_airports_in_the_United_Kingdom	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:List_of_busiest_city_airport_systems_by_passenger_traffic	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:List_of_cities_with_more_than_one_airport	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:List_of_commercial_transatlantic_flights	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:Exeter_Airport	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:Extinction_Rebellion	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:February_2009_Great_Britain_and_Ireland_snowfall	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:St_Andrews	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+<http://dbpedia.org/resource/Stan_Lee\u0027s_Lucky_Man>	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:Stockholm_Bromma_Airport	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:EuroManx	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:Sun-Air_of_Scandinavia	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+<http://dbpedia.org/resource/M\u00E1laga_Airport>	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+<http://dbpedia.org/resource/British_Airways_Ltd_(2012\u201315)>	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+<http://dbpedia.org/resource/List_of_the_busiest_airports_in_Europe_(2010\u20132015)>	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:Thurrock	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+<http://dbpedia.org/resource/Timeline_of_London_(1900s)>	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:STOL	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+<http://dbpedia.org/resource/Transwede_Airways_(2005\u20132010)>	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+<http://dbpedia.org/resource/Ditton,_Kent>	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+<http://dbpedia.org/resource/King\u0027s_Cross_St_Pancras_tube_station>	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:Prince_Regent_DLR_station	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:Alnwick	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:London_City_Airport_DLR_station	dbo:location	dbr:London_City_Airport ;
+	dbp:locale	dbr:London_City_Airport ;
+	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:Canning_Town_station	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:Beckton	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:East_Ham	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:Invergowrie	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:Isle_of_Dogs	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:Arbroath	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+<http://dbpedia.org/resource/Redhill,_Surrey>	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+<http://dbpedia.org/resource/Crystal_Palace,_London>	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:Silvertown	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:Silvertown_Quays	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:Silvertown_railway_station	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+<http://dbpedia.org/resource/Swanwick,_Hampshire>	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+<http://dbpedia.org/resource/Felton,_Northumberland>	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+<http://dbpedia.org/resource/Plaistow,_Newham>	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+<http://dbpedia.org/resource/Poplar,_London>	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+<http://dbpedia.org/resource/Stratford,_London>	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:Woolwich_Arsenal_station	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:Air_France	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:Rennes	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:Luxembourg_Airport	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+<http://dbpedia.org/resource/Quimper\u2013Cornouaille_Airport>	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+<http://dbpedia.org/resource/Angers_\u2013_Loire_Airport>	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:Brymon_Airways	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:Air_Wales	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:TAP_Air_Portugal	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+<http://dbpedia.org/resource/2009_in_rail_transport>	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+<http://dbpedia.org/resource/A13_road_(England)>	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+<http://dbpedia.org/resource/East_London_(bus_company)>	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:London_River_Services	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+<http://dbpedia.org/resource/San_Sebasti\u00E1n_Airport>	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:Menorca_Airport	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:British_Aerospace_146	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:Sukhoi_Superjet_100	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+<http://dbpedia.org/resource/Final_approach_(aeronautics)>	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+<http://dbpedia.org/resource/Chamb\u00E9ry_Airport>	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+<http://dbpedia.org/resource/Bergerac_Dordogne_P\u00E9rigord_Airport>	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:East_London_Airport	owl:differentFrom	dbr:London_City_Airport .
+dbr:Dermot_Desmond	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+<http://dbpedia.org/resource/This_Ain\u0027t_a_Love_Song_(Scouting_for_Girls_song)>	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:Phil_Kingston	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:Airbus_A320_family	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:Dundee_Airport	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:Dublin_Airport	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+<http://dbpedia.org/resource/PilotsEYE.tv>	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:Maersk_Air_UK	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:London_Airport	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:Luxair	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:Regional_jet	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+<http://dbpedia.org/resource/Nice_C\u00F4te_d\u0027Azur_Airport>	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:COVID-19_pandemic_in_England	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:Florence_Airport	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:Palma_de_Mallorca_Airport	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:LOT_Polish_Airlines	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:List_of_accidents_and_incidents_involving_airliners_in_the_United_Kingdom	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:Arcadis	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:Embraer_E-Jet_E2_family	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:Embraer_Phenom_300	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:Every_Teardrop_Is_a_Waterfall	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:Skiathos_International_Airport	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+<http://dbpedia.org/resource/Santorini_(Thira)_International_Airport>	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:Economic_impact_of_the_COVID-19_pandemic_in_the_United_Kingdom	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:British_Airways_fleet	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:One_Canada_Square	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:List_of_Sabena_destinations	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:List_of_UAV-related_incidents	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:List_of_aircraft_operated_by_Scandinavian_Airlines	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:LCA	dbo:wikiPageWikiLink	dbr:London_City_Airport ;
+	dbo:wikiPageDisambiguates	dbr:London_City_Airport .
+dbr:London_Docklands	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:Thames_Barrier	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+<http://dbpedia.org/resource/Top_Gear_(series_10)>	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:Docklands_Light_Railway	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:Glasgow_Airport	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+<http://dbpedia.org/resource/2009_in_England>	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:Oyster_card	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:Fire_services_in_the_United_Kingdom	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:Fokker_70	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:Dassault_Falcon_2000	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:Embraer_E-Jet_family	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:Dassault_Falcon_7X	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:NATS_Holdings	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+<http://dbpedia.org/resource/Hawker_Siddeley_HS.141>	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:Swiss_Global_Air_Lines	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:Mykonos_Airport	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:SkyWork_Airlines	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+<http://dbpedia.org/resource/Fight_the_Flights_(London_City_Airport)>	dbo:wikiPageWikiLink	dbr:London_City_Airport ;
+	dbo:wikiPageRedirects	dbr:London_City_Airport .
+dbr:Eastern_Quay	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:Cardiff_Airport	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:East_End_of_London	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+<http://dbpedia.org/resource/2005_in_rail_transport>	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:Drinking_straw	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+<http://dbpedia.org/resource/Banana_Island,_Lagos>	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:AIG_Financial_Products	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:Helitrans	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:FlyNonstop	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:List_of_aircraft_operated_by_Braathens	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:Transport_in_Liverpool	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:Collar_number	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+<http://dbpedia.org/resource/East_Ham_(UK_Parliament_constituency)>	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:London	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:Metropolitan_Police	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:Heathrow_Airport_Holdings	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:Swing_bridge	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:Brymon_European_Airways	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:Antwerp	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:Fokker_50	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:VLM_Airlines	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:London_City_Airport	rdf:type	yago:WikicatAirportsInTheUnitedKingdom ,
+		yago:YagoPermanentlyLocatedEntity ,
+		dbo:Infrastructure ,
+		yago:PhysicalEntity100001930 ,
+		yago:Object100002684 ,
+		yago:YagoLegalActorGeo ,
+		yago:Whole100003553 .
+@prefix geo:	<http://www.w3.org/2003/01/geo/wgs84_pos#> .
+dbr:London_City_Airport	rdf:type	geo:SpatialThing ,
+		yago:WikicatAirportsInTheLondonRegion ,
+		owl:Thing ,
+		yago:WikicatDistrictsOfNewham ,
+		yago:WikicatAirportsInEurope ,
+		yago:Location100027167 ,
+		yago:Region108630985 ,
+		dbo:Place ,
+		dbo:Location ,
+		yago:District108552138 ,
+		yago:WikicatAirportsInEngland ,
+		yago:Airfield102687992 ,
+		yago:Airport102692232 ,
+		dbo:Airport .
+@prefix umbel-rc:	<http://umbel.org/umbel/rc/> .
+dbr:London_City_Airport	rdf:type	umbel-rc:Building ,
+		yago:YagoGeoEntity ,
+		yago:Artifact100021939 ,
+		yago:Facility103315023 .
+@prefix schema:	<http://schema.org/> .
+dbr:London_City_Airport	rdf:type	schema:Airport ,
+		umbel-rc:Airport_Physical ,
+		dbo:ArchitecturalStructure ,
+		schema:Place .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:London_City_Airport	rdf:type	wikidata:Q1248784 .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:London_City_Airport	rdfs:label	"London City Airport"@sv ,
+		"\uB7F0\uB358 \uC2DC\uD2F0 \uACF5\uD56D"@ko ,
+		"Londres Hiriko aireportua"@eu ,
+		"Aeroporto di Londra-City"@it ,
+		"A\u00E9roport de Londres-City"@fr ,
+		"\u502B\u6566\u57CE\u5E02\u6A5F\u5834"@zh ,
+		"\u30ED\u30F3\u30C9\u30F3\u30FB\u30B7\u30C6\u30A3\u7A7A\u6E2F"@ja ,
+		"Aeroporto da Cidade de Londres"@pt ,
+		"\u041B\u043E\u043D\u0434\u043E\u043D-\u0421\u0456\u0442\u0456 (\u0430\u0435\u0440\u043E\u043F\u043E\u0440\u0442)"@uk ,
+		"London City Airport"@en ,
+		"Aeropuerto de la Ciudad de Londres"@es ,
+		"London City Airport"@nl ,
+		"Leti\u0161t\u011B London City"@cs ,
+		"Aeroport de la Ciutat de Londres"@ca ,
+		"Bandar Udara Kota London"@in ,
+		"\u0645\u0637\u0627\u0631 \u0644\u0646\u062F\u0646 \u0633\u064A\u062A\u064A"@ar ,
+		"London City Airport"@de ,
+		"Port lotniczy Londyn-City"@pl ,
+		"\u041B\u043E\u043D\u0434\u043E\u043D-\u0421\u0438\u0442\u0438 (\u0430\u044D\u0440\u043E\u043F\u043E\u0440\u0442)"@ru ;
+	rdfs:comment	"Leti\u0161t\u011B London City (anglicky London City Airport \u2013 LCA) je mezin\u00E1rodn\u00ED leti\u0161t\u011B na v\u00FDchod\u011B Lond\u00FDna v Newhamu, vybudovan\u00E9 soukromou stavebn\u00ED spole\u010Dnost\u00ED Mowlem v letech 1986 a\u017E 1987. Leti\u0161t\u011B vyu\u017E\u00EDv\u00E1 p\u0159es 10 aerolinek, kter\u00E9 odsud nab\u00EDzej\u00ED lety do v\u00EDce ne\u017E 30 destinac\u00ED v Evrop\u011B (2017)."@cs ,
+		"\u502B\u6566\u57CE\u5E02\u6A5F\u5834\uFF08\u82F1\u8A9E\uFF1ALondon City Airport\uFF1BIATA\u4EE3\u7801\uFF1ALCY\uFF1BICAO\u4EE3\u7801\uFF1AEGLC\uFF09\u662F\u4E00\u500B\u4F4D\u65BC\u502B\u6566\u78BC\u982D\u5340\u7684\u6A5F\u5834\uFF0C\u7531\u65BC\u8A72\u6A5F\u5834\u7684\u8DD1\u9053\u8DDD\u96E2\uFF0C\u6700\u5927\u80FD\u8D77\u964D\u7684\u6A5F\u578B\u70BA\u7A7A\u4E2D\u5DF4\u58EBA318\u7B49\u7D1A\u7684\u652F\u7DDA\u5BA2\u6A5F\u3002"@zh ,
+		"L'Aeroporto di Londra-City (IATA: LCY, ICAO: EGLC) (in inglese: London City Airport) \u00E8 uno dei sei principali aeroporti di Londra. La citt\u00E0 \u00E8 servita da altri 5 aeroporti: Gatwick, Heathrow, Luton, Southend, Stansted. Esso \u00E8 situato a est dei Docklands, nel distretto di Newham, a 11 chilometri a est dalla Citt\u00E0."@it ,
+		"O Aeroporto da Cidade de Londres (em ingl\u00EAs: London City Airport) (IATA: LCY, ICAO: EGLC) \u00E9 um pequeno aeroporto que serve a Cidade de Londres, o centro financeiro da Regi\u00E3o de Londres. O aeroporto foi planejado para receber decolagens e aterrissagem de pequeno porte (STOL), j\u00E1 que localiza-se numa regi\u00E3o de constru\u00E7\u00F5es altas. Foi inaugurado em 1987 com o intuito de facilitar o acesso a Cidade de Londres. Em 2006, o aeroporto registrou um total de 2 milh\u00F5es de passageiros. \u00C9 considerado o 5\u00BA aeroporto do Reino Unido em movimento de passageiros e aeronaves."@pt ,
+		"\u00AB\u041B\u043E\u043D\u0434\u043E\u043D-\u0421\u0438\u0442\u0438\u00BB (\u0430\u043D\u0433\u043B. London City Airport, (IATA: LCY, ICAO: EGLC)) \u2014 \u0430\u044D\u0440\u043E\u043F\u043E\u0440\u0442 \u0441 \u0435\u0434\u0438\u043D\u0441\u0442\u0432\u0435\u043D\u043D\u043E\u0439 \u043F\u043E\u043B\u043E\u0441\u043E\u0439, \u043F\u0440\u0435\u0434\u043D\u0430\u0437\u043D\u0430\u0447\u0435\u043D\u043D\u043E\u0439 \u0434\u043B\u044F \u0438\u0441\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u043D\u0438\u044F \u0441\u0430\u043C\u043E\u043B\u0451\u0442\u043E\u0432 \u0441 \u043A\u043E\u0440\u043E\u0442\u043A\u0438\u043C \u0432\u0437\u043B\u0451\u0442\u043E\u043C \u0438 \u043F\u043E\u0441\u0430\u0434\u043A\u043E\u0439, \u043E\u0431\u0441\u043B\u0443\u0436\u0438\u0432\u0430\u044E\u0449\u0438\u0439 \u043F\u0440\u0435\u0438\u043C\u0443\u0449\u0435\u0441\u0442\u0432\u0435\u043D\u043D\u043E \u0434\u0435\u043B\u043E\u0432\u044B\u0435 \u0440\u0430\u0439\u043E\u043D\u044B \u041B\u043E\u043D\u0434\u043E\u043D\u0430. \u0420\u0430\u0441\u043F\u043E\u043B\u043E\u0436\u0435\u043D \u0432 \u0440\u0430\u0439\u043E\u043D\u0435 \u0414\u043E\u043A\u043B\u0435\u043D\u0434\u0441, \u041D\u044C\u044E\u044D\u043C \u0432 \u0412\u043E\u0441\u0442\u043E\u0447\u043D\u043E\u043C \u041B\u043E\u043D\u0434\u043E\u043D\u0435, \u0410\u043D\u0433\u043B\u0438\u044F, \u0438 \u0431\u044B\u043B \u043F\u043E\u0441\u0442\u0440\u043E\u0435\u043D \u043A\u043E\u043C\u043F\u0430\u043D\u0438\u0435\u0439  \u0432 1986\u20141987 \u0433\u043E\u0434\u0430\u0445. \u00AB\u041B\u043E\u043D\u0434\u043E\u043D-\u0421\u0438\u0442\u0438\u00BB \u2014 \u043F\u044F\u0442\u044B\u0439 \u043F\u043E \u0440\u0430\u0437\u043C\u0435\u0440\u0443 \u043C\u0435\u0436\u0434\u0443\u043D\u0430\u0440\u043E\u0434\u043D\u044B\u0439 \u0430\u044D\u0440\u043E\u043F\u043E\u0440\u0442 \u041B\u043E\u043D\u0434\u043E\u043D\u0430 \u043F\u043E\u0441\u043B\u0435 \u00AB\u0425\u0438\u0442\u0440\u043E\u0443\u00BB, \u00AB\u0413\u0430\u0442\u0432\u0438\u043A\u0430\u00BB, \u00AB\u0421\u0442\u0430\u043D\u0441\u0442\u0435\u0434\u0430\u00BB \u0438 \u00AB\u041B\u0443\u0442\u043E\u043D\u0430\u00BB."@ru ,
+		"Londres Hiriko aireportua (ingelesz London City Airport) Erresuma Batuko Londres hiriburuan dagoen aireportu bat da. Londres Hiritik 11 kilometro ekialdera dago, hain zuzen ere, Docklans barrutian dago. Londresi zerbitzua ematen dioten aireportuetako bat da, gainontzekoak Heathrow, Gatwick, Stansted eta Luton aireportuak direlarik. 1981an inaugurtau zen. Aireportu honen helburu nagusia hiri honetako finantza barrutira ailegatzeko helmuga izatea da, hots, Canary Wharf eremura iristeko sarbide azkarra izatea. 2012an aireportu honetatik 3.016.664 bidaiari iragan ziren."@eu ,
+		"London City Airport (code AITA : LCY \u2022 code OACI : EGLC) est un a\u00E9roport situ\u00E9 \u00E0 l'est de Londres dans les Docklands, dans le borough londonien de Newham. Dot\u00E9 d'une seule piste, il a \u00E9t\u00E9 sp\u00E9cialement con\u00E7u pour les avions \u00E0 d\u00E9collage et atterrissage courts. Il dessert principalement la City, le quartier financier de la capitale britannique. C'est, apr\u00E8s les a\u00E9roports d'Heathrow, Gatwick, Stansted et Luton, le cinqui\u00E8me a\u00E9roport desservant Londres. C'est le hub de CityJet, ancienne filiale d'Air France."@fr ,
+		"L'Aeroport de la Ciutat de Londres (codi IATA: LCY, codi OACI: EGLC) (en angl\u00E8s: London City Airport) \u00E9s un aeroport que d\u00F3na servei a Londres i al seu districte financer. Est\u00E0 localitzat a Docklands, a 11 km a l'est de la Ciutat de Londres, dins el districte londinenc de Newham. L'aeroport \u00E9s utilitzat per aeronaus d'enlairament i aterratge curts o tamb\u00E9 anomenades STOL i disposa d'una sola pista d'aterratge. L'any 2010, va gestionar 2.780.582 passatgers, i esdevingu\u00E9 el cinqu\u00E8 aeroport m\u00E9s transitat de Londres, despr\u00E9s dels aeroports de Heathrow, Gatwick, Stansted i Luton."@ca ,
+		"London City Airport (IATA: LCY, ICAO: EGLC) \u00E4r en flygplats i London. Flygplatsen ligger i Newham, 11 km \u00F6ster om centrala London, och \u00E4r Londonomr\u00E5dets femte st\u00F6rsta efter Heathrow, Gatwick, Stansted och Luton. Flygplatsen \u00E4r en s\u00E5 kallad STOL-flygplats, vilket betyder att rullbanan \u00E4r kort f\u00F6r att vara en internationell flygplats, vilket begr\u00E4nsar flygplanstyper (m\u00E5nga st\u00F6rre plantyper utesluts) och flygstr\u00E4cka (begr\u00E4nsad br\u00E4nslem\u00E4ngd). Den \u00F6ppnade den 26 oktober 1987. Med en blygsam start, med 133 000 passagerare 1988, och 500 000 passagerare 1995, har expansionen tagit fart under andra halvan av 1990-talet och 2000-talet. 2008 hade flygplatsen \u00F6ver 3 miljoner passagerare. Direktlinje till Arlanda flygs av British Airways."@sv ,
+		"Port lotniczy Londyn-City (ang.: London City Airport, kod IATA: LCY, kod ICAO: EGLC) \u2013 mi\u0119dzynarodowe lotnisko w Londynie, w dzielnicy , po\u0142o\u017Cone ok. 10 km na wsch\u00F3d od City of London."@pl ,
+		"London City Airport (IATA: LCY, ICAO: EGLC) is an international airport in London, England. It is located in the Royal Docks in the London Borough of Newham, approximately 7 miles (11 km) east of the City of London and a shorter distance east of Canary Wharf. These are the twin centres of London's financial industry, which is a major user of the airport. The airport was developed by the engineering company Mowlem in 1986\u201387. In 2016 it was bought by a Canadian-led consortium of Alberta Investment Management Corporation (AIMCo), OMERS, the Ontario Teachers' Pension Plan and Wren House Infrastructure Management of the Kuwait Investment Authority."@en ,
+		"Bandar Udara London City (IATA: LCY, ICAO: EGLC) merupakan sebuah bandara yang terletak di London, Britania Raya. Bandara ini merupakan bandara terbesar kelima di kota London. Dibuka tahun 1981."@in ,
+		"\uB7F0\uB358 \uC2DC\uD2F0 \uACF5\uD56D(\uC601\uC5B4: London City Airport)\uC740 \uB7F0\uB358 \uB85C\uC584 \uC54C\uBC84\uD2B8 \uB3C5\uC758 \uB05D\uC790\uB77D\uC5D0 \uC704\uCE58\uD55C \uACF5\uD56D\uC73C\uB85C, \uB7F0\uB358\uC5D0 \uC788\uB294 \uACF5\uD56D \uC911 \uAC00\uC7A5 \uC791\uACE0 \uB3C4\uC2EC\uACFC \uAC00\uC7A5 \uAC00\uAE5D\uB2E4."@ko ,
+		"London City Airport (IATA: LCY, ICAO: EGLC) is het op een na kleinste vliegveld voor burgerluchtvaart in en rondom de Britse hoofdstad Londen. Het is de meest centraal gelegen luchthaven van Londen en - met Heathrow - de enige binnen de grenzen van Groot-Londen. Het vliegveld werd in 1987 geopend en ligt in het gebied Royal Docks in het oostelijk deel van de Docklands, de vroegere haven van Londen."@nl ,
+		"\u041B\u043E\u043D\u0434\u043E\u043D-\u0421\u0456\u0442\u0456 (IATA: LCY, ICAO: EGLC) (\u0430\u043D\u0433\u043B. London City Airport) - \u0430\u0435\u0440\u043E\u043F\u043E\u0440\u0442 \u0437 \u0454\u0434\u0438\u043D\u043E\u044E \u0437\u043B\u0456\u0442\u043D\u043E-\u043F\u043E\u0441\u0430\u0434\u043A\u043E\u0432\u043E\u044E \u0441\u043C\u0443\u0433\u043E\u044E, \u043F\u0440\u0438\u0437\u043D\u0430\u0447\u0435\u043D\u043E\u044E \u0434\u043B\u044F \u0432\u0438\u043A\u043E\u0440\u0438\u0441\u0442\u0430\u043D\u043D\u044F \u043B\u0456\u0442\u0430\u043A\u0456\u0432 \u0437 \u043A\u043E\u0440\u043E\u0442\u043A\u0438\u043C \u0437\u043B\u0435\u0442\u043E\u043C \u0456 \u043F\u043E\u0441\u0430\u0434\u043A\u043E\u044E, \u043E\u0431\u0441\u043B\u0443\u0433\u043E\u0432\u0443\u044E\u0447\u0438\u0439 \u043F\u0435\u0440\u0435\u0432\u0430\u0436\u043D\u043E \u0434\u0456\u043B\u043E\u0432\u0456 \u0440\u0430\u0439\u043E\u043D\u0438 \u041B\u043E\u043D\u0434\u043E\u043D\u0430. \u0420\u043E\u0437\u0442\u0430\u0448\u043E\u0432\u0430\u043D\u0438\u0439 \u0432 \u0440\u0430\u0439\u043E\u043D\u0456 \u0414\u043E\u043A\u043B\u0435\u043D\u0434\u0441, \u041D\u044C\u044E\u0435\u043C \u0443 \u0421\u0445\u0456\u0434\u043D\u043E\u043C\u0443 \u041B\u043E\u043D\u0434\u043E\u043D\u0456, \u0410\u043D\u0433\u043B\u0456\u044F, \u0431\u0443\u0432 \u043F\u043E\u0431\u0443\u0434\u043E\u0432\u0430\u043D\u0438\u0439 \u043A\u043E\u043C\u043F\u0430\u043D\u0456\u0454\u044E  \u0432 1986-1987 \u0440\u043E\u043A\u0430\u0445. \u0404 \u0445\u0430\u0431\u043E\u043C \u0434\u043B\u044F: \n* BA CityFlyer \n* Flybe"@uk ,
+		"Der London City Airport (IATA: LCY, ICAO: EGLC) ist ein internationaler Flughafen in den Royal Docks im London Borough of Newham. Er wurde auf dem Gebiet des ehemaligen Hafenbeckens King George V Dock nahe dem Stadtzentrum Londons und des Gesch\u00E4ftsviertels Canary Wharf errichtet und 1987 er\u00F6ffnet."@de ,
+		"\u0645\u0637\u0627\u0631 \u0644\u0646\u062F\u0646 \u0633\u064A\u062A\u064A (London City Airport) (\u0625\u064A\u0627\u062A\u0627: LCY\u060C \u0625\u064A\u0643\u0627\u0648: EGLC) \u0647\u0648 \u0645\u0637\u0627\u0631 \u062F\u0648\u0644\u064A \u0641\u064A \u0644\u0646\u062F\u0646. \u064A\u0642\u0639 \u0639\u0644\u0649 \u0628\u0639\u062F \u062D\u0648\u0627\u0644\u064A 6 NM (11 \u0643\u0640\u0645; 6.9 \u0645\u064A\u0644) \u0634\u0631\u0642 \u0645\u062F\u064A\u0646\u0629 \u0644\u0646\u062F\u0646. \u064A\u0648\u062C\u062F \u0641\u064A \u0645\u0637\u0627\u0631 \u0644\u0646\u062F\u0646 \u0633\u064A\u062A\u064A \u0645\u062F\u0631\u062C \u0648\u0627\u062D\u062F \u064A\u0628\u0644\u063A \u0637\u0648\u0644\u0647 1,500-\u0645\u062A\u0631 (4,900 \u0642\u062F\u0645)\u060C \u0648\u064A\u0645\u0644\u0643 \u0631\u062E\u0635\u0629 \u0627\u0633\u062A\u062E\u062F\u0627\u0645 \u0627\u0644\u0637\u0627\u0626\u0631\u0627\u062A \u0627\u0644\u0639\u0627\u0645\u0629 (\u0631\u0642\u0645 P728) \u0627\u0644\u062A\u064A \u062A\u0633\u0645\u062D \u0628\u0631\u062D\u0644\u0627\u062A \u062C\u0648\u064A\u0629 \u0644\u0644\u0646\u0642\u0644 \u0627\u0644\u0639\u0627\u0645 \u0644\u0644\u0631\u0643\u0627\u0628 \u0623\u0648 \u0644\u0644\u062A\u062F\u0631\u064A\u0628 \u0639\u0644\u0649 \u0627\u0644\u0637\u064A\u0631\u0627\u0646 (\u0641\u0642\u0637 \u0644\u0644\u062A\u062F\u0631\u064A\u0628 \u0627\u0644\u0644\u0627\u0632\u0645 \u0644\u062A\u0634\u063A\u064A\u0644 \u0627\u0644\u0637\u0627\u0626\u0631\u0627\u062A \u0641\u064A \u0627\u0644\u0645\u0637\u0627\u0631). \u064A\u0633\u0645\u062D \u0641\u0642\u0637 \u0644\u0644\u0637\u0627\u0626\u0631\u0627\u062A \u0630\u0627\u062A \u0627\u0644\u0623\u062C\u0646\u062D\u0629 \u0627\u0644\u062B\u0627\u0628\u062A\u0629 \u0630\u0627\u062A \u0627\u0644\u0645\u062D\u0631\u0643\u0627\u062A \u0627\u0644\u0645\u062A\u0639\u062F\u062F\u0629 \u0645\u0639 \u0627\u0644\u0637\u0627\u0626\u0631\u0627\u062A \u0627\u0644\u062E\u0627\u0635\u0629 \u0648\u0634\u0647\u0627\u062F\u0629 \u0623\u0637\u0642\u0645 \u0627\u0644\u0637\u0627\u0626\u0631\u0627\u062A \u0644\u0625\u062C\u0631\u0627\u0621 \u0639\u0645\u0644\u064A\u0627\u062A \u0641\u064A \u0645\u0637\u0627\u0631 \u0645\u062F\u064A\u0646\u0629 \u0644\u0646\u062F\u0646. \u0648\u0623\u0643\u0628\u0631 \u0637\u0627\u0626\u0631\u0629 \u064A\u0645\u0643\u0646 \u0627\u0633\u062A\u062E\u062F\u0627\u0645\u0647\u0627 \u0641\u064A \u0627\u0644\u0645\u0637\u0627\u0631 \u0647\u064A \u0625\u064A\u0631\u0628\u0627\u0635 \u0625\u064A\u0647 318."@ar ,
+		"\u30ED\u30F3\u30C9\u30F3\u30FB\u30B7\u30C6\u30A3\u7A7A\u6E2F \uFF08\u30ED\u30F3\u30C9\u30F3\u30FB\u30B7\u30C6\u30A3\u304F\u3046\u3053\u3046\u3001\u82F1\u8A9E: London City Airport\uFF09\u306F\u30ED\u30F3\u30C9\u30F3\u6771\u90E8\u306E\u30A6\u30A9\u30FC\u30BF\u30FC\u30D5\u30ED\u30F3\u30C8\u958B\u767A\u5730\u533A\u30FB\u30C9\u30C3\u30AF\u30E9\u30F3\u30BA\u306B\u3042\u308B\u7A7A\u6E2F\u3067\u3042\u308B\u3002"@ja ,
+		"El Aeropuerto de la Ciudad de Londres o London City Airport\u200B (IATA: LCY, OACI: EGLC) es un aeropuerto situado en la ciudad de Londres, capital del Reino Unido. Es un aeropuerto dise\u00F1ado para despegues y aterrizajes en un corto espacio (STOL), de una sola pista. Se encuentra situado en el distrito municipal de Newham, al este de Londres, y fue construido entre 1987 y 1988 por la constructora . El aeropuerto de la Ciudad es el quinto en tr\u00E1fico de la ciudad de Londres, tras los aeropuertos de Heathrow, Gatwick, Luton y Stansted."@es ;
+	foaf:name	"London City Airport"@en .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:London_City_Airport	geo:lat	"51.505279541015625"^^xsd:float ;
+	geo:long	"0.055277775973081588745"^^xsd:float ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Aerial_view_of_London_City_Airport_2007.jpg> ;
+	foaf:isPrimaryTopicOf	wikipedia-en:London_City_Airport .
+@prefix virtrdf:	<http://www.openlinksw.com/schemas/virtrdf#> .
+dbr:London_City_Airport	geo:geometry	"POINT(0.055277775973082 51.505279541016)"^^virtrdf:Geometry .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:London_City_Airport	dct:subject	dbc:Companies_based_in_the_London_Borough_of_Newham ,
+		dbc:Airports_in_the_London_region ,
+		dbc:Transport_in_the_London_Borough_of_Newham ;
+	owl:sameAs	<http://yi.dbpedia.org/resource/\u05DC\u05D0\u05E0\u05D3\u05D0\u05DF_\u05E1\u05D9\u05D8\u05D9_\u05E2\u05E8\u05E4\u05D0\u05E8\u05D8> .
+@prefix lgdt:	<http://linkedgeodata.org/triplify/> .
+dbr:London_City_Airport	owl:sameAs	lgdt:node26608535 ,
+		<http://he.dbpedia.org/resource/\u05E0\u05DE\u05DC_\u05D4\u05EA\u05E2\u05D5\u05E4\u05D4_\u05DC\u05D5\u05E0\u05D3\u05D5\u05DF_\u05E1\u05D9\u05D8\u05D9> .
+@prefix dbpedia-ca:	<http://ca.dbpedia.org/resource/> .
+dbr:London_City_Airport	owl:sameAs	dbpedia-ca:Aeroport_de_la_Ciutat_de_Londres .
+@prefix ns22:	<http://sco.dbpedia.org/resource/> .
+dbr:London_City_Airport	owl:sameAs	ns22:London_City_Airport ,
+		<http://uk.dbpedia.org/resource/\u041B\u043E\u043D\u0434\u043E\u043D-\u0421\u0456\u0442\u0456_(\u0430\u0435\u0440\u043E\u043F\u043E\u0440\u0442)> .
+@prefix dbpedia-sv:	<http://sv.dbpedia.org/resource/> .
+dbr:London_City_Airport	owl:sameAs	dbpedia-sv:London_City_Airport .
+@prefix ns24:	<http://lv.dbpedia.org/resource/> .
+dbr:London_City_Airport	owl:sameAs	ns24:Londonas_Sitijas_lidosta ,
+		<http://ko.dbpedia.org/resource/\uB7F0\uB358_\uC2DC\uD2F0_\uACF5\uD56D> .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:London_City_Airport	owl:sameAs	dbpedia-es:Aeropuerto_de_la_Ciudad_de_Londres .
+@prefix dbpedia-af:	<http://af.dbpedia.org/resource/> .
+dbr:London_City_Airport	owl:sameAs	dbpedia-af:London_City-lughawe ,
+		<http://viaf.org/viaf/131608224> ,
+		wikidata:Q8982 ,
+		<http://ru.dbpedia.org/resource/\u041B\u043E\u043D\u0434\u043E\u043D-\u0421\u0438\u0442\u0438_(\u0430\u044D\u0440\u043E\u043F\u043E\u0440\u0442)> ,
+		<http://tg.dbpedia.org/resource/\u0424\u0443\u0440\u0443\u0434\u0433\u043E\u04B3\u0438_\u043B\u043E\u043D\u0434\u0430\u043D_\u0441\u0438\u200C\u0442\u04E3> ,
+		<http://zh.dbpedia.org/resource/\u502B\u6566\u57CE\u5E02\u6A5F\u5834> .
+@prefix dbpedia-simple:	<http://simple.dbpedia.org/resource/> .
+dbr:London_City_Airport	owl:sameAs	dbpedia-simple:London_City_Airport .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:London_City_Airport	owl:sameAs	dbpedia-de:London_City_Airport .
+@prefix dbpedia-da:	<http://da.dbpedia.org/resource/> .
+dbr:London_City_Airport	owl:sameAs	dbpedia-da:London_City_Airport ,
+		<http://sws.geonames.org/6296599/> ,
+		<http://hu.dbpedia.org/resource/London-City_rep\u00FCl\u0151t\u00E9r> .
+@prefix dbpedia-pms:	<http://pms.dbpedia.org/resource/> .
+dbr:London_City_Airport	owl:sameAs	dbpedia-pms:London_City_Airport .
+@prefix dbpedia-eu:	<http://eu.dbpedia.org/resource/> .
+dbr:London_City_Airport	owl:sameAs	dbpedia-eu:Londres_Hiriko_aireportua .
+@prefix dbpedia-id:	<http://id.dbpedia.org/resource/> .
+dbr:London_City_Airport	owl:sameAs	dbpedia-id:Bandar_Udara_Kota_London ,
+		<http://vi.dbpedia.org/resource/S\u00E2n_bay_London_City> .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:London_City_Airport	owl:sameAs	dbpedia-pt:Aeroporto_da_Cidade_de_Londres .
+@prefix dbpedia-ms:	<http://ms.dbpedia.org/resource/> .
+dbr:London_City_Airport	owl:sameAs	dbpedia-ms:Lapangan_Terbang_London_City .
+@prefix dbpedia-et:	<http://et.dbpedia.org/resource/> .
+dbr:London_City_Airport	owl:sameAs	dbpedia-et:London_City_lennujaam ,
+		<http://fa.dbpedia.org/resource/\u0641\u0631\u0648\u062F\u06AF\u0627\u0647_\u0644\u0646\u062F\u0646_\u0633\u06CC\u200C\u062A\u06CC> .
+@prefix dbpedia-ro:	<http://ro.dbpedia.org/resource/> .
+dbr:London_City_Airport	owl:sameAs	dbpedia-ro:Aeroportul_Londra_City ,
+		<http://ja.dbpedia.org/resource/\u30ED\u30F3\u30C9\u30F3\u30FB\u30B7\u30C6\u30A3\u7A7A\u6E2F> .
+@prefix dbpedia-no:	<http://no.dbpedia.org/resource/> .
+dbr:London_City_Airport	owl:sameAs	dbpedia-no:London_City_lufthavn ,
+		<http://nn.dbpedia.org/resource/London_lufthamn,_City> ,
+		<http://cs.dbpedia.org/resource/Leti\u0161t\u011B_London_City> ,
+		dbr:London_City_Airport ,
+		<http://rdf.freebase.com/ns/m.01jrrf> ,
+		<http://th.dbpedia.org/resource/\u0E17\u0E48\u0E32\u0E2D\u0E32\u0E01\u0E32\u0E28\u0E22\u0E32\u0E19\u0E25\u0E2D\u0E19\u0E14\u0E2D\u0E19\u0E0B\u0E34\u0E15\u0E35> ,
+		<http://tr.dbpedia.org/resource/Londra_\u015Eehir_Havaliman\u0131> .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:London_City_Airport	owl:sameAs	dbpedia-pl:Port_lotniczy_Londyn-City .
+@prefix dbpedia-sr:	<http://sr.dbpedia.org/resource/> .
+dbr:London_City_Airport	owl:sameAs	dbpedia-sr:Gradski_aerodrom_u_Londonu ,
+		<http://bn.dbpedia.org/resource/\u09B2\u09A8\u09CD\u09A1\u09A8_\u09B8\u09BF\u099F\u09BF_\u09AC\u09BF\u09AE\u09BE\u09A8\u09AC\u09A8\u09CD\u09A6\u09B0> ,
+		<http://fr.dbpedia.org/resource/A\u00E9roport_de_Londres-City> .
+@prefix dbpedia-sh:	<http://sh.dbpedia.org/resource/> .
+dbr:London_City_Airport	owl:sameAs	dbpedia-sh:Gradski_aerodrom_u_Londonu .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:London_City_Airport	owl:sameAs	dbpedia-it:Aeroporto_di_Londra-City ,
+		<http://lt.dbpedia.org/resource/Londono_Si\u010Dio_oro_uostas> .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:London_City_Airport	owl:sameAs	yago-res:London_City_Airport .
+@prefix ns43:	<http://ceb.dbpedia.org/resource/> .
+dbr:London_City_Airport	owl:sameAs	ns43:London_City_Airport ,
+		<http://ar.dbpedia.org/resource/\u0645\u0637\u0627\u0631_\u0644\u0646\u062F\u0646_\u0633\u064A\u062A\u064A> ,
+		<https://global.dbpedia.org/id/53Ziz> .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:London_City_Airport	owl:sameAs	dbpedia-nl:London_City_Airport .
+@prefix dbpedia-gl:	<http://gl.dbpedia.org/resource/> .
+dbr:London_City_Airport	owl:sameAs	dbpedia-gl:Aeroporto_da_Cidade_de_Londres .
+@prefix dbpedia-fi:	<http://fi.dbpedia.org/resource/> .
+dbr:London_City_Airport	owl:sameAs	dbpedia-fi:London_City_Airport .
+@prefix georss:	<http://www.georss.org/georss/> .
+dbr:London_City_Airport	georss:point	"51.50527777777778 0.05527777777777777" ;
+	schema:sameAs	<http://viaf.org/viaf/131608224> ;
+	dbp:r1Surface	"Concrete"@en .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:London_City_Airport	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/London_City_Airport?oldid=986519154&ns=0> ;
+	dbo:location	dbr:London_Borough_of_Newham ,
+		dbr:London ;
+	dbp:type	"Public"@en ;
+	dbp:location	dbr:London_Borough_of_Newham ,
+		dbr:London ;
+	dbp:pushpinMapCaption	"Location within Greater London"@en ;
+	dbp:stat3Data	80751 ;
+	dbp:metricRwy	"yes"@en ;
+	dbp:stat3Header	"Aircraft Movements"@en ;
+	dbp:image	"Aerial view of London City Airport 2007.jpg"@en ;
+	dbp:date	"September 2018"@en ;
+	dbp:elevationM	6 ;
+	dbo:elevation	6.0 ,
+		5.7911999999999999034 ;
+	dbp:reason	"Airports don't \"experience' things; but, worse, \"street block closure\" is rather odd BrE, if it is. Can we clarify it into something simpler, that people would actually say, please?"@en ;
+	dbp:operator	"London City Airport Ltd."@en ;
+	dbp:pushpinMap	"Greater London"@en ;
+	dbo:icaoLocationIdentifier	"EGLC" ;
+	dbp:elevationF	19 ;
+	dbp:r1LengthF	4948 ;
+	dbp:r1Number	9 ;
+	dbp:focusCity	dbr:British_Airways ;
+	dbp:iata	"LCY"@en ;
+	dbp:icao	"EGLC"@en ;
+	dbp:image2Width	250 ;
+	dbp:r1LengthM	1508 ;
+	dbo:iataLocationIdentifier	"LCY" ;
+	dbo:runwayDesignation	"09/27" ;
+	dbo:runwayLength	1508.0 ,
+		1508.1503999999999905 ;
+	dbo:runwaySurface	"Concrete" ;
+	dbp:stat1Data	5100025 ;
+	dbp:stat1Header	"Passengers"@en .
+@prefix ns49:	<http://dbpedia.org/datatype/> .
+dbr:London_City_Airport	dbp:stat2Data	"5.7"^^ns49:perCent ;
+	dbp:stat2Header	"Passenger change 18-19"@en ;
+	dbp:statYear	2019 ;
+	dbp:owner	"Consortium of AIMCo, OMERS, OTPP and the Kuwait Investment Authority"@en ;
+	dbp:footnotes	"Sources: UK AIP at NATS WAD"@en ,
+		"Statistics from the UK Civil Aviation Authority"@en ;
+	dbp:text	"experienced street block closures"@en ;
+	dbp:cityServed	"London, England"@en ;
+	dbo:city	dbr:London ;
+	dbo:owner	dbr:Consortium ,
+		dbr:Kuwait_Investment_Authority ,
+		dbr:OMERS ,
+		<http://dbpedia.org/resource/Ontario_Teachers\u0027_Pension_Plan> ;
+	dbp:imageWidth	100 ;
+	dbp:name	"London City Airport"@en ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Aerial_view_of_London_City_Airport_2007.jpg?width=300> ;
+	dbo:wikiPageID	239680 ;
+	dbo:wikiPageRevisionID	986519154 ;
+	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/John_F._Kennedy_International_Airport> ,
+		dbr:Menorca_Airport ,
+		dbr:NATS_Holdings ,
+		<http://dbpedia.org/resource/2016_London_mayoral_election> ,
+		dbr:Caroline_Russell ,
+		dbr:Airport_terminal ,
+		dbr:Budapest_Ferenc_Liszt_International_Airport ,
+		dbr:North_Woolwich ,
+		dbr:Oaktree_Capital_Management ,
+		dbr:Canning_Town ,
+		dbr:Geneva_Airport ,
+		<http://dbpedia.org/resource/Charles,_Prince_of_Wales> ,
+		dbr:Beckton ,
+		dbr:Thames_Clippers ,
+		dbr:Florence_Airport ,
+		dbr:Alitalia ,
+		dbr:British_Aerospace_Jetstream_41 ,
+		dbr:Fokker_70 ,
+		dbr:Dublin_Airport ,
+		dbr:Mykonos_Airport ,
+		dbr:Docklands_Light_Railway ,
+		dbr:Dassault_Falcon ,
+		dbr:British_Aerospace_146 ,
+		dbr:Landing_gear ,
+		dbr:Greater_London_Council ,
+		dbr:Plane_Stupid ,
+		dbr:Airports_of_London ,
+		dbr:Airbus_A318 ,
+		dbr:Thameslink ,
+		dbr:Glasgow_Airport ,
+		dbr:Saab_2000 ,
+		dbr:Zurich_Airport ,
+		<http://dbpedia.org/resource/M\u00E1laga> ,
+		<http://dbpedia.org/resource/M\u00E1laga_Airport> ,
+		dbr:Oyster_card ,
+		dbr:Vilnius_Airport ,
+		dbr:STOLport ,
+		dbr:Berlin_Brandenburg_Airport ,
+		<http://dbpedia.org/resource/Manor_Park,_London> ,
+		dbr:AIG_Financial_Products ,
+		dbr:Hawker_400 ,
+		dbr:M11_motorway .
+@prefix ns50:	<http://dbpedia.org/resource/Cessna_CitationJet/> .
+dbr:London_City_Airport	dbo:wikiPageWikiLink	ns50:M2 ,
+		dbr:Palma_de_Mallorca_Airport ,
+		dbr:Ski_resort ,
+		dbr:Multistorey_car_park ,
+		dbr:International_airport ,
+		dbr:British_Airways ,
+		<http://dbpedia.org/resource/Chamb\u00E9ry_Airport> ,
+		<http://dbpedia.org/resource/Plaistow,_Newham> ,
+		dbr:Mowlem ,
+		dbr:List_of_bus_routes_in_London ,
+		dbr:Tear_gas ,
+		<http://dbpedia.org/resource/Chamb\u00E9ry> ,
+		dbr:London ,
+		dbr:Contactless_smart_card ,
+		<http://dbpedia.org/resource/Stratford,_London> ,
+		dbr:Green_Party_of_England_and_Wales ,
+		dbr:List_of_busiest_airports_in_the_United_Kingdom ,
+		dbr:Heron_Quays ,
+		<http://dbpedia.org/resource/2012_Summer_Olympics> ,
+		dbr:Boris_Johnson ,
+		dbr:London_Assembly ,
+		dbr:Queen_Elizabeth_Olympic_Park ,
+		<http://dbpedia.org/resource/Piaggio_P.180_Avanti> ,
+		dbr:Plymouth ,
+		dbr:Milan ,
+		dbr:De_Havilland_Canada_Dash_8 ,
+		dbr:Geneva ,
+		dbr:Greater_London ,
+		<http://dbpedia.org/resource/D\u00FCsseldorf_Airport> ,
+		dbr:LOT_Polish_Airlines ,
+		dbr:Alberta_Investment_Management_Corporation ,
+		dbr:Elizabeth_II ,
+		dbr:West_India_Docks ,
+		dbr:Silvertown_railway_station ,
+		dbr:Edinburgh_Airport ,
+		dbr:Dornier_328 ,
+		dbr:Beechcraft_Super_King_Air ,
+		dbr:Fokker_50 ,
+		dbr:Crossrail ,
+		dbr:Saab_340 ,
+		dbr:Warsaw_Chopin_Airport ,
+		<http://dbpedia.org/resource/Si\u00E2n_Berry> ,
+		dbr:Mayor_of_London ,
+		dbr:Embraer_ERJ_family ,
+		<http://dbpedia.org/resource/Southeastern_(train_operating_company)> ,
+		dbr:Billund_Airport ,
+		<http://dbpedia.org/resource/Bowser_(tanker)> ,
+		dbr:George_Best_Belfast_City_Airport ,
+		<http://dbpedia.org/resource/Swanwick,_Hampshire> ,
+		dbr:Taxiway ,
+		dbr:Aeronautical_Information_Publication ,
+		dbr:Embraer_E-Jet_family ,
+		dbr:KLM ,
+		dbr:Palma_de_Mallorca ,
+		dbr:Split_Airport ,
+		dbr:London_Underground ,
+		dbr:Swiss_International_Air_Lines ,
+		dbr:Luton_Airport ,
+		dbr:Frankfurt_Airport ,
+		dbr:London_City_Airport_DLR_station ,
+		dbr:Air_Antwerp ,
+		dbr:Heathrow_Airport ,
+		dbr:Commercial_aviation ,
+		<http://dbpedia.org/resource/Quimper\u2013Cornouaille_Airport> ,
+		dbr:Air_traffic_controller ,
+		dbr:Itch ,
+		dbr:Jet_bridge ,
+		dbr:Swissair ,
+		dbr:Frankfurt ,
+		dbr:Seaplane_base ,
+		dbr:Global_Infrastructure_Partners ,
+		dbr:Dornier_Do_228 ,
+		dbr:East_Ham ,
+		dbr:Antwerp_International_Airport ,
+		dbr:Lufthansa ,
+		dbc:Transport_in_the_London_Borough_of_Newham ,
+		dbr:C2c ,
+		dbr:Dundee_Airport ,
+		dbr:White_paper ,
+		dbr:Amsterdam ,
+		dbr:Luxembourg_Airport ,
+		dbr:M25_motorway ,
+		dbr:Winter_sports ,
+		dbr:Ibiza_Airport ,
+		dbr:Planning_permission ,
+		dbr:Loganair ,
+		dbr:Hawker_800 ,
+		dbr:Barge ,
+		dbr:Town_and_country_planning_in_the_United_Kingdom ,
+		<http://dbpedia.org/resource/Bergerac_Dordogne_P\u00E9rigord_Airport> ,
+		<http://dbpedia.org/resource/Willie_Walsh_(businessman)> ,
+		dbr:Transatlantic_flight ,
+		dbr:Consortium ,
+		dbr:Gulf_War ,
+		dbr:New_York_City ,
+		<http://dbpedia.org/resource/Civil_Aviation_Authority_(United_Kingdom)> ,
+		dbr:Manchester_Airport ,
+		dbr:London_Docklands_Development_Corporation ,
+		<http://dbpedia.org/resource/Royal_Albert_Dock,_London> ,
+		dbr:Faro_Airport ,
+		dbr:High_Court_of_Justice ,
+		<http://dbpedia.org/resource/Ontario_Teachers\u0027_Pension_Plan> ,
+		dbr:OMERS ,
+		dbr:TfL_Rail ,
+		<http://dbpedia.org/resource/San_Sebasti\u00E1n_Airport> ,
+		dbr:Rotterdam ,
+		dbr:London_Borough_of_Newham ,
+		dbr:Kuwait_Investment_Authority ,
+		dbr:United_Nations ,
+		<http://dbpedia.org/resource/Leonardo_da_Vinci\u2013Fiumicino_Airport> ,
+		dbr:Brymon_Airways ,
+		dbr:List_of_airports_in_the_United_Kingdom_and_the_British_Crown_Dependencies ,
+		<http://dbpedia.org/resource/Greater_Anglia_(train_operating_company)> ,
+		dbr:Instrument_landing_system_glide_path ,
+		<http://dbpedia.org/resource/Nicholas_Ridley,_Baron_Ridley_of_Liddesdale> ,
+		dbr:Secretary_of_State_for_Transport ,
+		dbr:Venice_Marco_Polo_Airport ,
+		<http://dbpedia.org/resource/Nice_C\u00F4te_d\u0027Azur_Airport> ,
+		dbr:London_Stansted_Airport ,
+		dbr:A_roads_in_Zone_1_of_the_Great_Britain_numbering_scheme ,
+		<http://dbpedia.org/resource/King_George_V_Dock,_London> ,
+		dbr:North_Circular_Road ,
+		<http://dbpedia.org/resource/Z\u00FCrich> ,
+		<http://dbpedia.org/resource/File:BACF_departure_London_city_Airport.JPG> ,
+		<http://dbpedia.org/resource/File:City_Airport_station.jpg> ,
+		<http://dbpedia.org/resource/File:Heron_Quays_plaque.jpg> ,
+		<http://dbpedia.org/resource/File:LONDON_CITY_AIRPORT_SEP_2012_(8057694485).jpg> ,
+		<http://dbpedia.org/resource/File:Various_aircraft_at_LCY_2011.jpg> ,
+		<http://dbpedia.org/resource/File:London_City_Airport_DLR_and_Crossrail.png> ,
+		dbr:Tank_truck ,
+		<http://dbpedia.org/resource/File:BA_City_Flyer_Embraer_&_Swiss_Avro_RJ_85_(16476127425).jpg> ,
+		<http://dbpedia.org/resource/File:LCY_01.jpg> ,
+		dbr:City_of_London ,
+		dbr:Rotterdam_The_Hague_Airport ,
+		dbr:Gatwick_Airport ,
+		dbr:Canary_Wharf ,
+		dbr:Hangar ,
+		dbc:Companies_based_in_the_London_Borough_of_Newham ,
+		dbr:Munich_Airport ,
+		dbr:Reg_Ward ,
+		dbr:Paris ,
+		dbr:British_Overseas_Airways_Corporation ,
+		dbr:Luxembourg ,
+		dbr:Luxair ,
+		dbr:Amsterdam_Airport_Schiphol ,
+		dbr:Odyssey_Airlines ,
+		dbr:Business_jet ,
+		<http://dbpedia.org/resource/Santorini_(Thira)_International_Airport> ,
+		<http://dbpedia.org/resource/A13_road_(England)> ,
+		dbr:Skiathos_International_Airport ,
+		dbr:Royal_Docks ,
+		dbr:AirSea_Lines ,
+		dbr:Airbus_A220 ,
+		dbc:Airports_in_the_London_region ,
+		dbr:De_Havilland_Canada_Dash_7 ,
+		dbr:De_Havilland_Comet ,
+		<http://dbpedia.org/resource/V\u00E1clav_Havel_Airport_Prague> ,
+		dbr:Dermot_Desmond ,
+		<http://dbpedia.org/resource/File:DHC-7_G-BOAY_London_City_Aws_LCY_31.10.88_edited-2.jpg> ,
+		dbr:Airport_apron ,
+		dbr:Linate_Airport ,
+		dbr:ATR_42 ,
+		dbr:ATR_72 ,
+		dbr:London_Buses ,
+		dbr:London_Overground ,
+		dbr:Scott_Ainslie ;
+	dbo:wikiPageExternalLink	<http://www.hacaneast.org.uk> ,
+		<https://web.archive.org/web/20190311082223/http:/lcacc.org/> ,
+		<http://www.londoncityairport.com> ,
+		<https://web.archive.org/web/20170313043152/http:/www.caa.co.uk/Data-and-analysis/UK-aviation-market/Airports/Datasets/UK-Airport-data/Airport-data-2018/> .
+@prefix dbt:	<http://dbpedia.org/resource/Template:> .
+dbr:London_City_Airport	dbp:wikiPageUsesTemplate	dbt:Coord ,
+		dbt:Reflist ,
+		dbt:Short_description ,
+		dbt:Transport_in_London ,
+		dbt:Portalbar ,
+		dbt:Decrease ,
+		dbt:Increase ,
+		dbt:Cn ,
+		dbt:Use_British_English ,
+		dbt:Use_dmy_dates ,
+		dbt:Clarify ,
+		dbt:Redirect ,
+		dbt:Start_date_and_age ,
+		dbt:For ,
+		dbt:Convert ,
+		dbt:Airports_in_the_United_Kingdom ,
+		dbt:Rws ,
+		dbt:Airport_codes ,
+		dbt:LB_Newham ,
+		dbt:Airport_destination_list ,
+		dbt:Commons_category-inline ,
+		dbt:Infobox_airport ;
+	dbo:abstract	"\uB7F0\uB358 \uC2DC\uD2F0 \uACF5\uD56D(\uC601\uC5B4: London City Airport)\uC740 \uB7F0\uB358 \uB85C\uC584 \uC54C\uBC84\uD2B8 \uB3C5\uC758 \uB05D\uC790\uB77D\uC5D0 \uC704\uCE58\uD55C \uACF5\uD56D\uC73C\uB85C, \uB7F0\uB358\uC5D0 \uC788\uB294 \uACF5\uD56D \uC911 \uAC00\uC7A5 \uC791\uACE0 \uB3C4\uC2EC\uACFC \uAC00\uC7A5 \uAC00\uAE5D\uB2E4."@ko ,
+		"\u00AB\u041B\u043E\u043D\u0434\u043E\u043D-\u0421\u0438\u0442\u0438\u00BB (\u0430\u043D\u0433\u043B. London City Airport, (IATA: LCY, ICAO: EGLC)) \u2014 \u0430\u044D\u0440\u043E\u043F\u043E\u0440\u0442 \u0441 \u0435\u0434\u0438\u043D\u0441\u0442\u0432\u0435\u043D\u043D\u043E\u0439 \u043F\u043E\u043B\u043E\u0441\u043E\u0439, \u043F\u0440\u0435\u0434\u043D\u0430\u0437\u043D\u0430\u0447\u0435\u043D\u043D\u043E\u0439 \u0434\u043B\u044F \u0438\u0441\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u043D\u0438\u044F \u0441\u0430\u043C\u043E\u043B\u0451\u0442\u043E\u0432 \u0441 \u043A\u043E\u0440\u043E\u0442\u043A\u0438\u043C \u0432\u0437\u043B\u0451\u0442\u043E\u043C \u0438 \u043F\u043E\u0441\u0430\u0434\u043A\u043E\u0439, \u043E\u0431\u0441\u043B\u0443\u0436\u0438\u0432\u0430\u044E\u0449\u0438\u0439 \u043F\u0440\u0435\u0438\u043C\u0443\u0449\u0435\u0441\u0442\u0432\u0435\u043D\u043D\u043E \u0434\u0435\u043B\u043E\u0432\u044B\u0435 \u0440\u0430\u0439\u043E\u043D\u044B \u041B\u043E\u043D\u0434\u043E\u043D\u0430. \u0420\u0430\u0441\u043F\u043E\u043B\u043E\u0436\u0435\u043D \u0432 \u0440\u0430\u0439\u043E\u043D\u0435 \u0414\u043E\u043A\u043B\u0435\u043D\u0434\u0441, \u041D\u044C\u044E\u044D\u043C \u0432 \u0412\u043E\u0441\u0442\u043E\u0447\u043D\u043E\u043C \u041B\u043E\u043D\u0434\u043E\u043D\u0435, \u0410\u043D\u0433\u043B\u0438\u044F, \u0438 \u0431\u044B\u043B \u043F\u043E\u0441\u0442\u0440\u043E\u0435\u043D \u043A\u043E\u043C\u043F\u0430\u043D\u0438\u0435\u0439  \u0432 1986\u20141987 \u0433\u043E\u0434\u0430\u0445. \u00AB\u041B\u043E\u043D\u0434\u043E\u043D-\u0421\u0438\u0442\u0438\u00BB \u2014 \u043F\u044F\u0442\u044B\u0439 \u043F\u043E \u0440\u0430\u0437\u043C\u0435\u0440\u0443 \u043C\u0435\u0436\u0434\u0443\u043D\u0430\u0440\u043E\u0434\u043D\u044B\u0439 \u0430\u044D\u0440\u043E\u043F\u043E\u0440\u0442 \u041B\u043E\u043D\u0434\u043E\u043D\u0430 \u043F\u043E\u0441\u043B\u0435 \u00AB\u0425\u0438\u0442\u0440\u043E\u0443\u00BB, \u00AB\u0413\u0430\u0442\u0432\u0438\u043A\u0430\u00BB, \u00AB\u0421\u0442\u0430\u043D\u0441\u0442\u0435\u0434\u0430\u00BB \u0438 \u00AB\u041B\u0443\u0442\u043E\u043D\u0430\u00BB. \u0410\u044D\u0440\u043E\u043F\u043E\u0440\u0442 \u0438\u043C\u0435\u0435\u0442 \u043B\u0438\u0446\u0435\u043D\u0437\u0438\u044E \u2116P728, \u043A\u043E\u0442\u043E\u0440\u0430\u044F \u043F\u043E\u0437\u0432\u043E\u043B\u044F\u0435\u0442 \u043F\u0435\u0440\u0435\u0432\u043E\u0437\u043A\u0438 \u043F\u0430\u0441\u0441\u0430\u0436\u0438\u0440\u043E\u0432 \u0438 \u043E\u0431\u0443\u0447\u0435\u043D\u0438\u0435 \u043F\u0438\u043B\u043E\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044E \u0441\u0430\u043C\u043E\u043B\u0451\u0442\u0430 \u0434\u043B\u044F \u0441\u0430\u043C\u043E\u043B\u0451\u0442\u043E\u0432, \u0434\u043B\u044F \u043A\u043E\u0442\u043E\u0440\u044B\u0445 \u0432\u043E\u0437\u043C\u043E\u0436\u0435\u043D \u0437\u0430\u0445\u043E\u0434 \u043D\u0430 \u043F\u043E\u0441\u0430\u0434\u043A\u0443 \u043F\u043E\u0434 \u0443\u0433\u043B\u043E\u043C 5,5\u00B0 \u0438\u043B\u0438 \u0431\u043E\u043B\u0435\u0435 \u043A\u0440\u0443\u0442\u044B\u043C. \u0421\u0443\u0449\u0435\u0441\u0442\u0432\u0443\u0435\u0442 \u043F\u043B\u0430\u043D \u0440\u0430\u0437\u0432\u0438\u0442\u0438\u044F \u0430\u044D\u0440\u043E\u043F\u043E\u0440\u0442\u0430 \u0434\u043E 2030 \u0433\u043E\u0434\u0430. \u041F\u043B\u0430\u043D \u043F\u0440\u0435\u0434\u0443\u0441\u043C\u0430\u0442\u0440\u0438\u0432\u0430\u0435\u0442 \u043F\u043E\u044D\u0442\u0430\u043F\u043D\u043E\u0435 \u0440\u0430\u0441\u0448\u0438\u0440\u0435\u043D\u0438\u0435 \u0430\u044D\u0440\u043E\u043F\u043E\u0440\u0442\u0430 \u0434\u043E \u043C\u0430\u043A\u0441\u0438\u043C\u0430\u043B\u044C\u043D\u043E\u0439 \u043F\u0440\u043E\u043F\u0443\u0441\u043A\u043D\u043E\u0439 \u0441\u043F\u043E\u0441\u043E\u0431\u043D\u043E\u0441\u0442\u0438 8 \u043C\u043B\u043D \u043F\u0430\u0441\u0441\u0430\u0436\u0438\u0440\u043E\u0432 \u0432 \u0433\u043E\u0434 \u0431\u0435\u0437 \u0441\u0442\u0440\u043E\u0438\u0442\u0435\u043B\u044C\u0441\u0442\u0432\u0430 \u0432\u0442\u043E\u0440\u043E\u0439 \u0432\u0437\u043B\u0451\u0442\u043D\u043E-\u043F\u043E\u0441\u0430\u0434\u043E\u0447\u043D\u043E\u0439 \u043F\u043E\u043B\u043E\u0441\u044B \u0438\u043B\u0438 \u0440\u0430\u0441\u0448\u0438\u0440\u0435\u043D\u0438\u044F \u0441\u0443\u0449\u0435\u0441\u0442\u0432\u0443\u044E\u0449\u0438\u0445 \u0433\u0440\u0430\u043D\u0438\u0446 \u0430\u044D\u0440\u043E\u043F\u043E\u0440\u0442\u0430."@ru ,
+		"Leti\u0161t\u011B London City (anglicky London City Airport \u2013 LCA) je mezin\u00E1rodn\u00ED leti\u0161t\u011B na v\u00FDchod\u011B Lond\u00FDna v Newhamu, vybudovan\u00E9 soukromou stavebn\u00ED spole\u010Dnost\u00ED Mowlem v letech 1986 a\u017E 1987. Leti\u0161t\u011B vyu\u017E\u00EDv\u00E1 p\u0159es 10 aerolinek, kter\u00E9 odsud nab\u00EDzej\u00ED lety do v\u00EDce ne\u017E 30 destinac\u00ED v Evrop\u011B (2017). LCA m\u00E1 jednu dr\u00E1hu, kter\u00E1 je pom\u011Brn\u011B kr\u00E1tk\u00E1, mohou tak na ni p\u0159ist\u00E1vat maxim\u00E1ln\u011B men\u0161\u00ED proudov\u00E9 letouny. Rozvoj leti\u0161t\u011B je limitov\u00E1n p\u0159\u00EDsn\u00FDmi p\u0159edpisy upravuj\u00EDc\u00EDmi maxim\u00E1ln\u00ED hladinu hluku startuj\u00EDc\u00EDch letadel a omezen\u00FDm po\u010Dtem typ\u016F letadel, kter\u00E9 jsou schopn\u00E9 p\u0159ist\u00E1t a vzl\u00E9tnout z kr\u00E1tk\u00E9 dr\u00E1hy tohoto leti\u0161t\u011B. Nejv\u011Bt\u0161\u00ED letadlo, kter\u00E9 zde m\u016F\u017Ee p\u0159ist\u00E1vat je Bombardier CS300."@cs ,
+		"El Aeropuerto de la Ciudad de Londres o London City Airport\u200B (IATA: LCY, OACI: EGLC) es un aeropuerto situado en la ciudad de Londres, capital del Reino Unido. Es un aeropuerto dise\u00F1ado para despegues y aterrizajes en un corto espacio (STOL), de una sola pista. Se encuentra situado en el distrito municipal de Newham, al este de Londres, y fue construido entre 1987 y 1988 por la constructora . El aeropuerto de la Ciudad es el quinto en tr\u00E1fico de la ciudad de Londres, tras los aeropuertos de Heathrow, Gatwick, Luton y Stansted. Su finalidad principal es el acceso r\u00E1pido al distrito financiero de la ciudad, la conocida como City de Londres. En el a\u00F1o 2006 m\u00E1s de dos millones de pasajeros utilizaron el aeropuerto.\u200B Ese mismo a\u00F1o fue escogido como el mejor aeropuerto del Reino Unido.\u200B"@es ,
+		"\u30ED\u30F3\u30C9\u30F3\u30FB\u30B7\u30C6\u30A3\u7A7A\u6E2F \uFF08\u30ED\u30F3\u30C9\u30F3\u30FB\u30B7\u30C6\u30A3\u304F\u3046\u3053\u3046\u3001\u82F1\u8A9E: London City Airport\uFF09\u306F\u30ED\u30F3\u30C9\u30F3\u6771\u90E8\u306E\u30A6\u30A9\u30FC\u30BF\u30FC\u30D5\u30ED\u30F3\u30C8\u958B\u767A\u5730\u533A\u30FB\u30C9\u30C3\u30AF\u30E9\u30F3\u30BA\u306B\u3042\u308B\u7A7A\u6E2F\u3067\u3042\u308B\u3002"@ja ,
+		"Londres Hiriko aireportua (ingelesz London City Airport) Erresuma Batuko Londres hiriburuan dagoen aireportu bat da. Londres Hiritik 11 kilometro ekialdera dago, hain zuzen ere, Docklans barrutian dago. Londresi zerbitzua ematen dioten aireportuetako bat da, gainontzekoak Heathrow, Gatwick, Stansted eta Luton aireportuak direlarik. 1981an inaugurtau zen. Aireportu honen helburu nagusia hiri honetako finantza barrutira ailegatzeko helmuga izatea da, hots, Canary Wharf eremura iristeko sarbide azkarra izatea. 2012an aireportu honetatik 3.016.664 bidaiari iragan ziren."@eu ,
+		"London City Airport (IATA: LCY, ICAO: EGLC) \u00E4r en flygplats i London. Flygplatsen ligger i Newham, 11 km \u00F6ster om centrala London, och \u00E4r Londonomr\u00E5dets femte st\u00F6rsta efter Heathrow, Gatwick, Stansted och Luton. Flygplatsen \u00E4r en s\u00E5 kallad STOL-flygplats, vilket betyder att rullbanan \u00E4r kort f\u00F6r att vara en internationell flygplats, vilket begr\u00E4nsar flygplanstyper (m\u00E5nga st\u00F6rre plantyper utesluts) och flygstr\u00E4cka (begr\u00E4nsad br\u00E4nslem\u00E4ngd). Den \u00F6ppnade den 26 oktober 1987. Med en blygsam start, med 133 000 passagerare 1988, och 500 000 passagerare 1995, har expansionen tagit fart under andra halvan av 1990-talet och 2000-talet. 2008 hade flygplatsen \u00F6ver 3 miljoner passagerare. Direktlinje till Arlanda flygs av British Airways."@sv ,
+		"\u041B\u043E\u043D\u0434\u043E\u043D-\u0421\u0456\u0442\u0456 (IATA: LCY, ICAO: EGLC) (\u0430\u043D\u0433\u043B. London City Airport) - \u0430\u0435\u0440\u043E\u043F\u043E\u0440\u0442 \u0437 \u0454\u0434\u0438\u043D\u043E\u044E \u0437\u043B\u0456\u0442\u043D\u043E-\u043F\u043E\u0441\u0430\u0434\u043A\u043E\u0432\u043E\u044E \u0441\u043C\u0443\u0433\u043E\u044E, \u043F\u0440\u0438\u0437\u043D\u0430\u0447\u0435\u043D\u043E\u044E \u0434\u043B\u044F \u0432\u0438\u043A\u043E\u0440\u0438\u0441\u0442\u0430\u043D\u043D\u044F \u043B\u0456\u0442\u0430\u043A\u0456\u0432 \u0437 \u043A\u043E\u0440\u043E\u0442\u043A\u0438\u043C \u0437\u043B\u0435\u0442\u043E\u043C \u0456 \u043F\u043E\u0441\u0430\u0434\u043A\u043E\u044E, \u043E\u0431\u0441\u043B\u0443\u0433\u043E\u0432\u0443\u044E\u0447\u0438\u0439 \u043F\u0435\u0440\u0435\u0432\u0430\u0436\u043D\u043E \u0434\u0456\u043B\u043E\u0432\u0456 \u0440\u0430\u0439\u043E\u043D\u0438 \u041B\u043E\u043D\u0434\u043E\u043D\u0430. \u0420\u043E\u0437\u0442\u0430\u0448\u043E\u0432\u0430\u043D\u0438\u0439 \u0432 \u0440\u0430\u0439\u043E\u043D\u0456 \u0414\u043E\u043A\u043B\u0435\u043D\u0434\u0441, \u041D\u044C\u044E\u0435\u043C \u0443 \u0421\u0445\u0456\u0434\u043D\u043E\u043C\u0443 \u041B\u043E\u043D\u0434\u043E\u043D\u0456, \u0410\u043D\u0433\u043B\u0456\u044F, \u0431\u0443\u0432 \u043F\u043E\u0431\u0443\u0434\u043E\u0432\u0430\u043D\u0438\u0439 \u043A\u043E\u043C\u043F\u0430\u043D\u0456\u0454\u044E  \u0432 1986-1987 \u0440\u043E\u043A\u0430\u0445. \u0404 \u0445\u0430\u0431\u043E\u043C \u0434\u043B\u044F: \n* BA CityFlyer \n* Flybe"@uk ,
+		"L'Aeroport de la Ciutat de Londres (codi IATA: LCY, codi OACI: EGLC) (en angl\u00E8s: London City Airport) \u00E9s un aeroport que d\u00F3na servei a Londres i al seu districte financer. Est\u00E0 localitzat a Docklands, a 11 km a l'est de la Ciutat de Londres, dins el districte londinenc de Newham. L'aeroport \u00E9s utilitzat per aeronaus d'enlairament i aterratge curts o tamb\u00E9 anomenades STOL i disposa d'una sola pista d'aterratge. L'any 2010, va gestionar 2.780.582 passatgers, i esdevingu\u00E9 el cinqu\u00E8 aeroport m\u00E9s transitat de Londres, despr\u00E9s dels aeroports de Heathrow, Gatwick, Stansted i Luton."@ca ,
+		"Der London City Airport (IATA: LCY, ICAO: EGLC) ist ein internationaler Flughafen in den Royal Docks im London Borough of Newham. Er wurde auf dem Gebiet des ehemaligen Hafenbeckens King George V Dock nahe dem Stadtzentrum Londons und des Gesch\u00E4ftsviertels Canary Wharf errichtet und 1987 er\u00F6ffnet."@de ,
+		"London City Airport (IATA: LCY, ICAO: EGLC) is an international airport in London, England. It is located in the Royal Docks in the London Borough of Newham, approximately 7 miles (11 km) east of the City of London and a shorter distance east of Canary Wharf. These are the twin centres of London's financial industry, which is a major user of the airport. The airport was developed by the engineering company Mowlem in 1986\u201387. In 2016 it was bought by a Canadian-led consortium of Alberta Investment Management Corporation (AIMCo), OMERS, the Ontario Teachers' Pension Plan and Wren House Infrastructure Management of the Kuwait Investment Authority. London City Airport has a single 1,508-metre (4,948 ft) long runway, and a CAA Public Use Aerodrome Licence (Number P728) that allows flights for the public transport of passengers or for flight training (but only for training necessary for the operation of aircraft at the airport). Only multi-engine, fixed-wing aircraft with special aircraft and aircrew certification to fly 5.5\u00B0 approaches are allowed to conduct operations at London City Airport. The largest aircraft which can be used at the airport is the Airbus A318, which has been modified with a \"steep approach function\". London City had over 4.5 million passenger movements in 2017. It is the fifth-busiest airport by passengers and aircraft movements serving the London area\u2014after Heathrow, Gatwick, Stansted and Luton\u2014and was the 14th-busiest in the UK in 2017. In 2019 the airport handled over 5 million passengers."@en ,
+		"London City Airport (code AITA : LCY \u2022 code OACI : EGLC) est un a\u00E9roport situ\u00E9 \u00E0 l'est de Londres dans les Docklands, dans le borough londonien de Newham. Dot\u00E9 d'une seule piste, il a \u00E9t\u00E9 sp\u00E9cialement con\u00E7u pour les avions \u00E0 d\u00E9collage et atterrissage courts. Il dessert principalement la City, le quartier financier de la capitale britannique. C'est, apr\u00E8s les a\u00E9roports d'Heathrow, Gatwick, Stansted et Luton, le cinqui\u00E8me a\u00E9roport desservant Londres. C'est le hub de CityJet, ancienne filiale d'Air France."@fr ,
+		"L'Aeroporto di Londra-City (IATA: LCY, ICAO: EGLC) (in inglese: London City Airport) \u00E8 uno dei sei principali aeroporti di Londra. La citt\u00E0 \u00E8 servita da altri 5 aeroporti: Gatwick, Heathrow, Luton, Southend, Stansted. Esso \u00E8 situato a est dei Docklands, nel distretto di Newham, a 11 chilometri a est dalla Citt\u00E0."@it ,
+		"Port lotniczy Londyn-City (ang.: London City Airport, kod IATA: LCY, kod ICAO: EGLC) \u2013 mi\u0119dzynarodowe lotnisko w Londynie, w dzielnicy , po\u0142o\u017Cone ok. 10 km na wsch\u00F3d od City of London."@pl ,
+		"\u502B\u6566\u57CE\u5E02\u6A5F\u5834\uFF08\u82F1\u8A9E\uFF1ALondon City Airport\uFF1BIATA\u4EE3\u7801\uFF1ALCY\uFF1BICAO\u4EE3\u7801\uFF1AEGLC\uFF09\u662F\u4E00\u500B\u4F4D\u65BC\u502B\u6566\u78BC\u982D\u5340\u7684\u6A5F\u5834\uFF0C\u7531\u65BC\u8A72\u6A5F\u5834\u7684\u8DD1\u9053\u8DDD\u96E2\uFF0C\u6700\u5927\u80FD\u8D77\u964D\u7684\u6A5F\u578B\u70BA\u7A7A\u4E2D\u5DF4\u58EBA318\u7B49\u7D1A\u7684\u652F\u7DDA\u5BA2\u6A5F\u3002"@zh ,
+		"Bandar Udara London City (IATA: LCY, ICAO: EGLC) merupakan sebuah bandara yang terletak di London, Britania Raya. Bandara ini merupakan bandara terbesar kelima di kota London. Dibuka tahun 1981."@in ,
+		"O Aeroporto da Cidade de Londres (em ingl\u00EAs: London City Airport) (IATA: LCY, ICAO: EGLC) \u00E9 um pequeno aeroporto que serve a Cidade de Londres, o centro financeiro da Regi\u00E3o de Londres. O aeroporto foi planejado para receber decolagens e aterrissagem de pequeno porte (STOL), j\u00E1 que localiza-se numa regi\u00E3o de constru\u00E7\u00F5es altas. Foi inaugurado em 1987 com o intuito de facilitar o acesso a Cidade de Londres. Em 2006, o aeroporto registrou um total de 2 milh\u00F5es de passageiros. \u00C9 considerado o 5\u00BA aeroporto do Reino Unido em movimento de passageiros e aeronaves."@pt ,
+		"London City Airport (IATA: LCY, ICAO: EGLC) is het op een na kleinste vliegveld voor burgerluchtvaart in en rondom de Britse hoofdstad Londen. Het is de meest centraal gelegen luchthaven van Londen en - met Heathrow - de enige binnen de grenzen van Groot-Londen. Het vliegveld werd in 1987 geopend en ligt in het gebied Royal Docks in het oostelijk deel van de Docklands, de vroegere haven van Londen. De oost-westelijk geori\u00EBnteerde startbaan is aangelegd op een smalle strook tussen twee voormalige dokken: het Royal Albert Dock en het King George V Dock, beide parallel aan de rivier de Theems gelegen. Er is geen ruimte voor meer startbanen en er zijn geen taxibanen. Die enige startbaan heeft een lengte van slechts 1650 meter. Daardoor is het vliegveld niet geschikt voor grotere toestellen. Als gevolg daarvan biedt de luchthaven vooral vluchten naar (nabije) Britse en Europese bestemmingen. British Airways voert overigens vluchten uit met een speciaal aangepaste Airbus A318 naar New York van deze luchthaven. Op de heenreis is een tussenstop voor fuel en pre customs checks op Shannon Airport. Air Antwerp vliegt vanaf 9 september 2019 drie maal daags op weekdagen heen en weer van de luchthaven van Antwerpen naar London City, aangevuld met een vlucht op zondagavond. KLM vliegt op Schiphol, Aer Lingus vliegt naar Dublin en Lufthansa vliegt naar Frankfurt om enkele verbindingen aan te geven. Het vliegveld verwerkte in 2018 ruim 4,8 miljoen reizigers, voornamelijk zakelijke reizigers, die profiteren van de korte afstand tussen het vliegveld en de zakenwijken Canary Wharf en City of London."@nl ,
+		"\u0645\u0637\u0627\u0631 \u0644\u0646\u062F\u0646 \u0633\u064A\u062A\u064A (London City Airport) (\u0625\u064A\u0627\u062A\u0627: LCY\u060C \u0625\u064A\u0643\u0627\u0648: EGLC) \u0647\u0648 \u0645\u0637\u0627\u0631 \u062F\u0648\u0644\u064A \u0641\u064A \u0644\u0646\u062F\u0646. \u064A\u0642\u0639 \u0639\u0644\u0649 \u0628\u0639\u062F \u062D\u0648\u0627\u0644\u064A 6 NM (11 \u0643\u0640\u0645; 6.9 \u0645\u064A\u0644) \u0634\u0631\u0642 \u0645\u062F\u064A\u0646\u0629 \u0644\u0646\u062F\u0646. \u064A\u0648\u062C\u062F \u0641\u064A \u0645\u0637\u0627\u0631 \u0644\u0646\u062F\u0646 \u0633\u064A\u062A\u064A \u0645\u062F\u0631\u062C \u0648\u0627\u062D\u062F \u064A\u0628\u0644\u063A \u0637\u0648\u0644\u0647 1,500-\u0645\u062A\u0631 (4,900 \u0642\u062F\u0645)\u060C \u0648\u064A\u0645\u0644\u0643 \u0631\u062E\u0635\u0629 \u0627\u0633\u062A\u062E\u062F\u0627\u0645 \u0627\u0644\u0637\u0627\u0626\u0631\u0627\u062A \u0627\u0644\u0639\u0627\u0645\u0629 (\u0631\u0642\u0645 P728) \u0627\u0644\u062A\u064A \u062A\u0633\u0645\u062D \u0628\u0631\u062D\u0644\u0627\u062A \u062C\u0648\u064A\u0629 \u0644\u0644\u0646\u0642\u0644 \u0627\u0644\u0639\u0627\u0645 \u0644\u0644\u0631\u0643\u0627\u0628 \u0623\u0648 \u0644\u0644\u062A\u062F\u0631\u064A\u0628 \u0639\u0644\u0649 \u0627\u0644\u0637\u064A\u0631\u0627\u0646 (\u0641\u0642\u0637 \u0644\u0644\u062A\u062F\u0631\u064A\u0628 \u0627\u0644\u0644\u0627\u0632\u0645 \u0644\u062A\u0634\u063A\u064A\u0644 \u0627\u0644\u0637\u0627\u0626\u0631\u0627\u062A \u0641\u064A \u0627\u0644\u0645\u0637\u0627\u0631). \u064A\u0633\u0645\u062D \u0641\u0642\u0637 \u0644\u0644\u0637\u0627\u0626\u0631\u0627\u062A \u0630\u0627\u062A \u0627\u0644\u0623\u062C\u0646\u062D\u0629 \u0627\u0644\u062B\u0627\u0628\u062A\u0629 \u0630\u0627\u062A \u0627\u0644\u0645\u062D\u0631\u0643\u0627\u062A \u0627\u0644\u0645\u062A\u0639\u062F\u062F\u0629 \u0645\u0639 \u0627\u0644\u0637\u0627\u0626\u0631\u0627\u062A \u0627\u0644\u062E\u0627\u0635\u0629 \u0648\u0634\u0647\u0627\u062F\u0629 \u0623\u0637\u0642\u0645 \u0627\u0644\u0637\u0627\u0626\u0631\u0627\u062A \u0644\u0625\u062C\u0631\u0627\u0621 \u0639\u0645\u0644\u064A\u0627\u062A \u0641\u064A \u0645\u0637\u0627\u0631 \u0645\u062F\u064A\u0646\u0629 \u0644\u0646\u062F\u0646. \u0648\u0623\u0643\u0628\u0631 \u0637\u0627\u0626\u0631\u0629 \u064A\u0645\u0643\u0646 \u0627\u0633\u062A\u062E\u062F\u0627\u0645\u0647\u0627 \u0641\u064A \u0627\u0644\u0645\u0637\u0627\u0631 \u0647\u064A \u0625\u064A\u0631\u0628\u0627\u0635 \u0625\u064A\u0647 318."@ar ;
+	dbo:wikiPageLength	"54127"^^xsd:nonNegativeInteger ;
+	dbp:pushpinLabel	"EGLC"@en ;
+	dbp:stat4Data	"3.0"^^ns49:perCent ;
+	dbp:stat4Header	"Movements change 18-19"@en .
+dbr:Antwerp_International_Airport	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:CityJet	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:List_of_IATA-indexed_railway_stations	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+<http://dbpedia.org/resource/D\u00FCsseldorf_Airport>	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:List_of_Air_France_destinations	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:List_of_KLM_destinations	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:Amsterdam_Airport_Schiphol	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+<http://dbpedia.org/resource/History_of_Braathens_(1994\u20132004)>	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:Buses_in_London	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:Timeline_of_Extinction_Rebellion_actions	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+<http://dbpedia.org/resource/Transport_in_Reading,_Berkshire>	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:John_Darwin_disappearance_case	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:Faro_Airport	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:Adebayo_Ogunlesi	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:Flight_number	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+<http://dbpedia.org/resource/James_Brown_(cyclist)>	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:Cirrus_Airlines	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:Prescott_Channel	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:Silvertown_Tunnel	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:Border_control	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:Shannon_Airport	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:Lugano_Airport	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:Geneva_Airport	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:Vilnius_Airport	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:Top_Gear_Races	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:Braathens	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:July_2019_European_heat_wave	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+<http://dbpedia.org/resource/Malm\u00F6_Airport>	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:Miami_Executive_Airport	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:List_of_places_in_London	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:List_of_structures_in_London	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:BA_CityFlyer	dbo:targetAirport	dbr:London_City_Airport ;
+	dbp:bases	dbr:London_City_Airport ;
+	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:List_of_Air_Wales_destinations	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:Loganair	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:East_Point_Business_Park	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+<http://dbpedia.org/resource/M\u00F6nchengladbach_Airport>	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:Transport_in_Dublin	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:List_of_British_Airways_destinations	dbo:wikiPageWikiLink	dbr:London_City_Airport .
+dbr:EGLC	dbo:wikiPageWikiLink	dbr:London_City_Airport ;
+	dbo:wikiPageRedirects	dbr:London_City_Airport .
+dbr:LCY	dbo:wikiPageWikiLink	dbr:London_City_Airport ;
+	dbo:wikiPageRedirects	dbr:London_City_Airport .
+dbr:LCY_Airport	dbo:wikiPageWikiLink	dbr:London_City_Airport ;
+	dbo:wikiPageRedirects	dbr:London_City_Airport .
+<http://dbpedia.org/resource/London_City_(airport)>	dbo:wikiPageWikiLink	dbr:London_City_Airport ;
+	dbo:wikiPageRedirects	dbr:London_City_Airport .
+dbr:London_City_airport	dbo:wikiPageWikiLink	dbr:London_City_Airport ;
+	dbo:wikiPageRedirects	dbr:London_City_Airport .
+dbr:City_of_london_airport	dbo:wikiPageWikiLink	dbr:London_City_Airport ;
+	dbo:wikiPageRedirects	dbr:London_City_Airport .
+dbr:Docklands_Airport	dbo:wikiPageWikiLink	dbr:London_City_Airport ;
+	dbo:wikiPageRedirects	dbr:London_City_Airport .
+dbr:City_Airport	dbo:wikiPageWikiLink	dbr:London_City_Airport .

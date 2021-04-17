@@ -1,0 +1,2100 @@
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+dbr:LGBT_history_in_the_United_States	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Tribeca_Film_Festival	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Paris_Hilton	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Boho-chic	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:LGBT_culture_in_New_York_City	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Red_Bull_Arena_(New_Jersey)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Christopher_Street	dbo:location	dbr:Lower_Manhattan .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Christopher_Street	dbp:location	dbr:Lower_Manhattan ;
+	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Uptown_Hudson_Tubes	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:George_Washington_Bridge	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/3_World_Trade_Center>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Downtown_Manhattan_Heliport	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Ford_Foundation_Building	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:History_of_the_Second_Avenue_Subway	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Houses_at_208\u2013218_East_78th_Street>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Independent_Subway_System	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Interstate_495_(New_York)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Collect_Pond	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Ted_Weiss_Federal_Building	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Hugh_Jackman	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Long_Island	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Jonathan_Larson	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/14th_Street_(Manhattan)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Karai_(Teenage_Mutant_Ninja_Turtles)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Ferry	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:History_of_the_United_States	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Emery_Roth	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Sam_Melville	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Peter_Townsend_Barlow	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Joseph_Stella	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Joshua_Sands_(politician)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Nezam_Hafiz	dbo:deathPlace	dbr:Lower_Manhattan ;
+	dbp:deathPlace	dbr:Lower_Manhattan ;
+	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Randi_Weingarten	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Julie_Harvey_(artist)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Michael_Paul_Britto	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/2017_New_York_City_attempted_bombing>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/L\u00E9man_Manhattan_Preparatory_School>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Mad_(magazine)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:United_States_Merchant_Marine_Academy	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Urban_Justice_Center	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Culver_Line_(surface)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Second_Avenue_Railroad	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Mathematical_Tables_Project	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Tom_Bray	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Bloomingdale_Insane_Asylum	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Boone_Kirkman	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Disappearance_of_Etan_Patz	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Dominick_Pezzulo	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Donald_Baechler	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Greenwich_Village	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Gregory_William_Frux	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Lightship_Ambrose	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Indo-American_Arts_Council	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Albany_Institute_of_History_&_Art>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Alex_Cooper	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Century_21_(department_store)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Nielsen_Media_Research	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Observer_Media	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:EmblemHealth	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Gerner_Kronick_+_Valcarcel_Architects>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/E.W._Holbrook_&_Company>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Queens_Surface_Corporation	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Fulton_Fish_Market	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Julie_Menin	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/120_Wall_Street>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/125_Greenwich_Street>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/1882_in_the_United_States>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:BMT_Broadway_Line	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:BNY_Mellon	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Deborah_Hay	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Live_Skull	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Martha_Wilson	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Stephen_Varble	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Chinatowns_in_Queens	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Collective_for_Living_Cinema	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/George_Floyd_protests_in_New_York_(state)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Jenna_Kim_Jones	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Ely_Sakhai	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Village_Zendo	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/New_York_County_Lawyers\u0027_Association>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Sports_Museum_of_America	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/1_Hanover_Square>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/1_New_York_Plaza>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Liberty_Water_Taxi	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Life_Underground	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Northwest_Ordinance	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Seventh_Avenue_Line_(Manhattan_surface)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:New_York_University_Archives	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/200_Liberty_Street>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/200_Vesey_Street>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Millennium_High_School_(New_York_City)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Miller_Reese_Hutchison	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Modern_Problems	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:SS_Roanoke	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Jackie_Robinson_Foundation	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Lower_Manhattan_Security_Initiative	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Pierre_Abraham_Lorillard	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Francis_H._Kimball>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/250_Vesey_Street>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/299_West_12th_Street>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/2_World_Trade_Center>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/302_West_12th_Street>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/32_Avenue_of_the_Americas>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/32_Old_Slip>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/45_Christopher_Street>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/52_Broadway>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/59_West_12th_Street>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/5_World_Trade_Center>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Atlantic_National_Bank_(New_York_City)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Six_World_Trade_Center	dbo:location	dbr:Lower_Manhattan ;
+	dbp:location	dbr:Lower_Manhattan ;
+	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Soho_Grand_Hotel	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/St._Patrick\u0027s_Cathedral_(Manhattan)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:James_Slip_Ferry	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Downtown_Brooklyn	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Downtown_Hudson_Tubes	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Duane_Reade	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:East_River	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:East_Side_Hebrew_Institute	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/East_Side_Mario\u0027s>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/East_Village,_Manhattan>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Fort_Wadsworth	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Fresh_Meadows,_Queens>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Gabelli_School_of_Business	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Hudson_River	dbo:mouthMountain	dbr:Lower_Manhattan ;
+	dbo:mouthPlace	dbr:Lower_Manhattan ;
+	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Jackson_Township,_New_Jersey>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Second_Avenue_Subway	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:History_of_New_Jersey	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Northeastern_Bible_College	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:List_of_Indian_Americans	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:The_TriBattery_Pops_Tom_Goodkind_Conductor	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:World_Trade_Center_Health_Program	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Ambac	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Anson_G._McCook>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Olivet_University	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:One_Liberty_Plaza	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:One_Madison	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:PR_Newswire	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Brooklyn_Bridge_trolleys	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Brooklyn_Heights_Promenade	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Brooklyn_and_North_River_Line	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Bus_depots_of_MTA_Regional_Bus_Operations	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Reuben_Jeffery_III	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/List_of_special_editions_of_Today_(American_TV_program)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Sara_Driver	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/2020_United_States_House_of_Representatives_elections_in_New_York>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Tom_Kahn	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:New_York_Law_School	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Columbia_College_(New_York)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Colette_Justine	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Apexart	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Lower_Manhattan_Development_Corporation	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/List_of_accolades_received_by_The_Avengers_(2012_film)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Cantor_Fitzgerald	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Jewish_American_Chinese_restaurant_patronage	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Moloch:_or,_This_Gentile_World>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Jack_Sheridan_(poet)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:The_City_Bakery	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Brooklyn_Street_Circuit	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Manhattan_Bridge	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Paz_de_la_Huerta	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Spring_Street_(Manhattan)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Lemon_Andersen	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Black_Tom_explosion	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Knock_Shrine	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Jane_Kahan_Gallery	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Bill_Biggart	dbo:deathPlace	dbr:Lower_Manhattan ;
+	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:New_York_City_Subway_map	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Daniel_Celentano	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Fritz_Koenig	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/St._George\u0027s_Episcopal_Church_(Manhattan)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Headless_Body_in_Topless_Bar	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:MV_Governor	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:George_Ayres_Leavitt	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:John_Brooks_Leavitt	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Jonathan_Leavitt_(publisher)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Liberty_Park	dbo:location	dbr:Lower_Manhattan ;
+	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Liberty_Street_(Manhattan)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Albany_Street_(Manhattan)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:West_Street_pedestrian_bridges	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/462_Broadway>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/St._Benedict_the_Moor_Church_(New_York_City)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:St_Joseph_School_Chinatown	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Arden_Heights,_Staten_Island>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Nicholas_Russo	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Long_Island_City_station	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/63rd_Street_lines>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Communipaw_Ferry	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+wikipedia-en:Lower_Manhattan	foaf:primaryTopic	dbr:Lower_Manhattan .
+dbr:One_World_Trade_Center_in_popular_culture	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Rescue_and_recovery_effort_after_the_September_11_attacks_on_the_World_Trade_Center	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Bowling_Green_(New_York_City)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Jackie_Robinson	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Socony\u2013Mobil_Building>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Downtown_music	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Francis_J._Greenburger>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Janet_Mock	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Jefferson_School_of_Social_Science	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Art_Deco_architecture_of_New_York_City	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Bruce_Menin	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Metropolitan_Life_Insurance_Company_Tower	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Doctors_Hospital_(Manhattan)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Everybody_(Madonna_song)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Alexander_Soros	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Canal_Street_(Manhattan)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:George_Floyd_protests_in_New_York_City	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Anthony_Lispenard_Bleecker	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:HBO	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Gangs_of_New_York	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/The_Proposal_(2009_film)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/The_Right_Stuff_(film)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/The_Taking_of_Pelham_123_(2009_film)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:List_of_entertainment_affected_by_the_September_11_attacks	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Tiny_Furniture	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Kirsten_Dunst	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Ryan_McGinley	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Madison_Square_and_Madison_Square_Park	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Campus_of_Lafayette_College	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Century_Association	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Chinese_people_in_New_York_City	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/University_Village_(Manhattan)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Greenwich_Village_Society_for_Historic_Preservation	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/1981_in_architecture>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Asia_Game_Changer_Awards	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Joe\u0027s_Pub>	dbo:location	dbr:Lower_Manhattan ;
+	dbp:location	dbr:Lower_Manhattan ;
+	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Want_One	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Joseph_Papp	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Cooper_Square	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:New_York_and_Harlem_Railroad	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Unitarian_Church_of_All_Souls	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/McSorley\u0027s_Old_Ale_House>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Astor_Place	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/List_of_identities_in_The_Gangs_of_New_York_(book)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Paul_Garrin	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Tony_Hendra	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:National_Theatre_Workshop_of_the_Handicapped	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Tevet	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Lubricate_Your_Living_Room	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/TriBeCa_(TV_series)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/2015_FIFA_Women\u0027s_World_Cup_Final>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Jane_Rosenthal	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Skid_Row_Cancer_Study	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Springs_Mills_Building	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Art_International_Radio	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Filipinos_in_the_New_York_metropolitan_area	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/2016_United_States_House_of_Representatives_elections_in_New_York>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Culture_of_New_York_City	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:IRT_Lexington_Avenue_Line	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Martin_Connor	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:MTA_Regional_Bus_Operations	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Verrazzano-Narrows_Bridge	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Deutsche_Bank_Building	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Alexander_Garvin	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Better_Out_Than_In	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Bill_Cunningham_New_York	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/2007_New_York_City_steam_explosion>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Midtown_Comics	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Mark_Williams_(radio_host)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:History_of_transportation_in_New_York_City	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:The_Sphere	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:The_Tombs	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Washington_Street_Plaza	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:New_York_Harbor_Storm-Surge_Barrier	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Sheldon_Silver	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Staten_Island_Ferry	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Washington_Market_Park	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Effects_of_Hurricane_Sandy_in_New_York	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:El_Museo_del_Barrio	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:NYC_Pride_March	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:TKTS	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/1845_in_the_United_States>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Astor_House	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Massimo_Vignelli	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Edward_J._Mortola>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/4th_Street_(Manhattan)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Thompson_Street_(Manhattan)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Brooklyn_Law_School	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:New_York_University_Tandon_School_of_Engineering	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Sullivan_Street	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Washington_Square_Park	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Sam_Davol	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/List_of_colleges_and_universities_in_New_York_(state)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Brian_P._Kavanagh>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Tim_Herlihy	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/2004_World_Monuments_Watch>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:WLIB	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Hollywood_Stuntz_gang_assault	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:New_Jersey_Turnpike	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:John_DePol	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Nolita	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Adventures_in_the_Land_of_the_Good_Groove	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/New_York_Dolls_(album)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Max\u0027s_Kansas_City>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Mafalda_(British_singer)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Benjamin_Fletcher	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Daniel_Radcliffe	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Very_Up_&_Co>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Radio_Row	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Isaac_Allerton	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Hornblower_Cruises	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Century_Building_(17th_Street,_Manhattan)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Mine_All_Mine	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Serge_Becker	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:SantaCon	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Andrew_Lawton	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/History_of_New_York_City_(1946\u20131977)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Ann_Street_(Manhattan)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Wild_World_(album)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:WNYM	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:WNYU-FM	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Seneca_Village	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Quad_Cinema	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Dead_Rabbits	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Dead_Rabbits_riot	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Blockhead_(music_producer)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Wendy_Wild	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Andrew_Carpenter_Wheeler	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:World_Trade_Center_cross	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/The_Villager_(Manhattan)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/116_John_Street>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/200_West_Street>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:First_Shearith_Israel_Graveyard	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Talia_Sahid	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Hannah_Tompkins	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Crusader_(train)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:City_Investing_Building	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Houston,_West_Street_and_Pavonia_Ferry_Railroad>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Bruce_Flatt	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Van_Cortlandt_Park\u2013242nd_Street_station>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Economy_of_New_York_City	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Caput_Mundi	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Fairfax_County,_Virginia>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:National_Museum_of_the_American_Indian	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Thomas_Henry_Barry	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Eddie_Huang	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Warner_Wolf	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Lower_Manhattan	rdf:type	yago:YagoGeoEntity ,
+		yago:Vicinity108641113 ,
+		yago:BusinessDistrict108539072 ,
+		yago:Area108497294 ,
+		yago:Location100027167 ,
+		yago:Region108630985 ,
+		dbo:Place ,
+		dbo:Location ,
+		yago:Object100002684 ,
+		yago:PhysicalEntity100001930 ,
+		yago:YagoLegalActorGeo .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Lower_Manhattan	rdf:type	wikidata:Q3455524 ,
+		dbo:AdministrativeRegion ,
+		dbo:Region ,
+		dbo:City .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Lower_Manhattan	rdf:type	owl:Thing .
+@prefix schema:	<http://schema.org/> .
+dbr:Lower_Manhattan	rdf:type	schema:AdministrativeArea ,
+		schema:Place ,
+		yago:WikicatFinancialDistricts ,
+		yago:CityDistrict108537837 ,
+		yago:YagoPermanentlyLocatedEntity ,
+		yago:WikicatNeighborhoodsInManhattan ,
+		yago:WikicatCentralBusinessDistrictsInTheUnitedStates ,
+		yago:District108552138 ,
+		dbo:PopulatedPlace ,
+		yago:WikicatNeighborhoodsInNewYorkCity .
+@prefix geo:	<http://www.w3.org/2003/01/geo/wgs84_pos#> .
+dbr:Lower_Manhattan	rdf:type	geo:SpatialThing ,
+		yago:Section108648322 .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Lower_Manhattan	rdfs:label	"\u041D\u0438\u0436\u043D\u0456\u0439 \u041C\u0430\u043D\u0433\u0435\u0442\u0442\u0435\u043D"@uk ,
+		"Lower Manhattan"@nl ,
+		"Malalta Manhatano"@eo ,
+		"Lower Manhattan"@in ,
+		"\u66FC\u54C8\u987F\u4E0B\u57CE"@zh ,
+		"\u30ED\u30A6\u30A2\u30FC\u30FB\u30DE\u30F3\u30CF\u30C3\u30BF\u30F3"@ja ,
+		"Lower Manhattan"@de ,
+		"Lower Manhattan"@cs ,
+		"Lower Manhattan"@ca ,
+		"Lower Manhattan"@pt ,
+		"Lower Manhattan"@sv ,
+		"Lower Manhattan"@es ,
+		"Lower Manhattan"@it ,
+		"Lower Manhattan"@fr ,
+		"Lower Manhattan"@pl ,
+		"\u041D\u0438\u0436\u043D\u0438\u0439 \u041C\u0430\u043D\u0445\u044D\u0442\u0442\u0435\u043D"@ru ,
+		"\uB85C\uC5B4\uB9E8\uD574\uD2BC"@ko ,
+		"Lower Manhattan"@en ;
+	rdfs:comment	"Lower Manhattan (em portugu\u00EAs:  Baixa Manhattan) \u00E9 a parte mais meridional da ilha de Manhattan, a principal ilha e centro financeiro e do governo da cidade de Nova York. Lower Manhattan \u00E9 definida mais comumente como a \u00E1rea delimitada a norte pela Rua 14, a oeste pelo Rio Hudson, a leste pelo Rio East, e ao sul pelo porto de Nova York (tamb\u00E9m conhecido como Ba\u00EDa Alta de Nova York). Ao se referir especificamente \u00E0 menor \u00E1rea de neg\u00F3cios de Manhattan e seus arredores imediatos, a fronteira norte \u00E9 comumente designado por vias aproximadamente ao sul de uma milha e meia da Rua 14 e uma milha ao norte da ponta sul da ilha. Outras duas principais art\u00E9rias tamb\u00E9m s\u00E3o por vezes identificadas como a fronteira norte do \"centro de Manhattan\": Canal Street, cerca de metade uma milha ao norte de Chamb"@pt ,
+		"Malalta Manhatano (angle: Lower Manhattan) estas la plej suda parto de la insulo Manhatano, la \u0109efa insulo kaj negoca centro kaj sidejo de la registaro de Novjorko. Malalta Manhatano estas la suda parto kun limoj \u0109e la rivero Hudsono, oriente kun la Orienta rivero, sude kun la  kaj la  norde. En Malalta Manhatano trovi\u011Das Wall Street, la , la Financa Distrikto kaj la Ground Zero. \u011Ci estas la kvara plej granca negocejo de Usono. \u0108i tiu zono estis speciala dama\u011Data pro la atencoj de la 11-a de septembro 2001, kiam estis faligitaj la \u011Cemelturoj."@eo ,
+		"\u041D\u0438\u0301\u0436\u043D\u0438\u0439 \u041C\u0430\u043D\u0445\u044D\u0301\u0442\u0442\u0435\u043D (\u0430\u043D\u0433\u043B. Lower Manhattan) \u2014 \u0441\u0430\u043C\u0430\u044F \u044E\u0436\u043D\u0430\u044F \u0447\u0430\u0441\u0442\u044C \u041C\u0430\u043D\u0445\u044D\u0442\u0442\u0435\u043D\u0430, \u043E\u0441\u043D\u043E\u0432\u043D\u043E\u0433\u043E \u043E\u0441\u0442\u0440\u043E\u0432\u0430 \u0433\u043E\u0440\u043E\u0434\u0430 \u041D\u044C\u044E-\u0419\u043E\u0440\u043A\u0430, \u0435\u0433\u043E \u043A\u043E\u043C\u043C\u0435\u0440\u0447\u0435\u0441\u043A\u043E\u0433\u043E \u0438 \u043F\u0440\u0430\u0432\u0438\u0442\u0435\u043B\u044C\u0441\u0442\u0432\u0435\u043D\u043D\u043E\u0433\u043E \u0446\u0435\u043D\u0442\u0440\u0430. \u041A\u043E\u0433\u0434\u0430 \u043F\u043E\u0434 \u041D\u0438\u0436\u043D\u0438\u043C \u041C\u0430\u043D\u0445\u044D\u0442\u0442\u0435\u043D\u043E\u043C \u043F\u043E\u0434\u0440\u0430\u0437\u0443\u043C\u0435\u0432\u0430\u0435\u0442\u0441\u044F \u0431\u043E\u043B\u044C\u0448\u0430\u044F \u0447\u0430\u0441\u0442\u044C \u044E\u0433\u0430 \u043E\u0441\u0442\u0440\u043E\u0432\u0430, \u043E\u043D \u0433\u0440\u0430\u043D\u0438\u0447\u0438\u0442 \u0441 \u0440\u0435\u043A\u043E\u0439 \u0413\u0443\u0434\u0437\u043E\u043D \u043D\u0430 \u0437\u0430\u043F\u0430\u0434\u0435, \u0441 \u0418\u0441\u0442-\u0420\u0438\u0432\u0435\u0440 \u043D\u0430 \u0432\u043E\u0441\u0442\u043E\u043A\u0435, \u0441  \u043D\u0430 \u044E\u0433\u0435 \u0438 \u0441 42-\u0439 \u0443\u043B\u0438\u0446\u0435\u0439 \u043D\u0430 \u0441\u0435\u0432\u0435\u0440\u0435. \u0415\u0441\u043B\u0438 \u0436\u0435 \u0438\u043C\u0435\u0435\u0442\u0441\u044F \u0432 \u0432\u0438\u0434\u0443 \u0442\u043E\u043B\u044C\u043A\u043E \u043D\u0438\u0436\u043D\u044F\u044F \u0447\u0430\u0441\u0442\u044C \u043A\u043E\u043C\u043C\u0435\u0440\u0447\u0435\u0441\u043A\u043E\u0433\u043E \u0440\u0430\u0439\u043E\u043D\u0430 \u041C\u0430\u043D\u0445\u044D\u0442\u0442\u0435\u043D\u0430, \u0442\u043E \u0441\u0435\u0432\u0435\u0440\u043D\u0430\u044F \u0433\u0440\u0430\u043D\u0438\u0446\u0430 \u043F\u0440\u043E\u0445\u043E\u0434\u0438\u0442 \u043F\u0440\u0438\u0431\u043B\u0438\u0437\u0438\u0442\u0435\u043B\u044C\u043D\u043E \u0432 \u043F\u043E\u043B\u0443\u0442\u043E\u0440\u0430 \u043A\u0438\u043B\u043E\u043C\u0435\u0442\u0440\u0430\u0445 \u043A \u044E\u0433\u0443 \u043E\u0442 14-\u0439 \u0443\u043B\u0438\u0446\u044B \u0438 \u0432 \u043E\u0434\u043D\u043E\u0439 \u043C\u0438\u043B\u0435 \u043A \u0441\u0435\u0432\u0435\u0440\u0443 \u043E\u0442 \u044E\u0436\u043D\u043E\u0433\u043E \u043A\u043E\u043D\u0446\u0430 \u043E\u0441\u0442\u0440\u043E\u0432\u0430."@ru ,
+		"Lower Manhattan (appel\u00E9 aussi Downtown Manhattan) est le quartier le plus au sud de l'\u00EEle de Manhattan, l'un des cinq arrondissements de la ville de New York, aux \u00C9tats-Unis. Il est g\u00E9n\u00E9ralement d\u00E9limit\u00E9 par la rue Chambers au Nord, North River (une partie du cours de l'Hudson River) \u00E0 l'Ouest, l'East River \u00E0 l'Est, et au Sud par Battery Park et la Upper New York Bay."@fr ,
+		"\u30ED\u30A6\u30A2\u30FC\u30FB\u30DE\u30F3\u30CF\u30C3\u30BF\u30F3\uFF08\u82F1\u8A9E\uFF1ALower Manhattan\uFF09\u306F\u3001\u30DE\u30F3\u30CF\u30C3\u30BF\u30F3\u5CF6\u306E\u6700\u5357\u7AEF\u306B\u4F4D\u7F6E\u3059\u308B\u5730\u533A\u3067\u3042\u308B\u3002\u300C\u30C0\u30A6\u30F3\u30BF\u30A6\u30F3\u300D\u3068\u3082\u547C\u3070\u308C\u3001\u5317\u306F14\u4E01\u76EE\u3001\u897F\u306F\u30CF\u30C9\u30BD\u30F3\u5DDD\u3001\u6771\u306F\u30A4\u30FC\u30B9\u30C8\u5DDD\u3001\u5357\u306F\u30CB\u30E5\u30FC\u30E8\u30FC\u30AF\u6E2F\uFF08\u30A2\u30C3\u30D1\u30FC\u30FB\u30CB\u30E5\u30FC\u30E8\u30FC\u30AF\u6E7E\u3068\u3057\u3066\u3082\u77E5\u3089\u308C\u308B\uFF09\u306B\u63A5\u3057\u3066\u3044\u308B\u3002\u307E\u305F\u3001\u5CF6\u306E\u5357\u7AEF\u306B\u4F4D\u7F6E\u3059\u308B\u5546\u696D\u5730\u306E\u307F\u3092\u30ED\u30A6\u30A2\u30FC\u30FB\u30DE\u30F3\u30CF\u30C3\u30BF\u30F3\u3068\u3059\u308B\u5834\u5408\u3082\u3042\u308A\u3001\u3053\u306E\u5834\u5408\u306E\u5317\u7AEF\u306F\u3001\u30D6\u30EB\u30C3\u30AF\u30EA\u30F3\u6A4B\u306E\u5165\u53E3\u304B\u3089\u30C1\u30A7\u30F3\u30D0\u30FC\u30BA\u30FB\u30B9\u30C8\u30EA\u30FC\u30C8\u3068\u306A\u308B\u3002\u3053\u306E\u4ED6\u306B\u3082\u3001\u30C1\u30A7\u30F3\u30D0\u30FC\u30BA\u30FB\u30B9\u30C8\u30EA\u30FC\u30C8\u306E\u534A\u30DE\u30A4\u30EB\u5317\u306E\u30AD\u30E3\u30CA\u30EB\u30FB\u30B9\u30C8\u30EA\u30FC\u30C8\u3084\u300114\u4E01\u76EE\u304B\u3089\u534A\u30DE\u30A4\u30EB\u5317\u306B\u4F4D\u7F6E\u3059\u308B\u30DE\u30C7\u30A3\u30BD\u30F3\u30FB\u30B9\u30AF\u30A8\u30A2\u30FB\u30D1\u30FC\u30AF\u7B49\u304C\u3042\u308B23\u4E01\u76EE\u3092\u5317\u7AEF\u3068\u3059\u308B\u5834\u5408\u3082\u3042\u308B\u3002"@ja ,
+		"Lower Manhattan (Dolny Manhattan) \u2013 wysuni\u0119ta najdalej na po\u0142udnie cz\u0119\u015B\u0107 wyspy Manhattan, centrum biznesowe i administracyjne miasta Nowy Jork. Lower Manhattan, okre\u015Blany cz\u0119sto mianem \"centrum\", definiowany jest zazwyczaj jako obszar ograniczony od p\u00F3\u0142nocy przez 14. ulic\u0119, na zachodzie przez rzek\u0119 Hudson, na wschodzie przez cie\u015Bnin\u0119 (w\u0142. estuarium) East River, za\u015B na po\u0142udniu przez . Znajduj\u0105ca si\u0119 w Lower Manhattan Wall Street gruntuje pozycj\u0119 Nowego Jorku jako \u015Bwiatowej stolicy finans\u00F3w, stanowi\u0105c siedzib\u0119 New York Stock Exchange, czyli najwi\u0119kszej na \u015Bwiecie gie\u0142dy papier\u00F3w warto\u015Bciowych pod wzgl\u0119dem kapitalizacji rynkowej swoich sp\u00F3\u0142ek."@pl ,
+		"\u66FC\u54C8\u987F\u4E0B\u57CE\uFF08\u82F1\u8A9E\uFF1ALower Manhattan\uFF0C\u6216\u7A31Downtown Manhattan\uFF09\u662F\u7F8E\u570B\u7EBD\u7EA6\u5E02\u66FC\u54C8\u9813\u6700\u5357\u7AEF\u7684\u90E8\u5206\uFF0C\u5176\u6700\u5E38\u89C1\u7684\u908A\u754C\u662F\u5317\u523014\u8857\uFF0C\u897F\u5230\u54C8\u5FB7\u5B59\u6CB3\uFF0C\u4E1C\u81F3\u4E1C\u6CB3\uFF0C\u5357\u5230\u7EBD\u7EA6\u6E2F\uFF08\u4E5F\u79F0\u4E3A\u4E0A\u7EBD\u7EA6\u6E7E\uFF09\u3002\u5F53\u63D0\u5230\u66FC\u54C8\u987F\u4E0B\u57CE\u5546\u52A1\u533A\u65F6\uFF0C\u901A\u5E38\u6307\u5317\u523014\u8857\u4EE5\u5357\u7EA61.5\u82F1\u91CC\uFF0C\u548C\u8BE5\u5C9B\u6700\u5357\u7AEF\u4EE5\u5317\u4E00\u82F1\u91CC\uFF0C\u4ECE\u54C8\u5FB7\u5B59\u6CB3\u9644\u8FD1\u7684\u94B1\u4F2F\u65AF\u8857\uFF08Chambers Street\uFF09\uFF0C\u4E1C\u5230\u5E03\u9C81\u514B\u6797\u5927\u6865\u51FA\u5165\u53E3\u548C\u7ACB\u4EA4\u6865\u3002\u5176\u4ED6\u4E24\u4E2A\u4E3B\u5E72\u9053\u6709\u65F6\u4E5F\u88AB\u786E\u5B9A\u4E3A\u66FC\u54C8\u987F\u4E0B\u57CE\u7684\u5317\u90E8\u8FB9\u754C\uFF1A\u94B1\u4F2F\u65AF\u8857\u4EE5\u5317\u5927\u7EA6\u534A\u82F1\u91CC\u7684\u8FD0\u6CB3\u8857\uFF08Canal Street\uFF09\uFF0C\u548C14\u8857\u4EE5\u5317\u5927\u7EA6\u534A\u82F1\u91CC\u768423\u8857\u3002 \u66FC\u54C8\u987F\u4E0B\u57CE\u5546\u52A1\u533A\u662F\u5168\u7F8E\u7B2C\u56DB\u5927\u4E2D\u592E\u5546\u52A1\u533A\uFF0C\u4EC5\u6B21\u4E8E\u66FC\u54C8\u987F\u4E2D\u57CE\u3001\u829D\u52A0\u54E5\u7684\u5362\u666E\u533A\u548C\u534E\u76DB\u987F\u54E5\u4F26\u6BD4\u4E9A\u7279\u533A\u3002\u6B64\u524D\u66FE\u7ECF\u662F\u7F8E\u56FD\u7B2C\u4E09\u5927\u5546\u52A1\u533A\uFF0C\u4E4B\u6240\u4EE5\u4E0B\u964D\u5230\u7B2C\u56DB\u4F4D\u662F\u56E0\u4E3A\u4E5D\u4E00\u4E00\u4E8B\u4EF6\u7206\u767C\u5F8C\uFF0C\u8A72\u5730\u635F\u5931\u4E86\u4E16\u754C\u8D38\u6613\u4E2D\u5FC316,000,000\u5E73\u65B9\u82F1\u5C3A\u7684\u8FA6\u516C\u5927\u6A13\u6A13\u677F\u9762\u79EF\uFF0C\u76F8\u5F53\u4E8E\u8F9B\u8F9B\u90A3\u63D0\u5168\u5E02\u8FA6\u516C\u5927\u697C\u7684\u7E3D\u548C\u3002\u4F46\u662F\u5174\u5EFA\u81EA\u7531\u5854\u5174\u5EFA\u9AD8\u76DB\u8D22\u52A1\u516C\u53F8\u7684\u65B0\u603B\u90E8\u540E\uFF0C\u9884\u8BA1\u8BE5\u5730\u533A\u5C06\u6062\u590D\u5176\u6392\u540D\u7B2C\u4E09\u4F4D\u3002"@zh ,
+		"Lower Manhattan, also known as Downtown Manhattan or Downtown New York, is the southernmost part of Manhattan, the central borough for business, culture, and government in the City of New York, which itself originated at the southern tip of Manhattan Island in 1624, at a point which now constitutes the present-day Financial District. The population of the Financial District alone has grown to an estimated 61,000 residents as of 2018, up from 43,000 as of 2014, which in turn was nearly double the 23,000 recorded at the 2000 Census."@en ,
+		"Lower Manhattan is het zuidelijkste deel van het eiland Manhattan. Het is de belangrijkste wijk en het commerci\u00EBle en bestuurlijke centrum van New York. Het wordt doorgaans gedefinieerd als het gebied begrensd door afhankelijk van de bron, Chambers Street of 14th Street in het noorden, de Hudson in het westen, de East River in het oosten en The Battery en New York Bay in het zuiden. Lower Manhattan bevat het stadhuis van New York, het Manhattan Municipal Building, het financi\u00EBle district rond Wall Street en het World Trade Center."@nl ,
+		"\uB85C\uC5B4\uB9E8\uD574\uD2BC(Lower Manhattan)\uC740 \uB9E8\uD574\uD2BC\uC758 \uB0A8\uCABD \uC9C0\uC5ED\uC744 \uB73B\uD558\uB294 \uB9D0\uB85C, \uB274\uC695 \uACBD\uC81C\uC758 \uC911\uC2EC\uC774\uB2E4. \uC6D4 \uAC00, \uB274\uC695 \uC99D\uAD8C \uAC70\uB798\uC18C \uB4F1\uC774 \uC704\uCE58\uD55C\uB2E4."@ko ,
+		"Lower Manhattan (anche Downtown Manhattan) \u00E8 un quartiere del borough centrale di New York, che tradotto in italiano significa Bassa Manhattan, riferendosi alla punta meridionale dell'omonima isola. \u00C8 famoso per essere il centro finanziario maggiore della citt\u00E0. Infatti in questo quartiere si trova Wall Street, con la New York Stock Exchange, la pi\u00F9 grande borsa valori del mondo. In questa zona sorge il One World Trade Center. All'interno del quartiere c'\u00E8 inoltre la zona di TriBeCa e Battery Park City, prevalentemente residenziale."@it ,
+		"Lower Manhattan, dikenal juga sebagai Downtown Manhattan, adalah daerah paling selatan di pulau Manhattan, pulau utama serta pusat bisnis, budaya, dan pemerintahan Kota New York."@in ,
+		"Lower Manhattan \u00E4r det sydligaste omr\u00E5det p\u00E5 Manhattan i New York."@sv ,
+		"\u041D\u0438\u0436\u043D\u0456\u0439 \u041C\u0430\u043D\u0433\u0435\u0442\u0442\u0435\u043D (\u0430\u043D\u0433\u043B. Lower Manhattan) \u2014 \u043E\u0434\u0438\u043D \u0437 \u043D\u0430\u0439\u0430\u043A\u0442\u0438\u0432\u043D\u0456\u0448\u0438\u0445 \u0440\u0430\u0439\u043E\u043D\u0456\u0432 \u041D\u044C\u044E-\u0419\u043E\u0440\u043A\u0430, \u043D\u0430\u0439\u043F\u0456\u0432\u0434\u0435\u043D\u043D\u0456\u0448\u0430 \u0447\u0430\u0441\u0442\u0438\u043D\u0430 \u041C\u0430\u043D\u0433\u0435\u0442\u0442\u0435\u043D\u0430, \u043E\u0441\u043D\u043E\u0432\u043D\u043E\u0433\u043E \u043E\u0441\u0442\u0440\u043E\u0432\u0430 \u043C\u0456\u0441\u0442\u0430 \u041D\u044C\u044E-\u0419\u043E\u0440\u043A, \u0439\u043E\u0433\u043E \u043A\u043E\u043C\u0435\u0440\u0446\u0456\u0439\u043D\u043E\u0433\u043E \u0446\u0435\u043D\u0442\u0440\u0443. \u0423 \u043D\u044C\u043E\u043C\u0443 \u0440\u043E\u0437\u0442\u0430\u0448\u043E\u0432\u0443\u044E\u0442\u044C\u0441\u044F \u0423\u043E\u043B\u043B-\u0441\u0442\u0440\u0456\u0442, \u041C\u0435\u0440\u0456\u044F, \u0424\u0456\u043D\u0430\u043D\u0441\u043E\u0432\u0438\u0439 \u041A\u0432\u0430\u0440\u0442\u0430\u043B, \u0413\u0440\u0430\u0443\u043D\u0434 \u0417\u0456\u0440\u043E, \u041C\u0430\u043B\u0435\u043D\u044C\u043A\u0430 \u0406\u0442\u0430\u043B\u0456\u044F \u0456 \u0427\u0430\u0439\u043D\u0430-\u0422\u0430\u0443\u043D. \u0426\u0435 \u0447\u0435\u0442\u0432\u0435\u0440\u0442\u0438\u0439 \u043A\u043E\u043C\u0435\u0440\u0446\u0456\u0439\u043D\u0438\u0439 \u0446\u0435\u043D\u0442\u0440 \u0421\u0428\u0410 \u043F\u0456\u0441\u043B\u044F \u041C\u0456\u0434\u0442\u0430\u0443\u043D\u0456, \u0427\u0438\u043A\u0430\u0433\u043E \u041B\u0443\u043F\u0430 \u0456 \u0412\u0430\u0448\u0438\u043D\u0433\u0442\u043E\u043D\u0430. \u0426\u044F \u0437\u043E\u043D\u0430 \u043E\u0441\u043E\u0431\u043B\u0438\u0432\u043E \u043F\u043E\u0441\u0442\u0440\u0430\u0436\u0434\u0430\u043B\u0430 \u0432\u0456\u0434 \u0442\u0435\u0440\u0430\u043A\u0442\u0456\u0432 11-\u0433\u043E \u0432\u0435\u0440\u0435\u0441\u043D\u044F 2001 \u0440\u043E\u043A\u0443, \u043A\u043E\u043B\u0438 \u0432\u043F\u0430\u043B\u0438 \u0432\u0435\u0436\u0456-\u0431\u043B\u0438\u0437\u043D\u044E\u043A\u0438."@uk ,
+		"Lower Manhattan (Downtown Manhattan) je nejji\u017En\u011Bj\u0161\u00ED \u010D\u00E1st newyorsk\u00E9 \u010Dtvrti Manhattan, resp. stejnojmenn\u00E9ho ostrova. \u00DAzem\u00ED je ohrani\u010Deno 14. ulic\u00ED nebo a\u017E 23. ulic\u00ED na severu, \u0159ekou Hudson River na z\u00E1pad\u011B, p\u0159\u00EDlivovou \u00FA\u017Einou zvanou East River na v\u00FDchod\u011B a p\u0159\u00EDstavem  (t\u00E9\u017E zn\u00E1m\u00FDm jako Upper New York Bay) na jihu. Na Lower Manhattanu se nach\u00E1z\u00ED mnoho v\u00FDznamn\u00FDch m\u00EDst, mj. finan\u010Dn\u00ED st\u0159edisko Wall Street. Nam\u00EDsto p\u016Fvodn\u00EDch budov World Trade Center byl vybudov\u00E1n mrakodrap One World Trade Center. Je zde tak\u00E9 n\u00E1m\u011Bst\u00ED Union Square."@cs ,
+		"Lower Manhattan \u00E9s el barri m\u00E9s al sud de l'illa de Manhattan, un dels boroughs de New York, als Estats Units d'Am\u00E8rica. \u00C9s delimitat pel carrer Chambers al nord, North River (una part del curs del Hudson River) a l'Oest, l'East River a l'Est, i al Sud per Battery Park i l'Upper New York Bay. Lower Manhattan, anomenat tamb\u00E9 Financial District, inclou Wall Street, City Hall, el Municipal Building, i l'empla\u00E7ament del World Trade Center Ground Zero. \u00C9s el quart \"Central business district\" del pa\u00EDs despr\u00E9s de Midtown (Manhattan), el  i Washington; era el tercer CBD abans dels Atemptats de l'11 de setembre de 2001."@ca ,
+		"Lower Manhattan o Bajo Manhattan es la parte m\u00E1s meridional de la isla de Manhattan, la isla principal y el centro de los negocios y el gobierno de la ciudad de Nueva York. Lower Manhattan se define com\u00FAnmente como la mayor\u00EDa de la zona delimitada al sur de la isla. Limita al oeste con el r\u00EDo Hudson, al este con el r\u00EDo Este, al sur con el puerto de Nueva York y con la Calle 42 al norte. Cuando se refiere espec\u00EDficamente a la parte baja del distrito de negocios de Manhattan y sus alrededores, la frontera norte es com\u00FAnmente designada por la v\u00EDa de aproximadamente un kil\u00F3metro y medio al sur de la  y una milla al norte de la isla del extremo sur."@es ,
+		"Lower Manhattan (oder Downtown Manhattan bzw. einfach nur Downtown) ist der s\u00FCdlichste Teil der Insel Manhattan in der amerikanischen Metropole New York City. Downtown grenzt im Norden an Midtown an, das wiederum s\u00FCdlich von Uptown gelegen ist. Das kleine Mmuseumm er\u00F6ffnete 2012."@de ;
+	rdfs:seeAlso	dbr:Downtown ,
+		dbr:History_of_New_York_City ;
+	foaf:name	"Lower Manhattan"@en .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Lower_Manhattan	geo:lat	"40.70800018310546875"^^xsd:float ;
+	geo:long	"-74.01200103759765625"^^xsd:float ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Lower_Manhattan_viewed_from_Brooklyn.jpg> ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Lower_Manhattan .
+@prefix virtrdf:	<http://www.openlinksw.com/schemas/virtrdf#> .
+dbr:Lower_Manhattan	geo:geometry	"POINT(-74.012001037598 40.708000183105)"^^virtrdf:Geometry .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Lower_Manhattan	dct:subject	dbc:Economy_of_New_York_City ,
+		dbc:Neighborhoods_in_Manhattan ,
+		dbc:Central_business_districts_in_New_York_City ,
+		dbc:Lower_Manhattan .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Lower_Manhattan	owl:sameAs	dbpedia-pl:Lower_Manhattan ,
+		<http://ru.dbpedia.org/resource/\u041D\u0438\u0436\u043D\u0438\u0439_\u041C\u0430\u043D\u0445\u044D\u0442\u0442\u0435\u043D> .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Lower_Manhattan	owl:sameAs	dbpedia-de:Lower_Manhattan .
+@prefix dbpedia-simple:	<http://simple.dbpedia.org/resource/> .
+dbr:Lower_Manhattan	owl:sameAs	dbpedia-simple:Lower_Manhattan .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Lower_Manhattan	owl:sameAs	yago-res:Lower_Manhattan .
+@prefix dbpedia-tr:	<http://tr.dbpedia.org/resource/> .
+dbr:Lower_Manhattan	owl:sameAs	dbpedia-tr:Lower_Manhattan .
+@prefix dbpedia-sk:	<http://sk.dbpedia.org/resource/> .
+dbr:Lower_Manhattan	owl:sameAs	dbpedia-sk:Lower_Manhattan ,
+		<http://lt.dbpedia.org/resource/\u017Demutinis_Manhatanas> .
+@prefix dbpedia-id:	<http://id.dbpedia.org/resource/> .
+dbr:Lower_Manhattan	owl:sameAs	dbpedia-id:Lower_Manhattan ,
+		wikidata:Q11253 ,
+		dbr:Lower_Manhattan ,
+		<http://fa.dbpedia.org/resource/\u0645\u0646\u0647\u062A\u0646_\u062C\u0646\u0648\u0628\u06CC> .
+@prefix dbpedia-ca:	<http://ca.dbpedia.org/resource/> .
+dbr:Lower_Manhattan	owl:sameAs	dbpedia-ca:Lower_Manhattan .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Lower_Manhattan	owl:sameAs	dbpedia-it:Lower_Manhattan .
+@prefix dbpedia-eo:	<http://eo.dbpedia.org/resource/> .
+dbr:Lower_Manhattan	owl:sameAs	dbpedia-eo:Malalta_Manhatano .
+@prefix dbpedia-ms:	<http://ms.dbpedia.org/resource/> .
+dbr:Lower_Manhattan	owl:sameAs	dbpedia-ms:Lower_Manhattan .
+@prefix dbpedia-oc:	<http://oc.dbpedia.org/resource/> .
+dbr:Lower_Manhattan	owl:sameAs	dbpedia-oc:Lower_Manhattan .
+@prefix dbpedia-fi:	<http://fi.dbpedia.org/resource/> .
+dbr:Lower_Manhattan	owl:sameAs	dbpedia-fi:Lower_Manhattan ,
+		<http://ka.dbpedia.org/resource/\u10E5\u10D5\u10D4\u10DB\u10DD_\u10DB\u10D0\u10DC\u10F0\u10D4\u10E2\u10D4\u10DC\u10D8> ,
+		<http://viaf.org/viaf/305446900> .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Lower_Manhattan	owl:sameAs	dbpedia-nl:Lower_Manhattan ,
+		<http://zh.dbpedia.org/resource/\u66FC\u54C8\u987F\u4E0B\u57CE> ,
+		<http://ja.dbpedia.org/resource/\u30ED\u30A6\u30A2\u30FC\u30FB\u30DE\u30F3\u30CF\u30C3\u30BF\u30F3> .
+@prefix dbpedia-cs:	<http://cs.dbpedia.org/resource/> .
+dbr:Lower_Manhattan	owl:sameAs	dbpedia-cs:Lower_Manhattan ,
+		<http://rdf.freebase.com/ns/m.02bmd_> .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:Lower_Manhattan	owl:sameAs	dbpedia-es:Lower_Manhattan .
+@prefix ns32:	<http://ast.dbpedia.org/resource/> .
+dbr:Lower_Manhattan	owl:sameAs	ns32:Lower_Manhattan .
+@prefix ns33:	<https://global.dbpedia.org/id/> .
+dbr:Lower_Manhattan	owl:sameAs	ns33:B3UB ,
+		<http://ko.dbpedia.org/resource/\uB85C\uC5B4\uB9E8\uD574\uD2BC> ,
+		<http://yi.dbpedia.org/resource/\u05DC\u05D0\u05D5\u05E2\u05E8_\u05DE\u05D0\u05E0\u05D4\u05E2\u05D8\u05E2\u05DF> .
+@prefix dbpedia-sv:	<http://sv.dbpedia.org/resource/> .
+dbr:Lower_Manhattan	owl:sameAs	dbpedia-sv:Lower_Manhattan .
+@prefix dbpedia-et:	<http://et.dbpedia.org/resource/> .
+dbr:Lower_Manhattan	owl:sameAs	dbpedia-et:Lower_Manhattan .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Lower_Manhattan	owl:sameAs	dbpedia-fr:Lower_Manhattan .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Lower_Manhattan	owl:sameAs	dbpedia-pt:Lower_Manhattan .
+@prefix dbpedia-da:	<http://da.dbpedia.org/resource/> .
+dbr:Lower_Manhattan	owl:sameAs	dbpedia-da:Lower_Manhattan ,
+		<http://uk.dbpedia.org/resource/\u041D\u0438\u0436\u043D\u0456\u0439_\u041C\u0430\u043D\u0433\u0435\u0442\u0442\u0435\u043D> ,
+		<http://he.dbpedia.org/resource/\u05DE\u05E0\u05D4\u05D8\u05DF_\u05EA\u05D7\u05EA\u05D9\u05EA> .
+@prefix georss:	<http://www.georss.org/georss/> .
+dbr:Lower_Manhattan	georss:point	"40.708 -74.012" ;
+	dbp:imagesize	300 ;
+	dbp:otherName	"Downtown Manhattan"@en ;
+	dbo:synonym	"Downtown Manhattan" .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Lower_Manhattan	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Lower_Manhattan?oldid=986161996&ns=0> ;
+	dbo:type	dbr:Central_business_district ;
+	dbp:blankName	dbr:Household_income_in_the_United_States ;
+	dbp:unitPref	"Imperial"@en .
+@prefix ns41:	<http://dbpedia.org/datatype/> .
+dbr:Lower_Manhattan	dbp:blankInfo	"201953.0"^^ns41:usDollar ;
+	dbo:country	dbr:United_States ;
+	dbp:imageSkyline	"LowerManhattan2019.jpg"@en ;
+	dbp:populationDensityKm	"auto"@en ;
+	dbo:populationTotal	"382654"^^xsd:nonNegativeInteger ;
+	dbp:subdivisionName	<http://dbpedia.org/resource/New_York_(state)> ,
+		dbr:United_States ,
+		dbr:Manhattan ,
+		dbr:New_York_City ;
+	dbo:subdivision	<http://dbpedia.org/resource/New_York_(state)> ,
+		dbr:New_York_City ,
+		dbr:Manhattan ;
+	dbp:imageCaption	"The new One World Trade Center dominating the Lower Manhattan, seen from Hoboken in 2019"@en ;
+	dbp:name	"Lower Manhattan"@en ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Lower_Manhattan_viewed_from_Brooklyn.jpg?width=300> ;
+	dbo:wikiPageID	455646 ;
+	dbo:wikiPageRevisionID	986161996 ;
+	dbo:wikiPageWikiLink	dbr:Sons_of_Liberty ,
+		dbr:New_Amsterdam ,
+		dbr:Unami_language ,
+		dbr:Battery_Maritime_Building ,
+		dbr:Power_outage ,
+		dbr:Foley_Square ,
+		dbr:Gasoline ,
+		dbr:Intelligence_in_the_American_Revolutionary_War ,
+		dbr:Free_jazz ,
+		dbr:PR_Newswire ,
+		<http://dbpedia.org/resource/Evacuation_Day_(New_York)> ,
+		dbr:Verizon_Building ,
+		dbr:Brooklyn ,
+		dbr:Staten_Island_Ferry ,
+		<http://dbpedia.org/resource/7_World_Trade_Center> ,
+		dbr:Washington_Market_Park ,
+		dbr:Battery_Park_City_Ferry_Terminal ,
+		dbr:Effects_of_Hurricane_Sandy_in_New_York ,
+		dbr:World_Trade_Centers_Association ,
+		dbr:York ,
+		<http://dbpedia.org/resource/Max\u0027s_Kansas_City> ,
+		dbr:Yorkshire ,
+		<http://dbpedia.org/resource/14th_Street_(Manhattan)> ,
+		<http://dbpedia.org/resource/File:Stonewall_Inn_5_pride_weekend_2016.jpg> ,
+		dbr:Washington_Square_Park ,
+		dbc:Central_business_districts_in_New_York_City ,
+		<http://dbpedia.org/resource/Canal_Street_(Manhattan)> ,
+		dbr:Police_raid ,
+		dbr:Brooklyn_Bridge ,
+		dbr:City_of_Greater_New_York ,
+		dbr:John_Peter_Zenger ,
+		dbr:Gay_liberation ,
+		dbr:Downtown_Brooklyn ,
+		<http://dbpedia.org/resource/Chelsea,_Manhattan> ,
+		dbr:One_Liberty_Plaza ,
+		dbr:Freedom_of_the_press ,
+		dbr:Fort_Amsterdam ,
+		<http://dbpedia.org/resource/World_Trade_Center_station_(PATH)> ,
+		dbr:Wallabout_Bay ,
+		dbr:Storm_surge ,
+		<http://dbpedia.org/resource/File:Peter_Stuyvesant.jpg> ,
+		dbr:Liberty_pole ,
+		dbr:Defamation ,
+		<http://dbpedia.org/resource/Chambers_Street_(Manhattan)> ,
+		dbr:Battle_of_Long_Island ,
+		<http://dbpedia.org/resource/Richard_J._Hughes> ,
+		dbr:George_II_of_Great_Britain ,
+		<http://dbpedia.org/resource/Loyalist_(American_Revolution)> ,
+		<http://dbpedia.org/resource/The_Battery_(Manhattan)> ,
+		dbr:Peter_Stuyvesant ,
+		dbr:Baby_boom ,
+		dbr:East_River ,
+		<http://dbpedia.org/resource/East_Village,_Manhattan> ,
+		dbr:Stonewall_Inn ,
+		dbr:LGBT_community ,
+		dbr:Boroughs_of_New_York_City ,
+		<http://dbpedia.org/resource/Vanity_Fair_(magazine)> ,
+		dbr:The_Village_Voice ,
+		dbr:United_States_Secretary_of_the_Treasury ,
+		dbr:Times_Square ,
+		dbr:New_York_Harbor ,
+		dbr:Glorious_Revolution ,
+		dbr:Charter ,
+		dbr:Newsweek ,
+		<http://dbpedia.org/resource/Greenpoint,_Brooklyn> ,
+		dbr:US_Helicopter ,
+		dbr:Prisoner_of_war ,
+		dbr:Punk_rock ,
+		<http://dbpedia.org/resource/File:Chinatown_manhattan_2009.JPG> ,
+		dbr:Boston ,
+		dbr:Government_of_New_York_City ,
+		dbr:Area_code_917 ,
+		dbr:Greenwich_Village ,
+		<http://dbpedia.org/resource/Jersey_City,_New_Jersey> ,
+		dbr:History_of_immigration_to_the_United_States ,
+		<http://dbpedia.org/resource/Hudson\u0027s_Bay_Company> ,
+		dbr:Headquarters ,
+		dbr:Tribeca ,
+		dbr:James_II_of_England ,
+		<http://dbpedia.org/resource/Barker_(advertising_agency)> ,
+		dbr:New_York_City ,
+		dbr:Western_Hemisphere ,
+		dbr:Willem_Verhulst ,
+		dbr:Off-off-Broadway ,
+		dbr:Greenwich_Street ,
+		<http://dbpedia.org/resource/Williamsburg,_Brooklyn> ,
+		dbr:Radio_Row ,
+		dbr:NASDAQ ,
+		dbr:Standard_Oil ,
+		dbr:Barack_Obama ,
+		dbr:Peter_Minuit ,
+		dbr:Province_of_New_York ,
+		dbr:Uptown_Girl ,
+		<http://dbpedia.org/resource/File:Washington_Square_Park_Chess_Players_by_David_Shankbone.jpg> ,
+		dbr:Stamp_act ,
+		dbr:City ,
+		<http://dbpedia.org/resource/Little_Italy,_Manhattan> ,
+		dbr:Disco ,
+		<http://dbpedia.org/resource/Commissioners\u0027_Plan_of_1811> ,
+		dbr:New_York_City_Hall ,
+		dbr:Ambac ,
+		<http://dbpedia.org/resource/National_September_11_Memorial_&_Museum> ,
+		dbr:Seawall ,
+		dbr:Coastal_management ,
+		<http://dbpedia.org/resource/2017_New_York_City_truck_attack> ,
+		dbr:Investment_banking ,
+		dbr:Tony_Hatch ,
+		<http://dbpedia.org/resource/Kieft\u0027s_War> ,
+		dbr:AOL ,
+		dbr:LGBT_rights_by_country_or_territory ,
+		dbr:Zuccotti_Park ,
+		dbr:BDSM ,
+		<http://dbpedia.org/resource/Leisler\u0027s_Rebellion> ,
+		dbr:Business_improvement_district ,
+		dbr:United_States_Declaration_of_Independence ,
+		dbr:Group_M ,
+		dbr:Petula_Clark ,
+		dbr:Burgomaster ,
+		dbr:Verizon_Communications ,
+		dbr:Upper_Manhattan ,
+		dbr:Dutch_Republic ,
+		dbr:Dutch_West_India_Company ,
+		dbr:Grid_plan ,
+		dbr:Battery_Park_City ,
+		<http://dbpedia.org/resource/Vogue_(magazine)> ,
+		<http://dbpedia.org/resource/Financial_District,_Manhattan> ,
+		<http://dbpedia.org/resource/Prison_Ship_Martyrs\u0027_Monument> ,
+		dbr:Metropolitan_Transportation_Authority ,
+		dbr:Hudson_River_Park ,
+		<http://dbpedia.org/resource/New_York_(state)> ,
+		dbr:New_York_Conspiracy_of_1741 ,
+		<http://dbpedia.org/resource/1983_in_music> ,
+		dbr:Park_Avenue ,
+		dbr:Suriname ,
+		<http://dbpedia.org/resource/Union_Square,_Manhattan> ,
+		dbr:Household_income_in_the_United_States ,
+		dbr:Billy_Joel ,
+		dbr:Bowery ,
+		<http://dbpedia.org/resource/SoHo,_Manhattan> ,
+		<http://dbpedia.org/resource/Jacob_K._Javits_Federal_Building> ,
+		dbr:Houston_Street ,
+		dbr:Digital_media ,
+		dbr:Congress_of_the_Confederation ,
+		<http://dbpedia.org/resource/East_Side_(Manhattan)> ,
+		dbr:Chicago_Loop ,
+		dbr:List_of_express_bus_routes_in_New_York_City ,
+		<http://dbpedia.org/resource/Alexander_Hamilton_U.S._Custom_House> ,
+		dbr:New_Netherland ,
+		<http://dbpedia.org/resource/Meatpacking_District,_Manhattan> ,
+		<http://dbpedia.org/resource/Hanover_Square_(Manhattan)> ,
+		dbr:Do_it_yourself ,
+		<http://dbpedia.org/resource/World_Trade_Center_(2001\u2013present)> ,
+		dbr:Stock_exchange ,
+		dbr:United_States ,
+		dbr:Espionage ,
+		dbr:Landfill ,
+		dbr:Third_Anglo-Dutch_War ,
+		dbr:Castle_Clinton ,
+		dbr:Hi_Tech_Expressions ,
+		dbr:Market_capitalization ,
+		dbr:Hurricane_Sandy ,
+		<http://dbpedia.org/resource/1964_in_music> ,
+		dbr:New_York_City_Subway ,
+		dbr:Port_Authority_of_New_York_and_New_Jersey ,
+		<http://dbpedia.org/resource/55_Water_Street> ,
+		dbr:Nielsen_Holdings ,
+		dbr:Director_of_New_Netherland ,
+		<http://dbpedia.org/resource/2000_United_States_census> ,
+		<http://dbpedia.org/resource/File:GezichtOpNieuwAmsterdam.jpg> ,
+		dbr:The_Bronx ,
+		dbr:Nolita ,
+		<http://dbpedia.org/resource/File:Esbwtcview.jpg> ,
+		dbc:Neighborhoods_in_Manhattan ,
+		<http://dbpedia.org/resource/File:View_from_Woolworth_Building_1913_New_York_City.jpg> ,
+		<http://dbpedia.org/resource/File:Cooper_Union_by_David_Shankbone.jpg> ,
+		<http://dbpedia.org/resource/File:Union_Square_New_York_by_David_Shankbone.jpg> ,
+		<http://dbpedia.org/resource/File:New_York_City_harbor_print.jpg> ,
+		<http://dbpedia.org/resource/Stuyvesant_Town\u2013Peter_Cooper_Village> ,
+		<http://dbpedia.org/resource/File:Aerial_view_of_East_River,_Lower_Manhattan,_New_York_Harbor,_1981.jpg> ,
+		<http://dbpedia.org/resource/File:Brooklyn_Museum_-_Sidney\u0027s_Map_Twelve_Miles_Around_New_York_-_Norman_Friend.jpg> ,
+		<http://dbpedia.org/resource/Area_codes_212,_646,_and_332> ,
+		<http://dbpedia.org/resource/File:Manhattan_1931.jpg> ,
+		<http://dbpedia.org/resource/Hoboken,_New_Jersey> ,
+		dbr:Port_of_New_York_and_New_Jersey ,
+		dbr:Jacob_Leisler ,
+		dbr:Manhattan ,
+		<http://dbpedia.org/resource/West_Side_(Manhattan)> ,
+		dbr:Hudson_River ,
+		<http://dbpedia.org/resource/23rd_Street_(Manhattan)> ,
+		dbr:Fur_trade ,
+		<http://dbpedia.org/resource/World_Trade_Center_(1973\u20132001)> ,
+		dbr:Fulton_Center ,
+		dbr:Midtown_Manhattan ,
+		<http://dbpedia.org/resource/Bowling_Green_(New_York_City)> ,
+		dbr:List_of_sovereign_states ,
+		dbr:Upper_New_York_Bay ,
+		dbr:Skyscraper ,
+		dbr:Nine_Men ,
+		<http://dbpedia.org/resource/Downtown_(Petula_Clark_song)> ,
+		<http://dbpedia.org/resource/Cond\u00E9_Nast> ,
+		dbr:Financial_centre ,
+		<http://dbpedia.org/resource/W_(magazine)> ,
+		dbr:List_of_capitals_in_the_United_States ,
+		<http://dbpedia.org/resource/Pavonia,_New_Netherland> ,
+		dbr:Wall_Street ,
+		dbr:English_people ,
+		dbr:One_World_Trade_Center ,
+		<http://dbpedia.org/resource/20_Exchange_Place> ,
+		<http://dbpedia.org/resource/Maiden_Lane_(Manhattan)> ,
+		dbr:List_of_tallest_buildings ,
+		dbr:Occupy_Wall_Street ,
+		dbr:Public_transport ,
+		dbr:Governors_Island ,
+		dbc:Economy_of_New_York_City ,
+		dbr:Goldman_Sachs ,
+		<http://dbpedia.org/resource/28_Liberty_Street> ,
+		dbr:United_States_presidential_inauguration ,
+		dbr:Algonquian_peoples ,
+		dbr:Second_Anglo-Dutch_War ,
+		<http://dbpedia.org/resource/File:Photos_NewYork1_032.jpg> ,
+		<http://dbpedia.org/resource/40_Wall_Street> ,
+		dbr:Indigenous_peoples_of_the_Americas ,
+		dbr:Electronic_dance_music ,
+		dbr:Manhattan_Municipal_Building ,
+		dbr:West_Village ,
+		dbr:IBT_Media ,
+		dbr:Battle_of_Fort_Washington ,
+		dbr:New_York_Stock_Exchange ,
+		dbr:NYC_Ferry ,
+		dbr:Lower_Manhattan_Development_Corporation ,
+		dbr:Social_inequality ,
+		<http://dbpedia.org/resource/26_Broadway> ,
+		<http://dbpedia.org/resource/U.S._state> ,
+		dbr:ZIP_Code ,
+		dbr:Queens ,
+		dbr:Algonquian_languages ,
+		dbr:Interborough_Rapid_Transit_Company ,
+		dbr:Constitution_of_the_United_States ,
+		dbr:EmblemHealth ,
+		dbr:Cantor_Fitzgerald ,
+		dbr:Erie_Canal ,
+		dbr:Continental_Army ,
+		dbr:Lenape ,
+		<http://dbpedia.org/resource/Fulton_Street_(Manhattan)> ,
+		dbr:Lower_East_Side ,
+		dbr:Martin_Cregier ,
+		<http://dbpedia.org/resource/Washington,_D.C.> ,
+		dbr:Woolworth_Building ,
+		dbr:Philadelphia ,
+		dbc:Lower_Manhattan ,
+		dbr:Construction_of_the_World_Trade_Center ,
+		dbr:National_Museum_of_the_American_Indian ,
+		dbr:Gramercy_Park ,
+		dbr:Flatiron_District ,
+		<http://dbpedia.org/resource/Civic_Center,_Manhattan> ,
+		<http://dbpedia.org/resource/2010_United_States_census> ,
+		dbr:New_York_City_courts ,
+		dbr:Central_business_district ,
+		<http://dbpedia.org/resource/South_Ferry_(Manhattan)> ,
+		dbr:Fraunces_Tavern ,
+		dbr:Urban_renewal ,
+		dbr:Zoning_in_the_United_States ,
+		dbr:Alternative_newspaper ,
+		<http://dbpedia.org/resource/Great_Fire_of_New_York_(1776)> ,
+		dbr:Stamp_Act_Congress .
+@prefix ns42:	<http://dbpedia.org/resource/Pier_11/> .
+dbr:Lower_Manhattan	dbo:wikiPageWikiLink	ns42:Wall_Street ,
+		dbr:Willem_Kieft ,
+		<http://dbpedia.org/resource/4_World_Trade_Center> ,
+		<http://dbpedia.org/resource/70_Pine_Street> ,
+		<http://dbpedia.org/resource/Trinity_Church_(Manhattan)> ,
+		dbr:West_Side_Highway ,
+		<http://dbpedia.org/resource/History_of_slavery_in_New_York_(state)> ,
+		<http://dbpedia.org/resource/200_West_Street> ,
+		dbr:President_of_the_United_States ,
+		dbr:Economic_inequality ,
+		dbr:Alexander_Hamilton ,
+		dbr:Supreme_Court_of_the_United_States ,
+		dbr:Fiorello_La_Guardia ,
+		dbr:American_folk_music_revival ,
+		dbr:David_Rockefeller ,
+		dbr:Staten_Island ,
+		dbr:Staten_Island_Ferry_Whitehall_Terminal ,
+		dbr:South_Street_Seaport ,
+		dbr:Articles_of_Confederation ,
+		dbr:George_Washington ,
+		dbr:Planned_community ,
+		dbr:Little_Australia ,
+		dbr:International_Business_Times ,
+		dbr:Neil_Young ,
+		<http://dbpedia.org/resource/Chinatown,_Manhattan> ,
+		dbr:Museum_of_American_Finance ,
+		dbr:The_New_Yorker ,
+		dbr:September_11_attacks ,
+		dbr:Nathan_Hale ,
+		dbr:Columbia_University ,
+		dbr:Robert_Moses ,
+		dbr:Nielsen_Media_Research ,
+		<http://dbpedia.org/resource/File:UA_Flight_175_hits_WTC_south_tower_9-11_edit.jpeg> ,
+		dbr:Downtown_Jersey_City ,
+		dbr:CBGB ,
+		dbr:Triangle_Shirtwaist_Factory_fire ,
+		dbr:United_States_Congress ,
+		<http://dbpedia.org/resource/Brookfield_Place_(New_York_City)> ,
+		dbr:United_States_Bill_of_Rights ,
+		<http://dbpedia.org/resource/S&P_Global_Ratings> ,
+		dbr:List_of_FBI_field_offices ,
+		dbr:Bohemianism ,
+		dbr:Geographical_renaming ,
+		dbr:Federal_Bureau_of_Investigation ,
+		dbr:American_International_Group ,
+		dbr:Stonewall_riots ,
+		dbr:Occupy_movement ,
+		dbr:Federal_Hall ,
+		dbr:New_Jersey ,
+		dbr:World_Trade_Center_site ,
+		dbr:Spotify ;
+	dbo:wikiPageExternalLink	<http://www.downtownny.com/> ,
+		<http://www.renewnyc.com/> .
+@prefix dbt:	<http://dbpedia.org/resource/Template:> .
+dbr:Lower_Manhattan	dbp:wikiPageUsesTemplate	dbt:Convert ,
+		dbt:Citation_needed ,
+		dbt:Reflist ,
+		dbt:Authority_control ,
+		dbt:See_also ,
+		dbt:More_citations_needed ,
+		dbt:Main ,
+		dbt:Rp ,
+		dbt:Commons_category ,
+		dbt:NYC_bus_link ,
+		dbt:Manhattan ,
+		dbt:Wide_image ,
+		dbt:Maplink ,
+		dbt:Coord ,
+		dbt:Infobox_settlement ,
+		dbt:Portal ;
+	dbo:abstract	"\u66FC\u54C8\u987F\u4E0B\u57CE\uFF08\u82F1\u8A9E\uFF1ALower Manhattan\uFF0C\u6216\u7A31Downtown Manhattan\uFF09\u662F\u7F8E\u570B\u7EBD\u7EA6\u5E02\u66FC\u54C8\u9813\u6700\u5357\u7AEF\u7684\u90E8\u5206\uFF0C\u5176\u6700\u5E38\u89C1\u7684\u908A\u754C\u662F\u5317\u523014\u8857\uFF0C\u897F\u5230\u54C8\u5FB7\u5B59\u6CB3\uFF0C\u4E1C\u81F3\u4E1C\u6CB3\uFF0C\u5357\u5230\u7EBD\u7EA6\u6E2F\uFF08\u4E5F\u79F0\u4E3A\u4E0A\u7EBD\u7EA6\u6E7E\uFF09\u3002\u5F53\u63D0\u5230\u66FC\u54C8\u987F\u4E0B\u57CE\u5546\u52A1\u533A\u65F6\uFF0C\u901A\u5E38\u6307\u5317\u523014\u8857\u4EE5\u5357\u7EA61.5\u82F1\u91CC\uFF0C\u548C\u8BE5\u5C9B\u6700\u5357\u7AEF\u4EE5\u5317\u4E00\u82F1\u91CC\uFF0C\u4ECE\u54C8\u5FB7\u5B59\u6CB3\u9644\u8FD1\u7684\u94B1\u4F2F\u65AF\u8857\uFF08Chambers Street\uFF09\uFF0C\u4E1C\u5230\u5E03\u9C81\u514B\u6797\u5927\u6865\u51FA\u5165\u53E3\u548C\u7ACB\u4EA4\u6865\u3002\u5176\u4ED6\u4E24\u4E2A\u4E3B\u5E72\u9053\u6709\u65F6\u4E5F\u88AB\u786E\u5B9A\u4E3A\u66FC\u54C8\u987F\u4E0B\u57CE\u7684\u5317\u90E8\u8FB9\u754C\uFF1A\u94B1\u4F2F\u65AF\u8857\u4EE5\u5317\u5927\u7EA6\u534A\u82F1\u91CC\u7684\u8FD0\u6CB3\u8857\uFF08Canal Street\uFF09\uFF0C\u548C14\u8857\u4EE5\u5317\u5927\u7EA6\u534A\u82F1\u91CC\u768423\u8857\u3002 \u66FC\u54C8\u987F\u4E0B\u57CE\u5546\u52A1\u533A\u6784\u6210\u94B1\u4F2F\u65AF\u8857\u4EE5\u5357\u533A\u57DF\u7684\u6838\u5FC3\uFF0C\u5305\u62EC\u91D1\u878D\u533A\u2014\u2014\u901A\u5E38\u79F0\u4E3A\u534E\u5C14\u8857\u3001\u4EE5\u53CA\u4E16\u754C\u8D38\u6613\u4E2D\u5FC3\u3002\u5728\u8BE5\u5C9B\u6700\u5357\u7AEF\u662F\u70AE\u53F0\u516C\u56ED\uFF08Battery Park\uFF09\uFF0C\u5728\u897F\u4FA7\uFF0CTriBeCa\u533A\u6A2A\u8DE8\u94B1\u4F2F\u65AF\u8857\uFF0C\u5728\u8857\u7684\u4E1C\u7AEF\u662F\u5E9E\u5927\u7684\u66FC\u54C8\u987F\u5E02\u653F\u5927\u697C\u3002\u7EBD\u7EA6\u5E02\u653F\u5385\u5C31\u4F4D\u4E8E\u91D1\u878D\u533A\u4EE5\u5317\u3002\u94B1\u4F2F\u65AF\u8857\u5357\u9762\u8FD8\u6709\u70AE\u53F0\u516C\u56ED\u57CE\u89C4\u5212\u533A\u57DF\u548C\u5357\u8857\u6D77\u6E2F\u5386\u53F2\u533A\u57DF\u3002\u94B1\u4F2F\u65AF\u8857\u548C\u5E03\u9C81\u514B\u6797\u5927\u6865\u4EE5\u5317\u3001\u8FD0\u6CB3\u8857\u4EE5\u5357\u662F\u7EBD\u7EA6\u6700\u65E9\u7684\u5510\u4EBA\u8857\uFF0C\u8BB8\u591A\u6CD5\u9662\u5927\u697C\u548C\u5176\u4ED6\u653F\u5E9C\u529E\u516C\u697C\u4E5F\u4F4D\u4E8E\u8FD9\u4E00\u533A\u57DF\u3002\u4E0B\u4E1C\u57CE\u8DE8\u8FD0\u6CB3\u8857\u3002\u8FD0\u6CB3\u8857\u4EE5\u5317\u300114\u8857\u4EE5\u5357\u6709SoHo\u3001\u8089\u7C7B\u52A0\u5DE5\u533A\uFF08Meatpacking District\uFF09\u3001\u897F\u6751\u3001\u683C\u6797\u5C3C\u6CBB\u6751\u3001\u5C0F\u610F\u5927\u5229\u3001Nolita\u548C\u4E1C\u6751\u3002\u4ECB\u4E8E14\u8857\u548C23\u8857\u4E4B\u95F4\u662F\u4E0B\u5207\u5C14\u897F\u3001\u8054\u5408\u5E7F\u573A\u3001\u71A8\u6597\u533A\uFF08Flatiron District\uFF09\u3001Gramercy\u548C\u5927\u578B\u4F4F\u5B85\u9879\u76EEPeter Cooper Village\u2014Stuyvesant Town\u3002 \u66FC\u54C8\u987F\u4E0B\u57CE\u5546\u52A1\u533A\u662F\u5168\u7F8E\u7B2C\u56DB\u5927\u4E2D\u592E\u5546\u52A1\u533A\uFF0C\u4EC5\u6B21\u4E8E\u66FC\u54C8\u987F\u4E2D\u57CE\u3001\u829D\u52A0\u54E5\u7684\u5362\u666E\u533A\u548C\u534E\u76DB\u987F\u54E5\u4F26\u6BD4\u4E9A\u7279\u533A\u3002\u6B64\u524D\u66FE\u7ECF\u662F\u7F8E\u56FD\u7B2C\u4E09\u5927\u5546\u52A1\u533A\uFF0C\u4E4B\u6240\u4EE5\u4E0B\u964D\u5230\u7B2C\u56DB\u4F4D\u662F\u56E0\u4E3A\u4E5D\u4E00\u4E00\u4E8B\u4EF6\u7206\u767C\u5F8C\uFF0C\u8A72\u5730\u635F\u5931\u4E86\u4E16\u754C\u8D38\u6613\u4E2D\u5FC316,000,000\u5E73\u65B9\u82F1\u5C3A\u7684\u8FA6\u516C\u5927\u6A13\u6A13\u677F\u9762\u79EF\uFF0C\u76F8\u5F53\u4E8E\u8F9B\u8F9B\u90A3\u63D0\u5168\u5E02\u8FA6\u516C\u5927\u697C\u7684\u7E3D\u548C\u3002\u4F46\u662F\u5174\u5EFA\u81EA\u7531\u5854\u5174\u5EFA\u9AD8\u76DB\u8D22\u52A1\u516C\u53F8\u7684\u65B0\u603B\u90E8\u540E\uFF0C\u9884\u8BA1\u8BE5\u5730\u533A\u5C06\u6062\u590D\u5176\u6392\u540D\u7B2C\u4E09\u4F4D\u3002"@zh ,
+		"Lower Manhattan (anche Downtown Manhattan) \u00E8 un quartiere del borough centrale di New York, che tradotto in italiano significa Bassa Manhattan, riferendosi alla punta meridionale dell'omonima isola. \u00C8 famoso per essere il centro finanziario maggiore della citt\u00E0. Infatti in questo quartiere si trova Wall Street, con la New York Stock Exchange, la pi\u00F9 grande borsa valori del mondo. In questa zona sorge il One World Trade Center. All'interno del quartiere c'\u00E8 inoltre la zona di TriBeCa e Battery Park City, prevalentemente residenziale."@it ,
+		"Lower Manhattan \u00E9s el barri m\u00E9s al sud de l'illa de Manhattan, un dels boroughs de New York, als Estats Units d'Am\u00E8rica. \u00C9s delimitat pel carrer Chambers al nord, North River (una part del curs del Hudson River) a l'Oest, l'East River a l'Est, i al Sud per Battery Park i l'Upper New York Bay. Lower Manhattan, anomenat tamb\u00E9 Financial District, inclou Wall Street, City Hall, el Municipal Building, i l'empla\u00E7ament del World Trade Center Ground Zero. \u00C9s el quart \"Central business district\" del pa\u00EDs despr\u00E9s de Midtown (Manhattan), el  i Washington; era el tercer CBD abans dels Atemptats de l'11 de setembre de 2001."@ca ,
+		"\u30ED\u30A6\u30A2\u30FC\u30FB\u30DE\u30F3\u30CF\u30C3\u30BF\u30F3\uFF08\u82F1\u8A9E\uFF1ALower Manhattan\uFF09\u306F\u3001\u30DE\u30F3\u30CF\u30C3\u30BF\u30F3\u5CF6\u306E\u6700\u5357\u7AEF\u306B\u4F4D\u7F6E\u3059\u308B\u5730\u533A\u3067\u3042\u308B\u3002\u300C\u30C0\u30A6\u30F3\u30BF\u30A6\u30F3\u300D\u3068\u3082\u547C\u3070\u308C\u3001\u5317\u306F14\u4E01\u76EE\u3001\u897F\u306F\u30CF\u30C9\u30BD\u30F3\u5DDD\u3001\u6771\u306F\u30A4\u30FC\u30B9\u30C8\u5DDD\u3001\u5357\u306F\u30CB\u30E5\u30FC\u30E8\u30FC\u30AF\u6E2F\uFF08\u30A2\u30C3\u30D1\u30FC\u30FB\u30CB\u30E5\u30FC\u30E8\u30FC\u30AF\u6E7E\u3068\u3057\u3066\u3082\u77E5\u3089\u308C\u308B\uFF09\u306B\u63A5\u3057\u3066\u3044\u308B\u3002\u307E\u305F\u3001\u5CF6\u306E\u5357\u7AEF\u306B\u4F4D\u7F6E\u3059\u308B\u5546\u696D\u5730\u306E\u307F\u3092\u30ED\u30A6\u30A2\u30FC\u30FB\u30DE\u30F3\u30CF\u30C3\u30BF\u30F3\u3068\u3059\u308B\u5834\u5408\u3082\u3042\u308A\u3001\u3053\u306E\u5834\u5408\u306E\u5317\u7AEF\u306F\u3001\u30D6\u30EB\u30C3\u30AF\u30EA\u30F3\u6A4B\u306E\u5165\u53E3\u304B\u3089\u30C1\u30A7\u30F3\u30D0\u30FC\u30BA\u30FB\u30B9\u30C8\u30EA\u30FC\u30C8\u3068\u306A\u308B\u3002\u3053\u306E\u4ED6\u306B\u3082\u3001\u30C1\u30A7\u30F3\u30D0\u30FC\u30BA\u30FB\u30B9\u30C8\u30EA\u30FC\u30C8\u306E\u534A\u30DE\u30A4\u30EB\u5317\u306E\u30AD\u30E3\u30CA\u30EB\u30FB\u30B9\u30C8\u30EA\u30FC\u30C8\u3084\u300114\u4E01\u76EE\u304B\u3089\u534A\u30DE\u30A4\u30EB\u5317\u306B\u4F4D\u7F6E\u3059\u308B\u30DE\u30C7\u30A3\u30BD\u30F3\u30FB\u30B9\u30AF\u30A8\u30A2\u30FB\u30D1\u30FC\u30AF\u7B49\u304C\u3042\u308B23\u4E01\u76EE\u3092\u5317\u7AEF\u3068\u3059\u308B\u5834\u5408\u3082\u3042\u308B\u3002"@ja ,
+		"Lower Manhattan (oder Downtown Manhattan bzw. einfach nur Downtown) ist der s\u00FCdlichste Teil der Insel Manhattan in der amerikanischen Metropole New York City. Downtown grenzt im Norden an Midtown an, das wiederum s\u00FCdlich von Uptown gelegen ist. Der Bezirk ist das Zentrum der Finanzwelt von New York City und grenzt an den Hudson, den East River und n\u00F6rdlich an die 14th Street an. Ganz Lower Manhattan und vor allem der Financial District ist durchzogen von Durchfahrtsstra\u00DFen in S\u00FCd-Nord- und Ost-West-Richtung. Das Lower Manhattan Gesch\u00E4ftszentrum ist der eigentliche Kern unterhalb der Chamber Street. Das Gebiet ist vor allem durch den Financial District und das ehemalige World Trade Center bekannt. An der S\u00FCdspitze befinden sich der Battery Park und der South Street Seaport (zwei weitere historische Bereiche des Bezirks). Der Lower Manhattan Business District ist nach Midtown Manhattan, Chicagos Loop und Washington D.C. das viertgr\u00F6\u00DFte Gesch\u00E4ftszentrum der Vereinigten Staaten. Nach den Terroranschl\u00E4gen vom 11. September 2001, bei denen die beiden T\u00FCrme des World Trade Centers einst\u00FCrzten, verlor Lower Manhattan eine so gro\u00DFe Gesch\u00E4ftsfl\u00E4che wie zum Vergleich die ganze Stadt Cincinnati aufbringt. Seit seinem Richtfest im Mai 2013 ist das One World Trade Center, das Teil des neuen World Trade Centers ist, mit einer H\u00F6he von 541 Metern das mit Abstand h\u00F6chste Bauwerk von Lower Manhattan. Nach den Anschl\u00E4gen von 2001 war noch der 290 Meter hohe 70 Pine Street das h\u00F6chste Geb\u00E4ude in S\u00FCd-Manhattan. Das kleine Mmuseumm er\u00F6ffnete 2012."@de ,
+		"Lower Manhattan, also known as Downtown Manhattan or Downtown New York, is the southernmost part of Manhattan, the central borough for business, culture, and government in the City of New York, which itself originated at the southern tip of Manhattan Island in 1624, at a point which now constitutes the present-day Financial District. The population of the Financial District alone has grown to an estimated 61,000 residents as of 2018, up from 43,000 as of 2014, which in turn was nearly double the 23,000 recorded at the 2000 Census."@en ,
+		"Lower Manhattan (Downtown Manhattan) je nejji\u017En\u011Bj\u0161\u00ED \u010D\u00E1st newyorsk\u00E9 \u010Dtvrti Manhattan, resp. stejnojmenn\u00E9ho ostrova. \u00DAzem\u00ED je ohrani\u010Deno 14. ulic\u00ED nebo a\u017E 23. ulic\u00ED na severu, \u0159ekou Hudson River na z\u00E1pad\u011B, p\u0159\u00EDlivovou \u00FA\u017Einou zvanou East River na v\u00FDchod\u011B a p\u0159\u00EDstavem  (t\u00E9\u017E zn\u00E1m\u00FDm jako Upper New York Bay) na jihu. Na Lower Manhattanu se nach\u00E1z\u00ED mnoho v\u00FDznamn\u00FDch m\u00EDst, mj. finan\u010Dn\u00ED st\u0159edisko Wall Street. Nam\u00EDsto p\u016Fvodn\u00EDch budov World Trade Center byl vybudov\u00E1n mrakodrap One World Trade Center. Je zde tak\u00E9 n\u00E1m\u011Bst\u00ED Union Square. P\u0159es Lower Manhattan vede mezist\u00E1tn\u00ED podzemn\u00ED dr\u00E1ha PATH, spojuj\u00EDc\u00ED m\u011Bsto Jersey City ve st\u00E1t\u011B New Jersey pod \u0159ekou Hudson s New Yorkem a dal\u0161\u00EDmi oblastmi st\u00E1tu New York."@cs ,
+		"Lower Manhattan (Dolny Manhattan) \u2013 wysuni\u0119ta najdalej na po\u0142udnie cz\u0119\u015B\u0107 wyspy Manhattan, centrum biznesowe i administracyjne miasta Nowy Jork. Lower Manhattan, okre\u015Blany cz\u0119sto mianem \"centrum\", definiowany jest zazwyczaj jako obszar ograniczony od p\u00F3\u0142nocy przez 14. ulic\u0119, na zachodzie przez rzek\u0119 Hudson, na wschodzie przez cie\u015Bnin\u0119 (w\u0142. estuarium) East River, za\u015B na po\u0142udniu przez . Znajduj\u0105ca si\u0119 w Lower Manhattan Wall Street gruntuje pozycj\u0119 Nowego Jorku jako \u015Bwiatowej stolicy finans\u00F3w, stanowi\u0105c siedzib\u0119 New York Stock Exchange, czyli najwi\u0119kszej na \u015Bwiecie gie\u0142dy papier\u00F3w warto\u015Bciowych pod wzgl\u0119dem kapitalizacji rynkowej swoich sp\u00F3\u0142ek. Lower Manhattan obejmuje  Nowego Jorku (cz\u0119sto okre\u015Blany mianem Wall Street, jako \u017Ce w\u0142a\u015Bnie ta ulica stanowi centrum obszaru biznesowego); w przesz\u0142o\u015Bci znajdowa\u0142y si\u0119 tutaj r\u00F3wnie\u017C siostrzane wie\u017Ce World Trade Center. Na p\u00F3\u0142noc od dystryktu finansowego zlokalizowany jest ratusz miasta Nowy Jork, za\u015B na po\u0142udniowym odcinku wyspy znajduje si\u0119 . W sk\u0142ad zachodniej sekcji Lower Manhattan wchodzi dzielnica TriBeCa, natomiast wschodnia cz\u0119\u015B\u0107 Lower Manhattan obejmuje . W Lower Manhattan le\u017Cy najstarsze w Nowym Jorku, jedno z sze\u015Bciu obecnie istniej\u0105cych . Na tym obszarze funkcjonuje ponadto wiele s\u0105d\u00F3w oraz urz\u0119d\u00F3w pa\u0144stwowych. Lower Manhattan sk\u0142ada si\u0119 z charakterystycznych, mniejszych dzielnic Nowego Jorku, a w tym m.in.: SoHo, Greenwich Village, , NoLita, East Village,  oraz ."@pl ,
+		"Lower Manhattan \u00E4r det sydligaste omr\u00E5det p\u00E5 Manhattan i New York."@sv ,
+		"\u041D\u0438\u0436\u043D\u0456\u0439 \u041C\u0430\u043D\u0433\u0435\u0442\u0442\u0435\u043D (\u0430\u043D\u0433\u043B. Lower Manhattan) \u2014 \u043E\u0434\u0438\u043D \u0437 \u043D\u0430\u0439\u0430\u043A\u0442\u0438\u0432\u043D\u0456\u0448\u0438\u0445 \u0440\u0430\u0439\u043E\u043D\u0456\u0432 \u041D\u044C\u044E-\u0419\u043E\u0440\u043A\u0430, \u043D\u0430\u0439\u043F\u0456\u0432\u0434\u0435\u043D\u043D\u0456\u0448\u0430 \u0447\u0430\u0441\u0442\u0438\u043D\u0430 \u041C\u0430\u043D\u0433\u0435\u0442\u0442\u0435\u043D\u0430, \u043E\u0441\u043D\u043E\u0432\u043D\u043E\u0433\u043E \u043E\u0441\u0442\u0440\u043E\u0432\u0430 \u043C\u0456\u0441\u0442\u0430 \u041D\u044C\u044E-\u0419\u043E\u0440\u043A, \u0439\u043E\u0433\u043E \u043A\u043E\u043C\u0435\u0440\u0446\u0456\u0439\u043D\u043E\u0433\u043E \u0446\u0435\u043D\u0442\u0440\u0443. \u0423 \u043D\u044C\u043E\u043C\u0443 \u0440\u043E\u0437\u0442\u0430\u0448\u043E\u0432\u0443\u044E\u0442\u044C\u0441\u044F \u0423\u043E\u043B\u043B-\u0441\u0442\u0440\u0456\u0442, \u041C\u0435\u0440\u0456\u044F, \u0424\u0456\u043D\u0430\u043D\u0441\u043E\u0432\u0438\u0439 \u041A\u0432\u0430\u0440\u0442\u0430\u043B, \u0413\u0440\u0430\u0443\u043D\u0434 \u0417\u0456\u0440\u043E, \u041C\u0430\u043B\u0435\u043D\u044C\u043A\u0430 \u0406\u0442\u0430\u043B\u0456\u044F \u0456 \u0427\u0430\u0439\u043D\u0430-\u0422\u0430\u0443\u043D. \u0426\u0435 \u0447\u0435\u0442\u0432\u0435\u0440\u0442\u0438\u0439 \u043A\u043E\u043C\u0435\u0440\u0446\u0456\u0439\u043D\u0438\u0439 \u0446\u0435\u043D\u0442\u0440 \u0421\u0428\u0410 \u043F\u0456\u0441\u043B\u044F \u041C\u0456\u0434\u0442\u0430\u0443\u043D\u0456, \u0427\u0438\u043A\u0430\u0433\u043E \u041B\u0443\u043F\u0430 \u0456 \u0412\u0430\u0448\u0438\u043D\u0433\u0442\u043E\u043D\u0430. \u0426\u044F \u0437\u043E\u043D\u0430 \u043E\u0441\u043E\u0431\u043B\u0438\u0432\u043E \u043F\u043E\u0441\u0442\u0440\u0430\u0436\u0434\u0430\u043B\u0430 \u0432\u0456\u0434 \u0442\u0435\u0440\u0430\u043A\u0442\u0456\u0432 11-\u0433\u043E \u0432\u0435\u0440\u0435\u0441\u043D\u044F 2001 \u0440\u043E\u043A\u0443, \u043A\u043E\u043B\u0438 \u0432\u043F\u0430\u043B\u0438 \u0432\u0435\u0436\u0456-\u0431\u043B\u0438\u0437\u043D\u044E\u043A\u0438."@uk ,
+		"\u041D\u0438\u0301\u0436\u043D\u0438\u0439 \u041C\u0430\u043D\u0445\u044D\u0301\u0442\u0442\u0435\u043D (\u0430\u043D\u0433\u043B. Lower Manhattan) \u2014 \u0441\u0430\u043C\u0430\u044F \u044E\u0436\u043D\u0430\u044F \u0447\u0430\u0441\u0442\u044C \u041C\u0430\u043D\u0445\u044D\u0442\u0442\u0435\u043D\u0430, \u043E\u0441\u043D\u043E\u0432\u043D\u043E\u0433\u043E \u043E\u0441\u0442\u0440\u043E\u0432\u0430 \u0433\u043E\u0440\u043E\u0434\u0430 \u041D\u044C\u044E-\u0419\u043E\u0440\u043A\u0430, \u0435\u0433\u043E \u043A\u043E\u043C\u043C\u0435\u0440\u0447\u0435\u0441\u043A\u043E\u0433\u043E \u0438 \u043F\u0440\u0430\u0432\u0438\u0442\u0435\u043B\u044C\u0441\u0442\u0432\u0435\u043D\u043D\u043E\u0433\u043E \u0446\u0435\u043D\u0442\u0440\u0430. \u041A\u043E\u0433\u0434\u0430 \u043F\u043E\u0434 \u041D\u0438\u0436\u043D\u0438\u043C \u041C\u0430\u043D\u0445\u044D\u0442\u0442\u0435\u043D\u043E\u043C \u043F\u043E\u0434\u0440\u0430\u0437\u0443\u043C\u0435\u0432\u0430\u0435\u0442\u0441\u044F \u0431\u043E\u043B\u044C\u0448\u0430\u044F \u0447\u0430\u0441\u0442\u044C \u044E\u0433\u0430 \u043E\u0441\u0442\u0440\u043E\u0432\u0430, \u043E\u043D \u0433\u0440\u0430\u043D\u0438\u0447\u0438\u0442 \u0441 \u0440\u0435\u043A\u043E\u0439 \u0413\u0443\u0434\u0437\u043E\u043D \u043D\u0430 \u0437\u0430\u043F\u0430\u0434\u0435, \u0441 \u0418\u0441\u0442-\u0420\u0438\u0432\u0435\u0440 \u043D\u0430 \u0432\u043E\u0441\u0442\u043E\u043A\u0435, \u0441  \u043D\u0430 \u044E\u0433\u0435 \u0438 \u0441 42-\u0439 \u0443\u043B\u0438\u0446\u0435\u0439 \u043D\u0430 \u0441\u0435\u0432\u0435\u0440\u0435. \u0415\u0441\u043B\u0438 \u0436\u0435 \u0438\u043C\u0435\u0435\u0442\u0441\u044F \u0432 \u0432\u0438\u0434\u0443 \u0442\u043E\u043B\u044C\u043A\u043E \u043D\u0438\u0436\u043D\u044F\u044F \u0447\u0430\u0441\u0442\u044C \u043A\u043E\u043C\u043C\u0435\u0440\u0447\u0435\u0441\u043A\u043E\u0433\u043E \u0440\u0430\u0439\u043E\u043D\u0430 \u041C\u0430\u043D\u0445\u044D\u0442\u0442\u0435\u043D\u0430, \u0442\u043E \u0441\u0435\u0432\u0435\u0440\u043D\u0430\u044F \u0433\u0440\u0430\u043D\u0438\u0446\u0430 \u043F\u0440\u043E\u0445\u043E\u0434\u0438\u0442 \u043F\u0440\u0438\u0431\u043B\u0438\u0437\u0438\u0442\u0435\u043B\u044C\u043D\u043E \u0432 \u043F\u043E\u043B\u0443\u0442\u043E\u0440\u0430 \u043A\u0438\u043B\u043E\u043C\u0435\u0442\u0440\u0430\u0445 \u043A \u044E\u0433\u0443 \u043E\u0442 14-\u0439 \u0443\u043B\u0438\u0446\u044B \u0438 \u0432 \u043E\u0434\u043D\u043E\u0439 \u043C\u0438\u043B\u0435 \u043A \u0441\u0435\u0432\u0435\u0440\u0443 \u043E\u0442 \u044E\u0436\u043D\u043E\u0433\u043E \u043A\u043E\u043D\u0446\u0430 \u043E\u0441\u0442\u0440\u043E\u0432\u0430. \u041D\u0438\u0436\u043D\u0438\u0439 \u041C\u0430\u043D\u0445\u044D\u0442\u0442\u0435\u043D \u2014 \u043E\u0434\u0438\u043D \u0438\u0437 \u0441\u0430\u043C\u044B\u0445 \u0430\u043A\u0442\u0438\u0432\u043D\u044B\u0445 \u0440\u0430\u0439\u043E\u043D\u043E\u0432 \u041D\u044C\u044E-\u0419\u043E\u0440\u043A\u0430. \u0412 \u043D\u0451\u043C \u0440\u0430\u0441\u043F\u043E\u043B\u0430\u0433\u0430\u044E\u0442\u0441\u044F \u0423\u043E\u043B\u043B-\u0441\u0442\u0440\u0438\u0442, \u041C\u044D\u0440\u0438\u044F, \u0424\u0438\u043D\u0430\u043D\u0441\u043E\u0432\u044B\u0439 \u043A\u0432\u0430\u0440\u0442\u0430\u043B, \u0413\u0440\u0430\u0443\u043D\u0434-\u0417\u0438\u0440\u043E, \u041C\u0430\u043B\u0435\u043D\u044C\u043A\u0430\u044F \u0418\u0442\u0430\u043B\u0438\u044F \u0438 \u0427\u0430\u0439\u043D\u0430-\u0442\u0430\u0443\u043D. \u042D\u0442\u043E \u0447\u0435\u0442\u0432\u0451\u0440\u0442\u044B\u0439 \u043A\u043E\u043C\u043C\u0435\u0440\u0447\u0435\u0441\u043A\u0438\u0439 \u0446\u0435\u043D\u0442\u0440 \u0421\u0428\u0410 \u043F\u043E\u0441\u043B\u0435 \u041C\u0438\u0434\u0442\u0430\u0443\u043D\u0430, \u0427\u0438\u043A\u0430\u0433\u043E-\u041B\u0443\u043F\u0430 \u0438 \u0412\u0430\u0448\u0438\u043D\u0433\u0442\u043E\u043D\u0430. \u042D\u0442\u0430 \u0437\u043E\u043D\u0430 \u043E\u0441\u043E\u0431\u0435\u043D\u043D\u043E \u043F\u043E\u0441\u0442\u0440\u0430\u0434\u0430\u043B\u0430 \u043E\u0442 \u0442\u0435\u0440\u0430\u043A\u0442\u043E\u0432 11 \u0441\u0435\u043D\u0442\u044F\u0431\u0440\u044F 2001 \u0433\u043E\u0434\u0430, \u043A\u043E\u0433\u0434\u0430 \u0440\u0443\u0445\u043D\u0443\u043B\u0438 \u0431\u0430\u0448\u043D\u0438-\u0431\u043B\u0438\u0437\u043D\u0435\u0446\u044B."@ru ,
+		"Lower Manhattan (appel\u00E9 aussi Downtown Manhattan) est le quartier le plus au sud de l'\u00EEle de Manhattan, l'un des cinq arrondissements de la ville de New York, aux \u00C9tats-Unis. Il est g\u00E9n\u00E9ralement d\u00E9limit\u00E9 par la rue Chambers au Nord, North River (une partie du cours de l'Hudson River) \u00E0 l'Ouest, l'East River \u00E0 l'Est, et au Sud par Battery Park et la Upper New York Bay. Lower Manhattan, appel\u00E9 aussi Financial District, inclut Wall Street, l'h\u00F4tel de ville, le Municipal Building et le site du One World Trade Center. C'est le quatri\u00E8me \"Central business district\" du pays apr\u00E8s Midtown (Manhattan), le Loop (Chicago) et Washington. C'\u00E9tait le troisi\u00E8me CBD avant les attentats du 11 septembre 2001."@fr ,
+		"Lower Manhattan, dikenal juga sebagai Downtown Manhattan, adalah daerah paling selatan di pulau Manhattan, pulau utama serta pusat bisnis, budaya, dan pemerintahan Kota New York."@in ,
+		"Lower Manhattan is het zuidelijkste deel van het eiland Manhattan. Het is de belangrijkste wijk en het commerci\u00EBle en bestuurlijke centrum van New York. Het wordt doorgaans gedefinieerd als het gebied begrensd door afhankelijk van de bron, Chambers Street of 14th Street in het noorden, de Hudson in het westen, de East River in het oosten en The Battery en New York Bay in het zuiden. Lower Manhattan bevat het stadhuis van New York, het Manhattan Municipal Building, het financi\u00EBle district rond Wall Street en het World Trade Center."@nl ,
+		"\uB85C\uC5B4\uB9E8\uD574\uD2BC(Lower Manhattan)\uC740 \uB9E8\uD574\uD2BC\uC758 \uB0A8\uCABD \uC9C0\uC5ED\uC744 \uB73B\uD558\uB294 \uB9D0\uB85C, \uB274\uC695 \uACBD\uC81C\uC758 \uC911\uC2EC\uC774\uB2E4. \uC6D4 \uAC00, \uB274\uC695 \uC99D\uAD8C \uAC70\uB798\uC18C \uB4F1\uC774 \uC704\uCE58\uD55C\uB2E4."@ko ,
+		"Malalta Manhatano (angle: Lower Manhattan) estas la plej suda parto de la insulo Manhatano, la \u0109efa insulo kaj negoca centro kaj sidejo de la registaro de Novjorko. Malalta Manhatano estas la suda parto kun limoj \u0109e la rivero Hudsono, oriente kun la Orienta rivero, sude kun la  kaj la  norde. En Malalta Manhatano trovi\u011Das Wall Street, la , la Financa Distrikto kaj la Ground Zero. \u011Ci estas la kvara plej granca negocejo de Usono. \u0108i tiu zono estis speciala dama\u011Data pro la atencoj de la 11-a de septembro 2001, kiam estis faligitaj la \u011Cemelturoj."@eo ,
+		"Lower Manhattan (em portugu\u00EAs:  Baixa Manhattan) \u00E9 a parte mais meridional da ilha de Manhattan, a principal ilha e centro financeiro e do governo da cidade de Nova York. Lower Manhattan \u00E9 definida mais comumente como a \u00E1rea delimitada a norte pela Rua 14, a oeste pelo Rio Hudson, a leste pelo Rio East, e ao sul pelo porto de Nova York (tamb\u00E9m conhecido como Ba\u00EDa Alta de Nova York). Ao se referir especificamente \u00E0 menor \u00E1rea de neg\u00F3cios de Manhattan e seus arredores imediatos, a fronteira norte \u00E9 comumente designado por vias aproximadamente ao sul de uma milha e meia da Rua 14 e uma milha ao norte da ponta sul da ilha. Outras duas principais art\u00E9rias tamb\u00E9m s\u00E3o por vezes identificadas como a fronteira norte do \"centro de Manhattan\": Canal Street, cerca de metade uma milha ao norte de Chambers Street e 23rd Street, cerca de metade de uma milha a norte da Rua 14. Ancorado por Wall Street, em Lower Manhattan, Nova York \u00E9 a  do mundo e \u00E9 a casa da New York Stock Exchange, a maior bolsa de valores do mundo por capitaliza\u00E7\u00E3o de mercado de a\u00E7\u00F5es de suas empresas listadas."@pt ,
+		"Lower Manhattan o Bajo Manhattan es la parte m\u00E1s meridional de la isla de Manhattan, la isla principal y el centro de los negocios y el gobierno de la ciudad de Nueva York. Lower Manhattan se define com\u00FAnmente como la mayor\u00EDa de la zona delimitada al sur de la isla. Limita al oeste con el r\u00EDo Hudson, al este con el r\u00EDo Este, al sur con el puerto de Nueva York y con la Calle 42 al norte. Cuando se refiere espec\u00EDficamente a la parte baja del distrito de negocios de Manhattan y sus alrededores, la frontera norte es com\u00FAnmente designada por la v\u00EDa de aproximadamente un kil\u00F3metro y medio al sur de la  y una milla al norte de la isla del extremo sur. En Lower Manhattan se encuentran Wall Street, el Ayuntamiento, el Distrito Financiero y la Zona cero. Es el cuarto centro de negocios m\u00E1s grande de Estados Unidos, despu\u00E9s del Midtown, el Chicago Loop y Washington D. C. Esta zona fue especialmente afectada por los ataques terroristas del 11 de septiembre de 2001, cuando fueron derribadas las Torres Gemelas. Lower Manhattan tambi\u00E9n es una de las zonas m\u00E1s activas de Nueva York. All\u00ED, adem\u00E1s de Wall Street, tambi\u00E9n se hallan cerca Little Italy y Chinatown."@es ;
+	dbo:wikiPageLength	"68062"^^xsd:nonNegativeInteger ;
+	dbp:mapCaption	"Location of Lower Manhattan"@en ;
+	dbp:subdivisionType	<http://dbpedia.org/resource/U.S._state> ,
+		dbr:List_of_sovereign_states ,
+		dbr:Boroughs_of_New_York_City ,
+		dbr:City ;
+	dbo:areaCode	"212, 332, 646, and917" ;
+	dbp:postalCode	9223372036854775807 ;
+	dbp:populationAsOf	2010 ;
+	dbp:settlementType	dbr:Central_business_district ;
+	dbp:postalCodeType	dbr:ZIP_Code ;
+	dbp:areaCode	212332646 ;
+	dbo:postalCode	"10004, 10005, 10006, 10007, 10038, 10280, 10012, 10013, 10014" ;
+	dbp:populationTotal	382654 .
+dbr:US_Helicopter	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Sankofa	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:The_Rouse_Company	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Martz_Group	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:William_Howard_Hoople	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Al_Smith	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Alexander_Macomb_House	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Alley_(company)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Charles_Colson	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Financial_District,_Manhattan>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Food_Paradise_(season_12)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Wall_Street	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Seedco	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Barbara_Chase-Riboud	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/John_Shaw_(painter)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Maria_Yoon	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/1939_New_York_World\u0027s_Fair>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Cass_Gilbert	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:George_Gustav_Heye_Center	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Jersey_City,_New_Jersey>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:David_Jang	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Bernard_Schriever	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Spook_Country	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/2008_NCAA_Division_I_Men\u0027s_Basketball_Tournament>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Modell\u0027s_Sporting_Goods>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Loft,_Inc.>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Metropolis_(comics)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/2017_in_the_United_States>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Skidmore,_Owings_&_Merrill>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/St._Paul\u0027s_Chapel>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:List_of_tunnels_in_the_United_States	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Donald_Rumsfeld	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Frank_L._Culbertson_Jr.>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Fraunces_Tavern	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Hamilton_Fish_V	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Hurricane_Sandy	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:James_Rossant	dbo:significantDesign	dbr:Lower_Manhattan ;
+	dbp:significantDesign	dbr:Lower_Manhattan ;
+	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Jay_Sekulow	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/History_of_New_York_City_(1978\u2013present)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:American_Civil_Liberties_Union	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Pace_University	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Pan_Am	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Public_image_of_Barack_Obama	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+@prefix ns44:	<http://dbpedia.org/resource/Lower_Manhattan\u2013Jamaica/> .
+ns44:JFK_Transportation_Project	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Lumberyard_Contemporary_Performing_Arts	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:African_Burial_Ground_National_Monument	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Charles_McKnight	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Outline_of_the_September_11_attacks	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Brooklyn_Navy_Yard	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Cadwalader,_Wickersham_&_Taft>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Columbia_Graduate_School_of_Architecture,_Planning_and_Preservation>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Commissioners\u0027_Plan_of_1811>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Crumbs_Bake_Shop	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Larry_Silverstein	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/City_Hall_Post_Office_and_Courthouse_(New_York_City)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Maritime_history_of_the_United_States_(1900\u20131999)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Hagstrom_Map	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:SinoVision	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:List_of_highest-income_urban_neighborhoods_in_the_United_States	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Dan_Christensen	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Peter_Koper	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Robert_Moses	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Taiwanese_Americans	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/WINS_(AM)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/WMCA_(AM)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:FBI_Police	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Federal_Hall	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:New_York_City_draft_riots	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:New_York_Society_Library	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:New_York_University	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:New_York_metropolitan_area	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Newark_Liberty_International_Airport	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Stonewall_riots	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Washington_Heights,_Manhattan>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Westchester_Avenue_station	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:William_Conant_Church	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:List_of_journalists_killed_in_the_United_States	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Rudy_Giuliani_during_the_September_11_attacks	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Eleanor_Raskin	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Eliza_Hamilton_Holly	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Empire_State_Building	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Annin_&_Co.>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:John_William_Comber	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Jon_Stewart	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Joseph_Bucklin_Bishop	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Julius_H._Kroehl>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:June_Chan	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Mobile_cell_sites	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Olympia_Trails	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Closings_and_cancellations_following_the_September_11_attacks	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Thomas_Fortune_Ryan	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Timothy_M._Dolan>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Tom_Clancy\u0027s_The_Division_2>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Woolworth_Building	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Timeline_of_the_Barack_Obama_presidency_(2010)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Transportation_in_New_York_(state)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/David_Brooks_(commentator)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:October_31	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Floating_Hospital	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Fair_Lawn,_New_Jersey>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Mount_Sinai_Beth_Israel	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Charging_Bull	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:New_York_Eye_and_Ear_Infirmary	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Five_Points,_Manhattan>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Mott_Street	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Roosevelt_Street	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Liberty_Island	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/South_Beach\u2013Franklin_Delano_Roosevelt_Boardwalk>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/History_of_New_York_City_(1898\u20131945)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Richard_Varick	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Brooklyn\u2013Battery_Tunnel>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:FDR_Drive	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:New_Jersey_in_the_20th_century	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:K-25	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Slum_clearance_in_the_United_States	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Fifth_Avenue_Presbyterian_Church	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Stimpson_(company)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Kosher_style	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Shake_Shack	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Stranger_Than_Paradise	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:The_Public_Theater	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/I_Don\u0027t_Know_What_It_Is>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Bialystoker_Synagogue	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Perry_Bard	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Film_(film)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:William_Alexander_Brown	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:David_Hadden	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Big_Loud	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Timeline_of_Jersey_City,_New_Jersey>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:NewYork-Presbyterian_Lower_Manhattan_Hospital	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Cliff_Eberhardt	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:New_York_City_Subway_chaining	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:George_Kokines	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Blockhouse_No._1>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Spring_Street_Park	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Drumgoole_Plaza	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/640_Broadway>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:American_Thread_Building	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Transportation_Building_(Manhattan)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Rutgers_Presbyterian_Church	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Bleecker_Street_station_(IRT_Sixth_Avenue_Line)>	dbp:locale	dbr:Lower_Manhattan ;
+	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Desbrosses_Street_station	dbp:locale	dbr:Lower_Manhattan ;
+	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Grand_Street_station_(IRT_Sixth_Avenue_Line)>	dbp:locale	dbr:Lower_Manhattan ;
+	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Grand_Street_station_(IRT_Third_Avenue_Line)>	dbp:locale	dbr:Lower_Manhattan ;
+	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Centre_Market_Place	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Beer_in_the_United_States	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Home_Box_Office,_Inc.>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Aaron_Burr	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Manhattan	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:September_11_attacks	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Demographics_of_New_York_City	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/1882>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:List_of_Islamist_terrorist_attacks	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Mirza_Masroor_Ahmad	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/C._J._Chivers>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Aftermath_of_the_September_11_attacks	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Kulwant_Singh_(general)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Hudson_River_bomb_plot	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Terrorism_in_the_United_States	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Najibullah_Zazi	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Equitable_Building_(Manhattan)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Central_business_district	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/1916_Zoning_Resolution>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Mathnet	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Bathroom_sex	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Russell_T_Davies	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Goldman_Sachs	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:New_York_Stock_Exchange	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:NYSE_American	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/World_Trade_Center_(1973\u20132001)>	dbo:location	dbr:Lower_Manhattan ;
+	dbp:location	dbr:Lower_Manhattan ;
+	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/67th_New_York_Infantry>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Pedestrian_scramble	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Skid_row	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:List_of_past_Lucchese_crime_family_mobsters	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:History_of_New_York_City	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Nikola_Tesla	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Northeast_blackout_of_2003	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Economic_effects_of_the_September_11_attacks	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Childs_Restaurants	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Mohawk_people	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/1972_in_architecture>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:History_of_the_Jews_in_Colonial_America	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/J.Crew>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/2009_in_the_United_States>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Red_Power_movement	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Trans-Bridge_Lines	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Transportation_in_New_York_City	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:TriBeCa_Productions	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Titanic_Memorial_(New_York_City)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Marine_life_of_New_York\u2013New_Jersey_Harbor_Estuary>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Consolidated_Edison	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:LGBT_rights_in_the_United_States	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:History_of_the_United_States_Merchant_Marine	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:List_of_destroyed_libraries	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Covenant_House	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/WCBS_(AM)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/WFAN_(AM)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:WikiConference_North_America	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Downtown	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Essex_County,_New_Jersey>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:John_Milton_Brannan	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Metro-North_Railroad	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Chinatowns_in_the_United_States	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Timeline_for_the_day_of_the_September_11_attacks	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Alex_Jacobowitz	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Bronx_Style_Bob	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:New_York_City_ethnic_enclaves	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/MIKE_(musician)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/1987_in_architecture>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:West_Village	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Bergdorf_Goodman	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Isa_Genzken	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Post-punk	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Lesbian,_Gay,_Bisexual_&_Transgender_Community_Center>	dbo:location	dbr:Lower_Manhattan ;
+	dbp:location	dbr:Lower_Manhattan ;
+	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Franklin_Furnace_Archive	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:New_York_Association_for_New_Americans	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/70_Pine_Street>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Four_Seasons_Hotel_New_York_Downtown	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Borough_of_Manhattan_Community_College	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Evacuation_Day_(New_York)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Roe_Ethridge	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/S._J._Rozan>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Brooklyn_Army_Terminal	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Joseph_Lanza	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Isaac_Singer	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Thomas_Eboli	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Margaret_Chin	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Angel\u0027s_Bone>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/New_York_v._Strauss-Kahn>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:IBT_Media	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+@prefix ns45:	<http://dbpedia.org/resource/F/> .
+ns45:X	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Meteor_(film)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Village_People	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:RJ_Lee_Group	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Charles_Wood_(actor)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Construction_of_Rockefeller_Center	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Civic_Center,_Manhattan>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Rector_Street_station_(BMT_Broadway_Line)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Roger_Morris_(British_Army_officer)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Lee,_Higginson_&_Company_Bank_Building>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Castello_Plan	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Mafia\u2013Camorra_War>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Duarte_Square	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/26_Broadway>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:United_States_Court_of_International_Trade	dbp:location	dbr:Lower_Manhattan ;
+	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Quantico_(season_2)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Howard_Hotel	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/After_America_(Birmingham_book)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/90_West_Street>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Broad_Exchange_Building	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Pennsylvania_Station_(Newark)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Dorothy_Miner_(attorney)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Benjamin_T._Babbitt>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Lonette_McKee	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Jesse_Lott	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Death_to_Smoochy	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:New_York_City_Subway_nomenclature	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Ontario_Heritage_Trust	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Miguel_Poventud	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/H.M._Koutoukas>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:MV_Finest	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:DeeDee_Halleck	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Orpheum_Theatre_(Manhattan)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Sam_Rivers	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Meet_Me_in_the_Bathroom	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/2018_New_York_State_Senate_election>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Woodhaven_Boulevard_station_(IND_Queens_Boulevard_Line)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Spruce_Street_(Manhattan)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Visual_Effects_Society_Award_for_Outstanding_Virtual_Cinematography_in_a_CG_Project	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Put_Your_Hands_Where_My_Eyes_Could_See	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Ryders_Alley_Trencher-fed_Society	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/International_Women\u0027s_Sports_Hall_of_Fame>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Indians_in_the_New_York_City_metropolitan_region	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Dakota_Jackson	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Flight_of_the_Conchords_(TV_series)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Carrier_current	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/7_World_Trade_Center>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Domino_Sugar_Refinery	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/8_Spruce_Street>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Rowhouses_at_322\u2013344_East_69th_Street>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Newport,_Jersey_City>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Venero_Mangano	dbo:birthPlace	dbr:Lower_Manhattan ;
+	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:New_York_City_Opera	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/1993_World_Trade_Center_bombing>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Ramones	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Ramones_(album)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Sex_Pistols	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Nat_and_Alex_Wolff	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:A_Thousand_Leaves	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Crawling_at_Night	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Bright,_Precious_Days>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Marquee_Moon	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/April_O\u0027Neil>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/2018_United_States_House_of_Representatives_elections_in_New_York>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/150_Nassau_Street>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Richard_Tucker	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/B\u0027hoy_and_g\u0027hal>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Yuh-Line_Niou	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Michael_Blakey_(anthropologist)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:W_New_York_Downtown_Hotel_and_Residences	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:List_of_bridges_and_tunnels_in_New_York_City	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Broome_Street	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Desbrosses_Street_Ferry	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Cortlandt_Street_Ferry_Depot	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Jersey_City_Ferry	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Educational_Alliance	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:New_York_City	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Punk_rock	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/S&P_Global_Ratings>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Loving_(2016_film)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Urban_Outfitters	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Street	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Eggs_Benedict	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Denny\u0027s>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Pride_parade	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Hanover_Square_(Manhattan)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/2012_in_the_United_States>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/1882_in_science>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/List_of_Where_Is_My_Friend\u0027s_Home_episodes>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Free_improvisation	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Carol_Lim	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Casualties_of_the_September_11_attacks	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Citigroup	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:LGBT_rights_in_New_York	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Kabhi_Alvida_Naa_Kehna	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:LinkNYC	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Shot_tower	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/2002_World_Monuments_Watch>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Mike_Myers	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Saint_Thomas_Church_(Manhattan)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Memorials_and_services_for_the_September_11_attacks	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Other_Music	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Indian_Americans	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:James_Jebbia	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:American_Airlines_Flight_11	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Organisation_and_structure_of_the_English_Defence_League	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Rent_(musical)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Brooklyn	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Construction_of_the_World_Trade_Center	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:List_of_central_business_districts	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Daniel_Libeskind	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Silas_Talbot	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Michael_Tighe	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/New_Brunswick,_New_Jersey>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Port_of_New_York_and_New_Jersey	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Pose_(TV_series)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/What_Maisie_Knew_(film)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Where_Is_My_Friend\u0027s_Home>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Diversity_Immigrant_Visa	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Fashion_design	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:List_of_major_terrorist_incidents	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Ellis_Island	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:NYSE_Euronext	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/John_Wick_(film)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Greenridge,_Staten_Island>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Little_Australia	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Reddish	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Demographics_of_Manhattan	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Ottendorfer_Public_Library_and_Stuyvesant_Polyclinic_Hospital	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Harlem_River_Drive	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:James_Blanchard_Clews	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Jess\u00E9_de_Forest>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Michael_Reyniersz_Pauw	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Slava_Mogutin	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Year_2000_problem	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Circassian_beauties	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Sy_Syms	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:New_York_City_Department_of_Housing_Preservation_and_Development	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/1_Wall_Street>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Massive_Dynamic	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/U.S._Route_9_in_New_Jersey>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Naval_Weapons_Station_Earle	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/List_of_NJ_Transit_bus_routes_(100\u2013199)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Interstate_78	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Lakeland_Bus_Lines	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Lakewood_Terminal	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Babbitt,_North_Bergen>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:List_of_Interstate_Highways_in_New_York	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:List_of_museums_and_cultural_institutions_in_New_York_City	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Wild_90	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Statue_of_William_the_Silent	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Leslie-Lohman_Museum_of_Art	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/A&P_Warehouse>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Nelson_Sullivan	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Millennium_Park_(Manhattan)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:List_of_museums_in_New_York_City	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Cherry_Street_(Manhattan)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:New_York_Conspiracy_of_1741	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:M10_and_M20_buses	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/M12_(New_York_City_bus)>	dbp:locale	dbr:Lower_Manhattan ;
+	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/M21_(New_York_City_bus)>	dbp:locale	dbr:Lower_Manhattan ;
+	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:M5_and_M55_buses	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/M7_(New_York_City_bus)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:List_of_New_York_City_Subway_lines	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Sixth_Avenue_Line_(Manhattan_surface)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Hylan_Boulevard_express_buses	dbo:wikiPageWikiLink	dbr:Lower_Manhattan ;
+	dbp:communities	dbr:Lower_Manhattan .
+dbr:Bx15_bus	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Newburgh\u2013Beacon_Ferry>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Third_and_Lexington_Avenues_Line	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Wopo_Holup	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Spirit_of_Communication	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/M11_(New_York_City_bus)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Trans-Manhattan_Expressway	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/U.S._Route_1_in_New_York>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Fifth_and_Madison_Avenues_Line	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:City_Pier_A	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Yorgo_Constantine	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Night-cellar	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Arleen_Schloss	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:New_Amsterdam_Plein_and_Pavilion	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Neil_Chambers	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Edison_Machine_Works	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Marcus_Robinson_(artist)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Christ_Episcopal_Church_(Tarrytown,_New_York)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Hotel_Albert_(New_York,_New_York)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Marriott_World_Trade_Center	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:The_Beatrice_Inn	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Robert_Fish_(shipbuilder)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Swamp_Angels	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Teardrop_Park	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:The_Heretics	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Siena_College_Research_Institute	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:World_Trade_Center_site	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/2014_United_States_House_of_Representatives_elections_in_New_York>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Charles_Barron	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Chevy_Chase	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Health_effects_arising_from_the_September_11_attacks	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Park51	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Robert_K._Steel>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Stop_Islamization_of_America	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:The_Truman_Show_delusion	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Boroughs_of_New_York_City	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Shirley_Chisholm	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Michael_Schimmel_Center_for_the_Arts	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/30_Hudson_Street>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:History_of_Mad	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Red_Scare_(podcast)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/New_York\u0027s_27th_State_Senate_district>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:David_McReynolds	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Death_of_Jeffrey_Epstein	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/New_York\u0027s_10th_congressional_district>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/New_York\u0027s_12th_congressional_district>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Jane_Freilicher	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Future_of_StoryTelling	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:New_York_City_water_supply_system	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/United_States_lightship_Nantucket_(WLV-612)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Jules_and_G\u00E9d\u00E9on_Naudet>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Great_Fire_of_New_York_(1776)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/History_of_slavery_in_New_York_(state)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Wagner_College	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:List_of_awards_and_nominations_received_by_Marvel_Cinematic_Universe_films	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Skyscraper_Museum	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Brian_P._Stack>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:First_Baptist_Church_in_the_City_of_New_York	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Robert_Richard_Randall	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/St._Mark\u0027s_Comics>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/33_Thomas_Street>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/History_of_the_New_York_Giants_(1994\u2013present)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Taiwanese_people_in_New_York_City	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:List_of_New_York_City_Designated_Landmarks_in_Manhattan_below_14th_Street	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Maritime_response_following_September_11_attacks	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Eastern_Sea_Frontier	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Coenties_Slip	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Bridge_Street_(Manhattan)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Wards_of_New_York_City	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Vandam_Street	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Chapel_Hill_Bible_Church	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Fulton_J._Sheen>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Shearwater_(schooner)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Chemical_Bank	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:WNYC	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Downtown_Athletic_Club	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Carmine_Romano	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Richard_Cantarella	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Anthony_Strollo	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Stephen_Armone	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Peter_DeFeo	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Paul_Kelly_(criminal)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:SHoP_Architects	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Atlantic_Avenue\u2013Barclays_Center_station>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+@prefix ns46:	<http://dbpedia.org/resource/Rent:> .
+ns46:_Live	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Murray_Hill_(performer)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Singer_Building	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Jay_Street\u2013MetroTech_station>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/DeKalb_Avenue_station_(BMT_lines)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Varsity_Bus_Company	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Bowling_Green_station	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Di_Fara_Pizza	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Ditmas_Avenue_station	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Grand_Street_(Manhattan)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Killing_of_Henryk_Siwiak	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Kings_Highway_station_(IND_Culver_Line)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Chambers_Street_station_(IRT_Broadway\u2013Seventh_Avenue_Line)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+@prefix ns47:	<http://dbpedia.org/resource/Chambers_Street\u2013World_Trade_Center/Park_Place/> .
+ns47:Cortlandt_Street_station	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Avenue_I_station	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Avenue_N_station	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Avenue_P_station	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/B54_(New_York_City_bus)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:BMT_Fourth_Avenue_Line	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:BMT_Lexington_Avenue_Line	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:BMT_Sea_Beach_Line	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:BMT_West_End_Line	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/B_Division_(New_York_City_Subway)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Battery_Maritime_Building	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/18th_Avenue_station_(IND_Culver_Line)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/St._Nicholas_Antiochian_Orthodox_Cathedral_(Brooklyn)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/1_(New_York_City_Subway_service)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Bay_Parkway_station_(IND_Culver_Line)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:List_of_the_oldest_buildings_in_New_York	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/South_Ferry,_Brooklyn>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/South_Ferry_(Manhattan)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Marvel_Heroes_(board_game)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/5_in_1>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+@prefix ns48:	<http://dbpedia.org/resource/62nd_Street/> .
+ns48:New_Utrecht_Avenue_station	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Smith\u2013Ninth_Streets_station>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+@prefix ns49:	<http://dbpedia.org/resource/South_Ferry/> .
+ns49:Whitehall_Street_station	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:SportsNet_New_York	dbo:wikiPageWikiLink	dbr:Lower_Manhattan ;
+	dbo:headquarter	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Spring_Street_station_(IND_Eighth_Avenue_Line)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Eberhard_Faber_Pencil_Factory	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Fulton_Street_station_(New_York_City_Subway)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:IND_Culver_Line	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:JFK_Express	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Bond_Street_(Manhattan)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Rapid_transit_operations_of_the_BRT_and_BMT	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:New_York_City_waste_management_system	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+@prefix ns50:	<http://dbpedia.org/resource/Brooklyn_Bridge\u2013City_Hall/> .
+ns50:Chambers_Street_station	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Cotton_Club_Boys_(chorus_line)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Crescent_Street_station_(BMT_Jamaica_Line)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/L_(New_York_City_Subway_service)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/D_(New_York_City_Subway_service)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Danny_Lyon	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Rockaways\u0027_Playland>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:List_of_closed_New_York_City_Subway_stations	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:New_York_State_Route_27A	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:New_York_State_Route_9A	dbo:routeJunction	dbr:Lower_Manhattan ;
+	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/High_Street_station_(IND_Eighth_Avenue_Line)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Myrtle_Avenue_station_(BMT_Jamaica_Line)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:NYC_Mesh	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/N_(New_York_City_Subway_service)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Joralemon_Street_Tunnel	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:List_of_New_York_City_housing_cooperatives	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Kemble_Building	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Hudson_Square	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Sergeants_Benevolent_Association	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Control_Group	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/388_Greenwich_Street>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/New_York_(state)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Newsweek	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:South_Street_Seaport	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Business_career_of_Donald_Trump	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:John_Tauranac	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/PATH_(rail_system)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Murray_Hill,_Manhattan>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Midtown_Manhattan	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:New_York_City_Landmarks_Preservation_Commission	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:List_of_tallest_buildings_in_New_York_City	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/B._Altman_and_Company_Building>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Statue_of_Liberty	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Searchlight	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:One_World_Trade_Center	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Chrysler_Building	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:New_York_City_Subway	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Port_Authority_of_New_York_and_New_Jersey	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:List_of_tallest_buildings_and_structures	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:WBLS	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:WQHT	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:WHTZ	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:WCBS-FM	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Bayonne,_New_Jersey>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Collapse_of_the_World_Trade_Center	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Modern_architecture	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:WQXR-FM	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:WNYC-FM	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Newark,_New_Jersey>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Central_Park_West_Historic_District	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Mary_Ann_Tighe	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Central_Park_Zoo	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Balboa_Island,_Newport_Beach>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/WNYC_(AM)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Washington_Street_(Manhattan)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Vesey_Street	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Rats_in_New_York_City	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Purple_Violets	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Jennifer_Lawrence	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Mike_Mills_(director)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Citizen_(app)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/55_Wall_Street>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Fulton_Center	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:World_Trade_Center_in_film	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/The_Great_Gatsby_(2013_film)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Presumption_of_death	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Songs_of_Innocence_and_Experience_(Allen_Ginsberg_album)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Elizabeth_Schneider	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Five_Points_Gang	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Clyde_Vanel	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Philip_Foglia	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Deborah_J._Glick>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:New_York_Tribune_Building	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/J/Z_(New_York_City_Subway_service)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/W_(New_York_City_Subway_service)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Newport_Centre_(shopping_mall)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Bus_lanes_in_New_York_City	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Eltingville_Transit_Center	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Chinatowns_in_Brooklyn	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Claw_tool	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:NYU_Transportation	dbo:location	dbr:Lower_Manhattan ;
+	dbo:regionServed	dbr:Lower_Manhattan .
+dbr:Verizon_Building	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Early_history_of_the_IRT_subway	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Columbus_Monument_(New_York_City)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Cunard_Building_(New_York_City)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Patriot\u0027s_Park>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Down_Town_Association	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Helmsley_Building	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Thurgood_Marshall_United_States_Courthouse	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Stuyvesant_High_School	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Central_Park	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Brooke_Singer	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Main_Line_(NJ_Transit)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Manhattanhenge	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Kevin_Larmee	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Eva_Kotchever	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Barney_Miller	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/1966_New_York_City_smog>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Jeff_Buckley	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:List_of_cultural_references_to_the_September_11_attacks	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Daily_News_Building	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Architecture_of_New_York_City	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Pavonia_Terminal	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Thanksgivukkah	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Super_Bowl_XLII	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:List_of_video_games_set_in_New_York_City	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Manhattan_Municipal_Building	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Thompson\u2013Starrett_Co.>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/U.S._national_anthem_protests_(2016\u2013present)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Waverly_Place	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Washington_Square_News	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Public_Illumination_Magazine	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:The_Tribeca_Trib	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:The_New_York_Sun	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Neal_Marshad	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:TalkPoint	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:List_of_Stanford_Law_School_alumni	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Spotify	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:World_Trade_Center_in_popular_culture	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:American_political_conspiracy_theories	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Women\u0027s_National_Book_Association>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Trinity_Church_(Manhattan)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:United_States_Court_of_Appeals_for_the_Second_Circuit	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/The_Club_(fine_arts)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Holland_Tunnel	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Hudson_Terminal	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Morris_Ketchum_Jesup	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:General_Society_of_Mechanics_and_Tradesmen_of_the_City_of_New_York	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Danh_V\u014D>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Hard_Hat_Riot	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Stonewall_Inn	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Stonewall_National_Monument	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Arthur_Russell_(musician)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Mass_Transit_Super_Bowl	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Interstate_78_in_New_York	dbo:wikiPageWikiLink	dbr:Lower_Manhattan ;
+	dbp:road	dbr:Lower_Manhattan .
+dbr:Bryan_Lourd	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Debtors\u0027_Prison_Relief_Act_of_1792>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Consumers_Cooperative_Services	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Canaveral_Press	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Meteorological_history_of_Hurricane_Sandy	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Park_Place_Gallery	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:BMT_Brooklyn_Loops	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Newark\u2013World_Trade_Center>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:List_of_Manhattan_neighborhoods	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Andrew_Dolkart	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/IRT_Broadway\u2013Seventh_Avenue_Line>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Revs_(graffiti_artist)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Railroad_terminals_serving_New_York_City	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:List_of_bus_routes_in_Westchester_County	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Jersey_Avenue_station_(Hudson\u2013Bergen_Light_Rail)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:PATH_Lift_Bridge	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/List_of_bridges,_tunnels,_and_cuts_in_Hudson_County,_New_Jersey>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/M_(New_York_City_Subway_service)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/V_(New_York_City_Subway_service)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Q_(New_York_City_Subway_service)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/R_(New_York_City_Subway_service)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Organization_of_the_New_York_City_Fire_Department	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:New_York_City_steam_system	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Alvin_Baltrop	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Art_House_Productions	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:DD172	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/DNA_(American_band)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Salk_School_of_Science	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/District_1_(New_York_City_Council)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/116th_Street_Crew>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Albert_Capsouto_Park	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Kellex_Corporation	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Hampton_Jitney	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:New_York_Fire_Patrol	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Ross_Global_Academy	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/The_Coachmen_(New_York_band)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Metropolitan_Television_Alliance	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Manhattan_Community_Board_1	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Jacqueline_Kennedy_Onassis_High_School_for_International_Careers	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Greenwich_Village_Crew	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Petrosino_Square	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Postcards_(memorial)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Medusa_with_the_Head_of_Perseus	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Dey_Street_Passageway	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Father_Demo_Square	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Fifth_Avenue/53rd_Street_station>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Newark_Bay_Bridge	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Steinway_Mansion	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Five_Brushstrokes_(Lichtenstein_series)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/U.S._government_response_to_the_September_11_attacks>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Long_Island_Rail_Road	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Ice_calving	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:International_Business_Times	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Silicon_Alley	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/2017_New_York_City_truck_attack>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Peretz_Square	dbo:location	dbr:Lower_Manhattan ;
+	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/I._L._Peretz>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Murry_Bergtraum_High_School	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:The_River_to_River_Festival	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Bergen_Township,_New_Jersey_(1661\u20131862)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Performing_Arts_Center_(Manhattan)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Mulberry_Bend	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Lincoln_Tunnel_Expressway	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Cobble_Hill_Tunnel	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Pneumatic_tube_mail_in_New_York_City	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+@prefix ns51:	<http://dbpedia.org/resource/East_Village/> .
+ns51:Lower_East_Side_Historic_District	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/170\u2013176_John_Street>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Eleventh_Street_Methodist_Episcopal_Chapel	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:New_York_Evening_Post_Building	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Madison_Square_Park_Tower	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/101_Warren_Street>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/130_Cedar_Street>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Barclay_Tower	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Canal_Street_station_(IND_Eighth_Avenue_Line)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/City_Hall_station_(BMT_Broadway_Line)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Southbridge_Towers	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Millennium_Hilton_New_York_Downtown	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/The_Rotunda_(New_York_City)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/287_Broadway>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/291_Broadway>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/2_New_York_Plaza>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/45_Broad_Street>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Hoboken\u2013World_Trade_Center>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Home_Insurance_Plaza	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Rector_Street_station_(IRT_Broadway\u2013Seventh_Avenue_Line)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Colgate_Clock_(Jersey_City)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Trinity_Court_Building	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:New_York_Produce_Exchange	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Leonard_Street	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Nile_Rodgers	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Between_the_Times_and_the_Tides	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:AG_Real_Estate	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Fab_Five_Freddy	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Houston_Street	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:SAMO	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Jean-Michel_Basquiat	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Tiffany_&_Co.>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Neil_deGrasse_Tyson	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/1966_in_architecture>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Delmonico\u0027s>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Villa_di_Castello	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Thomas_Addis_Emmet	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Edward_G._Faile>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:New_Netherland_settlements	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/South_Street_(Manhattan)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/48_Wall_Street>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/60_Wall_Street>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/William_Street_(Manhattan)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Wall_Street_Historic_District_(Manhattan)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:New_York_Water_Taxi	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+ns42:Wall_Street	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:NYC_Ferry	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Broad_Street_(Manhattan)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Union_Turnpike_express_buses	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Great_New_York_City_Fire_of_1845	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Fulton_Street_(Manhattan)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Little_Fuzhou	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/1_Wall_Street_Court>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/1_William_Street>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Bennett_Building_(New_York_City)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/North_River_(Hudson_River)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Center_for_Architecture,_Science_and_Ecology>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/20_Exchange_Place>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Atlantic_Avenue_Railroad	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/St._George\u0027s_Syrian_Catholic_Church>	dbp:area	dbr:Lower_Manhattan ;
+	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/H._Rodgin_Cohen>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Home_Life_Building	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:History_of_the_Long_Island_Rail_Road	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:American_Stock_Exchange_Building	dbo:location	dbr:Lower_Manhattan ;
+	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:American_Surety_Building	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Academy_Bus_Lines	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/37_Wall_Street>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Rosario_Gangi	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:National_Register_of_Historic_Places_listings_in_Manhattan_below_14th_Street	dbp:city	dbr:Lower_Manhattan ;
+	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:New_York_City_Police_Museum	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Exchange_Place_(Manhattan)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Matthew_Astor_Wilks	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Wall_Street_West	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Church_Street_and_Trinity_Place	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Mike_Downstairs	dbp:setting	dbr:Lower_Manhattan ;
+	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Secret_Truths	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Washington_Square_Arch	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Lord_&_Taylor_Building>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Ed_Di_Lello	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Stephen_Whitney	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:LentSpace	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Fort_George_(New_York)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Old_Bergen_Church	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Washington_Square_Village	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Joseph_Reade_(politician)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Lafayette_Street	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:List_of_disasters_in_New_York_City_by_death_toll	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Sugar_house_prisons_in_New_York_City	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Peter_Williams_Jr.>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Perry_Collins	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Jo_Duffy	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Ground_Zero_(book)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/The_Gangs_of_New_York_(book)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:The_Iconography_of_Manhattan_Island	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/The_Tower_(novel)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/28th_Street_station_(BMT_Broadway_Line)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Jerry_McAuley	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Redeemer_Presbyterian_Church_(New_York_City)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Hanover_Square_station	dbp:locale	dbr:Lower_Manhattan ;
+	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:George_Tabb	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Weber_&_Heilbroner>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/No_Bra_(band)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Gertrude_Rhinelander_Waldo	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Ridgely_Torrence	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Gideon_J._Tucker>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Assem_Hammoud	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Jack_McManus	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/M15_(New_York_City_bus)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Hampton_Luxury_Liner	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Spuyten_Duyvil_Bridge	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:American_Bank_Note_Company_Building	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/6_(New_York_City_Subway_service)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/9_(New_York_City_Subway_service)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:New_York_State_Route_1A	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/International_Studio_&_Curatorial_Program>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/South_Ferry_station_(IRT_elevated)>	dbp:locale	dbr:Lower_Manhattan ;
+	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Hendrick_van_der_Heul	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Live_from_Ground_Zero	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Asbestos	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Occupy_movement	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:List_of_shipwrecks_in_2017	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Steve_Tobin	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Chinatown,_Manhattan>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Jim_Jarmusch	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Jan_Hammer	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Deutsche_Bank	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Parsons_School_of_Design	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Lee_Chamberlin	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/SoHo,_Manhattan>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Broadway_theatre	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:US_Airways_Flight_1549	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Political_positions_of_Michael_Bloomberg	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Disappearance_of_Sneha_Anne_Philip	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Lincoln_Tunnel	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:History_of_HBO	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:History_of_the_New_York_City_Subway	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:New_York_City_Police_Department	dbo:wikiPageWikiLink	dbr:Lower_Manhattan ;
+	dbp:headquarters	dbr:Lower_Manhattan .
+dbr:Technology_of_the_New_York_City_Subway	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Mayoralty_of_Michael_Bloomberg	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Camille_Billops	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Humberto_Leon	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Government_of_New_York_City	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/David_A._Wallace>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Rather_Ripped	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Supercut_(song)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/M\u00F3nica_Ponce_de_Le\u00F3n>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Cooper_Robertson	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Bus_rapid_transit_in_New_Jersey	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Zuccotti_Park	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/James_J._Walker_Park>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Charles_B._Wang_Community_Health_Center>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/St._James_Elementary_School_(New_York_City)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Peter_J._Hamill>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Alfred_E._Smith_House>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/St._James_Roman_Catholic_Church_(Manhattan)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Monk_Eastman	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Alain_Kirili	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Foley_Square	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/St._John\u0027s_Park>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/86_(term)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Brad_Hoylman	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:South_Village	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Vietnam_Veterans_Plaza	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/2011_Halloween_nor\u0027easter>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Summit_Hills,_Cross_River>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Greenwich_Village_Follies	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Eve\u0027s_Hangout>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:New_York_City_Police_Department_Emergency_Service_Unit	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Laurie_Hawkinson	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Division_Street_(Manhattan)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/St._John\u0027s_Burying_Ground>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:General_Winfield_Scott_House	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:The_City_Record	dbo:wikiPageWikiLink	dbr:Lower_Manhattan ;
+	dbp:headquarters	dbr:Lower_Manhattan ;
+	dbo:headquarter	dbr:Lower_Manhattan .
+dbr:List_of_tallest_buildings_in_Upstate_New_York	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Timeline_of_the_September_11_attacks	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Manhattan_College	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Hudson_River_Park	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Amanda_Burden	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Frances_Xavier_Cabrini	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Bill_Murray	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Roy_Gussow	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Henry_Miller	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Alexander_Wang_(designer)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Leona_Naess	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Kungstornen	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Sheryl_Crow	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Whitney_Museum_of_American_Art	dbo:location	dbr:Lower_Manhattan ;
+	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Charlton\u2013King\u2013Vandam_Historic_District>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Morris\u2013Jumel_Mansion>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Trick_or_Treat_(TV_series)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Union_Square,_Manhattan>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Garrick_Cinema	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Penny_Arcade_(performer)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/New_York\u0027s_Village_Halloween_Parade>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Burn_This	dbp:setting	dbr:Lower_Manhattan ;
+	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Street_Transvestite_Action_Revolutionaries	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/More_Fire!_Productions>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Handel_Architects	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Paddle_tennis	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/No\u00E9mie_Lafrance>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Communication_during_the_September_11_attacks	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:A_Pile_of_Crowns_for_Jean-Michel_Basquiat	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Rachel_Williams	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/America\u0027s_Next_Top_Model_(season_14)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Cortlandt_Street_(Manhattan)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/770_Broadway>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/11th_Visual_Effects_Society_Awards>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/55_Water_Street>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Bank_of_the_Metropolis	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/E_(New_York_City_Subway_service)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/21_West_Street>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Corbin_Building	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:New_York_City_Economic_Development_Corporation	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Whitehall_Building	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/90\u201394_Maiden_Lane>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/St._Paul_Building>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/K_(Eighth_Avenue_Local)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/John_Bush_(filmmaker)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/56_Henry_(art_gallery)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Texas_Medical_Center	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Combustion_Engineering	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Herbert_and_Dorothy_Vogel	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:The_Bridge_Stage_of_the_Arts	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Ada_Katz	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Congestion_pricing_in_New_York_City	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Trust_Company_of_America	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Flood_control	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Brick_Presbyterian_Church_(New_York_City)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Comfort_Sands	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Congregation_Shearith_Israel	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Bargemusic	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Barker_(advertising_agency)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Leadership_&_Public_Service_High_School>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:List_of_express_bus_routes_in_New_York_City	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Daniel_Patrick_Moynihan_United_States_Courthouse	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Danny_Forster	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:David_Berkeley	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:David_Diamante	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Park_Avenue_main_line	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Pearl_Street_Schoolhouse	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Rockaway_Beach_Branch	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Roxane_Butterfly	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Sy_Schulman	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:WTC_Cortlandt_station	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Walter_Kauzmann	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Feisal_Abdul_Rauf	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:New_Jersey_State_House	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:New_York_Aquarium	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:New_York_City_Hall	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Police_Benevolent_Association_of_the_City_of_New_York	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Pratt_Institute	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/St._Thomas_Episcopal_Church_(Amenia_Union,_New_York)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Staten_Island	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Staten_Island_Ferry_Whitehall_Terminal	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Staten_Island_Tunnel	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:StoryCorps	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Crescent_Heights_(company)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/West_End_Line_(Brooklyn_surface)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Edgar_Oliver	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Hi_Tech_Expressions	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:List_of_rebellions_in_the_United_States	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Morgan_Stanley	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Joseph_Moinian	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Judson_Memorial_Church	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Maurice_Coyne_(publisher)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Broadway_Bomb	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:New_York_Cotton_Exchange	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Geography_of_New_York_City	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Indira_Etwaroo	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Kenya\u2013United_States_relations>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:List_of_terrorist_incidents_in_New_York_City	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Bliss_(spa)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Blue_School	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Chinatowns_in_the_Americas	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Ted_Weiss	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Tod_Williams_(filmmaker)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Windows_on_the_World	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/World_Trade_Center_(2001\u2013present)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Pearl_Street_(Manhattan)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Police_station	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Statue_of_Liberty_in_popular_culture	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Quaker_Meeting-house_(New_York_City)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Queen_Elizabeth_II_September_11th_Garden	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Upper_West_Side	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Gouverneur_Health	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Kingsbridge,_Bronx>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/North_Brunswick,_New_Jersey>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Battery_Park_City	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Little_Italy,_Manhattan>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Belmont,_Bronx>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Bensonhurst,_Brooklyn>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Liberty_Harbor	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Midland_Beach,_Staten_Island>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/South_Brunswick,_New_Jersey>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Spring_Creek,_Brooklyn>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/East_Windsor_Township,_New_Jersey>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Forest_Hills,_Queens>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Hackensack,_New_Jersey>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Hudson_County,_New_Jersey>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Sayreville,_New_Jersey>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Pace_University_High_School	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Trenton,_New_Jersey>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Tribeca	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Brownsville,_Brooklyn>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Burlington,_New_Jersey>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Burlington_County,_New_Jersey>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Lacey_Township,_New_Jersey>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Laurence_Harbor,_New_Jersey>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Passaic,_New_Jersey>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Riverdale,_Bronx>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Rockaway,_Queens>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Teaneck,_New_Jersey>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Far_Rockaway,_Queens>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:New_Jersey	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Sunset_Park,_Brooklyn>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Weehawken,_New_Jersey>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Westampton,_New_Jersey>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Willingboro_Township,_New_Jersey>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Hightstown,_New_Jersey>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Morningside_Heights,_Manhattan>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Times_Square	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Lorenzo_Pace	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Karl_Geary	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Rachael_Sage	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Aaron_Voros	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:New_York_University_Tisch_School_of_the_Arts	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:New_York_University_School_of_Law	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Glenview_Mansion	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Albany_Post_Road	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/History_of_New_York_City_(1855\u20131897)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Bryant_Park	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:The_Hundred_Year_Association_of_New_York	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Metropolitan_Correctional_Center,_New_York>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Towers_Financial_Corporation	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:In_the_Cut	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Soho_Properties	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Tyger_(ship)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/90_Church_Street>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/The_Standard,_East_Village>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:South_Ferry_Plaza	dbo:location	dbr:Lower_Manhattan ;
+	dbp:location	dbr:Lower_Manhattan ;
+	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/375_Pearl_Street>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Ciro_Perrone	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Chambers_Street_station_(IRT_Sixth_Avenue_Line)>	dbp:locale	dbr:Lower_Manhattan ;
+	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Chatham_Square_station	dbp:locale	dbr:Lower_Manhattan ;
+	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Firehouse,_Engine_Company_33_and_Ladder_Company_9>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Ninth_Street_station_(IRT_Third_Avenue_Line)>	dbp:locale	dbr:Lower_Manhattan ;
+	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Fulton_Market_Building	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/14th_Street_station_(IRT_Third_Avenue_Line)>	dbp:locale	dbr:Lower_Manhattan ;
+	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Barclay_Street_station	dbp:locale	dbr:Lower_Manhattan ;
+	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Battery_Place_station	dbp:locale	dbr:Lower_Manhattan ;
+	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/18th_Street_station_(IRT_Third_Avenue_Line)>	dbp:locale	dbr:Lower_Manhattan ;
+	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Canal_Street_station_(IRT_Third_Avenue_Line)>	dbp:locale	dbr:Lower_Manhattan ;
+	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/City_Hall_station_(IRT_Second_Avenue_Line)>	dbp:locale	dbr:Lower_Manhattan ;
+	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/23rd_Street_station_(IRT_Third_Avenue_Line)>	dbp:locale	dbr:Lower_Manhattan ;
+	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/28th_Street_station_(IRT_Third_Avenue_Line)>	dbp:locale	dbr:Lower_Manhattan ;
+	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/34th_Street_station_(IRT_Third_Avenue_Line)>	dbp:locale	dbr:Lower_Manhattan ;
+	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/51_Market_Street>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/9/11_Tribute_Museum>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Franklin_Square_station_(IRT_Third_Avenue_Line)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Franklin_Street_station_(IRT_Ninth_Avenue_Line)>	dbp:locale	dbr:Lower_Manhattan ;
+	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Franklin_Street_station_(IRT_Sixth_Avenue_Line)>	dbp:locale	dbr:Lower_Manhattan ;
+	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Fulton_Street_station_(IRT_Third_Avenue_Line)>	dbp:locale	dbr:Lower_Manhattan ;
+	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Houston_Street_station_(IRT_Ninth_Avenue_Line)>	dbp:locale	dbr:Lower_Manhattan ;
+	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Houston_Street_station_(IRT_Third_Avenue_Line)>	dbp:locale	dbr:Lower_Manhattan ;
+	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Rector_Street_station_(IRT_Ninth_Avenue_Line)>	dbp:locale	dbr:Lower_Manhattan ;
+	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Rector_Street_station_(IRT_Sixth_Avenue_Line)>	dbp:locale	dbr:Lower_Manhattan ;
+	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Cortlandt_Street_station_(IRT_Ninth_Avenue_Line)>	dbp:locale	dbr:Lower_Manhattan ;
+	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Cortlandt_Street_station_(IRT_Sixth_Avenue_Line)>	dbp:locale	dbr:Lower_Manhattan ;
+	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Allen_Street	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:De_Vinne_Press_Building	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Park_Place_station_(IRT_Sixth_Avenue_Line)>	dbp:locale	dbr:Lower_Manhattan ;
+	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Warren_Street_station_(IRT_Ninth_Avenue_Line)>	dbp:locale	dbr:Lower_Manhattan ;
+	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Eighth_Street_station_(IRT_Sixth_Avenue_Line)>	dbp:locale	dbr:Lower_Manhattan ;
+	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Joie_de_Vivre	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Walking_Men_Worldwide	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Electric_Tonic	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Fulton\u2013Nassau_Historic_District>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Greater_Bethel_AME_Church_(Harlem,_New_York)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/28_Liberty_Street>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/50_West_Street>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Pavement_(band)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Bergen,_New_Netherland>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Upper_Manhattan	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Peach_Tree_War	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Juan_(Jan)_Rodriguez>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:English_Defence_League	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Sara_Zandieh	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Postmasters_Gallery	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Gabriel_Mead_Tooker	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:William_Modell	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Curbstone_broker	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+@prefix ns52:	<http://dbpedia.org/resource/Flight_175:> .
+ns52:_As_the_World_Watched	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Varick_Street	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Canal_Street_station_(IRT_Broadway\u2013Seventh_Avenue_Line)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Centre_Street_(Manhattan)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Minetta_Lane_Theatre	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Jeremiah_Lanphier	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Heliotrope_Books	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+dbr:Matthias_Bruen	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Front_Street_(Manhattan)>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan ;
+	dbo:wikiPageRedirects	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Lower_Manhattan,_New_York_City,_New_York>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan ;
+	dbo:wikiPageRedirects	dbr:Lower_Manhattan .
+dbr:Front_Street	dbo:wikiPageWikiLink	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Downtown,_Manhattan>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan ;
+	dbo:wikiPageRedirects	dbr:Lower_Manhattan .
+dbr:Downtown_Manhattan	dbo:wikiPageWikiLink	dbr:Lower_Manhattan ;
+	dbo:wikiPageRedirects	dbr:Lower_Manhattan .
+<http://dbpedia.org/resource/Downtown_Manhattan,_New_York>	dbo:wikiPageWikiLink	dbr:Lower_Manhattan ;
+	dbo:wikiPageRedirects	dbr:Lower_Manhattan .
+dbr:Downtown_New_York	dbo:wikiPageWikiLink	dbr:Lower_Manhattan ;
+	dbo:wikiPageRedirects	dbr:Lower_Manhattan .
+dbr:Downtown_New_York_City	dbo:wikiPageWikiLink	dbr:Lower_Manhattan ;
+	dbo:wikiPageRedirects	dbr:Lower_Manhattan .
+dbr:Sheldon_Silver__Tenure__2	dbo:constituencyDistrict	dbr:Lower_Manhattan .

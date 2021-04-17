@@ -1,0 +1,601 @@
+<!DOCTYPE html>
+<html
+    prefix="
+        dbp: http://dbpedia.org/property/
+        dbo: http://dbedia.org/ontology/
+        dct: http://purl.org/dc/terms/
+	"
+    lang="en"
+>
+
+
+<!-- header -->
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <title>About: Monocle</title>
+    <link rel="alternate" type="application/rdf+xml" 		href="http://dbpedia.org/data/Monocle.rdf" title="Structured Descriptor Document (RDF/XML format)" />
+    <link rel="alternate" type="text/n3" 			href="http://dbpedia.org/data/Monocle.n3" title="Structured Descriptor Document (N3 format)" />
+    <link rel="alternate" type="text/turtle" 			href="http://dbpedia.org/data/Monocle.ttl" title="Structured Descriptor Document (Turtle format)" />
+    <link rel="alternate" type="application/json+rdf" 		href="http://dbpedia.org/data/Monocle.jrdf" title="Structured Descriptor Document (RDF/JSON format)" />
+    <link rel="alternate" type="application/json" 		href="http://dbpedia.org/data/Monocle.json" title="Structured Descriptor Document (RDF/JSON format)" />
+    <link rel="alternate" type="application/atom+xml" 		href="http://dbpedia.org/data/Monocle.atom" title="OData (Atom+Feed format)" />
+    <link rel="alternate" type="text/plain" 			href="http://dbpedia.org/data/Monocle.ntriples" title="Structured Descriptor Document (N-Triples format)" />
+    <link rel="alternate" type="text/csv"   			href="http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FMonocle%3E&amp;format=text%2Fcsv" title="Structured Descriptor Document (CSV format)" />
+    
+    <link rel="alternate" type="text/cxml"  			href="http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FMonocle%3E&amp;format=text%2Fcxml" title="Structured Descriptor Document (CXML format)" />
+    
+    <link rel="alternate" type="application/microdata+json"	href="http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FMonocle%3E&amp;format=application%2Fmicrodata%2Bjson" title="Structured Descriptor Document (Microdata/JSON format)" />
+    <link rel="alternate" type="text/html" 			href="http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FMonocle%3E&amp;format=text%2Fhtml" title="Structured Descriptor Document (Microdata/HTML format)" />
+    <link rel="alternate" type="application/ld+json" 		href="http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FMonocle%3E&amp;format=application%2Fjson-ld" title="Structured Descriptor Document (JSON-LD format)" />
+    <link rel="alternate" type="text/x-html-script-ld+json"	href="http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FMonocle%3E&amp;format=text%2Fx-html-script-ld%2Bjson" title="Structured Descriptor Document (HTML with embedded JSON-LD)" />
+    <link rel="alternate" type="text/x-html-script-turtle"	href="http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FMonocle%3E&amp;format=text%2Fx-html-script-turtle" title="Structured Descriptor Document (HTML with embedded Turtle)" />
+    <link rel="timegate" type="text/html" 			href="http://dbpedia.mementodepot.org/timegate/http://dbpedia.org/page/Monocle" title="Time Machine" />
+    <link rel="foaf:primarytopic" 				href="http://dbpedia.org/resource/Monocle"/>
+    <link rev="describedby" 					href="http://dbpedia.org/resource/Monocle"/>
+    <link rel="stylesheet" type="text/css"			href="/statics/css/bootstrap.min.css" />
+    <link rel="stylesheet" type="text/css" 			href="/statics/css/dbpedia.css" />
+</head>
+<body about="http://dbpedia.org/resource/Monocle">
+<div class="navbar navbar-default navbar-fixed-top">
+    <div class="container">
+	<div class="navbar-header">
+	    <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#dbp-navbar" aria-expanded="false">
+		<span class="sr-only">Toggle navigation</span>
+		<span class="icon-bar"></span>
+		<span class="icon-bar"></span>
+		<span class="icon-bar"></span>
+	    </button>
+	    <a class="navbar-brand" href="http://wiki.dbpedia.org/about" title="About DBpedia" style="color: #2c5078">
+	    <img class="img-responsive" src="/statics/images/dbpedia_logo_land_120.png" alt="About DBpedia" style="display: inline-block;  margin-top: -12px"/>
+	    </a>
+	</div>
+
+	<div class="collapse navbar-collapse" id="dbp-navbar">
+	    <ul class="nav navbar-nav navbar-right">
+		<li><a class="active" href="/fct/" title="Switch to /fct endpoint"><span class="glyphicon glyphicon-new-window" aria-hidden="true"></span> Faceted Browser </a></li>
+		<li><a class="active" href="/sparql/" title="Switch to /sparql endpoint"><span class="glyphicon glyphicon-new-window" aria-hidden="true"></span> Sparql Endpoint </a></li>
+	    </ul>
+	    <ul class="nav navbar-nav">
+	    <li class="dropdown">
+		<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span class="glyphicon glyphicon-eye-open" aria-hidden="true"></span> Browse using <span class="caret"></span></a>
+		<ul class="dropdown-menu">
+		<li><a href="/describe/?uri=http%3A%2F%2Fdbpedia.org%2Fresource%2FMonocle">OpenLink Faceted Browser</a></li>
+		<li><a href="http://linkeddata.uriburner.com/rdf-editor/#/editor?uri=http%3A%2F%2Fdbpedia.org%2Fresource%2FMonocle&amp;view=statements">OpenLink Structured Data Editor</a></li>
+		<li><a href="http://en.lodlive.it/?http%3A%2F%2Fdbpedia.org%2Fresource%2FMonocle">LodLive Browser</a></li>
+		<li><a href="http://lodmilla.sztaki.hu/lodmilla/?url=http%3A%2F%2Fdbpedia.org%2Fresource%2FMonocle">LODmilla Browser</a></li>
+		</ul>
+	    </li>
+	    <li class="dropdown">
+		<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span class="glyphicon glyphicon-file" aria-hidden="true"></span> Formats <span class="caret"></span></a>
+		<ul class="dropdown-menu">
+		<li>&nbsp;RDF:</li>
+		    <li><a href="http://dbpedia.org/data/Monocle.ntriples">N-Triples</a></li>
+		    <li><a href="http://dbpedia.org/data/Monocle.n3">N3</a></li>
+		    <li><a href="http://dbpedia.org/data/Monocle.ttl">Turtle</a></li>
+		    <li><a href="http://dbpedia.org/data/Monocle.json">JSON</a></li>
+		    <li><a href="http://dbpedia.org/data/Monocle.rdf">XML</a></li>
+		<li class="divider"></li>
+		<li>&nbsp;OData:</li>
+		    <li><a href="http://dbpedia.org/data/Monocle.atom">Atom</a></li>
+		    <li><a href="http://dbpedia.org/data/Monocle.jsod">JSON</a></li>
+		<li class="divider"></li>
+		<li>&nbsp;Microdata:</li>
+		    <li><a href="http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FMonocle%3E&amp;format=application%2Fmicrodata%2Bjson">JSON</a></li>
+		    <li><a href="http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FMonocle%3E&amp;format=text%2Fhtml">HTML</a></li>
+		<li class="divider"></li>
+		<li>&nbsp;Embedded:</li>
+		    <li><a href="http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FMonocle%3E&amp;format=text%2Fx-html-script-ld%2Bjson">JSON</a></li>
+		    <li><a href="http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FMonocle%3E&amp;format=text%2Fx-html-script-turtle">Turtle</a></li>
+		<li class="divider"></li>
+		    
+		        <li><a href="http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FMonocle%3E&amp;format=text%2Fcxml">CXML</a></li>
+		    
+		    <li><a href="http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FMonocle%3E&amp;format=text%2Fcsv">CSV</a></li>
+		    <li><a href="http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FMonocle%3E&amp;format=application%2Fjson-ld">JSON-LD</a></li>
+		</ul>
+	    </li>
+	    </ul>
+	</div>
+    </div>
+</div>
+
+<div class="container">
+<!-- page-header -->
+    <div class="page-header">
+	<!-- div class="pull-right">
+	    <a href="http://wiki.dbpedia.org/about" title="About DBpedia">
+	    <img class="img-responsive" src="/statics/images/dbpedia_logo_land_120.png" alt="About DBpedia"/>
+	    </a>
+	</div -->
+	<h1 id="title">About:
+	    <a href="http://dbpedia.org/resource/Monocle">Monocle</a>
+	</h1>
+	<div class="page-resource-uri">
+	    An Entity of Type : <a href="http://www.w3.org/2002/07/owl#Thing">Thing</a>,
+	    from Named Graph : <a href="http://dbpedia.org">http://dbpedia.org</a>,
+	    within Data Space : <a href="http://dbpedia.org">dbpedia.org</a>
+	</div>
+    </div>
+<!-- page-header -->
+<!-- row -->
+    <div class="row">
+	<div class="col-xs-12">
+	    <p class="lead">A monocle is a type of corrective lens used to correct or enhance the visual perception in only one eye. It consists of a circular lens, generally with a wire ring around the circumference that can be attached to a string or wire. The other end of the string is then connected to the wearer's clothing to avoid losing the monocle. The antiquarian Philipp von Stosch wore a monocle in Rome in the 1720s, in order to closely examine engravings and antique engraved gems, but the monocle did not become an article of gentlemen's apparel until the 19th century. It was introduced by the dandy's quizzing glass of the 1790s, as an article of high fashion.</p>
+	</div>
+	<div class="col-xs-12">
+	    <!-- proptable -->
+	    <table class="description table table-striped">
+	    <tr>
+		<th class="col-xs-3">Property</th>
+		<th class="col-xs-9">Value</th>
+	    </tr>
+<tr class="odd"><td class="property"><a class="uri" href="http://dbpedia.org/ontology/abstract"><small>dbo:</small>abstract</a>
+</td><td><ul>
+	<li style="display:none;"><span class="literal"><span property="dbo:abstract" lang="ar">النظارة المفردة أو المونوكل (Monocle) هي عدسة مفردة تستخدم لتحسين النظر, حيث يتكون من عدسة بإطار أو بدون إيطار متصلة بسلسلة. أستخدم المونوكل منذ زمن قديم ويقال أول من أستخدمه هو نيرون. أستخدم بعض جنرالات الجيش الألماني المونوكل وكثيرا ما كانوا يظهرون ببزتهم العسكرية والصولجان تحت أبطهم والمونوكل على عينهم وبعضهم يستخدم النظارات المعدنية ذات الإطار الصغير.</span><small> (ar)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="dbo:abstract" lang="cs">Monokl je typ brýlí. Skládá se z jediné čočky přibližně o průměru lidského oka. Ta je často pro jednodušší manipulaci zasazena do tenkého rámu, který je připojen provázkem či řetízkem k oblečení. V 21. století jsou monokly již poměrně archaickou záležitostí. Známými uživateli monoklu byli Fritz Lang, Erich von Stroheim, , Walter Model, Wilhelm Keitel nebo také čeští herci a herečky jako Růžena Šlemrová. Slovo monokl díky vnější podobnosti také slangově označuje podlitinu kolem oka.</span><small> (cs)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="dbo:abstract" lang="ca">Un monocle és un tipus de lent correctiva usada per ajustar la visió en un sol ull, que consisteix en un vidre circular amb certa graduació. En molts casos emmarcat per un anell metàl·lic que té una cadeneta o cordó amb el qual es pot subjectar a algun lloc (p.e. la roba) per tal d&#39;evitar-ne la pèrdua.L&#39;antiquari , cap al 1720 a Itàlia, usava un monocle per examinar de prop gravats i antics camafeus, però aquest element no va esdevenir un article incorporat al vestuari masculí fins entrat el segle XX. El seu precursor immediat va ser el  dels dandis de la dècada de 1790, el qual posseïa una muntura amb mànec-generalment ornada-i se subjectava enfront de l&#39;ull a manera de lupa o com els petits prismàtics per a teatre.</span><small> (ca)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="dbo:abstract" lang="eo">Unulensa objektivo (unuokulvitro) estas la plej simpla objektivo, kiu konsistas el unu kuniga lenso. Monoklo havas ĉiujn aberaciojn. Ĝia bildo estas sufiĉe malakra, precipe ĉe la randoj.</span><small> (eo)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="dbo:abstract" lang="es">Un monóculo es un tipo de lente correctiva usada para ajustar la visión en un solo ojo, que consiste en una luneta circular con aumento. En muchos casos está enmarcada en un anillo de alambre que posee una cadenilla o cordón que se sujeta a la ropa para evitar su pérdida.El anticuario , hacia 1720 en Italia, usaba un monóculo para examinar de cerca grabados y antiguos camafeos; sin embargo, este elemento no se convirtió en un artículo incorporado al vestuario masculino hasta entrado el siglo XIX. Su precursor inmediato fue el  de los dandis de la década de 1790, el cual poseía una montura con mango -generalmente ornada- y se sujetaba frente al ojo a modo de lupa o como los pequeños prismáticos para teatro.</span><small> (es)</small></span></li>
+	<li><span class="literal"><span property="dbo:abstract" lang="en">A monocle is a type of corrective lens used to correct or enhance the visual perception in only one eye. It consists of a circular lens, generally with a wire ring around the circumference that can be attached to a string or wire. The other end of the string is then connected to the wearer&#39;s clothing to avoid losing the monocle. The antiquarian Philipp von Stosch wore a monocle in Rome in the 1720s, in order to closely examine engravings and antique engraved gems, but the monocle did not become an article of gentlemen&#39;s apparel until the 19th century. It was introduced by the dandy&#39;s quizzing glass of the 1790s, as an article of high fashion.</span><small> (en)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="dbo:abstract" lang="de">Das Monokel, auch Einglas genannt, ist eine Sehhilfe, die im Gegensatz zur heute verwendeten Brille („Binokel“, Lorgnette) aus nur einem Glas besteht und am Auge eingeklemmt wird (im Gegensatz zum Einglas mit Stiel). Das Monokel entwickelte sich aus dem Lesestein, einer geschliffenen Linse aus Quarz, besonders Bergkristall, oder Beryll, daher das deutsche Wort Brille. Dieser wurde zum Vergrößern direkt auf das Schriftstück gelegt. Ab dem 14. Jahrhundert wurde die Linse vors Auge gehalten. Im 16. Jahrhundert entstand die Idee, die Linse durch den Augenlidmuskel direkt vor dem Auge festzuklemmen, um beide Hände frei zu haben. Das im Deutschen verwendete Wort Monokel wurde im 19. Jahrhundert aus dem gleichbedeutenden französischen Wort monocle entlehnt, entstand aber ursprünglich als zweisprachiges Kunstwort aus altgriechisch μόνος monos für „allein, einzig“ und lateinisch oculus für „Auge“.</span><small> (de)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="dbo:abstract" lang="eu">Monokuloa begi baten ikusmena zuzentzeko leiar bakarra da, begi horren aurrean soilik jartzen dena. Lente biribil bat da, normalki kate edo metal batez inguratuta, eta azken hau soka edo kate batekin gorputzera lotuta, galtzea ekidinez.  antikuarioak Erroman monokuloa jantzi zuen 1720ko hamarkadan, antzinako objetuak hobe ikertu ahal izateko, baina monokuloa ez zen modan jarri gizonen artean XIX. menderar. 1790ko hamarkadan dandyen goi-mailako moda elementu gisa sartu zen jendartean.</span><small> (eu)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="dbo:abstract" lang="it">Il monocolo (a volte chiamato anche caramella) è un tipo di lente utilizzata per correggere o migliorare la vista di un solo occhio. È costituito da una lente circolare, generalmente con una sottile montatura intorno alla circonferenza, che può essere collegata ad un cordino. L&#39;altra estremità del cordino è poi collegato all&#39;abbigliamento di chi indossa il monocolo, per evitare di perderlo. Si indossa, incastrandolo nell&#39;orbita dell&#39;occhio. L&#39;antiquario Philipp von Stosch indossava un monocolo a Roma già nel 1720, al fine di esaminare attentamente incisioni e gemme, ma il monocolo non diventerà un accessorio di moda sino al diciannovesimo secolo. Sarà infatti introdotto nella moda maschile verso il 1790 con l&#39;arrivo del dandysmo. Il suo utilizzo spesso indicava lo stato sociale del suo indossatore, o semplicemente era una forma di eleganza e per tale motivo divenne spesso principale oggetto di caricatura. Fu parzialmente adottato all&#39;inizio del Novecento anche dalle donne, ma con il tempo il suo utilizzo è stato quasi completamente abbandonato.</span><small> (it)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="dbo:abstract" lang="fr">Un monocle est un unique verre de lunette circulaire entouré d&#39;une bague (en corne ou en métal) ou non cerclé, maintenu par simple pression entre l&#39;arcade sourcilière et le haut de la pommette. Il est souvent associé à une chaîne reliée aux habits du porteur permettant de ne pas le perdre et de le ranger dans une poche ; il sert à corriger les problèmes de vue, mais est aujourd&#39;hui obsolète. L&#39;antiquaire  (en) porta un monocle à Rome dans les années 1720, afin de pouvoir examiner de près les gravures et les inscriptions, mais le monocle n&#39;est apparu en tant qu&#39;attribut des gentlemen qu&#39;à partir du XIXe siècle. Il fut introduit dans la mode à travers la lorgnette des dandys des années 1790. Le monocle était à l&#39;origine monté sur un manche et pouvait être équipé d&#39;un anneau pour y engager un doigt, tel le lancetier sous Louis XV.</span><small> (fr)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="dbo:abstract" lang="ja">片眼鏡（かためがね）とは、眼鏡の一種で、片目での使用を前提とした単一レンズの視力矯正器具である。別名ではモノクル（英: monocle）と呼ばれる。</span><small> (ja)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="dbo:abstract" lang="ko">단안경(單眼鏡, 영어: monocle) 또는 외알 안경은 알이 하나뿐인 안경의 일종이다. 이는 둥근 렌즈로 만들어졌는데, 보통 철테가 둘러있고 끈도 달려 있다. 끈의 한쪽 끝은 안경 분실을 막기 위해 옷에 달려있는게 보통이다.</span><small> (ko)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="dbo:abstract" lang="nl">Een monocle of oogglas is een halve bril, dat wil zeggen, een bril bestaande uit één glas en bedoeld voor één oog. Een monocle functioneert op dezelfde wijze als een bril, met het verschil dat ze niet op de neus wordt geplaatst en ook niet achter het oor wordt gehaakt. In feite bestaat een monocle uit een rond glas, dat afgestemd is op de noden van de slechtziende en waarrond een ring zit. Aan die ring is een touwtje bevestigd, dat men ofwel rond de nek kan hangen, ofwel ergens anders aan de kledij kan vasthaken, zodat de monocle in geval van loskomen niet op de grond terechtkomt. Men klemt de monocle tussen het jukbeen en de wenkbrauw. De monocle is sinds medio twintigste eeuw uit de mode geraakt; mensen die slechts aan één oog problemen hebben, verkiezen veelal toch een bril te dragen, waarvan dan slechts één glas werkzaam is. Misschien is de aristocratische connotatie die met het oogglas verbonden is een van de redenen voor het uit zwang geraken — dit verklaart echter niet waarom de monocle niet populair is onder snobs, of in omstandigheden waarin uiterlijk vertoon gewenst zou zijn. Vermoedelijk wordt de monocle als minder gebruiksvriendelijk dan de bril ervaren. De bekendste monocledrager aller tijden en tevens de eerste persoon van wie we weten dat hij een soort monocle gebruikte, is wellicht Nero Claudius Caesar Augustus Germanicus (beter bekend als keizer Nero), die door een smaragd keek om de gladiatorengevechten te kunnen zien.Heden ten dage zijn bekende monocledragers zeldzaam; tot het begin van de 21e eeuw was Baron van Neemweggen in de TV-kinderserie van Bassie en Adriaan wellicht een van de bekendere dragers. Andere uitzonderingen zijn de Britse astronoom en televisievedette Sir Patrick Moore, de voormalige bokser Chris Eubank en de Penguin uit de Batmanserie van DC comics. De monocle is tevens de naam van een vlek rondom het oog van een hond.</span><small> (nl)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="dbo:abstract" lang="pl">Monokl - przyrząd optyczny służący do korekty wad wzroku lub uzyskania określonego wyglądu, rodzaj ozdoby. Jest to rodzaj okularów na jedno oko, utrzymywanych na miejscu i we właściwej pozycji dzięki ciasnemu osadzeniu w okolicy oczodołów, tak, że górna krawędź monokla oparta jest o łuk brwiowy od jego wewnętrznej strony, zaś dolna podtrzymywana jest przez fałdek skóry oczodołu. Monokl często bywał przymocowany na łańcuszku do kieszeni kamizelki fraka, tzw. wizytki.</span><small> (pl)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="dbo:abstract" lang="pt">Monóculo é um tipo de lente corretiva utilizados para corrigir a visão em apenas um olho. É constituída por uma lente circular, geralmente com um fio ao redor da circunferência do anel que pode ser associado a uma corda. A outra extremidade da corda é então ligada ao vestuário em uso para evitar a perda do monóculo.A origem da palavra vem do grego: mónos, único e do Latim: oculu, olho. Não se sabe ao certo a real data em que o monóculo foi criado, pois é uma invenção bem antiga e pouco utilizada devido ao fato de que é pequeno o número de pessoas com miopia em um globo ocular, mas estima-se que foi entre o século XVIII e XIX. Um monge chamado Roger Bacon, que viveu aproximadamente entre 1214 e 1294, (século XIII), na obra mais científica elaborada na época Opus majus referente as leis da refração e reflexão da luz e descreve o uso de lentes para corrigir os defeitos de visão. Essas lentes foram usadas durante vários séculos, inicialmente pelos monges copistas ou tradutores. O mais próximo que se conhece dos óculos de Bacon, é de um parente dos óculos atuais que encontra-se num fresco em Treviso, representando um desses elementos do clero Tommaso da Modena, em 1352.</span><small> (pt)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="dbo:abstract" lang="ru">Моно́кль (от фр. mоnосle ← позднелат. monoculus ← др.-греч. μόνος ‘один’ + лат. oculus ‘глаз’) — один из видов оптических приборов для коррекции или улучшения зрения. Состоит из линзы, как правило, с оправой, к которой может быть прикреплена цепочка для закрепления на одежде, во избежание потери монокля.</span><small> (ru)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="dbo:abstract" lang="sv">En monokel är ett ensamt korrektionsglas som fästs framför ena ögat och bärs fastklämt i ögonvrån. Monokeln består vanligen endast av en lins med räfflad kant men kan också förses med en upphöjd metallkant för bättre tillpassning. Eftersom en monokel lätt kan tappas är den ofta fäst vid bärarens kläder med en snodd. I dag används monoklar nästan aldrig, men i komik och satir är de ett vanligt aristokratiskt attribut. Monokeln kom redan på 1700-talet.</span><small> (sv)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="dbo:abstract" lang="uk">Моно́кль (фр. monocle, з дав.-гр. μόνος — «один» і лат. oculus — «око») — один з видів оптичних приладів для корекції або поліпшення зору. Складається з лінзи, як правило з оправою, до якої може бути прикріплений ланцюжок для закріплення на одязі, щоб уникнути втрати монокля. Монокль носився в кишені жилета. Для використання він вставлявся в очну западину і затискався між бровою і щокою.</span><small> (uk)</small></span></li>
+</ul></td></tr><tr class="even"><td class="property"><a class="uri" href="http://dbpedia.org/ontology/thumbnail"><small>dbo:</small>thumbnail</a>
+</td><td><ul>
+	<li><span class="literal"><a class="uri" rel="dbo:thumbnail" href="http://commons.wikimedia.org/wiki/Special:FilePath/Chamberlain.jpg?width=300"><small>wiki-commons</small>:Special:FilePath/Chamberlain.jpg?width=300</a></span></li>
+</ul></td></tr><tr class="odd"><td class="property"><a class="uri" href="http://dbpedia.org/ontology/wikiPageID"><small>dbo:</small>wikiPageID</a>
+</td><td><ul>
+	<li><span class="literal"><span property="dbo:wikiPageID">411772</span><small> (xsd:integer)</small></span></li>
+</ul></td></tr><tr class="even"><td class="property"><a class="uri" href="http://dbpedia.org/ontology/wikiPageLength"><small>dbo:</small>wikiPageLength</a>
+</td><td><ul>
+	<li><span class="literal"><span property="dbo:wikiPageLength">12299</span><small> (xsd:integer)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="property"><a class="uri" href="http://dbpedia.org/ontology/wikiPageRevisionID"><small>dbo:</small>wikiPageRevisionID</a>
+</td><td><ul>
+	<li><span class="literal"><span property="dbo:wikiPageRevisionID">983791919</span><small> (xsd:integer)</small></span></li>
+</ul></td></tr><tr class="even"><td class="property"><a class="uri" href="http://dbpedia.org/ontology/wikiPageWikiLink"><small>dbo:</small>wikiPageWikiLink</a>
+</td><td><ul>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Category:19th-century_fashion"><small>dbc</small>:19th-century_fashion</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Category:20th-century_fashion"><small>dbc</small>:20th-century_fashion</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Contact_lens"><small>dbr</small>:Contact_lens</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/List_of_Tugs_characters"><small>dbr</small>:List_of_Tugs_characters</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Lord_Peter_Wimsey"><small>dbr</small>:Lord_Peter_Wimsey</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Lorgnette"><small>dbr</small>:Lorgnette</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Black_Jack_(manga)"><small>dbr</small>:Black_Jack_(manga)</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Boxing"><small>dbr</small>:Boxing</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Dietrich_von_Saucken"><small>dbr</small>:Dietrich_von_Saucken</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Glasses"><small>dbr</small>:Glasses</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Radclyffe_Hall"><small>dbr</small>:Radclyffe_Hall</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Hydra_(comics)"><small>dbr</small>:Hydra_(comics)</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Poet_laureate"><small>dbr</small>:Poet_laureate</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Category:1830s_fashion"><small>dbc</small>:1830s_fashion</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Category:1890s_fashion"><small>dbc</small>:1890s_fashion</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Alfred,_Lord_Tennyson"><small>dbr</small>:Alfred,_Lord_Tennyson</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Flight_714_to_Sydney"><small>dbr</small>:Flight_714_to_Sydney</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Charlie_McCarthy"><small>dbr</small>:Charlie_McCarthy</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Monocular"><small>dbr</small>:Monocular</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Avengers_(comics)"><small>dbr</small>:Avengers_(comics)</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Babar_(TV_series)"><small>dbr</small>:Babar_(TV_series)</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Barnett_Newman"><small>dbr</small>:Barnett_Newman</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Batman"><small>dbr</small>:Batman</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Batman_Returns"><small>dbr</small>:Batman_Returns</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Arsène_Lupin"><small>dbr</small>:Arsène_Lupin</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/List_of_The_Adventures_of_Tintin_characters"><small>dbr</small>:List_of_The_Adventures_of_Tintin_characters</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Louis_Darquier_de_Pellepoix"><small>dbr</small>:Louis_Darquier_de_Pellepoix</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Dandy"><small>dbr</small>:Dandy</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Capitalism"><small>dbr</small>:Capitalism</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Chris_Eubank"><small>dbr</small>:Chris_Eubank</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Christopher_Ewart-Biggs"><small>dbr</small>:Christopher_Ewart-Biggs</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Cigars_of_the_Pharaoh"><small>dbr</small>:Cigars_of_the_Pharaoh</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Cinderella_(1950_film)"><small>dbr</small>:Cinderella_(1950_film)</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/George_Arliss"><small>dbr</small>:George_Arliss</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/German_Army_(German_Empire)"><small>dbr</small>:German_Army_(German_Empire)</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Girls_und_Panzer"><small>dbr</small>:Girls_und_Panzer</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Ralph_Lynn"><small>dbr</small>:Ralph_Lynn</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Martyn_Green"><small>dbr</small>:Martyn_Green</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Karl_Marx"><small>dbr</small>:Karl_Marx</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Kenneth_Mars"><small>dbr</small>:Kenneth_Mars</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/List_of_Disney&#39;s_Cinderella_characters"><small>dbr</small>:List_of_Disney&#39;s_Cinderella_characters</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/List_of_Girls_und_Panzer_characters"><small>dbr</small>:List_of_Girls_und_Panzer_characters</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/List_of_Mr._Men"><small>dbr</small>:List_of_Mr._Men</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Pince-nez"><small>dbr</small>:Pince-nez</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Psmith"><small>dbr</small>:Psmith</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Mikhail_Bulgakov"><small>dbr</small>:Mikhail_Bulgakov</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Una_Vincenzo,_Lady_Troubridge"><small>dbr</small>:Una_Vincenzo,_Lady_Troubridge</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Lesbian"><small>dbr</small>:Lesbian</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Astronomy"><small>dbr</small>:Astronomy</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Edgar_Bergen"><small>dbr</small>:Edgar_Bergen</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Fritz_Lang"><small>dbr</small>:Fritz_Lang</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/G._E._M._Anscombe"><small>dbr</small>:G._E._M._Anscombe</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/H.M.S._Pinafore"><small>dbr</small>:H.M.S._Pinafore</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Hans_Krebs_(Wehrmacht_general)"><small>dbr</small>:Hans_Krebs_(Wehrmacht_general)</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Hans_von_Seeckt"><small>dbr</small>:Hans_von_Seeckt</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Hogan&#39;s_Heroes"><small>dbr</small>:Hogan&#39;s_Heroes</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Hugo_Sperrle"><small>dbr</small>:Hugo_Sperrle</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Rastapopoulos"><small>dbr</small>:Rastapopoulos</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Angus_Maude"><small>dbr</small>:Angus_Maude</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/António_de_Spínola"><small>dbr</small>:António_de_Spínola</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Astro_Boy"><small>dbr</small>:Astro_Boy</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Austen_Chamberlain"><small>dbr</small>:Austen_Chamberlain</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Category:Corrective_lenses"><small>dbc</small>:Corrective_lenses</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Osamu_Tezuka"><small>dbr</small>:Osamu_Tezuka</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Otto_Dix"><small>dbr</small>:Otto_Dix</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/P._G._Wodehouse"><small>dbr</small>:P._G._Wodehouse</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Raoul_Hausmann"><small>dbr</small>:Raoul_Hausmann</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Richard_Tauber"><small>dbr</small>:Richard_Tauber</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/The_Blue_Lotus"><small>dbr</small>:The_Blue_Lotus</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/The_Calculus_Affair"><small>dbr</small>:The_Calculus_Affair</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/The_Monocled_Mutineer"><small>dbr</small>:The_Monocled_Mutineer</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/The_Muppets"><small>dbr</small>:The_Muppets</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/The_New_Yorker"><small>dbr</small>:The_New_Yorker</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/The_Pirates_of_Penzance"><small>dbr</small>:The_Pirates_of_Penzance</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/The_Red_Sea_Sharks"><small>dbr</small>:The_Red_Sea_Sharks</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/The_Umbrella_Academy_(TV_series)"><small>dbr</small>:The_Umbrella_Academy_(TV_series)</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Comedic_device"><small>dbr</small>:Comedic_device</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Abraham_Lincoln"><small>dbr</small>:Abraham_Lincoln</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Tristan_Tzara"><small>dbr</small>:Tristan_Tzara</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Tugs_(TV_series)"><small>dbr</small>:Tugs_(TV_series)</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Percy_Toplis"><small>dbr</small>:Percy_Toplis</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/First_Doctor"><small>dbr</small>:First_Doctor</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Category:Eyewear"><small>dbc</small>:Eyewear</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Colm_Feore"><small>dbr</small>:Colm_Feore</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Conrad_Veidt"><small>dbr</small>:Conrad_Veidt</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Corrective_lens"><small>dbr</small>:Corrective_lens</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Baron_Strucker"><small>dbr</small>:Baron_Strucker</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Gilbert_and_Sullivan"><small>dbr</small>:Gilbert_and_Sullivan</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Lens"><small>dbr</small>:Lens</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Orbit_(anatomy)"><small>dbr</small>:Orbit_(anatomy)</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Engraved_gem"><small>dbr</small>:Engraved_gem</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Engraving"><small>dbr</small>:Engraving</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Dada"><small>dbr</small>:Dada</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Patrick_Moore"><small>dbr</small>:Patrick_Moore</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Sesame_Street"><small>dbr</small>:Sesame_Street</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Sylvia_von_Harden"><small>dbr</small>:Sylvia_von_Harden</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Count_von_Count"><small>dbr</small>:Count_von_Count</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Visual_perception"><small>dbr</small>:Visual_perception</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/W._B._Yeats"><small>dbr</small>:W._B._Yeats</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Walter_Model"><small>dbr</small>:Walter_Model</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Walter_von_Reichenau"><small>dbr</small>:Walter_von_Reichenau</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/King_Solomon&#39;s_Mines"><small>dbr</small>:King_Solomon&#39;s_Mines</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Refractive_error"><small>dbr</small>:Refractive_error</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Super_Robot_Monkey_Team_Hyperforce_Go!"><small>dbr</small>:Super_Robot_Monkey_Team_Hyperforce_Go!</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Werner_Klemperer"><small>dbr</small>:Werner_Klemperer</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Werner_von_Fritsch"><small>dbr</small>:Werner_von_Fritsch</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/William_Hartnell"><small>dbr</small>:William_Hartnell</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Facial_expression"><small>dbr</small>:Facial_expression</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Optometry"><small>dbr</small>:Optometry</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Erich_Ludendorff"><small>dbr</small>:Erich_Ludendorff</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Erich_von_Stroheim"><small>dbr</small>:Erich_von_Stroheim</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Antiquarian"><small>dbr</small>:Antiquarian</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Henry_Chaplin,_1st_Viscount_Chaplin"><small>dbr</small>:Henry_Chaplin,_1st_Viscount_Chaplin</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Mr._Men"><small>dbr</small>:Mr._Men</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Muhammad_Ali_Jinnah"><small>dbr</small>:Muhammad_Ali_Jinnah</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Johnnie_Cradock"><small>dbr</small>:Johnnie_Cradock</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Joseph_Chamberlain"><small>dbr</small>:Joseph_Chamberlain</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/José_Maria_de_Eça_de_Queirós"><small>dbr</small>:José_Maria_de_Eça_de_Queirós</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Julius_Evola"><small>dbr</small>:Julius_Evola</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Mel_Brooks"><small>dbr</small>:Mel_Brooks</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Doc_Savage"><small>dbr</small>:Doc_Savage</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Human_eye"><small>dbr</small>:Human_eye</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Tintin_and_the_Picaros"><small>dbr</small>:Tintin_and_the_Picaros</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/World_War_I"><small>dbr</small>:World_War_I</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/World_War_II"><small>dbr</small>:World_War_II</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Young_Frankenstein"><small>dbr</small>:Young_Frankenstein</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Eyepatch"><small>dbr</small>:Eyepatch</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Mr._Peanut"><small>dbr</small>:Mr._Peanut</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Optical_power"><small>dbr</small>:Optical_power</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Patience_(opera)"><small>dbr</small>:Patience_(opera)</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Penguin_(character)"><small>dbr</small>:Penguin_(character)</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Philipp_von_Stosch"><small>dbr</small>:Philipp_von_Stosch</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Tailcoat"><small>dbr</small>:Tailcoat</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/The_Umbrella_Academy"><small>dbr</small>:The_Umbrella_Academy</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Top_hat"><small>dbr</small>:Top_hat</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/File:Joseph_Chamberlain_in_colour.jpg"><small>dbr</small>:File:Joseph_Chamberlain_in_colour.jpg</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/File:Monocle_with_gallery.jpg"><small>dbr</small>:File:Monocle_with_gallery.jpg</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/File:Quizzingglass.jpg"><small>dbr</small>:File:Quizzingglass.jpg</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/File:Monocle_(PSF).png"><small>dbr</small>:File:Monocle_(PSF).png</a></span></li>
+</ul></td></tr><tr class="odd"><td class="property"><a class="uri" href="http://dbpedia.org/property/wikiPageUsesTemplate"><small>dbp:</small>wikiPageUsesTemplate</a>
+</td><td><ul>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" href="http://dbpedia.org/resource/Template:Authority_control"><small>dbt</small>:Authority_control</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" href="http://dbpedia.org/resource/Template:By_whom"><small>dbt</small>:By_whom</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" href="http://dbpedia.org/resource/Template:Citation_needed"><small>dbt</small>:Citation_needed</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" href="http://dbpedia.org/resource/Template:Commons_category"><small>dbt</small>:Commons_category</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" href="http://dbpedia.org/resource/Template:Other_uses"><small>dbt</small>:Other_uses</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" href="http://dbpedia.org/resource/Template:Refimprove"><small>dbt</small>:Refimprove</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" href="http://dbpedia.org/resource/Template:Reflist"><small>dbt</small>:Reflist</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" href="http://dbpedia.org/resource/Template:Short_description"><small>dbt</small>:Short_description</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" href="http://dbpedia.org/resource/Template:Use_dmy_dates"><small>dbt</small>:Use_dmy_dates</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" href="http://dbpedia.org/resource/Template:Wiktionary"><small>dbt</small>:Wiktionary</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" href="http://dbpedia.org/resource/Template:Eyewear"><small>dbt</small>:Eyewear</a></span></li>
+</ul></td></tr><tr class="even"><td class="property"><a class="uri" href="http://purl.org/dc/terms/subject"><small>dct:</small>subject</a>
+</td><td><ul>
+	<li><span class="literal"><a class="uri" rel="dct:subject" href="http://dbpedia.org/resource/Category:19th-century_fashion"><small>dbc</small>:19th-century_fashion</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dct:subject" href="http://dbpedia.org/resource/Category:20th-century_fashion"><small>dbc</small>:20th-century_fashion</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dct:subject" href="http://dbpedia.org/resource/Category:1830s_fashion"><small>dbc</small>:1830s_fashion</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dct:subject" href="http://dbpedia.org/resource/Category:1890s_fashion"><small>dbc</small>:1890s_fashion</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dct:subject" href="http://dbpedia.org/resource/Category:Corrective_lenses"><small>dbc</small>:Corrective_lenses</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dct:subject" href="http://dbpedia.org/resource/Category:Eyewear"><small>dbc</small>:Eyewear</a></span></li>
+</ul></td></tr><tr class="odd"><td class="property"><a class="uri" href="http://www.w3.org/1999/02/22-rdf-syntax-ns#type"><small>rdf:</small>type</a>
+</td><td><ul>
+	<li><span class="literal"><a class="uri" rel="rdf:type" href="http://www.w3.org/2002/07/owl#Thing"><small>owl</small>:Thing</a></span></li>
+</ul></td></tr><tr class="even"><td class="property"><a class="uri" href="http://www.w3.org/2000/01/rdf-schema#comment"><small>rdfs:</small>comment</a>
+</td><td><ul>
+	<li style="display:none;"><span class="literal"><span property="rdfs:comment" lang="ar">النظارة المفردة أو المونوكل (Monocle) هي عدسة مفردة تستخدم لتحسين النظر, حيث يتكون من عدسة بإطار أو بدون إيطار متصلة بسلسلة. أستخدم المونوكل منذ زمن قديم ويقال أول من أستخدمه هو نيرون. أستخدم بعض جنرالات الجيش الألماني المونوكل وكثيرا ما كانوا يظهرون ببزتهم العسكرية والصولجان تحت أبطهم والمونوكل على عينهم وبعضهم يستخدم النظارات المعدنية ذات الإطار الصغير.</span><small> (ar)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="rdfs:comment" lang="cs">Monokl je typ brýlí. Skládá se z jediné čočky přibližně o průměru lidského oka. Ta je často pro jednodušší manipulaci zasazena do tenkého rámu, který je připojen provázkem či řetízkem k oblečení. V 21. století jsou monokly již poměrně archaickou záležitostí. Známými uživateli monoklu byli Fritz Lang, Erich von Stroheim, , Walter Model, Wilhelm Keitel nebo také čeští herci a herečky jako Růžena Šlemrová. Slovo monokl díky vnější podobnosti také slangově označuje podlitinu kolem oka.</span><small> (cs)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="rdfs:comment" lang="ca">Un monocle és un tipus de lent correctiva usada per ajustar la visió en un sol ull, que consisteix en un vidre circular amb certa graduació. En molts casos emmarcat per un anell metàl·lic que té una cadeneta o cordó amb el qual es pot subjectar a algun lloc (p.e. la roba) per tal d&#39;evitar-ne la pèrdua.L&#39;antiquari , cap al 1720 a Itàlia, usava un monocle per examinar de prop gravats i antics camafeus, però aquest element no va esdevenir un article incorporat al vestuari masculí fins entrat el segle XX. El seu precursor immediat va ser el  dels dandis de la dècada de 1790, el qual posseïa una muntura amb mànec-generalment ornada-i se subjectava enfront de l&#39;ull a manera de lupa o com els petits prismàtics per a teatre.</span><small> (ca)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="rdfs:comment" lang="eo">Unulensa objektivo (unuokulvitro) estas la plej simpla objektivo, kiu konsistas el unu kuniga lenso. Monoklo havas ĉiujn aberaciojn. Ĝia bildo estas sufiĉe malakra, precipe ĉe la randoj.</span><small> (eo)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="rdfs:comment" lang="es">Un monóculo es un tipo de lente correctiva usada para ajustar la visión en un solo ojo, que consiste en una luneta circular con aumento. En muchos casos está enmarcada en un anillo de alambre que posee una cadenilla o cordón que se sujeta a la ropa para evitar su pérdida.El anticuario , hacia 1720 en Italia, usaba un monóculo para examinar de cerca grabados y antiguos camafeos; sin embargo, este elemento no se convirtió en un artículo incorporado al vestuario masculino hasta entrado el siglo XIX. Su precursor inmediato fue el  de los dandis de la década de 1790, el cual poseía una montura con mango -generalmente ornada- y se sujetaba frente al ojo a modo de lupa o como los pequeños prismáticos para teatro.</span><small> (es)</small></span></li>
+	<li><span class="literal"><span property="rdfs:comment" lang="en">A monocle is a type of corrective lens used to correct or enhance the visual perception in only one eye. It consists of a circular lens, generally with a wire ring around the circumference that can be attached to a string or wire. The other end of the string is then connected to the wearer&#39;s clothing to avoid losing the monocle. The antiquarian Philipp von Stosch wore a monocle in Rome in the 1720s, in order to closely examine engravings and antique engraved gems, but the monocle did not become an article of gentlemen&#39;s apparel until the 19th century. It was introduced by the dandy&#39;s quizzing glass of the 1790s, as an article of high fashion.</span><small> (en)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="rdfs:comment" lang="eu">Monokuloa begi baten ikusmena zuzentzeko leiar bakarra da, begi horren aurrean soilik jartzen dena. Lente biribil bat da, normalki kate edo metal batez inguratuta, eta azken hau soka edo kate batekin gorputzera lotuta, galtzea ekidinez.  antikuarioak Erroman monokuloa jantzi zuen 1720ko hamarkadan, antzinako objetuak hobe ikertu ahal izateko, baina monokuloa ez zen modan jarri gizonen artean XIX. menderar. 1790ko hamarkadan dandyen goi-mailako moda elementu gisa sartu zen jendartean.</span><small> (eu)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="rdfs:comment" lang="ja">片眼鏡（かためがね）とは、眼鏡の一種で、片目での使用を前提とした単一レンズの視力矯正器具である。別名ではモノクル（英: monocle）と呼ばれる。</span><small> (ja)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="rdfs:comment" lang="ko">단안경(單眼鏡, 영어: monocle) 또는 외알 안경은 알이 하나뿐인 안경의 일종이다. 이는 둥근 렌즈로 만들어졌는데, 보통 철테가 둘러있고 끈도 달려 있다. 끈의 한쪽 끝은 안경 분실을 막기 위해 옷에 달려있는게 보통이다.</span><small> (ko)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="rdfs:comment" lang="pl">Monokl - przyrząd optyczny służący do korekty wad wzroku lub uzyskania określonego wyglądu, rodzaj ozdoby. Jest to rodzaj okularów na jedno oko, utrzymywanych na miejscu i we właściwej pozycji dzięki ciasnemu osadzeniu w okolicy oczodołów, tak, że górna krawędź monokla oparta jest o łuk brwiowy od jego wewnętrznej strony, zaś dolna podtrzymywana jest przez fałdek skóry oczodołu. Monokl często bywał przymocowany na łańcuszku do kieszeni kamizelki fraka, tzw. wizytki.</span><small> (pl)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="rdfs:comment" lang="ru">Моно́кль (от фр. mоnосle ← позднелат. monoculus ← др.-греч. μόνος ‘один’ + лат. oculus ‘глаз’) — один из видов оптических приборов для коррекции или улучшения зрения. Состоит из линзы, как правило, с оправой, к которой может быть прикреплена цепочка для закрепления на одежде, во избежание потери монокля.</span><small> (ru)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="rdfs:comment" lang="sv">En monokel är ett ensamt korrektionsglas som fästs framför ena ögat och bärs fastklämt i ögonvrån. Monokeln består vanligen endast av en lins med räfflad kant men kan också förses med en upphöjd metallkant för bättre tillpassning. Eftersom en monokel lätt kan tappas är den ofta fäst vid bärarens kläder med en snodd. I dag används monoklar nästan aldrig, men i komik och satir är de ett vanligt aristokratiskt attribut. Monokeln kom redan på 1700-talet.</span><small> (sv)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="rdfs:comment" lang="uk">Моно́кль (фр. monocle, з дав.-гр. μόνος — «один» і лат. oculus — «око») — один з видів оптичних приладів для корекції або поліпшення зору. Складається з лінзи, як правило з оправою, до якої може бути прикріплений ланцюжок для закріплення на одязі, щоб уникнути втрати монокля. Монокль носився в кишені жилета. Для використання він вставлявся в очну западину і затискався між бровою і щокою.</span><small> (uk)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="rdfs:comment" lang="de">Das Monokel, auch Einglas genannt, ist eine Sehhilfe, die im Gegensatz zur heute verwendeten Brille („Binokel“, Lorgnette) aus nur einem Glas besteht und am Auge eingeklemmt wird (im Gegensatz zum Einglas mit Stiel). Das im Deutschen verwendete Wort Monokel wurde im 19. Jahrhundert aus dem gleichbedeutenden französischen Wort monocle entlehnt, entstand aber ursprünglich als zweisprachiges Kunstwort aus altgriechisch μόνος monos für „allein, einzig“ und lateinisch oculus für „Auge“.</span><small> (de)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="rdfs:comment" lang="fr">Un monocle est un unique verre de lunette circulaire entouré d&#39;une bague (en corne ou en métal) ou non cerclé, maintenu par simple pression entre l&#39;arcade sourcilière et le haut de la pommette. Il est souvent associé à une chaîne reliée aux habits du porteur permettant de ne pas le perdre et de le ranger dans une poche ; il sert à corriger les problèmes de vue, mais est aujourd&#39;hui obsolète. L&#39;antiquaire  (en) porta un monocle à Rome dans les années 1720, afin de pouvoir examiner de près les gravures et les inscriptions, mais le monocle n&#39;est apparu en tant qu&#39;attribut des gentlemen qu&#39;à partir du XIXe siècle. Il fut introduit dans la mode à travers la lorgnette des dandys des années 1790.</span><small> (fr)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="rdfs:comment" lang="it">Il monocolo (a volte chiamato anche caramella) è un tipo di lente utilizzata per correggere o migliorare la vista di un solo occhio. È costituito da una lente circolare, generalmente con una sottile montatura intorno alla circonferenza, che può essere collegata ad un cordino. L&#39;altra estremità del cordino è poi collegato all&#39;abbigliamento di chi indossa il monocolo, per evitare di perderlo. Si indossa, incastrandolo nell&#39;orbita dell&#39;occhio. L&#39;antiquario Philipp von Stosch indossava un monocolo a Roma già nel 1720, al fine di esaminare attentamente incisioni e gemme, ma il monocolo non diventerà un accessorio di moda sino al diciannovesimo secolo. Sarà infatti introdotto nella moda maschile verso il 1790 con l&#39;arrivo del dandysmo. Il suo utilizzo spesso indicava lo stato sociale del suo ind</span><small> (it)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="rdfs:comment" lang="nl">Een monocle of oogglas is een halve bril, dat wil zeggen, een bril bestaande uit één glas en bedoeld voor één oog. Een monocle functioneert op dezelfde wijze als een bril, met het verschil dat ze niet op de neus wordt geplaatst en ook niet achter het oor wordt gehaakt. In feite bestaat een monocle uit een rond glas, dat afgestemd is op de noden van de slechtziende en waarrond een ring zit. Aan die ring is een touwtje bevestigd, dat men ofwel rond de nek kan hangen, ofwel ergens anders aan de kledij kan vasthaken, zodat de monocle in geval van loskomen niet op de grond terechtkomt. Men klemt de monocle tussen het jukbeen en de wenkbrauw.</span><small> (nl)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="rdfs:comment" lang="pt">Monóculo é um tipo de lente corretiva utilizados para corrigir a visão em apenas um olho. É constituída por uma lente circular, geralmente com um fio ao redor da circunferência do anel que pode ser associado a uma corda. A outra extremidade da corda é então ligada ao vestuário em uso para evitar a perda do monóculo.A origem da palavra vem do grego: mónos, único e do Latim: oculu, olho.</span><small> (pt)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="property"><a class="uri" href="http://www.w3.org/2000/01/rdf-schema#label"><small>rdfs:</small>label</a>
+</td><td><ul>
+	<li style="display:none;"><span class="literal"><span property="rdfs:label" lang="ar">نظارة مفردة</span><small> (ar)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="rdfs:label" lang="ca">Monocle</span><small> (ca)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="rdfs:label" lang="cs">Monokl</span><small> (cs)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="rdfs:label" lang="de">Monokel</span><small> (de)</small></span></li>
+	<li><span class="literal"><span property="rdfs:label" lang="en">Monocle</span><small> (en)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="rdfs:label" lang="eo">Monoklo</span><small> (eo)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="rdfs:label" lang="es">Monóculo</span><small> (es)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="rdfs:label" lang="eu">Monokulo</span><small> (eu)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="rdfs:label" lang="fr">Monocle</span><small> (fr)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="rdfs:label" lang="it">Monocolo</span><small> (it)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="rdfs:label" lang="ja">片眼鏡</span><small> (ja)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="rdfs:label" lang="ko">단안경</span><small> (ko)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="rdfs:label" lang="nl">Monocle</span><small> (nl)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="rdfs:label" lang="pl">Monokl</span><small> (pl)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="rdfs:label" lang="pt">Monóculo</span><small> (pt)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="rdfs:label" lang="ru">Монокль</span><small> (ru)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="rdfs:label" lang="uk">Монокль (офтальмологія)</span><small> (uk)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="rdfs:label" lang="sv">Monokel</span><small> (sv)</small></span></li>
+</ul></td></tr><tr class="even"><td class="property"><a class="uri" href="http://www.w3.org/2002/07/owl#sameAs"><small>owl:</small>sameAs</a>
+</td><td><ul>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://rdf.freebase.com/ns/m.0255d2"><small>freebase</small>:Monocle</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://d-nb.info/gnd/7683844-4">http://d-nb.info/gnd/7683844-4</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://ja.dbpedia.org/resource/片眼鏡"><small>dbpedia-ja</small>:Monocle</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://tr.dbpedia.org/resource/Tek_gözlük"><small>dbpedia-tr</small>:Monocle</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://eo.dbpedia.org/resource/Monoklo"><small>dbpedia-eo</small>:Monocle</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://cs.dbpedia.org/resource/Monokl"><small>dbpedia-cs</small>:Monocle</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://sv.dbpedia.org/resource/Monokel"><small>dbpedia-sv</small>:Monocle</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="https://global.dbpedia.org/id/JFfC">https://global.dbpedia.org/id/JFfC</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://he.dbpedia.org/resource/מונוקל"><small>dbpedia-he</small>:Monocle</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://af.dbpedia.org/resource/Monokel"><small>dbpedia-af</small>:Monocle</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://www.wikidata.org/entity/Q12721"><small>wikidata</small>:Monocle</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://es.dbpedia.org/resource/Monóculo"><small>dbpedia-es</small>:Monocle</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://eu.dbpedia.org/resource/Monokulo"><small>dbpedia-eu</small>:Monocle</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://ro.dbpedia.org/resource/Monoclu"><small>dbpedia-ro</small>:Monocle</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://ar.dbpedia.org/resource/نظارة_مفردة"><small>dbpedia-ar</small>:Monocle</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://nl.dbpedia.org/resource/Monocle"><small>dbpedia-nl</small>:Monocle</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://uk.dbpedia.org/resource/Монокль_(офтальмологія)"><small>dbpedia-uk</small>:Monocle</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://io.dbpedia.org/resource/Monoklo"><small>dbpedia-io</small>:Monocle</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://et.dbpedia.org/resource/Monokkel"><small>dbpedia-et</small>:Monocle</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://cv.dbpedia.org/resource/Монокль">http://cv.dbpedia.org/resource/Монокль</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://pt.dbpedia.org/resource/Monóculo"><small>dbpedia-pt</small>:Monocle</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://no.dbpedia.org/resource/Monokkel"><small>dbpedia-no</small>:Monocle</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://da.dbpedia.org/resource/Monokel"><small>dbpedia-da</small>:Monocle</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://ru.dbpedia.org/resource/Монокль"><small>dbpedia-ru</small>:Monocle</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://ko.dbpedia.org/resource/단안경"><small>dbpedia-ko</small>:Monocle</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://ka.dbpedia.org/resource/მონოკლი_(ოპტიკა)"><small>dbpedia-ka</small>:Monocle</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://nn.dbpedia.org/resource/Monokkel"><small>dbpedia-nn</small>:Monocle</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://simple.dbpedia.org/resource/Monocle"><small>dbpedia-simple</small>:Monocle</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://bg.dbpedia.org/resource/Монокъл"><small>dbpedia-bg</small>:Monocle</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://fi.dbpedia.org/resource/Monokkeli"><small>dbpedia-fi</small>:Monocle</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://fr.dbpedia.org/resource/Monocle"><small>dbpedia-fr</small>:Monocle</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://fa.dbpedia.org/resource/مونوکل"><small>dbpedia-fa</small>:Monocle</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://de.dbpedia.org/resource/Monokel"><small>dbpedia-de</small>:Monocle</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://sr.dbpedia.org/resource/Монокл"><small>dbpedia-sr</small>:Monocle</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://ca.dbpedia.org/resource/Monocle"><small>dbpedia-ca</small>:Monocle</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://it.dbpedia.org/resource/Monocolo"><small>dbpedia-it</small>:Monocle</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://bar.dbpedia.org/resource/Monokl"><small>dbpedia-bar</small>:Monocle</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://d-nb.info/gnd/7683844-4/about/rdf">http://d-nb.info/gnd/7683844-4/about/rdf</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://pl.dbpedia.org/resource/Monokl"><small>dbpedia-pl</small>:Monocle</a></span></li>
+</ul></td></tr><tr class="odd"><td class="property"><a class="uri" href="http://www.w3.org/ns/prov#wasDerivedFrom"><small>prov:</small>wasDerivedFrom</a>
+</td><td><ul>
+	<li><span class="literal"><a class="uri" rel="prov:wasDerivedFrom" href="http://en.wikipedia.org/wiki/Monocle?oldid=983791919&amp;ns=0"><small>wikipedia-en</small>:Monocle?oldid=983791919&amp;ns=0</a></span></li>
+</ul></td></tr><tr class="even"><td class="property"><a class="uri" href="http://xmlns.com/foaf/0.1/depiction"><small>foaf:</small>depiction</a>
+</td><td><ul>
+	<li><span class="literal"><a class="uri" rel="foaf:depiction" href="http://commons.wikimedia.org/wiki/Special:FilePath/Chamberlain.jpg"><small>wiki-commons</small>:Special:FilePath/Chamberlain.jpg</a></span></li>
+</ul></td></tr><tr class="odd"><td class="property"><a class="uri" href="http://xmlns.com/foaf/0.1/isPrimaryTopicOf"><small>foaf:</small>isPrimaryTopicOf</a>
+</td><td><ul>
+	<li><span class="literal"><a class="uri" rel="foaf:isPrimaryTopicOf" href="http://en.wikipedia.org/wiki/Monocle"><small>wikipedia-en</small>:Monocle</a></span></li>
+</ul></td></tr><tr class="even"><td class="property">is <a class="uri" href="http://dbpedia.org/ontology/wikiPageDisambiguates"><small>dbo:</small>wikiPageDisambiguates</a>
+ of</td><td><ul>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageDisambiguates" href="http://dbpedia.org/resource/Monocle_(disambiguation)"><small>dbr</small>:Monocle_(disambiguation)</a></span></li>
+</ul></td></tr><tr class="odd"><td class="property">is <a class="uri" href="http://dbpedia.org/ontology/wikiPageRedirects"><small>dbo:</small>wikiPageRedirects</a>
+ of</td><td><ul>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageRedirects" href="http://dbpedia.org/resource/Monocles"><small>dbr</small>:Monocles</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageRedirects" href="http://dbpedia.org/resource/Quizzing_glass"><small>dbr</small>:Quizzing_glass</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageRedirects" href="http://dbpedia.org/resource/Monacle"><small>dbr</small>:Monacle</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageRedirects" href="http://dbpedia.org/resource/Monicle"><small>dbr</small>:Monicle</a></span></li>
+</ul></td></tr><tr class="even"><td class="property">is <a class="uri" href="http://dbpedia.org/ontology/wikiPageWikiLink"><small>dbo:</small>wikiPageWikiLink</a>
+ of</td><td><ul>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/List_of_8-Bit_Theater_characters"><small>dbr</small>:List_of_8-Bit_Theater_characters</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/List_of_Tugs_characters"><small>dbr</small>:List_of_Tugs_characters</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Lorgnette"><small>dbr</small>:Lorgnette</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Glasses"><small>dbr</small>:Glasses</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Great_Gold_Robbery"><small>dbr</small>:Great_Gold_Robbery</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Killer_Karl_Krupp"><small>dbr</small>:Killer_Karl_Krupp</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Ralph_Arthur_Roberts"><small>dbr</small>:Ralph_Arthur_Roberts</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/List_of_Doc_Savage_characters"><small>dbr</small>:List_of_Doc_Savage_characters</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Eyepiece"><small>dbr</small>:Eyepiece</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Nazis_in_fiction"><small>dbr</small>:Nazis_in_fiction</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Monocles"><small>dbr</small>:Monocles</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Caton_Theodorian"><small>dbr</small>:Caton_Theodorian</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Galahad_Threepwood"><small>dbr</small>:Galahad_Threepwood</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/George_Clerk_(diplomat)"><small>dbr</small>:George_Clerk_(diplomat)</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Mike_(novel)"><small>dbr</small>:Mike_(novel)</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Monocle_(character)"><small>dbr</small>:Monocle_(character)</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Monocle_(disambiguation)"><small>dbr</small>:Monocle_(disambiguation)</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Monocular"><small>dbr</small>:Monocular</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Monocular_(disambiguation)"><small>dbr</small>:Monocular_(disambiguation)</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Off-Road_Velociraptor_Safari"><small>dbr</small>:Off-Road_Velociraptor_Safari</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Old_Time"><small>dbr</small>:Old_Time</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Toff"><small>dbr</small>:Toff</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Batfink"><small>dbr</small>:Batfink</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Beach_Commonwealth_War_Graves_Commission_Cemetery"><small>dbr</small>:Beach_Commonwealth_War_Graves_Commission_Cemetery</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/List_of_The_Adventures_of_Tintin_characters"><small>dbr</small>:List_of_The_Adventures_of_Tintin_characters</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/List_of_vaudeville_performers:_A–K"><small>dbr</small>:List_of_vaudeville_performers:_A–K</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/London_After_Midnight_(film)"><small>dbr</small>:London_After_Midnight_(film)</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Lord_James_Blears"><small>dbr</small>:Lord_James_Blears</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Eric_Macfadyen"><small>dbr</small>:Eric_Macfadyen</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Chris_Eubank"><small>dbr</small>:Chris_Eubank</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Christopher_Ewart-Biggs"><small>dbr</small>:Christopher_Ewart-Biggs</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Clarissa_Eden"><small>dbr</small>:Clarissa_Eden</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Coal_Black_and_de_Sebben_Dwarfs"><small>dbr</small>:Coal_Black_and_de_Sebben_Dwarfs</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Albion_(comics)"><small>dbr</small>:Albion_(comics)</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Gene_Chandler"><small>dbr</small>:Gene_Chandler</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/George_(Blackadder)"><small>dbr</small>:George_(Blackadder)</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/John_Kinloch_(cricketer)"><small>dbr</small>:John_Kinloch_(cricketer)</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Polandball"><small>dbr</small>:Polandball</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Bausch_&amp;_Lomb"><small>dbr</small>:Bausch_&amp;_Lomb</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/List_of_Et_Cetera_characters"><small>dbr</small>:List_of_Et_Cetera_characters</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/List_of_Galaxy_Angel_characters"><small>dbr</small>:List_of_Galaxy_Angel_characters</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/List_of_Medaka_Box_characters"><small>dbr</small>:List_of_Medaka_Box_characters</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/List_of_Powerpuff_Girls_Z_characters"><small>dbr</small>:List_of_Powerpuff_Girls_Z_characters</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/List_of_Re:Zero_−_Starting_Life_in_Another_World_characters"><small>dbr</small>:List_of_Re:Zero_−_Starting_Life_in_Another_World_characters</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Pince-nez"><small>dbr</small>:Pince-nez</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Psmith"><small>dbr</small>:Psmith</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Squealer_(Animal_Farm)"><small>dbr</small>:Squealer_(Animal_Farm)</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Optician"><small>dbr</small>:Optician</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Scissors-glasses"><small>dbr</small>:Scissors-glasses</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Biggles"><small>dbr</small>:Biggles</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Bill_Dovey"><small>dbr</small>:Bill_Dovey</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Mickey_Mouse_universe"><small>dbr</small>:Mickey_Mouse_universe</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/John_Moriarty_(Attorney_General)"><small>dbr</small>:John_Moriarty_(Attorney_General)</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Jovian–Plutonian_gravitational_effect"><small>dbr</small>:Jovian–Plutonian_gravitational_effect</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/List_of_ThunderCats_characters"><small>dbr</small>:List_of_ThunderCats_characters</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/List_of_Hogan&#39;s_Heroes_characters"><small>dbr</small>:List_of_Hogan&#39;s_Heroes_characters</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Lesbian"><small>dbr</small>:Lesbian</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Wilkins_Micawber"><small>dbr</small>:Wilkins_Micawber</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Rimless_eyeglasses"><small>dbr</small>:Rimless_eyeglasses</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Edgar_Bergen"><small>dbr</small>:Edgar_Bergen</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Fred_Emney"><small>dbr</small>:Fred_Emney</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Fritz_Lang"><small>dbr</small>:Fritz_Lang</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Hubert_von_Meyerinck"><small>dbr</small>:Hubert_von_Meyerinck</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Hugh_Wakefield"><small>dbr</small>:Hugh_Wakefield</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/If_the_Cap_Fits..."><small>dbr</small>:If_the_Cap_Fits...</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Optics_and_vision"><small>dbr</small>:Optics_and_vision</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/An_Unforgettable_Summer"><small>dbr</small>:An_Unforgettable_Summer</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Austen_Chamberlain"><small>dbr</small>:Austen_Chamberlain</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Bomberman"><small>dbr</small>:Bomberman</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Organisation_armée_secrète"><small>dbr</small>:Organisation_armée_secrète</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Oswald_Cobblepot_(Gotham)"><small>dbr</small>:Oswald_Cobblepot_(Gotham)</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Busytown"><small>dbr</small>:Busytown</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Rea_Irvin"><small>dbr</small>:Rea_Irvin</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/The_Herbs"><small>dbr</small>:The_Herbs</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/The_New_Yorker"><small>dbr</small>:The_New_Yorker</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/The_Secret_Series"><small>dbr</small>:The_Secret_Series</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Pebbles_Box"><small>dbr</small>:Pebbles_Box</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Murzilka"><small>dbr</small>:Murzilka</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Alan_Taylor_(television_presenter)"><small>dbr</small>:Alan_Taylor_(television_presenter)</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Tristan_Tzara"><small>dbr</small>:Tristan_Tzara</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Percy_Toplis"><small>dbr</small>:Percy_Toplis</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/First_Doctor"><small>dbr</small>:First_Doctor</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Gerald_Warner"><small>dbr</small>:Gerald_Warner</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/International_rankings_of_Hong_Kong"><small>dbr</small>:International_rankings_of_Hong_Kong</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Lord_Peter_Views_the_Body"><small>dbr</small>:Lord_Peter_Views_the_Body</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Pantsuit"><small>dbr</small>:Pantsuit</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Coolboys_and_the_Frontman"><small>dbr</small>:Coolboys_and_the_Frontman</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Corrective_lens"><small>dbr</small>:Corrective_lens</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Counter-Attack"><small>dbr</small>:Counter-Attack</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Lancelot_Link,_Secret_Chimp"><small>dbr</small>:Lancelot_Link,_Secret_Chimp</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Dolway_Walkington"><small>dbr</small>:Dolway_Walkington</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Mirror_galvanometer"><small>dbr</small>:Mirror_galvanometer</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Quizzing_glass"><small>dbr</small>:Quizzing_glass</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Arkansas_Times"><small>dbr</small>:Arkansas_Times</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Bertie_Wooster"><small>dbr</small>:Bertie_Wooster</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Patrick_Moore"><small>dbr</small>:Patrick_Moore</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Robert_W._Service"><small>dbr</small>:Robert_W._Service</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Sylvia_von_Harden"><small>dbr</small>:Sylvia_von_Harden</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Waldo_Von_Erich"><small>dbr</small>:Waldo_Von_Erich</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Warby_Parker"><small>dbr</small>:Warby_Parker</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Index_of_fashion_articles"><small>dbr</small>:Index_of_fashion_articles</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Nicolás_Zúñiga_y_Miranda"><small>dbr</small>:Nicolás_Zúñiga_y_Miranda</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Jacques_Vaché"><small>dbr</small>:Jacques_Vaché</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/List_of_fictional_cats_in_comics"><small>dbr</small>:List_of_fictional_cats_in_comics</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Et_Cetera_(manga)"><small>dbr</small>:Et_Cetera_(manga)</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Petre_P._Carp"><small>dbr</small>:Petre_P._Carp</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Stacking_(video_game)"><small>dbr</small>:Stacking_(video_game)</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Cross-dressing_in_film_and_television"><small>dbr</small>:Cross-dressing_in_film_and_television</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Weebl_and_Bob"><small>dbr</small>:Weebl_and_Bob</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/The_Ersatz_Elevator"><small>dbr</small>:The_Ersatz_Elevator</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/The_Duh-Vinci_Code"><small>dbr</small>:The_Duh-Vinci_Code</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Jet_Fuel_Formula"><small>dbr</small>:Jet_Fuel_Formula</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Onihime_VS"><small>dbr</small>:Onihime_VS</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Penguin_in_other_media"><small>dbr</small>:Penguin_in_other_media</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Heather_Thatcher"><small>dbr</small>:Heather_Thatcher</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Johnnie_Cradock"><small>dbr</small>:Johnnie_Cradock</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Maurice_Swynfen_Fitzmaurice"><small>dbr</small>:Maurice_Swynfen_Fitzmaurice</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/List_of_Foster&#39;s_Home_for_Imaginary_Friends_characters"><small>dbr</small>:List_of_Foster&#39;s_Home_for_Imaginary_Friends_characters</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Gentleman_detective"><small>dbr</small>:Gentleman_detective</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Maria_Dulębianka"><small>dbr</small>:Maria_Dulębianka</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Mario_Peruzzi"><small>dbr</small>:Mario_Peruzzi</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/The_Yankee_Doodle_Mouse"><small>dbr</small>:The_Yankee_Doodle_Mouse</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/This_Isn&#39;t_What_It_Looks_Like"><small>dbr</small>:This_Isn&#39;t_What_It_Looks_Like</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Mr._Peanut"><small>dbr</small>:Mr._Peanut</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Penguin_(character)"><small>dbr</small>:Penguin_(character)</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Philipp_von_Stosch"><small>dbr</small>:Philipp_von_Stosch</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Monacle"><small>dbr</small>:Monacle</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/List_of_Black_Jack_characters"><small>dbr</small>:List_of_Black_Jack_characters</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Monicle"><small>dbr</small>:Monicle</a></span></li>
+</ul></td></tr><tr class="odd"><td class="property">is <a class="uri" href="http://xmlns.com/foaf/0.1/primaryTopic"><small>foaf:</small>primaryTopic</a>
+ of</td><td><ul>
+	<li><span class="literal"><a class="uri" rev="foaf:primaryTopic" href="http://en.wikipedia.org/wiki/Monocle"><small>wikipedia-en</small>:Monocle</a></span></li>
+</ul></td></tr>
+      </table>
+    </div>
+<!-- row  -->
+</div>
+</div>
+<!-- footer -->
+<div class="footer">
+    <div class="container">
+	<a href="https://virtuoso.openlinksw.com" title="OpenLink Virtuoso"><img class="powered_by" src="/statics/images/virt_power_no_border.png" alt="Powered by OpenLink Virtuoso"/></a>&nbsp; &nbsp;
+	<a href="http://linkeddata.org/"><img alt="This material is Open Knowledge" src="/statics/images/LoDLogo.gif"/></a> &nbsp; &nbsp;
+	<a href="http://dbpedia.org/sparql"><img alt="W3C Semantic Web Technology" src="/statics/images/sw-sparql-blue.png"/></a> &nbsp;  &nbsp;
+	<a href="https://opendefinition.org/"><img alt="This material is Open Knowledge" src="/statics/images/od_80x15_red_green.png"/></a>&nbsp; &nbsp;
+	<span style="display:none;" about=""
+	    resource="http://www.w3.org/TR/rdfa-syntax"
+	    rel="dc:conformsTo">
+	    <a href="https://validator.w3.org/check?uri=referer">
+		<img src="https://www.w3.org/Icons/valid-xhtml-rdfa" alt="Valid XHTML + RDFa" height="27px" />
+	    </a>
+	</span>
+	<br />
+	<div class="text-muted">
+	    This content was extracted from <a href="http://en.wikipedia.org/wiki/Monocle">Wikipedia</a> and is licensed under the <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike 3.0 Unported License</a>
+
+	</div>
+    </div>
+</div>
+<!-- #footer -->
+<!--#content-->
+    <!--script type="text/javascript">
+     Place any Javascript code e.g. Google Analytics scripts
+    </script-->
+    
+    <script type="text/javascript" src="/statics/js/jquery.min.js"></script>
+    <script type="text/javascript" src="/statics/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="/statics/js/dbpedia.js"></script>
+</body>
+</html>

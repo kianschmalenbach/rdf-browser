@@ -1,0 +1,267 @@
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+<http://dbpedia.org/resource/547_Praxedis>	dbo:wikiPageWikiLink	dbr:Joseph_Victor_von_Scheffel .
+dbr:Lake_Wolfgang	dbo:wikiPageWikiLink	dbr:Joseph_Victor_von_Scheffel .
+<http://dbpedia.org/resource/1886>	dbo:wikiPageWikiLink	dbr:Joseph_Victor_von_Scheffel .
+<http://dbpedia.org/resource/1886_in_Germany>	dbo:wikiPageWikiLink	dbr:Joseph_Victor_von_Scheffel .
+dbr:Gustav_Mahler	dbo:wikiPageWikiLink	dbr:Joseph_Victor_von_Scheffel .
+<http://dbpedia.org/resource/Julius_Wolff_(writer)>	dbo:wikiPageWikiLink	dbr:Joseph_Victor_von_Scheffel .
+dbr:Waltharius	dbo:wikiPageWikiLink	dbr:Joseph_Victor_von_Scheffel .
+dbr:Rudolf_Baumbach	dbo:wikiPageWikiLink	dbr:Joseph_Victor_von_Scheffel .
+dbr:Frankenlied	dbo:wikiPageWikiLink	dbr:Joseph_Victor_von_Scheffel .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Frankenlied	dbp:author	dbr:Joseph_Victor_von_Scheffel .
+dbr:Hotzenwald_Trail	dbo:wikiPageWikiLink	dbr:Joseph_Victor_von_Scheffel .
+<http://dbpedia.org/resource/Der_Trompeter_von_S\u00E4kkingen>	dbo:wikiPageWikiLink	dbr:Joseph_Victor_von_Scheffel .
+dbr:Battle_of_the_Teutoburg_Forest	dbo:wikiPageWikiLink	dbr:Joseph_Victor_von_Scheffel .
+dbr:Pirmin_Meier	dbo:wikiPageWikiLink	dbr:Joseph_Victor_von_Scheffel .
+dbr:List_of_historical_novelists	dbo:wikiPageWikiLink	dbr:Joseph_Victor_von_Scheffel .
+dbr:Alfred_Holder	dbo:wikiPageWikiLink	dbr:Joseph_Victor_von_Scheffel .
+dbr:Charles_Godfrey_Leland	dbo:wikiPageWikiLink	dbr:Joseph_Victor_von_Scheffel .
+dbr:Anton_von_Werner	dbo:wikiPageWikiLink	dbr:Joseph_Victor_von_Scheffel .
+dbr:Hermann_Riedel	dbo:wikiPageWikiLink	dbr:Joseph_Victor_von_Scheffel .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+wikipedia-en:Joseph_Victor_von_Scheffel	foaf:primaryTopic	dbr:Joseph_Victor_von_Scheffel .
+dbr:Badnerlied	dbo:wikiPageWikiLink	dbr:Joseph_Victor_von_Scheffel .
+dbr:Paul_Heyse	dbo:wikiPageWikiLink	dbr:Joseph_Victor_von_Scheffel .
+dbr:List_of_compositions_by_Max_Bruch	dbo:wikiPageWikiLink	dbr:Joseph_Victor_von_Scheffel .
+<http://dbpedia.org/resource/Symphony_No._1_(Mahler)>	dbo:wikiPageWikiLink	dbr:Joseph_Victor_von_Scheffel .
+dbr:Bad_Rippoldsau-Schapbach	dbo:wikiPageWikiLink	dbr:Joseph_Victor_von_Scheffel .
+<http://dbpedia.org/resource/Meanings_of_minor_planet_names:_1\u20131000>	dbo:wikiPageWikiLink	dbr:Joseph_Victor_von_Scheffel .
+dbr:Carl_Theodor_Welcker	dbo:wikiPageWikiLink	dbr:Joseph_Victor_von_Scheffel .
+dbr:Hugo_Wolf	dbo:wikiPageWikiLink	dbr:Joseph_Victor_von_Scheffel .
+dbr:Viktor_Nessler	dbo:wikiPageWikiLink	dbr:Joseph_Victor_von_Scheffel .
+dbr:List_of_German-language_authors	dbo:wikiPageWikiLink	dbr:Joseph_Victor_von_Scheffel .
+dbr:Guano	dbo:wikiPageWikiLink	dbr:Joseph_Victor_von_Scheffel .
+dbr:Frankfurt_Parliament	dbo:wikiPageWikiLink	dbr:Joseph_Victor_von_Scheffel .
+<http://dbpedia.org/resource/Bad_S\u00E4ckingen>	dbo:wikiPageWikiLink	dbr:Joseph_Victor_von_Scheffel .
+dbr:Karlsruhe	dbo:wikiPageWikiLink	dbr:Joseph_Victor_von_Scheffel .
+dbr:Zapfendorf	dbo:wikiPageWikiLink	dbr:Joseph_Victor_von_Scheffel .
+dbr:Perkeo_of_Heidelberg	dbo:wikiPageWikiLink	dbr:Joseph_Victor_von_Scheffel .
+dbr:Amalie_Bensinger	dbo:wikiPageWikiLink	dbr:Joseph_Victor_von_Scheffel .
+<http://dbpedia.org/resource/1826_in_literature>	dbo:wikiPageWikiLink	dbr:Joseph_Victor_von_Scheffel .
+dbr:Biedermeier	dbo:wikiPageWikiLink	dbr:Joseph_Victor_von_Scheffel .
+<http://dbpedia.org/resource/1826>	dbo:wikiPageWikiLink	dbr:Joseph_Victor_von_Scheffel .
+dbr:February_16	dbo:wikiPageWikiLink	dbr:Joseph_Victor_von_Scheffel .
+dbr:Ichthyosaurus	dbo:wikiPageWikiLink	dbr:Joseph_Victor_von_Scheffel .
+dbr:Members_of_the_Bavarian_Maximilian_Order_for_Science_and_Art	dbo:wikiPageWikiLink	dbr:Joseph_Victor_von_Scheffel .
+dbr:Scheffel_Hall	dbo:wikiPageWikiLink	dbr:Joseph_Victor_von_Scheffel .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Joseph_Victor_von_Scheffel	rdf:type	yago:Communicator109610660 ,
+		yago:CausalAgent100007347 ,
+		yago:WikicatGermanPoets ,
+		yago:YagoLegalActor ,
+		yago:YagoLegalActorGeo ,
+		yago:WikicatPeopleFromRadolfzell ,
+		yago:Writer110794014 ,
+		yago:WikicatEthnicGermanPeople ,
+		yago:LivingThing100004258 .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Joseph_Victor_von_Scheffel	rdf:type	owl:Thing ,
+		yago:WikicatWriters ,
+		yago:WikicatGermanWriters ,
+		yago:Poet110444194 ,
+		yago:WikicatPeopleFromKarlsruhe ,
+		yago:Person100007846 ,
+		yago:Organism100004475 ,
+		yago:PhysicalEntity100001930 ,
+		yago:Object100002684 ,
+		yago:Whole100003553 ,
+		yago:WikicatPeopleFromTheGrandDuchyOfBaden .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Joseph_Victor_von_Scheffel	rdfs:label	"Joseph Victor von Scheffel"@sv ,
+		"Joseph Victor von Scheffel"@pt ,
+		"Joseph Victor von Scheffel"@de ,
+		"Joseph Victor von Scheffel"@eo ,
+		"\u0428\u0435\u0444\u0444\u0435\u043B\u044C, \u0419\u043E\u0437\u0435\u0444 \u0412\u0438\u043A\u0442\u043E\u0440 \u0444\u043E\u043D"@ru ,
+		"Joseph Victor von Scheffel"@en ,
+		"Joseph Viktor von Scheffel"@it ,
+		"\u0419\u043E\u0437\u0435\u0444 \u0412\u0456\u043A\u0442\u043E\u0440 \u0444\u043E\u043D \u0428\u0435\u0444\u0444\u0435\u043B\u044C"@uk ;
+	rdfs:comment	"Joseph Victor von Scheffel (16 February 1826 \u2013 9 April 1886) was a German poet and novelist."@en ,
+		"Joseph Victor Scheffel, ab 1876 von Scheffel, (* 16. Februar 1826 in Karlsruhe; \u2020 9. April 1886 ebenda) war ein im 19. Jahrhundert viel gelesener deutscher Schriftsteller und Dichter. Er schrieb Erz\u00E4hlungen, Versepen und bekannte Liedtexte. Er war indirekter Sch\u00F6pfer des Begriffes Biedermeier."@de ,
+		"\u0419\u043E\u0301\u0437\u0435\u0444 \u0412\u0438\u0301\u043A\u0442\u043E\u0440 \u0444\u043E\u043D \u0428\u0435\u0301\u0444\u0444\u0435\u043B\u044C (\u043D\u0435\u043C. Joseph Victor von Scheffel; \u0440\u043E\u0434. 16 \u0444\u0435\u0432\u0440\u0430\u043B\u044F 1826, \u041A\u0430\u0440\u043B\u0441\u0440\u0443\u044D \u2014 9 \u0430\u043F\u0440\u0435\u043B\u044F 1886, \u041A\u0430\u0440\u043B\u0441\u0440\u0443\u044D) \u2014 \u043D\u0435\u043C\u0435\u0446\u043A\u0438\u0439 \u043F\u043E\u044D\u0442 \u0438 \u0440\u043E\u043C\u0430\u043D\u0438\u0441\u0442."@ru ,
+		"Joseph Victor von Scheffel, f\u00F6dd den 16 februari 1826 i Karlsruhe, d\u00F6d d\u00E4r den 9 april 1886, var en tysk poet och romanf\u00F6rfattare. Scheffel debuterade 1854 med en st\u00F6rre episk dikt, Der Trompeter von S\u00E4kkingen, som blev s\u00E5 popul\u00E4r, att den till 1915 utkom i 300 upplagor (svensk \u00F6vers\u00E4ttning av , 1901) och 1884 lades till grund f\u00F6r en opera av Nessler med librett av Bunge (svensk \u00F6vers\u00E4ttning 1886). Hans f\u00F6ljande arbeten r\u00F6nte likaledes stor framg\u00E5ng: den historiska romanen Ekkehard (1855, 255:e upplagan 1912; svenska \u00F6vers\u00E4ttningar 1881 och 1905), diktsamlingen Frau Aventiure (1863; 20:e upplagan 1908), Lieder aus  Zeit (1864), novellen Juniperus (1866; 6:e upplagan 1907), Gaudeamus! Lieder aus dem engern und weitern (1867; 69:e upplagan 1912), en originell dryckespoesi, som h\u00F6r till skald"@sv ,
+		"Joseph Victor von Scheffel (16 de fevereiro de 1826 - 9 de abril de 1886), romancista e poeta alem\u00E3o, nasceu em Karlsruhe. Seu pai, um aposentado do ex\u00E9rcito criado Baden, foi um engenheiro civil e membro da comiss\u00E3o para regular o curso do Rio Reno, sua m\u00E3e, Josephine Krederer solteira, filha de um pr\u00F3spero comerciante em Oberndorf, era uma mulher de grande poder intelectual e de uma rom\u00E2ntica disposi\u00E7\u00E3o. Scheffel foi educado em Karlsruhe e depois (1843-1847) nas universidades de Munique, Heidelberg e Berlim. Depois de passar no exame de admiss\u00E3o ao servi\u00E7o judici\u00E1rio, graduou-se para doutor em quatro anos (1848-1852) realizou uma posi\u00E7\u00E3o oficial na cidade de S\u00E4ckingen. Aqui ele escreveu o poema Der TROMPETER von S\u00E4ckingen (O trompetista de Saeckingen) (1853), uma rom\u00E2ntica e bem-humorado"@pt ,
+		"Jozefo Viktoro de SCHEFFEL (naski\u011Dis la 16-an de februaro 1828 en Karlsruhe, mortis samloke la 9-an de aprilo 1886) estis fama germana verkisto."@eo ,
+		"Joseph Viktor von Scheffel (Karlsruhe, 16 febbraio 1826 \u2013 Karlsruhe, 9 aprile 1886) \u00E8 stato uno scrittore e poeta tedesco."@it ,
+		"\u0419\u043E\u0437\u0435\u0444 \u0412\u0456\u043A\u0442\u043E\u0440 \u0444\u043E\u043D \u0428\u0435\u0444\u0444\u0435\u043B\u044C (\u043D\u0456\u043C. Joseph Victor von Scheffel Joseph Victor von Scheffel; 16 \u043B\u044E\u0442\u043E\u0433\u043E 1826, \u041A\u0430\u0440\u043B\u0441\u0440\u0443\u0435 \u2014 9 \u043A\u0432\u0456\u0442\u043D\u044F 1886, \u041A\u0430\u0440\u043B\u0441\u0440\u0443\u0435) \u2014 \u043D\u0456\u043C\u0435\u0446\u044C\u043A\u0438\u0439 \u043F\u043E\u0435\u0442 \u0442\u0430 \u0440\u043E\u043C\u0430\u043D\u0456\u0441\u0442."@uk ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Joseph_Viktor_von_Scheffel.jpg> ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Joseph_Victor_von_Scheffel .
+@prefix dct:	<http://purl.org/dc/terms/> .
+dbr:Joseph_Victor_von_Scheffel	dct:subject	<http://dbpedia.org/resource/Category:1826_births> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Joseph_Victor_von_Scheffel	dct:subject	dbc:German_male_poets ,
+		dbc:German_poets ,
+		dbc:Heidelberg_University_alumni ,
+		dbc:People_from_the_Grand_Duchy_of_Baden ,
+		dbc:Members_of_the_Bavarian_Maximilian_Order_for_Science_and_Art ,
+		<http://dbpedia.org/resource/Category:19th-century_poets> ,
+		dbc:Humboldt_University_of_Berlin_alumni ,
+		dbc:Members_of_the_Frankfurt_Parliament ,
+		dbc:German_untitled_nobility ,
+		dbc:Biedermeier_writers ,
+		<http://dbpedia.org/resource/Category:19th-century_German_writers> ,
+		<http://dbpedia.org/resource/Category:19th-century_German_male_writers> ,
+		<http://dbpedia.org/resource/Category:1886_deaths> ,
+		dbc:People_from_Karlsruhe ,
+		dbc:Ludwig_Maximilian_University_of_Munich_alumni .
+@prefix dbpedia-eo:	<http://eo.dbpedia.org/resource/> .
+dbr:Joseph_Victor_von_Scheffel	owl:sameAs	dbpedia-eo:Joseph_Victor_von_Scheffel .
+@prefix ns12:	<http://d-nb.info/gnd/118606832/about/> .
+dbr:Joseph_Victor_von_Scheffel	owl:sameAs	ns12:rdf .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Joseph_Victor_von_Scheffel	owl:sameAs	dbpedia-pt:Joseph_Victor_von_Scheffel ,
+		<http://d-nb.info/gnd/1028721811> ,
+		<http://d-nb.info/gnd/1081865946> .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Joseph_Victor_von_Scheffel	owl:sameAs	wikidata:Q9082 .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Joseph_Victor_von_Scheffel	owl:sameAs	yago-res:Joseph_Victor_von_Scheffel ,
+		<http://rdf.freebase.com/ns/m.04nlk0> .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Joseph_Victor_von_Scheffel	owl:sameAs	dbpedia-it:Joseph_Viktor_von_Scheffel ,
+		<http://musicbrainz.org/artist/7500a6fc-dea2-432d-a1ea-dbf2a459a05c> ,
+		<http://viaf.org/viaf/19761512> .
+@prefix dbpedia-no:	<http://no.dbpedia.org/resource/> .
+dbr:Joseph_Victor_von_Scheffel	owl:sameAs	dbpedia-no:Joseph_Victor_von_Scheffel ,
+		<http://d-nb.info/gnd/1110284829> ,
+		<http://d-nb.info/gnd/160250587> .
+@prefix dbpedia-la:	<http://la.dbpedia.org/resource/> .
+dbr:Joseph_Victor_von_Scheffel	owl:sameAs	dbpedia-la:Iosephus_Victor_de_Scheffel .
+@prefix dbpedia-sv:	<http://sv.dbpedia.org/resource/> .
+dbr:Joseph_Victor_von_Scheffel	owl:sameAs	dbpedia-sv:Joseph_Victor_von_Scheffel ,
+		<https://global.dbpedia.org/id/53xoX> ,
+		<http://d-nb.info/gnd/118606832> .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Joseph_Victor_von_Scheffel	owl:sameAs	dbpedia-de:Joseph_Victor_von_Scheffel ,
+		<http://ru.dbpedia.org/resource/\u0428\u0435\u0444\u0444\u0435\u043B\u044C,_\u0419\u043E\u0437\u0435\u0444_\u0412\u0438\u043A\u0442\u043E\u0440_\u0444\u043E\u043D> ,
+		dbr:Joseph_Victor_von_Scheffel ,
+		<http://uk.dbpedia.org/resource/\u0419\u043E\u0437\u0435\u0444_\u0412\u0456\u043A\u0442\u043E\u0440_\u0444\u043E\u043D_\u0428\u0435\u0444\u0444\u0435\u043B\u044C> .
+@prefix dbpedia-hu:	<http://hu.dbpedia.org/resource/> .
+dbr:Joseph_Victor_von_Scheffel	owl:sameAs	dbpedia-hu:Joseph_Victor_von_Scheffel .
+@prefix dbpedia-ro:	<http://ro.dbpedia.org/resource/> .
+dbr:Joseph_Victor_von_Scheffel	owl:sameAs	dbpedia-ro:Joseph_Victor_von_Scheffel .
+@prefix dbpedia-da:	<http://da.dbpedia.org/resource/> .
+dbr:Joseph_Victor_von_Scheffel	owl:sameAs	dbpedia-da:Joseph_Victor_von_Scheffel .
+@prefix schema:	<http://schema.org/> .
+dbr:Joseph_Victor_von_Scheffel	schema:sameAs	<http://viaf.org/viaf/19761512> ;
+	dbo:abstract	"\u0419\u043E\u0301\u0437\u0435\u0444 \u0412\u0438\u0301\u043A\u0442\u043E\u0440 \u0444\u043E\u043D \u0428\u0435\u0301\u0444\u0444\u0435\u043B\u044C (\u043D\u0435\u043C. Joseph Victor von Scheffel; \u0440\u043E\u0434. 16 \u0444\u0435\u0432\u0440\u0430\u043B\u044F 1826, \u041A\u0430\u0440\u043B\u0441\u0440\u0443\u044D \u2014 9 \u0430\u043F\u0440\u0435\u043B\u044F 1886, \u041A\u0430\u0440\u043B\u0441\u0440\u0443\u044D) \u2014 \u043D\u0435\u043C\u0435\u0446\u043A\u0438\u0439 \u043F\u043E\u044D\u0442 \u0438 \u0440\u043E\u043C\u0430\u043D\u0438\u0441\u0442."@ru ,
+		"Joseph Victor von Scheffel, f\u00F6dd den 16 februari 1826 i Karlsruhe, d\u00F6d d\u00E4r den 9 april 1886, var en tysk poet och romanf\u00F6rfattare. Scheffel debuterade 1854 med en st\u00F6rre episk dikt, Der Trompeter von S\u00E4kkingen, som blev s\u00E5 popul\u00E4r, att den till 1915 utkom i 300 upplagor (svensk \u00F6vers\u00E4ttning av , 1901) och 1884 lades till grund f\u00F6r en opera av Nessler med librett av Bunge (svensk \u00F6vers\u00E4ttning 1886). Hans f\u00F6ljande arbeten r\u00F6nte likaledes stor framg\u00E5ng: den historiska romanen Ekkehard (1855, 255:e upplagan 1912; svenska \u00F6vers\u00E4ttningar 1881 och 1905), diktsamlingen Frau Aventiure (1863; 20:e upplagan 1908), Lieder aus  Zeit (1864), novellen Juniperus (1866; 6:e upplagan 1907), Gaudeamus! Lieder aus dem engern und weitern (1867; 69:e upplagan 1912), en originell dryckespoesi, som h\u00F6r till skaldens b\u00E4sta skapelser, Bergpsalmen (1870; 7:e upplagan 1906) och Hugideo (1884; 10:e upplagan 1906)."@sv ,
+		"Joseph Viktor von Scheffel (Karlsruhe, 16 febbraio 1826 \u2013 Karlsruhe, 9 aprile 1886) \u00E8 stato uno scrittore e poeta tedesco."@it ,
+		"\u0419\u043E\u0437\u0435\u0444 \u0412\u0456\u043A\u0442\u043E\u0440 \u0444\u043E\u043D \u0428\u0435\u0444\u0444\u0435\u043B\u044C (\u043D\u0456\u043C. Joseph Victor von Scheffel Joseph Victor von Scheffel; 16 \u043B\u044E\u0442\u043E\u0433\u043E 1826, \u041A\u0430\u0440\u043B\u0441\u0440\u0443\u0435 \u2014 9 \u043A\u0432\u0456\u0442\u043D\u044F 1886, \u041A\u0430\u0440\u043B\u0441\u0440\u0443\u0435) \u2014 \u043D\u0456\u043C\u0435\u0446\u044C\u043A\u0438\u0439 \u043F\u043E\u0435\u0442 \u0442\u0430 \u0440\u043E\u043C\u0430\u043D\u0456\u0441\u0442."@uk ,
+		"Joseph Victor Scheffel, ab 1876 von Scheffel, (* 16. Februar 1826 in Karlsruhe; \u2020 9. April 1886 ebenda) war ein im 19. Jahrhundert viel gelesener deutscher Schriftsteller und Dichter. Er schrieb Erz\u00E4hlungen, Versepen und bekannte Liedtexte. Er war indirekter Sch\u00F6pfer des Begriffes Biedermeier."@de ,
+		"Jozefo Viktoro de SCHEFFEL (naski\u011Dis la 16-an de februaro 1828 en Karlsruhe, mortis samloke la 9-an de aprilo 1886) estis fama germana verkisto."@eo ,
+		"Joseph Victor von Scheffel (16 de fevereiro de 1826 - 9 de abril de 1886), romancista e poeta alem\u00E3o, nasceu em Karlsruhe. Seu pai, um aposentado do ex\u00E9rcito criado Baden, foi um engenheiro civil e membro da comiss\u00E3o para regular o curso do Rio Reno, sua m\u00E3e, Josephine Krederer solteira, filha de um pr\u00F3spero comerciante em Oberndorf, era uma mulher de grande poder intelectual e de uma rom\u00E2ntica disposi\u00E7\u00E3o. Scheffel foi educado em Karlsruhe e depois (1843-1847) nas universidades de Munique, Heidelberg e Berlim. Depois de passar no exame de admiss\u00E3o ao servi\u00E7o judici\u00E1rio, graduou-se para doutor em quatro anos (1848-1852) realizou uma posi\u00E7\u00E3o oficial na cidade de S\u00E4ckingen. Aqui ele escreveu o poema Der TROMPETER von S\u00E4ckingen (O trompetista de Saeckingen) (1853), uma rom\u00E2ntica e bem-humorado, conto que ganhou imediatamente extraordin\u00E1ria popularidade. Ele chegou a mais de 250 edi\u00E7\u00F5es e foi feita em uma \u00F3pera por Victor Nessler em 1884. Scheffel pr\u00F3xima realizou uma viagem \u00E0 It\u00E1lia. Retornando para casa em 1853 ele encontrou seus pais, que os esperavam que ele continua-se sua carreira jur\u00EDdica. Mas em 1854, com uma defici\u00EAncia visual, incapacitado ele, se demitiu do governo e assumiu o servi\u00E7o em Heidelberg, com a inten\u00E7\u00E3o de preparar-se para um posto sobre o corpo docente da universidade. Seus estudos foram, no entanto, interrompidos pela doen\u00E7a ocular e, em busca de sa\u00FAde mudou-se para Su\u00ED\u00E7a e assumiu a sua resid\u00EAncia no Lago de Constan\u00E7a, e elaborado o plano de seu famoso romance hist\u00F3rico Ekkehard (1857); (Port. trans. por Sofie Delffs, Leipzig, 1872). As primeiras ideias para este trabalho que ele come\u00E7ou a partir da historia germanica. Foi pouco menos popular do que a TROMPETER von S\u00E4ckingen. Em 1901 chegou a 179 Edi\u00E7\u00E3o. Scheffel retornou para Heidelberg, e publicado , Lieder aus dem Engeren und Weiteren (1868), uma colec\u00E7\u00E3o de can\u00E7\u00F5es alegre e bem-humoradas, o objeto de que \u00E9 tomado em parte de lendas alem\u00E3s, em parte, com temas hist\u00F3ricos. Por dois anos (1857-1859) Scheffel foi zelador da biblioteca do pr\u00EDncipe Egon von F\u00FCrstenberg em Donaueschingen, mas dando-se a sua nomea\u00E7\u00E3o em 1850, visitou Joseph Freiherr von Lassberg, em Meersburg sobre o lago de Constan\u00E7a, ficou durante um tempo com o Gr\u00E3o-Duque  de Saxe-Weimar, em Wartburg na Tur\u00EDngia, em seguida, fixando-se em Karlsruhe, se casou em 1864 Caroline von Malzen e, em 1872, aos seus aposentos na Vila Seehalde Radolfzell perto da parte inferior do Lago Constan\u00E7a. Em 1876 foi concedida uma patente de nobreza heredit\u00E1ria pelo gr\u00E3o-duque de Baden. Ele morreu em Karlsruhe sobre o dia 9. De abril de 1886."@pt ,
+		"Joseph Victor von Scheffel (16 February 1826 \u2013 9 April 1886) was a German poet and novelist."@en .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Joseph_Victor_von_Scheffel	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Joseph_Victor_von_Scheffel?oldid=939817873&ns=0> ;
+	dbp:id	"Scheffel,+Joseph+Viktor+von"@en ;
+	dbp:name	"Joseph Viktor von Scheffel"@en ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Joseph_Viktor_von_Scheffel.jpg?width=300> ;
+	dbo:wikiPageExternalLink	<http://www.gutenberg.org/ebooks/35848%3Fmsg=welcome_stranger%23bibrec> ,
+		<http://www.zeno.org/Literatur/M/Scheffel,+Joseph+Viktor+von> ;
+	dbo:wikiPageID	1267138 ;
+	dbo:wikiPageRevisionID	939817873 ;
+	dbo:wikiPageWikiLink	dbr:Monumenta_Germaniae_Historica ,
+		dbr:Guano ,
+		dbc:Heidelberg_University_alumni ,
+		dbr:Charles_Godfrey_Leland ,
+		dbc:People_from_Karlsruhe ,
+		<http://dbpedia.org/resource/Leslie_J._Workman> ,
+		dbr:Karlsruhe ,
+		dbr:Radolfzell ,
+		dbc:People_from_the_Grand_Duchy_of_Baden ,
+		dbr:Poet ,
+		dbc:Ludwig_Maximilian_University_of_Munich_alumni ,
+		dbr:Ichthyosaurus ,
+		dbc:German_male_poets ,
+		dbr:Im_schwarzen_Walfisch_zu_Askalon ,
+		dbc:German_poets ,
+		dbr:Oberndorf_am_Neckar ,
+		dbr:Baden_State_Library ,
+		dbr:Schwetzingen ,
+		dbc:Members_of_the_Bavarian_Maximilian_Order_for_Science_and_Art ,
+		dbr:Novelist ,
+		dbr:Bacchanalia ,
+		dbr:Historical_criticism ,
+		<http://dbpedia.org/resource/Category:19th-century_German_male_writers> ,
+		<http://dbpedia.org/resource/Bad_S\u00E4ckingen> ,
+		<http://dbpedia.org/resource/Joseph_von_La\u00DFberg> ,
+		<http://dbpedia.org/resource/Der_Trompeter_von_S\u00E4kkingen> ,
+		dbr:Germany ,
+		dbc:German_untitled_nobility ,
+		<http://dbpedia.org/resource/Category:1886_deaths> ,
+		dbr:Italy ,
+		dbr:Assyria ,
+		dbr:Cuneiform ,
+		dbr:Classics ,
+		dbr:Lake_Constance ,
+		dbc:Members_of_the_Frankfurt_Parliament ,
+		dbr:Ludwig_Maximilian_University_of_Munich ,
+		dbr:Donaueschingen ,
+		dbr:Viktor_Nessler ,
+		dbr:Switzerland ,
+		dbr:Literary_society ,
+		dbr:Biedermeier ,
+		<http://dbpedia.org/resource/Category:1826_births> ,
+		<http://dbpedia.org/resource/A._Hartleben\u0027s_Verlag> ,
+		dbr:Anton_Breitner ,
+		dbr:Charles_Alexander_of_Saxe-Weimar ,
+		<http://dbpedia.org/resource/File:Joseph_Viktor_von_Scheffel.jpg> ,
+		<http://dbpedia.org/resource/File:Kiselak_Illustration_in_von_Scheffel_book_circa_1860.jpg> ,
+		<http://dbpedia.org/resource/Joseph_St\u00F6ckle> ,
+		dbr:Samuel_Friedrich_Sauter ,
+		dbc:Humboldt_University_of_Berlin_alumni ,
+		dbr:Sofie_Delffs ,
+		dbc:Biedermeier_writers ,
+		<http://dbpedia.org/resource/File:Scheffel.jpg> ,
+		dbr:Humboldt_University_of_Berlin ,
+		dbr:Thuringia ,
+		<http://dbpedia.org/resource/House_of_F\u00FCrstenberg_(Swabia)> ,
+		dbr:Baden ,
+		dbr:Binge_drinking ,
+		dbr:Heidelberg ,
+		dbr:Heidelberg_University ,
+		<http://dbpedia.org/resource/Category:19th-century_poets> ,
+		<http://dbpedia.org/resource/Category:19th-century_German_writers> .
+@prefix dbt:	<http://dbpedia.org/resource/Template:> .
+dbr:Joseph_Victor_von_Scheffel	dbp:wikiPageUsesTemplate	dbt:Internet_Archive_author ,
+		dbt:Gutenberg_author ,
+		<http://dbpedia.org/resource/Template:Cite_Collier\u0027s> ,
+		dbt:Authority_control ,
+		dbt:ISBN ,
+		dbt:EB1911 ,
+		dbt:More_footnotes ,
+		dbt:Reflist ,
+		dbt:DNB_portal ,
+		dbt:Cite_Nuttall .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Joseph_Victor_von_Scheffel	dbo:wikiPageLength	"10547"^^xsd:nonNegativeInteger .
+dbr:Literary_society	dbo:wikiPageWikiLink	dbr:Joseph_Victor_von_Scheffel .
+dbr:Johann_Joseph_Abert	dbo:wikiPageWikiLink	dbr:Joseph_Victor_von_Scheffel .
+dbr:Die_Krokodile	dbo:wikiPageWikiLink	dbr:Joseph_Victor_von_Scheffel .
+<http://dbpedia.org/resource/Old_Heidelberg_(play)>	dbo:wikiPageWikiLink	dbr:Joseph_Victor_von_Scheffel .
+<http://dbpedia.org/resource/1886_in_literature>	dbo:wikiPageWikiLink	dbr:Joseph_Victor_von_Scheffel .
+<http://dbpedia.org/resource/1848_in_poetry>	dbo:wikiPageWikiLink	dbr:Joseph_Victor_von_Scheffel .
+<http://dbpedia.org/resource/Ehrenb\u00FCrg>	dbo:wikiPageWikiLink	dbr:Joseph_Victor_von_Scheffel .
+dbr:Old_Heidelberg	dbo:wikiPageWikiLink	dbr:Joseph_Victor_von_Scheffel .
+dbr:Scheffel	dbo:wikiPageWikiLink	dbr:Joseph_Victor_von_Scheffel ;
+	dbo:wikiPageDisambiguates	dbr:Joseph_Victor_von_Scheffel .
+dbr:Scheffelbund	dbo:wikiPageRedirects	dbr:Joseph_Victor_von_Scheffel ;
+	dbo:wikiPageWikiLink	dbr:Joseph_Victor_von_Scheffel .
+dbr:Victor_von_Scheffel	dbo:wikiPageRedirects	dbr:Joseph_Victor_von_Scheffel ;
+	dbo:wikiPageWikiLink	dbr:Joseph_Victor_von_Scheffel .
+dbr:Joseph_Viktor_von_Scheffel	dbo:wikiPageRedirects	dbr:Joseph_Victor_von_Scheffel ;
+	dbo:wikiPageWikiLink	dbr:Joseph_Victor_von_Scheffel .
+dbr:Josef_Viktor_von_Scheffel	dbo:wikiPageRedirects	dbr:Joseph_Victor_von_Scheffel ;
+	dbo:wikiPageWikiLink	dbr:Joseph_Victor_von_Scheffel .
+dbr:Im_schwarzen_Walfisch_zu_Askalon	dbp:text	dbr:Joseph_Victor_von_Scheffel ;
+	dbo:wikiPageWikiLink	dbr:Joseph_Victor_von_Scheffel .
+dbr:Joseph_Kyselak	dbo:wikiPageWikiLink	dbr:Joseph_Victor_von_Scheffel .
+dbr:Walter_of_Aquitaine	dbo:wikiPageWikiLink	dbr:Joseph_Victor_von_Scheffel .
+<http://dbpedia.org/resource/S\u00E1ndor_Liezen-Mayer>	dbo:wikiPageWikiLink	dbr:Joseph_Victor_von_Scheffel .
+dbr:Wildkirchli	dbo:wikiPageWikiLink	dbr:Joseph_Victor_von_Scheffel .
+dbr:Ekkehard_I	dbo:wikiPageWikiLink	dbr:Joseph_Victor_von_Scheffel .
+dbr:Ekkehard_II	dbo:wikiPageWikiLink	dbr:Joseph_Victor_von_Scheffel .

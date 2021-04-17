@@ -1,0 +1,429 @@
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+dbr:The_New_Yorker	dbo:wikiPageWikiLink	dbr:Monocle .
+dbr:Eyepiece	dbo:wikiPageWikiLink	dbr:Monocle .
+<http://dbpedia.org/resource/Jovian\u2013Plutonian_gravitational_effect>	dbo:wikiPageWikiLink	dbr:Monocle .
+dbr:Beach_Commonwealth_War_Graves_Commission_Cemetery	dbo:wikiPageWikiLink	dbr:Monocle .
+<http://dbpedia.org/resource/George_(Blackadder)>	dbo:wikiPageWikiLink	dbr:Monocle .
+<http://dbpedia.org/resource/Bausch_&_Lomb>	dbo:wikiPageWikiLink	dbr:Monocle .
+dbr:Bill_Dovey	dbo:wikiPageWikiLink	dbr:Monocle .
+<http://dbpedia.org/resource/List_of_Hogan\u0027s_Heroes_characters>	dbo:wikiPageWikiLink	dbr:Monocle .
+dbr:Percy_Toplis	dbo:wikiPageWikiLink	dbr:Monocle .
+dbr:Philipp_von_Stosch	dbo:wikiPageWikiLink	dbr:Monocle .
+dbr:Glasses	dbo:wikiPageWikiLink	dbr:Monocle .
+dbr:Fred_Emney	dbo:wikiPageWikiLink	dbr:Monocle .
+dbr:Hubert_von_Meyerinck	dbo:wikiPageWikiLink	dbr:Monocle .
+<http://dbpedia.org/resource/If_the_Cap_Fits...>	dbo:wikiPageWikiLink	dbr:Monocle .
+dbr:Counter-Attack	dbo:wikiPageWikiLink	dbr:Monocle .
+dbr:Heather_Thatcher	dbo:wikiPageWikiLink	dbr:Monocle .
+dbr:Dolway_Walkington	dbo:wikiPageWikiLink	dbr:Monocle .
+dbr:Jet_Fuel_Formula	dbo:wikiPageWikiLink	dbr:Monocle .
+dbr:Wilkins_Micawber	dbo:wikiPageWikiLink	dbr:Monocle .
+dbr:Mirror_galvanometer	dbo:wikiPageWikiLink	dbr:Monocle .
+dbr:List_of_Tugs_characters	dbo:wikiPageWikiLink	dbr:Monocle .
+<http://dbpedia.org/resource/George_Clerk_(diplomat)>	dbo:wikiPageWikiLink	dbr:Monocle .
+<http://dbpedia.org/resource/London_After_Midnight_(film)>	dbo:wikiPageWikiLink	dbr:Monocle .
+dbr:List_of_Et_Cetera_characters	dbo:wikiPageWikiLink	dbr:Monocle .
+dbr:List_of_Powerpuff_Girls_Z_characters	dbo:wikiPageWikiLink	dbr:Monocle .
+dbr:The_Secret_Series	dbo:wikiPageWikiLink	dbr:Monocle .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+wikipedia-en:Monocle	foaf:primaryTopic	dbr:Monocle .
+dbr:Chris_Eubank	dbo:wikiPageWikiLink	dbr:Monocle .
+dbr:Clarissa_Eden	dbo:wikiPageWikiLink	dbr:Monocle .
+dbr:Gerald_Warner	dbo:wikiPageWikiLink	dbr:Monocle .
+dbr:Bertie_Wooster	dbo:wikiPageWikiLink	dbr:Monocle .
+<http://dbpedia.org/resource/Monocle_(character)>	dbo:wikiPageWikiLink	dbr:Monocle .
+<http://dbpedia.org/resource/Organisation_arm\u00E9e_secr\u00E8te>	dbo:wikiPageWikiLink	dbr:Monocle .
+dbr:Christopher_Ewart-Biggs	dbo:wikiPageWikiLink	dbr:Monocle .
+dbr:Fritz_Lang	dbo:wikiPageWikiLink	dbr:Monocle .
+dbr:Austen_Chamberlain	dbo:wikiPageWikiLink	dbr:Monocle .
+dbr:Rea_Irvin	dbo:wikiPageWikiLink	dbr:Monocle .
+dbr:Lord_Peter_Views_the_Body	dbo:wikiPageWikiLink	dbr:Monocle .
+<http://dbpedia.org/resource/Robert_W._Service>	dbo:wikiPageWikiLink	dbr:Monocle .
+dbr:Sylvia_von_Harden	dbo:wikiPageWikiLink	dbr:Monocle .
+dbr:Gentleman_detective	dbo:wikiPageWikiLink	dbr:Monocle .
+<http://dbpedia.org/resource/Maria_Dul\u0119bianka>	dbo:wikiPageWikiLink	dbr:Monocle .
+<http://dbpedia.org/resource/Alan_Taylor_(television_presenter)>	dbo:wikiPageWikiLink	dbr:Monocle .
+dbr:List_of_The_Adventures_of_Tintin_characters	dbo:wikiPageWikiLink	dbr:Monocle .
+<http://dbpedia.org/resource/Squealer_(Animal_Farm)>	dbo:wikiPageWikiLink	dbr:Monocle .
+dbr:Optics_and_vision	dbo:wikiPageWikiLink	dbr:Monocle .
+dbr:Corrective_lens	dbo:wikiPageWikiLink	dbr:Monocle .
+dbr:Warby_Parker	dbo:wikiPageWikiLink	dbr:Monocle .
+dbr:Hugh_Wakefield	dbo:wikiPageWikiLink	dbr:Monocle .
+dbr:Ralph_Arthur_Roberts	dbo:wikiPageWikiLink	dbr:Monocle .
+dbr:Waldo_Von_Erich	dbo:wikiPageWikiLink	dbr:Monocle .
+dbr:Johnnie_Cradock	dbo:wikiPageWikiLink	dbr:Monocle .
+dbr:Toff	dbo:wikiPageWikiLink	dbr:Monocle .
+<http://dbpedia.org/resource/List_of_vaudeville_performers:_A\u2013K>	dbo:wikiPageWikiLink	dbr:Monocle .
+<http://dbpedia.org/resource/List_of_Foster\u0027s_Home_for_Imaginary_Friends_characters>	dbo:wikiPageWikiLink	dbr:Monocle .
+<http://dbpedia.org/resource/John_Moriarty_(Attorney_General)>	dbo:wikiPageWikiLink	dbr:Monocle .
+dbr:Onihime_VS	dbo:wikiPageWikiLink	dbr:Monocle .
+dbr:International_rankings_of_Hong_Kong	dbo:wikiPageWikiLink	dbr:Monocle .
+dbr:The_Yankee_Doodle_Mouse	dbo:wikiPageWikiLink	dbr:Monocle .
+dbr:List_of_ThunderCats_characters	dbo:wikiPageWikiLink	dbr:Monocle .
+dbr:Busytown	dbo:wikiPageWikiLink	dbr:Monocle .
+dbr:Weebl_and_Bob	dbo:wikiPageWikiLink	dbr:Monocle .
+dbr:Edgar_Bergen	dbo:wikiPageWikiLink	dbr:Monocle .
+dbr:Coal_Black_and_de_Sebben_Dwarfs	dbo:wikiPageWikiLink	dbr:Monocle .
+dbr:Pantsuit	dbo:wikiPageWikiLink	dbr:Monocle .
+dbr:Arkansas_Times	dbo:wikiPageWikiLink	dbr:Monocle .
+dbr:Caton_Theodorian	dbo:wikiPageWikiLink	dbr:Monocle .
+dbr:Eric_Macfadyen	dbo:wikiPageWikiLink	dbr:Monocle .
+dbr:Psmith	dbo:wikiPageWikiLink	dbr:Monocle .
+dbr:Galahad_Threepwood	dbo:wikiPageWikiLink	dbr:Monocle .
+dbr:Polandball	dbo:wikiPageWikiLink	dbr:Monocle .
+dbr:Optician	dbo:wikiPageWikiLink	dbr:Monocle .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Monocle	rdf:type	owl:Thing .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Monocle	rdfs:label	"Monokl"@cs ,
+		"Monokel"@de ,
+		"Monoklo"@eo ,
+		"Monokl"@pl ,
+		"Monocolo"@it ,
+		"Monokulo"@eu ,
+		"Mon\u00F3culo"@pt ,
+		"\uB2E8\uC548\uACBD"@ko ,
+		"Monocle"@en ,
+		"\u041C\u043E\u043D\u043E\u043A\u043B\u044C (\u043E\u0444\u0442\u0430\u043B\u044C\u043C\u043E\u043B\u043E\u0433\u0456\u044F)"@uk ,
+		"\u041C\u043E\u043D\u043E\u043A\u043B\u044C"@ru ,
+		"Monocle"@nl ,
+		"\u7247\u773C\u93E1"@ja ,
+		"Monocle"@ca ,
+		"Monocle"@fr ,
+		"Mon\u00F3culo"@es ,
+		"Monokel"@sv ,
+		"\u0646\u0638\u0627\u0631\u0629 \u0645\u0641\u0631\u062F\u0629"@ar ;
+	rdfs:comment	"Monokl je typ br\u00FDl\u00ED. Skl\u00E1d\u00E1 se z jedin\u00E9 \u010Do\u010Dky p\u0159ibli\u017En\u011B o pr\u016Fm\u011Bru lidsk\u00E9ho oka. Ta je \u010Dasto pro jednodu\u0161\u0161\u00ED manipulaci zasazena do tenk\u00E9ho r\u00E1mu, kter\u00FD je p\u0159ipojen prov\u00E1zkem \u010Di \u0159et\u00EDzkem k oble\u010Den\u00ED. V 21. stolet\u00ED jsou monokly ji\u017E pom\u011Brn\u011B archaickou z\u00E1le\u017Eitost\u00ED. Zn\u00E1m\u00FDmi u\u017Eivateli monoklu byli Fritz Lang, Erich von Stroheim, , Walter Model, Wilhelm Keitel nebo tak\u00E9 \u010De\u0161t\u00ED herci a here\u010Dky jako R\u016F\u017Eena \u0160lemrov\u00E1. Slovo monokl d\u00EDky vn\u011Bj\u0161\u00ED podobnosti tak\u00E9 slangov\u011B ozna\u010Duje podlitinu kolem oka."@cs ,
+		"Een monocle of oogglas is een halve bril, dat wil zeggen, een bril bestaande uit \u00E9\u00E9n glas en bedoeld voor \u00E9\u00E9n oog. Een monocle functioneert op dezelfde wijze als een bril, met het verschil dat ze niet op de neus wordt geplaatst en ook niet achter het oor wordt gehaakt. In feite bestaat een monocle uit een rond glas, dat afgestemd is op de noden van de slechtziende en waarrond een ring zit. Aan die ring is een touwtje bevestigd, dat men ofwel rond de nek kan hangen, ofwel ergens anders aan de kledij kan vasthaken, zodat de monocle in geval van loskomen niet op de grond terechtkomt. Men klemt de monocle tussen het jukbeen en de wenkbrauw."@nl ,
+		"Monokuloa begi baten ikusmena zuzentzeko leiar bakarra da, begi horren aurrean soilik jartzen dena. Lente biribil bat da, normalki kate edo metal batez inguratuta, eta azken hau soka edo kate batekin gorputzera lotuta, galtzea ekidinez.  antikuarioak Erroman monokuloa jantzi zuen 1720ko hamarkadan, antzinako objetuak hobe ikertu ahal izateko, baina monokuloa ez zen modan jarri gizonen artean XIX. menderar. 1790ko hamarkadan dandyen goi-mailako moda elementu gisa sartu zen jendartean."@eu ,
+		"Un mon\u00F3culo es un tipo de lente correctiva usada para ajustar la visi\u00F3n en un solo ojo, que consiste en una luneta circular con aumento. En muchos casos est\u00E1 enmarcada en un anillo de alambre que posee una cadenilla o cord\u00F3n que se sujeta a la ropa para evitar su p\u00E9rdida.El anticuario , hacia 1720 en Italia, usaba un mon\u00F3culo para examinar de cerca grabados y antiguos camafeos; sin embargo, este elemento no se convirti\u00F3 en un art\u00EDculo incorporado al vestuario masculino hasta entrado el siglo XIX. Su precursor inmediato fue el  de los dandis de la d\u00E9cada de 1790, el cual pose\u00EDa una montura con mango -generalmente ornada- y se sujetaba frente al ojo a modo de lupa o como los peque\u00F1os prism\u00E1ticos para teatro."@es ,
+		"\u0627\u0644\u0646\u0638\u0627\u0631\u0629 \u0627\u0644\u0645\u0641\u0631\u062F\u0629 \u0623\u0648 \u0627\u0644\u0645\u0648\u0646\u0648\u0643\u0644 (Monocle) \u0647\u064A \u0639\u062F\u0633\u0629 \u0645\u0641\u0631\u062F\u0629 \u062A\u0633\u062A\u062E\u062F\u0645 \u0644\u062A\u062D\u0633\u064A\u0646 \u0627\u0644\u0646\u0638\u0631, \u062D\u064A\u062B \u064A\u062A\u0643\u0648\u0646 \u0645\u0646 \u0639\u062F\u0633\u0629 \u0628\u0625\u0637\u0627\u0631 \u0623\u0648 \u0628\u062F\u0648\u0646 \u0625\u064A\u0637\u0627\u0631 \u0645\u062A\u0635\u0644\u0629 \u0628\u0633\u0644\u0633\u0644\u0629. \u0623\u0633\u062A\u062E\u062F\u0645 \u0627\u0644\u0645\u0648\u0646\u0648\u0643\u0644 \u0645\u0646\u0630 \u0632\u0645\u0646 \u0642\u062F\u064A\u0645 \u0648\u064A\u0642\u0627\u0644 \u0623\u0648\u0644 \u0645\u0646 \u0623\u0633\u062A\u062E\u062F\u0645\u0647 \u0647\u0648 \u0646\u064A\u0631\u0648\u0646. \u0623\u0633\u062A\u062E\u062F\u0645 \u0628\u0639\u0636 \u062C\u0646\u0631\u0627\u0644\u0627\u062A \u0627\u0644\u062C\u064A\u0634 \u0627\u0644\u0623\u0644\u0645\u0627\u0646\u064A \u0627\u0644\u0645\u0648\u0646\u0648\u0643\u0644 \u0648\u0643\u062B\u064A\u0631\u0627 \u0645\u0627 \u0643\u0627\u0646\u0648\u0627 \u064A\u0638\u0647\u0631\u0648\u0646 \u0628\u0628\u0632\u062A\u0647\u0645 \u0627\u0644\u0639\u0633\u0643\u0631\u064A\u0629 \u0648\u0627\u0644\u0635\u0648\u0644\u062C\u0627\u0646 \u062A\u062D\u062A \u0623\u0628\u0637\u0647\u0645 \u0648\u0627\u0644\u0645\u0648\u0646\u0648\u0643\u0644 \u0639\u0644\u0649 \u0639\u064A\u0646\u0647\u0645 \u0648\u0628\u0639\u0636\u0647\u0645 \u064A\u0633\u062A\u062E\u062F\u0645 \u0627\u0644\u0646\u0638\u0627\u0631\u0627\u062A \u0627\u0644\u0645\u0639\u062F\u0646\u064A\u0629 \u0630\u0627\u062A \u0627\u0644\u0625\u0637\u0627\u0631 \u0627\u0644\u0635\u063A\u064A\u0631."@ar ,
+		"Mon\u00F3culo \u00E9 um tipo de lente corretiva utilizados para corrigir a vis\u00E3o em apenas um olho. \u00C9 constitu\u00EDda por uma lente circular, geralmente com um fio ao redor da circunfer\u00EAncia do anel que pode ser associado a uma corda. A outra extremidade da corda \u00E9 ent\u00E3o ligada ao vestu\u00E1rio em uso para evitar a perda do mon\u00F3culo.A origem da palavra vem do grego: m\u00F3nos, \u00FAnico e do Latim: oculu, olho."@pt ,
+		"Monokl - przyrz\u0105d optyczny s\u0142u\u017C\u0105cy do korekty wad wzroku lub uzyskania okre\u015Blonego wygl\u0105du, rodzaj ozdoby. Jest to rodzaj okular\u00F3w na jedno oko, utrzymywanych na miejscu i we w\u0142a\u015Bciwej pozycji dzi\u0119ki ciasnemu osadzeniu w okolicy oczodo\u0142\u00F3w, tak, \u017Ce g\u00F3rna kraw\u0119d\u017A monokla oparta jest o \u0142uk brwiowy od jego wewn\u0119trznej strony, za\u015B dolna podtrzymywana jest przez fa\u0142dek sk\u00F3ry oczodo\u0142u. Monokl cz\u0119sto bywa\u0142 przymocowany na \u0142a\u0144cuszku do kieszeni kamizelki fraka, tzw. wizytki."@pl ,
+		"Un monocle est un unique verre de lunette circulaire entour\u00E9 d'une bague (en corne ou en m\u00E9tal) ou non cercl\u00E9, maintenu par simple pression entre l'arcade sourcili\u00E8re et le haut de la pommette. Il est souvent associ\u00E9 \u00E0 une cha\u00EEne reli\u00E9e aux habits du porteur permettant de ne pas le perdre et de le ranger dans une poche ; il sert \u00E0 corriger les probl\u00E8mes de vue, mais est aujourd'hui obsol\u00E8te. L'antiquaire  (en) porta un monocle \u00E0 Rome dans les ann\u00E9es 1720, afin de pouvoir examiner de pr\u00E8s les gravures et les inscriptions, mais le monocle n'est apparu en tant qu'attribut des gentlemen qu'\u00E0 partir du XIXe si\u00E8cle. Il fut introduit dans la mode \u00E0 travers la lorgnette des dandys des ann\u00E9es 1790."@fr ,
+		"\u041C\u043E\u043D\u043E\u0301\u043A\u043B\u044C (\u043E\u0442 \u0444\u0440. m\u043En\u043E\u0441le \u2190 \u043F\u043E\u0437\u0434\u043D\u0435\u043B\u0430\u0442. monoculus \u2190 \u0434\u0440.-\u0433\u0440\u0435\u0447. \u03BC\u03CC\u03BD\u03BF\u03C2 \u2018\u043E\u0434\u0438\u043D\u2019 + \u043B\u0430\u0442. oculus \u2018\u0433\u043B\u0430\u0437\u2019) \u2014 \u043E\u0434\u0438\u043D \u0438\u0437 \u0432\u0438\u0434\u043E\u0432 \u043E\u043F\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0445 \u043F\u0440\u0438\u0431\u043E\u0440\u043E\u0432 \u0434\u043B\u044F \u043A\u043E\u0440\u0440\u0435\u043A\u0446\u0438\u0438 \u0438\u043B\u0438 \u0443\u043B\u0443\u0447\u0448\u0435\u043D\u0438\u044F \u0437\u0440\u0435\u043D\u0438\u044F. \u0421\u043E\u0441\u0442\u043E\u0438\u0442 \u0438\u0437 \u043B\u0438\u043D\u0437\u044B, \u043A\u0430\u043A \u043F\u0440\u0430\u0432\u0438\u043B\u043E, \u0441 \u043E\u043F\u0440\u0430\u0432\u043E\u0439, \u043A \u043A\u043E\u0442\u043E\u0440\u043E\u0439 \u043C\u043E\u0436\u0435\u0442 \u0431\u044B\u0442\u044C \u043F\u0440\u0438\u043A\u0440\u0435\u043F\u043B\u0435\u043D\u0430 \u0446\u0435\u043F\u043E\u0447\u043A\u0430 \u0434\u043B\u044F \u0437\u0430\u043A\u0440\u0435\u043F\u043B\u0435\u043D\u0438\u044F \u043D\u0430 \u043E\u0434\u0435\u0436\u0434\u0435, \u0432\u043E \u0438\u0437\u0431\u0435\u0436\u0430\u043D\u0438\u0435 \u043F\u043E\u0442\u0435\u0440\u0438 \u043C\u043E\u043D\u043E\u043A\u043B\u044F."@ru ,
+		"Il monocolo (a volte chiamato anche caramella) \u00E8 un tipo di lente utilizzata per correggere o migliorare la vista di un solo occhio. \u00C8 costituito da una lente circolare, generalmente con una sottile montatura intorno alla circonferenza, che pu\u00F2 essere collegata ad un cordino. L'altra estremit\u00E0 del cordino \u00E8 poi collegato all'abbigliamento di chi indossa il monocolo, per evitare di perderlo. Si indossa, incastrandolo nell'orbita dell'occhio. L'antiquario Philipp von Stosch indossava un monocolo a Roma gi\u00E0 nel 1720, al fine di esaminare attentamente incisioni e gemme, ma il monocolo non diventer\u00E0 un accessorio di moda sino al diciannovesimo secolo. Sar\u00E0 infatti introdotto nella moda maschile verso il 1790 con l'arrivo del dandysmo. Il suo utilizzo spesso indicava lo stato sociale del suo ind"@it ,
+		"\uB2E8\uC548\uACBD(\u55AE\u773C\u93E1, \uC601\uC5B4: monocle) \uB610\uB294 \uC678\uC54C \uC548\uACBD\uC740 \uC54C\uC774 \uD558\uB098\uBFD0\uC778 \uC548\uACBD\uC758 \uC77C\uC885\uC774\uB2E4. \uC774\uB294 \uB465\uADFC \uB80C\uC988\uB85C \uB9CC\uB4E4\uC5B4\uC84C\uB294\uB370, \uBCF4\uD1B5 \uCCA0\uD14C\uAC00 \uB458\uB7EC\uC788\uACE0 \uB048\uB3C4 \uB2EC\uB824 \uC788\uB2E4. \uB048\uC758 \uD55C\uCABD \uB05D\uC740 \uC548\uACBD \uBD84\uC2E4\uC744 \uB9C9\uAE30 \uC704\uD574 \uC637\uC5D0 \uB2EC\uB824\uC788\uB294\uAC8C \uBCF4\uD1B5\uC774\uB2E4."@ko ,
+		"\u041C\u043E\u043D\u043E\u0301\u043A\u043B\u044C (\u0444\u0440. monocle, \u0437 \u0434\u0430\u0432.-\u0433\u0440. \u03BC\u03CC\u03BD\u03BF\u03C2 \u2014 \u00AB\u043E\u0434\u0438\u043D\u00BB \u0456 \u043B\u0430\u0442. oculus \u2014 \u00AB\u043E\u043A\u043E\u00BB) \u2014 \u043E\u0434\u0438\u043D \u0437 \u0432\u0438\u0434\u0456\u0432 \u043E\u043F\u0442\u0438\u0447\u043D\u0438\u0445 \u043F\u0440\u0438\u043B\u0430\u0434\u0456\u0432 \u0434\u043B\u044F \u043A\u043E\u0440\u0435\u043A\u0446\u0456\u0457 \u0430\u0431\u043E \u043F\u043E\u043B\u0456\u043F\u0448\u0435\u043D\u043D\u044F \u0437\u043E\u0440\u0443. \u0421\u043A\u043B\u0430\u0434\u0430\u0454\u0442\u044C\u0441\u044F \u0437 \u043B\u0456\u043D\u0437\u0438, \u044F\u043A \u043F\u0440\u0430\u0432\u0438\u043B\u043E \u0437 \u043E\u043F\u0440\u0430\u0432\u043E\u044E, \u0434\u043E \u044F\u043A\u043E\u0457 \u043C\u043E\u0436\u0435 \u0431\u0443\u0442\u0438 \u043F\u0440\u0438\u043A\u0440\u0456\u043F\u043B\u0435\u043D\u0438\u0439 \u043B\u0430\u043D\u0446\u044E\u0436\u043E\u043A \u0434\u043B\u044F \u0437\u0430\u043A\u0440\u0456\u043F\u043B\u0435\u043D\u043D\u044F \u043D\u0430 \u043E\u0434\u044F\u0437\u0456, \u0449\u043E\u0431 \u0443\u043D\u0438\u043A\u043D\u0443\u0442\u0438 \u0432\u0442\u0440\u0430\u0442\u0438 \u043C\u043E\u043D\u043E\u043A\u043B\u044F. \u041C\u043E\u043D\u043E\u043A\u043B\u044C \u043D\u043E\u0441\u0438\u0432\u0441\u044F \u0432 \u043A\u0438\u0448\u0435\u043D\u0456 \u0436\u0438\u043B\u0435\u0442\u0430. \u0414\u043B\u044F \u0432\u0438\u043A\u043E\u0440\u0438\u0441\u0442\u0430\u043D\u043D\u044F \u0432\u0456\u043D \u0432\u0441\u0442\u0430\u0432\u043B\u044F\u0432\u0441\u044F \u0432 \u043E\u0447\u043D\u0443 \u0437\u0430\u043F\u0430\u0434\u0438\u043D\u0443 \u0456 \u0437\u0430\u0442\u0438\u0441\u043A\u0430\u0432\u0441\u044F \u043C\u0456\u0436 \u0431\u0440\u043E\u0432\u043E\u044E \u0456 \u0449\u043E\u043A\u043E\u044E."@uk ,
+		"Un monocle \u00E9s un tipus de lent correctiva usada per ajustar la visi\u00F3 en un sol ull, que consisteix en un vidre circular amb certa graduaci\u00F3. En molts casos emmarcat per un anell met\u00E0l\u00B7lic que t\u00E9 una cadeneta o cord\u00F3 amb el qual es pot subjectar a algun lloc (p.e. la roba) per tal d'evitar-ne la p\u00E8rdua.L'antiquari , cap al 1720 a It\u00E0lia, usava un monocle per examinar de prop gravats i antics camafeus, per\u00F2 aquest element no va esdevenir un article incorporat al vestuari mascul\u00ED fins entrat el segle XX. El seu precursor immediat va ser el  dels dandis de la d\u00E8cada de 1790, el qual posse\u00EFa una muntura amb m\u00E0nec-generalment ornada-i se subjectava enfront de l'ull a manera de lupa o com els petits prism\u00E0tics per a teatre."@ca ,
+		"Das Monokel, auch Einglas genannt, ist eine Sehhilfe, die im Gegensatz zur heute verwendeten Brille (\u201EBinokel\u201C, Lorgnette) aus nur einem Glas besteht und am Auge eingeklemmt wird (im Gegensatz zum Einglas mit Stiel). Das im Deutschen verwendete Wort Monokel wurde im 19. Jahrhundert aus dem gleichbedeutenden franz\u00F6sischen Wort monocle entlehnt, entstand aber urspr\u00FCnglich als zweisprachiges Kunstwort aus altgriechisch \u03BC\u03CC\u03BD\u03BF\u03C2 monos f\u00FCr \u201Eallein, einzig\u201C und lateinisch oculus f\u00FCr \u201EAuge\u201C."@de ,
+		"Unulensa objektivo (unuokulvitro) estas la plej simpla objektivo, kiu konsistas el unu kuniga lenso. Monoklo havas \u0109iujn aberaciojn. \u011Cia bildo estas sufi\u0109e malakra, precipe \u0109e la randoj."@eo ,
+		"A monocle is a type of corrective lens used to correct or enhance the visual perception in only one eye. It consists of a circular lens, generally with a wire ring around the circumference that can be attached to a string or wire. The other end of the string is then connected to the wearer's clothing to avoid losing the monocle. The antiquarian Philipp von Stosch wore a monocle in Rome in the 1720s, in order to closely examine engravings and antique engraved gems, but the monocle did not become an article of gentlemen's apparel until the 19th century. It was introduced by the dandy's quizzing glass of the 1790s, as an article of high fashion."@en ,
+		"En monokel \u00E4r ett ensamt korrektionsglas som f\u00E4sts framf\u00F6r ena \u00F6gat och b\u00E4rs fastkl\u00E4mt i \u00F6gonvr\u00E5n. Monokeln best\u00E5r vanligen endast av en lins med r\u00E4fflad kant men kan ocks\u00E5 f\u00F6rses med en upph\u00F6jd metallkant f\u00F6r b\u00E4ttre tillpassning. Eftersom en monokel l\u00E4tt kan tappas \u00E4r den ofta f\u00E4st vid b\u00E4rarens kl\u00E4der med en snodd. I dag anv\u00E4nds monoklar n\u00E4stan aldrig, men i komik och satir \u00E4r de ett vanligt aristokratiskt attribut. Monokeln kom redan p\u00E5 1700-talet."@sv ,
+		"\u7247\u773C\u93E1\uFF08\u304B\u305F\u3081\u304C\u306D\uFF09\u3068\u306F\u3001\u773C\u93E1\u306E\u4E00\u7A2E\u3067\u3001\u7247\u76EE\u3067\u306E\u4F7F\u7528\u3092\u524D\u63D0\u3068\u3057\u305F\u5358\u4E00\u30EC\u30F3\u30BA\u306E\u8996\u529B\u77EF\u6B63\u5668\u5177\u3067\u3042\u308B\u3002\u5225\u540D\u3067\u306F\u30E2\u30CE\u30AF\u30EB\uFF08\u82F1: monocle\uFF09\u3068\u547C\u3070\u308C\u308B\u3002"@ja ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Chamberlain.jpg> ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Monocle .
+@prefix dct:	<http://purl.org/dc/terms/> .
+dbr:Monocle	dct:subject	<http://dbpedia.org/resource/Category:1830s_fashion> ,
+		<http://dbpedia.org/resource/Category:20th-century_fashion> ,
+		<http://dbpedia.org/resource/Category:1890s_fashion> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Monocle	dct:subject	dbc:Eyewear ,
+		<http://dbpedia.org/resource/Category:19th-century_fashion> ,
+		dbc:Corrective_lenses .
+@prefix ns9:	<http://d-nb.info/gnd/7683844-4/about/> .
+dbr:Monocle	owl:sameAs	ns9:rdf ,
+		<http://ar.dbpedia.org/resource/\u0646\u0638\u0627\u0631\u0629_\u0645\u0641\u0631\u062F\u0629> .
+@prefix dbpedia-sv:	<http://sv.dbpedia.org/resource/> .
+dbr:Monocle	owl:sameAs	dbpedia-sv:Monokel ,
+		<http://tr.dbpedia.org/resource/Tek_g\u00F6zl\u00FCk> .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Monocle	owl:sameAs	dbpedia-it:Monocolo ,
+		<http://uk.dbpedia.org/resource/\u041C\u043E\u043D\u043E\u043A\u043B\u044C_(\u043E\u0444\u0442\u0430\u043B\u044C\u043C\u043E\u043B\u043E\u0433\u0456\u044F)> ,
+		<http://he.dbpedia.org/resource/\u05DE\u05D5\u05E0\u05D5\u05E7\u05DC> ,
+		dbr:Monocle ,
+		<http://pt.dbpedia.org/resource/Mon\u00F3culo> .
+@prefix dbpedia-fi:	<http://fi.dbpedia.org/resource/> .
+dbr:Monocle	owl:sameAs	dbpedia-fi:Monokkeli .
+@prefix dbpedia-no:	<http://no.dbpedia.org/resource/> .
+dbr:Monocle	owl:sameAs	dbpedia-no:Monokkel .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Monocle	owl:sameAs	dbpedia-pl:Monokl .
+@prefix dbpedia-io:	<http://io.dbpedia.org/resource/> .
+dbr:Monocle	owl:sameAs	dbpedia-io:Monoklo .
+@prefix dbpedia-simple:	<http://simple.dbpedia.org/resource/> .
+dbr:Monocle	owl:sameAs	dbpedia-simple:Monocle ,
+		<http://ka.dbpedia.org/resource/\u10DB\u10DD\u10DC\u10DD\u10D9\u10DA\u10D8_(\u10DD\u10DE\u10E2\u10D8\u10D9\u10D0)> ,
+		<http://d-nb.info/gnd/7683844-4> .
+@prefix dbpedia-bar:	<http://bar.dbpedia.org/resource/> .
+dbr:Monocle	owl:sameAs	dbpedia-bar:Monokl ,
+		<http://cv.dbpedia.org/resource/\u041C\u043E\u043D\u043E\u043A\u043B\u044C> .
+@prefix dbpedia-et:	<http://et.dbpedia.org/resource/> .
+dbr:Monocle	owl:sameAs	dbpedia-et:Monokkel ,
+		<http://fa.dbpedia.org/resource/\u0645\u0648\u0646\u0648\u06A9\u0644> ,
+		<http://es.dbpedia.org/resource/Mon\u00F3culo> .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Monocle	owl:sameAs	dbpedia-fr:Monocle ,
+		<http://bg.dbpedia.org/resource/\u041C\u043E\u043D\u043E\u043A\u044A\u043B> .
+@prefix dbpedia-cs:	<http://cs.dbpedia.org/resource/> .
+dbr:Monocle	owl:sameAs	dbpedia-cs:Monokl .
+@prefix dbpedia-ro:	<http://ro.dbpedia.org/resource/> .
+dbr:Monocle	owl:sameAs	dbpedia-ro:Monoclu .
+@prefix dbpedia-da:	<http://da.dbpedia.org/resource/> .
+dbr:Monocle	owl:sameAs	dbpedia-da:Monokel .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Monocle	owl:sameAs	wikidata:Q12721 ,
+		<http://ja.dbpedia.org/resource/\u7247\u773C\u93E1> .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Monocle	owl:sameAs	dbpedia-de:Monokel ,
+		<http://rdf.freebase.com/ns/m.0255d2> .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Monocle	owl:sameAs	dbpedia-nl:Monocle .
+@prefix dbpedia-af:	<http://af.dbpedia.org/resource/> .
+dbr:Monocle	owl:sameAs	dbpedia-af:Monokel .
+@prefix dbpedia-eo:	<http://eo.dbpedia.org/resource/> .
+dbr:Monocle	owl:sameAs	dbpedia-eo:Monoklo .
+@prefix ns28:	<https://global.dbpedia.org/id/> .
+dbr:Monocle	owl:sameAs	ns28:JFfC ,
+		<http://ko.dbpedia.org/resource/\uB2E8\uC548\uACBD> .
+@prefix dbpedia-ca:	<http://ca.dbpedia.org/resource/> .
+dbr:Monocle	owl:sameAs	dbpedia-ca:Monocle .
+@prefix dbpedia-eu:	<http://eu.dbpedia.org/resource/> .
+dbr:Monocle	owl:sameAs	dbpedia-eu:Monokulo .
+@prefix dbpedia-nn:	<http://nn.dbpedia.org/resource/> .
+dbr:Monocle	owl:sameAs	dbpedia-nn:Monokkel ,
+		<http://ru.dbpedia.org/resource/\u041C\u043E\u043D\u043E\u043A\u043B\u044C> ,
+		<http://sr.dbpedia.org/resource/\u041C\u043E\u043D\u043E\u043A\u043B> ;
+	dbo:abstract	"\uB2E8\uC548\uACBD(\u55AE\u773C\u93E1, \uC601\uC5B4: monocle) \uB610\uB294 \uC678\uC54C \uC548\uACBD\uC740 \uC54C\uC774 \uD558\uB098\uBFD0\uC778 \uC548\uACBD\uC758 \uC77C\uC885\uC774\uB2E4. \uC774\uB294 \uB465\uADFC \uB80C\uC988\uB85C \uB9CC\uB4E4\uC5B4\uC84C\uB294\uB370, \uBCF4\uD1B5 \uCCA0\uD14C\uAC00 \uB458\uB7EC\uC788\uACE0 \uB048\uB3C4 \uB2EC\uB824 \uC788\uB2E4. \uB048\uC758 \uD55C\uCABD \uB05D\uC740 \uC548\uACBD \uBD84\uC2E4\uC744 \uB9C9\uAE30 \uC704\uD574 \uC637\uC5D0 \uB2EC\uB824\uC788\uB294\uAC8C \uBCF4\uD1B5\uC774\uB2E4."@ko ,
+		"Das Monokel, auch Einglas genannt, ist eine Sehhilfe, die im Gegensatz zur heute verwendeten Brille (\u201EBinokel\u201C, Lorgnette) aus nur einem Glas besteht und am Auge eingeklemmt wird (im Gegensatz zum Einglas mit Stiel). Das Monokel entwickelte sich aus dem Lesestein, einer geschliffenen Linse aus Quarz, besonders Bergkristall, oder Beryll, daher das deutsche Wort Brille. Dieser wurde zum Vergr\u00F6\u00DFern direkt auf das Schriftst\u00FCck gelegt. Ab dem 14. Jahrhundert wurde die Linse vors Auge gehalten. Im 16. Jahrhundert entstand die Idee, die Linse durch den Augenlidmuskel direkt vor dem Auge festzuklemmen, um beide H\u00E4nde frei zu haben. Das im Deutschen verwendete Wort Monokel wurde im 19. Jahrhundert aus dem gleichbedeutenden franz\u00F6sischen Wort monocle entlehnt, entstand aber urspr\u00FCnglich als zweisprachiges Kunstwort aus altgriechisch \u03BC\u03CC\u03BD\u03BF\u03C2 monos f\u00FCr \u201Eallein, einzig\u201C und lateinisch oculus f\u00FCr \u201EAuge\u201C."@de ,
+		"A monocle is a type of corrective lens used to correct or enhance the visual perception in only one eye. It consists of a circular lens, generally with a wire ring around the circumference that can be attached to a string or wire. The other end of the string is then connected to the wearer's clothing to avoid losing the monocle. The antiquarian Philipp von Stosch wore a monocle in Rome in the 1720s, in order to closely examine engravings and antique engraved gems, but the monocle did not become an article of gentlemen's apparel until the 19th century. It was introduced by the dandy's quizzing glass of the 1790s, as an article of high fashion."@en ,
+		"Un monocle \u00E9s un tipus de lent correctiva usada per ajustar la visi\u00F3 en un sol ull, que consisteix en un vidre circular amb certa graduaci\u00F3. En molts casos emmarcat per un anell met\u00E0l\u00B7lic que t\u00E9 una cadeneta o cord\u00F3 amb el qual es pot subjectar a algun lloc (p.e. la roba) per tal d'evitar-ne la p\u00E8rdua.L'antiquari , cap al 1720 a It\u00E0lia, usava un monocle per examinar de prop gravats i antics camafeus, per\u00F2 aquest element no va esdevenir un article incorporat al vestuari mascul\u00ED fins entrat el segle XX. El seu precursor immediat va ser el  dels dandis de la d\u00E8cada de 1790, el qual posse\u00EFa una muntura amb m\u00E0nec-generalment ornada-i se subjectava enfront de l'ull a manera de lupa o com els petits prism\u00E0tics per a teatre."@ca ,
+		"Mon\u00F3culo \u00E9 um tipo de lente corretiva utilizados para corrigir a vis\u00E3o em apenas um olho. \u00C9 constitu\u00EDda por uma lente circular, geralmente com um fio ao redor da circunfer\u00EAncia do anel que pode ser associado a uma corda. A outra extremidade da corda \u00E9 ent\u00E3o ligada ao vestu\u00E1rio em uso para evitar a perda do mon\u00F3culo.A origem da palavra vem do grego: m\u00F3nos, \u00FAnico e do Latim: oculu, olho. N\u00E3o se sabe ao certo a real data em que o mon\u00F3culo foi criado, pois \u00E9 uma inven\u00E7\u00E3o bem antiga e pouco utilizada devido ao fato de que \u00E9 pequeno o n\u00FAmero de pessoas com miopia em um globo ocular, mas estima-se que foi entre o s\u00E9culo XVIII e XIX. Um monge chamado Roger Bacon, que viveu aproximadamente entre 1214 e 1294, (s\u00E9culo XIII), na obra mais cient\u00EDfica elaborada na \u00E9poca Opus majus referente as leis da refra\u00E7\u00E3o e reflex\u00E3o da luz e descreve o uso de lentes para corrigir os defeitos de vis\u00E3o. Essas lentes foram usadas durante v\u00E1rios s\u00E9culos, inicialmente pelos monges copistas ou tradutores. O mais pr\u00F3ximo que se conhece dos \u00F3culos de Bacon, \u00E9 de um parente dos \u00F3culos atuais que encontra-se num fresco em Treviso, representando um desses elementos do clero Tommaso da Modena, em 1352."@pt ,
+		"Un monocle est un unique verre de lunette circulaire entour\u00E9 d'une bague (en corne ou en m\u00E9tal) ou non cercl\u00E9, maintenu par simple pression entre l'arcade sourcili\u00E8re et le haut de la pommette. Il est souvent associ\u00E9 \u00E0 une cha\u00EEne reli\u00E9e aux habits du porteur permettant de ne pas le perdre et de le ranger dans une poche ; il sert \u00E0 corriger les probl\u00E8mes de vue, mais est aujourd'hui obsol\u00E8te. L'antiquaire  (en) porta un monocle \u00E0 Rome dans les ann\u00E9es 1720, afin de pouvoir examiner de pr\u00E8s les gravures et les inscriptions, mais le monocle n'est apparu en tant qu'attribut des gentlemen qu'\u00E0 partir du XIXe si\u00E8cle. Il fut introduit dans la mode \u00E0 travers la lorgnette des dandys des ann\u00E9es 1790. Le monocle \u00E9tait \u00E0 l'origine mont\u00E9 sur un manche et pouvait \u00EAtre \u00E9quip\u00E9 d'un anneau pour y engager un doigt, tel le lancetier sous Louis XV."@fr ,
+		"Il monocolo (a volte chiamato anche caramella) \u00E8 un tipo di lente utilizzata per correggere o migliorare la vista di un solo occhio. \u00C8 costituito da una lente circolare, generalmente con una sottile montatura intorno alla circonferenza, che pu\u00F2 essere collegata ad un cordino. L'altra estremit\u00E0 del cordino \u00E8 poi collegato all'abbigliamento di chi indossa il monocolo, per evitare di perderlo. Si indossa, incastrandolo nell'orbita dell'occhio. L'antiquario Philipp von Stosch indossava un monocolo a Roma gi\u00E0 nel 1720, al fine di esaminare attentamente incisioni e gemme, ma il monocolo non diventer\u00E0 un accessorio di moda sino al diciannovesimo secolo. Sar\u00E0 infatti introdotto nella moda maschile verso il 1790 con l'arrivo del dandysmo. Il suo utilizzo spesso indicava lo stato sociale del suo indossatore, o semplicemente era una forma di eleganza e per tale motivo divenne spesso principale oggetto di caricatura. Fu parzialmente adottato all'inizio del Novecento anche dalle donne, ma con il tempo il suo utilizzo \u00E8 stato quasi completamente abbandonato."@it ,
+		"\u041C\u043E\u043D\u043E\u0301\u043A\u043B\u044C (\u043E\u0442 \u0444\u0440. m\u043En\u043E\u0441le \u2190 \u043F\u043E\u0437\u0434\u043D\u0435\u043B\u0430\u0442. monoculus \u2190 \u0434\u0440.-\u0433\u0440\u0435\u0447. \u03BC\u03CC\u03BD\u03BF\u03C2 \u2018\u043E\u0434\u0438\u043D\u2019 + \u043B\u0430\u0442. oculus \u2018\u0433\u043B\u0430\u0437\u2019) \u2014 \u043E\u0434\u0438\u043D \u0438\u0437 \u0432\u0438\u0434\u043E\u0432 \u043E\u043F\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0445 \u043F\u0440\u0438\u0431\u043E\u0440\u043E\u0432 \u0434\u043B\u044F \u043A\u043E\u0440\u0440\u0435\u043A\u0446\u0438\u0438 \u0438\u043B\u0438 \u0443\u043B\u0443\u0447\u0448\u0435\u043D\u0438\u044F \u0437\u0440\u0435\u043D\u0438\u044F. \u0421\u043E\u0441\u0442\u043E\u0438\u0442 \u0438\u0437 \u043B\u0438\u043D\u0437\u044B, \u043A\u0430\u043A \u043F\u0440\u0430\u0432\u0438\u043B\u043E, \u0441 \u043E\u043F\u0440\u0430\u0432\u043E\u0439, \u043A \u043A\u043E\u0442\u043E\u0440\u043E\u0439 \u043C\u043E\u0436\u0435\u0442 \u0431\u044B\u0442\u044C \u043F\u0440\u0438\u043A\u0440\u0435\u043F\u043B\u0435\u043D\u0430 \u0446\u0435\u043F\u043E\u0447\u043A\u0430 \u0434\u043B\u044F \u0437\u0430\u043A\u0440\u0435\u043F\u043B\u0435\u043D\u0438\u044F \u043D\u0430 \u043E\u0434\u0435\u0436\u0434\u0435, \u0432\u043E \u0438\u0437\u0431\u0435\u0436\u0430\u043D\u0438\u0435 \u043F\u043E\u0442\u0435\u0440\u0438 \u043C\u043E\u043D\u043E\u043A\u043B\u044F."@ru ,
+		"Monokl - przyrz\u0105d optyczny s\u0142u\u017C\u0105cy do korekty wad wzroku lub uzyskania okre\u015Blonego wygl\u0105du, rodzaj ozdoby. Jest to rodzaj okular\u00F3w na jedno oko, utrzymywanych na miejscu i we w\u0142a\u015Bciwej pozycji dzi\u0119ki ciasnemu osadzeniu w okolicy oczodo\u0142\u00F3w, tak, \u017Ce g\u00F3rna kraw\u0119d\u017A monokla oparta jest o \u0142uk brwiowy od jego wewn\u0119trznej strony, za\u015B dolna podtrzymywana jest przez fa\u0142dek sk\u00F3ry oczodo\u0142u. Monokl cz\u0119sto bywa\u0142 przymocowany na \u0142a\u0144cuszku do kieszeni kamizelki fraka, tzw. wizytki."@pl ,
+		"\u041C\u043E\u043D\u043E\u0301\u043A\u043B\u044C (\u0444\u0440. monocle, \u0437 \u0434\u0430\u0432.-\u0433\u0440. \u03BC\u03CC\u03BD\u03BF\u03C2 \u2014 \u00AB\u043E\u0434\u0438\u043D\u00BB \u0456 \u043B\u0430\u0442. oculus \u2014 \u00AB\u043E\u043A\u043E\u00BB) \u2014 \u043E\u0434\u0438\u043D \u0437 \u0432\u0438\u0434\u0456\u0432 \u043E\u043F\u0442\u0438\u0447\u043D\u0438\u0445 \u043F\u0440\u0438\u043B\u0430\u0434\u0456\u0432 \u0434\u043B\u044F \u043A\u043E\u0440\u0435\u043A\u0446\u0456\u0457 \u0430\u0431\u043E \u043F\u043E\u043B\u0456\u043F\u0448\u0435\u043D\u043D\u044F \u0437\u043E\u0440\u0443. \u0421\u043A\u043B\u0430\u0434\u0430\u0454\u0442\u044C\u0441\u044F \u0437 \u043B\u0456\u043D\u0437\u0438, \u044F\u043A \u043F\u0440\u0430\u0432\u0438\u043B\u043E \u0437 \u043E\u043F\u0440\u0430\u0432\u043E\u044E, \u0434\u043E \u044F\u043A\u043E\u0457 \u043C\u043E\u0436\u0435 \u0431\u0443\u0442\u0438 \u043F\u0440\u0438\u043A\u0440\u0456\u043F\u043B\u0435\u043D\u0438\u0439 \u043B\u0430\u043D\u0446\u044E\u0436\u043E\u043A \u0434\u043B\u044F \u0437\u0430\u043A\u0440\u0456\u043F\u043B\u0435\u043D\u043D\u044F \u043D\u0430 \u043E\u0434\u044F\u0437\u0456, \u0449\u043E\u0431 \u0443\u043D\u0438\u043A\u043D\u0443\u0442\u0438 \u0432\u0442\u0440\u0430\u0442\u0438 \u043C\u043E\u043D\u043E\u043A\u043B\u044F. \u041C\u043E\u043D\u043E\u043A\u043B\u044C \u043D\u043E\u0441\u0438\u0432\u0441\u044F \u0432 \u043A\u0438\u0448\u0435\u043D\u0456 \u0436\u0438\u043B\u0435\u0442\u0430. \u0414\u043B\u044F \u0432\u0438\u043A\u043E\u0440\u0438\u0441\u0442\u0430\u043D\u043D\u044F \u0432\u0456\u043D \u0432\u0441\u0442\u0430\u0432\u043B\u044F\u0432\u0441\u044F \u0432 \u043E\u0447\u043D\u0443 \u0437\u0430\u043F\u0430\u0434\u0438\u043D\u0443 \u0456 \u0437\u0430\u0442\u0438\u0441\u043A\u0430\u0432\u0441\u044F \u043C\u0456\u0436 \u0431\u0440\u043E\u0432\u043E\u044E \u0456 \u0449\u043E\u043A\u043E\u044E."@uk ,
+		"Monokuloa begi baten ikusmena zuzentzeko leiar bakarra da, begi horren aurrean soilik jartzen dena. Lente biribil bat da, normalki kate edo metal batez inguratuta, eta azken hau soka edo kate batekin gorputzera lotuta, galtzea ekidinez.  antikuarioak Erroman monokuloa jantzi zuen 1720ko hamarkadan, antzinako objetuak hobe ikertu ahal izateko, baina monokuloa ez zen modan jarri gizonen artean XIX. menderar. 1790ko hamarkadan dandyen goi-mailako moda elementu gisa sartu zen jendartean."@eu ,
+		"Un mon\u00F3culo es un tipo de lente correctiva usada para ajustar la visi\u00F3n en un solo ojo, que consiste en una luneta circular con aumento. En muchos casos est\u00E1 enmarcada en un anillo de alambre que posee una cadenilla o cord\u00F3n que se sujeta a la ropa para evitar su p\u00E9rdida.El anticuario , hacia 1720 en Italia, usaba un mon\u00F3culo para examinar de cerca grabados y antiguos camafeos; sin embargo, este elemento no se convirti\u00F3 en un art\u00EDculo incorporado al vestuario masculino hasta entrado el siglo XIX. Su precursor inmediato fue el  de los dandis de la d\u00E9cada de 1790, el cual pose\u00EDa una montura con mango -generalmente ornada- y se sujetaba frente al ojo a modo de lupa o como los peque\u00F1os prism\u00E1ticos para teatro."@es ,
+		"\u0627\u0644\u0646\u0638\u0627\u0631\u0629 \u0627\u0644\u0645\u0641\u0631\u062F\u0629 \u0623\u0648 \u0627\u0644\u0645\u0648\u0646\u0648\u0643\u0644 (Monocle) \u0647\u064A \u0639\u062F\u0633\u0629 \u0645\u0641\u0631\u062F\u0629 \u062A\u0633\u062A\u062E\u062F\u0645 \u0644\u062A\u062D\u0633\u064A\u0646 \u0627\u0644\u0646\u0638\u0631, \u062D\u064A\u062B \u064A\u062A\u0643\u0648\u0646 \u0645\u0646 \u0639\u062F\u0633\u0629 \u0628\u0625\u0637\u0627\u0631 \u0623\u0648 \u0628\u062F\u0648\u0646 \u0625\u064A\u0637\u0627\u0631 \u0645\u062A\u0635\u0644\u0629 \u0628\u0633\u0644\u0633\u0644\u0629. \u0623\u0633\u062A\u062E\u062F\u0645 \u0627\u0644\u0645\u0648\u0646\u0648\u0643\u0644 \u0645\u0646\u0630 \u0632\u0645\u0646 \u0642\u062F\u064A\u0645 \u0648\u064A\u0642\u0627\u0644 \u0623\u0648\u0644 \u0645\u0646 \u0623\u0633\u062A\u062E\u062F\u0645\u0647 \u0647\u0648 \u0646\u064A\u0631\u0648\u0646. \u0623\u0633\u062A\u062E\u062F\u0645 \u0628\u0639\u0636 \u062C\u0646\u0631\u0627\u0644\u0627\u062A \u0627\u0644\u062C\u064A\u0634 \u0627\u0644\u0623\u0644\u0645\u0627\u0646\u064A \u0627\u0644\u0645\u0648\u0646\u0648\u0643\u0644 \u0648\u0643\u062B\u064A\u0631\u0627 \u0645\u0627 \u0643\u0627\u0646\u0648\u0627 \u064A\u0638\u0647\u0631\u0648\u0646 \u0628\u0628\u0632\u062A\u0647\u0645 \u0627\u0644\u0639\u0633\u0643\u0631\u064A\u0629 \u0648\u0627\u0644\u0635\u0648\u0644\u062C\u0627\u0646 \u062A\u062D\u062A \u0623\u0628\u0637\u0647\u0645 \u0648\u0627\u0644\u0645\u0648\u0646\u0648\u0643\u0644 \u0639\u0644\u0649 \u0639\u064A\u0646\u0647\u0645 \u0648\u0628\u0639\u0636\u0647\u0645 \u064A\u0633\u062A\u062E\u062F\u0645 \u0627\u0644\u0646\u0638\u0627\u0631\u0627\u062A \u0627\u0644\u0645\u0639\u062F\u0646\u064A\u0629 \u0630\u0627\u062A \u0627\u0644\u0625\u0637\u0627\u0631 \u0627\u0644\u0635\u063A\u064A\u0631."@ar ,
+		"Unulensa objektivo (unuokulvitro) estas la plej simpla objektivo, kiu konsistas el unu kuniga lenso. Monoklo havas \u0109iujn aberaciojn. \u011Cia bildo estas sufi\u0109e malakra, precipe \u0109e la randoj."@eo ,
+		"Monokl je typ br\u00FDl\u00ED. Skl\u00E1d\u00E1 se z jedin\u00E9 \u010Do\u010Dky p\u0159ibli\u017En\u011B o pr\u016Fm\u011Bru lidsk\u00E9ho oka. Ta je \u010Dasto pro jednodu\u0161\u0161\u00ED manipulaci zasazena do tenk\u00E9ho r\u00E1mu, kter\u00FD je p\u0159ipojen prov\u00E1zkem \u010Di \u0159et\u00EDzkem k oble\u010Den\u00ED. V 21. stolet\u00ED jsou monokly ji\u017E pom\u011Brn\u011B archaickou z\u00E1le\u017Eitost\u00ED. Zn\u00E1m\u00FDmi u\u017Eivateli monoklu byli Fritz Lang, Erich von Stroheim, , Walter Model, Wilhelm Keitel nebo tak\u00E9 \u010De\u0161t\u00ED herci a here\u010Dky jako R\u016F\u017Eena \u0160lemrov\u00E1. Slovo monokl d\u00EDky vn\u011Bj\u0161\u00ED podobnosti tak\u00E9 slangov\u011B ozna\u010Duje podlitinu kolem oka."@cs ,
+		"En monokel \u00E4r ett ensamt korrektionsglas som f\u00E4sts framf\u00F6r ena \u00F6gat och b\u00E4rs fastkl\u00E4mt i \u00F6gonvr\u00E5n. Monokeln best\u00E5r vanligen endast av en lins med r\u00E4fflad kant men kan ocks\u00E5 f\u00F6rses med en upph\u00F6jd metallkant f\u00F6r b\u00E4ttre tillpassning. Eftersom en monokel l\u00E4tt kan tappas \u00E4r den ofta f\u00E4st vid b\u00E4rarens kl\u00E4der med en snodd. I dag anv\u00E4nds monoklar n\u00E4stan aldrig, men i komik och satir \u00E4r de ett vanligt aristokratiskt attribut. Monokeln kom redan p\u00E5 1700-talet."@sv ,
+		"Een monocle of oogglas is een halve bril, dat wil zeggen, een bril bestaande uit \u00E9\u00E9n glas en bedoeld voor \u00E9\u00E9n oog. Een monocle functioneert op dezelfde wijze als een bril, met het verschil dat ze niet op de neus wordt geplaatst en ook niet achter het oor wordt gehaakt. In feite bestaat een monocle uit een rond glas, dat afgestemd is op de noden van de slechtziende en waarrond een ring zit. Aan die ring is een touwtje bevestigd, dat men ofwel rond de nek kan hangen, ofwel ergens anders aan de kledij kan vasthaken, zodat de monocle in geval van loskomen niet op de grond terechtkomt. Men klemt de monocle tussen het jukbeen en de wenkbrauw. De monocle is sinds medio twintigste eeuw uit de mode geraakt; mensen die slechts aan \u00E9\u00E9n oog problemen hebben, verkiezen veelal toch een bril te dragen, waarvan dan slechts \u00E9\u00E9n glas werkzaam is. Misschien is de aristocratische connotatie die met het oogglas verbonden is een van de redenen voor het uit zwang geraken \u2014 dit verklaart echter niet waarom de monocle niet populair is onder snobs, of in omstandigheden waarin uiterlijk vertoon gewenst zou zijn. Vermoedelijk wordt de monocle als minder gebruiksvriendelijk dan de bril ervaren. De bekendste monocledrager aller tijden en tevens de eerste persoon van wie we weten dat hij een soort monocle gebruikte, is wellicht Nero Claudius Caesar Augustus Germanicus (beter bekend als keizer Nero), die door een smaragd keek om de gladiatorengevechten te kunnen zien.Heden ten dage zijn bekende monocledragers zeldzaam; tot het begin van de 21e eeuw was Baron van Neemweggen in de TV-kinderserie van Bassie en Adriaan wellicht een van de bekendere dragers. Andere uitzonderingen zijn de Britse astronoom en televisievedette Sir Patrick Moore, de voormalige bokser Chris Eubank en de Penguin uit de Batmanserie van DC comics. De monocle is tevens de naam van een vlek rondom het oog van een hond."@nl ,
+		"\u7247\u773C\u93E1\uFF08\u304B\u305F\u3081\u304C\u306D\uFF09\u3068\u306F\u3001\u773C\u93E1\u306E\u4E00\u7A2E\u3067\u3001\u7247\u76EE\u3067\u306E\u4F7F\u7528\u3092\u524D\u63D0\u3068\u3057\u305F\u5358\u4E00\u30EC\u30F3\u30BA\u306E\u8996\u529B\u77EF\u6B63\u5668\u5177\u3067\u3042\u308B\u3002\u5225\u540D\u3067\u306F\u30E2\u30CE\u30AF\u30EB\uFF08\u82F1: monocle\uFF09\u3068\u547C\u3070\u308C\u308B\u3002"@ja .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Monocle	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Monocle?oldid=983791919&ns=0> ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Chamberlain.jpg?width=300> ;
+	dbo:wikiPageID	411772 ;
+	dbo:wikiPageRevisionID	983791919 ;
+	dbo:wikiPageWikiLink	dbc:Corrective_lenses ,
+		dbr:Human_eye ,
+		dbr:List_of_Girls_und_Panzer_characters ,
+		dbr:Chris_Eubank ,
+		dbr:Batman ,
+		dbr:Antiquarian ,
+		<http://dbpedia.org/resource/Tugs_(TV_series)> ,
+		<http://dbpedia.org/resource/Ant\u00F3nio_de_Sp\u00EDnola> ,
+		dbr:Capitalism ,
+		dbr:The_Calculus_Affair ,
+		dbr:Astronomy ,
+		dbc:Eyewear ,
+		dbr:Optometry ,
+		dbr:Martyn_Green ,
+		<http://dbpedia.org/resource/King_Solomon\u0027s_Mines> ,
+		<http://dbpedia.org/resource/Mr._Men> ,
+		<http://dbpedia.org/resource/P._G._Wodehouse> ,
+		<http://dbpedia.org/resource/List_of_Disney\u0027s_Cinderella_characters> ,
+		dbr:The_Red_Sea_Sharks ,
+		dbr:Mikhail_Bulgakov ,
+		<http://dbpedia.org/resource/The_Umbrella_Academy_(TV_series)> ,
+		dbr:Doc_Savage ,
+		dbr:Richard_Tauber ,
+		dbr:Mel_Brooks ,
+		dbr:The_Monocled_Mutineer ,
+		dbr:Baron_Strucker ,
+		dbr:Rastapopoulos ,
+		dbr:Comedic_device ,
+		<http://dbpedia.org/resource/Category:1890s_fashion> ,
+		dbr:William_Hartnell ,
+		dbr:Top_hat ,
+		dbr:The_Blue_Lotus ,
+		dbr:The_New_Yorker ,
+		dbr:Hans_von_Seeckt ,
+		dbr:Colm_Feore ,
+		dbr:Sylvia_von_Harden ,
+		dbr:Lorgnette ,
+		dbr:Engraved_gem ,
+		dbr:Engraving ,
+		<http://dbpedia.org/resource/Ars\u00E8ne_Lupin> ,
+		<http://dbpedia.org/resource/Category:19th-century_fashion> ,
+		dbr:Eyepatch ,
+		dbr:Lens ,
+		dbr:Batman_Returns ,
+		dbr:Conrad_Veidt ,
+		dbr:Angus_Maude ,
+		<http://dbpedia.org/resource/Category:20th-century_fashion> ,
+		<http://dbpedia.org/resource/Babar_(TV_series)> ,
+		<http://dbpedia.org/resource/G._E._M._Anscombe> ,
+		dbr:Percy_Toplis ,
+		dbr:Visual_perception ,
+		dbr:Abraham_Lincoln ,
+		<http://dbpedia.org/resource/Alfred,_Lord_Tennyson> ,
+		dbr:World_War_I ,
+		<http://dbpedia.org/resource/W._B._Yeats> ,
+		<http://dbpedia.org/resource/H.M.S._Pinafore> ,
+		dbr:The_Umbrella_Academy ,
+		dbr:Facial_expression ,
+		<http://dbpedia.org/resource/Penguin_(character)> ,
+		dbr:Corrective_lens ,
+		dbr:Raoul_Hausmann ,
+		dbr:Otto_Dix ,
+		dbr:Patrick_Moore ,
+		dbr:Lesbian ,
+		dbr:Girls_und_Panzer ,
+		dbr:Sesame_Street ,
+		<http://dbpedia.org/resource/File:Joseph_Chamberlain_in_colour.jpg> ,
+		dbr:Dietrich_von_Saucken ,
+		dbr:Joseph_Chamberlain ,
+		dbr:Refractive_error ,
+		dbr:Barnett_Newman ,
+		dbr:Astro_Boy ,
+		dbr:Gilbert_and_Sullivan ,
+		dbr:Monocular ,
+		dbr:Poet_laureate ,
+		dbr:Pince-nez ,
+		dbr:Walter_von_Reichenau ,
+		<http://dbpedia.org/resource/Hogan\u0027s_Heroes> ,
+		dbr:Charlie_McCarthy ,
+		dbr:Contact_lens ,
+		dbr:Cigars_of_the_Pharaoh ,
+		<http://dbpedia.org/resource/Jos\u00E9_Maria_de_E\u00E7a_de_Queir\u00F3s> ,
+		dbr:Tintin_and_the_Picaros ,
+		dbr:Julius_Evola ,
+		dbr:List_of_Tugs_characters ,
+		dbr:Hugo_Sperrle ,
+		dbr:Karl_Marx ,
+		dbr:Johnnie_Cradock ,
+		dbr:The_Muppets ,
+		dbr:Dada ,
+		dbr:George_Arliss ,
+		dbr:Philipp_von_Stosch ,
+		dbr:The_Pirates_of_Penzance ,
+		dbr:Erich_Ludendorff ,
+		dbr:Austen_Chamberlain ,
+		dbr:Osamu_Tezuka ,
+		dbr:Boxing ,
+		<http://dbpedia.org/resource/Henry_Chaplin,_1st_Viscount_Chaplin> ,
+		dbr:Psmith ,
+		<http://dbpedia.org/resource/Patience_(opera)> ,
+		<http://dbpedia.org/resource/Black_Jack_(manga)> ,
+		<http://dbpedia.org/resource/Una_Vincenzo,_Lady_Troubridge> ,
+		<http://dbpedia.org/resource/List_of_Mr._Men> ,
+		<http://dbpedia.org/resource/Category:1830s_fashion> ,
+		dbr:Kenneth_Mars ,
+		dbr:Walter_Model ,
+		dbr:Christopher_Ewart-Biggs ,
+		dbr:Optical_power ,
+		dbr:Louis_Darquier_de_Pellepoix ,
+		dbr:Tailcoat ,
+		<http://dbpedia.org/resource/File:Monocle_with_gallery.jpg> ,
+		<http://dbpedia.org/resource/File:Quizzingglass.jpg> ,
+		<http://dbpedia.org/resource/File:Monocle_(PSF).png> ,
+		<http://dbpedia.org/resource/German_Army_(German_Empire)> ,
+		dbr:Ralph_Lynn ,
+		<http://dbpedia.org/resource/Hans_Krebs_(Wehrmacht_general)> ,
+		<http://dbpedia.org/resource/Hydra_(comics)> ,
+		dbr:Tristan_Tzara ,
+		dbr:Radclyffe_Hall ,
+		dbr:Dandy ,
+		dbr:Werner_Klemperer ,
+		dbr:Erich_von_Stroheim ,
+		dbr:Count_von_Count ,
+		dbr:Lord_Peter_Wimsey ,
+		<http://dbpedia.org/resource/Orbit_(anatomy)> ,
+		dbr:World_War_II ,
+		dbr:Fritz_Lang ,
+		dbr:Young_Frankenstein ,
+		<http://dbpedia.org/resource/Avengers_(comics)> ,
+		dbr:List_of_The_Adventures_of_Tintin_characters ,
+		dbr:First_Doctor ,
+		dbr:Flight_714_to_Sydney ,
+		dbr:Muhammad_Ali_Jinnah ,
+		<http://dbpedia.org/resource/Mr._Peanut> ,
+		dbr:Glasses ,
+		dbr:Edgar_Bergen ,
+		<http://dbpedia.org/resource/Super_Robot_Monkey_Team_Hyperforce_Go!> ,
+		<http://dbpedia.org/resource/Cinderella_(1950_film)> ,
+		dbr:Werner_von_Fritsch .
+@prefix dbp:	<http://dbpedia.org/property/> .
+@prefix dbt:	<http://dbpedia.org/resource/Template:> .
+dbr:Monocle	dbp:wikiPageUsesTemplate	dbt:Reflist ,
+		dbt:Citation_needed ,
+		dbt:Other_uses ,
+		dbt:By_whom ,
+		dbt:Use_dmy_dates ,
+		dbt:Short_description ,
+		dbt:Commons_category ,
+		dbt:Eyewear ,
+		dbt:Wiktionary ,
+		dbt:Authority_control ,
+		dbt:Refimprove .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Monocle	dbo:wikiPageLength	"12299"^^xsd:nonNegativeInteger .
+dbr:Lesbian	dbo:wikiPageWikiLink	dbr:Monocle .
+dbr:First_Doctor	dbo:wikiPageWikiLink	dbr:Monocle .
+dbr:Mickey_Mouse_universe	dbo:wikiPageWikiLink	dbr:Monocle .
+<http://dbpedia.org/resource/Penguin_(character)>	dbo:wikiPageWikiLink	dbr:Monocle .
+<http://dbpedia.org/resource/Oswald_Cobblepot_(Gotham)>	dbo:wikiPageWikiLink	dbr:Monocle .
+dbr:Great_Gold_Robbery	dbo:wikiPageWikiLink	dbr:Monocle .
+dbr:Tristan_Tzara	dbo:wikiPageWikiLink	dbr:Monocle .
+dbr:Nazis_in_fiction	dbo:wikiPageWikiLink	dbr:Monocle .
+dbr:Batfink	dbo:wikiPageWikiLink	dbr:Monocle .
+dbr:List_of_Galaxy_Angel_characters	dbo:wikiPageWikiLink	dbr:Monocle .
+dbr:Cross-dressing_in_film_and_television	dbo:wikiPageWikiLink	dbr:Monocle .
+dbr:Rimless_eyeglasses	dbo:wikiPageWikiLink	dbr:Monocle .
+dbr:Monocular	dbo:wikiPageWikiLink	dbr:Monocle .
+dbr:List_of_Black_Jack_characters	dbo:wikiPageWikiLink	dbr:Monocle .
+dbr:List_of_fictional_cats_in_comics	dbo:wikiPageWikiLink	dbr:Monocle .
+dbr:Old_Time	dbo:wikiPageWikiLink	dbr:Monocle .
+dbr:Scissors-glasses	dbo:wikiPageWikiLink	dbr:Monocle .
+dbr:Lorgnette	dbo:wikiPageWikiLink	dbr:Monocle .
+dbr:Index_of_fashion_articles	dbo:wikiPageWikiLink	dbr:Monocle .
+dbr:Lord_James_Blears	dbo:wikiPageWikiLink	dbr:Monocle .
+dbr:Mario_Peruzzi	dbo:wikiPageWikiLink	dbr:Monocle .
+dbr:The_Herbs	dbo:wikiPageWikiLink	dbr:Monocle .
+dbr:List_of_Medaka_Box_characters	dbo:wikiPageWikiLink	dbr:Monocle .
+dbr:List_of_8-Bit_Theater_characters	dbo:wikiPageWikiLink	dbr:Monocle .
+dbr:Off-Road_Velociraptor_Safari	dbo:wikiPageWikiLink	dbr:Monocle .
+<http://dbpedia.org/resource/Stacking_(video_game)>	dbo:wikiPageWikiLink	dbr:Monocle .
+dbr:Penguin_in_other_media	dbo:wikiPageWikiLink	dbr:Monocle .
+<http://dbpedia.org/resource/Petre_P._Carp>	dbo:wikiPageWikiLink	dbr:Monocle .
+dbr:Pebbles_Box	dbo:wikiPageWikiLink	dbr:Monocle .
+dbr:Pince-nez	dbo:wikiPageWikiLink	dbr:Monocle .
+dbr:An_Unforgettable_Summer	dbo:wikiPageWikiLink	dbr:Monocle .
+<http://dbpedia.org/resource/This_Isn\u0027t_What_It_Looks_Like>	dbo:wikiPageWikiLink	dbr:Monocle .
+dbr:Killer_Karl_Krupp	dbo:wikiPageWikiLink	dbr:Monocle .
+dbr:Bomberman	dbo:wikiPageWikiLink	dbr:Monocle .
+dbr:Maurice_Swynfen_Fitzmaurice	dbo:wikiPageWikiLink	dbr:Monocle .
+<http://dbpedia.org/resource/Et_Cetera_(manga)>	dbo:wikiPageWikiLink	dbr:Monocle .
+<http://dbpedia.org/resource/Mike_(novel)>	dbo:wikiPageWikiLink	dbr:Monocle .
+<http://dbpedia.org/resource/Albion_(comics)>	dbo:wikiPageWikiLink	dbr:Monocle .
+dbr:The_Duh-Vinci_Code	dbo:wikiPageWikiLink	dbr:Monocle .
+<http://dbpedia.org/resource/Lancelot_Link,_Secret_Chimp>	dbo:wikiPageWikiLink	dbr:Monocle .
+dbr:Murzilka	dbo:wikiPageWikiLink	dbr:Monocle .
+dbr:The_Ersatz_Elevator	dbo:wikiPageWikiLink	dbr:Monocle .
+dbr:Patrick_Moore	dbo:wikiPageWikiLink	dbr:Monocle .
+dbr:Biggles	dbo:wikiPageWikiLink	dbr:Monocle .
+dbr:List_of_Doc_Savage_characters	dbo:wikiPageWikiLink	dbr:Monocle .
+dbr:Gene_Chandler	dbo:wikiPageWikiLink	dbr:Monocle .
+<http://dbpedia.org/resource/List_of_Re:Zero_\u2212_Starting_Life_in_Another_World_characters>	dbo:wikiPageWikiLink	dbr:Monocle .
+<http://dbpedia.org/resource/Monocular_(disambiguation)>	dbo:wikiPageWikiLink	dbr:Monocle .
+<http://dbpedia.org/resource/Mr._Peanut>	dbo:wikiPageWikiLink	dbr:Monocle .
+dbr:Coolboys_and_the_Frontman	dbo:wikiPageWikiLink	dbr:Monocle .
+<http://dbpedia.org/resource/John_Kinloch_(cricketer)>	dbo:wikiPageWikiLink	dbr:Monocle .
+<http://dbpedia.org/resource/Jacques_Vach\u00E9>	dbo:wikiPageWikiLink	dbr:Monocle .
+<http://dbpedia.org/resource/Nicol\u00E1s_Z\u00FA\u00F1iga_y_Miranda>	dbo:wikiPageWikiLink	dbr:Monocle .
+dbr:Monocles	dbo:wikiPageRedirects	dbr:Monocle ;
+	dbo:wikiPageWikiLink	dbr:Monocle .
+<http://dbpedia.org/resource/Monocle_(disambiguation)>	dbo:wikiPageWikiLink	dbr:Monocle ;
+	dbo:wikiPageDisambiguates	dbr:Monocle .
+dbr:Quizzing_glass	dbo:wikiPageRedirects	dbr:Monocle ;
+	dbo:wikiPageWikiLink	dbr:Monocle .
+dbr:Monacle	dbo:wikiPageRedirects	dbr:Monocle ;
+	dbo:wikiPageWikiLink	dbr:Monocle .
+dbr:Monicle	dbo:wikiPageRedirects	dbr:Monocle ;
+	dbo:wikiPageWikiLink	dbr:Monocle .

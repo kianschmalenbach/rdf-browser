@@ -1,0 +1,22 @@
+
+
+
+
+    
+
+    
+    
+
+    <http://opendatacommunities.org/id/geography/lsoa/E01000001> <http://data.ordnancesurvey.co.uk/ontology/admingeo/inDistrict> <http://statistics.data.gov.uk/id/statistical-geography/E09000001>  ;
+<http://data.ordnancesurvey.co.uk/ontology/spatialrelations/easting> 532151  ;
+<http://data.ordnancesurvey.co.uk/ontology/spatialrelations/northing> 181617  ;
+<http://statistics.data.gov.uk/def/administrative-geography/district> <http://statistics.data.gov.uk/id/local-authority-district/00AA>  ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://opendatacommunities.org/def/geography#LSOA>  ;
+<http://www.w3.org/2000/01/rdf-schema#label> "City of London 001A"  ;
+<http://www.w3.org/2002/07/owl#sameAs> <http://statistics.data.gov.uk/id/statistical-geography/E01000001>  ;
+<http://www.w3.org/2003/01/geo/wgs84_pos#lat> 51.518  ;
+<http://www.w3.org/2003/01/geo/wgs84_pos#long> -0.097  ;
+<http://www.w3.org/2004/02/skos/core#notation> "E01000001"   .
+
+
+

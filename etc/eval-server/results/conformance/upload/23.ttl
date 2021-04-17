@@ -1,0 +1,36 @@
+
+
+
+
+    
+
+    
+    
+
+    <http://greek-lod.math.auth.gr:2023/municipalities/9024> <http://localhost:2020/kalikratis/resource/municipalities_address> "ΜΗΤΡΟΠΟΛΕΩΣ 44"  ;
+<http://localhost:2020/kalikratis/resource/municipalities_code> "9024"  ;
+<http://localhost:2020/kalikratis/resource/municipalities_decentralized_administrationLabel> "Αποκεντρωμένη Διοίκηση Μακεδονίας – Θράκης"  ;
+<http://localhost:2020/kalikratis/resource/municipalities_fax> "23310-22330"  ;
+<http://localhost:2020/kalikratis/resource/municipalities_historical_seat> "Βεργίνα"  ;
+<http://localhost:2020/kalikratis/resource/municipalities_mayor> "ΟΥΣΟΥΤΖΟΓΛΟΥ ΧΑΡΟΥΛΑ"  ;
+<http://localhost:2020/kalikratis/resource/municipalities_name> "Δήμος Βέροιας"  ;
+<http://localhost:2020/kalikratis/resource/municipalities_name_en> "Veria"  ;
+<http://localhost:2020/kalikratis/resource/municipalities_regional_unitLabel> "Περιφερειακή Ενότητα Ημαθίας"  ;
+<http://localhost:2020/kalikratis/resource/municipalities_regionLabel> "Περιφέρεια Κεντρικής Μακεδονίας"  ;
+<http://localhost:2020/kalikratis/resource/municipalities_seat> "Βέροια"  ;
+<http://localhost:2020/kalikratis/resource/municipalities_seat_en> "Veria"  ;
+<http://purl.org/dc/terms/isPartOf> <http://greek-lod.math.auth.gr/kalikratis/resource/decentralized_administrations/5> ,<http://greek-lod.math.auth.gr/kalikratis/resource/regional_units/201> ,<http://greek-lod.math.auth.gr/kalikratis/resource/regions/2>  ;
+<http://www.geonames.org/ontology#postalCode> "59100"  ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://greek-lod.math.auth.gr/kalikratis/resource/municipalities>  ;
+<http://www.w3.org/2000/01/rdf-schema#label> "Δήμος Βέροιας"  ;
+<http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://xmlns.com/foaf/0.1/organization>  ;
+<http://www.w3.org/2002/07/owl#sameAs> <http://el.dbpedia.org/resource/Δήμος_Βέροιας> ,<http://www.freebase.com/view/en/veria>  ;
+<http://www.w3.org/2003/01/geo/wgs84_pos#lat> "40.526054"^^<http://www.w3.org/2001/XMLSchema#float>  ;
+<http://www.w3.org/2003/01/geo/wgs84_pos#long> "22.202999"^^<http://www.w3.org/2001/XMLSchema#float>  ;
+<http://www.w3.org/2004/02/skos/core#hasTopConcept> <http://el.dbpedia.org/resource/Κατηγορία:Καλλικρατικοί_δήμοι>  ;
+<http://xmlns.com/foaf/0.1/homepage> <http://www.veria.gr/>  ;
+<http://xmlns.com/foaf/0.1/mbox> <mailto:veria@otenet.gr>  ;
+<http://xmlns.com/foaf/0.1/phone> "23313-50500" ,"23313-50507"   .
+
+
+

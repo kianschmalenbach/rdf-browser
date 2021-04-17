@@ -1,0 +1,912 @@
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+dbr:List_of_presidential_trips_made_by_Frank-Walter_Steinmeier	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+<http://dbpedia.org/resource/Swimming_at_the_2016_Summer_Olympics_\u2013_Men\u0027s_400_metre_individual_medley>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:Queen_Letizia_of_Spain	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Luxembourg_Army	dbp:commanderInChief	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> ;
+	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+<http://dbpedia.org/resource/2009_in_Luxembourg>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+<http://dbpedia.org/resource/2020_in_Luxembourg>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:Canonization_of_Pope_John_XXIII_and_Pope_John_Paul_II	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:List_of_state_visits_made_by_King_Harald_V_of_Norway	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:Papal_inauguration_of_Pope_Francis	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+<http://dbpedia.org/resource/2006_Winter_Olympics_opening_ceremony>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:Order_of_Liberty	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+<http://dbpedia.org/resource/2014_Winter_Olympics_opening_ceremony>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:General_debate_of_the_sixty-seventh_session_of_the_United_Nations_General_Assembly	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:Le_Club_des_Chefs_des_Chefs	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:Grand_Ducal_Family_of_Luxembourg	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:Armorial_of_the_Capetian_dynasty	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:List_of_living_legitimate_male_Capetians	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:Monarchy_of_Luxembourg	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> ;
+	dbp:incumbent	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:Bourbon_family_tree	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:List_of_consorts_of_Luxembourg	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:Maria_Antonia_Ferdinanda_of_Spain	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:Mariana_Victoria_of_Spain	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+<http://dbpedia.org/resource/Ercole,_Marquis_of_Baux>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+<http://dbpedia.org/resource/2004_in_Luxembourg>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+<http://dbpedia.org/resource/2000_in_Luxembourg>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+<http://dbpedia.org/resource/2001_in_Luxembourg>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:Prince_Louis_of_Luxembourg	dbo:parent	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> ;
+	dbp:father	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> ;
+	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+<http://dbpedia.org/resource/1998_in_Luxembourg>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+<http://dbpedia.org/resource/Prince_S\u00E9bastien_of_Luxembourg>	dbo:parent	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> ;
+	dbp:father	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> ;
+	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:Coat_of_arms_of_Luxembourg	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> ;
+	dbp:armiger	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:Philharmonie_Luxembourg	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+<http://en.wikipedia.org/wiki/Henri,_Grand_Duke_of_Luxembourg>	foaf:primaryTopic	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:Henri	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> ;
+	dbo:wikiPageDisambiguates	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:Capetian_dynasty	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+<http://dbpedia.org/resource/Diego_Vel\u00E1zquez>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:List_of_members_of_the_International_Olympic_Committee	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:Duchy	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:National_symbols_of_Luxembourg	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+<http://dbpedia.org/resource/Judo_at_the_2016_Summer_Olympics_\u2013_Men\u0027s_81_kg>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:Descendants_of_Miguel_I_of_Portugal	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg>	rdf:type	yago:Owner110389398 ,
+		yago:Peer110412910 ,
+		yago:Officeholder110371450 ,
+		yago:Official110372373 ,
+		yago:Serviceman110582746 ,
+		yago:SkilledWorker110605985 ,
+		yago:Scholar110557854 ,
+		yago:Worker109632518 ,
+		yago:WikicatLivingPeople ,
+		yago:WikicatKnightsWithCollarOfTheOrderOfTheSeraphim .
+@prefix ns6:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg>	rdf:type	ns6:NaturalPerson ,
+		ns6:Agent ,
+		yago:WikicatRomanCatholicMonarchs ,
+		yago:Aristocrat109807754 ,
+		yago:Holder110180178 ,
+		yago:Alumnus109786338 ,
+		yago:MaleAristocrat110285135 ,
+		yago:Intellectual109621545 ,
+		yago:Leader109623038 ,
+		yago:MilitaryOfficer110317007 ,
+		yago:Noble110271677 .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg>	rdf:type	owl:Thing .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg>	rdf:type	wikidata:Q215627 ,
+		yago:Knight110238375 ,
+		yago:Artist109812338 ,
+		yago:Creator109614315 ,
+		wikidata:Q5 ,
+		wikidata:Q24229398 ,
+		yago:Sovereign110628644 ,
+		yago:WikicatLuxembourgianPeople .
+@prefix schema:	<http://schema.org/> .
+<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg>	rdf:type	schema:Person ,
+		yago:WikicatGrandOfficersOfTheOrderOfMeritOfTheItalianRepublic ,
+		yago:WikicatKnightsOfTheElephant ,
+		yago:WikicatKnightsOfTheGoldenFleece ,
+		yago:Ruler110541229 ,
+		yago:WikicatGraduatesOfTheRoyalMilitaryAcademySandhurst .
+@prefix umbel-rc:	<http://umbel.org/umbel/rc/> .
+<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg>	rdf:type	umbel-rc:RoyalFamily ,
+		yago:Prince110472799 ,
+		yago:GrandDuke110142060 ,
+		umbel-rc:PersonWithOccupation ,
+		yago:Communicator109610660 ,
+		yago:LivingThing100004258 ,
+		yago:WikicatGrandDukesOfLuxembourg ,
+		yago:WikicatGrandMastersOfTheOrderOfAdolpheOfNassau ,
+		yago:WikicatGrandMastersOfTheOrderOfTheGoldLionOfTheHouseOfNassau ,
+		yago:WikicatGrandMastersOfTheOrderOfTheOakCrown ,
+		dbo:Person ,
+		yago:Object100002684 ,
+		yago:Person100007846 ,
+		yago:PhysicalEntity100001930 ,
+		yago:Organism100004475 ,
+		yago:Whole100003553 ,
+		yago:YagoLegalActor ,
+		yago:YagoLegalActorGeo ,
+		dbo:Agent ,
+		yago:CausalAgent100007347 ,
+		yago:Duke110038620 ,
+		dbo:Royalty ,
+		yago:Head110162991 ,
+		yago:WikicatPrincesOfBourbon-Parma ,
+		yago:Maestro110280130 ,
+		yago:Representative110522035 ,
+		yago:HeadOfState110164747 ,
+		yago:Negotiator110351874 ,
+		yago:WikicatKnightsOfTheOrderOfTheMostHolyAnnunciation ,
+		yago:WikicatDukesOfNassau ,
+		<http://dbpedia.org/class/yago/WikicatPeopleFromBetzdorf,Luxembourg> ,
+		foaf:Person ,
+		yago:WikicatRomanCatholicHeadsOfGovernment .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg>	rdfs:label	"Enric I de Luxemburg"@ca ,
+		"\u4EA8\u5229 (\u5362\u68EE\u5821\u5927\u516C)"@zh ,
+		"\u0410\u043D\u0440\u0438 (\u0432\u0435\u043B\u0438\u043A\u0438\u0439 \u0433\u0435\u0440\u0446\u043E\u0433 \u041B\u044E\u043A\u0441\u0435\u043C\u0431\u0443\u0440\u0433\u0430)"@ru ,
+		"Henri dari Luksemburg"@in ,
+		"\uC559\uB9AC (\uB8E9\uC148\uBD80\uB974\uD06C)"@ko ,
+		"Henryk (wielki ksi\u0105\u017C\u0119 Luksemburga)"@pl ,
+		"Henri (grand-duc de Luxembourg)"@fr ,
+		"\u0410\u043D\u0440\u0456 (\u0432\u0435\u043B\u0438\u043A\u0438\u0439 \u0433\u0435\u0440\u0446\u043E\u0433 \u041B\u044E\u043A\u0441\u0435\u043C\u0431\u0443\u0440\u0433\u0443)"@uk ,
+		"Jind\u0159ich I. Lucembursk\u00FD (velkov\u00E9voda)"@cs ,
+		"\u30A2\u30F3\u30EA (\u30EB\u30AF\u30BB\u30F3\u30D6\u30EB\u30AF\u5927\u516C)"@ja ,
+		"Henri, Grand Duke of Luxembourg"@en ,
+		"Enrico di Lussemburgo"@it ,
+		"Henriko (Luksemburgo)"@eo ,
+		"Henri (Luxemburg)"@de ,
+		"\u0627\u0644\u062F\u0648\u0642 \u0627\u0644\u0623\u0643\u0628\u0631 \u0647\u0646\u0631\u064A"@ar ,
+		"Hendrik van Luxemburg"@nl ,
+		"Enrique de Luxemburgo"@es ,
+		"Henrike I.a Luxenburgokoa"@eu ,
+		"Henri av Luxemburg"@sv ,
+		"\u0395\u03C1\u03C1\u03AF\u03BA\u03BF\u03C2 \u03C4\u03BF\u03C5 \u039B\u03BF\u03C5\u03BE\u03B5\u03BC\u03B2\u03BF\u03CD\u03C1\u03B3\u03BF\u03C5"@el ,
+		"Henrique, Gr\u00E3o-Duque de Luxemburgo"@pt ;
+	rdfs:comment	"\u0415\u0433\u043E \u041A\u043E\u0440\u043E\u043B\u0435\u0432\u0441\u043A\u043E\u0435 \u0412\u044B\u0441\u043E\u0447\u0435\u0441\u0442\u0432\u043E \u0410\u043D\u0440\u0438 (\u0413\u0435\u043D\u0440\u0438\u0445) (\u0444\u0440. \u0438 \u043B\u044E\u043A\u0441\u0435\u043C\u0431. Henri, \u043F\u043E\u043B\u043D\u043E\u0435 \u0438\u043C\u044F Henri Albert Gabriel F\u00E9lix Marie Guillaume von Nassau; \u0440\u043E\u0434. 16 \u0430\u043F\u0440\u0435\u043B\u044F 1955, \u0411\u0435\u0446\u0434\u043E\u0440\u0444\u0441\u043A\u0438\u0439 \u0437\u0430\u043C\u043E\u043A, \u0411\u0435\u0446\u0434\u043E\u0440\u0444) \u2014 \u0412\u0435\u043B\u0438\u043A\u0438\u0439 \u0433\u0435\u0440\u0446\u043E\u0433 \u041B\u044E\u043A\u0441\u0435\u043C\u0431\u0443\u0440\u0433\u0430 c 7 \u043E\u043A\u0442\u044F\u0431\u0440\u044F 2000 \u0433\u043E\u0434\u0430, \u0440\u0435\u0433\u0435\u043D\u0442 \u0412\u0435\u043B\u0438\u043A\u043E\u0433\u043E \u0433\u0435\u0440\u0446\u043E\u0433\u0441\u0442\u0432\u0430 \u0441 3 \u043C\u0430\u0440\u0442\u0430 1998 \u0433\u043E\u0434\u0430 \u043F\u043E 7 \u043E\u043A\u0442\u044F\u0431\u0440\u044F 2000 \u0433\u043E\u0434\u0430."@ru ,
+		"\u0410\u043D\u0440\u0456 (\u0413\u0435\u043D\u0440\u0456\u0445) (\u0444\u0440. Henri, \u043F\u043E\u0432\u043D\u0435 \u0456\u043C'\u044F \u0410\u043D\u0440\u0456 \u0410\u043B\u044C\u0431\u0435\u0440 \u0413\u0430\u0431\u0440\u0456\u0435\u043B\u044C \u0424\u0435\u043B\u0456\u043A\u0441 \u041C\u0430\u0440\u0456 \u0413\u0456\u0439\u043E\u043C; \u043D\u0430\u0440. 16 \u043A\u0432\u0456\u0442\u043D\u044F 1955, , \u041B\u044E\u043A\u0441\u0435\u043C\u0431\u0443\u0440\u0433) \u2014 \u0440\u0435\u0433\u0435\u043D\u0442 \u0412\u0435\u043B\u0438\u043A\u043E\u0433\u043E \u0433\u0435\u0440\u0446\u043E\u0433\u0441\u0442\u0432\u0430 \u041B\u044E\u043A\u0441\u0435\u043C\u0431\u0443\u0440\u0433\u0443 \u0437 3 \u0431\u0435\u0440\u0435\u0437\u043D\u044F 1998 \u043F\u043E 7 \u0436\u043E\u0432\u0442\u043D\u044F 2000 \u0440\u043E\u043A\u0443, \u0412\u0435\u043B\u0438\u043A\u0438\u0439 \u0433\u0435\u0440\u0446\u043E\u0433 \u041B\u044E\u043A\u0441\u0435\u043C\u0431\u0443\u0440\u0433\u0443. \u0417\u0456\u0439\u0448\u043E\u0432 \u043D\u0430 \u043F\u0440\u0435\u0441\u0442\u043E\u043B 7 \u0436\u043E\u0432\u0442\u043D\u044F 2000 \u0440\u043E\u043A\u0443."@uk ,
+		"Henri (French: Henri Albert Gabriel F\u00E9lix Marie Guillaume, pronounced [\u0251\u0303\u02C8\u0280i]; born 16 April 1955) is the Grand Duke of Luxembourg, reigning since 7 October 2000. He is the eldest son of Grand Duke Jean and Princess Jos\u00E9phine-Charlotte of Belgium, and a first cousin of King Philippe of Belgium. In 2019, his net worth was estimated around US$4 billion."@en ,
+		"\u039F \u0395\u03C1\u03C1\u03AF\u03BA\u03BF\u03C2, \u039C\u03AD\u03B3\u03B1\u03C2 \u0394\u03BF\u03CD\u03BA\u03B1\u03C2 \u03C4\u03BF\u03C5 \u039B\u03BF\u03C5\u03BE\u03B5\u03BC\u03B2\u03BF\u03CD\u03C1\u03B3\u03BF\u03C5 (Henri Albert Gabriel F\u00E9lix Marie Guillaume de Nassau, 16 \u0391\u03C0\u03C1\u03B9\u03BB\u03AF\u03BF\u03C5 1955) \u03B5\u03AF\u03BD\u03B1\u03B9 \u03B3\u03B9\u03BF\u03C2 \u03C4\u03BF\u03C5 \u03BC\u03B5\u03B3\u03AC\u03BB\u03BF\u03C5 \u03B4\u03BF\u03CD\u03BA\u03B1 \u0399\u03C9\u03AC\u03BD\u03BD\u03B7 \u03BA\u03B1\u03B9 \u03B1\u03C1\u03C7\u03B7\u03B3\u03CC\u03C2 \u03C4\u03BF\u03C5 \u03BA\u03C1\u03AC\u03C4\u03BF\u03C5\u03C2 \u03C4\u03BF\u03C5 \u039B\u03BF\u03C5\u03BE\u03B5\u03BC\u03B2\u03BF\u03CD\u03C1\u03B3\u03BF\u03C5 \u03B1\u03C0\u03CC \u03C4\u03BF 2000. \u03A4\u03BF \u03C0\u03BB\u03AE\u03C1\u03B5\u03C2 \u03CC\u03BD\u03BF\u03BC\u03AC \u03C4\u03BF\u03C5 \u03B5\u03AF\u03BD\u03B1\u03B9 \u0395\u03C1\u03C1\u03AF\u03BA\u03BF\u03C2 \u0391\u03BB\u03B2\u03AD\u03C1\u03C4\u03BF\u03C2 \u0393\u03B1\u03B2\u03C1\u03B9\u03AE\u03BB \u03A6\u03AE\u03BB\u03B9\u03BE \u039C\u03B1\u03C1\u03AF\u03B1 \u0393\u03BF\u03C5\u03BB\u03B9\u03AD\u03BB\u03BC\u03BF\u03C2."@el ,
+		"Henryk, w\u0142a\u015Bc. Henri Alb\u00E9rt Gabriel F\u00E9lix Marie Guillaume (ur. 6 kwietnia 1955 w Berzdorf) \u2013 wielki ksi\u0105\u017C\u0119 Luksemburga z dynastii Burbon\u00F3w."@pl ,
+		"\u0627\u0644\u062F\u0648\u0642 \u0627\u0644\u0623\u0643\u0628\u0631 \u0647\u0646\u0631\u064A\u060C \u062F\u0648\u0642 \u0644\u0648\u0643\u0633\u0645\u0628\u0648\u0631\u063A \u0645\u0648\u0627\u0644\u064A\u062F 16 \u0623\u0628\u0631\u064A\u0644 1955 \u0641\u064A \u0645\u062F\u064A\u0646\u0629 \u0628\u064A\u0632\u062F\u0631\u0648\u0641 (\u0644\u0648\u0643\u0633\u0645\u0628\u0648\u0631\u063A). \u0627\u0639\u062A\u0644\u0649 \u0645\u0646\u0635\u0628 \u0627\u0644\u062D\u0627\u0643\u0645 \u0627\u0644\u062F\u0633\u062A\u0648\u0631\u064A \u0644\u062F\u0648\u0642\u064A\u0629 \u0644\u0648\u0643\u0633\u0645\u0628\u0648\u0631\u063A \u0627\u0644\u0643\u0628\u0631\u0649 \u0645\u0646\u0630 \u062A\u0646\u0627\u0632\u0644 \u0648\u0627\u0644\u062F\u0647 \u0627\u0644\u062F\u0648\u0642 \u0627\u0644\u0623\u0643\u0628\u0631 \u062C\u0627\u0646 \u0641\u064A \u0639\u0627\u0645 2000."@ar ,
+		"Henri von Nassau (* 16. April 1955 auf Schloss Betzdorf in Betzdorf als Henri Albert Gabriel F\u00E9lix Marie Guillaume) ist seit dem 7. Oktober 2000 Gro\u00DFherzog von Luxemburg, Herzog von Nassau. Im deutschen Sprachraum wird er auch als Heinrich bezeichnet. Er f\u00FChrt als vollst\u00E4ndigen Titel \u201ESeine K\u00F6nigliche Hoheit Henri, Gro\u00DFherzog von Luxemburg, Herzog von Nassau, Prinz von Bourbon-Parma, Graf von Sayn, K\u00F6nigstein, Katzenelnbogen und Diez, Burggraf von Hammerstein, Herr von Mahlberg, Wiesbaden, Idstein, Merenberg, Limburg und Eppstein\u201C."@de ,
+		"Henriko de Luksemburgo (* la 16-an de aprilo 1955 en Betzdorf, Luksemburgo) estas la grandduko de Luksemburgo. Li en la franca kaj luksemburga lingvoj nomi\u011Das Henri kaj en la germana lingvo Heinrich. Henriko estas la sesa luksemburga reganto el la dinastio Nassau-Weilburg. Lia plena titolo estas \"Lia Re\u011Da Mo\u015Dto grandduko de Luksemburgo, duko de Nassau, princo de Bourbon-Parma, grafo de Sayn, K\u00F6nigstein, Katzenelnbogen kaj Diez, fortika\u0135a grafo de Hammerstein, sinjoro de Mahlberg, Wiesbaden, Idstein, Merenberg, Limburg kaj Eppstein\"."@eo ,
+		"Enrique de Nassau-Weilburg y Borb\u00F3n-Parma (Henri Albert Gabriel F\u00E9lix Marie Guillaume vu Nassau-Weilburg) es el actual gran duque de Luxemburgo, por lo tanto le corresponde asumir la funci\u00F3n de jefe de Estado del pa\u00EDs. Es hijo del anterior gran duque Juan de Luxemburgo y de su esposa, la princesa Josefina Carlota de B\u00E9lgica."@es ,
+		"| hildata = | hillekua = | ezkontidea = Maria Teresa| lanbidea = | senideak =| seme-alabak = Gilen LuxenburgokoaFelix printzeaLuis printzeaAlexandra printzesaSebastian printzea | egoitza = | dirutza = | erlijioa = Katolizismoa| sinadura = | web = | oharrak = }} Henrike I.a Luxenburgokoa (Henri Albert Gabriel Felix Marie Guillaume de Nassau-Weilburg et Bourbon-Parme) Luxenburgoko Dukerri Handiko monarka. 1955eko apirilaren 16an jaio zen Betzdorf gazteluan, Luxenburgon. Joan Luxenburgokoa Duke Handiaren eta  printzesaren semea da."@eu ,
+		"Enric I de Luxemburg (castell de Betzdorf, Luxemburg, 1955) \u00E9s el Gran Duc de Luxemburg i membre de la dinastia dels Borb\u00F3-Nassau. Sobir\u00E0 del gran ducat des de l'any 2000 despr\u00E9s de l'abdicaci\u00F3 del seu pare."@ca ,
+		"Henri (bahasa Luksemburg: Henri Albert Gabriel F\u00E9lix Marie Guillaume, pelafalan ; lahir 16 April 1955; umur 64 tahun) adalah Haryapatih Luksemburg yang berkuasa sejak 7 Oktober 2000. Ia adalah putra tertua dari Haryapatih Jean dan Putri Jos\u00E9phine Charlotte dari Belgia, dan juga merupakan sepupu dari Philippe, Raja Belgia."@in ,
+		"\uC559\uB9AC \uB4DC \uB93D\uC0C1\uBD80\uB974(Henri de Luxembourg, 1955\uB144 4\uC6D4 16\uC77C ~ )\uB294 \uB8E9\uC148\uBD80\uB974\uD06C\uC758 \uB300\uACF5\uC774\uB2E4. \uADF8\uB294 2000\uB144 10\uC6D4 7\uC77C \uC544\uBC84\uC9C0 \uC7A5 \uB300\uACF5\uC758 \uC591\uC704\uB85C \uB8E9\uC148\uBD80\uB974\uD06C \uB300\uACF5\uAD6D\uC758 \uAD70\uC8FC\uAC00 \uB418\uC5C8\uB2E4. \uC815\uC2DD \uC774\uB984\uC740 \uC559\uB9AC \uC54C\uBCA0\uB974 \uAC00\uBE0C\uB9AC\uC5D8 \uD3A0\uB9AD\uC2A4 \uB9C8\uB9AC \uAE30\uC6A4(Henri Albert Gabriel F\u00E9lix Marie Guillaume)\uC774\uB2E4."@ko ,
+		"Le grand-duc Henri de Luxembourg, n\u00E9 le 16 avril 1955 \u00E0 Betzdorf au Luxembourg, est le souverain constitutionnel du Grand-Duch\u00E9 de Luxembourg depuis l'abdication en 2000 de son p\u00E8re, le grand-duc Jean."@fr ,
+		"\u4EA8\u5229\u5927\u516C\uFF08Grand Duke Henri\uFF09\uFF0C\u5168\u540D\uFF1A\u4EA8\u5229\u00B7\u963F\u5C14\u8D1D\u00B7\u52A0\u5E03\u91CC\u57C3\u5C14\u00B7\u83F2\u5229\u514B\u65AF\u00B7\u9A6C\u91CC\u00B7\u7EAA\u5C27\u59C6\uFF08Henri Albert Gabriel F\u00E9lix Marie Guillaume\uFF0C1955\u5E744\u670816\u65E5\uFF0D\uFF09\uFF0C\u73B0\u4EFB\u5362\u68EE\u5821\u5927\u516C\u3002\u51FA\u751F\u4E8E\u8D1D\u7279\u8328\u591A\u723E\u592B\u5821\uFF0C\u662F\u5362\u68EE\u5821\u7B2C\u516B\u4EFB\u5927\u516C\u8BA9\u548C\u59BB\u5B50\u7EA6\u745F\u82AC\u00B7\u590F\u6D1B\u7279\u516C\u4E3B\u7684\u957F\u5B50\u3002\u4EA8\u5229\u5927\u516C\u7684\u982D\u929C\u5168\u7A31\u70BA\uFF1A\u201C\u8499\u4E0A\u5E1D\u6069\u5178\u7684\u4EA8\u5229\uFF0C\u76E7\u68EE\u5821\u5927\u516C\uFF0C\u62FF\u9A37\u516C\u7235\uFF0C\u6CE2\u65C1-\u5E15\u723E\u99AC\u738B\u5B50\uFF0C\u840A\u8335\u884C\u5BAB\u4F2F\u7235\uFF0C\u585E\u6069\u3001\u79D1\u5C3C\u65AF\u5766\u3001\u5361\u5C91\u6D85\u6069\u535A\u6839\uFF0C\u4EE5\u53CA\u8FEA\u8332\u4F2F\u7235\uFF0C\u6F22\u9ED8\u65AF\u5766\u85E9\u4FAF\uFF0C\u9EBB\u8C9D\u514B\u3001\u5A01\u65AF\u5DF4\u767B\u3001\u4F0A\u5FB7\u65AF\u5766\u3001\u6885\u502B\u5821\u3001\u6797\u5821\uFF0C\u4EE5\u53CA\u827E\u666E\u65AF\u5766\u9818\u4E3B\u201D\u3002\uFF08\u5FB7\u6587\uFF1ASeine K\u00F6nigliche Hoheit Henri, Gro\u00DFherzog von Luxemburg, Herzog von Nassau, Prinz von Bourbon-Parma, Pfalzgraf bei Rhein, Graf zu Sayn, K\u00F6nigstein, Katzenelnbogen und Diez, Burggraf von Hammerstein, Herr von Mahlberg, Wiesbaden, Idstein, Merenberg, Limburg und Eppstein.\uFF09"@zh ,
+		"\u30A2\u30F3\u30EA\uFF08Henri de Luxembourg, Henri Albert Gabriel F\u00E9lix Marie Guillaume, 1955\u5E744\u670816\u65E5 - \uFF09\u306F\u3001\u73FE\u30EB\u30AF\u30BB\u30F3\u30D6\u30EB\u30AF\u5927\u516C\u3002"@ja ,
+		"Henri (Hendrik) Albert Gabriel F\u00E9lix Marie Guillaume (Betzdorf, 16 april 1955) is groothertog van Luxemburg sinds 7 oktober 2000, toen zijn vader troonsafstand deed in zijn voordeel."@nl ,
+		"Henri Albert Gabriel Felix Maria av Luxemburg av huset Bourbon, f\u00F6dd 16 april 1955 i Betzdorf, \u00E4r sedan 7 oktober 2000, d\u00E5 han eftertr\u00E4dde sin far, storhertig av Luxemburg. Han \u00E4r son till Jean av Luxemburg och Josephine Charlotte. Storhertigen \u00E4r genom sin mormors far brylling till kung Carl XVI Gustaf."@sv ,
+		"Enrico di Lussemburgo, per esteso Henri Albert Gabriel F\u00E9lix Marie Guillaume in francese (Betzdorf, 16 aprile 1955), \u00E8 il granduca di Lussemburgo, dall'abdicazione del padre Giovanni nel 2000. I suoi titoli sono i seguenti: granduca di Lussemburgo, duca. Ha diritto al trattamento di Altezza reale."@it ,
+		"Jind\u0159ich I. Lucembursk\u00FD (n\u011Bmecky Heinrich von Luxemburg, francouzsky Henri de Luxembourg; * 16. dubna 1955 , Lucembursko) je velkov\u00E9voda lucembursk\u00FD. Je \u0161est\u00FDm lucembursk\u00FDm panovn\u00EDkem z Nasavsko-weilbursk\u00E9 dynastie. Jeho pln\u00FD titul zn\u00ED \"J.k.V. velkov\u00E9voda z Lucemburku, v\u00E9voda z , princ bourbonsko-parmsk\u00FD, hrab\u011B ze , K\u00F6nigsteinu,  a Diezu, purkrab\u00ED z , svobodn\u00FD p\u00E1n z , Wiesbadenu, , ,  a \"."@cs ;
+	rdfs:seeAlso	dbr:List_of_honours_of_the_Luxembourgish_Grand-Ducal_Family_by_country ;
+	foaf:name	"Henri"@en ;
+	foaf:homepage	<http://www.monarchie.lu/fr/famille/grand-duc/index.html> ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Grand_Duke_Luxembourg_Royal_Wedding_2012.jpg> ;
+	foaf:isPrimaryTopicOf	<http://en.wikipedia.org/wiki/Henri,_Grand_Duke_of_Luxembourg> .
+@prefix dct:	<http://purl.org/dc/terms/> .
+<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg>	dct:subject	<http://dbpedia.org/resource/Category:20th-century_Roman_Catholics> ,
+		<http://dbpedia.org/resource/Category:21st-century_Roman_Catholics> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg>	dct:subject	dbc:Luxembourgian_billionaires ,
+		<http://dbpedia.org/resource/Category:People_from_Betzdorf,_Luxembourg> ,
+		dbc:International_Olympic_Committee_members ,
+		dbc:Grand_Crosses_of_the_Order_of_Merit_of_the_Grand_Duchy_of_Luxembourg ,
+		dbc:Knights_of_Malta ,
+		dbc:Grand_Crosses_of_the_Order_of_the_Oak_Crown ,
+		dbc:University_of_Geneva_alumni ,
+		dbc:Grand_Crosses_of_the_Order_of_Prince_Henry ,
+		dbc:Grand_Collars_of_the_Order_of_Saint_James_of_the_Sword ,
+		dbc:Grand_Collars_of_the_Order_of_the_Southern_Cross ,
+		dbc:Grand_Crosses_of_the_Order_of_the_White_Double_Cross ,
+		dbc:Grand_Collars_of_the_Order_of_Liberty ,
+		dbc:Living_people ,
+		dbc:Luxembourgian_Roman_Catholics ,
+		dbc:Grand_Dukes_of_Luxembourg ,
+		dbc:House_of_Nassau-Weilburg ,
+		dbc:Grand_Crosses_of_the_Order_of_Saint_James_of_the_Sword ,
+		dbc:Graduate_Institute_of_International_and_Development_Studies_alumni ,
+		dbc:Knights_Grand_Cross_of_the_Order_of_Pope_Pius_IX ,
+		dbc:Graduates_of_the_Royal_Military_Academy_Sandhurst ,
+		dbc:Knights_of_the_Golden_Fleece_of_Spain ,
+		dbc:Recipients_of_the_Grand_Star_of_the_Decoration_for_Services_to_the_Republic_of_Austria ,
+		dbc:Knights_Grand_Cross_with_Collar_of_the_Order_of_Merit_of_the_Italian_Republic ,
+		dbc:Grand_Crosses_of_the_Order_of_the_Southern_Cross ,
+		dbc:Honorary_Knights_Grand_Cross_of_the_Royal_Victorian_Order ,
+		<http://dbpedia.org/resource/Category:1955_births> ,
+		dbc:Grand_Crosses_of_the_Order_of_the_Star_of_Romania ,
+		dbc:Recipients_of_the_Collar_of_the_Order_of_the_Cross_of_Terra_Mariana ,
+		dbc:Grand_Crosses_of_the_National_Order_of_Mali ,
+		dbc:Grand_Crosses_of_the_Order_of_Adolphe_of_Nassau ,
+		dbc:Members_of_the_Council_of_State_of_Luxembourg ,
+		dbc:Grand_Collars_of_the_Order_of_Prince_Henry ;
+	owl:sameAs	<http://be.dbpedia.org/resource/\u0410\u043D\u0440\u044B_(\u0432\u044F\u043B\u0456\u043A\u0456_\u0433\u0435\u0440\u0446\u0430\u0433_\u041B\u044E\u043A\u0441\u0435\u043C\u0431\u0443\u0440\u0433\u0430)> .
+@prefix dbpedia-lmo:	<http://lmo.dbpedia.org/resource/> .
+<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg>	owl:sameAs	dbpedia-lmo:Enrigh_del_Lussemburgh ,
+		<http://sl.dbpedia.org/resource/Veliki_vojvoda_Henri_Luksembur\u0161ki> ,
+		<http://sco.dbpedia.org/resource/Henri,_Grand_Duke_o_Luxembourg> ,
+		<http://ka.dbpedia.org/resource/\u10D0\u10DC\u10E0\u10D8_(\u10DA\u10E3\u10E5\u10E1\u10D4\u10DB\u10D1\u10E3\u10E0\u10D2\u10D8\u10E1_\u10D3\u10D8\u10D3\u10D8_\u10F0\u10D4\u10E0\u10EA\u10DD\u10D2\u10D8)> ,
+		<http://hr.dbpedia.org/resource/Henri,_veliki_vojvoda_od_Luksemburga> .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg>	owl:sameAs	dbpedia-es:Enrique_de_Luxemburgo .
+@prefix ns16:	<http://d-nb.info/gnd/133500780/about/> .
+<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg>	owl:sameAs	ns16:rdf ,
+		<http://ur.dbpedia.org/resource/\u06C1\u0646\u0631\u06CC\u060C_\u06AF\u0631\u06CC\u0646\u0688_\u0688\u06CC\u0648\u06A9_\u0644\u06A9\u0633\u0645\u0628\u0631\u06AF> .
+@prefix dbpedia-id:	<http://id.dbpedia.org/resource/> .
+<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg>	owl:sameAs	dbpedia-id:Henri_dari_Luksemburg ,
+		<http://simple.dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> ,
+		<http://yago-knowledge.org/resource/Henri,_Grand_Duke_of_Luxembourg> ,
+		<http://ru.dbpedia.org/resource/\u0410\u043D\u0440\u0438_(\u0432\u0435\u043B\u0438\u043A\u0438\u0439_\u0433\u0435\u0440\u0446\u043E\u0433_\u041B\u044E\u043A\u0441\u0435\u043C\u0431\u0443\u0440\u0433\u0430)> .
+@prefix ns18:	<http://uz.dbpedia.org/resource/> .
+<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg>	owl:sameAs	ns18:Henri ,
+		<http://eo.dbpedia.org/resource/Henriko_(Luksemburgo)> .
+@prefix dbpedia-gl:	<http://gl.dbpedia.org/resource/> .
+<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg>	owl:sameAs	dbpedia-gl:Henrique_I_de_Luxemburgo ,
+		<http://ar.dbpedia.org/resource/\u0627\u0644\u062F\u0648\u0642_\u0627\u0644\u0623\u0643\u0628\u0631_\u0647\u0646\u0631\u064A> ,
+		<http://th.dbpedia.org/resource/\u0E41\u0E01\u0E23\u0E19\u0E14\u0E4C\u0E14\u0E22\u0E38\u0E01\u0E2D\u0E47\u0E2D\u0E07\u0E23\u0E35\u0E41\u0E2B\u0E48\u0E07\u0E25\u0E31\u0E01\u0E40\u0E0B\u0E21\u0E40\u0E1A\u0E34\u0E23\u0E4C\u0E01> ,
+		<http://lb.dbpedia.org/resource/Henri_vu_L\u00EBtzebuerg> ,
+		<http://d-nb.info/gnd/133500780> ,
+		<http://sh.dbpedia.org/resource/Henri,_veliki_vojvoda_Luksemburga> ,
+		<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> ,
+		<http://he.dbpedia.org/resource/\u05D0\u05E0\u05E8\u05D9,_\u05D4\u05D3\u05D5\u05DB\u05E1_\u05D4\u05D2\u05D3\u05D5\u05DC_\u05E9\u05DC_\u05DC\u05D5\u05E7\u05E1\u05DE\u05D1\u05D5\u05E8\u05D2> ,
+		<http://pl.dbpedia.org/resource/Henryk_(wielki_ksi\u0105\u017C\u0119_Luksemburga)> .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg>	owl:sameAs	dbpedia-nl:Hendrik_van_Luxemburg ,
+		<http://ko.dbpedia.org/resource/\uC559\uB9AC_(\uB8E9\uC148\uBD80\uB974\uD06C)> ,
+		<http://viaf.org/viaf/85360255> ,
+		<http://ro.dbpedia.org/resource/Henric,_Mare_Duce_de_Luxemburg> ,
+		<http://pt.dbpedia.org/resource/Henrique,_Gr\u00E3o-Duque_de_Luxemburgo> .
+@prefix dbpedia-no:	<http://no.dbpedia.org/resource/> .
+<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg>	owl:sameAs	dbpedia-no:Henri_av_Luxembourg ,
+		<http://sr.dbpedia.org/resource/\u0410\u043D\u0440\u0438,_\u0432\u0435\u043B\u0438\u043A\u0438_\u0432\u043E\u0458\u0432\u043E\u0434\u0430_\u043E\u0434_\u041B\u0443\u043A\u0441\u0435\u043C\u0431\u0443\u0440\u0433\u0430> .
+@prefix dbpedia-hu:	<http://hu.dbpedia.org/resource/> .
+<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg>	owl:sameAs	dbpedia-hu:Henrik_luxemburgi_nagyherceg ,
+		<http://fi.dbpedia.org/resource/Henri_(Luxemburg)> ,
+		<http://lt.dbpedia.org/resource/Anri_(kunigaik\u0161tis)> ,
+		<http://azb.dbpedia.org/resource/\u0622\u0646\u0631\u06CC\u060C_\u062F\u0648\u06A9_\u0627\u0639\u0638\u0645_\u0644\u0648\u0642\u0632\u0627\u0645\u0628\u0648\u0631\u0642> ,
+		<http://et.dbpedia.org/resource/Henri_(Luksemburgi_suurhertsog)> ,
+		<http://rdf.freebase.com/ns/m.01y_v2> ,
+		<http://zh.dbpedia.org/resource/\u4EA8\u5229_(\u5362\u68EE\u5821\u5927\u516C)> ,
+		<http://sk.dbpedia.org/resource/Henrich_I._(Luxembursko)> ,
+		<http://yo.dbpedia.org/resource/Henri_il\u1EB9\u0300_L\u00FAks\u1EB9\u0301mb\u1ECD\u0300rg> ,
+		<http://fr.dbpedia.org/resource/Henri_(grand-duc_de_Luxembourg)> ,
+		wikidata:Q16004 ,
+		<http://tr.dbpedia.org/resource/Henri_(L\u00FCksemburg_b\u00FCy\u00FCk_d\u00FCk\u00FC)> ,
+		<http://hy.dbpedia.org/resource/\u0540\u0565\u0576\u0580\u056B_\u0531\u056C\u0562\u0565\u0580\u057F> ,
+		<http://vi.dbpedia.org/resource/Henri,_\u0110\u1EA1i_C\u00F4ng_t\u01B0\u1EDBc_Luxembourg> ,
+		<http://ja.dbpedia.org/resource/\u30A2\u30F3\u30EA_(\u30EB\u30AF\u30BB\u30F3\u30D6\u30EB\u30AF\u5927\u516C)> ,
+		<http://eu.dbpedia.org/resource/Henrike_I.a_Luxenburgokoa> ,
+		<http://bg.dbpedia.org/resource/\u0410\u043D\u0440\u0438_\u041B\u044E\u043A\u0441\u0435\u043C\u0431\u0443\u0440\u0433\u0441\u043A\u0438> .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg>	owl:sameAs	dbpedia-it:Enrico_di_Lussemburgo ,
+		<http://cs.dbpedia.org/resource/Jind\u0159ich_I._Lucembursk\u00FD_(velkov\u00E9voda)> .
+@prefix ns24:	<https://global.dbpedia.org/id/> .
+<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg>	owl:sameAs	ns24:atHt .
+@prefix dbpedia-nn:	<http://nn.dbpedia.org/resource/> .
+<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg>	owl:sameAs	dbpedia-nn:Henri_av_Luxembourg ,
+		<http://oc.dbpedia.org/resource/Enric_I\u00E8r_de_Luxemborg> .
+@prefix dbpedia-ca:	<http://ca.dbpedia.org/resource/> .
+<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg>	owl:sameAs	dbpedia-ca:Enric_I_de_Luxemburg ,
+		<http://el.dbpedia.org/resource/\u0395\u03C1\u03C1\u03AF\u03BA\u03BF\u03C2_\u03C4\u03BF\u03C5_\u039B\u03BF\u03C5\u03BE\u03B5\u03BC\u03B2\u03BF\u03CD\u03C1\u03B3\u03BF\u03C5> ,
+		<http://uk.dbpedia.org/resource/\u0410\u043D\u0440\u0456_(\u0432\u0435\u043B\u0438\u043A\u0438\u0439_\u0433\u0435\u0440\u0446\u043E\u0433_\u041B\u044E\u043A\u0441\u0435\u043C\u0431\u0443\u0440\u0433\u0443)> .
+@prefix dbpedia-da:	<http://da.dbpedia.org/resource/> .
+<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg>	owl:sameAs	dbpedia-da:Henri_af_Luxembourg .
+@prefix ns28:	<http://ast.dbpedia.org/resource/> .
+<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg>	owl:sameAs	ns28:Enrique_de_Luxemburgu ,
+		<http://fa.dbpedia.org/resource/\u0622\u0646\u0631\u06CC\u060C_\u062F\u0648\u06A9_\u0627\u0639\u0638\u0645_\u0644\u0648\u06A9\u0632\u0627\u0645\u0628\u0648\u0631\u06AF> ,
+		<http://is.dbpedia.org/resource/Hinrik_af_L\u00FAxemborg> ,
+		<http://la.dbpedia.org/resource/Henricus_(magnus_dux_Luxemburgi)> ,
+		<http://pms.dbpedia.org/resource/Henri_d\u00EBl_Lussemborgh> .
+@prefix dbpedia-sv:	<http://sv.dbpedia.org/resource/> .
+<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg>	owl:sameAs	dbpedia-sv:Henri_av_Luxemburg ,
+		<http://lv.dbpedia.org/resource/Anr\u012B_(Luksemburgas_lielhercogs)> ,
+		<http://bs.dbpedia.org/resource/Henri,_veliki_vojvoda_Luksemburga> ,
+		<http://de.dbpedia.org/resource/Henri_(Luxemburg)> .
+@prefix dbpedia-af:	<http://af.dbpedia.org/resource/> .
+<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg>	owl:sameAs	dbpedia-af:Henri_van_Luxemburg ;
+	schema:sameAs	<http://viaf.org/viaf/85360255> ;
+	dbo:spouse	<http://dbpedia.org/resource/Mar\u00EDa_Teresa_Mestre_y_Batista> .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg>	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Henri,_Grand_Duke_of_Luxembourg?oldid=982429708&ns=0> ;
+	dbp:religion	dbr:Catholic_Church .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg>	dbp:reign	"--10-07"^^xsd:gMonthDay ,
+		"--03-03"^^xsd:gMonthDay ;
+	dbo:parent	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> ,
+		<http://dbpedia.org/resource/Princess_Jos\u00E9phine_Charlotte_of_Belgium> ;
+	dbp:title	dbr:Monarchy_of_Luxembourg ;
+	dbp:years	2000 ;
+	dbp:father	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> ;
+	dbp:mother	<http://dbpedia.org/resource/Princess_Jos\u00E9phine_Charlotte_of_Belgium> ;
+	dbp:regent	dbr:Xavier_Bettel ,
+		dbr:Jean-Claude_Juncker ;
+	dbp:succession	dbr:Monarchy_of_Luxembourg ;
+	dbp:issueLink	"#Marriage and family"@en ;
+	dbp:fullName	"Henri Albert Gabriel F\u00E9lix Marie Guillaume"@en ;
+	dbp:heir	<http://dbpedia.org/resource/Guillaume,_Hereditary_Grand_Duke_of_Luxembourg> ;
+	dbp:heirType	"Heir apparent"@en ;
+	dbp:sucType	"Heir apparent"@en ;
+	dbp:name	"Henri"@en ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Grand_Duke_Luxembourg_Royal_Wedding_2012.jpg?width=300> ;
+	dbp:birthPlace	<http://dbpedia.org/resource/Betzdorf,_Luxembourg> ,
+		dbr:Luxembourg ,
+		dbr:Betzdorf_Castle ;
+	dbo:wikiPageID	348759 ;
+	dbo:wikiPageRevisionID	982429708 ;
+	dbo:wikiPageWikiLink	dbc:Grand_Collars_of_the_Order_of_Liberty ,
+		dbc:Grand_Crosses_of_the_Order_of_Adolphe_of_Nassau ,
+		dbr:Albert_II_of_Belgium ,
+		dbr:Treaty_establishing_a_Constitution_for_Europe ,
+		<http://dbpedia.org/resource/Maria_Teresa,_Grand_Duchess_of_Luxembourg> ,
+		<http://dbpedia.org/resource/Category:20th-century_Roman_Catholics> ,
+		dbr:Astrid_of_Sweden ,
+		dbc:Grand_Crosses_of_the_Order_of_Saint_James_of_the_Sword ,
+		<http://dbpedia.org/resource/Robert_I,_Duke_of_Parma> ,
+		<http://dbpedia.org/resource/File:LUX_Order_of_Merit_of_the_Grand_Duchy_of_Luxembourg_-_Grand_Cross_BAR.png> ,
+		dbr:House_of_Nassau-Weilburg ,
+		dbr:Royal_Military_Academy_Sandhurst ,
+		<http://dbpedia.org/resource/File:GER_Bundesverdienstkreuz_9_Sond_des_Grosskreuzes.svg> ,
+		dbr:Grand_ducal_court ,
+		dbr:Lieutenant_representative ,
+		dbr:House_of_Bourbon-Parma ,
+		dbr:Monarchy_of_Luxembourg ,
+		dbr:Order_of_the_Netherlands_Lion ,
+		dbc:Grand_Crosses_of_the_Order_of_Merit_of_the_Grand_Duchy_of_Luxembourg ,
+		<http://dbpedia.org/resource/File:Ordre_du_Lion_d\u0027Or_de_la_Maison_de_Nassau_ribbon.svg> ,
+		<http://dbpedia.org/resource/File:Order_of_the_Elephant_Ribbon_bar.svg> ,
+		dbr:Order_of_the_Gold_Lion_of_the_House_of_Nassau ,
+		dbr:Xavier_Bettel ,
+		dbr:Princess_Margaretha_of_Liechtenstein ,
+		dbr:List_of_monarchs_of_Luxembourg ,
+		<http://dbpedia.org/resource/File:Gran_croce_OCI_BAR.svg> ,
+		dbr:Politics_of_Luxembourg ,
+		<http://dbpedia.org/resource/Bachelor\u0027s_degree> ,
+		dbc:Knights_Grand_Cross_of_the_Order_of_Pope_Pius_IX ,
+		dbr:Abdication ,
+		dbr:Order_of_the_Star_of_Romania ,
+		<http://dbpedia.org/resource/File:Ordre_de_la_couronne_de_Chene_GC_ribbon.svg> ,
+		dbr:Berg_Castle ,
+		dbr:Royal_Jubilee_Commemorative_Medals ,
+		dbr:Patrilineality ,
+		dbr:Prince_Jean_of_Luxembourg ,
+		<http://dbpedia.org/resource/File:PRT_Order_of_Prince_Henry_-_Grand_Collar_BAR.png> ,
+		<http://dbpedia.org/resource/File:SEN_Order_of_the_Lion_-_Grand_Cross_BAR.png> ,
+		dbr:List_of_prime_ministers_of_Luxembourg ,
+		<http://dbpedia.org/resource/File:Legion_Honneur_GC_ribbon.svg> ,
+		<http://dbpedia.org/resource/Betzdorf,_Luxembourg> ,
+		dbr:Leopold_III_of_Belgium ,
+		<http://dbpedia.org/resource/File:POL_Order_Or\u0142a_Bia\u0142ego_BAR.svg> ,
+		<http://dbpedia.org/resource/File:VA_Ordine_Piano_BAR.svg> ,
+		<http://dbpedia.org/resource/Queen_Sof\u00EDa_of_Spain> ,
+		<http://dbpedia.org/resource/File:ESP_Charles_III_Order_GC.svg> ,
+		dbr:Catholic_Church ,
+		<http://dbpedia.org/resource/File:Royal_Victorian_Order_Honorary_Ribbon.png> ,
+		<http://dbpedia.org/resource/Princess_Jos\u00E9phine_Charlotte_of_Belgium> ,
+		dbr:Bormes-les-Mimosas ,
+		<http://dbpedia.org/resource/Guillaume,_Hereditary_Grand_Duke_of_Luxembourg> ,
+		dbr:Ambassador ,
+		dbr:Luxembourg ,
+		dbr:Order_of_Liberty ,
+		<http://dbpedia.org/resource/Municipal_Hospital_(Luxembourg)> ,
+		<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> ,
+		dbr:Order_of_the_Golden_Fleece ,
+		<http://dbpedia.org/resource/File:PRT_Order_of_Saint_James_of_the_Sword_-_Grand_Collar_BAR.png> ,
+		dbr:University_of_Geneva ,
+		dbr:Princess_Ingeborg_of_Denmark ,
+		<http://dbpedia.org/resource/Charlotte,_Grand_Duchess_of_Luxembourg> ,
+		<http://dbpedia.org/resource/File:LUX_Order_of_Adolphe_Nassau_Grand_Cross_BAR.png> ,
+		dbr:RAF_Regiment ,
+		dbc:Graduates_of_the_Royal_Military_Academy_Sandhurst ,
+		<http://dbpedia.org/resource/File:Order_of_the_Most_Holy_Annunciation_BAR.svg> ,
+		dbr:Council_of_State_of_Luxembourg ,
+		dbc:Grand_Collars_of_the_Order_of_the_Southern_Cross ,
+		dbc:Grand_Crosses_of_the_Order_of_the_White_Double_Cross ,
+		dbc:Grand_Collars_of_the_Order_of_Saint_James_of_the_Sword ,
+		dbc:Grand_Crosses_of_the_National_Order_of_Mali ,
+		dbr:Baudouin_of_Belgium ,
+		dbr:Philippe_of_Belgium ,
+		dbr:Graduate_Institute_of_International_and_Development_Studies ,
+		dbr:Decoration_of_Honour_for_Services_to_the_Republic_of_Austria ,
+		<http://dbpedia.org/resource/Gr\u00FCnewald_(Luxembourg)> ,
+		<http://dbpedia.org/resource/File:GRE_Order_Redeemer_1Class.png> ,
+		dbr:Betzdorf_Castle ,
+		<http://dbpedia.org/resource/File:Am\u00EDlcar_Cabral_Order_-_1st_Class_(Cabo_Verde).png> ,
+		dbr:Archduchess_Marie_Astrid_of_Austria ,
+		<http://dbpedia.org/resource/Prince_S\u00E9bastien_of_Luxembourg> ,
+		dbr:Order_of_the_White_Double_Cross ,
+		dbr:Princess_Alexandra_of_Luxembourg ,
+		<http://dbpedia.org/resource/Prince_F\u00E9lix_of_Luxembourg> ,
+		dbc:Luxembourgian_Roman_Catholics ,
+		<http://dbpedia.org/resource/File:Mali_Ordre_national_du_Mali_GC_ribbon.svg> ,
+		dbc:House_of_Nassau-Weilburg ,
+		dbc:Grand_Dukes_of_Luxembourg ,
+		dbr:Albert_I_of_Belgium ,
+		<http://dbpedia.org/resource/File:Cavaliere_di_gran_Croce_SSML_BAR.svg> ,
+		<http://dbpedia.org/resource/Order_of_the_Crown_(Netherlands)> ,
+		dbr:Legion_of_Honour ,
+		dbr:World_Health_Organization ,
+		dbr:Grand_Ducal_Family_of_Luxembourg ,
+		<http://dbpedia.org/resource/Marie-Ad\u00E9la\u00EFde,_Grand_Duchess_of_Luxembourg> ,
+		dbr:Royal_Order_of_the_Seraphim ,
+		<http://dbpedia.org/resource/File:PRT_Order_of_Liberty_-_Grand_Collar_BAR.png> ,
+		dbr:Angioplasty ,
+		<http://dbpedia.org/resource/File:NED_Kroonorde_A1_BAR.png> ,
+		<http://dbpedia.org/resource/File:Henri,_Grand_Duke_of_Luxembourg.jpg> ,
+		<http://dbpedia.org/resource/File:Jean_and_Josephine-Charlotte_with_their_children.jpg> ,
+		<http://dbpedia.org/resource/File:The_Grand_Duke_and_Grand_Duchess_of_Luxembourg.jpg> ,
+		<http://dbpedia.org/resource/File:Vladimir_Putin_in_Luxembourg_24_May_2007-10.jpg> ,
+		<http://dbpedia.org/resource/Category:People_from_Betzdorf,_Luxembourg> ,
+		dbc:Luxembourgian_billionaires ,
+		<http://dbpedia.org/resource/File:GrandDuc_epouse_heritier.jpg> ,
+		<http://dbpedia.org/resource/File:Order_of_the_Seraphim_-_Ribbon_bar.svg> ,
+		<http://dbpedia.org/resource/Gal\u00E1pagos_Islands> ,
+		<http://dbpedia.org/resource/File:Seraphimerorden_ribbon.svg> ,
+		dbc:Grand_Crosses_of_the_Order_of_Prince_Henry ,
+		dbc:International_Olympic_Committee_members ,
+		dbr:Supreme_Order_of_the_Most_Holy_Annunciation ,
+		dbr:Order_of_the_Chrysanthemum ,
+		<http://dbpedia.org/resource/William_IV,_Grand_Duke_of_Luxembourg> ,
+		dbr:Order_of_the_Elephant ,
+		<http://dbpedia.org/resource/Category:21st-century_Roman_Catholics> ,
+		dbc:Members_of_the_Council_of_State_of_Luxembourg ,
+		dbr:Prince_Guillaume_of_Luxembourg ,
+		<http://dbpedia.org/resource/File:Order_of_the_Golden_Fleece_ribbon_bar.svg> ,
+		<http://dbpedia.org/resource/File:Order_of_the_Three_Stars_Ribbon_bar.svg> ,
+		<http://dbpedia.org/resource/File:BRA_Order_of_the_Southern_Cross_-_Grand_Cross_BAR.png> ,
+		<http://dbpedia.org/resource/File:Order_of_Charles_III_-_Sash_of_Collar.svg> ,
+		<http://dbpedia.org/resource/File:JPN_Daikun\u0027i_kikkasho_BAR.svg> ,
+		<http://dbpedia.org/resource/File:FIN_Order_of_the_White_Rose_Grand_Cross_BAR.png> ,
+		dbr:National_Order_of_Mali ,
+		<http://dbpedia.org/resource/File:AUT_Honour_for_Services_to_the_Republic_of_Austria_-_1st_Class_BAR.png> ,
+		<http://dbpedia.org/resource/File:St_Olavs_Orden_storkors_stripe.svg> ,
+		dbr:Royal_assent ,
+		<http://dbpedia.org/resource/File:ITA_OMRI_2001_GC-GCord_BAR.svg> ,
+		dbr:Order_of_the_State_of_Republic_of_Turkey ,
+		dbr:Heir_apparent ,
+		dbr:Chamber_of_Deputies ,
+		dbr:Infanta_Maria_Antonia_of_Portugal ,
+		dbc:Knights_of_Malta ,
+		<http://dbpedia.org/resource/File:Grand_Crest_Ordre_de_Leopold.png> ,
+		<http://dbpedia.org/resource/File:EST_Order_of_the_Cross_of_Terra_Mariana_-_1st_Class_BAR.png> ,
+		dbr:Order_of_Charles_III ,
+		dbr:Order_of_Pope_Pius_IX ,
+		dbr:Order_of_Merit_of_the_Grand_Duchy_of_Luxembourg ,
+		<http://dbpedia.org/resource/Chamber_of_Deputies_(Luxembourg)> ,
+		dbr:Sovereign_Military_Order_of_Malta ,
+		dbr:Luxembourg_Army ,
+		dbc:Grand_Crosses_of_the_Order_of_the_Star_of_Romania ,
+		dbr:Military_Order_of_Saint_James_of_the_Sword ,
+		dbr:Jean-Claude_Juncker ,
+		dbr:Order_of_the_Cross_of_Terra_Mariana ,
+		dbr:Order_of_the_Three_Stars ,
+		dbr:Prince_Louis_of_Luxembourg ,
+		dbr:Infanta_Marie_Anne_of_Portugal ,
+		dbc:Recipients_of_the_Collar_of_the_Order_of_the_Cross_of_Terra_Mariana ,
+		dbr:Juan_Carlos_I ,
+		<http://dbpedia.org/resource/File:NLD_Order_of_the_Dutch_Lion_-_Grand_Cross_BAR.png> ,
+		dbr:Order_of_the_Southern_Cross ,
+		dbr:Order_of_the_Redeemer ,
+		dbr:Order_of_the_Crown_of_Italy ,
+		dbc:University_of_Geneva_alumni ,
+		dbc:Grand_Collars_of_the_Order_of_Prince_Henry ,
+		dbr:Order_of_Saints_Maurice_and_Lazarus ,
+		<http://dbpedia.org/resource/Order_of_the_White_Eagle_(Poland)> ,
+		<http://dbpedia.org/resource/File:Order_of_the_State_of_Republic_of_Turkey.png> ,
+		<http://dbpedia.org/resource/File:SVK_Rad_Bieleho_Dvojkriza_1_triedy_BAR.svg> ,
+		<http://dbpedia.org/resource/Order_of_Leopold_(Belgium)> ,
+		dbc:Knights_Grand_Cross_with_Collar_of_the_Order_of_Merit_of_the_Italian_Republic ,
+		dbc:Knights_of_the_Golden_Fleece_of_Spain ,
+		dbc:Recipients_of_the_Grand_Star_of_the_Decoration_for_Services_to_the_Republic_of_Austria ,
+		<http://dbpedia.org/resource/File:SMOM-gcs.svg> ,
+		dbr:Order_of_Prince_Henry ,
+		dbc:Honorary_Knights_Grand_Cross_of_the_Royal_Victorian_Order ,
+		<http://dbpedia.org/resource/Prince_Carl,_Duke_of_V\u00E4sterg\u00F6tland> ,
+		dbc:Grand_Crosses_of_the_Order_of_the_Southern_Cross ,
+		dbr:Royal_Victorian_Order ,
+		dbr:International_Olympic_Committee ,
+		<http://dbpedia.org/resource/Category:1955_births> ,
+		<http://dbpedia.org/resource/Elisabeth_of_Bavaria,_Queen_of_Belgium> ,
+		dbr:Order_of_the_Oak_Crown ,
+		<http://dbpedia.org/resource/Sotheby\u0027s> ,
+		dbr:Prince_Felix_of_Bourbon-Parma ,
+		dbr:Order_of_Adolphe_of_Nassau ,
+		dbc:Graduate_Institute_of_International_and_Development_Studies_alumni ,
+		<http://dbpedia.org/resource/Order_of_St._Olav> ,
+		dbr:Order_of_the_White_Rose_of_Finland ,
+		dbr:Order_of_Merit_of_the_Federal_Republic_of_Germany ,
+		dbr:Order_of_Merit_of_the_Italian_Republic ,
+		<http://dbpedia.org/resource/Orders,_decorations,_and_medals_of_Senegal> ,
+		dbc:Living_people ,
+		dbr:House_of_Nassau ,
+		dbc:Grand_Crosses_of_the_Order_of_the_Oak_Crown ;
+	dbo:wikiPageExternalLink	<http://www.mentorfoundation.org/> ,
+		<http://www.monarchie.lu/fr/famille/grand-duc/index.html> ,
+		<http://www.monarchie.lu/fr/galeries/evenements/2010/11/PrixMeriteEuropeen/index.html%3Fhighlight=collier> .
+@prefix dbt:	<http://dbpedia.org/resource/Template:> .
+<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg>	dbp:wikiPageUsesTemplate	dbt:Heads_of_state_of_the_European_Union_Member_states ,
+		dbt:BLP_unsourced_section ,
+		dbt:Ahnentafel ,
+		dbt:Princes_of_Nassau ,
+		dbt:Luxembourger_Grand_Ducal_Family ,
+		dbt:Princes_of_Luxembourg ,
+		dbt:Monarchs_of_Luxembourg ,
+		dbt:Current_sovereigns ,
+		dbt:Members_of_the_Spanish_Order_of_the_Golden_Fleece ,
+		dbt:S-bef ,
+		dbt:S-end ,
+		dbt:S-start ,
+		dbt:S-ttl ,
+		dbt:Use_dmy_dates ,
+		dbt:Birth_date_and_age ,
+		dbt:Commons_category ,
+		dbt:IPA-lb ,
+		dbt:Citation_needed ,
+		dbt:Reflist ,
+		dbt:Princes_of_Parma ,
+		dbt:Authority_control ,
+		dbt:Flagu ,
+		dbt:See_also ,
+		dbt:More_citations_needed ,
+		dbt:Monarchs_of_Nassau ,
+		dbt:Ubl ,
+		dbt:Flag ,
+		dbt:S-hou ,
+		dbt:S-reg ,
+		dbt:S-inc ,
+		dbt:Infobox_royalty ,
+		dbt:Small ;
+	dbp:birthDate	"1955-04-16"^^xsd:date ;
+	dbp:caption	"Henri in 2019"@en ;
+	dbp:spouse	<http://dbpedia.org/resource/Maria_Teresa,_Grand_Duchess_of_Luxembourg> ,
+		""@en ,
+		"1981-02-14"^^xsd:date ;
+	dbo:abstract	"Enrico di Lussemburgo, per esteso Henri Albert Gabriel F\u00E9lix Marie Guillaume in francese (Betzdorf, 16 aprile 1955), \u00E8 il granduca di Lussemburgo, dall'abdicazione del padre Giovanni nel 2000. I suoi titoli sono i seguenti: granduca di Lussemburgo, duca. Ha diritto al trattamento di Altezza reale."@it ,
+		"Le grand-duc Henri de Luxembourg, n\u00E9 le 16 avril 1955 \u00E0 Betzdorf au Luxembourg, est le souverain constitutionnel du Grand-Duch\u00E9 de Luxembourg depuis l'abdication en 2000 de son p\u00E8re, le grand-duc Jean."@fr ,
+		"Henri (Hendrik) Albert Gabriel F\u00E9lix Marie Guillaume (Betzdorf, 16 april 1955) is groothertog van Luxemburg sinds 7 oktober 2000, toen zijn vader troonsafstand deed in zijn voordeel."@nl ,
+		"Enric I de Luxemburg (castell de Betzdorf, Luxemburg, 1955) \u00E9s el Gran Duc de Luxemburg i membre de la dinastia dels Borb\u00F3-Nassau. Sobir\u00E0 del gran ducat des de l'any 2000 despr\u00E9s de l'abdicaci\u00F3 del seu pare."@ca ,
+		"| hildata = | hillekua = | ezkontidea = Maria Teresa| lanbidea = | senideak =| seme-alabak = Gilen LuxenburgokoaFelix printzeaLuis printzeaAlexandra printzesaSebastian printzea | egoitza = | dirutza = | erlijioa = Katolizismoa| sinadura = | web = | oharrak = }} Henrike I.a Luxenburgokoa (Henri Albert Gabriel Felix Marie Guillaume de Nassau-Weilburg et Bourbon-Parme) Luxenburgoko Dukerri Handiko monarka. 1955eko apirilaren 16an jaio zen Betzdorf gazteluan, Luxenburgon. Joan Luxenburgokoa Duke Handiaren eta  printzesaren semea da."@eu ,
+		"Henryk, w\u0142a\u015Bc. Henri Alb\u00E9rt Gabriel F\u00E9lix Marie Guillaume (ur. 6 kwietnia 1955 w Berzdorf) \u2013 wielki ksi\u0105\u017C\u0119 Luksemburga z dynastii Burbon\u00F3w."@pl ,
+		"Jind\u0159ich I. Lucembursk\u00FD (n\u011Bmecky Heinrich von Luxemburg, francouzsky Henri de Luxembourg; * 16. dubna 1955 , Lucembursko) je velkov\u00E9voda lucembursk\u00FD. Je \u0161est\u00FDm lucembursk\u00FDm panovn\u00EDkem z Nasavsko-weilbursk\u00E9 dynastie. Jeho pln\u00FD titul zn\u00ED \"J.k.V. velkov\u00E9voda z Lucemburku, v\u00E9voda z , princ bourbonsko-parmsk\u00FD, hrab\u011B ze , K\u00F6nigsteinu,  a Diezu, purkrab\u00ED z , svobodn\u00FD p\u00E1n z , Wiesbadenu, , ,  a \"."@cs ,
+		"\u039F \u0395\u03C1\u03C1\u03AF\u03BA\u03BF\u03C2, \u039C\u03AD\u03B3\u03B1\u03C2 \u0394\u03BF\u03CD\u03BA\u03B1\u03C2 \u03C4\u03BF\u03C5 \u039B\u03BF\u03C5\u03BE\u03B5\u03BC\u03B2\u03BF\u03CD\u03C1\u03B3\u03BF\u03C5 (Henri Albert Gabriel F\u00E9lix Marie Guillaume de Nassau, 16 \u0391\u03C0\u03C1\u03B9\u03BB\u03AF\u03BF\u03C5 1955) \u03B5\u03AF\u03BD\u03B1\u03B9 \u03B3\u03B9\u03BF\u03C2 \u03C4\u03BF\u03C5 \u03BC\u03B5\u03B3\u03AC\u03BB\u03BF\u03C5 \u03B4\u03BF\u03CD\u03BA\u03B1 \u0399\u03C9\u03AC\u03BD\u03BD\u03B7 \u03BA\u03B1\u03B9 \u03B1\u03C1\u03C7\u03B7\u03B3\u03CC\u03C2 \u03C4\u03BF\u03C5 \u03BA\u03C1\u03AC\u03C4\u03BF\u03C5\u03C2 \u03C4\u03BF\u03C5 \u039B\u03BF\u03C5\u03BE\u03B5\u03BC\u03B2\u03BF\u03CD\u03C1\u03B3\u03BF\u03C5 \u03B1\u03C0\u03CC \u03C4\u03BF 2000. \u03A4\u03BF \u03C0\u03BB\u03AE\u03C1\u03B5\u03C2 \u03CC\u03BD\u03BF\u03BC\u03AC \u03C4\u03BF\u03C5 \u03B5\u03AF\u03BD\u03B1\u03B9 \u0395\u03C1\u03C1\u03AF\u03BA\u03BF\u03C2 \u0391\u03BB\u03B2\u03AD\u03C1\u03C4\u03BF\u03C2 \u0393\u03B1\u03B2\u03C1\u03B9\u03AE\u03BB \u03A6\u03AE\u03BB\u03B9\u03BE \u039C\u03B1\u03C1\u03AF\u03B1 \u0393\u03BF\u03C5\u03BB\u03B9\u03AD\u03BB\u03BC\u03BF\u03C2."@el ,
+		"\u4EA8\u5229\u5927\u516C\uFF08Grand Duke Henri\uFF09\uFF0C\u5168\u540D\uFF1A\u4EA8\u5229\u00B7\u963F\u5C14\u8D1D\u00B7\u52A0\u5E03\u91CC\u57C3\u5C14\u00B7\u83F2\u5229\u514B\u65AF\u00B7\u9A6C\u91CC\u00B7\u7EAA\u5C27\u59C6\uFF08Henri Albert Gabriel F\u00E9lix Marie Guillaume\uFF0C1955\u5E744\u670816\u65E5\uFF0D\uFF09\uFF0C\u73B0\u4EFB\u5362\u68EE\u5821\u5927\u516C\u3002\u51FA\u751F\u4E8E\u8D1D\u7279\u8328\u591A\u723E\u592B\u5821\uFF0C\u662F\u5362\u68EE\u5821\u7B2C\u516B\u4EFB\u5927\u516C\u8BA9\u548C\u59BB\u5B50\u7EA6\u745F\u82AC\u00B7\u590F\u6D1B\u7279\u516C\u4E3B\u7684\u957F\u5B50\u3002\u4EA8\u5229\u5927\u516C\u7684\u982D\u929C\u5168\u7A31\u70BA\uFF1A\u201C\u8499\u4E0A\u5E1D\u6069\u5178\u7684\u4EA8\u5229\uFF0C\u76E7\u68EE\u5821\u5927\u516C\uFF0C\u62FF\u9A37\u516C\u7235\uFF0C\u6CE2\u65C1-\u5E15\u723E\u99AC\u738B\u5B50\uFF0C\u840A\u8335\u884C\u5BAB\u4F2F\u7235\uFF0C\u585E\u6069\u3001\u79D1\u5C3C\u65AF\u5766\u3001\u5361\u5C91\u6D85\u6069\u535A\u6839\uFF0C\u4EE5\u53CA\u8FEA\u8332\u4F2F\u7235\uFF0C\u6F22\u9ED8\u65AF\u5766\u85E9\u4FAF\uFF0C\u9EBB\u8C9D\u514B\u3001\u5A01\u65AF\u5DF4\u767B\u3001\u4F0A\u5FB7\u65AF\u5766\u3001\u6885\u502B\u5821\u3001\u6797\u5821\uFF0C\u4EE5\u53CA\u827E\u666E\u65AF\u5766\u9818\u4E3B\u201D\u3002\uFF08\u5FB7\u6587\uFF1ASeine K\u00F6nigliche Hoheit Henri, Gro\u00DFherzog von Luxemburg, Herzog von Nassau, Prinz von Bourbon-Parma, Pfalzgraf bei Rhein, Graf zu Sayn, K\u00F6nigstein, Katzenelnbogen und Diez, Burggraf von Hammerstein, Herr von Mahlberg, Wiesbaden, Idstein, Merenberg, Limburg und Eppstein.\uFF09 \u4EA8\u522918\u5C81\u65F6\u88AB\u5C01\u4E3A\u5362\u68EE\u5821\u5927\u516C\u7684\u6CD5\u5B9A\u7EE7\u627F\u4EBA\u3002\u4EA8\u52291974\u5E74\u4E2D\u5B66\u6BD5\u4E1A\u540E\u53BB\u4E86\u82F1\u56FD\uFF0C\u5728\u6851\u8D6B\u65AF\u7279\u7687\u5BB6\u519B\u4E8B\u5B66\u9662\u8FDB\u4FEE\u519B\u4E8B\u8BFE\u7A0B\uFF0C\u5E76\u6210\u4E3A\u4E00\u540D\u519B\u5B98\u3002\u4ED6\u5148\u540E\u5728\u5362\u68EE\u5821\u3001\u6CD5\u56FD\u548C\u745E\u58EB\u8BFB\u4E66\uFF0C\u6BD5\u4E1A\u4E8E\u65E5\u5185\u74E6\u5927\u5B66\uFF0C\u83B7\u65E5\u5185\u74E6\u5927\u5B66\u653F\u6CBB\u5B66\u7855\u58EB\u5B66\u4F4D\u30021998\u5E743\u6708\u4ED6\u88AB\u4EFB\u547D\u4E3A\u6444\u653F\u4EE3\u8868\uFF0C\u4EE3\u884C\u5927\u516C\u90E8\u5206\u804C\u6743\u30022000\u5E7410\u67087\u65E5\uFF0C\u5362\u68EE\u5821\u5927\u516C\u56FD\u5927\u516C\u50A8\u4EA8\u5229\u6B63\u5F0F\u5BA3\u8A93\u5373\u4F4D\uFF0C\u6210\u4E3A\u5362\u68EE\u5821\u5927\u516C\u56FD\u7B2C\u4E5D\u4EFB\u5927\u516C\uFF0C\u662F\u5F53\u65F6\u6B27\u6D32\u541B\u4E3B\u5236\u56FD\u5BB6\u4E2D\u6700\u5E74\u8F7B\u7684\u5728\u4F4D\u541B\u4E3B\u3002"@zh ,
+		"\u0410\u043D\u0440\u0456 (\u0413\u0435\u043D\u0440\u0456\u0445) (\u0444\u0440. Henri, \u043F\u043E\u0432\u043D\u0435 \u0456\u043C'\u044F \u0410\u043D\u0440\u0456 \u0410\u043B\u044C\u0431\u0435\u0440 \u0413\u0430\u0431\u0440\u0456\u0435\u043B\u044C \u0424\u0435\u043B\u0456\u043A\u0441 \u041C\u0430\u0440\u0456 \u0413\u0456\u0439\u043E\u043C; \u043D\u0430\u0440. 16 \u043A\u0432\u0456\u0442\u043D\u044F 1955, , \u041B\u044E\u043A\u0441\u0435\u043C\u0431\u0443\u0440\u0433) \u2014 \u0440\u0435\u0433\u0435\u043D\u0442 \u0412\u0435\u043B\u0438\u043A\u043E\u0433\u043E \u0433\u0435\u0440\u0446\u043E\u0433\u0441\u0442\u0432\u0430 \u041B\u044E\u043A\u0441\u0435\u043C\u0431\u0443\u0440\u0433\u0443 \u0437 3 \u0431\u0435\u0440\u0435\u0437\u043D\u044F 1998 \u043F\u043E 7 \u0436\u043E\u0432\u0442\u043D\u044F 2000 \u0440\u043E\u043A\u0443, \u0412\u0435\u043B\u0438\u043A\u0438\u0439 \u0433\u0435\u0440\u0446\u043E\u0433 \u041B\u044E\u043A\u0441\u0435\u043C\u0431\u0443\u0440\u0433\u0443. \u0417\u0456\u0439\u0448\u043E\u0432 \u043D\u0430 \u043F\u0440\u0435\u0441\u0442\u043E\u043B 7 \u0436\u043E\u0432\u0442\u043D\u044F 2000 \u0440\u043E\u043A\u0443."@uk ,
+		"Henri von Nassau (* 16. April 1955 auf Schloss Betzdorf in Betzdorf als Henri Albert Gabriel F\u00E9lix Marie Guillaume) ist seit dem 7. Oktober 2000 Gro\u00DFherzog von Luxemburg, Herzog von Nassau. Im deutschen Sprachraum wird er auch als Heinrich bezeichnet. Er f\u00FChrt als vollst\u00E4ndigen Titel \u201ESeine K\u00F6nigliche Hoheit Henri, Gro\u00DFherzog von Luxemburg, Herzog von Nassau, Prinz von Bourbon-Parma, Graf von Sayn, K\u00F6nigstein, Katzenelnbogen und Diez, Burggraf von Hammerstein, Herr von Mahlberg, Wiesbaden, Idstein, Merenberg, Limburg und Eppstein\u201C."@de ,
+		"\u0627\u0644\u062F\u0648\u0642 \u0627\u0644\u0623\u0643\u0628\u0631 \u0647\u0646\u0631\u064A\u060C \u062F\u0648\u0642 \u0644\u0648\u0643\u0633\u0645\u0628\u0648\u0631\u063A \u0645\u0648\u0627\u0644\u064A\u062F 16 \u0623\u0628\u0631\u064A\u0644 1955 \u0641\u064A \u0645\u062F\u064A\u0646\u0629 \u0628\u064A\u0632\u062F\u0631\u0648\u0641 (\u0644\u0648\u0643\u0633\u0645\u0628\u0648\u0631\u063A). \u0627\u0639\u062A\u0644\u0649 \u0645\u0646\u0635\u0628 \u0627\u0644\u062D\u0627\u0643\u0645 \u0627\u0644\u062F\u0633\u062A\u0648\u0631\u064A \u0644\u062F\u0648\u0642\u064A\u0629 \u0644\u0648\u0643\u0633\u0645\u0628\u0648\u0631\u063A \u0627\u0644\u0643\u0628\u0631\u0649 \u0645\u0646\u0630 \u062A\u0646\u0627\u0632\u0644 \u0648\u0627\u0644\u062F\u0647 \u0627\u0644\u062F\u0648\u0642 \u0627\u0644\u0623\u0643\u0628\u0631 \u062C\u0627\u0646 \u0641\u064A \u0639\u0627\u0645 2000."@ar ,
+		"Henri (bahasa Luksemburg: Henri Albert Gabriel F\u00E9lix Marie Guillaume, pelafalan ; lahir 16 April 1955; umur 64 tahun) adalah Haryapatih Luksemburg yang berkuasa sejak 7 Oktober 2000. Ia adalah putra tertua dari Haryapatih Jean dan Putri Jos\u00E9phine Charlotte dari Belgia, dan juga merupakan sepupu dari Philippe, Raja Belgia."@in ,
+		"\u30A2\u30F3\u30EA\uFF08Henri de Luxembourg, Henri Albert Gabriel F\u00E9lix Marie Guillaume, 1955\u5E744\u670816\u65E5 - \uFF09\u306F\u3001\u73FE\u30EB\u30AF\u30BB\u30F3\u30D6\u30EB\u30AF\u5927\u516C\u3002"@ja ,
+		"\u0415\u0433\u043E \u041A\u043E\u0440\u043E\u043B\u0435\u0432\u0441\u043A\u043E\u0435 \u0412\u044B\u0441\u043E\u0447\u0435\u0441\u0442\u0432\u043E \u0410\u043D\u0440\u0438 (\u0413\u0435\u043D\u0440\u0438\u0445) (\u0444\u0440. \u0438 \u043B\u044E\u043A\u0441\u0435\u043C\u0431. Henri, \u043F\u043E\u043B\u043D\u043E\u0435 \u0438\u043C\u044F Henri Albert Gabriel F\u00E9lix Marie Guillaume von Nassau; \u0440\u043E\u0434. 16 \u0430\u043F\u0440\u0435\u043B\u044F 1955, \u0411\u0435\u0446\u0434\u043E\u0440\u0444\u0441\u043A\u0438\u0439 \u0437\u0430\u043C\u043E\u043A, \u0411\u0435\u0446\u0434\u043E\u0440\u0444) \u2014 \u0412\u0435\u043B\u0438\u043A\u0438\u0439 \u0433\u0435\u0440\u0446\u043E\u0433 \u041B\u044E\u043A\u0441\u0435\u043C\u0431\u0443\u0440\u0433\u0430 c 7 \u043E\u043A\u0442\u044F\u0431\u0440\u044F 2000 \u0433\u043E\u0434\u0430, \u0440\u0435\u0433\u0435\u043D\u0442 \u0412\u0435\u043B\u0438\u043A\u043E\u0433\u043E \u0433\u0435\u0440\u0446\u043E\u0433\u0441\u0442\u0432\u0430 \u0441 3 \u043C\u0430\u0440\u0442\u0430 1998 \u0433\u043E\u0434\u0430 \u043F\u043E 7 \u043E\u043A\u0442\u044F\u0431\u0440\u044F 2000 \u0433\u043E\u0434\u0430."@ru ,
+		"Henriko de Luksemburgo (* la 16-an de aprilo 1955 en Betzdorf, Luksemburgo) estas la grandduko de Luksemburgo. Li en la franca kaj luksemburga lingvoj nomi\u011Das Henri kaj en la germana lingvo Heinrich. Henriko estas la sesa luksemburga reganto el la dinastio Nassau-Weilburg. Lia plena titolo estas \"Lia Re\u011Da Mo\u015Dto grandduko de Luksemburgo, duko de Nassau, princo de Bourbon-Parma, grafo de Sayn, K\u00F6nigstein, Katzenelnbogen kaj Diez, fortika\u0135a grafo de Hammerstein, sinjoro de Mahlberg, Wiesbaden, Idstein, Merenberg, Limburg kaj Eppstein\"."@eo ,
+		"Enrique de Nassau-Weilburg y Borb\u00F3n-Parma (Henri Albert Gabriel F\u00E9lix Marie Guillaume vu Nassau-Weilburg) es el actual gran duque de Luxemburgo, por lo tanto le corresponde asumir la funci\u00F3n de jefe de Estado del pa\u00EDs. Es hijo del anterior gran duque Juan de Luxemburgo y de su esposa, la princesa Josefina Carlota de B\u00E9lgica."@es ,
+		"Henri (French: Henri Albert Gabriel F\u00E9lix Marie Guillaume, pronounced [\u0251\u0303\u02C8\u0280i]; born 16 April 1955) is the Grand Duke of Luxembourg, reigning since 7 October 2000. He is the eldest son of Grand Duke Jean and Princess Jos\u00E9phine-Charlotte of Belgium, and a first cousin of King Philippe of Belgium. In 2019, his net worth was estimated around US$4 billion."@en ,
+		"\uC559\uB9AC \uB4DC \uB93D\uC0C1\uBD80\uB974(Henri de Luxembourg, 1955\uB144 4\uC6D4 16\uC77C ~ )\uB294 \uB8E9\uC148\uBD80\uB974\uD06C\uC758 \uB300\uACF5\uC774\uB2E4. \uADF8\uB294 2000\uB144 10\uC6D4 7\uC77C \uC544\uBC84\uC9C0 \uC7A5 \uB300\uACF5\uC758 \uC591\uC704\uB85C \uB8E9\uC148\uBD80\uB974\uD06C \uB300\uACF5\uAD6D\uC758 \uAD70\uC8FC\uAC00 \uB418\uC5C8\uB2E4. \uC815\uC2DD \uC774\uB984\uC740 \uC559\uB9AC \uC54C\uBCA0\uB974 \uAC00\uBE0C\uB9AC\uC5D8 \uD3A0\uB9AD\uC2A4 \uB9C8\uB9AC \uAE30\uC6A4(Henri Albert Gabriel F\u00E9lix Marie Guillaume)\uC774\uB2E4."@ko ,
+		"Henri Albert Gabriel Felix Maria av Luxemburg av huset Bourbon, f\u00F6dd 16 april 1955 i Betzdorf, \u00E4r sedan 7 oktober 2000, d\u00E5 han eftertr\u00E4dde sin far, storhertig av Luxemburg. Han \u00E4r son till Jean av Luxemburg och Josephine Charlotte. Storhertigen \u00E4r genom sin mormors far brylling till kung Carl XVI Gustaf."@sv ;
+	dbo:activeYearsStartYear	"2000"^^xsd:gYear .
+@prefix ns34:	<http://www.w3.org/2006/03/wn/wn20/instances/> .
+<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg>	dbp:wordnet_type	ns34:synset-sovereign-noun-1 ;
+	dbo:wikiPageLength	"29066"^^xsd:nonNegativeInteger ;
+	dbp:regType	dbr:List_of_prime_ministers_of_Luxembourg ;
+	dbp:predecessor	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> ;
+	dbp:successor	<http://dbpedia.org/resource/Guillaume,_Hereditary_Grand_Duke_of_Luxembourg> ;
+	dbo:predecessor	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> ;
+	dbo:successor	<http://dbpedia.org/resource/Guillaume,_Hereditary_Grand_Duke_of_Luxembourg> ;
+	dbp:house	"Nassau-Weilburg"@en ,
+		"Bourbon-Parma"@en ;
+	dbp:reignType	"Regency"@en .
+dbr:List_of_honours_of_the_Grand-Ducal_Family_of_Luxembourg_by_country	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:Grand_duchy	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+<http://dbpedia.org/resource/1955>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:Princess_Claire_of_Luxembourg	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:Queen_Fabiola_of_Belgium	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:List_of_trips_made_by_Secretary-General_of_the_United_Nations_Ban_Ki-moon	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:Harald_V_of_Norway	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:April_16	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:Atifete_Jahjaga	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:List_of_international_presidential_trips_made_by_Vladimir_Putin	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:Death_and_state_funeral_of_Ronald_Reagan	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+<http://dbpedia.org/resource/Wedding_of_Pavlos,_Crown_Prince_of_Greece,_and_Marie-Chantal_Miller>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:University_of_Geneva	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:Forest_of_Remembrance	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:Permanent_Representative_of_Luxembourg_to_the_United_Nations	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> ;
+	dbp:appointer	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:House_of_Limburg-Stirum	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+<http://dbpedia.org/resource/S\u0142o\u0144sk>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+<http://dbpedia.org/resource/2003_in_Luxembourg>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:Gilsdorf	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+<http://dbpedia.org/resource/1981_in_Luxembourg>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:Luxembourg	dbp:leaderName	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> ;
+	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:Benelux	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:Order_of_the_Golden_Fleece	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+<http://dbpedia.org/resource/1956>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:Heads_of_former_ruling_families	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:Reactions_to_the_2016_Brussels_bombings	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+<http://dbpedia.org/resource/Maria_Teresa,_Grand_Duchess_of_Luxembourg>	dbo:spouse	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> ;
+	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> ;
+	dbp:spouse	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+<http://dbpedia.org/resource/2018_Winter_Olympics_opening_ceremony>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:Snap_election	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:Timeline_of_same-sex_marriage	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:List_of_Knights_of_the_Golden_Fleece	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:List_of_ambassadors_of_Luxembourg_to_the_United_States	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> ;
+	dbp:appointer	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:November_1964	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:Berg_Castle	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:Prima_divisio	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+<http://dbpedia.org/resource/Guillaume,_Hereditary_Grand_Duke_of_Luxembourg>	dbo:parent	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> ;
+	dbp:father	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> ;
+	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:Luxembourg__PersonFunction__1	dbo:person	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+<http://dbpedia.org/resource/2013_Games_of_the_Small_States_of_Europe>	dbp:officiallyOpenedBy	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> ;
+	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+<http://dbpedia.org/resource/2014_in_Luxembourg>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+<http://dbpedia.org/resource/2015_in_Luxembourg>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+<http://dbpedia.org/resource/2013_in_Luxembourg>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+<http://dbpedia.org/resource/Luxembourg\u2013Palestine_relations>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+<http://dbpedia.org/resource/2018_Luxembourg_general_election>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+<http://dbpedia.org/resource/2017_in_Luxembourg>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+<http://dbpedia.org/resource/2018_in_Luxembourg>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+<http://dbpedia.org/resource/2019_in_Luxembourg>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+<http://dbpedia.org/resource/5_euro_cent_coin>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+<http://dbpedia.org/resource/10_euro_cent_coin>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+<http://dbpedia.org/resource/Order_of_the_Crown_(Netherlands)>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+<http://dbpedia.org/resource/1_euro_cent_coin>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+<http://dbpedia.org/resource/20_euro_cent_coin>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+<http://dbpedia.org/resource/2_euro_cent_coin>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+<http://dbpedia.org/resource/2_euro_coin>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+<http://dbpedia.org/resource/50_euro_cent_coin>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:Countess_Amalie_Henriette_of_Solms-Baruth	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+<http://dbpedia.org/resource/Juan_Bautista_Mart\u00EDnez_del_Mazo>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+<http://dbpedia.org/resource/Belgium,_Wisconsin>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:Royal_assent	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:List_of_current_state_leaders_by_date_of_assumption_of_office	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:Council_of_Europe	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+<http://dbpedia.org/resource/Adelaide_of_L\u00F6wenstein-Wertheim-Rosenberg>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+<http://dbpedia.org/resource/2016_Summer_Olympics_opening_ceremony>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+<http://dbpedia.org/resource/60th_Anniversary_Celebrations_of_Bhumibol_Adulyadej\u0027s_Accession>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:Monarchies_in_Europe	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:Birthday	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+<http://dbpedia.org/resource/Prince_F\u00E9lix_of_Luxembourg>	dbo:parent	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> ;
+	dbp:father	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> ;
+	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:Charlemagne_Prize	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:Rugby_Club_Luxembourg	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:List_of_current_heads_of_state_and_government	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:List_of_current_reigning_monarchs_by_length_of_reign	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:List_of_heads_of_state_by_diplomatic_precedence	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:List_of_honorary_British_knights_and_dames	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:List_of_state_leaders_in_2004	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:List_of_state_leaders_in_2007	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:List_of_state_leaders_in_2011	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:List_of_state_leaders_in_2012	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:List_of_state_leaders_in_2018	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:Signatories_to_the_Treaty_establishing_a_Constitution_for_Europe	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+<http://dbpedia.org/resource/Citro\u00EBn_CX>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:List_of_Knights_of_the_Royal_Order_of_the_Seraphim	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:Parliamentary_Assembly_of_the_Council_of_Europe	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:Sovereign	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:List_of_Knights_of_the_Order_of_the_Elephant	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+<http://dbpedia.org/resource/2012_Summer_Paralympics_opening_ceremony>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:List_of_state_leaders_in_1998	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:List_of_state_leaders_in_1999	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:List_of_state_leaders_in_2001	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:List_of_state_leaders_in_2002	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:List_of_state_leaders_in_2003	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:List_of_state_leaders_in_2005	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:List_of_state_leaders_in_2006	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:List_of_state_leaders_in_2008	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:List_of_state_leaders_in_2009	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:List_of_state_leaders_in_2010	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:List_of_state_leaders_in_2013	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:List_of_state_leaders_in_2014	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:List_of_state_leaders_in_2015	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:List_of_state_leaders_in_2017	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:List_of_state_leaders_in_2019	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:List_of_state_leaders_in_2020	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:Dynasty	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:Irina_Walker	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:Royal_Victorian_Order	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+<http://dbpedia.org/resource/2008_in_Luxembourg>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+<http://dbpedia.org/resource/2019_Japanese_imperial_transition>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+<http://dbpedia.org/resource/2020_Moscow_Victory_Day_Parade>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:By_the_Grace_of_God	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+<http://dbpedia.org/resource/2_euro_commemorative_coins>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:Descendants_of_Charles_I_of_England	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:Descendants_of_James_VI_and_I	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:Descendants_of_Henry_IV_of_France	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:List_of_ambassadors_of_the_United_Kingdom_to_Luxembourg	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:List_of_current_Knights_of_the_Royal_Order_of_the_Seraphim	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+<http://dbpedia.org/resource/List_of_international_presidential_trips_made_by_Fran\u00E7ois_Hollande>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:Royal_descendants_of_Queen_Victoria_and_King_Christian_IX	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:List_of_current_consorts_of_sovereigns	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:List_of_international_presidential_trips_made_by_Emmanuel_Macron	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:List_of_presidential_trips_made_by_Emmanuel_Macron	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:List_of_hereditary_monarchies	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+<http://dbpedia.org/resource/List_of_state_leaders_in_the_20th_century_(1951\u20132000)>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:List_of_state_leaders_in_the_21st_century	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+<http://dbpedia.org/resource/Wedding_of_Frederik,_Crown_Prince_of_Denmark,_and_Mary_Donaldson>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:Michael_I_of_Romania	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:Bormes-les-Mimosas	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:Princess_Louise_of_Savoy	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+<http://dbpedia.org/resource/Luxembourg\u0027s_euro_coins>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:Outline_of_Luxembourg	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+<http://dbpedia.org/resource/1_euro_coin>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+<http://dbpedia.org/resource/2006_in_Luxembourg>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:Robertians	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+<http://dbpedia.org/resource/Leszczy\u0144ski>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:Giovanni_II_Bentivoglio	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+<http://dbpedia.org/resource/Curtea_de_Arge\u0219_Cathedral>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:Princess_Ingeborg_of_Denmark	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:Arms_of_dominion	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+<http://dbpedia.org/resource/Karl_Ludwig,_Prince_of_Hohenlohe-Langenburg>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:Death_and_funeral_of_Otto_von_Habsburg	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:Princess_Friederike_of_Hesse-Darmstadt	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+<http://dbpedia.org/resource/Fran\u00E7oise_Marie_de_Bourbon>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+<http://dbpedia.org/resource/Princess_Elisabeth,_Duchess_of_Hohenberg>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+<http://dbpedia.org/resource/Alix,_Princess_of_Ligne>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:Tessy_Antony_de_Nassau	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:Joe_Thein	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:List_of_monarchs_who_lost_their_thrones_in_the_21st_century	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+<http://dbpedia.org/resource/2013_Luxembourg_general_election>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:Princess_Margaretha_of_Liechtenstein	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:Same-sex_marriage_in_Luxembourg	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+<http://dbpedia.org/resource/2007_in_Luxembourg>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:Piotr_Wojtczak	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:List_of_Nassau_consorts	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:Grand_Ducal_Police	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:Order_of_the_Cross_of_Terra_Mariana	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:List_of_recipients_of_the_Order_of_the_Three_Stars	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:Order_of_the_Star_of_Romania	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:List_of_state_visits_made_by_King_Albert_II_of_Belgium	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:List_of_honours_of_Estonia_awarded_to_heads_of_state_and_royalty	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:List_of_alumni_of_the_Royal_Military_Academy_Sandhurst	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:Jean-Claude_Juncker	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> ;
+	dbp:monarch	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:Order_of_Pope_Pius_IX	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:List_of_recipients_of_the_Grand_Collar_of_the_Order_of_Prince_Henry	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:List_of_honours_of_Austria_awarded_to_heads_of_state_and_royalty	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+<http://dbpedia.org/resource/Robert_A._Mandell>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:Wedding_of_Prince_Felipe_and_Letizia_Ortiz	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:Order_of_the_Gold_Lion_of_the_House_of_Nassau	dbp:head	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> ;
+	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:Public_holidays_in_Luxembourg	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+<http://dbpedia.org/resource/Fran\u00E7ois_Bausch>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:Fischbach_Castle	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+<http://dbpedia.org/resource/1955_in_Luxembourg>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:Grand_Duchess_Charlotte_Maternity_Hospital	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+<http://dbpedia.org/resource/Charles_Marie_Raymond_d\u0027Arenberg>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:Betzdorf_Castle	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:List_of_heirs_to_the_throne_of_Luxembourg	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:Line_of_succession_to_the_Luxembourger_throne	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+<http://dbpedia.org/resource/Ernest_Leopold,_Landgrave_of_Hesse-Rotenburg>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+<http://dbpedia.org/resource/1999_in_Luxembourg>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+<http://dbpedia.org/resource/2002_in_Luxembourg>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:List_of_members_of_the_Council_of_State_of_Luxembourg	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:Henry	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:Gousselerbierg_Tunnel	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+<http://dbpedia.org/resource/2016_in_Luxembourg>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:Graduate_Institute_of_International_and_Development_Studies	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:List_of_alumni_of_the_Graduate_Institute_of_International_and_Development_Studies	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:List_of_dignitaries_at_the_memorial_service_of_Nelson_Mandela	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:List_of_Florida_Institute_of_Technology_people	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:List_of_royal_weddings	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:Wedding_of_Prince_Andrew_and_Sarah_Ferguson	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:Daimler_DS420	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:Princess_Margaretha_of_Sweden	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:List_of_honours_of_the_British_Crown_awarded_to_heads_of_state_and_royalty	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:Royal_descendants_of_John_William_Friso	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:Order_of_the_Oak_Crown	dbp:head	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> ;
+	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:Armorial_of_the_House_of_Nassau	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:List_of_honours_of_Netherlands_awarded_to_heads_of_state_and_royalty	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+<http://dbpedia.org/resource/Order_of_the_White_Eagle_(Poland)>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+<http://dbpedia.org/resource/Orders,_decorations,_and_medals_of_Senegal>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:House_of_Nassau	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:Order_of_Merit_of_the_Italian_Republic	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+<http://dbpedia.org/resource/Order_of_St._Olav>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:Order_of_Adolphe_of_Nassau	dbp:head	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> ;
+	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:List_of_honours_of_Belgium_awarded_to_heads_of_state_and_royalty	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:List_of_honours_of_Finland_awarded_to_heads_of_state_and_royalty	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:List_of_honours_of_Italy_awarded_to_heads_of_state_and_royalty	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:List_of_honours_of_Luxembourg_awarded_to_heads_of_state_and_royalty	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:List_of_honours_of_Norway_awarded_to_heads_of_state_and_royalty	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:List_of_honours_of_Portugal_awarded_to_heads_of_state_and_royalty	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:List_of_honours_of_Spain_awarded_to_heads_of_state_and_royalty	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:Order_of_the_Southern_Cross	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:Sophia_of_Nassau	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:Order_of_the_Chrysanthemum	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:Order_of_the_Elephant	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:Oscar_II	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+<http://dbpedia.org/resource/Fran\u00E7ois_Clary>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:List_of_Commanders_of_the_Grand_Cross_of_the_Order_of_the_White_Rose_of_Finland	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:List_of_recipients_of_the_Order_of_Merit_of_the_Federal_Republic_of_Germany	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:Royal_intermarriage	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:List_of_regents	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:House_of_Bourbon-Parma	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:Christian_IX_of_Denmark	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> ;
+	dbp:successor	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> ;
+	dbo:successor	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> ;
+	dbo:child	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> ;
+	dbp:issue	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:Casa_Rocca_Piccola	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+<http://dbpedia.org/resource/Wedding_of_Haakon,_Crown_Prince_of_Norway,_and_Mette-Marit_Tjessem_H\u00F8iby>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:List_of_current_monarchs_of_sovereign_states	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+<http://dbpedia.org/resource/Catherine_of_Brunswick-Wolfenb\u00FCttel,_Duchess_of_Saxe-Lauenburg>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+<http://dbpedia.org/resource/Wedding_of_Albert_II,_Prince_of_Monaco,_and_Charlene_Wittstock>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:Order_of_the_State_of_Republic_of_Turkey	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:Descendants_of_Ferdinand_II_of_Aragon_and_Isabella_I_of_Castile	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:Count_Karl_Leopold_von_Schlieben	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:Countess_Friederike_von_Schlieben	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:Countess_Palatine_Dorothea_of_Simmern	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:List_of_honours_of_Denmark_awarded_to_heads_of_state_and_royalty	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+<http://dbpedia.org/resource/Wedding_of_Guillaume,_Hereditary_Grand_Duke_of_Luxembourg,_and_Countess_St\u00E9phanie_de_Lannoy>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+<http://dbpedia.org/resource/Wedding_of_Prince_Philippe_and_Mathilde_d\u0027Udekem_d\u0027Acoz>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+<http://dbpedia.org/resource/Wedding_of_Princess_Madeleine_and_Christopher_O\u0027Neill>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+<http://dbpedia.org/resource/Wedding_of_Victoria,_Crown_Princess_of_Sweden,_and_Daniel_Westling>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:List_of_people_on_coins	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:List_of_royalty_by_net_worth	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:List_of_heirs_apparent	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:List_of_spouses_of_heads_of_state	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:Elisabeth_of_Saxony	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:Prince_regent	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+<http://dbpedia.org/resource/Princess_Jos\u00E9phine_Charlotte_of_Belgium>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> ;
+	dbo:child	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> ;
+	dbp:issue	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:Leopold_III_of_Belgium	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:List_of_monarchs_who_abdicated	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+<http://dbpedia.org/resource/Richmond,_The_American_International_University_in_London>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:List_of_monarchs_of_Luxembourg	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:List_of_prime_ministers_of_Luxembourg	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:Assomada	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:Diamond_Jubilee_Armed_Forces_Parade_and_Muster	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:List_of_dynasties	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:Prince_Sixtus_Henry_of_Bourbon-Parma	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:List_of_Cuban_Americans	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+<http://dbpedia.org/resource/Wedding_of_Willem-Alexander,_Prince_of_Orange,_and_M\u00E1xima_Zorreguieta_Cerruti>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:Princess_Tsuguko_of_Takamado	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:Hartmut_Lademacher	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:House_of_Nassau-Weilburg	dbp:currentHead	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> ;
+	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:History_of_Luxembourg	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:Olympia_von_und_zu_Arco-Zinneberg	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+<http://dbpedia.org/resource/Bock_(Luxembourg)>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:Xavier_Bettel	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> ;
+	dbp:monarch	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:Princess_Alexandra_of_Luxembourg	dbo:parent	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> ;
+	dbp:father	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> ;
+	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:Jean_Muller	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:Julien_Hoffmann	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:Philippe_de_Lannoy	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:List_of_presidential_trips_made_by_Joachim_Gauck	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:Alix_de_Lannoy	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:Astrid_of_Sweden	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:Monarchy_of_Belgium	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:List_of_wedding_guests_of_Prince_William_and_Catherine_Middleton	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:House_of_Bourbon	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:LGBT_rights_in_Luxembourg	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:Miguelist	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+<http://dbpedia.org/resource/Michel,_Prince_of_Ligne>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:List_of_dignitaries_at_the_funeral_of_Pope_John_Paul_II	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:List_of_state_leaders_in_2000	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:List_of_state_leaders_in_2016	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+<http://dbpedia.org/resource/Isabel,_Duchess_of_Braganza>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+<http://dbpedia.org/resource/Prince_Carl,_Duke_of_V\u00E4sterg\u00F6tland>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:List_of_Grand_Cordons_of_the_Order_of_Leopold	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:List_of_honours_of_Sweden_awarded_to_heads_of_state_and_royalty	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:List_of_state_visits_received_by_King_Carl_XVI_Gustaf_of_Sweden	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:Henrietta_of_England	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:Decoration_of_Honour_for_Services_to_the_Republic_of_Austria	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:List_of_presidential_trips_made_by_Christian_Wulff	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:Patricia_Kaas	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+<http://dbpedia.org/resource/2015_European_Games_opening_ceremony>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:Henri_I_of_Luxembourg	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> ;
+	dbo:wikiPageRedirects	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:Louis_de_Luxembourg	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:Grand_Duke_Henri	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> ;
+	dbo:wikiPageRedirects	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:Grand_Duke_Henri_of_Luxembourg	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> ;
+	dbo:wikiPageRedirects	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:Henri_of_Luxembourg	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> ;
+	dbo:wikiPageRedirects	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+<http://dbpedia.org/resource/Henry,_Grand_Duke_of_Luxembourg>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> ;
+	dbo:wikiPageRedirects	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+<http://dbpedia.org/resource/Peter_Terpeluk_Jr.>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:Order_of_Merit_of_the_Grand_Duchy_of_Luxembourg	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:Mentor_Foundation	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:Politics_of_Luxembourg	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:List_of_Luxembourgers	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:Prince_Frederick_Augustus_of_Anhalt-Dessau	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+dbr:Princess_Marie_Luise_Charlotte_of_Hesse-Kassel	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+<http://dbpedia.org/resource/Luxembourg\u2013Turkey_relations>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .
+<http://dbpedia.org/resource/2005_in_Luxembourg>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> .

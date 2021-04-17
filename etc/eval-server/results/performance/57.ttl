@@ -1,0 +1,911 @@
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+<http://dbpedia.org/resource/1921>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+<http://dbpedia.org/resource/1996_in_Luxembourg>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+<http://dbpedia.org/resource/1998_Winter_Olympics_opening_ceremony>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+<http://dbpedia.org/resource/1951_in_Luxembourg>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+dbr:German_invasion_of_Luxembourg	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+<http://dbpedia.org/resource/1984_in_Luxembourg>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+dbr:List_of_state_leaders_in_1992	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+dbr:List_of_state_leaders_in_1993	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+dbr:Ingrid_of_Sweden	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+<http://dbpedia.org/resource/2006_in_art>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+dbr:List_of_recipients_of_the_Bronze_Wolf_Award	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+dbr:Bronze_Wolf_Award	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+dbr:Olympic_Order	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+dbr:Death_and_state_funeral_of_King_Hussein	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+dbr:List_of_state_visits_made_by_King_Harald_V_of_Norway	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+dbr:Death_and_funeral_of_Hirohito	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+dbr:List_of_state_visits_to_Iran	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+dbr:Death_and_state_funeral_of_Josip_Broz_Tito	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+<http://dbpedia.org/resource/Prince_Charles_of_Luxembourg_(1927\u20131977)>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+dbr:Grand_Ducal_Family_of_Luxembourg	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+dbr:Armorial_of_the_Capetian_dynasty	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+dbr:List_of_living_legitimate_male_Capetians	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+dbr:Monarchy_of_Luxembourg	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+<http://dbpedia.org/resource/Robert_I,_Duke_of_Parma>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+dbr:Bourbon_family_tree	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+dbr:List_of_consorts_of_Luxembourg	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+dbr:Marcel_Mart	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+<http://dbpedia.org/resource/2000_in_Luxembourg>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+<http://dbpedia.org/resource/1977_in_Luxembourg>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+<http://dbpedia.org/resource/1980_in_Luxembourg>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+<http://dbpedia.org/resource/1997_in_Luxembourg>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+<http://dbpedia.org/resource/1998_in_Luxembourg>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+dbr:Luxembourg_Synagogue	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+dbr:Archduke_Carl_Christian_of_Austria	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+dbr:Coat_of_arms_of_Luxembourg	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+dbr:Grand_Duke_Jean	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> ;
+	dbo:wikiPageRedirects	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+dbr:Grand_duc_jean	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> ;
+	dbo:wikiPageRedirects	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+dbr:Grand_Duke_Jean_of_Luxembourg	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> ;
+	dbo:wikiPageRedirects	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+<http://dbpedia.org/resource/Jean_Benoit_Guillaume_Marie_Robert_Louis_Antoine_Adolphe_Marc_D\u0027Aviano>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> ;
+	dbo:wikiPageRedirects	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+<http://dbpedia.org/resource/Jean_Beno\u00EEt_Guillaume_Robert_Antoine_Louis_Marie_Adolphe_Marc_d\u0027Aviano>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> ;
+	dbo:wikiPageRedirects	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+dbr:Jean_Grand_Duke_of_Luxembourg	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> ;
+	dbo:wikiPageRedirects	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+dbr:Jean_of_Luxembourg	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> ;
+	dbo:wikiPageRedirects	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+<http://dbpedia.org/resource/John,_Grand_Duke_of_Luxembourg>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> ;
+	dbo:wikiPageRedirects	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+<http://en.wikipedia.org/wiki/Jean,_Grand_Duke_of_Luxembourg>	foaf:primaryTopic	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+<http://dbpedia.org/resource/1991_in_Luxembourg>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+<http://dbpedia.org/resource/1979_in_Luxembourg>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+dbr:Capetian_dynasty	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+dbr:Burial_sites_of_European_monarchs_and_consorts	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+dbr:List_of_British_Army_full_generals	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+dbr:Mudam	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+<http://dbpedia.org/resource/1992_in_Luxembourg>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+<http://dbpedia.org/resource/1982_in_Luxembourg>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+<http://dbpedia.org/resource/1989_in_Luxembourg>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+dbr:Javal_family	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+dbr:Joan_Dillon	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+dbr:German_occupation_of_Luxembourg_during_World_War_II	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+<http://dbpedia.org/resource/Infanta_Alicia,_Duchess_of_Calabria>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+dbr:Descendants_of_Miguel_I_of_Portugal	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg>	dbo:parent	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+@prefix dbp:	<http://dbpedia.org/property/> .
+<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg>	dbp:father	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> ;
+	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> ;
+	dbp:predecessor	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> ;
+	dbo:predecessor	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+dbr:Gaston_Thorn	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> ;
+	dbp:monarch	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+dbr:List_of_people_educated_at_Ampleforth_College	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+dbr:Jean_de_Luxembourg	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+dbr:Protestant_Reformed_Church_of_Luxembourg	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+<http://dbpedia.org/resource/1988_in_Luxembourg>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+<http://dbpedia.org/resource/1971_in_Luxembourg>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+dbr:Foreign_relations_of_Luxembourg	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+<http://dbpedia.org/resource/Luxembourg\u2013Mexico_relations>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+dbr:List_of_state_dinners_in_the_United_States	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+dbr:Harald_V_of_Norway	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+<http://dbpedia.org/resource/List_of_dignitaries_at_the_state_funeral_of_John_F._Kennedy>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+dbr:Guillaume_Konsbruck	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+<http://dbpedia.org/resource/Wedding_of_Pavlos,_Crown_Prince_of_Greece,_and_Marie-Chantal_Miller>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+dbr:January_5	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+dbr:Luxembourg_government_in_exile	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+<http://dbpedia.org/resource/1981_in_Luxembourg>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+dbr:Medal_of_Merit_for_Blood_Donation	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+dbr:Jean_I	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+<http://dbpedia.org/resource/Universit\u00E9_Laval>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+<http://dbpedia.org/resource/Charlotte,_Grand_Duchess_of_Luxembourg>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> ;
+	dbp:successor	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> ;
+	dbo:successor	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> ;
+	dbo:child	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> ;
+	dbp:issue	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+dbr:List_of_state_leaders_in_1994	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+dbr:Foreign_relations_of_Mexico	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+dbr:List_of_Knights_of_the_Golden_Fleece	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+@prefix ns4:	<http://dbpedia.org/resource/List_of_diplomatic_visits_to_the_United_States:> .
+ns4:_Europe	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+<http://dbpedia.org/resource/Facult\u00E9_de_droit_de_l\u0027Universit\u00E9_Laval>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+dbr:November_1963	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+dbr:Paul-Louis_Weiller	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+dbr:November_1964	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+dbr:List_of_state_leaders_in_1965	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+dbr:National_day_of_mourning	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+<http://dbpedia.org/resource/1986_in_Luxembourg>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+dbr:Berg_Castle	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+dbr:Countess_Georgina_von_Wilczek	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+dbr:Prince_Guillaume_of_Luxembourg	dbo:parent	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> ;
+	dbp:father	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> ;
+	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+<http://dbpedia.org/resource/1972_in_Luxembourg>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+<http://dbpedia.org/resource/1973_in_Luxembourg>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+<http://dbpedia.org/resource/1987_in_Luxembourg>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+<http://dbpedia.org/resource/1995_Games_of_the_Small_States_of_Europe>	dbp:officiallyOpenedBy	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> ;
+	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+<http://dbpedia.org/resource/2019_in_Luxembourg>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+dbr:Elizabeth_II	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+<http://dbpedia.org/resource/2019>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+<http://dbpedia.org/resource/1975_in_Luxembourg>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+<http://dbpedia.org/resource/1967_in_Luxembourg>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+<http://dbpedia.org/resource/Adelaide_of_L\u00F6wenstein-Wertheim-Rosenberg>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+dbr:List_of_people_on_banknotes	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+dbr:Luxembourg_in_World_War_II	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+dbr:Monarch	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+dbr:List_of_honorary_British_knights_and_dames	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+dbr:Georges_Pompidou	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+<http://dbpedia.org/resource/1974_in_Luxembourg>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+<http://dbpedia.org/resource/1988_Summer_Olympics_opening_ceremony>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+<http://dbpedia.org/resource/1996_Summer_Olympics_opening_ceremony>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+dbr:List_of_Knights_of_the_Royal_Order_of_the_Seraphim	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+dbr:Silver_jubilee	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+dbr:List_of_Knights_of_the_Order_of_the_Elephant	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+dbr:List_of_state_leaders_in_1961	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+dbr:List_of_state_leaders_in_1962	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+dbr:List_of_state_leaders_in_1964	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+dbr:List_of_state_leaders_in_1966	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+dbr:List_of_state_leaders_in_1967	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+dbr:List_of_state_leaders_in_1968	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+dbr:List_of_state_leaders_in_1969	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+dbr:List_of_state_leaders_in_1971	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+dbr:List_of_state_leaders_in_1972	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+dbr:List_of_state_leaders_in_1973	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+dbr:List_of_state_leaders_in_1974	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+dbr:List_of_state_leaders_in_1975	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+dbr:List_of_state_leaders_in_1978	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+dbr:List_of_state_leaders_in_1979	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+dbr:List_of_state_leaders_in_1981	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+dbr:List_of_state_leaders_in_1983	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+dbr:List_of_state_leaders_in_1984	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+dbr:List_of_state_leaders_in_1995	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+dbr:List_of_state_leaders_in_1996	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+dbr:List_of_state_leaders_in_1997	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+dbr:List_of_state_leaders_in_1998	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+dbr:List_of_state_leaders_in_1999	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+dbr:List_of_Georgetown_University_alumni	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+<http://dbpedia.org/resource/2_euro_commemorative_coins>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+dbr:Unisex_name	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+dbr:Death_and_state_funeral_of_Winston_Churchill	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+dbr:List_of_ambassadors_of_the_United_Kingdom_to_Luxembourg	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+dbr:List_of_state_leaders_in_1963	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+dbr:List_of_state_leaders_in_1976	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+dbr:List_of_state_leaders_in_1982	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+dbr:List_of_state_leaders_in_1985	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+dbr:List_of_state_leaders_in_1986	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+dbr:List_of_state_leaders_in_1987	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+dbr:List_of_state_leaders_in_1988	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+dbr:January_1921	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+dbr:List_of_international_presidential_trips_made_by_Ronald_Reagan	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+dbr:List_of_monarchs_who_lost_their_thrones_in_the_20th_century	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+<http://dbpedia.org/resource/List_of_state_leaders_in_the_20th_century_(1951\u20132000)>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+dbr:Tourism_in_Luxembourg	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+dbr:Irish_Guards	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+<http://dbpedia.org/resource/Military_Medal_(Luxembourg)>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+dbr:Pierre_Werner	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> ;
+	dbp:monarch	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+dbr:Prince_Jean_of_Luxembourg	dbo:parent	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> ;
+	dbp:father	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> ;
+	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+<http://dbpedia.org/resource/Luxembourg\u0027s_euro_coins>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+<http://dbpedia.org/resource/Cercle_de_l\u0027Union_interalli\u00E9e>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+<http://dbpedia.org/resource/Leszczy\u0144ski>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+dbr:Vianden	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+<http://dbpedia.org/resource/1953_in_Belgium>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+dbr:Family_tree_of_Belgian_monarchs	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+<http://dbpedia.org/resource/Jean_(male_given_name)>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+<http://dbpedia.org/resource/Princess_Elisabeth,_Duchess_of_Hohenberg>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+dbr:Princess_Marie_Adelaide_of_Luxembourg	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+<http://dbpedia.org/resource/Alix,_Princess_of_Ligne>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+<http://dbpedia.org/resource/1970_in_Luxembourg>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+dbr:Vianden_Castle	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+<http://dbpedia.org/resource/1978_in_Luxembourg>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+<http://dbpedia.org/resource/1968_in_Luxembourg>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+dbr:List_of_monarchs_who_lost_their_thrones_in_the_21st_century	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+dbr:Princess_Margaretha_of_Liechtenstein	dbo:parent	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> ;
+	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+<http://dbpedia.org/resource/Belgium\u2013Luxembourg_relations>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+<http://dbpedia.org/resource/1993_in_Luxembourg>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+<http://dbpedia.org/resource/1965_in_Luxembourg>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+<http://dbpedia.org/resource/1966_in_Luxembourg>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+<http://dbpedia.org/resource/1969_in_Luxembourg>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+dbr:List_of_Nassau_consorts	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+dbr:List_of_state_visits_made_by_King_Albert_II_of_Belgium	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+dbr:List_of_state_visits_received_by_Elizabeth_II	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+<http://dbpedia.org/resource/2000_Summer_Olympics_opening_ceremony>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+dbr:List_of_alumni_of_the_Royal_Military_Academy_Sandhurst	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+dbr:Jean-Claude_Juncker	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> ;
+	dbp:monarch	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+dbr:List_of_recipients_of_the_Grand_Collar_of_the_Order_of_Prince_Henry	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+dbr:List_of_honours_of_Austria_awarded_to_heads_of_state_and_royalty	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+<http://dbpedia.org/resource/List_of_Universit\u00E9_Laval_people>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+dbr:Highland_Cathedral	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+dbr:Public_holidays_in_Luxembourg	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+<http://dbpedia.org/resource/Notre-Dame_Cathedral,_Luxembourg>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+dbr:Fischbach_Castle	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+<http://dbpedia.org/resource/1953_in_Luxembourg>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+<http://dbpedia.org/resource/Princess_Hilda_of_Luxembourg_(1897\u20131979)>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+<http://dbpedia.org/resource/1990_in_Luxembourg>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+<http://dbpedia.org/resource/1961_in_Luxembourg>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+<http://dbpedia.org/resource/1964_in_Luxembourg>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+dbr:Archduchess_Marie_Astrid_of_Austria	dbo:parent	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> ;
+	dbp:father	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> ;
+	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+<http://dbpedia.org/resource/Charles_Marie_Raymond_d\u0027Arenberg>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+dbr:Betzdorf_Castle	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+dbr:List_of_heirs_to_the_throne_of_Luxembourg	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+<http://dbpedia.org/resource/Grand_Duke\u0027s_Official_Birthday>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+dbr:Line_of_succession_to_the_Luxembourger_throne	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+dbr:Villa_Vauban	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+<http://dbpedia.org/resource/1999_in_Luxembourg>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+<http://dbpedia.org/resource/India\u2013Luxembourg_relations>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+<http://dbpedia.org/resource/Prince_Pedro_Luiz_of_Orl\u00E9ans-Braganza>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+dbr:Exiles_Memorial_Center	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+dbr:Deaths_in_April_2019	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+dbr:Lady_Elizabeth_Shakerley	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+dbr:List_of_wedding_guests_of_Prince_Charles_and_Lady_Diana_Spencer	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+dbr:Funeral_of_Queen_Elizabeth_The_Queen_Mother	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+dbr:List_of_royal_guests_at_the_coronation_of_Elizabeth_II	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+dbr:Wedding_of_Princess_Elizabeth_and_Philip_Mountbatten	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+dbr:Wedding_of_Prince_Andrew_and_Sarah_Ferguson	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+dbr:Wedding_of_Prince_Edward_and_Sophie_Rhys-Jones	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+dbr:Daimler_DS420	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+dbr:List_of_Knights_and_Ladies_of_the_Garter	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+dbr:List_of_honours_of_the_British_Crown_awarded_to_heads_of_state_and_royalty	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+dbr:Royal_descendants_of_John_William_Friso	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+dbr:Prince_Felix_of_Bourbon-Parma	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> ;
+	dbo:child	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> ;
+	dbp:issue	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+dbr:Armorial_of_the_House_of_Nassau	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+<http://dbpedia.org/resource/Index_of_World_War_II_articles_(J)>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+dbr:House_of_Nassau	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+dbr:Order_of_Merit_of_the_Italian_Republic	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+dbr:List_of_honours_of_Germany_awarded_to_heads_of_state_and_royalty	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+dbr:List_of_honours_of_Italy_awarded_to_heads_of_state_and_royalty	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+dbr:List_of_honours_of_Norway_awarded_to_heads_of_state_and_royalty	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+dbr:List_of_honours_of_Portugal_awarded_to_heads_of_state_and_royalty	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+dbr:List_of_honours_of_Spain_awarded_to_heads_of_state_and_royalty	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+dbr:Order_of_the_Royal_House_of_Chakri	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+dbr:List_of_Commanders_of_the_Grand_Cross_of_the_Order_of_the_White_Rose_of_Finland	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+dbr:Villa_La_Reine_Jeanne	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+dbr:List_of_recipients_of_the_Order_of_Merit_of_the_Federal_Republic_of_Germany	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+dbr:Royal_intermarriage	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+dbr:Wedding_of_Constantine_II_of_Greece_and_Anne-Marie_of_Denmark	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+dbr:List_of_regents	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+dbr:House_of_Bourbon-Parma	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg>	rdf:type	<http://dbpedia.org/class/yago/WikicatUniversit\u00E9LavalAlumni> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg>	rdf:type	yago:Communicator109610660 .
+@prefix umbel-rc:	<http://umbel.org/umbel/rc/> .
+<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg>	rdf:type	umbel-rc:RoyalFamily ,
+		yago:WikicatRomanCatholicMonarchs ,
+		yago:WikicatMonarchsWhoAbdicated ,
+		yago:WikicatPrincesOfBourbon-Parma ,
+		yago:WikicatGrandDukesOfLuxembourg ,
+		yago:WikicatGrandMastersOfTheOrderOfAdolpheOfNassau ,
+		yago:WikicatLuxembourgianPeopleOfWorldWarII ,
+		yago:WikicatPeopleFromColmar-Berg ,
+		yago:WikicatGrandMastersOfTheOrderOfTheGoldLionOfTheHouseOfNassau ,
+		yago:WikicatGrandMastersOfTheOrderOfTheOakCrown ,
+		yago:Prince110472799 ,
+		yago:Sovereign110628644 ,
+		yago:Maestro110280130 ,
+		yago:Artist109812338 ,
+		yago:Creator109614315 ,
+		foaf:Person ,
+		yago:Representative110522035 ,
+		yago:HeadOfState110164747 ,
+		yago:Negotiator110351874 ,
+		dbo:Agent .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg>	rdf:type	owl:Thing ,
+		yago:WikicatKnightsOfTheOrderOfTheMostHolyAnnunciation ,
+		yago:CausalAgent100007347 ,
+		dbo:Person ,
+		yago:Object100002684 ,
+		yago:Person100007846 ,
+		yago:PhysicalEntity100001930 ,
+		yago:Organism100004475 ,
+		yago:Whole100003553 ,
+		yago:YagoLegalActor ,
+		yago:YagoLegalActorGeo ,
+		yago:LivingThing100004258 .
+@prefix ns9:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg>	rdf:type	ns9:NaturalPerson ,
+		ns9:Agent ,
+		dbo:Royalty ,
+		yago:Knight110238375 ,
+		yago:WikicatIrishGuardsOfficers .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg>	rdf:type	wikidata:Q215627 ,
+		yago:WikicatPeopleEducatedAtAmpleforthCollege ,
+		yago:WikicatKnightsOfTheGarter ,
+		yago:Owner110389398 ,
+		yago:Officeholder110371450 ,
+		yago:Official110372373 ,
+		yago:Serviceman110582746 ,
+		yago:SkilledWorker110605985 ,
+		yago:Scholar110557854 ,
+		yago:Worker109632518 ,
+		yago:WikicatLivingPeople ,
+		yago:WikicatKnightsOfTheOrderOfTheGoldLionOfTheHouseOfNassau ,
+		yago:Aristocrat109807754 ,
+		yago:Holder110180178 ,
+		yago:Alumnus109786338 ,
+		yago:MaleAristocrat110285135 ,
+		yago:Intellectual109621545 ,
+		yago:Leader109623038 ,
+		yago:MilitaryOfficer110317007 ,
+		yago:Ruler110541229 ,
+		yago:WikicatKnightsOfTheElephant ,
+		yago:WikicatKnightsOfTheGoldenFleece ,
+		wikidata:Q24229398 ,
+		yago:WikicatLuxembourgianPeople ,
+		wikidata:Q5 ,
+		yago:WikicatKnightsOfTheGoldenSpur ,
+		yago:GrandDuke110142060 .
+@prefix schema:	<http://schema.org/> .
+<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg>	rdf:type	schema:Person .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg>	rdfs:label	"Jean av Luxemburg"@sv ,
+		"Jan Lucembursk\u00FD (velkov\u00E9voda)"@cs ,
+		"Joan Luxenburgokoa"@eu ,
+		"Giovanni di Lussemburgo"@it ,
+		"\uC7A5 (\uB8E9\uC148\uBD80\uB974\uD06C)"@ko ,
+		"Jan (wielki ksi\u0105\u017C\u0119 Luksemburga)"@pl ,
+		"Jean (Luksemburgo)"@eo ,
+		"Jan van Luxemburg (1921-2019)"@nl ,
+		"Jean (grand-duc de Luxembourg)"@fr ,
+		"\u8BA9 (\u5362\u68EE\u5821\u5927\u516C)"@zh ,
+		"Juan de Luxemburgo"@es ,
+		"Jean, Grand Duke of Luxembourg"@en ,
+		"\u0416\u0430\u043D (\u0432\u0435\u043B\u0438\u043A\u0438\u0439 \u0433\u0435\u0440\u0446\u043E\u0433 \u041B\u044E\u043A\u0441\u0435\u043C\u0431\u0443\u0440\u0433\u0443)"@uk ,
+		"Jean (Luxemburg)"@de ,
+		"Joan I de Luxemburg"@ca ,
+		"\u30B8\u30E3\u30F3 (\u30EB\u30AF\u30BB\u30F3\u30D6\u30EB\u30AF\u5927\u516C)"@ja ,
+		"\u0416\u0430\u043D (\u0432\u0435\u043B\u0438\u043A\u0438\u0439 \u0433\u0435\u0440\u0446\u043E\u0433 \u041B\u044E\u043A\u0441\u0435\u043C\u0431\u0443\u0440\u0433\u0430)"@ru ,
+		"\u062C\u0627\u0646 \u0628\u0646\u0648\u0627 \u063A\u0631\u0627\u0646\u062F\u0648\u0642 \u0644\u0648\u0643\u0633\u0645\u0628\u0648\u0631\u063A"@ar ,
+		"Jean dari Luksemburg"@in ,
+		"\u0399\u03C9\u03AC\u03BD\u03BD\u03B7\u03C2 \u03C4\u03BF\u03C5 \u039B\u03BF\u03C5\u03BE\u03B5\u03BC\u03B2\u03BF\u03CD\u03C1\u03B3\u03BF\u03C5"@el ,
+		"Jo\u00E3o, Gr\u00E3o-Duque de Luxemburgo"@pt ;
+	rdfs:comment	"\uC7A5(\uD504\uB791\uC2A4\uC5B4: Jean, 1921\uB144 1\uC6D4 5\uC77C ~ 2019\uB144 4\uC6D4 23\uC77C)\uC740 \uB8E9\uC148\uBD80\uB974\uD06C \uB300\uACF5\uC774\uB2E4. \uC5B4\uBA38\uB2C8\uB294 \uB8E9\uC148\uBD80\uB974\uD06C \uC5EC\uB300\uACF5 \uC0E4\uB97C\uB85C\uD2B8\uC774\uBA70 \uC544\uBC84\uC9C0\uB294 \uD30C\uB974\uB9C8 \uACF5\uAD6D\uC758 \uB9C8\uC9C0\uB9C9 \uAD70\uC8FC \uB85C\uBCA0\uB974\uD1A0 1\uC138\uC758 \uC544\uB4E4\uC778 \uBD80\uB974\uBD09\uD30C\uB974\uB9C8\uC758 \uD3A0\uB9AD\uC2A4\uC774\uB2E4. \uC624\uC2A4\uD2B8\uB9AC\uC544-\uD5DD\uAC00\uB9AC\uC758 \uB9C8\uC9C0\uB9C9 \uD669\uD6C4\uC600\uB358 \uBD80\uB974\uBD09\uD30C\uB974\uB9C8\uC758 \uCE58\uD0C0\uB294 \uADF8\uC758 \uACE0\uBAA8\uC774\uB2E4. \uB300\uBD80\uB294 \uAD50\uD669 \uBCA0\uB124\uB515\uD1A0 15\uC138\uC774\uB2E4."@ko ,
+		"Jo\u00E3o, Gr\u00E3o-Duque de Luxemburgo GColIH (Castelo de Berg, 5 de janeiro de 1921 \u2014 Luxemburgo, 23 de abril de 2019) foi o titular do Gr\u00E3o-Ducado de Luxemburgo de 1964 at\u00E9 sua abdica\u00E7\u00E3o em 2004. Filho de Carlota, Gr\u00E3-Duquesa de Luxemburgo e do pr\u00EDncipe F\u00E9lix de Bourbon-Parma, entre seus padrinhos estava o papa Bento XV. \u00C9 o pai do atual gr\u00E3o-duque, Henrique."@pt ,
+		"Jean von Nassau-Weilburg a\u016D Johano la 1-a de Luksemburgo (naski\u011Dis la 15-an de januaro 1921 en Kastelo Berg, Luksemburgo, mortis la 23-an de aprilo 2019) estis de 1964 \u011Dis 2000 grandduko de Luksemburgo kaj (titole, sed ne fakte) duko de Nassau."@eo ,
+		"\u062C\u0627\u0646 \u0628\u0646\u0648\u0627 \u063A\u0631\u0627\u0646\u062F\u0648\u0642 \u0644\u0648\u0643\u0633\u0645\u0628\u0648\u0631\u063A (5 \u064A\u0646\u0627\u064A\u0631 1921 - 23 \u0623\u0628\u0631\u064A\u0644 2019) \u0647\u0648 \u0627\u0644\u062F\u0648\u0642 \u0627\u0644\u0623\u0643\u0628\u0631 \u0644\u0644\u0648\u0643\u0633\u0645\u0628\u0648\u0631\u063A \u0645\u0646\u0630 \u0639\u0627\u0645 1964 \u062D\u0646\u0649 \u062A\u0646\u0627\u0632\u0644\u0647 \u0641\u064A 2000\u060C \u0648\u0647\u0648 \u0648\u0627\u0644\u062F \u0627\u0644\u062F\u0648\u0642 \u0627\u0644\u062D\u0627\u0644\u064A \u0627\u0644\u062F\u0648\u0642 \u0627\u0644\u0623\u0643\u0628\u0631 \u0647\u0646\u0631\u064A\u060C \u0648\u0627\u0628\u0646 \u0627\u0644\u063A\u0631\u0627\u0646\u062F\u0648\u0642\u0629 \u062A\u0634\u0627\u0631\u0644\u0648\u062A\u0627 . \u0634\u0627\u0631\u0643 \u0641\u064A \u0627\u0644\u062D\u0631\u0628 \u0627\u0644\u0639\u0627\u0644\u0645\u064A\u0629 \u0627\u0644\u062B\u0627\u0646\u064A\u0629\u060C \u062D\u064A\u062B \u0643\u0627\u0646 \u0639\u0636\u0648\u0627 \u0641\u064A  \u0627\u0644\u062A\u0627\u0628\u0639 \u0644\u0645\u0644\u0643\u0629 \u0628\u0631\u064A\u0637\u0627\u0646\u064A\u0627."@ar ,
+		"Jean von Nassau (* 5. Januar 1921 auf Schloss Berg in Colmar-Berg; \u2020 23. April 2019 in Luxemburg) war von 1964 bis 2000 Gro\u00DFherzog von Luxemburg, Herzog von Nassau. Im deutschsprachigen Raum wurde er auch als Johann bezeichnet."@de ,
+		"Jean, n\u00E9 le 5 janvier 1921 au ch\u00E2teau de Colmar-Berg et mort le 23 avril 2019 \u00E0 Luxembourg, est le fils a\u00EEn\u00E9 de la grande-duchesse Charlotte et du prince F\u00E9lix de Bourbon-Parme. Il a \u00E9t\u00E9 le huiti\u00E8me grand-duc de Luxembourg de 1964 \u00E0 2000. Son parrain \u00E9tait le pape Beno\u00EEt XV. Oncle du roi des Belges Philippe, il \u00E9tait le neveu de Charles Ier, dernier empereur d'Autriche et roi de Hongrie, qui fut b\u00E9atifi\u00E9 en 2004."@fr ,
+		"Jean Beno\u00EEt Guillaume Marie Robert Louis Antoine Adolphe Marc d'Aviano, in het Nederlands taalgebied vaak aangeduid als Jan van Luxemburg (Colmar-Berg, 5 januari 1921 \u2013 Luxemburg, 23 april 2019), was van 1964 tot 2000 groothertog van Luxemburg."@nl ,
+		"Jean (Jean Beno\u00EEt Guillaume Robert Antoine Louis Marie Adolphe Marc d'Aviano; 5 January 1921 \u2013 23 April 2019) was the Grand Duke of Luxembourg from 1964 until his abdication in 2000. He was the first Grand Duke of Luxembourg of French agnatic descent. On 9 April 1953, Jean married Princess Jos\u00E9phine Charlotte of Belgium with whom he had five children. On 12 November 1964, Grand Duchess Charlotte abdicated and Jean succeeded her as Grand Duke of Luxembourg. He then reigned for 36 years before he himself abdicated on 7 October 2000 and was succeeded by his son, Grand Duke Henri."@en ,
+		"Joan I de Luxemburg (en luxemburgu\u00E8s: Jean vu L\u00EBtzebuerg) (Castell de Berg, 5 de gener de 1921  \u2013 Ciutat de Luxemburg, 23 d'abril de 2019 ) va ser un arist\u00F2crata luxemburgu\u00E8s, Gran duc de Luxemburg des de l'any 1964 i fins a l'any 2000, any en qu\u00E8 abdic\u00E0 en favor del seu fill primog\u00E8nit, Enric I de Luxemburg."@ca ,
+		"\u30B8\u30E3\u30F3\uFF08\u30D5\u30E9\u30F3\u30B9\u8A9E: Jean\u30011921\u5E741\u67085\u65E5 - 2019\u5E744\u670823\u65E5\uFF09\u306F\u3001\u30EB\u30AF\u30BB\u30F3\u30D6\u30EB\u30AF\u306E\u5927\u516C\uFF08\u5728\u4F4D\uFF1A1964\u5E7411\u670812\u65E5 - 2000\u5E7410\u67087\u65E5\uFF09\u3002 \u30CF\u30D7\u30B9\u30D6\u30EB\u30AF\u5BB6\u306E\u524D\u5F53\u4E3B\u30AA\u30C3\u30C8\u30FC\u306E\u5F93\u5F1F\u306B\u3042\u305F\u308B\u30021968\u5E74\u304B\u30892002\u5E74\u306E\u30E6\u30FC\u30ED\u5C0E\u5165\u307E\u3067\u8907\u6570\u306E\u30EB\u30AF\u30BB\u30F3\u30D6\u30EB\u30AF\u30FB\u30D5\u30E9\u30F3\u7D19\u5E63\u306B\u8096\u50CF\u304C\u4F7F\u7528\u3055\u308C\u3066\u3044\u305F\u3002"@ja ,
+		"Jan, wielki ksi\u0105\u017C\u0119 Luksemburga (Jean Beno\u00EEt Guillaume Robert Antoine Louis Marie Adolphe Marc d\u2019Aviano Bourbon-Parma, ur. 5 stycznia 1921 w Zamku Berg, zm. 23 kwietnia 2019 w Luksemburgu) \u2013 wielki ksi\u0105\u017C\u0119 Luksemburga w latach 1964\u20132000; cz\u0142onek luksemburskiej rodziny wielkoksi\u0105\u017C\u0119cej; syn ksi\u0119cia Feliksa z Luksemburga i jego ma\u0142\u017Conki, Szarlotty, wielkiej ksi\u0119\u017Cnej Luksemburga. Studiowa\u0142 prawo i nauki polityczne na Uniwersytecie Lavala (w Quebecu, w Kanadzie). W listopadzie 1942 wst\u0105pi\u0142 do wojska brytyjskiego, gdzie s\u0142u\u017Cy\u0142 w czasie II wojny \u015Bwiatowej."@pl ,
+		"\u039F \u0399\u03C9\u03AC\u03BD\u03BD\u03B7\u03C2 (1921-2019), \u03AE\u03C4\u03B1\u03BD \u039C\u03AD\u03B3\u03B1\u03C2 \u0394\u03BF\u03CD\u03BA\u03B1\u03C2 \u03C4\u03BF\u03C5 \u039B\u03BF\u03C5\u03BE\u03B5\u03BC\u03B2\u03BF\u03CD\u03C1\u03B3\u03BF\u03C5 (12 \u0394\u03B5\u03BA. 1964 - 7 \u039F\u03BA\u03C4. 2000). \u03A5\u03C0\u03AE\u03C1\u03BE\u03B5 \u03B3\u03B9\u03BF\u03C2 \u03C4\u03BF\u03C5 \u03A6\u03B5\u03BB\u03AF\u03BE \u03C0\u03C1\u03AF\u03B3\u03BA\u03B9\u03C0\u03B1 \u03C4\u03C9\u03BD \u0392\u03BF\u03C5\u03C1\u03B2\u03CC\u03BD\u03C9\u03BD-\u03A0\u03AC\u03C1\u03BC\u03B1\u03C2 \u03BA\u03B1\u03B9 \u03C4\u03B7\u03C2 \u039A\u03B1\u03C1\u03BB\u03CC\u03C4\u03C4\u03B1\u03C2 \u03C4\u03BF\u03C5 \u039D\u03B1\u03C3\u03C3\u03AC\u03BF\u03C5, \u039C\u03B5\u03B3\u03AC\u03BB\u03B7\u03C2 \u0394\u03BF\u03CD\u03BA\u03B9\u03C3\u03C3\u03B1\u03C2 \u03C4\u03BF\u03C5 \u039B\u03BF\u03C5\u03BE\u03B5\u03BC\u03B2\u03BF\u03CD\u03C1\u03B3\u03BF\u03C5. \u038C\u03C4\u03B1\u03BD \u03B7 \u03BC\u03B7\u03C4\u03AD\u03C1\u03B1 \u03C4\u03BF\u03C5 \u039A\u03B1\u03C1\u03BB\u03CC\u03C4\u03C4\u03B1 \u03C0\u03B1\u03C1\u03B1\u03B9\u03C4\u03AE\u03B8\u03B7\u03BA\u03B5 \u03C3\u03C4\u03B9\u03C2 12 \u039D\u03BF\u03B5\u03BC\u03B2\u03C1\u03AF\u03BF\u03C5 1964, \u03AD\u03B3\u03B9\u03BD\u03B5 \u039C\u03AD\u03B3\u03B1\u03C2 \u0394\u03BF\u03CD\u03BA\u03B1\u03C2 \u03C4\u03BF\u03C5 \u039B\u03BF\u03C5\u03BE\u03B5\u03BC\u03B2\u03BF\u03CD\u03C1\u03B3\u03BF\u03C5 \u03C9\u03C2 \u03C4\u03B9\u03C2 7 \u039F\u03BA\u03C4\u03C9\u03B2\u03C1\u03AF\u03BF\u03C5 2000. \u039C\u03B5\u03C4\u03AC \u03C4\u03B7\u03BD \u03C0\u03B1\u03C1\u03B1\u03AF\u03C4\u03B7\u03C3\u03AE \u03C4\u03BF\u03C5 \u03C4\u03BF\u03BD \u03B4\u03B9\u03B1\u03B4\u03AD\u03C7\u03B8\u03B7\u03BA\u03B5 \u03BF \u03B3\u03B9\u03BF\u03C2 \u03C4\u03BF\u03C5 \u0395\u03C1\u03C1\u03AF\u03BA\u03BF\u03C2. \u03A4\u03CE\u03C1\u03B1 \u03B6\u03B5\u03B9 \u03C3\u03C4\u03BF \u03BA\u03AC\u03C3\u03C4\u03C1\u03BF \u03C4\u03BF\u03C5 Fischbach."@el ,
+		"Giovanni di Lussemburgo, nato Jean Benoit Guillaume Robert Antoine Louis Marie Adolphe Marc d'Aviano (Colmar-Berg, 5 gennaio 1921 \u2013 Lussemburgo, 23 aprile 2019), \u00E8 stato il Granduca di Lussemburgo dall'abdicazione della madre Carlotta, nel 1964, fino alla propria rinuncia nel 2000 a favore del figlio Enrico. La circostanza che Giovanni sia stato anche il primo esponente della famiglia dei Borbone di Parma ad ascendere al trono lussemburghese \u00E8 secondaria di fronte al fatto che il titolo granducale gli \u00E8 stato trasmesso dalla madre (secondo alcuni egli \u00E8 il fondatore del ramo dei Nassau-Borbone)."@it ,
+		"Jan Lucembursk\u00FD (luc. Jean vu L\u00EBtzebuerg, franc. Jean de Luxembourg, n\u011Bm. Jean n. Johann von Luxemburg, 5. ledna 1921 ,  \u2013 23. dubna 2019 Lucemburk) byl v letech 1964 a\u017E 2000 velkov\u00E9vodou lucembursk\u00FDm (a b\u00FDv\u00E1, zejm. v n\u011Bmeck\u00E9m jazykov\u00E9m prost\u0159ed\u00ED ozna\u010Dov\u00E1n jako Johann I., tedy \u010Desky Jan I.)"@cs ,
+		"\u0416\u0430\u043D (\u0444\u0440. Jean, \u043F\u043E\u0432\u043D\u0435 \u0456\u043C'\u044F Jean Benoit Guillaume Robert Antoine Louis Marie Adolphe Marc d'Aviano; 5 \u0441\u0456\u0447\u043D\u044F 1921, \u0437\u0430\u043C\u043E\u043A \u041A\u043E\u043B\u043C\u0430\u0440-\u0411\u0435\u0440\u0433, \u041B\u044E\u043A\u0441\u0435\u043C\u0431\u0443\u0440\u0433 \u2014 23 \u043A\u0432\u0456\u0442\u043D\u044F 2019) \u2014 \u0432\u0435\u043B\u0438\u043A\u0438\u0439 \u0433\u0435\u0440\u0446\u043E\u0433 \u041B\u044E\u043A\u0441\u0435\u043C\u0431\u0443\u0440\u0433\u0443 \u0437 1964 \u043F\u043E 2000 \u0440\u0456\u043A."@uk ,
+		"\u8BA9\u5927\u516C\uFF08\u82F1\u8A9E\uFF1AGrand Duke Jean\uFF0C1921\u5E741\u67085\u65E5\uFF0D2019\u5E744\u670823\u65E5\uFF09\uFF0C\u5168\u540D\u5362\u68EE\u5821\u7684\u8BA9\u00B7\u4F2F\u52AA\u74E6\u00B7\u7EAA\u5C27\u59C6\u00B7\u7F57\u8D1D\u5C14\u00B7\u5B89\u4E1C\u5C3C\u00B7\u8DEF\u6613\u65AF\u00B7\u9A6C\u91CC\u00B7\u963F\u9053\u592B\u00B7\u9A6C\u514B\u00B7\u8FBE\u7EF4\u4E9A\u8BFA\uFF08\u76E7\u68EE\u5821\u8A9E\uFF1AJean Beno\u00EEt Guillaume Robert Antoine Louis Marie Adolphe Marc d'Aviano vu L\u00EBtzebuerg\uFF09\uFF0C\u524D\u5362\u68EE\u5821\u5927\u516C\uFF081964\u5E74\u81F32000\u5E74\u5728\u4F4D\uFF09\u3001\u62FF\u9A9A\u516C\u7235\u3001\u6CE2\u65C1-\u5E15\u5C14\u9A6C\u4EB2\u738B\u3002\u590F\u6D1B\u7279\u5973\u5927\u516C\u548C\u8D39\u5229\u514B\u65AF\u4EB2\u738B\u7684\u957F\u5B50\u3002\u8BA9\u5927\u516C\u7684\u5934\u8854\u5168\u79F0\uFF1A\u201C\u8499\u4E0A\u5E1D\u6069\u5178\u7684\u8BA9\uFF0C\u76E7\u68EE\u5821\u5927\u516C\uFF0C\u62FF\u9A37\u516C\u7235\uFF0C\u6CE2\u65C1-\u5E15\u723E\u99AC\u738B\u5B50\uFF0C\u840A\u8335\u884C\u5BAE\u4F2F\u7235\uFF0C\u585E\u6069\u3001\u79D1\u5C3C\u65AF\u5766\u3001\u5361\u5C91\u6D85\u6069\u535A\u6839\uFF0C\u4EE5\u53CA\u8FEA\u8332\u4F2F\u7235\uFF0C\u6F22\u9ED8\u65AF\u5766\u85E9\u4FAF\uFF0C\u9EBB\u8C9D\u514B\u3001\u5A01\u65AF\u5DF4\u767B\u3001\u4F0A\u5FB7\u65AF\u5766\u3001\u6885\u502B\u5821\u3001\u6797\u5821\uFF0C\u4EE5\u53CA\u827E\u666E\u65AF\u5766\u9818\u4E3B\u201D\u3002\uFF08\u5FB7\u6587\uFF1ASeine K\u00F6nigliche Hoheit Jean, Gro\u00DFherzog von Luxemburg, Herzog von Nassau, Prinz von Bourbon-Parma, Pfalzgraf bei Rhein, Graf zu Sayn, K\u00F6nigstein, Katzenelnbogen und Diez, Burggraf von Hammerstein, Herr von Mahlberg, Wiesbaden, Idstein, Merenberg, Limburg und Eppstein.\uFF09"@zh ,
+		"\u0416\u0430\u043D (\u0444\u0440. \u0438 \u043B\u044E\u043A\u0441\u0435\u043C\u0431. Jean, \u043F\u043E\u043B\u043D\u043E\u0435 \u0438\u043C\u044F Jean Beno\u00EEt Guillaume Robert Antoine Louis Marie Adolphe Marc d\u2019Aviano; 5 \u044F\u043D\u0432\u0430\u0440\u044F 1921, \u0417\u0430\u043C\u043E\u043A \u0411\u0435\u0440\u0433, \u041A\u043E\u043B\u044C\u043C\u0430\u0440-\u0411\u0435\u0440\u0433 \u2014 23 \u0430\u043F\u0440\u0435\u043B\u044F 2019, \u041B\u044E\u043A\u0441\u0435\u043C\u0431\u0443\u0440\u0433) \u2014 \u043B\u044E\u043A\u0441\u0435\u043C\u0431\u0443\u0440\u0433\u0441\u043A\u0438\u0439 \u043F\u043E\u043B\u0438\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0439 \u0434\u0435\u044F\u0442\u0435\u043B\u044C, \u0441\u043F\u043E\u0440\u0442\u0438\u0432\u043D\u044B\u0439 \u0444\u0443\u043D\u043A\u0446\u0438\u043E\u043D\u0435\u0440, \u0432\u0435\u043B\u0438\u043A\u0438\u0439 \u0433\u0435\u0440\u0446\u043E\u0433 \u041B\u044E\u043A\u0441\u0435\u043C\u0431\u0443\u0440\u0433\u0430 \u0441 12 \u043D\u043E\u044F\u0431\u0440\u044F 1964 \u0433\u043E\u0434\u0430 \u043F\u043E 7 \u043E\u043A\u0442\u044F\u0431\u0440\u044F 2000 \u0433\u043E\u0434\u0430."@ru ,
+		"Jean I av Luxemburg (Jean Benoit Guillaume Marie Robert Louis Antoine Adolphe Marc d'Aviano), f\u00F6dd 5 januari 1921 p\u00E5 Bergs slott i Colmar-Berg, Luxemburg, d\u00F6d 23 april 2019 i Luxemburg, var regerande storhertig av Luxemburg 1964\u20132000 och hertig av Nassau."@sv ,
+		"Juan de Nassau-Weilburg y Borb\u00F3n-Parma (Jean Beno\u00EEt Guillaume Robert Antoine Louis Marie Adolphe Marc d'Aviano de Nassau-Weilburg, Castillo de Berg, Luxemburgo, 5 de enero de 1921-Ciudad de Luxemburgo, Luxemburgo, 23 de abril de 2019) fue el Gran duque de Luxemburgo desde el 12 de noviembre de 1964 hasta el 7 de octubre de 2000."@es ,
+		"Jean (nama pemberian: Jean Beno\u00EEt Guillaume Robert Antoine Louis Marie Adolphe Marc d'Aviano; lahir 5 Januari 1921 \u2013 meninggal 23 April 2019 pada umur 98 tahun) adalah Haryapatih Luksemburg yang berkuasa dari tahun 1964 hingga turun takhta pada tahun 2000. Ia adalah Haryapatih Luksemburg pertama yang keturunan patrilineal Prancis."@in ,
+		"Joan Luxenburgokoa (, , 1921eko urtarrilaren 5a \u2013 Luxenburgo, 2019ko apirilaren 23a) Luxenburgoko duke handia izan zen 1964tik 2000ra. Bigarren Mundu Gerran parte hartu zuen, Britainiar Armadako kide izanik. Normandiako Lehorreratzean, , , Ardenetako Guduan eta Luxenburgoren askatzean parte hartu zuen  erregimentuarekin. Bere ama Karlota Luxenburgokoaren abdikazioaren ondoren, duke handia bihurtu zen. 2000n, Henrike I.a Luxenburgokoa bere semearengan abdikatu zuen. 1953ko apirilaren 9an ezkondu zen . Bikoteak hiru seme eta bi alaba ditu:"@eu ;
+	foaf:name	"Jean"@en ;
+	foaf:homepage	<http://www.monarchie.lu/fr/famille/grand-duc-jean/index.html> ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Grand_Duke_Jean_29.09.2006.jpg> ;
+	foaf:isPrimaryTopicOf	<http://en.wikipedia.org/wiki/Jean,_Grand_Duke_of_Luxembourg> .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg>	dct:subject	dbc:British_Army_personnel_of_World_War_II ,
+		<http://dbpedia.org/resource/Category:1921_births> ,
+		dbc:Grand_Collars_of_the_Order_of_Prince_Henry ,
+		dbc:Knights_of_the_Golden_Fleece_of_Austria ,
+		dbc:Recipients_of_the_Bronze_Wolf_Award ,
+		dbc:Irish_Guards_officers ,
+		dbc:Grand_Dukes_of_Luxembourg ,
+		dbc:People_from_Colmar-Berg ,
+		dbc:House_of_Nassau-Weilburg ,
+		dbc:Luxembourgian_Roman_Catholics ,
+		dbc:Luxembourgian_people_of_World_War_II ,
+		dbc:Grand_Crosses_of_the_Order_of_Adolphe_of_Nassau ,
+		dbc:Operation_Overlord_people ,
+		<http://dbpedia.org/resource/Category:2019_deaths> ,
+		dbc:People_educated_at_Ampleforth_College ,
+		dbc:Knights_of_the_Golden_Fleece_of_Spain ,
+		dbc:Recipients_of_the_Grand_Star_of_the_Decoration_for_Services_to_the_Republic_of_Austria ,
+		dbc:Extra_Knights_Companion_of_the_Garter ,
+		dbc:Knights_Grand_Cross_with_Collar_of_the_Order_of_Merit_of_the_Italian_Republic ,
+		dbc:Grand_Crosses_of_the_Order_of_the_Oak_Crown ,
+		dbc:Princes_of_Bourbon-Parma ,
+		dbc:International_Olympic_Committee_members ,
+		dbc:Knights_of_the_Order_of_the_Gold_Lion_of_the_House_of_Nassau ,
+		dbc:Members_of_the_Council_of_State_of_Luxembourg ,
+		dbc:Monarchs_who_abdicated ,
+		<http://dbpedia.org/resource/Category:Universit\u00E9_Laval_alumni> ,
+		dbc:Grand_Crosses_of_the_Order_of_Merit_of_the_Grand_Duchy_of_Luxembourg ,
+		dbc:Recipients_of_the_Silver_Star ,
+		dbc:Recipients_of_the_Olympic_Order ;
+	owl:sameAs	<http://d-nb.info/gnd/1184845557> ,
+		<http://he.dbpedia.org/resource/\u05D6\u0027\u05D0\u05DF,_\u05D4\u05D3\u05D5\u05DB\u05E1_\u05D4\u05D2\u05D3\u05D5\u05DC_\u05E9\u05DC_\u05DC\u05D5\u05E7\u05E1\u05DE\u05D1\u05D5\u05E8\u05D2> .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg>	owl:sameAs	dbpedia-it:Giovanni_di_Lussemburgo .
+@prefix dbpedia-id:	<http://id.dbpedia.org/resource/> .
+<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg>	owl:sameAs	dbpedia-id:Jean_dari_Luksemburg ,
+		<http://rdf.freebase.com/ns/m.01yhn5> .
+@prefix dbpedia-no:	<http://no.dbpedia.org/resource/> .
+<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg>	owl:sameAs	dbpedia-no:Jean_av_Luxembourg ,
+		<http://fr.dbpedia.org/resource/Jean_(grand-duc_de_Luxembourg)> .
+@prefix ns18:	<https://global.dbpedia.org/id/> .
+<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg>	owl:sameAs	ns18:b727 ,
+		<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+@prefix dbpedia-commons:	<http://commons.dbpedia.org/resource/> .
+<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg>	owl:sameAs	dbpedia-commons:Jean_of_Luxembourg ,
+		<http://ko.dbpedia.org/resource/\uC7A5_(\uB8E9\uC148\uBD80\uB974\uD06C)> ,
+		<http://pt.dbpedia.org/resource/Jo\u00E3o,_Gr\u00E3o-Duque_de_Luxemburgo> .
+@prefix ns20:	<http://ast.dbpedia.org/resource/> .
+<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg>	owl:sameAs	ns20:Xuan_de_Luxemburgu ,
+		<http://et.dbpedia.org/resource/Jean_(Luksemburgi_suurhertsog)> ,
+		<http://d-nb.info/gnd/118990314> ,
+		<http://de.dbpedia.org/resource/Jean_(Luxemburg)> .
+@prefix dbpedia-eu:	<http://eu.dbpedia.org/resource/> .
+<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg>	owl:sameAs	dbpedia-eu:Joan_Luxenburgokoa ,
+		<http://ro.dbpedia.org/resource/Jean,_Mare_Duce_de_Luxemburg> ,
+		wikidata:Q15988 ,
+		<http://ru.dbpedia.org/resource/\u0416\u0430\u043D_(\u0432\u0435\u043B\u0438\u043A\u0438\u0439_\u0433\u0435\u0440\u0446\u043E\u0433_\u041B\u044E\u043A\u0441\u0435\u043C\u0431\u0443\u0440\u0433\u0430)> ,
+		<http://fa.dbpedia.org/resource/\u0698\u0627\u0646\u060C_\u062F\u0648\u06A9_\u0627\u0639\u0638\u0645_\u0644\u0648\u06A9\u0632\u0627\u0645\u0628\u0648\u0631\u06AF> ,
+		<http://is.dbpedia.org/resource/J\u00F3hann_af_L\u00FAxemborg> ,
+		<http://eo.dbpedia.org/resource/Jean_(Luksemburgo)> ,
+		<http://ja.dbpedia.org/resource/\u30B8\u30E3\u30F3_(\u30EB\u30AF\u30BB\u30F3\u30D6\u30EB\u30AF\u5927\u516C)> .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg>	owl:sameAs	dbpedia-es:Juan_de_Luxemburgo ,
+		<http://azb.dbpedia.org/resource/\u0698\u0627\u0646\u060C_\u062F\u0648\u06A9_\u0627\u0639\u0638\u0645_\u0644\u0648\u0642\u0632\u0627\u0645\u0628\u0648\u0631\u0642> .
+@prefix dbpedia-sv:	<http://sv.dbpedia.org/resource/> .
+<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg>	owl:sameAs	dbpedia-sv:Jean_av_Luxemburg ,
+		<http://el.dbpedia.org/resource/\u0399\u03C9\u03AC\u03BD\u03BD\u03B7\u03C2_\u03C4\u03BF\u03C5_\u039B\u03BF\u03C5\u03BE\u03B5\u03BC\u03B2\u03BF\u03CD\u03C1\u03B3\u03BF\u03C5> ,
+		<http://viaf.org/viaf/231991516> ,
+		<http://pl.dbpedia.org/resource/Jan_(wielki_ksi\u0105\u017C\u0119_Luksemburga)> ,
+		<http://viaf.org/viaf/42638199> ,
+		<http://hu.dbpedia.org/resource/J\u00E1nos_luxemburgi_nagyherceg> ,
+		<http://ka.dbpedia.org/resource/\u10DF\u10D0\u10DC\u10D8_(\u10DA\u10E3\u10E5\u10E1\u10D4\u10DB\u10D1\u10E3\u10E0\u10D2\u10D8)> ,
+		<http://uk.dbpedia.org/resource/\u0416\u0430\u043D_(\u0432\u0435\u043B\u0438\u043A\u0438\u0439_\u0433\u0435\u0440\u0446\u043E\u0433_\u041B\u044E\u043A\u0441\u0435\u043C\u0431\u0443\u0440\u0433\u0443)> ,
+		<http://lb.dbpedia.org/resource/Jean_vu_L\u00EBtzebuerg> ,
+		<http://sr.dbpedia.org/resource/\u0416\u0430\u043D,_\u0432\u0435\u043B\u0438\u043A\u0438_\u0432\u043E\u0458\u0432\u043E\u0434\u0430_\u043E\u0434_\u041B\u0443\u043A\u0441\u0435\u043C\u0431\u0443\u0440\u0433\u0430> ,
+		<http://nl.dbpedia.org/resource/Jan_van_Luxemburg_(1921-2019)> ,
+		<http://zh.dbpedia.org/resource/\u8BA9_(\u5362\u68EE\u5821\u5927\u516C)> ,
+		<http://simple.dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+@prefix ns24:	<http://d-nb.info/gnd/118990314/about/> .
+<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg>	owl:sameAs	ns24:rdf ,
+		<http://th.dbpedia.org/resource/\u0E41\u0E01\u0E23\u0E19\u0E14\u0E4C\u0E14\u0E22\u0E38\u0E01\u0E0C\u0E47\u0E2D\u0E07\u0E41\u0E2B\u0E48\u0E07\u0E25\u0E31\u0E01\u0E40\u0E0B\u0E21\u0E40\u0E1A\u0E34\u0E23\u0E4C\u0E01> ,
+		<http://ar.dbpedia.org/resource/\u062C\u0627\u0646_\u0628\u0646\u0648\u0627_\u063A\u0631\u0627\u0646\u062F\u0648\u0642_\u0644\u0648\u0643\u0633\u0645\u0628\u0648\u0631\u063A> ,
+		<http://cs.dbpedia.org/resource/Jan_Lucembursk\u00FD_(velkov\u00E9voda)> ,
+		<http://hr.dbpedia.org/resource/Jean,_veliki_vojvoda_Luksemburga> ,
+		<http://fi.dbpedia.org/resource/Jean_(Luxemburg)> ,
+		<http://be.dbpedia.org/resource/\u0416\u0430\u043D_(\u0432\u044F\u043B\u0456\u043A\u0456_\u0433\u0435\u0440\u0446\u0430\u0433_\u041B\u044E\u043A\u0441\u0435\u043C\u0431\u0443\u0440\u0433\u0430)> .
+@prefix dbpedia-da:	<http://da.dbpedia.org/resource/> .
+<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg>	owl:sameAs	dbpedia-da:Jean_af_Luxembourg ,
+		<http://yago-knowledge.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+@prefix dbpedia-ca:	<http://ca.dbpedia.org/resource/> .
+<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg>	owl:sameAs	dbpedia-ca:Joan_I_de_Luxemburg ,
+		<http://la.dbpedia.org/resource/Ioannes_(magnus_dux_Luxemburgi)> ,
+		<http://bs.dbpedia.org/resource/Jean,_veliki_vojvoda_Luksemburga> ,
+		<http://cy.dbpedia.org/resource/Jean,_Uwch_Ddug_Lwcsembwrg> ;
+	schema:sameAs	<http://viaf.org/viaf/42638199> ;
+	dbo:spouse	<http://dbpedia.org/resource/Princess_Jos\u00E9phine-Charlotte_of_Belgium> .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg>	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Jean,_Grand_Duke_of_Luxembourg?oldid=984983672&ns=0> ;
+	dbp:signature	"Jean, Grand Duke of Luxembourg Signature.svg"@en ;
+	dbp:religion	dbr:Catholic_Church .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg>	dbp:reign	"--11-12"^^xsd:gMonthDay ;
+	dbo:parent	dbr:Prince_Felix_of_Bourbon-Parma ,
+		<http://dbpedia.org/resource/Charlotte,_Grand_Duchess_of_Luxembourg> ;
+	dbp:title	dbr:Monarchy_of_Luxembourg ,
+		"Colonel of the Irish Guards"@en ;
+	dbp:years	1984 ,
+		1964 ;
+	dbp:father	dbr:Prince_Felix_of_Bourbon-Parma ;
+	dbp:mother	<http://dbpedia.org/resource/Charlotte,_Grand_Duchess_of_Luxembourg> ;
+	dbp:regent	dbr:Gaston_Thorn ,
+		dbr:Jean-Claude_Juncker ,
+		dbr:Pierre_Werner ,
+		dbr:Jacques_Santer ;
+	dbp:succession	dbr:Monarchy_of_Luxembourg ;
+	dbp:fullName	"Jean Beno\u00EEt Guillaume Robert Antoine Louis Marie Adolphe Marc d'Aviano"@en ;
+	dbp:burialDate	"2019-05-04"^^xsd:date ;
+	dbp:name	"Jean"@en ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Grand_Duke_Jean_29.09.2006.jpg?width=300> ;
+	dbp:deathPlace	"Luxembourg City, Luxembourg"@en ;
+	dbp:birthPlace	dbr:Luxembourg ,
+		dbr:Colmar-Berg ,
+		dbr:Berg_Castle ;
+	dbo:wikiPageID	344181 ;
+	dbo:wikiPageRevisionID	984983672 ;
+	dbo:wikiPageWikiLink	dbc:Operation_Overlord_people ,
+		dbr:Ampleforth_College ,
+		<http://dbpedia.org/resource/Princess_Elisabeth,_Duchess_of_Hohenberg> ,
+		dbr:Princess_Marie_Adelaide_of_Luxembourg ,
+		<http://dbpedia.org/resource/File:Grand_Crest_Ordre_de_Leopold.png> ,
+		<http://dbpedia.org/resource/Alix,_Princess_of_Ligne> ,
+		<http://dbpedia.org/resource/Category:2019_deaths> ,
+		dbr:House_of_Nassau-Weilburg ,
+		dbr:Patrilineality ,
+		<http://dbpedia.org/resource/William_IV,_Grand_Duke_of_Luxembourg> ,
+		dbc:People_educated_at_Ampleforth_College ,
+		dbr:Philip_I_of_France ,
+		dbr:Irish_Guards ,
+		dbr:Louis_XIV ,
+		dbr:Louis_I_of_Etruria ,
+		<http://dbpedia.org/resource/File:Ribbon_-_QE_II_Coronation_Medal.png> ,
+		dbr:Abdication ,
+		dbr:Jean-Claude_Juncker ,
+		dbc:Princes_of_Bourbon-Parma ,
+		<http://dbpedia.org/resource/File:Order_of_the_Garter_UK_ribbon.png> ,
+		<http://dbpedia.org/resource/Sandhurst,_Berkshire> ,
+		dbr:Princess_Margaretha_of_Liechtenstein ,
+		dbc:Recipients_of_the_Olympic_Order ,
+		dbc:Grand_Crosses_of_the_Order_of_the_Oak_Crown ,
+		dbr:Henry_IV_of_France ,
+		<http://dbpedia.org/resource/File:Ribbon_-_War_Medal.png> ,
+		<http://dbpedia.org/resource/2,500-year_celebration_of_the_Persian_Empire> ,
+		<http://dbpedia.org/resource/War_Medal_1939\u20131945> ,
+		dbc:Grand_Collars_of_the_Order_of_Prince_Henry ,
+		<http://dbpedia.org/resource/File:UK_MID_1920-94.svg> ,
+		dbr:Henry_I_of_France ,
+		<http://dbpedia.org/resource/Orders,_decorations,_and_medals_of_the_Netherlands> ,
+		dbr:France_and_Germany_Star ,
+		<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> ,
+		dbr:Prince_Felix_of_Bourbon-Parma ,
+		<http://dbpedia.org/resource/James_Hamilton,_5th_Duke_of_Abercorn> ,
+		<http://dbpedia.org/resource/Category:1921_births> ,
+		<http://dbpedia.org/resource/1939\u20131945_Star> ,
+		<http://dbpedia.org/resource/File:Ruban_de_la_croix_de_guerre_1939-1945.PNG> ,
+		dbr:University_of_Strasbourg ,
+		<http://dbpedia.org/resource/File:Cordone_di_gran_Croce_di_Gran_Cordone_OMRI_BAR.svg> ,
+		<http://dbpedia.org/resource/File:St_Olavs_Orden_storkors_stripe.svg> ,
+		dbc:International_Olympic_Committee_members ,
+		dbr:Luxembourg ,
+		<http://dbpedia.org/resource/File:Order_of_Charles_III_-_Sash_of_Collar.svg> ,
+		dbr:Royal_Highness ,
+		dbr:Prince_Jean_of_Luxembourg ,
+		dbc:Recipients_of_the_Bronze_Wolf_Award ,
+		<http://dbpedia.org/resource/File:LUX_M\u00E9daille_Militaire_BAR.svg> ,
+		<http://dbpedia.org/resource/File:ISL_Icelandic_Order_of_the_Falcon_-_Grand_Cross_BAR.png> ,
+		dbr:Honorary_degree ,
+		dbr:Heir_apparent ,
+		dbr:Order_of_Charles_III ,
+		dbr:Elizabeth_II ,
+		dbr:Luxembourg_Army ,
+		dbr:Order_of_Prince_Henry ,
+		dbr:Gaston_Thorn ,
+		<http://dbpedia.org/resource/File:Order_of_the_Elephant_Ribbon_bar.svg> ,
+		<http://dbpedia.org/resource/Prince_Charles_of_Luxembourg_(1927\u20131977)> ,
+		dbr:Queen_Elizabeth_II_Coronation_Medal ,
+		<http://dbpedia.org/resource/File:Royal_Wedding_Medal_1937..gif> ,
+		<http://dbpedia.org/resource/File:Grand_Duke_Jean_29.09.2006.jpg> ,
+		<http://dbpedia.org/resource/File:Ordo_Militia_Aurata_or_Ordine_dello_Speron_d\u0027Oro_o_Milizia_Aurata.png> ,
+		dbr:Georges_Pompidou ,
+		<http://dbpedia.org/resource/File:LUX_Ordre_de_la_R\u00E9sistance_1940\u20131944.svg> ,
+		<http://dbpedia.org/resource/File:Oath_GD_Jean_of_Luxembourg_1964-11-12.jpg> ,
+		dbr:Order_of_the_Chrysanthemum ,
+		dbr:Grand_Ducal_Family_of_Luxembourg ,
+		dbr:Order_of_the_Elephant ,
+		<http://dbpedia.org/resource/File:PRT_Military_Order_of_the_Tower_and_of_the_Sword_-_Grand_Collar.png> ,
+		<http://dbpedia.org/resource/File:Bronze_Wolf_award.png> ,
+		<http://dbpedia.org/resource/File:GD_Jean_of_Luxembourg_and_his_wife_Josephine-Charlotte_1964-11-12.jpg> ,
+		<http://dbpedia.org/resource/File:Groothertogelijk_paar_van_Luxemburg_met_kinderen_in_1971,_Bestanddeelnr_924-6941-crop.jpg> ,
+		<http://dbpedia.org/resource/Brookville,_New_York> ,
+		dbr:Order_of_the_Tower_and_Sword ,
+		dbr:Order_of_the_Royal_House_of_Chakri ,
+		<http://dbpedia.org/resource/Officer_(armed_forces)> ,
+		dbr:Supreme_Order_of_the_Most_Holy_Annunciation ,
+		<http://dbpedia.org/resource/John_I,_Count_of_La_Marche> ,
+		<http://dbpedia.org/resource/File:Order_of_the_Royal_House_of_Chakri_(Thailand)_ribbon.svg> ,
+		dbr:Aristides_de_Sousa_Mendes ,
+		<http://dbpedia.org/resource/File:Order_of_the_Seraphim_-_Ribbon_bar.svg> ,
+		dbc:Knights_of_the_Order_of_the_Gold_Lion_of_the_House_of_Nassau ,
+		<http://dbpedia.org/resource/File:Seraphimerorden_ribbon.svg> ,
+		dbr:Astrid_of_Sweden ,
+		dbr:Catholic_Church ,
+		dbr:Philip_II_of_France ,
+		<http://dbpedia.org/resource/File:Ribbon_-_1939-45_Star.png> ,
+		<http://dbpedia.org/resource/File:Ribbon_-_Defence_Medal.png> ,
+		dbr:Charlemagne_Prize ,
+		dbr:Antoine_of_Navarre ,
+		dbr:Greek_royal_family ,
+		dbr:Louis_VII_of_France ,
+		dbr:Order_of_the_Garter ,
+		dbr:Philip_V_of_Spain ,
+		dbr:Order_of_Saints_Maurice_and_Lazarus ,
+		dbr:Fischbach_Castle ,
+		dbr:Duchy_of_Nassau ,
+		dbr:Hugh_Capet ,
+		<http://dbpedia.org/resource/Adolphe,_Grand_Duke_of_Luxembourg> ,
+		<http://dbpedia.org/resource/Ferdinand,_Duke_of_Parma> ,
+		dbr:World_War_II ,
+		<http://dbpedia.org/resource/Orders,_decorations,_and_medals_of_the_Sovereign_Military_Order_of_Malta> ,
+		dbr:Archduchess_Marie_Astrid_of_Austria ,
+		dbr:Aachen ,
+		<http://dbpedia.org/resource/File:Legion_Honneur_GC_ribbon.svg> ,
+		dbc:Grand_Crosses_of_the_Order_of_Adolphe_of_Nassau ,
+		dbr:Romanian_royal_family ,
+		<http://dbpedia.org/resource/Order_of_St._Olav> ,
+		dbr:Order_of_the_White_Rose_of_Finland ,
+		<http://dbpedia.org/resource/Category:Universit\u00E9_Laval_alumni> ,
+		dbr:Cascais ,
+		dbr:Order_of_Merit_of_the_Federal_Republic_of_Germany ,
+		<http://dbpedia.org/resource/Grand_Ducal_Palace,_Luxembourg> ,
+		dbr:Order_of_Merit_of_the_Italian_Republic ,
+		dbr:House_of_Nassau ,
+		dbr:Brussels ,
+		<http://dbpedia.org/resource/File:PRT_Order_of_Prince_Henry_-_Grand_Collar_BAR.png> ,
+		<http://dbpedia.org/resource/File:GRE_Order_Redeemer_1Class.png> ,
+		<http://dbpedia.org/resource/File:Ribbon_-_France_and_Germany_Star.png> ,
+		dbc:House_of_Nassau-Weilburg ,
+		dbc:Grand_Dukes_of_Luxembourg ,
+		dbc:People_from_Colmar-Berg ,
+		dbr:Infanta_Marie_Anne_of_Portugal ,
+		dbr:Louis_VIII_of_France ,
+		<http://dbpedia.org/resource/Notre-Dame_Cathedral,_Luxembourg> ,
+		dbc:Luxembourgian_people_of_World_War_II ,
+		dbr:Princess_Adelheid-Marie_of_Anhalt-Dessau ,
+		dbc:Luxembourgian_Roman_Catholics ,
+		dbr:Louis_VI_of_France ,
+		dbc:Extra_Knights_Companion_of_the_Garter ,
+		dbc:Knights_Grand_Cross_with_Collar_of_the_Order_of_Merit_of_the_Italian_Republic ,
+		dbc:Knights_of_the_Golden_Fleece_of_Spain ,
+		dbc:Recipients_of_the_Grand_Star_of_the_Decoration_for_Services_to_the_Republic_of_Austria ,
+		<http://dbpedia.org/resource/File:GER_Bundesverdienstkreuz_9_Sond_des_Grosskreuzes.svg> ,
+		<http://dbpedia.org/resource/Universit\u00E9_Laval> ,
+		<http://dbpedia.org/resource/File:NLD_Order_of_the_Dutch_Lion_-_Grand_Cross_BAR.png> ,
+		dbr:Order_of_the_Redeemer ,
+		dbr:Louis_IX_of_France ,
+		dbr:Order_of_the_Crown_of_Italy ,
+		dbr:Battle_for_Caen ,
+		dbr:Quebec_City ,
+		dbr:Silver_Star ,
+		<http://dbpedia.org/resource/File:Silver_Star_Medal_ribbon.svg> ,
+		<http://dbpedia.org/resource/Defence_Medal_(United_Kingdom)> ,
+		dbr:Jacques_Santer ,
+		dbr:By_the_Grace_of_God ,
+		dbr:University_of_Miami ,
+		<http://dbpedia.org/resource/File:Cavaliere_di_gran_Croce_Regno_SSML_BAR.svg> ,
+		dbr:Croix_de_Guerre ,
+		dbc:Recipients_of_the_Silver_Star ,
+		<http://dbpedia.org/resource/File:JPN_Daikun\u0027i_kikkasho_BAR.svg> ,
+		<http://dbpedia.org/resource/James_I,_Count_of_La_Marche> ,
+		<http://dbpedia.org/resource/File:Royal_Wedding_Medal_1966.gif> ,
+		dbc:Members_of_the_Council_of_State_of_Luxembourg ,
+		dbr:British_Army ,
+		dbr:Infanta_Maria_Antonia_of_Portugal ,
+		<http://dbpedia.org/resource/Francis,_Count_of_Vend\u00F4me> ,
+		<http://dbpedia.org/resource/File:FIN_Order_of_the_White_Rose_Grand_Cross_BAR.png> ,
+		<http://dbpedia.org/resource/File:SMOM-s.svg> ,
+		<http://dbpedia.org/resource/File:Order_of_the_Golden_Fleece_ribbon_bar.svg> ,
+		dbr:Royal_Jubilee_Commemorative_Medals ,
+		<http://dbpedia.org/resource/Robert_I,_Duke_of_Parma> ,
+		dbr:Prince_Guillaume_of_Luxembourg ,
+		<http://dbpedia.org/resource/Robert,_Count_of_Clermont> ,
+		dbr:Royal_Order_of_the_Seraphim ,
+		<http://dbpedia.org/resource/John_VIII,_Count_of_Vend\u00F4me> ,
+		dbr:Normandy ,
+		dbr:Hugh_the_Great ,
+		dbr:Colonel ,
+		<http://dbpedia.org/resource/Robert_II,_Count_of_Hesbaye> ,
+		<http://dbpedia.org/resource/Charles_III,_Duke_of_Parma> ,
+		dbr:List_of_prime_ministers_of_Luxembourg ,
+		dbr:Luxembourg_City ,
+		dbr:Prince_Nikolaus_of_Liechtenstein ,
+		dbr:Decoration_of_Honour_for_Services_to_the_Republic_of_Austria ,
+		dbc:Knights_of_the_Golden_Fleece_of_Austria ,
+		<http://dbpedia.org/resource/Charles,_Duke_of_Vend\u00F4me> ,
+		dbr:Pahlavi_dynasty ,
+		dbr:Mudam ,
+		dbr:Capetian_dynasty ,
+		dbr:Pierre_Werner ,
+		<http://dbpedia.org/resource/Louis_I,_Duke_of_Bourbon> ,
+		dbr:Trooping_the_Colour ,
+		<http://dbpedia.org/resource/Louis,_Count_of_Vend\u00F4me> ,
+		<http://dbpedia.org/resource/Philip,_Duke_of_Parma> ,
+		dbr:Monarchy_of_Luxembourg ,
+		dbr:Order_of_the_Golden_Fleece ,
+		dbc:Monarchs_who_abdicated ,
+		<http://dbpedia.org/resource/Croix_de_guerre_(Belgium)> ,
+		<http://dbpedia.org/resource/Order_of_Leopold_(Belgium)> ,
+		dbr:Robert_III_of_Worms ,
+		dbr:Leopold_III_of_Belgium ,
+		<http://dbpedia.org/resource/Charles_II,_Duke_of_Parma> ,
+		dbr:Order_of_the_Netherlands_Lion ,
+		<http://dbpedia.org/resource/Princess_Jos\u00E9phine_Charlotte_of_Belgium> ,
+		<http://dbpedia.org/resource/Princess_Louise_d\u0027Artois> ,
+		<http://dbpedia.org/resource/File:AUT_Honour_for_Services_to_the_Republic_of_Austria_-_2nd_Class_BAR.png> ,
+		dbr:Order_of_Merit_of_the_Republic_of_Poland ,
+		dbr:Robert_II_of_France ,
+		dbr:Archduke_Carl_Christian_of_Austria ,
+		dbr:Arnhem ,
+		<http://dbpedia.org/resource/Charlotte,_Grand_Duchess_of_Luxembourg> ,
+		dbr:Order_of_the_Falcon ,
+		<http://dbpedia.org/resource/File:Order_of_the_Most_Holy_Annunciation_BAR.svg> ,
+		<http://dbpedia.org/resource/File:Cavaliere_di_Gran_Croce_OCI_Kingdom_BAR.svg> ,
+		dbr:Robert_the_Strong ,
+		<http://dbpedia.org/resource/File:POL_Order_Zaslugi_PRL_kl1_BAR.png> ,
+		dbr:Luxembourg_War_Cross ,
+		dbr:Queen_Anne_of_Romania ,
+		<http://dbpedia.org/resource/Captain_(British_Army_and_Royal_Marines)> ,
+		<http://dbpedia.org/resource/Colonel_(United_Kingdom)> ,
+		dbr:Colmar-Berg ,
+		dbc:Irish_Guards_officers ,
+		<http://dbpedia.org/resource/Royal_Military_College,_Sandhurst> ,
+		dbr:Order_of_the_Golden_Spur ,
+		dbr:International_Olympic_Committee ,
+		dbr:Berg_Castle ,
+		dbr:House_of_Habsburg ,
+		dbr:Robertians ,
+		dbr:Xavier_Bettel ,
+		dbr:House_of_Bourbon ,
+		dbr:Boarding_school ,
+		dbc:Grand_Crosses_of_the_Order_of_Merit_of_the_Grand_Duchy_of_Luxembourg ,
+		dbr:Miguel_I_of_Portugal ,
+		dbr:Thomas_Bach ,
+		dbr:Royal_Military_Academy_Sandhurst ,
+		dbr:Louis_XIII ,
+		dbr:Legion_of_Honour ,
+		<http://dbpedia.org/resource/Maria_Teresa,_Grand_Duchess_of_Luxembourg> ,
+		dbr:Pope_Benedict_XV ,
+		dbr:German_occupation_of_Luxembourg_during_World_War_II ,
+		<http://dbpedia.org/resource/Louis,_Dauphin_of_France_(son_of_Louis_XIV)> ,
+		<http://dbpedia.org/resource/Orders,_decorations,_and_medals_of_Luxembourg> ,
+		dbr:Normandy_landings ,
+		dbr:Margareta_of_Romania ,
+		<http://dbpedia.org/resource/Military_Medal_(Luxembourg)> ,
+		<http://dbpedia.org/resource/File:Queen_Juliana_Investiture_Medal_1948.gif> ,
+		<http://dbpedia.org/resource/File:LUX_Croix_de_Guerre_ribbon.svg> ,
+		<http://dbpedia.org/resource/File:BEL_Croix_de_Guerre_1944_ribbon.svg> ,
+		<http://dbpedia.org/resource/File:Medal_of_the_25th_Century_of_the_Monarchy.gif> ,
+		dbr:Robert_I_of_France ,
+		dbr:House_of_Bourbon-Parma ,
+		<http://dbpedia.org/resource/File:Oorlogsherinneringskruis_1940-1945.gif> ,
+		<http://dbpedia.org/resource/Adelaide_of_L\u00F6wenstein-Wertheim-Rosenberg> ,
+		dbc:British_Army_personnel_of_World_War_II ,
+		dbr:Basil_Eugster ;
+	dbo:wikiPageExternalLink	<http://www.monarchie.lu/fr/famille/grand-duc-jean/index.html> ,
+		<http://www.monarchie.lu/fr/histoire/souverains/jean/index.html> .
+@prefix dbt:	<http://dbpedia.org/resource/Template:> .
+<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg>	dbp:wikiPageUsesTemplate	dbt:Flag ,
+		dbt:S-hou ,
+		dbt:S-reg ,
+		dbt:Princes_of_Parma ,
+		dbt:Chart_bottom ,
+		dbt:Chart_top ,
+		dbt:S-aft ,
+		dbt:Commons_category-inline ,
+		dbt:Flagicon ,
+		dbt:Flagicon_image ,
+		dbt:Monarchs_of_Nassau ,
+		dbt:Small ,
+		dbt:Princes_of_Nassau ,
+		dbt:Princes_of_Luxembourg ,
+		dbt:S-bef ,
+		dbt:S-end ,
+		dbt:S-start ,
+		dbt:S-ttl ,
+		dbt:Use_dmy_dates ,
+		dbt:Infobox_royalty ,
+		dbt:PM20 ,
+		dbt:Ahnentafel ,
+		dbt:Birth_date ,
+		dbt:Death_date_and_age ,
+		dbt:Reflist ,
+		dbt:Short_description ,
+		dbt:Authority_control ,
+		dbt:S-mil ,
+		dbt:Monarchs_of_Luxembourg ;
+	dbp:birthDate	"1921-01-05"^^xsd:date ;
+	dbp:caption	"Jean in 1967"@en ;
+	dbp:deathDate	"2019-04-23"^^xsd:date ;
+	dbp:spouse	""@en ,
+		"1953-04-09"^^xsd:date ,
+		"2005-01-10"^^xsd:date ,
+		<http://dbpedia.org/resource/Princess_Jos\u00E9phine_Charlotte_of_Belgium> ;
+	dbo:abstract	"Jo\u00E3o, Gr\u00E3o-Duque de Luxemburgo GColIH (Castelo de Berg, 5 de janeiro de 1921 \u2014 Luxemburgo, 23 de abril de 2019) foi o titular do Gr\u00E3o-Ducado de Luxemburgo de 1964 at\u00E9 sua abdica\u00E7\u00E3o em 2004. Filho de Carlota, Gr\u00E3-Duquesa de Luxemburgo e do pr\u00EDncipe F\u00E9lix de Bourbon-Parma, entre seus padrinhos estava o papa Bento XV. \u00C9 o pai do atual gr\u00E3o-duque, Henrique. Seu t\u00EDtulo completo era: \"Pela Gra\u00E7a de Deus, Gr\u00E3o-Duque de Luxemburgo, Duque de Nassau, Conde Palatino do Reno, Conde de Sayn, K\u00F6nigstein, Katzenellenbogen e Diez, Burgrave de Hammerstein, Senhor de Mahlberg, Wiesbaden, Idstein, Merenberg, Limburg e Eppstein.\" Contudo, muitos desses t\u00EDtulos s\u00E3o detidos sem considerar suas estritas regras de heran\u00E7a s\u00E1lica. Ele renunciou aos t\u00EDtulos da Casa de Bourbon-Parma em nome de si pr\u00F3prio e de sua fam\u00EDlia em 1986, quando seu primo, Carlos Hugo de Bourbon-Parma, Duque de Parma, considerou o casamento do filho mais velho de Jo\u00E3o inadequado."@pt ,
+		"Giovanni di Lussemburgo, nato Jean Benoit Guillaume Robert Antoine Louis Marie Adolphe Marc d'Aviano (Colmar-Berg, 5 gennaio 1921 \u2013 Lussemburgo, 23 aprile 2019), \u00E8 stato il Granduca di Lussemburgo dall'abdicazione della madre Carlotta, nel 1964, fino alla propria rinuncia nel 2000 a favore del figlio Enrico. La circostanza che Giovanni sia stato anche il primo esponente della famiglia dei Borbone di Parma ad ascendere al trono lussemburghese \u00E8 secondaria di fronte al fatto che il titolo granducale gli \u00E8 stato trasmesso dalla madre (secondo alcuni egli \u00E8 il fondatore del ramo dei Nassau-Borbone)."@it ,
+		"Jean, n\u00E9 le 5 janvier 1921 au ch\u00E2teau de Colmar-Berg et mort le 23 avril 2019 \u00E0 Luxembourg, est le fils a\u00EEn\u00E9 de la grande-duchesse Charlotte et du prince F\u00E9lix de Bourbon-Parme. Il a \u00E9t\u00E9 le huiti\u00E8me grand-duc de Luxembourg de 1964 \u00E0 2000. Son parrain \u00E9tait le pape Beno\u00EEt XV. Oncle du roi des Belges Philippe, il \u00E9tait le neveu de Charles Ier, dernier empereur d'Autriche et roi de Hongrie, qui fut b\u00E9atifi\u00E9 en 2004."@fr ,
+		"Jean von Nassau-Weilburg a\u016D Johano la 1-a de Luksemburgo (naski\u011Dis la 15-an de januaro 1921 en Kastelo Berg, Luksemburgo, mortis la 23-an de aprilo 2019) estis de 1964 \u011Dis 2000 grandduko de Luksemburgo kaj (titole, sed ne fakte) duko de Nassau."@eo ,
+		"\u30B8\u30E3\u30F3\uFF08\u30D5\u30E9\u30F3\u30B9\u8A9E: Jean\u30011921\u5E741\u67085\u65E5 - 2019\u5E744\u670823\u65E5\uFF09\u306F\u3001\u30EB\u30AF\u30BB\u30F3\u30D6\u30EB\u30AF\u306E\u5927\u516C\uFF08\u5728\u4F4D\uFF1A1964\u5E7411\u670812\u65E5 - 2000\u5E7410\u67087\u65E5\uFF09\u3002 \u30CF\u30D7\u30B9\u30D6\u30EB\u30AF\u5BB6\u306E\u524D\u5F53\u4E3B\u30AA\u30C3\u30C8\u30FC\u306E\u5F93\u5F1F\u306B\u3042\u305F\u308B\u30021968\u5E74\u304B\u30892002\u5E74\u306E\u30E6\u30FC\u30ED\u5C0E\u5165\u307E\u3067\u8907\u6570\u306E\u30EB\u30AF\u30BB\u30F3\u30D6\u30EB\u30AF\u30FB\u30D5\u30E9\u30F3\u7D19\u5E63\u306B\u8096\u50CF\u304C\u4F7F\u7528\u3055\u308C\u3066\u3044\u305F\u3002"@ja ,
+		"Jan, wielki ksi\u0105\u017C\u0119 Luksemburga (Jean Beno\u00EEt Guillaume Robert Antoine Louis Marie Adolphe Marc d\u2019Aviano Bourbon-Parma, ur. 5 stycznia 1921 w Zamku Berg, zm. 23 kwietnia 2019 w Luksemburgu) \u2013 wielki ksi\u0105\u017C\u0119 Luksemburga w latach 1964\u20132000; cz\u0142onek luksemburskiej rodziny wielkoksi\u0105\u017C\u0119cej; syn ksi\u0119cia Feliksa z Luksemburga i jego ma\u0142\u017Conki, Szarlotty, wielkiej ksi\u0119\u017Cnej Luksemburga. Studiowa\u0142 prawo i nauki polityczne na Uniwersytecie Lavala (w Quebecu, w Kanadzie). W listopadzie 1942 wst\u0105pi\u0142 do wojska brytyjskiego, gdzie s\u0142u\u017Cy\u0142 w czasie II wojny \u015Bwiatowej. W 1953 po\u015Blubi\u0142 ksi\u0119\u017Cniczk\u0119 J\u00F3zefin\u0119 Szarlott\u0119 z Belgii, z kt\u00F3r\u0105 mia\u0142 pi\u0119cioro dzieci: arcyksi\u0119\u017Cn\u0105 Mari\u0119 Astryd\u0119 z Austrii, Henryka, wielkiego ksi\u0119cia Luksemburga, , ksi\u0119\u017Cn\u0105 Ma\u0142gorzat\u0119 z Liechtensteinu i ksi\u0119cia Wilhelma. J\u00F3zefina Szarlotta zmar\u0142a w 2005. Po abdykacji matki w 1964 zosta\u0142 kolejnym wielkim ksi\u0119ciem Luksemburga. Wielki ksi\u0105\u017C\u0119 Jan abdykowa\u0142 7 pa\u017Adziernika 2000 na rzecz swojego syna, ksi\u0119cia Henryka. Poprzez swojego przodka, Jana Wilhelma Friso, ksi\u0119cia Oranii spokrewniony by\u0142 ze wszystkimi rodzinami kr\u00F3lewskimi i ksi\u0105\u017C\u0119cymi panuj\u0105cymi w Europie. W wieku 98 lat by\u0142 najstarszym \u017Cyj\u0105cym obecnym lub by\u0142ym monarch\u0105 na \u015Bwiecie. Zmar\u0142 23 kwietnia 2019 w klinice w Luksemburgu z powodu zapalenia p\u0142uc."@pl ,
+		"Juan de Nassau-Weilburg y Borb\u00F3n-Parma (Jean Beno\u00EEt Guillaume Robert Antoine Louis Marie Adolphe Marc d'Aviano de Nassau-Weilburg, Castillo de Berg, Luxemburgo, 5 de enero de 1921-Ciudad de Luxemburgo, Luxemburgo, 23 de abril de 2019) fue el Gran duque de Luxemburgo desde el 12 de noviembre de 1964 hasta el 7 de octubre de 2000."@es ,
+		"Jean (Jean Beno\u00EEt Guillaume Robert Antoine Louis Marie Adolphe Marc d'Aviano; 5 January 1921 \u2013 23 April 2019) was the Grand Duke of Luxembourg from 1964 until his abdication in 2000. He was the first Grand Duke of Luxembourg of French agnatic descent. Jean was the eldest son of Grand Duchess Charlotte and Prince Felix. Jean's primary education was initially in Luxembourg, before attending Ampleforth College in England. In 1938, he was officially named Hereditary Grand Duke as heir to the throne of Luxembourg. While Luxembourg was occupied by Germans during the Second World War, the grand ducal family was abroad in exile. Jean studied at the Universit\u00E9 Laval in Quebec City. Jean later volunteered to join the British army's Irish Guards in 1942, and after graduating from the Royal Military Academy Sandhurst, received his commission in 1943. He participated in the Normandy landings and the Battle for Caen, and joined the Allied forces in the liberation of Luxembourg. From 1984 until 2000, he was colonel of the Irish Guards. On 9 April 1953, Jean married Princess Jos\u00E9phine Charlotte of Belgium with whom he had five children. On 12 November 1964, Grand Duchess Charlotte abdicated and Jean succeeded her as Grand Duke of Luxembourg. He then reigned for 36 years before he himself abdicated on 7 October 2000 and was succeeded by his son, Grand Duke Henri."@en ,
+		"Jean von Nassau (* 5. Januar 1921 auf Schloss Berg in Colmar-Berg; \u2020 23. April 2019 in Luxemburg) war von 1964 bis 2000 Gro\u00DFherzog von Luxemburg, Herzog von Nassau. Im deutschsprachigen Raum wurde er auch als Johann bezeichnet."@de ,
+		"Jean (nama pemberian: Jean Beno\u00EEt Guillaume Robert Antoine Louis Marie Adolphe Marc d'Aviano; lahir 5 Januari 1921 \u2013 meninggal 23 April 2019 pada umur 98 tahun) adalah Haryapatih Luksemburg yang berkuasa dari tahun 1964 hingga turun takhta pada tahun 2000. Ia adalah Haryapatih Luksemburg pertama yang keturunan patrilineal Prancis. Jean adalah putra tertua Haryapatih Charlotte dan . Pada tahun 1938, ia secara resmi menjadi Haryapatih Pewaris yang merupakan pewaris takhta Luksemburg. Saat Luksemburg  selama Perang Dunia Kedua, keluarga keharyapatihan berada di luar negeri dalam pengasingan. Jean belajar di  di Kota Quebec. Jean kemudian mengajukan diri untuk bergabung dengan tentara Inggris pada tahun 1942, dan setelah lulus dari Akademi Militer Kerajaan Sandhurst, ia resmi ditugaskan sebagai perwira pada tahun 1943. Ia berpartisipasi dalam pendaratan Normandia dan Pertempuran Caen, dan bergabung dengan pasukan Sekutu dalam pembebasan Luksemburg. Dari tahun 1984 hingga 2000, ia adalah kolonel Garda Irlandia. Pada 9 April 1953, Jean menikahi Puteri Jos\u00E9phine-Charlotte dari Belgia, mereka memiliki lima orang anak. Pada 12 November 1964, Haryapatih Charlotte turun takhta dan Jean menggantikannya sebagai Haryapatih Luksemburg. Ia kemudian berkuasa selama 36 tahun sebelum ia turun takhta pada 7 Oktober 2000 dan digantikan oleh putranya, Haryapatih Henri."@in ,
+		"\uC7A5(\uD504\uB791\uC2A4\uC5B4: Jean, 1921\uB144 1\uC6D4 5\uC77C ~ 2019\uB144 4\uC6D4 23\uC77C)\uC740 \uB8E9\uC148\uBD80\uB974\uD06C \uB300\uACF5\uC774\uB2E4. \uC5B4\uBA38\uB2C8\uB294 \uB8E9\uC148\uBD80\uB974\uD06C \uC5EC\uB300\uACF5 \uC0E4\uB97C\uB85C\uD2B8\uC774\uBA70 \uC544\uBC84\uC9C0\uB294 \uD30C\uB974\uB9C8 \uACF5\uAD6D\uC758 \uB9C8\uC9C0\uB9C9 \uAD70\uC8FC \uB85C\uBCA0\uB974\uD1A0 1\uC138\uC758 \uC544\uB4E4\uC778 \uBD80\uB974\uBD09\uD30C\uB974\uB9C8\uC758 \uD3A0\uB9AD\uC2A4\uC774\uB2E4. \uC624\uC2A4\uD2B8\uB9AC\uC544-\uD5DD\uAC00\uB9AC\uC758 \uB9C8\uC9C0\uB9C9 \uD669\uD6C4\uC600\uB358 \uBD80\uB974\uBD09\uD30C\uB974\uB9C8\uC758 \uCE58\uD0C0\uB294 \uADF8\uC758 \uACE0\uBAA8\uC774\uB2E4. \uB300\uBD80\uB294 \uAD50\uD669 \uBCA0\uB124\uB515\uD1A0 15\uC138\uC774\uB2E4."@ko ,
+		"Jean Beno\u00EEt Guillaume Marie Robert Louis Antoine Adolphe Marc d'Aviano, in het Nederlands taalgebied vaak aangeduid als Jan van Luxemburg (Colmar-Berg, 5 januari 1921 \u2013 Luxemburg, 23 april 2019), was van 1964 tot 2000 groothertog van Luxemburg."@nl ,
+		"\u8BA9\u5927\u516C\uFF08\u82F1\u8A9E\uFF1AGrand Duke Jean\uFF0C1921\u5E741\u67085\u65E5\uFF0D2019\u5E744\u670823\u65E5\uFF09\uFF0C\u5168\u540D\u5362\u68EE\u5821\u7684\u8BA9\u00B7\u4F2F\u52AA\u74E6\u00B7\u7EAA\u5C27\u59C6\u00B7\u7F57\u8D1D\u5C14\u00B7\u5B89\u4E1C\u5C3C\u00B7\u8DEF\u6613\u65AF\u00B7\u9A6C\u91CC\u00B7\u963F\u9053\u592B\u00B7\u9A6C\u514B\u00B7\u8FBE\u7EF4\u4E9A\u8BFA\uFF08\u76E7\u68EE\u5821\u8A9E\uFF1AJean Beno\u00EEt Guillaume Robert Antoine Louis Marie Adolphe Marc d'Aviano vu L\u00EBtzebuerg\uFF09\uFF0C\u524D\u5362\u68EE\u5821\u5927\u516C\uFF081964\u5E74\u81F32000\u5E74\u5728\u4F4D\uFF09\u3001\u62FF\u9A9A\u516C\u7235\u3001\u6CE2\u65C1-\u5E15\u5C14\u9A6C\u4EB2\u738B\u3002\u590F\u6D1B\u7279\u5973\u5927\u516C\u548C\u8D39\u5229\u514B\u65AF\u4EB2\u738B\u7684\u957F\u5B50\u3002\u8BA9\u5927\u516C\u7684\u5934\u8854\u5168\u79F0\uFF1A\u201C\u8499\u4E0A\u5E1D\u6069\u5178\u7684\u8BA9\uFF0C\u76E7\u68EE\u5821\u5927\u516C\uFF0C\u62FF\u9A37\u516C\u7235\uFF0C\u6CE2\u65C1-\u5E15\u723E\u99AC\u738B\u5B50\uFF0C\u840A\u8335\u884C\u5BAE\u4F2F\u7235\uFF0C\u585E\u6069\u3001\u79D1\u5C3C\u65AF\u5766\u3001\u5361\u5C91\u6D85\u6069\u535A\u6839\uFF0C\u4EE5\u53CA\u8FEA\u8332\u4F2F\u7235\uFF0C\u6F22\u9ED8\u65AF\u5766\u85E9\u4FAF\uFF0C\u9EBB\u8C9D\u514B\u3001\u5A01\u65AF\u5DF4\u767B\u3001\u4F0A\u5FB7\u65AF\u5766\u3001\u6885\u502B\u5821\u3001\u6797\u5821\uFF0C\u4EE5\u53CA\u827E\u666E\u65AF\u5766\u9818\u4E3B\u201D\u3002\uFF08\u5FB7\u6587\uFF1ASeine K\u00F6nigliche Hoheit Jean, Gro\u00DFherzog von Luxemburg, Herzog von Nassau, Prinz von Bourbon-Parma, Pfalzgraf bei Rhein, Graf zu Sayn, K\u00F6nigstein, Katzenelnbogen und Diez, Burggraf von Hammerstein, Herr von Mahlberg, Wiesbaden, Idstein, Merenberg, Limburg und Eppstein.\uFF09"@zh ,
+		"\u062C\u0627\u0646 \u0628\u0646\u0648\u0627 \u063A\u0631\u0627\u0646\u062F\u0648\u0642 \u0644\u0648\u0643\u0633\u0645\u0628\u0648\u0631\u063A (5 \u064A\u0646\u0627\u064A\u0631 1921 - 23 \u0623\u0628\u0631\u064A\u0644 2019) \u0647\u0648 \u0627\u0644\u062F\u0648\u0642 \u0627\u0644\u0623\u0643\u0628\u0631 \u0644\u0644\u0648\u0643\u0633\u0645\u0628\u0648\u0631\u063A \u0645\u0646\u0630 \u0639\u0627\u0645 1964 \u062D\u0646\u0649 \u062A\u0646\u0627\u0632\u0644\u0647 \u0641\u064A 2000\u060C \u0648\u0647\u0648 \u0648\u0627\u0644\u062F \u0627\u0644\u062F\u0648\u0642 \u0627\u0644\u062D\u0627\u0644\u064A \u0627\u0644\u062F\u0648\u0642 \u0627\u0644\u0623\u0643\u0628\u0631 \u0647\u0646\u0631\u064A\u060C \u0648\u0627\u0628\u0646 \u0627\u0644\u063A\u0631\u0627\u0646\u062F\u0648\u0642\u0629 \u062A\u0634\u0627\u0631\u0644\u0648\u062A\u0627 . \u0634\u0627\u0631\u0643 \u0641\u064A \u0627\u0644\u062D\u0631\u0628 \u0627\u0644\u0639\u0627\u0644\u0645\u064A\u0629 \u0627\u0644\u062B\u0627\u0646\u064A\u0629\u060C \u062D\u064A\u062B \u0643\u0627\u0646 \u0639\u0636\u0648\u0627 \u0641\u064A  \u0627\u0644\u062A\u0627\u0628\u0639 \u0644\u0645\u0644\u0643\u0629 \u0628\u0631\u064A\u0637\u0627\u0646\u064A\u0627."@ar ,
+		"Joan Luxenburgokoa (, , 1921eko urtarrilaren 5a \u2013 Luxenburgo, 2019ko apirilaren 23a) Luxenburgoko duke handia izan zen 1964tik 2000ra. Bigarren Mundu Gerran parte hartu zuen, Britainiar Armadako kide izanik. Normandiako Lehorreratzean, , , Ardenetako Guduan eta Luxenburgoren askatzean parte hartu zuen  erregimentuarekin. Bere ama Karlota Luxenburgokoaren abdikazioaren ondoren, duke handia bihurtu zen. 2000n, Henrike I.a Luxenburgokoa bere semearengan abdikatu zuen. 1953ko apirilaren 9an ezkondu zen . Bikoteak hiru seme eta bi alaba ditu: \n*  (1954ko otsailaren 17a). 1982an ezkondua Artxiduke . Bost seme-alaba dituzte. \n* Henrike I.a Luxenburgokoa duke handia. \n*  (1957ko maiatzaren 15a). 1987an ezkondua . Lau seme-alaba dituzte. \n*  printzesa. 1982an ezkondua  printzearekin. Lau seme-alaba dituzte. \n*  printzea. 1994an ezkondua . Lau seme-alaba dituzte. \n*  Datuak: Q15988 \n*  Multimedia: Jean, Grand Duke of Luxembourg"@eu ,
+		"Jean I av Luxemburg (Jean Benoit Guillaume Marie Robert Louis Antoine Adolphe Marc d'Aviano), f\u00F6dd 5 januari 1921 p\u00E5 Bergs slott i Colmar-Berg, Luxemburg, d\u00F6d 23 april 2019 i Luxemburg, var regerande storhertig av Luxemburg 1964\u20132000 och hertig av Nassau."@sv ,
+		"Joan I de Luxemburg (en luxemburgu\u00E8s: Jean vu L\u00EBtzebuerg) (Castell de Berg, 5 de gener de 1921  \u2013 Ciutat de Luxemburg, 23 d'abril de 2019 ) va ser un arist\u00F2crata luxemburgu\u00E8s, Gran duc de Luxemburg des de l'any 1964 i fins a l'any 2000, any en qu\u00E8 abdic\u00E0 en favor del seu fill primog\u00E8nit, Enric I de Luxemburg."@ca ,
+		"\u0416\u0430\u043D (\u0444\u0440. Jean, \u043F\u043E\u0432\u043D\u0435 \u0456\u043C'\u044F Jean Benoit Guillaume Robert Antoine Louis Marie Adolphe Marc d'Aviano; 5 \u0441\u0456\u0447\u043D\u044F 1921, \u0437\u0430\u043C\u043E\u043A \u041A\u043E\u043B\u043C\u0430\u0440-\u0411\u0435\u0440\u0433, \u041B\u044E\u043A\u0441\u0435\u043C\u0431\u0443\u0440\u0433 \u2014 23 \u043A\u0432\u0456\u0442\u043D\u044F 2019) \u2014 \u0432\u0435\u043B\u0438\u043A\u0438\u0439 \u0433\u0435\u0440\u0446\u043E\u0433 \u041B\u044E\u043A\u0441\u0435\u043C\u0431\u0443\u0440\u0433\u0443 \u0437 1964 \u043F\u043E 2000 \u0440\u0456\u043A."@uk ,
+		"\u0416\u0430\u043D (\u0444\u0440. \u0438 \u043B\u044E\u043A\u0441\u0435\u043C\u0431. Jean, \u043F\u043E\u043B\u043D\u043E\u0435 \u0438\u043C\u044F Jean Beno\u00EEt Guillaume Robert Antoine Louis Marie Adolphe Marc d\u2019Aviano; 5 \u044F\u043D\u0432\u0430\u0440\u044F 1921, \u0417\u0430\u043C\u043E\u043A \u0411\u0435\u0440\u0433, \u041A\u043E\u043B\u044C\u043C\u0430\u0440-\u0411\u0435\u0440\u0433 \u2014 23 \u0430\u043F\u0440\u0435\u043B\u044F 2019, \u041B\u044E\u043A\u0441\u0435\u043C\u0431\u0443\u0440\u0433) \u2014 \u043B\u044E\u043A\u0441\u0435\u043C\u0431\u0443\u0440\u0433\u0441\u043A\u0438\u0439 \u043F\u043E\u043B\u0438\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0439 \u0434\u0435\u044F\u0442\u0435\u043B\u044C, \u0441\u043F\u043E\u0440\u0442\u0438\u0432\u043D\u044B\u0439 \u0444\u0443\u043D\u043A\u0446\u0438\u043E\u043D\u0435\u0440, \u0432\u0435\u043B\u0438\u043A\u0438\u0439 \u0433\u0435\u0440\u0446\u043E\u0433 \u041B\u044E\u043A\u0441\u0435\u043C\u0431\u0443\u0440\u0433\u0430 \u0441 12 \u043D\u043E\u044F\u0431\u0440\u044F 1964 \u0433\u043E\u0434\u0430 \u043F\u043E 7 \u043E\u043A\u0442\u044F\u0431\u0440\u044F 2000 \u0433\u043E\u0434\u0430."@ru ,
+		"\u039F \u0399\u03C9\u03AC\u03BD\u03BD\u03B7\u03C2 (1921-2019), \u03AE\u03C4\u03B1\u03BD \u039C\u03AD\u03B3\u03B1\u03C2 \u0394\u03BF\u03CD\u03BA\u03B1\u03C2 \u03C4\u03BF\u03C5 \u039B\u03BF\u03C5\u03BE\u03B5\u03BC\u03B2\u03BF\u03CD\u03C1\u03B3\u03BF\u03C5 (12 \u0394\u03B5\u03BA. 1964 - 7 \u039F\u03BA\u03C4. 2000). \u03A5\u03C0\u03AE\u03C1\u03BE\u03B5 \u03B3\u03B9\u03BF\u03C2 \u03C4\u03BF\u03C5 \u03A6\u03B5\u03BB\u03AF\u03BE \u03C0\u03C1\u03AF\u03B3\u03BA\u03B9\u03C0\u03B1 \u03C4\u03C9\u03BD \u0392\u03BF\u03C5\u03C1\u03B2\u03CC\u03BD\u03C9\u03BD-\u03A0\u03AC\u03C1\u03BC\u03B1\u03C2 \u03BA\u03B1\u03B9 \u03C4\u03B7\u03C2 \u039A\u03B1\u03C1\u03BB\u03CC\u03C4\u03C4\u03B1\u03C2 \u03C4\u03BF\u03C5 \u039D\u03B1\u03C3\u03C3\u03AC\u03BF\u03C5, \u039C\u03B5\u03B3\u03AC\u03BB\u03B7\u03C2 \u0394\u03BF\u03CD\u03BA\u03B9\u03C3\u03C3\u03B1\u03C2 \u03C4\u03BF\u03C5 \u039B\u03BF\u03C5\u03BE\u03B5\u03BC\u03B2\u03BF\u03CD\u03C1\u03B3\u03BF\u03C5. \u0393\u03B5\u03BD\u03BD\u03AE\u03B8\u03B7\u03BA\u03B5 \u03C3\u03C4\u03B9\u03C2 5 \u0399\u03B1\u03BD\u03BF\u03C5\u03B1\u03C1\u03AF\u03BF\u03C5 1921 \u03C3\u03C4\u03BF \u039B\u03BF\u03C5\u03BE\u03B5\u03BC\u03B2\u03BF\u03CD\u03C1\u03B3\u03BF, \u03CC\u03C0\u03BF\u03C5 \u03C3\u03C0\u03BF\u03CD\u03B4\u03B1\u03C3\u03B5 \u03C3\u03C4\u03B7\u03BD \u03C0\u03C1\u03C9\u03C4\u03BF\u03B2\u03AC\u03B8\u03BC\u03B9\u03B1 \u03B5\u03BA\u03C0\u03B1\u03AF\u03B4\u03B5\u03C5\u03C3\u03B7. \u03A4\u03B7 \u03B4\u03B5\u03C5\u03C4\u03B5\u03C1\u03BF\u03B2\u03AC\u03B8\u03BC\u03B9\u03B1 \u03B5\u03BA\u03C0\u03B1\u03AF\u03B4\u03B5\u03C5\u03C3\u03B7 \u03C4\u03B7\u03BD \u03BF\u03BB\u03BF\u03BA\u03BB\u03AE\u03C1\u03C9\u03C3\u03B5 \u03C3\u03C4\u03BF Ampleforth College, UK. \u03A4\u03BF 1939 \u03BF\u03C1\u03AF\u03C3\u03C4\u03B7\u03BA\u03B5 \u03B4\u03B9\u03AC\u03B4\u03BF\u03C7\u03BF\u03C2. \u038C\u03C4\u03B1\u03BD \u03C3\u03C4\u03B9\u03C2 10 \u039C\u03B1\u0390\u03BF\u03C5 1940 \u03BF\u03B9 \u0393\u03B5\u03C1\u03BC\u03B1\u03BD\u03BF\u03AF \u03B5\u03B9\u03C3\u03AD\u03B2\u03B1\u03BB\u03BB\u03B1\u03BD \u03C3\u03C4\u03BF \u039B\u03BF\u03C5\u03BE\u03B5\u03BC\u03B2\u03BF\u03CD\u03C1\u03B3\u03BF, \u03B7 \u03BF\u03B9\u03BA\u03BF\u03B3\u03AD\u03BD\u03B5\u03B9\u03AC \u03C4\u03BF\u03C5 \u03C0\u03BF\u03C5 \u03B5\u03AF\u03C7\u03B5 \u03B5\u03B9\u03B4\u03BF\u03C0\u03BF\u03B9\u03B7\u03B8\u03B5\u03AF, \u03AD\u03C6\u03C5\u03B3\u03B5 \u03C4\u03B7\u03BD \u03C0\u03C1\u03BF\u03B7\u03B3\u03BF\u03CD\u03BC\u03B5\u03BD\u03B7 \u03BD\u03CD\u03C7\u03C4\u03B1 \u03B3\u03B9\u03B1 \u03C4\u03BF \u03A0\u03B1\u03C1\u03AF\u03C3\u03B9 \u03BA\u03B1\u03B9 \u03BC\u03B5\u03C4\u03AC \u03B3\u03B9\u03B1 \u03C4\u03B7 \u039D\u03AD\u03B1 \u03A5\u03CC\u03C1\u03BA\u03B7. \u039F \u0399\u03C9\u03AC\u03BD\u03BD\u03B7\u03C2 \u03C3\u03C0\u03BF\u03CD\u03B4\u03B1\u03C3\u03B5 \u039D\u03BF\u03BC\u03B9\u03BA\u03AD\u03C2 \u03BA\u03B1\u03B9 \u03A0\u03BF\u03BB\u03B9\u03C4\u03B9\u03BA\u03AD\u03C2 \u0395\u03C0\u03B9\u03C3\u03C4\u03AE\u03BC\u03B5\u03C2 \u03C3\u03C4\u03BF Universit\u00E9 Laval, Quebec. \u0395\u03BA\u03C0\u03B1\u03B9\u03B4\u03B5\u03CD\u03C4\u03B7\u03BA\u03B5 \u03C3\u03C4\u03BF \u0392\u03C1\u03B5\u03C4\u03B1\u03BD\u03B9\u03BA\u03CC \u03A3\u03C4\u03C1\u03B1\u03C4\u03CC \u03C3\u03C4\u03BF Aldershot \u03C9\u03C2 \u03C5\u03C0\u03BF\u03BB\u03BF\u03C7\u03B1\u03B3\u03CC\u03C2 \u03C9\u03C2 \u03C4\u03BF 1943. \u0391\u03C0\u03BF\u03B2\u03B9\u03B2\u03AC\u03C3\u03C4\u03B7\u03BA\u03B5 \u03C3\u03C4\u03B7 \u039D\u03BF\u03C1\u03BC\u03B1\u03BD\u03B4\u03AF\u03B1 \u03C3\u03C4\u03B9\u03C2 11 \u0399\u03BF\u03C5\u03BD\u03AF\u03BF\u03C5 1944 \u03BA\u03B1\u03B9 \u03C0\u03AE\u03C1\u03B5 \u03BC\u03AD\u03C1\u03BF\u03C2 \u03C3\u03C4\u03B7 \u039C\u03AC\u03C7\u03B7 \u03C4\u03B7\u03C2 Caen \u03BA\u03B1\u03B9 \u03C4\u03B7\u03BD \u03B1\u03C0\u03B5\u03BB\u03B5\u03C5\u03B8\u03AD\u03C1\u03C9\u03C3\u03B7 \u03C4\u03C9\u03BD \u0392\u03C1\u03C5\u03BE\u03B5\u03BB\u03CE\u03BD. \u03A3\u03C4\u03B9\u03C2 10 \u03A3\u03B5\u03C0\u03C4\u03B5\u03BC\u03B2\u03C1\u03AF\u03BF\u03C5 \u03AD\u03BB\u03B1\u03B2\u03B5 \u03BC\u03AD\u03C1\u03BF\u03C2 \u03C3\u03C4\u03B7\u03BD \u03B1\u03C0\u03B5\u03BB\u03B5\u03C5\u03B8\u03AD\u03C1\u03C9\u03C3\u03B7 \u03C4\u03BF\u03C5 \u039B\u03BF\u03C5\u03BE\u03B5\u03BC\u03B2\u03BF\u03CD\u03C1\u03B3\u03BF\u03C5 \u03BA\u03B1\u03B9 \u03BC\u03B5\u03C4\u03AC \u03C0\u03C1\u03BF\u03C9\u03B8\u03AE\u03B8\u03B7\u03BA\u03B5 \u03C3\u03C4\u03BF Arnhem \u03BA\u03B1\u03B9 \u03C3\u03C4\u03B7\u03BD \u03B5\u03B9\u03C3\u03B2\u03BF\u03BB\u03AE \u03C3\u03C4\u03B7 \u0393\u03B5\u03C1\u03BC\u03B1\u03BD\u03AF\u03B1. \u039C\u03B5\u03C4\u03AC \u03C4\u03BF\u03BD \u03C0\u03CC\u03BB\u03B5\u03BC\u03BF \u03AD\u03B3\u03B9\u03BD\u03B5 \u03C3\u03C5\u03BD\u03C4\u03B1\u03B3\u03BC\u03B1\u03C4\u03AC\u03C1\u03C7\u03B7\u03C2 \u03C4\u03C9\u03BD \u0393\u03C1\u03B5\u03BD\u03B1\u03B4\u03B9\u03AD\u03C1\u03C9\u03BD \u03C4\u03B7\u03C2 \u0392\u03C1\u03B5\u03C4\u03B1\u03BD\u03AF\u03B1\u03C2. \u038C\u03C4\u03B1\u03BD \u03B7 \u03BC\u03B7\u03C4\u03AD\u03C1\u03B1 \u03C4\u03BF\u03C5 \u039A\u03B1\u03C1\u03BB\u03CC\u03C4\u03C4\u03B1 \u03C0\u03B1\u03C1\u03B1\u03B9\u03C4\u03AE\u03B8\u03B7\u03BA\u03B5 \u03C3\u03C4\u03B9\u03C2 12 \u039D\u03BF\u03B5\u03BC\u03B2\u03C1\u03AF\u03BF\u03C5 1964, \u03AD\u03B3\u03B9\u03BD\u03B5 \u039C\u03AD\u03B3\u03B1\u03C2 \u0394\u03BF\u03CD\u03BA\u03B1\u03C2 \u03C4\u03BF\u03C5 \u039B\u03BF\u03C5\u03BE\u03B5\u03BC\u03B2\u03BF\u03CD\u03C1\u03B3\u03BF\u03C5 \u03C9\u03C2 \u03C4\u03B9\u03C2 7 \u039F\u03BA\u03C4\u03C9\u03B2\u03C1\u03AF\u03BF\u03C5 2000. \u039C\u03B5\u03C4\u03AC \u03C4\u03B7\u03BD \u03C0\u03B1\u03C1\u03B1\u03AF\u03C4\u03B7\u03C3\u03AE \u03C4\u03BF\u03C5 \u03C4\u03BF\u03BD \u03B4\u03B9\u03B1\u03B4\u03AD\u03C7\u03B8\u03B7\u03BA\u03B5 \u03BF \u03B3\u03B9\u03BF\u03C2 \u03C4\u03BF\u03C5 \u0395\u03C1\u03C1\u03AF\u03BA\u03BF\u03C2. \u03A4\u03CE\u03C1\u03B1 \u03B6\u03B5\u03B9 \u03C3\u03C4\u03BF \u03BA\u03AC\u03C3\u03C4\u03C1\u03BF \u03C4\u03BF\u03C5 Fischbach."@el ,
+		"Jan Lucembursk\u00FD (luc. Jean vu L\u00EBtzebuerg, franc. Jean de Luxembourg, n\u011Bm. Jean n. Johann von Luxemburg, 5. ledna 1921 ,  \u2013 23. dubna 2019 Lucemburk) byl v letech 1964 a\u017E 2000 velkov\u00E9vodou lucembursk\u00FDm (a b\u00FDv\u00E1, zejm. v n\u011Bmeck\u00E9m jazykov\u00E9m prost\u0159ed\u00ED ozna\u010Dov\u00E1n jako Johann I., tedy \u010Desky Jan I.)"@cs ;
+	dbo:activeYearsEndYear	"1964"^^xsd:gYear ;
+	dbo:activeYearsStartYear	"1964"^^xsd:gYear .
+@prefix ns30:	<http://www.w3.org/2006/03/wn/wn20/instances/> .
+<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg>	dbp:wordnet_type	ns30:synset-sovereign-noun-1 ;
+	dbo:wikiPageLength	"43999"^^xsd:nonNegativeInteger ;
+	dbp:regType	dbr:List_of_prime_ministers_of_Luxembourg ,
+		""@en ;
+	dbp:predecessor	<http://dbpedia.org/resource/Charlotte,_Grand_Duchess_of_Luxembourg> ;
+	dbp:successor	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> ;
+	dbo:predecessor	<http://dbpedia.org/resource/Charlotte,_Grand_Duchess_of_Luxembourg> ;
+	dbo:successor	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> ;
+	dbo:child	<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> ,
+		dbr:Princess_Margaretha_of_Liechtenstein ,
+		dbr:Archduchess_Marie_Astrid_of_Austria ,
+		dbr:Prince_Jean_of_Luxembourg ,
+		dbr:Prince_Guillaume_of_Luxembourg ;
+	dbp:house	"Bourbon-Parma"@en ,
+		"Nassau-Weilburg"@en ;
+	dbp:issue	dbr:Princess_Margaretha_of_Liechtenstein ,
+		dbr:Archduchess_Marie_Astrid_of_Austria ,
+		dbr:Prince_Jean_of_Luxembourg ,
+		dbr:Prince_Guillaume_of_Luxembourg ,
+		""@en ,
+		<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> ;
+	dbp:burialPlace	"Notre-Dame Cathedral, Luxembourg City, Luxembourg"@en .
+<http://dbpedia.org/resource/Wedding_of_Haakon,_Crown_Prince_of_Norway,_and_Mette-Marit_Tjessem_H\u00F8iby>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+<http://dbpedia.org/resource/2,500-year_celebration_of_the_Persian_Empire>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+<http://dbpedia.org/resource/James_Hamilton,_5th_Duke_of_Abercorn>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+<http://dbpedia.org/resource/Wedding_of_Guillaume,_Hereditary_Grand_Duke_of_Luxembourg,_and_Countess_St\u00E9phanie_de_Lannoy>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+<http://dbpedia.org/resource/Wedding_of_Prince_Philippe_and_Mathilde_d\u0027Udekem_d\u0027Acoz>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+dbr:Prince_regent	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+dbr:List_of_longest-living_state_leaders	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+<http://dbpedia.org/resource/Princess_Jos\u00E9phine_Charlotte_of_Belgium>	dbo:spouse	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> ;
+	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> ;
+	dbp:spouse	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+dbr:Leopold_III_of_Belgium	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+dbr:List_of_monarchs_who_abdicated	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+dbr:List_of_monarchs_of_Luxembourg	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+dbr:List_of_prime_ministers_of_Luxembourg	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+<http://dbpedia.org/resource/1985_in_Luxembourg>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+<http://dbpedia.org/resource/Wedding_of_Willem-Alexander,_Prince_of_Orange,_and_M\u00E1xima_Zorreguieta_Cerruti>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+dbr:House_of_Nassau-Weilburg	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+dbr:History_of_Luxembourg	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+dbr:Pol_Albrecht	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+dbr:Julien_Hoffmann	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+<http://dbpedia.org/resource/1984_Summer_Olympics_opening_ceremony>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+dbr:United_States_presidential_visits_to_Western_Europe	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+dbr:List_of_international_trips_made_by_the_United_States_Secretary_of_State	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+dbr:List_of_state_visits_made_by_Elizabeth_II	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+dbr:Monarchy_of_Belgium	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+dbr:Silver_Star	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+dbr:List_of_people_on_the_postage_stamps_of_Brazil	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+dbr:House_of_Bourbon	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+<http://dbpedia.org/resource/Michel,_Prince_of_Ligne>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+<http://dbpedia.org/resource/1976_in_Luxembourg>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+<http://dbpedia.org/resource/1995_in_Luxembourg>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+<http://dbpedia.org/resource/European_School,_Luxembourg_I>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+dbr:Luxembourg_franc	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+<http://dbpedia.org/resource/Orders,_decorations,_and_medals_of_the_Holy_See>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+dbr:Prince_Nikolaus_of_Liechtenstein	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+dbr:Queen_Anne_of_Romania	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+dbr:List_of_state_leaders_in_1970	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+dbr:List_of_state_leaders_in_1977	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+dbr:List_of_state_leaders_in_1980	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+dbr:List_of_state_leaders_in_1990	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+dbr:List_of_state_leaders_in_1991	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+dbr:List_of_state_leaders_in_2000	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+dbr:List_of_state_leaders_in_1989	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+<http://dbpedia.org/resource/Wedding_of_Baudouin_of_Belgium_and_Fabiola_de_Mora_y_Arag\u00F3n>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+dbr:List_of_state_visits_made_by_King_Carl_XVI_Gustaf_of_Sweden	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+<http://dbpedia.org/resource/1983_in_Luxembourg>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+dbr:List_of_state_visits_received_by_King_Carl_XVI_Gustaf_of_Sweden	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+dbr:Wedding_of_Carl_XVI_Gustaf_and_Silvia_Sommerlath	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+dbr:Jacques_Santer	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> ;
+	dbp:monarch	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+dbr:Patricia_Kaas	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+<http://dbpedia.org/resource/1994_in_Luxembourg>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+dbr:Miniature_sheet	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+dbr:March_1964	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+dbr:Wedding_of_Prince_Juan_Carlos_and_Princess_Sophia	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+dbr:Order_of_the_Golden_Spur	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+dbr:List_of_Luxembourgers	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+dbr:Union_Grand-Duc_Adolphe	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+<http://dbpedia.org/resource/Place_d\u0027Armes_(Luxembourg)>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+dbr:European_Historic_Houses_Association	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .
+dbr:Guy_de_Muyser	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> .

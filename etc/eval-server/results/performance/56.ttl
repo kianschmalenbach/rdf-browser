@@ -1,0 +1,975 @@
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+<http://dbpedia.org/resource/Portlandia_(TV_series)>	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:List_of_American_films_of_2018	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+<http://dbpedia.org/resource/List_of_Late_Night_with_Jimmy_Fallon_episodes_(2009)>	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+<http://dbpedia.org/resource/List_of_Late_Night_with_Seth_Meyers_episodes_(2020)>	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+<http://dbpedia.org/resource/2008_in_film>	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:Live_Read	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:Breaking_character	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:List_of_The_Last_Man_on_Earth_episodes	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:List_of_Saturday_Night_Live_episodes	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:Son_of_Zorn	dbo:voice	dbr:Jason_Sudeikis .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Son_of_Zorn	dbp:voices	dbr:Jason_Sudeikis ;
+	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+<http://dbpedia.org/resource/SpongeBob_SquarePants_(season_12)>	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:Nick_Hamm	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:Paulie_Litt	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:Harmontown	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:Saturday_Night_Live_characters_appearing_on_Weekend_Update	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:Like_a_Boss	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:Boom_Chicago	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:Glenn_Beck	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+<http://dbpedia.org/resource/List_of_The_Daily_Show_episodes_(2012)>	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+<http://dbpedia.org/resource/2018_in_film>	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+<http://dbpedia.org/resource/Trivia_(The_Office)>	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+<http://dbpedia.org/resource/2010_in_film>	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+<http://dbpedia.org/resource/2012_in_film>	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:List_of_American_films_of_2013	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:List_of_American_films_of_2014	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:List_of_American_films_of_2017	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:List_of_American_films_of_2019	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+<http://dbpedia.org/resource/72nd_Primetime_Emmy_Awards>	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:List_of_Saturday_Night_Live_writers	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+<http://dbpedia.org/resource/Going_the_Distance_(2010_film)>	dbo:starring	dbr:Jason_Sudeikis ;
+	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:Kristen_Wiig	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+<http://dbpedia.org/resource/Kevin_Pollak\u0027s_Chat_Show>	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:Sleeping_with_Other_People	dbo:starring	dbr:Jason_Sudeikis ;
+	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:Hall_Pass	dbp:starring	dbr:Jason_Sudeikis ;
+	dbo:starring	dbr:Jason_Sudeikis ;
+	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:Horrible_Bosses_2	dbo:starring	dbr:Jason_Sudeikis ;
+	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:IO_Theater	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+<http://dbpedia.org/resource/The_Campaign_(film)>	dbo:starring	dbr:Jason_Sudeikis ;
+	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+<http://dbpedia.org/resource/The_Rocker_(film)>	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+<http://dbpedia.org/resource/The_Secret_Policeman\u0027s_Ball_2012>	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:Off_Camera	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+<http://dbpedia.org/resource/Colossal_(film)>	dbo:starring	dbr:Jason_Sudeikis ;
+	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+<http://dbpedia.org/resource/Sideswiped_(TV_series)>	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+<http://dbpedia.org/resource/Fairfax,_Virginia>	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+<http://dbpedia.org/resource/List_of_people_from_Johnson_County,_Kansas>	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:Christopher_Walken	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+<http://dbpedia.org/resource/List_of_It\u0027s_Always_Sunny_in_Philadelphia_characters>	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:Julia_Roberts	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:Kate_Hudson	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:List_of_science_fiction_films_of_the_2010s	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+<http://dbpedia.org/resource/List_of_The_Late_Late_Show_with_James_Corden_episodes_(2020)>	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:List_of_American_films_of_2011	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:List_of_American_films_of_2012	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+<http://dbpedia.org/resource/List_of_Conan_episodes_(2012)>	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+<http://dbpedia.org/resource/The_Ellen_DeGeneres_Show_(season_12)>	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+<http://dbpedia.org/resource/List_of_people_in_Playboy_2010\u20132020>	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+<http://dbpedia.org/resource/2011_NBA_All-Star_Game>	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:I_Do_Do	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+<http://dbpedia.org/resource/Recurring_Saturday_Night_Live_characters_and_sketches_introduced_2012\u201313>	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+<http://dbpedia.org/resource/List_of_Saturday_Night_Live_guests_(Q\u2013T)>	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:Shawnee_Mission_West_High_School	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+<http://dbpedia.org/resource/Garfunkel_and_Oates_(TV_series)>	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:Fort_Scott_Community_College	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:Semi-Pro	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+<http://dbpedia.org/resource/List_of_The_Daily_Show_episodes_(2016)>	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:Will_Poulter	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:List_of_British_films_of_2018	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+<http://dbpedia.org/resource/Scooby-Doo_and_Guess_Who%3F>	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+<http://dbpedia.org/resource/The_Secret_Policeman\u0027s_Ball>	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:Phil_Dunster	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:What_Happens_in_Vegas	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+<http://dbpedia.org/resource/Tom_Howard_(photographer)>	dbp:relatives	dbr:Jason_Sudeikis ;
+	dbo:relative	dbr:Jason_Sudeikis ;
+	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+@prefix ns3:	<http://dbpedia.org/resource/Celebrity_Autobiography:> .
+ns3:_In_Their_Own_Words	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+<http://dbpedia.org/resource/Neon_Joe,_Werewolf_Hunter>	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:List_of_American_films_of_2010	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+<http://dbpedia.org/resource/Next_Gen_(film)>	dbo:starring	dbr:Jason_Sudeikis ;
+	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:Scorpions_discography	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+<http://dbpedia.org/resource/12-12-12:_The_Concert_for_Sandy_Relief_(album)>	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+<http://dbpedia.org/resource/1975_in_film>	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+<http://dbpedia.org/resource/Get_Outta_My_Dreams,_Get_into_My_Car>	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+<http://dbpedia.org/resource/Cleveland_(30_Rock)>	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:Embankment_Films	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:List_of_films_based_on_actual_events	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:Shunsuke_Sakuya	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+<http://dbpedia.org/resource/MTV_Movie_&_TV_Awards>	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:List_of_people_from_Kansas	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:Jim_Carrey	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:List_of_Barack_Obama_2012_presidential_campaign_endorsements	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+<http://dbpedia.org/resource/Recurring_Saturday_Night_Live_characters_and_sketches_(listed_alphabetically)>	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:Brillstein_Entertainment_Partners	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+<http://dbpedia.org/resource/Fairfax_County,_Virginia>	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+<http://dbpedia.org/resource/Portlandia_(season_4)>	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:Great_Minds_with_Dan_Harmon	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+<http://dbpedia.org/resource/2011_in_film>	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+<http://dbpedia.org/resource/Recurring_Saturday_Night_Live_characters_and_sketches_introduced_2005\u201306>	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+@prefix ns4:	<http://dbpedia.org/resource/12-12-12:> .
+ns4:_The_Concert_for_Sandy_Relief	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:The_Angry_Birds_Movie	dbo:starring	dbr:Jason_Sudeikis ;
+	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+<http://dbpedia.org/resource/Recurring_Saturday_Night_Live_characters_and_sketches_introduced_2007\u201308>	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+<http://dbpedia.org/resource/Larry_Snyder_(athlete)>	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:List_of_30_Rock_characters	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:Bobby_Moynihan	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+<http://dbpedia.org/resource/Fletch_(film)>	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:Classic_Stage_Company	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:Tracy_Does_Conan	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+wikipedia-en:Jason_Sudeikis	foaf:primaryTopic	dbr:Jason_Sudeikis .
+dbr:Sudeikis	dbo:wikiPageRedirects	dbr:Jason_Sudeikis ;
+	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:Jason_Sudekis	dbo:wikiPageRedirects	dbr:Jason_Sudeikis ;
+	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:Jason_sudeikas	dbo:wikiPageRedirects	dbr:Jason_Sudeikis ;
+	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:List_of_people_who_are_left-handed	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:List_of_Last_Week_Tonight_with_John_Oliver_episodes	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+<http://dbpedia.org/resource/Timeline_of_the_Barack_Obama_presidency_(2016\u201317)>	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+<http://dbpedia.org/resource/Race_(2016_film)>	dbo:starring	dbr:Jason_Sudeikis ;
+	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:The_Ten	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:Will_Forte	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+<http://dbpedia.org/resource/SpongeBob\u0027s_Big_Birthday_Blowout>	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:NBA_All-Star_Celebrity_Game	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:Cultural_depictions_of_Margaret_Thatcher	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:Horrible_Bosses	dbo:starring	dbr:Jason_Sudeikis ;
+	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:List_of_Lithuanians	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+<http://dbpedia.org/resource/List_of_Conan_episodes_(2020)>	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+<http://dbpedia.org/resource/Gilda\u0027s_Club>	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:Accidental_Racist	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:Saturday_Night_Live_40th_Anniversary_Special	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:Saturday_Night_Live	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+<http://dbpedia.org/resource/30_Rock>	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+<http://dbpedia.org/resource/Epic_(2013_film)>	dbo:starring	dbr:Jason_Sudeikis ;
+	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:List_of_WWE_Raw_guest_stars	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:List_of_The_Cleveland_Show_characters	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+<http://dbpedia.org/resource/List_of_The_Tonight_Show_Starring_Jimmy_Fallon_episodes_(2015)>	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:George_Wendt	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:Ask_the_StoryBots	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+<http://dbpedia.org/resource/Recurring_Saturday_Night_Live_characters_and_sketches_introduced_2013\u201314>	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:StoryBots	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+<http://dbpedia.org/resource/Live_with_Kelly_and_Michael_(Season_25)>	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:Lithuanian_Americans	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:Anne_Hathaway	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:Rockhurst_High_School	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+<http://dbpedia.org/resource/List_of_people_from_Overland_Park,_Kansas>	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+<http://dbpedia.org/resource/The_Bounty_Hunter_(2010_film)>	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:Rawson_Marshall_Thurber	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+<http://dbpedia.org/resource/30_Rock_(season_4)>	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+<http://dbpedia.org/resource/History_of_Saturday_Night_Live_(2000\u20132005)>	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:A_Good_Old_Fashioned_Orgy	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+<http://dbpedia.org/resource/Watching_the_Detectives_(film)>	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+<http://dbpedia.org/resource/Going_Clear_(film)>	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:The_Gong_Show	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+<http://dbpedia.org/resource/Who_Do_You_Think_You_Are%3F_(American_TV_series)>	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:Paul_Brittain	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:Rob_Zabrecky	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:Jeff_Ross_Presents_Roast_Battle	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:Leslie_Cockburn	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:Broadway_Video	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:Brent_Almond	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:List_of_Superego_episodes	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:List_of_films_considered_the_worst	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:Dan_Harmon	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:Stefon	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+<http://dbpedia.org/resource/Waterfalls_(TLC_song)>	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:Will_Arnett	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+<http://dbpedia.org/resource/Superego_(podcast)>	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:Marci_Klein	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:List_of_comedy_films_of_the_2010s	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+<http://dbpedia.org/resource/Stormtrooper_(Star_Wars)>	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:Alison_Brie	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+<http://dbpedia.org/resource/Saturday_Night_Live_(season_30)>	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+<http://dbpedia.org/resource/Saturday_Night_Live_(season_32)>	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+<http://dbpedia.org/resource/The_Ellen_DeGeneres_Show_(season_15)>	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+<http://dbpedia.org/resource/List_of_The_Daily_Show_episodes_(2011)>	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:Dead_Poets_Society	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+<http://dbpedia.org/resource/Succession_(30_Rock)>	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:MTV_Movie_Award_for_Best_Jaw_Dropping_Moment	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+<http://dbpedia.org/resource/2016_Teen_Choice_Awards>	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:Teen_Choice_Award_for_Choice_Hissy_Fit	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+<http://dbpedia.org/resource/Jason_(given_name)>	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:Michelle_Borth	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:List_of_awards_and_nominations_received_by_Saturday_Night_Live	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:List_of_The_Chris_Gethard_Show_episodes	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+<http://dbpedia.org/resource/Saturday_Night_Live_(season_46)>	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+<http://dbpedia.org/resource/History_of_Saturday_Night_Live_(2020\u2013present)>	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+<http://dbpedia.org/resource/Somebody_to_Love_(30_Rock)>	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+<http://dbpedia.org/resource/Portlandia_(season_1)>	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+<http://dbpedia.org/resource/Eastbound_&_Down>	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:Joe_Buck_Live	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+<http://dbpedia.org/resource/Miracles_(Insane_Clown_Posse_song)>	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+<http://dbpedia.org/resource/1975_in_the_United_States>	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:Saturday_Night_Live_at_Home	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:Justin_Long	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:List_of_Playboy_Playmates_of_2012	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:Vanessa_Bayer	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:List_of_awards_and_nominations_received_by_Jennifer_Aniston	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:Denver	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+<http://dbpedia.org/resource/86th_Academy_Awards>	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:Lucy_Walsh	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+<http://dbpedia.org/resource/Recurring_Saturday_Night_Live_characters_and_sketches_introduced_2010\u201311>	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:List_of_Saturday_Night_Live_cast_members	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:Brad_Paisley	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:Alexander_Payne	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+<http://dbpedia.org/resource/Recurring_Saturday_Night_Live_characters_and_sketches_introduced_2008\u201309>	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+<http://dbpedia.org/resource/Fictionalized_portrayals_of_George_W._Bush>	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+<http://dbpedia.org/resource/List_of_The_Late_Show_with_Stephen_Colbert_episodes_(2016)>	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+<http://dbpedia.org/resource/List_of_The_Late_Show_with_Stephen_Colbert_episodes_(2017)>	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+<http://dbpedia.org/resource/List_of_The_Late_Show_with_Stephen_Colbert_episodes_(2020)>	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+<http://dbpedia.org/resource/List_of_The_Tonight_Show_with_Jay_Leno_episodes_(2011)>	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+<http://dbpedia.org/resource/List_of_The_Tonight_Show_with_Jay_Leno_episodes_(2013\u201314)>	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:Jennifer_Aniston	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+<http://dbpedia.org/resource/Joe_Biden_(The_Onion)>	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+<http://dbpedia.org/resource/List_of_Late_Night_with_Conan_O\u0027Brien_episodes_(season_13)>	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+<http://dbpedia.org/resource/List_of_Late_Night_with_Jimmy_Fallon_episodes_(2012)>	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+<http://dbpedia.org/resource/List_of_Late_Night_with_Seth_Meyers_episodes_(2014)>	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+<http://dbpedia.org/resource/List_of_Late_Night_with_Seth_Meyers_episodes_(2017)>	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:List_of_Live_episodes	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+<http://dbpedia.org/resource/Mitt_Romney\u0027s_2016_anti-Trump_speech>	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:Russell_Brand	dbp:before	dbr:Jason_Sudeikis ;
+	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:Fred_Armisen	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+<http://dbpedia.org/resource/It\u0027s_Always_Sunny_in_Philadelphia_(season_7)>	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+<http://dbpedia.org/resource/Saturday_Night_Live_(season_33)>	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+<http://dbpedia.org/resource/Saturday_Night_Live_(season_34)>	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+<http://dbpedia.org/resource/Saturday_Night_Live_(season_38)>	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+<http://dbpedia.org/resource/Saturday_Night_Live_(season_39)>	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:List_of_BS_Report_episodes	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:List_of_Jimmy_Fallon_games_and_sketches	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+<http://dbpedia.org/resource/2009_MTV_Video_Music_Awards>	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:Olivia_Wilde	dbo:partner	dbr:Jason_Sudeikis ;
+	dbp:partner	dbr:Jason_Sudeikis ;
+	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+<http://dbpedia.org/resource/The_Ellen_DeGeneres_Show_(season_13)>	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+<http://dbpedia.org/resource/The_Ellen_DeGeneres_Show_(season_18)>	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:Saturday_Night_Live_parodies_of_Sarah_Palin	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:List_of_WTF_with_Marc_Maron_episodes	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:List_of_actors_who_played_the_president_of_the_United_States	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+<http://dbpedia.org/resource/Recurring_Saturday_Night_Live_characters_and_sketches_introduced_2011\u201312>	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:NBC_Sunday_Night_Football	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:Tim_Meadows	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:Saturday_Night_Live_parodies_of_Joe_Biden	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:The_Most_Interesting_Man_in_the_World	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+<http://dbpedia.org/resource/Robot_Chicken_(season_6)>	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:The_Ambiguously_Gay_Duo	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+<http://dbpedia.org/resource/List_of_people_from_Lawrence,_Kansas>	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:Stephen_Manas	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+<http://dbpedia.org/resource/2014_in_film>	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+<http://dbpedia.org/resource/2015_in_film>	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+<http://dbpedia.org/resource/2016_in_film>	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+<http://dbpedia.org/resource/2017_Kids\u0027_Choice_Awards>	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+<http://dbpedia.org/resource/2017_in_film>	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+<http://dbpedia.org/resource/We\u0027re_the_Millers>	dbo:starring	dbr:Jason_Sudeikis ;
+	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+@prefix ns7:	<http://dbpedia.org/resource/Kevin_Hart:> .
+ns7:_What_The_Fit	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:Bill_Hader	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:Falling_Slowly	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:Jack_Meets_Dennis	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+<http://dbpedia.org/resource/Saturday_Night_Live_(season_36)>	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+<http://dbpedia.org/resource/List_of_Late_Night_with_Seth_Meyers_episodes_(2016)>	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+<http://dbpedia.org/resource/History_of_Saturday_Night_Live_(2010\u20132015)>	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+<http://dbpedia.org/resource/Saturday_Night_Live_(season_40)>	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:Meet_Bill	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+@prefix ns8:	<http://dbpedia.org/resource/Chapter_8:> .
+ns8:_Redemption	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+<http://dbpedia.org/resource/Mick_Murphy_(guitarist)>	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+<http://dbpedia.org/resource/Babel_(Mumford_&_Sons_album)>	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:Jeremy_Carter	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:Sedaris	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+<http://dbpedia.org/resource/Saturday_Night_Live_(season_37)>	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:List_of_people_from_Brooklyn	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:Rikiya_Koyama	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+<http://dbpedia.org/resource/List_of_The_Tonight_Show_Starring_Jimmy_Fallon_episodes_(2017)>	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+<http://dbpedia.org/resource/Saturday_Night_Live_(season_43)>	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:List_of_Lopez_Tonight_episodes	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:Don_Johnson	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:Jonathan_Tropper	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+<http://dbpedia.org/resource/K._P._Sekar>	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:Viraj_Adhav	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:Luv_Films	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+<http://dbpedia.org/resource/The_Last_Man_on_Earth_(TV_series)>	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+<http://dbpedia.org/resource/Downsizing_(film)>	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:Hannah_and_Her_Sisters	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+<http://dbpedia.org/resource/Saturday_Night_Live_(season_44)>	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+<http://dbpedia.org/resource/Recurring_Saturday_Night_Live_characters_and_sketches_introduced_2001\u201302>	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:El_Tonto	dbp:starring	dbr:Jason_Sudeikis ;
+	dbo:starring	dbr:Jason_Sudeikis ;
+	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:The_Cleveland_Show	dbo:voice	dbr:Jason_Sudeikis ;
+	dbp:voices	dbr:Jason_Sudeikis ;
+	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+<http://dbpedia.org/resource/List_of_Conan_episodes_(2018)>	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:List_of_Canadian_films_of_2016	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:Anna_Howard_Shaw_Day	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:Drinking_Buddies	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:List_of_comedians	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:September_18	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+<http://dbpedia.org/resource/1975>	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+<http://dbpedia.org/resource/2019_Kids\u0027_Choice_Awards>	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+<http://dbpedia.org/resource/30_Rock_(season_2)>	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:Legion_M	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:Kodachrome	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:Wainy_Days	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:List_of_Childrens_Hospital_episodes	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:List_of_Telugu_films_of_2019	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:Amanda_Crew	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:Mark_Raso	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:SNL_Digital_Short	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:The_Not-Too-Late_Show_with_Elmo	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+@prefix ns9:	<http://dbpedia.org/resource/List_of_Alan_Carr:> .
+ns9:_Chatty_Man_episodes	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:Rusty_Rivets	dbo:voice	dbr:Jason_Sudeikis ;
+	dbp:voices	dbr:Jason_Sudeikis ;
+	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:List_of_alumni_of_the_Second_City	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:Jessica_Biel	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:Kenyu_Horiuchi	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+<http://dbpedia.org/resource/List_of_Late_Night_with_Conan_O\u0027Brien_episodes_(season_15)>	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+<http://dbpedia.org/resource/The_Ellen_DeGeneres_Show_(season_16)>	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+<http://dbpedia.org/resource/Saturday_Night_Live_(season_41)>	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+<http://dbpedia.org/resource/Recurring_Saturday_Night_Live_characters_and_sketches_introduced_2004\u201305>	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:Nicolas_Chartier	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+<http://dbpedia.org/resource/It\u0027s_Always_Sunny_in_Philadelphia_(season_6)>	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+<http://dbpedia.org/resource/Driven_(2018_film)>	dbo:starring	dbr:Jason_Sudeikis ;
+	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+<http://dbpedia.org/resource/List_of_The_Tonight_Show_Starring_Jimmy_Fallon_episodes_(2016)>	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:The_Ellen_DeGeneres_Show	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+<http://dbpedia.org/resource/The_Ellen_DeGeneres_Show_(season_14)>	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:March_for_Our_Lives	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:List_of_fictional_diseases	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+<http://dbpedia.org/resource/2011_MTV_Movie_Awards>	dbp:host	dbr:Jason_Sudeikis ;
+	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+<http://dbpedia.org/resource/2012_MTV_Movie_Awards>	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+<http://dbpedia.org/resource/Fletch_(novel)>	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:SF_Sketchfest	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+<http://dbpedia.org/resource/30_Rock_(season_1)>	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+<http://dbpedia.org/resource/2014_MTV_Movie_Awards>	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+<http://dbpedia.org/resource/2015_MTV_Movie_Awards>	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:ESPN_Classic	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+<http://dbpedia.org/resource/Applebee\u0027s>	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+<http://dbpedia.org/resource/The_Cleveland_Show_(season_1)>	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+<http://dbpedia.org/resource/The_Cleveland_Show_(season_2)>	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:The_Comedy_Awards	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:Colin_Farrell	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:ComedySportz	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:Annoyance_Theatre	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+<http://dbpedia.org/resource/Jeppson\u0027s_Mal\u00F6rt>	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+<http://dbpedia.org/resource/List_of_Late_Night_with_Seth_Meyers_episodes_(2019)>	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+<http://dbpedia.org/resource/List_of_people_from_Kansas_City,_Missouri>	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:Phil_Lord_and_Christopher_Miller	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:Charlie_Day	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+<http://dbpedia.org/resource/Up_All_Night_(30_Rock)>	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+<http://dbpedia.org/resource/Fireworks_(30_Rock)>	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+<http://dbpedia.org/resource/Floyd_(30_Rock)>	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:Jack_Gets_in_the_Game	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:Sandwich_Day	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:The_Baby_Show	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+<http://dbpedia.org/resource/The_Break-Up_(30_Rock)>	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:The_Fighting_Irish	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+<http://dbpedia.org/resource/The_Source_Awards_(30_Rock)>	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:Corporate_Crush	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+<http://dbpedia.org/resource/Larry_King_(30_Rock)>	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:Emanuelle_Goes_to_Dinosaur_Land	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+<http://dbpedia.org/resource/Hiatus_(30_Rock)>	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:Kay_Cannon	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Jason_Sudeikis	rdf:type	yago:WikicatAmericanMaleVideoGameActors .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Jason_Sudeikis	rdf:type	wikidata:Q215627 .
+@prefix ns13:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Jason_Sudeikis	rdf:type	ns13:NaturalPerson ,
+		ns13:Agent ,
+		yago:WikicatAmericanVoiceActors ,
+		yago:Wikicat21st-centuryAmericanMaleActors ,
+		yago:Actor109765278 ,
+		yago:WikicatAmericanPeopleOfLithuanianDescent ,
+		yago:Entertainer109616922 ,
+		yago:WikicatAmericanMaleTelevisionActors .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Jason_Sudeikis	rdf:type	owl:Thing ,
+		yago:WikicatAmericanActors ,
+		<http://dbpedia.org/class/yago/WikicatPeopleFromFairfax,Virginia> ,
+		yago:WikicatAmericanScreenwriters ,
+		yago:WikicatAmericanTelevisionActors ,
+		yago:WikicatActors ,
+		yago:WikicatAmericanPeopleOfGermanDescent ,
+		yago:WikicatAmericanMaleFilmActors ,
+		yago:Screenwriter110564400 ,
+		yago:Scriptwriter110564905 ,
+		yago:Traveler109629752 ,
+		yago:WikicatActorsFromVirginia ,
+		wikidata:Q24229398 ,
+		dbo:Person ,
+		yago:Object100002684 ,
+		wikidata:Q5 ,
+		yago:PhysicalEntity100001930 ,
+		yago:Person100007846 ,
+		yago:Organism100004475 ,
+		yago:Scholar110557854 ,
+		yago:Whole100003553 ,
+		yago:WikicatMaleActorsFromVirginia ,
+		foaf:Person ,
+		<http://dbpedia.org/class/yago/WikicatPeopleFromOverlandPark,Kansas> ,
+		<http://dbpedia.org/class/yago/WikicatPeopleFromKansasCity,Kansas> ,
+		yago:WikicatAmericanComedians ,
+		yago:WikicatMaleActorsFromKansas ,
+		yago:Intellectual109621545 ,
+		yago:LivingThing100004258 ,
+		yago:Comedian109940146 ,
+		yago:Writer110794014 ,
+		yago:YagoLegalActor ,
+		yago:YagoLegalActorGeo ,
+		yago:WikicatLivingPeople ,
+		yago:WikicatAmericanPeople ,
+		yago:WikicatAmericanPeopleOfIrishDescent .
+@prefix schema:	<http://schema.org/> .
+dbr:Jason_Sudeikis	rdf:type	schema:Person ,
+		dbo:Agent ,
+		yago:Alumnus109786338 ,
+		yago:CausalAgent100007347 ,
+		yago:Communicator109610660 ,
+		yago:WikicatAmericanTelevisionWriters ,
+		yago:Emigrant110051975 ,
+		yago:WikicatGermanEmigrantsToTheUnitedStates ,
+		yago:Migrant110314952 ,
+		yago:Performer110415638 ,
+		yago:WikicatSecondCityAlumni ,
+		yago:WikicatAmericanMaleVoiceActors .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Jason_Sudeikis	rdfs:label	"Jason Sudeikis"@ca ,
+		"Jason Sudeikis"@in ,
+		"Jason Sudeikis"@es ,
+		"\u0414\u0436\u0435\u0439\u0441\u043E\u043D \u0421\u0443\u0434\u0435\u0439\u043A\u0456\u0441"@uk ,
+		"\uC81C\uC774\uC2A8 \uC218\uB370\uC774\uD0A4\uC2A4"@ko ,
+		"\u5091\u68EE\u00B7\u8607\u6234\u897F\u65AF"@zh ,
+		"Jason Sudeikis"@fr ,
+		"Jason Sudeikis"@de ,
+		"Jason Sudeikis"@en ,
+		"Jason Sudeikis"@it ,
+		"Jason Sudeikis"@nl ,
+		"Jason Sudeikis"@pt ,
+		"Jason Sudeikis"@sv ,
+		"Jason Sudeikis"@pl ,
+		"\u30B8\u30A7\u30A4\u30BD\u30F3\u30FB\u30B5\u30C0\u30A4\u30AD\u30B9"@ja ,
+		"\u062C\u064A\u0633\u0648\u0646 \u0633\u0648\u062F\u064A\u0643\u0633"@ar ,
+		"\u0421\u0443\u0434\u0435\u0439\u043A\u0438\u0441, \u0414\u0436\u0435\u0439\u0441\u043E\u043D"@ru ;
+	rdfs:comment	"Daniel Jason Sudeikis (Fairfax, Virginia, 18 de septiembre de 1975) es un actor estadounidense, fue miembro del elenco de Saturday Night Live desde 2006 hasta julio de 2013. Desde 2011 ha actuado en varias pel\u00EDculas como: Hall Pass, Horrible Bosses y A Good Old Fashioned Orgy. En 2019 durante su aparici\u00F3n en The Mandalorian agredi\u00F3 a Baby Yoda."@es ,
+		"\u0414\u0436\u0435\u0439\u0441\u043E\u043D \u0421\u0443\u0434\u0435\u0439\u043A\u0456\u0441 (\u0430\u043D\u0433\u043B. Jason Sudeikis; \u043D\u0430\u0440. 18 \u0432\u0435\u0440\u0435\u0441\u043D\u044F 1975) \u2014 \u0430\u043C\u0435\u0440\u0438\u043A\u0430\u043D\u0441\u044C\u043A\u0438\u0439 \u0430\u043A\u0442\u043E\u0440, \u0434\u0438\u043A\u0442\u043E\u0440, \u0441\u0446\u0435\u043D\u0430\u0440\u0438\u0441\u0442 \u0442\u0430 \u043A\u043E\u043C\u0456\u043A."@uk ,
+		"\uC81C\uC774\uC2A8 \uC218\uB370\uC774\uD0A4\uC2A4(\uC601\uC5B4: Jason Sudeikis, 1975\uB144 9\uC6D4 18\uC77C ~ )\uB294 \uBBF8\uAD6D\uC758 \uBC30\uC6B0\uC774\uB2E4."@ko ,
+		"Daniel Jason Sudeikis ( suu-DAY-kiss; born September 18, 1975) is an American actor, comedian, and screenwriter. In the 1990s, he began his career in improv comedy and performed with ComedySportz and The Second City. In 2003, Sudeikis was hired as a writer for Saturday Night Live and starred as a cast member from 2005 to 2013."@en ,
+		"\u062C\u0627\u0633\u0648\u0646 \u0633\u0648\u062F\u064A\u0643\u0633 (\u0628\u0627\u0644\u0625\u0646\u062C\u0644\u064A\u0632\u064A\u0629: Jason Sudeikis) \u0647\u0648 \u0645\u0645\u062B\u0644 \u0623\u0645\u0631\u064A\u0643\u064A \u0628\u062F\u0623 \u0645\u0633\u064A\u0631\u062A\u0647 \u0627\u0644\u0641\u0646\u064A\u0629 \u0639\u0627\u0645 1998. \u0647\u0648 \u0623\u064A\u0636\u0627 \u0645\u0645\u062B\u0644 \u0635\u0648\u062A."@ar ,
+		"Daniel Jason Sudeikis (ur. 18 wrze\u015Bnia 1975 w Fairfax) \u2013 ameryka\u0144ski aktor i komik. Wyst\u0119puje w programie Saturday Night Live. Poprowadzi\u0142 gal\u0119 MTV Movie Awards 2011."@pl ,
+		"Daniel Jason Sudeikis (Fairfax, 18 de setembro de 1975) \u00E9 um ator norte-americano, dublador, roteirista e comediante. Come\u00E7ou sua carreira na com\u00E9dia de improvisa\u00E7\u00E3o. Em 2003, ele foi contratado como um escritor de esbo\u00E7o para o Saturday Night Live e tornou-se um membro do elenco 2005-2013. Ele j\u00E1 apareceu na televis\u00E3o em 30 Rock, The Cleveland Show, Eastbound & Down, e outros shows. Ele tamb\u00E9m \u00E9 conhecido por seus pap\u00E9is nos filmes de Hall Pass, Horrible Bosses, Epic e We're the Millers. Em 2019, Sudeikis fez uma r\u00E1pida participa\u00E7\u00E3o na s\u00E9rie The Mandalorian como um Speed Bike Trooper. O personagem rapidamente ganhou inf\u00E2mia nas redes sociais por atacar repetidamente um personagem favorito dos f\u00E3s no \u00FAltimo epis\u00F3dio da s\u00E9rie. Casado com a atriz Olivia Wilde, o casal tem dois filhos, uma me"@pt ,
+		"Jason Sudeikis ( suu-DAY-kiss lahir di Fairfax, Virginia, Amerika Serikat, 18 September 1975; umur 44 tahun) adalah aktor, komedian, penulis dan produser asal Amerika Serikat, terkenal sebagai anggota di Saturday Night Live dari tahun 2005 hingga 2013. Ia dikenal karena perannya dalam film Horrible Bosses (2011), Hall Pass (2011), We're the Millers (2013), Horrible Bosses 2 (2014), Colossal (2016), Mother's Day (2016), The Angry Birds Movie (2016), dan The Angry Birds Movie 2 (2019)."@in ,
+		"\u30B8\u30A7\u30A4\u30BD\u30F3\u30FB\u30B5\u30C7\u30A4\u30AD\u30B9\uFF08Jason Sudeikis\u30011975\u5E749\u670818\u65E5 - \uFF09\u306F\u3001\u30A2\u30E1\u30EA\u30AB\u5408\u8846\u56FD\u306E\u4FF3\u512A\u30FB\u30B3\u30E1\u30C7\u30A3\u30A2\u30F3\u3002\u30B5\u30BF\u30C7\u30FC\u30FB\u30CA\u30A4\u30C8\u30FB\u30E9\u30A4\u30D6\u306E\u30AD\u30E3\u30B9\u30C8\u30E1\u30F3\u30D0\u30FC\u3067\u3082\u3042\u308B\u3002\u73FE\u5728\u3001\u30AB\u30F3\u30B6\u30B9\u5DDE\u30AA\u30FC\u30D0\u30FC\u30E9\u30F3\u30C9\u30D1\u30FC\u30AF\u306B\u5728\u4F4F\u3057\u3066\u3044\u308B\u3002"@ja ,
+		"Jason Sudeikis est un acteur et sc\u00E9nariste am\u00E9ricain n\u00E9 le 18 septembre 1975 \u00E0 Fairfax (Virginie). Ayant commenc\u00E9 sa carri\u00E8re dans l'improvisation comique, il int\u00E8gre le Saturday Night Live comme auteur de sketchs en 2003, avant de devenir membre du casting entre 2005 \u00E0 2013. Parall\u00E8lement, il pr\u00EAte sa voix \u00E0 l'un des protagonistes de la s\u00E9rie d'animation The Cleveland Show. Au cin\u00E9ma, il est connu pour ses r\u00F4les dans plusieurs com\u00E9dies potaches : Bon \u00E0 tirer (B.A.T.), Comment tuer son boss ? 1 et 2, et Les Miller, une famille en herbe."@fr ,
+		"Daniel Jason Sudeikis (Fairfax, 18 september 1975) is een Amerikaans acteur en komiek van Litouwse afkomst. Hij debuteerde in 2007 op het witte doek als Tony Contiella in de filmkomedie The Ten. Hij behoorde van 2003 tot en met 2013 tot de vaste leden van Saturday Night Live, waarin hij 168 afleveringen verscheen en waarvan hij er aan 37 (mee)schreef. In 2011 presenteerde Sudeikis de MTV Movie Awards. Sudeikis' oom is George Wendt."@nl ,
+		"Daniel Jason Sudeikis, f\u00F6dd 18 september 1975 i Fairfax, Virginia, \u00E4r en amerikansk sk\u00E5despelare, komiker och manusf\u00F6rfattare."@sv ,
+		"Daniel Jason Sudeikis (IPA: [s\u0289\u02C8de\u026Ak\u026As]) (Fairfax, 18 settembre 1975) \u00E8 un attore, comico, sceneggiatore e doppiatore statunitense."@it ,
+		"Daniel Jason Sudeikis (* 18. September 1975 in Fairfax, Virginia) ist ein US-amerikanischer Schauspieler und Komiker."@de ,
+		"\u0414\u044D\u0301\u043D\u0438\u0435\u043B \u0414\u0436\u0435\u0301\u0439\u0441\u043E\u043D \u0421\u0443\u0434\u0435\u0301\u0439\u043A\u0438\u0441 (\u0430\u043D\u0433\u043B. Daniel Jason Sudeikis; \u0440\u043E\u0434. 18 \u0441\u0435\u043D\u0442\u044F\u0431\u0440\u044F 1975, \u0424\u044D\u0440\u0444\u0430\u043A\u0441, \u0412\u0438\u0440\u0433\u0438\u043D\u0438\u044F, \u0421\u0428\u0410) \u2014 \u0430\u043C\u0435\u0440\u0438\u043A\u0430\u043D\u0441\u043A\u0438\u0439 \u0430\u043A\u0442\u0451\u0440, \u043A\u043E\u043C\u0438\u043A, \u0438\u0437\u0432\u0435\u0441\u0442\u043D\u044B\u0439 \u043F\u043E \u0430\u043C\u0435\u0440\u0438\u043A\u0430\u043D\u0441\u043A\u043E\u043C\u0443 \u0442\u0435\u043B\u0435\u0448\u043E\u0443 \u00AB\u0421\u0443\u0431\u0431\u043E\u0442\u043D\u0438\u043C \u0432\u0435\u0447\u0435\u0440\u043E\u043C \u0432 \u043F\u0440\u044F\u043C\u043E\u043C \u044D\u0444\u0438\u0440\u0435\u00BB, \u0430 \u0442\u0430\u043A\u0436\u0435 \u043A\u043E\u043C\u0435\u0434\u0438\u044F\u043C \u00AB\u041D\u0435\u0441\u043D\u043E\u0441\u043D\u044B\u0435 \u0431\u043E\u0441\u0441\u044B\u00BB, \u00AB\u041D\u0435\u0441\u043D\u043E\u0441\u043D\u044B\u0435 \u0431\u043E\u0441\u0441\u044B 2\u00BB, \u00AB\u041E\u0434\u043D\u0430\u0436\u0434\u044B \u0432 \u0412\u0435\u0433\u0430\u0441\u0435\u00BB \u0438 \u00AB\u041C\u044B \u2014 \u041C\u0438\u043B\u043B\u0435\u0440\u044B\u00BB."@ru ,
+		"Daniel Jason Sudeikis (/s\u1D7F\u02C8de\u026Ak\u026As/ s\u0259-DIA-kis; 18 de setembre de 1975) \u00E9s un actor americ\u00E0, comediant, guionista i actor de veu. Va comen\u00E7ar la seva carrera amb Improvisaci\u00F3 teatral. L'any 2003, va ser contractat com a escriptor de croquis per Saturday Night Live i esdevenia un membre de repartiment de 2005 a 2013. Ha aparegut a la televisi\u00F3 dins 30 Rock, The Cleveland Show, Eastbound & Avall, i altres espectacles. \u00C9s tamb\u00E9 sabut per les seves funcions en el Passi de Sala de les pel\u00B7l\u00EDcules (2011), Caps Horribles (2011), \u00C8pica (2013), We're the Millers (2013), i Caps Horribles 2 (2014)."@ca ,
+		"\u5091\u68EE\u00B7\u8607\u6234\u897F\u65AF\uFF08\u82F1\u8A9E\uFF1AJason Sudeikis\uFF0C1975\u5E749\u670818\u65E5\uFF0D\uFF09\u662F\u7F8E\u570B\u7684\u4E00\u4F4D\u6F14\u54E1\u3001\u914D\u97F3\u6F14\u54E1\u3001\u5C4F\u5E55\u4F5C\u5BB6\u548C\u559C\u5287\u6F14\u54E1\u3002\u4ED6\u7684\u6F14\u85DD\u751F\u6DAF\u958B\u59CB\u65BC\u5373\u8208\u5287\u5834\u3002\u57282005\u5E74\u81F32013\u5E74\u671F\u9593\uFF0C\u4ED6\u66FE\u51FA\u6F14\u9031\u516D\u591C\u73FE\u5834\u3002\u4ED6\u4E5F\u51FA\u6F14\u8001\u95C6\u4E0D\u662F\u4EBA\u7CFB\u5217\u96FB\u5F71\u3002"@zh ;
+	foaf:name	"Jason Sudeikis"@en ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Jason_Sudeikis_2011_Shankbone_2.JPG> ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Jason_Sudeikis .
+@prefix dct:	<http://purl.org/dc/terms/> .
+dbr:Jason_Sudeikis	dct:subject	<http://dbpedia.org/resource/Category:21st-century_American_screenwriters> ,
+		<http://dbpedia.org/resource/Category:21st-century_American_comedians> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Jason_Sudeikis	dct:subject	dbc:Screenwriters_from_Virginia ,
+		<http://dbpedia.org/resource/Category:American_impressionists_(entertainers)> ,
+		<http://dbpedia.org/resource/Category:People_from_Overland_Park,_Kansas> ,
+		dbc:Living_people ,
+		dbc:Screenwriters_from_Kansas ,
+		<http://dbpedia.org/resource/Category:1975_births> ,
+		<http://dbpedia.org/resource/Category:Writers_from_Kansas_City,_Kansas> ,
+		<http://dbpedia.org/resource/Category:Male_actors_from_Kansas_City,_Kansas> ,
+		dbc:American_male_film_actors ,
+		dbc:American_male_television_actors ,
+		dbc:Male_actors_from_Virginia ,
+		dbc:American_sketch_comedians ,
+		<http://dbpedia.org/resource/Category:Actors_from_Fairfax,_Virginia> ,
+		dbc:American_male_voice_actors ,
+		dbc:American_television_writers ,
+		dbc:American_male_television_writers ,
+		<http://dbpedia.org/resource/Category:21st-century_American_male_actors> ,
+		dbc:American_people_of_German_descent ,
+		dbc:American_people_of_Irish_descent ,
+		dbc:Male_actors_of_German_descent ,
+		dbc:American_people_of_Lithuanian_descent ;
+	owl:sameAs	<http://rdf.freebase.com/ns/m.06cddt> .
+@prefix dbpedia-af:	<http://af.dbpedia.org/resource/> .
+dbr:Jason_Sudeikis	owl:sameAs	dbpedia-af:Jason_Sudeikis .
+@prefix ns20:	<http://sw.cyc.com/concept/> .
+dbr:Jason_Sudeikis	owl:sameAs	ns20:Mx4rQ4_QliZuQ1qj0TRE50D6Og .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Jason_Sudeikis	owl:sameAs	dbpedia-nl:Jason_Sudeikis .
+@prefix dbpedia-ms:	<http://ms.dbpedia.org/resource/> .
+dbr:Jason_Sudeikis	owl:sameAs	dbpedia-ms:Jason_Sudeikis .
+@prefix dbpedia-ca:	<http://ca.dbpedia.org/resource/> .
+dbr:Jason_Sudeikis	owl:sameAs	dbpedia-ca:Jason_Sudeikis ,
+		<http://api.nytimes.com/svc/semantic/v2/concept/name/nytd_per/Sudeikis,%20Jason> .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:Jason_Sudeikis	owl:sameAs	dbpedia-es:Jason_Sudeikis .
+@prefix dbpedia-simple:	<http://simple.dbpedia.org/resource/> .
+dbr:Jason_Sudeikis	owl:sameAs	dbpedia-simple:Jason_Sudeikis .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Jason_Sudeikis	owl:sameAs	yago-res:Jason_Sudeikis .
+@prefix ns27:	<http://ast.dbpedia.org/resource/> .
+dbr:Jason_Sudeikis	owl:sameAs	ns27:Jason_Sudeikis .
+@prefix dbpedia-sv:	<http://sv.dbpedia.org/resource/> .
+dbr:Jason_Sudeikis	owl:sameAs	dbpedia-sv:Jason_Sudeikis ,
+		<http://viaf.org/viaf/159846980> .
+@prefix ns29:	<http://d-nb.info/gnd/1013756002/about/> .
+dbr:Jason_Sudeikis	owl:sameAs	ns29:rdf .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Jason_Sudeikis	owl:sameAs	dbpedia-de:Jason_Sudeikis ,
+		<http://kk.dbpedia.org/resource/\u0414\u0436\u0435\u0439\u0441\u043E\u043D_\u0421\u0443\u0434\u0435\u0439\u043A\u0438\u0441> .
+@prefix dbpedia-ro:	<http://ro.dbpedia.org/resource/> .
+dbr:Jason_Sudeikis	owl:sameAs	dbpedia-ro:Jason_Sudeikis ,
+		<http://uk.dbpedia.org/resource/\u0414\u0436\u0435\u0439\u0441\u043E\u043D_\u0421\u0443\u0434\u0435\u0439\u043A\u0456\u0441> ,
+		<http://ru.dbpedia.org/resource/\u0421\u0443\u0434\u0435\u0439\u043A\u0438\u0441,_\u0414\u0436\u0435\u0439\u0441\u043E\u043D> .
+@prefix dbpedia-hu:	<http://hu.dbpedia.org/resource/> .
+dbr:Jason_Sudeikis	owl:sameAs	dbpedia-hu:Jason_Sudeikis .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Jason_Sudeikis	owl:sameAs	dbpedia-pl:Jason_Sudeikis .
+@prefix ns34:	<http://data.europa.eu/euodp/jrc-names/> .
+dbr:Jason_Sudeikis	owl:sameAs	ns34:Jason_Sudeikis ,
+		<http://azb.dbpedia.org/resource/\u062C\u06CC\u0633\u0648\u0646_\u0633\u0648\u062F\u06CC\u06A9\u06CC\u0633> ,
+		dbr:Jason_Sudeikis .
+@prefix dbpedia-tr:	<http://tr.dbpedia.org/resource/> .
+dbr:Jason_Sudeikis	owl:sameAs	dbpedia-tr:Jason_Sudeikis .
+@prefix dbpedia-id:	<http://id.dbpedia.org/resource/> .
+dbr:Jason_Sudeikis	owl:sameAs	dbpedia-id:Jason_Sudeikis ,
+		<http://sr.dbpedia.org/resource/\u040F\u0435\u0458\u0441\u043E\u043D_\u0421\u0443\u0434\u0435\u0458\u043A\u0438\u0441> .
+@prefix dbpedia-da:	<http://da.dbpedia.org/resource/> .
+dbr:Jason_Sudeikis	owl:sameAs	dbpedia-da:Jason_Sudeikis .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Jason_Sudeikis	owl:sameAs	dbpedia-fr:Jason_Sudeikis ,
+		<http://ko.dbpedia.org/resource/\uC81C\uC774\uC2A8_\uC218\uB370\uC774\uD0A4\uC2A4> .
+@prefix dbpedia-no:	<http://no.dbpedia.org/resource/> .
+dbr:Jason_Sudeikis	owl:sameAs	dbpedia-no:Jason_Sudeikis ,
+		<http://zh.dbpedia.org/resource/\u5091\u68EE\u00B7\u8607\u6234\u897F\u65AF> .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Jason_Sudeikis	owl:sameAs	dbpedia-it:Jason_Sudeikis .
+@prefix dbpedia-is:	<http://is.dbpedia.org/resource/> .
+dbr:Jason_Sudeikis	owl:sameAs	dbpedia-is:Jason_Sudeikis ,
+		<http://lv.dbpedia.org/resource/D\u017Eeisons_Sudeikis> ,
+		<http://ar.dbpedia.org/resource/\u062C\u064A\u0633\u0648\u0646_\u0633\u0648\u062F\u064A\u0643\u0633> .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Jason_Sudeikis	owl:sameAs	dbpedia-pt:Jason_Sudeikis .
+@prefix ns43:	<http://lt.dbpedia.org/resource/> .
+dbr:Jason_Sudeikis	owl:sameAs	ns43:Jason_Sudeikis ,
+		<http://ja.dbpedia.org/resource/\u30B8\u30A7\u30A4\u30BD\u30F3\u30FB\u30B5\u30C0\u30A4\u30AD\u30B9> .
+@prefix dbpedia-sh:	<http://sh.dbpedia.org/resource/> .
+dbr:Jason_Sudeikis	owl:sameAs	dbpedia-sh:Jason_Sudeikis ,
+		<http://fa.dbpedia.org/resource/\u062C\u06CC\u0633\u0648\u0646_\u0633\u0648\u062F\u06CC\u06A9\u06CC\u0633> ,
+		<http://d-nb.info/gnd/1013756002> .
+@prefix dbpedia-fi:	<http://fi.dbpedia.org/resource/> .
+dbr:Jason_Sudeikis	owl:sameAs	dbpedia-fi:Jason_Sudeikis .
+@prefix ns46:	<https://global.dbpedia.org/id/> .
+dbr:Jason_Sudeikis	owl:sameAs	ns46:TdCD ,
+		wikidata:Q14539 ,
+		<http://he.dbpedia.org/resource/\u05D2\u0027\u05D9\u05D9\u05E1\u05D5\u05DF_\u05E1\u05D5\u05D3\u05D9\u05D9\u05E7\u05D9\u05E1> ;
+	schema:sameAs	<http://viaf.org/viaf/159846980> ;
+	dbo:abstract	"\uC81C\uC774\uC2A8 \uC218\uB370\uC774\uD0A4\uC2A4(\uC601\uC5B4: Jason Sudeikis, 1975\uB144 9\uC6D4 18\uC77C ~ )\uB294 \uBBF8\uAD6D\uC758 \uBC30\uC6B0\uC774\uB2E4."@ko ,
+		"Daniel Jason Sudeikis, f\u00F6dd 18 september 1975 i Fairfax, Virginia, \u00E4r en amerikansk sk\u00E5despelare, komiker och manusf\u00F6rfattare."@sv ,
+		"Daniel Jason Sudeikis (* 18. September 1975 in Fairfax, Virginia) ist ein US-amerikanischer Schauspieler und Komiker."@de ,
+		"Daniel Jason Sudeikis (ur. 18 wrze\u015Bnia 1975 w Fairfax) \u2013 ameryka\u0144ski aktor i komik. Wyst\u0119puje w programie Saturday Night Live. Poprowadzi\u0142 gal\u0119 MTV Movie Awards 2011."@pl ,
+		"Daniel Jason Sudeikis (Fairfax, 18 september 1975) is een Amerikaans acteur en komiek van Litouwse afkomst. Hij debuteerde in 2007 op het witte doek als Tony Contiella in de filmkomedie The Ten. Hij behoorde van 2003 tot en met 2013 tot de vaste leden van Saturday Night Live, waarin hij 168 afleveringen verscheen en waarvan hij er aan 37 (mee)schreef. In 2011 presenteerde Sudeikis de MTV Movie Awards. Sudeikis trouwde in 2004 met , een co-schrijfster van 30 Rock. Daarin verscheen hij zelf enkele jaren later meerdere keren als Floyd. Sudeikis scheidde van Cannon in 2010. In januari 2013 verloofde hij zich met Olivia Wilde. Hij kreeg in april 2014 een zoon en in oktober 2016 een dochter met haar. Sudeikis' oom is George Wendt."@nl ,
+		"Daniel Jason Sudeikis (Fairfax, 18 de setembro de 1975) \u00E9 um ator norte-americano, dublador, roteirista e comediante. Come\u00E7ou sua carreira na com\u00E9dia de improvisa\u00E7\u00E3o. Em 2003, ele foi contratado como um escritor de esbo\u00E7o para o Saturday Night Live e tornou-se um membro do elenco 2005-2013. Ele j\u00E1 apareceu na televis\u00E3o em 30 Rock, The Cleveland Show, Eastbound & Down, e outros shows. Ele tamb\u00E9m \u00E9 conhecido por seus pap\u00E9is nos filmes de Hall Pass, Horrible Bosses, Epic e We're the Millers. Em 2019, Sudeikis fez uma r\u00E1pida participa\u00E7\u00E3o na s\u00E9rie The Mandalorian como um Speed Bike Trooper. O personagem rapidamente ganhou inf\u00E2mia nas redes sociais por atacar repetidamente um personagem favorito dos f\u00E3s no \u00FAltimo epis\u00F3dio da s\u00E9rie. Casado com a atriz Olivia Wilde, o casal tem dois filhos, uma menina chamada Daisy e um menino chamado Otis."@pt ,
+		"Daniel Jason Sudeikis (Fairfax, Virginia, 18 de septiembre de 1975) es un actor estadounidense, fue miembro del elenco de Saturday Night Live desde 2006 hasta julio de 2013. Desde 2011 ha actuado en varias pel\u00EDculas como: Hall Pass, Horrible Bosses y A Good Old Fashioned Orgy. En 2019 durante su aparici\u00F3n en The Mandalorian agredi\u00F3 a Baby Yoda."@es ,
+		"\u5091\u68EE\u00B7\u8607\u6234\u897F\u65AF\uFF08\u82F1\u8A9E\uFF1AJason Sudeikis\uFF0C1975\u5E749\u670818\u65E5\uFF0D\uFF09\u662F\u7F8E\u570B\u7684\u4E00\u4F4D\u6F14\u54E1\u3001\u914D\u97F3\u6F14\u54E1\u3001\u5C4F\u5E55\u4F5C\u5BB6\u548C\u559C\u5287\u6F14\u54E1\u3002\u4ED6\u7684\u6F14\u85DD\u751F\u6DAF\u958B\u59CB\u65BC\u5373\u8208\u5287\u5834\u3002\u57282005\u5E74\u81F32013\u5E74\u671F\u9593\uFF0C\u4ED6\u66FE\u51FA\u6F14\u9031\u516D\u591C\u73FE\u5834\u3002\u4ED6\u4E5F\u51FA\u6F14\u8001\u95C6\u4E0D\u662F\u4EBA\u7CFB\u5217\u96FB\u5F71\u3002"@zh ,
+		"Daniel Jason Sudeikis (/s\u1D7F\u02C8de\u026Ak\u026As/ s\u0259-DIA-kis; 18 de setembre de 1975) \u00E9s un actor americ\u00E0, comediant, guionista i actor de veu. Va comen\u00E7ar la seva carrera amb Improvisaci\u00F3 teatral. L'any 2003, va ser contractat com a escriptor de croquis per Saturday Night Live i esdevenia un membre de repartiment de 2005 a 2013. Ha aparegut a la televisi\u00F3 dins 30 Rock, The Cleveland Show, Eastbound & Avall, i altres espectacles. \u00C9s tamb\u00E9 sabut per les seves funcions en el Passi de Sala de les pel\u00B7l\u00EDcules (2011), Caps Horribles (2011), \u00C8pica (2013), We're the Millers (2013), i Caps Horribles 2 (2014)."@ca ,
+		"Daniel Jason Sudeikis ( suu-DAY-kiss; born September 18, 1975) is an American actor, comedian, and screenwriter. In the 1990s, he began his career in improv comedy and performed with ComedySportz and The Second City. In 2003, Sudeikis was hired as a writer for Saturday Night Live and starred as a cast member from 2005 to 2013. He is also known for his roles in the films Horrible Bosses (2011), Hall Pass (2011), We're the Millers (2013), Horrible Bosses 2 (2014), Colossal (2016) and Mother's Day (2016). He has also provided voice-work for Epic (2013), The Angry Birds Movie (2016), Next Gen (2018) and The Angry Birds Movie 2 (2019)."@en ,
+		"Jason Sudeikis est un acteur et sc\u00E9nariste am\u00E9ricain n\u00E9 le 18 septembre 1975 \u00E0 Fairfax (Virginie). Ayant commenc\u00E9 sa carri\u00E8re dans l'improvisation comique, il int\u00E8gre le Saturday Night Live comme auteur de sketchs en 2003, avant de devenir membre du casting entre 2005 \u00E0 2013. Parall\u00E8lement, il pr\u00EAte sa voix \u00E0 l'un des protagonistes de la s\u00E9rie d'animation The Cleveland Show. Au cin\u00E9ma, il est connu pour ses r\u00F4les dans plusieurs com\u00E9dies potaches : Bon \u00E0 tirer (B.A.T.), Comment tuer son boss ? 1 et 2, et Les Miller, une famille en herbe."@fr ,
+		"\u062C\u0627\u0633\u0648\u0646 \u0633\u0648\u062F\u064A\u0643\u0633 (\u0628\u0627\u0644\u0625\u0646\u062C\u0644\u064A\u0632\u064A\u0629: Jason Sudeikis) \u0647\u0648 \u0645\u0645\u062B\u0644 \u0623\u0645\u0631\u064A\u0643\u064A \u0628\u062F\u0623 \u0645\u0633\u064A\u0631\u062A\u0647 \u0627\u0644\u0641\u0646\u064A\u0629 \u0639\u0627\u0645 1998. \u0647\u0648 \u0623\u064A\u0636\u0627 \u0645\u0645\u062B\u0644 \u0635\u0648\u062A."@ar ,
+		"\u30B8\u30A7\u30A4\u30BD\u30F3\u30FB\u30B5\u30C7\u30A4\u30AD\u30B9\uFF08Jason Sudeikis\u30011975\u5E749\u670818\u65E5 - \uFF09\u306F\u3001\u30A2\u30E1\u30EA\u30AB\u5408\u8846\u56FD\u306E\u4FF3\u512A\u30FB\u30B3\u30E1\u30C7\u30A3\u30A2\u30F3\u3002\u30B5\u30BF\u30C7\u30FC\u30FB\u30CA\u30A4\u30C8\u30FB\u30E9\u30A4\u30D6\u306E\u30AD\u30E3\u30B9\u30C8\u30E1\u30F3\u30D0\u30FC\u3067\u3082\u3042\u308B\u3002\u73FE\u5728\u3001\u30AB\u30F3\u30B6\u30B9\u5DDE\u30AA\u30FC\u30D0\u30FC\u30E9\u30F3\u30C9\u30D1\u30FC\u30AF\u306B\u5728\u4F4F\u3057\u3066\u3044\u308B\u3002"@ja ,
+		"Daniel Jason Sudeikis (IPA: [s\u0289\u02C8de\u026Ak\u026As]) (Fairfax, 18 settembre 1975) \u00E8 un attore, comico, sceneggiatore e doppiatore statunitense."@it ,
+		"\u0414\u044D\u0301\u043D\u0438\u0435\u043B \u0414\u0436\u0435\u0301\u0439\u0441\u043E\u043D \u0421\u0443\u0434\u0435\u0301\u0439\u043A\u0438\u0441 (\u0430\u043D\u0433\u043B. Daniel Jason Sudeikis; \u0440\u043E\u0434. 18 \u0441\u0435\u043D\u0442\u044F\u0431\u0440\u044F 1975, \u0424\u044D\u0440\u0444\u0430\u043A\u0441, \u0412\u0438\u0440\u0433\u0438\u043D\u0438\u044F, \u0421\u0428\u0410) \u2014 \u0430\u043C\u0435\u0440\u0438\u043A\u0430\u043D\u0441\u043A\u0438\u0439 \u0430\u043A\u0442\u0451\u0440, \u043A\u043E\u043C\u0438\u043A, \u0438\u0437\u0432\u0435\u0441\u0442\u043D\u044B\u0439 \u043F\u043E \u0430\u043C\u0435\u0440\u0438\u043A\u0430\u043D\u0441\u043A\u043E\u043C\u0443 \u0442\u0435\u043B\u0435\u0448\u043E\u0443 \u00AB\u0421\u0443\u0431\u0431\u043E\u0442\u043D\u0438\u043C \u0432\u0435\u0447\u0435\u0440\u043E\u043C \u0432 \u043F\u0440\u044F\u043C\u043E\u043C \u044D\u0444\u0438\u0440\u0435\u00BB, \u0430 \u0442\u0430\u043A\u0436\u0435 \u043A\u043E\u043C\u0435\u0434\u0438\u044F\u043C \u00AB\u041D\u0435\u0441\u043D\u043E\u0441\u043D\u044B\u0435 \u0431\u043E\u0441\u0441\u044B\u00BB, \u00AB\u041D\u0435\u0441\u043D\u043E\u0441\u043D\u044B\u0435 \u0431\u043E\u0441\u0441\u044B 2\u00BB, \u00AB\u041E\u0434\u043D\u0430\u0436\u0434\u044B \u0432 \u0412\u0435\u0433\u0430\u0441\u0435\u00BB \u0438 \u00AB\u041C\u044B \u2014 \u041C\u0438\u043B\u043B\u0435\u0440\u044B\u00BB."@ru ,
+		"\u0414\u0436\u0435\u0439\u0441\u043E\u043D \u0421\u0443\u0434\u0435\u0439\u043A\u0456\u0441 (\u0430\u043D\u0433\u043B. Jason Sudeikis; \u043D\u0430\u0440. 18 \u0432\u0435\u0440\u0435\u0441\u043D\u044F 1975) \u2014 \u0430\u043C\u0435\u0440\u0438\u043A\u0430\u043D\u0441\u044C\u043A\u0438\u0439 \u0430\u043A\u0442\u043E\u0440, \u0434\u0438\u043A\u0442\u043E\u0440, \u0441\u0446\u0435\u043D\u0430\u0440\u0438\u0441\u0442 \u0442\u0430 \u043A\u043E\u043C\u0456\u043A."@uk ,
+		"Jason Sudeikis ( suu-DAY-kiss lahir di Fairfax, Virginia, Amerika Serikat, 18 September 1975; umur 44 tahun) adalah aktor, komedian, penulis dan produser asal Amerika Serikat, terkenal sebagai anggota di Saturday Night Live dari tahun 2005 hingga 2013. Ia dikenal karena perannya dalam film Horrible Bosses (2011), Hall Pass (2011), We're the Millers (2013), Horrible Bosses 2 (2014), Colossal (2016), Mother's Day (2016), The Angry Birds Movie (2016), dan The Angry Birds Movie 2 (2019)."@in ;
+	dbp:caption	"Sudeikis in 2011"@en .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Jason_Sudeikis	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Jason_Sudeikis?oldid=985678952&ns=0> ;
+	dbp:name	"Jason Sudeikis"@en ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Jason_Sudeikis_2011_Shankbone_2.JPG?width=300> ;
+	dbo:birthPlace	dbr:Virginia ,
+		<http://dbpedia.org/resource/Fairfax,_Virginia> ;
+	dbp:birthPlace	"Fairfax, Virginia, U.S."@en .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Jason_Sudeikis	dbo:birthDate	"1975-09-18"^^xsd:date ;
+	dbp:birthDate	"1975-09-18"^^xsd:date ;
+	dbp:almaMater	dbr:Fort_Scott_Community_College ;
+	dbp:birthName	"Daniel Jason Sudeikis"@en ;
+	dbo:birthName	"Daniel Jason Sudeikis"@en ;
+	dbo:almaMater	dbr:Fort_Scott_Community_College ;
+	dbp:yearsActive	1997 ;
+	dbp:homeTown	"Overland Park, Kansas, U.S."@en ;
+	dbo:partner	dbr:Olivia_Wilde ;
+	dbp:children	2 ;
+	dbp:occupation	"comedian"@en ,
+		"producer"@en ,
+		"writer"@en ,
+		""@en ,
+		"Actor"@en ;
+	dbp:spouse	2010 ,
+		2004 ,
+		dbr:Kay_Cannon ,
+		""@en ;
+	dbo:activeYearsStartYear	"1997"^^xsd:gYear ;
+	dbo:birthYear	"1975"^^xsd:gYear ;
+	dbo:occupation	dbr:Jason_Sudeikis__PersonFunction__1 ;
+	dbo:spouse	dbr:Kay_Cannon .
+@prefix ns49:	<http://www.w3.org/2006/03/wn/wn20/instances/> .
+dbr:Jason_Sudeikis	dbp:wordnet_type	ns49:synset-actor-noun-1 ;
+	dbp:partner	dbr:Olivia_Wilde ;
+	dbo:wikiPageID	1990980 ;
+	dbo:wikiPageRevisionID	985678952 ;
+	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Mumford_&_Sons> ,
+		dbc:Screenwriters_from_Virginia ,
+		dbr:President_of_the_United_States ,
+		dbr:Alison_Brie ,
+		dbr:Kevin_Spacey ,
+		dbr:Lorne_Michaels ,
+		<http://dbpedia.org/resource/List_of_It\u0027s_Always_Sunny_in_Philadelphia_characters> ,
+		dbr:Great_Minds_with_Dan_Harmon ,
+		<http://dbpedia.org/resource/SpongeBob\u0027s_Big_Birthday_Blowout> ,
+		dbr:Kenan_Thompson ,
+		dbr:List_of_stock_characters ,
+		dbr:The_Angry_Birds_Movie_2 ,
+		dbr:Penn_State_child_sex_abuse_scandal ,
+		<http://dbpedia.org/resource/Double_Dare_(franchise)> ,
+		dbr:Horrible_Bosses ,
+		dbr:What_Up_with_That ,
+		dbr:Irish_people ,
+		dbr:Andy_Samberg ,
+		<http://dbpedia.org/resource/Category:21st-century_American_screenwriters> ,
+		dbr:Los_Angeles ,
+		dbr:Germans ,
+		dbr:Seth_Gordon ,
+		dbr:Thomas_Edison ,
+		<http://dbpedia.org/resource/Eastbound_&_Down> ,
+		dbr:Farrelly_brothers ,
+		dbr:Birth_name ,
+		dbr:Taran_Killam ,
+		<http://dbpedia.org/resource/30_Rock> ,
+		dbr:Emma_Roberts ,
+		dbr:Emma_Stone ,
+		<http://dbpedia.org/resource/2017_Kids\u0027_Choice_Awards> ,
+		dbr:What_Happens_in_Vegas ,
+		dbr:Bill_Hader ,
+		<http://dbpedia.org/resource/The_Book_of_Love_(film)> ,
+		dbr:Kansas ,
+		<http://dbpedia.org/resource/Downsizing_(film)> ,
+		dbr:List_of_30_Rock_characters ,
+		<http://dbpedia.org/resource/The_Last_Man_on_Earth_(TV_series)> ,
+		dbr:Saturday_Night_Live ,
+		dbr:Anne_Hathaway ,
+		dbr:Son_of_Zorn ,
+		<http://dbpedia.org/resource/Detroiters_(TV_series)> ,
+		dbr:Ted_Lasso ,
+		dbr:Paul_Simon ,
+		dbr:Vice_President_of_the_United_States ,
+		<http://dbpedia.org/resource/Babel_(Mumford_&_Sons_album)> ,
+		dbr:NBC ,
+		dbr:Coldplay ,
+		dbr:Justin_Long ,
+		<http://dbpedia.org/resource/Children\u0027s_Mercy_Hospital> ,
+		dbr:Ed_Harris ,
+		dbr:Virginia ,
+		<http://dbpedia.org/resource/Going_the_Distance_(2010_film)> ,
+		dbr:Teen_Choice_Awards ,
+		dbr:Movie_43 ,
+		dbr:Amsterdam ,
+		dbr:IO_Theater ,
+		dbr:Types_of_restaurants ,
+		<http://dbpedia.org/resource/Overland_Park,_Kansas> ,
+		dbr:Will_Poulter ,
+		dbc:Living_people ,
+		<http://dbpedia.org/resource/Sideswiped_(TV_series)> ,
+		dbr:The_Second_City ,
+		<http://dbpedia.org/resource/Category:Writers_from_Kansas_City,_Kansas> ,
+		<http://dbpedia.org/resource/Category:Male_actors_from_Kansas_City,_Kansas> ,
+		<http://dbpedia.org/resource/2015_MTV_Movie_Awards> ,
+		dbr:Alien_Avengers ,
+		<http://dbpedia.org/resource/Recurring_Saturday_Night_Live_characters_and_sketches_introduced_2005\u201306> ,
+		dbr:Hall_Pass ,
+		dbr:Star_Wars ,
+		dbr:Colin_Farrell ,
+		<http://dbpedia.org/resource/Next_Gen_(film)> ,
+		dbr:The_Angry_Birds_Movie ,
+		<http://dbpedia.org/resource/2011_MTV_Movie_Awards> ,
+		<http://dbpedia.org/resource/Garfunkel_and_Oates_(TV_series)> ,
+		dbc:American_people_of_Lithuanian_descent ,
+		dbc:American_sketch_comedians ,
+		<http://dbpedia.org/resource/Driven_(2018_film)> ,
+		dbr:Robot_Chicken ,
+		dbr:Childrens_Hospital ,
+		dbc:American_television_writers ,
+		dbr:Adidas ,
+		dbr:Joe_Lo_Truglio ,
+		dbr:Kay_Cannon ,
+		<http://dbpedia.org/resource/Larry_Snyder_(athlete)> ,
+		dbr:Saturday_Night_Live_Weekend_Update_Thursday ,
+		dbr:Shawnee_Mission_West_High_School ,
+		<http://dbpedia.org/resource/Kodachrome_(film)> ,
+		dbr:Rebecca_Hall ,
+		dbr:Weekend_Update ,
+		dbr:Norm_Peterson ,
+		<http://dbpedia.org/resource/Tumbledown_(film)> ,
+		dbr:Liz_Lemon ,
+		dbr:Lithuanians ,
+		dbr:Cheers ,
+		<http://dbpedia.org/resource/George_W._Bush> ,
+		dbr:Golden_Raspberry_Award_for_Worst_Screen_Combo ,
+		dbr:Nasim_Pedrad ,
+		dbr:Staples_Center ,
+		dbr:Bobby_Moynihan ,
+		dbr:Biography ,
+		<http://dbpedia.org/resource/Tom_Howard_(photographer)> ,
+		dbr:Billy_Ocean ,
+		dbr:DJ_Clay ,
+		dbr:Blake_Lively ,
+		<http://dbpedia.org/resource/Watching_the_Detectives_(film)> ,
+		dbr:Tina_Fey ,
+		dbr:El_Tonto ,
+		dbr:The_Cleveland_Show ,
+		dbr:Fox_Broadcasting_Company ,
+		dbr:Governor_of_Massachusetts ,
+		dbc:American_male_television_actors ,
+		dbr:Derren_Brown ,
+		dbr:Semi-Pro ,
+		dbc:American_male_film_actors ,
+		dbr:Wainy_Days ,
+		dbr:Spider_Riders ,
+		dbr:Jason_Bateman ,
+		dbr:Netflix ,
+		dbr:Meet_Bill ,
+		dbr:Owen_Wilson ,
+		dbr:Boom_Chicago ,
+		dbr:NBA_All-Star_Celebrity_Game ,
+		dbr:ComedySportz ,
+		dbc:American_male_voice_actors ,
+		dbr:WWE_Raw ,
+		dbr:Grand_Theft_Auto_IV ,
+		<http://dbpedia.org/resource/Fairfax,_Virginia> ,
+		dbr:Annoyance_Theatre ,
+		<http://dbpedia.org/resource/Category:People_from_Overland_Park,_Kansas> ,
+		dbr:Classic_Stage_Company ,
+		dbr:Drinking_Buddies ,
+		dbr:Booksmart ,
+		<http://dbpedia.org/resource/Category:1975_births> ,
+		<http://dbpedia.org/resource/File:Jason_Sudeikis,_Charlie_Day,_Jason_Bateman.jpg> ,
+		<http://dbpedia.org/resource/File:Jason_Sudeikis_at_2009_NYTVF.jpg> ,
+		dbr:Universal_Amphitheatre ,
+		<http://dbpedia.org/resource/Mother\u0027s_Day_(2016_film)> ,
+		dbr:Bon_Jovi ,
+		<http://dbpedia.org/resource/Race_(2016_film)> ,
+		dbr:Olivia_Wilde ,
+		dbr:Batman ,
+		dbr:President-elect_of_the_United_States ,
+		dbr:Netherlands ,
+		<http://dbpedia.org/resource/The_Bounty_Hunter_(2010_film)> ,
+		dbr:NBC_Sports ,
+		dbr:A_Good_Old_Fashioned_Orgy ,
+		<http://dbpedia.org/resource/Applebee\u0027s> ,
+		<http://dbpedia.org/resource/It\u0027s_Always_Sunny_in_Philadelphia> ,
+		dbr:Will_Forte ,
+		<http://dbpedia.org/resource/40th_People\u0027s_Choice_Awards> ,
+		dbr:HBO ,
+		dbr:Anosmia ,
+		dbr:Premier_League ,
+		dbr:Charlie_Day ,
+		<http://dbpedia.org/resource/Apple_TV+> ,
+		<http://dbpedia.org/resource/Kansas_City,_Missouri> ,
+		dbr:Ed_Helms ,
+		dbr:Mitt_Romney ,
+		<http://dbpedia.org/resource/Colossal_(film)> ,
+		ns8:_Redemption ,
+		dbc:American_male_television_writers ,
+		dbr:Off-Broadway ,
+		dbc:Male_actors_of_German_descent ,
+		dbr:The_Ten ,
+		dbr:Dead_Poets_Society ,
+		<http://dbpedia.org/resource/MTV_Movie_&_TV_Awards> ,
+		<http://dbpedia.org/resource/Permission_(film)> ,
+		<http://dbpedia.org/resource/We\u0027re_the_Millers> ,
+		dbr:George_Costanza ,
+		<http://dbpedia.org/resource/The_Rocker_(film)> ,
+		dbr:Chicago ,
+		dbr:Horrible_Bosses_2 ,
+		dbr:Jamie_Foxx ,
+		dbr:American_Society_of_Travel_Advisors ,
+		<http://dbpedia.org/resource/Category:Actors_from_Fairfax,_Virginia> ,
+		<http://dbpedia.org/resource/Saturday_Night_Live_(season_32)> ,
+		dbr:The_Mandalorian ,
+		<http://dbpedia.org/resource/Category:21st-century_American_male_actors> ,
+		<http://dbpedia.org/resource/Category:21st-century_American_comedians> ,
+		dbr:Vanessa_Bayer ,
+		dbc:Screenwriters_from_Kansas ,
+		dbr:Elizabeth_Olsen ,
+		dbr:George_Wendt ,
+		<http://dbpedia.org/resource/Epic_(2013_film)> ,
+		<http://dbpedia.org/resource/Republican_Party_(United_States)> ,
+		<http://dbpedia.org/resource/People\u0027s_Choice_Awards> ,
+		dbr:Joe_Biden ,
+		dbr:Jay_Pharoah ,
+		dbr:MTV_Movie_Award_for_Best_Comedic_Performance ,
+		<http://dbpedia.org/resource/Nickelodeon_Kids\u0027_Choice_Awards> ,
+		dbr:Sleeping_with_Other_People ,
+		dbr:Kristen_Wiig ,
+		dbr:Improvisational_theatre ,
+		<http://dbpedia.org/resource/Portlandia_(TV_series)> ,
+		<http://dbpedia.org/resource/Angry_Birds_(video_game)> ,
+		dbr:Flamingo_Las_Vegas ,
+		<http://dbpedia.org/resource/Uptown_Theater_(Kansas_City,_Missouri)> ,
+		dbr:Teen_Choice_Award_for_Choice_Hissy_Fit ,
+		dbr:SpongeBob_SquarePants ,
+		<http://dbpedia.org/resource/Category:American_impressionists_(entertainers)> ,
+		dbc:Male_actors_from_Virginia ,
+		<http://dbpedia.org/resource/Crackle_(streaming_service)> ,
+		dbr:Fort_Scott_Community_College ,
+		<http://dbpedia.org/resource/Get_Outta_My_Dreams,_Get_into_My_Car> ,
+		dbr:Sports_film ,
+		dbr:Speeder_bike ,
+		dbr:Jennifer_Aniston ,
+		dbc:American_people_of_German_descent ,
+		dbc:American_people_of_Irish_descent ,
+		<http://dbpedia.org/resource/Kenny_Powers_(character)> ,
+		dbr:Saturday_Night_Live_TV_show_sketches ,
+		dbr:Illegal_drug_trade ,
+		dbr:Zach_Galifianakis ,
+		<http://dbpedia.org/resource/Masterminds_(2016_film)> ,
+		<http://dbpedia.org/resource/The_Campaign_(film)> .
+@prefix dbt:	<http://dbpedia.org/resource/Template:> .
+dbr:Jason_Sudeikis	dbp:wikiPageUsesTemplate	dbt:Short_description ,
+		dbt:IPAc-en ,
+		dbt:Main ,
+		dbt:Ubl ,
+		dbt:Birth_date_and_age ,
+		dbt:Commons_category ,
+		dbt:IMDb_name ,
+		dbt:Infobox_person ,
+		dbt:Authority_control ,
+		dbt:Use_mdy_dates .
+@prefix ns51:	<http://dbpedia.org/resource/Template:N/> .
+dbr:Jason_Sudeikis	dbp:wikiPageUsesTemplate	ns51:a ,
+		dbt:Respell ,
+		dbt:Nom ,
+		dbt:Reflist ;
+	dbo:wikiPageLength	"38916"^^xsd:nonNegativeInteger ;
+	dbo:hometown	dbr:Kansas ,
+		<http://dbpedia.org/resource/Overland_Park,_Kansas> .
+dbr:Brendan_Hunt	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:Seth_Meyers	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:List_of_Saturday_Night_Live_commercial_parodies	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:Nick_Offerman	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:Ted_Lasso	dbo:starring	dbr:Jason_Sudeikis ;
+	dbo:executiveProducer	dbr:Jason_Sudeikis ;
+	dbo:company	dbr:Jason_Sudeikis ;
+	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis ;
+	dbo:developer	dbr:Jason_Sudeikis .
+dbr:Saturday_Night_Live_parodies_of_Donald_Trump	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:List_of_recurring_Saturday_Night_Live_characters_and_sketches	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+@prefix ns52:	<http://dbpedia.org/resource/Carpool_Karaoke:> .
+ns52:_The_Series	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:Saturday_Night_Live_Weekend_Update_Thursday	dbo:starring	dbr:Jason_Sudeikis ;
+	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:Late_Night_with_Seth_Meyers	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:SeinfeldVision	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:Billy_on_the_Street	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:Booksmart	dbo:starring	dbr:Jason_Sudeikis ;
+	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+<http://dbpedia.org/resource/Kodachrome_(film)>	dbo:starring	dbr:Jason_Sudeikis ;
+	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:List_of_American_films_of_2016	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:Cinema_of_Lithuania	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:Joe_Lo_Truglio	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:Leslye_Headland	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+<http://dbpedia.org/resource/List_of_Late_Night_with_Seth_Meyers_episodes_(2015)>	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:Duncan_Trussell	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:Olivia_Munn	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:David_Wain	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:Elliot_Hegarty	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:Emma_Roberts	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:Movie_43	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+<http://dbpedia.org/resource/Detroiters_(TV_series)>	dbo:executiveProducer	dbr:Jason_Sudeikis ;
+	dbp:executiveProducer	dbr:Jason_Sudeikis ;
+	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:Saturday_Night_Live_in_the_2000s	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+<http://dbpedia.org/resource/Mike_O\u0027Brien_(actor)>	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+<http://dbpedia.org/resource/I\u0027ll_Be_There_for_You_(The_Rembrandts_song)>	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+<http://dbpedia.org/resource/30_Rock_Original_Television_Soundtrack>	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:Lily_Sobhani	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+<http://dbpedia.org/resource/Breakfast_at_Tiffany\u0027s_(song)>	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+<http://dbpedia.org/resource/Nickelodeon_Kids\u0027_Choice_Awards>	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+<http://dbpedia.org/resource/List_of_Late_Night_with_Jimmy_Fallon_episodes_(2011)>	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+<http://dbpedia.org/resource/The_Ellen_DeGeneres_Show_(season_10)>	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+<http://dbpedia.org/resource/2013_in_film>	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+<http://dbpedia.org/resource/40th_People\u0027s_Choice_Awards>	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+<http://dbpedia.org/resource/Masterminds_(2016_film)>	dbo:starring	dbr:Jason_Sudeikis ;
+	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:Jin_Yamanoi	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+<http://dbpedia.org/resource/History_of_Saturday_Night_Live_(2005\u20132010)>	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:October_1997_Loomis_Fargo_robbery	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:Zillionaire	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:Nicky_Whelan	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+<http://dbpedia.org/resource/We_Are_the_People_(Empire_of_the_Sun_song)>	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+<http://dbpedia.org/resource/Mother\u0027s_Day_(2016_film)>	dbo:starring	dbr:Jason_Sudeikis ;
+	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+<http://dbpedia.org/resource/Tumbledown_(film)>	dbp:starring	dbr:Jason_Sudeikis ;
+	dbo:starring	dbr:Jason_Sudeikis ;
+	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:House_of_Carters	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:List_of_Angry_Birds_film_cast_members	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+<http://dbpedia.org/resource/The_Book_of_Love_(film)>	dbo:starring	dbr:Jason_Sudeikis ;
+	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+<http://dbpedia.org/resource/Saturday_Night_Live_(season_35)>	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+<http://dbpedia.org/resource/Stephan_James_(actor)>	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:Rhode_Island_in_popular_culture	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+<http://dbpedia.org/resource/1975_in_television>	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:Brett_Goldstein	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:Father_Figures	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:Blizzard_Man	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+<http://dbpedia.org/resource/List_of_The_Daily_Show_episodes_(2020)>	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+<http://dbpedia.org/resource/List_of_The_Late_Late_Show_with_James_Corden_episodes_(2015)>	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+<http://dbpedia.org/resource/List_of_The_Late_Late_Show_with_James_Corden_episodes_(2018)>	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+<http://dbpedia.org/resource/List_of_The_Late_Late_Show_with_James_Corden_episodes_(2019)>	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:Mayfeld	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+<http://dbpedia.org/resource/Saturday_Night_Live_(season_42)>	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:The_Legally_Prohibited_from_Being_Funny_on_Television_Tour	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+<http://dbpedia.org/resource/List_of_Conan_episodes_(2010\u201311)>	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+<http://dbpedia.org/resource/List_of_Conan_episodes_(2016)>	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+<http://dbpedia.org/resource/List_of_Late_Night_with_Conan_O\u0027Brien_episodes_(season_14)>	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+<http://dbpedia.org/resource/List_of_Late_Night_with_Jimmy_Fallon_episodes_(2010)>	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:MTV_Movie_Award_for_Best_Comedic_Performance	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:Harley_Pasternak	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+<http://dbpedia.org/resource/Saturday_Night_Live_(season_29)>	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+<http://dbpedia.org/resource/Saturday_Night_Live_(season_31)>	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:The_Angry_Birds_Movie_2	dbo:starring	dbr:Jason_Sudeikis ;
+	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+<http://dbpedia.org/resource/Recurring_Saturday_Night_Live_characters_and_sketches_introduced_2009\u201310>	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+<http://dbpedia.org/resource/2014_Teen_Choice_Awards>	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+<http://dbpedia.org/resource/2016_Kids\u0027_Choice_Awards>	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+<http://dbpedia.org/resource/Saturday_Night_Live_(season_45)>	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+<http://dbpedia.org/resource/Recurring_Saturday_Night_Live_characters_and_sketches_introduced_2006\u201307>	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+dbr:What_Up_with_That	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+<http://dbpedia.org/resource/Desus_&_Mero_(2016_TV_series)>	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+<http://dbpedia.org/resource/Lasso_(disambiguation)>	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+<http://dbpedia.org/resource/Stephen_Hopkins_(director)>	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .
+<http://dbpedia.org/resource/Permission_(film)>	dbp:starring	dbr:Jason_Sudeikis ;
+	dbo:starring	dbr:Jason_Sudeikis ;
+	dbo:wikiPageWikiLink	dbr:Jason_Sudeikis .

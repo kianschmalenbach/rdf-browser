@@ -1,0 +1,1816 @@
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+dbr:List_of_airline_liveries_and_logos	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/Airport_(TV_series)>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Muyiwa_Olarewaju	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:April_1955	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:I_Still_Call_Australia_Home	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/Luis_Mu\u00F1oz_Mar\u00EDn_International_Airport>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Ust-Ilimsk_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Boryspil_International_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/Bra\u0219ov-Ghimbav_International_Airport>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/Krak\u00F3w_John_Paul_II_International_Airport>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Punta_Cana_International_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Queen_Alia_International_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/Chi\u0219in\u0103u_International_Airport>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/John_F._Kennedy_International_Airport>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Beijing_Capital_International_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Berlin_Brandenburg_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Katowice_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Zagreb_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/\u0130zmir_Adnan_Menderes_Airport>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/Milas\u2013Bodrum_Airport>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/Rzesz\u00F3w\u2013Jasionka_Airport>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Salzburg_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Dresden_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Dubrovnik_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Frankfurt_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Ibiza_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Incheon_International_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:San_Diego_International_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/Seattle\u2013Tacoma_International_Airport>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Antalya_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/Austin\u2013Bergstrom_International_Airport>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Orlando_International_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Orly_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Rick_Husband_Amarillo_International_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Riga_International_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Brown_Field_Municipal_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Bydgoszcz_Ignacy_Jan_Paderewski_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/Copernicus_Airport_Wroc\u0142aw>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Cottbus-Drewitz_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Kuwait_International_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/Rio_de_Janeiro/Gale\u00E3o_International_Airport>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Seville_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Shanghai_Pudong_International_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Sibiu_International_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Tbilisi_International_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Federico_Fellini_International_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Phoenix_Goodyear_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Erbil_International_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/Henri_Coand\u0103_International_Airport>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Heydar_Aliyev_International_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Munich-Riem_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Ted_Stevens_Anchorage_International_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Boeing_727	dbo:wikiPageWikiLink	dbr:Lufthansa .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Boeing_747	dbp:moreUsers	dbr:Lufthansa ;
+	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Economy_of_Venezuela	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/James_Burke_(gangster)>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Marcel_Dadi	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/Chaoyang_District,_Beijing>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Hainan_Airlines	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:High-speed_rail	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:International_Air_Transport_Association_code	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:United_Buddy_Bears	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Aircraft_Maintenance_and_Engineering_Corporation	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/Chen_Feng_(businessman)>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:List_of_missing_treasures	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:China_Southern_Airlines	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Jetstar_Asia_Airways	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Kempinski_Hotel_Beijing_Lufthansa_Center	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:San_Jose_International_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Oneworld	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Responses_to_the_COVID-19_pandemic_in_April_2020	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Air_Astana	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:AiRUnion	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Air_transports_of_heads_of_state_and_government	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Civil_aviation_in_China	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:TAAG_Angola_Airlines	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Portland_International_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:February_1965	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Timothy_Jacob_Jensen	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Thomas_DeSimone	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Love_Thy_Nature	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:United_Airlines	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Cybersquatting	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Boeing_707	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/Bombardier_CRJ100/200>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Denver_International_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/Dieter_F._Uchtdorf>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/Gotham,_Inc.>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Kiwi_International_Air_Lines	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/Kosovo\u2013Serbia_relations>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Flag_carrier	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Lufthansa_Flight_592	dbp:operator	dbr:Lufthansa ;
+	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/Pratt_&_Whitney_PW1000G>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Euroberlin_France	dbo:parentCompany	dbr:Lufthansa ;
+	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Austrian_Airlines	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Bachmann_Industries	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Lockheed_L-1649_Starliner	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Logan_International_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:George_Bush_Intercontinental_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:JetBlue	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Bag_tag	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/Berlin_Wall_Monument_(Chicago)>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+@prefix ns3:	<http://dbpedia.org/resource/Leipzig/> .
+ns3:Halle_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:List_of_Boeing_737_operators	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/LATI_(airline)>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Somali_Airlines	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Somali_Civil_Aviation_Authority	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Economy_of_Bahrain	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Fraport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Hans-Dietrich_Genscher	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:James_Rizzi	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/Santa_Maria_Airport_(Azores)>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:History_of_Air_New_Zealand	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Astar_Air_Cargo	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Business_class	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Transportation_Security_Administration	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Lufthansa_Systems	dbp:parent	dbr:Lufthansa ;
+	dbo:parentCompany	dbr:Lufthansa ;
+	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Old_Mariscal_Sucre_International_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/Timeline_of_investigations_into_Donald_Trump_and_Russia_(2019)>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Filming_of_James_Bond_in_the_1970s	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Cathode-ray_tube	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Frankfurt_Rhein-Main_Regional_Authority	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/Deutz,_Cologne>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:AIRail_Service	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Lufthansa_Group	dbo:subsidiary	dbr:Lufthansa ;
+	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:VoiceObjects	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Germanwings	dbp:parent	dbr:Lufthansa ;
+	dbo:parentCompany	dbr:Lufthansa ;
+	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Achim_Lippoth	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Baedeker	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Robert_Barto	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Transport_in_Germany	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/Frankfurt\u2013Hahn_Airport>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Friedrichshafen_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Otto_Graf_Lambsdorff	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Edith_Lunnebach	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Rita_Maiburg	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:SunExpress_Deutschland	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:List_of_largest_German_companies	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:The_Squaire	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/Blank_&_Jones>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:List_of_largest_European_companies_by_revenue	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Edinburgh_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Business_class_airline	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Stefan_Pichler	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Linate_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Knock_Shrine	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Eisaku_Noro_Company	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Marga_von_Etzdorf	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Ivalo_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Dual_board	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Kuusamo_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Deutsche_Wohnen	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Georg_Betz	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Marcus_Tanneberger	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/Egypt\u2013Germany_relations>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Blacklane	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Deutsche_Luft-Reederei	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Europahaus	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/Catania\u2013Fontanarossa_Airport>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/Albania\u2013Germany_relations>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Kaliningrad_Devau_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Lufthansa_Innovation_Hub	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Lufthansa_Aviation_Training	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Bundesverband_der_Deutschen_Luft-_und_Raumfahrtindustrie	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Teach_First_Deutschland	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Emmi_Bonhoeffer	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/Rostock\u2013Laage_Airport>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/Executive_Transport_Wing_(German_Air_Force)>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/M\u00FCnster_Osnabr\u00FCck_International_Airport>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Mannheim_City_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/Platz_der_Luftbr\u00FCcke>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Ralf_Teckentrup	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Transport_in_Switzerland	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Marc_Mancini	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Ulrich_Wegener	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Werner_Brandt	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Lufthansa_Airport_Express	dbp:formeroperator	dbr:Lufthansa ;
+	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Luxair_Flight_9642	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Klaus_Schrodt	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Krefeld_Airfield	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/Florian_Berg\u00E9r>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Flughafen	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Norderfriedrichskoog	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Ochtum	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Viva_Air	dbp:parent	dbr:Lufthansa ;
+	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Giessen_Army_Depot	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:SSP_Deutschland	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Andrea_Ypsilanti	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Rhine-Waal_University_of_Applied_Sciences	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Waldi	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Servisair	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:German_Cargo	dbp:parent	dbr:Lufthansa ;
+	dbo:parentCompany	dbr:Lufthansa ;
+	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Technik_Museum_Speyer	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Walter_Flinsch	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:List_of_airlines_of_Germany	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:List_of_defunct_airlines_of_Germany	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Little_Numbers	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Project_Birch	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Aircraft_seat_map	dbo:wikiPageWikiLink	dbr:Lufthansa .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+wikipedia-en:Lufthansa	foaf:primaryTopic	dbr:Lufthansa .
+dbr:Boeing_747_hull_losses	dbp:moreUsers	dbr:Lufthansa ;
+	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Air_traffic_control	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/Tulsa,_Oklahoma>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/Hans_G._Conrad>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Lufthansa_Regional	dbp:parent	dbr:Lufthansa ;
+	dbo:parentCompany	dbr:Lufthansa ;
+	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Herpa_Wings	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Martin_Caidin	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Billund_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:List_on_Sylt	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Cimber_Sterling	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Team_Lufthansa	dbo:wikiPageWikiLink	dbr:Lufthansa ;
+	dbp:fullMembers	dbr:Lufthansa .
+dbr:Sylt_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:COVID-19_pandemic_lockdown_in_Hubei	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:List_of_Kerberos_Saga_characters	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Bernhard_Jope	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Corinthia_Group_of_Companies	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Aeroxchange	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Jardine_Aviation_Services	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Ulrich_Brinkhoff	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/Boeing_Boeing_(1965_film)>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Kirsten_Dunst	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Prezi	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Augsburg_Airways	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Lourdes	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Darmstadt	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/2014_FIFA_World_Cup>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:IBX_Group	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Battle_of_Tripoli_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Sarajevo_International_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Flag_of_Europe	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Germanwings_Flight_9525	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Transport_in_Croatia	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Velana_International_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Hotel_Pennsylvania	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:October_1930	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Crime_in_New_York_City	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Heinz_Voigt	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Colditz	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Gabriele_Rollnik	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Budapest_Ferenc_Liszt_International_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Economy_of_Estonia	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:IAE_SuperFan	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Richard_Klophaus	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Marguerite_LeWars	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Transport_in_Angola	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Christoph_Mueller	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Panasonic_Avionics_Corporation	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Helvetic_Airways	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Thomas_Winkelmann	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Hans_Van_Bylen	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/L._Welch_Pogue_Award_for_Lifetime_Achievement_in_Aviation>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Tyrolean_Airways	dbo:parentCompany	dbr:Lufthansa ;
+	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Andrew_Winch	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/Daybreak_(1954_film)>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Thomas_Flohr	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Mandala_Airlines_Flight_091	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Otl_Aicher	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Thomas_Sattelberger	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/Ko\u0161ice>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Haneda_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Hugh_Barton	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Manchester_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Dornier_Do_J	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Kjeller_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/Uniondale,_New_York>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Antonio_Medina_Comas	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/Charles_Wang_(physician)>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Air_Malta	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Etihad_Airways	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/Britain\u0027s_Next_Top_Model_(series_3)>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Lucchese_crime_family	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Matthias_Platzeck	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Lufthansa_Italia	dbp:parent	dbr:Lufthansa ;
+	dbo:parentCompany	dbr:Lufthansa ;
+	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Maersk_Air	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Kenya_Airways	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Qantas_Flight_32	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Belgrade_Nikola_Tesla_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/Metropolitan_Association_of_Upper_Silesia_and_D\u0105browa_Basin>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:List_of_Eurowings_destinations	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:List_of_Lufthansa_CityLine_destinations	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:SITAONAIR	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Sofia_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Split_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:HAL_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Istanbul_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Aroundtown_SA	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Oman_Air	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Paderborn_Lippstadt_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Air_Atlanta_Icelandic	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Bremen_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:History_of_Delta_Air_Lines	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Monarch_Airlines	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Warsaw_Chopin_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Thessaloniki_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/Timi\u0219oara_Traian_Vuia_International_Airport>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Dulles_International_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:US_Airways	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/Hans_Kloss_(bank_manager)>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:All_Nippon_Airways	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/Charlotte,_North_Carolina>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Lockheed_Constellation	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/Gander,_Newfoundland_and_Labrador>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:German_Aerospace_Center	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Spanair	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Timeline_of_the_COVID-19_pandemic_in_January_2020	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/Hartsfield\u2013Jackson_Atlanta_International_Airport>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:San_Francisco_International_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:History_of_terrorism	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Pan_Am	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:The_Next_Iron_Chef	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Louis_Dubin	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/Germany\u2013Mexico_relations>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:British_Midland_International	dbo:parentCompany	dbr:Lufthansa ;
+	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Copa_Airlines	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Swissair	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Ethiopian_Airlines	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Newark_Liberty_International_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Miami_International_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:List_of_Lufthansa_destinations	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/List_of_Speakers_at_The_Economic_Club_of_Washington,_D.C.>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:July_1955	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Navarino_Icons	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Responses_to_the_COVID-19_pandemic_in_June_2020	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Windsurfing	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/IMG_(company)>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Ben_Parr	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Naval_Air_Station_Keflavik	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Addis_Ababa_Bole_International_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/Adolfo_Su\u00E1rez_Madrid\u2013Barajas_Airport>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Gran_Canaria_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Vueling	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Cologne_Bonn_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Stuttgart_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Fuerteventura_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Hannover_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Zurich_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Tenerife_South_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Hamburg_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Ukraine_International_Airlines_Flight_752	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:List_of_military_aircraft_of_Germany	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/V\u00E1clav_Havel_Airport_Prague>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Lublin_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/Deutsche_Lufthansa_(East_Germany)>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/\u0141\u00F3d\u017A_W\u0142adys\u0142aw_Reymont_Airport>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:List_of_airlines_by_foundation_date	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/Pozna\u0144\u2013\u0141awica_Airport>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Heringsdorf_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Kempinski	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/1990_in_aviation>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Jet_Airways	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:List_of_Boeing_customer_codes	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Ljubljana	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Berlin	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/Wroc\u0142aw>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Global_storm_activity_of_2008	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Hanseatic_League	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:World_Aircraft_Information_Files	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Hamburg	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/Cyclone_Emma_(2008)>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:List_of_companies_of_Austria	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:List_of_companies_of_Germany	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Storm_Ciara	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Zimbabwe	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Smoking_ban	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Esslingen_am_Neckar	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Los_Angeles_International_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Boeing_737	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Jinnah_International_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Boeing_720	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Khalid_al-Mihdhar	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Interflug	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Chhatrapati_Shivaji_Maharaj_International_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Niels_Annen	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:List_of_air_rage_incidents	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/1977>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Women_in_aviation	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:FC_Dynamo_Kyiv	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Moscow	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:The_Amazing_Race_14	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Economic_impact_of_the_COVID-19_pandemic_in_Canada	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Air_Canada	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/1951_in_aviation>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Vancouver_International_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:November_1940	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Bombardier_CRJ700_series	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Qingdao_Liuting_International_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Airbus_A220	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Emirates_business_model	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/1973_in_aviation>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/1978_in_aviation>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/2005_in_aviation>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Mighty_Machines	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/1963_in_aviation>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Aviation_taxation_and_subsidies	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Economy_of_Puerto_Rico	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Ingemar_Stenmark	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/History_of_Emirates_(airline)>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:List_of_Bombardier_CRJ_operators	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Air_shuttle	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Toronto_Pearson_International_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:International_sanctions_during_the_Ukrainian_crisis	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Aeroplan	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/Condor_(airline)>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Convair_CV-240_family	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Copenhagen_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Curtiss_C-46_Commando	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:October_18	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:CanJet	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Rimowa	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Philadelphia_International_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/Transportation_in_Charlotte,_North_Carolina>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:EgyptAir_Flight_990	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/History_of_Cubana_de_Aviaci\u00F3n>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/Montr\u00E9al\u2013Trudeau_International_Airport>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/Mexicana_de_Aviaci\u00F3n>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:WingTips_Airport_Services	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Younis_Bahri	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Porter_Airlines	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:List_of_World_Branding_Awards_winners	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:World_Branding_Awards	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Airline_hub	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Boaz_Vaadia	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/2014_Ben_Gurion_Airport_flight_bans>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Lufthansa_Flight_615	dbp:operator	dbr:Lufthansa ;
+	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:GSG_9	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Lufthansa_Flight_649	dbp:operator	dbr:Lufthansa ;
+	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:List_of_airlines_impacted_by_the_COVID-19_pandemic	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Munich_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Metrojet_Flight_9268	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Sud_Aviation	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Welcome_to_Palestine	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Transport_in_Israel	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Algae_fuel	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:The_Bird_of_Peace	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Cerith_Wyn_Evans	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Bombardier_Aviation	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Chania_International_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Impact_of_the_COVID-19_pandemic_on_aviation	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:KfW	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Pimpri-Chinchwad	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Belgrade_Grand_Prix	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Eberhard_von_Brauchitsch	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/Harald_Kr\u00FCger>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Stuttgart_Hauptbahnhof	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Gunther_Holtorf	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Almaty_International_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Charles_Korvin	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Hand_luggage	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/2013\u2013present_economic_crisis_in_Venezuela>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:The_Art_of_the_Motorcycle	dbp:data	dbr:Lufthansa ;
+	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:The_Lufthansa_Heist	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Valencia_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/Alicante\u2013Elche_Airport>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Southern_Cross_Route	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Detroit_Metropolitan_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Changi_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/Niki_(airline)>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Air-rail_alliance	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Eurowings_Europe	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Boarding_pass	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Georg_Solmssen	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Air_Dolomiti	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Venice_Marco_Polo_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Bologna_Guglielmo_Marconi_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Pula_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Olbia_Costa_Smeralda_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/Bari_Karol_Wojty\u0142a_Airport>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Cagliari_Elmas_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:AlMasria_Universal_Airlines	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Wings_Alliance	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Falcone_Borsellino_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/Timeline_of_terrorism_in_Egypt_(2013\u2013present)>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/Konrad_Adenauer_(aircraft)>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Mike_Machat	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Sennheiser	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/Erdmann_&_Rossi>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:List_of_Airbus_A220_orders_and_deliveries	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Shemaroo_Entertainment	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Rotterdam_The_Hague_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Indus_Air	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/Plasticos_Lodela_S.A.>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Kion_de_Mexico	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Pam_Ann	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Terminals_of_Los_Angeles_International_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/Berman_Brothers_(producers)>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:List_of_Air_Dolomiti_destinations	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Graz_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Jordan_Shlain	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Charlotte_Douglas_International_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Debrecen_International_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/Trieste_\u2013_Friuli_Venezia_Giulia_Airport>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Transport_in_Serbia	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/1970_in_aviation>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/1972_in_aviation>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/1968_in_aviation>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:History_of_United_Airlines	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Public_Library_and_Other_Stories	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Carsten_Spohr	dbp:employer	dbr:Lufthansa ;
+	dbo:employer	dbr:Lufthansa ;
+	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/Nicola_Leibinger-Kamm\u00FCller>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Kansai_International_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:List_of_Lockheed_Constellation_operators	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Birgitt_Ory	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Aerotrim	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Joseph_Magutt	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Tom_Enders	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Christoph_Franz	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Frankfurt	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Airbus_A350_XWB	dbp:moreUsers	dbr:Lufthansa ;
+	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Airbus_A380	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Airliner	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:British_Airways	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Rolls-Royce_Holdings	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Virgin_Atlantic	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Heathrow_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Eli_Ostreicher	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/1953_in_aviation>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/1954_in_aviation>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/1955_in_aviation>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/1958_in_aviation>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/1960_in_aviation>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/2014_in_aviation>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/2016_in_aviation>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/2017_in_aviation>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:FlyLAL-Lithuanian_Airlines	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Birmingham_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Boeing_7J7	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/Kittil\u00E4_Airport>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:RFB_Fantrainer	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Immunity_passport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:In_the_Presence_of_Mine_Enemies	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Air_Zimbabwe	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Airbus_A310	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Cathay_Pacific	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Charlotte_Posenenske	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Chennai_International_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Flensburg	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Flybmi	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Nigeria_Airways	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:North_West_England	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Nursultan_Nazarbayev_International_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Azerbaijan_Airlines	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/List_of_fictional_United_States_presidencies_of_historical_figures_(P\u2013R)>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:List_of_government-owned_airlines	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/Ljubljana_Jo\u017Ee_Pu\u010Dnik_Airport>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:December_1967	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:December_1973	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Economic_history_of_Germany	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Cluj_International_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/Gda\u0144sk_Lech_Wa\u0142\u0119sa_Airport>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Jerez_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/1976_Zagreb_mid-air_collision>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/1977_in_aviation>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/1979_in_aviation>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/1983_in_aviation>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/1993_in_aviation>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/1997_in_aviation>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Berlin_Tegel_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/Leonardo_da_Vinci\u2013Fiumicino_Airport>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Zambia_Airways	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Skytrax	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:May_1955	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/2006_in_aviation>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/2009_in_aviation>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/2010_in_aviation>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/2012_in_aviation>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Sabena	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/Sabre_(computer_system)>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Catholic_Church_in_Germany	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Lufthansa_CityLine	dbp:parent	dbr:Lufthansa ;
+	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/1965_in_aviation>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/2015_in_aviation>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Transport_in_Belgium	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Vickers_Viscount_variants	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Timeline_of_the_COVID-19_pandemic_in_Ghana	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Economy_of_Germany	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Idar-Oberstein	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:International_Airlines_Group	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/Santiago\u2013Rosal\u00EDa_de_Castro_Airport>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:History_of_Iceland	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Alzey	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Amadeus_IT_Group	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Arthur_Pieck	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Opodo	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Cabotage	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Thai_Airways	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/Coll\u00E8ge_des_Ing\u00E9nieurs>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:West_Berlin	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Videcom_International	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:AD_Aerospace	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Adria_Airways	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Aer_Lingus	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/Air_Alg\u00E9rie>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Air_Berlin	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Connexion_by_Boeing	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Transatlantic_flight	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/Union_de_Transports_A\u00E9riens>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Luftschiffbau_Zeppelin	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Military_history_of_Somalia	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Transport_in_Berlin	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Brigitte_Zypries	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:COVID-19_pandemic_in_Lithuania	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:COVID-19_pandemic_in_New_Zealand	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Cooperative_education	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Cyclone_Kyrill	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Kurdistan_Region	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Laker_Airways	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:CityFlyer_Express	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Gruppo_di_intervento_speciale	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:List_of_Boeing_767_operators	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Environmental_impact_of_aviation	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:List_of_accidents_involving_sports_teams	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:List_of_attacks_by_ASALA	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:List_of_corporate_collapses_and_scandals	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:DHL	dbo:wikiPageWikiLink	dbr:Lufthansa .
+@prefix ns6:	<http://dbpedia.org/resource/Dallas/> .
+ns6:Fort_Worth_International_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Canadian_Airlines	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Rolls-Royce_Trent_500	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Viasa	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Vienna_International_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Travicom	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:List_of_airworthy_Ju_52s	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:List_of_commercial_transatlantic_flights	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Neu-Isenburg	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Newcastle_International_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/Stavanger_Airport,_Sola>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:SunExpress	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Webjet	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:List_of_James_Bond_vehicles	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/R._E._G._Davies>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:February_1968	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:SS-GB	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:List_of_passenger_airlines	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/Pero_Mi\u0107i\u0107>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Helsinki_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/M\u00E1laga_Airport>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/J\u00F3zsef_V\u00E1radi>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/Matchbox_(brand)>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Merck_Finck_Privatbankiers	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/Michael_Bishop,_Baron_Glendonbrook>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:British_Caledonian	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Economy_class	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:List_of_terrorist_incidents_in_1973	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Malta_International_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:ManpowerGroup	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Thomas_Cook_Group	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Thomas_Cook_Group_Airlines	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/Tirana_International_Airport_N\u00EBn\u00EB_Tereza>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Reboundtag	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Susana_Soca	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Air_France	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Charles_de_Gaulle_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/Roger_B\u00E9teille>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Luxembourg_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/Lyon\u2013Saint-Exup\u00E9ry_Airport>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Contact_Air	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Air_Littoral	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Airbus_A300	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/Dewoitine_D.338>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Avianca_Flight_011	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/Ch\u00E2teauroux-Centre_%22Marcel_Dassault%22_Airport>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/Saarbr\u00FCcken_Airport>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Dornier_Flugzeugwerke	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Houari_Boumediene_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/Rennes\u2013Saint-Jacques_Airport>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/Toulouse\u2013Blagnac_Airport>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Tunisair	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Swiss_International_Air_Lines	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:TAP_Air_Portugal	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Waldau_Army_Airfield	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:EuroAirport_Basel_Mulhouse_Freiburg	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Nantes_Atlantique_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/Neustadt_an_der_Weinstra\u00DFe>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Strasbourg_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Justin_Quek	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Emil_Clade	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/Heinrich_Heine_(train)>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/Josep_Tarradellas_Barcelona\u2013El_Prat_Airport>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Greek_Wine_Cellars	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Graham_Bonney	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Moscow_Domodedovo_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Yuri_Goloubev	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Lufthansa_Technik	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Kiel_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/Nordica_(airline)>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Lufthansa_Cargo	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Larnaca_International_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Eurowings	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Nicolas_Iljine	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Elbe_Flugzeugwerke	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Josef_Afritsch	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Conduit_toolbar	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Economy_of_Berlin	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Martina_Merz	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Halifax_Stanfield_International_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Cristiano_Ronaldo_International_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Bilbao_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Pamplona_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Menorca_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/Kevin_Allen_(author)>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Abdullah_Ahmad_Badawi	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Benjamin_Kunz_Mejri	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Athens_International_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Mediatonic	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Deutsche_Kreditbank	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Boeing_747-400	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:AirHelp	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Lufthansa_Flight_2904	dbp:operator	dbr:Lufthansa ;
+	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Lufthansa_Flight_540	dbp:operator	dbr:Lufthansa ;
+	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Doha_International_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Quatro_de_Fevereiro_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Nuremberg_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/Hof\u2013Plauen_Airport>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Sania_Ramel_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+@prefix ns7:	<http://dbpedia.org/resource/Auburn/> .
+ns7:Lewiston_Municipal_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Naples_International_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Marrakesh_Menara_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:DELAG	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Antonie_Strassmann	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Willms_Buhse	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Rolls-Royce_Conway	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:PaaSage	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:EU3_carriers	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/Beirut\u2013Rafic_Hariri_International_Airport>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Sabine_Christiansen	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:COVID-19_pandemic_in_Germany	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Second_Polish_Republic	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Airbus_A320_family	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Dublin_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Nicolas_De_Santis	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Miriam_Sapiro	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Hong_Kong_International_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Iran_Air	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Basic_economy	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/PilotsEYE.tv>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:List_of_Boeing_727_operators	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Milan_Malpensa_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Thomas_Cook_Airlines_Belgium	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Lufthansa_Consulting	dbp:parent	dbr:Lufthansa ;
+	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Plutonium_affair	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Essam_Marzouk	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/First_class_(aviation)>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Nagoya_Airfield	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/2014_FIFA_World_Cup_marketing>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Luxair	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Marseille_Provence_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Premium_economy	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/Nice_C\u00F4te_d\u0027Azur_Airport>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/Bordeaux\u2013M\u00E9rignac_Airport>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Croatia_Airlines	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Gander_International_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Interlining	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Turin_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Bmibaby	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Sabumon_Abdusamad	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Kunal_Kapur	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Transport_in_Pune	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Rajiv_Gandhi_International_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:ModiLuft	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Transport_in_Karnataka	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:SpiceJet	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Chubu_Centrair_International_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Star_Alliance	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Malabo_International_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Mohammed_V_International_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Air_France_Flight_422	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:List_of_Airbus_A300_operators	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:List_of_Airbus_A310_operators	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:List_of_Airbus_A330_orders_and_deliveries	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:List_of_Airbus_A340_operators	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:List_of_Airbus_A350_XWB_orders_and_deliveries	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:List_of_Airbus_A350_operators	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:List_of_Boeing_707_operators	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:List_of_McDonnell_Douglas_DC-10_operators	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/Mainline_(aeronautics)>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:List_of_Airbus_A380_orders_and_deliveries	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Lufthansa_heist	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Airline_service_trolley	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:SAS_Ground_Handling	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Transport_in_South_Africa	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:List_of_Airbus_A320_family_operators	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:List_of_Airbus_A320_orders_and_deliveries	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:List_of_Junkers_Ju_52_operators	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:List_of_Vickers_Viscount_operators	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:List_of_airlines_with_more_than_100_destinations	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Air_China	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Turkish_Airlines	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:February_1934	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Cathay_Pacific_fleet	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Florence_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/Galley_(kitchen)>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Bahrain_International_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Cairo_International_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/Berlin_Sch\u00F6nefeld_Airport>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Kai_Tak_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Kemayoran_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Bavaria_Fluggesellschaft	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Lufthansa_fleet	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:South_African_Airways	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Fuel_economy_in_aircraft	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/Iberia_(airline)>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Matchbox_Sky_Busters	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Palma_de_Mallorca_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/Air_Caribbean_(Puerto_Rico)>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Aircraft_livery	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/Tunis\u2013Carthage_International_Airport>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:LATAM_Chile	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:LOT_Polish_Airlines	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:VFW-Fokker_614	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Peter_Spoden	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Netaji_Subhas_Chandra_Bose_International_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:EgyptAir	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:El_Dorado_International_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Heraklion_International_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Tivat_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/Blohm_&_Voss_Ha_139>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Lisbon_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:LATAM_Brasil	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:DHL_Supply_Chain	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Heinkel_He_70	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/TAF_Linhas_A\u00E9reas>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Udet_U_8	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Boeing_747-8	dbp:primaryUser	dbr:Lufthansa ;
+	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/1973_Rome_airport_attacks_and_hijacking>	dbp:operator	dbr:Lufthansa ;
+	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/Ver.di>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Eric_Zelenka	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Simon_Verhoeven	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Hartmut_Esslinger	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Atmosfair	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Tallinn_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Corfu_International_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/Djerba\u2013Zarzis_International_Airport>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Kos_International_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Zakynthos_International_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Rhodes_International_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/Santorini_(Thira)_International_Airport>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Aktion_National_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:TUI_fly_Deutschland	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Enschede_Airport_Twente	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Leonardo_Krys	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Volkswagen_Type_147_Kleinlieferwagen	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Flight_information_display_system	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Munich	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Deutsche_Luft_Hansa	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:The_Lohmann_Affair	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Rijeka_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Sverdlovsk_Oblast	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/Canc\u00FAn_International_Airport>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:AccessAir	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Christiane_Schmidtmer	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/List_of_accidents_and_incidents_involving_airliners_by_airline_(D\u2013O)>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:List_of_fatal_accidents_to_commercial_cargo_aircraft	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:List_of_UAV-related_incidents	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:March_1960	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Nageeb_al-Hadi	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Helvetica	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Boeing_757	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Peter_Gentsch	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:TIBCO_Software	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:RAF_Northolt	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Max_Kahlow	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Campaigning_in_the_2008_Austrian_legislative_election	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Flight_length	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Brussels_Airlines	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/Air_France\u2013KLM>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Airline_alliance	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Pablo_Ganguli	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Concorde	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Jomo_Kenyatta_International_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Glasgow_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Tribhuvan_International_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Heathrow_Terminal_2	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/Montr\u00E9al\u2013Mirabel_International_Airport>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/1938\u201339_German_expedition_to_Tibet>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Logojet	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Airbus_A320neo_family	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Bremerhaven_Army_Airfield	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Sud_Aviation_Caravelle	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Christine_Volkmann	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:PrivatAir	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:German_Airways	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Grob_G_120	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/Fokker_F.XVIII>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Airbus_A321	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:On-time_performance	dbo:wikiPageWikiLink	dbr:Lufthansa .
+@prefix ns8:	<http://dbpedia.org/resource/Siegburg/> .
+ns8:Bonn_station	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:King_Khalid_International_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/Bastia_\u2013_Poretta_Airport>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Zadar_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/Agadir\u2013Al_Massira_Airport>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Swiss_Global_Air_Lines	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Mykonos_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Lamezia_Terme_International_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/A320_Airbus_(video_game)>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/Arena_(software)>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Model_aircraft	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Air_India	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Transport_in_Uzbekistan	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Heinkel_He_116	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/Air_travel_disruption_after_the_2010_Eyjafjallaj\u00F6kull_eruption>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Ministro_Pistarini_International_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Ulm_School_of_Design	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/Ushuaia_\u2013_Malvinas_Argentinas_International_Airport>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Discos_Qualiton	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:September_1927	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Combi_aircraft	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/Aerol\u00EDneas_Argentinas>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Ala_Littoria	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:May_1930	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Warsteiner	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:List_of_companies_of_Italy	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Song_Du-yul	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/Midgard_(software)>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Sound_trademark	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Pat_Wictor	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:EuroBonus	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:European_Aviation_Network	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/Oslo_Airport,_Fornebu>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Norway_Airlines	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Norwegian_Air_Lines	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Stephan_Sturm	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:AirPlus_International	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Hosea_Kutako_International_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Estonian_Aviation_Academy	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Murtala_Muhammed_International_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Epcard	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/Soekarno\u2013Hatta_International_Airport_Terminal_3>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Kennedy_Steve	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:MileagePlus	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:List_of_frequent_flyer_programs	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Azul_Brazilian_Airlines	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:List_of_airline_holding_companies	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/Alcazar_(airline)>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Interjet	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Asia_Miles	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Qualiflyer	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Vistara	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Port_Harcourt_International_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Nnamdi_Azikiwe_International_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Swiss_Private_Aviation	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Cologne	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:London_City_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Bilbao	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Brussels_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Aviapartner	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:RIBA_European_Award	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/D\u00FCsseldorf_Airport>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:EVA_Air	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Amsterdam_Airport_Schiphol	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Zeppelin	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:List_of_companies_of_Belgium	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Werner_Baake	dbo:wikiPageWikiLink	dbr:Lufthansa ;
+	dbo:occupation	dbr:Lufthansa .
+dbr:British_Caledonian_in_the_1980s	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Airbus_A330	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Airbus_A340	dbp:primaryUser	dbr:Lufthansa ;
+	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Computer_reservation_system	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Singapore_Airlines	dbo:wikiPageWikiLink	dbr:Lufthansa .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Lufthansa	rdf:type	yago:Carrier108057633 ,
+		yago:Line103671473 ,
+		dbo:PublicTransitSystem ,
+		yago:WikicatAirlinesOfGermany ,
+		yago:WikicatCompaniesBasedInCologne ,
+		yago:WikicatCompaniesEstablishedIn1953 ,
+		yago:WikicatAirlinesEstablishedIn1926 ,
+		yago:WikicatAirlinesEstablishedIn1953 ,
+		yago:WikicatHoldingCompaniesOfGermany ,
+		yago:Organization108008335 ,
+		yago:Company108058098 ,
+		yago:Group100031264 ,
+		yago:SocialGroup107950920 ,
+		dbo:Company ,
+		yago:Abstraction100002137 ,
+		yago:YagoPermanentlyLocatedEntity .
+@prefix geo:	<http://www.w3.org/2003/01/geo/wgs84_pos#> .
+dbr:Lufthansa	rdf:type	geo:SpatialThing ,
+		yago:Institution108053576 ,
+		dbo:Organisation .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Lufthansa	rdf:type	owl:Thing .
+@prefix umbel-rc:	<http://umbel.org/umbel/rc/> .
+dbr:Lufthansa	rdf:type	umbel-rc:Organization ,
+		umbel-rc:Business ,
+		yago:WikicatCompaniesEstablishedIn1926 .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Lufthansa	rdf:type	wikidata:Q46970 ,
+		umbel-rc:AirlineCompany ,
+		yago:YagoLegalActor ,
+		yago:YagoLegalActorGeo ,
+		dbo:Agent ,
+		yago:HoldingCompany108185369 ,
+		yago:WikicatAirlines .
+@prefix ns15:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Lufthansa	rdf:type	ns15:SocialPerson ,
+		ns15:Agent .
+@prefix schema:	<http://schema.org/> .
+dbr:Lufthansa	rdf:type	schema:Organization ,
+		yago:WikicatCompaniesListedOnThePinkSheets ,
+		yago:WikicatCompaniesListedOnTheFrankfurtStockExchange ,
+		wikidata:Q24229398 ,
+		wikidata:Q4830453 ,
+		wikidata:Q43229 ,
+		yago:Enterprise108056231 ,
+		yago:Business108061042 ,
+		yago:Airline102690081 ,
+		dbo:Airline .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Lufthansa	rdfs:label	"Lufthansa"@en ;
+	rdfs:comment	"Deutsche Lufthansa AG (German pronunciation: [\u02CCd\u0254\u028Ft\u0283\u0259 \u02C8l\u028Afthanza\u02D0]), commonly known as Lufthansa, is the largest German airline which, when combined with its subsidiaries, is the second largest airline in Europe in terms of passengers carried. The name of the former flag carrier is derived from the German word Luft meaning \"air\" and Hansa for the Hanseatic League. Lufthansa is one of the five founding members of Star Alliance, the world's largest airline alliance, formed in 1997. The company slogan is 'Say yes to the world.'"@en ;
+	foaf:name	"Deutsche Lufthansa AG"@en ;
+	foaf:homepage	<http://www.lufthansa.com/> .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Lufthansa	geo:lat	"50.9375"^^xsd:float ;
+	geo:long	"6.9697222709655761719"^^xsd:float ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Convair_340-61_D-ACAD_Lufthansa_LAP_03.09.55_edited-2.jpg> ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Lufthansa .
+@prefix virtrdf:	<http://www.openlinksw.com/schemas/virtrdf#> .
+dbr:Lufthansa	geo:geometry	"POINT(6.9697222709656 50.9375)"^^virtrdf:Geometry .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Lufthansa	dct:subject	dbc:Companies_listed_on_the_Frankfurt_Stock_Exchange ,
+		dbc:Holding_companies_of_Germany ,
+		dbc:IATA_members ,
+		dbc:German_brands ,
+		dbc:Association_of_European_Airlines_members ,
+		dbc:Multinational_companies_headquartered_in_Germany ,
+		dbc:Star_Alliance ,
+		dbc:Lufthansa_Group ,
+		dbc:Companies_based_in_Cologne ,
+		dbc:Lufthansa ,
+		dbc:German_companies_established_in_1953 ,
+		<http://dbpedia.org/resource/Category:1953_establishments_in_West_Germany> ,
+		dbc:Airline_holding_companies ,
+		dbc:Airlines_established_in_1953 ,
+		dbc:Airlines_of_Germany ;
+	owl:sameAs	dbr:Lufthansa .
+@prefix ns22:	<http://www4.wiwiss.fu-berlin.de/wikicompany/resource/> .
+dbr:Lufthansa	owl:sameAs	ns22:Lufthansa .
+@prefix ns23:	<http://www.bbc.co.uk/things/448ea9c4-ac70-4576-9ab8-38da2ae14ca7#> .
+dbr:Lufthansa	owl:sameAs	ns23:id .
+@prefix ns24:	<http://sw.cyc.com/concept/> .
+dbr:Lufthansa	owl:sameAs	ns24:Mx4rv3W2hpwpEbGdrcN5Y29ycA .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Lufthansa	owl:sameAs	yago-res:Lufthansa ,
+		<http://d-nb.info/gnd/2007937-0> ,
+		<https://global.dbpedia.org/id/6BUNt> ,
+		<http://rdf.freebase.com/ns/m.0p4wb> .
+@prefix ns26:	<http://data.europa.eu/euodp/jrc-names/> .
+dbr:Lufthansa	owl:sameAs	ns26:Lufthansa .
+@prefix georss:	<http://www.georss.org/georss/> .
+dbr:Lufthansa	georss:point	"50.9375 6.969722222222222" .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+dbr:Lufthansa	skos:closeMatch	<http://www.grid.ac/institutes/grid.425362.4> ;
+	schema:sameAs	<http://viaf.org/viaf/141310124> .
+@prefix ns29:	<http://dbpedia.org/datatype/> .
+dbr:Lufthansa	dbo:netIncome	"1.21E9"^^ns29:Currency .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Lufthansa	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Lufthansa?oldid=986474837&ns=0> ;
+	dbp:keyPeople	""@en ,
+		dbr:Carsten_Spohr ;
+	dbo:industry	dbr:Air_Transport ;
+	dbp:fid	"co/042164"@en ;
+	dbp:callsign	"LUFTHANSA"@en ;
+	dbo:equity	"1.015E10"^^ns29:Currency ;
+	dbo:operatingIncome	"2.0E9"^^ns29:Currency ;
+	dbo:assets	"4.266E10"^^ns29:Currency ;
+	dbo:formationDate	"1953-01-06"^^xsd:date ;
+	dbp:parent	dbr:Lufthansa_Group ;
+	dbp:tradedAs	"FWB:LHA"@en ;
+	dbp:iata	"LH"@en ;
+	dbp:icao	"DLH"@en ;
+	dbp:logoSize	300 ;
+	dbp:numEmployees	138353 ;
+	dbo:numberOfEmployees	"138353"^^xsd:nonNegativeInteger ;
+	dbp:equity	"1.015E10"^^ns29:euro ;
+	dbp:netIncome	"1.21E9"^^ns29:euro ;
+	dbp:assets	"4.266E10"^^ns29:euro ;
+	dbp:revenue	"3.642E10"^^ns29:euro ;
+	dbp:operatingIncome	"2.0E9"^^ns29:euro ;
+	dbo:revenue	"3.642E10"^^ns29:Currency ;
+	dbp:logo	"Lufthansa Logo 2018.svg"@en ;
+	dbp:destinations	220 ;
+	dbp:founded	"1953-01-06"^^xsd:date ;
+	dbp:text	"Documents and clippings about"@en ;
+	dbo:parentCompany	dbr:Lufthansa_Group ;
+	dbo:subsidiary	dbr:Lufthansa_CityLine ,
+		dbr:SunExpress ,
+		dbr:Lufthansa_Consulting ,
+		dbr:Brussels_Airlines ,
+		dbr:Eurowings_Europe ,
+		dbr:Swiss_International_Air_Lines ,
+		dbr:Lufthansa_Technik ,
+		dbr:Lufthansa_Systems ,
+		dbr:Austrian_Airlines ,
+		dbr:LSG_Sky_Chefs ,
+		dbr:Lufthansa_Flight_Training ,
+		dbr:Lufthansa_Cargo ,
+		dbr:Global_Load_Control ,
+		dbr:Eurowings ,
+		dbr:Edelweiss_Air ,
+		dbr:Air_Dolomiti ,
+		dbr:AeroLogic ;
+	dbp:hubs	"* Frankfurt\n* Munich"@en ;
+	dbp:airline	"Deutsche Lufthansa AG"@en ;
+	dbo:iataAirlineCode	"LH" ;
+	dbo:icaoAirlineCode	"DLH" ;
+	dbp:frequentFlyer	<http://dbpedia.org/resource/Miles_&_More> ;
+	dbo:alliance	dbr:Star_Alliance ;
+	dbo:openingDate	"1955-04-01"^^xsd:date ;
+	dbp:fleetSize	274 ;
+	dbp:alliance	dbr:Star_Alliance ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Convair_340-61_D-ACAD_Lufthansa_LAP_03.09.55_edited-2.jpg?width=300> ;
+	dbo:wikiPageID	97733 ;
+	dbo:wikiPageRevisionID	986474837 ;
+	dbo:wikiPageWikiLink	dbr:Lufthansa_Flight_649 ,
+		dbr:Air_Dolomiti ,
+		dbr:Registered_office ,
+		dbr:Politics_of_Switzerland ,
+		dbr:Alps ,
+		dbr:Germany ,
+		dbr:Austria ,
+		dbr:Boeing_787_Dreamliner ,
+		dbr:Delhi ,
+		dbr:Russia ,
+		dbr:Edelweiss_Air ,
+		dbr:Zurich_Airport ,
+		dbr:Damascus ,
+		dbr:Belgium ,
+		dbr:Berlin ,
+		dbr:Hamburg_Airport ,
+		dbr:Vice_president ,
+		<http://dbpedia.org/resource/Gander,_Newfoundland_and_Labrador> ,
+		dbr:All_Nippon_Airways ,
+		dbr:East_Germany ,
+		dbr:British_Airways ,
+		dbr:Swissair ,
+		dbr:Brussels ,
+		dbr:SunExpress ,
+		dbr:Fuel_starvation ,
+		dbr:Warsaw ,
+		dbr:West_Germany ,
+		dbr:Switzerland ,
+		dbr:Vienna ,
+		dbr:Finkenwerder ,
+		dbr:Nazi_Germany ,
+		dbr:Mogadishu ,
+		<http://dbpedia.org/resource/Leonardo_da_Vinci\u2013Fiumicino_Airport> ,
+		dbr:Bremen_Airport ,
+		dbr:Travel_restrictions_related_to_the_COVID-19_pandemic ,
+		<http://dbpedia.org/resource/Condor_(airline)> ,
+		dbr:Lisbon ,
+		dbr:New_Delhi ,
+		dbr:Airbus_A310 ,
+		dbr:Brussels_Airlines ,
+		dbr:List_of_airlines_of_Germany ,
+		dbr:Air_Canada ,
+		dbr:Alitalia ,
+		<http://dbpedia.org/resource/D\u00FCsseldorf_Airport> ,
+		dbr:Aegean_Airlines ,
+		dbr:Mainz ,
+		dbr:Dubai ,
+		dbr:Euro ,
+		dbr:Copa_Airlines ,
+		dbr:Operation_Yellow_Ribbon ,
+		<http://dbpedia.org/resource/Halifax,_Nova_Scotia> ,
+		dbr:Convair_CV-240_family ,
+		dbr:Boeing_737_Classic ,
+		<http://dbpedia.org/resource/1972_Summer_Olympics> ,
+		dbr:Airline_alliance ,
+		dbr:Lufthansa_Group ,
+		dbr:Coordinated_Universal_Time ,
+		dbr:Ceremonial_ship_launching ,
+		dbr:GSG_9 ,
+		dbr:Rio_de_Janeiro ,
+		dbr:Star_Alliance ,
+		dbr:Mercedes-Benz_S-Class ,
+		dbr:Ethiopia ,
+		dbr:Chicago ,
+		dbr:Lufthansa_fleet ,
+		dbr:Airline_meal ,
+		dbr:Mercedes-Benz_Vito ,
+		dbr:South_African_Airways ,
+		<http://dbpedia.org/resource/Iberia_(airline)> ,
+		dbr:Junkers_Ju_52 ,
+		dbr:United_Airlines ,
+		dbr:Hanseatic_League ,
+		dbr:Swiss_International_Air_Lines ,
+		dbr:Unisys ,
+		dbr:German_reunification ,
+		dbr:SunExpress_Deutschland ,
+		dbr:Avianca ,
+		<http://dbpedia.org/resource/Malaysia\u2013Singapore_Airlines> ,
+		dbr:Vienna_International_Airport ,
+		dbr:International_Airlines_Group ,
+		dbr:Brussels_Airport ,
+		dbr:Lufthansa_Flight_181 ,
+		dbr:Junkers ,
+		dbr:LSG_Group ,
+		dbr:Eurowings_Europe ,
+		dbr:Austrian_Airlines ,
+		dbr:Ansbach ,
+		dbr:Airbus_A321 ,
+		dbc:German_brands ,
+		dbr:Porsche_Cayenne ,
+		dbr:Wide-body_aircraft ,
+		dbr:Hamburg ,
+		dbr:LOT_Polish_Airlines ,
+		dbr:Transport_in_Germany ,
+		dbr:DAX ,
+		dbc:Multinational_companies_headquartered_in_Germany ,
+		<http://dbpedia.org/resource/Xetra_(trading_system)> ,
+		dbr:DHL ,
+		dbr:Indira_Gandhi_International_Airport ,
+		dbr:Airbus_A340 ,
+		dbr:TAP_Air_Portugal ,
+		dbr:Airbus_A300 ,
+		dbr:Flag_carrier ,
+		dbr:Madrid ,
+		dbr:Bundesliga ,
+		<http://dbpedia.org/resource/First_officer_(aviation)> ,
+		dbr:Airport_terminal ,
+		dbr:German_Autumn ,
+		dbr:Frankfurt_Airport ,
+		dbr:Boeing_747-8 ,
+		dbr:Larnaca ,
+		<http://dbpedia.org/resource/Deutsche_Lufthansa_(East_Germany)> ,
+		dbc:Lufthansa_Group ,
+		dbc:Star_Alliance ,
+		dbr:History_of_Berlin ,
+		<http://dbpedia.org/resource/History_of_Germany_(1945\u20131990)> ,
+		dbr:Eurowings ,
+		dbr:Air_Malta ,
+		dbr:EgyptAir ,
+		dbr:Luxair ,
+		dbc:Airlines_of_Germany ,
+		dbr:Willy_Brandt ,
+		<http://dbpedia.org/resource/File:Boeing_747-830,_Lufthansa_AN2100134.jpg> ,
+		<http://dbpedia.org/resource/File:Boeing_747-830,_Lufthansa_AN2119979.jpg> ,
+		<http://dbpedia.org/resource/File:Boeing_747-830,_Lufthansa_AN2119980.jpg> ,
+		<http://dbpedia.org/resource/File:Convair_340-61_D-ACAD_Lufthansa_LAP_03.09.55_edited-2.jpg> ,
+		<http://dbpedia.org/resource/File:FRA_LH_Lounge_First_seating.jpg> ,
+		<http://dbpedia.org/resource/File:Frankfurt_Flughafen,_Lufthansa_First_Class_Terminal.jpg> ,
+		<http://dbpedia.org/resource/File:LH-HQ,_K\u00F6ln-Deutz,_Front_3.jpg> ,
+		<http://dbpedia.org/resource/File:Lockheed_L-1049G_D-ALAP_LH_RWY_06.05.56_edited-4.jpg> ,
+		<http://dbpedia.org/resource/File:Lufthansa_737-130_D-ABED.jpg> ,
+		<http://dbpedia.org/resource/File:Lufthansa_Aviation_Center_after_sunset_-_Frankfurt_-_Germany_-_near_Airport_Frankfurt_-_Fraport_-_06.jpg> ,
+		dbr:Etihad_Airways ,
+		<http://dbpedia.org/resource/File:Trams_in_Lisbon_3.jpg> ,
+		<http://dbpedia.org/resource/File:D-AIXI_at_MUC.jpg> ,
+		dbr:American_Airlines ,
+		<http://dbpedia.org/resource/File:Flugzeuge.Lufthansa.P1056230.jpg> ,
+		<http://dbpedia.org/resource/File:Lufthansa_-_Airbus_A321neo_in_Reykjavik_(Quintin_Soloviev).jpg> ,
+		<http://dbpedia.org/resource/File:Lufthansa_Group_passenger_fleet_size.png> ,
+		dbc:IATA_members ,
+		dbr:Paris ,
+		<http://dbpedia.org/resource/File:Airbus_A319-100_(D-AILW)_of_Lufthansa_arrives_at_Birmingham_Airport,_England_27June2019_arp.jpg> ,
+		dbc:Airlines_established_in_1953 ,
+		dbc:German_companies_established_in_1953 ,
+		<http://dbpedia.org/resource/Category:1953_establishments_in_West_Germany> ,
+		dbr:List_of_largest_airlines_in_Europe ,
+		dbc:Companies_based_in_Cologne ,
+		dbc:Lufthansa ,
+		dbr:Lufthansa_Flight_005 ,
+		dbr:Tripoli ,
+		dbr:Lufthansa_Flight_502 ,
+		dbr:Heinz_Hermann_Thiele ,
+		dbr:Robert_Lisovskyi ,
+		<http://dbpedia.org/resource/File:Airbus_A300B4-605R,_Lufthansa_AN0481981.jpg> ,
+		<http://dbpedia.org/resource/File:Lufthansa_Airbus_A380_and_Boeing_747_(16431502906).jpg> ,
+		<http://dbpedia.org/resource/File:Lufthansa_Boeing_727-30C_Fitzgerald.jpg> ,
+		<http://dbpedia.org/resource/File:19700712_LH_Jumbo_GFAu46kl15.jpg> ,
+		<http://dbpedia.org/resource/File:A380_Werft_FRA.jpg> ,
+		dbc:Association_of_European_Airlines_members ,
+		<http://dbpedia.org/resource/File:Boeing_707-330B,_Lufthansa_AN2025731.jpg> ,
+		dbr:Aircraft_registration ,
+		dbr:Black_September_Organization ,
+		dbr:Croatia_Airlines ,
+		dbr:Boeing_747-400 ,
+		dbr:Interflug ,
+		<http://dbpedia.org/resource/1973_Rome_airport_attacks_and_hijacking> ,
+		dbr:Frequent-flyer_program ,
+		dbr:LATAM_Airlines_Group ,
+		dbr:Codeshare_agreement ,
+		dbr:Passenger_service_system ,
+		dbr:Deutsche_Mark ,
+		dbr:Boeing_720 ,
+		dbr:Aden_Adde_International_Airport ,
+		<http://dbpedia.org/resource/Deutsche_B\u00F6rse> ,
+		dbr:Scandinavian_Airlines ,
+		dbr:Lufthansa_Consulting ,
+		dbr:European_Commission ,
+		dbr:Global_distribution_system ,
+		dbr:Boeing_737 ,
+		dbr:Skytrax ,
+		dbr:Polar_route ,
+		dbr:Singapore_Airlines ,
+		dbr:Airline_hub ,
+		dbr:Libya ,
+		dbr:State-owned_enterprise ,
+		dbr:Airline ,
+		dbr:Computer_reservation_system ,
+		dbr:Werner_Baake ,
+		dbr:Adria_Airways ,
+		dbr:Johannesburg ,
+		dbr:Jomo_Kenyatta_International_Airport ,
+		dbr:Asiana_Airlines ,
+		dbr:Air_India ,
+		dbr:JetBlue ,
+		dbr:Aileron_roll ,
+		dbr:Contact_Air ,
+		dbr:Chief_executive_officer ,
+		<http://dbpedia.org/resource/Z\u00FCrich> ,
+		dbr:Shenzhen_Airlines ,
+		dbr:Bonn ,
+		dbr:Deutsche_Luft-Reederei ,
+		dbr:Cairo ,
+		dbr:Cologne ,
+		dbr:Munich ,
+		dbr:Go-around ,
+		dbr:Air_Astana ,
+		dbr:Lockheed_L-1049_Super_Constellation ,
+		dbr:Beirut ,
+		dbr:British_Midland_International ,
+		dbr:Palestinian_territories ,
+		dbr:Munich_Airport ,
+		dbr:September_11_attacks ,
+		dbr:Thai_Airways ,
+		dbr:Otl_Aicher ,
+		dbr:Deutsche_Luft_Hansa ,
+		dbr:Air_France ,
+		dbr:Porsche_Panamera ,
+		dbr:Lufthansa_Regional ,
+		dbr:Thomas_Cook_AG ,
+		dbr:Germanwings_Flight_9525 ,
+		dbr:COVID-19_pandemic ,
+		dbr:AeroLogic ,
+		dbr:Lufthansa_CityLine ,
+		dbr:International_non-essential_travel ,
+		dbr:Airbus_A320_family ,
+		dbr:German_Airways ,
+		dbr:Narita_International_Airport ,
+		dbr:Bangkok ,
+		dbr:Air_New_Zealand ,
+		dbr:Carsten_Spohr ,
+		dbr:Frankfurt ,
+		dbr:Lufthansa_Flight_2904 ,
+		dbr:Lufthansa_Flight_540 ,
+		dbr:Right_of_asylum ,
+		<http://dbpedia.org/resource/Miles_&_More> ,
+		dbr:Nuremberg ,
+		dbr:Athens ,
+		dbr:Amadeus_IT_Group ,
+		dbr:Eintracht_Frankfurt ,
+		dbr:Tokyo ,
+		dbr:Popular_Front_for_the_Liberation_of_Palestine ,
+		dbr:The_New_York_Times ,
+		dbr:Addis_Ababa ,
+		dbr:Travel_agency ,
+		dbr:Air_One ,
+		<http://dbpedia.org/resource/Crane_(bird)> ,
+		dbr:New_York_City ,
+		dbr:Connexion_by_Boeing ,
+		dbr:Public_float ,
+		dbr:Dakar ,
+		dbr:Airworthiness ,
+		<http://dbpedia.org/resource/John_F._Kennedy_International_Airport> ,
+		dbr:Boeing_707 ,
+		dbr:Germanwings ,
+		dbr:Corporate_headquarters ,
+		dbr:Helvetica ,
+		dbr:Kuwait_International_Airport ,
+		dbr:Aktiengesellschaft ,
+		dbr:Aden ,
+		dbr:German_Cargo ,
+		dbr:Istanbul ,
+		dbr:Boeing_727 ,
+		dbr:Boeing_747 ,
+		dbr:Lufthansa_Flight_592 ,
+		dbr:Palma_de_Mallorca ,
+		dbr:Bavaria ,
+		dbr:Video_on_demand ,
+		dbr:Airbus_A350_XWB ,
+		dbr:Airbus_A380 ,
+		dbr:Lufthansa_Technik ,
+		dbr:Aden_International_Airport ,
+		dbr:London ,
+		dbr:Villafranca_di_Verona ,
+		dbr:Marker_beacon ,
+		dbr:Zagreb_Airport ,
+		dbr:Kazakhstan ,
+		dbr:McDonnell_Douglas_DC-10 ,
+		dbr:Lufthansa_Aviation_Training ,
+		<http://dbpedia.org/resource/Rio_de_Janeiro/Gale\u00E3o_International_Airport> ,
+		dbr:Air_China ,
+		dbr:Caracas ,
+		dbr:IBM ,
+		dbc:Companies_listed_on_the_Frankfurt_Stock_Exchange ,
+		dbr:Warsaw_Chopin_Airport ,
+		dbr:Turkish_Airlines ,
+		dbr:Vistara ,
+		dbr:Deportation ,
+		dbr:Bremen ,
+		dbr:NASA ,
+		<http://dbpedia.org/resource/Deutz,_Cologne> ,
+		dbr:Lufthansa_Cargo ,
+		dbr:Lufthansa_Systems ,
+		dbr:Milan ,
+		dbr:Cathay_Pacific ,
+		dbr:Lufthansa_Italia ,
+		<http://dbpedia.org/resource/2016_Brussels_bombings> ,
+		dbr:Digital_data ,
+		dbr:Chairperson ,
+		dbr:Santiago ,
+		<http://dbpedia.org/resource/Michael_Bishop,_Baron_Glendonbrook> ,
+		<http://dbpedia.org/resource/Stall_(fluid_dynamics)> ,
+		dbr:Largest_airlines_in_the_world ,
+		dbr:Thomas_Cook_Group ,
+		dbr:Global_Load_Control ,
+		dbr:Munich_massacre ,
+		<http://dbpedia.org/resource/EU\u2013US_Open_Skies_Agreement> ,
+		<http://dbpedia.org/resource/Newark,_New_Jersey> ,
+		dbr:Ankara ,
+		dbr:Low-cost_carrier ,
+		<http://dbpedia.org/resource/D\u00FCsseldorf> ,
+		dbr:Lagos ,
+		dbr:Red_Army_Faction ,
+		dbr:Ethiopian_Airlines ,
+		dbr:Lufthansa_Flight_615 ,
+		dbr:Palestinians ;
+	dbo:wikiPageExternalLink	<http://www.lufthansa.com/> .
+@prefix dbt:	<http://dbpedia.org/resource/Template:> .
+dbr:Lufthansa	dbp:wikiPageUsesTemplate	dbt:Authority_control ,
+		dbt:Reflist ,
+		dbt:Short_description ,
+		dbt:Div_col ,
+		dbt:Div_col_end ,
+		dbt:Not_a_typo ,
+		dbt:Other_uses ,
+		dbt:Refn ,
+		dbt:Navboxes ,
+		dbt:Main_Article ,
+		dbt:DAX_companies ,
+		dbt:Lufthansa ,
+		dbt:Star_Alliance ,
+		dbt:Association_of_European_Airlines ,
+		dbt:IATA_members ,
+		dbt:Infobox_airline ,
+		dbt:Navbox_Airlines_of_Germany ,
+		dbt:Commons_category-inline ,
+		dbt:Convert ,
+		dbt:IPA-de ,
+		dbt:PM20 ,
+		dbt:Coord ,
+		dbt:Increase ,
+		dbt:Decrease ,
+		dbt:URL ,
+		dbt:Portal_bar ,
+		dbt:Main ,
+		dbt:Better_source ,
+		dbt:Start_date_and_age ,
+		dbt:Inflation ,
+		dbt:Use_dmy_dates ,
+		dbt:Rail_freight ,
+		dbt:International_Association_of_Aviation_Personnel_Schools ;
+	dbo:abstract	"Deutsche Lufthansa AG (German pronunciation: [\u02CCd\u0254\u028Ft\u0283\u0259 \u02C8l\u028Afthanza\u02D0]), commonly known as Lufthansa, is the largest German airline which, when combined with its subsidiaries, is the second largest airline in Europe in terms of passengers carried. The name of the former flag carrier is derived from the German word Luft meaning \"air\" and Hansa for the Hanseatic League. Lufthansa is one of the five founding members of Star Alliance, the world's largest airline alliance, formed in 1997. The company slogan is 'Say yes to the world.' Besides its own services, and owning subsidiary passenger airlines Austrian Airlines, Swiss International Air Lines, Brussels Airlines, and Eurowings (referred to in English by Lufthansa as its Passenger Airline Group), Deutsche Lufthansa AG owns several aviation-related companies, such as Lufthansa Technik and LSG Sky Chefs, as part of the Lufthansa Group. In total, the group has over 700 aircraft, making it one of the largest airline fleets in the world. Lufthansa's registered office and corporate headquarters are in Cologne. The main operations base, called Lufthansa Aviation Center, is at Lufthansa's primary hub at Frankfurt Airport, and its secondary hub is at Munich Airport where a secondary Flight Operations Centre is maintained. In Germany, Lufthansa has received sustained critique over their continued complicity in deportations.  In 2019, 4.573 people were deported on their planes, while their subsidiary Eurowings has been responsible for 1.312 deportations. This totals more than 25% of deportations in Germany in 2019. So far 2 people died on Lufthansa planes during deportation attempts.  During the global Black Lives Matter protest in 2020, Lufthansa is under pressure to reverse their role in enacting structural racism and renounce their complicity in deportations."@en .
+@prefix ns32:	<http://www.w3.org/2006/03/wn/wn20/instances/> .
+dbr:Lufthansa	dbp:wordnet_type	ns32:synset-airline-noun-2 ;
+	dbo:wikiPageLength	"99120"^^xsd:nonNegativeInteger ;
+	dbp:subsidiaries	dbr:Swiss_International_Air_Lines ,
+		"** Edelweiss Air\n* AeroLogic \n* SunExpress \n\n* LSG Sky Chefs\n* Lufthansa Consulting\n* Lufthansa Flight Training\n* Lufthansa Industry Solutions\n* Lufthansa Systems\n* Lufthansa Technik\n* Global Load Control"@en ,
+		"* Air Dolomiti\n* Austrian Airlines\n* Brussels Airlines\n* Eurowings\n** Eurowings Europe\n* Lufthansa Cargo\n* Lufthansa CityLine\n*"@en ;
+	dbp:headquarters	dbr:Germany ,
+		dbr:Cologne ;
+	dbo:headquarter	dbr:Germany ,
+		dbr:Cologne ;
+	dbo:hubAirport	dbr:Munich_Airport ,
+		dbr:Frankfurt_Airport ;
+	dbp:commenced	"1955-04-01"^^xsd:date .
+dbr:History_of_Maersk_Air	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/History_of_Braathens_(1994\u20132004)>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:ATPCO	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Datalex	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Flight_Consulting_Group	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Thomas_Cook_AG	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Aalen	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:List_of_company_name_etymologies	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:DAX	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Tampa_International_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Boeing_777	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Aviation_biofuel	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Henry_Hill	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Golden_West_Airlines	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Price_fixing	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Hawker_Pacific_Aerospace	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:August_1954	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Doxis_Bekris	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:List_of_James_Bond_film_locations	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:List_of_accidents_and_incidents_involving_the_Airbus_A320_family	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Douglas_DC-8	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Porto_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Cargolux	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Biofuel_in_the_European_Union	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Faro_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Spilve_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Typosquatting	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Karl-Ludwig_Kley	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Lviv_Danylo_Halytskyi_International_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Donetsk_International_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Dniproavia	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/10_Magazine_(South_Korean_magazine)>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Flight_number	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/Boarding_(transport)>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Out_Now_Consulting	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Eduard_Ritter_von_Schleich	dbo:wikiPageWikiLink	dbr:Lufthansa .
+@prefix ns33:	<http://dbpedia.org/resource/B/> .
+ns33:E_Aerospace	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Johanna_Maislinger	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Kavala_International_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Zonal_Employee_Discount	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/Metropole_\u2013_Vienna_in_English>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Lufthansa_Flight_005	dbp:operator	dbr:Lufthansa ;
+	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Lufthansa_Flight_502	dbp:operator	dbr:Lufthansa ;
+	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Heinz_Hermann_Thiele	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Robert_Lisovskyi	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Lufthansa_Flight_527	dbp:operator	dbr:Lufthansa ;
+	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/Second_officer_(aviation)>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:FlyNet	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/Blohm_&_Voss_P_200>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Hansa	dbo:wikiPageWikiLink	dbr:Lufthansa ;
+	dbo:wikiPageDisambiguates	dbr:Lufthansa .
+dbr:Exit_row	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:FBO_RIGA	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:OTCM_QX_ADR_30_Index	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Lufthansa_Partner_Airlines	dbo:wikiPageWikiLink	dbr:Lufthansa ;
+	dbo:wikiPageRedirects	dbr:Lufthansa .
+dbr:Luf-thansa	dbo:wikiPageWikiLink	dbr:Lufthansa ;
+	dbo:wikiPageRedirects	dbr:Lufthansa .
+dbr:Luffhansa	dbo:wikiPageWikiLink	dbr:Lufthansa ;
+	dbo:wikiPageRedirects	dbr:Lufthansa .
+dbr:Luftag	dbo:wikiPageWikiLink	dbr:Lufthansa ;
+	dbo:wikiPageRedirects	dbr:Lufthansa .
+dbr:Luftansa	dbo:wikiPageWikiLink	dbr:Lufthansa ;
+	dbo:wikiPageRedirects	dbr:Lufthansa .
+dbr:Luftanza	dbo:wikiPageWikiLink	dbr:Lufthansa ;
+	dbo:wikiPageRedirects	dbr:Lufthansa .
+dbr:Lufthansa-German_Airlines	dbo:wikiPageWikiLink	dbr:Lufthansa ;
+	dbo:wikiPageRedirects	dbr:Lufthansa .
+<http://dbpedia.org/resource/Lufthansa.com>	dbo:wikiPageWikiLink	dbr:Lufthansa ;
+	dbo:wikiPageRedirects	dbr:Lufthansa .
+<http://dbpedia.org/resource/Lufthansa.de>	dbo:wikiPageWikiLink	dbr:Lufthansa ;
+	dbo:wikiPageRedirects	dbr:Lufthansa .
+dbr:Lufthansa_Airline	dbo:wikiPageWikiLink	dbr:Lufthansa ;
+	dbo:wikiPageRedirects	dbr:Lufthansa .
+dbr:Lufthansa_Aviation_Center	dbo:wikiPageWikiLink	dbr:Lufthansa ;
+	dbo:wikiPageRedirects	dbr:Lufthansa .
+dbr:Lufthansa_Aviation_Centre	dbo:wikiPageWikiLink	dbr:Lufthansa ;
+	dbo:wikiPageRedirects	dbr:Lufthansa .
+dbr:Lufthansa_Aviation_Group	dbo:wikiPageWikiLink	dbr:Lufthansa ;
+	dbo:wikiPageRedirects	dbr:Lufthansa .
+dbr:Lufthansa_German_Airlines	dbo:wikiPageWikiLink	dbr:Lufthansa ;
+	dbo:wikiPageRedirects	dbr:Lufthansa .
+dbr:Lufthansa_Magazin	dbo:wikiPageWikiLink	dbr:Lufthansa ;
+	dbo:wikiPageRedirects	dbr:Lufthansa .
+dbr:Lufthansa_Partner	dbo:wikiPageWikiLink	dbr:Lufthansa ;
+	dbo:wikiPageRedirects	dbr:Lufthansa .
+dbr:Lufthansa_Passenger_Airlines	dbo:wikiPageWikiLink	dbr:Lufthansa ;
+	dbo:wikiPageRedirects	dbr:Lufthansa .
+dbr:Airways_Flying_Club	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/Detlef_Z\u00FChlke>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Gabriele_von_Lutzau	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/Heinrich_Vollmer_(winery)>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Daniel_Simone	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Cirrus_Airlines	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Jersey_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Transportation_in_Puerto_Rico	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Bernardita_Ramos	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/List_of_Adolf_Hitler\u0027s_personal_staff>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:List_of_RAL_colors	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Lufthansa_Technik_Puerto_Rico	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/Mobile,_Arizona>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Moi_International_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:LH	dbo:wikiPageWikiLink	dbr:Lufthansa ;
+	dbo:wikiPageDisambiguates	dbr:Lufthansa .
+dbr:LHA	dbo:wikiPageWikiLink	dbr:Lufthansa ;
+	dbo:wikiPageDisambiguates	dbr:Lufthansa .
+<http://dbpedia.org/resource/Lufthansa_(disambiguation)>	dbo:wikiPageWikiLink	dbr:Lufthansa ;
+	dbo:wikiPageDisambiguates	dbr:Lufthansa .
+dbr:Lufthansa_SG_Berlin	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Marlies_Dumbsky	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/Unaccompanied_minor_(passenger)>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Sonja_Zietlow	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:List_of_Airbus_A320neo_family_orders_and_deliveries	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Boutique_airline	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:The_Great_and_the_Little_Love	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/@lufthansa>	dbo:wikiPageWikiLink	dbr:Lufthansa ;
+	dbo:wikiPageRedirects	dbr:Lufthansa .
+dbr:Abeid_Amani_Karume_International_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/Ajay_Singh_(entrepreneur)>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:WOW_Alliance	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Aftermath_of_the_Northwest_Airlines_Flight_253_attack	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/Lancaster_Memorial_(Netherlands)>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:TUM_AeroCarga	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Silvio_Pettirossi_International_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:QIK	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/List_of_airline_codes_(L)>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Penta_Hotels	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:LH_fleet	dbo:wikiPageWikiLink	dbr:Lufthansa ;
+	dbo:wikiPageRedirects	dbr:Lufthansa .
+<http://dbpedia.org/resource/Aktiengesellschaft_f\u00FCr_Luftverkehrsbedarf>	dbo:wikiPageWikiLink	dbr:Lufthansa ;
+	dbo:wikiPageRedirects	dbr:Lufthansa .
+dbr:Emantras	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Monika_Wulf-Mathies	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/Be-Lufthansa.com>	dbo:wikiPageWikiLink	dbr:Lufthansa ;
+	dbo:wikiPageRedirects	dbr:Lufthansa .
+<http://dbpedia.org/resource/Be-lufthansa.com>	dbo:wikiPageWikiLink	dbr:Lufthansa ;
+	dbo:wikiPageRedirects	dbr:Lufthansa .
+dbr:DLH	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:GenerationFly	dbo:wikiPageWikiLink	dbr:Lufthansa ;
+	dbo:wikiPageRedirects	dbr:Lufthansa .
+dbr:Deutsche_Lufthansa	dbo:wikiPageWikiLink	dbr:Lufthansa ;
+	dbo:wikiPageRedirects	dbr:Lufthansa .
+<http://dbpedia.org/resource/Deutsche_Lufthansa_A.G.>	dbo:wikiPageWikiLink	dbr:Lufthansa ;
+	dbo:wikiPageRedirects	dbr:Lufthansa .
+dbr:Deutsche_Lufthansa_AG	dbo:wikiPageWikiLink	dbr:Lufthansa ;
+	dbo:wikiPageRedirects	dbr:Lufthansa .
+<http://dbpedia.org/resource/Deutsche_Lufthansa_AG\u2014DLH>	dbo:wikiPageWikiLink	dbr:Lufthansa ;
+	dbo:wikiPageRedirects	dbr:Lufthansa .
+dbr:Deutsche_Lufthansa_Aktiengesellschaft	dbo:wikiPageWikiLink	dbr:Lufthansa ;
+	dbo:wikiPageRedirects	dbr:Lufthansa .
+dbr:Avianca	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Shannon_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/Emirates_(airline)>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Lufthansa_Flight_181	dbp:operator	dbr:Lufthansa ;
+	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:King_Fahd_International_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Pulkovo_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/O._R._Tambo_International_Airport>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Cape_Town_International_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Geneva_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Ben_Gurion_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/Bergen_Airport,_Flesland>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/Keflav\u00EDk_International_Airport>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Linz_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Dubai_International_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Indira_Gandhi_International_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/Oslo_Airport,_Gardermoen>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Ramon_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/Troms\u00F8_Airport,_Langnes>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Kuala_Lumpur_International_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Paphos_International_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Vilnius_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Herpa	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Interzonal_traffic	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/O\u0027Hare_International_Airport>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Tori_Sparks	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Cimcorp	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:List_of_hub_airports	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Foreign_relations_of_Taiwan	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:International_reactions_to_the_2011_Libyan_Civil_War	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Friedrich_von_Mellenthin	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/G\u00F6teborg_Landvetter_Airport>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Stockholm_Arlanda_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/Snowflake_(airline)>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:SAS_Group	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Saab_91_Safir	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Gategroup	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/Skyline_(Sweden)>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Scandinavian_Airlines	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:AB_Aerotransport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Braathens	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Svensk_Lufttrafik	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Jan_Stenberg	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Air_New_Zealand	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/%22Heroes%22_(David_Bowie_album)>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/2WEI>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Karlsruhe_Institute_of_Technology	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Rivers_State	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Boeing_777X	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Arvato	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Aegean_Airlines	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Al_Bateen_Executive_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Azza_Transport_Flight_2241	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Dnata_Singapore	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Miguna_Miguna	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Infrastructure_of_Changi_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Ila_Paliwal	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Mat_Hennek	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Airline_codes	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Heike_John	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Ingrid_Roitzsch	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:List_of_Boeing_777_orders_and_deliveries	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:List_of_Boeing_787_orders_and_deliveries	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Airlines_for_Europe	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:List_of_Airbus_A330_operators	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:AeroMobile	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/Juan_Santamar\u00EDa_International_Airport>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:The_Amazing_Race_4	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Lori_Weitzner	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Aircraft_finance	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Boeing_717	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Competition_between_Airbus_and_Boeing	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Fairchild_Dornier_728_family	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Polar_route	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Crisis_in_Venezuela_during_the_Bolivarian_Revolution	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:LSG_Group	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/Sim\u00F3n_Bol\u00EDvar_International_Airport_(Venezuela)>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+@prefix ns34:	<http://dbpedia.org/resource/S\u00E3o_Paulo/> .
+ns34:Guarulhos_International_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Victo_Ngai	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Glossary_of_Nazi_Germany	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Japanese_reaction_to_Fukushima_Daiichi_nuclear_disaster	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:List_of_airline_mergers_and_acquisitions	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Wiesbaden	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Motshile_wa_Nthodi	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Ella_Ehlers	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Helmut_Schmidt	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/Hempstead,_New_York>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Michael_Diekmann	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Inflight_magazine	dbo:wikiPageWikiLink	dbr:Lufthansa .
+@prefix ns35:	<http://dbpedia.org/resource/Time:> .
+ns35:matters	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Panair_do_Brasil	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:CFM_International_CFM56	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/East_Meadow,_New_York>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/Orlando,_Florida>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Matthias_Wissmann	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:European_School_of_Management_and_Technology	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Croydon_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/Rzesz\u00F3w>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:List_of_cultural_icons_of_Germany	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/DBA_(airline)>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Air_Moldova	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Franz_Stigler	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Hurghada_International_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/Miles_&_More>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:List_of_largest_airlines_in_Europe	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:List_of_companies_of_Switzerland	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Tocumen_International_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Association_of_European_Airlines	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Deutsch	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/Centre_for_Aviation,_Transport_and_Environment>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Ireland_West_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+<http://dbpedia.org/resource/Canidrome,_Macau>	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:List_of_Boeing_747_operators	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Kingdom_Assembly_of_Iran	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Tehran_Imam_Khomeini_International_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Genoa_Cristoforo_Colombo_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Villafranca_di_Verona	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Dossobuono	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:DB_Class_403	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Norddeutscher_Lloyd	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Kempegowda_International_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Uetersen_Airfield	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Minsk_National_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Seat_configurations_of_Airbus_A380	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Asiana_Airlines	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Shenyang_Taoxian_International_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Suvarnabhumi_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Nanjing_Lukou_International_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Condor_Flugdienst_Flight_3782	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Global_Load_Control	dbp:parent	dbr:Lufthansa ;
+	dbo:parentCompany	dbr:Lufthansa ;
+	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Air_One	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Aviointeriors	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Asmara_International_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Marche_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:List_of_Douglas_DC-8_operators	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Mexico_City_International_Airport	dbo:wikiPageWikiLink	dbr:Lufthansa .
+dbr:Largest_airlines_in_the_world	dbo:wikiPageWikiLink	dbr:Lufthansa .

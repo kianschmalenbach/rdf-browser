@@ -1,0 +1,886 @@
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+dbr:Constructed_language	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> .
+dbr:International_auxiliary_language	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> .
+dbr:List_of_languages_by_first_written_accounts	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> .
+dbr:Interlinguistics	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> .
+dbr:List_of_constructed_languages	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> .
+dbr:Writer	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> .
+<http://dbpedia.org/resource/J\u00F3zef_Gos\u0142awski_(sculptor)>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Louis-Christophe_Zaleski-Zamenhof	dbp:relatives	<http://dbpedia.org/resource/L._L._Zamenhof> ;
+	dbo:relative	<http://dbpedia.org/resource/L._L._Zamenhof> ;
+	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> .
+<http://dbpedia.org/resource/1917>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> .
+dbr:Hovevei_Zion	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> .
+dbr:Yiddishist_movement	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> .
+dbr:List_of_Polish_Jews	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> .
+dbr:List_of_people_on_the_postage_stamps_of_Cuba	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+<http://en.wikipedia.org/wiki/L._L._Zamenhof>	foaf:primaryTopic	<http://dbpedia.org/resource/L._L._Zamenhof> .
+dbr:The_Great_Dictator	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> .
+dbr:Lidia_Zamenhof	dbp:parents	<http://dbpedia.org/resource/L._L._Zamenhof> ;
+	dbo:parent	<http://dbpedia.org/resource/L._L._Zamenhof> ;
+	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> .
+dbr:Esperanto_orthography	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> .
+dbr:April_1917	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> .
+<http://dbpedia.org/resource/1859>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> .
+dbr:April_14	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> .
+dbr:December_15	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> .
+dbr:List_of_people_on_the_postage_stamps_of_the_Soviet_Union	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> .
+dbr:Esperanto_vocabulary	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> .
+<http://dbpedia.org/resource/Medical_University_of_Bia\u0142ystok>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> .
+<http://dbpedia.org/resource/Osiedle_Centrum,_Bia\u0142ystok>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> .
+<http://dbpedia.org/resource/Mieczys\u0142aw_Lubelski>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> .
+<http://dbpedia.org/resource/Memorial_Route_of_Jewish_Martyrdom_and_Struggle,_Warsaw>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> .
+<http://dbpedia.org/resource/Polish_z\u0142oty>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> .
+dbr:Quotation_mark	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> .
+<http://dbpedia.org/resource/Bia\u0142ystok>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> .
+dbr:Esperanto_culture	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> .
+dbr:Holocaust_victims	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> .
+dbr:Poles	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> .
+dbr:History_of_Jews_in_Poland	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> .
+dbr:Language_education	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> .
+<http://dbpedia.org/resource/1887_in_science>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> .
+dbr:List_of_people_on_the_postage_stamps_of_Israel	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> .
+dbr:List_of_people_from_Vilnius	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> .
+dbr:Ludovik_Lazarus_Zamenhof	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> ;
+	dbo:wikiPageRedirects	<http://dbpedia.org/resource/L._L._Zamenhof> .
+<http://dbpedia.org/resource/Z\u00E1menhof>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> ;
+	dbo:wikiPageRedirects	<http://dbpedia.org/resource/L._L._Zamenhof> .
+dbr:Ludwik_Lazarz_Zamenhof	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> ;
+	dbo:wikiPageRedirects	<http://dbpedia.org/resource/L._L._Zamenhof> .
+dbr:Ludwik_Lejzer_Zamenhof	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> ;
+	dbo:wikiPageRedirects	<http://dbpedia.org/resource/L._L._Zamenhof> .
+<http://dbpedia.org/resource/Ludwik_\u0141azarz_Zamenhof>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> ;
+	dbo:wikiPageRedirects	<http://dbpedia.org/resource/L._L._Zamenhof> .
+dbr:Zamenhof	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> ;
+	dbo:wikiPageRedirects	<http://dbpedia.org/resource/L._L._Zamenhof> .
+<http://dbpedia.org/resource/Zamenhof_(surname)>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> .
+dbr:Ludovic_Lazar_Zamenhof	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> ;
+	dbo:wikiPageRedirects	<http://dbpedia.org/resource/L._L._Zamenhof> .
+dbr:Ludovic_Lazarus_Zamenhof	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> ;
+	dbo:wikiPageRedirects	<http://dbpedia.org/resource/L._L._Zamenhof> .
+dbr:Ludoviko_Lazaro_Zamenhof	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> ;
+	dbo:wikiPageRedirects	<http://dbpedia.org/resource/L._L._Zamenhof> .
+dbr:Ludoviko_Zamenhof	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> ;
+	dbo:wikiPageRedirects	<http://dbpedia.org/resource/L._L._Zamenhof> .
+dbr:Ludwig_Lazar_Zamenhof	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> ;
+	dbo:wikiPageRedirects	<http://dbpedia.org/resource/L._L._Zamenhof> .
+dbr:Ludwig_Lazarus_Zamenhof	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> ;
+	dbo:wikiPageRedirects	<http://dbpedia.org/resource/L._L._Zamenhof> .
+dbr:Ludwig_Zamenhof	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> ;
+	dbo:wikiPageRedirects	<http://dbpedia.org/resource/L._L._Zamenhof> .
+dbr:Ludwik_Zamenhof	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> ;
+	dbo:wikiPageRedirects	<http://dbpedia.org/resource/L._L._Zamenhof> .
+dbr:Ludwik_Zamenhoff	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> ;
+	dbo:wikiPageRedirects	<http://dbpedia.org/resource/L._L._Zamenhof> .
+dbr:Fundamento	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> .
+dbr:Eliezer_Zamenhof	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> ;
+	dbo:wikiPageRedirects	<http://dbpedia.org/resource/L._L._Zamenhof> .
+<http://dbpedia.org/resource/\u0414\u043E\u043A\u0442\u043E\u0440\u043E_\u042D\u0441\u043F\u0435\u0440\u0430\u043D\u0442\u043E>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> ;
+	dbo:wikiPageRedirects	<http://dbpedia.org/resource/L._L._Zamenhof> .
+<http://dbpedia.org/resource/List_of_L\u00E9gion_d\u0027honneur_recipients_by_name_(Z)>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> .
+dbr:Louis_Lazare_Zamenhof	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> ;
+	dbo:wikiPageRedirects	<http://dbpedia.org/resource/L._L._Zamenhof> .
+dbr:Samenhof	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> ;
+	dbo:wikiPageRedirects	<http://dbpedia.org/resource/L._L._Zamenhof> .
+<http://dbpedia.org/resource/Dr._Esperanto>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> ;
+	dbo:wikiPageRedirects	<http://dbpedia.org/resource/L._L._Zamenhof> .
+dbr:Dr_Esperanto	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> ;
+	dbo:wikiPageRedirects	<http://dbpedia.org/resource/L._L._Zamenhof> .
+<http://dbpedia.org/resource/L.L._Zamenhof>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> ;
+	dbo:wikiPageRedirects	<http://dbpedia.org/resource/L._L._Zamenhof> .
+dbr:Ledger_Ludwik_Zamenhof	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> ;
+	dbo:wikiPageRedirects	<http://dbpedia.org/resource/L._L._Zamenhof> .
+dbr:Lejzer_Zamenhof	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> ;
+	dbo:wikiPageRedirects	<http://dbpedia.org/resource/L._L._Zamenhof> .
+dbr:LL_Zamenhof	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> ;
+	dbo:wikiPageRedirects	<http://dbpedia.org/resource/L._L._Zamenhof> .
+dbr:L_L_Zamenhof	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> ;
+	dbo:wikiPageRedirects	<http://dbpedia.org/resource/L._L._Zamenhof> .
+<http://dbpedia.org/resource/L._Zamenhof>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> ;
+	dbo:wikiPageRedirects	<http://dbpedia.org/resource/L._L._Zamenhof> .
+dbr:Lazar_Markovitch_Zamenhof	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> ;
+	dbo:wikiPageRedirects	<http://dbpedia.org/resource/L._L._Zamenhof> .
+dbr:Lazarus_Ludovik_Zamenhof	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> ;
+	dbo:wikiPageRedirects	<http://dbpedia.org/resource/L._L._Zamenhof> .
+dbr:Lazarus_Ludwig_Zamenhof	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> ;
+	dbo:wikiPageRedirects	<http://dbpedia.org/resource/L._L._Zamenhof> .
+dbr:Zamenhoff	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> ;
+	dbo:wikiPageRedirects	<http://dbpedia.org/resource/L._L._Zamenhof> .
+<http://dbpedia.org/resource/Dr._L.L._Zamenhof>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> ;
+	dbo:wikiPageRedirects	<http://dbpedia.org/resource/L._L._Zamenhof> .
+<http://dbpedia.org/resource/\u0414\u0440\u044C_\u042D\u0441\u043F\u0435\u0440\u0430\u043D\u0442\u043E>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> ;
+	dbo:wikiPageRedirects	<http://dbpedia.org/resource/L._L._Zamenhof> .
+dbr:Doctor_Esperanto	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> ;
+	dbo:wikiPageRedirects	<http://dbpedia.org/resource/L._L._Zamenhof> .
+dbr:Doktoro_Esperanto	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> ;
+	dbo:wikiPageRedirects	<http://dbpedia.org/resource/L._L._Zamenhof> .
+dbr:Leyzer_Leyvi_Zamengov	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> ;
+	dbo:wikiPageRedirects	<http://dbpedia.org/resource/L._L._Zamenhof> .
+dbr:Leyzer_Markovitch_Zamenhof	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> ;
+	dbo:wikiPageRedirects	<http://dbpedia.org/resource/L._L._Zamenhof> .
+dbr:Leyzer_Zamenhof	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> ;
+	dbo:wikiPageRedirects	<http://dbpedia.org/resource/L._L._Zamenhof> .
+dbr:Boulogne-sur-Mer	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> .
+dbr:Marjorie_Boulton	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> .
+dbr:World_Esperantist_Vegetarian_Association	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> .
+dbr:Martha_Root	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> .
+dbr:Smallthorne	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> .
+dbr:Tadeusz_Truskolaski	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> .
+dbr:Western_Sahara_national_football_team	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> .
+dbr:Kutno_Rose_Festival	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> .
+<http://dbpedia.org/resource/History_of_Bia\u0142ystok>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> .
+dbr:List_of_language_creators	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> .
+<http://dbpedia.org/resource/Culture_in_Bia\u0142ystok>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> .
+<http://dbpedia.org/resource/1917_in_literature>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> .
+dbr:Yiddish_orthography	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> .
+dbr:Esperanto_lexicographers	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> .
+dbr:University_of_Warsaw	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> .
+dbr:List_of_people_on_the_postage_stamps_of_Hungary	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> .
+<http://dbpedia.org/resource/Montagu_C._Butler>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> .
+dbr:Chrestomathy	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> .
+dbr:List_of_people_who_have_been_considered_deities	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> .
+dbr:Ido	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> .
+dbr:List_of_Esperanto-language_films	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> .
+dbr:International_League_of_Christian_Esperantists	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> .
+dbr:The_Life_of_Zamenhof	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> .
+<http://dbpedia.org/resource/Meanings_of_minor_planet_names:_1001\u20132000>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> .
+dbr:Timeline_of_Polish_science_and_technology	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> .
+dbr:Esperanto	dbp:creator	<http://dbpedia.org/resource/L._L._Zamenhof> ;
+	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> .
+dbr:Zamenhof-Esperanto_object	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> .
+dbr:Universal_Esperanto_Association	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> .
+dbr:Unua_Libro	dbo:author	<http://dbpedia.org/resource/L._L._Zamenhof> ;
+	dbp:author	<http://dbpedia.org/resource/L._L._Zamenhof> ;
+	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> .
+dbr:Zamenhof_Day	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> .
+dbr:Julio_Baghy	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> .
+dbr:Reformed_Esperanto	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> .
+dbr:Proto-Esperanto	dbp:creator	<http://dbpedia.org/resource/L._L._Zamenhof> ;
+	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> .
+dbr:Hector_Hodler	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> .
+dbr:Fundamento_de_Esperanto	dbo:author	<http://dbpedia.org/resource/L._L._Zamenhof> ;
+	dbp:author	<http://dbpedia.org/resource/L._L._Zamenhof> ;
+	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> .
+dbr:Nikolai_Vladimirovich_Nekrasov	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> .
+<http://dbpedia.org/resource/1421_Esperanto>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> .
+<http://dbpedia.org/resource/1462_Zamenhof>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> .
+<http://dbpedia.org/resource/Bah\u00E1\u02BC\u00ED_Faith_and_auxiliary_language>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> .
+dbr:Declaration_of_Boulogne	dbp:writer	<http://dbpedia.org/resource/L._L._Zamenhof> ;
+	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> .
+dbr:Anationalism	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> .
+dbr:Kazimierz_Bein	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> .
+dbr:Oomoto	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> .
+dbr:Esperanto_literature	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> .
+dbr:Esperanto_symbols	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> .
+dbr:Esperantujo	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> .
+dbr:List_of_Esperanto-language_writers	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> .
+dbr:Outline_of_Esperanto	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> .
+<http://dbpedia.org/resource/E@I>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> .
+dbr:List_of_Esperanto_speakers	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> .
+<http://dbpedia.org/resource/Richard_H._Geoghegan>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> .
+dbr:Akademio_de_Esperanto	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> .
+dbr:Semajno_de_Kulturo_Internacia	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> .
+dbr:Comparison_between_Esperanto_and_Ido	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> .
+dbr:Comparison_between_Esperanto_and_Interlingua	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+<http://dbpedia.org/resource/L._L._Zamenhof>	rdf:type	yago:Intellectual109621545 ,
+		yago:MilitaryOfficer110317007 ,
+		yago:Specialist110632576 ,
+		yago:WikicatInventors .
+@prefix umbel-rc:	<http://umbel.org/umbel/rc/> .
+<http://dbpedia.org/resource/L._L._Zamenhof>	rdf:type	umbel-rc:PersonWithOccupation ,
+		yago:Scientist110560637 ,
+		<http://dbpedia.org/class/yago/WikicatPeopleFromBia\u0142ystok> ,
+		yago:WikicatLinguists ,
+		yago:Linguist110264437 .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+<http://dbpedia.org/resource/L._L._Zamenhof>	rdf:type	wikidata:Q5 ,
+		wikidata:Q24229398 ,
+		yago:WikicatDeifiedPeople ,
+		yago:CommandingOfficer109941964 ,
+		yago:Creator109614315 ,
+		yago:WikicatJewishPhilosophers ,
+		yago:Ophthalmologist110379073 ,
+		yago:Wikicat20th-centuryPhysicians ,
+		yago:Translator110725280 ,
+		yago:Linguist110264219 ,
+		yago:WikicatPeopleFromWarsaw ,
+		yago:Inventor110214637 ,
+		yago:WikicatPolishPhysicians ,
+		yago:WikicatBibleTranslators ,
+		foaf:Person ,
+		yago:LivingThing100004258 ,
+		yago:Whole100003553 ,
+		yago:YagoLegalActor ,
+		yago:Professional110480253 ,
+		yago:YagoLegalActorGeo ,
+		dbo:Person ,
+		yago:Object100002684 ,
+		yago:Wikicat19th-centuryPhysicians ,
+		yago:Person100007846 ,
+		yago:PhysicalEntity100001930 ,
+		yago:Organism100004475 ,
+		dbo:Agent ,
+		yago:CausalAgent100007347 ,
+		yago:Adult109605289 ,
+		yago:Doctor110020890 ,
+		yago:MedicalPractitioner110305802 ,
+		yago:HealthProfessional110165109 ,
+		yago:WikicatLinguistsFromPoland .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+<http://dbpedia.org/resource/L._L._Zamenhof>	rdf:type	owl:Thing .
+@prefix schema:	<http://schema.org/> .
+<http://dbpedia.org/resource/L._L._Zamenhof>	rdf:type	schema:Person ,
+		yago:Writer110794014 ,
+		yago:Communicator109610660 ,
+		yago:WikicatOphthalmologists ,
+		yago:WikicatJewishInventors ,
+		yago:WikicatPolishInventors ,
+		yago:Philosopher110423589 ,
+		yago:WikicatCommandersOfTheOrderOfIsabellaTheCatholic .
+@prefix ns10:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+<http://dbpedia.org/resource/L._L._Zamenhof>	rdf:type	ns10:NaturalPerson ,
+		ns10:Agent ,
+		yago:WikicatImperialRussianInventors ,
+		yago:WikicatRussianInventors ,
+		yago:WikicatPhysicians ,
+		wikidata:Q215627 ,
+		yago:Worker109632518 ,
+		yago:Serviceman110582746 ,
+		yago:SkilledWorker110605985 ,
+		yago:Scholar110557854 ,
+		yago:WikicatGrammariansOfYiddish ,
+		yago:WikicatTranslatorsOfTheBibleIntoEsperanto ,
+		yago:WikicatPolishOphthalmologists .
+@prefix geo:	<http://www.w3.org/2003/01/geo/wgs84_pos#> .
+<http://dbpedia.org/resource/L._L._Zamenhof>	rdf:type	geo:SpatialThing ,
+		yago:Grammarian110141364 ,
+		yago:WikicatWritersOfEsperantoLiterature .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+<http://dbpedia.org/resource/L._L._Zamenhof>	rdfs:label	"Ludv\u00EDk Lazar Zamenhof"@cs ,
+		"\u041B\u044E\u0434\u0432\u0456\u043A \u0417\u0430\u043C\u0435\u043D\u0433\u043E\u0444"@uk ,
+		"Ludwik Lejzer Zamenhof"@de ,
+		"L. L. Zamenhof"@en ,
+		"\u30EB\u30C9\u30F4\u30A3\u30B3\u30FB\u30B6\u30E1\u30F3\u30DB\u30D5"@ja ,
+		"L.L. Zamenhof"@in ,
+		"Ludwig Zamenhof"@sv ,
+		"L. L. Zamenhof"@eo ,
+		"\u0417\u0430\u043C\u0435\u043D\u0433\u043E\u0444, \u041B\u044E\u0434\u0432\u0438\u043A \u041B\u0430\u0437\u0430\u0440\u044C"@ru ,
+		"\u0644\u0648\u062F\u0641\u064A\u0643 \u0632\u0627\u0645\u0646\u0647\u0648\u0641"@ar ,
+		"\u67F4\u95E8\u970D\u592B"@zh ,
+		"L. L. Zamenhof"@eu ,
+		"Ludwik Zamenhof"@pl ,
+		"\uB8E8\uB3C4\uBE44\uCF54 \uB77C\uC790\uB85C \uC790\uBA58\uD638\uD504"@ko ,
+		"Ludwik Lejzer Zamenhof"@fr ,
+		"Lejzer Zamenhof"@nl ,
+		"L. L. Zamenhof"@ga ,
+		"Ludwik Lejzer Zamenhof"@pt ,
+		"L. L. Zamenhof"@es ,
+		"\u039B\u03BF\u03C5\u03B4\u03BF\u03B2\u03AF\u03BA\u03BF\u03C2 \u039B\u03AC\u03B6\u03B1\u03C1\u03BF\u03C2 \u0396\u03B1\u03BC\u03AD\u03BD\u03C7\u03BF\u03C6"@el ,
+		"Ludwik Lejzer Zamenhof"@ca ,
+		"Ludwik Lejzer Zamenhof"@it ;
+	rdfs:comment	"\u30E9\u30B6\u30FC\u30ED\u30FB\u30EB\u30C9\u30F4\u30A3\u30B4\u30FB\u30B6\u30E1\u30F3\u30DB\u30D5\uFF08\u30A8\u30B9\u30DA\u30E9\u30F3\u30C8\uFF1ALazaro Ludoviko Zamenhof \u3001\u30DD\u30FC\u30E9\u30F3\u30C9\u8A9E: Ludwik \u0141azarz Zamenhof 1859\u5E7412\u670815\u65E5 - 1917\u5E744\u670814\u65E5\uFF09\u306F\u3001\u30E6\u30C0\u30E4\u7CFB\u30DD\u30FC\u30E9\u30F3\u30C9\u4EBA\u306E\u773C\u79D1\u533B\u30FB\u8A00\u8A9E\u5B66\u8005\u3067\u3001\u73FE\u5728\u306E\u3068\u3053\u308D\u6700\u3082\u5E83\u304F\u4F7F\u308F\u308C\u3066\u3044\u308B\u8A08\u753B\u7684\u306B\u4F5C\u3089\u308C\u305F\u8A00\u8A9E\u30A8\u30B9\u30DA\u30E9\u30F3\u30C8\u306E\u5275\u6848\u8005\u3002 \u672C\u540D\u306F\u30A8\u30EA\u30A8\u30BC\u30EB\u30FB\u30EC\u30F4\u30A3\u30FB\u30B6\u30E1\u30F3\u30DB\u30D5\uFF08\u30D8\u30D6\u30E9\u30A4\u8A9E\uFF1A\u05D0\u05B1\u05DC\u05B4\u05D9\u05E2\u05B6\u05D6\u05B6\u05E8 \u05DC\u05B5\u05D5\u05B4\u05D9 \u05D6\u05D0\u05B7\u05DE\u05E2\u05E0\u05D4\u05D0\u05B8\u05E3 \u3001\u30C9\u30A4\u30C4\u8A9E\u8EE2\u5199\uFF1AEliezer Lewi Samenhof \uFF09\u3002\u30D5\u30A1\u30FC\u30B9\u30C8\u30CD\u30FC\u30E0\u306F\u3001\u5C11\u5E74\u6642\u4EE3\u306F\u30A8\u30EA\u30A8\u30BC\u30EB\u306E\u30A4\u30C7\u30A3\u30C3\u30B7\u30E5\u8A9E\u5F62\u30EC\u30A4\u30BC\u30EB\uFF08Lejzer\uFF09\u3068\u305D\u306E\u30ED\u30B7\u30A2\u8A9E\u5F62\u30E9\u30FC\u30B6\u30EA\u3082\u3057\u304F\u306F\u30E9\u30FC\u30B6\u30EA\u30FB\u30DE\u30EB\u30B3\u30F4\u30A3\u30C1\uFF08\u041B\u0430\u0437\u0430\u0440\u044C (\u041C\u0430\u0440\u043A\u043E\u0432\u0438\u0447)\uFF09\u3092\u4F75\u7528\u3057\u3001\u5927\u5B66\u4EE5\u964D\u306F\u30EC\u30F4\u30A3\u306E\u6B27\u5DDE\u8A9E\u4EE3\u7528\u540D\u30EB\u30FC\u30C9\u30F4\u30A3\u30AF\uFF08Ludwik\uFF09\u3068\u30EA\u30E5\u30FC\u30C9\u30F4\u30A3\u30AF\uFF08\u041B\u044E\u0434\u0432\u0438\u043A\uFF09\u3001\u305D\u3057\u30661901\u5E74\u306B\u30A8\u30B9\u30DA\u30E9\u30F3\u30C8\u3067\u30EB\u30C9\u30F4\u30A3\u30FC\u30B3\uFF08Ludoviko\uFF09\u3068\u540D\u4E57\u308A\u3001\"Dr. L. L. Zamenhof\"\u3068\u7F72\u540D\u3059\u308B\u3088\u3046\u306B\u306A\u3063\u305F\uFF08L\u3092\u91CD\u306D\u305F\u306E\u306F\u5F1F\u306E\u30EC\u30AA\u30F3\uFF081875\u5E74-1934\u5E74\uFF09\u3082\u533B\u5E2B\u3067\u3042\u3063\u305F\u305F\u3081\uFF09\u3002 \u5F1F\u306E\uFF081868\u5E74-1933\u5E74\uFF09\u3082\u30A8\u30B9\u30DA\u30E9\u30F3\u30C6\u30A3\u30B9\u30C8\u3068\u306A\u308A\u3001\"FEZ\"\u306E\u7B46\u540D\u3067\u5144\u3092\u52A9\u3051\u305F\u3002"@ja ,
+		"Ludwik Lejzer Zamenhof (en polaco, Ludwik \u0141azarz Zamenhof) o simplemente L. L. Zamenhof (Bia\u0142ystok, hoy Polonia, entonces Imperio ruso, 15 de diciembre de 1859-Varsovia, Polonia, 14 de abril de 1917) fue un m\u00E9dico oftalm\u00F3logo polaco y creador de la lengua auxiliar planificada esperanto. Fue nominado doce veces al Premio Nobel de la Paz.\u200B"@es ,
+		"Le docteur Ludwik Lejzer Zamenhof (polonais : Ludwik \u0141azarz Zamenhof, yiddish : \u05DC\u05F2\u05D6\u05E2\u05E8 \u05DC\u05B5\u05D5\u05B4\u05D9 \u05D6\u05D0\u05B7\u05DE\u05E2\u05E0\u05D4\u05D0\u05B8\u05E3), de son nom original Samenhof (en esp\u00E9ranto : Ludoviko Lazaro Zamenhof, francis\u00E9 en Louis Lazare Zamenhof), est un m\u00E9decin ophtalmologiste polonais, n\u00E9 le 15 d\u00E9cembre 1859 \u00E0 Bia\u0142ystok, dans l'Empire Russe, et mort le 14 avril 1917 \u00E0 Varsovie. N\u00E9 dans une famille juive, ses langues d\u2019usage sont le yiddish, le russe et le polonais. Il est connu pour avoir \u00E9labor\u00E9 la langue construite esp\u00E9ranto dans son ouvrage Langue Internationale, publi\u00E9 en russe le 26 juillet 1887 sous le pseudonyme Doktoro Esperanto (\u00AB le docteur qui esp\u00E8re \u00BB). Il fut nomm\u00E9 une douzaine de fois au prix Nobel de la Paix."@fr ,
+		"\u041B\u044E\u0301\u0434\u0432\u0456\u043A \u041B\u0430\u0301\u0437\u0430\u0440 \u0417\u0430\u0301\u043C\u0435\u043D\u0433\u043E\u0444 (\u0435\u0441\u043F. Ludoviko Lazaro Zamenhofo, \u043F\u043E\u043B. Ludwik \u0141azarz Zamenhof; 15 \u0433\u0440\u0443\u0434\u043D\u044F 1859, \u0411\u0456\u043B\u043E\u0441\u0442\u043E\u043A \u2014 14 \u043A\u0432\u0456\u0442\u043D\u044F 1917, \u0412\u0430\u0440\u0448\u0430\u0432\u0430) \u2014 \u043F\u043E\u043B\u044C\u0441\u044C\u043A\u0438\u0439 \u043B\u0456\u043A\u0430\u0440 \u0456 \u043B\u0456\u043D\u0433\u0432\u0456\u0441\u0442, \u0442\u0432\u043E\u0440\u0435\u0446\u044C \u0448\u0442\u0443\u0447\u043D\u043E\u0457 \u043C\u043E\u0432\u0438 \u0435\u0441\u043F\u0435\u0440\u0430\u043D\u0442\u043E."@uk ,
+		"Ludwik Lejzer Zamenhof (Esperanto: Ludoviko Lazaro Zamenhof; Yiddish: \u05D0\u05DC\u05D9\u05E2\u05D6\u05E8 \u05DC\u05D5\u05D3\u05D5\u05D5\u05D9\u05D2 \u05D6\u05D0\u05B7\u05DE\u05E2\u05E0\u05D4\u05D0\u05B8\u05E3\u200E\u200E; 15 December [O.S. 3 December] 1859 \u2013 14 April [O.S. 1 April] 1917) was a Polish ophthalmologist, linguist and the inventor of the international language Esperanto, the most widely used constructed international auxiliary language in the world. In light of his achievements, and his support of intercultural dialogue, UNESCO selected Zamenhof as one of its eminent personalities of 2017, on the 100th anniversary of his death."@en ,
+		"Dr. Ludovic Lazarus (Ludwik Lejzer, Ludwik \u0141azarz) Zamenhof (15 Desember [K.J.: 3 Desember] 1859\u201314 April [K.J.: 1 April] 1917) adalah seorang warga Polandia keturunan Yahudi. Ialah yang menciptakan bahasa Esperanto, bahasa artifisial yang paling banyak dipakai dewasa ini.Zamenhof sendiri sebenarnya adalah seorang dokter mata dan bahasa ibunya adalah bahasa Rusia dan bahasa Yiddish. Tetapi ia juga fasih berbahasa Polandia dan Jerman. Lalu di kemudian hari, ia juga belajar bahasa Prancis, bahasa Latin, bahasa Ibrani, bahasa Yunani dan bahasa Inggris. Ia juga tertarik dengan bahasa Italia, bahasa Spanyol dan bahasa Lithuania."@in ,
+		"Ludwik Lejzer (\u0141azarz) Zamenhof (Bia\u0142ystok, 15 dicembre 1859 \u2013 Varsavia, 14 aprile 1917) \u00E8 stato un medico, linguista e glottoteta polacco.\u00C8 universalmente noto per aver fondato le basi dell'esperanto, la lingua ausiliaria internazionale pi\u00F9 parlata al mondo. Il suo nome viene a volte italianizzato in Ludovico Lazzaro Zamenhof. Il nome esperanto deriva da uno dei suoi pseudonimi e significa colui che spera."@it ,
+		"Ludwig Lejzer Zamenhof (polska: Ludwik \u0141azarz Zamenhof), ocks\u00E5 k\u00E4nd som: Doktoro Esperanto, f\u00F6dd 15 december 1859 i Bia\u0142ystok i d\u00E5tida Kejsard\u00F6met Ryssland (i nuvarande Polen), d\u00F6d 14 april 1917 i Warszawa i Rysslands tyskockuperade del (i nuvarande Polen), var en polsk-judisk \u00F6gonl\u00E4kare och spr\u00E5kforskare och skaparen av esperanto, det planspr\u00E5k som har den st\u00F6rsta utbredningen i v\u00E4rlden."@sv ,
+		"\u039F \u039B\u03BF\u03C5\u03B4\u03BF\u03B2\u03AF\u03BA\u03BF\u03C2 \u039B\u03AC\u03B6\u03B1\u03C1\u03BF\u03C2 \u0396\u03B1\u03BC\u03AD\u03BD\u03C7\u03BF\u03C6 (\u03C0\u03BF\u03BB\u03C9\u03BD\u03B9\u03BA\u03AC: Ludwik \u0141azarz Zamenhof\u200E, 15 \u0394\u03B5\u03BA\u03B5\u03BC\u03B2\u03C1\u03AF\u03BF\u03C5 1859 \u2013 14 \u0391\u03C0\u03C1\u03B9\u03BB\u03AF\u03BF\u03C5 1917) \u03AE\u03C4\u03B1\u03BD \u03A0\u03BF\u03BB\u03C9\u03BD\u03CC\u03C2-\u0395\u03B2\u03C1\u03B1\u03AF\u03BF\u03C2 \u03BF\u03C6\u03B8\u03B1\u03BB\u03BC\u03BF\u03BB\u03CC\u03B3\u03BF\u03C2, \u03C6\u03B9\u03BB\u03CC\u03BB\u03BF\u03B3\u03BF\u03C2 \u03BA\u03B1\u03B9 \u03BF \u03B5\u03BC\u03C0\u03BD\u03B5\u03C5\u03C3\u03C4\u03AE\u03C2 \u03C4\u03B7\u03C2 \u0395\u03C3\u03C0\u03B5\u03C1\u03AC\u03BD\u03C4\u03BF, \u03C4\u03B7\u03C2 \u03C0\u03BB\u03AD\u03BF\u03BD \u03B4\u03B7\u03BC\u03BF\u03C6\u03B9\u03BB\u03BF\u03CD\u03C2 \u03C4\u03B5\u03C7\u03BD\u03B7\u03C4\u03AE\u03C2 \u03B3\u03BB\u03CE\u03C3\u03C3\u03B1\u03C2 \u03BC\u03AD\u03C7\u03C1\u03B9 \u03C3\u03AE\u03BC\u03B5\u03C1\u03B1. \u039F\u03B9 \u03BC\u03B7\u03C4\u03C1\u03B9\u03BA\u03AD\u03C2 \u03C4\u03BF\u03C5 \u03B3\u03BB\u03CE\u03C3\u03C3\u03B5\u03C2 \u03AE\u03C4\u03B1\u03BD \u03C4\u03B1 \u03A0\u03BF\u03BB\u03C9\u03BD\u03B9\u03BA\u03AC, \u03A1\u03CE\u03C3\u03B9\u03BA\u03B1 \u03BA\u03B1\u03B9 \u03C4\u03B1 \u0395\u03B2\u03C1\u03B1\u03CA\u03BA\u03AC \u03B1\u03BD\u03B1\u03C4\u03BF\u03BB\u03B9\u03BA\u03AE\u03C2 \u0395\u03C5\u03C1\u03CE\u03C0\u03B7\u03C2 \u03B1\u03BB\u03BB\u03AC \u03BC\u03B9\u03BB\u03BF\u03CD\u03C3\u03B5 \u03BC\u03B5 \u03B5\u03C5\u03C7\u03AD\u03C1\u03B5\u03B9\u03B1 \u03B5\u03C0\u03AF\u03C3\u03B7\u03C2 \u0393\u03B5\u03C1\u03BC\u03B1\u03BD\u03B9\u03BA\u03AC. \u0391\u03C1\u03B3\u03CC\u03C4\u03B5\u03C1\u03B1 \u03AD\u03BC\u03B1\u03B8\u03B5 \u0393\u03B1\u03BB\u03BB\u03B9\u03BA\u03AC, \u0395\u03BB\u03BB\u03B7\u03BD\u03B9\u03BA\u03AC, \u039B\u03B1\u03C4\u03B9\u03BD\u03B9\u03BA\u03AC, \u0395\u03B2\u03C1\u03B1\u03CA\u03BA\u03AC \u03BA\u03B1\u03B9 \u0391\u03B3\u03B3\u03BB\u03B9\u03BA\u03AC, \u03B5\u03BD\u03CE \u03B1\u03BD\u03AD\u03C0\u03C4\u03C5\u03BE\u03B5 \u03B5\u03BD\u03B4\u03B9\u03B1\u03C6\u03AD\u03C1\u03BF\u03BD \u03BA\u03B1\u03B9 \u03B3\u03B9\u03B1 \u03C4\u03B1 \u0399\u03C4\u03B1\u03BB\u03B9\u03BA\u03AC, \u0399\u03C3\u03C0\u03B1\u03BD\u03B9\u03BA\u03AC \u03BA\u03B1\u03B9 \u039B\u03B9\u03B8\u03BF\u03C5\u03B1\u03BD\u03B9\u03BA\u03AC."@el ,
+		"Ludwik Lejzer Zamenhof [za\u02C8m\u025Bnh\u0254f] (geboren als Eliezer Levi Samenhof; deutsch auch Ludwig Lazarus Samenhof und Ludwig L. Zamenhof, polnisch Ludwik \u0141azarz Zamenhof, Esperanto: Ludoviko Lazaro Zamenhof; * 3. Dezemberjul./ 15. Dezember 1859greg. in Bia\u0142ystok; \u2020 14. April 1917 in Warschau) war ein polnischer Augenarzt in Warschau (zu Lebzeiten Zamenhofs Weichselland, zum Russischen Reich geh\u00F6rig, heute Polen). Er begr\u00FCndete 1887 unter dem Pseudonym Doktoro Esperanto (deutsch: Doktor Hoffender) die Plansprache Esperanto. Sein Geburtstag wird heute von Esperanto-Sprechern als Zamenhoftag gefeiert."@de ,
+		"S\u00FAil-lia agus teangeola\u00ED ab ea an Dr Ludwik Lejzer Zamenhof (Ludwik \u0141azarz) (gaelaithe mar L.L.Saman\u00F3f), a bhaist an teanga idirn\u00E1isi\u00FAnta Esperanto, \"teanga an d\u00F3chais\". Gi\u00FAdach Polannach ab ea Zamenhof. Chuir an ts\u00EDorchoimhlint de dheasca m\u00EDthuisceana bunaithe ar \u00E9ags\u00FAlacht na dteangacha, ina chathair dh\u00FAchais, , isteach go m\u00F3r air agus \u00E9 ina ph\u00E1iste \u00F3g. Cathair an-ilteangach ba ea Bialystok: de r\u00E9ir dhaon\u00E1ireamh na bliana 1897, seo mar a bh\u00ED catag\u00F3ir\u00ED an daonra: Gi\u00FAdaigh 66%, Polannaigh 18%, R\u00FAisigh 8%, Gearm\u00E1naigh 6%, B\u00E9alar\u00FAisigh 2%. Mar sin bh\u00ED c\u00FAig theanga le cloiste\u00E1il go laeth\u00FAil sa chathair, nach raibh m\u00F3r\u00E1n thar 30,000 duine ina gc\u00F3na\u00ED inti an tr\u00E1th sin."@ga ,
+		"Ludwik Lejzer Zamenhof (Pools: Ludwik \u0141azarz Zamenhof, Eliezer Lewi Samenhof; Esperanto: Ludoviko Lazaro Zamenhof; Nederlands ook wel: Lodewijk Lazarus Zamenhof) (Bia\u0142ystok, 15 december 1859 \u2013 Warschau, 14 april 1917) was een in Polen geboren oogarts van joodse origine, polyglot en filoloog maar werd vooral bekend als de grondlegger van de internationale hulptaal Esperanto. De naam van deze taal komt van zijn pseudoniem Dr. Esperanto."@nl ,
+		"Ludv\u00EDk Lazar Zamenhof (pol. Ludwik \u0141azarz Zamenhof) (15. prosince 1859 B\u011Blostok \u2013 14. dubna 1917 Var\u0161ava) byl o\u010Dn\u00ED l\u00E9ka\u0159, filolog a tv\u016Frce esperanta, um\u011Bl\u00E9ho jazyka ur\u010Den\u00E9ho pro mezin\u00E1rodn\u00ED komunikaci."@cs ,
+		"\u0644\u0648\u062F\u0641\u064A\u0643 \u0627\u0644\u0639\u0632\u0631 \u0632\u0627\u0645\u0646\u0647\u0648\u0641 (\u0628\u0627\u0644\u0628\u0648\u0644\u0648\u0646\u064A\u0629 Ludwik \u0141azarz Zamenhof) \u0648\u0644\u062F 15 \u062F\u064A\u0633\u0645\u0628\u0631 1859 - 14 \u0623\u0628\u0631\u064A\u0644 1917. \u0647\u0648 \u0637\u0628\u064A\u0628 \u0639\u064A\u0648\u0646 \u0628\u0648\u0644\u0646\u062F\u064A \u0648\u0645\u062E\u062A\u0631\u0639 \u0644\u063A\u0629 \u0627\u0644\u0625\u0633\u0628\u0631\u0627\u0646\u062A\u0648. \u0644\u063A\u0627\u062A\u0647 \u0627\u0644\u0623\u0645 \u0647\u064A \u0627\u0644\u0631\u0648\u0633\u064A\u0629 \u0648\u0627\u0644\u064A\u062F\u0634\u064A\u0629 \u0648\u0627\u0644\u0628\u0648\u0644\u0646\u062F\u064A\u0629\u060C \u0648\u0643\u0627\u0646 \u064A\u062A\u062D\u062F\u062B \u0627\u0644\u0623\u0644\u0645\u0627\u0646\u064A\u0629 \u0628\u0641\u0635\u0627\u062D\u0629. \u062A\u0639\u0644\u0645 \u0627\u0644\u0644\u063A\u0627\u062A \u0623\u064A\u0636\u0627 \u0627\u0644\u0641\u0631\u0646\u0633\u064A\u0629\u060C \u0627\u0644\u0644\u0627\u062A\u064A\u0646\u064A\u0629\u060C \u0627\u0644\u064A\u0648\u0646\u0627\u0646\u064A\u0629\u060C \u0627\u0644\u0639\u0628\u0631\u064A\u0629 \u0648\u0627\u0644\u0625\u0646\u0643\u0644\u064A\u0632\u064A\u0629\u060C \u0643\u0645\u0627 \u0643\u0627\u0646 \u0644\u0647 \u0627\u0647\u062A\u0645\u0627\u0645 \u0623\u064A\u0636\u0627\u064B \u0628\u0627\u0644\u0644\u063A\u0627\u062A \u0627\u0644\u0623\u0633\u0628\u0627\u0646\u064A\u0629 \u0648\u0627\u0644\u0625\u064A\u0637\u0627\u0644\u064A\u0629 \u0648\u0627\u0644\u0644\u064A\u062B\u0648\u0627\u0646\u064A\u0629."@ar ,
+		"L. L. Zamenhof (naskita kiel \u041B\u0435\u0439\u0437\u0435\u0440\u044A \u0417\u0430\u043C\u0435\u043D\u0433\u043E\u0432 (Lejzer Zamenhov) kaj oficiale nomita \u041B\u0430\u0437\u0430\u0440\u044C \u041C\u0430\u0440\u043A\u043E\u0432\u0438\u0447 \u0417\u0430\u043C\u0435\u043D\u0433\u043E\u0444\u044A (Lazar Markovi\u0109 Zamenhof); esperante, tradicie konata kiel Ludoviko Lazaro Zamenhof a\u016D Lazaro Ludoviko Zamenhof; malofte Zamenhofo; (naski\u011Dis la 15-an de decembro 1859 en Bjalistoko, mortis la 14-an de aprilo 1917 en Varsovio). Li estis la iniciatinto/iniciatoro de la lingvo Esperanto. La\u016D profesio li estis okulkuracisto. Li estis 14-foje kandidatigita por la Nobel-premio pri paco."@eo ,
+		"Ludwik \u0141azarz Zamenhof, w\u0142a\u015Bciwie Eliezer Lewi Samenhof (jid. \u05DC\u05F2\u05D6\u05E2\u05E8 \u05DC\u05D5\u05D9 \u05D6\u05D0\u05B7\u05DE\u05E2\u05E0\u05D4\u05D0\u05B8\u05E3, esp. Ludoviko Lazaro Zamenhof; ur. 15 grudnia 1859 w Bia\u0142ymstoku, zm. 14 kwietnia 1917 w Warszawie) \u2013 polski lekarz okulista \u017Cydowskiego pochodzenia, inicjator esperanto; o\u015Bmiokrotnie nominowany do Pokojowej Nagrody Nobla (1907, 1909, 1910, 1913, 1914, 1915, 1916, 1917)."@pl ,
+		"Ludwik Lejzer Zamenhof (em polon\u00EAs/polaco:  Ludwik \u0141azarz Zamenhof; em Esperanto, Ludoviko Lazaro Zamenhof (raramente Zamenhofo); em portugu\u00EAs, Lu\u00EDs L\u00E1zaro Zamenhof) (Bia\u0142ystok, 15 de dezembro de 1859 \u2014 Vars\u00F3via, 14 de abril de 1917) foi um oftalmologista polon\u00EAs-judeu. Ele foi o criador do esperanto, a l\u00EDngua artificial mais falada e bem sucedida no mundo. Seus idiomas nativos eram o russo, i\u00EDdiche e polon\u00EAs, mas ele tamb\u00E9m era fluente em alem\u00E3o. Posteriormente aprendeu franc\u00EAs, latim, grego, hebraico e ingl\u00EAs al\u00E9m de se interessar por italiano, espanhol e lituano."@pt ,
+		"\uB8E8\uB3C4\uBE44\uCF54 \uB77C\uC790\uB85C \uC790\uBA58\uD638\uD504(\uD3F4\uB780\uB4DC\uC5B4: Ludwik \u0141azarz Zamenhof \uB8E8\uB4DC\uBE44\uD06C \uC640\uC790\uC2DC \uC790\uBA58\uD638\uD504[*], \uC5D0\uC2A4\uD398\uB780\uD1A0: Ludoviko Lazaro Zamenhof(o) \uB8E8\uB3C4\uBE44\uCF54 \uB77C\uC790\uB85C \uC790\uBA58\uD638\uD504, \uB7EC\uC2DC\uC544\uC5B4: \u041B\u044E\u0301\u0434\u0432\u0438\u043A \u041B\u0430\u0301\u0437\u0430\u0440\u044C \u0417\u0430\u0301\u043C\u0435\u043D\u0433\u043E\u0444 \uB958\uB4DC\uBE44\uD06C \uB77C\uC790\uB9AC \uC790\uBA58\uACE0\uD504[*], \uC774\uB514\uC2DC\uC5B4: \u05DC\u05D9\u05D9\u05D6\u05E2\u05E8 \u05D6\u05D0\u05B7\u05DE\u05E2\u05E0\u05D4\u05D0\u05B8\u05E3 \uB808\uC774\uC81C\uB974 \uC790\uBA58\uD638\uD504, 1859\uB144 12\uC6D4 15\uC77C - 1917\uB144 4\uC6D4 14\uC77C)\uB294 \uC5D0\uC2A4\uD398\uB780\uD1A0\uB97C \uCC3D\uC81C\uD55C \uD3F4\uB780\uB4DC\uC758 \uC548\uACFC \uC758\uC0AC\uC774\uB2E4."@ko ,
+		"Ludwik Lejzer Zamenhof, Ludwik \u0141azarz Zamenhof (Bia\u0142ystok, Imperi Rus, 15 de desembre de 1859 \u2013 Vars\u00F2via, Pol\u00F2nia, 14 d'abril de 1917; nascut Leyzer Leyvi Zamengov) va ser un oftalm\u00F2leg jueu, iniciador de l'esperanto, la llengua artificial m\u00E9s parlada fins avui. \u00C9s el pare de Lidia Zamenhof."@ca ,
+		"\u8DEF\u5FB7\u7EF4\u514B\u00B7\u62C9\u624E\u5C14\u00B7\u67F4\u95E8\u970D\u592B\uFF08Ludwik Lejzer Zamenhof\uFF0C1859\u5E7412\u670815\u65E5\uFF0D1917\u5E744\u670814\u65E5\uFF09\uFF0C\u6CE2\u5170\u7C4D\u72B9\u592A\u4EBA\uFF0C\u4E16\u754C\u8BED\u7684\u521B\u59CB\u4EBA\u3002"@zh ,
+		"Ludwik Lejzer Zamenhof (polonieraz: Ludwik \u0141azarz Zamenhof), ezizenez Doktoro Esperanto (Bialystok, Errusiar Inperioa \u2014gaur egun, Polonia\u2014 1859ko abenduaren 15agreg./abenduaren 3ajul. - Varsovia, Polonia, 1917ko apirilaren 14agreg./apirilaren 1ajul.) hizkuntzalaria eta okulista izan zen. 1873an, nazioarterako hizkuntza bat asmatu zuen. Bere asmoa mundu guztiak bigarren hizkuntza gisa ikasi ahal izatea zen, horrela ama-hizkuntza desberdineko jendeak elkar uler zezan. Hasieran, adiskide artean erabili zuen, baina 1887an, Doktoro Esperanto ezizenarekin zabaldu eta azaldu zuen. Hortik datorkio berak asmatutako hizkuntzari \u00ABesperanto\u00BB izena. Hainbat itzulpen egin zituen hizkuntza horretara."@eu ,
+		"\u041B\u0430\u0301\u0437\u0430\u0440\u044C \u041C\u0430\u0301\u0440\u043A\u043E\u0432\u0438\u0447 \u0417\u0430\u043C\u0435\u043D\u0433\u043E\u0444 \u0438\u043B\u0438 \u041B\u044E\u0301\u0434\u0432\u0438\u043A \u041B\u0430\u0301\u0437\u0430\u0440\u044C \u0417\u0430\u0301\u043C\u0435\u043D\u0433\u043E\u0444 (\u0438\u0434\u0438\u0448 \u200F\u05DC\u05F2\u05D6\u05E2\u05E8 \u05DC\u05D5\u05D9 \u05D6\u05D0\u05B7\u05DE\u05E2\u05E0\u05D4\u05D0\u05B8\u05E3\u200F\u200E \u2014 \u041B\u0435\u0439\u0437\u0435\u0440 \u041B\u0435\u0439\u0432\u0438 \u0417\u0430\u043C\u0435\u043D\u0433\u043E\u0444; \u043F\u043E\u043B\u044C\u0441\u043A. Ludwik Lejzer Zamenhof; \u044D\u0441\u043F\u0435\u0440. Ludoviko Lazaro Zamenhof; 3 [15] \u0434\u0435\u043A\u0430\u0431\u0440\u044F 1859, \u0411\u0435\u043B\u043E\u0441\u0442\u043E\u043A, \u0420\u043E\u0441\u0441\u0438\u0439\u0441\u043A\u0430\u044F \u0438\u043C\u043F\u0435\u0440\u0438\u044F \u2014 1 [14] \u0430\u043F\u0440\u0435\u043B\u044F 1917, \u0412\u0430\u0440\u0448\u0430\u0432\u0430, \u0420\u043E\u0441\u0441\u0438\u0439\u0441\u043A\u0430\u044F \u0438\u043C\u043F\u0435\u0440\u0438\u044F)\u2014 \u043F\u043E\u043B\u044C\u0441\u043A\u0438\u0439 \u0432\u0440\u0430\u0447-\u043E\u043A\u0443\u043B\u0438\u0441\u0442 \u0438 \u043B\u0438\u043D\u0433\u0432\u0438\u0441\u0442, \u0438\u0437\u0432\u0435\u0441\u0442\u0435\u043D \u043A\u0430\u043A \u0441\u043E\u0437\u0434\u0430\u0442\u0435\u043B\u044C \u044D\u0441\u043F\u0435\u0440\u0430\u043D\u0442\u043E \u2014 \u043D\u0430\u0438\u0431\u043E\u043B\u0435\u0435 \u0443\u0441\u043F\u0435\u0448\u043D\u043E\u0433\u043E \u0438\u0437 \u0441\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u043D\u044B\u0445 \u043C\u0435\u0436\u0434\u0443\u043D\u0430\u0440\u043E\u0434\u043D\u044B\u0445 \u044F\u0437\u044B\u043A\u043E\u0432. \u0422\u0430\u043A\u0436\u0435 \u0438\u0437\u0432\u0435\u0441\u0442\u0435\u043D \u043F\u043E \u043F\u0441\u0435\u0432\u0434\u043E\u043D\u0438\u043C\u0443 \u0414\u043E\u0301\u043A\u0442\u043E\u0440 \u042D\u0441\u043F\u0435\u0440\u0430\u0301\u043D\u0442\u043E (\u0442\u043E \u0435\u0441\u0442\u044C \u00AB\u041D\u0430\u0434\u0435\u044E\u0449\u0438\u0439\u0441\u044F\u00BB), \u043F\u043E\u0434 \u043A\u043E\u0442\u043E\u0440\u044B\u043C \u043E\u043D \u043E\u043F\u0443\u0431\u043B\u0438\u043A\u043E\u0432\u0430\u043B \u0432 1887 \u0433\u043E\u0434\u0443 \u0441\u0432\u043E\u044E \u0440\u0430\u0431\u043E\u0442\u0443 \u00AB\u041C\u0435\u0436\u0434\u0443\u043D\u0430\u0440\u043E\u0434\u043D\u044B\u0439 \u044F\u0437\u044B\u043A\u00BB, \u0432\u043A\u043B\u044E\u0447\u0430\u044E\u0449\u0443\u044E \u043E\u043F\u0438\u0441\u0430\u043D\u0438\u0435 \u044F\u0437\u044B\u043A\u0430 \u0438 \u0443\u0447\u0435\u0431\u043D\u0438\u043A."@ru .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+<http://dbpedia.org/resource/L._L._Zamenhof>	geo:lat	"52.247501373291015625"^^xsd:float ;
+	geo:long	"20.974721908569335938"^^xsd:float ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Zamenhof_subskribo.svg> ;
+	foaf:isPrimaryTopicOf	<http://en.wikipedia.org/wiki/L._L._Zamenhof> .
+@prefix virtrdf:	<http://www.openlinksw.com/schemas/virtrdf#> .
+<http://dbpedia.org/resource/L._L._Zamenhof>	geo:geometry	"POINT(20.974721908569 52.247501373291)"^^virtrdf:Geometry .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+<http://dbpedia.org/resource/L._L._Zamenhof>	dct:subject	dbc:Polish_inventors ,
+		<http://dbpedia.org/resource/Category:19th-century_translators> ,
+		dbc:Constructed_language_creators ,
+		<http://dbpedia.org/resource/Category:Commandeurs_of_the_L\u00E9gion_d\u0027honneur> ,
+		dbc:Esperanto_history ,
+		dbc:Esperanto_literature ,
+		dbc:Grammarians_of_Yiddish ,
+		dbc:Polish_ophthalmologists ,
+		dbc:Polish_Jews ,
+		dbc:Articles_containing_video_clips ,
+		dbc:People_from_Belostoksky_Uyezd ,
+		dbc:Translators_of_William_Shakespeare ,
+		dbc:Esperanto_speaking_Jews ,
+		dbc:Translators_of_the_Bible_into_Esperanto ,
+		dbc:Imperial_Russian_Jews ,
+		dbc:Commanders_of_the_Order_of_Isabella_the_Catholic ,
+		<http://dbpedia.org/resource/Category:People_from_Bia\u0142ystok> ,
+		<http://dbpedia.org/resource/Category:1917_deaths> ,
+		dbc:Linguists_from_Poland ,
+		dbc:Jewish_inventors ,
+		dbc:Polish_Esperantists ,
+		dbc:Translators_of_Johann_Wolfgang_von_Goethe ,
+		dbc:Imperial_Russian_inventors ,
+		<http://dbpedia.org/resource/Category:1859_births> ;
+	owl:sameAs	<http://el.dbpedia.org/resource/\u039B\u03BF\u03C5\u03B4\u03BF\u03B2\u03AF\u03BA\u03BF\u03C2_\u039B\u03AC\u03B6\u03B1\u03C1\u03BF\u03C2_\u0396\u03B1\u03BC\u03AD\u03BD\u03C7\u03BF\u03C6> .
+@prefix ns17:	<http://lt.dbpedia.org/resource/> .
+<http://dbpedia.org/resource/L._L._Zamenhof>	owl:sameAs	ns17:Liudvikas_Zamenhofas ,
+		<http://fa.dbpedia.org/resource/\u0644\u0648\u062F\u0648\u06CC\u06A9_\u0632\u0627\u0645\u0646\u0647\u0648\u0641> .
+@prefix dbpedia-ku:	<http://ku.dbpedia.org/resource/> .
+<http://dbpedia.org/resource/L._L._Zamenhof>	owl:sameAs	dbpedia-ku:Ludwik_Lejzer_Zamenhof ,
+		<http://lv.dbpedia.org/resource/Ludviks_Z\u0101menhofs> .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+<http://dbpedia.org/resource/L._L._Zamenhof>	owl:sameAs	dbpedia-it:Ludwik_Lejzer_Zamenhof ,
+		<http://ce.dbpedia.org/resource/\u0417\u0430\u043C\u0435\u043D\u0433\u043E\u0444,_\u041B\u044E\u0434\u0432\u0438\u043A_\u041B\u0430\u0437\u0430\u0440\u044C> ,
+		<http://he.dbpedia.org/resource/\u05D0\u05DC\u05D9\u05E2\u05D6\u05E8_\u05DC\u05D5\u05D3\u05D5\u05D5\u05D9\u05D2_\u05D6\u05DE\u05E0\u05D4\u05D5\u05E3> ,
+		<http://d-nb.info/gnd/118643495> .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+<http://dbpedia.org/resource/L._L._Zamenhof>	owl:sameAs	dbpedia-fr:Ludwik_Lejzer_Zamenhof ,
+		<http://id.dbpedia.org/resource/L.L._Zamenhof> ,
+		<http://ka.dbpedia.org/resource/\u10DA\u10E3\u10D3\u10D5\u10D8\u10D2_\u10DA\u10D0\u10D6\u10D0\u10E0_\u10D6\u10D0\u10DB\u10D4\u10DC\u10F0\u10DD\u10E4\u10D8> ,
+		<http://tl.dbpedia.org/resource/L._L._Zamenhof> .
+@prefix dbpedia-io:	<http://io.dbpedia.org/resource/> .
+<http://dbpedia.org/resource/L._L._Zamenhof>	owl:sameAs	dbpedia-io:Ludwig_Zamenhof .
+@prefix dbpedia-tr:	<http://tr.dbpedia.org/resource/> .
+<http://dbpedia.org/resource/L._L._Zamenhof>	owl:sameAs	dbpedia-tr:Ludwik_Lejzer_Zamenhof .
+@prefix dbpedia-sv:	<http://sv.dbpedia.org/resource/> .
+<http://dbpedia.org/resource/L._L._Zamenhof>	owl:sameAs	dbpedia-sv:Ludwig_Zamenhof ,
+		<http://ga.dbpedia.org/resource/L._L._Zamenhof> .
+@prefix dbpedia-ms:	<http://ms.dbpedia.org/resource/> .
+<http://dbpedia.org/resource/L._L._Zamenhof>	owl:sameAs	dbpedia-ms:Ludwig_Lazarus_Zamenhof .
+@prefix dbpedia-vo:	<http://vo.dbpedia.org/resource/> .
+<http://dbpedia.org/resource/L._L._Zamenhof>	owl:sameAs	dbpedia-vo:Lejzer_Ludwik_Zamenhof ,
+		<http://viaf.org/viaf/73885295> .
+@prefix dbpedia-sl:	<http://sl.dbpedia.org/resource/> .
+<http://dbpedia.org/resource/L._L._Zamenhof>	owl:sameAs	dbpedia-sl:Ludwik_Lazarus_Zamenhof ,
+		<http://www4.wiwiss.fu-berlin.de/gutendata/resource/people/Zamenhof_L_L_(Ludwik_Lejzer)_1859-1917> ,
+		<http://sah.dbpedia.org/resource/\u0417\u0430\u043C\u0435\u043D\u0433\u043E\u0444_\u041B\u0430\u0437\u0430\u0440\u044C_\u041C\u0430\u0440\u043A\u043E\u0432\u0438\u0447> ,
+		<http://sq.dbpedia.org/resource/L._L._Zamenhof> ,
+		<http://cy.dbpedia.org/resource/L._L._Zamenhof> ,
+		<http://es.dbpedia.org/resource/L._L._Zamenhof> ,
+		<http://hy.dbpedia.org/resource/\u053C\u0575\u0578\u0582\u0564\u057E\u056B\u056F_\u053C\u0561\u0566\u0561\u0580\u0578\u0582\u057D_\u0536\u0561\u0574\u0565\u0576\u0570\u0578\u0586> .
+@prefix dbpedia-sk:	<http://sk.dbpedia.org/resource/> .
+<http://dbpedia.org/resource/L._L._Zamenhof>	owl:sameAs	dbpedia-sk:Ludwik_Lejzer_Zamenhof ,
+		<http://bg.dbpedia.org/resource/\u041B\u044E\u0434\u0432\u0438\u043A_\u0417\u0430\u043C\u0435\u043D\u0445\u043E\u0444> ,
+		<http://mzn.dbpedia.org/resource/\u0644\u0648\u062F\u0648\u06CC\u06A9_\u0644\u0627\u0632\u0627\u0631\u0648\u0633_\u0632\u0627\u0645\u0646\u0647\u0648\u0641> .
+@prefix dbpedia-af:	<http://af.dbpedia.org/resource/> .
+<http://dbpedia.org/resource/L._L._Zamenhof>	owl:sameAs	dbpedia-af:Ludwik_Lejzer_Zamenhof .
+@prefix dbpedia-br:	<http://br.dbpedia.org/resource/> .
+<http://dbpedia.org/resource/L._L._Zamenhof>	owl:sameAs	dbpedia-br:Ludwik_Lejzer_Zamenhof ,
+		<http://simple.dbpedia.org/resource/L._L._Zamenhof> .
+@prefix dbpedia-hu:	<http://hu.dbpedia.org/resource/> .
+<http://dbpedia.org/resource/L._L._Zamenhof>	owl:sameAs	dbpedia-hu:Lazar_Markovics_Zamenhof .
+@prefix ns31:	<http://d-nb.info/gnd/118643495/about/> .
+<http://dbpedia.org/resource/L._L._Zamenhof>	owl:sameAs	ns31:rdf ,
+		<http://cs.dbpedia.org/resource/Ludv\u00EDk_Lazar_Zamenhof> .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+<http://dbpedia.org/resource/L._L._Zamenhof>	owl:sameAs	dbpedia-pl:Ludwik_Zamenhof ,
+		<http://eo.dbpedia.org/resource/L._L._Zamenhof> ,
+		<http://jv.dbpedia.org/resource/L._L._Zamenhof> ,
+		<http://ru.dbpedia.org/resource/\u0417\u0430\u043C\u0435\u043D\u0433\u043E\u0444,_\u041B\u044E\u0434\u0432\u0438\u043A_\u041B\u0430\u0437\u0430\u0440\u044C> .
+@prefix dbpedia-commons:	<http://commons.dbpedia.org/resource/> .
+<http://dbpedia.org/resource/L._L._Zamenhof>	owl:sameAs	dbpedia-commons:Ludwik_Lejzer_Zamenhof ,
+		<http://hi.dbpedia.org/resource/\u0932\u0941\u0921\u0935\u093F\u0917_\u0932\u093E\u091C\u093C\u0930_\u091C\u093C\u093E\u092E\u0947\u0928\u0939\u094B\u092B\u093C> ,
+		<http://pnb.dbpedia.org/resource/\u0644\u0648\u062F\u0648\u06CC\u06A9_\u0632\u0627\u0645\u0646\u06C1\u0648\u0641> ,
+		<http://ast.dbpedia.org/resource/L._L._Zamenhof> .
+@prefix ns34:	<http://uz.dbpedia.org/resource/> .
+<http://dbpedia.org/resource/L._L._Zamenhof>	owl:sameAs	ns34:Lyudvik_Zamengof .
+@prefix ns35:	<http://mg.dbpedia.org/resource/> .
+<http://dbpedia.org/resource/L._L._Zamenhof>	owl:sameAs	ns35:Ludwik_Lejzer_Zamenhof ,
+		<http://mr.dbpedia.org/resource/\u090F\u0932.\u090F\u0932._\u091D\u093E\u092E\u0947\u0928\u0939\u0949\u092B> ,
+		<http://os.dbpedia.org/resource/\u0417\u0430\u043C\u0435\u043D\u0433\u043E\u0444,_\u041B\u0430\u0437\u0430\u0440\u044C_\u041C\u0430\u0440\u0447\u044B_\u0444\u044B\u0440\u0442> ,
+		<http://zh.dbpedia.org/resource/\u67F4\u95E8\u970D\u592B> ,
+		wikidata:Q11758 .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+<http://dbpedia.org/resource/L._L._Zamenhof>	owl:sameAs	dbpedia-pt:Ludwik_Lejzer_Zamenhof .
+@prefix dbpedia-ca:	<http://ca.dbpedia.org/resource/> .
+<http://dbpedia.org/resource/L._L._Zamenhof>	owl:sameAs	dbpedia-ca:Ludwik_Lejzer_Zamenhof .
+@prefix dbpedia-pms:	<http://pms.dbpedia.org/resource/> .
+<http://dbpedia.org/resource/L._L._Zamenhof>	owl:sameAs	dbpedia-pms:Ludwik_Zamenhof .
+@prefix dbpedia-da:	<http://da.dbpedia.org/resource/> .
+<http://dbpedia.org/resource/L._L._Zamenhof>	owl:sameAs	dbpedia-da:Ludwik_Lejzer_Zamenhof .
+@prefix dbpedia-no:	<http://no.dbpedia.org/resource/> .
+<http://dbpedia.org/resource/L._L._Zamenhof>	owl:sameAs	dbpedia-no:Ludwik_Lejzer_Zamenhof ,
+		<http://ar.dbpedia.org/resource/\u0644\u0648\u062F\u0641\u064A\u0643_\u0632\u0627\u0645\u0646\u0647\u0648\u0641> .
+@prefix dbpedia-vi:	<http://vi.dbpedia.org/resource/> .
+<http://dbpedia.org/resource/L._L._Zamenhof>	owl:sameAs	dbpedia-vi:Ludwik_Lejzer_Zamenhof ,
+		<http://ko.dbpedia.org/resource/\uB8E8\uB3C4\uBE44\uCF54_\uB77C\uC790\uB85C_\uC790\uBA58\uD638\uD504> .
+@prefix ns42:	<http://ia.dbpedia.org/resource/> .
+<http://dbpedia.org/resource/L._L._Zamenhof>	owl:sameAs	ns42:Ludwik_Lejzer_Zamenhof .
+@prefix dbpedia-an:	<http://an.dbpedia.org/resource/> .
+<http://dbpedia.org/resource/L._L._Zamenhof>	owl:sameAs	dbpedia-an:Ludwik_Lejzer_Zamenhof .
+@prefix dbpedia-oc:	<http://oc.dbpedia.org/resource/> .
+<http://dbpedia.org/resource/L._L._Zamenhof>	owl:sameAs	dbpedia-oc:Ludwik_Lejzer_Zamenhof .
+@prefix dbpedia-sh:	<http://sh.dbpedia.org/resource/> .
+<http://dbpedia.org/resource/L._L._Zamenhof>	owl:sameAs	dbpedia-sh:Ludvik_Lazar_Zamenhof ,
+		<http://ckb.dbpedia.org/resource/\u0644\u0648\u062F\u06A4\u06CC\u06AF_\u0632\u0627\u0645\u06CE\u0646\u06BE\u06C6\u0641> ,
+		<http://yi.dbpedia.org/resource/\u05DC\u05D9\u05D9\u05D6\u05E2\u05E8_\u05D6\u05D0\u05DE\u05E2\u05E0\u05D4\u05D0\u05E3> .
+@prefix dbpedia-ro:	<http://ro.dbpedia.org/resource/> .
+<http://dbpedia.org/resource/L._L._Zamenhof>	owl:sameAs	dbpedia-ro:Ludovic_Lazar_Zamenhof ,
+		<http://uk.dbpedia.org/resource/\u041B\u044E\u0434\u0432\u0456\u043A_\u0417\u0430\u043C\u0435\u043D\u0433\u043E\u0444> .
+@prefix ns47:	<https://global.dbpedia.org/id/> .
+<http://dbpedia.org/resource/L._L._Zamenhof>	owl:sameAs	ns47:DZb2 .
+@prefix dbpedia-et:	<http://et.dbpedia.org/resource/> .
+<http://dbpedia.org/resource/L._L._Zamenhof>	owl:sameAs	dbpedia-et:Ludwik_Zamenhof ,
+		<http://pa.dbpedia.org/resource/\u0A32\u0A41\u0A26\u0A35\u0A3F\u0A15_\u0A1C\u0A3C\u0A3E\u0A2E\u0A47\u0A28\u0A39\u0A4B\u0A2B> .
+@prefix ns49:	<http://scn.dbpedia.org/resource/> .
+<http://dbpedia.org/resource/L._L._Zamenhof>	owl:sameAs	ns49:Ludwik_Lejzer_Zamenhof ,
+		<http://be.dbpedia.org/resource/\u041B\u044E\u0434\u0432\u0456\u0433_\u041B\u0430\u0437\u0430\u0440_\u0417\u0430\u043C\u0435\u043D\u0433\u043E\u0444> .
+@prefix ns50:	<http://musicbrainz.org/artist/> .
+<http://dbpedia.org/resource/L._L._Zamenhof>	owl:sameAs	ns50:ef2199e2-4780-40ce-975e-86516a4441c4 ,
+		<http://sr.dbpedia.org/resource/\u041B\u0443\u0434\u0432\u0438\u043A_\u041B\u0430\u0437\u0430\u0440_\u0417\u0430\u043C\u0435\u043D\u0445\u043E\u0444> ,
+		<http://ja.dbpedia.org/resource/\u30EB\u30C9\u30F4\u30A3\u30B3\u30FB\u30B6\u30E1\u30F3\u30DB\u30D5> ,
+		<http://eu.dbpedia.org/resource/L._L._Zamenhof> .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+<http://dbpedia.org/resource/L._L._Zamenhof>	owl:sameAs	dbpedia-nl:Lejzer_Zamenhof ,
+		<http://th.dbpedia.org/resource/\u0E41\u0E2D\u0E25._\u0E41\u0E2D\u0E25._\u0E0B\u0E32\u0E40\u0E21\u0E19\u0E2E\u0E2D\u0E1F> .
+@prefix dbpedia-als:	<http://als.dbpedia.org/resource/> .
+<http://dbpedia.org/resource/L._L._Zamenhof>	owl:sameAs	dbpedia-als:Ludwik_Lejzer_Zamenhof .
+@prefix dbpedia-war:	<http://war.dbpedia.org/resource/> .
+<http://dbpedia.org/resource/L._L._Zamenhof>	owl:sameAs	dbpedia-war:Ludwik_Lejzer_Zamenhof .
+@prefix dbpedia-hsb:	<http://hsb.dbpedia.org/resource/> .
+<http://dbpedia.org/resource/L._L._Zamenhof>	owl:sameAs	dbpedia-hsb:Ludwik_Lejzer_Zamenhof .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+<http://dbpedia.org/resource/L._L._Zamenhof>	owl:sameAs	dbpedia-de:Ludwik_Lejzer_Zamenhof .
+@prefix dbpedia-nds:	<http://nds.dbpedia.org/resource/> .
+<http://dbpedia.org/resource/L._L._Zamenhof>	owl:sameAs	dbpedia-nds:Ludwik_Lejzer_Zamenhof ,
+		<http://mk.dbpedia.org/resource/\u041B\u0443\u0434\u0432\u0438\u043A_\u0417\u0430\u043C\u0435\u043D\u0445\u043E\u0444> ,
+		<http://yago-knowledge.org/resource/L._L._Zamenhof> ,
+		<http://yo.dbpedia.org/resource/L._L._Zamenhof> .
+@prefix dbpedia-gl:	<http://gl.dbpedia.org/resource/> .
+<http://dbpedia.org/resource/L._L._Zamenhof>	owl:sameAs	dbpedia-gl:Ludwik_Lejzer_Zamenhof ,
+		<http://dbpedia.org/resource/L._L._Zamenhof> ,
+		<http://rdf.freebase.com/ns/m.04lns> ,
+		<http://sco.dbpedia.org/resource/L._L._Zamenhof> .
+@prefix dbpedia-la:	<http://la.dbpedia.org/resource/> .
+<http://dbpedia.org/resource/L._L._Zamenhof>	owl:sameAs	dbpedia-la:Ludovicus_Lazarus_Zamenhof ,
+		<http://ba.dbpedia.org/resource/\u041B\u044E\u0434\u0432\u0438\u043A_\u041B\u0430\u0437\u0430\u0440\u044C_\u0417\u0430\u043C\u0435\u043D\u04BB\u043E\u0444> .
+@prefix dbpedia-hr:	<http://hr.dbpedia.org/resource/> .
+<http://dbpedia.org/resource/L._L._Zamenhof>	owl:sameAs	dbpedia-hr:Lazar_Ludvig_Zamenhof .
+@prefix ns60:	<http://vec.dbpedia.org/resource/> .
+<http://dbpedia.org/resource/L._L._Zamenhof>	owl:sameAs	ns60:Ludwik_Lejzer_Zamenhof ,
+		<http://az.dbpedia.org/resource/L\u00FCdviq_Lazar_Zamenhof> .
+@prefix dbpedia-fy:	<http://fy.dbpedia.org/resource/> .
+<http://dbpedia.org/resource/L._L._Zamenhof>	owl:sameAs	dbpedia-fy:Ludwik_Lejzer_Zamenhof ,
+		<http://si.dbpedia.org/resource/\u0D91\u0DBD\u0DCA._\u0D91\u0DBD\u0DCA._\u0DC3\u0DCF\u0DB8\u0DD9\u0DB1\u0DCA\u0DC4\u0DDC\u0DC6\u0DCA> .
+@prefix georss:	<http://www.georss.org/georss/> .
+<http://dbpedia.org/resource/L._L._Zamenhof>	georss:point	"52.2475 20.974722222222223" ;
+	schema:sameAs	<http://viaf.org/viaf/73885295> ;
+	dbp:commons	"Ludwik Lejzer Zamenhof"@en ;
+	dbp:q	"Ludoviko Lazaro Zamenhof"@en ;
+	dbp:s	"Author:Ludwik Lejzer Zamenhof"@en ;
+	dbp:v	"no"@en ;
+	dbp:wikt	"zamenhofa"@en ;
+	dbo:spouse	dbr:Klara_Zamenhof .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+<http://dbpedia.org/resource/L._L._Zamenhof>	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/L._L._Zamenhof?oldid=985382776&ns=0> ;
+	dbo:knownFor	dbr:Esperanto ;
+	dbp:nationality	dbr:Poland ;
+	dbo:nationality	dbr:Poland ;
+	dbp:signature	"Originala Verkaro-L L Zamenhof signature.svg"@en ;
+	dbp:n	"no"@en ;
+	dbo:stateOfOrigin	dbr:Poland ;
+	dbp:knownFor	"Creator of Esperanto"@en ;
+	dbp:father	"Markus Zamenhof"@en ;
+	dbp:mother	"Rozalia Zamenhof"@en ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Zamenhof_subskribo.svg?width=300> ;
+	dbo:deathPlace	dbr:Warsaw ,
+		<http://dbpedia.org/resource/Kingdom_of_Poland_(1917\u20131918)> ;
+	dbp:deathPlace	dbr:Warsaw ,
+		<http://dbpedia.org/resource/Kingdom_of_Poland_(1917\u20131918)> ;
+	dbo:birthPlace	dbr:Russian_Empire ,
+		<http://dbpedia.org/resource/Bia\u0142ystok> ,
+		dbr:Belostok_Oblast ;
+	dbp:birthPlace	""@en ,
+		"Belostok, Belostok Oblast, Russian Empire"@en ;
+	dbo:wikiPageID	18100 ;
+	dbo:wikiPageRevisionID	985382776 ;
+	dbo:wikiPageWikiLink	dbr:Hungary ,
+		dbr:World_Esperanto_Congress ,
+		dbr:The_Ludwik_Zamenhof_Centre ,
+		dbr:Russian_Empire ,
+		dbr:International_Peace_Bureau ,
+		dbr:Imperial_Moscow_University ,
+		dbr:Belarusian_language ,
+		dbr:Israel ,
+		<http://dbpedia.org/resource/File:L.Zamenhof.jpg> ,
+		dbr:Lithuania ,
+		<http://dbpedia.org/resource/File:Ludwik_Zamenhof_speaking.ogg> ,
+		<http://dbpedia.org/resource/File:Zamenhof-1879.jpg> ,
+		dbr:Nikolai_Afrikanovich_Borovko ,
+		dbc:Esperanto_speaking_Jews ,
+		dbc:Translators_of_the_Bible_into_Esperanto ,
+		<http://dbpedia.org/resource/File:1905-uk-z-m.jpg> ,
+		<http://dbpedia.org/resource/File:1910-Universo-p322-llzdet.jpg> ,
+		dbr:Vladimir_Gernet ,
+		dbr:Zamenhofia ,
+		<http://dbpedia.org/resource/File:Zamenhof_Statue_Budapest.jpg> ,
+		dbr:Nikolai_Vasilyevich_Blazhkov .
+@prefix ns64:	<http://dbpedia.org/resource/S:eo:> .
+<http://dbpedia.org/resource/L._L._Zamenhof>	dbo:wikiPageWikiLink	ns64:La_revizoro ,
+		<http://dbpedia.org/resource/S:eo:Malnova_Testamento_(Zamenhof)> ,
+		dbc:Translators_of_William_Shakespeare ,
+		dbr:Ophthalmology ,
+		dbr:Catholic_Church ,
+		dbr:Tel_Aviv ,
+		dbr:Hebrew_language ,
+		dbr:Lithuanian_Jews ,
+		dbr:Lithuanian_language ,
+		dbr:Poland ,
+		<http://dbpedia.org/resource/Yrj\u00F6_V\u00E4is\u00E4l\u00E4> ,
+		dbr:UNESCO ,
+		dbr:Warsaw ,
+		dbr:Latin ,
+		dbr:Danube ,
+		dbr:Nobel_Peace_Prize ,
+		dbr:Czech_Republic ,
+		dbr:Croatia ,
+		dbr:Grand_Duchy_of_Lithuania ,
+		dbr:The_Holocaust ,
+		dbr:Ashkenazi_Jews ,
+		<http://dbpedia.org/resource/Bah\u00E1\u02BCu\u0027ll\u00E1h> ,
+		dbr:Zionism ,
+		dbr:Treaties_of_Tilsit ,
+		dbr:Michael_Chabon ,
+		dbr:Iphigenia_in_Tauris ,
+		dbc:Constructed_language_creators ,
+		dbc:Polish_inventors ,
+		dbr:The_New_Republic ,
+		dbr:Veisiejai ,
+		dbr:Russian_Orthodox_Church ,
+		<http://dbpedia.org/resource/Philip_Snowden,_1st_Viscount_Snowden> ,
+		<http://dbpedia.org/resource/File:Unua_Libro_ru_1st_ed.pdf> ,
+		<http://dbpedia.org/resource/Jewish_Cemetery,_Warsaw> ,
+		<http://dbpedia.org/resource/Jewish_Heritage_Trail_in_Bia\u0142ystok> ,
+		dbr:Adam_Zamenhof ,
+		dbr:Old_Testament ,
+		dbr:Patronymic ,
+		<http://dbpedia.org/resource/The_Yiddish_Policemen\u0027s_Union> ,
+		dbr:Odessa ,
+		dbr:Germans ,
+		<http://dbpedia.org/resource/Category:People_from_Bia\u0142ystok> ,
+		dbc:Translators_of_Johann_Wolfgang_von_Goethe ,
+		dbr:Jews ,
+		<http://dbpedia.org/resource/Volap\u00FCk> ,
+		dbr:Catalonia ,
+		dbc:Articles_containing_video_clips ,
+		dbr:The_Robbers ,
+		<http://dbpedia.org/resource/Bah\u00E1\u02BC\u00ED_Faith> ,
+		dbr:Brazil ,
+		dbr:Friedrich_Schiller ,
+		dbr:Minor_planet ,
+		<http://dbpedia.org/resource/Category:Commandeurs_of_the_L\u00E9gion_d\u0027honneur> ,
+		<http://dbpedia.org/resource/Lingvo_Internacia_(periodical)> ,
+		<http://dbpedia.org/resource/University_of_Bia\u0142ystok> ,
+		dbr:Eye ,
+		<http://dbpedia.org/resource/Category:1917_deaths> ,
+		<http://dbpedia.org/resource/Category:1859_births> ,
+		dbr:Nikolai_Gogol ,
+		dbc:Imperial_Russian_inventors ,
+		dbr:Yiddish ,
+		dbr:Marjorie_Boulton ,
+		dbc:Imperial_Russian_Jews ,
+		dbr:List_of_Polish_people ,
+		dbr:Proto-Esperanto ,
+		dbr:Francis_Lodwick ,
+		dbr:Unua_Libro ,
+		dbr:Belarusians ,
+		dbr:Zamenhof_Day ,
+		dbr:Congress_Poland ,
+		dbr:Zofia_Zamenhof ,
+		<http://dbpedia.org/resource/Bia\u0142ystok> ,
+		dbc:People_from_Belostoksky_Uyezd ,
+		dbr:Zamenhof-Esperanto_object ,
+		dbr:Kaunas ,
+		dbr:Aramaic ,
+		dbr:Esperanto ,
+		dbr:Lichen ,
+		dbr:Martha_Root ,
+		dbr:Ivan_Minekov ,
+		dbr:Cannes ,
+		dbr:English_language ,
+		<http://dbpedia.org/resource/P\u0142ock> ,
+		dbr:Grodno_Governorate ,
+		dbr:Louis-Christophe_Zaleski-Zamenhof ,
+		dbr:Belostok_Oblast ,
+		dbr:William_Shakespeare ,
+		<http://dbpedia.org/resource/Category:19th-century_translators> ,
+		dbr:Oomoto ,
+		dbr:Esperanto_symbols ,
+		dbr:Intercultural_communication ,
+		dbr:German_language ,
+		dbr:Hillel_the_Elder ,
+		<http://dbpedia.org/resource/Lernu!> ,
+		dbr:Declaration_of_Boulogne ,
+		dbr:Constructed_language ,
+		dbr:Fundamento_de_Esperanto ,
+		dbr:Hebrew_Bible ,
+		<http://dbpedia.org/resource/1421_Esperanto> ,
+		<http://dbpedia.org/resource/1462_Zamenhof> ,
+		dbr:Lidia_Zamenhof ,
+		<http://dbpedia.org/resource/Ho,_mia_kor\u0027> ,
+		dbr:History_of_Esperanto ,
+		dbr:The_Life_of_Zamenhof ,
+		<http://dbpedia.org/resource/James_O\u0027Grady> ,
+		dbr:French_language ,
+		dbr:Johann_Wolfgang_von_Goethe ,
+		dbr:Stoke-on-Trent ,
+		dbr:International_auxiliary_language ,
+		dbr:Poles ,
+		dbr:Polish_language ,
+		<http://dbpedia.org/resource/Samuel_Abraham_Pozna\u0144ski> ,
+		dbr:Hovevei_Zion ,
+		dbr:Charles_Dickens ,
+		dbr:Russification ,
+		dbr:Dua_Libro ,
+		dbr:Russian_language ,
+		dbr:Russians ,
+		dbc:Commanders_of_the_Order_of_Isabella_the_Catholic ,
+		dbc:Linguists_from_Poland ,
+		dbr:Order_of_Isabella_the_Catholic ,
+		dbr:La_Revuo ,
+		dbr:Linguistics ,
+		dbr:Eliza_Orzeszkowa ,
+		dbc:Grammarians_of_Yiddish ,
+		<http://dbpedia.org/resource/Great_Synagogue_(Warsaw)> ,
+		dbr:The_Battle_of_Life ,
+		dbc:Polish_ophthalmologists ,
+		dbr:Adolf_Holzhaus ,
+		dbc:Esperanto_history ,
+		dbc:Esperanto_literature ,
+		dbr:Legion_of_Honour ,
+		<http://dbpedia.org/resource/J\u00F3zef_Gos\u0142awski_(sculptor)> ,
+		dbr:La_Esperantisto ,
+		dbr:La_Espero ,
+		dbr:Alfonso_XIII ,
+		<http://dbpedia.org/resource/Kingdom_of_Poland_(1917\u20131918)> ,
+		dbc:Jewish_inventors ,
+		<http://dbpedia.org/resource/Lazarus_(name)> ,
+		dbc:Polish_Esperantists ,
+		dbc:Polish_Jews ,
+		dbr:Klara_Zamenhof ,
+		dbr:Google ,
+		dbr:The_Jewish_Encyclopedia ,
+		dbr:Pogrom ,
+		dbr:The_Government_Inspector ,
+		dbr:Hamlet ;
+	dbo:wikiPageExternalLink	<http://esperanto.davidgsimpson.com/inko/100-3.pdf> ,
+		<http://www.gutenberg.org/ebooks/37279> ,
+		<http://www.esperanto.mv.ru/Hilelismo/index_e.html> ,
+		<https://web.archive.org/web/20120222093109/http:/www.esperantic.org/dosieroj/file/LLZ-Bio-En(1).pdf> ,
+		<https://web.archive.org/web/20081031103037/http:/www.ima.org.il/imaj/ar07may-2.pdf> ,
+		<https://www.gutenberg.org/files/8224/8224-h/8224-h.htm> ,
+		<http://culture.pl/en/article/9-things-you-need-to-know-about-esperanto-its-creator> .
+@prefix ns65:	<http://www.tnr.com/print/article/books-and-arts/> .
+<http://dbpedia.org/resource/L._L._Zamenhof>	dbo:wikiPageExternalLink	ns65:ll-zamenhof-and-the-shadow-people ,
+		<http://www.jewishencyclopedia.com/view.jsp%3Fartid=20&letter=Z> ,
+		<https://www.odessitclub.org/index.php/novosti-i-publikatsii/2983-lyudvik-zamengof-oni-ostavili-sled-v-istorii-odessy> ,
+		<https://books.google.com/books/about/La_Rabistoj.html%3Fid=kZw1urfwzu8C> ,
+		<http://homarano.narod.ru/Windows/homar_e.htm> ,
+		<http://www.ipernity.com/doc/esperanto-muzeo-svitavy/40592976> ,
+		<https://web.archive.org/web/20091220071153/http:/en.lernu.net/biblioteko/pri_esperanto/zamenhof/index.php> ,
+		<http://joaojosesantos.net/html/pdf/zamenhofo_esenco_kaj_estonteco_de_la_lingvo_internacia.pdf> .
+@prefix ns66:	<https://zamenhof.info/en/> .
+<http://dbpedia.org/resource/L._L._Zamenhof>	dbo:wikiPageExternalLink	ns66:biografio ,
+		<http://www.ima.org.il/imaj/ar07may-2.pdf> .
+@prefix ns67:	<https://archive.org/details/> .
+<http://dbpedia.org/resource/L._L._Zamenhof>	dbo:wikiPageExternalLink	ns67:peoplesalmanac00wall .
+@prefix dbt:	<http://dbpedia.org/resource/Template:> .
+<http://dbpedia.org/resource/L._L._Zamenhof>	dbp:wikiPageUsesTemplate	dbt:Reflist ,
+		dbt:Short_description ,
+		dbt:HathiTrust ,
+		dbt:Internet_Archive_author ,
+		dbt:Gutenberg_author ,
+		dbt:Librivox_author ,
+		dbt:Cite_encyclopedia ,
+		dbt:Cite_journal ,
+		dbt:Age ,
+		dbt:Cite_book ,
+		dbt:Esperanto_sidebar ,
+		dbt:IPA-eo ,
+		dbt:IPA-fr ,
+		dbt:Ill ,
+		dbt:Coord ,
+		dbt:Main ,
+		dbt:IPA-pl ,
+		dbt:IPAc-en ,
+		dbt:Infobox_writer ,
+		dbt:ISBN ,
+		dbt:Use_dmy_dates ,
+		dbt:Refbegin ,
+		dbt:Refend ,
+		dbt:OldStyleDate ,
+		dbt:IPA-de ,
+		dbt:Sister_project_links ,
+		dbt:Redirect ,
+		dbt:Authority_control ,
+		dbt:Infobox_person ;
+	dbp:birthDate	"--12-15"^^xsd:gMonthDay ;
+	dbp:birthName	"Eliezer Levi Zamenhof"@en ;
+	dbp:caption	"L. L. Zamenhof, 1908"@en ;
+	dbp:children	"Adam, Zofia, and Lidia"@en ;
+	dbp:deathDate	"--04-14"^^xsd:gMonthDay ;
+	dbp:occupation	"Eye doctor"@en ,
+		"linguist"@en ,
+		"scholar"@en ,
+		""@en ;
+	dbp:spouse	dbr:Klara_Zamenhof ;
+	dbo:abstract	"\u8DEF\u5FB7\u7EF4\u514B\u00B7\u62C9\u624E\u5C14\u00B7\u67F4\u95E8\u970D\u592B\uFF08Ludwik Lejzer Zamenhof\uFF0C1859\u5E7412\u670815\u65E5\uFF0D1917\u5E744\u670814\u65E5\uFF09\uFF0C\u6CE2\u5170\u7C4D\u72B9\u592A\u4EBA\uFF0C\u4E16\u754C\u8BED\u7684\u521B\u59CB\u4EBA\u3002"@zh ,
+		"\u041B\u0430\u0301\u0437\u0430\u0440\u044C \u041C\u0430\u0301\u0440\u043A\u043E\u0432\u0438\u0447 \u0417\u0430\u043C\u0435\u043D\u0433\u043E\u0444 \u0438\u043B\u0438 \u041B\u044E\u0301\u0434\u0432\u0438\u043A \u041B\u0430\u0301\u0437\u0430\u0440\u044C \u0417\u0430\u0301\u043C\u0435\u043D\u0433\u043E\u0444 (\u0438\u0434\u0438\u0448 \u200F\u05DC\u05F2\u05D6\u05E2\u05E8 \u05DC\u05D5\u05D9 \u05D6\u05D0\u05B7\u05DE\u05E2\u05E0\u05D4\u05D0\u05B8\u05E3\u200F\u200E \u2014 \u041B\u0435\u0439\u0437\u0435\u0440 \u041B\u0435\u0439\u0432\u0438 \u0417\u0430\u043C\u0435\u043D\u0433\u043E\u0444; \u043F\u043E\u043B\u044C\u0441\u043A. Ludwik Lejzer Zamenhof; \u044D\u0441\u043F\u0435\u0440. Ludoviko Lazaro Zamenhof; 3 [15] \u0434\u0435\u043A\u0430\u0431\u0440\u044F 1859, \u0411\u0435\u043B\u043E\u0441\u0442\u043E\u043A, \u0420\u043E\u0441\u0441\u0438\u0439\u0441\u043A\u0430\u044F \u0438\u043C\u043F\u0435\u0440\u0438\u044F \u2014 1 [14] \u0430\u043F\u0440\u0435\u043B\u044F 1917, \u0412\u0430\u0440\u0448\u0430\u0432\u0430, \u0420\u043E\u0441\u0441\u0438\u0439\u0441\u043A\u0430\u044F \u0438\u043C\u043F\u0435\u0440\u0438\u044F)\u2014 \u043F\u043E\u043B\u044C\u0441\u043A\u0438\u0439 \u0432\u0440\u0430\u0447-\u043E\u043A\u0443\u043B\u0438\u0441\u0442 \u0438 \u043B\u0438\u043D\u0433\u0432\u0438\u0441\u0442, \u0438\u0437\u0432\u0435\u0441\u0442\u0435\u043D \u043A\u0430\u043A \u0441\u043E\u0437\u0434\u0430\u0442\u0435\u043B\u044C \u044D\u0441\u043F\u0435\u0440\u0430\u043D\u0442\u043E \u2014 \u043D\u0430\u0438\u0431\u043E\u043B\u0435\u0435 \u0443\u0441\u043F\u0435\u0448\u043D\u043E\u0433\u043E \u0438\u0437 \u0441\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u043D\u044B\u0445 \u043C\u0435\u0436\u0434\u0443\u043D\u0430\u0440\u043E\u0434\u043D\u044B\u0445 \u044F\u0437\u044B\u043A\u043E\u0432. \u0422\u0430\u043A\u0436\u0435 \u0438\u0437\u0432\u0435\u0441\u0442\u0435\u043D \u043F\u043E \u043F\u0441\u0435\u0432\u0434\u043E\u043D\u0438\u043C\u0443 \u0414\u043E\u0301\u043A\u0442\u043E\u0440 \u042D\u0441\u043F\u0435\u0440\u0430\u0301\u043D\u0442\u043E (\u0442\u043E \u0435\u0441\u0442\u044C \u00AB\u041D\u0430\u0434\u0435\u044E\u0449\u0438\u0439\u0441\u044F\u00BB), \u043F\u043E\u0434 \u043A\u043E\u0442\u043E\u0440\u044B\u043C \u043E\u043D \u043E\u043F\u0443\u0431\u043B\u0438\u043A\u043E\u0432\u0430\u043B \u0432 1887 \u0433\u043E\u0434\u0443 \u0441\u0432\u043E\u044E \u0440\u0430\u0431\u043E\u0442\u0443 \u00AB\u041C\u0435\u0436\u0434\u0443\u043D\u0430\u0440\u043E\u0434\u043D\u044B\u0439 \u044F\u0437\u044B\u043A\u00BB, \u0432\u043A\u043B\u044E\u0447\u0430\u044E\u0449\u0443\u044E \u043E\u043F\u0438\u0441\u0430\u043D\u0438\u0435 \u044F\u0437\u044B\u043A\u0430 \u0438 \u0443\u0447\u0435\u0431\u043D\u0438\u043A."@ru ,
+		"Ludwik Lejzer Zamenhof (em polon\u00EAs/polaco:  Ludwik \u0141azarz Zamenhof; em Esperanto, Ludoviko Lazaro Zamenhof (raramente Zamenhofo); em portugu\u00EAs, Lu\u00EDs L\u00E1zaro Zamenhof) (Bia\u0142ystok, 15 de dezembro de 1859 \u2014 Vars\u00F3via, 14 de abril de 1917) foi um oftalmologista polon\u00EAs-judeu. Ele foi o criador do esperanto, a l\u00EDngua artificial mais falada e bem sucedida no mundo. Seus idiomas nativos eram o russo, i\u00EDdiche e polon\u00EAs, mas ele tamb\u00E9m era fluente em alem\u00E3o. Posteriormente aprendeu franc\u00EAs, latim, grego, hebraico e ingl\u00EAs al\u00E9m de se interessar por italiano, espanhol e lituano. Zamenhof preferia ser chamado de o iniciador do Esperanto, pois ele considerava que havia dado apenas o passo inicial de um projeto maior, um projeto a ser desenvolvido por um conjunto grande de pessoas."@pt ,
+		"Ludwik \u0141azarz Zamenhof, w\u0142a\u015Bciwie Eliezer Lewi Samenhof (jid. \u05DC\u05F2\u05D6\u05E2\u05E8 \u05DC\u05D5\u05D9 \u05D6\u05D0\u05B7\u05DE\u05E2\u05E0\u05D4\u05D0\u05B8\u05E3, esp. Ludoviko Lazaro Zamenhof; ur. 15 grudnia 1859 w Bia\u0142ymstoku, zm. 14 kwietnia 1917 w Warszawie) \u2013 polski lekarz okulista \u017Cydowskiego pochodzenia, inicjator esperanto; o\u015Bmiokrotnie nominowany do Pokojowej Nagrody Nobla (1907, 1909, 1910, 1913, 1914, 1915, 1916, 1917)."@pl ,
+		"Ludwik Lejzer Zamenhof (en polaco, Ludwik \u0141azarz Zamenhof) o simplemente L. L. Zamenhof (Bia\u0142ystok, hoy Polonia, entonces Imperio ruso, 15 de diciembre de 1859-Varsovia, Polonia, 14 de abril de 1917) fue un m\u00E9dico oftalm\u00F3logo polaco y creador de la lengua auxiliar planificada esperanto. Fue nominado doce veces al Premio Nobel de la Paz.\u200B Recibi\u00F3 el nombre hebreo de Eliezer, transcrito en los documentos como Lejzer, un nombre polonizado. Siguiendo la costumbre, utilizaba tambi\u00E9n un segundo nombre no jud\u00EDo con la misma inicial, Ludwik. Fue a la escuela de Bia\u0142ystok entre 1869 y 1873, y desde diciembre de 1873 hasta julio de 1879 al Instituto Alem\u00E1n de Varsovia. Despu\u00E9s de dos a\u00F1os de estudio en la  y cuatro en la de Varsovia, recibi\u00F3 su t\u00EDtulo de m\u00E9dico en la especialidad de oftalmolog\u00EDa, que termin\u00F3 de cursar en Viena (1886). Su abuelo, Fabian Zamenhof, fue traductor y profesor de lenguas, y su padre, Mordechai Mark Zamenhof, ejerci\u00F3 como profesor de alem\u00E1n y franc\u00E9s. El joven Zamenhof ten\u00EDa un talento especial para los idiomas; sus lenguas maternas eran el polaco, el ruso y el yidis o judeoalem\u00E1n, pero siempre consider\u00F3 el ruso su idioma nativo (solo en \u00E9l y en esperanto escribi\u00F3 poes\u00EDa). Tambi\u00E9n hablaba alem\u00E1n con fluidez; posteriormente aprendi\u00F3 franc\u00E9s, griego, hebreo, ingl\u00E9s y lat\u00EDn. De espa\u00F1ol, italiano y algunos otros idiomas, solo ten\u00EDa conocimientos b\u00E1sicos. Este poliglotismo era solo el reflejo de las condiciones en que viv\u00EDa y que no pudieron dejar de influir en el pensamiento de un joven sensible. En 1898 se instal\u00F3 definitivamente en Varsovia, donde ejerci\u00F3 hasta su muerte. La profesi\u00F3n m\u00E9dica le proporcion\u00F3 muchos m\u00E1s sinsabores que beneficios; debido a la pobreza de sus clientes, ten\u00EDa que visitar diariamente entre treinta y cuarenta pacientes, a pesar de lo cual ganaba solo lo justo para garantizar una vida modesta a su familia."@es ,
+		"Ludv\u00EDk Lazar Zamenhof (pol. Ludwik \u0141azarz Zamenhof) (15. prosince 1859 B\u011Blostok \u2013 14. dubna 1917 Var\u0161ava) byl o\u010Dn\u00ED l\u00E9ka\u0159, filolog a tv\u016Frce esperanta, um\u011Bl\u00E9ho jazyka ur\u010Den\u00E9ho pro mezin\u00E1rodn\u00ED komunikaci."@cs ,
+		"Ludwik Lejzer Zamenhof [za\u02C8m\u025Bnh\u0254f] (geboren als Eliezer Levi Samenhof; deutsch auch Ludwig Lazarus Samenhof und Ludwig L. Zamenhof, polnisch Ludwik \u0141azarz Zamenhof, Esperanto: Ludoviko Lazaro Zamenhof; * 3. Dezemberjul./ 15. Dezember 1859greg. in Bia\u0142ystok; \u2020 14. April 1917 in Warschau) war ein polnischer Augenarzt in Warschau (zu Lebzeiten Zamenhofs Weichselland, zum Russischen Reich geh\u00F6rig, heute Polen). Er begr\u00FCndete 1887 unter dem Pseudonym Doktoro Esperanto (deutsch: Doktor Hoffender) die Plansprache Esperanto. Sein Geburtstag wird heute von Esperanto-Sprechern als Zamenhoftag gefeiert."@de ,
+		"L. L. Zamenhof (naskita kiel \u041B\u0435\u0439\u0437\u0435\u0440\u044A \u0417\u0430\u043C\u0435\u043D\u0433\u043E\u0432 (Lejzer Zamenhov) kaj oficiale nomita \u041B\u0430\u0437\u0430\u0440\u044C \u041C\u0430\u0440\u043A\u043E\u0432\u0438\u0447 \u0417\u0430\u043C\u0435\u043D\u0433\u043E\u0444\u044A (Lazar Markovi\u0109 Zamenhof); esperante, tradicie konata kiel Ludoviko Lazaro Zamenhof a\u016D Lazaro Ludoviko Zamenhof; malofte Zamenhofo; (naski\u011Dis la 15-an de decembro 1859 en Bjalistoko, mortis la 14-an de aprilo 1917 en Varsovio). Li estis la iniciatinto/iniciatoro de la lingvo Esperanto. La\u016D profesio li estis okulkuracisto. Li estis 14-foje kandidatigita por la Nobel-premio pri paco."@eo ,
+		"\u039F \u039B\u03BF\u03C5\u03B4\u03BF\u03B2\u03AF\u03BA\u03BF\u03C2 \u039B\u03AC\u03B6\u03B1\u03C1\u03BF\u03C2 \u0396\u03B1\u03BC\u03AD\u03BD\u03C7\u03BF\u03C6 (\u03C0\u03BF\u03BB\u03C9\u03BD\u03B9\u03BA\u03AC: Ludwik \u0141azarz Zamenhof\u200E, 15 \u0394\u03B5\u03BA\u03B5\u03BC\u03B2\u03C1\u03AF\u03BF\u03C5 1859 \u2013 14 \u0391\u03C0\u03C1\u03B9\u03BB\u03AF\u03BF\u03C5 1917) \u03AE\u03C4\u03B1\u03BD \u03A0\u03BF\u03BB\u03C9\u03BD\u03CC\u03C2-\u0395\u03B2\u03C1\u03B1\u03AF\u03BF\u03C2 \u03BF\u03C6\u03B8\u03B1\u03BB\u03BC\u03BF\u03BB\u03CC\u03B3\u03BF\u03C2, \u03C6\u03B9\u03BB\u03CC\u03BB\u03BF\u03B3\u03BF\u03C2 \u03BA\u03B1\u03B9 \u03BF \u03B5\u03BC\u03C0\u03BD\u03B5\u03C5\u03C3\u03C4\u03AE\u03C2 \u03C4\u03B7\u03C2 \u0395\u03C3\u03C0\u03B5\u03C1\u03AC\u03BD\u03C4\u03BF, \u03C4\u03B7\u03C2 \u03C0\u03BB\u03AD\u03BF\u03BD \u03B4\u03B7\u03BC\u03BF\u03C6\u03B9\u03BB\u03BF\u03CD\u03C2 \u03C4\u03B5\u03C7\u03BD\u03B7\u03C4\u03AE\u03C2 \u03B3\u03BB\u03CE\u03C3\u03C3\u03B1\u03C2 \u03BC\u03AD\u03C7\u03C1\u03B9 \u03C3\u03AE\u03BC\u03B5\u03C1\u03B1. \u039F\u03B9 \u03BC\u03B7\u03C4\u03C1\u03B9\u03BA\u03AD\u03C2 \u03C4\u03BF\u03C5 \u03B3\u03BB\u03CE\u03C3\u03C3\u03B5\u03C2 \u03AE\u03C4\u03B1\u03BD \u03C4\u03B1 \u03A0\u03BF\u03BB\u03C9\u03BD\u03B9\u03BA\u03AC, \u03A1\u03CE\u03C3\u03B9\u03BA\u03B1 \u03BA\u03B1\u03B9 \u03C4\u03B1 \u0395\u03B2\u03C1\u03B1\u03CA\u03BA\u03AC \u03B1\u03BD\u03B1\u03C4\u03BF\u03BB\u03B9\u03BA\u03AE\u03C2 \u0395\u03C5\u03C1\u03CE\u03C0\u03B7\u03C2 \u03B1\u03BB\u03BB\u03AC \u03BC\u03B9\u03BB\u03BF\u03CD\u03C3\u03B5 \u03BC\u03B5 \u03B5\u03C5\u03C7\u03AD\u03C1\u03B5\u03B9\u03B1 \u03B5\u03C0\u03AF\u03C3\u03B7\u03C2 \u0393\u03B5\u03C1\u03BC\u03B1\u03BD\u03B9\u03BA\u03AC. \u0391\u03C1\u03B3\u03CC\u03C4\u03B5\u03C1\u03B1 \u03AD\u03BC\u03B1\u03B8\u03B5 \u0393\u03B1\u03BB\u03BB\u03B9\u03BA\u03AC, \u0395\u03BB\u03BB\u03B7\u03BD\u03B9\u03BA\u03AC, \u039B\u03B1\u03C4\u03B9\u03BD\u03B9\u03BA\u03AC, \u0395\u03B2\u03C1\u03B1\u03CA\u03BA\u03AC \u03BA\u03B1\u03B9 \u0391\u03B3\u03B3\u03BB\u03B9\u03BA\u03AC, \u03B5\u03BD\u03CE \u03B1\u03BD\u03AD\u03C0\u03C4\u03C5\u03BE\u03B5 \u03B5\u03BD\u03B4\u03B9\u03B1\u03C6\u03AD\u03C1\u03BF\u03BD \u03BA\u03B1\u03B9 \u03B3\u03B9\u03B1 \u03C4\u03B1 \u0399\u03C4\u03B1\u03BB\u03B9\u03BA\u03AC, \u0399\u03C3\u03C0\u03B1\u03BD\u03B9\u03BA\u03AC \u03BA\u03B1\u03B9 \u039B\u03B9\u03B8\u03BF\u03C5\u03B1\u03BD\u03B9\u03BA\u03AC."@el ,
+		"Ludwig Lejzer Zamenhof (polska: Ludwik \u0141azarz Zamenhof), ocks\u00E5 k\u00E4nd som: Doktoro Esperanto, f\u00F6dd 15 december 1859 i Bia\u0142ystok i d\u00E5tida Kejsard\u00F6met Ryssland (i nuvarande Polen), d\u00F6d 14 april 1917 i Warszawa i Rysslands tyskockuperade del (i nuvarande Polen), var en polsk-judisk \u00F6gonl\u00E4kare och spr\u00E5kforskare och skaparen av esperanto, det planspr\u00E5k som har den st\u00F6rsta utbredningen i v\u00E4rlden."@sv ,
+		"Ludwik Lejzer Zamenhof (polonieraz: Ludwik \u0141azarz Zamenhof), ezizenez Doktoro Esperanto (Bialystok, Errusiar Inperioa \u2014gaur egun, Polonia\u2014 1859ko abenduaren 15agreg./abenduaren 3ajul. - Varsovia, Polonia, 1917ko apirilaren 14agreg./apirilaren 1ajul.) hizkuntzalaria eta okulista izan zen. 1873an, nazioarterako hizkuntza bat asmatu zuen. Bere asmoa mundu guztiak bigarren hizkuntza gisa ikasi ahal izatea zen, horrela ama-hizkuntza desberdineko jendeak elkar uler zezan. Hasieran, adiskide artean erabili zuen, baina 1887an, Doktoro Esperanto ezizenarekin zabaldu eta azaldu zuen. Hortik datorkio berak asmatutako hizkuntzari \u00ABesperanto\u00BB izena. Hainbat itzulpen egin zituen hizkuntza horretara."@eu ,
+		"\u041B\u044E\u0301\u0434\u0432\u0456\u043A \u041B\u0430\u0301\u0437\u0430\u0440 \u0417\u0430\u0301\u043C\u0435\u043D\u0433\u043E\u0444 (\u0435\u0441\u043F. Ludoviko Lazaro Zamenhofo, \u043F\u043E\u043B. Ludwik \u0141azarz Zamenhof; 15 \u0433\u0440\u0443\u0434\u043D\u044F 1859, \u0411\u0456\u043B\u043E\u0441\u0442\u043E\u043A \u2014 14 \u043A\u0432\u0456\u0442\u043D\u044F 1917, \u0412\u0430\u0440\u0448\u0430\u0432\u0430) \u2014 \u043F\u043E\u043B\u044C\u0441\u044C\u043A\u0438\u0439 \u043B\u0456\u043A\u0430\u0440 \u0456 \u043B\u0456\u043D\u0433\u0432\u0456\u0441\u0442, \u0442\u0432\u043E\u0440\u0435\u0446\u044C \u0448\u0442\u0443\u0447\u043D\u043E\u0457 \u043C\u043E\u0432\u0438 \u0435\u0441\u043F\u0435\u0440\u0430\u043D\u0442\u043E."@uk ,
+		"Ludwik Lejzer Zamenhof (Esperanto: Ludoviko Lazaro Zamenhof; Yiddish: \u05D0\u05DC\u05D9\u05E2\u05D6\u05E8 \u05DC\u05D5\u05D3\u05D5\u05D5\u05D9\u05D2 \u05D6\u05D0\u05B7\u05DE\u05E2\u05E0\u05D4\u05D0\u05B8\u05E3\u200E\u200E; 15 December [O.S. 3 December] 1859 \u2013 14 April [O.S. 1 April] 1917) was a Polish ophthalmologist, linguist and the inventor of the international language Esperanto, the most widely used constructed international auxiliary language in the world. Zamenhof first developed the language in 1873 while still in school. He grew up fascinated by the idea of a world without war. He believed that this could happen with the help of a new international auxiliary language. The language would be a tool to gather people together through neutral, fair, equitable communication. He successfully formed a community that continues today despite the World Wars of the 20th century. Also, it has developed like other languages, through the interaction and creativity of its users. In light of his achievements, and his support of intercultural dialogue, UNESCO selected Zamenhof as one of its eminent personalities of 2017, on the 100th anniversary of his death."@en ,
+		"S\u00FAil-lia agus teangeola\u00ED ab ea an Dr Ludwik Lejzer Zamenhof (Ludwik \u0141azarz) (gaelaithe mar L.L.Saman\u00F3f), a bhaist an teanga idirn\u00E1isi\u00FAnta Esperanto, \"teanga an d\u00F3chais\". Gi\u00FAdach Polannach ab ea Zamenhof. Chuir an ts\u00EDorchoimhlint de dheasca m\u00EDthuisceana bunaithe ar \u00E9ags\u00FAlacht na dteangacha, ina chathair dh\u00FAchais, , isteach go m\u00F3r air agus \u00E9 ina ph\u00E1iste \u00F3g. Cathair an-ilteangach ba ea Bialystok: de r\u00E9ir dhaon\u00E1ireamh na bliana 1897, seo mar a bh\u00ED catag\u00F3ir\u00ED an daonra: Gi\u00FAdaigh 66%, Polannaigh 18%, R\u00FAisigh 8%, Gearm\u00E1naigh 6%, B\u00E9alar\u00FAisigh 2%. Mar sin bh\u00ED c\u00FAig theanga le cloiste\u00E1il go laeth\u00FAil sa chathair, nach raibh m\u00F3r\u00E1n thar 30,000 duine ina gc\u00F3na\u00ED inti an tr\u00E1th sin."@ga ,
+		"Ludwik Lejzer (\u0141azarz) Zamenhof (Bia\u0142ystok, 15 dicembre 1859 \u2013 Varsavia, 14 aprile 1917) \u00E8 stato un medico, linguista e glottoteta polacco.\u00C8 universalmente noto per aver fondato le basi dell'esperanto, la lingua ausiliaria internazionale pi\u00F9 parlata al mondo. Il suo nome viene a volte italianizzato in Ludovico Lazzaro Zamenhof. Il 26 luglio 1887 pubblic\u00F2 l'Unua Libro, il primo libro in lingua esperanto. Da questo momento la sua attivit\u00E0 si divise tra il lavoro di oculista, per mantenere la famiglia, la diffusione dell'esperanto e la costituzione di una \"religione pienamente umana\", denominata prima hilelismo, poi homaranismo. L. Zamenhof \u00E8 stato nominato 12 volte per il premio Nobel per la pace. Il nome esperanto deriva da uno dei suoi pseudonimi e significa colui che spera."@it ,
+		"Ludwik Lejzer Zamenhof, Ludwik \u0141azarz Zamenhof (Bia\u0142ystok, Imperi Rus, 15 de desembre de 1859 \u2013 Vars\u00F2via, Pol\u00F2nia, 14 d'abril de 1917; nascut Leyzer Leyvi Zamengov) va ser un oftalm\u00F2leg jueu, iniciador de l'esperanto, la llengua artificial m\u00E9s parlada fins avui. \u00C9s el pare de Lidia Zamenhof."@ca ,
+		"\uB8E8\uB3C4\uBE44\uCF54 \uB77C\uC790\uB85C \uC790\uBA58\uD638\uD504(\uD3F4\uB780\uB4DC\uC5B4: Ludwik \u0141azarz Zamenhof \uB8E8\uB4DC\uBE44\uD06C \uC640\uC790\uC2DC \uC790\uBA58\uD638\uD504[*], \uC5D0\uC2A4\uD398\uB780\uD1A0: Ludoviko Lazaro Zamenhof(o) \uB8E8\uB3C4\uBE44\uCF54 \uB77C\uC790\uB85C \uC790\uBA58\uD638\uD504, \uB7EC\uC2DC\uC544\uC5B4: \u041B\u044E\u0301\u0434\u0432\u0438\u043A \u041B\u0430\u0301\u0437\u0430\u0440\u044C \u0417\u0430\u0301\u043C\u0435\u043D\u0433\u043E\u0444 \uB958\uB4DC\uBE44\uD06C \uB77C\uC790\uB9AC \uC790\uBA58\uACE0\uD504[*], \uC774\uB514\uC2DC\uC5B4: \u05DC\u05D9\u05D9\u05D6\u05E2\u05E8 \u05D6\u05D0\u05B7\u05DE\u05E2\u05E0\u05D4\u05D0\u05B8\u05E3 \uB808\uC774\uC81C\uB974 \uC790\uBA58\uD638\uD504, 1859\uB144 12\uC6D4 15\uC77C - 1917\uB144 4\uC6D4 14\uC77C)\uB294 \uC5D0\uC2A4\uD398\uB780\uD1A0\uB97C \uCC3D\uC81C\uD55C \uD3F4\uB780\uB4DC\uC758 \uC548\uACFC \uC758\uC0AC\uC774\uB2E4."@ko ,
+		"\u30E9\u30B6\u30FC\u30ED\u30FB\u30EB\u30C9\u30F4\u30A3\u30B4\u30FB\u30B6\u30E1\u30F3\u30DB\u30D5\uFF08\u30A8\u30B9\u30DA\u30E9\u30F3\u30C8\uFF1ALazaro Ludoviko Zamenhof \u3001\u30DD\u30FC\u30E9\u30F3\u30C9\u8A9E: Ludwik \u0141azarz Zamenhof 1859\u5E7412\u670815\u65E5 - 1917\u5E744\u670814\u65E5\uFF09\u306F\u3001\u30E6\u30C0\u30E4\u7CFB\u30DD\u30FC\u30E9\u30F3\u30C9\u4EBA\u306E\u773C\u79D1\u533B\u30FB\u8A00\u8A9E\u5B66\u8005\u3067\u3001\u73FE\u5728\u306E\u3068\u3053\u308D\u6700\u3082\u5E83\u304F\u4F7F\u308F\u308C\u3066\u3044\u308B\u8A08\u753B\u7684\u306B\u4F5C\u3089\u308C\u305F\u8A00\u8A9E\u30A8\u30B9\u30DA\u30E9\u30F3\u30C8\u306E\u5275\u6848\u8005\u3002 \u672C\u540D\u306F\u30A8\u30EA\u30A8\u30BC\u30EB\u30FB\u30EC\u30F4\u30A3\u30FB\u30B6\u30E1\u30F3\u30DB\u30D5\uFF08\u30D8\u30D6\u30E9\u30A4\u8A9E\uFF1A\u05D0\u05B1\u05DC\u05B4\u05D9\u05E2\u05B6\u05D6\u05B6\u05E8 \u05DC\u05B5\u05D5\u05B4\u05D9 \u05D6\u05D0\u05B7\u05DE\u05E2\u05E0\u05D4\u05D0\u05B8\u05E3 \u3001\u30C9\u30A4\u30C4\u8A9E\u8EE2\u5199\uFF1AEliezer Lewi Samenhof \uFF09\u3002\u30D5\u30A1\u30FC\u30B9\u30C8\u30CD\u30FC\u30E0\u306F\u3001\u5C11\u5E74\u6642\u4EE3\u306F\u30A8\u30EA\u30A8\u30BC\u30EB\u306E\u30A4\u30C7\u30A3\u30C3\u30B7\u30E5\u8A9E\u5F62\u30EC\u30A4\u30BC\u30EB\uFF08Lejzer\uFF09\u3068\u305D\u306E\u30ED\u30B7\u30A2\u8A9E\u5F62\u30E9\u30FC\u30B6\u30EA\u3082\u3057\u304F\u306F\u30E9\u30FC\u30B6\u30EA\u30FB\u30DE\u30EB\u30B3\u30F4\u30A3\u30C1\uFF08\u041B\u0430\u0437\u0430\u0440\u044C (\u041C\u0430\u0440\u043A\u043E\u0432\u0438\u0447)\uFF09\u3092\u4F75\u7528\u3057\u3001\u5927\u5B66\u4EE5\u964D\u306F\u30EC\u30F4\u30A3\u306E\u6B27\u5DDE\u8A9E\u4EE3\u7528\u540D\u30EB\u30FC\u30C9\u30F4\u30A3\u30AF\uFF08Ludwik\uFF09\u3068\u30EA\u30E5\u30FC\u30C9\u30F4\u30A3\u30AF\uFF08\u041B\u044E\u0434\u0432\u0438\u043A\uFF09\u3001\u305D\u3057\u30661901\u5E74\u306B\u30A8\u30B9\u30DA\u30E9\u30F3\u30C8\u3067\u30EB\u30C9\u30F4\u30A3\u30FC\u30B3\uFF08Ludoviko\uFF09\u3068\u540D\u4E57\u308A\u3001\"Dr. L. L. Zamenhof\"\u3068\u7F72\u540D\u3059\u308B\u3088\u3046\u306B\u306A\u3063\u305F\uFF08L\u3092\u91CD\u306D\u305F\u306E\u306F\u5F1F\u306E\u30EC\u30AA\u30F3\uFF081875\u5E74-1934\u5E74\uFF09\u3082\u533B\u5E2B\u3067\u3042\u3063\u305F\u305F\u3081\uFF09\u3002 \u5F1F\u306E\uFF081868\u5E74-1933\u5E74\uFF09\u3082\u30A8\u30B9\u30DA\u30E9\u30F3\u30C6\u30A3\u30B9\u30C8\u3068\u306A\u308A\u3001\"FEZ\"\u306E\u7B46\u540D\u3067\u5144\u3092\u52A9\u3051\u305F\u3002"@ja ,
+		"Ludwik Lejzer Zamenhof (Pools: Ludwik \u0141azarz Zamenhof, Eliezer Lewi Samenhof; Esperanto: Ludoviko Lazaro Zamenhof; Nederlands ook wel: Lodewijk Lazarus Zamenhof) (Bia\u0142ystok, 15 december 1859 \u2013 Warschau, 14 april 1917) was een in Polen geboren oogarts van joodse origine, polyglot en filoloog maar werd vooral bekend als de grondlegger van de internationale hulptaal Esperanto. De naam van deze taal komt van zijn pseudoniem Dr. Esperanto. Hij was de zoon van Mordechai Mark Zamenhof en Rozalia Zofer. Zijn moedertalen waren Russisch, Jiddisch en Pools (volgens biografen A. Zakrzewski, E. Wiesenfeld) maar hij sprak ook vloeiend Duits. Later leerde hij Frans, Latijn, Grieks, Hebreeuws en Engels, hij had ook interesse in Italiaans, Spaans en Litouws. Hij werd 12 maal voorgedragen voor de Nobelprijs voor de vrede. Ter gelegenheid van de 100-jarige herdenking van de dood van Zamenhof in 2017, heeft UNESCO Zamenhof, samen met nog honderd andere persoonlijkheden, uitgeroepen als een verdienstelijke internationale persoonlijkheid. In Vogeldorp in Amsterdam-Noord is een straat naar hem vernoemd: de Zamenhofstraat."@nl ,
+		"Le docteur Ludwik Lejzer Zamenhof (polonais : Ludwik \u0141azarz Zamenhof, yiddish : \u05DC\u05F2\u05D6\u05E2\u05E8 \u05DC\u05B5\u05D5\u05B4\u05D9 \u05D6\u05D0\u05B7\u05DE\u05E2\u05E0\u05D4\u05D0\u05B8\u05E3), de son nom original Samenhof (en esp\u00E9ranto : Ludoviko Lazaro Zamenhof, francis\u00E9 en Louis Lazare Zamenhof), est un m\u00E9decin ophtalmologiste polonais, n\u00E9 le 15 d\u00E9cembre 1859 \u00E0 Bia\u0142ystok, dans l'Empire Russe, et mort le 14 avril 1917 \u00E0 Varsovie. N\u00E9 dans une famille juive, ses langues d\u2019usage sont le yiddish, le russe et le polonais. Il est connu pour avoir \u00E9labor\u00E9 la langue construite esp\u00E9ranto dans son ouvrage Langue Internationale, publi\u00E9 en russe le 26 juillet 1887 sous le pseudonyme Doktoro Esperanto (\u00AB le docteur qui esp\u00E8re \u00BB). Il fut nomm\u00E9 une douzaine de fois au prix Nobel de la Paix."@fr ,
+		"\u0644\u0648\u062F\u0641\u064A\u0643 \u0627\u0644\u0639\u0632\u0631 \u0632\u0627\u0645\u0646\u0647\u0648\u0641 (\u0628\u0627\u0644\u0628\u0648\u0644\u0648\u0646\u064A\u0629 Ludwik \u0141azarz Zamenhof) \u0648\u0644\u062F 15 \u062F\u064A\u0633\u0645\u0628\u0631 1859 - 14 \u0623\u0628\u0631\u064A\u0644 1917. \u0647\u0648 \u0637\u0628\u064A\u0628 \u0639\u064A\u0648\u0646 \u0628\u0648\u0644\u0646\u062F\u064A \u0648\u0645\u062E\u062A\u0631\u0639 \u0644\u063A\u0629 \u0627\u0644\u0625\u0633\u0628\u0631\u0627\u0646\u062A\u0648. \u0644\u063A\u0627\u062A\u0647 \u0627\u0644\u0623\u0645 \u0647\u064A \u0627\u0644\u0631\u0648\u0633\u064A\u0629 \u0648\u0627\u0644\u064A\u062F\u0634\u064A\u0629 \u0648\u0627\u0644\u0628\u0648\u0644\u0646\u062F\u064A\u0629\u060C \u0648\u0643\u0627\u0646 \u064A\u062A\u062D\u062F\u062B \u0627\u0644\u0623\u0644\u0645\u0627\u0646\u064A\u0629 \u0628\u0641\u0635\u0627\u062D\u0629. \u062A\u0639\u0644\u0645 \u0627\u0644\u0644\u063A\u0627\u062A \u0623\u064A\u0636\u0627 \u0627\u0644\u0641\u0631\u0646\u0633\u064A\u0629\u060C \u0627\u0644\u0644\u0627\u062A\u064A\u0646\u064A\u0629\u060C \u0627\u0644\u064A\u0648\u0646\u0627\u0646\u064A\u0629\u060C \u0627\u0644\u0639\u0628\u0631\u064A\u0629 \u0648\u0627\u0644\u0625\u0646\u0643\u0644\u064A\u0632\u064A\u0629\u060C \u0643\u0645\u0627 \u0643\u0627\u0646 \u0644\u0647 \u0627\u0647\u062A\u0645\u0627\u0645 \u0623\u064A\u0636\u0627\u064B \u0628\u0627\u0644\u0644\u063A\u0627\u062A \u0627\u0644\u0623\u0633\u0628\u0627\u0646\u064A\u0629 \u0648\u0627\u0644\u0625\u064A\u0637\u0627\u0644\u064A\u0629 \u0648\u0627\u0644\u0644\u064A\u062B\u0648\u0627\u0646\u064A\u0629."@ar ,
+		"Dr. Ludovic Lazarus (Ludwik Lejzer, Ludwik \u0141azarz) Zamenhof (15 Desember [K.J.: 3 Desember] 1859\u201314 April [K.J.: 1 April] 1917) adalah seorang warga Polandia keturunan Yahudi. Ialah yang menciptakan bahasa Esperanto, bahasa artifisial yang paling banyak dipakai dewasa ini.Zamenhof sendiri sebenarnya adalah seorang dokter mata dan bahasa ibunya adalah bahasa Rusia dan bahasa Yiddish. Tetapi ia juga fasih berbahasa Polandia dan Jerman. Lalu di kemudian hari, ia juga belajar bahasa Prancis, bahasa Latin, bahasa Ibrani, bahasa Yunani dan bahasa Inggris. Ia juga tertarik dengan bahasa Italia, bahasa Spanyol dan bahasa Lithuania."@in ;
+	dbo:birthName	"Eliezer Levi Zamenhof"@en ;
+	dbo:birthYear	"1859"^^xsd:gYear ;
+	dbo:deathYear	"1917"^^xsd:gYear ;
+	dbo:occupation	<http://dbpedia.org/resource/L._L._Zamenhof__PersonFunction__1> ,
+		dbr:Eye ,
+		dbr:Linguist ;
+	dbo:wikiPageLength	"37783"^^xsd:nonNegativeInteger ;
+	dbo:child	dbr:Zofia_Zamenhof ,
+		dbr:Adam_Zamenhof ,
+		dbr:Lidia_Zamenhof ;
+	dbp:b	"no"@en ;
+	dbp:burialPlace	<http://dbpedia.org/resource/Jewish_Cemetery,_Warsaw> .
+<http://dbpedia.org/resource/David_Gaines_(composer)>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> .
+dbr:Warsaw_Ghetto	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> .
+dbr:Antoni_Grabowski	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> .
+dbr:Veisiejai	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> .
+dbr:List_of_multinational_festivals_and_holidays	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> .
+dbr:List_of_people_on_the_postage_stamps_of_Brazil	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> .
+<http://dbpedia.org/resource/Globish_(Nerri\u00E8re)>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> .
+<http://dbpedia.org/resource/Great_Synagogue_(Grodno)>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> .
+dbr:Grodno	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> .
+dbr:Interlingue	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> .
+dbr:List_of_Russian_people	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> .
+dbr:Finvenkismo	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> .
+<http://dbpedia.org/resource/F\u00E9licien_Menu_de_M\u00E9nil>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> .
+dbr:Gender_reform_in_Esperanto	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> .
+<http://dbpedia.org/resource/1859_in_literature>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> .
+<http://dbpedia.org/resource/1887>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> .
+<http://dbpedia.org/resource/Louis_\u00C9mile_Javal>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> .
+dbr:Delegation_for_the_Adoption_of_an_International_Auxiliary_Language	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> .
+dbr:Demonyms_for_the_United_States	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> .
+dbr:Medicina_Internacia_Revuo	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> .
+dbr:Street_names_of_Warsaw	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> .
+dbr:Stelo	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> .
+dbr:Adam_Zamenhof	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> .
+<http://dbpedia.org/resource/Jewish_Cemetery,_Warsaw>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> .
+<http://dbpedia.org/resource/Jewish_Heritage_Trail_in_Bia\u0142ystok>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> .
+dbr:Serio_Oriento-Okcidento	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> .
+dbr:Leopold_Einstein	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> .
+dbr:Zofia_Zamenhof	dbp:parents	<http://dbpedia.org/resource/L._L._Zamenhof> ;
+	dbo:parent	<http://dbpedia.org/resource/L._L._Zamenhof> ;
+	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> .
+dbr:Esperanto_Day	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> .
+dbr:Esperanto_profanity	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> .
+dbr:List_of_Jewish_ethnonyms	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> .
+dbr:List_of_Polish_inventors_and_discoverers	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> .
+dbr:List_of_Polish_people	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> .
+dbr:List_of_Russian_inventors	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> .
+dbr:List_of_Russian_linguists_and_philologists	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> .
+dbr:List_of_Russian_scientists	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> .
+dbr:Usonia	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> .
+dbr:Bible_translations_into_Esperanto	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> .
+dbr:Ino_Kolbe	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> .
+dbr:LLZ	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> ;
+	dbo:wikiPageDisambiguates	<http://dbpedia.org/resource/L._L._Zamenhof> .
+<http://dbpedia.org/resource/Lango_(app)>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> .
+dbr:Ludwik	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> ;
+	dbo:wikiPageDisambiguates	<http://dbpedia.org/resource/L._L._Zamenhof> .
+dbr:Natural_language	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> .
+dbr:Edgar_de_Wahl	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> .
+<http://dbpedia.org/resource/James_O\u0027Grady>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> .
+dbr:Pro-form	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> .
+dbr:History_of_Esperanto	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> .
+<http://dbpedia.org/resource/Ho,_mia_kor\u0027>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> .
+dbr:Homaranismo	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> .
+dbr:Horace_Barks	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> .
+<http://dbpedia.org/resource/VI_High_School_\u2013_King_Sigismund_Augustus>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> .
+<http://dbpedia.org/resource/List_of_Bah\u00E1\u02BC\u00EDs>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> .
+dbr:New_Zealand_Esperanto_Association	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> .
+<http://dbpedia.org/resource/Antanas_Po\u0161ka>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> .
+<http://dbpedia.org/resource/The_Shadow_(fairy_tale)>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> .
+dbr:Julio_Mangada	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> .
+dbr:La_Revuo	dbp:founder	<http://dbpedia.org/resource/L._L._Zamenhof> ;
+	dbo:founder	<http://dbpedia.org/resource/L._L._Zamenhof> ;
+	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> .
+dbr:Adolf_Holzhaus	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> .
+dbr:Bolak_language	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> .
+dbr:Two_Diseases_in_Esperanto	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> .
+dbr:Dua_Libro	dbo:author	<http://dbpedia.org/resource/L._L._Zamenhof> ;
+	dbp:author	<http://dbpedia.org/resource/L._L._Zamenhof> ;
+	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> .
+<http://dbpedia.org/resource/\u00DEorsteinn_\u00DEorsteinsson>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> .
+dbr:International_Esperanto_League	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> .
+dbr:Clarence_Bicknell	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> .
+dbr:Piaskower_Synagoge	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> .
+dbr:Shraga_Bishgada	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> .
+<http://dbpedia.org/resource/List_of_foreign_recipients_of_the_L\u00E9gion_d\u0027Honneur_by_country>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> .
+dbr:List_of_minor_planets_named_after_people	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> .
+<http://dbpedia.org/resource/Pawe\u0142_Bejda>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> .
+dbr:Swami_Satyabhakta	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> .
+<http://dbpedia.org/resource/Szczawno-Zdr\u00F3j>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> .
+<http://dbpedia.org/resource/S\u00E1ndor_Szathm\u00E1ri>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> .
+dbr:Klara_Zamenhof	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> .
+<http://dbpedia.org/resource/Eugen_W\u00FCster>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> .
+dbr:Espero	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> .
+dbr:La_Esperantisto	dbp:editor	<http://dbpedia.org/resource/L._L._Zamenhof> ;
+	dbp:founder	<http://dbpedia.org/resource/L._L._Zamenhof> ;
+	dbo:founder	<http://dbpedia.org/resource/L._L._Zamenhof> ;
+	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> ;
+	dbo:editor	<http://dbpedia.org/resource/L._L._Zamenhof> .
+dbr:La_Espero	dbp:author	<http://dbpedia.org/resource/L._L._Zamenhof> ;
+	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> .
+dbr:Ferdinand_Duviard	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> .
+dbr:List_of_linguists	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> .
+<http://dbpedia.org/resource/List_of_people_from_Bia\u0142ystok>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> .
+dbr:List_of_people_from_Kaunas	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> .
+dbr:List_of_people_on_the_postage_stamps_of_Croatia	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> .
+dbr:List_of_polyglots	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> .
+dbr:Proverbaro_Esperanta	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> .
+dbr:The_Ludwik_Zamenhof_Centre	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> .
+dbr:Marc_van_Oostendorp	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> .
+dbr:Mark_Zamenhof	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> .
+<http://dbpedia.org/resource/Timeline_of_Bia\u0142ystok>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> .
+<http://dbpedia.org/resource/Bah\u00E1\u02BC\u00ED_Faith_in_Russia>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> .
+dbr:Petro_Palyvoda	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> .
+<http://dbpedia.org/resource/Eliezer_(disambiguation)>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> .
+dbr:List_of_inventors	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> .
+dbr:List_of_Zionists	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> .
+dbr:Esperanto_phonology	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> .
+<http://dbpedia.org/resource/1887_in_literature>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> .
+dbr:Modern_evolution_of_Esperanto	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/L._L._Zamenhof> .

@@ -1,0 +1,25 @@
+
+
+
+
+    
+
+    
+    
+
+    <http://purl.uniprot.org/citations/33068428> <http://purl.org/dc/terms/identifier> "doi:10.1093/nar/gkaa891"  ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.uniprot.org/core/Citation>  ;
+<http://www.w3.org/2004/02/skos/core#exactMatch> <http://purl.uniprot.org/pubmed/33068428>  ;
+<http://xmlns.com/foaf/0.1/primaryTopicOf> <https://pubmed.ncbi.nlm.nih.gov/33068428>   .<http://purl.uniprot.org/database/CTD> <http://purl.org/dc/terms/identifier> "140"  ;
+<http://purl.uniprot.org/core/abbreviation> "CTD"  ;
+<http://purl.uniprot.org/core/category> "Organism-specific databases"  ;
+<http://purl.uniprot.org/core/citation> <http://purl.uniprot.org/citations/33068428>  ;
+<http://purl.uniprot.org/core/linkIsExplicit> "true"^^<http://www.w3.org/2001/XMLSchema#boolean>  ;
+<http://purl.uniprot.org/core/urlTemplate> "https://ctdbase.org/detail.go?type=gene&db=GENE&acc=%s"  ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.uniprot.org/core/Database>  ;
+<http://www.w3.org/2000/01/rdf-schema#label> "Comparative Toxicogenomics Database"  ;
+<http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://ctdbase.org/>   .<https://www.uniprot.org/database/CTD.rdf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Ontology>  ;
+<http://www.w3.org/2002/07/owl#imports> <http://purl.uniprot.org/core/>   .
+
+
+

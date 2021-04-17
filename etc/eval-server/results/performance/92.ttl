@@ -1,0 +1,631 @@
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+dbr:Names_of_the_days_of_the_week	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:Myaungmya_Township	dbo:wikiPageWikiLink	dbr:Mon_language .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Burmese_script	dbp:children	dbr:Mon_language ;
+	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:Mon_National_Party	dbp:lang	dbr:Mon_language ;
+	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:Mon_Unity_Party	dbp:lang	dbr:Mon_language ;
+	dbo:wikiPageWikiLink	dbr:Mon_language .
+<http://dbpedia.org/resource/Forty_Years\u0027_War>	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:Yangtze	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:Literature_of_Laos	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:Kalay	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:Bayinnaung	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:Military_history_of_Myanmar	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:Restored_Hanthawaddy_Kingdom	dbp:commonLanguages	dbr:Mon_language ;
+	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:Toungoo_dynasty	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:Index_of_Myanmar-related_articles	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:Pathein	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:Kannada_script	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:Indra	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:Index_of_Thailand-related_articles_K_to_N	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:Talapoin	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:History_of_Thailand	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:List_of_Hindu_empires_and_dynasties	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:Thaton	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:Tanintharyi_Region	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:Pyapon	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:Taw_Sein_Ko	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:Leke_script	dbo:wikiPageWikiLink	dbr:Mon_language .
+<http://dbpedia.org/resource/Myanmar_(Unicode_block)>	dbo:wikiPageWikiLink	dbr:Mon_language ;
+	dbp:alphabets	dbr:Mon_language .
+dbr:All_Mon_Region_Democracy_Party	dbp:lang	dbr:Mon_language ;
+	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:Maha_Dewi_of_Hanthawaddy	dbo:wikiPageWikiLink	dbr:Mon_language .
+<http://dbpedia.org/resource/Konbaung\u2013Hanthawaddy_War>	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:Alanpya_Pagoda	dbo:wikiPageWikiLink	dbr:Mon_language .
+<http://dbpedia.org/resource/Kawa,_Myanmar>	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:Kyaikhtisaung_Pagoda	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:List_of_rulers_of_Pegu	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:MNW	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:Karen_people	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:Momeik	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:Mongmit_State	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:Dawei	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:Abeyadana_Temple	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:Mudon	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:Harry_Leonard_Shorto	dbp:mainInterests	dbr:Mon_language ;
+	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:Kyaikkhami	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:New_Tai_Lue_alphabet	dbp:fam	dbr:Mon_language ;
+	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:Shan_people	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:Glossary_of_Buddhism	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:Ten_thousand_years	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:Katuic_languages	dbo:wikiPageWikiLink	dbr:Mon_language .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+wikipedia-en:Mon_language	foaf:primaryTopic	dbr:Mon_language .
+dbr:List_of_Wikipedias	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:Isan_language	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:From_Dictatorship_to_Democracy	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:Mon_State_Cultural_Museum	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:Old_Chinese	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:Buddhism_in_Myanmar	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:Writing_systems_of_Southeast_Asia	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:Pattala	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:Hne	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:Kyangin	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:Binnya_Ran_II	dbo:wikiPageWikiLink	dbr:Mon_language .
+<http://dbpedia.org/resource/Bago,_Myanmar>	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:Smin_Bayan	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:Razadarit	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:Lagun_Ein	dbp:nativeNameLang	dbr:Mon_language ;
+	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:Pinya_Kingdom	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:Thihathu_of_Ava	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:Binnya_Dala	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:Binnya_Ran_I	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:Binnya_Waru	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:Botataung_Pagoda	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:Bagaya_Monastery	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:Kamayut_Township	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:Leik_Munhtaw	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:Zein_Pun	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:Min_Thu_Wun	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:Mingaladon_Township	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:Smim_Htaw	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:Smim_Htaw_Buddhaketi	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:Smim_Sawhtut	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:Hnin_U_Yaing	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:Saw_Binnya	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:Saw_E	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:Saw_Zein	dbo:wikiPageWikiLink	dbr:Mon_language .
+@prefix ns5:	<http://dbpedia.org/resource/ISO_639:> .
+ns5:m	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:Proto-Min	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:Min_Chinese	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:Upper_Myanmar	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:Dhammazedi	dbo:wikiPageWikiLink	dbr:Mon_language .
+<http://dbpedia.org/resource/Proto-Hmong\u2013Mien_language>	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:Dhammasattha	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:Myinsaing_Kingdom	dbp:commonLanguages	dbr:Mon_language ;
+	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:Karenic_languages	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:Tibeto-Burman_languages	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:List_of_ethnic_groups_in_Myanmar	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:Languages_of_Myanmar	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:Index_of_language_articles	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:List_of_endangered_languages_in_Asia	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:Southeast_Asia	dbp:languages	dbr:Mon_language ;
+	dbo:language	dbr:Mon_language ;
+	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:Myanmar	dbo:language	dbr:Mon_language ;
+	dbp:regionalLanguages	dbr:Mon_language ;
+	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:Pailin_Province	dbo:wikiPageWikiLink	dbr:Mon_language .
+<http://dbpedia.org/resource/King_Naresuan_(film)>	dbo:language	dbr:Mon_language ;
+	dbo:wikiPageWikiLink	dbr:Mon_language ;
+	dbp:language	dbr:Mon_language .
+dbr:Old_Mon_script	dbp:languages	dbr:Mon_language ;
+	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:Tanchangya_alphabet	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:Vowel	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:Sino-Tibetan_languages	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:Burmese_language	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:Austroasiatic_languages	dbo:wikiPageWikiLink	dbr:Mon_language .
+<http://dbpedia.org/resource/Tone_(linguistics)>	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:Brahmic_scripts	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:Abugida	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:Thailand	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:Demographics_of_Myanmar	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:Demographics_of_Vietnam	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:Orang_Seletar	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:Pyuntaza	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:Sarah_Hall_Boardman	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:Mon	dbo:wikiPageWikiLink	dbr:Mon_language ;
+	dbo:wikiPageDisambiguates	dbr:Mon_language .
+dbr:Culture_of_Asia	dbo:wikiPageWikiLink	dbr:Mon_language .
+<http://dbpedia.org/resource/600>	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:Lilias_Armstrong	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:Mon_people	dbp:langs	dbr:Mon_language ;
+	dbo:language	dbr:Mon_language ;
+	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:Mawlamyine	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:Language_Spoken_at_Home	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:Chinese_people_in_Myanmar	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:Anawrahta	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:Pagan_Kingdom	dbp:commonLanguages	dbr:Mon_language ;
+	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:Dao_Khanong	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:Lavo_Kingdom	dbp:commonLanguages	dbr:Mon_language ;
+	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:History_of_Lopburi	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:Insein_Township	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:List_of_countries_by_spoken_languages	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:Binnya_U	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:Kalyani_Ordination_Hall	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:Shwezigon_Pagoda	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:History_of_Myanmar	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:Names_of_Myanmar	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:Burmese_chronicles	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:Mon_State	dbp:translitLang1Type	dbr:Mon_language ;
+	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:List_of_linguists	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:Hanthawaddy_Kingdom	dbp:commonLanguages	dbr:Mon_language ;
+	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:Mahn_Thet_San	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:The_South_Asia_Inscriptions_Database	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:Mwei_Ma-Gu-Thauk	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:May_Hnin_Thwe-Da	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:Khmer_language	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:List_of_official_languages_by_country_and_territory	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:Lao_people	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:List_of_contemporary_ethnic_groups	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:List_of_language_names	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:Stateless_nation	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:Neptunia_oleracea	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:Konbaung_dynasty	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:Mottama	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:Tai_Tham_script	dbp:fam	dbr:Mon_language ;
+	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:Charles_Otto_Blagden	dbo:knownFor	dbr:Mon_language ;
+	dbo:wikiPageWikiLink	dbr:Mon_language .
+<http://dbpedia.org/resource/Gubyaukgyi_Temple_(Myinkaba)>	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:Khasi_language	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:Dvaravati	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:Ho_people	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:Munda_languages	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:May_Hnin_Theindya	dbo:wikiPageWikiLink	dbr:Mon_language .
+<http://dbpedia.org/resource/\u1028>	dbo:wikiPageRedirects	dbr:Mon_language ;
+	dbo:wikiPageWikiLink	dbr:Mon_language .
+<http://dbpedia.org/resource/\u1033>	dbo:wikiPageRedirects	dbr:Mon_language ;
+	dbo:wikiPageWikiLink	dbr:Mon_language .
+<http://dbpedia.org/resource/\u1034>	dbo:wikiPageRedirects	dbr:Mon_language ;
+	dbo:wikiPageWikiLink	dbr:Mon_language .
+<http://dbpedia.org/resource/\u105A>	dbo:wikiPageRedirects	dbr:Mon_language ;
+	dbo:wikiPageWikiLink	dbr:Mon_language .
+<http://dbpedia.org/resource/\u105B>	dbo:wikiPageRedirects	dbr:Mon_language ;
+	dbo:wikiPageWikiLink	dbr:Mon_language .
+<http://dbpedia.org/resource/\u105C>	dbo:wikiPageRedirects	dbr:Mon_language ;
+	dbo:wikiPageWikiLink	dbr:Mon_language .
+<http://dbpedia.org/resource/\u105D>	dbo:wikiPageRedirects	dbr:Mon_language ;
+	dbo:wikiPageWikiLink	dbr:Mon_language .
+<http://dbpedia.org/resource/\u105E>	dbo:wikiPageRedirects	dbr:Mon_language ;
+	dbo:wikiPageWikiLink	dbr:Mon_language .
+<http://dbpedia.org/resource/\u105F>	dbo:wikiPageRedirects	dbr:Mon_language ;
+	dbo:wikiPageWikiLink	dbr:Mon_language .
+<http://dbpedia.org/resource/\u1060>	dbo:wikiPageRedirects	dbr:Mon_language ;
+	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:Mon_phonology	dbo:wikiPageRedirects	dbr:Mon_language ;
+	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:History_of_the_Mon_language	dbo:wikiPageRedirects	dbr:Mon_language ;
+	dbo:wikiPageWikiLink	dbr:Mon_language .
+ns5:mnw	dbo:wikiPageRedirects	dbr:Mon_language ;
+	dbo:wikiPageWikiLink	dbr:Mon_language .
+ns5:omx	dbo:wikiPageRedirects	dbr:Mon_language ;
+	dbo:wikiPageWikiLink	dbr:Mon_language .
+<http://dbpedia.org/resource/Mon_language_(Myanmar)>	dbo:wikiPageRedirects	dbr:Mon_language ;
+	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:Old_Mon	dbo:wikiPageRedirects	dbr:Mon_language ;
+	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:Old_Mon_language	dbo:wikiPageRedirects	dbr:Mon_language ;
+	dbo:wikiPageWikiLink	dbr:Mon_language .
+<http://dbpedia.org/resource/\u1018\u102C\u101E\u102C_\u1019\u1014\u103A>	dbo:wikiPageRedirects	dbr:Mon_language ;
+	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:Mon_alphabet	dbo:wikiPageRedirects	dbr:Mon_language ;
+	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:Peguan_language	dbo:wikiPageRedirects	dbr:Mon_language ;
+	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:List_of_country-name_etymologies	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:List_of_writing_systems	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:Languages_of_Asia	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:Mainland_Southeast_Asia_linguistic_area	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:List_of_numbers_in_various_languages	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:Senoi	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:Nicobar_Islands	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:Bilingual_inscription	dbo:wikiPageWikiLink	dbr:Mon_language .
+<http://dbpedia.org/resource/Binnya_Dala_(minister-general)>	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:Monic_languages	dbp:ancestor	dbr:Mon_language ;
+	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:Thai_language	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:Camphor	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:Khanom_chin	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:Timeline_of_Burmese_history	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:Myazedi_inscription	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:Mon_kingdoms	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:Byat_Za	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:Migration_period_of_ancient_Burma	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:First_Toungoo_Empire	dbo:wikiPageWikiLink	dbr:Mon_language .
+<http://dbpedia.org/resource/L\u00EAn_\u0111\u1ED3ng>	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:Phu_Chana_Sip_Thit	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:Kawthaung	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:Nyah_Kur_language	dbp:ancestor	dbr:Mon_language ;
+	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:Thaton_Kingdom	dbp:commonLanguages	dbr:Mon_language ;
+	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:Ramannadesa	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:Thanaka	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:Mon_National_Day	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:Burmese_names	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:List_of_languages_by_writing_system	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:Telecommunications_in_Myanmar	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:Old_Burmese	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:Dein_Mani-Yut	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:Pyanchi_I_of_Toungoo	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:Letya_Pyanchi_of_Prome	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:Min_Bala_of_Myaungmya	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:Min_Linka	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:Smim_Maru	dbp:nativeNameLang	dbr:Mon_language ;
+	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:Tavoyan_dialects	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:Byedaik	dbo:wikiPageWikiLink	dbr:Mon_language .
+<http://dbpedia.org/resource/Toungoo\u2013Hanthawaddy_War>	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:Byattaba	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:Laik-Gi	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:Tala_Mi_Thiri	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:Piya_Yaza_Dewi	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:List_of_rulers_of_Bassein	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:List_of_rulers_of_Martaban	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:Pat_kon	dbo:wikiPageWikiLink	dbr:Mon_language .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Mon_language	rdf:type	yago:WikicatMonicLanguages .
+@prefix schema:	<http://schema.org/> .
+dbr:Mon_language	rdf:type	schema:Language ,
+		<http://dbpedia.org/class/yago/WikicatSubject\u2013verb\u2013objectLanguages> ,
+		dbo:Language ,
+		yago:Language106282651 ,
+		yago:WikicatLanguagesOfThailand .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Mon_language	rdf:type	owl:Thing ,
+		yago:Communication100033020 ,
+		yago:WikicatAustro-AsiaticLanguages ,
+		yago:WikicatLanguagesOfBurma .
+@prefix umbel-rc:	<http://umbel.org/umbel/rc/> .
+dbr:Mon_language	rdf:type	umbel-rc:Language .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Mon_language	rdf:type	wikidata:Q315 ,
+		yago:Abstraction100002137 .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Mon_language	rdfs:label	"M\u00F4n (langue)"@fr ,
+		"Mon (Sprache)"@de ,
+		"J\u0119zyk mon"@pl ,
+		"Idioma mon"@es ,
+		"\u0393\u03BB\u03CE\u03C3\u03C3\u03B1 \u039C\u03BF\u03BD"@el ,
+		"\uBAAC\uC5B4"@ko ,
+		"Mon (taal)"@nl ,
+		"Mon (lingvo)"@eo ,
+		"\u041C\u043E\u043D\u0441\u044C\u043A\u0430 \u043C\u043E\u0432\u0430"@uk ,
+		"Mon (llengua)"@ca ,
+		"Bahasa Mon"@in ,
+		"\u041C\u043E\u043D\u0441\u043A\u0438\u0439 \u044F\u0437\u044B\u043A"@ru ,
+		"L\u00EDngua mon"@pt ,
+		"Lingua mon"@it ,
+		"\u5B5F\u8BED"@zh ,
+		"Mon language"@en ,
+		"\u30E2\u30F3\u8A9E"@ja ;
+	rdfs:comment	"The Mon language (, : \u1018\u102C\u101E\u102C \u1019\u1014\u103A; Burmese: \u1019\u103D\u1014\u103A\u1018\u102C\u101E\u102C, Thai: \u0E20\u0E32\u0E29\u0E32\u0E21\u0E2D\u0E0D, formerly known as Peguan and Talaing) is an Austroasiatic language spoken by the Mon people. Mon, like the related Khmer language, but unlike most languages in mainland Southeast Asia, is not tonal. The Mon language is a recognised indigenous language in Myanmar as well as a recognised indigenous language of Thailand."@en ,
+		"\u041C\u043E\u0301\u043D\u0441\u044C\u043A\u0430 \u043C\u043E\u0301\u0432\u0430 \u2014 \u043C\u043E\u043D-\u043A\u0445\u043C\u0435\u0440\u0441\u044C\u043A\u0430 \u043C\u043E\u0432\u0430, \u044F\u043A\u043E\u044E \u0433\u043E\u0432\u043E\u0440\u044F\u0442\u044C \u043C\u043E\u043D\u0438 \u0432 \u043F\u0456\u0432\u0434\u0435\u043D\u043D\u043E-\u0441\u0445\u0456\u0434\u043D\u0456\u0439 \u041C'\u044F\u043D\u043C\u0456 \u043F\u0456\u0432\u0434\u0435\u043D\u043D\u043E-\u0441\u0445\u0456\u0434\u043D\u0456\u0439 \u0447\u0430\u0441\u0442\u0438\u043D\u0456 \u041C'\u044F\u043D\u043C\u0438, \u043C\u0456\u0436 \u043C\u0456\u0441\u0442\u0430\u043C\u0438 \u041C\u043E\u043B\u0430\u043C'\u044F\u0439\u043D \u0442\u0430 : \u0448\u0442\u0430\u0442\u0438 \u041C\u043E\u043D \u0456 \u041A\u0430\u0440\u0435\u043D, \u043E\u0431\u043B\u0430\u0441\u0442\u044C \u0422\u0430\u043D\u0456\u043D\u0442\u0430\u0457. \u0414\u0435\u043A\u0456\u043B\u044C\u043A\u0430 \u043C\u043E\u043D\u0441\u044C\u043A\u0438\u0445 \u0433\u0440\u043E\u043C\u0430\u0434 \u0454 \u0422\u0430\u0457\u043B\u0430\u043D\u0434\u0456 (\u043F\u0440\u043E\u0432\u0456\u043D\u0446\u0456\u0457 \u041A\u0430\u043D\u0447\u0430\u043D\u0430\u0431\u0443\u0440\u0456, , , \u0420\u0430\u0442\u0447\u0430\u0431\u0443\u0440\u0456 \u0456 \u0421\u0430\u043C\u0443\u0442\u0441\u0430\u043A\u0445\u043E\u043D)."@uk ,
+		"El idioma mon es un idioma austroasi\u00E1tico hablado por el pueblo mon, que habita en Birmania y Tailandia. El mon a diferencia de la mayor\u00EDa de los idiomas en el sudeste asi\u00E1tico, no es de tipo tonal. Actualmente el mon es hablado por menos de un mill\u00F3n de personas.\u200B En \u00E9pocas recientes el uso del mon ha ido en r\u00E1pido declive, especialmente entre las nuevas generaciones.\u200B Muchos mon \u00E9tnicos solo hablan birmano. En Birmania, la mayor\u00EDa de los que hablan mon viven en los estados de Mon y Kayin y en la Divisi\u00F3n de Tanintharyi.\u200B"@es ,
+		"\u30E2\u30F3\u8A9E\u306F\u30AA\u30FC\u30B9\u30C8\u30ED\u30A2\u30B8\u30A2\u8A9E\u65CF\u306E\u30E2\u30F3\u30FB\u30AF\u30E1\u30FC\u30EB\u8A9E\u6D3E\u306B\u5C5E\u3059\u308B\u8A00\u8A9E\u3067\u3042\u308B\u3002\u8A71\u8005\u306F\u30E2\u30F3\u65CF\u306E\u4EBA\u3005\u3067\u3042\u308B\u3002"@ja ,
+		"\u0397 \u03B3\u03BB\u03CE\u03C3\u03C3\u03B1 \u039C\u03BF\u03BD (\u039C\u03BF\u03BD: \u1018\u102C\u101E\u102C \u1019\u1014\u103A - \u03C6\u03B5\u03CA\u03C3\u03AC\u03B1 \u03BC\u03BF\u03BD, \u0392\u03B9\u03C1\u03BC\u03B1\u03BD\u03B9\u03BA\u03AC: \u1019\u103D\u1014\u103A\u1018\u102C\u101E\u102C - \u03BC\u03BF\u03BD \u03BC\u03C0\u03AC\u03C3\u03B1) \u03B5\u03AF\u03BD\u03B1\u03B9 \u0391\u03C5\u03C3\u03C4\u03C1\u03BF\u03B1\u03C3\u03B9\u03B1\u03C4\u03B9\u03BA\u03AE \u03B3\u03BB\u03CE\u03C3\u03C3\u03B1 \u03C0\u03BF\u03C5 \u03BF\u03BC\u03B9\u03BB\u03B5\u03AF\u03C4\u03B1\u03B9 \u03B1\u03C0\u03CC \u03C4\u03BF\u03C5\u03C2 \u039C\u03BF\u03BD \u03C0\u03BF\u03C5 \u03B6\u03BF\u03C5\u03BD \u03C3\u03C4\u03B7 \u039C\u03B9\u03B1\u03BD\u03BC\u03AC\u03C1. \u0397 \u039C\u03BF\u03BD, \u03CC\u03C0\u03C9\u03C2 \u03BA\u03B1\u03B9 \u03B7 \u03C3\u03C5\u03B3\u03B3\u03B5\u03BD\u03B9\u03BA\u03AE \u03A7\u03BC\u03B5\u03C1, \u03B1\u03BB\u03BB\u03AC \u03C3\u03B5 \u03B1\u03BD\u03C4\u03AF\u03B8\u03B5\u03C3\u03B7 \u03BC\u03B5 \u03C4\u03B9\u03C2 \u03C0\u03B5\u03C1\u03B9\u03C3\u03C3\u03CC\u03C4\u03B5\u03C1\u03B5\u03C2 \u03B3\u03BB\u03CE\u03C3\u03C3\u03B5\u03C2 \u03C3\u03C4\u03B7 \u03B7\u03C0\u03B5\u03B9\u03C1\u03C9\u03C4\u03B9\u03BA\u03AE \u039D\u03BF\u03C4\u03B9\u03BF\u03B1\u03BD\u03B1\u03C4\u03BF\u03BB\u03B9\u03BA\u03AE \u0391\u03C3\u03AF\u03B1, \u03B4\u03B5\u03BD \u03B5\u03AF\u03BD\u03B1\u03B9 \u03C4\u03BF\u03BD\u03B9\u03BA\u03AE. \u03A4\u03B1 \u03C4\u03B5\u03BB\u03B5\u03C5\u03C4\u03B1\u03AF\u03B1 \u03C7\u03C1\u03CC\u03BD\u03B9\u03B1, \u03B7 \u03C7\u03C1\u03AE\u03C3\u03B7 \u03C4\u03C9\u03BD \u039C\u03BF\u03BD \u03AD\u03C7\u03B5\u03B9 \u03BC\u03B5\u03B9\u03C9\u03B8\u03B5\u03AF \u03C1\u03B1\u03B3\u03B4\u03B1\u03AF\u03B1, \u03B9\u03B4\u03AF\u03C9\u03C2 \u03BC\u03B5\u03C4\u03B1\u03BE\u03CD \u03C4\u03C9\u03BD \u03BD\u03B5\u03CC\u03C4\u03B5\u03C1\u03C9\u03BD \u03B3\u03B5\u03BD\u03B9\u03CE\u03BD. \u03A0\u03BF\u03BB\u03BB\u03BF\u03AF \u03B5\u03B8\u03BD\u03BF\u03C4\u03B9\u03BA\u03BF\u03AF \u039C\u03BF\u03BD \u03B5\u03AF\u03BD\u03B1\u03B9 \u03BC\u03BF\u03BD\u03CC\u03B3\u03BB\u03C9\u03C3\u03C3\u03BF\u03B9 \u03C3\u03C4\u03B1 \u0392\u03B9\u03C1\u03BC\u03B1\u03BD\u03B9\u03BA\u03AC \u03BA\u03B1\u03B9 \u03B7 \u03B3\u03BB\u03CE\u03C3\u03C3\u03B1 \u03C7\u03B1\u03C1\u03B1\u03BA\u03C4\u03B7\u03C1\u03AF\u03B6\u03B5\u03C4\u03B1\u03B9 \u03C9\u03C2 \"\u03C4\u03C1\u03C9\u03C4\u03AE\" \u03B1\u03C0\u03CC \u03C4\u03B7\u03BD \u039F\u03A5\u039D\u0395\u03A3\u039A\u039F. \u039F \u03C3\u03B7\u03BC\u03B5\u03C1\u03B9\u03BD\u03CC\u03C2 \u03B1\u03C1\u03B9\u03B8\u03BC\u03CC\u03C2 \u03C4\u03C9\u03BD \u03BF\u03BC\u03B9\u03BB\u03B7\u03C4\u03CE\u03BD \u03B5\u03AF\u03BD\u03B1\u03B9 \u03C0\u03B5\u03C1\u03AF\u03C0\u03BF\u03C5 800.000 \u03AC\u03C4\u03BF\u03BC\u03B1 \u03C3\u03CD\u03BC\u03C6\u03C9\u03BD\u03B1 \u03BC\u03B5 \u03B5\u03BA\u03C4\u03B9\u03BC\u03AE\u03C3\u03B5\u03B9\u03C2 \u03C4\u03BF\u03C5 2007."@el ,
+		"La lingvo mon (birme \u1019\u103D\u1014\u103A\u1018\u102C\u101E\u102C\u1005\u1000\u102C\u1038, taje \u0E20\u0E32\u0E29\u0E32\u0E21\u0E2D\u0E0D) apartenas al la a\u016Dstralazia lingvaro kaj estas parolata de 1 miliono da homoj apartenantaj al la  kiuj lo\u011Das en Birmo (Mjanmao) kaj Tajlando. La lingvo mon estas minacata lingvo, \u0109ar la pli juna generacio - sub forta socia premo - pli kaj pli ekuzas la birman lingvon. Male al plej multaj aliaj lingvoj en la regiono, la lingvo mon ne estas tona lingvo. La alfabeto de la lingvo mon havas 35 konsonantojn, inkluzive de vokalo traktata kiel konsonanto."@eo ,
+		"De Mon-taal is een Austroaziatische taal die gesproken wordt door de Mon, die in Myanmar en Thailand wonen. De Mon-taal is thans bedreigd, omdat de jongere generatie - onder sterke maatschappelijke druk - in toenemende mate overgaat op het Birmaans. In tegenstelling tot de meeste andere talen in de regio, is Mon geen toontaal. De Mon-taal is van groot historisch belang in Birma. Het was de lingua franca van het koninkrijk van Pagan, in de vroege middeleeuwen. Het is via de Mon dat de Birmanen het Theravada Boeddhisme en hun alfabet overnamen."@nl ,
+		"La lingua mon (\u1018\u102C\u101E\u102C \u1019\u1014, trascrizione IPA: [p\u02B0esa m\u0251n]) \u00E8 l'idioma tradizionale del popolo mon; fa parte del gruppo monico delle lingue mon khmer, che a loro volta fanno parte della famiglia austroasiatica. Viene parlata principalmente nella Birmania meridionale, ma vi sono diverse comunit\u00E0 mon anche in Thailandia. Nome alternativo dell'etnia e della lingua \u00E8 peguano, dall'antica capitale dei mon Pegu, o anche talaing, nome imposto dai birmani e considerato dispregiativo dai mon."@it ,
+		"\uBAAC\uC5B4(\u1018\u102C\u101E\u102C \u1019\u1014\u103A)\uB294 \uBBF8\uC580\uB9C8\uC5D0 \uC0AC\uB294 \uBAAC\uC871\uC758 \uC5B8\uC5B4\uB85C, \uC624\uC2A4\uD2B8\uB85C\uC544\uC2DC\uC544\uC5B4\uC871\uC5D0 \uC18D\uD55C\uB2E4."@ko ,
+		"La llengua mon (de vegades llengua talaing) \u00E9s un llenguatge austroasi\u00E0tic parlat pels mons de Birm\u00E0nia (i de la minoria mon de Tail\u00E0ndia). El parla menys d'un mili\u00F3 de persones i despr\u00E9s d'una forta assimilaci\u00F3 de m\u00E9s de dos segles de l'\u00E8tnia mon, la llengua ha tingut una baixada considerable. El 2004 es creu que els parlants de mon a Birm\u00E0nia eren uns 743.000 i a tots els pa\u00EFsos uns 851.000. L'escriptura mon \u00E9s derivada de l'escriptura indi brahmi, i \u00E9s la font de l'escriptura birmana."@ca ,
+		"Mon (birmanisch \u1019\u103D\u1014\u103A\u1018\u102C\u101E\u102C\u1005\u1000\u102C\u1038 thail\u00E4ndisch \u0E20\u0E32\u0E29\u0E32\u0E21\u0E2D\u0E0D) ist eine austroasiatische Sprache, die von den in Birma und Thailand lebenden Mon gesprochen wird. Im Unterschied zu den meisten anderen Sprachen S\u00FCdostasiens ist Mon keine tonale Sprache, wie auch das verwandte Khmer. Mon wird von etwa einer Million Sprechern genutzt. In den letzten Jahrzehnten hat die Verwendung des Mon in der j\u00FCngeren Generation stetig abgenommen Viele Mon sind heute nur noch der birmanischen Sprache m\u00E4chtig. Die meisten Sprecher des Mon leben im Mon-Staat, gefolgt von der Tanintharyi-Division und dem Kayin-Staat."@de ,
+		"Bahasa Mon (Mon: \u1018\u102C\u101E\u102C \u1019\u1014\u103A; bahasa Myanmar: \u1019\u103D\u1014\u103A\u1018\u102C\u101E\u102C) adalah sebuah bahasa dari rumpun bahasa Austro-Asia yang dituturkan oleh , yang tinggal di Myanmar dan Thailand. Mon, seperti halnya bahasa Khmer terkait namun tidak seperti kebanyakan bahasa di , bukan merupakan bahasa bernada. Mon dituturkan oleh lebih dari satu juta orang saat ini. Dalam beberapa tahun terakhir, penggunaan bahasa Mon telah menurun dengan cepat, terutama di kalangan generasi muda. Banyak etnis Mon yang merupakan monolingual dalam bahasa Burma. Di Myanmar, mayoritas penutur bahasa ini tinggal di Negara Bagian Mon, diikuti oleh Region Tanintharyi, dan Negara Bagian Kayin."@in ,
+		"A l\u00EDngua mon ou, aportuguesando, mom (\u1018\u102C\u101E\u102C \u1019\u1014\u103A; \u1019\u103D\u1014\u103A\u1018\u102C\u101E\u102C) \u00E9 um idioma austro-asi\u00E1tico falado pelo povo Mon, que vive na Birm\u00E2nia (Myanmar) e Tail\u00E2ndia no vale do rio Irau\u00E1di,  Ayeyarwady. O mon, como a relacionada l\u00EDngua khmer, mas ao contr\u00E1rio da maioria l\u00EDnguas na Indochina n\u00E3o \u00E9 tonal. Atualmente o mon \u00E9 falado por aproximadamente um milh\u00E3o de pessoas, por\u00E9m nos \u00FAltimos anos, o uso de mon diminuiu rapidamente, especialmente entre a gera\u00E7\u00E3o mais jovem. Muitos \u00E9tnicos Mon s\u00E3o  monol\u00EDngues em birman\u00EAs. Na Birm\u00E2nia, a maioria dos falantes vivem no  Estado de Mon, seguido da  Regi\u00E3o de Tanintharyi e no  Estado de Kayin."@pt ,
+		"\u5B5F\u8A9E\uFF08\u5B5F\u8A9E\uFF1A\u1018\u102C\u101E\u102C \u1019\u1014\u103A\uFF0C\u7DEC\u7538\u8A9E\uFF1A\u1019\u103D\u1014\u103A\u1018\u102C\u101E\u102C\uFF09\u662F\u5357\u4E9E\u8A9E\u7CFB\u4E3B\u8981\u7531\u751F\u6D3B\u5728\u7DEC\u7538\u548C\u6CF0\u570B\u7684\u5B5F\u65CF\u4EBA\u8B1B\u7684\u8A9E\u8A00\u3002\u5B83\u548C\u9AD8\u68C9\u8A9E\u5F88\u50CF\uFF0C\u90FD\u4E0D\u662F\u8072\u8ABF\u8A9E\u8A00\uFF0C\u9019\u548C\u5927\u591A\u6578\u4E2D\u5357\u534A\u5CF6\u7684\u8A9E\u8A00\u4E0D\u540C\u3002 \u4F7F\u7528\u5B5F\u8A9E\u7684\u4EBA\u6578\u5728\u4E0D\u65B7\u6E1B\u5C11\uFF0C\u5E74\u8F15\u4E00\u4EE3\u5C24\u751A\u3002 \u5728\u7DEC\u7538\uFF0C\u5927\u591A\u6578\u4F7F\u7528\u5B5F\u8A9E\u7684\u4EBA\u90FD\u751F\u6D3B\u5728\u5B5F\u90A6\uFF0C\u5176\u6B21\u662F\u5FB7\u6797\u9054\u4F9D\u548C\u514B\u502B\u90A6\u3002"@zh ,
+		"\u041C\u043E\u043D\u0441\u043A\u0438\u0439 \u044F\u0437\u044B\u0301\u043A (\u043C\u043E\u043D\u0441\u043A. \u1018\u102C\u101E\u102C \u1019\u1014\u103A, \u1019\u103D\u1014\u103A\u1018\u102C\u101E\u102C, \u043C\u0443\u043D \u0431\u0430\u0442\u0430) \u2014 \u0430\u0432\u0441\u0442\u0440\u043E\u0430\u0437\u0438\u0430\u0442\u0441\u043A\u0438\u0439 \u044F\u0437\u044B\u043A, \u043D\u0430 \u043A\u043E\u0442\u043E\u0440\u043E\u043C \u0433\u043E\u0432\u043E\u0440\u044F\u0442 \u043C\u043E\u043D\u044B, \u043F\u0440\u043E\u0436\u0438\u0432\u0430\u044E\u0449\u0438\u0435 \u0432 \u041C\u044C\u044F\u043D\u043C\u0435 \u0438 \u0422\u0430\u0438\u043B\u0430\u043D\u0434\u0435. \u041A\u0430\u043A \u0438 \u0431\u043E\u043B\u044C\u0448\u0438\u043D\u0441\u0442\u0432\u043E \u044F\u0437\u044B\u043A\u043E\u0432 \u044D\u0442\u043E\u0439 \u0441\u0435\u043C\u044C\u0438, \u043C\u043E\u043D\u0441\u043A\u0438\u0439 \u043D\u0435 \u0438\u043C\u0435\u0435\u0442 \u0442\u043E\u043D\u043E\u0432. \u041A\u043E\u043B\u0438\u0447\u0435\u0441\u0442\u0432\u043E \u043D\u043E\u0441\u0438\u0442\u0435\u043B\u0435\u0439 \u044D\u0442\u043E\u0433\u043E \u044F\u0437\u044B\u043A\u0430 \u2014 851 000, \u043E\u0434\u043D\u0430\u043A\u043E \u0441\u0440\u0435\u0434\u0438 \u043D\u0438\u0445 \u043E\u0447\u0435\u043D\u044C \u043C\u0430\u043B\u043E \u043C\u043E\u043D\u043E\u043B\u0438\u043D\u0433\u0432\u043E\u0432 \u0412 \u043F\u043E\u0441\u043B\u0435\u0434\u043D\u0438\u0435 \u0433\u043E\u0434\u044B \u043A\u043E\u043B\u0438\u0447\u0435\u0441\u0442\u0432\u043E \u043D\u043E\u0441\u0438\u0442\u0435\u043B\u0435\u0439 \u0440\u0435\u0437\u043A\u043E \u0441\u043E\u043A\u0440\u0430\u0449\u0430\u0435\u0442\u0441\u044F, \u043E\u0441\u043E\u0431\u0435\u043D\u043D\u043E \u0441\u0440\u0435\u0434\u0438 \u043C\u043E\u043B\u043E\u0434\u0451\u0436\u0438 \u2014 \u043C\u043D\u043E\u0433\u0438\u0435 \u043C\u043E\u043D\u044B \u0433\u043E\u0432\u043E\u0440\u044F\u0442 \u0442\u043E\u043B\u044C\u043A\u043E \u043D\u0430 \u0431\u0438\u0440\u043C\u0430\u043D\u0441\u043A\u043E\u043C \u044F\u0437\u044B\u043A\u0435. \u0412 \u041C\u044C\u044F\u043D\u043C\u0435 \u043D\u043E\u0441\u0438\u0442\u0435\u043B\u0438 \u0436\u0438\u0432\u0443\u0442 \u0432 \u043E\u0434\u043D\u043E\u0438\u043C\u0451\u043D\u043D\u043E\u043C \u0448\u0442\u0430\u0442\u0435, \u0430 \u0442\u0430\u043A\u0436\u0435 \u0430\u0434\u043C\u0438\u043D\u0438\u0441\u0442\u0440\u0430\u0442\u0438\u0432\u043D\u043E\u0439 \u043E\u0431\u043B\u0430\u0441\u0442\u0438 \u0422\u0430\u043D\u0438\u043D\u0442\u0430\u0439\u0438 \u0438 \u0448\u0442\u0430\u0442\u0435 \u041A\u0430\u0440\u0435\u043D."@ru ,
+		"J\u0119zyk mon \u2013 j\u0119zyk nale\u017C\u0105cy do rodziny j\u0119zyk\u00F3w austroazjatyckich, u\u017Cywany przez 750 tysi\u0119cy cz\u0142on\u00F3w ludu Mon w Mjanmie oraz oko\u0142o 100 tysi\u0119cy w Tajlandii. Wi\u0119kszo\u015B\u0107 u\u017Cytkownik\u00F3w pos\u0142uguje si\u0119 r\u00F3wnie\u017C j\u0119zykiem birma\u0144skim, m\u0142odsi Monowie znaj\u0105 czasami wy\u0142\u0105cznie birma\u0144ski."@pl ,
+		"Le m\u00F4n est une langue parl\u00E9e : \n* En Birmanie : dans la r\u00E9gion des deltas qui va de l'est de Rangoon jusqu'\u00E0 la fronti\u00E8re avec la Tha\u00EFlande, o\u00F9 il compte un total d'un peu moins de 750 000 locuteurs (2004), \n* En Tha\u00EFlande : pr\u00E8s de la fronti\u00E8re birmane et dans le bassin du M\u00E9nam (provinces de Kanchanaburi, Pathum Thani, Ratchaburi, Surat Thani, Lopburi et Khorat, nord et sud de Bangkok), o\u00F9 le nombre de locuteurs est d'un peu plus de 100 000 (2000). Si l'on en croit l'\u00E9pigraphie, la langue m\u00F4n \u00E9tait en usage dans ces m\u00EAmes r\u00E9gions au Xe si\u00E8cle apr. J.-C."@fr ;
+	foaf:name	"Mon"@en ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Mon_language .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Mon_language	dct:subject	dbc:Languages_of_Thailand ,
+		dbc:Mon_people ,
+		dbc:Monic_languages ,
+		<http://dbpedia.org/resource/Category:Subject\u2013verb\u2013object_languages> ,
+		dbc:Languages_of_Myanmar ,
+		dbc:Endangered_Austroasiatic_languages ;
+	owl:sameAs	<http://ru.dbpedia.org/resource/\u041C\u043E\u043D\u0441\u043A\u0438\u0439_\u044F\u0437\u044B\u043A> ,
+		<http://hi.dbpedia.org/resource/\u092E\u094B\u0928_\u092D\u093E\u0937\u093E> ,
+		<http://ml.dbpedia.org/resource/\u0D2E\u0D4B\u0D7B_\u0D2D\u0D3E\u0D37> .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Mon_language	owl:sameAs	yago-res:Mon_language ,
+		<http://lt.dbpedia.org/resource/Mon\u0173_kalba> ,
+		<http://pl.dbpedia.org/resource/J\u0119zyk_mon> .
+@prefix dbpedia-ms:	<http://ms.dbpedia.org/resource/> .
+dbr:Mon_language	owl:sameAs	dbpedia-ms:Bahasa_Mon ,
+		<http://nl.dbpedia.org/resource/Mon_(taal)> ,
+		<http://de.dbpedia.org/resource/Mon_(Sprache)> ,
+		<http://ko.dbpedia.org/resource/\uBAAC\uC5B4> .
+@prefix ns17:	<http://sco.dbpedia.org/resource/> .
+dbr:Mon_language	owl:sameAs	ns17:Mon_leid ,
+		<http://eo.dbpedia.org/resource/Mon_(lingvo)> .
+@prefix dbpedia-is:	<http://is.dbpedia.org/resource/> .
+dbr:Mon_language	owl:sameAs	dbpedia-is:Mon ,
+		<http://fr.dbpedia.org/resource/M\u00F4n_(langue)> ,
+		<http://ca.dbpedia.org/resource/Mon_(llengua)> ,
+		dbr:Mon_language .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:Mon_language	owl:sameAs	dbpedia-es:Idioma_mon .
+@prefix dbpedia-br:	<http://br.dbpedia.org/resource/> .
+dbr:Mon_language	owl:sameAs	dbpedia-br:Moneg .
+@prefix dbpedia-pms:	<http://pms.dbpedia.org/resource/> .
+dbr:Mon_language	owl:sameAs	dbpedia-pms:Lenga_mon .
+@prefix dbpedia-gl:	<http://gl.dbpedia.org/resource/> .
+dbr:Mon_language	owl:sameAs	dbpedia-gl:Lingua_mon ,
+		<http://vi.dbpedia.org/resource/Ti\u1EBFng_M\u00F4n> .
+@prefix dbpedia-id:	<http://id.dbpedia.org/resource/> .
+dbr:Mon_language	owl:sameAs	dbpedia-id:Bahasa_Mon .
+@prefix ns24:	<http://tl.dbpedia.org/resource/> .
+dbr:Mon_language	owl:sameAs	ns24:Wikang_Mon ,
+		<http://rdf.freebase.com/ns/m.0bxn4> ,
+		<http://ja.dbpedia.org/resource/\u30E2\u30F3\u8A9E> ,
+		<http://uk.dbpedia.org/resource/\u041C\u043E\u043D\u0441\u044C\u043A\u0430_\u043C\u043E\u0432\u0430> ,
+		<http://zh.dbpedia.org/resource/\u5B5F\u8BED> ,
+		<http://pa.dbpedia.org/resource/\u0A2E\u0A4B\u0A28_\u0A2D\u0A3E\u0A38\u0A3C\u0A3E> .
+@prefix ns25:	<http://sw.cyc.com/concept/> .
+dbr:Mon_language	owl:sameAs	ns25:Mx4rvVkIxZwpEbGdrcN5Y29ycA ,
+		<http://th.dbpedia.org/resource/\u0E20\u0E32\u0E29\u0E32\u0E21\u0E2D\u0E0D> .
+@prefix dbpedia-sw:	<http://sw.dbpedia.org/resource/> .
+dbr:Mon_language	owl:sameAs	dbpedia-sw:Kimon .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Mon_language	owl:sameAs	dbpedia-it:Lingua_mon .
+@prefix ns28:	<http://ast.dbpedia.org/resource/> .
+dbr:Mon_language	owl:sameAs	ns28:Idioma_mon .
+@prefix ns29:	<https://global.dbpedia.org/id/> .
+dbr:Mon_language	owl:sameAs	ns29:Mdke ,
+		<http://el.dbpedia.org/resource/\u0393\u03BB\u03CE\u03C3\u03C3\u03B1_\u039C\u03BF\u03BD> ,
+		<http://pnb.dbpedia.org/resource/\u0645\u0648\u0646_\u0628\u0648\u0644\u06CC> ,
+		<http://pt.dbpedia.org/resource/L\u00EDngua_mon> ,
+		wikidata:Q13349 ;
+	dbo:abstract	"\u041C\u043E\u0301\u043D\u0441\u044C\u043A\u0430 \u043C\u043E\u0301\u0432\u0430 \u2014 \u043C\u043E\u043D-\u043A\u0445\u043C\u0435\u0440\u0441\u044C\u043A\u0430 \u043C\u043E\u0432\u0430, \u044F\u043A\u043E\u044E \u0433\u043E\u0432\u043E\u0440\u044F\u0442\u044C \u043C\u043E\u043D\u0438 \u0432 \u043F\u0456\u0432\u0434\u0435\u043D\u043D\u043E-\u0441\u0445\u0456\u0434\u043D\u0456\u0439 \u041C'\u044F\u043D\u043C\u0456 \u043F\u0456\u0432\u0434\u0435\u043D\u043D\u043E-\u0441\u0445\u0456\u0434\u043D\u0456\u0439 \u0447\u0430\u0441\u0442\u0438\u043D\u0456 \u041C'\u044F\u043D\u043C\u0438, \u043C\u0456\u0436 \u043C\u0456\u0441\u0442\u0430\u043C\u0438 \u041C\u043E\u043B\u0430\u043C'\u044F\u0439\u043D \u0442\u0430 : \u0448\u0442\u0430\u0442\u0438 \u041C\u043E\u043D \u0456 \u041A\u0430\u0440\u0435\u043D, \u043E\u0431\u043B\u0430\u0441\u0442\u044C \u0422\u0430\u043D\u0456\u043D\u0442\u0430\u0457. \u0414\u0435\u043A\u0456\u043B\u044C\u043A\u0430 \u043C\u043E\u043D\u0441\u044C\u043A\u0438\u0445 \u0433\u0440\u043E\u043C\u0430\u0434 \u0454 \u0422\u0430\u0457\u043B\u0430\u043D\u0434\u0456 (\u043F\u0440\u043E\u0432\u0456\u043D\u0446\u0456\u0457 \u041A\u0430\u043D\u0447\u0430\u043D\u0430\u0431\u0443\u0440\u0456, , , \u0420\u0430\u0442\u0447\u0430\u0431\u0443\u0440\u0456 \u0456 \u0421\u0430\u043C\u0443\u0442\u0441\u0430\u043A\u0445\u043E\u043D)."@uk ,
+		"De Mon-taal is een Austroaziatische taal die gesproken wordt door de Mon, die in Myanmar en Thailand wonen. De Mon-taal is thans bedreigd, omdat de jongere generatie - onder sterke maatschappelijke druk - in toenemende mate overgaat op het Birmaans. In tegenstelling tot de meeste andere talen in de regio, is Mon geen toontaal. De Mon-taal is van groot historisch belang in Birma. Het was de lingua franca van het koninkrijk van Pagan, in de vroege middeleeuwen. Het is via de Mon dat de Birmanen het Theravada Boeddhisme en hun alfabet overnamen."@nl ,
+		"\u30E2\u30F3\u8A9E\u306F\u30AA\u30FC\u30B9\u30C8\u30ED\u30A2\u30B8\u30A2\u8A9E\u65CF\u306E\u30E2\u30F3\u30FB\u30AF\u30E1\u30FC\u30EB\u8A9E\u6D3E\u306B\u5C5E\u3059\u308B\u8A00\u8A9E\u3067\u3042\u308B\u3002\u8A71\u8005\u306F\u30E2\u30F3\u65CF\u306E\u4EBA\u3005\u3067\u3042\u308B\u3002"@ja ,
+		"\uBAAC\uC5B4(\u1018\u102C\u101E\u102C \u1019\u1014\u103A)\uB294 \uBBF8\uC580\uB9C8\uC5D0 \uC0AC\uB294 \uBAAC\uC871\uC758 \uC5B8\uC5B4\uB85C, \uC624\uC2A4\uD2B8\uB85C\uC544\uC2DC\uC544\uC5B4\uC871\uC5D0 \uC18D\uD55C\uB2E4."@ko ,
+		"\u0397 \u03B3\u03BB\u03CE\u03C3\u03C3\u03B1 \u039C\u03BF\u03BD (\u039C\u03BF\u03BD: \u1018\u102C\u101E\u102C \u1019\u1014\u103A - \u03C6\u03B5\u03CA\u03C3\u03AC\u03B1 \u03BC\u03BF\u03BD, \u0392\u03B9\u03C1\u03BC\u03B1\u03BD\u03B9\u03BA\u03AC: \u1019\u103D\u1014\u103A\u1018\u102C\u101E\u102C - \u03BC\u03BF\u03BD \u03BC\u03C0\u03AC\u03C3\u03B1) \u03B5\u03AF\u03BD\u03B1\u03B9 \u0391\u03C5\u03C3\u03C4\u03C1\u03BF\u03B1\u03C3\u03B9\u03B1\u03C4\u03B9\u03BA\u03AE \u03B3\u03BB\u03CE\u03C3\u03C3\u03B1 \u03C0\u03BF\u03C5 \u03BF\u03BC\u03B9\u03BB\u03B5\u03AF\u03C4\u03B1\u03B9 \u03B1\u03C0\u03CC \u03C4\u03BF\u03C5\u03C2 \u039C\u03BF\u03BD \u03C0\u03BF\u03C5 \u03B6\u03BF\u03C5\u03BD \u03C3\u03C4\u03B7 \u039C\u03B9\u03B1\u03BD\u03BC\u03AC\u03C1. \u0397 \u039C\u03BF\u03BD, \u03CC\u03C0\u03C9\u03C2 \u03BA\u03B1\u03B9 \u03B7 \u03C3\u03C5\u03B3\u03B3\u03B5\u03BD\u03B9\u03BA\u03AE \u03A7\u03BC\u03B5\u03C1, \u03B1\u03BB\u03BB\u03AC \u03C3\u03B5 \u03B1\u03BD\u03C4\u03AF\u03B8\u03B5\u03C3\u03B7 \u03BC\u03B5 \u03C4\u03B9\u03C2 \u03C0\u03B5\u03C1\u03B9\u03C3\u03C3\u03CC\u03C4\u03B5\u03C1\u03B5\u03C2 \u03B3\u03BB\u03CE\u03C3\u03C3\u03B5\u03C2 \u03C3\u03C4\u03B7 \u03B7\u03C0\u03B5\u03B9\u03C1\u03C9\u03C4\u03B9\u03BA\u03AE \u039D\u03BF\u03C4\u03B9\u03BF\u03B1\u03BD\u03B1\u03C4\u03BF\u03BB\u03B9\u03BA\u03AE \u0391\u03C3\u03AF\u03B1, \u03B4\u03B5\u03BD \u03B5\u03AF\u03BD\u03B1\u03B9 \u03C4\u03BF\u03BD\u03B9\u03BA\u03AE. \u03A4\u03B1 \u03C4\u03B5\u03BB\u03B5\u03C5\u03C4\u03B1\u03AF\u03B1 \u03C7\u03C1\u03CC\u03BD\u03B9\u03B1, \u03B7 \u03C7\u03C1\u03AE\u03C3\u03B7 \u03C4\u03C9\u03BD \u039C\u03BF\u03BD \u03AD\u03C7\u03B5\u03B9 \u03BC\u03B5\u03B9\u03C9\u03B8\u03B5\u03AF \u03C1\u03B1\u03B3\u03B4\u03B1\u03AF\u03B1, \u03B9\u03B4\u03AF\u03C9\u03C2 \u03BC\u03B5\u03C4\u03B1\u03BE\u03CD \u03C4\u03C9\u03BD \u03BD\u03B5\u03CC\u03C4\u03B5\u03C1\u03C9\u03BD \u03B3\u03B5\u03BD\u03B9\u03CE\u03BD. \u03A0\u03BF\u03BB\u03BB\u03BF\u03AF \u03B5\u03B8\u03BD\u03BF\u03C4\u03B9\u03BA\u03BF\u03AF \u039C\u03BF\u03BD \u03B5\u03AF\u03BD\u03B1\u03B9 \u03BC\u03BF\u03BD\u03CC\u03B3\u03BB\u03C9\u03C3\u03C3\u03BF\u03B9 \u03C3\u03C4\u03B1 \u0392\u03B9\u03C1\u03BC\u03B1\u03BD\u03B9\u03BA\u03AC \u03BA\u03B1\u03B9 \u03B7 \u03B3\u03BB\u03CE\u03C3\u03C3\u03B1 \u03C7\u03B1\u03C1\u03B1\u03BA\u03C4\u03B7\u03C1\u03AF\u03B6\u03B5\u03C4\u03B1\u03B9 \u03C9\u03C2 \"\u03C4\u03C1\u03C9\u03C4\u03AE\" \u03B1\u03C0\u03CC \u03C4\u03B7\u03BD \u039F\u03A5\u039D\u0395\u03A3\u039A\u039F. \u039F \u03C3\u03B7\u03BC\u03B5\u03C1\u03B9\u03BD\u03CC\u03C2 \u03B1\u03C1\u03B9\u03B8\u03BC\u03CC\u03C2 \u03C4\u03C9\u03BD \u03BF\u03BC\u03B9\u03BB\u03B7\u03C4\u03CE\u03BD \u03B5\u03AF\u03BD\u03B1\u03B9 \u03C0\u03B5\u03C1\u03AF\u03C0\u03BF\u03C5 800.000 \u03AC\u03C4\u03BF\u03BC\u03B1 \u03C3\u03CD\u03BC\u03C6\u03C9\u03BD\u03B1 \u03BC\u03B5 \u03B5\u03BA\u03C4\u03B9\u03BC\u03AE\u03C3\u03B5\u03B9\u03C2 \u03C4\u03BF\u03C5 2007. \u03A3\u03C4\u03B7 \u039C\u03B9\u03B1\u03BD\u03BC\u03AC\u03C1, \u03B7 \u03C0\u03BB\u03B5\u03B9\u03BF\u03C8\u03B7\u03C6\u03AF\u03B1 \u03C4\u03C9\u03BD \u03BF\u03BC\u03B9\u03BB\u03B7\u03C4\u03CE\u03BD \u03B6\u03BF\u03C5\u03BD \u03C3\u03C4\u03B7\u03BD \u03A0\u03BF\u03BB\u03B9\u03C4\u03B5\u03AF\u03B1 \u039C\u03BF\u03BD, \u03B1\u03BA\u03BF\u03BB\u03BF\u03C5\u03B8\u03BF\u03CD\u03BC\u03B5\u03BD\u03B7 \u03B1\u03C0\u03CC \u03BA\u03BF\u03B9\u03BD\u03CC\u03C4\u03B7\u03C4\u03B5\u03C2 \u03C3\u03C4\u03B7\u03BD \u03C0\u03B5\u03C1\u03B9\u03C6\u03AD\u03C1\u03B5\u03B9\u03B1 \u03A4\u03B1\u03BD\u03B9\u03BD\u03B8\u03AC\u03C1\u03B3\u03B9 \u03BA\u03B1\u03B9 \u03C0\u03BF\u03BB\u03B9\u03C4\u03B5\u03AF\u03B1 \u039A\u03B1\u03B3\u03AF\u03BD."@el ,
+		"\u041C\u043E\u043D\u0441\u043A\u0438\u0439 \u044F\u0437\u044B\u0301\u043A (\u043C\u043E\u043D\u0441\u043A. \u1018\u102C\u101E\u102C \u1019\u1014\u103A, \u1019\u103D\u1014\u103A\u1018\u102C\u101E\u102C, \u043C\u0443\u043D \u0431\u0430\u0442\u0430) \u2014 \u0430\u0432\u0441\u0442\u0440\u043E\u0430\u0437\u0438\u0430\u0442\u0441\u043A\u0438\u0439 \u044F\u0437\u044B\u043A, \u043D\u0430 \u043A\u043E\u0442\u043E\u0440\u043E\u043C \u0433\u043E\u0432\u043E\u0440\u044F\u0442 \u043C\u043E\u043D\u044B, \u043F\u0440\u043E\u0436\u0438\u0432\u0430\u044E\u0449\u0438\u0435 \u0432 \u041C\u044C\u044F\u043D\u043C\u0435 \u0438 \u0422\u0430\u0438\u043B\u0430\u043D\u0434\u0435. \u041A\u0430\u043A \u0438 \u0431\u043E\u043B\u044C\u0448\u0438\u043D\u0441\u0442\u0432\u043E \u044F\u0437\u044B\u043A\u043E\u0432 \u044D\u0442\u043E\u0439 \u0441\u0435\u043C\u044C\u0438, \u043C\u043E\u043D\u0441\u043A\u0438\u0439 \u043D\u0435 \u0438\u043C\u0435\u0435\u0442 \u0442\u043E\u043D\u043E\u0432. \u041A\u043E\u043B\u0438\u0447\u0435\u0441\u0442\u0432\u043E \u043D\u043E\u0441\u0438\u0442\u0435\u043B\u0435\u0439 \u044D\u0442\u043E\u0433\u043E \u044F\u0437\u044B\u043A\u0430 \u2014 851 000, \u043E\u0434\u043D\u0430\u043A\u043E \u0441\u0440\u0435\u0434\u0438 \u043D\u0438\u0445 \u043E\u0447\u0435\u043D\u044C \u043C\u0430\u043B\u043E \u043C\u043E\u043D\u043E\u043B\u0438\u043D\u0433\u0432\u043E\u0432 \u0412 \u043F\u043E\u0441\u043B\u0435\u0434\u043D\u0438\u0435 \u0433\u043E\u0434\u044B \u043A\u043E\u043B\u0438\u0447\u0435\u0441\u0442\u0432\u043E \u043D\u043E\u0441\u0438\u0442\u0435\u043B\u0435\u0439 \u0440\u0435\u0437\u043A\u043E \u0441\u043E\u043A\u0440\u0430\u0449\u0430\u0435\u0442\u0441\u044F, \u043E\u0441\u043E\u0431\u0435\u043D\u043D\u043E \u0441\u0440\u0435\u0434\u0438 \u043C\u043E\u043B\u043E\u0434\u0451\u0436\u0438 \u2014 \u043C\u043D\u043E\u0433\u0438\u0435 \u043C\u043E\u043D\u044B \u0433\u043E\u0432\u043E\u0440\u044F\u0442 \u0442\u043E\u043B\u044C\u043A\u043E \u043D\u0430 \u0431\u0438\u0440\u043C\u0430\u043D\u0441\u043A\u043E\u043C \u044F\u0437\u044B\u043A\u0435. \u0412 \u041C\u044C\u044F\u043D\u043C\u0435 \u043D\u043E\u0441\u0438\u0442\u0435\u043B\u0438 \u0436\u0438\u0432\u0443\u0442 \u0432 \u043E\u0434\u043D\u043E\u0438\u043C\u0451\u043D\u043D\u043E\u043C \u0448\u0442\u0430\u0442\u0435, \u0430 \u0442\u0430\u043A\u0436\u0435 \u0430\u0434\u043C\u0438\u043D\u0438\u0441\u0442\u0440\u0430\u0442\u0438\u0432\u043D\u043E\u0439 \u043E\u0431\u043B\u0430\u0441\u0442\u0438 \u0422\u0430\u043D\u0438\u043D\u0442\u0430\u0439\u0438 \u0438 \u0448\u0442\u0430\u0442\u0435 \u041A\u0430\u0440\u0435\u043D."@ru ,
+		"La lingua mon (\u1018\u102C\u101E\u102C \u1019\u1014, trascrizione IPA: [p\u02B0esa m\u0251n]) \u00E8 l'idioma tradizionale del popolo mon; fa parte del gruppo monico delle lingue mon khmer, che a loro volta fanno parte della famiglia austroasiatica. Viene parlata principalmente nella Birmania meridionale, ma vi sono diverse comunit\u00E0 mon anche in Thailandia. Nome alternativo dell'etnia e della lingua \u00E8 peguano, dall'antica capitale dei mon Pegu, o anche talaing, nome imposto dai birmani e considerato dispregiativo dai mon. La sostanziale differenza tra il mon letterario e quello moderno parlato ha generato dei problemi a livello di istruzione ed anche in internet, dove mancano un codice Unicode e altri standard per la lingua mon, che viene quindi espressa con dei grafici."@it ,
+		"The Mon language (, : \u1018\u102C\u101E\u102C \u1019\u1014\u103A; Burmese: \u1019\u103D\u1014\u103A\u1018\u102C\u101E\u102C, Thai: \u0E20\u0E32\u0E29\u0E32\u0E21\u0E2D\u0E0D, formerly known as Peguan and Talaing) is an Austroasiatic language spoken by the Mon people. Mon, like the related Khmer language, but unlike most languages in mainland Southeast Asia, is not tonal. The Mon language is a recognised indigenous language in Myanmar as well as a recognised indigenous language of Thailand. Mon was classified as a \"vulnerable\" language in UNESCO's 2010 Atlas of the World\u2019s Languages in Danger. The Mon language has faced assimilative pressures in both Myanmar and Thailand, where many individuals of Mon descent are now monolingual in Burmese or Thai respectively. In 2007, Mon speakers were estimated to number between 800,000 to 1 million. In Myanmar, the majority of Mon speakers live in Southern Myanmar, especially Mon State, followed by Tanintharyi Region and Kayin State."@en ,
+		"A l\u00EDngua mon ou, aportuguesando, mom (\u1018\u102C\u101E\u102C \u1019\u1014\u103A; \u1019\u103D\u1014\u103A\u1018\u102C\u101E\u102C) \u00E9 um idioma austro-asi\u00E1tico falado pelo povo Mon, que vive na Birm\u00E2nia (Myanmar) e Tail\u00E2ndia no vale do rio Irau\u00E1di,  Ayeyarwady. O mon, como a relacionada l\u00EDngua khmer, mas ao contr\u00E1rio da maioria l\u00EDnguas na Indochina n\u00E3o \u00E9 tonal. Atualmente o mon \u00E9 falado por aproximadamente um milh\u00E3o de pessoas, por\u00E9m nos \u00FAltimos anos, o uso de mon diminuiu rapidamente, especialmente entre a gera\u00E7\u00E3o mais jovem. Muitos \u00E9tnicos Mon s\u00E3o  monol\u00EDngues em birman\u00EAs. Na Birm\u00E2nia, a maioria dos falantes vivem no  Estado de Mon, seguido da  Regi\u00E3o de Tanintharyi e no  Estado de Kayin."@pt ,
+		"J\u0119zyk mon \u2013 j\u0119zyk nale\u017C\u0105cy do rodziny j\u0119zyk\u00F3w austroazjatyckich, u\u017Cywany przez 750 tysi\u0119cy cz\u0142on\u00F3w ludu Mon w Mjanmie oraz oko\u0142o 100 tysi\u0119cy w Tajlandii. Wi\u0119kszo\u015B\u0107 u\u017Cytkownik\u00F3w pos\u0142uguje si\u0119 r\u00F3wnie\u017C j\u0119zykiem birma\u0144skim, m\u0142odsi Monowie znaj\u0105 czasami wy\u0142\u0105cznie birma\u0144ski."@pl ,
+		"Bahasa Mon (Mon: \u1018\u102C\u101E\u102C \u1019\u1014\u103A; bahasa Myanmar: \u1019\u103D\u1014\u103A\u1018\u102C\u101E\u102C) adalah sebuah bahasa dari rumpun bahasa Austro-Asia yang dituturkan oleh , yang tinggal di Myanmar dan Thailand. Mon, seperti halnya bahasa Khmer terkait namun tidak seperti kebanyakan bahasa di , bukan merupakan bahasa bernada. Mon dituturkan oleh lebih dari satu juta orang saat ini. Dalam beberapa tahun terakhir, penggunaan bahasa Mon telah menurun dengan cepat, terutama di kalangan generasi muda. Banyak etnis Mon yang merupakan monolingual dalam bahasa Burma. Di Myanmar, mayoritas penutur bahasa ini tinggal di Negara Bagian Mon, diikuti oleh Region Tanintharyi, dan Negara Bagian Kayin. pada dsarnya bersumber dari aksara Brahmi Indic."@in ,
+		"La llengua mon (de vegades llengua talaing) \u00E9s un llenguatge austroasi\u00E0tic parlat pels mons de Birm\u00E0nia (i de la minoria mon de Tail\u00E0ndia). El parla menys d'un mili\u00F3 de persones i despr\u00E9s d'una forta assimilaci\u00F3 de m\u00E9s de dos segles de l'\u00E8tnia mon, la llengua ha tingut una baixada considerable. El 2004 es creu que els parlants de mon a Birm\u00E0nia eren uns 743.000 i a tots els pa\u00EFsos uns 851.000. L'escriptura mon \u00E9s derivada de l'escriptura indi brahmi, i \u00E9s la font de l'escriptura birmana."@ca ,
+		"El idioma mon es un idioma austroasi\u00E1tico hablado por el pueblo mon, que habita en Birmania y Tailandia. El mon a diferencia de la mayor\u00EDa de los idiomas en el sudeste asi\u00E1tico, no es de tipo tonal. Actualmente el mon es hablado por menos de un mill\u00F3n de personas.\u200B En \u00E9pocas recientes el uso del mon ha ido en r\u00E1pido declive, especialmente entre las nuevas generaciones.\u200B Muchos mon \u00E9tnicos solo hablan birmano. En Birmania, la mayor\u00EDa de los que hablan mon viven en los estados de Mon y Kayin y en la Divisi\u00F3n de Tanintharyi.\u200B La escritura mon se deriva del alfabeto brahmi indio y es la fuente del alfabeto birmano."@es ,
+		"Le m\u00F4n est une langue parl\u00E9e : \n* En Birmanie : dans la r\u00E9gion des deltas qui va de l'est de Rangoon jusqu'\u00E0 la fronti\u00E8re avec la Tha\u00EFlande, o\u00F9 il compte un total d'un peu moins de 750 000 locuteurs (2004), \n* En Tha\u00EFlande : pr\u00E8s de la fronti\u00E8re birmane et dans le bassin du M\u00E9nam (provinces de Kanchanaburi, Pathum Thani, Ratchaburi, Surat Thani, Lopburi et Khorat, nord et sud de Bangkok), o\u00F9 le nombre de locuteurs est d'un peu plus de 100 000 (2000). Si l'on en croit l'\u00E9pigraphie, la langue m\u00F4n \u00E9tait en usage dans ces m\u00EAmes r\u00E9gions au Xe si\u00E8cle apr. J.-C. Le m\u00F4n fait partie du groupe m\u00F4nique de la branche m\u00F4n-khmer de la famille des langues austroasiatiques."@fr ,
+		"\u5B5F\u8A9E\uFF08\u5B5F\u8A9E\uFF1A\u1018\u102C\u101E\u102C \u1019\u1014\u103A\uFF0C\u7DEC\u7538\u8A9E\uFF1A\u1019\u103D\u1014\u103A\u1018\u102C\u101E\u102C\uFF09\u662F\u5357\u4E9E\u8A9E\u7CFB\u4E3B\u8981\u7531\u751F\u6D3B\u5728\u7DEC\u7538\u548C\u6CF0\u570B\u7684\u5B5F\u65CF\u4EBA\u8B1B\u7684\u8A9E\u8A00\u3002\u5B83\u548C\u9AD8\u68C9\u8A9E\u5F88\u50CF\uFF0C\u90FD\u4E0D\u662F\u8072\u8ABF\u8A9E\u8A00\uFF0C\u9019\u548C\u5927\u591A\u6578\u4E2D\u5357\u534A\u5CF6\u7684\u8A9E\u8A00\u4E0D\u540C\u3002 \u4F7F\u7528\u5B5F\u8A9E\u7684\u4EBA\u6578\u5728\u4E0D\u65B7\u6E1B\u5C11\uFF0C\u5E74\u8F15\u4E00\u4EE3\u5C24\u751A\u3002 \u5728\u7DEC\u7538\uFF0C\u5927\u591A\u6578\u4F7F\u7528\u5B5F\u8A9E\u7684\u4EBA\u90FD\u751F\u6D3B\u5728\u5B5F\u90A6\uFF0C\u5176\u6B21\u662F\u5FB7\u6797\u9054\u4F9D\u548C\u514B\u502B\u90A6\u3002"@zh ,
+		"Mon (birmanisch \u1019\u103D\u1014\u103A\u1018\u102C\u101E\u102C\u1005\u1000\u102C\u1038 thail\u00E4ndisch \u0E20\u0E32\u0E29\u0E32\u0E21\u0E2D\u0E0D) ist eine austroasiatische Sprache, die von den in Birma und Thailand lebenden Mon gesprochen wird. Im Unterschied zu den meisten anderen Sprachen S\u00FCdostasiens ist Mon keine tonale Sprache, wie auch das verwandte Khmer. Mon wird von etwa einer Million Sprechern genutzt. In den letzten Jahrzehnten hat die Verwendung des Mon in der j\u00FCngeren Generation stetig abgenommen Viele Mon sind heute nur noch der birmanischen Sprache m\u00E4chtig. Die meisten Sprecher des Mon leben im Mon-Staat, gefolgt von der Tanintharyi-Division und dem Kayin-Staat. Die Schrift der Mon ist aus der indischen Brahmi-Schrift abgeleitet und diente als Grundlage der heutigen birmanischen Schrift."@de ,
+		"La lingvo mon (birme \u1019\u103D\u1014\u103A\u1018\u102C\u101E\u102C\u1005\u1000\u102C\u1038, taje \u0E20\u0E32\u0E29\u0E32\u0E21\u0E2D\u0E0D) apartenas al la a\u016Dstralazia lingvaro kaj estas parolata de 1 miliono da homoj apartenantaj al la  kiuj lo\u011Das en Birmo (Mjanmao) kaj Tajlando. La lingvo mon estas minacata lingvo, \u0109ar la pli juna generacio - sub forta socia premo - pli kaj pli ekuzas la birman lingvon. Male al plej multaj aliaj lingvoj en la regiono, la lingvo mon ne estas tona lingvo. La alfabeto de la lingvo mon havas 35 konsonantojn, inkluzive de vokalo traktata kiel konsonanto. La lingvokodo estas Mon [mnw] ISO 639-3. \u011Ciaj parolantoj \u0109efe lo\u011Das en la birmaj sub\u015Dtatoj Kajino,  kaj  (Tenasserim)."@eo ;
+	dbp:ethnicity	dbr:Mon_people ;
+	dbp:linglist	"omx"@en .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Mon_language	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Mon_language?oldid=983843302&ns=0> ;
+	dbp:name	"Mon"@en ;
+	dbp:ref	"e18"@en ;
+	dbp:nativename	""@en ;
+	dbo:wikiPageExternalLink	<https://books.google.com/books%3Fid=kqYTAAAAQAAJ> .
+@prefix ns31:	<http://en.wiktionary.org/wiki/Appendix:> .
+dbr:Mon_language	dbo:wikiPageExternalLink	ns31:Swadesh_lists ,
+		<http://www.ibiblio.org/obl/docs/Mon%20Language%20in%20Thailand.htm> ,
+		<http://sealang.net/mk/monic.htm> ,
+		<http://sealang.net/oldmon/> ,
+		<https://web.archive.org/web/20051025134044/http:/www.albany.edu/anthro/fac/broadwell/mon/> ,
+		<http://www.ling.hawaii.edu/austroasiatic/AA/A%20hypertext%20grammar%20of%20the%20Mon%20language.htm> ,
+		<https://web.archive.org/web/20070915133208/http:/www.anu.edu.au/~u9907217/languages/Monic.html> ,
+		ns31:Swadesh_lists_for_Austro-Asiatic_languages ,
+		<http://www.anu.edu.au/~u9907217/languages/Monic.html> ;
+	dbp:region	dbr:Lower_Myanmar ;
+	dbp:states	dbr:Tanintharyi_Region ,
+		dbr:Myanmar ,
+		dbr:Mon_State ,
+		dbr:Kayin_State ;
+	dbo:spokenIn	dbr:Mon_State ,
+		dbr:Kayin_State ,
+		dbr:Myanmar ,
+		dbr:Lower_Myanmar ,
+		dbr:Tanintharyi_Region ;
+	dbp:speakers	800000 ;
+	dbp:notice	"IPA"@en ;
+	dbp:script	dbr:Burmese_script ;
+	dbp:glottoname	"Old Mon"@en ,
+		"Modern Mon"@en .
+@prefix ns32:	<http://www.w3.org/2006/03/wn/wn20/instances/> .
+dbr:Mon_language	dbp:wordnet_type	ns32:synset-language-noun-1 ;
+	dbp:fam	dbr:Monic_languages ;
+	dbp:ld	"Modern Mon"@en ,
+		"Old Mon"@en ;
+	dbp:lc	"omx"@en ,
+		"mnw"@en ;
+	dbp:glottorefname	"Mon"@en ;
+	dbp:familycolor	"Austroasiatic"@en ;
+	dbp:glotto	"oldm1242"@en ,
+		"monn1252"@en ;
+	dbo:languageFamily	dbr:Monic_languages ;
+	dbp:date	2007 ;
+	dbp:lingname	"Old Mon"@en ;
+	dbo:wikiPageID	43527 ;
+	dbo:wikiPageRevisionID	983843302 ;
+	dbo:wikiPageWikiLink	dbr:Irrawaddy_Delta ,
+		dbr:Sonorant ,
+		dbr:Red_Book_of_Endangered_Languages ,
+		dbr:Myanmar ,
+		dbr:Mon_State ,
+		dbr:Tanintharyi_Region ,
+		dbr:Velar_consonant ,
+		dbr:Glottal_consonant ,
+		dbr:Palatal_consonant ,
+		dbr:Phetchaburi ,
+		dbr:Lingua_franca ,
+		dbr:Myazedi_inscription ,
+		dbr:Kanchanaburi ,
+		dbr:Nakhon_Pathom_Province ,
+		dbr:Lower_Myanmar ,
+		dbr:Virama ,
+		dbr:Zero_consonant ,
+		dbr:Restored_Hanthawaddy_Kingdom ,
+		dbr:Saraburi ,
+		dbr:Thaton_Kingdom ,
+		dbr:Mawlamyine ,
+		dbc:Endangered_Austroasiatic_languages ,
+		dbc:Languages_of_Thailand ,
+		dbr:Pagan_Kingdom ,
+		dbr:Old_Mon_script ,
+		dbr:Khmer_Empire ,
+		dbr:Diacritic ,
+		dbr:Pali ,
+		dbr:Comma ,
+		dbr:Wh-movement ,
+		<http://dbpedia.org/resource/Ye,_Mon_State> ,
+		<http://dbpedia.org/resource/Register_(phonology)> ,
+		dbr:Austroasiatic_languages ,
+		dbr:Sanskrit ,
+		<http://dbpedia.org/resource/Tone_(linguistics)> ,
+		dbr:First_language ,
+		dbr:Medium_of_instruction ,
+		dbr:Samut_Sakhon_Province ,
+		dbr:Nakhon_Pathom ,
+		dbr:Mon_people ,
+		dbr:Thailand ,
+		<http://dbpedia.org/resource/Classifier_(linguistics)> ,
+		dbr:Mainland_Southeast_Asia ,
+		dbr:Burmese_language ,
+		dbr:Fricative ,
+		<http://dbpedia.org/resource/Myeik,_Myanmar> ,
+		dbr:Breathy_voice ,
+		dbr:Hanthawaddy_Kingdom ,
+		dbr:Dvaravati ,
+		dbr:Sittaung_River ,
+		dbr:Upper_Myanmar ,
+		dbr:Bilabial_consonant ,
+		dbr:Consonant_cluster ,
+		dbr:Khmer_language ,
+		dbr:Thai_language ,
+		dbr:Irrawaddy_River ,
+		dbr:Nyah_Kur_language ,
+		dbr:Ratchaburi ,
+		<http://dbpedia.org/resource/Prestige_(sociolinguistics)> ,
+		dbr:UNESCO ,
+		<http://dbpedia.org/resource/Category:Subject\u2013verb\u2013object_languages> ,
+		dbr:Bamar_people ,
+		dbr:Kyansittha ,
+		dbr:Kayin_State ,
+		dbr:Thaification ,
+		dbr:Full_stop ,
+		dbr:Plosive ,
+		dbr:Dental_consonant ,
+		dbr:Prachuap_Khiri_Khan ,
+		dbr:Samut_Songkhram_Province ,
+		dbr:Creaky_voice ,
+		dbc:Mon_people ,
+		dbc:Monic_languages ,
+		dbr:Monic_languages ,
+		dbr:Kawthaung ,
+		<http://dbpedia.org/resource/Pyu_language_(Burma)> ,
+		dbr:Burmese_script ,
+		dbr:New_Mon_State_Party ,
+		<http://dbpedia.org/resource/File:Myazedi-Inscription-Mon.JPG> ,
+		dbr:Mottama ,
+		dbr:Nasal_consonant ,
+		dbc:Languages_of_Myanmar ,
+		dbr:Languages_of_Thailand ,
+		dbr:Minimal_pair ,
+		<http://dbpedia.org/resource/Bago,_Myanmar> ,
+		dbr:Lavo_Kingdom ,
+		dbr:Ko_Kret .
+@prefix dbt:	<http://dbpedia.org/resource/Template:> .
+dbr:Mon_language	dbp:wikiPageUsesTemplate	dbt:Reflist ,
+		dbt:IPAc-en ,
+		dbt:Languages_of_Thailand ,
+		dbt:Austro-Asiatic_languages ,
+		dbt:My ,
+		dbt:Sfn ,
+		dbt:Languages_of_Burma ,
+		dbt:Infobox_language ,
+		dbt:Commons_category ,
+		dbt:About ,
+		dbt:ISBN ,
+		dbt:IPA ,
+		dbt:Short_description ,
+		dbt:Flag ,
+		dbt:Cite_book ,
+		dbt:InterWiki ,
+		dbt:Cite_web ,
+		dbt:IPA-mnw ,
+		dbt:Mon_alphabet .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Mon_language	dbo:wikiPageLength	"33989"^^xsd:nonNegativeInteger .
+dbr:Ananda_Temple	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:Languages_of_Thailand	dbp:regional	dbr:Mon_language ;
+	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:Nyah_Kur_people	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:Gerolamo_Emilio_Gerini	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:Kalyani_Inscriptions	dbo:language	dbr:Mon_language ;
+	dbo:wikiPageWikiLink	dbr:Mon_language ;
+	dbp:language	dbr:Mon_language .
+<http://dbpedia.org/resource/Mon_Yazawin_(Shwe_Naw)>	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:Pak_Lat_Chronicles	dbo:language	dbr:Mon_language ;
+	dbo:wikiPageWikiLink	dbr:Mon_language ;
+	dbp:language	dbr:Mon_language .
+dbr:Lik_Amin_Asah	dbo:language	dbr:Mon_language ;
+	dbo:wikiPageWikiLink	dbr:Mon_language ;
+	dbp:language	dbr:Mon_language .
+dbr:Shwezigon_Pagoda_Bell_Inscription	dbo:language	dbr:Mon_language ;
+	dbo:wikiPageWikiLink	dbr:Mon_language ;
+	dbp:language	dbr:Mon_language .
+dbr:Mon_Yazawin	dbo:wikiPageWikiLink	dbr:Mon_language .
+<http://dbpedia.org/resource/Gavampati_(chronicle)>	dbo:language	dbr:Mon_language ;
+	dbo:wikiPageWikiLink	dbr:Mon_language ;
+	dbp:language	dbr:Mon_language .
+dbr:Burma_studies	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:Razadarit_Ayedawbon	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:Slapat_Rajawan	dbo:language	dbr:Mon_language ;
+	dbo:wikiPageWikiLink	dbr:Mon_language ;
+	dbp:language	dbr:Mon_language .
+dbr:Nidana_Arambhakatha	dbo:language	dbr:Mon_language ;
+	dbo:wikiPageWikiLink	dbr:Mon_language ;
+	dbp:language	dbr:Mon_language .
+ns5:o	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:Kyansittha	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:Sampheng	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:Wareru_Dhammathat	dbo:language	dbr:Mon_language ;
+	dbo:wikiPageWikiLink	dbr:Mon_language ;
+	dbp:language	dbr:Mon_language .
+dbr:Journal_of_the_Burma_Research_Society	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:Kyaikmaraw	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:Kyaiktiyo_Pagoda	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:Kyimyindaing_Township	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:Laukpya	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:Shin_Sawbu	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:Shwezigon_Pagoda_Bell	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:Tamwe_Township	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:Tarabya_of_Ava	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:Wareru	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:Takayutpi	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:Zayat	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:Yamankan	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:Yazakumar	dbo:wikiPageWikiLink	dbr:Mon_language .
+<http://dbpedia.org/resource/Ye,_Mon_State>	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:Ayutthaya_Testimonies	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:Madauk	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:Songkalia_River	dbo:wikiPageWikiLink	dbr:Mon_language .
+dbr:Swa_Saw_Ke	dbo:wikiPageWikiLink	dbr:Mon_language .

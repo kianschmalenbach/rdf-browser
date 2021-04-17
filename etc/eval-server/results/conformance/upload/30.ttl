@@ -1,0 +1,68 @@
+
+
+
+
+    
+
+    @prefix dc: <http://purl.org/dc/terms/> .@prefix ili: <http://ili.globalwordnet.org/ili/> .@prefix ontolex: <http://www.w3.org/ns/lemon/ontolex#> .@prefix owl: <http://www.w3.org/2002/07/owl#> .@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .@prefix synsem: <http://www.w3.org/ns/lemon/synsem#> .@prefix wn: <http://wordnet-rdf.princeton.edu/ontology#> .
+    
+
+    <https://en-word.net/id/ewn-00194514-v> dc:subject "verb.change"  ;
+wn:definition [ rdf:value "take milk from female mammals"@en  ]  ;
+wn:hypernym <https://en-word.net/id/ewn-01858118-v>  ;
+wn:hyponym <https://en-word.net/id/ewn-00194423-v>  ;
+wn:partOfSpeech wn:verb  ;
+wn:similar <https://en-word.net/id/ewn-00194717-v>  ;
+rdf:type ontolex:LexicalConcept  ;
+owl:sameAs ili:i22689   .<https://en-word.net/id/ewn-00194717-v> dc:subject "verb.change"  ;
+wn:definition [ rdf:value "add milk to"@en  ]  ;
+wn:hypernym <https://en-word.net/id/ewn-00182551-v>  ;
+wn:partOfSpeech wn:verb  ;
+wn:similar <https://en-word.net/id/ewn-00194514-v>  ;
+rdf:type ontolex:LexicalConcept  ;
+owl:sameAs ili:i22690   .<https://en-word.net/id/ewn-01167222-v> dc:subject "verb.consumption"  ;
+wn:definition [ rdf:value "exploit as much as possible"@en  ]  ;
+wn:hypernym <https://en-word.net/id/ewn-01166589-v>  ;
+wn:partOfSpeech wn:verb  ;
+rdf:type ontolex:LexicalConcept  ;
+owl:sameAs ili:i27443   .<https://en-word.net/id/ewn-05406377-n> dc:subject "noun.body"  ;
+wn:definition [ rdf:value "produced by mammary glands of female mammals for feeding their young"@en  ]  ;
+wn:hypernym <https://en-word.net/id/ewn-05404811-n> ,<https://en-word.net/id/ewn-07586285-n>  ;
+wn:hyponym <https://en-word.net/id/ewn-05406586-n> ,<https://en-word.net/id/ewn-05406699-n>  ;
+wn:partOfSpeech wn:noun  ;
+rdf:type ontolex:LexicalConcept  ;
+owl:sameAs ili:i65344   .<https://en-word.net/id/ewn-07860018-n> dc:subject "noun.food"  ;
+wn:definition [ rdf:value "a white nutritious liquid secreted by mammals and used as food by human beings"@en  ]  ;
+wn:hypernym <https://en-word.net/id/ewn-07859751-n> ,<https://en-word.net/id/ewn-07897775-n>  ;
+wn:hyponym <https://en-word.net/id/ewn-07860762-n> ,<https://en-word.net/id/ewn-07861142-n> ,<https://en-word.net/id/ewn-07861311-n> ,<https://en-word.net/id/ewn-07861397-n> ,<https://en-word.net/id/ewn-07861471-n> ,<https://en-word.net/id/ewn-07861547-n> ,<https://en-word.net/id/ewn-07861678-n> ,<https://en-word.net/id/ewn-07861751-n> ,<https://en-word.net/id/ewn-07861839-n> ,<https://en-word.net/id/ewn-07861990-n> ,<https://en-word.net/id/ewn-07862119-n> ,<https://en-word.net/id/ewn-07862335-n> ,<https://en-word.net/id/ewn-07862447-n> ,<https://en-word.net/id/ewn-07862533-n> ,<https://en-word.net/id/ewn-07862664-n> ,<https://en-word.net/id/ewn-07862778-n> ,<https://en-word.net/id/ewn-07862914-n> ,<https://en-word.net/id/ewn-07863023-n> ,<https://en-word.net/id/ewn-07937600-n>  ;
+<http://wordnet-rdf.princeton.edu/ontology#mero_substance> <https://en-word.net/id/ewn-14752903-n>  ;
+wn:partOfSpeech wn:noun  ;
+rdf:type ontolex:LexicalConcept  ;
+owl:sameAs ili:i78383   .<https://en-word.net/id/ewn-07860580-n> dc:subject "noun.food"  ;
+wn:definition [ rdf:value "any of several nutritive milklike liquids"@en  ]  ;
+wn:hypernym <https://en-word.net/id/ewn-07581905-n>  ;
+wn:hyponym <https://en-word.net/id/ewn-07789404-n> ,<https://en-word.net/id/ewn-07856648-n> ,<https://en-word.net/id/ewn-07860843-n> ,<https://en-word.net/id/ewn-07861063-n>  ;
+wn:partOfSpeech wn:noun  ;
+rdf:type ontolex:LexicalConcept  ;
+owl:sameAs ili:i78384   .<https://en-word.net/ttl/lemma/milk#milk-ewn-00194514-v> wn:derivation <https://en-word.net/rdf/lemma/milk#milk-ewn-05406377-n> ,<https://en-word.net/rdf/lemma/milk#milk-ewn-07860018-n>  ;
+rdf:type ontolex:LexicalSense  ;
+ontolex:isLexicalizedSenseOf <https://en-word.net/id/ewn-00194514-v>   .<https://en-word.net/ttl/lemma/milk#milk-ewn-00194717-v> wn:derivation <https://en-word.net/rdf/lemma/milk#milk-ewn-05406377-n> ,<https://en-word.net/rdf/lemma/milk#milk-ewn-07860018-n> ,<https://en-word.net/rdf/lemma/milk#milk-ewn-07860580-n>  ;
+rdf:type ontolex:LexicalSense  ;
+ontolex:isLexicalizedSenseOf <https://en-word.net/id/ewn-00194717-v>   .<https://en-word.net/ttl/lemma/milk#milk-ewn-01167222-v> rdf:type ontolex:LexicalSense  ;
+ontolex:isLexicalizedSenseOf <https://en-word.net/id/ewn-01167222-v>   .<https://en-word.net/ttl/lemma/milk#milk-ewn-05406377-n> wn:derivation <https://en-word.net/rdf/lemma/milk#milk-ewn-00194514-v> ,<https://en-word.net/rdf/lemma/milk#milk-ewn-00194717-v>  ;
+rdf:type ontolex:LexicalSense  ;
+ontolex:isLexicalizedSenseOf <https://en-word.net/id/ewn-05406377-n>   .<https://en-word.net/ttl/lemma/milk#milk-ewn-07860018-n> wn:derivation <https://en-word.net/rdf/lemma/milk#milk-ewn-00194514-v> ,<https://en-word.net/rdf/lemma/milk#milk-ewn-00194717-v> ,<https://en-word.net/rdf/lemma/milky#milky-ewn-00436098-s>  ;
+rdf:type ontolex:LexicalSense  ;
+ontolex:isLexicalizedSenseOf <https://en-word.net/id/ewn-07860018-n>   .<https://en-word.net/ttl/lemma/milk#milk-ewn-07860580-n> wn:derivation <https://en-word.net/rdf/lemma/milk#milk-ewn-00194717-v>  ;
+rdf:type ontolex:LexicalSense  ;
+ontolex:isLexicalizedSenseOf <https://en-word.net/id/ewn-07860580-n>   .<https://en-word.net/ttl/lemma/milk#milk-n> wn:partOfSpeech wn:noun  ;
+rdf:type ontolex:LexicalEntry  ;
+ontolex:canonicalForm [ ontolex:writtenRep "milk"@en  ]  ;
+ontolex:sense <https://en-word.net/ttl/lemma/milk#milk-ewn-05406377-n> ,<https://en-word.net/ttl/lemma/milk#milk-ewn-07860018-n> ,<https://en-word.net/ttl/lemma/milk#milk-ewn-07860580-n>   .<https://en-word.net/ttl/lemma/milk#milk-v> wn:partOfSpeech wn:verb  ;
+rdf:type ontolex:LexicalEntry  ;
+ontolex:canonicalForm [ ontolex:writtenRep "milk"@en  ]  ;
+ontolex:sense <https://en-word.net/ttl/lemma/milk#milk-ewn-00194514-v> ,<https://en-word.net/ttl/lemma/milk#milk-ewn-00194717-v> ,<https://en-word.net/ttl/lemma/milk#milk-ewn-01167222-v>  ;
+synsem:synBehavior [ rdfs:label "Somebody ----s something"@en  ]   .
+
+
+

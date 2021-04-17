@@ -1,0 +1,1268 @@
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+dbr:Bird	dbo:wikiPageWikiLink	dbr:History_of_Italy .
+dbr:Horatio_Brown	dbo:wikiPageWikiLink	dbr:History_of_Italy .
+dbr:Prime_Minister_of_Italy	dbo:wikiPageWikiLink	dbr:History_of_Italy .
+dbr:Matteo_Renzi	dbo:wikiPageWikiLink	dbr:History_of_Italy .
+dbr:List_of_military_occupations	dbo:wikiPageWikiLink	dbr:History_of_Italy .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Economic_history_of_World_War_I	rdfs:seeAlso	dbr:History_of_Italy .
+dbr:America-Italy_Society_of_Philadelphia	dbo:wikiPageWikiLink	dbr:History_of_Italy .
+dbr:Gustaf_VI_Adolf	dbo:wikiPageWikiLink	dbr:History_of_Italy .
+dbr:Pieter_Burman_the_Elder	dbo:wikiPageWikiLink	dbr:History_of_Italy .
+dbr:Philippe_Monnier	dbo:wikiPageWikiLink	dbr:History_of_Italy .
+dbr:Historic_Compromise	dbo:wikiPageWikiLink	dbr:History_of_Italy .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:The_Night_Battles	dbp:subject	dbr:History_of_Italy ;
+	dbo:wikiPageWikiLink	dbr:History_of_Italy .
+dbr:Vincenzo_Sangermano	dbo:wikiPageWikiLink	dbr:History_of_Italy .
+<http://dbpedia.org/resource/Domonkos_I,_Archbishop_of_Esztergom>	dbo:wikiPageWikiLink	dbr:History_of_Italy .
+dbr:Enrico_Giovannini	dbo:wikiPageWikiLink	dbr:History_of_Italy .
+<http://dbpedia.org/resource/Flores_(surname)>	dbo:wikiPageWikiLink	dbr:History_of_Italy .
+dbr:Graham_Loud	dbp:subDiscipline	dbr:History_of_Italy ;
+	dbo:wikiPageWikiLink	dbr:History_of_Italy .
+dbr:Palatine_Hill	dbo:wikiPageWikiLink	dbr:History_of_Italy .
+dbr:Bondeno	dbo:wikiPageWikiLink	dbr:History_of_Italy .
+dbr:Lake_of_Cutilia	dbo:wikiPageWikiLink	dbr:History_of_Italy .
+dbr:List_of_people_executed_by_the_Tudors	dbo:wikiPageWikiLink	dbr:History_of_Italy .
+dbr:Prison_Notebooks	dbo:wikiPageWikiLink	dbr:History_of_Italy .
+dbr:Denis_Mack_Smith	dbo:wikiPageWikiLink	dbr:History_of_Italy .
+dbr:Politics_of_Italy	dbo:wikiPageWikiLink	dbr:History_of_Italy .
+dbr:Giuseppe_Mazzini	dbo:wikiPageWikiLink	dbr:History_of_Italy .
+dbr:History_of_Austria	dbo:wikiPageWikiLink	dbr:History_of_Italy .
+dbr:Italian_nationalism	dbo:wikiPageWikiLink	dbr:History_of_Italy .
+dbr:Christopher_Duggan	dbp:subDiscipline	dbr:History_of_Italy ;
+	dbo:wikiPageWikiLink	dbr:History_of_Italy .
+dbr:Rawdon_Brown	dbo:wikiPageWikiLink	dbr:History_of_Italy .
+dbr:Asti_wine	dbo:wikiPageWikiLink	dbr:History_of_Italy .
+dbr:Giorgio_Napolitano	dbo:wikiPageWikiLink	dbr:History_of_Italy .
+dbr:Order_of_Saint_Lazarus	dbo:wikiPageWikiLink	dbr:History_of_Italy .
+dbr:Constitution_of_Italy	dbo:wikiPageWikiLink	dbr:History_of_Italy .
+dbr:Signoria_of_Florence	dbo:wikiPageWikiLink	dbr:History_of_Italy .
+dbr:Spunti_e_ricerche	dbo:wikiPageWikiLink	dbr:History_of_Italy .
+dbr:Italy	dbp:sovereigntyType	dbr:History_of_Italy ;
+	dbo:wikiPageWikiLink	dbr:History_of_Italy .
+dbr:Italian_Peninsula	dbo:wikiPageWikiLink	dbr:History_of_Italy .
+dbr:List_of_European_cuisines	dbo:wikiPageWikiLink	dbr:History_of_Italy .
+dbr:Library_of_Congress_Classification	dbo:wikiPageWikiLink	dbr:History_of_Italy .
+dbr:List_of_Dewey_Decimal_classes	dbo:wikiPageWikiLink	dbr:History_of_Italy .
+dbr:List_of_historians_by_area_of_study	dbo:wikiPageWikiLink	dbr:History_of_Italy .
+dbr:The_Story_of_Civilization	dbo:wikiPageWikiLink	dbr:History_of_Italy .
+<http://dbpedia.org/resource/Library_of_Congress_Classification:Class_D_--_History,_General_and_Old_World>	dbo:wikiPageWikiLink	dbr:History_of_Italy .
+<http://dbpedia.org/resource/History_of_Macedonia_(ancient_kingdom)>	dbo:wikiPageWikiLink	dbr:History_of_Italy .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+wikipedia-en:History_of_Italy	foaf:primaryTopic	dbr:History_of_Italy .
+dbr:Regional_Italian	dbo:wikiPageWikiLink	dbr:History_of_Italy .
+dbr:Italians	dbo:wikiPageWikiLink	dbr:History_of_Italy .
+dbr:History_of_Slovenia	dbo:wikiPageWikiLink	dbr:History_of_Italy .
+dbr:The_Italian_Bob	dbo:wikiPageWikiLink	dbr:History_of_Italy .
+<http://dbpedia.org/resource/Heidenmauer_(Palatinate)>	dbo:wikiPageWikiLink	dbr:History_of_Italy .
+dbr:Jews_of_San_Nicandro	dbo:wikiPageWikiLink	dbr:History_of_Italy .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:History_of_Italy	rdf:type	owl:Thing ;
+	rdfs:label	"Historia W\u0142och"@pl ,
+		"Histoire de l'Italie"@fr ,
+		"\u7FA9\u5927\u5229\u6B77\u53F2"@zh ,
+		"D\u011Bjiny It\u00E1lie"@cs ,
+		"Italiako historia"@eu ,
+		"\uC774\uD0C8\uB9AC\uC544\uC758 \uC5ED\uC0AC"@ko ,
+		"Storia d'Italia"@it ,
+		"History of Italy"@en ,
+		"Hist\u00F2ria d'It\u00E0lia"@ca ,
+		"Geschiedenis van Itali\u00EB"@nl ,
+		"Italiens historia"@sv ,
+		"\u062A\u0627\u0631\u064A\u062E \u0625\u064A\u0637\u0627\u0644\u064A\u0627"@ar ,
+		"\u0418\u0441\u0442\u043E\u0440\u0438\u044F \u0418\u0442\u0430\u043B\u0438\u0438"@ru ,
+		"\u0406\u0441\u0442\u043E\u0440\u0456\u044F \u0406\u0442\u0430\u043B\u0456\u0457"@uk ,
+		"Hist\u00F3ria da It\u00E1lia"@pt ,
+		"Geschichte Italiens"@de ,
+		"\u30A4\u30BF\u30EA\u30A2\u306E\u6B74\u53F2"@ja ,
+		"Historia de Italia"@es ;
+	rdfs:comment	"\u0643\u0627\u0646\u062A \u0625\u064A\u0637\u0627\u0644\u064A\u0629 \u0645\u0646\u0630 \u0641\u062C\u0631 \u062A\u0627\u0631\u064A\u062E\u0647\u0627 \u0645\u0639\u0628\u0631\u0627\u064B \u0644\u0644\u062A\u0623\u062B\u064A\u0631\u0627\u062A \u0627\u0644\u062D\u0636\u0627\u0631\u064A\u0629 \u0627\u0644\u0642\u0627\u062F\u0645\u0629 \u0645\u0646 \u0627\u0644\u0634\u0631\u0642 \u0645\u0646\u0630 \u0623\u0642\u062F\u0645 \u0627\u0644\u0623\u0632\u0645\u0646\u0629\u060C \u0648\u062A\u0643\u0627\u062F \u062A\u0646\u0639\u0632\u0644 \u0639\u0646 \u0648\u0633\u0637 \u0623\u0648\u0631\u0628\u0629 \u0628\u0633\u0644\u0633\u0644\u0629 \u062C\u0628\u0627\u0644 \u0627\u0644\u0623\u0644\u0628 \u0627\u0644\u0636\u062E\u0645\u0629\u060C \u0644\u0648\u0644\u0627 \u0648\u062C\u0648\u062F \u0645\u0639\u0627\u0628\u0631 \u0648\u0645\u0641\u0627\u0632\u0627\u062A \u062C\u0628\u0644\u064A\u0629 \u062A\u0631\u0628\u0637\u0647\u0627 \u0628\u0645\u0627 \u064A\u062D\u064A\u0637 \u0628\u0647\u0627 \u0645\u0646 \u0627\u0644\u0642\u0627\u0631\u0629."@ar ,
+		"It\u00E1lie, sjednocen\u00E1 v roce 1861, v\u00FDznamn\u011B p\u0159isp\u011Bla ke kulturn\u00EDmu a soci\u00E1ln\u00EDmu rozvoji cel\u00E9 st\u0159edomo\u0159sk\u00E9 oblasti. Ji\u017E od prav\u011Bku zde rozkv\u00E9taly v\u00FDznamn\u00E9 civilizace. Kulturn\u011B a lingvisticky lze po\u010D\u00E1tky italsk\u00FDch d\u011Bjin vysledovat a\u017E do 9. stolet\u00ED p\u0159. n. l., odkdy existuj\u00ED prvn\u00ED pam\u00E1tky na p\u0159\u00EDtomnost italick\u00FDch kmen\u016F na Apeninsk\u00E9m poloostrov\u011B. Z jazykov\u00E9ho hlediska je d\u011Bl\u00EDme na: Osk\u00E1nce, Umbry a Latiny. Pr\u00E1v\u011B latinsk\u00E1 civilizace se posl\u00E9ze roz\u0161\u00ED\u0159ila a d\u00EDky mocensk\u00E9mu r\u016Fstu starov\u011Bk\u00E9ho \u0158\u00EDma se stala dominantn\u00ED na cel\u00E9m poloostrov\u011B."@cs ,
+		"\u7FA9\u5927\u5229\u662F\u6B50\u6D32\u6B77\u53F2\u53E4\u570B\uFF0C\u5728\u820A\u77F3\u5668\u6642\u4EE3\u5C31\u5DF2\u6709\u4EBA\u985E\u5728\u9019\u7247\u571F\u5730\u4E0A\u751F\u6D3B\u3002\u4F0A\u7279\u9C81\u91CC\u4E9A\u3001\u5927\u5E0C\u81D8\u662F\u6B50\u6D32\u6587\u660E\u53E4\u570B\u3002\u7F85\u99AC\u5171\u548C\u570B\u548C\u7F85\u99AC\u5E1D\u570B\u66FE\u7D93\u7D71\u6CBB\u4E16\u754C\u7684\u4E00\u90E8\u5206\u9054\u6578\u500B\u4E16\u7D00\uFF0C\u70BA\u540E\u4E16\u7559\u4E0B\u6DF1\u9060\u7684\u5F71\u97FF\u7684\u8CA2\u737B\u3002\u7FA9\u5927\u5229\u4E5F\u662F\u6587\u85DD\u5FA9\u8208\u904B\u52D5\u7684\u6416\u7C43\u3002\u7D93\u904E\u9577\u671F\u7684\u5206\u88C2\u5F8C\uFF0C\u7FA9\u5927\u5229\u7D42\u65BC\u572819\u4E16\u7D00\u6210\u70BA\u4E00\u500B\u7D71\u4E00\u7684\u570B\u5BB6\u3002"@zh ,
+		"L'Italie poss\u00E8de une histoire qui est intimement li\u00E9e \u00E0 la culture occidentale, \u00E0 l'Europe et au bassin m\u00E9diterran\u00E9en. H\u00E9riti\u00E8re des cultures antiques comme celle des Shardanes, des \u00C9trusques ou des Latins, r\u00E9ceptrice de la colonisation grecque et carthaginoise, l'Italie a vu na\u00EEtre la civilisation romaine et son Empire, l'un des plus grands \u00E9v\u00E8nements de l'histoire, qui fut le berceau de la culture occidentale. Lors du d\u00E9clin de l'Empire romain d'Occident, l'Italie a subi une s\u00E9rie d'invasions germaniques avec des tentatives de r\u00E9unifications byzantines pour reconstruire l'unit\u00E9 imp\u00E9riale. Si\u00E8ge de la papaut\u00E9 et source de l\u00E9gitimit\u00E9 imp\u00E9riale m\u00E9di\u00E9vale, elle a \u00E9t\u00E9 dans ces temps un foyer de discordes et d'invasions."@fr ,
+		"Historia W\u0142och \u2013 W okresie paleolitu tereny W\u0142och zamieszkiwali Ligurowie i Sykulowie. W okresie staro\u017Cytno\u015Bci tereny W\u0142och znalaz\u0142y si\u0119 pod panowaniem Rzymian. Przed okresem rzymskim tereny W\u0142och by\u0142y zamieszkiwane przez Fenicjan i Grek\u00F3w. Od \u015Bredniowiecza do po\u0142owy XIX wieku, pomimo \u017Ce P\u00F3\u0142wysep Apeni\u0144ski by\u0142 sp\u00F3jny pod wzgl\u0119dem j\u0119zykowym i kulturowym, jego historia sk\u0142ada\u0142a si\u0119 z dziej\u00F3w niezale\u017Cnych republik i ksi\u0119stw oraz obcych posiad\u0142o\u015Bci i stref wp\u0142yw\u00F3w. W 1861 roku dosz\u0142o do zjednoczenia wszystkich tych pa\u0144stw \u2013 og\u0142oszono powstanie Kr\u00F3lestwa W\u0142och i koronowano Wiktora Emanuela II na kr\u00F3la tego pa\u0144stwa. W pocz\u0105tkach XX wieku W\u0142ochy sta\u0142y si\u0119 pa\u0144stwem faszystowskim. Po II wojnie \u015Bwiatowej w  obywatele W\u0142och opowiedzieli si\u0119 za zmian\u0105 ustroju pa\u0144stwa na republik\u0119, na czele kt\u00F3rej stoi"@pl ,
+		"La storia d'Italia \u00E8 legata alla cultura occidentale, alla storia d'Europa e alle civilt\u00E0 del bacino del Mediterraneo. L'Italia ha vissuto i principali eventi storici del mondo occidentale. L'Italia ha ereditato culture antiche come quella etrusca, latina e greca, ha ospitato insediamenti celti nonch\u00E9 colonie di origine greca e fenicio-cartaginese, ed \u00E8 inoltre stata culla di alcuni fenomeni che hanno segnato la cultura occidentale quali l'Impero romano e il papato, dopo essere stata in parte sotto la dominazione di Goti, Longobardi, Arabo-Berberi, Bizantini e Normanni."@it ,
+		"\uC774\uD0C8\uB9AC\uC544\uC758 \uC5ED\uC0AC\uB294 \uC778 85\uB9CC\uB144 \uC804 \uBB34\uB835\uC5D0 \uC0B4\uC558\uB358 \uAD6C\uC11D\uAE30\uC778\uC758 \uC720\uC801\uC778 \uAE4C\uC9C0 \uC18C\uAE09\uB420 \uC218 \uC788\uB2E4. \uB610\uD55C 4\uB9CC 3\uCC9C\uB144 \uC804 \uBB34\uB835\uBD80\uD130\uB294 \uD06C\uB85C\uB9C8\uB1FD\uC778\uC774 \uAC70\uC8FC \uD558\uC600\uB2E4. \uAE30\uC6D0\uC804 6000\uB144\uC5D0\uC11C 5500\uB144 \uC0AC\uC774 \uC774\uD0C8\uB9AC\uC544\uC5D0\uC11C\uB3C4 \uAC00 \uC2DC\uC791\uB418\uC5C8\uB2E4. \uC774\uD0C8\uB9AC\uC544\uC758 \uCCAD\uB3D9\uAE30\uB294 \uB300\uB7B5 \uAE30\uC6D0\uC804 1500\uB144 \uBB34\uB835 \uC778\uB3C4\uC720\uB7FD\uC5B4\uC871 \uC0AC\uB78C\uB4E4\uC774 \uAC70\uC8FC\uD558\uBA74\uC11C \uC2DC\uC791\uB418\uC5C8\uACE0 \uCCA0\uAE30 \uC2DC\uB300\uB97C \uB9DE\uC774\uD558\uC5EC \uC774\uD0C8\uB9AC\uC544\uC778\uC774\uB77C \uD560 \uC218 \uC788\uB294 \uC0AC\uB78C\uB4E4\uC774 \uD615\uC131\uB418\uC5C8\uB2E4. \uADF8\uB7EC\uB098 \uACE0\uC804\uAE30 \uC774\uC804\uC758 \uC774\uD0C8\uB9AC\uC544\uB294 \uC5EC\uB7EC \uAC08\uB798\uC758 \uBB38\uD654\uB85C \uB098\uB258\uC5B4, \uBD81\uBD80\uC5D0\uB294 \uCF08\uD2B8\uC871\uC774, \uC911\uBD80\uC5D0\uB294 \uC5D0\uD2B8\uB8E8\uB9AC\uC544\uC778\uC774, \uADF8\uB9AC\uACE0 \uB0A8\uBD80\uC5D0\uB294 \uACE0\uB300 \uADF8\uB9AC\uC2A4\uC758 \uC2DD\uBBFC\uC9C0\uB4E4\uC774 \uC790\uB9AC\uC7A1\uACE0 \uC788\uC5C8\uB2E4. \uC774\uB7EC\uD55C \uC0C1\uD669\uC740 \uAE30\uC6D0\uC804 8\uC138\uAE30\uC5D0\uC11C \uAE30\uC6D0\uC804 5\uC138\uAE30\uAE4C\uC9C0 \uC9C0\uC18D\uB418\uC5C8\uB2E4. \uACE0\uB300 \uC774\uD0C8\uB9AC\uC544 \uBC18\uB3C4\uC758 \uC5EC\uB7EC \uBD80\uC871\uB4E4 \uAC00\uC6B4\uB370 \uB77C\uD2F4\uC871\uC740 \uB77C\uD2F0\uC6C0\uC744 \uC911\uC2EC\uC73C\uB85C \uD655\uC7A5\uD558\uC600\uACE0, \uADF8\uB4E4\uC774 \uC0AC\uC6A9\uD558\uB358 \uB77C\uD2F4\uC5B4\uB294 \uC5D0 \uB530\uB77C \uAE30\uC6D0\uC804 3\uC138\uAE30 \uBB34\uB835\uC5D0\uB294 \uC774\uD0C8\uB9AC\uC544 \uBC18\uB3C4 \uC804\uC5ED\uC5D0\uC11C \uC9C0\uBC30\uC801\uC778 \uC5B8\uC5B4\uAC00 \uB418\uC5C8\uB2E4. \uB85C\uB9C8 \uACF5\uD654\uC815\uACFC \uB85C\uB9C8 \uC81C\uAD6D\uC740 \uACE0\uB300 \uB85C\uB9C8 \uC2DC\uAE30\uC5D0 \uC774\uD0C8\uB9AC\uC544 \uBC18\uB3C4\uBFD0\uB9CC \uC544\uB2C8\uB77C \uC9C0\uC911\uD574 \uC5F0\uC548\uACFC \uC720\uB7FD\uC758 \uC0C1\uB2F9\uD55C \uC9C0\uC5ED\uC744 \uC9C0\uBC30\uD558\uC600\uB2E4. 4\uC138\uAE30 \uB9D0 \uAE30\uB3C5\uAD50\uAC00 \uB85C\uB9C8\uC81C\uAD6D\uC758 \uAD6D\uAD50\uAC00 \uB418\uC5C8\uB2E4."@ko ,
+		"A It\u00E1lia \u00E9 um pa\u00EDs da Europa meridional que faz fronteira ao norte com Fran\u00E7a, Su\u00ED\u00E7a, \u00C1ustria e Eslov\u00EAnia, cujo territ\u00F3rio principal forma uma pen\u00EDnsula no mar Mediterr\u00E2neo e inclui duas grandes ilhas, a Sic\u00EDlia e a Sardenha. Sofreu, historicamente, a influ\u00EAncia de etruscos, gregos e celtas antes de ser unificada em 262 a.C. pelo dom\u00EDnio romano. Roma continua a ser a capital da It\u00E1lia at\u00E9 hoje. O nome It\u00E1lia v\u00EAm da Roma antiga. Os romanos chamavam de It\u00E1lia o sul da Pen\u00EDnsula It\u00E1lica ou Apenina, que significa \"terra de bois\" ou \"terra de pastos\"."@pt ,
+		"Die Geschichte Italiens im Sinne einer menschlichen Besiedlung der Apennin-Halbinsel und der sie umgebenden Inseln l\u00E4sst sich 1,3 bis 1,7 Millionen Jahre zur\u00FCckverfolgen, wobei der moderne Mensch vor etwa 43.000 bis 45.000 Jahren in Italien auftrat und noch mehrere Jahrtausende neben dem Neandertaler lebte. Bis ins 6. Jahrtausend v. Chr. bildeten Jagd, Fischfang und Sammeln die Grundlagen seiner Existenz. Etwa 6100 v. Chr. brachten erste Gruppen von au\u00DFerhalb der Halbinsel \u2013 wohl \u00FCber See aus S\u00FCdanatolien und dem Nahen Osten \u2013 die Landwirtschaft mit; die J\u00E4ger und Sammler verschwanden. Im 2. Jahrtausend v. Chr. setzte eine Entwicklung ein, die aus den D\u00F6rfern fr\u00FChe stadt\u00E4hnliche Siedlungen machte, und die Gesellschaften wiesen erstmals deutliche Spuren von Hierarchien auf."@de ,
+		"\u30A4\u30BF\u30EA\u30A2\u306E\u6B74\u53F2\uFF08\u30A4\u30BF\u30EA\u30A2\u306E\u308C\u304D\u3057\uFF09\u3067\u306F\u3001\u5730\u4E2D\u6D77\u306B\u9762\u3057\u305F\u30A4\u30BF\u30EA\u30A2\u534A\u5CF6\u304A\u3088\u3073\u305D\u306E\u5468\u8FBA\u5730\u57DF\u306B\u304A\u3051\u308B\u6B74\u53F2\u306B\u3064\u3044\u3066\u8A18\u8F09\u3059\u308B\u3002"@ja ,
+		"1000 \u0440\u043E\u043A\u0456\u0432 \u0434\u043E \u043D. \u0435. \u2014 \u043D\u0430 \u0442\u0435\u0440\u0438\u0442\u043E\u0440\u0456\u0457 \u043A\u0440\u0430\u0457\u043D\u0438 \u0436\u0438\u043B\u0438 \u043F\u043B\u0435\u043C\u0435\u043D\u0430 \u0435\u0442\u0440\u0443\u0441\u043A\u0456\u0432, \u043B\u0456\u0433\u0443\u0440\u0456\u0432, \u0456\u0442\u0430\u043B\u0456\u043A\u0456\u0432, \u043B\u0430\u0442\u0438\u043D\u044F\u043D, \u0441\u0430\u0431\u0456\u043D\u044F\u043D. \u041C\u0456\u0436 1200\u20141100 \u0440\u043E\u043A\u0430\u043C\u0438 \u0434\u043E \u043D. \u0435. \u043D\u0430 \u0442\u0435\u0440\u0438\u0442\u043E\u0440\u0456\u044E \u0441\u0443\u0447\u0430\u0441\u043D\u043E\u0457 \u0406\u0442\u0430\u043B\u0456\u0457 \u043F\u0440\u0438\u0439\u0448\u043B\u0438 \u043F\u043B\u0435\u043C\u0435\u043D\u0430 \u0456\u0442\u0430\u043B\u0456\u043A\u0456\u0432. \u0414\u0435\u0449\u043E \u043F\u0456\u0437\u043D\u0456\u0448\u0435 \u0437'\u044F\u0432\u0438\u043B\u0438\u0441\u044F \u0456\u043B\u043B\u0456\u0440\u0456\u0439\u0446\u0456, \u0437\u0433\u043E\u0434\u043E\u043C, \u0431\u043B\u0438\u0437\u044C\u043A\u043E 900\u2014800 \u0440\u043E\u043A\u0456\u0432 \u0434\u043E \u043D. \u0435., \u2014 \u0435\u0442\u0440\u0443\u0441\u043A\u0438 \u0456, \u043D\u0430\u0440\u0435\u0448\u0442\u0456, \u0437 VIII \u0441\u0442. \u0434\u043E \u043D. \u0435. \u2014 \u0433\u0440\u0435\u043A\u0438, \u044F\u043A\u0456 \u0441\u0435\u043B\u0438\u043B\u0438\u0441\u044F \u043F\u0435\u0440\u0435\u0432\u0430\u0436\u043D\u043E \u043D\u0430 \u043F\u0456\u0432\u0434\u043D\u0456 \u0410\u043F\u0435\u043D\u043D\u0456\u043D\u0441\u044C\u043A\u043E\u0433\u043E \u043F\u0456\u0432\u043E\u0441\u0442\u0440\u043E\u0432\u0430 \u0456 \u043D\u0430 \u0421\u0438\u0446\u0438\u043B\u0456\u0457."@uk ,
+		"La hist\u00F2ria d'It\u00E0lia \u00E9s una de les m\u00E9s importants de tot Europa i de tot el m\u00F3n. \u00CDntimament lligada a la de la cultura occidental i la hist\u00F2ria d'Europa, ha viscut bona part dels principals esdeveniments hist\u00F2rics del m\u00F3noccidental. Posteriorment, It\u00E0lia portaria a terme pol\u00EDtiques imperialistes que la van portar a participar en la Primera Guerra Mundial del costat de l'Entent, a desenvolupar el feixisme de Benito Mussolini, a la invasi\u00F3 d'Alb\u00E0nia i Abiss\u00EDnia i a participar en la Segona Guerra Mundial al costat de l'Alemanya Nazi i de l'Imperi del Jap\u00F3."@ca ,
+		"Italiako historia oso aberatsa da, bereziki Mendebaldeko zibilizazioan eragin garrantzitsuena izan duten kulturek bertan izan zutelako sorleku eta gunea. Besteak beste etruriarrak, erromatarrak eta italiar Pizkundea."@eu ,
+		"De geschiedenis van Itali\u00EB is een lange geschiedenis, waarin de stad Rome kwam te overheersen, hoewel er ook buiten Rome veel interessante ontwikkelingen waren."@nl ,
+		"La historia de Italia est\u00E1 \u00EDntimamente ligada a la de la cultura occidental y la historia de Europa, y buena parte de los principales acontecimientos hist\u00F3ricos del mundo occidental y universal han tenido lugar en el pa\u00EDs o los han protagonizado sus pueblos. En la actualidad Italia pertenece a organizaciones como la Uni\u00F3n Europea o el G-8."@es ,
+		"\u0422\u0435\u0440\u0440\u0438\u0442\u043E\u0440\u0438\u044F \u0418\u0442\u0430\u043B\u0438\u0438 \u0441\u0442\u0430\u043B\u0430 \u0437\u0430\u0441\u0435\u043B\u044F\u0442\u044C\u0441\u044F \u043F\u0440\u0438\u043C\u0435\u0440\u043D\u043E 50 000 \u043B\u0435\u0442 \u043D\u0430\u0437\u0430\u0434, \u0442\u043E \u0435\u0441\u0442\u044C \u0432 \u043A\u043E\u043D\u0446\u0435 \u043D\u0438\u0436\u043D\u0435\u0433\u043E \u043F\u0430\u043B\u0435\u043E\u043B\u0438\u0442\u0430. \u041F\u0435\u0440\u0432\u043E\u043D\u0430\u0447\u0430\u043B\u044C\u043D\u043E \u043E\u043D\u0430 \u0431\u044B\u043B\u0430 \u0437\u0430\u0441\u0435\u043B\u0435\u043D\u0430 \u043D\u0435\u0430\u043D\u0434\u0435\u0440\u0442\u0430\u043B\u044C\u0446\u0430\u043C\u0438, \u043A\u043E\u0442\u043E\u0440\u044B\u0435 \u043D\u0435\u043A\u043E\u0442\u043E\u0440\u043E\u0435 \u0432\u0440\u0435\u043C\u044F \u0441\u043E\u0441\u0443\u0449\u0435\u0441\u0442\u0432\u043E\u0432\u0430\u043B\u0438 \u0441 \u043D\u0430\u0448\u0438\u043C \u0432\u0438\u0434\u043E\u043C \u0433\u043E\u043C\u0438\u043D\u0438\u0434. \u0421\u0430\u043C\u044B\u043C\u0438 \u0432\u0430\u0436\u043D\u044B\u043C\u0438 \u043A\u0443\u043B\u044C\u0442\u0443\u0440\u0430\u043C\u0438 \u0432\u043E \u0432\u0440\u0435\u043C\u044F \u043D\u0435\u043E\u043B\u0438\u0442\u0430 \u0431\u044B\u043B\u0438: \u041A\u0430\u043C\u0443\u043D\u0430, \u0422\u0435\u0440\u0440\u0430\u043C\u0430\u0440\u0435, \u0412\u0438\u043B\u0430\u043D\u043E\u0432\u0430 \u0438 \u0437\u0430\u043C\u043A\u043E\u0432\u0430\u044F \u043A\u0443\u043B\u044C\u0442\u0443\u0440\u0430. \u0422\u0430\u043A\u0436\u0435 \u0441\u0442\u043E\u0438\u0442 \u0443\u043F\u043E\u043C\u044F\u043D\u0443\u0442\u044C \u0434\u043E\u0438\u0441\u0442\u043E\u0440\u0438\u0447\u0435\u0441\u043A\u0438\u0435 \u043A\u0443\u043B\u044C\u0442\u0443\u0440\u044B \u041A\u0430\u043D\u0435\u0433\u0440\u0430\u0442\u0435 \u0438 \u0420\u0435\u043C\u0435\u0434\u0435\u043B\u043B\u043E. \u0421\u043E\u0432\u0440\u0435\u043C\u0435\u043D\u043D\u044B\u0439 \u0447\u0435\u043B\u043E\u0432\u0435\u043A \u043F\u0440\u0438\u0448\u0451\u043B \u043D\u0430 \u0438\u0442\u0430\u043B\u044C\u044F\u043D\u0441\u043A\u0443\u044E \u0442\u0435\u0440\u0440\u0438\u0442\u043E\u0440\u0438\u044E \u0432 \u043F\u0435\u0440\u0438\u043E\u0434 \u0432\u0435\u0440\u0445\u043D\u0435\u0433\u043E \u043F\u0430\u043B\u0435\u043E\u043B\u0438\u0442\u0430: \u043E\u0431\u0440\u0430\u0437\u0446\u044B \u043E\u0440\u0438\u043D\u044C\u044F\u043A\u0441\u043A\u043E\u0439 \u043A\u0443\u043B\u044C\u0442\u0443\u0440\u044B \u0432\u043E\u0437\u0440\u0430\u0441\u0442\u043E\u043C 34 000 \u043B\u0435\u0442 \u0431\u044B\u043B\u0438 \u043E\u0431\u043D\u0430\u0440\u0443\u0436\u0435\u043D\u044B \u0432 \u0433\u0440\u043E\u0442\u0435 \u0424\u0443\u043C\u0430\u043D\u0435."@ru ,
+		"The history of Italy covers the Ancient Period, the Middle Ages and the modern era. In antiquity, Italy was the homeland of the Romans and the metropole of the Roman Empire. Rome was founded as a Kingdom in 753 BC and became a Republic in 509 BC, when the monarchy was overthrown in favor of a government of the Senate and the People. The Roman Republic then unified Italy at the expense of the Etruscans, Celts, and Greeks of the peninsula. Rome led the federation of the Italic peoples of which it had come from to the domination of Western Europe, Northern Africa, and the Near East."@en ,
+		"Den h\u00E4r artikeln behandlar Italiens historia. Italien har bidragit till att forma den kulturella och samh\u00E4lleliga utvecklingen i hela medelhavsomr\u00E5det och har haft stort inflytande \u00F6ver  i \u00F6vrigt. Betydande kulturer och civilisationer har existerat d\u00E4r sen f\u00F6rhistorisk tid. Greker bosatte sig p\u00E5 den italienska halv\u00F6ns sydspets under 900- och 800-talet f.Kr. Efter Magna Graecia dominerade etruskerna och icke minst romarna denna del av v\u00E4rlden i flera \u00E5rhundraden. Under medeltiden och ren\u00E4ssansen var Italien ett k\u00E4rnomr\u00E5de f\u00F6r europeisk religion, filosofi, vetenskap och konst."@sv ;
+	rdfs:seeAlso	<http://dbpedia.org/resource/Italian_Front_(World_War_I)> ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Galatea_Polyphemus_MAN_Napoli_Inv8983.jpg> ;
+	foaf:isPrimaryTopicOf	wikipedia-en:History_of_Italy .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:History_of_Italy	dct:subject	dbc:History_of_Italy ;
+	owl:sameAs	<http://nl.dbpedia.org/resource/Geschiedenis_van_Itali\u00EB> .
+@prefix dbpedia-eu:	<http://eu.dbpedia.org/resource/> .
+dbr:History_of_Italy	owl:sameAs	dbpedia-eu:Italiako_historia ,
+		<http://bg.dbpedia.org/resource/\u0418\u0441\u0442\u043E\u0440\u0438\u044F_\u043D\u0430_\u0418\u0442\u0430\u043B\u0438\u044F> ,
+		<http://zh.dbpedia.org/resource/\u7FA9\u5927\u5229\u6B77\u53F2> .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:History_of_Italy	owl:sameAs	dbpedia-es:Historia_de_Italia .
+@prefix ns12:	<http://lt.dbpedia.org/resource/> .
+dbr:History_of_Italy	owl:sameAs	ns12:Italijos_istorija ,
+		<http://sq.dbpedia.org/resource/Historia_e_Italis\u00EB> ,
+		<http://az.dbpedia.org/resource/\u0130taliya_tarixi> ,
+		<http://pt.dbpedia.org/resource/Hist\u00F3ria_da_It\u00E1lia> ,
+		<http://vec.dbpedia.org/resource/Storia_d\u0027Ita\u0142ia> .
+@prefix dbpedia-ms:	<http://ms.dbpedia.org/resource/> .
+dbr:History_of_Italy	owl:sameAs	dbpedia-ms:Sejarah_Itali .
+@prefix dbpedia-sl:	<http://sl.dbpedia.org/resource/> .
+dbr:History_of_Italy	owl:sameAs	dbpedia-sl:Zgodovina_Italije ,
+		<http://hy.dbpedia.org/resource/\u053B\u057F\u0561\u056C\u056B\u0561\u0575\u056B_\u057A\u0561\u057F\u0574\u0578\u0582\u0569\u0575\u0578\u0582\u0576> ,
+		<http://cs.dbpedia.org/resource/D\u011Bjiny_It\u00E1lie> ,
+		<http://sr.dbpedia.org/resource/\u0418\u0441\u0442\u043E\u0440\u0438\u0458\u0430_\u0418\u0442\u0430\u043B\u0438\u0458\u0435> ,
+		<http://rdf.freebase.com/ns/m.0gxdp> .
+@prefix dbpedia-ro:	<http://ro.dbpedia.org/resource/> .
+dbr:History_of_Italy	owl:sameAs	dbpedia-ro:Istoria_Italiei ,
+		<http://vi.dbpedia.org/resource/L\u1ECBch_s\u1EED_\u00DD> ,
+		<https://global.dbpedia.org/id/4wnSC> .
+@prefix dbpedia-sv:	<http://sv.dbpedia.org/resource/> .
+dbr:History_of_Italy	owl:sameAs	dbpedia-sv:Italiens_historia ,
+		<http://is.dbpedia.org/resource/Saga_\u00CDtal\u00EDu> ,
+		<http://be.dbpedia.org/resource/\u0413\u0456\u0441\u0442\u043E\u0440\u044B\u044F_\u0406\u0442\u0430\u043B\u0456\u0456> ,
+		<http://oc.dbpedia.org/resource/Ist\u00F2ria_d\u0027It\u00E0lia> ,
+		<http://hi.dbpedia.org/resource/\u0907\u091F\u0932\u0940_\u0915\u093E_\u0907\u0924\u093F\u0939\u093E\u0938> ,
+		<http://pl.dbpedia.org/resource/Historia_W\u0142och> ,
+		dbr:History_of_Italy .
+@prefix dbpedia-cy:	<http://cy.dbpedia.org/resource/> .
+dbr:History_of_Italy	owl:sameAs	dbpedia-cy:Hanes_yr_Eidal .
+@prefix dbpedia-hr:	<http://hr.dbpedia.org/resource/> .
+dbr:History_of_Italy	owl:sameAs	dbpedia-hr:Povijest_Italije .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:History_of_Italy	owl:sameAs	wikidata:Q7791 .
+@prefix dbpedia-gl:	<http://gl.dbpedia.org/resource/> .
+dbr:History_of_Italy	owl:sameAs	dbpedia-gl:Historia_de_Italia ,
+		<http://tr.dbpedia.org/resource/\u0130talya_tarihi> .
+@prefix dbpedia-no:	<http://no.dbpedia.org/resource/> .
+dbr:History_of_Italy	owl:sameAs	dbpedia-no:Italias_historie .
+@prefix dbpedia-la:	<http://la.dbpedia.org/resource/> .
+dbr:History_of_Italy	owl:sameAs	dbpedia-la:Historia_Italiae ,
+		<http://ca.dbpedia.org/resource/Hist\u00F2ria_d\u0027It\u00E0lia> ,
+		<http://fa.dbpedia.org/resource/\u062A\u0627\u0631\u06CC\u062E_\u0627\u06CC\u062A\u0627\u0644\u06CC\u0627> ,
+		<http://am.dbpedia.org/resource/\u12E8\u1323\u120D\u12EB\u1295_\u1273\u122A\u12AD> .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:History_of_Italy	owl:sameAs	dbpedia-de:Geschichte_Italiens .
+@prefix dbpedia-sh:	<http://sh.dbpedia.org/resource/> .
+dbr:History_of_Italy	owl:sameAs	dbpedia-sh:Historija_Italije .
+@prefix ns25:	<http://bs.dbpedia.org/resource/> .
+dbr:History_of_Italy	owl:sameAs	ns25:Historija_Italije ,
+		<http://lv.dbpedia.org/resource/It\u0101lijas_v\u0113sture> ,
+		<http://ast.dbpedia.org/resource/Historia_d\u0027Italia> ,
+		<http://bn.dbpedia.org/resource/\u0987\u09A4\u09BE\u09B2\u09BF\u09B0_\u0987\u09A4\u09BF\u09B9\u09BE\u09B8> ,
+		<http://ru.dbpedia.org/resource/\u0418\u0441\u0442\u043E\u0440\u0438\u044F_\u0418\u0442\u0430\u043B\u0438\u0438> ,
+		<http://fr.dbpedia.org/resource/Histoire_de_l\u0027Italie> ,
+		<http://mk.dbpedia.org/resource/\u0418\u0441\u0442\u043E\u0440\u0438\u0458\u0430_\u043D\u0430_\u0418\u0442\u0430\u043B\u0438\u0458\u0430> ,
+		<http://it.dbpedia.org/resource/Storia_d\u0027Italia> ,
+		<http://hu.dbpedia.org/resource/Olaszorsz\u00E1g_t\u00F6rt\u00E9nelme> ,
+		<http://ko.dbpedia.org/resource/\uC774\uD0C8\uB9AC\uC544\uC758_\uC5ED\uC0AC> ,
+		<http://uk.dbpedia.org/resource/\u0406\u0441\u0442\u043E\u0440\u0456\u044F_\u0406\u0442\u0430\u043B\u0456\u0457> .
+@prefix dbpedia-fi:	<http://fi.dbpedia.org/resource/> .
+dbr:History_of_Italy	owl:sameAs	dbpedia-fi:Italian_historia ,
+		<http://he.dbpedia.org/resource/\u05D4\u05D9\u05E1\u05D8\u05D5\u05E8\u05D9\u05D4_\u05E9\u05DC_\u05D0\u05D9\u05D8\u05DC\u05D9\u05D4> .
+@prefix dbpedia-io:	<http://io.dbpedia.org/resource/> .
+dbr:History_of_Italy	owl:sameAs	dbpedia-io:Historio_di_Italia .
+@prefix dbpedia-et:	<http://et.dbpedia.org/resource/> .
+dbr:History_of_Italy	owl:sameAs	dbpedia-et:Itaalia_ajalugu ,
+		<http://ar.dbpedia.org/resource/\u062A\u0627\u0631\u064A\u062E_\u0625\u064A\u0637\u0627\u0644\u064A\u0627> .
+@prefix dbpedia-sw:	<http://sw.dbpedia.org/resource/> .
+dbr:History_of_Italy	owl:sameAs	dbpedia-sw:Historia_ya_Italia ,
+		<http://ja.dbpedia.org/resource/\u30A4\u30BF\u30EA\u30A2\u306E\u6B74\u53F2> .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:History_of_Italy	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/History_of_Italy?oldid=986104016&ns=0> ;
+	dbp:align	"right"@en ;
+	dbp:direction	"vertical"@en ;
+	dbp:image	"Aeclanum .jpg"@en ,
+		"Tomba dei Rilievi .jpg"@en ;
+	dbp:width	250 ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Galatea_Polyphemus_MAN_Napoli_Inv8983.jpg?width=300> ;
+	dbo:wikiPageID	62583 ;
+	dbo:wikiPageRevisionID	986104016 ;
+	dbo:wikiPageWikiLink	dbr:Barlaam_of_Seminara ,
+		dbr:Armistice_of_Cassibile ,
+		<http://dbpedia.org/resource/Roman\u2013Etruscan_Wars> ,
+		dbr:Apulia ,
+		<http://dbpedia.org/resource/Army_of_Italy_(France)> ,
+		<http://dbpedia.org/resource/Triple_Alliance_(1882)> ,
+		dbr:Central_Italy ,
+		dbr:Theodoric_the_Great ,
+		dbr:Dodecanese ,
+		dbr:Tiber ,
+		dbr:Nice ,
+		dbr:Stresa_Front ,
+		dbr:Velia ,
+		dbr:Guelphs_and_Ghibellines ,
+		dbr:Napoleonic_era ,
+		dbr:Tyrrhenian_Sea ,
+		dbr:National_Liberation_Committee ,
+		<http://dbpedia.org/resource/1946_Italian_general_election> ,
+		dbr:Carbonari ,
+		dbr:Duchy_of_Gaeta ,
+		<http://dbpedia.org/resource/1946_Italian_institutional_referendum> ,
+		dbr:Italian_Civil_War ,
+		<http://dbpedia.org/resource/File:Italia_1843-en.svg> ,
+		dbr:Empire_of_Japan ,
+		dbr:Italian_resistance_movement ,
+		dbr:Trento ,
+		dbr:Dino_Risi ,
+		dbr:Urnfield_culture ,
+		dbr:Calabria ,
+		dbr:Magna_Graecia ,
+		<http://dbpedia.org/resource/Macedonia_(ancient_kingdom)> ,
+		dbr:Battle_of_Actium ,
+		dbr:Basilicata ,
+		dbr:Third_Italian_War_of_Independence ,
+		dbr:Letta_Cabinet ,
+		dbr:Sybaris ,
+		dbr:Umayyad_Caliphate ,
+		dbr:List_of_Italian_explorers ,
+		dbr:Francesco_Crispi ,
+		dbr:Nuragic_holy_well ,
+		dbr:Sessa_Cilento ,
+		dbr:Second_Triumvirate ,
+		dbr:Crusades ,
+		dbr:Spanish_Navy ,
+		<http://dbpedia.org/resource/S:1922_Encyclop\u00E6dia_Britannica> ,
+		dbr:List_of_presidents_of_Italy ,
+		<http://dbpedia.org/resource/Annibale_Santorre_di_Rossi_de_Pomarolo,_Count_of_Santarosa> ,
+		dbr:Sicilian_revolt ,
+		dbr:Election_law ,
+		<http://dbpedia.org/resource/Marcus_Aemilius_Lepidus_(triumvir)> ,
+		dbr:Hellenic_State ,
+		dbr:Victor_Amadeus_II_of_Sardinia ,
+		dbr:Michelangelo ,
+		dbr:Italian_invasion_of_Albania ,
+		dbr:Fall_of_the_Fascist_regime_in_Italy ,
+		<http://dbpedia.org/resource/Peace_of_Pressburg_(1805)> ,
+		dbr:Holy_water ,
+		dbr:Naples ,
+		dbr:Lamberto_Dini ,
+		dbr:Amerigo_Vespucci ,
+		dbr:Raphael ,
+		dbr:Italian_Socialist_Party ,
+		dbr:Italian_Co-belligerent_Army ,
+		dbr:Enrico_De_Nicola ,
+		dbr:Hominini ,
+		dbr:County_of_Tyrol ,
+		<http://dbpedia.org/resource/1948_Italian_general_election> ,
+		<http://dbpedia.org/resource/1921_Italian_general_election> ,
+		<http://dbpedia.org/resource/1924_Italian_general_election> ,
+		dbr:Italic_type ,
+		dbr:Judea ,
+		dbr:Ice_age ,
+		dbr:Pauline_Bonaparte ,
+		dbr:Italian_Renaissance_painting ,
+		dbr:War_of_the_League_of_Cognac ,
+		<http://dbpedia.org/resource/File:Battle_of_Bitonto_by_Giovanni_Luigi_Rocco.jpg> ,
+		dbr:Renaissance_art ,
+		dbr:War_of_the_Quadruple_Alliance ,
+		dbr:History_of_Capri ,
+		<http://dbpedia.org/resource/Gothic_War_(535\u2013554)> ,
+		dbr:Victor_Emmanuel_II_of_Italy ,
+		<http://dbpedia.org/resource/Massimo_D\u0027Alema> ,
+		dbr:Armistice_of_22_June_1940 ,
+		<http://dbpedia.org/resource/File:Alcide_de_Gasperi_2.jpg> ,
+		dbr:Ancona ,
+		dbr:Giovanni_Giolitti ,
+		dbr:Leontius_Pilatus ,
+		dbr:Regia_Marina ,
+		dbr:History_of_Tuscany ,
+		<http://dbpedia.org/resource/File:Italy_1494.svg> ,
+		dbr:Elba ,
+		dbr:Elisa_Bonaparte ,
+		<http://dbpedia.org/resource/File:Meyers_b9_s0067b.jpg> ,
+		dbr:Rimini_Proclamation ,
+		dbr:Ethiopia ,
+		<http://dbpedia.org/resource/File:RomanItaly.png> ,
+		dbr:Manuel_I_Komnenos ,
+		dbr:Greek_alphabet ,
+		dbr:Young_Italy ,
+		<http://dbpedia.org/resource/Workers\u0027_council> ,
+		dbr:Imperium ,
+		dbr:Ancient_Greek ,
+		<http://dbpedia.org/resource/185th_Paratroopers_Division_Folgore> ,
+		<http://dbpedia.org/resource/File:\u0420\u0438\u043C\u0441\u044C\u043A\u0438\u0439_\u0434\u043E\u0433\u043E\u0432\u0456\u0440.jpg> ,
+		<http://dbpedia.org/resource/Interventionism_(politics)> ,
+		dbr:List_of_Parmese_consorts ,
+		dbr:Ariete ,
+		dbr:Forza_Italia ,
+		dbr:Guglielmo_Pepe ,
+		dbr:Romano_Prodi ,
+		dbr:List_of_monarchs_of_Sardinia ,
+		<http://dbpedia.org/resource/Molotov\u2013Ribbentrop_Pact> ,
+		dbr:Similaun ,
+		dbr:Migration_Period ,
+		dbr:Silvio_Berlusconi ,
+		dbr:Constitution ,
+		dbr:Cyrenaica ,
+		dbr:List_of_State_Archives_of_Italy ,
+		dbr:Yugoslavia ,
+		dbr:Trajan ,
+		dbr:Troy ,
+		dbr:Enrico_Letta ,
+		dbr:Phocaea ,
+		dbr:Orlando_Furioso ,
+		dbr:List_of_viceroys_of_Sicily ,
+		<http://dbpedia.org/resource/Paris_Peace_Conference_(1919\u20131920)> ,
+		dbr:Italian_diaspora ,
+		<http://dbpedia.org/resource/Frederick_I,_Holy_Roman_Emperor> ,
+		dbr:League_of_Nations ,
+		dbr:Alcide_De_Gasperi ,
+		dbr:Marcus_Furius_Camillus ,
+		dbr:Alessandro_Manzoni ,
+		dbr:Veronese_Easter ,
+		dbr:Trasformismo ,
+		dbr:Mandatory_Palestine ,
+		dbr:Gargano ,
+		dbr:Joachim_Murat ,
+		dbr:Italic_languages ,
+		dbr:Classical_Latin ,
+		dbr:Revolutions_of_1848 ,
+		dbr:Istrian-Dalmatian_exodus ,
+		dbr:Lucca ,
+		dbr:List_of_Italian_queens ,
+		<http://dbpedia.org/resource/File:Umberto4.jpg> ,
+		<http://dbpedia.org/resource/File:La_nascita_di_Venere_(Botticelli).jpg> ,
+		<http://dbpedia.org/resource/File:Hitler_and_Mussolini_June_1940.jpg> ,
+		dbr:Baroque ,
+		<http://dbpedia.org/resource/File:Etruscan_pendant_with_swastika_symbols_Bolsena_Italy_700_BCE_to_650_BCE.jpg> ,
+		<http://dbpedia.org/resource/File:Uccello_Battle_of_San_Romano_Uffizi.jpg> ,
+		<http://dbpedia.org/resource/Treaty_of_Saint-Germain-en-Laye_(1919)> ,
+		<http://dbpedia.org/resource/File:Giuseppe_Mazzini.jpg> ,
+		dbr:List_of_Italian_inventions_and_discoveries ,
+		<http://dbpedia.org/resource/File:1905_Fiat_24-32_HP_Tonneau.jpg> ,
+		dbr:Non-belligerent ,
+		<http://dbpedia.org/resource/File:Aghlabids_Dynasty_800_-_909_(AD).svg> ,
+		<http://dbpedia.org/resource/File:Boxer_monte_prama1.JPG> ,
+		<http://dbpedia.org/resource/File:Carmine_Crocco1.jpg> ,
+		dbr:Italian_unification ,
+		<http://dbpedia.org/resource/File:Colosseum_in_Rome-April_2007-1-_copie_2B.jpg> ,
+		<http://dbpedia.org/resource/File:El_Alamein_Italian_prisoners_1942.jpg> ,
+		<http://dbpedia.org/resource/File:Etruscan_Painting_1.jpg> ,
+		<http://dbpedia.org/resource/File:Giacomo_Matteotti_2.jpg> ,
+		<http://dbpedia.org/resource/File:Italy_Lothar_II.svg> ,
+		dbr:Ptolemy ,
+		<http://dbpedia.org/resource/File:Kingdom_of_Italy_1919_map.svg> ,
+		<http://dbpedia.org/resource/File:Map_of_Italy-it.svg> ,
+		<http://dbpedia.org/resource/File:Nuraghe_Su_Nuraxi_-_Barumini_-_Sardinia_-_Italy_-_01.jpg> ,
+		<http://dbpedia.org/resource/File:Otzi-Quinson.jpg> ,
+		<http://dbpedia.org/resource/File:Roma_1998_08_14_Fiat_600.jpg> ,
+		<http://dbpedia.org/resource/File:S25.jpeg> ,
+		<http://dbpedia.org/resource/File:Sassari_-_Complesso_prenuragico_di_Monte_d\u0027Accoddi_(05).JPG> ,
+		<http://dbpedia.org/resource/File:Selinunte_-_Templi_Orientali_(Temple_E)_18.JPG> ,
+		dbr:Roman_conquest_of_Britain ,
+		<http://dbpedia.org/resource/File:\u0027David\u0027_by_Michelangelo_Fir_JBU005.jpg> ,
+		<http://dbpedia.org/resource/File:Antropomorfi_detti_astronauti_(a)_-_R_1_-_Area_di_Zurla_-_Nadro_(ph_Luca_Giarelli).jpg> ,
+		dbr:The_People_of_Freedom ,
+		<http://dbpedia.org/resource/File:Italia_1861-it.svg> ,
+		dbr:Greeks ,
+		<http://dbpedia.org/resource/File:Italian_Empire_max.png> ,
+		dbr:Separation_of_powers ,
+		dbr:Royal_Air_Force ,
+		<http://dbpedia.org/resource/File:Piazza_Mercatello_durante_la_peste_del_1656_-_Spadaro.jpg> ,
+		<http://dbpedia.org/resource/File:Etruscan_civilization_map.png> ,
+		<http://dbpedia.org/resource/File:Tranquillo_da_cremona,_Marco_Polo_alla_Corte_del_Gran_Khan,_1863.PNG> ,
+		<http://dbpedia.org/resource/File:Veduta_degli_scavi_coi_fori_neolitici_di_capanne_sul_palatino,_02.jpg> ,
+		dbr:Near_East ,
+		<http://dbpedia.org/resource/File:Entr\u00E9e_de_l\u2019Arm\u00E9e_fran\u00E7aise_\u00E0_Rome_-_Hippolyte_Lecomte.png> ,
+		dbr:First_Triumvirate ,
+		dbr:Pisa ,
+		dbr:Nola ,
+		dbr:Chalcis ,
+		dbr:Civic_Choice ,
+		dbr:List_of_consorts_of_Montferrat ,
+		dbr:Corse-du-Sud ,
+		dbr:Cleopatra ,
+		dbr:Vichy_France ,
+		dbr:Middle_Ages ,
+		dbr:Libya ,
+		dbr:Italian_economic_miracle ,
+		dbr:Parthian_Empire ,
+		dbr:Renzi_Cabinet ,
+		dbr:Monarchy_of_Italy ,
+		dbr:Roman_Senate ,
+		dbr:Mario_Monti ,
+		dbr:Roman_magistrate ,
+		dbr:List_of_Sicilian_consorts ,
+		dbr:Non_abbiamo_bisogno ,
+		dbr:Plato ,
+		<http://dbpedia.org/resource/Ford_(crossing)> ,
+		dbr:Padua ,
+		dbr:Parma ,
+		dbr:European_Economic_Community ,
+		dbr:Giovanni_Boccaccio ,
+		dbr:Group_of_Seven ,
+		dbr:Oxhide_ingot ,
+		dbr:Crimean_War ,
+		dbr:New_Centre-Right ,
+		dbr:Battle_of_Vercellae ,
+		<http://dbpedia.org/resource/Augustus_(title)> ,
+		dbr:Battles_of_the_Isonzo ,
+		dbr:Hung_parliament ,
+		dbr:Military_history_of_Italy ,
+		dbr:Italian_Navy ,
+		dbr:Kingdom_of_Sicily ,
+		dbr:Constitution_of_the_Roman_Republic ,
+		dbr:Petrarch ,
+		dbr:Origin_myth ,
+		dbr:Technocracy ,
+		dbr:Hohenstaufen ,
+		<http://dbpedia.org/resource/Christian_Democracy_(Italy)> ,
+		dbr:History_of_the_Republic_of_Venice ,
+		dbr:Erwin_Rommel ,
+		dbr:Balzi_Rossi ,
+		dbr:Tank ,
+		dbr:Aeneas ,
+		dbr:Franks ,
+		dbr:Roman_Italy ,
+		dbr:Treaty_of_Lodi ,
+		dbr:Neanderthal ,
+		dbr:Roman_Republic ,
+		dbr:History_of_Islam_in_southern_Italy ,
+		dbr:Hegemony ,
+		dbr:Barthold_Georg_Niebuhr ,
+		<http://dbpedia.org/resource/Sant\u0027Anna_di_Stazzema_massacre> ,
+		dbr:Palatine_Hill ,
+		dbr:Second_Italo-Ethiopian_War ,
+		dbr:Republic_of_Pisa ,
+		dbr:Italian_Empire ,
+		dbr:Etruria ,
+		dbr:The_Book_of_the_Courtier ,
+		dbr:Italian_governorate_of_Montenegro ,
+		<http://dbpedia.org/resource/Patrician_(ancient_Rome)> ,
+		dbr:History_of_science_in_the_Renaissance ,
+		dbr:Taranto ,
+		dbr:Allies_of_World_War_I ,
+		dbr:Teutons ,
+		<http://dbpedia.org/resource/Italian_War_of_1551\u20131559> ,
+		dbr:Engelbert_Dollfuss ,
+		dbr:Menhir ,
+		dbr:Agrigento ,
+		dbr:Cisalpine_Republic ,
+		dbr:Andrea_Palladio ,
+		dbr:Victor_Amadeus_III_of_Sardinia ,
+		<http://dbpedia.org/resource/File:Bundesarchiv_Bild_183-R69173,_M\u00FCnchener_Abkommen,_Staatschefs.jpg> ,
+		dbr:Governorate_of_Dalmatia ,
+		<http://dbpedia.org/resource/File:Sacrario_Militare_di_Redipuglia.jpg> ,
+		dbr:Allies_of_World_War_II ,
+		<http://dbpedia.org/resource/2006_Italian_general_election> ,
+		dbr:Condottiero ,
+		dbr:Treaty_of_Rome ,
+		<http://dbpedia.org/resource/Grand_Alliance_(League_of_Augsburg)> ,
+		dbr:Masaccio ,
+		dbr:Monastery ,
+		dbr:Aristotle ,
+		dbr:Helvetic_Republic ,
+		dbr:Piazza_Fontana_bombing ,
+		dbr:House_of_Bourbon ,
+		dbr:Renaissance ,
+		dbr:Republic_of_Genoa ,
+		dbr:Influence_of_mass_media ,
+		dbr:Republic_of_Ragusa ,
+		dbr:Kingdom_of_Naples ,
+		dbr:Republic_of_Venice ,
+		dbr:Goths ,
+		dbr:Tempio_Malatestiano ,
+		dbr:Dante_Alighieri ,
+		dbr:Istria ,
+		dbr:Normans ,
+		dbr:Italo-Turkish_War ,
+		dbr:North_African_campaign ,
+		dbr:Donations_of_Alexandria ,
+		dbr:Pier_Paolo_Pasolini ,
+		dbr:Pietro_Perugino ,
+		<http://dbpedia.org/resource/Ottoman\u2013Venetian_War_(1499\u20131503)> ,
+		<http://dbpedia.org/resource/File:Italy_1843.svg> ,
+		dbr:Aldo_Moro ,
+		<http://dbpedia.org/resource/File:Silvio_Berlusconi_(2010)_cropped.jpg> ,
+		dbr:Democrats_of_the_Left ,
+		dbr:Donato_Bramante ,
+		dbr:Ferdinand_VII_of_Spain ,
+		<http://dbpedia.org/resource/Eastern_Front_(World_War_II)> ,
+		dbr:Invasion_of_Poland ,
+		dbr:Republic_of_Noli ,
+		dbr:Celtiberians ,
+		dbr:Roman_province ,
+		dbr:Ligurian_Republic ,
+		dbr:Celts ,
+		dbr:Modern_philosophy ,
+		dbr:Charlemagne ,
+		<http://dbpedia.org/resource/Caesar\u0027s_Civil_War> ,
+		dbr:Italian_city-states ,
+		dbr:Alessandria ,
+		dbr:Giuliano_Amato ,
+		dbr:Lucius_Varius_Rufus ,
+		dbr:Clemente_Mastella ,
+		dbr:Human_taxonomy ,
+		dbr:Mediolanum ,
+		dbr:Giovanni_da_Verrazzano ,
+		dbr:Ardeatine_massacre ,
+		dbr:Mantua ,
+		dbr:Hiero_I_of_Syracuse ,
+		dbr:Siena ,
+		dbr:NATO ,
+		<http://dbpedia.org/resource/File:Trento_3_novembre_1918.jpg> ,
+		dbr:Zotto ,
+		dbr:Liberalism_and_radicalism_in_Italy ,
+		dbr:Dalmatia ,
+		dbr:Poliziano ,
+		dbr:New_World ,
+		dbr:North_Sea ,
+		<http://dbpedia.org/resource/File:Italy_1796.svg> ,
+		dbr:Giotto ,
+		dbr:Flag_of_Italy ,
+		dbr:Saxons ,
+		dbr:Red_Sea ,
+		dbr:Euclid ,
+		dbr:Israel ,
+		dbr:Eritrea ,
+		dbr:Louis_XIV ,
+		dbr:Christian_Democratic_Centre ,
+		dbr:Norman_conquest_of_southern_Italy ,
+		dbr:Giacomo_Matteotti ,
+		dbr:List_of_consorts_of_Tuscany ,
+		dbr:Peace_of_Utrecht ,
+		<http://dbpedia.org/resource/File:Femmes_peuc\u00E8tes_dansant,_fresque.jpg> ,
+		dbr:Battle_of_Pavia ,
+		dbr:Villanovan_culture ,
+		dbr:Grand_Council_of_Fascism ,
+		dbr:History_of_Trentino ,
+		dbr:Sicily ,
+		dbr:Four_days_of_Naples ,
+		dbr:Great_power ,
+		<http://dbpedia.org/resource/Republican_faction_(Spanish_Civil_War)> ,
+		dbr:History_of_Tyrol ,
+		dbr:Arabic ,
+		dbr:Treaty_of_Rastatt ,
+		dbr:Bari ,
+		<http://dbpedia.org/resource/1994_Italian_general_election> ,
+		<http://dbpedia.org/resource/2001_Italian_general_election> ,
+		<http://dbpedia.org/resource/File:Statuetta_indiana_di_Lakshmi,_avorio,_da_pompei,_1-50_dc_ca.,_149425,_02.JPG> ,
+		dbr:Anarcho-syndicalism ,
+		dbr:United_Kingdom_of_Great_Britain_and_Ireland ,
+		dbr:Holy_Alliance ,
+		dbr:Battle_of_the_Allia ,
+		dbr:War_of_the_Third_Coalition ,
+		dbr:Italian_electoral_law_of_2017 ,
+		dbr:Western_painting ,
+		dbr:Ancient_Egypt ,
+		dbr:Marshall_Plan ,
+		dbr:Human_history ,
+		dbr:Francisco_Franco ,
+		dbr:COVID-19_pandemic ,
+		<http://dbpedia.org/resource/Eug\u00E8ne_de_Beauharnais> ,
+		<http://dbpedia.org/resource/2008_Italian_general_election> ,
+		dbr:Parthenopean_Republic ,
+		dbr:COVID-19_pandemic_lockdown_in_Italy ,
+		dbr:Orlando_Innamorato ,
+		dbr:Felice_Pasquale_Baciocchi ,
+		dbr:Reggio_Calabria ,
+		dbr:First_Italo-Ethiopian_War ,
+		<http://dbpedia.org/resource/Gabriele_D\u0027Annunzio> ,
+		dbr:Lombard_League ,
+		dbr:Marcus_Licinius_Crassus ,
+		dbr:Mark_Antony ,
+		dbr:Terramare_culture ,
+		dbr:Marcus_Terentius_Varro ,
+		dbr:Kitos_War ,
+		dbr:Carthage ,
+		dbr:Hot_Autumn ,
+		dbr:Guerrilla_warfare ,
+		dbr:Crotone ,
+		dbr:Exarchate_of_Ravenna ,
+		dbr:Italic_peoples ,
+		dbr:Ferruccio_Parri ,
+		dbr:Ludovico_Ariosto ,
+		dbr:Chronology_of_warfare_between_the_Romans_and_Germanic_tribes ,
+		dbr:Ferdinand_I_of_the_Two_Sicilies ,
+		dbr:Abbasid_Caliphate ,
+		dbr:List_of_Roman_and_Byzantine_Empresses ,
+		dbr:Pax_Romana ,
+		dbr:Lorenzo_Arnone_Sipari ,
+		dbr:Agostino_Depretis ,
+		dbr:Masaniello ,
+		dbr:Sardinian_people ,
+		dbr:History_of_Verona ,
+		dbr:Irredentism ,
+		dbr:Ronald_Reagan ,
+		dbr:Gauls ,
+		dbr:Gallic_Wars ,
+		dbr:Etruscan_civilization ,
+		dbr:Sea_Peoples ,
+		dbr:Remedello_culture ,
+		dbr:Pershing_II ,
+		dbr:Latium ,
+		<http://dbpedia.org/resource/Italian_People\u0027s_Party_(1994)> ,
+		<http://dbpedia.org/resource/First_Jewish\u2013Roman_War> ,
+		<http://dbpedia.org/resource/Camillo_Borghese,_6th_Prince_of_Sulmona> ,
+		dbr:War_of_the_Polish_Succession ,
+		dbr:Mani_pulite ,
+		<http://dbpedia.org/resource/Syracuse,_Sicily> ,
+		dbr:European_Union ,
+		dbr:Second_Italian_War_of_Independence ,
+		dbr:List_of_monarchs_of_Sicily ,
+		dbr:Futurist ,
+		dbr:Mycenae ,
+		dbr:European_theatre_of_World_War_II ,
+		dbr:Galileo_Galilei ,
+		dbr:City-state ,
+		dbr:Crown_of_Aragon ,
+		dbr:Carmine_Crocco ,
+		dbr:Founding_of_Rome ,
+		dbr:Piero_della_Francesca ,
+		dbr:Province_of_Ljubljana ,
+		dbr:Pact_of_Steel ,
+		dbr:Punics ,
+		dbr:Vajont_Dam ,
+		dbr:Habsburg_Austria ,
+		dbr:Conte_I_Cabinet ,
+		dbr:Bar_Kokhba_revolt ,
+		dbr:Lazio ,
+		dbr:Prime_Minister_of_Italy ,
+		dbr:Odoacer ,
+		dbr:Roberto_Calderoli ,
+		dbr:Otto_von_Bismarck ,
+		dbr:Dolmen ,
+		dbr:Ostrogoths ,
+		dbr:Walter_Veltroni ,
+		dbr:Giuseppe_Mazzini ,
+		dbr:Aldus_Manutius ,
+		dbr:Franco-Prussian_War ,
+		dbr:Locri ,
+		dbr:Austrian_Empire ,
+		dbr:Dionysius_of_Halicarnassus ,
+		dbr:History_of_Sicily ,
+		dbr:Pier_Luigi_Bersani ,
+		dbr:Austro-Prussian_War ,
+		<http://dbpedia.org/resource/The_Betrothed_(Manzoni_novel)> ,
+		dbr:Pole_of_Freedoms ,
+		dbr:Statuto_Albertino ,
+		dbr:Duchy_of_Milan ,
+		dbr:Duchy_of_Modena_and_Reggio ,
+		<http://dbpedia.org/resource/St._Peter\u0027s_Basilica> ,
+		dbr:Five_Star_Movement ,
+		dbr:Politics_of_Italy ,
+		dbr:Humanism ,
+		dbr:Political_philosophy ,
+		dbr:Anti-establishment ,
+		dbr:Victor_Emmanuel_III_of_Italy ,
+		dbr:Civil_union ,
+		dbr:Nation_state ,
+		dbr:Roman_Kingdom ,
+		dbr:Geographer ,
+		dbr:History_of_Rome ,
+		dbr:Sandro_Botticelli ,
+		dbr:Roman_conquest_of_the_Iberian_Peninsula ,
+		<http://dbpedia.org/resource/1629\u20131631_Italian_plague> ,
+		dbr:Pietro_Badoglio ,
+		dbr:French_Revolution ,
+		dbr:Romulus_Augustulus ,
+		dbr:Romulus_and_Remus ,
+		<http://dbpedia.org/resource/Kingdom_of_Italy_(Napoleonic)> ,
+		dbr:Languages_of_Italy ,
+		<http://dbpedia.org/resource/File:Habsburg_Map_1547.jpg> ,
+		dbr:Protectorate ,
+		dbr:Kingdom_of_the_Two_Sicilies ,
+		dbr:Phoenician_alphabet ,
+		dbr:Beppe_Grillo ,
+		<http://dbpedia.org/resource/File:Castello_di_reggio_calabria,_esterno_01.jpg> ,
+		dbr:Vitruvius ,
+		dbr:List_of_viceroys_of_Naples ,
+		dbr:Alsace-Lorraine ,
+		dbr:Lemnos ,
+		dbr:Second_Polish_Republic ,
+		dbr:Battle_of_Legnano ,
+		dbr:Imperial_province ,
+		<http://dbpedia.org/resource/The_Union_(Italy)> ,
+		dbr:Ferrara ,
+		dbr:Domenico_Ghirlandaio ,
+		<http://dbpedia.org/resource/Trajan\u0027s_Dacian_Wars> ,
+		dbr:Ancient_Greece ,
+		dbr:Proto-Villanovan_culture ,
+		dbr:Plutarch ,
+		dbr:Assassination_of_Julius_Caesar ,
+		dbr:Giovanni_Spadolini ,
+		dbr:Ethiopian_Empire ,
+		dbr:Polybius ,
+		dbr:Leon_Battista_Alberti ,
+		dbr:Medieval_commune ,
+		dbr:War_of_the_First_Coalition ,
+		dbr:Enrico_Tellini ,
+		dbr:Southern_Italy ,
+		dbr:Battle_of_Aquae_Sextiae ,
+		dbr:Battle_of_Arausio ,
+		dbr:Operation_Compass ,
+		<http://dbpedia.org/resource/Treaty_of_The_Hague_(1701)> ,
+		<http://dbpedia.org/resource/1996_Italian_general_election> ,
+		dbr:Apennine_Mountains ,
+		<http://dbpedia.org/resource/Po_(river)> ,
+		dbr:Turin ,
+		<http://dbpedia.org/resource/File:Roman_Empire_Trajan_117AD.png> ,
+		dbr:Anti-Comintern_Pact ,
+		dbr:Corsica ,
+		dbr:Battle_of_Bitonto ,
+		dbr:Black_Sea ,
+		dbr:War_of_the_League_of_Cambrai ,
+		dbr:Leonardo_da_Vinci ,
+		dbr:First_French_Empire ,
+		dbr:Filippo_Brunelleschi ,
+		<http://dbpedia.org/resource/2016_Italian_constitutional_referendum> ,
+		dbr:Avignon_Papacy ,
+		dbr:Lombards ,
+		dbr:Ovid ,
+		dbr:Florence_Cathedral ,
+		dbr:Duchy_of_Urbino ,
+		dbr:Florence ,
+		dbr:Constitution_of_Italy ,
+		<http://dbpedia.org/resource/National_Alliance_(Italy)> ,
+		dbr:Italian_Communist_Party ,
+		dbr:Holy_See ,
+		dbr:National_Fascist_Party ,
+		dbr:War_crimes_of_the_Wehrmacht ,
+		dbr:Senatorial_province ,
+		dbr:Fall_of_the_Western_Roman_Empire ,
+		dbr:Ottoman_Empire ,
+		dbr:Italian_bombing_of_Mandatory_Palestine_in_World_War_II ,
+		<http://dbpedia.org/resource/Democratic_Party_(Italy)> ,
+		dbr:Italian_invasion_of_British_Somaliland ,
+		dbr:List_of_rulers_of_Tuscany ,
+		dbr:Italian_invasion_of_Egypt ,
+		dbr:Michele_Amari ,
+		dbr:Year_of_the_Four_Emperors ,
+		dbr:Morgante ,
+		dbr:Lucius_Junius_Brutus ,
+		dbr:Poggio_Bracciolini ,
+		dbr:Cicero ,
+		dbr:Paleolithic ,
+		dbr:Investiture_Controversy ,
+		dbr:List_of_Modenese_consorts ,
+		dbr:Antonio_Salandra ,
+		dbr:Maritime_republics ,
+		dbr:Ettore_Scola ,
+		dbr:Theodosius_I ,
+		dbr:Papal_States ,
+		<http://dbpedia.org/resource/File:Da_Vinci_Vitruve_Luc_Viatour.jpg> ,
+		<http://dbpedia.org/resource/Sack_of_Rome_(1527)> ,
+		dbr:War_of_the_Spanish_Succession ,
+		dbr:Livy ,
+		dbr:Metropole ,
+		dbr:Ides_of_March ,
+		dbr:Mare_Nostrum ,
+		dbr:House_of_Este ,
+		dbr:Philip_V_of_Spain ,
+		dbr:Scholasticism ,
+		dbr:Lateran_Treaty ,
+		dbr:Punic_Wars ,
+		<http://dbpedia.org/resource/Roman_Republic_(18th_century)> ,
+		dbr:Sister_republic ,
+		dbr:Genoa ,
+		<http://dbpedia.org/resource/File:Bestiarii.jpg> ,
+		dbr:Ivanoe_Bonomi ,
+		dbr:Constituent_Assembly_of_Italy ,
+		dbr:Napoleon_III ,
+		dbr:Acerbo_Law ,
+		dbr:List_of_kings_of_the_Lombards ,
+		<http://dbpedia.org/resource/Nationalist_faction_(Spanish_Civil_War)> ,
+		dbr:Numitor ,
+		dbr:List_of_monarchs_of_Naples ,
+		dbr:List_of_consorts_of_Naples ,
+		dbr:Corfu ,
+		dbr:Ancient_Carthage ,
+		dbr:List_of_consorts_of_the_Savoyard_monarchs ,
+		dbr:Heruli ,
+		dbr:Muslim_world ,
+		dbr:North_Africa ,
+		dbr:Polis ,
+		<http://dbpedia.org/resource/File:Napoli_Castel_Nuovo_museo_civico_-_ingresso_di_Garibaldi_a_Napoli_-_Wenzel_bis.jpg> ,
+		<http://dbpedia.org/resource/File:Stragedibologna-2.jpg> ,
+		<http://dbpedia.org/resource/Niccol\u00F2_Machiavelli> ,
+		dbr:Black_Death ,
+		dbr:Fiat ,
+		dbr:Giuseppe_Garibaldi ,
+		dbr:Albania ,
+		dbr:Tripoli ,
+		dbr:Claudius ,
+		dbr:Gaul ,
+		<http://dbpedia.org/resource/File:Sheet_Falcone_Borsellino.jpg> ,
+		dbr:Munich_Agreement ,
+		dbr:Savoy ,
+		dbr:Armoured_fighting_vehicle ,
+		dbr:Socii ,
+		<http://dbpedia.org/resource/Balkans_campaign_(World_War_II)> ,
+		dbr:Holy_Roman_Emperor ,
+		<http://dbpedia.org/resource/2013_Italian_general_election> ,
+		dbr:Late_Middle_Ages ,
+		dbr:Mitochondrial_DNA ,
+		dbr:Venice ,
+		<http://dbpedia.org/resource/Charles_V,_Holy_Roman_Emperor> ,
+		dbr:Habsburg_Spain ,
+		dbr:Napoleon ,
+		dbr:Latin_alphabet ,
+		dbr:Aeneid ,
+		<http://dbpedia.org/resource/File:Magna_Graecia_ancient_colonies_and_dialects-en.svg> ,
+		<http://dbpedia.org/resource/File:Capitoline_she-wolf_Musei_Capitolini_MC1181.jpg> ,
+		dbr:Cimbri ,
+		dbr:Luigi_Pulci ,
+		dbr:Germanic_peoples ,
+		dbr:Luigi_Binelli_Mantelli ,
+		dbr:Spanish_Civil_War ,
+		<http://dbpedia.org/resource/Philippe_P\u00E9tain> ,
+		dbr:Pyrrhus_of_Epirus ,
+		dbr:Cholera ,
+		dbr:Luxembourg ,
+		dbr:Colonies_in_antiquity ,
+		dbr:Veneto ,
+		dbr:Augustus ,
+		dbr:List_of_consorts_of_the_Kingdom_of_the_Two_Sicilies ,
+		<http://dbpedia.org/resource/Treaty_of_Peace_with_Italy,_1947> ,
+		dbr:Nuraghe ,
+		dbr:Culture_of_Greece ,
+		dbr:Bronze_Age ,
+		dbr:Thurii ,
+		dbr:Italian_Social_Republic ,
+		dbr:Mercenary ,
+		dbr:Grand_Duchy_of_Tuscany ,
+		dbr:Vittorio_De_Sica ,
+		dbr:Samnites ,
+		dbr:Allied_invasion_of_Sicily ,
+		dbr:Pope_Pius_IX ,
+		dbr:Justinian_I ,
+		dbr:Campania ,
+		dbr:Alba_Longa ,
+		dbr:Horace ,
+		dbr:Genetic_history_of_Italy ,
+		dbr:Monte_Poggiolo ,
+		<http://dbpedia.org/resource/Romanization_(cultural)> ,
+		dbr:Hundred_Days ,
+		dbr:SPQR ,
+		dbr:Ancient_Rome ,
+		<http://dbpedia.org/resource/1973_oil_crisis> ,
+		<http://dbpedia.org/resource/File:Florence_Duomo_from_Michelangelo_hill.jpg> ,
+		dbr:Northern_Italy ,
+		dbr:OECD ,
+		dbr:Duchy_of_Amalfi ,
+		dbr:Renaissance_literature ,
+		dbr:Umberto_II_of_Italy ,
+		dbr:Bettino_Craxi ,
+		dbr:List_of_queens_of_the_Lombards ,
+		dbr:Western_culture ,
+		dbr:Jewish_Brigade ,
+		dbr:Parliamentary_system ,
+		dbr:Austria ,
+		dbr:House_of_Habsburg ,
+		dbr:Austria-Hungary ,
+		dbr:Axis_powers ,
+		dbr:Republic_of_Ancona ,
+		<http://dbpedia.org/resource/Giants\u0027_grave> ,
+		<http://dbpedia.org/resource/Years_of_Lead_(Italy)> ,
+		dbr:Baltic_Sea ,
+		dbr:Charles_II_of_Spain ,
+		dbr:Kingdom_of_Sardinia ,
+		dbr:Economic_impact_of_the_COVID-19_pandemic ,
+		<http://dbpedia.org/resource/Treaty_of_London_(1915)> ,
+		dbr:Sardinia ,
+		dbr:Christopher_Columbus ,
+		dbr:Zadar ,
+		dbr:Zenith ,
+		<http://dbpedia.org/resource/Camillo_Benso,_Count_of_Cavour> ,
+		dbr:Archaic_Greek_alphabets ,
+		dbr:Emirate ,
+		dbr:Paris ,
+		dbr:German_Empire ,
+		dbr:List_of_Milanese_consorts ,
+		dbr:Aeclanum ,
+		dbr:Germany ,
+		dbr:Science_in_the_medieval_Islamic_world ,
+		dbr:Puppet_state ,
+		dbr:March_on_Rome ,
+		dbr:Titian ,
+		dbr:County_of_Savoy ,
+		dbr:Seveso_disaster ,
+		dbr:Julius_Caesar ,
+		<http://dbpedia.org/resource/Union_of_the_Centre_(2002)> ,
+		<http://dbpedia.org/resource/File:Tavares.Forum.Romanum.redux.jpg> ,
+		dbr:Sonnet ,
+		dbr:Congress_of_Vienna ,
+		dbr:Sherden ,
+		dbr:Somalia ,
+		dbr:Socialist_Federal_Republic_of_Yugoslavia ,
+		dbr:Battle_of_France ,
+		dbr:Proconsul ,
+		dbr:Virgil ,
+		dbr:Soviet_Union ,
+		dbr:Independent_State_of_Croatia ,
+		dbr:Bersaglieri ,
+		dbr:Strabo ,
+		dbr:Biennio_Rosso ,
+		dbr:History_of_Sardinia ,
+		dbr:Verona ,
+		dbr:Greco-Italian_War ,
+		dbr:Holy_Roman_Empire ,
+		dbr:Etruscan_religion ,
+		dbr:COVID-19_pandemic_in_Italy ,
+		dbr:Seleucid_Empire ,
+		dbr:Constitutional_right ,
+		dbr:Italy ,
+		dbr:Pompey ,
+		dbr:Pavia ,
+		dbr:G20 ,
+		dbr:Gothic_Line ,
+		dbr:Duchy_of_Savoy ,
+		dbr:Renaissance_humanism ,
+		dbr:Western_Europe ,
+		dbr:Kingdom_of_Italy ,
+		dbr:Marsilio_Ficino ,
+		dbr:Lucius_Tarquinius_Superbus ,
+		dbr:Mutilated_victory ,
+		dbr:Batavian_Republic ,
+		dbr:Hellenistic_period ,
+		dbr:House_of_Medici ,
+		dbr:Battle_of_Alalia ,
+		dbr:Battle_of_Cumae ,
+		dbr:Phoenicia ,
+		dbr:Charles_Albert_of_Sardinia ,
+		dbr:Second_Battle_of_El_Alamein ,
+		dbr:Adolf_Hitler ,
+		dbr:Adriatic_Sea ,
+		dbr:Luigi_Facta ,
+		dbr:Brigandage_in_Southern_Italy_after_1861 ,
+		dbr:Trieste ,
+		dbr:Triple_Entente ,
+		dbr:Val_Camonica ,
+		dbr:Ravenna ,
+		<http://dbpedia.org/resource/Niccol\u00F2_de\u0027_Conti> ,
+		<http://dbpedia.org/resource/Kingdom_of_Lombardy\u2013Venetia> ,
+		dbr:Afrika_Korps ,
+		dbr:Milan ,
+		dbr:Marco_Minghetti ,
+		dbr:Manifesto_of_Race ,
+		dbr:Sudetenland ,
+		dbr:Pleistocene ,
+		dbr:Czechoslovakia ,
+		dbr:Military_history_of_Italy_during_World_War_I ,
+		<http://dbpedia.org/resource/File:Italy_aims_Europe_1936.png> ,
+		dbr:List_of_ancient_peoples_of_Italy ,
+		dbr:Latin ,
+		dbr:Byzantine_Empire ,
+		<http://dbpedia.org/resource/File:Naval_Jack_of_Italy.svg> ,
+		dbr:Roman_expansion_in_Italy ,
+		dbr:Ancient_history ,
+		dbr:Italian_Renaissance ,
+		<http://dbpedia.org/resource/\u00D6tzi> ,
+		dbr:The_Prince ,
+		dbr:Greek_language ,
+		dbr:Sidney_Sonnino ,
+		dbr:Switzerland ,
+		dbr:Counter-Reformation ,
+		<http://dbpedia.org/resource/File:March_on_Rome.jpg> ,
+		<http://dbpedia.org/resource/Multi-National_Force_\u2013_Iraq> ,
+		<http://dbpedia.org/resource/File:RegioniIrredenteItalia.jpg> ,
+		dbr:House_of_Savoy ,
+		<http://dbpedia.org/resource/File:Mussolini_mezzobusto.jpg> ,
+		dbr:List_of_monarchs_of_the_Kingdom_of_the_Two_Sicilies ,
+		dbr:Roman_Empire ,
+		dbc:History_of_Italy ,
+		<http://dbpedia.org/resource/File:Bundesarchiv_Bild_101I-316-1181-11,_Italien,_Benito_Mussolini_mit_italienischen_Soldaten.jpg> ,
+		dbr:Reformation ,
+		<http://dbpedia.org/resource/File:Fiume_cheering_D\u0027Annunzio.jpg> ,
+		dbr:Marseille ,
+		<http://dbpedia.org/resource/Siege_of_Florence_(1529\u201330)> ,
+		<http://dbpedia.org/resource/File:Giuseppe_Garibaldi_(1866).jpg> ,
+		dbr:Nazi_Germany ,
+		dbr:Rijeka ,
+		dbr:Nazism ,
+		dbr:Anschluss ,
+		<http://dbpedia.org/resource/File:Camillo_Benso_Cavour_di_Ciseri.jpg> ,
+		dbr:Germans ,
+		dbr:Renaissance_architecture ,
+		dbr:Enrico_Berlinguer ,
+		<http://dbpedia.org/resource/2018_Italian_general_election> ,
+		dbr:Rome ,
+		dbr:West_Germany ,
+		dbr:Christopher_Duggan ,
+		dbr:Battle_of_Leipzig ,
+		<http://dbpedia.org/resource/File:Quattrogiornate.jpg> ,
+		dbr:Matteo_Renzi ,
+		dbr:Historic_Compromise ,
+		<http://dbpedia.org/resource/Stanley_G._Payne> ,
+		dbr:Mediterranean_Sea ,
+		dbr:Kingdom_of_Prussia ,
+		dbr:Italian_Peninsula ,
+		dbr:House_of_Habsburg-Lorraine ,
+		<http://dbpedia.org/resource/Thirty_Years\u0027_War> ,
+		dbr:Po_Valley ,
+		dbr:Winston_Churchill ,
+		<http://dbpedia.org/resource/Niccol\u00F2_de\u0027_Niccoli> ,
+		dbr:World_War_I ,
+		dbr:Atlantic_Ocean ,
+		dbr:World_War_II ,
+		dbr:Vincenzo_Gioberti ,
+		dbr:Chalcolithic ,
+		<http://dbpedia.org/resource/Treaty_of_The_Hague_(1720)> ,
+		dbr:The_Decameron ,
+		dbr:Roman_navy ,
+		dbr:Indo-European_languages ,
+		dbr:Vatican_City ,
+		dbr:Gaius_Maecenas ,
+		dbr:Charles_Felix_of_Sardinia ,
+		dbr:Ambrones ,
+		dbr:University_of_Michigan_Museum_of_Art ,
+		dbr:History_of_Naples ,
+		<http://dbpedia.org/resource/Jewish\u2013Roman_wars> ,
+		dbr:Public_administration ,
+		dbr:House_of_Bourbon-Two_Sicilies ,
+		dbr:List_of_prime_ministers_of_Italy ,
+		dbr:Declaration_of_war ,
+		dbr:Numantia ,
+		dbr:Occupation_of_factories ,
+		dbr:Third_Servile_War ,
+		dbr:Capitalism ,
+		dbr:First_Italian_War_of_Independence ,
+		dbr:Italian_Wars ,
+		dbr:Consumerism ,
+		dbr:Matteo_Maria_Boiardo ,
+		dbr:Old_Italic_scripts ,
+		dbr:Gran_Sasso_raid ,
+		dbr:Benito_Mussolini ,
+		dbr:Bell_Beaker_culture ,
+		dbr:Lega_Nord ,
+		dbr:Roger_II_of_Sicily ,
+		dbr:Il_Canzoniere ,
+		dbr:National_Republican_Army ,
+		dbr:Age_of_Discovery ,
+		dbr:Gianfranco_Fini ,
+		dbr:Piedmont ,
+		dbr:Cerveteri ,
+		dbr:Western_Roman_Empire ,
+		dbr:Overthrow_of_the_Roman_monarchy ;
+	dbo:wikiPageExternalLink	<https://www.amazon.com/Italy-Age-Risorgimento-1790-Longman/dp/0582491460> ,
+		<https://books.google.com/books%3Fid=CMYUAAAAQAAJ> ,
+		<https://www.amazon.com/Pursuit-Italy-History-Regions-Peoples/dp/0374533601/> ,
+		<https://www.amazon.com/dp/0192854445> ,
+		<https://www.amazon.com/dp/0198700407> ,
+		<https://www.amazon.com/dp/0198731981> ,
+		<https://www.amazon.com/dp/0198700423> ,
+		<https://www.amazon.com/dp/0198700482> ,
+		<https://www.amazon.com/dp/0199247048> ,
+		<http://eh.net/%3Fs=Toniolo> ,
+		<https://www.amazon.com/dp/0618353674> ,
+		<https://books.google.com/books%3Fid=zfwNAQAAMAAJ> ,
+		<https://www.questia.com/PM.qst%3Fa=o&d=115250399> .
+@prefix ns31:	<https://muse.jhu.edu/article/315859/> .
+dbr:History_of_Italy	dbo:wikiPageExternalLink	ns31:summary ,
+		<https://books.google.com/books%3Fid=sK_CnX3-ZMQC> .
+@prefix ns32:	<https://www.questia.com/library/103783059/> .
+dbr:History_of_Italy	dbo:wikiPageExternalLink	ns32:the-italian-risorgimento-state-society-and-national .
+@prefix ns33:	<https://archive.org/details/> .
+dbr:History_of_Italy	dbo:wikiPageExternalLink	ns33:newcambridgemode0009unse ,
+		<https://www.questia.com/read/101544720> ,
+		<https://www.questia.com/read/102135404%3Ftitle=The%20Regions%20of%20Italy%3a%20A%20Reference%20Guide%20to%20History%20and%20Culture> ,
+		<https://www.questia.com/read/1149043> ,
+		<https://www.h-net.org/reviews/showrev.php%3Fid=31962> ,
+		<https://www.h-net.org/reviews/showrev.php%3Fid=43968> ,
+		<https://www.h-net.org/reviews/showrev.php%3Fid=43490> ,
+		<https://www.amazon.com/dp/1403961530> ,
+		<https://books.google.com/books%3Fid=IFiGCgAAQBAJ&pg=PT3> ,
+		<http://www.italyrevisited.org/> .
+@prefix ns34:	<http://eudocs.lib.byu.edu/index.php/History_of_Italy:> .
+dbr:History_of_Italy	dbo:wikiPageExternalLink	ns34:_Primary_Documents ,
+		<http://www.miol.it/stagniweb/foto6.asp%3FFile=mappe_va&Tipo=index&Righe=50&Col=4> ,
+		<https://exchange.umma.umich.edu/resources/23766> ,
+		<https://www.questia.com/read/52710416%3Ftitle=Italy%201530-1630> ,
+		<https://www.questia.com/read/55015369%3Ftitle=Italy%20in%20the%20Age%20of%20Reason%2c%201685-1789> ,
+		<https://www.questia.com/read/7696309%3Ftitle=Italy%3a%20A%20Modern%20History> ,
+		<https://www.questia.com/read/98920663> .
+@prefix dbt:	<http://dbpedia.org/resource/Template:> .
+dbr:History_of_Italy	dbp:wikiPageUsesTemplate	dbt:Main ,
+		dbt:Reflist ,
+		dbt:Citation_needed ,
+		dbt:Italy_topics ,
+		dbt:See ,
+		dbt:Former_monarchies_Italian_peninsula ,
+		dbt:ISBN ,
+		dbt:When ,
+		dbt:European_history_by_country ,
+		dbt:Cite_journal ,
+		dbt:History_of_Europe ,
+		dbt:History_of_Italy ,
+		dbt:More_citations_needed_section ,
+		dbt:Use_dmy_dates ,
+		dbt:Culture_of_Italy ,
+		dbt:Further ,
+		dbt:Legend ,
+		dbt:Cite_book ,
+		dbt:Div_col ,
+		dbt:Div_col_end ,
+		dbt:Sfn ,
+		dbt:Multiple_image ,
+		dbt:See_also ;
+	dbp:caption	"Necropolis of Banditaccia located in Cerveteri in Lazio."@en ,
+		"Ruins of the Samnite town Aeclanum."@en ;
+	dbo:abstract	"La hist\u00F2ria d'It\u00E0lia \u00E9s una de les m\u00E9s importants de tot Europa i de tot el m\u00F3n. \u00CDntimament lligada a la de la cultura occidental i la hist\u00F2ria d'Europa, ha viscut bona part dels principals esdeveniments hist\u00F2rics del m\u00F3noccidental. Hereva de m\u00FAltiples cultures antigues com la dels etruscs i llatins i receptora de la colonitzaci\u00F3 grega i cartaginesa, va veure n\u00E9ixer l'Imperi Rom\u00E0, bressol de gran part de la cultura occidental i un dels m\u00E9s grans de la hist\u00F2ria. Despr\u00E9s de la caiguda de l'Imperi, It\u00E0lia va patir una s\u00E8rie d'invasions germ\u00E0niques alternades amb intents romans d'Orient i francs de reconstruir la unitat de l'Imperi Rom\u00E0. Roma, seu del papat i font de legitimitat imperial va ser en aquests temps un focus que va atreure a figures com Justini\u00E0 I i Carlemany. Durant l'edat mitjana It\u00E0lia es convertiria en un mosaic de ciutats-estat que lluitaven entre si per aconseguir l'hegemonia sobre la resta, amb freq\u00FCents intervencions de les pot\u00E8ncies circumdants i de l'Esgl\u00E9sia. La seva privilegiada situaci\u00F3 geogr\u00E0fica va fer que fos clau en el comer\u00E7 europeu i va afavorir rep\u00FAbliques mar\u00EDtimes connectades amb la hist\u00F2ria europea. La lluita entre el poder temporal imperial, que inclo\u00EFa a It\u00E0lia, i l'espiritual papal, que tenia la seva seu a Roma, va tenir a It\u00E0lia especials repercussions. Aquesta her\u00E8ncia de rellev\u00E0ncia pol\u00EDtica el va convertir en focus de les lluites pel poder a Europa. A m\u00E9s, el llegat cultural cl\u00E0ssic i eclesi\u00E0stic va ser el brou de cultiu de noves tend\u00E8ncies. En els segles XV i XVI es va convertir en el centre cultural d'Europa donant origen al Renaixement i va ser un dels camps en qu\u00E8 es va decidir la supremacia europea de l'Imperi espanyol amb la vict\u00F2ria sobre Francesc I de Fran\u00E7a. Despr\u00E9s del declivi de la monarquia hisp\u00E0nica, l'Imperi Austrohongar\u00E8s passaria a controlar la regi\u00F3, com a bona part d'Europa Central. Transformada en un camp de batalla durant les Guerres Napole\u00F2niques i el Primer Imperi de Napole\u00F3 Bonaparte, passaria a lluitar per la seva independ\u00E8ncia. Entre 1856 i 1870 es va dur a terme la Unificaci\u00F3 d'It\u00E0lia despr\u00E9s d'una s\u00E8rie de guerres que va implicar enfrontar-se a l'Imperi austr\u00EDac i als Estats Pontificis. Posteriorment, It\u00E0lia portaria a terme pol\u00EDtiques imperialistes que la van portar a participar en la Primera Guerra Mundial del costat de l'Entent, a desenvolupar el feixisme de Benito Mussolini, a la invasi\u00F3 d'Alb\u00E0nia i Abiss\u00EDnia i a participar en la Segona Guerra Mundial al costat de l'Alemanya Nazi i de l'Imperi del Jap\u00F3. En l'actualitat It\u00E0lia \u00E9s en un pa\u00EDs prestigi\u00F3s, democr\u00E0tic, pertanyent a organitzacions tan importants com la Uni\u00F3 Europea o el G-8, i una de les principals pot\u00E8ncies econ\u00F2miques del m\u00F3n."@ca ,
+		"\u7FA9\u5927\u5229\u662F\u6B50\u6D32\u6B77\u53F2\u53E4\u570B\uFF0C\u5728\u820A\u77F3\u5668\u6642\u4EE3\u5C31\u5DF2\u6709\u4EBA\u985E\u5728\u9019\u7247\u571F\u5730\u4E0A\u751F\u6D3B\u3002\u4F0A\u7279\u9C81\u91CC\u4E9A\u3001\u5927\u5E0C\u81D8\u662F\u6B50\u6D32\u6587\u660E\u53E4\u570B\u3002\u7F85\u99AC\u5171\u548C\u570B\u548C\u7F85\u99AC\u5E1D\u570B\u66FE\u7D93\u7D71\u6CBB\u4E16\u754C\u7684\u4E00\u90E8\u5206\u9054\u6578\u500B\u4E16\u7D00\uFF0C\u70BA\u540E\u4E16\u7559\u4E0B\u6DF1\u9060\u7684\u5F71\u97FF\u7684\u8CA2\u737B\u3002\u7FA9\u5927\u5229\u4E5F\u662F\u6587\u85DD\u5FA9\u8208\u904B\u52D5\u7684\u6416\u7C43\u3002\u7D93\u904E\u9577\u671F\u7684\u5206\u88C2\u5F8C\uFF0C\u7FA9\u5927\u5229\u7D42\u65BC\u572819\u4E16\u7D00\u6210\u70BA\u4E00\u500B\u7D71\u4E00\u7684\u570B\u5BB6\u3002"@zh ,
+		"Die Geschichte Italiens im Sinne einer menschlichen Besiedlung der Apennin-Halbinsel und der sie umgebenden Inseln l\u00E4sst sich 1,3 bis 1,7 Millionen Jahre zur\u00FCckverfolgen, wobei der moderne Mensch vor etwa 43.000 bis 45.000 Jahren in Italien auftrat und noch mehrere Jahrtausende neben dem Neandertaler lebte. Bis ins 6. Jahrtausend v. Chr. bildeten Jagd, Fischfang und Sammeln die Grundlagen seiner Existenz. Etwa 6100 v. Chr. brachten erste Gruppen von au\u00DFerhalb der Halbinsel \u2013 wohl \u00FCber See aus S\u00FCdanatolien und dem Nahen Osten \u2013 die Landwirtschaft mit; die J\u00E4ger und Sammler verschwanden. Im 2. Jahrtausend v. Chr. setzte eine Entwicklung ein, die aus den D\u00F6rfern fr\u00FChe stadt\u00E4hnliche Siedlungen machte, und die Gesellschaften wiesen erstmals deutliche Spuren von Hierarchien auf. Die durch Schriftquellen belegte Geschichte Italiens beginnt erst nach der Besiedlung durch italische V\u00F6lker. Neben ihnen erlebte die Kultur der Etrusker, deren Herkunft ungekl\u00E4rt ist, um 600 v. Chr. ihre Bl\u00FCtezeit. Im 8. Jahrhundert v. Chr. hatte die griechische Kolonisation des s\u00FCditalienischen Festlandes und Siziliens begonnen, an der Westk\u00FCste der Insel siedelten Ph\u00F6nizier. Diese Kolonien geh\u00F6rten sp\u00E4ter zu Karthago. Ab dem 4. Jahrhundert v. Chr. setzte die Expansion Roms ein, 146 v. Chr. wurden Korinth und Karthago zerst\u00F6rt, die Eroberung des Mittelmeerraums, sp\u00E4ter auch von Teilen Mittel- und Nordeuropas brachte kulturelle Einfl\u00FCsse und Menschen aus dem gesamten Reich und den angrenzenden Gebieten nach Italien. Die Halbinsel bildete das Zentrum des R\u00F6mischen Reiches und blieb es mit Einschr\u00E4nkungen bis zum Untergang Westroms um 476. Dabei verwandelte sich die agrarische Wirtschaftsbasis, die anfangs aus Bauern bestanden hatte, zu einem System weitr\u00E4umiger Latifundien auf der Basis von Sklavenarbeit. Ein dichtes Stra\u00DFennetz verband die expandierenden St\u00E4dte, dank dessen der Warenaustausch, aber auch die Abh\u00E4ngigkeit von externen G\u00FCtern, wie Weizen und Oliven\u00F6l aus Nordafrika, anwuchsen. In der Sp\u00E4tantike erschienen neben der Sklaverei und den freien Bauern auf dem Land Formen der Bindung an den Boden, wie das Kolonat, wenngleich noch um 500 zwischen freien und unfreien Kolonen unterschieden wurde (Kolonenedikt des Anastasius). Im 4. Jahrhundert setzte sich das Christentum als Staatsreligion durch. Ab dem 5. Jahrhundert kam Italien unter die Herrschaft germanischer St\u00E4mme, die Bev\u00F6lkerung ging bis um 650 drastisch zur\u00FCck, kurzzeitig eroberte Ostrom im 6. Jahrhundert das ehemalige Kerngebiet des Reiches. Im 8. Jahrhundert wurde der von den Langobarden etwa zwei Jahrhunderte lang beherrschte Norden dem Frankenreich angegliedert, sp\u00E4ter dem Heiligen R\u00F6mischen Reich, w\u00E4hrend im S\u00FCden Araber und Byzantiner herrschten, ab dem 11. Jahrhundert Normannen. In den meisten Regionen setzte sich im Fr\u00FChmittelalter der Feudalismus durch, dessen Zusammenh\u00E4nge mit dem sp\u00E4tr\u00F6mischen Kolonat \u00E4u\u00DFerst komplex sind. Die oberitalienischen Kommunen, die sich etwa im Lombardenbund zusammenfanden, konnten sich im 12. und 13. Jahrhundert vom Einfluss des Reichs l\u00F6sen und eigene Territorien errichten. Von dieser Vielzahl an Territorien waren die bedeutendsten Mailand, die Seem\u00E4chte Genua und Venedig, Florenz und Rom sowie der S\u00FCden Italiens, der teils franz\u00F6sisch, teils spanisch war. Eine zentrale Rolle spielte die Tatsache, dass der Bischof von Rom zum Papst der westlichen Kirche aufstieg, es 1054 zur Trennung von der \u00F6stlichen Kirche kam und der Papst in langwierige Auseinandersetzungen mit den r\u00F6misch-deutschen K\u00F6nigen, dann mit dem franz\u00F6sischen K\u00F6nig Philipp IV. geriet. Letzterer zwang den Papst von 1309 ins Exil nach Avignon, das bis 1378 andauerte. Die R\u00FCckkehr der P\u00E4pste nach Rom beschleunigte den Aufbau des Kirchenstaats in Mittelitalien, der bis 1870 die politischen Entwicklungen auf der Halbinsel erheblich beeinflusste. Vom 14. bis 16. Jahrhundert war Italien das wirtschaftliche und kulturelle Zentrum der Renaissance. F\u00FCnf f\u00FChrende M\u00E4chte hatten sich herauskristallisiert, wobei der Kirchenstaat eine ganz eigene Rolle spielte. Ab dem sp\u00E4ten 15., vor allem aber im 16. und 17. Jahrhundert mischten sich die europ\u00E4ischen Gro\u00DFm\u00E4chte \u2013 Frankreich, Spanien und \u00D6sterreich \u2013 immer wieder in die italienische Politik ein. Sie schotteten dabei in verschiedenem Ma\u00DFe ihre M\u00E4rkte gegen ausw\u00E4rtige Waren ab. Gleichzeitig \u00FCbte das Osmanische Reich ab dem sp\u00E4ten 14. Jahrhundert starken milit\u00E4rischen Druck insbesondere auf die Republik Venedig aus. Dennoch strahlten die italienischen Kulturmetropolen, allen voran Rom, Florenz und Venedig, weit \u00FCber Italien und Europa aus. Nach vier Jahrhunderten der Zersplitterung und Fremdherrschaft wurde die Halbinsel im Zuge der Nationalbewegung des Risorgimento politisch vereint. Der moderne italienische Staat besteht seit 1861, 1866 kamen Venetien und das Friaul hinzu, nach dem Ersten Weltkrieg Julisch Venetien (Triest und G\u00F6rz), das Trentino und S\u00FCdtirol. Kolonialkriege f\u00FChrte Italien vor allem in Libyen (1951 unabh\u00E4ngig) und \u00C4thiopien (Schlacht von Adua 1896, Abessinienkrieg 1935/36). 1922 bis 1943 regierten die Faschisten unter Benito Mussolini in Italien, in den letzten beiden Kriegsjahren kontrollierten die deutschen Nationalsozialisten weite Teile des Lands, bis dieses von den Alliierten befreit wurde. 1946 entschied sich das italienische Volk f\u00FCr die Abschaffung der Monarchie zugunsten der Republik. Erstmals durften auch Frauen w\u00E4hlen. Seither pr\u00E4gen h\u00E4ufige Regierungswechsel die politische Kultur, bis Anfang der 1990er Jahre unter durchgehender Beteiligung der Democrazia Cristiana. Dabei verweisen bis zum Ende des Kalten Krieges Auseinandersetzungen um den Eurokommunismus, teils militant gef\u00FChrte politische Auseinandersetzungen, der Gegensatz zwischen Nord- und S\u00FCditalien, der Einfluss der katholischen Kirche, aber auch Korruption bis in die politischen F\u00FChrungsgruppen und organisierte Kriminalit\u00E4t auf einige der zentralen Konfliktlinien der Gesellschaft. Der Zusammenbruch des alten Parteiensystems und eine Verfassungs\u00E4nderung im Zuge der Tangentopoli-Aff\u00E4re zu Beginn der 1990er Jahre markierte einen politischen Einschnitt und den \u00DCbergang zur sogenannten Zweiten Republik."@de ,
+		"La storia d'Italia \u00E8 legata alla cultura occidentale, alla storia d'Europa e alle civilt\u00E0 del bacino del Mediterraneo. L'Italia ha vissuto i principali eventi storici del mondo occidentale. L'Italia ha ereditato culture antiche come quella etrusca, latina e greca, ha ospitato insediamenti celti nonch\u00E9 colonie di origine greca e fenicio-cartaginese, ed \u00E8 inoltre stata culla di alcuni fenomeni che hanno segnato la cultura occidentale quali l'Impero romano e il papato, dopo essere stata in parte sotto la dominazione di Goti, Longobardi, Arabo-Berberi, Bizantini e Normanni. Durante il Medioevo, l'Italia rest\u00F2 frammentata in un mosaico di citt\u00E0-stato che combatterono tra loro per l'egemonia sul bacino del Mediterraneo, con frequenti interventi di potenze circostanti e della Chiesa cattolica. La sua posizione geografica fece s\u00EC che diventasse la chiave per il commercio europeo e ci\u00F2 favor\u00EC le repubbliche marinare come Amalfi, Pisa, Genova e Venezia. Il potere spirituale del papa, la cui sede \u00E8 a Roma, ha prodotto ripercussioni particolari in Italia. Questo patrimonio di importanza politica ha attirato lotte di potere tra i regnanti di tutta Europa. Inoltre, l'eredit\u00E0 culturale classica ed ecclesiastica \u00E8 stato il terreno di cultura di nuove tendenze. Dopo l'esperienza dei comuni e delle signorie, nei XV e XVI, l'Italia \u00E8 diventata il centro culturale d'Europa, dando vita all'Umanesimo e al Rinascimento. Allo stesso tempo, divenne uno dei campi di battaglia del continente, subendo l'egemonia di diverse potenze straniere tra le quali la Francia di Carlo VIII e l'Impero spagnolo. Dopo il declino spagnolo la monarchia austriaca cominci\u00F2 a controllare l'area, cos\u00EC come gran parte dell'Europa centrale. Durante le guerre rivoluzionarie francesi e il Primo Impero di Napoleone Bonaparte, gli Italiani lottarono per la loro indipendenza. Tra il 1821 e il 1866, dopo una serie di guerre contro l'Austria, la penisola italiana fu unificata sotto la guida del Regno di Sardegna sabaudo, anche se non nella sua interezza. Nel 1870, il Regno d'Italia annesse lo Stato Pontificio, inimicandosi la Francia, mentre gi\u00E0 nel 1860 aveva annesso il Regno borbonico delle due Sicilie. Successivamente l'Italia segu\u00EC le altre potenze europee nelle dinamiche imperialiste volte a ottenere un proprio spazio coloniale in Africa. Le ambizioni territoriali nel Vecchio Continente e la volont\u00E0 di trovare un suo posto nel concerto di blocchi politici e alleanze sicure port\u00F2 l'Italia a partecipare alla prima guerra mondiale a fianco della Triplice Intesa. La societ\u00E0 italiana, delusa dalla \"vittoria mutilata\", ader\u00EC gradualmente al fascismo di Benito Mussolini e dei suoi seguaci, saliti al potere nell'ottobre del 1922 e che istituirono un regime totalitario a cominciare dal 1925. L'avvicinamento alla Germania nazista e la formazione dell'asse Roma-Berlino del 1936 saranno determinanti nella scelta italiana di entrare nella seconda guerra mondiale, nel 1940. Dopo il suo fallimento militare, ebbe termine la forma di governo monarchica: l'attuale repubblica fu infatti istituita nel giugno 1946. In seguito alla ricostruzione, vi fu un periodo storico di ripresa economica, militare, sportiva e politica, cos\u00EC come la riaffermazione dell'Italia come potenza industriale, essendo tra le nazioni fondanti del G6 (poi G7) nel 1975. L'Italia \u00E8 inoltre tra i sei Paesi fondatori dell'Unione europea, la quale opera tramite meccanismi e politiche sovranazionali (come l'euro)."@it ,
+		"\u0422\u0435\u0440\u0440\u0438\u0442\u043E\u0440\u0438\u044F \u0418\u0442\u0430\u043B\u0438\u0438 \u0441\u0442\u0430\u043B\u0430 \u0437\u0430\u0441\u0435\u043B\u044F\u0442\u044C\u0441\u044F \u043F\u0440\u0438\u043C\u0435\u0440\u043D\u043E 50 000 \u043B\u0435\u0442 \u043D\u0430\u0437\u0430\u0434, \u0442\u043E \u0435\u0441\u0442\u044C \u0432 \u043A\u043E\u043D\u0446\u0435 \u043D\u0438\u0436\u043D\u0435\u0433\u043E \u043F\u0430\u043B\u0435\u043E\u043B\u0438\u0442\u0430. \u041F\u0435\u0440\u0432\u043E\u043D\u0430\u0447\u0430\u043B\u044C\u043D\u043E \u043E\u043D\u0430 \u0431\u044B\u043B\u0430 \u0437\u0430\u0441\u0435\u043B\u0435\u043D\u0430 \u043D\u0435\u0430\u043D\u0434\u0435\u0440\u0442\u0430\u043B\u044C\u0446\u0430\u043C\u0438, \u043A\u043E\u0442\u043E\u0440\u044B\u0435 \u043D\u0435\u043A\u043E\u0442\u043E\u0440\u043E\u0435 \u0432\u0440\u0435\u043C\u044F \u0441\u043E\u0441\u0443\u0449\u0435\u0441\u0442\u0432\u043E\u0432\u0430\u043B\u0438 \u0441 \u043D\u0430\u0448\u0438\u043C \u0432\u0438\u0434\u043E\u043C \u0433\u043E\u043C\u0438\u043D\u0438\u0434. \u0421\u0430\u043C\u044B\u043C\u0438 \u0432\u0430\u0436\u043D\u044B\u043C\u0438 \u043A\u0443\u043B\u044C\u0442\u0443\u0440\u0430\u043C\u0438 \u0432\u043E \u0432\u0440\u0435\u043C\u044F \u043D\u0435\u043E\u043B\u0438\u0442\u0430 \u0431\u044B\u043B\u0438: \u041A\u0430\u043C\u0443\u043D\u0430, \u0422\u0435\u0440\u0440\u0430\u043C\u0430\u0440\u0435, \u0412\u0438\u043B\u0430\u043D\u043E\u0432\u0430 \u0438 \u0437\u0430\u043C\u043A\u043E\u0432\u0430\u044F \u043A\u0443\u043B\u044C\u0442\u0443\u0440\u0430. \u0422\u0430\u043A\u0436\u0435 \u0441\u0442\u043E\u0438\u0442 \u0443\u043F\u043E\u043C\u044F\u043D\u0443\u0442\u044C \u0434\u043E\u0438\u0441\u0442\u043E\u0440\u0438\u0447\u0435\u0441\u043A\u0438\u0435 \u043A\u0443\u043B\u044C\u0442\u0443\u0440\u044B \u041A\u0430\u043D\u0435\u0433\u0440\u0430\u0442\u0435 \u0438 \u0420\u0435\u043C\u0435\u0434\u0435\u043B\u043B\u043E. \u041E\u0431\u043B\u0438\u043A \u0410\u043F\u0435\u043D\u043D\u0438\u043D\u0441\u043A\u043E\u0433\u043E \u043F\u043E\u043B\u0443\u043E\u0441\u0442\u0440\u043E\u0432\u0430 \u0432 \u0434\u043E\u0438\u0441\u0442\u043E\u0440\u0438\u0447\u0435\u0441\u043A\u0438\u0435 \u0432\u0440\u0435\u043C\u0435\u043D\u0430 \u043E\u0447\u0435\u043D\u044C \u0441\u0438\u043B\u044C\u043D\u043E \u043E\u0442\u043B\u0438\u0447\u0430\u043B\u0441\u044F \u043E\u0442 \u0441\u043E\u0432\u0440\u0435\u043C\u0435\u043D\u043D\u043E\u0433\u043E. \u0427\u0435\u0440\u0435\u0434\u043E\u0432\u0430\u043D\u0438\u0435 \u0443\u043C\u0435\u0440\u0435\u043D\u043D\u043E\u0433\u043E \u043A\u043B\u0438\u043C\u0430\u0442\u0430 \u0438 \u043E\u043B\u0435\u0434\u0435\u043D\u0435\u043D\u0438\u0439 \u043F\u0440\u0438\u0432\u0435\u043B\u043E \u043A \u0437\u043D\u0430\u0447\u0438\u0442\u0435\u043B\u044C\u043D\u044B\u043C \u043F\u0435\u0440\u0435\u043C\u0435\u043D\u0430\u043C, \u043A\u043B\u0438\u043C\u0430\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u043C \u0438 \u0433\u0435\u043E\u0433\u0440\u0430\u0444\u0438\u0447\u0435\u0441\u043A\u0438\u043C. \u0412 \u0441\u0430\u043C\u044B\u0435 \u0445\u043E\u043B\u043E\u0434\u043D\u044B\u0435 \u043F\u0435\u0440\u0438\u043E\u0434\u044B, \u043D\u0430\u043F\u0440\u0438\u043C\u0435\u0440, \u043E\u0441\u0442\u0440\u043E\u0432\u0430 \u042D\u043B\u044C\u0431\u0430 \u0438 \u0421\u0438\u0446\u0438\u043B\u0438\u044F \u0431\u044B\u043B\u0438 \u0441\u043E\u0435\u0434\u0438\u043D\u0435\u043D\u044B \u0441 \u0438\u0442\u0430\u043B\u044C\u044F\u043D\u0441\u043A\u0438\u043C \u043F\u043E\u043B\u0443\u043E\u0441\u0442\u0440\u043E\u0432\u043E\u043C. \u0410\u0434\u0440\u0438\u0430\u0442\u0438\u0447\u0435\u0441\u043A\u043E\u0435 \u043C\u043E\u0440\u0435 \u043E\u043C\u044B\u0432\u0430\u043B\u043E \u0438\u0442\u0430\u043B\u044C\u044F\u043D\u0441\u043A\u043E\u0435 \u043F\u043E\u0431\u0435\u0440\u0435\u0436\u044C\u0435 \u043D\u0430 \u0448\u0438\u0440\u043E\u0442\u0435 \u0413\u0430\u0440\u0433\u0430\u043D\u043E, \u0430 \u043E\u0441\u0442\u0430\u043B\u044C\u043D\u0430\u044F \u0442\u0435\u0440\u0440\u0438\u0442\u043E\u0440\u0438\u044F, \u0441\u0435\u0439\u0447\u0430\u0441 \u043F\u043E\u0433\u0440\u0443\u0436\u0451\u043D\u043D\u0430\u044F \u043F\u043E\u0434 \u0432\u043E\u0434\u0443, \u043F\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043B\u044F\u043B\u0430 \u0441\u043E\u0431\u043E\u0439 \u043F\u043B\u043E\u0434\u043E\u0440\u043E\u0434\u043D\u0443\u044E \u0434\u043E\u043B\u0438\u043D\u0443 \u0441 \u0432\u043B\u0430\u0436\u043D\u044B\u043C \u043A\u043B\u0438\u043C\u0430\u0442\u043E\u043C. \u041F\u0440\u0438\u0441\u0443\u0442\u0441\u0442\u0432\u0438\u0435 \u043D\u0435\u0430\u043D\u0434\u0435\u0440\u0442\u0430\u043B\u044C\u0441\u043A\u043E\u0433\u043E \u0447\u0435\u043B\u043E\u0432\u0435\u043A\u0430 \u0434\u043E\u043A\u0430\u0437\u044B\u0432\u0430\u0435\u0442\u0441\u044F \u0430\u0440\u0445\u0435\u043E\u043B\u043E\u0433\u0438\u0447\u0435\u0441\u043A\u0438\u043C\u0438 \u043D\u0430\u0445\u043E\u0434\u043A\u0430\u043C\u0438, \u0432\u043E\u0437\u0440\u0430\u0441\u0442 \u043A\u043E\u0442\u043E\u0440\u044B\u0445 \u043F\u0440\u0438\u043C\u0435\u0440\u043D\u043E 50 000 \u043B\u0435\u0442. \u0412 \u0418\u0442\u0430\u043B\u0438\u0438, \u043E\u0434\u043D\u0430\u043A\u043E, \u044D\u0442\u0438\u0445 \u0441\u0432\u0438\u0434\u0435\u0442\u0435\u043B\u044C\u0441\u0442\u0432 \u0431\u044B\u043B\u043E \u043E\u0431\u043D\u0430\u0440\u0443\u0436\u0435\u043D\u043E, \u043F\u043E \u0441\u0440\u0430\u0432\u043D\u0435\u043D\u0438\u044E \u0441 \u043A\u043E\u043D\u0442\u0438\u043D\u0435\u043D\u0442\u0430\u043B\u044C\u043D\u043E\u0439 \u0415\u0432\u0440\u043E\u043F\u043E\u0439, \u043D\u0435 \u043C\u043D\u043E\u0433\u043E, \u0438 \u0432\u0441\u0435 \u043E\u043D\u0438 \u043E\u0442\u043D\u043E\u0441\u044F\u0442\u0441\u044F \u043A \u043F\u043E\u0437\u0434\u043D\u0435\u043C\u0443 \u043F\u043B\u0435\u0439\u0441\u0442\u043E\u0446\u0435\u043D\u0443. \u0412\u0441\u0435\u0433\u043E \u0438\u0445 \u043E\u043A\u043E\u043B\u043E \u0434\u0432\u0430\u0434\u0446\u0430\u0442\u0438 \u0438 \u0441\u0430\u043C\u043E\u0435 \u0437\u043D\u0430\u0447\u0438\u0442\u0435\u043B\u044C\u043D\u043E\u0435 \u0431\u044B\u043B\u043E \u043D\u0430\u0439\u0434\u0435\u043D\u043E \u0432 \u0433\u0440\u043E\u0442\u0430\u0445 \u0413\u0443\u0430\u0442\u0442\u0430\u0440\u0438 \u043E\u043A\u043E\u043B\u043E \u0433\u043E\u0440\u043E\u0434\u0430 \u0421\u0430\u043D \u0424\u0435\u043B\u0438\u0447\u0435 \u0427\u0438\u0440\u0447\u0435\u043E (\u0442\u0435\u0440\u0440\u0438\u0442\u043E\u0440\u0438\u044F \u043F\u0430\u0440\u043A\u0430 \u0427\u0438\u0440\u0447\u0435\u043E). \u0414\u0440\u0443\u0433\u0438\u0435 \u0432\u0430\u0436\u043D\u044B\u0435 \u043D\u0430\u0445\u043E\u0434\u043A\u0438 \u0431\u044B\u043B\u0438 \u0441\u0434\u0435\u043B\u0430\u043D\u044B \u0432 \u0433\u0440\u043E\u0442\u0435 \u0411\u0440\u0435\u0443\u0438\u043B\u044C (\u0432 \u0442\u043E\u043C \u0436\u0435 \u0427\u0438\u0440\u0447\u0435\u043E), \u0432 \u0433\u0440\u043E\u0442\u0435 \u0424\u0443\u043C\u0430\u043D\u0435 (\u0432 \u043F\u0440\u043E\u0432\u0438\u043D\u0446\u0438\u0438 \u0412\u0435\u0440\u043E\u043D\u0430) \u0438 \u0432 \u0433\u0440\u043E\u0442\u0435 \u0421\u0430\u043D \u0411\u0435\u0440\u043D\u0430\u0440\u0434\u0438\u043D\u043E (\u0432 \u043F\u0440\u043E\u0432\u0438\u043D\u0446\u0438\u0438 \u0412\u0438\u0447\u0435\u043D\u0446\u0430). \u0421\u043E\u0432\u0440\u0435\u043C\u0435\u043D\u043D\u044B\u0439 \u0447\u0435\u043B\u043E\u0432\u0435\u043A \u043F\u0440\u0438\u0448\u0451\u043B \u043D\u0430 \u0438\u0442\u0430\u043B\u044C\u044F\u043D\u0441\u043A\u0443\u044E \u0442\u0435\u0440\u0440\u0438\u0442\u043E\u0440\u0438\u044E \u0432 \u043F\u0435\u0440\u0438\u043E\u0434 \u0432\u0435\u0440\u0445\u043D\u0435\u0433\u043E \u043F\u0430\u043B\u0435\u043E\u043B\u0438\u0442\u0430: \u043E\u0431\u0440\u0430\u0437\u0446\u044B \u043E\u0440\u0438\u043D\u044C\u044F\u043A\u0441\u043A\u043E\u0439 \u043A\u0443\u043B\u044C\u0442\u0443\u0440\u044B \u0432\u043E\u0437\u0440\u0430\u0441\u0442\u043E\u043C 34 000 \u043B\u0435\u0442 \u0431\u044B\u043B\u0438 \u043E\u0431\u043D\u0430\u0440\u0443\u0436\u0435\u043D\u044B \u0432 \u0433\u0440\u043E\u0442\u0435 \u0424\u0443\u043C\u0430\u043D\u0435. \u0412 \u043A\u043E\u043D\u0446\u0435 \u043F\u0430\u043B\u0435\u043E\u043B\u0438\u0442\u0430 \u0443\u0440\u043E\u0432\u0435\u043D\u044C \u043C\u043E\u0440\u044F \u043F\u043E\u0432\u044B\u0448\u0430\u0435\u0442\u0441\u044F, \u0438 \u0431\u043E\u043B\u044C\u0448\u0438\u0435 \u0440\u0430\u0432\u043D\u0438\u043D\u044B \u043E\u043A\u0430\u0437\u044B\u0432\u0430\u044E\u0442\u0441\u044F \u0437\u0430\u0442\u043E\u043F\u043B\u0435\u043D\u043D\u044B\u043C\u0438. \u041A\u043B\u0438\u043C\u0430\u0442, \u0444\u043B\u043E\u0440\u0430 \u0438 \u0444\u0430\u0443\u043D\u0430 \u043C\u0435\u043D\u044F\u044E\u0442\u0441\u044F."@ru ,
+		"It\u00E1lie, sjednocen\u00E1 v roce 1861, v\u00FDznamn\u011B p\u0159isp\u011Bla ke kulturn\u00EDmu a soci\u00E1ln\u00EDmu rozvoji cel\u00E9 st\u0159edomo\u0159sk\u00E9 oblasti. Ji\u017E od prav\u011Bku zde rozkv\u00E9taly v\u00FDznamn\u00E9 civilizace. Kulturn\u011B a lingvisticky lze po\u010D\u00E1tky italsk\u00FDch d\u011Bjin vysledovat a\u017E do 9. stolet\u00ED p\u0159. n. l., odkdy existuj\u00ED prvn\u00ED pam\u00E1tky na p\u0159\u00EDtomnost italick\u00FDch kmen\u016F na Apeninsk\u00E9m poloostrov\u011B. Z jazykov\u00E9ho hlediska je d\u011Bl\u00EDme na: Osk\u00E1nce, Umbry a Latiny. Pr\u00E1v\u011B latinsk\u00E1 civilizace se posl\u00E9ze roz\u0161\u00ED\u0159ila a d\u00EDky mocensk\u00E9mu r\u016Fstu starov\u011Bk\u00E9ho \u0158\u00EDma se stala dominantn\u00ED na cel\u00E9m poloostrov\u011B."@cs ,
+		"\u30A4\u30BF\u30EA\u30A2\u306E\u6B74\u53F2\uFF08\u30A4\u30BF\u30EA\u30A2\u306E\u308C\u304D\u3057\uFF09\u3067\u306F\u3001\u5730\u4E2D\u6D77\u306B\u9762\u3057\u305F\u30A4\u30BF\u30EA\u30A2\u534A\u5CF6\u304A\u3088\u3073\u305D\u306E\u5468\u8FBA\u5730\u57DF\u306B\u304A\u3051\u308B\u6B74\u53F2\u306B\u3064\u3044\u3066\u8A18\u8F09\u3059\u308B\u3002"@ja ,
+		"Den h\u00E4r artikeln behandlar Italiens historia. Italien har bidragit till att forma den kulturella och samh\u00E4lleliga utvecklingen i hela medelhavsomr\u00E5det och har haft stort inflytande \u00F6ver  i \u00F6vrigt. Betydande kulturer och civilisationer har existerat d\u00E4r sen f\u00F6rhistorisk tid. Greker bosatte sig p\u00E5 den italienska halv\u00F6ns sydspets under 900- och 800-talet f.Kr. Efter Magna Graecia dominerade etruskerna och icke minst romarna denna del av v\u00E4rlden i flera \u00E5rhundraden. Under medeltiden och ren\u00E4ssansen var Italien ett k\u00E4rnomr\u00E5de f\u00F6r europeisk religion, filosofi, vetenskap och konst."@sv ,
+		"A It\u00E1lia \u00E9 um pa\u00EDs da Europa meridional que faz fronteira ao norte com Fran\u00E7a, Su\u00ED\u00E7a, \u00C1ustria e Eslov\u00EAnia, cujo territ\u00F3rio principal forma uma pen\u00EDnsula no mar Mediterr\u00E2neo e inclui duas grandes ilhas, a Sic\u00EDlia e a Sardenha. Sofreu, historicamente, a influ\u00EAncia de etruscos, gregos e celtas antes de ser unificada em 262 a.C. pelo dom\u00EDnio romano. Roma continua a ser a capital da It\u00E1lia at\u00E9 hoje. O nome It\u00E1lia v\u00EAm da Roma antiga. Os romanos chamavam de It\u00E1lia o sul da Pen\u00EDnsula It\u00E1lica ou Apenina, que significa \"terra de bois\" ou \"terra de pastos\"."@pt ,
+		"1000 \u0440\u043E\u043A\u0456\u0432 \u0434\u043E \u043D. \u0435. \u2014 \u043D\u0430 \u0442\u0435\u0440\u0438\u0442\u043E\u0440\u0456\u0457 \u043A\u0440\u0430\u0457\u043D\u0438 \u0436\u0438\u043B\u0438 \u043F\u043B\u0435\u043C\u0435\u043D\u0430 \u0435\u0442\u0440\u0443\u0441\u043A\u0456\u0432, \u043B\u0456\u0433\u0443\u0440\u0456\u0432, \u0456\u0442\u0430\u043B\u0456\u043A\u0456\u0432, \u043B\u0430\u0442\u0438\u043D\u044F\u043D, \u0441\u0430\u0431\u0456\u043D\u044F\u043D. \u041C\u0456\u0436 1200\u20141100 \u0440\u043E\u043A\u0430\u043C\u0438 \u0434\u043E \u043D. \u0435. \u043D\u0430 \u0442\u0435\u0440\u0438\u0442\u043E\u0440\u0456\u044E \u0441\u0443\u0447\u0430\u0441\u043D\u043E\u0457 \u0406\u0442\u0430\u043B\u0456\u0457 \u043F\u0440\u0438\u0439\u0448\u043B\u0438 \u043F\u043B\u0435\u043C\u0435\u043D\u0430 \u0456\u0442\u0430\u043B\u0456\u043A\u0456\u0432. \u0414\u0435\u0449\u043E \u043F\u0456\u0437\u043D\u0456\u0448\u0435 \u0437'\u044F\u0432\u0438\u043B\u0438\u0441\u044F \u0456\u043B\u043B\u0456\u0440\u0456\u0439\u0446\u0456, \u0437\u0433\u043E\u0434\u043E\u043C, \u0431\u043B\u0438\u0437\u044C\u043A\u043E 900\u2014800 \u0440\u043E\u043A\u0456\u0432 \u0434\u043E \u043D. \u0435., \u2014 \u0435\u0442\u0440\u0443\u0441\u043A\u0438 \u0456, \u043D\u0430\u0440\u0435\u0448\u0442\u0456, \u0437 VIII \u0441\u0442. \u0434\u043E \u043D. \u0435. \u2014 \u0433\u0440\u0435\u043A\u0438, \u044F\u043A\u0456 \u0441\u0435\u043B\u0438\u043B\u0438\u0441\u044F \u043F\u0435\u0440\u0435\u0432\u0430\u0436\u043D\u043E \u043D\u0430 \u043F\u0456\u0432\u0434\u043D\u0456 \u0410\u043F\u0435\u043D\u043D\u0456\u043D\u0441\u044C\u043A\u043E\u0433\u043E \u043F\u0456\u0432\u043E\u0441\u0442\u0440\u043E\u0432\u0430 \u0456 \u043D\u0430 \u0421\u0438\u0446\u0438\u043B\u0456\u0457. \n* 754 \u0440. \u0434\u043E \u043D. \u0435. \u2014 \u0437\u0430\u0441\u043D\u0443\u0432\u0430\u043D\u043D\u044F \u043B\u0430\u0442\u0438\u043D\u044F\u043D\u0430\u043C\u0438 \u043C\u0456\u0441\u0442\u0430 \u0420\u0438\u043C\u0430. \u0437\u0433\u0456\u0434\u043D\u043E \u0437 \u043B\u0435\u0433\u0435\u043D\u0434\u043E\u044E, \u0420\u043E\u043C\u0443\u043B \u0437\u0430\u0441\u043D\u0443\u0432\u0430\u0432 \u0420\u0438\u043C 21 \u043A\u0432\u0456\u0442\u043D\u044F 753 \u0440. \u0434\u043E \u043D. \u0435. \n* \u0423 VI \u0441\u0442. \u0434\u043E \u043D. \u0435. \u0420\u0438\u043C \u043E\u043F\u0438\u043D\u0438\u0432\u0441\u044F \u043F\u0456\u0434 \u0432\u043B\u0430\u0434\u043E\u044E \u0435\u0442\u0440\u0443\u0441\u044C\u043A\u0438\u0445 \u0446\u0430\u0440\u0456\u0432-\u0437\u0430\u0432\u043E\u0439\u043E\u0432\u043D\u0438\u043A\u0456\u0432. \u041F\u0440\u0438\u0431\u043B\u0438\u0437\u043D\u043E \u0443 500 \u0440. \u0434\u043E \u043D. \u0435. \u0432 \u0420\u0438\u043C\u0456 \u0432\u0441\u0442\u0430\u043D\u043E\u0432\u043B\u0435\u043D\u043E \u0440\u0435\u0441\u043F\u0443\u0431\u043B\u0456\u043A\u0443. \n* 290 \u0440. \u0434\u043E \u043D. \u0435. \u2014 \u0420\u0438\u043C \u043F\u0456\u0434\u043A\u043E\u0440\u0438\u0432 \u0441\u043E\u0431\u0456 \u0442\u0435\u0440\u0438\u0442\u043E\u0440\u0456\u044E \u0421\u0435\u0440\u0435\u0434\u043D\u044C\u043E\u0457 \u0406\u0442\u0430\u043B\u0456\u0457. \u0423 287 \u0440. \u0434\u043E \u043D. \u0435. \u0437\u0430\u0432\u0435\u0440\u0448\u0438\u043B\u0430\u0441\u044F \u0431\u043E\u0440\u043E\u0442\u044C\u0431\u0430 \u043F\u0430\u0442\u0440\u0438\u0446\u0456\u0457\u0432 \u0456 \u043F\u043B\u0435\u0431\u0435\u0457\u0432, \u0437\u0440\u0456\u0432\u043D\u044F\u043D\u043E \u043F\u0440\u0430\u0432\u043E\u0432\u0435 \u0441\u0442\u0430\u043D\u043E\u0432\u0438\u0449\u0435 \u0441\u0442\u0430\u043D\u0456\u0432. \n* 265 \u0440. \u0434\u043E \u043D. \u0435. \u2014 \u043F\u0435\u0440\u0435\u043C\u043E\u0433\u0430 \u043D\u0430\u0434 \u0433\u0440\u0435\u0446\u044C\u043A\u0438\u043C \u043F\u043E\u043B\u043A\u043E\u0432\u043E\u0434\u0446\u0435\u043C \u041F\u0456\u0440\u0440\u043E\u043C \u0456 \u0437\u0430\u0432\u043E\u044E\u0432\u0430\u043D\u043D\u044F \u0420\u0438\u043C\u043E\u043C \u041F\u0456\u0432\u0434\u0435\u043D\u043D\u043E\u0457 \u0406\u0442\u0430\u043B\u0456\u0457. \n* 264\u2014241 \u0440. \u0434\u043E \u043D. \u0435. \u2014 1-\u0430 \u041F\u0443\u043D\u0456\u0447\u043D\u0430 \u0432\u0456\u0439\u043D\u0430 \u0437 \u041A\u0430\u0440\u0444\u0430\u0433\u0435\u043D\u043E\u043C. \u0420\u0438\u043C \u043E\u0434\u0435\u0440\u0436\u0430\u0432 \u043E\u0441\u0442\u0440\u043E\u0432\u0438 \u0421\u0438\u0446\u0438\u043B\u0456\u044E, \u041A\u043E\u0440\u0441\u0438\u043A\u0443 \u0456 \u0421\u0430\u0440\u0434\u0438\u043D\u0456\u044E. \n* 216 \u0440. \u0434\u043E \u043D. \u0435. \u2014 \u043F\u0456\u0434 \u0447\u0430\u0441 2-\u0457 \u041F\u0443\u043D\u0456\u0447\u043D\u043E\u0457 \u0432\u0456\u0439\u043D\u0438 \u043A\u0430\u0440\u0444\u0430\u0433\u0435\u043D\u0441\u044C\u043A\u0438\u0439 \u043F\u043E\u043B\u043A\u043E\u0432\u043E\u0434\u0435\u0446\u044C \u0413\u0430\u043D\u043D\u0456\u0431\u0430\u043B \u043F\u0435\u0440\u0435\u0439\u0448\u043E\u0432 \u0410\u043B\u044C\u043F\u0438 \u0456 \u0437\u0430\u0432\u0434\u0430\u0432 \u043D\u0438\u0449\u0456\u0432\u043D\u043E\u0457 \u043F\u043E\u0440\u0430\u0437\u043A\u0438 \u0440\u0438\u043C\u043B\u044F\u043D\u0430\u043C \u0443 \u0431\u0438\u0442\u0432\u0456 \u043F\u0456\u0434 \u041A\u0430\u043D\u043D\u0430\u0445. \n* 202 \u0440. \u0434\u043E \u043D. \u0435. \u2014 \u0432\u0456\u0439\u0441\u044C\u043A\u043E \u0413\u0430\u043D\u043D\u0456\u0431\u0430\u043B\u0430 \u0431\u0443\u043B\u043E \u0440\u043E\u0437\u0431\u0438\u0442\u043E \u0440\u0438\u043C\u0441\u044C\u043A\u0438\u043C \u043F\u043E\u043B\u043A\u043E\u0432\u043E\u0434\u0446\u0435\u043C \u0421\u0446\u0438\u043F\u0456\u043E\u043D\u043E\u043C \u0443 \u0431\u0438\u0442\u0432\u0456 \u043F\u0440\u0438 \u0417\u0430\u043C\u0456. \u0420\u0438\u043C \u043E\u0434\u0435\u0440\u0436\u0430\u0432 \u0442\u0435\u0440\u0438\u0442\u043E\u0440\u0456\u044E \u0441\u0443\u0447\u0430\u0441\u043D\u043E\u0457 \u0406\u0441\u043F\u0430\u043D\u0456\u0457. \n* 168 \u0440. \u0434\u043E \u043D. \u0435. \u2014 \u0440\u0438\u043C\u043B\u044F\u043D\u0438 \u0437\u0430\u0432\u043E\u044E\u0432\u0430\u043B\u0438 \u0411\u0430\u043B\u043A\u0430\u043D\u0441\u044C\u043A\u0438\u0439 \u043F\u0456\u0432\u043E\u0441\u0442\u0440\u0456\u0432. \n* 158 \u0440. \u0434\u043E \u043D. \u0435. \u2014 \u043F\u043E\u0448\u0438\u0440\u0435\u043D\u043D\u044F \u0432\u043B\u0430\u0434\u0438 \u0420\u0438\u043C\u0430 \u043D\u0430 \u041C\u0430\u043B\u0443 \u0410\u0437\u0456\u044E \u0456 \u0421\u0438\u0440\u0456\u044E. \n* 149\u2014146 \u0440. \u0434\u043E \u043D. \u0435. \u2014 3-\u044F \u041F\u0443\u043D\u0456\u0447\u043D\u0430 \u0432\u0456\u0439\u043D\u0430 \u0437\u0430\u0432\u0435\u0440\u0448\u0438\u043B\u0430\u0441\u044F \u043F\u043E\u0432\u043D\u0438\u043C \u0440\u0443\u0439\u043D\u0443\u0432\u0430\u043D\u043D\u044F\u043C \u041A\u0430\u0440\u0444\u0430\u0433\u0435\u043D\u0430. \n* \u0423 133 \u0440. \u0434\u043E \u043D. \u0435. \u0420\u0438\u043C \u0437\u0430\u0442\u0432\u0435\u0440\u0434\u0438\u0432 \u0441\u0432\u043E\u0454 \u043F\u0430\u043D\u0443\u0432\u0430\u043D\u043D\u044F \u043D\u0430 \u0432\u0441\u044C\u043E\u043C\u0443 \u0421\u0435\u0440\u0435\u0434\u0437\u0435\u043C\u043D\u043E\u043C\u043E\u0440'\u0457. \n* 88 \u2014 79 \u0440. \u0434\u043E \u043D. \u0435. \u2014 \u0434\u0438\u043A\u0442\u0430\u0442\u0443\u0440\u0430 \u0421\u0443\u043B\u043B\u0438. \u0423\u043F\u0435\u0440\u0448\u0435 \u0440\u0438\u043C\u0441\u044C\u043A\u0456 \u043B\u0435\u0433\u0456\u043E\u043D\u0438 \u0437\u0434\u043E\u0431\u0443\u0432\u0430\u043B\u0438 \u0420\u0438\u043C. \n* 73 \u2014 71 \u0440. \u0434\u043E \u043D. \u0435. \u2014 \u043F\u043E\u0432\u0441\u0442\u0430\u043D\u043D\u044F \u0440\u0430\u0431\u0456\u0432 \u043D\u0430 \u0447\u043E\u043B\u0456 \u0437\u0456 \u0421\u043F\u0430\u0440\u0442\u0430\u043A\u043E\u043C. \n* 58 \u2014 51 \u0440. \u0434\u043E \u043D. \u0435. \u2014 \u0437\u0430\u0432\u043E\u044E\u0432\u0430\u043D\u043D\u044F \u0413\u0430\u043B\u043B\u0456\u0457 (\u0441\u0443\u0447\u0430\u0441\u043D\u0430 \u0424\u0440\u0430\u043D\u0446\u0456\u044F) \u0426\u0435\u0437\u0430\u0440\u0435\u043C. \n* 49 \u2014 45 \u0440. \u0434\u043E \u043D. \u0435. \u2014 \u0433\u0440\u043E\u043C\u0430\u0434\u044F\u043D\u0441\u044C\u043A\u0430 \u0432\u0456\u0439\u043D\u0430 \u0456 \u043F\u0435\u0440\u0435\u043C\u043E\u0433\u0430 \u042E. \u0426\u0435\u0437\u0430\u0440\u044F. \u0412\u0438\u0440\u0456\u0448\u0430\u043B\u044C\u043D\u0430 \u0431\u0438\u0442\u0432\u0430 \u043F\u0440\u043E\u0442\u0438 \u041F\u043E\u043C\u043F\u0435\u044F \u0432\u0438\u0433\u0440\u0430\u043D\u0430 \u043F\u0440\u0438 \u0424\u0430\u0440\u0441\u0430\u043B\u0430\u0445 \u0443 48 \u0440. \u0434\u043E \u043D. \u0435. \n* 44 \u0440. \u0434\u043E \u043D. \u0435. \u2014 \u0443\u0431\u0438\u0432\u0441\u0442\u0432\u043E \u042E. \u0426\u0435\u0437\u0430\u0440\u044F \u0432 \u0420\u0438\u043C\u0456. \n* 31 \u0440. \u0434\u043E \u043D. \u0435. \u2014 \u0440\u043E\u0437\u0433\u0440\u043E\u043C \u041E\u043A\u0442\u0430\u0432\u0456\u0430\u043D\u043E\u043C \u0444\u043B\u043E\u0442\u0443 \u0410\u043D\u0442\u043E\u043D\u0456\u044F \u0456 \u041A\u043B\u0435\u043E\u043F\u0430\u0442\u0440\u0438 \u043F\u0440\u0438 \u043C\u0438\u0441\u0456 \u0410\u043A\u0446\u0456\u0439. \n* 30 \u0440. \u0434\u043E \u043D. \u0435. \u2014 \u043F\u0440\u0438\u0454\u0434\u043D\u0430\u043D\u043D\u044F \u0434\u043E \u0420\u0438\u043C\u0430 \u0404\u0433\u0438\u043F\u0442\u0443. \u041E\u043A\u0442\u0430\u0432\u0456\u0430\u043D \u0441\u0442\u0430\u0454 \u0456\u043C\u043F\u0435\u0440\u0430\u0442\u043E\u0440\u043E\u043C \u0410\u0432\u0433\u0443\u0441\u0442\u043E\u043C, \u0430 \u0420\u0438\u043C \u2014 \u0456\u043C\u043F\u0435\u0440\u0456\u0454\u044E. \n* \u041F\u043E\u0447\u0430\u0442\u043E\u043A \u0406 \u0432. \u0434\u043E \u043D. \u0435. \u2014 \u0437\u0430\u0432\u043E\u044E\u0432\u0430\u043D\u043D\u044F \u0420\u0438\u043C\u043E\u043C \u041F\u0430\u043B\u0435\u0441\u0442\u0438\u043D\u0438 \u0439 \u042E\u0434\u0435\u0457. \n* 43 \u0440. \u2014 \u0440\u0438\u043C\u043B\u044F\u043D\u0438 \u0437\u0430\u0445\u043E\u043F\u0438\u043B\u0438 \u0411\u0440\u0438\u0442\u0430\u043D\u0456\u044E. \n* 106 \u0440. \u2014 \u0420\u0438\u043C \u043F\u0456\u0434\u043A\u043E\u0440\u0438\u0432 \u0441\u043E\u0431\u0456 \u0442\u0435\u0440\u0438\u0442\u043E\u0440\u0456\u044E \u0434\u0430\u043A\u0456\u0432, \u044F\u043A\u0430 \u0441\u0442\u0430\u043B\u0430 \u0440\u0438\u043C\u0441\u044C\u043A\u043E\u044E \u043F\u0440\u043E\u0432\u0456\u043D\u0446\u0456\u0454\u044E \u0414\u0430\u043A\u0456\u0454\u044E (\u0441\u0443\u0447\u0430\u0441\u043D\u0430 \u0420\u0443\u043C\u0443\u043D\u0456\u044F). \n* 117\u2014138 \u0440. \u2014 \u0437\u0430 \u0456\u043C\u043F\u0435\u0440\u0430\u0442\u043E\u0440\u0430 \u0410\u0434\u0440\u0456\u0430\u043D\u0430 \u0440\u0438\u043C\u043B\u044F\u043D\u0438 \u0431\u0443\u043B\u0438 \u0437\u043C\u0443\u0448\u0435\u043D\u0456 \u043F\u0435\u0440\u0435\u0439\u0442\u0438 \u0432\u0456\u0434 \u0437\u0430\u0432\u043E\u044E\u0432\u0430\u043D\u044C \u0434\u043E \u043E\u0431\u043E\u0440\u043E\u043D\u0438 \u0441\u0432\u043E\u0454\u0457 \u0432\u0435\u043B\u0438\u0447\u0435\u0437\u043D\u043E\u0457 \u0456\u043C\u043F\u0435\u0440\u0456\u0457. \n* \u0417\u0430 \u0447\u0430\u0441\u0456\u0432 \u043F\u0440\u0430\u0432\u043B\u0456\u043D\u043D\u044F \u0456\u043C\u043F\u0435\u0440\u0430\u0442\u043E\u0440\u0430 \u041A\u043E\u0441\u0442\u044F\u043D\u0442\u0438\u043D\u0430 I (306\u2014337) \u0445\u0440\u0438\u0441\u0442\u0438\u044F\u043D\u0441\u0442\u0432\u043E \u0441\u0442\u0430\u0454 \u0434\u0435\u0440\u0436\u0430\u0432\u043D\u043E\u044E \u0440\u0435\u043B\u0456\u0433\u0456\u0454\u044E \u0420\u0438\u043C\u0441\u044C\u043A\u043E\u0457 \u0456\u043C\u043F\u0435\u0440\u0456\u0457. \n* 375 \u0440. \u2014 \u0433\u0443\u043D\u0438 \u0432\u0442\u043E\u0440\u0433\u043B\u0438\u0441\u044F \u0432 \u0404\u0432\u0440\u043E\u043F\u0443. \u041F\u043E\u0447\u0430\u043B\u043E\u0441\u044F \u0412\u0435\u043B\u0438\u043A\u0435 \u043F\u0435\u0440\u0435\u0441\u0435\u043B\u0435\u043D\u043D\u044F \u043D\u0430\u0440\u043E\u0434\u0456\u0432. \n* 395 \u0440. \u2014 \u0420\u0438\u043C\u0441\u044C\u043A\u0430 \u0456\u043C\u043F\u0435\u0440\u0456\u044F \u0440\u043E\u0437\u043F\u0430\u043B\u0430\u0441\u044F \u043D\u0430 \u0417\u0430\u0445\u0456\u0434\u043D\u0443 \u0456 \u0421\u0445\u0456\u0434\u043D\u0443 (\u0412\u0456\u0437\u0430\u043D\u0442\u0456\u044F). \n* 410 \u0440. \u2014 \u0443\u043F\u0435\u0440\u0448\u0435 \u0432\u0430\u0440\u0432\u0430\u0440\u0438 \u0437\u0434\u043E\u0431\u0443\u043B\u0438 \u0456 \u0440\u043E\u0437\u0433\u0440\u0430\u0431\u0443\u0432\u0430\u043B\u0438 \u0420\u0438\u043C (\u0432\u0435\u0441\u0442\u0433\u043E\u0442\u0438 \u043D\u0430 \u0447\u043E\u043B\u0456 \u0437 \u043A\u043E\u0440\u043E\u043B\u0435\u043C \u0410\u043B\u0430\u0440\u0438\u0445\u043E\u043C). \n* 455 \u0440. \u2014 \u0440\u043E\u0437\u0433\u0440\u043E\u043C \u0420\u0438\u043C\u0430 \u0432\u0430\u043D\u0434\u0430\u043B\u0430\u043C\u0438, \u0437\u043D\u0438\u0449\u0435\u043D\u043D\u044F \u0431\u0430\u0433\u0430\u0442\u044C\u043E\u0445 \u0434\u043E\u0431\u0443\u0442\u043A\u0456\u0432 {\u0442\u0432\u043E\u0440\u0456\u0432} \u043C\u0438\u0441\u0442\u0435\u0446\u0442\u0432\u0430. \n* 476 \u0440. \u2014 \u0432\u043E\u0436\u0434\u044C \u0433\u0435\u0440\u043C\u0430\u043D\u0441\u044C\u043A\u0438\u0445 \u043F\u043B\u0435\u043C\u0435\u043D \u041E\u0434\u043E\u0430\u043A\u0440 \u0441\u043A\u0438\u043D\u0443\u0432 \u043E\u0441\u0442\u0430\u043D\u043D\u044C\u043E\u0433\u043E \u0456\u043C\u043F\u0435\u0440\u0430\u0442\u043E\u0440\u0430 \u0417\u0430\u0445\u0456\u0434\u043D\u043E\u0457 \u0420\u0438\u043C\u0441\u044C\u043A\u043E\u0457 \u0456\u043C\u043F\u0435\u0440\u0456\u0457 \u0420\u043E\u043C\u0443\u043B\u0430 \u0410\u0432\u0433\u0443\u0441\u0442\u0443\u043B\u0430. \u0420\u0438\u043C \u043F\u0435\u0440\u0435\u0441\u0442\u0430\u0432 \u0431\u0443\u0442\u0438 \u0441\u0442\u043E\u043B\u0438\u0446\u0435\u044E \u0441\u0432\u0456\u0442\u0443."@uk ,
+		"The history of Italy covers the Ancient Period, the Middle Ages and the modern era. In antiquity, Italy was the homeland of the Romans and the metropole of the Roman Empire. Rome was founded as a Kingdom in 753 BC and became a Republic in 509 BC, when the monarchy was overthrown in favor of a government of the Senate and the People. The Roman Republic then unified Italy at the expense of the Etruscans, Celts, and Greeks of the peninsula. Rome led the federation of the Italic peoples of which it had come from to the domination of Western Europe, Northern Africa, and the Near East. The Roman Empire later dominated Western Europe and the Mediterranean for many centuries, making immeasurable contributions to humanity. Some of these led to the development of Western philosophy, science and art, that remained central during the Middle Ages and the Renaissance. After the fall of Rome in AD 476, Italy remained fragmented in numerous city-states and regional polities until the Italian unification led to the establishment of an Italian nation-state. The new Kingdom of Italy, established in 1861, quickly modernized and built a large colonial empire, colonizing parts of Africa, and countries along the Mediterranean. However, the southern regions of the young nation remained rural and poor, originating the Italian diaspora. In World War I, Italy joined the Entente with France and Britain, despite having been a member of the Triple Alliance with Germany and Austria-Hungary, and gave a fundamental contribution to the victory of the conflict as one of the principal allied powers. Italy completed the unification by acquiring Trento and Trieste, and gained a permanent seat in the League of Nations's executive council. Nevertheless, Italian nationalists considered World War I a mutilated victory and that sentiment led to the rise of the fascist dictatorship of Benito Mussolini in 1922. The subsequent participation in World War II with the Axis powers, together with Nazi Germany and the Empire of Japan, ended in military defeat, Mussolini's arrest and escape (aided by the German dictator Adolf Hitler), and an Italian Civil War between the Italian Resistance (aided by the now-Allied Kingdom) and a nazifascist puppet state known as \"the Italian Social Republic\". Following the liberation of Italy, the fall of the Social Republic and the killing of Mussolini at the hands of the Resistance, the country abolished the monarchy with a referendum, reinstated democracy, enjoyed an economic miracle, and founded the European Union, NATO, and the Group of Six (later G7 and G20). It remains a strong economic, cultural, military and political factor in the 21st century."@en ,
+		"\u0643\u0627\u0646\u062A \u0625\u064A\u0637\u0627\u0644\u064A\u0629 \u0645\u0646\u0630 \u0641\u062C\u0631 \u062A\u0627\u0631\u064A\u062E\u0647\u0627 \u0645\u0639\u0628\u0631\u0627\u064B \u0644\u0644\u062A\u0623\u062B\u064A\u0631\u0627\u062A \u0627\u0644\u062D\u0636\u0627\u0631\u064A\u0629 \u0627\u0644\u0642\u0627\u062F\u0645\u0629 \u0645\u0646 \u0627\u0644\u0634\u0631\u0642 \u0645\u0646\u0630 \u0623\u0642\u062F\u0645 \u0627\u0644\u0623\u0632\u0645\u0646\u0629\u060C \u0648\u062A\u0643\u0627\u062F \u062A\u0646\u0639\u0632\u0644 \u0639\u0646 \u0648\u0633\u0637 \u0623\u0648\u0631\u0628\u0629 \u0628\u0633\u0644\u0633\u0644\u0629 \u062C\u0628\u0627\u0644 \u0627\u0644\u0623\u0644\u0628 \u0627\u0644\u0636\u062E\u0645\u0629\u060C \u0644\u0648\u0644\u0627 \u0648\u062C\u0648\u062F \u0645\u0639\u0627\u0628\u0631 \u0648\u0645\u0641\u0627\u0632\u0627\u062A \u062C\u0628\u0644\u064A\u0629 \u062A\u0631\u0628\u0637\u0647\u0627 \u0628\u0645\u0627 \u064A\u062D\u064A\u0637 \u0628\u0647\u0627 \u0645\u0646 \u0627\u0644\u0642\u0627\u0631\u0629."@ar ,
+		"Historia W\u0142och \u2013 W okresie paleolitu tereny W\u0142och zamieszkiwali Ligurowie i Sykulowie. W okresie staro\u017Cytno\u015Bci tereny W\u0142och znalaz\u0142y si\u0119 pod panowaniem Rzymian. Przed okresem rzymskim tereny W\u0142och by\u0142y zamieszkiwane przez Fenicjan i Grek\u00F3w. Od \u015Bredniowiecza do po\u0142owy XIX wieku, pomimo \u017Ce P\u00F3\u0142wysep Apeni\u0144ski by\u0142 sp\u00F3jny pod wzgl\u0119dem j\u0119zykowym i kulturowym, jego historia sk\u0142ada\u0142a si\u0119 z dziej\u00F3w niezale\u017Cnych republik i ksi\u0119stw oraz obcych posiad\u0142o\u015Bci i stref wp\u0142yw\u00F3w. W 1861 roku dosz\u0142o do zjednoczenia wszystkich tych pa\u0144stw \u2013 og\u0142oszono powstanie Kr\u00F3lestwa W\u0142och i koronowano Wiktora Emanuela II na kr\u00F3la tego pa\u0144stwa. W pocz\u0105tkach XX wieku W\u0142ochy sta\u0142y si\u0119 pa\u0144stwem faszystowskim. Po II wojnie \u015Bwiatowej w  obywatele W\u0142och opowiedzieli si\u0119 za zmian\u0105 ustroju pa\u0144stwa na republik\u0119, na czele kt\u00F3rej stoi prezydent W\u0142och."@pl ,
+		"Italiako historia oso aberatsa da, bereziki Mendebaldeko zibilizazioan eragin garrantzitsuena izan duten kulturek bertan izan zutelako sorleku eta gunea. Besteak beste etruriarrak, erromatarrak eta italiar Pizkundea."@eu ,
+		"La historia de Italia est\u00E1 \u00EDntimamente ligada a la de la cultura occidental y la historia de Europa, y buena parte de los principales acontecimientos hist\u00F3ricos del mundo occidental y universal han tenido lugar en el pa\u00EDs o los han protagonizado sus pueblos. Heredera de m\u00FAltiples culturas antiguas como la de los etruscos y latinos y receptora de la colonizaci\u00F3n griega y cartaginesa, vio nacer el Imperio romano, legador de gran parte de la cultura occidental y uno de los mayores de la historia. Tras la ca\u00EDda del Imperio, Italia sufri\u00F3 una serie de invasiones germanas alternadas con intentos bizantinos y francos de reconstruir la unidad del Imperio romano.\u200B Roma, sede del papado y fuente de legitimidad imperial fue en esos tiempos un foco que atrajo a figuras como Justiniano I y Carlomagno. Durante la Edad Media Italia se convertir\u00EDa en un mosaico de ciudades-estado que luchaban entre s\u00ED para conseguir la hegemon\u00EDa sobre el resto, con frecuentes intervenciones de las potencias circundantes y de la Iglesia cat\u00F3lica. Su privilegiada situaci\u00F3n geogr\u00E1fica hizo que fuera clave en el comercio europeo y favoreci\u00F3 rep\u00FAblicas mar\u00EDtimas conectadas con la historia europea. La lucha entre el poder temporal imperial, que inclu\u00EDa a Italia, y el espiritual papal, que ten\u00EDa su sede en Roma, tuvo en Italia especiales repercusiones. Esta herencia de relevancia pol\u00EDtica lo convirti\u00F3 en foco de las luchas por el poder en Europa. Adem\u00E1s, el legado cultural cl\u00E1sico y eclesi\u00E1stico fue el caldo de cultivo de nuevas tendencias. En los siglos XV y XVI se convirti\u00F3 en el centro cultural de Europa dando origen al Renacimiento y fue uno de los campos en los que se decidi\u00F3 la supremac\u00EDa europea del Imperio espa\u00F1ol con la victoria sobre Francisco I de Francia. Tras el declive de la monarqu\u00EDa hisp\u00E1nica, el Imperio austroh\u00FAngaro pasar\u00EDa a controlar la regi\u00F3n, como buena parte de Europa Central. Transformada en un campo de batalla durante las guerras revolucionarias francesas y el Primer Imperio de Napole\u00F3n Bonaparte, pasar\u00EDa a luchar por su independencia. Entre 1856 y 1870 se llev\u00F3 a cabo la Unificaci\u00F3n de Italia despu\u00E9s de una serie de guerras que implic\u00F3 enfrentarse al Imperio austr\u00EDaco y los Estados Pontificios, a partir del cual Italia se instituye como un pa\u00EDs. Posteriormente, el Reino de Italia junto con las dem\u00E1s potencias europeas llevar\u00EDa a cabo pol\u00EDticas imperialistas que conformar\u00EDan el Imperio italiano y que la llevaron a participar en la Primera Guerra Mundial del lado de la Entente, a desarrollar el fascismo de Benito Mussolini, a la invasi\u00F3n de Albania y Abisinia y a participar en la Segunda Guerra Mundial con las Potencias del Eje junto a la Alemania Nazi y el Imperio del Jap\u00F3n. Despu\u00E9s de la derrota en la Segunda Guerra Mundial, la monarqu\u00EDa ser\u00EDa derrocada y se instaur\u00F3 la actual rep\u00FAblica que tuvo una excelente recuperaci\u00F3n. En la actualidad Italia pertenece a organizaciones como la Uni\u00F3n Europea o el G-8."@es ,
+		"De geschiedenis van Itali\u00EB is een lange geschiedenis, waarin de stad Rome kwam te overheersen, hoewel er ook buiten Rome veel interessante ontwikkelingen waren."@nl ,
+		"\uC774\uD0C8\uB9AC\uC544\uC758 \uC5ED\uC0AC\uB294 \uC778 85\uB9CC\uB144 \uC804 \uBB34\uB835\uC5D0 \uC0B4\uC558\uB358 \uAD6C\uC11D\uAE30\uC778\uC758 \uC720\uC801\uC778 \uAE4C\uC9C0 \uC18C\uAE09\uB420 \uC218 \uC788\uB2E4. \uB610\uD55C 4\uB9CC 3\uCC9C\uB144 \uC804 \uBB34\uB835\uBD80\uD130\uB294 \uD06C\uB85C\uB9C8\uB1FD\uC778\uC774 \uAC70\uC8FC \uD558\uC600\uB2E4. \uAE30\uC6D0\uC804 6000\uB144\uC5D0\uC11C 5500\uB144 \uC0AC\uC774 \uC774\uD0C8\uB9AC\uC544\uC5D0\uC11C\uB3C4 \uAC00 \uC2DC\uC791\uB418\uC5C8\uB2E4. \uC774\uD0C8\uB9AC\uC544\uC758 \uCCAD\uB3D9\uAE30\uB294 \uB300\uB7B5 \uAE30\uC6D0\uC804 1500\uB144 \uBB34\uB835 \uC778\uB3C4\uC720\uB7FD\uC5B4\uC871 \uC0AC\uB78C\uB4E4\uC774 \uAC70\uC8FC\uD558\uBA74\uC11C \uC2DC\uC791\uB418\uC5C8\uACE0 \uCCA0\uAE30 \uC2DC\uB300\uB97C \uB9DE\uC774\uD558\uC5EC \uC774\uD0C8\uB9AC\uC544\uC778\uC774\uB77C \uD560 \uC218 \uC788\uB294 \uC0AC\uB78C\uB4E4\uC774 \uD615\uC131\uB418\uC5C8\uB2E4. \uADF8\uB7EC\uB098 \uACE0\uC804\uAE30 \uC774\uC804\uC758 \uC774\uD0C8\uB9AC\uC544\uB294 \uC5EC\uB7EC \uAC08\uB798\uC758 \uBB38\uD654\uB85C \uB098\uB258\uC5B4, \uBD81\uBD80\uC5D0\uB294 \uCF08\uD2B8\uC871\uC774, \uC911\uBD80\uC5D0\uB294 \uC5D0\uD2B8\uB8E8\uB9AC\uC544\uC778\uC774, \uADF8\uB9AC\uACE0 \uB0A8\uBD80\uC5D0\uB294 \uACE0\uB300 \uADF8\uB9AC\uC2A4\uC758 \uC2DD\uBBFC\uC9C0\uB4E4\uC774 \uC790\uB9AC\uC7A1\uACE0 \uC788\uC5C8\uB2E4. \uC774\uB7EC\uD55C \uC0C1\uD669\uC740 \uAE30\uC6D0\uC804 8\uC138\uAE30\uC5D0\uC11C \uAE30\uC6D0\uC804 5\uC138\uAE30\uAE4C\uC9C0 \uC9C0\uC18D\uB418\uC5C8\uB2E4. \uACE0\uB300 \uC774\uD0C8\uB9AC\uC544 \uBC18\uB3C4\uC758 \uC5EC\uB7EC \uBD80\uC871\uB4E4 \uAC00\uC6B4\uB370 \uB77C\uD2F4\uC871\uC740 \uB77C\uD2F0\uC6C0\uC744 \uC911\uC2EC\uC73C\uB85C \uD655\uC7A5\uD558\uC600\uACE0, \uADF8\uB4E4\uC774 \uC0AC\uC6A9\uD558\uB358 \uB77C\uD2F4\uC5B4\uB294 \uC5D0 \uB530\uB77C \uAE30\uC6D0\uC804 3\uC138\uAE30 \uBB34\uB835\uC5D0\uB294 \uC774\uD0C8\uB9AC\uC544 \uBC18\uB3C4 \uC804\uC5ED\uC5D0\uC11C \uC9C0\uBC30\uC801\uC778 \uC5B8\uC5B4\uAC00 \uB418\uC5C8\uB2E4. \uB85C\uB9C8 \uACF5\uD654\uC815\uACFC \uB85C\uB9C8 \uC81C\uAD6D\uC740 \uACE0\uB300 \uB85C\uB9C8 \uC2DC\uAE30\uC5D0 \uC774\uD0C8\uB9AC\uC544 \uBC18\uB3C4\uBFD0\uB9CC \uC544\uB2C8\uB77C \uC9C0\uC911\uD574 \uC5F0\uC548\uACFC \uC720\uB7FD\uC758 \uC0C1\uB2F9\uD55C \uC9C0\uC5ED\uC744 \uC9C0\uBC30\uD558\uC600\uB2E4. 4\uC138\uAE30 \uB9D0 \uAE30\uB3C5\uAD50\uAC00 \uB85C\uB9C8\uC81C\uAD6D\uC758 \uAD6D\uAD50\uAC00 \uB418\uC5C8\uB2E4. 5\uC138\uAE30 \uB9D0 \uACE0\uB300 \uD6C4\uAE30\uC5D0 \uB85C\uB9C8 \uC81C\uAD6D\uC740 \uB3D9\u00B7\uC11C\uB85C \uBD84\uD560\uB418\uC5C8\uC73C\uBA70, \uBD84\uD560 \uC774\uD6C4 \uC774 \uC77C\uC5B4\uB0AC\uB2E4. \uB791\uACE0\uBC14\uB974\uB4DC\uC778\uC740 \uC774\uD0C8\uB9AC\uC544 \uBD81\uBD80\uB97C \uC815\uBCF5\uD558\uACE0 568\uB144 \uB791\uACE0\uBC14\uB974\uB4DC \uC655\uAD6D\uC744 \uC138\uC6E0\uB2E4. \uADF8\uB7EC\uB098 \uC774\uD0C8\uB9AC\uC544\uC758 \uB0A8\uBD80\uC640 \uB3D9\uBD80 \uC5F0\uC548\uC740 11\uC138\uAE30\uAE4C\uC9C0\uB3C4 \uC5EC\uC804\uD788 \uBE44\uC794\uD2F4 \uC81C\uAD6D\uC758 \uC9C0\uBC30\uB97C \uBC1B\uC558\uB2E4. 774\uB144 \uB791\uACE0\uBC14\uB974\uB4DC \uC655\uAD6D\uC740 \uD504\uB791\uD06C \uC655\uAD6D\uC5D0 \uC815\uBCF5\uB418\uC5C8\uC73C\uBA70, \uC774\uD6C4  \uAE30\uAC04 \uB3D9\uC548 \uC774\uD0C8\uB9AC\uC544\uC758 \uC5EC\uB7EC \uB3C4\uC2DC\uB4E4\uC740 \uBA85\uBAA9\uC0C1\uC73C\uB85C\uB294 \uC2E0\uC131\uB85C\uB9C8\uC81C\uAD6D\uC758 \uC601\uD1A0\uC600\uC73C\uB098, \uC0AC\uC2E4\uC0C1 \uB3C5\uB9BD\uC801\uC778 \uB3C4\uC2DC\uAD6D\uAC00\uB85C\uC11C \uD574\uC0C1\uACF5\uD654\uAD6D\uC73C\uB85C \uBC1C\uC804\uC600\uB2E4. 15\uC138\uAE30 \uB9D0\uC5D0\uC11C 16\uC138\uAE30\uC5D0 \uAC78\uCCD0 \uC788\uC5C8\uB358 \uC774\uD0C8\uB9AC\uC544 \uC804\uC7C1\uC758 \uACB0\uACFC, \uC774\uD0C8\uB9AC\uC544\uB294 \uC758 \uC5F4\uAC15\uC774\uC5C8\uB358 \uD569\uC2A4\uBD80\uB974\uD06C \uAC00\uC758 \uC2A4\uD398\uC778\uACFC \uC624\uC2A4\uD2B8\uB9AC\uC544\uC5D0 \uC758\uD574 \uBD84\uD560 \uC9C0\uBC30 \uB418\uC5C8\uC73C\uBA70, \uB098\uD3F4\uB808\uC639 1\uC138\uC758 \uD504\uB791\uC2A4 \uC81C1\uC81C\uAD6D \uC2DC\uAE30\uC5D0\uB294 \uD504\uB791\uC2A4\uC758 \uC18D\uB839\uC774 \uB418\uC5C8\uB2E4. \uD55C\uD3B8, 8\uC138\uAE30\uC5D0 \uB791\uACE0\uBC14\uB974\uB4DC \uC655\uAD6D\uC744 \uC815\uBCF5\uD55C \uB2E8\uC2E0\uC655 \uD53C\uD540\uC774 \uAD50\uD669\uC5D0\uAC8C \uC601\uC9C0\uB97C \uAE30\uC99D\uD55C \uAC83\uC774 \uAE30\uC6D0\uC778 \uAD50\uD669\uB839\uC740 19\uC138\uAE30 \uD6C4\uBC18\uAE4C\uC9C0 \uC131\uC88C\uC758 \uC9C0\uBC30\uB97C \uBC1B\uC558\uB2E4. 19\uC138\uAE30\uC5D0 \uB4E4\uC5B4 \uC774\uD0C8\uB9AC\uC544\uC5D0\uC11C\uB294 \uBBFC\uC871\uC8FC\uC758\uC5D0 \uAE30\uBC18\uD55C \uBBFC\uC871 \uAD6D\uAC00 \uC0AC\uC0C1\uC774 \uBC88\uC84C\uACE0, 19\uC138\uAE30 \uB9D0 \uC774\uD0C8\uB9AC\uC544 \uC655\uAD6D\uC774 \uC774\uD0C8\uB9AC\uC544 \uBC18\uB3C4 \uB300\uBD80\uBD84\uC744 \uC9C0\uBC30\uD558\uAC8C \uB418\uBA74\uC11C \uD1B5\uC77C \uB418\uC5C8\uB2E4. 1861\uB144 \uC131\uB9BD\uB41C \uC774\uD0C8\uB9AC\uC544 \uC655\uAD6D\uC740 \uC2E0\uC18D\uD55C \uADFC\uB300\uD654\uC640 \uD568\uAED8 \uB9AC\uBE44\uC544\uC640 \uC544\uD504\uB9AC\uCE74\uC758 \uBFD4 \uC9C0\uC5ED\uC744 \uC911\uC2EC\uC73C\uB85C \uC544\uD504\uB9AC\uCE74 \uAC01\uC9C0\uC640 \uC9C0\uC911\uD574\uC758 \uC694\uCDA9\uC9C0\uB97C \uCE68\uB7B5\uD558\uC5EC \uC2DD\uBBFC\uC9C0\uB85C \uC0BC\uC544 \uC744 \uD615\uC131\uD558\uC600\uB2E4. \uC774 \uACFC\uC815\uC5D0\uC11C \uC624\uC2A4\uD2B8\uB9AC\uC544 \uC81C\uAD6D\uC740 \uC774\uD0C8\uB9AC\uC544\uC758 \uC219\uC801\uC774 \uB418\uC5C8\uACE0, \uC0AC\uB77C\uC608\uBCF4 \uC0AC\uAC74\uC73C\uB85C \uC2DC\uC791\uB41C \uC81C1\uCC28 \uC138\uACC4\uB300\uC804\uC5D0\uC11C \uC774\uD0C8\uB9AC\uC544\uB294 \uD611\uC0C1\uAD6D\uC758 \uC77C\uC6D0\uC73C\uB85C \uB3C5\uC77C \uC624\uC2A4\uD2B8\uB9AC\uC544\uC640 \uB9DE\uC130\uB2E4. 1920\uB144\uB300\uC5D0 \uB4E4\uC5B4 \uBCA0\uB2C8\uD1A0 \uBB34\uC194\uB9AC\uB2C8\uC758 \uD30C\uC2DC\uC998\uC774 \uC815\uAD8C\uC744 \uC7A5\uC545\uD558\uC600\uB2E4. 1920\uB144\uB300\uC640 1930\uB144\uB300 \uC0AC\uC774 \uC774\uD0C8\uB9AC\uC544 \uD30C\uC2DC\uC998\uC740 \uC544\uD504\uB9AC\uCE74\uC5D0 \uB300\uD55C \uC2DD\uBBFC\uC8FC\uC758\uB97C \uD655\uB300\uD558\uACE0\uC790 \uD558\uC600\uB2E4. \uBB34\uC194\uB9AC\uB2C8\uB294 \uB098\uCE58 \uB3C5\uC77C\uACFC \uC190\uC7A1\uACE0 \uCD94\uCD95\uAD6D\uC774 \uB418\uC5B4 \uC81C2\uCC28 \uC138\uACC4 \uB300\uC804\uC744 \uBC8C\uC600\uACE0, 1945\uB144 \uC774\uD0C8\uB9AC\uC544 \uD30C\uC2DC\uC998\uC740 \uC5F0\uD569\uAD6D\uC5D0\uAC8C \uACA9\uD1F4\uB418\uC5C8\uB2E4. 2\uCC28 \uB300\uC804\uC758 \uD328\uC0C9\uC774 \uC9D9\uC5B4\uC9C0\uB358 1943\uB144 \uBD80\uB835\uBD80\uD130 \uC774\uD0C8\uB9AC\uC544\uC5D0\uC11C\uB294 \uC774 \uC77C\uC5B4\uB0AC\uB2E4. \uC774\uD0C8\uB9AC\uC544 \uD30C\uB974\uD2F0\uC794\uACFC \uBC14\uB3CC\uB9AC\uC624 \uC815\uBD80\uC5D0 \uCAD3\uACA8 \uD30C\uC2DC\uC998 \uB9DD\uBA85 \uC815\uBD80\uB97C \uC138\uC6B4 \uBB34\uC194\uB9AC\uB2C8\uB294 \uC5D0\uC11C \uD328\uD55C \uB4A4 \uD30C\uB974\uD2F0\uC794\uC5D0\uAC8C \uCCB4\uD3EC\uB418\uC5B4 \uCC98\uD615\uB418\uC5C8\uB2E4. 1946\uB144 \uC774\uD0C8\uB9AC\uC544 \uAC1C\uD5CC \uAD6D\uBBFC\uD22C\uD45C \uACB0\uACFC \uC774\uD0C8\uB9AC\uC544\uB294 \uACF5\uD654\uAD6D\uC774 \uB418\uC5C8\uB2E4. 1946\uB144 6\uC6D4 2\uC77C \uC0C8 \uACF5\uD654\uAD6D\uC774 \uCD9C\uBC94\uD55C \uB4A4 \uC774\uD0C8\uB9AC\uC544\uB294 1950\uB144\uB300\uC640 1960\uB144\uB300\uC5D0 \uAC78\uCCD0 \uC774\uB77C \uBD88\uB9AC\uB294 \uAE09\uC18D\uD55C \uACBD\uC81C \uC131\uC7A5\uACFC \uADFC\uB300\uD654\uB97C \uC774\uB8E8\uC5C8\uB2E4. \uC720\uB7FD \uACBD\uC81C \uACF5\uB3D9\uCCB4\uC5D0 \uAC00\uC785\uD55C \uC774\uD0C8\uB9AC\uC544\uB294 \uC11C\uC720\uB7FD\uC758 \uC77C\uC6D0\uC774 \uB418\uC5C8\uACE0, NATO\uC640 G7 \uADF8\uB9AC\uACE0 \uACBD\uC81C \uD611\uB825 \uAC1C\uBC1C \uAE30\uAD6C\uC758 \uD68C\uC6D0\uAD6D\uC774 \uB418\uC5C8\uB2E4. \uC624\uB298\uB0A0 \uC774\uD0C8\uB9AC\uC544\uB294 \uACBD\uC81C, \uC885\uAD50, \uAD70\uC0AC, \uBB38\uD654 \uB4F1\uC758 \uBD84\uC57C\uC5D0\uC11C \uC138\uACC4\uC801\uC778 \uC601\uD5A5\uB825\uC744 \uBC1C\uD718\uD558\uACE0 \uC788\uB2E4."@ko ,
+		"L'Italie poss\u00E8de une histoire qui est intimement li\u00E9e \u00E0 la culture occidentale, \u00E0 l'Europe et au bassin m\u00E9diterran\u00E9en. H\u00E9riti\u00E8re des cultures antiques comme celle des Shardanes, des \u00C9trusques ou des Latins, r\u00E9ceptrice de la colonisation grecque et carthaginoise, l'Italie a vu na\u00EEtre la civilisation romaine et son Empire, l'un des plus grands \u00E9v\u00E8nements de l'histoire, qui fut le berceau de la culture occidentale. Lors du d\u00E9clin de l'Empire romain d'Occident, l'Italie a subi une s\u00E9rie d'invasions germaniques avec des tentatives de r\u00E9unifications byzantines pour reconstruire l'unit\u00E9 imp\u00E9riale. Si\u00E8ge de la papaut\u00E9 et source de l\u00E9gitimit\u00E9 imp\u00E9riale m\u00E9di\u00E9vale, elle a \u00E9t\u00E9 dans ces temps un foyer de discordes et d'invasions. Durant le Moyen \u00C2ge, le pays s'est morcel\u00E9 en une mosa\u00EFque de villes-\u00C9tats qui luttaient entre elles pour obtenir l'h\u00E9g\u00E9monie sur le bassin m\u00E9diterran\u00E9en, avec des interventions fr\u00E9quentes des puissances environnantes et de l'\u00C9glise catholique. Sa situation g\u00E9ographique privil\u00E9gi\u00E9e en a fait la clef du commerce europ\u00E9en et cela a favoris\u00E9 les r\u00E9publiques maritimes tels que Amalfi, Pise, G\u00EAnes ou Venise. Le pouvoir spirituel papal, qui avait son si\u00E8ge \u00E0 Rome, a eu en Italie des r\u00E9percussions particuli\u00E8res. Cette h\u00E9r\u00E9dit\u00E9 politique l'a chang\u00E9 en foyer des luttes de pouvoir en Europe. De plus, le legs culturel classique et eccl\u00E9siastique a \u00E9t\u00E9 le bouillon de culture de nouvelles tendances. Aux XVe et XVIe si\u00E8cles, elle s'est transform\u00E9e en centre culturel de l'Europe en donnant naissance \u00E0 la Renaissance. Dans le m\u00EAme temps, elle constitua l'un des champs de bataille europ\u00E9ens sur lesquels fut jou\u00E9e la supr\u00E9matie m\u00E9diterran\u00E9enne de l'Empire espagnol. Apr\u00E8s le d\u00E9clin de la monarchie hispanique, l'Empire austro-hongrois se mit \u00E0 contr\u00F4ler la r\u00E9gion, comme une bonne partie de l'Europe centrale. Durant les guerres r\u00E9volutionnaires fran\u00E7aises et le Premier Empire de Napol\u00E9on Bonaparte, elle lutta pour son ind\u00E9pendance. Entre 1859 et 1870, la p\u00E9ninsule italienne fut enfin unifi\u00E9e sous la houlette du royaume de Sardaigne, dans un contexte nationaliste et apr\u00E8s une s\u00E9rie de guerres contre l'Autriche, mais n'a pu \u00EAtre fait dans sa globalit\u00E9. Par la suite, l'Italie, avec les autres puissances europ\u00E9ennes, participa \u00E0 la dynamique coloniale et imp\u00E9rialiste europ\u00E9enne en \u00E9tablissant son propre espace colonial en Afrique. Ses vell\u00E9it\u00E9s territoriales sur le Vieux Continent ainsi que sa volont\u00E9 de trouver sa place au sein du concert des blocs politiques et des alliances s\u00E9curitaires l\u2019amen\u00E8rent finalement \u00E0 participer \u00E0 la Premi\u00E8re Guerre mondiale au c\u00F4t\u00E9 de la Triple-Entente. D\u00E9\u00E7ue par sa \u00AB victoire mutil\u00E9e \u00BB devant le refus de ses anciens alli\u00E9s de la soutenir dans l'int\u00E9gralit\u00E9 de ses revendications, elle se vit bient\u00F4t gagn\u00E9e par le fascisme de Benito Mussolini et de ses partisans, qui arrivent au pouvoir en octobre 1922, avant d'instaurer un r\u00E9gime totalitaire \u00E0 partir de 1924-1925. Son rapprochement avec l'Allemagne nazie au sein d'un axe Rome-Berlin \u00E0 partir de 1936 allait la pr\u00E9cipiter dans la Deuxi\u00E8me Guerre mondiale en 1940. Apr\u00E8s sa d\u00E9faite militaire, la monarchie italienne (remontant au duch\u00E9 de Savoie) fut abolie. L'actuelle r\u00E9publique fut instaur\u00E9e en juin 1946, conjugu\u00E9e \u00E0 une p\u00E9riode historique de renouveau \u00E9conomique, politique, militaire et sportif, ainsi que de r\u00E9affirmation de l'Italie comme grande puissance mondiale. Actuellement, l'Italie est un pays aux institutions d\u00E9mocratiques, appartenant \u00E0 plusieurs des grandes organisations internationales, dont l'Union europ\u00E9enne."@fr .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:History_of_Italy	dbo:wikiPageLength	"172125"^^xsd:nonNegativeInteger .
+<http://dbpedia.org/resource/A._J._P._Taylor>	dbo:wikiPageWikiLink	dbr:History_of_Italy .
+dbr:Index_of_history_articles	dbo:wikiPageWikiLink	dbr:History_of_Italy .
+dbr:Demographics_of_Italy	dbo:wikiPageWikiLink	dbr:History_of_Italy .
+dbr:Enrico_Letta	dbo:wikiPageWikiLink	dbr:History_of_Italy .
+dbr:Lega_dei_popoli	dbo:wikiPageWikiLink	dbr:History_of_Italy .
+<http://dbpedia.org/resource/1966_flood_of_the_Arno>	dbo:wikiPageWikiLink	dbr:History_of_Italy .
+dbr:Jules_Maidoff	dbo:wikiPageWikiLink	dbr:History_of_Italy .
+<http://dbpedia.org/resource/Ferdinand,_Duke_of_Calabria>	dbo:wikiPageWikiLink	dbr:History_of_Italy .
+dbr:Gonars_concentration_camp	dbo:wikiPageWikiLink	dbr:History_of_Italy .
+<http://dbpedia.org/resource/Kingdom_of_Italy_(disambiguation)>	dbo:wikiPageWikiLink	dbr:History_of_Italy .
+<http://dbpedia.org/resource/2020_in_Italy>	dbo:wikiPageWikiLink	dbr:History_of_Italy .
+dbr:Piazzale_Loreto	dbo:wikiPageWikiLink	dbr:History_of_Italy .
+dbr:Onorata_Rodiani	dbo:wikiPageWikiLink	dbr:History_of_Italy .
+dbr:Isabella_Lazzarini	dbo:wikiPageWikiLink	dbr:History_of_Italy .
+dbr:Luigi_Frusci	dbo:wikiPageWikiLink	dbr:History_of_Italy .
+dbr:Sibyl	dbo:wikiPageWikiLink	dbr:History_of_Italy .
+<http://dbpedia.org/resource/Amycus_(mythology)>	dbo:wikiPageWikiLink	dbr:History_of_Italy .
+dbr:List_of_people_from_Italy	dbo:wikiPageWikiLink	dbr:History_of_Italy .
+<http://dbpedia.org/resource/John_Foot_(historian)>	dbo:wikiPageWikiLink	dbr:History_of_Italy .
+dbr:Catullus_1	dbo:wikiPageWikiLink	dbr:History_of_Italy .
+dbr:Electoral_system	dbo:wikiPageWikiLink	dbr:History_of_Italy .
+<http://dbpedia.org/resource/Friedberg,_Hesse>	dbo:wikiPageWikiLink	dbr:History_of_Italy .
+dbr:List_of_academic_fields	dbo:wikiPageWikiLink	dbr:History_of_Italy .
+dbr:Tourism_in_Italy	dbo:wikiPageWikiLink	dbr:History_of_Italy .
+dbr:Italian_popular_music	dbo:wikiPageWikiLink	dbr:History_of_Italy .
+dbr:Christopher_Seton-Watson	dbo:wikiPageWikiLink	dbr:History_of_Italy .
+dbr:House_of_Bonaparte	dbo:wikiPageWikiLink	dbr:History_of_Italy .
+dbr:Italian_art	dbo:wikiPageWikiLink	dbr:History_of_Italy .
+<http://dbpedia.org/resource/Anachronism_(game)>	dbo:wikiPageWikiLink	dbr:History_of_Italy .
+dbr:Transport_in_Italy	dbo:wikiPageWikiLink	dbr:History_of_Italy .
+dbr:Outline_of_Italy	dbo:wikiPageWikiLink	dbr:History_of_Italy .
+dbr:Francis_II_of_the_Two_Sicilies	dbo:wikiPageWikiLink	dbr:History_of_Italy .
+<http://dbpedia.org/resource/Second_Genoese\u2013Savoyard_War>	dbo:wikiPageWikiLink	dbr:History_of_Italy .
+dbr:Trecento	dbo:wikiPageWikiLink	dbr:History_of_Italy .
+dbr:History_of_Monaco	dbo:wikiPageWikiLink	dbr:History_of_Italy .
+dbr:History_of_Verona	dbo:wikiPageWikiLink	dbr:History_of_Italy .
+dbr:Palio_di_Legnano	dbo:wikiPageWikiLink	dbr:History_of_Italy .
+dbr:Italian_city-states	dbo:wikiPageWikiLink	dbr:History_of_Italy .
+dbr:List_of_ambassadors_of_Russia_to_Italy	dbo:wikiPageWikiLink	dbr:History_of_Italy .
+dbr:Lucy_Riall	dbo:wikiPageWikiLink	dbr:History_of_Italy .
+dbr:Blenheim_Art_Foundation	dbo:wikiPageWikiLink	dbr:History_of_Italy .
+dbr:Victor_Emmanuel_II_Monument	dbo:wikiPageWikiLink	dbr:History_of_Italy .
+dbr:Bracci-Cambini	dbo:wikiPageWikiLink	dbr:History_of_Italy .
+dbr:Soldiershop	dbo:wikiPageWikiLink	dbr:History_of_Italy .
+<http://dbpedia.org/resource/Liberation_Day_(Italy)>	dbo:wikiPageWikiLink	dbr:History_of_Italy .
+dbr:Ab_urbe_condita	dbo:wikiPageWikiLink	dbr:History_of_Italy .
+dbr:Timeline_of_Italian_history	dbo:wikiPageWikiLink	dbr:History_of_Italy .
+dbr:Origines	dbo:wikiPageWikiLink	dbr:History_of_Italy .
+dbr:Nuova_Rivista_Storica	dbo:wikiPageWikiLink	dbr:History_of_Italy .
+dbr:Home_front_during_World_War_I	rdfs:seeAlso	dbr:History_of_Italy .
+dbr:Cadorna_Line	dbo:wikiPageWikiLink	dbr:History_of_Italy .
+dbr:Kingdom_of_the_Lombards	dbo:wikiPageWikiLink	dbr:History_of_Italy .
+dbr:Antonio_Gramsci	dbo:wikiPageWikiLink	dbr:History_of_Italy .
+dbr:French_Left	dbo:wikiPageWikiLink	dbr:History_of_Italy .
+dbr:Helen_Ghosh	dbo:wikiPageWikiLink	dbr:History_of_Italy .
+dbr:Flag_of_Italy	dbo:wikiPageWikiLink	dbr:History_of_Italy .
+dbr:Angelino_Alfano	dbo:wikiPageWikiLink	dbr:History_of_Italy .
+dbr:Renzi_Cabinet	dbo:wikiPageWikiLink	dbr:History_of_Italy .
+dbr:Liberalism_and_radicalism_in_Italy	dbo:wikiPageWikiLink	dbr:History_of_Italy .
+dbr:Edmund_Garratt_Gardner	dbo:wikiPageWikiLink	dbr:History_of_Italy .
+dbr:Italian_Renaissance	dbo:wikiPageWikiLink	dbr:History_of_Italy .
+dbr:Uzbekistan_national_football_team	dbo:wikiPageWikiLink	dbr:History_of_Italy .
+dbr:List_of_wars_involving_Italy	dbo:wikiPageWikiLink	dbr:History_of_Italy .
+dbr:Century	dbo:wikiPageWikiLink	dbr:History_of_Italy .
+dbr:Bucchero	dbo:wikiPageWikiLink	dbr:History_of_Italy .
+dbr:National_Unity_and_Armed_Forces_Day	dbo:wikiPageWikiLink	dbr:History_of_Italy .
+<http://dbpedia.org/resource/Pheres_(mythology)>	dbo:wikiPageWikiLink	dbr:History_of_Italy .
+<http://dbpedia.org/resource/Dryops_(mythology)>	dbo:wikiPageWikiLink	dbr:History_of_Italy .
+dbr:Foreign_domination	dbo:wikiPageWikiLink	dbr:History_of_Italy .
+dbr:Human_uses_of_birds	dbo:wikiPageWikiLink	dbr:History_of_Italy .
+<http://dbpedia.org/resource/Jean_Charles_L\u00E9onard_de_Sismondi>	dbo:wikiPageWikiLink	dbr:History_of_Italy .
+dbr:Benjamin_Constant	dbo:wikiPageWikiLink	dbr:History_of_Italy .
+dbr:List_of_marquesses_in_Italy	dbo:wikiPageWikiLink	dbr:History_of_Italy .
+dbr:Sicilian_revolution_of_1848	dbo:wikiPageWikiLink	dbr:History_of_Italy .
+dbr:National_symbols_of_Italy	dbo:wikiPageWikiLink	dbr:History_of_Italy .
+dbr:Porta_Venezia	dbo:wikiPageWikiLink	dbr:History_of_Italy .
+dbr:History_of_Istria	dbo:wikiPageWikiLink	dbr:History_of_Italy .
+<http://dbpedia.org/resource/Ecstasies_(book)>	dbo:wikiPageWikiLink	dbr:History_of_Italy ;
+	dbp:subjects	dbr:History_of_Italy .
+dbr:Ottocento	dbo:wikiPageWikiLink	dbr:History_of_Italy .
+<http://dbpedia.org/resource/Index_of_Byzantine_Empire\u2013related_articles>	dbo:wikiPageWikiLink	dbr:History_of_Italy .
+<http://dbpedia.org/resource/Bah\u00E1\u02BC\u00ED_Faith_in_Italy>	dbo:wikiPageWikiLink	dbr:History_of_Italy .
+dbr:Index_of_Italy-related_articles	dbo:wikiPageWikiLink	dbr:History_of_Italy .
+dbr:Pallantium	dbo:wikiPageWikiLink	dbr:History_of_Italy .
+dbr:Feudal_fragmentation	dbo:wikiPageWikiLink	dbr:History_of_Italy .
+dbr:Italian_studies	dbo:wikiPageWikiLink	dbr:History_of_Italy .
+dbr:Nice	dbo:wikiPageWikiLink	dbr:History_of_Italy .
+dbr:Centre-left_coalition	dbo:wikiPageWikiLink	dbr:History_of_Italy .
+dbr:Racism_in_Italy	dbo:wikiPageWikiLink	dbr:History_of_Italy .
+dbr:History_of_San_Marino	dbo:wikiPageWikiLink	dbr:History_of_Italy .
+dbr:History_of_the_Republic_of_Venice	dbo:wikiPageWikiLink	dbr:History_of_Italy .
+dbr:Peter_Herde	dbo:wikiPageWikiLink	dbr:History_of_Italy .
+dbr:Ferrovie_dello_Stato_Italiane	dbo:wikiPageWikiLink	dbr:History_of_Italy .
+dbr:Kosovo_Albanians	dbo:wikiPageWikiLink	dbr:History_of_Italy .
+dbr:Republic_of_Florence	dbo:wikiPageWikiLink	dbr:History_of_Italy .
+dbr:Italian_invasion_of_Libya	dbo:wikiPageWikiLink	dbr:History_of_Italy .
+<http://dbpedia.org/resource/The_Rare_Book_&_Manuscript_Library_(University_of_Illinois_at_Urbana\u2013Champaign)>	dbo:wikiPageWikiLink	dbr:History_of_Italy .
+dbr:Comparison_of_Dewey_and_Library_of_Congress_subject_classification	dbo:wikiPageWikiLink	dbr:History_of_Italy .
+dbr:Pescara	dbo:wikiPageWikiLink	dbr:History_of_Italy .
+dbr:National_colours_of_Italy	dbo:wikiPageWikiLink	dbr:History_of_Italy .
+dbr:List_of_ancient_peoples_of_Italy	dbo:wikiPageWikiLink	dbr:History_of_Italy .
+dbr:Name_of_Italy	dbo:wikiPageWikiLink	dbr:History_of_Italy .
+dbr:Predappio	dbo:wikiPageWikiLink	dbr:History_of_Italy .
+dbr:Evander_of_Pallantium	dbo:wikiPageWikiLink	dbr:History_of_Italy .
+dbr:Duecento	dbo:wikiPageWikiLink	dbr:History_of_Italy .
+dbr:Mosaics_of_Delos	dbo:wikiPageWikiLink	dbr:History_of_Italy .
+dbr:Anniversary_of_the_Unification_of_Italy	dbo:wikiPageWikiLink	dbr:History_of_Italy .
+<http://dbpedia.org/resource/Action_Party_(Italy,_1848)>	dbo:wikiPageWikiLink	dbr:History_of_Italy .
+dbr:Charles_Verlinden	dbo:wikiPageWikiLink	dbr:History_of_Italy .
+dbr:Narycus	dbo:wikiPageWikiLink	dbr:History_of_Italy .
+dbr:Fregella	dbo:wikiPageWikiLink	dbr:History_of_Italy .
+@prefix ns37:	<http://dbpedia.org/resource/Italy/> .
+ns37:History	dbo:wikiPageWikiLink	dbr:History_of_Italy ;
+	dbo:wikiPageRedirects	dbr:History_of_Italy .
+dbr:Italian_History	dbo:wikiPageWikiLink	dbr:History_of_Italy ;
+	dbo:wikiPageRedirects	dbr:History_of_Italy .
+dbr:Italian_cultural_history	dbo:wikiPageWikiLink	dbr:History_of_Italy ;
+	dbo:wikiPageRedirects	dbr:History_of_Italy .
+dbr:Italian_history	dbo:wikiPageWikiLink	dbr:History_of_Italy ;
+	dbo:wikiPageRedirects	dbr:History_of_Italy .
+dbr:History_of_italy	dbo:wikiPageWikiLink	dbr:History_of_Italy ;
+	dbo:wikiPageRedirects	dbr:History_of_Italy .
+dbr:History_of_Itlay	dbo:wikiPageWikiLink	dbr:History_of_Italy ;
+	dbo:wikiPageRedirects	dbr:History_of_Italy .
+dbr:Gennaro_Sbarro	dbo:wikiPageWikiLink	dbr:History_of_Italy ;
+	dbo:wikiPageRedirects	dbr:History_of_Italy .
+dbr:Ancient_Italy	dbo:wikiPageWikiLink	dbr:History_of_Italy ;
+	dbo:wikiPageRedirects	dbr:History_of_Italy .
+dbr:Ancient_history_of_Italy	dbo:wikiPageWikiLink	dbr:History_of_Italy ;
+	dbo:wikiPageRedirects	dbr:History_of_Italy .
+dbr:Sbaro	dbo:wikiPageWikiLink	dbr:History_of_Italy ;
+	dbo:wikiPageRedirects	dbr:History_of_Italy .
+dbr:Sbarro_The_Italian_Eatery	dbo:wikiPageWikiLink	dbr:History_of_Italy ;
+	dbo:wikiPageRedirects	dbr:History_of_Italy .
+dbr:Sbarros	dbo:wikiPageWikiLink	dbr:History_of_Italy ;
+	dbo:wikiPageRedirects	dbr:History_of_Italy .

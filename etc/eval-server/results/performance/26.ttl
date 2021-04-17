@@ -1,0 +1,683 @@
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+dbr:British_Aerospace_146	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+dbr:Dumfries_and_Galloway	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+<http://dbpedia.org/resource/Turnberry_(golf_course)>	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+<http://dbpedia.org/resource/Willie_McCall_(footballer,_born_1898)>	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+dbr:List_of_airports_in_the_United_Kingdom_and_the_British_Crown_Dependencies	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+dbr:List_of_busiest_airports_in_the_United_Kingdom	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+dbr:Stagecoach_Group	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+dbr:IATA_airport_code	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+<http://dbpedia.org/resource/Sir_James_Hutchison,_1st_Baronet>	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+<http://dbpedia.org/resource/Winter_of_2009\u201310_in_Great_Britain_and_Ireland>	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+<http://dbpedia.org/resource/1979_Fastnet_race>	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+<http://dbpedia.org/resource/67th_Special_Operations_Squadron>	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+dbr:Isle_of_Bute	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+dbr:Ayrshire	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+dbr:Economy_of_Scotland	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+dbr:Scottish_Airlines	dbo:hubAirport	dbr:Glasgow_Prestwick_Airport .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Scottish_Airlines	dbp:hubs	dbr:Glasgow_Prestwick_Airport ;
+	dbo:headquarter	dbr:Glasgow_Prestwick_Airport ;
+	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+dbr:Heathrow_Airport_Holdings	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+dbr:December_1954	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+<http://dbpedia.org/resource/1959_in_the_United_Kingdom>	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+dbr:CFB_Goose_Bay	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+dbr:Dundee_Airport	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+<http://dbpedia.org/resource/1954_in_Scotland>	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+<http://dbpedia.org/resource/4440th_Aircraft_Delivery_Group>	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+dbr:Lavender_Menace_Bookshop	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+<http://dbpedia.org/resource/Her_Majesty\u0027s_Coastguard>	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+dbr:Urban_rail_in_the_United_Kingdom	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+<http://dbpedia.org/resource/1948_in_the_United_Kingdom>	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+dbr:Scottish_Council_for_Development_and_Industry	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+dbr:Transport_in_Glasgow	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+dbr:Amy_Johnson	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+dbr:Strathclyde_Partnership_for_Transport	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+<http://dbpedia.org/resource/No._168_Squadron_RCAF>	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+<http://dbpedia.org/resource/That\u0027s_All,_Brother>	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+dbr:Narsarsuaq_Air_Base	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+dbr:Robert_Pollock_Gillespie	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+dbr:Shaw_Monument	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+wikipedia-en:Glasgow_Prestwick_Airport	foaf:primaryTopic	dbr:Glasgow_Prestwick_Airport .
+dbr:Flag_of_Scotland	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+dbr:Scotland_at_the_FIFA_World_Cup	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+dbr:History_of_the_Scotland_national_football_team	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+dbr:List_of_public_art_in_South_Ayrshire	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+<http://dbpedia.org/resource/Orangefield_House,_South_Ayrshire>	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+dbr:Special_Relationship	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+dbr:European_reactions_to_the_2006_Lebanon_War	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+dbr:List_of_nationalizations_by_country	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+dbr:International_reactions_to_the_2006_Lebanon_War	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+dbr:Black_site	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+<http://dbpedia.org/resource/Timeline_of_the_2006_Lebanon_War_(July)>	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+<http://dbpedia.org/resource/1960_in_music>	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+dbr:Glasgow_Airport	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+dbr:RAF_Heathfield	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+<http://dbpedia.org/resource/RNAS_Eglinton_(HMS_Gannet)>	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+dbr:Firth_of_Clyde	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+dbr:Ayr	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+<http://dbpedia.org/resource/HMS_Gannet_(stone_frigate)>	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+<http://dbpedia.org/resource/Hamilton,_South_Lanarkshire>	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+<http://dbpedia.org/resource/Paisley,_Renfrewshire>	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+dbr:Airport_policing_in_the_United_Kingdom	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+dbr:Cumbria	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+dbr:List_of_free_economic_zones	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+dbr:Continental_Air_Command	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+<http://dbpedia.org/resource/1954_in_the_United_Kingdom>	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+<http://dbpedia.org/resource/427th_Aircraft_Sustainment_Group>	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+<http://dbpedia.org/resource/Sandefjord_Airport,_Torp>	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+<http://dbpedia.org/resource/Cubana_de_Aviaci\u00F3n>	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+dbr:October_1948	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+dbr:Greater_Glasgow	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+dbr:List_of_places_in_South_Ayrshire	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+dbr:A_roads_in_Zone_7_of_the_Great_Britain_numbering_scheme	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+dbr:Airports_Act_1986	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+dbr:De_Havilland_Albatross	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+dbr:B_roads_in_Zone_7_of_the_Great_Britain_numbering_scheme	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+dbr:Bournemouth_Airport	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+dbr:Pow_Burn	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+dbr:Boeing_377_Stratocruiser	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+dbr:Bermuda_II_Agreement	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+dbr:Highland_Express_Airways	dbp:bases	dbr:Glasgow_Prestwick_Airport ;
+	dbo:headquarter	dbr:Glasgow_Prestwick_Airport ;
+	dbo:targetAirport	dbr:Glasgow_Prestwick_Airport ;
+	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+<http://dbpedia.org/resource/401_Tactical_Fighter_Squadron>	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+dbr:Scottish_Aviation_Bulldog	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+dbr:Fail_Monastery	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+<http://dbpedia.org/resource/O\u0027Hare_International_Airport>	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+dbr:Los_Angeles_International_Airport	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+dbr:Airport_rail_link	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+<http://dbpedia.org/resource/Cabinet_Secretary_for_Infrastructure,_Investment_and_Cities>	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+dbr:List_of_United_States_Air_Force_communications_squadrons	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+<http://dbpedia.org/resource/List_of_presidential_trips_made_by_Donald_Trump_(2018)>	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+<http://dbpedia.org/resource/Hartsfield\u2013Jackson_Atlanta_International_Airport>	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+dbr:Spirit_AeroSystems	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+dbr:Inverkip	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+dbr:Troon	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+dbr:Infratil	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+dbr:Glasgow_Airport_attack	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+dbr:Glasgow	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+<http://dbpedia.org/resource/History_of_Scandinavian_Airlines_System_(1933\u201352)>	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+dbr:Caledonian_Airways	dbo:hubAirport	dbr:Glasgow_Prestwick_Airport ;
+	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+dbr:British_Eagle	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+dbr:Icelandair	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+<http://dbpedia.org/resource/Alicante\u2013Elche_Airport>	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+dbr:Tenerife_South_Airport	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+dbr:Ibiza_Airport	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+dbr:Palma_de_Mallorca_Airport	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+dbr:Lanzarote_Airport	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+<http://dbpedia.org/resource/M\u00E1laga_Airport>	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+<http://dbpedia.org/resource/2013_in_the_United_Kingdom>	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+<http://dbpedia.org/resource/2013_in_Scotland>	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+dbr:Beith	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+dbr:History_of_Royal_Navy_Helicopter_Search_and_Rescue	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+dbr:PIK	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+dbr:Transport_in_Scotland	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+<http://dbpedia.org/resource/Winter_of_2009\u201310_in_Europe>	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+<http://dbpedia.org/resource/1960_in_Scotland>	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Glasgow_Prestwick_Airport	rdf:type	yago:Object100002684 ,
+		yago:PhysicalEntity100001930 ,
+		yago:Region108630985 ,
+		yago:WikicatAirfieldsOfTheUnitedStatesArmyAirForcesInTheUnitedKingdom ,
+		yago:Whole100003553 ,
+		yago:WikicatAirfieldsOfTheUnitedStatesArmyAirForcesAirTransportCommandOnTheNorthAtlanticRoute ,
+		yago:YagoGeoEntity ,
+		yago:YagoPermanentlyLocatedEntity ,
+		yago:YagoLegalActorGeo ,
+		yago:Facility103315023 ,
+		yago:Location100027167 ,
+		yago:Artifact100021939 .
+@prefix umbel-rc:	<http://umbel.org/umbel/rc/> .
+dbr:Glasgow_Prestwick_Airport	rdf:type	umbel-rc:Airport_Physical ,
+		yago:WikicatAirportsInTheUnitedKingdom ,
+		umbel-rc:Building .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Glasgow_Prestwick_Airport	rdf:type	owl:Thing ,
+		yago:Area108497294 ,
+		yago:WikicatAirportsEstablishedIn1938 ,
+		umbel-rc:Location_Underspecified ,
+		dbo:ArchitecturalStructure .
+@prefix schema:	<http://schema.org/> .
+dbr:Glasgow_Prestwick_Airport	rdf:type	schema:Airport ,
+		yago:WikicatAirportsInScotland ,
+		yago:WikicatAirportsInEurope ,
+		schema:Place ,
+		yago:WikicatEnterpriseAreasOfScotland ,
+		dbo:Airport ,
+		yago:Airfield102687992 ,
+		dbo:Infrastructure .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Glasgow_Prestwick_Airport	rdf:type	wikidata:Q1248784 ,
+		yago:Airport102692232 ,
+		dbo:Place ,
+		dbo:Location .
+@prefix geo:	<http://www.w3.org/2003/01/geo/wgs84_pos#> .
+dbr:Glasgow_Prestwick_Airport	rdf:type	geo:SpatialThing .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Glasgow_Prestwick_Airport	rdfs:label	"Aeroporto di Prestwick"@it ,
+		"Port lotniczy Glasgow-Prestwick"@pl ,
+		"\u0413\u043B\u0430\u0437\u0433\u043E \u041F\u0440\u0435\u0441\u0442\u0432\u0438\u043A"@ru ,
+		"\u0413\u043B\u0430\u0437\u0433\u043E-\u041F\u0440\u0435\u0441\u0442\u0432\u0456\u043A (\u0430\u0435\u0440\u043E\u043F\u043E\u0440\u0442)"@uk ,
+		"Glasgow Prestwick Airport"@nl ,
+		"A\u00E9roport de Glasgow-Prestwick"@fr ,
+		"Flughafen Glasgow-Prestwick"@de ,
+		"Port-adhair Ghlasch\u00FA Phreastabhaig"@ga ,
+		"Glasgow Prestwick Airport"@en ,
+		"Aeropuerto de Glasgow Prestwick"@es ,
+		"Glasgow Prestwick Airport"@sv ,
+		"\u683C\u62C9\u65AF\u54E5\u666E\u96F7\u65AF\u7279\u5A01\u514B\u673A\u573A"@zh ;
+	rdfs:comment	"Port lotniczy Glasgow-Prestwick (ang.: Glasgow Prestwick International Airport, kod IATA: PIK, kod ICAO: EGPK) \u2013 mi\u0119dzynarodowe lotnisko obs\u0142uguj\u0105ce tanie linie lotnicze, po\u0142o\u017Cone w Prestwick, 46 km od centrum Glasgow. Przy terminalu znajduje si\u0119 kr\u00F3tko- i d\u0142ugoterminowy parking samochodowy, w obr\u0119bie terminalu liczne punkty handlowe i gastronomiczne."@pl ,
+		"El Aeropuerto de Glasgow Prestwick (en ingl\u00E9s, Glasgow Prestwick Airport, en ga\u00E9lico escoc\u00E9s Port-adhair Glaschu Prestabaig), con c\u00F3digo IATA PIK y ICAO EGPK, es un aeropuerto internacional situado al norte de la localidad de Prestwick, en South Ayrshire, y cerca de Glasgow, en Escocia. Aunque oficialmente se denomina \"Aeropuerto de Glasgow Prestwick\", porque est\u00E1 a 46 km de dicha ciudad, es com\u00FAnmente conocido como Aeropuerto de Prestwick o Prestwick Airport. En los \u00FAltimos a\u00F1os ha experimentado un crecimiento inusitado en el n\u00FAmero de pasajeros, debido a que algunas aerol\u00EDneas de bajo coste, y en especial Ryanair, utilizan este aeropuerto como base. En 2006, Prestwick transport\u00F3 a alrededor de 2,4 millones de pasajeros.\u200B"@es ,
+		"Der Flughafen Glasgow-Prestwick (IATA: PIK; ICAO: EGPK; engl.: Glasgow Prestwick Airport) ist ein internationaler Verkehrsflughafen nahe Prestwick in Schottland. Er wird haupts\u00E4chlich von Billigfluggesellschaften und f\u00FCr Frachtfl\u00FCge genutzt und ist der drittgr\u00F6\u00DFte Flughafen des Landes nach dem Flughafen Edinburgh und dem 50 Kilometer entfernt gelegenen Flughafen Glasgow International."@de ,
+		"Is aerfort suite i gComhairle Cathair Ghlasch\u00FA \u00E9 Port-adhair Ghlasch\u00FA Phreastabhaig."@ga ,
+		"L'a\u00E9roport international de Glasgow Prestwick (code AITA : PIK \u2022 code OACI : EGPK) est un a\u00E9roport situ\u00E9 en \u00C9cosse, \u00E0 1 milles marins (1,9 km) au nord-est de Prestwick."@fr ,
+		"Glasgow Prestwick Airport is een vliegveld in Schotland. Het vliegveld ligt 2 kilometer van  en 50 kilometer van Glasgow. Het vliegveld is omstreeks 1934 opgericht door David Fowler McIntyre de eerste man die over de Mount Everest vloog. In eerste instantie was het vliegveld voor oefenvluchten, vanaf 1938 kwamen er faciliteiten voor passagiers. In 2012 handelde het vliegveld ruim een miljoen passagiers af."@nl ,
+		"Glasgow Prestwick Airport (IATA: PIK, ICAO: EGPK) is an international airport serving the west of Scotland, situated one nautical mile (1.9 km; 1.2 mi) northeast of the town of Prestwick in South Ayrshire and 32 miles (51 km) from Glasgow. It is the less busy of the two airports serving the area, the busier one being Glasgow Airport, which is within the Greater Glasgow conurbation itself, in the town of Paisley in Renfrewshire."@en ,
+		"\u683C\u62C9\u65AF\u54E5\u666E\u96F7\u65AF\u8482\u514B\u56FD\u9645\u673A\u573A\uFF08\u82F1\u8A9E\uFF1AGlasgow Prestwick International Airport\uFF0CIATA\u4EE3\u7801\uFF1APIK\uFF1BICAO\u4EE3\u7801\uFF1AEGPK\uFF09\u4F4D\u4E8E\u683C\u62C9\u65AF\u54E5\u897F\u535746\u516C\u91CC\u5904\u3002\u673A\u573A\u9762\u79EF\u5728\u82CF\u683C\u5170\u6392\u540D\u7B2C\u4E00\uFF0C\u4F46\u642D\u5BA2\u91CF\u65B9\u9762\uFF0C\u5728\u82CF\u683C\u5170\u6392\u540D\u7B2C\u4E09\uFF0C\u843D\u5728\u683C\u62C9\u65AF\u54E5\u56FD\u9645\u673A\u573A\u548C\u7231\u4E01\u5821\u56FD\u9645\u673A\u573A\u4E4B\u540E\u3002\u745E\u5B89\u822A\u7A7A\u516C\u53F8\uFF08Ryanair\uFF09\u662F\u4F7F\u7528\u6B64\u673A\u573A\u7684\u4E3B\u8981\u822A\u7A7A\u516C\u53F8\u3002 2005\u5E747\u67086\u65E5\u81F38\u65E5\uFF0C\u5F53\u7B2C31\u5C4A\u516B\u570B\u9996\u8166\u9AD8\u5CF0\u6703\u8B70\u5728\u8607\u683C\u862D\u5C0F\u9547\u4E3E\u884C\u65F6\uFF0C\u6B64\u673A\u573A\u6210\u4E3A\u5404\u56FD\u9996\u9886\u4EEC\u8FDB\u5165\u82CF\u683C\u5170\u7684\u5165\u53E3\u673A\u573A\u3002"@zh ,
+		"Glasgow Prestwick Airport (skotsk g\u00E4liska: Port-adhair Glaschu-Preastabhaig) (IATA: PIK, ICAO: EGPK), \u00E4r en internationell flygplats som betj\u00E4nar Glasgow. Flygplatsen \u00E4r bel\u00E4gen 2 km nordost om staden Prestwick och 46 km sydv\u00E4st om Glasgow. De senaste tio \u00E5ren har passagerartrafiken p\u00E5 flygplatsen \u00F6kat rej\u00E4lt p\u00E5 grund av l\u00E5gprisbolagens expansioner, s\u00E4rskilt fr\u00E5n Ryanair som \u00E4r det st\u00F6rsta flygbolaget p\u00E5 flygplatsen. Under 2008 hade flygplatsen \u00F6ver 2,4 miljoner passagerare."@sv ,
+		"L'Aeroporto di Prestwick (IATA: PIK, ICAO: EGPK) o anche Aeroporto di Glasgow-Prestwick (in Lingua gaelica scozzese: Port-adhair Phreastabhaig) \u00E8 un aeroporto internazionale che serve l'area urbana di Glasgow in Scozia. Esso \u00E8 situato a circa 2 km a nord est dalla citt\u00E0 di Prestwick, nell'Ayrshire Meridionale. \u00C8 utilizzato anche per il traffico cargo."@it ,
+		"\u0410\u0435\u0440\u043E\u043F\u043E\u0440\u0442 \u0413\u043B\u0430\u0437\u0433\u043E-\u041F\u0440\u0435\u0441\u0442\u0432\u0456\u043A (IATA: PIK, ICAO: EGPK)(\u0430\u043D\u0433\u043B. IATA:Glasgow Prestwick Airport) \u2014 \u043C\u0456\u0436\u043D\u0430\u0440\u043E\u0434\u043D\u0438\u0439 \u0430\u0435\u0440\u043E\u043F\u043E\u0440\u0442, \u0449\u043E \u043E\u0431\u0441\u043B\u0443\u0433\u043E\u0432\u0443\u0454 \u0417\u0430\u0445\u0456\u0434\u043D\u0443 \u0428\u043E\u0442\u043B\u0430\u043D\u0434\u0456\u044E, \u0440\u043E\u0437\u0442\u0430\u0448\u043E\u0432\u0430\u043D\u0438\u0439 \u0437\u0430 1,9 \u043A\u043C \u043D\u0430 \u043F\u0456\u0432\u043D\u0456\u0447\u043D\u0438\u0439 \u0441\u0445\u0456\u0434 \u0432\u0456\u0434 \u043C\u0456\u0441\u0442\u0430 \u041F\u0440\u0435\u0441\u0442\u0432\u0456\u043A \u0432 \u041F\u0456\u0432\u0434\u0435\u043D\u043D\u043E\u043C\u0443 \u0415\u0440\u0448\u0438\u0440\u0456 \u0442\u0430 \u0437\u0430 51 \u043A\u043C \u0432\u0456\u0434 \u0446\u0435\u043D\u0442\u0440\u0443 \u043C\u0456\u0441\u0442\u0430 \u0413\u043B\u0430\u0437\u0433\u043E. \u0404 \u0434\u0440\u0443\u0433\u0438\u043C \u0437\u0430 \u043F\u0430\u0441\u0430\u0436\u0438\u0440\u043E\u043E\u0431\u0456\u0433\u043E\u043C \u0430\u0435\u0440\u043E\u043F\u043E\u0440\u0442\u043E\u043C \u0413\u043B\u0430\u0437\u0433\u043E, \u0442\u0430 \u043F'\u044F\u0442\u0438\u043C \u2014 \u0428\u043E\u0442\u043B\u0430\u043D\u0434\u0456\u0457."@uk ,
+		"\u0410\u044D\u0440\u043E\u043F\u043E\u0301\u0440\u0442 \u0413\u043B\u0430\u0301\u0437\u0433\u043E \u041F\u0440\u0435\u0301\u0441\u0442\u0432\u0438\u043A (\u0430\u043D\u0433\u043B. Glasgow Prestwick Airport, \u0433\u044D\u043B\u044C\u0441\u043A. Port-adhair Glaschu Prestabaig, IATA: PIK, ICAO: EGPK) \u2014 \u043C\u0435\u0436\u0434\u0443\u043D\u0430\u0440\u043E\u0434\u043D\u044B\u0439 \u0430\u044D\u0440\u043E\u043F\u043E\u0440\u0442, \u043E\u0431\u0441\u043B\u0443\u0436\u0438\u0432\u0430\u044E\u0449\u0438\u0439 \u0413\u043B\u0430\u0437\u0433\u043E, \u043D\u0430\u0445\u043E\u0434\u0438\u0442\u0441\u044F \u043A \u0441\u0435\u0432\u0435\u0440\u0443 \u043E\u0442 \u0433\u043E\u0440\u043E\u0434\u0430 \u041F\u0440\u0435\u0441\u0442\u0443\u0438\u043A \u0432 \u0421\u0430\u0443\u0442-\u042D\u0440\u0448\u0438\u0440\u0435, \u0428\u043E\u0442\u043B\u0430\u043D\u0434\u0438\u044F. \u041D\u0435\u0441\u043C\u043E\u0442\u0440\u044F \u043D\u0430 \u0442\u043E, \u0447\u0442\u043E \u043E\u0444\u0438\u0446\u0438\u0430\u043B\u044C\u043D\u043E \u0430\u044D\u0440\u043E\u043F\u043E\u0440\u0442 \u043D\u0430\u0437\u044B\u0432\u0430\u0435\u0442\u0441\u044F \u00AB\u0410\u044D\u0440\u043E\u043F\u043E\u0440\u0442 \u0413\u043B\u0430\u0437\u0433\u043E \u041F\u0440\u0435\u0441\u0442\u0432\u0438\u043A\u00BB, \u0442\u0430\u043A \u043A\u0430\u043A \u043D\u0430\u0445\u043E\u0434\u0438\u0442\u0441\u044F \u0432 46 \u043A\u043C \u043E\u0442 \u0413\u043B\u0430\u0437\u0433\u043E, \u043E\u0431\u044B\u0447\u043D\u043E \u0430\u044D\u0440\u043E\u043F\u043E\u0440\u0442 \u043D\u0430\u0437\u044B\u0432\u0430\u044E\u0442 \u0410\u044D\u0440\u043E\u043F\u043E\u0440\u0442 \u041F\u0440\u0435\u0441\u0442\u0432\u0438\u043A. \u041F\u043E\u0441\u043B\u0435\u0434\u043D\u0438\u0435 \u0434\u0435\u0441\u044F\u0442\u044C \u043B\u0435\u0442 \u043D\u0430\u0431\u043B\u044E\u0434\u0430\u0435\u0442\u0441\u044F \u0431\u0435\u0441\u043F\u0440\u0435\u0446\u0435\u0434\u0435\u043D\u0442\u043D\u044B\u0439 \u0440\u043E\u0441\u0442 \u0432 \u043F\u0430\u0441\u0441\u0430\u0436\u0438\u0440\u0441\u043A\u043E\u0433\u043E \u0442\u0440\u0430\u0444\u0438\u043A\u0430, \u043F\u0440\u043E\u0445\u043E\u0434\u044F\u0449\u0435\u0433\u043E \u0447\u0435\u0440\u0435\u0437 \u0430\u044D\u0440\u043E\u043F\u043E\u0440\u0442, \u043A\u043E\u0442\u043E\u0440\u044B\u0439 \u043E\u0431\u0435\u0441\u043F\u0435\u0447\u0438\u0432\u0430\u044E\u0442 \u0433\u043B\u0430\u0432\u043D\u044B\u043C \u043E\u0431\u0440\u0430\u0437\u043E\u043C \u0431\u044E\u0434\u0436\u0435\u0442\u043D\u044B\u0435 \u043F\u0435\u0440\u0435\u0432\u043E\u0437\u0447\u0438\u043A\u0438, \u0432 \u043F\u0435\u0440\u0432\u0443\u044E \u043E\u0447\u0435\u0440\u0435\u0434\u044C Ryanair, \u043A\u043E\u0442\u043E\u0440\u0430\u044F \u0438\u0441\u043F\u043E\u043B\u044C\u0437\u0443\u0435\u0442 \u0430\u044D\u0440\u043E\u043F\u043E\u0440\u0442 \u043A\u0430\u043A \u0445\u0430\u0431. \u0412 2006 \u041F\u0440\u0435\u0441\u0442\u0432\u0438\u043A \u043E\u0431\u0441\u043B\u0443\u0436\u0438\u043B \u043F\u043E\u0447\u0442\u0438 2,4 \u043C\u043B\u043D \u043F\u0430\u0441\u0441\u0430\u0436\u0438\u0440\u043E\u0432."@ru ;
+	foaf:name	"Glasgow Prestwick Airport"@en ;
+	foaf:homepage	<https://www.glasgowprestwick.com> .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Glasgow_Prestwick_Airport	geo:lat	"55.5094451904296875"^^xsd:float ;
+	geo:long	"-4.59444427490234375"^^xsd:float ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Glasgow_Prestwick_Airport_New_Logo.jpg> ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Glasgow_Prestwick_Airport .
+@prefix virtrdf:	<http://www.openlinksw.com/schemas/virtrdf#> .
+dbr:Glasgow_Prestwick_Airport	geo:geometry	"POINT(-4.5944442749023 55.50944519043)"^^virtrdf:Geometry .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Glasgow_Prestwick_Airport	dct:subject	dbc:Manufacturing_plants_in_Scotland ,
+		dbc:Airfields_of_the_United_States_Army_Air_Forces_Air_Transport_Command_on_the_North_Atlantic_Route ,
+		dbc:Prestwick ,
+		dbc:Public_corporations_of_the_Scottish_Government ,
+		<http://dbpedia.org/resource/Category:1934_establishments_in_Scotland> ,
+		dbc:Transport_in_South_Ayrshire ,
+		dbc:Airfields_of_the_United_States_Army_Air_Forces_in_the_United_Kingdom ,
+		dbc:Airports_established_in_1934 ,
+		dbc:Aircraft_assembly_plants_in_the_United_Kingdom ,
+		dbc:Airports_in_Scotland ;
+	owl:sameAs	<https://global.dbpedia.org/id/544jC> .
+@prefix dbpedia-simple:	<http://simple.dbpedia.org/resource/> .
+dbr:Glasgow_Prestwick_Airport	owl:sameAs	dbpedia-simple:Glasgow_Prestwick_Airport ,
+		<http://zh.dbpedia.org/resource/\u683C\u62C9\u65AF\u54E5\u666E\u96F7\u65AF\u7279\u5A01\u514B\u673A\u573A> .
+@prefix dbpedia-gl:	<http://gl.dbpedia.org/resource/> .
+dbr:Glasgow_Prestwick_Airport	owl:sameAs	dbpedia-gl:Aeroporto_de_Glasgow-Prestwick .
+@prefix ns19:	<http://ast.dbpedia.org/resource/> .
+dbr:Glasgow_Prestwick_Airport	owl:sameAs	ns19:Aeropuertu_de_Glasgow_Prestwick ,
+		<http://rdf.freebase.com/ns/m.01pr1d> .
+@prefix dbpedia-fi:	<http://fi.dbpedia.org/resource/> .
+dbr:Glasgow_Prestwick_Airport	owl:sameAs	dbpedia-fi:Prestwickin_lentoasema ,
+		<http://ta.dbpedia.org/resource/\u0B95\u0BBF\u0BB3\u0BBE\u0B9A\u0BC1\u0B95\u0BCD\u0B95\u0BCB_\u0BAA\u0BBF\u0BB0\u0BC6\u0BB8\u0BCD\u0B9F\u0BCD\u0BB5\u0BBF\u0B95\u0BCD_\u0BB5\u0BBE\u0BA9\u0BC2\u0BB0\u0BCD\u0BA4\u0BBF_\u0BA8\u0BBF\u0BB2\u0BC8\u0BAF\u0BAE\u0BCD> .
+@prefix dbpedia-pms:	<http://pms.dbpedia.org/resource/> .
+dbr:Glasgow_Prestwick_Airport	owl:sameAs	dbpedia-pms:Glasgow_Prestwick_International_Airport ,
+		<http://tg.dbpedia.org/resource/\u0424\u0443\u0440\u0443\u0434\u0433\u043E\u04B3\u0438_\u0433\u043B\u043E\u0441\u0433\u0443_\u043F\u0440\u0441\u0442\u0443\u0438\u043A> ,
+		<http://ru.dbpedia.org/resource/\u0413\u043B\u0430\u0437\u0433\u043E_\u041F\u0440\u0435\u0441\u0442\u0432\u0438\u043A> .
+@prefix dbpedia-sv:	<http://sv.dbpedia.org/resource/> .
+dbr:Glasgow_Prestwick_Airport	owl:sameAs	dbpedia-sv:Glasgow_Prestwick_Airport ,
+		<http://fa.dbpedia.org/resource/\u0641\u0631\u0648\u062F\u06AF\u0627\u0647_\u06AF\u0644\u0627\u0633\u06AF\u0648_\u067E\u0631\u0633\u062A\u0648\u06CC\u06A9> .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:Glasgow_Prestwick_Airport	owl:sameAs	dbpedia-es:Aeropuerto_de_Glasgow_Prestwick ,
+		dbr:Glasgow_Prestwick_Airport .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Glasgow_Prestwick_Airport	owl:sameAs	dbpedia-it:Aeroporto_di_Prestwick .
+@prefix dbpedia-no:	<http://no.dbpedia.org/resource/> .
+dbr:Glasgow_Prestwick_Airport	owl:sameAs	dbpedia-no:Glasgow_Prestwick_lufthavn .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Glasgow_Prestwick_Airport	owl:sameAs	dbpedia-de:Flughafen_Glasgow-Prestwick .
+@prefix lgdt:	<http://linkedgeodata.org/triplify/> .
+dbr:Glasgow_Prestwick_Airport	owl:sameAs	lgdt:node26608574 ,
+		<http://ga.dbpedia.org/resource/Port-adhair_Ghlasch\u00FA_Phreastabhaig> ,
+		<http://viaf.org/viaf/142360174> .
+@prefix ns28:	<http://sco.dbpedia.org/resource/> .
+dbr:Glasgow_Prestwick_Airport	owl:sameAs	ns28:Glesga_Prestwick_Airport .
+@prefix dbpedia-gd:	<http://gd.dbpedia.org/resource/> .
+dbr:Glasgow_Prestwick_Airport	owl:sameAs	dbpedia-gd:Port-adhair_Ghlaschu_Phreastabhaig .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Glasgow_Prestwick_Airport	owl:sameAs	dbpedia-pl:Port_lotniczy_Glasgow-Prestwick ,
+		wikidata:Q8992 ,
+		<http://uk.dbpedia.org/resource/\u0413\u043B\u0430\u0437\u0433\u043E-\u041F\u0440\u0435\u0441\u0442\u0432\u0456\u043A_(\u0430\u0435\u0440\u043E\u043F\u043E\u0440\u0442)> ,
+		<http://sws.geonames.org/6296629/> .
+@prefix ns31:	<http://ceb.dbpedia.org/resource/> .
+dbr:Glasgow_Prestwick_Airport	owl:sameAs	ns31:Prestwick_Airport ,
+		<http://fr.dbpedia.org/resource/A\u00E9roport_de_Glasgow-Prestwick> .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Glasgow_Prestwick_Airport	owl:sameAs	dbpedia-nl:Glasgow_Prestwick_Airport .
+@prefix dbpedia-ms:	<http://ms.dbpedia.org/resource/> .
+dbr:Glasgow_Prestwick_Airport	owl:sameAs	dbpedia-ms:Lapangan_Terbang_Prestwick .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Glasgow_Prestwick_Airport	owl:sameAs	yago-res:Glasgow_Prestwick_Airport .
+@prefix georss:	<http://www.georss.org/georss/> .
+dbr:Glasgow_Prestwick_Airport	georss:point	"55.50944444444445 -4.594444444444444" ;
+	schema:sameAs	<http://viaf.org/viaf/142360174> ;
+	dbo:abstract	"\u683C\u62C9\u65AF\u54E5\u666E\u96F7\u65AF\u8482\u514B\u56FD\u9645\u673A\u573A\uFF08\u82F1\u8A9E\uFF1AGlasgow Prestwick International Airport\uFF0CIATA\u4EE3\u7801\uFF1APIK\uFF1BICAO\u4EE3\u7801\uFF1AEGPK\uFF09\u4F4D\u4E8E\u683C\u62C9\u65AF\u54E5\u897F\u535746\u516C\u91CC\u5904\u3002\u673A\u573A\u9762\u79EF\u5728\u82CF\u683C\u5170\u6392\u540D\u7B2C\u4E00\uFF0C\u4F46\u642D\u5BA2\u91CF\u65B9\u9762\uFF0C\u5728\u82CF\u683C\u5170\u6392\u540D\u7B2C\u4E09\uFF0C\u843D\u5728\u683C\u62C9\u65AF\u54E5\u56FD\u9645\u673A\u573A\u548C\u7231\u4E01\u5821\u56FD\u9645\u673A\u573A\u4E4B\u540E\u3002\u745E\u5B89\u822A\u7A7A\u516C\u53F8\uFF08Ryanair\uFF09\u662F\u4F7F\u7528\u6B64\u673A\u573A\u7684\u4E3B\u8981\u822A\u7A7A\u516C\u53F8\u3002 2005\u5E747\u67086\u65E5\u81F38\u65E5\uFF0C\u5F53\u7B2C31\u5C4A\u516B\u570B\u9996\u8166\u9AD8\u5CF0\u6703\u8B70\u5728\u8607\u683C\u862D\u5C0F\u9547\u4E3E\u884C\u65F6\uFF0C\u6B64\u673A\u573A\u6210\u4E3A\u5404\u56FD\u9996\u9886\u4EEC\u8FDB\u5165\u82CF\u683C\u5170\u7684\u5165\u53E3\u673A\u573A\u3002"@zh ,
+		"Glasgow Prestwick Airport (skotsk g\u00E4liska: Port-adhair Glaschu-Preastabhaig) (IATA: PIK, ICAO: EGPK), \u00E4r en internationell flygplats som betj\u00E4nar Glasgow. Flygplatsen \u00E4r bel\u00E4gen 2 km nordost om staden Prestwick och 46 km sydv\u00E4st om Glasgow. De senaste tio \u00E5ren har passagerartrafiken p\u00E5 flygplatsen \u00F6kat rej\u00E4lt p\u00E5 grund av l\u00E5gprisbolagens expansioner, s\u00E4rskilt fr\u00E5n Ryanair som \u00E4r det st\u00F6rsta flygbolaget p\u00E5 flygplatsen. Under 2008 hade flygplatsen \u00F6ver 2,4 miljoner passagerare."@sv ,
+		"Glasgow Prestwick Airport is een vliegveld in Schotland. Het vliegveld ligt 2 kilometer van  en 50 kilometer van Glasgow. Het vliegveld is omstreeks 1934 opgericht door David Fowler McIntyre de eerste man die over de Mount Everest vloog. In eerste instantie was het vliegveld voor oefenvluchten, vanaf 1938 kwamen er faciliteiten voor passagiers. Op 20 oktober 1948 verongelukt de KLM Lockheed Constellation PH-TEN \"Nijmegen\". In dichte mist vliegt de Nijmegen tegen hoogspanningskabels en stort neer. Alle 40 inzittenden, waaronder KLM technisch directeur  en Bert Sas generaal-majoor en militair attach\u00E9 in Berlijn die de datum van Fall Gelb, de Duitse aanval op Nederland, doorgaf, komen om het leven. Gezagvoerder is Koene Dirk Parmentier, een van de bekendste en meest ervaren vliegers van de KLM en is beroemd geworden door zijn succesvolle vlucht met de \"Uiver\" in 1934. In 2012 handelde het vliegveld ruim een miljoen passagiers af."@nl ,
+		"L'Aeroporto di Prestwick (IATA: PIK, ICAO: EGPK) o anche Aeroporto di Glasgow-Prestwick (in Lingua gaelica scozzese: Port-adhair Phreastabhaig) \u00E8 un aeroporto internazionale che serve l'area urbana di Glasgow in Scozia. Esso \u00E8 situato a circa 2 km a nord est dalla citt\u00E0 di Prestwick, nell'Ayrshire Meridionale. In termini di traffico passeggeri \u00E8 il quarto della Scozia dopo l'aeroporto di Edimburgo, l'aeroporto di Glasgow e l'aeroporto di Aberdeen. Il traffico passeggeri aument\u00F2 notevolmente a partire dal 2007 grazie alla presenza delle compagnie low-cost ed in modo particolare a Ryanair che qui aveva posizionato un suo hub. Tuttavia negli anni successivi il traffico \u00E8 diminuito nettamente, scendendo dai quasi due milioni e mezzo di passeggeri del 2007 a meno di settecentomila (dati 2017). \u00C8 utilizzato anche per il traffico cargo."@it ,
+		"L'a\u00E9roport international de Glasgow Prestwick (code AITA : PIK \u2022 code OACI : EGPK) est un a\u00E9roport situ\u00E9 en \u00C9cosse, \u00E0 1 milles marins (1,9 km) au nord-est de Prestwick."@fr ,
+		"Port lotniczy Glasgow-Prestwick (ang.: Glasgow Prestwick International Airport, kod IATA: PIK, kod ICAO: EGPK) \u2013 mi\u0119dzynarodowe lotnisko obs\u0142uguj\u0105ce tanie linie lotnicze, po\u0142o\u017Cone w Prestwick, 46 km od centrum Glasgow. Dojazd z i do centrum Glasgow zapewnia po\u0142\u0105czenie kolejowe (przystanek Prestwick International Airport, czas podr\u00F3\u017Cy ok. 45 minut, poci\u0105gi kursuj\u0105 w dni robocze co p\u00F3\u0142 godziny, w dni wolne co godzin\u0119, w nocy brak po\u0142\u0105cze\u0144) oraz kilka linii autobusowych kursuj\u0105cych r\u00F3wnie\u017C w nocy. Pasa\u017Cerowie z wa\u017Cnymi rezerwacjami na lot otrzymuj\u0105 50% zni\u017Cki na dojazd z i do jakiejkolwiek stacji kolejowej na terenie Szkocji (nale\u017Cy przedstawi\u0107 wydrukowane potwierdzenie rezerwacji lotu konduktorowi lub w kasie kolejowej). Przy terminalu znajduje si\u0119 kr\u00F3tko- i d\u0142ugoterminowy parking samochodowy, w obr\u0119bie terminalu liczne punkty handlowe i gastronomiczne."@pl ,
+		"Der Flughafen Glasgow-Prestwick (IATA: PIK; ICAO: EGPK; engl.: Glasgow Prestwick Airport) ist ein internationaler Verkehrsflughafen nahe Prestwick in Schottland. Er wird haupts\u00E4chlich von Billigfluggesellschaften und f\u00FCr Frachtfl\u00FCge genutzt und ist der drittgr\u00F6\u00DFte Flughafen des Landes nach dem Flughafen Edinburgh und dem 50 Kilometer entfernt gelegenen Flughafen Glasgow International."@de ,
+		"Glasgow Prestwick Airport (IATA: PIK, ICAO: EGPK) is an international airport serving the west of Scotland, situated one nautical mile (1.9 km; 1.2 mi) northeast of the town of Prestwick in South Ayrshire and 32 miles (51 km) from Glasgow. It is the less busy of the two airports serving the area, the busier one being Glasgow Airport, which is within the Greater Glasgow conurbation itself, in the town of Paisley in Renfrewshire. Glasgow Prestwick is Scotland's fifth-busiest airport in terms of passenger traffic, after Edinburgh, Glasgow, Aberdeen and Inverness, although it is the largest in terms of land area. Passenger traffic peaked at 2.4 million in 2007 following a decade of rapid growth, driven in part by the boom in low-cost carriers, particularly Ryanair, which uses the airport as an operating base. In recent years, passenger traffic has declined; around 670,000 passengers passed through the airport in 2016."@en ,
+		"\u0410\u044D\u0440\u043E\u043F\u043E\u0301\u0440\u0442 \u0413\u043B\u0430\u0301\u0437\u0433\u043E \u041F\u0440\u0435\u0301\u0441\u0442\u0432\u0438\u043A (\u0430\u043D\u0433\u043B. Glasgow Prestwick Airport, \u0433\u044D\u043B\u044C\u0441\u043A. Port-adhair Glaschu Prestabaig, IATA: PIK, ICAO: EGPK) \u2014 \u043C\u0435\u0436\u0434\u0443\u043D\u0430\u0440\u043E\u0434\u043D\u044B\u0439 \u0430\u044D\u0440\u043E\u043F\u043E\u0440\u0442, \u043E\u0431\u0441\u043B\u0443\u0436\u0438\u0432\u0430\u044E\u0449\u0438\u0439 \u0413\u043B\u0430\u0437\u0433\u043E, \u043D\u0430\u0445\u043E\u0434\u0438\u0442\u0441\u044F \u043A \u0441\u0435\u0432\u0435\u0440\u0443 \u043E\u0442 \u0433\u043E\u0440\u043E\u0434\u0430 \u041F\u0440\u0435\u0441\u0442\u0443\u0438\u043A \u0432 \u0421\u0430\u0443\u0442-\u042D\u0440\u0448\u0438\u0440\u0435, \u0428\u043E\u0442\u043B\u0430\u043D\u0434\u0438\u044F. \u041D\u0435\u0441\u043C\u043E\u0442\u0440\u044F \u043D\u0430 \u0442\u043E, \u0447\u0442\u043E \u043E\u0444\u0438\u0446\u0438\u0430\u043B\u044C\u043D\u043E \u0430\u044D\u0440\u043E\u043F\u043E\u0440\u0442 \u043D\u0430\u0437\u044B\u0432\u0430\u0435\u0442\u0441\u044F \u00AB\u0410\u044D\u0440\u043E\u043F\u043E\u0440\u0442 \u0413\u043B\u0430\u0437\u0433\u043E \u041F\u0440\u0435\u0441\u0442\u0432\u0438\u043A\u00BB, \u0442\u0430\u043A \u043A\u0430\u043A \u043D\u0430\u0445\u043E\u0434\u0438\u0442\u0441\u044F \u0432 46 \u043A\u043C \u043E\u0442 \u0413\u043B\u0430\u0437\u0433\u043E, \u043E\u0431\u044B\u0447\u043D\u043E \u0430\u044D\u0440\u043E\u043F\u043E\u0440\u0442 \u043D\u0430\u0437\u044B\u0432\u0430\u044E\u0442 \u0410\u044D\u0440\u043E\u043F\u043E\u0440\u0442 \u041F\u0440\u0435\u0441\u0442\u0432\u0438\u043A. \u041F\u043E\u0441\u043B\u0435\u0434\u043D\u0438\u0435 \u0434\u0435\u0441\u044F\u0442\u044C \u043B\u0435\u0442 \u043D\u0430\u0431\u043B\u044E\u0434\u0430\u0435\u0442\u0441\u044F \u0431\u0435\u0441\u043F\u0440\u0435\u0446\u0435\u0434\u0435\u043D\u0442\u043D\u044B\u0439 \u0440\u043E\u0441\u0442 \u0432 \u043F\u0430\u0441\u0441\u0430\u0436\u0438\u0440\u0441\u043A\u043E\u0433\u043E \u0442\u0440\u0430\u0444\u0438\u043A\u0430, \u043F\u0440\u043E\u0445\u043E\u0434\u044F\u0449\u0435\u0433\u043E \u0447\u0435\u0440\u0435\u0437 \u0430\u044D\u0440\u043E\u043F\u043E\u0440\u0442, \u043A\u043E\u0442\u043E\u0440\u044B\u0439 \u043E\u0431\u0435\u0441\u043F\u0435\u0447\u0438\u0432\u0430\u044E\u0442 \u0433\u043B\u0430\u0432\u043D\u044B\u043C \u043E\u0431\u0440\u0430\u0437\u043E\u043C \u0431\u044E\u0434\u0436\u0435\u0442\u043D\u044B\u0435 \u043F\u0435\u0440\u0435\u0432\u043E\u0437\u0447\u0438\u043A\u0438, \u0432 \u043F\u0435\u0440\u0432\u0443\u044E \u043E\u0447\u0435\u0440\u0435\u0434\u044C Ryanair, \u043A\u043E\u0442\u043E\u0440\u0430\u044F \u0438\u0441\u043F\u043E\u043B\u044C\u0437\u0443\u0435\u0442 \u0430\u044D\u0440\u043E\u043F\u043E\u0440\u0442 \u043A\u0430\u043A \u0445\u0430\u0431. \u0412 2006 \u041F\u0440\u0435\u0441\u0442\u0432\u0438\u043A \u043E\u0431\u0441\u043B\u0443\u0436\u0438\u043B \u043F\u043E\u0447\u0442\u0438 2,4 \u043C\u043B\u043D \u043F\u0430\u0441\u0441\u0430\u0436\u0438\u0440\u043E\u0432. \u041F\u0440\u0435\u0441\u0442\u0432\u0438\u043A \u2014 \u043A\u0440\u0443\u043F\u043D\u0435\u0439\u0448\u0438\u0439 \u043A\u043E\u043C\u043C\u0435\u0440\u0447\u0435\u0441\u043A\u0438 \u0438\u0441\u043F\u043E\u043B\u044C\u0437\u0443\u0435\u043C\u044B\u0439 \u0430\u044D\u0440\u043E\u0434\u0440\u043E\u043C \u0432 \u0428\u043E\u0442\u043B\u0430\u043D\u0434\u0438\u0438 (\u0432 \u0444\u0438\u0437\u0438\u0447\u0435\u0441\u043A\u043E\u043C \u0438\u0437\u043C\u0435\u0440\u0435\u043D\u0438\u0438), \u043E\u0434\u043D\u0430\u043A\u043E \u043F\u043E \u043F\u0430\u0441\u0441\u0430\u0436\u0438\u0440\u043E\u043E\u0431\u043E\u0440\u043E\u0442\u0443 \u0437\u0430\u043D\u0438\u043C\u0430\u0435\u0442 \u0442\u043E\u043B\u044C\u043A\u043E \u0447\u0435\u0442\u0432\u0451\u0440\u0442\u043E\u0435 \u043C\u0435\u0441\u0442\u043E \u0432 \u0428\u043E\u0442\u043B\u0430\u043D\u0434\u0438\u0438 \u043F\u043E\u0441\u043B\u0435 \u041C\u0435\u0436\u0434\u0443\u043D\u0430\u0440\u043E\u0434\u043D\u043E\u0433\u043E \u0410\u044D\u0440\u043E\u043F\u043E\u0440\u0442\u0430 \u0413\u043B\u0430\u0437\u0433\u043E \u0438 \u0430\u044D\u0440\u043E\u043F\u043E\u0440\u0442\u043E\u0432 \u042D\u0434\u0438\u043D\u0431\u0443\u0440\u0433\u0430 \u0438 \u0410\u0431\u0435\u0440\u0434\u0438\u043D\u0430."@ru ,
+		"El Aeropuerto de Glasgow Prestwick (en ingl\u00E9s, Glasgow Prestwick Airport, en ga\u00E9lico escoc\u00E9s Port-adhair Glaschu Prestabaig), con c\u00F3digo IATA PIK y ICAO EGPK, es un aeropuerto internacional situado al norte de la localidad de Prestwick, en South Ayrshire, y cerca de Glasgow, en Escocia. Aunque oficialmente se denomina \"Aeropuerto de Glasgow Prestwick\", porque est\u00E1 a 46 km de dicha ciudad, es com\u00FAnmente conocido como Aeropuerto de Prestwick o Prestwick Airport. En los \u00FAltimos a\u00F1os ha experimentado un crecimiento inusitado en el n\u00FAmero de pasajeros, debido a que algunas aerol\u00EDneas de bajo coste, y en especial Ryanair, utilizan este aeropuerto como base. En 2006, Prestwick transport\u00F3 a alrededor de 2,4 millones de pasajeros.\u200B En t\u00E9rminos de espacio f\u00EDsico, Prestwick es el aer\u00F3dromo m\u00E1s grande de Escocia, aunque en t\u00E9rminos de n\u00FAmero de viajeros se sit\u00FAa por detr\u00E1s de los aeropuertos de Glasgow, Edimburgo y Aberdeen, todos ellos operados por ."@es ,
+		"Is aerfort suite i gComhairle Cathair Ghlasch\u00FA \u00E9 Port-adhair Ghlasch\u00FA Phreastabhaig."@ga ,
+		"\u0410\u0435\u0440\u043E\u043F\u043E\u0440\u0442 \u0413\u043B\u0430\u0437\u0433\u043E-\u041F\u0440\u0435\u0441\u0442\u0432\u0456\u043A (IATA: PIK, ICAO: EGPK)(\u0430\u043D\u0433\u043B. IATA:Glasgow Prestwick Airport) \u2014 \u043C\u0456\u0436\u043D\u0430\u0440\u043E\u0434\u043D\u0438\u0439 \u0430\u0435\u0440\u043E\u043F\u043E\u0440\u0442, \u0449\u043E \u043E\u0431\u0441\u043B\u0443\u0433\u043E\u0432\u0443\u0454 \u0417\u0430\u0445\u0456\u0434\u043D\u0443 \u0428\u043E\u0442\u043B\u0430\u043D\u0434\u0456\u044E, \u0440\u043E\u0437\u0442\u0430\u0448\u043E\u0432\u0430\u043D\u0438\u0439 \u0437\u0430 1,9 \u043A\u043C \u043D\u0430 \u043F\u0456\u0432\u043D\u0456\u0447\u043D\u0438\u0439 \u0441\u0445\u0456\u0434 \u0432\u0456\u0434 \u043C\u0456\u0441\u0442\u0430 \u041F\u0440\u0435\u0441\u0442\u0432\u0456\u043A \u0432 \u041F\u0456\u0432\u0434\u0435\u043D\u043D\u043E\u043C\u0443 \u0415\u0440\u0448\u0438\u0440\u0456 \u0442\u0430 \u0437\u0430 51 \u043A\u043C \u0432\u0456\u0434 \u0446\u0435\u043D\u0442\u0440\u0443 \u043C\u0456\u0441\u0442\u0430 \u0413\u043B\u0430\u0437\u0433\u043E. \u0404 \u0434\u0440\u0443\u0433\u0438\u043C \u0437\u0430 \u043F\u0430\u0441\u0430\u0436\u0438\u0440\u043E\u043E\u0431\u0456\u0433\u043E\u043C \u0430\u0435\u0440\u043E\u043F\u043E\u0440\u0442\u043E\u043C \u0413\u043B\u0430\u0437\u0433\u043E, \u0442\u0430 \u043F'\u044F\u0442\u0438\u043C \u2014 \u0428\u043E\u0442\u043B\u0430\u043D\u0434\u0456\u0457."@uk ;
+	dbp:image	"File:Prestwick Airport from the air, 2019.jpg"@en ;
+	dbp:image2Width	250 .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Glasgow_Prestwick_Airport	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Glasgow_Prestwick_Airport?oldid=985765805&ns=0> ;
+	dbp:pushpinLabel	"EGPK"@en ;
+	dbp:operator	"Prestwick Aviation Holdings Ltd"@en ;
+	dbo:location	dbr:Prestwick ,
+		dbr:United_Kingdom ,
+		dbr:Scotland ;
+	dbp:location	dbr:Prestwick ,
+		""@en ,
+		dbr:United_Kingdom ,
+		dbr:Scotland ;
+	dbp:owner	dbr:Scottish_Government ;
+	dbp:type	"Public"@en ;
+	dbo:owner	dbr:Scottish_Government ;
+	dbp:footnotes	"Statistics from the UK Civil Aviation Authority"@en ,
+		"Sources: UK AIP at NATS"@en ;
+	dbo:iataLocationIdentifier	"PIK" ;
+	dbp:pushpinMap	"Scotland South Ayrshire"@en ;
+	dbp:pushpinMapCaption	"Location in South Ayrshire"@en ;
+	dbp:name	"Glasgow Prestwick Airport"@en ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Glasgow_Prestwick_Airport_New_Logo.jpg?width=300> ;
+	dbp:website	""@en ,
+		<https://www.glasgowprestwick.com> ;
+	dbo:icaoLocationIdentifier	"EGPK" ;
+	dbp:elevationF	66 ;
+	dbp:imageWidth	170 ;
+	dbp:r1Number	12 ;
+	dbp:metricRwy	"Yes"@en ;
+	dbp:r1LengthM	2986 ;
+	dbp:r2LengthM	1905 ;
+	dbp:r2Number	3 ;
+	dbo:runwayDesignation	"03/21" ,
+		"12/30" ;
+	dbo:runwayLength	2986.0 ,
+		1905.0 ;
+	dbo:runwaySurface	"Asphalt" ,
+		"Concrete/Asphalt" ;
+	dbp:iata	"PIK"@en ;
+	dbp:icao	"EGPK"@en ;
+	dbo:wikiPageExternalLink	<https://www.glasgowprestwick.com> ,
+		<https://www.caa.co.uk/Data-and-analysis/UK-aviation-market/Airports/Datasets/UK-Airport-data/Airport-data-2017/> ,
+		<https://www.youtube.com/watch%3Fv=8Lcw0wxiuFg> ,
+		<https://web.archive.org/web/20170313043152/http:/www.caa.co.uk/Data-and-analysis/UK-aviation-market/Airports/Datasets/UK-Airport-data/Airport-data-2018/> ;
+	dbp:stat3Data	24904 ;
+	dbp:stat3Header	"Aircraft movements"@en ;
+	dbp:cityServed	dbr:Glasgow ;
+	dbo:city	dbr:Glasgow ;
+	dbo:elevation	20.116800000000001347 ;
+	dbp:statYear	2018 .
+@prefix ns37:	<http://dbpedia.org/datatype/> .
+dbr:Glasgow_Prestwick_Airport	dbp:stat4Data	"0.0"^^ns37:perCent ;
+	dbp:r1Surface	"Concrete/Asphalt"@en ;
+	dbp:r2Surface	"Asphalt"@en ;
+	dbp:stat1Data	681715 ;
+	dbp:stat1Header	"Passengers"@en ;
+	dbp:stat2Data	"2.1"^^ns37:perCent ;
+	dbp:stat2Header	"Passenger change 17-18"@en ;
+	dbo:wikiPageID	282793 ;
+	dbo:wikiPageRevisionID	985765805 ;
+	dbo:wikiPageWikiLink	dbc:Airfields_of_the_United_States_Army_Air_Forces_Air_Transport_Command_on_the_North_Atlantic_Route ,
+		dbr:Virgin_Atlantic ,
+		dbr:NATS_Holdings ,
+		dbr:Farnborough_Airshow ,
+		dbr:World_War_II ,
+		dbr:Kilwinning ,
+		dbr:Aberdeen_Airport ,
+		dbr:Troon ,
+		<http://dbpedia.org/resource/Turnberry_(golf_course)> ,
+		dbr:Bristow_Helicopters ,
+		dbr:Prestwick_International_Airport_railway_station ,
+		dbr:Donald_Trump ,
+		dbr:South_Ayrshire ,
+		dbr:Network_Rail ,
+		dbr:Ryanair ,
+		dbc:Airports_in_Scotland ,
+		dbr:BBC ,
+		dbr:Manston_Airport ,
+		<http://dbpedia.org/resource/Orangefield_House,_South_Ayrshire> ,
+		dbr:Inverness_Airport ,
+		<http://dbpedia.org/resource/Rzesz\u00F3w\u2013Jasionka_Airport> ,
+		dbr:Low-cost_carrier ,
+		dbc:Public_corporations_of_the_Scottish_Government ,
+		dbr:New_York_City ,
+		dbr:Dublin ,
+		dbr:British_commercial_spaceport_competition ,
+		<http://dbpedia.org/resource/Paisley,_Renfrewshire> ,
+		dbr:Fail_Monastery ,
+		<http://dbpedia.org/resource/Channel_5_(British_TV_channel)> ,
+		dbc:Manufacturing_plants_in_Scotland ,
+		dbr:Stagecoach_Group ,
+		<http://dbpedia.org/resource/Beauvais\u2013Till\u00E9_Airport> ,
+		dbr:RAF_Fairford ,
+		dbr:The_History_Press ,
+		<http://dbpedia.org/resource/Ciampino\u2013G._B._Pastine_International_Airport> ,
+		dbr:United_States_Air_Force ,
+		dbr:Tenerife_South_Airport ,
+		<http://dbpedia.org/resource/Girona\u2013Costa_Brava_Airport> ,
+		dbr:Extraordinary_rendition ,
+		dbr:Kilt ,
+		dbr:Fuerteventura_Airport ,
+		dbr:Ibiza_Airport ,
+		dbr:Glasgow ,
+		dbr:Rebranding ,
+		dbr:Highland_Emergency ,
+		dbc:Transport_in_South_Ayrshire ,
+		dbr:Gran_Canaria_Airport ,
+		dbr:Renfrewshire ,
+		dbr:Scottish_Government ,
+		dbr:Fleet_Air_Arm ,
+		dbr:Asphalt_concrete ,
+		dbr:Nicola_Sturgeon ,
+		<http://dbpedia.org/resource/Alicante\u2013Elche_Airport> ,
+		dbr:Transatlantic_flight ,
+		dbr:United_States_Marine_Corps ,
+		dbr:Bill_Kenwright ,
+		dbr:Nationalization ,
+		dbr:British_Overseas_Airways_Corporation ,
+		dbr:Ayr ,
+		dbr:Search_and_rescue ,
+		dbr:Air_show ,
+		<http://dbpedia.org/resource/Citro\u00EBn_2CV> ,
+		dbr:Ayrshire_Coast_Line ,
+		dbr:Stevenston ,
+		<http://dbpedia.org/resource/M\u00E1laga_Airport> ,
+		<http://dbpedia.org/resource/Top_Gear_(2002_TV_series)> ,
+		dbr:London ,
+		dbr:BBC_Scotland ,
+		dbr:Ken_Bruce ,
+		dbr:BBC_Radio_2 ,
+		dbr:Boeing_377_Stratocruiser ,
+		<http://dbpedia.org/resource/Category:1934_establishments_in_Scotland> ,
+		dbc:Airfields_of_the_United_States_Army_Air_Forces_in_the_United_Kingdom ,
+		dbr:Edinburgh_Airport ,
+		dbr:Stroud ,
+		dbr:Palma_de_Mallorca_Airport ,
+		dbc:Prestwick ,
+		dbr:EgyptAir ,
+		dbr:Abellio_ScotRail ,
+		dbr:Ford_Mondeo ,
+		<http://dbpedia.org/resource/File:AreaPartenzeGlasgoPrestwickAirport.JPG> ,
+		<http://dbpedia.org/resource/File:Elvis_Presley_sign,_Prestwick_Airport,_Scotland.jpg> ,
+		dbr:Pisa_International_Airport ,
+		<http://dbpedia.org/resource/File:Prestwick_from_the_air_2.jpg> ,
+		<http://dbpedia.org/resource/File:Prestwick_International_Airport_railway_station_-_view_towards_Ayr_with_airport_link_overbridge.jpg> ,
+		dbc:Aircraft_assembly_plants_in_the_United_Kingdom ,
+		dbr:Lanzarote_Airport ,
+		dbr:Elvis_Presley ,
+		dbr:Wellington_Airport ,
+		dbr:Ardrossan ,
+		dbr:Dublin_Airport ,
+		dbr:Robert_Burns ,
+		<http://dbpedia.org/resource/Murcia\u2013San_Javier_Airport> ,
+		dbr:Tommy_Steele ,
+		dbr:International_airport ,
+		dbr:Ann_Gloag ,
+		<http://dbpedia.org/resource/Civil_Aviation_Authority_(United_Kingdom)> ,
+		dbr:A_roads_in_Zone_7_of_the_Great_Britain_numbering_scheme ,
+		dbr:Warsaw ,
+		<http://dbpedia.org/resource/1954_Prestwick_air_disaster> ,
+		dbr:Defense_Logistics_Agency ,
+		dbr:Glasgow_Airport ,
+		dbr:Faro_Airport ,
+		dbr:Infratil ,
+		dbr:West_Germany ,
+		dbr:Spaceport ,
+		dbr:Robert_Burns_World_Federation ,
+		dbr:United_Kingdom ,
+		dbr:United_States ,
+		dbr:Government_of_the_United_Kingdom ,
+		dbr:Boeing_747-400 ,
+		dbr:Kilmarnock ,
+		<http://dbpedia.org/resource/Holyrood,_Edinburgh> ,
+		dbc:Airports_established_in_1934 ,
+		dbr:Air_National_Guard ,
+		dbr:Prestwick ,
+		<http://dbpedia.org/resource/Regi\u00F3n_de_Murcia_International_Airport> ,
+		dbr:Deputy_First_Minister_of_Scotland ,
+		dbr:United_States_Navy ,
+		dbr:Queen_Elizabeth_The_Queen_Mother ,
+		<http://dbpedia.org/resource/Casino_Royale_(2006_film)> ,
+		dbr:London_Stansted_Airport ,
+		dbr:Aeronautical_Information_Publication ,
+		dbr:Royal_Air_Force ,
+		<http://dbpedia.org/resource/HMS_Gannet_(stone_frigate)> ,
+		dbr:Taxiway ,
+		dbr:Saltcoats ,
+		dbr:Glasgow_Airport_attack ,
+		dbr:Glasgow_patter ,
+		<http://dbpedia.org/resource/Everton_F.C.> ,
+		dbr:Whisky ,
+		dbr:Westland_Sea_King ,
+		<http://dbpedia.org/resource/Josep_Tarradellas_Barcelona\u2013El_Prat_Airport> ,
+		dbr:Sikorsky_S-92 ,
+		dbr:Scotland .
+@prefix dbt:	<http://dbpedia.org/resource/Template:> .
+dbr:Glasgow_Prestwick_Airport	dbp:wikiPageUsesTemplate	dbt:GBP ,
+		dbt:Airport_codes ,
+		dbt:Commons_category-inline ,
+		dbt:Increase ,
+		dbt:Airport_destination_list ,
+		dbt:Air_Force_Historical_Research_Agency ,
+		dbt:Use_dmy_dates ,
+		dbt:Decrease ,
+		dbt:Portalbar ,
+		dbt:Convert ,
+		<http://dbpedia.org/resource/Template:Airports_in_the_United_Kingdom,_the_British_Crown_Dependencies_and_British_Overseas_Territories> ,
+		dbt:Airports_in_Scotland ,
+		dbt:Scottish_Government_Nationalised_Industries ,
+		dbt:Transport_in_Glasgow ,
+		dbt:NWS-current ,
+		dbt:ASN ,
+		dbt:Infobox_airport ,
+		dbt:Flagicon ,
+		dbt:Authority_control ,
+		dbt:Reflist ,
+		dbt:EngvarB ,
+		dbt:Coord ,
+		<http://dbpedia.org/resource/Template:What%3F> ,
+		dbt:Cite_book ;
+	dbo:wikiPageLength	"37719"^^xsd:nonNegativeInteger ;
+	dbp:stat4Header	"Movements change 17-18"@en .
+<http://dbpedia.org/resource/Laker_Airways_(Bahamas)>	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport ;
+	dbp:destinations	dbr:Glasgow_Prestwick_Airport ;
+	dbo:destination	dbr:Glasgow_Prestwick_Airport .
+dbr:List_of_accidents_and_incidents_involving_the_Vickers_Viscount	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+dbr:Crimson_Route	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+dbr:Westland_Sea_King	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+<http://dbpedia.org/resource/1970_Birthday_Honours>	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+dbr:RAF_Prestwick	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+dbr:Fairy_Lochs	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+dbr:Port_Logan	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+dbr:Public_bodies_of_the_Scottish_Government	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+<http://dbpedia.org/resource/1977_British_Airtours_Boeing_707_crash>	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+@prefix ns39:	<http://dbpedia.org/resource/Linesman/> .
+ns39:Mediator	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+<http://dbpedia.org/resource/819_Naval_Air_Squadron>	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+dbr:Paul_Quine	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+<http://dbpedia.org/resource/S\u00E4ve_Airport>	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+dbr:Kilwinning	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+dbr:Prestwick_International_Airport_railway_station	dbp:manager	dbr:Glasgow_Prestwick_Airport ;
+	dbo:location	dbr:Glasgow_Prestwick_Airport ;
+	dbp:locale	dbr:Glasgow_Prestwick_Airport ;
+	dbo:operator	dbr:Glasgow_Prestwick_Airport ;
+	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+dbr:Giffnock	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+dbr:Girdle_Toll	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+dbr:Shawlands	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+dbr:Drongan	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+dbr:Pollok	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+<http://dbpedia.org/resource/Monkton,_South_Ayrshire>	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+dbr:Monkton_railway_station	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+dbr:Johnstone	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+<http://dbpedia.org/resource/M8_motorway_(Scotland)>	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+<http://dbpedia.org/resource/Glasgow_(disambiguation)>	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport ;
+	dbo:wikiPageDisambiguates	dbr:Glasgow_Prestwick_Airport .
+<http://dbpedia.org/resource/Carrick,_Cumnock_and_Doon_Valley_(UK_Parliament_constituency)>	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+dbr:Detroit_Metropolitan_Airport	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+dbr:Kalitta_Air	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+@prefix ns40:	<http://dbpedia.org/resource/List_of_airports_by_IATA_airport_code:> .
+ns40:_P	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+dbr:List_of_Pan_Am_destinations	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+dbr:July_1969	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+dbr:Logan_International_Airport	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+dbr:Tommy_Steele	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+dbr:State-owned_enterprises_of_the_United_Kingdom	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+dbr:North_Atlantic_Tracks	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+dbr:RAF_Search_and_Rescue_Force	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+dbr:EGPK	dbo:wikiPageRedirects	dbr:Glasgow_Prestwick_Airport ;
+	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+dbr:Prestwick_Airport	dbo:wikiPageRedirects	dbr:Glasgow_Prestwick_Airport ;
+	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+dbr:Prestwick_International_Airport	dbo:wikiPageRedirects	dbr:Glasgow_Prestwick_Airport ;
+	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+dbr:Prestwick_International	dbo:wikiPageRedirects	dbr:Glasgow_Prestwick_Airport ;
+	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+dbr:Glasgow-Prestwick	dbo:wikiPageRedirects	dbr:Glasgow_Prestwick_Airport ;
+	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+dbr:Glasgow-Prestwick_Airport	dbo:wikiPageRedirects	dbr:Glasgow_Prestwick_Airport ;
+	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+dbr:Glasgow_Prestwick	dbo:wikiPageRedirects	dbr:Glasgow_Prestwick_Airport ;
+	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+dbr:Glasgow_Prestwick_International	dbo:wikiPageRedirects	dbr:Glasgow_Prestwick_Airport ;
+	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+dbr:Glasgow_Prestwick_International_Airport	dbo:wikiPageRedirects	dbr:Glasgow_Prestwick_Airport ;
+	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+dbr:List_of_border_crossing_points_in_France	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+dbr:Charles_de_Gaulle_Airport	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+dbr:Carcassonne	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+<http://dbpedia.org/resource/1948_in_aviation>	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+dbr:Luxembourg_Airport	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+dbr:Scottish_Airways	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+dbr:Air_Transport_Command	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+<http://dbpedia.org/resource/List_of_accidents_and_incidents_involving_military_aircraft_(1945\u20131949)>	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+dbr:List_of_accidents_and_incidents_involving_the_Douglas_DC-4	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+dbr:List_of_cities_with_more_than_one_airport	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+<http://dbpedia.org/resource/Josep_Tarradellas_Barcelona\u2013El_Prat_Airport>	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+<http://dbpedia.org/resource/Memphis_Belle_(aircraft)>	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+dbr:Battle_of_Brightlingsea	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+<http://dbpedia.org/resource/Midland_&_Scottish_Air_Ferries>	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+dbr:Donegal_Airport	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+dbr:Stranraer	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+<http://dbpedia.org/resource/1965_Birthday_Honours>	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+<http://dbpedia.org/resource/1954_Prestwick_air_disaster>	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+dbr:Joseph_Lea_Gleave	dbp:significantProjects	dbr:Glasgow_Prestwick_Airport ;
+	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport ;
+	dbo:significantProject	dbr:Glasgow_Prestwick_Airport .
+dbr:Accidents_and_incidents_involving_the_Consolidated_B-24_Liberator	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+dbr:Prestwick	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+dbr:Ally_MacLeod	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+<http://dbpedia.org/resource/Jimmy_Campbell_(footballer,_born_1921)>	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+dbr:Scottish_Aviation_Twin_Pioneer	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+<http://dbpedia.org/resource/List_of_accidents_and_incidents_involving_military_aircraft_(1950\u20131954)>	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+dbr:Berlin_Tegel_Airport	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+dbr:Ryanair	dbp:bases	dbr:Glasgow_Prestwick_Airport ;
+	dbo:targetAirport	dbr:Glasgow_Prestwick_Airport ;
+	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+<http://dbpedia.org/resource/1958_Birthday_Honours>	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+dbr:Ian_McCaskill	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+<http://dbpedia.org/resource/List_of_accidents_and_incidents_involving_airliners_by_airline_(A\u2013C)>	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+dbr:National_Museum_of_Flight	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+dbr:British_Purchasing_Commission	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+dbr:The_Bhoys_from_Seville	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+dbr:Scotland	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+dbr:Southern_Uplands	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+dbr:Bangor_Air_National_Guard_Base	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+dbr:Military_career_of_Elvis_Presley	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+dbr:Iqaluit_Airport	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+dbr:North_Atlantic_air_ferry_route_in_World_War_II	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+<http://dbpedia.org/resource/305th_Operations_Group>	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+<http://dbpedia.org/resource/390th_Strategic_Missile_Wing>	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+<http://dbpedia.org/resource/91st_Bombardment_Group>	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+dbr:Aeronautical_Rescue_Coordination_Centre	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+<http://dbpedia.org/resource/Ciampino\u2013G._B._Pastine_International_Airport>	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+dbr:Royal_Troon_Golf_Club	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+dbr:Douglas_Sannachan	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+<http://dbpedia.org/resource/1948_in_Scotland>	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+dbr:RAF_Gailes	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+dbr:Ayrshire_Coast_Line	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+dbr:MV_Craigantlet	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+dbr:Ian_Welsh	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+dbr:A78_road	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport ;
+	dbp:destinations	dbr:Glasgow_Prestwick_Airport .
+dbr:Air_Caledonian	dbp:bases	dbr:Glasgow_Prestwick_Airport ;
+	dbo:targetAirport	dbr:Glasgow_Prestwick_Airport ;
+	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+<http://dbpedia.org/resource/Ayr_(Scottish_Parliament_constituency)>	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+dbr:Glasgow_Seaplane_Terminal	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+<http://dbpedia.org/resource/The_High_Life_(1994_TV_series)>	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+<http://dbpedia.org/resource/1954_in_aviation>	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+<http://dbpedia.org/resource/2013_in_aviation>	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+dbr:Flyglobespan	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+dbr:Wardair	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+dbr:Eurodirect	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport ;
+	dbp:destinations	dbr:Glasgow_Prestwick_Airport ;
+	dbo:destination	dbr:Glasgow_Prestwick_Airport .
+dbr:List_of_Air_Wales_destinations	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+<http://dbpedia.org/resource/1948_KLM_Constellation_air_disaster>	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+dbr:Belfast_International_Airport	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+dbr:List_of_Ryanair_destinations	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+dbr:List_of_Cargolux_destinations	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+dbr:Edinburgh_Airport	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+dbr:List_of_Air_France_destinations	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+dbr:Dubrovnik_Airline	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+dbr:British_Overseas_Airways_Corporation	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+dbr:List_of_accidents_and_incidents_involving_airliners_in_the_United_Kingdom	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+dbr:List_of_aircraft_accidents_and_incidents_by_number_of_ground_fatalities	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+@prefix ns41:	<http://dbpedia.org/resource/List_of_airports_by_ICAO_code:> .
+ns41:_E	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+dbr:List_of_international_airports_by_country	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+dbr:Dan-Air	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+dbr:List_of_Wizz_Air_destinations	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+dbr:West_Atlantic_UK	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+dbr:British_Caledonian	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+dbr:British_Caledonian_in_the_1970s	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+dbr:British_Caledonian_in_the_1980s	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+dbr:British_European_Airways	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+dbr:List_of_Singapore_Airlines_Cargo_destinations	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+dbr:Manston_Airport	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+<http://dbpedia.org/resource/Commando_(aircraft)>	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+dbr:Scotland_national_football_team	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+dbr:Free_economic_zone	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+dbr:Sumburgh_Airport	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+dbr:Cargolux	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+dbr:George_Bush_Intercontinental_Airport	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+<http://dbpedia.org/resource/Seattle\u2013Tacoma_International_Airport>	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+dbr:Laker_Airways	dbp:focusCities	dbr:Glasgow_Prestwick_Airport ;
+	dbo:targetAirport	dbr:Glasgow_Prestwick_Airport ;
+	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+dbr:Faro_Airport	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+<http://dbpedia.org/resource/1959_in_Scotland>	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+dbr:British_Airways_Engineering	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+dbr:List_of_V_Bomber_dispersal_bases	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+dbr:BAE_Systems_Regional_Aircraft	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+<http://dbpedia.org/resource/771_Naval_Air_Squadron>	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+dbr:Pisa_International_Airport	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+<http://dbpedia.org/resource/2009_Buachaille_Etive_M\u00F2r_avalanche>	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+dbr:Somerset_Park	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+dbr:Air_Ecosse	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+dbr:List_of_air_stations_of_the_Royal_Navy	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+dbr:British_commercial_spaceport_competition	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+dbr:Robert_Burns_World_Federation	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+<http://dbpedia.org/resource/Regi\u00F3n_de_Murcia_International_Airport>	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+<http://dbpedia.org/resource/Kingston_Bridge,_Glasgow>	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+dbr:Scottish_Aviation_Scamp	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .
+dbr:A77_road	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport ;
+	dbp:destinations	dbr:Glasgow_Prestwick_Airport .
+<http://dbpedia.org/resource/Glasgow_Airport_(disambiguation)>	dbo:wikiPageWikiLink	dbr:Glasgow_Prestwick_Airport .

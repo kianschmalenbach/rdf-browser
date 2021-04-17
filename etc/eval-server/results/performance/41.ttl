@@ -1,0 +1,349 @@
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+dbr:Kreuztal_station	dbo:wikiPageWikiLink	dbr:Hilchenbach .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Hilchenbach	rdf:type	wikidata:Q3957 ,
+		wikidata:Q486972 .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Hilchenbach	rdf:type	yago:YagoGeoEntity ,
+		dbo:Settlement ,
+		yago:Town108665504 ,
+		yago:YagoPermanentlyLocatedEntity ,
+		yago:YagoLegalActorGeo ,
+		dbo:Town ,
+		yago:AdministrativeDistrict108491826 ,
+		dbo:Place ,
+		yago:GeographicalArea108574314 ,
+		yago:District108552138 .
+@prefix geo:	<http://www.w3.org/2003/01/geo/wgs84_pos#> .
+dbr:Hilchenbach	rdf:type	geo:SpatialThing ,
+		yago:Object100002684 ,
+		yago:PhysicalEntity100001930 ,
+		yago:Region108630985 .
+@prefix schema:	<http://schema.org/> .
+dbr:Hilchenbach	rdf:type	schema:Place ,
+		yago:UrbanArea108675967 ,
+		yago:WikicatTownsInNorthRhine-Westphalia .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Hilchenbach	rdf:type	owl:Thing ,
+		dbo:Location ,
+		dbo:PopulatedPlace ,
+		yago:Municipality108626283 ,
+		yago:Location100027167 .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Hilchenbach	rdfs:label	"Hilchenbach"@pl ,
+		"\u0413\u0456\u043B\u044C\u0445\u0435\u043D\u0431\u0430\u0445"@uk ,
+		"Hilchenbach"@nl ,
+		"Hilchenbach"@de ,
+		"\u5E0C\u5C14\u5174\u5DF4\u8D6B"@zh ,
+		"\u30D2\u30EB\u30D2\u30A7\u30F3\u30D0\u30C3\u30CF"@ja ,
+		"Hilchenbach"@es ,
+		"\u0425\u0438\u043B\u044C\u0445\u0435\u043D\u0431\u0430\u0445"@ru ,
+		"\u0647\u064A\u0644\u0634\u0646\u0628\u0627\u062E"@ar ,
+		"Hilchenbach"@pt ,
+		"Hilchenbach"@en ,
+		"Hilchenbach"@it ,
+		"Hilchenbach"@fr ,
+		"Hilchenbach"@sv ;
+	rdfs:comment	"Hilchenbach [\u02C8h\u026Al\u00E7n\u0329\u02CCba\u03C7] \u2013 miasto w Niemczech, po\u0142o\u017Cone w kraju zwi\u0105zkowym Nadrenia P\u00F3\u0142nocna-Westfalia, w rejencji Arnsberg, w powiecie Siegen-Wittgenstein. W 2010 roku liczy\u0142o 15 520 mieszka\u0144c\u00F3w."@pl ,
+		"Hilchenbach ist eine Stadt in Nordrhein-Westfalen, Deutschland. Sie geh\u00F6rt zum Kreis Siegen-Wittgenstein."@de ,
+		"Hilchenbach \u00E4r en stad i Kreis Siegen-Wittgenstein i det tyska f\u00F6rbundslandet Nordrhein-Westfalen. Hilchenbach, som f\u00F6r f\u00F6rsta g\u00E5ngen omn\u00E4mns i ett dokument fr\u00E5n den 17 juni 1292, hade 15 189 inv\u00E5nare \u00E5r 2012."@sv ,
+		"\u0647\u064A\u0644\u0634\u0646\u0628\u0627\u062E (\u0628\u0627\u0644\u0623\u0644\u0645\u0627\u0646\u064A\u0629: Hilchenbach) \u0647\u064A \u0628\u0644\u062F\u0629 \u0623\u0644\u0645\u0627\u0646\u064A\u0629 \u062A\u0642\u0639 \u0641\u064A \u0623\u0644\u0645\u0627\u0646\u064A\u0627 \u0641\u064A . \u064A\u0642\u062F\u0631 \u0639\u062F\u062F \u0633\u0643\u0627\u0646\u0647\u0627 \u0628\u0640 15,787 \u0646\u0633\u0645\u0629 ."@ar ,
+		"Hilchenbach es un municipio situado en el distrito de Siegen-Wittgenstein, en el estado federado de Renania del Norte-Westfalia (Alemania), con una poblaci\u00F3n a finales de 2016 de unos 15 039 habitantes.\u200B Se encuentra ubicado en la zona centro-sur del estado, en la regi\u00F3n de Arnsberg, cerca de la orilla del r\u00EDo Sieg \u2014un afluente derecho del Rin\u2014 y de la frontera con los estados de Hesse y Renania-Palatinado."@es ,
+		"\u0425\u0438\u043B\u044C\u0445\u0435\u043D\u0431\u0430\u0445 (\u043D\u0435\u043C. Hilchenbach) \u2014 \u0433\u043E\u0440\u043E\u0434 \u0432 \u0413\u0435\u0440\u043C\u0430\u043D\u0438\u0438, \u0432 \u0437\u0435\u043C\u043B\u0435 \u0421\u0435\u0432\u0435\u0440\u043D\u044B\u0439 \u0420\u0435\u0439\u043D-\u0412\u0435\u0441\u0442\u0444\u0430\u043B\u0438\u044F. \u041F\u043E\u0434\u0447\u0438\u043D\u0451\u043D \u0430\u0434\u043C\u0438\u043D\u0438\u0441\u0442\u0440\u0430\u0442\u0438\u0432\u043D\u043E\u043C\u0443 \u043E\u043A\u0440\u0443\u0433\u0443 \u0410\u0440\u043D\u0441\u0431\u0435\u0440\u0433. \u0412\u0445\u043E\u0434\u0438\u0442 \u0432 \u0441\u043E\u0441\u0442\u0430\u0432 \u0440\u0430\u0439\u043E\u043D\u0430 \u0417\u0438\u0433\u0435\u043D-\u0412\u0438\u0442\u0442\u0433\u0435\u043D\u0448\u0442\u0430\u0439\u043D. \u041D\u0430\u0441\u0435\u043B\u0435\u043D\u0438\u0435 \u0441\u043E\u0441\u0442\u0430\u0432\u043B\u044F\u0435\u0442 15 520 \u0447\u0435\u043B\u043E\u0432\u0435\u043A (\u043D\u0430 31 \u0434\u0435\u043A\u0430\u0431\u0440\u044F 2010 \u0433\u043E\u0434\u0430). \u0417\u0430\u043D\u0438\u043C\u0430\u0435\u0442 \u043F\u043B\u043E\u0449\u0430\u0434\u044C 80,88 \u043A\u043C\u00B2. \u041E\u0444\u0438\u0446\u0438\u0430\u043B\u044C\u043D\u044B\u0439 \u043A\u043E\u0434 \u2014 05 9 70 020. \u0413\u043E\u0440\u043E\u0434 \u043F\u043E\u0434\u0440\u0430\u0437\u0434\u0435\u043B\u044F\u0435\u0442\u0441\u044F \u043D\u0430 12 \u0433\u043E\u0440\u043E\u0434\u0441\u043A\u0438\u0445 \u0440\u0430\u0439\u043E\u043D\u043E\u0432."@ru ,
+		"Hilchenbach \u00E8 una citt\u00E0 di 15.920 abitanti della Renania Settentrionale-Vestfalia, in Germania. Appartiene al distretto governativo (Regierungsbezirk) di Arnsberg ed al circondario (Kreis) di Siegen-Wittgenstein (targa SI)."@it ,
+		"\u30D2\u30EB\u30D2\u30A7\u30F3\u30D0\u30C3\u30CF (\u30C9\u30A4\u30C4\u8A9E: Hilchenbach, [\u02C8h\u026Al\u00E7n\u0329bax]) \u306F\u3001\u30C9\u30A4\u30C4\u9023\u90A6\u5171\u548C\u56FD\u30CE\u30EB\u30C8\u30E9\u30A4\u30F3\uFF1D\u30F4\u30A7\u30B9\u30C8\u30D5\u30A1\u30FC\u30EC\u30F3\u5DDE\u30A2\u30EB\u30F3\u30B9\u30D9\u30EB\u30AF\u884C\u653F\u7BA1\u533A\u306E\u30B8\u30FC\u30B2\u30F3\uFF1D\u30F4\u30A3\u30C8\u30B2\u30F3\u30B7\u30E5\u30BF\u30A4\u30F3\u90E1\u306E\u5E02\u3067\u3042\u308B\u3002"@ja ,
+		"\u5E0C\u5C14\u5174\u5DF4\u8D6B\uFF08\u5FB7\u8BED\uFF1AHilchenbach\uFF09\u662F\u5FB7\u56FD\u5317\u83B1\u8335-\u5A01\u65AF\u7279\u6CD5\u4F26\u5DDE\u7684\u4E00\u4E2A\u5E02\u9547\u3002\u603B\u9762\u79EF81.12\u5E73\u65B9\u516C\u91CC\uFF0C\u603B\u4EBA\u53E315394\u4EBA\uFF0C\u5176\u4E2D\u7537\u60277666\u4EBA\uFF0C\u5973\u60277728\u4EBA\uFF082011\u5E7412\u670831\u65E5\uFF09\uFF0C\u4EBA\u53E3\u5BC6\u5EA6190\u4EBA/\u5E73\u65B9\u516C\u91CC\u3002"@zh ,
+		"Hilchenbach is a town in the Siegen-Wittgenstein Kreis (district) of North Rhine-Westphalia, Germany."@en ,
+		"\u0413\u0456\u043B\u044C\u0445\u0435\u043D\u0431\u0430\u0445 (\u043D\u0456\u043C. Hilchenbach) \u2014 \u043C\u0456\u0441\u0442\u043E \u0432 \u041D\u0456\u043C\u0435\u0447\u0447\u0438\u043D\u0456, \u0437\u043D\u0430\u0445\u043E\u0434\u0438\u0442\u044C\u0441\u044F \u0432 \u0437\u0435\u043C\u043B\u0456 \u041F\u0456\u0432\u043D\u0456\u0447\u043D\u0438\u0439 \u0420\u0435\u0439\u043D-\u0412\u0435\u0441\u0442\u0444\u0430\u043B\u0456\u044F. \u041F\u0456\u0434\u043F\u043E\u0440\u044F\u0434\u043A\u043E\u0432\u0443\u0454\u0442\u044C\u0441\u044F \u0430\u0434\u043C\u0456\u043D\u0456\u0441\u0442\u0440\u0430\u0442\u0438\u0432\u043D\u043E\u043C\u0443 \u043E\u043A\u0440\u0443\u0433\u0443 \u0410\u0440\u043D\u0441\u0431\u0435\u0440\u0433. \u0412\u0445\u043E\u0434\u0438\u0442\u044C \u0434\u043E \u0441\u043A\u043B\u0430\u0434\u0443 \u0440\u0430\u0439\u043E\u043D\u0443 \u0417\u0456\u0433\u0435\u043D-\u0412\u0456\u0442\u0442\u0433\u0435\u043D\u0448\u0442\u0430\u0439\u043D. \u041F\u043B\u043E\u0449\u0430 \u2014 80,88 \u043A\u043C2. \u041D\u0430\u0441\u0435\u043B\u0435\u043D\u043D\u044F \u0441\u0442\u0430\u043D\u043E\u0432\u0438\u0442\u044C 14 949 \u043E\u0441. (\u0441\u0442\u0430\u043D\u043E\u043C \u043D\u0430 31 \u0433\u0440\u0443\u0434\u043D\u044F 2017)."@uk ,
+		"Hilchenbach is een gemeente in de Duitse deelstaat Noordrijn-Westfalen, gelegen in de Kreis Siegen-Wittgenstein. De plaats telt 14.947 inwoners. In de omgeving van Hilchenbach ligt de \"Ginsburg\", een ru\u00EFne van een kasteel uit de 12de eeuw, lange tijd een vesting van de dynastie Nassau. De burcht werd voor het eerst in geschriften uit 1255 vermeld. Willem van Oranje verzamelde er in 1568 zijn leger om Nederland van de Spanjaarden te gaan bevrijden."@nl ,
+		"Hilchenbach \u00E9 uma cidade da Alemanha localizado no distrito de Siegen-Wittgenstein, regi\u00E3o administrativa de Arnsberg, estado de Ren\u00E2nia do Norte-Vestf\u00E1lia."@pt ,
+		"Hilchenbach est une ville de Rh\u00E9nanie-du-Nord-Westphalie (Allemagne), situ\u00E9e dans l'arrondissement de Siegen-Wittgenstein, dans le district d'Arnsberg, dans le Landschaftsverband de Westphalie-Lippe. \n*  Portail de la Rh\u00E9nanie-du-Nord-Westphalie"@fr .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+dbr:Hilchenbach	foaf:name	"Hilchenbach"@en ;
+	foaf:homepage	<https://www.hilchenbach.de/> .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Hilchenbach	geo:lat	"50.998332977294921875"^^xsd:float ;
+	geo:long	"8.1094446182250976562"^^xsd:float ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/DEU_Hilchenbach_COA.svg> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+dbr:Hilchenbach	foaf:isPrimaryTopicOf	wikipedia-en:Hilchenbach .
+@prefix virtrdf:	<http://www.openlinksw.com/schemas/virtrdf#> .
+dbr:Hilchenbach	geo:geometry	"POINT(8.1094446182251 50.998332977295)"^^virtrdf:Geometry .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Hilchenbach	dct:subject	dbc:Province_of_Westphalia ,
+		dbc:Towns_in_North_Rhine-Westphalia ,
+		dbc:Siegen-Wittgenstein ;
+	owl:sameAs	<http://ky.dbpedia.org/resource/\u0425\u0438\u043B\u044C\u0445\u0435\u043D\u0431\u0430\u0445> ,
+		<http://viaf.org/viaf/156037988> ,
+		<http://ceb.dbpedia.org/resource/Hilchenbach_(munisipyo)> ,
+		<http://rdf.freebase.com/ns/m.0bly1z> .
+@prefix dbpedia-vo:	<http://vo.dbpedia.org/resource/> .
+dbr:Hilchenbach	owl:sameAs	dbpedia-vo:Hilchenbach .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Hilchenbach	owl:sameAs	dbpedia-fr:Hilchenbach .
+@prefix ns17:	<http://d-nb.info/gnd/4024865-3/about/> .
+dbr:Hilchenbach	owl:sameAs	ns17:rdf ,
+		<http://sws.geonames.org/2904808> .
+@prefix dbpedia-sv:	<http://sv.dbpedia.org/resource/> .
+dbr:Hilchenbach	owl:sameAs	dbpedia-sv:Hilchenbach ,
+		<http://musicbrainz.org/area/1cad89e3-f401-463e-a6cb-60eff079ed71> ,
+		dbr:Hilchenbach ,
+		wikidata:Q10949 ,
+		<http://uk.dbpedia.org/resource/\u0413\u0456\u043B\u044C\u0445\u0435\u043D\u0431\u0430\u0445> ,
+		<http://viaf.org/viaf/239433506> .
+@prefix lgdt:	<http://linkedgeodata.org/triplify/> .
+dbr:Hilchenbach	owl:sameAs	lgdt:node240116127 .
+@prefix ns20:	<https://global.dbpedia.org/id/> .
+dbr:Hilchenbach	owl:sameAs	ns20:AJ6b .
+@prefix ns21:	<http://uz.dbpedia.org/resource/> .
+dbr:Hilchenbach	owl:sameAs	ns21:Hilchenbach .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Hilchenbach	owl:sameAs	dbpedia-pt:Hilchenbach ,
+		<http://zh.dbpedia.org/resource/\u5E0C\u5C14\u5174\u5DF4\u8D6B> ,
+		<http://bg.dbpedia.org/resource/\u0425\u0438\u043B\u0445\u0435\u043D\u0431\u0430\u0445> ,
+		<http://fa.dbpedia.org/resource/\u0647\u06CC\u0644\u0634\u0646\u0628\u0627\u062E> .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Hilchenbach	owl:sameAs	yago-res:Hilchenbach .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Hilchenbach	owl:sameAs	dbpedia-it:Hilchenbach ,
+		<http://sr.dbpedia.org/resource/\u0425\u0438\u043B\u0445\u0435\u043D\u0431\u0430\u0445> ,
+		<http://ja.dbpedia.org/resource/\u30D2\u30EB\u30D2\u30A7\u30F3\u30D0\u30C3\u30CF> .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Hilchenbach	owl:sameAs	dbpedia-pl:Hilchenbach .
+@prefix dbpedia-sh:	<http://sh.dbpedia.org/resource/> .
+dbr:Hilchenbach	owl:sameAs	dbpedia-sh:Hilchenbach .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Hilchenbach	owl:sameAs	dbpedia-nl:Hilchenbach ,
+		<http://d-nb.info/gnd/2001445-4> .
+@prefix dbpedia-tr:	<http://tr.dbpedia.org/resource/> .
+dbr:Hilchenbach	owl:sameAs	dbpedia-tr:Hilchenbach ,
+		<http://azb.dbpedia.org/resource/\u0647\u06CC\u0644\u0634\u0646\u0628\u0627\u062E> ,
+		<http://d-nb.info/gnd/4024865-3> ,
+		<http://kk.dbpedia.org/resource/\u0425\u0438\u043B\u044C\u0445\u0435\u043D\u0431\u0430\u0445> ,
+		<http://ru.dbpedia.org/resource/\u0425\u0438\u043B\u044C\u0445\u0435\u043D\u0431\u0430\u0445> .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Hilchenbach	owl:sameAs	dbpedia-de:Hilchenbach .
+@prefix dbpedia-hu:	<http://hu.dbpedia.org/resource/> .
+dbr:Hilchenbach	owl:sameAs	dbpedia-hu:Hilchenbach .
+@prefix dbpedia-war:	<http://war.dbpedia.org/resource/> .
+dbr:Hilchenbach	owl:sameAs	dbpedia-war:Hilchenbach ,
+		<http://sws.geonames.org/6557692/> ,
+		<http://ar.dbpedia.org/resource/\u0647\u064A\u0644\u0634\u0646\u0628\u0627\u062E> .
+@prefix dbpedia-ro:	<http://ro.dbpedia.org/resource/> .
+dbr:Hilchenbach	owl:sameAs	dbpedia-ro:Hilchenbach .
+@prefix dbpedia-ms:	<http://ms.dbpedia.org/resource/> .
+dbr:Hilchenbach	owl:sameAs	dbpedia-ms:Hilchenbach .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:Hilchenbach	owl:sameAs	dbpedia-es:Hilchenbach .
+@prefix georss:	<http://www.georss.org/georss/> .
+dbr:Hilchenbach	georss:point	"50.998333333333335 8.109444444444444" ;
+	schema:sameAs	<http://viaf.org/viaf/156037988> ;
+	dbo:abstract	"Hilchenbach [\u02C8h\u026Al\u00E7n\u0329\u02CCba\u03C7] \u2013 miasto w Niemczech, po\u0142o\u017Cone w kraju zwi\u0105zkowym Nadrenia P\u00F3\u0142nocna-Westfalia, w rejencji Arnsberg, w powiecie Siegen-Wittgenstein. W 2010 roku liczy\u0142o 15 520 mieszka\u0144c\u00F3w."@pl ,
+		"Hilchenbach ist eine Stadt in Nordrhein-Westfalen, Deutschland. Sie geh\u00F6rt zum Kreis Siegen-Wittgenstein."@de ,
+		"\u5E0C\u5C14\u5174\u5DF4\u8D6B\uFF08\u5FB7\u8BED\uFF1AHilchenbach\uFF09\u662F\u5FB7\u56FD\u5317\u83B1\u8335-\u5A01\u65AF\u7279\u6CD5\u4F26\u5DDE\u7684\u4E00\u4E2A\u5E02\u9547\u3002\u603B\u9762\u79EF81.12\u5E73\u65B9\u516C\u91CC\uFF0C\u603B\u4EBA\u53E315394\u4EBA\uFF0C\u5176\u4E2D\u7537\u60277666\u4EBA\uFF0C\u5973\u60277728\u4EBA\uFF082011\u5E7412\u670831\u65E5\uFF09\uFF0C\u4EBA\u53E3\u5BC6\u5EA6190\u4EBA/\u5E73\u65B9\u516C\u91CC\u3002"@zh ,
+		"Hilchenbach is een gemeente in de Duitse deelstaat Noordrijn-Westfalen, gelegen in de Kreis Siegen-Wittgenstein. De plaats telt 14.947 inwoners. In de omgeving van Hilchenbach ligt de \"Ginsburg\", een ru\u00EFne van een kasteel uit de 12de eeuw, lange tijd een vesting van de dynastie Nassau. De burcht werd voor het eerst in geschriften uit 1255 vermeld. Willem van Oranje verzamelde er in 1568 zijn leger om Nederland van de Spanjaarden te gaan bevrijden."@nl ,
+		"\u0425\u0438\u043B\u044C\u0445\u0435\u043D\u0431\u0430\u0445 (\u043D\u0435\u043C. Hilchenbach) \u2014 \u0433\u043E\u0440\u043E\u0434 \u0432 \u0413\u0435\u0440\u043C\u0430\u043D\u0438\u0438, \u0432 \u0437\u0435\u043C\u043B\u0435 \u0421\u0435\u0432\u0435\u0440\u043D\u044B\u0439 \u0420\u0435\u0439\u043D-\u0412\u0435\u0441\u0442\u0444\u0430\u043B\u0438\u044F. \u041F\u043E\u0434\u0447\u0438\u043D\u0451\u043D \u0430\u0434\u043C\u0438\u043D\u0438\u0441\u0442\u0440\u0430\u0442\u0438\u0432\u043D\u043E\u043C\u0443 \u043E\u043A\u0440\u0443\u0433\u0443 \u0410\u0440\u043D\u0441\u0431\u0435\u0440\u0433. \u0412\u0445\u043E\u0434\u0438\u0442 \u0432 \u0441\u043E\u0441\u0442\u0430\u0432 \u0440\u0430\u0439\u043E\u043D\u0430 \u0417\u0438\u0433\u0435\u043D-\u0412\u0438\u0442\u0442\u0433\u0435\u043D\u0448\u0442\u0430\u0439\u043D. \u041D\u0430\u0441\u0435\u043B\u0435\u043D\u0438\u0435 \u0441\u043E\u0441\u0442\u0430\u0432\u043B\u044F\u0435\u0442 15 520 \u0447\u0435\u043B\u043E\u0432\u0435\u043A (\u043D\u0430 31 \u0434\u0435\u043A\u0430\u0431\u0440\u044F 2010 \u0433\u043E\u0434\u0430). \u0417\u0430\u043D\u0438\u043C\u0430\u0435\u0442 \u043F\u043B\u043E\u0449\u0430\u0434\u044C 80,88 \u043A\u043C\u00B2. \u041E\u0444\u0438\u0446\u0438\u0430\u043B\u044C\u043D\u044B\u0439 \u043A\u043E\u0434 \u2014 05 9 70 020. \u0413\u043E\u0440\u043E\u0434 \u043F\u043E\u0434\u0440\u0430\u0437\u0434\u0435\u043B\u044F\u0435\u0442\u0441\u044F \u043D\u0430 12 \u0433\u043E\u0440\u043E\u0434\u0441\u043A\u0438\u0445 \u0440\u0430\u0439\u043E\u043D\u043E\u0432."@ru ,
+		"\u0647\u064A\u0644\u0634\u0646\u0628\u0627\u062E (\u0628\u0627\u0644\u0623\u0644\u0645\u0627\u0646\u064A\u0629: Hilchenbach) \u0647\u064A \u0628\u0644\u062F\u0629 \u0623\u0644\u0645\u0627\u0646\u064A\u0629 \u062A\u0642\u0639 \u0641\u064A \u0623\u0644\u0645\u0627\u0646\u064A\u0627 \u0641\u064A . \u064A\u0642\u062F\u0631 \u0639\u062F\u062F \u0633\u0643\u0627\u0646\u0647\u0627 \u0628\u0640 15,787 \u0646\u0633\u0645\u0629 ."@ar ,
+		"\u30D2\u30EB\u30D2\u30A7\u30F3\u30D0\u30C3\u30CF (\u30C9\u30A4\u30C4\u8A9E: Hilchenbach, [\u02C8h\u026Al\u00E7n\u0329bax]) \u306F\u3001\u30C9\u30A4\u30C4\u9023\u90A6\u5171\u548C\u56FD\u30CE\u30EB\u30C8\u30E9\u30A4\u30F3\uFF1D\u30F4\u30A7\u30B9\u30C8\u30D5\u30A1\u30FC\u30EC\u30F3\u5DDE\u30A2\u30EB\u30F3\u30B9\u30D9\u30EB\u30AF\u884C\u653F\u7BA1\u533A\u306E\u30B8\u30FC\u30B2\u30F3\uFF1D\u30F4\u30A3\u30C8\u30B2\u30F3\u30B7\u30E5\u30BF\u30A4\u30F3\u90E1\u306E\u5E02\u3067\u3042\u308B\u3002"@ja ,
+		"Hilchenbach is a town in the Siegen-Wittgenstein Kreis (district) of North Rhine-Westphalia, Germany."@en ,
+		"Hilchenbach est une ville de Rh\u00E9nanie-du-Nord-Westphalie (Allemagne), situ\u00E9e dans l'arrondissement de Siegen-Wittgenstein, dans le district d'Arnsberg, dans le Landschaftsverband de Westphalie-Lippe. \n*  Portail de la Rh\u00E9nanie-du-Nord-Westphalie"@fr ,
+		"\u0413\u0456\u043B\u044C\u0445\u0435\u043D\u0431\u0430\u0445 (\u043D\u0456\u043C. Hilchenbach) \u2014 \u043C\u0456\u0441\u0442\u043E \u0432 \u041D\u0456\u043C\u0435\u0447\u0447\u0438\u043D\u0456, \u0437\u043D\u0430\u0445\u043E\u0434\u0438\u0442\u044C\u0441\u044F \u0432 \u0437\u0435\u043C\u043B\u0456 \u041F\u0456\u0432\u043D\u0456\u0447\u043D\u0438\u0439 \u0420\u0435\u0439\u043D-\u0412\u0435\u0441\u0442\u0444\u0430\u043B\u0456\u044F. \u041F\u0456\u0434\u043F\u043E\u0440\u044F\u0434\u043A\u043E\u0432\u0443\u0454\u0442\u044C\u0441\u044F \u0430\u0434\u043C\u0456\u043D\u0456\u0441\u0442\u0440\u0430\u0442\u0438\u0432\u043D\u043E\u043C\u0443 \u043E\u043A\u0440\u0443\u0433\u0443 \u0410\u0440\u043D\u0441\u0431\u0435\u0440\u0433. \u0412\u0445\u043E\u0434\u0438\u0442\u044C \u0434\u043E \u0441\u043A\u043B\u0430\u0434\u0443 \u0440\u0430\u0439\u043E\u043D\u0443 \u0417\u0456\u0433\u0435\u043D-\u0412\u0456\u0442\u0442\u0433\u0435\u043D\u0448\u0442\u0430\u0439\u043D. \u041F\u043B\u043E\u0449\u0430 \u2014 80,88 \u043A\u043C2. \u041D\u0430\u0441\u0435\u043B\u0435\u043D\u043D\u044F \u0441\u0442\u0430\u043D\u043E\u0432\u0438\u0442\u044C 14 949 \u043E\u0441. (\u0441\u0442\u0430\u043D\u043E\u043C \u043D\u0430 31 \u0433\u0440\u0443\u0434\u043D\u044F 2017)."@uk ,
+		"Hilchenbach \u00E9 uma cidade da Alemanha localizado no distrito de Siegen-Wittgenstein, regi\u00E3o administrativa de Arnsberg, estado de Ren\u00E2nia do Norte-Vestf\u00E1lia."@pt ,
+		"Hilchenbach es un municipio situado en el distrito de Siegen-Wittgenstein, en el estado federado de Renania del Norte-Westfalia (Alemania), con una poblaci\u00F3n a finales de 2016 de unos 15 039 habitantes.\u200B Se encuentra ubicado en la zona centro-sur del estado, en la regi\u00F3n de Arnsberg, cerca de la orilla del r\u00EDo Sieg \u2014un afluente derecho del Rin\u2014 y de la frontera con los estados de Hesse y Renania-Palatinado."@es ,
+		"Hilchenbach \u00E4r en stad i Kreis Siegen-Wittgenstein i det tyska f\u00F6rbundslandet Nordrhein-Westfalen. Hilchenbach, som f\u00F6r f\u00F6rsta g\u00E5ngen omn\u00E4mns i ett dokument fr\u00E5n den 17 juni 1292, hade 15 189 inv\u00E5nare \u00E5r 2012."@sv ,
+		"Hilchenbach \u00E8 una citt\u00E0 di 15.920 abitanti della Renania Settentrionale-Vestfalia, in Germania. Appartiene al distretto governativo (Regierungsbezirk) di Arnsberg ed al circondario (Kreis) di Siegen-Wittgenstein (targa SI)."@it .
+@prefix ns36:	<http://dbpedia.org/resource/local:/resource/> .
+dbr:Hilchenbach	dbo:country	ns36:Germany .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Hilchenbach	dbp:divisions	12 .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Hilchenbach	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Hilchenbach?oldid=985164021&ns=0> ;
+	dbp:type	"Stadt"@en ;
+	dbp:areaCode	2733 ;
+	dbp:postalCode	57271 ;
+	dbo:areaCode	"02733" ;
+	dbo:postalCode	"57271" .
+@prefix ns39:	<http://dbpedia.org/datatype/> .
+@prefix ns40:	<http://dbpedia.org/ontology/PopulatedPlace/> .
+dbr:Hilchenbach	ns40:areaTotal	"80.88"^^ns39:squareKilometre ;
+	dbp:name	"Hilchenbach"@en ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/DEU_Hilchenbach_COA.svg?width=300> ;
+	dbp:website	<https://www.hilchenbach.de/> ;
+	dbo:wikiPageExternalLink	<http://www.ahlering.de/> ,
+		<http://www.muesen.de/> ,
+		<http://reptilien-auffangstation.de> ,
+		<http://www.viktoria-Filmtheater.de> ,
+		<https://www.hilchenbach.de/> ,
+		<https://web.archive.org/web/20070929012056/http:/www.baerengruppe.de/home.htm> .
+@prefix ns41:	<https://www.hilchenbach.de/Presse-Stadtportrait/Stadtgeschichte/> .
+dbr:Hilchenbach	dbo:wikiPageExternalLink	ns41:Zeittafel ,
+		<http://www.xn--lffelstadt-ecb.de/> ,
+		<http://www.ahg.de/ahgde.nsf/FRSEINRICHTUNG/Hilchenbach%3Fopendocument> ,
+		<http://www.eintracht-choere-helberhausen.de/> ;
+	dbp:state	"Nordrhein-Westfalen"@en ;
+	dbp:region	"Arnsberg"@en ;
+	dbp:elevation	360 ;
+	dbp:imagePlan	"Hilchenbach in SI.svg"@en ;
+	dbp:stand	"2009-06-30"^^xsd:date ;
+	<http://dbpedia.org/property/gemeindeschl\u00FCssel>	5970020 ;
+	dbp:licence	"SI"@en ;
+	dbo:licenceNumber	"SI" ;
+	dbo:populationAsOf	"2009-06-30"^^xsd:date ;
+	dbp:population	15787 ;
+	dbp:mayor	"Hans-Peter Hasenstab"@en ;
+	dbo:district	dbr:Siegen-Wittgenstein ;
+	dbp:district	"Siegen-Wittgenstein"@en ;
+	dbp:imageCoa	"DEU Hilchenbach COA.svg"@en ;
+	dbp:area	80.879999999999995453 .
+@prefix ns42:	<http://www.w3.org/2006/03/wn/wn20/instances/> .
+dbr:Hilchenbach	dbp:wordnet_type	ns42:synset-city-noun-3 ;
+	dbo:elevation	360.0 ;
+	dbo:areaTotal	80880000.0 ;
+	dbo:populationTotal	"15787"^^xsd:nonNegativeInteger ;
+	<http://dbpedia.org/property/stra\u00DFe>	"Markt 13"@en ;
+	dbo:wikiPageID	4152176 ;
+	dbo:wikiPageRevisionID	985164021 ;
+	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Gymnasium_(school)> ,
+		<http://dbpedia.org/resource/Church_(building)> ,
+		dbr:Kirchhundem ,
+		dbr:Reformation ,
+		dbr:German_language ,
+		dbr:Physical_therapy ,
+		dbr:Sea_level ,
+		dbr:Netphen ,
+		dbr:Moat ,
+		dbr:Theatre ,
+		dbr:Kreuztal ,
+		dbr:Convent ,
+		dbr:Rothaar_Railway ,
+		dbr:Saxony ,
+		dbr:Seiffen ,
+		dbr:Music_therapy ,
+		dbr:Kingdom_of_Westphalia ,
+		<http://dbpedia.org/resource/Erndtebr\u00FCck> ,
+		dbr:German_Mining_Museum ,
+		dbr:William_of_Nassau-Hilchenbach ,
+		dbr:Robert_Ochsenfeld ,
+		dbr:Ore_Mountains ,
+		dbr:German_Youth_Hostel_Association ,
+		dbr:Conservation_movement ,
+		dbc:Province_of_Westphalia .
+@prefix ns43:	<http://dbpedia.org/resource/Alliance_90/> .
+dbr:Hilchenbach	dbo:wikiPageWikiLink	ns43:The_Greens ,
+		dbr:Movie_theater ,
+		dbr:Coat_of_arms ,
+		dbr:Napoleonic_Wars ,
+		dbr:Congress_of_Vienna ,
+		dbr:Cameralism ,
+		dbr:William_the_Silent ,
+		dbr:Karlsruhe ,
+		dbr:Rothaar_Mountains ,
+		dbr:Keep ,
+		dbr:North_Rhine-Westphalia ,
+		dbr:Archaeology ,
+		dbr:Germany ,
+		dbr:Sieg ,
+		dbr:Arendsee ,
+		dbr:Province_of_Westphalia ,
+		dbr:Social_Democratic_Party_of_Germany ,
+		dbr:Ejection_seat ,
+		dbr:Johann_Heinrich_Jung ,
+		dbr:Animal_welfare ,
+		dbr:Saxony-Anhalt ,
+		<http://dbpedia.org/resource/Free_Democratic_Party_(Germany)> ,
+		dbr:Psychotherapy ,
+		dbr:Districts_of_Germany ,
+		dbr:Occupational_therapy ,
+		<http://dbpedia.org/resource/File:Kreis_Siegen_Hilchenbach.jpg> ,
+		<http://dbpedia.org/resource/File:Kulturpur_zelte.jpg> ,
+		<http://dbpedia.org/resource/File:Stadtgliederung_Hilchenbach.png> ,
+		dbr:County_of_Nassau ,
+		<http://dbpedia.org/resource/Wilhelm_M\u00FCnker> ,
+		dbr:Carl_Kraemer ,
+		<http://dbpedia.org/resource/File:Ginsburg01.jpg> ,
+		dbr:Art_therapy ,
+		<http://dbpedia.org/resource/File:Hilchenbach_idyllic_view.jpg> ,
+		dbc:Siegen-Wittgenstein ,
+		dbr:Siegen ,
+		dbc:Towns_in_North_Rhine-Westphalia ,
+		dbr:Altmark ,
+		dbr:Figet_Spinner ,
+		dbr:Siegerland ,
+		dbr:Siegen-Wittgenstein ,
+		dbr:Neurology ,
+		dbr:Prussia ,
+		dbr:World_War_I ,
+		dbr:Castle ,
+		dbr:Bochum ,
+		dbr:Christian_Democratic_Union_of_Germany ,
+		dbr:Wolf ,
+		dbr:Neuropsychology ,
+		dbr:Speech-language_pathology .
+@prefix dbt:	<http://dbpedia.org/resource/Template:> .
+dbr:Hilchenbach	dbp:wikiPageUsesTemplate	dbt:Infobox_German_location ,
+		dbt:Official_website ,
+		dbt:In_lang ,
+		dbt:Flagicon ,
+		dbt:Coord ,
+		dbt:Reflist ,
+		dbt:Commons_category ,
+		dbt:ISBN ,
+		dbt:Authority_control ,
+		<http://dbpedia.org/resource/Template:Cities_and_towns_in_Siegen-Wittgenstein_(district)> ;
+	dbo:wikiPageLength	"11520"^^xsd:nonNegativeInteger .
+dbr:Rothaarsteig	dbo:wikiPageWikiLink	dbr:Hilchenbach .
+dbr:Rothaar_Mountains	dbo:wikiPageWikiLink	dbr:Hilchenbach .
+dbr:Kreuztal	dbo:wikiPageWikiLink	dbr:Hilchenbach .
+dbr:William_of_Nassau-Hilchenbach	dbo:wikiPageWikiLink	dbr:Hilchenbach .
+dbr:Karl-Rudolf_Koch	dbo:birthPlace	dbr:Hilchenbach ;
+	dbp:birthPlace	dbr:Hilchenbach ;
+	dbo:wikiPageWikiLink	dbr:Hilchenbach .
+dbr:Siegen-Wittgenstein	dbo:wikiPageWikiLink	dbr:Hilchenbach .
+<http://dbpedia.org/resource/Henry_II,_Count_of_Nassau>	dbo:wikiPageWikiLink	dbr:Hilchenbach .
+dbr:Eugen_Bormann	dbo:wikiPageWikiLink	dbr:Hilchenbach .
+dbr:Gillerberg_Observation_Tower	dbo:wikiPageWikiLink	dbr:Hilchenbach .
+dbr:Rothaar_Railway	dbo:wikiPageWikiLink	dbr:Hilchenbach .
+wikipedia-en:Hilchenbach	foaf:primaryTopic	dbr:Hilchenbach .
+dbr:Nassau-Siegen	dbo:wikiPageWikiLink	dbr:Hilchenbach .
+dbr:Arnstein_Abbey	dbo:wikiPageWikiLink	dbr:Hilchenbach .
+<http://dbpedia.org/resource/Siegen-Wittgenstein_(electoral_district)>	dbo:wikiPageWikiLink	dbr:Hilchenbach .
+dbr:Johann_Heinrich_Jung	dbo:wikiPageWikiLink	dbr:Hilchenbach .
+dbr:List_of_postal_codes_in_Germany	dbo:wikiPageWikiLink	dbr:Hilchenbach .
+<http://dbpedia.org/resource/Big_Brother_(German_season_8)>	dbo:wikiPageWikiLink	dbr:Hilchenbach .
+dbr:List_of_members_of_the_Frankfurt_Parliament	dbo:wikiPageWikiLink	dbr:Hilchenbach .
+dbr:List_of_cities_and_towns_in_Germany	dbo:wikiPageWikiLink	dbr:Hilchenbach .
+<http://dbpedia.org/resource/Josef_M\u00E4rkl>	dbo:wikiPageWikiLink	dbr:Hilchenbach .
+<http://dbpedia.org/resource/Claus_K\u00FChnl>	dbo:wikiPageWikiLink	dbr:Hilchenbach .
+dbr:Siegen	dbo:wikiPageWikiLink	dbr:Hilchenbach .
+<http://dbpedia.org/resource/John,_Count_of_Nassau-Dillenburg>	dbo:wikiPageWikiLink	dbr:Hilchenbach .
+dbr:List_of_show_mines	dbo:wikiPageWikiLink	dbr:Hilchenbach .
+dbr:Ernst_Biberstein	dbp:birthPlace	dbr:Hilchenbach ;
+	dbo:wikiPageWikiLink	dbr:Hilchenbach .
+dbr:Rolf_Agop	dbp:deathPlace	dbr:Hilchenbach ;
+	dbo:deathPlace	dbr:Hilchenbach ;
+	dbo:wikiPageWikiLink	dbr:Hilchenbach .
+dbr:Kirchhundem	dbo:wikiPageWikiLink	dbr:Hilchenbach .
+dbr:Netphen	dbo:wikiPageWikiLink	dbr:Hilchenbach .
+<http://dbpedia.org/resource/Erndtebr\u00FCck>	dbo:wikiPageWikiLink	dbr:Hilchenbach .
+dbr:Siegfried_Fietz	dbo:wikiPageWikiLink	dbr:Hilchenbach .
+<http://dbpedia.org/resource/Johann_VII,_Count_of_Nassau-Siegen>	dbo:wikiPageWikiLink	dbr:Hilchenbach .
+dbr:Grund	dbo:wikiPageWikiLink	dbr:Hilchenbach ;
+	dbo:wikiPageDisambiguates	dbr:Hilchenbach .
+dbr:List_of_dialling_codes_in_Germany	dbo:wikiPageWikiLink	dbr:Hilchenbach .
+dbr:List_of_Christian_religious_houses_in_North_Rhine-Westphalia	dbo:wikiPageWikiLink	dbr:Hilchenbach .
+dbr:Siegerland	dbo:wikiPageWikiLink	dbr:Hilchenbach .
+dbr:House_of_Nassau	dbo:wikiPageWikiLink	dbr:Hilchenbach .
+dbr:Vormwald	dbo:wikiPageRedirects	dbr:Hilchenbach ;
+	dbo:wikiPageWikiLink	dbr:Hilchenbach .
+<http://dbpedia.org/resource/Hilchenbach,_Germany>	dbo:wikiPageRedirects	dbr:Hilchenbach ;
+	dbo:wikiPageWikiLink	dbr:Hilchenbach .
+dbr:List_of_principal_conductors_by_orchestra	dbo:wikiPageWikiLink	dbr:Hilchenbach .
+dbr:List_of_cities_by_country_that_have_stolpersteine	dbo:wikiPageWikiLink	dbr:Hilchenbach .
+dbr:List_of_Simple_Minds_concert_tours	dbo:wikiPageWikiLink	dbr:Hilchenbach .
+<http://dbpedia.org/resource/Grund_(Hilchenbach)>	dbo:wikiPageRedirects	dbr:Hilchenbach ;
+	dbo:wikiPageWikiLink	dbr:Hilchenbach .
+<http://dbpedia.org/resource/Emicho_I,_Count_of_Nassau-Hadamar>	dbo:wikiPageWikiLink	dbr:Hilchenbach .
+<http://dbpedia.org/resource/William_Maurice,_Prince_of_Nassau-Siegen>	dbo:wikiPageWikiLink	dbr:Hilchenbach .

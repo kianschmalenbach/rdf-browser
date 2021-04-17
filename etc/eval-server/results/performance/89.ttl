@@ -1,0 +1,1892 @@
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+dbr:Valentin_Serov	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/Van\u0161u_Bridge>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Kronstadt_Naval_Cathedral	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/Hotel_Moskva,_Belgrade>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/1936>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Cao_Yu	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Wu_Mengchang	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Xu_Leiran	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Tian_Dawei	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Nizhny_Novgorod	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/Meanings_of_minor_planet_names:_2001\u20133000>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Zheng_Zhenduo	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/Irene_Falc\u00F3n>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Sergei_Witte	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:July_1921	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/We_(novel)>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Heart_of_a_Dog	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Isabel_Florence_Hapgood	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Leon_Kobrin	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Ham_on_Rye	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/Proka_Jovki\u0107>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Maria_Fyodorovna_Andreyeva	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Alexander_Morfov	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Nikolay_Dobrokhotov	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/Mother_Earth_(magazine)>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Vilna_Troupe	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/1906_Helsinki_bank_robbery>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:List_of_literary_movements	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/Mar\u00EDa_Teresa_Le\u00F3n>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Chris_Noth	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Gary_Bond	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/Gheorghe_Dinic\u0103>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Leonid_Andreyev	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/Oskaras_Kor\u0161unovas>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Biofilo_Panclasta	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Samad_Vurgun	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Gertrud_Kraus	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/K\u00E1lm\u00E1n_R\u00F3zsahegyi>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Sorrento	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Social_novel	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Dorothy_Day	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:History_of_the_Jews_in_Moldova	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Selig_Perlman	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:August_Strindberg	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Romani_people_in_fiction	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/Gordana_Kamenarovi\u0107>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Mira_Stupica	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/List_of_postage_stamps_of_India_(1961\u20131970)>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:James_Baldwin	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Propaganda_in_the_Soviet_Union	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Myanmar_National_Literature_Award_for_Translation	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Ural_State_University	dbp:founder	dbr:Maxim_Gorky ;
+	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:The_Mirror_Theater_Ltd	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/Sebastian_Shaw_(actor)>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Moscow_Trials	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/Timothy_O\u0027Brien_(theatre_designer)>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Raimund_Schelcher	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/Diederichs_(publisher)>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/Commissar_(film)>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/Virgilio_S._Almario>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Chad_Connell	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Pierre_Valde	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/Jacques_d\u0027Adelsw\u00E4rd-Fersen>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Alexander_Lang	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Nikolai_Leskov	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Vpered	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/Y\u0131lmaz_Onay>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Sergey_Chekhonin	dbo:notableWork	dbr:Maxim_Gorky ;
+	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Russkaya_mysl	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:List_of_short_stories_by_Ivan_Bunin	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/J\u00E4neda>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Olga_Bergholz	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Alexander_Serafimovich	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Alexander_Yashin	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Alexey_Novikov-Priboy	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Varvara_Massalitinova	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Leonid_Leonov	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Vyacheslav_Shishkov	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Pavel_Kadochnikov	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Vikenty_Veresaev	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Faina_Ranevskaya	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Ivan_Tovstukha	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Workers_International_Relief	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/K\u014Dji_Mitsui>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/The_Lower_Depths_(1957_film)>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Heroic_realism	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Stefan_Rusconi	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Lev_Levin	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Ursula_Wendorff-Weidt	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Andrew_Upton	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/Mike_Bartlett_(playwright)>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Moscow_uprising_of_1905	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Nikolai_Koltsov	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Soviet_destroyer_Nezamozhnik	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Zahir_Howaida	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Helle-Reet_Helenurm	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Abkhazian_State_University	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Pushkin_House	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Art_and_culture_in_the_Gulag_labor_camps	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Stepan_Skitalets	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Twenty-six_Men_and_a_Girl	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Mya_Than_Tint	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Muhammad_Najati_Sidqi	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Pavel_Basinsky	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Slavic_Native_Faith	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/Ralph_de_Boissi\u00E8re>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Ernst_Ottwalt	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Yeghishe_Charents	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/Ion_C\u0103lug\u0103ru>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Lviv_Anti-Fascist_Congress_of_Cultural_Workers	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/Halina_G\u00F3rska>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Stein_and_Day	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Lionel_Wendt_Art_Centre	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Viktor_Mirolyubov	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/Milo\u0161_N._\u0110uri\u0107>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/Adrian_Jackson_(Cardboard_Citizens)>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/Vassa_(film)>	dbp:writer	dbr:Maxim_Gorky ;
+	dbo:writer	dbr:Maxim_Gorky ;
+	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Night_Inn	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+wikipedia-en:Maxim_Gorky	foaf:primaryTopic	dbr:Maxim_Gorky .
+dbr:Yasnaya_Polyana	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Helen_Mirren	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/1906_in_literature>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Agnes_Mowinckel	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:List_of_novelists_by_nationality	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:List_of_20th-century_writers	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/1964_in_literature>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Gianni_Schicchi	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:My_Diary	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/\u010Cubura>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/Mladen_Stojanovi\u0107>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Igor_Skvarica	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Laert_Vasili	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:FK_Sloboda_Tuzla	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/Russian_famine_of_1921\u201322>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/John_Caird_(director)>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Magonism	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/Andr\u00E9_Gide>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:The_Malachite_Box	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:List_of_people_on_the_postage_stamps_of_the_German_Democratic_Republic	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/At_Daggers_Drawn_(novel)>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/Peter_Barnes_(playwright)>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Capri-Revolution	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Die_Mutter	dbp:writer	dbr:Maxim_Gorky ;
+	dbo:writer	dbr:Maxim_Gorky ;
+	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Ideal_Petrov	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:List_of_Chinese_films_of_the_1940s	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Deborah_Dir	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Gorki_Ridge	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Ivan_Rukavishnikov	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/Sergey_Semyonov_(writer)>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Sergey_Naydyonov	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+@prefix ns5:	<http://dbpedia.org/resource/Gorky_2:> .
+ns5:_My_Apprenticeship	dbo:writer	dbr:Maxim_Gorky ;
+	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/Foma_Gordeyev_(film)>	dbo:writer	dbr:Maxim_Gorky ;
+	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Yegor_Bulychyov_and_Others	dbo:writer	dbr:Maxim_Gorky ;
+	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/My_Childhood_(Gorky_book)>	dbo:author	dbr:Maxim_Gorky ;
+	dbp:author	dbr:Maxim_Gorky ;
+	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:The_Life_of_a_Useless_Man	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Yegor_Bulychov_and_Others	dbp:writer	dbr:Maxim_Gorky ;
+	dbo:writer	dbr:Maxim_Gorky ;
+	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/The_Old_Man_(Gorky_play)>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Gorky	dbo:wikiPageWikiLink	dbr:Maxim_Gorky ;
+	dbo:wikiPageDisambiguates	dbr:Maxim_Gorky .
+dbr:Gorky_Park	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/Vassa_Zheleznova_(film)>	dbp:writer	dbr:Maxim_Gorky ;
+	dbo:writer	dbr:Maxim_Gorky ;
+	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/M._Gorky>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky ;
+	dbo:wikiPageRedirects	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/Barbarians_(film)>	dbp:writer	dbr:Maxim_Gorky ;
+	dbo:writer	dbr:Maxim_Gorky ;
+	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/Maxim_Gorky_(disambiguation)>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky ;
+	dbo:wikiPageDisambiguates	dbr:Maxim_Gorky .
+dbr:Ufa_center	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/Maksim_Gor\u0027kii>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky ;
+	dbo:wikiPageRedirects	dbr:Maxim_Gorky .
+dbr:Maksim_Gorki	dbo:wikiPageWikiLink	dbr:Maxim_Gorky ;
+	dbo:wikiPageRedirects	dbr:Maxim_Gorky .
+dbr:Maksim_Gorkiy	dbo:wikiPageWikiLink	dbr:Maxim_Gorky ;
+	dbo:wikiPageRedirects	dbr:Maxim_Gorky .
+dbr:Maksim_Gorky	dbo:wikiPageWikiLink	dbr:Maxim_Gorky ;
+	dbo:wikiPageRedirects	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/Maksim_Gor\u2019kiy>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky ;
+	dbo:wikiPageRedirects	dbr:Maxim_Gorky .
+dbr:Maksim_gorky	dbo:wikiPageWikiLink	dbr:Maxim_Gorky ;
+	dbo:wikiPageRedirects	dbr:Maxim_Gorky .
+dbr:Monument_to_the_founders_of_Odessa	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/Enemies_(1953_film)>	dbp:writer	dbr:Maxim_Gorky ;
+	dbo:writer	dbr:Maxim_Gorky ;
+	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Maxim_Gorki	dbo:wikiPageWikiLink	dbr:Maxim_Gorky ;
+	dbo:wikiPageRedirects	dbr:Maxim_Gorky .
+dbr:Maxim_Gorkiy	dbo:wikiPageWikiLink	dbr:Maxim_Gorky ;
+	dbo:wikiPageRedirects	dbr:Maxim_Gorky .
+dbr:Peshkov	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Aleksei_Maksimovich_Peshkov	dbo:wikiPageWikiLink	dbr:Maxim_Gorky ;
+	dbo:wikiPageRedirects	dbr:Maxim_Gorky .
+dbr:Aleksei_Peshkov	dbo:wikiPageWikiLink	dbr:Maxim_Gorky ;
+	dbo:wikiPageRedirects	dbr:Maxim_Gorky .
+dbr:Aleksey_Maximovich_Peshkov	dbo:wikiPageWikiLink	dbr:Maxim_Gorky ;
+	dbo:wikiPageRedirects	dbr:Maxim_Gorky .
+dbr:Alexei_Maximovich_Peshkov	dbo:wikiPageWikiLink	dbr:Maxim_Gorky ;
+	dbo:wikiPageRedirects	dbr:Maxim_Gorky .
+dbr:Alexei_Peshkov	dbo:wikiPageWikiLink	dbr:Maxim_Gorky ;
+	dbo:wikiPageRedirects	dbr:Maxim_Gorky .
+dbr:Alexey_Gorky	dbo:wikiPageWikiLink	dbr:Maxim_Gorky ;
+	dbo:wikiPageRedirects	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/Posledn\u00ED>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky ;
+	dbo:wikiPageRedirects	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/A.M._Gorki>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky ;
+	dbo:wikiPageRedirects	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/\u041C\u0430\u043A\u0441\u0438\u043C_\u0413\u043E\u0440\u044C\u043A\u0438\u0439>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky ;
+	dbo:wikiPageRedirects	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/Amma_(novel)>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky ;
+	dbo:wikiPageRedirects	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/\u0410\u043B\u0435\u043A\u0441\u0435\u0439_\u041C\u0430\u043A\u0441\u0438\u043C\u043E\u0432\u0438\u0447_\u041F\u0435\u0448\u043A\u043E\u0432>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky ;
+	dbo:wikiPageRedirects	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/Stanislavski\u0027s_system>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/Russia\u2013Serbia_relations>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:List_of_people_on_the_postage_stamps_of_Czechoslovakia	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Freddie_Jones	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/John_Wood_(English_actor)>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Alan_Howard	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Terry_Hands	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Fulton_Mackay	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Janet_Suzman	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Braham_Murray	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Robert_Bolt	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Nikolai_Bukharin	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:List_of_books_banned_in_New_Zealand	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/Helen_A._Clarke>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Ivan_Bunin	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:National_epic	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Nikolay_Gumilyov	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Lyubov_Orlova	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Vasyl_Meleshko	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Dmitry_Kabalevsky	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Kim_Jung-hwa	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Kim_Soo-ro	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Christian_Rakovsky	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Yuri_Felshtinsky	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Olga_Forsh	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Shang_Yue	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Tankho_Israilov	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/V\u00EDctor_Jara>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Hu_Lanqi	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Julieta_Serrano	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Pavel_Florensky	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Maxim_Gorky_Literature_Institute	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Geir_Kjetsaa	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Mirtemir	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Victor_Serge	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/Cho\u02BBlpon>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Orlando_Figes	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Maxim_Lieber	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/1901_in_literature>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/1908_in_literature>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Shlomo_Herberg	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:History_of_the_Communist_Party_of_the_Soviet_Union	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Henri_Monteux	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Annunciation_Church_of_the_Alexander_Nevsky_Lavra	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Nikolai_Devitte	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Ruth_Dunning	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Rory_Kinnear	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Edinburgh_Festival_Fringe_1947	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Betty_Kuuskemaa	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Lynette_Davies	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Mostafa_Abdollahi	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/Mr._Britling_Sees_It_Through>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Fourth_Monkey_Actor_Training_Company	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Glasgow_Unity_Theatre	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Vladimir_Korolenko	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Vaikom_Muhammad_Basheer	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:List_of_poems_by_Ivan_Bunin	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/Dar_al-Hikma_(Iraqi_publishing_house)>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Ivan_Sytin	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+@prefix ns6:	<http://dbpedia.org/resource/Cryostasis:> .
+ns6:_Sleep_of_Reason	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:With_the_Century	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Empire_Under_Attack	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Safdar_Hashmi	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Poet_Lore	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Dianne_Wiest	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Konstantin_Stanislavski	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:List_of_places_named_after_people	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:History_of_Baku	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Arshile_Gorky	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Viktoria_Mullova	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Felix_Dzerzhinsky	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Herbert_Hoover	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:March_28	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Sergei_Yesenin	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:June_18	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:East_Asian_cinema	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Russian_culture	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Alexander_Pushkin	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Volga	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Timeline_of_Russian_history	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Anna_Abrikosova	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Feodor_Chaliapin	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Vasily_Klyuchevsky	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Vladivostok	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/1868_in_literature>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/1899_in_literature>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Boris_Kosarev	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Grigori_Aleksandrov	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Nikolay_Cherkasov	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Sovfoto	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Sankt_Blasien	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/E._Haldeman-Julius>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Nicholas_Roerich	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Kuntsevo_Dacha	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Panait_Istrati	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Thanin_Kraivichien	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/\u00C7etin_Tekindor>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/Em\u00EDlia_V\u00E1\u0161\u00E1ryov\u00E1>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/The_Promised_Land_(1975_film)>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Emil_von_Behring	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Olga_Luzardo	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Aleksey_Vysotsky	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Lidia_Zamkow	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Osip_Abdulov	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Nick_Dear	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Luca_Zingaretti	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Lucien_Arnaud	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Macit_Sonkan	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/Botho_Strau\u00DF>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Kostas_Triantafyllopoulos	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Pudhumaipithan	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Radu_Beligan	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Aleksandr_Leonidovich_Vishnevsky	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Charlotte_Porter	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/Lor\u00E1nd_Lohinszky>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Garden_Theatre	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Georgy_Tovstonogov	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Jean-Marie_Serreau	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Joachim_Meyerhoff	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/Hans_T\u00F3rgar\u00F0>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/Belvoir_(theatre_company)>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/Bernard-Marie_Kolt\u00E8s>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Kalju_Orro	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/Leila_S\u00E4\u00E4lik>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Lii_Tedre	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Fotos_Politis	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/Gy\u00F6rgy_Cserhalmi>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Hindi_theatre	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:History_of_Taganrog	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Olli_Ungvere	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Ruth_Berghaus	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Ulvi_Rajab	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Giorgio_Strehler	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/K\u00FClliki_Saldre>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/K\u0101rlis_L\u0101cis>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/Thalia_Theater_(Hamburg)>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:List_of_productions_directed_by_Konstantin_Stanislavski	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Engin_Cezzar	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/M\u00E4rt_Pius>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/V\u00E4rldsbiblioteket>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Maxim_Gorki_Theater	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Hussein_Barghouthi	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:List_of_works_by_Ritwik_Ghatak	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Manana_Antadze	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Marie_Logoreci	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Marta_Laan	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Yugoslav_Drama_Theatre	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/Paul_Verhoeven_(German_director)>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:List_of_David_Tennant_performances	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Fritz_Umgelter	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Richard_Aldington	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/Ahmed_Ali_(writer)>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/Sukhbir_(writer)>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/Piccolo_Teatro_(Milan)>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Filipp_Makharadze	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Bernd_Scholz	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Vladimir_Stavsky	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Avet_Avetisyan	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Miron_Radu_Paraschivescu	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Dmitry_Mamin-Sibiryak	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Gleb_Uspensky	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Zhurnal_Dlya_Vsekh	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Nikolai_Teleshov	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Fyodor_Batyushkov	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Otilia_Cazimir	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Sreda	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Sergei_Sergeyev-Tsensky	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/Yar_(restaurant)>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:White_Dacha	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Tupolev_ANT-20	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Park_of_Maxim_Gorky	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Ivan_Kulikov	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Afanasi_Matushenko	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Kewal_Dhaliwal	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Abduxaliq_Uyghur	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Konstantin_Pyatnitsky	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Nikolai_Sukhanov	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Aikyatan	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Internationalist_Theatre	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/Mother_(Gorky_novel)>	dbo:author	dbr:Maxim_Gorky ;
+	dbp:author	dbr:Maxim_Gorky ;
+	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Theater_Magdeburg	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/Maxim_(given_name)>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:The_Russia_We_Lost	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Russia	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Soviet_Union	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Joseph_Stalin	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Short_story	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/G._K._Chesterton>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:List_of_names_in_A_Biographical_Dictionary_of_Modern_Rationalists	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Isaac_Babel	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Saadat_Hasan_Manto	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Muhammad_Asad	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Moscow	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:September_1966	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Zinovy_Peshkov	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+@prefix ns7:	<http://dbpedia.org/resource/Library_of_Congress_Classification:> .
+ns7:Class_P_--_Language_and_Literature	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Homelessness_in_popular_culture	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:List_of_atheist_authors	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Elmer_Rice	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Margaret_Tyzack	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/Children\u0027s_literature>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/Stasys_\u0160ilingas>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Kishinev_pogrom	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Eli_Schechtman	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Beba_Idelson	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Yisrael_Bar-Yehuda	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Boris_Slutsky	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Khalil_Beidas	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Ofira_Henig	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Russian_literature	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:New_Israel	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Hayim_Nahman_Bialik	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Maurice_Schwartz	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Yanka_Kupala	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Procellariiformes	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Utpal_Dutt	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/The_Mother_(Brecht_play)>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Harriet_Brooks	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Vasily_Grossman	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Samuel_Polyakov	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:George_Grebenstchikoff	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Boris_Anisfeld	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Richard_Pyros	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Sacha_Zaliouk	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Rose_Strunsky_Lorwin	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Sergey_Gusev-Orenburgsky	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Evgeny_Chirikov	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Frederic_Ewen	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Teffi	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Anastasiya_Vertinskaya	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/951_Gaspra>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Boris_Livanov	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/Milovan_Gli\u0161i\u0107>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Grand_Hotel_Quisisana	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Grigore_Vasiliu_Birlic	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Sergey_Klychkov	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Yuri_Zhelyabuzhsky	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Giacomo_Orefice	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Serafima_Birman	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:The_Social_Significance_of_the_Modern_Drama	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Oto_Bihalji-Merin	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Andrei_Platonov	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Faina_Shevchenko	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Lyotchiki	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Moa_Martinson	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Jules_Irving	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/Patrick_Miles_(writer)>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Kukryniksy	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Nestroy_Theatre_Prize	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Amrit_Nahata	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Rou_Shi	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Bovadzor	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Patras_Municipal_and_Regional_Theatre	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Allan_McLane_Hamilton	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Alexander_Bogdanov	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Petr_Shelokhonov	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:List_of_orphans_and_foundlings	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Bill_Douglas	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Serapion_Brothers	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:George_Kline	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/The_I.V._Stalin_White_Sea_\u2013_Baltic_Sea_Canal>	dbp:editor	dbr:Maxim_Gorky ;
+	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Vsevolod_Ivanov	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Elizaveta_Polonskaya	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Avel_Yenukidze	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Genrikh_Yagoda	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/Trotsky_(TV_series)>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Jasper_Britton	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/Chairman_of_the_Council_of_People\u0027s_Commissars_of_the_Soviet_Union>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/K\u00E4the_Niederkirchner>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/Fekete_r\u00E9szem>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Josef_Hora	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Ion_Pas	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Ion_Buzdugan	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Ion_Vinea	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Acting	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Closet_screenplay	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:The_Sanctuary_Lamp	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Gay_fascism	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Savva_Morozov	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Rodney_Ackland	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Toby_Robertson	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Julia_Krynke	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/Eva_Kr\u00ED\u017Eikov\u00E1>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/Keglevi\u0107_family>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Pavel_Branko	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Pabitra_Kumar_Deka	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Constance_Congdon	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Literary_realism	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/H._G._Wells>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Virginia_Woolf	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Tom_Stoppard	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/David_Jones_(director)>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/David_Triesman,_Baron_Triesman>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Rosie_Day	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/Case_of_the_Anti-Soviet_%22Bloc_of_Rightists_and_Trotskyites%22>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/D._S._Mirsky>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:List_of_poisonings	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/Bo\u017Eidara_Turzonovov\u00E1_filmography>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Gulag	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Konstantin_Balmont	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Kryvyi_Rih	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Dig_Where_You_Stand_movement	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/1868>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Capri	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Georgy_Adamovich	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:David_Burt	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Donetsk_National_Medical_University	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Leon_Trotsky	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Russians	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/Horrible_Histories_(2015_TV_series)>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Ioan_Gyuri_Pascu	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:History_of_Zionism	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Busch_Quartet	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:History_of_propaganda	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:TS_Maxim_Gorkiy	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:List_of_playwrights_by_nationality_and_year_of_birth	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Chichester_Festival_production_history	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Yevgeny_Zamyatin	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/Hackney,_London>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:De_Beauvoir_Town	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Pavel_Yudin	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Untilovsk	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Makar_Chudra	dbo:author	dbr:Maxim_Gorky ;
+	dbp:author	dbr:Maxim_Gorky ;
+	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/Branko_\u0106opi\u0107>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/A_Confession_(Gorky)>	dbo:author	dbr:Maxim_Gorky ;
+	dbp:author	dbr:Maxim_Gorky ;
+	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/Gorky_Library_(Ryazan)>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Grand_Duke_Dmitry_Konstantinovich_of_Russia	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Rafik_Khachatryan	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Foma_Gordeyev	dbo:author	dbr:Maxim_Gorky ;
+	dbp:author	dbr:Maxim_Gorky ;
+	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Igor_Grabar	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Omana_and_Moscow_Gopalakrishnan	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Gregory_Skovoroda	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Old_Izergil	dbo:author	dbr:Maxim_Gorky ;
+	dbp:author	dbr:Maxim_Gorky ;
+	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Chelkash	dbo:author	dbr:Maxim_Gorky ;
+	dbp:author	dbr:Maxim_Gorky ;
+	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Naftaly_Frenkel	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Queer_People	dbp:writer	dbr:Maxim_Gorky ;
+	dbo:author	dbr:Maxim_Gorky ;
+	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/White_Sea\u2013Baltic_Canal>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Tubeteika	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Aleksei_Stetskii	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Aleksei_Stetsky	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Kedra_Mitrei	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Lenin_in_1918	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Leonida_Bagration_of_Mukhrani	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/Mat_(Russian_profanity)>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Matvei_Golovinski	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Gaito_Gazdanov	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Antonovka_Apples	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/Iv\u00E1n_Darvas>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Jacob_Pavlovich_Adler	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Sergei_Trufanov	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Anatoliy_Nasedkin	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Anton_Makarenko	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Astrid_Lepa	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:The_Childhood_of_Maxim_Gorky	dbp:writer	dbr:Maxim_Gorky ;
+	dbo:writer	dbr:Maxim_Gorky ;
+	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:The_Life_of_Klim_Samgin	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Marxism_and_the_National_Question	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Abdizhamil_Karimuly_Nurpeisov	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Ahmad_Javad	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:German_Galynin	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Yevgeny_Gavrilovich_Sokolov	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Abkhazians_of_African_descent	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:About_Chekhov	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Tatarbunary_uprising	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Volga_State_University_of_Technology	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:In_the_Ravine	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:National_University_of_Kharkiv	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/Wind_of_Change_(Scorpions_song)>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/Dreams_(Ivan_Bunin)>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Emmanuil_Yevzerikhin	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Movlud_Suleymanli	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Julia_Danzas	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Ivan_Gronsky	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/Musk-ox_(Nikolai_Leskov)>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:The_Lady_with_the_Dog	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/Malva_(1957_film)>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/Children_(Gorky_play)>	dbp:writer	dbr:Maxim_Gorky ;
+	dbo:author	dbr:Maxim_Gorky ;
+	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Yoshiko_Yuasa	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Svoboda_Factory_Club	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Junior_Captain_Rybnikov	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:The_Pedagogical_Poem	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/St\u00E9phane_Courtois>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Boris_Souvarine	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Maria_Germanova	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Yury_Annenkov	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/Marc_Goldberg_(playwright)>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Prince_Gabriel_Constantinovich_of_Russia	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Pyotr_Voykov	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Alexander_Kugel	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Nikolai_Shklyar	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Mikhail_Pokrovsky	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Free_Economic_Society	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Misto_Treska	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Ignace_Lepp	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Jean_Bourdeau	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Victor_Margueritte	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Viktor_Burenin	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Evgeny_Anichkov	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Vera_Mukhina	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/Bloody_Sunday_(1905)>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Alexander_Blok	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Folklore_of_Russia	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:GAZ	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Music_of_the_Soviet_Union	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Tverskaya_Street	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Peter_and_Paul_Fortress	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Cinema_of_the_Soviet_Union	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Bayezit_Bikbay	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Leonid_Markov	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Lev_Anninsky	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Samad_aga_Agamalioglu	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Eduard_Asadov	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Rogvold_Sukhoverko	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Emil_Loteanu	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Igor_Veselkin	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Marina_Ladynina	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Maria_Shkapskaya	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/1952_in_fine_arts_of_the_Soviet_Union>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Vasily_Kalinnikov	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Vasily_Rozanov	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Theatre_in_Azerbaijan	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Gleb_Panfilov	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/Gorkovskaya_(Saint_Petersburg_Metro)>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Gorky_Film_Studio	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/Gorky_Park_(Moscow)>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/Gorky_Park_(Rostov-on-Don)>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/Gorky_Park_(Taganrog)>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Pyotr_Tayozhny	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Pyotr_Veinberg	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Tovstonogov_Bolshoi_Drama_Theater	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/Gorky_Park_(Minsk)>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Hetman	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Aleksei_Losev	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Alexander_Parvus	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Alexander_Spendiaryan	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Alexandre_Marine	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Ivan_Moskvin	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Vladislav_Khodasevich	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Heinrich_Vogeler	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/1868_in_Russia>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Azerbaijan_State_Theatre_of_Young_Spectators	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Bashkir_Academic_Drama_Theater_Mazhit_Gafuri	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Defamiliarization	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Free_Association_for_the_Development_and_Dissemination_of_Positive_Science	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Vodohod	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Georgiyevsk	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/Russian_Social_Democratic_Labour_Party_(of_Internationalists)>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Vitaly_Shentalinsky	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/Molodaya_Gvardiya_(publisher)>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Pavel_Korin	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Tikhon_Khrennikov	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/Maria_(play)>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Max_Matern	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Sormovsky_City_District	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Ivan_Shmelyov	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Ivan_Sokolov-Mikitov	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Samuil_Marshak	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Summerfolk	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:History_of_Nizhny_Novgorod	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Armen_Dzhigarkhanyan	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Arsenyev	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Oleg_Basilashvili	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Oleg_Yefremov	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/Ottoi_C\u0103lin>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Brothers_Bernardacci	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Revolutionary_activity_of_Vladimir_Lenin	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Kaliningrad_Regional_Drama_Theatre	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Abdulla_Shaig	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:German_Lopatin	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Ioasaf_Tikhomirov	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:North_Korean_literature	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Arkady_Timiryasev	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/Park_Kultury_(Sokolnicheskaya_line)>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Virginia_Museum_of_Fine_Arts	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Vladimir_Konkin	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Vladimir_Palace	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/Znanie_(publishing_company)>	dbp:keyPeople	dbr:Maxim_Gorky ;
+	dbo:keyPerson	dbr:Maxim_Gorky ;
+	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:List_of_people_from_Nizhny_Novgorod	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:List_of_people_from_Tambov	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Electrotheatre_Stanislavsky	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/Gorky_Street,_Novosibirsk>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Vladimir_Posse	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Ivan_Mashkov	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Ivan_Narodny	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Margaret_Wettlin	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Peredelkino	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Marie_Vorobieff	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Tofig_Guliyev	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Yessentuki	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Yuny_railway_station	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Yuri_Mamin	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Nina_Gourfinkel	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Chris_Searle	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:First-person_narrative	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/Zuzana_Va\u010Dkov\u00E1>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Kiyohiko_Ushihara	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Milto_Sotir_Gurra	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Katja_Herbers	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/Aleksandr_Yatsko_(actor)>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Sol_Stein	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/Mohan_Bhandari_(writer)>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Soviet_cruiser_Maxim_Gorky	dbp:shipNamesake	dbr:Maxim_Gorky ;
+	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Great_Soviet_Encyclopedia	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:European_storm_petrel	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Michael_Angelis	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Anna_Vyrubova	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Nikolay_Burenin	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Reino_Sylvander	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Russell_Boulter	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Steamboats_on_the_Volga_River	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Red_Cavalry	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Drama_Art_Scene	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Ivan_Softa	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Pyotr_Kryuchkov	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/Florian_Pitti\u0219>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Yuri_Rytkheu	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Tajar_Zavalani	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Barbara_Cook	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Massandra_Winery	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Han_Sorya	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:FC_Dynamo_Moscow	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Jacqueline_McKenzie	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:The_Iceman_Cometh	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/Th\u00E9\u00E2tre_R\u00E9camier>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Clair_Kenamore	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:List_of_commemorative_coins_of_the_Soviet_Union	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+@prefix ns8:	<http://dbpedia.org/resource/List_of_authors_by_name:> .
+ns8:_G	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Nares_Chandra_Sen-Gupta	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Pavel_Ivanovich_Melnikov	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Yuri_Vyshinsky	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Lydia_Avilova	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Vasily_Luzhsky	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Boris_Polevoy	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Praskovia_Arian	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/Aleksandr_Shcherbakov_(politician)>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Cecilia_Banu	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Nina_Litovtseva	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Ada_Chumachenko	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Sofya_Khalyutina	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Vladimir_Botsyanovsky	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Margarita_Savitskaya	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Maria_Roksanova	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Maria_Samarova	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Marietta_Shaginyan	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Sergey_Mstislavsky	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Evdokiya_Germanova	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Nikolai_Engelhardt	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:The_Beauty	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Griboyedov_Prize	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/Mikhail_Gerasimov_(poet)>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Aleksandr_Voronsky	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/No_Way_Out_(novel)>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Khitrovka	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/Master_(Master_and_Margarita)>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:John_of_Kronstadt	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/Park_Kultury_(Koltsevaya_line)>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Eili_Sild	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Gorky_Institute_of_World_Literature	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Gorky_Museum	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Nadezhda_Peshkova	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/Nikolai_Orlov_(painter)>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Yiddish_Art_Theatre	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/Preludes,_Op._23_(Rachmaninoff)>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+@prefix ns9:	<http://dbpedia.org/resource/Gorky_3:> .
+ns9:_My_Universities	dbo:writer	dbr:Maxim_Gorky ;
+	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/Adam_Bahdanovi\u010D>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Brian_Syron	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/East_Side_Story_(1997_film)>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Dmitry_Merezhkovsky	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Gert_Westphal	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Nikolay_Kasatkin	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Teatro_Argentina	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Seppo_Heikinheimo	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/Ku._Alagirisami>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:The_Lower_Depths	dbp:writer	dbr:Maxim_Gorky ;
+	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Neecha_Nagar	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Prabhat_Prakashan	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Ulrike_Krumbiegel	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Maksim_Gorkiy-class_motorship	dbp:namesake	dbr:Maxim_Gorky ;
+	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/Pin_(chess)>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:List_of_agnostics	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:History_of_Sochi	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:List_of_biographical_films	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Kremlin_Wall_Necropolis	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Georgy_Gapon	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/List_of_book-based_war_films_(1898\u20131926_wars)>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Bibliography_of_the_Russian_Revolution_and_Civil_War	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:The_Long_Loneliness	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Khalil_Rza_Uluturk	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/\u00C9va_\u00D6rk\u00E9nyi>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Elena_Dobronravova	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Marguerite_Aucouturier	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Valentina_Grizodubova	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Moura_Budberg	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:The_World_of_Yesterday	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/1936_in_literature>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/Jos\u00E9_Mancisidor>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Proletarian_literature	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:World_Committee_Against_War_and_Fascism	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Sverdlov_Communist_University	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Prague_Conference	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Derek_Marlowe	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/Sofia_N\u0103dejde>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Serafim_Sudbinin	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Pencho_Georgiev	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Maxim	dbo:wikiPageWikiLink	dbr:Maxim_Gorky ;
+	dbo:wikiPageDisambiguates	dbr:Maxim_Gorky .
+dbr:Herta_Elviste	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Satim_Ulugzade	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/Road_to_Life_(1931_film)>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/Vassa_Zheleznova_(play)>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Anton_Chekhov	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/Burevestnik_(Nizhny_Novgorod_Metro)>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:List_of_autodidacts	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/The_Class_Struggle_(magazine)>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:List_of_tuberculosis_cases	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/1912_in_literature>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/List_of_Alfred_A._Knopf_authors>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:The_Graphic_Canon	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/Tomas_O\u0027Crohan>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Southwest_Review	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Deutsche_Zentral-Zeitung	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Krasnaya_Nov	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/Zvezda_(magazine)>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/Niva_(magazine)>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/Novaya_Zhizn_(Mensheviks)>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Nachalo	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Arbeiter-Illustrierte-Zeitung	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/Burevestnik_(1906)>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/Burevestnik_(Petrograd,_1917)>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Prosveshcheniye	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Nash_Sovremennik	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Zhizn	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Pravda	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Novoye_Slovo	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/Pearson\u0027s_Magazine>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/Nash_Put_(1913)>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Government_of_Vladimir_Lenin	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Anuradha_Bhattacharyya	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:List_of_biographers	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Grand_Duke_Konstantin_Konstantinovich_of_Russia	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Royal_National_Theatre	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/Malakhovka,_Moscow_Oblast>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/The_Man_(poem)>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:A_Cloud_in_Trousers	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Elsa_Triolet	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:The_War_and_the_World	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Ilya_Repin	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Russian_Association_of_Proletarian_Writers	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Anatoly_Lunacharsky	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Backbone_Flute	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Viktor_Shklovsky	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Moscow_Art_Theatre	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Culture_of_the_Soviet_Union	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Nikolay_Khlibko	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Boris_Schnaiderman	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Leopold_Averbakh	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Aleksey_Nikolayevich_Tolstoy	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/Alexander_Lazarev_(actor)>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Alexander_Yablonovsky	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Chicherin_House	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Nikolai_Erdman	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/Vladimir_Pozner_(writer)>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Letopis	dbp:editor	dbr:Maxim_Gorky ;
+	dbo:wikiPageWikiLink	dbr:Maxim_Gorky ;
+	dbo:editor	dbr:Maxim_Gorky .
+dbr:Wolfgang_Herrmann	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:List_of_Russian-language_playwrights	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Natalia_Nordman	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Hamid_Olimjon	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Iasyr_Shivaza	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/Index_of_Soviet_Union\u2013related_articles>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Ivan_Skvortsov-Stepanov	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Sarra_Lebedeva	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Madan_Lal_Madhu	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Anna_Akhmatova	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/Ataol_Behramo\u011Flu>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:August_Sang	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Boris_Pilnyak	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Vera_Ermolaeva	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/Le_Temps_des_cerises_(publisher)>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Aris_Alexandrou	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Rozhdestvenskaya_Street	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Silvia_Laidla	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/T._M._Chidambara_Ragunathan>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Index_of_articles_related_to_the_Russian_Revolution_and_Civil_War	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:List_of_cultural_icons_of_Russia	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Vladimir_Yermilov	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:List_of_people_on_the_postage_stamps_of_Hungary	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:List_of_people_on_the_postage_stamps_of_Romania	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:The_Italics_are_Mine	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:List_of_Saint_Petersburg_Metro_stations	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Isaac_Itkind	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Rainer_Kirsch	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:The_Lives_of_Others	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Peter_Stein	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Guthrie_Theater_production_history	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Vladimir_Bazarov	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Mykhailo_Drahomanov	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Tupolev_ANT-14	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Jeremy_Brooks	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/K\u014Dji_Yakusho>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/Gorkovskaya_(Nizhny_Novgorod_Metro)>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/Pushkinskaya_(Moscow_Metro)>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Irina_Zhdanovich	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Maxim_Tank_Belarusian_State_Pedagogical_University	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Abelardo_Estorino	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Engineers_of_the_human_soul	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Wenhua_Film_Company	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:A_Man_Before_His_Time	dbo:writer	dbr:Maxim_Gorky ;
+	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Nur_Muhammad_Taraki	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/Germany\u2013Spain_relations>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Poison_laboratory_of_the_Soviet_secret_services	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:East_End_of_London	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/Gy\u00F6rgy_Luk\u00E1cs>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Saimaa	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:List_of_people_on_the_postage_stamps_of_Russia	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:List_of_playwrights	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Akira_Kurosawa	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Knut_Hamsun	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Jonas_Lied	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/Jurgis_Baltru\u0161aitis>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Issay_Dobrowen	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/1905_in_literature>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Alfred_Kirchner	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Theatre_of_Estonia	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Nikifor_Vilonov	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Capri_Party_School	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Maxim_Gorky_bibliography	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Ronny_Coutteure	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Hanns_Eisler	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Peter_Beauvais	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Mazhar_Alanson	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Igor_Ciel	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Ventseslav_Konstantinov	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Boris_Zakhava	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Alexander_Veltman	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/France\u2013Russia_relations>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:History_of_Capri	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Tverskaya_Zastava_Square	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:State_of_Revolution	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Donetsk_National_University	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Gustavo_Barroso	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Silvia_Monfort	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/Mother_(1926_film)>	dbp:writer	dbr:Maxim_Gorky ;
+	dbo:writer	dbr:Maxim_Gorky ;
+	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Dora_Montefiore	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Magzhan_Zhumabayev	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Aleksandr_Kuprin	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Dominika_Eristavi	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Mikhail_Saltykov-Shchedrin	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:And_Quiet_Flows_the_Don	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:The_Song_of_the_Stormy_Petrel	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/The_Village_(Bunin_novel)>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/Tobacco_Road_(play)>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/Children_of_the_Sun_(play)>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/The_Duel_(Kuprin_novel)>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/Carlos_Pezoa_V\u00E9liz>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Pramoedya_Ananta_Toer	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/Jos\u00E9_Santos_Gonz\u00E1lez_Vera>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/\u0218tefana_Velisar_Teodoreanu>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Russia_in_the_Shadows	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/Dry_Valley_(novel)>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Viacheslav_Petrovich_Volgin	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Devarakonda_Balagangadhara_Tilak	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Dmitry_Bykov	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Nikolai_Garin-Mikhailovsky	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Nikolai_Karonin-Petropavlovsky	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Russell_Scott_Valentino	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Jean-Yves_Berteloot	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Jivani	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Rebecca_Gethings	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Kaoru_Osanai	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Leroy_Scott	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Suleyman_Stalsky	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Jaroslav_Kvapil	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Vitaly_Bianki	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Hadiya_Davletshina	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/Hakob_Hakobian_(poet)>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Shalva_Dadiani	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/Svetolik_Rankovi\u0107>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Viktor_Muyzhel	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/F._Ray_Comstock>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Fernand_Louis_Gottlob	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Vladimir_Nemirovich-Danchenko	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Yekaterina_Peshkova	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Anika_the_Warrior	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/T\u1ED1_H\u1EEFu>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Yevgeniya_Simonova	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Yuri_German	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Maxima_Basu	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Sabeena_Rafi	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Ponjikkara_Rafi	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/Mother_(1955_film)>	dbp:writer	dbr:Maxim_Gorky ;
+	dbo:writer	dbr:Maxim_Gorky ;
+	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:The_Artamonov_Business	dbo:writer	dbr:Maxim_Gorky ;
+	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Art_Nouveau	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Left_communism	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:List_of_nominees_for_the_Nobel_Prize_in_Literature	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Vladimir_Lenin	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Sergey_Konenkov	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Nazi_book_burnings	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Socionics	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Krasnodar	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Jean_Gabin	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Rostov-on-Don	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Maxim_Gorky	rdf:type	wikidata:Q5 ,
+		wikidata:Q36180 ,
+		wikidata:Q24229398 .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Maxim_Gorky	rdf:type	yago:WikicatSocialistRealismArtists ,
+		yago:WikicatRussianAtheists .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Maxim_Gorky	rdf:type	owl:Thing ,
+		yago:WikicatPeopleFromNizhnyNovgorod ,
+		yago:WikicatPeopleFromNizhnyNovgorodGovernorate ,
+		yago:Gambler110118844 ,
+		yago:WikicatRussianNovelists ,
+		yago:WikicatSovietShortStoryWriters ,
+		yago:WikicatSovietWriters ,
+		yago:WikicatSovietNovelists ,
+		yago:WikicatRussian-languageWriters ,
+		yago:PrizeWinner109627807 ,
+		yago:Winner110782791 ,
+		yago:WikicatWriters ,
+		yago:Novelist110363573 ,
+		yago:Writer110794014 ,
+		yago:Communicator109610660 ,
+		dbo:Writer ,
+		yago:WikicatLeninPrizeWinners ,
+		yago:Wikicat19th-centuryNovelists .
+@prefix umbel-rc:	<http://umbel.org/umbel/rc/> .
+dbr:Maxim_Gorky	rdf:type	umbel-rc:Writer ,
+		yago:Disbeliever110015897 ,
+		yago:NonreligiousPerson109625789 ,
+		yago:Atheist109820044 ,
+		umbel-rc:PersonWithOccupation ,
+		umbel-rc:Artist ,
+		yago:Wikicat20th-centuryRussianWriters ,
+		yago:WikicatSovietNon-fictionWriters ,
+		yago:LivingThing100004258 ,
+		dbo:Agent ,
+		yago:CausalAgent100007347 ,
+		yago:Whole100003553 ,
+		yago:YagoLegalActor ,
+		yago:YagoLegalActorGeo ,
+		dbo:Person ,
+		yago:Object100002684 ,
+		yago:Person100007846 ,
+		yago:PhysicalEntity100001930 ,
+		yago:Organism100004475 ,
+		yago:WikicatRussianShortStoryWriters ,
+		yago:Wikicat19th-centuryRussianWriters ,
+		yago:WikicatRussianWriters ,
+		yago:WikicatRussianExpatriates ,
+		yago:Artist109812338 ,
+		yago:Absentee109757653 ,
+		yago:Creator109614315 ,
+		yago:Exile110071332 ,
+		yago:Traveler109629752 .
+@prefix schema:	<http://schema.org/> .
+dbr:Maxim_Gorky	rdf:type	schema:Person ,
+		yago:Wikicat20th-centuryNovelists ,
+		foaf:Person ,
+		yago:Wikicat20th-centuryDramatistsAndPlaywrights .
+@prefix ns16:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Maxim_Gorky	rdf:type	ns16:NaturalPerson ,
+		ns16:Agent ,
+		yago:WikicatRussianPeople ,
+		wikidata:Q215627 ,
+		yago:WikicatSocialistRealismWriters ,
+		yago:WikicatRussianDramatistsAndPlaywrights ,
+		yago:WikicatPseudonymousWriters ,
+		yago:WikicatSovietDramatistsAndPlaywrights ,
+		yago:Dramatist110030277 .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Maxim_Gorky	rdfs:label	"\u039C\u03B1\u03BE\u03AF\u03BC \u0393\u03BA\u03CC\u03C1\u03BA\u03B9"@el ,
+		"\u30DE\u30AF\u30B7\u30E0\u30FB\u30B4\u30FC\u30EA\u30AD\u30FC"@ja ,
+		"\u0645\u0643\u0633\u064A\u0645 \u063A\u0648\u0631\u0643\u064A"@ar ,
+		"Maksim Gorki"@nl ,
+		"\u041C\u0430\u043A\u0441\u0438\u043C \u0413\u043E\u0440\u044C\u043A\u0438\u0439"@uk ,
+		"\uB9C9\uC2EC \uACE0\uB9AC\uD0A4"@ko ,
+		"Maksim Gorkij"@eo ,
+		"Maksim Gorki"@eu ,
+		"Maksim Gorki"@ca ,
+		"\u9A6C\u514B\u897F\u59C6\u00B7\u9AD8\u5C14\u57FA"@zh ,
+		"Maxim Gorkij"@cs ,
+		"Maksim Gor'kij"@it ,
+		"Maxime Gorki"@fr ,
+		"Maxim Gorky"@en ,
+		"Maxim Gorky"@in ,
+		"M\u00E1ximo Gorki"@es ,
+		"Maxim Gorki"@de ,
+		"Maksim Gorki"@pl ,
+		"M\u00E1ximo Gorki"@pt ,
+		"Maksim Gorkij"@sv ,
+		"\u041C\u0430\u043A\u0441\u0438\u043C \u0413\u043E\u0440\u044C\u043A\u0438\u0439"@ru ;
+	rdfs:comment	"Maksim GORKIJ (ruse \u041C\u0430\u043A\u0441\u0438\u043C \u0413\u043E\u0440\u044C\u043A\u0438\u0439, a\u016D realnome: Aleksej Maksimovi\u0109 PE\u015CKOV, ruse \u0410\u043B\u0435\u043A\u0441\u0435\u0439 \u041C\u0430\u043A\u0441\u0438\u043C\u043E\u0432\u0438\u0447 \u041F\u0435\u0448\u043A\u043E\u0432; naski\u011Dis la 16-an[jul.]/ 28-an de marto 1868[greg.], mortis la 18-an de junio 1936) estis rusa kaj sovetia verkisto kaj socia aganto. Li naski\u011Dis en Ni\u0135nij Novgorod. De 1906 \u011Dis 1913 kaj de 1921 \u011Dis 1931 li vivis eksterlande; post sia reveno al Sovetunio li ja akceptis la tie regantan kulturpolitikon, tamen pro problemoj kun Stalino ne plu rajtis forlasi la landon. En 1936 li mortis en Moskvo. Lia naski\u011Durbo honore al li de 1932 \u011Dis 1990 nomi\u011Dis Gorkij."@eo ,
+		"\u963F\u5217\u514B\u8C22\u00B7\u9A6C\u514B\u897F\u83AB\u7EF4\u5947\u00B7\u5F7C\u4EC0\u79D1\u592B\uFF08\u4FC4\u8A9E\uFF1A\u0410\u043B\u0435\u043A\u0441\u0435\u0439 \u041C\u0430\u043A\u0441\u0438\u043C\u043E\u0432\u0438\u0447 \u041F\u0435\u0448\u043A\u043E\u0432\uFF0C1868\u5E743\u670828\u65E5\uFF08\u5112\u7565\u66C63\u670816\u65E5\uFF09\u20131936\u5E746\u670818\u65E5\uFF09\uFF0C\u7B14\u540D\u9A6C\u514B\u897F\u59C6\u00B7\u9AD8\u5C14\u57FA\uFF08\u4FC4\u8A9E\uFF1A\u041C\u0430\u043A\u0441\u0438\u043C \u0413\u043E\u0440\u044C\u043A\u0438\u0439\uFF09\u793E\u4F1A\u4E3B\u4E49\u3001\u73B0\u5B9E\u4E3B\u4E49\u6587\u5B66\u5960\u57FA\u4EBA\uFF0C\u653F\u6CBB\u6D3B\u52A8\u5BB6\uFF0C\u82CF\u8054\u6587\u5B66\u7684\u521B\u59CB\u4EBA\u3002"@zh ,
+		"\u0623\u0644\u064A\u0643\u0633\u064A \u0645\u0643\u0633\u064A\u0645\u0648\u0641\u064A\u062A\u0634 \u0628\u064A\u0634\u0643\u0648\u0641 (\u0628\u0627\u0644\u0631\u0648\u0633\u064A\u0629: \u0410\u043B\u0435\u043A\u0441\u0435\u0439 \u041C\u0430\u043A\u0441\u0438\u043C\u043E\u0432\u0438\u0447 \u041F\u0435\u0448\u043A\u043E\u0432) \u0648\u064A\u0639\u0631\u0641 \u0628\u0627\u0633\u0645 \u0645\u0643\u0633\u064A\u0645 \u063A\u0648\u0631\u0643\u064A (\u041C\u0430\u043A\u0441\u0438\u043C \u0413\u043E\u0440\u044C\u043A\u0438\u0439)\u061B (28 \u0645\u0627\u0631\u0633 1868 - 18 \u064A\u0648\u0646\u064A\u0648 1936)\u060C \u0623\u062F\u064A\u0628 \u0648\u0646\u0627\u0634\u0637 \u0633\u064A\u0627\u0633\u064A \u0645\u0627\u0631\u0643\u0633\u064A \u0631\u0648\u0633\u064A\u060C \u0645\u0624\u0633\u0633 \u0645\u062F\u0631\u0633\u0629 \u0627\u0644\u0648\u0627\u0642\u0639\u064A\u0629 \u0627\u0644\u0627\u0634\u062A\u0631\u0627\u0643\u064A\u0629 \u0627\u0644\u062A\u064A \u062A\u062C\u0633\u062F \u0627\u0644\u0646\u0638\u0631\u0629 \u0627\u0644\u0645\u0627\u0631\u0643\u0633\u064A\u0629 \u0644\u0644\u0623\u062F\u0628 \u062D\u064A\u062B \u064A\u0631\u0649 \u0623\u0646 \u0627\u0644\u0623\u062F\u0628 \u0645\u0628\u0646\u064A \u0639\u0644\u0649 \u0627\u0644\u0646\u0634\u0627\u0637 \u0627\u0644\u0627\u0642\u062A\u0635\u0627\u062F\u064A \u0641\u064A \u0646\u0634\u0623\u062A\u0647 \u0648\u0646\u0645\u0648\u0647 \u0648\u062A\u0637\u0648\u0631\u0647\u060C \u0648\u0623\u0646\u0647 \u064A\u0624\u062B\u0631 \u0641\u064A \u0627\u0644\u0645\u062C\u062A\u0645\u0639 \u0628\u0642\u0648\u062A\u0647 \u0627\u0644\u062E\u0627\u0635\u0629\u060C \u0644\u0630\u0644\u0643 \u064A\u0646\u0628\u063A\u064A \u062A\u0648\u0638\u064A\u0641\u0647 \u0641\u064A \u062E\u062F\u0645\u0629 \u0627\u0644\u0645\u062C\u062A\u0645\u0639. \u0643\u0645\u0627 \u062A\u0645 \u062A\u0631\u0634\u064A\u062D\u0647 5 \u0645\u0631\u0627\u062A \u0644\u0644\u062D\u0635\u0648\u0644 \u0639\u0644\u0649 \u062C\u0627\u0626\u0632\u0629 \u0646\u0648\u0628\u0644 \u0641\u064A \u0627\u0644\u0622\u062F\u0627\u0628."@ar ,
+		"Alexei Maximovich Peshkov (Russian: \u0410\u043B\u0435\u043A\u0441\u0435\u0301\u0439 \u041C\u0430\u043A\u0441\u0438\u0301\u043C\u043E\u0432\u0438\u0447 \u041F\u0435\u0448\u043A\u043E\u0301\u0432 or \u041F\u0435\u0301\u0448\u043A\u043E\u0432; 28 March [O.S. 16 March] 1868 \u2013 18 June 1936), primarily known as Maxim Gorky (Russian: \u041C\u0430\u043A\u0441\u0438\u0301\u043C \u0413\u043E\u0301\u0440\u044C\u043A\u0438\u0439), was a Russian and Soviet writer, a founder of the socialist realism literary method, and a political activist. He was also a five-time nominee for the Nobel Prize in Literature. Prior to his renown as an author, he frequently changed jobs and roamed across the Russian Empire; these experiences would later influence his writing. Gorky's most famous works were The Lower Depths (1902), Twenty-six Men and a Girl (1899), The Song of the Stormy Petrel (1901), My Childhood (1913\u20131914), Mother (1906), Summerfolk (1904) and Children of the Sun (1905). He had associations with fellow Russian writers Leo Tolstoy and Ant"@en ,
+		"Maksim Gorki (Russisch: \u041C\u0430\u043A\u0441\u0438\u043C \u0413\u043E\u0440\u044C\u043A\u0438\u0439) pseudoniem van Aleksej Maksimovitsj Pesjkov (Russisch: \u0410\u043B\u0435\u043A\u0441\u0435\u0439 \u041C\u0430\u043A\u0441\u0438\u043C\u043E\u0432\u0438\u0447 \u041F\u0435\u0448\u043A\u043E\u0432) (Nizjni Novgorod, 28 maart [O.T.: 16 maart] 1868 \u2013 Moskou, 18 juni 1936) was een Russische roman- en toneelschrijver. Het pseudoniem staat voor: de Grootste Bittere."@nl ,
+		"\u041C\u0430\u043A\u0441\u0438\u0301\u043C \u0413\u043E\u0301\u0440\u044C\u043A\u0438\u0439 (\u041F\u0454\u0448\u043A\u043E\u0432 \u041E\u043B\u0435\u043A\u0441\u0456\u0439 \u041C\u0430\u043A\u0441\u0438\u043C\u043E\u0432\u0438\u0447, \u0442\u0430\u043A\u043E\u0436 \u0413\u043E\u0440\u044C\u043A\u0438\u0439 \u041E\u043B\u0435\u043A\u0441\u0456\u0439 \u041C\u0430\u043A\u0441\u0438\u043C\u043E\u0432\u0438\u0447; 16 [28] \u0431\u0435\u0440\u0435\u0437\u043D\u044F 1868, \u041D\u0438\u0436\u043D\u0456\u0439 \u041D\u043E\u0432\u0433\u043E\u0440\u043E\u0434, \u041D\u0438\u0436\u043D\u044C\u043E\u0433\u043E\u0440\u043E\u0434\u0441\u044C\u043A\u0430 \u0433\u0443\u0431\u0435\u0440\u043D\u0456\u044F, \u0420\u043E\u0441\u0456\u0439\u0441\u044C\u043A\u0430 \u0456\u043C\u043F\u0435\u0440\u0456\u044F \u2014 18 \u0447\u0435\u0440\u0432\u043D\u044F 1936, , \u041C\u043E\u0441\u043A\u043E\u0432\u0441\u044C\u043A\u0430 \u043E\u0431\u043B\u0430\u0441\u0442\u044C, \u0420\u0420\u0424\u0421\u0420, \u0421\u0420\u0421\u0420) \u2014 \u0440\u043E\u0441\u0456\u0439\u0441\u044C\u043A\u0438\u0439, \u043F\u0456\u0437\u043D\u0456\u0448\u0435 \u0440\u0430\u0434\u044F\u043D\u0441\u044C\u043A\u0438\u0439 \u00AB\u043F\u0440\u043E\u043B\u0435\u0442\u0430\u0440\u0441\u044C\u043A\u0438\u0439\u00BB \u043F\u0438\u0441\u044C\u043C\u0435\u043D\u043D\u0438\u043A, \u0434\u0440\u0430\u043C\u0430\u0442\u0443\u0440\u0433 \u0442\u0430 \u043F\u0443\u0431\u043B\u0456\u0446\u0438\u0441\u0442; \u0447\u043B\u0435\u043D \u0420\u0421\u0414\u0420\u041F(\u0431), \u0434\u0435\u044F\u043A\u0438\u0439 \u0447\u0430\u0441 \u0434\u0440\u0443\u0436\u0438\u0432 \u0437 \u041B\u0435\u043D\u0456\u043D\u0438\u043C."@uk ,
+		"Maksim Gorki (errusieraz: \u041C\u0430\u043A\u0441\u0438\u043C \u0413\u043E\u0440\u044C\u043A\u0438\u0439), benetako izenez Aleksei Maksimovitx Pexkov (errusieraz: \u0410\u043B\u0435\u043A\u0441\u0435\u0439 \u041C\u0430\u043A\u0441\u0438\u043C\u043E\u0432\u0438\u0447 \u041F\u0435\u0448\u043A\u043E\u0432; Nizhni Novgorod, 1868ko martxoaren 28greg./martxoaren 16ajul. \u2013 Mosku, 1936ko ekainaren 18), errusiar idazlea izan zen, errealismo sozialistaren sortzailetariko bat eta iraultza boltxebikearen aldeko aktibista."@eu ,
+		"Maksim Gorki (em russo: \u041C\u0430\u043A\u0441\u0438\u043C \u0413\u043E\u0440\u044C\u043A\u0438\u0439), pseud\u00F4nimo de Aleksei Maksimovich Peshkov (em russo:  \u0410\u043B\u0435\u043A\u0441\u0435\u0439 \u041C\u0430\u043A\u0441\u0438\u043C\u043E\u0432\u0438\u0447 \u041F\u0435\u0448\u043A\u043E\u0432; Nijni N\u00F3vgorod, 28 de mar\u00E7o de 1868 \u2013 Moscovo, 18 de junho de 1936), foi um escritor, romancista, dramaturgo, contista e ativista pol\u00EDtico russo. Gorki foi escritor de escola naturalista que formou uma esp\u00E9cie de ponte entre as gera\u00E7\u00F5es de Tchekhov e Tolstoi, e a nova gera\u00E7\u00E3o de escritores sovi\u00E9ticos."@pt ,
+		"Aleksei Maksimovich Peshkov (dalam bahasa Rusia \u0410\u043B\u0435\u043A\u0441\u0435\u0439 \u041C\u0430\u043A\u0441\u0438\u043C\u043E\u0432\u0438\u0447 \u041F\u0435\u0448\u043A\u043E\u0432) (28 Maret [K.J.: 16 Maret] 1868\u201318 Juni 1936), lebih dikenal sebagai Maxim Gorky (\u041C\u0430\u043A\u0441\u0438\u043C \u0413\u043E\u0440\u044C\u043A\u0438\u0439), adalah seorang pengarang Soviet/Rusia, pendiri metode sastra realisme sosialis dan seorang aktivis politik. Ia dilahirkan di kota Nizhny Novgorod dan meninggal di Moskwa. Dari tahun 1906 hingga 1913, dan dari 1921 hingga 1929 ia tinggal di luar negeri, kebanyakan di Capri; setelah kembali ke Uni Soviet ia menerima kebijakan-kebijakan kebudayaan masa itu, meskipun ia tidak diizinkan meninggalkan negaranya."@in ,
+		"\u039F \u0391\u03BB\u03B5\u03BE\u03AD\u03B9 \u039C\u03B1\u03BE\u03AF\u03BC\u03BF\u03B2\u03B9\u03C4\u03C2 \u03A0\u03B5\u03C3\u03BA\u03CC\u03C6 (\u03C1\u03CE\u03C3\u03B9\u03BA\u03B1: \u0410\u043B\u0435\u043A\u0441\u0435\u0301\u0439 \u041C\u0430\u043A\u0441\u0438\u0301\u043C\u043E\u0432\u0438\u0447 \u041F\u0435\u0448\u043A\u043E\u0301\u0432, 28 \u039C\u03B1\u03C1\u03C4\u03AF\u03BF\u03C5 1868 - 18 \u0399\u03BF\u03C5\u03BD\u03AF\u03BF\u03C5 1936), \u03C0\u03C1\u03C9\u03C4\u03AF\u03C3\u03C4\u03C9\u03C2 \u03B3\u03BD\u03C9\u03C3\u03C4\u03CC\u03C2 \u03C9\u03C2 \u039C\u03B1\u03BE\u03AF\u03BC \u0393\u03BA\u03CC\u03C1\u03BA\u03B9 (\u03C1\u03CE\u03C3\u03B9\u03BA\u03B1: \u041C\u0430\u043A\u0441\u0438\u043C \u0413\u043E\u0440\u044C\u043A\u0438\u0439, \u03C0\u03C1\u03BF\u03C6\u03AD\u03C1\u03B5\u03C4\u03B1\u03B9 [m\u0250\u02C8ks\u02B2im \u02C8gor\u02B2k\u02B2\u026Aj]) \u03AE\u03C4\u03B1\u03BD \u03A1\u03CE\u03C3\u03BF\u03C2 \u03C3\u03C5\u03B3\u03B3\u03C1\u03B1\u03C6\u03AD\u03B1\u03C2, \u03B9\u03B4\u03C1\u03C5\u03C4\u03AE\u03C2 \u03C4\u03B7\u03C2 \u03BB\u03BF\u03B3\u03BF\u03C4\u03B5\u03C7\u03BD\u03B9\u03BA\u03AE\u03C2 \u03BC\u03B5\u03B8\u03CC\u03B4\u03BF\u03C5 \u03C4\u03BF\u03C5 \u03C3\u03BF\u03C3\u03B9\u03B1\u03BB\u03B9\u03C3\u03C4\u03B9\u03BA\u03BF\u03CD \u03C1\u03B5\u03B1\u03BB\u03B9\u03C3\u03BC\u03BF\u03CD \u03BA\u03B1\u03B9 \u03C0\u03BF\u03BB\u03B9\u03C4\u03B9\u03BA\u03CC\u03C2 \u03B1\u03BA\u03C4\u03B9\u03B2\u03B9\u03C3\u03C4\u03AE\u03C2. \u03A4\u03BF \u0393\u03BA\u03CC\u03C1\u03BA\u03B9 \u03C4\u03BF \u03B5\u03C0\u03AD\u03BB\u03B5\u03BE\u03B5 \u03C9\u03C2 \u03C8\u03B5\u03C5\u03B4\u03CE\u03BD\u03C5\u03BC\u03BF \u03B5\u03C0\u03B5\u03B9\u03B4\u03AE \u03C3\u03B7\u03BC\u03B1\u03AF\u03BD\u03B5\u03B9 \u03C0\u03B9\u03BA\u03C1\u03CC\u03C2. \u0391\u03BD\u03C4\u03B9\u03C4\u03AC\u03C7\u03C4\u03B7\u03BA\u03B5 \u03C0\u03BF\u03BB\u03BB\u03AC\u03BA\u03B9\u03C2 \u03C3\u03C4\u03BF  \u03BA\u03B1\u03B9 \u03C0\u03AD\u03C1\u03B1\u03C3\u03B5 \u03C0\u03BF\u03BB\u03CD \u03BA\u03B1\u03B9\u03C1\u03CC \u03C3\u03C4\u03B9\u03C2 \u03C6\u03C5\u03BB\u03B1\u03BA\u03AD\u03C2 \u03AE \u03C3\u03C4\u03B7\u03BD \u03B5\u03BE\u03BF\u03C1\u03AF\u03B1. \u0394\u03C5\u03BF \u03B2\u03B4\u03BF\u03BC\u03AC\u03B4\u03B5\u03C2 \u03BC\u03B5\u03C4\u03AC \u03C4\u03BF \u03BE\u03AD\u03C3\u03C0\u03B1\u03C3\u03BC\u03B1 \u03C4\u03B7\u03C2 \u03B5\u03C0\u03B1\u03BD\u03AC\u03C3\u03C4\u03B1\u03C3\u03B7\u03C2, \u03C4\u03BF\u03BD \u039F\u03BA\u03C4\u03CE\u03B2\u03C1\u03B7 \u03C4\u03BF\u03C5 1917, \u03AD\u03C1\u03C7\u03B5\u03C4\u03B1\u03B9 \u03C3\u03B5 \u03C3\u03CD\u03B3\u03BA\u03C1\u03BF\u03C5\u03C3\u03B7 \u03BC\u03B5 \u03C4\u03B1 \u03B7\u03B3\u03B5\u03C4\u03B9\u03BA\u03AC \u03C3\u03C4\u03B5\u03BB\u03AD\u03C7\u03B7 \u03C4\u03BF\u03C5 \u03BA\u03CC\u03BC\u03BC\u03B1\u03C4\u03BF\u03C2. \u0393\u03C1\u03AC\u03C6\u03B5\u03B9 \u03C7\u03B1\u03C1\u03B1\u03BA\u03C4\u03B7\u03C1\u03B9\u03C3\u03C4\u03B9\u03BA\u03AC:"@el ,
+		"Aleksej Maksimovitj Pesjkov (ryska: \u0410\u043B\u0435\u043A\u0441\u0435\u0439 \u041C\u0430\u043A\u0441\u0438\u043C\u043E\u0432\u0438\u0447 \u041F\u0435\u0448\u043A\u043E\u0432), mer k\u00E4nd under f\u00F6rfattarnamnet Maksim Gorkij (ryska: \u041C\u0430\u043A\u0441\u0438\u043C \u0413\u043E\u0440\u044C\u043A\u0438\u0439), f\u00F6dd 28 mars 1868 i Nizjnij Novgorod, d\u00F6d 18 juni 1936 i Gorki Leninskije, var en rysk f\u00F6rfattare. \"Gorkij\" betyder \"den bittre\". Han var en av arbetarf\u00F6rfattarnas fr\u00E4msta f\u00F6retr\u00E4dare av socialrealismen som litter\u00E4r stil. Josef Stalin och Andrej Zjdanov skulle senare l\u00E5ta vidareutveckla stilen till \"socialistisk realism\", med Gorkij som f\u00F6rebild."@sv ,
+		"Maksim Gorki, ros. \u041C\u0430\u043A\u0441\u0438\u043C \u0413\u043E\u0440\u044C\u043A\u0438\u0439; w\u0142a\u015Bciwie Aleksiej Maksimowicz Pieszkow, ros. \u0410\u043B\u0435\u043A\u0441\u0435\u0439 \u041C\u0430\u043A\u0441\u0438\u043C\u043E\u0432\u0438\u0447 \u041F\u0435\u0448\u043A\u043E\u0432 (ur. 16 marca?/28 marca 1868 w Ni\u017Cnym Nowogrodzie, Imperium Rosyjskie, zm. 18 czerwca 1936 w Moskwie, Rosyjska Federacyjna SRR) \u2013 rosyjski pisarz i publicysta. Wybitna posta\u0107 rosyjskiego modernizmu okresu srebrnego wieku. Uwa\u017Cany za inicjatora socrealizmu w literaturze. Pierwszy przewodnicz\u0105cy Zwi\u0105zku Pisarzy ZSRR w latach 1934\u20131936."@pl ,
+		"\u30DE\u30AF\u30B7\u30E0\u30FB\u30B4\u30FC\u30EA\u30AD\u30FC\uFF08\u041C\u0430\u043A\u0441\u0438\u0301\u043C \u0413\u043E\u0301\u0440\u044C\u043A\u0438\u0439, \u65E7\u7DB4: \u0413\u043E\u0440\u044C\u043A\u0456\u0439, 1868\u5E743\u670828\u65E5\uFF08\u30E6\u30EA\u30A6\u30B9\u66A63\u670816\u65E5\uFF09 - 1936\u5E746\u670818\u65E5\uFF09\u306F\u3001\u30ED\u30B7\u30A2\u306E\u4F5C\u5BB6\u3002\u672C\u540D\u306F\u30A2\u30EC\u30AF\u30BB\u30A4\u30FB\u30DE\u30AF\u30B7\u30FC\u30E2\u30F4\u30A3\u30C1\u30FB\u30DA\u30B7\u30B3\u30D5\uFF08\u0410\u043B\u0435\u043A\u0441\u0435\u0301\u0439 \u041C\u0430\u043A\u0441\u0438\u0301\u043C\u043E\u0432\u0438\u0447 \u041F\u0435\u0448\u043A\u043E\u0301\u0432\uFF09\u3002\u30DA\u30F3\u30CD\u30FC\u30E0\u306E\u30B4\u30FC\u30EA\u30AD\u30FC\u3068\u306F\u30ED\u30B7\u30A2\u8A9E\u3067\u300C\u82E6\u3044\u300D\u306E\u610F\u5473\u3002\u793E\u4F1A\u4E3B\u7FA9\u30EA\u30A2\u30EA\u30BA\u30E0\u306E\u624B\u6CD5\u306E\u5275\u59CB\u8005\u3067\u3042\u308A\u3001\u793E\u4F1A\u6D3B\u52D5\u5BB6\u3067\u3082\u3042\u3063\u305F\u3002"@ja ,
+		"Maxim Gorkij (\u041C\u0430\u043A\u0441\u0438\u043C \u0413\u043E\u0440\u044C\u043A\u0438\u0439), vlastn\u00EDm jm\u00E9nem Alexej Maximovi\u010D Pe\u0161kov (\u0410\u043B\u0435\u043A\u0441\u0435\u0439 \u041C\u0430\u043A\u0441\u0438\u043C\u043E\u0432\u0438\u0447 \u041F\u0435\u0448\u043A\u043E\u0432), (28. b\u0159ezna 1868, Ni\u017Enij Novgorod \u2013 18. \u010Dervna 1936), byl rusk\u00FD spisovatel, dramatik, b\u00E1sn\u00EDk a revolucion\u00E1\u0159. B\u00FDv\u00E1 pova\u017Eov\u00E1n za pr\u016Fkopn\u00EDka socialistick\u00E9ho realismu."@cs ,
+		"\u041C\u0430\u043A\u0441\u0438\u0301\u043C \u0413\u043E\u0301\u0440\u044C\u043A\u0438\u0439 (\u043D\u0430\u0441\u0442\u043E\u044F\u0449\u0435\u0435 \u0438\u043C\u044F \u2014 \u0410\u043B\u0435\u043A\u0441\u0435\u0301\u0439 \u041C\u0430\u043A\u0441\u0438\u0301\u043C\u043E\u0432\u0438\u0447 \u041F\u0435\u0448\u043A\u043E\u0301\u0432; \u0443\u0441\u0442\u043E\u044F\u0432\u0448\u0438\u043C\u0441\u044F \u044F\u0432\u043B\u044F\u0435\u0442\u0441\u044F \u0442\u0430\u043A\u0436\u0435 \u0443\u043F\u043E\u0442\u0440\u0435\u0431\u043B\u0435\u043D\u0438\u0435 \u043D\u0430\u0441\u0442\u043E\u044F\u0449\u0435\u0433\u043E \u0438\u043C\u0435\u043D\u0438 \u043F\u0438\u0441\u0430\u0442\u0435\u043B\u044F \u0432 \u0441\u043E\u0447\u0435\u0442\u0430\u043D\u0438\u0438 \u0441 \u043F\u0441\u0435\u0432\u0434\u043E\u043D\u0438\u043C\u043E\u043C \u2014 \u0410\u043B\u0435\u043A\u0441\u0435\u0301\u0439 \u041C\u0430\u043A\u0441\u0438\u0301\u043C\u043E\u0432\u0438\u0447 \u0413\u043E\u0301\u0440\u044C\u043A\u0438\u0439; 16 [28] \u043C\u0430\u0440\u0442\u0430 1868, \u041D\u0438\u0436\u043D\u0438\u0439 \u041D\u043E\u0432\u0433\u043E\u0440\u043E\u0434, \u0420\u043E\u0441\u0441\u0438\u0439\u0441\u043A\u0430\u044F \u0438\u043C\u043F\u0435\u0440\u0438\u044F \u2014 18 \u0438\u044E\u043D\u044F 1936, \u0413\u043E\u0440\u043A\u0438, \u041C\u043E\u0441\u043A\u043E\u0432\u0441\u043A\u0430\u044F \u043E\u0431\u043B\u0430\u0441\u0442\u044C, \u0421\u0421\u0421\u0420) \u2014 \u0440\u0443\u0441\u0441\u043A\u0438\u0439 \u0438 \u0441\u043E\u0432\u0435\u0442\u0441\u043A\u0438\u0439 \u043F\u0438\u0441\u0430\u0442\u0435\u043B\u044C, \u043F\u0440\u043E\u0437\u0430\u0438\u043A, \u0434\u0440\u0430\u043C\u0430\u0442\u0443\u0440\u0433, \u043E\u0441\u043D\u043E\u0432\u043E\u043F\u043E\u043B\u043E\u0436\u043D\u0438\u043A \u043B\u0438\u0442\u0435\u0440\u0430\u0442\u0443\u0440\u044B \u0441\u043E\u0446\u0438\u0430\u043B\u0438\u0441\u0442\u0438\u0447\u0435\u0441\u043A\u043E\u0433\u043E \u0440\u0435\u0430\u043B\u0438\u0437\u043C\u0430, \u0438\u043D\u0438\u0446\u0438\u0430\u0442\u043E\u0440 \u0441\u043E\u0437\u0434\u0430\u043D\u0438\u044F \u0421\u043E\u044E\u0437\u0430 \u043F\u0438\u0441\u0430\u0442\u0435\u043B\u0435\u0439 \u0421\u0421\u0421\u0420 \u0438 \u043F\u0435\u0440\u0432\u044B\u0439 \u043F\u0440\u0435\u0434\u0441\u0435\u0434\u0430\u0442\u0435\u043B\u044C \u043F\u0440\u0430\u0432\u043B\u0435\u043D\u0438\u044F \u044D\u0442\u043E\u0433\u043E \u0441\u043E\u044E\u0437\u0430. \u041E\u0434\u0438\u043D \u0438\u0437 \u0441\u0430\u043C\u044B\u0445 \u0437\u043D\u0430\u0447\u0438\u0442\u0435\u043B\u044C\u043D\u044B\u0445 \u0438 \u0438\u0437\u0432\u0435\u0441\u0442\u043D\u044B\u0445 \u0432 \u043C\u0438\u0440\u0435 \u0440\u0443\u0441\u0441\u043A\u0438\u0445 \u043F\u0438\u0441\u0430\u0442\u0435\u043B\u0435\u0439 \u0438 \u043C\u044B\u0441\u043B\u0438\u0442\u0435\u043B\u0435\u0439."@ru ,
+		"M\u00E1ximo Gorki, o Maksim Gorki (en ruso: \u041C\u0430\u043A\u0441\u0438\u043C \u0413\u043E\u0440\u044C\u043A\u0438\u0439), fue el pseud\u00F3nimo utilizado por Aleks\u00E9i Maks\u00EDmovich Peshkov (en ruso: \u0410\u043B\u0435\u043A\u0441\u0435\u0301\u0439 \u041C\u0430\u043A\u0441\u0438\u0301\u043C\u043E\u0432\u0438\u0447 \u041Fe\u0448\u043A\u00F3\u0432; Nizhni N\u00F3vgorod, 28 de marzo de 1868-Mosc\u00FA, 18 de junio de 1936)\u200B\u200B fue un escritor y pol\u00EDtico ruso, identificado y activista del movimiento revolucionario ruso.\u200B"@es ,
+		"\uB9C9\uC2EC \uACE0\uB9AC\uD0A4(\uB7EC\uC2DC\uC544\uC5B4: \u041C\u0430\u043A\u0441\u0438\u0301\u043C \u0413\u043E\u0301\u0440\u044C\u043A\u0438\u0439, \uBB38\uD654\uC5B4: \uB9C9\uC538 \uACE0\uB9AC\uB07C, 1868\uB144 3\uC6D4 28\uC77C(\uC728\uB9AC\uC6B0\uC2A4\uB825 3\uC6D4 16\uC77C) ~ 1936\uB144 6\uC6D4 18\uC77C)\uB294 \uB7EC\uC2DC\uC544\uC758 \uC791\uAC00\uB85C, \uBCF8\uBA85\uC740 \uC54C\uB809\uC138\uC774 \uB9C9\uC2DC\uBAA8\uBE44\uCE58 \uD398\uC2DC\uCF54\uD504(\uB7EC\uC2DC\uC544\uC5B4: \u0410\u043B\u0435\u043A\u0441\u0435\u0301\u0439 \u041C\u0430\u043A\u0441\u0438\u0301\u043C\u043E\u0432\u0438\u0447 \u041F\u0435\u0448\u043A\u043E\u0301\u0432)\uC774\uB2E4."@ko ,
+		"Maxim Gorki (russisch \u041C\u0430\u043A\u0441\u0438\u043C \u0413\u043E\u0440\u044C\u043A\u0438\u0439, wissenschaftliche Transliteration Maksim Gor\u2019kij oder Gorkij * 16. M\u00E4rzjul./ 28. M\u00E4rz 1868greg. in Nischni Nowgorod; \u2020 18. Juni 1936 in Gorki-10, westlich von Moskau) war ein russischer Schriftsteller. Er hie\u00DF eigentlich Alexei Maximowitsch Peschkow (russisch \u0410\u043B\u0435\u043A\u0441\u0435\u0439 \u041C\u0430\u043A\u0441\u0438\u043C\u043E\u0432\u0438\u0447 \u041F\u0435\u0448\u043A\u043E\u0432, Transliteration Aleksej Maksimovi\u010D Pe\u0161kov)."@de ,
+		"Maxime Gorki, parfois orthographi\u00E9 Gorky (en russe : \u041C\u0430\u043A\u0441\u0438\u043C \u0413\u043E\u0440\u044C\u043A\u0438\u0439, Maksim Gor'kij), nom de plume d\u2019Alexis Pechkov (en russe : \u0410\u043B\u0435\u043A\u0441\u0435\u0439 \u041C\u0430\u043A\u0441\u0438\u043C\u043E\u0432\u0438\u0447 \u041F\u0435\u0448\u043A\u043E\u0432, Alekse\u00EF Maksimovitch Pechkov), est un \u00E9crivain russe n\u00E9 le 16 mars 1868 (28 mars 1868 dans le calendrier gr\u00E9gorien) \u00E0 Nijni Novgorod et mort le 18 juin 1936 \u00E0 Moscou. Il est consid\u00E9r\u00E9 comme un des fondateurs du r\u00E9alisme socialiste en litt\u00E9rature et fut un homme engag\u00E9 politiquement et intellectuellement aux c\u00F4t\u00E9s des r\u00E9volutionnaires bolcheviques."@fr ,
+		"Maksim Gor'kij (in russo: \u041C\u0430\u043A\u0441\u0438\u0301\u043C \u0413\u043E\u0301\u0440\u044C\u043A\u0438\u0439?), pseudonimo di Aleksej Maksimovi\u010D Pe\u0161kov (\u0410\u043B\u0435\u043A\u0441\u0435\u0439 \u041C\u0430\u043A\u0441\u0438\u043C\u043E\u0432\u0438\u0447 \u041F\u0435\u0448\u043A\u043E\u0432; Ni\u017Enij Novgorod, 28 marzo 1868 \u2013 Mosca, 18 giugno 1936) \u00E8 stato uno scrittore e drammaturgo russo. La lotta contro la miseria, l'ignoranza e la tirannia sono le costanti di tutta l'opera dello scrittore, che \u00E8 considerato il padre del realismo socialista."@it ,
+		"Maksim Gorki (en rus: \u041C\u0430\u043A\u0441\u0438\u0301\u043C \u0413\u043E\u0301\u0440\u044C\u043A\u0438\u0439), de vegades conegut en catal\u00E0 com a M\u00E0xim Gorki, va ser el pseud\u00F2nim utilitzat per Aleksei Maks\u00EDmovitx P\u00E9ixkov (en rus: \u0410\u043B\u0435\u043A\u0441\u0435\u0301\u0439 \u041C\u0430\u043A\u0441\u0438\u0301\u043C\u043E\u0432\u0438\u0447 \u041F\u0435\u0301\u0448\u043A\u043E\u0432 o \u041F\u0435\u0301\u0448\u043A\u043E\u0432) (Nijni N\u00F3vgorod, 28 de mar\u00E7 de 1868 \u2013 Moscou, 18 de juny de 1936) fou un escriptor rus i sovi\u00E8tic, un dels fundadors del m\u00E8tode literari del realisme socialista i activista pol\u00EDtic. Va ser nomenat cinc vegades per al Premi Nobel de Literatura. Les obres m\u00E9s famoses de Gorki s\u00F3n Els baixos fons (1902), Vint-i-sis homes i una nena, El cant del petrell, Inf\u00E0ncia, La Mare, Residents d'estiu i Els fills del Sol. Tenia una associaci\u00F3 amb els escriptors russos Lev Tolstoi i Anton Tx\u00E9khov; Gorki m\u00E9s tard escrigu\u00E9 les mem\u00F2ries d'aquests dos companys. Form\u00E0 part de l'emergent moviment socialdem\u00F2crata ma"@ca ;
+	rdfs:seeAlso	dbr:Gay_fascism .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+@prefix ns19:	<http://globalwordnet.org/ili/> .
+dbr:Maxim_Gorky	skos:exactMatch	ns19:i95310 ;
+	foaf:depiction	<http://en.wikipedia.org/wiki/Special:FilePath/Maxim_Gorky_LOC_Restored_edit1.jpg> ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Maxim_Gorky .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Maxim_Gorky	dct:subject	dbc:Soviet_dramatists_and_playwrights ,
+		<http://dbpedia.org/resource/Category:Capri,_Campania> ,
+		dbc:Socialist_realism_writers ,
+		dbc:Russian_male_dramatists_and_playwrights ,
+		dbc:Bolshevik_finance ,
+		<http://dbpedia.org/resource/Category:19th-century_Russian_male_writers> ,
+		<http://dbpedia.org/resource/Category:20th-century_Russian_dramatists_and_playwrights> ,
+		dbc:Pseudonymous_writers ,
+		dbc:Marxist_writers ,
+		dbc:Burials_at_the_Kremlin_Wall_Necropolis ,
+		dbc:Russian_atheists ,
+		dbc:Soviet_male_writers ,
+		dbc:Soviet_short_story_writers ,
+		<http://dbpedia.org/resource/Category:20th-century_Russian_male_writers> ,
+		dbc:Soviet_novelists ,
+		dbc:Russian_anti-capitalists ,
+		dbc:Soviet_non-fiction_writers ,
+		<http://dbpedia.org/resource/Category:1936_deaths> ,
+		dbc:People_from_Sorrento ,
+		dbc:Deaths_from_pneumonia ,
+		dbc:People_from_Nizhny_Novgorod ,
+		dbc:People_from_Nizhny_Novgorod_Governorate ,
+		dbc:Recipients_of_the_Order_of_Lenin ,
+		dbc:Maxim_Gorky ,
+		<http://dbpedia.org/resource/Category:20th-century_Russian_novelists> ,
+		<http://dbpedia.org/resource/Category:19th-century_Russian_short_story_writers> ,
+		<http://dbpedia.org/resource/Category:1868_births> ,
+		<http://dbpedia.org/resource/Category:19th-century_Russian_dramatists_and_playwrights> ,
+		dbc:Russian_memoirists ,
+		dbc:Russian_male_novelists ,
+		dbc:Russian_male_short_story_writers ,
+		<http://dbpedia.org/resource/Category:19th-century_Russian_novelists> ,
+		<http://dbpedia.org/resource/Category:20th-century_Russian_short_story_writers> ;
+	owl:sameAs	<http://ur.dbpedia.org/resource/\u0645\u06CC\u06A9\u0633\u0645_\u06AF\u0648\u0631\u06A9\u06CC> .
+@prefix ns22:	<http://lv.dbpedia.org/resource/> .
+dbr:Maxim_Gorky	owl:sameAs	ns22:Maksims_Gorkijs ,
+		<http://fa.dbpedia.org/resource/\u0645\u0627\u06A9\u0633\u06CC\u0645_\u06AF\u0648\u0631\u06A9\u06CC> .
+@prefix dbpedia-war:	<http://war.dbpedia.org/resource/> .
+dbr:Maxim_Gorky	owl:sameAs	dbpedia-war:Maxim_Gorky .
+@prefix dbpedia-fy:	<http://fy.dbpedia.org/resource/> .
+dbr:Maxim_Gorky	owl:sameAs	dbpedia-fy:Maksim_Gorki ,
+		<http://he.dbpedia.org/resource/\u05DE\u05E7\u05E1\u05D9\u05DD_\u05D2\u05D5\u05E8\u05E7\u05D9> .
+@prefix ns25:	<http://lt.dbpedia.org/resource/> .
+dbr:Maxim_Gorky	owl:sameAs	ns25:Maksimas_Gorkis ,
+		<http://ne.dbpedia.org/resource/\u092E\u094D\u092F\u093E\u0915\u094D\u0938\u093F\u092E_\u0917\u094B\u0930\u094D\u0915\u0940> ,
+		<http://mrj.dbpedia.org/resource/\u041C\u0430\u043A\u0441\u0438\u043C_\u0413\u043E\u0440\u044C\u043A\u0438\u0439> ,
+		<http://mzn.dbpedia.org/resource/\u0645\u0627\u06A9\u0633\u06CC\u0645_\u06AF\u0648\u0631\u06A9\u06CC> ,
+		<http://si.dbpedia.org/resource/\u0DB8\u0DD0\u0D9A\u0DCA\u0DC3\u0DD2\u0DB8\u0DCA_\u0D9C\u0DDD\u0DBB\u0DCA\u0D9A\u0DD2> ,
+		<http://commons.dbpedia.org/resource/\u041C\u0430\u043A\u0441\u0438\u043C_\u0413\u043E\u0440\u044C\u043A\u0438\u0439> ,
+		<http://la.dbpedia.org/resource/Maximus_Gor\u0027kij> ,
+		<http://mr.dbpedia.org/resource/\u092E\u0945\u0915\u094D\u091D\u093F\u092E_\u0917\u0949\u0930\u094D\u0915\u0940> .
+@prefix dbpedia-eo:	<http://eo.dbpedia.org/resource/> .
+dbr:Maxim_Gorky	owl:sameAs	dbpedia-eo:Maksim_Gorkij .
+@prefix dbpedia-eu:	<http://eu.dbpedia.org/resource/> .
+dbr:Maxim_Gorky	owl:sameAs	dbpedia-eu:Maksim_Gorki ,
+		<http://arz.dbpedia.org/resource/\u0645\u0643\u0633\u064A\u0645_\u062C\u0648\u0631\u0643\u0649> ,
+		dbr:Maxim_Gorky ,
+		<http://ast.dbpedia.org/resource/M\u00E1ximo_Gorki> ,
+		<http://ba.dbpedia.org/resource/\u041C\u0430\u043A\u0441\u0438\u043C_\u0413\u043E\u0440\u044C\u043A\u0438\u0439> ,
+		<http://hi.dbpedia.org/resource/\u092E\u0948\u0915\u094D\u0938\u093F\u092E_\u0917\u094B\u0930\u094D\u0915\u0940> ,
+		<http://es.dbpedia.org/resource/M\u00E1ximo_Gorki> .
+@prefix ns28:	<http://qu.dbpedia.org/resource/> .
+dbr:Maxim_Gorky	owl:sameAs	ns28:Maxim_Gorky ,
+		<http://tg.dbpedia.org/resource/\u041C\u0430\u043A\u0441\u0438\u043C_\u0413\u043E\u0440\u043A\u0438\u0439> ,
+		<http://pt.dbpedia.org/resource/M\u00E1ximo_Gorki> .
+@prefix dbpedia-sv:	<http://sv.dbpedia.org/resource/> .
+dbr:Maxim_Gorky	owl:sameAs	dbpedia-sv:Maksim_Gorkij ,
+		<http://sah.dbpedia.org/resource/\u041C\u0430\u043A\u0441\u0438\u043C_\u0413\u043E\u0440\u044C\u043A\u0430\u0439> ,
+		<http://am.dbpedia.org/resource/\u121B\u12AD\u1232\u121D_\u130E\u122D\u12AA> ,
+		<http://bg.dbpedia.org/resource/\u041C\u0430\u043A\u0441\u0438\u043C_\u0413\u043E\u0440\u043A\u0438> ,
+		<http://kn.dbpedia.org/resource/\u0CAE\u0CCD\u0CAF\u0CBE\u0C95\u0CCD\u0CB8\u0CBF\u0C82_\u0C97\u0CBE\u0CB0\u0CCD\u0C95\u0CBF> ,
+		<http://kk.dbpedia.org/resource/\u041C\u0430\u043A\u0441\u0438\u043C_\u0413\u043E\u0440\u044C\u043A\u0438\u0439> .
+@prefix dbpedia-sq:	<http://sq.dbpedia.org/resource/> .
+dbr:Maxim_Gorky	owl:sameAs	dbpedia-sq:Maksim_Gorki ,
+		<http://ky.dbpedia.org/resource/\u041C\u0430\u043A\u0441\u0438\u043C_\u0413\u043E\u0440\u044C\u043A\u0438\u0439> ,
+		<http://ku.dbpedia.org/resource/Maks\u00EEm_Gork\u00EE> .
+@prefix dbpedia-vi:	<http://vi.dbpedia.org/resource/> .
+dbr:Maxim_Gorky	owl:sameAs	dbpedia-vi:Maksim_Gorky .
+@prefix ns32:	<http://data.europa.eu/euodp/jrc-names/> .
+dbr:Maxim_Gorky	owl:sameAs	ns32:Maxim_Gorky ,
+		<http://ta.dbpedia.org/resource/\u0BAE\u0BBE\u0B95\u0BCD\u0B9A\u0BBF\u0BAE\u0BCD_\u0B95\u0BBE\u0BB0\u0BCD\u0B95\u0BCD\u0B95\u0BBF> ,
+		<http://ckb.dbpedia.org/resource/\u0645\u06D5\u06A9\u0633\u06CC\u0645_\u06AF\u06C6\u0631\u06A9\u06CC> ,
+		<http://mn.dbpedia.org/resource/\u041C\u0430\u043A\u0441\u0438\u043C_\u0413\u043E\u0440\u044C\u043A\u0438\u0439> .
+@prefix dbpedia-br:	<http://br.dbpedia.org/resource/> .
+dbr:Maxim_Gorky	owl:sameAs	dbpedia-br:Maksim_Gorkiy ,
+		<http://uk.dbpedia.org/resource/\u041C\u0430\u043A\u0441\u0438\u043C_\u0413\u043E\u0440\u044C\u043A\u0438\u0439> .
+@prefix dbpedia-hu:	<http://hu.dbpedia.org/resource/> .
+dbr:Maxim_Gorky	owl:sameAs	dbpedia-hu:Makszim_Gorkij ,
+		<http://el.dbpedia.org/resource/\u039C\u03B1\u03BE\u03AF\u03BC_\u0393\u03BA\u03CC\u03C1\u03BA\u03B9> .
+@prefix dbpedia-sk:	<http://sk.dbpedia.org/resource/> .
+dbr:Maxim_Gorky	owl:sameAs	dbpedia-sk:Maxim_Gorkij .
+@prefix dbpedia-ro:	<http://ro.dbpedia.org/resource/> .
+dbr:Maxim_Gorky	owl:sameAs	dbpedia-ro:Maxim_Gorki ,
+		<http://mk.dbpedia.org/resource/\u041C\u0430\u043A\u0441\u0438\u043C_\u0413\u043E\u0440\u043A\u0438> .
+@prefix dbpedia-da:	<http://da.dbpedia.org/resource/> .
+dbr:Maxim_Gorky	owl:sameAs	dbpedia-da:Maksim_Gorkij .
+@prefix ns38:	<http://sco.dbpedia.org/resource/> .
+dbr:Maxim_Gorky	owl:sameAs	ns38:Maxim_Gorky .
+@prefix dbpedia-cs:	<http://cs.dbpedia.org/resource/> .
+dbr:Maxim_Gorky	owl:sameAs	dbpedia-cs:Maxim_Gorkij .
+@prefix dbpedia-fi:	<http://fi.dbpedia.org/resource/> .
+dbr:Maxim_Gorky	owl:sameAs	dbpedia-fi:Maksim_Gorki ,
+		<http://ko.dbpedia.org/resource/\uB9C9\uC2EC_\uACE0\uB9AC\uD0A4> ,
+		<http://te.dbpedia.org/resource/\u0C2E\u0C3E\u0C15\u0C4D\u0C38\u0C3F\u0C02_\u0C17\u0C4B\u0C30\u0C4D\u0C15\u0C40> .
+@prefix ns41:	<http://jv.dbpedia.org/resource/> .
+dbr:Maxim_Gorky	owl:sameAs	ns41:Maxim_Gorky ,
+		<http://bn.dbpedia.org/resource/\u09AE\u09BE\u0995\u09CD\u09B8\u09BF\u09AE_\u0997\u09CB\u09B0\u09CD\u0995\u09BF> .
+@prefix dbpedia-hr:	<http://hr.dbpedia.org/resource/> .
+dbr:Maxim_Gorky	owl:sameAs	dbpedia-hr:Maksim_Gorki ,
+		<http://pnb.dbpedia.org/resource/\u0645\u06CC\u06A9\u0633\u0645_\u06AF\u0648\u0631\u06A9\u06CC> .
+@prefix dbpedia-cy:	<http://cy.dbpedia.org/resource/> .
+dbr:Maxim_Gorky	owl:sameAs	dbpedia-cy:Maxim_Gorki .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Maxim_Gorky	owl:sameAs	dbpedia-nl:Maksim_Gorki .
+@prefix dbpedia-nn:	<http://nn.dbpedia.org/resource/> .
+dbr:Maxim_Gorky	owl:sameAs	dbpedia-nn:Maksim_Gorkij ,
+		<http://zh.dbpedia.org/resource/\u9A6C\u514B\u897F\u59C6\u00B7\u9AD8\u5C14\u57FA> .
+@prefix ns46:	<http://uz.dbpedia.org/resource/> .
+dbr:Maxim_Gorky	owl:sameAs	ns46:Maksim_Gorkiy .
+@prefix dbpedia-et:	<http://et.dbpedia.org/resource/> .
+dbr:Maxim_Gorky	owl:sameAs	dbpedia-et:Maksim_Gorki ,
+		<http://sr.dbpedia.org/resource/\u041C\u0430\u043A\u0441\u0438\u043C_\u0413\u043E\u0440\u043A\u0438> .
+@prefix dbpedia-id:	<http://id.dbpedia.org/resource/> .
+dbr:Maxim_Gorky	owl:sameAs	dbpedia-id:Maxim_Gorky ,
+		<http://my.dbpedia.org/resource/\u1019\u1000\u1039\u1000\u1007\u1004\u103A_\u1002\u1031\u102B\u103A\u1000\u102E> .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Maxim_Gorky	owl:sameAs	dbpedia-de:Maxim_Gorki ,
+		<http://d-nb.info/gnd/118639293> .
+@prefix dbpedia-io:	<http://io.dbpedia.org/resource/> .
+dbr:Maxim_Gorky	owl:sameAs	dbpedia-io:Maxim_Gorky ,
+		<http://rdf.freebase.com/ns/m.0lm4b> .
+@prefix ns51:	<http://d-nb.info/gnd/118639293/about/> .
+dbr:Maxim_Gorky	owl:sameAs	ns51:rdf ,
+		<http://azb.dbpedia.org/resource/\u0645\u0627\u06A9\u0633\u06CC\u0645_\u0642\u0648\u0631\u06A9\u06CC> .
+@prefix dbpedia-ms:	<http://ms.dbpedia.org/resource/> .
+dbr:Maxim_Gorky	owl:sameAs	dbpedia-ms:Maxim_Gorky ,
+		<http://viaf.org/viaf/96998392> .
+@prefix ns53:	<http://mg.dbpedia.org/resource/> .
+dbr:Maxim_Gorky	owl:sameAs	ns53:Maxim_Gorky .
+@prefix dbpedia-tr:	<http://tr.dbpedia.org/resource/> .
+dbr:Maxim_Gorky	owl:sameAs	dbpedia-tr:Maksim_Gorki ,
+		<http://cv.dbpedia.org/resource/\u041C\u0430\u043A\u0441\u0438\u043C_\u0413\u043E\u0440\u044C\u043A\u0438\u0439> .
+@prefix dbpedia-sh:	<http://sh.dbpedia.org/resource/> .
+dbr:Maxim_Gorky	owl:sameAs	dbpedia-sh:Maksim_Gorki .
+@prefix ns56:	<http://bs.dbpedia.org/resource/> .
+dbr:Maxim_Gorky	owl:sameAs	ns56:Maksim_Gorki .
+@prefix dbpedia-gl:	<http://gl.dbpedia.org/resource/> .
+dbr:Maxim_Gorky	owl:sameAs	dbpedia-gl:Maxim_Gorki ,
+		<http://d-nb.info/gnd/186088523> .
+@prefix dbpedia-ca:	<http://ca.dbpedia.org/resource/> .
+dbr:Maxim_Gorky	owl:sameAs	dbpedia-ca:Maksim_Gorki .
+@prefix dbpedia-az:	<http://az.dbpedia.org/resource/> .
+dbr:Maxim_Gorky	owl:sameAs	dbpedia-az:Maksim_Qorki .
+@prefix dbpedia-no:	<http://no.dbpedia.org/resource/> .
+dbr:Maxim_Gorky	owl:sameAs	dbpedia-no:Maksim_Gorkij ,
+		<http://ar.dbpedia.org/resource/\u0645\u0643\u0633\u064A\u0645_\u063A\u0648\u0631\u0643\u064A> .
+@prefix ns61:	<http://musicbrainz.org/artist/> .
+dbr:Maxim_Gorky	owl:sameAs	ns61:c02629f7-6ef5-4d66-85e7-d4fd36a78260 .
+@prefix dbpedia-sl:	<http://sl.dbpedia.org/resource/> .
+dbr:Maxim_Gorky	owl:sameAs	dbpedia-sl:Maksim_Gorki ,
+		<http://be.dbpedia.org/resource/\u041C\u0430\u043A\u0441\u0456\u043C_\u0413\u043E\u0440\u043A\u0456> ,
+		<http://hy.dbpedia.org/resource/\u0544\u0561\u0584\u057D\u056B\u0574_\u0533\u0578\u0580\u056F\u056B> .
+@prefix dbpedia-af:	<http://af.dbpedia.org/resource/> .
+dbr:Maxim_Gorky	owl:sameAs	dbpedia-af:Maksim_Gorki .
+@prefix ns64:	<https://global.dbpedia.org/id/> .
+dbr:Maxim_Gorky	owl:sameAs	ns64:JrZf ,
+		<http://tt.dbpedia.org/resource/\u041C\u0430\u043A\u0441\u0438\u043C_\u0413\u043E\u0440\u044C\u043A\u0438\u0439> .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Maxim_Gorky	owl:sameAs	yago-res:Maxim_Gorky ,
+		<http://ru.dbpedia.org/resource/\u041C\u0430\u043A\u0441\u0438\u043C_\u0413\u043E\u0440\u044C\u043A\u0438\u0439> ,
+		<http://pa.dbpedia.org/resource/\u0A2E\u0A48\u0A15\u0A38\u0A3F\u0A2E_\u0A17\u0A4B\u0A30\u0A15\u0A40> .
+@prefix ns66:	<http://www4.wiwiss.fu-berlin.de/gutendata/resource/people/> .
+dbr:Maxim_Gorky	owl:sameAs	ns66:Gorky_Maksim_1868-1936 .
+@prefix dbpedia-simple:	<http://simple.dbpedia.org/resource/> .
+dbr:Maxim_Gorky	owl:sameAs	dbpedia-simple:Maxim_Gorky .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Maxim_Gorky	owl:sameAs	dbpedia-fr:Maxime_Gorki .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Maxim_Gorky	owl:sameAs	dbpedia-pl:Maksim_Gorki ,
+		<http://ja.dbpedia.org/resource/\u30DE\u30AF\u30B7\u30E0\u30FB\u30B4\u30FC\u30EA\u30AD\u30FC> ,
+		<http://ka.dbpedia.org/resource/\u10DB\u10D0\u10E5\u10E1\u10D8\u10DB_\u10D2\u10DD\u10E0\u10D9\u10D8> .
+@prefix dbpedia-an:	<http://an.dbpedia.org/resource/> .
+dbr:Maxim_Gorky	owl:sameAs	dbpedia-an:Maxim_Gorki ,
+		<http://it.dbpedia.org/resource/Maksim_Gor\u0027kij> ,
+		wikidata:Q12706 ;
+	schema:sameAs	<http://viaf.org/viaf/96998392> ;
+	dbp:commons	"Category:Maxim Gorky"@en ;
+	dbp:q	"Maxim Gorky"@en ;
+	dbp:s	"Author:Maxim Gorky"@en ;
+	dbp:species	"no"@en ;
+	dbp:v	"no"@en ;
+	dbp:wikt	"no"@en .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Maxim_Gorky	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Maxim_Gorky?oldid=985805334&ns=0> ;
+	dbo:pseudonym	"Maxim Gorky"@en ;
+	dbp:pseudonym	"Maxim Gorky"@en ;
+	dbp:period	dbr:Modernism ;
+	dbp:movement	dbr:Socialist_realism ;
+	dbo:movement	dbr:Socialist_realism ;
+	dbp:signature	"MaximGorkySignature.svg"@en ;
+	dbp:n	"no"@en ;
+	dbp:genre	"Novel, drama"@en ;
+	dbo:thumbnail	<http://en.wikipedia.org/wiki/Special:FilePath/Maxim_Gorky_LOC_Restored_edit1.jpg?width=300> ;
+	dbo:deathPlace	dbr:Moscow_Oblast ,
+		dbr:Soviet_Union ;
+	dbp:deathPlace	"Gorki-10, Moscow Oblast, Soviet Union"@en .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Maxim_Gorky	dbo:deathDate	"1936-06-18"^^xsd:date ;
+	dbo:birthPlace	dbr:Nizhny_Novgorod ,
+		dbr:Nizhny_Novgorod_Governorate ,
+		dbr:Russian_Empire ;
+	dbp:birthPlace	dbr:Nizhny_Novgorod ,
+		dbr:Nizhny_Novgorod_Governorate ,
+		dbr:Russian_Empire ;
+	dbo:wikiPageID	85036 ;
+	dbo:wikiPageRevisionID	985805334 ;
+	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Vassa_Zheleznova_(play)> ,
+		dbr:Kliment_Voroshilov ,
+		dbr:Novosibirsk ,
+		<http://dbpedia.org/resource/Category:Capri,_Campania> ,
+		dbr:Luhansk ,
+		dbr:Giacomo_Orefice ,
+		dbr:Saint_Petersburg ,
+		dbr:Order_of_Lenin ,
+		ns9:_My_Universities ,
+		dbr:Kolkata ,
+		dbr:NKVD ,
+		dbr:Modernism ,
+		dbc:Russian_anti-capitalists ,
+		dbr:Nikolay_Gumilyov ,
+		<http://dbpedia.org/resource/Novaya_Zhizn_(Mensheviks)> ,
+		<http://dbpedia.org/resource/Chi\u0219in\u0103u> ,
+		<http://dbpedia.org/resource/Znamensky_District,_Omsk_Oblast> ,
+		dbr:Vladimir_Bazarov ,
+		dbr:Maldives ,
+		dbr:India ,
+		dbr:Maxim_Gorki_Theater ,
+		dbc:Recipients_of_the_Order_of_Lenin ,
+		dbr:Nizhny_Novgorod ,
+		<http://dbpedia.org/resource/Category:19th-century_Russian_male_writers> ,
+		dbr:Shakhty_Trial ,
+		dbr:Kharkiv ,
+		dbr:Monarchism ,
+		dbr:Ioasaf_Tikhomirov ,
+		dbr:Tula_Academic_Theatre ,
+		dbr:God-Building ,
+		dbr:Mark_Donskoy ,
+		dbr:Social_democracy ,
+		dbr:The_Life_of_Klim_Samgin ,
+		dbr:Taganrog ,
+		dbr:Kornilov_affair ,
+		dbr:Nur-Sultan ,
+		dbc:People_from_Nizhny_Novgorod_Governorate ,
+		dbr:The_Childhood_of_Maxim_Gorky ,
+		dbc:Burials_at_the_Kremlin_Wall_Necropolis ,
+		dbc:Marxist_writers ,
+		dbr:Cheka ,
+		dbr:Former_people ,
+		dbr:Gulag ,
+		dbr:Kameshkovsky_District ,
+		<http://dbpedia.org/resource/Category:20th-century_Russian_short_story_writers> ,
+		dbr:Union_of_Soviet_Writers ,
+		dbr:Angelique_Rockas ,
+		dbr:Denis_Diderot ,
+		dbr:Nevinnomyssk ,
+		dbr:The_Philistines ,
+		dbr:Notes_from_Underground ,
+		dbr:Nicholas_II_of_Russia ,
+		dbr:Konstantin_Stanislavski ,
+		<http://dbpedia.org/resource/Children_(Gorky_play)> ,
+		<http://dbpedia.org/resource/Palace_of_Culture_named_after_Maxim_Gorky,_Novosibirsk> ,
+		dbr:Russian_Post ,
+		dbr:Alexander_Bogdanov ,
+		dbr:Kingdom_of_Italy ,
+		dbr:Magadan ,
+		dbr:Albania ,
+		<http://dbpedia.org/resource/Tula,_Russia> ,
+		<http://dbpedia.org/resource/G._K._Chesterton> ,
+		dbr:Savva_Morozov ,
+		dbr:Sturmabteilung ,
+		dbr:Vladimir_Lenin ,
+		dbr:Azerbaijan ,
+		dbr:Minsk ,
+		<http://dbpedia.org/resource/Category:19th-century_Russian_short_story_writers> ,
+		dbr:Moscow ,
+		dbc:Deaths_from_pneumonia ,
+		dbr:Cholera ,
+		dbr:Marie_Curie ,
+		<http://dbpedia.org/resource/Gorky_Park_(Moscow)> ,
+		dbr:Gorkovsky_suburban_railway_line ,
+		dbr:Gorky_Film_Studio ,
+		<http://dbpedia.org/resource/Category:1936_deaths> ,
+		dbr:Tsarist_autocracy ,
+		dbc:Soviet_novelists ,
+		dbr:Orenburg_Oblast ,
+		dbr:Tbilisi ,
+		dbr:Nobel_Prize_in_Literature ,
+		dbr:Socialist_realism ,
+		dbr:Sergey_Nechayev ,
+		dbr:Maria_Fyodorovna_Andreyeva ,
+		<http://dbpedia.org/resource/Category:20th-century_Russian_male_writers> ,
+		dbc:Soviet_male_writers ,
+		dbc:Soviet_short_story_writers ,
+		dbr:Tuberculosis ,
+		dbr:Vladivostok ,
+		dbc:Russian_male_novelists ,
+		dbc:Russian_male_short_story_writers ,
+		dbr:Melitopol ,
+		dbr:Vietnam ,
+		<http://dbpedia.org/resource/Barbarians_(play)> ,
+		dbr:BBC_Russian_Service ,
+		dbr:The_Song_of_the_Stormy_Petrel ,
+		dbr:Azerbaijan_State_Theatre_of_Young_Spectators ,
+		dbc:Maxim_Gorky ,
+		<http://dbpedia.org/resource/File:1900_yalta-gorky_and_chekhov.jpg> ,
+		dbr:Dostigayev_and_Others ,
+		<http://dbpedia.org/resource/File:1900_yasnaya_polyana-gorky_and_tolstoy.jpg> ,
+		<http://dbpedia.org/resource/File:M_Dmitrovka_Ryabushinsky_Schechtel_side.jpg> ,
+		<http://dbpedia.org/resource/My_Childhood_(Gorky_book)> ,
+		dbr:The_Life_of_a_Useless_Man ,
+		dbr:Yegor_Bulychov_and_Others ,
+		<http://dbpedia.org/resource/The_Old_Man_(Gorky_play)> ,
+		<http://dbpedia.org/resource/File:Avel_Enukidze_Joseph_Stalin_and_Maxim_Gorky_Red_Square_1931.jpg> ,
+		<http://dbpedia.org/resource/File:E._M._Lilien_Ex_Libris_Gorki.jpg> ,
+		<http://dbpedia.org/resource/File:RR5110-0153R.png> ,
+		<http://dbpedia.org/resource/File:\u041C\u0435\u043C\u043E\u0440\u0438\u0430\u043B\u044C\u043D\u0430\u044F_\u0434\u043E\u0441\u043A\u0430_\u043F\u0438\u0441\u0430\u0442\u0435\u043B\u044E_\u041C\u0430\u043A\u0441\u0438\u043C\u0443_\u0413\u043E\u0440\u044C\u043A\u043E\u043C\u0443.JPG> ,
+		dbr:Somov_and_Others ,
+		dbr:The_Zykovs .
+@prefix ns73:	<http://dbpedia.org/resource/Wikilivres:> .
+dbr:Maxim_Gorky	dbo:wikiPageWikiLink	ns73:Maxim_Gorky ,
+		<http://dbpedia.org/resource/File:Villa_Behring_on_Capri.jpg> ,
+		dbr:Bolsheviks ,
+		<http://dbpedia.org/resource/Bloody_Sunday_(1905)> ,
+		dbr:Novoorsky_District ,
+		dbr:Makar_Chudra ,
+		dbr:Anatole_France ,
+		dbr:Internationalist_Theatre ,
+		dbr:Nizhny_Novgorod_Governorate ,
+		<http://dbpedia.org/resource/Mother_(Gorky_novel)> ,
+		dbr:Vyacheslav_Molotov ,
+		dbr:Auguste_Rodin ,
+		dbr:PDF ,
+		dbr:Moscow_Oblast ,
+		<http://dbpedia.org/resource/A_Confession_(Gorky)> ,
+		dbr:Volgograd ,
+		dbr:Krasnoyarsk ,
+		dbr:Pavel_Ryabushinsky ,
+		<http://dbpedia.org/resource/Enemies_(play)> ,
+		dbc:People_from_Sorrento ,
+		dbr:Donetsk_National_Medical_University ,
+		dbr:Romanov_Tercentenary ,
+		<http://dbpedia.org/resource/1905_Russian_Revolution> ,
+		dbr:Leningrad_Oblast ,
+		dbr:Bertolt_Brecht ,
+		dbr:Krutinsky_District ,
+		dbr:Pyotr_Kryuchkov ,
+		dbr:Manhattan_Theatre_Club ,
+		ns5:_My_Apprenticeship ,
+		dbr:Peter_and_Paul_Fortress ,
+		<http://dbpedia.org/resource/Category:19th-century_Russian_novelists> ,
+		dbr:Ural_State_University ,
+		dbr:Adirondack_Mountains ,
+		dbc:Pseudonymous_writers ,
+		dbr:Fergana_Valley ,
+		dbr:Homosexuality ,
+		dbr:Russian_Social_Democratic_Labour_Party ,
+		dbr:Yalta ,
+		dbr:Omsk_Oblast ,
+		dbr:Rovenky ,
+		dbr:Alexei_Rykov ,
+		dbr:Magtymguly_Pyragy ,
+		dbr:Vladimir_Oblast ,
+		dbr:Moura_Budberg ,
+		dbr:Postage_stamp ,
+		dbr:Summerfolk ,
+		dbr:Gorky_Institute_of_World_Literature ,
+		dbr:Gorky_Museum ,
+		dbr:Nadezhda_Mandelstam ,
+		dbr:Vladimir_Nemirovich-Danchenko ,
+		<http://dbpedia.org/resource/Znanie_(publishing_company)> ,
+		dbr:Intelligentsia ,
+		dbr:Tupolev_ANT-20 ,
+		dbr:Matvei_Golovinski ,
+		dbr:The_Last_Ones ,
+		dbr:Kazakhstan ,
+		dbr:Foma_Gordeyev ,
+		dbr:Maxim_Gorky_Literature_Institute ,
+		dbr:Turkmen_State_University ,
+		dbc:Russian_memoirists ,
+		dbr:The_Lower_Depths ,
+		dbr:Moscow_Trials ,
+		dbr:Keith_Fowler ,
+		dbr:Progress_Publishers ,
+		dbr:Tashkent ,
+		dbr:Old_Izergil ,
+		dbr:FK_Sloboda_Tuzla ,
+		dbr:Park_of_Maxim_Gorky ,
+		dbr:Fyodor_Dostoevsky ,
+		dbr:Genrikh_Yagoda ,
+		dbr:Okhrana ,
+		dbr:Saratov ,
+		dbr:Lazar_Kaganovich ,
+		dbr:Central_Bank_of_Russia ,
+		dbr:Ukraine ,
+		<http://dbpedia.org/resource/The_I.V._Stalin_White_Sea_\u2013_Baltic_Sea_Canal> ,
+		dbr:Ivan_Narodny ,
+		dbr:Andrei_Zhdanov ,
+		dbr:Twenty-six_Men_and_a_Girl ,
+		dbr:Pavel_Yudin ,
+		<http://dbpedia.org/resource/Georgia_(country)> ,
+		dbr:Kudymkar ,
+		dbr:Baku ,
+		dbr:Chelkash ,
+		<http://dbpedia.org/resource/Category:19th-century_Russian_dramatists_and_playwrights> ,
+		dbr:Vpered ,
+		dbr:Krasnodar ,
+		dbr:Anatoly_Lunacharsky ,
+		dbr:Soviet_Union ,
+		dbr:Simferopol ,
+		dbr:East_Germany ,
+		<http://dbpedia.org/resource/Category:20th-century_Russian_novelists> ,
+		dbc:Soviet_non-fiction_writers ,
+		dbc:Soviet_dramatists_and_playwrights ,
+		dbr:Dacha ,
+		dbr:Italy ,
+		<http://dbpedia.org/resource/Category:1868_births> ,
+		dbr:Berlin ,
+		dbr:Belarus ,
+		dbr:Volga_region ,
+		dbr:Stalinism ,
+		dbr:Moldova ,
+		dbr:Russia ,
+		dbr:Russian_Empire ,
+		dbc:Russian_male_dramatists_and_playwrights ,
+		dbr:Hillel_the_Elder ,
+		dbc:Russian_atheists ,
+		dbc:Socialist_realism_writers ,
+		dbr:Anton_Chekhov ,
+		dbr:Nikolai_Bukharin ,
+		dbr:Vladimir_Korolenko ,
+		dbr:Queer_People ,
+		dbr:Ikonnikovo ,
+		dbr:Joseph_Stalin ,
+		dbr:Almaty ,
+		dbr:World_War_I ,
+		dbr:Rostov-on-Don ,
+		<http://dbpedia.org/resource/Russian_famine_of_1921\u201322> ,
+		dbr:Maxim_Gorky ,
+		dbc:People_from_Nizhny_Novgorod ,
+		dbr:National_University_of_Kharkiv ,
+		dbr:Three_of_Them ,
+		dbr:Leopold_Averbakh ,
+		dbr:Leon_Trotsky ,
+		dbr:Moscow_Art_Theatre ,
+		<http://dbpedia.org/resource/The_Mother_(Brecht_play)> ,
+		<http://dbpedia.org/resource/Children_of_the_Sun_(play)> ,
+		dbr:Marxists_Internet_Archive ,
+		dbc:Bolshevik_finance ,
+		dbr:Joint_State_Political_Directorate ,
+		dbr:Orenburg ,
+		dbr:Valery_Zhelobinsky ,
+		dbr:Leo_Tolstoy ,
+		<http://dbpedia.org/resource/White_Sea\u2013Baltic_Canal> ,
+		<http://dbpedia.org/resource/Category:20th-century_Russian_dramatists_and_playwrights> ,
+		dbr:Anna_Akhmatova ,
+		dbr:Capri ,
+		dbr:Samara ,
+		dbr:Trial_of_the_Socialist_Revolutionaries ,
+		dbr:Miniature_sheet ,
+		dbr:Odessa ,
+		dbr:Lviv ,
+		dbr:Sergei_Kirov ,
+		dbr:Marxism ;
+	dbo:wikiPageExternalLink	<https://web.archive.org/web/20110319182448/http:/www.dailynews.lk/2009/12/26/fea15.asp> .
+@prefix ns74:	<https://archive.org/details/> .
+dbr:Maxim_Gorky	dbo:wikiPageExternalLink	ns74:leninandgorky ,
+		<https://www.gorkysadan.com/> ,
+		<https://archive.org/stream/in.ernet.dli.2015.185585/2015.185585.The-Slavonic-Reviewvol64%23page/n27/mode/2up%7Cjournal=The> ,
+		<https://www.marxists.org/archive/gorky-maxim/index.htm> .
+@prefix ns75:	<http://commons.wikimedia.org/wiki/Category:> .
+dbr:Maxim_Gorky	dbo:wikiPageExternalLink	ns75:Maxim_Gorky_in_photography ,
+		<http://ilibrary.ru/author/gorky/> ,
+		<http://www.imagi-nation.com/moonstruck/clsc6w4.html> ,
+		<https://books.google.com/books%3Fid=xBLpFqlrczwC&pg=PA223> .
+@prefix dbt:	<http://dbpedia.org/resource/Template:> .
+dbr:Maxim_Gorky	dbp:wikiPageUsesTemplate	dbt:Use_dmy_dates ,
+		dbt:Infobox_writer ,
+		dbt:ISBN ,
+		<http://dbpedia.org/resource/Template:%5E> ,
+		dbt:Death_date_and_age ,
+		dbt:Authority_control ,
+		dbt:Citation_needed ,
+		dbt:Reflist ,
+		dbt:Short_description ,
+		dbt:More_citations_needed_section ,
+		dbt:Internet_Archive_author ,
+		dbt:Cite_journal ,
+		dbt:Gutenberg_author ,
+		dbt:Librivox_author ,
+		dbt:Other_uses ,
+		dbt:The_Mother ,
+		dbt:Maxim_Gorky ,
+		dbt:PM20 ,
+		dbt:Sister_project_links ,
+		dbt:Circa ,
+		dbt:Gallery ,
+		dbt:EngvarB ,
+		dbt:The_Lower_Depths ,
+		dbt:Main ,
+		dbt:OldStyleDate ,
+		dbt:Cite_book ,
+		dbt:See_also ,
+		dbt:Sfn ;
+	dbp:birthDate	"--03-28"^^xsd:gMonthDay ;
+	dbp:birthName	"Aleksey Maksimovich Peshkov"@en ;
+	dbp:caption	"portrait"@en ;
+	dbp:deathDate	"1936-06-18"^^xsd:date ;
+	dbp:occupation	"Writer, dramatist, politician"@en ;
+	dbo:abstract	"\u041C\u0430\u043A\u0441\u0438\u0301\u043C \u0413\u043E\u0301\u0440\u044C\u043A\u0438\u0439 (\u041F\u0454\u0448\u043A\u043E\u0432 \u041E\u043B\u0435\u043A\u0441\u0456\u0439 \u041C\u0430\u043A\u0441\u0438\u043C\u043E\u0432\u0438\u0447, \u0442\u0430\u043A\u043E\u0436 \u0413\u043E\u0440\u044C\u043A\u0438\u0439 \u041E\u043B\u0435\u043A\u0441\u0456\u0439 \u041C\u0430\u043A\u0441\u0438\u043C\u043E\u0432\u0438\u0447; 16 [28] \u0431\u0435\u0440\u0435\u0437\u043D\u044F 1868, \u041D\u0438\u0436\u043D\u0456\u0439 \u041D\u043E\u0432\u0433\u043E\u0440\u043E\u0434, \u041D\u0438\u0436\u043D\u044C\u043E\u0433\u043E\u0440\u043E\u0434\u0441\u044C\u043A\u0430 \u0433\u0443\u0431\u0435\u0440\u043D\u0456\u044F, \u0420\u043E\u0441\u0456\u0439\u0441\u044C\u043A\u0430 \u0456\u043C\u043F\u0435\u0440\u0456\u044F \u2014 18 \u0447\u0435\u0440\u0432\u043D\u044F 1936, , \u041C\u043E\u0441\u043A\u043E\u0432\u0441\u044C\u043A\u0430 \u043E\u0431\u043B\u0430\u0441\u0442\u044C, \u0420\u0420\u0424\u0421\u0420, \u0421\u0420\u0421\u0420) \u2014 \u0440\u043E\u0441\u0456\u0439\u0441\u044C\u043A\u0438\u0439, \u043F\u0456\u0437\u043D\u0456\u0448\u0435 \u0440\u0430\u0434\u044F\u043D\u0441\u044C\u043A\u0438\u0439 \u00AB\u043F\u0440\u043E\u043B\u0435\u0442\u0430\u0440\u0441\u044C\u043A\u0438\u0439\u00BB \u043F\u0438\u0441\u044C\u043C\u0435\u043D\u043D\u0438\u043A, \u0434\u0440\u0430\u043C\u0430\u0442\u0443\u0440\u0433 \u0442\u0430 \u043F\u0443\u0431\u043B\u0456\u0446\u0438\u0441\u0442; \u0447\u043B\u0435\u043D \u0420\u0421\u0414\u0420\u041F(\u0431), \u0434\u0435\u044F\u043A\u0438\u0439 \u0447\u0430\u0441 \u0434\u0440\u0443\u0436\u0438\u0432 \u0437 \u041B\u0435\u043D\u0456\u043D\u0438\u043C."@uk ,
+		"Maxim Gorki (russisch \u041C\u0430\u043A\u0441\u0438\u043C \u0413\u043E\u0440\u044C\u043A\u0438\u0439, wissenschaftliche Transliteration Maksim Gor\u2019kij oder Gorkij * 16. M\u00E4rzjul./ 28. M\u00E4rz 1868greg. in Nischni Nowgorod; \u2020 18. Juni 1936 in Gorki-10, westlich von Moskau) war ein russischer Schriftsteller. Er hie\u00DF eigentlich Alexei Maximowitsch Peschkow (russisch \u0410\u043B\u0435\u043A\u0441\u0435\u0439 \u041C\u0430\u043A\u0441\u0438\u043C\u043E\u0432\u0438\u0447 \u041F\u0435\u0448\u043A\u043E\u0432, Transliteration Aleksej Maksimovi\u010D Pe\u0161kov)."@de ,
+		"\u0623\u0644\u064A\u0643\u0633\u064A \u0645\u0643\u0633\u064A\u0645\u0648\u0641\u064A\u062A\u0634 \u0628\u064A\u0634\u0643\u0648\u0641 (\u0628\u0627\u0644\u0631\u0648\u0633\u064A\u0629: \u0410\u043B\u0435\u043A\u0441\u0435\u0439 \u041C\u0430\u043A\u0441\u0438\u043C\u043E\u0432\u0438\u0447 \u041F\u0435\u0448\u043A\u043E\u0432) \u0648\u064A\u0639\u0631\u0641 \u0628\u0627\u0633\u0645 \u0645\u0643\u0633\u064A\u0645 \u063A\u0648\u0631\u0643\u064A (\u041C\u0430\u043A\u0441\u0438\u043C \u0413\u043E\u0440\u044C\u043A\u0438\u0439)\u061B (28 \u0645\u0627\u0631\u0633 1868 - 18 \u064A\u0648\u0646\u064A\u0648 1936)\u060C \u0623\u062F\u064A\u0628 \u0648\u0646\u0627\u0634\u0637 \u0633\u064A\u0627\u0633\u064A \u0645\u0627\u0631\u0643\u0633\u064A \u0631\u0648\u0633\u064A\u060C \u0645\u0624\u0633\u0633 \u0645\u062F\u0631\u0633\u0629 \u0627\u0644\u0648\u0627\u0642\u0639\u064A\u0629 \u0627\u0644\u0627\u0634\u062A\u0631\u0627\u0643\u064A\u0629 \u0627\u0644\u062A\u064A \u062A\u062C\u0633\u062F \u0627\u0644\u0646\u0638\u0631\u0629 \u0627\u0644\u0645\u0627\u0631\u0643\u0633\u064A\u0629 \u0644\u0644\u0623\u062F\u0628 \u062D\u064A\u062B \u064A\u0631\u0649 \u0623\u0646 \u0627\u0644\u0623\u062F\u0628 \u0645\u0628\u0646\u064A \u0639\u0644\u0649 \u0627\u0644\u0646\u0634\u0627\u0637 \u0627\u0644\u0627\u0642\u062A\u0635\u0627\u062F\u064A \u0641\u064A \u0646\u0634\u0623\u062A\u0647 \u0648\u0646\u0645\u0648\u0647 \u0648\u062A\u0637\u0648\u0631\u0647\u060C \u0648\u0623\u0646\u0647 \u064A\u0624\u062B\u0631 \u0641\u064A \u0627\u0644\u0645\u062C\u062A\u0645\u0639 \u0628\u0642\u0648\u062A\u0647 \u0627\u0644\u062E\u0627\u0635\u0629\u060C \u0644\u0630\u0644\u0643 \u064A\u0646\u0628\u063A\u064A \u062A\u0648\u0638\u064A\u0641\u0647 \u0641\u064A \u062E\u062F\u0645\u0629 \u0627\u0644\u0645\u062C\u062A\u0645\u0639. \u0643\u0645\u0627 \u062A\u0645 \u062A\u0631\u0634\u064A\u062D\u0647 5 \u0645\u0631\u0627\u062A \u0644\u0644\u062D\u0635\u0648\u0644 \u0639\u0644\u0649 \u062C\u0627\u0626\u0632\u0629 \u0646\u0648\u0628\u0644 \u0641\u064A \u0627\u0644\u0622\u062F\u0627\u0628."@ar ,
+		"\u039F \u0391\u03BB\u03B5\u03BE\u03AD\u03B9 \u039C\u03B1\u03BE\u03AF\u03BC\u03BF\u03B2\u03B9\u03C4\u03C2 \u03A0\u03B5\u03C3\u03BA\u03CC\u03C6 (\u03C1\u03CE\u03C3\u03B9\u03BA\u03B1: \u0410\u043B\u0435\u043A\u0441\u0435\u0301\u0439 \u041C\u0430\u043A\u0441\u0438\u0301\u043C\u043E\u0432\u0438\u0447 \u041F\u0435\u0448\u043A\u043E\u0301\u0432, 28 \u039C\u03B1\u03C1\u03C4\u03AF\u03BF\u03C5 1868 - 18 \u0399\u03BF\u03C5\u03BD\u03AF\u03BF\u03C5 1936), \u03C0\u03C1\u03C9\u03C4\u03AF\u03C3\u03C4\u03C9\u03C2 \u03B3\u03BD\u03C9\u03C3\u03C4\u03CC\u03C2 \u03C9\u03C2 \u039C\u03B1\u03BE\u03AF\u03BC \u0393\u03BA\u03CC\u03C1\u03BA\u03B9 (\u03C1\u03CE\u03C3\u03B9\u03BA\u03B1: \u041C\u0430\u043A\u0441\u0438\u043C \u0413\u043E\u0440\u044C\u043A\u0438\u0439, \u03C0\u03C1\u03BF\u03C6\u03AD\u03C1\u03B5\u03C4\u03B1\u03B9 [m\u0250\u02C8ks\u02B2im \u02C8gor\u02B2k\u02B2\u026Aj]) \u03AE\u03C4\u03B1\u03BD \u03A1\u03CE\u03C3\u03BF\u03C2 \u03C3\u03C5\u03B3\u03B3\u03C1\u03B1\u03C6\u03AD\u03B1\u03C2, \u03B9\u03B4\u03C1\u03C5\u03C4\u03AE\u03C2 \u03C4\u03B7\u03C2 \u03BB\u03BF\u03B3\u03BF\u03C4\u03B5\u03C7\u03BD\u03B9\u03BA\u03AE\u03C2 \u03BC\u03B5\u03B8\u03CC\u03B4\u03BF\u03C5 \u03C4\u03BF\u03C5 \u03C3\u03BF\u03C3\u03B9\u03B1\u03BB\u03B9\u03C3\u03C4\u03B9\u03BA\u03BF\u03CD \u03C1\u03B5\u03B1\u03BB\u03B9\u03C3\u03BC\u03BF\u03CD \u03BA\u03B1\u03B9 \u03C0\u03BF\u03BB\u03B9\u03C4\u03B9\u03BA\u03CC\u03C2 \u03B1\u03BA\u03C4\u03B9\u03B2\u03B9\u03C3\u03C4\u03AE\u03C2. \u03A4\u03BF \u0393\u03BA\u03CC\u03C1\u03BA\u03B9 \u03C4\u03BF \u03B5\u03C0\u03AD\u03BB\u03B5\u03BE\u03B5 \u03C9\u03C2 \u03C8\u03B5\u03C5\u03B4\u03CE\u03BD\u03C5\u03BC\u03BF \u03B5\u03C0\u03B5\u03B9\u03B4\u03AE \u03C3\u03B7\u03BC\u03B1\u03AF\u03BD\u03B5\u03B9 \u03C0\u03B9\u03BA\u03C1\u03CC\u03C2. \u0391\u03BD\u03C4\u03B9\u03C4\u03AC\u03C7\u03C4\u03B7\u03BA\u03B5 \u03C0\u03BF\u03BB\u03BB\u03AC\u03BA\u03B9\u03C2 \u03C3\u03C4\u03BF  \u03BA\u03B1\u03B9 \u03C0\u03AD\u03C1\u03B1\u03C3\u03B5 \u03C0\u03BF\u03BB\u03CD \u03BA\u03B1\u03B9\u03C1\u03CC \u03C3\u03C4\u03B9\u03C2 \u03C6\u03C5\u03BB\u03B1\u03BA\u03AD\u03C2 \u03AE \u03C3\u03C4\u03B7\u03BD \u03B5\u03BE\u03BF\u03C1\u03AF\u03B1. \u0393\u03B5\u03BD\u03BD\u03AE\u03B8\u03B7\u03BA\u03B5 \u03B1\u03C0\u03CC \u03C6\u03C4\u03C9\u03C7\u03BF\u03CD\u03C2 \u03B3\u03BF\u03BD\u03B5\u03AF\u03C2, \u03C3\u03C4\u03B7\u03BD \u03C0\u03CC\u03BB\u03B7 \u039D\u03AF\u03B6\u03BD\u03B9 \u039D\u03CC\u03B2\u03B3\u03BA\u03BF\u03C1\u03BF\u03BD\u03C4 (\u041D\u0438\u0301\u0436\u043D\u0438\u0439 \u041D\u043E\u0301\u0432\u0433\u043E\u0440\u043E\u0434) \u03C3\u03C4\u03B9\u03C2 28 \u039C\u03B1\u03C1\u03C4\u03AF\u03BF\u03C5 1868 \u03BA\u03B1\u03B9 \u03C0\u03AD\u03B8\u03B1\u03BD\u03B5 \u03C3\u03C4\u03B7 \u039C\u03CC\u03C3\u03C7\u03B1 \u03C3\u03C4\u03B9\u03C2 18 \u0399\u03BF\u03C5\u03BD\u03AF\u03BF\u03C5 1936. \u03A3\u03C4\u03B1 1873 \u03C0\u03B5\u03B8\u03B1\u03AF\u03BD\u03B5\u03B9 \u03BF \u03C0\u03B1\u03C4\u03AD\u03C1\u03B1\u03C2 \u03C4\u03BF\u03C5. \u0397 \u03BC\u03B7\u03C4\u03AD\u03C1\u03B1 \u03C4\u03BF\u03C5 \u03B8\u03B1 \u03BE\u03B1\u03BD\u03B1\u03C0\u03B1\u03BD\u03C4\u03C1\u03B5\u03C5\u03C4\u03B5\u03AF \u03BA\u03B9 \u03BF \u039C\u03B1\u03BE\u03AF\u03BC \u0393\u03BA\u03CC\u03C1\u03BA\u03B9 \u03B8\u03B1 \u03BC\u03B5\u03AF\u03BD\u03B5\u03B9 \u03BC\u03B5 \u03C4\u03BF\u03BD \u03C0\u03B1\u03C0\u03C0\u03BF\u03CD \u03BA\u03B1\u03B9 \u03C4\u03B7 \u03B3\u03B9\u03B1\u03B3\u03B9\u03AC \u03C4\u03BF\u03C5. \u039F\u03B9 \u03B9\u03C3\u03C4\u03BF\u03C1\u03AF\u03B5\u03C2, \u03C4\u03B1 \u03C0\u03B1\u03C1\u03B1\u03BC\u03CD\u03B8\u03B9\u03B1 \u03BA\u03B9 \u03B7 \u03C4\u03C1\u03C5\u03C6\u03B5\u03C1\u03AE \u03C0\u03B1\u03C1\u03BF\u03C5\u03C3\u03AF\u03B1 \u03C4\u03B7\u03C2 \u03C4\u03B5\u03BB\u03B5\u03C5\u03C4\u03B1\u03AF\u03B1\u03C2 \u03AC\u03C3\u03BA\u03B7\u03C3\u03B1\u03BD \u03BC\u03B5\u03B3\u03AC\u03BB\u03B7 \u03B5\u03C0\u03AF\u03B4\u03C1\u03B1\u03C3\u03B7 \u03C0\u03AC\u03BD\u03C9 \u03C4\u03BF\u03C5. \u0391\u03BD\u03B1\u03B3\u03BA\u03AC\u03B6\u03B5\u03C4\u03B1\u03B9 \u03B1\u03C0\u03CC \u03C4\u03B7 \u03C6\u03C4\u03CE\u03C7\u03B5\u03B9\u03B1 \u03BD\u03B1 \u03C6\u03CD\u03B3\u03B5\u03B9 \u03B1\u03C0\u03CC \u03C4\u03BF \u03C3\u03C0\u03AF\u03C4\u03B9 \u03C3\u03B5 \u03B7\u03BB\u03B9\u03BA\u03AF\u03B1 \u03BC\u03CC\u03BB\u03B9\u03C2 9 \u03B5\u03C4\u03CE\u03BD \u03BA\u03B1\u03B9 \u03BD' \u03B1\u03BD\u03B1\u03B6\u03B7\u03C4\u03AE\u03C3\u03B5\u03B9 \u03BC\u03CC\u03BD\u03BF\u03C2 \u03C4\u03B7\u03BD \u03C4\u03CD\u03C7\u03B7 \u03C4\u03BF\u03C5. \u0394\u03BF\u03BA\u03B9\u03BC\u03AC\u03B6\u03B5\u03B9 \u03B4\u03B9\u03AC\u03C6\u03BF\u03C1\u03B1 \u03B5\u03C0\u03B1\u03B3\u03B3\u03AD\u03BB\u03BC\u03B1\u03C4\u03B1: \u03B2\u03BF\u03B7\u03B8\u03CC\u03C2 \u03C5\u03C0\u03BF\u03B4\u03B7\u03BC\u03B1\u03C4\u03BF\u03C0\u03BF\u03B9\u03BF\u03CD, \u03B2\u03BF\u03B7\u03B8\u03CC\u03C2 \u03B1\u03B3\u03B9\u03BF\u03B3\u03C1\u03AC\u03C6\u03BF\u03C5, \u03BB\u03B1\u03BD\u03C4\u03B6\u03AD\u03C1\u03B7\u03C2 \u03C3\u03B5 \u03BA\u03B1\u03C1\u03AC\u03B2\u03B9, \u03B1\u03C7\u03B8\u03BF\u03C6\u03CC\u03C1\u03BF\u03C2 \u03C3\u03C4\u03B7\u03BD \u039F\u03B4\u03B7\u03C3\u03C3\u03CC, \u03BD\u03C5\u03C7\u03C4\u03BF\u03C6\u03CD\u03BB\u03B1\u03BA\u03B1\u03C2 \u03C3\u03B5 \u03C8\u03B1\u03C1\u03AC\u03B4\u03B9\u03BA\u03BF, \u03C6\u03BF\u03CD\u03C1\u03BD\u03B1\u03C1\u03B7\u03C2, \u03BA\u03B1\u03B8\u03B1\u03C1\u03B9\u03C3\u03C4\u03AE\u03C2 \u03BA\u03B1\u03BC\u03B9\u03BD\u03AC\u03B4\u03C9\u03BD, \u03B5\u03C1\u03B3\u03AC\u03C4\u03B7\u03C2 \u03C3\u03C4\u03B1 \u03C7\u03C9\u03C1\u03AC\u03C6\u03B9\u03B1. \u03A1\u03B1\u03BA\u03AD\u03BD\u03B4\u03C5\u03C4\u03BF\u03C2, \u03C0\u03B5\u03B6\u03CC\u03C2 \u03BA\u03B1\u03B9 \u03C0\u03B5\u03B9\u03BD\u03B1\u03C3\u03BC\u03AD\u03BD\u03BF\u03C2 \u03B3\u03C5\u03C1\u03BD\u03AC \u03CC\u03BB\u03B7 \u03C4\u03B7 \u03A1\u03C9\u03C3\u03AF\u03B1, \u03B3\u03BD\u03C9\u03C1\u03AF\u03B6\u03B5\u03B9 \u03C4\u03BF\u03C5\u03C2 \u03B1\u03BD\u03B8\u03C1\u03CE\u03C0\u03BF\u03C5\u03C2 \u03BA\u03B1\u03B9 \u03C4\u03B7 \u03B4\u03C5\u03C3\u03C4\u03C5\u03C7\u03AF\u03B1 \u03C4\u03BF\u03C5\u03C2 \u03B3\u03B9\u03B1 \u03C0\u03AC\u03BD\u03C9 \u03B1\u03C0\u03CC 5 \u03C7\u03C1\u03CC\u03BD\u03B9\u03B1, \u03BA\u03AC\u03C4\u03B9 \u03C0\u03BF\u03C5 \u03AE\u03C4\u03B1\u03BD \u03B5\u03BE\u03AF\u03C3\u03BF\u03C5 \u03BA\u03B1\u03B8\u03BF\u03C1\u03B9\u03C3\u03C4\u03B9\u03BA\u03CC \u03B3\u03B9\u03B1 \u03C4\u03B7 \u03BC\u03B5\u03C4\u03AD\u03C0\u03B5\u03B9\u03C4\u03B1 \u03BB\u03BF\u03B3\u03BF\u03C4\u03B5\u03C7\u03BD\u03B9\u03BA\u03AE \u03B1\u03BB\u03BB\u03AC \u03BA\u03B1\u03B9 \u03C4\u03B7\u03BD \u03C0\u03BF\u03BB\u03B9\u03C4\u03B9\u03BA\u03AE \u03C4\u03BF\u03C5 \u03C0\u03BF\u03C1\u03B5\u03AF\u03B1. \u03A4\u03BF\u03BD \u0394\u03B5\u03BA\u03AD\u03BC\u03B2\u03C1\u03B7 \u03C4\u03BF\u03C5 1887 \u03B1\u03C5\u03C4\u03BF\u03C0\u03C5\u03C1\u03BF\u03B2\u03BF\u03BB\u03B5\u03AF\u03C4\u03B1\u03B9 \u03BC' \u03AD\u03BD\u03B1 \u03C0\u03B1\u03BB\u03B9\u03CC \u03C0\u03B9\u03C3\u03C4\u03CC\u03BB\u03B9 \u03C3\u03C4\u03BF \u03C3\u03C4\u03AE\u03B8\u03BF\u03C2. \u0397 \u03C3\u03C6\u03B1\u03AF\u03C1\u03B1 \u03B8\u03B1 \u03BC\u03B5\u03AF\u03BD\u03B5\u03B9 \u03C3\u03C4\u03B1 \u03C0\u03BD\u03B5\u03C5\u03BC\u03CC\u03BD\u03B9\u03B1 \u03C4\u03BF\u03C5 40 \u03BF\u03BB\u03CC\u03BA\u03BB\u03B7\u03C1\u03B1 \u03C7\u03C1\u03CC\u03BD\u03B9\u03B1. \u0397 \u03B1\u03B9\u03C4\u03AF\u03B1 \u03AE\u03C4\u03B1\u03BD \u03BC\u03AC\u03BB\u03BB\u03BF\u03BD \u03BF \u03B8\u03AC\u03BD\u03B1\u03C4\u03BF\u03C2 \u03C4\u03B7\u03C2 \u03B3\u03B9\u03B1\u03B3\u03B9\u03AC\u03C2 \u03C4\u03BF\u03C5. \u03A0\u03B1\u03C1\u03AC \u03C4\u03B9\u03C2 \u03B1\u03BD\u03C4\u03B9\u03BE\u03BF\u03CC\u03C4\u03B7\u03C4\u03B5\u03C2 \u03B1\u03C5\u03C4\u03AD\u03C2, \u03B1\u03C0\u03CC \u03C4\u03BF 1892 \u03BA\u03B9\u03CC\u03BB\u03B1\u03C2, \u03B1\u03C1\u03C7\u03AF\u03B6\u03B5\u03B9 \u03BD\u03B1 \u03B5\u03BA\u03B4\u03B7\u03BB\u03CE\u03BD\u03B5\u03C4\u03B1\u03B9 \u03B7 \u03B1\u03B3\u03AC\u03C0\u03B7 \u03C4\u03BF\u03C5 \u03B3\u03B9\u03B1 \u03C4\u03B7 \u03BB\u03BF\u03B3\u03BF\u03C4\u03B5\u03C7\u03BD\u03AF\u03B1. \u039E\u03B5\u03BA\u03B9\u03BD\u03AC \u03BD\u03B1 \u03B3\u03C1\u03AC\u03C6\u03B5\u03B9 \u03C0\u03C1\u03CE\u03C4\u03B1 \u03B3\u03B9\u03B1 \u03B2\u03B9\u03BF\u03C0\u03BF\u03C1\u03B9\u03C3\u03C4\u03B9\u03BA\u03BF\u03CD\u03C2 \u03BB\u03CC\u03B3\u03BF\u03C5\u03C2, \u03B5\u03C0\u03B9\u03C6\u03C5\u03BB\u03BB\u03AF\u03B4\u03B5\u03C2 \u03C3' \u03B5\u03C0\u03B1\u03C1\u03C7\u03B9\u03B1\u03BA\u03AD\u03C2 \u03B5\u03C6\u03B7\u03BC\u03B5\u03C1\u03AF\u03B4\u03B5\u03C2. \u03A4\u03CC\u03C4\u03B5 \u03B5\u03C1\u03B3\u03B1\u03B6\u03CC\u03C4\u03B1\u03BD \u03C3\u03C4\u03B7\u03BD \u03B5\u03C6\u03B7\u03BC\u03B5\u03C1\u03AF\u03B4\u03B1 Tiflis \u03C4\u03BF\u03C5 \u039A\u03B1\u03C5\u03BA\u03AC\u03C3\u03BF\u03C5 \u03BA\u03B9 \u03B1\u03BA\u03CC\u03BC\u03B1 \u03C7\u03C1\u03B7\u03C3\u03B9\u03BC\u03BF\u03C0\u03BF\u03B9\u03BF\u03CD\u03C3\u03B5 \u03C4\u03BF \u03C8\u03B5\u03C5\u03B4\u03CE\u03BD\u03C5\u03BC\u03BF Jehudiel Khlamida, \u03B1\u03BB\u03BB' \u03B1\u03C0\u03CC \u03BA\u03B5\u03AF\u03BD\u03B7 \u03C4\u03B7 \u03C7\u03C1\u03BF\u03BD\u03B9\u03AC \u03BA\u03B1\u03B9 \u03BC\u03B5\u03C4\u03AC \u03B5\u03C0\u03B9\u03BB\u03AD\u03B3\u03B5\u03B9 \u03C4\u03BF \u0393\u03BA\u03CC\u03C1\u03BA\u03B9. \u03C4\u03C1\u03AF\u03B1 \u03C7\u03C1\u03CC\u03BD\u03B9\u03B1 \u03BC\u03B5\u03C4\u03AC, \u03B3\u03BD\u03C9\u03C1\u03AF\u03B6\u03B5\u03C4\u03B1\u03B9 \u03BC\u03B5 \u03C4\u03BF \u03C3\u03C5\u03B3\u03B3\u03C1\u03B1\u03C6\u03AD\u03B1  (\u0412\u043B\u0430\u0434\u0438\u043C\u0438\u0440 \u041A\u043E\u0440\u043E\u043B\u0435\u043D\u043A\u043E) \u03C0\u03BF\u03C5 \u03C4\u03BF\u03C5 \u03B4\u03B7\u03BC\u03BF\u03C3\u03B9\u03B5\u03CD\u03B5\u03B9 \u03C4\u03BF \u03B4\u03B9\u03AE\u03B3\u03B7\u03BC\u03B1, \u00AB\u03A4\u03C3\u03B5\u03BB\u03BA\u03AC\u03C2\u00BB \u03BA\u03B1\u03B9 \u03B3\u03BD\u03C9\u03C1\u03AF\u03B6\u03B5\u03B9 \u03BA\u03AC\u03C0\u03BF\u03B9\u03BF\u03BD \u03B5\u03BD\u03B4\u03B9\u03B1\u03C6\u03AD\u03C1\u03BF\u03BD. \u03A4\u03BF 1899 \u03BF\u03B9 \u03C4\u03C5\u03C0\u03C9\u03BC\u03AD\u03BD\u03B5\u03C2 \u03C3\u03C5\u03BB\u03BB\u03BF\u03B3\u03AD\u03C2 \u03C4\u03C9\u03BD \u03B4\u03B9\u03B7\u03B3\u03B7\u03BC\u03AC\u03C4\u03C9\u03BD \u03C4\u03BF\u03C5, \u03B3\u03BD\u03C9\u03C1\u03AF\u03B6\u03BF\u03C5\u03BD \u03BA\u03B1\u03C4\u03B1\u03C0\u03BB\u03B7\u03BA\u03C4\u03B9\u03BA\u03AE \u03B5\u03C0\u03B9\u03C4\u03C5\u03C7\u03AF\u03B1. \u0393\u03AF\u03BD\u03B5\u03C4\u03B1\u03B9 \u03B3\u03BD\u03C9\u03C3\u03C4\u03CC\u03C2 \u03C3' \u03CC\u03BB\u03B7 \u03C4\u03B7\u03BD \u0395\u03C5\u03C1\u03CE\u03C0\u03B7. \u03A4\u03BF 1902 \u03B7  \u03C4\u03BF\u03BD \u03B5\u03BA\u03BB\u03AD\u03B3\u03B5\u03B9 \u03BC\u03AD\u03BB\u03BF\u03C2 \u03C4\u03B7\u03C2. \u039B\u03AF\u03B3\u03B5\u03C2 \u03BC\u03AD\u03C1\u03B5\u03C2 \u03BC\u03B5\u03C4\u03AC \u03BF \u03A4\u03C3\u03AC\u03C1\u03BF\u03C2 \u039D\u03B9\u03BA\u03CC\u03BB\u03B1\u03BF\u03C2 \u03BF \u0392' \u03B1\u03BA\u03C5\u03C1\u03CE\u03BD\u03B5\u03B9 \u03C4\u03B7\u03BD \u03B5\u03BA\u03BB\u03BF\u03B3\u03AE \u03C4\u03BF\u03C5, \u03B5\u03C0\u03B5\u03B9\u03B4\u03AE \u03C4\u03B1 \u03B2\u03AC\u03B6\u03B5\u03B9 \u03BC\u03B5 \u03C4\u03B7 \u03BB\u03BF\u03B3\u03BF\u03BA\u03C1\u03B9\u03C3\u03AF\u03B1 \u03C4\u03BF\u03C5 \u03C4\u03CD\u03C0\u03BF\u03C5 \u03C0\u03BF\u03C5 \u03B5\u03C6\u03B1\u03C1\u03BC\u03CC\u03B6\u03B5\u03C4\u03B1\u03B9, \u03BC' \u03B1\u03C0\u03BF\u03C4\u03AD\u03BB\u03B5\u03C3\u03BC\u03B1 \u03BF\u03B9 \u03A4\u03C3\u03AD\u03C7\u03C9\u03C6 \u03BA\u03B1\u03B9  \u03BD\u03B1 \u03C0\u03B1\u03C1\u03B1\u03B9\u03C4\u03B7\u03B8\u03BF\u03CD\u03BD. \u03A4\u03B7\u03BD \u03AF\u03B4\u03B9\u03B1 \u03C7\u03C1\u03BF\u03BD\u03B9\u03AC \u03B3\u03BD\u03C9\u03C1\u03AF\u03B6\u03B5\u03C4\u03B1\u03B9 \u03BC\u03B5 \u03C4\u03BF\u03BD \u039B\u03AD\u03BD\u03B9\u03BD \u03BA\u03B1\u03B9 \u03B3\u03AF\u03BD\u03BF\u03BD\u03C4\u03B1\u03B9 \u03C6\u03AF\u03BB\u03BF\u03B9. \u03A4\u03C1\u03AF\u03B1 \u03C7\u03C1\u03CC\u03BD\u03B9\u03B1 \u03BC\u03B5\u03C4\u03AC \u03B1\u03BD\u03B1\u03BB\u03B1\u03BC\u03B2\u03AC\u03BD\u03B5\u03B9 \u03C4\u03B7 \u03B4\u03B9\u03B5\u03CD\u03B8\u03C5\u03BD\u03C3\u03B7 \u03C4\u03BF\u03C5 \u03C0\u03B5\u03C1\u03B9\u03BF\u03B4\u03B9\u03BA\u03BF\u03CD \u039D\u03AD\u03B1 \u0396\u03C9\u03AE \u03BA\u03B9 \u03B1\u03B3\u03C9\u03BD\u03AF\u03B6\u03B5\u03C4\u03B1\u03B9 \u03B3\u03B9\u03B1 \u03C4\u03B7\u03BD \u03B5\u03C0\u03B1\u03BD\u03AC\u03C3\u03C4\u03B1\u03C3\u03B7. \u0393\u03C1\u03AC\u03C6\u03B5\u03C4\u03B1\u03B9 \u03C3\u03C4\u03BF \u03BA\u03BF\u03BC\u03BC\u03BF\u03C5\u03BD\u03B9\u03C3\u03C4\u03B9\u03BA\u03CC \u03BA\u03CC\u03BC\u03BC\u03B1. \u03A3\u03C5\u03BB\u03BB\u03B1\u03BC\u03B2\u03AC\u03BD\u03B5\u03C4\u03B1\u03B9 \u03BA\u03B1\u03B9 \u03BA\u03BB\u03B5\u03AF\u03BD\u03B5\u03C4\u03B1\u03B9 \u03C3\u03C4\u03BF \u03C6\u03C1\u03BF\u03CD\u03C1\u03B9\u03BF , \u03BA\u03B1\u03C4\u03AC \u03C4\u03B7 \u03B4\u03B9\u03AC\u03C1\u03BA\u03B5\u03B9\u03B1 \u03C4\u03B7\u03C2 \u03B1\u03C0\u03BF\u03C4\u03C5\u03C7\u03B7\u03BC\u03AD\u03BD\u03B7\u03C2 \u03B5\u03C0\u03B1\u03BD\u03AC\u03C3\u03C4\u03B1\u03C3\u03B7\u03C2 \u03C4\u03BF\u03C5 1905 \u03BA\u03B9 \u03B5\u03BA\u03B5\u03AF \u03BC\u03AD\u03C3\u03B1 \u03B3\u03C1\u03AC\u03C6\u03B5\u03B9 \u03AD\u03BD\u03B1 \u03B2\u03B9\u03B2\u03BB\u03AF\u03BF \u03C0\u03BF\u03C5 \u03C6\u03B1\u03B9\u03BD\u03BF\u03BC\u03B5\u03BD\u03B9\u03BA\u03AC \u03B1\u03BD\u03B1\u03C6\u03AD\u03C1\u03B5\u03C4\u03B1\u03B9 \u03C3\u03C4\u03B7\u03BD \u03B5\u03C0\u03B9\u03B4\u03B7\u03BC\u03AF\u03B1 \u03C7\u03BF\u03BB\u03AD\u03C1\u03B1\u03C2 \u03C4\u03BF\u03C5 1862, \u03BC\u03B1 \u03BF\u03C5\u03C3\u03B9\u03B1\u03C3\u03C4\u03B9\u03BA\u03AC \u03BC\u03B9\u03BB\u03AC \u03B3\u03B9\u03B1 \u03C4\u03BF \u03C0\u03B1\u03C1\u03CC\u03BD. \u039B\u03BF\u03B3\u03BF\u03C4\u03AD\u03C7\u03BD\u03B5\u03C2 \u03B1\u03C0' \u03CC\u03BB\u03BF \u03C4\u03BF\u03BD \u03BA\u03CC\u03C3\u03BC\u03BF \u03BA\u03AC\u03BD\u03BF\u03C5\u03BD \u03AD\u03BA\u03BA\u03BB\u03B7\u03C3\u03B7 \u03B3\u03B9\u03B1 \u03C4\u03B7 \u03C3\u03C9\u03C4\u03B7\u03C1\u03AF\u03B1 \u03C4\u03BF\u03C5. \u03A4\u03B7\u03BD \u03B5\u03C0\u03CC\u03BC\u03B5\u03BD\u03B7 \u03C7\u03C1\u03BF\u03BD\u03B9\u03AC \u03C6\u03B5\u03CD\u03B3\u03B5\u03B9 \u03C3\u03C4\u03BF \u039A\u03AC\u03C0\u03C1\u03B9 \u03BC\u03AD\u03C7\u03C1\u03B9 \u03C4\u03BF 1913 \u03BA\u03B9 \u03CC\u03C4\u03B1\u03BD \u03B5\u03C0\u03B9\u03C3\u03C4\u03C1\u03AD\u03C6\u03B5\u03B9 \u03C3\u03C5\u03BC\u03BC\u03B5\u03C4\u03AD\u03C7\u03B5\u03B9 \u03C3\u03C4\u03B1 \u03C0\u03BF\u03BB\u03B9\u03C4\u03B9\u03BA\u03AC \u03B4\u03C1\u03CE\u03BC\u03B5\u03BD\u03B1 \u03C0\u03BF\u03C5 \u03C3\u03C5\u03BD\u03C4\u03AD\u03BB\u03B5\u03C3\u03B1\u03BD \u03C3\u03C4\u03BF \u03BD\u03B1 \u03BE\u03B5\u03C3\u03C0\u03AC\u03C3\u03B5\u03B9 \u03B7 \u03B5\u03C0\u03B1\u03BD\u03AC\u03C3\u03C4\u03B1\u03C3\u03B7 \u03C4\u03BF\u03C5 1917 \u03BA\u03B1\u03B9 \u03C3\u03C5\u03BC\u03BC\u03B5\u03C4\u03AD\u03C7\u03B5\u03B9 \u03B5\u03BD\u03B5\u03C1\u03B3\u03AC \u03BA\u03B1\u03B9 \u03C3' \u03B1\u03C5\u03C4\u03AE\u03BD. \u039A\u03B1\u03C4\u03AC \u03C4\u03B7 \u03B4\u03B9\u03AC\u03C1\u03BA\u03B5\u03B9\u03B1 \u03C4\u03BF\u03C5 \u0391' \u03A0\u03B1\u03B3\u03BA\u03CC\u03C3\u03BC\u03B9\u03BF\u03C5 \u03A0\u03BF\u03BB\u03AD\u03BC\u03BF\u03C5 \u03C4\u03BF \u03B4\u03C9\u03BC\u03AC\u03C4\u03B9\u03CC \u03C4\u03BF\u03C5 \u03C3\u03C4\u03B7\u03BD \u03A0\u03B5\u03C4\u03C1\u03BF\u03CD\u03C0\u03BF\u03BB\u03B7 \u03B5\u03AF\u03C7\u03B5 \u03B3\u03AF\u03BD\u03B5\u03B9 \u03BA\u03B1\u03C4\u03B1\u03C6\u03CD\u03B3\u03B9\u03BF \u03BC\u03C0\u03BF\u03BB\u03C3\u03B5\u03B2\u03AF\u03BA\u03C9\u03BD. \u039C\u03AD\u03C7\u03C1\u03B9 \u03BD\u03B1 \u03BE\u03B5\u03C3\u03C0\u03AC\u03C3\u03B5\u03B9 \u03B7 \u03B5\u03C0\u03B1\u03BD\u03AC\u03C3\u03C4\u03B1\u03C3\u03B7, \u03B4\u03B5\u03BD \u03C4\u03BF\u03C5 \u03B5\u03C0\u03B9\u03C4\u03C1\u03B5\u03C0\u03CC\u03C4\u03B1\u03BD \u03BD\u03B1 \u03B5\u03B3\u03BA\u03B1\u03C4\u03B1\u03BB\u03B5\u03AF\u03C8\u03B5\u03B9 \u03C4\u03B7 \u03C7\u03CE\u03C1\u03B1. \u0394\u03C5\u03BF \u03B2\u03B4\u03BF\u03BC\u03AC\u03B4\u03B5\u03C2 \u03BC\u03B5\u03C4\u03AC \u03C4\u03BF \u03BE\u03AD\u03C3\u03C0\u03B1\u03C3\u03BC\u03B1 \u03C4\u03B7\u03C2 \u03B5\u03C0\u03B1\u03BD\u03AC\u03C3\u03C4\u03B1\u03C3\u03B7\u03C2, \u03C4\u03BF\u03BD \u039F\u03BA\u03C4\u03CE\u03B2\u03C1\u03B7 \u03C4\u03BF\u03C5 1917, \u03AD\u03C1\u03C7\u03B5\u03C4\u03B1\u03B9 \u03C3\u03B5 \u03C3\u03CD\u03B3\u03BA\u03C1\u03BF\u03C5\u03C3\u03B7 \u03BC\u03B5 \u03C4\u03B1 \u03B7\u03B3\u03B5\u03C4\u03B9\u03BA\u03AC \u03C3\u03C4\u03B5\u03BB\u03AD\u03C7\u03B7 \u03C4\u03BF\u03C5 \u03BA\u03CC\u03BC\u03BC\u03B1\u03C4\u03BF\u03C2. \u0393\u03C1\u03AC\u03C6\u03B5\u03B9 \u03C7\u03B1\u03C1\u03B1\u03BA\u03C4\u03B7\u03C1\u03B9\u03C3\u03C4\u03B9\u03BA\u03AC: ...\u039F\u03B9 \u039B\u03AD\u03BD\u03B9\u03BD \u03BA\u03B1\u03B9 T\u03C1\u03CC\u03C4\u03C3\u03BA\u03B9 \u03B4\u03B5\u03BD \u03AD\u03C7\u03BF\u03C5\u03BD \u03BF\u03B9\u03B1\u03B4\u03AE\u03C0\u03BF\u03C4\u03B5 \u03B9\u03B4\u03AD\u03B1 \u03B3\u03B9\u03B1 \u03C4\u03B7\u03BD \u03B5\u03BB\u03B5\u03C5\u03B8\u03B5\u03C1\u03AF\u03B1 \u03AE \u03C4\u03B1 \u03B1\u03BD\u03B8\u03C1\u03CE\u03C0\u03B9\u03BD\u03B1 \u03B4\u03B9\u03BA\u03B1\u03B9\u03CE\u03BC\u03B1\u03C4\u03B1. \u0391\u03BB\u03BB\u03BF\u03C4\u03C1\u03B9\u03CE\u03BD\u03BF\u03BD\u03C4\u03B1\u03B9 \u03AE\u03B4\u03B7 \u03B1\u03C0\u03CC \u03C4\u03BF \u03B2\u03C1\u03C9\u03BC\u03B5\u03C1\u03CC \u03B4\u03B7\u03BB\u03B7\u03C4\u03AE\u03C1\u03B9\u03BF \u03C4\u03B7\u03C2 \u03B5\u03BE\u03BF\u03C5\u03C3\u03AF\u03B1\u03C2. \u0391\u03C5\u03C4\u03CC \u03B5\u03AF\u03BD\u03B1\u03B9 \u03BF\u03C1\u03B1\u03C4\u03CC \u03B1\u03C0\u03CC \u03C4\u03B7\u03BD \u03B5\u03C0\u03B1\u03AF\u03C3\u03C7\u03C5\u03BD\u03C4\u03B7 \u03B1\u03C3\u03AD\u03B2\u03B5\u03B9\u03B1 \u03C3\u03C4\u03B7\u03BD \u03B5\u03BB\u03B5\u03C5\u03B8\u03B5\u03C1\u03AF\u03B1 \u03C4\u03BF\u03C5 \u03BB\u03CC\u03B3\u03BF\u03C5 \u03B1\u03BB\u03BB\u03AC \u03BA\u03B9 \u03CC\u03BB\u03C9\u03BD \u03C4\u03C9\u03BD \u03AC\u03BB\u03BB\u03C9\u03BD \u03B1\u03C3\u03C4\u03B9\u03BA\u03CE\u03BD \u03B5\u03BB\u03B5\u03C5\u03B8\u03B5\u03C1\u03B9\u03CE\u03BD \u03B3\u03B9\u03B1 \u03C4\u03B9\u03C2 \u03BF\u03C0\u03BF\u03AF\u03B5\u03C2 \u03B7 \u03B4\u03B7\u03BC\u03BF\u03BA\u03C1\u03B1\u03C4\u03AF\u03B1 \u03C0\u03AC\u03BB\u03B5\u03C8\u03B5... \u039F \u039B\u03AD\u03BD\u03B9\u03BD \u03B1\u03C0\u03B1\u03BD\u03C4\u03AC \u03BC\u03B5 \u03B1\u03C0\u03B5\u03B9\u03BB\u03AD\u03C2, \u03C4\u03BF 1919: ...\u03A3\u03B5 \u03C3\u03C5\u03BC\u03B2\u03BF\u03C5\u03BB\u03B5\u03CD\u03C9: \u03AC\u03BB\u03BB\u03B1\u03BE\u03B5 \u03C4\u03BF \u03C0\u03B5\u03C1\u03B9\u03B2\u03AC\u03BB\u03BB\u03BF\u03BD \u03C3\u03BF\u03C5, \u03C4\u03B9\u03C2 \u03B1\u03C0\u03CC\u03C8\u03B5\u03B9\u03C2 \u03C3\u03BF\u03C5, \u03C4\u03B7 \u03B4\u03C1\u03AC\u03C3\u03B7 \u03C3\u03BF\u03C5, \u03B1\u03BB\u03BB\u03B9\u03CE\u03C2 \u03B7 \u03B6\u03C9\u03AE \u03BC\u03C0\u03BF\u03C1\u03B5\u03AF \u03BD\u03B1 \u03C6\u03CD\u03B3\u03B5\u03B9 \u03BC\u03B1\u03BA\u03C1\u03B9\u03AC \u03C3\u03BF\u03C5. \u03A4\u03BF\u03BD \u0391\u03CD\u03B3\u03BF\u03C5\u03C3\u03C4\u03BF \u03C4\u03BF\u03C5 1921 \u03C3\u03C5\u03BB\u03BB\u03B1\u03BC\u03B2\u03AC\u03BD\u03BF\u03BD\u03C4\u03B1\u03B9 \u03BF\u03B9 \u03C6\u03AF\u03BB\u03BF\u03B9 \u03C4\u03BF\u03C5 \u03BB\u03BF\u03B3\u03BF\u03C4\u03AD\u03C7\u03BD\u03B5\u03C2,  (\u041D\u0438\u043A\u043E\u043B\u0430\u0439 \u0413\u0443\u043C\u0438\u043B\u0451\u0432) \u03BA\u03B9 \u03B7 \u03C3\u03CD\u03B6\u03C5\u03B3\u03CC\u03C2 \u03C4\u03BF\u03C5 \u0386\u03BD\u03BD\u03B1 \u0391\u03C7\u03BC\u03AC\u03C4\u03BF\u03B2\u03B1 (\u0410\u043D\u043D\u0430 \u0410\u0445\u043C\u0430\u0442\u043E\u0432\u0430), \u03B3\u03B9\u03B1 \u03C6\u03B9\u03BB\u03BF\u03BC\u03BF\u03BD\u03B1\u03C1\u03C7\u03B9\u03BA\u03AD\u03C2 \u03C4\u03AC\u03C3\u03B5\u03B9\u03C2. \u0393\u03C5\u03C1\u03AF\u03B6\u03B5\u03B9 \u03B5\u03C3\u03C0\u03B5\u03C5\u03C3\u03BC\u03AD\u03BD\u03B1 \u03C3\u03C4\u03B7 \u039C\u03CC\u03C3\u03C7\u03B1 \u03C0\u03B5\u03C4\u03C5\u03C7\u03B1\u03AF\u03BD\u03BF\u03BD\u03C4\u03B1\u03C2 \u03BD\u03B1 \u03C4\u03BF\u03C5\u03C2 \u03BB\u03B5\u03C5\u03C4\u03B5\u03C1\u03CE\u03C3\u03B5\u03B9 \u03BC\u03B5 \u03C0\u03C1\u03BF\u03C3\u03C9\u03C0\u03B9\u03BA\u03AE \u03B4\u03B9\u03B1\u03C4\u03B1\u03B3\u03AE \u03C4\u03BF\u03C5 \u03AF\u03B4\u03B9\u03BF\u03C5 \u03C4\u03BF\u03C5 \u039B\u03AD\u03BD\u03B9\u03BD, \u03BC\u03B1 \u03CC\u03C4\u03B1\u03BD \u03C3\u03C0\u03B5\u03CD\u03B4\u03B5\u03B9 \u03BD\u03B1 \u03C4\u03BF\u03C5\u03C2 \u03B4\u03B5\u03B9, \u03B4\u03B9\u03B1\u03C0\u03B9\u03C3\u03C4\u03CE\u03BD\u03B5\u03B9 \u03C0\u03C9\u03C2 \u03AE\u03B4\u03B7 \u03AD\u03C7\u03BF\u03C5\u03BD \u03C0\u03C5\u03C1\u03BF\u03B2\u03BF\u03BB\u03AE\u03C3\u03B5\u03B9 \u03B8\u03B1\u03BD\u03AC\u03C3\u03B9\u03BC\u03B1 \u03C4\u03BF\u03BD \u039D\u03B9\u03BA\u03BF\u03BB\u03AC\u03B9. \u039A\u03BF\u03BD\u03C4\u03AC \u03C3' \u03B1\u03C5\u03C4\u03AC \u03AD\u03C1\u03C7\u03B5\u03C4\u03B1\u03B9 \u03B7 \u03B5\u03C0\u03B9\u03B4\u03B5\u03AF\u03BD\u03C9\u03C3\u03B7 \u03C4\u03B7\u03C2 \u03C5\u03B3\u03B5\u03AF\u03B1\u03C2 \u03C4\u03BF\u03C5, \u03BC\u03B9\u03B1 \u03C0\u03B1\u03BB\u03B9\u03AC \u03C6\u03C5\u03BC\u03B1\u03C4\u03AF\u03C9\u03C3\u03B7 \u03B1\u03C0\u03CC \u03C4\u03BF\u03BD \u03BA\u03B1\u03B9\u03C1\u03CC \u03C0\u03BF\u03C5 \u03B3\u03C5\u03C1\u03BD\u03BF\u03CD\u03C3\u03B5 \u03C3\u03C4\u03BF\u03C5\u03C2 \u03B4\u03C1\u03CC\u03BC\u03BF\u03C5\u03C2, \u03BA\u03B1\u03B9 \u03C4\u03BF\u03BD \u039F\u03BA\u03C4\u03CE\u03B2\u03C1\u03B7 \u03C4\u03B7\u03C2 \u03AF\u03B4\u03B9\u03B1\u03C2 \u03C7\u03C1\u03BF\u03BD\u03B9\u03AC\u03C2, \u03BC\u03B5\u03C4\u03B1\u03BD\u03B1\u03C3\u03C4\u03B5\u03CD\u03B5\u03B9 \u03BE\u03B1\u03BD\u03AC \u03C3\u03C4\u03BF \u039A\u03AC\u03C0\u03C1\u03B9 \u03B3\u03B9\u03B1 \u03BB\u03CC\u03B3\u03BF\u03C5\u03C2 \u03C5\u03B3\u03B5\u03AF\u03B1\u03C2. \u03A4\u03BF\u03CD\u03C4\u03B7 \u03C4\u03B7 \u03C6\u03BF\u03C1\u03AC \u03B8\u03B1 \u03BC\u03B5\u03AF\u03BD\u03B5\u03B9 \u03BC\u03AD\u03C7\u03C1\u03B9 \u03C4\u03BF 1929. \u0395\u03C0\u03B9\u03C3\u03C4\u03C1\u03AD\u03C6\u03B5\u03B9 \u03C3\u03C4\u03B7 \u03A1\u03C9\u03C3\u03AF\u03B1 \u03BA\u03B1\u03C4\u03AC \u03B4\u03B9\u03B1\u03C3\u03C4\u03AE\u03BC\u03B1\u03C4\u03B1 \u03BA\u03B1\u03B9 \u03B4\u03AD\u03C7\u03B5\u03C4\u03B1\u03B9 \u03C4\u03B9\u03BC\u03AD\u03C2 \u03B1\u03C0\u03CC \u03C4\u03BF\u03BD \u03A3\u03C4\u03AC\u03BB\u03B9\u03BD. \u03A4' \u03CC\u03BD\u03BF\u03BC\u03AC \u03C4\u03BF\u03C5 \u03B4\u03AF\u03BD\u03B5\u03C4\u03B1\u03B9 \u03C3\u03B5 \u03BA\u03B5\u03BD\u03C4\u03C1\u03B9\u03BA\u03AE \u03BB\u03B5\u03C9\u03C6\u03CC\u03C1\u03BF \u03BA\u03B1\u03B9 \u03BC\u03B5\u03C4\u03BF\u03BD\u03BF\u03BC\u03AC\u03B6\u03B5\u03C4\u03B1\u03B9 \u03BA\u03B1\u03B9 \u03B7 \u03B3\u03B5\u03BD\u03AD\u03C4\u03B5\u03B9\u03C1\u03AC \u03C4\u03BF\u03C5, \u03B5\u03C0\u03AF\u03C3\u03B7\u03C2 \u03AD\u03BD\u03B1 \u03B1\u03C0\u03CC \u03C4\u03B1 \u03BC\u03B5\u03B3\u03B1\u03BB\u03CD\u03C4\u03B5\u03C1\u03B1 \u03B1\u03B5\u03C1\u03BF\u03C0\u03BB\u03AC\u03BD\u03B1 \u03C4\u03B7\u03C2 \u03B5\u03C0\u03BF\u03C7\u03AE\u03C2 \u03C3\u03C4\u03B7 \u03A1\u03C9\u03C3\u03AF\u03B1, \u03C4\u03BF  \u03BF\u03BD\u03BF\u03BC\u03AC\u03B6\u03B5\u03C4\u03B1\u03B9 \u0393\u03BA\u03CC\u03C1\u03BA\u03B9, \u03CC\u03C0\u03C9\u03C2 \u03BA\u03B9 \u03AD\u03BD\u03B1 \u03BC\u03B5\u03B3\u03AC\u03BB\u03BF  \u03BC\u03B5\u03C2 \u03C3\u03C4\u03BF \u03BA\u03AD\u03BD\u03C4\u03C1\u03BF \u03C4\u03B7\u03C2 \u039C\u03CC\u03C3\u03C7\u03B1\u03C2. \u0395\u03AF\u03BD\u03B1\u03B9 \u03B3\u03B5\u03B3\u03BF\u03BD\u03CC\u03C2 \u03C0\u03C9\u03C2 \u03C4\u03BF \u03BA\u03CC\u03BC\u03BC\u03B1 \u03B5\u03BA\u03BC\u03B5\u03C4\u03B1\u03BB\u03BB\u03B5\u03CD\u03C4\u03B7\u03BA\u03B5 \u03C3\u03C4\u03BF \u03AD\u03C0\u03B1\u03BA\u03C1\u03BF \u03C4' \u03CC\u03BD\u03BF\u03BC\u03AC \u03C4\u03BF\u03C5 \u03B3\u03B9\u03B1 \u03BD\u03B1 \u03C0\u03C1\u03BF\u03C9\u03B8\u03AE\u03C3\u03B5\u03B9 \u03C4\u03B7\u03BD \u03C0\u03C1\u03BF\u03C0\u03B1\u03B3\u03AC\u03BD\u03B4\u03B1 \u03C4\u03BF\u03C5 \u03C3\u03C4\u03BF\u03BD \u03AD\u03BE\u03C9 \u03BA\u03CC\u03C3\u03BC\u03BF. \u03A4\u03BF 1936 \u03C0\u03B5\u03B8\u03B1\u03AF\u03BD\u03B5\u03B9 \u03BE\u03B1\u03C6\u03BD\u03B9\u03BA\u03AC \u03BA\u03AC\u03C4\u03C9 \u03B1\u03C0\u03CC \u03B1\u03BD\u03B5\u03BE\u03B9\u03C7\u03BD\u03AF\u03B1\u03C3\u03C4\u03B5\u03C2 \u03C3\u03C5\u03BD\u03B8\u03AE\u03BA\u03B5\u03C2. \u039F\u03B9 \u03A3\u03C4\u03AC\u03BB\u03B9\u03BD \u03BA\u03B1\u03B9 \u039C\u03BF\u03BB\u03CC\u03C4\u03C9\u03C6, \u03AE\u03C4\u03B1\u03BD \u03B1\u03C0\u03CC \u03BA\u03B5\u03AF\u03BD\u03BF\u03C5\u03C2 \u03C0\u03BF\u03C5 \u03BC\u03B5\u03C4\u03AD\u03C6\u03B5\u03C1\u03B1\u03BD \u03C4\u03BF \u03C6\u03AD\u03C1\u03B5\u03C4\u03C1\u03CC \u03C4\u03BF\u03C5 \u03C3\u03C4\u03B7\u03BD \u03BA\u03B7\u03B4\u03B5\u03AF\u03B1. \u0397 \u03B4\u03B5 \u03B3\u03B5\u03BD\u03AD\u03C4\u03B5\u03B9\u03C1\u03AC \u03C4\u03BF\u03C5 \u03BE\u03B1\u03BD\u03B1\u03C0\u03AE\u03C1\u03B5 \u03C4\u03B7\u03BD \u03C0\u03C1\u03BF\u03B7\u03B3\u03BF\u03CD\u03BC\u03B5\u03BD\u03AE \u03C4\u03B7\u03C2 \u03BF\u03BD\u03BF\u03BC\u03B1\u03C3\u03AF\u03B1 (\u039D\u03AF\u03B6\u03BD\u03B9-\u039D\u03CC\u03B2\u03B3\u03BA\u03BF\u03C1\u03BF\u03BD\u03C4) \u03C4\u03BF 1990, \u03BC\u03B5\u03C4\u03AC \u03C4\u03B7\u03BD \u03C0\u03C4\u03CE\u03C3\u03B7 \u03C4\u03BF\u03C5 \u03BA\u03BF\u03BC\u03BC\u03BF\u03C5\u03BD\u03B9\u03C3\u03BC\u03BF\u03CD."@el ,
+		"M\u00E1ximo Gorki, o Maksim Gorki (en ruso: \u041C\u0430\u043A\u0441\u0438\u043C \u0413\u043E\u0440\u044C\u043A\u0438\u0439), fue el pseud\u00F3nimo utilizado por Aleks\u00E9i Maks\u00EDmovich Peshkov (en ruso: \u0410\u043B\u0435\u043A\u0441\u0435\u0301\u0439 \u041C\u0430\u043A\u0441\u0438\u0301\u043C\u043E\u0432\u0438\u0447 \u041Fe\u0448\u043A\u00F3\u0432; Nizhni N\u00F3vgorod, 28 de marzo de 1868-Mosc\u00FA, 18 de junio de 1936)\u200B\u200B fue un escritor y pol\u00EDtico ruso, identificado y activista del movimiento revolucionario ruso.\u200B Fundador del movimiento literario del realismo socialista, Gorki tambi\u00E9n fue nominado cinco veces para el Premio Nobel de Literatura.\u200B Alrededor de quince a\u00F1os antes de su \u00E9xito como escritor, cambiaba con frecuencia de trabajo y recorri\u00F3 todo el Imperio ruso; estas experiencias influir\u00EDan m\u00E1s tarde en su escritura, que destac\u00F3 en varias especialidades como la novela, teatro o ensayo. Fue en la novela donde Gorki alcanz\u00F3 mayor notoriedad, especialmente con obras como Los bajos fondos y La madre. Tuvo una gran amistad con otros escritores rusos como Le\u00F3n Tolst\u00F3i y Ant\u00F3n Ch\u00E9jov, y lleg\u00F3 a escribir las memorias de ambos. Gorki fue muy activo en el emergente movimiento socialdem\u00F3crata marxista. Se opuso p\u00FAblicamente al r\u00E9gimen zarista y durante un tiempo se asoci\u00F3 estrechamente con Vlad\u00EDmir Lenin y el ala bolchevique de Aleksandr Bogd\u00E1nov en el partido. Estuvo una parte importante de su vida exiliado de Rusia y m\u00E1s tarde de la Uni\u00F3n Sovi\u00E9tica, pero en 1932 regres\u00F3 a Rusia por invitaci\u00F3n personal de I\u00F3sif Stalin y muri\u00F3 all\u00ED en junio de 1936. De 1932 a 1990 su ciudad natal, Nizhni N\u00F3vgorod, llev\u00F3 el nombre de Gorki en su honor."@es ,
+		"Maksim Gorki (Russisch: \u041C\u0430\u043A\u0441\u0438\u043C \u0413\u043E\u0440\u044C\u043A\u0438\u0439) pseudoniem van Aleksej Maksimovitsj Pesjkov (Russisch: \u0410\u043B\u0435\u043A\u0441\u0435\u0439 \u041C\u0430\u043A\u0441\u0438\u043C\u043E\u0432\u0438\u0447 \u041F\u0435\u0448\u043A\u043E\u0432) (Nizjni Novgorod, 28 maart [O.T.: 16 maart] 1868 \u2013 Moskou, 18 juni 1936) was een Russische roman- en toneelschrijver. Het pseudoniem staat voor: de Grootste Bittere."@nl ,
+		"\uB9C9\uC2EC \uACE0\uB9AC\uD0A4(\uB7EC\uC2DC\uC544\uC5B4: \u041C\u0430\u043A\u0441\u0438\u0301\u043C \u0413\u043E\u0301\u0440\u044C\u043A\u0438\u0439, \uBB38\uD654\uC5B4: \uB9C9\uC538 \uACE0\uB9AC\uB07C, 1868\uB144 3\uC6D4 28\uC77C(\uC728\uB9AC\uC6B0\uC2A4\uB825 3\uC6D4 16\uC77C) ~ 1936\uB144 6\uC6D4 18\uC77C)\uB294 \uB7EC\uC2DC\uC544\uC758 \uC791\uAC00\uB85C, \uBCF8\uBA85\uC740 \uC54C\uB809\uC138\uC774 \uB9C9\uC2DC\uBAA8\uBE44\uCE58 \uD398\uC2DC\uCF54\uD504(\uB7EC\uC2DC\uC544\uC5B4: \u0410\u043B\u0435\u043A\u0441\u0435\u0301\u0439 \u041C\u0430\u043A\u0441\u0438\u0301\u043C\u043E\u0432\u0438\u0447 \u041F\u0435\u0448\u043A\u043E\u0301\u0432)\uC774\uB2E4."@ko ,
+		"Maksim Gorki (em russo: \u041C\u0430\u043A\u0441\u0438\u043C \u0413\u043E\u0440\u044C\u043A\u0438\u0439), pseud\u00F4nimo de Aleksei Maksimovich Peshkov (em russo:  \u0410\u043B\u0435\u043A\u0441\u0435\u0439 \u041C\u0430\u043A\u0441\u0438\u043C\u043E\u0432\u0438\u0447 \u041F\u0435\u0448\u043A\u043E\u0432; Nijni N\u00F3vgorod, 28 de mar\u00E7o de 1868 \u2013 Moscovo, 18 de junho de 1936), foi um escritor, romancista, dramaturgo, contista e ativista pol\u00EDtico russo. Gorki foi escritor de escola naturalista que formou uma esp\u00E9cie de ponte entre as gera\u00E7\u00F5es de Tchekhov e Tolstoi, e a nova gera\u00E7\u00E3o de escritores sovi\u00E9ticos."@pt ,
+		"Aleksej Maksimovitj Pesjkov (ryska: \u0410\u043B\u0435\u043A\u0441\u0435\u0439 \u041C\u0430\u043A\u0441\u0438\u043C\u043E\u0432\u0438\u0447 \u041F\u0435\u0448\u043A\u043E\u0432), mer k\u00E4nd under f\u00F6rfattarnamnet Maksim Gorkij (ryska: \u041C\u0430\u043A\u0441\u0438\u043C \u0413\u043E\u0440\u044C\u043A\u0438\u0439), f\u00F6dd 28 mars 1868 i Nizjnij Novgorod, d\u00F6d 18 juni 1936 i Gorki Leninskije, var en rysk f\u00F6rfattare. \"Gorkij\" betyder \"den bittre\". Han var en av arbetarf\u00F6rfattarnas fr\u00E4msta f\u00F6retr\u00E4dare av socialrealismen som litter\u00E4r stil. Josef Stalin och Andrej Zjdanov skulle senare l\u00E5ta vidareutveckla stilen till \"socialistisk realism\", med Gorkij som f\u00F6rebild."@sv ,
+		"Maksim Gor'kij (in russo: \u041C\u0430\u043A\u0441\u0438\u0301\u043C \u0413\u043E\u0301\u0440\u044C\u043A\u0438\u0439?), pseudonimo di Aleksej Maksimovi\u010D Pe\u0161kov (\u0410\u043B\u0435\u043A\u0441\u0435\u0439 \u041C\u0430\u043A\u0441\u0438\u043C\u043E\u0432\u0438\u0447 \u041F\u0435\u0448\u043A\u043E\u0432; Ni\u017Enij Novgorod, 28 marzo 1868 \u2013 Mosca, 18 giugno 1936) \u00E8 stato uno scrittore e drammaturgo russo. La lotta contro la miseria, l'ignoranza e la tirannia sono le costanti di tutta l'opera dello scrittore, che \u00E8 considerato il padre del realismo socialista."@it ,
+		"Maxime Gorki, parfois orthographi\u00E9 Gorky (en russe : \u041C\u0430\u043A\u0441\u0438\u043C \u0413\u043E\u0440\u044C\u043A\u0438\u0439, Maksim Gor'kij), nom de plume d\u2019Alexis Pechkov (en russe : \u0410\u043B\u0435\u043A\u0441\u0435\u0439 \u041C\u0430\u043A\u0441\u0438\u043C\u043E\u0432\u0438\u0447 \u041F\u0435\u0448\u043A\u043E\u0432, Alekse\u00EF Maksimovitch Pechkov), est un \u00E9crivain russe n\u00E9 le 16 mars 1868 (28 mars 1868 dans le calendrier gr\u00E9gorien) \u00E0 Nijni Novgorod et mort le 18 juin 1936 \u00E0 Moscou. Il est consid\u00E9r\u00E9 comme un des fondateurs du r\u00E9alisme socialiste en litt\u00E9rature et fut un homme engag\u00E9 politiquement et intellectuellement aux c\u00F4t\u00E9s des r\u00E9volutionnaires bolcheviques. Enfant pauvre, autodidacte, form\u00E9 par les difficult\u00E9s et les errances de sa jeunesse, pass\u00E9 par le journalisme, il devient un \u00E9crivain c\u00E9l\u00E8bre d\u00E8s ses d\u00E9buts litt\u00E9raires. Auteur de nouvelles pittoresques mettant en sc\u00E8ne les mis\u00E9rables de Russie profonde (Essais et Histoires, 1898), de pi\u00E8ces de th\u00E9\u00E2tre d\u00E9nonciatrices comme Les Bas-fonds en 1902 ou de romans socialement engag\u00E9s comme La M\u00E8re, publi\u00E9 en 1907, il racontera aussi sa vie dans une trilogie autobiographique : Enfance/ Ma vie d'enfant (1914), En gagnant mon pain (1915-1916), Mes universit\u00E9s (1923). D\u00E8s ses d\u00E9buts litt\u00E9raires, Gorki partage l'id\u00E9al des partis progressistes et se lie avec les bolcheviques et avec L\u00E9nine. Plusieurs fois emprisonn\u00E9 pour ses prises de position, en particulier lors de la r\u00E9volution de 1905, il quitte la Russie et voyage aux \u00C9tats-Unis pour collecter des fonds pour le mouvement bolchevique. \u00C0 son retour en 1906, il doit s'exiler \u00E0 Capri pour des raisons \u00E0 la fois m\u00E9dicales et polici\u00E8res. Rentr\u00E9 en Russie \u00E0 la suite d'une amnistie en 1913, Maxime Gorki est proche de L\u00E9nine et des r\u00E9volutionnaires, mais formule des critiques d\u00E8s novembre 1917 qui lui valent les menaces du pouvoir : inquiet et malade de la tuberculose, il quitte la Russie en octobre 1921 et se fixe de nouveau dans le sud de l'Italie en 1924. Encourag\u00E9 par Staline, il revient plusieurs fois en URSS apr\u00E8s 1929 et s'y r\u00E9installe d\u00E9finitivement en 1932 : il devient un membre \u00E9minent de la nomenklatura sovi\u00E9tique et participe \u00E0 la propagande du r\u00E9gime qui l'honore mais le surveille en m\u00EAme temps. Il meurt en juin 1936 dans des circonstances qui ont pr\u00EAt\u00E9 au soup\u00E7on. Le r\u00E9gime lui organise des fun\u00E9railles nationales et en fera l'\u00E9crivain sovi\u00E9tique par excellence."@fr ,
+		"Maksim GORKIJ (ruse \u041C\u0430\u043A\u0441\u0438\u043C \u0413\u043E\u0440\u044C\u043A\u0438\u0439, a\u016D realnome: Aleksej Maksimovi\u0109 PE\u015CKOV, ruse \u0410\u043B\u0435\u043A\u0441\u0435\u0439 \u041C\u0430\u043A\u0441\u0438\u043C\u043E\u0432\u0438\u0447 \u041F\u0435\u0448\u043A\u043E\u0432; naski\u011Dis la 16-an[jul.]/ 28-an de marto 1868[greg.], mortis la 18-an de junio 1936) estis rusa kaj sovetia verkisto kaj socia aganto. Li naski\u011Dis en Ni\u0135nij Novgorod. De 1906 \u011Dis 1913 kaj de 1921 \u011Dis 1931 li vivis eksterlande; post sia reveno al Sovetunio li ja akceptis la tie regantan kulturpolitikon, tamen pro problemoj kun Stalino ne plu rajtis forlasi la landon. En 1936 li mortis en Moskvo. Lia naski\u011Durbo honore al li de 1932 \u011Dis 1990 nomi\u011Dis Gorkij. Li plurfoje esprimis sin pri Esperanto, ekzemple: \"La konservativa penso obstine asertas, ke Esperanto estas utopio. La viva, evoluanta realeco iom post iom, sed \u0109iam pli energie refutas la opinion de la konservativuloj\". Pluraj liaj negrandaj verkoj aperis en Esperanta traduko."@eo ,
+		"Maksim Gorki (en rus: \u041C\u0430\u043A\u0441\u0438\u0301\u043C \u0413\u043E\u0301\u0440\u044C\u043A\u0438\u0439), de vegades conegut en catal\u00E0 com a M\u00E0xim Gorki, va ser el pseud\u00F2nim utilitzat per Aleksei Maks\u00EDmovitx P\u00E9ixkov (en rus: \u0410\u043B\u0435\u043A\u0441\u0435\u0301\u0439 \u041C\u0430\u043A\u0441\u0438\u0301\u043C\u043E\u0432\u0438\u0447 \u041F\u0435\u0301\u0448\u043A\u043E\u0432 o \u041F\u0435\u0301\u0448\u043A\u043E\u0432) (Nijni N\u00F3vgorod, 28 de mar\u00E7 de 1868 \u2013 Moscou, 18 de juny de 1936) fou un escriptor rus i sovi\u00E8tic, un dels fundadors del m\u00E8tode literari del realisme socialista i activista pol\u00EDtic. Va ser nomenat cinc vegades per al Premi Nobel de Literatura. Les obres m\u00E9s famoses de Gorki s\u00F3n Els baixos fons (1902), Vint-i-sis homes i una nena, El cant del petrell, Inf\u00E0ncia, La Mare, Residents d'estiu i Els fills del Sol. Tenia una associaci\u00F3 amb els escriptors russos Lev Tolstoi i Anton Tx\u00E9khov; Gorki m\u00E9s tard escrigu\u00E9 les mem\u00F2ries d'aquests dos companys. Form\u00E0 part de l'emergent moviment socialdem\u00F2crata marxista. Es va oposar p\u00FAblicament al r\u00E8gim tsarista, i durant un temps es va associar al partit bolxevik amb Vladimir Lenin i Alexander Bogdanov. Es va exiliar de R\u00FAssia i m\u00E9s tard de la Uni\u00F3 Sovi\u00E8tica. L'any 1932, va tornar a R\u00FAssia per invitaci\u00F3 personal de I\u00F3ssif Stalin, on pass\u00E0 els seus \u00FAltims dies de vida."@ca ,
+		"Aleksei Maksimovich Peshkov (dalam bahasa Rusia \u0410\u043B\u0435\u043A\u0441\u0435\u0439 \u041C\u0430\u043A\u0441\u0438\u043C\u043E\u0432\u0438\u0447 \u041F\u0435\u0448\u043A\u043E\u0432) (28 Maret [K.J.: 16 Maret] 1868\u201318 Juni 1936), lebih dikenal sebagai Maxim Gorky (\u041C\u0430\u043A\u0441\u0438\u043C \u0413\u043E\u0440\u044C\u043A\u0438\u0439), adalah seorang pengarang Soviet/Rusia, pendiri metode sastra realisme sosialis dan seorang aktivis politik. Ia dilahirkan di kota Nizhny Novgorod dan meninggal di Moskwa. Dari tahun 1906 hingga 1913, dan dari 1921 hingga 1929 ia tinggal di luar negeri, kebanyakan di Capri; setelah kembali ke Uni Soviet ia menerima kebijakan-kebijakan kebudayaan masa itu, meskipun ia tidak diizinkan meninggalkan negaranya."@in ,
+		"\u041C\u0430\u043A\u0441\u0438\u0301\u043C \u0413\u043E\u0301\u0440\u044C\u043A\u0438\u0439 (\u043D\u0430\u0441\u0442\u043E\u044F\u0449\u0435\u0435 \u0438\u043C\u044F \u2014 \u0410\u043B\u0435\u043A\u0441\u0435\u0301\u0439 \u041C\u0430\u043A\u0441\u0438\u0301\u043C\u043E\u0432\u0438\u0447 \u041F\u0435\u0448\u043A\u043E\u0301\u0432; \u0443\u0441\u0442\u043E\u044F\u0432\u0448\u0438\u043C\u0441\u044F \u044F\u0432\u043B\u044F\u0435\u0442\u0441\u044F \u0442\u0430\u043A\u0436\u0435 \u0443\u043F\u043E\u0442\u0440\u0435\u0431\u043B\u0435\u043D\u0438\u0435 \u043D\u0430\u0441\u0442\u043E\u044F\u0449\u0435\u0433\u043E \u0438\u043C\u0435\u043D\u0438 \u043F\u0438\u0441\u0430\u0442\u0435\u043B\u044F \u0432 \u0441\u043E\u0447\u0435\u0442\u0430\u043D\u0438\u0438 \u0441 \u043F\u0441\u0435\u0432\u0434\u043E\u043D\u0438\u043C\u043E\u043C \u2014 \u0410\u043B\u0435\u043A\u0441\u0435\u0301\u0439 \u041C\u0430\u043A\u0441\u0438\u0301\u043C\u043E\u0432\u0438\u0447 \u0413\u043E\u0301\u0440\u044C\u043A\u0438\u0439; 16 [28] \u043C\u0430\u0440\u0442\u0430 1868, \u041D\u0438\u0436\u043D\u0438\u0439 \u041D\u043E\u0432\u0433\u043E\u0440\u043E\u0434, \u0420\u043E\u0441\u0441\u0438\u0439\u0441\u043A\u0430\u044F \u0438\u043C\u043F\u0435\u0440\u0438\u044F \u2014 18 \u0438\u044E\u043D\u044F 1936, \u0413\u043E\u0440\u043A\u0438, \u041C\u043E\u0441\u043A\u043E\u0432\u0441\u043A\u0430\u044F \u043E\u0431\u043B\u0430\u0441\u0442\u044C, \u0421\u0421\u0421\u0420) \u2014 \u0440\u0443\u0441\u0441\u043A\u0438\u0439 \u0438 \u0441\u043E\u0432\u0435\u0442\u0441\u043A\u0438\u0439 \u043F\u0438\u0441\u0430\u0442\u0435\u043B\u044C, \u043F\u0440\u043E\u0437\u0430\u0438\u043A, \u0434\u0440\u0430\u043C\u0430\u0442\u0443\u0440\u0433, \u043E\u0441\u043D\u043E\u0432\u043E\u043F\u043E\u043B\u043E\u0436\u043D\u0438\u043A \u043B\u0438\u0442\u0435\u0440\u0430\u0442\u0443\u0440\u044B \u0441\u043E\u0446\u0438\u0430\u043B\u0438\u0441\u0442\u0438\u0447\u0435\u0441\u043A\u043E\u0433\u043E \u0440\u0435\u0430\u043B\u0438\u0437\u043C\u0430, \u0438\u043D\u0438\u0446\u0438\u0430\u0442\u043E\u0440 \u0441\u043E\u0437\u0434\u0430\u043D\u0438\u044F \u0421\u043E\u044E\u0437\u0430 \u043F\u0438\u0441\u0430\u0442\u0435\u043B\u0435\u0439 \u0421\u0421\u0421\u0420 \u0438 \u043F\u0435\u0440\u0432\u044B\u0439 \u043F\u0440\u0435\u0434\u0441\u0435\u0434\u0430\u0442\u0435\u043B\u044C \u043F\u0440\u0430\u0432\u043B\u0435\u043D\u0438\u044F \u044D\u0442\u043E\u0433\u043E \u0441\u043E\u044E\u0437\u0430. \u041E\u0434\u0438\u043D \u0438\u0437 \u0441\u0430\u043C\u044B\u0445 \u0437\u043D\u0430\u0447\u0438\u0442\u0435\u043B\u044C\u043D\u044B\u0445 \u0438 \u0438\u0437\u0432\u0435\u0441\u0442\u043D\u044B\u0445 \u0432 \u043C\u0438\u0440\u0435 \u0440\u0443\u0441\u0441\u043A\u0438\u0445 \u043F\u0438\u0441\u0430\u0442\u0435\u043B\u0435\u0439 \u0438 \u043C\u044B\u0441\u043B\u0438\u0442\u0435\u043B\u0435\u0439. 5 \u0440\u0430\u0437 \u043D\u043E\u043C\u0438\u043D\u0438\u0440\u043E\u0432\u0430\u043D \u043D\u0430 \u041D\u043E\u0431\u0435\u043B\u0435\u0432\u0441\u043A\u0443\u044E \u043F\u0440\u0435\u043C\u0438\u044E \u043F\u043E \u043B\u0438\u0442\u0435\u0440\u0430\u0442\u0443\u0440\u0435: \u0432 1918, 1923, \u0434\u0432\u0430 \u0440\u0430\u0437\u0430 \u2014 \u0432 1928, 1933 \u0433\u0433. \u041D\u0430\u0447\u0430\u0432 \u0441 \u0440\u043E\u043C\u0430\u043D\u0442\u0438\u0447\u0435\u0441\u043A\u0438 \u043E\u0434\u0443\u0445\u043E\u0442\u0432\u043E\u0440\u0451\u043D\u043D\u044B\u0445 \u043D\u043E\u0432\u0435\u043B\u043B, \u043F\u0435\u0441\u0435\u043D \u0432 \u043F\u0440\u043E\u0437\u0435 \u0438 \u0440\u0430\u0441\u0441\u043A\u0430\u0437\u043E\u0432, \u0432 1901 \u0433\u043E\u0434\u0443 \u0413\u043E\u0440\u044C\u043A\u0438\u0439 \u043E\u0431\u0440\u0430\u0442\u0438\u043B\u0441\u044F \u043A \u0434\u0440\u0430\u043C\u0430\u0442\u0443\u0440\u0433\u0438\u0438. \u041D\u0430 \u0440\u0443\u0431\u0435\u0436\u0435 XIX \u0438 XX \u0432\u0435\u043A\u043E\u0432 \u043F\u0440\u043E\u0441\u043B\u0430\u0432\u0438\u043B\u0441\u044F \u043A\u0430\u043A \u0430\u0432\u0442\u043E\u0440 \u043F\u0440\u043E\u0438\u0437\u0432\u0435\u0434\u0435\u043D\u0438\u0439 \u0432 \u0440\u0435\u0432\u043E\u043B\u044E\u0446\u0438\u043E\u043D\u043D\u043E\u043C \u0434\u0443\u0445\u0435, \u043B\u0438\u0447\u043D\u043E \u0431\u043B\u0438\u0437\u043A\u0438\u0439 \u043A \u0441\u043E\u0446\u0438\u0430\u043B-\u0434\u0435\u043C\u043E\u043A\u0440\u0430\u0442\u0430\u043C \u0438 \u043D\u0430\u0445\u043E\u0434\u0438\u0432\u0448\u0438\u0439\u0441\u044F \u0432 \u043E\u043F\u043F\u043E\u0437\u0438\u0446\u0438\u0438 \u043A \u0446\u0430\u0440\u0441\u043A\u043E\u043C\u0443 \u0440\u0435\u0436\u0438\u043C\u0443. \u0420\u0430\u0441\u0446\u0432\u0435\u0442 \u0442\u0432\u043E\u0440\u0447\u0435\u0441\u043A\u043E\u0439 \u0431\u0438\u043E\u0433\u0440\u0430\u0444\u0438\u0438 \u043F\u0438\u0441\u0430\u0442\u0435\u043B\u044F \u043E\u0442\u043C\u0435\u0447\u0435\u043D \u0446\u0438\u043A\u043B\u0430\u043C\u0438 \u043E\u0447\u0435\u0440\u043A\u043E\u0432, \u0430\u0432\u0442\u043E\u0431\u0438\u043E\u0433\u0440\u0430\u0444\u0438\u0447\u0435\u0441\u043A\u0438\u0445 \u043F\u043E\u0432\u0435\u0441\u0442\u0435\u0439, \u043F\u044C\u0435\u0441\u0430\u043C\u0438, \u0434\u0432\u0443\u043C\u044F \u043A\u0440\u0443\u043F\u043D\u044B\u043C\u0438 \u0440\u043E\u043C\u0430\u043D\u0430\u043C\u0438, \u0430 \u0442\u0430\u043A\u0436\u0435 \u043A\u043D\u0438\u0433\u0430\u043C\u0438 \u0438 \u0440\u0430\u0441\u0441\u043A\u0430\u0437\u0430\u043C\u0438 \u0432 \u0436\u0430\u043D\u0440\u0435 \u043F\u0443\u0431\u043B\u0438\u0446\u0438\u0441\u0442\u0438\u0447\u0435\u0441\u043A\u043E\u0439 \u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0430\u043B\u0438\u0441\u0442\u0438\u043A\u0438. \u041E\u0441\u043D\u043E\u0432\u043D\u043E\u0439 \u043F\u0430\u0444\u043E\u0441 \u0442\u0432\u043E\u0440\u0435\u043D\u0438\u0439 \u0413\u043E\u0440\u044C\u043A\u043E\u0433\u043E \u2014 \u043C\u0435\u0447\u0442\u0430 \u043E \u00AB\u043D\u043E\u0432\u044B\u0445 \u043B\u044E\u0434\u044F\u0445\u00BB, \u0431\u0435\u0441\u0441\u0442\u0440\u0430\u0448\u043D\u044B\u0445 \u0438 \u0441\u0432\u043E\u0431\u043E\u0434\u043D\u044B\u0445, \u043E\u0431\u043B\u0430\u0434\u0430\u044E\u0449\u0438\u0445 \u0432\u044B\u0441\u043E\u0447\u0430\u0439\u0448\u0438\u043C\u0438 \u0438\u043D\u0442\u0435\u043B\u043B\u0435\u043A\u0442\u0443\u0430\u043B\u044C\u043D\u044B\u043C\u0438 \u0438 \u0444\u0438\u0437\u0438\u0447\u0435\u0441\u043A\u0438\u043C\u0438 \u0441\u043F\u043E\u0441\u043E\u0431\u043D\u043E\u0441\u0442\u044F\u043C\u0438, \u0441\u043F\u043E\u0441\u043E\u0431\u043D\u044B\u0445 \u0434\u043E\u0431\u0438\u0442\u044C\u0441\u044F \u0441\u0432\u0435\u0440\u0445\u0446\u0435\u043B\u0435\u0439 \u0437\u0430 \u0433\u0440\u0430\u043D\u044C\u044E \u0432\u043E\u0437\u043C\u043E\u0436\u043D\u043E\u0433\u043E, \u043D\u0435 \u0438\u0441\u043A\u043B\u044E\u0447\u0430\u044F \u0431\u0435\u0441\u0441\u043C\u0435\u0440\u0442\u0438\u044F. \u0412 \u044D\u043C\u0438\u0433\u0440\u0430\u0446\u0438\u0438 \u043F\u0440\u043E\u0432\u0451\u043B \u0432 \u043E\u0431\u0449\u0435\u0439 \u0441\u043B\u043E\u0436\u043D\u043E\u0441\u0442\u0438 \u0431\u043E\u043B\u0435\u0435 18 \u043B\u0435\u0442, \u0432\u043A\u043B\u044E\u0447\u0430\u044F 15 \u043B\u0435\u0442 \u2014 \u0432 \u0418\u0442\u0430\u043B\u0438\u0438, \u043F\u0440\u0438 \u044D\u0442\u043E\u043C \u043D\u0435 \u043E\u0432\u043B\u0430\u0434\u0435\u043B \u043D\u0438 \u043E\u0434\u043D\u0438\u043C \u0438\u043D\u043E\u0441\u0442\u0440\u0430\u043D\u043D\u044B\u043C \u044F\u0437\u044B\u043A\u043E\u043C. \u0412 \u043D\u0430\u0447\u0430\u043B\u0435 XX \u0432\u0435\u043A\u0430 \u0431\u044B\u043B \u043E\u0434\u043D\u0438\u043C \u0438\u0437 \u0438\u0434\u0435\u043E\u043B\u043E\u0433\u043E\u0432 \u0431\u043E\u0433\u043E\u0441\u0442\u0440\u043E\u0438\u0442\u0435\u043B\u044C\u0441\u0442\u0432\u0430, \u0432 1909 \u0433\u043E\u0434\u0443 \u043F\u043E\u043C\u043E\u0433\u0430\u043B \u0443\u0447\u0430\u0441\u0442\u043D\u0438\u043A\u0430\u043C \u044D\u0442\u043E\u0433\u043E \u0442\u0435\u0447\u0435\u043D\u0438\u044F \u0441\u043E\u0434\u0435\u0440\u0436\u0430\u0442\u044C \u0448\u043A\u043E\u043B\u0443 \u043D\u0430 \u043E\u0441\u0442\u0440\u043E\u0432\u0435 \u041A\u0430\u043F\u0440\u0438 \u0434\u043B\u044F \u0440\u0430\u0431\u043E\u0447\u0438\u0445, \u043A\u043E\u0442\u043E\u0440\u0443\u044E \u0412. \u0418. \u041B\u0435\u043D\u0438\u043D \u043D\u0430\u0437\u044B\u0432\u0430\u043B \u00AB\u043B\u0438\u0442\u0435\u0440\u0430\u0442\u043E\u0440\u0441\u043A\u0438\u043C \u0446\u0435\u043D\u0442\u0440\u043E\u043C \u0431\u043E\u0433\u043E\u0441\u0442\u0440\u043E\u0438\u0442\u0435\u043B\u044C\u0441\u0442\u0432\u0430\u00BB. \u0413\u043E\u0440\u044C\u043A\u0438\u0439 \u0441\u0442\u043E\u044F\u043B \u0432\u043E \u0433\u043B\u0430\u0432\u0435 \u0442\u0440\u0451\u0445 \u043A\u0440\u0443\u043F\u043D\u044B\u0445 \u0438\u0437\u0434\u0430\u0442\u0435\u043B\u044C\u0441\u0442\u0432 \u2014 \u00AB\u0417\u043D\u0430\u043D\u0438\u0435\u00BB, \u00AB\u041F\u0430\u0440\u0443\u0441\u00BB \u0438 \u00AB\u0412\u0441\u0435\u043C\u0438\u0440\u043D\u0430\u044F \u043B\u0438\u0442\u0435\u0440\u0430\u0442\u0443\u0440\u0430\u00BB (\u0441 1902 \u043F\u043E 1921 \u0433.), \u043F\u0440\u0438\u0432\u043D\u0451\u0441 \u0432 \u043A\u043D\u0438\u0433\u043E\u0438\u0437\u0434\u0430\u0442\u0435\u043B\u044C\u0441\u043A\u0443\u044E \u0434\u0435\u044F\u0442\u0435\u043B\u044C\u043D\u043E\u0441\u0442\u044C \u043D\u043E\u0432\u0430\u0442\u043E\u0440\u0441\u043A\u0438\u0435 \u043F\u043E\u0434\u0445\u043E\u0434\u044B. \u041D\u0435\u0441\u043C\u043E\u0442\u0440\u044F \u043D\u0430 \u0442\u043E, \u0447\u0442\u043E \u043D\u0435\u043A\u043E\u0442\u043E\u0440\u043E\u0435 \u0432\u0440\u0435\u043C\u044F \u0413\u043E\u0440\u044C\u043A\u0438\u0439 \u0431\u044B\u043B \u043A\u0440\u0443\u043F\u043D\u0435\u0439\u0448\u0438\u043C \u0441\u043F\u043E\u043D\u0441\u043E\u0440\u043E\u043C \u0431\u043E\u043B\u044C\u0448\u0435\u0432\u0438\u0441\u0442\u0441\u043A\u043E\u0439 \u0444\u0440\u0430\u043A\u0446\u0438\u0438, \u043A \u041E\u043A\u0442\u044F\u0431\u0440\u044C\u0441\u043A\u043E\u0439 \u0440\u0435\u0432\u043E\u043B\u044E\u0446\u0438\u0438 \u0438 \u0421\u043E\u0432\u0435\u0442\u0441\u043A\u043E\u0439 \u0432\u043B\u0430\u0441\u0442\u0438 \u0432 \u0435\u0451 \u043D\u0430\u0447\u0430\u043B\u044C\u043D\u044B\u0439 \u043F\u0435\u0440\u0438\u043E\u0434 \u043E\u043D \u043E\u0442\u043D\u0451\u0441\u0441\u044F \u0441\u043A\u0435\u043F\u0442\u0438\u0447\u0435\u0441\u043A\u0438. \u0425\u043E\u0434\u0430\u0442\u0430\u0439\u0441\u0442\u0432\u043E\u0432\u0430\u043B \u043F\u0435\u0440\u0435\u0434 \u0431\u043E\u043B\u044C\u0448\u0435\u0432\u0438\u043A\u0430\u043C\u0438 \u0437\u0430 \u0430\u0440\u0435\u0441\u0442\u043E\u0432\u0430\u043D\u043D\u044B\u0445 \u0438 \u043F\u0440\u0438\u0433\u043E\u0432\u043E\u0440\u0451\u043D\u043D\u044B\u0445 \u043A \u043A\u0430\u0437\u043D\u0438. \u041F\u043E\u0441\u043B\u0435 \u043D\u0435\u0441\u043A\u043E\u043B\u044C\u043A\u0438\u0445 \u043B\u0435\u0442 \u043A\u0443\u043B\u044C\u0442\u0443\u0440\u043D\u043E\u0439 \u0438 \u043F\u0440\u0430\u0432\u043E\u0437\u0430\u0449\u0438\u0442\u043D\u043E\u0439 \u0440\u0430\u0431\u043E\u0442\u044B \u0432 \u0421\u043E\u0432\u0435\u0442\u0441\u043A\u043E\u0439 \u0420\u043E\u0441\u0441\u0438\u0438 \u0436\u0438\u043B \u0437\u0430 \u0440\u0443\u0431\u0435\u0436\u043E\u043C \u0432 1920-\u0435 \u0433\u043E\u0434\u044B (\u0411\u0435\u0440\u043B\u0438\u043D, \u041C\u0430\u0440\u0438\u0435\u043D\u0431\u0430\u0434, \u0421\u043E\u0440\u0440\u0435\u043D\u0442\u043E). \u0412 1932 \u0433\u043E\u0434\u0443 \u043E\u043A\u043E\u043D\u0447\u0430\u0442\u0435\u043B\u044C\u043D\u043E \u0432\u0435\u0440\u043D\u0443\u043B\u0441\u044F \u0432 \u0421\u0421\u0421\u0420. \u0413\u043E\u0440\u044C\u043A\u0438\u0439 \u0431\u044B\u043B \u0441\u0430\u043C\u044B\u043C \u0438\u0437\u0434\u0430\u0432\u0430\u0435\u043C\u044B\u043C \u0432 \u0421\u0421\u0421\u0420 \u0441\u043E\u0432\u0435\u0442\u0441\u043A\u0438\u043C \u043F\u0438\u0441\u0430\u0442\u0435\u043B\u0435\u043C: \u0437\u0430 1918\u20141986 \u0433\u043E\u0434\u044B \u043E\u0431\u0449\u0438\u0439 \u0442\u0438\u0440\u0430\u0436 3556 \u0438\u0437\u0434\u0430\u043D\u0438\u0439 \u0441\u043E\u0441\u0442\u0430\u0432\u0438\u043B 242,621 \u043C\u043B\u043D \u044D\u043A\u0437\u0435\u043C\u043F\u043B\u044F\u0440\u043E\u0432. \u0415\u0441\u043B\u0438 \u0436\u0435 \u043F\u0440\u0438\u043D\u0438\u043C\u0430\u0442\u044C \u0432 \u0440\u0430\u0441\u0447\u0451\u0442 \u0432\u0441\u0435\u0445 \u0440\u0443\u0441\u0441\u043A\u0438\u0445 \u043F\u0438\u0441\u0430\u0442\u0435\u043B\u0435\u0439, \u0442\u043E \u0413\u043E\u0440\u044C\u043A\u0438\u0439 \u0443\u0441\u0442\u0443\u043F\u0430\u0435\u0442 \u043B\u0438\u0448\u044C \u041B. \u041D. \u0422\u043E\u043B\u0441\u0442\u043E\u043C\u0443 \u0438 \u0410. \u0421. \u041F\u0443\u0448\u043A\u0438\u043D\u0443. \u041F\u043E\u043B\u043D\u043E\u0435 \u0441\u043E\u0431\u0440\u0430\u043D\u0438\u0435 \u0441\u043E\u0447\u0438\u043D\u0435\u043D\u0438\u0439 \u0413\u043E\u0440\u044C\u043A\u043E\u0433\u043E \u0441\u043E\u0441\u0442\u0430\u0432\u043B\u044F\u0435\u0442 60 \u0442\u043E\u043C\u043E\u0432: \u0445\u0443\u0434\u043E\u0436\u0435\u0441\u0442\u0432\u0435\u043D\u043D\u044B\u0435 \u043F\u0440\u043E\u0438\u0437\u0432\u0435\u0434\u0435\u043D\u0438\u044F \u0438\u0437\u0434\u0430\u043D\u044B \u0432 1968\u20141973 \u0433\u043E\u0434\u0430\u0445, \u043F\u0443\u0431\u043B\u0438\u0446\u0438\u0441\u0442\u0438\u043A\u0430 \u2014 \u043F\u043E\u0441\u043B\u0435 1985 \u0433\u043E\u0434\u0430, \u043F\u0438\u0441\u044C\u043C\u0430 \u043F\u043E\u043B\u043D\u043E\u0441\u0442\u044C\u044E \u043D\u0435 \u0438\u0437\u0434\u0430\u043D\u044B \u0434\u043E \u0441\u0438\u0445 \u043F\u043E\u0440. \u0421 1932 \u043F\u043E 1990 \u0433\u043E\u0434 \u0438\u043C\u044F \u0413\u043E\u0440\u044C\u043A\u043E\u0433\u043E \u043D\u043E\u0441\u0438\u043B \u0435\u0433\u043E \u0440\u043E\u0434\u043D\u043E\u0439 \u0433\u043E\u0440\u043E\u0434 \u2014 \u041D\u0438\u0436\u043D\u0438\u0439 \u041D\u043E\u0432\u0433\u043E\u0440\u043E\u0434. \u041F\u0441\u0435\u0432\u0434\u043E\u043D\u0438\u043C-\u0444\u0440\u0435\u043D\u043E\u043D\u0438\u043C \u041C. \u0413\u043E\u0440\u044C\u043A\u0438\u0439 \u0432\u043F\u0435\u0440\u0432\u044B\u0435 \u043F\u043E\u044F\u0432\u0438\u043B\u0441\u044F 12 \u0441\u0435\u043D\u0442\u044F\u0431\u0440\u044F 1892 \u0433\u043E\u0434\u0430 \u0432 \u0442\u0438\u0444\u043B\u0438\u0441\u0441\u043A\u043E\u0439 \u0433\u0430\u0437\u0435\u0442\u0435 \u00AB\u041A\u0430\u0432\u043A\u0430\u0437\u00BB \u0432 \u043F\u043E\u0434\u043F\u0438\u0441\u0438 \u043A \u0440\u0430\u0441\u0441\u043A\u0430\u0437\u0443 \u00AB\u041C\u0430\u043A\u0430\u0440 \u0427\u0443\u0434\u0440\u0430\u00BB."@ru ,
+		"Maxim Gorkij (\u041C\u0430\u043A\u0441\u0438\u043C \u0413\u043E\u0440\u044C\u043A\u0438\u0439), vlastn\u00EDm jm\u00E9nem Alexej Maximovi\u010D Pe\u0161kov (\u0410\u043B\u0435\u043A\u0441\u0435\u0439 \u041C\u0430\u043A\u0441\u0438\u043C\u043E\u0432\u0438\u0447 \u041F\u0435\u0448\u043A\u043E\u0432), (28. b\u0159ezna 1868, Ni\u017Enij Novgorod \u2013 18. \u010Dervna 1936), byl rusk\u00FD spisovatel, dramatik, b\u00E1sn\u00EDk a revolucion\u00E1\u0159. B\u00FDv\u00E1 pova\u017Eov\u00E1n za pr\u016Fkopn\u00EDka socialistick\u00E9ho realismu."@cs ,
+		"Maksim Gorki (errusieraz: \u041C\u0430\u043A\u0441\u0438\u043C \u0413\u043E\u0440\u044C\u043A\u0438\u0439), benetako izenez Aleksei Maksimovitx Pexkov (errusieraz: \u0410\u043B\u0435\u043A\u0441\u0435\u0439 \u041C\u0430\u043A\u0441\u0438\u043C\u043E\u0432\u0438\u0447 \u041F\u0435\u0448\u043A\u043E\u0432; Nizhni Novgorod, 1868ko martxoaren 28greg./martxoaren 16ajul. \u2013 Mosku, 1936ko ekainaren 18), errusiar idazlea izan zen, errealismo sozialistaren sortzailetariko bat eta iraultza boltxebikearen aldeko aktibista. Bere liburuetan burgesiaren ustelkeria, klaseen arteko borroka eta gizarte-arazoak jorratu zituen nagusiki. 1906tik 1913ra eta 1921etik 1929ra, atzerrian bizi izan zen, batez ere Caprin, Italian. Sobietar Batasunera itzuli zenean, onartu zituen garaiko kultura-politika, baina ez zuen baimenik izan bere herrialdea berriro ere uzteko. Haren omenez, 1932tik 1990era, haren jaioterriari Gorki izena eman zioten."@eu ,
+		"Alexei Maximovich Peshkov (Russian: \u0410\u043B\u0435\u043A\u0441\u0435\u0301\u0439 \u041C\u0430\u043A\u0441\u0438\u0301\u043C\u043E\u0432\u0438\u0447 \u041F\u0435\u0448\u043A\u043E\u0301\u0432 or \u041F\u0435\u0301\u0448\u043A\u043E\u0432; 28 March [O.S. 16 March] 1868 \u2013 18 June 1936), primarily known as Maxim Gorky (Russian: \u041C\u0430\u043A\u0441\u0438\u0301\u043C \u0413\u043E\u0301\u0440\u044C\u043A\u0438\u0439), was a Russian and Soviet writer, a founder of the socialist realism literary method, and a political activist. He was also a five-time nominee for the Nobel Prize in Literature. Prior to his renown as an author, he frequently changed jobs and roamed across the Russian Empire; these experiences would later influence his writing. Gorky's most famous works were The Lower Depths (1902), Twenty-six Men and a Girl (1899), The Song of the Stormy Petrel (1901), My Childhood (1913\u20131914), Mother (1906), Summerfolk (1904) and Children of the Sun (1905). He had associations with fellow Russian writers Leo Tolstoy and Anton Chekhov; Gorky would later mention them in his memoirs. Gorky was active in the emerging Marxist communist movement. He publicly opposed the Tsarist regime, and for a time closely associated himself with Vladimir Lenin and Alexander Bogdanov's Bolshevik wing of the party. For a significant part of his life, he was exiled from Russia and later the Soviet Union. In 1932, he returned to the USSR on Joseph Stalin's personal invitation and lived there until his death in June 1936."@en ,
+		"\u30DE\u30AF\u30B7\u30E0\u30FB\u30B4\u30FC\u30EA\u30AD\u30FC\uFF08\u041C\u0430\u043A\u0441\u0438\u0301\u043C \u0413\u043E\u0301\u0440\u044C\u043A\u0438\u0439, \u65E7\u7DB4: \u0413\u043E\u0440\u044C\u043A\u0456\u0439, 1868\u5E743\u670828\u65E5\uFF08\u30E6\u30EA\u30A6\u30B9\u66A63\u670816\u65E5\uFF09 - 1936\u5E746\u670818\u65E5\uFF09\u306F\u3001\u30ED\u30B7\u30A2\u306E\u4F5C\u5BB6\u3002\u672C\u540D\u306F\u30A2\u30EC\u30AF\u30BB\u30A4\u30FB\u30DE\u30AF\u30B7\u30FC\u30E2\u30F4\u30A3\u30C1\u30FB\u30DA\u30B7\u30B3\u30D5\uFF08\u0410\u043B\u0435\u043A\u0441\u0435\u0301\u0439 \u041C\u0430\u043A\u0441\u0438\u0301\u043C\u043E\u0432\u0438\u0447 \u041F\u0435\u0448\u043A\u043E\u0301\u0432\uFF09\u3002\u30DA\u30F3\u30CD\u30FC\u30E0\u306E\u30B4\u30FC\u30EA\u30AD\u30FC\u3068\u306F\u30ED\u30B7\u30A2\u8A9E\u3067\u300C\u82E6\u3044\u300D\u306E\u610F\u5473\u3002\u793E\u4F1A\u4E3B\u7FA9\u30EA\u30A2\u30EA\u30BA\u30E0\u306E\u624B\u6CD5\u306E\u5275\u59CB\u8005\u3067\u3042\u308A\u3001\u793E\u4F1A\u6D3B\u52D5\u5BB6\u3067\u3082\u3042\u3063\u305F\u3002"@ja ,
+		"Maksim Gorki, ros. \u041C\u0430\u043A\u0441\u0438\u043C \u0413\u043E\u0440\u044C\u043A\u0438\u0439; w\u0142a\u015Bciwie Aleksiej Maksimowicz Pieszkow, ros. \u0410\u043B\u0435\u043A\u0441\u0435\u0439 \u041C\u0430\u043A\u0441\u0438\u043C\u043E\u0432\u0438\u0447 \u041F\u0435\u0448\u043A\u043E\u0432 (ur. 16 marca?/28 marca 1868 w Ni\u017Cnym Nowogrodzie, Imperium Rosyjskie, zm. 18 czerwca 1936 w Moskwie, Rosyjska Federacyjna SRR) \u2013 rosyjski pisarz i publicysta. Wybitna posta\u0107 rosyjskiego modernizmu okresu srebrnego wieku. Uwa\u017Cany za inicjatora socrealizmu w literaturze. Pierwszy przewodnicz\u0105cy Zwi\u0105zku Pisarzy ZSRR w latach 1934\u20131936."@pl ,
+		"\u963F\u5217\u514B\u8C22\u00B7\u9A6C\u514B\u897F\u83AB\u7EF4\u5947\u00B7\u5F7C\u4EC0\u79D1\u592B\uFF08\u4FC4\u8A9E\uFF1A\u0410\u043B\u0435\u043A\u0441\u0435\u0439 \u041C\u0430\u043A\u0441\u0438\u043C\u043E\u0432\u0438\u0447 \u041F\u0435\u0448\u043A\u043E\u0432\uFF0C1868\u5E743\u670828\u65E5\uFF08\u5112\u7565\u66C63\u670816\u65E5\uFF09\u20131936\u5E746\u670818\u65E5\uFF09\uFF0C\u7B14\u540D\u9A6C\u514B\u897F\u59C6\u00B7\u9AD8\u5C14\u57FA\uFF08\u4FC4\u8A9E\uFF1A\u041C\u0430\u043A\u0441\u0438\u043C \u0413\u043E\u0440\u044C\u043A\u0438\u0439\uFF09\u793E\u4F1A\u4E3B\u4E49\u3001\u73B0\u5B9E\u4E3B\u4E49\u6587\u5B66\u5960\u57FA\u4EBA\uFF0C\u653F\u6CBB\u6D3B\u52A8\u5BB6\uFF0C\u82CF\u8054\u6587\u5B66\u7684\u521B\u59CB\u4EBA\u3002"@zh ;
+	dbo:birthName	"Aleksey Maksimovich Peshkov"@en .
+@prefix ns77:	<http://www.w3.org/2006/03/wn/wn20/instances/> .
+dbr:Maxim_Gorky	dbp:wordnet_type	ns77:synset-writer-noun-1 ;
+	dbo:wikiPageLength	"51287"^^xsd:nonNegativeInteger ;
+	dbp:b	"no"@en .
+dbr:Great_Purge	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:List_of_Russian_people	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/\u014Csugi_Sakae>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Early_life_of_Joseph_Stalin	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Byambyn_Rinchen	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Herman_Bernstein	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Simon_Russell_Beale	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Semyon_Budyonny	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Northern_storm_petrel	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Shabbos_goy	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Turkmen_State_University	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Metaksia_Simonyan	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Ilya_Uralov	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Ivo_van_Hove	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/Central_Park_(Almaty)>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Toby_Kebbell	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Anatoly_Kasheida	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Albert_Hetterle	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Lyuteranska_Street	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Valentina_Dmitryeva	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Grand_Duke_Paul_Alexandrovich_of_Russia	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/95th_Kvartal,_Kryvyi_Rih>	dbp:namesake	dbr:Maxim_Gorky ;
+	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Ieronim_Yasinsky	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/The_Young_Guard_(novel)>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:David_Aizman	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Bernard_Lecache	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Sviatohirsk	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Natalya_Sumska	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Zinovii_Grzhebin	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Yakov_Sverdlov	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Yevhen_Pluzhnyk	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Vladimir_Bouchler	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Alice_Boughton	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/1902_in_literature>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Santos_Balmori	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Matvey_Dubrovin	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Ellen_Liiger	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:God-Building	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:List_of_Russian-language_writers	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Socialist_realism	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:List_of_Russian-language_novelists	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/Vladimir_Maksimov_(writer)>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:January_1932	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:June_1936	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:David_Scott_Milton	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Yaroslav_Halan	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Copyright_law_of_Russia	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Veliky_Novgorod	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Culture_of_Estonia	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Boris_Stepantsev	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/Wahlstr\u00F6m_&_Widstrand>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Russian_Social_Democratic_Labour_Party	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:The_Master_and_Margarita	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:List_of_East_German_films	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Vladimir_Burtsev	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Karim_Hisami	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Gorodki	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Mensheviks	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Marthe_Bibesco	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:List_of_autobiographies	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Raine_Loo	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Nikolai_Evreinov	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Robert_La_Tourneaux	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Ilaignan	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Anatoli_Papanov	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Irwin_Weil	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Charles_Duff	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Maria_Filotti	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Vera_Michurina-Samoilova	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/Jovan_\u0110or\u0111evi\u0107>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Meta_Luts	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Three_of_Them	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Nikolai_Pomyalovsky	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:National_Film_Award_for_Best_Feature_Film_in_Kannada	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Communism_and_LGBT_rights	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:International_copyright_relations_of_Russia	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Coretti_Arle-Titz	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:James_Huneker	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Valery_Zhelobinsky	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Vladimir_Mayakovsky	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Vera_Alexandrovna_Tiscenko_Calder	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Stepanakert	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:The_Dial	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/Enrique_Flores_Mag\u00F3n>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Erwin_Piscator	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:John_Reed_Clubs	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Menahem_Mendel_Beilis	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Men_in_the_Off_Hours	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/Henry_T._Schnittkind>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Les_Podervianskyi	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/Realism_(theatre)>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/Three_Deaths_(drama)>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:The_Last_Ones	dbp:writer	dbr:Maxim_Gorky ;
+	dbo:author	dbr:Maxim_Gorky ;
+	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Proletkult	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:The_Cabal_of_Hypocrites	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:The_Life_of_Man	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:The_Philistines	dbp:writer	dbr:Maxim_Gorky ;
+	dbo:author	dbr:Maxim_Gorky ;
+	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/Unity_Theatre,_London>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/Barbarians_(play)>	dbp:writer	dbr:Maxim_Gorky ;
+	dbo:author	dbr:Maxim_Gorky ;
+	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Vladimir_Shchuko	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Najiba_Malikova	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:National_Theatre_in_Belgrade	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Charles_Theodore_Hagberg_Wright	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Daniil_Andreyev	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Romain_Rolland	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Sergey_Merkurov	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/Grymes_Hill,_Staten_Island>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Gardens_of_Augustus	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:George_Bagration_of_Mukhrani	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Irina_Taseva	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Amanda_Root	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Solovki_prison_camp	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Union_of_Soviet_Writers	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Sorcha_Cusack	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Kulap_Saipradit	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/\u00C9tienne_Bierry>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/The_Lower_Depths_(1936_film)>	dbp:writer	dbr:Maxim_Gorky ;
+	dbo:writer	dbr:Maxim_Gorky ;
+	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Fania_Mindell	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Lenin_Comsomol_park	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Pavel_Malyantovich	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Former_people	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/Alexander_Izmaylov_(critic)>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Monument_to_the_Fighters_of_the_Revolution	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/Enemies_(play)>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Lazarevskoe_Cemetery	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Petrograd_Commission_for_the_Improvement_of_the_Life_of_Scientists	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/Sovremennik_(1911\u20131915)>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Mahmoud_Hosseini_Zad	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Mahin_Oskouei	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Keith_Fowler	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/Jale_Aylan\u00E7>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Orhan_Kemal	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/Dimitrije_Mitrinovi\u0107>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Alexandra_Jacobi	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/Ivan_\u010Cargo>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Gypsies_Are_Found_Near_Heaven	dbp:writer	dbr:Maxim_Gorky ;
+	dbo:writer	dbr:Maxim_Gorky ;
+	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:George_Jordac	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/Die_Glocke_(magazine)>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/M\u00E1l_og_menning>	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Nikolai_Fedoseev	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Maxim_Gorky_Fortresses	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+dbr:Abdulaziz_Karimov	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .
+<http://dbpedia.org/resource/Mother_(1990_film)>	dbp:writer	dbr:Maxim_Gorky ;
+	dbo:writer	dbr:Maxim_Gorky ;
+	dbo:wikiPageWikiLink	dbr:Maxim_Gorky .

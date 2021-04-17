@@ -1,0 +1,702 @@
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+<http://dbpedia.org/resource/A.P.C.>	dbo:wikiPageWikiLink	dbr:Economy_of_France .
+dbr:Society_of_the_Friends_of_the_Blacks	dbo:wikiPageWikiLink	dbr:Economy_of_France .
+dbr:Opole	dbo:wikiPageWikiLink	dbr:Economy_of_France .
+<http://dbpedia.org/resource/1960s_in_France>	dbo:wikiPageWikiLink	dbr:Economy_of_France .
+dbr:Maginot_Line	dbo:wikiPageWikiLink	dbr:Economy_of_France .
+dbr:Walter_Muma	dbo:wikiPageWikiLink	dbr:Economy_of_France .
+dbr:August_2011_stock_markets_fall	dbo:wikiPageWikiLink	dbr:Economy_of_France .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+wikipedia-en:Economy_of_France	foaf:primaryTopic	dbr:Economy_of_France .
+dbr:COVID-19_recession	dbo:wikiPageWikiLink	dbr:Economy_of_France .
+<http://dbpedia.org/resource/2017_French_Socialist_Party_presidential_primary>	dbo:wikiPageWikiLink	dbr:Economy_of_France .
+dbr:Guy_Dejouany	dbo:wikiPageWikiLink	dbr:Economy_of_France .
+dbr:Vetements	dbo:wikiPageWikiLink	dbr:Economy_of_France .
+dbr:Sofema	dbo:wikiPageWikiLink	dbr:Economy_of_France .
+<http://dbpedia.org/resource/Officine_G\u00E9n\u00E9rale>	dbo:wikiPageWikiLink	dbr:Economy_of_France .
+dbr:Dormeuil	dbo:wikiPageWikiLink	dbr:Economy_of_France .
+<http://dbpedia.org/resource/2007_French_presidential_election>	dbo:wikiPageWikiLink	dbr:Economy_of_France .
+<http://dbpedia.org/resource/Brioni_(brand)>	dbo:wikiPageWikiLink	dbr:Economy_of_France .
+dbr:Political_history_of_France	dbo:wikiPageWikiLink	dbr:Economy_of_France .
+<http://dbpedia.org/resource/Kiehl\u0027s>	dbo:wikiPageWikiLink	dbr:Economy_of_France .
+dbr:Mathilde_Lemoine	dbo:wikiPageWikiLink	dbr:Economy_of_France .
+dbr:List_of_strikes	dbo:wikiPageWikiLink	dbr:Economy_of_France .
+dbr:List_of_international_presidential_trips_made_by_Benigno_Aquino_III	dbo:wikiPageWikiLink	dbr:Economy_of_France .
+<http://dbpedia.org/resource/List_of_international_presidential_trips_made_by_Fran\u00E7ois_Hollande>	dbo:wikiPageWikiLink	dbr:Economy_of_France .
+dbr:SMIC	dbo:wikiPageWikiLink	dbr:Economy_of_France .
+dbr:Economy_of_Finland	dbo:wikiPageWikiLink	dbr:Economy_of_France .
+dbr:Economic_impact_of_the_COVID-19_pandemic	dbo:wikiPageWikiLink	dbr:Economy_of_France .
+<http://dbpedia.org/resource/Institut_national_de_la_statistique_et_des_\u00E9tudes_\u00E9conomiques>	dbo:wikiPageWikiLink	dbr:Economy_of_France .
+dbr:French_wine	dbo:wikiPageWikiLink	dbr:Economy_of_France .
+dbr:Outline_of_France	dbo:wikiPageWikiLink	dbr:Economy_of_France .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+<http://dbpedia.org/resource/Saint_Barth\u00E9lemy>	rdfs:seeAlso	dbr:Economy_of_France .
+dbr:French_franc	dbo:wikiPageWikiLink	dbr:Economy_of_France .
+dbr:Vichy_France	dbo:wikiPageWikiLink	dbr:Economy_of_France .
+dbr:May_68	dbo:wikiPageWikiLink	dbr:Economy_of_France .
+dbr:Science_and_technology_in_France	dbo:wikiPageWikiLink	dbr:Economy_of_France .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Economy_of_France	rdf:type	owl:Thing .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Economy_of_France	rdf:type	yago:Economy108366753 ,
+		yago:System108435388 ,
+		yago:Abstraction100002137 ,
+		yago:Group100031264 ;
+	rdfs:label	"\u6CD5\u570B\u7D93\u6FDF"@zh ,
+		"Wirtschaft Frankreichs"@de ,
+		"Ekonomi Prancis"@in ,
+		"\uD504\uB791\uC2A4\uC758 \uACBD\uC81C"@ko ,
+		"\u0627\u0642\u062A\u0635\u0627\u062F \u0641\u0631\u0646\u0633\u0627"@ar ,
+		"\u0415\u043A\u043E\u043D\u043E\u043C\u0456\u043A\u0430 \u0424\u0440\u0430\u043D\u0446\u0456\u0457"@uk ,
+		"Econom\u00EDa de Francia"@es ,
+		"Frantziako ekonomia"@eu ,
+		"Economia de Fran\u00E7a"@ca ,
+		"Economia della Francia"@it ,
+		"Gospodarka Francji"@pl ,
+		"Economy of France"@en ,
+		"\u00C9conomie de la France"@fr ,
+		"Ekonomika Francie"@cs ,
+		"\u30D5\u30E9\u30F3\u30B9\u306E\u7D4C\u6E08"@ja ,
+		"Economia da Fran\u00E7a"@pt ,
+		"Economie van Frankrijk"@nl ;
+	rdfs:comment	"L'economia della Francia \u00E8 una moderna economia mista di mercato.Si trova al sesto posto nella classifica per PIL nominale, con 2925 miliardi di dollari (al 2018), dietro Stati Uniti d'America, Cina, Giappone e Germania. Infine, per quanto riguarda la classifica del PIL in funzione del potere d'acquisto, la Francia si trova al nono posto (al 2014)."@it ,
+		"2018an Frantziako ekonomia munduko 6. handiena izan zen. Alemania eta Erresuma Batuarekin batera Europako herrialde ahaltsuena da Frantzia, eta munduko ahaltsuenetako bat. G-7 taldeko kideetakoa da, hori da, munduko zazpi herrialde industrializatuenetako bat. Lehen sektore oso emankorra, askotariko industria eta hirugarren sektore gero eta indartsuagoa (Barne Produktu Gordinaren % 70 1994an) dira Frantziako ekonomiaren oinarri nagusiak."@eu ,
+		"Gospodarka Francji plasuje si\u0119 na pi\u0105tym miejscu na \u015Bwiecie (w 2008 roku Francja wyprzedzi\u0142a Wielk\u0105 Brytani\u0119 w wyniku niskiego kursu funta szterlinga wzgl\u0119dem euro) i drugim w Europie pod wzgl\u0119dem wysoko\u015Bci nominalnego produktu krajowego brutto oraz na dziewi\u0105tym miejscu pod wzgl\u0119dem produktu krajowego brutto wa\u017Conego parytetem si\u0142y nabywczej."@pl ,
+		"The economy of France is highly developed and free-market-oriented. It is the world's 7th largest economy by 2019 nominal figures and the 10th largest economy by PPP figures. It is the 2nd largest economy in the European Union after Germany."@en ,
+		"De economie van Frankrijk is de zevende economie ter wereld. Met een verwacht bruto binnenlands product (bbp) van 2420 miljard euro is Frankrijk in 2017 een van de grootste economie\u00EBn ter wereld (gemeten in Amerikaanse dollars). Frankrijk is ook de op twee na grootste economie in Europa, na Duitsland en het Verenigd Koninkrijk."@nl ,
+		"\u6CD5\u570B\u7D93\u6FDF\u57282012\u5E74\u4E16\u754C\u9280\u884C\uFF08World Bank\uFF09\u4F30\u8A08\u6CD5\u570B2012\u5E74\u570B\u5167\u751F\u7522\u7E3D\u503C\uFF08GDP\uFF09\u70BA3,309,545\u767E\u842C\u7F8E\u5143\uFF0C\u6839\u64DA\u540C\u5E74\u8CFC\u8CB7\u529B\u5E73\u50F9\u6307\u6578\uFF08PPP\uFF09\u6CD5\u570B\u70BA\u4E16\u754C\u7B2C\u4E94\u5927\u7D93\u6FDF\u9AD4\u3002\u570B\u969B\u8CA8\u5E63\u57FA\u91D1\uFF08IMF\uFF09\u6839\u64DA\u6CD5\u570B2012\u5E74\u7684\u8D2D\u4E70\u529B\u5E73\u4EF7\u6307\u6578\uFF08PPP\uFF092,746,899\u767E\u842C\u7F8E\u5143\u5C07\u6CD5\u570B\u5217\u70BA\u4E16\u754C\u7B2C\u516D\u5927\u7D93\u6FDF\u9AD4\u3002\u7531\u7F8E\u570B\u4E2D\u592E\u60C5\u5831\u5C40\u4E16\u754C\u5404\u570B\u7D00\u5BE6\u5E74\u9451\uFF08CIA World Factbook\uFF092012\u5E74\u51FA\u7248\u7684\u6392\u540D\uFF0C\u8A55\u5B9A\u6CD5\u570B\u56FD\u5185\u751F\u4EA7\u603B\u503C\uFF08GDP\uFF09\u70BA2.767\u5146\uFF08trillion\uFF09\uFF0C\u540C\u6A23\u6839\u64DA\u5176\u8D2D\u4E70\u529B\u5E73\u4EF7\u6307\u6578\uFF08PPP\uFF09\u800C\u70BA\u4E16\u754C\u7B2C\u516D\u5927\u7D93\u6FDF\u9AD4\u3002"@zh ,
+		"Prancis merupakan salah satu ekonomi terbesar di dunia. Namun, karena adanya analisis yang berbeda, terdapat ketidaksetujuan seberapa besar ekonomi Prancis. Data International Monetary Fund memasukan ekonomi Prancis terbesar ke-8 menurut keseimbangan kemampuan berbelanja (PPP) tahun 2007 sebesar US$2,046,899 juta. Bank Dunia memperkirakan Produk Domestik Bruto Prancis tahun 2006 sebesar US$1,959,745 juta, atau terbesar ketujuh di dunia. Peringkat yang dipublikasikan oleh CIA World Factbook tahun 2008 menentukan GDP Prancis sebesar $2.067 triliun, terbesar ke-8 menurut pengukuran PPP."@in ,
+		"L'\u00E9conomie de la France traite de la situation \u00E9conomique conjoncturelle et structurelle de la France de nos jours. En 2020, la France est la 6e puissance \u00E9conomique mondiale, selon la banque mondiale et le FMI, et la 2e puissance \u00E9conomique en Europe derri\u00E8re l\u2019Allemagne mais devant le Royaume-Uni. Avec un PIB nominal de 2,771.622 milliards de dollars, la France est la 6\u00E8me puissance \u00E9conomique mondiale et se place derri\u00E8re les \u00C9tats-Unis, la Chine, le Japon, l'Allemagne et l\u2019Inde mais devant le Royaume-Uni[r\u00E9f. non conforme]. En 2020, elle se classe au 25e rang pour le PIB par habitant en parit\u00E9 de pouvoir d'achat (PPA), au-dessus de la moyenne de l'Union europ\u00E9enne qui est 28e. En classement par PIB en PPA, la France est la 10e puissance \u00E9conomique."@fr ,
+		"La econom\u00EDa de Francia es la quinta econom\u00EDa m\u00E1s grande del mundo, con un Producto Interno Bruto (nominal) de 2,574.807 millones de d\u00F3lares en 2017 en t\u00E9rminos absolutos. A nivel regional, la francesa es la segunda mayor econom\u00EDa de Europa, detr\u00E1s de la alemana. En 2016, la esperanza de vida de un obrero en Francia es 6,4 a\u00F1os inferior a la de un ejecutivo. En 2017, el 10% m\u00E1s rico de los franceses poseen m\u00E1s de la mitad de la riqueza del pa\u00EDs, mientras que el 50% de los m\u00E1s pobres tienen el 5%.\u200B"@es ,
+		"\u0424\u0440\u0430\u043D\u0446\u0456\u044F \u2014 \u0432\u0438\u0441\u043E\u043A\u043E\u0440\u043E\u0437\u0432\u0438\u043D\u0435\u043D\u0430 \u0456\u043D\u0434\u0443\u0441\u0442\u0440\u0456\u0430\u043B\u044C\u043D\u043E-\u0430\u0433\u0440\u0430\u0440\u043D\u0430 \u043A\u0440\u0430\u0457\u043D\u0430. \u0417\u0430 \u0440\u043E\u0437\u043C\u0456\u0440\u0430\u043C\u0438 \u0412\u0412\u041F \u0456 \u043E\u0431\u0441\u044F\u0433\u043E\u043C \u043F\u0440\u043E\u043C\u0438\u0441\u043B\u043E\u0432\u043E\u0433\u043E \u0432\u0438\u0440\u043E\u0431\u043D\u0438\u0446\u0442\u0432\u0430 \u0424\u0440\u0430\u043D\u0446\u0456\u0457, \u0437\u0430\u0439\u043C\u0430\u0454 \u043E\u0434\u043D\u0435 \u0437 \u043F\u0440\u043E\u0432\u0456\u0434\u043D\u0438\u0445 \u043C\u0456\u0441\u0446\u044C \u0443 \u0437\u0430\u0445\u0456\u0434\u043D\u043E\u043C\u0443 \u0441\u0432\u0456\u0442\u0456 (\u0440\u0430\u0437\u043E\u043C \u0437\u0456 \u0421\u0428\u0410, \u0424\u0420\u041D, \u0412\u0435\u043B\u0438\u043A\u043E\u044E \u0411\u0440\u0438\u0442\u0430\u043D\u0456\u0454\u044E \u0442\u0430 \u0456\u043D.). \u041F\u0440\u043E\u0432\u0456\u0434\u043D\u0430 \u0433\u0430\u043B\u0443\u0437\u044C \u043F\u0440\u043E\u043C\u0438\u0441\u043B\u043E\u0432\u043E\u0441\u0442\u0456 \u2014 \u043C\u0430\u0448\u0438\u043D\u043E\u0431\u0443\u0434\u0443\u0432\u0430\u043D\u043D\u044F. \u0420\u043E\u0437\u0432\u0438\u043D\u0443\u0442\u0456 \u0430\u0432\u0442\u043E\u0431\u0443\u0434\u0443\u0432\u0430\u043D\u043D\u044F, \u0441\u0443\u0434\u043D\u043E\u0431\u0443\u0434\u0443\u0432\u0430\u043D\u043D\u044F, \u0442\u0440\u0430\u043A\u0442\u043E\u0440\u043E- \u0456 \u0430\u0432\u0456\u0430\u0431\u0443\u0434\u0443\u0432\u0430\u043D\u043D\u044F, \u0435\u043B\u0435\u043A\u0442\u0440\u043E\u0442\u0435\u0445\u043D\u0456\u0447\u043D\u0430 \u0456 \u0440\u0430\u0434\u0456\u043E\u0435\u043B\u0435\u043A\u0442\u0440\u043E\u043D\u043D\u0430 \u043F\u0440\u043E\u043C\u0438\u0441\u043B\u043E\u0432\u0456\u0441\u0442\u044C, \u0430 \u0442\u0430\u043A\u043E\u0436 \u0445\u0456\u043C\u0456\u0447\u043D\u0430 (\u0432\u0438\u0440\u043E\u0431\u043D\u0438\u0446\u0442\u0432\u043E \u0441\u043E\u0434\u0438, \u0434\u043E\u0431\u0440\u0438\u0432, \u0445\u0456\u043C\u0456\u0447\u043D\u0438\u0445 \u0432\u043E\u043B\u043E\u043A\u043E\u043D, \u043F\u043B\u0430\u0441\u0442\u043C\u0430\u0441), \u043D\u0430\u0444\u0442\u043E\u043F\u0435\u0440\u0435\u0440\u043E\u0431\u043D\u0430 \u0456 \u043D\u0430\u0444\u0442\u043E\u0445\u0456\u043C\u0456\u0447\u043D\u0430 \u043F\u0440\u043E\u043C\u0438\u0441\u043B\u043E\u0432\u0456\u0441\u0442\u044C. \u0415\u043A\u0441\u043F\u043E\u0440\u0442\u043D\u0435 \u0437\u043D\u0430\u0447\u0435\u043D\u043D\u044F \u043C\u0430\u044E\u0442\u044C \u0432\u0438\u0440\u043E\u0431\u043D\u0438\u0446\u0442\u0432\u043E \u0442\u0435\u043A\u0441\u0442\u0438\u043B\u044E, \u043E\u0434\u044F\u0433\u0443, \u0433\u0430\u043B\u0430\u043D\u0442\u0435\u0440\u0435\u0457, \u0445\u0430\u0440\u0447\u043E\u0432\u0430 \u043F\u0440\u043E\u043C\u0438\u0441\u043B\u043E\u0432\u0456\u0441\u0442\u044C \u0456 \u0432\u0438\u043D\u043E\u0440\u043E\u0431\u0441\u0442\u0432\u043E."@uk ,
+		"Francouzsk\u00E1 ekonomika je dle nomin\u00E1ln\u00EDch \u010D\u00EDsel 7. nejv\u011Bt\u0161\u00ED ekonomika na sv\u011Bt\u011B a dle parity kupn\u00ED s\u00EDly 10. nejv\u011Bt\u0161\u00ED. V Evrop\u011B je podle nomin\u00E1ln\u00EDho HDP 3. nejsiln\u011Bj\u0161\u00ED ekonomikou s Velkou Brit\u00E1ni\u00ED na 2. a N\u011Bmeckem v 1. m\u00EDst\u011B. Organizace OECD s\u00EDdl\u00ED v Pa\u0159\u00ED\u017Ei, v hlavn\u00EDm m\u011Bst\u011B a finan\u010Dn\u00EDm centru. Kl\u00ED\u010Dov\u00FDm sektorem je pro Francii chemick\u00FD pr\u016Fmysl, kter\u00FD pom\u00E1h\u00E1 rozv\u00EDjet dal\u0161\u00ED v\u00FDrobn\u00ED \u010Dinnosti a p\u0159isp\u00EDv\u00E1 k hospod\u00E1\u0159sk\u00E9mu r\u016Fstu. Cestovn\u00ED ruch je hlavn\u00ED slo\u017Ekou ekonomiky, proto\u017Ee je Francie nejnav\u0161t\u011Bvovan\u011Bj\u0161\u00ED destinac\u00ED na sv\u011Bt\u011B."@cs ,
+		"\u30D5\u30E9\u30F3\u30B9\u306E\u7D4C\u6E08\uFF08\u4ECF\u8A9E\uFF1AL'\u00E9conomie de la France \u3001\u82F1\u8A9E\uFF1AEconomy of France\uFF09\u306F2008\u5E74\u306E\u540D\u76EEGDP\u63DB\u7B97\u3067\u3001\u30A2\u30E1\u30EA\u30AB\u5408\u8846\u56FD\u3001\u65E5\u672C\u3001\u4E2D\u83EF\u4EBA\u6C11\u5171\u548C\u56FD\u3001\u30C9\u30A4\u30C4\u306B\u6B21\u3044\u3067\u4E16\u754C\u7B2C5\u4F4D\u306E\u898F\u6A21\u3067\u3042\u308B\u3002\u30D5\u30E9\u30F3\u30B9\u306F\u51B7\u6226\u671F\u306B\u304A\u3044\u3066\u3001\u8CC7\u672C\u4E3B\u7FA9\u9663\u55B6\u306B\u5C5E\u3057\u3066\u3044\u305F\u3082\u306E\u306E\u3001\u56FD\u5BB6\u304C\u4F01\u696D\u3092\u7D71\u6CBB\u3059\u308B\u6DF7\u5408\u7D4C\u6E08\u4F53\u5236\u3092\u6577\u3044\u3066\u3044\u305F\uFF08\uFF08en / fr\uFF09\uFF09\u3002 1980\u5E74\u4EE3\u306E\u7B2C1\u6B21\u30B3\u30A2\u30D3\u30BF\u30B7\u30AA\u30F3\u306E\u6642\u671F\u306B\u3001\u30D5\u30E9\u30F3\u30B9\u7D4C\u6E08\u306F\u6C11\u55B6\u5316\u304C\u9032\u3093\u3060\u3082\u306E\u306E\u3001\u30EB\u30CE\u30FC\u3084\u30D5\u30E9\u30F3\u30B9\u96FB\u529B\u3001\u30D5\u30E9\u30F3\u30B9\u30AC\u30B9\u516C\u793E\u3068\u30B9\u30A8\u30BA\u304C\u5408\u4F75\u3057\u305F\u30A8\u30F3\u30B8\u30FC\u3001Orange\u3068\u3044\u3063\u305F\u4E3B\u8981\u4F01\u696D\u306B\u306F\u30D5\u30E9\u30F3\u30B9\u653F\u5E9C\u304C\u5927\u682A\u4E3B\u3068\u306A\u3063\u3066\u304A\u308A\u3001\u6DF7\u5408\u7D4C\u6E08\u4F53\u5236\u306E\u5F71\u97FF\u306F\u8272\u6FC3\u304F\u6B8B\u3063\u3066\u3044\u308B\u3002"@ja ,
+		"A economia da Fran\u00E7a combina um extenso setor privado com uma interven\u00E7\u00E3o estatal substancial. Grandes \u00E1reas de terrenos f\u00E9rteis, a aplica\u00E7\u00E3o de tecnologia moderna e subs\u00EDdios fizeram do pa\u00EDs o principal produtor agr\u00EDcola da Europa Ocidental. At\u00E9 meados do s\u00E9culo XIX, o pa\u00EDs era essencialmente agr\u00EDcola, com importantes atividades artesanais. O desenvolvimento dos transportes, na segunda metade do s\u00E9culo XIX, acelerou a concentra\u00E7\u00E3o de atividades industriais em algumas \u00E1reas, principalmente pr\u00F3ximas dos grandes centros urbanos."@pt ,
+		"\uD504\uB791\uC2A4\uB294 \uBA85\uBAA9 \uAD6D\uB0B4 \uCD1D\uC0DD\uC0B0\uC21C\uC73C\uB85C \uC138\uACC4 5\uC704, PPP \uAE30\uC900\uC73C\uB85C 9\uC704\uC758 \uACBD\uC81C\uAD8C\uC774\uB2E4. \uC720\uB7FD\uC5D0\uC11C\uB294 \uBA85\uBAA9 \uAD6D\uB0B4 \uCD1D\uC0DD\uC0B0\uC21C\uC73C\uB85C \uB3C5\uC77C\uC5D0 \uC774\uC5B4 2\uBC88\uC9F8\uB85C \uD06C\uBA70, PPP \uAE30\uC900\uC73C\uB85C \uB3C5\uC77C\uACFC \uC601\uAD6D\uC5D0 \uC774\uC5B4 2\uC704\uC758 \uACBD\uC81C\uAD8C\uC774\uB2E4. \uD504\uB791\uC2A4\uB294 \uC9C0\uC5ED\uB9C8\uB2E4 \uD2B9\uC0B0\uD488\uC73C\uB85C \uD3EC\uB3C4\uC8FC, \uB808\uBAAC, \uC62C\uB9AC\uBE0C \uB4F1\uC744 \uC0DD\uC0B0\uD55C\uB2E4. \uD56D\uACF5\uAE30\u00B7\uC790\uB3D9\uCC28\u00B7\uD654\uD559\uACF5\uC5C5\uC758 \uBC1C\uC804\uB3C4 \uB208\uBD80\uC2DC\uB2E4. \uB610\uD55C \uC9C0\uC911\uD574\uC548\uC774\uB098 \uC54C\uD504\uC2A4 \uB4F1\uC758 \uBA85\uC2B9\uC9C0, \uD30C\uB9AC \uB4F1 \uC5ED\uC0AC\uC801 \uAC74\uC870\uBB3C\uC774 \uD48D\uBD80\uD55C \uC544\uB984\uB2E4\uC6B4 \uB3C4\uC2DC\uB97C \uAC16\uACE0 \uC788\uC5B4 \uAD00\uAD11\uC0B0\uC5C5\uB3C4 \uC8FC\uC694 \uC0B0\uC5C5\uC758 \uD558\uB098\uC774\uB2E4. \uAC00\uC804 \uC81C\uD488, \uCEF4\uD4E8\uD130, \uAC00\uAD6C \uB4F1\uC758 \uC81C\uC791\uAE30\uC220\uC774 \uB6F0\uC5B4\uB098\uBA70, \uCCA0\uAD11\uC11D\uC744 \uCE90\uB294 \uB4F1\uC758 \uAD11\uC5C5\uC774 \uC874\uC7AC\uD55C\uB2E4. \uC8FC\uC694 \uC218\uCD9C\uD488\uC73C\uB85C\uB294 \uC790\uB3D9\uCC28, \uAE30\uACC4, \uC758\uB958, \uD654\uC7A5\uD488, \uC804\uC790\uC81C\uD488 \uB4F1\uC774 \uC788\uB2E4."@ko ,
+		"Amb un PIB de 2 160 miliards d'euros, Fran\u00E7a \u00E9s la 10a economia m\u00E9s gran del m\u00F3n, d'acord amb la mesura del PIB en termes de la paritat de poder adquisitiu, i presenta la taxa m\u00E9s baixa de pobresa del m\u00F3n (6%). D'acord amb el Fons Monetari Internacional, \u00E9s la segona economia m\u00E9s gran d'Europa, despr\u00E9s d'Alemanya. Cont\u00E9 abundants recursos agr\u00EDcoles, un fonament industrial s\u00F2lid, una for\u00E7a laboral molt capacitada. El sector dels serveis representa el 72% de l'economia del pa\u00EDs. Comparat amb altres economies desenvolupades, el creixement del PIB franc\u00E8s \u00E9s robust, per\u00F2 no tan accelerat com el dels Estats Units (2% entre 1994-1998). La taxa d'atur \u00E9s estable, per\u00F2, el d\u00E8ficit comercial en compte corrent ha caracteritzat el comer\u00E7 franc\u00E8s dels \u00FAltims anys. Com a estat de la Uni\u00F3 Europea s'ha a"@ca ,
+		"\u064A\u062F\u0645\u062C \u0627\u0642\u062A\u0635\u0627\u062F \u0641\u0631\u0646\u0633\u0627 \u0639\u0645\u0644 \u062D\u0631 \u0634\u0627\u0645\u0644 (\u062D\u0648\u0627\u0644\u064A 2.5 \u0645\u0644\u064A\u0648\u0646 \u0634\u0631\u0643\u0629 \u0633\u062C\u0644\u062A). \u062A\u062D\u062A\u0641\u0638 \u0627\u0644\u062D\u0643\u0648\u0645\u0629 \u0628\u0627\u0644\u062A\u0623\u062B\u064A\u0631 \u0627\u0644\u0643\u0628\u064A\u0631 \u0639\u0644\u0649 \u0627\u0644\u0642\u0637\u0639 \u0627\u0644\u0631\u0626\u064A\u0633\u064A\u0629 \u0645\u0646 \u0642\u0637\u0627\u0639\u0627\u062A \u0627\u0644\u0628\u0646\u0627\u0621 \u0627\u0644\u062A\u062D\u062A\u064A\u060C \u0628\u0645\u0644\u0643 \u0623\u063A\u0644\u0628\u064A\u0629 \u0634\u0631\u0643\u0627\u062A \u0633\u0643\u0643 \u0627\u0644\u062D\u062F\u064A\u062F\u060C \u060C \u0627\u0644\u0637\u0627\u0626\u0631\u0627\u062A\u060C \u0648\u0627\u0644\u0627\u062A\u0635\u0627\u0644\u0627\u062A. \u0625\u0646 \u0627\u0644\u062D\u0643\u0648\u0645\u0629 \u062A\u0635\u0641\u064A \u0627\u0644\u062D\u0635\u0635 \u0628\u0628\u0637\u0626 \u0641\u064A \u0627\u062A\u0635\u0627\u0644\u0627\u062A \u0641\u0631\u0646\u0633\u0627\u060C \u0648\u0627\u0644\u062E\u0637\u0648\u0637 \u0627\u0644\u062C\u0648\u064A\u0629 \u0627\u0644\u0641\u0631\u0646\u0633\u064A\u0629\u060C \u0628\u0627\u0644\u0625\u0636\u0627\u0641\u0629 \u0625\u0644\u0649 \u0627\u0644\u062A\u0623\u0645\u064A\u0646\u060C \u0648\u0627\u0644\u0623\u0639\u0645\u0627\u0644 \u0627\u0644\u0645\u0635\u0631\u0641\u064A\u0629\u060C \u0648\u0645\u0635\u0627\u0646\u0639 \u0627\u0644\u062F\u0641\u0627\u0639. \u0643\u0645\u0627 \u0634\u062F\u062F \u0627\u0644\u0639\u062F\u064A\u062F \u0645\u0646 \u0627\u0644\u0625\u0642\u062A\u0635\u0627\u062F\u064A\u064A\u0646 \u0645\u0631\u0627\u0631\u0627\u064B \u0648\u062A\u0643\u0631\u0627\u0631\u0627\u064B \u0639\u0644\u0649 \u0645\u0631 \u0627\u0644\u0633\u0646\u064A\u0646 \u0639\u0644\u0649 \u0623\u0646 \u0627\u0644\u0642\u0636\u064A\u0629 \u0627\u0644\u0631\u0626\u064A\u0633\u064A\u0629 \u0644\u0644\u0627\u0642\u062A\u0635\u0627\u062F \u0627\u0644\u0641\u0631\u0646\u0633\u064A \u0644\u064A\u0633 \u0642\u0636\u064A\u0629 \u0645\u0639\u062F\u0644 \u0627\u0644\u0625\u0646\u062A\u0627\u062C. \u0641\u064A \u0631\u0623\u064A\u0647\u0645\u060C \u0647\u064A \u0642\u0636\u064A\u0629 \u0627\u0644\u0625\u0635\u0644\u0627\u062D\u0627\u062A \u0627\u0644\u0623\u0633\u0627\u0633\u064A\u0629\u060C \u0644\u0643\u064A \u064A\u0632\u064A\u062F \u0639\u062F\u062F \u0627\u0644\u0639\u0627\u0645\u0644\u064A\u0646 \u0627\u0644\u0639\u0627\u0645."@ar ,
+		"Die Wirtschaft Frankreichs ist, gemessen am absoluten Bruttoinlandsprodukt (BIP), die sechstgr\u00F6\u00DFte Volkswirtschaft der Welt, nach den USA, der Volksrepublik China, Japan, Deutschland und dem Vereinigten K\u00F6nigreich. Es gilt in Europa als das wichtigste Industrieland neben Deutschland. Die Regierung Frankreichs nimmt aktiv Einfluss auf die franz\u00F6sische Wirtschaft, weshalb diese oft als gelenkte Volkswirtschaft bezeichnet wird. Die Wirtschaft gilt als relativ breit aufgestellt und als durchschnittlich abh\u00E4ngig von Au\u00DFenhandel und Finanzm\u00E4rkten; sie kam etwas besser durch die Finanz- und Wirtschaftskrise um 2009 als andere Industriestaaten."@de ;
+	rdfs:seeAlso	dbr:Budget_of_France ,
+		dbr:List_of_exports_of_France ,
+		dbr:Automotive_industry ,
+		dbr:List_of_largest_French_companies ,
+		dbr:France ,
+		dbr:Departments_of_France ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Vu_du_39e_\u00E9tage_2,_La_D\u00E9fense.jpg> ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Economy_of_France .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Economy_of_France	dct:subject	dbc:Economies_of_Europe_by_country ,
+		dbc:European_Union_member_economies ,
+		dbc:OECD_member_economies ,
+		dbc:World_Trade_Organization_member_economies ,
+		dbc:Economy_of_France .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Economy_of_France	owl:sameAs	dbpedia-it:Economia_della_Francia ,
+		<http://ko.dbpedia.org/resource/\uD504\uB791\uC2A4\uC758_\uACBD\uC81C> ,
+		<https://global.dbpedia.org/id/4xAG6> ,
+		<http://pt.dbpedia.org/resource/Economia_da_Fran\u00E7a> ,
+		<http://zh.dbpedia.org/resource/\u6CD5\u570B\u7D93\u6FDF> .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Economy_of_France	owl:sameAs	yago-res:Economy_of_France .
+@prefix dbpedia-id:	<http://id.dbpedia.org/resource/> .
+dbr:Economy_of_France	owl:sameAs	dbpedia-id:Ekonomi_Prancis .
+@prefix dbpedia-af:	<http://af.dbpedia.org/resource/> .
+dbr:Economy_of_France	owl:sameAs	dbpedia-af:Ekonomie_van_Frankryk .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Economy_of_France	owl:sameAs	dbpedia-nl:Economie_van_Frankrijk ,
+		<http://hi.dbpedia.org/resource/\u092B\u093C\u094D\u0930\u093E\u0902\u0938_\u0915\u0940_\u0905\u0930\u094D\u0925\u0935\u094D\u092F\u0935\u0938\u094D\u0925\u093E> ,
+		<http://sq.dbpedia.org/resource/Ekonomia_e_Franc\u00EBs> .
+@prefix dbpedia-tr:	<http://tr.dbpedia.org/resource/> .
+dbr:Economy_of_France	owl:sameAs	dbpedia-tr:Fransa_ekonomisi ,
+		<http://fa.dbpedia.org/resource/\u0627\u0642\u062A\u0635\u0627\u062F_\u0641\u0631\u0627\u0646\u0633\u0647> ,
+		<http://az.dbpedia.org/resource/Fransa_iqtisadiyyat\u0131> ,
+		<http://rdf.freebase.com/ns/m.01192670> ,
+		<http://uk.dbpedia.org/resource/\u0415\u043A\u043E\u043D\u043E\u043C\u0456\u043A\u0430_\u0424\u0440\u0430\u043D\u0446\u0456\u0457> ,
+		<http://hy.dbpedia.org/resource/\u0556\u0580\u0561\u0576\u057D\u056B\u0561\u0575\u056B_\u057F\u0576\u057F\u0565\u057D\u0578\u0582\u0569\u0575\u0578\u0582\u0576> .
+@prefix dbpedia-io:	<http://io.dbpedia.org/resource/> .
+dbr:Economy_of_France	owl:sameAs	dbpedia-io:Ekonomio_di_Francia .
+@prefix dbpedia-fi:	<http://fi.dbpedia.org/resource/> .
+dbr:Economy_of_France	owl:sameAs	dbpedia-fi:Ranskan_talous ,
+		<http://es.dbpedia.org/resource/Econom\u00EDa_de_Francia> ,
+		<http://lt.dbpedia.org/resource/Pranc\u016Bzijos_ekonomika> ,
+		<http://gl.dbpedia.org/resource/Econom\u00EDa_de_Francia> ,
+		<http://ca.dbpedia.org/resource/Economia_de_Fran\u00E7a> ,
+		<http://ar.dbpedia.org/resource/\u0627\u0642\u062A\u0635\u0627\u062F_\u0641\u0631\u0646\u0633\u0627> ,
+		<http://vi.dbpedia.org/resource/Kinh_t\u1EBF_Ph\u00E1p> .
+@prefix dbpedia-cs:	<http://cs.dbpedia.org/resource/> .
+dbr:Economy_of_France	owl:sameAs	dbpedia-cs:Ekonomika_Francie ,
+		dbr:Economy_of_France ,
+		<http://he.dbpedia.org/resource/\u05DB\u05DC\u05DB\u05DC\u05EA_\u05E6\u05E8\u05E4\u05EA> ,
+		<http://be.dbpedia.org/resource/\u042D\u043A\u0430\u043D\u043E\u043C\u0456\u043A\u0430_\u0424\u0440\u0430\u043D\u0446\u044B\u0456> ,
+		<http://fr.dbpedia.org/resource/\u00C9conomie_de_la_France> ,
+		<http://ja.dbpedia.org/resource/\u30D5\u30E9\u30F3\u30B9\u306E\u7D4C\u6E08> ,
+		<http://ro.dbpedia.org/resource/Economia_Fran\u021Bei> ,
+		<http://bn.dbpedia.org/resource/\u09AB\u09CD\u09B0\u09BE\u09A8\u09CD\u09B8\u09C7\u09B0_\u0985\u09B0\u09CD\u09A5\u09A8\u09C0\u09A4\u09BF> .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Economy_of_France	owl:sameAs	wikidata:Q8057 .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Economy_of_France	owl:sameAs	dbpedia-de:Wirtschaft_Frankreichs ,
+		<http://bg.dbpedia.org/resource/\u0418\u043A\u043E\u043D\u043E\u043C\u0438\u043A\u0430_\u043D\u0430_\u0424\u0440\u0430\u043D\u0446\u0438\u044F> .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Economy_of_France	owl:sameAs	dbpedia-pl:Gospodarka_Francji .
+@prefix dbpedia-ms:	<http://ms.dbpedia.org/resource/> .
+dbr:Economy_of_France	owl:sameAs	dbpedia-ms:Ekonomi_Perancis .
+@prefix dbpedia-eu:	<http://eu.dbpedia.org/resource/> .
+dbr:Economy_of_France	owl:sameAs	dbpedia-eu:Frantziako_ekonomia ;
+	dbo:abstract	"\u064A\u062F\u0645\u062C \u0627\u0642\u062A\u0635\u0627\u062F \u0641\u0631\u0646\u0633\u0627 \u0639\u0645\u0644 \u062D\u0631 \u0634\u0627\u0645\u0644 (\u062D\u0648\u0627\u0644\u064A 2.5 \u0645\u0644\u064A\u0648\u0646 \u0634\u0631\u0643\u0629 \u0633\u062C\u0644\u062A). \u062A\u062D\u062A\u0641\u0638 \u0627\u0644\u062D\u0643\u0648\u0645\u0629 \u0628\u0627\u0644\u062A\u0623\u062B\u064A\u0631 \u0627\u0644\u0643\u0628\u064A\u0631 \u0639\u0644\u0649 \u0627\u0644\u0642\u0637\u0639 \u0627\u0644\u0631\u0626\u064A\u0633\u064A\u0629 \u0645\u0646 \u0642\u0637\u0627\u0639\u0627\u062A \u0627\u0644\u0628\u0646\u0627\u0621 \u0627\u0644\u062A\u062D\u062A\u064A\u060C \u0628\u0645\u0644\u0643 \u0623\u063A\u0644\u0628\u064A\u0629 \u0634\u0631\u0643\u0627\u062A \u0633\u0643\u0643 \u0627\u0644\u062D\u062F\u064A\u062F\u060C \u060C \u0627\u0644\u0637\u0627\u0626\u0631\u0627\u062A\u060C \u0648\u0627\u0644\u0627\u062A\u0635\u0627\u0644\u0627\u062A. \u0625\u0646 \u0627\u0644\u062D\u0643\u0648\u0645\u0629 \u062A\u0635\u0641\u064A \u0627\u0644\u062D\u0635\u0635 \u0628\u0628\u0637\u0626 \u0641\u064A \u0627\u062A\u0635\u0627\u0644\u0627\u062A \u0641\u0631\u0646\u0633\u0627\u060C \u0648\u0627\u0644\u062E\u0637\u0648\u0637 \u0627\u0644\u062C\u0648\u064A\u0629 \u0627\u0644\u0641\u0631\u0646\u0633\u064A\u0629\u060C \u0628\u0627\u0644\u0625\u0636\u0627\u0641\u0629 \u0625\u0644\u0649 \u0627\u0644\u062A\u0623\u0645\u064A\u0646\u060C \u0648\u0627\u0644\u0623\u0639\u0645\u0627\u0644 \u0627\u0644\u0645\u0635\u0631\u0641\u064A\u0629\u060C \u0648\u0645\u0635\u0627\u0646\u0639 \u0627\u0644\u062F\u0641\u0627\u0639. \u0641\u0631\u0646\u0633\u0627 \u0639\u0636\u0648\u0629 \u0645\u062C\u0645\u0648\u0639\u0629 \u0627\u0644\u062F\u0648\u0644 \u0627\u0644\u0635\u0646\u0627\u0639\u064A\u0629 \u0627\u0644\u0643\u0628\u0631\u0649\u060C \u0635\u0646\u0641 \u0627\u0642\u062A\u0635\u0627\u062F\u0647\u0627 \u062E\u0627\u0645\u0633 \u0623\u0643\u0628\u0631 \u0627\u0642\u062A\u0635\u0627\u062F \u0641\u064A \u0627\u0644\u0639\u0627\u0644\u0645 \u0641\u064A 2004\u060C \u0628\u0639\u062F \u0627\u0644\u0648\u0644\u0627\u064A\u0627\u062A \u0627\u0644\u0645\u062A\u062D\u062F\u0629\u060C \u0627\u0644\u064A\u0627\u0628\u0627\u0646\u060C \u0623\u0644\u0645\u0627\u0646\u064A\u0627\u060C \u0648\u0627\u0644\u0635\u064A\u0646. \u0627\u0646\u0636\u0645\u062A \u0641\u0631\u0646\u0633\u0627 \u0625\u0644\u0649 10 \u0623\u0639\u0636\u0627\u0621 \u0623\u0648\u0631\u0648\u0628\u064A\u064A\u0646 \u0622\u062E\u0631\u064A\u0646 \u0644\u0625\u0637\u0644\u0627\u0642 \u0627\u0644\u064A\u0648\u0631\u0648 \u0641\u064A 1 \u064A\u0646\u0627\u064A\u0631\u060C \u0639\u0627\u0645 1999\u060C \u0645\u0639 \u0627\u0644\u0639\u0645\u0644\u0627\u062A \u0627\u0644\u0645\u0639\u062F\u0646\u064A\u0629 \u0627\u0644\u0623\u0648\u0631\u0628\u064A\u0629 \u0648\u0627\u0644\u0623\u0648\u0631\u0627\u0642 \u0627\u0644\u0646\u0642\u062F\u064A\u0629 \u0627\u0644\u062A\u064A \u0627\u0633\u062A\u0628\u062F\u0644\u062A \u0627\u0644\u0641\u0631\u0646\u0643 \u0627\u0644\u0641\u0631\u0646\u0633\u064A \u0628\u0627\u0644\u0643\u0627\u0645\u0644 \u0641\u064A \u0623\u0648\u0627\u0626\u0644 2002. \u062D\u0633\u0628 \u062A\u0642\u0631\u064A\u0631 \u0644\u0645\u0646\u0638\u0645\u0629 \u0627\u0644\u062A\u0639\u0627\u0648\u0646 \u0648\u0627\u0644\u062A\u0646\u0645\u064A\u0629 \u0627\u0644\u0627\u0642\u062A\u0635\u0627\u062F\u064A\u0629 (OCED)\u060C \u0641\u064A 2004 \u0643\u0627\u0646\u062A \u0641\u0631\u0646\u0633\u0627 \u062E\u0627\u0645\u0633 \u0623\u0643\u0628\u0631 \u0645\u0635\u062F\u0651\u0631 \u0644\u0644\u0633\u0644\u0639 \u0627\u0644\u0645\u0635\u0646\u0639\u0629 \u0641\u064A \u0627\u0644\u0639\u0627\u0644\u0645\u060C \u0628\u0639\u062F \u0627\u0644\u0648\u0644\u0627\u064A\u0627\u062A \u0627\u0644\u0645\u062A\u062D\u062F\u0629\u060C \u0623\u0644\u0645\u0627\u0646\u064A\u0627\u060C \u0627\u0644\u064A\u0627\u0628\u0627\u0646\u060C \u0648\u0627\u0644\u0635\u064A\u0646\u060C (\u0644\u0643\u0646 \u0642\u0628\u0644 \u0627\u0644\u0645\u0645\u0644\u0643\u0629 \u0627\u0644\u0645\u062A\u062D\u062F\u0629). \u0643\u0627\u0646\u062A \u0623\u064A\u0636\u0627\u064B \u0631\u0627\u0628\u0639 \u0623\u0643\u0628\u0631 \u0645\u0633\u062A\u0648\u0631\u062F \u0644\u0644\u0633\u0644\u0639 \u0627\u0644\u0645\u0635\u0646\u0639\u0629 (\u0628\u0639\u062F \u0627\u0644\u0648\u0644\u0627\u064A\u0627\u062A \u0627\u0644\u0645\u062A\u062D\u062F\u0629\u060C \u0623\u0644\u0645\u0627\u0646\u064A\u0627\u060C \u0648\u0627\u0644\u0635\u064A\u0646\u060C \u0648\u0642\u0628\u0644 \u0627\u0644\u0645\u0645\u0644\u0643\u0629 \u0627\u0644\u0645\u062A\u062D\u062F\u0629 \u0648\u0627\u0644\u064A\u0627\u0628\u0627\u0646). \u0623\u064A\u0636\u0627\u064B \u062D\u0633\u0628 \u0645\u0646\u0638\u0645\u0629 \u0627\u0644\u062A\u0639\u0627\u0648\u0646 \u0648\u0627\u0644\u062A\u0646\u0645\u064A\u0629 \u0627\u0644\u0627\u0642\u062A\u0635\u0627\u062F\u064A\u0629 (OCED)\u060C \u0641\u064A 2003 \u0641\u0631\u0646\u0633\u0627 \u0643\u0627\u0646\u062A \u0639\u0636\u0648\u0629 \u0645\u0646\u0638\u0645\u0629 \u0627\u0644\u062A\u0639\u0627\u0648\u0646 \u0648\u0627\u0644\u062A\u0646\u0645\u064A\u0629 \u0627\u0644\u0627\u0642\u062A\u0635\u0627\u062F\u064A\u0629 \u0627\u0644\u062A\u064A \u062D\u0635\u0644\u062A \u0639\u0644\u0649 \u0623\u0643\u062B\u0631 \u0627\u0633\u062A\u062B\u0645\u0627\u0631 \u0623\u062C\u0646\u0628\u064A \u0645\u0628\u0627\u0634\u0631. \u062847 \u0628\u0644\u064A\u0648\u0646 \u062F\u0648\u0644\u0627\u0631 \u0623\u0645\u0631\u064A\u0643\u064A \u0644\u0644\u0627\u0633\u062A\u062B\u0645\u0627\u0631\u0627\u062A \u0627\u0644\u0623\u062C\u0646\u0628\u064A\u0629 \u0627\u0644\u0645\u0628\u0627\u0634\u0631\u0629\u060C \u0635\u0646\u0641\u062A \u0641\u0631\u0646\u0633\u0627 \u0642\u0628\u0644 \u0627\u0644\u0648\u0644\u0627\u064A\u0627\u062A \u0627\u0644\u0645\u062A\u062D\u062F\u0629 (39.9 \u0628\u0644\u064A\u0648\u0646 \u062F\u0648\u0644\u0627\u0631 \u0623\u0645\u0631\u064A\u0643\u064A)\u060C \u0648\u0627\u0644\u0645\u0645\u0644\u0643\u0629 \u0627\u0644\u0645\u062A\u062D\u062F\u0629 (14.6 \u0628\u0644\u064A\u0648\u0646 \u062F\u0648\u0644\u0627\u0631 \u0623\u0645\u0631\u064A\u0643\u064A)\u060C \u0648\u0623\u0644\u0645\u0627\u0646\u064A\u0627 (12.9 \u0628\u0644\u064A\u0648\u0646 \u062F\u0648\u0644\u0627\u0631 \u0623\u0645\u0631\u064A\u0643\u064A)\u060C \u0648\u0627\u0644\u064A\u0627\u0628\u0627\u0646 (6.3 \u0628\u0644\u064A\u0648\u0646 \u062F\u0648\u0644\u0627\u0631 \u0623\u0645\u0631\u064A\u0643\u064A). \u0641\u064A \u0646\u0641\u0633 \u0627\u0644\u0648\u0642\u062A\u060C \u0627\u0633\u062A\u062B\u0645\u0631\u062A \u0634\u0631\u0643\u0627\u062A \u0641\u0631\u0646\u0633\u064A\u0629 57.3 \u0628\u0644\u064A\u0648\u0646 \u062F\u0648\u0644\u0627\u0631\u0623\u0645\u0631\u064A\u0643\u064A \u062E\u0627\u0631\u062C \u0641\u0631\u0646\u0633\u0627\u060C \u062C\u0639\u0644 \u0645\u0646 \u0630\u0644\u0643 \u062A\u0635\u0646\u064A\u0641 \u0641\u0631\u0646\u0633\u0627 \u0643\u062B\u0627\u0646\u064A \u0623\u0647\u0645 \u0645\u0633\u062A\u062B\u0645\u0631 \u0645\u0628\u0627\u0634\u0631 \u062E\u0627\u0631\u062C\u064A \u0641\u064A \u0645\u0646\u0638\u0645\u0629 \u0627\u0644\u062A\u0639\u0627\u0648\u0646 \u0648\u0627\u0644\u062A\u0646\u0645\u064A\u0629 \u0627\u0644\u0627\u0642\u062A\u0635\u0627\u062F\u064A\u0629\u060C \u0628\u0639\u062F \u0627\u0644\u0648\u0644\u0627\u064A\u0627\u062A \u0627\u0644\u0645\u062A\u062D\u062F\u0629 (173.8 \u0628\u0644\u064A\u0648\u0646 \u062F\u0648\u0644\u0627\u0631 \u0623\u0645\u0631\u064A\u0643\u064A)\u060C \u0648\u0642\u0628\u0644 \u0627\u0644\u0645\u0645\u0644\u0643\u0629 \u0627\u0644\u0645\u062A\u062D\u062F\u0629 (55.3 \u0628\u0644\u064A\u0648\u0646 \u062F\u0648\u0644\u0627\u0631 \u0623\u0645\u0631\u064A\u0643\u064A)\u060C \u0648\u0627\u0644\u064A\u0627\u0628\u0627\u0646 (28.8 \u0628\u0644\u064A\u0648\u0646 \u062F\u0648\u0644\u0627\u0631 \u0623\u0645\u0631\u064A\u0643\u064A)\u060C \u0648\u0623\u0644\u0645\u0627\u0646\u064A\u0627 (2.6 \u0628\u0644\u064A\u0648\u0646 \u062F\u0648\u0644\u0627\u0631 \u0623\u0645\u0631\u064A\u0643\u064A). \u0641\u0631\u0646\u0633\u0627 \u0623\u064A\u0636\u0627\u064B \u062A\u0639\u062A\u0628\u0631 \u062B\u0627\u0646\u064A \u0623\u0643\u0628\u0631 \u0628\u0644\u0627\u062F \u0645\u0646\u062A\u062C\u0629 \u0641\u064A \u0645\u0646\u0638\u0645\u0629 \u0627\u0644\u062A\u0639\u0627\u0648\u0646 \u0648\u0627\u0644\u062A\u0646\u0645\u064A\u0629 \u0627\u0644\u0625\u0642\u062A\u0635\u0627\u062F\u064A\u0629 (\u0639\u062F\u0627 \u0627\u0644\u0646\u0631\u0648\u064A\u062C \u0648\u0644\u0648\u0643\u0633\u0645\u0628\u0648\u0631\u063A). \u0641\u064A 2003\u060C \u0643\u0627\u0646 \u0627\u0644\u0646\u0627\u062A\u062C \u0627\u0644\u0645\u062D\u0644\u064A \u0627\u0644\u0625\u062C\u0645\u0627\u0644\u064A \u0644\u0643\u0644 \u0633\u0627\u0639\u0629\u0639\u0645\u0644 \u0641\u064A \u0641\u0631\u0646\u0633\u0627 47.2 \u062F\u0648\u0644\u0627\u0631 \u0623\u0645\u0631\u064A\u0643\u064A\u060C \u062D\u064A\u062B \u0635\u064F\u0646\u0650\u0641\u062A \u0641\u0631\u0646\u0633\u0627 \u0628\u0639\u062F \u0628\u0644\u062C\u064A\u0643\u0627 (48 \u062F\u0648\u0644\u0627\u0631 \u0623\u0645\u0631\u064A\u0643\u064A \u0644\u0643\u0644 \u0633\u0627\u0639\u0629)\u060C \u0648\u0642\u0628\u0644 \u0627\u0644\u0648\u0644\u0627\u064A\u0627\u062A \u0627\u0644\u0645\u062A\u062D\u062F\u0629 (43.5 \u062F\u0648\u0644\u0627\u0631 \u0623\u0645\u0631\u064A\u0643\u064A \u0644\u0643\u0644 \u0633\u0627\u0639\u0629)\u060C \u0648\u0623\u0644\u0645\u0627\u0646\u064A\u0627 (40.6 \u062F\u0648\u0644\u0627\u0631 \u0623\u0645\u0631\u064A\u0643\u064A \u0644\u0643\u0644 \u0633\u0627\u0639\u0629)\u060C \u0648\u0627\u0644\u0645\u0645\u0644\u0643\u0629 \u0627\u0644\u0645\u062A\u062D\u062F\u0629 (37.7 \u062F\u0648\u0644\u0627\u0631 \u0623\u0645\u0631\u064A\u0643\u064A \u0644\u0643\u0644 \u0633\u0627\u0639\u0629)\u060C \u0648\u0627\u0644\u064A\u0627\u0628\u0627\u0646 (30.9 \u062F\u0648\u0644\u0627\u0631 \u0623\u0645\u0631\u064A\u0643\u064A \u0644\u0643\u0644 \u0633\u0627\u0639\u0629). \u0639\u0644\u0649 \u0627\u0644\u0631\u063A\u0645 \u0645\u0646 \u0623\u0646 \u0645\u0639\u062F\u0644 \u0627\u0644\u0625\u0646\u062A\u0627\u062C \u0623\u0639\u0644\u0649 \u0645\u0646 \u0627\u0644\u0648\u0644\u0627\u064A\u0627\u062A \u0627\u0644\u0645\u062A\u062D\u062F\u0629\u060C \u0627\u0644\u0646\u0627\u062A\u062C \u0627\u0644\u0645\u062D\u0644\u064A \u0627\u0644\u0625\u062C\u0645\u0627\u0644\u064A \u0644\u0641\u0631\u0646\u0633\u0627 \u0644\u0643\u0644 \u0641\u0631\u062F \u0623\u0648\u0637\u0623 \u0645\u0646 \u0627\u0644\u0646\u0627\u062A\u062C \u0627\u0644\u0645\u062D\u0644\u064A \u0627\u0644\u0625\u062C\u0645\u0627\u0644\u064A \u0627\u0644\u0623\u0645\u0631\u064A\u0643\u064A \u0644\u0643\u0644 \u0641\u0631\u062F. \u0641\u064A \u0627\u0644\u062D\u0642\u064A\u0642\u0629\u060C \u0641\u064A 2003\u060C 41.5% \u0645\u0646 \u0633\u0643\u0627\u0646 \u0641\u0631\u0646\u0633\u0627 \u064A\u0639\u0645\u0644\u0648\u0646\u060C \u0645\u0642\u0627\u0628\u0644 50.7% \u0641\u064A \u0627\u0644\u0648\u0644\u0627\u064A\u0627\u062A \u0627\u0644\u0645\u062A\u062D\u062F\u0629\u060C \u0648 47.3% \u0641\u064A \u0627\u0644\u0645\u0645\u0644\u0643\u0629 \u0627\u0644\u0645\u062A\u062D\u062F\u0629. \u0647\u0630\u0647 \u0627\u0644\u0638\u0627\u0647\u0631\u0629 \u0646\u062A\u064A\u062C\u0629 \u062B\u0644\u0627\u062B\u064A\u0646 \u0633\u0646\u0629 \u0645\u0646 \u0627\u0644\u0628\u0637\u0627\u0644\u0629 \u0627\u0644\u0647\u0627\u0626\u0644\u0629 \u0641\u064A \u0641\u0631\u0646\u0633\u0627\u060C \u0627\u0644\u062A\u064A \u0623\u062F\u062A \u0625\u0644\u0649 \u062B\u0644\u0627\u062B\u0629 \u0646\u062A\u0627\u0626\u062C \u062A\u062E\u0641\u0636 \u062D\u062C\u0645 \u0627\u0644\u0646\u0627\u0633 \u0627\u0644\u0639\u0627\u0645\u0644\u064A\u0646: \u062D\u0648\u0627\u0644\u064A 10% \u0627\u0644\u0633\u0643\u0627\u0646 \u0628\u062F\u0648\u0646 \u0639\u0645\u0644\u061B \u0627\u0644\u0637\u0644\u0627\u0628 \u064A\u0624\u062E\u0631\u0648\u0646 \u062F\u062E\u0648\u0644\u0647\u0645 \u0625\u0644\u0649 \u0633\u0648\u0642 \u0627\u0644\u0639\u0645\u0644 \u0643\u0644\u0645\u0627 \u0623\u0645\u0643\u0646\u061B \u0648\u062A\u0639\u0637\u064A \u0627\u0644\u062D\u0643\u0648\u0645\u0629 \u0627\u0644\u0641\u0631\u0646\u0633\u064A\u0629 \u062D\u0648\u0627\u0641\u0632 \u0645\u062E\u062A\u0644\u0641\u0629 \u0625\u0644\u0649 \u0627\u0644\u0639\u0645\u0627\u0644 \u0644\u0644\u062A\u0642\u0627\u0639\u062F \u0641\u064A \u0623\u0648\u0627\u0626\u0644 \u062E\u0645\u0633\u064A\u0646\u0627\u062A\u0647\u0645\u060C \u0645\u0639 \u0623\u0646 \u0630\u0644\u0643 \u064A\u0646\u062D\u0633\u0631 \u062D\u0627\u0644\u064A\u0627\u064B. \u0643\u0645\u0627 \u0634\u062F\u062F \u0627\u0644\u0639\u062F\u064A\u062F \u0645\u0646 \u0627\u0644\u0625\u0642\u062A\u0635\u0627\u062F\u064A\u064A\u0646 \u0645\u0631\u0627\u0631\u0627\u064B \u0648\u062A\u0643\u0631\u0627\u0631\u0627\u064B \u0639\u0644\u0649 \u0645\u0631 \u0627\u0644\u0633\u0646\u064A\u0646 \u0639\u0644\u0649 \u0623\u0646 \u0627\u0644\u0642\u0636\u064A\u0629 \u0627\u0644\u0631\u0626\u064A\u0633\u064A\u0629 \u0644\u0644\u0627\u0642\u062A\u0635\u0627\u062F \u0627\u0644\u0641\u0631\u0646\u0633\u064A \u0644\u064A\u0633 \u0642\u0636\u064A\u0629 \u0645\u0639\u062F\u0644 \u0627\u0644\u0625\u0646\u062A\u0627\u062C. \u0641\u064A \u0631\u0623\u064A\u0647\u0645\u060C \u0647\u064A \u0642\u0636\u064A\u0629 \u0627\u0644\u0625\u0635\u0644\u0627\u062D\u0627\u062A \u0627\u0644\u0623\u0633\u0627\u0633\u064A\u0629\u060C \u0644\u0643\u064A \u064A\u0632\u064A\u062F \u0639\u062F\u062F \u0627\u0644\u0639\u0627\u0645\u0644\u064A\u0646 \u0627\u0644\u0639\u0627\u0645."@ar ,
+		"\u6CD5\u570B\u7D93\u6FDF\u57282012\u5E74\u4E16\u754C\u9280\u884C\uFF08World Bank\uFF09\u4F30\u8A08\u6CD5\u570B2012\u5E74\u570B\u5167\u751F\u7522\u7E3D\u503C\uFF08GDP\uFF09\u70BA3,309,545\u767E\u842C\u7F8E\u5143\uFF0C\u6839\u64DA\u540C\u5E74\u8CFC\u8CB7\u529B\u5E73\u50F9\u6307\u6578\uFF08PPP\uFF09\u6CD5\u570B\u70BA\u4E16\u754C\u7B2C\u4E94\u5927\u7D93\u6FDF\u9AD4\u3002\u570B\u969B\u8CA8\u5E63\u57FA\u91D1\uFF08IMF\uFF09\u6839\u64DA\u6CD5\u570B2012\u5E74\u7684\u8D2D\u4E70\u529B\u5E73\u4EF7\u6307\u6578\uFF08PPP\uFF092,746,899\u767E\u842C\u7F8E\u5143\u5C07\u6CD5\u570B\u5217\u70BA\u4E16\u754C\u7B2C\u516D\u5927\u7D93\u6FDF\u9AD4\u3002\u7531\u7F8E\u570B\u4E2D\u592E\u60C5\u5831\u5C40\u4E16\u754C\u5404\u570B\u7D00\u5BE6\u5E74\u9451\uFF08CIA World Factbook\uFF092012\u5E74\u51FA\u7248\u7684\u6392\u540D\uFF0C\u8A55\u5B9A\u6CD5\u570B\u56FD\u5185\u751F\u4EA7\u603B\u503C\uFF08GDP\uFF09\u70BA2.767\u5146\uFF08trillion\uFF09\uFF0C\u540C\u6A23\u6839\u64DA\u5176\u8D2D\u4E70\u529B\u5E73\u4EF7\u6307\u6578\uFF08PPP\uFF09\u800C\u70BA\u4E16\u754C\u7B2C\u516D\u5927\u7D93\u6FDF\u9AD4\u3002"@zh ,
+		"2018an Frantziako ekonomia munduko 6. handiena izan zen. Alemania eta Erresuma Batuarekin batera Europako herrialde ahaltsuena da Frantzia, eta munduko ahaltsuenetako bat. G-7 taldeko kideetakoa da, hori da, munduko zazpi herrialde industrializatuenetako bat. Lehen sektore oso emankorra, askotariko industria eta hirugarren sektore gero eta indartsuagoa (Barne Produktu Gordinaren % 70 1994an) dira Frantziako ekonomiaren oinarri nagusiak. Lehen sektoreak biztanle aktiboen % 6 besterik ez du enplegatzen, baina pisu handia du nazioaren ekonomian. Nekazaritzari dagokionez, laborea lantzen da gehienbat: garagarra, artoa eta batez ere garia. Garia iparraldean lantzen da nagusiki (Bretainian eta Alsazian) eta artoa, berriz, Akitanian batez ere, baina Loira eta Rodanora ere zabaltzen ari da. Arroza Rodanoren deltan lantzen da eta azukre erremolatxa, garia bezala, iparraldean. Hiri handien inguruetan fruitu arbolak jartzeko ohitura zabaltzen ari da. Ardogintzak garrantzi eta ospe handia du Frantzian. Mundu osoan ezagunak dira Bordele, Alsazia eta Champagneko ardoak (xanpaina). Abeltzaintzak nekazaritzak baino are garrantzi handiagoa du eta Europako inportanteena da, batez ere behi hazkuntza. Frantzia da Europako esneki ekoizle nagusia. Zerri eta ardi hazkuntzak ere garrantzi handia dute. Arrantzak bigarren mailako garrantzia du nazioaren ekonomian, baina garrantzitsua da iparraldeko eta ekialdeko kostaldean. Aipagarriak dira Dunkerque eta  portuak iparraldean, eta Douarnenez, Concarneau eta Lorient (Bretainia). Frantziako zur produkzioa, berriz, Europako Batasuneko handiena da, dituen 14 milioi hektarea baso baino gehiagori esker. Vosges, Jura eta Alpe mendietako basoetatik ateratzen da gehiena, baina zuhaitzez landatutako sail handiak daude, halaber, hegoaldean eta mendebaldean. Lurpeko baliabideetan burdina da ugariena. Mea handienak Lorrenan daude eta aipagarriak dira Bretainia eta Normandia Beherekoak ere. Burdinaren ondoren harrikatza da mea nagusia; Lorrenan, Nord-Pas-de-Calais eta Massif Centralen aurkitzen dira meategi inportanteenak. Nolanahi ere, bai burdina bai harrikatzaren produkzioa gainbehera doa. Aitzitik, aluminioaren produkzioa handitzen ari da, Languedoc-eko bauxita hobi aberatsek hornituta. Petrolioaren eta gas naturalaren produkzioa oso txikia da, eta kanpotik ekartzen de ia dena. Industriak biztanle aktiboen % 28 enplegatzen du eta barne produktu gordinaren ehuneko bera hartzen. Siderurgia indartsu bati esker munduko altzairu ekoizle handienetako bat da Frantzia, baina jardueraren pisua ekonomian gutxituz joan da azkeneko urteotan, sektorea birmoldatzen ari baita eta enpresa asko ixten. Siderurgia enpresa inportanteenak burdin eta harrikatz meategien inguruetan daude: Lorrena, Nord, Massif Central eta Normandian. Sektore kimikoa oso egoera onean dago, gero eta handiagoa baita ongarri, plastiko eta garbikarien produkzioa. Fabrika nagusiak hiri handien industrialdeetan daude. Frantzia, bestalde, Europako herrialde aurreratuenetako bat da hegazki eta kohete industrian. Guyana Frantsesean du Ariane koheteen probalekua. Paris eta hiri nagusien inguruan (Lyon, Marseilla, Estrasburgo, Bordele, Grenoble) industria elektromekanikoak eta elektrikoak daude. Autogintza da garrantzi handiko beste alor bat: Renault eta  enpresa buruak Frantzian daude. Auto produkzioan Alemania baino ez du aurretik. Proventzan eta Bretainian ontziolak daude. Bestalde, ez da ahaztu behar Paris dela munduko hiri nagusia modari dagokionez, eta, beraz, ehungintza-oihalgintza ere garrantzi handikoa da. Industria tradizionalen artean aipagarriak dira zeramika (Limoges) eta beiragintza (Cognac, Nancy edo Lyon), besteak beste. Nekazaritzako eta abeltzaintzako produkzio handiak, noski, janariak eraldatzeko industria handia du atzean. Frantziak kontsumitzen duen energiaren % 70 inguru zentral nuklearretan lortzen du, inportazioen mendean ez egoteagatik, ez baitu ez petroliorik ez gas naturalik. Gainerakoa zentral termikoetan eta hidroelektrikoetan lortzen da. XX. mendearen bukaeran 56 erreaktore zeuden martxan, horietako asko 20 urte baino gehiagokoak. Frantzia da Estatu Batuen ondoren munduko bigarren energia nuklear ekoizle nagusia. Hirugarren sektoreak gora egin du azkeneko urteotan. Gaur egun barne produktu gordinaren % 70 ematen du, eta biztanle aktiboen % 66 enplegatzen. Merkataritza harremanek, bestalde, pisu handia dute ekonomian; munduko bosgarren herrialde nagusia da Frantzia merkataritza harremanetan. Energia produktuetan eta industriarako lehengaietan dituen gastu ikaragarriak ez dira kapital ondasunen, elikagaien, kimika gaien, garraiorako material eta kontsumo ondasunen salmentarekin orekatzen. Frantziaren bezero nagusia Alemania da, eta haren ondoren munduko bi herrialde ahaltsuenak (Estatu Batuak eta Japonia) eta Europar Batasuneko herrialdeak. Merkataritza balantzaren defizita beste sektore batzuen irabaziekin orekatzen da, urterik urte haziz joan diren turismoaren irabaziekin, adibidez. Barne merkataritzan aipagarria da enpresak kontzentratzeko joera (saltegi handiak), gero eta handiagoa, hiri inguruetan."@eu ,
+		"\uD504\uB791\uC2A4\uB294 \uBA85\uBAA9 \uAD6D\uB0B4 \uCD1D\uC0DD\uC0B0\uC21C\uC73C\uB85C \uC138\uACC4 5\uC704, PPP \uAE30\uC900\uC73C\uB85C 9\uC704\uC758 \uACBD\uC81C\uAD8C\uC774\uB2E4. \uC720\uB7FD\uC5D0\uC11C\uB294 \uBA85\uBAA9 \uAD6D\uB0B4 \uCD1D\uC0DD\uC0B0\uC21C\uC73C\uB85C \uB3C5\uC77C\uC5D0 \uC774\uC5B4 2\uBC88\uC9F8\uB85C \uD06C\uBA70, PPP \uAE30\uC900\uC73C\uB85C \uB3C5\uC77C\uACFC \uC601\uAD6D\uC5D0 \uC774\uC5B4 2\uC704\uC758 \uACBD\uC81C\uAD8C\uC774\uB2E4. \uD504\uB791\uC2A4\uB294 \uC9C0\uC5ED\uB9C8\uB2E4 \uD2B9\uC0B0\uD488\uC73C\uB85C \uD3EC\uB3C4\uC8FC, \uB808\uBAAC, \uC62C\uB9AC\uBE0C \uB4F1\uC744 \uC0DD\uC0B0\uD55C\uB2E4. \uD56D\uACF5\uAE30\u00B7\uC790\uB3D9\uCC28\u00B7\uD654\uD559\uACF5\uC5C5\uC758 \uBC1C\uC804\uB3C4 \uB208\uBD80\uC2DC\uB2E4. \uB610\uD55C \uC9C0\uC911\uD574\uC548\uC774\uB098 \uC54C\uD504\uC2A4 \uB4F1\uC758 \uBA85\uC2B9\uC9C0, \uD30C\uB9AC \uB4F1 \uC5ED\uC0AC\uC801 \uAC74\uC870\uBB3C\uC774 \uD48D\uBD80\uD55C \uC544\uB984\uB2E4\uC6B4 \uB3C4\uC2DC\uB97C \uAC16\uACE0 \uC788\uC5B4 \uAD00\uAD11\uC0B0\uC5C5\uB3C4 \uC8FC\uC694 \uC0B0\uC5C5\uC758 \uD558\uB098\uC774\uB2E4. \uAC00\uC804 \uC81C\uD488, \uCEF4\uD4E8\uD130, \uAC00\uAD6C \uB4F1\uC758 \uC81C\uC791\uAE30\uC220\uC774 \uB6F0\uC5B4\uB098\uBA70, \uCCA0\uAD11\uC11D\uC744 \uCE90\uB294 \uB4F1\uC758 \uAD11\uC5C5\uC774 \uC874\uC7AC\uD55C\uB2E4. \uC8FC\uC694 \uC218\uCD9C\uD488\uC73C\uB85C\uB294 \uC790\uB3D9\uCC28, \uAE30\uACC4, \uC758\uB958, \uD654\uC7A5\uD488, \uC804\uC790\uC81C\uD488 \uB4F1\uC774 \uC788\uB2E4."@ko ,
+		"The economy of France is highly developed and free-market-oriented. It is the world's 7th largest economy by 2019 nominal figures and the 10th largest economy by PPP figures. It is the 2nd largest economy in the European Union after Germany. France has a diversified economy. The chemical industry is a key sector for France, helping to develop other manufacturing activities and contributing to economic growth. France's tourism industry is a major component of the economy, as France is the most visited destination in the world. Sophia Antipolis is the major technology hub for the economy of France. Paris is ranked as the most elegant city in the world, which propels the agglomeration of the fashion industry. According to the IMF, in 2018, France was the world's 19th country by GDP per capita with $42,878 per inhabitant. In 2018, France was listed on the United Nations's Human Development Index with a value of 0.891 (indicating very high human development) and 21st on the Corruption Perceptions Index in 2018. The OECD is headquartered in Paris, the nation's financial capital. France's economy entered the recession of the late 2000s later and appeared to leave it earlier than most affected economies, only enduring four-quarters of contraction. However, France experienced stagnant growth between 2012 and 2014, with the economy expanding by 0% in 2012, 0.8% in 2013 and 0.2% in 2014, though growth picked up in 2015 with a growth of 0.8% and a growth of 1.1% for 2016, to a growth of 2.2% for 2017 and to later reach 2.1% for 2018. According to the OFCE, the expected 2019 growth rate is 1.3%."@en ,
+		"La econom\u00EDa de Francia es la quinta econom\u00EDa m\u00E1s grande del mundo, con un Producto Interno Bruto (nominal) de 2,574.807 millones de d\u00F3lares en 2017 en t\u00E9rminos absolutos. A nivel regional, la francesa es la segunda mayor econom\u00EDa de Europa, detr\u00E1s de la alemana. El sector de los servicios ocupa al 75% de la poblaci\u00F3n, mientras que el primario a menos del 2% y el secundario al 24%. La econom\u00EDa francesa es cada vez m\u00E1s abierta, representando un lugar importante en el comercio internacional. Francia es el quinto pa\u00EDs por sus exportaciones y el sexto por sus importaciones. En 2016, las exportaciones francesas representaron al 20% del su PIB y las importaciones un 23%. La tasa de desempleo sigue siendo m\u00E1s alta que la de otros pa\u00EDses desarrollados. La industria qu\u00EDmica es un sector clave para Francia, ya que esto ayuda a desarrollar otras actividades de fabricaci\u00F3n y contribuye al crecimiento econ\u00F3mico. La industria tur\u00EDstica de Francia es un componente importante de su econom\u00EDa, ya que Francia es el destino m\u00E1s visitado del mundo. Sophia Antipolis es el principal centro tecnol\u00F3gico de la econom\u00EDa de Francia. Seg\u00FAn el Fondo Monetario Internacional, en 2013, Francia fue el vig\u00E9simo pa\u00EDs del mundo por PIB per c\u00E1pita con USD 44,099 d\u00F3lares por habitante. En 2013, Francia se incluy\u00F3 en el \u00CDndice de Desarrollo Humano de las Naciones Unidas con 0,884 (muy alto desarrollo humano) y en el puesto 21 en el \u00CDndice de Percepci\u00F3n de la Corrupci\u00F3n. La OCDE tiene su sede en Par\u00EDs, la capital de la naci\u00F3n. La econom\u00EDa de Francia entr\u00F3 en la recesi\u00F3n de finales de la d\u00E9cada de 2000 m\u00E1s tarde y pareci\u00F3 salir antes que la mayor\u00EDa de las econom\u00EDas afectadas, solo soportando cuatro cuartas partes de la contracci\u00F3n. Sin embargo, Francia experiment\u00F3 un crecimiento estancado entre 2012 y 2014,con una expansi\u00F3n de la econom\u00EDa de 0% en 2012, 0,8% en 2013 y 0,2% en 2014, aunque el crecimiento repunt\u00F3 en 2015 con 0,8% , 1.1% para 2016 y un crecimiento pronosticado de 1.6% para 2017 y 1.8% para el a\u00F1o 2018, ambos pron\u00F3sticos para cada uno de los niveles m\u00E1s altos desde 2011 (2.1%). En 2016, la esperanza de vida de un obrero en Francia es 6,4 a\u00F1os inferior a la de un ejecutivo. En 2017, el 10% m\u00E1s rico de los franceses poseen m\u00E1s de la mitad de la riqueza del pa\u00EDs, mientras que el 50% de los m\u00E1s pobres tienen el 5%.\u200B"@es ,
+		"Prancis merupakan salah satu ekonomi terbesar di dunia. Namun, karena adanya analisis yang berbeda, terdapat ketidaksetujuan seberapa besar ekonomi Prancis. Data International Monetary Fund memasukan ekonomi Prancis terbesar ke-8 menurut keseimbangan kemampuan berbelanja (PPP) tahun 2007 sebesar US$2,046,899 juta. Bank Dunia memperkirakan Produk Domestik Bruto Prancis tahun 2006 sebesar US$1,959,745 juta, atau terbesar ketujuh di dunia. Peringkat yang dipublikasikan oleh CIA World Factbook tahun 2008 menentukan GDP Prancis sebesar $2.067 triliun, terbesar ke-8 menurut pengukuran PPP."@in ,
+		"A economia da Fran\u00E7a combina um extenso setor privado com uma interven\u00E7\u00E3o estatal substancial. Grandes \u00E1reas de terrenos f\u00E9rteis, a aplica\u00E7\u00E3o de tecnologia moderna e subs\u00EDdios fizeram do pa\u00EDs o principal produtor agr\u00EDcola da Europa Ocidental. Tem destaque na ind\u00FAstria automobil\u00EDstica, aeron\u00E1utica, aliment\u00EDcia, uma agropecu\u00E1ria intensiva e extensiva. Destacam-se ainda as ind\u00FAstrias mec\u00E2nicas, el\u00E9tricas e qu\u00EDmicas, com grande concentra\u00E7\u00E3o de capitais, geralmente situadas perto dos centros urbanos. A Fran\u00E7a tamb\u00E9m desenvolveu uma extraordin\u00E1ria tecnologia de ponta no ramo da inform\u00E1tica al\u00E9m de eletr\u00F4nica em geral e aeron\u00E1utica. Finalmente destaca-se o crescimento da ind\u00FAstria de armamentos, sendo o pa\u00EDs uma pot\u00EAncia militar. At\u00E9 meados do s\u00E9culo XIX, o pa\u00EDs era essencialmente agr\u00EDcola, com importantes atividades artesanais. O desenvolvimento dos transportes, na segunda metade do s\u00E9culo XIX, acelerou a concentra\u00E7\u00E3o de atividades industriais em algumas \u00E1reas, principalmente pr\u00F3ximas dos grandes centros urbanos. Ap\u00F3s a Segunda Guerra Mundial, mais exatamente a partir de 1950, o governo franc\u00EAs estabeleceu algumas medidas protecionistas de seus produtos frente aos estrangeiros, que foram paulativamente abandonadas \u00E0 medida que a ind\u00FAstria francesa se modernizava, tornando-se mais competitiva. Durante d\u00E9cada de 1970 a produ\u00E7\u00E3o industrial francesa cresceu mais de 33% por\u00E9m a partir de 1980 o ritmo de crescimento estabilizou-se. O pa\u00EDs \u00E9 o 18\u00BA no ranking de competitividade do F\u00F3rum Econ\u00F4mico Mundial. A Crise da d\u00EDvida p\u00FAblica da Zona Euro tem afetado o pa\u00EDs, que tomou medidas de austeridade."@pt ,
+		"Amb un PIB de 2 160 miliards d'euros, Fran\u00E7a \u00E9s la 10a economia m\u00E9s gran del m\u00F3n, d'acord amb la mesura del PIB en termes de la paritat de poder adquisitiu, i presenta la taxa m\u00E9s baixa de pobresa del m\u00F3n (6%). D'acord amb el Fons Monetari Internacional, \u00E9s la segona economia m\u00E9s gran d'Europa, despr\u00E9s d'Alemanya. Cont\u00E9 abundants recursos agr\u00EDcoles, un fonament industrial s\u00F2lid, una for\u00E7a laboral molt capacitada. El sector dels serveis representa el 72% de l'economia del pa\u00EDs. Comparat amb altres economies desenvolupades, el creixement del PIB franc\u00E8s \u00E9s robust, per\u00F2 no tan accelerat com el dels Estats Units (2% entre 1994-1998). La taxa d'atur \u00E9s estable, per\u00F2, el d\u00E8ficit comercial en compte corrent ha caracteritzat el comer\u00E7 franc\u00E8s dels \u00FAltims anys. Com a estat de la Uni\u00F3 Europea s'ha acollit a l'euro com a moneda (substituint el franc). Fran\u00E7a passa per una transici\u00F3, des d'una economia moderna i desenvolupada on la pres\u00E8ncia del govern en l'economia estava molt important, cap a una economia on el mercat \u00E9s lliure. El govern ha privatitzat moltes grans empreses, bancs i asseguradors, i ha concedit parts d'empreses l\u00EDders tals com Air France, France T\u00E9l\u00E9com, Renault, i Thales. Encara mant\u00E9 una forta pres\u00E8ncia en alguns sectors, particularment l'energia, el transport p\u00FAblic, la defensa i la ind\u00FAstria. Amb 75 milions de visitants estrangers, Fran\u00E7a \u00E9s el pa\u00EDs m\u00E9s visitat i t\u00E9 la tercera m\u00E9s gran renda origin\u00E0ria del turisme del m\u00F3n."@ca ,
+		"Francouzsk\u00E1 ekonomika je dle nomin\u00E1ln\u00EDch \u010D\u00EDsel 7. nejv\u011Bt\u0161\u00ED ekonomika na sv\u011Bt\u011B a dle parity kupn\u00ED s\u00EDly 10. nejv\u011Bt\u0161\u00ED. V Evrop\u011B je podle nomin\u00E1ln\u00EDho HDP 3. nejsiln\u011Bj\u0161\u00ED ekonomikou s Velkou Brit\u00E1ni\u00ED na 2. a N\u011Bmeckem v 1. m\u00EDst\u011B. Organizace OECD s\u00EDdl\u00ED v Pa\u0159\u00ED\u017Ei, v hlavn\u00EDm m\u011Bst\u011B a finan\u010Dn\u00EDm centru. Kl\u00ED\u010Dov\u00FDm sektorem je pro Francii chemick\u00FD pr\u016Fmysl, kter\u00FD pom\u00E1h\u00E1 rozv\u00EDjet dal\u0161\u00ED v\u00FDrobn\u00ED \u010Dinnosti a p\u0159isp\u00EDv\u00E1 k hospod\u00E1\u0159sk\u00E9mu r\u016Fstu. Cestovn\u00ED ruch je hlavn\u00ED slo\u017Ekou ekonomiky, proto\u017Ee je Francie nejnav\u0161t\u011Bvovan\u011Bj\u0161\u00ED destinac\u00ED na sv\u011Bt\u011B."@cs ,
+		"L'\u00E9conomie de la France traite de la situation \u00E9conomique conjoncturelle et structurelle de la France de nos jours. En 2020, la France est la 6e puissance \u00E9conomique mondiale, selon la banque mondiale et le FMI, et la 2e puissance \u00E9conomique en Europe derri\u00E8re l\u2019Allemagne mais devant le Royaume-Uni. Avec un PIB nominal de 2,771.622 milliards de dollars, la France est la 6\u00E8me puissance \u00E9conomique mondiale et se place derri\u00E8re les \u00C9tats-Unis, la Chine, le Japon, l'Allemagne et l\u2019Inde mais devant le Royaume-Uni[r\u00E9f. non conforme]. En 2020, elle se classe au 25e rang pour le PIB par habitant en parit\u00E9 de pouvoir d'achat (PPA), au-dessus de la moyenne de l'Union europ\u00E9enne qui est 28e. En classement par PIB en PPA, la France est la 10e puissance \u00E9conomique. L'\u00E9conomie fran\u00E7aise est principalement une \u00E9conomie de services : en 2015, le secteur tertiaire occupait 76,7 % de la population active, tandis que le secteur primaire (agriculture, p\u00EAche, etc.) n'en repr\u00E9sentait plus que 2,8 %, et le secteur secondaire (essentiellement l\u2019industrie) 20,5 %. L'\u00E9conomie fran\u00E7aise est une \u00E9conomie de plus en plus ouverte, occupant une place importante dans les \u00E9changes commerciaux internationaux, principalement au sein de l'Union europ\u00E9enne. La France est 6\u00E8me pour ses exportations et le 5\u00E8me pour ses importations. En 2006, les exportations repr\u00E9sentent 26 % du PIB et les importations 27 %. La balance commerciale (biens et services) est devenue d\u00E9ficitaire en 2004, et ce d\u00E9ficit s\u2019est accru jusqu'en 2011 avant de d\u00E9cro\u00EEtre l\u00E9g\u00E8rement mais de rester important en 2015. Le taux de ch\u00F4mage est plus \u00E9lev\u00E9 que la moyenne des autres pays d\u00E9velopp\u00E9s, \u00E0 7,9 % (8,1 % en prenant en compte l'outre-mer) au quatri\u00E8me trimestre 2019. Le taux d'emploi (63,8 % en 2006), proche de la moyenne europ\u00E9enne (64,8 %), est plus faible que celui de l\u2019UE-15 (66,2 %) et de la moyenne des pays d\u00E9velopp\u00E9s[r\u00E9f. n\u00E9cessaire], en particulier pour les s\u00E9niors, les moins de 30 ans et les personnes faiblement qualifi\u00E9es. Le traitement fiscal avantageux accord\u00E9 \u00E0 la Recherche et d\u00E9veloppement permet \u00E0 la France de se hisser au 4e rang mondial pour le nombre de brevets d\u00E9livr\u00E9s en 2013 et ainsi d'accro\u00EEtre son attractivit\u00E9 \u00E9conomique. La France fait partie des pays fondateurs de l'Union europ\u00E9enne et de la zone euro. Au c\u0153ur d\u2019une zone \u00E9conomiquement tr\u00E8s d\u00E9velopp\u00E9e, son \u00E9conomie a b\u00E9n\u00E9fici\u00E9 de la mise en place du march\u00E9 commun europ\u00E9en. \u00C0 partir de 1986, l'\u00C9tat a privatis\u00E9 un grand nombre d'entreprises publiques mais son influence sur l\u2019\u00E9conomie reste forte (on parle de \u00AB n\u00E9ocolbertisme \u00BB). La croissance du PIB par habitant fran\u00E7ais a \u00E9t\u00E9 plus faible que celle de certains autres pays d\u00E9velopp\u00E9s, au cours des deux d\u00E9cennies 1990 et 2000, provoquant des d\u00E9bats sur la r\u00E9alit\u00E9 de ce d\u00E9calage et sur les r\u00E9formes \u00E9conomiques qui pourraient y rem\u00E9dier. L\u2019\u00E9conomie fran\u00E7aise est plus stable que les autres \u00E9conomies europ\u00E9ennes : elle cro\u00EEt peu, mais r\u00E9siste mieux aux crises[source insuffisante]. Il y a 2 400 000 millionnaires (US $) habitant en France en 2019. La m\u00EAme ann\u00E9e, la richesse moyenne par adulte s'\u00E9l\u00E8ve \u00E0 262 100 US $. La richesse des milliardaires fran\u00E7ais a \u00E9t\u00E9 multipli\u00E9e par trois entre 2007 et 2017, et la France est le pays d'Europe qui a le plus fortement r\u00E9mun\u00E9r\u00E9 les actionnaires. En janvier 2020, l'Europ\u00E9en le plus riche est le Fran\u00E7ais Bernard Arnault, propri\u00E9taire du groupe de luxe LVMH (1re fortune mondiale, selon Forbes). En 2017, les 10 % de Fran\u00E7ais les plus riches d\u00E9tiennent 47 % du patrimoine brut quand les 50 % les plus pauvres en ont 8 %[r\u00E9f. n\u00E9cessaire]."@fr ,
+		"Gospodarka Francji plasuje si\u0119 na pi\u0105tym miejscu na \u015Bwiecie (w 2008 roku Francja wyprzedzi\u0142a Wielk\u0105 Brytani\u0119 w wyniku niskiego kursu funta szterlinga wzgl\u0119dem euro) i drugim w Europie pod wzgl\u0119dem wysoko\u015Bci nominalnego produktu krajowego brutto oraz na dziewi\u0105tym miejscu pod wzgl\u0119dem produktu krajowego brutto wa\u017Conego parytetem si\u0142y nabywczej."@pl ,
+		"\u0424\u0440\u0430\u043D\u0446\u0456\u044F \u2014 \u0432\u0438\u0441\u043E\u043A\u043E\u0440\u043E\u0437\u0432\u0438\u043D\u0435\u043D\u0430 \u0456\u043D\u0434\u0443\u0441\u0442\u0440\u0456\u0430\u043B\u044C\u043D\u043E-\u0430\u0433\u0440\u0430\u0440\u043D\u0430 \u043A\u0440\u0430\u0457\u043D\u0430. \u0417\u0430 \u0440\u043E\u0437\u043C\u0456\u0440\u0430\u043C\u0438 \u0412\u0412\u041F \u0456 \u043E\u0431\u0441\u044F\u0433\u043E\u043C \u043F\u0440\u043E\u043C\u0438\u0441\u043B\u043E\u0432\u043E\u0433\u043E \u0432\u0438\u0440\u043E\u0431\u043D\u0438\u0446\u0442\u0432\u0430 \u0424\u0440\u0430\u043D\u0446\u0456\u0457, \u0437\u0430\u0439\u043C\u0430\u0454 \u043E\u0434\u043D\u0435 \u0437 \u043F\u0440\u043E\u0432\u0456\u0434\u043D\u0438\u0445 \u043C\u0456\u0441\u0446\u044C \u0443 \u0437\u0430\u0445\u0456\u0434\u043D\u043E\u043C\u0443 \u0441\u0432\u0456\u0442\u0456 (\u0440\u0430\u0437\u043E\u043C \u0437\u0456 \u0421\u0428\u0410, \u0424\u0420\u041D, \u0412\u0435\u043B\u0438\u043A\u043E\u044E \u0411\u0440\u0438\u0442\u0430\u043D\u0456\u0454\u044E \u0442\u0430 \u0456\u043D.). \u041F\u0440\u043E\u0432\u0456\u0434\u043D\u0430 \u0433\u0430\u043B\u0443\u0437\u044C \u043F\u0440\u043E\u043C\u0438\u0441\u043B\u043E\u0432\u043E\u0441\u0442\u0456 \u2014 \u043C\u0430\u0448\u0438\u043D\u043E\u0431\u0443\u0434\u0443\u0432\u0430\u043D\u043D\u044F. \u0420\u043E\u0437\u0432\u0438\u043D\u0443\u0442\u0456 \u0430\u0432\u0442\u043E\u0431\u0443\u0434\u0443\u0432\u0430\u043D\u043D\u044F, \u0441\u0443\u0434\u043D\u043E\u0431\u0443\u0434\u0443\u0432\u0430\u043D\u043D\u044F, \u0442\u0440\u0430\u043A\u0442\u043E\u0440\u043E- \u0456 \u0430\u0432\u0456\u0430\u0431\u0443\u0434\u0443\u0432\u0430\u043D\u043D\u044F, \u0435\u043B\u0435\u043A\u0442\u0440\u043E\u0442\u0435\u0445\u043D\u0456\u0447\u043D\u0430 \u0456 \u0440\u0430\u0434\u0456\u043E\u0435\u043B\u0435\u043A\u0442\u0440\u043E\u043D\u043D\u0430 \u043F\u0440\u043E\u043C\u0438\u0441\u043B\u043E\u0432\u0456\u0441\u0442\u044C, \u0430 \u0442\u0430\u043A\u043E\u0436 \u0445\u0456\u043C\u0456\u0447\u043D\u0430 (\u0432\u0438\u0440\u043E\u0431\u043D\u0438\u0446\u0442\u0432\u043E \u0441\u043E\u0434\u0438, \u0434\u043E\u0431\u0440\u0438\u0432, \u0445\u0456\u043C\u0456\u0447\u043D\u0438\u0445 \u0432\u043E\u043B\u043E\u043A\u043E\u043D, \u043F\u043B\u0430\u0441\u0442\u043C\u0430\u0441), \u043D\u0430\u0444\u0442\u043E\u043F\u0435\u0440\u0435\u0440\u043E\u0431\u043D\u0430 \u0456 \u043D\u0430\u0444\u0442\u043E\u0445\u0456\u043C\u0456\u0447\u043D\u0430 \u043F\u0440\u043E\u043C\u0438\u0441\u043B\u043E\u0432\u0456\u0441\u0442\u044C. \u0415\u043A\u0441\u043F\u043E\u0440\u0442\u043D\u0435 \u0437\u043D\u0430\u0447\u0435\u043D\u043D\u044F \u043C\u0430\u044E\u0442\u044C \u0432\u0438\u0440\u043E\u0431\u043D\u0438\u0446\u0442\u0432\u043E \u0442\u0435\u043A\u0441\u0442\u0438\u043B\u044E, \u043E\u0434\u044F\u0433\u0443, \u0433\u0430\u043B\u0430\u043D\u0442\u0435\u0440\u0435\u0457, \u0445\u0430\u0440\u0447\u043E\u0432\u0430 \u043F\u0440\u043E\u043C\u0438\u0441\u043B\u043E\u0432\u0456\u0441\u0442\u044C \u0456 \u0432\u0438\u043D\u043E\u0440\u043E\u0431\u0441\u0442\u0432\u043E."@uk ,
+		"L'economia della Francia \u00E8 una moderna economia mista di mercato.Si trova al sesto posto nella classifica per PIL nominale, con 2925 miliardi di dollari (al 2018), dietro Stati Uniti d'America, Cina, Giappone e Germania. Infine, per quanto riguarda la classifica del PIL in funzione del potere d'acquisto, la Francia si trova al nono posto (al 2014). La Francia \u00E8 il quinto paese al mondo per l'esportazione nell'industria manifatturiera, il quarto per i servizi ed il secondo per i prodotti agricoli e agroalimentari (primo produttore ed esportatore agricolo europeo).Essa \u00E8 inoltre la prima destinazione turistica mondiale e possiede la seconda zona marittima per la pesca al mondo. L'economia francese \u00E8 caratterizzata principalmente dalla produzione di servizi: il settore terziario occupa il 76,4% della popolazione attiva, il settore primario (agricoltura, pesca, allevamento) ormai non ne rappresenta che il 2,9%, mentre il settore secondario (industria) si assesta sul 20,6%."@it ,
+		"Die Wirtschaft Frankreichs ist, gemessen am absoluten Bruttoinlandsprodukt (BIP), die sechstgr\u00F6\u00DFte Volkswirtschaft der Welt, nach den USA, der Volksrepublik China, Japan, Deutschland und dem Vereinigten K\u00F6nigreich. Es gilt in Europa als das wichtigste Industrieland neben Deutschland. Die Regierung Frankreichs nimmt aktiv Einfluss auf die franz\u00F6sische Wirtschaft, weshalb diese oft als gelenkte Volkswirtschaft bezeichnet wird. Die Wirtschaft gilt als relativ breit aufgestellt und als durchschnittlich abh\u00E4ngig von Au\u00DFenhandel und Finanzm\u00E4rkten; sie kam etwas besser durch die Finanz- und Wirtschaftskrise um 2009 als andere Industriestaaten."@de ,
+		"De economie van Frankrijk is de zevende economie ter wereld. Met een verwacht bruto binnenlands product (bbp) van 2420 miljard euro is Frankrijk in 2017 een van de grootste economie\u00EBn ter wereld (gemeten in Amerikaanse dollars). Frankrijk is ook de op twee na grootste economie in Europa, na Duitsland en het Verenigd Koninkrijk. Frankrijks inkomensverdeling is minder ongelijk dan die van andere economie\u00EBn. Ook met het aantal mensen onder de armoedegrens is het goed gesteld, slechts zes procent. Dit is een van de laagste in de grote industrielanden en is heel gunstig, vergeleken met het percentage voor het Verenigd Koninkrijk (18 procent) en de Verenigde Staten (15 procent)."@nl ,
+		"\u30D5\u30E9\u30F3\u30B9\u306E\u7D4C\u6E08\uFF08\u4ECF\u8A9E\uFF1AL'\u00E9conomie de la France \u3001\u82F1\u8A9E\uFF1AEconomy of France\uFF09\u306F2008\u5E74\u306E\u540D\u76EEGDP\u63DB\u7B97\u3067\u3001\u30A2\u30E1\u30EA\u30AB\u5408\u8846\u56FD\u3001\u65E5\u672C\u3001\u4E2D\u83EF\u4EBA\u6C11\u5171\u548C\u56FD\u3001\u30C9\u30A4\u30C4\u306B\u6B21\u3044\u3067\u4E16\u754C\u7B2C5\u4F4D\u306E\u898F\u6A21\u3067\u3042\u308B\u3002\u30D5\u30E9\u30F3\u30B9\u306F\u51B7\u6226\u671F\u306B\u304A\u3044\u3066\u3001\u8CC7\u672C\u4E3B\u7FA9\u9663\u55B6\u306B\u5C5E\u3057\u3066\u3044\u305F\u3082\u306E\u306E\u3001\u56FD\u5BB6\u304C\u4F01\u696D\u3092\u7D71\u6CBB\u3059\u308B\u6DF7\u5408\u7D4C\u6E08\u4F53\u5236\u3092\u6577\u3044\u3066\u3044\u305F\uFF08\uFF08en / fr\uFF09\uFF09\u3002 1980\u5E74\u4EE3\u306E\u7B2C1\u6B21\u30B3\u30A2\u30D3\u30BF\u30B7\u30AA\u30F3\u306E\u6642\u671F\u306B\u3001\u30D5\u30E9\u30F3\u30B9\u7D4C\u6E08\u306F\u6C11\u55B6\u5316\u304C\u9032\u3093\u3060\u3082\u306E\u306E\u3001\u30EB\u30CE\u30FC\u3084\u30D5\u30E9\u30F3\u30B9\u96FB\u529B\u3001\u30D5\u30E9\u30F3\u30B9\u30AC\u30B9\u516C\u793E\u3068\u30B9\u30A8\u30BA\u304C\u5408\u4F75\u3057\u305F\u30A8\u30F3\u30B8\u30FC\u3001Orange\u3068\u3044\u3063\u305F\u4E3B\u8981\u4F01\u696D\u306B\u306F\u30D5\u30E9\u30F3\u30B9\u653F\u5E9C\u304C\u5927\u682A\u4E3B\u3068\u306A\u3063\u3066\u304A\u308A\u3001\u6DF7\u5408\u7D4C\u6E08\u4F53\u5236\u306E\u5F71\u97FF\u306F\u8272\u6FC3\u304F\u6B8B\u3063\u3066\u3044\u308B\u3002"@ja .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Economy_of_France	dbp:currency	dbr:Euro ;
+	dbp:color	"#EF9928"@en ,
+		"#DFE575"@en ,
+		"#75CBE5"@en ,
+		"#92C976"@en .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Economy_of_France	dbp:hdi	0.8090000000000000524 ,
+		""@en ,
+		0.89100000000000001421 ;
+	dbp:value	1.3000000000000000444 ,
+		78.099999999999994316 ,
+		9.5 ,
+		11.099999999999999645 ;
+	dbp:gini	28.5 ;
+	dbp:thumb	"right"@en ;
+	dbp:caption	2006 ,
+		"La D\u00E9fense is the financial hub of France"@en .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Economy_of_France	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Economy_of_France?oldid=986424573&ns=0> ;
+	dbp:poverty	5.5 ,
+		17.399999999999998579 ,
+		""@en ;
+	dbp:perCapitaRank	26 ,
+		20 ,
+		""@en .
+@prefix ns27:	<http://dbpedia.org/datatype/> .
+dbr:Economy_of_France	dbp:perCapita	"45454.0"^^ns27:usDollar ,
+		"39257.0"^^ns27:usDollar ,
+		""@en ;
+	dbp:edbr	32 ;
+	dbp:growth	1.8000000000000000444 ,
+		"\u22129.8%  6.0%"@en ,
+		""@en ;
+	dbp:exports	"5.499E11"^^ns27:usDollar ;
+	dbp:gdp	"2.6E12"^^ns27:usDollar ,
+		""@en ,
+		"3.0E12"^^ns27:usDollar ;
+	dbp:debt	98.099999999999994316 ,
+		""@en ,
+		"2.38E12"^^ns27:euro ;
+	dbp:aid	"donor: ODA, $9.50 billion"@en ;
+	dbp:expenses	55.600000000000001421 ;
+	dbp:inflation	"2.1"^^ns27:perCent ,
+		""@en ,
+		"0.5"^^ns27:perCent ,
+		"1.3"^^ns27:perCent ;
+	dbp:imports	"6.017E11"^^ns27:usDollar ;
+	dbp:unemployment	"7.5"^^ns27:perCent ,
+		""@en ,
+		8.0999999999999996447 ,
+		19.699999999999999289 ;
+	dbp:imageSize	310 ;
+	dbp:organs	"EU, WTO and OECD"@en ;
+	dbp:revenue	52.600000000000001421 ;
+	dbp:labor	30394934 ,
+		""@en ,
+		71.599999999999994316 ;
+	dbp:averageGrossSalary	"\u20AC35,484 / $42,300 annually"@en ;
+	dbp:averageNetSalary	"\u20AC26,700 / $30,840 annually"@en ;
+	dbp:credit	"Outlook: Stable"@en ,
+		<http://dbpedia.org/resource/S&P_Global_Ratings> ,
+		"Aa2"@en ,
+		"Scope:"@en ,
+		dbr:Fitch_Ratings ,
+		"AA"@en ,
+		<http://dbpedia.org/resource/Moody\u0027s_Investors_Service> ,
+		""@en ;
+	dbp:exportGoods	"machinery and equipment, aircraft, plastics, chemicals, pharmaceutical products, iron and steel, beverages"@en ;
+	dbp:gdpRank	""@en ,
+		7 ,
+		10 ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Vu_du_39e_\u00E9tage_2,_La_D\u00E9fense.jpg?width=300> ;
+	dbo:wikiPageExternalLink	<http://www.lefigaro.fr/societes/2015/04/08/20005-20150408ARTFIG00013-la-france-toujours-premiere-destination-touristique-au-monde.php> ,
+		<http://www.oecd.org/france/> ,
+		<https://www.cia.gov/library/publications/the-world-factbook/geos/fr.html> .
+@prefix ns28:	<http://www.worldbank.org/en/country/> .
+dbr:Economy_of_France	dbo:wikiPageExternalLink	ns28:france .
+@prefix ns29:	<https://www.insee.fr/en/> .
+dbr:Economy_of_France	dbo:wikiPageExternalLink	ns29:accueil .
+@prefix ns30:	<https://wits.worldbank.org/CountryProfile/en/> .
+dbr:Economy_of_France	dbo:wikiPageExternalLink	ns30:FRA .
+@prefix ns31:	<https://www.banque-france.fr/> .
+dbr:Economy_of_France	dbo:wikiPageExternalLink	ns31:en ;
+	dbp:sectors	"industry: 19.5%"@en ,
+		"services: 78.8%"@en ,
+		""@en ,
+		"agriculture: 1.7%"@en ;
+	dbp:occupations	""@en ,
+		"services: 77.2%"@en ,
+		"agriculture: 2.8%"@en ,
+		"industry: 20%"@en ;
+	dbp:population	67098824 ;
+	dbp:group	dbr:Developed_country ,
+		dbr:World_Bank_high-income_economy ,
+		""@en ;
+	dbp:industries	dbr:Electronics ,
+		"textiles"@en ,
+		"tourism"@en ,
+		dbr:Food_processing ,
+		dbr:Machine ,
+		"aircraft"@en ,
+		dbr:Metallurgy ,
+		""@en ,
+		dbr:Chemical_substance ,
+		dbr:Car ;
+	dbp:importGoods	"machinery and equipment, vehicles, crude oil, aircraft, plastics, chemicals"@en ;
+	dbp:balance	"\u20AC72.8 billion deficit"@en ,
+		"\u22123.0% of GDP"@en ,
+		""@en ;
+	dbp:currentAccount	"\u2212$14.83 billion"@en ;
+	dbp:fdi	""@en ,
+		"Abroad: $1.429 trillion"@en ,
+		"8.583E11"^^ns27:usDollar ;
+	dbp:grossExternalDebt	"5.25E12"^^ns27:usDollar ;
+	dbp:reserves	"2.3783E11"^^ns27:usDollar ;
+	dbp:country	"France"@en ;
+	dbp:label	"Nuclear power"@en ,
+		"Other"@en ,
+		"Fossil fuel power"@en ,
+		"Hydroelectric power"@en ;
+	dbp:exportPartners	"7.0"^^ns27:perCent ,
+		"7.5"^^ns27:perCent ,
+		"6.7"^^ns27:perCent ,
+		"14.8"^^ns27:perCent ,
+		""@en ,
+		"7.2"^^ns27:perCent ,
+		"7.7"^^ns27:perCent ;
+	dbp:importPartners	"8.3"^^ns27:perCent ,
+		"18.5"^^ns27:perCent ,
+		""@en ,
+		"5.3"^^ns27:perCent ,
+		"10.2"^^ns27:perCent ,
+		"7.1"^^ns27:perCent ,
+		"5.2"^^ns27:perCent ,
+		"7.9"^^ns27:perCent ,
+		"5.1"^^ns27:perCent ;
+	dbo:wikiPageID	67473 ;
+	dbo:wikiPageRevisionID	986424573 ;
+	dbo:wikiPageWikiLink	dbr:Total_SE ,
+		dbr:Car ,
+		dbr:Eurostat ,
+		dbr:Poverty_in_France ,
+		dbr:World_Bank_high-income_economy ,
+		dbr:Louvre ,
+		dbr:International_Monetary_Fund ,
+		dbr:Paul_Krugman ,
+		<http://dbpedia.org/resource/File:Public_Deficit_of_France.png> ,
+		<http://dbpedia.org/resource/2017_French_presidential_election> ,
+		<http://dbpedia.org/resource/2012_French_presidential_election> ,
+		dbr:Upper_Normandy ,
+		dbr:Hauts-de-Seine ,
+		dbr:French_Guiana ,
+		dbr:Pea ,
+		dbr:Saint-Malo ,
+		dbr:Saint-Nazaire ,
+		dbr:Great_Recession ,
+		<http://dbpedia.org/resource/35-hour_workweek> ,
+		dbr:Economic_history_of_France ,
+		<http://dbpedia.org/resource/Department_(country_subdivision)> ,
+		dbr:Credit_rating_agency ,
+		<http://dbpedia.org/resource/Socialist_Party_(France)> ,
+		<http://dbpedia.org/resource/Soci\u00E9t\u00E9_G\u00E9n\u00E9rale> ,
+		dbr:Global_city ,
+		<http://dbpedia.org/resource/File:Labour_productivity_levels_in_Europe._OECD,_2015.png> ,
+		dbr:Secondary_sector_of_the_economy ,
+		<http://dbpedia.org/resource/List_of_countries_by_GDP_(nominal)_per_capita> ,
+		dbr:Dunkirk ,
+		dbr:Nantes ,
+		<http://dbpedia.org/resource/Saint_Barth\u00E9lemy> ,
+		<http://dbpedia.org/resource/File:Chateau-de-versailles-cour.jpg> ,
+		dbr:High-speed_rail ,
+		dbr:Sainte-Chapelle ,
+		dbr:Barley ,
+		dbr:Centre_Pompidou ,
+		dbr:Tourism_in_France ,
+		dbr:The_World_Factbook ,
+		dbr:Areva ,
+		<http://dbpedia.org/resource/L\u0027Or\u00E9al> ,
+		<http://dbpedia.org/resource/Moody\u0027s_Investors_Service> ,
+		dbr:Uruguay_Round ,
+		dbr:Constitution_of_France ,
+		dbr:TGV ,
+		dbr:Lorient ,
+		dbr:KPMG ,
+		dbr:Tertiary_sector_of_the_economy ,
+		dbr:Calais ,
+		dbr:Wind_turbine ,
+		dbr:Nord-Pas-de-Calais ,
+		dbr:Euro ,
+		dbr:World_Bank ,
+		dbr:Helicopter ,
+		<http://dbpedia.org/resource/R\u00E9union> ,
+		<http://dbpedia.org/resource/Ernst_&_Young> ,
+		dbr:List_of_French_inventions_and_discoveries ,
+		dbr:Kering ,
+		dbr:Hauts-de-France ,
+		<http://dbpedia.org/resource/\u00C9lectricit\u00E9_de_France> ,
+		dbr:Foreign_direct_investment ,
+		dbr:Essonne ,
+		<http://dbpedia.org/resource/\u00CEle-de-France> ,
+		dbr:Purchasing_power_parity ,
+		dbr:Paris_metropolitan_area ,
+		dbr:Balance_of_trade ,
+		<http://dbpedia.org/resource/La_D\u00E9fense> ,
+		dbr:Machine ,
+		dbr:Consumer_debt ,
+		<http://dbpedia.org/resource/List_of_sovereign_states_in_Europe_by_GDP_(nominal)> ,
+		dbr:Disneyland_Paris ,
+		dbr:Classical_liberalism ,
+		dbr:List_of_countries_by_credit_rating ,
+		dbr:Economy_of_Mayotte ,
+		dbr:World_Bank_Group ,
+		dbr:Basis_point ,
+		dbr:Bouygues ,
+		dbr:EURO_STOXX_50 ,
+		dbr:Neoliberalism ,
+		<http://dbpedia.org/resource/Air_France\u2013KLM> ,
+		dbr:International_Labour_Organization ,
+		dbr:List_of_countries_by_inequality-adjusted_HDI ,
+		dbr:Fos-sur-Mer ,
+		dbr:Cherbourg-Octeville ,
+		dbr:Eiffage ,
+		dbr:Metallurgy ,
+		<http://dbpedia.org/resource/Revenu_de_solidarit\u00E9_active> ,
+		dbr:Electronics ,
+		dbr:COVID-19_pandemic ,
+		<http://dbpedia.org/resource/Fran\u00E7ois_Mitterrand> ,
+		dbr:Boulogne-sur-Mer ,
+		dbr:European_Union ,
+		<http://dbpedia.org/resource/Soci\u00E9t\u00E9_nationale_d\u0027\u00E9lectricit\u00E9_et_de_thermique> ,
+		dbr:Groupe_PSA ,
+		dbr:Sugarcane ,
+		dbr:Corruption_Perceptions_Index ,
+		dbr:Economy_of_Europe ,
+		<http://dbpedia.org/resource/Rh\u00F4ne-Alpes> ,
+		dbr:Global_Competitiveness_Report ,
+		dbr:Carcassonne ,
+		dbr:Haute_couture ,
+		dbc:European_Union_member_economies ,
+		dbc:OECD_member_economies ,
+		dbc:Economies_of_Europe_by_country ,
+		dbr:Research_and_development ,
+		dbr:Economy_of_New_Caledonia ,
+		dbr:Hydroelectricity ,
+		<http://dbpedia.org/resource/Ch\u00E2teau_de_Chambord> ,
+		dbr:Economy_of_Saint_Pierre_and_Miquelon ,
+		dbr:Sanofi ,
+		<http://dbpedia.org/resource/Compagnie_Nationale_du_Rh\u00F4ne> ,
+		dbr:Corsica ,
+		dbr:Austerity ,
+		dbr:Value_added ,
+		dbr:La_Pallice ,
+		<http://dbpedia.org/resource/Cr\u00E9dit_Agricole> ,
+		dbr:Strasbourg ,
+		dbr:LVMH ,
+		<http://dbpedia.org/resource/Fortune_(magazine)> ,
+		dbr:Keynesian_economics ,
+		dbr:Carrefour ,
+		dbr:Minimum_wage ,
+		<http://dbpedia.org/resource/Cit\u00E9_des_Sciences_et_de_l\u0027Industrie> ,
+		<http://dbpedia.org/resource/File:La_Part-Dieu_depuis_Saint-Paul.JPG> ,
+		dbr:Ethanol ,
+		dbr:Spacecraft ,
+		dbr:Alsace ,
+		<http://dbpedia.org/resource/Fran\u00E7ois_Hollande> ,
+		dbr:Chemical_industry ,
+		dbr:Champagne-Ardenne ,
+		<http://dbpedia.org/resource/Brest,_France> ,
+		dbr:Kilowatt-hour ,
+		dbr:Ease_of_doing_business_index ,
+		dbr:Alstom ,
+		<http://dbpedia.org/resource/List_of_countries_by_GDP_(PPP)_per_capita> ,
+		<http://dbpedia.org/resource/Brittany_(administrative_region)> ,
+		dbr:Burgundy_wine ,
+		dbr:Endesa ,
+		dbr:Contrat_nouvelle_embauche ,
+		dbr:COVID-19_recession ,
+		dbr:Bayonne ,
+		dbr:Publicis ,
+		<http://dbpedia.org/resource/File:French_economy_2016_-_expenditures.png> ,
+		dbr:Common_Agricultural_Policy ,
+		dbr:Smartphone ,
+		dbr:Engie ,
+		dbr:Chemical_substance ,
+		dbr:Auvergne ,
+		dbr:Normandy ,
+		dbr:Accor ,
+		<http://dbpedia.org/resource/Auvergne-Rh\u00F4ne-Alpes> ,
+		dbr:Blast_furnace_gas ,
+		dbr:Toulon ,
+		dbr:Deloitte ,
+		dbr:Toulouse ,
+		<http://dbpedia.org/resource/16th_arrondissement_of_Paris> ,
+		dbr:Neuilly-sur-Seine ,
+		dbr:Lourdes ,
+		dbr:Deficit_spending ,
+		<http://dbpedia.org/resource/Provence-Alpes-C\u00F4te_d\u0027Azur> ,
+		<http://dbpedia.org/resource/Bourgogne-Franche-Comt\u00E9> ,
+		dbr:General_Agreement_on_Tariffs_and_Trade ,
+		dbr:Fashion_capital ,
+		dbr:Overseas_departments_and_regions_of_France ,
+		dbr:French_wine ,
+		dbr:OECD ,
+		dbr:Economy_of_Martinique ,
+		dbr:The_Observatory_of_Economic_Complexity ,
+		dbr:Bordeaux ,
+		<http://dbpedia.org/resource/Economy_of_R\u00E9union> ,
+		dbr:Economy_of_Saint_Martin ,
+		dbr:Danone ,
+		dbr:Martinique ,
+		dbr:Linen ,
+		dbr:Innovation ,
+		dbr:Gas_turbine ,
+		dbr:Vinci_SA ,
+		dbr:Port-Vendres ,
+		dbr:Aquitaine ,
+		dbr:Arc_de_Triomphe ,
+		<http://dbpedia.org/resource/List_of_countries_by_GDP_(PPP)> ,
+		<http://dbpedia.org/resource/Ch\u00E2teau_du_Haut-K\u0153nigsbourg> ,
+		dbr:Taxation_in_France ,
+		dbr:Tomato ,
+		dbr:Bordeaux_wine ,
+		<http://dbpedia.org/resource/8th_arrondissement_of_Paris> ,
+		dbr:Fitch_Ratings ,
+		<http://dbpedia.org/resource/Mus\u00E9e_Picasso> ,
+		dbr:Food_processing ,
+		dbr:Official_development_assistance ,
+		dbr:Nouvelle-Aquitaine ,
+		dbr:Overseas_France ,
+		dbr:Palace_of_Versailles ,
+		dbr:Bernard_Arnault ,
+		dbr:Lyon ,
+		dbr:Vice_News ,
+		dbr:Picardy ,
+		dbr:Yvelines ,
+		dbr:Sophia_Antipolis ,
+		dbr:Veolia ,
+		<http://dbpedia.org/resource/1,000,000,000> ,
+		dbr:Axa ,
+		dbr:BNP_Paribas ,
+		dbr:Jean-Pierre_Raffarin ,
+		dbr:List_of_French_cheeses ,
+		dbr:Sugar_beet ,
+		dbr:Marseille ,
+		<http://dbpedia.org/resource/7th_arrondissement_of_Paris> ,
+		dbr:Medication ,
+		dbr:Primary_sector_of_the_economy ,
+		dbr:Roscoff ,
+		dbr:Gold_reserve ,
+		dbr:Michelin ,
+		dbr:Rouen ,
+		dbr:Fortune_Global_500 ,
+		dbr:Luxembourg ,
+		<http://dbpedia.org/resource/S\u00E8te> ,
+		dbr:Port-la-Nouvelle ,
+		dbr:Dirigisme ,
+		dbr:Centre-Val_de_Loire ,
+		dbc:Economy_of_France ,
+		dbr:Oat ,
+		dbr:World_Trade_Organization ,
+		dbr:Charles_de_Gaulle_Airport ,
+		<http://dbpedia.org/resource/6th_arrondissement_of_Paris> ,
+		dbr:Emmanuel_Macron ,
+		dbr:Economy_of_the_European_Union ,
+		dbr:Sunflower_seed ,
+		dbr:Nuclear_power ,
+		dbr:Nuclear_reactor ,
+		dbr:List_of_countries_by_Human_Development_Index ,
+		dbr:Triticale ,
+		dbr:Le_Havre ,
+		dbr:Creuse ,
+		dbr:Economy_of_Wallis_and_Futuna ,
+		<http://dbpedia.org/resource/File:Gare_de_l\u0027Est_Paris_2007_a5.jpg> ,
+		<http://dbpedia.org/resource/File:Chambord.JPG> ,
+		dbr:Arms_industry ,
+		<http://dbpedia.org/resource/File:Dette_publique_france_percent_du_PIB.png> ,
+		dbr:Fossil_fuel_power_station ,
+		dbr:Nuclear_power_in_France ,
+		<http://dbpedia.org/resource/File:Several_Bordeaux_wines.jpg> ,
+		dbr:JCDecaux ,
+		<http://dbpedia.org/resource/File:IAF_Rafale_aircraft_touching_down_at_Air_Force_Station_Ambala_on_its_arrival_on_29_July_2020_(cropped).jpg> ,
+		<http://dbpedia.org/resource/File:Citroen_C5_Aircross_Plug-in-Hybrid,_Paris_Motor_Show_2018,_IMG_0193.jpg> ,
+		<http://dbpedia.org/resource/File:Cize-Bolozon_viaduc01_2015-05-10.jpg> ,
+		<http://dbpedia.org/resource/File:Demi_Castelviel_Gabriel_Coulet.jpg> ,
+		<http://dbpedia.org/resource/Revenu_minimum_d\u0027insertion> ,
+		dbr:Air_France ,
+		<http://dbpedia.org/resource/File:Eiffel_Tower_from_the_Tour_Montparnasse,_1_May_2012_N3.jpg> ,
+		<http://dbpedia.org/resource/File:Nominal_GDP_per_capita,_2015_Eurostat_France.png> ,
+		<http://dbpedia.org/resource/2012_French_legislative_election> ,
+		<http://dbpedia.org/resource/File:Villiers_Le_Bacle_le_14_juillet_2008_-_21.jpg> ,
+		dbr:Arrondissements_of_Paris ,
+		dbr:Developed_country ,
+		<http://dbpedia.org/resource/Mus\u00E9e_d\u0027Orsay> ,
+		<http://dbpedia.org/resource/Bloomberg_L.P.> ,
+		dbr:Market_economy ,
+		dbr:Bureau_of_Labor_Statistics ,
+		dbr:Economy_of_Germany ,
+		dbr:Grand_Est ,
+		<http://dbpedia.org/resource/S&P_Global_Ratings> ,
+		dbr:Airplane ,
+		<http://dbpedia.org/resource/Puy_de_D\u00F4me> ,
+		<http://dbpedia.org/resource/Kearney_(consulting_firm)> ,
+		<http://dbpedia.org/resource/File:Sanofi_HQ.jpg> ,
+		dbr:Mayotte ,
+		dbr:Rapeseed ,
+		dbc:World_Trade_Organization_member_economies ,
+		dbr:Member_state_of_the_European_Union ,
+		dbr:Rail_transport_in_France ,
+		dbr:Attractiveness ,
+		dbr:Eiffel_Tower ,
+		<http://dbpedia.org/resource/List_of_countries_by_GDP_(nominal)> ,
+		dbr:Pays_de_la_Loire ,
+		dbr:Occitanie ,
+		dbr:First_Employment_Contract ,
+		dbr:Human_Development_Index ,
+		dbr:Greenhouse_gas ,
+		dbr:Economy_of_French_Guiana ,
+		dbr:Economy_of_French_Polynesia ,
+		dbr:Banlieue ,
+		dbr:Louis_XIV ,
+		dbr:Mont-Saint-Michel ,
+		dbr:Economy_of_Paris ,
+		dbr:Champagne_wine_region ,
+		dbr:Radioactive_waste ,
+		dbr:Limousin ,
+		dbr:Soybean ,
+		dbr:Guadeloupe ,
+		dbr:Economy_of_the_United_Kingdom ,
+		dbr:Waste-to-energy .
+@prefix dbt:	<http://dbpedia.org/resource/Template:> .
+dbr:Economy_of_France	dbp:wikiPageUsesTemplate	dbt:ALG ,
+		dbt:DecreasePositive ,
+		dbt:Citation_needed ,
+		dbt:IRL ,
+		dbt:IND ,
+		dbt:LUX ,
+		dbt:Clear ,
+		dbt:About ,
+		dbt:Use_British_English ,
+		dbt:Use_dmy_dates ,
+		dbt:VNM ,
+		dbt:AUT ,
+		dbt:See_also ,
+		dbt:Reflist ,
+		dbt:When ,
+		dbt:CZE ,
+		dbt:SWE ,
+		dbt:NOR ,
+		dbt:Further ,
+		dbt:Color ,
+		dbt:Economy_of_Europe ,
+		dbt:CHE ,
+		dbt:PRT ,
+		dbt:Infobox_economy ,
+		dbt:Z148 ,
+		dbt:Steady ,
+		dbt:IncreaseNegative ,
+		dbt:Europe_topic ,
+		dbt:Pie_chart ,
+		dbt:Increase ,
+		dbt:France_topics ,
+		dbt:Circular_reference ,
+		dbt:EU_Dependent_economies ,
+		dbt:Short_description ,
+		dbt:JPN ,
+		dbt:Organisation_for_Economic_Co-operation_and_Development ,
+		dbt:World_Trade_Organization ,
+		dbt:Flag ,
+		dbt:NLD ,
+		dbt:ESP ,
+		dbt:HKG ,
+		dbt:ITA ,
+		dbt:GBR ,
+		dbt:KOR ,
+		dbt:RUS ,
+		dbt:POL ,
+		dbt:TUR ,
+		dbt:SGP ,
+		dbt:Decrease ,
+		dbt:Main ;
+	dbo:wikiPageLength	"79545"^^xsd:nonNegativeInteger ;
+	dbp:year	"Calendar year"@en .
+dbr:Christine_Lagarde	dbo:wikiPageWikiLink	dbr:Economy_of_France .
+dbr:Goyard	dbo:wikiPageWikiLink	dbr:Economy_of_France .
+dbr:Dirigisme	dbo:wikiPageWikiLink	dbr:Economy_of_France .
+<http://dbpedia.org/resource/Autorit\u00E9_des_march\u00E9s_financiers_(France)>	dbo:wikiPageWikiLink	dbr:Economy_of_France .
+dbr:Economy_of_Paris	dbo:wikiPageWikiLink	dbr:Economy_of_France .
+dbr:Calais_Jungle	dbo:wikiPageWikiLink	dbr:Economy_of_France .
+<http://dbpedia.org/resource/Balmain_(fashion_house)>	dbo:wikiPageWikiLink	dbr:Economy_of_France .
+dbr:Bank_of_France	dbo:wikiPageWikiLink	dbr:Economy_of_France .
+dbr:List_of_French_regions_and_overseas_collectivities_by_GDP	dbo:wikiPageWikiLink	dbr:Economy_of_France .
+dbr:Timeline_of_the_Great_Recession	dbo:wikiPageWikiLink	dbr:Economy_of_France .
+dbr:Economy_of_Saint_Pierre_and_Miquelon	dbo:wikiPageWikiLink	dbr:Economy_of_France .
+dbr:French_Protectorate_in_Morocco	dbo:wikiPageWikiLink	dbr:Economy_of_France .
+dbr:French_fashion	dbo:wikiPageWikiLink	dbr:Economy_of_France .
+<http://dbpedia.org/resource/Lanvin_(company)>	dbo:wikiPageWikiLink	dbr:Economy_of_France .
+dbr:Breadbasket	dbo:wikiPageWikiLink	dbr:Economy_of_France .
+dbr:List_of_exports_of_France	dbo:wikiPageWikiLink	dbr:Economy_of_France .
+<http://dbpedia.org/resource/Cap_d\u0027Agde>	dbo:wikiPageWikiLink	dbr:Economy_of_France .
+dbr:Tunisians_in_France	dbo:wikiPageWikiLink	dbr:Economy_of_France .
+dbr:Montsoreau	dbo:wikiPageWikiLink	dbr:Economy_of_France .
+dbr:Migrants_around_Calais	dbo:wikiPageWikiLink	dbr:Economy_of_France .
+dbr:Economics_in_France	dbo:wikiPageRedirects	dbr:Economy_of_France ;
+	dbo:wikiPageWikiLink	dbr:Economy_of_France .
+dbr:Economics_of_France	dbo:wikiPageRedirects	dbr:Economy_of_France ;
+	dbo:wikiPageWikiLink	dbr:Economy_of_France .
+dbr:Economy_in_France	dbo:wikiPageRedirects	dbr:Economy_of_France ;
+	dbo:wikiPageWikiLink	dbr:Economy_of_France .
+dbr:Economy_of_the_French_Republic	dbo:wikiPageRedirects	dbr:Economy_of_France ;
+	dbo:wikiPageWikiLink	dbr:Economy_of_France .
+dbr:French_company	dbo:wikiPageRedirects	dbr:Economy_of_France ;
+	dbo:wikiPageWikiLink	dbr:Economy_of_France .
+dbr:French_economy	dbo:wikiPageRedirects	dbr:Economy_of_France ;
+	dbo:wikiPageWikiLink	dbr:Economy_of_France .
+dbr:Income_inequality_in_France	dbo:wikiPageRedirects	dbr:Economy_of_France ;
+	dbo:wikiPageWikiLink	dbr:Economy_of_France .
+@prefix ns33:	<http://dbpedia.org/resource/France/> .
+ns33:Economy	dbo:wikiPageRedirects	dbr:Economy_of_France ;
+	dbo:wikiPageWikiLink	dbr:Economy_of_France .
+dbr:Agriculture_in_France	dbo:wikiPageRedirects	dbr:Economy_of_France ;
+	dbo:wikiPageWikiLink	dbr:Economy_of_France .
+dbr:France_economy	dbo:wikiPageRedirects	dbr:Economy_of_France ;
+	dbo:wikiPageWikiLink	dbr:Economy_of_France .
+dbr:Economy_of_france	dbo:wikiPageRedirects	dbr:Economy_of_France ;
+	dbo:wikiPageWikiLink	dbr:Economy_of_France .
+<http://dbpedia.org/resource/Post\u2013World_War_II_economic_expansion>	dbo:wikiPageWikiLink	dbr:Economy_of_France .
+dbr:Agriculture_in_Spain	dbo:wikiPageWikiLink	dbr:Economy_of_France .
+<http://dbpedia.org/resource/110_Propositions_for_France>	dbo:wikiPageWikiLink	dbr:Economy_of_France .
+dbr:Jean-Marie_Le_Pen	dbo:wikiPageWikiLink	dbr:Economy_of_France .
+dbr:Taxation_in_France	dbo:wikiPageWikiLink	dbr:Economy_of_France .
+dbr:The_Conference_Board	dbo:wikiPageWikiLink	dbr:Economy_of_France .
+dbr:Celtic_Tiger	dbo:wikiPageWikiLink	dbr:Economy_of_France .
+<http://dbpedia.org/resource/John_Peet_(born_1954)>	dbo:wikiPageWikiLink	dbr:Economy_of_France .
+dbr:BRED_Banque_populaire	dbo:wikiPageWikiLink	dbr:Economy_of_France .
+dbr:COVID-19_pandemic_in_France	dbo:wikiPageWikiLink	dbr:Economy_of_France .

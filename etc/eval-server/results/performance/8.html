@@ -1,0 +1,664 @@
+<!DOCTYPE html>
+<html
+    prefix="
+        dbp: http://dbpedia.org/property/
+        dbo: http://dbedia.org/ontology/
+        dct: http://purl.org/dc/terms/
+	"
+    lang="en"
+>
+
+
+<!-- header -->
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <title>About: Eersel</title>
+    <link rel="alternate" type="application/rdf+xml" 		href="http://dbpedia.org/data/Eersel.rdf" title="Structured Descriptor Document (RDF/XML format)" />
+    <link rel="alternate" type="text/n3" 			href="http://dbpedia.org/data/Eersel.n3" title="Structured Descriptor Document (N3 format)" />
+    <link rel="alternate" type="text/turtle" 			href="http://dbpedia.org/data/Eersel.ttl" title="Structured Descriptor Document (Turtle format)" />
+    <link rel="alternate" type="application/json+rdf" 		href="http://dbpedia.org/data/Eersel.jrdf" title="Structured Descriptor Document (RDF/JSON format)" />
+    <link rel="alternate" type="application/json" 		href="http://dbpedia.org/data/Eersel.json" title="Structured Descriptor Document (RDF/JSON format)" />
+    <link rel="alternate" type="application/atom+xml" 		href="http://dbpedia.org/data/Eersel.atom" title="OData (Atom+Feed format)" />
+    <link rel="alternate" type="text/plain" 			href="http://dbpedia.org/data/Eersel.ntriples" title="Structured Descriptor Document (N-Triples format)" />
+    <link rel="alternate" type="text/csv"   			href="http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FEersel%3E&amp;format=text%2Fcsv" title="Structured Descriptor Document (CSV format)" />
+    
+    <link rel="alternate" type="text/cxml"  			href="http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FEersel%3E&amp;format=text%2Fcxml" title="Structured Descriptor Document (CXML format)" />
+    
+    <link rel="alternate" type="application/microdata+json"	href="http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FEersel%3E&amp;format=application%2Fmicrodata%2Bjson" title="Structured Descriptor Document (Microdata/JSON format)" />
+    <link rel="alternate" type="text/html" 			href="http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FEersel%3E&amp;format=text%2Fhtml" title="Structured Descriptor Document (Microdata/HTML format)" />
+    <link rel="alternate" type="application/ld+json" 		href="http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FEersel%3E&amp;format=application%2Fjson-ld" title="Structured Descriptor Document (JSON-LD format)" />
+    <link rel="alternate" type="text/x-html-script-ld+json"	href="http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FEersel%3E&amp;format=text%2Fx-html-script-ld%2Bjson" title="Structured Descriptor Document (HTML with embedded JSON-LD)" />
+    <link rel="alternate" type="text/x-html-script-turtle"	href="http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FEersel%3E&amp;format=text%2Fx-html-script-turtle" title="Structured Descriptor Document (HTML with embedded Turtle)" />
+    <link rel="timegate" type="text/html" 			href="http://dbpedia.mementodepot.org/timegate/http://dbpedia.org/page/Eersel" title="Time Machine" />
+    <link rel="foaf:primarytopic" 				href="http://dbpedia.org/resource/Eersel"/>
+    <link rev="describedby" 					href="http://dbpedia.org/resource/Eersel"/>
+    <link rel="stylesheet" type="text/css"			href="/statics/css/bootstrap.min.css" />
+    <link rel="stylesheet" type="text/css" 			href="/statics/css/dbpedia.css" />
+</head>
+<body about="http://dbpedia.org/resource/Eersel">
+<div class="navbar navbar-default navbar-fixed-top">
+    <div class="container">
+	<div class="navbar-header">
+	    <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#dbp-navbar" aria-expanded="false">
+		<span class="sr-only">Toggle navigation</span>
+		<span class="icon-bar"></span>
+		<span class="icon-bar"></span>
+		<span class="icon-bar"></span>
+	    </button>
+	    <a class="navbar-brand" href="http://wiki.dbpedia.org/about" title="About DBpedia" style="color: #2c5078">
+	    <img class="img-responsive" src="/statics/images/dbpedia_logo_land_120.png" alt="About DBpedia" style="display: inline-block;  margin-top: -12px"/>
+	    </a>
+	</div>
+
+	<div class="collapse navbar-collapse" id="dbp-navbar">
+	    <ul class="nav navbar-nav navbar-right">
+		<li><a class="active" href="/fct/" title="Switch to /fct endpoint"><span class="glyphicon glyphicon-new-window" aria-hidden="true"></span> Faceted Browser </a></li>
+		<li><a class="active" href="/sparql/" title="Switch to /sparql endpoint"><span class="glyphicon glyphicon-new-window" aria-hidden="true"></span> Sparql Endpoint </a></li>
+	    </ul>
+	    <ul class="nav navbar-nav">
+	    <li class="dropdown">
+		<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span class="glyphicon glyphicon-eye-open" aria-hidden="true"></span> Browse using <span class="caret"></span></a>
+		<ul class="dropdown-menu">
+		<li><a href="/describe/?uri=http%3A%2F%2Fdbpedia.org%2Fresource%2FEersel">OpenLink Faceted Browser</a></li>
+		<li><a href="http://linkeddata.uriburner.com/rdf-editor/#/editor?uri=http%3A%2F%2Fdbpedia.org%2Fresource%2FEersel&amp;view=statements">OpenLink Structured Data Editor</a></li>
+		<li><a href="http://en.lodlive.it/?http%3A%2F%2Fdbpedia.org%2Fresource%2FEersel">LodLive Browser</a></li>
+		<li><a href="http://lodmilla.sztaki.hu/lodmilla/?url=http%3A%2F%2Fdbpedia.org%2Fresource%2FEersel">LODmilla Browser</a></li>
+		</ul>
+	    </li>
+	    <li class="dropdown">
+		<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span class="glyphicon glyphicon-file" aria-hidden="true"></span> Formats <span class="caret"></span></a>
+		<ul class="dropdown-menu">
+		<li>&nbsp;RDF:</li>
+		    <li><a href="http://dbpedia.org/data/Eersel.ntriples">N-Triples</a></li>
+		    <li><a href="http://dbpedia.org/data/Eersel.n3">N3</a></li>
+		    <li><a href="http://dbpedia.org/data/Eersel.ttl">Turtle</a></li>
+		    <li><a href="http://dbpedia.org/data/Eersel.json">JSON</a></li>
+		    <li><a href="http://dbpedia.org/data/Eersel.rdf">XML</a></li>
+		<li class="divider"></li>
+		<li>&nbsp;OData:</li>
+		    <li><a href="http://dbpedia.org/data/Eersel.atom">Atom</a></li>
+		    <li><a href="http://dbpedia.org/data/Eersel.jsod">JSON</a></li>
+		<li class="divider"></li>
+		<li>&nbsp;Microdata:</li>
+		    <li><a href="http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FEersel%3E&amp;format=application%2Fmicrodata%2Bjson">JSON</a></li>
+		    <li><a href="http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FEersel%3E&amp;format=text%2Fhtml">HTML</a></li>
+		<li class="divider"></li>
+		<li>&nbsp;Embedded:</li>
+		    <li><a href="http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FEersel%3E&amp;format=text%2Fx-html-script-ld%2Bjson">JSON</a></li>
+		    <li><a href="http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FEersel%3E&amp;format=text%2Fx-html-script-turtle">Turtle</a></li>
+		<li class="divider"></li>
+		    
+		        <li><a href="http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FEersel%3E&amp;format=text%2Fcxml">CXML</a></li>
+		    
+		    <li><a href="http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FEersel%3E&amp;format=text%2Fcsv">CSV</a></li>
+		    <li><a href="http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FEersel%3E&amp;format=application%2Fjson-ld">JSON-LD</a></li>
+		</ul>
+	    </li>
+	    </ul>
+	</div>
+    </div>
+</div>
+
+<div class="container">
+<!-- page-header -->
+    <div class="page-header">
+	<!-- div class="pull-right">
+	    <a href="http://wiki.dbpedia.org/about" title="About DBpedia">
+	    <img class="img-responsive" src="/statics/images/dbpedia_logo_land_120.png" alt="About DBpedia"/>
+	    </a>
+	</div -->
+	<h1 id="title">About:
+	    <a href="http://dbpedia.org/resource/Eersel">Eersel</a>
+	</h1>
+	<div class="page-resource-uri">
+	    An Entity of Type : <a href="http://dbpedia.org/resource/List_of_municipalities_of_the_Netherlands">List of municipalities of the Netherlands</a>,
+	    from Named Graph : <a href="http://dbpedia.org">http://dbpedia.org</a>,
+	    within Data Space : <a href="http://dbpedia.org">dbpedia.org</a>
+	</div>
+    </div>
+<!-- page-header -->
+<!-- row -->
+    <div class="row">
+	<div class="col-xs-12">
+	    <p class="lead">Eersel () is a municipality and a town in southern Netherlands in the province of North Brabant. Eersel is situated in the Campine (Kempen) area. Eersel is part of the Acht Zaligheden (Eight Delights) and known for its attractive market. This market, together with the Hint, has been declared a protected village on October 19, 1967. This has been done to guarantee the future survival of its authentic character. The spoken language is Kempenlands (an East Brabantian dialect, which is very similar to colloquial Dutch).</p>
+	</div>
+	<div class="col-xs-12">
+	    <!-- proptable -->
+	    <table class="description table table-striped">
+	    <tr>
+		<th class="col-xs-3">Property</th>
+		<th class="col-xs-9">Value</th>
+	    </tr>
+<tr class="odd"><td class="property"><a class="uri" href="http://dbpedia.org/ontology/abstract"><small>dbo:</small>abstract</a>
+</td><td><ul>
+	<li style="display:none;"><span class="literal"><span property="dbo:abstract" lang="ar">إيرسل   بلدية وبلدة بمقاطعة شمال برابنت، جنوبي هولندا.</span><small> (ar)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="dbo:abstract" lang="ca">Eersel és un municipi de la província de Brabant Septentrional, al sud dels Països Baixos. L&#39;1 de gener del 2009 tenia 18.200 habitants repartits sobre una superfície de 83,28 km² (dels quals 0,87 km² corresponen a aigua). Limita al nord amb Oirschot i Eindhoven, a l&#39;oest amb Bladel, a l&#39;est amb Veldhoven i al sud amb Bergeijk.</span><small> (ca)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="dbo:abstract" lang="eo">Eersel estas urbo kaj municipo en la provinco Norda Brabanto en Nederlando.</span><small> (eo)</small></span></li>
+	<li><span class="literal"><span property="dbo:abstract" lang="en">Eersel () is a municipality and a town in southern Netherlands in the province of North Brabant. Eersel is situated in the Campine (Kempen) area. Eersel is part of the Acht Zaligheden (Eight Delights) and known for its attractive market. This market, together with the Hint, has been declared a protected village on October 19, 1967. This has been done to guarantee the future survival of its authentic character. The spoken language is Kempenlands (an East Brabantian dialect, which is very similar to colloquial Dutch).</span><small> (en)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="dbo:abstract" lang="de">Eersel () ist eine Gemeinde in der niederländischen Provinz Noord-Brabant. Die frühere Gemeinde  wurde 1922, die frühere Gemeinde  1997 eingemeindet.</span><small> (de)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="dbo:abstract" lang="es">Eersel es un municipio de la provincia de Brabante Septentrional en los Países Bajos. El 30 de abril de 2017 contaba con una población de 18.628 habitantes,​ sobre una superficie de 83,33 km², de los que 0,86 km² cubiertos por el agua, con una densidad de 226 h/km². El municipio lo forman, con Eersel, el antiguo municipio de Duizel y Steensel, agregado en 1922, y el de Vessem, Wintelre y Knegsel, que se incorporó en la reorganización municipal de 1997.​ Está comunicado por la autopista A67.</span><small> (es)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="dbo:abstract" lang="eu">Eersel (  (i · ?)) Herbehereetako Ipar Brabante probintziako herria da. 2010eko urtarrilaren 1eko erroldaren arabera, herriak 18.166 biztanle zituen.</span><small> (eu)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="dbo:abstract" lang="fr">Eersel est une commune des Pays-Bas de la province du Brabant-Septentrional.</span><small> (fr)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="dbo:abstract" lang="in">Eersel, adalah sebuah gemeente Belanda yang terletak di provinsi Noord Brabant. Pada tahun 2007 daerah ini memiliki penduduk sebesar 18.032 jiwa.</span><small> (in)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="dbo:abstract" lang="it">Eersel è una municipalità dei Paesi Bassi di 18.166 abitanti situata nella provincia di Brabante Settentrionale.</span><small> (it)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="dbo:abstract" lang="nl">Eersel (  (info / uitleg)) (Brabants: Irsel) is een gemeente in de provincie Noord-Brabant, Nederland.</span><small> (nl)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="dbo:abstract" lang="pt">Eersel é um município no sul dos Países Baixos na província Brabante do Norte. Os municípios históricos ,  e  foram repectivamente anexados nos anos de 1922, e 1997.</span><small> (pt)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="dbo:abstract" lang="pl">Eersel – miasto i gmina w prowincji Brabancja Północna w Holandii. Populacja gminy w 2014 roku wyniosła 18 201 mieszkańców.</span><small> (pl)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="dbo:abstract" lang="sv">Eersel är en kommun i provinsen Noord-Brabant i Nederländerna. Kommunens totala area är 83,28 km² (där 0,84 km² är vatten) och invånarantalet är 18 171 invånare (februari 2012).</span><small> (sv)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="dbo:abstract" lang="zh">埃爾瑟爾（荷蘭語：Eersel）是荷蘭的一個市鎮，位於荷蘭南部，屬於北布拉班特省。埃爾瑟爾以其獨特的市場而著稱。</span><small> (zh)</small></span></li>
+</ul></td></tr><tr class="even"><td class="property"><a class="uri" href="http://dbpedia.org/ontology/areaCode"><small>dbo:</small>areaCode</a>
+</td><td><ul>
+	<li><span class="literal"><span property="dbo:areaCode">040, 0497</span></span></li>
+</ul></td></tr><tr class="odd"><td class="property"><a class="uri" href="http://dbpedia.org/ontology/country"><small>dbo:</small>country</a>
+</td><td><ul>
+	<li><span class="literal"><a class="uri" rel="dbo:country" href="http://dbpedia.org/resource/Netherlands"><small>dbr</small>:Netherlands</a></span></li>
+</ul></td></tr><tr class="even"><td class="property"><a class="uri" href="http://dbpedia.org/ontology/demonym"><small>dbo:</small>demonym</a>
+</td><td><ul>
+	<li><span class="literal"><span property="dbo:demonym" lang="en">Eerselnaar</span><small> (en)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="property"><a class="uri" href="http://dbpedia.org/ontology/elevation"><small>dbo:</small>elevation</a>
+</td><td><ul>
+	<li><span class="literal"><span property="dbo:elevation">31.000000</span><small> (xsd:double)</small></span></li>
+</ul></td></tr><tr class="even"><td class="property"><a class="uri" href="http://dbpedia.org/ontology/governingBody"><small>dbo:</small>governingBody</a>
+</td><td><ul>
+	<li><span class="literal"><a class="uri" rel="dbo:governingBody" href="http://dbpedia.org/resource/Municipal_council_(Netherlands)"><small>dbr</small>:Municipal_council_(Netherlands)</a></span></li>
+</ul></td></tr><tr class="odd"><td class="property"><a class="uri" href="http://dbpedia.org/ontology/politicalLeader"><small>dbo:</small>politicalLeader</a>
+</td><td><ul>
+	<li><span class="literal"><a class="uri" rel="dbo:politicalLeader" href="http://dbpedia.org/resource/Eersel__PoliticalFunction__1"><small>dbr</small>:Eersel__PoliticalFunction__1</a></span></li>
+</ul></td></tr><tr class="even"><td class="property"><a class="uri" href="http://dbpedia.org/ontology/postalCode"><small>dbo:</small>postalCode</a>
+</td><td><ul>
+	<li><span class="literal"><span property="dbo:postalCode">5511–5525</span></span></li>
+</ul></td></tr><tr class="odd"><td class="property"><a class="uri" href="http://dbpedia.org/ontology/subdivision"><small>dbo:</small>subdivision</a>
+</td><td><ul>
+	<li><span class="literal"><a class="uri" rel="dbo:subdivision" href="http://dbpedia.org/resource/North_Brabant"><small>dbr</small>:North_Brabant</a></span></li>
+</ul></td></tr><tr class="even"><td class="property"><a class="uri" href="http://dbpedia.org/ontology/thumbnail"><small>dbo:</small>thumbnail</a>
+</td><td><ul>
+	<li><span class="literal"><a class="uri" rel="dbo:thumbnail" href="http://commons.wikimedia.org/wiki/Special:FilePath/Gemeentehuis_Eersel.jpg?width=300"><small>wiki-commons</small>:Special:FilePath/Gemeentehuis_Eersel.jpg?width=300</a></span></li>
+</ul></td></tr><tr class="odd"><td class="property"><a class="uri" href="http://dbpedia.org/ontology/timeZone"><small>dbo:</small>timeZone</a>
+</td><td><ul>
+	<li><span class="literal"><a class="uri" rel="dbo:timeZone" href="http://dbpedia.org/resource/Central_European_Summer_Time"><small>dbr</small>:Central_European_Summer_Time</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:timeZone" href="http://dbpedia.org/resource/Central_European_Time"><small>dbr</small>:Central_European_Time</a></span></li>
+</ul></td></tr><tr class="even"><td class="property"><a class="uri" href="http://dbpedia.org/ontology/type"><small>dbo:</small>type</a>
+</td><td><ul>
+	<li><span class="literal"><a class="uri" rel="dbo:type" href="http://dbpedia.org/resource/List_of_municipalities_of_the_Netherlands"><small>dbr</small>:List_of_municipalities_of_the_Netherlands</a></span></li>
+</ul></td></tr><tr class="odd"><td class="property"><a class="uri" href="http://dbpedia.org/ontology/utcOffset"><small>dbo:</small>utcOffset</a>
+</td><td><ul>
+	<li><span class="literal"><span property="dbo:utcOffset">+1</span></span></li>
+	<li><span class="literal"><span property="dbo:utcOffset">+2</span></span></li>
+</ul></td></tr><tr class="even"><td class="property"><a class="uri" href="http://dbpedia.org/ontology/wikiPageExternalLink"><small>dbo:</small>wikiPageExternalLink</a>
+</td><td><ul>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageExternalLink nofollow" href="http://www.eersel.nl">http://www.eersel.nl</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageExternalLink nofollow" href="http://www.geschiedeniseersel.nl">http://www.geschiedeniseersel.nl</a></span></li>
+</ul></td></tr><tr class="odd"><td class="property"><a class="uri" href="http://dbpedia.org/ontology/wikiPageID"><small>dbo:</small>wikiPageID</a>
+</td><td><ul>
+	<li><span class="literal"><span property="dbo:wikiPageID">118715</span><small> (xsd:integer)</small></span></li>
+</ul></td></tr><tr class="even"><td class="property"><a class="uri" href="http://dbpedia.org/ontology/wikiPageLength"><small>dbo:</small>wikiPageLength</a>
+</td><td><ul>
+	<li><span class="literal"><span property="dbo:wikiPageLength">11638</span><small> (xsd:integer)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="property"><a class="uri" href="http://dbpedia.org/ontology/wikiPageRevisionID"><small>dbo:</small>wikiPageRevisionID</a>
+</td><td><ul>
+	<li><span class="literal"><span property="dbo:wikiPageRevisionID">957459556</span><small> (xsd:integer)</small></span></li>
+</ul></td></tr><tr class="even"><td class="property"><a class="uri" href="http://dbpedia.org/ontology/wikiPageWikiLink"><small>dbo:</small>wikiPageWikiLink</a>
+</td><td><ul>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Luxembourg"><small>dbr</small>:Luxembourg</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Cart"><small>dbr</small>:Cart</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Coppersmith"><small>dbr</small>:Coppersmith</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Urnfield_culture"><small>dbr</small>:Urnfield_culture</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Veldhoven"><small>dbr</small>:Veldhoven</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Postal_codes_in_the_Netherlands"><small>dbr</small>:Postal_codes_in_the_Netherlands</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Municipal_council_(Netherlands)"><small>dbr</small>:Municipal_council_(Netherlands)</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Wintelre"><small>dbr</small>:Wintelre</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Bladel"><small>dbr</small>:Bladel</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Borkel_en_Schaft"><small>dbr</small>:Borkel_en_Schaft</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Abbey_of_Echternach"><small>dbr</small>:Abbey_of_Echternach</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Dommelen"><small>dbr</small>:Dommelen</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Guelders"><small>dbr</small>:Guelders</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Protestantism"><small>dbr</small>:Protestantism</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Provinces_of_the_Netherlands"><small>dbr</small>:Provinces_of_the_Netherlands</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Hapert"><small>dbr</small>:Hapert</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Category:Municipalities_of_North_Brabant"><small>dbc</small>:Municipalities_of_North_Brabant</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Category:Populated_places_in_North_Brabant"><small>dbc</small>:Populated_places_in_North_Brabant</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Catholic_Church"><small>dbr</small>:Catholic_Church</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/North_Brabant"><small>dbr</small>:North_Brabant</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Oirschot"><small>dbr</small>:Oirschot</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Charter"><small>dbr</small>:Charter</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Pottery"><small>dbr</small>:Pottery</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/East_Brabantian"><small>dbr</small>:East_Brabantian</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Municipality"><small>dbr</small>:Municipality</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/&#39;s-Hertogenbosch"><small>dbr</small>:&#39;s-Hertogenbosch</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Artisan"><small>dbr</small>:Artisan</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/List_of_municipalities_of_the_Netherlands"><small>dbr</small>:List_of_municipalities_of_the_Netherlands</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/List_of_sovereign_states"><small>dbr</small>:List_of_sovereign_states</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Eburones"><small>dbr</small>:Eburones</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Steensel"><small>dbr</small>:Steensel</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Vessem"><small>dbr</small>:Vessem</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Salian_Franks"><small>dbr</small>:Salian_Franks</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Church_(building)"><small>dbr</small>:Church_(building)</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Bergeijk"><small>dbr</small>:Bergeijk</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Bertus_Borgers"><small>dbr</small>:Bertus_Borgers</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Leuven"><small>dbr</small>:Leuven</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Central_European_Summer_Time"><small>dbr</small>:Central_European_Summer_Time</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Central_European_Time"><small>dbr</small>:Central_European_Time</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/John_III,_Duke_of_Brabant"><small>dbr</small>:John_III,_Duke_of_Brabant</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Middle_Ages"><small>dbr</small>:Middle_Ages</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Merchant"><small>dbr</small>:Merchant</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Duchy_of_Brabant"><small>dbr</small>:Duchy_of_Brabant</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Dutch_language"><small>dbr</small>:Dutch_language</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Franks"><small>dbr</small>:Franks</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Hamlet_(place)"><small>dbr</small>:Hamlet_(place)</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Hoogeloon"><small>dbr</small>:Hoogeloon</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Ancient_Rome"><small>dbr</small>:Ancient_Rome</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Antwerp"><small>dbr</small>:Antwerp</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Burgomaster"><small>dbr</small>:Burgomaster</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Reek,_Netherlands"><small>dbr</small>:Reek,_Netherlands</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Texandri"><small>dbr</small>:Texandri</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Texandria"><small>dbr</small>:Texandria</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Codex_Aureus_of_Echternach"><small>dbr</small>:Codex_Aureus_of_Echternach</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Town_privileges"><small>dbr</small>:Town_privileges</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Tumulus_culture"><small>dbr</small>:Tumulus_culture</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Turnhout"><small>dbr</small>:Turnhout</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Duizel"><small>dbr</small>:Duizel</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Duizel_en_Steensel"><small>dbr</small>:Duizel_en_Steensel</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Tramway_(industrial)"><small>dbr</small>:Tramway_(industrial)</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Tumulus"><small>dbr</small>:Tumulus</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Schepen"><small>dbr</small>:Schepen</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Category:Eersel"><small>dbc</small>:Eersel</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Bronze_Age"><small>dbr</small>:Bronze_Age</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Campine"><small>dbr</small>:Campine</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/County"><small>dbr</small>:County</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Knegsel"><small>dbr</small>:Knegsel</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Netherlands"><small>dbr</small>:Netherlands</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Westerhoven"><small>dbr</small>:Westerhoven</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Wil_van_der_Aalst"><small>dbr</small>:Wil_van_der_Aalst</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/William_I_of_the_Netherlands"><small>dbr</small>:William_I_of_the_Netherlands</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Willibrord"><small>dbr</small>:Willibrord</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Earl"><small>dbr</small>:Earl</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Eindhoven"><small>dbr</small>:Eindhoven</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Hilvarenbeek"><small>dbr</small>:Hilvarenbeek</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Wim_Wouters"><small>dbr</small>:Wim_Wouters</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Peace_of_Münster"><small>dbr</small>:Peace_of_Münster</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Cigar"><small>dbr</small>:Cigar</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/World_War_II"><small>dbr</small>:World_War_II</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Postel_Abbey"><small>dbr</small>:Postel_Abbey</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Tram"><small>dbr</small>:Tram</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Telephone_numbers_in_the_Netherlands"><small>dbr</small>:Telephone_numbers_in_the_Netherlands</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Aengilbertus"><small>dbr</small>:Aengilbertus</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/File:Gem-Eersel-OpenTopo.jpg"><small>dbr</small>:File:Gem-Eersel-OpenTopo.jpg</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/File:Willibroduskerk_Eersel.jpg"><small>dbr</small>:File:Willibroduskerk_Eersel.jpg</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Gaobertus"><small>dbr</small>:Gaobertus</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Verengaotus"><small>dbr</small>:Verengaotus</a></span></li>
+</ul></td></tr><tr class="odd"><td class="property"><a class="uri" href="http://dbpedia.org/property/areaCode"><small>dbp:</small>areaCode</a>
+</td><td><ul>
+	<li><span class="literal"><span property="dbp:areaCode">400497</span><small> (xsd:integer)</small></span></li>
+</ul></td></tr><tr class="even"><td class="property"><a class="uri" href="http://dbpedia.org/property/areaCodeType"><small>dbp:</small>areaCodeType</a>
+</td><td><ul>
+	<li><span class="literal"><a class="uri" rel="dbp:areaCodeType" href="http://dbpedia.org/resource/Telephone_numbers_in_the_Netherlands"><small>dbr</small>:Telephone_numbers_in_the_Netherlands</a></span></li>
+</ul></td></tr><tr class="odd"><td class="property"><a class="uri" href="http://dbpedia.org/property/centre"><small>dbp:</small>centre</a>
+</td><td><ul>
+	<li><span class="literal"><span property="dbp:centre" lang="en">Eersel</span><small> (en)</small></span></li>
+</ul></td></tr><tr class="even"><td class="property"><a class="uri" href="http://dbpedia.org/property/east"><small>dbp:</small>east</a>
+</td><td><ul>
+	<li><span class="literal"><a class="uri" rel="dbp:east" href="http://dbpedia.org/resource/Veldhoven"><small>dbr</small>:Veldhoven</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:east" href="http://dbpedia.org/resource/Eindhoven"><small>dbr</small>:Eindhoven</a></span></li>
+</ul></td></tr><tr class="odd"><td class="property"><a class="uri" href="http://dbpedia.org/property/elevationM"><small>dbp:</small>elevationM</a>
+</td><td><ul>
+	<li><span class="literal"><span property="dbp:elevationM">31</span><small> (xsd:integer)</small></span></li>
+</ul></td></tr><tr class="even"><td class="property"><a class="uri" href="http://dbpedia.org/property/flagSize"><small>dbp:</small>flagSize</a>
+</td><td><ul>
+	<li><span class="literal"><span property="dbp:flagSize">100</span><small> (xsd:integer)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="property"><a class="uri" href="http://dbpedia.org/property/governingBody"><small>dbp:</small>governingBody</a>
+</td><td><ul>
+	<li><span class="literal"><a class="uri" rel="dbp:governingBody" href="http://dbpedia.org/resource/Municipal_council_(Netherlands)"><small>dbr</small>:Municipal_council_(Netherlands)</a></span></li>
+</ul></td></tr><tr class="even"><td class="property"><a class="uri" href="http://dbpedia.org/property/imageCaption"><small>dbp:</small>imageCaption</a>
+</td><td><ul>
+	<li><span class="literal"><span property="dbp:imageCaption" lang="en">Eersel municipal hall</span><small> (en)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="property"><a class="uri" href="http://dbpedia.org/property/imageFlag"><small>dbp:</small>imageFlag</a>
+</td><td><ul>
+	<li><span class="literal"><span property="dbp:imageFlag" lang="en">Eersel vlag.svg</span><small> (en)</small></span></li>
+</ul></td></tr><tr class="even"><td class="property"><a class="uri" href="http://dbpedia.org/property/imageMap"><small>dbp:</small>imageMap</a>
+</td><td><ul>
+	<li><span class="literal"><span property="dbp:imageMap" lang="en">Map - NL - Municipality code 0770 .svg</span><small> (en)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="property"><a class="uri" href="http://dbpedia.org/property/imageShield"><small>dbp:</small>imageShield</a>
+</td><td><ul>
+	<li><span class="literal"><span property="dbp:imageShield" lang="en">Coat of arms of Eersel.svg</span><small> (en)</small></span></li>
+</ul></td></tr><tr class="even"><td class="property"><a class="uri" href="http://dbpedia.org/property/imageSkyline"><small>dbp:</small>imageSkyline</a>
+</td><td><ul>
+	<li><span class="literal"><span property="dbp:imageSkyline" lang="en">Gemeentehuis Eersel.jpg</span><small> (en)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="property"><a class="uri" href="http://dbpedia.org/property/leaderName"><small>dbp:</small>leaderName</a>
+</td><td><ul>
+	<li><span class="literal"><a class="uri" rel="dbp:leaderName" href="http://dbpedia.org/resource/Wim_Wouters"><small>dbr</small>:Wim_Wouters</a></span></li>
+</ul></td></tr><tr class="even"><td class="property"><a class="uri" href="http://dbpedia.org/property/leaderTitle"><small>dbp:</small>leaderTitle</a>
+</td><td><ul>
+	<li><span class="literal"><a class="uri" rel="dbp:leaderTitle" href="http://dbpedia.org/resource/Burgomaster"><small>dbr</small>:Burgomaster</a></span></li>
+</ul></td></tr><tr class="odd"><td class="property"><a class="uri" href="http://dbpedia.org/property/mapAlt"><small>dbp:</small>mapAlt</a>
+</td><td><ul>
+	<li><span class="literal"><span property="dbp:mapAlt" lang="en">Highlighted position of Eersel in a municipal map of North Brabant</span><small> (en)</small></span></li>
+</ul></td></tr><tr class="even"><td class="property"><a class="uri" href="http://dbpedia.org/property/mapCaption"><small>dbp:</small>mapCaption</a>
+</td><td><ul>
+	<li><span class="literal"><span property="dbp:mapCaption" lang="en">Location in North Brabant</span><small> (en)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="property"><a class="uri" href="http://dbpedia.org/property/name"><small>dbp:</small>name</a>
+</td><td><ul>
+	<li><span class="literal"><span property="dbp:name" lang="en">Eersel</span><small> (en)</small></span></li>
+</ul></td></tr><tr class="even"><td class="property"><a class="uri" href="http://dbpedia.org/property/north"><small>dbp:</small>north</a>
+</td><td><ul>
+	<li><span class="literal"><a class="uri" rel="dbp:north" href="http://dbpedia.org/resource/Oirschot"><small>dbr</small>:Oirschot</a></span></li>
+</ul></td></tr><tr class="odd"><td class="property"><a class="uri" href="http://dbpedia.org/property/populationDemonym"><small>dbp:</small>populationDemonym</a>
+</td><td><ul>
+	<li><span class="literal"><span property="dbp:populationDemonym" lang="en">Eerselnaar</span><small> (en)</small></span></li>
+</ul></td></tr><tr class="even"><td class="property"><a class="uri" href="http://dbpedia.org/property/postalCode"><small>dbp:</small>postalCode</a>
+</td><td><ul>
+	<li><span class="literal"><span property="dbp:postalCode">5511</span><small> (xsd:integer)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="property"><a class="uri" href="http://dbpedia.org/property/postalCodeType"><small>dbp:</small>postalCodeType</a>
+</td><td><ul>
+	<li><span class="literal"><a class="uri" rel="dbp:postalCodeType" href="http://dbpedia.org/resource/Postal_codes_in_the_Netherlands"><small>dbr</small>:Postal_codes_in_the_Netherlands</a></span></li>
+</ul></td></tr><tr class="even"><td class="property"><a class="uri" href="http://dbpedia.org/property/settlementType"><small>dbp:</small>settlementType</a>
+</td><td><ul>
+	<li><span class="literal"><a class="uri" rel="dbp:settlementType" href="http://dbpedia.org/resource/List_of_municipalities_of_the_Netherlands"><small>dbr</small>:List_of_municipalities_of_the_Netherlands</a></span></li>
+</ul></td></tr><tr class="odd"><td class="property"><a class="uri" href="http://dbpedia.org/property/shieldSize"><small>dbp:</small>shieldSize</a>
+</td><td><ul>
+	<li><span class="literal"><span property="dbp:shieldSize">100</span><small> (xsd:integer)</small></span></li>
+</ul></td></tr><tr class="even"><td class="property"><a class="uri" href="http://dbpedia.org/property/south"><small>dbp:</small>south</a>
+</td><td><ul>
+	<li><span class="literal"><a class="uri" rel="dbp:south" href="http://dbpedia.org/resource/Bergeijk"><small>dbr</small>:Bergeijk</a></span></li>
+</ul></td></tr><tr class="odd"><td class="property"><a class="uri" href="http://dbpedia.org/property/subdivisionName"><small>dbp:</small>subdivisionName</a>
+</td><td><ul>
+	<li><span class="literal"><a class="uri" rel="dbp:subdivisionName" href="http://dbpedia.org/resource/North_Brabant"><small>dbr</small>:North_Brabant</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:subdivisionName" href="http://dbpedia.org/resource/Netherlands"><small>dbr</small>:Netherlands</a></span></li>
+</ul></td></tr><tr class="even"><td class="property"><a class="uri" href="http://dbpedia.org/property/subdivisionType"><small>dbp:</small>subdivisionType</a>
+</td><td><ul>
+	<li><span class="literal"><a class="uri" rel="dbp:subdivisionType" href="http://dbpedia.org/resource/Provinces_of_the_Netherlands"><small>dbr</small>:Provinces_of_the_Netherlands</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:subdivisionType" href="http://dbpedia.org/resource/List_of_sovereign_states"><small>dbr</small>:List_of_sovereign_states</a></span></li>
+</ul></td></tr><tr class="odd"><td class="property"><a class="uri" href="http://dbpedia.org/property/timezone"><small>dbp:</small>timezone</a>
+</td><td><ul>
+	<li><span class="literal"><a class="uri" rel="dbp:timezone" href="http://dbpedia.org/resource/Central_European_Time"><small>dbr</small>:Central_European_Time</a></span></li>
+</ul></td></tr><tr class="even"><td class="property"><a class="uri" href="http://dbpedia.org/property/timezoneDst"><small>dbp:</small>timezoneDst</a>
+</td><td><ul>
+	<li><span class="literal"><a class="uri" rel="dbp:timezoneDst" href="http://dbpedia.org/resource/Central_European_Summer_Time"><small>dbr</small>:Central_European_Summer_Time</a></span></li>
+</ul></td></tr><tr class="odd"><td class="property"><a class="uri" href="http://dbpedia.org/property/unitPref"><small>dbp:</small>unitPref</a>
+</td><td><ul>
+	<li><span class="literal"><span property="dbp:unitPref" lang="en">Metric</span><small> (en)</small></span></li>
+</ul></td></tr><tr class="even"><td class="property"><a class="uri" href="http://dbpedia.org/property/utcOffset"><small>dbp:</small>utcOffset</a>
+</td><td><ul>
+	<li><span class="literal"><span property="dbp:utcOffset" lang="en">+1</span><small> (en)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="property"><a class="uri" href="http://dbpedia.org/property/utcOffsetDst"><small>dbp:</small>utcOffsetDst</a>
+</td><td><ul>
+	<li><span class="literal"><span property="dbp:utcOffsetDst" lang="en">+2</span><small> (en)</small></span></li>
+</ul></td></tr><tr class="even"><td class="property"><a class="uri" href="http://dbpedia.org/property/website"><small>dbp:</small>website</a>
+</td><td><ul>
+	<li><span class="literal"><a class="uri" rel="dbp:website nofollow" href="http://www.eersel.nl">http://www.eersel.nl</a></span></li>
+</ul></td></tr><tr class="odd"><td class="property"><a class="uri" href="http://dbpedia.org/property/west"><small>dbp:</small>west</a>
+</td><td><ul>
+	<li><span class="literal"><a class="uri" rel="dbp:west" href="http://dbpedia.org/resource/Bladel"><small>dbr</small>:Bladel</a></span></li>
+</ul></td></tr><tr class="even"><td class="property"><a class="uri" href="http://dbpedia.org/property/wikiPageUsesTemplate"><small>dbp:</small>wikiPageUsesTemplate</a>
+</td><td><ul>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" href="http://dbpedia.org/resource/Template:Pronunciation"><small>dbt</small>:Pronunciation</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" href="http://dbpedia.org/resource/Template:Authority_control"><small>dbt</small>:Authority_control</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" href="http://dbpedia.org/resource/Template:Columns-list"><small>dbt</small>:Columns-list</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" href="http://dbpedia.org/resource/Template:Commons_category-inline"><small>dbt</small>:Commons_category-inline</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" href="http://dbpedia.org/resource/Template:Coord"><small>dbt</small>:Coord</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" href="http://dbpedia.org/resource/Template:Geographic_location"><small>dbt</small>:Geographic_location</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" href="http://dbpedia.org/resource/Template:Infobox_settlement"><small>dbt</small>:Infobox_settlement</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" href="http://dbpedia.org/resource/Template:North_Brabant_Province"><small>dbt</small>:North_Brabant_Province</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" href="http://dbpedia.org/resource/Template:Reflist"><small>dbt</small>:Reflist</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" href="http://dbpedia.org/resource/Template:Dutch_municipality_land_area"><small>dbt</small>:Dutch_municipality_land_area</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" href="http://dbpedia.org/resource/Template:Dutch_municipality_population"><small>dbt</small>:Dutch_municipality_population</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" href="http://dbpedia.org/resource/Template:Dutch_municipality_population_density"><small>dbt</small>:Dutch_municipality_population_density</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" href="http://dbpedia.org/resource/Template:Dutch_municipality_total_area"><small>dbt</small>:Dutch_municipality_total_area</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" href="http://dbpedia.org/resource/Template:Dutch_municipality_water_area"><small>dbt</small>:Dutch_municipality_water_area</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" href="http://dbpedia.org/resource/Template:MONTHNAME"><small>dbt</small>:MONTHNAME</a></span></li>
+</ul></td></tr><tr class="odd"><td class="property"><a class="uri" href="http://purl.org/dc/terms/subject"><small>dct:</small>subject</a>
+</td><td><ul>
+	<li><span class="literal"><a class="uri" rel="dct:subject" href="http://dbpedia.org/resource/Category:Municipalities_of_North_Brabant"><small>dbc</small>:Municipalities_of_North_Brabant</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dct:subject" href="http://dbpedia.org/resource/Category:Populated_places_in_North_Brabant"><small>dbc</small>:Populated_places_in_North_Brabant</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dct:subject" href="http://dbpedia.org/resource/Category:Eersel"><small>dbc</small>:Eersel</a></span></li>
+</ul></td></tr><tr class="even"><td class="property"><a class="uri" href="http://www.georss.org/georss/point"><small>georss:</small>point</a>
+</td><td><ul>
+	<li><span class="literal"><span property="georss:point" prefix="georss: http://www.georss.org/georss/">51.35 5.316666666666666</span></span></li>
+</ul></td></tr><tr class="odd"><td class="property"><a class="uri" href="http://www.w3.org/1999/02/22-rdf-syntax-ns#type"><small>rdf:</small>type</a>
+</td><td><ul>
+	<li><span class="literal"><a class="uri" rel="rdf:type" href="http://www.w3.org/2002/07/owl#Thing"><small>owl</small>:Thing</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" href="http://dbpedia.org/ontology/Place"><small>dbo</small>:Place</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" href="http://dbpedia.org/ontology/Location"><small>dbo</small>:Location</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" href="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"><small>geo</small>:SpatialThing</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" href="http://dbpedia.org/class/yago/Object100002684"><small>yago</small>:Object100002684</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" href="http://dbpedia.org/class/yago/PhysicalEntity100001930"><small>yago</small>:PhysicalEntity100001930</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" href="http://dbpedia.org/class/yago/Region108630985"><small>yago</small>:Region108630985</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" href="http://dbpedia.org/class/yago/Site108651247"><small>yago</small>:Site108651247</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" href="http://dbpedia.org/class/yago/Tract108673395"><small>yago</small>:Tract108673395</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" href="http://dbpedia.org/class/yago/UrbanArea108675967"><small>yago</small>:UrbanArea108675967</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" href="http://dbpedia.org/class/yago/WikicatPopulatedPlacesInNorthBrabant"><small>yago</small>:WikicatPopulatedPlacesInNorthBrabant</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" href="http://dbpedia.org/class/yago/YagoGeoEntity"><small>yago</small>:YagoGeoEntity</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" href="http://dbpedia.org/class/yago/YagoLegalActorGeo"><small>yago</small>:YagoLegalActorGeo</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" href="http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity"><small>yago</small>:YagoPermanentlyLocatedEntity</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" href="http://dbpedia.org/class/yago/WikicatMunicipalitiesOfNorthBrabant"><small>yago</small>:WikicatMunicipalitiesOfNorthBrabant</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" href="http://schema.org/Place"><small>schema</small>:Place</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" href="http://www.wikidata.org/entity/Q3957"><small>wikidata</small>:Q3957</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" href="http://www.wikidata.org/entity/Q486972"><small>wikidata</small>:Q486972</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" href="http://dbpedia.org/ontology/Settlement"><small>dbo</small>:Settlement</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" href="http://dbpedia.org/ontology/Town"><small>dbo</small>:Town</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" href="http://dbpedia.org/ontology/PopulatedPlace"><small>dbo</small>:PopulatedPlace</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" href="http://dbpedia.org/class/yago/AdministrativeDistrict108491826"><small>yago</small>:AdministrativeDistrict108491826</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" href="http://dbpedia.org/class/yago/District108552138"><small>yago</small>:District108552138</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" href="http://dbpedia.org/class/yago/GeographicalArea108574314"><small>yago</small>:GeographicalArea108574314</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" href="http://dbpedia.org/class/yago/Location100027167"><small>yago</small>:Location100027167</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" href="http://dbpedia.org/class/yago/Municipality108626283"><small>yago</small>:Municipality108626283</a></span></li>
+</ul></td></tr><tr class="even"><td class="property"><a class="uri" href="http://www.w3.org/2000/01/rdf-schema#comment"><small>rdfs:</small>comment</a>
+</td><td><ul>
+	<li style="display:none;"><span class="literal"><span property="rdfs:comment" lang="ar">إيرسل   بلدية وبلدة بمقاطعة شمال برابنت، جنوبي هولندا.</span><small> (ar)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="rdfs:comment" lang="ca">Eersel és un municipi de la província de Brabant Septentrional, al sud dels Països Baixos. L&#39;1 de gener del 2009 tenia 18.200 habitants repartits sobre una superfície de 83,28 km² (dels quals 0,87 km² corresponen a aigua). Limita al nord amb Oirschot i Eindhoven, a l&#39;oest amb Bladel, a l&#39;est amb Veldhoven i al sud amb Bergeijk.</span><small> (ca)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="rdfs:comment" lang="eo">Eersel estas urbo kaj municipo en la provinco Norda Brabanto en Nederlando.</span><small> (eo)</small></span></li>
+	<li><span class="literal"><span property="rdfs:comment" lang="en">Eersel () is a municipality and a town in southern Netherlands in the province of North Brabant. Eersel is situated in the Campine (Kempen) area. Eersel is part of the Acht Zaligheden (Eight Delights) and known for its attractive market. This market, together with the Hint, has been declared a protected village on October 19, 1967. This has been done to guarantee the future survival of its authentic character. The spoken language is Kempenlands (an East Brabantian dialect, which is very similar to colloquial Dutch).</span><small> (en)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="rdfs:comment" lang="de">Eersel () ist eine Gemeinde in der niederländischen Provinz Noord-Brabant. Die frühere Gemeinde  wurde 1922, die frühere Gemeinde  1997 eingemeindet.</span><small> (de)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="rdfs:comment" lang="es">Eersel es un municipio de la provincia de Brabante Septentrional en los Países Bajos. El 30 de abril de 2017 contaba con una población de 18.628 habitantes,​ sobre una superficie de 83,33 km², de los que 0,86 km² cubiertos por el agua, con una densidad de 226 h/km². El municipio lo forman, con Eersel, el antiguo municipio de Duizel y Steensel, agregado en 1922, y el de Vessem, Wintelre y Knegsel, que se incorporó en la reorganización municipal de 1997.​ Está comunicado por la autopista A67.</span><small> (es)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="rdfs:comment" lang="eu">Eersel (  (i · ?)) Herbehereetako Ipar Brabante probintziako herria da. 2010eko urtarrilaren 1eko erroldaren arabera, herriak 18.166 biztanle zituen.</span><small> (eu)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="rdfs:comment" lang="fr">Eersel est une commune des Pays-Bas de la province du Brabant-Septentrional.</span><small> (fr)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="rdfs:comment" lang="in">Eersel, adalah sebuah gemeente Belanda yang terletak di provinsi Noord Brabant. Pada tahun 2007 daerah ini memiliki penduduk sebesar 18.032 jiwa.</span><small> (in)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="rdfs:comment" lang="it">Eersel è una municipalità dei Paesi Bassi di 18.166 abitanti situata nella provincia di Brabante Settentrionale.</span><small> (it)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="rdfs:comment" lang="nl">Eersel (  (info / uitleg)) (Brabants: Irsel) is een gemeente in de provincie Noord-Brabant, Nederland.</span><small> (nl)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="rdfs:comment" lang="pt">Eersel é um município no sul dos Países Baixos na província Brabante do Norte. Os municípios históricos ,  e  foram repectivamente anexados nos anos de 1922, e 1997.</span><small> (pt)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="rdfs:comment" lang="pl">Eersel – miasto i gmina w prowincji Brabancja Północna w Holandii. Populacja gminy w 2014 roku wyniosła 18 201 mieszkańców.</span><small> (pl)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="rdfs:comment" lang="sv">Eersel är en kommun i provinsen Noord-Brabant i Nederländerna. Kommunens totala area är 83,28 km² (där 0,84 km² är vatten) och invånarantalet är 18 171 invånare (februari 2012).</span><small> (sv)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="rdfs:comment" lang="zh">埃爾瑟爾（荷蘭語：Eersel）是荷蘭的一個市鎮，位於荷蘭南部，屬於北布拉班特省。埃爾瑟爾以其獨特的市場而著稱。</span><small> (zh)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="property"><a class="uri" href="http://www.w3.org/2000/01/rdf-schema#label"><small>rdfs:</small>label</a>
+</td><td><ul>
+	<li><span class="literal"><span property="rdfs:label" lang="en">Eersel</span><small> (en)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="rdfs:label" lang="ar">إيرسل</span><small> (ar)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="rdfs:label" lang="ca">Eersel</span><small> (ca)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="rdfs:label" lang="de">Eersel</span><small> (de)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="rdfs:label" lang="eo">Eersel</span><small> (eo)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="rdfs:label" lang="es">Eersel</span><small> (es)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="rdfs:label" lang="eu">Eersel</span><small> (eu)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="rdfs:label" lang="fr">Eersel (commune)</span><small> (fr)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="rdfs:label" lang="in">Eersel</span><small> (in)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="rdfs:label" lang="it">Eersel</span><small> (it)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="rdfs:label" lang="nl">Eersel (gemeente)</span><small> (nl)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="rdfs:label" lang="pl">Eersel</span><small> (pl)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="rdfs:label" lang="pt">Eersel</span><small> (pt)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="rdfs:label" lang="sv">Eersel</span><small> (sv)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="rdfs:label" lang="zh">埃爾瑟爾</span><small> (zh)</small></span></li>
+</ul></td></tr><tr class="even"><td class="property"><a class="uri" href="http://www.w3.org/2002/07/owl#sameAs"><small>owl:</small>sameAs</a>
+</td><td><ul>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://rdf.freebase.com/ns/m.0vl9h"><small>freebase</small>:Eersel</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://linkedgeodata.org/triplify/node42458294"><small>lgdt</small>:Eersel</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://war.dbpedia.org/resource/Eersel"><small>dbpedia-war</small>:Eersel</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://sws.geonames.org/2756342/"><small>geodata</small>:Eersel</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://sv.dbpedia.org/resource/Eersel"><small>dbpedia-sv</small>:Eersel</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://da.dbpedia.org/resource/Eersel"><small>dbpedia-da</small>:Eersel</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://gadm.geovocab.org/id/2_24439">http://gadm.geovocab.org/id/2_24439</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://id.dbpedia.org/resource/Eersel"><small>dbpedia-id</small>:Eersel</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://yago-knowledge.org/resource/Eersel"><small>yago-res</small>:Eersel</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://jv.dbpedia.org/resource/Eersel">http://jv.dbpedia.org/resource/Eersel</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://hy.dbpedia.org/resource/Էյրսել_(համայնք)">http://hy.dbpedia.org/resource/Էյրսել_(համայնք)</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://vi.dbpedia.org/resource/Eersel"><small>dbpedia-vi</small>:Eersel</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://www.wikidata.org/entity/Q9831"><small>wikidata</small>:Eersel</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://pt.dbpedia.org/resource/Eersel"><small>dbpedia-pt</small>:Eersel</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://commons.dbpedia.org/resource/Eersel"><small>dbpedia-commons</small>:Eersel</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://nl.dbpedia.org/resource/Eersel_(gemeente)"><small>dbpedia-nl</small>:Eersel</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://sws.geonames.org/2756341/"><small>geodata</small>:Eersel</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://es.dbpedia.org/resource/Eersel"><small>dbpedia-es</small>:Eersel</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://fa.dbpedia.org/resource/ایرسل"><small>dbpedia-fa</small>:Eersel</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://zh.dbpedia.org/resource/埃爾瑟爾"><small>dbpedia-zh</small>:Eersel</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://eu.dbpedia.org/resource/Eersel"><small>dbpedia-eu</small>:Eersel</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://de.dbpedia.org/resource/Eersel"><small>dbpedia-de</small>:Eersel</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://vo.dbpedia.org/resource/Eersel"><small>dbpedia-vo</small>:Eersel</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://it.dbpedia.org/resource/Eersel"><small>dbpedia-it</small>:Eersel</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://ar.dbpedia.org/resource/إيرسل"><small>dbpedia-ar</small>:Eersel</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://ca.dbpedia.org/resource/Eersel"><small>dbpedia-ca</small>:Eersel</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://li.dbpedia.org/resource/Eersel">http://li.dbpedia.org/resource/Eersel</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://sq.dbpedia.org/resource/Eersel"><small>dbpedia-sq</small>:Eersel</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://ceb.dbpedia.org/resource/Gemeente_Eersel">http://ceb.dbpedia.org/resource/Gemeente_Eersel</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://ms.dbpedia.org/resource/Eersel"><small>dbpedia-ms</small>:Eersel</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://an.dbpedia.org/resource/Eersel"><small>dbpedia-an</small>:Eersel</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://eo.dbpedia.org/resource/Eersel"><small>dbpedia-eo</small>:Eersel</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://fr.dbpedia.org/resource/Eersel_(commune)"><small>dbpedia-fr</small>:Eersel</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="https://global.dbpedia.org/id/57UA8">https://global.dbpedia.org/id/57UA8</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://pl.dbpedia.org/resource/Eersel"><small>dbpedia-pl</small>:Eersel</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://ro.dbpedia.org/resource/Eersel"><small>dbpedia-ro</small>:Eersel</a></span></li>
+</ul></td></tr><tr class="odd"><td class="property"><a class="uri" href="http://www.w3.org/2003/01/geo/wgs84_pos#geometry"><small>geo:</small>geometry</a>
+</td><td><ul>
+	<li><span class="literal"><span property="geo:geometry" prefix="geo: http://www.w3.org/2003/01/geo/wgs84_pos#">POINT(5.3166666030884 51.349998474121)</span></span></li>
+</ul></td></tr><tr class="even"><td class="property"><a class="uri" href="http://www.w3.org/2003/01/geo/wgs84_pos#lat"><small>geo:</small>lat</a>
+</td><td><ul>
+	<li><span class="literal"><span property="geo:lat" prefix="geo: http://www.w3.org/2003/01/geo/wgs84_pos#">51.349998</span><small> (xsd:float)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="property"><a class="uri" href="http://www.w3.org/2003/01/geo/wgs84_pos#long"><small>geo:</small>long</a>
+</td><td><ul>
+	<li><span class="literal"><span property="geo:long" prefix="geo: http://www.w3.org/2003/01/geo/wgs84_pos#">5.316667</span><small> (xsd:float)</small></span></li>
+</ul></td></tr><tr class="even"><td class="property"><a class="uri" href="http://www.w3.org/ns/prov#wasDerivedFrom"><small>prov:</small>wasDerivedFrom</a>
+</td><td><ul>
+	<li><span class="literal"><a class="uri" rel="prov:wasDerivedFrom" href="http://en.wikipedia.org/wiki/Eersel?oldid=957459556&amp;ns=0"><small>wikipedia-en</small>:Eersel?oldid=957459556&amp;ns=0</a></span></li>
+</ul></td></tr><tr class="odd"><td class="property"><a class="uri" href="http://xmlns.com/foaf/0.1/depiction"><small>foaf:</small>depiction</a>
+</td><td><ul>
+	<li><span class="literal"><a class="uri" rel="foaf:depiction" href="http://commons.wikimedia.org/wiki/Special:FilePath/Gemeentehuis_Eersel.jpg"><small>wiki-commons</small>:Special:FilePath/Gemeentehuis_Eersel.jpg</a></span></li>
+</ul></td></tr><tr class="even"><td class="property"><a class="uri" href="http://xmlns.com/foaf/0.1/homepage"><small>foaf:</small>homepage</a>
+</td><td><ul>
+	<li><span class="literal"><a class="uri" rel="foaf:homepage nofollow" href="http://www.eersel.nl">http://www.eersel.nl</a></span></li>
+</ul></td></tr><tr class="odd"><td class="property"><a class="uri" href="http://xmlns.com/foaf/0.1/isPrimaryTopicOf"><small>foaf:</small>isPrimaryTopicOf</a>
+</td><td><ul>
+	<li><span class="literal"><a class="uri" rel="foaf:isPrimaryTopicOf" href="http://en.wikipedia.org/wiki/Eersel"><small>wikipedia-en</small>:Eersel</a></span></li>
+</ul></td></tr><tr class="even"><td class="property"><a class="uri" href="http://xmlns.com/foaf/0.1/name"><small>foaf:</small>name</a>
+</td><td><ul>
+	<li><span class="literal"><span property="foaf:name" lang="en">Eersel</span><small> (en)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="property">is <a class="uri" href="http://dbpedia.org/ontology/birthPlace"><small>dbo:</small>birthPlace</a>
+ of</td><td><ul>
+	<li><span class="literal"><a class="uri" rev="dbo:birthPlace" href="http://dbpedia.org/resource/Jan_Franco"><small>dbr</small>:Jan_Franco</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:birthPlace" href="http://dbpedia.org/resource/Wil_van_der_Aalst"><small>dbr</small>:Wil_van_der_Aalst</a></span></li>
+</ul></td></tr><tr class="even"><td class="property">is <a class="uri" href="http://dbpedia.org/ontology/subdivision"><small>dbo:</small>subdivision</a>
+ of</td><td><ul>
+	<li><span class="literal"><a class="uri" rev="dbo:subdivision" href="http://dbpedia.org/resource/Wintelre"><small>dbr</small>:Wintelre</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:subdivision" href="http://dbpedia.org/resource/Steensel"><small>dbr</small>:Steensel</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:subdivision" href="http://dbpedia.org/resource/Vessem"><small>dbr</small>:Vessem</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:subdivision" href="http://dbpedia.org/resource/Duizel"><small>dbr</small>:Duizel</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:subdivision" href="http://dbpedia.org/resource/Knegsel"><small>dbr</small>:Knegsel</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:subdivision" href="http://dbpedia.org/resource/Metropoolregio_Eindhoven"><small>dbr</small>:Metropoolregio_Eindhoven</a></span></li>
+</ul></td></tr><tr class="odd"><td class="property">is <a class="uri" href="http://dbpedia.org/ontology/wikiPageRedirects"><small>dbo:</small>wikiPageRedirects</a>
+ of</td><td><ul>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageRedirects" href="http://dbpedia.org/resource/Eersel_(plaats)"><small>dbr</small>:Eersel_(plaats)</a></span></li>
+</ul></td></tr><tr class="even"><td class="property">is <a class="uri" href="http://dbpedia.org/ontology/wikiPageWikiLink"><small>dbo:</small>wikiPageWikiLink</a>
+ of</td><td><ul>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Valkenswaard_War_Cemetery"><small>dbr</small>:Valkenswaard_War_Cemetery</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Veldhoven"><small>dbr</small>:Veldhoven</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/List_of_motorways_in_the_Netherlands"><small>dbr</small>:List_of_motorways_in_the_Netherlands</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/List_of_museums_in_the_Netherlands"><small>dbr</small>:List_of_museums_in_the_Netherlands</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/List_of_reggae_festivals"><small>dbr</small>:List_of_reggae_festivals</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Wintelre"><small>dbr</small>:Wintelre</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Bladel"><small>dbr</small>:Bladel</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Borislav_Ivkov"><small>dbr</small>:Borislav_Ivkov</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Eersel_(plaats)"><small>dbr</small>:Eersel_(plaats)</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/North_Brabant"><small>dbr</small>:North_Brabant</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Oirschot"><small>dbr</small>:Oirschot</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Van_Iersel"><small>dbr</small>:Van_Iersel</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/List_of_populated_places_in_the_Netherlands"><small>dbr</small>:List_of_populated_places_in_the_Netherlands</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Steensel"><small>dbr</small>:Steensel</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Vessem"><small>dbr</small>:Vessem</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Cartierheide"><small>dbr</small>:Cartierheide</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Gender_(stream)"><small>dbr</small>:Gender_(stream)</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Bent_Larsen"><small>dbr</small>:Bent_Larsen</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Bergeijk"><small>dbr</small>:Bergeijk</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/List_of_Michelin_starred_restaurants_in_the_Netherlands"><small>dbr</small>:List_of_Michelin_starred_restaurants_in_the_Netherlands</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Mr._Belt_&amp;_Wezol"><small>dbr</small>:Mr._Belt_&amp;_Wezol</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Run_(stream)"><small>dbr</small>:Run_(stream)</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Ursula_Levy"><small>dbr</small>:Ursula_Levy</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/List_of_Dutch_records_in_athletics"><small>dbr</small>:List_of_Dutch_records_in_athletics</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/COROP"><small>dbr</small>:COROP</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Duizel"><small>dbr</small>:Duizel</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Duizel_en_Steensel"><small>dbr</small>:Duizel_en_Steensel</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Jan_Franco"><small>dbr</small>:Jan_Franco</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/List_of_cities,_towns_and_villages_in_North_Brabant"><small>dbr</small>:List_of_cities,_towns_and_villages_in_North_Brabant</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/List_of_electronic_music_festivals"><small>dbr</small>:List_of_electronic_music_festivals</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/De_Acht_Zaligheden"><small>dbr</small>:De_Acht_Zaligheden</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Campine"><small>dbr</small>:Campine</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Knegsel"><small>dbr</small>:Knegsel</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/European_route_E34"><small>dbr</small>:European_route_E34</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Wil_van_der_Aalst"><small>dbr</small>:Wil_van_der_Aalst</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/List_of_municipal_flags_of_the_Netherlands"><small>dbr</small>:List_of_municipal_flags_of_the_Netherlands</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/List_of_museums_in_North_Brabant"><small>dbr</small>:List_of_museums_in_North_Brabant</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Eindhoven"><small>dbr</small>:Eindhoven</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Metropoolregio_Eindhoven"><small>dbr</small>:Metropoolregio_Eindhoven</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/World_Chess_Championship_1969"><small>dbr</small>:World_Chess_Championship_1969</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Vessem,_Wintelre_en_Knegsel"><small>dbr</small>:Vessem,_Wintelre_en_Knegsel</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Telephone_numbers_in_the_Netherlands"><small>dbr</small>:Telephone_numbers_in_the_Netherlands</a></span></li>
+</ul></td></tr><tr class="odd"><td class="property">is <a class="uri" href="http://dbpedia.org/property/birthPlace"><small>dbp:</small>birthPlace</a>
+ of</td><td><ul>
+	<li><span class="literal"><a class="uri" rev="dbp:birthPlace" href="http://dbpedia.org/resource/Jan_Franco"><small>dbr</small>:Jan_Franco</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbp:birthPlace" href="http://dbpedia.org/resource/Wil_van_der_Aalst"><small>dbr</small>:Wil_van_der_Aalst</a></span></li>
+</ul></td></tr><tr class="even"><td class="property">is <a class="uri" href="http://dbpedia.org/property/city"><small>dbp:</small>city</a>
+ of</td><td><ul>
+	<li><span class="literal"><a class="uri" rev="dbp:city" href="http://dbpedia.org/resource/De_Acht_Zaligheden"><small>dbr</small>:De_Acht_Zaligheden</a></span></li>
+</ul></td></tr><tr class="odd"><td class="property">is <a class="uri" href="http://dbpedia.org/property/east"><small>dbp:</small>east</a>
+ of</td><td><ul>
+	<li><span class="literal"><a class="uri" rev="dbp:east" href="http://dbpedia.org/resource/Bladel"><small>dbr</small>:Bladel</a></span></li>
+</ul></td></tr><tr class="even"><td class="property">is <a class="uri" href="http://dbpedia.org/property/north"><small>dbp:</small>north</a>
+ of</td><td><ul>
+	<li><span class="literal"><a class="uri" rev="dbp:north" href="http://dbpedia.org/resource/Bergeijk"><small>dbr</small>:Bergeijk</a></span></li>
+</ul></td></tr><tr class="odd"><td class="property">is <a class="uri" href="http://dbpedia.org/property/p"><small>dbp:</small>p</a>
+ of</td><td><ul>
+	<li><span class="literal"><a class="uri" rev="dbp:p" href="http://dbpedia.org/resource/Metropoolregio_Eindhoven"><small>dbr</small>:Metropoolregio_Eindhoven</a></span></li>
+</ul></td></tr><tr class="even"><td class="property">is <a class="uri" href="http://dbpedia.org/property/south"><small>dbp:</small>south</a>
+ of</td><td><ul>
+	<li><span class="literal"><a class="uri" rev="dbp:south" href="http://dbpedia.org/resource/Oirschot"><small>dbr</small>:Oirschot</a></span></li>
+</ul></td></tr><tr class="odd"><td class="property">is <a class="uri" href="http://dbpedia.org/property/west"><small>dbp:</small>west</a>
+ of</td><td><ul>
+	<li><span class="literal"><a class="uri" rev="dbp:west" href="http://dbpedia.org/resource/Veldhoven"><small>dbr</small>:Veldhoven</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbp:west" href="http://dbpedia.org/resource/Eindhoven"><small>dbr</small>:Eindhoven</a></span></li>
+</ul></td></tr><tr class="even"><td class="property">is <a class="uri" href="http://xmlns.com/foaf/0.1/primaryTopic"><small>foaf:</small>primaryTopic</a>
+ of</td><td><ul>
+	<li><span class="literal"><a class="uri" rev="foaf:primaryTopic" href="http://en.wikipedia.org/wiki/Eersel"><small>wikipedia-en</small>:Eersel</a></span></li>
+</ul></td></tr>
+      </table>
+    </div>
+<!-- row  -->
+</div>
+</div>
+<!-- footer -->
+<div class="footer">
+    <div class="container">
+	<a href="https://virtuoso.openlinksw.com" title="OpenLink Virtuoso"><img class="powered_by" src="/statics/images/virt_power_no_border.png" alt="Powered by OpenLink Virtuoso"/></a>&nbsp; &nbsp;
+	<a href="http://linkeddata.org/"><img alt="This material is Open Knowledge" src="/statics/images/LoDLogo.gif"/></a> &nbsp; &nbsp;
+	<a href="http://dbpedia.org/sparql"><img alt="W3C Semantic Web Technology" src="/statics/images/sw-sparql-blue.png"/></a> &nbsp;  &nbsp;
+	<a href="https://opendefinition.org/"><img alt="This material is Open Knowledge" src="/statics/images/od_80x15_red_green.png"/></a>&nbsp; &nbsp;
+	<span style="display:none;" about=""
+	    resource="http://www.w3.org/TR/rdfa-syntax"
+	    rel="dc:conformsTo">
+	    <a href="https://validator.w3.org/check?uri=referer">
+		<img src="https://www.w3.org/Icons/valid-xhtml-rdfa" alt="Valid XHTML + RDFa" height="27px" />
+	    </a>
+	</span>
+	<br />
+	<div class="text-muted">
+	    This content was extracted from <a href="http://en.wikipedia.org/wiki/Eersel">Wikipedia</a> and is licensed under the <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike 3.0 Unported License</a>
+
+	</div>
+    </div>
+</div>
+<!-- #footer -->
+<!--#content-->
+    <!--script type="text/javascript">
+     Place any Javascript code e.g. Google Analytics scripts
+    </script-->
+    
+    <script type="text/javascript" src="/statics/js/jquery.min.js"></script>
+    <script type="text/javascript" src="/statics/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="/statics/js/dbpedia.js"></script>
+</body>
+</html>

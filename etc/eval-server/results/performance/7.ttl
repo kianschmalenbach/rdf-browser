@@ -1,0 +1,714 @@
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+<http://dbpedia.org/resource/The_Age_of_Empire:_1875\u20131914>	dbo:wikiPageWikiLink	dbr:Economy_of_Germany .
+dbr:Austria	dbo:wikiPageWikiLink	dbr:Economy_of_Germany .
+dbr:Anti-German_sentiment	dbo:wikiPageWikiLink	dbr:Economy_of_Germany .
+dbr:German_model	dbo:wikiPageWikiLink	dbr:Economy_of_Germany .
+dbr:Opole	dbo:wikiPageWikiLink	dbr:Economy_of_Germany .
+dbr:The_Commanding_Heights	dbo:wikiPageWikiLink	dbr:Economy_of_Germany .
+dbr:Maginot_Line	dbo:wikiPageWikiLink	dbr:Economy_of_Germany .
+dbr:Science_and_technology_in_Germany	dbo:wikiPageWikiLink	dbr:Economy_of_Germany .
+dbr:Hartz_concept	dbo:wikiPageWikiLink	dbr:Economy_of_Germany .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Fissler	dbp:locationCountry	dbr:Economy_of_Germany ;
+	dbo:wikiPageWikiLink	dbr:Economy_of_Germany .
+dbr:Deutsche_Rundschau	dbo:wikiPageWikiLink	dbr:Economy_of_Germany .
+dbr:Jens_Weidmann	dbo:wikiPageWikiLink	dbr:Economy_of_Germany .
+dbr:Gemeinschaftsdiagnose	dbo:wikiPageWikiLink	dbr:Economy_of_Germany .
+dbr:List_of_the_largest_trading_partners_of_Germany	dbo:wikiPageWikiLink	dbr:Economy_of_Germany .
+<http://dbpedia.org/resource/Nomos_Glash\u00FCtte>	dbo:wikiPageWikiLink	dbr:Economy_of_Germany .
+<http://dbpedia.org/resource/Gewerkschaft_Deutscher_Lokomotivf\u00FChrer>	dbo:wikiPageWikiLink	dbr:Economy_of_Germany .
+dbr:Tropolys	dbo:wikiPageWikiLink	dbr:Economy_of_Germany .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+wikipedia-en:Economy_of_Germany	foaf:primaryTopic	dbr:Economy_of_Germany .
+<http://dbpedia.org/resource/Nestl\u00E9_Deutschland>	dbo:wikiPageWikiLink	dbr:Economy_of_Germany .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:New_states_of_Germany	rdfs:seeAlso	dbr:Economy_of_Germany .
+dbr:Old_states_of_Germany	rdfs:seeAlso	dbr:Economy_of_Germany .
+dbr:Health_care_reform	dbo:wikiPageWikiLink	dbr:Economy_of_Germany .
+dbr:Scottish_national_identity	dbo:wikiPageWikiLink	dbr:Economy_of_Germany .
+<http://dbpedia.org/resource/Brioni_(brand)>	dbo:wikiPageWikiLink	dbr:Economy_of_Germany .
+dbr:Brzeg	dbo:wikiPageWikiLink	dbr:Economy_of_Germany .
+dbr:Deutsche_Bundesbank	dbo:wikiPageWikiLink	dbr:Economy_of_Germany .
+<http://dbpedia.org/resource/D\u00FCsseldorf-Grafenberg>	dbo:wikiPageWikiLink	dbr:Economy_of_Germany .
+dbr:Intersnack	dbo:wikiPageWikiLink	dbr:Economy_of_Germany .
+dbr:Emirates_business_model	dbo:wikiPageWikiLink	dbr:Economy_of_Germany .
+dbr:Banking_in_Germany	dbo:wikiPageWikiLink	dbr:Economy_of_Germany .
+dbr:California	dbo:wikiPageWikiLink	dbr:Economy_of_Germany .
+dbr:Blachownia	dbo:wikiPageWikiLink	dbr:Economy_of_Germany .
+dbr:Economic_Council_Germany	dbo:wikiPageWikiLink	dbr:Economy_of_Germany .
+dbr:List_of_German_cities_by_GDP	dbo:wikiPageWikiLink	dbr:Economy_of_Germany .
+dbr:Bundesverband_der_Deutschen_Industrie	dbo:wikiPageWikiLink	dbr:Economy_of_Germany .
+<http://dbpedia.org/resource/Confederation_of_German_Employers\u0027_Associations>	dbo:wikiPageWikiLink	dbr:Economy_of_Germany .
+dbr:Initiative_Neue_Soziale_Marktwirtschaft	dbo:wikiPageWikiLink	dbr:Economy_of_Germany .
+dbr:Agentur_fur_Arbeit	dbo:wikiPageRedirects	dbr:Economy_of_Germany ;
+	dbo:wikiPageWikiLink	dbr:Economy_of_Germany .
+dbr:Germany	dbo:wikiPageWikiLink	dbr:Economy_of_Germany .
+dbr:Kluczbork	dbo:wikiPageWikiLink	dbr:Economy_of_Germany .
+dbr:Max_Weber_and_German_politics	dbo:wikiPageWikiLink	dbr:Economy_of_Germany .
+dbr:AFA	dbo:wikiPageWikiLink	dbr:Economy_of_Germany ;
+	dbo:wikiPageDisambiguates	dbr:Economy_of_Germany .
+<http://dbpedia.org/resource/E._F._Schumacher>	dbo:wikiPageWikiLink	dbr:Economy_of_Germany .
+<http://dbpedia.org/resource/2010_in_Germany>	dbo:wikiPageWikiLink	dbr:Economy_of_Germany .
+dbr:Economy_of_Finland	dbo:wikiPageWikiLink	dbr:Economy_of_Germany .
+dbr:Trade_union	dbo:wikiPageWikiLink	dbr:Economy_of_Germany .
+<http://dbpedia.org/resource/Germany\u2013United_States_relations>	dbo:wikiPageWikiLink	dbr:Economy_of_Germany .
+dbr:Gravity_model_of_trade	dbo:wikiPageWikiLink	dbr:Economy_of_Germany .
+dbr:Energy_in_Germany	dbo:wikiPageWikiLink	dbr:Economy_of_Germany .
+dbr:Trade_unions_in_Germany	dbo:wikiPageWikiLink	dbr:Economy_of_Germany .
+<http://dbpedia.org/resource/J\u00F3zef_Walaszczyk>	dbo:wikiPageWikiLink	dbr:Economy_of_Germany .
+<http://dbpedia.org/resource/Economic_history_of_China_(1949\u2013present)>	dbo:wikiPageWikiLink	dbr:Economy_of_Germany .
+dbr:Economy_of_Austria	dbo:wikiPageWikiLink	dbr:Economy_of_Germany .
+dbr:Economy_of_Iceland	dbo:wikiPageWikiLink	dbr:Economy_of_Germany .
+dbr:Index_of_Germany-related_articles	dbo:wikiPageWikiLink	dbr:Economy_of_Germany .
+dbr:Ludwigsvorstadt-Isarvorstadt	dbo:wikiPageWikiLink	dbr:Economy_of_Germany .
+dbr:Economy_of_France	dbo:wikiPageWikiLink	dbr:Economy_of_Germany .
+<http://dbpedia.org/resource/Andr\u00E9_Kostolany>	dbo:wikiPageWikiLink	dbr:Economy_of_Germany .
+dbr:Outline_of_Germany	dbo:wikiPageWikiLink	dbr:Economy_of_Germany .
+dbr:Timeline_of_the_Great_Recession	dbo:wikiPageWikiLink	dbr:Economy_of_Germany .
+dbr:Economy_of_Europe	dbo:wikiPageWikiLink	dbr:Economy_of_Germany .
+dbr:Wirtschaftswunder	dbo:wikiPageWikiLink	dbr:Economy_of_Germany .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Economy_of_Germany	rdf:type	yago:System108435388 ,
+		dbo:Country .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Economy_of_Germany	rdf:type	owl:Thing ,
+		yago:Economy108366753 ,
+		yago:Group100031264 ,
+		yago:Abstraction100002137 ;
+	rdfs:label	"Ekonomika N\u011Bmecka"@cs ,
+		"\uB3C5\uC77C\uC758 \uACBD\uC81C"@ko ,
+		"Wirtschaft Deutschlands"@de ,
+		"Tysklands ekonomi"@sv ,
+		"Gospodarka Niemiec"@pl ,
+		"\u0415\u043A\u043E\u043D\u043E\u043C\u0456\u043A\u0430 \u041D\u0456\u043C\u0435\u0447\u0447\u0438\u043D\u0438"@uk ,
+		"\u30C9\u30A4\u30C4\u306E\u7D4C\u6E08"@ja ,
+		"Economia della Germania"@it ,
+		"Economia d'Alemanya"@ca ,
+		"Alemaniako ekonomia"@eu ,
+		"Economia da Alemanha"@pt ,
+		"\u00C9conomie de l'Allemagne"@fr ,
+		"\u5FB7\u570B\u7D93\u6FDF"@zh ,
+		"Ekonomi Jerman"@in ,
+		"Economy of Germany"@en ,
+		"\u0627\u0642\u062A\u0635\u0627\u062F \u0623\u0644\u0645\u0627\u0646\u064A\u0627"@ar ,
+		"Econom\u00EDa de Alemania"@es ,
+		"Economie van Duitsland"@nl ,
+		"\u042D\u043A\u043E\u043D\u043E\u043C\u0438\u043A\u0430 \u0413\u0435\u0440\u043C\u0430\u043D\u0438\u0438"@ru ;
+	rdfs:comment	"Alemanya \u00E9s una de les economies de mercat m\u00E9s desenvolupades del m\u00F3n. \u00C9s la tercera economia m\u00E9s gran del m\u00F3n, en termes del Producte Intern Brut calculat basant-se en les taxes de canvi euro-d\u00F2lar, i la cinquena basant-se en la paritat de poder adquisitiu. \u00C9s l'economia m\u00E9s gran d'Europa. L'acompliment recent, per\u00F2, no ha estat din\u00E0mic, i l'economia alemanya ha estat marcada per la seva vulnerabilitat als xocs externs, als problemes estructurals interns, i les dificultats relacionades amb la Reunificaci\u00F3 alemanya."@ca ,
+		"The economy of Germany is a highly developed social market economy. It has the largest national economy in Europe, the fourth-largest by nominal GDP in the world, and fifth by GDP (PPP). In 2017, the country accounted for 28% of the euro area economy according to the IMF. Germany is a founding member of the European Union and the Eurozone."@en ,
+		"\u042D\u043A\u043E\u043D\u043E\u043C\u0438\u043A\u0430 \u0413\u0435\u0440\u043C\u0430\u043D\u0438\u0438 \u044F\u0432\u043B\u044F\u0435\u0442\u0441\u044F \u043A\u0440\u0443\u043F\u043D\u0435\u0439\u0448\u0435\u0439 \u044D\u043A\u043E\u043D\u043E\u043C\u0438\u043A\u043E\u0439 \u0415\u0432\u0440\u043E\u043F\u044B. \u0412 2018 \u0433\u043E\u0434\u0443 \u0432 \u0440\u0435\u0439\u0442\u0438\u043D\u0433\u0435 \u0441\u0442\u0440\u0430\u043D \u043F\u043E \u043E\u0431\u0449\u0435\u043C\u0443 \u043E\u0431\u044A\u0451\u043C\u0443 \u0412\u0412\u041F \u0413\u0435\u0440\u043C\u0430\u043D\u0438\u044F \u0437\u0430\u043D\u0438\u043C\u0430\u043B\u0430 \u0447\u0435\u0442\u0432\u0435\u0440\u0442\u043E\u0435 \u043C\u0435\u0441\u0442\u043E, \u0438 \u043F\u044F\u0442\u043E\u0435 \u043C\u0435\u0441\u0442\u043E \u0432 \u0440\u0435\u0439\u0442\u0438\u043D\u0433\u0435 \u043F\u043E \u043E\u0431\u044A\u0451\u043C\u0443 \u0412\u0412\u041F \u043F\u043E \u043F\u0430\u0440\u0438\u0442\u0435\u0442\u0443 \u043F\u043E\u043A\u0443\u043F\u0430\u0442\u0435\u043B\u044C\u043D\u043E\u0439 \u0441\u043F\u043E\u0441\u043E\u0431\u043D\u043E\u0441\u0442\u0438. \u0414\u043E 2007 \u0433\u043E\u0434\u0430 \u0413\u0435\u0440\u043C\u0430\u043D\u0438\u044F \u0437\u0430\u043D\u0438\u043C\u0430\u043B\u0430 \u0441\u043E\u043E\u0442\u0432\u0435\u0442\u0441\u0442\u0432\u0435\u043D\u043D\u043E \u0442\u0440\u0435\u0442\u044C\u0435 \u0438 \u0447\u0435\u0442\u0432\u0451\u0440\u0442\u043E\u0435 \u043C\u0435\u0441\u0442\u043E. \u0413\u0435\u0440\u043C\u0430\u043D\u0438\u044F \u044F\u0432\u043B\u044F\u0435\u0442\u0441\u044F \u043F\u043E\u0441\u0442\u0438\u043D\u0434\u0443\u0441\u0442\u0440\u0438\u0430\u043B\u044C\u043D\u043E\u0439 \u0441\u0442\u0440\u0430\u043D\u043E\u0439, \u0433\u0434\u0435 \u043E\u0441\u043D\u043E\u0432\u0443 \u044D\u043A\u043E\u043D\u043E\u043C\u0438\u043A\u0438 (54 %) \u0441\u043E\u0441\u0442\u0430\u0432\u043B\u044F\u044E\u0442 \u0443\u0441\u043B\u0443\u0433\u0438, 45,9 % \u2014 \u043F\u0440\u043E\u0438\u0437\u0432\u043E\u0434\u0441\u0442\u0432\u043E \u0438 \u0430\u0433\u0440\u043E\u0431\u0438\u0437\u043D\u0435\u0441 \u2014 0,1 %, \u0432 \u043A\u043E\u0442\u043E\u0440\u043E\u043C \u0437\u0430\u043D\u044F\u0442\u043E \u0442\u0430\u043A\u043E\u0435 \u0436\u0435 \u043A\u043E\u043B\u0438\u0447\u0435\u0441\u0442\u0432\u043E \u044D\u043A\u043E\u043D\u043E\u043C\u0438\u0447\u0435\u0441\u043A\u0438 \u0430\u043A\u0442\u0438\u0432\u043D\u043E\u0433\u043E \u043D\u0430\u0441\u0435\u043B\u0435\u043D\u0438\u044F."@ru ,
+		"L'Allemagne est depuis 2007 la quatri\u00E8me puissance \u00E9conomique mondiale, derri\u00E8re les \u00C9tats-Unis, la Chine et le Japon, est la premi\u00E8re de l'Union europ\u00E9enne et de l'Europe, avec un produit int\u00E9rieur brut de 3 677 milliards de dollars. Cependant, en parit\u00E9 de pouvoir d'achat, l'Allemagne est cinqui\u00E8me derri\u00E8re la Chine, le Japon et l\u2019Inde. Elle \u00E9tait le deuxi\u00E8me grand exportateur apr\u00E8s les \u00C9tats-Unis ; elle est aujourd'hui le troisi\u00E8me plus grand exportateur mondial de biens derri\u00E8re les \u00C9tats-Unis et la Chine avec 1 493 milliards d'euros de biens export\u00E9s en 2013. En classement par PIB en PPA, l\u2019Allemagne est le 5e pays."@fr ,
+		"L'economia della Germania \u00E8 una delle pi\u00F9 sviluppate del mondo. Terza per volume di scambi in dollari e prodotto interno lordo, \u00E8 la quinta per potere d'acquisto e la prima d'Europa. Dal 1999 la Germania adotta come propria moneta l'euro e ha delegato le decisioni di politica monetaria alla Banca centrale europea."@it ,
+		"\u30C9\u30A4\u30C4\u306E\u7D4C\u6E08\uFF08\u30C9\u30A4\u30C4\u8A9E: Wirtschaft Deutschlands\uFF09\u306F\u30E8\u30FC\u30ED\u30C3\u30D1\u3001\u4E16\u754C\u3067\u3082\u975E\u5E38\u306B\u767A\u9054\u3057\u305F\u5E02\u5834\u306E\u4E00\u3064\u3067\u3042\u308B\u3002\u30A2\u30E1\u30EA\u30AB\u5408\u8846\u56FD\u30C9\u30EB\u306E\u70BA\u66FF\u30EC\u30FC\u30C8\u3067\u306F\u4E16\u754C\u30674\u756A\u76EE\u3001\u8CFC\u8CB7\u529B\u5E73\u4FA1 (PPP) \u30D9\u30FC\u30B9\u306EGDP\u3067\u306F\u4E16\u754C\u30675\u756A\u76EE\u306E\u898F\u6A21\u3068\u306A\u3063\u3066\u3044\u308B\u3002 \u3057\u304B\u3057\u3001\u8FD1\u5E74\u306E\u30C9\u30A4\u30C4\u306E\u7D4C\u6E08\u306F\u505C\u6EDE\u6C17\u5473\u306B\u3042\u3063\u305F\u3002\u5916\u90E8\u304B\u3089\u306E\u5F71\u97FF\u3084\u65E7\u6771\u30C9\u30A4\u30C4\u5730\u57DF\u306E\u652F\u63F4\u306B\u3088\u308B\u7D4C\u6E08\u306E\u75B2\u5F0A\u306E\u305F\u3081\u3067\u3042\u308B\u3002 \u56FD\u5BB6\u751F\u7523\u306E3\u5206\u306E1\u3092\u5360\u3081\u308B\u8F38\u51FA\u306F\u3001\u30C9\u30A4\u30C4\u306E\u7D4C\u6E08\u306B\u5BFE\u3057\u3066\u5927\u304D\u306A\u5F71\u97FF\u529B\u3092\u6301\u3063\u3066\u3044\u308B\u3002\u305D\u306E\u305F\u3081\u8F38\u51FA\u306F\u30C9\u30A4\u30C4\u306E\u30DE\u30AF\u30ED\u7D4C\u6E08\u62E1\u5927\u3078\u306E\u91CD\u8981\u306A\u8981\u7D20\u306E\u4E00\u3064\u3068\u306A\u3063\u3066\u3044\u308B\u3002\u30C9\u30A4\u30C4\u306E\u901A\u8CA8\u306F\u30E6\u30FC\u30ED\u3092\u4F7F\u7528\u3057\u3066\u304A\u308A\u3001\u6B27\u5DDE\u4E2D\u592E\u9280\u884C\u306E\u672C\u90E8\u306F\u30C9\u30A4\u30C4\u306E\u30D5\u30E9\u30F3\u30AF\u30D5\u30EB\u30C8\u306B\u6240\u5728\u3059\u308B\u3002\u30C9\u30A4\u30C4\u306F\u30E8\u30FC\u30ED\u30C3\u30D1\u306B\u304A\u3051\u308B\u5730\u57DF\u7D4C\u6E08\u7D71\u5408\u306E\u5F37\u3044\u4E3B\u5531\u8005\u306E\u4E00\u3064\u3067\u3001\u30E6\u30FC\u30ED\u3092\u6B27\u5DDE\u4E2D\u592E\u9280\u884C\u306E\u9280\u884C\u5238\u306B\u3059\u308B\u4E2D\u592E\u9280\u884C\u901A\u8CA8\u653F\u7B56\u3092\u63A8\u3057\u9032\u3081\u3066\u3044\u308B\u3002 \u5916\u90E8\u304B\u3089\u306E\u5F71\u97FF\u3082\u3055\u308B\u3053\u3068\u306A\u304C\u3089\u3001\u56FD\u5185\u306E\u69CB\u9020\u554F\u984C\u304C\u6700\u8FD1\u306E\u7D4C\u6E08\u306E\u920D\u3055\u306B\u5927\u304D\u304F\u304B\u304B\u308F\u3063\u3066\u3044\u308B\u3002\u307E\u305F\u3001\u52B4\u50CD\u5E02\u5834\u306E\u67D4\u8EDF\u6027\u306E\u306A\u3055\u306F\u6301\u7D9A\u7684\u306B\u7D9A\u304F\u9AD8\u3044\u5931\u696D\u7387\u306E\u304A\u3082\u306A\u8981\u56E0\u3067\u3042\u308B\u3068\u3044\u308F\u308C\u3066\u304A\u308A\u3001\u91CD\u3044\u5B98\u50DA\u7684\u306A\u6CD5\u4EE4\u306F\u591A\u304F\u306E\u4F01\u696D\u3084\u3001\u65B0\u898F\u306B\u59CB\u3081\u3088\u3046\u3068\u3059\u308B\u30D3\u30B8\u30CD\u30B9\u306E\u624B\u7D9A\u304D\u306E\u904E\u7A0B\u306B\u8CA0\u62C5\u3092\u304B\u3051\u3066\u3044\u308B\u3002\u305D\u308C\u3067\u3082\u3001\u8F38\u51FA\u306B\u95A2\u3057\u3066\u306F1995\u5E74\u304B\u30892001\u5E74\u306B\u304B\u3051\u3066\u975E\u5E38\u306B\u597D\u8ABF\u306A\u52D5\u304D\u3092\u898B\u305B\u3066\u3044\u308B\u3002"@ja ,
+		"Tyskland \u00E4r med en BNP p\u00E5 2247,4 miljarder euro (t.o.m. 23 maj 2006 f\u00F6r \u00E5ret 2005) Europas st\u00F6rsta ekonomi och industrination och v\u00E4rldens tredje st\u00F6rsta. Tyskland \u00E4r den st\u00F6rsta exportnationen i Europa. Tyskland \u00E4r relativt r\u00E5varufattigt och koncentrerar n\u00E4ringslivet till de sekund\u00E4ra och terti\u00E4ra sektorer (tillverkningsindustri och utveckling). Stora omr\u00E5den av Tyskland anv\u00E4nds f\u00F6r jordbruk men bara 2-3 % arbetar inom jordbrukssektorn. Under senare \u00E5r har tillv\u00E4xten varit svag och man har strukturella problem i globaliseringen och i integrationen av de nya f\u00F6rbundsl\u00E4nderna efter 1990."@sv ,
+		"Jerman adalah negara dengan ekonomi terbesar di Eropa, PDB terbesar keempat dunia, dan pendapatan nasional bruto terbesar kelima dunia tahun 2008. Sejak era industrialisasi dan kapitalisme industri, negara ini berhasil menjadi motor, inovator, dan pengglobal ekonomi. Jerman adalah eksportir terbesar ketiga dunia pada tahun 2011 dengan nilai 1,409 triliun dolar AS (negara Zona Euro termasuk). Ekspor sendiri berkontribusi terhadap sepertiga keluaran negara ini."@in ,
+		"De Bondsrepubliek Duitsland bezit de op vier na sterkste economie van de wereld, na de VS, China en Japan. Het is een sociale markteconomie, een vrije markt waarin de overheid randvoorwaarden stelt. Duitsland is de economische crisis van 2009-2010 sneller te boven gekomen dan de andere Europese landen. Waar de meeste EU-landen bleven worstelen met de nasleep van de crisis, viel Duitsland op door zijn stabiliteit. De Duitse regering had over 2013 een sluitende begroting en de economie groeide dat jaar met 0.4%. In 2009 heeft Duitsland een schuldenplafond opgenomen in de grondwet, de zogenoemde Schuldenbremse. Voor 2016 moet het begrotingstekort zijn teruggebracht tot 0,35 procent."@nl ,
+		"\uB3C5\uC77C\uC758 \uACBD\uC81C\uC5D0 \uB300\uD574 \uC124\uBA85\uD55C\uB2E4."@ko ,
+		"La econom\u00EDa de Alemania es la cuarta econom\u00EDa m\u00E1s poderosa del mundo despu\u00E9s de la de Estados Unidos, China y Jap\u00F3n y la quinta por PIB (PPA). El pa\u00EDs es considerado el motor econ\u00F3mico de la Uni\u00F3n Europea (UE). En 2014, Alemania registr\u00F3 el mayor super\u00E1vit comercial en el mundo con 285 mil millones de d\u00F3lares, por lo que es el mayor exportador de capital a nivel mundial. Alemania es el tercer mayor exportador del mundo con 1.511.000 millones de d\u00F3lares exportados en 2014. Las exportaciones representan el 41% de la producci\u00F3n nacional. El sector servicios contribuye alrededor del 70% del total del PIB, la industria 29,1%, y la agricultura 0,9%. Los principales bienes exportados de Alemania son veh\u00EDculos, maquinarias, productos qu\u00EDmicos, productos electr\u00F3nicos, productos farmac\u00E9uticos, equip"@es ,
+		"\u0627\u0642\u062A\u0635\u0627\u062F \u0623\u0644\u0645\u0627\u0646\u064A\u0627 \u064A\u0639\u062A\u0628\u0631 \u0623\u062D\u062F \u0623\u0643\u0628\u0631 \u0627\u0642\u062A\u0635\u0627\u062F\u0627\u062A \u0627\u0644\u0639\u0627\u0644\u0645 \u062D\u064A\u062B \u0623\u0646\u0647 \u064A\u062D\u062A\u0644 \u0627\u0644\u0645\u0631\u0643\u0632 \u0627\u0644\u0631\u0627\u0628\u0639 \u0645\u0646 \u062D\u064A\u062B \u0627\u0644\u0646\u0627\u062A\u062C \u0627\u0644\u0645\u062D\u0644\u064A \u0627\u0644\u0625\u062C\u0645\u0627\u0644\u064A \u0628\u0639\u062F \u0627\u0644\u0648\u0644\u0627\u064A\u0627\u062A \u0627\u0644\u0645\u062A\u062D\u062F\u0629 \u0648\u0627\u0644\u0635\u064A\u0646 \u0648\u0627\u0644\u064A\u0627\u0628\u0627\u0646. \u0648\u0627\u0644\u0645\u0631\u062A\u0628\u0629 \u0627\u0644\u062E\u0627\u0645\u0633\u0629 \u0645\u0646 \u062D\u064A\u062B \u0627\u0644\u0642\u0648\u0629 \u0627\u0644\u0634\u0631\u0627\u0626\u064A\u0629 \u062A\u0639\u062A\u0628\u0631 \u0623\u0644\u0645\u0627\u0646\u064A\u0627 \u0627\u0644\u0623\u0643\u062B\u0631 \u0633\u0643\u0627\u0646\u0627\u064B \u0641\u064A \u0623\u0648\u0631\u0648\u0628\u0627 \u062D\u064A\u062B \u0623\u0646 \u0639\u062F\u062F \u0633\u0643\u0627\u0646\u0647\u0627 \u064A\u0628\u0644\u063A 82 \u0645\u0644\u064A\u0648\u0646 \u0646\u0633\u0645\u0629 \u062A\u0642\u0631\u064A\u0628\u0627\u064B. \u0627\u0642\u062A\u0635\u0627\u062F \u0623\u0644\u0645\u0627\u0646\u064A\u0627 \u0627\u0644\u0645\u0632\u062F\u0647\u0631 \u064A\u062C\u0630\u0628 \u0627\u0644\u0645\u0644\u0627\u064A\u064A\u0646 \u0645\u0646 \u0627\u0644\u0645\u0647\u0627\u062C\u0631\u064A\u0646 \u0645\u0646 \u0645\u062E\u062A\u0644\u0641 \u0623\u0646\u062D\u0627\u0621 \u0627\u0644\u0639\u0627\u0644\u0645 \u0643\u0645\u0627 \u0647\u0648 \u062B\u0627\u0644\u062B \u0623\u0643\u0628\u0631 \u062F\u0648\u0644\u0629 \u0645\u0646 \u062D\u064A\u062B \u0639\u062F\u062F \u0627\u0644\u0645\u0647\u0627\u062C\u0631\u064A\u0646 \u0644\u0647\u0627. \u062A\u062D\u062F \u0623\u0644\u0645\u0627\u0646\u064A\u0627 \u0643\u0644 \u0646 \u0628\u0648\u0644\u0646\u062F\u0627 \u0648\u062C\u0645\u0647\u0648\u0631\u064A\u0629 \u0627\u0644\u062A\u0634\u064A\u0643 \u0648\u0627\u0644\u0646\u0645\u0633\u0627 \u0648\u0633\u0648\u064A\u0633\u0631\u0627 \u0648\u0641\u0631\u0646\u0633\u0627 \u0648\u0647\u0648\u0644\u0646\u062F\u0627. \u0627\u0644\u0645\u0633\u0627\u062D\u0629 \u062D\u0648\u0627\u0644\u064A 357021\u060C \u0648\u062D\u0627\u0641\u0638\u062A \u0639\u0644\u0649 \u0645\u0633\u062A\u0648\u0649 \u0639\u0627\u0644\u064D \u0645\u0646 \u0627\u0644\u0645\u0639\u064A\u0634\u0629. \u0648\u0645\u0646 \u0627\u0644\u0645\u0639\u0631\u0648\u0641 \u0639\u0646 \u0623\u0644\u0645\u0627\u0646\u064A\u0627 \u0623\u0646\u0647\u0627 \u0631\u0627\u0633\u062E\u0629 \u0641\u064A \u0646\u0638\u0627\u0645 \u0627\u0644\u0636\u0645\u0627\u0646 \u0627\u0644\u0627\u062C\u062A\u0645\u0627\u0639\u064A \u0627\u0644\u0630\u064A \u064A\u0646\u0628\u0639 \u0645\u0646 \u0627\u0632\u062F\u0647\u0627\u0631 \u0627\u0644\u0627\u0642\u062A\u0635\u0627\u062F \u0627\u0644\u0623\u0644\u0645\u0627\u0646\u064A."@ar ,
+		"2018an Alemaniako ekonomia munduko 4. handiena izan zen. Alemania da munduko laugarren ekonomia indartsuenaren jabe. Merkatu sistema kapitalista du, baina ongizatearen sistemak orekatua, estatuak gizarte laguntza handiak ematen baititu. Alemaniako Errepublika Federala munduko lehen herri esportatzailea da (hain zuzen ere, esportazioa beti izan da Alemaniako ekonomiaren funtsezko elementua) eta ondasun gehien inportatzen dituen bigarrena. Ahalegin handiak egin ditu Europan ekonomia eta politika batasuna hedatzeko, eta bere ekonomia eta merkatritza politiketan gero eta eragin handiagoa dute Europar Batasuneko kideen arteko hitzarmenek. Gaur egun, Ekialdeko Alemania txertatzeko prozesuak aurrera jarraitzen du eta ahalegin handiak egiten ari dira haren atzerapena onez eramateko: izan ere, hang"@eu ,
+		"A economia da Alemanha \u00E9 a economia mais importante da Europa e \u00E9 a quarta pot\u00EAncia econ\u00F4mica mundial depois dos Estados Unidos, China e Jap\u00E3o. \u00C9 uma economia de mercado na qual a seguridade social tem um peso muito grande na economia, tendo os alem\u00E3es direitos sociais muito extensos. O pa\u00EDs passou por grandes reformas de livre com\u00E9rcio antigamente, deixando de ser o \"homem doente da Europa\" para ser a maior e mais robusta economia do bloco europeu na atualidade. A reunifica\u00E7\u00E3o teve um impacto significativo no crescimento da parte ocidental do pa\u00EDs, com grandes quantidades de dinheiro sendo usadas para financiar a reestrutura\u00E7\u00E3o da por\u00E7\u00E3o Oriental."@pt ,
+		"Gospodarka Niemiec \u2013 rozwini\u0119ta spo\u0142eczna gospodarka rynkowa, najwi\u0119ksza w Europie i czwarta na \u015Bwiecie (po USA, Chinach i Japonii). Niemcy s\u0105 trzecim po Chinach i USA \u015Bwiatowym eksporterem. Z 1,339 bln dolar\u00F3w w 2014 roku maj\u0105 nadwy\u017Ck\u0119 handlow\u0105 285 mld euro. Eksport stanowi ponad jedn\u0105 trzeci\u0105 produkcji krajowej."@pl ,
+		"N\u011Bmeck\u00E1 ekonomika je se sv\u00FDm HDP o v\u00FD\u0161i 2 307,20 mld. eur nejv\u011Bt\u0161\u00ED ekonomikou v Evrop\u011B a \u010Dtvrt\u00E1 nejv\u011Bt\u0161\u00ED na sv\u011Bt\u011B. N\u011Bmecko pat\u0159\u00ED k sv\u011Btov\u011B nejrozvinut\u011Bj\u0161\u00EDm a nejtechnologi\u010Dt\u011Bj\u0161\u00EDm hospod\u00E1\u0159stv\u00EDm, co\u017E je mj. d\u016Fle\u017Eit\u00FD p\u0159edpoklad pro dobrou pozici na mezin\u00E1rodn\u00EDm trhu zbo\u017E\u00ED a slu\u017Eeb. Proto\u017Ee je v SRN relativn\u011B m\u00E1lo surovinov\u00FDch nalezi\u0161\u0165, zam\u011B\u0159uje se hospod\u00E1\u0159stv\u00ED p\u0159edev\u0161\u00EDm na sekund\u00E1rn\u00ED a terci\u00E1rn\u00ED sektor. Velk\u00E1 \u010D\u00E1st zem\u011B je zem\u011Bd\u011Blsky vyu\u017Eita, z\u00E1rove\u0148 v\u0161ak v zem\u011Bd\u011Blstv\u00ED pracuj\u00ED pouze 2 \u2013 3 % zam\u011Bstnanc\u016F."@cs ,
+		"Die Wirtschaft Deutschlands ist hinsichtlich des Bruttoinlandsprodukts die gr\u00F6\u00DFte Volkswirtschaft Europas und die viertgr\u00F6\u00DFte Volkswirtschaft weltweit. Beim Bruttoinlandsprodukt pro Kopf lag Deutschland 2015 in US-Dollar in Europa an neunter und international an 18. Stelle. Wichtige Bereiche sind Dienstleistungen (69 %) und Industrie (26 %); die Produktion von landwirtschaftlichen G\u00FCtern hat eine relativ geringe Bedeutung. Deutschland ist arm an Rohstoffen und Energierohstoffen; der Abbau von Rohstoffen f\u00E4llt volkswirtschaftlich kaum ins Gewicht. Der Gro\u00DFteil des deutschen Au\u00DFenhandels erfolgt mit anderen Industriel\u00E4ndern; dabei wird ein betr\u00E4chtlicher Au\u00DFenhandels\u00FCberschuss erzielt. Als weltweit konkurrenzf\u00E4higste Wirtschaftsbranchen der deutschen Industrie gelten die Automobil-, Nutzfahr"@de ,
+		"\u5FB7\u56FD\u662F\u6B27\u6D32\u6700\u5927\u7ECF\u6D4E\u4F53\uFF0C\u5168\u7403\u56FD\u5185\u751F\u4EA7\u603B\u503C\u7B2C\u56DB\u5927\u56FD\uFF08\u56FD\u9645\u6C47\u7387\uFF09\uFF0C\u4EE5\u53CA\u56FD\u5185\u751F\u4EA7\u603B\u503C\u7B2C\u4E94\u5927\u56FD\uFF08\u8D2D\u4E70\u529B\u5E73\u4EF7\uFF09\u3002\u5F9E\u5DE5\u4E1A\u9769\u547D\u65F6\u671F\u4EE5\u540E\uFF0C\u5FB7\u56FD\u4E00\u76F4\u662F\u65E5\u76CA\u5168\u7403\u5316\u7684\u7ECF\u6D4E\u7684\u5148\u9A71\u3001\u521B\u65B0\u8005\u548C\u53D7\u76CA\u8005\u3002\u5FB7\u56FD\u7684\u7ECF\u6D4E\u653F\u7B56\u57FA\u4E8E\u793E\u4F1A\u5E02\u573A\u7ECF\u6D4E\u7684\u6982\u5FF5\u3002\u5FB7\u56FD\u662F\u6B27\u76DF\u548C\u6B27\u5143\u533A\u7684\u521B\u59CB\u6210\u5458\u4E4B\u4E00\u3002\u51ED\u501F\u5176\u57282012\u5E741.516\u4E07\u4EBF\u7F8E\u5143\u7684\u51FA\u53E3\u989D\uFF0C\u5FB7\u56FD\u662F\u4E16\u754C\u7B2C\u4E09\u5927\u51FA\u53E3\u56FD\u3002\u51FA\u53E3\u989D\u5360\u8D85\u8FC7\u4E09\u5206\u4E4B\u4E00\u7684\u56FD\u5BB6\u8F93\u51FA\u3002\u57282013\u5E74\uFF0C\u5FB7\u56FD\u5728\u5168\u7403\u53D6\u5F97\u4E862,700\u4EBF\u7F8E\u5143\u7684\u8D38\u6613\u987A\u5DEE\uFF0C\u6210\u4E3A\u5168\u7403\u6700\u5927\u7684\u8D44\u672C\u8F93\u51FA\u56FD\u3002 \u5FB7\u56FD\u662F\u4E16\u754C\u4E0A\u6700\u5927\u7684\u8910\u7164\u751F\u4EA7\u56FD\u3002 \u5FB7\u56FD\u8FD8\u542B\u6709\u4E30\u5BCC\u7684\u6728\u6750\uFF0C\u94C1\u77FF\uFF0C\u94BE\u80A5\uFF0C\u76D0\uFF0C\u94C0\uFF0C\u954D\uFF0C\u94DC\u548C\u5929\u7136\u6C14\u3002 \u5FB7\u56FD\u7684\u80FD\u6E90\u4E3B\u8981\u6765\u6E90\u4E8E\u5316\u77F3\u71C3\u6599\uFF0C\u5176\u6B21\u662F\u6838\u7535\uFF0C\u7C7B\u4F3C\u751F\u7269\u8D28\u80FD\u7684\u53EF\u518D\u751F\u80FD\u6E90\uFF08\u6728\u6750\u548C\u751F\u7269\u71C3\u6599\uFF09\uFF0C\u98CE\u80FD\uFF0C\u6C34\u80FD\u548C\u592A\u9633\u80FD\u3002 \u670D\u52A1\u4E1A\u7EA6\u8D21\u732E\u4E86GDP\u603B\u91CF\u768470%\uFF0C\u5DE5\u4E1A29.1%\uFF0C\u519C\u4E1A0.9%\u3002\u5FB7\u56FD\u7684\u591A\u6570\u4EA7\u4E1A\u5728\u5DE5\u4E1A\uFF0C\u7279\u522B\u662F\u5728\u6C7D\u8F66\uFF0C\u673A\u68B0\uFF0C\u91D1\u5C5E\u548C\u5316\u5DE5\u54C1\u3002"@zh ,
+		"\u041D\u0456\u043C\u0435\u0447\u0447\u0438\u043D\u0430 \u2014 \u043F\u0440\u043E\u0432\u0456\u0434\u043D\u0430 \u0435\u043A\u043E\u043D\u043E\u043C\u0456\u0447\u043D\u0430 \u0434\u0435\u0440\u0436\u0430\u0432\u0430 \u0404\u0432\u0440\u043E\u043F\u0438. \u041F\u0440\u043E\u0432\u0456\u0434\u043D\u0435 \u043C\u0456\u0441\u0446\u0435 \u0432 \u0435\u043A\u043E\u043D\u043E\u043C\u0456\u0446\u0456 \u0437\u0430\u0439\u043C\u0430\u0454 \u0433\u0456\u0440\u043D\u0438\u0447\u0430, \u043C\u0435\u0442\u0430\u043B\u0443\u0440\u0433\u0456\u0439\u043D\u0430, \u0445\u0456\u043C\u0456\u0447\u043D\u0430, \u043C\u0430\u0448\u0438\u043D\u043E\u0431\u0443\u0434\u0456\u0432\u043D\u0430, \u0445\u0430\u0440\u0447\u043E\u0432\u0430, \u0441\u0443\u0434\u043D\u043E\u0431\u0443\u0434\u0456\u0432\u043D\u0430, \u0442\u0435\u043A\u0441\u0442\u0438\u043B\u044C\u043D\u0430, \u043D\u0430\u0444\u0442\u043E\u043F\u0435\u0440\u0435\u0440\u043E\u0431\u043D\u0430 \u043F\u0440\u043E\u043C\u0438\u0441\u043B\u043E\u0432\u0456\u0441\u0442\u044C. \u0420\u043E\u0437\u0432\u0438\u043D\u0435\u043D\u0456 \u0432\u0441\u0456 \u0432\u0438\u0434\u0438 \u0441\u0443\u0447\u0430\u0441\u043D\u043E\u0433\u043E \u0442\u0440\u0430\u043D\u0441\u043F\u043E\u0440\u0442\u0443. \u041C\u0435\u0440\u0435\u0436\u0430 \u0437\u0430\u043B\u0456\u0437\u043D\u0438\u0446\u044C, \u0430\u0432\u0442\u043E\u0431\u0430\u043D\u0456\u0432, \u0442\u0440\u0443\u0431\u043E\u043F\u0440\u043E\u0432\u0456\u0434\u043D\u043E\u0433\u043E \u0442\u0440-\u0442\u0443. \u0413\u043E\u043B. \u043C\u043E\u0440\u0441\u044C\u043A\u0456 \u043F\u043E\u0440\u0442\u0438 \u2014 \u0413\u0430\u043C\u0431\u0443\u0440\u0433, \u0411\u0440\u0435\u043C\u0435\u043D, \u0412\u0456\u043B\u044C\u0433\u0435\u043B\u044C\u043C\u0441\u0433\u0430\u0444\u0435\u043D, \u0411\u0440\u0435\u043C\u0435\u0440\u0433\u0430\u0444\u0435\u043D, \u041B\u044E\u0431\u0435\u043A, \u0420\u043E\u0441\u0442\u043E\u043A, \u0412\u0430\u0440\u043D\u0435\u043C\u044E\u043D\u0434\u0435, \u0412\u0456\u0441\u043C\u0430\u0440, \u0428\u0442\u0440\u0430\u043B\u044C\u0437\u0443\u043D\u0434. \u0413\u043E\u043B\u043E\u0432\u043D\u0438\u0439 \u0437\u0430\u0445\u0456\u0434\u043D\u043E\u043D\u0456\u043C\u0435\u0446\u044C\u043A\u0438\u0439 \u0430\u0435\u0440\u043E\u043F\u043E\u0440\u0442, \u043D\u0430\u0439\u0431\u0456\u043B\u044C\u0448\u0438\u0439 \u0443 \u0432\u0441\u0456\u0439 \u043A\u043E\u043D\u0442\u0438\u043D\u0435\u043D\u0442\u0430\u043B\u044C\u043D\u0456\u0439 \u0404\u0432\u0440\u043E\u043F\u0456, \u0437\u043D\u0430\u0445\u043E\u0434\u0438\u0442\u044C\u0441\u044F \u0443 \u0424\u0440\u0430\u043D\u043A\u0444\u0443\u0440\u0442\u0456-\u043D\u0430-\u041C\u0430\u0439\u043D\u0456. \u0412\u0441\u0456 \u043C\u0456\u0441\u0442\u0430 \u0456 \u043C\u0456\u0441\u044C\u043A\u0456 \u0430\u0433\u043B\u043E\u043C\u0435\u0440\u0430\u0446\u0456\u0457 \u043F\u043E\u043D\u0430\u0434 1 \u043C\u043B\u043D \u0447\u043E\u043B. \u043C\u0430\u044E\u0442\u044C \u0432\u043B\u0430\u0441\u043D\u0456 \u0430\u0435\u0440\u043E\u043F\u043E\u0440\u0442\u0438 \u0437 \u0440\u0435\u0433\u0443\u043B\u044F\u0440\u043D\u0438\u043C \u0430\u0432\u0456\u0430\u0446\u0456\u0439\u043D\u0438\u043C \u0441\u043F\u043E\u043B\u0443\u0447\u0435\u043D\u043D\u044F\u043C. \u041F\u0440\u043E\u0432\u0456\u0434\u043D\u0430 \u0430\u0432\u0456\u0430\u0446\u0456\u0439\u043D\u0430 \u043A\u043E\u043C\u043F\u0430\u043D\u0456\u044F \u041D\u0456\u043C\u0435\u0447\u0447\u0438\u043D\u0438 \u2014 \u00AB\u041B\u044E\u0444\u0442\u0433\u0430\u043D\u0437\u0430\u00BB."@uk ;
+	rdfs:seeAlso	dbr:List_of_companies_of_Germany ,
+		dbr:Mittelstand ,
+		dbr:Germany ,
+		dbr:Tourism ,
+		dbr:Wirtschaftswunder ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Frankfurt_Skyline_(16259801511).jpg> ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Economy_of_Germany .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Economy_of_Germany	dct:subject	dbc:OECD_member_economies ,
+		dbc:European_Union_member_economies ,
+		dbc:Economies_of_Europe ,
+		dbc:Economies_of_Europe_by_country ,
+		dbc:World_Trade_Organization_member_economies ,
+		dbc:Economy_of_Germany ;
+	owl:sameAs	<http://cy.dbpedia.org/resource/Economi\u0027r_Almaen> ,
+		<http://mk.dbpedia.org/resource/\u0415\u043A\u043E\u043D\u043E\u043C\u0438\u0458\u0430_\u043D\u0430_\u0413\u0435\u0440\u043C\u0430\u043D\u0438\u0458\u0430> .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Economy_of_Germany	owl:sameAs	dbpedia-nl:Economie_van_Duitsland .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Economy_of_Germany	owl:sameAs	dbpedia-pt:Economia_da_Alemanha ,
+		<http://sr.dbpedia.org/resource/Privreda_Nema\u010Dke> ,
+		<http://ja.dbpedia.org/resource/\u30C9\u30A4\u30C4\u306E\u7D4C\u6E08> .
+@prefix dbpedia-sv:	<http://sv.dbpedia.org/resource/> .
+dbr:Economy_of_Germany	owl:sameAs	dbpedia-sv:Tysklands_ekonomi ,
+		<http://zh.dbpedia.org/resource/\u5FB7\u570B\u7D93\u6FDF> ,
+		<http://be.dbpedia.org/resource/\u042D\u043A\u0430\u043D\u043E\u043C\u0456\u043A\u0430_\u0413\u0435\u0440\u043C\u0430\u043D\u0456\u0456> ,
+		<http://es.dbpedia.org/resource/Econom\u00EDa_de_Alemania> .
+@prefix dbpedia-ms:	<http://ms.dbpedia.org/resource/> .
+dbr:Economy_of_Germany	owl:sameAs	dbpedia-ms:Ekonomi_Jerman .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Economy_of_Germany	owl:sameAs	yago-res:Economy_of_Germany .
+@prefix dbpedia-eu:	<http://eu.dbpedia.org/resource/> .
+dbr:Economy_of_Germany	owl:sameAs	dbpedia-eu:Alemaniako_ekonomia .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Economy_of_Germany	owl:sameAs	dbpedia-pl:Gospodarka_Niemiec ,
+		<http://bn.dbpedia.org/resource/\u099C\u09BE\u09B0\u09CD\u09AE\u09BE\u09A8\u09BF\u09B0_\u0985\u09B0\u09CD\u09A5\u09A8\u09C0\u09A4\u09BF> ,
+		<https://global.dbpedia.org/id/4xSht> .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Economy_of_Germany	owl:sameAs	dbpedia-de:Wirtschaft_Deutschlands ,
+		<http://rdf.freebase.com/ns/m.011bdg5v> ,
+		<http://sq.dbpedia.org/resource/Ekonomia_e_Gjermanis\u00EB> ,
+		<http://cs.dbpedia.org/resource/Ekonomika_N\u011Bmecka> ,
+		<http://ru.dbpedia.org/resource/\u042D\u043A\u043E\u043D\u043E\u043C\u0438\u043A\u0430_\u0413\u0435\u0440\u043C\u0430\u043D\u0438\u0438> ,
+		<http://yi.dbpedia.org/resource/\u05E2\u05E7\u05D0\u05E0\u05D0\u05DE\u05D9\u05E2_\u05E4\u05D5\u05DF_\u05D3\u05D9\u05D9\u05D8\u05E9\u05DC\u05D0\u05E0\u05D3> .
+@prefix dbpedia-id:	<http://id.dbpedia.org/resource/> .
+dbr:Economy_of_Germany	owl:sameAs	dbpedia-id:Ekonomi_Jerman ,
+		<http://gl.dbpedia.org/resource/Econom\u00EDa_de_Alema\u00F1a> ,
+		<http://he.dbpedia.org/resource/\u05DB\u05DC\u05DB\u05DC\u05EA_\u05D2\u05E8\u05DE\u05E0\u05D9\u05D4> ,
+		<http://ka.dbpedia.org/resource/\u10D2\u10D4\u10E0\u10DB\u10D0\u10DC\u10D8\u10D8\u10E1_\u10D4\u10D9\u10DD\u10DC\u10DD\u10DB\u10D8\u10D9\u10D0> .
+@prefix ns20:	<http://lt.dbpedia.org/resource/> .
+dbr:Economy_of_Germany	owl:sameAs	ns20:Vokietijos_ekonomika ,
+		<http://ar.dbpedia.org/resource/\u0627\u0642\u062A\u0635\u0627\u062F_\u0623\u0644\u0645\u0627\u0646\u064A\u0627> ,
+		<http://oc.dbpedia.org/resource/Economia_d\u0027Alemanha> ,
+		<http://az.dbpedia.org/resource/Almaniya_iqtisadiyyat\u0131> .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Economy_of_Germany	owl:sameAs	wikidata:Q8046 .
+@prefix dbpedia-tr:	<http://tr.dbpedia.org/resource/> .
+dbr:Economy_of_Germany	owl:sameAs	dbpedia-tr:Almanya_ekonomisi ,
+		<http://bg.dbpedia.org/resource/\u0418\u043A\u043E\u043D\u043E\u043C\u0438\u043A\u0430_\u043D\u0430_\u0413\u0435\u0440\u043C\u0430\u043D\u0438\u044F> ,
+		<http://hr.dbpedia.org/resource/Gospodarstvo_Njema\u010Dke> ,
+		<http://hu.dbpedia.org/resource/N\u00E9metorsz\u00E1g_gazdas\u00E1ga> ,
+		<http://vi.dbpedia.org/resource/Kinh_t\u1EBF_\u0110\u1EE9c> ,
+		dbr:Economy_of_Germany ,
+		<http://bs.dbpedia.org/resource/Privreda_Njema\u010Dke> ,
+		<http://uk.dbpedia.org/resource/\u0415\u043A\u043E\u043D\u043E\u043C\u0456\u043A\u0430_\u041D\u0456\u043C\u0435\u0447\u0447\u0438\u043D\u0438> ,
+		<http://fa.dbpedia.org/resource/\u0627\u0642\u062A\u0635\u0627\u062F_\u0622\u0644\u0645\u0627\u0646> ,
+		<http://fr.dbpedia.org/resource/\u00C9conomie_de_l\u0027Allemagne> ,
+		<http://th.dbpedia.org/resource/\u0E40\u0E28\u0E23\u0E29\u0E10\u0E01\u0E34\u0E08\u0E40\u0E22\u0E2D\u0E23\u0E21\u0E19\u0E35> .
+@prefix dbpedia-io:	<http://io.dbpedia.org/resource/> .
+dbr:Economy_of_Germany	owl:sameAs	dbpedia-io:Ekonomio_di_Germania .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Economy_of_Germany	owl:sameAs	dbpedia-it:Economia_della_Germania ,
+		<http://ca.dbpedia.org/resource/Economia_d\u0027Alemanya> .
+@prefix dbpedia-ro:	<http://ro.dbpedia.org/resource/> .
+dbr:Economy_of_Germany	owl:sameAs	dbpedia-ro:Economia_Germaniei .
+@prefix dbpedia-fi:	<http://fi.dbpedia.org/resource/> .
+dbr:Economy_of_Germany	owl:sameAs	dbpedia-fi:Saksan_talous ,
+		<http://da.dbpedia.org/resource/Tysklands_\u00F8konomi> ,
+		<http://ko.dbpedia.org/resource/\uB3C5\uC77C\uC758_\uACBD\uC81C> ;
+	dbo:abstract	"\uB3C5\uC77C\uC758 \uACBD\uC81C\uC5D0 \uB300\uD574 \uC124\uBA85\uD55C\uB2E4."@ko ,
+		"L'economia della Germania \u00E8 una delle pi\u00F9 sviluppate del mondo. Terza per volume di scambi in dollari e prodotto interno lordo, \u00E8 la quinta per potere d'acquisto e la prima d'Europa. Dal 1999 la Germania adotta come propria moneta l'euro e ha delegato le decisioni di politica monetaria alla Banca centrale europea."@it ,
+		"Jerman adalah negara dengan ekonomi terbesar di Eropa, PDB terbesar keempat dunia, dan pendapatan nasional bruto terbesar kelima dunia tahun 2008. Sejak era industrialisasi dan kapitalisme industri, negara ini berhasil menjadi motor, inovator, dan pengglobal ekonomi. Jerman adalah eksportir terbesar ketiga dunia pada tahun 2011 dengan nilai 1,409 triliun dolar AS (negara Zona Euro termasuk). Ekspor sendiri berkontribusi terhadap sepertiga keluaran negara ini. Secara umum Jerman tidak banyak memiliki bahan mentah. Hanya lignit dan  yang tersedia dalam jumlah besar. Sebagian besar pembangkit listrik di Jerman menggunakan lignit sebagai sumber bahan bakar. Minyak bumi, gas alam, dan sumber daya alam lainnya diimpor dari negara lain. Jerman mengimpor kurang lebih dua pertiga dari energinya. Sektor jasa berkontribusi 70% terhadap PDB, industri 29,1%, dan pertanian 0,9%. Kebanyakan produk negara ini adalah produk teknik seperti mobil, mesin, logam, dan bahan kimia. Jerman juga merupakan produsen turbin angin dan teknologi tenaga surya utama dunia. Pameran perdagangan terbesar di dunia diadakan di beberapa kota Jerman seperti Hanover, Frankfurt, dan Berlin. Kombinasi dari produksi berorientasi jasa, penggelontoran dana untuk riset, hubungan kuat antara industri dan akademisi, dan hubungan internasional berkontribusi terhadap ekonomi Jerman. Dari 500 perusahaan terbesar di dunia berdasarkan penghasilannya menurut majalah Fortune Global 500, ada 37 yang berkantor pusat di Jerman. Untuk tahun 2010, sepuluh terbesar adalah Volkswagen, Allianz, E.ON, Daimler, Siemens, Metro, Deutsche Telekom, Munich Re, BASF, dan BMW. Perusahaan besar lainnya diantaranya: Robert Bosch, ThyssenKrupp, dan MAN (industri); Bayer dan Merck (kimia dan obat-obatan); Adidas dan Puma (pakaian dan alas kaki); Commerzbank dan Deutsche Bank (perbankan dan keuangan); Aldi, Lidl dan  (ritel); SAP (perangkat lunak); Infineon (semikonduktor); Henkel (produk rumah tangga); Deutsche Post (logistik); dan Hugo Boss (barang mewah). Merk-merk yang terkenal di pasar global antara lain Mercedes Benz, BMW, Adidas, Audi, Porsche, Volkswagen, Bayer, BASF, Bosch, Siemens, Lufthansa, SAP dan Nivea. Antara tahun 1991 dan 2010, ada 40.301 merger dan akuisisi yang melibatkan perusahaan Jerman, dengan total nilai sekitar 2.422 miliar euro. Transaksi terbesar sejak tahun 1991 adalah akuisisi  oleh Vodafone dengan nilai 204,8 miliar euro tahun 1999, dan merger antara Daimler-Benz dengan Chrysler membentuk DaimlerChrysler dengan nilai 36,3 miliar euro tahun 1998."@in ,
+		"Tyskland \u00E4r med en BNP p\u00E5 2247,4 miljarder euro (t.o.m. 23 maj 2006 f\u00F6r \u00E5ret 2005) Europas st\u00F6rsta ekonomi och industrination och v\u00E4rldens tredje st\u00F6rsta. Tyskland \u00E4r den st\u00F6rsta exportnationen i Europa. Tyskland \u00E4r relativt r\u00E5varufattigt och koncentrerar n\u00E4ringslivet till de sekund\u00E4ra och terti\u00E4ra sektorer (tillverkningsindustri och utveckling). Stora omr\u00E5den av Tyskland anv\u00E4nds f\u00F6r jordbruk men bara 2-3 % arbetar inom jordbrukssektorn. Under senare \u00E5r har tillv\u00E4xten varit svag och man har strukturella problem i globaliseringen och i integrationen av de nya f\u00F6rbundsl\u00E4nderna efter 1990. Den tyska ekonomin beskrivs ofta som en social marknadsekonomi (soziale Marktwirtschaft). Den tyska staten erbjuder ett omfattande utbud av sociala tj\u00E4nster. \u00C4ven om staten i n\u00E5gra sektorer i ekonomin ger st\u00F6d genom subventioner \u00E4r konkurrens och marknadsekonomi grundpelare i den ekonomiska politiken. Regeringarna under 1990- och 2000-talet har genom privatiseringar av Deutsche Bahn och Deutsche Post skapat st\u00F6rre konkurrens. Tyskland \u00E4r starkt exportorienterat."@sv ,
+		"De Bondsrepubliek Duitsland bezit de op vier na sterkste economie van de wereld, na de VS, China en Japan. Het is een sociale markteconomie, een vrije markt waarin de overheid randvoorwaarden stelt. Duitsland is de economische crisis van 2009-2010 sneller te boven gekomen dan de andere Europese landen. Waar de meeste EU-landen bleven worstelen met de nasleep van de crisis, viel Duitsland op door zijn stabiliteit. De Duitse regering had over 2013 een sluitende begroting en de economie groeide dat jaar met 0.4%. In 2009 heeft Duitsland een schuldenplafond opgenomen in de grondwet, de zogenoemde Schuldenbremse. Voor 2016 moet het begrotingstekort zijn teruggebracht tot 0,35 procent. In de jaarlijkse ranking van het World Economic Forum (WEF) was Duitsland in 2014 een plaats gezakt op de lijst met de meest concurrerende landen ter wereld. In 2013 stond de Bondsrepubliek nog op plek vier, in 2014 werd dat een vijfde plaats. Volgens het WEF is deze daling vooral het gevolg van ontwikkelingen op de arbeidsmarkt. Duitsland moest zich meer inzetten om immigranten en vrouwen langdurig op de arbeidsmarkt te integreren. Ook vroeg het WEF zich af hoe flexibel de Duitse arbeidsmarkt nog was na invoering van het minimumloon in 2015. De Bondsdag nam in juli 2014 een wet aan waarin vanaf 2015 een algemeen minimumloon van 8,50 euro per uur was vastgelegd. Die gold voor alle werkenden in Duitsland, hoewel er uitzonderingen zijn voor jongeren en seizoenswerkers. Door de Duitse deling heeft de economie zich in het westen heel anders ontwikkeld dan in het oosten. Na de hereniging in 1990 moest de overheid vele miljarden investeren. Vanaf 2005 gold het , dat bepaalde dat de Duitse overheid tot 2019 156,5 miljard euro voor Oost-Duitsland ter beschikking stelde. Daarnaast betalen alle Duitse burgers een solidariteitstoeslag, een percentage van het inkomen om de kosten van de hereniging te kunnen dekken. De voormalige DDR blijft economisch gezien nog steeds achter op West-Duitsland. De werkloosheid is er aanzienlijk hoger, al gaat het inmiddels de goede kant op. In 2013 was de werkloosheid 6,0 procent in West-Duitsland en 10,3 procent in Oost-Duitsland."@nl ,
+		"A economia da Alemanha \u00E9 a economia mais importante da Europa e \u00E9 a quarta pot\u00EAncia econ\u00F4mica mundial depois dos Estados Unidos, China e Jap\u00E3o. \u00C9 uma economia de mercado na qual a seguridade social tem um peso muito grande na economia, tendo os alem\u00E3es direitos sociais muito extensos. O pa\u00EDs passou por grandes reformas de livre com\u00E9rcio antigamente, deixando de ser o \"homem doente da Europa\" para ser a maior e mais robusta economia do bloco europeu na atualidade. A reunifica\u00E7\u00E3o teve um impacto significativo no crescimento da parte ocidental do pa\u00EDs, com grandes quantidades de dinheiro sendo usadas para financiar a reestrutura\u00E7\u00E3o da por\u00E7\u00E3o Oriental. As ind\u00FAstrias metal\u00FArgicas e qu\u00EDmicas t\u00EAm um significante papel na economia da Alemanha, enquanto na agricultura, a m\u00E9dia propriedade familiar, altamente mecanizada predomina. A cidade de Frankfurt \u00E9 o principal centro financeiro da Alemanha e da Uni\u00E3o Europeia, onde est\u00E1 localizado o Banco Central Europeu e a Bolsa de Valores de Frankfurt. As ind\u00FAstrias e as empresas do setor terci\u00E1rio da Alemanha s\u00E3o bem dispersas pelo pa\u00EDs, o que provoca grande tr\u00E1fego a\u00E9reo e rodoferrovi\u00E1rio. O pa\u00EDs \u00E9 o sexto no ranking de competitividade do F\u00F3rum Econ\u00F4mico Mundial."@pt ,
+		"Die Wirtschaft Deutschlands ist hinsichtlich des Bruttoinlandsprodukts die gr\u00F6\u00DFte Volkswirtschaft Europas und die viertgr\u00F6\u00DFte Volkswirtschaft weltweit. Beim Bruttoinlandsprodukt pro Kopf lag Deutschland 2015 in US-Dollar in Europa an neunter und international an 18. Stelle. Wichtige Bereiche sind Dienstleistungen (69 %) und Industrie (26 %); die Produktion von landwirtschaftlichen G\u00FCtern hat eine relativ geringe Bedeutung. Deutschland ist arm an Rohstoffen und Energierohstoffen; der Abbau von Rohstoffen f\u00E4llt volkswirtschaftlich kaum ins Gewicht. Der Gro\u00DFteil des deutschen Au\u00DFenhandels erfolgt mit anderen Industriel\u00E4ndern; dabei wird ein betr\u00E4chtlicher Au\u00DFenhandels\u00FCberschuss erzielt. Als weltweit konkurrenzf\u00E4higste Wirtschaftsbranchen der deutschen Industrie gelten die Automobil-, Nutzfahrzeug-, Elektrotechnische, Maschinenbau- und Chemieindustrie. Im Dienstleistungsbereich gilt international die Versicherungswirtschaft (insbesondere R\u00FCckversicherungen) als bedeutend. Laut Angaben des globalen Wettbewerbsf\u00E4higkeitindex des Weltwirtschaftsforums rangiert Deutschland auf Platz 5 (von 137 Staaten) der wettbewerbsf\u00E4higsten L\u00E4nder der Welt. Im Index f\u00FCr wirtschaftliche Freiheit belegt Deutschland 2017 Platz 26 von 180 L\u00E4ndern. Deutschland gilt als weltweit bedeutendster Messestandort; zahlreiche Leitmessen finden hier statt. Kongresse, Ausstellungen und eine im internationalen Ma\u00DFstab bedeutende Museums- und Veranstaltungslandschaft sind eine wichtige Grundlage von Reiseverkehr und Tourismus in Deutschland."@de ,
+		"\u0627\u0642\u062A\u0635\u0627\u062F \u0623\u0644\u0645\u0627\u0646\u064A\u0627 \u064A\u0639\u062A\u0628\u0631 \u0623\u062D\u062F \u0623\u0643\u0628\u0631 \u0627\u0642\u062A\u0635\u0627\u062F\u0627\u062A \u0627\u0644\u0639\u0627\u0644\u0645 \u062D\u064A\u062B \u0623\u0646\u0647 \u064A\u062D\u062A\u0644 \u0627\u0644\u0645\u0631\u0643\u0632 \u0627\u0644\u0631\u0627\u0628\u0639 \u0645\u0646 \u062D\u064A\u062B \u0627\u0644\u0646\u0627\u062A\u062C \u0627\u0644\u0645\u062D\u0644\u064A \u0627\u0644\u0625\u062C\u0645\u0627\u0644\u064A \u0628\u0639\u062F \u0627\u0644\u0648\u0644\u0627\u064A\u0627\u062A \u0627\u0644\u0645\u062A\u062D\u062F\u0629 \u0648\u0627\u0644\u0635\u064A\u0646 \u0648\u0627\u0644\u064A\u0627\u0628\u0627\u0646. \u0648\u0627\u0644\u0645\u0631\u062A\u0628\u0629 \u0627\u0644\u062E\u0627\u0645\u0633\u0629 \u0645\u0646 \u062D\u064A\u062B \u0627\u0644\u0642\u0648\u0629 \u0627\u0644\u0634\u0631\u0627\u0626\u064A\u0629 \u062A\u0639\u062A\u0628\u0631 \u0623\u0644\u0645\u0627\u0646\u064A\u0627 \u0627\u0644\u0623\u0643\u062B\u0631 \u0633\u0643\u0627\u0646\u0627\u064B \u0641\u064A \u0623\u0648\u0631\u0648\u0628\u0627 \u062D\u064A\u062B \u0623\u0646 \u0639\u062F\u062F \u0633\u0643\u0627\u0646\u0647\u0627 \u064A\u0628\u0644\u063A 82 \u0645\u0644\u064A\u0648\u0646 \u0646\u0633\u0645\u0629 \u062A\u0642\u0631\u064A\u0628\u0627\u064B. \u0627\u0642\u062A\u0635\u0627\u062F \u0623\u0644\u0645\u0627\u0646\u064A\u0627 \u0627\u0644\u0645\u0632\u062F\u0647\u0631 \u064A\u062C\u0630\u0628 \u0627\u0644\u0645\u0644\u0627\u064A\u064A\u0646 \u0645\u0646 \u0627\u0644\u0645\u0647\u0627\u062C\u0631\u064A\u0646 \u0645\u0646 \u0645\u062E\u062A\u0644\u0641 \u0623\u0646\u062D\u0627\u0621 \u0627\u0644\u0639\u0627\u0644\u0645 \u0643\u0645\u0627 \u0647\u0648 \u062B\u0627\u0644\u062B \u0623\u0643\u0628\u0631 \u062F\u0648\u0644\u0629 \u0645\u0646 \u062D\u064A\u062B \u0639\u062F\u062F \u0627\u0644\u0645\u0647\u0627\u062C\u0631\u064A\u0646 \u0644\u0647\u0627. \u062A\u062D\u062F \u0623\u0644\u0645\u0627\u0646\u064A\u0627 \u0643\u0644 \u0646 \u0628\u0648\u0644\u0646\u062F\u0627 \u0648\u062C\u0645\u0647\u0648\u0631\u064A\u0629 \u0627\u0644\u062A\u0634\u064A\u0643 \u0648\u0627\u0644\u0646\u0645\u0633\u0627 \u0648\u0633\u0648\u064A\u0633\u0631\u0627 \u0648\u0641\u0631\u0646\u0633\u0627 \u0648\u0647\u0648\u0644\u0646\u062F\u0627. \u0627\u0644\u0645\u0633\u0627\u062D\u0629 \u062D\u0648\u0627\u0644\u064A 357021\u060C \u0648\u062D\u0627\u0641\u0638\u062A \u0639\u0644\u0649 \u0645\u0633\u062A\u0648\u0649 \u0639\u0627\u0644\u064D \u0645\u0646 \u0627\u0644\u0645\u0639\u064A\u0634\u0629. \u0648\u0645\u0646 \u0627\u0644\u0645\u0639\u0631\u0648\u0641 \u0639\u0646 \u0623\u0644\u0645\u0627\u0646\u064A\u0627 \u0623\u0646\u0647\u0627 \u0631\u0627\u0633\u062E\u0629 \u0641\u064A \u0646\u0638\u0627\u0645 \u0627\u0644\u0636\u0645\u0627\u0646 \u0627\u0644\u0627\u062C\u062A\u0645\u0627\u0639\u064A \u0627\u0644\u0630\u064A \u064A\u0646\u0628\u0639 \u0645\u0646 \u0627\u0632\u062F\u0647\u0627\u0631 \u0627\u0644\u0627\u0642\u062A\u0635\u0627\u062F \u0627\u0644\u0623\u0644\u0645\u0627\u0646\u064A. \u064A\u0630\u0643\u0631 \u0623\u0646 \u0623\u0644\u0645\u0627\u0646\u064A\u0627 \u0647\u064A \u0623\u0643\u0628\u0631 \u0627\u0642\u062A\u0635\u0627\u062F \u0641\u064A \u0627\u0644\u0627\u062A\u062D\u0627\u062F \u0627\u0644\u0623\u0648\u0631\u0648\u0628\u064A. \u0641\u0647\u064A \u062A\u0633\u062A\u0641\u064A\u062F \u0645\u0646 \u0645\u062C\u0645\u0648\u0639\u0629 \u0643\u0628\u064A\u0631\u0629 \u0645\u0646 \u0627\u0644\u0642\u0648\u0649 \u0627\u0644\u0639\u0627\u0645\u0644\u0629 \u0627\u0644\u0645\u0648\u0647\u0648\u0628\u0629 \u0627\u0644\u062A\u064A \u0645\u0643\u0646\u062A \u0623\u0644\u0645\u0627\u0646\u064A\u0627 \u0645\u0646 \u0623\u0646 \u062A\u0643\u0648\u0646 \u0648\u0627\u062D\u062F\u0629 \u0645\u0646 \u0623\u0643\u062B\u0631 \u0627\u0644\u062F\u0648\u0644 \u0635\u0646\u0627\u0639\u0629\u064B \u0644\u0644\u0633\u064A\u0627\u0631\u0627\u062A \u0648\u0627\u0644\u0622\u0644\u0627\u062A \u0648\u0627\u0644\u0645\u0648\u0627\u062F \u0627\u0644\u0643\u064A\u0645\u064A\u0627\u0626\u064A\u0629 \u0648\u0627\u0644\u0645\u0639\u062F\u0627\u062A \u0648\u0627\u0644\u0623\u062F\u0648\u0627\u062A \u0627\u0644\u0645\u0646\u0632\u0644\u064A\u0629 \u0641\u064A \u062C\u0645\u064A\u0639 \u0623\u0646\u062D\u0627\u0621 \u0627\u0644\u0639\u0627\u0644\u0645. \u0648\u062A\u0648\u0627\u062C\u0647 \u0623\u0644\u0645\u0627\u0646\u064A\u0627 \u062A\u062D\u062F\u064A\u0627\u062A \u062F\u064A\u0645\u0648\u063A\u0631\u0627\u0641\u064A\u0629 \u0643\u0628\u064A\u0631\u0629 \u0644\u062A\u062D\u0642\u064A\u0642 \u0627\u0644\u0646\u0645\u0648 \u0639\u0644\u0649 \u0627\u0644\u0645\u062F\u0649 \u0627\u0644\u0637\u0648\u064A\u0644. \u0648\u0644\u0642\u062F\u0623\u0637\u0644\u0642\u062A \u062D\u0643\u0648\u0645\u0629 \u0627\u0644\u0645\u0633\u062A\u0634\u0627\u0631 \u0627\u0644\u0623\u0644\u0645\u0627\u0646\u064A \u063A\u064A\u0631\u0647\u0627\u0631\u062F \u0634\u0631\u0648\u062F\u0631(1998-2005) \u0625\u0635\u0644\u0627\u062D\u0627\u062A \u0644\u0644\u0627\u0642\u062A\u0635\u0627\u062F\u060C \u0627\u0644\u062A\u064A \u062A\u0639\u062A\u0628\u0631 \u0636\u0631\u0648\u0631\u064A\u0629 \u0644\u0644\u062A\u0635\u062F\u064A \u0644\u0627\u0631\u062A\u0641\u0627\u0639 \u0645\u0639\u062F\u0644\u0627\u062A \u0627\u0644\u0628\u0637\u0627\u0644\u0629 \u0627\u0644\u0645\u0632\u0645\u0646\u0629 \u0648\u0627\u0646\u062E\u0641\u0627\u0636 \u0645\u062A\u0648\u0633\u0637 \u0627\u0644\u0646\u0645\u0648\u060C \u0648\u0633\u0627\u0647\u0645\u062A \u0641\u064A \u0627\u0644\u0646\u0645\u0648 \u0627\u0644\u0642\u0648\u064A \u0641\u064A \u0639\u0627\u0645\u064A 2006 \u06482007 \u0648\u0627\u0646\u062E\u0641\u0627\u0636 \u0645\u0639\u062F\u0644 \u0627\u0644\u0628\u0637\u0627\u0644\u0629. \u0627\u0644\u062A\u062D\u0641\u064A\u0632 \u0648\u062C\u0647\u0648\u062F \u062A\u062D\u0642\u064A\u0642 \u0627\u0644\u0627\u0633\u062A\u0642\u0631\u0627\u0631 \u0627\u0644\u062A\u064A \u0628\u062F\u0623\u062A \u0641\u064A 2008 \u06482009 \u0648\u0627\u0644\u062A\u062E\u0641\u064A\u0636\u0627\u062A \u0627\u0644\u0636\u0631\u064A\u0628\u064A\u0629 \u0627\u0644\u062A\u064A \u0623\u062F\u062E\u0644\u062A \u0641\u064A \u0641\u062A\u0631\u0629 \u0648\u0644\u0627\u064A\u0629 \u0623\u0646\u063A\u064A\u0644\u0627 \u0645\u064A\u0631\u0643\u0644 \u0627\u0644\u062B\u0627\u0646\u064A\u0629 \u0633\u064A\u0632\u064A\u062F \u0645\u0646 \u0627\u0644\u0639\u062C\u0632 \u0641\u064A \u0627\u0644\u0645\u0648\u0627\u0632\u0646\u0629 \u0627\u0644\u0623\u0644\u0645\u0627\u0646\u064A\u0629. \n* \u2002\u0645\u0642\u0627\u0644\u0629 \u0645\u0641\u0635\u0644\u0629: \u062A\u0627\u0631\u064A\u062E \u0623\u0644\u0645\u0627\u0646\u064A\u0627 \u0627\u0644\u0627\u0642\u062A\u0635\u0627\u062F\u064A"@ar ,
+		"La econom\u00EDa de Alemania es la cuarta econom\u00EDa m\u00E1s poderosa del mundo despu\u00E9s de la de Estados Unidos, China y Jap\u00F3n y la quinta por PIB (PPA). El pa\u00EDs es considerado el motor econ\u00F3mico de la Uni\u00F3n Europea (UE). En 2014, Alemania registr\u00F3 el mayor super\u00E1vit comercial en el mundo con 285 mil millones de d\u00F3lares, por lo que es el mayor exportador de capital a nivel mundial. Alemania es el tercer mayor exportador del mundo con 1.511.000 millones de d\u00F3lares exportados en 2014. Las exportaciones representan el 41% de la producci\u00F3n nacional. El sector servicios contribuye alrededor del 70% del total del PIB, la industria 29,1%, y la agricultura 0,9%. Los principales bienes exportados de Alemania son veh\u00EDculos, maquinarias, productos qu\u00EDmicos, productos electr\u00F3nicos, productos farmac\u00E9uticos, equipos de transporte, metales b\u00E1sicos, productos alimenticios, caucho y pl\u00E1sticos. La pol\u00EDtica socio-econ\u00F3mica de Alemania se basa en el concepto de econom\u00EDa social de mercado. Alemania es el primer pa\u00EDs industrializado importante del mundo que se compromete a la transici\u00F3n energ\u00E9tica renovable llamada Energiewende. Alemania es el principal productor de turbinas e\u00F3licas y tecnolog\u00EDa de energ\u00EDa solar en el mundo. M\u00E1s de 1,5 millones de plantas de generaci\u00F3n de energ\u00EDa renovable se han instalado en Alemania durante los \u00FAltimos 25 a\u00F1os. Las energ\u00EDas renovables producen en la actualidad m\u00E1s del 27% de la electricidad total que se consume en Alemania. El 99% de todas las empresas alemanas pertenecen a las denominadas Mittelstand, peque\u00F1as y medianas empresas de propiedad familiar. De las 500 empresas que cotizan en bolsa m\u00E1s grandes del mundo, 50 tienen su sede en Alemania. Por capitalizaci\u00F3n de mercado, 20 empresas con sede en Alemania est\u00E1n en el Fortune Global 500 como Volkswagen, Allianz, Daimler, BMW, Siemens, BASF, Munich Re, E.ON, Bayer, y RWE. Alemania es el mayor productor de lignito en el mundo. Alemania tambi\u00E9n es rica en madera, hierro, potasa, sal, uranio, n\u00EDquel, cobre y gas natural. La energ\u00EDa en Alemania se obtiene principalmente por los combustibles f\u00F3siles, seguida de la energ\u00EDa nuclear, y por las energ\u00EDas renovables como la biomasa (madera y biocombustibles), e\u00F3lica, hidr\u00E1ulica y solar. Alemania es la ubicaci\u00F3n m\u00E1s importante para las ferias comerciales del mundo. Alrededor de dos tercios de las ferias m\u00E1s importantes del mundo se llevan a cabo en Alemania. Las mayores ferias anuales y congresos internacionales se llevan a cabo en varias ciudades alemanas, como Hannover, Munich, Frankfurt y Berl\u00EDn. Alemania es el \u00FAnico pa\u00EDs entre los cinco principales exportadores de armas que no es miembro permanente del Consejo de Seguridad de las Naciones Unidas."@es ,
+		"\u5FB7\u56FD\u662F\u6B27\u6D32\u6700\u5927\u7ECF\u6D4E\u4F53\uFF0C\u5168\u7403\u56FD\u5185\u751F\u4EA7\u603B\u503C\u7B2C\u56DB\u5927\u56FD\uFF08\u56FD\u9645\u6C47\u7387\uFF09\uFF0C\u4EE5\u53CA\u56FD\u5185\u751F\u4EA7\u603B\u503C\u7B2C\u4E94\u5927\u56FD\uFF08\u8D2D\u4E70\u529B\u5E73\u4EF7\uFF09\u3002\u5F9E\u5DE5\u4E1A\u9769\u547D\u65F6\u671F\u4EE5\u540E\uFF0C\u5FB7\u56FD\u4E00\u76F4\u662F\u65E5\u76CA\u5168\u7403\u5316\u7684\u7ECF\u6D4E\u7684\u5148\u9A71\u3001\u521B\u65B0\u8005\u548C\u53D7\u76CA\u8005\u3002\u5FB7\u56FD\u7684\u7ECF\u6D4E\u653F\u7B56\u57FA\u4E8E\u793E\u4F1A\u5E02\u573A\u7ECF\u6D4E\u7684\u6982\u5FF5\u3002\u5FB7\u56FD\u662F\u6B27\u76DF\u548C\u6B27\u5143\u533A\u7684\u521B\u59CB\u6210\u5458\u4E4B\u4E00\u3002\u51ED\u501F\u5176\u57282012\u5E741.516\u4E07\u4EBF\u7F8E\u5143\u7684\u51FA\u53E3\u989D\uFF0C\u5FB7\u56FD\u662F\u4E16\u754C\u7B2C\u4E09\u5927\u51FA\u53E3\u56FD\u3002\u51FA\u53E3\u989D\u5360\u8D85\u8FC7\u4E09\u5206\u4E4B\u4E00\u7684\u56FD\u5BB6\u8F93\u51FA\u3002\u57282013\u5E74\uFF0C\u5FB7\u56FD\u5728\u5168\u7403\u53D6\u5F97\u4E862,700\u4EBF\u7F8E\u5143\u7684\u8D38\u6613\u987A\u5DEE\uFF0C\u6210\u4E3A\u5168\u7403\u6700\u5927\u7684\u8D44\u672C\u8F93\u51FA\u56FD\u3002 \u5FB7\u56FD\u662F\u4E16\u754C\u4E0A\u6700\u5927\u7684\u8910\u7164\u751F\u4EA7\u56FD\u3002 \u5FB7\u56FD\u8FD8\u542B\u6709\u4E30\u5BCC\u7684\u6728\u6750\uFF0C\u94C1\u77FF\uFF0C\u94BE\u80A5\uFF0C\u76D0\uFF0C\u94C0\uFF0C\u954D\uFF0C\u94DC\u548C\u5929\u7136\u6C14\u3002 \u5FB7\u56FD\u7684\u80FD\u6E90\u4E3B\u8981\u6765\u6E90\u4E8E\u5316\u77F3\u71C3\u6599\uFF0C\u5176\u6B21\u662F\u6838\u7535\uFF0C\u7C7B\u4F3C\u751F\u7269\u8D28\u80FD\u7684\u53EF\u518D\u751F\u80FD\u6E90\uFF08\u6728\u6750\u548C\u751F\u7269\u71C3\u6599\uFF09\uFF0C\u98CE\u80FD\uFF0C\u6C34\u80FD\u548C\u592A\u9633\u80FD\u3002 \u670D\u52A1\u4E1A\u7EA6\u8D21\u732E\u4E86GDP\u603B\u91CF\u768470%\uFF0C\u5DE5\u4E1A29.1%\uFF0C\u519C\u4E1A0.9%\u3002\u5FB7\u56FD\u7684\u591A\u6570\u4EA7\u4E1A\u5728\u5DE5\u4E1A\uFF0C\u7279\u522B\u662F\u5728\u6C7D\u8F66\uFF0C\u673A\u68B0\uFF0C\u91D1\u5C5E\u548C\u5316\u5DE5\u54C1\u3002"@zh ,
+		"\u30C9\u30A4\u30C4\u306E\u7D4C\u6E08\uFF08\u30C9\u30A4\u30C4\u8A9E: Wirtschaft Deutschlands\uFF09\u306F\u30E8\u30FC\u30ED\u30C3\u30D1\u3001\u4E16\u754C\u3067\u3082\u975E\u5E38\u306B\u767A\u9054\u3057\u305F\u5E02\u5834\u306E\u4E00\u3064\u3067\u3042\u308B\u3002\u30A2\u30E1\u30EA\u30AB\u5408\u8846\u56FD\u30C9\u30EB\u306E\u70BA\u66FF\u30EC\u30FC\u30C8\u3067\u306F\u4E16\u754C\u30674\u756A\u76EE\u3001\u8CFC\u8CB7\u529B\u5E73\u4FA1 (PPP) \u30D9\u30FC\u30B9\u306EGDP\u3067\u306F\u4E16\u754C\u30675\u756A\u76EE\u306E\u898F\u6A21\u3068\u306A\u3063\u3066\u3044\u308B\u3002 \u3057\u304B\u3057\u3001\u8FD1\u5E74\u306E\u30C9\u30A4\u30C4\u306E\u7D4C\u6E08\u306F\u505C\u6EDE\u6C17\u5473\u306B\u3042\u3063\u305F\u3002\u5916\u90E8\u304B\u3089\u306E\u5F71\u97FF\u3084\u65E7\u6771\u30C9\u30A4\u30C4\u5730\u57DF\u306E\u652F\u63F4\u306B\u3088\u308B\u7D4C\u6E08\u306E\u75B2\u5F0A\u306E\u305F\u3081\u3067\u3042\u308B\u3002 \u56FD\u5BB6\u751F\u7523\u306E3\u5206\u306E1\u3092\u5360\u3081\u308B\u8F38\u51FA\u306F\u3001\u30C9\u30A4\u30C4\u306E\u7D4C\u6E08\u306B\u5BFE\u3057\u3066\u5927\u304D\u306A\u5F71\u97FF\u529B\u3092\u6301\u3063\u3066\u3044\u308B\u3002\u305D\u306E\u305F\u3081\u8F38\u51FA\u306F\u30C9\u30A4\u30C4\u306E\u30DE\u30AF\u30ED\u7D4C\u6E08\u62E1\u5927\u3078\u306E\u91CD\u8981\u306A\u8981\u7D20\u306E\u4E00\u3064\u3068\u306A\u3063\u3066\u3044\u308B\u3002\u30C9\u30A4\u30C4\u306E\u901A\u8CA8\u306F\u30E6\u30FC\u30ED\u3092\u4F7F\u7528\u3057\u3066\u304A\u308A\u3001\u6B27\u5DDE\u4E2D\u592E\u9280\u884C\u306E\u672C\u90E8\u306F\u30C9\u30A4\u30C4\u306E\u30D5\u30E9\u30F3\u30AF\u30D5\u30EB\u30C8\u306B\u6240\u5728\u3059\u308B\u3002\u30C9\u30A4\u30C4\u306F\u30E8\u30FC\u30ED\u30C3\u30D1\u306B\u304A\u3051\u308B\u5730\u57DF\u7D4C\u6E08\u7D71\u5408\u306E\u5F37\u3044\u4E3B\u5531\u8005\u306E\u4E00\u3064\u3067\u3001\u30E6\u30FC\u30ED\u3092\u6B27\u5DDE\u4E2D\u592E\u9280\u884C\u306E\u9280\u884C\u5238\u306B\u3059\u308B\u4E2D\u592E\u9280\u884C\u901A\u8CA8\u653F\u7B56\u3092\u63A8\u3057\u9032\u3081\u3066\u3044\u308B\u3002 \u5916\u90E8\u304B\u3089\u306E\u5F71\u97FF\u3082\u3055\u308B\u3053\u3068\u306A\u304C\u3089\u3001\u56FD\u5185\u306E\u69CB\u9020\u554F\u984C\u304C\u6700\u8FD1\u306E\u7D4C\u6E08\u306E\u920D\u3055\u306B\u5927\u304D\u304F\u304B\u304B\u308F\u3063\u3066\u3044\u308B\u3002\u307E\u305F\u3001\u52B4\u50CD\u5E02\u5834\u306E\u67D4\u8EDF\u6027\u306E\u306A\u3055\u306F\u6301\u7D9A\u7684\u306B\u7D9A\u304F\u9AD8\u3044\u5931\u696D\u7387\u306E\u304A\u3082\u306A\u8981\u56E0\u3067\u3042\u308B\u3068\u3044\u308F\u308C\u3066\u304A\u308A\u3001\u91CD\u3044\u5B98\u50DA\u7684\u306A\u6CD5\u4EE4\u306F\u591A\u304F\u306E\u4F01\u696D\u3084\u3001\u65B0\u898F\u306B\u59CB\u3081\u3088\u3046\u3068\u3059\u308B\u30D3\u30B8\u30CD\u30B9\u306E\u624B\u7D9A\u304D\u306E\u904E\u7A0B\u306B\u8CA0\u62C5\u3092\u304B\u3051\u3066\u3044\u308B\u3002\u305D\u308C\u3067\u3082\u3001\u8F38\u51FA\u306B\u95A2\u3057\u3066\u306F1995\u5E74\u304B\u30892001\u5E74\u306B\u304B\u3051\u3066\u975E\u5E38\u306B\u597D\u8ABF\u306A\u52D5\u304D\u3092\u898B\u305B\u3066\u3044\u308B\u3002"@ja ,
+		"2018an Alemaniako ekonomia munduko 4. handiena izan zen. Alemania da munduko laugarren ekonomia indartsuenaren jabe. Merkatu sistema kapitalista du, baina ongizatearen sistemak orekatua, estatuak gizarte laguntza handiak ematen baititu. Alemaniako Errepublika Federala munduko lehen herri esportatzailea da (hain zuzen ere, esportazioa beti izan da Alemaniako ekonomiaren funtsezko elementua) eta ondasun gehien inportatzen dituen bigarrena. Ahalegin handiak egin ditu Europan ekonomia eta politika batasuna hedatzeko, eta bere ekonomia eta merkatritza politiketan gero eta eragin handiagoa dute Europar Batasuneko kideen arteko hitzarmenek. Gaur egun, Ekialdeko Alemania txertatzeko prozesuak aurrera jarraitzen du eta ahalegin handiak egiten ari dira haren atzerapena onez eramateko: izan ere, hango nekazaritza (garia, zekalea, patata, azukre erremolatxa, barazkiak, ), zeinak biztanle aktiboen % 10 hartzen baitzuen, bitarteko mekanikoak berriztatu beharrean dago, eta orobat aldatu beharra dauzka lanaren ohiturak eta kultura. Ekialdeko Alemanian, industria, lignitoari esker garatu dena \u2013horixe baita mea baliabide ugari bakarra (Leipzig, Halle, Lusazian)\u2013, burdingintza eta kimika industriaren mende egon da (Ekialdeko Berlin, Dresden, Leipzig, Chemnitz). 1996an, Ekialdeko L\u00E4nder-ek aldaketa handiak egin dituzte egokitze eta berriztatze aldera. 1999ko urtarrilaren 1ean, Alemaniak eta Europar Batasuneko beste 10 estatuk, Europako Diru Batasuna jarri zuten abian, truke balioak behin betiko finkatzeko, eta Europako Banku Zentral berriari aginpidea eman zioten eskualde horretako diru politikaren gainean. Europar diru berria, euroa, 2002an bereganatu zuten alemanek. Nolanahi ere, esportazio politikak emaitza onak ematen dituen arren, Alemaniak baditu konpondu beharreko hainbat arazo ekonomiko, langabeziarena adibidez; 2008an, % 7,3koa zen. Lanpostuak sortzeko neurriak ez dira espero bezain eraginkorrak izan, eta ez dirudi langabezia epe laburrean konponduko den arazoa denik."@eu ,
+		"Alemanya \u00E9s una de les economies de mercat m\u00E9s desenvolupades del m\u00F3n. \u00C9s la tercera economia m\u00E9s gran del m\u00F3n, en termes del Producte Intern Brut calculat basant-se en les taxes de canvi euro-d\u00F2lar, i la cinquena basant-se en la paritat de poder adquisitiu. \u00C9s l'economia m\u00E9s gran d'Europa. L'acompliment recent, per\u00F2, no ha estat din\u00E0mic, i l'economia alemanya ha estat marcada per la seva vulnerabilitat als xocs externs, als problemes estructurals interns, i les dificultats relacionades amb la Reunificaci\u00F3 alemanya. Els alemanys descriuen llur sistema econ\u00F2mic com a \"economia de mercat social\". El govern proveeix una xarxa extensa de serveis socials. Encara que el govern interv\u00E9 en l'economia per mitj\u00E0 de l'aplicaci\u00F3 de subsidis en alguns sectors espec\u00EDfics i en el control d'algunes empreses p\u00FAbliques, la compet\u00E8ncia i el lliure mercat s\u00F3n promoguts com a pol\u00EDtica econ\u00F2mica. L'economia d'Alemanya s'ha convertit en una de les economies amb menor creixement de la zona euro, i no es preveu cap canvi en el futur. El creixement durant el per\u00EDode de 2001-2003 va ser menor a l'1%, va incrementar-se a l'1,7% el 2004 per\u00F2, va caure al 0,9% el 2005. La modernitzaci\u00F3 i la integraci\u00F3 de l'economia de l'Alemanya Oriental encara continuen, amb una transfer\u00E8ncia de la regi\u00F3 occidental cap a la regi\u00F3 oriental de $70 mil milions de d\u00F2lars. La poblaci\u00F3 alemanya, que continua envellint, en combinaci\u00F3 amb l'alta taxa d'atur, ha pujat els nivells de seguretat social sobre el nivell de les contribucions dels treballadors. Les estructures del mercat laboral s\u00F3n r\u00EDgides la qual cosa ha contribu\u00EFt a l'agreujament de la taxa d'atur. La caiguda en la renda percebuda pels impostos i l'augment de les despeses han incrementat el d\u00E8ficit sobre el l\u00EDmit del 3% estipulat per la Uni\u00F3 Europea. A causa de la crisi econ\u00F2mica de finals de la d\u00E8cada del 2000, Alemanya va aprovar en juny del 2010 el pla d'austeritat m\u00E9s sever des de la Segona Guerra Mundial amb l'objectiu d'estalviar 80.000 milions d'euros."@ca ,
+		"L'Allemagne est depuis 2007 la quatri\u00E8me puissance \u00E9conomique mondiale, derri\u00E8re les \u00C9tats-Unis, la Chine et le Japon, est la premi\u00E8re de l'Union europ\u00E9enne et de l'Europe, avec un produit int\u00E9rieur brut de 3 677 milliards de dollars. Cependant, en parit\u00E9 de pouvoir d'achat, l'Allemagne est cinqui\u00E8me derri\u00E8re la Chine, le Japon et l\u2019Inde. Elle \u00E9tait le deuxi\u00E8me grand exportateur apr\u00E8s les \u00C9tats-Unis ; elle est aujourd'hui le troisi\u00E8me plus grand exportateur mondial de biens derri\u00E8re les \u00C9tats-Unis et la Chine avec 1 493 milliards d'euros de biens export\u00E9s en 2013. En classement par PIB en PPA, l\u2019Allemagne est le 5e pays. L\u2019Allemagne se caract\u00E9rise par une population active qualifi\u00E9e gr\u00E2ce \u00E0 l'apprentissage professionnel, et un niveau de vie \u00E9lev\u00E9. Les entreprises et les syndicats allemands fonctionnent en cogestion ; on parle de capitalisme rh\u00E9nan."@fr ,
+		"Gospodarka Niemiec \u2013 rozwini\u0119ta spo\u0142eczna gospodarka rynkowa, najwi\u0119ksza w Europie i czwarta na \u015Bwiecie (po USA, Chinach i Japonii). Niemcy s\u0105 trzecim po Chinach i USA \u015Bwiatowym eksporterem. Z 1,339 bln dolar\u00F3w w 2014 roku maj\u0105 nadwy\u017Ck\u0119 handlow\u0105 285 mld euro. Eksport stanowi ponad jedn\u0105 trzeci\u0105 produkcji krajowej."@pl ,
+		"N\u011Bmeck\u00E1 ekonomika je se sv\u00FDm HDP o v\u00FD\u0161i 2 307,20 mld. eur nejv\u011Bt\u0161\u00ED ekonomikou v Evrop\u011B a \u010Dtvrt\u00E1 nejv\u011Bt\u0161\u00ED na sv\u011Bt\u011B. N\u011Bmecko pat\u0159\u00ED k sv\u011Btov\u011B nejrozvinut\u011Bj\u0161\u00EDm a nejtechnologi\u010Dt\u011Bj\u0161\u00EDm hospod\u00E1\u0159stv\u00EDm, co\u017E je mj. d\u016Fle\u017Eit\u00FD p\u0159edpoklad pro dobrou pozici na mezin\u00E1rodn\u00EDm trhu zbo\u017E\u00ED a slu\u017Eeb. Proto\u017Ee je v SRN relativn\u011B m\u00E1lo surovinov\u00FDch nalezi\u0161\u0165, zam\u011B\u0159uje se hospod\u00E1\u0159stv\u00ED p\u0159edev\u0161\u00EDm na sekund\u00E1rn\u00ED a terci\u00E1rn\u00ED sektor. Velk\u00E1 \u010D\u00E1st zem\u011B je zem\u011Bd\u011Blsky vyu\u017Eita, z\u00E1rove\u0148 v\u0161ak v zem\u011Bd\u011Blstv\u00ED pracuj\u00ED pouze 2 \u2013 3 % zam\u011Bstnanc\u016F. V posledn\u00EDch letech v\u0161ak byl hospod\u00E1\u0159sk\u00FD r\u016Fst zem\u011B v mezin\u00E1rodn\u00EDm porovn\u00E1n\u00ED podpr\u016Fm\u011Brn\u00FD. K tomu p\u0159isp\u011Bly nejen trvaj\u00EDc\u00ED probl\u00E9my s integrac\u00ED spolkov\u00FDch zem\u00ED b\u00FDval\u00E9ho v\u00FDchodn\u00EDho bloku (NDR)."@cs ,
+		"\u041D\u0456\u043C\u0435\u0447\u0447\u0438\u043D\u0430 \u2014 \u043F\u0440\u043E\u0432\u0456\u0434\u043D\u0430 \u0435\u043A\u043E\u043D\u043E\u043C\u0456\u0447\u043D\u0430 \u0434\u0435\u0440\u0436\u0430\u0432\u0430 \u0404\u0432\u0440\u043E\u043F\u0438. \u041F\u0440\u043E\u0432\u0456\u0434\u043D\u0435 \u043C\u0456\u0441\u0446\u0435 \u0432 \u0435\u043A\u043E\u043D\u043E\u043C\u0456\u0446\u0456 \u0437\u0430\u0439\u043C\u0430\u0454 \u0433\u0456\u0440\u043D\u0438\u0447\u0430, \u043C\u0435\u0442\u0430\u043B\u0443\u0440\u0433\u0456\u0439\u043D\u0430, \u0445\u0456\u043C\u0456\u0447\u043D\u0430, \u043C\u0430\u0448\u0438\u043D\u043E\u0431\u0443\u0434\u0456\u0432\u043D\u0430, \u0445\u0430\u0440\u0447\u043E\u0432\u0430, \u0441\u0443\u0434\u043D\u043E\u0431\u0443\u0434\u0456\u0432\u043D\u0430, \u0442\u0435\u043A\u0441\u0442\u0438\u043B\u044C\u043D\u0430, \u043D\u0430\u0444\u0442\u043E\u043F\u0435\u0440\u0435\u0440\u043E\u0431\u043D\u0430 \u043F\u0440\u043E\u043C\u0438\u0441\u043B\u043E\u0432\u0456\u0441\u0442\u044C. \u0420\u043E\u0437\u0432\u0438\u043D\u0435\u043D\u0456 \u0432\u0441\u0456 \u0432\u0438\u0434\u0438 \u0441\u0443\u0447\u0430\u0441\u043D\u043E\u0433\u043E \u0442\u0440\u0430\u043D\u0441\u043F\u043E\u0440\u0442\u0443. \u041C\u0435\u0440\u0435\u0436\u0430 \u0437\u0430\u043B\u0456\u0437\u043D\u0438\u0446\u044C, \u0430\u0432\u0442\u043E\u0431\u0430\u043D\u0456\u0432, \u0442\u0440\u0443\u0431\u043E\u043F\u0440\u043E\u0432\u0456\u0434\u043D\u043E\u0433\u043E \u0442\u0440-\u0442\u0443. \u0413\u043E\u043B. \u043C\u043E\u0440\u0441\u044C\u043A\u0456 \u043F\u043E\u0440\u0442\u0438 \u2014 \u0413\u0430\u043C\u0431\u0443\u0440\u0433, \u0411\u0440\u0435\u043C\u0435\u043D, \u0412\u0456\u043B\u044C\u0433\u0435\u043B\u044C\u043C\u0441\u0433\u0430\u0444\u0435\u043D, \u0411\u0440\u0435\u043C\u0435\u0440\u0433\u0430\u0444\u0435\u043D, \u041B\u044E\u0431\u0435\u043A, \u0420\u043E\u0441\u0442\u043E\u043A, \u0412\u0430\u0440\u043D\u0435\u043C\u044E\u043D\u0434\u0435, \u0412\u0456\u0441\u043C\u0430\u0440, \u0428\u0442\u0440\u0430\u043B\u044C\u0437\u0443\u043D\u0434. \u0413\u043E\u043B\u043E\u0432\u043D\u0438\u0439 \u0437\u0430\u0445\u0456\u0434\u043D\u043E\u043D\u0456\u043C\u0435\u0446\u044C\u043A\u0438\u0439 \u0430\u0435\u0440\u043E\u043F\u043E\u0440\u0442, \u043D\u0430\u0439\u0431\u0456\u043B\u044C\u0448\u0438\u0439 \u0443 \u0432\u0441\u0456\u0439 \u043A\u043E\u043D\u0442\u0438\u043D\u0435\u043D\u0442\u0430\u043B\u044C\u043D\u0456\u0439 \u0404\u0432\u0440\u043E\u043F\u0456, \u0437\u043D\u0430\u0445\u043E\u0434\u0438\u0442\u044C\u0441\u044F \u0443 \u0424\u0440\u0430\u043D\u043A\u0444\u0443\u0440\u0442\u0456-\u043D\u0430-\u041C\u0430\u0439\u043D\u0456. \u0412\u0441\u0456 \u043C\u0456\u0441\u0442\u0430 \u0456 \u043C\u0456\u0441\u044C\u043A\u0456 \u0430\u0433\u043B\u043E\u043C\u0435\u0440\u0430\u0446\u0456\u0457 \u043F\u043E\u043D\u0430\u0434 1 \u043C\u043B\u043D \u0447\u043E\u043B. \u043C\u0430\u044E\u0442\u044C \u0432\u043B\u0430\u0441\u043D\u0456 \u0430\u0435\u0440\u043E\u043F\u043E\u0440\u0442\u0438 \u0437 \u0440\u0435\u0433\u0443\u043B\u044F\u0440\u043D\u0438\u043C \u0430\u0432\u0456\u0430\u0446\u0456\u0439\u043D\u0438\u043C \u0441\u043F\u043E\u043B\u0443\u0447\u0435\u043D\u043D\u044F\u043C. \u041F\u0440\u043E\u0432\u0456\u0434\u043D\u0430 \u0430\u0432\u0456\u0430\u0446\u0456\u0439\u043D\u0430 \u043A\u043E\u043C\u043F\u0430\u043D\u0456\u044F \u041D\u0456\u043C\u0435\u0447\u0447\u0438\u043D\u0438 \u2014 \u00AB\u041B\u044E\u0444\u0442\u0433\u0430\u043D\u0437\u0430\u00BB. \u0417\u0430 \u0434\u0430\u043D\u0438\u043C\u0438 Index of Economic Freedom, The Heritage Foundation, U.S.A., 2006: \u0412\u0412\u041F \u2014 $ 2500 \u043C\u043B\u0440\u0434. \u0422\u0435\u043C\u043F \u0437\u0440\u043E\u0441\u0442\u0430\u043D\u043D\u044F \u0412\u0412\u041F \u2014 2,7 %. \u0412\u0412\u041F \u043D\u0430 \u0434\u0443\u0448\u0443 \u043D\u0430\u0441\u0435\u043B\u0435\u043D\u043D\u044F \u2014 $ 31 141. \u041F\u0440\u044F\u043C\u0456 \u0437\u0430\u043A\u043E\u0440\u0434\u043E\u043D\u043D\u0456 \u0456\u043D\u0432\u0435\u0441\u0442\u0438\u0446\u0456\u0457 \u2014 $ 67 \u043C\u043B\u0440\u0434. \u0406\u043C\u043F\u043E\u0440\u0442 \u2014 $ 572,7 \u043C\u043B\u0440\u0434 (\u0433.\u0447. \u0424\u0440\u0430\u043D\u0446\u0456\u044F \u2014 11 %, \u0421\u0428\u0410 \u2014 8,2 %, \u041D\u0456\u0434\u0435\u0440\u043B\u0430\u043D\u0434\u0438 \u2014 8 %; \u0406\u0442\u0430\u043B\u0456\u044F \u2014 7,7 %; \u0412\u0435\u043B\u0438\u043A\u0430 \u0411\u0440\u0438\u0442\u0430\u043D\u0456\u044F \u2014 6,8 %). \u0415\u043A\u0441\u043F\u043E\u0440\u0442 \u2014 $ 607,8 \u043C\u043B\u0440\u0434 (\u0433.\u0447. \u0424\u0440\u0430\u043D\u0446\u0456\u044F \u2014 11,1 %; \u0421\u0428\u0410 \u2014 9,4 %; \u0412\u0435\u043B\u0438\u043A\u0430 \u0411\u0440\u0438\u0442\u0430\u043D\u0456\u044F \u2014 8,6 %; \u0406\u0442\u0430\u043B\u0456\u044F \u2014 7,4 %; \u041D\u0456\u0434\u0435\u0440\u043B\u0430\u043D\u0434\u0438 \u2014 6,8 %). \u0412\u0435\u043B\u0438\u043A\u0430 \u0447\u0430\u0441\u0442\u0438\u043D\u0430 \u0435\u043A\u0441\u043F\u043E\u0440\u0442\u0443 \u0424\u0420\u041D \u0432 1997 \u043F\u0440\u0438\u043F\u0430\u0434\u0430\u043B\u0430 \u043D\u0430 \u0442\u0440\u0430\u043D\u0441\u043F\u043E\u0440\u0442\u043D\u0456 \u0437\u0430\u0441\u043E\u0431\u0438 (17,8 %), \u043F\u0440\u043E\u0434\u0443\u043A\u0446\u0456\u044E \u043C\u0430\u0448\u0438\u043D\u043E\u0431\u0443\u0434\u0443\u0432\u0430\u043D\u043D\u044F (14,7 %), \u0435\u043B\u0435\u043A\u0442\u0440\u043E\u0442\u0435\u0445\u043D\u0456\u043A\u0438 (13,1 %), \u0445\u0456\u043C\u0456\u0457 (13,2 %), \u0442\u043E\u0432\u0430\u0440\u0438 \u0448\u0438\u0440\u043E\u043A\u043E\u0433\u043E \u0441\u043F\u043E\u0436\u0438\u0432\u0430\u043D\u043D\u044F (10,6 %). \u0423 \u0441\u0442\u0440\u0443\u043A\u0442\u0443\u0440\u0456 \u0456\u043C\u043F\u043E\u0440\u0442\u0443 \u043D\u0430 \u0446\u0456 \u043A\u0430\u0442\u0435\u0433\u043E\u0440\u0456\u0457 \u0442\u043E\u0432\u0430\u0440\u0456\u0432 \u043F\u0440\u0438\u043F\u0430\u0434\u0430\u043B\u043E \u0432\u0456\u0434\u043F\u043E\u0432\u0456\u0434\u043D\u043E 10,8 %; 5,6 %; 11,4 %; 9,2 % \u0456 14,9 %. \u041D\u0430 \u0441\u0456\u043B\u044C\u0441\u044C\u043A\u043E\u0433\u043E\u0441\u043F\u043E\u0434\u0430\u0440\u0441\u044C\u043A\u0456 \u0456 \u043F\u0440\u043E\u0434\u043E\u0432\u043E\u043B\u044C\u0447\u0456 \u0442\u043E\u0432\u0430\u0440\u0438 (\u0432 \u0442\u043E\u043C\u0443 \u0447\u0438\u0441\u043B\u0456 \u043D\u0430\u043F\u043E\u0457 \u0456 \u0442\u044E\u0442\u044E\u043D\u043E\u0432\u0456 \u0432\u0438\u0440\u043E\u0431\u0438) \u043F\u0440\u0438\u043F\u0430\u0434\u0430\u043B\u043E 9,8 % \u0456\u043C\u043F\u043E\u0440\u0442\u0443, \u043D\u0430 \u043F\u0430\u043B\u0438\u0432\u043E \u2014 \u0431\u043B\u0438\u0437\u044C\u043A\u043E 8 %."@uk ,
+		"The economy of Germany is a highly developed social market economy. It has the largest national economy in Europe, the fourth-largest by nominal GDP in the world, and fifth by GDP (PPP). In 2017, the country accounted for 28% of the euro area economy according to the IMF. Germany is a founding member of the European Union and the Eurozone. In 2016, Germany recorded the highest trade surplus in the world worth $310 billion, making it the biggest capital exporter globally. Germany is one of the largest exporters globally with $1448.17 billion worth of goods and services exported in 2017. The service sector contributes around 70% of the total GDP, industry 29.1%, and agriculture 0.9%. Exports account for 41% of national output. The top 10 exports of Germany are vehicles, machinery, chemical goods, electronic products, electrical equipment, pharmaceuticals, transport equipment, basic metals, food products, and rubber and plastics. The economy of Germany is the largest manufacturing economy in Europe and it is less likely to be affected by the financial downturn and conduct applied research with practical industrial value and sees itself as a bridge between the latest university insights and industry-specific product and process improvements, and by generating a great deal of knowledge in its own laboratories as well. In July 2017, the International Monetary Fund gave the country's economy \"yet another bill of good health\" and some advice on steps it might take to maintain this level in the long run. Germany is rich in timber, lignite, potash and salt. Some minor sources of natural gas are being exploited in the state of Lower Saxony. Until reunification, the German Democratic Republic mined for uranium in the Ore Mountains (see also: SAG/SDAG Wismut). Energy in Germany is sourced predominantly by fossil fuels (30%), followed by wind second, then nuclear power, gas, solar, biomass (wood and biofuels) and hydro. Germany is the first major industrialized nation to commit to the renewable energy transition called Energiewende. Germany is the leading producer of wind turbines in the world. Renewables produced 46% of electricity consumed in Germany (as of 2019).99 percent of all German companies belong to the German \"Mittelstand,\" small and medium-sized enterprises, which are mostly family-owned. Of the world's 2000 largest publicly listed companies measured by revenue, the Fortune Global 2000, 53 are headquartered in Germany, with the Top 10 being Allianz, Daimler, Volkswagen, Siemens, BMW, Deutsche Telekom, Bayer, BASF, Munich Re and SAP. Germany is the world's top location for trade fairs. Around two thirds of the world's leading trade fairs take place in Germany. The largest annual international trade fairs and congresses are held in several German cities such as Hanover, Frankfurt, Cologne, Leipzig and D\u00FCsseldorf."@en ,
+		"\u042D\u043A\u043E\u043D\u043E\u043C\u0438\u043A\u0430 \u0413\u0435\u0440\u043C\u0430\u043D\u0438\u0438 \u044F\u0432\u043B\u044F\u0435\u0442\u0441\u044F \u043A\u0440\u0443\u043F\u043D\u0435\u0439\u0448\u0435\u0439 \u044D\u043A\u043E\u043D\u043E\u043C\u0438\u043A\u043E\u0439 \u0415\u0432\u0440\u043E\u043F\u044B. \u0412 2018 \u0433\u043E\u0434\u0443 \u0432 \u0440\u0435\u0439\u0442\u0438\u043D\u0433\u0435 \u0441\u0442\u0440\u0430\u043D \u043F\u043E \u043E\u0431\u0449\u0435\u043C\u0443 \u043E\u0431\u044A\u0451\u043C\u0443 \u0412\u0412\u041F \u0413\u0435\u0440\u043C\u0430\u043D\u0438\u044F \u0437\u0430\u043D\u0438\u043C\u0430\u043B\u0430 \u0447\u0435\u0442\u0432\u0435\u0440\u0442\u043E\u0435 \u043C\u0435\u0441\u0442\u043E, \u0438 \u043F\u044F\u0442\u043E\u0435 \u043C\u0435\u0441\u0442\u043E \u0432 \u0440\u0435\u0439\u0442\u0438\u043D\u0433\u0435 \u043F\u043E \u043E\u0431\u044A\u0451\u043C\u0443 \u0412\u0412\u041F \u043F\u043E \u043F\u0430\u0440\u0438\u0442\u0435\u0442\u0443 \u043F\u043E\u043A\u0443\u043F\u0430\u0442\u0435\u043B\u044C\u043D\u043E\u0439 \u0441\u043F\u043E\u0441\u043E\u0431\u043D\u043E\u0441\u0442\u0438. \u0414\u043E 2007 \u0433\u043E\u0434\u0430 \u0413\u0435\u0440\u043C\u0430\u043D\u0438\u044F \u0437\u0430\u043D\u0438\u043C\u0430\u043B\u0430 \u0441\u043E\u043E\u0442\u0432\u0435\u0442\u0441\u0442\u0432\u0435\u043D\u043D\u043E \u0442\u0440\u0435\u0442\u044C\u0435 \u0438 \u0447\u0435\u0442\u0432\u0451\u0440\u0442\u043E\u0435 \u043C\u0435\u0441\u0442\u043E. \u0413\u0435\u0440\u043C\u0430\u043D\u0438\u044F \u044F\u0432\u043B\u044F\u0435\u0442\u0441\u044F \u043F\u043E\u0441\u0442\u0438\u043D\u0434\u0443\u0441\u0442\u0440\u0438\u0430\u043B\u044C\u043D\u043E\u0439 \u0441\u0442\u0440\u0430\u043D\u043E\u0439, \u0433\u0434\u0435 \u043E\u0441\u043D\u043E\u0432\u0443 \u044D\u043A\u043E\u043D\u043E\u043C\u0438\u043A\u0438 (54 %) \u0441\u043E\u0441\u0442\u0430\u0432\u043B\u044F\u044E\u0442 \u0443\u0441\u043B\u0443\u0433\u0438, 45,9 % \u2014 \u043F\u0440\u043E\u0438\u0437\u0432\u043E\u0434\u0441\u0442\u0432\u043E \u0438 \u0430\u0433\u0440\u043E\u0431\u0438\u0437\u043D\u0435\u0441 \u2014 0,1 %, \u0432 \u043A\u043E\u0442\u043E\u0440\u043E\u043C \u0437\u0430\u043D\u044F\u0442\u043E \u0442\u0430\u043A\u043E\u0435 \u0436\u0435 \u043A\u043E\u043B\u0438\u0447\u0435\u0441\u0442\u0432\u043E \u044D\u043A\u043E\u043D\u043E\u043C\u0438\u0447\u0435\u0441\u043A\u0438 \u0430\u043A\u0442\u0438\u0432\u043D\u043E\u0433\u043E \u043D\u0430\u0441\u0435\u043B\u0435\u043D\u0438\u044F."@ru ;
+	dbp:align	"right"@en ;
+	dbp:image	"Hintersee.jpg"@en ,
+		"\u00DCber den D\u00E4chern von Berlin.jpg"@en ;
+	dbp:currency	dbr:Euro .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Economy_of_Germany	dbp:hdi	0.86099999999999998757 ,
+		0.93899999999999994582 ,
+		""@en ;
+	dbp:gini	29.699999999999999289 ;
+	dbp:caption	"Frankfurt, the financial capital of Germany"@en .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Economy_of_Germany	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Economy_of_Germany?oldid=986542295&ns=0> ;
+	dbp:poverty	17.399999999999998579 ;
+	dbp:perCapitaRank	16 ,
+		17 ,
+		""@en .
+@prefix ns29:	<http://dbpedia.org/datatype/> .
+dbr:Economy_of_Germany	dbp:perCapita	"56226.0"^^ns29:usDollar ,
+		""@en ,
+		"46473.0"^^ns29:usDollar ;
+	dbp:edbr	22 ;
+	dbp:growth	1.3000000000000000444 ,
+		""@en ,
+		"\u22126.0%  4.2%"@en ;
+	dbp:exports	"1.434E12"^^ns29:usDollar ;
+	dbp:gdp	"4.7E12"^^ns29:usDollar ,
+		"3.9E12"^^ns29:usDollar ,
+		""@en ;
+	dbp:debt	59.799999999999997158 ,
+		""@en ,
+		"2.053E12"^^ns29:euro ;
+	dbp:aid	"donor: ODA, $24.67 billion"@en ;
+	dbp:expenses	45.399999999999998579 ;
+	dbp:inflation	"0.5"^^ns29:perCent ,
+		""@en ,
+		"1.3"^^ns29:perCent ,
+		"2.0"^^ns29:perCent ;
+	dbp:imports	"1.135E12"^^ns29:usDollar ;
+	dbp:unemployment	"4.4"^^ns29:perCent ,
+		2000000 ,
+		5.7999999999999998224 ,
+		""@en ;
+	dbp:components	"Imports of goods and services: \u221239.7%"@en ,
+		""@en ,
+		"Household consumption: 53.1%"@en ,
+		"Investment in fixed capital: 20.4%"@en ,
+		"Exports of goods and services: 47.3%"@en ,
+		"Government consumption: 19.5%"@en ,
+		"Investment in inventories: \u22120.5%"@en ;
+	dbp:imageSize	310 ;
+	dbp:organs	"EU, WTO and OECD"@en ;
+	dbp:revenue	46.799999999999997158 ;
+	dbp:labor	""@en ,
+		68.299999999999997158 ,
+		42300000 ;
+	dbp:averageGrossSalary	dbr:List_of_European_countries_by_average_wage ;
+	dbp:averageNetSalary	dbr:List_of_European_countries_by_average_wage ;
+	dbp:credit	"Scope:"@en ,
+		"AAA"@en ,
+		<http://dbpedia.org/resource/Moody\u0027s_Investors_Service> ,
+		<http://dbpedia.org/resource/S&P_Global_Ratings> ,
+		""@en ,
+		dbr:Fitch_Ratings ,
+		"Outlook: Stable"@en ,
+		"Aaa"@en ;
+	dbp:exportGoods	"motor vehicles, machinery, chemicals, computer and electronic products, electrical equipment, pharmaceuticals, metals, transport equipment, foodstuffs, textiles, rubber and plastic products"@en ;
+	dbp:gdpRank	4 ,
+		""@en ,
+		6 ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Frankfurt_Skyline_(16259801511).jpg?width=300> ;
+	dbp:width	210 ,
+		180 ;
+	dbo:wikiPageExternalLink	<https://www.bundesbank.de/Navigation/EN/Home/home_node.html> ,
+		<http://www.oecd.org/germany/> ,
+		<https://www.cia.gov/library/publications/the-world-factbook/geos/gm.html> ,
+		<http://www.imf.org/external/ns/cs.aspx%3Fid=28> ,
+		<https://www.google.de/search%3Fq=Dr.+Norbert+R%C3%A4th,+Rezessionen+in+historischer+Betrachtung.+In%3A+Wirtschaft+und+Statistik+3%2F2009&gws_rd=ssl> .
+@prefix ns30:	<http://www.worldbank.org/en/country/> .
+dbr:Economy_of_Germany	dbo:wikiPageExternalLink	ns30:germany ,
+		<https://www.destatis.de/EN/Homepage.html> .
+@prefix ns31:	<https://wits.worldbank.org/CountryProfile/en/> .
+dbr:Economy_of_Germany	dbo:wikiPageExternalLink	ns31:DEU ;
+	dbp:sectors	""@en ,
+		"agriculture: 0.7%"@en ,
+		"services: 68.6%"@en ,
+		"industry: 30.7%"@en ;
+	dbp:occupations	""@en ,
+		"industry: 24.2%"@en ,
+		"agriculture: 1.4%"@en ,
+		"services: 74.3%"@en ;
+	dbp:population	83166711 ;
+	dbp:group	""@en ,
+		dbr:World_Bank_high-income_economy ,
+		dbr:Developed_country ;
+	dbp:industries	dbr:Textile ,
+		dbr:Electronics ,
+		dbr:Car ,
+		dbr:Vehicle ,
+		dbr:Chemical_substance ,
+		""@en ,
+		dbr:Iron ,
+		dbr:Coal ,
+		dbr:Steel ,
+		dbr:Shipbuilding ,
+		"food and beverages"@en ,
+		dbr:Machine_tool ,
+		dbr:Cement ,
+		dbr:Machine ;
+	dbp:importGoods	"machinery, data processing equipment, vehicles, chemicals, oil and gas, metals, electric equipment, pharmaceuticals, foodstuffs, agricultural products"@en ;
+	dbp:balance	"+1.4% of GDP"@en ,
+		"\u20AC49.8 billion surplus"@en ,
+		""@en ;
+	dbp:currentAccount	"2.91E11"^^ns29:usDollar ;
+	dbp:fdi	"Abroad: $2.298 trillion"@en ,
+		"1.653E12"^^ns29:usDollar ,
+		""@en ;
+	dbp:grossExternalDebt	"5.084E12"^^ns29:usDollar ;
+	dbp:reserves	"4.0E11"^^ns29:usDollar ;
+	dbp:country	"Germany"@en ;
+	dbp:footer	"Bavaria  is a tourism destination and  Berlin  a centre of creative industries, research and education."@en ;
+	dbo:wikiPageID	11930 ;
+	dbo:wikiPageRevisionID	986542295 ;
+	dbo:wikiPageWikiLink	dbr:Great_Recession_in_Europe ,
+		dbr:Thuringia ,
+		dbr:Dortmund ,
+		dbr:Forestry ,
+		dbr:Environmental_technology ,
+		dbr:Purchasing_power_parity ,
+		dbr:List_of_German_states_by_unemployment_rate ,
+		dbr:Ease_of_doing_business_index ,
+		dbr:Ludwig_Erhard ,
+		dbr:BASF ,
+		<http://dbpedia.org/resource/Moody\u0027s_Investors_Service> ,
+		dbr:Carl_Benz ,
+		dbr:Lower_Saxony ,
+		dbr:Schwarz_Gruppe ,
+		dbr:Allianz ,
+		<http://dbpedia.org/resource/D\u00FCsseldorf> ,
+		dbr:Stuttgart_Airport ,
+		dbr:Monetary_reform ,
+		dbr:Ludwigshafen ,
+		dbr:Bertha_Benz ,
+		dbr:Reichsmark ,
+		dbr:Munich_Airport ,
+		dbr:Revenue ,
+		dbr:Porsche ,
+		dbr:Machine_tool ,
+		dbr:Winfried_Kretschmann ,
+		dbr:Machine ,
+		dbr:Energiewende ,
+		dbr:Chancellor_of_Germany ,
+		dbr:Euro ,
+		dbr:High-speed_rail ,
+		dbr:Eurozone ,
+		dbr:Fitch_Ratings ,
+		dbr:Ingolstadt ,
+		dbr:Energy_in_Germany ,
+		<http://dbpedia.org/resource/File:Labour_productivity_levels_in_Europe._OECD,_2015.png> ,
+		dbr:Berlin_Brandenburg_Airport ,
+		dbr:Gold_standard ,
+		dbr:Konrad_Adenauer ,
+		dbr:Heinz_Hermann_Thiele ,
+		dbr:Welfare_state ,
+		dbr:The_World_Factbook ,
+		dbr:Economy_of_Berlin ,
+		dbr:Cologne_Institute_for_Economic_Research ,
+		dbr:Mining ,
+		dbr:Research_and_development ,
+		dbr:Bavaria ,
+		dbr:East_Germany ,
+		<http://dbpedia.org/resource/Junker_(Prussia)> ,
+		dbr:Ulm ,
+		<http://dbpedia.org/resource/Wismut_(mining_company)> ,
+		dbr:Albert_Ballin ,
+		dbr:Biomass ,
+		dbr:Coal-fired_power_station ,
+		dbr:Deutsche_Telekom ,
+		dbr:Heide ,
+		dbr:Forbes ,
+		<http://dbpedia.org/resource/G\u00FCtersloh> ,
+		dbr:Daimler_AG ,
+		dbr:Nuclear_power_plant ,
+		dbr:OECD ,
+		dbr:Marriage_of_Iron_and_Rye ,
+		dbr:Industrial_Revolution ,
+		dbr:European_Union ,
+		dbc:OECD_member_economies ,
+		dbr:Eurostat ,
+		dbc:Economies_of_Europe ,
+		dbc:European_Union_member_economies ,
+		dbr:Financial_centre ,
+		dbr:Netherlands ,
+		dbr:Intercity_Express ,
+		dbr:Schwedt ,
+		dbr:Angela_Merkel ,
+		dbr:World_Bank_Group ,
+		dbr:Brandenburg ,
+		dbr:Lignite ,
+		dbr:List_of_countries_by_Human_Development_Index ,
+		dbr:Regensburg ,
+		dbr:Natural_gas ,
+		<http://dbpedia.org/resource/Theo_Albrecht_Jr.> ,
+		dbr:Deutsche_Bundesbank ,
+		dbc:Economy_of_Germany ,
+		dbr:Hamburg_Airport ,
+		<http://dbpedia.org/resource/Hermann_G\u00F6ring> ,
+		dbr:Silesia ,
+		dbr:Saxony-Anhalt ,
+		dbr:Foreign_exchange_controls ,
+		<http://dbpedia.org/resource/List_of_countries_by_GDP_(PPP)> ,
+		dbr:United_Nations_Security_Council ,
+		dbr:Recycling ,
+		dbr:European_Central_Bank ,
+		dbr:Salt ,
+		dbr:Trade_unions_in_Germany ,
+		<http://dbpedia.org/resource/S&P_Global_Ratings> ,
+		dbr:Siemens ,
+		dbr:Bertelsmann ,
+		dbr:Iron ,
+		dbr:Vohburg ,
+		dbr:Infrastructure ,
+		dbr:Autobahn ,
+		dbr:Stuttgart ,
+		<http://dbpedia.org/resource/D\u00FCsseldorf_Airport> ,
+		dbr:Social_insurance ,
+		dbr:Small_and_medium-sized_enterprises ,
+		dbr:Credit_rating ,
+		dbr:Single_market ,
+		dbr:Vehicle ,
+		<http://dbpedia.org/resource/List_of_countries_by_GDP_(PPP)_per_capita> ,
+		dbr:Volkswagen ,
+		dbr:Prussia ,
+		dbr:Hasso_Plattner ,
+		dbr:Kemna_Bau ,
+		dbr:Hjalmar_Schacht ,
+		dbr:Deutsche_Post ,
+		dbr:Germany ,
+		dbr:SAP ,
+		dbr:World_Trade_Organization ,
+		<http://dbpedia.org/resource/Baden-W\u00FCrttemberg> ,
+		dbr:Bituminous_coal ,
+		dbr:List_of_countries_by_exports ,
+		<http://dbpedia.org/resource/File:%3C!--EU2019--%3EBlueEurozone_2019.svg> ,
+		dbr:North_Rhine-Westphalia ,
+		dbr:Demographics_of_Germany ,
+		dbr:Innovation ,
+		dbc:Economies_of_Europe_by_country ,
+		<http://dbpedia.org/resource/First_Schr\u00F6der_cabinet> ,
+		dbr:Hanover ,
+		dbr:Mannesmann ,
+		dbr:DAX ,
+		dbr:Karlsruhe ,
+		dbr:Startup_ecosystem ,
+		dbr:Car ,
+		dbr:Debt-to-GDP_ratio ,
+		dbr:Drink ,
+		dbr:Rotterdam ,
+		dbr:Nelahozeves ,
+		dbr:Government_debt ,
+		dbr:Europe ,
+		dbr:Bayer ,
+		<http://dbpedia.org/resource/Michael_Otto_(businessman)> ,
+		dbr:List_of_German_cities_by_GDP ,
+		<http://dbpedia.org/resource/List_of_countries_by_GDP_(nominal)> ,
+		dbr:Ore_Mountains ,
+		dbr:World_Bank_high-income_economy ,
+		dbr:Deutsche_Mark ,
+		dbr:Nivea ,
+		dbr:Volkswagen_Group ,
+		dbr:Gerlingen ,
+		dbr:Poland ,
+		dbr:Official_development_assistance ,
+		dbr:Agenda_2010 ,
+		<http://dbpedia.org/resource/1,000,000,000> ,
+		dbr:Frankfurt ,
+		dbr:Deutsche_Bahn ,
+		<http://dbpedia.org/resource/File:GNIdistributionFRG.png> ,
+		<http://dbpedia.org/resource/File:F\u00E4chertextur.jpg> ,
+		dbr:Gastarbeiter ,
+		<http://dbpedia.org/resource/Burghausen,_Alt\u00F6tting> ,
+		<http://dbpedia.org/resource/File:2006German_exports.PNG> ,
+		<http://dbpedia.org/resource/File:IC3_NIederlande_in_Frankfurt_249-dLd.jpg> ,
+		dbr:Food ,
+		dbr:Mercedes-Benz ,
+		<http://dbpedia.org/resource/File:Garzweiler.strip.mine.jpg> ,
+		<http://dbpedia.org/resource/File:Containershipxinshanghai.jpg> ,
+		<http://dbpedia.org/resource/F\u00FCrth> ,
+		dbr:Developed_country ,
+		dbr:Dieter_Schwarz ,
+		<http://dbpedia.org/resource/File:Windgermany.JPG> ,
+		<http://dbpedia.org/resource/File:BASF1.jpg> ,
+		<http://dbpedia.org/resource/File:Hasso_Plattner.JPG> ,
+		<http://dbpedia.org/resource/File:Wolfsburg,_Volkswagenwerk_--_2009_--_0822.jpg> ,
+		dbr:Frankfurt_Airport ,
+		dbr:Potash ,
+		<http://dbpedia.org/resource/Gda\u0144sk> ,
+		dbr:Munich_Re ,
+		dbr:Calendar_year ,
+		dbr:Cologne_Bonn_Airport ,
+		dbr:Renewable_energy ,
+		dbr:Electronics ,
+		dbr:Geothermal_power ,
+		dbr:Efficient_energy_use ,
+		dbr:Upper_Silesian_Coal_Basin ,
+		dbr:Robert_Bosch_GmbH ,
+		dbr:Steel ,
+		dbr:Berlin ,
+		dbr:Lumber ,
+		dbr:Hesse ,
+		dbr:List_of_European_countries_by_average_wage ,
+		dbr:Franconia ,
+		dbr:August_Borsig ,
+		dbr:Share_capital ,
+		<http://dbpedia.org/resource/SS_Augusta_Victoria_(1888)> ,
+		dbr:Leipzig ,
+		dbr:Nord_Stream ,
+		dbr:Erlangen ,
+		dbr:Social_market_economy ,
+		dbr:Duisburg ,
+		dbr:Fortune_Global_500 ,
+		dbr:Vodafone ,
+		dbr:Billionaire ,
+		dbr:Russia ,
+		dbr:Mecklenburg-Vorpommern ,
+		dbr:Wind_power ,
+		dbr:Mittelstand ,
+		dbr:Metropolitan_regions_in_Germany ,
+		dbr:Mergers_and_acquisitions ,
+		dbr:Agriculture ,
+		dbr:Federal_Statistical_Office_of_Germany ,
+		dbr:BMW ,
+		dbr:Stefan_Quandt ,
+		dbr:Hamburg ,
+		dbr:Shipbuilding ,
+		dbr:Otto_von_Bismarck ,
+		dbr:Bundesverband_Junger_Unternehmer ,
+		dbr:Fukushima_Daiichi_Nuclear_Power_Plant ,
+		dbr:Metro_AG ,
+		dbr:United_Kingdom ,
+		dbr:United_States ,
+		dbr:Primary_sector_of_the_economy ,
+		dbr:Tertiary_sector_of_the_economy ,
+		dbr:Textile ,
+		dbr:Deutsche_Bank ,
+		<http://dbpedia.org/resource/K+S> ,
+		dbr:Second_Merkel_cabinet ,
+		dbr:Middle_management ,
+		dbr:Coal ,
+		dbr:Uranium ,
+		dbr:Water_resource_management ,
+		dbr:International_Monetary_Fund ,
+		dbr:Full_employment ,
+		<http://dbpedia.org/resource/File:BSPDRWeltkriseEngl.PNG> ,
+		dbr:Cologne ,
+		dbr:German_Empire ,
+		dbr:Vyborg ,
+		dbr:Gazprom ,
+		dbr:Energy_transition ,
+		dbr:Credit_rating_agency ,
+		dbr:Beate_Heister ,
+		dbr:Franco-Prussian_War ,
+		dbr:Nuclear_power_in_Germany ,
+		dbr:Gelsenkirchen ,
+		dbr:Essen ,
+		dbr:Coronavirus ,
+		dbr:Chrysler ,
+		dbr:Gross_domestic_product ,
+		dbr:Big_business ,
+		<http://dbpedia.org/resource/Georg_F._W._Schaeffler> ,
+		dbr:Workforce ,
+		dbr:List_of_countries_by_inequality-adjusted_HDI ,
+		dbr:Ukraine ,
+		dbr:Cement ,
+		dbr:Rhineland-Palatinate ,
+		<http://dbpedia.org/resource/List_of_countries_by_GDP_(nominal)_per_capita> ,
+		<http://dbpedia.org/resource/E.ON> ,
+		dbr:Wolfsburg ,
+		dbr:Szczecin ,
+		dbr:Wilhelmshaven ,
+		dbr:Napoleon_III ,
+		dbr:Cold_War ,
+		dbr:Audi ,
+		dbr:Chemical_substance ,
+		dbr:Lufthansa ,
+		dbr:Neckarsulm ,
+		dbr:Russia_in_the_European_energy_sector ,
+		dbr:Saxony ,
+		dbr:Adidas ,
+		dbr:Bonn ,
+		dbr:Munich ,
+		dbr:Standard_of_living ,
+		<http://dbpedia.org/resource/Karl_Albrecht_Jr.> ,
+		dbr:Schweinfurt ,
+		dbr:German_model ,
+		dbr:Hannover_Airport ,
+		<http://dbpedia.org/resource/Klaus-Michael_K\u00FChne> ,
+		<http://dbpedia.org/resource/File:1000000th_Beetle.jpg> ,
+		dbr:Hartz_concept ,
+		dbr:Ruhr ,
+		dbr:Susanne_Klatten ,
+		dbr:Secondary_sector_of_the_economy ,
+		dbr:Druzhba_pipeline ,
+		dbr:Southern_England ,
+		dbr:Nuremberg ,
+		dbr:Association_of_German_Chambers_of_Industry_and_Commerce ,
+		dbc:World_Trade_Organization_member_economies ,
+		dbr:Uniper ,
+		dbr:Hidden_champions ,
+		dbr:Zollverein ,
+		dbr:Spergau ,
+		dbr:Lesser_Germany ,
+		<http://dbpedia.org/resource/Lingen,_Germany> ,
+		dbr:Greifswald .
+@prefix dbt:	<http://dbpedia.org/resource/Template:> .
+dbr:Economy_of_Germany	dbp:wikiPageUsesTemplate	dbt:Sfn ,
+		dbt:Clarify ,
+		dbt:Use_British_English ,
+		dbt:Use_dmy_dates ,
+		dbt:Color ,
+		dbt:Organisation_for_Economic_Co-operation_and_Development ,
+		dbt:World_Trade_Organization ,
+		dbt:Economy_of_Europe ,
+		dbt:When ,
+		dbt:Flag ,
+		dbt:Cite_book ,
+		dbt:Portal ,
+		dbt:Multiple_image ,
+		dbt:Short_description ,
+		dbt:See_also ,
+		dbt:Decrease ,
+		dbt:By_whom ,
+		dbt:Steady ,
+		dbt:Germany_topics ,
+		dbt:Ublist ,
+		dbt:As_of ,
+		dbt:Infobox_economy ,
+		<http://dbpedia.org/resource/Template:0> ,
+		dbt:Reflist ,
+		dbt:Increase ,
+		dbt:Asof ,
+		dbt:Main ,
+		dbt:Update_inline ,
+		dbt:Update_after ,
+		dbt:Convert ,
+		dbt:DecreasePositive ,
+		dbt:Citation_needed ,
+		dbt:IncreaseNegative ,
+		dbt:Z148 ;
+	dbo:wikiPageLength	"99370"^^xsd:nonNegativeInteger ;
+	dbp:year	dbr:Calendar_year .
+dbr:Agriculture_in_Germany	dbo:wikiPageWikiLink	dbr:Economy_of_Germany .
+dbr:The_Shape_of_Things_to_Come	dbo:wikiPageWikiLink	dbr:Economy_of_Germany .
+dbr:German_reunification	dbo:wikiPageWikiLink	dbr:Economy_of_Germany .
+dbr:Tourism_in_Germany	dbo:wikiPageWikiLink	dbr:Economy_of_Germany .
+dbr:Rhine-Ruhr	dbo:wikiPageWikiLink	dbr:Economy_of_Germany .
+<http://dbpedia.org/resource/Agentur_f\u00FCr_Arbeit>	dbo:wikiPageRedirects	dbr:Economy_of_Germany ;
+	dbo:wikiPageWikiLink	dbr:Economy_of_Germany .
+dbr:List_of_exports_of_Germany	dbo:wikiPageWikiLink	dbr:Economy_of_Germany .
+dbr:Healthcare_in_Germany	dbo:wikiPageWikiLink	dbr:Economy_of_Germany .
+dbr:London_Agreement_on_German_External_Debts	dbo:wikiPageWikiLink	dbr:Economy_of_Germany .
+dbr:The_Conference_Board	dbo:wikiPageWikiLink	dbr:Economy_of_Germany .
+dbr:Engelhard	dbo:wikiPageWikiLink	dbr:Economy_of_Germany .
+dbr:Celtic_Tiger	dbo:wikiPageWikiLink	dbr:Economy_of_Germany .
+<http://dbpedia.org/resource/Heckler_&_Koch_XM8>	dbo:wikiPageWikiLink	dbr:Economy_of_Germany .
+dbr:Transport_in_Germany	dbo:wikiPageWikiLink	dbr:Economy_of_Germany .
+dbr:International_Watch_Company	dbo:wikiPageWikiLink	dbr:Economy_of_Germany .
+<http://dbpedia.org/resource/Germany\u2013Iran_relations>	rdfs:seeAlso	dbr:Economy_of_Germany .
+<http://dbpedia.org/resource/Juergen_M._Geissinger>	dbo:wikiPageWikiLink	dbr:Economy_of_Germany .
+dbr:Deutsche_Mark	dbo:wikiPageWikiLink	dbr:Economy_of_Germany .
+dbr:Wilfried_Feldenkirchen	dbo:wikiPageWikiLink	dbr:Economy_of_Germany .
+dbr:Wirtschaft_Deutschlands	dbo:wikiPageRedirects	dbr:Economy_of_Germany ;
+	dbo:wikiPageWikiLink	dbr:Economy_of_Germany .
+dbr:German_unemployment	dbo:wikiPageRedirects	dbr:Economy_of_Germany ;
+	dbo:wikiPageWikiLink	dbr:Economy_of_Germany .
+dbr:Wirtschaft	dbo:wikiPageRedirects	dbr:Economy_of_Germany ;
+	dbo:wikiPageWikiLink	dbr:Economy_of_Germany .
+dbr:Economy_of_germany	dbo:wikiPageRedirects	dbr:Economy_of_Germany ;
+	dbo:wikiPageWikiLink	dbr:Economy_of_Germany .
+dbr:Industry_of_Germany	dbo:wikiPageRedirects	dbr:Economy_of_Germany ;
+	dbo:wikiPageWikiLink	dbr:Economy_of_Germany .
+dbr:German_economy	dbo:wikiPageRedirects	dbr:Economy_of_Germany ;
+	dbo:wikiPageWikiLink	dbr:Economy_of_Germany .
+dbr:German_industry	dbo:wikiPageRedirects	dbr:Economy_of_Germany ;
+	dbo:wikiPageWikiLink	dbr:Economy_of_Germany .
+@prefix ns33:	<http://dbpedia.org/resource/Germany/> .
+ns33:Economy	dbo:wikiPageRedirects	dbr:Economy_of_Germany ;
+	dbo:wikiPageWikiLink	dbr:Economy_of_Germany .
+dbr:Germany_economy	dbo:wikiPageRedirects	dbr:Economy_of_Germany ;
+	dbo:wikiPageWikiLink	dbr:Economy_of_Germany .
+dbr:Mining_in_Germany	dbo:wikiPageRedirects	dbr:Economy_of_Germany ;
+	dbo:wikiPageWikiLink	dbr:Economy_of_Germany .
+dbr:Foreign_economic_relations_of_Germany	dbo:wikiPageRedirects	dbr:Economy_of_Germany ;
+	dbo:wikiPageWikiLink	dbr:Economy_of_Germany .
+dbr:Agentur_fuer_Arbeit	dbo:wikiPageRedirects	dbr:Economy_of_Germany ;
+	dbo:wikiPageWikiLink	dbr:Economy_of_Germany .
+dbr:Arbeitsamt	dbo:wikiPageRedirects	dbr:Economy_of_Germany ;
+	dbo:wikiPageWikiLink	dbr:Economy_of_Germany .

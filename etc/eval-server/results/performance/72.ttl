@@ -1,0 +1,271 @@
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+dbr:Species_first_discovered_in_Hong_Kong	dbo:wikiPageWikiLink	dbr:Liphistiidae .
+dbr:Burmese_amber	dbo:wikiPageWikiLink	dbr:Liphistiidae .
+dbr:Liphistius	dbo:wikiPageWikiLink	dbr:Liphistiidae .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Liphistiidae	rdf:type	yago:LivingThing100004258 ,
+		yago:Whole100003553 ,
+		yago:Object100002684 ,
+		yago:PhysicalEntity100001930 ,
+		yago:Organism100004475 ,
+		yago:Animal100015388 ,
+		yago:Arthropod101767661 ,
+		yago:Invertebrate101905661 ,
+		yago:WikicatSpiders ,
+		yago:Arachnid101769347 ,
+		yago:Spider101772222 ,
+		yago:WikicatSpidersOfAsia .
+@prefix umbel-rc:	<http://umbel.org/umbel/rc/> .
+dbr:Liphistiidae	rdf:type	umbel-rc:Arachnid .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Liphistiidae	rdfs:label	"Liphistiidae"@es ,
+		"Lifistiedoj"@eo ,
+		"Liphistiidae"@en ,
+		"Liphistiidae"@nl ,
+		"Lif\u00EDstids"@ca ,
+		"\u30CF\u30E9\u30D5\u30B7\u30B0\u30E2\u79D1"@ja ,
+		"Liphistiidae"@fr ,
+		"Liphistiidae"@it ,
+		"Liphistiidae"@pt ,
+		"Liphistiidae"@de ;
+	rdfs:comment	"Lifistiedoj estas la araneoj de la familio Liphistiidae, agnoskita de Tamerlan Thorell en 1869, kiu enhavas 8 genrojn kaj \u0109irka\u016D 100 speciojn de mez-grandaj araneoj el Sudorienta Azio, \u0108inio, kaj Japanio. Ili estas inter la plej bazaj vivantaj araneoj, kaj apartenas al la subordo Mesothelae. En Japanio, la Kimura araneo (Heptathela kimurai) estas tre bone konata."@eo ,
+		"Liphistiidae zijn een familie van spinnen. De familie telt 5 beschreven geslachten en 89 soorten."@nl ,
+		"Die Liphistiidae sind die einzige rezente Familie innerhalb der Unterordnung der Gliederspinnen (Mesothelae). Sie werden deshalb, ebenso wie die Unterordnung, im Deutschen schlicht Gliederspinnen genannt. Sie gelten als sehr primitive Webspinnen. Die Familie umfasst acht Gattungen mit 101 Arten. (Stand: Oktober 2017)"@de ,
+		"Los lif\u00EDstidos o lifist\u00EDidos (Liphistiidae) son una familia de ara\u00F1as mesotelas, la \u00FAnica de este suborden que tiene representantes actuales. Incluye solo cinco g\u00E9neros distribuidos por el sudeste asi\u00E1tico, China y Jap\u00F3n."@es ,
+		"The spider family Liphistiidae, recognized by Tamerlan Thorell in 1869, comprises 8 genera and about 100 species of medium-sized spiders from Southeast Asia, China, and Japan. They are among the most basal living spiders, belonging to the suborder Mesothelae. In Japan, the Kimura spider (Heptathela kimurai) is well known."@en ,
+		"Els lif\u00EDstids (Liphistiidae) s\u00F3n una fam\u00EDlia d'aranyes primitives del subordre Mesothelae. Fou descrita per Tamerlan Thorell el 1869. S\u00F3n aranyes cavern\u00EDcoles i es troben al sud-est d'\u00C0sia, a la Xina i al Jap\u00F3. Tenen encara rastres de metameritzaci\u00F3 a nivell de l'abdomen i les seves fileres estan situades enmig del seu abdomen."@ca ,
+		"Liphistiidae Thorell, 1869 \u00E8 una famiglia di ragni appartenente al sottordine Mesothelae. Questi ragni sono  in quanto hanno i cheliceri dalla punta rivolta verso il basso, come gli altri ragni appartenenti al sottordine Mygalomorphae; non vi \u00E8 comunque relazione diretta dal punto di vista sistematico. Si pensa che l'antenato comune di tutti i ragni era un Orthognatha, e che, di tutti i sottordini susseguitisi, solamente gli Araneomorphae cambiarono il loro allineamento dei cheliceri, mentre i migalomorfi trattennero come caratteristica i cheliceri simplesiomorfi."@it ,
+		"\u30CF\u30E9\u30D5\u30B7\u30B0\u30E2\u79D1 Liphistiidae \u306F\u3001\u30AF\u30E2\u76EE\u306B\u6240\u5C5E\u3059\u308B\u5206\u985E\u7FA4\u306E\u4E00\u3064\u3002\u8179\u90E8\u306B\u4F53\u7BC0\u306E\u3042\u3068\u304C\u8272\u6FC3\u304F\u3001\u30AF\u30E2\u76EE\u306E\u4E2D\u3067\u7279\u306B\u539F\u59CB\u7684\u306A\u3082\u306E\u3068\u8003\u3048\u3089\u308C\u308B\u3002"@ja ,
+		"Liphistiidae \u00E9 uma fam\u00EDlia asi\u00E1tica de aranhas que compreende 5 g\u00EAneros e 85 esp\u00E9cies, cujos habitats compreendem China e Jap\u00E3o. No Jap\u00E3o, a  () \u00E9 bastante conhecida."@pt ,
+		"Les Liphistiidae sont une famille d'araign\u00E9es m\u00E9soth\u00E8les. Les araign\u00E9es de cette famille, comme celles de la famille des Segestriidae construisent des tubes de soies et non de v\u00E9ritables toiles."@fr .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+dbr:Liphistiidae	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Ryuthela.tanikawai.female.-.tanikawa.jpg> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+dbr:Liphistiidae	foaf:isPrimaryTopicOf	wikipedia-en:Liphistiidae .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Liphistiidae	dct:subject	dbc:Aquitanian_taxonomic_families ,
+		dbc:Chattian_taxonomic_families ,
+		dbc:Calabrian_taxonomic_families ,
+		dbc:Liphistiidae ,
+		dbc:Holocene_taxonomic_families ,
+		dbc:Thanetian_taxonomic_families ,
+		dbc:Tortonian_taxonomic_families ,
+		dbc:Serravallian_taxonomic_families ,
+		dbc:Tarantian_taxonomic_families ,
+		dbc:Ypresian_taxonomic_families ,
+		dbc:Zanclean_taxonomic_families ,
+		dbc:Maastrichtian_taxonomic_families ,
+		dbc:Messinian_taxonomic_families ,
+		dbc:Langhian_taxonomic_families ,
+		dbc:Lutetian_taxonomic_families ,
+		dbc:Rupelian_taxonomic_families ,
+		dbc:Selandian_taxonomic_families ,
+		dbc:Piacenzian_taxonomic_families ,
+		dbc:Priabonian_taxonomic_families ,
+		dbc:Bartonian_taxonomic_families ,
+		dbc:Gelasian_taxonomic_families ,
+		dbc:Danian_taxonomic_families ,
+		dbc:Ionian_taxonomic_families ,
+		dbc:Spider_families ,
+		dbc:Burdigalian_taxonomic_families ,
+		dbc:Spiders_of_Asia .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Liphistiidae	owl:sameAs	<http://fa.dbpedia.org/resource/\u0628\u0646\u062F\u0634\u06A9\u0645\u0627\u0646> .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Liphistiidae	owl:sameAs	dbpedia-pt:Liphistiidae .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Liphistiidae	owl:sameAs	dbpedia-it:Liphistiidae ,
+		<http://rdf.freebase.com/ns/m.01r14f> ,
+		<http://ja.dbpedia.org/resource/\u30CF\u30E9\u30D5\u30B7\u30B0\u30E2\u79D1> ,
+		dbr:Liphistiidae .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Liphistiidae	owl:sameAs	yago-res:Liphistiidae .
+@prefix dbpedia-no:	<http://no.dbpedia.org/resource/> .
+dbr:Liphistiidae	owl:sameAs	dbpedia-no:Liphistiidae .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:Liphistiidae	owl:sameAs	dbpedia-es:Liphistiidae .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Liphistiidae	owl:sameAs	wikidata:Q10593 .
+@prefix dbpedia-ro:	<http://ro.dbpedia.org/resource/> .
+dbr:Liphistiidae	owl:sameAs	dbpedia-ro:Liphistiidae .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Liphistiidae	owl:sameAs	dbpedia-fr:Liphistiidae ,
+		<https://global.dbpedia.org/id/8boN> .
+@prefix dbpedia-eo:	<http://eo.dbpedia.org/resource/> .
+dbr:Liphistiidae	owl:sameAs	dbpedia-eo:Lifistiedoj ,
+		<http://ca.dbpedia.org/resource/Lif\u00EDstids> .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Liphistiidae	owl:sameAs	dbpedia-nl:Liphistiidae .
+@prefix dbpedia-tr:	<http://tr.dbpedia.org/resource/> .
+dbr:Liphistiidae	owl:sameAs	dbpedia-tr:Liphistiidae .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Liphistiidae	owl:sameAs	dbpedia-de:Liphistiidae ,
+		<http://he.dbpedia.org/resource/\u05DC\u05D9\u05E4\u05D9\u05E1\u05D8\u05D9\u05D3\u05D9\u05D9\u05DD> .
+@prefix dbpedia-la:	<http://la.dbpedia.org/resource/> .
+dbr:Liphistiidae	owl:sameAs	dbpedia-la:Liphistiidae .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Liphistiidae	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Liphistiidae?oldid=984685407&ns=0> .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Liphistiidae	dbp:small	"yes"@en ;
+	dbp:bot	"InternetArchiveBot"@en ;
+	dbp:date	"February 2019"@en ;
+	dbp:fixAttempted	"yes"@en .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Liphistiidae	dbp:imageUpright	1.1499999999999999112 ;
+	dbp:authority	"Thorell, 1869"@en ;
+	dbp:rangeMap	"Distribution.liphistiidae.1.png"@en ;
+	dbp:taxon	"Liphistiidae"@en ;
+	dbp:diversity	"[[#Systematics"@en ;
+	dbp:at	2.5 ,
+		1 ,
+		6 ;
+	dbp:imageCaption	"Ryuthela tanikawai, female"@en ;
+	dbp:rangeMapUpright	1.1499999999999999112 ;
+	dbp:name	"tube-dwelling spiders"@en ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Ryuthela.tanikawai.female.-.tanikawa.jpg?width=300> ;
+	dbo:wikiPageID	294537 ;
+	dbo:wikiPageRevisionID	984685407 ;
+	dbo:wikiPageWikiLink	dbr:Chelicerae ,
+		dbr:Mygalomorphae ,
+		dbr:Kimura_spider ,
+		dbr:Molecular_phylogenetics ,
+		<http://dbpedia.org/resource/Basal_(phylogenetics)> ,
+		dbr:Ryuthela_tanikawai ,
+		dbr:Opisthothelae ,
+		dbr:Liphistius ,
+		dbr:Carapace ,
+		dbr:List_of_Liphistiidae_species ,
+		dbr:Batu_Caves ,
+		dbr:Sinothela ,
+		dbr:Heptathela ,
+		dbc:Liphistiidae ,
+		dbr:Japan ,
+		dbr:Genus ,
+		dbr:Ryuthela ,
+		<http://dbpedia.org/resource/File:Ryuthela.sasakii.female.-.takinawa.jpg> ,
+		dbr:Monophyly ,
+		dbr:Myanmar ,
+		dbr:Liphistius_batuensis ,
+		dbr:Carboniferous ,
+		dbr:Kyukichi_Kishida ,
+		dbr:World_Spider_Catalog ,
+		dbc:Spiders_of_Asia ,
+		dbc:Holocene_taxonomic_families ,
+		dbr:Qiongthela ,
+		dbc:Piacenzian_taxonomic_families ,
+		dbc:Priabonian_taxonomic_families ,
+		dbc:Calabrian_taxonomic_families ,
+		dbc:Rupelian_taxonomic_families ,
+		dbc:Selandian_taxonomic_families ,
+		dbc:Langhian_taxonomic_families ,
+		dbc:Chattian_taxonomic_families ,
+		dbc:Lutetian_taxonomic_families ,
+		dbc:Maastrichtian_taxonomic_families ,
+		dbc:Messinian_taxonomic_families ,
+		dbc:Ypresian_taxonomic_families ,
+		dbc:Aquitanian_taxonomic_families ,
+		dbc:Zanclean_taxonomic_families ,
+		dbr:Ganthela ,
+		dbc:Serravallian_taxonomic_families ,
+		dbc:Tarantian_taxonomic_families ,
+		dbc:Thanetian_taxonomic_families ,
+		dbc:Tortonian_taxonomic_families ,
+		dbc:Burdigalian_taxonomic_families ,
+		dbc:Danian_taxonomic_families ,
+		dbc:Ionian_taxonomic_families ,
+		dbc:Gelasian_taxonomic_families ,
+		dbc:Bartonian_taxonomic_families ,
+		dbr:Mesothelae ,
+		<http://dbpedia.org/resource/File:Heptathela.kimurai.yanbaruensis.burrow.-.tanikawa.jpg> ,
+		dbr:Cretaceothele ,
+		dbr:Liphistius_desultor ,
+		dbr:Liphistius_malayanus ,
+		dbr:Liphistius_murphyorum ,
+		dbr:Cretaceothelidae ,
+		dbr:Songthela ,
+		dbr:Tamerlan_Thorell ,
+		dbr:Plesiomorphy_and_symplesiomorphy ,
+		dbr:Southeast_Asia ,
+		dbr:China ,
+		dbr:Araneomorphae ,
+		dbr:Spider ,
+		dbr:Species ,
+		dbr:Book_lung ,
+		dbr:Vinathela ,
+		dbc:Spider_families ;
+	dbo:wikiPageExternalLink	<http://www.arkive.org/search-taxonomy.html%3Fq=Liphistiidae&requiredfields=Search_Family:Liphistiidae&client=arkive-info&site=arkive-info&related=Family&commonName=Trapdoor%20spider&latinName=Liphistius%20kanthan&returnURL=trapdoor-spider/liphistius-kanthan/info.html> ,
+		<http://www.americanarachnology.org/JoA_Congress/JoA_v27_n1/arac_27_01_0037.pdf> .
+@prefix dbt:	<http://dbpedia.org/resource/Template:> .
+dbr:Liphistiidae	dbp:wikiPageUsesTemplate	dbt:Automatic_taxobox ,
+		dbt:Dead_link ,
+		dbt:Barlabel ,
+		dbt:Taxonbar ,
+		dbt:Commons_category ,
+		dbt:Reflist ,
+		dbt:Short_description ,
+		dbt:As_of ,
+		dbt:Main ,
+		dbt:Clear ,
+		dbt:Div_col ,
+		dbt:Div_col_end ,
+		dbt:Clade ,
+		dbt:Wikispecies ,
+		dbt:Cladex ,
+		dbt:Araneae ,
+		dbt:Cite_journal ;
+	dbo:abstract	"Els lif\u00EDstids (Liphistiidae) s\u00F3n una fam\u00EDlia d'aranyes primitives del subordre Mesothelae. Fou descrita per Tamerlan Thorell el 1869. S\u00F3n aranyes cavern\u00EDcoles i es troben al sud-est d'\u00C0sia, a la Xina i al Jap\u00F3. Tenen encara rastres de metameritzaci\u00F3 a nivell de l'abdomen i les seves fileres estan situades enmig del seu abdomen."@ca ,
+		"Los lif\u00EDstidos o lifist\u00EDidos (Liphistiidae) son una familia de ara\u00F1as mesotelas, la \u00FAnica de este suborden que tiene representantes actuales. Incluye solo cinco g\u00E9neros distribuidos por el sudeste asi\u00E1tico, China y Jap\u00F3n."@es ,
+		"\u30CF\u30E9\u30D5\u30B7\u30B0\u30E2\u79D1 Liphistiidae \u306F\u3001\u30AF\u30E2\u76EE\u306B\u6240\u5C5E\u3059\u308B\u5206\u985E\u7FA4\u306E\u4E00\u3064\u3002\u8179\u90E8\u306B\u4F53\u7BC0\u306E\u3042\u3068\u304C\u8272\u6FC3\u304F\u3001\u30AF\u30E2\u76EE\u306E\u4E2D\u3067\u7279\u306B\u539F\u59CB\u7684\u306A\u3082\u306E\u3068\u8003\u3048\u3089\u308C\u308B\u3002"@ja ,
+		"Liphistiidae zijn een familie van spinnen. De familie telt 5 beschreven geslachten en 89 soorten."@nl ,
+		"Liphistiidae Thorell, 1869 \u00E8 una famiglia di ragni appartenente al sottordine Mesothelae. Questi ragni sono  in quanto hanno i cheliceri dalla punta rivolta verso il basso, come gli altri ragni appartenenti al sottordine Mygalomorphae; non vi \u00E8 comunque relazione diretta dal punto di vista sistematico. Si pensa che l'antenato comune di tutti i ragni era un Orthognatha, e che, di tutti i sottordini susseguitisi, solamente gli Araneomorphae cambiarono il loro allineamento dei cheliceri, mentre i migalomorfi trattennero come caratteristica i cheliceri simplesiomorfi."@it ,
+		"The spider family Liphistiidae, recognized by Tamerlan Thorell in 1869, comprises 8 genera and about 100 species of medium-sized spiders from Southeast Asia, China, and Japan. They are among the most basal living spiders, belonging to the suborder Mesothelae. In Japan, the Kimura spider (Heptathela kimurai) is well known."@en ,
+		"Lifistiedoj estas la araneoj de la familio Liphistiidae, agnoskita de Tamerlan Thorell en 1869, kiu enhavas 8 genrojn kaj \u0109irka\u016D 100 speciojn de mez-grandaj araneoj el Sudorienta Azio, \u0108inio, kaj Japanio. Ili estas inter la plej bazaj vivantaj araneoj, kaj apartenas al la subordo Mesothelae. En Japanio, la Kimura araneo (Heptathela kimurai) estas tre bone konata."@eo ,
+		"Die Liphistiidae sind die einzige rezente Familie innerhalb der Unterordnung der Gliederspinnen (Mesothelae). Sie werden deshalb, ebenso wie die Unterordnung, im Deutschen schlicht Gliederspinnen genannt. Sie gelten als sehr primitive Webspinnen. Die Familie umfasst acht Gattungen mit 101 Arten. (Stand: Oktober 2017)"@de ,
+		"Les Liphistiidae sont une famille d'araign\u00E9es m\u00E9soth\u00E8les. Les araign\u00E9es de cette famille, comme celles de la famille des Segestriidae construisent des tubes de soies et non de v\u00E9ritables toiles."@fr ,
+		"Liphistiidae \u00E9 uma fam\u00EDlia asi\u00E1tica de aranhas que compreende 5 g\u00EAneros e 85 esp\u00E9cies, cujos habitats compreendem China e Jap\u00E3o. No Jap\u00E3o, a  () \u00E9 bastante conhecida."@pt ;
+	dbo:wikiPageLength	"12228"^^xsd:nonNegativeInteger ;
+	dbp:colwidth	30 ;
+	dbp:label	"Southeast Asia"@en ,
+		"Japan, Okinawa, Ryukyu Islands"@en ,
+		"China, northern Vietnam"@en ;
+	dbp:size	8 ;
+	dbp:bar	"green"@en ,
+		"brown"@en ,
+		"purple"@en .
+dbr:Ryuthela_nishihirai	dbp:familia	dbr:Liphistiidae ;
+	dbo:family	dbr:Liphistiidae ;
+	dbo:wikiPageWikiLink	dbr:Liphistiidae .
+dbr:Heptathela	dbo:wikiPageWikiLink	dbr:Liphistiidae .
+dbr:Mesothelae	dbo:wikiPageWikiLink	dbr:Liphistiidae .
+wikipedia-en:Liphistiidae	foaf:primaryTopic	dbr:Liphistiidae .
+dbr:Spider	dbo:wikiPageWikiLink	dbr:Liphistiidae .
+dbr:Ryuthela	dbp:familia	dbr:Liphistiidae ;
+	dbo:family	dbr:Liphistiidae ;
+	dbo:wikiPageWikiLink	dbr:Liphistiidae .
+dbr:Songthela	dbp:familia	dbr:Liphistiidae ;
+	dbo:family	dbr:Liphistiidae ;
+	dbo:wikiPageWikiLink	dbr:Liphistiidae .
+dbr:Huntsman_spider	dbo:wikiPageWikiLink	dbr:Liphistiidae .
+dbr:Chelicerata	dbo:wikiPageWikiLink	dbr:Liphistiidae .
+dbr:Living_fossil	dbo:wikiPageWikiLink	dbr:Liphistiidae .
+dbr:Spider_anatomy	dbo:wikiPageWikiLink	dbr:Liphistiidae .
+dbr:Liphistius_batuensis	dbp:familia	dbr:Liphistiidae ;
+	dbo:family	dbr:Liphistiidae ;
+	dbo:wikiPageWikiLink	dbr:Liphistiidae .
+dbr:Ganthela	dbo:wikiPageWikiLink	dbr:Liphistiidae .
+dbr:Sinothela	dbo:wikiPageWikiLink	dbr:Liphistiidae .
+dbr:Vinathela	dbo:wikiPageWikiLink	dbr:Liphistiidae .
+<http://dbpedia.org/resource/2015_in_arthropod_paleontology>	dbo:wikiPageWikiLink	dbr:Liphistiidae .
+dbr:Qiongthela	dbo:wikiPageWikiLink	dbr:Liphistiidae .
+<http://dbpedia.org/resource/IUCN_Red_List_critically_endangered_species_(Animalia)>	dbo:wikiPageWikiLink	dbr:Liphistiidae .
+dbr:Cave	dbo:wikiPageWikiLink	dbr:Liphistiidae .
+dbr:Spider_taxonomy	dbo:wikiPageWikiLink	dbr:Liphistiidae .
+dbr:List_of_trapdoor_spiders	dbo:wikiPageWikiLink	dbr:Liphistiidae .
+dbr:Ctenizidae	dbo:wikiPageWikiLink	dbr:Liphistiidae .
+dbr:Ryuthela_tanikawai	dbp:familia	dbr:Liphistiidae ;
+	dbo:family	dbr:Liphistiidae ;
+	dbo:wikiPageWikiLink	dbr:Liphistiidae .
+dbr:List_of_fauna_of_Batu_Caves	dbo:wikiPageWikiLink	dbr:Liphistiidae .

@@ -1,0 +1,31 @@
+
+
+
+
+    
+
+    @prefix : <http://disi.unitn.it/~knowdive/dataset/delicious/tag/youth_hostels/1691#> .@prefix ctag: <http://commontag.org/ns#> .@prefix dc: <http://purl.org/dc/elements/1.1/> .@prefix dcterms: <http://purl.org/dc/terms/> .@prefix skos: <http://www.w3.org/2004/02/skos/core#> .@prefix tags: <http://www.holygoat.co.uk/owl/redwood/0.1/tags#> .@prefix tags2con: <http://disi.unitn.it/~knowdive/dataset/delicious/tags2con#> .
+    
+
+    <http://disi.unitn.it/~knowdive/dataset/delicious/tag/youth_hostels/1691#> tags2con:hasTokens :hostel ,:youth  ;
+dc:source <http://www.delicious.com/tag/youth_hostels>  ;
+dcterms:isPartOf <http://disi.unitn.it/~knowdive/dataset/delicious//tags2con_dataset.rdf>  ;
+dcterms:license <http://creativecommons.org/licenses/by-nc-nd/3.0/>  ;
+<http://rdfs.org/sioc/ns#has_owner> <http://disi.unitn.it/~knowdive/dataset/delicious/user/526849/526849>  ;
+tags:isTagOf <http://www.bootsnall.com/>  ;
+tags:tagName "youth_hostels"  ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> tags2con:ComposedTag   .:hostel ctag:means <http://disi.unitn.it/~knowdive/dataset/delicious/concept/hostel-NOUN-317064>  ;
+tags2con:partOfTag <http://disi.unitn.it/~knowdive/dataset/delicious/tag/youth_hostels/1691#>  ;
+tags2con:position 1  ;
+dcterms:isPartOf <http://disi.unitn.it/~knowdive/dataset/delicious//tags2con_dataset.rdf>  ;
+dcterms:license <http://creativecommons.org/licenses/by-nc-nd/3.0/>  ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> tags2con:Token  ;
+skos:prefLabel "hostel"@en   .:youth tags2con:partOfTag <http://disi.unitn.it/~knowdive/dataset/delicious/tag/youth_hostels/1691#>  ;
+tags2con:position 0  ;
+dcterms:isPartOf <http://disi.unitn.it/~knowdive/dataset/delicious//tags2con_dataset.rdf>  ;
+dcterms:license <http://creativecommons.org/licenses/by-nc-nd/3.0/>  ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> tags2con:Token  ;
+skos:prefLabel "youth"@en   .
+
+
+

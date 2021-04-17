@@ -1,0 +1,464 @@
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+dbr:Taiwan	dbo:wikiPageWikiLink	dbr:European_Court_of_Auditors .
+dbr:European_Food_Safety_Authority	dbo:wikiPageWikiLink	dbr:European_Court_of_Auditors .
+dbr:European_Union	dbo:wikiPageWikiLink	dbr:European_Court_of_Auditors .
+<http://dbpedia.org/resource/Seine\u2013Nord_Europe_Canal>	dbo:wikiPageWikiLink	dbr:European_Court_of_Auditors .
+<http://dbpedia.org/resource/1995_in_the_European_Union>	dbo:wikiPageWikiLink	dbr:European_Court_of_Auditors .
+dbr:Succession_of_the_Roman_Empire	dbo:wikiPageWikiLink	dbr:European_Court_of_Auditors .
+dbr:Supreme_audit_institution	dbo:wikiPageWikiLink	dbr:European_Court_of_Auditors .
+dbr:Europol	dbo:wikiPageWikiLink	dbr:European_Court_of_Auditors .
+dbr:Intergovernmentalism	dbo:wikiPageWikiLink	dbr:European_Court_of_Auditors .
+<http://dbpedia.org/resource/Rasa_Budbergyt\u0117>	dbo:wikiPageWikiLink	dbr:European_Court_of_Auditors .
+dbr:Corruption_in_Turkmenistan	dbo:wikiPageWikiLink	dbr:European_Court_of_Auditors .
+dbr:Politics_of_Estonia	dbo:wikiPageWikiLink	dbr:European_Court_of_Auditors .
+dbr:Antoni_Castells	dbo:wikiPageWikiLink	dbr:European_Court_of_Auditors .
+dbr:Grand_Duchess_Charlotte_Bridge	dbo:wikiPageWikiLink	dbr:European_Court_of_Auditors .
+dbr:Ottersweier	dbo:wikiPageWikiLink	dbr:European_Court_of_Auditors .
+dbr:Szabolcs_Fazakas	dbo:wikiPageWikiLink	dbr:European_Court_of_Auditors .
+dbr:Fabrice_Fries	dbo:wikiPageWikiLink	dbr:European_Court_of_Auditors .
+dbr:Performance_audit	dbo:wikiPageWikiLink	dbr:European_Court_of_Auditors .
+dbr:Werner-Cravatte_Ministry	dbo:wikiPageWikiLink	dbr:European_Court_of_Auditors .
+dbr:Studienzentrum_Weikersheim	dbo:wikiPageWikiLink	dbr:European_Court_of_Auditors .
+dbr:Thorn_Ministry	dbo:wikiPageWikiLink	dbr:European_Court_of_Auditors .
+dbr:Iliana_Ivanova	dbo:wikiPageWikiLink	dbr:European_Court_of_Auditors .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+wikipedia-en:European_Court_of_Auditors	foaf:primaryTopic	dbr:European_Court_of_Auditors .
+<http://dbpedia.org/resource/Kirchberg,_Luxembourg>	dbo:wikiPageWikiLink	dbr:European_Court_of_Auditors .
+dbr:European_Parliament_Committee_on_Budgetary_Control	dbo:wikiPageWikiLink	dbr:European_Court_of_Auditors .
+dbr:Functional_airspace_block	dbo:wikiPageWikiLink	dbr:European_Court_of_Auditors .
+dbr:Marc_Hostert	dbo:wikiPageWikiLink	dbr:European_Court_of_Auditors .
+dbr:Euroscepticism_in_the_United_Kingdom	dbo:wikiPageWikiLink	dbr:European_Court_of_Auditors .
+dbr:List_of_presidents_of_the_institutions_of_the_European_Union	dbo:wikiPageWikiLink	dbr:European_Court_of_Auditors .
+dbr:Freedom_of_information_laws_by_country	dbo:wikiPageWikiLink	dbr:European_Court_of_Auditors .
+dbr:List_of_international_organization_leaders_in_2005	dbo:wikiPageWikiLink	dbr:European_Court_of_Auditors .
+<http://dbpedia.org/resource/Court_of_Audit_(Romania)>	dbo:wikiPageWikiLink	dbr:European_Court_of_Auditors .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:European_Court_of_Auditors	rdf:type	owl:Thing .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:European_Court_of_Auditors	rdf:type	yago:WikicatAgenciesOfTheEuropeanUnion .
+@prefix schema:	<http://schema.org/> .
+dbr:European_Court_of_Auditors	rdf:type	schema:Organization .
+@prefix ns8:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:European_Court_of_Auditors	rdf:type	ns8:SocialPerson ,
+		ns8:Agent .
+@prefix geo:	<http://www.w3.org/2003/01/geo/wgs84_pos#> .
+dbr:European_Court_of_Auditors	rdf:type	geo:SpatialThing ,
+		yago:Group100031264 ,
+		yago:Abstraction100002137 ,
+		yago:SocialGroup107950920 ,
+		yago:Organization108008335 .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:European_Court_of_Auditors	rdf:type	wikidata:Q43229 ,
+		wikidata:Q24229398 ,
+		dbo:Organisation ,
+		<http://dbpedia.org/class/yago/WikicatOrganisationsBasedInLuxembourg(city)> ,
+		wikidata:Q327333 ,
+		yago:YagoPermanentlyLocatedEntity ,
+		yago:YagoLegalActor ,
+		yago:Institution108053576 ,
+		yago:YagoLegalActorGeo ,
+		yago:WikicatInstitutionsOfTheEuropeanUnion ,
+		dbo:Agent ,
+		yago:AdministrativeUnit108077292 ,
+		yago:Agency108337324 ,
+		dbo:GovernmentAgency ,
+		yago:Unit108189659 .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:European_Court_of_Auditors	rdfs:label	"Tribunal de Contas Europeu"@pt ,
+		"\uC720\uB7FD \uD68C\uACC4 \uAC10\uC0AC\uC6D0"@ko ,
+		"Europese Rekenkamer"@nl ,
+		"Europ\u00E4ischer Rechnungshof"@de ,
+		"E\u016Dropa Revizora Kortumo"@eo ,
+		"\u0404\u0432\u0440\u043E\u043F\u0435\u0439\u0441\u044C\u043A\u0438\u0439 \u0441\u0443\u0434 \u0430\u0443\u0434\u0438\u0442\u043E\u0440\u0456\u0432"@uk ,
+		"Tribunal de Cuentas Europeo"@es ,
+		"\u6B27\u5DDE\u4F1A\u8A08\u76E3\u67FB\u9662"@ja ,
+		"\u0415\u0432\u0440\u043E\u043F\u0435\u0439\u0441\u043A\u0430\u044F \u0441\u0447\u0451\u0442\u043D\u0430\u044F \u043F\u0430\u043B\u0430\u0442\u0430"@ru ,
+		"Tribunal de Comptes Europeu"@ca ,
+		"Europeiska revisionsr\u00E4tten"@sv ,
+		"\u0395\u03C5\u03C1\u03C9\u03C0\u03B1\u03CA\u03BA\u03CC \u0395\u03BB\u03B5\u03B3\u03BA\u03C4\u03B9\u03BA\u03CC \u03A3\u03C5\u03BD\u03AD\u03B4\u03C1\u03B9\u03BF"@el ,
+		"\u6B27\u6D32\u5BA1\u8BA1\u9662"@zh ,
+		"\u0645\u062D\u0643\u0645\u0629 \u0627\u0644\u0645\u062F\u0642\u0642\u064A\u0646 \u0627\u0644\u0623\u0648\u0631\u0648\u0628\u064A\u0629"@ar ,
+		"Corte dei conti europea"@it ,
+		"Europejski Trybuna\u0142 Obrachunkowy"@pl ,
+		"Mahkamah Audit Eropa"@in ,
+		"European Court of Auditors"@en ,
+		"Cour des comptes europ\u00E9enne"@fr ,
+		"Europako Kontu Auzitegia"@eu ,
+		"Evropsk\u00FD \u00FA\u010Detn\u00ED dv\u016Fr"@cs ;
+	rdfs:comment	"Evropsk\u00FD \u00FA\u010Detn\u00ED dv\u016Fr je org\u00E1nem Evropsk\u00E9 unie, kter\u00FD byl zalo\u017Een\u00FD, aby prov\u00E1d\u011Bl kontrolu finan\u010Dn\u00EDch prost\u0159edk\u016F EU. Jako extern\u00ED auditor EU se pod\u00EDl\u00ED na zlep\u0161ov\u00E1n\u00ED finan\u010Dn\u00EDho \u0159\u00EDzen\u00ED EU a vystupuje jako nez\u00E1visl\u00FD str\u00E1\u017Ece finan\u010Dn\u00EDch z\u00E1jm\u016F ob\u010Dan\u016F Unie. Evropsk\u00FD \u00FA\u010Detn\u00ED dv\u016Fr vznikl 1977 na z\u00E1klad\u011B tzv. Smlouvy o zm\u011Bn\u011B ur\u010Dit\u00FDch finan\u010Dn\u00EDch p\u0159edpis\u016F (Bruselsk\u00E9 smlouvy), uzav\u0159en\u00E9 mezi st\u00E1ty Evropsk\u00FDch spole\u010Denstv\u00ED 22. \u010Dervence 1975. Evropsk\u00FD \u00FA\u010Detn\u00ED dv\u016Fr s\u00EDdl\u00ED v Lucemburku."@cs ,
+		"Trybuna\u0142 Obrachunkowy (fr. Cour des Comptes, ang. Court of Auditors), zwany te\u017C Europejskim Trybuna\u0142em Obrachunkowym (ETO), Trybuna\u0142em Rewizyjnym, Trybuna\u0142em Audytor\u00F3w lub Trybuna\u0142em Rewident\u00F3w Ksi\u0119gowych \u2013 instytucja Unii Europejskiej kontroluj\u0105ca wykonanie bud\u017Cetu oraz wp\u0142ywy i wydatki Wsp\u00F3lnot Europejskich. Dzia\u0142a od 18 pa\u017Adziernika 1977. Powo\u0142any zosta\u0142 na mocy tzw. II traktatu bud\u017Cetowego z 22 lipca 1975 (w\u00F3wczas jako organ wsp\u00F3lnotowy, jako instytucja funkcjonuje od Traktatu z Maastricht). Siedzib\u0105 Trybuna\u0142u jest Luksemburg."@pl ,
+		"\u0404\u0432\u0440\u043E\u043F\u0435\u0439\u0441\u044C\u043A\u0438\u0439 \u0441\u0443\u0434 \u0430\u0443\u0434\u0438\u0442\u043E\u0440\u0456\u0432 (\u0420\u0430\u0445\u0443\u043D\u043A\u043E\u0432\u0430 \u043F\u0430\u043B\u0430\u0442\u0430) (\u0430\u043D\u0433\u043B. European Court of Auditors) \u2014 \u0437 1992 \u0440\u043E\u043A\u0443 (\u041C\u0430\u0430\u0441\u0442\u0440\u0438\u0445\u0442\u0441\u044C\u043A\u0438\u0439 \u0434\u043E\u0433\u043E\u0432\u0456\u0440) \u0456\u043D\u0441\u0442\u0438\u0442\u0443\u0446\u0456\u044F \u0404\u0432\u0440\u043E\u043F\u0435\u0439\u0441\u044C\u043A\u043E\u0433\u043E \u0421\u043E\u044E\u0437\u0443, \u0449\u043E \u043F\u0435\u0440\u0435\u0432\u0456\u0440\u044F\u0454 \u0437\u0430\u043A\u043E\u043D\u043D\u0456\u0441\u0442\u044C \u0456 \u043F\u0440\u0430\u0432\u0438\u043B\u044C\u043D\u0456\u0441\u0442\u044C \u043F\u0440\u0438\u0431\u0443\u0442\u043A\u0456\u0432 \u0456 \u0432\u0438\u0434\u0430\u0442\u043A\u0456\u0432 \u0404\u0432\u0440\u043E\u043F\u0435\u0439\u0441\u044C\u043A\u043E\u0433\u043E \u0421\u043E\u044E\u0437\u0443 \u0437\u0433\u0456\u0434\u043D\u043E \u0437 \u0431\u044E\u0434\u0436\u0435\u0442\u043E\u043C, \u0430 \u0442\u0430\u043A\u043E\u0436 \u043E\u0446\u0456\u043D\u044E\u0454 \u0443\u043F\u0440\u0430\u0432\u043B\u0456\u043D\u043D\u044F \u0444\u0456\u043D\u0430\u043D\u0441\u0430\u043C\u0438. \u0420\u0435\u0437\u0443\u043B\u044C\u0442\u0430\u0442\u043E\u043C \u0440\u0435\u0444\u043E\u0440\u043C \u0404\u0415\u0421 \u0432 1970-\u0445 \u0440\u043E\u043A\u0430\u0445 \u0441\u0442\u0430\u0432 \u0414\u043E\u0433\u043E\u0432\u0456\u0440 \u043F\u0440\u043E \u0440\u0435\u0444\u043E\u0440\u043C\u0443\u0432\u0430\u043D\u043D\u044F \u0431\u044E\u0434\u0436\u0435\u0442\u043D\u043E\u0433\u043E \u043F\u0440\u043E\u0446\u0435\u0441\u0443 1975\u0440. \u041F\u043E\u0447\u0438\u043D\u0430\u044E\u0447\u0438 \u0437 1977 \u0440\u043E\u043A\u0443 \u0432 \u041B\u044E\u043A\u0441\u0435\u043C\u0431\u0443\u0440\u0437\u0456 \u0440\u043E\u0437\u043F\u043E\u0447\u0430\u0432 \u0440\u043E\u0431\u043E\u0442\u0443 \u0421\u0443\u0434 \u0410\u0443\u0434\u0438\u0442\u043E\u0440\u0456\u0432, \u043F\u0435\u0440\u0441\u043E\u043D\u0430\u043B \u0441\u0442\u0430\u043D\u043E\u0432\u0438\u0442\u044C \u0431\u043B\u0438\u0437\u044C\u043A\u043E 550 \u043F\u0440\u0430\u0446\u0456\u0432\u043D\u0438\u043A\u0456\u0432."@uk ,
+		"\u6B27\u5DDE\u4F1A\u8A08\u76E3\u67FB\u9662\uFF08\u304A\u3046\u3057\u3085\u3046\u304B\u3044\u3051\u3044\u304B\u3093\u3055\u3044\u3093\uFF09\u306F\u30011975\u5E74\u306B\u8ABF\u5370\u3055\u308C\u305F\u4E88\u7B97\u5236\u5EA6\u306E\u5909\u66F4\u306B\u95A2\u3059\u308B\u6761\u7D04\u306B\u3088\u3063\u3066\u8A2D\u7ACB\u304C\u6C7A\u5B9A\u3055\u308C\u30011977\u5E74\u306B\u72EC\u7ACB\u3057\u305F\u6A29\u9650\u3092\u4E0E\u3048\u3089\u308C\u3066\u767A\u8DB3\u3057\u305F\u6B27\u5DDE\u9023\u5408(EU)\u306E\u76E3\u67FB\u6A5F\u95A2\u3067\u3042\u308B\u30021993\u5E74\u767A\u52B9\u306E\u30DE\u30FC\u30B9\u30C8\u30EA\u30D2\u30C8\u6761\u7D04\u306B\u3088\u308A\u3001EU\u306E\u4ED6\u306E\u6A5F\u95A2\u3068\u540C\u7B49\u306E\u5730\u4F4D\u304C\u4E0E\u3048\u3089\u308C\u3066\u304A\u308A\u3001\u305D\u306E\u5F8C\u306E\u30A2\u30E0\u30B9\u30C6\u30EB\u30C0\u30E0\u6761\u7D04\u3084\u30CB\u30FC\u30B9\u6761\u7D04\u3067\u6A29\u9650\u304C\u62E1\u5F35\u3055\u308C\u3066\u3044\u308B\u3002\u6B27\u5DDE\u4F1A\u8A08\u76E3\u67FB\u9662\u306E\u6839\u62E0\u306F\u30ED\u30FC\u30DE\u6761\u7D04\u7B2C246\u6761\u304B\u3089\u7B2C248\u6761\u306B\u5B9A\u3081\u3089\u308C\u3001EU\u5185\u306B\u304A\u3044\u3066\u8AF8\u6A5F\u95A2\u304C\u9069\u6CD5\u304B\u3064\u516C\u6B63\u306B\u6B73\u5165\u30FB\u6B73\u51FA\u3092\u5B9F\u65BD\u3057\u3066\u3044\u308B\u304B\u78BA\u8A8D\u3059\u308B\u3053\u3068\u304C\u4F7F\u547D\u3068\u306A\u3063\u3066\u3044\u308B\u3002\u306A\u304A\u6B27\u5DDE\u4F1A\u8A08\u76E3\u67FB\u9662\u306F\u30EB\u30AF\u30BB\u30F3\u30D6\u30EB\u30AF\u5E02\u306B\u7F6E\u304B\u308C\u3066\u3044\u308B\u3002"@ja ,
+		"\u6B27\u6D32\u5BA1\u8BA1\u9662\u4E3A\u6B27\u6D32\u8054\u76DF\u4E3B\u8981\u4E0B\u8BBE\u673A\u6784\u4E4B\u4E00\u3002\u5176\u4E3B\u8981\u804C\u8D23\u662F\u5BA1\u8BA1\u6B27\u76DF\u53CA\u5176\u6240\u5C5E\u673A\u6784\u7684\u8D26\u52A1\u4EE5\u53CA\u8D22\u653F\u6536\u652F\u3002\u53E6\u5916\uFF0C\u6B27\u6D32\u5BA1\u8BA1\u9662\u8FD8\u53EF\u4EE5\u5BF9\u63A5\u53D7\u6B27\u76DF\u63F4\u52A9\u7684\u975E\u6210\u5458\u56FD\u8FDB\u884C\u5BA1\u8BA1\u3002\u6B27\u6D32\u5BA1\u8BA1\u9662\u6210\u7ACB\u4E8E1975\u5E74\uFF0C\u603B\u90E8\u8BBE\u5728\u5362\u68EE\u5821\u3002\u6B27\u6D32\u5BA1\u8BA1\u9662\u6210\u5458\u9700\u7531\u6B27\u6D32\u8BAE\u4F1A\u534F\u5546\u901A\u8FC7\u5E76\u7531\u6B27\u76DF\u7406\u4E8B\u4F1A\u4EFB\u547D\uFF0C\u5176\u4EFB\u671F\u4E3A\u516D\u5E74\u3002\u6B27\u76DF\u5BA1\u8BA1\u9662\u8BBE\u4E3B\u5E2D\u4E00\u804C\uFF0C\u4EFB\u671F\u4E3A\u4E09\u5E74\uFF0C\u7531\u9009\u4E3E\u4EA7\u751F\uFF0C\u5141\u8BB8\u8FDE\u4EFB\u3002"@zh ,
+		"El Tribunal de Cuentas de la Uni\u00F3n o Tribunal de Cuentas (TCE) es una Instituci\u00F3n de la Uni\u00F3n Europea, con sede en Luxemburgo, encargada de la fiscalizaci\u00F3n y el control de las cuentas de la Uni\u00F3n Europea.\u200B La instituci\u00F3n elabora un informe anual para el Parlamento Europeo y el Consejo de la Uni\u00F3n, que el Parlamento examina antes de aprobar la gesti\u00F3n del presupuesto de la UE por parte de la Comisi\u00F3n Europea.\u200B Se cre\u00F3 en 1975 por el Tratado de Bruselas y comenz\u00F3 su trabajo en 1977. El Tratado de la Uni\u00F3n Europea de 1992 lo elev\u00F3 al rango de instituci\u00F3n de pleno derecho.\u200B"@es ,
+		"O Tribunal de Contas Europeu (sigla: TCE) \u00E9 uma institui\u00E7\u00E3o da Uni\u00E3o Europeia, sendo constitu\u00EDda pelos Tribunais de Contas de cada Estado-membro, actualmente s\u00E3o 28 constituintes. Os membros, cujo mandato abrange um per\u00EDodo de seis anos (renov\u00E1veis) s\u00E3o nomeados pelo Conselho da Uni\u00E3o Europeia, por maioria qualificada e ap\u00F3s consulta ao Parlamento Europeu. O Tribunal de Contas Europeu exerce as suas fun\u00E7\u00F5es com total independ\u00EAncia. O Tribunal verifica a legalidade e regularidade das receitas e despesas da Uni\u00E3o Europeia, bem como a boa gest\u00E3o financeira. A sua sede \u00E9 no Luxemburgo."@pt ,
+		"La Cour des comptes europ\u00E9enne a \u00E9t\u00E9 institu\u00E9e par le trait\u00E9 de Bruxelles du 22 juillet 1975 et est entr\u00E9e en fonction le 18 octobre 1977. Elle a \u00E9t\u00E9 \u00E9lev\u00E9e au rang d'institution de l'Union europ\u00E9enne, le 1er novembre 1993, avec l'entr\u00E9e en vigueur du trait\u00E9 de Maastricht et son si\u00E8ge a \u00E9t\u00E9 \u00E9tabli \u00E0 Luxembourg."@fr ,
+		"El Tribunal de Comptes Europeu \u00E9s una instituci\u00F3 que comprova la legalitat i regularitat dels ingressos i despeses de la Uni\u00F3 Europea (UE), aix\u00ED com la seva bona gesti\u00F3 financera. T\u00E9 la seva seu central a la ciutat de Luxemburg."@ca ,
+		"Mahkamah Audit Eropa (Inggris: European Court of Auditors) adalah salah satu institusi Uni Eropa yang didirikan pada 1975 di Luksemburg."@in ,
+		"\u0415\u0432\u0440\u043E\u043F\u0435\u0439\u0441\u043A\u0430\u044F \u0441\u0447\u0451\u0442\u043D\u0430\u044F \u043F\u0430\u043B\u0430\u0442\u0430 \u2014 \u043E\u0434\u0438\u043D \u0438\u0437 \u0441\u0435\u043C\u0438 \u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\u043E\u0432, \u0443\u043F\u0440\u0430\u0432\u043B\u044F\u044E\u0449\u0438\u0445 \u0415\u0432\u0440\u043E\u043F\u0435\u0439\u0441\u043A\u0438\u043C \u0441\u043E\u044E\u0437\u043E\u043C. \u041F\u0430\u043B\u0430\u0442\u0430 \u0441\u043E\u0437\u0434\u0430\u043D\u0430 \u0432 1975 \u0433\u043E\u0434\u0443 \u0434\u043B\u044F \u0430\u0443\u0434\u0438\u0442\u043E\u0440\u0441\u043A\u043E\u0439 \u043F\u0440\u043E\u0432\u0435\u0440\u043A\u0438 \u0431\u044E\u0434\u0436\u0435\u0442\u0430 \u0441\u043E\u044E\u0437\u0430 \u0438 \u0435\u0433\u043E \u0443\u0447\u0440\u0435\u0436\u0434\u0435\u043D\u0438\u0439. \u0428\u0442\u0430\u0431-\u043A\u0432\u0430\u0440\u0442\u0438\u0440\u0430 \u0421\u0447\u0451\u0442\u043D\u043E\u0439 \u043F\u0430\u043B\u0430\u0442\u044B \u043D\u0430\u0445\u043E\u0434\u0438\u0442\u0441\u044F \u0432 \u041B\u044E\u043A\u0441\u0435\u043C\u0431\u0443\u0440\u0433\u0435."@ru ,
+		"La E\u016Dropa Revizora Kortumo estas la institucio kiu kontrolas la kontojn de la E\u016Dropa Unio. \u011Ci ekzamenas la kontojn de \u0109iuj enspezoj kaj elspezoj de la Unio, kaj kontrolas \u0109u la financa mastrumado estis efika kaj bonrezulta. La Revizora Kortumo publikigas la rezultojn de siaj laboroj forme de jarraporto, kiu temas praktike pri \u0109iuj politikterenoj de EU, de specialaj raportoj pri apartaj temoj, kaj de opinioj. La Revizora Kortumo konsistas el po unu civitano de \u0109iu membro\u015Dtato. \u011Ciaj membroj plenumas siajn taskojn plene sendepende, en la \u011Denerala intereso de la Unio. La Revizora Kortumo havas sian sidejon en la urbo Luksemburgo."@eo ,
+		"\uC720\uB7FD \uD68C\uACC4 \uAC10\uC0AC\uC6D0(-\u6703\u8A08\u76E3\u67E5\u54E1, European Court of Auditors)\uB294 \uC720\uB7FD \uC5F0\uD569\uC758 \uAE30\uAD6C \uC911 \uD558\uB098\uC774\uB2E4. \uB8E9\uC148\uBD80\uB974\uD06C\uC5D0 \uBCF8\uBD80\uAC00 \uC704\uCE58\uD558\uACE0 \uC788\uB2E4."@ko ,
+		"\u0645\u062D\u0643\u0645\u0629 \u0627\u0644\u0645\u062F\u0642\u0642\u064A\u0646 \u0627\u0644\u0623\u0648\u0631\u0648\u0628\u064A\u0629 (\u0628\u0627\u0644\u0625\u0646\u062C\u0644\u064A\u0632\u064A\u0629: European Court of Auditors) \u0647\u064A \u0627\u0644\u0645\u0624\u0633\u0633\u0629 \u0627\u0644\u062E\u0627\u0645\u0633\u0629 \u0641\u064A \u0627\u0644\u0627\u062A\u062D\u0627\u062F \u0627\u0644\u0623\u0648\u0631\u0648\u0628\u064A \u062A\u0645 \u0627\u0644\u0627\u062A\u0641\u0627\u0642 \u0639\u0644\u0649 \u062A\u0623\u0633\u064A\u0633\u0647\u0627 \u0641\u064A \u0627\u0644\u0639\u0627\u0645 1975 \u0648\u062A\u0623\u0633\u0633\u062A \u0628\u0634\u0643\u0644 \u0631\u0633\u0645\u064A \u0641\u064A \u0639\u0627\u0645 1977 \u0641\u064A \u0644\u0648\u0643\u0633\u0645\u0628\u0648\u0631\u063A. \u0648\u0647\u064A \u062A\u0645\u062A\u0644\u0643 \u0635\u0644\u0627\u062D\u064A\u0627\u062A \u062A\u062F\u0642\u064A\u0642 \u0627\u0644\u0628\u064A\u0627\u0646\u0627\u062A \u0627\u0644\u0645\u0627\u0644\u064A\u0629 \u0644\u0644\u0627\u062A\u062D\u0627\u062F \u0627\u0644\u0623\u0648\u0631\u0648\u0628\u064A."@ar ,
+		"De Europese Rekenkamer werd in 1977 ingesteld om de begroting van de Europese Gemeenschap te controleren, de voorloper van de huidige Europese Unie. De Rekenkamer controleert jaarlijks in hoeverre de rekeningen van de Europese instellingen betrouwbaar zijn en of hun financi\u00EBle verrichtingen voldoen aan de geldende wet- en regelgeving. Daartoe neemt zij in haar jaarverslag een betrouwbaarheidsverklaring op, een van de instrumenten waarmee zij het Europees Parlement en de Europese Raad in staat stelt te beoordelen hoe de begroting van de Unie wordt beheerd. Naast dit accountant-achtige werk geeft de Rekenkamer ook op eigen initiatief een oordeel over de doelmatigheid van projecten die met Europese middelen worden gefinancierd."@nl ,
+		"The European Court of Auditors (ECA) (French: Cour des comptes europ\u00E9enne) is one of the seven institutions of the European Union (EU). It was established in 1975 in Luxembourg in order to improve EU financial management."@en ,
+		"La Corte dei conti europea \u00E8 l'istituzione dell'Unione europea preposta all'esame dei conti di tutte le entrate e le uscite dell'Unione e dei suoi vari organi, accertandone la sana gestione finanziaria."@it ,
+		"Europako Kontu Auzitegia Europar Batasunak eskuragarri duen aurrekontua, finantza-kudeaketa egokiaren ikuspuntutik, legezkotasunez erabiltzen dela egiaztatzea helburu duen erakundea da. Erakunde horren eskumena, Batasuneko erakundeetara ez ezik, Europar Batasuneko finantza-baliabideak kudeatzen dituzten estatu, eskualde edo erakundeetara ere iristen da. Auzitegiak akatsak edo irregulartasunak antzematen baditu, edo iruzurra egin delako susmorik badu, erakunde edo organo interesdunari jakinarazten dio, behar bezalako neurriak har ditzan. Era berean, auzitegiak arazo horiek sortu ahal dituzten sistemen eta prozeduren alderdi ahulak nabarmentzen ditu, zergadunen dirua hobeto kudeatu ahal izateko."@eu ,
+		"Europeiska revisionsr\u00E4tten, formellt Europeiska unionens revisionsr\u00E4tt, \u00E4r en av Europeiska unionens institutioner. Den best\u00E5r av en revisor fr\u00E5n varje medlemsstat. Dess syfte \u00E4r att bidra till att f\u00F6rb\u00E4ttra den ekonomiska f\u00F6rvaltningen av unionens medel och d\u00E4rmed se till att unionsmedborgarna f\u00E5r st\u00F6rsta m\u00F6jliga nytta av skattemedlen. Revisionsr\u00E4tten leds av en ordf\u00F6rande, som sedan den 1 oktober 2016 \u00E4r . Revisionsr\u00E4tten har sitt s\u00E4te i Luxemburg."@sv ,
+		"\u03A4\u03BF \u0395\u03C5\u03C1\u03C9\u03C0\u03B1\u03CA\u03BA\u03CC \u0395\u03BB\u03B5\u03B3\u03BA\u03C4\u03B9\u03BA\u03CC \u03A3\u03C5\u03BD\u03AD\u03B4\u03C1\u03B9\u03BF (\u03B1\u03B3\u03B3\u03BB\u03B9\u03BA\u03AC: European Court of Auditors, \u03BB\u03B1\u03C4\u03B9\u03BD\u03B9\u03BA\u03AC: Curia Rationum) \u03B1\u03C0\u03BF\u03C4\u03B5\u03BB\u03B5\u03AF \u03AD\u03BD\u03B1 \u03B1\u03C0\u03CC \u03C4\u03B1 \u03BA\u03CD\u03C1\u03B9\u03B1 \u03CC\u03C1\u03B3\u03B1\u03BD\u03B1 \u03C4\u03B7\u03C2 \u0395\u03C5\u03C1\u03C9\u03C0\u03B1\u03CA\u03BA\u03AE\u03C2 \u0388\u03BD\u03C9\u03C3\u03B7\u03C2. \u0399\u03B4\u03C1\u03CD\u03B8\u03B7\u03BA\u03B5 \u03C4\u03BF 1975. \u0391\u03C0\u03BF\u03C3\u03C4\u03BF\u03BB\u03AE \u03C4\u03BF\u03C5 \u03B5\u03AF\u03BD\u03B1\u03B9 \u03BD\u03B1 \u03B5\u03BB\u03AD\u03B3\u03C7\u03B5\u03B9 \u03C4\u03B7 \u03C7\u03C1\u03B7\u03C3\u03C4\u03AE \u03B4\u03B9\u03B1\u03C7\u03B5\u03AF\u03C1\u03B9\u03C3\u03B7 \u03C4\u03C9\u03BD \u03C0\u03CC\u03C1\u03C9\u03BD \u03C4\u03B7\u03C2 \u0395\u0395, \u03AD\u03C4\u03C3\u03B9 \u03CE\u03C3\u03C4\u03B5 \u03C4\u03B1 \u03C7\u03C1\u03AE\u03BC\u03B1\u03C4\u03B1 \u03C4\u03C9\u03BD \u03C0\u03BF\u03BB\u03B9\u03C4\u03CE\u03BD \u03C4\u03B7\u03C2 \u03BD\u03B1 \u03C7\u03C1\u03B7\u03C3\u03B9\u03BC\u03BF\u03C0\u03BF\u03B9\u03BF\u03CD\u03BD\u03C4\u03B1\u03B9 \u03BC\u03B5 \u03C4\u03BF\u03BD \u03BA\u03B1\u03BB\u03CD\u03C4\u03B5\u03C1\u03BF \u03B4\u03C5\u03BD\u03B1\u03C4\u03CC \u03C4\u03C1\u03CC\u03C0\u03BF. \u0388\u03C7\u03B5\u03B9 \u03C4\u03BF \u03B4\u03B9\u03BA\u03B1\u03AF\u03C9\u03BC\u03B1 \u03BD\u03B1 \u03B5\u03BB\u03AD\u03B3\u03C7\u03B5\u03B9 \u03BA\u03AC\u03B8\u03B5 \u03C0\u03C1\u03CC\u03C3\u03C9\u03C0\u03BF \u03AE \u03BF\u03C1\u03B3\u03B1\u03BD\u03B9\u03C3\u03BC\u03CC \u03C0\u03BF\u03C5 \u03C7\u03B5\u03B9\u03C1\u03AF\u03B6\u03B5\u03C4\u03B1\u03B9 \u03C0\u03CC\u03C1\u03BF\u03C5\u03C2 \u03C4\u03B7\u03C2 \u0395\u0395."@el ,
+		"Der Europ\u00E4ische Rechnungshof (kurz EuRH) geh\u00F6rt zu den Organen der Europ\u00E4ischen Union. Er wurde 1975 durch den Vertrag zur \u00C4nderung bestimmter Finanzvorschriften errichtet, nahm 1977 als unabh\u00E4ngiges Kontrollorgan seine Arbeit auf und wurde mit dem 1992 geschlossenen Vertrag von Maastricht 1993 den anderen Organen gleichgestellt. Durch die Vertr\u00E4ge von Amsterdam und Nizza wurden seine Kompetenzen weiter ausgebaut. Auf Grundlage der Art. 285 bis 287 AEU-Vertrag pr\u00FCft der EuRH fortlaufend die Rechtm\u00E4\u00DFigkeit und ordnungsgem\u00E4\u00DFe Verwendung aller Einnahmen und Ausgaben der Europ\u00E4ischen Union. Sitz des Rechnungshofes ist Luxemburg."@de ;
+	foaf:name	"Court of Auditors"@en ;
+	foaf:homepage	<http://eca.europa.eu/> .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:European_Court_of_Auditors	geo:lat	"49.622776031494140625"^^xsd:float ;
+	geo:long	"6.1469445228576660156"^^xsd:float ;
+	foaf:isPrimaryTopicOf	wikipedia-en:European_Court_of_Auditors .
+@prefix virtrdf:	<http://www.openlinksw.com/schemas/virtrdf#> .
+dbr:European_Court_of_Auditors	geo:geometry	"POINT(6.1469445228577 49.622776031494)"^^virtrdf:Geometry .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:European_Court_of_Auditors	dct:subject	dbc:European_Court_of_Auditors ,
+		dbc:Government_audit ,
+		dbc:European_Union_law ;
+	owl:sameAs	<http://be.dbpedia.org/resource/\u0415\u045E\u0440\u0430\u043F\u0435\u0439\u0441\u043A\u0430\u044F_\u043F\u0430\u0434\u043B\u0456\u043A\u043E\u0432\u0430\u044F_\u043F\u0430\u043B\u0430\u0442\u0430> .
+@prefix ns16:	<http://bs.dbpedia.org/resource/> .
+dbr:European_Court_of_Auditors	owl:sameAs	ns16:Revizorski_sud .
+@prefix dbpedia-id:	<http://id.dbpedia.org/resource/> .
+dbr:European_Court_of_Auditors	owl:sameAs	dbpedia-id:Mahkamah_Audit_Eropa ,
+		<http://d-nb.info/gnd/1086465083> ,
+		<http://lb.dbpedia.org/resource/Europ\u00E4esche_Rechnungshaff> ,
+		<http://d-nb.info/gnd/2155569-2> .
+@prefix dbpedia-hr:	<http://hr.dbpedia.org/resource/> .
+dbr:European_Court_of_Auditors	owl:sameAs	dbpedia-hr:Revizorski_sud ,
+		<http://ar.dbpedia.org/resource/\u0645\u062D\u0643\u0645\u0629_\u0627\u0644\u0645\u062F\u0642\u0642\u064A\u0646_\u0627\u0644\u0623\u0648\u0631\u0648\u0628\u064A\u0629> ,
+		<http://viaf.org/viaf/137557626> .
+@prefix dbpedia-eu:	<http://eu.dbpedia.org/resource/> .
+dbr:European_Court_of_Auditors	owl:sameAs	dbpedia-eu:Europako_Kontu_Auzitegia ,
+		<http://bg.dbpedia.org/resource/\u0415\u0432\u0440\u043E\u043F\u0435\u0439\u0441\u043A\u0430_\u0441\u043C\u0435\u0442\u043D\u0430_\u043F\u0430\u043B\u0430\u0442\u0430> ,
+		<http://eo.dbpedia.org/resource/E\u016Dropa_Revizora_Kortumo> ,
+		<http://d-nb.info/gnd/1087262585> ,
+		<http://pl.dbpedia.org/resource/Europejski_Trybuna\u0142_Obrachunkowy> ,
+		<http://sv.dbpedia.org/resource/Europeiska_revisionsr\u00E4tten> ,
+		<http://d-nb.info/gnd/1085705951> ,
+		<http://sl.dbpedia.org/resource/Evropsko_ra\u010Dunsko_sodi\u0161\u010De> ,
+		<http://mk.dbpedia.org/resource/\u0415\u0432\u0440\u043E\u043F\u0441\u043A\u0438_\u0440\u0435\u0432\u0438\u0437\u0438\u0441\u043A\u0438_\u0441\u0443\u0434> .
+@prefix dbpedia-cy:	<http://cy.dbpedia.org/resource/> .
+dbr:European_Court_of_Auditors	owl:sameAs	dbpedia-cy:Llys_Archwilwyr_Ewrop ,
+		<http://ru.dbpedia.org/resource/\u0415\u0432\u0440\u043E\u043F\u0435\u0439\u0441\u043A\u0430\u044F_\u0441\u0447\u0451\u0442\u043D\u0430\u044F_\u043F\u0430\u043B\u0430\u0442\u0430> ,
+		<http://d-nb.info/gnd/16145384-3> ,
+		<http://da.dbpedia.org/resource/Den_Europ\u00E6iske_Revisionsret> ,
+		<http://d-nb.info/gnd/4071009-9> .
+@prefix dbpedia-ca:	<http://ca.dbpedia.org/resource/> .
+dbr:European_Court_of_Auditors	owl:sameAs	dbpedia-ca:Tribunal_de_Comptes_Europeu ,
+		<http://ka.dbpedia.org/resource/\u10D4\u10D5\u10E0\u10DD\u10DE\u10D8\u10E1_\u10D0\u10E3\u10D3\u10D8\u10E2\u10DD\u10E0\u10D7\u10D0_\u10E1\u10D0\u10E1\u10D0\u10DB\u10D0\u10E0\u10D7\u10DA\u10DD> ,
+		<http://hu.dbpedia.org/resource/Eur\u00F3pai_Sz\u00E1mvev\u0151sz\u00E9k> ,
+		<http://no.dbpedia.org/resource/Revisjonsretten_(Den_europeiske_union)> ,
+		<http://tr.dbpedia.org/resource/Avrupa_Say\u0131\u015Ftay\u0131> .
+@prefix ns22:	<http://ia.dbpedia.org/resource/> .
+dbr:European_Court_of_Auditors	owl:sameAs	ns22:Tribunal_de_Contos_Europee ,
+		<http://lt.dbpedia.org/resource/Europos_Audito_R\u016Bmai> .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:European_Court_of_Auditors	owl:sameAs	yago-res:European_Court_of_Auditors ,
+		<http://d-nb.info/gnd/64867-X> .
+@prefix dbpedia-fi:	<http://fi.dbpedia.org/resource/> .
+dbr:European_Court_of_Auditors	owl:sameAs	dbpedia-fi:Euroopan_tilintarkastustuomioistuin ,
+		<http://el.dbpedia.org/resource/\u0395\u03C5\u03C1\u03C9\u03C0\u03B1\u03CA\u03BA\u03CC_\u0395\u03BB\u03B5\u03B3\u03BA\u03C4\u03B9\u03BA\u03CC_\u03A3\u03C5\u03BD\u03AD\u03B4\u03C1\u03B9\u03BF> .
+@prefix ns25:	<http://d-nb.info/gnd/2155569-2/about/> .
+dbr:European_Court_of_Auditors	owl:sameAs	ns25:rdf ,
+		<https://global.dbpedia.org/id/52oBk> ,
+		<http://sr.dbpedia.org/resource/\u0415\u0432\u0440\u043E\u043F\u0441\u043A\u0438_\u0444\u0438\u043D\u0430\u043D\u0441\u0438\u0458\u0441\u043A\u0438_\u0441\u0443\u0434> ,
+		<http://fa.dbpedia.org/resource/\u062F\u0627\u062F\u06AF\u0627\u0647_\u0627\u0631\u0648\u067E\u0627\u06CC\u06CC_\u062D\u0633\u0627\u0628\u0631\u0633\u0627\u0646> .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:European_Court_of_Auditors	owl:sameAs	dbpedia-it:Corte_dei_conti_europea ,
+		<http://d-nb.info/gnd/1090559542> .
+@prefix dbpedia-fy:	<http://fy.dbpedia.org/resource/> .
+dbr:European_Court_of_Auditors	owl:sameAs	dbpedia-fy:Jeropeeske_Rekkenkeamer .
+@prefix dbpedia-la:	<http://la.dbpedia.org/resource/> .
+dbr:European_Court_of_Auditors	owl:sameAs	dbpedia-la:Curia_rationum .
+@prefix ns29:	<http://data.europa.eu/euodp/jrc-names/> .
+dbr:European_Court_of_Auditors	owl:sameAs	ns29:Court_of_Auditors ,
+		dbr:European_Court_of_Auditors ,
+		<http://sk.dbpedia.org/resource/Eur\u00F3psky_dvor_aud\u00EDtorov> ,
+		<http://ja.dbpedia.org/resource/\u6B27\u5DDE\u4F1A\u8A08\u76E3\u67FB\u9662> ,
+		<http://fr.dbpedia.org/resource/Cour_des_comptes_europ\u00E9enne> ,
+		<http://ast.dbpedia.org/resource/Tribunal_de_Cuentes_Europ\u00E9u> ,
+		<http://ko.dbpedia.org/resource/\uC720\uB7FD_\uD68C\uACC4_\uAC10\uC0AC\uC6D0> ,
+		<http://az.dbpedia.org/resource/Avropa_Ali_Maliyy\u0259_M\u0259hk\u0259m\u0259si> ,
+		wikidata:Q8900 ,
+		<http://d-nb.info/gnd/16144554-8> .
+@prefix dbpedia-et:	<http://et.dbpedia.org/resource/> .
+dbr:European_Court_of_Auditors	owl:sameAs	dbpedia-et:Euroopa_Kontrollikoda ,
+		<http://cs.dbpedia.org/resource/Evropsk\u00FD_\u00FA\u010Detn\u00ED_dv\u016Fr> .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:European_Court_of_Auditors	owl:sameAs	dbpedia-nl:Europese_Rekenkamer ,
+		<http://ro.dbpedia.org/resource/Curtea_European\u0103_de_Conturi> ,
+		<http://oc.dbpedia.org/resource/Cort_dels_Comptes_Europ\u00E8a> ,
+		<http://d-nb.info/gnd/4331962-2> ,
+		<http://lv.dbpedia.org/resource/Eiropas_Rev\u012Bzijas_pal\u0101ta> ,
+		<http://de.dbpedia.org/resource/Europ\u00E4ischer_Rechnungshof> ,
+		<http://he.dbpedia.org/resource/\u05D1\u05D9\u05EA_\u05D4\u05DE\u05E9\u05E4\u05D8_\u05D4\u05D0\u05D9\u05E8\u05D5\u05E4\u05D9_\u05DC\u05D1\u05D9\u05E7\u05D5\u05E8\u05EA> .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:European_Court_of_Auditors	owl:sameAs	dbpedia-pt:Tribunal_de_Contas_Europeu ,
+		<http://uk.dbpedia.org/resource/\u0404\u0432\u0440\u043E\u043F\u0435\u0439\u0441\u044C\u043A\u0438\u0439_\u0441\u0443\u0434_\u0430\u0443\u0434\u0438\u0442\u043E\u0440\u0456\u0432> ,
+		<http://rdf.freebase.com/ns/m.01_w7s> ,
+		<http://zh.dbpedia.org/resource/\u6B27\u6D32\u5BA1\u8BA1\u9662> .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:European_Court_of_Auditors	owl:sameAs	dbpedia-es:Tribunal_de_Cuentas_Europeo .
+@prefix georss:	<http://www.georss.org/georss/> .
+dbr:European_Court_of_Auditors	georss:point	"49.62277777777778 6.146944444444444" ;
+	schema:sameAs	<http://viaf.org/viaf/137557626> ;
+	dbo:abstract	"La Cour des comptes europ\u00E9enne a \u00E9t\u00E9 institu\u00E9e par le trait\u00E9 de Bruxelles du 22 juillet 1975 et est entr\u00E9e en fonction le 18 octobre 1977. Elle a \u00E9t\u00E9 \u00E9lev\u00E9e au rang d'institution de l'Union europ\u00E9enne, le 1er novembre 1993, avec l'entr\u00E9e en vigueur du trait\u00E9 de Maastricht et son si\u00E8ge a \u00E9t\u00E9 \u00E9tabli \u00E0 Luxembourg."@fr ,
+		"La Corte dei conti europea \u00E8 l'istituzione dell'Unione europea preposta all'esame dei conti di tutte le entrate e le uscite dell'Unione e dei suoi vari organi, accertandone la sana gestione finanziaria."@it ,
+		"\u0404\u0432\u0440\u043E\u043F\u0435\u0439\u0441\u044C\u043A\u0438\u0439 \u0441\u0443\u0434 \u0430\u0443\u0434\u0438\u0442\u043E\u0440\u0456\u0432 (\u0420\u0430\u0445\u0443\u043D\u043A\u043E\u0432\u0430 \u043F\u0430\u043B\u0430\u0442\u0430) (\u0430\u043D\u0433\u043B. European Court of Auditors) \u2014 \u0437 1992 \u0440\u043E\u043A\u0443 (\u041C\u0430\u0430\u0441\u0442\u0440\u0438\u0445\u0442\u0441\u044C\u043A\u0438\u0439 \u0434\u043E\u0433\u043E\u0432\u0456\u0440) \u0456\u043D\u0441\u0442\u0438\u0442\u0443\u0446\u0456\u044F \u0404\u0432\u0440\u043E\u043F\u0435\u0439\u0441\u044C\u043A\u043E\u0433\u043E \u0421\u043E\u044E\u0437\u0443, \u0449\u043E \u043F\u0435\u0440\u0435\u0432\u0456\u0440\u044F\u0454 \u0437\u0430\u043A\u043E\u043D\u043D\u0456\u0441\u0442\u044C \u0456 \u043F\u0440\u0430\u0432\u0438\u043B\u044C\u043D\u0456\u0441\u0442\u044C \u043F\u0440\u0438\u0431\u0443\u0442\u043A\u0456\u0432 \u0456 \u0432\u0438\u0434\u0430\u0442\u043A\u0456\u0432 \u0404\u0432\u0440\u043E\u043F\u0435\u0439\u0441\u044C\u043A\u043E\u0433\u043E \u0421\u043E\u044E\u0437\u0443 \u0437\u0433\u0456\u0434\u043D\u043E \u0437 \u0431\u044E\u0434\u0436\u0435\u0442\u043E\u043C, \u0430 \u0442\u0430\u043A\u043E\u0436 \u043E\u0446\u0456\u043D\u044E\u0454 \u0443\u043F\u0440\u0430\u0432\u043B\u0456\u043D\u043D\u044F \u0444\u0456\u043D\u0430\u043D\u0441\u0430\u043C\u0438. \u0420\u0435\u0437\u0443\u043B\u044C\u0442\u0430\u0442\u043E\u043C \u0440\u0435\u0444\u043E\u0440\u043C \u0404\u0415\u0421 \u0432 1970-\u0445 \u0440\u043E\u043A\u0430\u0445 \u0441\u0442\u0430\u0432 \u0414\u043E\u0433\u043E\u0432\u0456\u0440 \u043F\u0440\u043E \u0440\u0435\u0444\u043E\u0440\u043C\u0443\u0432\u0430\u043D\u043D\u044F \u0431\u044E\u0434\u0436\u0435\u0442\u043D\u043E\u0433\u043E \u043F\u0440\u043E\u0446\u0435\u0441\u0443 1975\u0440. \u041F\u043E\u0447\u0438\u043D\u0430\u044E\u0447\u0438 \u0437 1977 \u0440\u043E\u043A\u0443 \u0432 \u041B\u044E\u043A\u0441\u0435\u043C\u0431\u0443\u0440\u0437\u0456 \u0440\u043E\u0437\u043F\u043E\u0447\u0430\u0432 \u0440\u043E\u0431\u043E\u0442\u0443 \u0421\u0443\u0434 \u0410\u0443\u0434\u0438\u0442\u043E\u0440\u0456\u0432, \u043F\u0435\u0440\u0441\u043E\u043D\u0430\u043B \u0441\u0442\u0430\u043D\u043E\u0432\u0438\u0442\u044C \u0431\u043B\u0438\u0437\u044C\u043A\u043E 550 \u043F\u0440\u0430\u0446\u0456\u0432\u043D\u0438\u043A\u0456\u0432."@uk ,
+		"\u0645\u062D\u0643\u0645\u0629 \u0627\u0644\u0645\u062F\u0642\u0642\u064A\u0646 \u0627\u0644\u0623\u0648\u0631\u0648\u0628\u064A\u0629 (\u0628\u0627\u0644\u0625\u0646\u062C\u0644\u064A\u0632\u064A\u0629: European Court of Auditors) \u0647\u064A \u0627\u0644\u0645\u0624\u0633\u0633\u0629 \u0627\u0644\u062E\u0627\u0645\u0633\u0629 \u0641\u064A \u0627\u0644\u0627\u062A\u062D\u0627\u062F \u0627\u0644\u0623\u0648\u0631\u0648\u0628\u064A \u062A\u0645 \u0627\u0644\u0627\u062A\u0641\u0627\u0642 \u0639\u0644\u0649 \u062A\u0623\u0633\u064A\u0633\u0647\u0627 \u0641\u064A \u0627\u0644\u0639\u0627\u0645 1975 \u0648\u062A\u0623\u0633\u0633\u062A \u0628\u0634\u0643\u0644 \u0631\u0633\u0645\u064A \u0641\u064A \u0639\u0627\u0645 1977 \u0641\u064A \u0644\u0648\u0643\u0633\u0645\u0628\u0648\u0631\u063A. \u0648\u0647\u064A \u062A\u0645\u062A\u0644\u0643 \u0635\u0644\u0627\u062D\u064A\u0627\u062A \u062A\u062F\u0642\u064A\u0642 \u0627\u0644\u0628\u064A\u0627\u0646\u0627\u062A \u0627\u0644\u0645\u0627\u0644\u064A\u0629 \u0644\u0644\u0627\u062A\u062D\u0627\u062F \u0627\u0644\u0623\u0648\u0631\u0648\u0628\u064A."@ar ,
+		"The European Court of Auditors (ECA) (French: Cour des comptes europ\u00E9enne) is one of the seven institutions of the European Union (EU). It was established in 1975 in Luxembourg in order to improve EU financial management."@en ,
+		"El Tribunal de Cuentas de la Uni\u00F3n o Tribunal de Cuentas (TCE) es una Instituci\u00F3n de la Uni\u00F3n Europea, con sede en Luxemburgo, encargada de la fiscalizaci\u00F3n y el control de las cuentas de la Uni\u00F3n Europea.\u200B La instituci\u00F3n elabora un informe anual para el Parlamento Europeo y el Consejo de la Uni\u00F3n, que el Parlamento examina antes de aprobar la gesti\u00F3n del presupuesto de la UE por parte de la Comisi\u00F3n Europea.\u200B La regulaci\u00F3n esencial del Tribunal de Cuentas Europeo se contiene en el Tratado de Funcionamiento de la Uni\u00F3n Europea (art\u00EDculos 285 a 287). As\u00ED mismo, el propio Tribunal de Cuentas elaborar\u00E1 su Reglamento Interno, que regulando los detalles de su propio funcionamiento, habr\u00E1 de recibir la aprobaci\u00F3n del Consejo.\u200B Se cre\u00F3 en 1975 por el Tratado de Bruselas y comenz\u00F3 su trabajo en 1977. El Tratado de la Uni\u00F3n Europea de 1992 lo elev\u00F3 al rango de instituci\u00F3n de pleno derecho.\u200B"@es ,
+		"Evropsk\u00FD \u00FA\u010Detn\u00ED dv\u016Fr je org\u00E1nem Evropsk\u00E9 unie, kter\u00FD byl zalo\u017Een\u00FD, aby prov\u00E1d\u011Bl kontrolu finan\u010Dn\u00EDch prost\u0159edk\u016F EU. Jako extern\u00ED auditor EU se pod\u00EDl\u00ED na zlep\u0161ov\u00E1n\u00ED finan\u010Dn\u00EDho \u0159\u00EDzen\u00ED EU a vystupuje jako nez\u00E1visl\u00FD str\u00E1\u017Ece finan\u010Dn\u00EDch z\u00E1jm\u016F ob\u010Dan\u016F Unie. Evropsk\u00FD \u00FA\u010Detn\u00ED dv\u016Fr vznikl 1977 na z\u00E1klad\u011B tzv. Smlouvy o zm\u011Bn\u011B ur\u010Dit\u00FDch finan\u010Dn\u00EDch p\u0159edpis\u016F (Bruselsk\u00E9 smlouvy), uzav\u0159en\u00E9 mezi st\u00E1ty Evropsk\u00FDch spole\u010Denstv\u00ED 22. \u010Dervence 1975. Evropsk\u00FD \u00FA\u010Detn\u00ED dv\u016Fr s\u00EDdl\u00ED v Lucemburku. Evropsk\u00FD \u00FA\u010Detn\u00ED dv\u016Fr jako nez\u00E1visl\u00FD org\u00E1n kontroluje \u00FA\u010Detnictv\u00ED v\u0161ech p\u0159\u00EDjm\u016F a v\u00FDdaj\u016F Unie a jej\u00EDch org\u00E1n\u016F. O t\u00E9to \u010Dinnosti ka\u017Edoro\u010Dn\u011B informuje ve v\u00FDro\u010Dn\u00ED zpr\u00E1v\u011B, kterou je povinen uve\u0159ejnit po ro\u010Dn\u00ED uz\u00E1v\u011Brce. Tato zpr\u00E1va je uve\u0159ejn\u011Bna v \u00DA\u0159edn\u00EDm v\u011Bstn\u00EDku EU a je podkladem pro kontroln\u00ED \u010Dinnost Evropsk\u00E9ho parlamentu. Velk\u00E1 pozornost je p\u0159isuzov\u00E1na rozpo\u010Dtov\u00E9mu hospoda\u0159en\u00ED a zejm\u00E9na ot\u00E1zce, zda jsou finan\u010Dn\u00ED prost\u0159edky EU vynakl\u00E1d\u00E1ny podle schv\u00E1len\u00FDch z\u00E1sad na ur\u010Den\u00E9 \u00FA\u010Dely. V p\u0159\u00EDpad\u011B nesrovnalost\u00ED v\u0161ak Evropsk\u00FD \u00FA\u010Detn\u00ED dv\u016Fr nem\u00E1 exekutivn\u00ED pravomoci. \u00DA\u010Detn\u00ED dv\u016Fr funguje jako kolektivn\u00ED org\u00E1n s 28 \u010Dleny. Ka\u017Ed\u00FD \u010Dlensk\u00FD st\u00E1t zastupuje jeden \u010Dlen, jmenovan\u00FD Radou Evropsk\u00E9 unie po konzultaci s Evropsk\u00FDm parlamentem na obnoviteln\u00E9 funk\u010Dn\u00ED obdob\u00ED \u0161esti let. \u010Clenov\u00E9 si ze sv\u00E9ho st\u0159edu vol\u00ED p\u0159edsedu na funk\u010Dn\u00ED obdob\u00ED t\u0159\u00ED let. Organiza\u010Dn\u011B se \u00DA\u010Detn\u00ED dv\u016Fr d\u011Bl\u00ED do p\u011Bti sen\u00E1t\u016F."@cs ,
+		"\u0415\u0432\u0440\u043E\u043F\u0435\u0439\u0441\u043A\u0430\u044F \u0441\u0447\u0451\u0442\u043D\u0430\u044F \u043F\u0430\u043B\u0430\u0442\u0430 \u2014 \u043E\u0434\u0438\u043D \u0438\u0437 \u0441\u0435\u043C\u0438 \u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\u043E\u0432, \u0443\u043F\u0440\u0430\u0432\u043B\u044F\u044E\u0449\u0438\u0445 \u0415\u0432\u0440\u043E\u043F\u0435\u0439\u0441\u043A\u0438\u043C \u0441\u043E\u044E\u0437\u043E\u043C. \u041F\u0430\u043B\u0430\u0442\u0430 \u0441\u043E\u0437\u0434\u0430\u043D\u0430 \u0432 1975 \u0433\u043E\u0434\u0443 \u0434\u043B\u044F \u0430\u0443\u0434\u0438\u0442\u043E\u0440\u0441\u043A\u043E\u0439 \u043F\u0440\u043E\u0432\u0435\u0440\u043A\u0438 \u0431\u044E\u0434\u0436\u0435\u0442\u0430 \u0441\u043E\u044E\u0437\u0430 \u0438 \u0435\u0433\u043E \u0443\u0447\u0440\u0435\u0436\u0434\u0435\u043D\u0438\u0439. \u0428\u0442\u0430\u0431-\u043A\u0432\u0430\u0440\u0442\u0438\u0440\u0430 \u0421\u0447\u0451\u0442\u043D\u043E\u0439 \u043F\u0430\u043B\u0430\u0442\u044B \u043D\u0430\u0445\u043E\u0434\u0438\u0442\u0441\u044F \u0432 \u041B\u044E\u043A\u0441\u0435\u043C\u0431\u0443\u0440\u0433\u0435."@ru ,
+		"O Tribunal de Contas Europeu (sigla: TCE) \u00E9 uma institui\u00E7\u00E3o da Uni\u00E3o Europeia, sendo constitu\u00EDda pelos Tribunais de Contas de cada Estado-membro, actualmente s\u00E3o 28 constituintes. Os membros, cujo mandato abrange um per\u00EDodo de seis anos (renov\u00E1veis) s\u00E3o nomeados pelo Conselho da Uni\u00E3o Europeia, por maioria qualificada e ap\u00F3s consulta ao Parlamento Europeu. O Tribunal de Contas Europeu exerce as suas fun\u00E7\u00F5es com total independ\u00EAncia. O Tribunal verifica a legalidade e regularidade das receitas e despesas da Uni\u00E3o Europeia, bem como a boa gest\u00E3o financeira. A sua sede \u00E9 no Luxemburgo. O Tribunal verifica se os fundos da UE, provenientes dos contribuintes, s\u00E3o cobrados de forma adequada e utilizados de acordo com a lei, de forma econ\u00F3mica e para o fim a que se destinam. A sua miss\u00E3o consiste em assegurar que os contribuintes retirem o maior benef\u00EDcio poss\u00EDvel do seu dinheiro e tem o direito de realizar auditorias junto de qualquer pessoa ou organiza\u00E7\u00E3o que se ocupe da gest\u00E3o dos fundos da UE. O Tribunal \u00E9 composto por um membro de cada pa\u00EDs da UE, nomeado pelo Conselho por um per\u00EDodo renov\u00E1vel de seis anos. Os membros designam entre si o Presidente, por um per\u00EDodo renov\u00E1vel de tr\u00EAs anos. , de nacionalidade portuguesa, foi eleito presidente em Janeiro de 2008."@pt ,
+		"\u03A4\u03BF \u0395\u03C5\u03C1\u03C9\u03C0\u03B1\u03CA\u03BA\u03CC \u0395\u03BB\u03B5\u03B3\u03BA\u03C4\u03B9\u03BA\u03CC \u03A3\u03C5\u03BD\u03AD\u03B4\u03C1\u03B9\u03BF (\u03B1\u03B3\u03B3\u03BB\u03B9\u03BA\u03AC: European Court of Auditors, \u03BB\u03B1\u03C4\u03B9\u03BD\u03B9\u03BA\u03AC: Curia Rationum) \u03B1\u03C0\u03BF\u03C4\u03B5\u03BB\u03B5\u03AF \u03AD\u03BD\u03B1 \u03B1\u03C0\u03CC \u03C4\u03B1 \u03BA\u03CD\u03C1\u03B9\u03B1 \u03CC\u03C1\u03B3\u03B1\u03BD\u03B1 \u03C4\u03B7\u03C2 \u0395\u03C5\u03C1\u03C9\u03C0\u03B1\u03CA\u03BA\u03AE\u03C2 \u0388\u03BD\u03C9\u03C3\u03B7\u03C2. \u0399\u03B4\u03C1\u03CD\u03B8\u03B7\u03BA\u03B5 \u03C4\u03BF 1975. \u0391\u03C0\u03BF\u03C3\u03C4\u03BF\u03BB\u03AE \u03C4\u03BF\u03C5 \u03B5\u03AF\u03BD\u03B1\u03B9 \u03BD\u03B1 \u03B5\u03BB\u03AD\u03B3\u03C7\u03B5\u03B9 \u03C4\u03B7 \u03C7\u03C1\u03B7\u03C3\u03C4\u03AE \u03B4\u03B9\u03B1\u03C7\u03B5\u03AF\u03C1\u03B9\u03C3\u03B7 \u03C4\u03C9\u03BD \u03C0\u03CC\u03C1\u03C9\u03BD \u03C4\u03B7\u03C2 \u0395\u0395, \u03AD\u03C4\u03C3\u03B9 \u03CE\u03C3\u03C4\u03B5 \u03C4\u03B1 \u03C7\u03C1\u03AE\u03BC\u03B1\u03C4\u03B1 \u03C4\u03C9\u03BD \u03C0\u03BF\u03BB\u03B9\u03C4\u03CE\u03BD \u03C4\u03B7\u03C2 \u03BD\u03B1 \u03C7\u03C1\u03B7\u03C3\u03B9\u03BC\u03BF\u03C0\u03BF\u03B9\u03BF\u03CD\u03BD\u03C4\u03B1\u03B9 \u03BC\u03B5 \u03C4\u03BF\u03BD \u03BA\u03B1\u03BB\u03CD\u03C4\u03B5\u03C1\u03BF \u03B4\u03C5\u03BD\u03B1\u03C4\u03CC \u03C4\u03C1\u03CC\u03C0\u03BF. \u0388\u03C7\u03B5\u03B9 \u03C4\u03BF \u03B4\u03B9\u03BA\u03B1\u03AF\u03C9\u03BC\u03B1 \u03BD\u03B1 \u03B5\u03BB\u03AD\u03B3\u03C7\u03B5\u03B9 \u03BA\u03AC\u03B8\u03B5 \u03C0\u03C1\u03CC\u03C3\u03C9\u03C0\u03BF \u03AE \u03BF\u03C1\u03B3\u03B1\u03BD\u03B9\u03C3\u03BC\u03CC \u03C0\u03BF\u03C5 \u03C7\u03B5\u03B9\u03C1\u03AF\u03B6\u03B5\u03C4\u03B1\u03B9 \u03C0\u03CC\u03C1\u03BF\u03C5\u03C2 \u03C4\u03B7\u03C2 \u0395\u0395. \u03A4\u03BF \u0395\u03BB\u03B5\u03B3\u03BA\u03C4\u03B9\u03BA\u03CC \u03A3\u03C5\u03BD\u03AD\u03B4\u03C1\u03B9\u03BF \u03B1\u03C0\u03BF\u03C4\u03B5\u03BB\u03B5\u03AF\u03C4\u03B1\u03B9 \u03B1\u03C0\u03CC \u03AD\u03BD\u03B1 \u03BC\u03AD\u03BB\u03BF\u03C2 \u03B1\u03C0\u03CC \u03BA\u03AC\u03B8\u03B5 \u03C7\u03CE\u03C1\u03B1 \u03C4\u03B7\u03C2 \u0395\u0395. \u03A4\u03B1 \u03BC\u03AD\u03BB\u03B7 \u03C4\u03BF\u03C5 \u03B4\u03B9\u03BF\u03C1\u03AF\u03B6\u03BF\u03BD\u03C4\u03B1\u03B9 \u03B1\u03C0\u03CC \u03C4\u03BF \u03A3\u03C5\u03BC\u03B2\u03BF\u03CD\u03BB\u03B9\u03BF \u03C4\u03B7\u03C2 \u0395\u03C5\u03C1\u03C9\u03C0\u03B1\u03CA\u03BA\u03AE\u03C2 \u0388\u03BD\u03C9\u03C3\u03B7\u03C2 \u03B3\u03B9\u03B1 \u03B8\u03B7\u03C4\u03B5\u03AF\u03B1 \u03AD\u03BE\u03B9 \u03B5\u03C4\u03CE\u03BD \u03C0\u03BF\u03C5 \u03BC\u03C0\u03BF\u03C1\u03B5\u03AF \u03BD\u03B1 \u03B1\u03BD\u03B1\u03BD\u03B5\u03C9\u03B8\u03B5\u03AF. \u03A4\u03B1 \u03BC\u03AD\u03BB\u03B7 \u03B5\u03BA\u03BB\u03AD\u03B3\u03BF\u03C5\u03BD \u03BC\u03B5\u03C4\u03B1\u03BE\u03CD \u03C4\u03BF\u03C5\u03C2 \u03C4\u03BF\u03BD \u03C0\u03C1\u03CC\u03B5\u03B4\u03C1\u03BF \u03B3\u03B9\u03B1 \u03C0\u03B5\u03C1\u03AF\u03BF\u03B4\u03BF \u03C4\u03C1\u03B9\u03CE\u03BD \u03B5\u03C4\u03CE\u03BD \u03C0\u03BF\u03C5 \u03BC\u03C0\u03BF\u03C1\u03B5\u03AF \u03BD\u03B1 \u03B1\u03BD\u03B1\u03BD\u03B5\u03C9\u03B8\u03B5\u03AF. \u03A4\u03C9\u03C1\u03B9\u03BD\u03CC\u03C2 \u03C0\u03C1\u03CC\u03B5\u03B4\u03C1\u03BF\u03C2 \u03B5\u03AF\u03BD\u03B1\u03B9 \u03BF \u0392\u03B9\u03C4\u03CC\u03C1 \u039C\u03B1\u03BD\u03BF\u03C5\u03AD\u03BB \u03BD\u03C4\u03B1 \u03A3\u03AF\u03BB\u03B2\u03B1 \u039A\u03B1\u03BB\u03BD\u03C4\u03AD\u03B9\u03C1\u03B1 (V\u00EDtor Manuel da Silva Caldeira), \u03BA\u03B1\u03C4\u03B1\u03B3\u03CC\u03BC\u03B5\u03BD\u03BF\u03C2 \u03B1\u03C0\u03CC \u03C4\u03B7\u03BD \u03A0\u03BF\u03C1\u03C4\u03BF\u03B3\u03B1\u03BB\u03AF\u03B1, \u03C0\u03BF\u03C5 \u03B1\u03BD\u03AE\u03BB\u03B8\u03B5 \u03C3\u03C4\u03BF \u03B1\u03BE\u03AF\u03C9\u03BC\u03B1 \u03B1\u03C5\u03C4\u03CC \u03C4\u03BF 2007."@el ,
+		"Der Europ\u00E4ische Rechnungshof (kurz EuRH) geh\u00F6rt zu den Organen der Europ\u00E4ischen Union. Er wurde 1975 durch den Vertrag zur \u00C4nderung bestimmter Finanzvorschriften errichtet, nahm 1977 als unabh\u00E4ngiges Kontrollorgan seine Arbeit auf und wurde mit dem 1992 geschlossenen Vertrag von Maastricht 1993 den anderen Organen gleichgestellt. Durch die Vertr\u00E4ge von Amsterdam und Nizza wurden seine Kompetenzen weiter ausgebaut. Auf Grundlage der Art. 285 bis 287 AEU-Vertrag pr\u00FCft der EuRH fortlaufend die Rechtm\u00E4\u00DFigkeit und ordnungsgem\u00E4\u00DFe Verwendung aller Einnahmen und Ausgaben der Europ\u00E4ischen Union. Sitz des Rechnungshofes ist Luxemburg."@de ,
+		"Mahkamah Audit Eropa (Inggris: European Court of Auditors) adalah salah satu institusi Uni Eropa yang didirikan pada 1975 di Luksemburg."@in ,
+		"Europeiska revisionsr\u00E4tten, formellt Europeiska unionens revisionsr\u00E4tt, \u00E4r en av Europeiska unionens institutioner. Den best\u00E5r av en revisor fr\u00E5n varje medlemsstat. Dess syfte \u00E4r att bidra till att f\u00F6rb\u00E4ttra den ekonomiska f\u00F6rvaltningen av unionens medel och d\u00E4rmed se till att unionsmedborgarna f\u00E5r st\u00F6rsta m\u00F6jliga nytta av skattemedlen. Revisionsr\u00E4tten ansvarar f\u00F6r att oberoende revidera unionens r\u00E4kenskaper genom att granska alla inkomster och utgifter, och bed\u00F6ma huruvida unionens institutioner, organ och byr\u00E5er har fullgjort sina uppgifter p\u00E5 ett korrekt s\u00E4tt. Resultaten fr\u00E5n granskningarna sammanfattar revisionsr\u00E4tten i sina \u00E5rliga rapporter, som \u00F6verl\u00E4mnas till \u00F6vriga institutioner. Rapporterna ligger till grund f\u00F6r Europaparlamentets beviljande av ansvarsfrihet f\u00F6r Europeiska kommissionen. Parlamentet har vid tv\u00E5 tillf\u00E4llen, 1984 och 1998, nekat kommissionen ansvarsfrihet; i det senare fallet ledde det till kommissionen Santers avg\u00E5ng. Revisionsr\u00E4tten leds av en ordf\u00F6rande, som sedan den 1 oktober 2016 \u00E4r . Revisionsr\u00E4tten har sitt s\u00E4te i Luxemburg."@sv ,
+		"El Tribunal de Comptes Europeu \u00E9s una instituci\u00F3 que comprova la legalitat i regularitat dels ingressos i despeses de la Uni\u00F3 Europea (UE), aix\u00ED com la seva bona gesti\u00F3 financera. T\u00E9 la seva seu central a la ciutat de Luxemburg."@ca ,
+		"La E\u016Dropa Revizora Kortumo estas la institucio kiu kontrolas la kontojn de la E\u016Dropa Unio. \u011Ci ekzamenas la kontojn de \u0109iuj enspezoj kaj elspezoj de la Unio, kaj kontrolas \u0109u la financa mastrumado estis efika kaj bonrezulta. La Revizora Kortumo publikigas la rezultojn de siaj laboroj forme de jarraporto, kiu temas praktike pri \u0109iuj politikterenoj de EU, de specialaj raportoj pri apartaj temoj, kaj de opinioj. La Revizora Kortumo konsistas el po unu civitano de \u0109iu membro\u015Dtato. \u011Ciaj membroj plenumas siajn taskojn plene sendepende, en la \u011Denerala intereso de la Unio. La Revizora Kortumo havas sian sidejon en la urbo Luksemburgo."@eo ,
+		"\u6B27\u5DDE\u4F1A\u8A08\u76E3\u67FB\u9662\uFF08\u304A\u3046\u3057\u3085\u3046\u304B\u3044\u3051\u3044\u304B\u3093\u3055\u3044\u3093\uFF09\u306F\u30011975\u5E74\u306B\u8ABF\u5370\u3055\u308C\u305F\u4E88\u7B97\u5236\u5EA6\u306E\u5909\u66F4\u306B\u95A2\u3059\u308B\u6761\u7D04\u306B\u3088\u3063\u3066\u8A2D\u7ACB\u304C\u6C7A\u5B9A\u3055\u308C\u30011977\u5E74\u306B\u72EC\u7ACB\u3057\u305F\u6A29\u9650\u3092\u4E0E\u3048\u3089\u308C\u3066\u767A\u8DB3\u3057\u305F\u6B27\u5DDE\u9023\u5408(EU)\u306E\u76E3\u67FB\u6A5F\u95A2\u3067\u3042\u308B\u30021993\u5E74\u767A\u52B9\u306E\u30DE\u30FC\u30B9\u30C8\u30EA\u30D2\u30C8\u6761\u7D04\u306B\u3088\u308A\u3001EU\u306E\u4ED6\u306E\u6A5F\u95A2\u3068\u540C\u7B49\u306E\u5730\u4F4D\u304C\u4E0E\u3048\u3089\u308C\u3066\u304A\u308A\u3001\u305D\u306E\u5F8C\u306E\u30A2\u30E0\u30B9\u30C6\u30EB\u30C0\u30E0\u6761\u7D04\u3084\u30CB\u30FC\u30B9\u6761\u7D04\u3067\u6A29\u9650\u304C\u62E1\u5F35\u3055\u308C\u3066\u3044\u308B\u3002\u6B27\u5DDE\u4F1A\u8A08\u76E3\u67FB\u9662\u306E\u6839\u62E0\u306F\u30ED\u30FC\u30DE\u6761\u7D04\u7B2C246\u6761\u304B\u3089\u7B2C248\u6761\u306B\u5B9A\u3081\u3089\u308C\u3001EU\u5185\u306B\u304A\u3044\u3066\u8AF8\u6A5F\u95A2\u304C\u9069\u6CD5\u304B\u3064\u516C\u6B63\u306B\u6B73\u5165\u30FB\u6B73\u51FA\u3092\u5B9F\u65BD\u3057\u3066\u3044\u308B\u304B\u78BA\u8A8D\u3059\u308B\u3053\u3068\u304C\u4F7F\u547D\u3068\u306A\u3063\u3066\u3044\u308B\u3002\u306A\u304A\u6B27\u5DDE\u4F1A\u8A08\u76E3\u67FB\u9662\u306F\u30EB\u30AF\u30BB\u30F3\u30D6\u30EB\u30AF\u5E02\u306B\u7F6E\u304B\u308C\u3066\u3044\u308B\u3002"@ja ,
+		"De Europese Rekenkamer werd in 1977 ingesteld om de begroting van de Europese Gemeenschap te controleren, de voorloper van de huidige Europese Unie. De Rekenkamer controleert jaarlijks in hoeverre de rekeningen van de Europese instellingen betrouwbaar zijn en of hun financi\u00EBle verrichtingen voldoen aan de geldende wet- en regelgeving. Daartoe neemt zij in haar jaarverslag een betrouwbaarheidsverklaring op, een van de instrumenten waarmee zij het Europees Parlement en de Europese Raad in staat stelt te beoordelen hoe de begroting van de Unie wordt beheerd. Naast dit accountant-achtige werk geeft de Rekenkamer ook op eigen initiatief een oordeel over de doelmatigheid van projecten die met Europese middelen worden gefinancierd. Volgend op het Verdrag van Amsterdam zijn in 1999 de controle- en onderzoeksbevoegdheden uitgebreid, zodat effici\u00EBnter kan worden opgetreden tegen fraude ten koste van de communautaire begroting."@nl ,
+		"\u6B27\u6D32\u5BA1\u8BA1\u9662\u4E3A\u6B27\u6D32\u8054\u76DF\u4E3B\u8981\u4E0B\u8BBE\u673A\u6784\u4E4B\u4E00\u3002\u5176\u4E3B\u8981\u804C\u8D23\u662F\u5BA1\u8BA1\u6B27\u76DF\u53CA\u5176\u6240\u5C5E\u673A\u6784\u7684\u8D26\u52A1\u4EE5\u53CA\u8D22\u653F\u6536\u652F\u3002\u53E6\u5916\uFF0C\u6B27\u6D32\u5BA1\u8BA1\u9662\u8FD8\u53EF\u4EE5\u5BF9\u63A5\u53D7\u6B27\u76DF\u63F4\u52A9\u7684\u975E\u6210\u5458\u56FD\u8FDB\u884C\u5BA1\u8BA1\u3002\u6B27\u6D32\u5BA1\u8BA1\u9662\u6210\u7ACB\u4E8E1975\u5E74\uFF0C\u603B\u90E8\u8BBE\u5728\u5362\u68EE\u5821\u3002\u6B27\u6D32\u5BA1\u8BA1\u9662\u6210\u5458\u9700\u7531\u6B27\u6D32\u8BAE\u4F1A\u534F\u5546\u901A\u8FC7\u5E76\u7531\u6B27\u76DF\u7406\u4E8B\u4F1A\u4EFB\u547D\uFF0C\u5176\u4EFB\u671F\u4E3A\u516D\u5E74\u3002\u6B27\u76DF\u5BA1\u8BA1\u9662\u8BBE\u4E3B\u5E2D\u4E00\u804C\uFF0C\u4EFB\u671F\u4E3A\u4E09\u5E74\uFF0C\u7531\u9009\u4E3E\u4EA7\u751F\uFF0C\u5141\u8BB8\u8FDE\u4EFB\u3002"@zh ,
+		"Trybuna\u0142 Obrachunkowy (fr. Cour des Comptes, ang. Court of Auditors), zwany te\u017C Europejskim Trybuna\u0142em Obrachunkowym (ETO), Trybuna\u0142em Rewizyjnym, Trybuna\u0142em Audytor\u00F3w lub Trybuna\u0142em Rewident\u00F3w Ksi\u0119gowych \u2013 instytucja Unii Europejskiej kontroluj\u0105ca wykonanie bud\u017Cetu oraz wp\u0142ywy i wydatki Wsp\u00F3lnot Europejskich. Dzia\u0142a od 18 pa\u017Adziernika 1977. Powo\u0142any zosta\u0142 na mocy tzw. II traktatu bud\u017Cetowego z 22 lipca 1975 (w\u00F3wczas jako organ wsp\u00F3lnotowy, jako instytucja funkcjonuje od Traktatu z Maastricht). Siedzib\u0105 Trybuna\u0142u jest Luksemburg."@pl ,
+		"\uC720\uB7FD \uD68C\uACC4 \uAC10\uC0AC\uC6D0(-\u6703\u8A08\u76E3\u67E5\u54E1, European Court of Auditors)\uB294 \uC720\uB7FD \uC5F0\uD569\uC758 \uAE30\uAD6C \uC911 \uD558\uB098\uC774\uB2E4. \uB8E9\uC148\uBD80\uB974\uD06C\uC5D0 \uBCF8\uBD80\uAC00 \uC704\uCE58\uD558\uACE0 \uC788\uB2E4."@ko ,
+		"Europako Kontu Auzitegia Europar Batasunak eskuragarri duen aurrekontua, finantza-kudeaketa egokiaren ikuspuntutik, legezkotasunez erabiltzen dela egiaztatzea helburu duen erakundea da. Erakunde horren eskumena, Batasuneko erakundeetara ez ezik, Europar Batasuneko finantza-baliabideak kudeatzen dituzten estatu, eskualde edo erakundeetara ere iristen da. Auzitegiak akatsak edo irregulartasunak antzematen baditu, edo iruzurra egin delako susmorik badu, erakunde edo organo interesdunari jakinarazten dio, behar bezalako neurriak har ditzan. Era berean, auzitegiak arazo horiek sortu ahal dituzten sistemen eta prozeduren alderdi ahulak nabarmentzen ditu, zergadunen dirua hobeto kudeatu ahal izateko. Europako Kontu Auzitegia erabat burujabea da, hamabost kidek osatzen dute, eta Estatu kideek sei urterako izendatzen dituzte."@eu .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:European_Court_of_Auditors	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/European_Court_of_Auditors?oldid=982155182&ns=0> .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:European_Court_of_Auditors	dbp:sealCaption	"Official emblem"@en ;
+	dbo:location	dbr:Luxembourg_City ;
+	dbp:type	"Institutional"@en ;
+	dbp:agencyName	"Court of Auditors"@en ;
+	dbp:website	<http://eca.europa.eu/> ;
+	dbp:chief1Name	dbr:Klaus-Heiner_Lehne ;
+	dbo:leader	dbr:Klaus-Heiner_Lehne ;
+	dbp:seal	"Emblem of the Court of Auditors.svg"@en ;
+	dbo:wikiPageExternalLink	<http://archives.eui.eu/en/fonds/> ,
+		<http://www.cvce.eu/obj/european_court_of_auditors-en-03726b57-8e08-4c93-af15-bf8721590763.html> ,
+		<https://eur-lex.europa.eu/browse/institutions/auditors.html> ,
+		<http://eca.europa.eu/> ,
+		<http://www.eui.eu/Research/HistoricalArchivesOfEU/AbouttheHistoricalArchives/Index.aspx> ;
+	dbp:headquarters	"Luxembourg City, Luxembourg"@en ;
+	dbp:jurisdiction	dbr:European_Union ;
+	dbo:headquarter	dbr:Luxembourg_City ;
+	dbo:jurisdiction	dbr:European_Union ;
+	dbp:formed	1977 ;
+	dbo:wikiPageID	364896 ;
+	dbo:wikiPageRevisionID	982155182 ;
+	dbo:wikiPageWikiLink	dbr:Consensus_decision-making ,
+		dbr:Sweden ,
+		dbr:Income ,
+		dbr:Government_of_the_United_Kingdom ,
+		<http://dbpedia.org/resource/Supreme_Audit_Office_(Poland)> ,
+		dbr:European_Economic_Community ,
+		dbr:Italy ,
+		dbr:Regions_of_England ,
+		dbr:Treaties_of_the_European_Union ,
+		dbr:Council_of_the_European_Union ,
+		dbr:Hubert_Weber ,
+		dbr:EUR-Lex ,
+		<http://dbpedia.org/resource/Court_of_Audit_(France)> ,
+		dbr:Ad_interim ,
+		dbr:United_Kingdom ,
+		dbc:Government_audit ,
+		dbr:Secretary-General_of_the_European_Court_of_Auditors ,
+		dbr:European_Atomic_Energy_Community ,
+		<http://dbpedia.org/resource/Court_of_Auditors_(Spain)> ,
+		dbr:Marta_Andreasen ,
+		dbr:Court_of_Audit_of_Belgium ,
+		dbr:European_Union ,
+		dbr:Ireland ,
+		dbr:Fraud ,
+		dbr:Spain ,
+		dbr:European_Civil_Service ,
+		dbr:France ,
+		dbr:Austria ,
+		dbr:Santer_Commission ,
+		dbr:Expense ,
+		dbr:Treaty_of_Amsterdam ,
+		dbr:Netherlands ,
+		<http://dbpedia.org/resource/National_Audit_Office_(United_Kingdom)> ,
+		<http://dbpedia.org/resource/Court_of_Audit_(Greece)> ,
+		<http://dbpedia.org/resource/Secretary_(title)> ,
+		dbr:Terry_Wynn ,
+		dbr:European_Commission ,
+		dbr:Bundesrechnungshof ,
+		dbr:Maastricht_Treaty ,
+		dbr:Luxembourg ,
+		dbr:European_Coal_and_Steel_Community ,
+		<http://dbpedia.org/resource/Comptroller_and_Auditor_General_(United_Kingdom)> ,
+		dbr:European_Parliament_Committee_on_Budgetary_Control ,
+		dbr:EU_Concours ,
+		dbr:Three_pillars_of_the_European_Union ,
+		dbr:Barroso_Commission ,
+		dbr:Government_Accountability_Office ,
+		dbr:Klaus-Heiner_Lehne ,
+		dbr:Australian_National_Audit_Office ,
+		dbr:Institutions_of_the_European_Union ,
+		dbr:Portugal ,
+		dbr:European_Communities ,
+		dbr:Luxembourg_City ,
+		<http://dbpedia.org/resource/Jan_O._Karlsson> ,
+		dbr:European_Court_of_Justice ,
+		dbr:Budget_of_the_European_Union ,
+		dbr:European_Parliament ,
+		dbr:Germany ,
+		dbr:Rigsrevisionen ,
+		dbr:Swedish_National_Audit_Office ,
+		dbr:Treaty_of_Lisbon ,
+		<http://dbpedia.org/resource/National_Audit_Office_(China)> ,
+		<http://dbpedia.org/resource/Court_of_Audit_(Netherlands)> ,
+		dbr:Official_Journal_of_the_European_Union ,
+		dbr:European_Anti-Fraud_Office ,
+		dbc:European_Court_of_Auditors ,
+		dbr:Translation ,
+		dbr:Treaty_establishing_a_Constitution_for_Europe ,
+		dbr:Member_of_the_European_Parliament ,
+		dbc:European_Union_law ,
+		<http://dbpedia.org/resource/File:Europ\u00E4ischer_Rechnungshof.jpg> .
+@prefix dbt:	<http://dbpedia.org/resource/Template:> .
+dbr:European_Court_of_Auditors	dbp:wikiPageUsesTemplate	dbt:Infobox_government_agency ,
+		dbt:Portal_bar ,
+		dbt:Politics_of_the_European_Union ,
+		dbt:Columns-list ,
+		dbt:European_Union_topics ,
+		dbt:Coord ,
+		dbt:Reflist ,
+		dbt:Use_dmy_dates ,
+		dbt:Main ,
+		dbt:Citation_needed ;
+	dbo:wikiPageLength	"19943"^^xsd:nonNegativeInteger ;
+	dbo:formationYear	"1977"^^xsd:gYear .
+<http://dbpedia.org/resource/1950_in_Ireland>	dbo:wikiPageWikiLink	dbr:European_Court_of_Auditors .
+dbr:European_Union_law	dbo:wikiPageWikiLink	dbr:European_Court_of_Auditors .
+dbr:Marianne_Peretti	dbo:wikiPageWikiLink	dbr:European_Court_of_Auditors .
+dbr:Foreign_relations_of_Luxembourg	dbo:wikiPageWikiLink	dbr:European_Court_of_Auditors .
+dbr:Corruption_scandals_in_the_Paris_region	dbo:wikiPageWikiLink	dbr:European_Court_of_Auditors .
+dbr:Marcel_Mart	dbo:wikiPageWikiLink	dbr:European_Court_of_Auditors .
+dbr:Treaty_on_European_Union	dbo:wikiPageWikiLink	dbr:European_Court_of_Auditors .
+dbr:Santer_Commission	dbo:wikiPageWikiLink	dbr:European_Court_of_Auditors .
+dbr:List_of_bodies_of_the_European_Union	dbo:wikiPageWikiLink	dbr:European_Court_of_Auditors .
+dbr:Institutions_of_the_European_Union	dbo:wikiPageWikiLink	dbr:European_Court_of_Auditors .
+dbr:Hannu_Takkula	dbo:wikiPageWikiLink	dbr:European_Court_of_Auditors .
+dbr:Preslav_Borissov	dbo:wikiPageWikiLink	dbr:European_Court_of_Auditors .
+dbr:Barry_Desmond	dbo:wikiPageWikiLink	dbr:European_Court_of_Auditors .
+<http://dbpedia.org/resource/V\u00EDtor_Manuel_da_Silva_Caldeira>	dbo:wikiPageWikiLink	dbr:European_Court_of_Auditors .
+<http://dbpedia.org/resource/Richie_Ryan_(politician)>	dbo:wikiPageWikiLink	dbr:European_Court_of_Auditors .
+dbr:Terminology_Coordination_Unit_of_the_European_Parliament	dbo:wikiPageWikiLink	dbr:European_Court_of_Auditors .
+dbr:Kersti_Kaljulaid	dbo:wikiPageWikiLink	dbr:European_Court_of_Auditors .
+dbr:Vice-President_of_the_European_Parliament	dbo:wikiPageWikiLink	dbr:European_Court_of_Auditors .
+<http://dbpedia.org/resource/National_Audit_Office_(United_Kingdom)>	dbo:wikiPageWikiLink	dbr:European_Court_of_Auditors .
+<http://dbpedia.org/resource/1977_in_Luxembourg>	dbo:wikiPageWikiLink	dbr:European_Court_of_Auditors .
+dbr:List_of_international_organization_leaders_in_2011	dbo:wikiPageWikiLink	dbr:European_Court_of_Auditors .
+dbr:Outline_of_the_European_Union	dbo:wikiPageWikiLink	dbr:European_Court_of_Auditors .
+dbr:Kristalina_Georgieva	dbo:wikiPageWikiLink	dbr:European_Court_of_Auditors .
+dbr:Louis_Galea	dbo:wikiPageWikiLink	dbr:European_Court_of_Auditors .
+dbr:Michael_Frendo	dbo:wikiPageWikiLink	dbr:European_Court_of_Auditors .
+dbr:Toni_Abela	dbo:wikiPageWikiLink	dbr:European_Court_of_Auditors .
+dbr:Maarten_Engwirda	dbp:office	dbr:European_Court_of_Auditors ;
+	dbo:wikiPageWikiLink	dbr:European_Court_of_Auditors .
+dbr:Control_Yuan	dbo:wikiPageWikiLink	dbr:European_Court_of_Auditors .
+dbr:ECA	dbo:wikiPageWikiLink	dbr:European_Court_of_Auditors ;
+	dbo:wikiPageDisambiguates	dbr:European_Court_of_Auditors .
+dbr:European_Economic_Community	dbo:wikiPageWikiLink	dbr:European_Court_of_Auditors .
+dbr:European_Parliament	dbo:wikiPageWikiLink	dbr:European_Court_of_Auditors .
+dbr:Budget_of_the_European_Union	dbo:wikiPageWikiLink	dbr:European_Court_of_Auditors .
+dbr:Sint-Hubertuscollege	dbo:wikiPageWikiLink	dbr:European_Court_of_Auditors .
+dbr:List_of_international_organization_leaders_in_2006	dbo:wikiPageWikiLink	dbr:European_Court_of_Auditors .
+dbr:Government_of_the_Republic_of_China	dbo:wikiPageWikiLink	dbr:European_Court_of_Auditors .
+dbr:Jens_Geier	dbo:wikiPageWikiLink	dbr:European_Court_of_Auditors .
+<http://dbpedia.org/resource/1984_in_Luxembourg>	dbo:wikiPageWikiLink	dbr:European_Court_of_Auditors .
+dbr:Deaths_in_November_2019	dbo:wikiPageWikiLink	dbr:European_Court_of_Auditors .
+dbr:Jean_Monnet_2_building	dbo:wikiPageWikiLink	dbr:European_Court_of_Auditors .
+dbr:Structure_of_the_Common_Security_and_Defence_Policy	dbo:wikiPageWikiLink	dbr:European_Court_of_Auditors .
+dbr:Executive_Vice_President_of_the_European_Commission_for_An_Economy_that_Works_for_People	dbo:wikiPageWikiLink	dbr:European_Court_of_Auditors .
+<http://dbpedia.org/resource/European_Commissioner_for_Financial_Stability,_Financial_Services_and_the_Capital_Markets_Union>	dbo:wikiPageWikiLink	dbr:European_Court_of_Auditors .
+dbr:European_Green_Deal	dbo:wikiPageWikiLink	dbr:European_Court_of_Auditors .
+<http://dbpedia.org/resource/Energy_efficiency_in_Europe_(study)>	dbo:wikiPageWikiLink	dbr:European_Court_of_Auditors .
+dbr:Single_European_Sky	dbo:wikiPageWikiLink	dbr:European_Court_of_Auditors .
+dbr:European_Court	dbo:wikiPageWikiLink	dbr:European_Court_of_Auditors ;
+	dbo:wikiPageDisambiguates	dbr:European_Court_of_Auditors .
+dbr:Budget_accountability_in_the_European_Union	dbo:wikiPageWikiLink	dbr:European_Court_of_Auditors .
+dbr:Hubert_Weber	dbo:wikiPageWikiLink	dbr:European_Court_of_Auditors .
+dbr:Member_state_of_the_European_Union	dbo:wikiPageWikiLink	dbr:European_Court_of_Auditors .
+dbr:List_of_international_organization_leaders_in_2008	dbo:wikiPageWikiLink	dbr:European_Court_of_Auditors .
+dbr:List_of_international_organization_leaders_in_2010	dbo:wikiPageWikiLink	dbr:European_Court_of_Auditors .
+<http://dbpedia.org/resource/1999_in_the_European_Union>	dbo:wikiPageWikiLink	dbr:European_Court_of_Auditors .
+dbr:List_of_international_organization_leaders_in_2012	dbo:wikiPageWikiLink	dbr:European_Court_of_Auditors .
+<http://dbpedia.org/resource/Court_of_Audit_(France)>	dbo:wikiPageWikiLink	dbr:European_Court_of_Auditors .
+dbr:European_Commission	dbo:wikiPageWikiLink	dbr:European_Court_of_Auditors .
+dbr:European_Public_Prosecutor	dbo:wikiPageWikiLink	dbr:European_Court_of_Auditors .
+dbr:Secretary-General_of_the_European_Court_of_Auditors	dbo:wikiPageWikiLink	dbr:European_Court_of_Auditors .
+dbr:List_of_international_organization_leaders_in_2007	dbo:wikiPageWikiLink	dbr:European_Court_of_Auditors .
+dbr:List_of_international_organization_leaders_in_2009	dbo:wikiPageWikiLink	dbr:European_Court_of_Auditors .
+dbr:List_of_international_organization_leaders_in_2013	dbo:wikiPageWikiLink	dbr:European_Court_of_Auditors .
+dbr:List_of_international_organization_leaders_in_2014	dbo:wikiPageWikiLink	dbr:European_Court_of_Auditors .
+dbr:List_of_international_organization_leaders_in_2015	dbo:wikiPageWikiLink	dbr:European_Court_of_Auditors .
+dbr:List_of_international_organization_leaders_in_2016	dbo:wikiPageWikiLink	dbr:European_Court_of_Auditors .
+dbr:List_of_international_organization_leaders_in_2017	dbo:wikiPageWikiLink	dbr:European_Court_of_Auditors .
+dbr:European_Anti-Fraud_Office	dbo:wikiPageWikiLink	dbr:European_Court_of_Auditors .
+<http://dbpedia.org/resource/Olavi_Ala-Nissil\u00E4>	dbo:wikiPageWikiLink	dbr:European_Court_of_Auditors .
+dbr:Leo_Brincat	dbo:wikiPageWikiLink	dbr:European_Court_of_Auditors .
+dbr:Phil_Wynn_Owen	dbo:wikiPageWikiLink	dbr:European_Court_of_Auditors .
+<http://dbpedia.org/resource/Pat_Barker_(academic)>	dbo:wikiPageWikiLink	dbr:European_Court_of_Auditors .
+<http://dbpedia.org/resource/Jo\u00EBlle_Elvinger>	dbo:wikiPageWikiLink	dbr:European_Court_of_Auditors .
+dbr:Court_of_Auditors	dbo:wikiPageRedirects	dbr:European_Court_of_Auditors ;
+	dbo:wikiPageWikiLink	dbr:European_Court_of_Auditors .
+dbr:European_court_of_auditors	dbo:wikiPageRedirects	dbr:European_Court_of_Auditors ;
+	dbo:wikiPageWikiLink	dbr:European_Court_of_Auditors .
+dbr:Luxembourg	dbo:wikiPageWikiLink	dbr:European_Court_of_Auditors .
+dbr:Separation_of_powers	dbo:wikiPageWikiLink	dbr:European_Court_of_Auditors .
+dbr:Sofia	dbo:wikiPageWikiLink	dbr:European_Court_of_Auditors .
+dbr:Janusz_Wojciechowski	dbo:wikiPageWikiLink	dbr:European_Court_of_Auditors .
+dbr:List_of_Cork_people	dbo:wikiPageWikiLink	dbr:European_Court_of_Auditors .
+dbr:Government_Accountability_Office	dbo:wikiPageWikiLink	dbr:European_Court_of_Auditors .
+dbr:International_Organization_of_Supreme_Audit_Institutions	dbo:wikiPageWikiLink	dbr:European_Court_of_Auditors .
+dbr:Gijs_de_Vries	dbp:office	dbr:European_Court_of_Auditors ;
+	dbo:wikiPageWikiLink	dbr:European_Court_of_Auditors .
+dbr:Leader_of_the_Democrats_66	dbo:wikiPageWikiLink	dbr:European_Court_of_Auditors .
+dbr:EU_FLEGT_Action_Plan	dbo:wikiPageWikiLink	dbr:European_Court_of_Auditors .
+<http://dbpedia.org/resource/Secretary_(title)>	dbo:wikiPageWikiLink	dbr:European_Court_of_Auditors .
+<http://dbpedia.org/resource/1993_New_Year_Honours>	dbo:wikiPageWikiLink	dbr:European_Court_of_Auditors .
+dbr:European_Aviation_Safety_Agency	dbo:wikiPageWikiLink	dbr:European_Court_of_Auditors .
+<http://dbpedia.org/resource/Ildik\u00F3_Pelczn\u00E9_G\u00E1ll>	dbo:wikiPageWikiLink	dbr:European_Court_of_Auditors .
+dbr:Nessa_Childers	dbo:wikiPageWikiLink	dbr:European_Court_of_Auditors .
+<http://dbpedia.org/resource/M\u00E1ire_Geoghegan-Quinn>	dbo:wikiPageWikiLink	dbr:European_Court_of_Auditors .
+dbr:David_Bostock	dbo:wikiPageWikiLink	dbr:European_Court_of_Auditors .
+dbr:Interactive_Terminology_for_Europe	dbo:wikiPageWikiLink	dbr:European_Court_of_Auditors .
+dbr:European_Personnel_Selection_Office	dbo:wikiPageWikiLink	dbr:European_Court_of_Auditors .
+dbr:Europolitics	dbo:wikiPageWikiLink	dbr:European_Court_of_Auditors .
+dbr:Lars_Heikensten	dbo:wikiPageWikiLink	dbr:European_Court_of_Auditors .
+dbr:Marta_Andreasen	dbo:wikiPageWikiLink	dbr:European_Court_of_Auditors .
+dbr:Elsi_Katainen	dbo:wikiPageWikiLink	dbr:European_Court_of_Auditors .
+dbr:Psyttaleia	dbo:wikiPageWikiLink	dbr:European_Court_of_Auditors .
+dbr:Budgetary_treaties_of_the_European_Communities	dbo:wikiPageWikiLink	dbr:European_Court_of_Auditors .
+dbr:Luxembourg_City	dbo:wikiPageWikiLink	dbr:European_Court_of_Auditors .
+dbr:Treaties_of_the_European_Union	dbo:wikiPageWikiLink	dbr:European_Court_of_Auditors .
+dbr:Institutional_seats_of_the_European_Union	dbo:wikiPageWikiLink	dbr:European_Court_of_Auditors .
+dbr:Klaus-Heiner_Lehne	dbo:wikiPageWikiLink	dbr:European_Court_of_Auditors .
+dbr:Ninth_European_Parliament	dbo:wikiPageWikiLink	dbr:European_Court_of_Auditors .
+<http://dbpedia.org/resource/Galileo_(satellite_navigation)>	dbo:wikiPageWikiLink	dbr:European_Court_of_Auditors .
+<http://dbpedia.org/resource/2015_New_Year_Honours>	dbo:wikiPageWikiLink	dbr:European_Court_of_Auditors .
+dbr:International_Standards_on_Auditing	dbo:wikiPageWikiLink	dbr:European_Court_of_Auditors .
+<http://dbpedia.org/resource/Internal_Audit_Service_(European_Commission)>	dbo:wikiPageWikiLink	dbr:European_Court_of_Auditors .
+dbr:Court_of_Audit	dbo:wikiPageWikiLink	dbr:European_Court_of_Auditors .
+dbr:List_of_the_names_of_bodies_of_the_European_Union_in_its_official_languages	dbo:wikiPageWikiLink	dbr:European_Court_of_Auditors .
+dbr:Fehmarn_Belt_Fixed_Link	dbo:wikiPageWikiLink	dbr:European_Court_of_Auditors .
+<http://dbpedia.org/resource/Greenland\u2013European_Union_relations>	dbo:wikiPageWikiLink	dbr:European_Court_of_Auditors .
+<http://dbpedia.org/resource/Jan_O._Karlsson>	dbo:wikiPageWikiLink	dbr:European_Court_of_Auditors .
+<http://dbpedia.org/resource/List_of_members_of_the_European_Parliament_for_Ireland,_1984\u20131989>	dbo:wikiPageWikiLink	dbr:European_Court_of_Auditors .
+<http://dbpedia.org/resource/List_of_members_of_the_European_Parliament_for_Ireland,_1989\u20131994>	dbo:wikiPageWikiLink	dbr:European_Court_of_Auditors .
+dbr:Historical_Archives_of_the_European_Union	dbo:wikiPageWikiLink	dbr:European_Court_of_Auditors .
+<http://dbpedia.org/resource/List_of_members_of_the_European_Parliament_for_Hungary,_2014\u20132019>	dbo:wikiPageWikiLink	dbr:European_Court_of_Auditors .
+dbr:Bernhard_Friedmann	dbo:wikiPageWikiLink	dbr:European_Court_of_Auditors .
+<http://dbpedia.org/resource/Ville_It\u00E4l\u00E4>	dbo:wikiPageWikiLink	dbr:European_Court_of_Auditors .
+<http://dbpedia.org/resource/2016_Estonian_presidential_election>	dbo:wikiPageWikiLink	dbr:European_Court_of_Auditors .
+dbr:Timeline_of_Luxembourg_City	dbo:wikiPageWikiLink	dbr:European_Court_of_Auditors .

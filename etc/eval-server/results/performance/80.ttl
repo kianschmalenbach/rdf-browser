@@ -1,0 +1,1481 @@
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+<http://dbpedia.org/resource/11th_Army_Corps_(Russian_Empire)>	dbo:wikiPageWikiLink	dbr:Lutsk .
+@prefix dbp:	<http://dbpedia.org/property/> .
+<http://dbpedia.org/resource/11th_Infantry_Division_(Russian_Empire)>	dbp:garrison	dbr:Lutsk ;
+	dbo:garrison	dbr:Lutsk ;
+	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/12th_Infantry_Division_(Russian_Empire)>	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/176th_Perevolochna_Infantry_Regiment>	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Battle_of_Kowel	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Battle_of_Lutsk	dbp:place	dbr:Lutsk ;
+	dbo:place	dbr:Lutsk ;
+	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/Leon_Katz_(physicist)>	dbo:birthPlace	dbr:Lutsk ;
+	dbp:birthPlace	dbr:Lutsk ;
+	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Nikolay_Kokorin	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Renault_R35	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Krzemieniec_Lyceum	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/Pavlivka,_Volyn_Oblast>	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Volyn_Oblast	dbp:seat	dbr:Lutsk ;
+	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Ernst_Leman	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Rudolf_Trenkel	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/2018\u201319_Ukrainian_First_League>	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/2019_Ukrainian_Athletics_Championships>	dbp:hostCity	dbr:Lutsk ;
+	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/President_of_Poland\u0027s_Football_Cup>	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:List_of_amalgamated_hromadas_of_Ukraine	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:List_of_castles_in_Ukraine	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Ukraine_in_the_Eurovision_Song_Contest_2017	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/Ukrainian_People\u0027s_Militsiya>	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Lower_Level_Football_Leagues_in_Interwar_Poland	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:List_of_trolleybus_systems_in_Ukraine	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Regional_football_federations_of_Ukraine	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Ukrainian_Amateur_Cup	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/Pripyat_swamps_(punitive_operation)>	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Elijah_Bashyazi	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Hypatius_Pociej	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Adam_Koc	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/UEFA_Women\u0027s_Euro_2005_qualifying>	dbp:stadium	dbr:Lutsk ;
+	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:List_of_terrorist_incidents_in_2020	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Cichociemni	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:June_1916	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Dmytro_Tabachnyk	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Oblasts_of_Ukraine	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Katarina_Zavatska	dbo:birthPlace	dbr:Lutsk ;
+	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/Rzesz\u00F3w>	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/2019_Ukrainian_parliamentary_election>	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Ivano-Frankivsk	dbp:north	dbr:Lutsk ;
+	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Trakai	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Kyjov	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Tourism_in_Ukraine	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Massacres_of_Poles_in_Volhynia_and_Eastern_Galicia	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Panteleimon_Kulish	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Lutsk_Gymnasium_21	dbp:city	dbr:Lutsk ;
+	dbo:city	dbr:Lutsk ;
+	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Mykola_Velychkivsky	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Lesya_Ukrainka	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Rock_music_in_Ukraine	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Olsztyn	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/Nicholas_(Yarushevich)>	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Yaroslav_Smelyakov	dbo:birthPlace	dbr:Lutsk ;
+	dbp:birthPlace	dbr:Lutsk ;
+	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Anatoli_Nenartovich	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Ihor_Palytsia	dbo:birthPlace	dbr:Lutsk ;
+	dbp:birthPlace	dbr:Lutsk ;
+	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Ihor_Yeremeyev	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Ivan_Voshchyna	dbo:deathPlace	dbr:Lutsk ;
+	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Roman_Kots	dbo:birthPlace	dbr:Lutsk ;
+	dbp:birthPlace	dbr:Lutsk ;
+	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Serhiy_Mykhalchuk	dbo:birthPlace	dbr:Lutsk ;
+	dbp:birthPlace	dbr:Lutsk ;
+	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Volodymyr_Hunchyk	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Vyacheslav_Shevchuk	dbo:birthPlace	dbr:Lutsk ;
+	dbp:birthPlace	dbr:Lutsk ;
+	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/Svetlana_Zakharova_(dancer)>	dbp:birthPlace	dbr:Lutsk ;
+	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Viktor_Fyodorovich_Karpukhin	dbp:birthPlace	dbr:Lutsk ;
+	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Vitaliy_Kvartsyanyi	dbo:birthPlace	dbr:Lutsk ;
+	dbp:birthPlace	dbr:Lutsk ;
+	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Yaroslav_Komzyuk	dbo:birthPlace	dbr:Lutsk ;
+	dbp:birthPlace	dbr:Lutsk ;
+	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:LuAZ	dbp:locationCity	dbr:Lutsk ;
+	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:LuAZ-967	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Lutsk_Ghetto	dbp:location	dbr:Lutsk ;
+	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Ukrsotsbank	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Vasyl_Zinkevych	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/Boles\u0142aw_Kontrym>	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Kiev_Military_District	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Florian_Siwicki	dbp:birthPlace	dbr:Lutsk ;
+	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Nikolay_Kiryukhin	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Nil_Khasevych	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Oksana_Zabuzhko	dbo:birthPlace	dbr:Lutsk ;
+	dbp:birthPlace	dbr:Lutsk ;
+	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/Battle_of_Brody_(1941)>	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/Lesya_Ukrainka_street,_Lutsk>	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Alexander_Abramsky	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:General_Jewish_Labour_Bund	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/Battle_of_the_Korsun\u2013Cherkassy_Pocket>	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/Zamo\u015B\u0107>	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/\u015Amia\u0142y_(armoured_train)>	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/Causes_of_the_Polish\u2013Soviet_War>	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/Ludwik_Malinowski_(resistance_fighter)>	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Narrow-gauge_railways_in_Ukraine	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/27th_Home_Army_Infantry_Division_(Poland)>	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Huta_Pieniacka_massacre	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Iryna_Shynkaruk	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Ivan_Panfilov	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Ivanava	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Sasiv	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Ukrainian_folk_music	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Anzhelika_Savrayuk	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Reichskommissariat_Ukraine	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/1991_Soviet_Athletics_Championships>	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/Bogdan_(bus_model)>	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/Internationalism_or_Russification%3F>	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Administrative_divisions_of_the_Ukrainian_SSR	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Curzon_Line	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:List_of_football_clubs_in_Ukraine	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Pavlo_Rybkovskyi	dbo:birthPlace	dbr:Lutsk ;
+	dbp:birthPlace	dbr:Lutsk ;
+	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/W\u0142adys\u0142aw_Siemaszko>	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Stepan_Bandera	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Einsatzkommando	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:NKVD_prisoner_massacres	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Internal_Troops_of_Ukraine	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Yuri_Pokalchuk	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Plast	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:June_1941	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/252nd_Rifle_Division>	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/329th_Rifle_Division_(Soviet_Union)>	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/336th_Rifle_Division_(Soviet_Union)>	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/486th_Fighter_Aviation_Regiment>	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/60th_Army_(Soviet_Union)>	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Boris_Kozhin	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/2014\u201315_FC_Shakhtar_Donetsk_season>	dbp:location	dbr:Lutsk ;
+	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/2016\u201317_FC_Dynamo_Kyiv_season>	dbp:location	dbr:Lutsk ;
+	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/2016\u201317_FC_Shakhtar_Donetsk_season>	dbp:location	dbr:Lutsk ;
+	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/2012\u201313_FC_Shakhtar_Donetsk_season>	dbp:location	dbr:Lutsk ;
+	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Lewart_coat_of_arms	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/Przebra\u017Ce_Defence>	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Walter_Wolfrum	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Schutzmannschaft_Battalion_202	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/Family_of_K\u0119stutis>	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/Luck_(disambiguation)>	dbo:wikiPageWikiLink	dbr:Lutsk .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+wikipedia-en:Lutsk	foaf:primaryTopic	dbr:Lutsk .
+<http://dbpedia.org/resource/1996_World_Cup_of_Hockey_rosters>	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/2012_Ukrainian_parliamentary_election>	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/2013\u201314_FC_Dnipro_Dnipropetrovsk_season>	dbp:location	dbr:Lutsk ;
+	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/2015\u201316_FC_Dynamo_Kyiv_season>	dbp:location	dbr:Lutsk ;
+	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Ukrainian_records_in_Olympic_weightlifting	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:List_of_Hasidic_dynasties	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/2010\u201311_FC_Shakhtar_Donetsk_season>	dbp:location	dbr:Lutsk ;
+	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/2011\u201312_FC_Dnipro_Dnipropetrovsk_season>	dbp:stadium	dbr:Lutsk ;
+	dbo:wikiPageWikiLink	dbr:Lutsk .
+@prefix ns5:	<http://dbpedia.org/resource/List_of_towns_and_cities_with_100,000_or_more_inhabitants/cityname:> .
+ns5:_L	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/Names_of_European_cities_in_different_languages:_I\u2013L>	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/2019_IAAF_Combined_Events_Challenge>	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/XXIV_Army_Corps_(Wehrmacht)>	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Barbara_of_Cilli	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:List_of_raions_of_Ukraine	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/City_of_regional_significance_(Ukraine)>	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Volhynia	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Electoral_districts_of_Ukraine	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/List_of_raions_of_Ukraine_(1966-2020)>	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Death_by_burning	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Protestantism_in_Ukraine	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/Miko\u0142aj_Abramowicz>	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/2019\u201320_Ukrainian_First_League>	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/2019\u201320_Ukrainian_Premier_League>	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/2020\u201321_FC_Karpaty_Lviv_season>	dbp:location	dbr:Lutsk ;
+	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/2020_Ukrainian_Athletics_Championships>	dbp:hostCity	dbr:Lutsk ;
+	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Shmuel_Shilo	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Lutsky_Uyezd	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Polish_Army_manoeuvres_in_Volhynia	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Roman_Catholic_Diocese_of_Lutsk	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:List_of_close_election_results	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:February_1968	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/2015\u201316_FC_Shakhtar_Donetsk_season>	dbp:location	dbr:Lutsk ;
+	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Pinkus_Kartin	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/1st_Krechowce_Uhlan_Regiment>	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/2019_in_the_sport_of_athletics>	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Eparchies_and_Metropolitanates_of_the_Russian_Orthodox_Church	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:List_of_city_name_changes	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Evgeny_Khmara	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Polish_Telegraphic_Agency	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:List_of_Lebanese_records_in_athletics	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/Lutheran_Church,_Lutsk>	dbo:location	dbr:Lutsk ;
+	dbp:location	dbr:Lutsk ;
+	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Halyna_Yagenska	dbo:birthPlace	dbr:Lutsk ;
+	dbp:birthPlace	dbr:Lutsk ;
+	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Emilia_Malessa	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Sonia_Lewitska	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Zindel_Segal	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Yochanan_Shochet	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Yitzchak_Eizik_Epstein	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Bryachislav_of_Polotsk	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Voivodeships_of_Poland	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/2014\u201315_Ukrainian_Premier_League>	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/2015\u201316_Ukrainian_Premier_League>	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/2012\u201313_Ukrainian_Premier_League>	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/2018\u201319_Ukrainian_Premier_League>	dbp:stadium	dbr:Lutsk ;
+	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/2020\u201321_Ukrainian_First_League>	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:FC_Volyn_Lutsk	dbo:ground	dbr:Lutsk ;
+	dbo:wikiPageWikiLink	dbr:Lutsk ;
+	dbp:ground	dbr:Lutsk .
+dbr:Taras_Kabanov	dbo:birthPlace	dbr:Lutsk ;
+	dbp:birthPlace	dbr:Lutsk ;
+	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Yevhen_Budnik	dbo:birthPlace	dbr:Lutsk ;
+	dbp:birthPlace	dbr:Lutsk ;
+	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Mszczuj_of_Skrzynno	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/Administrative_division_of_Ukraine_(1918)>	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Foreign_relations_of_Poland	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/1938_in_Poland>	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/1992_FC_Dynamo_Kyiv_season>	dbp:location	dbr:Lutsk ;
+	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/1997\u201398_Washington_Capitals_season>	dbp:birthplace	dbr:Lutsk ;
+	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/2004_World_Cup_of_Hockey_rosters>	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:List_of_diplomatic_missions_in_Ukraine	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:List_of_diplomatic_missions_of_Poland	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Dimitrie_Cantemir	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/2002_Ukrainian_parliamentary_election>	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/Friedrich_K\u00FChn>	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Werner_Lucas	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Iryna_Zhychuk	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Moses_Schorr	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:List_of_towns_with_German_town_law	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Symeon_Pekalytsky	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:List_of_shtetls	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Mykola_Riabchuk	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/List_of_Soviet_Army_divisions_1989\u201391>	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:List_of_uyezds_of_the_Russian_Empire	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/The_Voice_Kids_(Ukrainian_season_3)>	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:COVID-19_pandemic_in_Ukraine	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Subdivisions_of_the_Second_Polish_Republic	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/Electoral_districts_of_Poland_(1935\u201339)>	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:List_of_villages_and_towns_depopulated_of_Jews_during_the_Holocaust	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Rostislav_Mikhailovich	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Zagaje_massacre	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/Ostr\u00F3wki_massacre>	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Wola_Ostrowiecka_massacre	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:List_of_cities_with_defensive_walls	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:List_of_twin_towns_and_sister_cities_in_Ukraine	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:VGP_JSC	dbp:locationCity	dbr:Lutsk ;
+	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/Polish\u2013Teutonic_War_(1431\u20131435)>	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Union_of_Brest	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Czechs_in_Ukraine	dbp:popplace	dbr:Lutsk ;
+	dbo:populationPlace	dbr:Lutsk ;
+	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Algirdas	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Eugene_Rozhitsky	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Lorenzo_Litta	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Daniel_of_Galicia	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Janowa_Dolina_massacre	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/Miko\u0142aj_Krasicki>	dbp:deathPlace	dbr:Lutsk ;
+	dbo:deathPlace	dbr:Lutsk ;
+	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Marcin_Szyszkowski	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/Stanis\u0142aw_Bedli\u0144ski>	dbp:deathPlace	dbr:Lutsk ;
+	dbo:deathPlace	dbr:Lutsk ;
+	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/Stanis\u0142aw_Czury\u0142o>	dbp:deathPlace	dbr:Lutsk ;
+	dbo:deathPlace	dbr:Lutsk ;
+	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/Stanis\u0142aw_Udrzycki>	dbp:deathPlace	dbr:Lutsk ;
+	dbo:deathPlace	dbr:Lutsk ;
+	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/Stanis\u0142aw_\u0141oza>	dbp:deathPlace	dbr:Lutsk ;
+	dbo:deathPlace	dbr:Lutsk ;
+	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Adam_Franciszek_Ksawery_Rostkowski	dbp:deathPlace	dbr:Lutsk ;
+	dbo:deathPlace	dbr:Lutsk ;
+	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:List_of_Metropolitans_and_Patriarchs_of_Kyiv	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/\u0160vitrigaila>	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/Bishops_of_the_Polish\u2013Lithuanian_Commonwealth>	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/Saint_Peter_and_Paul_Cathedral,_Lutsk>	dbo:location	dbr:Lutsk ;
+	dbp:location	dbr:Lutsk ;
+	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Catholic_Church_in_Ukraine	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/Lithuanian_Civil_War_(1381\u20131384)>	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/Market_Square_(Lutsk)>	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Franciszek_Zajerski	dbp:deathPlace	dbr:Lutsk ;
+	dbo:deathPlace	dbr:Lutsk ;
+	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Dubno	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Ivan_Vyshenskyi	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Cyryl_Lubowidzki	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Bernard_Maciejowski	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:War_crimes_in_occupied_Poland_during_World_War_II	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/Jan_Karol_Czola\u0144ski>	dbp:deathPlace	dbr:Lutsk ;
+	dbo:deathPlace	dbr:Lutsk ;
+	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/Jan_Stefan_Wyd\u017Aga>	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Kisielin_massacre	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Pidkamin	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/Stanis\u0142aw_D\u0105mbski>	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Kazimierz_Zwierz	dbp:deathPlace	dbr:Lutsk ;
+	dbo:deathPlace	dbr:Lutsk ;
+	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/Order_of_precedence_in_the_Polish\u2013Lithuanian_Commonwealth>	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/W\u0142odzimierz_Czacki>	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/2016\u201317_FC_Dnipro_season>	dbp:location	dbr:Lutsk ;
+	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/43rd_Rocket_Army>	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Ruthenian_Uniate_Church	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Volhynian_Bloody_Sunday	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/25th_meridian_east>	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Territorial_evolution_of_Poland	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Early_Modern_Romania	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/Brest,_Belarus>	dbo:wikiPageWikiLink	dbr:Lutsk .
+@prefix ns6:	<http://dbpedia.org/resource/List_of_airports_by_IATA_airport_code:> .
+ns6:_U	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:List_of_modern_Pagan_temples	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Kostya_Tszyu	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Karaim_language	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Yuri_Kondratyuk	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/.ua>	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:AvtoZAZ	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Racism_and_discrimination_in_Ukraine	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/Spyrydon_(Babskyi)>	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Andriy_Fedetskyi	dbp:deathPlace	dbr:Lutsk ;
+	dbo:deathPlace	dbr:Lutsk ;
+	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Alexander_Sparinsky	dbo:birthPlace	dbr:Lutsk ;
+	dbp:birthPlace	dbr:Lutsk ;
+	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Ihor_Huz	dbp:birthPlace	dbr:Lutsk ;
+	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Artem_Dudik	dbo:birthPlace	dbr:Lutsk ;
+	dbp:birthPlace	dbr:Lutsk ;
+	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Oleksandr_Chepelyuk	dbo:birthPlace	dbr:Lutsk ;
+	dbp:birthPlace	dbr:Lutsk ;
+	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Roman_Nykytyuk	dbo:birthPlace	dbr:Lutsk ;
+	dbp:birthPlace	dbr:Lutsk ;
+	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Serhiy_Petrov	dbo:birthPlace	dbr:Lutsk ;
+	dbp:birthPlace	dbr:Lutsk ;
+	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Serhiy_Podryhulya	dbo:birthPlace	dbr:Lutsk ;
+	dbp:birthPlace	dbr:Lutsk ;
+	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Nataliya_May	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/2013\u201314_FC_Karpaty_Lviv_season>	dbp:location	dbr:Lutsk ;
+	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/2014_Euromaidan_regional_state_administration_occupations>	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/2014\u201315_Ukrainian_Cup>	dbp:stadium	dbr:Lutsk ;
+	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/2015\u201316_FC_Vorskla_Poltava_season>	dbp:location	dbr:Lutsk ;
+	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/2015\u201316_FC_Zorya_Luhansk_season>	dbp:location	dbr:Lutsk ;
+	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/2015\u201316_Ukrainian_Cup>	dbp:stadium	dbr:Lutsk ;
+	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/2016\u201317_Ukrainian_Cup>	dbp:stadium	dbr:Lutsk ;
+	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Lozisht	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Lutsk_Air_Base	dbo:location	dbr:Lutsk ;
+	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Lutsk_Airport	dbo:location	dbr:Lutsk ;
+	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Lutsk_Raion	dbp:seat	dbr:Lutsk ;
+	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Lviv_Oblast_football_team	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Ukrainian_Catholic_Archiepiscopal_Exarchate_of_Lutsk	dbp:headquarters	dbr:Lutsk ;
+	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Ukrainian_First_League	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Ukrainian_corvette_Lutsk	dbp:shipNamesake	dbr:Lutsk ;
+	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Vasyl_Stolyar	dbo:birthPlace	dbr:Lutsk ;
+	dbp:birthPlace	dbr:Lutsk ;
+	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Lesya_Ukrainka_East_European_National_University	dbp:city	dbr:Lutsk ;
+	dbo:city	dbr:Lutsk ;
+	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Multiplex_Cinema	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:List_of_renamed_cities_in_Ukraine	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/Dereviane,_Rivne_Oblast>	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Dinora_Pines	dbo:birthPlace	dbr:Lutsk ;
+	dbp:birthPlace	dbr:Lutsk ;
+	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Dobrotvir	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Klevan	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:FC_Phoenix	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/Lubart\u0027s_Castle>	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Novyi_Yarychiv	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/WOG_(gas_stations)>	dbo:location	dbr:Lutsk ;
+	dbp:location	dbr:Lutsk ;
+	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/Eug\u00E8ne_Konopatzky>	dbo:birthPlace	dbr:Lutsk ;
+	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/Avanhard_Stadium_(Lutsk)>	dbo:location	dbr:Lutsk ;
+	dbp:location	dbr:Lutsk ;
+	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Baryliv	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/Polish_Radio_\u0141uck>	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Markijan_Trofimiak	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Alexandr_Guristyuk	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Anatoliy_Kabayda	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:HC_Lutsk	dbp:city	dbr:Lutsk ;
+	dbo:city	dbr:Lutsk ;
+	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Ukrainian_hip_hop	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/1992\u201393_Ukrainian_Cup>	dbp:stadium	dbr:Lutsk ;
+	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/1993\u201394_Ukrainian_Cup>	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/1994\u201395_Ukrainian_Cup>	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/1995\u201396_Ukrainian_Cup>	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/1996\u201397_Ukrainian_Cup>	dbp:stadium	dbr:Lutsk ;
+	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/1998\u201399_Ukrainian_First_League>	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Lesser_Poland_Province_of_the_Polish_Crown	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Zapytiv	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Zalman_Sorotzkin	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/2009\u201310_Ukrainian_Cup>	dbp:stadium	dbr:Lutsk ;
+	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/2009\u201310_Ukrainian_First_League>	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/2011\u201312_Ukrainian_Cup>	dbp:stadium	dbr:Lutsk ;
+	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/2012\u201313_Ukrainian_Cup>	dbp:stadium	dbr:Lutsk ;
+	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Michael_Karkoc	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Ukrainian_Athletics_Championships	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/2020\u201321_Ukrainian_Cup>	dbp:location	dbr:Lutsk ;
+	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/2016_IAAF_World_U20_Championships_\u2013_Women\u0027s_heptathlon>	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Korshiv	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:List_of_synagogues_in_Ukraine	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Iuliia_Batenkova	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Iurii_Kostiuk	dbo:birthPlace	dbr:Lutsk ;
+	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Anatoliy_Tymoshchuk	dbo:birthPlace	dbr:Lutsk ;
+	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/2019\u201320_FC_Chornomorets_Odesa_season>	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/2020_Ukrainian_local_elections>	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/2020_in_Ukraine>	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Oleksandr_Chyzhevskyi	dbo:birthPlace	dbr:Lutsk ;
+	dbp:birthPlace	dbr:Lutsk ;
+	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Oleksandr_Kyrylyuk	dbo:birthPlace	dbr:Lutsk ;
+	dbp:birthPlace	dbr:Lutsk ;
+	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Olena_Tsyos	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Orzhiv	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Aharon_Efrat	dbp:birthPlace	dbr:Lutsk ;
+	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Trochenbrod	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Principality_of_Turov	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Seven_Wondrous_Castles_and_Palaces_of_Ukraine	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Against_degradation_of_education	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Magdeburg_rights	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:List_of_airports_in_Ukraine	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:List_of_cities_in_Ukraine	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:List_of_football_stadiums_in_Ukraine	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/Pawe\u0142_Gi\u017Cycki>	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Serhiy_Krukovets	dbo:birthPlace	dbr:Lutsk ;
+	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Severyn_Nalyvaiko	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Shimshon_Unichman	dbp:birthPlace	dbr:Lutsk ;
+	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Tartak	dbo:wikiPageWikiLink	dbr:Lutsk ;
+	dbo:hometown	dbr:Lutsk .
+dbr:Volodymyr_Bondar	dbo:birthPlace	dbr:Lutsk ;
+	dbp:birthPlace	dbr:Lutsk ;
+	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Volodymyr_Hapon	dbo:birthPlace	dbr:Lutsk ;
+	dbp:birthPlace	dbr:Lutsk ;
+	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Volodymyr_Mozolyuk	dbo:birthPlace	dbr:Lutsk ;
+	dbp:birthPlace	dbr:Lutsk ;
+	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:VolynBasket	dbo:location	dbr:Lutsk ;
+	dbp:location	dbr:Lutsk ;
+	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Glava_94	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Grigori_Machtet	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:List_of_Ukrainian_flags	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:List_of_cathedrals_in_Ukraine	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:European_Party_of_Ukraine	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Euroregion_Bug	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Stokhid	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Styr	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Western_Ukrainian_Amateur_Hockey_League	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/Highway_H22_(Ukraine)>	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/Jesuit_School_in_Chyr\u00F3w>	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/List_of_players_in_Slovakia_men\u0027s_national_ice_hockey_team>	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Emil_Bitsch	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/Highway_H17_(Ukraine)>	dbo:routeStart	dbr:Lutsk ;
+	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/Highway_M19_(Ukraine)>	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/Cho\u0142odecki>	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/MasterChef_Ukraine_(season_8)>	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/Marianivka,_Horokhiv_Raion>	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/X-Factor_(Ukrainian_TV_series)>	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/State_Highways_(Ukraine)>	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Shvarn	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Volyn_Oblast_Council	dbo:location	dbr:Lutsk ;
+	dbp:meetingPlace	dbr:Lutsk ;
+	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Wojtowicz_family	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/Kolky_(urban-type_settlement)>	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Aidar_Battalion	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Kusnyshcha	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Wilhelm_Batz	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Romuald_Jankowski	dbo:birthPlace	dbr:Lutsk ;
+	dbp:birthPlace	dbr:Lutsk ;
+	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Andrew_of_Galicia	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Gwiazda_Polski	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Third_Mongol_invasion_of_Poland	dbo:wikiPageWikiLink	dbr:Lutsk ;
+	dbo:commander	dbr:Lutsk .
+dbr:Korosciatyn_massacre	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/Paro\u015Bla_I_massacre>	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Henryk_Firlej	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Zygmunt_Rumel	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/Miko\u0142aj_Kruszewski>	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/27th_Infantry_Division_(Poland)>	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Glinciszki_massacre	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Feodor_Ostrogski	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/W\u0142adys\u0142aw_Dominik_Zas\u0142awski>	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/Kalin\u00F3wka_Ko\u015Bcielna>	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Bogdan_Bliznyuk	dbo:birthPlace	dbr:Lutsk ;
+	dbp:birthPlace	dbr:Lutsk ;
+	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/9th_Infantry_Division_(Poland)>	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/The_Voice_Kids_(Ukrainian_season_4)>	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:List_of_longest_buildings	dbo:wikiPageWikiLink	dbr:Lutsk .
+@prefix ns7:	<http://dbpedia.org/resource/List_of_towns_and_cities_with_100,000_or_more_inhabitants/country:> .
+ns7:_T-U-V-W-Y-Z	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Coverage_of_Google_Street_View	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:List_of_first-level_administrative_country_subdivisions	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:List_of_twin_towns_and_sister_cities_in_Belarus	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:List_of_twin_towns_and_sister_cities_in_Lithuania	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:List_of_twin_towns_and_sister_cities_in_the_Czech_Republic	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Ukrainian_SL_Favorit_Sport	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:European_Combined_Events_Team_Championships	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:List_of_companies_of_Ukraine	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/2019_European_Combined_Events_Team_Championships>	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Fedor_Linde	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Mordecai_Sultansky	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/4th_Panzer_Army>	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/1972_Soviet_Second_League,_Zone_1>	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/Rovno\u2013Lutsk_Offensive>	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Yaroslav_Halan	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/USSR_anti-religious_campaign_(1958\u20131964)>	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/2014_Ukrainian_parliamentary_election>	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/2016\u201317_Eastern_Washington_Eagles_men\u0027s_basketball_team>	dbp:home	dbr:Lutsk ;
+	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Viktor_Bauer	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Volhynia_Experiment	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/51st_parallel_north>	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/2013\u201314_FC_Chornomorets_Odesa_season>	dbp:location	dbr:Lutsk ;
+	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Lublin	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Ukrainian_interbrigade_company_Taras_Shevchenko	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Demographics_of_Ukraine	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/Dnieper\u2013Carpathian_Offensive>	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Gordon_Gollob	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:MERIDIAN_CZERNOWITZ	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/111th_Fighter_Escadrille_(Poland)>	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/13th_Infantry_Division_(Poland)>	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/Be_Free_(festival)>	dbp:location	dbr:Lutsk ;
+	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/Memorials_to_Fr\u00E9d\u00E9ric_Chopin>	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Kamenets-Podolsky_pocket	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Kampfgeschwader_54	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Kampfgeschwader_55	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Kaunas	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/2010\u201311_FC_Karpaty_Lviv_season>	dbp:location	dbr:Lutsk ;
+	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/2012\u201313_FC_Dynamo_Kyiv_season>	dbp:location	dbr:Lutsk ;
+	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/Four_Year_Plan_(Poland)>	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Soviet_invasion_of_Poland	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Volodymyr_Runchak	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Har_HaMenuchot	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Crimean_Karaites	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Lada_Riva	dbo:assembly	dbr:Lutsk ;
+	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/Felicjan_S\u0142awoj_Sk\u0142adkowski>	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:National_Police_of_Ukraine	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:List_of_international_presidential_trips_made_by_Andrzej_Duda	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Yevhen_Konovalets	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/2014\u201315_FC_Zorya_Luhansk_season>	dbp:location	dbr:Lutsk ;
+	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/2016\u201317_FC_Zorya_Luhansk_season>	dbp:location	dbr:Lutsk ;
+	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:List_of_twin_towns_and_sister_cities_in_Poland	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Leopold_Lis-Kula	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/Wac\u0142aw_Kopisto>	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:List_of_historic_reserves_in_Ukraine	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Kristjan_Rosenberg	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Joseph_Zinker	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Battle_of_Kobrin	dbo:wikiPageWikiLink	dbr:Lutsk .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Lutsk	rdf:type	yago:Object100002684 ,
+		yago:PhysicalEntity100001930 .
+@prefix schema:	<http://schema.org/> .
+dbr:Lutsk	rdf:type	schema:City ,
+		yago:Region108630985 ,
+		yago:UrbanArea108675967 ,
+		schema:Place .
+@prefix umbel-rc:	<http://umbel.org/umbel/rc/> .
+dbr:Lutsk	rdf:type	umbel-rc:Location_Underspecified ,
+		umbel-rc:PopulatedPlace ,
+		dbo:City ,
+		yago:Municipality108626283 ,
+		yago:Location100027167 .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Lutsk	rdf:type	wikidata:Q486972 ,
+		yago:YagoGeoEntity ,
+		wikidata:Q515 ,
+		yago:YagoPermanentlyLocatedEntity ,
+		yago:YagoLegalActorGeo ,
+		yago:AdministrativeDistrict108491826 ,
+		yago:GeographicalArea108574314 ,
+		yago:District108552138 ,
+		yago:City108524735 .
+@prefix geo:	<http://www.w3.org/2003/01/geo/wgs84_pos#> .
+dbr:Lutsk	rdf:type	geo:SpatialThing ,
+		dbo:Location ,
+		dbo:PopulatedPlace ,
+		umbel-rc:Village ,
+		yago:WikicatCitiesInVolynOblast .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Lutsk	rdf:type	owl:Thing ,
+		dbo:Place ,
+		yago:WikicatGhettosInNazi-occupiedEurope ,
+		yago:Quarter108627919 ,
+		yago:Ghetto108578951 ,
+		dbo:Settlement ,
+		yago:Town108665504 ,
+		yago:WikicatCitiesInUkraine ,
+		yago:CityDistrict108537837 ,
+		yago:WikicatTowns .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Lutsk	rdfs:label	"Lutsk"@es ,
+		"\u0141uck"@pl ,
+		"\u041B\u0443\u0446\u043A"@ru ,
+		"\u041B\u0443\u0446\u044C\u043A"@uk ,
+		"\u0644\u0648\u062A\u0633\u0643"@ar ,
+		"Lutsk"@ca ,
+		"Luck"@cs ,
+		"Luc'k"@it ,
+		"\u76E7\u8328\u514B"@zh ,
+		"\u30EB\u30FC\u30C4\u30A3\u30AF"@ja ,
+		"\uB8E8\uCE20\uD06C"@ko ,
+		"Loetsk"@nl ,
+		"Lutsk"@pt ,
+		"Lutsk"@en ,
+		"Lucko"@eo ,
+		"Loutsk"@fr ,
+		"Lutsk"@eu ,
+		"Lutsk"@in ,
+		"Luzk"@de ,
+		"Lutsk"@sv ;
+	rdfs:comment	"Lutsk ialah kota di Ukraina. Merupakan pusat administrasi  dan memiliki 200.000 penduduk (2004). \n* Lubart's Castle"@in ,
+		"\uB8E8\uCE20\uD06C(\uC6B0\uD06C\uB77C\uC774\uB098\uC5B4: \u041B\u0443\u0446\u044C\u043A)\uB294 \uC6B0\uD06C\uB77C\uC774\uB098 \uBD81\uC11C\uBD80\uC5D0 \uC704\uCE58\uD55C \uB3C4\uC2DC\uB85C \uBCFC\uB9B0\uC8FC\uC758 \uC8FC\uB3C4\uC774\uBA70 \uBA74\uC801\uC740 42.0km2, \uB192\uC774\uB294 174m, \uC778\uAD6C\uB294 202,900\uBA85(2005\uB144 \uAE30\uC900), \uC778\uAD6C\uBC00\uB3C4\uB294 4,830\uBA85/km2\uC774\uB2E4. 1085\uB144 \uC2E0\uC124\uB418\uC5C8\uC73C\uBA70 1432\uB144 \uC790\uCE58\uAD8C\uC744 \uBD80\uC5EC\uBC1B\uC558\uB2E4. \n* \uAE30 \n* \uBB38\uC7A5"@ko ,
+		"\u76E7\u8328\u514B\uFF08\u70CF\u514B\u862D\u8A9E\uFF1A\u041B\u0443\u0446\u044C\u043A, translit. Luts'k, \u6CE2\u862D\u8A9E\uFF1A\u0141uck, \u767D\u4FC4\u7F85\u65AF\u8A9E\uFF1A\u041B\u0443\u0446\u0430\u043A or \u041B\u0443\u0446\u043A, transliterated Lutchak or Lutsk\uFF09\u662F\u4F4D\u65BC\u70CF\u514B\u862D\u897F\u5317\u90E8\u65AF\u7279\u91CC\u6CB3\u7554\u7684\u4E00\u500B\u57CE\u5E02\u3002\u76E7\u8328\u514B\u662F\u6C83\u502B\u5DDE\u7684\u9996\u5E9C\u6240\u5728\u5730\u30022007\u5E74\u4EBA\u53E3\u6709206,000\u4EBA\u3002\u76E7\u8328\u514B\u5728\u6B77\u53F2\u4E0A\u66FE\u7531\u6CE2\u862D\u7D71\u6CBB\uFF0C\u76EE\u524D\u6CE2\u862D\u4E5F\u5728\u76E7\u8328\u514B\u8A2D\u6709\u9818\u4E8B\u9928\u3002"@zh ,
+		"Luc'k (in ucraino: \u041B\u0443\u0446\u044C\u043A?) \u00E8 una citt\u00E0 dell'Ucraina nordoccidentale, capoluogo dell'Oblast' di Volinia. \u00C8 una delle citt\u00E0 pi\u00F9 antiche di questo paese. Il primo riferimento scritto su questa citt\u00E0 risale al 1085. Tra il 1921 e il 1939 \u00E8 stata, con il nome polacco di \u0141uck, la capitale del Voivodato di Volinia nella Seconda Repubblica di Polonia."@it ,
+		"\u0644\u0648\u062A\u0633\u0643 (\u0628\u0627\u0644\u0623\u0648\u0643\u0631\u0627\u0646\u064A\u0629 \u041B\u0443\u0446\u044C\u043A)\u060C (\u0628\u0627\u0644\u0628\u0648\u0644\u0646\u062F\u064A\u0629 \u0141uck)\u060C (\u0628\u0627\u0644\u0628\u064A\u0644\u0627\u0631\u0648\u0633\u064A\u0629: \u041B\u0443\u0446\u0430\u043A \u0623\u0648 \u041B\u0443\u0446\u043A)\u060C \u0628\u0627\u0644\u064A\u062F\u064A\u0634\u064A\u0629: \u05DC\u05D5\u05E6\u05E7): \u0647\u064A \u0645\u062F\u064A\u0646\u0629 \u062A\u0642\u0639 \u0639\u0644\u0649 \u0646\u0647\u0631 \u0633\u062A\u064A\u0631 \u0641\u064A \u0634\u0645\u0627\u0644 \u063A\u0631\u0628 \u0623\u0648\u0643\u0631\u0627\u0646\u064A\u0627. \u0648\u0647\u064A \u0639\u0627\u0635\u0645\u0629 \u0645\u0642\u0627\u0637\u0639\u0629 \u0641\u0648\u0644\u064A\u0646 \u0623\u0648\u0628\u0644\u0627\u0633\u062A\u060C \u0639\u0644\u0649 \u0627\u0644\u0631\u063A\u0645 \u0645\u0646 \u0623\u0646\u0647\u0627 \u0644\u064A\u0633\u062A \u062C\u0632\u0621\u0627 \u0645\u0646 \u0631\u0627\u064A\u0648\u0646 \u0625\u0644\u0627 \u0627\u0646\u0647\u0627 \u062A\u062A\u0645\u062A\u0639 \u0628\u0645\u0631\u0643\u0632 \u0630\u0627\u062A \u0623\u0647\u0645\u064A\u0629 \u0623\u0648\u0628\u0644\u0627\u0633\u062A\u060C \u0623\u064A \u0645\u0627 \u064A\u0639\u0627\u062F\u0644 \u0630\u0644\u0643 \u0645\u0646 \u0631\u0627\u064A\u0648\u0646. \u0639\u062F\u062F \u0633\u0643\u0627\u0646\u0647\u0627 \u064A\u0628\u0644\u063A 214727 ( \u0627\u062D\u0635\u0627\u0626\u064A\u0629 \u0639\u0627\u0645 2013) ."@ar ,
+		"Lutsk (Ukrainian: \u041B\u0443\u0446\u044C\u043A, romanized: Luts'k, IPA: [luts\u02B2k]; Polish: \u0141uck [wutsk]; Yiddish: \u05DC\u05D5\u05E6\u05E7\u200E, romanized: Lutzk) is a city on the Styr River in northwestern Ukraine. It is the administrative center of the Volyn Oblast (province) and the administrative center of the surrounding Lutsk Raion (district) within the oblast, though it is not a part of the raion. Lutsk has the status of a city of oblast significance, equivalent to that of a raion. Population: 217,103\u2009(2015 est.)"@en ,
+		"Luck (ukrajinsky \u041B\u0443\u0446\u044C\u043A, Luc'k, polsky \u0141uck, rusky \u041B\u0443\u0446\u043A, latinsky Luceoria) je historick\u00E9 m\u011Bsto le\u017E\u00EDc\u00ED v z\u00E1padn\u00ED \u010D\u00E1sti Ukrajiny na historick\u00E9m \u00FAzem\u00ED Volyn\u011B. Je hlavn\u00EDm m\u011Bstem Voly\u0148sk\u00E9 oblasti a jedn\u00EDm z m\u00E1la rostouc\u00EDch ukrajinsk\u00FDch m\u011Bst; roku 2007 zde \u017Eilo 206 500 obyvatel, nyn\u00ED zde \u017Eije p\u0159ibli\u017En\u011B 217 tis\u00EDc obyvatel. Prvn\u00ED zm\u00EDnky jsou z roku 1085. Od 14. stolet\u00ED zde s\u00EDdl\u00ED biskupstv\u00ED. V Lutsku p\u016Fsob\u00ED krajansk\u00FD spolek Voly\u0148sk\u00FDch \u010Cech\u016F. Tak\u00E9 je zde dodnes provozov\u00E1n pivovar Zeman, kter\u00FD zalo\u017Eil \u010Cech V\u00E1clav Zeman, kter\u00FD p\u0159ijel na Voly\u0148 v roce 1869."@cs ,
+		"Loutsk (en ukrainien : \u041B\u0443\u0446\u044C\u043A ; en russe : \u041B\u0443\u0446\u043A ; en polonais : \u0141uck) est une ville d'Ukraine et la capitale administrative de l'oblast de Volhynie. Sa population s'\u00E9levait \u00E0 216 887 habitants en 2019."@fr ,
+		"\u041B\u0443\u0446\u043A (\u0443\u043A\u0440. \u041B\u0443\u0446\u044C\u043A) \u2014 \u0433\u043E\u0440\u043E\u0434 \u043D\u0430 \u0423\u043A\u0440\u0430\u0438\u043D\u0435, \u0430\u0434\u043C\u0438\u043D\u0438\u0441\u0442\u0440\u0430\u0442\u0438\u0432\u043D\u044B\u0439 \u0446\u0435\u043D\u0442\u0440 \u0412\u043E\u043B\u044B\u043D\u0441\u043A\u043E\u0439 \u043E\u0431\u043B\u0430\u0441\u0442\u0438. \u041E\u0434\u0438\u043D \u0438\u0437 \u0434\u0440\u0435\u0432\u043D\u0435\u0439\u0448\u0438\u0445 \u0433\u043E\u0440\u043E\u0434\u043E\u0432 \u0432\u0440\u0435\u043C\u0451\u043D \u0412\u043E\u043B\u044B\u043D\u0441\u043A\u043E\u0433\u043E \u043A\u043D\u044F\u0436\u0435\u0441\u0442\u0432\u0430 \u043D\u0430 \u0442\u0435\u0440\u0440\u0438\u0442\u043E\u0440\u0438\u0438 \u0417\u0430\u043F\u0430\u0434\u043D\u043E\u0439 \u0423\u043A\u0440\u0430\u0438\u043D\u044B. \u041F\u0435\u0440\u0432\u043E\u0435 \u043F\u0438\u0441\u044C\u043C\u0435\u043D\u043D\u043E\u0435 \u0443\u043F\u043E\u043C\u0438\u043D\u0430\u043D\u0438\u0435 \u0434\u0430\u0442\u0438\u0440\u0443\u0435\u0442\u0441\u044F 1085 \u0433\u043E\u0434\u043E\u043C."@ru ,
+		"Lutsk (en ucraniano, \u041B\u0443\u0446\u044C\u043A, en ruso, \u041B\u0443\u0446\u043A, en polaco, \u0141uck) es una ciudad de importancia regional de Ucrania, capital de la \u00F3blast de Volinia. Dentro de la \u00F3blast, es tambi\u00E9n centro administrativo del rai\u00F3n de Lutsk, aunque no pertenece al mismo. Es una de las ciudades m\u00E1s antiguas de Ucrania, ya que la primera menci\u00F3n data del a\u00F1o 1085. Con 216 270 habitantes, Lutsk es la ciudad m\u00E1s poblada del \u00F3blast y la vig\u00E9simo-quinta ciudad m\u00E1s poblada del pa\u00EDs."@es ,
+		"Lutsk (ukrainska \u041B\u0443\u0446\u044C\u043A, litauisk Luckas polska \u0141uck) \u00E4r en stad i v\u00E4stra Ukraina. Den \u00E4r administrativ huvudort f\u00F6r Volyn oblast och hade 213 063 inv\u00E5nare i b\u00F6rjan av 2012."@sv ,
+		"Lutsk (en ucra\u00EFn\u00E8s \u041B\u0443\u0446\u044C\u043A, en rus \u041B\u0443\u0446\u043A, en polon\u00E8s \u0141uck) \u00E9s el centre administratiu de l'\u00F3blast de Vol\u00EDnia, a Ucra\u00EFna. Situada a la riba del Stir, un afluent del Pr\u00EDpiat, t\u00E9 una poblaci\u00F3 estimada de 211.783 habitants (segons dades de 2011)."@ca ,
+		"Loetsk (Oekra\u00EFens: \u041B\u0443\u0446\u044C\u043A; Pools: '\u0141uck) is een stad in het noordwesten van Oekra\u00EFne, gelegen aan de rivier de Styr. Het is de hoofdstad van de oblast Wolyni\u00EB. Eind 2001 woonden er 208.816 mensen in de stad. De stad onderhoudt een stedenband met het Poolse Rzesz\u00F3w."@nl ,
+		"\u30EB\u30FC\u30C4\u30A3\u30AF\uFF08\u30A6\u30AF\u30E9\u30A4\u30CA\u8A9E: \u041B\u0443\u0446\u044C\u043A\uFF09\u306F\u30A6\u30AF\u30E9\u30A4\u30CA\u306E\u30F4\u30A9\u30EB\u30A3\u30FC\u30CB\u5DDE\u306B\u3042\u308B\u90FD\u5E02\u3002\u30F4\u30A9\u30EB\u30A3\u30FC\u30CB\u5DDE\u306E\u5DDE\u5E81\u6240\u5728\u5730\u3067\u3042\u308B\u3002\u30B9\u30C6\u30A3\u30FC\u30EB\u5DDD\u306E\u6CB3\u5CB8\u306B\u4F4D\u7F6E\u3059\u308B\u3002\u90FD\u5E02\u306E\u9AD8\u3055\u306F\u6D77\u629C181 m\u3067\u3042\u308B\u3002\u9762\u7A4D\u306F41.6 km\u00B2\u3002\u4EBA\u53E3\u306F211,964\u4EBA (2011\u5E748\u67081\u65E5)\u3001\u4EBA\u53E3\u5BC6\u5EA6\u306F5095.3 \u4EBA / km\u00B2\u3002 \u30EB\u30FC\u30C4\u30A3\u30AF\u306F1000\u5E74\u306B\u5275\u5EFA\u3055\u308C\u305F\u30021432\u5E74\u306B\u81EA\u6CBB\u6A29\u3092\u7372\u5F97\u3057\u305F\u30021085\u5E74\u306B\u5E02\u5236\u65BD\u884C\u3055\u308C\u305F\u3002 \u5E02\u5185\u3067\u306F\u30EB\u30FC\u30C4\u30A3\u30AF\u99C5\u304C\u3042\u308B\u3002\u9996\u90FD\u30AD\u30A8\u30D5\u307E\u3067\u306E\u76F4\u7DDA\u8DDD\u96E2\u306F370 km\u3067\u3042\u308B\u304C\u3001\u9244\u9053\u3067469 km\u3001\u8ECA\u9053\u3067388km\u3068\u306A\u3063\u3066\u3044\u308B\u3002\u30EB\u30FC\u30C4\u30A3\u30AF\u306E\u65E5\u306F\u30018\u6708\u306E\u7B2C\u4E09\u306E\u65E5\u66DC\u65E5\u3068\u306A\u3063\u3066\u3044\u308B\u3002"@ja ,
+		"Lucko (\u041B\u0443\u0446\u044C\u043A en ukraina lingvo; \u0141uck en pola lingvo) estas \u0109efurbo de Volina provinco en Ukrainio. La urbo situas borde de la rivero Stiro, kaj havas proksime 202 500 lo\u011Dantojn. \n* Koordinatoj: 50\u00B044\u2032N 25\u00B020\u2032O\uFEFF \uFEFF / \uFEFF \uFEFF50.733\u00B0N, 25.333\u00B0O  (mapo)"@eo ,
+		"Lutsk (ukraineraz: \u041B\u0443\u0446\u044C\u043A, Luts'k; : \u041B\u0443\u0446\u0430\u043A edo \u041B\u0443\u0446\u043A; polonieraz \u0141uck) mendebaldeko Ukrainako hiria, Voliniako oblasteko hiriburua dena."@eu ,
+		"\u0141uck (ukr. \u041B\u0443\u0446\u044C\u043A, \u0141u\u0107k) \u2013 miasto na Ukrainie, nad Styrem, siedziba administracyjna obwodu wo\u0142y\u0144skiego i rejonu \u0142uckiego. Liczy ok. 217 tys. mieszka\u0144c\u00F3w. Historyczna stolica Wo\u0142ynia."@pl ,
+		"\u041B\u0443\u0446\u044C\u043A, \u0434\u0430\u0432\u043D\u0456\u0448\u0435 \u041B\u0443\u0446\u044C\u043A\u0435 (\u043F\u043E\u043B. \u0141uck, \u043D\u0456\u043C. Luzk, \u043B\u0430\u0442.  Luceoria, \u0430\u043D\u0433\u043B. Lutsk) \u2014 \u043C\u0456\u0441\u0442\u043E \u0432 \u0423\u043A\u0440\u0430\u0457\u043D\u0456 \u043D\u0430\u0434 \u0440\u0456\u0447\u043A\u043E\u044E \u0421\u0442\u0438\u0440, \u043E\u0431\u043B\u0430\u0441\u043D\u0438\u0439 \u0446\u0435\u043D\u0442\u0440 \u0412\u043E\u043B\u0438\u043D\u0441\u044C\u043A\u043E\u0457 \u043E\u0431\u043B\u0430\u0441\u0442\u0456. \u041F\u043E\u043B\u0456\u0442\u0438\u0447\u043D\u0438\u0439, \u043A\u0443\u043B\u044C\u0442\u0443\u0440\u043D\u0438\u0439 \u0456 \u0440\u0435\u043B\u0456\u0433\u0456\u0439\u043D\u0438\u0439 \u0446\u0435\u043D\u0442\u0440 \u0412\u043E\u043B\u0438\u043D\u0456."@uk ,
+		"Luzk (ukrainisch \u041B\u0443\u0446\u044C\u043A; russisch \u041B\u0443\u0446\u043A, polnisch \u0141uck; historisch Lutschesk) ist eine Stadt in der nordwestlichen Ukraine. Die am Fluss Styr gelegene Gro\u00DFstadt mit \u00FCber 210.000 Einwohnern ist das Zentrum der Oblast Wolyn und Hauptstadt, aber nicht Bestandteil des gleichnamigen Rajons."@de ,
+		"Lutsk (Ucraniano: \u041B\u0443\u0446\u044C\u043A, em polaco: \u0141uck) \u00E9 uma cidade pr\u00F3xima ao rio  no noroeste da Ucr\u00E2nia. \u00C9 a capital da prov\u00EDncia de Volyn Oblast, assim como o centro administrativo de Lutsky Raion, distrito da prov\u00EDncia. Capital hist\u00F3rica da Vol\u00EDnia."@pt ;
+	rdfs:seeAlso	dbr:Ukraine ,
+		dbr:List_of_twin_towns ,
+		dbr:Sister_cities ;
+	foaf:name	"Lutsk"@en ;
+	foaf:homepage	<http://photoua.net> .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Lutsk	geo:lat	"50.75"^^xsd:float ;
+	geo:long	"25.335832595825195312"^^xsd:float ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/CollageLutsk.jpg> ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Lutsk .
+@prefix virtrdf:	<http://www.openlinksw.com/schemas/virtrdf#> .
+dbr:Lutsk	geo:geometry	"POINT(25.335832595825 50.75)"^^virtrdf:Geometry .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Lutsk	dct:subject	dbc:Lutsky_Uyezd ,
+		<http://dbpedia.org/resource/Category:Volhynian_Voivodeship_(1569\u20131795)> ,
+		dbc:Shtetls ,
+		dbc:Cities_of_regional_significance_in_Ukraine ,
+		dbc:Holocaust_locations_in_Ukraine ,
+		dbc:Oblast_centers_in_Ukraine ,
+		<http://dbpedia.org/resource/Category:Wo\u0142y\u0144_Voivodeship_(1921\u20131939)> ,
+		dbc:Lutsk ,
+		dbc:Cities_in_Volyn_Oblast ,
+		dbc:Magdeburg_rights ;
+	owl:sameAs	<http://os.dbpedia.org/resource/\u041B\u0443\u0446\u043A> ,
+		<http://sah.dbpedia.org/resource/\u041B\u0443\u0446\u043A\u0430\u0439> .
+@prefix dbpedia-sh:	<http://sh.dbpedia.org/resource/> .
+dbr:Lutsk	owl:sameAs	dbpedia-sh:Luck ,
+		<http://ceb.dbpedia.org/resource/Luts\u0027k> ,
+		<http://ar.dbpedia.org/resource/\u0644\u0648\u062A\u0633\u0643> .
+@prefix dbpedia-tr:	<http://tr.dbpedia.org/resource/> .
+dbr:Lutsk	owl:sameAs	dbpedia-tr:Lutsk .
+@prefix dbpedia-vi:	<http://vi.dbpedia.org/resource/> .
+dbr:Lutsk	owl:sameAs	dbpedia-vi:Lutsk ,
+		<http://d-nb.info/gnd/4450918-2> .
+@prefix dbpedia-sk:	<http://sk.dbpedia.org/resource/> .
+dbr:Lutsk	owl:sameAs	dbpedia-sk:Luck .
+@prefix dbpedia-la:	<http://la.dbpedia.org/resource/> .
+dbr:Lutsk	owl:sameAs	dbpedia-la:Luceoria .
+@prefix dbpedia-nn:	<http://nn.dbpedia.org/resource/> .
+dbr:Lutsk	owl:sameAs	dbpedia-nn:Lutsk ,
+		<http://viaf.org/viaf/134909633> .
+@prefix dbpedia-ca:	<http://ca.dbpedia.org/resource/> .
+dbr:Lutsk	owl:sameAs	dbpedia-ca:Lutsk .
+@prefix dbpedia-hsb:	<http://hsb.dbpedia.org/resource/> .
+dbr:Lutsk	owl:sameAs	dbpedia-hsb:Luck ,
+		<http://hy.dbpedia.org/resource/\u053C\u0578\u0582\u0581\u056F> .
+@prefix ns28:	<http://sco.dbpedia.org/resource/> .
+dbr:Lutsk	owl:sameAs	ns28:Lutsk ,
+		<http://fa.dbpedia.org/resource/\u0644\u0648\u062A\u0633\u06A9> ,
+		<http://pl.dbpedia.org/resource/\u0141uck> .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Lutsk	owl:sameAs	dbpedia-fr:Loutsk ,
+		<http://viaf.org/viaf/237437528> .
+@prefix dbpedia-et:	<http://et.dbpedia.org/resource/> .
+dbr:Lutsk	owl:sameAs	dbpedia-et:Lutsk ,
+		<http://ba.dbpedia.org/resource/\u041B\u0443\u0446\u043A> .
+@prefix dbpedia-af:	<http://af.dbpedia.org/resource/> .
+dbr:Lutsk	owl:sameAs	dbpedia-af:Loetsk .
+@prefix lgdt:	<http://linkedgeodata.org/triplify/> .
+dbr:Lutsk	owl:sameAs	lgdt:node146570870 ,
+		<http://sws.geonames.org/702569> ,
+		<http://ce.dbpedia.org/resource/\u041B\u0443\u0446\u043A> .
+@prefix ns33:	<http://uz.dbpedia.org/resource/> .
+dbr:Lutsk	owl:sameAs	ns33:Lutsk ,
+		<http://ka.dbpedia.org/resource/\u10DA\u10E3\u10EA\u10D9\u10D8> ,
+		<http://ky.dbpedia.org/resource/\u041B\u0443\u0446\u043A> .
+@prefix dbpedia-eo:	<http://eo.dbpedia.org/resource/> .
+dbr:Lutsk	owl:sameAs	dbpedia-eo:Lucko ,
+		<http://tt.dbpedia.org/resource/\u041B\u0443\u0446\u043A> .
+@prefix dbpedia-sv:	<http://sv.dbpedia.org/resource/> .
+dbr:Lutsk	owl:sameAs	dbpedia-sv:Lutsk .
+@prefix ns36:	<http://lt.dbpedia.org/resource/> .
+dbr:Lutsk	owl:sameAs	ns36:Luckas .
+@prefix ns37:	<http://d-nb.info/gnd/4450918-2/about/> .
+dbr:Lutsk	owl:sameAs	ns37:rdf ,
+		<http://d-nb.info/gnd/5091355-4> ,
+		<https://global.dbpedia.org/id/4uKpW> .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Lutsk	owl:sameAs	yago-res:Lutsk ,
+		<http://ru.dbpedia.org/resource/\u041B\u0443\u0446\u043A> ,
+		<http://yi.dbpedia.org/resource/\u05DC\u05D5\u05E6\u05E7> .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Lutsk	owl:sameAs	dbpedia-de:Luzk .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Lutsk	owl:sameAs	dbpedia-pt:Lutsk ,
+		<http://he.dbpedia.org/resource/\u05DC\u05D5\u05E6\u05E7> .
+@prefix dbpedia-no:	<http://no.dbpedia.org/resource/> .
+dbr:Lutsk	owl:sameAs	dbpedia-no:Lutsk .
+@prefix dbpedia-eu:	<http://eu.dbpedia.org/resource/> .
+dbr:Lutsk	owl:sameAs	dbpedia-eu:Lutsk .
+@prefix dbpedia-az:	<http://az.dbpedia.org/resource/> .
+dbr:Lutsk	owl:sameAs	dbpedia-az:Lutsk ,
+		<http://zh.dbpedia.org/resource/\u76E7\u8328\u514B> ,
+		<http://cv.dbpedia.org/resource/\u041B\u0443\u0446\u043A> ,
+		<http://be.dbpedia.org/resource/\u041B\u0443\u0446\u043A> .
+@prefix ns44:	<http://lv.dbpedia.org/resource/> .
+dbr:Lutsk	owl:sameAs	ns44:Lucka ,
+		dbr:Lutsk .
+@prefix dbpedia-gl:	<http://gl.dbpedia.org/resource/> .
+dbr:Lutsk	owl:sameAs	dbpedia-gl:Lutsk ,
+		wikidata:Q7550 .
+@prefix ns46:	<http://musicbrainz.org/area/> .
+dbr:Lutsk	owl:sameAs	ns46:f0db2094-ffe1-4c1d-b352-ffc2171ccd41 .
+@prefix dbpedia-sq:	<http://sq.dbpedia.org/resource/> .
+dbr:Lutsk	owl:sameAs	dbpedia-sq:Lucku ,
+		<http://d-nb.info/gnd/260949-6> ,
+		<http://commons.dbpedia.org/resource/\u041B\u0443\u0446\u044C\u043A> ,
+		<http://bg.dbpedia.org/resource/\u041B\u0443\u0446\u043A> ,
+		<http://it.dbpedia.org/resource/Luc\u0027k> ,
+		<http://ja.dbpedia.org/resource/\u30EB\u30FC\u30C4\u30A3\u30AF> .
+@prefix ns48:	<http://ast.dbpedia.org/resource/> .
+dbr:Lutsk	owl:sameAs	ns48:Lutsk .
+@prefix dbpedia-ms:	<http://ms.dbpedia.org/resource/> .
+dbr:Lutsk	owl:sameAs	dbpedia-ms:Lutsk .
+@prefix dbpedia-da:	<http://da.dbpedia.org/resource/> .
+dbr:Lutsk	owl:sameAs	dbpedia-da:Lutsk .
+@prefix dbpedia-cs:	<http://cs.dbpedia.org/resource/> .
+dbr:Lutsk	owl:sameAs	dbpedia-cs:Luck ,
+		<http://uk.dbpedia.org/resource/\u041B\u0443\u0446\u044C\u043A> ,
+		<http://sr.dbpedia.org/resource/\u041B\u0443\u0446\u043A> ,
+		<http://rdf.freebase.com/ns/m.02jz3q> .
+@prefix dbpedia-hr:	<http://hr.dbpedia.org/resource/> .
+dbr:Lutsk	owl:sameAs	dbpedia-hr:Luck ,
+		<http://mn.dbpedia.org/resource/\u041B\u0443\u0446\u043A> ,
+		<http://sws.geonames.org/702569/> .
+@prefix dbpedia-id:	<http://id.dbpedia.org/resource/> .
+dbr:Lutsk	owl:sameAs	dbpedia-id:Lutsk ,
+		<http://mk.dbpedia.org/resource/\u041B\u0443\u0446\u043A> .
+@prefix dbpedia-hu:	<http://hu.dbpedia.org/resource/> .
+dbr:Lutsk	owl:sameAs	dbpedia-hu:Luck ,
+		<http://ko.dbpedia.org/resource/\uB8E8\uCE20\uD06C> .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:Lutsk	owl:sameAs	dbpedia-es:Lutsk .
+@prefix dbpedia-war:	<http://war.dbpedia.org/resource/> .
+dbr:Lutsk	owl:sameAs	dbpedia-war:Lutsk .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Lutsk	owl:sameAs	dbpedia-nl:Loetsk ,
+		<http://ro.dbpedia.org/resource/Lu\u021Bk> .
+@prefix georss:	<http://www.georss.org/georss/> .
+dbr:Lutsk	georss:point	"50.75 25.335833333333333" ;
+	dbo:abstract	"Luzk (ukrainisch \u041B\u0443\u0446\u044C\u043A; russisch \u041B\u0443\u0446\u043A, polnisch \u0141uck; historisch Lutschesk) ist eine Stadt in der nordwestlichen Ukraine. Die am Fluss Styr gelegene Gro\u00DFstadt mit \u00FCber 210.000 Einwohnern ist das Zentrum der Oblast Wolyn und Hauptstadt, aber nicht Bestandteil des gleichnamigen Rajons."@de ,
+		"Luck (ukrajinsky \u041B\u0443\u0446\u044C\u043A, Luc'k, polsky \u0141uck, rusky \u041B\u0443\u0446\u043A, latinsky Luceoria) je historick\u00E9 m\u011Bsto le\u017E\u00EDc\u00ED v z\u00E1padn\u00ED \u010D\u00E1sti Ukrajiny na historick\u00E9m \u00FAzem\u00ED Volyn\u011B. Je hlavn\u00EDm m\u011Bstem Voly\u0148sk\u00E9 oblasti a jedn\u00EDm z m\u00E1la rostouc\u00EDch ukrajinsk\u00FDch m\u011Bst; roku 2007 zde \u017Eilo 206 500 obyvatel, nyn\u00ED zde \u017Eije p\u0159ibli\u017En\u011B 217 tis\u00EDc obyvatel. Prvn\u00ED zm\u00EDnky jsou z roku 1085. Od 14. stolet\u00ED zde s\u00EDdl\u00ED biskupstv\u00ED. V Lutsku p\u016Fsob\u00ED krajansk\u00FD spolek Voly\u0148sk\u00FDch \u010Cech\u016F. Tak\u00E9 je zde dodnes provozov\u00E1n pivovar Zeman, kter\u00FD zalo\u017Eil \u010Cech V\u00E1clav Zeman, kter\u00FD p\u0159ijel na Voly\u0148 v roce 1869."@cs ,
+		"Lutsk ialah kota di Ukraina. Merupakan pusat administrasi  dan memiliki 200.000 penduduk (2004). \n* Lubart's Castle"@in ,
+		"Lutsk (en ucraniano, \u041B\u0443\u0446\u044C\u043A, en ruso, \u041B\u0443\u0446\u043A, en polaco, \u0141uck) es una ciudad de importancia regional de Ucrania, capital de la \u00F3blast de Volinia. Dentro de la \u00F3blast, es tambi\u00E9n centro administrativo del rai\u00F3n de Lutsk, aunque no pertenece al mismo. Es una de las ciudades m\u00E1s antiguas de Ucrania, ya que la primera menci\u00F3n data del a\u00F1o 1085. Con 216 270 habitantes, Lutsk es la ciudad m\u00E1s poblada del \u00F3blast y la vig\u00E9simo-quinta ciudad m\u00E1s poblada del pa\u00EDs."@es ,
+		"\u0644\u0648\u062A\u0633\u0643 (\u0628\u0627\u0644\u0623\u0648\u0643\u0631\u0627\u0646\u064A\u0629 \u041B\u0443\u0446\u044C\u043A)\u060C (\u0628\u0627\u0644\u0628\u0648\u0644\u0646\u062F\u064A\u0629 \u0141uck)\u060C (\u0628\u0627\u0644\u0628\u064A\u0644\u0627\u0631\u0648\u0633\u064A\u0629: \u041B\u0443\u0446\u0430\u043A \u0623\u0648 \u041B\u0443\u0446\u043A)\u060C \u0628\u0627\u0644\u064A\u062F\u064A\u0634\u064A\u0629: \u05DC\u05D5\u05E6\u05E7): \u0647\u064A \u0645\u062F\u064A\u0646\u0629 \u062A\u0642\u0639 \u0639\u0644\u0649 \u0646\u0647\u0631 \u0633\u062A\u064A\u0631 \u0641\u064A \u0634\u0645\u0627\u0644 \u063A\u0631\u0628 \u0623\u0648\u0643\u0631\u0627\u0646\u064A\u0627. \u0648\u0647\u064A \u0639\u0627\u0635\u0645\u0629 \u0645\u0642\u0627\u0637\u0639\u0629 \u0641\u0648\u0644\u064A\u0646 \u0623\u0648\u0628\u0644\u0627\u0633\u062A\u060C \u0639\u0644\u0649 \u0627\u0644\u0631\u063A\u0645 \u0645\u0646 \u0623\u0646\u0647\u0627 \u0644\u064A\u0633\u062A \u062C\u0632\u0621\u0627 \u0645\u0646 \u0631\u0627\u064A\u0648\u0646 \u0625\u0644\u0627 \u0627\u0646\u0647\u0627 \u062A\u062A\u0645\u062A\u0639 \u0628\u0645\u0631\u0643\u0632 \u0630\u0627\u062A \u0623\u0647\u0645\u064A\u0629 \u0623\u0648\u0628\u0644\u0627\u0633\u062A\u060C \u0623\u064A \u0645\u0627 \u064A\u0639\u0627\u062F\u0644 \u0630\u0644\u0643 \u0645\u0646 \u0631\u0627\u064A\u0648\u0646. \u0639\u062F\u062F \u0633\u0643\u0627\u0646\u0647\u0627 \u064A\u0628\u0644\u063A 214727 ( \u0627\u062D\u0635\u0627\u0626\u064A\u0629 \u0639\u0627\u0645 2013) ."@ar ,
+		"Lutsk (ukrainska \u041B\u0443\u0446\u044C\u043A, litauisk Luckas polska \u0141uck) \u00E4r en stad i v\u00E4stra Ukraina. Den \u00E4r administrativ huvudort f\u00F6r Volyn oblast och hade 213 063 inv\u00E5nare i b\u00F6rjan av 2012."@sv ,
+		"Lucko (\u041B\u0443\u0446\u044C\u043A en ukraina lingvo; \u0141uck en pola lingvo) estas \u0109efurbo de Volina provinco en Ukrainio. La urbo situas borde de la rivero Stiro, kaj havas proksime 202 500 lo\u011Dantojn. \n* Koordinatoj: 50\u00B044\u2032N 25\u00B020\u2032O\uFEFF \uFEFF / \uFEFF \uFEFF50.733\u00B0N, 25.333\u00B0O  (mapo)"@eo ,
+		"Loutsk (en ukrainien : \u041B\u0443\u0446\u044C\u043A ; en russe : \u041B\u0443\u0446\u043A ; en polonais : \u0141uck) est une ville d'Ukraine et la capitale administrative de l'oblast de Volhynie. Sa population s'\u00E9levait \u00E0 216 887 habitants en 2019."@fr ,
+		"\u041B\u0443\u0446\u044C\u043A, \u0434\u0430\u0432\u043D\u0456\u0448\u0435 \u041B\u0443\u0446\u044C\u043A\u0435 (\u043F\u043E\u043B. \u0141uck, \u043D\u0456\u043C. Luzk, \u043B\u0430\u0442.  Luceoria, \u0430\u043D\u0433\u043B. Lutsk) \u2014 \u043C\u0456\u0441\u0442\u043E \u0432 \u0423\u043A\u0440\u0430\u0457\u043D\u0456 \u043D\u0430\u0434 \u0440\u0456\u0447\u043A\u043E\u044E \u0421\u0442\u0438\u0440, \u043E\u0431\u043B\u0430\u0441\u043D\u0438\u0439 \u0446\u0435\u043D\u0442\u0440 \u0412\u043E\u043B\u0438\u043D\u0441\u044C\u043A\u043E\u0457 \u043E\u0431\u043B\u0430\u0441\u0442\u0456. \u041F\u043E\u043B\u0456\u0442\u0438\u0447\u043D\u0438\u0439, \u043A\u0443\u043B\u044C\u0442\u0443\u0440\u043D\u0438\u0439 \u0456 \u0440\u0435\u043B\u0456\u0433\u0456\u0439\u043D\u0438\u0439 \u0446\u0435\u043D\u0442\u0440 \u0412\u043E\u043B\u0438\u043D\u0456."@uk ,
+		"Luc'k (in ucraino: \u041B\u0443\u0446\u044C\u043A?) \u00E8 una citt\u00E0 dell'Ucraina nordoccidentale, capoluogo dell'Oblast' di Volinia. \u00C8 una delle citt\u00E0 pi\u00F9 antiche di questo paese. Il primo riferimento scritto su questa citt\u00E0 risale al 1085. Tra il 1921 e il 1939 \u00E8 stata, con il nome polacco di \u0141uck, la capitale del Voivodato di Volinia nella Seconda Repubblica di Polonia."@it ,
+		"\u30EB\u30FC\u30C4\u30A3\u30AF\uFF08\u30A6\u30AF\u30E9\u30A4\u30CA\u8A9E: \u041B\u0443\u0446\u044C\u043A\uFF09\u306F\u30A6\u30AF\u30E9\u30A4\u30CA\u306E\u30F4\u30A9\u30EB\u30A3\u30FC\u30CB\u5DDE\u306B\u3042\u308B\u90FD\u5E02\u3002\u30F4\u30A9\u30EB\u30A3\u30FC\u30CB\u5DDE\u306E\u5DDE\u5E81\u6240\u5728\u5730\u3067\u3042\u308B\u3002\u30B9\u30C6\u30A3\u30FC\u30EB\u5DDD\u306E\u6CB3\u5CB8\u306B\u4F4D\u7F6E\u3059\u308B\u3002\u90FD\u5E02\u306E\u9AD8\u3055\u306F\u6D77\u629C181 m\u3067\u3042\u308B\u3002\u9762\u7A4D\u306F41.6 km\u00B2\u3002\u4EBA\u53E3\u306F211,964\u4EBA (2011\u5E748\u67081\u65E5)\u3001\u4EBA\u53E3\u5BC6\u5EA6\u306F5095.3 \u4EBA / km\u00B2\u3002 \u30EB\u30FC\u30C4\u30A3\u30AF\u306F1000\u5E74\u306B\u5275\u5EFA\u3055\u308C\u305F\u30021432\u5E74\u306B\u81EA\u6CBB\u6A29\u3092\u7372\u5F97\u3057\u305F\u30021085\u5E74\u306B\u5E02\u5236\u65BD\u884C\u3055\u308C\u305F\u3002 \u5E02\u5185\u3067\u306F\u30EB\u30FC\u30C4\u30A3\u30AF\u99C5\u304C\u3042\u308B\u3002\u9996\u90FD\u30AD\u30A8\u30D5\u307E\u3067\u306E\u76F4\u7DDA\u8DDD\u96E2\u306F370 km\u3067\u3042\u308B\u304C\u3001\u9244\u9053\u3067469 km\u3001\u8ECA\u9053\u3067388km\u3068\u306A\u3063\u3066\u3044\u308B\u3002\u30EB\u30FC\u30C4\u30A3\u30AF\u306E\u65E5\u306F\u30018\u6708\u306E\u7B2C\u4E09\u306E\u65E5\u66DC\u65E5\u3068\u306A\u3063\u3066\u3044\u308B\u3002"@ja ,
+		"\uB8E8\uCE20\uD06C(\uC6B0\uD06C\uB77C\uC774\uB098\uC5B4: \u041B\u0443\u0446\u044C\u043A)\uB294 \uC6B0\uD06C\uB77C\uC774\uB098 \uBD81\uC11C\uBD80\uC5D0 \uC704\uCE58\uD55C \uB3C4\uC2DC\uB85C \uBCFC\uB9B0\uC8FC\uC758 \uC8FC\uB3C4\uC774\uBA70 \uBA74\uC801\uC740 42.0km2, \uB192\uC774\uB294 174m, \uC778\uAD6C\uB294 202,900\uBA85(2005\uB144 \uAE30\uC900), \uC778\uAD6C\uBC00\uB3C4\uB294 4,830\uBA85/km2\uC774\uB2E4. 1085\uB144 \uC2E0\uC124\uB418\uC5C8\uC73C\uBA70 1432\uB144 \uC790\uCE58\uAD8C\uC744 \uBD80\uC5EC\uBC1B\uC558\uB2E4. \n* \uAE30 \n* \uBB38\uC7A5"@ko ,
+		"Loetsk (Oekra\u00EFens: \u041B\u0443\u0446\u044C\u043A; Pools: '\u0141uck) is een stad in het noordwesten van Oekra\u00EFne, gelegen aan de rivier de Styr. Het is de hoofdstad van de oblast Wolyni\u00EB. Eind 2001 woonden er 208.816 mensen in de stad. De stad onderhoudt een stedenband met het Poolse Rzesz\u00F3w."@nl ,
+		"Lutsk (ukraineraz: \u041B\u0443\u0446\u044C\u043A, Luts'k; : \u041B\u0443\u0446\u0430\u043A edo \u041B\u0443\u0446\u043A; polonieraz \u0141uck) mendebaldeko Ukrainako hiria, Voliniako oblasteko hiriburua dena."@eu ,
+		"Lutsk (Ucraniano: \u041B\u0443\u0446\u044C\u043A, em polaco: \u0141uck) \u00E9 uma cidade pr\u00F3xima ao rio  no noroeste da Ucr\u00E2nia. \u00C9 a capital da prov\u00EDncia de Volyn Oblast, assim como o centro administrativo de Lutsky Raion, distrito da prov\u00EDncia. Capital hist\u00F3rica da Vol\u00EDnia."@pt ,
+		"\u76E7\u8328\u514B\uFF08\u70CF\u514B\u862D\u8A9E\uFF1A\u041B\u0443\u0446\u044C\u043A, translit. Luts'k, \u6CE2\u862D\u8A9E\uFF1A\u0141uck, \u767D\u4FC4\u7F85\u65AF\u8A9E\uFF1A\u041B\u0443\u0446\u0430\u043A or \u041B\u0443\u0446\u043A, transliterated Lutchak or Lutsk\uFF09\u662F\u4F4D\u65BC\u70CF\u514B\u862D\u897F\u5317\u90E8\u65AF\u7279\u91CC\u6CB3\u7554\u7684\u4E00\u500B\u57CE\u5E02\u3002\u76E7\u8328\u514B\u662F\u6C83\u502B\u5DDE\u7684\u9996\u5E9C\u6240\u5728\u5730\u30022007\u5E74\u4EBA\u53E3\u6709206,000\u4EBA\u3002\u76E7\u8328\u514B\u5728\u6B77\u53F2\u4E0A\u66FE\u7531\u6CE2\u862D\u7D71\u6CBB\uFF0C\u76EE\u524D\u6CE2\u862D\u4E5F\u5728\u76E7\u8328\u514B\u8A2D\u6709\u9818\u4E8B\u9928\u3002"@zh ,
+		"Lutsk (Ukrainian: \u041B\u0443\u0446\u044C\u043A, romanized: Luts'k, IPA: [luts\u02B2k]; Polish: \u0141uck [wutsk]; Yiddish: \u05DC\u05D5\u05E6\u05E7\u200E, romanized: Lutzk) is a city on the Styr River in northwestern Ukraine. It is the administrative center of the Volyn Oblast (province) and the administrative center of the surrounding Lutsk Raion (district) within the oblast, though it is not a part of the raion. Lutsk has the status of a city of oblast significance, equivalent to that of a raion. Population: 217,103\u2009(2015 est.)"@en ,
+		"Lutsk (en ucra\u00EFn\u00E8s \u041B\u0443\u0446\u044C\u043A, en rus \u041B\u0443\u0446\u043A, en polon\u00E8s \u0141uck) \u00E9s el centre administratiu de l'\u00F3blast de Vol\u00EDnia, a Ucra\u00EFna. Situada a la riba del Stir, un afluent del Pr\u00EDpiat, t\u00E9 una poblaci\u00F3 estimada de 211.783 habitants (segons dades de 2011)."@ca ,
+		"\u0141uck (ukr. \u041B\u0443\u0446\u044C\u043A, \u0141u\u0107k) \u2013 miasto na Ukrainie, nad Styrem, siedziba administracyjna obwodu wo\u0142y\u0144skiego i rejonu \u0142uckiego. Liczy ok. 217 tys. mieszka\u0144c\u00F3w. Historyczna stolica Wo\u0142ynia."@pl ,
+		"\u041B\u0443\u0446\u043A (\u0443\u043A\u0440. \u041B\u0443\u0446\u044C\u043A) \u2014 \u0433\u043E\u0440\u043E\u0434 \u043D\u0430 \u0423\u043A\u0440\u0430\u0438\u043D\u0435, \u0430\u0434\u043C\u0438\u043D\u0438\u0441\u0442\u0440\u0430\u0442\u0438\u0432\u043D\u044B\u0439 \u0446\u0435\u043D\u0442\u0440 \u0412\u043E\u043B\u044B\u043D\u0441\u043A\u043E\u0439 \u043E\u0431\u043B\u0430\u0441\u0442\u0438. \u041E\u0434\u0438\u043D \u0438\u0437 \u0434\u0440\u0435\u0432\u043D\u0435\u0439\u0448\u0438\u0445 \u0433\u043E\u0440\u043E\u0434\u043E\u0432 \u0432\u0440\u0435\u043C\u0451\u043D \u0412\u043E\u043B\u044B\u043D\u0441\u043A\u043E\u0433\u043E \u043A\u043D\u044F\u0436\u0435\u0441\u0442\u0432\u0430 \u043D\u0430 \u0442\u0435\u0440\u0440\u0438\u0442\u043E\u0440\u0438\u0438 \u0417\u0430\u043F\u0430\u0434\u043D\u043E\u0439 \u0423\u043A\u0440\u0430\u0438\u043D\u044B. \u041F\u0435\u0440\u0432\u043E\u0435 \u043F\u0438\u0441\u044C\u043C\u0435\u043D\u043D\u043E\u0435 \u0443\u043F\u043E\u043C\u0438\u043D\u0430\u043D\u0438\u0435 \u0434\u0430\u0442\u0438\u0440\u0443\u0435\u0442\u0441\u044F 1085 \u0433\u043E\u0434\u043E\u043C."@ru ;
+	dbo:country	dbr:Ukraine ;
+	dbp:leaderTitle	dbr:Mayor ;
+	dbp:establishedDate	1432 ,
+		1085 ;
+	dbo:populationDensity	4830.0 ;
+	dbp:aprMeanC	8 ;
+	dbp:aprPrecipitationMm	39 ;
+	dbp:augMeanC	17.399999999999998579 ;
+	dbp:augPrecipitationMm	61 ;
+	dbp:commons	"y"@en ;
+	dbp:decMeanC	-2.2000000000000001776 ;
+	dbp:decPrecipitationMm	38 ;
+	dbp:febMeanC	-3.5 ;
+	dbp:febPrecipitationMm	30 ;
+	dbp:imageShield	"Herb Lutsk.svg"@en ;
+	dbp:janMeanC	-4.9000000000000003553 ;
+	dbp:janPrecipitationMm	31 ;
+	dbp:julMeanC	18 ;
+	dbp:julPrecipitationMm	76 ;
+	dbp:junMeanC	16.800000000000000711 ;
+	dbp:junPrecipitationMm	68 ;
+	dbp:marMeanC	1 ;
+	dbp:marPrecipitationMm	27 ;
+	dbp:mayMeanC	13.800000000000000711 ;
+	dbp:mayPrecipitationMm	60 ;
+	dbp:metricFirst	"yes"@en ;
+	dbp:novMeanC	2.5 ;
+	dbp:novPrecipitationMm	36 ;
+	dbp:octMeanC	7.9000000000000003553 ;
+	dbp:octPrecipitationMm	37 ;
+	dbp:precipitationColour	"green"@en ;
+	dbp:sepMeanC	13.300000000000000711 ;
+	dbp:sepPrecipitationMm	56 ;
+	dbp:singleLine	"yes"@en ;
+	dbp:source	"NOAA"@en ;
+	dbp:timezoneDst	dbr:Eastern_European_Summer_Time ;
+	dbp:utcOffsetDst	"+3"@en ;
+	dbp:wikt	"y"@en ;
+	dbp:yearPrecipitationMm	559 ;
+	dbp:mapsize	250 ;
+	dbo:politicalLeader	dbr:Lutsk__PoliticalFunction__1 ;
+	dbp:nativeName	""@en .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Lutsk	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Lutsk?oldid=982832371&ns=0> ;
+	dbp:commonsSearch	"\u041B\u0443\u0446\u044C\u043A"@en ;
+	dbp:location	"Lutsk"@en ;
+	dbo:type	<http://dbpedia.org/resource/City_of_regional_significance_(Ukraine)> ;
+	dbp:blank1Name	dbr:Sister_city ;
+	dbp:establishedTitle	dbr:Magdeburg_rights ,
+		"Founded"@en ;
+	dbp:areaCode	"+380 332"@en ;
+	dbp:areaTotalKm	42 ;
+	dbp:elevationM	174 ;
+	dbp:imagesize	250 ;
+	dbp:populationAsOf	2015 ;
+	dbp:postalCode	43000 ;
+	dbp:postalCodeType	dbr:Postal_code ;
+	dbp:pushpinMap	"Ukraine Volyn Oblast#Ukraine"@en ;
+	dbp:pushpinMapCaption	"Location of Lutsk"@en ;
+	dbp:settlementType	<http://dbpedia.org/resource/City_of_regional_significance_(Ukraine)> ;
+	dbp:subdivisionName	"Lutsk"@en ;
+	dbp:utcOffset	"+2"@en ;
+	dbo:areaCode	"+380 332" ;
+	dbo:postalCode	"43000" ;
+	dbo:utcOffset	"+3" ,
+		"+2" ;
+	dbo:timeZone	dbr:Eastern_European_Summer_Time ,
+		dbr:Eastern_European_Time .
+@prefix ns60:	<http://dbpedia.org/datatype/> .
+@prefix ns61:	<http://dbpedia.org/ontology/PopulatedPlace/> .
+dbr:Lutsk	ns61:areaTotal	"42.0"^^ns60:squareKilometre ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/CollageLutsk.jpg?width=300> ;
+	dbp:s	"y"@en ;
+	dbo:wikiPageExternalLink	<http://www.bfcollection.net/cities/ukraine/lutsk/lutsk.html> ,
+		<https://web.archive.org/web/20060208161435/http:/welcome.lutsk.ua/> ,
+		<https://www.visitlutsk.com/> ,
+		<http://luchesk.blogspot.com/> ,
+		<http://www.bjbark.com/lutsk,_ukraine.htm> ,
+		<http://photoua.net/show_en.php%3Fcur_cat_id=91&size=litle> ;
+	dbp:imageFlag	"Prapor Lutsk.svg"@en ;
+	dbp:voy	"y"@en ;
+	dbp:officialName	"Lutsk"@en ;
+	dbp:yearMeanC	7.2999999999999998224 ;
+	dbp:sSearch	"Collier's New Encyclopedia /Lutzk"@en ;
+	dbp:portal	"Europe"@en ,
+		"Ukraine"@en ,
+		"Geography"@en ;
+	dbo:elevation	174.0 ;
+	dbo:areaTotal	42000000.0 ;
+	dbp:subdivisionType	dbr:List_of_sovereign_states ,
+		<http://dbpedia.org/resource/City_of_regional_significance_(Ukraine)> ,
+		dbr:Oblasts_of_Ukraine ;
+	dbp:populationDensityKm	4830 ;
+	dbo:subdivision	dbr:Volyn_Oblast ;
+	dbo:populationTotal	"217103"^^xsd:nonNegativeInteger ;
+	dbp:mapCaption	"Map of Ukraine with Lutsk highlighted."@en ;
+	dbp:blank1Info	dbr:Lublin ;
+	dbp:populationTotal	217103 ;
+	ns61:populationDensity	"4830.0"^^ns60:inhabitantsPerSquareKilometre ;
+	dbp:timezone	dbr:Eastern_European_Time ;
+	dbp:otherName	""@en ;
+	dbo:wikiPageID	510151 ;
+	dbo:wikiPageRevisionID	982832371 ;
+	dbo:wikiPageWikiLink	dbr:Magdeburg_rights ,
+		dbr:Ukrainian_Insurgent_Army ,
+		dbr:Volodymyr_Zelensky ,
+		dbr:Mordecai_Sultansky ,
+		dbr:Jews ,
+		dbc:Magdeburg_rights ,
+		dbr:LuAZ ,
+		<http://dbpedia.org/resource/Category:Wo\u0142y\u0144_Voivodeship_(1921\u20131939)> ,
+		dbr:Luftwaffe ,
+		dbr:Anatoliy_Tymoshchuk ,
+		dbr:Eastern_European_Time ,
+		<http://dbpedia.org/resource/Polish\u2013Soviet_War> ,
+		dbr:Warehouse ,
+		<http://dbpedia.org/resource/Lutheran_Church,_Lutsk> ,
+		dbr:Styr ,
+		dbr:Humid_continental_climate ,
+		<http://dbpedia.org/resource/Svetlana_Zakharova_(dancer)> ,
+		dbr:Raion ,
+		<http://dbpedia.org/resource/City_of_regional_significance_(Ukraine)> ,
+		dbr:Invasion_of_Poland ,
+		dbr:World_War_I ,
+		<http://dbpedia.org/resource/Molotov\u2013Ribbentrop_Pact> ,
+		<http://dbpedia.org/resource/File:Lutsk_castle_tower.jpg> ,
+		dbr:Livonian_Order ,
+		<http://dbpedia.org/resource/Rzesz\u00F3w> ,
+		dbr:VGP_JSC ,
+		dbr:Oblast ,
+		<http://dbpedia.org/resource/Band\u0131rma> ,
+		dbr:Liubartas ,
+		dbr:Crowd_control_barrier ,
+		dbr:Cistercians ,
+		dbc:Cities_of_regional_significance_in_Ukraine ,
+		<http://dbpedia.org/resource/File:\u041B\u0443\u0446\u044C\u043A\u041A\u0440\u0430\u0454\u0437\u043D\u0430\u0432\u0447\u0438\u0439.jpg> ,
+		dbr:Hypatian_Codex ,
+		<http://dbpedia.org/resource/File:\u0141uck_-_ko\u015Bci\u00F3\u0142_2008.jpg> ,
+		<http://dbpedia.org/resource/File:\u041B\u0443\u0446\u044C\u043A\u0411\u0440\u0413\u043E\u043B2.jpg> ,
+		<http://dbpedia.org/resource/File:\u041B\u0443\u0446\u044C\u043A\u041A\u0456\u0440\u0445\u0430\u0421\u043A.jpg> ,
+		dbr:Shelving ,
+		dbr:Kyjov ,
+		dbr:Dan_II_of_Wallachia ,
+		dbc:Lutsky_Uyezd ,
+		dbr:Kaunas ,
+		dbr:Zisse_von_Rutenberg ,
+		<http://dbpedia.org/resource/File:Lutsk_sobor.jpg> ,
+		<http://dbpedia.org/resource/Bug_(river)> ,
+		dbr:Denmark ,
+		dbc:Cities_in_Volyn_Oblast ,
+		dbr:Prix_Goncourt ,
+		dbr:Szczecin ,
+		dbr:Ukrainian_Soviet_Socialist_Republic ,
+		dbr:Xiangtan ,
+		<http://dbpedia.org/resource/Lubart\u0027s_Castle> ,
+		dbr:Sister_city ,
+		dbr:Shmuel_Shilo ,
+		dbr:History_of_Jews_in_Poland ,
+		dbr:Massacres_of_Poles_in_Volhynia_and_Eastern_Galicia ,
+		<http://dbpedia.org/resource/Zamo\u015B\u0107> ,
+		<http://dbpedia.org/resource/Kingdom_of_Galicia\u2013Volhynia> ,
+		dbr:SKF ,
+		<http://dbpedia.org/resource/Holy_Trinity_Orthodox_Cathedral,_Lutsk> ,
+		<http://dbpedia.org/resource/Boles\u0142aw_Kontrym> ,
+		dbr:Ukraine ,
+		<http://dbpedia.org/resource/Volhynian_Voivodeship_(1569\u20131795)> ,
+		dbr:Leo_II_of_Galicia ,
+		dbr:Crimean_Karaites ,
+		dbr:Refrigeration ,
+		dbr:Polish_language ,
+		<http://dbpedia.org/resource/File:\u041B\u0443\u0446\u044C\u043A\u0421\u0438\u043D\u0430\u0433\u043E\u0433\u0430\u0413\u043E\u043B.jpg> ,
+		dbr:Lutsk_hostage_crisis ,
+		dbr:Dominican_Order ,
+		dbr:Modern-Expo ,
+		dbr:Polish_Land_Forces ,
+		dbr:Battle_of_Lutsk ,
+		dbr:Kazakhstan ,
+		dbr:Zalman_Sorotzkin ,
+		dbr:November_Uprising ,
+		dbr:Retail ,
+		dbr:Congress_of_Lutsk ,
+		dbr:Dulebes ,
+		<http://dbpedia.org/resource/Blue_Army_(Poland)> ,
+		dbr:Oksana_Zabuzhko ,
+		dbr:Christianity ,
+		dbr:Volyn_Oblast ,
+		<http://dbpedia.org/resource/The_Kindly_Ones_(Littell_novel)> ,
+		dbr:Ukrainian_language ,
+		dbr:Anzhelika_Savrayuk ,
+		dbr:Warsaw ,
+		<http://dbpedia.org/resource/National_Defense_(Poland)> ,
+		dbr:NKVD_prisoner_massacres ,
+		<http://dbpedia.org/resource/Slovakia_men\u0027s_national_ice_hockey_team> ,
+		dbr:Olsztyn ,
+		dbr:Eastern_Orthodox_Church ,
+		dbr:Tartak ,
+		dbr:Poland ,
+		dbr:Tatars ,
+		dbr:Brewery ,
+		dbr:Sophia_of_Halshany ,
+		<http://dbpedia.org/resource/Category:Volhynian_Voivodeship_(1569\u20131795)> ,
+		dbr:Aleksei_Brusilov ,
+		dbr:Lutsk_Air_Base ,
+		dbr:Lutsk_Raion ,
+		dbr:Catering ,
+		dbr:Recovered_Territories ,
+		dbr:Lviv ,
+		dbr:Eric_of_Pomerania ,
+		dbr:Mayor ,
+		dbr:Czechs ,
+		<http://dbpedia.org/resource/Polish_Radio_\u0141uck> ,
+		dbr:Shimshon_Unichman ,
+		<http://dbpedia.org/resource/Bia\u0142ystok> ,
+		dbr:Florian_Siwicki ,
+		dbr:Russian_language ,
+		<http://dbpedia.org/resource/K\u00F6ppen_climate_classification> ,
+		<http://dbpedia.org/resource/Przemy\u015Bl> ,
+		dbr:Zhytomyr ,
+		<http://dbpedia.org/resource/Alojzy_Feli\u0144ski> ,
+		dbr:Society_of_Jesus ,
+		dbr:Trinitarian_Order ,
+		dbc:Shtetls ,
+		dbr:Order_of_Saint_Basil_the_Great ,
+		dbr:Lutsk_Orthodox_Fellowship_of_the_True_Cross ,
+		dbr:Archduke_Joseph_Ferdinand_of_Austria ,
+		dbr:Eastern_European_Summer_Time ,
+		dbr:Oblasts_of_Ukraine ,
+		<http://dbpedia.org/resource/Toru\u0144> ,
+		dbr:Khmelnytsky_Uprising ,
+		<http://dbpedia.org/resource/Mongol_invasion_of_Kievan_Rus\u0027> ,
+		dbr:Vasily_II_of_Moscow ,
+		dbr:Capital_city ,
+		<http://dbpedia.org/resource/Sigismund,_Holy_Roman_Emperor> ,
+		dbr:Lublin ,
+		dbr:Casimir_III_the_Great ,
+		<http://dbpedia.org/resource/Wo\u0142y\u0144_Voivodeship_(1921\u20131939)> ,
+		dbr:Trakai_District_Municipality ,
+		dbr:Russian_Empire ,
+		<http://dbpedia.org/resource/W\u0142adys\u0142aw_II_Jagie\u0142\u0142o> ,
+		dbr:Eastern_Catholic_Churches ,
+		dbr:List_of_sovereign_states ,
+		dbr:List_of_longest_buildings ,
+		<http://dbpedia.org/resource/Lippe_(district)> ,
+		dbr:Slavs ,
+		<http://dbpedia.org/resource/Lesya_Ukrainka_street,_Lutsk> ,
+		<http://dbpedia.org/resource/Brest,_Belarus> ,
+		dbr:Bogdan_group ,
+		dbr:Gediminas ,
+		<http://dbpedia.org/resource/Che\u0142m> ,
+		dbr:Union_of_Lublin ,
+		<http://dbpedia.org/resource/Miko\u0142aj_Kruszewski> ,
+		dbr:Order_of_Vytautas_the_Great ,
+		dbr:Crown_of_the_Kingdom_of_Poland ,
+		dbr:Powiat ,
+		dbc:Lutsk ,
+		dbr:Germans ,
+		dbr:Partitions_of_Poland ,
+		dbr:Lithuania ,
+		dbr:Prince-elector ,
+		dbr:Yiddish ,
+		dbr:Symon_Petliura ,
+		dbr:Operation_Barbarossa ,
+		dbr:Hostage ,
+		dbr:Peter_Bondra ,
+		dbr:NKVD ,
+		dbc:Oblast_centers_in_Ukraine ,
+		dbc:Holocaust_locations_in_Ukraine ,
+		dbr:Home_Army ,
+		dbr:Fief ,
+		dbr:Lutsk_Ghetto ,
+		dbr:Wehrmacht ,
+		dbr:Lutsk_compact_overhead_powerline ,
+		dbr:Red_Army ,
+		dbr:Jonathan_Littell ,
+		dbr:Epidemic_typhus ,
+		dbr:Postal_code ,
+		dbr:President_of_Ukraine ,
+		<http://dbpedia.org/resource/Casimir_V,_Duke_of_Pomerania> ,
+		dbr:Treaty_of_Brest-Litovsk ,
+		dbr:Europe ,
+		<http://dbpedia.org/resource/Saint_Peter_and_Paul_Cathedral,_Lutsk> ,
+		dbr:Austria-Hungary ,
+		dbr:Wallachia ,
+		dbr:Vytautas ,
+		dbr:Volodymyr-Volynskyi ,
+		dbr:Point_of_sale ,
+		dbr:Brusilov_Offensive ,
+		<http://dbpedia.org/resource/Great_Synagogue,_Lutsk> ,
+		<http://dbpedia.org/resource/Market_Square_(Lutsk)> ,
+		dbr:Lutsk ,
+		dbr:Rurik_dynasty ,
+		<http://dbpedia.org/resource/File:Ukraine_Lutsk.jpg> ,
+		dbr:Kosiv .
+@prefix dbt:	<http://dbpedia.org/resource/Template:> .
+dbr:Lutsk	dbp:wikiPageUsesTemplate	dbt:Volyn_Oblast ,
+		dbt:Ua-pop-est2020 ,
+		dbt:UKR ,
+		dbt:IPA-uk ,
+		dbt:Subject_bar ,
+		dbt:Div_col_end ,
+		dbt:Div_col ,
+		dbt:Authority_control ,
+		dbt:IPA-pl ,
+		dbt:Cite_Americana ,
+		dbt:Flagicon ,
+		dbt:Photomontage ,
+		dbt:Weather_box ,
+		dbt:Administrative_divisions_of_Ukraine ,
+		dbt:Citation_needed ,
+		dbt:Convert ,
+		dbt:See_also ,
+		dbt:Coord ,
+		dbt:Reflist ,
+		dbt:Cities_in_Ukraine ,
+		dbt:Dts ,
+		dbt:JewishGen-LocalityPage ,
+		dbt:URL ,
+		dbt:Infobox_settlement ,
+		dbt:Flag ,
+		dbt:Cite_web ;
+	dbo:wikiPageLength	"26531"^^xsd:nonNegativeInteger .
+<http://dbpedia.org/resource/Basilica_of_the_Birth_of_the_Virgin_Mary,_Che\u0142m>	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/Galicia\u2013Volhynia_Wars>	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Liubartas	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/Jan_I_of_\u017Baga\u0144>	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Agnes_of_Poland	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/2014\u201315_Eastern_Washington_Eagles_men\u0027s_basketball_team>	dbp:home	dbr:Lutsk ;
+	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/2015\u201316_Eastern_Washington_Eagles_men\u0027s_basketball_team>	dbp:home	dbr:Lutsk ;
+	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/2017\u201318_Eastern_Washington_Eagles_men\u0027s_basketball_team>	dbp:home	dbr:Lutsk ;
+	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/2018\u201319_Eastern_Washington_Eagles_men\u0027s_basketball_team>	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/Bar_4_(TV_Poland)>	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Bogdan_group	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/Earthlings_(film)>	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/Top_Model_po-ukrainsky_(season_6)>	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Vasyl_Sachko	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/2015\u201316_FC_Karpaty_Lviv_season>	dbp:location	dbr:Lutsk ;
+	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/2016\u201317_FC_Karpaty_Lviv_season>	dbp:location	dbr:Lutsk ;
+	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/2012\u201313_FC_Karpaty_Lviv_season>	dbp:location	dbr:Lutsk ;
+	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/2014\u201315_FC_Karpaty_Lviv_season>	dbp:location	dbr:Lutsk ;
+	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/2016\u201317_FC_Chornomorets_Odesa_season>	dbp:location	dbr:Lutsk ;
+	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/2016\u201317_FC_Oleksandriya_season>	dbp:location	dbr:Lutsk ;
+	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/2016\u201317_FC_Olimpik_Donetsk_season>	dbp:location	dbr:Lutsk ;
+	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/2016\u201317_FC_Stal_Kamianske_season>	dbp:location	dbr:Lutsk ;
+	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/2016\u201317_FC_Volyn_Lutsk_season>	dbp:location	dbr:Lutsk ;
+	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/2016\u201317_FC_Vorskla_Poltava_season>	dbp:location	dbr:Lutsk ;
+	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/2011\u201312_FC_Karpaty_Lviv_season>	dbp:location	dbr:Lutsk ;
+	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/2018\u201319_FC_Arsenal_Kyiv_season>	dbp:location	dbr:Lutsk ;
+	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/2018\u201319_FC_Karpaty_Lviv_season>	dbp:location	dbr:Lutsk ;
+	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/2018\u201319_FC_Lviv_season>	dbp:location	dbr:Lutsk ;
+	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/2019\u201320_FC_Karpaty_Lviv_season>	dbp:location	dbr:Lutsk ;
+	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/2019\u201320_FC_Lviv_season>	dbp:location	dbr:Lutsk ;
+	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/Volhynian_Voivodeship_(1569\u20131795)>	dbo:capital	dbr:Lutsk ;
+	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Sejmik	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/Voivodes_of_the_Polish\u2013Lithuanian_Commonwealth>	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Irakli_Danylovich	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Jerzy_Nos	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Leo_II_of_Galicia	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Semyon_Olshanski	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/Jonas_Go\u0161tautas>	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/Union_of_Grodno_(1432)>	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:List_of_banners_in_the_Battle_of_Grunwald	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Ivan_Chodkiewicz	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Petras_Jonaitis_Mantigirdaitis	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:List_of_motifs_on_banknotes	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/Grzymis\u0142awa_of_Luck>	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Henry_of_Masovia	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Salomea_of_Poland	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:History_of_Christianity_in_Ukraine	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Lutsk_Orthodox_Fellowship_of_the_True_Cross	dbo:location	dbr:Lutsk ;
+	dbp:location	dbr:Lutsk ;
+	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/Wo\u0142y\u0144_Voivodeship_(1921\u20131939)>	dbp:capital	dbr:Lutsk ;
+	dbo:capital	dbr:Lutsk ;
+	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Kierdeja_coat_of_arms	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Ukrainian_Autonomous_Orthodox_Church	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/Lithuanian_Civil_War_(1432\u20131438)>	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Ostroh_Academy	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Volhynian_Governorate	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/Holy_Trinity_Orthodox_Cathedral,_Lutsk>	dbo:location	dbr:Lutsk ;
+	dbp:location	dbr:Lutsk ;
+	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/Leontius_Pe\u0142czycki>	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:History_of_the_Ukrainian_minority_in_Poland	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Orthodox_brotherhood	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Yaropolk_Izyaslavich	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Cyril_Terlecki	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Volodymyr-Volynskyi	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Vytautas	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Pinsk	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:List_of_people_from_Ukraine	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Principality_of_Volhynia	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Revindication_of_Orthodox_Churches_in_the_Second_Polish_Republic	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/Great_Synagogue,_Lutsk>	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Crown_Tribunal	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Abraham_Firkovich	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/1711>	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/2014_FIVB_Volleyball_Women\u0027s_World_Championship_qualification_(CEV)>	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:MasterChef_Ukraine	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Yaroslav_II_of_Kiev	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Ingvar_of_Kiev	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/1992\u201393_Vyshcha_Liha>	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/1993\u201394_Vyshcha_Liha>	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/1996\u201397_Ukrainian_First_League>	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/1998\u201399_Ukrainian_Football_Amateur_League>	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/2007\u201308_Ukrainian_First_League>	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/2008\u201309_Ukrainian_Premier_League>	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/2011\u201312_FC_Dynamo_Kyiv_season>	dbp:location	dbr:Lutsk ;
+	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/2012\u201313_FC_Dnipro_Dnipropetrovsk_season>	dbp:location	dbr:Lutsk ;
+	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/2012\u201313_FC_Metalurh_Donetsk_season>	dbp:location	dbr:Lutsk ;
+	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/2012\u201313_FC_Volyn_Lutsk_season>	dbp:location	dbr:Lutsk ;
+	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Lev_Zalenskyj	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Yurij_Vynnyckyj	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Leiba_Dobrovskii	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Tanks_of_the_Polish_Armoured_Forces	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Polish_exonyms	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Polskie_Radio	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Kivertsi	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Boniak	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Congress_of_Lutsk	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Treaty_of_Lutsk	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:National_Guard_of_Ukraine	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Family_of_Jogaila	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Lutsk_hostage_crisis	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/2016\u201317_Ukrainian_Basketball_SuperLeague>	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Google_Street_View_in_Europe	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:List_of_attacks_on_diplomatic_missions	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:List_of_stadiums_in_Europe	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Igor_Stravinsky	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/Ivan_Smirnov_(aviator)>	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:History_of_Lithuania	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:League_of_Historical_Cities	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:List_of_Holocaust_memorials_and_museums	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Shlomo_Ben-Yosef	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:February_1944	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Kasper_Niesiecki	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/Kingdom_of_Galicia\u2013Volhynia>	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Konstantin_Rokossovsky	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Brusilov_Offensive	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Strategic_Missile_Forces	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:History_of_the_Jews_in_Lithuania	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Ivan_Ladyga	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/Vasily_Andrianov_(pilot)>	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/2013_Girls\u0027_Youth_European_Volleyball_Championship_Qualification>	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/2013\u201314_FC_Dynamo_Kyiv_season>	dbp:location	dbr:Lutsk ;
+	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/2013\u201314_FC_Shakhtar_Donetsk_season>	dbp:location	dbr:Lutsk ;
+	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/2013\u201314_Ukrainian_Premier_League>	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Lutsk_National_Technical_University	dbp:city	dbr:Lutsk ;
+	dbo:city	dbr:Lutsk ;
+	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Ukrainian_Air_Force	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Ukroboronprom	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Royal_city_in_Poland	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Kropotkin_family	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:List_of_people_killed_during_the_2014_Ukrainian_revolution	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Grand_Duchy_of_Lithuania	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Vasyl_Avramenko	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Pop_music_in_Ukraine	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/Aleksa_Dundi\u0107>	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Aleksandr_Yeshchenko	dbo:birthPlace	dbr:Lutsk ;
+	dbp:birthPlace	dbr:Lutsk ;
+	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:List_of_Western_European_paintings_in_Ukrainian_museums	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Freedom_of_religion_in_Ukraine	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:List_of_Playboy_Playmates_of_2011	dbo:birthPlace	dbr:Lutsk ;
+	dbp:birthPlace	dbr:Lutsk ;
+	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Karta_Polaka	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/2011\u201312_FC_Shakhtar_Donetsk_season>	dbp:location	dbr:Lutsk ;
+	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Monatik	dbo:birthPlace	dbr:Lutsk ;
+	dbp:birthPlace	dbr:Lutsk ;
+	dbo:wikiPageWikiLink	dbr:Lutsk ;
+	dbp:origin	dbr:Lutsk ;
+	dbo:hometown	dbr:Lutsk .
+dbr:Kresy	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/Lithuanian_Civil_War_(1389\u20131392)>	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Automotive_industry_in_Ukraine	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Slavic_dragon	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:History_of_the_Jews_in_Belarus	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Human_trafficking_in_Ukraine	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Ihor_Lapin	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Olyka	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/1992_CIS_Athletics_Championships>	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/Toru\u0144>	dbo:wikiPageWikiLink	dbr:Lutsk .
+@prefix ns63:	<http://dbpedia.org/resource/List_of_airports_by_ICAO_code:> .
+ns63:_U	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Family_of_Gediminas	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Administrative_divisions_of_Ukraine	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Crown_of_the_Kingdom_of_Poland	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Kyiv_City_State_Administration	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/Svoboda_(political_party)>	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Tatiana_Bazyuk	dbp:birthPlace	dbr:Lutsk ;
+	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Euromaidan	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/Subdivisions_of_the_Polish\u2013Lithuanian_Commonwealth>	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Western_Ukraine	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/Sergei_Kovalenko_(sport_shooter)>	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:List_of_railway_stations_in_Ukraine	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Ukrainian_Admission_Center	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Elektrichka	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:History_of_Jews_in_Poland	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/J\u00F3zef_\u0141obodowski>	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:List_of_Russian_princely_families	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/Children\u0027s_railway>	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/Poland\u2013Ukraine_relations>	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Ukrainian_Chess_Championship	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Szymon_Szurmiej	dbo:birthPlace	dbr:Lutsk ;
+	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Ben_Abraham	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/2017\u201318_Ukrainian_First_League>	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Second_Polish_Republic	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Michael_of_Chernigov	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Nalyvaiko_Uprising	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/Atanazy_Mi\u0105czy\u0144ski>	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Celestyn_Czaplic	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Ivan_Korsak	dbo:deathPlace	dbr:Lutsk ;
+	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/2015\u201316_SL_Favorit_Sport_season>	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/P14_road_(Ukraine)>	dbo:routeStart	dbr:Lutsk ;
+	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Administrative_divisions_of_Volyn_Oblast	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Governor_of_Volyn_Oblast	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/Stanis\u0142aw_Koniecpolski>	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/Dow\u00F3dztwo_Okr\u0119gu_Korpusu>	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Treaty_of_Christmemel	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Battle_of_the_Vorskla_River	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/Alojzy_Feli\u0144ski>	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Dmytro_Vyshnevetsky	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/Sim\u1E25ah_Isaac_Luzki>	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/Abraham_B\u00E4r_Flahm>	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Chakrabongse_Bhuvanath	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Grigori_Engelhardt	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/Batu\u0027s_raid_of_1240_in_Ruthenia>	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/Ministry_of_Post_and_Telegraphs_(Poland)>	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Rahmans	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Lucak	dbo:wikiPageRedirects	dbr:Lutsk ;
+	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Luchesk	dbo:wikiPageRedirects	dbr:Lutsk ;
+	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/Luck,_Ukraine>	dbo:wikiPageRedirects	dbr:Lutsk ;
+	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/Luck,_Volhynia>	dbo:wikiPageRedirects	dbr:Lutsk ;
+	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/Luck._Ukraine>	dbo:wikiPageRedirects	dbr:Lutsk ;
+	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Luckas	dbo:wikiPageRedirects	dbr:Lutsk ;
+	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/Luts\u0027k>	dbo:wikiPageRedirects	dbr:Lutsk ;
+	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/Luts\u2019k>	dbo:wikiPageRedirects	dbr:Lutsk ;
+	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Lutzk	dbo:wikiPageRedirects	dbr:Lutsk ;
+	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Luzk	dbo:wikiPageRedirects	dbr:Lutsk ;
+	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/\u0141ucki>	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:History_of_Lutsk	dbo:wikiPageRedirects	dbr:Lutsk ;
+	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/\u0141uck>	dbo:wikiPageRedirects	dbr:Lutsk ;
+	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/\u041B\u0443\u0446\u043A>	dbo:wikiPageRedirects	dbr:Lutsk ;
+	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/\u041B\u0443\u0446\u044C\u043A>	dbo:wikiPageRedirects	dbr:Lutsk ;
+	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Benedykt_Chmielowski	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Vitaliy_Shafar	dbo:birthPlace	dbr:Lutsk ;
+	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Yana_Belomoyna	dbo:birthPlace	dbr:Lutsk ;
+	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Les_Tanyuk	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/2016\u201317_FC_Zirka_Kropyvnytskyi_season>	dbp:location	dbr:Lutsk ;
+	dbo:wikiPageWikiLink	dbr:Lutsk .
+<http://dbpedia.org/resource/2014\u201315_FC_Vorskla_Poltava_season>	dbp:location	dbr:Lutsk ;
+	dbo:wikiPageWikiLink	dbr:Lutsk .
+dbr:Gedeon_Chetvertinsky	dbo:wikiPageWikiLink	dbr:Lutsk .

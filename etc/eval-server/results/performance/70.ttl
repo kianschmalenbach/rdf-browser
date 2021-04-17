@@ -1,0 +1,2041 @@
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+dbr:Union_of_Krewo	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Lesser_Poland	rdf:type	yago:Region108630039 ,
+		yago:WikicatHistoricalRegions ,
+		dbo:Settlement ,
+		yago:WikicatRegionsOfPoland ,
+		yago:WikicatHistoricalRegionsInPoland .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Lesser_Poland	rdf:type	owl:Thing ,
+		dbo:Region ,
+		dbo:AdministrativeRegion ,
+		yago:Location100027167 ,
+		yago:YagoGeoEntity ,
+		yago:YagoPermanentlyLocatedEntity ,
+		yago:YagoLegalActorGeo .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Lesser_Poland	rdf:type	wikidata:Q3455524 ,
+		yago:Object100002684 ,
+		yago:PhysicalEntity100001930 .
+@prefix schema:	<http://schema.org/> .
+dbr:Lesser_Poland	rdf:type	schema:Place ,
+		schema:AdministrativeArea ,
+		dbo:Location ,
+		dbo:PopulatedPlace ,
+		dbo:Place .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Lesser_Poland	rdfs:label	"Malopolsko"@cs ,
+		"Polonia Txikia"@eu ,
+		"Ma\u0142opolska"@pl ,
+		"Lesser Poland"@en ,
+		"\u041C\u0430\u043B\u0430\u044F \u041F\u043E\u043B\u044C\u0448\u0430"@ru ,
+		"\uB9C8\uC6CC\uD3F4\uC2A4\uCE74"@ko ,
+		"Petita Pol\u00F2nia"@ca ,
+		"Peque\u00F1a Polonia (regi\u00F3n hist\u00F3rica)"@es ,
+		"Kleinpolen"@de ,
+		"Ma\u0142opolska"@in ,
+		"Pequena Pol\u00F4nia"@pt ,
+		"Piccola Polonia"@it ,
+		"Petite-Pologne"@fr ,
+		"\u041C\u0430\u043B\u043E\u043F\u043E\u043B\u044C\u0449\u0430"@uk ,
+		"Lillpolen"@sv ,
+		"\u0628\u0648\u0644\u0646\u062F\u0627 \u0627\u0644\u0635\u063A\u0631\u0649"@ar ,
+		"Klein-Polen (geschiedenis)"@nl ,
+		"\u5C0F\u6CE2\u5170"@zh ;
+	rdfs:comment	"\u041C\u0430\u043B\u043E\u043F\u043E\u0301\u043B\u044C\u0449\u0430, \u0430\u0431\u043E \u041C\u0430\u043B\u0430\u0301 \u041F\u043E\u0301\u043B\u044C\u0449\u0430 (\u043B\u0430\u0442. Polonia Minor, \u043F\u043E\u043B. Ma\u0142opolska)  \u2014 \u0456\u0441\u0442\u043E\u0440\u0438\u0447\u043D\u0430 \u043E\u0431\u043B\u0430\u0441\u0442\u044C \u0432 \u041F\u043E\u043B\u044C\u0449\u0456 \u0432\u0437\u0434\u043E\u0432\u0436 \u0432\u0435\u0440\u0445\u043D\u044C\u043E\u0457 \u0412\u0456\u0441\u043B\u0438.\u0420\u043E\u0437\u0442\u0430\u0448\u043E\u0432\u0430\u043D\u0430 \u0443 \u043F\u0456\u0432\u0434\u0435\u043D\u043D\u0456\u0439 \u0456 \u043F\u0456\u0432\u0434\u0435\u043D\u043D\u043E-\u0441\u0445\u0456\u0434\u043D\u0456\u0439 \u0447\u0430\u0441\u0442\u0438\u043D\u0456 \u043A\u0440\u0430\u0457\u043D\u0438. \u0410\u0434\u043C\u0456\u043D\u0456\u0441\u0442\u0440\u0430\u0442\u0438\u0432\u043D\u043E \u0432\u043A\u043B\u044E\u0447\u0430\u0454 \u0434\u0432\u0430 \u043F\u043E\u043B\u044C\u0441\u044C\u043A\u0438\u0445 \u0432\u043E\u0454\u0432\u043E\u0434\u0441\u0442\u0432\u0430: \u041C\u0430\u043B\u043E\u043F\u043E\u043B\u044C\u0441\u044C\u043A\u0435 \u0439 \u041F\u0456\u0434\u043A\u0430\u0440\u043F\u0430\u0442\u0441\u044C\u043A\u0435, \u0437\u0430\u0445\u0456\u0434\u043D\u0456 \u0447\u0430\u0441\u0442\u0438\u043D\u0438 \u041B\u044E\u0431\u043B\u0456\u043D\u0441\u044C\u043A\u043E\u0433\u043E \u0439 \u0421\u0432\u0435\u043D\u0442\u043E\u043A\u0448\u0438\u0441\u044C\u043A\u043E\u0433\u043E, \u043F\u0456\u0432\u0434\u0435\u043D\u043D\u0456 \u0440\u0430\u0439\u043E\u043D\u0438 \u041C\u0430\u0437\u043E\u0432\u0435\u0446\u044C\u043A\u043E\u0433\u043E \u0442\u0430 \u0441\u0445\u0456\u0434\u043D\u0456 \u0440\u0430\u0439\u043E\u043D\u0438 \u0421\u0456\u043B\u0435\u0437\u044C\u043A\u043E\u0433\u043E \u0432\u043E\u0454\u0432\u043E\u0434\u0441\u0442\u0432. \u0413\u043E\u043B\u043E\u0432\u043D\u0435 \u043C\u0456\u0441\u0442\u043E \u2014 \u041A\u0440\u0430\u043A\u0456\u0432."@uk ,
+		"Malopolsko (polsky Ma\u0142opolska; n\u011Bmecky Kleinpolen; latinsky Polonia Minor) je historick\u00E1 zem\u011B v jihov\u00FDchodn\u00EDm Polsku, v\u00FDchodn\u011B od Slezska,  a , ji\u017En\u011B od Mazovska a z\u00E1padn\u011B od Volyn\u011B a Hali\u010De, rozd\u011Blen\u00E1 dnes mezi vojvodstv\u00ED Malopolsk\u00E9, Podkarpatsk\u00E9, Lublinsk\u00E9, Svatok\u0159\u00ED\u017Esk\u00E9, Mazovsk\u00E9, Lod\u017Esk\u00E9 a Slezsk\u00E9. Jej\u00ED metropol\u00ED byl Krakov."@cs ,
+		"La Piccola Polonia (in polacco: Ma\u0142opolska, in latino: Polonia Minor) \u00E8 una delle regioni storiche della Polonia, che forma la parte meridionale del Paese."@it ,
+		"Pequena Pol\u00F4nia (portugu\u00EAs brasileiro) ou Pequena Pol\u00F3nia (portugu\u00EAs europeu) (polon\u00EAs: Ma\u0142opolska, latim: Polonia Minor) \u00E9 uma regi\u00E3o hist\u00F3rica da Pol\u00F4nia. Forma a maior parte sul do pa\u00EDs. N\u00E3o deve ser confundida com a voivodia da Pequena Pol\u00F4nia, que \u00E9 apenas uma parte da regi\u00E3o hist\u00F3rica da Pequena Pol\u00F4nia."@pt ,
+		"\u0628\u0648\u0644\u0646\u062F\u0627 \u0627\u0644\u0635\u063A\u0631\u0649 (\u0628\u0627\u0644\u0625\u0646\u062C\u0644\u064A\u0632\u064A\u0629: Lesser Poland) (\u0643\u0630\u0644\u0643 Little Poland\u060C \u0628\u0627\u0644\u0644\u063A\u0629 \u0627\u0644\u0628\u0648\u0644\u0646\u062F\u064A\u0629 Ma\u0142opolska\u060C \u0648\u0628\u0627\u0644\u0644\u063A\u0629 \u0627\u0644\u0644\u0627\u062A\u064A\u0646\u064A\u0629 Polonia Minor) \u0647\u064A \u0625\u062D\u062F\u0649 \u0627\u0644\u0645\u0646\u0627\u0637\u0642 \u0627\u0644\u062A\u0627\u0631\u064A\u062E\u064A\u0629 \u0627\u0644\u0628\u0648\u0644\u0646\u062F\u064A\u0629\u061B \u0648\u0639\u0627\u0635\u0645\u062A\u0647\u0627 \u0641\u064A \u0645\u062F\u064A\u0646\u0629 \u0643\u0631\u0627\u0643\u0648\u0641. \u0648\u064A\u0634\u0643\u0644 \u0627\u0644\u0625\u0642\u0644\u064A\u0645 \u0627\u0644\u062C\u0632\u0621 \u0627\u0644\u062C\u0646\u0648\u0628\u064A \u0645\u0646 \u0627\u0644\u0628\u0644\u0627\u062F\u060C \u0648\u064A\u062C\u0628 \u0639\u062F\u0645 \u0627\u0644\u062E\u0644\u0637 \u0628\u064A\u0646\u0647 \u0648\u0628\u064A\u0646 \u0641\u0648\u064A\u0641\u0648\u062F \u0628\u0648\u0644\u0646\u062F\u0627 \u0627\u0644\u0635\u063A\u0631\u0649\u060C \u0627\u0644\u0630\u064A \u064A\u0634\u063A\u0644 \u062C\u0632\u0621\u064B\u0627 \u062C\u0646\u0648\u0628\u064A\u064B\u0627 \u0635\u063A\u064A\u0631\u064B\u0627 \u0645\u0646 \u0625\u0642\u0644\u064A\u0645 \u0628\u0648\u0644\u0646\u062F\u0627 \u0627\u0644\u0635\u063A\u0631\u0649. \u0648\u0625\u0642\u0644\u064A\u0645 \u0628\u0648\u0644\u0646\u062F\u0627 \u0627\u0644\u0635\u063A\u0631\u0649 \u0627\u0644\u062A\u0627\u0631\u064A\u062E\u064A \u0623\u0643\u0628\u0631 \u0628\u0643\u062B\u064A\u0631 \u0645\u0646 \u0627\u0644\u0645\u0642\u0627\u0637\u0639\u0629 \u0627\u0644\u062D\u0627\u0644\u064A\u0629 \u0627\u0644\u062A\u064A \u062A\u062D\u0645\u0644 \u0627\u0633\u0645\u0647\u061B \u0648\u0627\u0644\u062A\u064A \u062A\u0645\u062A\u062F \u0645\u0646 \u062A\u0634\u064A\u0646\u0633\u062A\u0648\u062E\u0648\u0641\u0627 \u0641\u064A \u0627\u0644\u063A\u0631\u0628 \u0625\u0644\u0649 \u0627\u0644\u0623\u0631\u0627\u0636\u064A \u0634\u0645\u0627\u0644 \u0634\u0631\u0642 \u0644\u0648\u0628\u0644\u064A\u0646 \u0641\u064A \u0627\u0644\u0634\u0631\u0642. \u0648\u0641\u064A \u0623\u0648\u0627\u062E\u0631 \u0627\u0644\u0639\u0635\u0648\u0631 \u0627\u0644\u0648\u0633\u0637\u0649\u060C \u0623\u0635\u0628\u062D \u0625\u0642\u0644\u064A\u0645 \u0628\u0648\u0644\u0646\u062F\u0627 \u0627\u0644\u0635\u063A\u0631\u0649 \u062A\u062F\u0631\u064A\u062C\u064A\u064B\u0627 \u0645\u0631\u0643\u0632 \u0627\u0644\u062F\u0648\u0644\u0629 \u0627\u0644\u0628\u0648\u0644\u0646\u062F\u064A\u0629\u060C \u0648\u0643\u0627\u0646\u062A \u0643\u0631\u0627\u0643\u0648\u0641 \u0639\u0627\u0635\u0645\u0629 \u0627\u0644\u0628\u0644\u0627\u062F \u0645\u0646\u0630 \u0645\u0646\u062A\u0635\u0641 \u0627\u0644\u0642\u0631\u0646 \u0627\u0644\u062D\u0627\u062F\u064A \u0639\u0634\u0631 \u0648\u062D\u062A\u0649 \u0639\u0627\u0645 1596. \u0648\u062D\u0643\u0645 \u0627\u0644\u0646\u0628\u0644\u0627\u0621 \u0628\u0648\u0644\u0646\u062F\u0627 \u0639\u0646\u062F\u0645\u0627 \u0643\u0627\u0646\u062A \u0627\u0644\u0645\u0644\u0643\u0629 \u064A\u0627\u062F\u0641\u064A\u063A\u0627 (Jadwiga) \u0635\u063A\u064A\u0631\u0629 \u062C\u062F\u064B\u0627 \u0644\u062D\u0643\u0645 \u0627\u0644\u0628\u0644\u0627\u062F\u060C \u0648\u0643\u0627\u0646 \u0627\u062A\u062D\u0627\u062F \u0643\u0631\u064A\u0641\u0648 \u0645\u0639 \u062F\u0648\u0642\u064A\u0629 \u0644\u064A\u062A\u0648\u0627\u0646\u064A\u0627 \u0627\u0644\u0643\u0628\u0631\u0649 \u0645\u0646 \u0628\u0646\u0627\u062A \u0623\u0641\u0643\u0627\u0631 \u0637\u0628\u0642\u0629 \u0632\u0644\u0627\u062E\u062A\u0627 \u0627\u0644\u062A\u0627\u0628\u0639\u0629 \u0644\u0628\u0648\u0644\u0646\u062F\u0627 \u0627\u0644\u0635\u063A\u0631\u0649"@ar ,
+		"\u5C0F\u6CE2\u5170\uFF08\u6CE2\u862D\u8A9E\uFF1AMa\u0142opolska\uFF0C\u62C9\u4E01\u8A9E\uFF1APolonia Minor\uFF09\u662F\u6CE2\u5170\u7684\u5386\u53F2\u5730\u533A\u4E4B\u4E00\uFF0C\u4F4D\u4E8E\u6CE2\u5170\u7684\u4E1C\u5357\u89D2\u3002\u8BE5\u5730\u533A\u4E0D\u80FD\u4E0E\u5C0F\u6CE2\u5170\u7701\u76F8\u6DF7\u6DC6\uFF0C\u8BE5\u7701\u53EA\u5305\u62EC\u5C0F\u6CE2\u5170\u5386\u53F2\u5730\u533A\u7684\u4E00\u90E8\u5206\u3002"@zh ,
+		"Polonia Txikia (polonieraz: Ma\u0142opolska; latinez: Polonia Minor) Krakovia hiriburu duen Poloniako eskualde historikoa da. Herrialdearen hego-ekialdeko kantoian dago, eta ez da nahasi behar 1999an eratutako Polonia Txikiko voivoderriarekin. Azken honek eskualde historikoaren zati bat baino ez du hartzen."@eu ,
+		"La Peque\u00F1a Polonia, tambi\u00E9n llamada Polonia Menor (en polaco, Ma\u0142opolska y en lat\u00EDn Polonia Minor) es una regi\u00F3n hist\u00F3rica de Polonia, cuyo centro tradicional es la ciudad de Cracovia. Est\u00E1 constituida por la zona suroriental del territorio de la actual Rep\u00FAblica de Polonia y en la actualidad se centra alrededor del Voivodato de Peque\u00F1a Polonia, una de las divisiones administrativas del pa\u00EDs, aunque la regi\u00F3n hist\u00F3rica abarca zonas de varios otros voivodatos."@es ,
+		"La Petite-Pologne (en polonais : Ma\u0142opolska, en latin : Polonia Minor) est une des r\u00E9gions historiques de Pologne. Situ\u00E9e au sud-est du territoire de l'actuelle r\u00E9publique de Pologne, elle avait une superficie triple de celle de la vo\u00EFvodie qui aujourd'hui porte ce nom. Sa capitale est Cracovie."@fr ,
+		"\u041C\u0430\u043B\u0430\u044F \u041F\u043E\u043B\u044C\u0448\u0430 (\u043F\u043E\u043B\u044C\u0441\u043A. Ma\u0142opolska) \u2014 \u0438\u0441\u0442\u043E\u0440\u0438\u0447\u0435\u0441\u043A\u0430\u044F \u043E\u0431\u043B\u0430\u0441\u0442\u044C \u043D\u0430 \u044E\u0433\u043E-\u0432\u043E\u0441\u0442\u043E\u043A\u0435 \u041F\u043E\u043B\u044C\u0448\u0438. \u041D\u0430\u0437\u0432\u0430\u043D\u0438\u0435 \u043B\u0430\u0442. Polonia Minor \u0432\u043F\u0435\u0440\u0432\u044B\u0435 \u0432\u0441\u0442\u0440\u0435\u0447\u0430\u0435\u0442\u0441\u044F \u0432 1411 \u0433\u043E\u0434\u0443. \u0421\u0442\u043E\u043B\u0438\u0446\u0435\u0439 \u041C\u0430\u043B\u043E\u0439 \u041F\u043E\u043B\u044C\u0448\u0438 \u0441\u0447\u0438\u0442\u0430\u0435\u0442\u0441\u044F \u041A\u0440\u0430\u043A\u043E\u0432. \u0412 877\u2014907 \u0433\u043E\u0434\u0430\u0445 \u0432\u0445\u043E\u0434\u0438\u043B\u0430 \u0432 \u0441\u043E\u0441\u0442\u0430\u0432 \u0412\u0435\u043B\u0438\u043A\u043E\u0439 \u041C\u043E\u0440\u0430\u0432\u0438\u0438. \u0412 1314 \u0433\u043E\u0434\u0443 \u0412\u043B\u0430\u0434\u0438\u0441\u043B\u0430\u0432 I \u041B\u043E\u043A\u0435\u0442\u0435\u043A \u043E\u0431\u044A\u0435\u0434\u0438\u043D\u0438\u043B \u0442\u0435\u0440\u0440\u0438\u0442\u043E\u0440\u0438\u0438 \u041C\u0430\u043B\u043E\u0439 \u0438 \u0412\u0435\u043B\u0438\u043A\u043E\u0439 \u041F\u043E\u043B\u044C\u0448\u0438. \u0412 \u0441\u043E\u0441\u0442\u0430\u0432 \u041C\u0430\u043B\u043E\u043F\u043E\u043B\u044C\u0441\u043A\u043E\u0439 \u043F\u0440\u043E\u0432\u0438\u043D\u0446\u0438\u0438 \u043F\u043E\u043C\u0438\u043C\u043E \u0441\u043E\u0431\u0441\u0442\u0432\u0435\u043D\u043D\u043E \u0441\u0430\u043C\u043E\u0439 \u041C\u0430\u043B\u043E\u0439 \u041F\u043E\u043B\u044C\u0448\u0438 \u0432 1569\u20141795 \u0433\u043E\u0434\u0430\u0445 \u0432\u0445\u043E\u0434\u0438\u043B\u0430 \u0442\u0430\u043A\u0436\u0435 \u0447\u0430\u0441\u0442\u044C \u0442\u0435\u0440\u0440\u0438\u0442\u043E\u0440\u0438\u0438 \u0441\u043E\u0432\u0440\u0435\u043C\u0435\u043D\u043D\u043E\u0439 \u0423\u043A\u0440\u0430\u0438\u043D\u044B."@ru ,
+		"Ma\u0142opolska \u2013 kraina historyczna Polski, obejmuj\u0105ca obecnie po\u0142udniowo-wschodni\u0105 cz\u0119\u015B\u0107 kraju, w g\u00F3rnym i cz\u0119\u015Bciowo \u015Brodkowym dorzeczu Wis\u0142y oraz w dorzeczu g\u00F3rnej Warty;  Polski. Stolic\u0105 Ma\u0142opolski jest Krak\u00F3w. Obecnie, po wprowadzeniu reformy administracyjnej w 1999 roku, okre\u015Blenia \u201EMa\u0142opolska\u201D u\u017Cywa si\u0119 niepoprawnie g\u0142\u00F3wnie lub niemal wy\u0142\u0105cznie w stosunku do obszaru, utworzonego w trakcie wspomnianej reformy wojew\u00F3dztwa ma\u0142opolskiego w charakterze synonimu lub akronimu. Ma to m.in. odzwierciedlenie w nomenklaturze Urz\u0119du Marsza\u0142kowskiego objawiaj\u0105cej si\u0119 przyk\u0142adowo w logo wojew\u00F3dztwa."@pl ,
+		"Lillpolen (p\u00E5 polska Ma\u0142opolska) \u00E4r ett historiskt omr\u00E5de i s\u00F6dra Polen. Det har gett namn \u00E5t det moderna vojvodskapet Lillpolens vojvodskap. Lillpolen var den s\u00F6dra, bergiga delen av det forna polska riket i motsats till den nordv\u00E4stra delen, som kallades Storpolen. Det omfattade i mera inskr\u00E4nkt mening vojvodskapen Krak\u00F3w,Sandomierz och Lublin, i vidstr\u00E4cktare betydelse \u00E4ven Podlachien (en del tidigare guvernementet Grodno),Rus (i det gamla kronlandet Galizien), Podolien och Volynien."@sv ,
+		"Ma\u0142opolska (Latin: Polonia Minor, Indonesia: \"Polandia Kecil\") adalah salah satu wilayah historis (dzielnica) di Polandia; ibu kotanya terletak di kota Krak\u00F3w. Wilayah Ma\u0142opolska tidak sama dengan Provinsi Polandia Kecil pada masa modern yang hanya mencakup bagian barat daya Ma\u0142opolska. Dalam sejarahnya, wilayah Ma\u0142opolska lebih besar dari provinsi tersebut dan terbentang dari Bielsko-Bia\u0142a di barat daya hingga Siedlce di timur laut. Luas wilayah Ma\u0142opolska hampir mencapai 60.000 km2 dan dihuni oleh sekitar 9.000.000 jiwa. Topografinya berbukit-bukit dan di sebelah selatan terdapat Pegunungan Carpathia. Wilayah ini terletak di cekungan Vistula hulu. Dalam sejarahnya, Ma\u0142opolska dikenal akan golongan aristokrat () dan bangsawannya (szlachta) yang kuat."@in ,
+		"Lesser Poland, often known by its Polish name Ma\u0142opolska (Latin: Polonia Minor), is a historical region situated in southern and south-eastern Poland. Its capital and largest city is Krak\u00F3w. Throughout centuries, Lesser Poland developed a separate culture featuring diverse architecture, folk costumes, dances, cuisine, traditions and a rare Lesser Polish dialect. The region is rich in historical landmarks, monuments, castles, natural scenery and UNESCO World Heritage Sites."@en ,
+		"In de geschiedenis omvatte Klein-Polen een groter gebied dan de hedendaagse Woiwodschap Klein-Polen. In 1569 sloten Polen en Litouwen zich door de Unie van Lublin aaneen tot het Pools-Litouwse Gemenebest. Dit rijk was onderverdeeld in Groot-Polen, Klein-Polen, het grootvorstendom Litouwen en het hertogdom Lijfland, die elk onderverdeeld waren in woiwodschappen en/of vorstendommen."@nl ,
+		"La Petita Pol\u00F2nia (des de l'edat mitjana, en llat\u00ED, Polonia Minor, en polon\u00E8s Ma\u0142opolska) \u00E9s - al contrari de la Gran Pol\u00F2nia - originalment, la part meridional de l'antic estat polon\u00E8s, amb les ciutats de Crac\u00F2via, Lublin, Zamo\u015B\u0107 i Sandomierz, el ducat de la Petita Pol\u00F2nia. Els territoris al voltant de Sandomierz es consideren parcialment com a part del mateix ducat. Durant la seva pertinen\u00E7a a Pol\u00F2nia, les regions ucra\u00EFneses de Gal\u00EDtsia, Pod\u00EDl\u00B7lia, Vol\u00EDnia i altres quedaven tamb\u00E9 incloses en aquest concepte. La  exist\u00ED fins a 1772."@ca ,
+		"\uB9C8\uC6CC\uD3F4\uC2A4\uCE74(\uD3F4\uB780\uB4DC\uC5B4: Ma\u0142opolska) \uB610\uB294 \uC18C\uD3F4\uB780\uB4DC(\uB77C\uD2F4\uC5B4: Polonia Minor \uD3F4\uB85C\uB2C8\uC544 \uBBF8\uB178\uB974[*])\uB294 \uD3F4\uB780\uB4DC\uC758 \uC5ED\uC0AC\uC801 \uC9C0\uC5ED\uC774\uB2E4. \uBA74\uC801\uC740 \uC57D 60,000km2, \uC804\uCCB4 \uC778\uAD6C\uB294 \uC57D 9,000,000\uBA85\uC774\uBA70 \uC911\uC2EC \uB3C4\uC2DC\uB294 \uD06C\uB77C\uCFE0\uD504\uC774\uB2E4."@ko ,
+		"Kleinpolen (seit dem Mittelalter lateinisch Polonia Minor, polnisch Ma\u0142opolska) ist urspr\u00FCnglich die Bezeichnung f\u00FCr den s\u00FCdlichen Teil des alten polnischen Staates mit den Metropolen Krakau, Lublin, Zamo\u015B\u0107 und Sandomierz. W\u00E4hrend ihrer Zugeh\u00F6rigkeit zu Polen-Litauen fasste man ab 1569 (Union von Lublin) die ukrainischen Gebiete Galizien, Podolien, Wolhynien, Kiew u. a. ebenfalls in den Begriff. Die Gro\u00DFprovinz Kleinpolen bestand bis 1772."@de ;
+	owl:differentFrom	dbr:Lesser_Poland_Voivodeship .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+dbr:Lesser_Poland	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Krakowskie_sandomierskie_lubelskie.png> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+dbr:Lesser_Poland	foaf:isPrimaryTopicOf	wikipedia-en:Lesser_Poland .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Lesser_Poland	dct:subject	dbc:Historical_regions ,
+		dbc:History_of_Lesser_Poland_Voivodeship ,
+		dbc:History_of_Masovian_Voivodeship ,
+		dbc:History_of_Podkarpackie_Voivodeship ,
+		dbc:Historical_regions_in_Poland ,
+		dbc:History_of_Lublin_Voivodeship ,
+		dbc:Lesser_Poland ,
+		dbc:History_of_Silesian_Voivodeship ,
+		<http://dbpedia.org/resource/Category:History_of_\u015Awi\u0119tokrzyskie_Voivodeship> .
+@prefix dbpedia-sv:	<http://sv.dbpedia.org/resource/> .
+dbr:Lesser_Poland	owl:sameAs	dbpedia-sv:Lillpolen .
+@prefix ns13:	<http://lv.dbpedia.org/resource/> .
+dbr:Lesser_Poland	owl:sameAs	ns13:Mazpolija .
+@prefix dbpedia-eu:	<http://eu.dbpedia.org/resource/> .
+dbr:Lesser_Poland	owl:sameAs	dbpedia-eu:Polonia_Txikia .
+@prefix ns15:	<http://d-nb.info/gnd/4098501-5/about/> .
+dbr:Lesser_Poland	owl:sameAs	ns15:rdf .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Lesser_Poland	owl:sameAs	yago-res:Lesser_Poland .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Lesser_Poland	owl:sameAs	dbpedia-de:Kleinpolen ,
+		<http://uk.dbpedia.org/resource/\u041C\u0430\u043B\u043E\u043F\u043E\u043B\u044C\u0449\u0430> ,
+		<http://zh.dbpedia.org/resource/\u5C0F\u6CE2\u5170> ,
+		<http://ko.dbpedia.org/resource/\uB9C8\uC6CC\uD3F4\uC2A4\uCE74> ,
+		<http://lt.dbpedia.org/resource/Ma\u017Eoji_Lenkija> .
+@prefix ns18:	<https://global.dbpedia.org/id/> .
+dbr:Lesser_Poland	owl:sameAs	ns18:C7aR .
+@prefix dbpedia-da:	<http://da.dbpedia.org/resource/> .
+dbr:Lesser_Poland	owl:sameAs	dbpedia-da:Lillepolen ,
+		<http://be.dbpedia.org/resource/\u041C\u0430\u043B\u0430\u044F_\u041F\u043E\u043B\u044C\u0448\u0447\u0430> ,
+		dbr:Lesser_Poland ,
+		<http://nl.dbpedia.org/resource/Klein-Polen_(geschiedenis)> ,
+		<http://es.dbpedia.org/resource/Peque\u00F1a_Polonia_(regi\u00F3n_hist\u00F3rica)> ,
+		<http://rdf.freebase.com/ns/m.04qt5> ,
+		<http://ro.dbpedia.org/resource/Polonia_Mic\u0103> ,
+		<http://d-nb.info/gnd/4098501-5> ,
+		<http://hu.dbpedia.org/resource/Kis-Lengyelorsz\u00E1g> ,
+		<http://pt.dbpedia.org/resource/Pequena_Pol\u00F4nia> .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Lesser_Poland	owl:sameAs	dbpedia-it:Piccola_Polonia ,
+		<http://viaf.org/viaf/237271300> ,
+		<http://ru.dbpedia.org/resource/\u041C\u0430\u043B\u0430\u044F_\u041F\u043E\u043B\u044C\u0448\u0430> .
+@prefix dbpedia-oc:	<http://oc.dbpedia.org/resource/> .
+dbr:Lesser_Poland	owl:sameAs	dbpedia-oc:Pichona_Polonha .
+@prefix dbpedia-hr:	<http://hr.dbpedia.org/resource/> .
+dbr:Lesser_Poland	owl:sameAs	dbpedia-hr:Malopoljska ,
+		wikidata:Q11390 ,
+		<http://sr.dbpedia.org/resource/\u041C\u0430\u043B\u043E\u043F\u043E\u0459\u0441\u043A\u0430> ,
+		<http://id.dbpedia.org/resource/Ma\u0142opolska> .
+@prefix dbpedia-no:	<http://no.dbpedia.org/resource/> .
+dbr:Lesser_Poland	owl:sameAs	dbpedia-no:Lille-Polen .
+@prefix dbpedia-cs:	<http://cs.dbpedia.org/resource/> .
+dbr:Lesser_Poland	owl:sameAs	dbpedia-cs:Malopolsko .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Lesser_Poland	owl:sameAs	dbpedia-fr:Petite-Pologne ,
+		<http://ar.dbpedia.org/resource/\u0628\u0648\u0644\u0646\u062F\u0627_\u0627\u0644\u0635\u063A\u0631\u0649> ,
+		<http://bg.dbpedia.org/resource/\u041C\u0430\u043B\u043E\u043F\u043E\u043B\u0448\u0430> ,
+		<http://pl.dbpedia.org/resource/Ma\u0142opolska> ,
+		<http://tr.dbpedia.org/resource/K\u00FC\u00E7\u00FCk_Polonya> ,
+		<http://ca.dbpedia.org/resource/Petita_Pol\u00F2nia> ,
+		<http://he.dbpedia.org/resource/\u05E4\u05D5\u05DC\u05D9\u05DF_\u05E7\u05D8\u05DF> ;
+	schema:sameAs	<http://viaf.org/viaf/237271300> ;
+	dbo:abstract	"Ma\u0142opolska (Latin: Polonia Minor, Indonesia: \"Polandia Kecil\") adalah salah satu wilayah historis (dzielnica) di Polandia; ibu kotanya terletak di kota Krak\u00F3w. Wilayah Ma\u0142opolska tidak sama dengan Provinsi Polandia Kecil pada masa modern yang hanya mencakup bagian barat daya Ma\u0142opolska. Dalam sejarahnya, wilayah Ma\u0142opolska lebih besar dari provinsi tersebut dan terbentang dari Bielsko-Bia\u0142a di barat daya hingga Siedlce di timur laut. Luas wilayah Ma\u0142opolska hampir mencapai 60.000 km2 dan dihuni oleh sekitar 9.000.000 jiwa. Topografinya berbukit-bukit dan di sebelah selatan terdapat Pegunungan Carpathia. Wilayah ini terletak di cekungan Vistula hulu. Dalam sejarahnya, Ma\u0142opolska dikenal akan golongan aristokrat () dan bangsawannya (szlachta) yang kuat. Dalam artian yang lebih luas, wilayah Ma\u0142opolska dari abad ke-14 juga mencakup wilayah Rutenia Merah, dan dari abad ke-16 termasuk wilayah , Podolia, dan sebagian wilayah Ukraina modern."@in ,
+		"Malopolsko (polsky Ma\u0142opolska; n\u011Bmecky Kleinpolen; latinsky Polonia Minor) je historick\u00E1 zem\u011B v jihov\u00FDchodn\u00EDm Polsku, v\u00FDchodn\u011B od Slezska,  a , ji\u017En\u011B od Mazovska a z\u00E1padn\u011B od Volyn\u011B a Hali\u010De, rozd\u011Blen\u00E1 dnes mezi vojvodstv\u00ED Malopolsk\u00E9, Podkarpatsk\u00E9, Lublinsk\u00E9, Svatok\u0159\u00ED\u017Esk\u00E9, Mazovsk\u00E9, Lod\u017Esk\u00E9 a Slezsk\u00E9. Jej\u00ED metropol\u00ED byl Krakov. P\u016Fvodn\u011B se tato zem\u011B d\u011Blila na Krakovsko a Sandom\u011B\u0159sko, z n\u011Bho\u017E se pozd\u011Bji vy\u010Dlenilo je\u0161t\u011B Lublinsk\u00E9 vojvodstv\u00ED (to se zna\u010Dn\u011B li\u0161ilo od toho sou\u010Dasn\u00E9ho). Po slou\u010Den\u00ED Polsk\u00E9ho kr\u00E1lovstv\u00ED a Litevsk\u00E9ho velkokn\u00ED\u017Eectv\u00ED v roce 1569 (Lublinsk\u00E1 unie) a vytvo\u0159en\u00ED Rzeczpospolit\u00E9 k n\u011Bmu pak a\u017E do troj\u00EDho d\u011Blen\u00ED Polska byla administrativn\u011B p\u0159ipojena tak\u00E9 v\u011Bt\u0161ina polsk\u00E9 \u010D\u00E1sti Ukrajiny \u2013 tato nov\u011B vytvo\u0159en\u00E1 velk\u00E1 provincie se jmenovala ; v jej\u00EDm r\u00E1mci tvo\u0159ilo historick\u00E9 Malopolsko zhruba 1/8 rozlohy, av\u0161ak bylo nejlidnat\u011Bj\u0161\u00ED a hospod\u00E1\u0159sky nejbohat\u0161\u00ED. Po prvn\u00EDm d\u011Blen\u00ED Polska (1772) byla v rakousk\u00E9m z\u00E1boru ji\u017En\u00ED \u010D\u00E1st p\u016Fvodn\u00EDho Malopolska za\u010Dlen\u011Bna do nov\u011B vytvo\u0159en\u00E9 korunn\u00ED zem\u011B Kr\u00E1lovstvi Hali\u010Dsk\u00E9 a Vladimi\u0159sk\u00E9 (latinsky Regnum Galiciae et Lodomeriae)."@cs ,
+		"La Piccola Polonia (in polacco: Ma\u0142opolska, in latino: Polonia Minor) \u00E8 una delle regioni storiche della Polonia, che forma la parte meridionale del Paese."@it ,
+		"\u041C\u0430\u043B\u043E\u043F\u043E\u0301\u043B\u044C\u0449\u0430, \u0430\u0431\u043E \u041C\u0430\u043B\u0430\u0301 \u041F\u043E\u0301\u043B\u044C\u0449\u0430 (\u043B\u0430\u0442. Polonia Minor, \u043F\u043E\u043B. Ma\u0142opolska)  \u2014 \u0456\u0441\u0442\u043E\u0440\u0438\u0447\u043D\u0430 \u043E\u0431\u043B\u0430\u0441\u0442\u044C \u0432 \u041F\u043E\u043B\u044C\u0449\u0456 \u0432\u0437\u0434\u043E\u0432\u0436 \u0432\u0435\u0440\u0445\u043D\u044C\u043E\u0457 \u0412\u0456\u0441\u043B\u0438.\u0420\u043E\u0437\u0442\u0430\u0448\u043E\u0432\u0430\u043D\u0430 \u0443 \u043F\u0456\u0432\u0434\u0435\u043D\u043D\u0456\u0439 \u0456 \u043F\u0456\u0432\u0434\u0435\u043D\u043D\u043E-\u0441\u0445\u0456\u0434\u043D\u0456\u0439 \u0447\u0430\u0441\u0442\u0438\u043D\u0456 \u043A\u0440\u0430\u0457\u043D\u0438. \u0410\u0434\u043C\u0456\u043D\u0456\u0441\u0442\u0440\u0430\u0442\u0438\u0432\u043D\u043E \u0432\u043A\u043B\u044E\u0447\u0430\u0454 \u0434\u0432\u0430 \u043F\u043E\u043B\u044C\u0441\u044C\u043A\u0438\u0445 \u0432\u043E\u0454\u0432\u043E\u0434\u0441\u0442\u0432\u0430: \u041C\u0430\u043B\u043E\u043F\u043E\u043B\u044C\u0441\u044C\u043A\u0435 \u0439 \u041F\u0456\u0434\u043A\u0430\u0440\u043F\u0430\u0442\u0441\u044C\u043A\u0435, \u0437\u0430\u0445\u0456\u0434\u043D\u0456 \u0447\u0430\u0441\u0442\u0438\u043D\u0438 \u041B\u044E\u0431\u043B\u0456\u043D\u0441\u044C\u043A\u043E\u0433\u043E \u0439 \u0421\u0432\u0435\u043D\u0442\u043E\u043A\u0448\u0438\u0441\u044C\u043A\u043E\u0433\u043E, \u043F\u0456\u0432\u0434\u0435\u043D\u043D\u0456 \u0440\u0430\u0439\u043E\u043D\u0438 \u041C\u0430\u0437\u043E\u0432\u0435\u0446\u044C\u043A\u043E\u0433\u043E \u0442\u0430 \u0441\u0445\u0456\u0434\u043D\u0456 \u0440\u0430\u0439\u043E\u043D\u0438 \u0421\u0456\u043B\u0435\u0437\u044C\u043A\u043E\u0433\u043E \u0432\u043E\u0454\u0432\u043E\u0434\u0441\u0442\u0432. \u0413\u043E\u043B\u043E\u0432\u043D\u0435 \u043C\u0456\u0441\u0442\u043E \u2014 \u041A\u0440\u0430\u043A\u0456\u0432."@uk ,
+		"La Peque\u00F1a Polonia, tambi\u00E9n llamada Polonia Menor (en polaco, Ma\u0142opolska y en lat\u00EDn Polonia Minor) es una regi\u00F3n hist\u00F3rica de Polonia, cuyo centro tradicional es la ciudad de Cracovia. Est\u00E1 constituida por la zona suroriental del territorio de la actual Rep\u00FAblica de Polonia y en la actualidad se centra alrededor del Voivodato de Peque\u00F1a Polonia, una de las divisiones administrativas del pa\u00EDs, aunque la regi\u00F3n hist\u00F3rica abarca zonas de varios otros voivodatos. La extensi\u00F3n de la Peque\u00F1a Polonia como regi\u00F3n hist\u00F3rica abarca un \u00E1rea extensa, casi desde la localidad de Cz\u0119stochowa en el oeste hasta las tierras al noreste de la ciudad de Lublin como l\u00EDmite oriental. El nombre de \"Peque\u00F1a Polonia\" deriva de que en el antiguo idioma polaco se antepon\u00EDa el t\u00E9rmino \"menor\" o \"peque\u00F1o\" (en polaco se usa el prefijo ma\u0142o) a las localidades que surg\u00EDan como derivaciones de una villa de mayor tama\u00F1o. Hacia el siglo X de nuestra era, el primer gran reino polaco tuvo su n\u00FAcleo en las llanuras del curso medio del r\u00EDo V\u00EDstula, que actualmente constituyen las regiones centrales de Polonia y que recibieron por tanto el nombre de Gran Polonia (en lat\u00EDn Polonia Maior), mientras las regiones meridionales incorporadas despu\u00E9s recib\u00EDan el nombre de \"Peque\u00F1a Polonia\". No obstante, desde el siglo XI el centro pol\u00EDtico del reino de Polonia se traslad\u00F3 m\u00E1s al sur, a las regiones cercanas a los C\u00E1rpatos y a las nacientes del V\u00EDstula, al punto que el rey Casimiro III estableci\u00F3 la capital permanente en la ciudad de Cracovia, situaci\u00F3n que persisti\u00F3 hasta inicios del siglo XVII cuando la capitalidad pas\u00F3 a Varsovia y el centro de poder pol\u00EDtico se traslad\u00F3 a la Gran Polonia y a la regi\u00F3n de Mazovia. En tiempos de la Rep\u00FAblica de las Dos Naciones, la Peque\u00F1a Polonia se extend\u00EDa ampliamente por el este casi hasta el noroeste de la actual Ucrania. Tras las Particiones de Polonia de 1772-1795, la Peque\u00F1a Polonia qued\u00F3 dividida entre Rusia y Austria, hasta su reincorporaci\u00F3n a la Segunda Rep\u00FAblica Polaca en 1918. Tras la Segunda Guerra Mundial las regiones m\u00E1s orientales de la Peque\u00F1a Polonia fueron anexadas a la URSS. En la actualidad esta regi\u00F3n se halla dividida entre el Voivodato de Peque\u00F1a Polonia, y los voivodatos de \u015Awi\u0119tokrzyskie, Subcarpacia, Lublin, Silesia, Mazovia y \u0141\u00F3d\u017A."@es ,
+		"La Petita Pol\u00F2nia (des de l'edat mitjana, en llat\u00ED, Polonia Minor, en polon\u00E8s Ma\u0142opolska) \u00E9s - al contrari de la Gran Pol\u00F2nia - originalment, la part meridional de l'antic estat polon\u00E8s, amb les ciutats de Crac\u00F2via, Lublin, Zamo\u015B\u0107 i Sandomierz, el ducat de la Petita Pol\u00F2nia. Els territoris al voltant de Sandomierz es consideren parcialment com a part del mateix ducat. Durant la seva pertinen\u00E7a a Pol\u00F2nia, les regions ucra\u00EFneses de Gal\u00EDtsia, Pod\u00EDl\u00B7lia, Vol\u00EDnia i altres quedaven tamb\u00E9 incloses en aquest concepte. La  exist\u00ED fins a 1772. A causa de les divisions de Pol\u00F2nia, la major part de les regions ucra\u00EFneses i la meitat meridional de les \u00E0rees originalment poloneses a \u00C0ustria van esdevenir una prov\u00EDncia coneguda amb el nom de Regne de Gal\u00EDtsia i Londom\u00E8ria en la monarquia austrohongaresa, amb les regions ucra\u00EFneses de Gal\u00EDtsia de l'est, mentre que les \u00E0rees originalment poloneses es qualificaven com a Gal\u00EDtsia de l'oest. Les parts septentrionals de les \u00E0rees poloneses originals i parts de Pod\u00EDl\u00B7lia i Vol\u00EDnia passaren a mans de R\u00FAssia per causa del repartiment de Pol\u00F2nia. Despr\u00E9s de la nova distribuci\u00F3 de l'administraci\u00F3 de Pol\u00F2nia, la Petita Pol\u00F2nia s'estenia sobre els voivodats de Sucarp\u00E0cia, Petita Pol\u00F2nia, Santa Creu i Lublin. La regi\u00F3 t\u00E9 tamb\u00E9 una part als Tatra amb l'\u00C0rea d'esports d'hivern al voltant de la ciutat de Zakopane."@ca ,
+		"Lesser Poland, often known by its Polish name Ma\u0142opolska (Latin: Polonia Minor), is a historical region situated in southern and south-eastern Poland. Its capital and largest city is Krak\u00F3w. Throughout centuries, Lesser Poland developed a separate culture featuring diverse architecture, folk costumes, dances, cuisine, traditions and a rare Lesser Polish dialect. The region is rich in historical landmarks, monuments, castles, natural scenery and UNESCO World Heritage Sites. The region should not be confused with the modern Lesser Poland Voivodeship, which covers only the southwestern part of Lesser Poland. Historical Lesser Poland was much larger than the current voivodeship that bears its name. It reached from Bielsko-Bia\u0142a in the southwest as far as to Siedlce in the northeast. It consisted of the three voivodeships of Krak\u00F3w, Sandomierz and Lublin. It comprised almost 60,000 km2 in area; today's population in this area is about 9,000,000 inhabitants. Its landscape is mainly hilly, with the Carpathian Mountains and Tatra Mountain Range in the south; it is located in the basin of the upper Vistula river. It has been noted for its mighty aristocracy (magnateria) and wealthy nobility (szlachta). Between the 14th and 18th century, the Lesser Poland Province of the Polish Crown also encompassed the historical region of Red Ruthenia. In the era of partitions, the southern part of Lesser Poland became known as Galicia, which was under Austrian control until Poland regained its independence in 1918. As a result of this long-lasting division, many inhabitants of the northern part of Lesser Poland (including those in such cities as Lublin, Radom, Kielce and Cz\u0119stochowa) do not recognize their Lesser Polish identity. However, while Lublin (Lubelskie) was declared an independent Voivodeship as early as 1474, it still has speakers of the Lesser Polish dialect. Across history, many ethnic and religious minorities existed in Lesser Poland as they fled persecution from other areas or countries. Poland's once tolerant policy towards these minorities allowed them to flourish and create separate self-governing communities. Some minorities still remain, but are on the verge of extinction, most notably Wymysorys-speaking Vilamovians, Halcnovians, Gorals, Lemkos, Uplanders, and once Polish Jews and Walddeutsche Germans."@en ,
+		"\u0628\u0648\u0644\u0646\u062F\u0627 \u0627\u0644\u0635\u063A\u0631\u0649 (\u0628\u0627\u0644\u0625\u0646\u062C\u0644\u064A\u0632\u064A\u0629: Lesser Poland) (\u0643\u0630\u0644\u0643 Little Poland\u060C \u0628\u0627\u0644\u0644\u063A\u0629 \u0627\u0644\u0628\u0648\u0644\u0646\u062F\u064A\u0629 Ma\u0142opolska\u060C \u0648\u0628\u0627\u0644\u0644\u063A\u0629 \u0627\u0644\u0644\u0627\u062A\u064A\u0646\u064A\u0629 Polonia Minor) \u0647\u064A \u0625\u062D\u062F\u0649 \u0627\u0644\u0645\u0646\u0627\u0637\u0642 \u0627\u0644\u062A\u0627\u0631\u064A\u062E\u064A\u0629 \u0627\u0644\u0628\u0648\u0644\u0646\u062F\u064A\u0629\u061B \u0648\u0639\u0627\u0635\u0645\u062A\u0647\u0627 \u0641\u064A \u0645\u062F\u064A\u0646\u0629 \u0643\u0631\u0627\u0643\u0648\u0641. \u0648\u064A\u0634\u0643\u0644 \u0627\u0644\u0625\u0642\u0644\u064A\u0645 \u0627\u0644\u062C\u0632\u0621 \u0627\u0644\u062C\u0646\u0648\u0628\u064A \u0645\u0646 \u0627\u0644\u0628\u0644\u0627\u062F\u060C \u0648\u064A\u062C\u0628 \u0639\u062F\u0645 \u0627\u0644\u062E\u0644\u0637 \u0628\u064A\u0646\u0647 \u0648\u0628\u064A\u0646 \u0641\u0648\u064A\u0641\u0648\u062F \u0628\u0648\u0644\u0646\u062F\u0627 \u0627\u0644\u0635\u063A\u0631\u0649\u060C \u0627\u0644\u0630\u064A \u064A\u0634\u063A\u0644 \u062C\u0632\u0621\u064B\u0627 \u062C\u0646\u0648\u0628\u064A\u064B\u0627 \u0635\u063A\u064A\u0631\u064B\u0627 \u0645\u0646 \u0625\u0642\u0644\u064A\u0645 \u0628\u0648\u0644\u0646\u062F\u0627 \u0627\u0644\u0635\u063A\u0631\u0649. \u0648\u0625\u0642\u0644\u064A\u0645 \u0628\u0648\u0644\u0646\u062F\u0627 \u0627\u0644\u0635\u063A\u0631\u0649 \u0627\u0644\u062A\u0627\u0631\u064A\u062E\u064A \u0623\u0643\u0628\u0631 \u0628\u0643\u062B\u064A\u0631 \u0645\u0646 \u0627\u0644\u0645\u0642\u0627\u0637\u0639\u0629 \u0627\u0644\u062D\u0627\u0644\u064A\u0629 \u0627\u0644\u062A\u064A \u062A\u062D\u0645\u0644 \u0627\u0633\u0645\u0647\u061B \u0648\u0627\u0644\u062A\u064A \u062A\u0645\u062A\u062F \u0645\u0646 \u062A\u0634\u064A\u0646\u0633\u062A\u0648\u062E\u0648\u0641\u0627 \u0641\u064A \u0627\u0644\u063A\u0631\u0628 \u0625\u0644\u0649 \u0627\u0644\u0623\u0631\u0627\u0636\u064A \u0634\u0645\u0627\u0644 \u0634\u0631\u0642 \u0644\u0648\u0628\u0644\u064A\u0646 \u0641\u064A \u0627\u0644\u0634\u0631\u0642. \u0648\u0641\u064A \u0623\u0648\u0627\u062E\u0631 \u0627\u0644\u0639\u0635\u0648\u0631 \u0627\u0644\u0648\u0633\u0637\u0649\u060C \u0623\u0635\u0628\u062D \u0625\u0642\u0644\u064A\u0645 \u0628\u0648\u0644\u0646\u062F\u0627 \u0627\u0644\u0635\u063A\u0631\u0649 \u062A\u062F\u0631\u064A\u062C\u064A\u064B\u0627 \u0645\u0631\u0643\u0632 \u0627\u0644\u062F\u0648\u0644\u0629 \u0627\u0644\u0628\u0648\u0644\u0646\u062F\u064A\u0629\u060C \u0648\u0643\u0627\u0646\u062A \u0643\u0631\u0627\u0643\u0648\u0641 \u0639\u0627\u0635\u0645\u0629 \u0627\u0644\u0628\u0644\u0627\u062F \u0645\u0646\u0630 \u0645\u0646\u062A\u0635\u0641 \u0627\u0644\u0642\u0631\u0646 \u0627\u0644\u062D\u0627\u062F\u064A \u0639\u0634\u0631 \u0648\u062D\u062A\u0649 \u0639\u0627\u0645 1596. \u0648\u062D\u0643\u0645 \u0627\u0644\u0646\u0628\u0644\u0627\u0621 \u0628\u0648\u0644\u0646\u062F\u0627 \u0639\u0646\u062F\u0645\u0627 \u0643\u0627\u0646\u062A \u0627\u0644\u0645\u0644\u0643\u0629 \u064A\u0627\u062F\u0641\u064A\u063A\u0627 (Jadwiga) \u0635\u063A\u064A\u0631\u0629 \u062C\u062F\u064B\u0627 \u0644\u062D\u0643\u0645 \u0627\u0644\u0628\u0644\u0627\u062F\u060C \u0648\u0643\u0627\u0646 \u0627\u062A\u062D\u0627\u062F \u0643\u0631\u064A\u0641\u0648 \u0645\u0639 \u062F\u0648\u0642\u064A\u0629 \u0644\u064A\u062A\u0648\u0627\u0646\u064A\u0627 \u0627\u0644\u0643\u0628\u0631\u0649 \u0645\u0646 \u0628\u0646\u0627\u062A \u0623\u0641\u0643\u0627\u0631 \u0637\u0628\u0642\u0629 \u0632\u0644\u0627\u062E\u062A\u0627 \u0627\u0644\u062A\u0627\u0628\u0639\u0629 \u0644\u0628\u0648\u0644\u0646\u062F\u0627 \u0627\u0644\u0635\u063A\u0631\u0649. \u0648\u0641\u064A \u0627\u0644\u0642\u0631\u0646 \u0627\u0644\u0633\u0627\u0628\u0639 \u0639\u0634\u0631\u060C \u062A\u0636\u0627\u0621\u0644\u062A \u0623\u0647\u0645\u064A\u0629 \u0628\u0648\u0644\u0646\u062F\u0627 \u0627\u0644\u0635\u063A\u0631\u0649\u060C \u0639\u0646\u062F\u0645\u0627 \u0628\u0631\u0632\u062A \u0648\u0627\u0631\u0633\u0648 \u0648\u0625\u0642\u0644\u064A\u0645 \u0645\u0627\u0632\u0648\u0641\u064A\u0627 \u0627\u0644\u0630\u064A \u064A\u062A\u0645\u062A\u0639 \u0628\u0645\u0648\u0642\u0639 \u0645\u0631\u0643\u0632\u064A \u0643\u0645\u0646\u0627\u0637\u0642 \u0631\u0626\u064A\u0633\u064A\u0629 \u0644\u0644\u0628\u0644\u0627\u062F. \u0648\u062A\u0645 \u062A\u0642\u0633\u064A\u0645 \u0645\u0642\u0627\u0637\u0639\u0629 \u0628\u0648\u0644\u0646\u062F\u0627 \u0627\u0644\u0635\u063A\u0631\u0649 \u0639\u0644\u0649 \u0637\u0648\u0644 \u062E\u0637 \u0646\u0647\u0631 \u0641\u064A\u0633\u062A\u0648\u0644\u0627 \u0628\u064A\u0646 \u0627\u0644\u0625\u0645\u0628\u0631\u0627\u0637\u0648\u0631\u064A\u0629 \u0627\u0644\u0646\u0645\u0633\u0627\u0648\u064A\u0629 \u0648\u0627\u0644\u0625\u0645\u0628\u0631\u0627\u0637\u0648\u0631\u064A\u0629 \u0627\u0644\u0631\u0648\u0633\u064A\u0629 \u0623\u062B\u0646\u0627\u0621 \u062A\u0642\u0633\u064A\u0645 \u0628\u0648\u0644\u0646\u062F\u0627. \u0648\u062A\u0642\u062A\u0635\u0631 \u062D\u062F\u0648\u062F \u0627\u0644\u0625\u0642\u0644\u064A\u0645 \u0627\u0644\u0622\u0646 \u0641\u064A \u0627\u0644\u063A\u0627\u0644\u0628 \u0639\u0644\u0649 \u0627\u0644\u062C\u0632\u0621 \u0627\u0644\u062C\u0646\u0648\u0628\u064A \u0627\u0644\u0635\u063A\u064A\u0631 \u0627\u0644\u0630\u064A \u0643\u0627\u0646 \u064A\u062E\u0636\u0639 \u0637\u0648\u0627\u0644 \u0627\u0644\u0642\u0631\u0646 \u0627\u0644\u062A\u0627\u0633\u0639 \u0639\u0634\u0631 \u0644\u0644\u0625\u062F\u0627\u0631\u0629 \u0627\u0644\u0646\u0645\u0633\u0627\u0648\u064A\u0629 \u062A\u062D\u062A \u0627\u0633\u0645 \u063A\u0627\u0644\u064A\u0633\u064A\u0627. \u0648\u0646\u062A\u064A\u062C\u0629 \u0644\u0647\u0630\u0627 \u0627\u0644\u062A\u0642\u0633\u064A\u0645 \u0637\u0648\u064A\u0644 \u0627\u0644\u0623\u0645\u062F\u060C \u0641\u0642\u062F \u0627\u0644\u0643\u062B\u064A\u0631 \u0645\u0646 \u0633\u0643\u0627\u0646 \u0627\u0644\u062C\u0632\u0621 \u0627\u0644\u0634\u0645\u0627\u0644\u064A \u0645\u0646 \u0647\u0630\u0627 \u0627\u0644\u0625\u0642\u0644\u064A\u0645 \u0627\u0644\u0628\u0648\u0644\u0646\u062F\u064A \u0627\u0644\u062A\u0627\u0631\u064A\u062E\u064A (\u0627\u0644\u0642\u0627\u0637\u0646\u064A\u0646 \u0641\u064A \u0645\u062F\u0646 \u0645\u062B\u0644 \u0644\u0648\u0628\u0644\u064A\u0646 \u0648\u0631\u0627\u062F\u0648\u0645 \u0648\u0643\u064A\u0644\u064A\u0633) \u0647\u0648\u064A\u062A\u0647\u0645 \u0627\u0644\u062E\u0627\u0635\u0629 \u0628\u0625\u0642\u0644\u064A\u0645 \u0628\u0648\u0644\u0646\u062F\u0627 \u0627\u0644\u0635\u063A\u0631\u0649. \u0648\u062D\u0627\u0644\u064A\u064B\u0627\u060C \u064A\u0646\u0642\u0633\u0645 \u0625\u0642\u0644\u064A\u0645 \u0628\u0648\u0644\u0646\u062F\u0627 \u0627\u0644\u0635\u063A\u0631\u0649 \u0628\u064A\u0646 \u0627\u0644\u0639\u062F\u064A\u062F \u0645\u0646 \u0627\u0644\u0645\u0642\u0627\u0637\u0639\u0627\u062A\u060C \u0643\u0645\u0627 \u064A\u062A\u0636\u062D \u0645\u0646 \u062E\u0644\u0627\u0644 \u0627\u0644\u062E\u0631\u064A\u0637\u0629 \u0627\u0644\u0645\u0628\u064A\u0646\u0629 \u0639\u0644\u0649 \u0627\u0644\u064A\u0633\u0627\u0631 - \u0643\u0627\u0645\u0644 \u0645\u0642\u0627\u0637\u0639\u0629 \u0641\u0648\u064A\u0641\u0648\u062F \u0628\u0648\u0644\u0646\u062F\u0627 \u0627\u0644\u0635\u063A\u0631\u0649 \u0648\u0643\u0627\u0645\u0644 \u0645\u0642\u0627\u0637\u0639\u0629 \u0641\u0648\u064A\u0641\u0648\u062F \u0633\u0648\u064A\u062A\u0648\u0643\u0631\u0632\u064A\u0633\u0643\u064A \u0648\u0627\u0644\u0646\u0635\u0641 \u0627\u0644\u063A\u0631\u0628\u064A \u0645\u0646 \u0645\u0642\u0627\u0637\u0639\u0629 \u0641\u0648\u064A\u0641\u0648\u062F \u0644\u0648\u0628\u0644\u064A\u0646 \u0648\u0627\u0644\u062C\u0632\u0621 \u0627\u0644\u063A\u0631\u0628\u064A \u0645\u0646 \u0645\u0642\u0627\u0637\u0639\u0629 \u0641\u0648\u064A\u0641\u0648\u062F \u0635\u0627\u0628\u0643\u0627\u0631\u0628\u0627\u062B\u064A\u0627\u0646 \u0648\u0627\u0644\u0646\u0635\u0641 \u0627\u0644\u0634\u0631\u0642\u064A \u0645\u0646 \u0645\u0642\u0627\u0637\u0639\u0629 \u0641\u0648\u064A\u0641\u0648\u062F \u0633\u064A\u0644\u064A\u0632\u064A\u0627 \u0648\u0627\u0644\u062C\u0632\u0621 \u0627\u0644\u062C\u0646\u0648\u0628\u064A \u0645\u0646 \u0645\u0642\u0627\u0637\u0639\u0629 \u0641\u0648\u064A\u0641\u0648\u062F \u0645\u0627\u0632\u0648\u0641\u064A\u0627\u0646 \u0648\u0627\u0644\u0632\u0627\u0648\u064A\u0629 \u0627\u0644\u062C\u0646\u0648\u0628\u064A\u0629 \u0627\u0644\u0634\u0631\u0642\u064A\u0629 \u0645\u0646 \u0645\u0642\u0627\u0637\u0639\u0629 \u0641\u0648\u064A\u0641\u0648\u062F \u0644\u0648\u062F\u0632 (\u062D\u0648\u0644 \u0623\u0648\u0628\u0648\u062A\u0634\u0646\u0648)."@ar ,
+		"\uB9C8\uC6CC\uD3F4\uC2A4\uCE74(\uD3F4\uB780\uB4DC\uC5B4: Ma\u0142opolska) \uB610\uB294 \uC18C\uD3F4\uB780\uB4DC(\uB77C\uD2F4\uC5B4: Polonia Minor \uD3F4\uB85C\uB2C8\uC544 \uBBF8\uB178\uB974[*])\uB294 \uD3F4\uB780\uB4DC\uC758 \uC5ED\uC0AC\uC801 \uC9C0\uC5ED\uC774\uB2E4. \uBA74\uC801\uC740 \uC57D 60,000km2, \uC804\uCCB4 \uC778\uAD6C\uB294 \uC57D 9,000,000\uBA85\uC774\uBA70 \uC911\uC2EC \uB3C4\uC2DC\uB294 \uD06C\uB77C\uCFE0\uD504\uC774\uB2E4."@ko ,
+		"\u041C\u0430\u043B\u0430\u044F \u041F\u043E\u043B\u044C\u0448\u0430 (\u043F\u043E\u043B\u044C\u0441\u043A. Ma\u0142opolska) \u2014 \u0438\u0441\u0442\u043E\u0440\u0438\u0447\u0435\u0441\u043A\u0430\u044F \u043E\u0431\u043B\u0430\u0441\u0442\u044C \u043D\u0430 \u044E\u0433\u043E-\u0432\u043E\u0441\u0442\u043E\u043A\u0435 \u041F\u043E\u043B\u044C\u0448\u0438. \u041D\u0430\u0437\u0432\u0430\u043D\u0438\u0435 \u043B\u0430\u0442. Polonia Minor \u0432\u043F\u0435\u0440\u0432\u044B\u0435 \u0432\u0441\u0442\u0440\u0435\u0447\u0430\u0435\u0442\u0441\u044F \u0432 1411 \u0433\u043E\u0434\u0443. \u0421\u0442\u043E\u043B\u0438\u0446\u0435\u0439 \u041C\u0430\u043B\u043E\u0439 \u041F\u043E\u043B\u044C\u0448\u0438 \u0441\u0447\u0438\u0442\u0430\u0435\u0442\u0441\u044F \u041A\u0440\u0430\u043A\u043E\u0432. \u0412 877\u2014907 \u0433\u043E\u0434\u0430\u0445 \u0432\u0445\u043E\u0434\u0438\u043B\u0430 \u0432 \u0441\u043E\u0441\u0442\u0430\u0432 \u0412\u0435\u043B\u0438\u043A\u043E\u0439 \u041C\u043E\u0440\u0430\u0432\u0438\u0438. \u0412 1314 \u0433\u043E\u0434\u0443 \u0412\u043B\u0430\u0434\u0438\u0441\u043B\u0430\u0432 I \u041B\u043E\u043A\u0435\u0442\u0435\u043A \u043E\u0431\u044A\u0435\u0434\u0438\u043D\u0438\u043B \u0442\u0435\u0440\u0440\u0438\u0442\u043E\u0440\u0438\u0438 \u041C\u0430\u043B\u043E\u0439 \u0438 \u0412\u0435\u043B\u0438\u043A\u043E\u0439 \u041F\u043E\u043B\u044C\u0448\u0438. \u0412 \u0441\u043E\u0441\u0442\u0430\u0432 \u041C\u0430\u043B\u043E\u043F\u043E\u043B\u044C\u0441\u043A\u043E\u0439 \u043F\u0440\u043E\u0432\u0438\u043D\u0446\u0438\u0438 \u043F\u043E\u043C\u0438\u043C\u043E \u0441\u043E\u0431\u0441\u0442\u0432\u0435\u043D\u043D\u043E \u0441\u0430\u043C\u043E\u0439 \u041C\u0430\u043B\u043E\u0439 \u041F\u043E\u043B\u044C\u0448\u0438 \u0432 1569\u20141795 \u0433\u043E\u0434\u0430\u0445 \u0432\u0445\u043E\u0434\u0438\u043B\u0430 \u0442\u0430\u043A\u0436\u0435 \u0447\u0430\u0441\u0442\u044C \u0442\u0435\u0440\u0440\u0438\u0442\u043E\u0440\u0438\u0438 \u0441\u043E\u0432\u0440\u0435\u043C\u0435\u043D\u043D\u043E\u0439 \u0423\u043A\u0440\u0430\u0438\u043D\u044B."@ru ,
+		"In de geschiedenis omvatte Klein-Polen een groter gebied dan de hedendaagse Woiwodschap Klein-Polen. In 1569 sloten Polen en Litouwen zich door de Unie van Lublin aaneen tot het Pools-Litouwse Gemenebest. Dit rijk was onderverdeeld in Groot-Polen, Klein-Polen, het grootvorstendom Litouwen en het hertogdom Lijfland, die elk onderverdeeld waren in woiwodschappen en/of vorstendommen. Onderstaande tabel geeft de gebieden die tot Klein-Polen (Ma\u0142opolska) behoorden. Met alle Oekra\u00EFense gebieden erbij was Klein-Polen trouwens groter dan Groot-Polen. Verschillende Poolse delen, zoals Lublin en Podlachi\u00EB, vormen nu een zelfstandige Poolse regio, naast het (echt kleine) hedendaagse Woiwodschap Klein-Polen."@nl ,
+		"Pequena Pol\u00F4nia (portugu\u00EAs brasileiro) ou Pequena Pol\u00F3nia (portugu\u00EAs europeu) (polon\u00EAs: Ma\u0142opolska, latim: Polonia Minor) \u00E9 uma regi\u00E3o hist\u00F3rica da Pol\u00F4nia. Forma a maior parte sul do pa\u00EDs. N\u00E3o deve ser confundida com a voivodia da Pequena Pol\u00F4nia, que \u00E9 apenas uma parte da regi\u00E3o hist\u00F3rica da Pequena Pol\u00F4nia."@pt ,
+		"Lillpolen (p\u00E5 polska Ma\u0142opolska) \u00E4r ett historiskt omr\u00E5de i s\u00F6dra Polen. Det har gett namn \u00E5t det moderna vojvodskapet Lillpolens vojvodskap. Lillpolen var den s\u00F6dra, bergiga delen av det forna polska riket i motsats till den nordv\u00E4stra delen, som kallades Storpolen. Det omfattade i mera inskr\u00E4nkt mening vojvodskapen Krak\u00F3w,Sandomierz och Lublin, i vidstr\u00E4cktare betydelse \u00E4ven Podlachien (en del tidigare guvernementet Grodno),Rus (i det gamla kronlandet Galizien), Podolien och Volynien."@sv ,
+		"Ma\u0142opolska \u2013 kraina historyczna Polski, obejmuj\u0105ca obecnie po\u0142udniowo-wschodni\u0105 cz\u0119\u015B\u0107 kraju, w g\u00F3rnym i cz\u0119\u015Bciowo \u015Brodkowym dorzeczu Wis\u0142y oraz w dorzeczu g\u00F3rnej Warty;  Polski. Stolic\u0105 Ma\u0142opolski jest Krak\u00F3w. Nazwa Ma\u0142opolska (\u0142ac. Polonia Minor) zosta\u0142a po raz pierwszy u\u017Cyta w \u017Ar\u00F3d\u0142ach pisanych w 1411 r., a potwierdzona zosta\u0142a dopiero w roku 1493 w  kr\u00F3la Jana Olbrachta (podczas obrad dwuizbowego sejmu walnego w Piotrkowie w latach 1493\u20131496) w celu odr\u00F3\u017Cnienia tej cz\u0119\u015Bci pa\u0144stwa od Wielkopolski (\u0142ac. Polonia Maior). Pierwotne znaczenie tej nazwy nie jest pewne \u2013 s\u0142owa maior i minor mo\u017Cna odczytywa\u0107 tu w kilku kontekstach (nie tylko najbardziej oczywiste wi\u0119ksza \u2013 mniejsza, ale te\u017C np. starsza \u2013 m\u0142odsza, rozszerzona \u2013 w\u0142a\u015Bciwa). Obecnie, po wprowadzeniu reformy administracyjnej w 1999 roku, okre\u015Blenia \u201EMa\u0142opolska\u201D u\u017Cywa si\u0119 niepoprawnie g\u0142\u00F3wnie lub niemal wy\u0142\u0105cznie w stosunku do obszaru, utworzonego w trakcie wspomnianej reformy wojew\u00F3dztwa ma\u0142opolskiego w charakterze synonimu lub akronimu. Ma to m.in. odzwierciedlenie w nomenklaturze Urz\u0119du Marsza\u0142kowskiego objawiaj\u0105cej si\u0119 przyk\u0142adowo w logo wojew\u00F3dztwa."@pl ,
+		"La Petite-Pologne (en polonais : Ma\u0142opolska, en latin : Polonia Minor) est une des r\u00E9gions historiques de Pologne. Situ\u00E9e au sud-est du territoire de l'actuelle r\u00E9publique de Pologne, elle avait une superficie triple de celle de la vo\u00EFvodie qui aujourd'hui porte ce nom. Sa capitale est Cracovie."@fr ,
+		"\u5C0F\u6CE2\u5170\uFF08\u6CE2\u862D\u8A9E\uFF1AMa\u0142opolska\uFF0C\u62C9\u4E01\u8A9E\uFF1APolonia Minor\uFF09\u662F\u6CE2\u5170\u7684\u5386\u53F2\u5730\u533A\u4E4B\u4E00\uFF0C\u4F4D\u4E8E\u6CE2\u5170\u7684\u4E1C\u5357\u89D2\u3002\u8BE5\u5730\u533A\u4E0D\u80FD\u4E0E\u5C0F\u6CE2\u5170\u7701\u76F8\u6DF7\u6DC6\uFF0C\u8BE5\u7701\u53EA\u5305\u62EC\u5C0F\u6CE2\u5170\u5386\u53F2\u5730\u533A\u7684\u4E00\u90E8\u5206\u3002"@zh ,
+		"Kleinpolen (seit dem Mittelalter lateinisch Polonia Minor, polnisch Ma\u0142opolska) ist urspr\u00FCnglich die Bezeichnung f\u00FCr den s\u00FCdlichen Teil des alten polnischen Staates mit den Metropolen Krakau, Lublin, Zamo\u015B\u0107 und Sandomierz. W\u00E4hrend ihrer Zugeh\u00F6rigkeit zu Polen-Litauen fasste man ab 1569 (Union von Lublin) die ukrainischen Gebiete Galizien, Podolien, Wolhynien, Kiew u. a. ebenfalls in den Begriff. Die Gro\u00DFprovinz Kleinpolen bestand bis 1772."@de ,
+		"Polonia Txikia (polonieraz: Ma\u0142opolska; latinez: Polonia Minor) Krakovia hiriburu duen Poloniako eskualde historikoa da. Herrialdearen hego-ekialdeko kantoian dago, eta ez da nahasi behar 1999an eratutako Polonia Txikiko voivoderriarekin. Azken honek eskualde historikoaren zati bat baino ez du hartzen. Polonia Txikiak Vistularen arroaren goiko aldea eta erdialdearen parte bat hartzen du, Poloniar Karpatoen gehiena, Sandomierz eta O\u015Bwi\u0119cim arroak eta Ma\u0142opolska goi ordokia barne. Erdi Aroan eskualde hau poloniar estatuaren erdigune bilakatu zen, eta XI. mendearen erdialdetik 1596 arte erresumaren hiriburua Krakovia izan zen."@eu ;
+	dbo:country	dbr:Poland .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Lesser_Poland	dbp:align	"right"@en ;
+	dbp:image	"Royal Castle in Lublin.JPG"@en ,
+		"Lublin Don\u017Con i dziedziniec zamku.jpg"@en ;
+	dbp:imageMap	"Krakowskie sandomierskie lubelskie.png"@en ;
+	dbp:caption	"Castle courtyard with a fortified keep"@en ,
+		"Neogothic fa\u00E7ade of Lublin Castle"@en ;
+	dbp:imageShield	80 ;
+	dbp:timezoneDst	dbr:Central_European_Summer_Time ;
+	dbp:utcOffsetDst	"+2"@en ;
+	dbp:mapsize	240 ;
+	dbp:nativeName	"Ma\u0142opolska"@en .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Lesser_Poland	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Lesser_Poland?oldid=985271312&ns=0> ;
+	dbp:direction	"vertical"@en ;
+	dbo:type	dbr:Historical_region ;
+	dbp:areaTotalKm	60000 ;
+	dbp:settlementType	"Historical region"@en ;
+	dbp:utcOffset	"+1"@en ;
+	dbo:utcOffset	"+1" ,
+		"+2" ;
+	dbo:timeZone	dbr:Central_European_Time ,
+		dbr:Central_European_Summer_Time .
+@prefix ns28:	<http://dbpedia.org/datatype/> .
+@prefix ns29:	<http://dbpedia.org/ontology/PopulatedPlace/> .
+dbr:Lesser_Poland	ns29:areaTotal	"60000.0"^^ns28:squareKilometre ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Krakowskie_sandomierskie_lubelskie.png?width=300> ;
+	dbp:width	219 ;
+	dbp:nativeNameLang	"pl"@en ;
+	dbo:wikiPageExternalLink	<https://web.archive.org/web/20110722035853/http:/www2.polskieradio.pl/rckl/muzykazrodel/artykul33250.html> ,
+		<https://web.archive.org/web/20090616065127/http:/zachodniamalopolska.republika.pl/> ,
+		<https://books.google.com/books%3Fid=Qe3UzP5I2vsC&pg=PA224%7C> ,
+		<https://books.google.com/books%3Fid=QTUTqE2difgC&pg=PA309%7C> ,
+		<https://books.google.com/books%3Fid=b912JnKpYTkC&pg=PA393%7C> ,
+		<https://books.google.com/books%3Fid=_75stIZO7WAC&pg=PA197%7C> ,
+		<http://www.visit.malopolska.pl/%3Flang=gb> ,
+		<https://web.archive.org/web/20110604233223/http:/info-poland.buffalo.edu/web/geography/regions/malopolska/link.shtml> ,
+		<http://www.malopolska24.pl/> ,
+		<https://web.archive.org/web/20110207172447/http:/www.zachodniamalopolska.wojewodztwoslaskie.pl/> .
+@prefix ns30:	<http://www.lonelyplanet.com/poland/malopolska/sights/> .
+dbr:Lesser_Poland	dbo:wikiPageExternalLink	ns30:castle ,
+		<https://books.google.com/books%3Fid=tdDgRQAACAAJ%7C> ,
+		<http://www.krakow-info.com/nationalparks.htm> ;
+	dbp:seat	<http://dbpedia.org/resource/Krak\u00F3w> ;
+	dbo:originalName	"Ma\u0142opolska"@en .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Lesser_Poland	dbo:areaTotal	60000000000.0 ;
+	dbp:subdivisionType	"Country"@en ;
+	dbp:populationDensityKm	"auto"@en ;
+	dbp:mapCaption	"The historical region of Lesser Poland  within the borders of present-day Poland"@en ;
+	dbp:populationTotal	"ca. 9000000"@en ;
+	dbp:timezone	dbr:Central_European_Time ;
+	dbo:wikiPageID	18671 ;
+	dbo:wikiPageRevisionID	985271312 ;
+	dbo:wikiPageWikiLink	dbr:Slovakia ,
+		dbr:Mieszko_IV_Tanglefoot ,
+		<http://dbpedia.org/resource/\u0141uk\u00F3w> ,
+		dbr:Piaski_Coal_Mine ,
+		dbr:Jan_Miodek ,
+		<http://dbpedia.org/resource/Jan_Kanty_Pawlu\u015Bkiewicz> ,
+		dbr:University_of_Lviv ,
+		dbr:Polityka ,
+		<http://dbpedia.org/resource/FB_%22\u0141ucznik%22_Radom> ,
+		<http://dbpedia.org/resource/Babia_G\u00F3ra> ,
+		dbr:Dobczyce ,
+		<http://dbpedia.org/resource/Stanis\u0142aw_Brz\u00F3ska> ,
+		<http://dbpedia.org/resource/1937_peasant_strike_in_Poland> ,
+		<http://dbpedia.org/resource/Brac\u0142aw_Voivodeship> ,
+		dbr:Bohemia ,
+		dbr:Polish_Air_Force_University ,
+		<http://dbpedia.org/resource/Boles\u0142aw_the_Pious> ,
+		dbr:Congress_Poland ,
+		dbr:Camino_de_Santiago ,
+		dbr:Kutno ,
+		<http://dbpedia.org/resource/Polish\u2013Swedish_War_(1626\u20131629)> ,
+		dbr:Lesser_Poland_Voivodeship ,
+		dbr:Tatra_Mountains ,
+		<http://dbpedia.org/resource/Kro\u015Bcienko_nad_Dunajcem> ,
+		dbr:Polish_Brethren ,
+		dbr:Justyna_Kowalczyk-Tekieli ,
+		<http://dbpedia.org/resource/F\u0141T-Kra\u015Bnik> ,
+		dbr:Kuyavia ,
+		<http://dbpedia.org/resource/Polish\u2013Ottoman_War_(1620\u201321)> ,
+		dbr:Battle_of_Chmielnik ,
+		<http://dbpedia.org/resource/Roman_Catholic_Archdiocese_of_Krak\u00F3w> ,
+		dbr:Mazovia ,
+		<http://dbpedia.org/resource/W\u0142adys\u0142aw_Belina-Pra\u017Cmowski> ,
+		dbr:Great_Northern_War ,
+		dbr:Jan_Kochanowski_University ,
+		dbr:History_of_Poland_during_the_Piast_dynasty ,
+		dbr:Stalowa_Wola ,
+		dbr:Robert_Kubica ,
+		dbr:Zinc ,
+		dbr:Jan_Piwnik ,
+		<http://dbpedia.org/resource/PZL-\u015Awidnik> ,
+		<http://dbpedia.org/resource/Chy\u017Cne> ,
+		<http://dbpedia.org/resource/Boles\u0142aw_IV_the_Curly> ,
+		<http://dbpedia.org/resource/Holy_Father_John_Paul_II_Family_Home,_Wadowice> ,
+		dbr:Silesian_language ,
+		<http://dbpedia.org/resource/Domaradz,_Podkarpackie_Voivodeship> ,
+		<http://dbpedia.org/resource/Stanis\u0142aw_Pyjas> ,
+		dbr:Partitions_of_Poland ,
+		dbr:Pieniny ,
+		<http://dbpedia.org/resource/Boles\u0142aw_V_the_Chaste> ,
+		<http://dbpedia.org/resource/\u0141ysica> ,
+		<http://dbpedia.org/resource/Barwinek,_Podkarpackie_Voivodeship> ,
+		dbr:PZL_Mielec ,
+		dbr:Liwiec ,
+		dbr:Casimir_I_the_Restorer ,
+		<http://dbpedia.org/resource/Battle_of_Rac\u0142awice> ,
+		dbr:Invasion_of_Poland ,
+		dbr:Magura_National_Park ,
+		<http://dbpedia.org/resource/Krak\u00F3w_Voivodeship_(14th_century_\u2013_1795)> ,
+		<http://dbpedia.org/resource/D\u0105browa_Basin> ,
+		<http://dbpedia.org/resource/Miko\u0142aj_z_Radomia> ,
+		<http://dbpedia.org/resource/W\u0142adys\u0142aw_II_Jagie\u0142\u0142o> ,
+		<http://dbpedia.org/resource/Testament_of_Boles\u0142aw_III_Wrymouth> ,
+		<http://dbpedia.org/resource/Andrych\u00F3w> ,
+		dbr:Gorce_National_Park ,
+		dbr:Wenceslaus_II_of_Bohemia ,
+		<http://dbpedia.org/resource/Grodzisk_Mazowiecki\u2013Zawiercie_railway> ,
+		dbr:Third_Mongol_invasion_of_Poland ,
+		<http://dbpedia.org/resource/Wis\u0142a_Krak\u00F3w> ,
+		<http://dbpedia.org/resource/Pieniny_National_Park_(Poland)> ,
+		<http://dbpedia.org/resource/Krzesz\u00F3w,_Podkarpackie_Voivodeship> ,
+		dbr:Jagiellonian_dynasty ,
+		<http://dbpedia.org/resource/Ignacy_Daszy\u0144ski> ,
+		dbr:International_E-road_network ,
+		dbr:Pedagogical_University_of_Cracow ,
+		dbr:Red_Army ,
+		<http://dbpedia.org/resource/Spi\u0161> ,
+		dbr:Biecz_County ,
+		dbr:Seniorate_Province ,
+		dbr:Union_of_Lublin ,
+		dbr:Casimir_II_the_Just ,
+		dbr:Casimir_III_the_Great ,
+		<http://dbpedia.org/resource/Hutnik_Krak\u00F3w> ,
+		dbr:Piotr_Gruszka ,
+		dbr:Wojnicz ,
+		dbr:Siedlce_Governorate ,
+		<http://dbpedia.org/resource/Lake_Klimk\u00F3wka> ,
+		<http://dbpedia.org/resource/Lake_Mi\u0119dzybrodzie> ,
+		dbr:Brynica ,
+		dbr:Polish_Liquidation_Commission ,
+		dbr:Polesie_National_Park ,
+		dbr:Walery_Przyborowski ,
+		dbr:Wawel_Castle ,
+		<http://dbpedia.org/resource/File:POL_Jas\u0142o_COA.svg> ,
+		<http://dbpedia.org/resource/File:POL_Mielec_COA.svg> ,
+		<http://dbpedia.org/resource/File:Tarnow_Rynek_20080708_4154.jpg> ,
+		dbr:Lublin_Ghetto ,
+		dbr:Turbacz ,
+		<http://dbpedia.org/resource/File:POL_wojew\u00F3dztwo_krakowskie_IRP_COA.svg> ,
+		<http://dbpedia.org/resource/File:Wojewodztwo_slaskie_a_Slask.png> ,
+		<http://dbpedia.org/resource/File:Wyszehradzki_Festiwal_Folklorystyczny_w_Ja\u015Ble_Lachy_S\u0105deckie_4.JPG> ,
+		<http://dbpedia.org/resource/File:Zamek-niepolomice.jpg> ,
+		dbr:Handball ,
+		<http://dbpedia.org/resource/File:Zamek_Bobolice_(Castle_of_Bobolice).JPG> ,
+		<http://dbpedia.org/resource/File:Zamek_w_B\u0119dzinie.jpg> ,
+		<http://dbpedia.org/resource/File:\u015Amiergu\u015Bnicy.jpg> ,
+		dbr:Leszek_II_the_Black ,
+		dbr:Lake_Czaniec ,
+		<http://dbpedia.org/resource/Ma\u0142ogoszcz> ,
+		dbr:Operation_Tempest ,
+		<http://dbpedia.org/resource/Lake_Czch\u00F3w> ,
+		<http://dbpedia.org/resource/Tytus_Cha\u0142ubi\u0144ski> ,
+		<http://dbpedia.org/resource/File:Pu\u0142awy_herb.svg> ,
+		<http://dbpedia.org/resource/File:ST40s-09c_locomotive.jpg> ,
+		<http://dbpedia.org/resource/File:Sandomierz_Wis\u0142a_Statki.jpg> ,
+		<http://dbpedia.org/resource/File:Skarzysko_kamienna_herb.svg> ,
+		<http://dbpedia.org/resource/File:Sokolica_a1.jpg> ,
+		<http://dbpedia.org/resource/File:Starachowice_herb.svg> ,
+		<http://dbpedia.org/resource/File:U\u015AfilologiaWsosnowcu.jpg> ,
+		<http://dbpedia.org/resource/File:Wieliczka_salt_mine.jpg> ,
+		<http://dbpedia.org/resource/File:POL_gmina_Dobczyce_COA.svg> ,
+		<http://dbpedia.org/resource/File:POL_gmina_Kro\u015Bcienko_nad_Dunajcem_COA.jpg> ,
+		<http://dbpedia.org/resource/File:POL_gmina_Lel\u00F3w_COA.png> ,
+		<http://dbpedia.org/resource/File:POL_gmina_Stopnica_COA.svg> ,
+		<http://dbpedia.org/resource/File:Palm_Sunday_in_Poland.PNG> ,
+		<http://dbpedia.org/resource/File:Polish_Flat_Sodabreads,_Skansen_in_Sanok,_2010.png> ,
+		<http://dbpedia.org/resource/Lublin_Voivodeship_(1919\u20131939)> ,
+		<http://dbpedia.org/resource/File:Polska-dialekty_wg_Urba\u0144czyka.PNG> ,
+		<http://dbpedia.org/resource/AZS_Cz\u0119stochowa> ,
+		<http://dbpedia.org/resource/File:ProwincjaMalopolska.png> ,
+		<http://dbpedia.org/resource/File:POL_Stalowa_Wola_COA.svg> ,
+		<http://dbpedia.org/resource/File:POL_Tarnobrzeg_COA.svg> ,
+		<http://dbpedia.org/resource/File:POL_Tarn\u00F3w_COA.svg> ,
+		<http://dbpedia.org/resource/File:POL_Tuch\u00F3w_COA.svg> ,
+		<http://dbpedia.org/resource/File:POL_Tymbark_COA.svg> ,
+		<http://dbpedia.org/resource/File:POL_Wojnicz_COA.svg> ,
+		<http://dbpedia.org/resource/File:POL_Zawiercie_COA.svg> ,
+		<http://dbpedia.org/resource/File:POL_gmina_Brzostek_COA.svg> ,
+		dbr:Maczuga_Herkulesa ,
+		<http://dbpedia.org/resource/S\u0119dzisz\u00F3w_Ma\u0142opolski> ,
+		<http://dbpedia.org/resource/File:POL_Nowy_Targ_COA.svg> ,
+		<http://dbpedia.org/resource/File:POL_Opoczno_COA.svg> ,
+		<http://dbpedia.org/resource/File:POL_Ostrowiec_\u015Awi\u0119tokrzyski_COA.svg> ,
+		<http://dbpedia.org/resource/File:POL_Pilzno_COA.svg> ,
+		<http://dbpedia.org/resource/File:POL_Piwniczna-Zdr\u00F3j_COA.svg> ,
+		<http://dbpedia.org/resource/File:POL_Proszowice_COA.svg> ,
+		<http://dbpedia.org/resource/File:POL_Ropczyce_COA.svg> ,
+		<http://dbpedia.org/resource/File:POL_Skawina_COA.svg> ,
+		<http://dbpedia.org/resource/File:POL_D\u0105browa_G\u00F3rnicza_COA_1.svg> ,
+		dbr:Cieszyn ,
+		dbr:Browary_Lubelskie ,
+		<http://dbpedia.org/resource/File:POL_D\u0119bica_N_COA.svg> ,
+		<http://dbpedia.org/resource/Po\u0142aniec_Power_Station> ,
+		<http://dbpedia.org/resource/File:POL_Gryb\u00F3w_COA.svg> ,
+		<http://dbpedia.org/resource/File:POL_Jaworzno_COA_alt.svg> ,
+		<http://dbpedia.org/resource/File:POL_K\u0142obuck_COA.svg> ,
+		dbr:Governor-general ,
+		<http://dbpedia.org/resource/File:POL_Muszyna_COA.svg> ,
+		<http://dbpedia.org/resource/File:POL_My\u015Blenice_COA.svg> ,
+		<http://dbpedia.org/resource/File:POL_Nowy_S\u0105cz_COA.svg> ,
+		<http://dbpedia.org/resource/File:Gmina_checiny_herb.svg> ,
+		<http://dbpedia.org/resource/File:JohannesPaul2-portrait.jpg> ,
+		<http://dbpedia.org/resource/File:Herb_Siedlce.svg> ,
+		<http://dbpedia.org/resource/File:Kazimierz-obrazy-na-rynku.jpg> ,
+		<http://dbpedia.org/resource/File:Kozlowka_palac_lubelskie_foto28.JPG> ,
+		<http://dbpedia.org/resource/File:Mapa_Wegier,_Polski,_Prus_i_Woloszczyzny,_1525._czwarte_strassburskie_wydanie,_ptolemejskiej_mapy_Waldseem\u00FCllera_z_1507_r.zamieszczone_w_wydaniu_dziela_Claudii_Ptolemaei_Geographicae_enarrationis..jpg> ,
+		<http://dbpedia.org/resource/Governorate_(Russia)> ,
+		dbr:Greater_Poland ,
+		<http://dbpedia.org/resource/File:POL_Biecz_COA.svg> ,
+		<http://dbpedia.org/resource/File:POL_Bielsko-Bia\u0142a_COA.svg> ,
+		<http://dbpedia.org/resource/File:POL_B\u0119dzin_COA.svg> ,
+		dbr:Maria_Pawlikowska-Jasnorzewska ,
+		<http://dbpedia.org/resource/\u0141\u0105cko,_Lesser_Poland_Voivodeship> ,
+		dbr:Wilamowianie ,
+		dbr:Bank_BPH ,
+		dbr:Wilamowice ,
+		dbr:Zebrzydowski_rebellion ,
+		dbr:Armia_Ludowa ,
+		<http://dbpedia.org/resource/Congress_of_Krak\u00F3w> ,
+		<http://dbpedia.org/resource/Stadion_Miejski_Cracovii_(Krak\u00F3w)> ,
+		dbr:Proszowice ,
+		<http://dbpedia.org/resource/1934_flood_in_Poland> ,
+		<http://dbpedia.org/resource/Polish\u2013Lithuanian_Commonwealth> ,
+		dbr:Lasowiacy ,
+		<http://dbpedia.org/resource/Cz\u0119stochowa> ,
+		dbr:Zawichost ,
+		<http://dbpedia.org/resource/Lel\u00F3w_County> ,
+		dbr:Basia ,
+		dbr:Privilege_of_Koszyce ,
+		<http://dbpedia.org/resource/Gorlice\u2013Tarn\u00F3w_Offensive> ,
+		dbr:Bobolice ,
+		<http://dbpedia.org/resource/Ojc\u00F3w_National_Park> ,
+		dbr:Lanckorona ,
+		<http://dbpedia.org/resource/File:Baranow_Sandomierski_Castle_09.jpg> ,
+		<http://dbpedia.org/resource/File:Lublin_Krakowskie_Przedmie\u015Bcie_2009.jpg> ,
+		<http://dbpedia.org/resource/File:March_of_Independence_(5).jpg> ,
+		<http://dbpedia.org/resource/File:Members_of_the_\u0027Wiyrchowianie\u0027_folklore_group_in_Podhale_costume_02.jpg> ,
+		<http://dbpedia.org/resource/File:Pa\u0142ac_w_Kurozw\u0119kach.jpg> ,
+		dbr:Central_Archives_of_Historical_Records ,
+		<http://dbpedia.org/resource/File:Star_S2000PSP.JPG> ,
+		dbr:Krzepice ,
+		<http://dbpedia.org/resource/File:Zamek_w_Wi\u015Bniczu_12.jpg> ,
+		<http://dbpedia.org/resource/File:Zamek_Pieskowa_Ska\u0142a,_ogr\u00F3d_w\u0142oski.jpg> ,
+		dbr:Carpathian_Mountains ,
+		<http://dbpedia.org/resource/Olsztyn,_Silesian_Voivodeship> ,
+		<http://dbpedia.org/resource/Krak\u00F3w-Cz\u0119stochowa_Upland> ,
+		dbr:Mielec ,
+		<http://dbpedia.org/resource/Ch\u0119ciny> ,
+		<http://dbpedia.org/resource/Public_execution_in_D\u0119bica> ,
+		<http://dbpedia.org/resource/Pacan\u00F3w> ,
+		dbr:Prusy_Army ,
+		<http://dbpedia.org/resource/\u0141\u00F3d\u017A_Army> ,
+		dbr:Auschwitz_concentration_camp ,
+		<http://dbpedia.org/resource/J\u00F3zef_Szujski> ,
+		<http://dbpedia.org/resource/Chab\u00F3wka> ,
+		dbr:Polish_Sports_Personality_of_the_Year ,
+		dbr:Edward_Ochab ,
+		dbr:Oder ,
+		dbr:Free_City_of_Cracow ,
+		dbr:Nihil_novi ,
+		dbr:Malopolski ,
+		dbr:Wawel_Cathedral ,
+		<http://dbpedia.org/resource/Boles\u0142aw_Bierut> ,
+		<http://dbpedia.org/resource/Siege_of_Krak\u00F3w> ,
+		<http://dbpedia.org/resource/1923_Krak\u00F3w_riot> ,
+		<http://dbpedia.org/resource/Gestapo\u2013NKVD_conferences> ,
+		dbr:Radom_Governorate ,
+		<http://dbpedia.org/resource/Myszk\u00F3w> ,
+		<http://dbpedia.org/resource/Wy\u017Csza_Szko\u0142a_Biznesu_\u2013_National-Louis_University> ,
+		<http://dbpedia.org/resource/Pu\u0142awy> ,
+		dbr:Kielce_Governorate ,
+		<http://dbpedia.org/resource/Cz\u0119stochowa_University_of_Technology> ,
+		dbr:Lipnica_Murowana ,
+		<http://dbpedia.org/resource/1919_Polish_legislative_election> ,
+		<http://dbpedia.org/resource/Goraj,_Lublin_Voivodeship> ,
+		<http://dbpedia.org/resource/Krak\u00F3w_University_of_Economics> ,
+		dbr:Polish_language ,
+		dbr:Province_of_Upper_Silesia ,
+		<http://dbpedia.org/resource/Siege_of_Jasna_G\u00F3ra> ,
+		dbr:Jadwiga_of_Poland ,
+		dbr:Bobolice_Castle ,
+		<http://dbpedia.org/resource/Kozieg\u0142owy,_Silesian_Voivodeship> ,
+		<http://dbpedia.org/resource/Agricultural_University_of_Krak\u00F3w> ,
+		dbr:Wielka_Krokiew ,
+		dbr:Pilzno ,
+		dbr:West_Slavs ,
+		<http://dbpedia.org/resource/Miech\u00F3w> ,
+		dbr:Renaissance_in_Poland ,
+		<http://dbpedia.org/resource/So\u0142a> ,
+		dbr:Danube ,
+		dbr:Aristocracy ,
+		dbr:Sucha_Beskidzka ,
+		<http://dbpedia.org/resource/University_of_Bielsko-Bia\u0142a> ,
+		dbr:BP ,
+		dbr:Podlachia ,
+		dbr:Chernihiv ,
+		dbr:New_Silesia ,
+		<http://dbpedia.org/resource/Wierzbica,_Radom_County> ,
+		dbr:Chernihiv_Voivodeship ,
+		dbr:Dialects_of_Polish ,
+		dbr:AGH_University_of_Science_and_Technology ,
+		dbr:Szlachta ,
+		dbr:Sosnowiec ,
+		dbr:Battle_of_Galicia ,
+		dbr:Tunel_railway_station ,
+		<http://dbpedia.org/resource/Battle_of_W\u0119gierska_G\u00F3rka> ,
+		dbr:European_route_E75 ,
+		dbr:Nisko_Plan ,
+		<http://dbpedia.org/resource/Wawel_(company)> ,
+		<http://dbpedia.org/resource/Boles\u0142aw_III_Wrymouth> ,
+		dbr:Vistulans ,
+		dbr:Warta ,
+		dbr:Battle_of_Szczekociny ,
+		<http://dbpedia.org/resource/Polish\u2013Soviet_War> ,
+		dbr:Vive_Kielce ,
+		dbr:Gorlice ,
+		dbr:Muszyna ,
+		<http://dbpedia.org/resource/\u015Awidnik> ,
+		dbr:Sandomierz_Voivodeship ,
+		dbr:Czudec ,
+		dbr:Bytom ,
+		<http://dbpedia.org/resource/Polish\u2013Teutonic_War_(1519\u20131521)> ,
+		dbr:Battle_of_Mokra ,
+		dbr:Transylvania ,
+		<http://dbpedia.org/resource/Pi\u0144cz\u00F3w> ,
+		dbr:Casimir_Pulaski ,
+		dbr:Olkusz ,
+		<http://dbpedia.org/resource/Battle_of_Kury\u0142\u00F3wka> ,
+		<http://dbpedia.org/resource/G\u00F3rnik_\u0141\u0119czna> ,
+		<http://dbpedia.org/resource/Rabka-Zdr\u00F3j> ,
+		dbr:Sigismund_II_Augustus ,
+		<http://dbpedia.org/resource/Zubrzyca_G\u00F3rna> ,
+		dbr:Lublin_University_of_Technology ,
+		<http://dbpedia.org/resource/Lw\u00F3w_Voivodeship> ,
+		<http://dbpedia.org/resource/Ksi\u0105\u017C_Wielki> ,
+		<http://dbpedia.org/resource/Sandomierz_Voivodeship_(1939)> ,
+		dbr:Powiat ,
+		dbr:Voivodeships_of_Poland ,
+		<http://dbpedia.org/resource/Krak\u00F3w_Voivodeship_(1919\u20131939)> ,
+		dbr:Hans_Frank ,
+		dbr:Wincenty_Witos ,
+		dbr:Kozienice ,
+		dbr:Kozienice_Power_Station ,
+		<http://dbpedia.org/resource/Agnieszka_Radwa\u0144ska> ,
+		<http://dbpedia.org/resource/Wysowa-Zdr\u00F3j> ,
+		dbr:Opole_Lubelskie ,
+		dbr:Vistula ,
+		<http://dbpedia.org/resource/Rzesz\u00F3w> ,
+		dbr:Yotvingians ,
+		<http://dbpedia.org/resource/\u0141\u0119czyca> ,
+		<http://dbpedia.org/resource/Henryk_Dobrza\u0144ski> ,
+		dbr:Eugeniusz_Kwiatkowski ,
+		dbr:Sejmik ,
+		dbr:Tymbark ,
+		dbr:Szczebrzeszyn ,
+		dbr:Ropczyce ,
+		dbr:Lublin_Castle ,
+		<http://dbpedia.org/resource/Tarnowskie_G\u00F3ry_County> ,
+		<http://dbpedia.org/resource/Rzesz\u00F3w_Voivodeship> ,
+		dbr:List_of_industrial_regions ,
+		dbr:Dukla ,
+		dbr:Anna_Dymna ,
+		dbr:Bodzentyn ,
+		<http://dbpedia.org/resource/Battle_of_Go\u0142\u0105b> ,
+		<http://dbpedia.org/resource/Koz\u0142\u00F3w,_Podkarpackie_Voivodeship> ,
+		dbr:Silesian_Voivodeship ,
+		dbr:Lendians ,
+		dbr:Leon_Schiller ,
+		dbr:Krzeszowice ,
+		<http://dbpedia.org/resource/Nowy_Wi\u015Bnicz> ,
+		dbr:Swedish_Empire ,
+		dbr:Walddeutsche ,
+		dbr:Krzysztof_Penderecki ,
+		dbr:Krasnystaw ,
+		dbr:European_route_E371 ,
+		dbr:Okocim_Brewery ,
+		<http://dbpedia.org/resource/W\u0142adys\u0142aw_I_\u0141okietek> ,
+		dbr:European_route_E462 ,
+		<http://dbpedia.org/resource/Kingdom_of_Poland_(1917\u20131918)> ,
+		<http://dbpedia.org/resource/Stanis\u0142aw\u00F3w_Voivodeship> ,
+		<http://dbpedia.org/resource/Tadeusz_Ko\u015Bciuszko> ,
+		<http://dbpedia.org/resource/Urz\u0119d\u00F3w> ,
+		dbr:Tadeusz_Peiper ,
+		dbr:Open-air_museum ,
+		dbr:CEV_Champions_League ,
+		dbr:Kyiv ,
+		dbr:Kazimierz ,
+		<http://dbpedia.org/resource/Occupation_of_Poland_(1939\u20131945)> ,
+		<http://dbpedia.org/resource/Micha\u0142_Rola-\u017Bymierski> ,
+		dbr:Blast_furnace ,
+		<http://dbpedia.org/resource/Krak\u00F3w_Ghetto> ,
+		<http://dbpedia.org/resource/\u0141\u0119czna> ,
+		<http://dbpedia.org/resource/Lublin_Voivodeship_(1474\u20131795)> ,
+		dbr:List_of_Polish_monarchs ,
+		<http://dbpedia.org/resource/\u015Awi\u0119tokrzyski_National_Park> ,
+		dbr:Charcoal ,
+		<http://dbpedia.org/resource/Ko\u015Bciuszko_Uprising> ,
+		dbr:Skawa ,
+		<http://dbpedia.org/resource/Krak\u00F3w-P\u0142asz\u00F3w_concentration_camp> ,
+		<http://dbpedia.org/resource/St\u0119\u017Cyca_Land> ,
+		<http://dbpedia.org/resource/Bataliony_Ch\u0142opskie> ,
+		<http://dbpedia.org/resource/Zaduszniki,_Podkarpackie_Voivodeship> ,
+		dbr:Kazimierz_Przerwa-Tetmajer ,
+		dbr:Kolporter_Holding ,
+		dbr:Second_Mongol_invasion_of_Poland ,
+		dbr:Janina_Coal_Mine ,
+		<http://dbpedia.org/resource/Krzy\u017Ctop\u00F3r> ,
+		<http://dbpedia.org/resource/Ostrowiec_\u015Awi\u0119tokrzyski> ,
+		<http://dbpedia.org/resource/San_(river)> ,
+		dbr:Bogdanka_Coal_Mine ,
+		<http://dbpedia.org/resource/Maria_Curie-Sk\u0142odowska_University> ,
+		dbr:Jan_z_Lublina ,
+		<http://dbpedia.org/resource/D\u0119bowiec_Sports_Arena> ,
+		dbr:Huta_Stalowa_Wola ,
+		<http://dbpedia.org/resource/Baran\u00F3w_Sandomierski_Castle> ,
+		<http://dbpedia.org/resource/St\u0119\u017Cyca,_Lublin_Voivodeship> ,
+		dbr:Jan_Sztaudynger ,
+		dbr:Positivism_in_Poland ,
+		dbr:University_of_Life_Sciences_in_Lublin ,
+		<http://dbpedia.org/resource/Duchy_of_O\u015Bwi\u0119cim> ,
+		dbr:Duchy_of_Zator ,
+		<http://dbpedia.org/resource/Tuch\u00F3w> ,
+		<http://dbpedia.org/resource/Ch\u0119ciny_County> ,
+		dbr:Upper_Silesia ,
+		dbr:Auschwitz-Birkenau_State_Museum ,
+		<http://dbpedia.org/resource/Leon_Wycz\u00F3\u0142kowski> ,
+		<http://dbpedia.org/resource/Baran\u00F3w_Sandomierski> ,
+		<http://dbpedia.org/resource/Stanis\u0142aw_Kania> ,
+		dbr:Grand_Duchy_of_Lithuania ,
+		<http://dbpedia.org/resource/Babia_G\u00F3ra_National_Park> ,
+		dbr:Jerzy_Stuhr ,
+		dbr:False_Dmitry_I ,
+		dbr:Pszczyna ,
+		<http://dbpedia.org/resource/Gryb\u00F3w> ,
+		<http://dbpedia.org/resource/Miko\u0142aj_Gom\u00F3\u0142ka> ,
+		dbr:John_Paul_II_Catholic_University_of_Lublin ,
+		<http://dbpedia.org/resource/Jewish_Culture_Festival_in_Krak\u00F3w> ,
+		dbr:Grzegorz_Turnau ,
+		dbr:Bloomery ,
+		dbr:The_Holocaust_in_Poland ,
+		dbr:Koniecpolski ,
+		<http://dbpedia.org/resource/\u0141\u00F3d\u017A> ,
+		dbr:Army_Group_South ,
+		dbr:Wieliczka_Salt_Mine ,
+		dbr:Kazimierz_Dolny ,
+		dbr:Potocki_family ,
+		<http://dbpedia.org/resource/Ma\u0142opolska_Institute_of_Culture> ,
+		dbr:Tarnobrzeg ,
+		<http://dbpedia.org/resource/O\u015Bwi\u0119cim> ,
+		<http://dbpedia.org/resource/Pilica_(river)> ,
+		dbr:Nowy_Korczyn ,
+		<http://dbpedia.org/resource/Nida_(river)> ,
+		<http://dbpedia.org/resource/Anti-communist_resistance_in_Poland_(1944\u20131946)> ,
+		<http://dbpedia.org/resource/Myszk\u00F3w_mine> ,
+		<http://dbpedia.org/resource/Stanis\u0142aw_Dziwisz> ,
+		dbr:Bochnia ,
+		<http://dbpedia.org/resource/Kielce_Voivodeship_(1919\u20131939)> ,
+		dbr:Skawina ,
+		dbr:Golec_uOrkiestra ,
+		<http://dbpedia.org/resource/Zwardo\u0144> ,
+		dbr:Zakopane ,
+		dbr:Masovian_dialect ,
+		dbr:Jan_Kochanowski ,
+		<http://dbpedia.org/resource/Miejski_Stadion_Sportowy_%22KSZO%22> ,
+		<http://dbpedia.org/resource/Bielsko-Bia\u0142a> ,
+		dbr:Battle_of_the_Border ,
+		dbr:Pope_John_Paul_II ,
+		dbr:Stal_Stalowa_Wola ,
+		dbr:Romanticism_in_Poland ,
+		<http://dbpedia.org/resource/National_Museum,_Krak\u00F3w> ,
+		dbr:Radomiak_Radom ,
+		<http://dbpedia.org/resource/Piotrk\u00F3w_Governorate> ,
+		dbr:Warsaw ,
+		dbr:Treaty_of_Lubowla ,
+		dbr:Norman_Davies ,
+		dbr:Motorcycle_speedway ,
+		dbr:Crown_Tribunal ,
+		dbc:Historical_regions ,
+		<http://dbpedia.org/resource/Battle_of_Tomasz\u00F3w_Lubelski> ,
+		dbr:Juliusz_Kossak ,
+		<http://dbpedia.org/resource/Treaty_of_Krak\u00F3w> ,
+		<http://dbpedia.org/resource/S\u0142awomir_Mro\u017Cek> ,
+		<http://dbpedia.org/resource/Rak\u00F3w_Cz\u0119stochowa> ,
+		<http://dbpedia.org/resource/Stephen_B\u00E1thory> ,
+		dbr:Xawery_Dunikowski ,
+		dbr:Starachowice ,
+		dbr:Home_Army ,
+		<http://dbpedia.org/resource/Libi\u0105\u017C> ,
+		<http://dbpedia.org/resource/Raba_(river)> ,
+		dbr:Young_Poland ,
+		dbr:Radomka ,
+		dbr:Roztocze_National_Park ,
+		dbr:Corderius ,
+		dbr:Trzebinia ,
+		dbr:Carlsberg_Polska ,
+		dbr:Przemsza ,
+		dbr:Polish_Uplanders ,
+		<http://dbpedia.org/resource/J\u00F3zef_\u0141uszczek> ,
+		<http://dbpedia.org/resource/J\u00F3zef_Cyrankiewicz> ,
+		dbr:Garwolin ,
+		dbr:Jakub_Szela ,
+		dbr:Tadeusz_Kantor ,
+		dbr:Katowice_Airport ,
+		dbr:Poland ,
+		dbr:Lesser_Poland_Province_of_the_Polish_Crown ,
+		<http://dbpedia.org/resource/Paj\u0119czno> ,
+		dbr:Wolbrom ,
+		<http://dbpedia.org/resource/Suchedni\u00F3w> ,
+		<http://dbpedia.org/resource/Busko-Zdr\u00F3j> ,
+		dbr:Oscypek ,
+		<http://dbpedia.org/resource/\u0141askarzew> ,
+		dbr:Second_Polish_Republic ,
+		dbr:Nowy_Targ ,
+		<http://dbpedia.org/resource/Wi\u015Blica> ,
+		dbr:Jan_Kiepura ,
+		<http://dbpedia.org/resource/Ojc\u00F3w> ,
+		dbr:Sigismund_III_Vasa ,
+		dbr:Podkarpackie_Voivodeship ,
+		<http://dbpedia.org/resource/Miko\u0142aj_Rej> ,
+		dbr:Podlaskie_Voivodeship ,
+		<http://dbpedia.org/resource/\u0141ukasz_G\u00F3rnicki> ,
+		dbr:Hieronim_Dekutowski ,
+		dbr:Jagiellonian_University ,
+		dbr:Battle_of_Wojnicz ,
+		dbr:Budka_Suflera ,
+		dbr:Hilary_Minc ,
+		<http://dbpedia.org/resource/Le\u017Cajsk> ,
+		<http://dbpedia.org/resource/File:Wappen_K\u00F6nigreich_Galizien_&_Lodomerien.png> ,
+		<http://dbpedia.org/resource/BKS_Stal_Bielsko-Bia\u0142a> ,
+		<http://dbpedia.org/resource/Bryndza_Podhala\u0144ska> ,
+		<http://dbpedia.org/resource/J\u00F3zef_Pi\u0142sudski> ,
+		<http://dbpedia.org/resource/Rzesz\u00F3w\u2013Jasionka_Airport> ,
+		dbr:Lubomirski ,
+		dbr:Czorsztyn ,
+		dbr:General_Government ,
+		dbr:Temple_of_the_Sibyl ,
+		<http://dbpedia.org/resource/Babice,_Chrzan\u00F3w_County> ,
+		<http://dbpedia.org/resource/Pawe\u0142_Korzeniowski> ,
+		dbr:German_AB-Aktion_in_Poland ,
+		<http://dbpedia.org/resource/Str\u00F3\u017Ce,_Nowy_S\u0105cz_County> ,
+		<http://dbpedia.org/resource/\u017Bywiec_Lake> ,
+		<http://dbpedia.org/resource/Slovak_Republic_(1939\u20131945)> ,
+		<http://dbpedia.org/resource/Inka_(drink)> ,
+		dbr:War_against_Sigismund ,
+		<http://dbpedia.org/resource/KS_Cracovia_(football)> ,
+		dbr:Jerzy_Turowicz ,
+		<http://dbpedia.org/resource/D\u0119blin> ,
+		dbr:Bublik ,
+		<http://dbpedia.org/resource/Kra\u015Bnik> ,
+		<http://dbpedia.org/resource/Krak\u00F3w_John_Paul_II_International_Airport> ,
+		<http://dbpedia.org/resource/Czes\u0142aw_Kiszczak> ,
+		dbr:Bochnia_Salt_Mine ,
+		<http://dbpedia.org/resource/J\u00F3zef_Mehoffer> ,
+		<http://dbpedia.org/resource/Vistula\u2013Oder_Offensive> ,
+		dbr:Czartoryski_Museum ,
+		<http://dbpedia.org/resource/Lel\u00F3w> ,
+		<http://dbpedia.org/resource/Garbarnia_Krak\u00F3w> ,
+		<http://dbpedia.org/resource/Ma\u0142opolska_Upland> ,
+		dbr:Jaworzno ,
+		dbr:Czarnolas ,
+		dbr:Polish_Legions_in_World_War_I ,
+		dbr:Zbigniew_Preisner ,
+		dbr:Sanok ,
+		dbr:Racovian_Catechism ,
+		<http://dbpedia.org/resource/1982_demonstrations_in_Poland> ,
+		<http://dbpedia.org/resource/Gustaw_Herling-Grudzi\u0144ski> ,
+		<http://dbpedia.org/resource/Voivodeships_of_Poland_(1975\u20131998)> ,
+		dbr:Opole ,
+		<http://dbpedia.org/resource/Sobies\u0142aw_Zasada> ,
+		dbr:Polish_Rifle_Squads ,
+		<http://dbpedia.org/resource/Solec-Zdr\u00F3j> ,
+		dbr:South_Prussia ,
+		dbr:Wieprz ,
+		<http://dbpedia.org/resource/Spytkowice,_Wadowice_County> ,
+		dbr:Sulfur ,
+		dbr:PGE_Polska_Grupa_Energetyczna ,
+		<http://dbpedia.org/resource/Kamienna_(river)> ,
+		<http://dbpedia.org/resource/Urz\u0119d\u00F3w_County> ,
+		dbr:Historical_region ,
+		<http://dbpedia.org/resource/Wis\u0142oka> ,
+		dbr:Stefan_Jaracz ,
+		<http://dbpedia.org/resource/File:POL_Cz\u0119stochowa_COA.svg> ,
+		dbr:Bagel ,
+		dbr:Szczakowa ,
+		dbr:Biecz ,
+		dbr:Smolensk_War ,
+		<http://dbpedia.org/resource/\u0106miel\u00F3w> ,
+		dbr:Subdivisions_of_Congress_Poland ,
+		dbr:Valentinus_Smalcius ,
+		dbr:Sigismund_I_the_Old ,
+		<http://dbpedia.org/resource/Gorzyce,_Tarnobrzeg_County> ,
+		dbr:Tadeusz_Sendzimir_Steelworks ,
+		dbr:Podhale ,
+		<http://dbpedia.org/resource/Bi\u0142goraj> ,
+		dbr:Henryk_Wieniawski ,
+		<http://dbpedia.org/resource/Lvov\u2013Sandomierz_Offensive> ,
+		<http://dbpedia.org/resource/Stasz\u00F3w> ,
+		dbr:Maciej_Miechowita ,
+		dbr:Lublin ,
+		dbr:Old_Prussians ,
+		dbr:Niedomice ,
+		<http://dbpedia.org/resource/Pozna\u0144> ,
+		<http://dbpedia.org/resource/Mil\u00F3wka,_Silesian_Voivodeship> ,
+		dbr:Maanam ,
+		dbr:Wojkowice ,
+		<http://dbpedia.org/resource/Chrzan\u00F3w> ,
+		dbr:Russification ,
+		<http://dbpedia.org/resource/K\u0119ty> ,
+		<http://dbpedia.org/resource/Bia\u0142obrzegi> ,
+		<http://dbpedia.org/resource/Krak\u00F3w_Uprising_(1944)> ,
+		<http://dbpedia.org/resource/Po\u0142aniec> ,
+		<http://dbpedia.org/resource/Mi\u0119dzyrzec_Podlaski> ,
+		dbr:Lublin_Governorate ,
+		<http://dbpedia.org/resource/Czelad\u017A> ,
+		dbr:Magdeburg_rights ,
+		dbr:Poniatowski ,
+		<http://dbpedia.org/resource/Zwole\u0144> ,
+		<http://dbpedia.org/resource/Aleksander_\u015Awi\u0119tochowski> ,
+		dbr:Black_Sea ,
+		dbr:Louis_I_of_Hungary ,
+		<http://dbpedia.org/resource/Deluge_(history)> ,
+		dbr:Emil_August_Fieldorf ,
+		<http://dbpedia.org/resource/Przemy\u015Bl> ,
+		<http://dbpedia.org/resource/Grudzi\u0105dz> ,
+		<http://dbpedia.org/resource/Mir\u00F3w,_Silesian_Voivodeship> ,
+		dbr:Edward_Gierek ,
+		<http://dbpedia.org/resource/Treaty_of_Sch\u00F6nbrunn> ,
+		<http://dbpedia.org/resource/Krak\u00F3w_szopka> ,
+		dbr:UNESCO ,
+		dbr:Calvinism ,
+		dbr:Magnate ,
+		dbr:Korona_Kielce ,
+		dbr:Stal_Mielec ,
+		dbr:Sieradz ,
+		dbr:Napoleon ,
+		dbr:Wieliczka ,
+		dbr:Szczyrzyc_County ,
+		dbr:Koniecpol ,
+		<http://dbpedia.org/resource/Tomasz\u00F3w_Mazowiecki> ,
+		dbr:Zawiercie ,
+		dbr:Middle_Ages ,
+		dbr:House_of_Sobieski ,
+		dbr:Lajkonik ,
+		dbr:Gniezno ,
+		dbr:Central_European_Summer_Time ,
+		dbr:Central_European_Time ,
+		dbr:Andrzej_Czuma ,
+		dbr:Rudnik_nad_Sanem ,
+		dbr:June_1976_protests ,
+		<http://dbpedia.org/resource/Molotov\u2013Ribbentrop_Pact> ,
+		<http://dbpedia.org/resource/W\u0142adys\u0142aw_Sikorski> ,
+		dbr:Pilsko ,
+		dbr:Sandomierz_Castle ,
+		<http://dbpedia.org/resource/Mo\u015Bcice> ,
+		dbr:Silesia ,
+		dbr:Katowice_Voivodeship ,
+		<http://dbpedia.org/resource/Hrebenne,_Tomasz\u00F3w_Lubelski_County> ,
+		dbr:Sonderaktion_Krakau ,
+		dbr:Lesser_Polish_dialect ,
+		<http://dbpedia.org/resource/Piwniczna-Zdr\u00F3j> ,
+		dbr:Jagiellonian_University_Medical_College ,
+		<http://dbpedia.org/resource/W\u0142adys\u0142aw_Orkan> ,
+		dbr:Krakowiak ,
+		<http://dbpedia.org/resource/Szyd\u0142\u00F3w> ,
+		<http://dbpedia.org/resource/Zamo\u015B\u0107> ,
+		dbr:NKVD ,
+		<http://dbpedia.org/resource/B\u0119dzin> ,
+		dbr:Jaworzno_Power_Station ,
+		<http://dbpedia.org/resource/Szyd\u0142owiec> ,
+		dbr:Bratslav ,
+		dbr:Austrian_Empire ,
+		dbr:Reformation ,
+		dbr:Nisko ,
+		<http://dbpedia.org/resource/Stadion_Miejski_(Kielce)> ,
+		dbr:Bar_Confederation ,
+		<http://dbpedia.org/resource/B\u0119dzin_County> ,
+		dbr:Martin_Luther ,
+		<http://dbpedia.org/resource/Edward_Rydz-\u015Amig\u0142y> ,
+		<http://dbpedia.org/resource/Wis\u0142ok> ,
+		dbr:Formula_One ,
+		<http://dbpedia.org/resource/Skocz\u00F3w> ,
+		<http://dbpedia.org/resource/Ossoli\u0144ski> ,
+		dbr:Maria_Theresa ,
+		<http://dbpedia.org/resource/Stefan_\u017Beromski> ,
+		dbr:Motor_Lublin ,
+		dbr:Lublin_Army ,
+		dbr:Frampol ,
+		dbr:Cossacks ,
+		dbr:Republic_of_Tarnobrzeg ,
+		<http://dbpedia.org/resource/Kingdom_of_Poland_(1385\u20131569)> ,
+		dbr:Grupa_Azoty ,
+		<http://dbpedia.org/resource/Union_of_Horod\u0142o> ,
+		<http://dbpedia.org/resource/TH_Unia_O\u015Bwi\u0119cim> ,
+		dbr:Marian_Langiewicz ,
+		<http://dbpedia.org/resource/J\u00F3zef_Franczak> ,
+		dbr:Alzenau_dialect ,
+		dbr:Ryszard_Siwiec ,
+		<http://dbpedia.org/resource/D\u0119bica> ,
+		dbr:Upper_Silesian_Industrial_Region ,
+		dbr:Siedlce ,
+		dbr:Battle_of_the_Vistula_River ,
+		dbr:False_Dmitry_II ,
+		dbr:Blachownia ,
+		<http://dbpedia.org/resource/D\u0105browa_G\u00F3rnicza> ,
+		dbr:Treaty_of_Radnot ,
+		dbr:Bukowno ,
+		dbr:Henry_III_of_France ,
+		dbr:Majdanek_concentration_camp ,
+		dbr:Brzostek ,
+		dbr:Urbanization ,
+		dbr:Stopnica ,
+		dbr:Tadeusz_Kutrzeba ,
+		<http://dbpedia.org/resource/Ksi\u0105\u017C_County> ,
+		dbr:Leopold_Okulicki ,
+		<http://dbpedia.org/resource/Opat\u00F3w> ,
+		<http://dbpedia.org/resource/P\u0142omie\u0144_Milowice> ,
+		dbr:John_II_Casimir_Vasa ,
+		dbr:Mieszko_I ,
+		<http://dbpedia.org/resource/\u017Bywiec> ,
+		dbr:Napoleonic_Wars ,
+		<http://dbpedia.org/resource/\u017Belech\u00F3w> ,
+		dbr:Nazi_Germany ,
+		dbr:Lithuanians ,
+		<http://dbpedia.org/resource/\u017Begiest\u00F3w> ,
+		<http://dbpedia.org/resource/1980_Lublin_strikes> ,
+		<http://dbpedia.org/resource/Tadeusz_Ko\u015Bciuszko_University_of_Technology> ,
+		dbr:Lviv ,
+		<http://dbpedia.org/resource/Jas\u0142o> ,
+		<http://dbpedia.org/resource/1968_Polish_political_crisis> ,
+		dbr:Freedom_and_Independence ,
+		dbr:Linia_Hutnicza_Szerokotorowa ,
+		dbr:Comarch ,
+		dbr:Polish_Cup ,
+		<http://dbpedia.org/resource/J\u00F3zef_Haller> ,
+		dbr:Masovian_Voivodeship ,
+		dbr:Kiev_Voivodeship ,
+		dbr:Tomasz_Adamek ,
+		<http://dbpedia.org/resource/Samson\u00F3w> ,
+		dbr:Kingdom_of_Galicia_and_Lodomeria ,
+		dbr:Holy_Cross_Sermons ,
+		dbr:National_Armed_Forces ,
+		<http://dbpedia.org/resource/Battle_of_Klisz\u00F3w> ,
+		dbr:Geographical_indications_and_traditional_specialities_in_the_European_Union ,
+		<http://dbpedia.org/resource/Jan\u00F3w_Lubelski> ,
+		dbr:Fablok ,
+		dbr:Pyrzowice ,
+		dbr:Johannes_Crellius ,
+		dbr:Volhynia ,
+		dbr:Tarnopol_Voivodeship ,
+		dbr:Adolf_Hitler ,
+		dbr:European_route_E372 ,
+		<http://dbpedia.org/resource/Polish\u2013Swedish_union> ,
+		dbr:FSC_Lublin ,
+		<http://dbpedia.org/resource/Krak\u00F3w_uprising> ,
+		dbr:Dunajec ,
+		<http://dbpedia.org/resource/Wolb\u00F3rz> ,
+		dbr:Opoczno ,
+		<http://dbpedia.org/resource/The_Championships,_Wimbledon> ,
+		dbr:Podhale_Nowy_Targ ,
+		<http://dbpedia.org/resource/Ch\u0119ciny_Castle> ,
+		dbr:Marek_Kondrat ,
+		dbr:Koprzywnica ,
+		<http://dbpedia.org/resource/\u015Awi\u0119tokrzyskie_Mountains> ,
+		dbr:Drzewica ,
+		dbr:Nazi_crimes_against_the_Polish_nation ,
+		dbr:Cursed_soldiers ,
+		<http://dbpedia.org/resource/I\u0142\u017Ca> ,
+		<http://dbpedia.org/resource/Central_Industrial_Region_(Poland)> ,
+		<http://dbpedia.org/resource/S\u0142omniki> ,
+		dbr:European_route_E30 ,
+		dbr:Artur_Boruc ,
+		dbr:European_route_E77 ,
+		dbr:Przysucha ,
+		<http://dbpedia.org/resource/Stanis\u0142aw_Wyspia\u0144ski> ,
+		dbr:Holy_Cross_Mountains_Brigade ,
+		<http://dbpedia.org/resource/Bia\u0142a_(Vistula)> ,
+		dbr:Ewa_Demarczyk ,
+		dbr:Polish_Committee_of_National_Liberation ,
+		dbr:Wymysorys_language ,
+		<http://dbpedia.org/resource/Skar\u017Cysko-Kamienna> ,
+		<http://dbpedia.org/resource/Kazimierz_Pu\u0142aski_University_of_Technology_and_Humanities_in_Radom> ,
+		<http://dbpedia.org/resource/K\u0142obuck> ,
+		dbr:Szczawnica ,
+		dbr:Sandomierz ,
+		dbr:Russian_Empire ,
+		dbr:Brest_Bible ,
+		dbr:January_Uprising ,
+		<http://dbpedia.org/resource/\u0141\u00F3d\u017A_Voivodeship> ,
+		dbr:Keep ,
+		<http://dbpedia.org/resource/\u015Awi\u0119tokrzyskie_Voivodeship> ,
+		<http://dbpedia.org/resource/Jan_D\u0142ugosz_University> ,
+		dbr:Polish_Aviation_Museum ,
+		dbr:Feliks_Koneczny ,
+		<http://dbpedia.org/resource/Na\u0142\u0119cz\u00F3w> ,
+		<http://dbpedia.org/resource/Krak\u00F3w> ,
+		<http://dbpedia.org/resource/Unia_Tarn\u00F3w> ,
+		<http://dbpedia.org/resource/Lake_Ro\u017Cn\u00F3w> ,
+		dbr:Ukraine ,
+		dbr:Lake_Czorsztyn ,
+		dbr:Lake_Dobczyce ,
+		dbr:Radom_Air_Show ,
+		dbr:Tarnowski_family ,
+		dbr:Zygmunt_Gloger ,
+		dbr:Maciej_Zembaty ,
+		<http://dbpedia.org/resource/Chopin_(vodka)> ,
+		dbr:FSC_Star ,
+		<http://dbpedia.org/resource/W\u00F3dka_\u017Bo\u0142\u0105dkowa_Gorzka> ,
+		<http://dbpedia.org/resource/Bug_(river)> ,
+		dbr:Krosno ,
+		dbr:Kolbuszowa ,
+		dbr:Fiat ,
+		dbr:Polish_Golden_Age ,
+		dbr:Kielce_University_of_Technology ,
+		dbr:Great_Retreat ,
+		dbr:European_route_E40 ,
+		dbr:Karpaty_Army ,
+		dbr:Marcin_Kromer ,
+		<http://dbpedia.org/resource/J\u00F3zef_Kura\u015B> ,
+		dbr:Andrzej_Gwiazda ,
+		dbr:Polish_Liquidation_Committee ,
+		<http://dbpedia.org/resource/Jakub_B\u0142aszczykowski> ,
+		dbr:Daleszyce ,
+		<http://dbpedia.org/resource/O\u017Car\u00F3w> ,
+		dbr:Jerzy_Mniszech ,
+		dbr:Baidar ,
+		dbr:Dunajec_river_castles ,
+		dbr:Galicia_Jewish_Museum ,
+		<http://dbpedia.org/resource/George_II_R\u00E1k\u00F3czi> ,
+		dbr:Toszek ,
+		dbr:Khmelnytsky_Uprising ,
+		dbr:Ivan_Vyhovsky ,
+		dbr:Gothic_Revival_architecture ,
+		dbr:Gothic_architecture ,
+		<http://dbpedia.org/resource/Stanis\u0142aw_Marusarz> ,
+		dbr:Kresy ,
+		dbr:War_crimes_in_occupied_Poland_during_World_War_II ,
+		dbr:Lublin_Voivodeship ,
+		<http://dbpedia.org/resource/J\u00F3zef_Dowbor-Mu\u015Bnicki> ,
+		dbr:Lemkos ,
+		dbr:Witold_Gombrowicz ,
+		<http://dbpedia.org/resource/1988_Polish_strikes> ,
+		<http://dbpedia.org/resource/Rak\u00F3w,_Kielce_County> ,
+		<http://dbpedia.org/resource/Niepo\u0142omice> ,
+		dbr:Niedzica_Castle ,
+		<http://dbpedia.org/resource/Rus\u0027_people> ,
+		<http://dbpedia.org/resource/Jasna_G\u00F3ra_Monastery> ,
+		dbr:Red_Ruthenia ,
+		dbr:Justyna_Steczkowska ,
+		dbr:History_of_Poland ,
+		<http://dbpedia.org/resource/W\u0142\u00F3kniarz_Cz\u0119stochowa> ,
+		dbr:Alwernia ,
+		<http://dbpedia.org/resource/Che\u0142mek> ,
+		dbr:Union_of_Krewo ,
+		<http://dbpedia.org/resource/W\u0142oszczowa> ,
+		dbr:Wincenty_Pol ,
+		<http://dbpedia.org/resource/Sieciech\u00F3w,_Masovian_Voivodeship> ,
+		dbr:Siewierz ,
+		<http://dbpedia.org/resource/Mayor_Albert\u0027s_Rebellion> ,
+		dbr:Slivovitz ,
+		dbr:Helena_Modjeska ,
+		<http://dbpedia.org/resource/Archbishop_of_Krak\u00F3w> ,
+		dbr:West_Galicia ,
+		dbr:Wadowice ,
+		<http://dbpedia.org/resource/Sandecja_Nowy_S\u0105cz> ,
+		dbr:Ice_hockey ,
+		<http://dbpedia.org/resource/Czch\u00F3w> ,
+		dbr:November_Uprising ,
+		dbr:World_Heritage_Site ,
+		dbr:Pomerania ,
+		dbr:Austro-Polish_War ,
+		dbr:Wittenberg ,
+		<http://dbpedia.org/resource/Polish\u2013Muscovite_War_(1605\u20131618)> ,
+		<http://dbpedia.org/resource/W\u0105chock> ,
+		dbr:Szczyrzyc ,
+		dbr:Jacek_Malczewski ,
+		<http://dbpedia.org/resource/Zag\u0142\u0119bie_Sosnowiec> ,
+		dbr:Wojciech_Jaruzelski ,
+		<http://dbpedia.org/resource/A4_autostrada_(Poland)> ,
+		<http://dbpedia.org/resource/Tarn\u00F3w> ,
+		dbr:Lesser_Poland_Way ,
+		<http://dbpedia.org/resource/Tatra_National_Park,_Poland> ,
+		<http://dbpedia.org/resource/Piotr_Micha\u0142owski> ,
+		dbr:Rysy ,
+		<http://dbpedia.org/resource/Tarnowskie_G\u00F3ry> ,
+		<http://dbpedia.org/resource/J\u00F3zef_Oleksy> ,
+		dbr:Radom ,
+		<http://dbpedia.org/resource/Zbigniew_Ole\u015Bnicki_(cardinal)> ,
+		dbr:Beskids ,
+		<http://dbpedia.org/resource/War_of_the_Polish_Succession_(1587\u201388)> ,
+		<http://dbpedia.org/resource/Brzoz\u00F3w> ,
+		<http://dbpedia.org/resource/Galicia_(Eastern_Europe)> ,
+		dbr:Gorals ,
+		dbr:Congress_of_Vienna ,
+		dbr:Podolia ,
+		<http://dbpedia.org/resource/My\u015Blenice> ,
+		dbr:Sobieski_Coal_Mine ,
+		dbr:Pontifical_University_of_John_Paul_II ,
+		dbr:Kielce ,
+		dbr:Kingdom_of_Prussia ,
+		dbr:Kalwaria_Zebrzydowska_park ,
+		<http://dbpedia.org/resource/B\u0119dzin_Castle> ,
+		dbr:Renaissance ,
+		<http://dbpedia.org/resource/Nowy_S\u0105cz> ,
+		dbr:Lipsko ,
+		dbr:Parczew ,
+		<http://dbpedia.org/resource/Strzy\u017C\u00F3w> ,
+		dbr:Marina_Mniszech ,
+		dbr:First_Mongol_invasion_of_Poland ,
+		dbr:Ogrodzieniec ,
+		<http://dbpedia.org/resource/Riflemen\u0027s_Association> ,
+		<http://dbpedia.org/resource/Radzy\u0144_Podlaski> ,
+		<http://dbpedia.org/resource/Przedb\u00F3rz> ,
+		<http://dbpedia.org/resource/Russo-Polish_War_(1654\u20131667)> ,
+		dbr:National_Parks_of_Poland ,
+		<http://dbpedia.org/resource/Jadwiga_J\u0119drzejowska> ,
+		dbr:Duchy_of_Siewierz ,
+		<http://dbpedia.org/resource/Krynica-Zdr\u00F3j> ,
+		dbr:Spytko_II_of_Melsztyn ,
+		dbr:Bretislav_I ,
+		dbr:Pact_of_Vilnius_and_Radom ,
+		dbr:Battle_of_Studzianki ,
+		<http://dbpedia.org/resource/Krak\u00F3w_Army> ,
+		dbr:Great_Moravia ,
+		dbr:Rajcza ,
+		dbr:Duchy_of_Sandomierz ,
+		dbr:Sukiennice_Museum ,
+		dbr:Kalwaria_Zebrzydowska_Lanckorona_railway_station ,
+		dbr:Muszynianka_Muszyna ,
+		<http://dbpedia.org/resource/Battle_of_Jordan\u00F3w> ,
+		<http://dbpedia.org/resource/File:43._TKB_-_Fickowa_Pokusa_z_Jele\u015Bni_01.JPG> ,
+		<http://dbpedia.org/resource/File:Brygada_\u015Awi\u0119tokrzyska_1945.jpg> ,
+		<http://dbpedia.org/resource/File:Collage_of_views_of_Cracow.PNG> ,
+		<http://dbpedia.org/resource/File:Collage_of_views_of_Lublin.jpg> ,
+		<http://dbpedia.org/resource/Eastern_Front_(World_War_I)> ,
+		<http://dbpedia.org/resource/File:Cz\u0119stochowa_-_Jasna_G\u00F3ra_Gate_01.jpg> ,
+		<http://dbpedia.org/resource/File:D5sp-czarny.jpg> ,
+		<http://dbpedia.org/resource/File:Faculty_of_Economics_of_Technical_University_of_Radom.jpg> ,
+		<http://dbpedia.org/resource/File:Galician_slaughter_in_1846.PNG> ,
+		dbr:Pilzno_County ,
+		dbr:Galician_slaughter ,
+		<http://dbpedia.org/resource/File:Herb_miasta_Kielce.svg> ,
+		<http://dbpedia.org/resource/File:POL_Krak\u00F3w_COA.svg> ,
+		<http://dbpedia.org/resource/File:POL_Lublin_COA_1.svg> ,
+		<http://dbpedia.org/resource/File:POL_Radom_COA.svg> ,
+		<http://dbpedia.org/resource/File:Sosnowiec_Herb.svg> ,
+		<http://dbpedia.org/resource/File:Collegium_Maius_07.JPG> ,
+		<http://dbpedia.org/resource/File:Wawel_castle.jpg> ,
+		dbr:Kostka-Napierski_uprising ,
+		<http://dbpedia.org/resource/Statutes_of_Piotrk\u00F3w> ,
+		dbr:Lublin_Upland ,
+		dbr:Sandomierz_Basin ,
+		<http://dbpedia.org/resource/\u0141aski\u0027s_Statute> ,
+		<http://dbpedia.org/resource/Stadion_Miejski_Wis\u0142y_(Krak\u00F3w)> ,
+		dbr:National_costumes_of_Poland ,
+		<http://dbpedia.org/resource/Swoszowice_(Krak\u00F3w)> ,
+		dbr:Kmita ,
+		dbc:History_of_Silesian_Voivodeship ,
+		<http://dbpedia.org/resource/Category:History_of_\u015Awi\u0119tokrzyskie_Voivodeship> ,
+		dbc:Lesser_Poland ,
+		<http://dbpedia.org/resource/Cz\u0119stochowa_Ghetto_uprising> ,
+		<http://dbpedia.org/resource/Mokot\u00F3w_Prison_executions_of_1951> ,
+		<http://dbpedia.org/resource/Gmina_O\u017Carowice> ,
+		<http://dbpedia.org/resource/Wi\u015Blica_County> ,
+		dbr:Battle_of_Radom ,
+		<http://dbpedia.org/resource/Pieskowa_Ska\u0142a> ,
+		dbr:Staropolskie_Voivodeship ,
+		dbr:Stadion_Ludowy ,
+		dbr:Wianki ,
+		<http://dbpedia.org/resource/Cz\u0119stochowa_massacre> ,
+		dbc:History_of_Lesser_Poland_Voivodeship ,
+		dbc:Historical_regions_in_Poland ,
+		dbc:History_of_Lublin_Voivodeship ,
+		dbc:History_of_Masovian_Voivodeship ,
+		dbc:History_of_Podkarpackie_Voivodeship ,
+		dbr:Sandomierz_Agreement ,
+		dbr:Duchy_of_Warsaw ,
+		dbr:Zakopower ,
+		dbr:Medical_University_of_Lublin ,
+		dbr:Przypkowscy_Clock_Museum ,
+		dbr:Voivodeship ,
+		dbr:Sandomierz_Confederation ,
+		dbr:Vistula_River_Gorge_of_Lesser_Poland ,
+		dbr:Nobility ,
+		<http://dbpedia.org/resource/\u017Bywiec_Brewery> ,
+		dbr:Leszek_the_White ,
+		dbr:Old-Polish_Industrial_Region ,
+		<http://dbpedia.org/resource/\u0141ysa_G\u00F3ra> ,
+		dbr:List_of_Bohemian_monarchs ,
+		dbr:Duchy_of_Teschen ,
+		dbr:Nowa_Huta ,
+		dbr:Wooden_churches_of_Southern_Lesser_Poland ,
+		dbr:History_of_Jews_in_Poland ,
+		<http://dbpedia.org/resource/Przemys\u0142_I_of_Greater_Poland> ,
+		dbr:University_of_Warsaw ,
+		dbr:Mieszko_III_the_Old ,
+		<http://dbpedia.org/resource/Bielsko-Bia\u0142a_Museum_and_Castle> ,
+		<http://dbpedia.org/resource/Trail_of_the_Eagle\u0027s_Nests> ,
+		dbr:John_I_Albert ,
+		dbr:Henry_of_Sandomierz .
+@prefix dbt:	<http://dbpedia.org/resource/Template:> .
+dbr:Lesser_Poland	dbp:wikiPageUsesTemplate	dbt:Distinguish ,
+		dbt:Refend ,
+		dbt:Multiple_image ,
+		dbt:Infobox_settlement ,
+		dbt:Flag ,
+		dbt:Cite_book ,
+		dbt:Refbegin ,
+		dbt:Use_dmy_dates ,
+		dbt:Further ,
+		dbt:Commons_category ,
+		dbt:Sfn ,
+		dbt:Reflist ,
+		dbt:Short_description ,
+		dbt:Authority_control ,
+		dbt:Snds ;
+	dbo:wikiPageLength	"150399"^^xsd:nonNegativeInteger .
+<http://dbpedia.org/resource/Bart\u0142omiej_Nowodworski_High_School>	dbp:state	dbr:Lesser_Poland ;
+	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Bochotnica	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Goraj,_Lublin_Voivodeship>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Kock	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Ko\u0144skie>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/P\u0142awowice>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Radom	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Rajcza	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Ch\u0119ciny>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Genetic_studies_on_Croats	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Lel\u00F3w>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Lipnica_Murowana	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Zbuczyn	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/\u0141azy>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/\u0141\u0119czna>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/\u017Barki>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Rudnik_nad_Sanem	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Skierniewice	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Sobk\u00F3w>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Dyn\u00F3w>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Inow\u0142\u00F3dz>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Iwaniska	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/I\u0142\u017Ca>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Janik\u00F3w,_\u015Awi\u0119tokrzyskie_Voivodeship>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Jan\u00F3w_Lubelski>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Jas\u0142o>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:History_of_Tarnobrzeg	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Opatowiec	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Opat\u00F3w>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Opoczno	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Duchy_of_Pless	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Brzostek	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Bychawa	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/B\u0119dzin>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/S\u0119dzisz\u00F3w_Ma\u0142opolski>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Tar\u0142\u00F3w>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Fa\u0142k\u00F3w>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Stara_Wie\u015B,_Pszczyna>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Stasz\u00F3w>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/St\u0105pork\u00F3w>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Wieliczka	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Wielopole_Skrzy\u0144skie>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Historical_Museum_of_Krak\u00F3w>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Mst\u00F3w,_Silesian_Voivodeship>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/J\u00F3zef_Olszyna-Wilczy\u0144ski>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Wolbrom	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Pacification_of_Ukrainians_in_Eastern_Galicia	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Renaissance_architecture	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Reformation	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Louis_I_of_Hungary	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:History_of_Poland_during_the_Jagiellonian_dynasty	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/History_of_the_Polish\u2013Lithuanian_Commonwealth_(1764\u20131795)>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Geography_of_Poland	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Sanok	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Bukowsko	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Pog\u00F3rze_Bukowskie>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Western_Carpathians	dbp:region	dbr:Lesser_Poland ;
+	dbo:region	dbr:Lesser_Poland ;
+	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Battle_of_Grunwald	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Sankt_Florian_Psalter	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:List_of_European_regions_with_alternative_names	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:List_of_Indo-European_languages	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Bonfire	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Opole_Lubelskie	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Ostrowiec_\u015Awi\u0119tokrzyski>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:German_retribution_against_Poles_who_helped_Jews	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Tokarnia,_Sanok_County>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Romanian_exonyms	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Obwarzanek_krakowski	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:List_of_World_Heritage_Sites_in_Eastern_Europe	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Krak\u00F3w_Cloth_Hall>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Gliwice	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Przemy\u015Bl>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Nowy_S\u0105cz>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Battle_of_\u017Barn\u00F3w>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Bielsko-Bia\u0142a>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Zawiercie	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/\u017Bywiec>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Rzesz\u00F3w>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/D\u0105browa_G\u00F3rnicza>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/D\u0119bica>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Jaworzno	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Croats	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/S\u0142awk\u00F3w>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Tarn\u00F3w>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Myszk\u00F3w>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/T\u0119goborze_Prophecy>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Border_Guard_(Poland)>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Kra\u015Bnik>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Pu\u0142awy>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Nisko	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Bila_Tserkva	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Polish_Southern_Front	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Katowice_Steelworks	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Proposals_for_a_Jewish_state	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/1980_in_Poland>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Hacz\u00F3w>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Jaworzno_concentration_camp	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Paczk\u00F3w>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Banner_of_Poland	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Stalowa_Wola	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Stanis\u0142aw_Kot>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Stanis\u0142aw_Maczek>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Stanis\u0142aw_Tatar>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Wis\u0142ok_Dolny>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Ukrainian_Military_Organization	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Genetic_studies_on_Bulgarians	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Sack_of_Krak\u00F3w_(1241)>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Kazimierz_Dolny	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Trzebinia	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Samuel_Zborowski	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/B\u0142a\u017Cowa>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Moses_Jaffe_of_Bologna	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Jan_III_Sobieski_High_School,_Krak\u00F3w>	dbp:state	dbr:Lesser_Poland ;
+	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Sejm_of_the_Estates	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Sandomierz_Forest	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+wikipedia-en:Lesser_Poland	foaf:primaryTopic	dbr:Lesser_Poland .
+dbr:Great_Moravia	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Sigismund,_Holy_Roman_Emperor>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:National_Military_Organization	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Helena_Rubinstein	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Wojnicz	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Telewizja_Polska	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/W\u0142odowice,_Silesian_Voivodeship>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Miko\u0142aj_Zebrzydowski>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:SS_Kielce	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Volhynia	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Partition_Sejm	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Be\u0142\u017Cyce>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Karol_Ferdynand_Vasa	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Mikuszowice	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Wojciech_Bobowski	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Firlej_family	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Sandomierz_Agreement	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/B\u0119dzin_Castle>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Constitution_of_3_May_1791	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Sigismund_I_the_Old	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Walddeutsche	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Hieronim_Ossoli\u0144ski>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Polish_Reformed_Church	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Ludwig_Hahn	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:New_Silesia	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Duchy_of_Bytom	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Frysztak	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Jaksa_Gryfita	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Klemens_Kurowski	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Lublin_Voivodeship	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Greater_Poland_Voivodeship	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Lubomirski	dbo:wikiPageWikiLink	dbr:Lesser_Poland ;
+	dbp:origin	dbr:Lesser_Poland .
+dbr:Beskids	dbp:state	dbr:Lesser_Poland ;
+	dbo:state	dbr:Lesser_Poland ;
+	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Lesser_Poland_Voivodeship	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/\u0141\u00F3d\u017A_Voivodeship>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/\u015Awi\u0119tokrzyskie_Voivodeship>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Opole_Voivodeship	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Silesian_Voivodeship	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Podkarpackie_Voivodeship	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Western_Beskids	dbp:state	dbr:Lesser_Poland ;
+	dbo:state	dbr:Lesser_Poland ;
+	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Masovian_Voivodeship	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Bogus\u0142aw_Sonik>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Jerzy_Vetulani	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/\u015Awierklaniec>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Jan_Kowalewski	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/History_of_the_Polish\u2013Lithuanian_Commonwealth_(1648\u20131764)>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Clan_of_Ostoja	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Stanislaus_of_Szczepan\u00F3w>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Deities_and_fairies_of_fate_in_Slavic_mythology	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Church_of_the_Holy_Virgin_Mary_of_Lourdes	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Bergitka_Roma	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Ogrodzieniec	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/TVS_(Polish_TV_channel)>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Skawinka	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Nida_(river)>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Pilica_(river)>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Polish\u2013Bohemian_War_(1345\u20131348)>	dbp:place	dbr:Lesser_Poland ;
+	dbo:place	dbr:Lesser_Poland ;
+	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Krzysztofory_Palace	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Boguchwa\u0142a>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Andrzej_Bemer	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Andrzej_T\u0119czy\u0144ski>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Koss\u00F3w>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Odech\u00F3w,_Masovian_Voivodeship>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Wieniec,_Lesser_Poland_Voivodeship>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Duchy_of_Siewierz	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Dudy\u0144ce>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Jastrz\u0105b,_Szyd\u0142owiec_County>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Oskar_Schindler\u0027s_Enamel_Factory>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Duchy_of_Sandomierz	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Jan_Choje\u0144ski>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/\u015Aliwowica_\u0142\u0105cka>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Voivodeships_of_Poland	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:George_Baksa	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/1938_in_Poland>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Stone-Age_Poland	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Ostr\u00F3w_Lubelski>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Mieszko_II_Lambert	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Krak\u00F3w>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Blachownia	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Zerst\u00F6rergeschwader_2>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Jaxa_of_K\u00F6penick>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:South_Prussia	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/D\u0119blin>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Robert_Lamezan_de_Salins	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Krak\u00F3w_Army>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Jews_in_Bielsko-Bia\u0142a>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Mory\u0144>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:List_of_towns_with_German_town_law	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/D\u0119bowiec,_Podkarpackie_Voivodeship>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Siemieniotka	dbp:region	dbr:Lesser_Poland ;
+	dbo:region	dbr:Lesser_Poland ;
+	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Podhale	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Wola_Piotrowa	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Wola_S\u0119kowa>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Rak\u00F3w,_Kielce_County>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Racovian_Academy	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/2020\u201321_Stal_Stalowa_Wola_season>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Lachy_S\u0105deckie>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Maciej_Dreszer	dbo:birthPlace	dbr:Lesser_Poland ;
+	dbp:birthPlace	dbr:Lesser_Poland ;
+	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Narcyz_Wiatr	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Austrian_Silesia	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:History_of_Croatia	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:List_of_wars_involving_Austria	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Mary,_Queen_of_Hungary>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Jewish_ethnic_divisions	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/National_Museum,_Krak\u00F3w>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Osiedle_Swoboda	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Ostsiedlung	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/965>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Constitution_of_3_May_1791_(painting)>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Upper_Silesia	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Diet_of_Galicia_and_Lodomeria	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Komorowice,_Bielsko-Bia\u0142a>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Konstanty_Wasyl_Ostrogski	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Kozy	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Ko\u015Bciuszko_Uprising>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Province_of_Silesia	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Rafa\u0142_Leszczy\u0144ski_(1579\u20131636)>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Lubliniacy	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Offices_in_the_Polish\u2013Lithuanian_Commonwealth>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/St._Nicholas\u0027_Church,_B\u0105czal_Dolny>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/All_Saints_Church,_Blizne>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Galicia_(Eastern_Europe)>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Cieszyn_Silesia	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Andrew_Bobola	dbo:birthPlace	dbr:Lesser_Poland ;
+	dbp:birthPlace	dbr:Lesser_Poland ;
+	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/George_II_R\u00E1k\u00F3czi>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Poles_in_Ukraine	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Kalwaria_Zebrzydowska	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Kazimierz_Wojciechowski	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Odrow\u0105\u017C_family>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Morana_(goddess)>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Krakowiacy	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Jadwiga_of_Poland	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Olkusz	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Tyrawa_Wo\u0142oska>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Duchy_of_Poland_(966\u20131025)>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Jakub_\u015Awinka>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/By\u0142o_sobie_miasteczko...>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Lubi\u0105\u017C_Abbey>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Przemy\u015Bl_Land>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Serokomla	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Svatopluk_I_of_Moravia	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Szczebrzeszyn	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:National_Radical_Camp	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Wilamowianie	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Wilamowice	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Wincenty_Witos	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Sandomierzacy	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/\u015Amigus-dyngus>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Marcin_Kromer	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Wooden_churches_of_Southern_Lesser_Poland	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Katowice_Trade_Hall_roof_collapse	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Staropolskie_Voivodeship	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Kostka-Napierski_uprising	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Lublin_Upland	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:National_costumes_of_Poland	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Kmita	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Volhynian_Bloody_Sunday	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/W\u0142odzimierz_of_Cracow>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Battle_of_Suchodo\u0142>	dbp:combatant	dbr:Lesser_Poland ;
+	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Battle_of_Tarczek	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Zeriuani	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Jaksa	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Legislative_Sejm_(Second_Polish_Republic)>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Lesser_Poland_Province	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Polonia_Minor	dbo:wikiPageRedirects	dbr:Lesser_Poland ;
+	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Malopolska	dbo:wikiPageRedirects	dbr:Lesser_Poland ;
+	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Flag_of_the_Lesser_Poland_Voivodeship	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Little_Poland_(region)>	dbo:wikiPageRedirects	dbr:Lesser_Poland ;
+	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Caf\u00E9_Noworolski>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:History_of_Lesser_Poland	dbo:wikiPageRedirects	dbr:Lesser_Poland ;
+	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Ma\u0142opolska>	dbo:wikiPageRedirects	dbr:Lesser_Poland ;
+	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Sack_of_Sandomierz_(1260)>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Subdivisions_of_the_Kingdom_of_Poland	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Sulis\u0142aw_of_Cracow>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Lesser_Polish	dbo:wikiPageRedirects	dbr:Lesser_Poland ;
+	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Deluge_(history)>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Sigismund_III_Vasa	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Swedish_invasion_of_Poland_(1701\u20131706)>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Great_Northern_War_plague_outbreak	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Boles\u0142aw_III_Wrymouth>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Przyszowa	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Radwan_coat_of_arms	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:House_of_Griffin	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/1106>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/1173>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Siege_of_Krak\u00F3w>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Battle_of_Go\u0142\u0105b>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Territorial_evolution_of_Poland	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/\u017Belech\u00F3w>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Mieszko_I	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Wespazjan_Kochowski	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:History_of_the_Jews_in_Poland_before_the_18th_century	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Sandomierz	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/W\u0142adys\u0142aw_I_\u0141okietek>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Ropczyce	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Sigismund_II_Augustus	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Duke	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:United_Teachers_Los_Angeles	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Bochnia	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Chmielnik	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/\u0141uk\u00F3w>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Podolian_Voivodeship	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/17th_Greater_Poland_Uhlan_Regiment>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Ruthenian_Voivodeship	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Lodomeria	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Nowa_D\u0119ba>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Battle_of_M\u0105twy>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Battle_of_Ska\u0142at>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/KS_Cracovia_(football)>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Lesser_Poland_Province_of_the_Polish_Crown	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Lw\u00F3w_Grand_Prix>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Eastern_South_Slavic	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Amadeus_Aba	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Ostoja_coat_of_arms	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:PKP_Linia_Hutnicza_Szerokotorowa	dbo:regionServed	dbr:Lesser_Poland ;
+	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Trzciniec_culture	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Micha\u0142_Weinzieher>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Brac\u0142aw_Voivodeship>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/S\u0119dzisz\u00F3w>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Tadeusz_Grzesik	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Sanok_Land	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/National_Museum,_Warsaw>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Wolica,_Sanok_County>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Shvarn	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Josef_Franti\u0161ek>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Jan_of_Tarn\u00F3w>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Bobrowniki,_Lublin_Voivodeship>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Radzy\u0144_Podlaski>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Parczew	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/D\u0105browa_Basin>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/.pl>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Battle_of_Rac\u0142awice>	dbp:place	dbr:Lesser_Poland ;
+	dbo:place	dbr:Lesser_Poland ;
+	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Education_in_Poland	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Operation_Tempest	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Turbacz	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Trail_of_the_Eagle\u0027s_Nests>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Bieru\u0144>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Zator	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Zwole\u0144>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Czelad\u017A>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Por\u0119ba>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Po\u0142aniec>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Wojkowice	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Lud\u017Amierz>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Maciejowice	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Cz\u0119stochowa_Voivodeship>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Okocim_Brewery	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/1934_flood_in_Poland>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Bodzentyn	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Bogucice,_Lesser_Poland_Voivodeship>	dbp:subdivisionName	dbr:Lesser_Poland ;
+	dbo:subdivision	dbr:Lesser_Poland ;
+	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Gmina_Herby	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Gumniska,_Subcarpathian_Voivodeship>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Koprzywnica	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Koszarawa	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Kozieg\u0142owy,_Silesian_Voivodeship>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Kozienice	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Ko\u0144skowola>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Proszowice	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Prosz\u00F3wki>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Przyr\u00F3w>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Przysucha	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Przytyk	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Pyrzowice	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/P\u0142onna,_Podkarpackie_Voivodeship>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Radom_County	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Radomy\u015Bl_Wielki>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Radomy\u015Bl_nad_Sanem>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Third_Mongol_invasion_of_Poland	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Che\u0142mek>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Niedzica	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Nieznamierowice	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Odrzyw\u00F3\u0142,_Przysucha_County>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Korosciatyn_massacre	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Baran\u00F3w_Sandomierski>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Battle_of_Chmielnik	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Stanis\u0142aw_Brz\u00F3ska>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Ciepiel\u00F3w,_Masovian_Voivodeship>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Gielni\u00F3w>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Jedli\u0144sk>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Jele\u015Bnia>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Jeziorzany,_Lublin_Voivodeship>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Battle_of_Miech\u00F3w>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Battle_of_Mokra	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Battle_of_Szczekociny	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Battle_of_Zawichost	dbp:combatant	dbr:Lesser_Poland ;
+	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Belz_Voivodeship	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Beskid_Andrych\u00F3w>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Kamienne	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Karlik\u00F3w>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Kazimierza_Wielka	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Battle_of_Opole	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Lipsko	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Zwardo\u0144>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/\u0141askarzew>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/\u017Barnowiec,_Silesian_Voivodeship>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/\u017Barn\u00F3w>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Opole_(administrative)>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Orla_coat_of_arms	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Silesian_Upland	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Ma\u0142opolska_Upland>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Ossoli\u0144ski>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/2012\u201313_Ekstraliga_Kobiet>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Mierzanowice_culture	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Mil\u00F3wka,_Silesian_Voivodeship>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Mir\u00F3w_Castle_in_Ksi\u0105\u017C_Wielki>	dbo:location	dbr:Lesser_Poland ;
+	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Ryczyw\u00F3\u0142,_Masovian_Voivodeship>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Ryki	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Lechitic_languages	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Wielkopolski	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Gazeta_Krakowska	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Skalbmierz	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Skaryszew	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Skrzynno,_Masovian_Voivodeship>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Solec_nad_Wis\u0142\u0105>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Drzewica	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Dzia\u0142oszyce>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Frampol	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/G\u0142og\u00F3w_Ma\u0142opolski>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/G\u0142owacz\u00F3w,_Masovian_Voivodeship>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Jacek_Krupa	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Jan_Wielopolski	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Ja\u015Bliska>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Limanovia_Limanowa	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:History_of_Polish	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Polish_wine	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Lutheran_Diocese_of_Katowice	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Kielce_Voivodeship_(1919\u20131939)>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Ma\u0142opolska_Institute_of_Culture>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Union_of_Retaliation	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/\u0141an>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Szczakowa	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Annopol	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Olsztyn,_Silesian_Voivodeship>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Opoczno_County	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/O\u017Car\u00F3w>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/B\u0142onia>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Academy_of_Music_in_Krak\u00F3w>	dbp:region	dbr:Lesser_Poland ;
+	dbo:region	dbr:Lesser_Poland ;
+	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/2nd_Legions_Infantry_Division_(Poland)>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Bogoriowie	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Zaj\u0105c>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Bretislav_I	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Brzeszcze	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Bukowno	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Abraham_of_Bohemia	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Czarny_Dunajec	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Czorsztyn_Castle	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Kun\u00F3w>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Kur\u00F3w>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/K\u0142aj>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/K\u0142obuck>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Daleszyce	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Archaeological_Museum_of_Krak\u00F3w>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Szaflary	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Szczekociny	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Szyd\u0142owiec>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Tadeusz_Popek	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Tarnogr\u00F3d>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Krak\u00F3w_Voivodeship>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Nepalis_in_Poland	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Niebylec,_Podkarpackie_Voivodeship>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Pilica,_Silesian_Voivodeship>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Pionki	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Polish_Rugby_Union	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Western_Beskidian_Foothills	dbp:state	dbr:Lesser_Poland ;
+	dbo:state	dbr:Lesser_Poland ;
+	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Wieniawa,_Masovian_Voivodeship>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Wierzbica,_Radom_County>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Dziennik_Polski	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Feodor_Ostrogski	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Old-Polish_Industrial_Region	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/\u017Bywiec_Brewery>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Energylandia	dbp:location	dbr:Lesser_Poland ;
+	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Raid_on_Kielce_Prison	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Sandomierz_Voivodeship	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Juliusz_Kossak	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/J\u00F3zef\u00F3w,_Bi\u0142goraj_County>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Ma\u0142ogoszcz>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Siege_of_Krak\u00F3w_(1657)>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Solnica_(surname)>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Maniowy	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Wi\u015Blica>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Wo\u017Aniki>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Wy\u015Bmierzyce>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/W\u0105chock>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/W\u0105wolnica,_Lublin_Voivodeship>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/W\u0119gierska_G\u00F3rka>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/W\u0142oszczowa>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Romanesque_architecture_in_Poland	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Urz\u0119d\u00F3w>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Bogoria,_Poland>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Gowarcz\u00F3w>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Klimont\u00F3w,_Sandomierz_County>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Klw\u00F3w>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Krzepice	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Ksi\u0105\u017C_Wielki>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Przec\u0142aw>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Pustk\u00F3w_Osiedle>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Nowa_Bia\u0142a,_Lesser_Poland_Voivodeship>	dbp:subdivisionName	dbr:Lesser_Poland ;
+	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Nowy_Korczyn	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Oksa	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Lis\u00F3w,_Podkarpackie_Voivodeship>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Bejsce	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Bia\u0142acz\u00F3w>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/\u0106miel\u00F3w>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Modliborzyce,_Lublin_Voivodeship>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Rytwiany	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Secemin	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Ole\u015Bnica,_\u015Awi\u0119tokrzyskie_Voivodeship>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Osiek_Jasielski	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Pacan\u00F3w>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Adam\u00F3w,_\u0141uk\u00F3w_County>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Tropie,_Lesser_Poland_Voivodeship>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Tuchowicz	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Tylicz	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Czaszyn	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Kurozw\u0119ki>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Kurzel\u00F3w>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Lasocin,_Opat\u00F3w_County>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Parady\u017C,_Opoczno_County>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Polna,_Poland>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Stopnica	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/St\u0119\u017Cyca,_Lublin_Voivodeship>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Wa\u015Bni\u00F3w>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Wielowie\u015B,_Tarnobrzeg>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/M\u0119cina>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Wodzis\u0142aw,_\u015Awi\u0119tokrzyskie_Voivodeship>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Wojcieszk\u00F3w>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Battle_of_Jordan\u00F3w>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Polish_folk_dances	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Polish_language	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Global_storm_activity_of_2007	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Kielce	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Casimir_Pulaski	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:List_of_foods_named_after_places	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:List_of_Latin_names_of_regions	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:List_of_wine-producing_regions	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Main_Square,_Krak\u00F3w>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Szlachta_privileges	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Bosniaks	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Christmas_tree	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Adolf_Bertram	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Wolb\u00F3rz>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Poland	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Dog_meat	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Silesia	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Bystrzyca_K\u0142odzka>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Solec-Zdr\u00F3j>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Administrative_divisions_of_Poland	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Lloyd_C.II>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Czerte\u017C>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Nag\u00F3rzany>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Pobiedno	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Nadolany	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Conrad_II,_Holy_Roman_Emperor>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Poles	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Saint-Jean-de-la-Ruelle	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Micka\u00EBl_Lebout>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/9th_Lesser_Poland_Uhlan_Regiment>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Lubart\u00F3w>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Lublin	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Spa_town	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Gniezno	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Greater_Poland_uprising_(1918\u201319)>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Kingdom_of_Galicia_and_Lodomeria	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Kolbuszowa	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Pszczyna_Castle	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:First_Partition_of_Poland	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/10th_Motorized_Cavalry_Brigade_(Poland)>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/1112>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/1573_Polish\u2013Lithuanian_royal_election>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Haplogroup_I-M438	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Bia\u0142obrzegi>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Mielec	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Four_Motors_for_Europe	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/\u00C1d\u00E1m_J\u00E1vorka>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Cz\u0119stochowa>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Divided_regions	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Siedlce	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Na\u0142\u0119cz\u00F3w>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Pi\u0144cz\u00F3w>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Polish_cuisine	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Starachowice	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Environmental_racism_in_Europe	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Brick_Gothic	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Wymysorys_language	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Ostr\u0119\u017Cnik>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/\u0141\u00F3d\u017A_Army>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Ba\u0142ak_jargon>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Austrian_Partition	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/1937_peasant_strike_in_Poland>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Lesser_Polish_dialect	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Solidarno\u015B\u0107_(video_game)>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Battle_of_Brze\u015B\u0107_Litewski>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Corded_Ware_culture	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Sosnowiec	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Bytom	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Striped_flint	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Poland_in_antiquity	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Boleslaus_II,_Duke_of_Bohemia>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Dagome_iudex	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Vistulans	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Strad\u00F3w,_\u015Awi\u0119tokrzyskie_Voivodeship>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:White_Croats	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Pomerania_during_the_Early_Middle_Ages	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Boleslaus_I,_Duke_of_Bohemia>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Name_of_Poland	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Boles\u0142aw_III_the_Generous>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Pszczyna	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Radoszyce,_\u015Awi\u0119tokrzyskie_Voivodeship>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/P\u00F3\u0142kozic_coat_of_arms>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Casimir_I_of_Opole	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/G\u0105sawa_massacre>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/History_of_Krak\u00F3w>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Lublin_Voivodeship_(1474\u20131795)>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Sejm_of_the_Kingdom_of_Poland	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Siemomys\u0142,_Duke_of_Pomerania>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Umiastowski	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Lendians	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Ska\u0142a>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Duchy_of_Opole_and_Racib\u00F3rz>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Duchy_of_O\u015Bwi\u0119cim>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/History_of_Wroc\u0142aw>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Jan_IV_of_O\u015Bwi\u0119cim>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Second_Mongol_invasion_of_Poland	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/History_of_Bielsko-Bia\u0142a>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:History_of_Silesia	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Osiek,_\u015Awi\u0119tokrzyskie_Voivodeship>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Pomerelia	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Dunajec_river_castles	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Statutes_of_Casimir_the_Great	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Warfare_in_Medieval_Poland	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Czch\u00F3w>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Civil_war_in_Greater_Poland_(1382\u20131385)>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:List_of_Romanesque_buildings	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Bernard_of_Niemodlin	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Sieciech\u00F3w,_Masovian_Voivodeship>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Gryfici_(\u015Awiebodzice)>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Wenceslaus_I_of_Zator	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Henry_V,_Duke_of_Legnica>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/J\u0119drzej\u00F3w>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/W\u0142adys\u0142aw_Opolski>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/T\u0119czy\u0144ski>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Andrych\u00F3w>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Kika_Szaszkiewiczowa	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:List_of_derbies_in_Poland	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Volhynian_Voivodeship_(1569\u20131795)>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Podlaskie_Voivodeship_(1513\u20131795)>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Sejmik	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Szymon_Zacjusz	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Zawichost	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/\u0141uk\u00F3w_County>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Lasowiacy	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Prowincja	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Lubomirski\u0027s_rebellion>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Vilnius_uprising_(1794)>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Poniatowa	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Privilege_of_Mielnik	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Irena_and_Mieczys\u0142aw_Mazaraki_Museum>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Polish\u2013Bohemian_War_(990)>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Sandomierz_Confederation	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Palm_Sunday	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:List_of_lingua_francas	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/W\u0142adys\u0142aw_III_Spindleshanks>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Casimir_I_the_Restorer	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Boles\u0142aw_of_Kuyavia>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Boles\u0142aw_V_the_Chaste>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Duchy_of_Silesia	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Boles\u0142aw_I_of_Masovia>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Boles\u0142aw_I_the_Tall>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Boles\u0142aw_IV_the_Curly>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Boles\u0142aw_II_the_Generous>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Duchy_of_Greater_Poland	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:History_of_Poland_during_the_Piast_dynasty	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Siemowit_IV,_Duke_of_Masovia>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Silesian_Piasts	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Mazovia	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Oda_of_Haldensleben	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Leszek_II_the_Black	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Casimir_II_the_Just	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Seniorate_Province	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Duchies_of_Silesia	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Zbigniew_of_Poland	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Jagiellonian_dynasty	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Testament_of_Boles\u0142aw_III_Wrymouth>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/W\u0142adys\u0142aw_Odonic>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Odon_of_Pozna\u0144>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Agnes_of_Babenberg	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/W\u0142adys\u0142aw_II_Jagie\u0142\u0142o>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Boles\u0142aw_I_the_Brave>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Boles\u0142aw_II_of_Masovia>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Henry_II_the_Pious	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Henry_the_Bearded	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Mieszko_IV_Tanglefoot	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Siemowit_III,_Duke_of_Masovia>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Mieszko_III_the_Old	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Przemys\u0142_II>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Duchy_of_Teschen	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Leszek_the_White	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Polans_(western)>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Henryk_IV_Probus	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/W\u0142adys\u0142aw_I_Herman>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/W\u0142adys\u0142aw_II_the_Exile>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/1937_in_Poland>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Biecz	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:History_of_Christianity_in_the_Czech_Lands	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Red_Ruthenia	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Counter-Reformation_in_Poland	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Poland_in_the_Early_Middle_Ages	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Medzilaborce	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Simon_Dubnow	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Crown_Tribunal	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Tarnobrzeg	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:List_of_amusement_park_rankings	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Leszek_Lipka	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Radoszyce,_Podkarpackie_Voivodeship>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Przedb\u00F3rz>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Czapski_family	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Greater_Poland	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Dukla	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Korczak_coat_of_arms	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Miho_Iwata	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Treaty_of_Radnot	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Polish\u2013Ottoman_alliance>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Treaty_of_Kalisz_(1343)>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Zemsta	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/List_of_battles_301\u20131300>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Krosno	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Metropolitan_Association_of_Upper_Silesia_and_D\u0105browa_Basin>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Sabbatai_Zevi	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Polish\u2013Lithuanian_Commonwealth>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Thirteen_Years\u0027_War_(1454\u20131466)>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:List_of_etymologies_of_country_subdivision_names	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Jan_Morawski	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Kasper_Niesiecki	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Jan_Chryzostom_Pasek	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Stanis\u0142aw_Lubieniecki>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Piotr_of_Goni\u0105dz>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Dmitry_Bortniansky	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Ukrainian_Soviet_Socialist_Republic	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:List_of_ancient_Slavic_peoples	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Partitions_of_Poland	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Little_Russia	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/J\u00F3zef_Hauke-Bosak>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Polish_historical_regions	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Kresy	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Izydor_Jab\u0142o\u0144ski>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/2023_European_Games>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Bolko_I_of_Opole	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Crown_of_the_Kingdom_of_Poland	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Lanckorona	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Council_of_Four_Lands	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Krakowiak	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Pob\u00F3g_coat_of_arms>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Subdivisions_of_the_Polish\u2013Lithuanian_Commonwealth>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Old_Church_Slavonic	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Regions_of_Poland	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Genetic_studies_on_Serbs	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Origin_hypotheses_of_the_Croats	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Bronocice_pot	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Skar\u017Cysko-Kamienna>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Second_Polish_Republic	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Bi\u0142goraj>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/J\u00F3zef_Kura\u015B>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Malopolski	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Mazurzenie	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Klemens_of_Brze\u017Anica>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Klement_of_Ruszcza	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Pakos\u0142aw_of_Sandomierz>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Przemsza	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/1587_Polish\u2013Lithuanian_royal_election>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Moravian_Gate	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/1697_Polish\u2013Lithuanian_royal_election>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Special_Protection_Areas_in_Poland	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/\u015Awidnik>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Bronze-_and_Iron-Age_Poland	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Lugii	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Dow\u00F3dztwo_Okr\u0119gu_Korpusu>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:List_of_historical_regions_of_Central_Europe	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:White_Croatia	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Bar_Confederation	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Genetic_studies_on_Bosniaks	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Gothic_architecture_in_modern_Poland	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Niedzica_Castle	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Krak\u00F3w_Barbican>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/\u0141ag\u00F3w,_\u015Awi\u0119tokrzyskie_Voivodeship>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/\u017Bupny_Castle>	dbo:location	dbr:Lesser_Poland ;
+	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Czudec	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Battle_of_Cecora_(1620)>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Trzaska_coat_of_arms	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Amendment_to_the_Act_on_the_Institute_of_National_Remembrance	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Little_Poland	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/O\u015Bwi\u0119cim>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Skawina	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Moravia\u2013Ostrava_Offensive>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Wis\u0142ok_G\u00F3rny>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Piotr_O\u017Carowski>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Mieczyslaw_Rys-Trojanowski	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Pan_Podstoli	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Jakub_Cytryn	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Jama_Michalika	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Krak\u00F3w_Voivodeship_(14th_century_\u2013_1795)>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:Pierzchnica	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Podegrodzie,_Lesser_Poland_Voivodeship>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+dbr:West_Galicia	dbo:wikiPageWikiLink	dbr:Lesser_Poland .
+<http://dbpedia.org/resource/Antoni_Fr\u0105ckiewicz>	dbo:wikiPageWikiLink	dbr:Lesser_Poland .

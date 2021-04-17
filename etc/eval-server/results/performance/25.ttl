@@ -1,0 +1,300 @@
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+<http://dbpedia.org/resource/Josef_B\u00FCrckel>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Germersheim_(district)> .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+<http://en.wikipedia.org/wiki/Germersheim_(district)>	foaf:primaryTopic	<http://dbpedia.org/resource/Germersheim_(district)> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+dbr:Rheinstetten	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Germersheim_(district)> .
+dbr:Rhineland-Palatinate	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Germersheim_(district)> .
+dbr:List_of_railway_stations_in_Rhineland-Palatinate	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Germersheim_(district)> .
+dbr:Lustadt	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Germersheim_(district)> .
+dbr:Knittelsheim	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Germersheim_(district)> .
+<http://dbpedia.org/resource/Hagenbach_(Verbandsgemeinde)>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Germersheim_(district)> .
+dbr:Armorial_of_districts_in_Rhineland-Palatinate	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Germersheim_(district)> .
+dbr:Jockgrim	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Germersheim_(district)> .
+dbr:Leimersheim	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Germersheim_(district)> .
+<http://dbpedia.org/resource/Lingenfeld_(Verbandsgemeinde)>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Germersheim_(district)> .
+dbr:Zeiskam	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Germersheim_(district)> .
+dbr:Minfeld	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Germersheim_(district)> .
+<http://dbpedia.org/resource/R\u00FClzheim>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Germersheim_(district)> .
+<http://dbpedia.org/resource/Kandel_(Verbandsgemeinde)>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Germersheim_(district)> .
+dbr:Freckenfeld	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Germersheim_(district)> .
+dbr:Freisbach	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Germersheim_(district)> .
+<http://dbpedia.org/resource/H\u00F6rdt>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Germersheim_(district)> .
+dbr:Schwegenheim	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Germersheim_(district)> .
+dbr:Ottersheim_bei_Landau	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Germersheim_(district)> .
+dbr:Rhein-Pfalz-Kreis	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Germersheim_(district)> .
+dbr:Rheinhessen-Pfalz	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Germersheim_(district)> .
+<http://dbpedia.org/resource/Jockgrim_(Verbandsgemeinde)>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Germersheim_(district)> .
+dbr:Kuhardt	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Germersheim_(district)> .
+dbr:List_of_castles_in_Rhineland-Palatinate	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Germersheim_(district)> .
+<http://dbpedia.org/resource/Bellheim_(Verbandsgemeinde)>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Germersheim_(district)> .
+dbr:Vollmersweiler	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Germersheim_(district)> .
+<http://dbpedia.org/resource/R\u00FClzheim_(Verbandsgemeinde)>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Germersheim_(district)> .
+dbr:Neuburg_am_Rhein	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Germersheim_(district)> .
+dbr:Neupotz	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Germersheim_(district)> .
+dbr:Steinweiler	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Germersheim_(district)> .
+<http://dbpedia.org/resource/Westheim,_Rhineland-Palatinate>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Germersheim_(district)> .
+<http://dbpedia.org/resource/Winden,_Germersheim>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Germersheim_(district)> .
+dbr:Erlenbach_bei_Kandel	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Germersheim_(district)> .
+<http://dbpedia.org/resource/Hatzenb\u00FChl>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Germersheim_(district)> .
+dbr:Tobias_Lindner	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Germersheim_(district)> .
+dbr:Bruhrain_Railway	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Germersheim_(district)> .
+dbr:Lingenfeld	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Germersheim_(district)> .
+dbr:Roman_Catholic_Diocese_of_Speyer	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Germersheim_(district)> .
+dbr:Germersheim_station	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Germersheim_(district)> .
+dbr:List_of_cities_in_Rhineland-Palatinate_by_population	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Germersheim_(district)> .
+dbr:List_of_coats_of_arms_with_the_Palatine_Lion	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Germersheim_(district)> .
+dbr:Bellheim	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Germersheim_(district)> .
+dbr:Julien_Cahn	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Germersheim_(district)> .
+dbr:NUTS_statistical_regions_of_Germany	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Germersheim_(district)> .
+dbr:List_of_districts_of_Germany	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Germersheim_(district)> .
+dbr:Germersheim	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Germersheim_(district)> .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+<http://dbpedia.org/resource/Germersheim_(district)>	rdf:type	dbo:Place .
+@prefix schema:	<http://schema.org/> .
+<http://dbpedia.org/resource/Germersheim_(district)>	rdf:type	schema:AdministrativeArea .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+<http://dbpedia.org/resource/Germersheim_(district)>	rdf:type	yago:Location100027167 ,
+		yago:WikicatFormerDistrictsOfBavaria ,
+		dbo:PopulatedPlace ,
+		dbo:Location .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+<http://dbpedia.org/resource/Germersheim_(district)>	rdf:type	wikidata:Q3455524 .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+<http://dbpedia.org/resource/Germersheim_(district)>	rdf:type	owl:Thing .
+@prefix geo:	<http://www.w3.org/2003/01/geo/wgs84_pos#> .
+<http://dbpedia.org/resource/Germersheim_(district)>	rdf:type	geo:SpatialThing ,
+		yago:PhysicalEntity100001930 ,
+		yago:Object100002684 ,
+		yago:Region108630985 ,
+		dbo:Region ,
+		dbo:AdministrativeRegion ,
+		yago:District108552138 ,
+		yago:YagoPermanentlyLocatedEntity ,
+		yago:YagoLegalActorGeo ,
+		yago:YagoGeoEntity .
+@prefix umbel-rc:	<http://umbel.org/umbel/rc/> .
+<http://dbpedia.org/resource/Germersheim_(district)>	rdf:type	umbel-rc:PopulatedPlace ,
+		schema:Place ,
+		yago:WikicatDistrictsOfRhineland-Palatinate .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+<http://dbpedia.org/resource/Germersheim_(district)>	rdfs:label	"Germersheim (distrik)"@in ,
+		"\u0413\u0435\u0440\u043C\u0435\u0440\u0441\u0433\u0430\u0439\u043C (\u0440\u0430\u0439\u043E\u043D)"@uk ,
+		"Landkreis Germersheim"@sv ,
+		"Landkreis Germersheim"@de ,
+		"Powiat Germersheim"@pl ,
+		"Distrikto Germersheim"@eo ,
+		"Circondario di Germersheim"@it ,
+		"Germersheim (district)"@en ,
+		"Landkreis Germersheim"@nl ,
+		"\u76D6\u9ED8\u65AF\u6D77\u59C6\u53BF"@zh ,
+		"Germersheim (distrito)"@pt ,
+		"\u30B2\u30EB\u30DE\u30FC\u30B9\u30CF\u30A4\u30E0\u90E1"@ja ,
+		"Arrondissement de Germersheim"@fr ,
+		"\u0413\u0435\u0440\u043C\u0435\u0440\u0441\u0445\u0430\u0439\u043C (\u0440\u0430\u0439\u043E\u043D)"@ru ,
+		"Distrito de Germersheim"@es ;
+	rdfs:comment	"L'arrondissement de Germersheim est un arrondissement (Landkreis en allemand) de Rh\u00E9nanie-Palatinat (Allemagne).Son chef lieu est Germersheim."@fr ,
+		"La distrikto Germersheim situas en la sudoriento de la germana federacia lando Rejnlando-Palatinato, lime al Francio. \u011Cia administra sidejo estas la samnoma urbo Germersheim. Najbaras la distriktoj S\u00FCdliche Weinstra\u00DFe (suda vinstrato) kaj Rhein-Pfalz en la federacia lando Rejnlando-Palatinato plus la distrikto Rastatt kaj la eksterdistrikta urbo Karlsruhe de la federacia lando Baden-Virtembergo en Germanio, sed anka\u016D la departemento Bas-Rhin kun sia arondismento Wissembourg en Francio."@eo ,
+		"\u0413\u0435\u0440\u043C\u0435\u0440\u0441\u0445\u0430\u0439\u043C (\u043D\u0435\u043C. Germersheim) \u2014 \u0440\u0430\u0439\u043E\u043D \u0432 \u0413\u0435\u0440\u043C\u0430\u043D\u0438\u0438. \u0426\u0435\u043D\u0442\u0440 \u0440\u0430\u0439\u043E\u043D\u0430 \u2014 \u0433\u043E\u0440\u043E\u0434 \u0413\u0435\u0440\u043C\u0435\u0440\u0441\u0445\u0430\u0439\u043C. \u0420\u0430\u0439\u043E\u043D \u0432\u0445\u043E\u0434\u0438\u0442 \u0432 \u0437\u0435\u043C\u043B\u044E \u0420\u0435\u0439\u043D\u043B\u0430\u043D\u0434-\u041F\u0444\u0430\u043B\u044C\u0446. \u0417\u0430\u043D\u0438\u043C\u0430\u0435\u0442 \u043F\u043B\u043E\u0449\u0430\u0434\u044C 463,26 \u043A\u043C\u00B2. \u041D\u0430\u0441\u0435\u043B\u0435\u043D\u0438\u0435 \u2014 125 231 \u0447\u0435\u043B. \u041F\u043B\u043E\u0442\u043D\u043E\u0441\u0442\u044C \u043D\u0430\u0441\u0435\u043B\u0435\u043D\u0438\u044F \u2014 270 \u0447\u0435\u043B\u043E\u0432\u0435\u043A/\u043A\u043C\u00B2.\u041E\u0444\u0438\u0446\u0438\u0430\u043B\u044C\u043D\u044B\u0439 \u043A\u043E\u0434 \u0440\u0430\u0439\u043E\u043D\u0430 \u2014 07 3 34. \u0420\u0430\u0439\u043E\u043D \u043F\u043E\u0434\u0440\u0430\u0437\u0434\u0435\u043B\u044F\u0435\u0442\u0441\u044F \u043D\u0430 31 \u043E\u0431\u0449\u0438\u043D\u0443."@ru ,
+		"\u0413\u0435\u0440\u043C\u0435\u0440\u0441\u0433\u0430\u0439\u043C (\u043D\u0456\u043C. Germersheim) \u2014 \u0440\u0430\u0439\u043E\u043D \u0443 \u041D\u0456\u043C\u0435\u0447\u0447\u0438\u043D\u0456, \u0443 \u0441\u043A\u043B\u0430\u0434\u0456 \u0444\u0435\u0434\u0435\u0440\u0430\u043B\u044C\u043D\u043E\u0457 \u0437\u0435\u043C\u043B\u0456 \u0420\u0435\u0439\u043D\u043B\u0430\u043D\u0434-\u041F\u0444\u0430\u043B\u044C\u0446. \u0410\u0434\u043C\u0456\u043D\u0456\u0441\u0442\u0440\u0430\u0442\u0438\u0432\u043D\u0438\u0439 \u0446\u0435\u043D\u0442\u0440 \u2014 \u043C\u0456\u0441\u0442\u043E \u0413\u0435\u0440\u043C\u0435\u0440\u0441\u0433\u0430\u0439\u043C."@uk ,
+		"Der Landkreis Germersheim ist eine Gebietsk\u00F6rperschaft im S\u00FCdosten von Rheinland-Pfalz. Sitz der Kreisverwaltung und zugleich bev\u00F6lkerungsreichste Kommune ist die gleichnamige verbandsfreie Stadt Germersheim. Der Landkreis umfasst 31 Ortsgemeinden, die zum gro\u00DFen Teil Verbandsgemeinden angeh\u00F6ren."@de ,
+		"Powiat Germersheim (niem. Landkreis Germersheim) \u2013 powiat w niemieckim kraju zwi\u0105zkowym Nadrenia-Palatynat. Siedzib\u0105 powiatu jest miasto Germersheim."@pl ,
+		"Germersheim (German: [\u02C8\u0261\u025B\u0250\u032Fm\u0250s\u02CCha\u026Am] ()) is a district in the south-east of Rhineland-Palatinate, Germany. Neighboring districts are (from west clockwise) S\u00FCdliche Weinstra\u00DFe, Rhein-Pfalz-Kreis, the district Karlsruhe as well as the district-free city of Karlsruhe, and the French d\u00E9partement Bas-Rhin."@en ,
+		"Germersheim es un distrito (Kreis) en el sur-este de Renania-Palatinado, en Alemania. Los distritos vecinos son S\u00FCdliche Weinstra\u00DFe, Rhein-Pfalz-Kreis, el Distrito de Karlsruhe, as\u00ED como la ciudad de Karlsruhe, y el Departamento del Bajo Rin en Francia."@es ,
+		"Germersheim \u00E9 um distrito (kreis ou landkreis) da Alemanha localizado no estado da Ren\u00E2nia-Palatinado."@pt ,
+		"Landkreis Germersheim is een landkreis in de Duitse deelstaat Rijnland-Palts. Het heeft een oppervlakte van 463,26 km\u00B2 en een inwoneraantal van 125.434. Kreisstadt is de stad Germersheim."@nl ,
+		"Il circondario di Germersheim (targa GER) \u00E8 un circondario (Landkreis) della Renania-Palatinato, in Germania.Comprende 4 citt\u00E0 e 27 comuni.Capoluogo e centro maggiore \u00E8 Germersheim."@it ,
+		"Germersheim adalah sebuah distrik (Landkreis) di Rheinland-Pfalz, Jerman. Kota-kota tetangganya di antaranya Speyer, Landau, Philipsburg, Karlsruhe, dan Worth"@in ,
+		"Landkreis Germersheim \u00E4r ett distrikt (Landkreis) i s\u00F6dra delen av det tyska f\u00F6rbundslandet Rheinland-Pfalz. Denna Rheinland-Pfalz-relaterade geografiartikel saknar v\u00E4sentlig information. Du kan hj\u00E4lpa till genom att tillf\u00F6ra s\u00E5dan."@sv ,
+		"\u30B2\u30EB\u30DE\u30FC\u30B9\u30CF\u30A4\u30E0\u90E1\uFF08Landkreis Germersheim\uFF09\u306F\u3001\u30C9\u30A4\u30C4\u306E\u30E9\u30A4\u30F3\u30E9\u30F3\u30C8\uFF1D\u30D7\u30D5\u30A1\u30EB\u30C4\u5DDE\u306B\u3042\u308B\u90E1\u306E\u4E00\u3064\u3067\u3042\u308B\u3002\u90E1\u5E81\u6240\u5728\u5730\u306F\u30B2\u30EB\u30DE\u30FC\u30B9\u30CF\u30A4\u30E0\u3002 \u6642\u8A08\u56DE\u308A\u9806\u306B\u3001\u897F\u306F\u30BA\u30E5\u30FC\u30C8\u30EA\u30D2\u30A7\u30FB\u30F4\u30A1\u30A4\u30F3\u30B7\u30E5\u30C8\u30E9\u30FC\u30BB\u90E1\u3001\u5317\u306F\u30E9\u30A4\u30F3\uFF1D\u30D7\u30D5\u30A1\u30EB\u30C4\u90E1\u3001\u6771\u306F\u30D0\u30FC\u30C7\u30F3\uFF1D\u30F4\u30E5\u30EB\u30C6\u30F3\u30D9\u30EB\u30AF\u5DDE\u306E\u30AB\u30FC\u30EB\u30B9\u30EB\u30FC\u30A8\u90E1\u304A\u3088\u3073\u72EC\u7ACB\u5E02\u30AB\u30FC\u30EB\u30B9\u30EB\u30FC\u30A8\u3001\u305D\u3057\u3066\u3001\u5357\u897F\u306F\u30D5\u30E9\u30F3\u30B9\u306E\u30D0\uFF1D\u30E9\u30F3\u770C\u3068\u63A5\u3057\u3066\u3044\u308B\u3002"@ja ,
+		"\u76D6\u9ED8\u65AF\u6D77\u59C6\u53BF\uFF08Landkreis Germersheim\uFF09\u662F\u5FB7\u56FD\u83B1\u8335\u5170-\u666E\u6CD5\u5C14\u8328\u5DDE\u7684\u4E00\u4E2A\u53BF\uFF0C\u9996\u5E9C\u76D6\u9ED8\u65AF\u6D77\u59C6\u3002"@zh ;
+	foaf:name	"Germersheim"@en ;
+	foaf:homepage	<http://www.kreis-germersheim.de> .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+<http://dbpedia.org/resource/Germersheim_(district)>	geo:lat	"49.0800018310546875"^^xsd:float ;
+	geo:long	"8.25"^^xsd:float ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/DEU_Landkreis_Germersheim_COA.svg> ;
+	foaf:isPrimaryTopicOf	<http://en.wikipedia.org/wiki/Germersheim_(district)> .
+@prefix virtrdf:	<http://www.openlinksw.com/schemas/virtrdf#> .
+<http://dbpedia.org/resource/Germersheim_(district)>	geo:geometry	"POINT(8.25 49.080001831055)"^^virtrdf:Geometry .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+<http://dbpedia.org/resource/Germersheim_(district)>	dct:subject	dbc:South_Palatinate ,
+		dbc:Districts_of_Rhineland-Palatinate ,
+		<http://dbpedia.org/resource/Category:Germersheim_(district)> ,
+		dbc:Anterior_Palatinate ;
+	owl:sameAs	<http://id.dbpedia.org/resource/Germersheim_(distrik)> .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+<http://dbpedia.org/resource/Germersheim_(district)>	owl:sameAs	dbpedia-de:Landkreis_Germersheim ,
+		<http://ja.dbpedia.org/resource/\u30B2\u30EB\u30DE\u30FC\u30B9\u30CF\u30A4\u30E0\u90E1> .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+<http://dbpedia.org/resource/Germersheim_(district)>	owl:sameAs	dbpedia-nl:Landkreis_Germersheim ,
+		<http://kk.dbpedia.org/resource/\u0413\u0435\u0440\u043C\u0435\u0440\u0441\u0445\u0430\u0439\u043C_(\u0430\u0443\u0434\u0430\u043D)> ,
+		<http://zh.dbpedia.org/resource/\u76D6\u9ED8\u65AF\u6D77\u59C6\u53BF> ,
+		<http://vi.dbpedia.org/resource/Germersheim_(huy\u1EC7n)> ,
+		<https://global.dbpedia.org/id/51UBX> ,
+		<http://sws.geonames.org/3247907/> ,
+		<http://rdf.freebase.com/ns/m.01g98k> ,
+		<http://hy.dbpedia.org/resource/\u0533\u0565\u0580\u0574\u0565\u0580\u057D\u0570\u0561\u0575\u0574_(\u0577\u0580\u057B\u0561\u0576)> .
+@prefix dbpedia-ro:	<http://ro.dbpedia.org/resource/> .
+<http://dbpedia.org/resource/Germersheim_(district)>	owl:sameAs	dbpedia-ro:Districtul_Germersheim ,
+		<http://ru.dbpedia.org/resource/\u0413\u0435\u0440\u043C\u0435\u0440\u0441\u0445\u0430\u0439\u043C_(\u0440\u0430\u0439\u043E\u043D)> ,
+		<http://d-nb.info/gnd/4494002-6> ,
+		<http://yago-knowledge.org/resource/Germersheim_(district)> .
+@prefix ns18:	<http://ceb.dbpedia.org/resource/> .
+<http://dbpedia.org/resource/Germersheim_(district)>	owl:sameAs	ns18:Landkreis_Germersheim ,
+		<http://ms.dbpedia.org/resource/Germersheim_(daerah)> ,
+		<http://war.dbpedia.org/resource/Germersheim_(distrito)> .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+<http://dbpedia.org/resource/Germersheim_(district)>	owl:sameAs	dbpedia-es:Distrito_de_Germersheim .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+<http://dbpedia.org/resource/Germersheim_(district)>	owl:sameAs	dbpedia-pl:Powiat_Germersheim .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+<http://dbpedia.org/resource/Germersheim_(district)>	owl:sameAs	dbpedia-fr:Arrondissement_de_Germersheim ,
+		<http://pnb.dbpedia.org/resource/\u06AF\u0631\u0645\u0631\u0632\u06C1\u0627\u0626\u06CC\u0645> ,
+		<http://gadm.geovocab.org/id/3_23155> ,
+		<http://dbpedia.org/resource/Germersheim_(district)> .
+@prefix dbpedia-sv:	<http://sv.dbpedia.org/resource/> .
+<http://dbpedia.org/resource/Germersheim_(district)>	owl:sameAs	dbpedia-sv:Landkreis_Germersheim ,
+		<http://fa.dbpedia.org/resource/\u06AF\u0631\u0645\u0631\u0633\u0647\u0627\u06CC\u0645_(\u0646\u0627\u062D\u06CC\u0647)> .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+<http://dbpedia.org/resource/Germersheim_(district)>	owl:sameAs	dbpedia-it:Circondario_di_Germersheim ,
+		<http://uk.dbpedia.org/resource/\u0413\u0435\u0440\u043C\u0435\u0440\u0441\u0433\u0430\u0439\u043C_(\u0440\u0430\u0439\u043E\u043D)> ,
+		<http://ka.dbpedia.org/resource/\u10D2\u10D4\u10E0\u10DB\u10D4\u10E0\u10E1\u10F0\u10D0\u10D8\u10DB\u10D8\u10E1_\u10E0\u10D0\u10D8\u10DD\u10DC\u10D8> .
+@prefix dbpedia-eo:	<http://eo.dbpedia.org/resource/> .
+<http://dbpedia.org/resource/Germersheim_(district)>	owl:sameAs	dbpedia-eo:Distrikto_Germersheim ,
+		<http://pt.dbpedia.org/resource/Germersheim_(distrito)> ,
+		<http://d-nb.info/gnd/2030731-7> ,
+		<http://viaf.org/viaf/155988295> ,
+		wikidata:Q8543 .
+@prefix georss:	<http://www.georss.org/georss/> .
+<http://dbpedia.org/resource/Germersheim_(district)>	georss:point	"49.08 8.25" ;
+	schema:sameAs	<http://viaf.org/viaf/155988295> ;
+	dbo:abstract	"L'arrondissement de Germersheim est un arrondissement (Landkreis en allemand) de Rh\u00E9nanie-Palatinat (Allemagne).Son chef lieu est Germersheim."@fr ,
+		"\u0413\u0435\u0440\u043C\u0435\u0440\u0441\u0433\u0430\u0439\u043C (\u043D\u0456\u043C. Germersheim) \u2014 \u0440\u0430\u0439\u043E\u043D \u0443 \u041D\u0456\u043C\u0435\u0447\u0447\u0438\u043D\u0456, \u0443 \u0441\u043A\u043B\u0430\u0434\u0456 \u0444\u0435\u0434\u0435\u0440\u0430\u043B\u044C\u043D\u043E\u0457 \u0437\u0435\u043C\u043B\u0456 \u0420\u0435\u0439\u043D\u043B\u0430\u043D\u0434-\u041F\u0444\u0430\u043B\u044C\u0446. \u0410\u0434\u043C\u0456\u043D\u0456\u0441\u0442\u0440\u0430\u0442\u0438\u0432\u043D\u0438\u0439 \u0446\u0435\u043D\u0442\u0440 \u2014 \u043C\u0456\u0441\u0442\u043E \u0413\u0435\u0440\u043C\u0435\u0440\u0441\u0433\u0430\u0439\u043C."@uk ,
+		"Germersheim (German: [\u02C8\u0261\u025B\u0250\u032Fm\u0250s\u02CCha\u026Am] ()) is a district in the south-east of Rhineland-Palatinate, Germany. Neighboring districts are (from west clockwise) S\u00FCdliche Weinstra\u00DFe, Rhein-Pfalz-Kreis, the district Karlsruhe as well as the district-free city of Karlsruhe, and the French d\u00E9partement Bas-Rhin."@en ,
+		"Germersheim adalah sebuah distrik (Landkreis) di Rheinland-Pfalz, Jerman. Kota-kota tetangganya di antaranya Speyer, Landau, Philipsburg, Karlsruhe, dan Worth"@in ,
+		"Der Landkreis Germersheim ist eine Gebietsk\u00F6rperschaft im S\u00FCdosten von Rheinland-Pfalz. Sitz der Kreisverwaltung und zugleich bev\u00F6lkerungsreichste Kommune ist die gleichnamige verbandsfreie Stadt Germersheim. Der Landkreis umfasst 31 Ortsgemeinden, die zum gro\u00DFen Teil Verbandsgemeinden angeh\u00F6ren."@de ,
+		"\u76D6\u9ED8\u65AF\u6D77\u59C6\u53BF\uFF08Landkreis Germersheim\uFF09\u662F\u5FB7\u56FD\u83B1\u8335\u5170-\u666E\u6CD5\u5C14\u8328\u5DDE\u7684\u4E00\u4E2A\u53BF\uFF0C\u9996\u5E9C\u76D6\u9ED8\u65AF\u6D77\u59C6\u3002"@zh ,
+		"Landkreis Germersheim \u00E4r ett distrikt (Landkreis) i s\u00F6dra delen av det tyska f\u00F6rbundslandet Rheinland-Pfalz. Denna Rheinland-Pfalz-relaterade geografiartikel saknar v\u00E4sentlig information. Du kan hj\u00E4lpa till genom att tillf\u00F6ra s\u00E5dan."@sv ,
+		"Landkreis Germersheim is een landkreis in de Duitse deelstaat Rijnland-Palts. Het heeft een oppervlakte van 463,26 km\u00B2 en een inwoneraantal van 125.434. Kreisstadt is de stad Germersheim."@nl ,
+		"Germersheim es un distrito (Kreis) en el sur-este de Renania-Palatinado, en Alemania. Los distritos vecinos son S\u00FCdliche Weinstra\u00DFe, Rhein-Pfalz-Kreis, el Distrito de Karlsruhe, as\u00ED como la ciudad de Karlsruhe, y el Departamento del Bajo Rin en Francia."@es ,
+		"Germersheim \u00E9 um distrito (kreis ou landkreis) da Alemanha localizado no estado da Ren\u00E2nia-Palatinado."@pt ,
+		"Il circondario di Germersheim (targa GER) \u00E8 un circondario (Landkreis) della Renania-Palatinato, in Germania.Comprende 4 citt\u00E0 e 27 comuni.Capoluogo e centro maggiore \u00E8 Germersheim."@it ,
+		"La distrikto Germersheim situas en la sudoriento de la germana federacia lando Rejnlando-Palatinato, lime al Francio. \u011Cia administra sidejo estas la samnoma urbo Germersheim. Najbaras la distriktoj S\u00FCdliche Weinstra\u00DFe (suda vinstrato) kaj Rhein-Pfalz en la federacia lando Rejnlando-Palatinato plus la distrikto Rastatt kaj la eksterdistrikta urbo Karlsruhe de la federacia lando Baden-Virtembergo en Germanio, sed anka\u016D la departemento Bas-Rhin kun sia arondismento Wissembourg en Francio. La rivero Rejno grandparte konsistigas la orientan limon de la teritorio kaj samtempe markas la limon al la najbara federacia lando Baden-Virtembergo (inter alie al la eksterdistrikta urbo Karlsruhe), la rivero Lauter grandparte la sudan limon de la teritorio kaj samtempe la limon al Francio."@eo ,
+		"\u0413\u0435\u0440\u043C\u0435\u0440\u0441\u0445\u0430\u0439\u043C (\u043D\u0435\u043C. Germersheim) \u2014 \u0440\u0430\u0439\u043E\u043D \u0432 \u0413\u0435\u0440\u043C\u0430\u043D\u0438\u0438. \u0426\u0435\u043D\u0442\u0440 \u0440\u0430\u0439\u043E\u043D\u0430 \u2014 \u0433\u043E\u0440\u043E\u0434 \u0413\u0435\u0440\u043C\u0435\u0440\u0441\u0445\u0430\u0439\u043C. \u0420\u0430\u0439\u043E\u043D \u0432\u0445\u043E\u0434\u0438\u0442 \u0432 \u0437\u0435\u043C\u043B\u044E \u0420\u0435\u0439\u043D\u043B\u0430\u043D\u0434-\u041F\u0444\u0430\u043B\u044C\u0446. \u0417\u0430\u043D\u0438\u043C\u0430\u0435\u0442 \u043F\u043B\u043E\u0449\u0430\u0434\u044C 463,26 \u043A\u043C\u00B2. \u041D\u0430\u0441\u0435\u043B\u0435\u043D\u0438\u0435 \u2014 125 231 \u0447\u0435\u043B. \u041F\u043B\u043E\u0442\u043D\u043E\u0441\u0442\u044C \u043D\u0430\u0441\u0435\u043B\u0435\u043D\u0438\u044F \u2014 270 \u0447\u0435\u043B\u043E\u0432\u0435\u043A/\u043A\u043C\u00B2.\u041E\u0444\u0438\u0446\u0438\u0430\u043B\u044C\u043D\u044B\u0439 \u043A\u043E\u0434 \u0440\u0430\u0439\u043E\u043D\u0430 \u2014 07 3 34. \u0420\u0430\u0439\u043E\u043D \u043F\u043E\u0434\u0440\u0430\u0437\u0434\u0435\u043B\u044F\u0435\u0442\u0441\u044F \u043D\u0430 31 \u043E\u0431\u0449\u0438\u043D\u0443."@ru ,
+		"\u30B2\u30EB\u30DE\u30FC\u30B9\u30CF\u30A4\u30E0\u90E1\uFF08Landkreis Germersheim\uFF09\u306F\u3001\u30C9\u30A4\u30C4\u306E\u30E9\u30A4\u30F3\u30E9\u30F3\u30C8\uFF1D\u30D7\u30D5\u30A1\u30EB\u30C4\u5DDE\u306B\u3042\u308B\u90E1\u306E\u4E00\u3064\u3067\u3042\u308B\u3002\u90E1\u5E81\u6240\u5728\u5730\u306F\u30B2\u30EB\u30DE\u30FC\u30B9\u30CF\u30A4\u30E0\u3002 \u6642\u8A08\u56DE\u308A\u9806\u306B\u3001\u897F\u306F\u30BA\u30E5\u30FC\u30C8\u30EA\u30D2\u30A7\u30FB\u30F4\u30A1\u30A4\u30F3\u30B7\u30E5\u30C8\u30E9\u30FC\u30BB\u90E1\u3001\u5317\u306F\u30E9\u30A4\u30F3\uFF1D\u30D7\u30D5\u30A1\u30EB\u30C4\u90E1\u3001\u6771\u306F\u30D0\u30FC\u30C7\u30F3\uFF1D\u30F4\u30E5\u30EB\u30C6\u30F3\u30D9\u30EB\u30AF\u5DDE\u306E\u30AB\u30FC\u30EB\u30B9\u30EB\u30FC\u30A8\u90E1\u304A\u3088\u3073\u72EC\u7ACB\u5E02\u30AB\u30FC\u30EB\u30B9\u30EB\u30FC\u30A8\u3001\u305D\u3057\u3066\u3001\u5357\u897F\u306F\u30D5\u30E9\u30F3\u30B9\u306E\u30D0\uFF1D\u30E9\u30F3\u770C\u3068\u63A5\u3057\u3066\u3044\u308B\u3002"@ja ,
+		"Powiat Germersheim (niem. Landkreis Germersheim) \u2013 powiat w niemieckim kraju zwi\u0105zkowym Nadrenia-Palatynat. Siedzib\u0105 powiatu jest miasto Germersheim."@pl ;
+	dbo:country	dbr:Germany .
+@prefix dbp:	<http://dbpedia.org/property/> .
+<http://dbpedia.org/resource/Germersheim_(district)>	dbp:url	<http://www.kreis-germersheim.de> ;
+	dbp:capital	dbr:Germersheim .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+<http://dbpedia.org/resource/Germersheim_(district)>	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Germersheim_(district)?oldid=961163135&ns=0> ;
+	dbp:populationAsOf	2001 ;
+	dbp:name	"Germersheim"@en ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/DEU_Landkreis_Germersheim_COA.svg?width=300> ;
+	dbo:wikiPageExternalLink	<http://www.kreis-germersheim.de> ;
+	dbp:state	"Rhineland-Palatinate"@en ;
+	dbp:population	124380 ;
+	dbp:imageCoa	"DEU Landkreis Germersheim COA.svg"@en ;
+	dbp:area	463.25999999999999091 .
+@prefix ns28:	<http://www.w3.org/2006/03/wn/wn20/instances/> .
+<http://dbpedia.org/resource/Germersheim_(district)>	dbp:wordnet_type	ns28:synset-district-noun-1 ;
+	dbp:density	268 ;
+	dbp:formerRegierungsbezirk	dbr:Rheinhessen-Pfalz ;
+	dbo:wikiPageID	221274 ;
+	dbo:wikiPageRevisionID	961163135 ;
+	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Kandel_(Verbandsgemeinde)> ,
+		<http://dbpedia.org/resource/Karlsruhe_(district)> ,
+		dbr:Verbandsgemeinde ,
+		dbr:Karlsruhe ,
+		dbr:Knittelsheim ,
+		<http://dbpedia.org/resource/R\u00FClzheim_(Verbandsgemeinde)> ,
+		<http://dbpedia.org/resource/Westheim,_Rhineland-Palatinate> ,
+		dbr:Lustadt ,
+		dbr:Ottersheim_bei_Landau ,
+		dbr:Rheinhessen-Pfalz ,
+		dbr:Erlenbach_bei_Kandel ,
+		dbr:Kandel ,
+		dbr:Leimersheim ,
+		dbr:Alsace ,
+		<http://dbpedia.org/resource/W\u00F6rth_am_Rhein> ,
+		<http://dbpedia.org/resource/Bellheim_(Verbandsgemeinde)> ,
+		<http://dbpedia.org/resource/Berg,_Germersheim> ,
+		dbr:Steinweiler ,
+		dbr:World_War_II ,
+		dbc:South_Palatinate ,
+		dbr:Jockgrim ,
+		dbr:Districts_of_Germany ,
+		<http://dbpedia.org/resource/Hagenbach_(Verbandsgemeinde)> ,
+		<http://dbpedia.org/resource/Weingarten,_Rhineland-Palatinate> ,
+		<http://dbpedia.org/resource/Category:Germersheim_(district)> ,
+		dbr:Rhein-Pfalz-Kreis ,
+		dbr:Freisbach ,
+		<http://dbpedia.org/resource/Lingenfeld_(Verbandsgemeinde)> ,
+		dbr:Lingenfeld ,
+		dbr:France ,
+		<http://dbpedia.org/resource/Jockgrim_(Verbandsgemeinde)> ,
+		dbr:Zeiskam ,
+		dbr:Freckenfeld ,
+		dbr:Rhine ,
+		dbr:Bienwald ,
+		<http://dbpedia.org/resource/File:DEU_Landkreis_Germersheim_COA.svg> ,
+		<http://dbpedia.org/resource/Escutcheon_(heraldry)> ,
+		dbc:Districts_of_Rhineland-Palatinate ,
+		<http://dbpedia.org/resource/Hatzenb\u00FChl> ,
+		<http://dbpedia.org/resource/Winden,_Germersheim> ,
+		dbr:Neuburg_am_Rhein ,
+		dbc:Anterior_Palatinate ,
+		dbr:Hagenbach ,
+		<http://dbpedia.org/resource/R\u00FClzheim> ,
+		dbr:Scheibenhardt ,
+		dbr:Bavaria ,
+		dbr:Rheinzabern ,
+		dbr:Germany ,
+		dbr:Bas-Rhin ,
+		dbr:Departments_of_France ,
+		dbr:Neupotz ,
+		<http://dbpedia.org/resource/S\u00FCdliche_Weinstra\u00DFe> ,
+		<http://dbpedia.org/resource/H\u00F6rdt> ,
+		dbr:Kuhardt ,
+		dbr:Rhineland-Palatinate ,
+		dbr:Vollmersweiler ,
+		dbr:Speyer ,
+		dbr:Bellheim ,
+		dbr:Napoleonic_Wars ,
+		dbr:Minfeld ,
+		dbr:Germersheim ,
+		dbr:Congress_of_Vienna ,
+		dbr:Schwegenheim .
+@prefix dbt:	<http://dbpedia.org/resource/Template:> .
+<http://dbpedia.org/resource/Germersheim_(district)>	dbp:wikiPageUsesTemplate	dbt:Authority_control ,
+		dbt:Expand_German ,
+		dbt:IPA-de ,
+		dbt:Germany_district_OSM_map ,
+		dbt:Germany_districts_rhineland-palatinate ,
+		dbt:Infobox_District_DE ,
+		dbt:Reflist ,
+		dbt:Coord ,
+		dbt:Commons_category ;
+	dbo:wikiPageLength	"3953"^^xsd:nonNegativeInteger ;
+	<http://dbpedia.org/property/kreisschl\u00FCssel>	7334 ;
+	dbp:carsign	"GER"@en .
+<http://dbpedia.org/resource/Berg,_Germersheim>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Germersheim_(district)> .
+dbr:Kandel	dbo:district	<http://dbpedia.org/resource/Germersheim_(district)> ;
+	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Germersheim_(district)> .
+<http://dbpedia.org/resource/Palatinate_(region)>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Germersheim_(district)> .
+dbr:Hagenbach	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Germersheim_(district)> .
+<http://dbpedia.org/resource/S\u00FCdliche_Weinstra\u00DFe>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Germersheim_(district)> .
+<http://dbpedia.org/resource/Weingarten,_Rhineland-Palatinate>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Germersheim_(district)> .
+dbr:Landkreis_Germersheim	dbo:wikiPageRedirects	<http://dbpedia.org/resource/Germersheim_(district)> ;
+	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Germersheim_(district)> .
+dbr:Germersheim_district	dbo:wikiPageRedirects	<http://dbpedia.org/resource/Germersheim_(district)> ;
+	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Germersheim_(district)> .
+dbr:States_of_Germany	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Germersheim_(district)> .
+<http://dbpedia.org/resource/Karlsruhe_(district)>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Germersheim_(district)> .
+<http://dbpedia.org/resource/W\u00F6rth_am_Rhein>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Germersheim_(district)> .
+dbr:Rheinzabern	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Germersheim_(district)> .
+dbr:Rhine-Neckar	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Germersheim_(district)> .
+<http://dbpedia.org/resource/Winden\u2013Karlsruhe_railway>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Germersheim_(district)> .

@@ -1,0 +1,1325 @@
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+dbr:Annie_Leibovitz	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:Jean_Paul_Gaultier	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:Boho-chic	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/2012_in_film>	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:List_of_The_Graham_Norton_Show_episodes	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/List_of_The_Tonight_Show_with_Jay_Leno_episodes_(2012)>	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:List_of_Creative_Artists_Agency_clients	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/2015_in_film>	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/2006_in_film>	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/1994_in_film>	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:List_of_members_of_the_Ordre_des_Arts_et_des_Lettres	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:Mert_and_Marcus	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/Nine_(musical)>	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/List_of_L\u00E9gion_d\u0027honneur_recipients_by_name_(C)>	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:Todd_Louiso	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/Ubisoft_Film_&_Television>	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:London_Film_Critics_Circle_Awards_2007	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:Boston_Society_of_Film_Critics_Award_for_Best_Actress	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/Golden_Globe_Award_for_Best_Actress_in_a_Motion_Picture_\u2013_Drama>	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/Allied_(film)>	dbo:wikiPageWikiLink	dbr:Marion_Cotillard ;
+	dbo:starring	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/2013_MTV_Movie_Awards>	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:Chicago_Film_Critics_Association_Award_for_Best_Actress	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/Firework_(song)>	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:Dior_and_I	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Dior_and_I	dbp:starring	dbr:Marion_Cotillard ;
+	dbo:starring	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/13th_Critics\u0027_Choice_Awards>	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/15th_Critics\u0027_Choice_Awards>	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/List_of_The_Late_Late_Show_episodes_(2015_guest_hosts)>	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/List_of_The_Late_Late_Show_with_Craig_Ferguson_episodes_(2009)>	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/List_of_The_Late_Late_Show_with_Craig_Ferguson_episodes_(2012)>	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/List_of_The_Late_Late_Show_with_Craig_Ferguson_episodes_(2014)>	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:List_of_William_Shakespeare_screen_adaptations	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:Los_Angeles_Film_Critics_Association_Award_for_Best_Actress	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:List_of_2010_box_office_number-one_films_in_the_United_States	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:Cinema_of_France	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:Ric_Menello	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:Mila_Kunis	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/2014_MTV_Movie_Awards>	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:Independent_Spirit_Award_for_Best_Female_Lead	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:San_Diego_Film_Critics_Society_Award_for_Best_Actress	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:Online_Film_Critics_Society_Awards_2007	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/18th_Critics\u0027_Choice_Awards>	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/List_of_invitees_for_AMPAS_Membership_(2008)>	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/65th_Golden_Globe_Awards>	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:Woody_Allen_sexual_abuse_allegation	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:Abel_Ferrara	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:List_of_Italian_films_of_2014	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/Steven_Spielberg\u0027s_unrealized_projects>	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/\u00C9dith_Piaf>	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:Francesco_Carrozzini	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Marion_Cotillard	rdf:type	yago:WikicatFrenchFemaleSingers ,
+		yago:Songwriter110624540 ,
+		<http://dbpedia.org/class/yago/Wikicat9/11ConspiracyTheorists> ,
+		yago:WikicatFrenchPeople .
+@prefix umbel-rc:	<http://umbel.org/umbel/rc/> .
+dbr:Marion_Cotillard	rdf:type	umbel-rc:Actor ,
+		yago:WikicatFrenchTelevisionActors .
+@prefix schema:	<http://schema.org/> .
+dbr:Marion_Cotillard	rdf:type	schema:Person ,
+		dbo:Person ,
+		yago:Object100002684 ,
+		yago:Person100007846 ,
+		yago:PhysicalEntity100001930 ,
+		yago:Organism100004475 ,
+		yago:Performer110415638 ,
+		yago:Whole100003553 ,
+		yago:YagoLegalActor ,
+		yago:YagoLegalActorGeo ,
+		yago:WikicatWomen ,
+		yago:Woman110787470 ,
+		yago:WikicatActors ,
+		dbo:Agent ,
+		yago:Actor109765278 ,
+		yago:CausalAgent100007347 ,
+		yago:Actress109767700 ,
+		yago:Adult109605289 ,
+		yago:LivingThing100004258 ,
+		yago:Entertainer109616922 ,
+		yago:Female109619168 ,
+		yago:WikicatFrenchEnvironmentalists .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Marion_Cotillard	rdf:type	owl:Thing ,
+		yago:Singer110599806 ,
+		yago:Wikicat20th-centuryActors ,
+		yago:Wikicat21st-centuryActors ,
+		yago:WikicatLivingPeople ,
+		yago:Intellectual109621545 ,
+		yago:WikicatFrenchFilmActresses ,
+		yago:WikicatFrenchActresses ,
+		yago:Wikicat20th-centuryFrenchActresses ,
+		<http://dbpedia.org/class/yago/WikicatPeopleFromOrl\u00E9ans> ,
+		yago:WikicatActorsFromParis ,
+		yago:WikicatPeopleFromCaen ,
+		yago:WikicatFrenchSongwriters ,
+		yago:Disputant109615465 ,
+		yago:Militant110315837 ,
+		yago:WikicatPeopleFromParis ,
+		yago:Theorist110706812 ,
+		yago:Reformer110515194 .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+dbr:Marion_Cotillard	rdf:type	foaf:Person ,
+		yago:Artist109812338 ,
+		yago:Creator109614315 ,
+		yago:Composer109947232 ,
+		yago:Musician110340312 .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Marion_Cotillard	rdf:type	wikidata:Q24229398 ,
+		yago:Musician110339966 ,
+		yago:WikicatFrenchActors ,
+		yago:Wikicat21st-centuryFrenchActresses ,
+		wikidata:Q5 ,
+		yago:WikicatPeopleAssociatedWithGreenpeace ,
+		yago:Environmentalist110060621 .
+@prefix ns10:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Marion_Cotillard	rdf:type	ns10:NaturalPerson ,
+		ns10:Agent ,
+		yago:WikicatFrenchVoiceActresses ,
+		wikidata:Q215627 ,
+		yago:WikicatFrenchActivists .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Marion_Cotillard	rdfs:label	"Marion Cotillard"@fr ,
+		"\u746A\u8389\u5B89\u00B7\u6B4C\u8FEA\u96C5"@zh ,
+		"Marion Cotillard"@eu ,
+		"Marion Cotillard"@pl ,
+		"Marion Cotillard"@cs ,
+		"Marion Cotillard"@ga ,
+		"\u041C\u0430\u0440\u0456\u043E\u043D \u041A\u043E\u0442\u0456\u044F\u0440"@uk ,
+		"\u0645\u0627\u0631\u064A\u0648\u0646 \u0643\u0648\u062A\u064A\u0627\u0631"@ar ,
+		"Marion Cotillard"@eo ,
+		"\u039C\u03B1\u03C1\u03B9\u03CC\u03BD \u039A\u03BF\u03C4\u03B9\u03B3\u03B9\u03AC\u03C1"@el ,
+		"Marion Cotillard"@nl ,
+		"\u041A\u043E\u0442\u0438\u0439\u044F\u0440, \u041C\u0430\u0440\u0438\u043E\u043D"@ru ,
+		"Marion Cotillard"@pt ,
+		"Marion Cotillard"@es ,
+		"Marion Cotillard"@ca ,
+		"Marion Cotillard"@in ,
+		"Marion Cotillard"@de ,
+		"Marion Cotillard"@it ,
+		"Marion Cotillard"@en ,
+		"\uB9C8\uB9AC\uC639 \uCF54\uD2F0\uC57C\uB974"@ko ,
+		"\u30DE\u30EA\u30AA\u30F3\u30FB\u30B3\u30C6\u30A3\u30E4\u30FC\u30EB"@ja ,
+		"Marion Cotillard"@sv ;
+	rdfs:comment	"Marion Cotillard (* 30. z\u00E1\u0159\u00ED 1975 Pa\u0159\u00ED\u017E, Francie) je francouzsk\u00E1 here\u010Dka, dr\u017Eitelka mnoha ocen\u011Bn\u00ED za ztv\u00E1rn\u011Bn\u00ED postavy \u00C9dith Piaf ve stejnojmenn\u00E9m filmu."@cs ,
+		"Marion Cotillard (Paris, 30 de setembro de 1975) \u00E9 uma atriz francesa, vencedora do Oscar de Melhor Atriz, conhecida por estrelar os filmes Piaf - Um Hino ao Amor (2007), A Origem (2010), Meia-Noite em Paris (2011), Ferrugem e Osso (2012), Dois Dias, Uma Noite (2014), Macbeth (2015) e Aliados (2016). Entre outros filmes de sucesso da atriz est\u00E3o: T\u00E1xi \u2013 Velocidade nas Ruas (1998), Amor ou Consequ\u00EAncia (2003), Peixe Grande e Suas Hist\u00F3rias Maravilhosas (2003), Eterno Amor (2004), Inimigos P\u00FAblicos (2009), At\u00E9 a Eternidade (2010) e Cont\u00E1gio (2011). Cotillard \u00E9 a \u00FAnica atriz a ganhar um Oscar por um filme em l\u00EDngua francesa, pr\u00EAmio que recebeu por sua atua\u00E7\u00E3o em Piaf - Um Hino ao Amor em 2008. Em 2015, conquistou sua segunda indica\u00E7\u00E3o ao Oscar com outro filme em l\u00EDngua francesa, o belga Dois "@pt ,
+		"Marion Cotillard (Par\u00EDs, 30 de setembre de 1975) \u00E9s una actriu francesa que ha guanyat diversos premis internacionals i que es va fer molt popular per la seva interpretaci\u00F3 d'\u00C9dith Piaf a la pel\u00B7l\u00EDcula La vida en rosa.Accedeix a la consagraci\u00F3 internacional el 2008, guanyant de manera successiva el Globus d'Or a la millor actriu musical o c\u00F2mica, el BAFTA a la millor actriu, el C\u00E9sar i l'Oscar a la millor actriu per a la seva interpretaci\u00F3 d'\u00C9dith Piaf a La M\u00F4me (rebatejat com La vida en rosa)."@ca ,
+		"Marion Cotillard (* 30. September 1975 in Paris) ist eine franz\u00F6sische Schauspielerin. Bekanntheit erlangte sie vor allem durch ihre Darstellung der \u00C9dith Piaf in Olivier Dahans Spielfilm La vie en rose (2007), f\u00FCr den sie mit einem Oscar, einem Golden Globe, dem British Academy Film Award und dem franz\u00F6sischen C\u00E9sar ausgezeichnet wurde. Durch ihre Mitwirkung in US-Filmproduktionen wie dem Musical Nine (2009) oder dem Science-Fiction-Film Inception (2010) z\u00E4hlt sie zu den bestbezahlten Schauspielerinnen."@de ,
+		"\u30DE\u30EA\u30AA\u30F3\u30FB\u30B3\u30C6\u30A3\u30E4\u30FC\u30EB\uFF08Marion Cotillard, 1975\u5E749\u670830\u65E5 - \uFF09\u306F\u3001\u30D5\u30E9\u30F3\u30B9\u306E\u5973\u512A\u30022007\u5E74\u306E\u300E\u30A8\u30C7\u30A3\u30C3\u30C8\u30FB\u30D4\u30A2\u30D5\u301C\u611B\u306E\u8B83\u6B4C\u301C\u300F\u3067\u30A8\u30C7\u30A3\u30C3\u30C8\u30FB\u30D4\u30A2\u30D5\u5F79\u3092\u6F14\u3058\u3001\u7B2C80\u56DE\u30A2\u30AB\u30C7\u30DF\u30FC\u8CDE\u4E3B\u6F14\u5973\u512A\u8CDE\u3082\u53D7\u8CDE\u3057\u305F\u3002"@ja ,
+		"Marion Cotillard (ur. 30 wrze\u015Bnia 1975 w Pary\u017Cu) \u2212 francuska aktorka, laureatka Oscara z 2008 roku za rol\u0119 \u00C9dith Piaf w filmie Niczego nie \u017Ca\u0142uj\u0119 \u2013 Edith Piaf."@pl ,
+		"Marion Cotillard (French: [ma\u0281j\u0254\u0303 k\u0254tija\u0281] (); born 30 September 1975) is a French actress, singer-songwriter, musician, and environmentalist. She is the recipient of an Academy Award, a BAFTA Award, a Golden Globe Award, two C\u00E9sar Awards, a European Award, and a Lumi\u00E8res Award. She became a Knight of the Order of Arts and Letters in France in 2010, and was promoted to Officer in 2016. She was the face of Lady Dior handbag from 2008 to 2017. In 2020, she became the new face of the Chanel No. 5 fragrance."@en ,
+		"\uB9C8\uB9AC\uC639 \uCF54\uD2F0\uC57C\uB974(\uD504\uB791\uC2A4\uC5B4: Marion Cotillard, 1975\uB144 9\uC6D4 30\uC77C ~ )\uB294 \uD504\uB791\uC2A4\uC758 \uBC30\uC6B0\uC774\uB2E4. \uADF8\uB140\uB294 \u300A\uD0DD\uC2DC\u300B, \u300A\uD4E8\uB9AC\uC544\u300B, \u300A\uB7EC\uBE0C \uBBF8 \uC774\uD504 \uC720 \uB370\uC5B4\u300B \uB4F1\uC758 \uC601\uD654\uB97C \uD1B5\uD574 \uD3C9\uB2E8\uC758 \uD638\uD3C9\uC744 \uBC1B\uC544 \uC654\uC73C\uBA70, \u300A\uC778\uAC8C\uC774\uC9C0\uBA3C\uD2B8\u300B \uCD9C\uC5F0\uC73C\uB85C \uC138\uC790\uB974 \uC0C1 \uC5EC\uC6B0\uC870\uC5F0\uC0C1\uC744 \uC218\uC0C1\uD558\uAE30\uB3C4 \uD588\uB2E4. \uADF8\uB140\uB294 \uC5D0\uB514\uD2B8 \uD53C\uC544\uD504\uC758 \uC77C\uC0DD\uC744 \uADF8\uB9B0 \uC601\uD654 \u300A\u300B\uC758 \uC8FC\uC5F0\uC744 \uB9E1\uC544 \uBBF8\uAD6D \uC544\uCE74\uB370\uBBF8\uC0C1, \uC601\uAD6D \uC544\uCE74\uB370\uBBF8\uC0C1, \uC138\uC790\uB974 \uC0C1, \uACE8\uB4E0 \uAE00\uB85C\uBE0C\uC0C1 \uC5EC\uC6B0\uC8FC\uC5F0\uC0C1\uC744 \uD729\uC4F8\uC5C8\uB2E4. \uC774 \uC911 \uC544\uCE74\uB370\uBBF8\uC0C1 \uC5EC\uC6B0\uC8FC\uC5F0\uC0C1\uC740 \uD504\uB791\uC2A4\uC5B4\uB85C \uC5F0\uAE30\uD55C \uC601\uD654 \uBC30\uC6B0\uC5D0\uAC8C \uCC98\uC74C\uC73C\uB85C \uC8FC\uC5B4\uC9C4 \uC0C1\uC774\uC5C8\uB2E4. \uC774\uD6C4 \uADF8\uB140\uB294 \u300A\uD37C\uBE14\uB9AD \uC5D0\uB108\uBBF8\u300B, \u300A\u300B, \u300A\uC778\uC149\uC158\u300B\uB4F1\uC758 \uC601\uD654\uC5D0 \uC8FC\uC5F0\uC73C\uB85C \uCD9C\uC5F0\uD558\uC600\uB2E4."@ko ,
+		"Marion Cotillard, f\u00F6dd 30 september 1975 i Paris, \u00E4r en fransk sk\u00E5despelare. Marion Cotillards f\u00F6r\u00E4ldrar, Jean-Claude Cotillard och Niseema Theillaud, \u00E4r b\u00E5da erfarna inom film- och teaterv\u00E4rlden. Fadern \u00E4r sk\u00E5despelare, manusf\u00F6rfattare och regiss\u00F6r och modern \u00E4r sk\u00E5despelare och dramal\u00E4rare. Marion Cotillard debuterade som sk\u00E5despelare redan som barn i en av faderns upps\u00E4ttningar f\u00F6r att sedan g\u00E5 vidare och studera drama i Orl\u00E9ans. I februari 2008 bel\u00F6nades Marion Cotillard med en Oscar i kategorin b\u00E4sta kvinnliga huvudroll, f\u00F6r rollen som Edith Piaf i La vie en rose (2007)."@sv ,
+		"\u041C\u0430\u0440\u0456\u043E\u0301\u043D \u041A\u043E\u0442\u0456\u044F\u0301\u0440 (\u0444\u0440. Marion Cotillard; \u043D\u0430\u0440. 30 \u0432\u0435\u0440\u0435\u0441\u043D\u044F 1975, \u041F\u0430\u0440\u0438\u0436, \u0424\u0440\u0430\u043D\u0446\u0456\u044F) \u2014 \u0444\u0440\u0430\u043D\u0446\u0443\u0437\u044C\u043A\u0430 \u0430\u043A\u0442\u043E\u0440\u043A\u0430 \u0442\u0435\u0430\u0442\u0440\u0443, \u0442\u0435\u043B\u0435\u0431\u0430\u0447\u0435\u043D\u043D\u044F \u0442\u0430 \u043A\u0456\u043D\u043E. \u0417\u0430 \u0440\u043E\u043B\u044C \u0443 \u0441\u0442\u0440\u0456\u0447\u0446\u0456 \u00AB\u0414\u043E\u0432\u0433\u0456 \u0437\u0430\u0440\u0443\u0447\u0438\u043D\u0438\u00BB (2004) \u0431\u0443\u043B\u0430 \u0443\u0434\u043E\u0441\u0442\u043E\u0454\u043D\u0430 \u043F\u0440\u0435\u043C\u0456\u0457 \u00AB\u0421\u0435\u0437\u0430\u0440\u00BB \u0443 \u043D\u043E\u043C\u0456\u043D\u0430\u0446\u0456\u0457 \u00AB\u041D\u0430\u0439\u043A\u0440\u0430\u0449\u0430 \u0430\u043A\u0442\u043E\u0440\u043A\u0430 \u0434\u0440\u0443\u0433\u043E\u0433\u043E \u043F\u043B\u0430\u043D\u0443\u00BB. 2008 \u0440\u043E\u043A\u0443 \u0431\u0443\u043B\u0430 \u0443\u0434\u043E\u0441\u0442\u043E\u0454\u043D\u0430 \u043F\u0440\u0435\u043C\u0456\u0457 \u00AB\u041E\u0441\u043A\u0430\u0440\u00BB \u0443 \u043D\u043E\u043C\u0456\u043D\u0430\u0446\u0456\u0457 \u00AB\u041D\u0430\u0439\u043A\u0440\u0430\u0449\u0430 \u0430\u043A\u0442\u043E\u0440\u043A\u0430\u00BB \u0437\u0430 \u0444\u0456\u043B\u044C\u043C \u00AB\u0416\u0438\u0442\u0442\u044F \u0443 \u0440\u043E\u0436\u0435\u0432\u043E\u043C\u0443 \u043A\u043E\u043B\u044C\u043E\u0440\u0456\u00BB, \u0432 \u044F\u043A\u043E\u043C\u0443 \u0432\u0438\u043A\u043E\u043D\u0430\u043B\u0430 \u0440\u043E\u043B\u044C \u0415\u0434\u0456\u0442 \u041F\u0456\u0430\u0444. \u041C\u0430\u0440\u0456\u043E\u043D \u041A\u043E\u0442\u0456\u044F\u0440 \u0441\u0442\u0430\u043B\u0430 \u0434\u0440\u0443\u0433\u043E\u044E \u0430\u043A\u0442\u043E\u0440\u043A\u043E\u044E, \u044F\u043A\u0456\u0439 \u0443\u0434\u0430\u043B\u043E\u0441\u044F \u0437\u0434\u043E\u0431\u0443\u0442\u0438 \u043F\u0440\u0435\u043C\u0456\u044E \u00AB\u041E\u0441\u043A\u0430\u0440\u00BB \u0437\u0430 \u0440\u043E\u043B\u044C \u0443 \u0444\u0456\u043B\u044C\u043C\u0456 \u0456\u043D\u043E\u0437\u0435\u043C\u043D\u043E\u044E \u043C\u043E\u0432\u043E\u044E. \u0420\u0430\u043D\u0456\u0448\u0435 \u0446\u0435\u0439 \u0440\u0435\u043A\u043E\u0440\u0434 \u0443\u0442\u0440\u0438\u043C\u0443\u0432\u0430\u043B\u0430 \u0456\u0442\u0430\u043B\u0456\u0439\u043A\u0430 \u0421\u043E\u0444\u0456 \u041B\u043E\u0440\u0435\u043D, \u044F\u043A\u0430 \u043E\u0442\u0440\u0438\u043C\u0430\u043B\u0430 \u00AB\u041E\u0441\u043A\u0430\u0440\u0430\u00BB 1962 \u0440\u043E\u043A\u0443. \u0422\u0430\u043A\u043E\u0436 \u0437\u0430 \u0444\u0456\u043B\u044C\u043C \u00AB\u0416\u0438\u0442\u0442\u044F \u0443 \u0440\u043E\u0436\u0435\u0432\u043E\u043C\u0443 \u043A\u043E\u043B\u044C\u043E\u0440\u0456\u00BB \u041A\u043E\u0442\u0456\u044F\u0440 \u043E\u0442\u0440\u0438\u043C\u0430\u043B\u0430 \u043F\u0440\u0435\u043C\u0456\u044E \u00AB\u0417\u043E\u043B\u043E\u0442\u0438\u0439 \u0433\u043B\u043E\u0431\u0443\u0441\u00BB \u0443 \u043D\u043E\u043C\u0456\u043D\u0430\u0446\u0456\u0457 \u00AB\u041D\u0430\u0439\u043A\u0440\u0430\u0449\u0430 \u0436\u0456\u043D\u043E\u0447\u0430 \u0440\u043E\u043B\u044C (\u043A\u043E\u043C\u0435\u0434\u0456\u044F \u0430\u0431\u043E \u043C\u044E\u0437\u0438\u043A\u043B)\u00BB \u0456 \u043F\u0440\u0435\u043C\u0456\u044E \u0411\u0440\u0438\u0442\u0430\u043D\u0441\u044C\u043A\u043E\u0457 \u0430\u043A\u0430\u0434\u0435\u043C\u0456\u0457 \u0442\u0435\u043B\u0435\u0431\u0430\u0447\u0435\u043D\u043D\u044F \u0442\u0430 \u043A\u0456\u043D\u043E\u043C\u0438\u0441\u0442\u0435\u0446\u0442\u0432\u0430 (BAFTA) \u0443 \u043D\u043E\u043C\u0456\u043D\u0430\u0446\u0456\u0457 \u00AB\u041D\u0430\u0439\u043A\u0440\u0430"@uk ,
+		"Marion Cotillard (IPA: [ma.\u0281j\u0254\u0303 k\u0254.ti.ja\u0281]; Parigi, 30 settembre 1975) \u00E8 un'attrice, modella, cantante e doppiatrice francese. La partecipazione a Taxxi nel 1998, nonch\u00E9 ai seguiti Taxxi 2 (2000) e Taxxi 3 (2003), le ha garantito notoriet\u00E0 nel paese d'origine, al quale \u00E8 rimasta artisticamente legata nella prima fase della carriera. Ha raggiunto fama a livello internazionale per le collaborazioni con registi come Tim Burton, Ridley Scott, Christopher Nolan, Woody Allen. Nel 2007, la sua interpretazione della cantante \u00C9dith Piaf in La Vie en rose le ha valso, tra gli altri riconoscimenti, l'Oscar alla miglior attrice (il primo per una performance in lingua francese), il BAFTA alla migliore attrice protagonista, il Premio C\u00E9sar per la migliore attrice e il Golden Globe per la migliore attric"@it ,
+		"\u0645\u0627\u0631\u064A\u0648\u0646 \u0643\u0648\u062A\u064A\u0627\u0631 (\u0628\u0627\u0644\u0641\u0631\u0646\u0633\u064A\u0629: Marion Cotillard) \u0647\u064A \u0645\u0645\u062B\u0644\u0629 \u0641\u0631\u0646\u0633\u064A\u0629 \u0645\u0646 \u0645\u0648\u0627\u0644\u064A\u062F 30 \u0633\u0628\u062A\u0645\u0628\u0631\u060C 1975\u060C \u0648\u0635\u0644\u062A \u0644\u0644\u0634\u0647\u0631\u0629 \u0639\u0644\u0649 \u0627\u0644\u0645\u0633\u062A\u0648\u0649 \u0627\u0644\u0639\u0627\u0644\u0645\u064A \u0628\u0641\u0636\u0644 \u0645\u0634\u0627\u0631\u0643\u0627\u062A\u0647\u0627 \u0645\u0639 \u0645\u062E\u0631\u062C\u064A\u0646 \u0623\u0645\u062B\u0627\u0644 \u062A\u064A\u0645 \u0628\u064A\u0631\u062A\u0648\u0646 \u0648\u0631\u064A\u062F\u0644\u064A \u0633\u0643\u0648\u062A \u0648\u0643\u0631\u064A\u0633\u062A\u0648\u0641\u0631 \u0646\u0648\u0644\u0627\u0646 \u0648\u0648\u0648\u062F\u064A \u0622\u0644\u0646. \u0641\u064A \u0639\u0627\u0645 2007\u060C \u0642\u0627\u0645\u062A \u0628\u062F\u0648\u0631 \u0627\u0644\u0645\u063A\u0646\u064A\u0629 \u0625\u062F\u064A\u062B \u0628\u064A\u0627\u0641 \u0641\u064A \u0641\u064A\u0644\u0645 \u0627\u0644\u062D\u064A\u0627\u0629 \u0627\u0644\u0648\u0631\u062F\u064A\u0629 \u0648\u0627\u0633\u062A\u062D\u0642\u062A \u0639\u0644\u064A\u0647 -\u0645\u0646 \u0628\u064A\u0646 \u062C\u0648\u0627\u0626\u0632 \u0627\u062E\u0631\u0649- \u062C\u0627\u0626\u0632\u0629 \u0627\u0644\u0623\u0648\u0633\u0643\u0627\u0631 \u0644\u0623\u0641\u0636\u0644 \u0645\u0645\u062B\u0644\u0629 (\u0648\u0647\u064A \u0627\u0644\u0645\u0631\u0629 \u0627\u0644\u0623\u0648\u0644\u0649 \u0639\u0644\u0649 \u0627\u0644\u0625\u0637\u0644\u0627\u0642 \u0644\u0623\u062F\u0627\u0621 \u0628\u0627\u0644\u0644\u063A\u0629 \u0627\u0644\u0641\u0631\u0646\u0633\u064A\u0629)\u060C \u0648\u062C\u0627\u0626\u0632\u0629 \u0628\u0627\u0641\u062A\u0627 \u0644\u0623\u0641\u0636\u0644 \u0645\u0645\u062B\u0644\u0629 \u0628\u062F\u0648\u0631 \u0627\u0644\u0628\u0637\u0648\u0644\u0629\u060C \u0648\u062C\u0627\u0626\u0632\u0629 \u0633\u064A\u0632\u0631 \u0644\u0623\u0641\u0636\u0644 \u0645\u0645\u062B\u0644\u0629\u060C \u0648\u062C\u0627\u0626\u0632\u0629 \u062C\u0648\u0644\u062F\u0646 \u062C\u0644\u0648\u0628 \u0644\u0623\u0641\u0636\u0644 \u0645\u0645\u062B\u0644\u0629 \u0641\u064A \u0641\u064A\u0644\u0645 \u0643\u0648\u0645\u064A\u062F\u064A \u0623\u0648 \u0645\u0648\u0633\u064A\u0642\u064A. \u0645\u0646 \u0628\u064A\u0646 \u0627\u0644\u0645\u0645\u062B\u0644\u0627\u062A \u0627\u0644\u0641\u0631\u0646\u0633\u064A\u0627\u062A \u0627\u0644\u0623\u0643\u062B\u0631 \u0646\u062C\u0627\u062D\u0627\u060C \u0623\u0635\u0628\u062D\u062A \u0641\u0627\u0631\u0633\u0629 \u0648\u0633\u0627\u0645 \u0627\u0644\u0641\u0646\u0648\u0646 \u0648\u0627\u0644\u0622\u062F\u0627\u0628 \u0641\u064A 15 \u0645\u0646 \u0645\u0627\u0631\u0633 \u0639\u0627\u0645 2010."@ar ,
+		"Marion Cotillard est une actrice fran\u00E7aise n\u00E9e le 30 septembre 1975 \u00E0 Paris. Active au cin\u00E9ma depuis la fin des ann\u00E9es 1990, elle est r\u00E9v\u00E9l\u00E9e au grand public par son r\u00F4le de compagne du h\u00E9ros dans la saga Taxi, qu'elle incarne dans les trois premiers films de la franchise. En f\u00E9vrier 2005, elle re\u00E7oit la premi\u00E8re des grandes r\u00E9compenses qui vont jalonner sa carri\u00E8re : le C\u00E9sar de la meilleure actrice dans un second r\u00F4le, pour seulement huit minutes de pr\u00E9sence \u00E0 l'\u00E9cran dans le film Un long dimanche de fian\u00E7ailles de Jean-Pierre Jeunet."@fr ,
+		"Is ban-aisteoir Francach \u00ED Marion Cotillard. Rugadh \u00ED ar an 30 Me\u00E1n F\u00F3mhair 1975. Bhuaigh s\u00ED an gradam Ban-Aisteoir is Fearr sna gradaim Academy i 2008. Bhuaigh s\u00ED an gradam Ban-Aisteoir is Fearr i gCoim\u00E9ide n\u00F3 Ceoldr\u00E1ma sna gradaim Golden Globe i 2007."@ga ,
+		"Marion Cotillard (Paris, Frantzia, 1975eko irailaren 30a) aktore frantziarra da. Bi Cesar Sarien irabazlea da (2005 eta 2008). 2008an La Vie En Rose filmean antzezteagatik Emakumezko aktore onenaren Oscar Saria irabazi zuen."@eu ,
+		"Marion COTILLARD [marj\u00F5 kotijar] (naski\u011Dis la 30-an de septembro 1975 en Parizo) estas franca aktorino naskita de patrino , komediistino kaj patro , re\u011Disoro."@eo ,
+		"\u746A\u8389\u8A60\u00B7\u67EF\u8482\u4E9E\uFF08\u6CD5\u8A9E\uFF1AMarion Cotillard\uFF0C1975\u5E749\u670830\u65E5\uFF0D\uFF09\uFF0C\u6CD5\u570B\u5973\u6F14\u54E1\uFF0C\u4EE52007\u5E74\u96FB\u5F71\u300A\u73AB\u7470\u4EBA\u751F\u300B\uFF08La M\u00F4me\uFF09\u7372\u5F97\u7B2C65\u5C46\u91D1\u7403\u734E\u6700\u4F73\u97F3\u6A02\u6216\u559C\u5287\u985E\u5973\u4E3B\u89D2\u734E\uFF0C\u7B2C80\u5C4A\u5965\u65AF\u5361\u91D1\u50CF\u734E\u6700\u4F73\u5973\u4E3B\u89D2\u5956\u5F97\u4E3B\u3002"@zh ,
+		"Marion Cotillard (lahir di Paris, Prancis, 30 September 1975; umur 44 tahun) adalah seorang pemeran berkebangsaan Prancis yang memenangkan sebuah penghargaan Oscar, sebuah penghargaan BAFTA, sebuah penghargaan Golden Globe, dan dua C\u00E9sar Award. Dia berkarier di dunia film sejak tahun 1998."@in ,
+		"\u0397 \u039C\u03B1\u03C1\u03B9\u03CC\u03BD \u039A\u03BF\u03C4\u03B9\u03B3\u03B9\u03AC\u03C1 (Marion Cotillard, 30 \u03A3\u03B5\u03C0\u03C4\u03B5\u03BC\u03B2\u03C1\u03AF\u03BF\u03C5 1975 (\u0393\u03B1\u03BB\u03BB\u03B9\u03BA\u03AE \u03C0\u03C1\u03BF\u03C6\u03BF\u03C1\u03AC: ) \u03B5\u03AF\u03BD\u03B1\u03B9 \u0393\u03B1\u03BB\u03BB\u03AF\u03B4\u03B1 \u03B7\u03B8\u03BF\u03C0\u03BF\u03B9\u03CC\u03C2, \u03BC\u03BF\u03BD\u03C4\u03AD\u03BB\u03BF \u03BA\u03B1\u03B9 \u03C4\u03C1\u03B1\u03B3\u03BF\u03C5\u03B4\u03AF\u03C3\u03C4\u03C1\u03B9\u03B1. \u03A3\u03C4\u03B9\u03C2 \u03B4\u03B9\u03B1\u03BA\u03C1\u03AF\u03C3\u03B5\u03B9\u03C2 \u03C4\u03B9\u03C2 \u03C0\u03B5\u03C1\u03B9\u03BB\u03B1\u03BC\u03B2\u03AC\u03BD\u03B5\u03C4\u03B1\u03B9 \u03BC\u03B9\u03B1 \u03B2\u03C1\u03AC\u03B2\u03B5\u03C5\u03C3\u03B7 \u03BC\u03B5 \u038C\u03C3\u03BA\u03B1\u03C1, \u03BC\u03B9\u03B1 \u03A7\u03C1\u03C5\u03C3\u03AE \u03A3\u03C6\u03B1\u03AF\u03C1\u03B1, \u03BA\u03B1\u03B9 \u03AD\u03BD\u03B1 \u0392\u03C1\u03B1\u03B2\u03B5\u03AF\u03BF BAFTA, \u03CC\u03BB\u03B1 \u03B3\u03B9\u03B1 \u03C4\u03B7\u03BD \u03B5\u03C1\u03BC\u03B7\u03BD\u03B5\u03AF\u03B1 \u03C4\u03B7\u03C2 \u03C3\u03C4\u03B7\u03BD \u03C4\u03B1\u03B9\u03BD\u03AF\u03B1 \u03C4\u03BF\u03C5 2007, \u00AB\u0396\u03C9\u03AE \u03C3\u03B1\u03BD \u03A4\u03C1\u03B9\u03B1\u03BD\u03C4\u03AC\u03C6\u03C5\u03BB\u03BB\u03BF\u00BB (La M\u00F4me /La Vie En Rose). \u0388\u03C7\u03B5\u03B9 \u03B5\u03C0\u03AF\u03C3\u03B7\u03C2 \u03BB\u03AC\u03B2\u03B5\u03B9 \u03B4\u03CD\u03BF \u0392\u03C1\u03B1\u03B2\u03B5\u03AF\u03B1 \u03A3\u03B5\u03B6\u03AC\u03C1, \u03C0\u03BF\u03C5 \u03B5\u03AF\u03BD\u03B1\u03B9 \u03C4\u03B1 \u03C3\u03B7\u03BC\u03B1\u03BD\u03C4\u03B9\u03BA\u03CC\u03C4\u03B5\u03C1\u03B1 \u03B2\u03C1\u03B1\u03B2\u03B5\u03AF\u03B1 \u03C0\u03BF\u03C5 \u03B1\u03C0\u03BF\u03BD\u03AD\u03BC\u03BF\u03BD\u03C4\u03B1\u03B9 \u03BA\u03AC\u03B8\u03B5 \u03C7\u03C1\u03CC\u03BD\u03BF \u03B3\u03B9\u03B1 \u03C4\u03BF\u03BD \u03B3\u03B1\u03BB\u03BB\u03B9\u03BA\u03CC \u03BA\u03B9\u03BD\u03B7\u03BC\u03B1\u03C4\u03BF\u03B3\u03C1\u03AC\u03C6\u03BF."@el ,
+		"Marion Cotillard (Parijs, 30 september 1975) is een Franse actrice. In 2008 ontving ze een Oscar voor Beste Vrouwelijke Hoofdrol voor haar vertolking van de Franse zangeres \u00C9dith Piaf in La M\u00F4me."@nl ,
+		"\u041C\u0430\u0440\u0438\u043E\u0301\u043D \u041A\u043E\u0442\u0438\u0439\u044F\u0301\u0440 (\u0444\u0440. Marion Cotillard; \u0440\u043E\u0434. 30 \u0441\u0435\u043D\u0442\u044F\u0431\u0440\u044F 1975, \u041F\u0430\u0440\u0438\u0436, \u0424\u0440\u0430\u043D\u0446\u0438\u044F) \u2014 \u0444\u0440\u0430\u043D\u0446\u0443\u0437\u0441\u043A\u0430\u044F \u0430\u043A\u0442\u0440\u0438\u0441\u0430 \u0442\u0435\u0430\u0442\u0440\u0430, \u0442\u0435\u043B\u0435\u0432\u0438\u0434\u0435\u043D\u0438\u044F \u0438 \u043A\u0438\u043D\u043E. \u0421\u043D\u0438\u043C\u0430\u0435\u0442\u0441\u044F \u043A\u0430\u043A \u0432\u043E \u0444\u0440\u0430\u043D\u0446\u0443\u0437\u0441\u043A\u0438\u0445, \u0442\u0430\u043A \u0438 \u0437\u0430\u0440\u0443\u0431\u0435\u0436\u043D\u044B\u0445 \u0444\u0438\u043B\u044C\u043C\u0430\u0445. \u0417\u0430 \u0440\u043E\u043B\u044C \u0432 \u0444\u0438\u043B\u044C\u043C\u0435 \u00AB\u0414\u043E\u043B\u0433\u0430\u044F \u043F\u043E\u043C\u043E\u043B\u0432\u043A\u0430\u00BB \u0431\u044B\u043B\u0430 \u0443\u0434\u043E\u0441\u0442\u043E\u0435\u043D\u0430 \u043F\u0440\u0435\u043C\u0438\u0438 \u00AB\u0421\u0435\u0437\u0430\u0440\u00BB \u0432 \u043D\u043E\u043C\u0438\u043D\u0430\u0446\u0438\u0438 \u00AB\u041B\u0443\u0447\u0448\u0430\u044F \u0430\u043A\u0442\u0440\u0438\u0441\u0430 \u0432\u0442\u043E\u0440\u043E\u0433\u043E \u043F\u043B\u0430\u043D\u0430\u00BB. \u0412 2008 \u0433\u043E\u0434\u0443 \u0431\u044B\u043B\u0430 \u0443\u0434\u043E\u0441\u0442\u043E\u0435\u043D\u0430 \u043F\u0440\u0435\u043C\u0438\u0438 \u00AB\u041E\u0441\u043A\u0430\u0440\u00BB \u0432 \u043D\u043E\u043C\u0438\u043D\u0430\u0446\u0438\u0438 \u00AB\u041B\u0443\u0447\u0448\u0430\u044F \u0430\u043A\u0442\u0440\u0438\u0441\u0430\u00BB \u0437\u0430 \u0444\u0438\u043B\u044C\u043C \u00AB\u0416\u0438\u0437\u043D\u044C \u0432 \u0440\u043E\u0437\u043E\u0432\u043E\u043C \u0446\u0432\u0435\u0442\u0435\u00BB, \u0432 \u043A\u043E\u0442\u043E\u0440\u043E\u043C \u0438\u0441\u043F\u043E\u043B\u043D\u0438\u043B\u0430 \u0440\u043E\u043B\u044C \u042D\u0434\u0438\u0442 \u041F\u0438\u0430\u0444. \u041C\u0430\u0440\u0438\u043E\u043D \u041A\u043E\u0442\u0438\u0439\u044F\u0440 \u0441\u0442\u0430\u043B\u0430 \u0432\u0442\u043E\u0440\u043E\u0439 \u0430\u043A\u0442\u0440\u0438\u0441\u043E\u0439 \u0432 \u0438\u0441\u0442\u043E\u0440\u0438\u0438 \u043F\u0440\u0435\u043C\u0438\u0438, \u043A\u043E\u0442\u043E\u0440\u043E\u0439 \u0443\u0434\u0430\u043B\u043E\u0441\u044C \u043F\u043E\u043B\u0443\u0447\u0438\u0442\u044C \u00AB\u041E\u0441\u043A\u0430\u0440\u00BB \u0437\u0430 \u0440\u043E\u043B\u044C \u0432 \u0444\u0438\u043B\u044C\u043C\u0435 \u043D\u0430 \u0438\u043D\u043E\u0441\u0442\u0440\u0430\u043D\u043D\u043E\u043C \u044F\u0437\u044B\u043A\u0435. \u0420\u0430\u043D\u0435\u0435 \u0434\u043E\u0431\u0438\u0442\u044C\u0441\u044F \u0442\u0430\u043A\u043E\u0433\u043E \u0443\u0441\u043F\u0435\u0445\u0430 \u0443\u0434\u0430\u043B\u043E\u0441\u044C \u043B\u0438\u0448\u044C \u0438\u0442\u0430\u043B\u044C\u044F\u043D\u043A\u0435 \u0421\u043E\u0444\u0438 \u041B\u043E\u0440\u0435\u043D, \u043F\u043E\u043B\u0443\u0447\u0438\u0432\u0448\u0435\u0439 \u00AB\u041E\u0441\u043A\u0430\u0440\u0430\u00BB \u0432 1962 \u0433\u043E\u0434\u0443. \u0422\u0430\u043A\u0436\u0435 \u0437\u0430 \u0444\u0438\u043B\u044C\u043C \u00AB\u0416\u0438\u0437\u043D\u044C \u0432 \u0440\u043E\u0437\u043E\u0432\u043E\u043C \u0446\u0432\u0435\u0442\u0435\u00BB \u041A\u043E\u0442\u0438\u0439\u044F\u0440 \u043F\u043E\u043B\u0443\u0447\u0438\u043B\u0430 \u043F\u0440\u0435\u043C\u0438\u044E \u00AB\u0417\u043E\u043B\u043E\u0442\u043E\u0439 \u0433\u043B\u043E\u0431\u0443\u0441\u00BB \u0432 \u043D\u043E\u043C\u0438\u043D\u0430\u0446\u0438\u0438 \u00AB\u041B\u0443\u0447\u0448\u0430\u044F \u0436\u0435\u043D\u0441\u043A\u0430\u044F \u0440\u043E\u043B\u044C (\u043A\u043E\u043C\u0435\u0434\u0438\u044F \u0438\u043B\u0438 \u043C\u044E\u0437\u0438\u043A\u043B)\u00BB \u0438 \u043F\u0440\u0435\u043C"@ru ,
+		"Marion Cotillard (Par\u00EDs; 30 de septiembre de 1975) es una actriz, cantante, compositora y cantautora francesa ganadora de los premios \u00D3scar, BAFTA, C\u00E9sar y Globo de Oro por su interpretaci\u00F3n de \u00C9dith Piaf en la pel\u00EDcula La vida en rosa. Es la \u00FAnica mujer que ha ganado un \u00D3scar a la mejor actriz por una pel\u00EDcula francesa. Tambi\u00E9n es ambientalista y portavoz de Greenpeace."@es ;
+	foaf:name	"Marion Cotillard"@en ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Marion_Cotillard_Cannes_2016.jpg> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+dbr:Marion_Cotillard	foaf:isPrimaryTopicOf	wikipedia-en:Marion_Cotillard .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Marion_Cotillard	dct:subject	dbc:French_television_actresses ,
+		<http://dbpedia.org/resource/Category:21st-century_bass_guitarists> ,
+		dbc:Audiobook_narrators ,
+		dbc:Officiers_of_the_Ordre_des_Arts_et_des_Lettres ,
+		dbc:European_Film_Award_for_Best_Actress_winners ,
+		dbc:Actresses_from_Paris ,
+		dbc:French_people_of_Breton_descent ,
+		dbc:French_environmentalists ,
+		dbc:French_voice_actresses ,
+		dbc:French_female_singer-songwriters ,
+		<http://dbpedia.org/resource/Category:Best_Supporting_Actress_C\u00E9sar_Award_winners> ,
+		dbc:People_associated_with_Greenpeace ,
+		dbc:French_women_environmentalists ,
+		dbc:French_people_of_Kabyle_descent ,
+		dbc:French_women_activists ,
+		dbc:French_stage_actresses ,
+		<http://dbpedia.org/resource/Category:21st-century_French_actresses> ,
+		dbc:French_film_actresses ,
+		<http://dbpedia.org/resource/Category:20th-century_French_actresses> ,
+		dbc:Chevaliers_of_the_Ordre_des_Arts_et_des_Lettres ,
+		dbc:French_songwriters ,
+		<http://dbpedia.org/resource/Category:1975_births> ,
+		<http://dbpedia.org/resource/Category:Best_Actress_Lumi\u00E8res_Award_winners> ,
+		<http://dbpedia.org/resource/Category:Best_Actress_C\u00E9sar_Award_winners> ,
+		dbc:French_activists ,
+		dbc:People_from_Paris ,
+		<http://dbpedia.org/resource/Category:Chevaliers_of_the_L\u00E9gion_d\u0027honneur> ,
+		dbc:French_keyboardists ,
+		dbc:French_bass_guitarists ,
+		dbc:Women_bass_guitarists ,
+		dbc:Best_Actress_BAFTA_Award_winners ,
+		dbc:Best_Actress_Academy_Award_winners ,
+		<http://dbpedia.org/resource/Category:Best_Musical_or_Comedy_Actress_Golden_Globe_(film)_winners> ,
+		dbc:French_female_guitarists ,
+		<http://dbpedia.org/resource/Category:21st-century_French_singers> ,
+		<http://dbpedia.org/resource/Category:21st-century_French_women_singers> ,
+		dbc:Living_people ;
+	owl:sameAs	<http://azb.dbpedia.org/resource/\u0645\u0627\u0631\u06CC\u0648\u0646_\u06A9\u0648\u062A\u06CC\u0627\u0631> .
+@prefix dbpedia-la:	<http://la.dbpedia.org/resource/> .
+dbr:Marion_Cotillard	owl:sameAs	dbpedia-la:Mariana_Cotillard ,
+		dbr:Marion_Cotillard ,
+		<http://d-nb.info/gnd/136085601> ,
+		<http://mn.dbpedia.org/resource/\u041C\u0430\u0440\u0438\u043E\u043D_\u041A\u043E\u0442\u0438\u0439\u044F\u0440> .
+@prefix dbpedia-ku:	<http://ku.dbpedia.org/resource/> .
+dbr:Marion_Cotillard	owl:sameAs	dbpedia-ku:Marion_Cotillard .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Marion_Cotillard	owl:sameAs	dbpedia-pt:Marion_Cotillard .
+@prefix ns18:	<http://tl.dbpedia.org/resource/> .
+dbr:Marion_Cotillard	owl:sameAs	ns18:Marion_Cotillard .
+@prefix dbpedia-az:	<http://az.dbpedia.org/resource/> .
+dbr:Marion_Cotillard	owl:sameAs	dbpedia-az:Marion_Kotiyar .
+@prefix ns20:	<http://sco.dbpedia.org/resource/> .
+dbr:Marion_Cotillard	owl:sameAs	ns20:Marion_Cotillard ,
+		<http://rdf.freebase.com/ns/m.07lt7b> .
+@prefix dbpedia-an:	<http://an.dbpedia.org/resource/> .
+dbr:Marion_Cotillard	owl:sameAs	dbpedia-an:Marion_Cotillard .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Marion_Cotillard	owl:sameAs	yago-res:Marion_Cotillard .
+@prefix ns23:	<http://ht.dbpedia.org/resource/> .
+dbr:Marion_Cotillard	owl:sameAs	ns23:Marion_Cotillard ,
+		<https://global.dbpedia.org/id/52igA> .
+@prefix dbpedia-ca:	<http://ca.dbpedia.org/resource/> .
+dbr:Marion_Cotillard	owl:sameAs	dbpedia-ca:Marion_Cotillard ,
+		<http://musicbrainz.org/artist/76c84ded-d648-4b6c-b09a-f1db5fd3c3f2> .
+@prefix ns25:	<http://sw.cyc.com/concept/> .
+dbr:Marion_Cotillard	owl:sameAs	ns25:Mx4rcWT8pe9VT5SmqrMkPLnOuw ,
+		<http://mk.dbpedia.org/resource/\u041C\u0430\u0440\u0438\u043E\u043D_\u041A\u043E\u0442\u0438\u0458\u0430\u0440> .
+@prefix dbpedia-no:	<http://no.dbpedia.org/resource/> .
+dbr:Marion_Cotillard	owl:sameAs	dbpedia-no:Marion_Cotillard .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Marion_Cotillard	owl:sameAs	dbpedia-fr:Marion_Cotillard ,
+		<http://ru.dbpedia.org/resource/\u041A\u043E\u0442\u0438\u0439\u044F\u0440,_\u041C\u0430\u0440\u0438\u043E\u043D> .
+@prefix dbpedia-vi:	<http://vi.dbpedia.org/resource/> .
+dbr:Marion_Cotillard	owl:sameAs	dbpedia-vi:Marion_Cotillard ,
+		<http://ja.dbpedia.org/resource/\u30DE\u30EA\u30AA\u30F3\u30FB\u30B3\u30C6\u30A3\u30E4\u30FC\u30EB> ,
+		<http://th.dbpedia.org/resource/\u0E21\u0E32\u0E23\u0E35\u0E22\u0E07_\u0E01\u0E2D\u0E15\u0E35\u0E22\u0E32\u0E23\u0E4C> .
+@prefix dbpedia-tr:	<http://tr.dbpedia.org/resource/> .
+dbr:Marion_Cotillard	owl:sameAs	dbpedia-tr:Marion_Cotillard .
+@prefix dbpedia-et:	<http://et.dbpedia.org/resource/> .
+dbr:Marion_Cotillard	owl:sameAs	dbpedia-et:Marion_Cotillard .
+@prefix dbpedia-eo:	<http://eo.dbpedia.org/resource/> .
+dbr:Marion_Cotillard	owl:sameAs	dbpedia-eo:Marion_Cotillard ,
+		wikidata:Q8927 .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:Marion_Cotillard	owl:sameAs	dbpedia-es:Marion_Cotillard .
+@prefix dbpedia-simple:	<http://simple.dbpedia.org/resource/> .
+dbr:Marion_Cotillard	owl:sameAs	dbpedia-simple:Marion_Cotillard .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Marion_Cotillard	owl:sameAs	dbpedia-pl:Marion_Cotillard ,
+		<http://ur.dbpedia.org/resource/\u0645\u0627\u0631\u06CC\u0648\u0646_\u06A9\u0648\u062A\u06CC\u0627\u0631> ,
+		<http://ky.dbpedia.org/resource/\u041C\u0430\u0440\u0438\u043E\u043D_\u041A\u043E\u0442\u0438\u044F\u0440> .
+@prefix ns35:	<http://d-nb.info/gnd/136085601/about/> .
+dbr:Marion_Cotillard	owl:sameAs	ns35:rdf ,
+		<http://ne.dbpedia.org/resource/\u092E\u0947\u0930\u093F\u092F\u0928_\u0915\u094B\u091F\u093F\u0932\u094D\u0932\u0930\u094D\u0921> ,
+		<http://pa.dbpedia.org/resource/\u0A2E\u0A3E\u0A30\u0A40\u0A13\u0A02_\u0A15\u0A4B\u0A24\u0A40\u0A2F\u0A3E\u0A30> ,
+		<http://lv.dbpedia.org/resource/Mariona_Kotij\u0101ra> .
+@prefix dbpedia-sv:	<http://sv.dbpedia.org/resource/> .
+dbr:Marion_Cotillard	owl:sameAs	dbpedia-sv:Marion_Cotillard ,
+		<http://sr.dbpedia.org/resource/\u041C\u0430\u0440\u0438\u043E\u043D_\u041A\u043E\u0442\u0438\u0458\u0430\u0440> .
+@prefix dbpedia-cs:	<http://cs.dbpedia.org/resource/> .
+dbr:Marion_Cotillard	owl:sameAs	dbpedia-cs:Marion_Cotillard .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Marion_Cotillard	owl:sameAs	dbpedia-de:Marion_Cotillard ,
+		<http://viaf.org/viaf/42041026> .
+@prefix dbpedia-hu:	<http://hu.dbpedia.org/resource/> .
+dbr:Marion_Cotillard	owl:sameAs	dbpedia-hu:Marion_Cotillard ,
+		<http://ko.dbpedia.org/resource/\uB9C8\uB9AC\uC639_\uCF54\uD2F0\uC57C\uB974> .
+@prefix dbpedia-ms:	<http://ms.dbpedia.org/resource/> .
+dbr:Marion_Cotillard	owl:sameAs	dbpedia-ms:Marion_Cotillard ,
+		<http://bg.dbpedia.org/resource/\u041C\u0430\u0440\u0438\u043E\u043D_\u041A\u043E\u0442\u0438\u044F\u0440> ,
+		<http://zh.dbpedia.org/resource/\u746A\u8389\u5B89\u00B7\u6B4C\u8FEA\u96C5> ,
+		<http://d-nb.info/gnd/159637678> ,
+		<http://bn.dbpedia.org/resource/\u09AE\u09BE\u09B0\u09BF\u09AF\u09BC\u09CB\u0981_\u0995\u09CB\u09A4\u09BF\u09AF\u09BC\u09BE\u09B0> .
+@prefix dbpedia-eu:	<http://eu.dbpedia.org/resource/> .
+dbr:Marion_Cotillard	owl:sameAs	dbpedia-eu:Marion_Cotillard .
+@prefix dbpedia-da:	<http://da.dbpedia.org/resource/> .
+dbr:Marion_Cotillard	owl:sameAs	dbpedia-da:Marion_Cotillard .
+@prefix dbpedia-ga:	<http://ga.dbpedia.org/resource/> .
+dbr:Marion_Cotillard	owl:sameAs	dbpedia-ga:Marion_Cotillard .
+@prefix ns44:	<http://data.europa.eu/euodp/jrc-names/> .
+dbr:Marion_Cotillard	owl:sameAs	ns44:Marion_Cotillard .
+@prefix dbpedia-fi:	<http://fi.dbpedia.org/resource/> .
+dbr:Marion_Cotillard	owl:sameAs	dbpedia-fi:Marion_Cotillard ,
+		<http://uk.dbpedia.org/resource/\u041C\u0430\u0440\u0456\u043E\u043D_\u041A\u043E\u0442\u0456\u044F\u0440> ,
+		<http://he.dbpedia.org/resource/\u05DE\u05E8\u05D9\u05D5\u05DF_\u05E7\u05D5\u05D8\u05D9\u05D0\u05E8> ,
+		<http://be.dbpedia.org/resource/\u041C\u0430\u0440\u044B\u0451\u043D_\u041A\u0430\u0446\u0456\u044F\u0440> ,
+		<http://ar.dbpedia.org/resource/\u0645\u0627\u0631\u064A\u0648\u0646_\u0643\u0648\u062A\u064A\u0627\u0631> ,
+		<http://sk.dbpedia.org/resource/Marion_Cotillardov\u00E1> ,
+		<http://el.dbpedia.org/resource/\u039C\u03B1\u03C1\u03B9\u03CC\u03BD_\u039A\u03BF\u03C4\u03B9\u03B3\u03B9\u03AC\u03C1> .
+@prefix dbpedia-oc:	<http://oc.dbpedia.org/resource/> .
+dbr:Marion_Cotillard	owl:sameAs	dbpedia-oc:Marion_Cotillard .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Marion_Cotillard	owl:sameAs	dbpedia-nl:Marion_Cotillard .
+@prefix dbpedia-yo:	<http://yo.dbpedia.org/resource/> .
+dbr:Marion_Cotillard	owl:sameAs	dbpedia-yo:Marion_Cotillard ,
+		<http://api.nytimes.com/svc/semantic/v2/concept/name/nytd_per/Cotillard,%20Marion> .
+@prefix ns49:	<http://ast.dbpedia.org/resource/> .
+dbr:Marion_Cotillard	owl:sameAs	ns49:Marion_Cotillard .
+@prefix dbpedia-sh:	<http://sh.dbpedia.org/resource/> .
+dbr:Marion_Cotillard	owl:sameAs	dbpedia-sh:Marion_Cotillard ,
+		<http://ka.dbpedia.org/resource/\u10DB\u10D0\u10E0\u10D8\u10DD\u10DC_\u10D9\u10DD\u10E2\u10D8\u10D0\u10E0\u10D8> ,
+		<http://hy.dbpedia.org/resource/\u0544\u0561\u0580\u056B\u0578\u0576_\u0554\u0578\u057F\u056B\u0561\u0580> ,
+		<http://ml.dbpedia.org/resource/\u0D2E\u0D30\u0D3F\u0D2F\u0D7B_\u0D15\u0D4B\u0D1F\u0D4D\u0D1F\u0D3F\u0D32\u0D4D\u0D32\u0D3E\u0D7C\u0D21\u0D4D> .
+@prefix dbpedia-gl:	<http://gl.dbpedia.org/resource/> .
+dbr:Marion_Cotillard	owl:sameAs	dbpedia-gl:Marion_Cotillard .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Marion_Cotillard	owl:sameAs	dbpedia-it:Marion_Cotillard .
+@prefix dbpedia-id:	<http://id.dbpedia.org/resource/> .
+dbr:Marion_Cotillard	owl:sameAs	dbpedia-id:Marion_Cotillard ;
+	schema:sameAs	<http://viaf.org/viaf/42041026> ;
+	dbp:partner	dbr:Guillaume_Canet ;
+	dbo:partner	dbr:Guillaume_Canet .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Marion_Cotillard	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Marion_Cotillard?oldid=986046409&ns=0> ;
+	dbp:otherNames	"Simone"@en ;
+	dbo:alias	"Simone"@en ;
+	dbp:title	dbr:List_of_awards_and_nominations_received_by_Marion_Cotillard ;
+	dbp:awards	dbr:List_of_awards_and_nominations_received_by_Marion_Cotillard ;
+	dbo:award	dbr:List_of_awards_and_nominations_received_by_Marion_Cotillard ;
+	dbp:name	"Marion Cotillard"@en ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Marion_Cotillard_Cannes_2016.jpg?width=300> ;
+	dbo:birthPlace	dbr:Paris ;
+	dbp:birthPlace	"Paris, France"@en .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Marion_Cotillard	dbo:birthDate	"1975-09-30"^^xsd:date ;
+	dbo:wikiPageID	2539269 ;
+	dbo:wikiPageRevisionID	986046409 ;
+	dbo:wikiPageWikiLink	dbr:Joan_of_Arc ,
+		dbr:Monaco ,
+		dbr:Juliette_Binoche ,
+		<http://dbpedia.org/resource/80th_Academy_Awards> ,
+		dbr:Coming-of-age_story ,
+		dbr:Happy_Feet ,
+		dbr:Lady_Blue_Shanghai ,
+		dbr:Billy_Crudup ,
+		<http://dbpedia.org/resource/Sinclair_(singer)> ,
+		<http://dbpedia.org/resource/Jonas_\u00C5kerlund> ,
+		dbr:Michael_Mann ,
+		dbr:Comedy_Central ,
+		dbr:Milena_Agus ,
+		<http://dbpedia.org/resource/2015_Cannes_Film_Festival> ,
+		dbr:List_of_actors_nominated_for_Academy_Awards_for_non-English_performances ,
+		dbr:GQ ,
+		dbr:Joseph_Gordon-Levitt ,
+		dbr:Cameo_appearance ,
+		dbr:Provence ,
+		<http://dbpedia.org/resource/C\u00E9sar_Award_for_Most_Promising_Actress> ,
+		dbr:Academy_Award_for_Best_Actress ,
+		dbr:Academy_Awards ,
+		<http://dbpedia.org/resource/Pretty_Things_(2001_film)> ,
+		<http://dbpedia.org/resource/Troph\u00E9e_Chopard> ,
+		<http://dbpedia.org/resource/Vox_(website)> ,
+		dbc:French_female_guitarists ,
+		dbc:French_environmentalists ,
+		dbr:Ian_McKellen ,
+		<http://dbpedia.org/resource/The_Black_Box_(2005_film)> ,
+		<http://dbpedia.org/resource/Amaz\u00F4nia_Legal> ,
+		dbr:Cannes_Film_Festival ,
+		dbr:Greta_Garbo ,
+		<http://dbpedia.org/resource/Two_Days,_One_Night> ,
+		<http://dbpedia.org/resource/Orl\u00E9ans> ,
+		dbc:Living_people ,
+		dbr:Jeanne_Moreau ,
+		dbc:French_songwriters ,
+		dbr:La_Belle_Verte ,
+		<http://dbpedia.org/resource/Glamour_(magazine)> ,
+		dbr:Mime_artist ,
+		dbr:Inception ,
+		dbr:World_War_II ,
+		<http://dbpedia.org/resource/Slate_(magazine)> ,
+		dbr:Olivier_Dahan ,
+		dbr:Owen_Wilson ,
+		<http://dbpedia.org/resource/Little_White_Lies_(2010_film)> ,
+		dbr:Samy_Naceri ,
+		dbr:Floria_Sigismondi ,
+		dbr:Paul_Claudel ,
+		dbr:Jim_Carrey ,
+		dbr:Alison_Lohman ,
+		dbr:Paris ,
+		dbr:Carey_Mulligan ,
+		dbc:Chevaliers_of_the_Ordre_des_Arts_et_des_Lettres ,
+		dbc:French_voice_actresses ,
+		dbr:Big_Fish ,
+		dbr:Golden_Hat_Foundation ,
+		dbr:A_Good_Year ,
+		<http://dbpedia.org/resource/File:Marion_Cotillard_Cabourg_2017.jpg> ,
+		<http://dbpedia.org/resource/File:Marion_Cotillard_(Berlin_Film_Festival_2007).jpg> ,
+		<http://dbpedia.org/resource/File:Marion_Cotillard_(July_2009)_5.jpg> ,
+		<http://dbpedia.org/resource/File:Marion_Cotillard_1_(July_2009).jpg> ,
+		<http://dbpedia.org/resource/File:Marion_Cotillard_Studio_Harcourt_1999_(without_signature).jpg> ,
+		dbc:French_people_of_Breton_descent ,
+		<http://dbpedia.org/resource/File:De_rouille_et_d\u0027os_Cannes_2012_(cropped).jpg> ,
+		<http://dbpedia.org/resource/File:MarionCotillard08.jpg> ,
+		dbr:Justin_Kurzel ,
+		dbr:Louis_Garrel ,
+		dbr:Elliot_Page ,
+		dbr:OceanWorld_3D ,
+		dbr:Marrakech_International_Film_Festival ,
+		dbc:Actresses_from_Paris ,
+		dbr:Dior ,
+		dbr:Lady_Macbeth ,
+		dbr:Michael_Caine ,
+		dbr:Helena_Bonham_Carter ,
+		dbr:Independent_film ,
+		dbr:Greenpeace ,
+		dbr:Golden_Globe_Awards ,
+		dbr:Brad_Pitt ,
+		dbr:Orelsan ,
+		dbr:New_York_Philharmonic ,
+		dbr:Tim_Burton ,
+		dbr:Rachel_McAdams ,
+		dbr:Femme_fatale ,
+		dbr:Oratorio ,
+		dbc:French_female_singer-songwriters ,
+		<http://dbpedia.org/resource/Blood_Ties_(2013_film)> ,
+		dbr:War_in_the_Highlands ,
+		dbr:List_of_French_Academy_Award_winners_and_nominees ,
+		dbr:A_Very_Long_Engagement ,
+		<http://dbpedia.org/resource/Critics\u0027_Choice_Movie_Awards> ,
+		dbr:Screen_Actors_Guild_Awards ,
+		dbr:Ordre_des_Arts_et_des_Lettres ,
+		<http://dbpedia.org/resource/Innocence_(2004_film)> ,
+		dbr:Taxi_2 ,
+		<http://dbpedia.org/resource/22nd_Lumi\u00E8res_Awards> ,
+		dbr:Louvre ,
+		<http://dbpedia.org/resource/St\u00E9phane_Audran> ,
+		<http://dbpedia.org/resource/Rock\u0027n_Roll_(2017_film)> ,
+		<http://dbpedia.org/resource/Take_It_All_(Nine_song)> ,
+		dbr:Robbie_Collin ,
+		dbr:Jean-Pierre_Jeunet ,
+		dbc:Officiers_of_the_Ordre_des_Arts_et_des_Lettres ,
+		<http://dbpedia.org/resource/Can\u0027t_Help_Falling_in_Love> ,
+		<http://dbpedia.org/resource/2012_Cannes_Film_Festival> ,
+		dbr:Autism ,
+		<http://dbpedia.org/resource/It\u0027s_Only_the_End_of_the_World> ,
+		<http://dbpedia.org/resource/Nine_(2009_live-action_film)> ,
+		dbr:Matthias_Schoenaerts ,
+		dbc:French_activists ,
+		<http://dbpedia.org/resource/Category:Best_Actress_C\u00E9sar_Award_winners> ,
+		<http://dbpedia.org/resource/Franz_Ferdinand_(band)> ,
+		<http://dbpedia.org/resource/James_Gray_(director)> ,
+		<http://dbpedia.org/resource/Category:Best_Actress_Lumi\u00E8res_Award_winners> ,
+		<http://dbpedia.org/resource/35th_C\u00E9sar_Awards> ,
+		<http://dbpedia.org/resource/La_Vie_en_rose_(film)> ,
+		dbr:Ken_Watanabe ,
+		dbr:Berlin_International_Film_Festival ,
+		dbc:French_bass_guitarists ,
+		dbr:Adrien_Brody ,
+		dbr:Joaquin_Phoenix ,
+		dbr:Un_Certain_Regard ,
+		dbr:Forbes ,
+		<http://dbpedia.org/resource/Variety_(magazine)> ,
+		<http://dbpedia.org/resource/Mo\u0027Nique> ,
+		dbr:Cillian_Murphy ,
+		<http://dbpedia.org/resource/The_Office_(American_TV_series)> ,
+		dbr:The_Wall_Street_Journal ,
+		dbr:Nathan_Fielder .
+@prefix ns56:	<http://dbpedia.org/resource/Anchorman_2:> .
+dbr:Marion_Cotillard	dbo:wikiPageWikiLink	ns56:_The_Legend_Continues ,
+		<http://dbpedia.org/resource/Dubbing_(filmmaking)> ,
+		<http://dbpedia.org/resource/The_Story_of_a_Boy_Who_Wanted_to_Be_Kissed_(film)> ,
+		<http://dbpedia.org/resource/Lumi\u00E8res_Award> ,
+		<http://dbpedia.org/resource/Fran\u00E7ois_Hollande> ,
+		dbr:Guillaume_Canet ,
+		dbr:Dikkenek ,
+		dbr:Christopher_Nolan ,
+		dbr:Louise_Brooks ,
+		dbr:List_of_Academy_Award_winners_and_nominees_for_Best_International_Feature_Film ,
+		dbr:Gwyneth_Paltrow ,
+		dbr:Harvard_University ,
+		<http://dbpedia.org/resource/C\u00E9sar_Award_for_Best_Actress> ,
+		dbr:Johnny_Depp ,
+		dbr:Taxi_3 ,
+		<http://dbpedia.org/resource/Annette_(film)> ,
+		dbc:Women_bass_guitarists ,
+		dbr:Gary_Oldman ,
+		dbr:Kathy_Bates ,
+		dbr:Ridley_Scott ,
+		<http://dbpedia.org/resource/The_Story_of_Adele_H.> ,
+		dbr:Hylda_Queally ,
+		dbr:Charlotte_Gainsbourg ,
+		<http://dbpedia.org/resource/Category:21st-century_French_women_singers> ,
+		dbc:People_from_Paris ,
+		dbr:Isabelle_Adjani ,
+		dbr:Voice_acting ,
+		dbr:Cate_Blanchett ,
+		<http://dbpedia.org/resource/Category:21st-century_French_singers> ,
+		dbr:Robert_Zemeckis ,
+		dbr:Lady_Dior ,
+		dbr:Brian_Baumgartner ,
+		dbr:Jacques_Audiard ,
+		dbr:Leos_Carax ,
+		dbr:Xavier_Dolan ,
+		dbr:Virginie_Despentes ,
+		dbr:UNICEF ,
+		dbc:French_film_actresses ,
+		dbr:Jeremy_Renner ,
+		<http://dbpedia.org/resource/Place_de_la_R\u00E9publique> ,
+		dbc:People_associated_with_Greenpeace ,
+		<http://dbpedia.org/resource/Mary_(2005_film)> ,
+		<http://dbpedia.org/resource/The_Pianist_(2002_film)> ,
+		dbr:Le_Figaro ,
+		dbr:Maud_Fontenoy ,
+		<http://dbpedia.org/resource/A_Private_Affair_(2002_film)> ,
+		dbr:Macbeth ,
+		<http://dbpedia.org/resource/Assassin\u0027s_Creed_Origins> ,
+		dbc:French_people_of_Kabyle_descent ,
+		dbr:New_York_Film_Critics_Circle_Award_for_Best_Actress ,
+		dbr:Los_Angeles_Film_Critics_Association_Award_for_Best_Actress ,
+		dbr:Woody_Allen ,
+		dbr:Coline_Serreau ,
+		dbr:Telluride_Film_Festival ,
+		dbr:List_of_awards_and_nominations_received_by_Marion_Cotillard ,
+		dbr:Meryl_Streep ,
+		<http://dbpedia.org/resource/Dennis_Berry_(director)> ,
+		dbr:Democratic_Republic_of_the_Congo ,
+		<http://dbpedia.org/resource/Love_Me_If_You_Dare_(film)> ,
+		dbr:Kate_Winslet ,
+		dbr:Indonesia ,
+		dbr:Dardenne_brothers ,
+		dbr:Albert_Finney ,
+		<http://dbpedia.org/resource/42nd_C\u00E9sar_Awards> ,
+		<http://dbpedia.org/resource/My_Sex_Life..._or_How_I_Got_into_an_Argument> ,
+		dbr:Wayne_Enterprises ,
+		dbr:YOOX_Net-a-Porter_Group ,
+		<http://dbpedia.org/resource/M\u00E9lanie_Laurent> ,
+		dbr:Russell_Crowe ,
+		dbr:David_Bowie ,
+		dbr:The_Little_Prince ,
+		dbr:Reincarnation ,
+		dbr:Arnaud_Desplechin ,
+		dbr:European_Film_Award_for_Best_Actress ,
+		dbr:Sophia_Loren ,
+		dbr:Grazia ,
+		dbr:BIFA_Award_for_Best_Performance_by_an_Actress_in_a_British_Independent_Film ,
+		<http://dbpedia.org/resource/W_(magazine)> ,
+		dbr:Clive_Owen ,
+		dbr:Rob_Marshall ,
+		<http://dbpedia.org/resource/Fran\u00E7ois_Cluzet> ,
+		dbr:Sumatran_tiger ,
+		dbr:List_of_actors_with_two_or_more_Academy_Award_nominations_in_acting_categories ,
+		dbr:John_Galliano ,
+		dbr:Philippe_Harel ,
+		dbr:World_Wide_Fund_for_Nature ,
+		<http://dbpedia.org/resource/The_Emigrants_(film)> ,
+		<http://dbpedia.org/resource/Time_(magazine)> ,
+		dbr:Marie_Claire ,
+		<http://dbpedia.org/resource/Elle_(magazine)> ,
+		<http://dbpedia.org/resource/2015_United_Nations_Climate_Change_Conference> ,
+		dbr:Darfur ,
+		dbr:Evelyn_Frechette ,
+		dbr:Vogue_Paris ,
+		dbr:Toronto_Film_Critics_Association_Award_for_Best_Actress ,
+		dbr:Elvis_Presley ,
+		<http://dbpedia.org/resource/New_York_(state)> ,
+		<http://dbpedia.org/resource/Unity_(film)> ,
+		dbr:Philippines ,
+		dbr:National_Society_of_Film_Critics_Award_for_Best_Actress ,
+		dbr:Bastille_Day ,
+		<http://dbpedia.org/resource/Category:21st-century_French_actresses> ,
+		<http://dbpedia.org/resource/Furia_(film)> ,
+		dbc:French_stage_actresses ,
+		<http://dbpedia.org/resource/C\u00E9sar_Awards> ,
+		dbr:Google ,
+		<http://dbpedia.org/resource/Category:20th-century_French_actresses> ,
+		dbr:William_Shakespeare ,
+		dbr:Steven_Soderbergh ,
+		dbr:American_Film_Institute ,
+		<http://dbpedia.org/resource/Chlo\u00E9_(1996_film)> ,
+		<http://dbpedia.org/resource/Harper\u0027s_Bazaar> ,
+		dbr:April_and_the_Extraordinary_World ,
+		dbr:Amazon_rainforest ,
+		dbr:Hollywood_Film_Festival ,
+		<http://dbpedia.org/resource/Cartier_(jeweler)> ,
+		dbr:Midnight_Oil ,
+		<http://dbpedia.org/resource/G\u00E9rard_Pir\u00E8s> ,
+		dbr:Les_Wampas ,
+		dbr:French_Resistance ,
+		dbr:Legion_of_Honour ,
+		<http://dbpedia.org/resource/Richard_Berry_(actor)> ,
+		<http://dbpedia.org/resource/Macbeth_(2015_film)> ,
+		dbr:Jean_Dujardin ,
+		<http://dbpedia.org/resource/Dolittle_(film)> ,
+		dbr:Leonardo_DiCaprio ,
+		<http://dbpedia.org/resource/\u00C9dith_Piaf> ,
+		<http://dbpedia.org/resource/C\u00E9sar_Award_for_Best_Supporting_Actress> ,
+		<http://dbpedia.org/resource/Category:21st-century_bass_guitarists> ,
+		<http://dbpedia.org/resource/Ismael\u0027s_Ghosts> ,
+		dbr:Tom_Hardy ,
+		<http://dbpedia.org/resource/Category:Best_Supporting_Actress_C\u00E9sar_Award_winners> ,
+		<http://dbpedia.org/resource/Category:Chevaliers_of_the_L\u00E9gion_d\u0027honneur> ,
+		dbr:Poles ,
+		dbr:Abel_Ferrara ,
+		<http://dbpedia.org/resource/2014_Cannes_Film_Festival> ,
+		<http://dbpedia.org/resource/Contagion_(2011_film)> ,
+		dbc:French_television_actresses ,
+		dbr:Belo_Monte_Dam ,
+		dbc:Audiobook_narrators ,
+		dbr:Hawksley_Workman ,
+		dbr:Talia_al_Ghul ,
+		dbr:Independent_Spirit_Awards ,
+		dbr:Daniel_Day-Lewis ,
+		<http://dbpedia.org/resource/File:Cannes_2015_48.jpg> ,
+		dbr:Toulouse ,
+		<http://dbpedia.org/resource/Minions_(film)> ,
+		<http://dbpedia.org/resource/The_Immigrant_(2013_film)> ,
+		dbr:Christian_Bale ,
+		dbr:Eiffel_Tower ,
+		<http://dbpedia.org/resource/2016_Cannes_Film_Festival> ,
+		<http://dbpedia.org/resource/From_the_Land_of_the_Moon_(film)> ,
+		<http://dbpedia.org/resource/Sagamore_St\u00E9venin> ,
+		dbr:Gotham_Awards ,
+		<http://dbpedia.org/resource/Blockbuster_(entertainment)> ,
+		dbr:Les_Guignols ,
+		dbr:Midnight_in_Paris ,
+		dbr:Ewan_McGregor ,
+		dbr:Hasty_Pudding_Theatricals ,
+		dbr:Nekfeu ,
+		<http://dbpedia.org/resource/Category:Best_Musical_or_Comedy_Actress_Golden_Globe_(film)_winners> .
+@prefix ns57:	<http://dbpedia.org/resource/Highlander:> .
+dbr:Marion_Cotillard	dbo:wikiPageWikiLink	ns57:_The_Series ,
+		<http://dbpedia.org/resource/Toi_et_moi_(film)> ,
+		dbr:Barcelona ,
+		dbc:Best_Actress_Academy_Award_winners ,
+		dbc:Best_Actress_BAFTA_Award_winners ,
+		dbr:Jessica_Lange ,
+		<http://dbpedia.org/resource/Mark_Osborne_(filmmaker)> ,
+		dbr:Climate_change ,
+		dbr:Kabyle_people ,
+		dbr:Joseph_Mount ,
+		dbr:Stephen_Gaghan ,
+		dbc:French_women_environmentalists ,
+		<http://dbpedia.org/resource/Category:1975_births> ,
+		dbr:Gilles_Paquet-Brenner ,
+		dbr:Mathieu_Amalric ,
+		dbr:The_Daily_Telegraph ,
+		<http://dbpedia.org/resource/Chanel_No._5> ,
+		dbr:Martin_Scorsese ,
+		dbc:French_women_activists ,
+		dbr:Beds_Are_Burning ,
+		dbr:Liv_Ullmann ,
+		<http://dbpedia.org/resource/Golden_Globe_Award_for_Best_Actress_\u2013_Motion_Picture_Comedy_or_Musical> ,
+		dbr:Russell_Tovey ,
+		dbr:British_Academy_Film_Awards ,
+		dbr:European_Film_Awards ,
+		dbr:Marc_Soustrot ,
+		dbr:Bretons ,
+		dbr:BAFTA_Award_for_Best_Actress_in_a_Leading_Role ,
+		<http://dbpedia.org/resource/Angel_Face_(2018_film)> ,
+		dbr:Total_Film ,
+		<http://dbpedia.org/resource/Vogue_(magazine)> ,
+		<http://dbpedia.org/resource/The_Little_Prince_(2015_film)> ,
+		dbr:Jude_Law ,
+		dbr:Palm_Springs_International_Film_Festival ,
+		dbc:French_keyboardists ,
+		dbr:The_Dark_Knight_Rises ,
+		<http://dbpedia.org/resource/Trivia_(The_Office)> ,
+		<http://dbpedia.org/resource/Taxi_(1998_film)> ,
+		<http://dbpedia.org/resource/Allied_(film)> ,
+		dbr:Raoni_Metuktire ,
+		dbr:Metacritic ,
+		dbr:Anna_Karina ,
+		<http://dbpedia.org/resource/Love_Is_in_the_Air_(2005_film)> ,
+		<http://dbpedia.org/resource/Lisa_(2001_film)> ,
+		<http://dbpedia.org/resource/Nine_(musical)> ,
+		dbr:The_Hollywood_Reporter ,
+		dbr:Nicole_Garcia ,
+		dbr:Arthur_Honegger ,
+		dbr:Alexandre_Aja ,
+		dbr:Madame_Figaro ,
+		dbr:Saoirse_Ronan ,
+		dbc:European_Film_Award_for_Best_Actress_winners ,
+		dbr:Academy_of_Motion_Picture_Arts_and_Sciences ,
+		<http://dbpedia.org/resource/2019_Cannes_Film_Festival> ,
+		dbr:John_Cameron_Mitchell ,
+		dbr:Simone_Signoret ,
+		dbr:David_Lynch ,
+		dbr:Pablo_Picasso ,
+		<http://dbpedia.org/resource/Public_Enemies_(2009_film)> ,
+		<http://dbpedia.org/resource/Assassin\u0027s_Creed_(film)> ,
+		dbr:Michael_Fassbender ,
+		dbr:Julien_Rassam ,
+		dbr:Ban_Ki-moon ,
+		dbr:Matt_Damon ,
+		<http://dbpedia.org/resource/Jeanne_d\u0027Arc_au_b\u00FBcher> ,
+		dbr:November_2015_Paris_attacks ,
+		<http://dbpedia.org/resource/Vanity_Fair_(magazine)> ,
+		<http://dbpedia.org/resource/St\u00E9phan_Gu\u00E9rin-Tilli\u00E9> ,
+		dbr:Rust_and_Bone ,
+		dbr:Between_the_Beautifuls ,
+		<http://dbpedia.org/resource/Beno\u00EEt_Magimel> ,
+		<http://dbpedia.org/resource/Empire_(film_magazine)> .
+@prefix dbt:	<http://dbpedia.org/resource/Template:> .
+dbr:Marion_Cotillard	dbp:wikiPageUsesTemplate	dbt:IPA-fr ,
+		dbt:Cabourg_Film_Festival_Best_Actress_Award ,
+		dbt:IMDb_name ,
+		dbt:Infobox_person ,
+		dbt:Reflist ,
+		dbt:Short_description ,
+		dbt:Authority_control ,
+		dbt:European_Film_Award_for_Best_Actress ,
+		<http://dbpedia.org/resource/Template:C\u00E9sar_Award_for_Best_Supporting_Actress> ,
+		dbt:Vancouver_Film_Critics_Circle_Award_for_Best_Actress ,
+		dbt:Satellite_Award_Best_Actress_Motion_Picture ,
+		<http://dbpedia.org/resource/Template:Lumi\u00E8res_Award_for_Best_Actress> ,
+		<http://dbpedia.org/resource/Template:C\u00E9sar_Award_for_Best_Actress> ,
+		dbt:Los_Angeles_Film_Critics_Association_Award_for_Best_Actress_2001-present ,
+		dbt:Main ,
+		<http://dbpedia.org/resource/Template:\u0027> ,
+		dbt:Navboxes ,
+		dbt:Cannes_Film_Festival_Revelation_Award ,
+		dbt:AcademyAwardBestActress_2001-2020 ,
+		dbt:GoldenGlobeBestActressMotionPictureMusicalComedy_2001-2020 ,
+		dbt:BAFTA_Award_for_Best_Actress_2000-2019 ,
+		dbt:TV_Guide_person ,
+		dbt:Amg_name ,
+		dbt:New_York_Film_Critics_Circle_Award_for_Best_Actress ,
+		dbt:National_Society_of_Film_Critics_Award_for_Best_Actress ,
+		dbt:Boston_Society_of_Film_Critics_Award_for_Best_Actress ,
+		dbt:London_Film_Critics_Circle_Award_for_Actress_of_the_Year ,
+		dbt:EngvarB ,
+		dbt:San_Diego_Film_Critics_Society_Award_for_Best_Actress ,
+		dbt:Sortname ,
+		dbt:CzechLionBestActress ,
+		dbt:Use_dmy_dates ,
+		dbt:Birth_date_and_age ,
+		dbt:Commons_category ,
+		dbt:Tcmdb_name ,
+		dbt:Rotten_Tomatoes_person ,
+		dbt:Allocine_name ,
+		<http://dbpedia.org/resource/Template:C\u00E9sar_Awards_presidents> ,
+		dbt:Hasty_Pudding_Woman_of_the_Year ;
+	dbp:birthDate	"1975-09-30"^^xsd:date ;
+	dbp:caption	"Cotillard at the 2017 Cabourg Film Festival"@en ;
+	dbp:children	2 ;
+	dbp:occupation	"environmentalist"@en ,
+		"musician"@en ,
+		"singer-songwriter"@en ,
+		"Actress"@en ,
+		""@en ;
+	dbp:yearsActive	1993 ;
+	dbo:abstract	"Marion Cotillard (* 30. September 1975 in Paris) ist eine franz\u00F6sische Schauspielerin. Bekanntheit erlangte sie vor allem durch ihre Darstellung der \u00C9dith Piaf in Olivier Dahans Spielfilm La vie en rose (2007), f\u00FCr den sie mit einem Oscar, einem Golden Globe, dem British Academy Film Award und dem franz\u00F6sischen C\u00E9sar ausgezeichnet wurde. Durch ihre Mitwirkung in US-Filmproduktionen wie dem Musical Nine (2009) oder dem Science-Fiction-Film Inception (2010) z\u00E4hlt sie zu den bestbezahlten Schauspielerinnen. Am 14. Juli 2016 ist Cotillard f\u00FCr ihr mehr als zwanzigj\u00E4hriges Engagement im Umweltschutz von der Ministerin f\u00FCr Umwelt, Energie und nachhaltige Entwicklung, S\u00E9gol\u00E8ne Royal, zum Ritter der Ehrenlegion ernannt worden."@de ,
+		"\u0397 \u039C\u03B1\u03C1\u03B9\u03CC\u03BD \u039A\u03BF\u03C4\u03B9\u03B3\u03B9\u03AC\u03C1 (Marion Cotillard, 30 \u03A3\u03B5\u03C0\u03C4\u03B5\u03BC\u03B2\u03C1\u03AF\u03BF\u03C5 1975 (\u0393\u03B1\u03BB\u03BB\u03B9\u03BA\u03AE \u03C0\u03C1\u03BF\u03C6\u03BF\u03C1\u03AC: ) \u03B5\u03AF\u03BD\u03B1\u03B9 \u0393\u03B1\u03BB\u03BB\u03AF\u03B4\u03B1 \u03B7\u03B8\u03BF\u03C0\u03BF\u03B9\u03CC\u03C2, \u03BC\u03BF\u03BD\u03C4\u03AD\u03BB\u03BF \u03BA\u03B1\u03B9 \u03C4\u03C1\u03B1\u03B3\u03BF\u03C5\u03B4\u03AF\u03C3\u03C4\u03C1\u03B9\u03B1. \u03A3\u03C4\u03B9\u03C2 \u03B4\u03B9\u03B1\u03BA\u03C1\u03AF\u03C3\u03B5\u03B9\u03C2 \u03C4\u03B9\u03C2 \u03C0\u03B5\u03C1\u03B9\u03BB\u03B1\u03BC\u03B2\u03AC\u03BD\u03B5\u03C4\u03B1\u03B9 \u03BC\u03B9\u03B1 \u03B2\u03C1\u03AC\u03B2\u03B5\u03C5\u03C3\u03B7 \u03BC\u03B5 \u038C\u03C3\u03BA\u03B1\u03C1, \u03BC\u03B9\u03B1 \u03A7\u03C1\u03C5\u03C3\u03AE \u03A3\u03C6\u03B1\u03AF\u03C1\u03B1, \u03BA\u03B1\u03B9 \u03AD\u03BD\u03B1 \u0392\u03C1\u03B1\u03B2\u03B5\u03AF\u03BF BAFTA, \u03CC\u03BB\u03B1 \u03B3\u03B9\u03B1 \u03C4\u03B7\u03BD \u03B5\u03C1\u03BC\u03B7\u03BD\u03B5\u03AF\u03B1 \u03C4\u03B7\u03C2 \u03C3\u03C4\u03B7\u03BD \u03C4\u03B1\u03B9\u03BD\u03AF\u03B1 \u03C4\u03BF\u03C5 2007, \u00AB\u0396\u03C9\u03AE \u03C3\u03B1\u03BD \u03A4\u03C1\u03B9\u03B1\u03BD\u03C4\u03AC\u03C6\u03C5\u03BB\u03BB\u03BF\u00BB (La M\u00F4me /La Vie En Rose). \u0388\u03C7\u03B5\u03B9 \u03B5\u03C0\u03AF\u03C3\u03B7\u03C2 \u03BB\u03AC\u03B2\u03B5\u03B9 \u03B4\u03CD\u03BF \u0392\u03C1\u03B1\u03B2\u03B5\u03AF\u03B1 \u03A3\u03B5\u03B6\u03AC\u03C1, \u03C0\u03BF\u03C5 \u03B5\u03AF\u03BD\u03B1\u03B9 \u03C4\u03B1 \u03C3\u03B7\u03BC\u03B1\u03BD\u03C4\u03B9\u03BA\u03CC\u03C4\u03B5\u03C1\u03B1 \u03B2\u03C1\u03B1\u03B2\u03B5\u03AF\u03B1 \u03C0\u03BF\u03C5 \u03B1\u03C0\u03BF\u03BD\u03AD\u03BC\u03BF\u03BD\u03C4\u03B1\u03B9 \u03BA\u03AC\u03B8\u03B5 \u03C7\u03C1\u03CC\u03BD\u03BF \u03B3\u03B9\u03B1 \u03C4\u03BF\u03BD \u03B3\u03B1\u03BB\u03BB\u03B9\u03BA\u03CC \u03BA\u03B9\u03BD\u03B7\u03BC\u03B1\u03C4\u03BF\u03B3\u03C1\u03AC\u03C6\u03BF. \u039A\u03C1\u03B1\u03C4\u03AC \u03BC\u03B9\u03B1 \u03B4\u03B9\u03B1\u03BA\u03B5\u03BA\u03C1\u03B9\u03BC\u03AD\u03BD\u03B7 \u03B8\u03AD\u03C3\u03B7 \u03C3\u03C4\u03BF \u03C0\u03BB\u03AC\u03B9 \u03C4\u03B7\u03C2 \u03A3\u03B9\u03BC\u03CC\u03BD \u03A3\u03B9\u03BD\u03B9\u03BF\u03C1\u03AD \u03C9\u03C2 \u03B7 \u03BC\u03CC\u03BD\u03B7 \u0393\u03B1\u03BB\u03BB\u03AF\u03B4\u03B1 \u03B7\u03B8\u03BF\u03C0\u03BF\u03B9\u03CC\u03C2 \u03C0\u03BF\u03C5 \u03BA\u03AD\u03C1\u03B4\u03B9\u03C3\u03B5 \u0392\u03C1\u03B1\u03B2\u03B5\u03AF\u03BF \u038C\u03C3\u03BA\u03B1\u03C1 \u0391' \u0393\u03C5\u03BD\u03B1\u03B9\u03BA\u03B5\u03AF\u03B1\u03C2 \u0395\u03C1\u03BC\u03B7\u03BD\u03B5\u03AF\u03B1\u03C2. \u0395\u03AF\u03BD\u03B1\u03B9 \u03B5\u03C0\u03AF\u03C3\u03B7\u03C2 \u03B7 \u03C0\u03C1\u03CE\u03C4\u03B7 \u03BD\u03B9\u03BA\u03AE\u03C4\u03C1\u03B9\u03B1 \u03C4\u03BF\u03C5 \u03C3\u03C5\u03B3\u03BA\u03B5\u03BA\u03C1\u03B9\u03BC\u03AD\u03BD\u03BF\u03C5 \u03B2\u03C1\u03B1\u03B2\u03B5\u03AF\u03BF\u03C5 \u03B3\u03B9\u03B1 \u03BC\u03B7-\u03B1\u03B3\u03B3\u03BB\u03CC\u03C6\u03C9\u03BD\u03BF \u03C1\u03CC\u03BB\u03BF \u03B1\u03C0\u03CC \u03C4\u03BF 1960, \u03BF\u03C0\u03CC\u03C4\u03B5 \u03BA\u03B1\u03B9 \u03B7 \u03A3\u03BF\u03C6\u03AF\u03B1 \u039B\u03CC\u03C1\u03B5\u03BD \u03B5\u03AF\u03C7\u03B5 \u03B2\u03C1\u03B1\u03B2\u03B5\u03C5\u03C4\u03B5\u03AF \u03B3\u03B9\u03B1 \u03C4\u03B7\u03BD \u03B5\u03C1\u03BC\u03B7\u03BD\u03B5\u03AF\u03B1 \u03C4\u03B7\u03C2 \u03C3\u03C4\u03B7\u03BD \u03C4\u03B1\u03B9\u03BD\u03AF\u03B1 \u0397 \u0391\u03C4\u03B9\u03BC\u03B1\u03C3\u03BC\u03AD\u03BD\u03B7 (La Ciociara). H \u039A\u03BF\u03C4\u03B9\u03B3\u03B9\u03AC\u03C1 \u03B5\u03AF\u03BD\u03B1\u03B9 \u03B5\u03C0\u03AF\u03C3\u03B7\u03C2 \u03B7 \u03BC\u03BF\u03BD\u03B1\u03B4\u03B9\u03BA\u03AE \u03B2\u03C1\u03B1\u03B2\u03B5\u03C5\u03BC\u03AD\u03BD\u03B7 \u03C4\u03B7\u03C2 \u0391\u03BA\u03B1\u03B4\u03B7\u03BC\u03AF\u03B1\u03C2 \u03B3\u03B9\u03B1 \u03B5\u03C1\u03BC\u03B7\u03BD\u03B5\u03AF\u03B1 \u03C3\u03C4\u03B7 \u03B3\u03B1\u03BB\u03BB\u03B9\u03BA\u03AE \u03B3\u03BB\u03CE\u03C3\u03C3\u03B1."@el ,
+		"Marion Cotillard (* 30. z\u00E1\u0159\u00ED 1975 Pa\u0159\u00ED\u017E, Francie) je francouzsk\u00E1 here\u010Dka, dr\u017Eitelka mnoha ocen\u011Bn\u00ED za ztv\u00E1rn\u011Bn\u00ED postavy \u00C9dith Piaf ve stejnojmenn\u00E9m filmu."@cs ,
+		"\u746A\u8389\u8A60\u00B7\u67EF\u8482\u4E9E\uFF08\u6CD5\u8A9E\uFF1AMarion Cotillard\uFF0C1975\u5E749\u670830\u65E5\uFF0D\uFF09\uFF0C\u6CD5\u570B\u5973\u6F14\u54E1\uFF0C\u4EE52007\u5E74\u96FB\u5F71\u300A\u73AB\u7470\u4EBA\u751F\u300B\uFF08La M\u00F4me\uFF09\u7372\u5F97\u7B2C65\u5C46\u91D1\u7403\u734E\u6700\u4F73\u97F3\u6A02\u6216\u559C\u5287\u985E\u5973\u4E3B\u89D2\u734E\uFF0C\u7B2C80\u5C4A\u5965\u65AF\u5361\u91D1\u50CF\u734E\u6700\u4F73\u5973\u4E3B\u89D2\u5956\u5F97\u4E3B\u3002"@zh ,
+		"Marion Cotillard (Paris, 30 de setembro de 1975) \u00E9 uma atriz francesa, vencedora do Oscar de Melhor Atriz, conhecida por estrelar os filmes Piaf - Um Hino ao Amor (2007), A Origem (2010), Meia-Noite em Paris (2011), Ferrugem e Osso (2012), Dois Dias, Uma Noite (2014), Macbeth (2015) e Aliados (2016). Entre outros filmes de sucesso da atriz est\u00E3o: T\u00E1xi \u2013 Velocidade nas Ruas (1998), Amor ou Consequ\u00EAncia (2003), Peixe Grande e Suas Hist\u00F3rias Maravilhosas (2003), Eterno Amor (2004), Inimigos P\u00FAblicos (2009), At\u00E9 a Eternidade (2010) e Cont\u00E1gio (2011). Cotillard \u00E9 a \u00FAnica atriz a ganhar um Oscar por um filme em l\u00EDngua francesa, pr\u00EAmio que recebeu por sua atua\u00E7\u00E3o em Piaf - Um Hino ao Amor em 2008. Em 2015, conquistou sua segunda indica\u00E7\u00E3o ao Oscar com outro filme em l\u00EDngua francesa, o belga Dois Dias, Uma Noite, se tornando a primeira atriz a receber uma indica\u00E7\u00E3o ao Oscar por um filme belga. Tem papel ativo em causas ecol\u00F3gicas, sendo tamb\u00E9m porta-voz do Greenpeace desde 2002. Foi garota-propaganda da bolsa Lady Dior de 2008 \u00E0 2017. Em 2020 foi escolhida como o novo rosto do perfume Chanel N\u00BA 5, e j\u00E1 apareceu em mais de 300 capas de revistas, entre elas est\u00E3o Vogue, Marie Claire, Elle, Variety, Harper's Bazaar, Vanity Fair, Madame Figaro, Glamour, Grazia, W, The Hollywood Reporter e Wall Street Journal Magazine. A atriz tamb\u00E9m foi escolhida para ser a capa da primeira edi\u00E7\u00E3o da Dior Magazine, em Setembro de 2012. Cotillard \u00E9 a atriz francesa mais banc\u00E1vel do s\u00E9culo XXI de acordo com o site PureMedias. Os filmes estrelados pela atriz arrecadaram mais de $3 bilh\u00F5es nas bilheterias mundiais e venderam mais de 37 milh\u00F5es de ingressos na Fran\u00E7a, de 2001 a 2014."@pt ,
+		"Marion COTILLARD [marj\u00F5 kotijar] (naski\u011Dis la 30-an de septembro 1975 en Parizo) estas franca aktorino naskita de patrino , komediistino kaj patro , re\u011Disoro."@eo ,
+		"\u041C\u0430\u0440\u0438\u043E\u0301\u043D \u041A\u043E\u0442\u0438\u0439\u044F\u0301\u0440 (\u0444\u0440. Marion Cotillard; \u0440\u043E\u0434. 30 \u0441\u0435\u043D\u0442\u044F\u0431\u0440\u044F 1975, \u041F\u0430\u0440\u0438\u0436, \u0424\u0440\u0430\u043D\u0446\u0438\u044F) \u2014 \u0444\u0440\u0430\u043D\u0446\u0443\u0437\u0441\u043A\u0430\u044F \u0430\u043A\u0442\u0440\u0438\u0441\u0430 \u0442\u0435\u0430\u0442\u0440\u0430, \u0442\u0435\u043B\u0435\u0432\u0438\u0434\u0435\u043D\u0438\u044F \u0438 \u043A\u0438\u043D\u043E. \u0421\u043D\u0438\u043C\u0430\u0435\u0442\u0441\u044F \u043A\u0430\u043A \u0432\u043E \u0444\u0440\u0430\u043D\u0446\u0443\u0437\u0441\u043A\u0438\u0445, \u0442\u0430\u043A \u0438 \u0437\u0430\u0440\u0443\u0431\u0435\u0436\u043D\u044B\u0445 \u0444\u0438\u043B\u044C\u043C\u0430\u0445. \u0417\u0430 \u0440\u043E\u043B\u044C \u0432 \u0444\u0438\u043B\u044C\u043C\u0435 \u00AB\u0414\u043E\u043B\u0433\u0430\u044F \u043F\u043E\u043C\u043E\u043B\u0432\u043A\u0430\u00BB \u0431\u044B\u043B\u0430 \u0443\u0434\u043E\u0441\u0442\u043E\u0435\u043D\u0430 \u043F\u0440\u0435\u043C\u0438\u0438 \u00AB\u0421\u0435\u0437\u0430\u0440\u00BB \u0432 \u043D\u043E\u043C\u0438\u043D\u0430\u0446\u0438\u0438 \u00AB\u041B\u0443\u0447\u0448\u0430\u044F \u0430\u043A\u0442\u0440\u0438\u0441\u0430 \u0432\u0442\u043E\u0440\u043E\u0433\u043E \u043F\u043B\u0430\u043D\u0430\u00BB. \u0412 2008 \u0433\u043E\u0434\u0443 \u0431\u044B\u043B\u0430 \u0443\u0434\u043E\u0441\u0442\u043E\u0435\u043D\u0430 \u043F\u0440\u0435\u043C\u0438\u0438 \u00AB\u041E\u0441\u043A\u0430\u0440\u00BB \u0432 \u043D\u043E\u043C\u0438\u043D\u0430\u0446\u0438\u0438 \u00AB\u041B\u0443\u0447\u0448\u0430\u044F \u0430\u043A\u0442\u0440\u0438\u0441\u0430\u00BB \u0437\u0430 \u0444\u0438\u043B\u044C\u043C \u00AB\u0416\u0438\u0437\u043D\u044C \u0432 \u0440\u043E\u0437\u043E\u0432\u043E\u043C \u0446\u0432\u0435\u0442\u0435\u00BB, \u0432 \u043A\u043E\u0442\u043E\u0440\u043E\u043C \u0438\u0441\u043F\u043E\u043B\u043D\u0438\u043B\u0430 \u0440\u043E\u043B\u044C \u042D\u0434\u0438\u0442 \u041F\u0438\u0430\u0444. \u041C\u0430\u0440\u0438\u043E\u043D \u041A\u043E\u0442\u0438\u0439\u044F\u0440 \u0441\u0442\u0430\u043B\u0430 \u0432\u0442\u043E\u0440\u043E\u0439 \u0430\u043A\u0442\u0440\u0438\u0441\u043E\u0439 \u0432 \u0438\u0441\u0442\u043E\u0440\u0438\u0438 \u043F\u0440\u0435\u043C\u0438\u0438, \u043A\u043E\u0442\u043E\u0440\u043E\u0439 \u0443\u0434\u0430\u043B\u043E\u0441\u044C \u043F\u043E\u043B\u0443\u0447\u0438\u0442\u044C \u00AB\u041E\u0441\u043A\u0430\u0440\u00BB \u0437\u0430 \u0440\u043E\u043B\u044C \u0432 \u0444\u0438\u043B\u044C\u043C\u0435 \u043D\u0430 \u0438\u043D\u043E\u0441\u0442\u0440\u0430\u043D\u043D\u043E\u043C \u044F\u0437\u044B\u043A\u0435. \u0420\u0430\u043D\u0435\u0435 \u0434\u043E\u0431\u0438\u0442\u044C\u0441\u044F \u0442\u0430\u043A\u043E\u0433\u043E \u0443\u0441\u043F\u0435\u0445\u0430 \u0443\u0434\u0430\u043B\u043E\u0441\u044C \u043B\u0438\u0448\u044C \u0438\u0442\u0430\u043B\u044C\u044F\u043D\u043A\u0435 \u0421\u043E\u0444\u0438 \u041B\u043E\u0440\u0435\u043D, \u043F\u043E\u043B\u0443\u0447\u0438\u0432\u0448\u0435\u0439 \u00AB\u041E\u0441\u043A\u0430\u0440\u0430\u00BB \u0432 1962 \u0433\u043E\u0434\u0443. \u0422\u0430\u043A\u0436\u0435 \u0437\u0430 \u0444\u0438\u043B\u044C\u043C \u00AB\u0416\u0438\u0437\u043D\u044C \u0432 \u0440\u043E\u0437\u043E\u0432\u043E\u043C \u0446\u0432\u0435\u0442\u0435\u00BB \u041A\u043E\u0442\u0438\u0439\u044F\u0440 \u043F\u043E\u043B\u0443\u0447\u0438\u043B\u0430 \u043F\u0440\u0435\u043C\u0438\u044E \u00AB\u0417\u043E\u043B\u043E\u0442\u043E\u0439 \u0433\u043B\u043E\u0431\u0443\u0441\u00BB \u0432 \u043D\u043E\u043C\u0438\u043D\u0430\u0446\u0438\u0438 \u00AB\u041B\u0443\u0447\u0448\u0430\u044F \u0436\u0435\u043D\u0441\u043A\u0430\u044F \u0440\u043E\u043B\u044C (\u043A\u043E\u043C\u0435\u0434\u0438\u044F \u0438\u043B\u0438 \u043C\u044E\u0437\u0438\u043A\u043B)\u00BB \u0438 \u043F\u0440\u0435\u043C\u0438\u044E \u0411\u0440\u0438\u0442\u0430\u043D\u0441\u043A\u043E\u0439 \u0430\u043A\u0430\u0434\u0435\u043C\u0438\u0438 \u043A\u0438\u043D\u043E- \u0438 \u0442\u0435\u043B\u0435\u0438\u0441\u043A\u0443\u0441\u0441\u0442\u0432\u0430 BAFTA \u0432 \u043D\u043E\u043C\u0438\u043D\u0430\u0446\u0438\u0438 \u00AB\u041B\u0443\u0447\u0448\u0430\u044F \u0430\u043A\u0442\u0440\u0438\u0441\u0430\u00BB."@ru ,
+		"Marion Cotillard (Paris, Frantzia, 1975eko irailaren 30a) aktore frantziarra da. Bi Cesar Sarien irabazlea da (2005 eta 2008). 2008an La Vie En Rose filmean antzezteagatik Emakumezko aktore onenaren Oscar Saria irabazi zuen."@eu ,
+		"Marion Cotillard (Par\u00EDs, 30 de setembre de 1975) \u00E9s una actriu francesa que ha guanyat diversos premis internacionals i que es va fer molt popular per la seva interpretaci\u00F3 d'\u00C9dith Piaf a la pel\u00B7l\u00EDcula La vida en rosa.Accedeix a la consagraci\u00F3 internacional el 2008, guanyant de manera successiva el Globus d'Or a la millor actriu musical o c\u00F2mica, el BAFTA a la millor actriu, el C\u00E9sar i l'Oscar a la millor actriu per a la seva interpretaci\u00F3 d'\u00C9dith Piaf a La M\u00F4me (rebatejat com La vida en rosa)."@ca ,
+		"\uB9C8\uB9AC\uC639 \uCF54\uD2F0\uC57C\uB974(\uD504\uB791\uC2A4\uC5B4: Marion Cotillard, 1975\uB144 9\uC6D4 30\uC77C ~ )\uB294 \uD504\uB791\uC2A4\uC758 \uBC30\uC6B0\uC774\uB2E4. \uADF8\uB140\uB294 \u300A\uD0DD\uC2DC\u300B, \u300A\uD4E8\uB9AC\uC544\u300B, \u300A\uB7EC\uBE0C \uBBF8 \uC774\uD504 \uC720 \uB370\uC5B4\u300B \uB4F1\uC758 \uC601\uD654\uB97C \uD1B5\uD574 \uD3C9\uB2E8\uC758 \uD638\uD3C9\uC744 \uBC1B\uC544 \uC654\uC73C\uBA70, \u300A\uC778\uAC8C\uC774\uC9C0\uBA3C\uD2B8\u300B \uCD9C\uC5F0\uC73C\uB85C \uC138\uC790\uB974 \uC0C1 \uC5EC\uC6B0\uC870\uC5F0\uC0C1\uC744 \uC218\uC0C1\uD558\uAE30\uB3C4 \uD588\uB2E4. \uADF8\uB140\uB294 \uC5D0\uB514\uD2B8 \uD53C\uC544\uD504\uC758 \uC77C\uC0DD\uC744 \uADF8\uB9B0 \uC601\uD654 \u300A\u300B\uC758 \uC8FC\uC5F0\uC744 \uB9E1\uC544 \uBBF8\uAD6D \uC544\uCE74\uB370\uBBF8\uC0C1, \uC601\uAD6D \uC544\uCE74\uB370\uBBF8\uC0C1, \uC138\uC790\uB974 \uC0C1, \uACE8\uB4E0 \uAE00\uB85C\uBE0C\uC0C1 \uC5EC\uC6B0\uC8FC\uC5F0\uC0C1\uC744 \uD729\uC4F8\uC5C8\uB2E4. \uC774 \uC911 \uC544\uCE74\uB370\uBBF8\uC0C1 \uC5EC\uC6B0\uC8FC\uC5F0\uC0C1\uC740 \uD504\uB791\uC2A4\uC5B4\uB85C \uC5F0\uAE30\uD55C \uC601\uD654 \uBC30\uC6B0\uC5D0\uAC8C \uCC98\uC74C\uC73C\uB85C \uC8FC\uC5B4\uC9C4 \uC0C1\uC774\uC5C8\uB2E4. \uC774\uD6C4 \uADF8\uB140\uB294 \u300A\uD37C\uBE14\uB9AD \uC5D0\uB108\uBBF8\u300B, \u300A\u300B, \u300A\uC778\uC149\uC158\u300B\uB4F1\uC758 \uC601\uD654\uC5D0 \uC8FC\uC5F0\uC73C\uB85C \uCD9C\uC5F0\uD558\uC600\uB2E4."@ko ,
+		"\u30DE\u30EA\u30AA\u30F3\u30FB\u30B3\u30C6\u30A3\u30E4\u30FC\u30EB\uFF08Marion Cotillard, 1975\u5E749\u670830\u65E5 - \uFF09\u306F\u3001\u30D5\u30E9\u30F3\u30B9\u306E\u5973\u512A\u30022007\u5E74\u306E\u300E\u30A8\u30C7\u30A3\u30C3\u30C8\u30FB\u30D4\u30A2\u30D5\u301C\u611B\u306E\u8B83\u6B4C\u301C\u300F\u3067\u30A8\u30C7\u30A3\u30C3\u30C8\u30FB\u30D4\u30A2\u30D5\u5F79\u3092\u6F14\u3058\u3001\u7B2C80\u56DE\u30A2\u30AB\u30C7\u30DF\u30FC\u8CDE\u4E3B\u6F14\u5973\u512A\u8CDE\u3082\u53D7\u8CDE\u3057\u305F\u3002"@ja ,
+		"Marion Cotillard (Parijs, 30 september 1975) is een Franse actrice. In 2008 ontving ze een Oscar voor Beste Vrouwelijke Hoofdrol voor haar vertolking van de Franse zangeres \u00C9dith Piaf in La M\u00F4me."@nl ,
+		"Marion Cotillard est une actrice fran\u00E7aise n\u00E9e le 30 septembre 1975 \u00E0 Paris. Active au cin\u00E9ma depuis la fin des ann\u00E9es 1990, elle est r\u00E9v\u00E9l\u00E9e au grand public par son r\u00F4le de compagne du h\u00E9ros dans la saga Taxi, qu'elle incarne dans les trois premiers films de la franchise. En f\u00E9vrier 2005, elle re\u00E7oit la premi\u00E8re des grandes r\u00E9compenses qui vont jalonner sa carri\u00E8re : le C\u00E9sar de la meilleure actrice dans un second r\u00F4le, pour seulement huit minutes de pr\u00E9sence \u00E0 l'\u00E9cran dans le film Un long dimanche de fian\u00E7ailles de Jean-Pierre Jeunet. En 2008, c'est la cons\u00E9cration internationale : son interpr\u00E9tation de la chanteuse \u00C9dith Piaf dans le film biographique La M\u00F4me lui attire de nombreuses r\u00E9compenses, dont le C\u00E9sar, le Golden Globe, le BAFTA et l'Oscar de la meilleure actrice. Elle devient notamment la premi\u00E8re Fran\u00E7aise \u00E0 \u00EAtre d\u00E9sign\u00E9e \u00AB meilleure actrice \u00BB par l'Acad\u00E9mie des arts et des sciences du cin\u00E9ma pour un film tourn\u00E9 en langue fran\u00E7aise, et seulement la deuxi\u00E8me actrice \u00E0 gagner ce prix pour un r\u00F4le parl\u00E9 dans une langue \u00E9trang\u00E8re. Ce triomphe critique l'accompagne \u00E9galement dans les ann\u00E9es 2010 pour ses interpr\u00E9tations dans les films De rouille et d'os, The Immigrant, Deux jours, une nuit et Macbeth, et consacre une carri\u00E8re internationale aux choix artistiques vari\u00E9s, la menant \u00E0 plusieurs reprises au Festival de Cannes. R\u00E9guli\u00E8rement lou\u00E9e pour la qualit\u00E9 de son jeu d'actrice, elle collabore notamment avec des r\u00E9alisateurs renomm\u00E9s tels que Tim Burton, Jean-Pierre Jeunet, Ridley Scott, Woody Allen, Christopher Nolan, Steven Soderbergh, Jacques Audiard, les fr\u00E8res Dardenne,Rob Marshall, Xavier Dolan, Robert Zemeckis ou Arnaud Desplechin."@fr ,
+		"Marion Cotillard (lahir di Paris, Prancis, 30 September 1975; umur 44 tahun) adalah seorang pemeran berkebangsaan Prancis yang memenangkan sebuah penghargaan Oscar, sebuah penghargaan BAFTA, sebuah penghargaan Golden Globe, dan dua C\u00E9sar Award. Dia berkarier di dunia film sejak tahun 1998."@in ,
+		"\u041C\u0430\u0440\u0456\u043E\u0301\u043D \u041A\u043E\u0442\u0456\u044F\u0301\u0440 (\u0444\u0440. Marion Cotillard; \u043D\u0430\u0440. 30 \u0432\u0435\u0440\u0435\u0441\u043D\u044F 1975, \u041F\u0430\u0440\u0438\u0436, \u0424\u0440\u0430\u043D\u0446\u0456\u044F) \u2014 \u0444\u0440\u0430\u043D\u0446\u0443\u0437\u044C\u043A\u0430 \u0430\u043A\u0442\u043E\u0440\u043A\u0430 \u0442\u0435\u0430\u0442\u0440\u0443, \u0442\u0435\u043B\u0435\u0431\u0430\u0447\u0435\u043D\u043D\u044F \u0442\u0430 \u043A\u0456\u043D\u043E. \u0417\u0430 \u0440\u043E\u043B\u044C \u0443 \u0441\u0442\u0440\u0456\u0447\u0446\u0456 \u00AB\u0414\u043E\u0432\u0433\u0456 \u0437\u0430\u0440\u0443\u0447\u0438\u043D\u0438\u00BB (2004) \u0431\u0443\u043B\u0430 \u0443\u0434\u043E\u0441\u0442\u043E\u0454\u043D\u0430 \u043F\u0440\u0435\u043C\u0456\u0457 \u00AB\u0421\u0435\u0437\u0430\u0440\u00BB \u0443 \u043D\u043E\u043C\u0456\u043D\u0430\u0446\u0456\u0457 \u00AB\u041D\u0430\u0439\u043A\u0440\u0430\u0449\u0430 \u0430\u043A\u0442\u043E\u0440\u043A\u0430 \u0434\u0440\u0443\u0433\u043E\u0433\u043E \u043F\u043B\u0430\u043D\u0443\u00BB. 2008 \u0440\u043E\u043A\u0443 \u0431\u0443\u043B\u0430 \u0443\u0434\u043E\u0441\u0442\u043E\u0454\u043D\u0430 \u043F\u0440\u0435\u043C\u0456\u0457 \u00AB\u041E\u0441\u043A\u0430\u0440\u00BB \u0443 \u043D\u043E\u043C\u0456\u043D\u0430\u0446\u0456\u0457 \u00AB\u041D\u0430\u0439\u043A\u0440\u0430\u0449\u0430 \u0430\u043A\u0442\u043E\u0440\u043A\u0430\u00BB \u0437\u0430 \u0444\u0456\u043B\u044C\u043C \u00AB\u0416\u0438\u0442\u0442\u044F \u0443 \u0440\u043E\u0436\u0435\u0432\u043E\u043C\u0443 \u043A\u043E\u043B\u044C\u043E\u0440\u0456\u00BB, \u0432 \u044F\u043A\u043E\u043C\u0443 \u0432\u0438\u043A\u043E\u043D\u0430\u043B\u0430 \u0440\u043E\u043B\u044C \u0415\u0434\u0456\u0442 \u041F\u0456\u0430\u0444. \u041C\u0430\u0440\u0456\u043E\u043D \u041A\u043E\u0442\u0456\u044F\u0440 \u0441\u0442\u0430\u043B\u0430 \u0434\u0440\u0443\u0433\u043E\u044E \u0430\u043A\u0442\u043E\u0440\u043A\u043E\u044E, \u044F\u043A\u0456\u0439 \u0443\u0434\u0430\u043B\u043E\u0441\u044F \u0437\u0434\u043E\u0431\u0443\u0442\u0438 \u043F\u0440\u0435\u043C\u0456\u044E \u00AB\u041E\u0441\u043A\u0430\u0440\u00BB \u0437\u0430 \u0440\u043E\u043B\u044C \u0443 \u0444\u0456\u043B\u044C\u043C\u0456 \u0456\u043D\u043E\u0437\u0435\u043C\u043D\u043E\u044E \u043C\u043E\u0432\u043E\u044E. \u0420\u0430\u043D\u0456\u0448\u0435 \u0446\u0435\u0439 \u0440\u0435\u043A\u043E\u0440\u0434 \u0443\u0442\u0440\u0438\u043C\u0443\u0432\u0430\u043B\u0430 \u0456\u0442\u0430\u043B\u0456\u0439\u043A\u0430 \u0421\u043E\u0444\u0456 \u041B\u043E\u0440\u0435\u043D, \u044F\u043A\u0430 \u043E\u0442\u0440\u0438\u043C\u0430\u043B\u0430 \u00AB\u041E\u0441\u043A\u0430\u0440\u0430\u00BB 1962 \u0440\u043E\u043A\u0443. \u0422\u0430\u043A\u043E\u0436 \u0437\u0430 \u0444\u0456\u043B\u044C\u043C \u00AB\u0416\u0438\u0442\u0442\u044F \u0443 \u0440\u043E\u0436\u0435\u0432\u043E\u043C\u0443 \u043A\u043E\u043B\u044C\u043E\u0440\u0456\u00BB \u041A\u043E\u0442\u0456\u044F\u0440 \u043E\u0442\u0440\u0438\u043C\u0430\u043B\u0430 \u043F\u0440\u0435\u043C\u0456\u044E \u00AB\u0417\u043E\u043B\u043E\u0442\u0438\u0439 \u0433\u043B\u043E\u0431\u0443\u0441\u00BB \u0443 \u043D\u043E\u043C\u0456\u043D\u0430\u0446\u0456\u0457 \u00AB\u041D\u0430\u0439\u043A\u0440\u0430\u0449\u0430 \u0436\u0456\u043D\u043E\u0447\u0430 \u0440\u043E\u043B\u044C (\u043A\u043E\u043C\u0435\u0434\u0456\u044F \u0430\u0431\u043E \u043C\u044E\u0437\u0438\u043A\u043B)\u00BB \u0456 \u043F\u0440\u0435\u043C\u0456\u044E \u0411\u0440\u0438\u0442\u0430\u043D\u0441\u044C\u043A\u043E\u0457 \u0430\u043A\u0430\u0434\u0435\u043C\u0456\u0457 \u0442\u0435\u043B\u0435\u0431\u0430\u0447\u0435\u043D\u043D\u044F \u0442\u0430 \u043A\u0456\u043D\u043E\u043C\u0438\u0441\u0442\u0435\u0446\u0442\u0432\u0430 (BAFTA) \u0443 \u043D\u043E\u043C\u0456\u043D\u0430\u0446\u0456\u0457 \u00AB\u041D\u0430\u0439\u043A\u0440\u0430\u0449\u0430 \u0430\u043A\u0442\u043E\u0440\u043A\u0430\u00BB."@uk ,
+		"Marion Cotillard (IPA: [ma.\u0281j\u0254\u0303 k\u0254.ti.ja\u0281]; Parigi, 30 settembre 1975) \u00E8 un'attrice, modella, cantante e doppiatrice francese. La partecipazione a Taxxi nel 1998, nonch\u00E9 ai seguiti Taxxi 2 (2000) e Taxxi 3 (2003), le ha garantito notoriet\u00E0 nel paese d'origine, al quale \u00E8 rimasta artisticamente legata nella prima fase della carriera. Ha raggiunto fama a livello internazionale per le collaborazioni con registi come Tim Burton, Ridley Scott, Christopher Nolan, Woody Allen. Nel 2007, la sua interpretazione della cantante \u00C9dith Piaf in La Vie en rose le ha valso, tra gli altri riconoscimenti, l'Oscar alla miglior attrice (il primo per una performance in lingua francese), il BAFTA alla migliore attrice protagonista, il Premio C\u00E9sar per la migliore attrice e il Golden Globe per la migliore attrice in un film commedia o musicale. Nel 2015 ha ricevuto una seconda nomination agli Oscar come miglior attrice per la sua interpretazione in Due giorni, una notte di Jean-Pierre e Luc Dardenne. \u00C8 il volto di Lady Dior borse dal 2008 ed \u00E8 apparso in pi\u00F9 di 200 copertine di riviste in tutto il mondo. Tra loro ci sono Vogue, Elle, Marie Claire, Variety, Harper's Bazaar, Vanity Fair, Madame Figaro, Glamour, Grazia, Paris Match, W, The Hollywood Reporter e Wall Street Journal Magazine. \u00C8 stata anche sulla copertina del primo numero di Dior Magazine nel settembre 2012. Tra le attrici francesi di maggior successo, il 15 marzo 2010 \u00E8 diventata Chevalier (Cavaliere) dell'Ordre des arts et des lettres."@it ,
+		"Marion Cotillard, f\u00F6dd 30 september 1975 i Paris, \u00E4r en fransk sk\u00E5despelare. Marion Cotillards f\u00F6r\u00E4ldrar, Jean-Claude Cotillard och Niseema Theillaud, \u00E4r b\u00E5da erfarna inom film- och teaterv\u00E4rlden. Fadern \u00E4r sk\u00E5despelare, manusf\u00F6rfattare och regiss\u00F6r och modern \u00E4r sk\u00E5despelare och dramal\u00E4rare. Marion Cotillard debuterade som sk\u00E5despelare redan som barn i en av faderns upps\u00E4ttningar f\u00F6r att sedan g\u00E5 vidare och studera drama i Orl\u00E9ans. I februari 2008 bel\u00F6nades Marion Cotillard med en Oscar i kategorin b\u00E4sta kvinnliga huvudroll, f\u00F6r rollen som Edith Piaf i La vie en rose (2007). I b\u00F6rjan av mars 2008 uttalade Cotillard sig om att kollapsen av World Trade Center i New York inte var en terrorattack, utan att den i st\u00E4llet iscensattes av ekonomiska sk\u00E4l. Detta skapade en v\u00E5g av kritik."@sv ,
+		"Marion Cotillard (Par\u00EDs; 30 de septiembre de 1975) es una actriz, cantante, compositora y cantautora francesa ganadora de los premios \u00D3scar, BAFTA, C\u00E9sar y Globo de Oro por su interpretaci\u00F3n de \u00C9dith Piaf en la pel\u00EDcula La vida en rosa. Es la \u00FAnica mujer que ha ganado un \u00D3scar a la mejor actriz por una pel\u00EDcula francesa. Tambi\u00E9n es ambientalista y portavoz de Greenpeace. En 2012, recibi\u00F3 numerosos elogios por su actuaci\u00F3n como St\u00E9phanie en De \u00F3xido y hueso, y fue galardonada con el , , Premio Sant Jordi,  y el Premio de la Mejor Actriz en el , adem\u00E1s del hecho de que recibi\u00F3 nominaciones para el Globo de Oro, para el Premio BAFTA, para el Premio del Sindicato de Actores, para el Premio de la Cr\u00EDtica Cinematogr\u00E1fica, para el Premio AACTA, para el Premio Lumi\u00E8re y para el Premio C\u00E9sar. Ella es el rostro oficial de los bolsos Lady Dior desde el 2008, y ha aparecido en m\u00E1s de 200 portadas de revistas de todo el mundo.\u200B Entre ellas, se encuentran: Vogue, Elle, Marie Claire, Variety, Harper's Bazaar, Vanity Fair, , Glamour, W, The Hollywood Reporter y Wall Street Journal Magazine. Tambi\u00E9n apareci\u00F3 en la portada del primer n\u00FAmero de la revista Dior, en septiembre del 2012.\u200B"@es ,
+		"\u0645\u0627\u0631\u064A\u0648\u0646 \u0643\u0648\u062A\u064A\u0627\u0631 (\u0628\u0627\u0644\u0641\u0631\u0646\u0633\u064A\u0629: Marion Cotillard) \u0647\u064A \u0645\u0645\u062B\u0644\u0629 \u0641\u0631\u0646\u0633\u064A\u0629 \u0645\u0646 \u0645\u0648\u0627\u0644\u064A\u062F 30 \u0633\u0628\u062A\u0645\u0628\u0631\u060C 1975\u060C \u0648\u0635\u0644\u062A \u0644\u0644\u0634\u0647\u0631\u0629 \u0639\u0644\u0649 \u0627\u0644\u0645\u0633\u062A\u0648\u0649 \u0627\u0644\u0639\u0627\u0644\u0645\u064A \u0628\u0641\u0636\u0644 \u0645\u0634\u0627\u0631\u0643\u0627\u062A\u0647\u0627 \u0645\u0639 \u0645\u062E\u0631\u062C\u064A\u0646 \u0623\u0645\u062B\u0627\u0644 \u062A\u064A\u0645 \u0628\u064A\u0631\u062A\u0648\u0646 \u0648\u0631\u064A\u062F\u0644\u064A \u0633\u0643\u0648\u062A \u0648\u0643\u0631\u064A\u0633\u062A\u0648\u0641\u0631 \u0646\u0648\u0644\u0627\u0646 \u0648\u0648\u0648\u062F\u064A \u0622\u0644\u0646. \u0641\u064A \u0639\u0627\u0645 2007\u060C \u0642\u0627\u0645\u062A \u0628\u062F\u0648\u0631 \u0627\u0644\u0645\u063A\u0646\u064A\u0629 \u0625\u062F\u064A\u062B \u0628\u064A\u0627\u0641 \u0641\u064A \u0641\u064A\u0644\u0645 \u0627\u0644\u062D\u064A\u0627\u0629 \u0627\u0644\u0648\u0631\u062F\u064A\u0629 \u0648\u0627\u0633\u062A\u062D\u0642\u062A \u0639\u0644\u064A\u0647 -\u0645\u0646 \u0628\u064A\u0646 \u062C\u0648\u0627\u0626\u0632 \u0627\u062E\u0631\u0649- \u062C\u0627\u0626\u0632\u0629 \u0627\u0644\u0623\u0648\u0633\u0643\u0627\u0631 \u0644\u0623\u0641\u0636\u0644 \u0645\u0645\u062B\u0644\u0629 (\u0648\u0647\u064A \u0627\u0644\u0645\u0631\u0629 \u0627\u0644\u0623\u0648\u0644\u0649 \u0639\u0644\u0649 \u0627\u0644\u0625\u0637\u0644\u0627\u0642 \u0644\u0623\u062F\u0627\u0621 \u0628\u0627\u0644\u0644\u063A\u0629 \u0627\u0644\u0641\u0631\u0646\u0633\u064A\u0629)\u060C \u0648\u062C\u0627\u0626\u0632\u0629 \u0628\u0627\u0641\u062A\u0627 \u0644\u0623\u0641\u0636\u0644 \u0645\u0645\u062B\u0644\u0629 \u0628\u062F\u0648\u0631 \u0627\u0644\u0628\u0637\u0648\u0644\u0629\u060C \u0648\u062C\u0627\u0626\u0632\u0629 \u0633\u064A\u0632\u0631 \u0644\u0623\u0641\u0636\u0644 \u0645\u0645\u062B\u0644\u0629\u060C \u0648\u062C\u0627\u0626\u0632\u0629 \u062C\u0648\u0644\u062F\u0646 \u062C\u0644\u0648\u0628 \u0644\u0623\u0641\u0636\u0644 \u0645\u0645\u062B\u0644\u0629 \u0641\u064A \u0641\u064A\u0644\u0645 \u0643\u0648\u0645\u064A\u062F\u064A \u0623\u0648 \u0645\u0648\u0633\u064A\u0642\u064A. \u0648\u0647\u064A \u0639\u0627\u0631\u0636\u0629 \u0644\u062D\u0642\u0627\u0626\u0628 \u0645\u0633 \u062F\u064A\u0648\u0631 \u0645\u0646\u0630 \u0639\u0627\u0645 2008 \u0648\u0642\u062F \u0638\u0647\u0631\u062A \u0641\u064A \u0623\u0643\u062B\u0631 \u0645\u0646 200 \u063A\u0644\u0627\u0641 \u0645\u062C\u0644\u0629 \u0628\u062C\u0645\u064A\u0639 \u0623\u0646\u062D\u0627\u0621 \u0627\u0644\u0639\u0627\u0644\u0645. \u0645\u0646 \u0628\u064A\u0646\u0647\u0645 \u0645\u062C\u0644\u0629 \u0641\u0648\u063A \u0648\u0625\u0644 \u0648\u0645\u0627\u0631\u064A \u0643\u0644\u064A\u0631 \u0648\u0641\u0627\u0631\u064A\u062A\u064A \u0648\u0647\u0627\u0631\u0628\u0631 \u0628\u0627\u0632\u0627\u0631 \u0648\u0641\u0627\u0646\u064A\u062A\u064A \u0641\u064A\u0631 \u0648\u0645\u062F\u0627\u0645 \u0641\u064A\u063A\u0627\u0631\u0648 \u0648\u062C\u0644\u0627\u0645\u0648\u0631 \u0648\u062C\u0631\u0627\u062A\u0633\u064A\u0627 \u0648\u0628\u0627\u0631\u064A \u0645\u0627\u062A\u0634 \u0648\u0645\u062C\u0644\u0629 W \u0648\u0647\u0648\u0644\u064A\u0648\u0648\u062F \u0631\u064A\u0628\u0648\u0631\u062A\u0631 \u0648\u0645\u062C\u0644\u0629 \u0648\u0648\u0644 \u0633\u062A\u0631\u064A\u062A \u062C\u0648\u0631\u0646\u0627\u0644\u060C \u0648\u0644\u0642\u062F \u0643\u0627\u0646\u062A \u0623\u064A\u0636\u0627 \u0639\u0644\u0649 \u063A\u0644\u0627\u0641 \u0627\u0644\u0639\u062F\u062F \u0627\u0644\u0623\u0648\u0644 \u0645\u0646 \u0645\u062C\u0644\u0629 \u062F\u064A\u0648\u0631 \u0641\u064A \u0633\u0628\u062A\u0645\u0628\u0631 \u0639\u0627\u0645 2012. \u0645\u0646 \u0628\u064A\u0646 \u0627\u0644\u0645\u0645\u062B\u0644\u0627\u062A \u0627\u0644\u0641\u0631\u0646\u0633\u064A\u0627\u062A \u0627\u0644\u0623\u0643\u062B\u0631 \u0646\u062C\u0627\u062D\u0627\u060C \u0623\u0635\u0628\u062D\u062A \u0641\u0627\u0631\u0633\u0629 \u0648\u0633\u0627\u0645 \u0627\u0644\u0641\u0646\u0648\u0646 \u0648\u0627\u0644\u0622\u062F\u0627\u0628 \u0641\u064A 15 \u0645\u0646 \u0645\u0627\u0631\u0633 \u0639\u0627\u0645 2010."@ar ,
+		"Marion Cotillard (ur. 30 wrze\u015Bnia 1975 w Pary\u017Cu) \u2212 francuska aktorka, laureatka Oscara z 2008 roku za rol\u0119 \u00C9dith Piaf w filmie Niczego nie \u017Ca\u0142uj\u0119 \u2013 Edith Piaf."@pl ,
+		"Is ban-aisteoir Francach \u00ED Marion Cotillard. Rugadh \u00ED ar an 30 Me\u00E1n F\u00F3mhair 1975. Bhuaigh s\u00ED an gradam Ban-Aisteoir is Fearr sna gradaim Academy i 2008. Bhuaigh s\u00ED an gradam Ban-Aisteoir is Fearr i gCoim\u00E9ide n\u00F3 Ceoldr\u00E1ma sna gradaim Golden Globe i 2007."@ga ,
+		"Marion Cotillard (French: [ma\u0281j\u0254\u0303 k\u0254tija\u0281] (); born 30 September 1975) is a French actress, singer-songwriter, musician, and environmentalist. She is the recipient of an Academy Award, a BAFTA Award, a Golden Globe Award, two C\u00E9sar Awards, a European Award, and a Lumi\u00E8res Award. She became a Knight of the Order of Arts and Letters in France in 2010, and was promoted to Officer in 2016. She was the face of Lady Dior handbag from 2008 to 2017. In 2020, she became the new face of the Chanel No. 5 fragrance. Cotillard had her first English-language role in the television series Highlander (1993) and made her film debut in The Story of a Boy Who Wanted to Be Kissed (1994). Her breakthrough came in the successful French film Taxi (1998), which earned her a C\u00E9sar Award nomination. She made the transition into Hollywood in Tim Burton's Big Fish (2003), and subsequently appeared in A Very Long Engagement (2004), for which she won her first C\u00E9sar Award. For her portrayal of French singer \u00C9dith Piaf in La Vie en Rose (2007), Cotillard won her second C\u00E9sar Award, a BAFTA Award, a Golden Globe Award, a Lumi\u00E8res Award and the Academy Award for Best Actress, becoming the first and (as of 2020) only actor to win an Academy Award for a French-language performance, and also the second actress and one of only six actors to have won this award for a foreign language performance. Her performances in Nine (2009) and Rust and Bone (2012) earned Cotillard two Golden Globe nominations, and for Two Days, One Night (2014), she earned a second Academy Award nomination for Best Actress, which was also her second nomination for a French-language film. Cotillard became one of only six actors to receive multiple Academy Award nominations for foreign language performances. Cotillard played Joan of Arc on stage in different countries between 2005 and 2015 in the oratorio Jeanne d'Arc au b\u00FBcher. Her English-language films include Public Enemies (2009), Inception (2010), The Dark Knight Rises (2012), Macbeth (2015), and Allied (2016). She provided voice acting for the animated films The Little Prince (2015), April and the Extraordinary World (2015) and the French version of Minions (2015). Her other notable French and Belgian films include La Belle Verte (1996), War in the Highlands (1999), Pretty Things (2001), Love Me If You Dare (2003), Innocence (2004), Toi et Moi (2006) and Dikkenek (2006)."@en ;
+	dbo:activeYearsStartYear	"1993"^^xsd:gYear ;
+	dbo:birthYear	"1975"^^xsd:gYear ;
+	dbo:occupation	dbr:Marion_Cotillard__PersonFunction__1 .
+@prefix ns59:	<http://www.w3.org/2006/03/wn/wn20/instances/> .
+dbr:Marion_Cotillard	dbp:wordnet_type	ns59:synset-actor-noun-1 ;
+	dbo:wikiPageLength	"115409"^^xsd:nonNegativeInteger .
+dbr:Jacques_Audiard	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/Annette_(film)>	dbo:wikiPageWikiLink	dbr:Marion_Cotillard ;
+	dbp:starring	dbr:Marion_Cotillard ;
+	dbo:starring	dbr:Marion_Cotillard .
+dbr:List_of_awards_and_nominations_received_by_Paul_Rudd	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:List_of_awards_and_nominations_received_by_Steve_Carell	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/Diary_of_a_Chambermaid_(2015_film)>	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:Guillaume_Canet	dbp:partner	dbr:Marion_Cotillard ;
+	dbo:partner	dbr:Marion_Cotillard ;
+	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/No_Limit_(TV_series)>	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/18th_Lumi\u00E8res_Awards>	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:Luisa	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:List_of_Canadian_films_of_2015	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/The_Little_Prince_(2015_film)>	dbo:wikiPageWikiLink	dbr:Marion_Cotillard ;
+	dbo:starring	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/27th_C\u00E9sar_Awards>	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/30th_C\u00E9sar_Awards>	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/33rd_C\u00E9sar_Awards>	dbp:bestActress	dbr:Marion_Cotillard ;
+	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/42nd_C\u00E9sar_Awards>	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/43rd_C\u00E9sar_Awards>	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:Taxi_2	dbo:wikiPageWikiLink	dbr:Marion_Cotillard ;
+	dbp:starring	dbr:Marion_Cotillard ;
+	dbo:starring	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/Highlander:_The_Series_(season_1)>	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:Aya_Ishizu	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:List_of_French_films_of_2007	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:Detroit_Film_Critics_Society_Award_for_Best_Supporting_Actress	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/2014_National_Society_of_Film_Critics_Awards>	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:Karl_Templer	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:Old_Cape_Cod	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:List_of_Canadian_films_of_2016	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:Red_carpet_fashion_in_2008	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:Boston_Society_of_Film_Critics_Awards_2014	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:Hollywood_Actress_Award	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/18th_Screen_Actors_Guild_Awards>	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/19th_Screen_Actors_Guild_Awards>	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/Sparks_(band)>	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/James_Gordon_(character)>	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/Leonora_(given_name)>	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:Hasty_Pudding_Woman_of_the_Year	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:Sandra_Choi	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:List_of_Belgian_Academy_Award_winners_and_nominees	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:Toronto_Film_Critics_Association_Awards_2014	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:Disneynature	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/Dolittle_(film)>	dbo:wikiPageWikiLink	dbr:Marion_Cotillard ;
+	dbo:starring	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/Gravity_(2013_film)>	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/Nine_(2009_live-action_film)>	dbp:extra	dbr:Marion_Cotillard ;
+	dbo:wikiPageWikiLink	dbr:Marion_Cotillard ;
+	dbo:starring	dbr:Marion_Cotillard .
+dbr:Big_Fish	dbo:wikiPageWikiLink	dbr:Marion_Cotillard ;
+	dbp:starring	dbr:Marion_Cotillard ;
+	dbo:starring	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/Les_Mis\u00E9rables_(2012_film)>	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:Midnight_in_Paris	dbo:wikiPageWikiLink	dbr:Marion_Cotillard ;
+	dbo:starring	dbr:Marion_Cotillard .
+dbr:Inception	dbo:wikiPageWikiLink	dbr:Marion_Cotillard ;
+	dbo:starring	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/It\u0027s_Only_the_End_of_the_World>	dbo:wikiPageWikiLink	dbr:Marion_Cotillard ;
+	dbo:starring	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/Assassin\u0027s_Creed_(film)>	dbo:wikiPageWikiLink	dbr:Marion_Cotillard ;
+	dbo:starring	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/The_Danish_Girl_(film)>	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:The_Dark_Knight_Rises	dbo:wikiPageWikiLink	dbr:Marion_Cotillard ;
+	dbo:starring	dbr:Marion_Cotillard .
+dbr:A_Very_Long_Engagement	dbo:wikiPageWikiLink	dbr:Marion_Cotillard ;
+	dbp:starring	dbr:Marion_Cotillard ;
+	dbo:starring	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/Contagion_(2011_film)>	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/Juno_(film)>	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/67th_Golden_Globe_Awards>	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/16th_Screen_Actors_Guild_Awards>	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:Screen_Actors_Guild_Award_for_Outstanding_Performance_by_a_Female_Actor_in_a_Leading_Role	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:Joaquin_Phoenix	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/81st_Academy_Awards>	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:Colin_Callender	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/International_Online_Film_Critics\u0027_Poll>	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:Seattle_International_Film_Festival	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:Deauville_American_Film_Festival	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:Village_Voice_Film_Poll	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:Heather_Graham	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:Gransito_Movie_Awards_2008	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:Joaquin_Phoenix_filmography	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/M\u00E9lanie_Laurent>	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/Index_of_World_War_II_articles_(M)>	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:Zuhair_Murad	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/Lucile_Had\u017Eihalilovi\u0107>	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:London_Film_Critics_Circle_Awards_2012	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/66th_British_Academy_Film_Awards>	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+@prefix ns60:	<http://dbpedia.org/resource/Variety_Studio:> .
+ns60:_Actors_on_Actors	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/30th_Independent_Spirit_Awards>	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:Shinobu_Adachi	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/The_Last_Flight_(2009_film)>	dbo:wikiPageWikiLink	dbr:Marion_Cotillard ;
+	dbp:starring	dbr:Marion_Cotillard ;
+	dbo:starring	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/Furia_(film)>	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+wikipedia-en:Marion_Cotillard	foaf:primaryTopic	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/Golden_Globe_Award_for_Best_Actress_\u2013_Motion_Picture_Comedy_or_Musical>	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/List_of_Academy_Award_Winners_for_Best_Picture,_Director,_Actor_and_Actress>	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:Oscar_love_curse	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:List_of_Academy_Award_for_Best_Actress_winners_by_age	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:List_of_Golden_Globe_winners	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:List_of_actors_with_two_or_more_Academy_Award_nominations_in_acting_categories	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:List_of_awards_and_nominations_received_by_Kate_Winslet	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/Franz_Ferdinand_(band)>	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/Warner_Bros._Museum>	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:List_of_Batman_supporting_characters	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:List_of_people_named_Sandra	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:Folake_Olowofoyeku	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/Little_White_Lies_(2010_film)>	dbo:wikiPageWikiLink	dbr:Marion_Cotillard ;
+	dbo:starring	dbr:Marion_Cotillard .
+dbr:John_Cameron_Mitchell	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:Chanel_ready-to-wear_collection	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:List_of_fantasy_films_of_the_2010s	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/Matt_Jones_(photographer)>	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:Archie_Panjabi	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:Michael_Fassbender	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:Rama_Thiaw	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:Cyril_Dion	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:Joseph_Calleja	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/Marion_(given_name)>	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/Gravity_(Gryffin_album)>	dbo:wikiPageWikiLink	dbr:Marion_Cotillard ;
+	dbp:producer	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/Picturehouse_(company)>	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:List_of_French_films_of_2010	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:List_of_LGBT-related_films_of_2010	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:List_of_2012_box_office_number-one_films_in_the_United_States	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:List_of_W_Korea_cover_models	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/Pavl\u00EDna_N\u011Bmcov\u00E1>	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:Kowalski	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/2014_New_York_Film_Critics_Circle_Awards>	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:Juliette_Binoche	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:Cultural_references_to_Macbeth	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/La_Vie_en_rose_(film)>	dbo:wikiPageWikiLink	dbr:Marion_Cotillard ;
+	dbo:starring	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/Innocence_(2004_film)>	dbo:wikiPageWikiLink	dbr:Marion_Cotillard ;
+	dbp:starring	dbr:Marion_Cotillard ;
+	dbo:starring	dbr:Marion_Cotillard .
+dbr:New_York_Film_Critics_Online_Awards_2014	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:MTV_Movie_Award_for_Best_Villain	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:Bane_in_other_media	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:September_30	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/14th_Satellite_Awards>	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/19th_Satellite_Awards>	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:Kabyle_people	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/2016_in_film>	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:April_and_the_Extraordinary_World	dbo:wikiPageWikiLink	dbr:Marion_Cotillard ;
+	dbo:starring	dbr:Marion_Cotillard .
+dbr:Chicago_Film_Critics_Association_Awards_2014	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:Dior	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:September_1975	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:Raoni_Metuktire	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/London_Film_Critics\u0027_Circle_Award_for_Actress_of_the_Year>	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:Hankley_Common	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/Dagmara_Domi\u0144czyk>	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/From_the_Land_of_the_Moon_(film)>	dbo:wikiPageWikiLink	dbr:Marion_Cotillard ;
+	dbp:starring	dbr:Marion_Cotillard ;
+	dbo:starring	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/Jeanne_d\u0027Arc_au_b\u00FBcher>	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:Milena_Agus	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:From_the_Land_of_the_Moon	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:Sachiko_Kojima	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:List_of_awards_and_nominations_received_by_Fergie	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:Hawksley_Workman	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:British_Independent_Film_Awards_2015	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:Basil_Soda	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/List_of_Assassin\u0027s_Creed_characters>	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:Marika_Hayashi	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:A_Good_Year	dbo:wikiPageWikiLink	dbr:Marion_Cotillard ;
+	dbp:starring	dbr:Marion_Cotillard ;
+	dbo:starring	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/Blood_Ties_(2013_film)>	dbo:wikiPageWikiLink	dbr:Marion_Cotillard ;
+	dbp:starring	dbr:Marion_Cotillard ;
+	dbo:starring	dbr:Marion_Cotillard .
+dbr:Rust_and_Bone	dbo:wikiPageWikiLink	dbr:Marion_Cotillard ;
+	dbp:starring	dbr:Marion_Cotillard ;
+	dbo:starring	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/Two_Days,_One_Night>	dbo:wikiPageWikiLink	dbr:Marion_Cotillard ;
+	dbo:starring	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/Bruce_Wayne_(Dark_Knight_trilogy)>	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:List_of_accolades_received_by_Ida	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:Daniel_Pemberton	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/Elle_(film)>	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:List_of_French_films_of_2016	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:Dikkenek	dbo:wikiPageWikiLink	dbr:Marion_Cotillard ;
+	dbp:starring	dbr:Marion_Cotillard ;
+	dbo:starring	dbr:Marion_Cotillard .
+dbr:Bretons	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/Macbeth_(2015_film)>	dbo:wikiPageWikiLink	dbr:Marion_Cotillard ;
+	dbo:starring	dbr:Marion_Cotillard .
+dbr:List_of_European_Academy_Award_Winners_and_Nominees	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:Disability_in_the_arts	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/List_of_The_Daily_Show_episodes_(2015)>	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:List_of_British_films_of_2012	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:List_of_British_films_of_2015	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:List_of_British_films_of_2016	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:Casablanca	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:Christian_Louboutin	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/Lisa_(given_name)>	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/1975>	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/Dr._Dolittle_(franchise)>	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:List_of_Academy_Award_records	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/20th_Critics\u0027_Choice_Awards>	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/C\u00E9sar_Award_for_Best_Actress>	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/List_of_international_presidential_trips_made_by_Fran\u00E7ois_Hollande>	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:Cultural_depictions_of_Joan_of_Arc	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:Joseph_Mount	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:Judi_Dench	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:Together_at_Home	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/Seraphine_(company)>	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/Richard_A._Whiting>	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/Orl\u00E9ans>	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:Peter_Mayle	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:Julien_Rassam	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/Catherine_Jacob_(actress)>	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:Jean-Pierre_Darroussin	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:Olivier_Dahan	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:Olivier_Sitruk	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/Troph\u00E9e_Chopard>	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:List_of_accolades_received_by_La_Vie_en_Rose	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/Chlo\u00E9>	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/St._Louis_Gateway_Film_Critics_Association_Awards_2009>	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/\u00C9ric_Savin>	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:List_of_Kabyle_people	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/1st_Globes_de_Cristal_Awards>	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/H\u00E9aux_de_Br\u00E9hat_Lighthouse>	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/2007_Los_Angeles_Film_Critics_Association_Awards>	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/22nd_Lumi\u00E8res_Awards>	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/24th_C\u00E9sar_Awards>	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/3rd_Globes_de_Cristal_Awards>	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/Trivia_(The_Office)>	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:Cabourg_Film_Festival	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:Costa_Serena	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/C\u00E9sar_Award_for_Most_Promising_Actress>	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:La_Belle_Verte	dbo:wikiPageWikiLink	dbr:Marion_Cotillard ;
+	dbp:starring	dbr:Marion_Cotillard ;
+	dbo:starring	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/Dallas\u2013Fort_Worth_Film_Critics_Association_Awards_2009>	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/Taxi_(1998_film)>	dbo:wikiPageWikiLink	dbr:Marion_Cotillard ;
+	dbo:starring	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/Washington_D.C._Area_Film_Critics_Association_Awards_2012>	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/Taxi_(film_series)>	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:Talia_al_Ghul	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/List_of_Elle_(Quebec)_cover_models>	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/Ismael\u0027s_Ghosts>	dbo:wikiPageWikiLink	dbr:Marion_Cotillard ;
+	dbo:starring	dbr:Marion_Cotillard .
+dbr:List_of_Batman_films_cast_members	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:Rachel_Dawes	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:Melati_and_Isabel_Wijsen	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/Love_Me_If_You_Dare_(film)>	dbo:wikiPageWikiLink	dbr:Marion_Cotillard ;
+	dbo:starring	dbr:Marion_Cotillard .
+dbr:Rei_Igarashi	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:List_of_awards_and_nominations_received_by_Marion_Cotillard	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:Ami_Trivedi	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/C\u00E9sar_Award_for_Best_Supporting_Actress>	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:Gotta_Get_Up	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/The_Immigrant_(2013_film)>	dbo:wikiPageWikiLink	dbr:Marion_Cotillard ;
+	dbo:starring	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/27th_European_Film_Awards>	dbp:bestActress	dbr:Marion_Cotillard ;
+	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:Batman_in_film	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:Jack_Reynor	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:Telluride_Film_Festival_Silver_Medallion	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:Isabel	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/10th_Irish_Film_&_Television_Awards>	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/Miranda_(given_name)>	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/Toi_et_moi_(film)>	dbo:wikiPageWikiLink	dbr:Marion_Cotillard ;
+	dbp:starring	dbr:Marion_Cotillard ;
+	dbo:starring	dbr:Marion_Cotillard .
+dbr:List_of_actors_who_have_played_multiple_roles_in_the_same_film	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/61st_British_Academy_Film_Awards>	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/14th_Screen_Actors_Guild_Awards>	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:List_of_French_actors	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:List_of_French_people	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:Screen_Actors_Guild_Award_for_Outstanding_Performance_by_a_Cast_in_a_Motion_Picture	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/Satellite_Award_for_Best_Supporting_Actress_\u2013_Motion_Picture>	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/2010_Scream_Awards>	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:List_of_American_films_of_2006	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/Dublin_Film_Critics\u0027_Circle>	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:Emma_Stone	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/1975_in_France>	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:Lady_Macbeth	dbp:portrayer	dbr:Marion_Cotillard ;
+	dbo:portrayer	dbr:Marion_Cotillard ;
+	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/List_of_Vogue_(US)_cover_models>	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:Sexual_abuse_in_the_American_film_industry	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/List_of_Conan_episodes_(2013)>	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:Clive_Owen	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:Brad_Pitt	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:Joan_Juliet_Buck	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:Lady_Blue_Shanghai	dbo:wikiPageWikiLink	dbr:Marion_Cotillard ;
+	dbp:starring	dbr:Marion_Cotillard ;
+	dbo:starring	dbr:Marion_Cotillard .
+dbr:Bob_Berney	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/Satellite_Award_for_Best_Cast_\u2013_Motion_Picture>	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/Pretty_Things_(2001_film)>	dbo:wikiPageWikiLink	dbr:Marion_Cotillard ;
+	dbp:starring	dbr:Marion_Cotillard ;
+	dbo:starring	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/Chlo\u00E9_(1996_film)>	dbo:wikiPageWikiLink	dbr:Marion_Cotillard ;
+	dbp:starring	dbr:Marion_Cotillard ;
+	dbo:starring	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/Lisa_(2001_film)>	dbo:wikiPageWikiLink	dbr:Marion_Cotillard ;
+	dbp:starring	dbr:Marion_Cotillard ;
+	dbo:starring	dbr:Marion_Cotillard .
+dbr:War_in_the_Highlands	dbo:wikiPageWikiLink	dbr:Marion_Cotillard ;
+	dbp:starring	dbr:Marion_Cotillard ;
+	dbo:starring	dbr:Marion_Cotillard .
+dbr:League_of_Assassins	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/Unity_(film)>	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:OceanWorld_3D	dbo:wikiPageWikiLink	dbr:Marion_Cotillard ;
+	dbo:narrator	dbr:Marion_Cotillard ;
+	dbp:narrator	dbr:Marion_Cotillard .
+dbr:Evelyn_Frechette	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/The_Black_Box_(2005_film)>	dbo:wikiPageWikiLink	dbr:Marion_Cotillard ;
+	dbp:starring	dbr:Marion_Cotillard ;
+	dbo:starring	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/12th_Satellite_Awards>	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/2007_in_film>	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:List_of_adventure_films_of_the_2000s	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:List_of_biographical_films	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/8\u00BD>	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+ns56:_The_Legend_Continues	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:African-American_Film_Critics_Association_Awards_2007	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:The_355	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/Love_Is_in_the_Air_(2005_film)>	dbo:wikiPageWikiLink	dbr:Marion_Cotillard ;
+	dbo:starring	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/Lena_(name)>	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/A_Private_Affair_(2002_film)>	dbo:wikiPageWikiLink	dbr:Marion_Cotillard ;
+	dbo:starring	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/13th_Lumi\u00E8res_Awards>	dbp:bestActress	dbr:Marion_Cotillard ;
+	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:Tim_Burton	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:John_Dillinger	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/Public_Enemies_(2009_film)>	dbo:wikiPageWikiLink	dbr:Marion_Cotillard ;
+	dbo:starring	dbr:Marion_Cotillard .
+dbr:Macbeth_on_screen	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:Cecily_Strong	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/1975_in_film>	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:Telluride_Film_Festival	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:Woody_Allen	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:List_of_American_films_of_2020	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:List_of_French_Academy_Award_winners_and_nominees	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:New_York_Film_Critics_Online	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/List_of_Late_Night_with_Jimmy_Fallon_episodes_(2009)>	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/2009_in_film>	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:Ksenija_Pavlovic	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:List_of_Belgian_films_of_the_2000s	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:Detroit_Film_Critics_Society	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/Critics\u0027_Choice_Movie_Award_for_Best_Supporting_Actress>	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/87th_Academy_Awards>	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/Washington_D.C._Area_Film_Critics_Association_Award_for_Best_Actress>	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:Toronto_Film_Critics_Association_Award_for_Best_Actress	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:New_York_Film_Critics_Online_Award_for_Best_Actress	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/Dallas\u2013Fort_Worth_Film_Critics_Association_Award_for_Best_Actress>	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:Daniel_Day-Lewis	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:BAFTA_Award_for_Best_Actress_in_a_Leading_Role	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:Online_Film_Critics_Society_Award_for_Best_Actress	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/Critics\u0027_Choice_Movie_Award_for_Best_Actress>	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/Satellite_Award_for_Best_Actress_\u2013_Motion_Picture>	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:Vancouver_Film_Critics_Circle_Award_for_Best_Actress	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:Marrakech_International_Film_Festival	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:List_of_science_fiction_films_of_the_1990s	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:List_of_2020_box_office_number-one_films_in_the_United_States	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/38th_C\u00E9sar_Awards>	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:Globe_de_Cristal_Award_for_Best_Actress	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/20th_European_Film_Awards>	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:Franz_Ferdinand_discography	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:Sophie	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:Lady_Dior	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/2006\u201307_film_awards_season>	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:Studio_Harcourt	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:Academy_Award_for_Best_Actress	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/2003_in_film>	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:List_of_actors_with_Academy_Award_nominations	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:Houston_Film_Critics_Society_Awards_2007	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/St._Louis_Gateway_Film_Critics_Association_Awards_2007>	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:San_Francisco_Film_Critics_Circle_Awards_2014	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/Dallas\u2013Fort_Worth_Film_Critics_Association_Awards_2014>	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:Steven_Soderbergh	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:Gwyneth_Paltrow	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:Alain_Delon	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:Misa_Watanabe	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:Miyuki_Sawashiro	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/C\u00E9sar_Awards>	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:Globe_de_Cristal_Awards	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:List_of_Belgian_films_of_2014	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:List_of_French_films_of_2014	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/40th_C\u00E9sar_Awards>	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:Madame_Defarge	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:Brest_European_Short_Film_Festival	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:Hylda_Queally	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:Online_Film_Critics_Society_Awards_2014	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:Vancouver_Film_Critics_Circle_Awards_2014	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/Angel_Face_(2018_film)>	dbo:wikiPageWikiLink	dbr:Marion_Cotillard ;
+	dbo:starring	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/Rust_and_Bone_(short_story_collection)>	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:List_of_comedy_films_of_the_2000s	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:List_of_actors_nominated_for_Academy_Awards_for_non-English_performances	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/The_Next_Day_(song)>	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/Chanel_No._5>	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/Vionnet_(company)>	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:IndieWire_Critics_Poll	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:List_of_Maghrebis	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:Blue_flower	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/Medici.tv>	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:List_of_French_films_of_2003	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:List_of_crime_films_of_2009	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:La_Vie_en_rose	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+@prefix ns61:	<http://dbpedia.org/resource/Inception:> .
+ns61:_Music_from_the_Motion_Picture	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:Michelle_Laine	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:Maja_Wampuszyc	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:Jean-Pierre_Martins	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:Yodelice	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:Taxi_3	dbo:wikiPageWikiLink	dbr:Marion_Cotillard ;
+	dbp:starring	dbr:Marion_Cotillard ;
+	dbo:starring	dbr:Marion_Cotillard .
+dbr:Matthias_Schoenaerts	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/List_of_The_Late_Show_with_Stephen_Colbert_episodes_(2015)>	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/Azzedine_Ala\u00EFa>	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/List_of_Late_Night_with_Jimmy_Fallon_episodes_(2011)>	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:List_of_Live_episodes	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:List_of_Live_with_Regis_and_Kelly_episodes	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/List_of_Harper\u0027s_Bazaar_UK_cover_models>	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:List_of_Vogue_Paris_cover_models	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:List_of_W_cover_models	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:Tommy_Sandhu	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:Kate_Hudson	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/70th_Golden_Globe_Awards>	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/80th_Academy_Awards>	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:Valentino_Ready-to-Wear_runway_collections	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:Alliance_of_Women_Film_Journalists	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/2010_in_film>	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/2011_in_film>	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/2013_in_film>	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/List_of_The_Late_Show_with_Stephen_Colbert_episodes_(2016)>	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:List_of_American_films_of_2009	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:List_of_American_films_of_2010	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:List_of_American_films_of_2011	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:List_of_American_films_of_2013	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/C\u00E9cile_Reinaud>	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:List_of_action_films_of_the_2010s	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:List_of_adventure_films_of_the_2010s	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:List_of_comedy_films_of_the_2010s	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:Christian_Dior_Ready-to-Wear_runway_collections	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/Live_with_Regis_and_Kelly_(season_22)>	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/Yumi_T\u014Dma>	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:Biagio_Black	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:The_Seduction_of_Ingmar_Bergman	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/2nd_AACTA_International_Awards>	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:Diane_Kruger	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/Cosmopolis_(film)>	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:BIFA_Award_for_Best_Performance_by_an_Actress_in_a_British_Independent_Film	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:European_Film_Award_for_Best_Actress	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:Vancouver_Film_Critics_Circle_Awards_2012	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:Dardenne_brothers	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:Rob_Marshall	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/Non,_je_ne_regrette_rien>	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:Arthur_Kopit	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/2007_National_Society_of_Film_Critics_Awards>	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/Lumi\u00E8res_Award_for_Best_Actress>	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:Vancouver_Film_Critics_Circle_Awards_2007	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/The_Story_of_a_Boy_Who_Wanted_to_Be_Kissed_(film)>	dbo:wikiPageWikiLink	dbr:Marion_Cotillard ;
+	dbp:starring	dbr:Marion_Cotillard ;
+	dbo:starring	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/My_Sex_Life..._or_How_I_Got_into_an_Argument>	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/2007_Czech_Lion_Awards>	dbp:bestActress	dbr:Marion_Cotillard ;
+	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:Simone_Signoret	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/Beaver_Dam,_Wisconsin>	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/List_of_The_Daily_Show_episodes_(2011)>	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/Team_(Lorde_song)>	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:List_of_action_films_of_the_1990s	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/15th_Satellite_Awards>	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:Houston_Film_Critics_Society_Awards_2014	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:San_Diego_Film_Critics_Society_Awards_2014	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/Josephine_(given_name)>	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:Beds_Are_Burning	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/3DD_Productions>	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/L\u0027Wren_Scott>	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:List_of_French_films_of_2015	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:AACTA_International_Award_for_Best_Actress	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:Detroit_Film_Critics_Society_Award_for_Best_Actress	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:Houston_Film_Critics_Society_Award_for_Best_Actress	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:Virginie_Despentes	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:Boston_Society_of_Film_Critics_Awards_2007	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:Chicago_Film_Critics_Association_Awards_2007	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:The_Late_Late_Show_with_Craig_Ferguson	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:Georgia_Film_Critics_Association	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/List_of_The_Late_Late_Show_with_Craig_Ferguson_episodes_(2010)>	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:Vivienne_Westwood	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:National_Society_of_Film_Critics_Award_for_Best_Actress	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:New_York_Film_Critics_Circle_Award_for_Best_Actress	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:Nicole_Kidman	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:Maury_Yeston	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:Women_in_film	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:Sophia_Loren	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:List_of_American_films_of_2012	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:Sanaa_Lathan	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:List_of_Belgian_films_of_the_2010s	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/Recurring_Saturday_Night_Live_characters_and_sketches_introduced_2014\u201315>	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/Recurring_Saturday_Night_Live_characters_and_sketches_introduced_2016\u201317>	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/7th_Irish_Film_&_Television_Awards>	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:List_of_awards_and_nominations_received_by_Daniel_Day-Lewis	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/35th_C\u00E9sar_Awards>	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:List_of_French_films_of_2001	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:List_of_French_films_of_2004	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/Nadine_(given_name)>	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:Gotham_Independent_Film_Awards_2012	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:Burnt_Out	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:Cybulski	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/Cotillard,_Marion>	dbo:wikiPageWikiLink	dbr:Marion_Cotillard ;
+	dbo:wikiPageRedirects	dbr:Marion_Cotillard .
+dbr:Marion_Cottillard	dbo:wikiPageWikiLink	dbr:Marion_Cotillard ;
+	dbo:wikiPageRedirects	dbr:Marion_Cotillard .
+dbr:Marion_cotillard	dbo:wikiPageWikiLink	dbr:Marion_Cotillard ;
+	dbo:wikiPageRedirects	dbr:Marion_Cotillard .
+dbr:Cotillard	dbo:wikiPageWikiLink	dbr:Marion_Cotillard ;
+	dbo:wikiPageRedirects	dbr:Marion_Cotillard .
+dbr:Claudia_Catani	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:Riviera_International_Film_Festival	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:London_Film_Critics_Circle_Awards_2014	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/Mary_(2005_film)>	dbo:wikiPageWikiLink	dbr:Marion_Cotillard ;
+	dbp:starring	dbr:Marion_Cotillard ;
+	dbo:starring	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/Dance_Like_There\u0027s_No_Tomorrow>	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+dbr:Leos_Carax	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/Take_It_All_(Nine_song)>	dbo:artist	dbr:Marion_Cotillard ;
+	dbo:wikiPageWikiLink	dbr:Marion_Cotillard ;
+	dbp:artist	dbr:Marion_Cotillard .
+dbr:Wild-Touch	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/Rock\u0027n_Roll_(2017_film)>	dbo:wikiPageWikiLink	dbr:Marion_Cotillard ;
+	dbp:starring	dbr:Marion_Cotillard ;
+	dbo:starring	dbr:Marion_Cotillard .
+dbr:Prix_Iris_for_Best_Supporting_Actress	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .
+<http://dbpedia.org/resource/19th_Quebec_Cinema_Awards>	dbo:wikiPageWikiLink	dbr:Marion_Cotillard .

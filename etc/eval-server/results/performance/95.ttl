@@ -1,0 +1,2119 @@
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+dbr:Fourth_wall	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Film_adaptation	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:All_Things_Bright_and_Beautiful	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Steve_Martin	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Billy_Idol	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Grizzly_Tales_for_Gruesome_Kids	dbo:wikiPageWikiLink	dbr:Monty_Python .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Galaxy_Song	dbp:artist	dbr:Monty_Python ;
+	dbo:artist	dbr:Monty_Python ;
+	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:The_Rime_of_the_Ancient_Mariner_in_popular_culture	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Superman	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/List_of_Late_Night_with_Jimmy_Fallon_episodes_(2009)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Fluxx	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:The_Temperance_Seven	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:List_of_Space_Ghost_Coast_to_Coast_episodes	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Mount_Dora_Ghost_Walk	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:The_Lumberjack_Song	dbp:artist	dbr:Monty_Python ;
+	dbo:artist	dbr:Monty_Python ;
+	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Hari\u0027s_on_Tour_(Express)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Moral_rights_in_Canadian_copyright_law	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Monty_Python\u0027s_The_Meaning_of_Life>	dbo:writer	dbr:Monty_Python ;
+	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/The_Hitchhiker\u0027s_Guide_to_the_Galaxy_(radio_series)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Birmingham_High_School	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Alfred_Bestall	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Harvey_Kurtzman	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Bradford_Industrial_Museum	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Dark_at_Noon	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Weston-super-Mare	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Three_Men_in_a_Boat_(1975_film)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Windsor_Hotel_(Cairo)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Deaths_in_January_2020	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/9617_Grahamchapman>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Metasyntactic_variable	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Gr\u00FCnwalder_Stadion>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Gwen_Taylor	dbo:wikiPageWikiLink	dbr:Monty_Python .
+@prefix ns3:	<http://dbpedia.org/resource/World_Forum/> .
+ns3:Communist_Quiz	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:European_Film_Academy_Lifetime_Achievement_Award	dbo:wikiPageWikiLink	dbr:Monty_Python .
+@prefix ns4:	<http://dbpedia.org/resource/List_of_gay,_lesbian_or_bisexual_people:> .
+ns4:_C	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Life_of_Python	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Hello,_sailor>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Powerband_(video_game)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:The_Pythons_Autobiography_by_The_Pythons	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:A_Pocketful_of_Python	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Monty_Python\u0027s_The_Meaning_of_Life_(book)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Spanish_Inquisition	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Mastermind_(British_game_show)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:The_Two_Ronnies	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Double_album	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Mobile_Fighter_G_Gundam	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Scott_Page	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Sectarian_discrimination	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/History_of_Shepherd\u0027s_Bush>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/The_Adventures_of_Tintin_(film)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Jesus_bloodline	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Tideland_(film)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Iron_Maiden	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:List_of_Frasier_characters	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Minehead	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:A_Series_of_Unfortunate_Events	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Quintet_(film)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:The_Yale_Record	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Barts_and_The_London_School_of_Medicine_and_Dentistry	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Carol_Cleveland	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Colin_Gordon	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Jesus_of_Nazareth_(miniseries)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Jethro_Tull_(band)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/John_Byrne_(comics)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:The_Oxford_Revue	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Hans_Alfredson	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/List_of_Comedy_Bang!_Bang!_episodes>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/2019_in_music>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Red_Riding_Hood_(2011_film)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:The_Adventures_of_Baron_Munchausen	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:The_Crimson_Permanent_Assurance	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:The_Fisher_King	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/The_Magic_Christian_(film)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:The_Meaning_of_Liff	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:The_Tall_Guy	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/The_Secret_Policeman\u0027s_Ball_2012>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Monty_Python:_Almost_the_Truth_(Lawyers_Cut)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:The_Brand_New_Monty_Python_Bok	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Roger	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:List_of_cultural_icons_of_the_United_Kingdom	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:List_of_feature_film_series_with_five_entries	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Steve_Purcell	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Cross-dressing	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Mayo_Performing_Arts_Center	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:John_Stuart_Mill	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Merge_Records	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Monastir,_Tunisia>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Literary_and_Historical_Society_(University_College_Dublin)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:The_Story_of_1	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:List_of_UK_top-ten_singles_in_1991	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Tracey_Ullman	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Jerry_Sadowitz	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Bill_Shipsey	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Harry_&_Paul>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:The_Alice_Rose	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Daniil_Kharms	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Anton_Lapenko	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Kenneth_Colley	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:List_of_productions_of_The_Nutcracker	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Save_the_World_(George_Harrison_song)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/The_Nose_(opera)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Girlschool	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:January_1941	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Michael_Miles	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Fist_of_Jesus	dbo:wikiPageWikiLink	dbr:Monty_Python .
+@prefix ns5:	<http://dbpedia.org/resource/1635:> .
+ns5:_The_Cannon_Law	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/2019_in_the_United_Kingdom>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:The_Last_Remake_of_Beau_Geste	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/1988_in_British_television>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:List_of_films_set_around_Easter	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Ross_Davidson	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Morena_Clara	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Star_Control_II	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Peter_Woods_(journalist)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Philip_Jenkinson	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Monty_Python\u0027s_Fliegender_Zirkus>	dbp:company	dbr:Monty_Python ;
+	dbo:company	dbr:Monty_Python ;
+	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:WINP-TV	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/St_John\u0027s_Church,_Ranmoor>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Male_pregnancy	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Norman_Pilcher	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/List_of_bands_named_after_other_performers\u0027_songs>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Rats_(Ghost_song)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Traveling_Wilburys	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Taniec_z_Gwiazdami_(season_6)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Extra_Texture_(Read_All_About_It)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:List_of_songs_recorded_by_JBO	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Thirty_Three_&_1/3>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Not_the_Messiah_(He\u0027s_a_Very_Naughty_Boy)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Lillian_Garrett-Groag	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Thomas_Dietz	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Tom\u00E1\u0161_Verner>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Heavens_Gate_(band)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Charles_Curran_(television_executive)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Barbara_Trentham	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:George_Saunders	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Endorsements_from_individuals_and_organizations_in_the_2015_Canadian_federal_election	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:List_of_people_from_Minneapolis	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Life_Serial	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Paul_Dinello	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Perspective_distortion_(photography)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:For_the_Love_of_a_Glove	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Chortle	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Authority_figures_in_comedy	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Twice_a_Fortnight	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:The_Instant_Monty_Python_CD_Collection	dbp:artist	dbr:Monty_Python ;
+	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Monty_Python\u0027s_Tiny_Black_Round_Thing>	dbp:writer	dbr:Monty_Python ;
+	dbp:artist	dbr:Monty_Python ;
+	dbo:artist	dbr:Monty_Python ;
+	dbo:writer	dbr:Monty_Python ;
+	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:The_Ultimate_Monty_Python_Rip_Off	dbp:artist	dbr:Monty_Python ;
+	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Teach_Yourself_Heath	dbp:artist	dbr:Monty_Python ;
+	dbo:artist	dbr:Monty_Python ;
+	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Brian_Song	dbp:artist	dbr:Monty_Python ;
+	dbo:artist	dbr:Monty_Python ;
+	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Monty_Python\u0027s_Total_Rubbish>	dbp:artist	dbr:Monty_Python ;
+	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Python_On_Song	dbp:artist	dbr:Monty_Python ;
+	dbo:artist	dbr:Monty_Python ;
+	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Nuno_Markl	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Monty_Python\u0027s_The_Meaning_of_Life_(video_game)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Mnozil_Brass	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/King_Edward_VII_School,_Melton_Mowbray>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Python	dbo:wikiPageWikiLink	dbr:Monty_Python ;
+	dbo:wikiPageDisambiguates	dbr:Monty_Python .
+dbr:Cornell_University	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Lumberjack	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:February_1942	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Shit	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Blowup	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Battersea_Power_Station	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Christopher_Trace	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Terence_Bayler	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Peter_Cook	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Peter_Sellers	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Victor_Lownes	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Vivian_Stanshall	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Finn_Jones	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Garry_Bushell	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/John_Altman_(composer)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Belinda_Stewart-Wilson	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Kate_Beckinsale	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Lesley_Judd	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Raymond_Bessone	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:David_Battley	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:David_Walliams	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Nick_Harper	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Tim_Roth	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Todd_Carty	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Roddy_Maude-Roxby	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Love_at_Stake	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Borin_Van_Loon	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Boulders_(album)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/A_Dog\u0027s_Breakfast>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Graham_Hill	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Guildford	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Psychotropia	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Purley,_London>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Charlotte_Rose	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Venus,_Cupid,_Folly_and_Time>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:BBC_Symphony_Chorus	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Around_the_World_in_Eighty_Days	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Live_at_Drury_Lane	dbp:artist	dbr:Monty_Python ;
+	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:The_Eyre_Affair	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Jeff_Green_(multimedia_artist)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Mike_Myers	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Milk_(song)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/2nd_Empire_Awards>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Spamalot	dbo:basedOn	dbr:Monty_Python ;
+	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Doug_Stanhope	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Hammersmith_Odeon_London_\u002775>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Mark_Forstater	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Palace_Theatre,_London>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/The_Secret_Policeman\u0027s_Ball>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Thomas_Krauth	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Charles_Widmore	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/The_Secret_Policeman\u0027s_Ball_(1979)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Fitzroy_Square	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:De_Wolfe_Music	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Aylesbury_Waterside_Theatre	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Robyn_Williams	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Royal_Grammar_School,_Guildford>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Shaun_of_the_Dead	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Piranha_Brothers	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Hersham	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Monty_Python_Live_(Mostly)>	dbp:company	dbr:Monty_Python ;
+	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:British_Comic_Art_Convention	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Ray_Staff	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Tony_Law	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Simon_Russell_Beale	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Plaga_Zombie_(film_series)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/The_Twentieth_Century_(film)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Topper_(film)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+@prefix ns6:	<http://dbpedia.org/resource/Jonah:> .
+ns6:_A_VeggieTales_Movie	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Steve_Abbott_(film_producer)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Laurie_Latham	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Dave_Hitchcock	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Peter_Oundjian	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Monty_Python\u0027s_Cow_Tossing>	dbo:series	dbr:Monty_Python ;
+	dbp:series	dbr:Monty_Python ;
+	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Psychedelic_Porn_Crumpets	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Comedy_film	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/2020_in_the_United_Kingdom>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Paolo_Veronese	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Billy_Connolly	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Trey_Parker	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:List_of_British_films_of_1983	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:List_of_Monty_Python_projects	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Lamb_(electronic_band)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/2018_in_British_television>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Bob_Costas	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/The_Philosophers\u0027_Football_Match>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:I_Like_Chinese	dbp:artist	dbr:Monty_Python ;
+	dbo:artist	dbr:Monty_Python ;
+	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:List_of_fictional_Jews	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Martin_Lewis_(humorist)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/List_of_Horrible_Histories_(2009_TV_series)_episodes>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:List_of_British_films_of_1979	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Battersea_Power_Station_in_popular_culture	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Harper_Simon	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Far_East_Man	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Bitchin\u0027_Camaro>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Bemaraha_woolly_lemur	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Carol_Young	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/D\u0027lectrified>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Alice_in_Wonderland_(1966_TV_play)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Piganino	dbo:wikiPageWikiLink	dbr:Monty_Python .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+wikipedia-en:Monty_Python	foaf:primaryTopic	dbr:Monty_Python .
+dbr:Mick_Jagger	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:List_of_premature_obituaries	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Bonzo_Dog_Doo-Dah_Band	dbo:wikiPageWikiLink	dbr:Monty_Python ;
+	dbo:associatedMusicalArtist	dbr:Monty_Python ;
+	dbo:associatedBand	dbr:Monty_Python .
+dbr:Celebrity_Mastermind	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/100_Greatest_(TV_series)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:List_of_The_Simpsons_guest_stars	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:List_of_endorsements_in_the_2014_Scottish_independence_referendum	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/1990_Conservative_Party_leadership_election>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:List_of_NME_covers	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Sean_Bean	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/List_of_Desert_Island_Discs_episodes_(1991\u20132000)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/2020_in_British_television>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Taunting	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Roald_Dahl	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Stephen_Fry	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Cultural_influence_of_Gilbert_and_Sullivan	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Edward_Heath	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Monty_Python\u0027s_Life_of_Brian>	dbp:writers	dbr:Monty_Python ;
+	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Michael_Caine	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/King\u0027s_College_School,_Cambridge>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Minimisation_(psychology)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Whistle_Down_the_Wind_(1996_musical)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/1066_and_All_That>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Jim_Carrey	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Bill_(2015_film)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Parody	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Old_Comedy	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Downing_College,_Cambridge>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/2005_in_music>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/1989_in_music>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/1991_in_music>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:CPython	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:List_of_Welsh_people	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Benefit_concert	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Rowan_Atkinson	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:List_of_diarists	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Phil_Collins	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:List_of_musical_comedians	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:List_of_performers_on_Top_of_the_Pops	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Joke	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Melton_Mowbray	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Exaggeration	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Beyond_the_Fringe	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:List_of_Elseworlds_publications	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Terry_Southern	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:The_Day_Today	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/1983_in_film>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:John_Peel	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Great_Lives	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Yoshito_Yasuhara	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Prick_(slang)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Greg_Sestero	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:R101	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Alexei_Sayle	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Of_Mice_and_Men_in_popular_culture	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:City_of_Death	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Cold_Feet_(series_2)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:The_Old_Tune	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Bruce_Dickinson	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Cultural_depictions_of_Hannibal	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Cyril_Connolly	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Tim_Rice	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:TARDIS	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Matthew_5:5>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Fred_Tomlinson_(singer)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Vic_Pratt	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Culture_of_the_Isle_of_Wight	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Graham_Chapman	dbo:knownFor	dbr:Monty_Python ;
+	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Gato_Fedorento	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Big_Train	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Y\u016Bsha_Yoshihiko>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:TV_Cream	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:The_Dirty_Fork	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:The_Goon_Show	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Maximum_Fun	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Invader_Zim	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/I\u0027ll_Say_She_Is>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Monty_Python_Live	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Alt.tv.simpsons>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/James_Gilbert_(producer)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:The_Builders	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:The_Frost_Report	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:The_Goodies	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:How_to_Irritate_People	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Choose_Up_Sides	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Titanic_in_popular_culture	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Tom_Deckman	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/History_of_Coventry_City_F.C.>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Quacks_(TV_series)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Morris_E._Lasker>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/The_Secret_Policeman\u0027s_Other_Ball>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:List_of_British_films_of_1982	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Springtime!>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:List_of_guests_appearing_on_The_Midnight_Special	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Salad_Days_(musical)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Hamish_Blake	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Lifeboat_sketch	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Gor\u014D_Naya>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Douglas_Adams\u0027s_Guide_to_The_Hitchhiker\u0027s_Guide_to_the_Galaxy>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Toshio_Furukawa	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Empire_Inspiration_Award	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Can_I_Play_with_Madness	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Bev_Sage	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Flying_Squad	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Nick_Ascroft	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Seven_Periods_with_Mr_Gormsby	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Dangerous_Sports_Club	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/The_Late_Late_Show_(season_53)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:IDLE	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Frank_Hvam	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Terry_Jones\u0027_Great_Map_Mystery>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Ancient_Inventions	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Boom_Bust_Boom	dbo:wikiPageWikiLink	dbr:Monty_Python .
+@prefix ns9:	<http://dbpedia.org/resource/Monty_Python:> .
+ns9:_And_Now_for_Something_Rather_Similar	dbo:wikiPageWikiLink	dbr:Monty_Python .
+ns9:_The_Meaning_of_Live	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Contractual_Obligation	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Eleanor_Yule	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Mickey\u0027s_Mechanical_House>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/A_Liar\u0027s_Autobiography>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:A_Local_Book_for_Local_People	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Rainer_Hersch	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Hurlingham_Park	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Joel_Furr	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Roaring_Meg_(cannon)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Fynbo	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:David_Breuer-Weil	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Donald_Sinclair_(hotel_owner)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:The_Seventh_Python	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Arthur_Negus	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/The_Statue_(1971_film)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Whitehouse_v_Lemon	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Charles_McKeown	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/I\u0027ve_Got_Two_Legs>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Python_(Monty)_Pictures>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Corpsing	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Mockery	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:List_of_recurring_The_Simpsons_characters	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Matt_Groening	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Ross_Harvey	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Cinema_of_the_United_Kingdom	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Acacia_pycnantha	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/The_Voyage_Home_(2004_film)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Esio_Trot	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:The_Odd_Job	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Meaning_of_life	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/List_of_Latin_phrases_(E)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Kalervo_Palsa	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Kin-dza-dza!>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/List_of_The_Tonight_Show_Starring_Johnny_Carson_episodes_(1973)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:List_of_Welsh_films	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Chortle_Awards	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:This_Song	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Covent_Garden	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Craig_Ferguson	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Tom_Phillips_(artist)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Amnesty_International	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Steve_Coogan	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Rye,_East_Sussex>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/List_of_The_Chaser\u0027s_War_on_Everything_episodes>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Horrible_Histories_(2009_TV_series)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Black_comedy	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Leigh_Blackmore	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:The_Stranglers	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Don\u0027t_Dilly_Dally_on_the_Way>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Violin_Concerto_(Tchaikovsky)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Bavaria_Film	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:The_Kangaroo_Chronicles	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Seth_Green	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/I\u0027m_with_Stupid_(album)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Bitwa_na_g\u0142osy>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Medical_Love_Song	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Matt_Melvin	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Seven_Dials,_London>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Little_Britain_USA	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Castle_Stalker	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Election_Night_Special	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Cherry_Tree_High_Comedy_Club	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Rich_Rosen	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Eric_the_Half-a-Bee	dbp:artist	dbr:Monty_Python ;
+	dbo:artist	dbr:Monty_Python ;
+	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:List_of_celebrities_with_advanced_degrees	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Triumph_Bandit	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Friar_Park	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Michael_Laws	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Slim_Susie	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Terry_Jones	dbo:knownFor	dbr:Monty_Python ;
+	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Flamingo_Park_Frock_Salon	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Imperial_Tiger_Orchestra	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Sutta_Kadhai	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Talk.origins>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Sting_(musician)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Concert_for_George	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Eat_the_Rich_(film)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/2012_Summer_Olympics_opening_ceremony>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Magical_Mystery_Tour_(film)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Wallasey	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Comedian	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Calon_(TV_production_company)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Cameron_Diaz	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Sketch_comedy	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Albatross_(metaphor)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Cormorant	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Parrot	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Clangers	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:List_of_PHQ_cards	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:List_of_organisms_named_after_famous_people	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:List_of_Old_Cliftonians	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Python_(programming_language)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:List_of_physicians	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:List_of_Old_Salopians	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Stephen_Tompkinson	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Hollywood_Bowl	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:List_of_performances_on_Top_of_the_Pops	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Terry_Gilliam	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Faerie_Tale_Theatre	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Will_Elder	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Casper_&_Mandrilaftalen>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Church_of_the_SubGenius	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Chaos_(Warhammer)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/List_of_The_Tonight_Show_Starring_Jimmy_Fallon_episodes_(2015)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:List_of_Easter_eggs_in_Tesla_products	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Backwards_(Red_Dwarf)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Dan_Aykroyd	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Vole_(magazine)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:And_Now_for_Something_Completely_Different	dbp:writers	dbr:Monty_Python ;
+	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Malcolm_Muggeridge	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Awaiting_on_You_All	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Ballad_of_Sir_Frankie_Crisp_(Let_It_Roll)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Claygate	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Jimmy_Fallon	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/1981_Crosby_by-election>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:East_Sheen	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Ozzy_Osbourne	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Humor_about_Catholicism	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Beachy_Head	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Gilbert_and_Sullivan	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Cyanide_&_Happiness>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Black_Knight_Sword	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Michael_Palin	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Madcap_(comics)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Hunter_S._Thompson>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Pawn_Hearts	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Hey_Hey_It\u0027s_Saturday>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+<http://dbpedia.org/resource/Monty_Python\u0027s_Flying_Circus>	rdfs:seeAlso	dbr:Monty_Python ;
+	dbo:wikiPageWikiLink	dbr:Monty_Python ;
+	dbo:author	dbr:Monty_Python .
+dbr:Do_Not_Adjust_Your_Set	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Q..._(TV_series)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/No_\u2013_That\u0027s_Me_Over_Here!>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Spike_Milligan	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Eric_Idle	dbp:notableWorks	dbr:Monty_Python ;
+	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:George_Harrison	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:The_Legend_of_Dick_and_Dom	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:The_Rutles	dbo:wikiPageWikiLink	dbr:Monty_Python ;
+	dbo:associatedMusicalArtist	dbr:Monty_Python ;
+	dbo:associatedBand	dbr:Monty_Python ;
+	dbp:associatedActs	dbr:Monty_Python .
+dbr:Linda_Wagenmakers	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/1989_in_British_television>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Ethel_the_Frog_(band)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Art_Garfunkel	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Kenneth_McKellar_(singer)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Doug_Anthony_All_Stars	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:The_Owl_and_the_Pussy-Cat	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Penguicon	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Great_Balls_of_Fire	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:An_Evening_Without_Monty_Python	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:David_Hyde_Pierce	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Story_Pirates	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Marion_Meade	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Tony_Stratton-Smith	dbp:knownFor	dbr:Monty_Python ;
+	dbo:knownFor	dbr:Monty_Python ;
+	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Escaped_Alone	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Figment_(Disney)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Pipe_smoking	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Great_Britain_commemorative_stamps_2010\u201319>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Principal_Charming	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Galenskaparna_och_After_Shave	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Nome,_Alaska>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Hasse_&_Tage>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:The_Fish-Slapping_Dance	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:At_Last_the_1948_Show	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/\u00D8rje>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Counting_Up,_Counting_Down>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Black_Sheep_Brewery	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Leif_(film)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Orson_Welles	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Singin\u0027_in_the_Rain>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Clay_Aiken	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Glen_Wexler	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Ernie_Fosselius	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Dennis_Wholey	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/A_Poke_in_the_Eye_(With_a_Sharp_Stick)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Doctor_in_the_House_(franchise)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Gompie	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Harry_Lange_(film_designer)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/J._B._Handelsman>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Sam_Irvin	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Get_to_Know_Your_Rabbit	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Hail_the_Conquering_Hero	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Basil_Fawlty	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/The_Secret_Policeman\u0027s_Ball_mediagraphy>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Crazy_Like_a_Fox_(TV_series)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Darren_Boyd	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Peter_Ames_Carlin	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Robert_Klein	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Fallout_(series)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:National_Center_on_Sexual_Exploitation	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Stand_and_Deliver_(Adam_and_the_Ants_song)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Willy_Wonka_&_the_Chocolate_Factory>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:FCC_Song	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:History_of_email_spam	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Nuns_on_the_Run	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Toad_the_Wet_Sprocket	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Tony_Buffery	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Ash_Lieb	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Always_Look_on_the_Bright_Side_of_Life	dbp:artist	dbr:Monty_Python ;
+	dbo:artist	dbr:Monty_Python ;
+	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Tracey_Ullman\u0027s_Show>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:David_Mirkin	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:The_Lonely_Island	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Saturday_Night_Live_(season_22)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Rhotacism_(speech_impediment)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Julien_Nitzberg	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Kentwell_Hall	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Flint,_Flintshire>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Christian_Borle	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Gilroy\u0027s_Brewery>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Matthew_5:9>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Horrible_Histories_troupe	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Archaeology_Today	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Richard_Bracewell	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/David_Mitchell_(comedian)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Black_Knight_(Monty_Python)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Brendon_Small	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:List_of_The_Goon_Show_episodes	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/John_Sanborn_(media_artist)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/2nd_Odessa_International_Film_Festival>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:The_Penelopiad	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Robert_Hewison	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:The_Funniest_Joke_in_the_World	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Spam_(Monty_Python)>	dbp:artist	dbr:Monty_Python ;
+	dbo:artist	dbr:Monty_Python ;
+	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Oxford_Today	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Watney_Combe_&_Reid>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Adrian_Poynton	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Mr._Toad>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Wink	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Moving_On_(The_Office)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Monty_Python_Live!>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:National_Television_Award_for_Special_Recognition	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Phill_and_Phil\u0027s_Perfect_Ten>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Still_Crazy_Like_a_Fox	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Strictly_Come_Dancing_(series_18)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:We_Happy_Few	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Drabble	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:The_Grumbleweeds_Radio_Show	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:List_of_people_from_South_Shields	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Chris_Donald	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Justin_McDonald	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:British_Comedy_Awards	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Yonderland	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/The_Party_Party_(radio_series)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Chiddingstone	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Bernard_McKenna_(writer)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Retford_railway_station	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Colwyn_Bay	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Penrhos,_Herefordshire>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Wigston	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Colin_Sinclair_(minister)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Sit_on_My_Face	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Little_Annie_Fanny	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Let\u0027s_Dance_(German_season_6)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Santander_Bank_Polska	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Neal\u0027s_Yard_Dairy>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Narcissism_of_small_differences	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Night_Watch_(Discworld)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Discworld_(video_game)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Fafhrd_and_the_Gray_Mouser	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Dan_Schlissel	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Alpha_Rho_Upsilon	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/RTP_Mem\u00F3ria>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/The_Lost_Gospel:_Decoding_the_Ancient_Text_that_Reveals_Jesus\u0027_Marriage_to_Mary_the_Magdalene>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/A_Liar\u0027s_Autobiography:_The_Untrue_Story_of_Monty_Python\u0027s_Graham_Chapman>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Ch\u0142opaki_Nie_P\u0142acz\u0105_(video_game)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Streets_of_London_(video_game)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+@prefix ns11:	<http://dbpedia.org/resource/Tracey_Ullman:> .
+ns11:_A_Class_Act	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Sex_in_Chains_Blues	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Comedy	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Michigan_Technological_University	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Bill_Murray	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Michael_Palin\u0027s_Hemingway_Adventure>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Take_Me_Out_(song)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Time_Life_Television	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Pieing	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Culture_of_the_United_Kingdom	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/No_Pressure_(film)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Coal_gas	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Choir_of_King\u0027s_College,_Cambridge>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/The_Wind_in_the_Willows_(1996_film)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Wonderama	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/You_Don\u0027t_Mess_with_the_Zohan>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Pembroke_Players	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Matthew_6:28>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:List_of_people_from_the_London_Borough_of_Southwark	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Richard_Chamberlain	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:John_Landis	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:John_Du_Prez	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Basil_Pao	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Slobbovia	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:List_of_artists_who_reached_number_one_in_Ireland	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Jarrow	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Festa_on_Ice	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:English_as_She_Is_Spoke	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Joan_of_Leeds	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Auto-da-f\u00E9>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:My_Scientology_Movie	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Polonaise_in_A-flat_major,_Op._53>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+@prefix ns12:	<http://dbpedia.org/resource/Overlord:> .
+ns12:_Dark_Legend	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Yossi_Abulafia	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:How_Sweet_to_Be_an_Idiot	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Bart_Dickon	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Masturbation	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Nasty_(The_Young_Ones)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Facesitting	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Walter_Mondale	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:List_of_playing-card_nicknames	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/List_of_The_Tonight_Show_Starring_Jimmy_Fallon_episodes_(2014)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:John_Cleese	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Russell_Brand	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Sacha_Baron_Cohen	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/The_Liberty_Bell_(march)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:South_Park	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/J._K._Rowling>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/List_of_Wait_Wait..._Don\u0027t_Tell_Me!_episodes_(2005)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/List_of_eponyms_(L\u2013Z)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Robin_Williams	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Seth_MacFarlane	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Stephen_Colbert	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Joss_Whedon	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:List_of_Occidental_College_people	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Project_Steve	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Eddie_Izzard	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/No\u00EBl_Coward>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/The_Tick_(1994_TV_series)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Freakazoid!>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/The_Brothers_Grimm_(film)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/2019_in_British_television>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Pembroke_College,_Cambridge>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Round_the_Horne	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:List_of_British_films_of_1975	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Friday_Night,_Saturday_Morning>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Marty_Feldman	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Spike_Mullins	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Robin_Bush	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Robert_Illes	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Charles_Dellschau	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:La_Notte	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Humans_(Phillips_book)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Bruce_Mitchell_(scholar)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:List_of_computer_term_etymologies	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:List_of_eponymous_adjectives_in_English	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Varga_Katalin_Secondary_School	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:List_of_people_from_Brighton_and_Hove	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Inquisition	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Americans_in_the_United_Kingdom	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Wensleydale_cheese	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Beachcomber_(pen_name)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Choucoune_(song)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Benny_Hill	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Kate_Bush	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Les_Snuls	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Moral_rights	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Franglais	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:South_Tyneside	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Francis_Masse	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Fawlty_Towers	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Adolf_Hitler_in_popular_culture	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Cromer	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:List_of_minor_planets_named_after_people	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Paraphrasing_of_copyrighted_material	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Canadian_identity	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Meanings_of_minor_planet_names:_9001\u201310000>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Cross-dressing_in_film_and_television	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/The_Fab_Four_(tribute)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Highwayman	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Secret_Tournament	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Franz_Beckenbauer	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:The_Muppet_Show	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:The_Cheese_Shop	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Pump_Up_the_Valuum	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Rabbit_of_Caerbannog	dbo:series	dbr:Monty_Python ;
+	dbo:creator	dbr:Monty_Python ;
+	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Nina_Paley	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Dynamite_Kablammo	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Bill_Hader	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Dream_Away_(George_Harrison_song)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Seder-Masochism	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:History_of_alternate_reality_games	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Superwog_(TV_series)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Bring_Me_the_Head_of_Charlie_Brown	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Decomposing_Composers	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Menschenliebe	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:The_Ministry_of_Silly_Walks	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Dragon_Quest_VIII	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Exile_(1988_video_game)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Ding_Dong,_Ding_Dong>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:All_You_Need_Is_Cash	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Shampoo_(parody_band)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Run_of_the_Mill_(George_Harrison_song)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Rutland_Weekend_Television	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:The_Followers_of_Rupert	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Concert_for_George_(album)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Rock_\u0027n\u0027_Roll_(Mot\u00F6rhead_album)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Neil_Innes	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Sunshine_Life_for_Me_(Sail_Away_Raymond)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Hidden_track	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Campsie_Fells	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Monty_Python\u0027s_Contractual_Obligation_Album>	dbp:artist	dbr:Monty_Python ;
+	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Pinkeye_(South_Park)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Multisided_record	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Comedy_troupe	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Alfresco_(TV_series)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Cambridge_Footlights_Revue	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:List_of_former_Footlights_members	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/List_of_number-one_singles_of_1991_(Ireland)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Strip_Tease_(Acid_Drinkers_album)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Julian_Doyle_(filmmaker)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Monty_Python\u0027s_Life_of_Brian_(album)>	dbp:artist	dbr:Monty_Python ;
+	dbo:wikiPageWikiLink	dbr:Monty_Python .
+@prefix ns13:	<http://dbpedia.org/resource/Monty_Python\u0027s_The_Life_of_Brian_/> .
+ns13:_Monty_Python_Scrapbook	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Monty_Python\u0027s_The_Meaning_of_Life_(album)>	dbp:artist	dbr:Monty_Python ;
+	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Finland_(song)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:The_Final_Rip_Off	dbp:artist	dbr:Monty_Python ;
+	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Jim_Beach	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Phrase_book	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Flying_penguin_hoax	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Valerie_Charlton	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Trondheim	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Ian_Haugland	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Marx_Brothers	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:List_of_works_based_on_Arthurian_legends	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Proverb	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:The_Gits	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Timeline_of_musical_events	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Spam_(food)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/%22Weird_Al%22_Yankovic>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Thames_Ditton	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Stevenson_University	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Deadpan	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Cirrus_(song)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Drag_(clothing)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:The_Disaster_Artist	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Simon_Pegg	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Self-Defence_Against_Fresh_Fruit	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Monty_Panesar	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:List_of_VeggieTales_characters	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Around_the_World_in_80_Days_with_Michael_Palin	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:British_comedy_films	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Eric_(software)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:The_Monty_Python_Matching_Tie_and_Handkerchief	dbp:artist	dbr:Monty_Python ;
+	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/\u0158ezn\u00EDk_(rapper)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Trond_Kirkvaag	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Lars_Mj\u00F8en>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Knut_Lystad	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Barry_Humphries	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Andr\u00E1s_Adorj\u00E1n>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Neil_Merryweather	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Be_Here_Now_(George_Harrison_song)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:List_of_The_Goodies_guest_stars	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/List_of_Wait_Wait..._Don\u0027t_Tell_Me!_episodes_(2003)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Python_Night_\u2013_30_Years_of_Monty_Python>	dbp:company	dbr:Monty_Python ;
+	dbo:company	dbr:Monty_Python ;
+	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Dancing_Stars_(Austrian_season_6)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Victor_Spinetti	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Blazing_Dragons_(video_game)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Colin_%22Bomber%22_Harris_vs_Colin_%22Bomber%22_Harris>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Mee-Ow_Show	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:James_Joyce_Award	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Taniec_z_Gwiazdami_(season_22)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Crunchy_Frog	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Warwick_Davis	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:DNA_for_Beginners	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Mother_(advertising_agency)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:A_Faire_to_Remember	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Grammy_Award_for_Best_Comedy_Album	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Blahbalicious	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:BAFTA_Outstanding_British_Contribution_to_Cinema_Award	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Charles_Knode	dbo:wikiPageWikiLink	dbr:Monty_Python .
+@prefix ns14:	<http://dbpedia.org/resource/Diaries_1969\u20131979:> .
+ns14:_The_Python_Years	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Gnorm_Gnat	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Supper\u0027s_Ready>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Is_Vic_There%3F>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:David_Bowie	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Elvis_Presley	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Killing_Joke	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Elton_John	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Eric_Clapton	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:List_of_British_comedians	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:List_of_comedians	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Google_Translate	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/1890s>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Full_Circle_with_Michael_Palin	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Meanings_of_minor_planet_names:_13001\u201314000>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Virgin_Records	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Pink_Floyd	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Unusual_types_of_gramophone_records	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Harry_Kroto	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Plants_vs._Zombies>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Easter_egg_(media)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/7th_Level>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Maize_(video_game)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Frogs_in_culture	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Simon_Phipps_(game_designer)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Alternate_reality_game	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Four_Last_Things_(video_game)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:List_of_video_games_notable_for_negative_reception	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Commodore_User	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:BAFTA_Fellowship	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Panic!_(video_game)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Rock_of_Ages_(video_game)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Fable_(2004_video_game)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:List_of_multimedia_franchises	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Erik_the_Viking	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Blood_squirt	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Tim_Curry	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/War_Child_(album)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:The_Bible_and_humor	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Trump_peace_plan	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Hank_Azaria	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Krakatoa,_East_of_Java>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Padhyangan	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Sam_Peckinpah	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Blue_Peter	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Andreas_P._Pittler>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Entropa	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/The_Entertainers_(radio_program)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/The_Rutles_(album)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Denim_delinquent	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Pointed_Sticks	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Perspective_(film)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/The_Last_Straw_(1987_film)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Joan_E._Taylor>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/List_of_people_from_Ottawa,_Illinois>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:The_Fest_for_Beatles_Fans	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Meet_the_Feebles	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Savile_Row_Eyewear	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Les_Dennis	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Eastern_Angles_Theatre_Company	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Curse_of_Enchantia	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Green_Wing_(series_1)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Taniec_z_Gwiazdami_(season_12)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Shaun_Micallef	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:HandMade_Films	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/George_Harrison_(album)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Crackerbox_Palace	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Time_Bandits	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:George_Harrison_discography	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Soft_Touch	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Archaeology_(album)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/His_Name_Is_Legs_(Ladies_and_Gentlemen)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Monty_Python_Sings	dbp:artist	dbr:Monty_Python ;
+	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Roy_Smiles	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Patrick_Stewart	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Glen_Coe	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Footlights	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Punt_(boat)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Douglas_Adams	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Walton-on-Thames	dbo:wikiPageWikiLink	dbr:Monty_Python .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Monty_Python	rdf:type	yago:LivingThing100004258 ,
+		yago:Humorist110191943 ,
+		yago:Actor109765278 ,
+		yago:Artist109812338 ,
+		yago:Entertainer109616922 ,
+		dbo:Agent ,
+		yago:CausalAgent100007347 ,
+		yago:Communicator109610660 ,
+		yago:Writer110794014 ,
+		yago:YagoLegalActor ,
+		yago:Screenwriter110564400 ,
+		yago:YagoLegalActorGeo ,
+		yago:Scriptwriter110564905 .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Monty_Python	rdf:type	owl:Thing ,
+		yago:Creator109614315 ,
+		yago:Comedian109940146 ,
+		yago:WikicatBritishComedians .
+@prefix schema:	<http://schema.org/> .
+dbr:Monty_Python	rdf:type	schema:Organization ,
+		dbo:Group ,
+		dbo:Band ,
+		yago:WikicatAristaRecordsArtists .
+@prefix umbel-rc:	<http://umbel.org/umbel/rc/> .
+dbr:Monty_Python	rdf:type	umbel-rc:Comedian ,
+		umbel-rc:Artist ,
+		yago:WikicatVirginRecordsArtists ,
+		dbo:ComedyGroup ,
+		dbo:Organisation .
+@prefix ns20:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Monty_Python	rdf:type	ns20:Agent ,
+		ns20:SocialPerson .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Monty_Python	rdf:type	wikidata:Q24229398 ,
+		wikidata:Q43229 ,
+		yago:WikicatCharismaRecordsArtists ,
+		yago:Object100002684 ,
+		yago:PhysicalEntity100001930 ,
+		yago:Person100007846 ,
+		yago:Organism100004475 ,
+		yago:Whole100003553 ,
+		yago:WikicatBritishActors ,
+		yago:WikicatBritishScreenwriters ,
+		yago:Performer110415638 ,
+		yago:WikicatBritishHumorists ;
+	rdfs:label	"Monty Python"@eu ,
+		"Monty Python"@sv ,
+		"Monty Python"@it ,
+		"Monty Python"@pl ,
+		"Monty Python"@nl ,
+		"Monty Python"@en ,
+		"Monty Python"@fr ,
+		"Monty Python"@es ,
+		"Monty Python"@ca ,
+		"\u30E2\u30F3\u30C6\u30A3\u30FB\u30D1\u30A4\u30BD\u30F3"@ja ,
+		"\u041C\u043E\u043D\u0442\u0438 \u041F\u0430\u0439\u0442\u043E\u043D"@ru ,
+		"\u041C\u043E\u043D\u0442\u0456 \u041F\u0430\u0439\u0442\u043E\u043D"@uk ,
+		"\u8499\u63D0\u00B7\u6D3E\u68EE"@zh ,
+		"Monty Python"@cs ,
+		"Monty Python"@pt ,
+		"Monty Python"@de ,
+		"Monty Python"@el ,
+		"Monty Python"@eo ,
+		"Monty Python"@in ,
+		"\u0645\u0648\u0646\u062A\u064A \u0628\u0627\u064A\u062B\u0648\u0646"@ar ,
+		"\uBAAC\uD2F0 \uD30C\uC774\uD2BC"@ko ;
+	rdfs:comment	"\uBAAC\uD2F0 \uD30C\uC774\uD2BC(\uC601\uC5B4: Monty Python \uBAAC\uD2F0 \uD30C\uC774\uC120[*])\uC740 \uC601\uD5A5\uB825 \uC788\uB294 \uBAAC\uD2F0 \uD30C\uC774\uD2BC\uC758 \uBE44\uD589 \uC11C\uCEE4\uC2A4\uB97C \uCC3D\uCD9C\uD55C \uC601\uAD6D\uC758 \uD76C\uADF9 \uADF8\uB8F9\uC774\uB2E4. \uC774 \uC11C\uCEE4\uC2A4\uB294 1969\uB144 10\uC6D4 5\uC77C\uC5D0 BBC\uB97C \uD1B5\uD574 \uC911\uACC4\uB41C \uC601\uAD6D \uD154\uB808\uBE44\uC804 \uD76C\uADF9 \uC2A4\uCF00\uCE58 \uC1FC\uC600\uB2E4. 45\uAC1C\uC758 \uC5D0\uD53C\uC18C\uB4DC\uAC00 4\uAC1C\uC758 \uC2DC\uB9AC\uC988\uB97C \uAC78\uCCD0 \uB9CC\uB4E4\uC5B4\uC84C\uB2E4. \uD30C\uC774\uD2BC \uD604\uC0C1\uC740 \uD154\uB808\uBE44\uC804 \uC2DC\uB9AC\uC988\uC5D0\uC11C \uB354 \uBC1C\uC804\uD558\uC5EC \uC1FC, \uC601\uD654, \uC74C\uBC18, \uCC45 \uB4F1\uC73C\uB85C\uAE4C\uC9C0 \uC601\uD5A5\uB825\uC774 \uCEE4\uC838\uB098\uAC14\uB2E4. \uC774 \uADF8\uB8F9\uC774 \uD76C\uADF9\uC5D0 \uB07C\uCE5C \uC601\uD5A5\uC740 \uBE44\uD2C0\uC988\uAC00 \uC74C\uC545\uC5D0 \uBBF8\uCE5C \uC601\uD5A5\uACFC \uBE44\uC720\uB418\uACE0 \uC788\uB2E4."@ko ,
+		"\u0645\u0648\u0646\u062A\u064A \u0628\u0627\u064A\u062B\u0648\u0646 (\u0645\u0639\u0631\u0648\u0641\u0629 \u0623\u062D\u064A\u0627\u0646\u064B\u0627 \u0628\u0627\u0633\u0645 \u0630\u0627 \u0628\u0627\u064A\u062B\u0648\u0646\u0632 (The Pythons)) \u0647\u064A \u0645\u062C\u0645\u0648\u0639\u0629 \u0628\u0631\u064A\u0637\u0627\u0646\u064A\u0629 \u0644\u0644\u0643\u0648\u0645\u064A\u062F\u064A\u0627 \u0627\u0644\u0633\u064A\u0631\u064A\u0627\u0644\u064A\u0629 \u0642\u0627\u0645\u062A \u0628\u0627\u0628\u062A\u062F\u0627\u0639 \u0633\u064A\u0631\u0643 \u0645\u0648\u0646\u062A\u064A \u0628\u0627\u064A\u062B\u0648\u0646 \u0627\u0644\u0637\u0627\u0626\u0631\u060C \u0648\u0647\u0648 \u0628\u0631\u0646\u0627\u0645\u062C \u0628\u0631\u064A\u0637\u0627\u0646\u064A \u0643\u0648\u0645\u064A\u062F\u064A \u0647\u0632\u0644\u064A \u062A\u0645\u062A \u0625\u0630\u0627\u0639\u062A\u0647 \u0644\u0623\u0648\u0644 \u0645\u0631\u0629 \u0639\u0644\u0649 \u0628\u064A \u0628\u064A \u0633\u064A \u0641\u064A \u0627\u0644\u062E\u0627\u0645\u0633 \u0645\u0646 \u0623\u0643\u062A\u0648\u0628\u0631 \u0639\u0627\u0645 1969. \u0648\u062A\u0645 \u0639\u0645\u0644 \u062E\u0645\u0633 \u0648\u0623\u0631\u0628\u0639\u064A\u0646 \u062D\u0644\u0642\u0629 \u0644\u0645\u0627 \u064A\u0632\u064A\u062F \u0639\u0644\u0649 \u0623\u0631\u0628\u0639\u0629 \u0645\u0633\u0644\u0633\u0644\u0627\u062A. \u062A\u0637\u0648\u0631\u062A \u0638\u0627\u0647\u0631\u0629 \u0627\u0644\u0628\u0627\u064A\u062B\u0648\u0646 \u0645\u0646 \u0627\u0644\u0645\u0633\u0644\u0633\u0644\u0627\u062A \u0627\u0644\u062A\u0644\u064A\u0641\u0632\u064A\u0648\u0646\u064A\u0629 \u0625\u0644\u0649 \u0634\u064A\u0621 \u0623\u0643\u0628\u0631 \u0641\u064A \u0627\u0644\u0646\u0637\u0627\u0642 \u0648\u0627\u0644\u062A\u0623\u062B\u064A\u0631\u060C \u0645\u0646\u062A\u062C\u0629\u064B \u062C\u0648\u0644\u0629 \u0645\u0646 \u0627\u0644\u0639\u0631\u0648\u0636 \u0627\u0644\u0645\u0633\u0631\u062D\u064A\u0629\u060C \u0648\u0627\u0644\u0623\u0641\u0644\u0627\u0645\u060C \u0648\u0627\u0644\u0623\u0644\u0628\u0648\u0645\u0627\u062A \u0627\u0644\u0645\u062A\u0639\u062F\u062F\u0629\u060C \u0648\u0627\u0644\u0643\u062A\u0628 \u0627\u0644\u0645\u062A\u0646\u0648\u0639\u0629\u060C \u0648\u0627\u0644\u0639\u0631\u0648\u0636 \u0627\u0644\u0645\u0633\u0631\u062D\u064A\u0629 \u0627\u0644\u0645\u0648\u0633\u064A\u0642\u064A\u0629\u060C \u0628\u0627\u0644\u0625\u0636\u0627\u0641\u0629 \u0625\u0644\u0649 \u0627\u0646\u0637\u0644\u0627\u0642 \u0623\u0639\u0636\u0627\u0621 \u0627\u0644\u0645\u062C\u0645\u0648\u0639\u0629 \u0625\u0644\u0649 \u0627\u0644\u0646\u062C\u0648\u0645\u064A\u0629 \u0627\u0644\u0641\u0631\u062F\u064A\u0629. \u0648\u0644\u0642\u062F \u062A\u0645\u062A \u0645\u0642\u0627\u0631\u0646\u0629 \u062A\u0623\u062B\u064A\u0631 \u0627\u0644\u0645\u062C\u0645\u0648\u0639\u0629 \u0639\u0644\u0649 \u0627\u0644\u0643\u0648\u0645\u064A\u062F\u064A\u0627 \u0628\u062A\u0623\u062B\u064A\u0631 \u0641\u0631\u0642\u0629 \u0628\u064A\u062A\u0644\u0632 (The Beatles) \u0639\u0644\u0649 \u0627\u0644\u0645\u0648\u0633\u064A\u0642\u0649."@ar ,
+		"Monty Python, eller The Pythons, \u00E4r det gemensamma namnet p\u00E5 skaparna av humorserien Monty Pythons flygande cirkus (eng: Monty Python's Flying Circus, 1969\u20131974) och senare producenter av ett antal l\u00E5ngfilmer och scenframtr\u00E4danden under gemensamt namn. De f\u00F6rknippas med en nyskapande och ofta nonsensartad eller absurdistisk humor med satiriska inslag som p\u00E5verkat senare komikergenerationer b\u00E5de i hemlandet och internationellt."@sv ,
+		"Monty Python [monti pajton] estis angla komedia grupo, konsistinta el John Cleese, , , Michael Palin, Graham Chapman (mortis 1989), kaj . Ili komencis en televido kun la serio \"Monty Python's Flying Circus\" (La fluganta cirko de Monty Python), unue dissendita fare de la BBC, la 5-an de oktobro 1969, kaj ili pasis poste al kino. Ilia komikeco estis bazita sur senlima bildodetruo kontra\u016D \u0109iuj, la superrealismo kaj emo al la absurdo."@eo ,
+		"Monty Python adalah grup komedi Inggris yang terdiri dari John Cleese, Graham Chapman, Michael Palin, Eric Idle, Terry Jones dan Terry Gilliam. Mereka memiliki acara televisi yang sangat berhasil pada tahun 1969 sampai 1974 Monty Python's Flying Circus. Gilliam adalah satu-satunya anggota Python yang berasal dari Amerika Serikat. Setelah serial televisi mereka berakhir, mereka juga membuat film-film komedi seperti Monty Python's Life Of Brian dan ."@in ,
+		"\u039F\u03B9 Monty Python (\u03B3\u03BD\u03C9\u03C3\u03C4\u03BF\u03AF \u03BA\u03B1\u03B9 \u03C9\u03C2 The Pythons ) \u03B5\u03AF\u03BD\u03B1\u03B9 \u03C4\u03BF \u03CC\u03BD\u03BF\u03BC\u03B1 \u03C4\u03B7\u03C2 \u03BF\u03BC\u03AC\u03B4\u03B1\u03C2 \u03C0\u03B1\u03C1\u03B1\u03B3\u03C9\u03B3\u03AE\u03C2 \u03C4\u03B7\u03C2 \u03C4\u03B7\u03BB\u03B5\u03BF\u03C0\u03C4\u03B9\u03BA\u03AE\u03C2 \u03C3\u03B5\u03B9\u03C1\u03AC\u03C2 \u00AB\u00BB (Monty Python's Flying Circus), \u03BC\u03B9\u03B1\u03C2 \u03BA\u03C9\u03BC\u03C9\u03B4\u03AF\u03B1\u03C2 \u03C0\u03BF\u03C5 \u03AC\u03C1\u03C7\u03B9\u03C3\u03B5 \u03BD\u03B1 \u03B5\u03BA\u03C0\u03AD\u03BC\u03C0\u03B5\u03C4\u03B1\u03B9 \u03C3\u03C4\u03B7 \u039C\u03B5\u03B3\u03AC\u03BB\u03B7 \u0392\u03C1\u03B5\u03C4\u03B1\u03BD\u03AF\u03B1 \u03C4\u03BF 1969, \u03B1\u03BB\u03BB\u03AC \u03BA\u03B1\u03B9 \u03BC\u03B9\u03B1\u03C2 \u03C3\u03B5\u03B9\u03C1\u03AC\u03C2 \u03B5\u03BA\u03C0\u03BF\u03BC\u03C0\u03CE\u03BD, \u03BA\u03B9\u03BD\u03B7\u03BC\u03B1\u03C4\u03BF\u03B3\u03C1\u03B1\u03C6\u03B9\u03BA\u03CE\u03BD \u03AD\u03C1\u03B3\u03C9\u03BD, \u03B7\u03C7\u03BF\u03B3\u03C1\u03B1\u03C6\u03AE\u03C3\u03B5\u03C9\u03BD \u03BA\u03B1\u03B9 \u03B8\u03B5\u03B1\u03C4\u03C1\u03B9\u03BA\u03CE\u03BD \u03C0\u03B1\u03C1\u03B1\u03B3\u03C9\u03B3\u03CE\u03BD \u03B1\u03C0\u03CC \u03C4\u03BF 1969 \u03BC\u03AD\u03C7\u03C1\u03B9 \u03C4\u03BF 1989."@el ,
+		"\u30E2\u30F3\u30C6\u30A3\u30FB\u30D1\u30A4\u30BD\u30F3\uFF08Monty Python\uFF09\u306F\u3001\u30A4\u30AE\u30EA\u30B9\u306E\u4EE3\u8868\u7684\u306A\u30B3\u30E1\u30C7\u30A3\u30B0\u30EB\u30FC\u30D7\u3002\u30B0\u30EC\u30A2\u30E0\u30FB\u30C1\u30E3\u30C3\u30D7\u30DE\u30F3\u3001\u30B8\u30E7\u30F3\u30FB\u30AF\u30EA\u30FC\u30BA\u3001\u30C6\u30EA\u30FC\u30FB\u30AE\u30EA\u30A2\u30E0\u3001\u30A8\u30EA\u30C3\u30AF\u30FB\u30A2\u30A4\u30C9\u30EB\u3001\u30C6\u30EA\u30FC\u30FB\u30B8\u30E7\u30FC\u30F3\u30BA\u3001\u30DE\u30A4\u30B1\u30EB\u30FB\u30DA\u30A4\u30EA\u30F3\u306E6\u4EBA\u3067\u69CB\u6210\u3055\u308C\u308B\uFF08\u305F\u3060\u3057\u3001\u30CB\u30FC\u30EB\u30FB\u30A4\u30CD\u30B9\u3068\u30AD\u30E3\u30ED\u30EB\u30FB\u30AF\u30EA\u30FC\u30F4\u30E9\u30F3\u30C9\u3092\u300C7\u4EBA\u76EE\u306E\u30D1\u30A4\u30BD\u30F3\u300D\u3068\u8868\u73FE\u3059\u308B\u3053\u3068\u3082\u3042\u308B\uFF09\u3002\u660E\u3089\u304B\u306B\u30E2\u30F3\u30C6\u30A3\u30FB\u30D1\u30A4\u30BD\u30F3\u3092\u8A71\u984C\u306B\u3057\u3066\u3044\u308B\u5834\u5408\u3001\u5358\u306B\u30D1\u30A4\u30BD\u30F3\u30BA\u3068\u8A00\u3046\u3053\u3068\u3082\u3042\u308B\u3002 1969\u5E74\u304B\u3089\u59CB\u307E\u3063\u305FBBC\u30C6\u30EC\u30D3\u756A\u7D44\u300E\u7A7A\u98DB\u3076\u30E2\u30F3\u30C6\u30A3\u30FB\u30D1\u30A4\u30BD\u30F3\u300F\u3067\u4EBA\u6C17\u3092\u535A\u3057\u3001\u305D\u306E\u5F8C\u3082\u30E9\u30A4\u30D6\u3001\u6620\u753B\u3001\u30A2\u30EB\u30D0\u30E0\u3001\u66F8\u7C4D\u3001\u821E\u53F0\u5287\u7B49\u3067\u6D3B\u8E8D\u306E\u5834\u3092\u5E83\u3052\u3001\u305D\u306E\u7206\u767A\u7684\u306A\u30A4\u30F3\u30D1\u30AF\u30C8\u306F\u30E1\u30F3\u30D0\u30FC\u500B\u4EBA\u3092\u30B9\u30BF\u30FC\u306E\u5EA7\u306B\u62BC\u3057\u4E0A\u3052\u305F\u3002\u305D\u306E\u30B9\u30B1\u30C3\u30C1\u3068\u30B9\u30B1\u30C3\u30C1\u306E\u5883\u754C\u7DDA\u3092\u306A\u304F\u3057\u305F\u9769\u65B0\u7684\u306A\u69CB\u6210\u3068\u5B8C\u6210\u5EA6\u306E\u9AD8\u3044\u30B9\u30B1\u30C3\u30C1\u306E\u6570\u3005\u306F\u3001\u30A2\u30E1\u30EA\u30AB\u306E\u30B3\u30E1\u30C7\u30A3\u756A\u7D44\u300E\u30B5\u30BF\u30C7\u30FC\u30FB\u30CA\u30A4\u30C8\u30FB\u30E9\u30A4\u30D6\u300F\u3092\u306F\u3058\u3081\u69D8\u3005\u306A\u30B8\u30E3\u30F3\u30EB\u306E\u30DD\u30C3\u30D7\u30FB\u30AB\u30EB\u30C1\u30E3\u30FC\u306B\u5927\u304D\u306A\u5F71\u97FF\u3092\u4E0E\u3048\u3001\u300C\u30B3\u30E1\u30C7\u30A3\u754C\u306B\u304A\u3051\u308B\u30D3\u30FC\u30C8\u30EB\u30BA\u300D\u3068\u8868\u73FE\u3055\u308C\u305F\u3002\u305D\u306E\u4E0D\u6761\u7406\u306A\u30B9\u30BF\u30A4\u30EB\u306F\u300CPythonesque\u300D\u3068\u3044\u3046\u9020\u8A9E\u3067\u8868\u3055\u308C\u3001\u300E\u30AA\u30C3\u30AF\u30B9\u30D5\u30A9\u30FC\u30C9\u82F1\u8A9E\u8F9E\u66F8\u300F\u306B\u3082\u53CE\u9332\u3055\u308C\u3066\u3044\u308B\u3002 \u65E5\u672C\u3067\u306F1976\u5E74\u304B\u3089\u3001\u6771\u4EAC12\u30C1\u30E3\u30F3\u30CD\u30EB\uFF08\u73FE\u30C6\u30EC\u30D3\u6771\u4EAC\uFF09\u3067\u3001\u91D1\u66DC\u65E5\u306E22\u6642\u53F0\u306B\u300E\u7A7A\u98DB\u3076\u30E2\u30F3\u30C6\u30A3\u30FB\u30D1\u30A4\u30BD\u30F3\u300F\u306E\u5439\u66FF\u7248\u304C\u521D\u653E\u9001\u3055\u308C\u305F\u3002"@ja ,
+		"Monty Python (also collectively known as the Pythons) were a British surreal comedy troupe who created the sketch comedy television show Monty Python's Flying Circus, which first aired on the BBC in 1969. Forty-five episodes were made over four series. The Python phenomenon developed from the television series into something larger in scope and impact, including touring stage shows, films, albums, books and musicals. The Pythons' influence on comedy has been compared to the Beatles' influence on music. Regarded as an enduring icon of 1970s pop culture, their sketch show has been referred to as being \u201Can important moment in the evolution of television comedy\"."@en ,
+		"Monty Python \u00E8 stato un gruppo comico britannico, attivo principalmente dal 1969 al 1983 e costituito da Graham Chapman, John Cleese, Terry Gilliam, Eric Idle, Terry Jones e Michael Palin. I membri dei Monty Python hanno avuto un'istruzione di alto livello (tutti tranne Gilliam laureati a Oxford o Cambridge) e la loro commedia \u00E8 spesso acutamente intellettuale, con uso innovativo di tecniche classiche, autoreferenze e numerosi riferimenti culturali. Hanno inoltre lavorato nel cinema come protagonisti nei film Monty Python e il Sacro Graal, Brian di Nazareth e Monty Python - Il senso della vita. Quest'ultimo vinse il Gran Premio della Giuria al Festival di Cannes nel 1983. I Monty Python sono, inoltre, autori ed interpreti del Monty Python's Flying Circus (Il circo volante dei Monty Python)"@it ,
+		"\u041C\u043E\u043D\u0442\u0456 \u041F\u0430\u0439\u0442\u043E\u043D (\u0430\u043D\u0433\u043B. Monty Python) \u2014 \u043A\u043E\u043C\u0456\u043A-\u0433\u0443\u0440\u0442 \u0437 \u0412\u0435\u043B\u0438\u043A\u043E\u0457 \u0411\u0440\u0438\u0442\u0430\u043D\u0456\u0457, \u043A\u043E\u043B\u0435\u043A\u0442\u0438\u0432\u043D\u0435 \u0456\u043C'\u044F \u0430\u0432\u0442\u043E\u0440\u0456\u0432 \u043A\u043E\u043C\u0435\u0434\u0456\u0439\u043D\u043E\u0433\u043E \u0448\u043E\u0443 \u00AB\u041B\u0456\u0442\u0430\u044E\u0447\u0438\u0439 \u0426\u0438\u0440\u043A \u041C\u043E\u043D\u0442\u0456 \u041F\u0430\u0439\u0442\u043E\u043D\u0430\u00BB, \u0431\u0440\u0438\u0442\u0430\u043D\u0441\u044C\u043A\u043E\u0433\u043E \u0442\u0435\u043B\u0435\u0432\u0456\u0437\u0456\u0439\u043D\u043E\u0433\u043E \u043A\u043E\u043C\u0435\u0434\u0456\u0439\u043D\u043E\u0433\u043E \u0441\u043A\u0435\u0442\u0447-\u0448\u043E\u0443, \u0449\u043E \u0432\u043F\u0435\u0440\u0448\u0435 \u0432\u0438\u0439\u0448\u043B\u043E \u0432 \u0435\u0444\u0456\u0440 5 \u0436\u043E\u0432\u0442\u043D\u044F 1969 \u0440\u043E\u043A\u0443. 45 \u0441\u0435\u0440\u0456\u0439 \u0448\u043E\u0443, \u043E\u0431'\u0454\u0434\u043D\u0430\u043D\u0456 \u0432 4 \u0441\u0435\u0437\u043E\u043D\u0438, \u0441\u043A\u043B\u0430\u0434\u0430\u043B\u0438\u0441\u044F \u0437 \u043E\u043A\u0440\u0435\u043C\u0438\u0445 \u0441\u043A\u0435\u0442\u0447\u0456\u0432 \u0442\u0430 \u0441\u044E\u0440\u0440\u0435\u0430\u043B\u0456\u0441\u0442\u0438\u0447\u043D\u0438\u0445 \u0430\u043D\u0456\u043C\u0430\u0446\u0456\u0439 \u0422\u0435\u0440\u0440\u0456 \u0413\u0456\u043B\u043B\u0456\u0430\u043C\u0430, \u043E\u0431'\u0454\u0434\u043D\u0430\u043D\u0438\u0445 \u043D\u0435 \u0437\u0430\u0433\u0430\u043B\u044C\u043D\u0438\u043C \u0441\u044E\u0436\u0435\u0442\u043E\u043C, \u0430 \u044F\u043A\u043E\u044E\u0441\u044C \u0456\u0434\u0435\u0454\u044E, \u0447\u0430\u0441\u0442\u0456\u0448\u0435 \u0430\u0431\u0441\u0443\u0440\u0434\u043D\u043E\u044E. \u00AB\u041B\u0456\u0442\u0430\u044E\u0447\u0438\u0439 \u0446\u0438\u0440\u043A\u00BB \u043D\u0435 \u0442\u0456\u043B\u044C\u043A\u0438 \u0437\u0440\u043E\u0431\u0438\u0432 \u0437\u043D\u0430\u043C\u0435\u043D\u0438\u0442\u0438\u043C\u0438 \u0443\u0447\u0430\u0441\u043D\u0438\u043A\u0456\u0432 \u041C\u043E\u043D\u0442\u0456 \u041F\u0430\u0439\u0442\u043E\u043D, \u0430\u043B\u0435 \u0456 \u0441\u0435\u0440\u0439\u043E\u0437\u043D\u043E \u0432\u043F\u043B\u0438\u043D\u0443\u0432 \u043D\u0430 \u043F\u043E\u0434\u0430\u043B\u044C\u0448\u0438\u0439 \u0440\u043E\u0437\u0432\u0438\u0442\u043E\u043A \u043A\u043E\u043C\u0435\u0434\u0456\u0439\u043D\u043E\u0433\u043E \u0436\u0430\u043D\u0440\u0443."@uk ,
+		"Monty Python [\u02CCm\u0252nti \u02C8pa\u026A\u03B8\u0259n] () war eine britische Komikergruppe. Sie wurde 1969 gegr\u00FCndet und hatte ihre Bl\u00FCtezeit in den 1970er Jahren, in denen die Fernsehserie Monty Python\u2019s Flying Circus und mehrere Kinofilme, unter anderem Das Leben des Brian, entstanden. 1983 l\u00F6ste sich die Gruppe vorerst auf. Der letzte gemeinsame Auftritt aller sechs Mitglieder fand 1989 zur Produktion der Jubil\u00E4umszusammenstellung Parrot Sketch Not Included \u2013 20 Years of Monty Python statt. Nach dem Tod von Graham Chapman 1989 traten die verbliebenen f\u00FCnf Mitglieder 2014 wieder gemeinsam auf. Mit der letzten Show am 20. Juli 2014 l\u00F6ste sich die Gruppe auf. Ihr humoristischer Einfluss gilt bis heute als wegweisend und wurde von zahlreichen Komikern adaptiert und weiterentwickelt."@de ,
+		"Monty Python (a veces conocidos como Los Pythons)\u200B\u200B fue un grupo brit\u00E1nico de seis humoristas que sintetiz\u00F3 en clave de humor la idiosincrasia brit\u00E1nica de los a\u00F1os 1960 y 1970, compuesto por Graham Chapman, John Cleese, Terry Gilliam, Eric Idle, Terry Jones y Michael Palin. Del grupo \u00FAnicamente Terry Gilliam no era brit\u00E1nico sino estadounidense. En 2009 el grupo recibi\u00F3 el premio BAFTA honor\u00EDfico por su contribuci\u00F3n al mundo de la comedia. El premio se lo entregaron en el preestreno del documental dedicado al fallecido Graham Chapman, .\u200B"@es ,
+		"Monty Python is een Britse komediegroep, die vijf films, vele albums, vier computerspellen, verscheidene boeken, vier tv-seizoenen met 45 afleveringen en diverse andere merchandising op haar naam heeft staan. De groep staat bekend om het (succesvol) doorbreken van de toen conventionele komedieregels. De groep bestaat uit de leden: \n* Graham Chapman (1941-1989) \n* John Cleese (1939) \n* Terry Gilliam (1940) \n* Eric Idle (1943) \n* Terry Jones (1942-2020) \n* Michael Palin (1943)"@nl ,
+		"Monty Python britaniar aktore komiko talde baten izena da.  izeneko telesaioarekin hasi zen python fenomenoa, zein munduan zehar hedatu zen haien filmei esker. Telesaioa lehen aldiz 1969an eman zen. Graham Chapman, John Cleese, Terry Gilliam, Eric Idle, Terry Jones eta Michael Palin ziren aktoreak zein gidoilariak. Terry Gilliam-en marrazkiak lagunduta, onargarriaren mugak (estiloan eta edukian) pixka bat haratago eraman zituzten."@eu ,
+		"Monty Python ou The Pythons  \u00E9 um grupo de com\u00E9dia brit\u00E2nico, que foram os criadores e int\u00E9rpretes da s\u00E9rie c\u00F4mica Monty Python's Flying Circus, um programa de televis\u00E3o brit\u00E2nico que foi ao ar pela primeira vez em 5 de outubro de 1969. Como s\u00E9rie televisiva, consistiu de 45 epis\u00F3dios divididos em 4 temporadas. Entretanto o fen\u00F4meno Python n\u00E3o se limitou a apenas isso, espalhando-se por shows, filmes, programas de r\u00E1dio e diversos jogos de computador e livros, al\u00E9m de lan\u00E7ar seus seis integrantes ao estrelato."@pt ,
+		"\u8499\u63D0\u00B7\u6D3E\u68EE\uFF08\u82F1\u8A9E\uFF1AMonty Python\uFF0C\u4E5F\u4F5CThe Pythons\uFF09\uFF0C\u53C8\u8B6F\u70BA\u5DE8\u87D2\u5267\u56E2\u3001\u8499\u63D0\u5DE8\u87D2\uFF0C\u662F\u82F1\u56FD\u7684\u4E00\u7EC4\u8D85\u73B0\u5B9E\u5E7D\u9ED8\u8868\u6F14\u56E2\u4F53\u3002\u5176\u521B\u4F5C\u7684\u82F1\u56FD\u7535\u89C6\u559C\u5267\u7247\u300A\u8499\u63D0\u00B7\u6D3E\u68EE\u7684\u98DE\u884C\u9A6C\u620F\u56E2\u300B\uFF0C\u4E8E1969\u5E7410\u67085\u65E5\u5728BBC\u4E0A\u516C\u5F00\u64AD\u51FA\uFF0C\u5171\u64AD\u51FA\u4E864\u5B63\u8BA145\u96C6\u3002\u53D1\u6E90\u4E8E\u7535\u89C6\u5267\u7684\u6D3E\u68EE\u5267\u56E2\uFF0C\u5176\u5F71\u54CD\u529B\u5728\u968F\u540E\u6570\u5341\u5E74\u91CC\u6301\u7EED\u4E0A\u5347\uFF0C\u4EA7\u751F\u4E86\u5DE1\u56DE\u821E\u53F0\u8868\u6F14\u3001\u7535\u5F71\u3001\u591A\u90E8\u97F3\u4E50\u4E13\u8F91\u3001\u51E0\u672C\u4E66\u7C4D\u548C\u4E00\u90E8\u821E\u53F0\u5267\u4F5C\u54C1\uFF0C\u5176\u6210\u5458\u4E5F\u8E0F\u4E0A\u4E86\u72EC\u7ACB\u7684\u661F\u9014\u3002\u6D3E\u68EE\u5267\u56E2\u4E4B\u4E8E\u559C\u5267\u7684\u5F71\u54CD\u529B\uFF0C\u4E0D\u4E9A\u4E8E\u62AB\u5934\u58EB\u4E50\u961F\u5BF9\u97F3\u4E50\u7684\u5F71\u54CD\u3002 1969\u5E74\u52301974\u5E74\u5728BBC\u64AD\u51FA\u7684\u7535\u89C6\u5267\uFF0C\u7531\u683C\u96F7\u5384\u59C6\u00B7\u67E5\u666E\u66FC\u3001\u7EA6\u7FF0\u00B7\u514B\u91CC\u65AF\u3001\u7279\u91CC\u00B7\u5409\u5217\u59C6\u3001\u57C3\u91CC\u514B\u00B7\u827E\u5FB7\u5C14\u3001\u7279\u91CC\u00B7\u743C\u65AF\u548C\u8FC8\u514B\u5C14\u00B7\u5E15\u6797\u6784\u60F3\u3001\u7F16\u5267\u548C\u9970\u6F14\u3002\u5168\u5267\u7ED3\u6784\u677E\u6563\uFF0C\u7C7B\u4F3C\u5C0F\u54C1\u8868\u6F14\uFF0C\u4F46\u7A7F\u63D2\u6709\u521B\u65B0\u7684\u610F\u8BC6\u6D41\u8868\u73B0\u5F62\u5F0F\uFF08\u501F\u52A9\u4E8E\u5409\u5217\u59C6\u7684\u52A8\u753B\uFF09\uFF0C\u6311\u6218\u4E86\u5F53\u65F6\u8868\u6F14\u98CE\u683C\u4E0E\u5185\u5BB9\u7684\u9650\u5236\u3002\u6D3E\u68EE\u5267\u56E2\u81EA\u7ED9\u81EA\u8DB3\uFF0C\u540C\u65F6\u8D1F\u8D23\u7F16\u5267\u548C\u8868\u6F14\u4E24\u65B9\u9762\u5DE5\u4F5C\uFF0C\u4E0D\u53D7\u5230\u7535\u89C6\u559C\u5267\u7684\u6761\u6846\u9650\u5236\uFF0C\u5F97\u4EE5\u5B9E\u8DF5\u521B\u9020\u6027\u7684\u8868\u6F14\u5F62\u5F0F\u548C\u5185\u5BB9\u3002\u4ED6\u4EEC\u5BF9\u82F1\u56FD\u559C\u5267\u4EA7\u751F\u4E86\u7ECF\u5E74\u4E0D\u606F\u7684\u5F71\u54CD\uFF1B\u5728\u5317\u7F8E\uFF0C\u4ED6\u4EEC\u5728\u7535\u89C6\u559C\u5267\u4E2D\u5F70\u663E\u4E86\u90AA\u5178\u8868\u6F14\uFF0C\u65E0\u8BBA\u662F\u65E9\u671F\u7684\u300A\u5468\u516D\u591C\u73B0\u573A\u300B\u8FD8\u662F\u65B0\u8FD1\u7684\u8352\u8BDE\u5267\u90FD\u6DF1\u53D7\u5F71\u54CD\u3002\u53D7\u5176\u5F71\u54CD\uFF0C\u5355\u8BCD\u201CPythonesque\u201D\u5DF2\u8FDB\u5165\u82F1\u8BED\u8BCD\u6C47\u3002"@zh ,
+		"\u00AB\u041C\u043E\u0301\u043D\u0442\u0438 \u041F\u0430\u0301\u0439\u0442\u043E\u043D\u00BB (\u0430\u043D\u0433\u043B. Monty Python; \u0443\u0447\u0430\u0441\u0442\u043D\u0438\u043A\u043E\u0432 \u043A\u043E\u043C\u0430\u043D\u0434\u044B \u043D\u0430\u0437\u044B\u0432\u0430\u044E\u0442 \u00AB\u043F\u0438\u0442\u043E\u043D\u0430\u043C\u0438\u00BB, \u0440\u0435\u0436\u0435 \u2014 \u00AB\u043F\u0430\u0439\u0442\u043E\u043D\u0430\u043C\u0438\u00BB) \u2014 \u043A\u043E\u043C\u0438\u043A-\u0433\u0440\u0443\u043F\u043F\u0430 \u0438\u0437 \u0412\u0435\u043B\u0438\u043A\u043E\u0431\u0440\u0438\u0442\u0430\u043D\u0438\u0438, \u0441\u043E\u0441\u0442\u043E\u044F\u0432\u0448\u0430\u044F \u0438\u0437 \u0448\u0435\u0441\u0442\u0438 \u0447\u0435\u043B\u043E\u0432\u0435\u043A. \u0411\u043B\u0430\u0433\u043E\u0434\u0430\u0440\u044F \u0441\u0432\u043E\u0435\u043C\u0443 \u043D\u043E\u0432\u0430\u0442\u043E\u0440\u0441\u043A\u043E\u043C\u0443, \u0430\u0431\u0441\u0443\u0440\u0434\u0438\u0441\u0442\u0441\u043A\u043E\u043C\u0443 \u044E\u043C\u043E\u0440\u0443 \u0443\u0447\u0430\u0441\u0442\u043D\u0438\u043A\u0438 \u00AB\u041C\u043E\u043D\u0442\u0438 \u041F\u0430\u0439\u0442\u043E\u043D\u00BB \u043D\u0430\u0445\u043E\u0434\u044F\u0442\u0441\u044F \u0432 \u0447\u0438\u0441\u043B\u0435 \u0441\u0430\u043C\u044B\u0445 \u0432\u043B\u0438\u044F\u0442\u0435\u043B\u044C\u043D\u044B\u0445 \u043A\u043E\u043C\u0438\u043A\u043E\u0432 \u0432\u0441\u0435\u0445 \u0432\u0440\u0435\u043C\u0451\u043D. \u0412\u043B\u0438\u044F\u043D\u0438\u0435, \u043E\u043A\u0430\u0437\u0430\u043D\u043D\u043E\u0435 \u043A\u043E\u043B\u043B\u0435\u043A\u0442\u0438\u0432\u043E\u043C \u043D\u0430 \u0436\u0430\u043D\u0440 \u043A\u043E\u043C\u0435\u0434\u0438\u0438, \u0441\u0440\u0430\u0432\u043D\u0438\u0432\u0430\u044E\u0442 \u0441 \u0432\u043B\u0438\u044F\u043D\u0438\u0435\u043C, \u043E\u043A\u0430\u0437\u0430\u043D\u043D\u044B\u043C \u0433\u0440\u0443\u043F\u043F\u043E\u0439 The Beatles \u043D\u0430 \u043F\u043E\u043F- \u0438 \u0440\u043E\u043A-\u043C\u0443\u0437\u044B\u043A\u0443. \u0413\u0440\u0443\u043F\u043F\u0430 \u0438\u0437\u0432\u0435\u0441\u0442\u043D\u0430 \u0432\u043E \u043C\u043D\u043E\u0433\u043E\u043C \u0431\u043B\u0430\u0433\u043E\u0434\u0430\u0440\u044F \u044E\u043C\u043E\u0440\u0438\u0441\u0442\u0438\u0447\u0435\u0441\u043A\u043E\u043C\u0443 \u0442\u0435\u043B\u0435\u0448\u043E\u0443 \u00AB\u041B\u0435\u0442\u0430\u044E\u0449\u0438\u0439 \u0446\u0438\u0440\u043A \u041C\u043E\u043D\u0442\u0438 \u041F\u0430\u0439\u0442\u043E\u043D\u0430\u00BB, \u0432\u044B\u0445\u043E\u0434\u0438\u0432\u0448\u0435\u043C\u0443 \u043D\u0430 BBC \u0432 1969\u20141974 \u0433\u043E\u0434\u0430\u0445; \u0442\u0430\u043A\u0436\u0435 \u043E\u043D\u0430 \u0432\u044B\u043F\u0443\u0441\u0442\u0438\u043B\u0430 4 \u043F\u043E\u043B\u043D\u043E\u043C\u0435\u0442\u0440\u0430\u0436\u043D\u044B\u0445 \u0444\u0438\u043B\u044C\u043C\u0430, \u0432\u044B\u0441\u0442\u0443\u043F\u0430\u043B\u0430 \u0441 \u043A\u043E\u043D\u0446\u0435\u0440\u0442\u0430\u043C\u0438, \u0432\u044B\u043F\u0443\u0441\u043A\u0430\u043B\u0430 \u043C\u0443\u0437\u044B\u043A\u0430\u043B\u044C\u043D\u044B\u0435 \u0430\u043B\u044C\u0431\u043E\u043C\u044B, \u043A\u043D\u0438\u0433\u0438, \u043C\u044E\u0437\u0438\u043A\u043B. \u0411\u043E\u043B\u044C\u0448\u0438\u043D\u0441\u0442\u0432\u043E \u0443\u0447\u0430\u0441\u0442\u043D\u0438\u043A\u043E\u0432 \u0433\u0440\u0443\u043F\u043F\u044B \u043F\u043E\u0441\u043B\u0435 \u0435\u0451 \u0440\u0430\u0441\u043F\u0430\u0434\u0430 \u0432 1983 \u0433\u043E\u0434\u0443 \u0437\u0430\u043D\u044F\u043B\u0438\u0441\u044C \u0443\u0441\u043F\u0435\u0448\u043D\u043E\u0439 \u0441\u043E\u043B\u044C\u043D\u043E\u0439 \u043A\u0430\u0440\u044C\u0435\u0440\u043E\u0439, \u043D\u043E \u0437\u0430\u0442\u0435\u043C \u043D\u0435\u043E\u0434\u043D\u043E\u043A\u0440\u0430\u0442\u043D\u043E \u0441\u0445\u043E\u0434\u0438\u043B\u0438\u0441\u044C \u0432\u043D\u043E\u0432\u044C \u0434\u043B\u044F \u0440"@ru ,
+		"Monty Python [\u02CCm\u0252nti \u02C8pa\u026A\u03B8n] byla britsk\u00E1 komedi\u00E1ln\u00ED skupina zalo\u017Een\u00E1 v roce 1969. Jejich prvn\u00ED pr\u00E1ce byl komedi\u00E1ln\u00ED seri\u00E1l pro televizn\u00ED s\u00ED\u0165 BBC nazvan\u00FD Monty Python's Flying Circus (Monty Python\u016Fv l\u00E9taj\u00EDc\u00ED cirkus); vys\u00EDlal se 4 sez\u00F3ny v letech 1969\u20131974 a m\u00E1 celkem 45 d\u00EDl\u016F. Tento seri\u00E1l se skl\u00E1dal z jednotliv\u00FDch ske\u010D\u016F, ale existuj\u00ED i d\u00EDly pojat\u00E9 jako jeden p\u0159\u00EDb\u011Bh. V\u0161ichni \u010Dlenov\u00E9 ho spole\u010Dn\u011B psali a pravideln\u011B hr\u00E1li v\u011Bt\u0161inu rol\u00ED (v\u010Detn\u011B mnoha \u017Eensk\u00FDch). K seri\u00E1lu nebyl po\u0159\u00EDzen \u010Desk\u00FD dabing, \u010Desk\u00E9 titulky napsal scen\u00E1rista a re\u017Eis\u00E9r ."@cs ,
+		"Monty Python va ser un grup brit\u00E0nic d'humoristes que van sintetitzar en clau d\u2019humor la idiosincr\u00E0sia brit\u00E0nica dels anys seixanta i setanta. Van obtenir la fama amb la s\u00E8rie de televisi\u00F3 Monty Python's Flying Circus (El Circ Ambulant de Monty Python), basada en esquetxos breus que en moltes ocasions inclo\u00EFen una important c\u00E0rrega de cr\u00EDtica social i en qu\u00E8 la majoria de les obres fregaven l'absurd total. El primer episodi el va emetre el 5 d'octubre de 1969 la cadena brit\u00E0nica BBC. La s\u00E8rie va continuar en antena fins al 1974 i es va emetre m\u00FAltiples vegades en diferents pa\u00EFsos."@ca ,
+		"Monty Python, grupa Monty Pythona, Pythoni \u2013 zesp\u00F3\u0142 tw\u00F3rc\u00F3w i gwiazd telewizyjnego serialu komediowego Lataj\u0105cy cyrk Monty Pythona, za\u0142o\u017Cony pod koniec lat 60. XX wieku w Anglii. W sk\u0142ad grupy wchodzi\u0142o sze\u015Bciu komik\u00F3w: Graham Chapman, John Cleese, Terry Gilliam, Eric Idle, Terry Jones i Michael Palin."@pl ,
+		"Monty Python est le nom d'une troupe d'humoristes rendue c\u00E9l\u00E8bre initialement gr\u00E2ce \u00E0 sa premi\u00E8re cr\u00E9ation, la s\u00E9rie t\u00E9l\u00E9vis\u00E9e Monty Python's Flying Circus dont la diffusion d\u00E9buta \u00E0 la BBC le 5 octobre 1969 et qui se poursuivit durant 45 \u00E9pisodes jusqu'au 5 d\u00E9cembre 1974. La troupe \u00E9tait compos\u00E9e de six membres : Graham Chapman, John Cleese, Eric Idle, Michael Palin, Terry Jones et Terry Gilliam. La majorit\u00E9 des membres du groupe sont anglais sauf pour Terry Gilliam qui vient des \u00C9tats-Unis et Terry Jones qui est d'origine galloise."@fr ;
+	foaf:name	"Monty Python"@en .
+@prefix ns22:	<https://www.youtube.com/user/> .
+dbr:Monty_Python	foaf:homepage	ns22:MontyPython ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Monty_Python .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Monty_Python	dct:subject	dbc:British_comedy_troupes ,
+		<http://dbpedia.org/resource/Category:1983_disestablishments_in_England> ,
+		<http://dbpedia.org/resource/Category:European_Film_Awards_winners_(people)> ,
+		dbc:Arista_Records_artists ,
+		dbc:Black_comedy ,
+		dbc:British_novelty_song_performers ,
+		dbc:BAFTA_Outstanding_British_Contribution_to_Cinema_Award ,
+		<http://dbpedia.org/resource/Category:1969_establishments_in_England> ,
+		dbc:British_comedy_musicians ,
+		dbc:Virgin_Records_artists ,
+		dbc:Surreal_comedy ,
+		dbc:British_surrealist_artists ,
+		dbc:British_surrealist_writers ,
+		dbc:Charisma_Records_artists ,
+		dbc:Monty_Python ,
+		dbc:Religious_comedy_and_humour ,
+		dbc:Surrealist_groups ,
+		dbc:British_television_comedy .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Monty_Python	owl:sameAs	dbpedia-it:Monty_Python ,
+		<http://bg.dbpedia.org/resource/\u041C\u043E\u043D\u0442\u0438_\u041F\u0430\u0439\u0442\u044A\u043D> ,
+		<http://ru.dbpedia.org/resource/\u041C\u043E\u043D\u0442\u0438_\u041F\u0430\u0439\u0442\u043E\u043D> .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:Monty_Python	owl:sameAs	dbpedia-es:Monty_Python .
+@prefix dbpedia-io:	<http://io.dbpedia.org/resource/> .
+dbr:Monty_Python	owl:sameAs	dbpedia-io:Monty_Python .
+@prefix dbpedia-el:	<http://el.dbpedia.org/resource/> .
+dbr:Monty_Python	owl:sameAs	dbpedia-el:Monty_Python .
+@prefix ns29:	<http://sw.cyc.com/concept/> .
+dbr:Monty_Python	owl:sameAs	ns29:Mx4rZF6VGBfVTbKpgsx60e-L1A .
+@prefix dbpedia-et:	<http://et.dbpedia.org/resource/> .
+dbr:Monty_Python	owl:sameAs	dbpedia-et:Monty_Python ,
+		wikidata:Q16402 .
+@prefix dbpedia-id:	<http://id.dbpedia.org/resource/> .
+dbr:Monty_Python	owl:sameAs	dbpedia-id:Monty_Python .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Monty_Python	owl:sameAs	dbpedia-pt:Monty_Python ,
+		<http://ar.dbpedia.org/resource/\u0645\u0648\u0646\u062A\u064A_\u0628\u0627\u064A\u062B\u0648\u0646> .
+@prefix dbpedia-lmo:	<http://lmo.dbpedia.org/resource/> .
+dbr:Monty_Python	owl:sameAs	dbpedia-lmo:Monty_Python .
+@prefix dbpedia-da:	<http://da.dbpedia.org/resource/> .
+dbr:Monty_Python	owl:sameAs	dbpedia-da:Monty_Python ,
+		<http://viaf.org/viaf/154754514> .
+@prefix dbpedia-hu:	<http://hu.dbpedia.org/resource/> .
+dbr:Monty_Python	owl:sameAs	dbpedia-hu:Monty_Python .
+@prefix ns36:	<http://sco.dbpedia.org/resource/> .
+dbr:Monty_Python	owl:sameAs	ns36:Monty_Python .
+@prefix dbpedia-hr:	<http://hr.dbpedia.org/resource/> .
+dbr:Monty_Python	owl:sameAs	dbpedia-hr:Monty_Python ,
+		<http://ka.dbpedia.org/resource/\u10DB\u10DD\u10DC\u10E2\u10D8_\u10DE\u10D0\u10D8\u10D7\u10DD\u10DC\u10D8> .
+@prefix dbpedia-fi:	<http://fi.dbpedia.org/resource/> .
+dbr:Monty_Python	owl:sameAs	dbpedia-fi:Monty_Python .
+@prefix ns39:	<http://lv.dbpedia.org/resource/> .
+dbr:Monty_Python	owl:sameAs	ns39:Monty_Python ,
+		<http://he.dbpedia.org/resource/\u05DE\u05D5\u05E0\u05D8\u05D9_\u05E4\u05D9\u05D9\u05EA\u05D5\u05DF> ,
+		<http://d-nb.info/gnd/1086399684> .
+@prefix dbpedia-simple:	<http://simple.dbpedia.org/resource/> .
+dbr:Monty_Python	owl:sameAs	dbpedia-simple:Monty_Python .
+@prefix dbpedia-sq:	<http://sq.dbpedia.org/resource/> .
+dbr:Monty_Python	owl:sameAs	dbpedia-sq:Monty_Python .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Monty_Python	owl:sameAs	yago-res:Monty_Python ,
+		<http://d-nb.info/gnd/811153-4> .
+@prefix dbpedia-eo:	<http://eo.dbpedia.org/resource/> .
+dbr:Monty_Python	owl:sameAs	dbpedia-eo:Monty_Python .
+@prefix dbpedia-eu:	<http://eu.dbpedia.org/resource/> .
+dbr:Monty_Python	owl:sameAs	dbpedia-eu:Monty_Python ,
+		<http://d-nb.info/gnd/4286034-9> .
+@prefix dbpedia-ms:	<http://ms.dbpedia.org/resource/> .
+dbr:Monty_Python	owl:sameAs	dbpedia-ms:Monty_Python ,
+		dbr:Monty_Python ,
+		<http://sr.dbpedia.org/resource/\u041C\u043E\u043D\u0442\u0438_\u041F\u0430\u0458\u0442\u043E\u043D> ,
+		<http://uk.dbpedia.org/resource/\u041C\u043E\u043D\u0442\u0456_\u041F\u0430\u0439\u0442\u043E\u043D> ,
+		<http://ja.dbpedia.org/resource/\u30E2\u30F3\u30C6\u30A3\u30FB\u30D1\u30A4\u30BD\u30F3> .
+@prefix dbpedia-sv:	<http://sv.dbpedia.org/resource/> .
+dbr:Monty_Python	owl:sameAs	dbpedia-sv:Monty_Python .
+@prefix dbpedia-cs:	<http://cs.dbpedia.org/resource/> .
+dbr:Monty_Python	owl:sameAs	dbpedia-cs:Monty_Python .
+@prefix dbpedia-tr:	<http://tr.dbpedia.org/resource/> .
+dbr:Monty_Python	owl:sameAs	dbpedia-tr:Monty_Python .
+@prefix ns49:	<http://lt.dbpedia.org/resource/> .
+dbr:Monty_Python	owl:sameAs	ns49:Monty_Python .
+@prefix dbpedia-is:	<http://is.dbpedia.org/resource/> .
+dbr:Monty_Python	owl:sameAs	dbpedia-is:Monty_Python .
+@prefix dbpedia-sl:	<http://sl.dbpedia.org/resource/> .
+dbr:Monty_Python	owl:sameAs	dbpedia-sl:Monty_Python .
+@prefix dbpedia-ca:	<http://ca.dbpedia.org/resource/> .
+dbr:Monty_Python	owl:sameAs	dbpedia-ca:Monty_Python .
+@prefix dbpedia-nn:	<http://nn.dbpedia.org/resource/> .
+dbr:Monty_Python	owl:sameAs	dbpedia-nn:Monty_Python .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Monty_Python	owl:sameAs	dbpedia-nl:Monty_Python .
+@prefix dbpedia-no:	<http://no.dbpedia.org/resource/> .
+dbr:Monty_Python	owl:sameAs	dbpedia-no:Monty_Python ,
+		<http://arz.dbpedia.org/resource/\u0645\u0648\u0646\u062A\u0649_\u0628\u0627\u064A\u062B\u0648\u0646> .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Monty_Python	owl:sameAs	dbpedia-de:Monty_Python .
+@prefix dbpedia-br:	<http://br.dbpedia.org/resource/> .
+dbr:Monty_Python	owl:sameAs	dbpedia-br:Monty_Python ,
+		<http://zh.dbpedia.org/resource/\u8499\u63D0\u00B7\u6D3E\u68EE> .
+@prefix dbpedia-la:	<http://la.dbpedia.org/resource/> .
+dbr:Monty_Python	owl:sameAs	dbpedia-la:Monty_Python .
+@prefix ns59:	<http://d-nb.info/gnd/811153-4/about/> .
+dbr:Monty_Python	owl:sameAs	ns59:rdf .
+@prefix ns60:	<https://global.dbpedia.org/id/> .
+dbr:Monty_Python	owl:sameAs	ns60:caLs .
+@prefix dbpedia-an:	<http://an.dbpedia.org/resource/> .
+dbr:Monty_Python	owl:sameAs	dbpedia-an:Monty_Python ,
+		<http://fa.dbpedia.org/resource/\u0645\u0627\u0646\u062A\u06CC_\u067E\u0627\u06CC\u062A\u0627\u0646> ,
+		<http://musicbrainz.org/artist/4a5c8526-f8ec-43f1-97af-49722ad88394> .
+@prefix dbpedia-sk:	<http://sk.dbpedia.org/resource/> .
+dbr:Monty_Python	owl:sameAs	dbpedia-sk:Monty_Python .
+@prefix dbpedia-nds:	<http://nds.dbpedia.org/resource/> .
+dbr:Monty_Python	owl:sameAs	dbpedia-nds:Monty_Python .
+@prefix dbpedia-war:	<http://war.dbpedia.org/resource/> .
+dbr:Monty_Python	owl:sameAs	dbpedia-war:Monty_Python .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Monty_Python	owl:sameAs	dbpedia-pl:Monty_Python ,
+		<http://rdf.freebase.com/ns/m.04sd0> ,
+		<http://ko.dbpedia.org/resource/\uBAAC\uD2F0_\uD30C\uC774\uD2BC> .
+@prefix dbpedia-sh:	<http://sh.dbpedia.org/resource/> .
+dbr:Monty_Python	owl:sameAs	dbpedia-sh:Monty_Python .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Monty_Python	owl:sameAs	dbpedia-fr:Monty_Python .
+@prefix dbpedia-ro:	<http://ro.dbpedia.org/resource/> .
+dbr:Monty_Python	owl:sameAs	dbpedia-ro:Monty_Python .
+@prefix ns69:	<http://ia.dbpedia.org/resource/> .
+dbr:Monty_Python	owl:sameAs	ns69:Monty_Python .
+@prefix dbpedia-commons:	<http://commons.dbpedia.org/resource/> .
+dbr:Monty_Python	owl:sameAs	dbpedia-commons:Monty_Python ;
+	dbo:abstract	"Monty Python [\u02CCm\u0252nti \u02C8pa\u026A\u03B8\u0259n] () war eine britische Komikergruppe. Sie wurde 1969 gegr\u00FCndet und hatte ihre Bl\u00FCtezeit in den 1970er Jahren, in denen die Fernsehserie Monty Python\u2019s Flying Circus und mehrere Kinofilme, unter anderem Das Leben des Brian, entstanden. 1983 l\u00F6ste sich die Gruppe vorerst auf. Der letzte gemeinsame Auftritt aller sechs Mitglieder fand 1989 zur Produktion der Jubil\u00E4umszusammenstellung Parrot Sketch Not Included \u2013 20 Years of Monty Python statt. Nach dem Tod von Graham Chapman 1989 traten die verbliebenen f\u00FCnf Mitglieder 2014 wieder gemeinsam auf. Mit der letzten Show am 20. Juli 2014 l\u00F6ste sich die Gruppe auf. Ihr humoristischer Einfluss gilt bis heute als wegweisend und wurde von zahlreichen Komikern adaptiert und weiterentwickelt."@de ,
+		"Monty Python ou The Pythons  \u00E9 um grupo de com\u00E9dia brit\u00E2nico, que foram os criadores e int\u00E9rpretes da s\u00E9rie c\u00F4mica Monty Python's Flying Circus, um programa de televis\u00E3o brit\u00E2nico que foi ao ar pela primeira vez em 5 de outubro de 1969. Como s\u00E9rie televisiva, consistiu de 45 epis\u00F3dios divididos em 4 temporadas. Entretanto o fen\u00F4meno Python n\u00E3o se limitou a apenas isso, espalhando-se por shows, filmes, programas de r\u00E1dio e diversos jogos de computador e livros, al\u00E9m de lan\u00E7ar seus seis integrantes ao estrelato. Sua influ\u00EAncia na com\u00E9dia chegou a ser comparada ao impacto causado na m\u00FAsica pelos Beatles. Enquanto no humor brit\u00E2nico sua presen\u00E7a sempre foi n\u00EDtida, nos Estados Unidos ela \u00E9 especialmente evidente em programas de conte\u00FAdo absurdo como South Park, Adult Swim, trechos de Late Night with Conan O'Brien, al\u00E9m do programa Saturday Night Live. O termo , em tradu\u00E7\u00E3o livre 'pythonesco', est\u00E1 em dicion\u00E1rios da l\u00EDngua inglesa para indiciar algo surreal ou absurdo. No Brasil uma gera\u00E7\u00E3o de humoristas e artistas cariocas, como Regina Cas\u00E9, Lu\u00EDs Fernando Guimar\u00E3es, Evandro Mesquita, integrantes do grupo Asdr\u00FAbal Trouxe o Trombone e programas como Casseta e Planeta Urgente! e TV Pirata s\u00E3o exemplos do estilo non-sense sob influ\u00EAncia do Monty Python. O cartunista Allan Sieber e o ator Bruno Mazzeo, mais conhecido pelo seu trabalho na s\u00E9rie Cilada, tamb\u00E9m j\u00E1 admitiram gostar do grupo ingl\u00EAs. Em Portugal, grupos de humoristas, como o Gato Fedorento, afirmam ser fortemente influenciados pelo Monty Python, no modo como os seus sketches muitas vezes tendem para o absurdo. O nome Monty Python foi escolhido por o considerarem engra\u00E7ado. No document\u00E1rio , de 1998, o grupo revelou como o nome foi escolhido. Monty veio em tributo a Lord Montgomery, um lend\u00E1rio general brit\u00E2nico da II Guerra Mundial. Python surgiu pois eles decidiram ter uma palavra que tamb\u00E9m soasse evasiva, e essa pareceu perfeita. Em uma enquete de 2005 para escolher  realizada pela emissora brit\u00E2nica Channel 4, tr\u00EAs dos seis integrantes do Monty Python foram inclu\u00EDdos entre os 50 maiores humoristas. Michael Palin ficou em trig\u00E9simo, Eric Idle em vig\u00E9simo-primeiro e John Cleese em segundo lugar, sendo superado apenas por Peter Cook.Recentemente, todos os integrantes do grupo (menos Graham Chapman, pois faleceu em 1989) se juntaram, para fazer um especial com os epis\u00F3dios mais engra\u00E7ados da s\u00E9rie."@pt ,
+		"\u041C\u043E\u043D\u0442\u0456 \u041F\u0430\u0439\u0442\u043E\u043D (\u0430\u043D\u0433\u043B. Monty Python) \u2014 \u043A\u043E\u043C\u0456\u043A-\u0433\u0443\u0440\u0442 \u0437 \u0412\u0435\u043B\u0438\u043A\u043E\u0457 \u0411\u0440\u0438\u0442\u0430\u043D\u0456\u0457, \u043A\u043E\u043B\u0435\u043A\u0442\u0438\u0432\u043D\u0435 \u0456\u043C'\u044F \u0430\u0432\u0442\u043E\u0440\u0456\u0432 \u043A\u043E\u043C\u0435\u0434\u0456\u0439\u043D\u043E\u0433\u043E \u0448\u043E\u0443 \u00AB\u041B\u0456\u0442\u0430\u044E\u0447\u0438\u0439 \u0426\u0438\u0440\u043A \u041C\u043E\u043D\u0442\u0456 \u041F\u0430\u0439\u0442\u043E\u043D\u0430\u00BB, \u0431\u0440\u0438\u0442\u0430\u043D\u0441\u044C\u043A\u043E\u0433\u043E \u0442\u0435\u043B\u0435\u0432\u0456\u0437\u0456\u0439\u043D\u043E\u0433\u043E \u043A\u043E\u043C\u0435\u0434\u0456\u0439\u043D\u043E\u0433\u043E \u0441\u043A\u0435\u0442\u0447-\u0448\u043E\u0443, \u0449\u043E \u0432\u043F\u0435\u0440\u0448\u0435 \u0432\u0438\u0439\u0448\u043B\u043E \u0432 \u0435\u0444\u0456\u0440 5 \u0436\u043E\u0432\u0442\u043D\u044F 1969 \u0440\u043E\u043A\u0443. 45 \u0441\u0435\u0440\u0456\u0439 \u0448\u043E\u0443, \u043E\u0431'\u0454\u0434\u043D\u0430\u043D\u0456 \u0432 4 \u0441\u0435\u0437\u043E\u043D\u0438, \u0441\u043A\u043B\u0430\u0434\u0430\u043B\u0438\u0441\u044F \u0437 \u043E\u043A\u0440\u0435\u043C\u0438\u0445 \u0441\u043A\u0435\u0442\u0447\u0456\u0432 \u0442\u0430 \u0441\u044E\u0440\u0440\u0435\u0430\u043B\u0456\u0441\u0442\u0438\u0447\u043D\u0438\u0445 \u0430\u043D\u0456\u043C\u0430\u0446\u0456\u0439 \u0422\u0435\u0440\u0440\u0456 \u0413\u0456\u043B\u043B\u0456\u0430\u043C\u0430, \u043E\u0431'\u0454\u0434\u043D\u0430\u043D\u0438\u0445 \u043D\u0435 \u0437\u0430\u0433\u0430\u043B\u044C\u043D\u0438\u043C \u0441\u044E\u0436\u0435\u0442\u043E\u043C, \u0430 \u044F\u043A\u043E\u044E\u0441\u044C \u0456\u0434\u0435\u0454\u044E, \u0447\u0430\u0441\u0442\u0456\u0448\u0435 \u0430\u0431\u0441\u0443\u0440\u0434\u043D\u043E\u044E. \u00AB\u041B\u0456\u0442\u0430\u044E\u0447\u0438\u0439 \u0446\u0438\u0440\u043A\u00BB \u043D\u0435 \u0442\u0456\u043B\u044C\u043A\u0438 \u0437\u0440\u043E\u0431\u0438\u0432 \u0437\u043D\u0430\u043C\u0435\u043D\u0438\u0442\u0438\u043C\u0438 \u0443\u0447\u0430\u0441\u043D\u0438\u043A\u0456\u0432 \u041C\u043E\u043D\u0442\u0456 \u041F\u0430\u0439\u0442\u043E\u043D, \u0430\u043B\u0435 \u0456 \u0441\u0435\u0440\u0439\u043E\u0437\u043D\u043E \u0432\u043F\u043B\u0438\u043D\u0443\u0432 \u043D\u0430 \u043F\u043E\u0434\u0430\u043B\u044C\u0448\u0438\u0439 \u0440\u043E\u0437\u0432\u0438\u0442\u043E\u043A \u043A\u043E\u043C\u0435\u0434\u0456\u0439\u043D\u043E\u0433\u043E \u0436\u0430\u043D\u0440\u0443. \u0412 \u043F\u043E\u0434\u0430\u043B\u044C\u0448\u043E\u043C\u0443, \u041C\u043E\u043D\u0442\u0456 \u041F\u0430\u0439\u0442\u043E\u043D \u043F\u0435\u0440\u0435\u0440\u0456\u0441 \u0441\u0442\u0430\u0434\u0456\u044E \u0442\u0435\u043B\u0435\u0432\u0456\u0437\u0456\u0439\u043D\u043E\u0433\u043E \u0448\u043E\u0443 \u0456 \u0441\u0442\u0430\u0432 \u0446\u0456\u043B\u0438\u043C \u044F\u0432\u0438\u0449\u0435\u043C \u0432 \u043A\u0443\u043B\u044C\u0442\u0443\u0440\u0456 \u0412\u0435\u043B\u0438\u043A\u043E\u0457 \u0411\u0440\u0438\u0442\u0430\u043D\u0456\u0457. \u041C\u043E\u043D\u0442\u0456 \u041F\u0430\u0439\u0442\u043E\u043D \u0441\u0442\u0430\u0432 \u0432\u0438\u0441\u0442\u0443\u043F\u0430\u0442\u0438 \u043D\u0430 \u0441\u0446\u0435\u043D\u0456, \u043F\u0440\u043E\u0457\u0445\u0430\u0432 \u0437 \u0442\u0443\u0440\u0430\u043C\u0438 \u043C\u0456\u0441\u0442\u0430\u043C\u0438 \u0412\u0435\u043B\u0438\u043A\u043E\u0457 \u0411\u0440\u0438\u0442\u0430\u043D\u0456\u0457, \u0437\u043D\u044F\u0432 \u043F'\u044F\u0442\u044C \u043F\u043E\u0432\u043D\u043E\u043C\u0435\u0442\u0440\u0430\u0436\u043D\u0438\u0445 \u0445\u0443\u0434\u043E\u0436\u043D\u0456\u0445 \u0444\u0456\u043B\u044C\u043C\u0456\u0432, \u0432\u0438\u043F\u0443\u0441\u0442\u0438\u0432 \u043A\u0456\u043B\u044C\u043A\u0430 \u0430\u043B\u044C\u0431\u043E\u043C\u0456\u0432, \u043A\u043D\u0438\u0433 \u0456 \u043C\u044E\u0437\u0438\u043A\u043B. \u0411\u0430\u0433\u0430\u0442\u043E \u0443\u0447\u0430\u0441\u043D\u0438\u043A\u0456\u0432 \u0442\u0440\u0443\u043F\u0438 \u0437\u0440\u043E\u0431\u0438\u043B\u0438 \u043E\u043A\u0440\u0435\u043C\u043E \u0443\u0441\u043F\u0456\u0448\u043D\u0443 \u043A\u0430\u0440'\u0454\u0440\u0443. \u0417\u043E\u043A\u0440\u0435\u043C\u0430, \u0422\u0435\u0440\u0440\u0456 \u0413\u0456\u043B\u043B\u0456\u0430\u043C \u043F\u0440\u0430\u0446\u044E\u0454 \u0440\u0435\u0436\u0438\u0441\u0435\u0440\u043E\u043C, \u0437\u043D\u044F\u0432 \u0440\u044F\u0434 \u0432\u0456\u0434\u043E\u043C\u0438\u0445 \u0444\u0456\u043B\u044C\u043C\u0456\u0432. \u0422\u0435\u043B\u0435\u0432\u0456\u0437\u0456\u0439\u043D\u0435 \u0448\u043E\u0443, \u0449\u043E \u0442\u0440\u0430\u043D\u0441\u043B\u044E\u0432\u0430\u043B\u043E\u0441\u044F \u043D\u0430 BBC \u0437 1969 \u043F\u043E 1974 \u0440\u0456\u043A, \u0431\u0443\u043B\u043E \u0437\u0430\u0434\u0443\u043C\u0430\u043D\u043E, \u043D\u0430\u043F\u0438\u0441\u0430\u043D\u043E \u0442\u0430 \u0432\u0438\u043A\u043E\u043D\u0430\u043D\u043E \u0413\u0440\u0435\u0445\u0435\u043C\u043E\u043C \u0427\u0435\u043F\u043C\u0435\u043D\u043E\u043C, \u0414\u0436\u043E\u043D\u043E\u043C \u041A\u043B\u0456\u0437\u043E\u043C, \u0422\u0435\u0440\u0440\u0456 \u0413\u0456\u043B\u043B\u0456\u0430\u043C\u043E\u043C, \u0415\u0440\u0456\u043A\u043E\u043C \u0410\u0439\u0434\u043B\u043E\u043C, \u0422\u0435\u0440\u0440\u0456 \u0414\u0436\u043E\u043D\u0441\u043E\u043C \u0442\u0430 \u041C\u0430\u0439\u043A\u043B\u043E\u043C \u041F\u0435\u043B\u0456\u043D\u043E\u043C. \u0412\u0438\u0437\u043D\u0430\u0447\u0435\u043D\u0438\u0439 \u044F\u043A \u0441\u043A\u0435\u0442\u0447-\u0448\u043E\u0443 \u00AB\u041B\u0456\u0442\u0430\u044E\u0447\u0438\u0439 \u0446\u0438\u0440\u043A\u00BB \u0441\u0442\u0430\u0432 \u0447\u0438\u043C\u043E\u0441\u044C \u0431\u0456\u043B\u044C\u0448\u0438\u043C \u0437\u0431\u0430\u0433\u0430\u0442\u0438\u0432\u0448\u0438 \u043A\u043E\u043C\u0456\u0447\u043D\u0438\u0439 \u0436\u0430\u043D\u0440 \u0437\u043B\u0438\u0442\u0442\u044F\u043C \u0441\u0442\u0438\u043B\u044E \u0442\u0430 \u0432\u043C\u0456\u0441\u0442\u0443."@uk ,
+		"\u00AB\u041C\u043E\u0301\u043D\u0442\u0438 \u041F\u0430\u0301\u0439\u0442\u043E\u043D\u00BB (\u0430\u043D\u0433\u043B. Monty Python; \u0443\u0447\u0430\u0441\u0442\u043D\u0438\u043A\u043E\u0432 \u043A\u043E\u043C\u0430\u043D\u0434\u044B \u043D\u0430\u0437\u044B\u0432\u0430\u044E\u0442 \u00AB\u043F\u0438\u0442\u043E\u043D\u0430\u043C\u0438\u00BB, \u0440\u0435\u0436\u0435 \u2014 \u00AB\u043F\u0430\u0439\u0442\u043E\u043D\u0430\u043C\u0438\u00BB) \u2014 \u043A\u043E\u043C\u0438\u043A-\u0433\u0440\u0443\u043F\u043F\u0430 \u0438\u0437 \u0412\u0435\u043B\u0438\u043A\u043E\u0431\u0440\u0438\u0442\u0430\u043D\u0438\u0438, \u0441\u043E\u0441\u0442\u043E\u044F\u0432\u0448\u0430\u044F \u0438\u0437 \u0448\u0435\u0441\u0442\u0438 \u0447\u0435\u043B\u043E\u0432\u0435\u043A. \u0411\u043B\u0430\u0433\u043E\u0434\u0430\u0440\u044F \u0441\u0432\u043E\u0435\u043C\u0443 \u043D\u043E\u0432\u0430\u0442\u043E\u0440\u0441\u043A\u043E\u043C\u0443, \u0430\u0431\u0441\u0443\u0440\u0434\u0438\u0441\u0442\u0441\u043A\u043E\u043C\u0443 \u044E\u043C\u043E\u0440\u0443 \u0443\u0447\u0430\u0441\u0442\u043D\u0438\u043A\u0438 \u00AB\u041C\u043E\u043D\u0442\u0438 \u041F\u0430\u0439\u0442\u043E\u043D\u00BB \u043D\u0430\u0445\u043E\u0434\u044F\u0442\u0441\u044F \u0432 \u0447\u0438\u0441\u043B\u0435 \u0441\u0430\u043C\u044B\u0445 \u0432\u043B\u0438\u044F\u0442\u0435\u043B\u044C\u043D\u044B\u0445 \u043A\u043E\u043C\u0438\u043A\u043E\u0432 \u0432\u0441\u0435\u0445 \u0432\u0440\u0435\u043C\u0451\u043D. \u0412\u043B\u0438\u044F\u043D\u0438\u0435, \u043E\u043A\u0430\u0437\u0430\u043D\u043D\u043E\u0435 \u043A\u043E\u043B\u043B\u0435\u043A\u0442\u0438\u0432\u043E\u043C \u043D\u0430 \u0436\u0430\u043D\u0440 \u043A\u043E\u043C\u0435\u0434\u0438\u0438, \u0441\u0440\u0430\u0432\u043D\u0438\u0432\u0430\u044E\u0442 \u0441 \u0432\u043B\u0438\u044F\u043D\u0438\u0435\u043C, \u043E\u043A\u0430\u0437\u0430\u043D\u043D\u044B\u043C \u0433\u0440\u0443\u043F\u043F\u043E\u0439 The Beatles \u043D\u0430 \u043F\u043E\u043F- \u0438 \u0440\u043E\u043A-\u043C\u0443\u0437\u044B\u043A\u0443. \u0413\u0440\u0443\u043F\u043F\u0430 \u0438\u0437\u0432\u0435\u0441\u0442\u043D\u0430 \u0432\u043E \u043C\u043D\u043E\u0433\u043E\u043C \u0431\u043B\u0430\u0433\u043E\u0434\u0430\u0440\u044F \u044E\u043C\u043E\u0440\u0438\u0441\u0442\u0438\u0447\u0435\u0441\u043A\u043E\u043C\u0443 \u0442\u0435\u043B\u0435\u0448\u043E\u0443 \u00AB\u041B\u0435\u0442\u0430\u044E\u0449\u0438\u0439 \u0446\u0438\u0440\u043A \u041C\u043E\u043D\u0442\u0438 \u041F\u0430\u0439\u0442\u043E\u043D\u0430\u00BB, \u0432\u044B\u0445\u043E\u0434\u0438\u0432\u0448\u0435\u043C\u0443 \u043D\u0430 BBC \u0432 1969\u20141974 \u0433\u043E\u0434\u0430\u0445; \u0442\u0430\u043A\u0436\u0435 \u043E\u043D\u0430 \u0432\u044B\u043F\u0443\u0441\u0442\u0438\u043B\u0430 4 \u043F\u043E\u043B\u043D\u043E\u043C\u0435\u0442\u0440\u0430\u0436\u043D\u044B\u0445 \u0444\u0438\u043B\u044C\u043C\u0430, \u0432\u044B\u0441\u0442\u0443\u043F\u0430\u043B\u0430 \u0441 \u043A\u043E\u043D\u0446\u0435\u0440\u0442\u0430\u043C\u0438, \u0432\u044B\u043F\u0443\u0441\u043A\u0430\u043B\u0430 \u043C\u0443\u0437\u044B\u043A\u0430\u043B\u044C\u043D\u044B\u0435 \u0430\u043B\u044C\u0431\u043E\u043C\u044B, \u043A\u043D\u0438\u0433\u0438, \u043C\u044E\u0437\u0438\u043A\u043B. \u0411\u043E\u043B\u044C\u0448\u0438\u043D\u0441\u0442\u0432\u043E \u0443\u0447\u0430\u0441\u0442\u043D\u0438\u043A\u043E\u0432 \u0433\u0440\u0443\u043F\u043F\u044B \u043F\u043E\u0441\u043B\u0435 \u0435\u0451 \u0440\u0430\u0441\u043F\u0430\u0434\u0430 \u0432 1983 \u0433\u043E\u0434\u0443 \u0437\u0430\u043D\u044F\u043B\u0438\u0441\u044C \u0443\u0441\u043F\u0435\u0448\u043D\u043E\u0439 \u0441\u043E\u043B\u044C\u043D\u043E\u0439 \u043A\u0430\u0440\u044C\u0435\u0440\u043E\u0439, \u043D\u043E \u0437\u0430\u0442\u0435\u043C \u043D\u0435\u043E\u0434\u043D\u043E\u043A\u0440\u0430\u0442\u043D\u043E \u0441\u0445\u043E\u0434\u0438\u043B\u0438\u0441\u044C \u0432\u043D\u043E\u0432\u044C \u0434\u043B\u044F \u0440\u0435\u0430\u043B\u0438\u0437\u0430\u0446\u0438\u0438 \u0441\u043E\u0432\u043C\u0435\u0441\u0442\u043D\u044B\u0445 \u043F\u0440\u043E\u0435\u043A\u0442\u043E\u0432."@ru ,
+		"\u30E2\u30F3\u30C6\u30A3\u30FB\u30D1\u30A4\u30BD\u30F3\uFF08Monty Python\uFF09\u306F\u3001\u30A4\u30AE\u30EA\u30B9\u306E\u4EE3\u8868\u7684\u306A\u30B3\u30E1\u30C7\u30A3\u30B0\u30EB\u30FC\u30D7\u3002\u30B0\u30EC\u30A2\u30E0\u30FB\u30C1\u30E3\u30C3\u30D7\u30DE\u30F3\u3001\u30B8\u30E7\u30F3\u30FB\u30AF\u30EA\u30FC\u30BA\u3001\u30C6\u30EA\u30FC\u30FB\u30AE\u30EA\u30A2\u30E0\u3001\u30A8\u30EA\u30C3\u30AF\u30FB\u30A2\u30A4\u30C9\u30EB\u3001\u30C6\u30EA\u30FC\u30FB\u30B8\u30E7\u30FC\u30F3\u30BA\u3001\u30DE\u30A4\u30B1\u30EB\u30FB\u30DA\u30A4\u30EA\u30F3\u306E6\u4EBA\u3067\u69CB\u6210\u3055\u308C\u308B\uFF08\u305F\u3060\u3057\u3001\u30CB\u30FC\u30EB\u30FB\u30A4\u30CD\u30B9\u3068\u30AD\u30E3\u30ED\u30EB\u30FB\u30AF\u30EA\u30FC\u30F4\u30E9\u30F3\u30C9\u3092\u300C7\u4EBA\u76EE\u306E\u30D1\u30A4\u30BD\u30F3\u300D\u3068\u8868\u73FE\u3059\u308B\u3053\u3068\u3082\u3042\u308B\uFF09\u3002\u660E\u3089\u304B\u306B\u30E2\u30F3\u30C6\u30A3\u30FB\u30D1\u30A4\u30BD\u30F3\u3092\u8A71\u984C\u306B\u3057\u3066\u3044\u308B\u5834\u5408\u3001\u5358\u306B\u30D1\u30A4\u30BD\u30F3\u30BA\u3068\u8A00\u3046\u3053\u3068\u3082\u3042\u308B\u3002 1969\u5E74\u304B\u3089\u59CB\u307E\u3063\u305FBBC\u30C6\u30EC\u30D3\u756A\u7D44\u300E\u7A7A\u98DB\u3076\u30E2\u30F3\u30C6\u30A3\u30FB\u30D1\u30A4\u30BD\u30F3\u300F\u3067\u4EBA\u6C17\u3092\u535A\u3057\u3001\u305D\u306E\u5F8C\u3082\u30E9\u30A4\u30D6\u3001\u6620\u753B\u3001\u30A2\u30EB\u30D0\u30E0\u3001\u66F8\u7C4D\u3001\u821E\u53F0\u5287\u7B49\u3067\u6D3B\u8E8D\u306E\u5834\u3092\u5E83\u3052\u3001\u305D\u306E\u7206\u767A\u7684\u306A\u30A4\u30F3\u30D1\u30AF\u30C8\u306F\u30E1\u30F3\u30D0\u30FC\u500B\u4EBA\u3092\u30B9\u30BF\u30FC\u306E\u5EA7\u306B\u62BC\u3057\u4E0A\u3052\u305F\u3002\u305D\u306E\u30B9\u30B1\u30C3\u30C1\u3068\u30B9\u30B1\u30C3\u30C1\u306E\u5883\u754C\u7DDA\u3092\u306A\u304F\u3057\u305F\u9769\u65B0\u7684\u306A\u69CB\u6210\u3068\u5B8C\u6210\u5EA6\u306E\u9AD8\u3044\u30B9\u30B1\u30C3\u30C1\u306E\u6570\u3005\u306F\u3001\u30A2\u30E1\u30EA\u30AB\u306E\u30B3\u30E1\u30C7\u30A3\u756A\u7D44\u300E\u30B5\u30BF\u30C7\u30FC\u30FB\u30CA\u30A4\u30C8\u30FB\u30E9\u30A4\u30D6\u300F\u3092\u306F\u3058\u3081\u69D8\u3005\u306A\u30B8\u30E3\u30F3\u30EB\u306E\u30DD\u30C3\u30D7\u30FB\u30AB\u30EB\u30C1\u30E3\u30FC\u306B\u5927\u304D\u306A\u5F71\u97FF\u3092\u4E0E\u3048\u3001\u300C\u30B3\u30E1\u30C7\u30A3\u754C\u306B\u304A\u3051\u308B\u30D3\u30FC\u30C8\u30EB\u30BA\u300D\u3068\u8868\u73FE\u3055\u308C\u305F\u3002\u305D\u306E\u4E0D\u6761\u7406\u306A\u30B9\u30BF\u30A4\u30EB\u306F\u300CPythonesque\u300D\u3068\u3044\u3046\u9020\u8A9E\u3067\u8868\u3055\u308C\u3001\u300E\u30AA\u30C3\u30AF\u30B9\u30D5\u30A9\u30FC\u30C9\u82F1\u8A9E\u8F9E\u66F8\u300F\u306B\u3082\u53CE\u9332\u3055\u308C\u3066\u3044\u308B\u3002 \u65E5\u672C\u3067\u306F1976\u5E74\u304B\u3089\u3001\u6771\u4EAC12\u30C1\u30E3\u30F3\u30CD\u30EB\uFF08\u73FE\u30C6\u30EC\u30D3\u6771\u4EAC\uFF09\u3067\u3001\u91D1\u66DC\u65E5\u306E22\u6642\u53F0\u306B\u300E\u7A7A\u98DB\u3076\u30E2\u30F3\u30C6\u30A3\u30FB\u30D1\u30A4\u30BD\u30F3\u300F\u306E\u5439\u66FF\u7248\u304C\u521D\u653E\u9001\u3055\u308C\u305F\u3002"@ja ,
+		"Monty Python (a veces conocidos como Los Pythons)\u200B\u200B fue un grupo brit\u00E1nico de seis humoristas que sintetiz\u00F3 en clave de humor la idiosincrasia brit\u00E1nica de los a\u00F1os 1960 y 1970, compuesto por Graham Chapman, John Cleese, Terry Gilliam, Eric Idle, Terry Jones y Michael Palin. Del grupo \u00FAnicamente Terry Gilliam no era brit\u00E1nico sino estadounidense. Lograron la fama gracias a su programa de televisi\u00F3n Monty Python's Flying Circus (El Circo Ambulante de Monty Python), estrenado el 5 de octubre de 1969 en la BBC y formada por 45 episodios repartidos en cuatro temporadas. El fen\u00F3meno Python se desarroll\u00F3 m\u00E1s all\u00E1 del programa de televisi\u00F3n adquiriendo un gran impacto: obras de teatros, pel\u00EDculas, discos, libros y un musical. La influencia del grupo en la comedia se ha comparado con la de los Beatles en la m\u00FAsica.\u200B\u200B Emitido en la BBC entre 1969 y 1974, Flying Circus fue creado, escrito e interpretado por los seis miembros del grupo. Estaba estructurado como un programa de sketches, pero con una t\u00E9cnica narrativa innovadora (ayudada por las animaciones de Gilliam) que iba m\u00E1s all\u00E1 de lo aceptable en estilo y contenido.\u200B\u200B Al ser los responsables tanto de los guiones y la interpretaci\u00F3n, los Python ten\u00EDan un control creativo que les permit\u00EDa experimentar formas y contenidos, deshaci\u00E9ndose de las reglas de la comedia televisiva. La influencia del grupo en la comedia brit\u00E1nica ha sido notoria durante a\u00F1os, y en Norteam\u00E9rica ha influido desde a los int\u00E9rpretes de las primeras ediciones de Saturday Night Live hasta las m\u00E1s recientes tendencias de humor absurdo en la comedia televisiva. La palabra \"Pythonesque\" ha entrado en el l\u00E9xico ingl\u00E9s como sin\u00F3nimo de \"absurdo\" o \"surrealista\". En una encuesta realizada en 2005 en el Reino Unido para encontrar al C\u00F3mico de c\u00F3micos, tres de los seis miembros de Monty Python fueron votados por otros c\u00F3micos y aficionados como tres de los 50 mayores c\u00F3micos de la historia: Cleese en el puesto 2, Idle en el 21, y Palin en el 30.\u200B En 2009 el grupo recibi\u00F3 el premio BAFTA honor\u00EDfico por su contribuci\u00F3n al mundo de la comedia. El premio se lo entregaron en el preestreno del documental dedicado al fallecido Graham Chapman, .\u200B"@es ,
+		"Monty Python, eller The Pythons, \u00E4r det gemensamma namnet p\u00E5 skaparna av humorserien Monty Pythons flygande cirkus (eng: Monty Python's Flying Circus, 1969\u20131974) och senare producenter av ett antal l\u00E5ngfilmer och scenframtr\u00E4danden under gemensamt namn. De f\u00F6rknippas med en nyskapande och ofta nonsensartad eller absurdistisk humor med satiriska inslag som p\u00E5verkat senare komikergenerationer b\u00E5de i hemlandet och internationellt. Medlemmarna i ensemblen var/\u00E4r Graham Chapman (1941\u20131989), John Cleese (f\u00F6dd 1939), Terry Gilliam (f\u00F6dd 1940), Eric Idle (f\u00F6dd 1943), Terry Jones (1942\u20132020) och Michael Palin (f\u00F6dd 1943). Under senare \u00E5r har de \u00F6verlevande komikerna vid enstaka tillf\u00E4llen \u00E5tersamlats, bland annat 2014."@sv ,
+		"\uBAAC\uD2F0 \uD30C\uC774\uD2BC(\uC601\uC5B4: Monty Python \uBAAC\uD2F0 \uD30C\uC774\uC120[*])\uC740 \uC601\uD5A5\uB825 \uC788\uB294 \uBAAC\uD2F0 \uD30C\uC774\uD2BC\uC758 \uBE44\uD589 \uC11C\uCEE4\uC2A4\uB97C \uCC3D\uCD9C\uD55C \uC601\uAD6D\uC758 \uD76C\uADF9 \uADF8\uB8F9\uC774\uB2E4. \uC774 \uC11C\uCEE4\uC2A4\uB294 1969\uB144 10\uC6D4 5\uC77C\uC5D0 BBC\uB97C \uD1B5\uD574 \uC911\uACC4\uB41C \uC601\uAD6D \uD154\uB808\uBE44\uC804 \uD76C\uADF9 \uC2A4\uCF00\uCE58 \uC1FC\uC600\uB2E4. 45\uAC1C\uC758 \uC5D0\uD53C\uC18C\uB4DC\uAC00 4\uAC1C\uC758 \uC2DC\uB9AC\uC988\uB97C \uAC78\uCCD0 \uB9CC\uB4E4\uC5B4\uC84C\uB2E4. \uD30C\uC774\uD2BC \uD604\uC0C1\uC740 \uD154\uB808\uBE44\uC804 \uC2DC\uB9AC\uC988\uC5D0\uC11C \uB354 \uBC1C\uC804\uD558\uC5EC \uC1FC, \uC601\uD654, \uC74C\uBC18, \uCC45 \uB4F1\uC73C\uB85C\uAE4C\uC9C0 \uC601\uD5A5\uB825\uC774 \uCEE4\uC838\uB098\uAC14\uB2E4. \uC774 \uADF8\uB8F9\uC774 \uD76C\uADF9\uC5D0 \uB07C\uCE5C \uC601\uD5A5\uC740 \uBE44\uD2C0\uC988\uAC00 \uC74C\uC545\uC5D0 \uBBF8\uCE5C \uC601\uD5A5\uACFC \uBE44\uC720\uB418\uACE0 \uC788\uB2E4."@ko ,
+		"Monty Python [\u02CCm\u0252nti \u02C8pa\u026A\u03B8n] byla britsk\u00E1 komedi\u00E1ln\u00ED skupina zalo\u017Een\u00E1 v roce 1969. Jejich prvn\u00ED pr\u00E1ce byl komedi\u00E1ln\u00ED seri\u00E1l pro televizn\u00ED s\u00ED\u0165 BBC nazvan\u00FD Monty Python's Flying Circus (Monty Python\u016Fv l\u00E9taj\u00EDc\u00ED cirkus); vys\u00EDlal se 4 sez\u00F3ny v letech 1969\u20131974 a m\u00E1 celkem 45 d\u00EDl\u016F. Tento seri\u00E1l se skl\u00E1dal z jednotliv\u00FDch ske\u010D\u016F, ale existuj\u00ED i d\u00EDly pojat\u00E9 jako jeden p\u0159\u00EDb\u011Bh. V\u0161ichni \u010Dlenov\u00E9 ho spole\u010Dn\u011B psali a pravideln\u011B hr\u00E1li v\u011Bt\u0161inu rol\u00ED (v\u010Detn\u011B mnoha \u017Eensk\u00FDch). K seri\u00E1lu nebyl po\u0159\u00EDzen \u010Desk\u00FD dabing, \u010Desk\u00E9 titulky napsal scen\u00E1rista a re\u017Eis\u00E9r ."@cs ,
+		"\u0645\u0648\u0646\u062A\u064A \u0628\u0627\u064A\u062B\u0648\u0646 (\u0645\u0639\u0631\u0648\u0641\u0629 \u0623\u062D\u064A\u0627\u0646\u064B\u0627 \u0628\u0627\u0633\u0645 \u0630\u0627 \u0628\u0627\u064A\u062B\u0648\u0646\u0632 (The Pythons)) \u0647\u064A \u0645\u062C\u0645\u0648\u0639\u0629 \u0628\u0631\u064A\u0637\u0627\u0646\u064A\u0629 \u0644\u0644\u0643\u0648\u0645\u064A\u062F\u064A\u0627 \u0627\u0644\u0633\u064A\u0631\u064A\u0627\u0644\u064A\u0629 \u0642\u0627\u0645\u062A \u0628\u0627\u0628\u062A\u062F\u0627\u0639 \u0633\u064A\u0631\u0643 \u0645\u0648\u0646\u062A\u064A \u0628\u0627\u064A\u062B\u0648\u0646 \u0627\u0644\u0637\u0627\u0626\u0631\u060C \u0648\u0647\u0648 \u0628\u0631\u0646\u0627\u0645\u062C \u0628\u0631\u064A\u0637\u0627\u0646\u064A \u0643\u0648\u0645\u064A\u062F\u064A \u0647\u0632\u0644\u064A \u062A\u0645\u062A \u0625\u0630\u0627\u0639\u062A\u0647 \u0644\u0623\u0648\u0644 \u0645\u0631\u0629 \u0639\u0644\u0649 \u0628\u064A \u0628\u064A \u0633\u064A \u0641\u064A \u0627\u0644\u062E\u0627\u0645\u0633 \u0645\u0646 \u0623\u0643\u062A\u0648\u0628\u0631 \u0639\u0627\u0645 1969. \u0648\u062A\u0645 \u0639\u0645\u0644 \u062E\u0645\u0633 \u0648\u0623\u0631\u0628\u0639\u064A\u0646 \u062D\u0644\u0642\u0629 \u0644\u0645\u0627 \u064A\u0632\u064A\u062F \u0639\u0644\u0649 \u0623\u0631\u0628\u0639\u0629 \u0645\u0633\u0644\u0633\u0644\u0627\u062A. \u062A\u0637\u0648\u0631\u062A \u0638\u0627\u0647\u0631\u0629 \u0627\u0644\u0628\u0627\u064A\u062B\u0648\u0646 \u0645\u0646 \u0627\u0644\u0645\u0633\u0644\u0633\u0644\u0627\u062A \u0627\u0644\u062A\u0644\u064A\u0641\u0632\u064A\u0648\u0646\u064A\u0629 \u0625\u0644\u0649 \u0634\u064A\u0621 \u0623\u0643\u0628\u0631 \u0641\u064A \u0627\u0644\u0646\u0637\u0627\u0642 \u0648\u0627\u0644\u062A\u0623\u062B\u064A\u0631\u060C \u0645\u0646\u062A\u062C\u0629\u064B \u062C\u0648\u0644\u0629 \u0645\u0646 \u0627\u0644\u0639\u0631\u0648\u0636 \u0627\u0644\u0645\u0633\u0631\u062D\u064A\u0629\u060C \u0648\u0627\u0644\u0623\u0641\u0644\u0627\u0645\u060C \u0648\u0627\u0644\u0623\u0644\u0628\u0648\u0645\u0627\u062A \u0627\u0644\u0645\u062A\u0639\u062F\u062F\u0629\u060C \u0648\u0627\u0644\u0643\u062A\u0628 \u0627\u0644\u0645\u062A\u0646\u0648\u0639\u0629\u060C \u0648\u0627\u0644\u0639\u0631\u0648\u0636 \u0627\u0644\u0645\u0633\u0631\u062D\u064A\u0629 \u0627\u0644\u0645\u0648\u0633\u064A\u0642\u064A\u0629\u060C \u0628\u0627\u0644\u0625\u0636\u0627\u0641\u0629 \u0625\u0644\u0649 \u0627\u0646\u0637\u0644\u0627\u0642 \u0623\u0639\u0636\u0627\u0621 \u0627\u0644\u0645\u062C\u0645\u0648\u0639\u0629 \u0625\u0644\u0649 \u0627\u0644\u0646\u062C\u0648\u0645\u064A\u0629 \u0627\u0644\u0641\u0631\u062F\u064A\u0629. \u0648\u0644\u0642\u062F \u062A\u0645\u062A \u0645\u0642\u0627\u0631\u0646\u0629 \u062A\u0623\u062B\u064A\u0631 \u0627\u0644\u0645\u062C\u0645\u0648\u0639\u0629 \u0639\u0644\u0649 \u0627\u0644\u0643\u0648\u0645\u064A\u062F\u064A\u0627 \u0628\u062A\u0623\u062B\u064A\u0631 \u0641\u0631\u0642\u0629 \u0628\u064A\u062A\u0644\u0632 (The Beatles) \u0639\u0644\u0649 \u0627\u0644\u0645\u0648\u0633\u064A\u0642\u0649. \u0648\u0644\u0642\u062F \u0642\u0627\u0645 \u0628\u0643\u062A\u0627\u0628\u0629 \u0627\u0644\u0645\u0633\u0644\u0633\u0644 \u0627\u0644\u062A\u0644\u064A\u0641\u0632\u064A\u0648\u0646\u064A \u0648\u0627\u0628\u062A\u062F\u0627\u0639\u0647 \u0648\u0623\u062F\u0627\u0626\u0647 \u063A\u0631\u0627\u0647\u0627\u0645 \u0634\u0627\u0628\u0645\u0627\u0646\u060C \u0648\u062C\u0648\u0646 \u0643\u0644\u064A\u0632\u060C \u0648\u062A\u064A\u0631\u064A \u063A\u064A\u0644\u064A\u0627\u0645\u060C \u0648\u0625\u064A\u0631\u064A\u0643 \u0622\u064A\u062F\u0644\u060C \u0648\u062A\u064A\u0631\u064A \u062C\u0648\u0646\u0632\u060C \u0648\u0645\u0627\u064A\u0643\u0644 \u0628\u0627\u0644\u064A\u0646\u060C \u0648\u0647\u0648 \u0627\u0644\u0645\u0633\u0644\u0633\u0644 \u0627\u0644\u0630\u064A \u0623\u0630\u0627\u0639\u062A\u0647 \u0628\u064A \u0628\u064A \u0633\u064A \u0645\u0646 \u0639\u0627\u0645 1969 \u062D\u062A\u0649 \u0639\u0627\u0645 1974. \u0648\u0647\u0648 \u0645\u0646\u0638\u0648\u0645 \u0628\u0634\u0643\u0644 \u063A\u064A\u0631 \u0645\u0636\u0628\u0648\u0637 \u0643\u0639\u0631\u0636 \u0647\u0632\u0644\u064A\u060C \u0648\u0644\u0643\u0646\u0647 \u0645\u0631\u062A\u0628\u0637 \u0628\u0646\u0647\u062C \u0633\u064A\u0644 \u0627\u0644\u0648\u0639\u064A \u0627\u0644\u0645\u0628\u062A\u0643\u064E\u0631 (\u0628\u0645\u0633\u0627\u0639\u062F\u0629 \u0627\u0644\u0631\u0633\u0648\u0645 \u0627\u0644\u0645\u062A\u062D\u0631\u0643\u0629 \u0644\u063A\u064A\u0644\u064A\u0627\u0645)\u060C \u0648\u0642\u062F \u062A\u062C\u0627\u0648\u0632 \u062D\u062F\u0648\u062F \u0645\u0627 \u0647\u0648 \u0645\u0642\u0628\u0648\u0644 \u0648\u0642\u062A\u0647\u0627 \u0641\u064A \u0627\u0644\u0623\u0633\u0644\u0648\u0628 \u0648\u0627\u0644\u0645\u0636\u0645\u0648\u0646. \u0648\u0643\u0641\u0631\u064A\u0642 \u0643\u0648\u0645\u064A\u062F\u064A \u0645\u0633\u062A\u0642\u0644 \u0628\u0630\u0627\u062A\u0647 \u0645\u0633\u0626\u0648\u0644 \u0639\u0646 \u0643\u062A\u0627\u0628\u0629 \u0623\u0639\u0645\u0627\u0644\u0647 \u0648\u0623\u062F\u0627\u0626\u0647\u0627\u060C \u0633\u0645\u062D\u062A \u0633\u064A\u0637\u0631\u0629 \u0641\u0631\u064A\u0642 \u0627\u0644\u0628\u0627\u064A\u062B\u0648\u0646 \u0627\u0644\u0625\u0628\u062F\u0627\u0639\u064A\u0629 \u0644\u0647\u0645 \u0628\u062D\u0631\u064A\u0629 \u0627\u0644\u062A\u062C\u0631\u0628\u0629 \u0641\u064A \u0627\u0644\u0634\u0643\u0644 \u0648\u0627\u0644\u0645\u0636\u0645\u0648\u0646\u060C \u0648\u0637\u0631\u062D \u0642\u0648\u0627\u0639\u062F \u0627\u0644\u0643\u0648\u0645\u064A\u062F\u064A\u0627 \u0627\u0644\u062A\u0644\u064A\u0641\u0632\u064A\u0648\u0646\u064A\u0629 \u062C\u0627\u0646\u0628\u064B\u0627. \u0648\u0642\u062F \u0643\u0627\u0646 \u062A\u0623\u062B\u064A\u0631 \u0647\u0630\u0647 \u0627\u0644\u0645\u062C\u0645\u0648\u0639\u0629 \u0639\u0644\u0649 \u0627\u0644\u0643\u0648\u0645\u064A\u062F\u064A\u0627 \u0627\u0644\u0628\u0631\u064A\u0637\u0627\u0646\u064A\u0629 \u0648\u0627\u0636\u062D\u064B\u0627 \u0644\u0633\u0646\u0648\u0627\u062A\u060C \u062D\u064A\u062B \u0642\u0627\u0645\u062A \u0641\u064A \u0623\u0645\u0631\u064A\u0643\u0627 \u0627\u0644\u0634\u0645\u0627\u0644\u064A\u0629 \u0628\u062A\u0644\u0648\u064A\u0646 \u0623\u0639\u0645\u0627\u0644 \u0627\u0644\u0645\u0624\u062F\u064A\u0646 \u0627\u0644\u0631\u0627\u0626\u062C\u064A\u0646 \u0645\u0646 \u0627\u0644\u0646\u0633\u062E \u0627\u0644\u0623\u0648\u0644\u064A\u0629 \u0644\u0640\u0633\u0627\u062A\u0631\u062F\u0627\u064A \u0646\u0627\u064A\u062A \u0644\u0627\u064A\u0641 (Saturday Night Live) \u0625\u0644\u0649 \u0635\u0628\u063A\u0629 \u0645\u0646 \u0627\u0644\u0627\u062A\u062C\u0627\u0647\u0627\u062A \u0627\u0644\u0639\u0628\u062B\u064A\u0629 \u0627\u0644\u0623\u0643\u062B\u0631 \u062D\u062F\u0627\u062B\u0629 \u0641\u064A \u0627\u0644\u0643\u0648\u0645\u064A\u062F\u064A\u0627 \u0627\u0644\u062A\u0644\u064A\u0641\u0632\u064A\u0648\u0646\u064A\u0629. \"\u0648\u0646\u062A\u064A\u062C\u0629 \u0644\u0630\u0644\u0643 \u062F\u062E\u0644 \u0645\u0635\u0637\u0644\u062D \u0627\u0644\u0628\u0627\u064A\u062B\u0648\u0646\u064A\u0633\u0643\" (Pythonesque) \u0627\u0644\u0645\u0639\u062C\u0645 \u0627\u0644\u0625\u0646\u062C\u0644\u064A\u0632\u064A. \u0648\u0641\u064A \u0627\u0633\u062A\u0637\u0644\u0627\u0639 \u0627\u0644\u0631\u0623\u064A \u0627\u0644\u0630\u064A \u062A\u0645 \u0639\u0627\u0645 2005 \u0628\u0627\u0644\u0645\u0645\u0644\u0643\u0629 \u0627\u0644\u0645\u062A\u062D\u062F\u0629 \u0644\u0627\u062E\u062A\u064A\u0627\u0631 \u0643\u0648\u0645\u064A\u062F\u064A\u0627\u0646 \u0627\u0644\u0643\u0648\u0645\u064A\u062F\u064A\u0627\u0646\u0627\u062A\u060C \u0642\u0627\u0645 \u0645\u0645\u062B\u0644\u0648 \u0627\u0644\u0643\u0648\u0645\u064A\u062F\u064A\u0627 \u0627\u0644\u0632\u0645\u0644\u0627\u0621 \u0648\u0627\u0644\u0645\u0637\u0644\u0639\u0648\u0646 \u0639\u0644\u0649 \u0627\u0644\u0643\u0648\u0645\u064A\u062F\u064A\u0627 \u0628\u0627\u0644\u062A\u0635\u0648\u064A\u062A \u0644\u0635\u0627\u0644\u062D \u062B\u0644\u0627\u062B\u0629 \u0623\u0639\u0636\u0627\u0621 \u0645\u0646 \u0641\u0631\u064A\u0642 \u0627\u0644\u0628\u0627\u064A\u062B\u0648\u0646 \u0644\u064A\u0643\u0648\u0646\u0648\u0627 \u0645\u0646 \u0628\u064A\u0646 \u0623\u0641\u0636\u0644 \u062E\u0645\u0633\u064A\u0646 \u0645\u0645\u062B\u0644\u0627\u064B \u0643\u0648\u0645\u064A\u062F\u064A\u064B\u0627 \u0639\u0644\u0649 \u0627\u0644\u0625\u0637\u0644\u0627\u0642: \u062D\u064A\u062B \u062C\u0627\u0621 \u0643\u0644\u064A\u0632 \u0628\u0627\u0644\u0645\u0631\u0643\u0632 #2\u060C \u0648\u0622\u064A\u062F\u0644 \u0628\u0627\u0644\u0645\u0631\u0643\u0632 #21\u060C \u0648\u0628\u0627\u0644\u064A\u0646 \u0641\u064A \u0627\u0644\u0645\u0631\u0643\u0632 #30. \u0623\u0639\u0644\u0646 \u0641\u0631\u064A\u0642 \u0645\u0648\u0646\u062A\u064A \u0628\u0627\u064A\u062B\u0648\u0646 \u0639\u0646 \u0625\u0642\u0627\u0645\u0629 \u0639\u0631\u0636 \u062D\u064A \u062C\u062F\u064A\u062F \u0641\u064A \u064A\u0648\u0644\u064A\u0648 2014 \u0648 \u0633\u064A\u0642\u0627\u0645 \u0641\u064A \u0644\u0646\u062F\u0646."@ar ,
+		"\u8499\u63D0\u00B7\u6D3E\u68EE\uFF08\u82F1\u8A9E\uFF1AMonty Python\uFF0C\u4E5F\u4F5CThe Pythons\uFF09\uFF0C\u53C8\u8B6F\u70BA\u5DE8\u87D2\u5267\u56E2\u3001\u8499\u63D0\u5DE8\u87D2\uFF0C\u662F\u82F1\u56FD\u7684\u4E00\u7EC4\u8D85\u73B0\u5B9E\u5E7D\u9ED8\u8868\u6F14\u56E2\u4F53\u3002\u5176\u521B\u4F5C\u7684\u82F1\u56FD\u7535\u89C6\u559C\u5267\u7247\u300A\u8499\u63D0\u00B7\u6D3E\u68EE\u7684\u98DE\u884C\u9A6C\u620F\u56E2\u300B\uFF0C\u4E8E1969\u5E7410\u67085\u65E5\u5728BBC\u4E0A\u516C\u5F00\u64AD\u51FA\uFF0C\u5171\u64AD\u51FA\u4E864\u5B63\u8BA145\u96C6\u3002\u53D1\u6E90\u4E8E\u7535\u89C6\u5267\u7684\u6D3E\u68EE\u5267\u56E2\uFF0C\u5176\u5F71\u54CD\u529B\u5728\u968F\u540E\u6570\u5341\u5E74\u91CC\u6301\u7EED\u4E0A\u5347\uFF0C\u4EA7\u751F\u4E86\u5DE1\u56DE\u821E\u53F0\u8868\u6F14\u3001\u7535\u5F71\u3001\u591A\u90E8\u97F3\u4E50\u4E13\u8F91\u3001\u51E0\u672C\u4E66\u7C4D\u548C\u4E00\u90E8\u821E\u53F0\u5267\u4F5C\u54C1\uFF0C\u5176\u6210\u5458\u4E5F\u8E0F\u4E0A\u4E86\u72EC\u7ACB\u7684\u661F\u9014\u3002\u6D3E\u68EE\u5267\u56E2\u4E4B\u4E8E\u559C\u5267\u7684\u5F71\u54CD\u529B\uFF0C\u4E0D\u4E9A\u4E8E\u62AB\u5934\u58EB\u4E50\u961F\u5BF9\u97F3\u4E50\u7684\u5F71\u54CD\u3002 1969\u5E74\u52301974\u5E74\u5728BBC\u64AD\u51FA\u7684\u7535\u89C6\u5267\uFF0C\u7531\u683C\u96F7\u5384\u59C6\u00B7\u67E5\u666E\u66FC\u3001\u7EA6\u7FF0\u00B7\u514B\u91CC\u65AF\u3001\u7279\u91CC\u00B7\u5409\u5217\u59C6\u3001\u57C3\u91CC\u514B\u00B7\u827E\u5FB7\u5C14\u3001\u7279\u91CC\u00B7\u743C\u65AF\u548C\u8FC8\u514B\u5C14\u00B7\u5E15\u6797\u6784\u60F3\u3001\u7F16\u5267\u548C\u9970\u6F14\u3002\u5168\u5267\u7ED3\u6784\u677E\u6563\uFF0C\u7C7B\u4F3C\u5C0F\u54C1\u8868\u6F14\uFF0C\u4F46\u7A7F\u63D2\u6709\u521B\u65B0\u7684\u610F\u8BC6\u6D41\u8868\u73B0\u5F62\u5F0F\uFF08\u501F\u52A9\u4E8E\u5409\u5217\u59C6\u7684\u52A8\u753B\uFF09\uFF0C\u6311\u6218\u4E86\u5F53\u65F6\u8868\u6F14\u98CE\u683C\u4E0E\u5185\u5BB9\u7684\u9650\u5236\u3002\u6D3E\u68EE\u5267\u56E2\u81EA\u7ED9\u81EA\u8DB3\uFF0C\u540C\u65F6\u8D1F\u8D23\u7F16\u5267\u548C\u8868\u6F14\u4E24\u65B9\u9762\u5DE5\u4F5C\uFF0C\u4E0D\u53D7\u5230\u7535\u89C6\u559C\u5267\u7684\u6761\u6846\u9650\u5236\uFF0C\u5F97\u4EE5\u5B9E\u8DF5\u521B\u9020\u6027\u7684\u8868\u6F14\u5F62\u5F0F\u548C\u5185\u5BB9\u3002\u4ED6\u4EEC\u5BF9\u82F1\u56FD\u559C\u5267\u4EA7\u751F\u4E86\u7ECF\u5E74\u4E0D\u606F\u7684\u5F71\u54CD\uFF1B\u5728\u5317\u7F8E\uFF0C\u4ED6\u4EEC\u5728\u7535\u89C6\u559C\u5267\u4E2D\u5F70\u663E\u4E86\u90AA\u5178\u8868\u6F14\uFF0C\u65E0\u8BBA\u662F\u65E9\u671F\u7684\u300A\u5468\u516D\u591C\u73B0\u573A\u300B\u8FD8\u662F\u65B0\u8FD1\u7684\u8352\u8BDE\u5267\u90FD\u6DF1\u53D7\u5F71\u54CD\u3002\u53D7\u5176\u5F71\u54CD\uFF0C\u5355\u8BCD\u201CPythonesque\u201D\u5DF2\u8FDB\u5165\u82F1\u8BED\u8BCD\u6C47\u3002 2005\u5E74\uFF0C\u5728\u559C\u5267\u6F14\u5458\u548C\u76F8\u5173\u4ECE\u4E1A\u8005\u53C2\u4E0E\u8BC4\u9009\u7684\u82F1\u56FD\u201C\u559C\u5267\u6F14\u5458\u7684\u559C\u5267\u6F14\u5458\u201D\uFF08The Comedian's Comedian\uFF09\u6295\u7968\u4E2D\uFF0C\u6D3E\u68EE\u5267\u56E26\u4F4D\u6210\u5458\u4E2D\u67093\u4EBA\u88AB\u8BC4\u4E3A\u524D50\u4F4D\u6700\u4F1F\u5927\u7684\u559C\u5267\u6F14\u5458\uFF0C\u5206\u522B\u662F\uFF1A\u7B2C2\u540D\u7684\u514B\u91CC\u65AF\uFF0C\u7B2C21\u540D\u7684\u827E\u5FB7\u5C14\u548C\u7B2C30\u540D\u7684\u5E15\u6797\u3002"@zh ,
+		"\u039F\u03B9 Monty Python (\u03B3\u03BD\u03C9\u03C3\u03C4\u03BF\u03AF \u03BA\u03B1\u03B9 \u03C9\u03C2 The Pythons ) \u03B5\u03AF\u03BD\u03B1\u03B9 \u03C4\u03BF \u03CC\u03BD\u03BF\u03BC\u03B1 \u03C4\u03B7\u03C2 \u03BF\u03BC\u03AC\u03B4\u03B1\u03C2 \u03C0\u03B1\u03C1\u03B1\u03B3\u03C9\u03B3\u03AE\u03C2 \u03C4\u03B7\u03C2 \u03C4\u03B7\u03BB\u03B5\u03BF\u03C0\u03C4\u03B9\u03BA\u03AE\u03C2 \u03C3\u03B5\u03B9\u03C1\u03AC\u03C2 \u00AB\u00BB (Monty Python's Flying Circus), \u03BC\u03B9\u03B1\u03C2 \u03BA\u03C9\u03BC\u03C9\u03B4\u03AF\u03B1\u03C2 \u03C0\u03BF\u03C5 \u03AC\u03C1\u03C7\u03B9\u03C3\u03B5 \u03BD\u03B1 \u03B5\u03BA\u03C0\u03AD\u03BC\u03C0\u03B5\u03C4\u03B1\u03B9 \u03C3\u03C4\u03B7 \u039C\u03B5\u03B3\u03AC\u03BB\u03B7 \u0392\u03C1\u03B5\u03C4\u03B1\u03BD\u03AF\u03B1 \u03C4\u03BF 1969, \u03B1\u03BB\u03BB\u03AC \u03BA\u03B1\u03B9 \u03BC\u03B9\u03B1\u03C2 \u03C3\u03B5\u03B9\u03C1\u03AC\u03C2 \u03B5\u03BA\u03C0\u03BF\u03BC\u03C0\u03CE\u03BD, \u03BA\u03B9\u03BD\u03B7\u03BC\u03B1\u03C4\u03BF\u03B3\u03C1\u03B1\u03C6\u03B9\u03BA\u03CE\u03BD \u03AD\u03C1\u03B3\u03C9\u03BD, \u03B7\u03C7\u03BF\u03B3\u03C1\u03B1\u03C6\u03AE\u03C3\u03B5\u03C9\u03BD \u03BA\u03B1\u03B9 \u03B8\u03B5\u03B1\u03C4\u03C1\u03B9\u03BA\u03CE\u03BD \u03C0\u03B1\u03C1\u03B1\u03B3\u03C9\u03B3\u03CE\u03BD \u03B1\u03C0\u03CC \u03C4\u03BF 1969 \u03BC\u03AD\u03C7\u03C1\u03B9 \u03C4\u03BF 1989."@el ,
+		"Monty Python adalah grup komedi Inggris yang terdiri dari John Cleese, Graham Chapman, Michael Palin, Eric Idle, Terry Jones dan Terry Gilliam. Mereka memiliki acara televisi yang sangat berhasil pada tahun 1969 sampai 1974 Monty Python's Flying Circus. Gilliam adalah satu-satunya anggota Python yang berasal dari Amerika Serikat. Setelah serial televisi mereka berakhir, mereka juga membuat film-film komedi seperti Monty Python's Life Of Brian dan ."@in ,
+		"Monty Python (also collectively known as the Pythons) were a British surreal comedy troupe who created the sketch comedy television show Monty Python's Flying Circus, which first aired on the BBC in 1969. Forty-five episodes were made over four series. The Python phenomenon developed from the television series into something larger in scope and impact, including touring stage shows, films, albums, books and musicals. The Pythons' influence on comedy has been compared to the Beatles' influence on music. Regarded as an enduring icon of 1970s pop culture, their sketch show has been referred to as being \u201Can important moment in the evolution of television comedy\". Broadcast by the BBC between 1969 and 1974, Monty Python's Flying Circus was conceived, written and performed by its members Graham Chapman, John Cleese, Terry Gilliam, Eric Idle, Terry Jones, and Michael Palin. Loosely structured as a sketch show, but with an innovative stream-of-consciousness approach aided by Gilliam's animation, it pushed the boundaries of what was acceptable in style and content. A self-contained comedy team responsible for both writing and performing their work, the Pythons had creative control which allowed them to experiment with form and content, discarding rules of television comedy. Following their television work, they began making films, including Monty Python and the Holy Grail (1975), Life of Brian (1979) and The Meaning of Life (1983). Their influence on British comedy has been apparent for years, while in North America, it has coloured the work of cult performers from the early editions of Saturday Night Live through to more recent absurdist trends in television comedy. \"Pythonesque\" has entered the English lexicon as a result. At the 41st British Academy Film Awards in 1988, Monty Python received the BAFTA Award for Outstanding British Contribution To Cinema. In 1998 they were awarded the AFI Star Award by the American Film Institute. Many sketches from their TV show and films are well-known and widely quoted. Both Holy Grail and Life of Brian are frequently ranked in lists of greatest comedy films. In a 2005 poll of over 300 comics, comedy writers, producers and directors throughout the English-speaking world to find \"The Comedian's Comedian\", three of the six Pythons members were voted to be among the top 50 greatest comedians ever: Cleese at No. 2, Idle at No. 21, and Palin at No. 30."@en ,
+		"Monty Python, grupa Monty Pythona, Pythoni \u2013 zesp\u00F3\u0142 tw\u00F3rc\u00F3w i gwiazd telewizyjnego serialu komediowego Lataj\u0105cy cyrk Monty Pythona, za\u0142o\u017Cony pod koniec lat 60. XX wieku w Anglii. W sk\u0142ad grupy wchodzi\u0142o sze\u015Bciu komik\u00F3w: Graham Chapman, John Cleese, Terry Gilliam, Eric Idle, Terry Jones i Michael Palin."@pl ,
+		"Monty Python [monti pajton] estis angla komedia grupo, konsistinta el John Cleese, , , Michael Palin, Graham Chapman (mortis 1989), kaj . Ili komencis en televido kun la serio \"Monty Python's Flying Circus\" (La fluganta cirko de Monty Python), unue dissendita fare de la BBC, la 5-an de oktobro 1969, kaj ili pasis poste al kino. Ilia komikeco estis bazita sur senlima bildodetruo kontra\u016D \u0109iuj, la superrealismo kaj emo al la absurdo. Ili tre influis la kulturon de la fino de la 20-a jarcento. La vorto spamo devenas de aludo al iu de iliaj televidaj ske\u0109oj. Post la morto de Chapman, la grupo disi\u011Dis en la 1980-oj."@eo ,
+		"Monty Python \u00E8 stato un gruppo comico britannico, attivo principalmente dal 1969 al 1983 e costituito da Graham Chapman, John Cleese, Terry Gilliam, Eric Idle, Terry Jones e Michael Palin. I membri dei Monty Python hanno avuto un'istruzione di alto livello (tutti tranne Gilliam laureati a Oxford o Cambridge) e la loro commedia \u00E8 spesso acutamente intellettuale, con uso innovativo di tecniche classiche, autoreferenze e numerosi riferimenti culturali. Hanno inoltre lavorato nel cinema come protagonisti nei film Monty Python e il Sacro Graal, Brian di Nazareth e Monty Python - Il senso della vita. Quest'ultimo vinse il Gran Premio della Giuria al Festival di Cannes nel 1983. I Monty Python sono, inoltre, autori ed interpreti del Monty Python's Flying Circus (Il circo volante dei Monty Python), l'innovativa e fortunata serie comica trasmessa dalla BBC tra il 1969 e il 1974, che fu il loro trampolino di lancio."@it ,
+		"Monty Python est le nom d'une troupe d'humoristes rendue c\u00E9l\u00E8bre initialement gr\u00E2ce \u00E0 sa premi\u00E8re cr\u00E9ation, la s\u00E9rie t\u00E9l\u00E9vis\u00E9e Monty Python's Flying Circus dont la diffusion d\u00E9buta \u00E0 la BBC le 5 octobre 1969 et qui se poursuivit durant 45 \u00E9pisodes jusqu'au 5 d\u00E9cembre 1974. La troupe \u00E9tait compos\u00E9e de six membres : Graham Chapman, John Cleese, Eric Idle, Michael Palin, Terry Jones et Terry Gilliam. La majorit\u00E9 des membres du groupe sont anglais sauf pour Terry Gilliam qui vient des \u00C9tats-Unis et Terry Jones qui est d'origine galloise. L'humour du groupe prend ses racines dans le burlesque absurde de l'\u00E9mission d'avant-guerre ITMA (It's that Man Again !) sur la BBC ainsi que sur les Goons (\u00E9mission d'humour radiophonique de Peter Sellers et Spike Milligan). Inspir\u00E9e par leurs premi\u00E8res ann\u00E9es de th\u00E9\u00E2tre, leur \u0153uvre fondatrice (le Flying Circus) remet en cause tous les principes des \u00E9missions t\u00E9l\u00E9vis\u00E9es. Leur influence dans le domaine comique est compar\u00E9e \u00E0 celle des Beatles dans la musique. Elle d\u00E9passe largement les fronti\u00E8res du Royaume-Uni et du monde anglo-saxon. En France, Alain Chabat et les Robins des Bois notamment s'en r\u00E9clament. Dans la langue anglaise, le mot Pythonesque, invent\u00E9 pour d\u00E9crire leur humour, a trouv\u00E9 son chemin vers les dictionnaires. En 1971, ils rejouent une s\u00E9lection de leurs sketches pour le long-m\u00E9trage La Premi\u00E8re Folie des Monty Python (And Now for Something Completely Different). Le film sort discr\u00E8tement en France sous le titre Pataquesse en 1974 avec une affiche dessin\u00E9e par Gotlib. Apr\u00E8s l'arr\u00EAt du Flying Circus en 1974, le groupe m\u00E8ne une carri\u00E8re au cin\u00E9ma avec des longs-m\u00E9trages qu'il r\u00E9alise lui-m\u00EAme : \n* Monty Python : Sacr\u00E9 Graal ! (1975, Monty Python and the Holy Grail) \n* Monty Python : La Vie de Brian (1979, Monty Python's Life of Brian) \n* Monty Python : Le Sens de la vie (1983, Monty Python's The Meaning of Life) En 1980, une retranscription film\u00E9e de leur spectacle donn\u00E9 au Hollywood Bowl sort sous le titre Monty Python \u00E0 Hollywood (Monty Python Live at the Hollywood Bowl). Chaque membre poursuit ensuite des projets de cin\u00E9ma ou de t\u00E9l\u00E9vision, souvent en travaillant en collaboration. Certains de leurs projets rencontrent le succ\u00E8s comme Brazil (r\u00E9alis\u00E9 par Terry Gilliam en 1985, avec Michael Palin), Un poisson nomm\u00E9 Wanda (en 1988, avec John Cleese et Michael Palin), ou encore Les Aventures du baron de M\u00FCnchhausen (par Terry Gilliam, en 1989, avec Eric Idle). Graham Chapman d\u00E9c\u00E8de en 1989. Les cinq membres survivants se retrouvent quelquefois, comme en 1998 dans Live At Aspen. Le 19 novembre 2013, Terry Jones annonce la reformation du groupe et le projet d'un nouveau spectacle comique. Une conf\u00E9rence de presse, tenue au Palace Theatre de Londres jeudi 21 novembre, officialise la reformation des Monty Python. Les Python se produisent finalement \u00E0 l'O2Arena de Londres pour 10 spectacles qui affichent tous complet en juillet 2014."@fr ,
+		"Monty Python britaniar aktore komiko talde baten izena da.  izeneko telesaioarekin hasi zen python fenomenoa, zein munduan zehar hedatu zen haien filmei esker. Telesaioa lehen aldiz 1969an eman zen. Graham Chapman, John Cleese, Terry Gilliam, Eric Idle, Terry Jones eta Michael Palin ziren aktoreak zein gidoilariak. Terry Gilliam-en marrazkiak lagunduta, onargarriaren mugak (estiloan eta edukian) pixka bat haratago eraman zituzten. Taldearen influentzia umorean The Beatles-ek musikan zeukatenaren aldean kokatu da. Britania Handiko zein Estatu Batuetako umore absurdoak Monty Python du oinarri, hala nola South Park edo The Simpsons telesaioak. Taldeak beti demokratikoki egin du lan. Horretarako, diziplina eta antolakuntza maila handia behar dira. Goizeko 9etan hasten zen jardunaldia, arratsaldeko 5etan bukatzeko. Bakoitzak bere kabuz idazten zuen. Lehen gidoiak egindakoan, elkartzen ziren eta denen artean kritikatzen eta aldatzen zituzten. Gehiengoak ideia ontzat joz gero, telesaioan agertuko zen. Pantailaren aurrean agertzerakoan ere eskuzabal jokatzen zuten. Printzipio horietan oinarrituta, taldeak arrakasta itzela eskuratu zuen."@eu ,
+		"Monty Python is een Britse komediegroep, die vijf films, vele albums, vier computerspellen, verscheidene boeken, vier tv-seizoenen met 45 afleveringen en diverse andere merchandising op haar naam heeft staan. De groep staat bekend om het (succesvol) doorbreken van de toen conventionele komedieregels. De groep bestaat uit de leden: \n* Graham Chapman (1941-1989) \n* John Cleese (1939) \n* Terry Gilliam (1940) \n* Eric Idle (1943) \n* Terry Jones (1942-2020) \n* Michael Palin (1943)"@nl ,
+		"Monty Python va ser un grup brit\u00E0nic d'humoristes que van sintetitzar en clau d\u2019humor la idiosincr\u00E0sia brit\u00E0nica dels anys seixanta i setanta. Van obtenir la fama amb la s\u00E8rie de televisi\u00F3 Monty Python's Flying Circus (El Circ Ambulant de Monty Python), basada en esquetxos breus que en moltes ocasions inclo\u00EFen una important c\u00E0rrega de cr\u00EDtica social i en qu\u00E8 la majoria de les obres fregaven l'absurd total. El primer episodi el va emetre el 5 d'octubre de 1969 la cadena brit\u00E0nica BBC. La s\u00E8rie va continuar en antena fins al 1974 i es va emetre m\u00FAltiples vegades en diferents pa\u00EFsos. El fenomen dels Monty Python va transcendir el m\u00F3n televisiu i els seus integrants van ser responsables de la producci\u00F3 i interpretaci\u00F3 de diverses pel\u00B7l\u00EDcules: \n* 1971:  \n* 1975: Monty Python and the Holy Grail \n* 1979: La vida de Brian (Monty Python's Life of Brian) \n* 1982:  \n* 1983: Els components del grup van ser: \n* Eric Idle \n* Michael Palin \n* John Cleese \n* Terry Gilliam \n* Terry Jones \n* Graham Chapman Alguns dels seus components han triomfat tamb\u00E9 en solitari. Terry Jones ha dirigit llargmetratges i ha protagonitzat diverses s\u00E8ries documentals. Terry Gilliam ha dirigit diverses pel\u00B7l\u00EDcules, entre elles El secret dels germans Grimm, Brazil o 12 Monkeys. John Cleese ha protagonitzat la popular s\u00E8rie d'humor Hotel Fawlty i ha actuat en moltes pel\u00B7l\u00EDcules de cinema. Michael Palin ha estat el protagonista de diversos documentals de viatges de la BBC, el m\u00E9s notable dels quals \u00E9s la s\u00E8rie ."@ca ;
+	dbp:align	"left"@en ,
+		"right"@en ;
+	dbp:v	"no"@en ;
+	dbp:caption	"Front row: Jones, Cleese, Palin"@en ,
+		"Back row: Chapman, Idle, Gilliam"@en ,
+		"The Pythons in 1969:"@en ;
+	dbp:b	"no"@en ;
+	dbp:commons	"category:Monty Python"@en ;
+	dbp:n	"no"@en ;
+	dbp:source	"\u2014Early scene from Life of Brian."@en ,
+		"\u2014Mike Myers."@en ,
+		"\u2014Terry Gilliam in 2007."@en ;
+	dbp:wikt	"Pythonesque"@en .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Monty_Python	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Monty_Python?oldid=984592503&ns=0> ;
+	dbp:species	"no"@en ;
+	dbp:active	1969 ;
+	dbp:nationality	"British"@en ;
+	dbp:imagesize	250 ;
+	dbp:name	"Monty Python"@en ;
+	dbp:bgcolor	"#c6dbf7"@en ,
+		"#FFFFF0"@en .
+@prefix ns72:	<http://dbpedia.org/datatype/> .
+dbr:Monty_Python	dbp:width	"27.0"^^ns72:perCent ,
+		"30.0"^^ns72:perCent ,
+		"29.0"^^ns72:perCent ;
+	dbp:quote	"\"Our first rule was: no punchlines. [Some sketches] start brilliant, great acting, really funny sketch, but the punchline is just not as good as the rest of the sketch, so it kills the entire thing. That\u2019s why we eliminated them.\""@en ,
+		"\"We are three wise men.\""@en ,
+		"\"Well, what are you doing creeping around a cow shed at two o'clock in the morning? That doesn't sound very wise to me.\""@en ;
+	dbp:d	16402 ;
+	dbp:s	"no"@en ;
+	dbp:mw	"no"@en .
+@prefix ns73:	<https://www.timeout.com/london/comedy/> .
+dbr:Monty_Python	dbo:wikiPageExternalLink	ns73:monty-python-interview ,
+		ns22:MontyPython ,
+		ns22:etlcstn .
+@prefix ns74:	<https://archive.org/details/> .
+dbr:Monty_Python	dbo:wikiPageExternalLink	ns74:grahamcrackersfu0000chap ,
+		<https://web.archive.org/web/20091007012323/http:/gnews.com/entertainment/The-Life-of-Python-20-Greatest-Monty-Python-Sketches-110424014489.html> .
+@prefix ns75:	<https://web.archive.org/web/20091007211249/http:/www.life.com/image/first/in-gallery/34232/> .
+dbr:Monty_Python	dbo:wikiPageExternalLink	ns75:monty-python-40-years-of-insanity .
+@prefix ns76:	<https://web.archive.org/web/20090514060346/http:/musicforhumanrights.org/news/> .
+dbr:Monty_Python	dbo:wikiPageExternalLink	ns76:secret-policemans-balls-dvd-release ,
+		<http://www.montypython.com/> .
+@prefix ns77:	<http://www.life.com/image/first/in-gallery/34232/> .
+dbr:Monty_Python	dbo:wikiPageExternalLink	ns77:monty-python-40-years-of-insanity ,
+		<http://www.time.com/time/photogallery/0,29307,1930296_1967872,00.html> .
+@prefix ns78:	<http://www.musicforhumanrights.org/news/> .
+dbr:Monty_Python	dbo:wikiPageExternalLink	ns78:secret-policemans-balls-dvd-release ,
+		<https://books.google.com/books%3Fid=J_Zg-9u4yLAC> ,
+		<https://books.google.com/books%3Fid=J1CxIuG-_NkC> ,
+		<https://books.google.com/books%3Fid=G49bRxbeH1kC> ,
+		<http://gnews.com/entertainment/The-Life-of-Python-20-Greatest-Monty-Python-Sketches-110424014489.html> ,
+		<https://books.google.com/books%3Fid=aTYcAQAAIAAJ> ,
+		<https://books.google.com/books%3Fid=PzxaAAAAMAAJ> ,
+		<https://books.google.com/books%3Fid=qVa1Hfh11V0C> ;
+	dbp:voy	"no"@en ;
+	dbp:currentMembers	"Terry Jones"@en ,
+		"John Cleese"@en ,
+		""@en ,
+		"Michael Palin"@en ,
+		"Eric Idle"@en ,
+		"Terry Gilliam"@en ,
+		"Graham Chapman"@en ;
+	dbp:m	"no"@en ;
+	dbo:wikiPageID	18942 ;
+	dbo:wikiPageRevisionID	984592503 ;
+	dbo:wikiPageWikiLink	dbr:The_Final_Rip_Off ,
+		dbr:Royal_Mail ,
+		dbr:Satire_boom ,
+		dbr:Tony_Stratton-Smith ,
+		dbr:We_Have_Ways_of_Making_You_Laugh ,
+		dbr:Connie_Booth ,
+		dbr:Douglas_Adams ,
+		dbr:Beatitudes ,
+		dbr:Terry_Gilliam ,
+		dbr:David_Cross ,
+		dbc:Charisma_Records_artists ,
+		dbr:The_Ministry_of_Silly_Walks ,
+		dbr:Bemaraha_woolly_lemur ,
+		dbr:Spamalot ,
+		dbr:Sam_Peckinpah ,
+		dbr:Nuns_on_the_Run ,
+		<http://dbpedia.org/resource/Her_Majesty\u0027s_Theatre> ,
+		<http://dbpedia.org/resource/3rd_Rock_from_the_Sun> ,
+		dbr:Tim_Curry ,
+		dbr:The_Dean_Martin_Comedy_World ,
+		dbr:Science_fiction ,
+		dbr:Tim_Brooke-Taylor ,
+		dbr:Tony_Award ,
+		dbr:Hollywood_Bowl ,
+		dbr:Email_spam ,
+		dbr:Michael_Palin ,
+		dbr:Fossil_fuel ,
+		dbr:Cheers ,
+		dbr:PBS ,
+		dbr:Spanish_Inquisition ,
+		dbr:At_Last_the_1948_Show ,
+		dbr:Robbie_Coltrane ,
+		dbr:Splitting_Heirs ,
+		<http://dbpedia.org/resource/Jethro_Tull_(band)> ,
+		dbr:Toronto ,
+		dbr:Virgin_Interactive ,
+		<http://dbpedia.org/resource/100_Greatest_(TV_series)> ,
+		dbr:Guinness_World_Records ,
+		dbr:Black_comedy ,
+		<http://dbpedia.org/resource/Aspen,_Colorado> ,
+		dbr:Footlights ,
+		<http://dbpedia.org/resource/Monty_Python:_Almost_the_Truth_(Lawyers_Cut)> ,
+		dbr:Thames_Television ,
+		dbr:Word_play ,
+		dbr:Peter_Oundjian ,
+		<http://dbpedia.org/resource/List_of_minor_planets:_9001\u201310000> ,
+		dbr:Surrealism ,
+		dbr:King_Arthur ,
+		dbr:Lyn_Ashley ,
+		dbr:Amnesty_International ,
+		<http://dbpedia.org/resource/2012_Summer_Olympics_closing_ceremony> ,
+		dbr:Good_Eats ,
+		dbr:Bytecode ,
+		dbr:The_Adventures_of_Baron_Munchausen ,
+		dbr:Ian_MacNaughton ,
+		<http://dbpedia.org/resource/Monty_Python_Live_(Mostly)> ,
+		dbr:Bono ,
+		dbr:Barnstorming ,
+		dbr:Barry_Took ,
+		dbr:Oratorio ,
+		dbr:Closing_credits ,
+		<http://dbpedia.org/resource/Pembroke_College,_Cambridge> ,
+		dbr:The_Wind_in_the_Willows ,
+		dbr:Austin_Powers ,
+		<http://dbpedia.org/resource/Monty_Python\u0027s_Flying_Circus_(album)> ,
+		dbr:Rupert_Bear ,
+		<http://dbpedia.org/resource/Monty_Python_and_the_Holy_Grail_(Book)> ,
+		dbr:New_York_City ,
+		dbr:KERA-TV ,
+		<http://dbpedia.org/resource/Eric_(software)> ,
+		<http://dbpedia.org/resource/I\u0027m_Sorry,_I\u0027ll_Read_That_Again> ,
+		dbr:Order_of_St_Michael_and_St_George ,
+		<http://dbpedia.org/resource/Parrot_Sketch_Not_Included_\u2013_20_Years_of_Monty_Python> ,
+		dbr:The_Hastily_Cobbled_Together_for_a_Fast_Buck_Album ,
+		dbr:SpaceX_COTS_Demo_Flight_1 ,
+		<http://dbpedia.org/resource/The_Simpsons_(season_6)> ,
+		<http://dbpedia.org/resource/Monty_Python\u0027s_Life_of_Brian> ,
+		dbr:Mockumentary ,
+		dbr:Upper_Class_Twit_of_the_Year ,
+		<http://dbpedia.org/resource/Gilliam_v._American_Broadcasting_Companies,_Inc.> ,
+		dbr:John_Philip_Sousa ,
+		dbr:The_Album_of_the_Soundtrack_of_the_Trailer_of_the_Film_of_Monty_Python_and_the_Holy_Grail ,
+		dbr:The_Monty_Python_Instant_Record_Collection ,
+		<http://dbpedia.org/resource/Monty_Python\u0027s_Complete_Waste_of_Time> ,
+		dbr:Another_Monty_Python_Record ,
+		dbr:Larry_Wall ,
+		dbr:Mark_Forstater ,
+		dbr:Theme_music ,
+		dbr:Out_of_the_Trees ,
+		<http://dbpedia.org/resource/John_Young_(actor)> ,
+		dbr:Benefit_concert ,
+		<http://dbpedia.org/resource/Q..._(TV_series)> ,
+		dbr:Do_Not_Adjust_Your_Set ,
+		dbr:Trademark_look ,
+		dbr:Liver ,
+		dbr:Air_Canada ,
+		dbr:Jonathan_Lynn ,
+		dbr:Simon_Pegg ,
+		dbr:Stephen_Fry ,
+		dbc:Arista_Records_artists ,
+		dbr:Spike_Milligan ,
+		dbr:Revue ,
+		dbr:And_Now_for_Something_Completely_Different ,
+		<http://dbpedia.org/resource/Monty_Python\u0027s_The_Meaning_of_Life> ,
+		dbr:Tom_Hanks ,
+		<http://dbpedia.org/resource/Help!_(magazine)> .
+@prefix ns79:	<http://dbpedia.org/resource/Best_in_Film:> .
+dbr:Monty_Python	dbo:wikiPageWikiLink	ns79:_The_Greatest_Movies_of_Our_Time ,
+		dbr:Playboy ,
+		<http://dbpedia.org/resource/Are_You_Being_Served%3F> ,
+		<http://dbpedia.org/resource/Python_(programming_language)> ,
+		dbr:The_Firesign_Theatre ,
+		dbr:West_End_of_London ,
+		<http://dbpedia.org/resource/Flanagan_(model)> ,
+		dbr:Empire_Inspiration_Award ,
+		<http://dbpedia.org/resource/List_of_minor_planets:_13001\u201314000> ,
+		<http://dbpedia.org/resource/April_Fools\u0027_Day> ,
+		dbr:Sound_recording_and_reproduction ,
+		dbr:BBC_Two ,
+		dbr:Bonzo_Dog_Doo-Dah_Band ,
+		dbc:British_surrealist_artists ,
+		dbc:British_surrealist_writers ,
+		dbr:Bob_Geldof ,
+		dbr:Christopher_Guest ,
+		dbc:Monty_Python ,
+		dbr:Monty_Python_Live_at_City_Center ,
+		dbr:Monty_Python_Live_at_the_Hollywood_Bowl ,
+		dbr:Patient_Abuse ,
+		<http://dbpedia.org/resource/Monty_Python\u0027s_Personal_Best> ,
+		<http://dbpedia.org/resource/Monty_Python\u0027s_Previous_Record> ,
+		dbr:Cheese_Shop_sketch ,
+		dbr:David_Hyde_Pierce ,
+		dbr:Television_comedy ,
+		<http://dbpedia.org/resource/Michael_McGrath_(actor)> ,
+		dbr:Cold_open ,
+		<http://dbpedia.org/resource/Taxonomy_(biology)> ,
+		<http://dbpedia.org/resource/Monty_Python\u0027s_Flying_Circus> ,
+		dbr:West_End_theatre ,
+		dbr:English-speaking_world ,
+		dbr:The_Royal_Guardsmen ,
+		dbr:Spamming ,
+		dbr:Neil_Innes ,
+		<http://dbpedia.org/resource/Jabberwocky_(film)> ,
+		dbr:The_Funniest_Joke_in_the_World ,
+		dbr:Girls_und_Panzer ,
+		dbr:Toad_the_Wet_Sprocket ,
+		dbr:Epix ,
+		dbr:Live_at_Drury_Lane ,
+		dbr:Phil_Collins ,
+		dbr:Matt_Stone ,
+		<http://dbpedia.org/resource/Not_Only..._But_Also> ,
+		dbr:Amiga ,
+		dbr:Amstrad_CPC .
+@prefix ns80:	<http://dbpedia.org/resource/An_Alan_Smithee_Film:> .
+dbr:Monty_Python	dbo:wikiPageWikiLink	ns80:_Burn_Hollywood_Burn ,
+		dbr:ZX_Spectrum ,
+		dbc:BAFTA_Outstanding_British_Contribution_to_Cinema_Award ,
+		dbr:The_O2_Arena ,
+		dbr:Tunisia ,
+		dbc:Surreal_comedy ,
+		dbr:Montreal ,
+		<http://dbpedia.org/resource/Not_the_Messiah_(He\u0027s_a_Very_Naughty_Boy)> ,
+		dbr:Greg_Garrison ,
+		dbr:Anime ,
+		dbr:Eddie_Izzard ,
+		dbr:Galahad ,
+		dbr:Paleontology ,
+		dbr:Cross-dressing ,
+		<http://dbpedia.org/resource/Category:1969_establishments_in_England> ,
+		dbr:Robin_Williams ,
+		dbr:Eric_Idle ,
+		<http://dbpedia.org/resource/ITV_(TV_network)> ,
+		<http://dbpedia.org/resource/The_Spanish_Inquisition_(Monty_Python)> ,
+		dbr:Westdeutscher_Rundfunk ,
+		<http://dbpedia.org/resource/Brazil_(1985_film)> ,
+		dbr:Cupid ,
+		dbr:Cult ,
+		dbr:Anesthetic ,
+		dbr:Germaine_Greer ,
+		dbr:Steve_Coogan ,
+		dbr:Jonathan_Miller ,
+		<http://dbpedia.org/resource/Monty_Python\u0027s_The_Meaning_of_Life_(book)> ,
+		dbr:Seth_MacFarlane ,
+		dbc:Black_comedy ,
+		dbr:Neil_Gaiman ,
+		dbr:Yes_Minister ,
+		dbr:American_Broadcasting_Company ,
+		dbr:Sit_on_My_Face ,
+		dbr:Monty_Python_and_the_Holy_Grail ,
+		dbr:Miocene ,
+		dbr:Dudley_Moore ,
+		<http://dbpedia.org/resource/41st_British_Academy_Film_Awards> ,
+		dbr:Public_domain ,
+		dbr:Argument_Clinic ,
+		dbr:Alton_Brown ,
+		<http://dbpedia.org/resource/Monty_Python\u0027s_Cow_Tossing> ,
+		dbr:The_Brand_New_Monty_Python_Bok ,
+		dbr:Limited_theatrical_release ,
+		<http://dbpedia.org/resource/Morelia_(snake)> ,
+		dbr:Luminato ,
+		dbr:Ribaldry ,
+		<http://dbpedia.org/resource/Ian_Davidson_(scriptwriter)> ,
+		dbr:Trey_Parker ,
+		dbr:This_Song ,
+		<http://dbpedia.org/resource/2019_New_Year_Honours> ,
+		dbr:Comedy_troupe ,
+		dbr:Title_sequence ,
+		dbr:The_Beatles ,
+		<http://dbpedia.org/resource/File:Monty_Python_Live_02-07-14_13_00_13_(14415341590).jpg> ,
+		<http://dbpedia.org/resource/File:Monty_Python_O2_Arena.jpg> ,
+		dbr:Yellowbeard ,
+		dbr:Stop_motion ,
+		dbr:The_Pythons_Autobiography_by_The_Pythons ,
+		dbr:British_Academy_of_Film_and_Television_Arts ,
+		dbr:Asteroid ,
+		dbr:Pete_Townshend ,
+		dbr:Falsetto ,
+		dbr:Italian_Renaissance ,
+		dbr:Alan_Bennett ,
+		dbr:Basil_Fawlty ,
+		dbr:Integrated_development_environment ,
+		dbc:British_novelty_song_performers ,
+		dbr:Monty_Python_Sings ,
+		dbr:Double_act ,
+		dbr:BBC_Radio_1 ,
+		<http://dbpedia.org/resource/Saint_George\u0027s_Day> ,
+		dbr:American_Film_Institute ,
+		<http://dbpedia.org/resource/The_Colonel_(Monty_Python)> ,
+		dbr:Stream_of_consciousness ,
+		dbr:Led_Zeppelin ,
+		<http://dbpedia.org/resource/Ben_&_Jerry\u0027s> ,
+		dbr:U2 ,
+		dbr:North_Yorkshire ,
+		dbr:Homer_Simpson ,
+		dbr:Elon_Musk ,
+		<http://dbpedia.org/resource/Monty_Python\u0027s_The_Meaning_of_Life_(video_game)> ,
+		dbr:Royal_Albert_Hall ,
+		dbr:New_Testament ,
+		dbr:Lancelot ,
+		<http://dbpedia.org/resource/Doctor_in_the_House_(TV_series)> ,
+		dbr:Live_Aid ,
+		dbr:How_Not_to_Be_Seen ,
+		<http://dbpedia.org/resource/The_Wind_in_the_Willows_(1996_film)> ,
+		dbr:The_Goon_Show ,
+		dbc:British_comedy_musicians ,
+		dbr:Lexicon ,
+		dbr:Vikings ,
+		dbr:John_Lennon ,
+		dbr:Low_Earth_orbit ,
+		dbr:Sketch_comedy ,
+		dbr:Robinson_Crusoe ,
+		dbr:Berne_Convention ,
+		dbr:Twice_a_Fortnight ,
+		dbr:John_Oliver ,
+		<http://dbpedia.org/resource/Sting_(musician)> ,
+		dbr:Saturday_Night_Live ,
+		dbr:Iron_Maiden ,
+		dbr:BBC ,
+		dbr:George_Martin ,
+		<http://dbpedia.org/resource/Monty_Python\u0027s_Contractual_Obligation_Album> ,
+		<http://dbpedia.org/resource/Black_Knight_(Monty_Python)> ,
+		dbr:FM_broadcasting ,
+		<http://dbpedia.org/resource/Snoopy_vs._the_Red_Baron_(song)> ,
+		dbr:Google_Translate ,
+		dbr:Seth_Meyers ,
+		dbr:George_Harrison ,
+		dbr:Monty_Python_Live_at_Aspen ,
+		dbr:Buckingham_Palace ,
+		dbr:Canadian_Broadcasting_Corporation ,
+		dbr:Concert_for_George ,
+		dbr:South_Park ,
+		dbr:Kenneth_Colley ,
+		<http://dbpedia.org/resource/Spam_(Monty_Python)> ,
+		<http://dbpedia.org/resource/A_Poke_in_the_Eye_(With_a_Sharp_Stick)> ,
+		dbr:Billy_Connolly ,
+		<http://dbpedia.org/resource/Python_Night_\u2013_30_Years_of_Monty_Python> ,
+		dbr:Chicago_Tribune ,
+		dbr:Mick_Jagger ,
+		<http://dbpedia.org/resource/Time_(magazine)> ,
+		dbr:Video_Arts ,
+		dbc:Virgin_Records_artists ,
+		dbr:Kate_Beckinsale ,
+		dbr:Anagram ,
+		dbr:Time_Bandits ,
+		dbr:Every_Sperm_Is_Sacred ,
+		<http://dbpedia.org/resource/Python_(Monty)_Pictures> ,
+		dbr:SpaceX ,
+		dbr:John_Howard_Davies ,
+		<http://dbpedia.org/resource/The_Secret_Policeman\u0027s_Ball> ,
+		dbr:Mount_of_Olives ,
+		dbr:Eric_Clapton ,
+		dbr:Robert_Klein ,
+		dbr:Trafalgar_Square ,
+		dbr:Erik_the_Viking ,
+		dbr:John_Cleese ,
+		<http://dbpedia.org/resource/Richard_Burridge_(priest)> ,
+		dbr:Clive_James ,
+		dbr:Middle_Ages ,
+		dbr:Harvey_Kurtzman ,
+		dbr:Perl ,
+		dbr:Mike_Myers ,
+		dbr:Elton_John ,
+		dbr:The_Simpsons ,
+		dbr:Simon_Mayo ,
+		dbr:Channel_4 ,
+		dbr:Cambridge_Footlights_Revue ,
+		dbr:Fawlty_Towers ,
+		dbr:Pink_Floyd ,
+		dbr:Beyond_the_Fringe ,
+		dbr:Fourth_wall ,
+		dbr:Nudge_Nudge ,
+		dbr:Commodore_64 ,
+		dbr:Crackerbox_Palace ,
+		<http://dbpedia.org/resource/Denis_O\u0027Brien_(producer)> ,
+		dbr:Oxford_English_Dictionary ,
+		dbr:Victor_Lownes ,
+		dbr:HandMade_Films ,
+		dbr:Engraving ,
+		<http://dbpedia.org/resource/Will_&_Grace> ,
+		dbr:Las_Vegas_Valley ,
+		dbr:Graham_Chapman ,
+		dbr:Christopher_Sieber ,
+		dbr:Bernard_Montgomery ,
+		<http://dbpedia.org/resource/Category:European_Film_Awards_winners_(people)> ,
+		dbr:Jim_Carrey ,
+		<http://dbpedia.org/resource/%22Weird_Al%22_Yankovic> ,
+		<http://dbpedia.org/resource/Messiah_(Handel)> ,
+		dbr:Sacha_Baron_Cohen ,
+		dbr:Midnight_movie ,
+		dbr:Field_marshal ,
+		dbr:Manfred_von_Richthofen ,
+		dbr:Vic_and_Bob ,
+		dbr:All_You_Need_Is_Cash ,
+		<http://dbpedia.org/resource/Monty_Python\u0027s_Fliegender_Zirkus> ,
+		dbr:Bronzino ,
+		dbr:Surreal_humour ,
+		dbr:Parrot_virtual_machine ,
+		dbr:Absolutely_Anything ,
+		dbr:John_Du_Prez ,
+		dbr:Mr_Creosote ,
+		dbr:Copyright_law_of_the_United_States ,
+		dbr:Kenneth_Grahame ,
+		dbr:Spijkenisse ,
+		dbr:Riversleigh_World_Heritage_Area ,
+		dbr:Rutland_Weekend_Television ,
+		dbr:How_to_Irritate_People ,
+		<http://dbpedia.org/resource/A_Liar\u0027s_Autobiography> ,
+		<http://dbpedia.org/resource/The_Simpsons_(season_5)> ,
+		dbr:University_of_Oxford ,
+		dbr:Charisma_Records ,
+		dbr:BFI_TV_100 ,
+		dbr:The_Goodies ,
+		dbr:Pembroke_Players ,
+		dbr:A_Fish_Called_Wanda ,
+		<http://dbpedia.org/resource/The_Liberty_Bell_(march)> ,
+		dbr:World_War_II ,
+		dbr:Always_Look_on_the_Bright_Side_of_Life ,
+		dbr:Palmerston_North ,
+		dbr:British_Academy_Film_Awards ,
+		dbr:Toronto_Symphony_Orchestra ,
+		dbr:Mike_Nichols ,
+		dbr:Fifth_Beatle ,
+		dbr:History_of_BBC_television_idents ,
+		<http://dbpedia.org/resource/File:Monty_Python_Live_02-07-14_13_04_42_(14598710791).jpg> ,
+		<http://dbpedia.org/resource/File:Monty_Python_Live_02-07-14_12_24_16_(14598681721).jpg> ,
+		<http://dbpedia.org/resource/File:Monty_Python_Live_02-07-14_12_46_43_(14415411808).jpg> ,
+		<http://dbpedia.org/resource/File:Monty_Python_Live_02-07-14_12_51_26_(14578960366).jpg> ,
+		<http://dbpedia.org/resource/File:Monty_Python_Live_02-07-14_12_56_41_(14415567757).jpg> ,
+		dbr:Ripping_Yarns ,
+		<http://dbpedia.org/resource/Knights_Who_Say_%22Ni!%22> ,
+		dbr:Collage ,
+		<http://dbpedia.org/resource/Gold_(British_TV_channel)> ,
+		dbr:Computer-generated_imagery ,
+		dbr:Victorian_era ,
+		dbr:National_CineMedia ,
+		dbr:The_Lumberjack_Song ,
+		dbr:Matt_Groening ,
+		dbr:University_of_Cambridge ,
+		<http://dbpedia.org/resource/List_of_Monty_Python\u0027s_Flying_Circus_episodes> ,
+		<http://dbpedia.org/resource/Terry_Hughes_(director)> ,
+		<http://dbpedia.org/resource/List_of_recurring_Monty_Python\u0027s_Flying_Circus_characters> ,
+		dbr:Tina_Fey ,
+		dbr:Dead_Parrot_sketch ,
+		dbr:IDLE ,
+		dbr:Guido_van_Rossum ,
+		dbr:Subversion ,
+		<http://dbpedia.org/resource/Venus,_Cupid,_Folly_and_Time> ,
+		dbr:Gavin_Scott .
+@prefix ns81:	<http://dbpedia.org/resource/Monty_Python\u0027s_Flying_Circus:> .
+dbr:Monty_Python	dbo:wikiPageWikiLink	ns81:_The_Computer_Game ,
+		dbr:Lady_of_the_Lake ,
+		dbr:Satire ,
+		dbr:Marty_Feldman ,
+		dbr:Production_of_the_James_Bond_films ,
+		dbr:The_Rutles ,
+		<http://dbpedia.org/resource/Dubbing_(filmmaking)> ,
+		<http://dbpedia.org/resource/A_Liar\u0027s_Autobiography:_The_Untrue_Story_of_Monty_Python\u0027s_Graham_Chapman> ,
+		dbr:Brian_Song ,
+		dbr:Galaxy_Song ,
+		dbr:Royalty_payment ,
+		<http://dbpedia.org/resource/Spam_(food)> ,
+		dbr:The_Ultimate_Monty_Python_Rip_Off ,
+		<http://dbpedia.org/resource/File:10.18.09CarolClevelandByLuigiNovi.jpg> ,
+		<http://dbpedia.org/resource/File:EMP_Seattle_(26120000225).jpg> ,
+		dbr:The_Comedy_Festival ,
+		<http://dbpedia.org/resource/File:Lumebrjack_Song_O2_Arena.jpg> ,
+		<http://dbpedia.org/resource/File:Monty_Python_(4624404749).jpg> ,
+		dbr:Robbie_Collin ,
+		<http://dbpedia.org/resource/File:Neil_Innes_by_Luke_Ford_adjust.jpg> ,
+		<http://dbpedia.org/resource/File:Shubert_Theatre_NYC_from_Shubert_Alley.jpg> ,
+		<http://dbpedia.org/resource/File:The_Four_Yorkshiremen,_2014_(crop).jpg> ,
+		<http://dbpedia.org/resource/File:Monty_Python_Live_02-07-14_12_27_13_(14415368570).jpg> ,
+		dbr:The_Crimson_Permanent_Assurance ,
+		dbc:Religious_comedy_and_humour ,
+		<http://dbpedia.org/resource/File:Monty_Python_Live_(Mostly).jpg> ,
+		<http://dbpedia.org/resource/File:Monty_python_foot.png> .
+@prefix ns82:	<http://dbpedia.org/resource/Wikt:> .
+dbr:Monty_Python	dbo:wikiPageWikiLink	ns82:Pythonesque ,
+		dbc:Surrealist_groups ,
+		dbc:British_television_comedy ,
+		dbr:Rowan_Atkinson ,
+		<http://dbpedia.org/resource/Monty_Python\u0027s_Big_Red_Book> ,
+		<http://dbpedia.org/resource/Monty_Python_&_the_Quest_for_the_Holy_Grail> ,
+		dbr:The_Oxford_Revue ,
+		dbr:Cult_following ,
+		dbr:The_Monty_Python_Matching_Tie_and_Handkerchief ,
+		dbr:Spitting_Image ,
+		<http://dbpedia.org/resource/Fred_Tomlinson_(singer)> ,
+		dbr:Bill_Oddie ,
+		dbr:Will_Ferrell ,
+		dbr:Band_of_the_Grenadier_Guards ,
+		dbr:Carol_Cleveland ,
+		dbr:Sara_Ramirez ,
+		dbr:Terry_Jones ,
+		dbr:Dallas ,
+		dbr:Hank_Azaria ,
+		dbr:Hugh_Laurie ,
+		dbc:British_comedy_troupes ,
+		dbr:Peter_Sellers ,
+		<http://dbpedia.org/resource/Category:1983_disestablishments_in_England> ,
+		dbr:The_Complete_and_Utter_History_of_Britain ,
+		dbr:The_Frost_Report ,
+		dbr:Graeme_Garden ,
+		<http://dbpedia.org/resource/9617_Grahamchapman> ,
+		dbr:Dish_Network ,
+		dbr:Bruce_Dickinson ,
+		dbr:The_New_York_Times ,
+		<http://dbpedia.org/resource/Monty_Python\u0027s_Life_of_Brian_(album)> ,
+		dbr:Peter_Cook ,
+		ns13:_Monty_Python_Scrapbook ,
+		<http://dbpedia.org/resource/Monty_Python\u0027s_The_Meaning_of_Life_(album)> ,
+		dbr:Four_Yorkshiremen_sketch .
+@prefix dbt:	<http://dbpedia.org/resource/Template:> .
+dbr:Monty_Python	dbp:wikiPageUsesTemplate	dbt:Redirect ,
+		dbt:Infobox_comedian ,
+		dbt:Monty_Python ,
+		dbt:Flat_list ,
+		dbt:Main ,
+		dbt:Curlie ,
+		dbt:ISBN ,
+		dbt:About ,
+		dbt:Cite_book ,
+		dbt:Cite_web ,
+		dbt:Use_British_English ,
+		dbt:Use_dmy_dates ,
+		dbt:Sisterlinks ,
+		<http://dbpedia.org/resource/Template:\u0027%22> ,
+		dbt:Quote_box ,
+		<http://dbpedia.org/resource/Template:\u0027> ,
+		dbt:Authority_control ,
+		dbt:European_Film_Academy_Lifetime_Achievement_Award ,
+		dbt:Portal ,
+		dbt:Short_description ,
+		dbt:Surrealism ,
+		dbt:Reflist ,
+		dbt:Url .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Monty_Python	dbo:wikiPageLength	"149813"^^xsd:nonNegativeInteger .
+dbr:Squire	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Knitting_needle	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:SF_Sketchfest	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Satiric_misspelling	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Harvard_Undergraduate_Television	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/South_Park:_Bigger,_Longer_&_Uncut>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Edward_Barnes_(composer)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Infinite_Jest	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Sari_Nusseibeh	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Seeso	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Burt_Kearns	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Ricky_Fataar	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:The_Trews	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:AM_America	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Elaine_J._McCarthy>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Electra_2000	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Antonia_Sautter	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:The_Mechanical_Universe	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Kim_%22Howard%22_Johnson>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Neil_(name)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Ancient_astronauts_in_popular_culture	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Religious_satire	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Outline_of_the_United_Kingdom	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:British_comedy	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Jeff_Garlin	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:The_Dana_Carvey_Show	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:The_Year_of_the_Sex_Olympics	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Charlie_and_the_Chocolate_Factory	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Jim_Steinman	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/1991_in_British_music>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/I_Ching\u0027s_influence>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+@prefix ns85:	<http://dbpedia.org/resource/There_Is_No_Game:> .
+ns85:_Wrong_Dimension	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Federico_Maria_Sardelli	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Gospel_of_Jesus\u0027_Wife>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:List_of_directors_who_appear_in_their_own_films	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:List_of_fictional_private_investigators	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Ian_Ogilvy	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Tennis_in_Scotland	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Baron_Ambrosia	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Humanist_Canada	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Buddah_Records	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Manlio_Sgalambro	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Oliver_Cromwell_(song)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Multiple-use_name	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Soft-Hearted_Hana	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:The_Mansion_of_Madness	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Provider_(Angel)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Pythonesque_(play)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Hello_Sailor_(novel)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Macclesfield_Psalter	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/The_Dragon\u0027s_Call>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Timeslides	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:The_Former_Life_of_Brian	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Black_Blotter	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Medicine_Lake,_Minnesota>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Mad_(magazine)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Bono	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Dennis_Berry	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Gregorius_Nekschot	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Ricky_Gervais	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Consequences_(Godley_&_Creme_album)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Seth_Meyers	dbo:wikiPageWikiLink	dbr:Monty_Python .
+@prefix ns86:	<http://dbpedia.org/resource/Sheffield_Doc/> .
+ns86:Fest	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Wimpole_Street	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Theatre_Royal,_Drury_Lane>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:List_of_people_from_Leicester_and_Leicestershire	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Charlie_and_the_Chocolate_Factory_(film)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+@prefix ns87:	<http://dbpedia.org/resource/1\u00BD_Knights:> .
+ns87:_In_Search_of_the_Ravishing_Princess_Herzelinde	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Lars_Mikkelsen	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Stream_of_consciousness	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Edinburgh_Festival_Fringe	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Mark_Ryan_(actor)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Freddie_Mercury	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Churchfield_Road	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Compilation_film	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:OpenBSD_version_history	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Epic_Movie	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Monty_Python_and_the_Holy_Grail	dbp:writers	dbr:Monty_Python ;
+	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Goodness_Gracious_Me_(TV_series)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/List_of_adaptations_of_The_Monkey\u0027s_Paw>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:The_Canine_Mutiny	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Stalin_vs._Martians>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/TV\u0027s_50_Greatest_Stars>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Scramble_band	dbo:wikiPageWikiLink	dbr:Monty_Python .
+@prefix ns88:	<http://dbpedia.org/resource/2001:> .
+ns88:_A_Space_Odyssey_in_popular_culture	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Fred_Evans_(comedian)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:The_Burkiss_Way	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/The_39_Steps_(play)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:The_Framley_Examiner	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Comedic_genres	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Veronica_Geng	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Conan_the_Librarian	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Zucker,_Abrahams_and_Zucker>	dbo:influencedBy	dbr:Monty_Python .
+dbr:List_of_mockumentaries	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Bert_Fegg\u0027s_Nasty_Book_for_Boys_and_Girls>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Ripping_Yarns	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Simon_the_Sorcerer	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Excel_Saga	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Stella_(comedy_group)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Cultural_impact_of_No\u00EBl_Coward>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:The_Books_of_Knjige	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:British_humour	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Thick_as_a_Brick	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Cin\u00E9Magique>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/1971_in_film>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Joe_Pasquale	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Mr_Creosote	dbo:creator	dbr:Monty_Python ;
+	dbp:creator	dbr:Monty_Python ;
+	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Charlie_Brooker	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Green_Wing	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Allison_Jones_(casting_director)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Norsemen_(TV_series)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Campus_(TV_series)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Graham_McTavish	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Tina_Fey	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Peter_Boyle	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Dram_(unit)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Centre_for_Applied_Nonviolent_Action_and_Strategies	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Charles_Alverson	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Teatro_S\u00E3o_Luiz>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:R_v_Dudley_and_Stephens	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Gorman_Bechard	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:List_of_events_at_the_O2_Arena	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Inbred_(film)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Tim_Wilson_(British_politician)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Tony_Roche_(writer)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:To_a_Mouse	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Current_Archaeology	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:The_Dean_Martin_Comedy_World	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:The_O_Show	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Survival_(Muse_song)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:A_Brief_History_of_Blasphemy	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/List_of_Latin_phrases_(M)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Kym_Warner	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Holy_Flying_Circus	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Old_Mother_Riley\u0027s_Jungle_Treasure>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/The_Perfect_Crime_(Cold_Chisel_album)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Capitol_Hill_Autonomous_Zone	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Good_Eats	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:November_1940	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:List_of_Live_with_Regis_and_Kelly_episodes	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Live_with_Regis_and_Kelly_(season_22)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Ed_Sheeran	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Grail_(web_browser)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:John_DeBella	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/National_Treasure_(film)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Wholly_Moses!>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Prank_call	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Attila_in_popular_culture	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Sir_Henry_at_Rawlinson_End_(film)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Surreal_humour	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:The_Chap	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Rat-Man_(comics)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Satoshi_Kon	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Super_Demetrios	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Yasuo_Yamada	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Kaoru_Adachi	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Kento_Kaku	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Space_Channel_5	dbo:wikiPageWikiLink	dbr:Monty_Python .
+@prefix ns89:	<http://dbpedia.org/resource/England:> .
+ns89:_The_Album	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Season_of_the_Witch_(2011_film)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Microshaft_Winblows_98	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Four_Yorkshiremen_sketch	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Bruces\u0027_Philosophers_Song>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/The_Mermaid_Inn,_Rye>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Norwich_University_of_the_Arts	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Alfred_Biolek	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Vocational_Guidance_Counsellor	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Patient_Abuse	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Monty_Python\u0027s_Personal_Best>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Monty_Python\u0027s_Previous_Record>	dbp:artist	dbr:Monty_Python ;
+	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Monty_Python_Live_at_City_Center	dbp:artist	dbr:Monty_Python ;
+	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Monty_Python_Live_at_the_Hollywood_Bowl	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:The_Foot_of_Cupid	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Terry_Gilliam_filmography	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Dirty_Hungarian_Phrasebook	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Kilimanjaro_Expedition	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/One_Man_Band_(unfinished_film)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:The_Mouse_Problem	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/I\u0027m_Sorry,_I\u0027ll_Read_That_Again>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Parrot_Sketch_Not_Included_\u2013_20_Years_of_Monty_Python>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:The_Hastily_Cobbled_Together_for_a_Fast_Buck_Album	dbp:artist	dbr:Monty_Python ;
+	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Monty_Python\u0027s_Complete_Waste_of_Time>	dbp:designer	dbr:Monty_Python ;
+	dbo:designer	dbr:Monty_Python ;
+	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Another_Monty_Python_Record	dbp:artist	dbr:Monty_Python ;
+	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Bruces_sketch	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:The_Album_of_the_Soundtrack_of_the_Trailer_of_the_Film_of_Monty_Python_and_the_Holy_Grail	dbp:artist	dbr:Monty_Python ;
+	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:The_Monty_Python_Instant_Record_Collection	dbp:artist	dbr:Monty_Python ;
+	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/The_Pythons_(film)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:The_Stripper	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Gilliam_v._American_Broadcasting_Companies,_Inc.>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Monty_Python_sketches	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Architects_Sketch	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/The_Fairly_Incomplete_&_Rather_Badly_Illustrated_Monty_Python_Song_Book>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Emisija_Koja_Ide_na_Televiziju_Pone\u0111eljkom_oko_9_uve\u010De>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Monty_Python\u0027s_Flying_Circus_(album)>	dbp:artist	dbr:Monty_Python ;
+	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Seduced_Milkmen	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Toy_Vault	dbp:products	dbr:Monty_Python ;
+	dbo:product	dbr:Monty_Python ;
+	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Dean_Wilkinson	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Duck_test	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Austin_Powers	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:One_More_Megabyte	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Starship_Titanic	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Monty_Python_&_the_Quest_for_the_Holy_Grail>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Cliff_Johnson_(game_designer)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:List_of_A_Series_of_Unfortunate_Events_characters	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Kevin_Francis_(film_producer)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:James_Bachman	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Larry_Smith_(musician)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Roger_Abbott	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:John_Oliver	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Mark_Farmer	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Cartwright_Hall	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Bishop_of_Bath_and_Wells	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Black_Park	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Mansun	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Charisma_Records	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Sing_As_We_Go	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Holyport	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Alan_Odle	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Concerts_at_Knebworth_House	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/I_Bet_You_They_Won\u0027t_Play_This_Song_on_the_Radio>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Coventry_University_Students\u0027_Union>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Rod_Summers	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Matt_Bullen	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Oliver_Cromwell_in_popular_culture	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Thomas_Dunne_Books	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Keble_College,_Oxford>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Water_(1985_film)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Ian_MacNaughton	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Doune_Castle	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Alan_Dale	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:The_Trial_of_Elizabeth_Gadge	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Deaths_in_December_2019	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Clive_Rowe	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Simon_Lipkin	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Bad_Penny_(TV_series)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Simon_Jones_(actor)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Ruby_Flipper	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Tim_Brooke-Taylor	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/The_Vicar_(music_producer)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Just_Dance_2020	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Krazy_House	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Mump_and_Smoot	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Rentadick	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Evil_Machines	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Weird_Dreams	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Man_of_Sorrows_(Bruce_Dickinson_song)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Gekidan_Inu_Curry	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Farles_Wickens	dbo:wikiPageRedirects	dbr:Monty_Python ;
+	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Pythonesque	dbo:wikiPageRedirects	dbr:Monty_Python ;
+	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Monty_phyton	dbo:wikiPageRedirects	dbr:Monty_Python ;
+	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Monty_python	dbo:wikiPageRedirects	dbr:Monty_Python ;
+	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Python_(Monty)>	dbo:wikiPageRedirects	dbr:Monty_Python ;
+	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Slim_Jeans_(product)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Lemon_curry	dbo:wikiPageRedirects	dbr:Monty_Python ;
+	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Feng	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:List_of_sketch_comedy_groups	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:The_Royal_Society_for_Putting_Things_on_Top_of_Other_Things	dbo:wikiPageRedirects	dbr:Monty_Python ;
+	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Quest_for_the_Grail	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:The_Pythons	dbo:wikiPageRedirects	dbr:Monty_Python ;
+	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Darles_Chickens	dbo:wikiPageRedirects	dbr:Monty_Python ;
+	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Monte_Python	dbo:wikiPageRedirects	dbr:Monty_Python ;
+	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Monte_python	dbo:wikiPageRedirects	dbr:Monty_Python ;
+	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Monthy_python	dbo:wikiPageRedirects	dbr:Monty_Python ;
+	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Monti_Python	dbo:wikiPageRedirects	dbr:Monty_Python ;
+	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Monty_Python\u0027s>	dbo:wikiPageRedirects	dbr:Monty_Python ;
+	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Monty_Python_Day	dbo:wikiPageRedirects	dbr:Monty_Python ;
+	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Monty_Python_Group	dbo:wikiPageRedirects	dbr:Monty_Python ;
+	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Cunt	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Gag_name	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/2014_in_British_television>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Dril	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Galavant	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Brian_Cox_(physicist)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Labyrinth_(1986_film)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Breakmaster_Cylinder	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Rivalry_(video_game)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Neil_Gaiman	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Simon_Mayo	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Crowded_in_the_Ear	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Handle_with_Care_(song)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Tvoje_lice_zvu\u010Di_poznato_(Serbian_season_3)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Dancing_Stars_(Austrian_season_10)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Bob_Ezrin	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:WNEW-FM	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:The_Greencards	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Venues_of_the_1996_Summer_Olympics	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Brian_Award	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:List_of_alumni_of_Queen_Mary_University_of_London	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Audiovisual_Media_Services_Regulations_2014	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Glossary_of_darts	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Woolloomooloo	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Primary_progressive_aphasia	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Brian_Willoughby	dbo:wikiPageWikiLink	dbr:Monty_Python ;
+	dbo:associatedMusicalArtist	dbr:Monty_Python ;
+	dbo:associatedBand	dbr:Monty_Python .
+dbr:Babyfingers	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Robert_Buettner	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Take_a_Bite	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Pongo_de_Mainique	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Eric_Idle_Sings_Monty_Python	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Monty_Python_Live_at_Aspen	dbp:company	dbr:Monty_Python ;
+	dbo:company	dbr:Monty_Python ;
+	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Martin_Honeysett	dbo:wikiPageWikiLink	dbr:Monty_Python .
+<http://dbpedia.org/resource/Fairy_Tales_(Jones_book)>	dbo:wikiPageWikiLink	dbr:Monty_Python .
+dbr:Laugh_in_a_Half	dbo:wikiPageWikiLink	dbr:Monty_Python .

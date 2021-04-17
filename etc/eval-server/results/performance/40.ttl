@@ -1,0 +1,627 @@
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+dbr:October_30	dbo:wikiPageWikiLink	dbr:Henry_Dunant .
+dbr:Mark_Brandis	dbo:wikiPageWikiLink	dbr:Henry_Dunant .
+dbr:Roger_Federer	dbo:wikiPageWikiLink	dbr:Henry_Dunant .
+dbr:List_of_roads_in_Macau	dbo:wikiPageWikiLink	dbr:Henry_Dunant .
+dbr:Nusret_Suman	dbo:wikiPageWikiLink	dbr:Henry_Dunant .
+<http://dbpedia.org/resource/1863_in_science>	dbo:wikiPageWikiLink	dbr:Henry_Dunant .
+dbr:International_Red_Cross_and_Red_Crescent_Movement	dbo:wikiPageWikiLink	dbr:Henry_Dunant .
+dbr:Protestant_culture	dbo:wikiPageWikiLink	dbr:Henry_Dunant .
+dbr:List_of_people_on_the_postage_stamps_of_India	dbo:wikiPageWikiLink	dbr:Henry_Dunant .
+dbr:List_of_Nobel_Peace_Prize_laureates	dbo:wikiPageWikiLink	dbr:Henry_Dunant .
+dbr:Centre_for_Humanitarian_Dialogue	dbo:wikiPageWikiLink	dbr:Henry_Dunant .
+dbr:Avenida_Reforma	dbo:wikiPageWikiLink	dbr:Henry_Dunant .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:French_Red_Cross	dbp:founder	dbr:Henry_Dunant ;
+	dbo:wikiPageWikiLink	dbr:Henry_Dunant .
+dbr:Gustave_Moynier	dbo:wikiPageWikiLink	dbr:Henry_Dunant .
+<http://dbpedia.org/resource/Th\u00E9odore_Maunoir>	dbo:wikiPageWikiLink	dbr:Henry_Dunant .
+<http://dbpedia.org/resource/Coll\u00E8ge_Calvin>	dbo:wikiPageWikiLink	dbr:Henry_Dunant .
+dbr:Thomas_Jouannet	dbo:wikiPageWikiLink	dbr:Henry_Dunant .
+dbr:Charles_William_Meredith_van_de_Velde	dbo:wikiPageWikiLink	dbr:Henry_Dunant .
+dbr:Restoring_Family_Links	dbo:wikiPageWikiLink	dbr:Henry_Dunant .
+dbr:List_of_people_on_the_postage_stamps_of_Albania	dbo:wikiPageWikiLink	dbr:Henry_Dunant .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+wikipedia-en:Henry_Dunant	foaf:primaryTopic	dbr:Henry_Dunant .
+dbr:First_aid	dbo:wikiPageWikiLink	dbr:Henry_Dunant .
+dbr:Humanitarianism	dbo:wikiPageWikiLink	dbr:Henry_Dunant .
+dbr:List_of_people_on_the_postage_stamps_of_Norway	dbo:wikiPageWikiLink	dbr:Henry_Dunant .
+dbr:List_of_people_on_the_postage_stamps_of_Germany	dbo:wikiPageWikiLink	dbr:Henry_Dunant .
+dbr:List_of_people_on_the_postage_stamps_of_Bosnia_and_Herzegovina	dbo:wikiPageWikiLink	dbr:Henry_Dunant .
+<http://dbpedia.org/resource/Museum_of_Military_History,_Vienna>	dbo:wikiPageWikiLink	dbr:Henry_Dunant .
+dbr:Clara_Barton	dbo:wikiPageWikiLink	dbr:Henry_Dunant .
+dbr:List_of_people_on_the_postage_stamps_of_the_German_Democratic_Republic	dbo:wikiPageWikiLink	dbr:Henry_Dunant .
+dbr:SS_El_Oriente	dbo:wikiPageWikiLink	dbr:Henry_Dunant .
+dbr:List_of_people_on_the_postage_stamps_of_Greece	dbo:wikiPageWikiLink	dbr:Henry_Dunant .
+dbr:List_of_people_on_the_postage_stamps_of_Chile	dbo:wikiPageWikiLink	dbr:Henry_Dunant .
+dbr:Dunantist	dbo:wikiPageWikiLink	dbr:Henry_Dunant .
+dbr:List_of_Swiss_inventions_and_discoveries	dbo:wikiPageWikiLink	dbr:Henry_Dunant .
+<http://dbpedia.org/resource/No\u00EBlle_Roger>	dbo:wikiPageWikiLink	dbr:Henry_Dunant .
+<http://dbpedia.org/resource/Bank_Lombard_Odier_&_Co>	dbo:wikiPageWikiLink	dbr:Henry_Dunant .
+<http://dbpedia.org/resource/List_of_Freemasons_(A\u2013D)>	dbo:wikiPageWikiLink	dbr:Henry_Dunant .
+dbr:YMCA	dbo:wikiPageWikiLink	dbr:Henry_Dunant .
+<http://dbpedia.org/resource/1859>	dbo:wikiPageWikiLink	dbr:Henry_Dunant .
+<http://dbpedia.org/resource/1901>	dbo:wikiPageWikiLink	dbr:Henry_Dunant .
+<http://dbpedia.org/resource/1910>	dbo:wikiPageWikiLink	dbr:Henry_Dunant .
+dbr:May_8	dbo:wikiPageWikiLink	dbr:Henry_Dunant .
+<http://dbpedia.org/resource/1863>	dbo:wikiPageWikiLink	dbr:Henry_Dunant .
+dbr:List_of_people_on_the_postage_stamps_of_Colombia	dbo:wikiPageWikiLink	dbr:Henry_Dunant .
+dbr:List_of_people_on_the_postage_stamps_of_Honduras	dbo:wikiPageWikiLink	dbr:Henry_Dunant .
+dbr:Jean-Henri	dbo:wikiPageWikiLink	dbr:Henry_Dunant ;
+	dbo:wikiPageDisambiguates	dbr:Henry_Dunant .
+dbr:Protestantism	dbo:wikiPageWikiLink	dbr:Henry_Dunant .
+dbr:Calvinism	dbo:wikiPageWikiLink	dbr:Henry_Dunant .
+dbr:Zionism	dbo:wikiPageWikiLink	dbr:Henry_Dunant .
+dbr:List_of_non-fiction_writers	dbo:wikiPageWikiLink	dbr:Henry_Dunant .
+dbr:List_of_people_on_the_postage_stamps_of_Pakistan	dbo:wikiPageWikiLink	dbr:Henry_Dunant .
+dbr:List_of_postage_stamps_of_Pakistan_from_1977_to_1986	dbo:wikiPageWikiLink	dbr:Henry_Dunant .
+dbr:Marcel_Junod	dbo:wikiPageWikiLink	dbr:Henry_Dunant .
+dbr:Timeline_of_global_health	dbo:wikiPageWikiLink	dbr:Henry_Dunant .
+dbr:International_humanitarian_law	dbo:wikiPageWikiLink	dbr:Henry_Dunant .
+dbr:First_Geneva_Convention	dbo:wikiPageWikiLink	dbr:Henry_Dunant .
+dbr:Geneva_Conventions	dbo:wikiPageWikiLink	dbr:Henry_Dunant .
+dbr:First_Zionist_Congress	dbo:wikiPageWikiLink	dbr:Henry_Dunant .
+dbr:Karen_Maron	dbo:wikiPageWikiLink	dbr:Henry_Dunant .
+dbr:International_Committee_of_the_Red_Cross	dbo:wikiPageWikiLink	dbr:Henry_Dunant .
+<http://dbpedia.org/resource/Corinne_Chaponni\u00E8re>	dbo:wikiPageWikiLink	dbr:Henry_Dunant .
+<http://dbpedia.org/resource/1912_in_France>	dbo:wikiPageWikiLink	dbr:Henry_Dunant .
+dbr:International_Committee_of_the_Red_Cross_Library	dbo:wikiPageWikiLink	dbr:Henry_Dunant .
+dbr:Battle_of_San_Martino	dbo:wikiPageWikiLink	dbr:Henry_Dunant .
+dbr:Solferino	dbo:wikiPageWikiLink	dbr:Henry_Dunant .
+dbr:Johan_Hendrik_Christiaan_Basting	dbo:wikiPageWikiLink	dbr:Henry_Dunant .
+dbr:World_Red_Cross_and_Red_Crescent_Day	dbo:wikiPageWikiLink	dbr:Henry_Dunant .
+<http://dbpedia.org/resource/Heiden,_Switzerland>	dbo:wikiPageWikiLink	dbr:Henry_Dunant .
+dbr:A_Memory_of_Solferino	dbo:wikiPageWikiLink	dbr:Henry_Dunant .
+dbr:Flag_of_Switzerland	dbo:wikiPageWikiLink	dbr:Henry_Dunant .
+dbr:International_Committee_of_the_Red_Cross_archives	dbo:wikiPageWikiLink	dbr:Henry_Dunant .
+dbr:List_of_people_on_the_postage_stamps_of_Peru	dbo:wikiPageWikiLink	dbr:Henry_Dunant .
+dbr:Geneva	dbo:wikiPageWikiLink	dbr:Henry_Dunant .
+<http://dbpedia.org/resource/Lost_Property_(Beatty_novel)>	dbo:wikiPageWikiLink	dbr:Henry_Dunant .
+dbr:Mitraniketan_Viswanathan	dbo:award	dbr:Henry_Dunant ;
+	dbo:wikiPageWikiLink	dbr:Henry_Dunant .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Henry_Dunant	rdf:type	yago:WikicatPeopleFromGeneva ,
+		yago:Humanist110191192 .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Henry_Dunant	rdf:type	wikidata:Q5 ,
+		wikidata:Q24229398 ,
+		yago:Financier110090020 ,
+		yago:Intellectual109621545 ,
+		yago:Leader109623038 ,
+		yago:WikicatHumanitarians .
+@prefix schema:	<http://schema.org/> .
+dbr:Henry_Dunant	rdf:type	schema:Person ,
+		yago:WikicatPeopleFromTheCantonOfGeneva ,
+		yago:Honoree110183757 ,
+		yago:Laureate110249011 ,
+		yago:Acquirer109764201 ,
+		yago:Recipient109627906 ,
+		yago:WikicatHumanists ,
+		yago:WikicatPeopleAssociatedWithTheInternationalRedCrossAndRedCrescentMovement ,
+		yago:WikicatYMCALeaders .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Henry_Dunant	rdf:type	owl:Thing ,
+		yago:WikicatSwissAgnostics ,
+		yago:WikicatSwissPeople ,
+		yago:Reformer110515194 ,
+		yago:Capitalist109609232 ,
+		yago:Agnostic109779124 ,
+		yago:WikicatSwissNobelLaureates ,
+		yago:WikicatSwissPhilanthropists .
+@prefix ns10:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Henry_Dunant	rdf:type	ns10:NaturalPerson ,
+		ns10:Agent ,
+		yago:Militant110315837 ,
+		yago:Banker109837824 ,
+		yago:Disputant109615465 ,
+		yago:WikicatSwissHumanitarians ,
+		yago:WikicatSwissActivists ,
+		wikidata:Q215627 ,
+		yago:Humanitarian110191613 ,
+		yago:WikicatHumanRightsActivists ,
+		yago:WikicatNobelPeacePrizeLaureates ,
+		yago:WikicatSwissBankers ,
+		foaf:Person ,
+		yago:LivingThing100004258 ,
+		yago:CausalAgent100007347 ,
+		yago:Donor110025730 ,
+		yago:GoodPerson110138767 ,
+		yago:Benefactor109608709 ,
+		dbo:Agent ,
+		yago:Philanthropist110421956 ,
+		yago:YagoLegalActor ,
+		yago:Scholar110557854 ,
+		yago:YagoLegalActorGeo ,
+		yago:Whole100003553 ,
+		yago:Person100007846 ,
+		yago:PhysicalEntity100001930 ,
+		yago:Organism100004475 ,
+		dbo:Person ,
+		yago:Object100002684 .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Henry_Dunant	rdfs:label	"Henry Dunant"@de ,
+		"Henry Dunant"@fr ,
+		"Jean Henri Dunant"@ca ,
+		"Henri Dunant"@pl ,
+		"Henry Dunant"@en ,
+		"\u30A2\u30F3\u30EA\u30FB\u30C7\u30E5\u30CA\u30F3"@ja ,
+		"Henri Dunant"@pt ,
+		"Henri Dunant"@cs ,
+		"Henry Dunant"@in ,
+		"\uC559\uB9AC \uB4A4\uB0AD"@ko ,
+		"\u062C\u0627\u0646 \u0647\u0646\u0631\u064A \u062F\u0648\u0646\u0627\u0646\u062A"@ar ,
+		"Henri Dunant"@es ,
+		"Jean Henri Dunant"@ga ,
+		"Henri Dunant"@nl ,
+		"Henri Dunant"@eo ,
+		"Henri Dunant"@eu ,
+		"\u0395\u03C1\u03C1\u03AF\u03BA\u03BF\u03C2 \u039D\u03C4\u03C5\u03BD\u03AC\u03BD"@el ,
+		"\u0416\u0430\u043D \u0410\u043D\u0440\u0456 \u0414\u044E\u043D\u0430\u043D"@uk ,
+		"Henry Dunant"@it ,
+		"\u4EA8\u5229\u00B7\u675C\u5357"@zh ,
+		"Henri Dunant"@sv ,
+		"\u0414\u044E\u043D\u0430\u043D, \u0410\u043D\u0440\u0438"@ru ;
+	rdfs:comment	"Jean Henri Dunant, \u00E4ven Henry Dunant, f\u00F6dd 8 maj 1828 i Gen\u00E8ve i Schweiz, d\u00F6d 30 oktober 1910 i Heiden i Appenzell Ausserrhoden i Schweiz, var en schweizisk aff\u00E4rsman, social aktivist, R\u00F6da korsets grundare och den f\u00F6rsta mottagaren av Nobels fredspris som han delade med Fr\u00E9d\u00E9ric Passy. Hans liv pr\u00E4glades av stora kontraster. Ett exempel p\u00E5 detta \u00E4r att han v\u00E4xte upp i en v\u00E4lb\u00E4rgad familj, men dog ensam p\u00E5 ett fattighus. Hans dopnamn var Jean-Henri, men han anv\u00E4nde vanligen bara Henri eller Henry sj\u00E4lv.[k\u00E4lla beh\u00F6vs]"@sv ,
+		"Jean Henri Dunant (lahir 8 Mei 1828 \u2013 meninggal 30 Oktober 1910 pada umur 82 tahun), yang juga dikenal dengan nama Henry Dunant, adalah pengusaha dan aktivis sosial Swiss. Ketika melakukan perjalanan untuk urusan bisnis pada tahun 1859, dia menyaksikan akibat-akibat dari Pertempuran Solferino, sebuah lokasi yang dewasa ini merupakan bagian Italia. Kenangan dan pengalamannya itu dia tuliskan dalam sebuah buku dengan judul  , yang menginspirasi pembentukan Komite Internasional Palang Merah (ICRC) pada tahun 1863. Konvensi Jenewa 1864 didasarkan pada gagasan-gagasan Dunant. Pada tahun 1901, dia menerima Penghargaan Nobel Perdamaian yang pertama, bersama dengan Fr\u00E9d\u00E9ric Passy."@in ,
+		"\uC7A5 \uC559\uB9AC \uB4A4\uB0AD(Jean-Henri Dunant, 1828\uB144 5\uC6D4 8\uC77C ~ 1910\uB144 10\uC6D4 30\uC77C)\uC740 \uAD6D\uC81C\uC801\uC2ED\uC790\uC704\uC6D0\uD68C\uC758 \uCC3D\uC2DC\uC790\uB85C, \uC81C1\uB300 \uB178\uBCA8 \uD3C9\uD654\uC0C1 \uC218\uC0C1\uC790\uC774\uB2E4."@ko ,
+		"Jean Henri Dunant (ur. 8 maja 1828 w Genewie, zm. 30 pa\u017Adziernika 1910 w Heiden, Henry Dunant, Henri Dunant) \u2013 szwajcarski kupiec, filantrop i za\u0142o\u017Cyciel Czerwonego Krzy\u017Ca, laureat pierwszej Pokojowej Nagrody Nobla w 1901 (wraz z Francuzem Fr\u00E9d\u00E9ricem Passy)."@pl ,
+		"Henry Dunant [\u0251\u0303\u02C8\u0281i dy\u02C8n\u0251\u0303\u02D0], eigentlich Jean-Henri Dunant (* 8. Mai 1828 in Genf; \u2020 30. Oktober 1910 in Heiden), war ein Schweizer Gesch\u00E4ftsmann und ein Humanist christlicher Pr\u00E4gung. W\u00E4hrend einer Gesch\u00E4ftsreise wurde er im Juni 1859 in der N\u00E4he der italienischen Stadt Solferino Zeuge der erschreckenden Zust\u00E4nde unter den Verwundeten nach einer Schlacht zwischen der Armee \u00D6sterreichs sowie den Truppen Sardinien-Piemonts und Frankreichs. \u00DCber seine Erlebnisse schrieb er ein Buch mit dem Titel Eine Erinnerung an Solferino, das er 1862 auf eigene Kosten ver\u00F6ffentlichte und in Europa verteilte."@de ,
+		"\u0416\u0430\u043D \u0410\u043D\u0440\u0438\u0301 \u0414\u044E\u043D\u0430\u0301\u043D (\u0444\u0440. Jean Henri Dunant; 8 \u043C\u0430\u044F 1828 \u2014 30 \u043E\u043A\u0442\u044F\u0431\u0440\u044F 1910) \u2014 \u0448\u0432\u0435\u0439\u0446\u0430\u0440\u0441\u043A\u0438\u0439 \u043F\u0440\u0435\u0434\u043F\u0440\u0438\u043D\u0438\u043C\u0430\u0442\u0435\u043B\u044C \u0438 \u043E\u0431\u0449\u0435\u0441\u0442\u0432\u0435\u043D\u043D\u044B\u0439 \u0434\u0435\u044F\u0442\u0435\u043B\u044C. \u041F\u043B\u0435\u043C\u044F\u043D\u043D\u0438\u043A \u0444\u0438\u0437\u0438\u043A\u0430 \u0416\u0430\u043D\u0430-\u0414\u0430\u043D\u0438\u044D\u043B\u044F \u041A\u043E\u043B\u043B\u0430\u0434\u043E\u043D\u0430. \u0424\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0439 \u0438\u043D\u0438\u0446\u0438\u0430\u0442\u043E\u0440 \u0441\u043E\u0437\u0434\u0430\u043D\u0438\u044F \u043D\u044B\u043D\u0435 \u043C\u0435\u0436\u0434\u0443\u043D\u0430\u0440\u043E\u0434\u043D\u043E\u0439 \u0433\u0443\u043C\u0430\u043D\u0438\u0442\u0430\u0440\u043D\u043E\u0439 \u043E\u0440\u0433\u0430\u043D\u0438\u0437\u0430\u0446\u0438\u0438 \u041C\u0435\u0436\u0434\u0443\u043D\u0430\u0440\u043E\u0434\u043D\u043E\u0433\u043E \u043A\u043E\u043C\u0438\u0442\u0435\u0442\u0430 \u041A\u0440\u0430\u0441\u043D\u043E\u0433\u043E \u041A\u0440\u0435\u0441\u0442\u0430."@ru ,
+		"Henry Dunant (born Jean-Henri Dunant; 8 May 1828 \u2013 30 October 1910), also known as Henri Dunant, was a Swiss humanitarian, businessman and social activist. He was the visionary, promoter and co-founder of the Red Cross. In 1901 he received the first Nobel Peace Prize together with Fr\u00E9d\u00E9ric Passy, making Dunant the first Swiss Nobel laureate. Dunant was the founder of the Swiss branch of the Young Men's Christian Association YMCA."@en ,
+		"Henry Dunant, parfois orthographi\u00E9 Henri Dunant, baptis\u00E9 sous le pr\u00E9nom de Jean-Henri[r\u00E9f. n\u00E9cessaire] le 8 mai 1828 \u00E0 Gen\u00E8ve et mort le 30 octobre 1910 \u00E0 Heiden, est un homme d'affaires humaniste suisse, consid\u00E9r\u00E9 comme le fondateur du mouvement de la Croix-Rouge internationale. Chr\u00E9tien protestant, il est naturalis\u00E9 fran\u00E7ais en avril 1859."@fr ,
+		"\u039F \u0395\u03C1\u03C1\u03AF\u03BA\u03BF\u03C2 \u039D\u03C4\u03C5\u03BD\u03AC\u03BD (Jean-Henri Dunant, 8 \u039C\u03B1\u0390\u03BF\u03C5 1828 \u2013 30 \u039F\u03BA\u03C4\u03C9\u03B2\u03C1\u03AF\u03BF\u03C5 1910) \u03AE\u03C4\u03B1\u03BD \u03B9\u03B4\u03C1\u03C5\u03C4\u03AE\u03C2 \u03C4\u03BF\u03C5 \u0395\u03C1\u03C5\u03B8\u03C1\u03BF\u03CD \u03A3\u03C4\u03B1\u03C5\u03C1\u03BF\u03CD \u03BA\u03B1\u03B9 \u03BF \u03C0\u03C1\u03CE\u03C4\u03BF\u03C2 \u03B1\u03C0\u03BF\u03B4\u03AD\u03BA\u03C4\u03B7\u03C2 \u03C4\u03BF\u03C5 \u03B2\u03C1\u03B1\u03B2\u03B5\u03AF\u03BF\u03C5 \u039D\u03CC\u03BC\u03C0\u03B5\u03BB \u0395\u03B9\u03C1\u03AE\u03BD\u03B7\u03C2 \u03C4\u03BF 1901 \u03BC\u03B1\u03B6\u03AF \u03BC\u03B5 \u03C4\u03BF\u03BD \u03A6\u03C1\u03B5\u03BD\u03C4\u03B5\u03C1\u03AF\u03BA \u03A0\u03B1\u03C3\u03C3\u03CD."@el ,
+		"\u30B8\u30E3\u30F3\u30FB\u30A2\u30F3\u30EA\u30FB\u30C7\u30E5\u30CA\u30F3\uFF08Jean Henri Dunant, 1828\u5E745\u67088\u65E5 - 1910\u5E7410\u670830\u65E5\uFF09\u306F\u3001\u30B9\u30A4\u30B9\u306E\u5B9F\u696D\u5BB6\u3067\u3042\u308B\u3002\u8D64\u5341\u5B57\u793E\u3092\u5275\u8A2D\u3057\u30011901\u5E74\u306B\u300C\u7B2C1\u56DE\u30CE\u30FC\u30D9\u30EB\u5E73\u548C\u8CDE\u300D\u3092\u53D7\u8CDE\u3057\u305F\u3002"@ja ,
+		"\u0647\u0646\u0631\u064A \u062F\u0648\u0646\u0627\u0646\u062A \u0648\u0644\u062F \u0641\u064A 8 \u0645\u0627\u064A\u0648 1828\u0645 \u0641\u064A \u062C\u0646\u064A\u0641 \u0648\u062A\u0648\u0641\u064A \u0641\u064A 30 \u0623\u0643\u062A\u0648\u0628\u0631 1910\u0645 \u0623\u0648\u0644 \u0641\u0627\u0626\u0632 \u0628\u062C\u0627\u0626\u0632\u0629 \u0646\u0648\u0628\u0644 \u0644\u0644\u0633\u0644\u0627\u0645 \u0641\u064A \u0627\u0644\u0639\u0627\u0644\u0645 \u060C\u0648\u0647\u0648 \u0631\u062C\u0644 \u0623\u0639\u0645\u0627\u0644 \u0633\u0648\u064A\u0633\u0631\u064A \u0648\u0646\u0627\u0634\u0637 \u0627\u062C\u062A\u0645\u0627\u0639\u064A\u060C \u062E\u0644\u0627\u0644 \u0631\u062D\u0644\u0629 \u0639\u0645\u0644 \u0623\u062C\u0631\u0627\u0647\u0627 \u0633\u0646\u0629 1859 \u0625\u0644\u0649 \u0625\u064A\u0637\u0627\u0644\u064A\u0627 \u0627\u0644\u0641\u062A\u064A\u0629 \u0641\u064A \u0641\u062A\u0631\u0629 \u062D\u0631\u0628 \u0633\u0648\u0644\u0641\u0631\u064A\u0646\u0648. \u0633\u062C\u0644 \u0630\u0643\u0631\u064A\u0627\u062A\u0647 \u0648\u062E\u0628\u0631\u0627\u062A\u0647 \u0641\u064A \u0643\u062A\u0627\u0628 \u0627\u0633\u0645\u0627\u0647 (\u0630\u0643\u0631\u064A\u0627\u062A \u0633\u0648\u0644\u0641\u0631\u064A\u0646\u0648) \u0627\u0644\u0630\u064A \u0645\u0647\u062F \u0644\u062A\u0623\u0633\u064A\u0633 \u0627\u0644\u0635\u0644\u064A\u0628 \u0627\u0644\u0623\u062D\u0645\u0631 \u0639\u0627\u0645 1863. \u0645\u0639\u0627\u0647\u062F\u0629 \u062C\u0646\u064A\u0641 \u0633\u0646\u0629 1864 \u0646\u0634\u0623\u062A \u0645\u0646 \u0623\u0641\u0643\u0627\u0631 \u062F\u0648\u0646\u0627\u0646\u062A\u061B \u0648\u0647\u0648 \u0623\u0648\u0644 \u0645\u0646 \u062D\u0635\u0644 \u0639\u0644\u0649 \u062C\u0627\u0626\u0632\u0629 \u0646\u0648\u0628\u0644 \u0644\u0644\u0633\u0644\u0627\u0645 \u0645\u0646\u0627\u0635\u0641\u0629 \u0645\u0639 \u0641\u0631\u064A\u062F\u0631\u064A\u0643 \u0628\u0627\u0633 \u0645\u0646 \u0641\u0631\u0646\u0633\u0627 \u0633\u0646\u0629 1901\u0645."@ar ,
+		"\u0416\u0430\u043D \u0410\u043D\u0440\u0456\u0301 \u0414\u044E\u043D\u0430\u0301\u043D (\u0444\u0440. Jean Henri Dunant; 8 \u0442\u0440\u0430\u0432\u043D\u044F 1828 \u2014 30 \u0436\u043E\u0432\u0442\u043D\u044F 1910) \u2014 \u0448\u0432\u0435\u0439\u0446\u0430\u0440\u0441\u044C\u043A\u0438\u0439 \u043F\u0456\u0434\u043F\u0440\u0438\u0454\u043C\u0435\u0446\u044C \u0456 \u0433\u0440\u043E\u043C\u0430\u0434\u0441\u044C\u043A\u0438\u0439 \u0434\u0456\u044F\u0447."@uk ,
+		"Henry Dunant, nacido como Jean-Henry Dunant o Juan Enrique Dunant (Ginebra, 8 de mayo de 1828 - Heiden, Suiza, 30 de octubre de 1910) fue un empresario, fil\u00E1ntropo y humanista suizo. Recibi\u00F3 el primer Premio Nobel de la Paz junto con Fr\u00E9d\u00E9ric Passy, en 1901."@es ,
+		"Jean Henri Dunant [\u017E\u00E1n \u00E1nri dyn\u00E1n], t\u00E9\u017E Henry Dunant (8. kv\u011Bten 1828 \u017Deneva \u2013 30. \u0159\u00EDjen 1910 ) byl \u0161v\u00FDcarsk\u00FD podnikatel a humanista, inici\u00E1tor a spoluzakladatel Mezin\u00E1rodn\u00EDho \u010Cerven\u00E9ho k\u0159\u00ED\u017Ee, inici\u00E1tor \u017Denevsk\u00FDch \u00FAmluv a prvn\u00ED nositel Nobelovy ceny za m\u00EDr z roku 1901."@cs ,
+		"Jean Henri Dunant (edo Jean Henry Dunant) (Geneva, 1828ko maiatzaren 8a - Heiden, Suitza, 1910eko urriaren 30a) Suitzako negoziogizon, filantropo eta gizateriaren aldeko aktibista izan zen. Fr\u00E9d\u00E9ric Passyrekin batera 1901ean lehenengoa izan zen Bakearen Nobel Saria jasotzen."@eu ,
+		"Jean Henry Dunant, pi\u00F9 noto come Henry Dunant (Ginevra, 8 maggio 1828 \u2013 Heiden, 30 ottobre 1910), \u00E8 stato un umanista, imprenditore e filantropo svizzero, Premio Nobel per la pace nel 1901 - il primo anno in cui venne assegnato tale riconoscimento - per aver fondato la Croce Rossa di cui erano gi\u00E0 da alcuni decenni membri attivi molti paesi di tutto il mondo, tra cui anche l'Impero ottomano. Dopo la battaglia di Solferino, alla quale assistette da un colle, invent\u00F2 la Croce Rossa, per assistere i feriti in battaglia."@it ,
+		"Jean Henri Dunant (Ginebra, Su\u00EFssa, 8 de maig de 1828 - Heiden, 30 d'octubre de 1910) fou un home de negocis su\u00EDs que port\u00E0 a terme diferents iniciatives humanit\u00E0ries. L'any 1901 va rebre el Premi Nobel de la Pau, juntament amb Fr\u00E9d\u00E9ric Passy, per la seva contribuci\u00F3 a la creaci\u00F3 del Comit\u00E8 Internacional de la Creu Roja i per iniciar la Convenci\u00F3 de Ginebra (1864). La seva font d'inspiraci\u00F3 per ambdues iniciatives humanit\u00E0ries fou la batalla de Solferino, a It\u00E0lia, el 1859."@ca ,
+		"\u8BA9\u00B7\u4EA8\u5229\u00B7\u675C\u5357\uFF08\u6CD5\u8A9E\uFF1AJean Henri Dunant\uFF0C1828\u5E745\u67088\u65E5\uFF0D1910\u5E7410\u670830\u65E5\uFF09\u662F\u745E\u58EB\u5546\u4EBA\u548C\u4EBA\u9053\u4E3B\u7FA9\u8005\uFF0C\u7D05\u5341\u5B57\u6703\u5275\u8FA6\u4EBA\uFF0C\u5F8C\u4EBA\u5C0A\u7A31\u4ED6\u70BA\u300C\u7D05\u5341\u5B57\u6703\u4E4B\u7236\u300D\u30021859\u5E74\uFF0C\u4ED6\u65BC\u51FA\u5DEE\u9014\u4E2D\u76EE\u7779\u4E86\u7D22\u5C14\u8D39\u91CC\u8BFA\u6218\u5F79\u7684\u540E\u679C\u3002\u540E\u6765\uFF0C\u4ED6\u5728\u81EA\u5DF1\u7684\u8457\u4F5C\u300A\u7D22\u5C14\u8D39\u91CC\u8BFA\u56DE\u5FC6\u5F55\u300B\u4E2D\u8BB0\u5F55\u4E86\u9019\u6BB5\u7ECF\u5386\uFF0C\u4E66\u4E2D\u7684\u8BBE\u60F3\u6700\u7EC8\u4FC3\u6210\u4E861863\u5E74\u7EA2\u5341\u5B57\u56FD\u9645\u59D4\u5458\u4F1A\u7684\u521B\u7ACB\u30021864\u5E74\u7684\u300A\u65E5\u5185\u74E6\u516C\u7EA6\u300B\u4E5F\u662F\u4EE5\u675C\u5357\u7684\u601D\u60F3\u4E3A\u57FA\u7840\u30021901\u5E74\u4ED6\u548C\u6CD5\u56FD\u4EBA\u5F17\u96F7\u5FB7\u91CC\u514B\u00B7\u5E15\u897F\u83B7\u5F97\u4E86\u9996\u5C4A\u8BFA\u8D1D\u5C14\u548C\u5E73\u5956\u3002"@zh ,
+		"Jean-Henri Dunant (Genebra, 8 de maio de 1828 \u2014 Heiden, Su\u00ED\u00E7a, 30 de outubro de 1910) foi um filantropo su\u00ED\u00E7o, co-fundador da Cruz Vermelha Internacional. Recebeu o primeiro Nobel da Paz em 1901, juntamente com Fr\u00E9d\u00E9ric Passy."@pt ,
+		"Daonchara a rugadh sa Ghin\u00E9iv ab ea Jean Henri Dunant (1828-1910). Thug s\u00E9 an pr\u00EDomhspreagadh do bhun\u00FA Chumann Idirn\u00E1isi\u00FAnta na Croise Deirge ag comhdh\u00E1il sa Ghin\u00E9iv i 1863, as ar th\u00E1inig Coinbhinsi\u00FAn na Gin\u00E9ive (1864). Roinn s\u00E9 an ch\u00E9ad Duais Nobel don ts\u00EDoch\u00E1in i 1901."@ga ,
+		"Jean Henri Dunant (Gen\u00E8ve, 8 mei 1828 - Heiden, 30 oktober 1910), in zijn latere leven in het Engels Henry Dunant genoemd, was een Zwitsers bankier, oprichter van het Rode Kruis, auteur van het boek Een herinnering aan Solferino en mede-auteur van het YMCA-handvest. Hij ontving de eerste Nobelprijs voor de Vrede in 1901."@nl ,
+		"Henri a\u016D Henry, la\u016Dnaske Jean-Henri DUNANT  (* la 8-an de majo 1828 en \u011Cenevo; \u2020 la 30-an de oktobro 1910 en Heiden, Svislando), estis svisa komercisto kaj kristana humanisto. Dum komerca voja\u011Do li dum junio 1859 spektis la malhomajn kondi\u0109ojn de la soldatoj de Piemonto-Sardio kaj Francio unuflanke kaj A\u016Dstrio-Hungario aliflanke post la batalo \u0109e la itala urbo Solferino: ke soldatoj mortis dum la batalo, \u015Dajnis malhoma, sed dum milito neevitebla fakto, sed ke ili agonie mortis poste batalkampe, \u0109ar neniu povis medicine prizorgi kaj flegi ilin, \u015Dajnis al li evitebla malhoma\u0135o. Pri siaj memora\u0135oj li skribis libron kun la titolo \"Memoro pri Solferino\", kiun li dum 1862 proprakoste publikigis kaj disdonigis en E\u016Dropo."@eo ;
+	foaf:name	"Henry Dunant"@en ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Henry_Dunant-young.jpg> ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Henry_Dunant .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Henry_Dunant	dct:subject	dbc:Swiss_Christians ,
+		dbc:YMCA_leaders ,
+		dbc:People_associated_with_the_International_Red_Cross_and_Red_Crescent_Movement ,
+		dbc:Swiss_Nobel_laureates ,
+		dbc:Swiss_agnostics ,
+		dbc:Swiss_expatriates_in_Algeria ,
+		dbc:Swiss_humanitarians ,
+		dbc:Henry_Dunant ,
+		dbc:People_from_Geneva ,
+		<http://dbpedia.org/resource/Category:1910_deaths> ,
+		<http://dbpedia.org/resource/Category:1828_births> ,
+		dbc:Swiss_memoirists ,
+		dbc:Nobel_Peace_Prize_laureates ,
+		dbc:Swiss_businesspeople ,
+		dbc:Swiss_philanthropists .
+@prefix dbpedia-eo:	<http://eo.dbpedia.org/resource/> .
+dbr:Henry_Dunant	owl:sameAs	dbpedia-eo:Henri_Dunant ,
+		<http://viaf.org/viaf/37053483> .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Henry_Dunant	owl:sameAs	dbpedia-de:Henry_Dunant .
+@prefix dbpedia-sw:	<http://sw.dbpedia.org/resource/> .
+dbr:Henry_Dunant	owl:sameAs	dbpedia-sw:Henri_Dunant .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Henry_Dunant	owl:sameAs	dbpedia-it:Henry_Dunant .
+@prefix dbpedia-simple:	<http://simple.dbpedia.org/resource/> .
+dbr:Henry_Dunant	owl:sameAs	dbpedia-simple:Henry_Dunant .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Henry_Dunant	owl:sameAs	dbpedia-pl:Henri_Dunant .
+@prefix dbpedia-ku:	<http://ku.dbpedia.org/resource/> .
+dbr:Henry_Dunant	owl:sameAs	dbpedia-ku:Henry_Dunant .
+@prefix dbpedia-sl:	<http://sl.dbpedia.org/resource/> .
+dbr:Henry_Dunant	owl:sameAs	dbpedia-sl:Henri_Dunant ,
+		<http://ru.dbpedia.org/resource/\u0414\u044E\u043D\u0430\u043D,_\u0410\u043D\u0440\u0438> .
+@prefix dbpedia-ro:	<http://ro.dbpedia.org/resource/> .
+dbr:Henry_Dunant	owl:sameAs	dbpedia-ro:Henry_Dunant .
+@prefix dbpedia-yo:	<http://yo.dbpedia.org/resource/> .
+dbr:Henry_Dunant	owl:sameAs	dbpedia-yo:Henry_Dunant .
+@prefix dbpedia-gl:	<http://gl.dbpedia.org/resource/> .
+dbr:Henry_Dunant	owl:sameAs	dbpedia-gl:Jean_Henri_Dunant ,
+		<http://zh.dbpedia.org/resource/\u4EA8\u5229\u00B7\u675C\u5357> .
+@prefix dbpedia-io:	<http://io.dbpedia.org/resource/> .
+dbr:Henry_Dunant	owl:sameAs	dbpedia-io:Jean_Henri_Dunant ,
+		<http://tt.dbpedia.org/resource/\u0416\u0430\u043D_\u0410\u043D\u0440\u0438_\u0414\u044E\u043D\u0430\u043D> ,
+		<http://ur.dbpedia.org/resource/\u06C1\u0646\u0631\u06CC_\u0688\u0648\u0646\u0627\u0646\u0679> .
+@prefix dbpedia-cs:	<http://cs.dbpedia.org/resource/> .
+dbr:Henry_Dunant	owl:sameAs	dbpedia-cs:Henri_Dunant .
+@prefix dbpedia-da:	<http://da.dbpedia.org/resource/> .
+dbr:Henry_Dunant	owl:sameAs	dbpedia-da:Henry_Dunant .
+@prefix dbpedia-nn:	<http://nn.dbpedia.org/resource/> .
+dbr:Henry_Dunant	owl:sameAs	dbpedia-nn:Henri_Dunant .
+@prefix dbpedia-oc:	<http://oc.dbpedia.org/resource/> .
+dbr:Henry_Dunant	owl:sameAs	dbpedia-oc:Henri_Dunant .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Henry_Dunant	owl:sameAs	dbpedia-nl:Henri_Dunant ,
+		<http://bg.dbpedia.org/resource/\u0410\u043D\u0440\u0438_\u0414\u044E\u043D\u0430\u043D> ,
+		<http://ar.dbpedia.org/resource/\u062C\u0627\u0646_\u0647\u0646\u0631\u064A_\u062F\u0648\u0646\u0627\u0646\u062A> .
+@prefix dbpedia-sk:	<http://sk.dbpedia.org/resource/> .
+dbr:Henry_Dunant	owl:sameAs	dbpedia-sk:Jean_Henri_Dunant .
+@prefix dbpedia-vi:	<http://vi.dbpedia.org/resource/> .
+dbr:Henry_Dunant	owl:sameAs	dbpedia-vi:Henry_Dunant .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:Henry_Dunant	owl:sameAs	dbpedia-es:Henri_Dunant ,
+		<http://pnb.dbpedia.org/resource/\u06C1\u0646\u0631\u06CC_\u0688\u0648\u0646\u0627\u0646\u0679> ,
+		<http://he.dbpedia.org/resource/\u05D6\u0027\u05D0\u05DF_\u05D0\u05E0\u05E8\u05D9_\u05D3\u05D9\u05E0\u05DF> .
+@prefix dbpedia-hu:	<http://hu.dbpedia.org/resource/> .
+dbr:Henry_Dunant	owl:sameAs	dbpedia-hu:Jean_Henri_Dunant .
+@prefix dbpedia-eu:	<http://eu.dbpedia.org/resource/> .
+dbr:Henry_Dunant	owl:sameAs	dbpedia-eu:Henri_Dunant .
+@prefix dbpedia-no:	<http://no.dbpedia.org/resource/> .
+dbr:Henry_Dunant	owl:sameAs	dbpedia-no:Henri_Dunant .
+@prefix dbpedia-war:	<http://war.dbpedia.org/resource/> .
+dbr:Henry_Dunant	owl:sameAs	dbpedia-war:Henry_Dunant .
+@prefix dbpedia-hr:	<http://hr.dbpedia.org/resource/> .
+dbr:Henry_Dunant	owl:sameAs	dbpedia-hr:Henri_Dunant .
+@prefix dbpedia-id:	<http://id.dbpedia.org/resource/> .
+dbr:Henry_Dunant	owl:sameAs	dbpedia-id:Henry_Dunant ,
+		<http://bn.dbpedia.org/resource/\u09B9\u09C7\u09A8\u09B0\u09BF_\u09A1\u09C1\u09A8\u09BE\u09A8\u09CD\u099F> .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Henry_Dunant	owl:sameAs	dbpedia-pt:Henri_Dunant .
+@prefix dbpedia-fi:	<http://fi.dbpedia.org/resource/> .
+dbr:Henry_Dunant	owl:sameAs	dbpedia-fi:Henri_Dunant .
+@prefix ns42:	<http://scn.dbpedia.org/resource/> .
+dbr:Henry_Dunant	owl:sameAs	ns42:Jean_Henri_Dunant .
+@prefix dbpedia-tr:	<http://tr.dbpedia.org/resource/> .
+dbr:Henry_Dunant	owl:sameAs	dbpedia-tr:Henry_Dunant ,
+		<http://be.dbpedia.org/resource/\u0416\u0430\u043D_\u0410\u043D\u0440\u044B_\u0414\u0437\u044E\u043D\u0430\u043D> .
+@prefix ns44:	<http://tl.dbpedia.org/resource/> .
+dbr:Henry_Dunant	owl:sameAs	ns44:Henry_Dunant ,
+		wikidata:Q12091 ,
+		<http://uk.dbpedia.org/resource/\u0416\u0430\u043D_\u0410\u043D\u0440\u0456_\u0414\u044E\u043D\u0430\u043D> ,
+		<http://pa.dbpedia.org/resource/\u0A1C\u0A40\u0A28_\u0A39\u0A48\u0A28\u0A30\u0A40_\u0A21\u0A41\u0A28\u0A3E\u0A02\u0A1F> .
+@prefix dbpedia-lb:	<http://lb.dbpedia.org/resource/> .
+dbr:Henry_Dunant	owl:sameAs	dbpedia-lb:Henri_Dunant .
+@prefix dbpedia-sv:	<http://sv.dbpedia.org/resource/> .
+dbr:Henry_Dunant	owl:sameAs	dbpedia-sv:Henri_Dunant ,
+		<http://d-nb.info/gnd/118528114> ,
+		<http://hi.dbpedia.org/resource/\u0939\u0947\u0928\u0930\u0940_\u0921\u094D\u092F\u0942\u0928\u0947\u0928\u094D\u091F> ,
+		<http://ml.dbpedia.org/resource/\u0D37\u0D4B\u0D7A_\u0D39\u0D46\u0D7B\u0D31\u0D3F_\u0D21\u0D4D\u0D2F\u0D42\u0D28\u0D28\u0D4D\u0D31\u0D4D> .
+@prefix dbpedia-lmo:	<http://lmo.dbpedia.org/resource/> .
+dbr:Henry_Dunant	owl:sameAs	dbpedia-lmo:Henri_Dunant .
+@prefix ns48:	<http://lt.dbpedia.org/resource/> .
+dbr:Henry_Dunant	owl:sameAs	ns48:Henri_Dunant .
+@prefix dbpedia-et:	<http://et.dbpedia.org/resource/> .
+dbr:Henry_Dunant	owl:sameAs	dbpedia-et:Jean_Henri_Dunant .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Henry_Dunant	owl:sameAs	dbpedia-fr:Henry_Dunant .
+@prefix ns51:	<http://data.europa.eu/euodp/jrc-names/> .
+dbr:Henry_Dunant	owl:sameAs	ns51:Henry_Dunant ,
+		<http://ka.dbpedia.org/resource/\u10D0\u10DC\u10E0\u10D8_\u10D3\u10D8\u10E3\u10DC\u10D0\u10DC\u10D8> .
+@prefix dbpedia-la:	<http://la.dbpedia.org/resource/> .
+dbr:Henry_Dunant	owl:sameAs	dbpedia-la:Henricus_Dunant ,
+		<http://fa.dbpedia.org/resource/\u0622\u0646\u0631\u06CC_\u062F\u0648\u0646\u0627\u0646> ,
+		<http://ja.dbpedia.org/resource/\u30A2\u30F3\u30EA\u30FB\u30C7\u30E5\u30CA\u30F3> .
+@prefix ns53:	<https://global.dbpedia.org/id/> .
+dbr:Henry_Dunant	owl:sameAs	ns53:G473 ,
+		<http://ko.dbpedia.org/resource/\uC559\uB9AC_\uB4A4\uB0AD> ,
+		<http://el.dbpedia.org/resource/\u0395\u03C1\u03C1\u03AF\u03BA\u03BF\u03C2_\u039D\u03C4\u03C5\u03BD\u03AC\u03BD> ,
+		<http://th.dbpedia.org/resource/\u0E2D\u0E47\u0E2D\u0E07\u0E23\u0E35_\u0E14\u0E39\u0E27\u0E4C\u0E19\u0E47\u0E2D\u0E07> .
+@prefix dbpedia-commons:	<http://commons.dbpedia.org/resource/> .
+dbr:Henry_Dunant	owl:sameAs	dbpedia-commons:Henri_Dunant ,
+		<http://mk.dbpedia.org/resource/\u0410\u043D\u0440\u0438_\u0414\u0438\u043D\u0430\u043D> .
+@prefix dbpedia-ms:	<http://ms.dbpedia.org/resource/> .
+dbr:Henry_Dunant	owl:sameAs	dbpedia-ms:Jean_Henry_Dunant ,
+		<http://az.dbpedia.org/resource/Anri_D\u00FCnan> ,
+		<http://sr.dbpedia.org/resource/\u0410\u043D\u0440\u0438_\u0414\u0438\u043D\u0430\u043D> .
+@prefix ns56:	<http://d-nb.info/gnd/118528114/about/> .
+dbr:Henry_Dunant	owl:sameAs	ns56:rdf ,
+		<http://ta.dbpedia.org/resource/\u0BB9\u0BC6\u0BA9\u0BCD\u0BB1\u0BBF_\u0B9F\u0BBF\u0BAF\u0BC2\u0BA9\u0BBE\u0BA3\u0BCD\u0B9F\u0BCD> .
+@prefix dbpedia-ca:	<http://ca.dbpedia.org/resource/> .
+dbr:Henry_Dunant	owl:sameAs	dbpedia-ca:Jean_Henri_Dunant .
+@prefix dbpedia-ga:	<http://ga.dbpedia.org/resource/> .
+dbr:Henry_Dunant	owl:sameAs	dbpedia-ga:Jean_Henri_Dunant ,
+		<http://rdf.freebase.com/ns/m.0966l> ,
+		<http://mn.dbpedia.org/resource/\u0410\u043D\u0440\u0438_\u0414\u044E\u043D\u0430\u043D> .
+@prefix ns59:	<http://li.dbpedia.org/resource/> .
+dbr:Henry_Dunant	owl:sameAs	ns59:Henri_Dunant .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Henry_Dunant	owl:sameAs	yago-res:Henry_Dunant .
+@prefix ns61:	<http://sco.dbpedia.org/resource/> .
+dbr:Henry_Dunant	owl:sameAs	ns61:Henry_Dunant .
+@prefix dbpedia-als:	<http://als.dbpedia.org/resource/> .
+dbr:Henry_Dunant	owl:sameAs	dbpedia-als:Henry_Dunant ,
+		<http://hy.dbpedia.org/resource/\u0531\u0576\u0580\u056B_\u0534\u0575\u0578\u0582\u0576\u0561\u0576> ,
+		dbr:Henry_Dunant .
+@prefix ns63:	<http://jv.dbpedia.org/resource/> .
+dbr:Henry_Dunant	owl:sameAs	ns63:Henri_Dunant ;
+	schema:sameAs	<http://viaf.org/viaf/37053483> ;
+	dbp:nativeNameLang	"fr"@en .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Henry_Dunant	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Henry_Dunant?oldid=983719956&ns=0> ;
+	dbp:footer	"The busts of Moynier  and Dunant in the foyer of the ICRC HQ in Geneva, looking past each other"@en ;
+	dbp:image	"ICRC-HQ-Geneva-Foyer HenryDunant-GustaveMoynier.jpg"@en ,
+		"ICRC-HQ-Geneva-Foyer GustaveMoynier-HenryDunant.jpg"@en ;
+	dbo:knownFor	dbr:Red_Cross ;
+	dbp:nationality	"Swiss"@en ;
+	dbo:nationality	dbr:Switzerland ;
+	dbp:citizenship	"Swiss"@en ,
+		"French"@en ;
+	dbp:awards	dbr:Nobel_Peace_Prize ;
+	dbo:restingPlace	dbr:Wiedikon ;
+	dbo:stateOfOrigin	dbr:Switzerland ;
+	dbo:citizenship	dbr:Switzerland ;
+	dbp:knownFor	"Founder of the Red Cross"@en ;
+	dbo:award	dbr:Nobel_Peace_Prize ;
+	dbp:name	"Henry Dunant"@en ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Henry_Dunant-young.jpg?width=300> ;
+	dbo:deathPlace	<http://dbpedia.org/resource/Heiden,_Switzerland> ;
+	dbp:deathPlace	<http://dbpedia.org/resource/Heiden,_Switzerland> .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Henry_Dunant	dbo:deathDate	"1910-10-30"^^xsd:date ;
+	dbo:birthPlace	dbr:Geneva ;
+	dbp:birthPlace	"Geneva, Switzerland"@en ;
+	dbo:birthDate	"1828-05-08"^^xsd:date ;
+	dbo:wikiPageID	36845 ;
+	dbo:wikiPageRevisionID	983719956 ;
+	dbo:wikiPageWikiLink	dbr:International_Committee_of_the_Red_Cross ,
+		dbr:Saint-Hilaire-de-Riez ,
+		dbr:Organized_religion ,
+		dbr:Kingdom_of_Sardinia ,
+		dbr:Orphan ,
+		dbr:Lombardy ,
+		<http://dbpedia.org/resource/Maria_Feodorovna_(Dagmar_of_Denmark)> ,
+		dbr:Calvinism ,
+		dbr:Bertha_von_Suttner ,
+		dbr:Christian-Jaque ,
+		<http://dbpedia.org/resource/Category:1828_births> ,
+		dbr:Napoleon_III ,
+		dbr:Caroline_Moorehead ,
+		<http://dbpedia.org/resource/Allgemeine_Allianz_f\u00FCr_Ordnung_und_Zivilisation> ,
+		<http://dbpedia.org/resource/Federal_Assembly_(Switzerland)> ,
+		dbc:Swiss_memoirists ,
+		dbr:Die_Ostschweiz ,
+		<http://dbpedia.org/resource/File:Battaglia_di_Solferino_(Henry_Dunant).jpg> ,
+		<http://dbpedia.org/resource/File:Committee_of_Five_Geneva_1863.jpg> ,
+		dbc:People_associated_with_the_International_Red_Cross_and_Red_Crescent_Movement ,
+		<http://dbpedia.org/resource/File:Grab_Henry_Dunant02.jpg> ,
+		dbr:UNESCO ,
+		<http://dbpedia.org/resource/File:Henry_Dunant_1855.jpg> ,
+		<http://dbpedia.org/resource/File:Jean_Henri_Dunant_Monument.jpg> ,
+		<http://dbpedia.org/resource/File:Henry_dunant.jpg> ,
+		dbr:Henry_Dunant_Hospital ,
+		dbr:Historical_drama ,
+		dbr:Guillaume_Henri_Dufour ,
+		dbc:YMCA_leaders ,
+		dbr:Social_work ,
+		<http://dbpedia.org/resource/University_of_T\u00FCbingen> ,
+		dbc:People_from_Geneva ,
+		dbc:Henry_Dunant ,
+		dbc:Swiss_expatriates_in_Algeria ,
+		dbc:Swiss_humanitarians ,
+		<http://dbpedia.org/resource/Category:1910_deaths> ,
+		<http://dbpedia.org/resource/St._Gallen> ,
+		dbr:Activism ,
+		dbr:Poverty ,
+		dbr:Thomas_Jouannet ,
+		dbc:Swiss_agnostics ,
+		dbr:Athens ,
+		dbr:Thai_Red_Cross_Society ,
+		dbr:Dunantspitze ,
+		<http://dbpedia.org/resource/Th\u00E9odore_Maunoir> ,
+		<http://dbpedia.org/resource/Coll\u00E8ge_Calvin> ,
+		dbr:Peter_Masters ,
+		<http://dbpedia.org/resource/Drama_(film_and_television)> ,
+		dbr:Wiedikon ,
+		dbc:Nobel_Peace_Prize_laureates ,
+		dbr:Battle_of_Solferino ,
+		dbr:Humanitarianism ,
+		dbr:Jean-Louis_Barrault ,
+		dbr:Solferino ,
+		dbr:Kohlhammer_Verlag ,
+		dbr:Stuttgart ,
+		dbr:Tsar ,
+		dbr:First_Geneva_Convention ,
+		dbr:YMCA ,
+		dbr:Geneva_Conventions ,
+		dbr:Geneva ,
+		dbr:Pope_Leo_XIII ,
+		<http://dbpedia.org/resource/R\u00E9veil> ,
+		<http://dbpedia.org/resource/Virginia_Beach,_Virginia> ,
+		dbc:Swiss_philanthropists ,
+		dbc:Swiss_businesspeople ,
+		dbr:Austrian_Empire ,
+		dbr:Sicily ,
+		dbr:Louis_Appia ,
+		dbr:Dunantist ,
+		dbr:Basel ,
+		dbr:Corfu ,
+		dbr:Castiglione_delle_Stiviere ,
+		dbr:Cinema_of_France ,
+		<http://dbpedia.org/resource/Heiden,_Switzerland> ,
+		<http://dbpedia.org/resource/H\u00E9l\u00E8ne_Perdri\u00E8re> ,
+		<http://dbpedia.org/resource/Z\u00FCrich> ,
+		dbr:A_Memory_of_Solferino ,
+		dbr:Nobel_Peace_Prize ,
+		dbr:Henry_Dunant_Medal ,
+		dbr:Henry_Dunant_Museum ,
+		<http://dbpedia.org/resource/Fr\u00E9d\u00E9ric_Passy> ,
+		dbr:Prussia ,
+		dbr:Switzerland ,
+		<http://dbpedia.org/resource/File:Jean_Henri_Dunant.jpg> ,
+		dbr:Businessperson ,
+		dbr:Hans_Daae ,
+		dbc:Swiss_Nobel_laureates ,
+		dbr:Debt ,
+		dbr:Sihlfeld ,
+		dbr:Dominique_Othenin-Girard ,
+		dbr:Cinema_of_Switzerland ,
+		dbr:Bernard_Blier ,
+		dbr:Paranoia ,
+		dbr:Takarazuka_Revue ,
+		dbr:International_Red_Cross_and_Red_Crescent_Movement ,
+		dbr:Heidelberg_University ,
+		dbr:Franco-Prussian_War ,
+		dbr:Karlsruhe ,
+		dbr:Man_to_Men ,
+		dbr:Gustave_Moynier ,
+		dbc:Swiss_Christians ;
+	dbo:wikiPageExternalLink	<https://web.archive.org/web/20130601031455/http:/athena.unige.ch/athena/dunant/dunant_souvenir_solferino.html> ,
+		<http://www.shd.ch/Texts.aspx%3Fp=93> ,
+		<http://www.cicr.org/eng/who-we-are/history/founding/index.jsp> .
+@prefix ns66:	<http://www.cicr.org/Web/eng/siteeng0.nsf/html/> .
+dbr:Henry_Dunant	dbo:wikiPageExternalLink	ns66:p2028 ,
+		<http://www.redcross.int/en/history/not_nobel.asp> ,
+		<https://web.archive.org/web/20150712044954/http:/www.dtv.de/buecher/der_zeitreisende_13073.html> ,
+		<https://web.archive.org/web/20110402035423/http:/www.shd.ch/> ,
+		<http://www.dunant-museum.ch/en/> ,
+		<http://www.dunant-themovie.com/> ,
+		<http://www.icrc.org/eng/resources/documents/publication/p0361.htm> ,
+		<http://www.icrc.org/eng/resources/documents/publication/p2041.htm> ,
+		<http://www.dtv.de/buecher/der_zeitreisende_13073.html> .
+@prefix dbt:	<http://dbpedia.org/resource/Template:> .
+dbr:Henry_Dunant	dbp:wikiPageUsesTemplate	dbt:Refbegin ,
+		dbt:Refend ,
+		dbt:Citation ,
+		dbt:Commons_category ,
+		dbt:Use_dmy_dates ,
+		dbt:In_lang ,
+		dbt:Birth_date ,
+		dbt:Death_date_and_age ,
+		dbt:Authority_control ,
+		dbt:Nobel_Peace_Prize_Laureates_1901-1925 ,
+		dbt:Infobox_person ,
+		dbt:Reflist ,
+		dbt:Short_description ,
+		dbt:Wikisource_author ,
+		dbt:Spnd ,
+		<http://dbpedia.org/resource/Template:,> ,
+		dbt:Nobelprize ,
+		dbt:PM20 ,
+		dbt:Wikiquote ,
+		dbt:Multiple_image ,
+		<http://dbpedia.org/resource/Template:1901_Nobel_Prize_winners> ,
+		dbt:Why ;
+	dbp:birthDate	"1828-05-08"^^xsd:date ;
+	dbp:birthName	"Jean-Henri Dunant"@en ;
+	dbp:children	1 ;
+	dbp:deathDate	"1910-10-30"^^xsd:date ;
+	dbp:occupation	"Social activist, businessman, writer"@en ;
+	dbp:restingPlace	"Friedhof Sihlfeld, Z\u00FCrich-Wiedikon, Switzerland"@en ;
+	dbo:abstract	"\uC7A5 \uC559\uB9AC \uB4A4\uB0AD(Jean-Henri Dunant, 1828\uB144 5\uC6D4 8\uC77C ~ 1910\uB144 10\uC6D4 30\uC77C)\uC740 \uAD6D\uC81C\uC801\uC2ED\uC790\uC704\uC6D0\uD68C\uC758 \uCC3D\uC2DC\uC790\uB85C, \uC81C1\uB300 \uB178\uBCA8 \uD3C9\uD654\uC0C1 \uC218\uC0C1\uC790\uC774\uB2E4."@ko ,
+		"\u8BA9\u00B7\u4EA8\u5229\u00B7\u675C\u5357\uFF08\u6CD5\u8A9E\uFF1AJean Henri Dunant\uFF0C1828\u5E745\u67088\u65E5\uFF0D1910\u5E7410\u670830\u65E5\uFF09\u662F\u745E\u58EB\u5546\u4EBA\u548C\u4EBA\u9053\u4E3B\u7FA9\u8005\uFF0C\u7D05\u5341\u5B57\u6703\u5275\u8FA6\u4EBA\uFF0C\u5F8C\u4EBA\u5C0A\u7A31\u4ED6\u70BA\u300C\u7D05\u5341\u5B57\u6703\u4E4B\u7236\u300D\u30021859\u5E74\uFF0C\u4ED6\u65BC\u51FA\u5DEE\u9014\u4E2D\u76EE\u7779\u4E86\u7D22\u5C14\u8D39\u91CC\u8BFA\u6218\u5F79\u7684\u540E\u679C\u3002\u540E\u6765\uFF0C\u4ED6\u5728\u81EA\u5DF1\u7684\u8457\u4F5C\u300A\u7D22\u5C14\u8D39\u91CC\u8BFA\u56DE\u5FC6\u5F55\u300B\u4E2D\u8BB0\u5F55\u4E86\u9019\u6BB5\u7ECF\u5386\uFF0C\u4E66\u4E2D\u7684\u8BBE\u60F3\u6700\u7EC8\u4FC3\u6210\u4E861863\u5E74\u7EA2\u5341\u5B57\u56FD\u9645\u59D4\u5458\u4F1A\u7684\u521B\u7ACB\u30021864\u5E74\u7684\u300A\u65E5\u5185\u74E6\u516C\u7EA6\u300B\u4E5F\u662F\u4EE5\u675C\u5357\u7684\u601D\u60F3\u4E3A\u57FA\u7840\u30021901\u5E74\u4ED6\u548C\u6CD5\u56FD\u4EBA\u5F17\u96F7\u5FB7\u91CC\u514B\u00B7\u5E15\u897F\u83B7\u5F97\u4E86\u9996\u5C4A\u8BFA\u8D1D\u5C14\u548C\u5E73\u5956\u3002"@zh ,
+		"Jean-Henri Dunant (Genebra, 8 de maio de 1828 \u2014 Heiden, Su\u00ED\u00E7a, 30 de outubro de 1910) foi um filantropo su\u00ED\u00E7o, co-fundador da Cruz Vermelha Internacional. Recebeu o primeiro Nobel da Paz em 1901, juntamente com Fr\u00E9d\u00E9ric Passy."@pt ,
+		"\u039F \u0395\u03C1\u03C1\u03AF\u03BA\u03BF\u03C2 \u039D\u03C4\u03C5\u03BD\u03AC\u03BD (Jean-Henri Dunant, 8 \u039C\u03B1\u0390\u03BF\u03C5 1828 \u2013 30 \u039F\u03BA\u03C4\u03C9\u03B2\u03C1\u03AF\u03BF\u03C5 1910) \u03AE\u03C4\u03B1\u03BD \u03B9\u03B4\u03C1\u03C5\u03C4\u03AE\u03C2 \u03C4\u03BF\u03C5 \u0395\u03C1\u03C5\u03B8\u03C1\u03BF\u03CD \u03A3\u03C4\u03B1\u03C5\u03C1\u03BF\u03CD \u03BA\u03B1\u03B9 \u03BF \u03C0\u03C1\u03CE\u03C4\u03BF\u03C2 \u03B1\u03C0\u03BF\u03B4\u03AD\u03BA\u03C4\u03B7\u03C2 \u03C4\u03BF\u03C5 \u03B2\u03C1\u03B1\u03B2\u03B5\u03AF\u03BF\u03C5 \u039D\u03CC\u03BC\u03C0\u03B5\u03BB \u0395\u03B9\u03C1\u03AE\u03BD\u03B7\u03C2 \u03C4\u03BF 1901 \u03BC\u03B1\u03B6\u03AF \u03BC\u03B5 \u03C4\u03BF\u03BD \u03A6\u03C1\u03B5\u03BD\u03C4\u03B5\u03C1\u03AF\u03BA \u03A0\u03B1\u03C3\u03C3\u03CD."@el ,
+		"Jean Henri Dunant, \u00E4ven Henry Dunant, f\u00F6dd 8 maj 1828 i Gen\u00E8ve i Schweiz, d\u00F6d 30 oktober 1910 i Heiden i Appenzell Ausserrhoden i Schweiz, var en schweizisk aff\u00E4rsman, social aktivist, R\u00F6da korsets grundare och den f\u00F6rsta mottagaren av Nobels fredspris som han delade med Fr\u00E9d\u00E9ric Passy. Hans liv pr\u00E4glades av stora kontraster. Ett exempel p\u00E5 detta \u00E4r att han v\u00E4xte upp i en v\u00E4lb\u00E4rgad familj, men dog ensam p\u00E5 ett fattighus. Hans dopnamn var Jean-Henri, men han anv\u00E4nde vanligen bara Henri eller Henry sj\u00E4lv.[k\u00E4lla beh\u00F6vs]"@sv ,
+		"Jean Henri Dunant (edo Jean Henry Dunant) (Geneva, 1828ko maiatzaren 8a - Heiden, Suitza, 1910eko urriaren 30a) Suitzako negoziogizon, filantropo eta gizateriaren aldeko aktibista izan zen. Fr\u00E9d\u00E9ric Passyrekin batera 1901ean lehenengoa izan zen Bakearen Nobel Saria jasotzen. 1859an Solferinoko gudua ikusi zuen, Italian eta horren ondorioz  liburua idatzi zuen. Bertan gerrako zaurituak laguntzeko boluntarioen talde bat sortu behar zela proposatzen zuen. Honen ondorioz urte batzuk geroago Gurutze Gorria sortu zen. 1864an Genevako Konbentzioa Dunantek proposaturiko hainbat oinarrien gainean eraiki zen."@eu ,
+		"Henry Dunant, nacido como Jean-Henry Dunant o Juan Enrique Dunant (Ginebra, 8 de mayo de 1828 - Heiden, Suiza, 30 de octubre de 1910) fue un empresario, fil\u00E1ntropo y humanista suizo. Recibi\u00F3 el primer Premio Nobel de la Paz junto con Fr\u00E9d\u00E9ric Passy, en 1901. Al observar las secuelas de la batalla de Solferino en Italia y la empat\u00EDa que le caus\u00F3, se decidi\u00F3 a escribir sus recuerdos y experiencias en el libro Un Recuerdo de Solferino, en el que reclam\u00F3 la creaci\u00F3n de un cuerpo de voluntarios para socorrer a los heridos de guerra sin distinci\u00F3n del bando que fueran. Dicha petici\u00F3n sirvi\u00F3 m\u00E1s tarde para la fundaci\u00F3n de la Cruz Roja. En 1864 se redact\u00F3 la Convenci\u00F3n de Ginebra con base en algunos de los postulados humanitaristas de Dunant."@es ,
+		"Jean Henri Dunant (Gen\u00E8ve, 8 mei 1828 - Heiden, 30 oktober 1910), in zijn latere leven in het Engels Henry Dunant genoemd, was een Zwitsers bankier, oprichter van het Rode Kruis, auteur van het boek Een herinnering aan Solferino en mede-auteur van het YMCA-handvest. Hij ontving de eerste Nobelprijs voor de Vrede in 1901."@nl ,
+		"Jean Henri Dunant (ur. 8 maja 1828 w Genewie, zm. 30 pa\u017Adziernika 1910 w Heiden, Henry Dunant, Henri Dunant) \u2013 szwajcarski kupiec, filantrop i za\u0142o\u017Cyciel Czerwonego Krzy\u017Ca, laureat pierwszej Pokojowej Nagrody Nobla w 1901 (wraz z Francuzem Fr\u00E9d\u00E9ricem Passy)."@pl ,
+		"Jean Henri Dunant (lahir 8 Mei 1828 \u2013 meninggal 30 Oktober 1910 pada umur 82 tahun), yang juga dikenal dengan nama Henry Dunant, adalah pengusaha dan aktivis sosial Swiss. Ketika melakukan perjalanan untuk urusan bisnis pada tahun 1859, dia menyaksikan akibat-akibat dari Pertempuran Solferino, sebuah lokasi yang dewasa ini merupakan bagian Italia. Kenangan dan pengalamannya itu dia tuliskan dalam sebuah buku dengan judul  , yang menginspirasi pembentukan Komite Internasional Palang Merah (ICRC) pada tahun 1863. Konvensi Jenewa 1864 didasarkan pada gagasan-gagasan Dunant. Pada tahun 1901, dia menerima Penghargaan Nobel Perdamaian yang pertama, bersama dengan Fr\u00E9d\u00E9ric Passy."@in ,
+		"Henri a\u016D Henry, la\u016Dnaske Jean-Henri DUNANT  (* la 8-an de majo 1828 en \u011Cenevo; \u2020 la 30-an de oktobro 1910 en Heiden, Svislando), estis svisa komercisto kaj kristana humanisto. Dum komerca voja\u011Do li dum junio 1859 spektis la malhomajn kondi\u0109ojn de la soldatoj de Piemonto-Sardio kaj Francio unuflanke kaj A\u016Dstrio-Hungario aliflanke post la batalo \u0109e la itala urbo Solferino: ke soldatoj mortis dum la batalo, \u015Dajnis malhoma, sed dum milito neevitebla fakto, sed ke ili agonie mortis poste batalkampe, \u0109ar neniu povis medicine prizorgi kaj flegi ilin, \u015Dajnis al li evitebla malhoma\u0135o. Pri siaj memora\u0135oj li skribis libron kun la titolo \"Memoro pri Solferino\", kiun li dum 1862 proprakoste publikigis kaj disdonigis en E\u016Dropo. Sekve de la reagoj de multaj legantoj dum la sekva jaro en \u011Cenevo fondi\u011Dis la \"Internacia Komitato de Helpaj Societoj por Flegado de Vunditoj\", kiu ekde 1876 nomi\u011Das \"Internacia Komitato de la Ru\u011Da Kruco\" (IKRK). La \u011Ceneva Konvencio ellaborita dum 1864 grandparte bazi\u011Das la\u016D proponoj el la libro de Dunant. Dunant, kiu dum 1901 kune kun  ricevis la unuan Nobel-Premion pri Paco, do rigardi\u011Das la fondanto de la Internacia Movado de Ru\u011Da Kruco (kiel simbolo kristana) kaj Ru\u011Da Krescento (kiel simbolo islama). En Heiden en orienta Svislando estas muzeo pri Henri Dunant."@eo ,
+		"Jean Henry Dunant, pi\u00F9 noto come Henry Dunant (Ginevra, 8 maggio 1828 \u2013 Heiden, 30 ottobre 1910), \u00E8 stato un umanista, imprenditore e filantropo svizzero, Premio Nobel per la pace nel 1901 - il primo anno in cui venne assegnato tale riconoscimento - per aver fondato la Croce Rossa di cui erano gi\u00E0 da alcuni decenni membri attivi molti paesi di tutto il mondo, tra cui anche l'Impero ottomano. Dopo la battaglia di Solferino, alla quale assistette da un colle, invent\u00F2 la Croce Rossa, per assistere i feriti in battaglia."@it ,
+		"Henry Dunant, parfois orthographi\u00E9 Henri Dunant, baptis\u00E9 sous le pr\u00E9nom de Jean-Henri[r\u00E9f. n\u00E9cessaire] le 8 mai 1828 \u00E0 Gen\u00E8ve et mort le 30 octobre 1910 \u00E0 Heiden, est un homme d'affaires humaniste suisse, consid\u00E9r\u00E9 comme le fondateur du mouvement de la Croix-Rouge internationale. Chr\u00E9tien protestant, il est naturalis\u00E9 fran\u00E7ais en avril 1859. Pendant un voyage d'affaires en juin 1859, il se trouve \u00E0 proximit\u00E9 de la ville italienne de Solf\u00E9rino et d\u00E9couvre les d\u00E9g\u00E2ts humains de la bataille qui s\u2019y d\u00E9roula. \u00C0 partir de cette exp\u00E9rience, il \u00E9crit un livre intitul\u00E9 Un souvenir de Solf\u00E9rino qu'il publie en 1862. Une ann\u00E9e plus tard, il participe \u00E0 Gen\u00E8ve \u00E0 la fondation du Comit\u00E9 international de secours aux militaires bless\u00E9s, d\u00E9sign\u00E9 d\u00E8s 1876 sous le nom de Comit\u00E9 international de la Croix-Rouge. La premi\u00E8re convention de Gen\u00E8ve est ratifi\u00E9e en 1864 et se r\u00E9f\u00E8re largement \u00E0 ses propositions. Il obtient avec Fr\u00E9d\u00E9ric Passy le premier prix Nobel de la paix en 1901."@fr ,
+		"Henry Dunant [\u0251\u0303\u02C8\u0281i dy\u02C8n\u0251\u0303\u02D0], eigentlich Jean-Henri Dunant (* 8. Mai 1828 in Genf; \u2020 30. Oktober 1910 in Heiden), war ein Schweizer Gesch\u00E4ftsmann und ein Humanist christlicher Pr\u00E4gung. W\u00E4hrend einer Gesch\u00E4ftsreise wurde er im Juni 1859 in der N\u00E4he der italienischen Stadt Solferino Zeuge der erschreckenden Zust\u00E4nde unter den Verwundeten nach einer Schlacht zwischen der Armee \u00D6sterreichs sowie den Truppen Sardinien-Piemonts und Frankreichs. \u00DCber seine Erlebnisse schrieb er ein Buch mit dem Titel Eine Erinnerung an Solferino, das er 1862 auf eigene Kosten ver\u00F6ffentlichte und in Europa verteilte. In der Folge kam es ein Jahr sp\u00E4ter in Genf zur Gr\u00FCndung des Internationalen Komitees der Hilfsgesellschaften f\u00FCr die Verwundetenpflege, das seit 1876 den Namen Internationales Komitee vom Roten Kreuz (IKRK) tr\u00E4gt. Die 1864 beschlossene Genfer Konvention geht wesentlich auf Vorschl\u00E4ge aus Dunants Buch zur\u00FCck. Henry Dunant, der danach aufgrund gesch\u00E4ftlicher Probleme und seines darauf folgenden Ausschlusses aus der Genfer Gesellschaft rund drei Jahrzehnte lang in Armut und Vergessenheit lebte, gilt damit als Begr\u00FCnder der Internationalen Rotkreuz- und Rothalbmond-Bewegung. Im Jahr 1901 erhielt er f\u00FCr seine Lebensleistung zusammen mit dem franz\u00F6sischen Pazifisten Fr\u00E9d\u00E9ric Passy den ersten Friedensnobelpreis."@de ,
+		"\u0416\u0430\u043D \u0410\u043D\u0440\u0456\u0301 \u0414\u044E\u043D\u0430\u0301\u043D (\u0444\u0440. Jean Henri Dunant; 8 \u0442\u0440\u0430\u0432\u043D\u044F 1828 \u2014 30 \u0436\u043E\u0432\u0442\u043D\u044F 1910) \u2014 \u0448\u0432\u0435\u0439\u0446\u0430\u0440\u0441\u044C\u043A\u0438\u0439 \u043F\u0456\u0434\u043F\u0440\u0438\u0454\u043C\u0435\u0446\u044C \u0456 \u0433\u0440\u043E\u043C\u0430\u0434\u0441\u044C\u043A\u0438\u0439 \u0434\u0456\u044F\u0447."@uk ,
+		"Jean Henri Dunant [\u017E\u00E1n \u00E1nri dyn\u00E1n], t\u00E9\u017E Henry Dunant (8. kv\u011Bten 1828 \u017Deneva \u2013 30. \u0159\u00EDjen 1910 ) byl \u0161v\u00FDcarsk\u00FD podnikatel a humanista, inici\u00E1tor a spoluzakladatel Mezin\u00E1rodn\u00EDho \u010Cerven\u00E9ho k\u0159\u00ED\u017Ee, inici\u00E1tor \u017Denevsk\u00FDch \u00FAmluv a prvn\u00ED nositel Nobelovy ceny za m\u00EDr z roku 1901."@cs ,
+		"Henry Dunant (born Jean-Henri Dunant; 8 May 1828 \u2013 30 October 1910), also known as Henri Dunant, was a Swiss humanitarian, businessman and social activist. He was the visionary, promoter and co-founder of the Red Cross. In 1901 he received the first Nobel Peace Prize together with Fr\u00E9d\u00E9ric Passy, making Dunant the first Swiss Nobel laureate. During a business trip in 1859, Dunant was witness to the aftermath of the Battle of Solferino in modern-day Italy. He recorded his memories and experiences in the book A Memory of Solferino which inspired the creation of the International Committee of the Red Cross (ICRC) in 1863. The 1864 Geneva Convention was based on Dunant's idea for an independent organisation to care for wounded soldiers. Dunant was the founder of the Swiss branch of the Young Men's Christian Association YMCA."@en ,
+		"Daonchara a rugadh sa Ghin\u00E9iv ab ea Jean Henri Dunant (1828-1910). Thug s\u00E9 an pr\u00EDomhspreagadh do bhun\u00FA Chumann Idirn\u00E1isi\u00FAnta na Croise Deirge ag comhdh\u00E1il sa Ghin\u00E9iv i 1863, as ar th\u00E1inig Coinbhinsi\u00FAn na Gin\u00E9ive (1864). Roinn s\u00E9 an ch\u00E9ad Duais Nobel don ts\u00EDoch\u00E1in i 1901."@ga ,
+		"Jean Henri Dunant (Ginebra, Su\u00EFssa, 8 de maig de 1828 - Heiden, 30 d'octubre de 1910) fou un home de negocis su\u00EDs que port\u00E0 a terme diferents iniciatives humanit\u00E0ries. L'any 1901 va rebre el Premi Nobel de la Pau, juntament amb Fr\u00E9d\u00E9ric Passy, per la seva contribuci\u00F3 a la creaci\u00F3 del Comit\u00E8 Internacional de la Creu Roja i per iniciar la Convenci\u00F3 de Ginebra (1864). La seva font d'inspiraci\u00F3 per ambdues iniciatives humanit\u00E0ries fou la batalla de Solferino, a It\u00E0lia, el 1859."@ca ,
+		"\u30B8\u30E3\u30F3\u30FB\u30A2\u30F3\u30EA\u30FB\u30C7\u30E5\u30CA\u30F3\uFF08Jean Henri Dunant, 1828\u5E745\u67088\u65E5 - 1910\u5E7410\u670830\u65E5\uFF09\u306F\u3001\u30B9\u30A4\u30B9\u306E\u5B9F\u696D\u5BB6\u3067\u3042\u308B\u3002\u8D64\u5341\u5B57\u793E\u3092\u5275\u8A2D\u3057\u30011901\u5E74\u306B\u300C\u7B2C1\u56DE\u30CE\u30FC\u30D9\u30EB\u5E73\u548C\u8CDE\u300D\u3092\u53D7\u8CDE\u3057\u305F\u3002"@ja ,
+		"\u0416\u0430\u043D \u0410\u043D\u0440\u0438\u0301 \u0414\u044E\u043D\u0430\u0301\u043D (\u0444\u0440. Jean Henri Dunant; 8 \u043C\u0430\u044F 1828 \u2014 30 \u043E\u043A\u0442\u044F\u0431\u0440\u044F 1910) \u2014 \u0448\u0432\u0435\u0439\u0446\u0430\u0440\u0441\u043A\u0438\u0439 \u043F\u0440\u0435\u0434\u043F\u0440\u0438\u043D\u0438\u043C\u0430\u0442\u0435\u043B\u044C \u0438 \u043E\u0431\u0449\u0435\u0441\u0442\u0432\u0435\u043D\u043D\u044B\u0439 \u0434\u0435\u044F\u0442\u0435\u043B\u044C. \u041F\u043B\u0435\u043C\u044F\u043D\u043D\u0438\u043A \u0444\u0438\u0437\u0438\u043A\u0430 \u0416\u0430\u043D\u0430-\u0414\u0430\u043D\u0438\u044D\u043B\u044F \u041A\u043E\u043B\u043B\u0430\u0434\u043E\u043D\u0430. \u0424\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0439 \u0438\u043D\u0438\u0446\u0438\u0430\u0442\u043E\u0440 \u0441\u043E\u0437\u0434\u0430\u043D\u0438\u044F \u043D\u044B\u043D\u0435 \u043C\u0435\u0436\u0434\u0443\u043D\u0430\u0440\u043E\u0434\u043D\u043E\u0439 \u0433\u0443\u043C\u0430\u043D\u0438\u0442\u0430\u0440\u043D\u043E\u0439 \u043E\u0440\u0433\u0430\u043D\u0438\u0437\u0430\u0446\u0438\u0438 \u041C\u0435\u0436\u0434\u0443\u043D\u0430\u0440\u043E\u0434\u043D\u043E\u0433\u043E \u043A\u043E\u043C\u0438\u0442\u0435\u0442\u0430 \u041A\u0440\u0430\u0441\u043D\u043E\u0433\u043E \u041A\u0440\u0435\u0441\u0442\u0430."@ru ,
+		"\u0647\u0646\u0631\u064A \u062F\u0648\u0646\u0627\u0646\u062A \u0648\u0644\u062F \u0641\u064A 8 \u0645\u0627\u064A\u0648 1828\u0645 \u0641\u064A \u062C\u0646\u064A\u0641 \u0648\u062A\u0648\u0641\u064A \u0641\u064A 30 \u0623\u0643\u062A\u0648\u0628\u0631 1910\u0645 \u0623\u0648\u0644 \u0641\u0627\u0626\u0632 \u0628\u062C\u0627\u0626\u0632\u0629 \u0646\u0648\u0628\u0644 \u0644\u0644\u0633\u0644\u0627\u0645 \u0641\u064A \u0627\u0644\u0639\u0627\u0644\u0645 \u060C\u0648\u0647\u0648 \u0631\u062C\u0644 \u0623\u0639\u0645\u0627\u0644 \u0633\u0648\u064A\u0633\u0631\u064A \u0648\u0646\u0627\u0634\u0637 \u0627\u062C\u062A\u0645\u0627\u0639\u064A\u060C \u062E\u0644\u0627\u0644 \u0631\u062D\u0644\u0629 \u0639\u0645\u0644 \u0623\u062C\u0631\u0627\u0647\u0627 \u0633\u0646\u0629 1859 \u0625\u0644\u0649 \u0625\u064A\u0637\u0627\u0644\u064A\u0627 \u0627\u0644\u0641\u062A\u064A\u0629 \u0641\u064A \u0641\u062A\u0631\u0629 \u062D\u0631\u0628 \u0633\u0648\u0644\u0641\u0631\u064A\u0646\u0648. \u0633\u062C\u0644 \u0630\u0643\u0631\u064A\u0627\u062A\u0647 \u0648\u062E\u0628\u0631\u0627\u062A\u0647 \u0641\u064A \u0643\u062A\u0627\u0628 \u0627\u0633\u0645\u0627\u0647 (\u0630\u0643\u0631\u064A\u0627\u062A \u0633\u0648\u0644\u0641\u0631\u064A\u0646\u0648) \u0627\u0644\u0630\u064A \u0645\u0647\u062F \u0644\u062A\u0623\u0633\u064A\u0633 \u0627\u0644\u0635\u0644\u064A\u0628 \u0627\u0644\u0623\u062D\u0645\u0631 \u0639\u0627\u0645 1863. \u0645\u0639\u0627\u0647\u062F\u0629 \u062C\u0646\u064A\u0641 \u0633\u0646\u0629 1864 \u0646\u0634\u0623\u062A \u0645\u0646 \u0623\u0641\u0643\u0627\u0631 \u062F\u0648\u0646\u0627\u0646\u062A\u061B \u0648\u0647\u0648 \u0623\u0648\u0644 \u0645\u0646 \u062D\u0635\u0644 \u0639\u0644\u0649 \u062C\u0627\u0626\u0632\u0629 \u0646\u0648\u0628\u0644 \u0644\u0644\u0633\u0644\u0627\u0645 \u0645\u0646\u0627\u0635\u0641\u0629 \u0645\u0639 \u0641\u0631\u064A\u062F\u0631\u064A\u0643 \u0628\u0627\u0633 \u0645\u0646 \u0641\u0631\u0646\u0633\u0627 \u0633\u0646\u0629 1901\u0645."@ar ;
+	dbo:birthName	"Jean-Henri Dunant"@en ;
+	dbo:birthYear	"1828"^^xsd:gYear ;
+	dbo:deathYear	"1910"^^xsd:gYear ;
+	dbo:occupation	dbr:Henry_Dunant__PersonFunction__1 ,
+		dbr:Businessperson ;
+	dbo:wikiPageLength	"30029"^^xsd:nonNegativeInteger ;
+	dbp:nativeName	"Henri Dunant"@en .
+dbr:Humanitarian_aid	dbo:wikiPageWikiLink	dbr:Henry_Dunant .
+dbr:RABDe_500	dbo:wikiPageWikiLink	dbr:Henry_Dunant .
+dbr:Emblems_of_the_International_Red_Cross_and_Red_Crescent_Movement	dbo:wikiPageWikiLink	dbr:Henry_Dunant .
+dbr:List_of_peace_activists	dbo:wikiPageWikiLink	dbr:Henry_Dunant .
+dbr:December_1901	dbo:wikiPageWikiLink	dbr:Henry_Dunant .
+dbr:History_of_human_rights	dbo:wikiPageWikiLink	dbr:Henry_Dunant .
+dbr:British_Red_Cross	dbo:wikiPageWikiLink	dbr:Henry_Dunant .
+dbr:Epitopoietic_Research_Corporation	dbo:wikiPageWikiLink	dbr:Henry_Dunant .
+dbr:Timeline_of_events_in_humanitarian_relief_and_development	dbo:wikiPageWikiLink	dbr:Henry_Dunant .
+dbr:Tomsk_State_University	dbo:wikiPageWikiLink	dbr:Henry_Dunant .
+dbr:Second_Italian_War_of_Independence	dbo:wikiPageWikiLink	dbr:Henry_Dunant .
+dbr:Louis_Appia	dbo:wikiPageWikiLink	dbr:Henry_Dunant .
+<http://dbpedia.org/resource/1822_in_France>	dbo:wikiPageWikiLink	dbr:Henry_Dunant .
+dbr:Castiglione_delle_Stiviere	dbo:wikiPageWikiLink	dbr:Henry_Dunant .
+dbr:Paul_Passy	dbo:wikiPageWikiLink	dbr:Henry_Dunant .
+dbr:La_Celle-Saint-Cloud	dbo:wikiPageWikiLink	dbr:Henry_Dunant .
+dbr:Man_to_Men	dbo:wikiPageWikiLink	dbr:Henry_Dunant .
+dbr:Honduran_Red_Cross	dbo:wikiPageWikiLink	dbr:Henry_Dunant .
+dbr:List_of_people_on_the_postage_stamps_of_Ireland	dbo:wikiPageWikiLink	dbr:Henry_Dunant .
+dbr:Jean-Louis_Barrault	dbo:wikiPageWikiLink	dbr:Henry_Dunant .
+<http://dbpedia.org/resource/1828>	dbo:wikiPageWikiLink	dbr:Henry_Dunant .
+<http://dbpedia.org/resource/1828_in_science>	dbo:wikiPageWikiLink	dbr:Henry_Dunant .
+dbr:List_of_Nobel_laureates_by_country	dbo:wikiPageWikiLink	dbr:Henry_Dunant .
+dbr:List_of_agnostics	dbo:wikiPageWikiLink	dbr:Henry_Dunant .
+dbr:List_of_biographical_films	dbo:wikiPageWikiLink	dbr:Henry_Dunant .
+dbr:Dar_El_Bey	dbo:wikiPageWikiLink	dbr:Henry_Dunant .
+dbr:List_of_people_on_the_postage_stamps_of_Paraguay	dbo:wikiPageWikiLink	dbr:Henry_Dunant .
+dbr:List_of_people_on_the_postage_stamps_of_Fiji	dbo:wikiPageWikiLink	dbr:Henry_Dunant .
+dbr:List_of_people_on_the_postage_stamps_of_Saint_Kitts	dbo:wikiPageWikiLink	dbr:Henry_Dunant .
+dbr:List_of_people_on_the_postage_stamps_of_Malta	dbo:wikiPageWikiLink	dbr:Henry_Dunant .
+dbr:List_of_people_on_the_postage_stamps_of_the_Bahamas	dbo:wikiPageWikiLink	dbr:Henry_Dunant .
+<http://dbpedia.org/resource/Queen_Elizabeth_II_(painting)>	dbo:wikiPageWikiLink	dbr:Henry_Dunant .
+dbr:List_of_people_on_the_postage_stamps_of_Eswatini	dbo:wikiPageWikiLink	dbr:Henry_Dunant .
+dbr:List_of_people_on_the_postage_stamps_of_El_Salvador	dbo:wikiPageWikiLink	dbr:Henry_Dunant .
+dbr:Culoz	dbo:wikiPageWikiLink	dbr:Henry_Dunant .
+dbr:Ernst_Deutsch	dbo:wikiPageWikiLink	dbr:Henry_Dunant .
+<http://dbpedia.org/resource/Allgemeine_Allianz_f\u00FCr_Ordnung_und_Zivilisation>	dbo:wikiPageWikiLink	dbr:Henry_Dunant .
+dbr:List_of_Swiss_people	dbo:wikiPageWikiLink	dbr:Henry_Dunant .
+dbr:Nobel_Prize	dbo:wikiPageWikiLink	dbr:Henry_Dunant .
+dbr:Philanthropy	dbo:wikiPageWikiLink	dbr:Henry_Dunant .
+<http://dbpedia.org/resource/Norman_Bethune_Sr.>	dbo:wikiPageWikiLink	dbr:Henry_Dunant .
+dbr:Guillaume_Henri_Dufour	dbo:wikiPageWikiLink	dbr:Henry_Dunant .
+dbr:Pathum_Wan_District	dbo:wikiPageWikiLink	dbr:Henry_Dunant .
+dbr:Dufourspitze	dbo:wikiPageWikiLink	dbr:Henry_Dunant .
+dbr:Coins_of_the_Swiss_franc	dbo:wikiPageWikiLink	dbr:Henry_Dunant .
+dbr:List_of_mountains_of_Switzerland_named_after_people	dbo:wikiPageWikiLink	dbr:Henry_Dunant .
+dbr:Dunantspitze	dbo:wikiPageWikiLink	dbr:Henry_Dunant .
+dbr:Raynold_Kaufgetz	dbo:wikiPageWikiLink	dbr:Henry_Dunant .
+dbr:Swiss_Red_Cross	dbo:wikiPageWikiLink	dbr:Henry_Dunant .
+dbr:Andreas_Voutsinas	dbo:wikiPageWikiLink	dbr:Henry_Dunant .
+<http://dbpedia.org/resource/Pierre-Fran\u00E7ois,_Marquess_of_Roug\u00E9>	dbo:wikiPageWikiLink	dbr:Henry_Dunant .
+<http://dbpedia.org/resource/Fr\u00E9d\u00E9ric_Passy>	dbo:wikiPageWikiLink	dbr:Henry_Dunant .
+<http://dbpedia.org/resource/Meanings_of_minor_planet_names:_1001\u20132000>	dbo:wikiPageWikiLink	dbr:Henry_Dunant .
+dbr:List_of_people_on_the_postage_stamps_of_Switzerland	dbo:wikiPageWikiLink	dbr:Henry_Dunant .
+dbr:Coat_of_arms_of_Tunisia	dbo:wikiPageWikiLink	dbr:Henry_Dunant .
+dbr:Henry_Dunant_Medal	dbo:wikiPageWikiLink	dbr:Henry_Dunant .
+dbr:Henry_Dunant_Museum	dbo:wikiPageWikiLink	dbr:Henry_Dunant .
+dbr:Protected_persons	dbo:wikiPageWikiLink	dbr:Henry_Dunant .
+dbr:Red_Cross_service	dbo:wikiPageWikiLink	dbr:Henry_Dunant .
+dbr:Norwegian_Nobel_Committee	dbo:wikiPageWikiLink	dbr:Henry_Dunant .
+dbr:October_1910	dbo:wikiPageWikiLink	dbr:Henry_Dunant .
+dbr:List_of_Swiss_inventors_and_discoverers	dbo:wikiPageWikiLink	dbr:Henry_Dunant .
+dbr:Henri_Dunant	dbo:wikiPageWikiLink	dbr:Henry_Dunant ;
+	dbo:wikiPageRedirects	dbr:Henry_Dunant .
+dbr:John_Henri_Dunant	dbo:wikiPageWikiLink	dbr:Henry_Dunant ;
+	dbo:wikiPageRedirects	dbr:Henry_Dunant .
+dbr:Grave_of_Henry_Dunant	dbo:wikiPageWikiLink	dbr:Henry_Dunant ;
+	dbo:wikiPageRedirects	dbr:Henry_Dunant .
+<http://dbpedia.org/resource/Grave_of_Henry_Dunant,_Founder_of_the_Red_Cross_Movement>	dbo:wikiPageWikiLink	dbr:Henry_Dunant ;
+	dbo:wikiPageRedirects	dbr:Henry_Dunant .
+dbr:Dunant	dbo:wikiPageWikiLink	dbr:Henry_Dunant ;
+	dbo:wikiPageDisambiguates	dbr:Henry_Dunant .
+dbr:Jean-Henri_Dunant	dbo:wikiPageWikiLink	dbr:Henry_Dunant ;
+	dbo:wikiPageRedirects	dbr:Henry_Dunant .
+dbr:Jean_Dunant	dbo:wikiPageWikiLink	dbr:Henry_Dunant ;
+	dbo:wikiPageRedirects	dbr:Henry_Dunant .
+<http://dbpedia.org/resource/Jean_H._Dunant>	dbo:wikiPageWikiLink	dbr:Henry_Dunant ;
+	dbo:wikiPageRedirects	dbr:Henry_Dunant .
+dbr:Jean_Henri_Dunant	dbo:wikiPageWikiLink	dbr:Henry_Dunant ;
+	dbo:wikiPageRedirects	dbr:Henry_Dunant .
+dbr:Jean_Henry_Dunant	dbo:wikiPageWikiLink	dbr:Henry_Dunant ;
+	dbo:wikiPageRedirects	dbr:Henry_Dunant .
+dbr:Alpen_Rose	dbo:wikiPageWikiLink	dbr:Henry_Dunant .
+dbr:Paris_Basis	dbo:wikiPageWikiLink	dbr:Henry_Dunant .
+dbr:Pyrophone	dbo:wikiPageWikiLink	dbr:Henry_Dunant .
+dbr:Battle_of_Solferino	dbo:wikiPageWikiLink	dbr:Henry_Dunant .

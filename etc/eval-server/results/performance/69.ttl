@@ -1,0 +1,1103 @@
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+<http://dbpedia.org/resource/1916>	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+<http://dbpedia.org/resource/1950>	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+<http://dbpedia.org/resource/1934>	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:Paper_money_of_the_Qing_dynasty	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+<http://dbpedia.org/resource/Charles_W._Sawyer>	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:Grace_Communion_International	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:Pueblo_of_Isleta	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:Pablo_Abeita	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:Belgian_stay-behind_network	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+<http://dbpedia.org/resource/\u00C9mile_Francqui>	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:Karen_Joubert_Cordier	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:Ingrid_of_Sweden	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+<http://dbpedia.org/resource/Sequim,_Washington>	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:Packard_One-Twenty	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:Beatrix_of_the_Netherlands	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:Frederick_IX_of_Denmark	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:Eggert_Reeder	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+<http://dbpedia.org/resource/Duchess_of_Brabant_(by_marriage)>	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:Count_of_Hainaut	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:List_of_consorts_of_Luxembourg	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:CICM_Missionaries	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+<http://dbpedia.org/resource/Exposition_internationale_de_l\u0027eau>	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+<http://dbpedia.org/resource/Elisabeth_van_der_Noot_d\u0027Assche>	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:Henri_Baels	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:Henri_Moreau_de_Melen	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+<http://dbpedia.org/resource/Prince_Leopold,_Duke_of_Brabant>	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:Jean_Duvieusart	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Jean_Duvieusart	dbp:monarch	dbr:Leopold_III_of_Belgium .
+dbr:Joseph_Pholien	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium ;
+	dbp:monarch	dbr:Leopold_III_of_Belgium .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+wikipedia-en:Leopold_III_of_Belgium	foaf:primaryTopic	dbr:Leopold_III_of_Belgium .
+<http://dbpedia.org/resource/Prince_Henry,_Duke_of_Gloucester>	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+<http://dbpedia.org/resource/Saint-Louis_University,_Brussels>	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:Wijnendale_Castle	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:Gstaad_Palace	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:Godfried_Danneels	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+<http://dbpedia.org/resource/2019\u201320_Belgian_government_formation>	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:Burial_sites_of_European_monarchs_and_consorts	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:The_March_of_Time	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+<http://dbpedia.org/resource/Ferrari_250_GT_Coup\u00E9>	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+<http://dbpedia.org/resource/Andr\u00E9_Renard>	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:British_Memorial_School	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:King_Leopold_III	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium ;
+	dbo:wikiPageRedirects	dbr:Leopold_III_of_Belgium .
+dbr:King_Leopold_III_of_the_Belgians	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium ;
+	dbo:wikiPageRedirects	dbr:Leopold_III_of_Belgium .
+<http://dbpedia.org/resource/L\u00E9opold_III_King_of_the_Belgians>	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium ;
+	dbo:wikiPageRedirects	dbr:Leopold_III_of_Belgium .
+<http://dbpedia.org/resource/L\u00E9opold_III_of_Belgium>	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium ;
+	dbo:wikiPageRedirects	dbr:Leopold_III_of_Belgium .
+dbr:Henri_Denis	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:Leopold_III	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium ;
+	dbo:wikiPageDisambiguates	dbr:Leopold_III_of_Belgium .
+<http://dbpedia.org/resource/Marie-Christine_(given_name)>	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:Leopold_III_King_of_the_Belgians	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium ;
+	dbo:wikiPageRedirects	dbr:Leopold_III_of_Belgium .
+dbr:Princess_Marie-Christine	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium ;
+	dbo:wikiPageRedirects	dbr:Leopold_III_of_Belgium .
+<http://dbpedia.org/resource/Leopold_III,_King_of_the_Belgians>	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium ;
+	dbo:wikiPageRedirects	dbr:Leopold_III_of_Belgium .
+dbr:Leopold_III_of_the_Belgians	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium ;
+	dbo:wikiPageRedirects	dbr:Leopold_III_of_Belgium .
+dbr:May_1962	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:Christian_X_of_Denmark	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+<http://dbpedia.org/resource/E._H._Carr>	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:List_of_state_leaders_in_1946	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:List_of_state_leaders_in_1948	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+<http://dbpedia.org/resource/Gilbert_Monckton,_2nd_Viscount_Monckton_of_Brenchley>	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:Archibald_Alexander_Gordon	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:Leopold	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium ;
+	dbo:wikiPageDisambiguates	dbr:Leopold_III_of_Belgium .
+dbr:Lange_Max_Museum	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:Charles_de_Broqueville	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium ;
+	dbp:monarch	dbr:Leopold_III_of_Belgium .
+dbr:Paul_van_Zeeland	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium ;
+	dbp:monarch	dbr:Leopold_III_of_Belgium .
+dbr:Descendants_of_Miguel_I_of_Portugal	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg>	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+<http://dbpedia.org/resource/Timeline_of_World_War_II_(1940)>	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+<http://dbpedia.org/resource/L\u00E9o_P\u00E9tillon>	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium ;
+	dbp:monarch	dbr:Leopold_III_of_Belgium .
+dbr:King_Baudouin_Stadium	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+<http://dbpedia.org/resource/Lilian,_Princess_of_R\u00E9thy>	dbo:spouse	dbr:Leopold_III_of_Belgium ;
+	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium ;
+	dbp:spouse	dbr:Leopold_III_of_Belgium .
+<http://dbpedia.org/resource/Jacques_Cartier_(jeweler)>	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+<http://dbpedia.org/resource/Secret_Army_(Belgium)>	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium ;
+	dbp:ideology	dbr:Leopold_III_of_Belgium .
+dbr:Ferrari_America	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:Prince_Leopold	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:Princess_Marie	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium ;
+	dbo:wikiPageDisambiguates	dbr:Leopold_III_of_Belgium .
+dbr:Queen_Fabiola_of_Belgium	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:Flag_of_the_Vice_President_of_the_United_States	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:Esmond_Ovey	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:Harald_V_of_Norway	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:The_War_That_Came_Early	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:Russell_Page	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:July_16	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:September_25	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+<http://dbpedia.org/resource/1901>	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+<http://dbpedia.org/resource/1983>	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:February_23	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:November_3	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+<http://dbpedia.org/resource/Thomas_H._Ince>	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:Belgian_Congo_in_World_War_II	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+<http://dbpedia.org/resource/Gat\u00FAn>	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+<http://dbpedia.org/resource/USS_Aylwin_(DD-355)>	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:House_of_Limburg-Stirum	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+<http://dbpedia.org/resource/Eug\u00E8ne_Jungers>	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium ;
+	dbp:monarch	dbr:Leopold_III_of_Belgium .
+<http://dbpedia.org/resource/1945_in_Belgium>	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+<http://dbpedia.org/resource/1946_in_Belgium>	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+<http://dbpedia.org/resource/1947_in_Belgium>	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+<http://dbpedia.org/resource/1949_in_Belgium>	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+<http://dbpedia.org/resource/1950_in_Belgium>	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+<http://dbpedia.org/resource/1926_in_Belgium>	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+<http://dbpedia.org/resource/1935_in_Belgium>	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+<http://dbpedia.org/resource/1938_in_Belgium>	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+<http://dbpedia.org/resource/1941_in_Belgium>	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+<http://dbpedia.org/resource/Gr\u00E2ce-Hollogne>	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+<http://dbpedia.org/resource/1901_in_Belgium>	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+<http://dbpedia.org/resource/Maritime_Medal_1940\u20131945>	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+<http://dbpedia.org/resource/1939_Belgian_general_election>	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+<http://dbpedia.org/resource/Minister_of_the_Colonies_(Belgium)>	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+<http://dbpedia.org/resource/1942_in_Belgium>	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+<http://dbpedia.org/resource/1943_in_Belgium>	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:Renardism	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+<http://dbpedia.org/resource/1983_in_Belgium>	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+<http://dbpedia.org/resource/Regiment_Carabiniers_Prins_Boudewijn_\u2013_Grenadiers>	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:Belgium	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:World_War_II_by_country	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+<http://dbpedia.org/resource/20th-century_events>	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+<http://dbpedia.org/resource/1951>	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:Foreign_relations_of_the_Axis_powers	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:November_1916	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:Minority_government	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:Mechelen_incident	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:List_of_Knights_of_the_Golden_Fleece	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:Remilitarization_of_the_Rhineland	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:List_of_state_leaders_in_1938	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:List_of_state_leaders_in_1939	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:List_of_state_leaders_in_1940	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+<http://dbpedia.org/resource/Waterloo,_Belgium>	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:October_1949	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:July_1945	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+<http://dbpedia.org/resource/Elisabeth_of_Bavaria,_Queen_of_Belgium>	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium ;
+	dbo:child	dbr:Leopold_III_of_Belgium .
+dbr:Raoni_Metuktire	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:Unworthy	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:List_of_people_on_the_postage_stamps_of_Belgium	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+<http://dbpedia.org/resource/106th_Cavalry_Regiment>	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+<http://dbpedia.org/resource/Royal_Crypt_(Belgium)>	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:Church_of_Our_Lady_of_Laeken	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:Julien_Lahaut	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:Sonder-_und_Ehrenhaft	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:Lake_Leopoldo	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:Seymour_Dunn	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:Battle_of_Dunkirk	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:Home_front_during_World_War_II	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+<http://dbpedia.org/resource/\u00C4lvsborg_Fortress>	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:Allies_of_World_War_II	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+<http://dbpedia.org/resource/Roger_Keyes,_1st_Baron_Keyes>	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+<http://dbpedia.org/resource/Adelaide_of_L\u00F6wenstein-Wertheim-Rosenberg>	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:Royalist	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:House_of_Saxe-Coburg_and_Gotha	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:Radio_Belgique	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:Monarchies_in_Europe	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:November_1901	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+<http://dbpedia.org/resource/1940>	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+<http://dbpedia.org/resource/Princess_Marie-Esm\u00E9ralda_of_Belgium>	dbo:parent	dbr:Leopold_III_of_Belgium ;
+	dbp:father	dbr:Leopold_III_of_Belgium ;
+	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:Albert_I_of_Belgium	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium ;
+	dbp:successor	dbr:Leopold_III_of_Belgium ;
+	dbo:successor	dbr:Leopold_III_of_Belgium ;
+	dbo:child	dbr:Leopold_III_of_Belgium ;
+	dbp:issue	dbr:Leopold_III_of_Belgium .
+dbr:United_States_involvement_in_regime_change	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:Battle_of_Belgium	dbo:commander	dbr:Leopold_III_of_Belgium ;
+	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:Battle_of_France	dbo:commander	dbr:Leopold_III_of_Belgium ;
+	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:List_of_honorary_British_knights_and_dames	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:List_of_traffic_collisions	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:Free_Belgian_forces	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:Baudouin_of_Belgium	dbo:parent	dbr:Leopold_III_of_Belgium ;
+	dbp:father	dbr:Leopold_III_of_Belgium ;
+	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium ;
+	dbp:predecessor	dbr:Leopold_III_of_Belgium ;
+	dbo:predecessor	dbr:Leopold_III_of_Belgium .
+dbr:Belgian_prisoners_of_war_in_World_War_II	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:Belgium_in_World_War_II	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:List_of_Knights_of_the_Royal_Order_of_the_Seraphim	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+<http://dbpedia.org/resource/La_Libre_Belgique_(1940\u201344)>	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:List_of_Knights_of_the_Order_of_the_Elephant	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:SS_Abukir	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:List_of_strikes	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:Dunkirk	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:Hubert_Pierlot	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium ;
+	dbp:monarch	dbr:Leopold_III_of_Belgium .
+dbr:History_of_Belgium	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:Jean_De_Bast	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:Charles_de_Limburg_Stirum	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:Constitutional_crisis	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:Coronation_of_George_VI_and_Elizabeth	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:Allied_leaders_of_World_War_II	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:List_of_governments_in_exile_during_World_War_II	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:List_of_state_leaders_in_1934	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:List_of_state_leaders_in_1935	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:List_of_state_leaders_in_1936	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:List_of_state_leaders_in_1937	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:List_of_state_leaders_in_1947	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:List_of_state_leaders_in_1949	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:List_of_state_leaders_in_1951	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:Paul-Henri_Spaak	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium ;
+	dbp:monarch	dbr:Leopold_III_of_Belgium .
+dbr:Vickers_T-15_light_tank	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:Eton_College	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+<http://dbpedia.org/resource/Pierre_Ryckmans_(governor-general)>	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium ;
+	dbp:monarch	dbr:Leopold_III_of_Belgium .
+dbr:Ploegsteert_Memorial_to_the_Missing	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+<http://dbpedia.org/resource/Western_Front_(World_War_II)>	dbo:commander	dbr:Leopold_III_of_Belgium ;
+	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:List_of_monarchs_who_lost_their_thrones_in_the_20th_century	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+<http://dbpedia.org/resource/List_of_state_leaders_in_the_20th_century_(1901\u20131950)>	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+<http://dbpedia.org/resource/List_of_state_leaders_in_the_20th_century_(1951\u20132000)>	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:Head_of_state	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:October_1945	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:Melek_Tourhan	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:Order_of_battle_for_the_Battle_of_France	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:Marcel-Henri_Jaspar	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium ;
+	dbp:monarch	dbr:Leopold_III_of_Belgium .
+dbr:July_1950	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:June_1945	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+<http://dbpedia.org/resource/Timeline_of_World_War_II_(1944)>	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:Timeline_of_the_Battle_of_France	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+<http://dbpedia.org/resource/5th_Royal_Inniskilling_Dragoon_Guards>	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:Military_history_of_France_during_World_War_II	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+<http://dbpedia.org/resource/Mary_O\u0027Kelly_de_Galway>	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:Gaston_Billotte	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+<http://dbpedia.org/resource/Battle_of_Arras_(1940)>	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+<http://dbpedia.org/resource/Ch\u00E2teau_de_Montal>	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+<http://dbpedia.org/resource/H\u00F4tel_d\u0027Europe>	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+<http://dbpedia.org/resource/Paul-\u00C9mile_Janson>	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium ;
+	dbp:monarch	dbr:Leopold_III_of_Belgium .
+dbr:Paul_Hoornaert	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:Robert_Aron	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+<http://dbpedia.org/resource/Leszczy\u0144ski>	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+<http://dbpedia.org/resource/1936_in_Belgium>	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+<http://dbpedia.org/resource/1937_in_Belgium>	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+<http://dbpedia.org/resource/1939_in_Belgium>	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:Strobl	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:Prince_Alexandre_of_Belgium	dbo:parent	dbr:Leopold_III_of_Belgium ;
+	dbp:father	dbr:Leopold_III_of_Belgium ;
+	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:Princess_Astrid_of_Belgium	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:Infanta_Maria_Josepha_of_Portugal	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:List_of_Belgian_monarchs	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+<http://dbpedia.org/resource/Prince_of_Li\u00E8ge>	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:Order_of_the_African_Star	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:Hirschstein	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:Coat_of_arms_of_Belgium	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:Succession_to_the_Belgian_throne	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:King_Leopold_III_of_Belgium	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium ;
+	dbo:wikiPageRedirects	dbr:Leopold_III_of_Belgium .
+<http://dbpedia.org/resource/1934_in_Belgium>	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:List_of_Belgian_consorts	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:List_of_Belgian_flags	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:Prince_of_Saxe-Coburg_and_Gotha	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:Family_tree_of_Belgian_monarchs	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:List_of_members_of_the_House_of_Wettin	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:List_of_heirs_to_the_Belgian_throne	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:Senator_by_right	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:Duke_of_Brabant	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:Cercle_Gaulois	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+<http://dbpedia.org/resource/Place_Royale,_Brussels>	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+<http://dbpedia.org/resource/List_of_botanists_by_author_abbreviation_(S)>	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:Little_Ships_of_Dunkirk	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+<http://dbpedia.org/resource/1951_in_Belgium>	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:Remy_Van_Lierde	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+<http://dbpedia.org/resource/1944_in_Belgium>	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+<http://dbpedia.org/resource/Li\u00E8ge_Medal>	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:Oscar_Michiels	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:The_Just_Judges	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:Princess_Margaretha_of_Liechtenstein	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:List_of_Nassau_consorts	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+<http://dbpedia.org/resource/Gooding_&_Company>	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:La_Fleur_du_Cap	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:Archduchess_Marie_Astrid_of_Austria	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+<http://dbpedia.org/resource/Charles_Marie_Raymond_d\u0027Arenberg>	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:Batterie_Pommern	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:Jozef_Raskin	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+<http://dbpedia.org/resource/Paul_Colin_(journalist)>	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:First_Lady_of_Portugal	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+<http://dbpedia.org/resource/Index_of_World_War_II_articles_(L)>	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:Belgian_Congo	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium ;
+	dbp:leader	dbr:Leopold_III_of_Belgium .
+dbr:Leopold_dtella	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+<http://dbpedia.org/resource/Order_of_Leopold_(Belgium)>	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+<http://dbpedia.org/resource/Croix_de_guerre_(Belgium)>	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:February_1934	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:Willem_van_der_Does	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+<http://dbpedia.org/resource/Battle_of_the_Lys_(1940)>	dbo:commander	dbr:Leopold_III_of_Belgium ;
+	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:Georges_Theunis	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium ;
+	dbp:monarch	dbr:Leopold_III_of_Belgium .
+dbr:Belgian_nobility	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:Duke	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:List_of_Old_Etonians_born_in_the_20th_century	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+<http://dbpedia.org/resource/Ernst_Sch\u00E4fer>	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:Father_Damien	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:Vinkt_massacre	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:List_of_Commonwealth_War_Graves_Commission_World_War_I_memorials_to_the_missing_in_Belgium_and_France	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:Arthur_George_Knight	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:Oswald_Mosley	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+<http://dbpedia.org/resource/Order_of_the_Crown_(Belgium)>	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:List_of_recipients_of_the_Royal_Victorian_Chain	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:Wedding_of_Princess_Elizabeth_and_Philip_Mountbatten	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:Queen_mother	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:November_1939	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:List_of_Knights_and_Ladies_of_the_Garter	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+<http://dbpedia.org/resource/List_of_covers_of_Time_magazine_(1930s)>	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:Royal_descendants_of_John_William_Friso	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:Order_of_Carol_I	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:Order_of_the_Royal_House_of_Chakri	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:List_of_state_leaders_in_1950	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:List_of_princesses_of_Sweden	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:Royal_intermarriage	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:Order_of_Leopold_II	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:List_of_state_leaders_in_1945	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:List_of_regents	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg>	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:List_of_people_on_coins	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:List_of_people_on_the_postage_stamps_of_the_Democratic_Republic_of_the_Congo	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:Sash_of_the_Three_Orders	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:Prince_regent	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+<http://dbpedia.org/resource/Princess_Jos\u00E9phine_Charlotte_of_Belgium>	dbp:father	dbr:Leopold_III_of_Belgium ;
+	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Leopold_III_of_Belgium	rdf:type	yago:LivingThing100004258 ,
+		yago:CausalAgent100007347 ,
+		dbo:Agent ,
+		yago:Noble110271677 ,
+		yago:MaleAristocrat110285135 ,
+		yago:Leader109623038 ,
+		yago:Aristocrat109807754 ,
+		yago:Holder110180178 ,
+		yago:YagoLegalActor ,
+		yago:YagoLegalActorGeo ,
+		yago:Whole100003553 ,
+		yago:Person100007846 ,
+		yago:PhysicalEntity100001930 ,
+		yago:Organism100004475 ,
+		dbo:Person ,
+		yago:Object100002684 ,
+		yago:WikicatWorldWarIIPoliticalLeaders ,
+		yago:Ruler110541229 ,
+		dbo:Royalty ,
+		yago:Prince110472799 .
+@prefix schema:	<http://schema.org/> .
+dbr:Leopold_III_of_Belgium	rdf:type	schema:Person ,
+		yago:WikicatBelgianPeopleOfPortugueseDescent ,
+		yago:WikicatBelgianEntomologists ,
+		yago:Scientist110560637 ,
+		yago:HeadOfState110164747 ,
+		yago:Negotiator110351874 ,
+		yago:Representative110522035 ,
+		yago:Communicator109610660 ,
+		yago:WikicatKnightsOfTheGarter ,
+		yago:Knight110238375 ,
+		yago:WikicatDukesOfBrabant ,
+		foaf:Person .
+@prefix umbel-rc:	<http://umbel.org/umbel/rc/> .
+dbr:Leopold_III_of_Belgium	rdf:type	umbel-rc:RoyalFamily ,
+		umbel-rc:PersonWithOccupation ,
+		yago:WikicatPeopleEducatedAtEtonCollege ,
+		yago:Duke110038620 ,
+		yago:WikicatPrincesOfSaxe-CoburgAndGotha ,
+		yago:WikicatBelgianPrinces ,
+		yago:WikicatBelgianRoyalPrinces ,
+		yago:WikicatBelgianPeopleOfGermanDescent ,
+		yago:WikicatBelgianMonarchs ,
+		yago:WikicatPeopleFromBrussels ,
+		yago:WikicatBelgianPeople .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Leopold_III_of_Belgium	rdf:type	wikidata:Q5 ,
+		wikidata:Q24229398 ,
+		yago:WikicatKnightsOfTheElephant ,
+		yago:WikicatKnightsOfTheGoldenFleece ,
+		yago:WikicatKnightsOfMalta .
+@prefix ns10:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Leopold_III_of_Belgium	rdf:type	ns10:NaturalPerson ,
+		ns10:Agent ,
+		yago:WikicatPeopleOfWorldWarI ,
+		wikidata:Q215627 ,
+		yago:Sovereign110628644 ,
+		yago:WikicatKnightsOfTheOrderOfTheMostHolyAnnunciation ,
+		yago:WikicatMonarchsWhoAbdicated ,
+		yago:WikicatRomanCatholicMonarchs ,
+		yago:WikicatBelgianPeopleOfWorldWarII ,
+		yago:Entomologist110059904 ,
+		yago:Worker109632518 ,
+		yago:SkilledWorker110605985 ,
+		yago:Politician110450303 ,
+		yago:Owner110389398 ,
+		yago:Peer110412910 ,
+		yago:Officeholder110371450 ,
+		yago:Official110372373 .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Leopold_III_of_Belgium	rdf:type	owl:Thing ,
+		yago:Biologist109855630 ,
+		yago:Zoologist110806222 .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Leopold_III_of_Belgium	rdfs:label	"\u041B\u0435\u043E\u043F\u043E\u043B\u044C\u0434 III (\u043A\u043E\u0440\u043E\u043B\u044C \u0411\u0435\u043B\u044C\u0433\u0438\u0438)"@ru ,
+		"Leopold III de B\u00E8lgica"@ca ,
+		"\u041B\u0435\u043E\u043F\u043E\u043B\u044C\u0434 III (\u043A\u043E\u0440\u043E\u043B\u044C \u0411\u0435\u043B\u044C\u0433\u0456\u0457)"@uk ,
+		"Leopold III Koburg"@pl ,
+		"\u30EC\u30AA\u30DD\u30EB\u30C93\u4E16 (\u30D9\u30EB\u30AE\u30FC\u738B)"@ja ,
+		"L\u00E9opold III (roi des Belges)"@fr ,
+		"Leopold III dari Belgia"@in ,
+		"Leopoldo III del Belgio"@it ,
+		"Leopoldo III.a Belgikakoa"@eu ,
+		"\uB808\uC624\uD3F4 3\uC138"@ko ,
+		"\u0644\u064A\u0648\u0628\u0648\u0644\u062F \u0627\u0644\u062B\u0627\u0644\u062B \u0645\u0644\u0643 \u0628\u0644\u062C\u064A\u0643\u0627"@ar ,
+		"Leopold III av Belgien"@sv ,
+		"\u5229\u5965\u6CE2\u5FB7\u4E09\u4E16 (\u6BD4\u5229\u65F6)"@zh ,
+		"Leopoldo III da B\u00E9lgica"@pt ,
+		"Leopoldo la 3-a (Belgio)"@eo ,
+		"Leopold III. Belgick\u00FD"@cs ,
+		"Leopold III van Belgi\u00EB"@nl ,
+		"\u039B\u03B5\u03BF\u03C0\u03CC\u03BB\u03B4\u03BF\u03C2 \u0393\u0384 \u03C4\u03BF\u03C5 \u0392\u03B5\u03BB\u03B3\u03AF\u03BF\u03C5"@el ,
+		"Leopold III of Belgium"@en ,
+		"Leopoldo III de B\u00E9lgica"@es ,
+		"Leopold III. (Belgien)"@de ,
+		"Leopold III na Beilge"@ga ;
+	rdfs:comment	"\uB808\uC624\uD3F4 3\uC138(Leopold III, 1901\uB144 11\uC6D4 3\uC77C ~ 1983\uB144 9\uC6D4 25\uC77C)\uB294 \uBCA8\uAE30\uC5D0\uC758 \uAD6D\uC655(1934~1951)\uC774\uBA70, \uC81C2\uCC28 \uC138\uACC4\uB300\uC804 \uB3D9\uC548\uC5D0 \uBCA8\uAE30\uC5D0\uAD70\uC758 \uCD5C\uACE0 \uC0AC\uB839\uAD00\uC73C\uB85C \uD65C\uC57D\uD558\uC600\uB2E4."@ko ,
+		"\u041B\u0435\u043E\u043F\u043E\u043B\u044C\u0434 III (\u043F\u043E\u043B\u043D\u043E\u0435 \u0438\u043C\u044F \u0424\u0438\u043B\u0438\u043F\u043F \u041B\u0435\u043E\u043F\u043E\u043B\u044C\u0434 \u0428\u0430\u0440\u043B\u044C \u0410\u043B\u044C\u0431\u0435\u0440 \u041C\u0435\u0438\u043D\u0440\u0430\u0434 \u0425\u0443\u0431\u0435\u0440\u0442 \u041C\u0430\u0440\u0438\u044F \u041C\u0438\u0433\u0435\u043B\u044C, \u0444\u0440. L\u00E9opold Philippe Charles Albert Meinrad Hubertus Marie Miguel, \u043D\u0438\u0434\u0435\u0440\u043B. Leopold Filips Karel Albert Meinrad Hubertus Maria Miguel; 3 \u043D\u043E\u044F\u0431\u0440\u044F 1901[\u2026], \u0411\u0440\u044E\u0441\u0441\u0435\u043B\u044C \u2014 25 \u0441\u0435\u043D\u0442\u044F\u0431\u0440\u044F 1983[\u2026], \u0412\u043E\u043B\u044E\u0432\u0435-\u0421\u0435\u043D-\u041B\u0430\u043C\u0431\u0435\u0440, \u0411\u0440\u044E\u0441\u0441\u0435\u043B\u044C\u0441\u043A\u0438\u0439 \u0441\u0442\u043E\u043B\u0438\u0447\u043D\u044B\u0439 \u0440\u0435\u0433\u0438\u043E\u043D) \u2014 \u043A\u043E\u0440\u043E\u043B\u044C \u0411\u0435\u043B\u044C\u0433\u0438\u0438 \u0441 17 \u0444\u0435\u0432\u0440\u0430\u043B\u044F 1934 \u0433\u043E\u0434\u0430 \u043F\u043E 16 \u0438\u044E\u043B\u044F 1951 \u0433\u043E\u0434\u0430."@ru ,
+		"L\u00E9opold III (L\u00E9opold Philippe Charles Albert Meinrad Hubertus Marie Miguel) (3 novembre 1901 - 25 septembre 1983) est le quatri\u00E8me roi des Belges ; il a r\u00E9gn\u00E9 du 23 f\u00E9vrier 1934 au 16 juillet 1951. Il \u00E9tait le fils d\u2019Albert Ier et d\u2019\u00C9lisabeth en Bavi\u00E8re. L\u00E9opold III a abdiqu\u00E9 au terme de la longue pol\u00E9mique et de la crise nationale suscit\u00E9e par son comportement controvers\u00E9 lors de la Seconde Guerre mondiale."@fr ,
+		"Leopold III. (3. listopadu 1901 v Bruselu \u2013 25. z\u00E1\u0159\u00ED 1983 v ), cel\u00FDm jm\u00E9nem Leopold Filip Karel Albert Meinrad Hubert Maria Miguel (Leopold Philippe Charles Albert Meinrad Hubertus Marie Miguel) vl\u00E1dl jako kr\u00E1l belgick\u00FD v letech 1934\u20131951, kdy musel abdikovat ve prosp\u011Bch sv\u00E9ho syna, n\u00E1sledn\u00EDka tr\u016Fnu Baudouina. Poch\u00E1zel z n\u011Bmeck\u00E9ho \u0161lechtick\u00E9ho rodu kn\u00ED\u017Eec\u00EDho domu Sasko-Kobursk\u00E9ho a Gothajsk\u00E9ho."@cs ,
+		"Leopold III av Belgien, f\u00F6dd 3 november 1901 i Bryssel, d\u00F6d 25 september 1983 i Sint-Lambrechts-Woluwe, var belgarnas kung mellan 1934 och 1951. Han avlade ed som kung den 23 februari 1934. Leopold III var son till Albert I av Belgien och Elisabeth av Bayern."@sv ,
+		"Bh\u00ED Leopold III (3 Samhain 1901 \u2013 25 Me\u00E1n F\u00F3mhair 1983) ina r\u00ED ar an Beilg."@ga ,
+		"\u30EC\u30AA\u30DD\u30EB\u30C93\u4E16\uFF08\u30D5\u30E9\u30F3\u30B9\u8A9E: L\u00E9opold III\u30011901\u5E7411\u67083\u65E5 - 1983\u5E749\u670825\u65E5\uFF09\u306F\u3001\u7B2C4\u4EE3\u30D9\u30EB\u30AE\u30FC\u56FD\u738B\uFF08\u5728\u4F4D\uFF1A1934\u5E74 - 1951\u5E74\uFF09\u3002"@ja ,
+		"Leopold III (Dutch: Leopold Filips Karel Albert Meinrad Hubertus Maria Miguel; French: L\u00E9opold Philippe Charles Albert Meinrad Hubert Marie Michel; German: Leopold Philipp Karl Albrecht Meinrad Hubert Maria Michael; 3 November 1901 \u2013 25 September 1983) was King of the Belgians from 1934 until 1951. On the outbreak of World War II, Leopold tried to maintain Belgian neutrality, but after the German invasion in May 1940, he surrendered his country, earning him much hostility, both at home and abroad."@en ,
+		"Leopold III, w\u0142a\u015Bc. L\u00E9opold Philippe Charles Albert Meinrad Hubertus Marie Miguel (ur. 3 listopada 1901 w Brukseli, zm. 25 wrze\u015Bnia 1983 w Sint-Lambrechts-Woluwe) \u2013 kr\u00F3l Belg\u00F3w w latach 1934\u20131951, z dynastii sasko-koburskiej."@pl ,
+		"Leopold III de B\u00E8lgica (Brussel\u00B7les, 1901 - 1983) va ser rei dels belgues des de 1934 fins a 1951."@ca ,
+		"\u041B\u0435\u043E\u043F\u043E\u043B\u044C\u0434 III (\u0444\u0440. L\u00E9opold Philippe Charles Albert Meinrad Hubertus Marie Miguel, \u043D\u0456\u0434. Leopold Filips Karel Albert Meinrad Hubertus Maria Miguel; 3 \u043B\u0438\u0441\u0442\u043E\u043F\u0430\u0434\u0430 1901 \u2014 25 \u0432\u0435\u0440\u0435\u0441\u043D\u044F 1983) \u2014 \u043A\u043E\u0440\u043E\u043B\u044C \u0411\u0435\u043B\u044C\u0433\u0456\u0457 \u0437 17 \u043B\u044E\u0442\u043E\u0433\u043E 1934 \u0434\u043E 16 \u043B\u0438\u043F\u043D\u044F 1951 \u0440\u043E\u043A\u0443."@uk ,
+		"Leopold III (lahir sebagai L\u00E9opold Philippe Charles Albert Meinrad Hubertus Marie Miguel (bahasa Prancis) atau Leopold Filips Karel Albert Meinrad Hubertus Maria Miguel (bahasa Belanda) atau Leopold Philipp Karl Albert Meinrad Hubertus Maria Miguel (bahasa Jerman); (lahir 3 November 1901 \u2013 meninggal 25 September 1983 pada umur 81 tahun) memerintah sebagai Raja Belgia sejak 1934 hingga 1951, ketika ia menyerahkan takhta kepada pewarisnya, putranya, Baudouin."@in ,
+		"\u039F \u039B\u03B5\u03BF\u03C0\u03CC\u03BB\u03B4\u03BF\u03C2 \u0393\u0384 (Leopold Filips Karel Albert Meinrad Hubertus Maria Miguel, 3 \u039D\u03BF\u03B5\u03BC\u03B2\u03C1\u03AF\u03BF\u03C5 1901 - 25 \u03A3\u03B5\u03C0\u03C4\u03B5\u03BC\u03B2\u03C1\u03AF\u03BF\u03C5 1983) \u03AE\u03C4\u03B1\u03BD \u0392\u03B1\u03C3\u03B9\u03BB\u03B9\u03AC\u03C2 \u03C4\u03C9\u03BD \u0392\u03AD\u03BB\u03B3\u03C9\u03BD \u03B1\u03C0\u03CC \u03C4\u03BF 1934 \u03BC\u03AD\u03C7\u03C1\u03B9 \u03C4\u03BF 1951, \u03CC\u03C4\u03B1\u03BD \u03BA\u03B1\u03B9 \u03C0\u03B1\u03C1\u03B1\u03B9\u03C4\u03AE\u03B8\u03B7\u03BA\u03B5 \u03C5\u03C0\u03AD\u03C1 \u03C4\u03BF\u03C5 \u03B3\u03B9\u03BF\u03C5 \u03C4\u03BF\u03C5 \u0392\u03B1\u03BB\u03B4\u03BF\u03C5\u03AF\u03BD\u03BF\u03C5."@el ,
+		"Leopoldo de Sajonia-Coburgo-Gotha y Wittelsbach (en franc\u00E9s, L\u00E9opold Philippe Charles Albert Meinrad Hubertus Marie Miguel de Saxe-Cobourg et Gotha; Bruselas, 3 de noviembre de 1901 - Woluwe-Saint-Lambert, 25 de septiembre de 1983) fue el cuarto rey de los belgas, entre 1934 y 1951, a\u00F1o en que abdic\u00F3 en su hijo Balduino I de B\u00E9lgica. Su reinado estuvo marcado por la invasi\u00F3n de B\u00E9lgica por la Alemania nazi durante la Segunda Guerra Mundial, a la que Leopoldo apenas ofreci\u00F3 resistencia; la oposici\u00F3n que esto le granje\u00F3 en el p\u00FAblico fue finalmente causa de su abdicaci\u00F3n el 16 de julio de 1951."@es ,
+		"\u0644\u064A\u0648\u0628\u0648\u0644\u062F \u0627\u0644\u062B\u0627\u0644\u062B \u0648\u0644\u062F \u0628\u062A\u0627\u0631\u064A\u062E 3 \u062A\u0634\u0631\u064A\u0646 \u0627\u0644\u062B\u0627\u0646\u064A/\u0646\u0648\u0641\u0645\u0628\u0631 1901 \u0648\u062A\u0648\u0641\u064A \u0628\u062A\u0627\u0631\u064A\u062E 25 \u0623\u064A\u0644\u0648\u0644/\u0633\u0628\u062A\u0645\u0628\u0631 1983 \u0641\u064A \u0628\u0631\u0648\u0643\u0633\u0644. \u0627\u0633\u0645\u0647 \u0627\u0644\u0643\u0627\u0645\u0644 \u0647\u0648 \u0644\u064A\u0648\u0628\u0648\u0644\u062F \u0641\u064A\u0644\u064A\u0628 \u0634\u0627\u0631\u0644 \u0623\u0644\u0628\u064A\u0631 \u0645\u064A\u0646\u0631\u0627\u062F \u0647\u0627\u0628\u064A\u0631\u062A\u0648\u0633 \u0645\u0627\u0631\u064A \u0645\u064A\u062C\u0648\u064A\u0644. \u0631\u0627\u0628\u0639 \u0645\u0644\u0648\u0643 \u0628\u0644\u062C\u064A\u0643\u0627\u060C \u0648\u0643\u0627\u0646 \u062F\u0648\u0631\u0647 \u0643\u0642\u0627\u0626\u062F \u0644\u0644\u062C\u064A\u0634 \u0627\u0644\u0628\u0644\u062C\u064A\u0643\u064A \u0623\u062B\u0646\u0627\u0621 \u0641\u062A\u0631\u0629 \u0627\u0644\u0627\u062D\u062A\u0644\u0627\u0644 \u0627\u0644\u0623\u0644\u0645\u0627\u0646\u064A \u062E\u0644\u0627\u0644 \u0627\u0644\u062D\u0631\u0628 \u0627\u0644\u0639\u0627\u0644\u0645\u064A\u0629 \u0627\u0644\u062B\u0627\u0646\u064A\u0629 \u0642\u062F \u0633\u0628\u0628 \u0627\u0644\u0643\u062B\u064A\u0631 \u0645\u0646 \u0627\u0644\u0644\u063A\u0637\u060C \u0648\u0627\u0644\u0630\u064A \u0623\u062F\u0649 \u0623\u062E\u064A\u0631\u0627 \u0644\u062A\u0646\u062D\u064A\u062A\u0647 \u0639\u0646 \u0627\u0644\u0639\u0631\u0634 \u0639\u0627\u0645 1951 \u0628\u0639\u062F \u0627\u062A\u0647\u0627\u0645\u0647 \u0628\u0627\u0644\u062A\u0639\u0627\u0648\u0646 \u0645\u0639 \u0627\u0644\u0646\u0627\u0632\u064A\u064A\u0646."@ar ,
+		"Leopold III. \u2013 geb\u00FCrtig Prinz Leopold Philippe Charles Albert Meinrad Hubertus Marie Miguel von Belgien, Prinz von Sachsen-Coburg und Gotha, Herzog von Sachsen \u2013 (* 3. November 1901 in Br\u00FCssel; \u2020 25. September 1983 in Sint-Lambrechts-Woluwe) aus dem Adelsgeschlecht Sachsen-Coburg und Gotha war von 1934 bis 1951 K\u00F6nig der Belgier. Die Kritik an Leopold dauerte an, vor allem in Wallonien. Leopold III. lie\u00DF daher am 11. August 1950 seinen Sohn Baudouin den Verfassungseid ablegen. Leopold III. dankte formell am 16. Juli 1951 ab, nachdem Baudouin 21 Jahre alt geworden war."@de ,
+		"Leopoldo III del Belgio, nome completo Leopold Philippe Charles Albert Meinrad Hubertus Marie Miguel de Saxe-Cobourg-Gotha (Bruxelles, 3 novembre 1901 \u2013 Woluwe-Saint-Lambert, 25 settembre 1983), principe del Belgio, duca di Brabante, fu re dei Belgi dal 17 febbraio 1934 al 16 luglio 1951 quando abdic\u00F2 in favore del figlio Baldovino."@it ,
+		"\u5229\u5965\u6CE2\u5FB7\u4E09\u4E16\uFF081901\u5E7411\u67083\u65E5\uFF0D1983\u5E749\u670825\u65E5\uFF09\uFF0C\u5168\u540D\u5229\u5967\u6CE2\u5FB7\u00B7\u83F2\u5229\u666E\u00B7\u67E5\u723E\u65AF\u00B7\u827E\u4F2F\u7279\u00B7\u7C73\u62C9\u5FB7\u00B7\u54C8\u4F2F\u7279\u65AF\u00B7\u746A\u9E97\u00B7\u7C73\u683C\u723E\uFF08\u6CD5\u8A9E\uFF1AL\u00E9opold Philippe Charles Albert Meinrad Hubertus Marie Miguel\uFF1B\u8377\u862D\u8A9E\uFF1ALeopold Filips Karel Albert Meinrad Hubertus Maria Miguel\uFF09\uFF0C1934\u5E74\u20141951\u5E74\u62C5\u4EFB\u6BD4\u5229\u65F6\u56FD\u738B\u3002"@zh ,
+		"Leopold Filips Karel Albert Meinrad Hubertus Maria Miguel (Brussel, 3 november 1901 - Sint-Lambrechts-Woluwe, 25 september 1983) regeerde als koning der Belgen van 1934, na de dood van zijn vader koning Albert I van Belgi\u00EB, tot 1951, toen hij na de koningskwestie troonsafstand deed ten gunste van de kroonprins, zijn oudste zoon Boudewijn."@nl ,
+		"Leopoldo III (Bruxelas, 3 de novembro de 1901 \u2013 Woluwe-Saint-Lambert, 25 de setembro de 1983) foi o Rei dos Belgas de 1934 at\u00E9 sua abdica\u00E7\u00E3o em 1951 em favor de seu filho Baldu\u00EDno da B\u00E9lgica. Era o filho mais velho do rei Alberto I da B\u00E9lgica e de sua esposa, a duquesa Isabel da Baviera."@pt ,
+		"Leopoldo la 3-a, plennome Leopoldo Filipo Karolo Alberto Mejnrado Huberto Mario Mikaelo (naskita la 3-an de novembro 1901 en Bruselo; mortinta la 25-an de septembro 1983) estis re\u011Do de la belgoj de la 23-a de februaro 1934 \u011Dis 1951."@eo ,
+		"Leopoldo III.a Belgikakoa (Brusela, 1901eko azaroaren 3a \u2013 Woluwe-Saint-Lambert, 1983ko irailaren 25a) belgikarren erregea izan zen 1934tik 1951era."@eu ;
+	foaf:name	"Leopold III"@en .
+@prefix ns13:	<http://www.monarchie.be/history/> .
+dbr:Leopold_III_of_Belgium	foaf:homepage	ns13:leopold-iii ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Leopold_III_van_Belgi\u00EB_(1934).jpg> ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Leopold_III_of_Belgium .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Leopold_III_of_Belgium	dct:subject	dbc:Recipients_of_the_Order_of_Brilliant_Jade ,
+		<http://dbpedia.org/resource/Category:Grand_Crosses_of_the_Order_of_Christ_(Portugal)> ,
+		dbc:Recipients_of_the_Grand_Cross_of_the_Order_of_Leopold_II ,
+		<http://dbpedia.org/resource/Category:Grand_Crosses_of_the_Order_of_the_Crown_(Belgium)> ,
+		dbc:Recipients_of_the_Royal_Victorian_Chain ,
+		dbc:Recipients_of_the_Order_of_the_Redeemer ,
+		dbc:Honorary_Knights_Grand_Cross_of_the_Royal_Victorian_Order ,
+		dbc:Knights_Grand_Cross_of_the_Order_of_Saints_Maurice_and_Lazarus ,
+		dbc:Grand_Crosses_with_Diamonds_of_the_Order_of_the_Sun_of_Peru ,
+		dbc:Grand_Crosses_of_the_Order_of_the_Tower_and_Sword ,
+		dbc:Knights_of_the_Golden_Fleece_of_Spain ,
+		dbc:Extra_Knights_Companion_of_the_Garter ,
+		dbc:Recipients_of_the_Order_of_the_Netherlands_Lion ,
+		dbc:Collars_of_the_Order_of_the_White_Lion ,
+		dbc:Belgian_entomologists ,
+		dbc:People_from_Brussels ,
+		dbc:Belgian_people_of_Portuguese_descent ,
+		dbc:People_educated_at_Eton_College ,
+		<http://dbpedia.org/resource/Category:1901_births> ,
+		dbc:Allied_occupation_of_Europe ,
+		<http://dbpedia.org/resource/Category:1983_deaths> ,
+		dbc:Knights_of_the_Holy_Sepulchre ,
+		dbc:Monarchs_who_abdicated ,
+		<http://dbpedia.org/resource/Category:20th-century_Belgian_monarchs> ,
+		dbc:Belgian_people_of_German_descent ,
+		dbc:Belgian_monarchs ,
+		dbc:Princes_of_Saxe-Coburg_and_Gotha ,
+		dbc:Knights_of_Malta ,
+		dbc:Grand_Crosses_of_the_Royal_Order_of_the_Lion ,
+		dbc:Grand_Crosses_of_the_Order_of_the_African_Star ,
+		<http://dbpedia.org/resource/Category:House_of_Saxe-Coburg_and_Gotha_(Belgium)> ,
+		dbc:Burials_at_the_Church_of_Our_Lady_of_Laeken ,
+		dbc:House_of_Belgium ,
+		dbc:Bailiffs_Grand_Cross_of_Honour_and_Devotion_of_the_Sovereign_Military_Order_of_Malta ,
+		dbc:Knights_of_the_Order_of_the_Gold_Lion_of_the_House_of_Nassau ,
+		dbc:World_War_II_political_leaders ,
+		dbc:Belgian_military_personnel_of_World_War_I ,
+		dbc:Belgian_people_of_World_War_II ,
+		dbc:Grand_Crosses_of_the_Order_of_Saint_James_of_the_Sword ,
+		dbc:Grand_Crosses_of_the_Order_of_Aviz ,
+		<http://dbpedia.org/resource/Category:20th-century_zoologists> ,
+		<http://dbpedia.org/resource/Category:Recipients_of_the_Order_of_the_Crown_(Italy)> ,
+		dbc:Dukes_of_Brabant ;
+	owl:sameAs	<http://bg.dbpedia.org/resource/\u041B\u0435\u043E\u043F\u043E\u043B\u0434_III> .
+@prefix dbpedia-ga:	<http://ga.dbpedia.org/resource/> .
+dbr:Leopold_III_of_Belgium	owl:sameAs	dbpedia-ga:Leopold_III_na_Beilge ,
+		<http://he.dbpedia.org/resource/\u05DC\u05D0\u05D5\u05E4\u05D5\u05DC\u05D3_\u05D4\u05E9\u05DC\u05D9\u05E9\u05D9,_\u05DE\u05DC\u05DA_\u05D4\u05D1\u05DC\u05D2\u05D9\u05DD> ,
+		<http://is.dbpedia.org/resource/Le\u00F3pold_3._Belg\u00EDukonungur> ,
+		<http://gl.dbpedia.org/resource/Leopoldo_III_de_B\u00E9lxica> .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Leopold_III_of_Belgium	owl:sameAs	dbpedia-it:Leopoldo_III_del_Belgio ,
+		<http://vi.dbpedia.org/resource/L\u00E9opold_III_c\u1EE7a_B\u1EC9> ,
+		<http://d-nb.info/gnd/158240006> .
+@prefix ns18:	<http://d-nb.info/gnd/118779575/about/> .
+dbr:Leopold_III_of_Belgium	owl:sameAs	ns18:rdf ,
+		dbr:Leopold_III_of_Belgium .
+@prefix ns19:	<http://lt.dbpedia.org/resource/> .
+dbr:Leopold_III_of_Belgium	owl:sameAs	ns19:Leopoldas_III_Belgas .
+@prefix ns20:	<http://sco.dbpedia.org/resource/> .
+dbr:Leopold_III_of_Belgium	owl:sameAs	ns20:Leopold_III_o_Belgium ,
+		<http://d-nb.info/gnd/1158748493> ,
+		<http://viaf.org/viaf/263927855> ,
+		<http://de.dbpedia.org/resource/Leopold_III._(Belgien)> .
+@prefix dbpedia-no:	<http://no.dbpedia.org/resource/> .
+dbr:Leopold_III_of_Belgium	owl:sameAs	dbpedia-no:Leopold_III_av_Belgia ,
+		<http://af.dbpedia.org/resource/Leopold_III_van_Belgi\u00EB> ,
+		<http://uk.dbpedia.org/resource/\u041B\u0435\u043E\u043F\u043E\u043B\u044C\u0434_III_(\u043A\u043E\u0440\u043E\u043B\u044C_\u0411\u0435\u043B\u044C\u0433\u0456\u0457)> ,
+		<http://sk.dbpedia.org/resource/Leopold_III._(Belgicko)> ,
+		<http://cs.dbpedia.org/resource/Leopold_III._Belgick\u00FD> ,
+		<http://et.dbpedia.org/resource/L\u00E9opold_III> ,
+		<http://eu.dbpedia.org/resource/Leopoldo_III.a_Belgikakoa> ,
+		<http://zh.dbpedia.org/resource/\u5229\u5965\u6CE2\u5FB7\u4E09\u4E16_(\u6BD4\u5229\u65F6)> ,
+		<http://ar.dbpedia.org/resource/\u0644\u064A\u0648\u0628\u0648\u0644\u062F_\u0627\u0644\u062B\u0627\u0644\u062B_\u0645\u0644\u0643_\u0628\u0644\u062C\u064A\u0643\u0627> ,
+		<http://mr.dbpedia.org/resource/\u0932\u093F\u0913\u092A\u094B\u0932\u094D\u0921_\u0924\u093F\u0938\u0930\u093E,_\u092C\u0947\u0932\u094D\u091C\u093F\u092F\u092E> ,
+		<http://sr.dbpedia.org/resource/\u041B\u0435\u043E\u043F\u043E\u043B\u0434_III_\u043E\u0434_\u0411\u0435\u043B\u0433\u0438\u0458\u0435> .
+@prefix dbpedia-an:	<http://an.dbpedia.org/resource/> .
+dbr:Leopold_III_of_Belgium	owl:sameAs	dbpedia-an:Leopoldo_III_de_Belchica ,
+		<http://lb.dbpedia.org/resource/Leopold_III._vun_der_Belsch> ,
+		<http://tr.dbpedia.org/resource/III._L\u00E9opold_(Bel\u00E7ika_kral\u0131)> ,
+		<http://oc.dbpedia.org/resource/Leop\u00F2ld_III_de_Belgica> ,
+		<http://fr.dbpedia.org/resource/L\u00E9opold_III_(roi_des_Belges)> ,
+		<http://d-nb.info/gnd/158250753> .
+@prefix dbpedia-ro:	<http://ro.dbpedia.org/resource/> .
+dbr:Leopold_III_of_Belgium	owl:sameAs	dbpedia-ro:Leopold_al_III-lea_al_Belgiei ,
+		<http://pt.dbpedia.org/resource/Leopoldo_III_da_B\u00E9lgica> ,
+		<http://d-nb.info/gnd/118779575> ,
+		<http://da.dbpedia.org/resource/Leopold_3._af_Belgien> .
+@prefix dbpedia-id:	<http://id.dbpedia.org/resource/> .
+dbr:Leopold_III_of_Belgium	owl:sameAs	dbpedia-id:Leopold_III_dari_Belgia ,
+		<http://bs.dbpedia.org/resource/Leopold_III,_kralj_Belgijanaca> .
+@prefix dbpedia-simple:	<http://simple.dbpedia.org/resource/> .
+dbr:Leopold_III_of_Belgium	owl:sameAs	dbpedia-simple:Leopold_III_of_Belgium ,
+		<http://be.dbpedia.org/resource/\u041B\u0435\u0430\u043F\u043E\u043B\u044C\u0434_III_(\u043A\u0430\u0440\u043E\u043B\u044C_\u0411\u0435\u043B\u044C\u0433\u0456\u0456)> ,
+		<http://fi.dbpedia.org/resource/Leopold_III_(Belgia)> ,
+		<http://fa.dbpedia.org/resource/\u0644\u0626\u0648\u067E\u0648\u0644\u062F_\u0633\u0648\u0645> ,
+		<http://eo.dbpedia.org/resource/Leopoldo_la_3-a_(Belgio)> ,
+		wikidata:Q12973 ,
+		<http://la.dbpedia.org/resource/Leopoldus_III_(rex_Belgarum)> ,
+		<http://yi.dbpedia.org/resource/\u05DC\u05E2\u05D0\u05E4\u05D0\u05DC\u05D3_\u05D3\u05E2\u05E8_\u05D3\u05E8\u05D9\u05D8\u05E2\u05E8_\u05E4\u05D5\u05DF_\u05D1\u05E2\u05DC\u05D2\u05D9\u05E2> .
+@prefix ns26:	<http://uz.dbpedia.org/resource/> .
+dbr:Leopold_III_of_Belgium	owl:sameAs	ns26:Leopold_III ,
+		<http://el.dbpedia.org/resource/\u039B\u03B5\u03BF\u03C0\u03CC\u03BB\u03B4\u03BF\u03C2_\u0393\u0384_\u03C4\u03BF\u03C5_\u0392\u03B5\u03BB\u03B3\u03AF\u03BF\u03C5> ,
+		<http://azb.dbpedia.org/resource/\u0627\u06C6\u0686\u0648\u0646\u062C\u0648_\u0644\u0626\u0648\u067E\u0648\u0644\u062F> ,
+		<http://ko.dbpedia.org/resource/\uB808\uC624\uD3F4_3\uC138> .
+@prefix dbpedia-br:	<http://br.dbpedia.org/resource/> .
+dbr:Leopold_III_of_Belgium	owl:sameAs	dbpedia-br:Leopold_III_a_Velgia ,
+		<http://hy.dbpedia.org/resource/\u053C\u0565\u0578\u057A\u0578\u056C\u0564_III> .
+@prefix ns28:	<https://global.dbpedia.org/id/> .
+dbr:Leopold_III_of_Belgium	owl:sameAs	ns28:KSoy ,
+		<http://wa.dbpedia.org/resource/Yop\u00F4l_III_d\u0027_Beldjike> .
+@prefix ns29:	<http://sw.cyc.com/concept/> .
+dbr:Leopold_III_of_Belgium	owl:sameAs	ns29:Mx4rvmKtYZwpEbGdrcN5Y29ycA .
+@prefix dbpedia-ms:	<http://ms.dbpedia.org/resource/> .
+dbr:Leopold_III_of_Belgium	owl:sameAs	dbpedia-ms:Leopold_III_dari_Belgium ,
+		<http://d-nb.info/gnd/1056131780> ,
+		<http://nl.dbpedia.org/resource/Leopold_III_van_Belgi\u00EB> .
+@prefix dbpedia-commons:	<http://commons.dbpedia.org/resource/> .
+dbr:Leopold_III_of_Belgium	owl:sameAs	dbpedia-commons:Leopold_III_of_Belgium .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Leopold_III_of_Belgium	owl:sameAs	yago-res:Leopold_III_of_Belgium ,
+		<http://hu.dbpedia.org/resource/III._Lip\u00F3t_belga_kir\u00E1ly> ,
+		<http://ca.dbpedia.org/resource/Leopold_III_de_B\u00E8lgica> .
+@prefix dbpedia-sv:	<http://sv.dbpedia.org/resource/> .
+dbr:Leopold_III_of_Belgium	owl:sameAs	dbpedia-sv:Leopold_III_av_Belgien .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Leopold_III_of_Belgium	owl:sameAs	dbpedia-pl:Leopold_III_Koburg ,
+		<http://ja.dbpedia.org/resource/\u30EC\u30AA\u30DD\u30EB\u30C93\u4E16_(\u30D9\u30EB\u30AE\u30FC\u738B)> ,
+		<http://es.dbpedia.org/resource/Leopoldo_III_de_B\u00E9lgica> ,
+		<http://ru.dbpedia.org/resource/\u041B\u0435\u043E\u043F\u043E\u043B\u044C\u0434_III_(\u043A\u043E\u0440\u043E\u043B\u044C_\u0411\u0435\u043B\u044C\u0433\u0438\u0438)> ,
+		<http://th.dbpedia.org/resource/\u0E2A\u0E21\u0E40\u0E14\u0E47\u0E08\u0E1E\u0E23\u0E30\u0E40\u0E08\u0E49\u0E32\u0E40\u0E25\u0E42\u0E2D\u0E42\u0E1B\u0E25\u0E14\u0E4C\u0E17\u0E35\u0E48_3_\u0E41\u0E2B\u0E48\u0E07\u0E40\u0E1A\u0E25\u0E40\u0E22\u0E35\u0E22\u0E21> .
+@prefix dbpedia-az:	<http://az.dbpedia.org/resource/> .
+dbr:Leopold_III_of_Belgium	owl:sameAs	dbpedia-az:III_Leopold ,
+		<http://rdf.freebase.com/ns/m.0g8f8> ;
+	schema:sameAs	<http://viaf.org/viaf/263927855> ;
+	dbo:spouse	dbr:Lilian_Baels ,
+		dbr:Astrid_of_Sweden .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Leopold_III_of_Belgium	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Leopold_III_of_Belgium?oldid=986366466&ns=0> ;
+	dbp:religion	dbr:Catholic_Church .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Leopold_III_of_Belgium	dbp:reign	"--02-17"^^xsd:gMonthDay ,
+		""@en ,
+		"1951-07-16"^^xsd:date ;
+	dbo:parent	<http://dbpedia.org/resource/Elisabeth_of_Bavaria,_Queen_of_Belgium> ,
+		dbr:Albert_I_of_Belgium ;
+	dbp:after	dbr:Baudouin_of_Belgium ;
+	dbp:title	dbr:List_of_Belgian_monarchs ,
+		dbr:Duke_of_Brabant ;
+	dbp:years	1934 ,
+		1909 ;
+	dbp:rows	1 ;
+	dbp:father	dbr:Albert_I_of_Belgium ;
+	dbp:mother	<http://dbpedia.org/resource/Elisabeth_of_Bavaria,_Queen_of_Belgium> ;
+	dbp:regent	<http://dbpedia.org/resource/Prince_Charles,_Count_of_Flanders> ;
+	dbp:succession	dbr:Monarchy_of_Belgium ;
+	dbp:fullName	"Dutch: Leopold Filips Karel Albert Meinrad Hubertus Maria Miguel"@en ,
+		"French: L\u00E9opold Philippe Charles Albert Meinrad Hubert Marie Michel"@en ,
+		"German: Leopold Philipp Karl Albrecht Meinrad Hubert Maria Michael"@en ;
+	dbp:name	"Leopold III"@en ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Leopold_III_van_Belgi\u00EB_(1934).jpg?width=300> ;
+	dbp:deathPlace	"Woluwe-Saint-Lambert, Brussels, Belgium"@en ;
+	dbp:birthPlace	"Brussels, Belgium"@en ;
+	dbo:wikiPageID	59765 ;
+	dbo:wikiPageRevisionID	986366466 ;
+	dbo:wikiPageWikiLink	dbr:Order_of_the_Netherlands_Lion ,
+		<http://dbpedia.org/resource/Order_of_the_White_Eagle_(Poland)> ,
+		<http://dbpedia.org/resource/Santa_Barbara,_California> ,
+		dbr:Jozef-Ernest_van_Roey ,
+		<http://dbpedia.org/resource/Adelaide_of_L\u00F6wenstein-Wertheim-Rosenberg> ,
+		dbr:Sash_of_the_Three_Orders ,
+		dbr:German_language ,
+		dbr:Battle_of_Dunkirk ,
+		dbr:Order_of_the_Tower_and_Sword ,
+		dbc:Allied_occupation_of_Europe ,
+		dbr:Order_of_the_Holy_Sepulchre ,
+		dbr:Order_of_the_Chrysanthemum ,
+		dbr:Order_of_the_Elephant ,
+		dbr:Order_of_Muhammad_Ali ,
+		dbc:Dukes_of_Brabant ,
+		dbr:Supreme_Order_of_the_Most_Holy_Annunciation ,
+		dbr:Strobl ,
+		dbr:Order_of_the_Royal_House_of_Chakri ,
+		dbc:Monarchs_who_abdicated ,
+		dbr:Hubert_Pierlot ,
+		<http://dbpedia.org/resource/Louise_of_Orl\u00E9ans> ,
+		dbr:Gaston_Eyskens ,
+		dbr:Spain ,
+		dbr:Belgian_Resistance ,
+		dbr:Belgian_Land_Component ,
+		dbr:Greek_royal_family ,
+		dbr:Order_of_Saint-Charles ,
+		dbr:Royal_Victorian_Order ,
+		dbr:Royal_Order_of_the_Seraphim ,
+		dbr:Andalusia ,
+		dbc:Recipients_of_the_Grand_Cross_of_the_Order_of_Leopold_II ,
+		<http://dbpedia.org/resource/Li\u00E8ge> ,
+		dbr:House_of_Bourbon ,
+		dbr:Camille_Huysmans ,
+		dbr:Order_of_the_Dragon_of_Annam ,
+		dbr:Anthropologist ,
+		dbr:Motril ,
+		dbc:Recipients_of_the_Order_of_Brilliant_Jade ,
+		dbr:Order_of_Brilliant_Jade ,
+		dbr:Achille_Van_Acker ,
+		dbr:Eton_College ,
+		<http://dbpedia.org/resource/Prince_Charles,_Count_of_Flanders> ,
+		dbr:Saxony ,
+		<http://dbpedia.org/resource/Field_marshal_(United_Kingdom)> ,
+		dbr:Fischbach_Castle ,
+		dbr:Morocco ,
+		dbr:Constitution_of_Belgium ,
+		dbr:Jean_Duvieusart ,
+		<http://dbpedia.org/resource/Volunteer_Combatant\u0027s_Medal_1914\u20131918> ,
+		dbc:World_War_II_political_leaders ,
+		dbr:House_of_Wettin ,
+		<http://dbpedia.org/resource/Category:20th-century_zoologists> ,
+		dbr:Prime_Minister_of_Belgium ,
+		<http://dbpedia.org/resource/Chamber_of_Representatives_(Belgium)> ,
+		dbr:Royal_Victorian_Chain ,
+		<http://dbpedia.org/resource/Prince_Leopold,_Duke_of_Brabant> ,
+		dbr:Order_of_the_Quetzal ,
+		dbr:Paul-Henri_Spaak ,
+		<http://dbpedia.org/resource/Elisabeth_of_Bavaria,_Queen_of_Belgium> ,
+		dbr:Uranium ,
+		dbr:Morganatic_marriage ,
+		<http://dbpedia.org/resource/Prince_Philippe,_Count_of_Flanders> ,
+		dbr:Woluwe-Saint-Lambert ,
+		<http://dbpedia.org/resource/Victory_Medal_1914-1918_(Belgium)> ,
+		dbr:Le_Perthus ,
+		dbr:Pahlavi_dynasty ,
+		dbr:Order_of_Ojaswi_Rajanya ,
+		dbr:Royal_Palace_of_Brussels ,
+		<http://dbpedia.org/resource/Category:Grand_Crosses_of_the_Order_of_the_Crown_(Belgium)> ,
+		dbc:Recipients_of_the_Royal_Victorian_Chain ,
+		dbc:Belgian_entomologists ,
+		dbc:Belgian_people_of_Portuguese_descent ,
+		<http://dbpedia.org/resource/File:Flag_of_Wallonia.svg> ,
+		<http://dbpedia.org/resource/File:Belgium_5_francs_1941_obverse.jpg> ,
+		dbr:Pharmacology ,
+		dbr:Princess_Josephine_of_Baden ,
+		<http://dbpedia.org/resource/File:Belgische_Propaganda_Poster_Van_Koning_Leopold_III_met_opschrifft_%2228_Mei_1940,_Halt,_Sire_Dat_Vergeten_Wij_Nooit%22_naar_aanleiding_van_de_18_daagse_veldtocht.jpg> ,
+		<http://dbpedia.org/resource/File:Belgique_-_Bruxelles_-_M\u00E9morial_Reine_Astrid_-_13.jpg> ,
+		<http://dbpedia.org/resource/File:Belgische_Propaganda_Poster_over_Koning_Leopold_III_Met_het_opschrift_%22Mijn_Lot_Zal_Het_Uwe_Zijn%22_uitgegeven_in_1950_in_het_kader_van_de_Koningskwestie.jpg> ,
+		<http://dbpedia.org/resource/File:Dupont_KBS-FRB(20).jpg> ,
+		dbr:Princess_Ludovika_of_Bavaria ,
+		<http://dbpedia.org/resource/Category:1901_births> ,
+		dbr:Salvador_Moncada ,
+		dbr:Princess_Marie_of_Hohenzollern-Sigmaringen ,
+		dbr:Duke_of_Brabant ,
+		dbr:Monarchy_of_Belgium ,
+		dbr:Le_Soir ,
+		dbr:Order_of_Saints_Maurice_and_Lazarus ,
+		<http://dbpedia.org/resource/Charles_Maurice_de_Talleyrand-P\u00E9rigord> ,
+		dbc:People_from_Brussels ,
+		dbr:Battle_of_France ,
+		dbr:Order_of_the_Million_Elephants_and_the_White_Parasol ,
+		<http://dbpedia.org/resource/Karl_Anton,_Prince_of_Hohenzollern> ,
+		dbc:People_educated_at_Eton_College ,
+		<http://dbpedia.org/resource/K\u00FCssnacht> ,
+		dbr:Polemon_christyi ,
+		<http://dbpedia.org/resource/Princess_Jos\u00E9phine_Charlotte_of_Belgium> ,
+		<http://dbpedia.org/resource/War_Merit_Cross_(Italy)> ,
+		dbr:House_of_Commons_of_the_United_Kingdom ,
+		dbr:Battle_of_Belgium ,
+		dbr:Regent ,
+		<http://dbpedia.org/resource/Senate_(Belgium)> ,
+		dbr:George_VI ,
+		dbr:Leopold_III_of_Belgium ,
+		dbr:Royal_Jubilee_Commemorative_Medals ,
+		dbr:Jean_Stengers ,
+		<http://dbpedia.org/resource/Cross_of_Valour_(Poland)> ,
+		dbr:Law_of_Belgium ,
+		dbr:Heinrich_Himmler ,
+		<http://dbpedia.org/resource/1950_Belgian_monarchy_referendum> ,
+		<http://dbpedia.org/resource/Alan_Brooke,_1st_Viscount_Alanbrooke> ,
+		<http://dbpedia.org/resource/Free_University_of_Brussels_(1834\u20131969)> ,
+		dbr:Belgian_Congo ,
+		dbr:Georges_Theunis ,
+		dbr:Heinrich_Harrer ,
+		<http://dbpedia.org/resource/Jean,_Grand_Duke_of_Luxembourg> ,
+		<http://dbpedia.org/resource/British_Expeditionary_Force_(World_War_II)> ,
+		dbr:Daily_Mirror ,
+		dbr:Centenary_of_National_Independence_Commemorative_Medal ,
+		dbr:Prince_Alexandre_of_Belgium ,
+		<http://dbpedia.org/resource/Royal_Trust_(Belgium)> ,
+		dbr:Flag_of_Belgium ,
+		<http://dbpedia.org/resource/Karl_Theodor,_Duke_in_Bavaria> ,
+		dbr:Infanta_Maria_Josepha_of_Portugal ,
+		dbr:List_of_Belgian_monarchs ,
+		<http://dbpedia.org/resource/Prince_of_Li\u00E8ge> ,
+		dbr:Order_of_the_African_Star ,
+		dbr:Hirschstein ,
+		dbr:Count_of_Hainaut ,
+		<http://dbpedia.org/resource/Republic_of_China_(1912\u20131949)> ,
+		dbr:Stockholm ,
+		dbr:Philippe_of_Belgium ,
+		<http://dbpedia.org/resource/Category:20th-century_Belgian_monarchs> ,
+		dbc:House_of_Belgium ,
+		<http://dbpedia.org/resource/Category:House_of_Saxe-Coburg_and_Gotha_(Belgium)> ,
+		dbr:Leopold_dtella ,
+		dbr:Albert_I_of_Belgium ,
+		dbc:Knights_of_the_Holy_Sepulchre ,
+		dbc:Grand_Crosses_of_the_Order_of_the_African_Star ,
+		dbc:Grand_Crosses_of_the_Royal_Order_of_the_Lion ,
+		dbr:Senegal ,
+		dbc:Knights_of_Malta ,
+		dbr:Crown_Council_of_Belgium ,
+		dbc:Princes_of_Saxe-Coburg_and_Gotha ,
+		dbc:Belgian_monarchs ,
+		dbc:Belgian_people_of_German_descent ,
+		dbr:Miguel_I_of_Portugal ,
+		dbr:Legion_of_Honour ,
+		dbr:Nuclear_weapon ,
+		dbr:Frans_Van_Cauwelaert ,
+		dbr:Irredentism ,
+		dbr:Fort_Eben-Emael ,
+		dbr:World_War_II ,
+		dbr:Wilhelmina_of_the_Netherlands ,
+		dbr:Order_of_Merit_of_the_Kingdom_of_Hungary ,
+		<http://dbpedia.org/resource/Roger_Keyes,_1st_Baron_Keyes> ,
+		dbr:Royal_Question ,
+		<http://dbpedia.org/resource/Category:Recipients_of_the_Order_of_the_Crown_(Italy)> ,
+		dbr:Brussels ,
+		dbr:French_language ,
+		dbr:Family_tree_of_Belgian_monarchs ,
+		dbr:Paul_van_Zeeland ,
+		dbr:French_protectorate_of_Cambodia ,
+		dbc:Knights_of_the_Order_of_the_Gold_Lion_of_the_House_of_Nassau ,
+		dbr:Geneva ,
+		dbr:Grand_duke ,
+		dbr:Order_of_the_Gold_Lion_of_the_House_of_Nassau ,
+		dbr:Dunkirk_evacuation ,
+		dbr:House_arrest ,
+		dbr:Schwyz ,
+		dbr:Joseph_Pholien ,
+		<http://dbpedia.org/resource/Category:Grand_Crosses_of_the_Order_of_Christ_(Portugal)> ,
+		<http://dbpedia.org/resource/Order_of_Leopold_(Belgium)> ,
+		dbc:Grand_Crosses_of_the_Order_of_Aviz ,
+		<http://dbpedia.org/resource/106th_Cavalry_Regiment> ,
+		dbc:Grand_Crosses_of_the_Order_of_Saint_James_of_the_Sword ,
+		dbr:French_protectorate_of_Laos ,
+		<http://dbpedia.org/resource/Path\u00E9_News> ,
+		dbr:Civil_marriage ,
+		<http://dbpedia.org/resource/Croix_de_guerre_(Belgium)> ,
+		<http://dbpedia.org/resource/Croix_de_guerre_1914\u20131918_(France)> ,
+		dbc:Belgian_military_personnel_of_World_War_I ,
+		dbc:Belgian_people_of_World_War_II ,
+		<http://dbpedia.org/resource/Order_of_St._Olav> ,
+		<http://dbpedia.org/resource/Princess_L\u00E9a_of_Belgium> ,
+		dbr:Schutzstaffel ,
+		dbr:Aide-de-camp ,
+		dbc:Bailiffs_Grand_Cross_of_Honour_and_Devotion_of_the_Sovereign_Military_Order_of_Malta ,
+		dbc:Burials_at_the_Church_of_Our_Lady_of_Laeken ,
+		<http://dbpedia.org/resource/Charles_W._Sawyer> ,
+		<http://dbpedia.org/resource/Pregny-Chamb\u00E9sy> ,
+		dbr:Baudouin_of_Belgium ,
+		dbr:Charles_de_Broqueville ,
+		<http://dbpedia.org/resource/Paul-\u00C9mile_Janson> ,
+		dbr:Luxembourg ,
+		dbr:Leopold_I_of_Belgium ,
+		dbr:Government_of_Nazi_Germany ,
+		<http://dbpedia.org/resource/Orders,_decorations,_and_medals_of_the_Sovereign_Military_Order_of_Malta> ,
+		<http://dbpedia.org/resource/File:Leopold_of_Belgium_and_Astrid_of_Sweden_on_their_wedding_day.jpg> ,
+		dbc:Collars_of_the_Order_of_the_White_Lion ,
+		dbr:House_of_Savoy ,
+		dbc:Recipients_of_the_Order_of_the_Netherlands_Lion ,
+		dbr:Muhammad_Ali_dynasty ,
+		dbr:Dutch_language ,
+		dbr:Diarchy ,
+		dbr:Order_of_Pahlavi ,
+		dbr:Order_of_the_Crown_of_Italy ,
+		dbr:Order_of_the_Sun_of_Peru ,
+		dbr:Duke_Maximilian_Joseph_in_Bavaria ,
+		dbr:Order_of_the_Southern_Cross ,
+		<http://dbpedia.org/resource/Princess_Marie-Esm\u00E9ralda_of_Belgium> ,
+		dbr:Order_of_the_Redeemer ,
+		dbr:Order_of_Carol_I ,
+		dbc:Grand_Crosses_of_the_Order_of_the_Tower_and_Sword ,
+		dbc:Grand_Crosses_with_Diamonds_of_the_Order_of_the_Sun_of_Peru ,
+		dbc:Honorary_Knights_Grand_Cross_of_the_Royal_Victorian_Order ,
+		dbc:Knights_Grand_Cross_of_the_Order_of_Saints_Maurice_and_Lazarus ,
+		dbr:Romanian_royal_family ,
+		dbc:Recipients_of_the_Order_of_the_Redeemer ,
+		dbr:General_strike ,
+		dbc:Extra_Knights_Companion_of_the_Garter ,
+		dbc:Knights_of_the_Golden_Fleece_of_Spain ,
+		dbr:History_of_Belgium ,
+		<http://dbpedia.org/resource/Lilian,_Princess_of_R\u00E9thy> ,
+		dbr:Gendarmerie ,
+		dbr:Entomology ,
+		dbr:Paul_Reynaud ,
+		dbr:Lake_Lucerne ,
+		<http://dbpedia.org/resource/Order_of_Merit_(Chile)> ,
+		<http://dbpedia.org/resource/Henri,_Grand_Duke_of_Luxembourg> ,
+		<http://dbpedia.org/resource/Roman_Catholic_Archdiocese_of_Mechelen\u2013Brussels> ,
+		dbr:Order_of_the_Golden_Fleece ,
+		dbr:Order_of_the_White_Lion ,
+		dbr:Royal_Order_of_Cambodia ,
+		dbr:Flag_of_Wallonia ,
+		<http://dbpedia.org/resource/Civil_law_(legal_system)> ,
+		dbr:Church_of_Our_Lady_of_Laeken ,
+		dbr:Astrid_of_Sweden ,
+		dbr:House_of_Saxe-Coburg_and_Gotha ,
+		<http://dbpedia.org/resource/Nguy\u1EC5n_dynasty> ,
+		dbr:Francisco_Franco ,
+		<http://dbpedia.org/resource/Kingdom_of_Hungary_(1920\u20131946)> ,
+		<http://dbpedia.org/resource/John_Vereker,_6th_Viscount_Gort> ,
+		dbr:Wehrmacht ,
+		dbr:Axis_powers ,
+		dbr:Palace_of_Laeken ,
+		<http://dbpedia.org/resource/Commemorative_Medal_of_the_1914\u20131918_War> ,
+		dbr:Wallonia ,
+		<http://dbpedia.org/resource/Category:1983_deaths> ,
+		dbr:Communist_Party_of_Belgium ,
+		dbr:Order_of_the_Garter ,
+		dbr:Albert_II_of_Belgium ,
+		dbr:Catholic_Church ,
+		dbr:Order_of_Ouissam_Alaouite ;
+	dbo:wikiPageExternalLink	<https://www.youtube.com/watch%3Fv=v6XnmrJtt4c> ,
+		<https://web.archive.org/web/20160303180616/http:/home.scarlet.be/be074683/princesse_lilian.htm> ,
+		<http://www.ethesis.net/stripverhalen/stripverhalen_deel_3.htm> ,
+		ns13:leopold-iii .
+@prefix dbt:	<http://dbpedia.org/resource/Template:> .
+dbr:Leopold_III_of_Belgium	dbp:wikiPageUsesTemplate	dbt:List_collapsed ,
+		dbt:S-hou ,
+		dbt:S-reg ,
+		dbt:S-roy ,
+		dbt:Infobox_royalty ,
+		dbt:More_citations_needed ,
+		dbt:Commons_category ,
+		dbt:Use_dmy_dates ,
+		dbt:S-bef ,
+		dbt:S-end ,
+		dbt:S-start ,
+		dbt:S-ttl ,
+		<http://dbpedia.org/resource/Template:House_of_Saxe-Coburg_and_Gotha_(Belgium)> ,
+		dbt:PM20 ,
+		dbt:How ,
+		dbt:Belgian_monarchs ,
+		dbt:Belgian_royal_princes ,
+		dbt:Flag ,
+		dbt:Flagcountry ,
+		dbt:Columns-list ,
+		dbt:Flagicon_image ,
+		dbt:Flagicon ,
+		dbt:S-aft ,
+		dbt:Princes_of_Saxe-Coburg_and_Gotha ,
+		dbt:Birth_date ,
+		dbt:Death_date_and_age ,
+		dbt:S-break ,
+		dbt:Authority_control ,
+		dbt:Reflist ,
+		dbt:Short_description ,
+		dbt:Main ,
+		dbt:Ahnentafel ,
+		dbt:S-vac ,
+		dbt:Quote ;
+	dbp:birthDate	"1901-11-03"^^xsd:date ;
+	dbp:caption	"Leopold in 1934 after his accession to the throne"@en ;
+	dbp:deathDate	"1983-09-25"^^xsd:date ;
+	dbp:spouse	1941 ,
+		1926 ,
+		1935 ,
+		""@en ,
+		<http://dbpedia.org/resource/Lilian,_Princess_of_R\u00E9thy> ,
+		dbr:Astrid_of_Sweden ;
+	dbo:abstract	"Leopold III (Dutch: Leopold Filips Karel Albert Meinrad Hubertus Maria Miguel; French: L\u00E9opold Philippe Charles Albert Meinrad Hubert Marie Michel; German: Leopold Philipp Karl Albrecht Meinrad Hubert Maria Michael; 3 November 1901 \u2013 25 September 1983) was King of the Belgians from 1934 until 1951. On the outbreak of World War II, Leopold tried to maintain Belgian neutrality, but after the German invasion in May 1940, he surrendered his country, earning him much hostility, both at home and abroad. His act was declared unconstitutional by Prime Minister Hubert Pierlot and his cabinet, who presently moved to London to form a government-in-exile, while Leopold and his family were placed under house arrest. In 1944, they were moved to Germany and then Austria, before being liberated by the Americans, but banned for some years from returning to Belgium, where his brother Prince Charles had been declared regent. Leopold\u2019s eventual return to his homeland in 1950 nearly caused a civil war, and under pressure from the government, he abdicated in favour of his son, Prince Baudouin in July 1951. Leopold\u2019s first wife, Astrid of Sweden, was killed in a road accident while on a driving holiday in Switzerland in 1935, being much mourned by the public. His second marriage, to Lilian Baels in captivity in 1941, was not valid under Belgian law, and she was never permitted the title of queen."@en ,
+		"\u041B\u0435\u043E\u043F\u043E\u043B\u044C\u0434 III (\u0444\u0440. L\u00E9opold Philippe Charles Albert Meinrad Hubertus Marie Miguel, \u043D\u0456\u0434. Leopold Filips Karel Albert Meinrad Hubertus Maria Miguel; 3 \u043B\u0438\u0441\u0442\u043E\u043F\u0430\u0434\u0430 1901 \u2014 25 \u0432\u0435\u0440\u0435\u0441\u043D\u044F 1983) \u2014 \u043A\u043E\u0440\u043E\u043B\u044C \u0411\u0435\u043B\u044C\u0433\u0456\u0457 \u0437 17 \u043B\u044E\u0442\u043E\u0433\u043E 1934 \u0434\u043E 16 \u043B\u0438\u043F\u043D\u044F 1951 \u0440\u043E\u043A\u0443."@uk ,
+		"Leopoldo III (Bruxelas, 3 de novembro de 1901 \u2013 Woluwe-Saint-Lambert, 25 de setembro de 1983) foi o Rei dos Belgas de 1934 at\u00E9 sua abdica\u00E7\u00E3o em 1951 em favor de seu filho Baldu\u00EDno da B\u00E9lgica. Era o filho mais velho do rei Alberto I da B\u00E9lgica e de sua esposa, a duquesa Isabel da Baviera."@pt ,
+		"\u5229\u5965\u6CE2\u5FB7\u4E09\u4E16\uFF081901\u5E7411\u67083\u65E5\uFF0D1983\u5E749\u670825\u65E5\uFF09\uFF0C\u5168\u540D\u5229\u5967\u6CE2\u5FB7\u00B7\u83F2\u5229\u666E\u00B7\u67E5\u723E\u65AF\u00B7\u827E\u4F2F\u7279\u00B7\u7C73\u62C9\u5FB7\u00B7\u54C8\u4F2F\u7279\u65AF\u00B7\u746A\u9E97\u00B7\u7C73\u683C\u723E\uFF08\u6CD5\u8A9E\uFF1AL\u00E9opold Philippe Charles Albert Meinrad Hubertus Marie Miguel\uFF1B\u8377\u862D\u8A9E\uFF1ALeopold Filips Karel Albert Meinrad Hubertus Maria Miguel\uFF09\uFF0C1934\u5E74\u20141951\u5E74\u62C5\u4EFB\u6BD4\u5229\u65F6\u56FD\u738B\u3002"@zh ,
+		"Leopold III av Belgien, f\u00F6dd 3 november 1901 i Bryssel, d\u00F6d 25 september 1983 i Sint-Lambrechts-Woluwe, var belgarnas kung mellan 1934 och 1951. Han avlade ed som kung den 23 februari 1934. Leopold III var son till Albert I av Belgien och Elisabeth av Bayern."@sv ,
+		"\u039F \u039B\u03B5\u03BF\u03C0\u03CC\u03BB\u03B4\u03BF\u03C2 \u0393\u0384 (Leopold Filips Karel Albert Meinrad Hubertus Maria Miguel, 3 \u039D\u03BF\u03B5\u03BC\u03B2\u03C1\u03AF\u03BF\u03C5 1901 - 25 \u03A3\u03B5\u03C0\u03C4\u03B5\u03BC\u03B2\u03C1\u03AF\u03BF\u03C5 1983) \u03AE\u03C4\u03B1\u03BD \u0392\u03B1\u03C3\u03B9\u03BB\u03B9\u03AC\u03C2 \u03C4\u03C9\u03BD \u0392\u03AD\u03BB\u03B3\u03C9\u03BD \u03B1\u03C0\u03CC \u03C4\u03BF 1934 \u03BC\u03AD\u03C7\u03C1\u03B9 \u03C4\u03BF 1951, \u03CC\u03C4\u03B1\u03BD \u03BA\u03B1\u03B9 \u03C0\u03B1\u03C1\u03B1\u03B9\u03C4\u03AE\u03B8\u03B7\u03BA\u03B5 \u03C5\u03C0\u03AD\u03C1 \u03C4\u03BF\u03C5 \u03B3\u03B9\u03BF\u03C5 \u03C4\u03BF\u03C5 \u0392\u03B1\u03BB\u03B4\u03BF\u03C5\u03AF\u03BD\u03BF\u03C5. \u0391\u03C0\u03CC \u03C4\u03BF 1944 \u03BC\u03AD\u03C7\u03C1\u03B9 \u03C4\u03BF 1950, \u03BF \u03B1\u03B4\u03B5\u03BB\u03C6\u03CC\u03C2 \u03C4\u03BF\u03C5 \u039B\u03B5\u03BF\u03C0\u03CC\u03BB\u03B4\u03BF\u03C5 \u0393\u0384, \u039A\u03AC\u03C1\u03BF\u03BB\u03BF\u03C2 \u03C0\u03C1\u03AF\u03B3\u03BA\u03B9\u03C0\u03B1\u03C2 \u03C4\u03B7\u03C2 \u03A6\u03BB\u03AC\u03BD\u03B4\u03C1\u03B1\u03C2, \u03C5\u03C0\u03B7\u03C1\u03AD\u03C4\u03B7\u03C3\u03B5 \u03C9\u03C2 \u03B1\u03BD\u03C4\u03B9\u03B2\u03B1\u03C3\u03B9\u03BB\u03AD\u03B1\u03C2, \u03BA\u03B1\u03B8\u03CE\u03C2 \u03BF \u039B\u03B5\u03BF\u03C0\u03CC\u03BB\u03B4\u03BF\u03C2 \u0393\u0384 \u03B2\u03C1\u03B9\u03C3\u03BA\u03CC\u03C4\u03B1\u03BD \u03B5\u03BE\u03CC\u03C1\u03B9\u03C3\u03C4\u03BF\u03C2 \u03C3\u03C4\u03BF \u03B5\u03BE\u03C9\u03C4\u03B5\u03C1\u03B9\u03BA\u03CC \u03BC\u03B1\u03B6\u03AF \u03BC\u03B5 \u03C4\u03B7\u03BD \u03BF\u03B9\u03BA\u03BF\u03B3\u03AD\u03BD\u03B5\u03B9\u03AC \u03C4\u03BF\u03C5. \u03A4\u03BF 1950 \u03BF\u03B9 \u03B4\u03B9\u03B1\u03BC\u03AC\u03C7\u03B5\u03C2 \u03B3\u03B9\u03B1 \u03C4\u03BF \u03B1\u03BD \u03B8\u03B1 \u03AD\u03C0\u03C1\u03B5\u03C0\u03B5 \u03BD\u03B1 \u03B5\u03C0\u03B9\u03C3\u03C4\u03C1\u03AD\u03C8\u03B5\u03B9 \u03BF \u039B\u03B5\u03BF\u03C0\u03CC\u03BB\u03B4\u03BF\u03C2 \u0393\u0384 \u03C3\u03C4\u03BF \u03B8\u03C1\u03CC\u03BD\u03BF \u03C0\u03C1\u03BF\u03BA\u03AC\u03BB\u03B5\u03C3\u03B1\u03BD \u03BC\u03B9\u03B1 \u03BC\u03B5\u03B3\u03AC\u03BB\u03B7 \u03C0\u03BF\u03BB\u03B9\u03C4\u03B9\u03BA\u03AE \u03BA\u03C1\u03AF\u03C3\u03B7, \u03C0\u03BF\u03C5 \u03AD\u03BC\u03B5\u03B9\u03BD\u03B5 \u03B3\u03BD\u03C9\u03C3\u03C4\u03AE \u03C9\u03C2  (\u03B3\u03B1\u03BB\u03BB\u03B9\u03BA\u03AC: Question royale, \u03BF\u03BB\u03BB\u03B1\u03BD\u03B4\u03B9\u03BA\u03AC: Koningskwestie)."@el ,
+		"\u041B\u0435\u043E\u043F\u043E\u043B\u044C\u0434 III (\u043F\u043E\u043B\u043D\u043E\u0435 \u0438\u043C\u044F \u0424\u0438\u043B\u0438\u043F\u043F \u041B\u0435\u043E\u043F\u043E\u043B\u044C\u0434 \u0428\u0430\u0440\u043B\u044C \u0410\u043B\u044C\u0431\u0435\u0440 \u041C\u0435\u0438\u043D\u0440\u0430\u0434 \u0425\u0443\u0431\u0435\u0440\u0442 \u041C\u0430\u0440\u0438\u044F \u041C\u0438\u0433\u0435\u043B\u044C, \u0444\u0440. L\u00E9opold Philippe Charles Albert Meinrad Hubertus Marie Miguel, \u043D\u0438\u0434\u0435\u0440\u043B. Leopold Filips Karel Albert Meinrad Hubertus Maria Miguel; 3 \u043D\u043E\u044F\u0431\u0440\u044F 1901[\u2026], \u0411\u0440\u044E\u0441\u0441\u0435\u043B\u044C \u2014 25 \u0441\u0435\u043D\u0442\u044F\u0431\u0440\u044F 1983[\u2026], \u0412\u043E\u043B\u044E\u0432\u0435-\u0421\u0435\u043D-\u041B\u0430\u043C\u0431\u0435\u0440, \u0411\u0440\u044E\u0441\u0441\u0435\u043B\u044C\u0441\u043A\u0438\u0439 \u0441\u0442\u043E\u043B\u0438\u0447\u043D\u044B\u0439 \u0440\u0435\u0433\u0438\u043E\u043D) \u2014 \u043A\u043E\u0440\u043E\u043B\u044C \u0411\u0435\u043B\u044C\u0433\u0438\u0438 \u0441 17 \u0444\u0435\u0432\u0440\u0430\u043B\u044F 1934 \u0433\u043E\u0434\u0430 \u043F\u043E 16 \u0438\u044E\u043B\u044F 1951 \u0433\u043E\u0434\u0430."@ru ,
+		"Leopold III de B\u00E8lgica (Brussel\u00B7les, 1901 - 1983) va ser rei dels belgues des de 1934 fins a 1951."@ca ,
+		"Leopold Filips Karel Albert Meinrad Hubertus Maria Miguel (Brussel, 3 november 1901 - Sint-Lambrechts-Woluwe, 25 september 1983) regeerde als koning der Belgen van 1934, na de dood van zijn vader koning Albert I van Belgi\u00EB, tot 1951, toen hij na de koningskwestie troonsafstand deed ten gunste van de kroonprins, zijn oudste zoon Boudewijn."@nl ,
+		"Bh\u00ED Leopold III (3 Samhain 1901 \u2013 25 Me\u00E1n F\u00F3mhair 1983) ina r\u00ED ar an Beilg."@ga ,
+		"Leopoldo de Sajonia-Coburgo-Gotha y Wittelsbach (en franc\u00E9s, L\u00E9opold Philippe Charles Albert Meinrad Hubertus Marie Miguel de Saxe-Cobourg et Gotha; Bruselas, 3 de noviembre de 1901 - Woluwe-Saint-Lambert, 25 de septiembre de 1983) fue el cuarto rey de los belgas, entre 1934 y 1951, a\u00F1o en que abdic\u00F3 en su hijo Balduino I de B\u00E9lgica. Su reinado estuvo marcado por la invasi\u00F3n de B\u00E9lgica por la Alemania nazi durante la Segunda Guerra Mundial, a la que Leopoldo apenas ofreci\u00F3 resistencia; la oposici\u00F3n que esto le granje\u00F3 en el p\u00FAblico fue finalmente causa de su abdicaci\u00F3n el 16 de julio de 1951."@es ,
+		"Leopold III (lahir sebagai L\u00E9opold Philippe Charles Albert Meinrad Hubertus Marie Miguel (bahasa Prancis) atau Leopold Filips Karel Albert Meinrad Hubertus Maria Miguel (bahasa Belanda) atau Leopold Philipp Karl Albert Meinrad Hubertus Maria Miguel (bahasa Jerman); (lahir 3 November 1901 \u2013 meninggal 25 September 1983 pada umur 81 tahun) memerintah sebagai Raja Belgia sejak 1934 hingga 1951, ketika ia menyerahkan takhta kepada pewarisnya, putranya, Baudouin. Leopold III dilahirkan di Brussels sebagai Pangeran Leopold dari Belgia, Pangeran Saxe-Coburg and Gotha, dan naik ke takhta Belgia pada tanggal 23 Februari 1934 menyusul kematian sang ayah, Raja Albert I. Ia diangkat menjadi Ksatria ke-1.154 Order of the Golden Fleece di Spanyol pada tahun 1923, Ksatria ke-355 Grand Cross of the Order of the Tower and Sword pada 1927, dan Ksatria ke-833 Order of the Garter tahun 1935."@in ,
+		"Leopoldo III del Belgio, nome completo Leopold Philippe Charles Albert Meinrad Hubertus Marie Miguel de Saxe-Cobourg-Gotha (Bruxelles, 3 novembre 1901 \u2013 Woluwe-Saint-Lambert, 25 settembre 1983), principe del Belgio, duca di Brabante, fu re dei Belgi dal 17 febbraio 1934 al 16 luglio 1951 quando abdic\u00F2 in favore del figlio Baldovino. Leopoldo III viene oggi ricordato come uno dei principali eroi del Belgio durante la Prima guerra mondiale per il grande coraggio dimostrato scendendo in prima linea al fianco dei soldati del padre, ma \u00E8 pure ricordato per essere stato una delle figure pi\u00F9 politicamente controverse del panorama europeo durante la Seconda guerra mondiale, quando il suo carattere autocratico lo rese inviso al governo del paese e gran parte della sua popolazione, oltrech\u00E9 alle potenze alleate europee."@it ,
+		"\u0644\u064A\u0648\u0628\u0648\u0644\u062F \u0627\u0644\u062B\u0627\u0644\u062B \u0648\u0644\u062F \u0628\u062A\u0627\u0631\u064A\u062E 3 \u062A\u0634\u0631\u064A\u0646 \u0627\u0644\u062B\u0627\u0646\u064A/\u0646\u0648\u0641\u0645\u0628\u0631 1901 \u0648\u062A\u0648\u0641\u064A \u0628\u062A\u0627\u0631\u064A\u062E 25 \u0623\u064A\u0644\u0648\u0644/\u0633\u0628\u062A\u0645\u0628\u0631 1983 \u0641\u064A \u0628\u0631\u0648\u0643\u0633\u0644. \u0627\u0633\u0645\u0647 \u0627\u0644\u0643\u0627\u0645\u0644 \u0647\u0648 \u0644\u064A\u0648\u0628\u0648\u0644\u062F \u0641\u064A\u0644\u064A\u0628 \u0634\u0627\u0631\u0644 \u0623\u0644\u0628\u064A\u0631 \u0645\u064A\u0646\u0631\u0627\u062F \u0647\u0627\u0628\u064A\u0631\u062A\u0648\u0633 \u0645\u0627\u0631\u064A \u0645\u064A\u062C\u0648\u064A\u0644. \u0631\u0627\u0628\u0639 \u0645\u0644\u0648\u0643 \u0628\u0644\u062C\u064A\u0643\u0627\u060C \u0648\u0643\u0627\u0646 \u062F\u0648\u0631\u0647 \u0643\u0642\u0627\u0626\u062F \u0644\u0644\u062C\u064A\u0634 \u0627\u0644\u0628\u0644\u062C\u064A\u0643\u064A \u0623\u062B\u0646\u0627\u0621 \u0641\u062A\u0631\u0629 \u0627\u0644\u0627\u062D\u062A\u0644\u0627\u0644 \u0627\u0644\u0623\u0644\u0645\u0627\u0646\u064A \u062E\u0644\u0627\u0644 \u0627\u0644\u062D\u0631\u0628 \u0627\u0644\u0639\u0627\u0644\u0645\u064A\u0629 \u0627\u0644\u062B\u0627\u0646\u064A\u0629 \u0642\u062F \u0633\u0628\u0628 \u0627\u0644\u0643\u062B\u064A\u0631 \u0645\u0646 \u0627\u0644\u0644\u063A\u0637\u060C \u0648\u0627\u0644\u0630\u064A \u0623\u062F\u0649 \u0623\u062E\u064A\u0631\u0627 \u0644\u062A\u0646\u062D\u064A\u062A\u0647 \u0639\u0646 \u0627\u0644\u0639\u0631\u0634 \u0639\u0627\u0645 1951 \u0628\u0639\u062F \u0627\u062A\u0647\u0627\u0645\u0647 \u0628\u0627\u0644\u062A\u0639\u0627\u0648\u0646 \u0645\u0639 \u0627\u0644\u0646\u0627\u0632\u064A\u064A\u0646."@ar ,
+		"L\u00E9opold III (L\u00E9opold Philippe Charles Albert Meinrad Hubertus Marie Miguel) (3 novembre 1901 - 25 septembre 1983) est le quatri\u00E8me roi des Belges ; il a r\u00E9gn\u00E9 du 23 f\u00E9vrier 1934 au 16 juillet 1951. Il \u00E9tait le fils d\u2019Albert Ier et d\u2019\u00C9lisabeth en Bavi\u00E8re. L\u00E9opold III a abdiqu\u00E9 au terme de la longue pol\u00E9mique et de la crise nationale suscit\u00E9e par son comportement controvers\u00E9 lors de la Seconde Guerre mondiale."@fr ,
+		"Leopoldo III.a Belgikakoa (Brusela, 1901eko azaroaren 3a \u2013 Woluwe-Saint-Lambert, 1983ko irailaren 25a) belgikarren erregea izan zen 1934tik 1951era."@eu ,
+		"Leopoldo la 3-a, plennome Leopoldo Filipo Karolo Alberto Mejnrado Huberto Mario Mikaelo (naskita la 3-an de novembro 1901 en Bruselo; mortinta la 25-an de septembro 1983) estis re\u011Do de la belgoj de la 23-a de februaro 1934 \u011Dis 1951."@eo ,
+		"\uB808\uC624\uD3F4 3\uC138(Leopold III, 1901\uB144 11\uC6D4 3\uC77C ~ 1983\uB144 9\uC6D4 25\uC77C)\uB294 \uBCA8\uAE30\uC5D0\uC758 \uAD6D\uC655(1934~1951)\uC774\uBA70, \uC81C2\uCC28 \uC138\uACC4\uB300\uC804 \uB3D9\uC548\uC5D0 \uBCA8\uAE30\uC5D0\uAD70\uC758 \uCD5C\uACE0 \uC0AC\uB839\uAD00\uC73C\uB85C \uD65C\uC57D\uD558\uC600\uB2E4."@ko ,
+		"Leopold III. \u2013 geb\u00FCrtig Prinz Leopold Philippe Charles Albert Meinrad Hubertus Marie Miguel von Belgien, Prinz von Sachsen-Coburg und Gotha, Herzog von Sachsen \u2013 (* 3. November 1901 in Br\u00FCssel; \u2020 25. September 1983 in Sint-Lambrechts-Woluwe) aus dem Adelsgeschlecht Sachsen-Coburg und Gotha war von 1934 bis 1951 K\u00F6nig der Belgier. Im Zweiten Weltkrieg blieb Leopold III. in Belgien. Im Laufe des Krieges wurde seine passive Haltung gegen\u00FCber den deutschen Besatzern immer st\u00E4rker kritisch gesehen. Als das belgische Parlament 1944 wieder tagen konnte, bestimmte es den j\u00FCngeren Bruder Leopolds zum Regenten: Karl von Belgien war beliebt und hatte gute Kontakte zu den Westalliierten. Leopold verblieb bis 1950 in der Schweiz, kam aber wieder zur\u00FCck, nachdem eine Volksbefragung eine Mehrheit f\u00FCr seine R\u00FCckkehr erbracht hatte. Die Kritik an Leopold dauerte an, vor allem in Wallonien. Leopold III. lie\u00DF daher am 11. August 1950 seinen Sohn Baudouin den Verfassungseid ablegen. Leopold III. dankte formell am 16. Juli 1951 ab, nachdem Baudouin 21 Jahre alt geworden war."@de ,
+		"Leopold III. (3. listopadu 1901 v Bruselu \u2013 25. z\u00E1\u0159\u00ED 1983 v ), cel\u00FDm jm\u00E9nem Leopold Filip Karel Albert Meinrad Hubert Maria Miguel (Leopold Philippe Charles Albert Meinrad Hubertus Marie Miguel) vl\u00E1dl jako kr\u00E1l belgick\u00FD v letech 1934\u20131951, kdy musel abdikovat ve prosp\u011Bch sv\u00E9ho syna, n\u00E1sledn\u00EDka tr\u016Fnu Baudouina. Poch\u00E1zel z n\u011Bmeck\u00E9ho \u0161lechtick\u00E9ho rodu kn\u00ED\u017Eec\u00EDho domu Sasko-Kobursk\u00E9ho a Gothajsk\u00E9ho."@cs ,
+		"Leopold III, w\u0142a\u015Bc. L\u00E9opold Philippe Charles Albert Meinrad Hubertus Marie Miguel (ur. 3 listopada 1901 w Brukseli, zm. 25 wrze\u015Bnia 1983 w Sint-Lambrechts-Woluwe) \u2013 kr\u00F3l Belg\u00F3w w latach 1934\u20131951, z dynastii sasko-koburskiej."@pl ,
+		"\u30EC\u30AA\u30DD\u30EB\u30C93\u4E16\uFF08\u30D5\u30E9\u30F3\u30B9\u8A9E: L\u00E9opold III\u30011901\u5E7411\u67083\u65E5 - 1983\u5E749\u670825\u65E5\uFF09\u306F\u3001\u7B2C4\u4EE3\u30D9\u30EB\u30AE\u30FC\u56FD\u738B\uFF08\u5728\u4F4D\uFF1A1934\u5E74 - 1951\u5E74\uFF09\u3002"@ja ;
+	dbo:activeYearsStartYear	"1934"^^xsd:gYear .
+@prefix ns39:	<http://www.w3.org/2006/03/wn/wn20/instances/> .
+dbr:Leopold_III_of_Belgium	dbp:wordnet_type	ns39:synset-sovereign-noun-1 ;
+	dbo:wikiPageLength	"49869"^^xsd:nonNegativeInteger ;
+	dbp:regType	""@en ,
+		dbr:Prime_Minister_of_Belgium ;
+	dbp:predecessor	dbr:Albert_I_of_Belgium ;
+	dbp:successor	dbr:Baudouin_of_Belgium ;
+	dbo:predecessor	dbr:Albert_I_of_Belgium ;
+	dbo:successor	dbr:Baudouin_of_Belgium ;
+	dbo:child	<http://dbpedia.org/resource/Princess_Marie-Esm\u00E9ralda_of_Belgium> ,
+		dbr:Albert_II_of_Belgium ,
+		dbr:Prince_Alexandre_of_Belgium ,
+		dbr:Baudouin_of_Belgium ,
+		dbr:Princess_Marie-Christine_of_Belgium ,
+		<http://dbpedia.org/resource/Princess_Jos\u00E9phine_Charlotte_of_Belgium> ;
+	dbp:house	dbr:Monarchy_of_Belgium ,
+		dbr:House_of_Saxe-Coburg_and_Gotha ;
+	dbp:issue	"Princess Marie-Esm\u00E9ralda, Lady Moncada"@en ,
+		"Prince Alexandre"@en ,
+		"Jos\u00E9phine-Charlotte, Grand Duchess of Luxembourg"@en ,
+		"Baudouin of Belgium"@en ,
+		""@en ,
+		"Princess Marie-Christine"@en ,
+		"Albert II of Belgium"@en ;
+	dbp:placeOfBurial	dbr:Church_of_Our_Lady_of_Laeken .
+dbr:List_of_monarchs_who_abdicated	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:Timeline_of_entomology_since_1900	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:Charles_Duchesne	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+<http://dbpedia.org/resource/Albert_Henry_(historian)>	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:Bugatti_Type_51	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:March_1950	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:One-Two-Two	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:Clarissa_Eden	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:The_Crab_with_the_Golden_Claws	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:List_of_state_leaders_in_1941	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:List_of_state_leaders_in_1942	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:List_of_state_leaders_in_1943	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:List_of_state_leaders_in_1944	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:Philippe_of_Belgium	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:List_of_monarchy_referendums	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:Leopold_and_Astrid_Coast	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+<http://dbpedia.org/resource/Mee\u00FBs_d\u0027Argenteuil_family>	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+<http://dbpedia.org/resource/1948_in_Belgium>	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:Royal_Question	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:State_reform_in_Belgium	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+<http://dbpedia.org/resource/1950_Belgian_monarchy_referendum>	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+<http://dbpedia.org/resource/L\u00E9on_Degrelle>	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:Verdinaso	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+<http://dbpedia.org/resource/Prince_Charles,_Count_of_Flanders>	dbp:regent	dbr:Leopold_III_of_Belgium ;
+	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+<http://dbpedia.org/resource/\u0027t_zal_wel_gaan>	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:Belgian_heraldry	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+<http://dbpedia.org/resource/Georges_Lema\u00EEtre>	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+<http://dbpedia.org/resource/Jean_Rey_(politician)>	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:Sillon_industriel	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:Auguste_Tilkens	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium ;
+	dbp:monarch	dbr:Leopold_III_of_Belgium .
+dbr:Achille_Van_Acker	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium ;
+	dbp:monarch	dbr:Leopold_III_of_Belgium .
+dbr:Committee_of_Secretaries-General	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:Jozef-Ernest_van_Roey	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:National_Royalist_Movement	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:Richard_Strauss	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:Max_Cosyns	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:Gaston_Eyskens	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium ;
+	dbp:monarch	dbr:Leopold_III_of_Belgium .
+dbr:Princess_Marie-Christine_of_Belgium	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium ;
+	dbo:wikiPageRedirects	dbr:Leopold_III_of_Belgium .
+dbr:Albert_II_of_Belgium	dbp:father	dbr:Leopold_III_of_Belgium ;
+	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+<http://dbpedia.org/resource/Li\u00E8ge>	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:Camille_Huysmans	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium ;
+	dbp:monarch	dbr:Leopold_III_of_Belgium .
+dbr:August_De_Boodt	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium ;
+	dbp:monarch	dbr:Leopold_III_of_Belgium .
+dbr:Georges_Holvoet	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:Henri_de_Man	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:Elections_in_Belgium	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:German_occupation_of_Belgium_during_World_War_II	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:Belgian_government_in_exile	rdfs:seeAlso	dbr:Leopold_III_of_Belgium ;
+	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:The_Holocaust_in_Belgium	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:List_of_Belgians	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:Belgian_Armed_Forces	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:Belgian_Resistance	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:Belgian_United_Nations_Command	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:Jef_Van_der_Veken	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:Fort_Breendonk	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+<http://dbpedia.org/resource/Fortified_position_of_Li\u00E8ge>	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:Astrid_of_Sweden	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium ;
+	dbp:spouse	dbr:Leopold_III_of_Belgium .
+dbr:Herman_Teirlinck	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:Breendonk	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:May_1940	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:Index_of_Belgium-related_articles	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:Fernand_Khnopff	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+<http://dbpedia.org/resource/Herg\u00E9>	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:Memorial_tablets_to_the_British_Empire_dead_of_the_First_World_War	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:Marcel_Sternberger	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+<http://dbpedia.org/resource/Meanings_of_minor_planet_names:_1001\u20132000>	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:Timeline_of_Belgian_history	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:Monarchy_of_Belgium	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+<http://dbpedia.org/resource/Euro_gold_and_silver_commemorative_coins_(Belgium)>	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:Stephen_Alencastre	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+<http://dbpedia.org/resource/Herbert_W._Armstrong>	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:November_1926	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:Astrid_Park	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:Frans_Hemerijckx	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:Pterophyllum_leopoldi	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:Theo_Lingen	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:King_Leopold	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:Kees_van_Dongen	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:Argonne_National_Laboratory	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:Royal_bastard	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:Pope_Pius_XII_and_the_German_Resistance	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+<http://dbpedia.org/resource/Marie-Jos\u00E9_of_Belgium>	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+<http://dbpedia.org/resource/Wedding_of_Baudouin_of_Belgium_and_Fabiola_de_Mora_y_Arag\u00F3n>	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:Prince_Bernadotte	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+<http://dbpedia.org/resource/King_Ottokar\u0027s_Sceptre>	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+<http://dbpedia.org/resource/Prince_Carl,_Duke_of_V\u00E4sterg\u00F6tland>	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:Prince_Carl_Bernadotte	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:Vasco_Abadjiev	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:Popular_monarchy	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:Count_of_Wisborg	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:List_of_prime_ministers_of_Belgium	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+<http://dbpedia.org/resource/1940_in_Belgium>	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:General_strikes_in_Belgium	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:Crown_Council_of_Belgium	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:List_of_people_from_Brussels	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:North_Sentinel_Island	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+<http://dbpedia.org/resource/Mo\u00EFse_L\u00E9vy>	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:Princess_Stephanie_of_Windisch-Graetz	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+<http://dbpedia.org/resource/Charles_W._Goodyear_House>	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:List_of_state_and_official_visits_by_Canada	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:Duke_Maximilian_Joseph_in_Bavaria	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:Heinrich_Harrer	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+<http://dbpedia.org/resource/List_of_covers_of_Time_magazine_(1940s)>	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:Mount_Lavinia_Hotel	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:Douchan_Gersi	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+<http://dbpedia.org/resource/Royal_Avenue,_Belfast>	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+dbr:Ferrari_375_Plus	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+<http://dbpedia.org/resource/Jules_G\u00E9rard-Libois>	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .
+<http://dbpedia.org/resource/Lillian_(name)>	dbo:wikiPageWikiLink	dbr:Leopold_III_of_Belgium .

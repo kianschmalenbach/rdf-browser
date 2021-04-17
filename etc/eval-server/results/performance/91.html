@@ -1,0 +1,831 @@
+<!DOCTYPE html>
+<html
+    prefix="
+        dbp: http://dbpedia.org/property/
+        dbo: http://dbedia.org/ontology/
+        dct: http://purl.org/dc/terms/
+	"
+    lang="en"
+>
+
+
+<!-- header -->
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <title>About: Milestone</title>
+    <link rel="alternate" type="application/rdf+xml" 		href="http://dbpedia.org/data/Milestone.rdf" title="Structured Descriptor Document (RDF/XML format)" />
+    <link rel="alternate" type="text/n3" 			href="http://dbpedia.org/data/Milestone.n3" title="Structured Descriptor Document (N3 format)" />
+    <link rel="alternate" type="text/turtle" 			href="http://dbpedia.org/data/Milestone.ttl" title="Structured Descriptor Document (Turtle format)" />
+    <link rel="alternate" type="application/json+rdf" 		href="http://dbpedia.org/data/Milestone.jrdf" title="Structured Descriptor Document (RDF/JSON format)" />
+    <link rel="alternate" type="application/json" 		href="http://dbpedia.org/data/Milestone.json" title="Structured Descriptor Document (RDF/JSON format)" />
+    <link rel="alternate" type="application/atom+xml" 		href="http://dbpedia.org/data/Milestone.atom" title="OData (Atom+Feed format)" />
+    <link rel="alternate" type="text/plain" 			href="http://dbpedia.org/data/Milestone.ntriples" title="Structured Descriptor Document (N-Triples format)" />
+    <link rel="alternate" type="text/csv"   			href="http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FMilestone%3E&amp;format=text%2Fcsv" title="Structured Descriptor Document (CSV format)" />
+    
+    <link rel="alternate" type="text/cxml"  			href="http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FMilestone%3E&amp;format=text%2Fcxml" title="Structured Descriptor Document (CXML format)" />
+    
+    <link rel="alternate" type="application/microdata+json"	href="http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FMilestone%3E&amp;format=application%2Fmicrodata%2Bjson" title="Structured Descriptor Document (Microdata/JSON format)" />
+    <link rel="alternate" type="text/html" 			href="http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FMilestone%3E&amp;format=text%2Fhtml" title="Structured Descriptor Document (Microdata/HTML format)" />
+    <link rel="alternate" type="application/ld+json" 		href="http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FMilestone%3E&amp;format=application%2Fjson-ld" title="Structured Descriptor Document (JSON-LD format)" />
+    <link rel="alternate" type="text/x-html-script-ld+json"	href="http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FMilestone%3E&amp;format=text%2Fx-html-script-ld%2Bjson" title="Structured Descriptor Document (HTML with embedded JSON-LD)" />
+    <link rel="alternate" type="text/x-html-script-turtle"	href="http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FMilestone%3E&amp;format=text%2Fx-html-script-turtle" title="Structured Descriptor Document (HTML with embedded Turtle)" />
+    <link rel="timegate" type="text/html" 			href="http://dbpedia.mementodepot.org/timegate/http://dbpedia.org/page/Milestone" title="Time Machine" />
+    <link rel="foaf:primarytopic" 				href="http://dbpedia.org/resource/Milestone"/>
+    <link rev="describedby" 					href="http://dbpedia.org/resource/Milestone"/>
+    <link rel="stylesheet" type="text/css"			href="/statics/css/bootstrap.min.css" />
+    <link rel="stylesheet" type="text/css" 			href="/statics/css/dbpedia.css" />
+</head>
+<body about="http://dbpedia.org/resource/Milestone">
+<div class="navbar navbar-default navbar-fixed-top">
+    <div class="container">
+	<div class="navbar-header">
+	    <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#dbp-navbar" aria-expanded="false">
+		<span class="sr-only">Toggle navigation</span>
+		<span class="icon-bar"></span>
+		<span class="icon-bar"></span>
+		<span class="icon-bar"></span>
+	    </button>
+	    <a class="navbar-brand" href="http://wiki.dbpedia.org/about" title="About DBpedia" style="color: #2c5078">
+	    <img class="img-responsive" src="/statics/images/dbpedia_logo_land_120.png" alt="About DBpedia" style="display: inline-block;  margin-top: -12px"/>
+	    </a>
+	</div>
+
+	<div class="collapse navbar-collapse" id="dbp-navbar">
+	    <ul class="nav navbar-nav navbar-right">
+		<li><a class="active" href="/fct/" title="Switch to /fct endpoint"><span class="glyphicon glyphicon-new-window" aria-hidden="true"></span> Faceted Browser </a></li>
+		<li><a class="active" href="/sparql/" title="Switch to /sparql endpoint"><span class="glyphicon glyphicon-new-window" aria-hidden="true"></span> Sparql Endpoint </a></li>
+	    </ul>
+	    <ul class="nav navbar-nav">
+	    <li class="dropdown">
+		<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span class="glyphicon glyphicon-eye-open" aria-hidden="true"></span> Browse using <span class="caret"></span></a>
+		<ul class="dropdown-menu">
+		<li><a href="/describe/?uri=http%3A%2F%2Fdbpedia.org%2Fresource%2FMilestone">OpenLink Faceted Browser</a></li>
+		<li><a href="http://linkeddata.uriburner.com/rdf-editor/#/editor?uri=http%3A%2F%2Fdbpedia.org%2Fresource%2FMilestone&amp;view=statements">OpenLink Structured Data Editor</a></li>
+		<li><a href="http://en.lodlive.it/?http%3A%2F%2Fdbpedia.org%2Fresource%2FMilestone">LodLive Browser</a></li>
+		<li><a href="http://lodmilla.sztaki.hu/lodmilla/?url=http%3A%2F%2Fdbpedia.org%2Fresource%2FMilestone">LODmilla Browser</a></li>
+		</ul>
+	    </li>
+	    <li class="dropdown">
+		<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span class="glyphicon glyphicon-file" aria-hidden="true"></span> Formats <span class="caret"></span></a>
+		<ul class="dropdown-menu">
+		<li>&nbsp;RDF:</li>
+		    <li><a href="http://dbpedia.org/data/Milestone.ntriples">N-Triples</a></li>
+		    <li><a href="http://dbpedia.org/data/Milestone.n3">N3</a></li>
+		    <li><a href="http://dbpedia.org/data/Milestone.ttl">Turtle</a></li>
+		    <li><a href="http://dbpedia.org/data/Milestone.json">JSON</a></li>
+		    <li><a href="http://dbpedia.org/data/Milestone.rdf">XML</a></li>
+		<li class="divider"></li>
+		<li>&nbsp;OData:</li>
+		    <li><a href="http://dbpedia.org/data/Milestone.atom">Atom</a></li>
+		    <li><a href="http://dbpedia.org/data/Milestone.jsod">JSON</a></li>
+		<li class="divider"></li>
+		<li>&nbsp;Microdata:</li>
+		    <li><a href="http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FMilestone%3E&amp;format=application%2Fmicrodata%2Bjson">JSON</a></li>
+		    <li><a href="http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FMilestone%3E&amp;format=text%2Fhtml">HTML</a></li>
+		<li class="divider"></li>
+		<li>&nbsp;Embedded:</li>
+		    <li><a href="http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FMilestone%3E&amp;format=text%2Fx-html-script-ld%2Bjson">JSON</a></li>
+		    <li><a href="http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FMilestone%3E&amp;format=text%2Fx-html-script-turtle">Turtle</a></li>
+		<li class="divider"></li>
+		    
+		        <li><a href="http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FMilestone%3E&amp;format=text%2Fcxml">CXML</a></li>
+		    
+		    <li><a href="http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FMilestone%3E&amp;format=text%2Fcsv">CSV</a></li>
+		    <li><a href="http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FMilestone%3E&amp;format=application%2Fjson-ld">JSON-LD</a></li>
+		</ul>
+	    </li>
+	    </ul>
+	</div>
+    </div>
+</div>
+
+<div class="container">
+<!-- page-header -->
+    <div class="page-header">
+	<!-- div class="pull-right">
+	    <a href="http://wiki.dbpedia.org/about" title="About DBpedia">
+	    <img class="img-responsive" src="/statics/images/dbpedia_logo_land_120.png" alt="About DBpedia"/>
+	    </a>
+	</div -->
+	<h1 id="title">About:
+	    <a href="http://dbpedia.org/resource/Milestone">Milestone</a>
+	</h1>
+	<div class="page-resource-uri">
+	    An Entity of Type : <a href="http://dbpedia.org/ontology/Company">company</a>,
+	    from Named Graph : <a href="http://dbpedia.org">http://dbpedia.org</a>,
+	    within Data Space : <a href="http://dbpedia.org">dbpedia.org</a>
+	</div>
+    </div>
+<!-- page-header -->
+<!-- row -->
+    <div class="row">
+	<div class="col-xs-12">
+	    <p class="lead">A milestone is one of a series of numbered markers placed along a road, railway, canal or boundary at intervals of one mile or occasionally, parts of a mile. They are typically located at the side of the road or in a median or central reservation. They are alternatively known as mile markers, mileposts or mile posts (sometimes abbreviated MPs). Mileage is the distance along the road from a fixed commencement point. Commonly the term "milestone" may also refer to markers placed at other distances, such as every kilometre.</p>
+	</div>
+	<div class="col-xs-12">
+	    <!-- proptable -->
+	    <table class="description table table-striped">
+	    <tr>
+		<th class="col-xs-3">Property</th>
+		<th class="col-xs-9">Value</th>
+	    </tr>
+<tr class="odd"><td class="property"><a class="uri" href="http://dbpedia.org/ontology/abstract"><small>dbo:</small>abstract</a>
+</td><td><ul>
+	<li style="display:none;"><span class="literal"><span property="dbo:abstract" lang="ar">علامة المسافات أو الصُّوَّة توضع عادة على جانب الطريق لإعلام المسافر بعدد الكيلومترات أو الأميال المتبقية لبلوغ المدينة المقصودة.تكون عادة في جانب الطريق على فترات من ميل واحد أو كيلومتر واحد. تستخدم علامة المسافات لطمأنة المسافرين بأنهم يتبعون المسار الصحيح و لإعلامهم بالمسافة المقطوعة أو المسافة المتبقية إلى الوجهة. وتستخدم هذه الإشارات أيضا من قبل مهندسي الصيانة و خدمات الطوارئ لتوجيههم إلى نقاط محددة. ويستخدم هذا المصطلح أحيانا للدلالة على موقع على الطريق حتى إذا لم يكن هناك علامة مجسدة فعليا. وهذا مفيد للإبلاغ عن الحادث وغيره من حفظ السجلات.</span><small> (ar)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="dbo:abstract" lang="ca">Una fita, fita de terme, pedra de fita o molló és una marca sobre el terra que serveix per a delimitar un terme o finca o bé per a marcar el recorregut d&#39;una via, camí o carretera. Solen ser fets de pedra, tot i que modernament són fetes de metalls, ciment o altres materials resistents a les inclemències del temps. Molt sovint duen inscripcions que indiquen la distància a l&#39;origen del terme. És probable que derivin dels mil·liaris que els romans col·locaven a les seves vies. El terme fita ha estat incorporat a diversos topònims de la península Ibèrica, com ara Perafita (al Lluçanès), al Puig de les Tres Fites (Montuïri, Mallorca) o Pedrafita do Cebreiro (municipi de la província de Lugo, Galícia) entre molts altres.</span><small> (ca)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="dbo:abstract" lang="de">Ein Meilenstein, auch Postmeilensäule (auch Halbmeilenstein bzw. Posthalbmeilensäule), ist ein in regelmäßigen Abständen an Straßen errichteter Entfernungsanzeiger. Meilensteine gehören wie Wegkreuze oder Bildstöcke zu den Kleindenkmälern und unter diesen zu den Distanzsteinen.</span><small> (de)</small></span></li>
+	<li><span class="literal"><span property="dbo:abstract" lang="en">A milestone is one of a series of numbered markers placed along a road, railway, canal or boundary at intervals of one mile or occasionally, parts of a mile. They are typically located at the side of the road or in a median or central reservation. They are alternatively known as mile markers, mileposts or mile posts (sometimes abbreviated MPs). Mileage is the distance along the road from a fixed commencement point. Commonly the term &quot;milestone&quot; may also refer to markers placed at other distances, such as every kilometre. Milestones are installed to provide reference points along the road. This can be used to reassure travellers that the proper path is being followed, and to indicate either distance travelled or the remaining distance to a destination. Such references are also used by maintenance engineers and emergency services to direct them to specific points where their presence is required. This term is sometimes used to denote a location on a road even if no physical sign is present. This is useful for accident reporting and other record keeping (e.g., &quot;an accident occurred at the 13 mile mark&quot; even if the road is only marked with a stone once every 10 miles).</span><small> (en)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="dbo:abstract" lang="in">Pal atau tonggak penanda jarak (bahasa Inggris: milestone) adalah rangkaian tonggak yang dipasang di median atau pinggir jalan maupun rel kereta api untuk menunjukkan seberapa jauh suatu ruas jalan/rel telah ditempuh. Pal umumnya berbentuk batu yang dilengkapi penanda angka jarak tempuh beserta penanda nama daerah yang diukur. Pal dipasang antara satu tonggak dengan tonggak yang lain berdasarkan ukuran panjang jalan yang dipakai, misalnya dalam kilometer atau mil. Pal dipasang untuk menyediakan titik referensi di sepanjang jalan. Ini dapat digunakan untuk meyakinkan pengguna jalan bahwa jalur yang tepat digunakan oleh pengguna sedang diikuti, dan untuk menunjukkan jarak yang ditempuh atau jarak yang tersisa ke tujuan. Referensi semacam itu juga digunakan oleh para insinyur pemeliharaan dan pelayanan darurat untuk mengarahkan mereka ke titik-titik tertentu di mana kehadiran mereka diperlukan. Istilah ini terkadang digunakan untuk menunjukkan lokasi di jalan, termasuk jika tidak ada tanda fisik untuk menentukan lokasi tersebut. Hal tersebut berguna untuk pelaporan kecelakaan dan pencatatan lain (misalnya, &quot;Kecelakaan terjadi pada jarak 13 mil&quot; bahkan jika jalan hanya ditandai dengan batu sekali setiap 10 mil).</span><small> (in)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="dbo:abstract" lang="fr">Une borne routière est un élément signalétique placé régulièrement en bordure de route et destiné à identifier la route concernée et à y indiquer les distances, le plus souvent vers les localités voisines. Les premières bornes routières que l&#39;on connaisse sont les bornes milliaires qui jalonnaient les voies romaines. En France, les bornes routières équipent les anciens réseaux nationaux, les réseaux départementaux et autoroutiers. Elles sont entrées dans le langage familier comme synonyme de kilomètre parcouru, parfois à tort, car elles ne tiennent pas toujours compte des derniers aménagements et tracés routiers et n&#39;indiquent pas nécessairement des distances kilométriques exactes. Au fil des années, elles deviennent des points de localisation plus que des points kilométriques exacts. Au Royaume-Uni, certaines bornes routières sont classées monument historique.</span><small> (fr)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="dbo:abstract" lang="ja">マイルストーン（Milestone）は、鉄道や道路等の起点よりの距離をマイルで表した距離標識。マイルマーカー（Milemarker）、マイルポスト（Milepost）ともいう。 ローマ帝国が前120年頃の道路関連法「」に基き、主要な街道に1ローマ・マイル（1000歩）ごとに設置したのが始まりとされ、アッピア街道にはそれが現在でも残っている。 アメリカ合衆国においてはマイルを標準的に使用していることから、キロポストと同様に置かれるが、ヨーロッパにおいては、キロメートルを標準とする国々が多いことからキロポストの事をそう呼ぶ場合が多い。 また、あるプロジェクトや世界的なイベントなどが完成・成功した場合に比喩的に言葉として使用する場合がある。また、モニュメントとして残す場合もある。 日本には同様のものとして一里塚があり、旧街道で一里(約4km)ごとに見ることができる。</span><small> (ja)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="dbo:abstract" lang="ko">이정표(里程標, Milestone)는 도로에서 각 방향이 어느 쪽을 가리키고 있는지를 나타내는 표지이다.</span><small> (ko)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="dbo:abstract" lang="nl">Een mijlpaal is een paal die de afstand in mijlen aangeeft, tot een bepaalde stadspoort of tot de volgende mijlpaal. Voordat er mechanische kilometertellers bestonden, werden deze palen langs interlokale wegen geplaatst om reizigers te informeren over hun positie. Landmeten was echter geen exacte wetenschap. De nauwkeurigheid liet door slordigheid of om politieke redenen weleens te wensen over. Want niet alleen vermeldt een mijlpaal de namen van plaatsen in de buurt, er blijkt ook uit (al dan niet omdat het er met zoveel woorden op staat) wie het voor het zeggen heeft in het gebied.</span><small> (nl)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="dbo:abstract" lang="sv">En milstolpe eller milsten är en föregångare till vägmärken. Ordet milstolpe används idag ofta i överförd bemärkelse om ett etappmål i ett större projekt, eller en viktig händelse under till exempel ett krig. Milstenarna har i sin föregångare i miliaria; stencylindrar som var uppsatta längs romarrikets huvudvägar och angav avståndet till Rom eller närmsta centralort.</span><small> (sv)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="dbo:abstract" lang="zh">里程碑，一般是指建立在道路旁边刻有数字的固定标志，通常每隔一段路便设立一个，以展示其位置及与特定的距离。昔日里程碑是一块石碑，现在大多改用金属板。马路、山路、铁路均可能会设有里程碑。里程碑上的數字表示該處距離起點或有多遠。现代项目管理中引用里程碑概念，以阶段性明确的可交付物来衡量项目进度。里程碑的另一种，是指某种重大事件，或發生某種的典型事件，或具有性意義的重大事件，或具有重大學術理論意義的事件等。</span><small> (zh)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="dbo:abstract" lang="uk">Камінь відліку миль, мильовий камінь, мильовий стовп (лат. miliarium) — невелика кам&#39;яна колона висотою 1,50 м, 50 см в діаметрі, розміщена на узбіччі дороги, на якій було вказано кількість миль давньоримських доріг та відстань до певних пунктів призначення.</span><small> (uk)</small></span></li>
+</ul></td></tr><tr class="even"><td class="property"><a class="uri" href="http://dbpedia.org/ontology/thumbnail"><small>dbo:</small>thumbnail</a>
+</td><td><ul>
+	<li><span class="literal"><a class="uri" rel="dbo:thumbnail" href="http://commons.wikimedia.org/wiki/Special:FilePath/AUT_0345.JPG?width=300"><small>wiki-commons</small>:Special:FilePath/AUT_0345.JPG?width=300</a></span></li>
+</ul></td></tr><tr class="odd"><td class="property"><a class="uri" href="http://dbpedia.org/ontology/wikiPageExternalLink"><small>dbo:</small>wikiPageExternalLink</a>
+</td><td><ul>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageExternalLink nofollow" href="http://mile.stonesgur.us/">http://mile.stonesgur.us/</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageExternalLink nofollow" href="http://www.archeolyon.com/Bornemil/Milrepertoire.html">http://www.archeolyon.com/Bornemil/Milrepertoire.html</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageExternalLink nofollow" href="http://www.milestonesociety.co.uk/">http://www.milestonesociety.co.uk/</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageExternalLink nofollow" href="https://www.youtube.com/watch%3Fv=yJHgYrFlYLQ">https://www.youtube.com/watch%3Fv=yJHgYrFlYLQ</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageExternalLink nofollow" href="http://mutcd.fhwa.dot.gov/HTM/2003r1/part2/part2d2.htm%23section2D46">http://mutcd.fhwa.dot.gov/HTM/2003r1/part2/part2d2.htm%23section2D46</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageExternalLink nofollow" href="http://penelope.uchicago.edu/Thayer/E/Roman/Texts/secondary/SMIGRA*/Milliare.html">http://penelope.uchicago.edu/Thayer/E/Roman/Texts/secondary/SMIGRA*/Milliare.html</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageExternalLink nofollow" href="http://www.towpathtreks.co.uk/LLC/mileposts.html">http://www.towpathtreks.co.uk/LLC/mileposts.html</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageExternalLink nofollow" href="http://www.stonestructures.org/html/milestones.html">http://www.stonestructures.org/html/milestones.html</a></span></li>
+</ul></td></tr><tr class="even"><td class="property"><a class="uri" href="http://dbpedia.org/ontology/wikiPageID"><small>dbo:</small>wikiPageID</a>
+</td><td><ul>
+	<li><span class="literal"><span property="dbo:wikiPageID">285728</span><small> (xsd:integer)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="property"><a class="uri" href="http://dbpedia.org/ontology/wikiPageLength"><small>dbo:</small>wikiPageLength</a>
+</td><td><ul>
+	<li><span class="literal"><span property="dbo:wikiPageLength">23302</span><small> (xsd:integer)</small></span></li>
+</ul></td></tr><tr class="even"><td class="property"><a class="uri" href="http://dbpedia.org/ontology/wikiPageRevisionID"><small>dbo:</small>wikiPageRevisionID</a>
+</td><td><ul>
+	<li><span class="literal"><span property="dbo:wikiPageRevisionID">973811166</span><small> (xsd:integer)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="property"><a class="uri" href="http://dbpedia.org/ontology/wikiPageWikiLink"><small>dbo:</small>wikiPageWikiLink</a>
+</td><td><ul>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/A514_road"><small>dbr</small>:A514_road</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Luzon"><small>dbr</small>:Luzon</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/United_Kingdom"><small>dbr</small>:United_Kingdom</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/United_States"><small>dbr</small>:United_States</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Uttarakhand"><small>dbr</small>:Uttarakhand</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Trail_blazing"><small>dbr</small>:Trail_blazing</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Scenic_route"><small>dbr</small>:Scenic_route</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Blue_Ridge_Parkway"><small>dbr</small>:Blue_Ridge_Parkway</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Border"><small>dbr</small>:Border</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Boston_Post_Road"><small>dbr</small>:Boston_Post_Road</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Derby"><small>dbr</small>:Derby</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Great_Road_Historic_District"><small>dbr</small>:Great_Road_Historic_District</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Kingston,_Massachusetts"><small>dbr</small>:Kingston,_Massachusetts</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Kos_(unit)"><small>dbr</small>:Kos_(unit)</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Highway"><small>dbr</small>:Highway</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Exit_number"><small>dbr</small>:Exit_number</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Akbar"><small>dbr</small>:Akbar</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Category:Street_furniture"><small>dbc</small>:Street_furniture</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Chain_(unit)"><small>dbr</small>:Chain_(unit)</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Charing_Cross"><small>dbr</small>:Charing_Cross</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Chellaston"><small>dbr</small>:Chellaston</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Norfolk"><small>dbr</small>:Norfolk</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/North_Carolina"><small>dbr</small>:North_Carolina</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Minaret"><small>dbr</small>:Minaret</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Incident_report"><small>dbr</small>:Incident_report</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Rail_transport"><small>dbr</small>:Rail_transport</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Road"><small>dbr</small>:Road</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Rock_(geology)"><small>dbr</small>:Rock_(geology)</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Reassurance_marker"><small>dbr</small>:Reassurance_marker</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/B1149_road"><small>dbr</small>:B1149_road</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Batemans_Bay"><small>dbr</small>:Batemans_Bay</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/London"><small>dbr</small>:London</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Longbridge_Deverill"><small>dbr</small>:Longbridge_Deverill</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Cainta"><small>dbr</small>:Cainta</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/California"><small>dbr</small>:California</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Ancient_Greek_technology"><small>dbr</small>:Ancient_Greek_technology</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Milepost_equation"><small>dbr</small>:Milepost_equation</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Peleg_Arnold"><small>dbr</small>:Peleg_Arnold</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Kentucky"><small>dbr</small>:Kentucky</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Linear_referencing"><small>dbr</small>:Linear_referencing</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Zimbabwe"><small>dbr</small>:Zimbabwe</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Kilometric_point"><small>dbr</small>:Kilometric_point</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Obelisk"><small>dbr</small>:Obelisk</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Highway_location_marker"><small>dbr</small>:Highway_location_marker</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Roman_roads"><small>dbr</small>:Roman_roads</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Zero_Milestone"><small>dbr</small>:Zero_Milestone</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Milliarium_Aureum"><small>dbr</small>:Milliarium_Aureum</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Missouri"><small>dbr</small>:Missouri</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Florida_Keys"><small>dbr</small>:Florida_Keys</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Survey_marker"><small>dbr</small>:Survey_marker</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Skanderborg"><small>dbr</small>:Skanderborg</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Milion"><small>dbr</small>:Milion</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Kilometre_zero"><small>dbr</small>:Kilometre_zero</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Frederick_VII_of_Denmark"><small>dbr</small>:Frederick_VII_of_Denmark</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Furlong"><small>dbr</small>:Furlong</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Haridwar"><small>dbr</small>:Haridwar</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Harvard_Square"><small>dbr</small>:Harvard_Square</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Appian_Way"><small>dbr</small>:Appian_Way</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Illinois"><small>dbr</small>:Illinois</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/India"><small>dbr</small>:India</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Interchange_(road)"><small>dbr</small>:Interchange_(road)</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Interstate_Highway_System"><small>dbr</small>:Interstate_Highway_System</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/San_Juan,_Metro_Manila"><small>dbr</small>:San_Juan,_Metro_Manila</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Parting_stone"><small>dbr</small>:Parting_stone</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Ancient_Rome"><small>dbr</small>:Ancient_Rome</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Arizona"><small>dbr</small>:Arizona</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Boundary_marker"><small>dbr</small>:Boundary_marker</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Boundary_markers_of_the_original_District_of_Columbia"><small>dbr</small>:Boundary_markers_of_the_original_District_of_Columbia</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Operation_Herkules"><small>dbr</small>:Operation_Herkules</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Ortigas_Avenue"><small>dbr</small>:Ortigas_Avenue</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Overseas_Highway"><small>dbr</small>:Overseas_Highway</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Rhode_Island"><small>dbr</small>:Rhode_Island</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Rhodesia"><small>dbr</small>:Rhodesia</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Metrication"><small>dbr</small>:Metrication</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/A350_road"><small>dbr</small>:A350_road</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/A360_road"><small>dbr</small>:A360_road</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/A5130_road"><small>dbr</small>:A5130_road</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Abu&#39;l-Fazl_ibn_Mubarak"><small>dbr</small>:Abu&#39;l-Fazl_ibn_Mubarak</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Afghan_(ethnonym)"><small>dbr</small>:Afghan_(ethnonym)</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/42nd_parallel_north"><small>dbr</small>:42nd_parallel_north</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Category:Surveying"><small>dbc</small>:Surveying</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Akbarnama"><small>dbr</small>:Akbarnama</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Town"><small>dbr</small>:Town</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/U.S._state"><small>dbr</small>:U.S._state</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Driver_location_sign"><small>dbr</small>:Driver_location_sign</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Travel"><small>dbr</small>:Travel</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Turnpike_trust"><small>dbr</small>:Turnpike_trust</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Metrication_in_Australia"><small>dbr</small>:Metrication_in_Australia</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Broughton,_Milton_Keynes"><small>dbr</small>:Broughton,_Milton_Keynes</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Byzantine_Empire"><small>dbr</small>:Byzantine_Empire</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Concrete"><small>dbr</small>:Concrete</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Constantinople"><small>dbr</small>:Constantinople</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Cornwall"><small>dbr</small>:Cornwall</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Corpusty"><small>dbr</small>:Corpusty</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Crown_Colony_of_Malta"><small>dbr</small>:Crown_Colony_of_Malta</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Land&#39;s_End_Airport"><small>dbr</small>:Land&#39;s_End_Airport</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Latin"><small>dbr</small>:Latin</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/City"><small>dbr</small>:City</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Granite"><small>dbr</small>:Granite</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Manual_on_Uniform_Traffic_Control_Devices"><small>dbr</small>:Manual_on_Uniform_Traffic_Control_Devices</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/National_highways_of_India"><small>dbr</small>:National_highways_of_India</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Odometer"><small>dbr</small>:Odometer</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Category:Monument_types"><small>dbc</small>:Monument_types</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/B3306_road"><small>dbr</small>:B3306_road</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Pasig"><small>dbr</small>:Pasig</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Canal"><small>dbr</small>:Canal</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Rizal_Park"><small>dbr</small>:Rizal_Park</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Roman_Empire"><small>dbr</small>:Roman_Empire</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Sher_Shah_Suri"><small>dbr</small>:Sher_Shah_Suri</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Surveying"><small>dbr</small>:Surveying</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Sutton,_London"><small>dbr</small>:Sutton,_London</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Swieqi"><small>dbr</small>:Swieqi</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/County"><small>dbr</small>:County</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Virginia"><small>dbr</small>:Virginia</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Europe"><small>dbr</small>:Europe</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Fife"><small>dbr</small>:Fife</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Philippine_highway_network"><small>dbr</small>:Philippine_highway_network</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Potterne"><small>dbr</small>:Potterne</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Staffordshire"><small>dbr</small>:Staffordshire</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Washington,_D.C."><small>dbr</small>:Washington,_D.C.</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Wiltshire"><small>dbr</small>:Wiltshire</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Distance"><small>dbr</small>:Distance</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/List_of_motorways_in_the_United_Kingdom"><small>dbr</small>:List_of_motorways_in_the_United_Kingdom</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Eleanor_cross"><small>dbr</small>:Eleanor_cross</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Anno_Domini"><small>dbr</small>:Anno_Domini</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Mughal_Empire"><small>dbr</small>:Mughal_Empire</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Myanmar"><small>dbr</small>:Myanmar</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Median_strip"><small>dbr</small>:Median_strip</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Mellieħa"><small>dbr</small>:Mellieħa</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Royal_cypher"><small>dbr</small>:Royal_cypher</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/List_of_National_Highways_in_India_by_state"><small>dbr</small>:List_of_National_Highways_in_India_by_state</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Malta_at_War_Museum"><small>dbr</small>:Malta_at_War_Museum</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Marble"><small>dbr</small>:Marble</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Maryland"><small>dbr</small>:Maryland</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/World_War_II"><small>dbr</small>:World_War_II</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Yangon–Mandalay_Expressway"><small>dbr</small>:Yangon–Mandalay_Expressway</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/File:Milepost_358-6_on_Yangon-Mandalay_Expressway.JPG"><small>dbr</small>:File:Milepost_358-6_on_Yangon-Mandalay_Expressway.JPG</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/File:Naypyitaw_Tollbooth.jpg"><small>dbr</small>:File:Naypyitaw_Tollbooth.jpg</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/File:Geira_Milha_XXIX_caminho.jpg"><small>dbr</small>:File:Geira_Milha_XXIX_caminho.jpg</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/File:Intersection_of_the_Bypass_Highway_and_Van_Giesen_Street_6.jpg"><small>dbr</small>:File:Intersection_of_the_Bypass_Highway_and_Van_Giesen_Street_6.jpg</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/File:Kos_Minar_03.jpg"><small>dbr</small>:File:Kos_Minar_03.jpg</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/File:Milestone@Penrhosgarnedd_2.jpg"><small>dbr</small>:File:Milestone@Penrhosgarnedd_2.jpg</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/File:Milestone_kirkby_thore.JPG"><small>dbr</small>:File:Milestone_kirkby_thore.JPG</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/File:Railmileposts.jpg"><small>dbr</small>:File:Railmileposts.jpg</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/File:Road_Stone_Payyambalam.jpg"><small>dbr</small>:File:Road_Stone_Payyambalam.jpg</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Railways_Clauses_Consolidation_Act_1845"><small>dbr</small>:Railways_Clauses_Consolidation_Act_1845</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/File:A_milestone_at_Berwick-upon-Tweed_-_geograph.org.uk_-_1513459.jpg"><small>dbr</small>:File:A_milestone_at_Berwick-upon-Tweed_-_geograph.org.uk_-_1513459.jpg</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/File:A_milestone_from_the_Umayyad_period.jpg"><small>dbr</small>:File:A_milestone_from_the_Umayyad_period.jpg</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/File:Cumberland_258.jpg"><small>dbr</small>:File:Cumberland_258.jpg</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/File:Philippine_highway_marker.jpg"><small>dbr</small>:File:Philippine_highway_marker.jpg</a></span></li>
+</ul></td></tr><tr class="even"><td class="property"><a class="uri" href="http://dbpedia.org/property/wikiPageUsesTemplate"><small>dbp:</small>wikiPageUsesTemplate</a>
+</td><td><ul>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" href="http://dbpedia.org/resource/Template:Citation_needed"><small>dbt</small>:Citation_needed</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" href="http://dbpedia.org/resource/Template:Cite_web"><small>dbt</small>:Cite_web</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" href="http://dbpedia.org/resource/Template:Clear"><small>dbt</small>:Clear</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" href="http://dbpedia.org/resource/Template:Commons_category"><small>dbt</small>:Commons_category</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" href="http://dbpedia.org/resource/Template:Convert"><small>dbt</small>:Convert</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" href="http://dbpedia.org/resource/Template:Coord"><small>dbt</small>:Coord</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" href="http://dbpedia.org/resource/Template:Details"><small>dbt</small>:Details</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" href="http://dbpedia.org/resource/Template:Div_col"><small>dbt</small>:Div_col</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" href="http://dbpedia.org/resource/Template:Div_col_end"><small>dbt</small>:Div_col_end</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" href="http://dbpedia.org/resource/Template:Frac"><small>dbt</small>:Frac</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" href="http://dbpedia.org/resource/Template:Main_article"><small>dbt</small>:Main_article</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" href="http://dbpedia.org/resource/Template:Other_uses"><small>dbt</small>:Other_uses</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" href="http://dbpedia.org/resource/Template:Quote"><small>dbt</small>:Quote</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" href="http://dbpedia.org/resource/Template:Redirect"><small>dbt</small>:Redirect</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" href="http://dbpedia.org/resource/Template:Reflist"><small>dbt</small>:Reflist</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" href="http://dbpedia.org/resource/Template:See_also"><small>dbt</small>:See_also</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" href="http://dbpedia.org/resource/Template:Short_description"><small>dbt</small>:Short_description</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" href="http://dbpedia.org/resource/Template:Unreferenced_section"><small>dbt</small>:Unreferenced_section</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dbp:wikiPageUsesTemplate" href="http://dbpedia.org/resource/Template:Use_dmy_dates"><small>dbt</small>:Use_dmy_dates</a></span></li>
+</ul></td></tr><tr class="odd"><td class="property"><a class="uri" href="http://purl.org/dc/terms/subject"><small>dct:</small>subject</a>
+</td><td><ul>
+	<li><span class="literal"><a class="uri" rel="dct:subject" href="http://dbpedia.org/resource/Category:Street_furniture"><small>dbc</small>:Street_furniture</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dct:subject" href="http://dbpedia.org/resource/Category:Surveying"><small>dbc</small>:Surveying</a></span></li>
+	<li><span class="literal"><a class="uri" rel="dct:subject" href="http://dbpedia.org/resource/Category:Monument_types"><small>dbc</small>:Monument_types</a></span></li>
+</ul></td></tr><tr class="even"><td class="property"><a class="uri" href="http://www.georss.org/georss/point"><small>georss:</small>point</a>
+</td><td><ul>
+	<li><span class="literal"><span property="georss:point" prefix="georss: http://www.georss.org/georss/">-35.7014 150.1815</span></span></li>
+</ul></td></tr><tr class="odd"><td class="property"><a class="uri" href="http://www.w3.org/1999/02/22-rdf-syntax-ns#type"><small>rdf:</small>type</a>
+</td><td><ul>
+	<li><span class="literal"><a class="uri" rel="rdf:type" href="http://www.w3.org/2002/07/owl#Thing"><small>owl</small>:Thing</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" href="http://dbpedia.org/ontology/Company"><small>dbo</small>:Company</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" href="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"><small>geo</small>:SpatialThing</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" href="http://dbpedia.org/class/yago/Object100002684"><small>yago</small>:Object100002684</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" href="http://dbpedia.org/class/yago/PhysicalEntity100001930"><small>yago</small>:PhysicalEntity100001930</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" href="http://dbpedia.org/class/yago/Road104096066"><small>yago</small>:Road104096066</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" href="http://dbpedia.org/class/yago/Way104564698"><small>yago</small>:Way104564698</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" href="http://dbpedia.org/class/yago/Whole100003553"><small>yago</small>:Whole100003553</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" href="http://dbpedia.org/class/yago/YagoGeoEntity"><small>yago</small>:YagoGeoEntity</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" href="http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity"><small>yago</small>:YagoPermanentlyLocatedEntity</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" href="http://dbpedia.org/class/yago/WikicatRomanRoads"><small>yago</small>:WikicatRomanRoads</a></span></li>
+	<li><span class="literal"><a class="uri" rel="rdf:type" href="http://dbpedia.org/class/yago/Artifact100021939"><small>yago</small>:Artifact100021939</a></span></li>
+</ul></td></tr><tr class="even"><td class="property"><a class="uri" href="http://www.w3.org/2000/01/rdf-schema#comment"><small>rdfs:</small>comment</a>
+</td><td><ul>
+	<li style="display:none;"><span class="literal"><span property="rdfs:comment" lang="ar">علامة المسافات أو الصُّوَّة توضع عادة على جانب الطريق لإعلام المسافر بعدد الكيلومترات أو الأميال المتبقية لبلوغ المدينة المقصودة.تكون عادة في جانب الطريق على فترات من ميل واحد أو كيلومتر واحد. تستخدم علامة المسافات لطمأنة المسافرين بأنهم يتبعون المسار الصحيح و لإعلامهم بالمسافة المقطوعة أو المسافة المتبقية إلى الوجهة. وتستخدم هذه الإشارات أيضا من قبل مهندسي الصيانة و خدمات الطوارئ لتوجيههم إلى نقاط محددة. ويستخدم هذا المصطلح أحيانا للدلالة على موقع على الطريق حتى إذا لم يكن هناك علامة مجسدة فعليا. وهذا مفيد للإبلاغ عن الحادث وغيره من حفظ السجلات.</span><small> (ar)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="rdfs:comment" lang="ca">Una fita, fita de terme, pedra de fita o molló és una marca sobre el terra que serveix per a delimitar un terme o finca o bé per a marcar el recorregut d&#39;una via, camí o carretera. Solen ser fets de pedra, tot i que modernament són fetes de metalls, ciment o altres materials resistents a les inclemències del temps. Molt sovint duen inscripcions que indiquen la distància a l&#39;origen del terme. És probable que derivin dels mil·liaris que els romans col·locaven a les seves vies. El terme fita ha estat incorporat a diversos topònims de la península Ibèrica, com ara Perafita (al Lluçanès), al Puig de les Tres Fites (Montuïri, Mallorca) o Pedrafita do Cebreiro (municipi de la província de Lugo, Galícia) entre molts altres.</span><small> (ca)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="rdfs:comment" lang="de">Ein Meilenstein, auch Postmeilensäule (auch Halbmeilenstein bzw. Posthalbmeilensäule), ist ein in regelmäßigen Abständen an Straßen errichteter Entfernungsanzeiger. Meilensteine gehören wie Wegkreuze oder Bildstöcke zu den Kleindenkmälern und unter diesen zu den Distanzsteinen.</span><small> (de)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="rdfs:comment" lang="ja">マイルストーン（Milestone）は、鉄道や道路等の起点よりの距離をマイルで表した距離標識。マイルマーカー（Milemarker）、マイルポスト（Milepost）ともいう。 ローマ帝国が前120年頃の道路関連法「」に基き、主要な街道に1ローマ・マイル（1000歩）ごとに設置したのが始まりとされ、アッピア街道にはそれが現在でも残っている。 アメリカ合衆国においてはマイルを標準的に使用していることから、キロポストと同様に置かれるが、ヨーロッパにおいては、キロメートルを標準とする国々が多いことからキロポストの事をそう呼ぶ場合が多い。 また、あるプロジェクトや世界的なイベントなどが完成・成功した場合に比喩的に言葉として使用する場合がある。また、モニュメントとして残す場合もある。 日本には同様のものとして一里塚があり、旧街道で一里(約4km)ごとに見ることができる。</span><small> (ja)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="rdfs:comment" lang="ko">이정표(里程標, Milestone)는 도로에서 각 방향이 어느 쪽을 가리키고 있는지를 나타내는 표지이다.</span><small> (ko)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="rdfs:comment" lang="nl">Een mijlpaal is een paal die de afstand in mijlen aangeeft, tot een bepaalde stadspoort of tot de volgende mijlpaal. Voordat er mechanische kilometertellers bestonden, werden deze palen langs interlokale wegen geplaatst om reizigers te informeren over hun positie. Landmeten was echter geen exacte wetenschap. De nauwkeurigheid liet door slordigheid of om politieke redenen weleens te wensen over. Want niet alleen vermeldt een mijlpaal de namen van plaatsen in de buurt, er blijkt ook uit (al dan niet omdat het er met zoveel woorden op staat) wie het voor het zeggen heeft in het gebied.</span><small> (nl)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="rdfs:comment" lang="sv">En milstolpe eller milsten är en föregångare till vägmärken. Ordet milstolpe används idag ofta i överförd bemärkelse om ett etappmål i ett större projekt, eller en viktig händelse under till exempel ett krig. Milstenarna har i sin föregångare i miliaria; stencylindrar som var uppsatta längs romarrikets huvudvägar och angav avståndet till Rom eller närmsta centralort.</span><small> (sv)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="rdfs:comment" lang="zh">里程碑，一般是指建立在道路旁边刻有数字的固定标志，通常每隔一段路便设立一个，以展示其位置及与特定的距离。昔日里程碑是一块石碑，现在大多改用金属板。马路、山路、铁路均可能会设有里程碑。里程碑上的數字表示該處距離起點或有多遠。现代项目管理中引用里程碑概念，以阶段性明确的可交付物来衡量项目进度。里程碑的另一种，是指某种重大事件，或發生某種的典型事件，或具有性意義的重大事件，或具有重大學術理論意義的事件等。</span><small> (zh)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="rdfs:comment" lang="uk">Камінь відліку миль, мильовий камінь, мильовий стовп (лат. miliarium) — невелика кам&#39;яна колона висотою 1,50 м, 50 см в діаметрі, розміщена на узбіччі дороги, на якій було вказано кількість миль давньоримських доріг та відстань до певних пунктів призначення.</span><small> (uk)</small></span></li>
+	<li><span class="literal"><span property="rdfs:comment" lang="en">A milestone is one of a series of numbered markers placed along a road, railway, canal or boundary at intervals of one mile or occasionally, parts of a mile. They are typically located at the side of the road or in a median or central reservation. They are alternatively known as mile markers, mileposts or mile posts (sometimes abbreviated MPs). Mileage is the distance along the road from a fixed commencement point. Commonly the term &quot;milestone&quot; may also refer to markers placed at other distances, such as every kilometre.</span><small> (en)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="rdfs:comment" lang="fr">Une borne routière est un élément signalétique placé régulièrement en bordure de route et destiné à identifier la route concernée et à y indiquer les distances, le plus souvent vers les localités voisines. Les premières bornes routières que l&#39;on connaisse sont les bornes milliaires qui jalonnaient les voies romaines. Au Royaume-Uni, certaines bornes routières sont classées monument historique.</span><small> (fr)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="rdfs:comment" lang="in">Pal atau tonggak penanda jarak (bahasa Inggris: milestone) adalah rangkaian tonggak yang dipasang di median atau pinggir jalan maupun rel kereta api untuk menunjukkan seberapa jauh suatu ruas jalan/rel telah ditempuh. Pal umumnya berbentuk batu yang dilengkapi penanda angka jarak tempuh beserta penanda nama daerah yang diukur. Pal dipasang antara satu tonggak dengan tonggak yang lain berdasarkan ukuran panjang jalan yang dipakai, misalnya dalam kilometer atau mil.</span><small> (in)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="property"><a class="uri" href="http://www.w3.org/2000/01/rdf-schema#label"><small>rdfs:</small>label</a>
+</td><td><ul>
+	<li style="display:none;"><span class="literal"><span property="rdfs:label" lang="ar">علامة المسافات</span><small> (ar)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="rdfs:label" lang="ca">Fita</span><small> (ca)</small></span></li>
+	<li><span class="literal"><span property="rdfs:label" lang="en">Milestone</span><small> (en)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="rdfs:label" lang="de">Meilenstein</span><small> (de)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="rdfs:label" lang="fr">Borne routière</span><small> (fr)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="rdfs:label" lang="in">Pal</span><small> (in)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="rdfs:label" lang="ja">マイルストーン</span><small> (ja)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="rdfs:label" lang="ko">이정표</span><small> (ko)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="rdfs:label" lang="nl">Mijlpaal</span><small> (nl)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="rdfs:label" lang="sv">Milsten</span><small> (sv)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="rdfs:label" lang="uk">Камінь відліку миль</span><small> (uk)</small></span></li>
+	<li style="display:none;"><span class="literal"><span property="rdfs:label" lang="zh">里程碑</span><small> (zh)</small></span></li>
+</ul></td></tr><tr class="even"><td class="property"><a class="uri" href="http://www.w3.org/2000/01/rdf-schema#seeAlso"><small>rdfs:</small>seeAlso</a>
+</td><td><ul>
+	<li><span class="literal"><a class="uri" rel="rdfs:seeAlso" href="http://dbpedia.org/resource/California_postmile"><small>dbr</small>:California_postmile</a></span></li>
+</ul></td></tr><tr class="odd"><td class="property"><a class="uri" href="http://www.w3.org/2002/07/owl#sameAs"><small>owl:</small>sameAs</a>
+</td><td><ul>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://rdf.freebase.com/ns/m.01p_55"><small>freebase</small>:Milestone</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://d-nb.info/gnd/4038439-1">http://d-nb.info/gnd/4038439-1</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://zh.dbpedia.org/resource/里程碑"><small>dbpedia-zh</small>:Milestone</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://fr.dbpedia.org/resource/Borne_routière"><small>dbpedia-fr</small>:Milestone</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://he.dbpedia.org/resource/אבן_מיל"><small>dbpedia-he</small>:Milestone</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://no.dbpedia.org/resource/Milepæl"><small>dbpedia-no</small>:Milestone</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="https://global.dbpedia.org/id/6oo4">https://global.dbpedia.org/id/6oo4</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://ta.dbpedia.org/resource/தொலைவுக்_கல்">http://ta.dbpedia.org/resource/தொலைவுக்_கல்</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://ca.dbpedia.org/resource/Fita"><small>dbpedia-ca</small>:Milestone</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://uk.dbpedia.org/resource/Камінь_відліку_миль"><small>dbpedia-uk</small>:Milestone</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://ms.dbpedia.org/resource/Batu_Penanda"><small>dbpedia-ms</small>:Milestone</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://th.dbpedia.org/resource/หลักกิโลเมตร"><small>dbpedia-th</small>:Milestone</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://ja.dbpedia.org/resource/マイルストーン"><small>dbpedia-ja</small>:Milestone</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://ar.dbpedia.org/resource/علامة_المسافات"><small>dbpedia-ar</small>:Milestone</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://pa.dbpedia.org/resource/ਮੀਲ_ਪੱਥਰ">http://pa.dbpedia.org/resource/ਮੀਲ_ਪੱਥਰ</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://www.wikidata.org/entity/Q10145"><small>wikidata</small>:Milestone</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://hi.dbpedia.org/resource/संगमील">http://hi.dbpedia.org/resource/संगमील</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://bg.dbpedia.org/resource/Километричен_камък"><small>dbpedia-bg</small>:Milestone</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://ro.dbpedia.org/resource/Bornă_rutieră"><small>dbpedia-ro</small>:Milestone</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://da.dbpedia.org/resource/Milepæl"><small>dbpedia-da</small>:Milestone</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://ml.dbpedia.org/resource/മൈൽകുറ്റി">http://ml.dbpedia.org/resource/മൈൽകുറ്റി</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://d-nb.info/gnd/4038439-1/about/rdf">http://d-nb.info/gnd/4038439-1/about/rdf</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://nl.dbpedia.org/resource/Mijlpaal"><small>dbpedia-nl</small>:Milestone</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://tr.dbpedia.org/resource/Mil_taşı"><small>dbpedia-tr</small>:Milestone</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://fi.dbpedia.org/resource/Kilometripylväs"><small>dbpedia-fi</small>:Milestone</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://fa.dbpedia.org/resource/فرسنگ‌شمار"><small>dbpedia-fa</small>:Milestone</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://mk.dbpedia.org/resource/Милјоказ"><small>dbpedia-mk</small>:Milestone</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://als.dbpedia.org/resource/Meilenstein"><small>dbpedia-als</small>:Milestone</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://sv.dbpedia.org/resource/Milsten"><small>dbpedia-sv</small>:Milestone</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://nn.dbpedia.org/resource/Milestolpe"><small>dbpedia-nn</small>:Milestone</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://de.dbpedia.org/resource/Meilenstein"><small>dbpedia-de</small>:Milestone</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://ko.dbpedia.org/resource/이정표"><small>dbpedia-ko</small>:Milestone</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://id.dbpedia.org/resource/Pal"><small>dbpedia-id</small>:Milestone</a></span></li>
+	<li><span class="literal"><a class="uri" rel="owl:sameAs" href="http://kn.dbpedia.org/resource/ಮೈಲಿಗಲ್ಲು">http://kn.dbpedia.org/resource/ಮೈಲಿಗಲ್ಲು</a></span></li>
+</ul></td></tr><tr class="even"><td class="property"><a class="uri" href="http://www.w3.org/2003/01/geo/wgs84_pos#geometry"><small>geo:</small>geometry</a>
+</td><td><ul>
+	<li><span class="literal"><span property="geo:geometry" prefix="geo: http://www.w3.org/2003/01/geo/wgs84_pos#">POINT(150.1815032959 -35.701400756836)</span></span></li>
+</ul></td></tr><tr class="odd"><td class="property"><a class="uri" href="http://www.w3.org/2003/01/geo/wgs84_pos#lat"><small>geo:</small>lat</a>
+</td><td><ul>
+	<li><span class="literal"><span property="geo:lat" prefix="geo: http://www.w3.org/2003/01/geo/wgs84_pos#">-35.701401</span><small> (xsd:float)</small></span></li>
+</ul></td></tr><tr class="even"><td class="property"><a class="uri" href="http://www.w3.org/2003/01/geo/wgs84_pos#long"><small>geo:</small>long</a>
+</td><td><ul>
+	<li><span class="literal"><span property="geo:long" prefix="geo: http://www.w3.org/2003/01/geo/wgs84_pos#">150.181503</span><small> (xsd:float)</small></span></li>
+</ul></td></tr><tr class="odd"><td class="property"><a class="uri" href="http://www.w3.org/ns/prov#wasDerivedFrom"><small>prov:</small>wasDerivedFrom</a>
+</td><td><ul>
+	<li><span class="literal"><a class="uri" rel="prov:wasDerivedFrom" href="http://en.wikipedia.org/wiki/Milestone?oldid=973811166&amp;ns=0"><small>wikipedia-en</small>:Milestone?oldid=973811166&amp;ns=0</a></span></li>
+</ul></td></tr><tr class="even"><td class="property"><a class="uri" href="http://xmlns.com/foaf/0.1/depiction"><small>foaf:</small>depiction</a>
+</td><td><ul>
+	<li><span class="literal"><a class="uri" rel="foaf:depiction" href="http://commons.wikimedia.org/wiki/Special:FilePath/AUT_0345.JPG"><small>wiki-commons</small>:Special:FilePath/AUT_0345.JPG</a></span></li>
+</ul></td></tr><tr class="odd"><td class="property"><a class="uri" href="http://xmlns.com/foaf/0.1/isPrimaryTopicOf"><small>foaf:</small>isPrimaryTopicOf</a>
+</td><td><ul>
+	<li><span class="literal"><a class="uri" rel="foaf:isPrimaryTopicOf" href="http://en.wikipedia.org/wiki/Milestone"><small>wikipedia-en</small>:Milestone</a></span></li>
+</ul></td></tr><tr class="even"><td class="property">is <a class="uri" href="http://dbpedia.org/ontology/birthPlace"><small>dbo:</small>birthPlace</a>
+ of</td><td><ul>
+	<li><span class="literal"><a class="uri" rev="dbo:birthPlace" href="http://dbpedia.org/resource/Logan_Pyett"><small>dbr</small>:Logan_Pyett</a></span></li>
+</ul></td></tr><tr class="odd"><td class="property">is <a class="uri" href="http://dbpedia.org/ontology/network"><small>dbo:</small>network</a>
+ of</td><td><ul>
+	<li><span class="literal"><a class="uri" rev="dbo:network" href="http://dbpedia.org/resource/Aquí_no_hay_quien_viva"><small>dbr</small>:Aquí_no_hay_quien_viva</a></span></li>
+</ul></td></tr><tr class="even"><td class="property">is <a class="uri" href="http://dbpedia.org/ontology/wikiPageDisambiguates"><small>dbo:</small>wikiPageDisambiguates</a>
+ of</td><td><ul>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageDisambiguates" href="http://dbpedia.org/resource/Milestone_(disambiguation)"><small>dbr</small>:Milestone_(disambiguation)</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageDisambiguates" href="http://dbpedia.org/resource/MP"><small>dbr</small>:MP</a></span></li>
+</ul></td></tr><tr class="odd"><td class="property">is <a class="uri" href="http://dbpedia.org/ontology/wikiPageRedirects"><small>dbo:</small>wikiPageRedirects</a>
+ of</td><td><ul>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageRedirects" href="http://dbpedia.org/resource/Railway_milepost"><small>dbr</small>:Railway_milepost</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageRedirects" href="http://dbpedia.org/resource/Kilometer_post"><small>dbr</small>:Kilometer_post</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageRedirects" href="http://dbpedia.org/resource/Kilometerpost"><small>dbr</small>:Kilometerpost</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageRedirects" href="http://dbpedia.org/resource/Kilometre_post"><small>dbr</small>:Kilometre_post</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageRedirects" href="http://dbpedia.org/resource/Roman_milliarium"><small>dbr</small>:Roman_milliarium</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageRedirects" href="http://dbpedia.org/resource/Mile_Stone"><small>dbr</small>:Mile_Stone</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageRedirects" href="http://dbpedia.org/resource/Mile_marker"><small>dbr</small>:Mile_marker</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageRedirects" href="http://dbpedia.org/resource/Mile_post"><small>dbr</small>:Mile_post</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageRedirects" href="http://dbpedia.org/resource/Mile_stone"><small>dbr</small>:Mile_stone</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageRedirects" href="http://dbpedia.org/resource/Mileage_marker"><small>dbr</small>:Mileage_marker</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageRedirects" href="http://dbpedia.org/resource/Milemarker"><small>dbr</small>:Milemarker</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageRedirects" href="http://dbpedia.org/resource/Milepoint"><small>dbr</small>:Milepoint</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageRedirects" href="http://dbpedia.org/resource/Milepost"><small>dbr</small>:Milepost</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageRedirects" href="http://dbpedia.org/resource/Milestone_(Road_transport)"><small>dbr</small>:Milestone_(Road_transport)</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageRedirects" href="http://dbpedia.org/resource/Milestone_(transport)"><small>dbr</small>:Milestone_(transport)</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageRedirects" href="http://dbpedia.org/resource/Millarium"><small>dbr</small>:Millarium</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageRedirects" href="http://dbpedia.org/resource/Milliarium"><small>dbr</small>:Milliarium</a></span></li>
+</ul></td></tr><tr class="even"><td class="property">is <a class="uri" href="http://dbpedia.org/ontology/wikiPageWikiLink"><small>dbo:</small>wikiPageWikiLink</a>
+ of</td><td><ul>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/A4117_road"><small>dbr</small>:A4117_road</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/AOKP"><small>dbr</small>:AOKP</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Lowell_Line"><small>dbr</small>:Lowell_Line</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Macquarie_Place_Park"><small>dbr</small>:Macquarie_Place_Park</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Main_Line_(Long_Island_Rail_Road)"><small>dbr</small>:Main_Line_(Long_Island_Rail_Road)</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Main_Line_(NJ_Transit)"><small>dbr</small>:Main_Line_(NJ_Transit)</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Maine_State_Route_703"><small>dbr</small>:Maine_State_Route_703</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Controlled-access_highway"><small>dbr</small>:Controlled-access_highway</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Cornish_hurling"><small>dbr</small>:Cornish_hurling</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Corpus_Inscriptionum_Latinarum"><small>dbr</small>:Corpus_Inscriptionum_Latinarum</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Ukrainian_Railways"><small>dbr</small>:Ukrainian_Railways</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Umpqua_River_Bridge"><small>dbr</small>:Umpqua_River_Bridge</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Union_Village,_Rhode_Island"><small>dbr</small>:Union_Village,_Rhode_Island</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Utah_Division_(D&amp;RGW)"><small>dbr</small>:Utah_Division_(D&amp;RGW)</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Utah_State_Route_129"><small>dbr</small>:Utah_State_Route_129</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Utah_State_Route_190"><small>dbr</small>:Utah_State_Route_190</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Utah_State_Route_210"><small>dbr</small>:Utah_State_Route_210</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Utah_State_Route_269"><small>dbr</small>:Utah_State_Route_269</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Velika_Vas_pri_Krškem"><small>dbr</small>:Velika_Vas_pri_Krškem</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Vermonter_(train)"><small>dbr</small>:Vermonter_(train)</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Dalgarven_Mill_–_Museum_of_Ayrshire_Country_Life_and_Costume"><small>dbr</small>:Dalgarven_Mill_–_Museum_of_Ayrshire_Country_Life_and_Costume</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Spiral_(railway)"><small>dbr</small>:Spiral_(railway)</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Trade_route"><small>dbr</small>:Trade_route</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Roy&#39;s_Motel_and_Café"><small>dbr</small>:Roy&#39;s_Motel_and_Café</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Music_of_Dominica"><small>dbr</small>:Music_of_Dominica</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Scheduled_monuments_in_Lancashire"><small>dbr</small>:Scheduled_monuments_in_Lancashire</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Bisceglie"><small>dbr</small>:Bisceglie</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Blythburgh"><small>dbr</small>:Blythburgh</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Bobingen"><small>dbr</small>:Bobingen</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Boston_Post_Road"><small>dbr</small>:Boston_Post_Road</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Braga"><small>dbr</small>:Braga</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Bramhope"><small>dbr</small>:Bramhope</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Department_of_Rural_Roads"><small>dbr</small>:Department_of_Rural_Roads</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Disappearance_of_Logan_Schiendelman"><small>dbr</small>:Disappearance_of_Logan_Schiendelman</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/District_of_Columbia_Route_295"><small>dbr</small>:District_of_Columbia_Route_295</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Ditton,_Kent"><small>dbr</small>:Ditton,_Kent</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Dog_Mountain"><small>dbr</small>:Dog_Mountain</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Gladstone_Branch"><small>dbr</small>:Gladstone_Branch</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Glengormley"><small>dbr</small>:Glengormley</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Great_Locomotive_Chase"><small>dbr</small>:Great_Locomotive_Chase</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Greenbush_Line"><small>dbr</small>:Greenbush_Line</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Groundhog_Day"><small>dbr</small>:Groundhog_Day</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Key_Largo_School"><small>dbr</small>:Key_Largo_School</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Keystone_Corridor"><small>dbr</small>:Keystone_Corridor</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/King&#39;s_Highway_Historic_District_(New_Jersey)"><small>dbr</small>:King&#39;s_Highway_Historic_District_(New_Jersey)</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Kitanaura"><small>dbr</small>:Kitanaura</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Klondike_Highway"><small>dbr</small>:Klondike_Highway</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Kogane_Ichirizuka"><small>dbr</small>:Kogane_Ichirizuka</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Princeton_Branch"><small>dbr</small>:Princeton_Branch</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Providence/Stoughton_Line"><small>dbr</small>:Providence/Stoughton_Line</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Quinto,_Aragon"><small>dbr</small>:Quinto,_Aragon</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Rahway_River_Bridge"><small>dbr</small>:Rahway_River_Bridge</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Railway_milepost"><small>dbr</small>:Railway_milepost</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Nickel_Centre"><small>dbr</small>:Nickel_Centre</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Seed_bank"><small>dbr</small>:Seed_bank</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Via_Aurelia"><small>dbr</small>:Via_Aurelia</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Peter_Glantz"><small>dbr</small>:Peter_Glantz</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Horseshoe_curve"><small>dbr</small>:Horseshoe_curve</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Images_of_England"><small>dbr</small>:Images_of_England</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Indre_By"><small>dbr</small>:Indre_By</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Exit_number"><small>dbr</small>:Exit_number</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Military_Way_(Hadrian&#39;s_Wall)"><small>dbr</small>:Military_Way_(Hadrian&#39;s_Wall)</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Railroadiana"><small>dbr</small>:Railroadiana</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Spectrum_of_theistic_probability"><small>dbr</small>:Spectrum_of_theistic_probability</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Transport_in_Niger"><small>dbr</small>:Transport_in_Niger</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Roman_roads_in_Britannia"><small>dbr</small>:Roman_roads_in_Britannia</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Kilometer_post"><small>dbr</small>:Kilometer_post</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Kilometerpost"><small>dbr</small>:Kilometerpost</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Kilometre_post"><small>dbr</small>:Kilometre_post</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/1767_Milestones"><small>dbr</small>:1767_Milestones</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Airport_Line_(SEPTA)"><small>dbr</small>:Airport_Line_(SEPTA)</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Al-Qabu"><small>dbr</small>:Al-Qabu</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Alaska_Highway"><small>dbr</small>:Alaska_Highway</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Alaska_Route_1"><small>dbr</small>:Alaska_Route_1</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Algoma_Eastern_Railway"><small>dbr</small>:Algoma_Eastern_Railway</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/All_a_Bir-r-r-d"><small>dbr</small>:All_a_Bir-r-r-d</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Alon_Shvut"><small>dbr</small>:Alon_Shvut</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Charing_Cross"><small>dbr</small>:Charing_Cross</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Checkerboard_Inn"><small>dbr</small>:Checkerboard_Inn</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Chestnut_Hill_East_Line"><small>dbr</small>:Chestnut_Hill_East_Line</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Chestnut_Hill_West_Line"><small>dbr</small>:Chestnut_Hill_West_Line</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Chew_Stoke"><small>dbr</small>:Chew_Stoke</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Fitchburg_Line"><small>dbr</small>:Fitchburg_Line</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Florida_State_Road_913"><small>dbr</small>:Florida_State_Road_913</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Normanton-on-Cliffe"><small>dbr</small>:Normanton-on-Cliffe</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/North_Carolina_Highway_106"><small>dbr</small>:North_Carolina_Highway_106</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/North_Carolina_Highway_128"><small>dbr</small>:North_Carolina_Highway_128</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/North_Jersey_Coast_Line"><small>dbr</small>:North_Jersey_Coast_Line</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Northeast_Corridor_Line"><small>dbr</small>:Northeast_Corridor_Line</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Nottinghamshire"><small>dbr</small>:Nottinghamshire</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Oberwesel"><small>dbr</small>:Oberwesel</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Oberwiesenthal"><small>dbr</small>:Oberwiesenthal</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Old_Albany_Post_Road"><small>dbr</small>:Old_Albany_Post_Road</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Old_Colony_Lines"><small>dbr</small>:Old_Colony_Lines</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Chaussee"><small>dbr</small>:Chaussee</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Diamond_Gulch_(Juab_County,_Utah)"><small>dbr</small>:Diamond_Gulch_(Juab_County,_Utah)</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Dino_Run"><small>dbr</small>:Dino_Run</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Direction,_position,_or_indication_sign"><small>dbr</small>:Direction,_position,_or_indication_sign</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Flat_Top_Manor"><small>dbr</small>:Flat_Top_Manor</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Geocoding"><small>dbr</small>:Geocoding</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Irish_measure"><small>dbr</small>:Irish_measure</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Milestone_(disambiguation)"><small>dbr</small>:Milestone_(disambiguation)</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Glossary_of_road_transport_terms"><small>dbr</small>:Glossary_of_road_transport_terms</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Rabba"><small>dbr</small>:Rabba</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Remote_Associates_Test"><small>dbr</small>:Remote_Associates_Test</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Road"><small>dbr</small>:Road</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Vicarello_Cups"><small>dbr</small>:Vicarello_Cups</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Victoria_Park,_Widnes"><small>dbr</small>:Victoria_Park,_Widnes</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Washington_&amp;_Old_Dominion_Railroad_Regional_Park"><small>dbr</small>:Washington_&amp;_Old_Dominion_Railroad_Regional_Park</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Reassurance_marker"><small>dbr</small>:Reassurance_marker</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Babylon_Branch"><small>dbr</small>:Babylon_Branch</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Baerenthal"><small>dbr</small>:Baerenthal</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Baglan,_Neath_Port_Talbot"><small>dbr</small>:Baglan,_Neath_Port_Talbot</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Ballaghaderreen_branch_line"><small>dbr</small>:Ballaghaderreen_branch_line</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Balmaseda"><small>dbr</small>:Balmaseda</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Baseline_(configuration_management)"><small>dbr</small>:Baseline_(configuration_management)</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Beacon"><small>dbr</small>:Beacon</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/List_of_Xbox_360_games_(M–Z)"><small>dbr</small>:List_of_Xbox_360_games_(M–Z)</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/List_of_Xbox_games"><small>dbr</small>:List_of_Xbox_games</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/List_of_crossings_of_the_Lower_Passaic_River"><small>dbr</small>:List_of_crossings_of_the_Lower_Passaic_River</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/List_of_medieval_abbreviations"><small>dbr</small>:List_of_medieval_abbreviations</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/List_of_scheduled_monuments_in_South_Kesteven"><small>dbr</small>:List_of_scheduled_monuments_in_South_Kesteven</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/List_of_wolf_attacks_in_North_America"><small>dbr</small>:List_of_wolf_attacks_in_North_America</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Listed_building"><small>dbr</small>:Listed_building</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Listed_buildings_in_Cardiff"><small>dbr</small>:Listed_buildings_in_Cardiff</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Little_Stretton,_Shropshire"><small>dbr</small>:Little_Stretton,_Shropshire</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Little_Wolford"><small>dbr</small>:Little_Wolford</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Llanfairfechan"><small>dbr</small>:Llanfairfechan</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Logan_Pyett"><small>dbr</small>:Logan_Pyett</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Lommatzsch"><small>dbr</small>:Lommatzsch</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/London_Borough_of_Hounslow"><small>dbr</small>:London_Borough_of_Hounslow</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Loudwater,_Buckinghamshire"><small>dbr</small>:Loudwater,_Buckinghamshire</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Economic_history_of_Vietnam"><small>dbr</small>:Economic_history_of_Vietnam</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Track_geometry_car"><small>dbr</small>:Track_geometry_car</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Threekingham_Bar"><small>dbr</small>:Threekingham_Bar</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Via_Agrippa"><small>dbr</small>:Via_Agrippa</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Road_signs_in_the_United_Kingdom"><small>dbr</small>:Road_signs_in_the_United_Kingdom</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Trolley_Museum_of_New_York"><small>dbr</small>:Trolley_Museum_of_New_York</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Callander_railway_station"><small>dbr</small>:Callander_railway_station</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Cameron_Corner_Survey_Marker"><small>dbr</small>:Cameron_Corner_Survey_Marker</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Canovium"><small>dbr</small>:Canovium</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Cantlop"><small>dbr</small>:Cantlop</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Canzo"><small>dbr</small>:Canzo</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/CapeFlyer"><small>dbr</small>:CapeFlyer</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Capidava"><small>dbr</small>:Capidava</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Carlbury"><small>dbr</small>:Carlbury</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Carter_Aviation_Technologies"><small>dbr</small>:Carter_Aviation_Technologies</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Castellane"><small>dbr</small>:Castellane</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Chisholm,_Ontario"><small>dbr</small>:Chisholm,_Ontario</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Choe_Bu"><small>dbr</small>:Choe_Bu</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Cippi_of_Melqart"><small>dbr</small>:Cippi_of_Melqart</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Claydon_railway_station"><small>dbr</small>:Claydon_railway_station</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Gamlingay_railway_station"><small>dbr</small>:Gamlingay_railway_station</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Georgia_Northeastern_Railroad"><small>dbr</small>:Georgia_Northeastern_Railroad</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Gerard_Crane_House"><small>dbr</small>:Gerard_Crane_House</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Jisr_el-Majami"><small>dbr</small>:Jisr_el-Majami</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Johanngeorgenstadt"><small>dbr</small>:Johanngeorgenstadt</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/John_Longmire"><small>dbr</small>:John_Longmire</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Emergency_telephone"><small>dbr</small>:Emergency_telephone</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Rail_directions"><small>dbr</small>:Rail_directions</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Milepost_equation"><small>dbr</small>:Milepost_equation</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Bavay"><small>dbr</small>:Bavay</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Bayt_Nattif"><small>dbr</small>:Bayt_Nattif</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Beach_Bridge"><small>dbr</small>:Beach_Bridge</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Beccles"><small>dbr</small>:Beccles</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Bee_Thousand"><small>dbr</small>:Bee_Thousand</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Bensonhurst,_Brooklyn"><small>dbr</small>:Bensonhurst,_Brooklyn</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Bergen_County_Line"><small>dbr</small>:Bergen_County_Line</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Kalka–Shimla_railway"><small>dbr</small>:Kalka–Shimla_railway</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Kansas_Turnpike"><small>dbr</small>:Kansas_Turnpike</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Leeming_Bar"><small>dbr</small>:Leeming_Bar</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Leienkaul"><small>dbr</small>:Leienkaul</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Leskovec_pri_Krškem"><small>dbr</small>:Leskovec_pri_Krškem</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Lincoln_Highway_Hackensack_River_Bridge"><small>dbr</small>:Lincoln_Highway_Hackensack_River_Bridge</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Lincoln_Highway_Passaic_River_Bridge"><small>dbr</small>:Lincoln_Highway_Passaic_River_Bridge</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Lindenholzhausen"><small>dbr</small>:Lindenholzhausen</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Linear_referencing"><small>dbr</small>:Linear_referencing</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Ten_Mile_Lake_Provincial_Park"><small>dbr</small>:Ten_Mile_Lake_Provincial_Park</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Zibo_train_collision"><small>dbr</small>:Zibo_train_collision</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Øster_Allé"><small>dbr</small>:Øster_Allé</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Ōhira_Ichirizuka"><small>dbr</small>:Ōhira_Ichirizuka</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/ʻAkoni_Pule_Highway"><small>dbr</small>:ʻAkoni_Pule_Highway</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Kilometric_point"><small>dbr</small>:Kilometric_point</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Onomasticon_(Eusebius)"><small>dbr</small>:Onomasticon_(Eusebius)</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Ontario_Global_Edge_Program"><small>dbr</small>:Ontario_Global_Edge_Program</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Smathers_Beach"><small>dbr</small>:Smathers_Beach</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Somerset_Space_Walk"><small>dbr</small>:Somerset_Space_Walk</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Springside,_North_Ayrshire"><small>dbr</small>:Springside,_North_Ayrshire</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Traffic_sign"><small>dbr</small>:Traffic_sign</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Highway_location_marker"><small>dbr</small>:Highway_location_marker</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Music_of_Martinique"><small>dbr</small>:Music_of_Martinique</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Roman_roads"><small>dbr</small>:Roman_roads</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Roseville_Tunnel"><small>dbr</small>:Roseville_Tunnel</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Tony_Michaelides"><small>dbr</small>:Tony_Michaelides</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Villa_di_Quarto"><small>dbr</small>:Villa_di_Quarto</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/List_of_Old_Colony_Railroad_stations"><small>dbr</small>:List_of_Old_Colony_Railroad_stations</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/List_of_PlayStation_2_games_(A–K)"><small>dbr</small>:List_of_PlayStation_2_games_(A–K)</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Zero_Milestone"><small>dbr</small>:Zero_Milestone</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Michigan_State_Trunkline_Highway_System"><small>dbr</small>:Michigan_State_Trunkline_Highway_System</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Microsoft_Office_97"><small>dbr</small>:Microsoft_Office_97</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Middop"><small>dbr</small>:Middop</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Mile"><small>dbr</small>:Mile</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Mile_End_tube_station"><small>dbr</small>:Mile_End_tube_station</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Milestone_(Arlington,_Massachusetts)"><small>dbr</small>:Milestone_(Arlington,_Massachusetts)</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Milliarium_Aureum"><small>dbr</small>:Milliarium_Aureum</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Minnesota_State_Highway_36"><small>dbr</small>:Minnesota_State_Highway_36</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Rueso_railway_station"><small>dbr</small>:Rueso_railway_station</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Cellae_in_Proconsulari"><small>dbr</small>:Cellae_in_Proconsulari</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Itinerarium"><small>dbr</small>:Itinerarium</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Jireček_Line"><small>dbr</small>:Jireček_Line</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Florida_Keys"><small>dbr</small>:Florida_Keys</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Latium_adiectum"><small>dbr</small>:Latium_adiectum</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/MP"><small>dbr</small>:MP</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Martinian_and_Processus"><small>dbr</small>:Martinian_and_Processus</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Survey_marker"><small>dbr</small>:Survey_marker</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Gatepost"><small>dbr</small>:Gatepost</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Augsburg-Göggingen"><small>dbr</small>:Augsburg-Göggingen</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Aulus_Larcius_Macedo"><small>dbr</small>:Aulus_Larcius_Macedo</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Slabinja"><small>dbr</small>:Slabinja</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Small_Heath"><small>dbr</small>:Small_Heath</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Smith_Tavern"><small>dbr</small>:Smith_Tavern</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/South_Hylton"><small>dbr</small>:South_Hylton</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/South_Shore_Line"><small>dbr</small>:South_Shore_Line</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Special_routes_of_U.S._Route_30"><small>dbr</small>:Special_routes_of_U.S._Route_30</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Kilometre_zero"><small>dbr</small>:Kilometre_zero</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Listed_buildings_in_Lancashire"><small>dbr</small>:Listed_buildings_in_Lancashire</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Dormington"><small>dbr</small>:Dormington</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Dorset_Avenue_Bridge"><small>dbr</small>:Dorset_Avenue_Bridge</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Dörrebach"><small>dbr</small>:Dörrebach</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/East_Sheen"><small>dbr</small>:East_Sheen</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Fox_Chase_Line"><small>dbr</small>:Fox_Chase_Line</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Framingham/Worcester_Line"><small>dbr</small>:Framingham/Worcester_Line</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Francis_Turner_(engineer)"><small>dbr</small>:Francis_Turner_(engineer)</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Franklin_Line"><small>dbr</small>:Franklin_Line</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Haddon_Corner"><small>dbr</small>:Haddon_Corner</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Hall_Station,_Colorado"><small>dbr</small>:Hall_Station,_Colorado</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Hank_Aaron"><small>dbr</small>:Hank_Aaron</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Hardy_Bridge"><small>dbr</small>:Hardy_Bridge</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Harlem_Line"><small>dbr</small>:Harlem_Line</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Apodemica"><small>dbr</small>:Apodemica</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Aquí_no_hay_quien_viva"><small>dbr</small>:Aquí_no_hay_quien_viva</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Hobart_station_(New_York)"><small>dbr</small>:Hobart_station_(New_York)</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Hooper_Bald"><small>dbr</small>:Hooper_Bald</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Hudson_Line_(Metro-North)"><small>dbr</small>:Hudson_Line_(Metro-North)</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Huron_Central_Railway"><small>dbr</small>:Huron_Central_Railway</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/International_reactions_to_the_2018_North_Korea–United_States_summit"><small>dbr</small>:International_reactions_to_the_2018_North_Korea–United_States_summit</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Interstate_15_in_Utah"><small>dbr</small>:Interstate_15_in_Utah</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Interstate_22"><small>dbr</small>:Interstate_22</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Interstate_35E_(Minnesota)"><small>dbr</small>:Interstate_35E_(Minnesota)</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Interstate_4"><small>dbr</small>:Interstate_4</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Interstate_422"><small>dbr</small>:Interstate_422</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Interstate_694"><small>dbr</small>:Interstate_694</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Interstate_70_in_Colorado"><small>dbr</small>:Interstate_70_in_Colorado</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Interstate_77_in_Virginia"><small>dbr</small>:Interstate_77_in_Virginia</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Interstate_795_(North_Carolina)"><small>dbr</small>:Interstate_795_(North_Carolina)</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Interstate_86_(Pennsylvania–New_York)"><small>dbr</small>:Interstate_86_(Pennsylvania–New_York)</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Interstate_90"><small>dbr</small>:Interstate_90</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Interstate_95_in_Virginia"><small>dbr</small>:Interstate_95_in_Virginia</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Iowa_Highway_110"><small>dbr</small>:Iowa_Highway_110</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/San_Casciano_in_Val_di_Pesa"><small>dbr</small>:San_Casciano_in_Val_di_Pesa</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Santa_Claus,_Arizona"><small>dbr</small>:Santa_Claus,_Arizona</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Scarborough_Connector"><small>dbr</small>:Scarborough_Connector</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Scout_Key"><small>dbr</small>:Scout_Key</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Seefeld_Saddle"><small>dbr</small>:Seefeld_Saddle</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Road_signs_in_the_Czech_Republic"><small>dbr</small>:Road_signs_in_the_Czech_Republic</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/History_of_Slough"><small>dbr</small>:History_of_Slough</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/History_of_Worthing"><small>dbr</small>:History_of_Worthing</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/History_of_dental_treatments"><small>dbr</small>:History_of_dental_treatments</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/History_of_roads_in_Ireland"><small>dbr</small>:History_of_roads_in_Ireland</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Ichirizuka"><small>dbr</small>:Ichirizuka</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Parting_stone"><small>dbr</small>:Parting_stone</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/JazzReggae_Festival_@_UCLA"><small>dbr</small>:JazzReggae_Festival_@_UCLA</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Mieming_Plateau"><small>dbr</small>:Mieming_Plateau</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Post_riders"><small>dbr</small>:Post_riders</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/West_Run_Expressway"><small>dbr</small>:West_Run_Expressway</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/John_Brewer_Cameron"><small>dbr</small>:John_Brewer_Cameron</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/National_Certification_Commission_for_Acupuncture_and_Oriental_Medicine"><small>dbr</small>:National_Certification_Commission_for_Acupuncture_and_Oriental_Medicine</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Khlong_Prem_Prachakon"><small>dbr</small>:Khlong_Prem_Prachakon</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/List_of_Alaska_Routes"><small>dbr</small>:List_of_Alaska_Routes</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/List_of_Italian_inventions_and_discoveries"><small>dbr</small>:List_of_Italian_inventions_and_discoveries</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Stanisław_Jaros"><small>dbr</small>:Stanisław_Jaros</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Strata_Diocletiana"><small>dbr</small>:Strata_Diocletiana</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Amasya_Museum"><small>dbr</small>:Amasya_Museum</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Ampass"><small>dbr</small>:Ampass</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Ano_Ichirizuka"><small>dbr</small>:Ano_Ichirizuka</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Antikythera_mechanism"><small>dbr</small>:Antikythera_mechanism</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Apple_Capital_Recreation_Loop_Trail"><small>dbr</small>:Apple_Capital_Recreation_Loop_Trail</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Arizona_State_Route_101"><small>dbr</small>:Arizona_State_Route_101</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Arrington,_Cambridgeshire"><small>dbr</small>:Arrington,_Cambridgeshire</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Aswarby"><small>dbr</small>:Aswarby</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Atlantic_Branch"><small>dbr</small>:Atlantic_Branch</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Atlantic_City_Line"><small>dbr</small>:Atlantic_City_Line</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Atlantic_City–Brigantine_Connector"><small>dbr</small>:Atlantic_City–Brigantine_Connector</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Auckland_Castle"><small>dbr</small>:Auckland_Castle</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Boundary_marker"><small>dbr</small>:Boundary_marker</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Boundary_markers_of_the_original_District_of_Columbia"><small>dbr</small>:Boundary_markers_of_the_original_District_of_Columbia</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Orange,_Texas"><small>dbr</small>:Orange,_Texas</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Oregon_Route_219"><small>dbr</small>:Oregon_Route_219</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Ounga,_Tunisia"><small>dbr</small>:Ounga,_Tunisia</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbo:wikiPageWikiLink" href="http://dbpedia.org/resource/Overseas_Highway"><small>dbr</small>:Overseas_Highway</a></span></li>
+</ul></td></tr><tr class="odd"><td class="property">is <a class="uri" href="http://dbpedia.org/property/function"><small>dbp:</small>function</a>
+ of</td><td><ul>
+	<li><span class="literal"><a class="uri" rev="dbp:function" href="http://dbpedia.org/resource/Listed_buildings_in_Cardiff"><small>dbr</small>:Listed_buildings_in_Cardiff</a></span></li>
+</ul></td></tr><tr class="even"><td class="property">is <a class="uri" href="http://dbpedia.org/property/network"><small>dbp:</small>network</a>
+ of</td><td><ul>
+	<li><span class="literal"><a class="uri" rev="dbp:network" href="http://dbpedia.org/resource/Aquí_no_hay_quien_viva"><small>dbr</small>:Aquí_no_hay_quien_viva</a></span></li>
+</ul></td></tr><tr class="odd"><td class="property">is <a class="uri" href="http://dbpedia.org/property/type"><small>dbp:</small>type</a>
+ of</td><td><ul>
+	<li><span class="literal"><a class="uri" rev="dbp:type" href="http://dbpedia.org/resource/Milliarium_Aureum"><small>dbr</small>:Milliarium_Aureum</a></span></li>
+	<li><span class="literal"><a class="uri" rev="dbp:type" href="http://dbpedia.org/resource/Marco_Zero_(São_Paulo)"><small>dbr</small>:Marco_Zero_(São_Paulo)</a></span></li>
+</ul></td></tr><tr class="even"><td class="property">is <a class="uri" href="http://xmlns.com/foaf/0.1/primaryTopic"><small>foaf:</small>primaryTopic</a>
+ of</td><td><ul>
+	<li><span class="literal"><a class="uri" rev="foaf:primaryTopic" href="http://en.wikipedia.org/wiki/Milestone"><small>wikipedia-en</small>:Milestone</a></span></li>
+</ul></td></tr>
+      </table>
+    </div>
+<!-- row  -->
+</div>
+</div>
+<!-- footer -->
+<div class="footer">
+    <div class="container">
+	<a href="https://virtuoso.openlinksw.com" title="OpenLink Virtuoso"><img class="powered_by" src="/statics/images/virt_power_no_border.png" alt="Powered by OpenLink Virtuoso"/></a>&nbsp; &nbsp;
+	<a href="http://linkeddata.org/"><img alt="This material is Open Knowledge" src="/statics/images/LoDLogo.gif"/></a> &nbsp; &nbsp;
+	<a href="http://dbpedia.org/sparql"><img alt="W3C Semantic Web Technology" src="/statics/images/sw-sparql-blue.png"/></a> &nbsp;  &nbsp;
+	<a href="https://opendefinition.org/"><img alt="This material is Open Knowledge" src="/statics/images/od_80x15_red_green.png"/></a>&nbsp; &nbsp;
+	<span style="display:none;" about=""
+	    resource="http://www.w3.org/TR/rdfa-syntax"
+	    rel="dc:conformsTo">
+	    <a href="https://validator.w3.org/check?uri=referer">
+		<img src="https://www.w3.org/Icons/valid-xhtml-rdfa" alt="Valid XHTML + RDFa" height="27px" />
+	    </a>
+	</span>
+	<br />
+	<div class="text-muted">
+	    This content was extracted from <a href="http://en.wikipedia.org/wiki/Milestone">Wikipedia</a> and is licensed under the <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike 3.0 Unported License</a>
+
+	</div>
+    </div>
+</div>
+<!-- #footer -->
+<!--#content-->
+    <!--script type="text/javascript">
+     Place any Javascript code e.g. Google Analytics scripts
+    </script-->
+    
+    <script type="text/javascript" src="/statics/js/jquery.min.js"></script>
+    <script type="text/javascript" src="/statics/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="/statics/js/dbpedia.js"></script>
+</body>
+</html>

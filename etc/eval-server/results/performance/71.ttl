@@ -1,0 +1,309 @@
+@prefix dbp:	<http://dbpedia.org/property/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+dbr:Louis-Christophe_Zaleski-Zamenhof	dbp:relatives	dbr:Lidia_Zamenhof .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+dbr:Louis-Christophe_Zaleski-Zamenhof	dbo:relative	dbr:Lidia_Zamenhof ;
+	dbo:wikiPageWikiLink	dbr:Lidia_Zamenhof .
+<http://dbpedia.org/resource/Bah\u00E1\u02BC\u00ED_Faith_in_Europe>	dbo:wikiPageWikiLink	dbr:Lidia_Zamenhof .
+<http://dbpedia.org/resource/Bah\u00E1\u02BC\u00ED_Faith_in_Paraguay>	dbo:wikiPageWikiLink	dbr:Lidia_Zamenhof .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+wikipedia-en:Lidia_Zamenhof	foaf:primaryTopic	dbr:Lidia_Zamenhof .
+dbr:List_of_victims_of_Nazism	dbo:wikiPageWikiLink	dbr:Lidia_Zamenhof .
+<http://dbpedia.org/resource/Bah\u00E1\u02BC\u00ED_Faith_and_gender_equality>	dbo:wikiPageWikiLink	dbr:Lidia_Zamenhof .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Lidia_Zamenhof	rdf:type	yago:Linguist110264219 .
+@prefix schema:	<http://schema.org/> .
+dbr:Lidia_Zamenhof	rdf:type	schema:Person ,
+		yago:WikicatPeopleFromWarsaw ,
+		<http://dbpedia.org/class/yago/WikicatConvertsToTheBah\u00E1\u0027\u00EDFaith> .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Lidia_Zamenhof	rdf:type	wikidata:Q24229398 ,
+		yago:WikicatLinguistsFromPoland ,
+		foaf:Person ,
+		yago:National109625401 ,
+		yago:WikicatPeopleWhoDiedInTreblinkaExterminationCamp ,
+		wikidata:Q5 ,
+		yago:WikicatPolishPeopleExecutedInNaziConcentrationCamps ,
+		yago:WikicatWritersOfEsperantoLiterature ,
+		yago:WikicatTranslatorsToEsperanto ,
+		yago:Writer110794014 ,
+		yago:Communicator109610660 .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Lidia_Zamenhof	rdf:type	owl:Thing ,
+		yago:WikicatWarsawGhettoInmates ,
+		wikidata:Q215627 ,
+		yago:WikicatExecutedPeopleFromMasovianVoivodeship ,
+		dbo:Agent ,
+		yago:Inhabitant109620078 ,
+		yago:Inmate110207370 ,
+		yago:CausalAgent100007347 ,
+		yago:WikicatPolishTranslators ,
+		yago:Convert109962414 ,
+		yago:Resident110523519 ,
+		yago:Whole100003553 ,
+		yago:YagoLegalActor ,
+		yago:YagoLegalActorGeo ,
+		dbo:Person ,
+		yago:Object100002684 ,
+		yago:Person100007846 ,
+		yago:PhysicalEntity100001930 ,
+		yago:Organism100004475 ,
+		yago:Linguist110264437 .
+@prefix ns10:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Lidia_Zamenhof	rdf:type	ns10:NaturalPerson ,
+		ns10:Agent ,
+		yago:WikicatConvertsFromJudaism ,
+		yago:WikicatPolishCiviliansKilledInWorldWarII ,
+		yago:Citizen109923673 ,
+		yago:Civilian109924742 ,
+		yago:WikicatWritersFromWarsaw ,
+		yago:LivingThing100004258 ,
+		yago:Scientist110560637 ,
+		yago:Translator110725280 .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Lidia_Zamenhof	rdfs:label	"Lidja Zamenhof"@eo ,
+		"Lidia Zamenhof"@de ,
+		"\u30EA\u30C7\u30A3\u30A2\u30FB\u30B6\u30E1\u30F3\u30DB\u30D5"@ja ,
+		"Lidia Zamenhof"@fr ,
+		"Lidia Zamenhof"@en ,
+		"Lidia Zamenhof"@pl ,
+		"\u0417\u0430\u043C\u0435\u043D\u0433\u043E\u0444, \u041B\u0438\u0434\u0438\u044F \u041B\u0430\u0437\u0430\u0440\u0435\u0432\u043D\u0430"@ru ,
+		"Lidia Zamenhof"@it ,
+		"Lidia Zamenhof"@es ,
+		"Lidia Zamenhof"@ca ,
+		"Lidia Zamenhof"@sv ;
+	rdfs:comment	"Lidja [Lidia] Zamenhof, la plej juna filino de la iniciatinto de Esperanto, L. L. Zamenhof, naski\u011Dis la 29-an de januaro 1904 en Varsovio, tiam en la Rusa Imperio. \u015Ci estis agema anta\u016Deniganto de Esperanto kaj anka\u016D de homaranismo, tipo de religia kaj etika mondcivitaneco formulita fare de \u015Dia patro. \u0108irka\u016D 1925, \u015Di esti\u011Dis ano de la Bahaa movado. Fine de 1937, \u015Di iris al Usono por instrui la Bahaan religion kaj anka\u016D Esperanton. En 1938, pro enmigradaj problemoj en Usono, \u015Di devis reiri al Pollando, kie \u015Di da\u016Dre instruis kaj anka\u016D tradukis Esperanten multajn Bahaajn verkojn."@eo ,
+		"Lidia Zamenhof (parfois orthographi\u00E9 Lidja en esp\u00E9ranto) est la plus jeune fille de l'initiateur de l'esp\u00E9ranto, Louis Lazare Zamenhof. Elle est n\u00E9e le 29 janvier 1904 \u00E0 Varsovie, qui faisait alors partie de l'Empire russe. Elle fut une militante active de l'esp\u00E9ranto, mais aussi de l'homaranisme, ce type de citoyennet\u00E9 mondiale \u00E9thico-religieuse \u00E9nonc\u00E9 par son p\u00E8re. D'origine juive, elle fut assassin\u00E9e dans le camp d'extermination nazi de Treblinka \u00E0 l'automne 1942."@fr ,
+		"Lidia Zamenhof (esp. Lidja Zamenhof; ur. 29 stycznia 1904 w Warszawie, zm. 1942 w Treblince) \u2013 polska propagatorka esperanto, bahaizmu oraz idei homaranizmu, t\u0142umaczka i pisarka; c\u00F3rka Ludwika (1859\u20131917) i Klary Zamenhof (1863\u20131924), siostra Zofii (1889\u20131942) i Adama (1888\u20131940)."@pl ,
+		"Lidja Zamenhof  (1904-1942), f\u00F6dd som tredje dotter till  och spr\u00E5ket esperantos upphovsman, Dr. Ludwig Zamenhof. Uppvuxen i en sekulariserad judisk familj i Polen, hade Lidia sett effekten av brutala pogromer, krig, rasism, religi\u00F6sa och nationella strider, just s\u00E5dant som hennes far hade str\u00E4vat efter att f\u00F6rinta n\u00E4r han skapade esperanto. I sin ungdom best\u00E4mde hon sig f\u00F6r att g\u00F6ra allt i sin makt f\u00F6r att sprida sin faders spr\u00E5k, som \u00E4r \u00E4mnat att vara ett neutralt och l\u00E4ttl\u00E4rt v\u00E4rldsspr\u00E5k som alla m\u00E4nniskor kan kommunicera med, och d\u00E4rmed b\u00F6rja bryta ner barri\u00E4rerna av fientlighet och missf\u00F6rst\u00E5nd."@sv ,
+		"Lidia Zamenhof (en esperanto Lidja; Vars\u00F2via, 29 de gener de 1904 - Treblinka, tardor de 1942) va ser una esperantista polonesa, defensora de la fe bah\u00E1'\u00ED. Era la filla m\u00E9s jove de Ludwik Lejzer Zamenhof, iniciador de la llengua auxiliar internacional esperanto. Va ser una activa promotora d'aquesta llengua com a eina de comunicaci\u00F3 mundial, aix\u00ED com una destacada pacifista i feminista. Tamb\u00E9 va ser defensora de l'homaranisme, una forma d'humanisme religi\u00F3s que va definir per primera vegada el seu pare. Com a traductora, \u00E9s coneguda per la seva traducci\u00F3 a l'esperanto de Quo vadis? de Henryk Sienkiewicz. Va ensenyar l'esperanto arreu del m\u00F3n mitjan\u00E7ant el conegut  creat pel pastor cat\u00F2lic roman\u00E8s ."@ca ,
+		"\u041B\u0438\u0434\u0438\u044F \u041B\u0430\u0437\u0430\u0440\u0435\u0432\u043D\u0430 \u0417\u0430\u043C\u0435\u043D\u0433\u043E\u0444 (\u044D\u0441\u043F\u0435\u0440. Lidja Zamenhof , \u043F\u043E\u043B\u044C\u0441\u043A. Lidia Zamenhof, 1904\u2014\u043E\u0441\u0435\u043D\u044C 1942 \u0438\u043B\u0438 \u0430\u0432\u0433\u0443\u0441\u0442 1944) \u2014 \u043F\u043E\u043B\u044C\u0441\u043A\u0430\u044F \u044D\u0441\u043F\u0435\u0440\u0430\u043D\u0442\u0438\u0441\u0442\u043A\u0430, \u043F\u0435\u0440\u0435\u0432\u043E\u0434\u0447\u0438\u043A, \u0430\u0434\u0432\u043E\u043A\u0430\u0442 \u0438 \u043E\u0431\u0449\u0435\u0441\u0442\u0432\u0435\u043D\u043D\u044B\u0439 \u0434\u0435\u044F\u0442\u0435\u043B\u044C, \u0434\u043E\u0447\u044C \u041B. \u041B. \u0417\u0430\u043C\u0435\u043D\u0433\u043E\u0444\u0430."@ru ,
+		"Lidia Zamenhof, (anche Lidja) (Varsavia, 29 gennaio 1904 \u2013 Treblinka, 1942), \u00E8 stata un'esperantista e traduttrice polacca. Fu la pi\u00F9 giovane figlia di Ludwik Zamenhof, il creatore dell'esperanto. Nacque il 29 gennaio 1904 a Varsavia, all'epoca sotto l'Impero Russo. Fu inoltre promotrice dell'homaranismo. Nel 1925 divenne bah\u00E1'\u00ED. Successivamente, nel 1937 and\u00F2 negli Stati Uniti d\u2019America, dove insegn\u00F2 la filosofia dell'homaranismo e l'esperanto. Dopo il 1938, tornata in Polonia, continu\u00F2 a tradurre i testi bah\u00E1'\u00ED. Nell'autunno del 1942 fu assassinata nel campo di sterminio di Treblinka."@it ,
+		"\u30EA\u30C7\u30A3\u30A2\u30FB\u30B6\u30E1\u30F3\u30DB\u30D5\uFF08\u30DD\u30FC\u30E9\u30F3\u30C9\u8A9E:Lidia Zamenhof\u30EA\u30FC\u30C7\u30A3\u30E4\u30FB\u30B6\u30E1\u30FC\u30F3\u30DB\u30D5\uFF1B\u30A8\u30B9\u30DA\u30E9\u30F3\u30C8:Lidja Zamenhof\u30011904\u5E741\u670829\u65E5 - 1942\u5E74\uFF09\u306F\u3001\u30A8\u30B9\u30DA\u30E9\u30F3\u30C8\u306E\u5275\u8A2D\u8005\u30EB\u30C9\u30F4\u30A3\u30B3\u30FB\u30B6\u30E1\u30F3\u30DB\u30D5\u306E\u672B\u5A18\u3067\u3042\u308B\u3002 \u5F7C\u5973\u306F1904\u5E741\u670829\u65E5\u306B\u5F53\u6642\u30ED\u30B7\u30A2\u5E1D\u56FD\u9818\u3067\u3042\u3063\u305F\u30EF\u30EB\u30B7\u30E3\u30EF\u3067\u751F\u307E\u308C\u305F\u3002\u5F7C\u5973\u306F\u30A8\u30B9\u30DA\u30E9\u30F3\u30C8\u306E\u307F\u306A\u3089\u305A\u3001\u5F7C\u5973\u306E\u7236\u306B\u3088\u3063\u3066\u63D0\u5531\u3055\u308C\u305F\u5B97\u6559\u7684\u30D2\u30E5\u30FC\u30DE\u30CB\u30BA\u30E0\u3067\u3042\u308B\u306E\u666E\u53CA\u6D3B\u52D5\u306B\u3082\u71B1\u5FC3\u306B\u643A\u308F\u3063\u305F\u3002 1925\u5E74\u3054\u308D\u306B\u3001\u5F7C\u5973\u306F\u30D0\u30CF\u30FC\u30A4\u30FC\u6559\u306B\u5165\u4FE1\u3057\u305F\u3002\u5F7C\u5973\u306F1937\u5E74\u306B\u30A2\u30E1\u30EA\u30AB\u5408\u8846\u56FD\u306B\u308F\u305F\u308A\u3001\u30A8\u30B9\u30DA\u30E9\u30F3\u30C8\u3068\u30D0\u30CF\u30FC\u30A4\u30FC\u6559\u306E\u666E\u53CA\u306B\u643A\u308F\u3063\u305F\u3002\u5F7C\u5973\u306F1938\u5E7412\u6708\u306B\u30DD\u30FC\u30E9\u30F3\u30C9\u306B\u5E30\u56FD\u3057\u3001\u6559\u8077\u3092\u7D9A\u3051\u308B\u508D\u3089\u591A\u304F\u306E\u30D0\u30CF\u30FC\u30A4\u30FC\u6559\u306E\u66F8\u7269\u3092\u7FFB\u8A33\u3057\u305F\u3002\u5F7C\u5973\u306F\u30CA\u30C1\u30B9\u653F\u6A29\u306B\u3088\u308A\u3001\u30E6\u30C0\u30E4\u7CFB\u306E\u51FA\u81EA\u3092\u6301\u3063\u3066\u3044\u308B\u3053\u3068\u3092\u7406\u7531\u306B\u7A81\u7136\u902E\u6355\u3055\u308C\u3001\u30C8\u30EC\u30D6\u30EA\u30F3\u30AB\u5F37\u5236\u53CE\u5BB9\u6240\u30671942\u5E74\u306E\u79CB\u306B\u6BBA\u5BB3\u3055\u308C\u305F\u3002"@ja ,
+		"Lidia Zamenhof (Varsovia, Imperio ruso, 29 de enero de 1904-Campo de exterminio de Treblinka, Alemania nazi, 1942) fue una escritora, publicista, traductora y ling\u00FCista polaca. Fue la hija menor del oftalm\u00F3logo jud\u00EDo Ludwik Lejzer Zamenhof, creador del esperanto, y de Klara Silbernik. Fue una activa promotora del esperanto como herramienta de comunicaci\u00F3n mundial, as\u00ED como una destacada pacifista y feminista, defensora del homaranismo y miembro de la fe bah\u00E1'\u00ED.\u200B"@es ,
+		"Lidia Zamenhof (Esperanto: Lidja; 29 January 1904\u20131942) was a Polish writer, publisher, translator and the youngest daughter of Klara (Silbernik) and L. L. Zamenhof, the creator of Esperanto. She was an active promoter of Esperanto as well as of Homaranismo, a form of religious humanism first defined by her father."@en ,
+		"Lidia Zamenhof (in Esperanto: Lidja Zamenhof; geboren 29. Januar 1904 in Warschau, Russisches Kaiserreich; gestorben nach dem 5. September 1942 im Vernichtungslager Treblinka). Sie war die j\u00FCngste Tochter des Esperanto-Sch\u00F6pfers Ludwik Lejzer Zamenhof, die sp\u00E4ter in vielen europ\u00E4ischen und US-amerikanischen St\u00E4dten Esperanto nach der  lehrte. Nach ihrem abgeschlossenen Jura-Studium war sie eine aktive F\u00F6rderin von Esperanto und auch des Homaranismo, einer Art religi\u00F6ser und ethischer Weltb\u00FCrgerschaft, die von ihrem Vater formuliert worden war. Sie \u00FCbersetzte Literatur in die noch junge Sprache Esperanto, gr\u00FCndete den Esperanto-Studentenverband, und schrieb Beitr\u00E4ge f\u00FCr Esperanto-Zeitschriften. Um 1925 wurde sie Mitglied der Baha'i-Bewegung. Ende des Jahres 1937 ging sie in die USA, um Espe"@de ;
+	foaf:name	"Lidia Zamenhof"@en ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Lidia_Zamenhof_(1904-1942).jpg> ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Lidia_Zamenhof .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Lidia_Zamenhof	dct:subject	dbc:Polish_Jews ,
+		dbc:People_killed_by_gas_chamber_by_Nazi_Germany ,
+		<http://dbpedia.org/resource/Category:1942_deaths> ,
+		dbc:Writers_of_Esperanto_literature ,
+		dbc:Writers_from_Warsaw ,
+		<http://dbpedia.org/resource/Category:1904_births> ,
+		dbc:People_from_Warsaw_Governorate ,
+		dbc:Polish_civilians_killed_in_World_War_II ,
+		dbc:Polish_Esperantists ,
+		dbc:Translators_to_Esperanto ,
+		<http://dbpedia.org/resource/Category:Converts_to_the_Bah\u00E1\u0027\u00ED_Faith_from_Judaism> ,
+		dbc:Warsaw_Ghetto_inmates ,
+		dbc:Polish_people_who_died_in_Treblinka_extermination_camp ,
+		<http://dbpedia.org/resource/Category:20th-century_linguists> ,
+		dbc:Linguists_from_Poland ,
+		<http://dbpedia.org/resource/Category:20th-century_Bah\u00E1\u0027\u00EDs> ,
+		<http://dbpedia.org/resource/Category:20th-century_translators> ,
+		dbc:Women_religious_writers ,
+		<http://dbpedia.org/resource/Category:20th-century_women_writers> ,
+		<http://dbpedia.org/resource/Category:Polish_Bah\u00E1\u0027\u00EDs> ;
+	owl:sameAs	<http://he.dbpedia.org/resource/\u05DC\u05D9\u05D3\u05D9\u05D4_\u05D6\u05DE\u05E0\u05D4\u05D5\u05E3> .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:Lidia_Zamenhof	owl:sameAs	dbpedia-es:Lidia_Zamenhof .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Lidia_Zamenhof	owl:sameAs	dbpedia-it:Lidia_Zamenhof .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Lidia_Zamenhof	owl:sameAs	yago-res:Lidia_Zamenhof .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Lidia_Zamenhof	owl:sameAs	dbpedia-pl:Lidia_Zamenhof ,
+		<http://ru.dbpedia.org/resource/\u0417\u0430\u043C\u0435\u043D\u0433\u043E\u0444,_\u041B\u0438\u0434\u0438\u044F_\u041B\u0430\u0437\u0430\u0440\u0435\u0432\u043D\u0430> ,
+		<http://rdf.freebase.com/ns/m.0d9sq3> .
+@prefix dbpedia-ca:	<http://ca.dbpedia.org/resource/> .
+dbr:Lidia_Zamenhof	owl:sameAs	dbpedia-ca:Lidia_Zamenhof .
+@prefix ns19:	<https://global.dbpedia.org/id/> .
+dbr:Lidia_Zamenhof	owl:sameAs	ns19:KUUr ,
+		<http://d-nb.info/gnd/130471909> ,
+		<http://ja.dbpedia.org/resource/\u30EA\u30C7\u30A3\u30A2\u30FB\u30B6\u30E1\u30F3\u30DB\u30D5> ,
+		<http://fa.dbpedia.org/resource/\u0644\u06CC\u062F\u06CC\u0627_\u0632\u0627\u0645\u0646\u0647\u0648\u0641> .
+@prefix dbpedia-sv:	<http://sv.dbpedia.org/resource/> .
+dbr:Lidia_Zamenhof	owl:sameAs	dbpedia-sv:Lidia_Zamenhof .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Lidia_Zamenhof	owl:sameAs	dbpedia-fr:Lidia_Zamenhof .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Lidia_Zamenhof	owl:sameAs	dbpedia-de:Lidia_Zamenhof .
+@prefix dbpedia-eo:	<http://eo.dbpedia.org/resource/> .
+dbr:Lidia_Zamenhof	owl:sameAs	dbpedia-eo:Lidja_Zamenhof ,
+		<http://viaf.org/viaf/47869953> ,
+		wikidata:Q13007 ,
+		dbr:Lidia_Zamenhof .
+@prefix dbpedia-no:	<http://no.dbpedia.org/resource/> .
+dbr:Lidia_Zamenhof	owl:sameAs	dbpedia-no:Lidia_Zamenhof .
+@prefix ns25:	<http://d-nb.info/gnd/130471909/about/> .
+dbr:Lidia_Zamenhof	owl:sameAs	ns25:rdf ;
+	schema:sameAs	<http://viaf.org/viaf/47869953> .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Lidia_Zamenhof	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Lidia_Zamenhof?oldid=985906179&ns=0> ;
+	dbp:parents	dbr:Klara_Zamenhof ,
+		<http://dbpedia.org/resource/L._L._Zamenhof> ;
+	dbp:otherNames	"Lidja"@en ;
+	dbo:alias	"Lidja"@en ;
+	dbp:id	"Zamenhof, Lidja"@en ;
+	dbo:knownFor	dbr:Esperanto_movement ,
+		<http://dbpedia.org/resource/Bah\u00E1\u02BC\u00ED_Faith> ;
+	dbp:nationality	dbr:Poles ;
+	dbo:nationality	dbr:Poles ;
+	dbo:parent	dbr:Klara_Zamenhof ,
+		<http://dbpedia.org/resource/L._L._Zamenhof> ;
+	dbo:stateOfOrigin	dbr:Poles ;
+	dbp:knownFor	"Activity in"@en ,
+		"Esperanto movement and Bah\u00E1\u02BC\u00ED Faith"@en ;
+	dbp:author	"yes"@en ;
+	dbp:name	"Lidia Zamenhof"@en ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Lidia_Zamenhof_(1904-1942).jpg?width=300> ;
+	dbo:deathPlace	dbr:Treblinka_extermination_camp ;
+	dbp:deathPlace	dbr:Treblinka_extermination_camp ;
+	dbo:birthPlace	dbr:Russian_Empire ,
+		dbr:Congress_Poland ,
+		dbr:Warsaw ;
+	dbp:birthPlace	dbr:Russian_Empire ,
+		dbr:Congress_Poland ,
+		dbr:Warsaw .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Lidia_Zamenhof	dbo:birthDate	"1904-01-29"^^xsd:date ;
+	dbo:wikiPageID	5246574 ;
+	dbo:wikiPageRevisionID	985906179 ;
+	dbo:wikiPageWikiLink	dbr:Treblinka_extermination_camp ,
+		dbr:Immigration_and_Naturalization_Service ,
+		dbr:Religious_humanism ,
+		dbc:Women_religious_writers ,
+		dbr:World_War_II ,
+		dbr:Heroldo_de_Esperanto ,
+		dbr:Warsaw_Ghetto ,
+		dbr:Poles ,
+		dbr:World_Esperanto_Congress ,
+		<http://dbpedia.org/resource/Category:20th-century_linguists> ,
+		dbr:Polish_literature ,
+		dbr:Henryk_Sienkiewicz ,
+		dbc:Polish_Esperantists ,
+		dbr:Esperanto ,
+		<http://dbpedia.org/resource/Bah\u00E1\u02BC\u00ED_literature> ,
+		dbr:La_Praktiko ,
+		dbr:Pola_Esperantisto ,
+		dbc:Polish_people_who_died_in_Treblinka_extermination_camp ,
+		<http://dbpedia.org/resource/Category:Polish_Bah\u00E1\u0027\u00EDs> ,
+		dbr:International_Cseh_Institute_of_Esperanto ,
+		dbr:Julian_Modest ,
+		dbr:Grossaktion_Warsaw ,
+		<http://dbpedia.org/resource/J\u00F3zef_Arszennik> ,
+		dbc:Warsaw_Ghetto_inmates ,
+		<http://dbpedia.org/resource/Category:20th-century_translators> ,
+		dbr:List_of_Polish_people ,
+		<http://dbpedia.org/resource/Category:1942_deaths> ,
+		dbr:Universal_Esperanto_Association ,
+		dbr:United_States ,
+		dbc:Linguists_from_Poland ,
+		dbc:Writers_from_Warsaw ,
+		<http://dbpedia.org/resource/Category:Converts_to_the_Bah\u00E1\u0027\u00ED_Faith_from_Judaism> ,
+		dbr:Russian_Empire ,
+		dbr:Law ,
+		dbr:United_States_Holocaust_Memorial_Museum ,
+		dbr:English_language ,
+		dbc:Polish_Jews ,
+		<http://dbpedia.org/resource/Washington,_D.C.> ,
+		<http://dbpedia.org/resource/Category:20th-century_Bah\u00E1\u0027\u00EDs> ,
+		dbr:Literatura_Mondo ,
+		dbr:Geneva ,
+		dbc:Writers_of_Esperanto_literature ,
+		dbc:Translators_to_Esperanto ,
+		dbr:The_Holocaust ,
+		dbc:People_killed_by_gas_chamber_by_Nazi_Germany ,
+		dbr:Klara_Zamenhof ,
+		<http://dbpedia.org/resource/Quo_Vadis_(novel)> ,
+		dbc:Polish_civilians_killed_in_World_War_II ,
+		<http://dbpedia.org/resource/Bah\u00E1\u02BC\u00ED_Faith_and_auxiliary_language> ,
+		dbr:Homaranismo ,
+		dbr:Congress_Poland ,
+		dbc:People_from_Warsaw_Governorate ,
+		<http://dbpedia.org/resource/Category:20th-century_women_writers> ,
+		dbr:Invasion_of_Poland ,
+		dbr:Vienna ,
+		<http://dbpedia.org/resource/Bah\u00E1\u02BC\u00ED_Faith> ,
+		<http://dbpedia.org/resource/Category:1904_births> ,
+		dbr:Encyclopedias_in_Esperanto ,
+		dbr:Esperanto_movement ,
+		dbr:Andreo_Cseh ,
+		<http://dbpedia.org/resource/L._L._Zamenhof> ,
+		dbr:Warsaw ,
+		dbr:Louis-Christophe_Zaleski-Zamenhof ;
+	dbo:wikiPageExternalLink	<http://klausjames.tripod.com/lidiatradukoj.html> .
+@prefix ns28:	<http://bahai-library.com/> .
+dbr:Lidia_Zamenhof	dbo:wikiPageExternalLink	ns28:dale_lidia_zamenhof .
+@prefix dbt:	<http://dbpedia.org/resource/Template:> .
+dbr:Lidia_Zamenhof	dbp:wikiPageUsesTemplate	dbt:Death_year_and_age ,
+		dbt:Treblinka_extermination_camp ,
+		dbt:OCLC ,
+		dbt:Authority_control ,
+		dbt:Citation_needed ,
+		dbt:Infobox_person ,
+		dbt:Reflist ,
+		dbt:Birth_date ,
+		dbt:ISBN ,
+		dbt:Portal ,
+		dbt:FadedPage ;
+	dbp:birthDate	"1904-01-29"^^xsd:date ;
+	dbp:caption	"Lidia Zamenhof before"@en ,
+		"the Nazi German invasion of Poland"@en ;
+	dbo:abstract	"Lidja [Lidia] Zamenhof, la plej juna filino de la iniciatinto de Esperanto, L. L. Zamenhof, naski\u011Dis la 29-an de januaro 1904 en Varsovio, tiam en la Rusa Imperio. \u015Ci estis agema anta\u016Deniganto de Esperanto kaj anka\u016D de homaranismo, tipo de religia kaj etika mondcivitaneco formulita fare de \u015Dia patro. \u0108irka\u016D 1925, \u015Di esti\u011Dis ano de la Bahaa movado. Fine de 1937, \u015Di iris al Usono por instrui la Bahaan religion kaj anka\u016D Esperanton. En 1938, pro enmigradaj problemoj en Usono, \u015Di devis reiri al Pollando, kie \u015Di da\u016Dre instruis kaj anka\u016D tradukis Esperanten multajn Bahaajn verkojn. Jud-devena, \u015Di estis murdita en la germana ekstermejo Treblinka iam post somero 1942."@eo ,
+		"\u30EA\u30C7\u30A3\u30A2\u30FB\u30B6\u30E1\u30F3\u30DB\u30D5\uFF08\u30DD\u30FC\u30E9\u30F3\u30C9\u8A9E:Lidia Zamenhof\u30EA\u30FC\u30C7\u30A3\u30E4\u30FB\u30B6\u30E1\u30FC\u30F3\u30DB\u30D5\uFF1B\u30A8\u30B9\u30DA\u30E9\u30F3\u30C8:Lidja Zamenhof\u30011904\u5E741\u670829\u65E5 - 1942\u5E74\uFF09\u306F\u3001\u30A8\u30B9\u30DA\u30E9\u30F3\u30C8\u306E\u5275\u8A2D\u8005\u30EB\u30C9\u30F4\u30A3\u30B3\u30FB\u30B6\u30E1\u30F3\u30DB\u30D5\u306E\u672B\u5A18\u3067\u3042\u308B\u3002 \u5F7C\u5973\u306F1904\u5E741\u670829\u65E5\u306B\u5F53\u6642\u30ED\u30B7\u30A2\u5E1D\u56FD\u9818\u3067\u3042\u3063\u305F\u30EF\u30EB\u30B7\u30E3\u30EF\u3067\u751F\u307E\u308C\u305F\u3002\u5F7C\u5973\u306F\u30A8\u30B9\u30DA\u30E9\u30F3\u30C8\u306E\u307F\u306A\u3089\u305A\u3001\u5F7C\u5973\u306E\u7236\u306B\u3088\u3063\u3066\u63D0\u5531\u3055\u308C\u305F\u5B97\u6559\u7684\u30D2\u30E5\u30FC\u30DE\u30CB\u30BA\u30E0\u3067\u3042\u308B\u306E\u666E\u53CA\u6D3B\u52D5\u306B\u3082\u71B1\u5FC3\u306B\u643A\u308F\u3063\u305F\u3002 1925\u5E74\u3054\u308D\u306B\u3001\u5F7C\u5973\u306F\u30D0\u30CF\u30FC\u30A4\u30FC\u6559\u306B\u5165\u4FE1\u3057\u305F\u3002\u5F7C\u5973\u306F1937\u5E74\u306B\u30A2\u30E1\u30EA\u30AB\u5408\u8846\u56FD\u306B\u308F\u305F\u308A\u3001\u30A8\u30B9\u30DA\u30E9\u30F3\u30C8\u3068\u30D0\u30CF\u30FC\u30A4\u30FC\u6559\u306E\u666E\u53CA\u306B\u643A\u308F\u3063\u305F\u3002\u5F7C\u5973\u306F1938\u5E7412\u6708\u306B\u30DD\u30FC\u30E9\u30F3\u30C9\u306B\u5E30\u56FD\u3057\u3001\u6559\u8077\u3092\u7D9A\u3051\u308B\u508D\u3089\u591A\u304F\u306E\u30D0\u30CF\u30FC\u30A4\u30FC\u6559\u306E\u66F8\u7269\u3092\u7FFB\u8A33\u3057\u305F\u3002\u5F7C\u5973\u306F\u30CA\u30C1\u30B9\u653F\u6A29\u306B\u3088\u308A\u3001\u30E6\u30C0\u30E4\u7CFB\u306E\u51FA\u81EA\u3092\u6301\u3063\u3066\u3044\u308B\u3053\u3068\u3092\u7406\u7531\u306B\u7A81\u7136\u902E\u6355\u3055\u308C\u3001\u30C8\u30EC\u30D6\u30EA\u30F3\u30AB\u5F37\u5236\u53CE\u5BB9\u6240\u30671942\u5E74\u306E\u79CB\u306B\u6BBA\u5BB3\u3055\u308C\u305F\u3002"@ja ,
+		"Lidja Zamenhof  (1904-1942), f\u00F6dd som tredje dotter till  och spr\u00E5ket esperantos upphovsman, Dr. Ludwig Zamenhof. Uppvuxen i en sekulariserad judisk familj i Polen, hade Lidia sett effekten av brutala pogromer, krig, rasism, religi\u00F6sa och nationella strider, just s\u00E5dant som hennes far hade str\u00E4vat efter att f\u00F6rinta n\u00E4r han skapade esperanto. I sin ungdom best\u00E4mde hon sig f\u00F6r att g\u00F6ra allt i sin makt f\u00F6r att sprida sin faders spr\u00E5k, som \u00E4r \u00E4mnat att vara ett neutralt och l\u00E4ttl\u00E4rt v\u00E4rldsspr\u00E5k som alla m\u00E4nniskor kan kommunicera med, och d\u00E4rmed b\u00F6rja bryta ner barri\u00E4rerna av fientlighet och missf\u00F6rst\u00E5nd. H\u00F6sten 1925, i Gen\u00E8ve, kom Lidia f\u00F6r f\u00F6rsta g\u00E5ngen i kontakt med Bah\u00E1'\u00EDr\u00F6relsens esperantoklubb som st\u00F6dde utvecklingen av ett internationellt hj\u00E4lpspr\u00E5k. Hon blev attraherad av bah\u00E1'\u00EDen, journalisten och esperantisten Martha Root som inspirerade henne mycket. 1932 p\u00E5b\u00F6rjade hon vid 28 \u00E5rs \u00E5lder en sex\u00E5rig resa genom Europa och Amerika, med start i Warszawa. Hon arbetade d\u00E5 som resande undervisare i esperanto, och var en av spr\u00E5kets mest h\u00E4ngivna anh\u00E4ngare och taleskvinna. Under en tid av fanatisk nationalism och krigshets b\u00F6rjade hon propagera kraftfullt f\u00F6r internationell samarbete och fred, f\u00F6r m\u00E4nniskosl\u00E4ktets enighet och f\u00F6r j\u00E4mlikhet mellan m\u00E4n och kvinnor. Martha och Lidia bes\u00F6kte flera st\u00E4der i Sverige i september 1932: G\u00E4vle, Skutsk\u00E4r, Str\u00F6msbro och . Den 26:e esperantokongressen (Universala Kongreso) i augusti 1934 i Stockholm, med \u00F6ver tv\u00E5 tusen esperantister fr\u00E5n tjugo nationer blev en stor succ\u00E9. \"Sv\u00E5righeter \u00E4r v\u00E5r pr\u00F6vning\" skrev Lidia en g\u00E5ng. \"De visar oss styrkan eller svagheten i v\u00E5r sj\u00E4l, intensiteten och gl\u00F6den i v\u00E5rt s\u00F6kande, och de g\u00F6r oss mildare och starkare och beslutsamma\". N\u00E4r hon under tragiska omst\u00E4ndigheter \u00E5terv\u00E4nde tillbaka till Polen vid andra v\u00E4rldskrigets b\u00F6rjan blev hon konfronterad med sanningen i sina ord p\u00E5 ett s\u00E4tt som f\u00E5 m\u00E4nniskor skulle klara av. D\u00E4r, mitt i terrorn och m\u00E4nniskoslakten i Warszawas getto under den nazistiska ockupationen, stod hon inf\u00F6r den ultimata pr\u00F6vningen."@sv ,
+		"Lidia Zamenhof (en esperanto Lidja; Vars\u00F2via, 29 de gener de 1904 - Treblinka, tardor de 1942) va ser una esperantista polonesa, defensora de la fe bah\u00E1'\u00ED. Era la filla m\u00E9s jove de Ludwik Lejzer Zamenhof, iniciador de la llengua auxiliar internacional esperanto. Va ser una activa promotora d'aquesta llengua com a eina de comunicaci\u00F3 mundial, aix\u00ED com una destacada pacifista i feminista. Tamb\u00E9 va ser defensora de l'homaranisme, una forma d'humanisme religi\u00F3s que va definir per primera vegada el seu pare. Com a traductora, \u00E9s coneguda per la seva traducci\u00F3 a l'esperanto de Quo vadis? de Henryk Sienkiewicz. Va ensenyar l'esperanto arreu del m\u00F3n mitjan\u00E7ant el conegut  creat pel pastor cat\u00F2lic roman\u00E8s . El 1925 va esdevenir membre de la fe bah\u00E1'\u00ED. El 1937 va anar als Estats Units per ensenyar aquesta religi\u00F3, aix\u00ED com l'esperanto. El desembre de 1938 va tornar a Pol\u00F2nia, on va continuar ensenyant i traduint molts escrits bah\u00E0'\u00EDs a l'esperanto. La tardor de 1942 va ser assassinada al camp d'extermini de Treblinka durant l'Holocaust."@ca ,
+		"Lidia Zamenhof (in Esperanto: Lidja Zamenhof; geboren 29. Januar 1904 in Warschau, Russisches Kaiserreich; gestorben nach dem 5. September 1942 im Vernichtungslager Treblinka). Sie war die j\u00FCngste Tochter des Esperanto-Sch\u00F6pfers Ludwik Lejzer Zamenhof, die sp\u00E4ter in vielen europ\u00E4ischen und US-amerikanischen St\u00E4dten Esperanto nach der  lehrte. Nach ihrem abgeschlossenen Jura-Studium war sie eine aktive F\u00F6rderin von Esperanto und auch des Homaranismo, einer Art religi\u00F6ser und ethischer Weltb\u00FCrgerschaft, die von ihrem Vater formuliert worden war. Sie \u00FCbersetzte Literatur in die noch junge Sprache Esperanto, gr\u00FCndete den Esperanto-Studentenverband, und schrieb Beitr\u00E4ge f\u00FCr Esperanto-Zeitschriften. Um 1925 wurde sie Mitglied der Baha'i-Bewegung. Ende des Jahres 1937 ging sie in die USA, um Esperanto zu unterrichten. Im Jahr 1938 musste sie, aufgrund der Einwanderungspolitik der USA, nach Polen zur\u00FCckkehren, wo sie weiterhin Esperanto lehrte und auch grundlegende Baha'i-Schriften ins Esperanto \u00FCbersetzte.Als geborene J\u00FCdin wurde sie im Herbst 1942 im NS-Vernichtungslager Treblinka ermordet."@de ,
+		"\u041B\u0438\u0434\u0438\u044F \u041B\u0430\u0437\u0430\u0440\u0435\u0432\u043D\u0430 \u0417\u0430\u043C\u0435\u043D\u0433\u043E\u0444 (\u044D\u0441\u043F\u0435\u0440. Lidja Zamenhof , \u043F\u043E\u043B\u044C\u0441\u043A. Lidia Zamenhof, 1904\u2014\u043E\u0441\u0435\u043D\u044C 1942 \u0438\u043B\u0438 \u0430\u0432\u0433\u0443\u0441\u0442 1944) \u2014 \u043F\u043E\u043B\u044C\u0441\u043A\u0430\u044F \u044D\u0441\u043F\u0435\u0440\u0430\u043D\u0442\u0438\u0441\u0442\u043A\u0430, \u043F\u0435\u0440\u0435\u0432\u043E\u0434\u0447\u0438\u043A, \u0430\u0434\u0432\u043E\u043A\u0430\u0442 \u0438 \u043E\u0431\u0449\u0435\u0441\u0442\u0432\u0435\u043D\u043D\u044B\u0439 \u0434\u0435\u044F\u0442\u0435\u043B\u044C, \u0434\u043E\u0447\u044C \u041B. \u041B. \u0417\u0430\u043C\u0435\u043D\u0433\u043E\u0444\u0430."@ru ,
+		"Lidia Zamenhof (Varsovia, Imperio ruso, 29 de enero de 1904-Campo de exterminio de Treblinka, Alemania nazi, 1942) fue una escritora, publicista, traductora y ling\u00FCista polaca. Fue la hija menor del oftalm\u00F3logo jud\u00EDo Ludwik Lejzer Zamenhof, creador del esperanto, y de Klara Silbernik. Fue una activa promotora del esperanto como herramienta de comunicaci\u00F3n mundial, as\u00ED como una destacada pacifista y feminista, defensora del homaranismo y miembro de la fe bah\u00E1'\u00ED.\u200B Como traductora, es conocida por su traducci\u00F3n al esperanto de Quo Vadis?, de Henryk Sienkiewicz. En 1937 viaj\u00F3 a los Estados Unidos para dar varias conferencias relacionadas con el esperanto y el baha\u00EDsmo. En diciembre de 1938 regres\u00F3 a Polonia, donde continu\u00F3 ense\u00F1ando y traduciendo muchos escritos bah\u00E1'\u00EDs al esperanto.\u200B No obstante, la invasi\u00F3n de Polonia por la Alemania nazi hizo que, al igual que millares de jud\u00EDos, fuera encerrada en el gueto de Varsovia. Finalmente, en el oto\u00F1o de 1942 fue asesinada en el campo de exterminio de Treblinka.\u200B"@es ,
+		"Lidia Zamenhof (Esperanto: Lidja; 29 January 1904\u20131942) was a Polish writer, publisher, translator and the youngest daughter of Klara (Silbernik) and L. L. Zamenhof, the creator of Esperanto. She was an active promoter of Esperanto as well as of Homaranismo, a form of religious humanism first defined by her father. Around 1925 she became a member of the Bah\u00E1\u02BC\u00ED Faith. In late 1937 she went to the United States to teach that religion as well as Esperanto. In December 1938 she returned to Poland, where she continued to teach and translated many Bah\u00E1\u02BC\u00ED writings. \u05BFShe was murdered at the Treblinka extermination camp during the Holocaust."@en ,
+		"Lidia Zamenhof (parfois orthographi\u00E9 Lidja en esp\u00E9ranto) est la plus jeune fille de l'initiateur de l'esp\u00E9ranto, Louis Lazare Zamenhof. Elle est n\u00E9e le 29 janvier 1904 \u00E0 Varsovie, qui faisait alors partie de l'Empire russe. Elle fut une militante active de l'esp\u00E9ranto, mais aussi de l'homaranisme, ce type de citoyennet\u00E9 mondiale \u00E9thico-religieuse \u00E9nonc\u00E9 par son p\u00E8re. En avril 1930, elle devint membre de la religion baha'i. Vers la fin de 1937, elle se rendit aux \u00C9tats-Unis d'Am\u00E9rique du Nord pour y enseigner la religion baha'ie et \u00E9galement l'esp\u00E9ranto. En 1938, en raison de probl\u00E8mes d'immigration aux \u00C9tats-Unis, elle dut retourner en Pologne o\u00F9 elle ne cessa d'enseigner et de traduire en esp\u00E9ranto de nombreux ouvrages baha'is. D'origine juive, elle fut assassin\u00E9e dans le camp d'extermination nazi de Treblinka \u00E0 l'automne 1942."@fr ,
+		"Lidia Zamenhof, (anche Lidja) (Varsavia, 29 gennaio 1904 \u2013 Treblinka, 1942), \u00E8 stata un'esperantista e traduttrice polacca. Fu la pi\u00F9 giovane figlia di Ludwik Zamenhof, il creatore dell'esperanto. Nacque il 29 gennaio 1904 a Varsavia, all'epoca sotto l'Impero Russo. Fu inoltre promotrice dell'homaranismo. Nel 1925 divenne bah\u00E1'\u00ED. Successivamente, nel 1937 and\u00F2 negli Stati Uniti d\u2019America, dove insegn\u00F2 la filosofia dell'homaranismo e l'esperanto. Dopo il 1938, tornata in Polonia, continu\u00F2 a tradurre i testi bah\u00E1'\u00ED. Nell'autunno del 1942 fu assassinata nel campo di sterminio di Treblinka."@it ,
+		"Lidia Zamenhof (esp. Lidja Zamenhof; ur. 29 stycznia 1904 w Warszawie, zm. 1942 w Treblince) \u2013 polska propagatorka esperanto, bahaizmu oraz idei homaranizmu, t\u0142umaczka i pisarka; c\u00F3rka Ludwika (1859\u20131917) i Klary Zamenhof (1863\u20131924), siostra Zofii (1889\u20131942) i Adama (1888\u20131940)."@pl ;
+	dbo:birthYear	"1904"^^xsd:gYear ;
+	dbo:wikiPageLength	"8371"^^xsd:nonNegativeInteger .
+dbr:Lidia_Zamenhoff	dbo:wikiPageWikiLink	dbr:Lidia_Zamenhof ;
+	dbo:wikiPageRedirects	dbr:Lidia_Zamenhof .
+dbr:Lidia_Zhamenhoff	dbo:wikiPageWikiLink	dbr:Lidia_Zamenhof ;
+	dbo:wikiPageRedirects	dbr:Lidia_Zamenhof .
+dbr:Lidja_Zamenhof	dbo:wikiPageWikiLink	dbr:Lidia_Zamenhof ;
+	dbo:wikiPageRedirects	dbr:Lidia_Zamenhof .
+dbr:Lidja_Zamenhoff	dbo:wikiPageWikiLink	dbr:Lidia_Zamenhof ;
+	dbo:wikiPageRedirects	dbr:Lidia_Zamenhof .
+dbr:Lidja_Zhamenhoff	dbo:wikiPageWikiLink	dbr:Lidia_Zamenhof ;
+	dbo:wikiPageRedirects	dbr:Lidia_Zamenhof .
+dbr:Lydia_Zamenhof	dbo:wikiPageWikiLink	dbr:Lidia_Zamenhof ;
+	dbo:wikiPageRedirects	dbr:Lidia_Zamenhof .
+dbr:Lydia_Zemenhof	dbo:wikiPageWikiLink	dbr:Lidia_Zamenhof ;
+	dbo:wikiPageRedirects	dbr:Lidia_Zamenhof .
+<http://dbpedia.org/resource/Zamenhof_(surname)>	dbo:wikiPageWikiLink	dbr:Lidia_Zamenhof .
+<http://dbpedia.org/resource/Bah\u00E1\u02BC\u00ED_Faith_in_Scotland>	dbo:wikiPageWikiLink	dbr:Lidia_Zamenhof .
+dbr:Martha_Root	dbo:wikiPageWikiLink	dbr:Lidia_Zamenhof .
+<http://dbpedia.org/resource/Lidia_(given_name)>	dbo:wikiPageWikiLink	dbr:Lidia_Zamenhof .
+dbr:Esperanto	dbo:wikiPageWikiLink	dbr:Lidia_Zamenhof .
+<http://dbpedia.org/resource/Bah\u00E1\u02BC\u00ED_Faith_and_auxiliary_language>	dbo:wikiPageWikiLink	dbr:Lidia_Zamenhof .
+<http://dbpedia.org/resource/Bah\u00E1\u02BC\u00ED_Esperanto_League>	dbo:wikiPageWikiLink	dbr:Lidia_Zamenhof .
+dbr:List_of_Esperanto-language_writers	dbo:wikiPageWikiLink	dbr:Lidia_Zamenhof .
+dbr:Outline_of_Esperanto	dbo:wikiPageWikiLink	dbr:Lidia_Zamenhof .
+dbr:List_of_Esperanto_speakers	dbo:wikiPageWikiLink	dbr:Lidia_Zamenhof .
+<http://dbpedia.org/resource/L._L._Zamenhof>	dbo:wikiPageWikiLink	dbr:Lidia_Zamenhof ;
+	dbo:child	dbr:Lidia_Zamenhof .
+dbr:Warsaw_Ghetto	dbo:wikiPageWikiLink	dbr:Lidia_Zamenhof .
+<http://dbpedia.org/resource/Bah\u00E1\u02BC\u00ED_Faith_in_France>	dbo:wikiPageWikiLink	dbr:Lidia_Zamenhof .
+<http://dbpedia.org/resource/Bah\u00E1\u02BC\u00ED_Faith_in_Norway>	dbo:wikiPageWikiLink	dbr:Lidia_Zamenhof .
+<http://dbpedia.org/resource/Bah\u00E1\u02BC\u00ED_Faith_in_Poland>	dbo:wikiPageWikiLink	dbr:Lidia_Zamenhof .
+dbr:List_of_Polish_people	dbo:wikiPageWikiLink	dbr:Lidia_Zamenhof .
+dbr:Homaranismo	dbo:wikiPageWikiLink	dbr:Lidia_Zamenhof .
+<http://dbpedia.org/resource/List_of_Bah\u00E1\u02BC\u00EDs>	dbo:wikiPageWikiLink	dbr:Lidia_Zamenhof .
+dbr:International_Esperanto_League	dbo:wikiPageWikiLink	dbr:Lidia_Zamenhof .
+dbr:Klara_Zamenhof	dbo:wikiPageWikiLink	dbr:Lidia_Zamenhof .
+<http://dbpedia.org/resource/Bah\u00E1\u02BC\u00ED_Faith_in_Russia>	dbo:wikiPageWikiLink	dbr:Lidia_Zamenhof .
+<http://dbpedia.org/resource/Bah\u00E1\u02BC\u00ED_Faith_in_Ukraine>	dbo:wikiPageWikiLink	dbr:Lidia_Zamenhof .
+<http://dbpedia.org/resource/List_of_converts_to_the_Bah\u00E1\u02BC\u00ED_Faith_from_Judaism>	dbo:wikiPageWikiLink	dbr:Lidia_Zamenhof .

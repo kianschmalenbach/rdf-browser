@@ -1,0 +1,1449 @@
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+dbr:Nuclear_transmutation	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Charles_Coulson	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Beta_decay	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Helium_compounds	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Nuclear_reaction	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Hydrogen_atom	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+<http://dbpedia.org/resource/Mass\u2013energy_equivalence>	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Nuclear_astrophysics	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Esther_Salaman	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Fritz_Haber	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+<http://dbpedia.org/resource/M._Stanley_Livingston>	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Solvay_Conference	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+<http://dbpedia.org/resource/Ralph_H._Fowler>	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Albert_Beaumont_Wood	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Charles_Galton_Darwin	dbp:academicAdvisors	dbr:Ernest_Rutherford ;
+	dbo:academicAdvisor	dbr:Ernest_Rutherford ;
+	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Arthur_Mannering_Tyndall	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Leslie_Fleetwood_Bates	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+<http://dbpedia.org/resource/\u00C9tienne_Bi\u00E9ler>	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Solomon_Carter_Fuller	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Douglas_Hartree	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Frederick_Soddy	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:James_Chadwick	dbp:doctoralAdvisor	dbr:Ernest_Rutherford ;
+	dbo:doctoralAdvisor	dbr:Ernest_Rutherford ;
+	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Arthur_Schuster	dbp:after	dbr:Ernest_Rutherford ;
+	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Charles_Drummond_Ellis	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Lawrence_Bragg	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Malting_House_School	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Persons_of_National_Historic_Significance	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:New_Zealanders_in_the_United_Kingdom	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Gertrude_Lilian_Entwisle	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Edward_Victor_Appleton	dbp:academicAdvisors	dbr:Ernest_Rutherford ;
+	dbo:academicAdvisor	dbr:Ernest_Rutherford ;
+	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Henry_Moseley	dbo:influencedBy	dbr:Ernest_Rutherford ;
+	dbp:influences	dbr:Ernest_Rutherford ;
+	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:John_Sealy_Townsend	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Joseph_Rotblat	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Descriptive_research	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Saint_Johns_Range	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+<http://dbpedia.org/resource/1249_Rutherfordia>	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Hydrogen	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Nuclear_power	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:History_of_physics	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:History_of_the_social_sciences	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Withington	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Science_and_engineering_in_Manchester	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Culture_of_Manchester	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Timeline_of_Manchester_history	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:University_of_Manchester	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+<http://dbpedia.org/resource/Meanings_of_minor_planet_names:_1001\u20132000>	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Timeline_of_nuclear_fusion	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Gamma_ray	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Electromagnetic_radiation	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Cawthron_Institute	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+<http://dbpedia.org/resource/Trinity_College,_Cambridge>	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Arthur_Compton	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:University_of_Canterbury	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+<http://dbpedia.org/resource/The_Scientists_(book)>	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+<http://dbpedia.org/resource/1925_in_New_Zealand>	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Experimental_physics	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Cheshire_Crossing	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Royal_Institution	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Rutherford_backscattering_spectrometry	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Fellow_of_the_Royal_Society	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+<http://dbpedia.org/resource/List_of_fellows_of_the_Royal_Society_P,_Q,_R>	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+<http://dbpedia.org/resource/List_of_craters_on_the_Moon:_R\u2013S>	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Natural_scientific_research_in_Canada	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:The_Great_Abraham_Lincoln_Pocket_Watch_Conspiracy	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Matteucci_Medal	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+<http://dbpedia.org/resource/St._John\u0027s_College_(Annapolis/Santa_Fe)>	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Rutherford_Memorial_Medal	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Dorothy_Hodgkin	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+<http://dbpedia.org/resource/J._D._Bernal>	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Savile_Club	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Oxia_Palus_quadrangle	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Burials_and_memorials_in_Westminster_Abbey	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Age_of_Earth	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+<http://dbpedia.org/resource/C._V._Raman>	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Waimea_College	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Faraday_Lectureship_Prize	dbp:event	dbr:Ernest_Rutherford ;
+	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Nelson_College	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+<http://dbpedia.org/resource/New_Zealand\u0027s_Top_100_History_Makers>	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Pontifical_Academy_of_Sciences	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:List_of_presidents_of_the_Institute_of_Physics	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Michael_Faraday	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:LMS_Jubilee_Class	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:List_of_people_on_the_postage_stamps_of_the_Soviet_Union	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:List_of_members_of_the_Order_of_Merit	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Council_for_At-Risk_Academics	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Pyotr_Kapitsa	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Abram_Ioffe	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Rutherfordium	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:John_Cockcroft	dbp:academicAdvisors	dbr:Ernest_Rutherford ;
+	dbo:academicAdvisor	dbr:Ernest_Rutherford ;
+	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Leo_Szilard	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Hans_Geiger	dbo:influencedBy	dbr:Ernest_Rutherford ;
+	dbp:influences	dbr:Ernest_Rutherford ;
+	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Otto_Hahn	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Montreal_Laboratory	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:List_of_chemical_elements_naming_controversies	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Eric_Burhop	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Hydrophone	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+<http://dbpedia.org/resource/1851_Research_Fellowship>	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+<http://dbpedia.org/resource/Department_of_Chemistry,_University_of_Manchester>	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Royal_Society_Bakerian_Medal	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Subatomic_particle	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Tritium	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+<http://dbpedia.org/resource/Einstein\u2013Szil\u00E1rd_letter>	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:History_of_broadcasting_in_Australia	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Erich_Regener	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+<http://dbpedia.org/resource/1914_in_science>	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:List_of_people_whose_names_are_used_in_chemical_element_names	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Mark_Oliphant	dbp:doctoralAdvisor	dbr:Ernest_Rutherford ;
+	dbo:doctoralAdvisor	dbr:Ernest_Rutherford ;
+	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:John_Beaglehole	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+wikipedia-en:Ernest_Rutherford	foaf:primaryTopic	dbr:Ernest_Rutherford .
+dbr:Marie_Curie	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Atomic_physics	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:List_of_Nobel_laureates_in_Chemistry	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Nuclear_physics	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:British_Science_Association	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Nuclear_chemistry	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Patrick_Blackett	dbp:academicAdvisors	dbr:Ernest_Rutherford ;
+	dbo:academicAdvisor	dbr:Ernest_Rutherford ;
+	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Robert_William_Boyle	dbp:doctoralAdvisor	dbr:Ernest_Rutherford ;
+	dbo:doctoralAdvisor	dbr:Ernest_Rutherford ;
+	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Edward_Andrade	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Kurt_Heinrich_Meyer	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+<http://dbpedia.org/resource/1871_in_science>	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:List_of_blue_plaques_erected_by_the_Royal_Society_of_Chemistry	dbp:subject	dbr:Ernest_Rutherford ;
+	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+<http://dbpedia.org/resource/1917_in_the_United_Kingdom>	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Banknotes_of_the_New_Zealand_dollar	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Royal_Liberty_School	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+<http://dbpedia.org/resource/Henry_Priestley_(mathematician)>	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+<http://dbpedia.org/resource/List_of_craters_on_Mars:_O\u2013Z>	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Alpha_particle	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Index_of_chemistry_articles	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Proton	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+<http://dbpedia.org/resource/ZETA_(fusion_reactor)>	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:List_of_experiments	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Stellarator	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:William_Christopher_Macdonald	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Mount_Roskill_Grammar_School	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Robert_Wichard_Pohl	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Proceedings_of_the_Royal_Society	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+<http://dbpedia.org/resource/Rutherford_College,_Kent>	dbp:namedAfter	dbr:Ernest_Rutherford ;
+	dbo:namedAfter	dbr:Ernest_Rutherford ;
+	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Manchester	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:University_of_Bristol	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Timeline_of_the_20th_century	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:List_of_University_of_Cambridge_people	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:MRC_Laboratory_of_Molecular_Biology	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Naming_of_chemical_elements	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Nuclear_fusion	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:List_of_University_of_Manchester_people	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Loughborough_University	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Soviet_atomic_bomb_project	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:IET_Faraday_Medal	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Institute_of_Physics_Michael_Faraday_Medal_and_Prize	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Manchester_Literary_and_Philosophical_Society	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+<http://dbpedia.org/resource/Day_One_(1989_film)>	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Cosmic_ray	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+<http://dbpedia.org/resource/Richard_Reeves_(American_writer)>	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+<http://dbpedia.org/resource/J._Robert_Oppenheimer>	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:History_of_nuclear_weapons	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+<http://dbpedia.org/resource/Ernest_C._Pollard>	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Henry_DeWolf_Smyth	dbp:academicAdvisors	dbr:Ernest_Rutherford ;
+	dbo:academicAdvisor	dbr:Ernest_Rutherford ;
+	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Radon	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:University_of_Kent	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Harriet_Brooks	dbp:academicAdvisors	dbr:Ernest_Rutherford ;
+	dbo:academicAdvisor	dbr:Ernest_Rutherford ;
+	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Antonius_van_den_Broek	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+<http://dbpedia.org/resource/Otto_H\u00F6nigschmid>	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Paul_Ulrich_Villard	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Walther_Ritz	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Young_Einstein	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+<http://dbpedia.org/resource/Trinity_College_Chapel,_Cambridge>	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+<http://dbpedia.org/resource/Connections_(TV_series)>	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+<http://dbpedia.org/resource/Campbell\u0027s_theorem_(probability)>	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Jack_Copeland	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Cathode_ray	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+<http://dbpedia.org/resource/J._J._Thomson>	dbp:notableStudents	dbr:Ernest_Rutherford ;
+	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford ;
+	dbo:notableStudent	dbr:Ernest_Rutherford .
+<http://dbpedia.org/resource/1909_in_science>	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Neutron_generator	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Nayland_College	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Norman_Feather	dbp:doctoralAdvisor	dbr:Ernest_Rutherford ;
+	dbo:doctoralAdvisor	dbr:Ernest_Rutherford ;
+	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Alpha_decay	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:The_Christie_NHS_Foundation_Trust	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Ruth_Fowler_Edwards	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Beta_particle	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:List_of_people_on_the_postage_stamps_of_the_United_Kingdom	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Silliman_Memorial_Lectures	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:William_Henry_Bragg	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:University_of_Cambridge	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:September_1933	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+<http://dbpedia.org/resource/1911>	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Physics_outreach	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Planck_constant	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Allen_Shenstone	dbp:academicAdvisors	dbr:Ernest_Rutherford ;
+	dbo:academicAdvisor	dbr:Ernest_Rutherford ;
+	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Toroidal_ring_model	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+<http://dbpedia.org/resource/Atomic,_molecular,_and_optical_physics>	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Atomic_theory	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+<http://dbpedia.org/resource/Index_of_physics_articles_(E)>	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Timeline_of_scientific_experiments	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:List_of_English_inventions_and_discoveries	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Polonium-210	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Timeline_of_scientific_discoveries	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Timeline_of_scientific_thought	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+@prefix ns5:	<http://dbpedia.org/resource/Chemistry:> .
+ns5:_A_Volatile_History	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Nuclear_fission	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Quantum_tunnelling	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Neutron	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford ;
+	dbp:theorized	dbr:Ernest_Rutherford .
+dbr:Archibald_Hill	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Hydrogen_isotope_biogeochemistry	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Indian_Science_Congress_Association	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Nuclear_power_in_India	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+<http://dbpedia.org/resource/Norman_Foster_Ramsey_Jr.>	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+<http://dbpedia.org/resource/1871>	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:List_of_In_Our_Time_programmes	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:List_of_hereditary_baronies_in_the_Peerage_of_the_United_Kingdom	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Francis_Simon	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Kurt_Mendelssohn	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+<http://dbpedia.org/resource/Arthur_W._Barton>	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:John_Clarence_Webster	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:John_Angus_Erskine	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Abram_Alikhanov	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Oganesson	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:John_Keith_Roberts	dbp:doctoralAdvisor	dbr:Ernest_Rutherford ;
+	dbo:doctoralAdvisor	dbr:Ernest_Rutherford ;
+	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Bernice_Weldon_Sargent	dbo:doctoralAdvisor	dbr:Ernest_Rutherford ;
+	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Kenneth_Bainbridge	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+<http://dbpedia.org/resource/Leslie_H._Martin>	dbp:doctoralAdvisor	dbr:Ernest_Rutherford ;
+	dbo:doctoralAdvisor	dbr:Ernest_Rutherford ;
+	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+<http://dbpedia.org/resource/Rutherford_(Martian_crater)>	dbp:eponym	dbr:Ernest_Rutherford ;
+	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Harrie_Massey	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+<http://dbpedia.org/resource/Scott_L._Montgomery>	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+<http://dbpedia.org/resource/John_W._Campbell>	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:History_of_subatomic_physics	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Particle_accelerators_in_popular_culture	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+<http://dbpedia.org/resource/Joseph_Ward_(astronomer)>	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+<http://dbpedia.org/resource/Bank_of_England_\u00A350_note>	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Brightwater	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Geiger_counter	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Radio_receiver	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+<http://dbpedia.org/resource/Civilisation_(TV_series)>	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:List_of_Heidelberg_University_people	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:George_de_Hevesy	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Philosophy_in_Canada	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Lise_Meitner	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Timeline_of_New_Zealand_history	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:List_of_deists	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+@prefix ns6:	<http://dbpedia.org/resource/The_100:> .
+ns6:_A_Ranking_of_the_Most_Influential_Persons_in_History	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Night_Thoughts_of_a_Classical_Physicist	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:First_Open	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Timeline_of_particle_discoveries	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Timeline_of_particle_physics	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:One_World_or_None	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Relativistic_quantum_mechanics	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Timeline_of_atomic_and_subatomic_physics	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Hendrik_Lorentz	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Rutherford_Appleton_Laboratory	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:New_Zealand	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+<http://dbpedia.org/resource/P\u0101keh\u0101>	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:List_of_important_publications_in_physics	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Chemistry	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Stochastic_process	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Quantum_mechanics	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+<http://dbpedia.org/resource/Erwin_Schr\u00F6dinger>	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+<http://dbpedia.org/resource/List_of_New_Zealand\u2013related_topics>	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:New_Zealand_dollar	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+dbr:Ernest_Rutherford	rdf:type	dbo:Scientist .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Ernest_Rutherford	rdf:type	yago:Barony113251906 ,
+		yago:WikicatBaronsInThePeerageOfTheUnitedKingdom .
+@prefix ns9:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Ernest_Rutherford	rdf:type	ns9:NaturalPerson ,
+		yago:Estate113246662 ,
+		ns9:Agent ,
+		<http://dbpedia.org/class/yago/WikicatPersonsOfNationalHistoricSignificance(Canada)> ,
+		yago:WikicatExtinctBaroniesInThePeerageOfTheUnitedKingdom ,
+		yago:RealProperty113246475 ,
+		yago:WikicatBaroniesInThePeerageOfTheUnitedKingdom .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Ernest_Rutherford	rdf:type	wikidata:Q215627 ,
+		yago:Associate109816771 ,
+		yago:WikicatPeopleFromChristchurch ,
+		yago:WikicatNewZealandScientists ,
+		<http://dbpedia.org/class/yago/WikicatAlumniOfTrinityCollege,Cambridge> ,
+		yago:Chemist109913824 ,
+		yago:WikicatNewZealandPeopleOfScottishDescent ,
+		yago:MaleAristocrat110285135 ,
+		yago:Noble110271677 ,
+		yago:Baron109840520 ,
+		yago:WikicatExperimentalPhysicists ,
+		yago:Wikicat20th-centuryPhysicists ,
+		yago:NuclearPhysicist110364643 ,
+		yago:WikicatNuclearPhysicists ,
+		yago:WikicatFellowsOfTheGermanAcademyOfSciencesLeopoldina ,
+		yago:Physicist110428004 ,
+		yago:WikicatNobelLaureatesInChemistry ,
+		yago:WikicatEnglishNobelLaureates ,
+		yago:WikicatPeopleFromTheNelsonRegion ,
+		yago:WikicatAcademicsOfTheVictoriaUniversityOfManchester ,
+		yago:WikicatBritishNuclearPhysicists ,
+		yago:WikicatNewZealandChemists ,
+		yago:WikicatNewZealandNobelLaureates ,
+		yago:WikicatFellowsOfTheRoyalSocietyOfNewZealand ,
+		yago:WikicatRadioPioneers ,
+		yago:WikicatNewZealandNuclearPhysicists ,
+		yago:WikicatNewZealandPhysicists ,
+		yago:Wikicat19th-centuryPhysicists ,
+		yago:WikicatNewZealandPeopleOfEnglishDescent ,
+		yago:WikicatNewZealandPeople ,
+		yago:WikicatBritishPhysicists ,
+		yago:WikicatFellowsOfTheRoyalSociety ,
+		yago:Possession100032613 ,
+		yago:Property113244109 ,
+		yago:Relation100031921 .
+@prefix umbel-rc:	<http://umbel.org/umbel/rc/> .
+dbr:Ernest_Rutherford	rdf:type	umbel-rc:PersonWithOccupation ,
+		yago:WikicatPeopleEducatedAtNelsonCollege ,
+		umbel-rc:Scientist ,
+		yago:WikicatEnglishPeopleOfScottishDescent ,
+		yago:WikicatBritishChemists ,
+		yago:Aristocrat109807754 ,
+		yago:WikicatBritishNobelLaureates .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Ernest_Rutherford	rdf:type	owl:Thing ,
+		yago:Creator109614315 ,
+		yago:YagoGeoEntity ,
+		yago:YagoPermanentlyLocatedEntity ,
+		yago:YagoLegalActor ,
+		yago:YagoLegalActorGeo ,
+		yago:WikicatPresidentsOfTheRoyalSociety ,
+		dbo:Agent ,
+		yago:Abstraction100002137 ,
+		yago:Academician109759069 ,
+		yago:Acquirer109764201 ,
+		dbo:Politician ,
+		yago:Alumnus109786338 ,
+		yago:CausalAgent100007347 ,
+		yago:Adult109605289 ,
+		yago:Communicator109610660 ,
+		yago:Educator110045713 ,
+		yago:WikicatBritishAcademics ,
+		yago:Honoree110183757 ,
+		yago:Intellectual109621545 ,
+		yago:HeadOfState110164747 ,
+		yago:WikicatHonoraryFellowsOfTheRoyalSocietyOfEdinburgh ,
+		yago:Leader109623038 ,
+		yago:Laureate110249011 ,
+		yago:LivingThing100004258 ,
+		yago:Negotiator110351874 ,
+		yago:Lector110252222 ,
+		yago:Peer109626238 ,
+		foaf:Person ,
+		yago:Colleague109935990 ,
+		yago:WikicatFaradayLecturers ,
+		yago:Originator110383816 ,
+		yago:Pioneer110434725 ,
+		yago:WikicatPresidentsOfTheInstituteOfPhysics ,
+		dbo:Person ,
+		yago:Object100002684 ,
+		yago:Person100007846 ,
+		yago:Organism100004475 ,
+		yago:President110467179 ,
+		yago:PhysicalEntity100001930 ,
+		yago:Professional110480253 ,
+		yago:Recipient109627906 ,
+		yago:Representative110522035 ,
+		yago:Scholar110557854 ,
+		yago:Whole100003553 ,
+		wikidata:Q24229398 ,
+		wikidata:Q5 ,
+		yago:Scientist110560637 ,
+		wikidata:Q82955 .
+@prefix schema:	<http://schema.org/> .
+dbr:Ernest_Rutherford	rdf:type	schema:Person .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Ernest_Rutherford	rdfs:label	"Ernest Rutherford"@ga ,
+		"Ernest Rutherford"@pt ,
+		"Ernest Rutherford"@nl ,
+		"Ernest Rutherford"@eo ,
+		"\u0388\u03C1\u03BD\u03B5\u03C3\u03C4 \u03A1\u03AC\u03B4\u03B5\u03C1\u03C6\u03BF\u03C1\u03BD\u03C4"@el ,
+		"\u30A2\u30FC\u30CD\u30B9\u30C8\u30FB\u30E9\u30B6\u30D5\u30A9\u30FC\u30C9"@ja ,
+		"Ernest Rutherford"@fr ,
+		"\u0415\u0440\u043D\u0435\u0441\u0442 \u0420\u0435\u0437\u0435\u0440\u0444\u043E\u0440\u0434"@uk ,
+		"Ernest Rutherford"@es ,
+		"Ernest Rutherford"@ca ,
+		"Ernest Rutherford"@pl ,
+		"\u0625\u0631\u0646\u0633\u062A \u0631\u0630\u0631\u0641\u0648\u0631\u062F"@ar ,
+		"Ernest Rutherford"@it ,
+		"Ernest Rutherford"@sv ,
+		"Ernest Rutherford"@cs ,
+		"\uC5B4\uB2C8\uC2A4\uD2B8 \uB7EC\uB354\uD37C\uB4DC"@ko ,
+		"Ernest Rutherford"@de ,
+		"Ernest Rutherford"@en ,
+		"Ernest Rutherford"@eu ,
+		"\u6B27\u5185\u65AF\u7279\u00B7\u5362\u745F\u798F"@zh ,
+		"\u0420\u0435\u0437\u0435\u0440\u0444\u043E\u0440\u0434, \u042D\u0440\u043D\u0435\u0441\u0442"@ru ;
+	rdfs:comment	"\u042D\u0440\u043D\u0435\u0301\u0441\u0442 \u0420\u0435\u0437\u0435\u0440\u0444\u043E\u0301\u0440\u0434; 1-\u0439 \u0431\u0430\u0440\u043E\u043D \u0420\u0435\u0437\u0435\u0440\u0444\u043E\u0440\u0434 \u041D\u0435\u043B\u044C\u0441\u043E\u043D\u0441\u043A\u0438\u0439 (\u0430\u043D\u0433\u043B. Ernest Rutherford; 30 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 1871, \u0421\u043F\u0440\u0438\u043D\u0433-\u0413\u0440\u0443\u0432, \u041D\u043E\u0432\u0430\u044F \u0417\u0435\u043B\u0430\u043D\u0434\u0438\u044F \u2014 19 \u043E\u043A\u0442\u044F\u0431\u0440\u044F 1937, \u041A\u0435\u043C\u0431\u0440\u0438\u0434\u0436) \u2014 \u0431\u0440\u0438\u0442\u0430\u043D\u0441\u043A\u0438\u0439 \u0444\u0438\u0437\u0438\u043A \u043D\u043E\u0432\u043E\u0437\u0435\u043B\u0430\u043D\u0434\u0441\u043A\u043E\u0433\u043E \u043F\u0440\u043E\u0438\u0441\u0445\u043E\u0436\u0434\u0435\u043D\u0438\u044F. \u0418\u0437\u0432\u0435\u0441\u0442\u0435\u043D \u043A\u0430\u043A \u00AB\u043E\u0442\u0435\u0446\u00BB \u044F\u0434\u0435\u0440\u043D\u043E\u0439 \u0444\u0438\u0437\u0438\u043A\u0438. \u041B\u0430\u0443\u0440\u0435\u0430\u0442 \u041D\u043E\u0431\u0435\u043B\u0435\u0432\u0441\u043A\u043E\u0439 \u043F\u0440\u0435\u043C\u0438\u0438 \u043F\u043E \u0445\u0438\u043C\u0438\u0438 1908 \u0433\u043E\u0434\u0430. \u0412 1911 \u0433\u043E\u0434\u0443 \u0441\u0432\u043E\u0438\u043C \u0437\u043D\u0430\u043C\u0435\u043D\u0438\u0442\u044B\u043C \u043E\u043F\u044B\u0442\u043E\u043C \u0440\u0430\u0441\u0441\u0435\u044F\u043D\u0438\u044F \u0430\u043B\u044C\u0444\u0430-\u0447\u0430\u0441\u0442\u0438\u0446 \u0434\u043E\u043A\u0430\u0437\u0430\u043B \u0441\u0443\u0449\u0435\u0441\u0442\u0432\u043E\u0432\u0430\u043D\u0438\u0435 \u0432 \u0430\u0442\u043E\u043C\u0430\u0445 \u043F\u043E\u043B\u043E\u0436\u0438\u0442\u0435\u043B\u044C\u043D\u043E \u0437\u0430\u0440\u044F\u0436\u0435\u043D\u043D\u043E\u0433\u043E \u044F\u0434\u0440\u0430 \u0438 \u043E\u0442\u0440\u0438\u0446\u0430\u0442\u0435\u043B\u044C\u043D\u043E \u0437\u0430\u0440\u044F\u0436\u0435\u043D\u043D\u044B\u0445 \u044D\u043B\u0435\u043A\u0442\u0440\u043E\u043D\u043E\u0432 \u0432\u043E\u043A\u0440\u0443\u0433 \u043D\u0435\u0433\u043E. \u041D\u0430 \u043E\u0441\u043D\u043E\u0432\u0435 \u0440\u0435\u0437\u0443\u043B\u044C\u0442\u0430\u0442\u043E\u0432 \u043E\u043F\u044B\u0442\u0430 \u0441\u043E\u0437\u0434\u0430\u043B \u043F\u043B\u0430\u043D\u0435\u0442\u0430\u0440\u043D\u0443\u044E \u043C\u043E\u0434\u0435\u043B\u044C \u0430\u0442\u043E\u043C\u0430."@ru ,
+		"Ernest Rutherford, 1. Baron Rutherford of Nelson (* 30. August 1871 in Spring Grove bei Nelson, Neuseeland; \u2020 19. Oktober 1937 in Cambridge, Vereinigtes K\u00F6nigreich) war ein neuseel\u00E4ndischer Physiker, der 1908 den Nobelpreis f\u00FCr Chemie erhielt. Rutherford gilt als einer der bedeutendsten Experimentalphysiker. Sein bekanntester Beitrag zur Atomphysik ist das Rutherfordsche Atommodell, das er 1911 aus seinen Streuversuchen von Alphateilchen an Goldfolie ableitete. Rutherford widerlegte das Atommodell von Thomson, der noch von einer gleichm\u00E4\u00DFigen Masseverteilung ausgegangen war."@de ,
+		"\u6B27\u5185\u65AF\u7279\u00B7\u5362\u745F\u798F\uFF0C\u7B2C\u4E00\u4EE3\u5C3C\u723E\u68EE\u7684\u5362\u745F\u798F\u7537\u7235\uFF0COM\uFF0CFRS\uFF08\u82F1\u8A9E\uFF1AErnest Rutherford, 1st Baron Rutherford of Nelson\uFF0C1871\u5E748\u670830\u65E5\uFF0D1937\u5E7410\u670819\u65E5\uFF09\uFF0C\u65B0\u897F\u5170\u7269\u7406\u5B66\u5BB6\uFF0C\u4E16\u754C\u77E5\u540D\u7684\u539F\u5B50\u6838\u7269\u7406\u5B78\u4E4B\u7236\u3002\u5B78\u8853\u754C\u516C\u8A8D\u4ED6\u70BA\u7E7C\u6CD5\u62C9\u7B2C\u4E4B\u5F8C\u6700\u5049\u5927\u7684\u5BE6\u9A57\u7269\u7406\u5B78\u5BB6\u3002 \u5362\u745F\u798F\u9996\u5148\u63D0\u51FA\u653E\u5C04\u6027\u534A\u8870\u671F\u7684\u6982\u5FF5\uFF0C\u8B49\u5BE6\u653E\u5C04\u6027\u6D89\u53CA\u5F9E\u4E00\u500B\u5143\u7D20\u5230\u53E6\u4E00\u500B\u5143\u7D20\u7684\u9077\u8B8A\u3002\u4ED6\u53C8\u5C07\u653E\u5C04\u6027\u7269\u8CEA\u6309\u7167\u8CAB\u7A7F\u80FD\u529B\u5206\u985E\u70BA\u03B1\u5C04\u7DDA\u8207\u03B2\u5C04\u7DDA\uFF0C\u4E26\u4E14\u8B49\u5BE6\u524D\u8005\u5C31\u662F\u6C26\u96E2\u5B50\u3002\u56E0\u70BA\u300C\u5BF9\u5143\u7D20\u8715\u53D8\u4EE5\u53CA\u653E\u5C04\u5316\u5B66\u7684\u7814\u7A76\u300D\uFF0C\u4ED6\u69AE\u73721908\u5E74\u8AFE\u8C9D\u723E\u5316\u5B78\u734E\u3002 \u5362\u745F\u798F\u9818\u5C0E\u5718\u968A\u6210\u529F\u5730\u8B49\u5BE6\u5728\u539F\u5B50\u7684\u4E2D\u5FC3\u6709\u500B\u539F\u5B50\u6838\uFF0C\u5275\u5EFA\u4E86\u5362\u745F\u798F\u6A21\u578B\u3002\u4ED6\u6700\u5148\u6210\u529F\u5730\u5728\u6C2E\u8207\u03B1\u7C92\u5B50\u7684\u6838\u53CD\u61C9\u88CF\u5C07\u539F\u5B50\u5206\u88C2\uFF0C\u4ED6\u53C8\u5728\u540C\u5BE6\u9A57\u88CF\u767C\u73FE\u4E86\u8CEA\u5B50\uFF0C\u4E26\u4E14\u70BA\u8CEA\u5B50\u547D\u540D\u3002\u7B2C104\u53F7\u5143\u7D20\u4E3A\u7EAA\u5FF5\u4ED6\u800C\u547D\u540D\u4E3A\u201C\u946A\u201D\u3002"@zh ,
+		"\u0625\u0631\u0646\u0633\u062A \u0631\u0630\u0631\u0641\u0648\u0631\u062F (30 \u0623\u063A\u0633\u0637\u0633 1871 - 19 \u0623\u0643\u062A\u0648\u0628\u0631 1937) \u0647\u0648 \u0639\u0627\u0644\u0645 \u0641\u064A\u0632\u064A\u0627\u0621 \u0628\u0631\u064A\u0637\u0627\u0646\u064A \u0645\u0648\u0644\u0648\u062F \u0641\u064A \u0646\u064A\u0648\u0632\u064A\u0644\u0646\u062F\u0627 \u0648\u0627\u0644\u0630\u064A \u064A\u0639\u0631\u0641 \u0628\u0640\"\u0623\u0628 \u0627\u0644\u0641\u064A\u0632\u064A\u0627\u0621 \u0627\u0644\u0646\u0648\u0648\u064A\u0629\" . \u062A\u0635\u0646\u0641\u0647 \u0627\u0644\u0645\u0648\u0633\u0648\u0639\u0629 \u0627\u0644\u0628\u0631\u064A\u0637\u0627\u0646\u064A\u0629 \u0643\u0623\u0641\u0636\u0644 \u0627\u0644\u0645\u062C\u0631\u0628\u064A\u0646 \u0645\u0646\u0630 \u0645\u0627\u064A\u0643\u0644 \u0641\u0627\u0631\u0627\u062F\u0627\u064A. \u0627\u0643\u062A\u0634\u0641 \u0641\u064A \u0623\u062D\u062F \u0623\u0639\u0645\u0627\u0644\u0647 \u0627\u0644\u0645\u0628\u0643\u0631\u0629 \u0627\u0644\u0639\u0645\u0631 \u0627\u0644\u0645\u0646\u0635\u0641 \u0644\u0644\u0639\u0646\u0627\u0635\u0631 \u0627\u0644\u0645\u0634\u0639\u0629\u060C \u0648\u0623\u062B\u0628\u062A \u0623\u0646 \u0627\u0644\u0646\u0634\u0627\u0637 \u0627\u0644\u0625\u0634\u0639\u0627\u0639\u064A \u064A\u0634\u062A\u0645\u0644 \u0639\u0644\u0649 \u062A\u062D\u0648\u0644 \u0627\u0644\u0639\u0646\u0635\u0631 \u0627\u0644\u0643\u064A\u0645\u064A\u0627\u0626\u064A \u0625\u0644\u0649 \u0639\u0646\u0635\u0631 \u0622\u062E\u0631\u060C \u0648\u0641\u0631\u0642 \u0623\u064A\u0636\u0627\u064B \u0648\u0633\u0645\u0649 \u0623\u0646\u0648\u0627\u0639 \u0627\u0644\u0625\u0634\u0639\u0627\u0639 \u0625\u0644\u0649 \u0623\u0644\u0641\u0627 \u0648\u0628\u064A\u062A\u0627. \u0643\u0644 \u0647\u0630\u0647 \u0627\u0644\u0623\u0639\u0645\u0627\u0644 \u062A\u0645\u062A \u0641\u064A \u062C\u0627\u0645\u0639\u0629 \u0645\u0627\u0643 \u062C\u064A\u0644 \u0628\u0643\u0646\u062F\u0627. \u0645\u0624\u062F\u064A\u0629 \u0644\u062D\u0635\u0648\u0644\u0647 \u0639\u0644\u0649 \u062C\u0627\u0626\u0632\u0629 \u0646\u0648\u0628\u0644 \u0644\u0644\u0643\u064A\u0645\u064A\u0627\u0621 \u0639\u0627\u0645 1908\u060C \u0643\u0645\u0627 \u0627\u0643\u062A\u0634\u0641 \u0646\u0648\u0627\u0629 \u0627\u0644\u0630\u0631\u0629 \u0648\u0627\u0642\u062A\u0631\u062D\u060C\u0633\u0646\u06291911\u060C\u0646\u0645\u0648\u0630\u062C\u0627 \u064A\u0634\u0628\u0647 \u0627\u0644\u0646\u0638\u0627\u0645 \u0627\u0644\u0634\u0645\u0633\u064A\u060C\u062D\u064A\u062B \u062A\u0634\u063A\u0644 \u0627\u0644\u0646\u0648\u0627\u0629 \u0627\u0644\u0645\u0631\u0643\u0632 \u0623\u0645\u0627 \u0627\u0644\u0625\u0644\u0643\u062A\u0631\u0648\u0646\u0627\u062A \u0641\u062A\u062F\u0648\u0631 \u062D\u0648\u0644\u0647\u0627 \u0641\u064A \u0645\u062F\u0627\u0631\u0627\u062A \u062F\u0627\u0626\u0631\u064A\u0629."@ar ,
+		"Ernest Rutherford, fr\u00E5n 1931 Baron Rutherford of Nelson (Lord Rutherford), f\u00F6dd 30 augusti 1871 i Brightwater n\u00E4ra Nelson, Nya Zeeland, d\u00F6d 19 oktober 1937 i Cambridge, Cambridgeshire, var en nyzeel\u00E4ndsk-brittisk fysiker. Rutherford har kallats atomfysikens fader efter att ha varit en f\u00F6rgrundsgestalt i kartl\u00E4ggningen av radioaktivitet och atomers struktur. 1908 tilldelades han Nobelpriset i kemi f\u00F6r sina unders\u00F6kningar av radioaktivt s\u00F6nderfall och de radioaktiva \u00E4mnenas kemi."@sv ,
+		"Ernest Rutherford, conocido tambi\u00E9n como Lord Rutherford (Reino Unido: /'\u025C\u02D0n\u026Ast 'r\u028C\u00F0\u0259f\u0259d/; , 30 de agosto de 1871-Cambridge, 19 de octubre de 1937), fue un f\u00EDsico y qu\u00EDmico brit\u00E1nico nacido en Nueva Zelanda. Durante la primera parte de su vida se consagr\u00F3 por completo a las investigaciones, pas\u00F3 la segunda mitad dedicado a la docencia y dirigiendo los Laboratorios Cavendish de Cambridge, en donde se descubri\u00F3 el neutr\u00F3n. Fue maestro de Niels Bohr y Otto Hahn."@es ,
+		"\u521D\u4EE3\u30CD\u30EB\u30BD\u30F3\u306E\u30E9\u30B6\u30D5\u30A9\u30FC\u30C9\u7537\u7235\u30A2\u30FC\u30CD\u30B9\u30C8\u30FB\u30E9\u30B6\u30D5\u30A9\u30FC\u30C9\uFF08\u82F1: Ernest Rutherford, 1st Baron Rutherford of Nelson, OM, FRS, 1871\u5E748\u670830\u65E5 - 1937\u5E7410\u670819\u65E5\uFF09\u306F\u3001\u30CB\u30E5\u30FC\u30B8\u30FC\u30E9\u30F3\u30C9\u51FA\u8EAB\u3001\u30A4\u30AE\u30EA\u30B9\u3067\u6D3B\u8E8D\u3057\u305F\u7269\u7406\u5B66\u8005\u3001\u5316\u5B66\u8005\u3002 \u30DE\u30A4\u30B1\u30EB\u30FB\u30D5\u30A1\u30E9\u30C7\u30FC\u3068\u4E26\u3073\u79F0\u3055\u308C\u308B\u5B9F\u9A13\u7269\u7406\u5B66\u306E\u5927\u5BB6\u3067\u3042\u308B\u3002\u03B1\u7DDA\u3068\u03B2\u7DDA\u306E\u767A\u898B\u3001\u30E9\u30B6\u30D5\u30A9\u30FC\u30C9\u6563\u4E71\u306B\u3088\u308B\u539F\u5B50\u6838\u306E\u767A\u898B\u3001\u539F\u5B50\u6838\u306E\u4EBA\u5DE5\u5909\u63DB\u306A\u3069\u306E\u696D\u7E3E\u306B\u3088\u308A\u300C\u539F\u5B50\u7269\u7406\u5B66\u306E\u7236\u300D\u3068\u547C\u3070\u308C\u308B\u3002 1908\u5E74\u306B\u30CE\u30FC\u30D9\u30EB\u5316\u5B66\u8CDE\u3092\u53D7\u8CDE\u3002\u30E9\u30B6\u30D5\u30A9\u30FC\u30C9\u6307\u5C0E\u306E\u4E0B\u3001\u30C1\u30E3\u30C9\u30A6\u30A3\u30C3\u30AF\u304C\u4E2D\u6027\u5B50\u3092\u767A\u898B\u3001\u30B3\u30C3\u30AF\u30AF\u30ED\u30D5\u30C8\u3068\u30A6\u30A9\u30EB\u30C8\u30F3\u304C\u52A0\u901F\u5668\u3092\u4F7F\u3063\u305F\u5143\u7D20\u5909\u63DB\u306E\u7814\u7A76\u3001\u30A8\u30C9\u30EF\u30FC\u30C9\u30FB\u30A2\u30C3\u30D7\u30EB\u30C8\u30F3\u304C\u96FB\u96E2\u5C64\u306E\u7814\u7A76\u3067\u30CE\u30FC\u30D9\u30EB\u8CDE\u3092\u53D7\u8CDE\u3057\u3066\u3044\u308B\u3002\u5F8C\u306B\u30E9\u30B6\u30DB\u30FC\u30B8\u30A6\u30E0\u3068\u5143\u7D20\u540D\u306B\u3082\u5F7C\u306F\u540D\u3092\u6B8B\u3057\u3066\u3044\u308B\u3002"@ja ,
+		"Rutherford \u00E9 redirecionado para esta p\u00E1gina. Se procura outros significados de Rutherford, consulte Rutherford (desambigua\u00E7\u00E3o). Ernest Rutherford, o 1\u00BA Bar\u00E3o Rutherford de Nelson, OM, PC, PRS (Brightwater, Nova Zel\u00E2ndia, 30 de agosto de 1871 \u2014 Cambridge, 19 de outubro de 1937), foi um f\u00EDsico e qu\u00EDmico neozeland\u00EAs naturalizado brit\u00E2nico, que se tornou conhecido como o pai da f\u00EDsica nuclear. Em um trabalho no come\u00E7o da carreira, descobriu o conceito de meia-vida radioativa, provou que a radioatividade causa a transmuta\u00E7\u00E3o de um elemento qu\u00EDmico em outro, e tamb\u00E9m distinguiu e nomeou as radia\u00E7\u00F5es alfa e beta. Foi premiado com o Nobel de Qu\u00EDmica em 1908 \"por suas investiga\u00E7\u00F5es sobre a desintegra\u00E7\u00E3o dos elementos e a qu\u00EDmica das subst\u00E2ncias radioativas\"."@pt ,
+		"Ernest Rutherford, 1e Baron Rutherford of Nelson (Brightwater, 30 augustus 1871 \u2013 Cambridge (Verenigd Koninkrijk), 19 oktober 1937) was een Nieuw-Zeelands-Britse natuur- en scheikundige. Hij wordt ook wel de vader van de kernfysica genoemd. Hij pionierde de baantheorie van het atoom door de ontdekking van de verstrooiing van Rutherford."@nl ,
+		"Ernest Rutherford, Nelsongo lehenengo baroia (, Tasman eskualdea, Zeelanda Berria, 1871ko abuztuaren 30a - Cambridge, Ingalaterra, 1937ko urriaren 19a) fisika nuklearraren aita izan zen. Alfa eta beta partikulak azaltzeaz gain, erradiazioak elementuen desintegratzea zekartzala ere azaldu zuen, eta horregatik 1908an kimikako Nobel saria eman zioten. Atomoen  aitzindaria izan zen urre xafla saiakuntzan gertatutako Rutherford sakabanaketan oinarrituta."@eu ,
+		"\u039F \u0388\u03C1\u03BD\u03B5\u03C3\u03C4 \u03A1\u03AC\u03B4\u03B5\u03C1\u03C6\u03BF\u03C1\u03BD\u03C4, 1\u03BF\u03C2 \u0392\u03B1\u03C1\u03CE\u03BD\u03BF\u03C2 \u03A1\u03AC\u03B4\u03B5\u03C1\u03C6\u03BF\u03C1\u03BD\u03C4 \u03C4\u03BF\u03C5 \u039D\u03AD\u03BB\u03C3\u03BF\u03BD \u039C\u03AD\u03BB\u03BF\u03C2 \u03C4\u03BF\u03C5 \u03A4\u03AC\u03B3\u03BC\u03B1\u03C4\u03BF\u03C2 \u03C4\u03B7\u03C2 \u0391\u03BE\u03AF\u03B1\u03C2, \u039C\u03AD\u03BB\u03BF\u03C2 \u03C4\u03B7\u03C2 \u0392\u03B1\u03C3\u03B9\u03BB\u03B9\u03BA\u03AE\u03C2 \u0395\u03C4\u03B1\u03B9\u03C1\u03B5\u03AF\u03B1\u03C2 (\u03C0\u03AE\u03C1\u03B5 \u03B1\u03C1\u03B3\u03CC\u03C4\u03B5\u03C1\u03B1 \u03C4\u03BF\u03BD \u03C4\u03B9\u03BC\u03B7\u03C4\u03B9\u03BA\u03CC \u03C4\u03AF\u03C4\u03BB\u03BF \u0392\u03B1\u03C1\u03CE\u03BD\u03BF\u03C2 \u03A1\u03AC\u03B4\u03B5\u03C1\u03C6\u03BF\u03C1\u03BD\u03C4 \u03C4\u03BF\u03C5 \u039D\u03AD\u03BB\u03C3\u03BF\u03BD) \u03AE\u03C4\u03B1\u03BD \u039D\u03B5\u03BF\u03B6\u03B7\u03BB\u03B1\u03BD\u03B4\u03CC\u03C2 \u03C6\u03C5\u03C3\u03B9\u03BA\u03CC\u03C2 \u03BA\u03B1\u03B9 \u03C7\u03B7\u03BC\u03B9\u03BA\u03CC\u03C2. \u0393\u03B5\u03BD\u03BD\u03AE\u03B8\u03B7\u03BA\u03B5 \u03C3\u03C4\u03B9\u03C2 30 \u0391\u03C5\u03B3\u03BF\u03CD\u03C3\u03C4\u03BF\u03C5 \u03C4\u03BF\u03C5 1871 \u03BA\u03B1\u03B9 \u03C0\u03AD\u03B8\u03B1\u03BD\u03B5 \u03C3\u03C4\u03B9\u03C2 19 \u039F\u03BA\u03C4\u03C9\u03B2\u03C1\u03AF\u03BF\u03C5 \u03C4\u03BF\u03C5 1937. \u039F \u03A1\u03AC\u03B4\u03B5\u03C1\u03C6\u03BF\u03C1\u03BD\u03C4 \u03B1\u03BD\u03B1\u03BA\u03AC\u03BB\u03C5\u03C8\u03B5 \u03CC\u03C4\u03B9 \u03C4\u03BF \u03AC\u03C4\u03BF\u03BC\u03BF \u03AD\u03C7\u03B5\u03B9 \u03C3\u03C5\u03B3\u03BA\u03B5\u03BD\u03C4\u03C1\u03C9\u03BC\u03AD\u03BD\u03BF \u03C4\u03BF \u03B8\u03B5\u03C4\u03B9\u03BA\u03CC \u03C6\u03BF\u03C1\u03C4\u03AF\u03BF \u03C3\u03C4\u03BF \u03BA\u03AD\u03BD\u03C4\u03C1\u03BF \u03C4\u03BF\u03C5 \u03BA\u03B1\u03B9 \u03C4\u03BF \u03B1\u03C1\u03BD\u03B7\u03C4\u03B9\u03BA\u03CC \u03C0\u03B5\u03C1\u03B9\u03C6\u03B5\u03C1\u03B5\u03B9\u03B1\u03BA\u03AC \u03BA\u03B1\u03B9 \u03B4\u03B7\u03BC\u03B9\u03BF\u03CD\u03C1\u03B3\u03B7\u03C3\u03B5 \u03C4\u03BF \u03C0\u03BB\u03B1\u03BD\u03B7\u03C4\u03B9\u03BA\u03CC \u03BC\u03BF\u03BD\u03C4\u03AD\u03BB\u03BF \u03C4\u03BF\u03C5 \u03B1\u03C4\u03CC\u03BC\u03BF\u03C5, \u03C0\u03BF\u03C5 \u03B4\u03B9\u03B1\u03B4\u03AD\u03C7\u03C4\u03B7\u03BA\u03B5 \u03C4\u03BF \u00AB\u03BC\u03BF\u03BD\u03C4\u03AD\u03BB\u03BF \u03C4\u03BF\u03C5 \u03C3\u03C4\u03B1\u03C6\u03B9\u03B4\u03CC\u03C8\u03C9\u03BC\u03BF\u03C5\u00BB \u03C4\u03BF\u03C5 \u03A4\u03CC\u03BC\u03C3\u03BF\u03BD. \u03A4\u03BF \u03BC\u03BF\u03BD\u03C4\u03AD\u03BB\u03BF \u03C4\u03BF\u03C5 \u03A1\u03AC\u03B4\u03B5\u03C1\u03C6\u03BF\u03C1\u03BD\u03C4 \u03C4\u03C1\u03BF\u03C0\u03BF\u03C0\u03BF\u03B9\u03AE\u03B8\u03B7\u03BA\u03B5 \u03B1\u03C1\u03B3\u03CC\u03C4\u03B5\u03C1\u03B1 \u03B1\u03C0\u03CC \u03C4\u03BF\u03BD \u039D\u03B9\u03BB\u03C2 \u039C\u03C0\u03BF\u03C1 (Bohr), \u03C0\u03BF\u03C5 \u03B4\u03B7\u03BC\u03B9\u03BF\u03CD\u03C1\u03B3\u03B7\u03C3\u03B5 \u03C4\u03BF \u03C4\u03C1\u03BF\u03C7\u03B9\u03B1\u03BA\u03CC \u03BC\u03BF\u03BD\u03C4\u03AD\u03BB\u03BF \u03C4\u03BF\u03C5 \u03B1\u03C4\u03CC\u03BC\u03BF\u03C5. \u03A0\u03AE\u03C1\u03B5 \u03C4\u03BF \u03B2\u03C1\u03B1\u03B2\u03B5\u03AF\u03BF \u039D\u03BF\u03BC\u03C0\u03AD\u03BB \u03A7\u03B7\u03BC\u03B5\u03AF\u03B1\u03C2 \u03C4\u03BF 1908 \u03B3\u03B9\u03B1 \u03C4\u03B7\u03BD \u03B5\u03C1\u03B3\u03B1\u03C3\u03AF\u03B1 \u03C4\u03BF\u03C5 \u03C3\u03C7\u03B5\u03C4\u03B9\u03BA\u03AC \u03BC\u03B5 \u03C4\u03B7\u03BD \u03B4\u03BF\u03BC\u03AE \u03C4\u03BF\u03C5 \u03B1\u03C4\u03CC\u03BC\u03BF\u03C5 \u03BA\u03B1\u03B9 \u03B7\u03B3\u03AE\u03B8\u03B7\u03BA\u03B5 \u03C4\u03B7\u03C2 \u03C0\u03C1\u03CE\u03C4\u03B7\u03C2 \u03C0\u03C1\u03BF\u03C3\u03C0\u03AC\u03B8\u03B5\u03B9\u03B1\u03C2 \u03B4\u03B9\u03AC\u03C3\u03C0\u03B1\u03C3\u03B7\u03C2 \u03C4\u03BF\u03C5 \u03B1\u03C4\u03CC\u03BC\u03BF\u03C5 \u03C4\u03BF 1918."@el ,
+		"Ernest Rutherford, 1. baron Rutherford z Nelsonu, FRS (30. srpna 1871, , Nov\u00FD Z\u00E9land \u2013 19. \u0159\u00EDjna 1937, Cambridge Spojen\u00E9 kr\u00E1lovstv\u00ED) byl novoz\u00E9landsk\u00FD fyzik. B\u00FDv\u00E1 pova\u017Eov\u00E1n za zakladatele jadern\u00E9 fyziky. Zkoumal radioaktivn\u00ED rozpad chemick\u00FDch prvk\u016F, navrhl koncept polo\u010Dasu rozpadu a z\u00E1\u0159en\u00ED vznikl\u00E1 rozpadem prvk\u016F rozd\u011Blil na \u03B1, \u03B2 a \u03B3. V roce 1919 se mu povedlo jako prvn\u00EDmu p\u0159em\u011Bnit jadernou reakc\u00ED prvek na jin\u00FD prvek (dus\u00EDk na kysl\u00EDk), \u010D\u00EDm\u017E jako prvn\u00ED provedl  prvku na jin\u00FD."@cs ,
+		"Ernest Rutherford, 1r Bar\u00F3 Rutherford Nelson OM, FRS (, Nova Zelanda, Imperi Brit\u00E0nic, 1871 - Cambridge, Anglaterra, Regne Unit, 1937) fou un f\u00EDsic, qu\u00EDmic i professor universitari brit\u00E0nic que fou guardonat amb el Premi Nobel de Qu\u00EDmica de l'any 1908. Si b\u00E9 durant la primera part de la seva vida es va consagrar per complet a les seves investigacions, va passar la segona meitat dedicat a la doc\u00E8ncia i dirigint el Laboratori Cavendish de la Universitat de Cambridge, en el qual es va descobrir el neutr\u00F3, i en el qual es van formar Niels Bohr i Robert Oppenheimer, entre d'altres."@ca ,
+		"Ernest Rutherford (naski\u011Dis la 30-an de a\u016Dgusto 1871, en Nelson, mortis la 19-an de oktobro 1937, en Kembri\u011Do) estis angla fizikisto. En Novzelando, li studis fizikon kaj matematikon. En la jaro 1895, li voja\u011Dis al Britio, por da\u016Drigi siajn studojn en Kembri\u011Do. Ekde 1898, li okupis profesoran postenon en Montrealo (Kanado), kaj ekde 1907 li agadis en Manchester (Britio). Kulmino de lia kariero estis la gajno de la Premio Nobel de Kemio en 1908. Ekde 1919, li gvidis la laboratorion Cavendish en Kembri\u011Do. En la jaro 1931 li gajnis la nobeltitolon Lord Rutherford of Nelson."@eo ,
+		"Fisic\u00ED a rugadh gar do Nelson na Nua-Sh\u00E9alainne, ceannr\u00F3da\u00ED i staid\u00E9ar ar an bhfisic fhon\u00FAicl\u00E9ach ab ea Ernest Rutherford (30 L\u00FAnasa 1871 \u2013 19 Deireadh F\u00F3mhair 1937). Chuir s\u00E9 go m\u00F3r le nua-thuiscint ar strucht\u00FAr an adaimh. I 1903, le Frederick Soddy, thairg s\u00E9 go dtarla\u00EDonn radaighn\u00EDomha\u00EDocht de bharr d\u00EDscaoileadh adamh. Bhuaigh s\u00E9 Duais Nobel na Ceimice i 1908 as a shaothar ar radaighn\u00EDomha\u00EDocht. Fuair s\u00E9 b\u00E1s i gCambridge, Sasana."@ga ,
+		"Ernest Rutherford, I barone Rutherford di Nelson (, 30 agosto 1871 \u2013 Cambridge, 19 ottobre 1937), \u00E8 stato un chimico e fisico neozelandese naturalizzato britannico, considerato il padre della fisica nucleare. Fu il precursore della teoria orbitale dell'atomo, avendo scoperto lo scattering Rutherford nell'esperimento della lamina d'oro sottile.Vinse il Premio Nobel per la chimica nel 1908. In ricordo del suo importante contributo alla chimica, l'elemento chimico Rutherfordio prende il suo nome."@it ,
+		"\uC5B4\uB2C8\uC2A4\uD2B8 \uB7EC\uB354\uD37C\uB4DC \uB0A8\uC791(Ernest Rutherford, 1st Baron Rutherford of Nelson, OM, FRS, 1871\uB144 8\uC6D4 30\uC77C ~ 1937\uB144 10\uC6D4 19\uC77C)\uC740 \uB274\uC9C8\uB79C\uB4DC\uC5D0\uC11C \uD0DC\uC5B4\uB09C \uC601\uAD6D\uC758 \uD575\uBB3C\uB9AC\uD559\uC790\uB85C\uC11C \uD575\uBB3C\uB9AC\uD559\uC758 \uC544\uBC84\uC9C0\uB85C \uBD88\uB9B0\uB2E4. \uBC29\uC0AC\uB2A5 \uBC95\uCE59\uC744 \uC138\uC6E0\uACE0 \uBC29\uC0AC\uB2A5\uC774 \uC6D0\uC790 \uB0B4\uBD80\uC5D0\uC11C \uC77C\uC5B4\uB098\uB294 \uBC18\uC751\uC774\uB77C\uB294 \uC0AC\uC2E4\uC744 \uBC1D\uD614\uC73C\uBA70, \uC790\uC5F0 \uBD95\uAD34 \uD604\uC0C1\uC744 \uC5F0\uAD6C\uD574 \uAE30\uC874 \uBB3C\uC9C8\uAD00\uC5D0 \uB300\uBCC0\uD654\uB97C \uC77C\uC73C\uCF30\uB2E4. \uC54C\uD30C \uC785\uC790 \uC0B0\uB780 \uC2E4\uD5D8\uC73C\uB85C\uC368 \uC6D0\uC790 \uB0B4\uBD80 \uAD6C\uC870\uC5D0 \uC2E0\uAC00\uC124\uC744 \uC81C\uC2DC\uD588\uB2E4 \uD3C9\uAC00\uBC1B\uB294\uB2E4. 1908\uB144 \uB178\uBCA8 \uD654\uD559\uC0C1\uC744 \uBC1B\uC558\uACE0, \uC0AC\uD6C4 \uC6E8\uC2A4\uD2B8\uBBFC\uC2A4\uD130 \uC0AC\uC6D0\uC5D0 \uC548\uC7A5\uB418\uC5C8\uB2E4."@ko ,
+		"\u0415\u0440\u043D\u0435\u0301\u0441\u0442 \u0420\u0435\u0301\u0437\u0435\u0440\u0444\u043E\u0440\u0434 (\u0430\u043D\u0433\u043B. Ernest Rutherford; 30 \u0441\u0435\u0440\u043F\u043D\u044F 1871, , \u041D\u043E\u0432\u0430 \u0417\u0435\u043B\u0430\u043D\u0434\u0456\u044F, \u0411\u0440\u0438\u0442\u0430\u043D\u0441\u044C\u043A\u0430 \u0456\u043C\u043F\u0435\u0440\u0456\u044F \u2014 19 \u0436\u043E\u0432\u0442\u043D\u044F 1937, \u041A\u0435\u043C\u0431\u0440\u0438\u0434\u0436, \u0410\u043D\u0433\u043B\u0456\u044F, \u0411\u0440\u0438\u0442\u0430\u043D\u0441\u044C\u043A\u0430 \u0456\u043C\u043F\u0435\u0440\u0456\u044F) \u2014 \u0431\u0440\u0438\u0442\u0430\u043D\u0441\u044C\u043A\u0438\u0439 \u0444\u0456\u0437\u0438\u043A, \u043B\u0430\u0443\u0440\u0435\u0430\u0442 \u041D\u043E\u0431\u0435\u043B\u0456\u0432\u0441\u044C\u043A\u043E\u0457 \u043F\u0440\u0435\u043C\u0456\u0457 \u0437 \u0445\u0456\u043C\u0456\u0457 (1908). \u0420\u0435\u0437\u0435\u0440\u0444\u043E\u0440\u0434 \u0432\u0456\u0434\u043E\u043C\u0438\u0439, \u043F\u0435\u0440\u0435\u0434\u0443\u0441\u0456\u043C, \u0435\u043A\u0441\u043F\u0435\u0440\u0438\u043C\u0435\u043D\u0442\u0430\u043C\u0438 \u0437 \u0440\u043E\u0437\u0441\u0456\u044E\u0432\u0430\u043D\u043D\u044F \u0430\u043B\u044C\u0444\u0430-\u0447\u0430\u0441\u0442\u0438\u043D\u043E\u043A (\u0420\u0435\u0437\u0435\u0440\u0444\u043E\u0440\u0434\u0456\u0432\u0441\u044C\u043A\u0435 \u0440\u043E\u0437\u0441\u0456\u044E\u0432\u0430\u043D\u043D\u044F), \u0437\u0430\u0432\u0434\u044F\u043A\u0438 \u044F\u043A\u043E\u043C\u0443 \u0432\u0456\u043D \u0432\u0441\u0442\u0430\u043D\u043E\u0432\u0438\u0432 \u0441\u0442\u0440\u0443\u043A\u0442\u0443\u0440\u0443 \u0430\u0442\u043E\u043C\u0430, \u044F\u043A \u0441\u0438\u0441\u0442\u0435\u043C\u0438, \u0449\u043E \u0441\u043A\u043B\u0430\u0434\u0430\u0454\u0442\u044C\u0441\u044F \u0456\u0437 \u043C\u0430\u043B\u043E\u0433\u043E \u0437\u0430 \u0440\u043E\u0437\u043C\u0456\u0440\u0430\u043C\u0438 \u043F\u043E\u0437\u0438\u0442\u0438\u0432\u043D\u043E \u0437\u0430\u0440\u044F\u0434\u0436\u0435\u043D\u043E\u0433\u043E \u044F\u0434\u0440\u0430 \u0439 \u0435\u043B\u0435\u043A\u0442\u0440\u043E\u043D\u0456\u0432."@uk ,
+		"Ernest Rutherford, 1st Baron Rutherford of Nelson,  (30 August 1871 \u2013 19 October 1937) was a New Zealand\u2013born British physicist who came to be known as the father of nuclear physics. Encyclop\u00E6dia Britannica considers him to be the greatest experimentalist since Michael Faraday (1791\u20131867)."@en ,
+		"Ernest Rutherford, 1. Baron Rutherford of Nelson  (ur. 30 sierpnia 1871 w Brightwater, zm. 19 pa\u017Adziernika 1937 w Cambridge) \u2013 brytyjski fizyk urodzony w Nowej Zelandii, kt\u00F3ry jako pierwszy potwierdzi\u0142 istnienie j\u0105dra atomowego. W roku 1908 otrzyma\u0142 Nagrod\u0119 Nobla w dziedzinie chemii."@pl ,
+		"Ernest Rutherford (30 ao\u00FBt 1871 \u00E0 Brightwater, Nouvelle-Z\u00E9lande - 19 octobre 1937 \u00E0 Cambridge, Angleterre) est un physicien et chimiste n\u00E9o-z\u00E9lando-britannique, consid\u00E9r\u00E9 comme le p\u00E8re de la physique nucl\u00E9aire. Il d\u00E9couvrit les rayonnements alpha, les rayonnements b\u00EAta ; il d\u00E9couvrit aussi que la radioactivit\u00E9 s'accompagnait d'une d\u00E9sint\u00E9gration des \u00E9l\u00E9ments chimiques, ce qui lui valut le prix Nobel de chimie en 1908. C'est encore lui qui mit en \u00E9vidence l'existence d'un noyau atomique dans lequel \u00E9taient r\u00E9unies toute la charge positive et presque toute la masse de l'atome."@fr ;
+	owl:differentFrom	dbr:Lord_Rutherfurd ,
+		dbr:Andrew_Rutherford ,
+		<http://dbpedia.org/resource/1st_Earl_of_Teviot> ;
+	foaf:name	"The Lord Rutherford of Nelson"@en .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+@prefix ns16:	<http://globalwordnet.org/ili/> .
+dbr:Ernest_Rutherford	skos:exactMatch	ns16:i96786 ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Ernest_Rutherford_LOC.jpg> ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Ernest_Rutherford .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Ernest_Rutherford	dct:subject	dbc:Honorary_Members_of_the_USSR_Academy_of_Sciences ,
+		dbc:Recipients_of_the_Copley_Medal ,
+		dbc:British_Nobel_laureates ,
+		dbc:English_Nobel_laureates ,
+		dbc:Nobel_laureates_in_Chemistry ,
+		dbc:New_Zealand_emigrants_to_the_United_Kingdom ,
+		dbc:People_educated_at_Nelson_College ,
+		dbc:New_Zealand_Fellows_of_the_Royal_Society ,
+		dbc:Ernest_Rutherford ,
+		dbc:People_from_Brightwater ,
+		<http://dbpedia.org/resource/Category:Corresponding_Members_of_the_Russian_Academy_of_Sciences_(1917\u20131925)> ,
+		dbc:New_Zealand_members_of_the_Order_of_Merit ,
+		dbc:New_Zealand_nuclear_physicists ,
+		dbc:Radio_pioneers ,
+		dbc:New_Zealand_Nobel_laureates ,
+		dbc:New_Zealand_recipients_of_a_British_peerage ,
+		dbc:New_Zealand_physicists ,
+		<http://dbpedia.org/resource/Category:Honorary_Members_of_the_Russian_Academy_of_Sciences_(1917\u20131925)> ,
+		dbc:Knights_Bachelor ,
+		<http://dbpedia.org/resource/Category:20th-century_British_scientists> ,
+		<http://dbpedia.org/resource/Category:19th-century_British_physicists> ,
+		<http://dbpedia.org/resource/Category:19th-century_New_Zealand_scientists> ,
+		dbc:Academics_of_the_Victoria_University_of_Manchester ,
+		dbc:Fellows_of_the_Royal_Society_of_New_Zealand ,
+		dbc:Presidents_of_the_Royal_Society ,
+		dbc:New_Zealand_people_of_Scottish_descent ,
+		dbc:Faraday_Lecturers ,
+		dbc:University_of_Canterbury_alumni ,
+		dbc:New_Zealand_people_of_English_descent ,
+		dbc:Barons_in_the_Peerage_of_the_United_Kingdom ,
+		<http://dbpedia.org/resource/Category:1871_births> ,
+		<http://dbpedia.org/resource/Category:1937_deaths> ,
+		<http://dbpedia.org/resource/Category:Persons_of_National_Historic_Significance_(Canada)> ,
+		<http://dbpedia.org/resource/Category:Fellows_of_Trinity_College,_Cambridge> ,
+		dbc:McGill_University_faculty ,
+		<http://dbpedia.org/resource/Category:20th-century_British_physicists> ,
+		dbc:Members_of_the_Pontifical_Academy_of_Sciences ,
+		dbc:Foreign_associates_of_the_National_Academy_of_Sciences ,
+		dbc:Honorary_Fellows_of_the_Royal_Society_of_Edinburgh ,
+		dbc:Experimental_physicists ,
+		dbc:Presidents_of_the_Institute_of_Physics ,
+		dbc:Burials_at_Westminster_Abbey ;
+	owl:sameAs	<http://mr.dbpedia.org/resource/\u0905\u0930\u094D\u0928\u0947\u0938\u094D\u091F_\u0930\u0941\u0926\u0930\u092B\u094B\u0930\u094D\u0921> ,
+		<http://ta.dbpedia.org/resource/\u0B8E\u0BB0\u0BCD\u0BA3\u0BB8\u0BCD\u0B9F\u0BCD_\u0BB0\u0BA4\u0BB0\u0BCD\u0B83\u0BAA\u0BCB\u0BB0\u0BCD\u0B9F\u0BC1> ,
+		<http://bn.dbpedia.org/resource/\u0986\u09B0\u09CD\u09A8\u09C7\u09B8\u09CD\u099F_\u09B0\u09BE\u09A6\u09BE\u09B0\u09AB\u09CB\u09B0\u09CD\u09A1> .
+@prefix dbpedia-hu:	<http://hu.dbpedia.org/resource/> .
+dbr:Ernest_Rutherford	owl:sameAs	dbpedia-hu:Ernest_Rutherford ,
+		<http://hi.dbpedia.org/resource/\u0905\u0930\u094D\u0928\u0947\u0938\u094D\u091F_\u0930\u0926\u0930\u092B\u094B\u0930\u094D\u0921> .
+@prefix ns20:	<http://li.dbpedia.org/resource/> .
+dbr:Ernest_Rutherford	owl:sameAs	ns20:Ernest_Rutherford .
+@prefix dbpedia-gd:	<http://gd.dbpedia.org/resource/> .
+dbr:Ernest_Rutherford	owl:sameAs	dbpedia-gd:Ernest_Rutherford .
+@prefix dbpedia-lmo:	<http://lmo.dbpedia.org/resource/> .
+dbr:Ernest_Rutherford	owl:sameAs	dbpedia-lmo:Ernest_Rutherford ,
+		dbr:Ernest_Rutherford ,
+		<http://th.dbpedia.org/resource/\u0E40\u0E2D\u0E2D\u0E23\u0E4C\u0E40\u0E19\u0E2A\u0E15\u0E4C_\u0E23\u0E31\u0E17\u0E40\u0E17\u0E2D\u0E23\u0E4C\u0E1F\u0E2D\u0E23\u0E4C\u0E14> .
+@prefix dbpedia-pms:	<http://pms.dbpedia.org/resource/> .
+dbr:Ernest_Rutherford	owl:sameAs	dbpedia-pms:Ernest_Rutherford ,
+		<http://ru.dbpedia.org/resource/\u0420\u0435\u0437\u0435\u0440\u0444\u043E\u0440\u0434,_\u042D\u0440\u043D\u0435\u0441\u0442> .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Ernest_Rutherford	owl:sameAs	dbpedia-fr:Ernest_Rutherford .
+@prefix dbpedia-fy:	<http://fy.dbpedia.org/resource/> .
+dbr:Ernest_Rutherford	owl:sameAs	dbpedia-fy:Ernest_Rutherford .
+@prefix dbpedia-la:	<http://la.dbpedia.org/resource/> .
+dbr:Ernest_Rutherford	owl:sameAs	dbpedia-la:Ernestus_Rutherford .
+@prefix dbpedia-gl:	<http://gl.dbpedia.org/resource/> .
+dbr:Ernest_Rutherford	owl:sameAs	dbpedia-gl:Ernest_Rutherford ,
+		<http://zh.dbpedia.org/resource/\u6B27\u5185\u65AF\u7279\u00B7\u5362\u745F\u798F> .
+@prefix ns28:	<http://su.dbpedia.org/resource/> .
+dbr:Ernest_Rutherford	owl:sameAs	ns28:Ernest_Rutherford .
+@prefix ns29:	<http://tl.dbpedia.org/resource/> .
+dbr:Ernest_Rutherford	owl:sameAs	ns29:Ernest_Rutherford .
+@prefix ns30:	<http://sco.dbpedia.org/resource/> .
+dbr:Ernest_Rutherford	owl:sameAs	ns30:Ernest_Rutherford .
+@prefix dbpedia-io:	<http://io.dbpedia.org/resource/> .
+dbr:Ernest_Rutherford	owl:sameAs	dbpedia-io:Ernest_Rutherford ,
+		<http://pa.dbpedia.org/resource/\u0A05\u0A30\u0A28\u0A38\u0A1F_\u0A30\u0A26\u0A30\u0A2B\u0A3C\u0A4B\u0A30\u0A21> ,
+		<http://ce.dbpedia.org/resource/\u0420\u0435\u0437\u0435\u0440\u0444\u043E\u0440\u0434,_\u042D\u0440\u043D\u0435\u0441\u0442> ,
+		<http://el.dbpedia.org/resource/\u0388\u03C1\u03BD\u03B5\u03C3\u03C4_\u03A1\u03AC\u03B4\u03B5\u03C1\u03C6\u03BF\u03C1\u03BD\u03C4> .
+@prefix dbpedia-lb:	<http://lb.dbpedia.org/resource/> .
+dbr:Ernest_Rutherford	owl:sameAs	dbpedia-lb:Ernest_Rutherford .
+@prefix dbpedia-sq:	<http://sq.dbpedia.org/resource/> .
+dbr:Ernest_Rutherford	owl:sameAs	dbpedia-sq:Ernest_Rutherford ,
+		<http://sa.dbpedia.org/resource/\u0905\u0930\u094D\u0928\u0947\u0938\u094D\u091F_\u0930\u0926\u0930\u092B\u094B\u0930\u094D\u0921> .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:Ernest_Rutherford	owl:sameAs	dbpedia-es:Ernest_Rutherford .
+@prefix dbpedia-ms:	<http://ms.dbpedia.org/resource/> .
+dbr:Ernest_Rutherford	owl:sameAs	dbpedia-ms:Ernest_Rutherford .
+@prefix ns36:	<http://ia.dbpedia.org/resource/> .
+dbr:Ernest_Rutherford	owl:sameAs	ns36:Ernest_Rutherford .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Ernest_Rutherford	owl:sameAs	dbpedia-nl:Ernest_Rutherford .
+@prefix dbpedia-fi:	<http://fi.dbpedia.org/resource/> .
+dbr:Ernest_Rutherford	owl:sameAs	dbpedia-fi:Ernest_Rutherford .
+@prefix dbpedia-sk:	<http://sk.dbpedia.org/resource/> .
+dbr:Ernest_Rutherford	owl:sameAs	dbpedia-sk:Ernest_Rutherford .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Ernest_Rutherford	owl:sameAs	dbpedia-pl:Ernest_Rutherford ,
+		<http://pnb.dbpedia.org/resource/\u0627\u0631\u0646\u0633\u0679_\u0631\u062F\u0631\u0641\u0648\u0631\u0688> .
+@prefix dbpedia-simple:	<http://simple.dbpedia.org/resource/> .
+dbr:Ernest_Rutherford	owl:sameAs	dbpedia-simple:Ernest_Rutherford ,
+		<http://bg.dbpedia.org/resource/\u042A\u0440\u043D\u0435\u0441\u0442_\u0420\u044A\u0434\u044A\u0440\u0444\u043E\u0440\u0434> ,
+		<http://ckb.dbpedia.org/resource/\u0626\u06CE\u0631\u0646\u0633\u062A_\u0695\u06D5\u062F\u06D5\u0631\u0641\u06C6\u0631\u062F> .
+@prefix ns42:	<http://uz.dbpedia.org/resource/> .
+dbr:Ernest_Rutherford	owl:sameAs	ns42:Ernest_Rutherford ,
+		<http://fa.dbpedia.org/resource/\u0627\u0631\u0646\u0633\u062A_\u0631\u0627\u062F\u0631\u0641\u0648\u0631\u062F> .
+@prefix ns43:	<http://ht.dbpedia.org/resource/> .
+dbr:Ernest_Rutherford	owl:sameAs	ns43:Ernest_Rutherford ,
+		<http://am.dbpedia.org/resource/\u12A5\u122D\u1290\u1235\u1275_\u122B\u12D8\u122D\u134E\u122D\u12F5> ,
+		<http://ka.dbpedia.org/resource/\u10D4\u10E0\u10DC\u10D4\u10E1\u10E2_\u10E0\u10D4\u10D6\u10D4\u10E0\u10E4\u10DD\u10E0\u10D3\u10D8> .
+@prefix ns44:	<http://mg.dbpedia.org/resource/> .
+dbr:Ernest_Rutherford	owl:sameAs	ns44:Ernest_Rutherford ,
+		<http://azb.dbpedia.org/resource/\u0627\u0631\u0646\u0633\u062A_\u0631\u0627\u062F\u0631\u0641\u0648\u0631\u062F> .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Ernest_Rutherford	owl:sameAs	dbpedia-pt:Ernest_Rutherford .
+@prefix dbpedia-nn:	<http://nn.dbpedia.org/resource/> .
+dbr:Ernest_Rutherford	owl:sameAs	dbpedia-nn:Ernest_Rutherford .
+@prefix ns47:	<http://jv.dbpedia.org/resource/> .
+dbr:Ernest_Rutherford	owl:sameAs	ns47:Ernest_Rutherford .
+@prefix dbpedia-sl:	<http://sl.dbpedia.org/resource/> .
+dbr:Ernest_Rutherford	owl:sameAs	dbpedia-sl:Ernest_Rutherford ,
+		<http://my.dbpedia.org/resource/\u1021\u102C\u1038\u1014\u1015\u103A\u1005\u103A_\u101B\u1030\u101E\u102C\u1016\u102D\u102F\u1037\u1012\u103A> .
+@prefix ns49:	<http://ast.dbpedia.org/resource/> .
+dbr:Ernest_Rutherford	owl:sameAs	ns49:Ernest_Rutherford ,
+		<http://mk.dbpedia.org/resource/\u0415\u0440\u043D\u0435\u0441\u0442_\u0420\u0430\u0434\u0435\u0440\u0444\u043E\u0440\u0434> ,
+		<http://d-nb.info/gnd/118750488> .
+@prefix dbpedia-ca:	<http://ca.dbpedia.org/resource/> .
+dbr:Ernest_Rutherford	owl:sameAs	dbpedia-ca:Ernest_Rutherford ,
+		<http://new.dbpedia.org/resource/\u0905\u0930\u094D\u0928\u0947\u0938\u094D\u091F_\u0930\u0941\u0925\u0930\u092B\u094B\u0930\u094D\u0921> .
+@prefix ns51:	<http://qu.dbpedia.org/resource/> .
+dbr:Ernest_Rutherford	owl:sameAs	ns51:Ernest_Rutherford ,
+		<http://sr.dbpedia.org/resource/\u0415\u0440\u043D\u0435\u0441\u0442_\u0420\u0430\u0434\u0435\u0440\u0444\u043E\u0440\u0434> ,
+		<http://ba.dbpedia.org/resource/\u042D\u0440\u043D\u0435\u0441\u0442_\u0420\u0435\u0437\u0435\u0440\u0444\u043E\u0440\u0434> ,
+		<http://tt.dbpedia.org/resource/\u042D\u0440\u043D\u0435\u0441\u0442_\u0420\u0435\u0437\u0435\u0440\u0444\u043E\u0440\u0434> .
+@prefix ns52:	<http://lt.dbpedia.org/resource/> .
+dbr:Ernest_Rutherford	owl:sameAs	ns52:Ernest_Rutherford .
+@prefix dbpedia-br:	<http://br.dbpedia.org/resource/> .
+dbr:Ernest_Rutherford	owl:sameAs	dbpedia-br:Ernest_Rutherford ,
+		<http://viaf.org/viaf/66546175> .
+@prefix dbpedia-az:	<http://az.dbpedia.org/resource/> .
+dbr:Ernest_Rutherford	owl:sameAs	dbpedia-az:Ernest_Rezerford ,
+		<http://arz.dbpedia.org/resource/\u0627\u0631\u0646\u0633\u062A_\u0631\u0630\u0631\u0641\u0648\u0631\u062F> .
+@prefix dbpedia-sh:	<http://sh.dbpedia.org/resource/> .
+dbr:Ernest_Rutherford	owl:sameAs	dbpedia-sh:Ernest_Rutherford .
+@prefix dbpedia-yo:	<http://yo.dbpedia.org/resource/> .
+dbr:Ernest_Rutherford	owl:sameAs	dbpedia-yo:Ernest_Rutherford ,
+		<http://be.dbpedia.org/resource/\u042D\u0440\u043D\u044D\u0441\u0442_\u0420\u044D\u0437\u0435\u0440\u0444\u043E\u0440\u0434> .
+@prefix dbpedia-is:	<http://is.dbpedia.org/resource/> .
+dbr:Ernest_Rutherford	owl:sameAs	dbpedia-is:Ernest_Rutherford .
+@prefix ns58:	<http://data.europa.eu/euodp/jrc-names/> .
+dbr:Ernest_Rutherford	owl:sameAs	ns58:Ernest_Rutherford ,
+		<http://ur.dbpedia.org/resource/\u0627\u06CC\u0631\u0646\u0633\u0679_\u0631\u062A\u06BE\u0631\u0641\u0648\u0631\u0688> .
+@prefix ns59:	<http://sw.cyc.com/concept/> .
+dbr:Ernest_Rutherford	owl:sameAs	ns59:Mx4rEd8MGO0zQuao3meNJDUOrg .
+@prefix dbpedia-sv:	<http://sv.dbpedia.org/resource/> .
+dbr:Ernest_Rutherford	owl:sameAs	dbpedia-sv:Ernest_Rutherford ,
+		<http://te.dbpedia.org/resource/\u0C0E\u0C30\u0C4D\u0C28\u0C46\u0C38\u0C4D\u0C1F\u0C4D_\u0C30\u0C42\u0C25\u0C30\u0C4D\u200C\u0C2B\u0C4B\u0C30\u0C4D\u0C21\u0C4D> .
+@prefix dbpedia-sw:	<http://sw.dbpedia.org/resource/> .
+dbr:Ernest_Rutherford	owl:sameAs	dbpedia-sw:Ernest_Rutherford .
+@prefix dbpedia-no:	<http://no.dbpedia.org/resource/> .
+dbr:Ernest_Rutherford	owl:sameAs	dbpedia-no:Ernest_Rutherford ,
+		<http://mn.dbpedia.org/resource/\u042D\u0440\u043D\u0435\u0441\u0442_\u0420\u0435\u0437\u0435\u0440\u0444\u043E\u0440\u0434> ,
+		<http://ky.dbpedia.org/resource/\u042D\u0440\u043D\u0435\u0441\u0442_\u0420\u0435\u0437\u0435\u0440\u0444\u043E\u0440\u0434> .
+@prefix dbpedia-da:	<http://da.dbpedia.org/resource/> .
+dbr:Ernest_Rutherford	owl:sameAs	dbpedia-da:Ernest_Rutherford .
+@prefix dbpedia-ro:	<http://ro.dbpedia.org/resource/> .
+dbr:Ernest_Rutherford	owl:sameAs	dbpedia-ro:Ernest_Rutherford ,
+		<http://he.dbpedia.org/resource/\u05D0\u05E8\u05E0\u05E1\u05D8_\u05E8\u05EA\u05E8\u05E4\u05D5\u05E8\u05D3> ,
+		<http://ja.dbpedia.org/resource/\u30A2\u30FC\u30CD\u30B9\u30C8\u30FB\u30E9\u30B6\u30D5\u30A9\u30FC\u30C9> ,
+		<http://hy.dbpedia.org/resource/\u0537\u057C\u0576\u0565\u057D\u057F_\u054C\u0565\u0566\u0565\u0580\u0586\u0578\u0580\u0564> .
+@prefix dbpedia-cy:	<http://cy.dbpedia.org/resource/> .
+dbr:Ernest_Rutherford	owl:sameAs	dbpedia-cy:Ernest_Rutherford .
+@prefix dbpedia-oc:	<http://oc.dbpedia.org/resource/> .
+dbr:Ernest_Rutherford	owl:sameAs	dbpedia-oc:Ernest_Rutherford .
+@prefix dbpedia-hr:	<http://hr.dbpedia.org/resource/> .
+dbr:Ernest_Rutherford	owl:sameAs	dbpedia-hr:Ernest_Rutherford .
+@prefix dbpedia-eu:	<http://eu.dbpedia.org/resource/> .
+dbr:Ernest_Rutherford	owl:sameAs	dbpedia-eu:Ernest_Rutherford ,
+		<http://tg.dbpedia.org/resource/\u042D\u0440\u043D\u0435\u0441\u0442_\u0420\u0435\u0437\u0435\u0440\u0444\u043E\u0440\u0434> .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Ernest_Rutherford	owl:sameAs	yago-res:Ernest_Rutherford ,
+		<http://ar.dbpedia.org/resource/\u0625\u0631\u0646\u0633\u062A_\u0631\u0630\u0631\u0641\u0648\u0631\u062F> .
+@prefix dbpedia-tr:	<http://tr.dbpedia.org/resource/> .
+dbr:Ernest_Rutherford	owl:sameAs	dbpedia-tr:Ernest_Rutherford .
+@prefix ns71:	<http://bs.dbpedia.org/resource/> .
+dbr:Ernest_Rutherford	owl:sameAs	ns71:Ernest_Rutherford .
+@prefix dbpedia-als:	<http://als.dbpedia.org/resource/> .
+dbr:Ernest_Rutherford	owl:sameAs	dbpedia-als:Ernest_Rutherford ,
+		<http://rdf.freebase.com/ns/m.02m7r> ,
+		<http://uk.dbpedia.org/resource/\u0415\u0440\u043D\u0435\u0441\u0442_\u0420\u0435\u0437\u0435\u0440\u0444\u043E\u0440\u0434> ,
+		<http://kn.dbpedia.org/resource/\u0C85\u0CB0\u0CCD\u0CA8\u0CC6\u0CB8\u0CCD\u0C9F\u0CCD_\u0CB0\u0CC1\u0CA6\u0CB0\u0CCD\u200D\u0CAB\u0CCB\u0CB0\u0CCD\u0CA1\u0CCD> ,
+		<http://yi.dbpedia.org/resource/\u05E2\u05E8\u05E0\u05E2\u05E1\u05D8_\u05E8\u05D0\u05D3\u05E2\u05E8\u05E4\u05D0\u05E8\u05D3> ,
+		wikidata:Q9123 ,
+		<http://mzn.dbpedia.org/resource/\u0627\u0631\u0646\u0633\u062A_\u0631\u0627\u062F\u0631\u0641\u0648\u0631\u062F> .
+@prefix ns73:	<http://lv.dbpedia.org/resource/> .
+dbr:Ernest_Rutherford	owl:sameAs	ns73:Ernests_Rezerfords ,
+		<http://si.dbpedia.org/resource/\u0D85\u0DBB\u0DCA\u0DB1\u0DC3\u0DCA\u0DA7\u0DCA_\u0DBB\u0DAF\u0DBB\u0DCA\u0DC6\u0DBB\u0DCA\u0DA9\u0DCA> ,
+		<https://global.dbpedia.org/id/54Hr6> .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Ernest_Rutherford	owl:sameAs	dbpedia-de:Ernest_Rutherford .
+@prefix dbpedia-et:	<http://et.dbpedia.org/resource/> .
+dbr:Ernest_Rutherford	owl:sameAs	dbpedia-et:Ernest_Rutherford .
+@prefix dbpedia-commons:	<http://commons.dbpedia.org/resource/> .
+dbr:Ernest_Rutherford	owl:sameAs	dbpedia-commons:Ernest_Rutherford ,
+		<http://kk.dbpedia.org/resource/\u042D\u0440\u043D\u0435\u0441\u0442_\u0420\u0435\u0437\u0435\u0440\u0444\u043E\u0440\u0434> .
+@prefix dbpedia-war:	<http://war.dbpedia.org/resource/> .
+dbr:Ernest_Rutherford	owl:sameAs	dbpedia-war:Ernest_Rutherford .
+@prefix dbpedia-cs:	<http://cs.dbpedia.org/resource/> .
+dbr:Ernest_Rutherford	owl:sameAs	dbpedia-cs:Ernest_Rutherford .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Ernest_Rutherford	owl:sameAs	dbpedia-it:Ernest_Rutherford ,
+		<http://ko.dbpedia.org/resource/\uC5B4\uB2C8\uC2A4\uD2B8_\uB7EC\uB354\uD37C\uB4DC> ,
+		<http://ml.dbpedia.org/resource/\u0D0F\u0D23\u0D38\u0D4D\u0D31\u0D4D\u0D31\u0D4D_\u0D31\u0D42\u0D25\u0D7C\u0D2B\u0D4B\u0D7C\u0D21\u0D4D> .
+@prefix dbpedia-ga:	<http://ga.dbpedia.org/resource/> .
+dbr:Ernest_Rutherford	owl:sameAs	dbpedia-ga:Ernest_Rutherford .
+@prefix dbpedia-vi:	<http://vi.dbpedia.org/resource/> .
+dbr:Ernest_Rutherford	owl:sameAs	dbpedia-vi:Ernest_Rutherford .
+@prefix dbpedia-eo:	<http://eo.dbpedia.org/resource/> .
+dbr:Ernest_Rutherford	owl:sameAs	dbpedia-eo:Ernest_Rutherford .
+@prefix dbpedia-vo:	<http://vo.dbpedia.org/resource/> .
+dbr:Ernest_Rutherford	owl:sameAs	dbpedia-vo:Ernest_Rutherford .
+@prefix dbpedia-an:	<http://an.dbpedia.org/resource/> .
+dbr:Ernest_Rutherford	owl:sameAs	dbpedia-an:Ernest_Rutherford ;
+	schema:sameAs	<http://viaf.org/viaf/66546175> ;
+	dbo:abstract	"\uC5B4\uB2C8\uC2A4\uD2B8 \uB7EC\uB354\uD37C\uB4DC \uB0A8\uC791(Ernest Rutherford, 1st Baron Rutherford of Nelson, OM, FRS, 1871\uB144 8\uC6D4 30\uC77C ~ 1937\uB144 10\uC6D4 19\uC77C)\uC740 \uB274\uC9C8\uB79C\uB4DC\uC5D0\uC11C \uD0DC\uC5B4\uB09C \uC601\uAD6D\uC758 \uD575\uBB3C\uB9AC\uD559\uC790\uB85C\uC11C \uD575\uBB3C\uB9AC\uD559\uC758 \uC544\uBC84\uC9C0\uB85C \uBD88\uB9B0\uB2E4. \uBC29\uC0AC\uB2A5 \uBC95\uCE59\uC744 \uC138\uC6E0\uACE0 \uBC29\uC0AC\uB2A5\uC774 \uC6D0\uC790 \uB0B4\uBD80\uC5D0\uC11C \uC77C\uC5B4\uB098\uB294 \uBC18\uC751\uC774\uB77C\uB294 \uC0AC\uC2E4\uC744 \uBC1D\uD614\uC73C\uBA70, \uC790\uC5F0 \uBD95\uAD34 \uD604\uC0C1\uC744 \uC5F0\uAD6C\uD574 \uAE30\uC874 \uBB3C\uC9C8\uAD00\uC5D0 \uB300\uBCC0\uD654\uB97C \uC77C\uC73C\uCF30\uB2E4. \uC54C\uD30C \uC785\uC790 \uC0B0\uB780 \uC2E4\uD5D8\uC73C\uB85C\uC368 \uC6D0\uC790 \uB0B4\uBD80 \uAD6C\uC870\uC5D0 \uC2E0\uAC00\uC124\uC744 \uC81C\uC2DC\uD588\uB2E4 \uD3C9\uAC00\uBC1B\uB294\uB2E4. 1908\uB144 \uB178\uBCA8 \uD654\uD559\uC0C1\uC744 \uBC1B\uC558\uACE0, \uC0AC\uD6C4 \uC6E8\uC2A4\uD2B8\uBBFC\uC2A4\uD130 \uC0AC\uC6D0\uC5D0 \uC548\uC7A5\uB418\uC5C8\uB2E4."@ko ,
+		"Ernest Rutherford, conocido tambi\u00E9n como Lord Rutherford (Reino Unido: /'\u025C\u02D0n\u026Ast 'r\u028C\u00F0\u0259f\u0259d/; , 30 de agosto de 1871-Cambridge, 19 de octubre de 1937), fue un f\u00EDsico y qu\u00EDmico brit\u00E1nico nacido en Nueva Zelanda. Se dedic\u00F3 al estudio de las part\u00EDculas radiactivas y logr\u00F3 clasificarlas en alfa (\u03B1), beta (\u03B2) y gamma (\u03B3). Hall\u00F3 que la radiactividad iba acompa\u00F1ada por una desintegraci\u00F3n de los elementos, lo que le vali\u00F3 para ganar el Premio Nobel de Qu\u00EDmica en 1908. Se le debe un modelo at\u00F3mico, con el que prob\u00F3 la existencia del n\u00FAcleo at\u00F3mico, en el que se re\u00FAne toda la carga positiva y casi toda la masa del \u00E1tomo. Consigui\u00F3 la primera transmutaci\u00F3n artificial con la colaboraci\u00F3n de su disc\u00EDpulo Frederick Soddy. Durante la primera parte de su vida se consagr\u00F3 por completo a las investigaciones, pas\u00F3 la segunda mitad dedicado a la docencia y dirigiendo los Laboratorios Cavendish de Cambridge, en donde se descubri\u00F3 el neutr\u00F3n. Fue maestro de Niels Bohr y Otto Hahn."@es ,
+		"Ernest Rutherford, 1. baron Rutherford z Nelsonu, FRS (30. srpna 1871, , Nov\u00FD Z\u00E9land \u2013 19. \u0159\u00EDjna 1937, Cambridge Spojen\u00E9 kr\u00E1lovstv\u00ED) byl novoz\u00E9landsk\u00FD fyzik. B\u00FDv\u00E1 pova\u017Eov\u00E1n za zakladatele jadern\u00E9 fyziky. Zkoumal radioaktivn\u00ED rozpad chemick\u00FDch prvk\u016F, navrhl koncept polo\u010Dasu rozpadu a z\u00E1\u0159en\u00ED vznikl\u00E1 rozpadem prvk\u016F rozd\u011Blil na \u03B1, \u03B2 a \u03B3. P\u0159i v\u00FDvoji za\u0159\u00EDzen\u00ED, kter\u00E9 by umo\u017E\u0148ovalo detekovat z\u00E1\u0159en\u00ED, zjistil, \u017Ee atom nen\u00ED homogenn\u00ED koule, ale \u017Ee jeho struktura odpov\u00EDd\u00E1 tzv. planet\u00E1rn\u00EDmu modelu. Za sv\u016Fj objev a objeven\u00ED radioaktivity obdr\u017Eel v roce 1908 Nobelovu cenu za chemii, \u201Eza v\u00FDzkum rozpadu prvk\u016F a chemii radioaktivn\u00EDch l\u00E1tek\u201C. V roce 1919 se mu povedlo jako prvn\u00EDmu p\u0159em\u011Bnit jadernou reakc\u00ED prvek na jin\u00FD prvek (dus\u00EDk na kysl\u00EDk), \u010D\u00EDm\u017E jako prvn\u00ED provedl  prvku na jin\u00FD."@cs ,
+		"Ernest Rutherford, 1e Baron Rutherford of Nelson (Brightwater, 30 augustus 1871 \u2013 Cambridge (Verenigd Koninkrijk), 19 oktober 1937) was een Nieuw-Zeelands-Britse natuur- en scheikundige. Hij wordt ook wel de vader van de kernfysica genoemd. Hij pionierde de baantheorie van het atoom door de ontdekking van de verstrooiing van Rutherford."@nl ,
+		"Ernest Rutherford, 1st Baron Rutherford of Nelson,  (30 August 1871 \u2013 19 October 1937) was a New Zealand\u2013born British physicist who came to be known as the father of nuclear physics. Encyclop\u00E6dia Britannica considers him to be the greatest experimentalist since Michael Faraday (1791\u20131867). In early work, Rutherford discovered the concept of radioactive half-life, the radioactive element radon, and differentiated and named alpha and beta radiation. This work was performed at McGill University in Montreal, Quebec, Canada. It is the basis for the Nobel Prize in Chemistry he was awarded in 1908 \"for his investigations into the disintegration of the elements, and the chemistry of radioactive substances\", for which he was the first Canadian and Oceanian Nobel laureate. Rutherford moved in 1907 to the Victoria University of Manchester (today University of Manchester) in the UK, where he and Thomas Royds proved that alpha radiation is helium nuclei. Rutherford performed his most famous work after he became a Nobel laureate. In 1911, although he could not prove that it was positive or negative, he theorized that atoms have their charge concentrated in a very small nucleus, and thereby pioneered the Rutherford model of the atom, through his discovery and interpretation of Rutherford scattering by the gold foil experiment of Hans Geiger and Ernest Marsden. He performed the first artificially induced nuclear reaction in 1917 in experiments where nitrogen nuclei were bombarded with alpha particles. As a result, he discovered the emission of a subatomic particle which, in 1919, he called the \"hydrogen atom\" but, in 1920, he more accurately named the proton. Rutherford became Director of the Cavendish Laboratory at the University of Cambridge in 1919. Under his leadership the neutron was discovered by James Chadwick in 1932 and in the same year the first experiment to split the nucleus in a fully controlled manner was performed by students working under his direction, John Cockcroft and Ernest Walton. After his death in 1937, he was buried in Westminster Abbey near Sir Isaac Newton's tomb. The chemical element rutherfordium (element 104) was named after him in 1997."@en ,
+		"Ernest Rutherford (30 ao\u00FBt 1871 \u00E0 Brightwater, Nouvelle-Z\u00E9lande - 19 octobre 1937 \u00E0 Cambridge, Angleterre) est un physicien et chimiste n\u00E9o-z\u00E9lando-britannique, consid\u00E9r\u00E9 comme le p\u00E8re de la physique nucl\u00E9aire. Il d\u00E9couvrit les rayonnements alpha, les rayonnements b\u00EAta ; il d\u00E9couvrit aussi que la radioactivit\u00E9 s'accompagnait d'une d\u00E9sint\u00E9gration des \u00E9l\u00E9ments chimiques, ce qui lui valut le prix Nobel de chimie en 1908. C'est encore lui qui mit en \u00E9vidence l'existence d'un noyau atomique dans lequel \u00E9taient r\u00E9unies toute la charge positive et presque toute la masse de l'atome. Si, pendant la premi\u00E8re partie de sa vie, il se consacra exclusivement \u00E0 sa recherche, il passa la deuxi\u00E8me moiti\u00E9 de sa vie \u00E0 enseigner et \u00E0 diriger le laboratoire Cavendish \u00E0 Cambridge, o\u00F9 fut d\u00E9couvert le neutron et o\u00F9 vinrent se former les physiciens Niels Bohr et Robert Oppenheimer. Son influence dans ce domaine de la physique qu'il a d\u00E9couvert fut donc particuli\u00E8rement importante. Il interpr\u00E9ta en 1911 la vision du mod\u00E8le de Thomson ainsi que son exp\u00E9rience de la feuille d'or ce qui le conduisit \u00E0 proposer son propre mod\u00E8le."@fr ,
+		"\u0415\u0440\u043D\u0435\u0301\u0441\u0442 \u0420\u0435\u0301\u0437\u0435\u0440\u0444\u043E\u0440\u0434 (\u0430\u043D\u0433\u043B. Ernest Rutherford; 30 \u0441\u0435\u0440\u043F\u043D\u044F 1871, , \u041D\u043E\u0432\u0430 \u0417\u0435\u043B\u0430\u043D\u0434\u0456\u044F, \u0411\u0440\u0438\u0442\u0430\u043D\u0441\u044C\u043A\u0430 \u0456\u043C\u043F\u0435\u0440\u0456\u044F \u2014 19 \u0436\u043E\u0432\u0442\u043D\u044F 1937, \u041A\u0435\u043C\u0431\u0440\u0438\u0434\u0436, \u0410\u043D\u0433\u043B\u0456\u044F, \u0411\u0440\u0438\u0442\u0430\u043D\u0441\u044C\u043A\u0430 \u0456\u043C\u043F\u0435\u0440\u0456\u044F) \u2014 \u0431\u0440\u0438\u0442\u0430\u043D\u0441\u044C\u043A\u0438\u0439 \u0444\u0456\u0437\u0438\u043A, \u043B\u0430\u0443\u0440\u0435\u0430\u0442 \u041D\u043E\u0431\u0435\u043B\u0456\u0432\u0441\u044C\u043A\u043E\u0457 \u043F\u0440\u0435\u043C\u0456\u0457 \u0437 \u0445\u0456\u043C\u0456\u0457 (1908). \u0420\u0435\u0437\u0435\u0440\u0444\u043E\u0440\u0434 \u0432\u0456\u0434\u043E\u043C\u0438\u0439, \u043F\u0435\u0440\u0435\u0434\u0443\u0441\u0456\u043C, \u0435\u043A\u0441\u043F\u0435\u0440\u0438\u043C\u0435\u043D\u0442\u0430\u043C\u0438 \u0437 \u0440\u043E\u0437\u0441\u0456\u044E\u0432\u0430\u043D\u043D\u044F \u0430\u043B\u044C\u0444\u0430-\u0447\u0430\u0441\u0442\u0438\u043D\u043E\u043A (\u0420\u0435\u0437\u0435\u0440\u0444\u043E\u0440\u0434\u0456\u0432\u0441\u044C\u043A\u0435 \u0440\u043E\u0437\u0441\u0456\u044E\u0432\u0430\u043D\u043D\u044F), \u0437\u0430\u0432\u0434\u044F\u043A\u0438 \u044F\u043A\u043E\u043C\u0443 \u0432\u0456\u043D \u0432\u0441\u0442\u0430\u043D\u043E\u0432\u0438\u0432 \u0441\u0442\u0440\u0443\u043A\u0442\u0443\u0440\u0443 \u0430\u0442\u043E\u043C\u0430, \u044F\u043A \u0441\u0438\u0441\u0442\u0435\u043C\u0438, \u0449\u043E \u0441\u043A\u043B\u0430\u0434\u0430\u0454\u0442\u044C\u0441\u044F \u0456\u0437 \u043C\u0430\u043B\u043E\u0433\u043E \u0437\u0430 \u0440\u043E\u0437\u043C\u0456\u0440\u0430\u043C\u0438 \u043F\u043E\u0437\u0438\u0442\u0438\u0432\u043D\u043E \u0437\u0430\u0440\u044F\u0434\u0436\u0435\u043D\u043E\u0433\u043E \u044F\u0434\u0440\u0430 \u0439 \u0435\u043B\u0435\u043A\u0442\u0440\u043E\u043D\u0456\u0432."@uk ,
+		"Ernest Rutherford, I barone Rutherford di Nelson (, 30 agosto 1871 \u2013 Cambridge, 19 ottobre 1937), \u00E8 stato un chimico e fisico neozelandese naturalizzato britannico, considerato il padre della fisica nucleare. Fu il precursore della teoria orbitale dell'atomo, avendo scoperto lo scattering Rutherford nell'esperimento della lamina d'oro sottile.Vinse il Premio Nobel per la chimica nel 1908. In ricordo del suo importante contributo alla chimica, l'elemento chimico Rutherfordio prende il suo nome."@it ,
+		"\u521D\u4EE3\u30CD\u30EB\u30BD\u30F3\u306E\u30E9\u30B6\u30D5\u30A9\u30FC\u30C9\u7537\u7235\u30A2\u30FC\u30CD\u30B9\u30C8\u30FB\u30E9\u30B6\u30D5\u30A9\u30FC\u30C9\uFF08\u82F1: Ernest Rutherford, 1st Baron Rutherford of Nelson, OM, FRS, 1871\u5E748\u670830\u65E5 - 1937\u5E7410\u670819\u65E5\uFF09\u306F\u3001\u30CB\u30E5\u30FC\u30B8\u30FC\u30E9\u30F3\u30C9\u51FA\u8EAB\u3001\u30A4\u30AE\u30EA\u30B9\u3067\u6D3B\u8E8D\u3057\u305F\u7269\u7406\u5B66\u8005\u3001\u5316\u5B66\u8005\u3002 \u30DE\u30A4\u30B1\u30EB\u30FB\u30D5\u30A1\u30E9\u30C7\u30FC\u3068\u4E26\u3073\u79F0\u3055\u308C\u308B\u5B9F\u9A13\u7269\u7406\u5B66\u306E\u5927\u5BB6\u3067\u3042\u308B\u3002\u03B1\u7DDA\u3068\u03B2\u7DDA\u306E\u767A\u898B\u3001\u30E9\u30B6\u30D5\u30A9\u30FC\u30C9\u6563\u4E71\u306B\u3088\u308B\u539F\u5B50\u6838\u306E\u767A\u898B\u3001\u539F\u5B50\u6838\u306E\u4EBA\u5DE5\u5909\u63DB\u306A\u3069\u306E\u696D\u7E3E\u306B\u3088\u308A\u300C\u539F\u5B50\u7269\u7406\u5B66\u306E\u7236\u300D\u3068\u547C\u3070\u308C\u308B\u3002 1908\u5E74\u306B\u30CE\u30FC\u30D9\u30EB\u5316\u5B66\u8CDE\u3092\u53D7\u8CDE\u3002\u30E9\u30B6\u30D5\u30A9\u30FC\u30C9\u6307\u5C0E\u306E\u4E0B\u3001\u30C1\u30E3\u30C9\u30A6\u30A3\u30C3\u30AF\u304C\u4E2D\u6027\u5B50\u3092\u767A\u898B\u3001\u30B3\u30C3\u30AF\u30AF\u30ED\u30D5\u30C8\u3068\u30A6\u30A9\u30EB\u30C8\u30F3\u304C\u52A0\u901F\u5668\u3092\u4F7F\u3063\u305F\u5143\u7D20\u5909\u63DB\u306E\u7814\u7A76\u3001\u30A8\u30C9\u30EF\u30FC\u30C9\u30FB\u30A2\u30C3\u30D7\u30EB\u30C8\u30F3\u304C\u96FB\u96E2\u5C64\u306E\u7814\u7A76\u3067\u30CE\u30FC\u30D9\u30EB\u8CDE\u3092\u53D7\u8CDE\u3057\u3066\u3044\u308B\u3002\u5F8C\u306B\u30E9\u30B6\u30DB\u30FC\u30B8\u30A6\u30E0\u3068\u5143\u7D20\u540D\u306B\u3082\u5F7C\u306F\u540D\u3092\u6B8B\u3057\u3066\u3044\u308B\u3002"@ja ,
+		"Fisic\u00ED a rugadh gar do Nelson na Nua-Sh\u00E9alainne, ceannr\u00F3da\u00ED i staid\u00E9ar ar an bhfisic fhon\u00FAicl\u00E9ach ab ea Ernest Rutherford (30 L\u00FAnasa 1871 \u2013 19 Deireadh F\u00F3mhair 1937). Chuir s\u00E9 go m\u00F3r le nua-thuiscint ar strucht\u00FAr an adaimh. I 1903, le Frederick Soddy, thairg s\u00E9 go dtarla\u00EDonn radaighn\u00EDomha\u00EDocht de bharr d\u00EDscaoileadh adamh. Bhuaigh s\u00E9 Duais Nobel na Ceimice i 1908 as a shaothar ar radaighn\u00EDomha\u00EDocht. Fuair s\u00E9 b\u00E1s i gCambridge, Sasana."@ga ,
+		"\u039F \u0388\u03C1\u03BD\u03B5\u03C3\u03C4 \u03A1\u03AC\u03B4\u03B5\u03C1\u03C6\u03BF\u03C1\u03BD\u03C4, 1\u03BF\u03C2 \u0392\u03B1\u03C1\u03CE\u03BD\u03BF\u03C2 \u03A1\u03AC\u03B4\u03B5\u03C1\u03C6\u03BF\u03C1\u03BD\u03C4 \u03C4\u03BF\u03C5 \u039D\u03AD\u03BB\u03C3\u03BF\u03BD \u039C\u03AD\u03BB\u03BF\u03C2 \u03C4\u03BF\u03C5 \u03A4\u03AC\u03B3\u03BC\u03B1\u03C4\u03BF\u03C2 \u03C4\u03B7\u03C2 \u0391\u03BE\u03AF\u03B1\u03C2, \u039C\u03AD\u03BB\u03BF\u03C2 \u03C4\u03B7\u03C2 \u0392\u03B1\u03C3\u03B9\u03BB\u03B9\u03BA\u03AE\u03C2 \u0395\u03C4\u03B1\u03B9\u03C1\u03B5\u03AF\u03B1\u03C2 (\u03C0\u03AE\u03C1\u03B5 \u03B1\u03C1\u03B3\u03CC\u03C4\u03B5\u03C1\u03B1 \u03C4\u03BF\u03BD \u03C4\u03B9\u03BC\u03B7\u03C4\u03B9\u03BA\u03CC \u03C4\u03AF\u03C4\u03BB\u03BF \u0392\u03B1\u03C1\u03CE\u03BD\u03BF\u03C2 \u03A1\u03AC\u03B4\u03B5\u03C1\u03C6\u03BF\u03C1\u03BD\u03C4 \u03C4\u03BF\u03C5 \u039D\u03AD\u03BB\u03C3\u03BF\u03BD) \u03AE\u03C4\u03B1\u03BD \u039D\u03B5\u03BF\u03B6\u03B7\u03BB\u03B1\u03BD\u03B4\u03CC\u03C2 \u03C6\u03C5\u03C3\u03B9\u03BA\u03CC\u03C2 \u03BA\u03B1\u03B9 \u03C7\u03B7\u03BC\u03B9\u03BA\u03CC\u03C2. \u0393\u03B5\u03BD\u03BD\u03AE\u03B8\u03B7\u03BA\u03B5 \u03C3\u03C4\u03B9\u03C2 30 \u0391\u03C5\u03B3\u03BF\u03CD\u03C3\u03C4\u03BF\u03C5 \u03C4\u03BF\u03C5 1871 \u03BA\u03B1\u03B9 \u03C0\u03AD\u03B8\u03B1\u03BD\u03B5 \u03C3\u03C4\u03B9\u03C2 19 \u039F\u03BA\u03C4\u03C9\u03B2\u03C1\u03AF\u03BF\u03C5 \u03C4\u03BF\u03C5 1937. \u039F \u03A1\u03AC\u03B4\u03B5\u03C1\u03C6\u03BF\u03C1\u03BD\u03C4 \u03B1\u03BD\u03B1\u03BA\u03AC\u03BB\u03C5\u03C8\u03B5 \u03CC\u03C4\u03B9 \u03C4\u03BF \u03AC\u03C4\u03BF\u03BC\u03BF \u03AD\u03C7\u03B5\u03B9 \u03C3\u03C5\u03B3\u03BA\u03B5\u03BD\u03C4\u03C1\u03C9\u03BC\u03AD\u03BD\u03BF \u03C4\u03BF \u03B8\u03B5\u03C4\u03B9\u03BA\u03CC \u03C6\u03BF\u03C1\u03C4\u03AF\u03BF \u03C3\u03C4\u03BF \u03BA\u03AD\u03BD\u03C4\u03C1\u03BF \u03C4\u03BF\u03C5 \u03BA\u03B1\u03B9 \u03C4\u03BF \u03B1\u03C1\u03BD\u03B7\u03C4\u03B9\u03BA\u03CC \u03C0\u03B5\u03C1\u03B9\u03C6\u03B5\u03C1\u03B5\u03B9\u03B1\u03BA\u03AC \u03BA\u03B1\u03B9 \u03B4\u03B7\u03BC\u03B9\u03BF\u03CD\u03C1\u03B3\u03B7\u03C3\u03B5 \u03C4\u03BF \u03C0\u03BB\u03B1\u03BD\u03B7\u03C4\u03B9\u03BA\u03CC \u03BC\u03BF\u03BD\u03C4\u03AD\u03BB\u03BF \u03C4\u03BF\u03C5 \u03B1\u03C4\u03CC\u03BC\u03BF\u03C5, \u03C0\u03BF\u03C5 \u03B4\u03B9\u03B1\u03B4\u03AD\u03C7\u03C4\u03B7\u03BA\u03B5 \u03C4\u03BF \u00AB\u03BC\u03BF\u03BD\u03C4\u03AD\u03BB\u03BF \u03C4\u03BF\u03C5 \u03C3\u03C4\u03B1\u03C6\u03B9\u03B4\u03CC\u03C8\u03C9\u03BC\u03BF\u03C5\u00BB \u03C4\u03BF\u03C5 \u03A4\u03CC\u03BC\u03C3\u03BF\u03BD. \u03A4\u03BF \u03BC\u03BF\u03BD\u03C4\u03AD\u03BB\u03BF \u03C4\u03BF\u03C5 \u03A1\u03AC\u03B4\u03B5\u03C1\u03C6\u03BF\u03C1\u03BD\u03C4 \u03C4\u03C1\u03BF\u03C0\u03BF\u03C0\u03BF\u03B9\u03AE\u03B8\u03B7\u03BA\u03B5 \u03B1\u03C1\u03B3\u03CC\u03C4\u03B5\u03C1\u03B1 \u03B1\u03C0\u03CC \u03C4\u03BF\u03BD \u039D\u03B9\u03BB\u03C2 \u039C\u03C0\u03BF\u03C1 (Bohr), \u03C0\u03BF\u03C5 \u03B4\u03B7\u03BC\u03B9\u03BF\u03CD\u03C1\u03B3\u03B7\u03C3\u03B5 \u03C4\u03BF \u03C4\u03C1\u03BF\u03C7\u03B9\u03B1\u03BA\u03CC \u03BC\u03BF\u03BD\u03C4\u03AD\u03BB\u03BF \u03C4\u03BF\u03C5 \u03B1\u03C4\u03CC\u03BC\u03BF\u03C5. \u03A0\u03AE\u03C1\u03B5 \u03C4\u03BF \u03B2\u03C1\u03B1\u03B2\u03B5\u03AF\u03BF \u039D\u03BF\u03BC\u03C0\u03AD\u03BB \u03A7\u03B7\u03BC\u03B5\u03AF\u03B1\u03C2 \u03C4\u03BF 1908 \u03B3\u03B9\u03B1 \u03C4\u03B7\u03BD \u03B5\u03C1\u03B3\u03B1\u03C3\u03AF\u03B1 \u03C4\u03BF\u03C5 \u03C3\u03C7\u03B5\u03C4\u03B9\u03BA\u03AC \u03BC\u03B5 \u03C4\u03B7\u03BD \u03B4\u03BF\u03BC\u03AE \u03C4\u03BF\u03C5 \u03B1\u03C4\u03CC\u03BC\u03BF\u03C5 \u03BA\u03B1\u03B9 \u03B7\u03B3\u03AE\u03B8\u03B7\u03BA\u03B5 \u03C4\u03B7\u03C2 \u03C0\u03C1\u03CE\u03C4\u03B7\u03C2 \u03C0\u03C1\u03BF\u03C3\u03C0\u03AC\u03B8\u03B5\u03B9\u03B1\u03C2 \u03B4\u03B9\u03AC\u03C3\u03C0\u03B1\u03C3\u03B7\u03C2 \u03C4\u03BF\u03C5 \u03B1\u03C4\u03CC\u03BC\u03BF\u03C5 \u03C4\u03BF 1918."@el ,
+		"\u0625\u0631\u0646\u0633\u062A \u0631\u0630\u0631\u0641\u0648\u0631\u062F (30 \u0623\u063A\u0633\u0637\u0633 1871 - 19 \u0623\u0643\u062A\u0648\u0628\u0631 1937) \u0647\u0648 \u0639\u0627\u0644\u0645 \u0641\u064A\u0632\u064A\u0627\u0621 \u0628\u0631\u064A\u0637\u0627\u0646\u064A \u0645\u0648\u0644\u0648\u062F \u0641\u064A \u0646\u064A\u0648\u0632\u064A\u0644\u0646\u062F\u0627 \u0648\u0627\u0644\u0630\u064A \u064A\u0639\u0631\u0641 \u0628\u0640\"\u0623\u0628 \u0627\u0644\u0641\u064A\u0632\u064A\u0627\u0621 \u0627\u0644\u0646\u0648\u0648\u064A\u0629\" . \u062A\u0635\u0646\u0641\u0647 \u0627\u0644\u0645\u0648\u0633\u0648\u0639\u0629 \u0627\u0644\u0628\u0631\u064A\u0637\u0627\u0646\u064A\u0629 \u0643\u0623\u0641\u0636\u0644 \u0627\u0644\u0645\u062C\u0631\u0628\u064A\u0646 \u0645\u0646\u0630 \u0645\u0627\u064A\u0643\u0644 \u0641\u0627\u0631\u0627\u062F\u0627\u064A. \u0627\u0643\u062A\u0634\u0641 \u0641\u064A \u0623\u062D\u062F \u0623\u0639\u0645\u0627\u0644\u0647 \u0627\u0644\u0645\u0628\u0643\u0631\u0629 \u0627\u0644\u0639\u0645\u0631 \u0627\u0644\u0645\u0646\u0635\u0641 \u0644\u0644\u0639\u0646\u0627\u0635\u0631 \u0627\u0644\u0645\u0634\u0639\u0629\u060C \u0648\u0623\u062B\u0628\u062A \u0623\u0646 \u0627\u0644\u0646\u0634\u0627\u0637 \u0627\u0644\u0625\u0634\u0639\u0627\u0639\u064A \u064A\u0634\u062A\u0645\u0644 \u0639\u0644\u0649 \u062A\u062D\u0648\u0644 \u0627\u0644\u0639\u0646\u0635\u0631 \u0627\u0644\u0643\u064A\u0645\u064A\u0627\u0626\u064A \u0625\u0644\u0649 \u0639\u0646\u0635\u0631 \u0622\u062E\u0631\u060C \u0648\u0641\u0631\u0642 \u0623\u064A\u0636\u0627\u064B \u0648\u0633\u0645\u0649 \u0623\u0646\u0648\u0627\u0639 \u0627\u0644\u0625\u0634\u0639\u0627\u0639 \u0625\u0644\u0649 \u0623\u0644\u0641\u0627 \u0648\u0628\u064A\u062A\u0627. \u0643\u0644 \u0647\u0630\u0647 \u0627\u0644\u0623\u0639\u0645\u0627\u0644 \u062A\u0645\u062A \u0641\u064A \u062C\u0627\u0645\u0639\u0629 \u0645\u0627\u0643 \u062C\u064A\u0644 \u0628\u0643\u0646\u062F\u0627. \u0645\u0624\u062F\u064A\u0629 \u0644\u062D\u0635\u0648\u0644\u0647 \u0639\u0644\u0649 \u062C\u0627\u0626\u0632\u0629 \u0646\u0648\u0628\u0644 \u0644\u0644\u0643\u064A\u0645\u064A\u0627\u0621 \u0639\u0627\u0645 1908\u060C \u0643\u0645\u0627 \u0627\u0643\u062A\u0634\u0641 \u0646\u0648\u0627\u0629 \u0627\u0644\u0630\u0631\u0629 \u0648\u0627\u0642\u062A\u0631\u062D\u060C\u0633\u0646\u06291911\u060C\u0646\u0645\u0648\u0630\u062C\u0627 \u064A\u0634\u0628\u0647 \u0627\u0644\u0646\u0638\u0627\u0645 \u0627\u0644\u0634\u0645\u0633\u064A\u060C\u062D\u064A\u062B \u062A\u0634\u063A\u0644 \u0627\u0644\u0646\u0648\u0627\u0629 \u0627\u0644\u0645\u0631\u0643\u0632 \u0623\u0645\u0627 \u0627\u0644\u0625\u0644\u0643\u062A\u0631\u0648\u0646\u0627\u062A \u0641\u062A\u062F\u0648\u0631 \u062D\u0648\u0644\u0647\u0627 \u0641\u064A \u0645\u062F\u0627\u0631\u0627\u062A \u062F\u0627\u0626\u0631\u064A\u0629."@ar ,
+		"Ernest Rutherford, 1. Baron Rutherford of Nelson (* 30. August 1871 in Spring Grove bei Nelson, Neuseeland; \u2020 19. Oktober 1937 in Cambridge, Vereinigtes K\u00F6nigreich) war ein neuseel\u00E4ndischer Physiker, der 1908 den Nobelpreis f\u00FCr Chemie erhielt. Rutherford gilt als einer der bedeutendsten Experimentalphysiker. 1897 erkannte Rutherford, dass die ionisierende Strahlung des Urans aus mehreren Teilchenarten besteht. 1902 stellte er die Hypothese auf, dass chemische Elemente durch radioaktiven Zerfall in Elemente mit niedrigerer Ordnungszahl \u00FCbergehen. Er teilte 1903 die Radioaktivit\u00E4t in Alphastrahlung, Betastrahlung sowie Gammastrahlung nach der positiven, negativen oder neutralen Ablenkung der Strahlenteilchen in einem Magnetfeld auf und f\u00FChrte den Begriff der Halbwertszeit ein. Diese Arbeit wurde 1908 mit dem Nobelpreis f\u00FCr Chemie ausgezeichnet. Sein bekanntester Beitrag zur Atomphysik ist das Rutherfordsche Atommodell, das er 1911 aus seinen Streuversuchen von Alphateilchen an Goldfolie ableitete. Rutherford widerlegte das Atommodell von Thomson, der noch von einer gleichm\u00E4\u00DFigen Masseverteilung ausgegangen war. Rutherford wies erstmals 1917 experimentell nach, dass durch Bestrahlung mit Alphateilchen ein Atomkern (in seinem Falle Stickstoff) in einen anderen (in seinem Falle in das n\u00E4chstschwerere Element Sauerstoff) umgewandelt werden kann. Bei diesen Experimenten entdeckte er das Proton. Unter seiner Anleitung \u201Ezertr\u00FCmmerten\u201C John Cockcroft und Ernest Walton mit k\u00FCnstlich beschleunigten Teilchen einen Atomkern; mit Protonen beschossenes Lithium wandelte sich um in zwei Alphateilchen, also Helium-Kerne. Einem weiteren Wissenschaftler in Cambridge, James Chadwick, gelang es 1932, das Neutron experimentell nachzuweisen, welches Rutherford bereits Jahre vorher theoretisch postuliert hatte."@de ,
+		"Ernest Rutherford, Nelsongo lehenengo baroia (, Tasman eskualdea, Zeelanda Berria, 1871ko abuztuaren 30a - Cambridge, Ingalaterra, 1937ko urriaren 19a) fisika nuklearraren aita izan zen. Alfa eta beta partikulak azaltzeaz gain, erradiazioak elementuen desintegratzea zekartzala ere azaldu zuen, eta horregatik 1908an kimikako Nobel saria eman zioten. Atomoen  aitzindaria izan zen urre xafla saiakuntzan gertatutako Rutherford sakabanaketan oinarrituta. Rutherfordek atomoaren inguruan egindako ikerketa eta aurkikuntzak Darwinek eboluzio teorian, Newtonek mekanikan, Faradayk elektrizitatean edo Einsteinek erlatibitatean egindakoen parekoak dira."@eu ,
+		"Ernest Rutherford, fr\u00E5n 1931 Baron Rutherford of Nelson (Lord Rutherford), f\u00F6dd 30 augusti 1871 i Brightwater n\u00E4ra Nelson, Nya Zeeland, d\u00F6d 19 oktober 1937 i Cambridge, Cambridgeshire, var en nyzeel\u00E4ndsk-brittisk fysiker. Rutherford har kallats atomfysikens fader efter att ha varit en f\u00F6rgrundsgestalt i kartl\u00E4ggningen av radioaktivitet och atomers struktur. 1908 tilldelades han Nobelpriset i kemi f\u00F6r sina unders\u00F6kningar av radioaktivt s\u00F6nderfall och de radioaktiva \u00E4mnenas kemi."@sv ,
+		"Ernest Rutherford (naski\u011Dis la 30-an de a\u016Dgusto 1871, en Nelson, mortis la 19-an de oktobro 1937, en Kembri\u011Do) estis angla fizikisto. En Novzelando, li studis fizikon kaj matematikon. En la jaro 1895, li voja\u011Dis al Britio, por da\u016Drigi siajn studojn en Kembri\u011Do. Ekde 1898, li okupis profesoran postenon en Montrealo (Kanado), kaj ekde 1907 li agadis en Manchester (Britio). Kulmino de lia kariero estis la gajno de la Premio Nobel de Kemio en 1908. Ekde 1919, li gvidis la laboratorion Cavendish en Kembri\u011Do. En la jaro 1931 li gajnis la nobeltitolon Lord Rutherford of Nelson. La plej fama scienca merito de Ernest Rutherford estas lia kontribuo al la la\u016D li nomata , la\u016D kiu malgranda centra parto koncentras \u015Dargon \u0109irka\u016Ditan de nubo da elektronoj . Pro siaj esploroj pri radioaktiveco li nuntempe estas rigardata kiel unu el la fondintoj de la nuklea fiziko."@eo ,
+		"Ernest Rutherford, 1. Baron Rutherford of Nelson  (ur. 30 sierpnia 1871 w Brightwater, zm. 19 pa\u017Adziernika 1937 w Cambridge) \u2013 brytyjski fizyk urodzony w Nowej Zelandii, kt\u00F3ry jako pierwszy potwierdzi\u0142 istnienie j\u0105dra atomowego. W roku 1908 otrzyma\u0142 Nagrod\u0119 Nobla w dziedzinie chemii."@pl ,
+		"Rutherford \u00E9 redirecionado para esta p\u00E1gina. Se procura outros significados de Rutherford, consulte Rutherford (desambigua\u00E7\u00E3o). Ernest Rutherford, o 1\u00BA Bar\u00E3o Rutherford de Nelson, OM, PC, PRS (Brightwater, Nova Zel\u00E2ndia, 30 de agosto de 1871 \u2014 Cambridge, 19 de outubro de 1937), foi um f\u00EDsico e qu\u00EDmico neozeland\u00EAs naturalizado brit\u00E2nico, que se tornou conhecido como o pai da f\u00EDsica nuclear. Em um trabalho no come\u00E7o da carreira, descobriu o conceito de meia-vida radioativa, provou que a radioatividade causa a transmuta\u00E7\u00E3o de um elemento qu\u00EDmico em outro, e tamb\u00E9m distinguiu e nomeou as radia\u00E7\u00F5es alfa e beta. Foi premiado com o Nobel de Qu\u00EDmica em 1908 \"por suas investiga\u00E7\u00F5es sobre a desintegra\u00E7\u00E3o dos elementos e a qu\u00EDmica das subst\u00E2ncias radioativas\". Rutherford realizou sua obra mais famosa ap\u00F3s ter recebido esse pr\u00EAmio. Em 1911, ele defendeu que os \u00E1tomos t\u00EAm sua carga positiva concentrada em um pequeno n\u00FAcleo, e, desse modo, criou o modelo at\u00F4mico de Rutherford, ou modelo planet\u00E1rio do \u00E1tomo, atrav\u00E9s de sua descoberta e interpreta\u00E7\u00E3o da dispers\u00E3o de Rutherford em seu experimento da folha de ouro. A ele \u00E9 amplamente creditada a primeira divis\u00E3o do \u00E1tomo, em 1917, liderando a primeira experi\u00EAncia de \"dividir o n\u00FAcleo\" de uma forma controlada por dois alunos sob sua dire\u00E7\u00E3o, John Cockcroft e Ernest Walton. Dedicada \u00E0 sua mem\u00F3ria, a Medalha e Pr\u00EAmio Rutherford foi institu\u00EDda pelo Conselho da Sociedade de F\u00EDsica em 1939. A primeira palestra ocorreu em 1942. A palestra foi convertida em uma medalha e pr\u00EAmio em 1965, sendo a primeira Medalha e Pr\u00EAmio Rutherford concedida no ano seguinte."@pt ,
+		"Ernest Rutherford, 1r Bar\u00F3 Rutherford Nelson OM, FRS (, Nova Zelanda, Imperi Brit\u00E0nic, 1871 - Cambridge, Anglaterra, Regne Unit, 1937) fou un f\u00EDsic, qu\u00EDmic i professor universitari brit\u00E0nic que fou guardonat amb el Premi Nobel de Qu\u00EDmica de l'any 1908. Considerat el pare de la f\u00EDsica nuclear, va descobrir el concepte de per\u00EDode de semidesintegraci\u00F3, va diferenciar les radiacions alfa i beta i que la radioactivitat anava acompanyada d'una desintegraci\u00F3 que feia que un element qu\u00EDmic esdevingu\u00E9s un altre de diferent, el que es coneix com a transmutaci\u00F3. Aquests descobriments, fets a la Universitat McGill de Mont-real (Quebec), s\u00F3n els que servirien per atorgar-li el Premi Nobel. Rutherford va fer els descobriments m\u00E9s famosos despr\u00E9s de traslladar-se a la  al Regne Unit el 1907 i quan ja havia estat guardonat amb el premi Nobel. El 1911, va teoritzar l'exist\u00E8ncia del nucli at\u00F2mic, on es concentraria la c\u00E0rrega positiva de l'\u00E0tom, i va formular el seu model at\u00F2mic, al qual va arribar en explicar el fenomen de la dispersi\u00F3 de Rutherford descobert per Hans Geiger i Ernest Marsden el 1909 sota la direcci\u00F3 de Rutherford durant el conegut experiment de la l\u00E0mina d'or. El 1917 va dur a terme un experiment, publicitat el 1919, que \u00E9s considerat com la primera reacci\u00F3 nuclear provocada artificialment en bombardejar nitrogen amb part\u00EDcules alfa, trencant els \u00E0toms de nitrogen i produint l'emissi\u00F3 d'un nucli d'hidrogen (un prot\u00F3), Rutherford va concloure que els nuclis d'hidrogen eren presents dins dels nuclis dels altres elements. M\u00E9s tard anomenaria prot\u00F3 a aquesta part\u00EDcula elemental. Aix\u00F2 el va portar a fer el primer experiment de dividir un nucli at\u00F2mic d'una manera totalment controlada, que va ser realitzat el 1932 per dos dels seus estudiants, John Cockcroft i Ernest Walton, treballant sota la seva direcci\u00F3. Si b\u00E9 durant la primera part de la seva vida es va consagrar per complet a les seves investigacions, va passar la segona meitat dedicat a la doc\u00E8ncia i dirigint el Laboratori Cavendish de la Universitat de Cambridge, en el qual es va descobrir el neutr\u00F3, i en el qual es van formar Niels Bohr i Robert Oppenheimer, entre d'altres. Despr\u00E9s de la seva mort, el 1937, va rebre l'honor de ser enterrat a la nau de l'Abadia de Westminster, on hi ha grans cient\u00EDfics del Regne Unit com Isaac Newton, Charles Darwin o William Thomson."@ca ,
+		"\u042D\u0440\u043D\u0435\u0301\u0441\u0442 \u0420\u0435\u0437\u0435\u0440\u0444\u043E\u0301\u0440\u0434; 1-\u0439 \u0431\u0430\u0440\u043E\u043D \u0420\u0435\u0437\u0435\u0440\u0444\u043E\u0440\u0434 \u041D\u0435\u043B\u044C\u0441\u043E\u043D\u0441\u043A\u0438\u0439 (\u0430\u043D\u0433\u043B. Ernest Rutherford; 30 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 1871, \u0421\u043F\u0440\u0438\u043D\u0433-\u0413\u0440\u0443\u0432, \u041D\u043E\u0432\u0430\u044F \u0417\u0435\u043B\u0430\u043D\u0434\u0438\u044F \u2014 19 \u043E\u043A\u0442\u044F\u0431\u0440\u044F 1937, \u041A\u0435\u043C\u0431\u0440\u0438\u0434\u0436) \u2014 \u0431\u0440\u0438\u0442\u0430\u043D\u0441\u043A\u0438\u0439 \u0444\u0438\u0437\u0438\u043A \u043D\u043E\u0432\u043E\u0437\u0435\u043B\u0430\u043D\u0434\u0441\u043A\u043E\u0433\u043E \u043F\u0440\u043E\u0438\u0441\u0445\u043E\u0436\u0434\u0435\u043D\u0438\u044F. \u0418\u0437\u0432\u0435\u0441\u0442\u0435\u043D \u043A\u0430\u043A \u00AB\u043E\u0442\u0435\u0446\u00BB \u044F\u0434\u0435\u0440\u043D\u043E\u0439 \u0444\u0438\u0437\u0438\u043A\u0438. \u041B\u0430\u0443\u0440\u0435\u0430\u0442 \u041D\u043E\u0431\u0435\u043B\u0435\u0432\u0441\u043A\u043E\u0439 \u043F\u0440\u0435\u043C\u0438\u0438 \u043F\u043E \u0445\u0438\u043C\u0438\u0438 1908 \u0433\u043E\u0434\u0430. \u0412 1911 \u0433\u043E\u0434\u0443 \u0441\u0432\u043E\u0438\u043C \u0437\u043D\u0430\u043C\u0435\u043D\u0438\u0442\u044B\u043C \u043E\u043F\u044B\u0442\u043E\u043C \u0440\u0430\u0441\u0441\u0435\u044F\u043D\u0438\u044F \u0430\u043B\u044C\u0444\u0430-\u0447\u0430\u0441\u0442\u0438\u0446 \u0434\u043E\u043A\u0430\u0437\u0430\u043B \u0441\u0443\u0449\u0435\u0441\u0442\u0432\u043E\u0432\u0430\u043D\u0438\u0435 \u0432 \u0430\u0442\u043E\u043C\u0430\u0445 \u043F\u043E\u043B\u043E\u0436\u0438\u0442\u0435\u043B\u044C\u043D\u043E \u0437\u0430\u0440\u044F\u0436\u0435\u043D\u043D\u043E\u0433\u043E \u044F\u0434\u0440\u0430 \u0438 \u043E\u0442\u0440\u0438\u0446\u0430\u0442\u0435\u043B\u044C\u043D\u043E \u0437\u0430\u0440\u044F\u0436\u0435\u043D\u043D\u044B\u0445 \u044D\u043B\u0435\u043A\u0442\u0440\u043E\u043D\u043E\u0432 \u0432\u043E\u043A\u0440\u0443\u0433 \u043D\u0435\u0433\u043E. \u041D\u0430 \u043E\u0441\u043D\u043E\u0432\u0435 \u0440\u0435\u0437\u0443\u043B\u044C\u0442\u0430\u0442\u043E\u0432 \u043E\u043F\u044B\u0442\u0430 \u0441\u043E\u0437\u0434\u0430\u043B \u043F\u043B\u0430\u043D\u0435\u0442\u0430\u0440\u043D\u0443\u044E \u043C\u043E\u0434\u0435\u043B\u044C \u0430\u0442\u043E\u043C\u0430."@ru ,
+		"\u6B27\u5185\u65AF\u7279\u00B7\u5362\u745F\u798F\uFF0C\u7B2C\u4E00\u4EE3\u5C3C\u723E\u68EE\u7684\u5362\u745F\u798F\u7537\u7235\uFF0COM\uFF0CFRS\uFF08\u82F1\u8A9E\uFF1AErnest Rutherford, 1st Baron Rutherford of Nelson\uFF0C1871\u5E748\u670830\u65E5\uFF0D1937\u5E7410\u670819\u65E5\uFF09\uFF0C\u65B0\u897F\u5170\u7269\u7406\u5B66\u5BB6\uFF0C\u4E16\u754C\u77E5\u540D\u7684\u539F\u5B50\u6838\u7269\u7406\u5B78\u4E4B\u7236\u3002\u5B78\u8853\u754C\u516C\u8A8D\u4ED6\u70BA\u7E7C\u6CD5\u62C9\u7B2C\u4E4B\u5F8C\u6700\u5049\u5927\u7684\u5BE6\u9A57\u7269\u7406\u5B78\u5BB6\u3002 \u5362\u745F\u798F\u9996\u5148\u63D0\u51FA\u653E\u5C04\u6027\u534A\u8870\u671F\u7684\u6982\u5FF5\uFF0C\u8B49\u5BE6\u653E\u5C04\u6027\u6D89\u53CA\u5F9E\u4E00\u500B\u5143\u7D20\u5230\u53E6\u4E00\u500B\u5143\u7D20\u7684\u9077\u8B8A\u3002\u4ED6\u53C8\u5C07\u653E\u5C04\u6027\u7269\u8CEA\u6309\u7167\u8CAB\u7A7F\u80FD\u529B\u5206\u985E\u70BA\u03B1\u5C04\u7DDA\u8207\u03B2\u5C04\u7DDA\uFF0C\u4E26\u4E14\u8B49\u5BE6\u524D\u8005\u5C31\u662F\u6C26\u96E2\u5B50\u3002\u56E0\u70BA\u300C\u5BF9\u5143\u7D20\u8715\u53D8\u4EE5\u53CA\u653E\u5C04\u5316\u5B66\u7684\u7814\u7A76\u300D\uFF0C\u4ED6\u69AE\u73721908\u5E74\u8AFE\u8C9D\u723E\u5316\u5B78\u734E\u3002 \u5362\u745F\u798F\u9818\u5C0E\u5718\u968A\u6210\u529F\u5730\u8B49\u5BE6\u5728\u539F\u5B50\u7684\u4E2D\u5FC3\u6709\u500B\u539F\u5B50\u6838\uFF0C\u5275\u5EFA\u4E86\u5362\u745F\u798F\u6A21\u578B\u3002\u4ED6\u6700\u5148\u6210\u529F\u5730\u5728\u6C2E\u8207\u03B1\u7C92\u5B50\u7684\u6838\u53CD\u61C9\u88CF\u5C07\u539F\u5B50\u5206\u88C2\uFF0C\u4ED6\u53C8\u5728\u540C\u5BE6\u9A57\u88CF\u767C\u73FE\u4E86\u8CEA\u5B50\uFF0C\u4E26\u4E14\u70BA\u8CEA\u5B50\u547D\u540D\u3002\u7B2C104\u53F7\u5143\u7D20\u4E3A\u7EAA\u5FF5\u4ED6\u800C\u547D\u540D\u4E3A\u201C\u946A\u201D\u3002"@zh ;
+	dbp:years	1931 ,
+		1907 ;
+	dbp:notes	"The arms of Ernest Rutherford consist of:"@en ;
+	dbp:citizenship	dbr:British_subject ;
+	dbp:supporters	"Dexter,  Hermes Trismegistus  .  Sinister,  a M\u0101ori warrior."@en .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Ernest_Rutherford	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Ernest_Rutherford?oldid=986342617&ns=0> ;
+	dbp:successor	"Sir Frederick Gowland Hopkins"@en ;
+	dbp:nationality	"New Zealander"@en ;
+	dbp:name	"The Lord Rutherford of Nelson"@en ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Ernest_Rutherford_LOC.jpg?width=300> ;
+	dbo:birthPlace	dbr:Colony_of_New_Zealand ,
+		dbr:Brightwater ;
+	dbp:birthPlace	dbr:Colony_of_New_Zealand ,
+		dbr:Brightwater .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Ernest_Rutherford	dbo:birthDate	"1871-08-30"^^xsd:date ;
+	dbp:office	dbr:List_of_presidents_of_the_Royal_Society ;
+	dbp:residence	"New Zealand, United Kingdom"@en ;
+	dbp:termEnd	1930 ;
+	dbp:termStart	1925 ;
+	dbo:signature	"ernest rutherford sig.jpg" ;
+	dbo:termPeriod	dbr:Ernest_Rutherford__Tenure__1 ;
+	dbp:predecessor	"Sir Charles Scott Sherrington"@en ;
+	dbp:s	"Ernest Rutherford"@en ;
+	dbp:escutcheon	"Per saltire arched Gules and Or, two inescutcheons voided of the first in fess,  within each a martlet Sable."@en ;
+	dbp:signature	"ernest rutherford sig.jpg"@en ;
+	dbp:deathPlace	"Cambridge, England"@en ;
+	dbo:wikiPageExternalLink	<http://www.physics.mcgill.ca/museum/rutherford_museum.htm> ,
+		<http://www.rutherford.org.nz/bkcamrss.htm> .
+@prefix ns87:	<http://www.unz.org/Pub/> .
+dbr:Ernest_Rutherford	dbo:wikiPageExternalLink	ns87:Harpers-1904jan-00279 ,
+		<http://www.aip.org/history/exhibits/rutherford/> .
+@prefix ns88:	<https://archive.org/details/> .
+dbr:Ernest_Rutherford	dbo:wikiPageExternalLink	ns88:radioactivesubst00ruthuoft ,
+		ns88:radioactivetran02ruthgoog ,
+		ns88:radioactivity00ruthgoog ,
+		<http://www.rutherford.org.nz> ;
+	dbp:birthDate	"1871-08-30"^^xsd:date ;
+	dbp:deathDate	"1937-10-19"^^xsd:date .
+@prefix ns89:	<http://www.w3.org/2006/03/wn/wn20/instances/> .
+dbr:Ernest_Rutherford	dbp:wordnet_type	ns89:synset-scientist-noun-1 ;
+	dbo:deathPlace	dbr:Cambridge ;
+	dbo:deathDate	"1937-10-19"^^xsd:date ;
+	dbp:honorificPrefix	dbr:The_Right_Honourable ;
+	dbp:motto	"Primordia Quaerere Rerum"@en ;
+	dbp:crest	"A baron's coronet.  On a helm wreathed of the Colors, a kiwi Proper."@en ;
+	dbo:wikiPageID	9603 ;
+	dbo:wikiPageRevisionID	986342617 ;
+	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Richard_Reeves_(American_writer)> ,
+		<http://dbpedia.org/resource/Prout\u0027s_hypothesis> ,
+		dbr:Electron ,
+		dbr:Robert_William_Boyle ,
+		dbr:Sonar ,
+		dbr:New_Zealand_Government ,
+		<http://dbpedia.org/resource/Rutherford_(rocket_engine)> ,
+		<http://dbpedia.org/resource/C._F._Powell> ,
+		dbr:Henry_DeWolf_Smyth ,
+		dbr:Rugby_football ,
+		dbr:Ionosphere ,
+		dbr:Jack_Copeland ,
+		<http://dbpedia.org/resource/Category:Persons_of_National_Historic_Significance_(Canada)> ,
+		dbr:Bursary ,
+		dbr:Atom ,
+		dbr:Golders_Green_Crematorium ,
+		dbr:Rocket_Lab ,
+		dbr:Rutherfordium ,
+		dbc:Honorary_Fellows_of_the_Royal_Society_of_Edinburgh ,
+		dbr:Auckland ,
+		dbr:Cavendish_Laboratory ,
+		dbr:Otto_Hahn ,
+		dbr:Debate ,
+		<http://dbpedia.org/resource/J._J._Thomson> ,
+		<http://dbpedia.org/resource/Nazir_Ahmed_(physicist)> ,
+		<http://dbpedia.org/resource/Category:1871_births> ,
+		dbr:Thomas_Carr_College ,
+		dbr:Hornchurch ,
+		<http://dbpedia.org/resource/Geiger\u2013Marsden_experiment> ,
+		dbr:British_subject ,
+		dbr:Half-life ,
+		dbr:Henry_Moseley ,
+		dbr:Orbit ,
+		dbr:Charles_Drummond_Ellis ,
+		dbr:University_of_Kent ,
+		dbr:Ernest_Rutherford ,
+		dbr:Nuclear_chain_reaction ,
+		dbr:Ernest_Marsden ,
+		dbr:Hans_Geiger ,
+		dbr:McGill_University ,
+		dbr:Uranium ,
+		dbr:Victorian_Certificate_of_Education ,
+		dbr:Wellington ,
+		dbr:Flax_in_New_Zealand ,
+		dbr:Lawrence_Bragg ,
+		dbr:Nuclear_physics ,
+		dbr:Proton ,
+		dbr:Knight_Bachelor ,
+		dbr:Charles_Scott_Sherrington ,
+		dbr:Master_of_Arts ,
+		dbr:Norman_Alexander ,
+		dbr:Richard_Rhodes ,
+		<http://dbpedia.org/resource/Hamilton,_New_Zealand> ,
+		dbr:Charles_Darwin ,
+		dbc:New_Zealand_people_of_Scottish_descent ,
+		dbr:Isaac_Newton ,
+		<http://dbpedia.org/resource/Plasma_(physics)> ,
+		dbr:Royal_Commission_for_the_Exhibition_of_1851 ,
+		dbr:British_Science_Association ,
+		dbr:Elliott_Cresson_Medal ,
+		dbr:Wilhelm_Wien ,
+		dbr:Brightwater ,
+		dbc:Knights_Bachelor ,
+		dbr:Douglas_Hartree ,
+		dbr:The_Right_Honourable ,
+		dbc:New_Zealand_emigrants_to_the_United_Kingdom ,
+		dbr:Institute_of_Physics_Awards ,
+		dbr:Harriet_Brooks ,
+		dbr:Matteucci_Medal ,
+		dbr:Zinc_sulfide ,
+		dbr:Atomic_nucleus ,
+		dbr:Atomic_emission_spectroscopy ,
+		dbr:Nuclear_reaction ,
+		dbr:Whanganui ,
+		<http://dbpedia.org/resource/Perth,_Scotland> ,
+		dbr:Alpha_particle ,
+		dbr:Frederick_Gowland_Hopkins ,
+		dbr:Ontario ,
+		dbr:Charles_Galton_Darwin ,
+		dbr:Rutherford_Memorial_Medal ,
+		dbr:Order_of_Merit ,
+		dbr:The_Times ,
+		dbc:Foreign_associates_of_the_National_Academy_of_Sciences ,
+		dbr:Radon ,
+		dbr:Physics ,
+		dbr:Victoria_University_of_Wellington ,
+		dbr:Michael_Faraday ,
+		dbr:Alpha_decay ,
+		dbr:Frederick_Soddy ,
+		dbc:Honorary_Members_of_the_USSR_Academy_of_Sciences ,
+		dbc:Members_of_the_Pontifical_Academy_of_Sciences ,
+		dbr:Niels_Bohr ,
+		dbr:Royal_Society ,
+		dbr:Member_of_the_National_Academy_of_Sciences ,
+		<http://dbpedia.org/resource/Rutherford_College,_Kent> ,
+		<http://dbpedia.org/resource/Chair_(Polish_academic_department)> ,
+		dbc:Barons_in_the_Peerage_of_the_United_Kingdom ,
+		dbr:Marie_Curie ,
+		dbr:Rangiora_High_School ,
+		dbc:People_educated_at_Nelson_College ,
+		dbr:Henri_Becquerel ,
+		dbr:Edward_Bullard ,
+		dbr:James_Chadwick ,
+		dbc:Faraday_Lecturers ,
+		dbr:Albert_Beaumont_Wood ,
+		dbr:Macleans_College ,
+		dbr:Beta_particle ,
+		dbr:Ernest_Walton ,
+		dbr:Hugh_Longbourne_Callendar ,
+		dbr:Rutherford_backscattering_spectrometry ,
+		dbr:Patrick_Blackett ,
+		<http://dbpedia.org/resource/Category:20th-century_British_physicists> ,
+		dbr:Rutherford_Appleton_Laboratory ,
+		dbr:Alexander_McAulay ,
+		<http://dbpedia.org/resource/Carlsbad,_California> ,
+		dbr:Nuclear_transmutation ,
+		dbc:Burials_at_Westminster_Abbey ,
+		dbr:Mark_Oliphant ,
+		<http://dbpedia.org/resource/Albert_Medal_(Royal_Society_of_Arts)> ,
+		dbr:Barnard_Medal_for_Meritorious_Service_to_Science ,
+		dbc:Presidents_of_the_Institute_of_Physics ,
+		dbr:Wilhelm_Exner_Medal ,
+		dbr:Colony_of_New_Zealand ,
+		dbr:Victoria_University_of_Manchester ,
+		dbr:List_of_presidents_of_the_Royal_Society ,
+		dbr:Edward_Victor_Appleton ,
+		dbr:Rumford_Medal ,
+		dbr:Yulii_Khariton ,
+		dbc:New_Zealand_recipients_of_a_British_peerage ,
+		<http://dbpedia.org/resource/Rutherford_Medal_(Royal_Society_of_New_Zealand)> ,
+		<http://dbpedia.org/resource/1925_New_Year_Honours> ,
+		<http://dbpedia.org/resource/Department_of_Scientific_and_Industrial_Research_(New_Zealand)> ,
+		dbr:Electric-pump-fed_engine ,
+		dbr:Alexander_William_Bickerton ,
+		<http://dbpedia.org/resource/Charge_(physics)> ,
+		dbr:Chemical_Society_Reviews ,
+		dbr:John_Cockcroft ,
+		dbc:People_from_Brightwater ,
+		<http://dbpedia.org/resource/Category:Corresponding_Members_of_the_Russian_Academy_of_Sciences_(1917\u20131925)> ,
+		dbc:New_Zealand_Fellows_of_the_Royal_Society ,
+		dbc:Ernest_Rutherford ,
+		dbc:Radio_pioneers ,
+		dbc:New_Zealand_Nobel_laureates ,
+		dbc:New_Zealand_members_of_the_Order_of_Merit ,
+		dbc:New_Zealand_nuclear_physicists ,
+		<http://dbpedia.org/resource/Rutherford_College,_Auckland> ,
+		dbr:The_Making_of_the_Atomic_Bomb ,
+		dbr:Nuclear_force ,
+		dbr:Rutherford_Hotel ,
+		<http://dbpedia.org/resource/C._E._Wynn-Williams> ,
+		dbr:Evan_James_Williams ,
+		<http://dbpedia.org/resource/St_Paul\u0027s_Anglican_Church,_Papanui> ,
+		<http://dbpedia.org/resource/Havelock,_New_Zealand> ,
+		dbr:Isotopes_of_radon ,
+		<http://dbpedia.org/resource/Hastings,_New_Zealand> ,
+		dbr:Hector_Medal ,
+		dbr:Becquerel ,
+		dbr:Didcot ,
+		dbr:Artificial_disintegration ,
+		dbr:Pyotr_Kapitsa ,
+		dbr:John_Rangihau ,
+		dbr:Kazimierz_Fajans ,
+		<http://dbpedia.org/resource/Lindisfarne_College,_New_Zealand> ,
+		<http://dbpedia.org/resource/Rutherford_(lunar_crater)> ,
+		<http://dbpedia.org/resource/Rutherford_(unit)> ,
+		<http://dbpedia.org/resource/File:IPT-plasma-jet.jpg> ,
+		<http://dbpedia.org/resource/File:Sir_Ernest_Rutherford_-_Plaque_at_the_University_of_Manchester.jpg> ,
+		<http://dbpedia.org/resource/Nelson,_New_Zealand> ,
+		dbr:Neutron ,
+		dbr:University_of_New_Zealand ,
+		dbr:Thomas_Royds ,
+		dbr:Thomas_Sidey ,
+		<http://dbpedia.org/resource/File:Ernest_Rutherford_1892.jpg> ,
+		<http://dbpedia.org/resource/File:Ernest_Rutherford_1905.jpg> ,
+		<http://dbpedia.org/resource/File:SirErnieWestminster.JPG> ,
+		<http://dbpedia.org/resource/File:Statue_of_Ernest_Rutherford.JPG> ,
+		dbc:Presidents_of_the_Royal_Society ,
+		<http://dbpedia.org/resource/File:Gold_foil_experiment_conclusions.svg> ,
+		<http://dbpedia.org/resource/William_Thomson,_1st_Baron_Kelvin> ,
+		dbr:Canterbury ,
+		dbr:Chemistry ,
+		dbr:IET_Faraday_Medal ,
+		dbr:Leo_Szilard ,
+		dbc:New_Zealand_people_of_English_descent ,
+		dbr:Gamma_ray ,
+		dbr:BESSY ,
+		<http://dbpedia.org/resource/Encyclop\u00E6dia_Britannica> ,
+		dbr:Langworthy_Professor ,
+		dbr:Edmund_Hillary ,
+		dbr:Charles_Upham ,
+		dbr:University_of_Canterbury ,
+		dbr:William_Christopher_Macdonald ,
+		<http://dbpedia.org/resource/Category:20th-century_British_scientists> ,
+		dbr:Westminster_Abbey ,
+		dbc:New_Zealand_physicists ,
+		<http://dbpedia.org/resource/Category:Honorary_Members_of_the_Russian_Academy_of_Sciences_(1917\u20131925)> ,
+		dbr:University_of_Manchester ,
+		dbr:Manchester_Literary_and_Philosophical_Society ,
+		dbc:Academics_of_the_Victoria_University_of_Manchester ,
+		dbc:Fellows_of_the_Royal_Society_of_New_Zealand ,
+		<http://dbpedia.org/resource/Category:19th-century_British_physicists> ,
+		<http://dbpedia.org/resource/Category:19th-century_New_Zealand_scientists> ,
+		dbr:Norman_Feather ,
+		dbr:Daulat_Singh_Kothari ,
+		dbc:University_of_Canterbury_alumni ,
+		dbr:Rafi_Muhammad_Chaudhry ,
+		dbr:James_Jeans ,
+		dbr:Hernia ,
+		<http://dbpedia.org/resource/Category:Fellows_of_Trinity_College,_Cambridge> ,
+		dbr:Royal_Society_of_Canada ,
+		dbc:McGill_University_faculty ,
+		dbr:University_of_Cambridge ,
+		dbr:Rutherford_scattering ,
+		dbr:Faraday_Lectureship_Prize ,
+		<http://dbpedia.org/resource/Ralph_H._Fowler> ,
+		dbr:Council_for_At-Risk_Academics ,
+		dbr:Nobel_Prize_in_Chemistry ,
+		dbc:Nobel_laureates_in_Chemistry ,
+		dbr:Montreal ,
+		dbr:Physicist ,
+		<http://dbpedia.org/resource/1851_Research_Fellowship> ,
+		dbc:British_Nobel_laureates ,
+		dbc:English_Nobel_laureates ,
+		dbr:Nelson_College ,
+		dbr:William_Crookes ,
+		dbr:Proceedings_of_the_Royal_Society ,
+		dbr:Guglielmo_Marconi ,
+		dbr:Royal_Society_Bakerian_Medal ,
+		<http://dbpedia.org/resource/Royal_Society_Te_Ap\u0101rangi> ,
+		dbr:Rotorua ,
+		dbr:Helium ,
+		dbr:Franklin_Medal ,
+		dbr:Abingdon-on-Thames ,
+		dbr:Particle_accelerator ,
+		dbr:Rutherford_model ,
+		dbr:Mars ,
+		dbr:Copley_Medal ,
+		dbc:Experimental_physicists ,
+		<http://dbpedia.org/resource/Category:1937_deaths> ,
+		dbr:Iven_Mackay ,
+		dbr:Edward_Andrade ,
+		dbr:Cambridge ,
+		dbr:Christchurch ,
+		dbc:Recipients_of_the_Copley_Medal ,
+		dbr:Thorium ,
+		dbr:Bertram_Boltwood ,
+		dbr:George_Laurence ,
+		dbr:Radium ,
+		dbr:Crocodile ,
+		dbr:Radioactive_decay ,
+		dbr:Doctor_of_Science ,
+		dbr:Loughborough_University ,
+		dbr:Paul_Ulrich_Villard ,
+		dbr:Arthur_Schuster ,
+		dbr:New_Zealand_one_hundred-dollar_note ,
+		dbr:Institute_of_Physics .
+@prefix dbt:	<http://dbpedia.org/resource/Template:> .
+dbr:Ernest_Rutherford	dbp:wikiPageUsesTemplate	dbt:S-reg ,
+		dbt:Sisterlinks ,
+		dbt:Infobox_scientist ,
+		dbt:S-aca ,
+		dbt:Pp-move-indef ,
+		dbt:Postnominals ,
+		dbt:Pp-semi-indef ,
+		dbt:Redirect-distinguish ,
+		dbt:Explain ,
+		dbt:Infobox_COA_wide ,
+		dbt:PM20 ,
+		dbt:S-new ,
+		dbt:S-non ,
+		dbt:Endplainlist ,
+		<http://dbpedia.org/resource/Template:Copley_Medallists_1901\u20131950> ,
+		dbt:Snd ,
+		dbt:Royal_Society_presidents_1900s ,
+		dbt:Nobelprize ,
+		dbt:Cite_ODNB ,
+		dbt:People_whose_names_are_used_in_chemical_element_names ,
+		dbt:Recipients_of_the_Hector_Memorial_Medal ,
+		<http://dbpedia.org/resource/Template:Nobel_Prize_in_Chemistry_Laureates_1901\u20131925> ,
+		<http://dbpedia.org/resource/Template:1908_Nobel_Prize_winners> ,
+		dbt:Use_dmy_dates ,
+		dbt:Death_date_and_age ,
+		dbt:Birth_date ,
+		dbt:Short_description ,
+		dbt:Quote ,
+		dbt:Reflist ,
+		dbt:Use_New_Zealand_English ,
+		dbt:More_citations_needed_section ,
+		dbt:Infobox_officeholder ,
+		dbt:ISBN ,
+		dbt:Authority_control ,
+		dbt:S-ttl ,
+		dbt:Cite_journal ,
+		dbt:S-aft ,
+		dbt:S-start ,
+		dbt:S-bef ,
+		dbt:S-end ;
+	dbo:wikiPageLength	"46212"^^xsd:nonNegativeInteger ;
+	dbp:title	dbr:Ernest_Rutherford ,
+		dbr:Langworthy_Professor ,
+		"at the University of Manchester"@en ;
+	dbp:author	"yes"@en .
+dbr:Radiation	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+<http://dbpedia.org/resource/Great_Britain_commemorative_stamps_2010\u201319>	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Discovery_of_nuclear_fission	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Helium	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:List_of_Japanese_inventions_and_discoveries	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:List_of_chemical_element_name_etymologies	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Ernest_Lawrence	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Thorium	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Nicolaas_Bloembergen	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+<http://dbpedia.org/resource/1937_in_science>	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Radon-222	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+<http://dbpedia.org/resource/Encyclop\u00E6dia_Britannica_Eleventh_Edition>	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Bertram_Boltwood	dbo:influencedBy	dbr:Ernest_Rutherford ;
+	dbp:influences	dbr:Ernest_Rutherford ;
+	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:TAE_Technologies	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:William_Seifriz	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+<http://dbpedia.org/resource/William_Wilson_(physicist)>	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Fire_protection_engineering	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Paul_Sophus_Epstein	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:March_1911	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Thomas_Allibone	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Christchurch_Arts_Centre	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Egon_Bretscher	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+<http://dbpedia.org/resource/1923_in_British_radio>	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+<http://dbpedia.org/resource/Department_of_Chemistry,_University_of_Oxford>	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+<http://dbpedia.org/resource/Department_of_Physics_and_Astronomy,_University_of_Manchester>	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+<http://dbpedia.org/resource/Albert_Medal_(Royal_Society_of_Arts)>	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Langworthy_Professor	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Norman_Alexander	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Trinity_Mathematical_Society	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+<http://dbpedia.org/resource/Quantum_(book)>	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Holborn_tube_station	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Atomic_energy	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Japanese_nuclear_weapon_program	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Jan_Kazimierz_Danysz	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+<http://dbpedia.org/resource/1937>	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+<http://dbpedia.org/resource/1908>	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:List_of_inventions_and_discoveries_by_women	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Phosphor	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:List_of_theoretical_physicists	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Timeline_of_quantum_mechanics	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Tokamak	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Edwardian_era	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Timeline_of_fundamental_physics_discoveries	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Francis_William_Aston	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:October_1937	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+<http://dbpedia.org/resource/Petrolia_Oil_Field_(Texas)>	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+<http://dbpedia.org/resource/Parkeston,_Essex>	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Sun	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:University_of_Giessen	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+<http://dbpedia.org/resource/Asimov\u0027s_Biographical_Encyclopedia_of_Science_and_Technology>	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+<http://dbpedia.org/resource/William_Thomson,_1st_Baron_Kelvin>	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:List_of_Nobel_laureates_by_country	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:List_of_Nobel_laureates_by_university_affiliation	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Timeline_of_science_fiction	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+<http://dbpedia.org/resource/List_of_eponyms_(L\u2013Z)>	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:New_Zealand_one_hundred-dollar_note	dbp:obverseDesign	dbr:Ernest_Rutherford ;
+	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Maria_Balshaw	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Macleans_College	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:List_of_people_on_the_postage_stamps_of_New_Zealand	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Awatapu_College	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Rangiora_High_School	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+<http://dbpedia.org/resource/Tauranga_Boys\u0027_College>	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Radioactive_decay	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Paul_Langevin	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:List_of_people_on_banknotes	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Discovery_of_the_neutron	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:List_of_Cars_characters	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Chemical_symbol	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+<http://dbpedia.org/resource/1908_in_science>	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:List_of_chemical_elements	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+<http://dbpedia.org/resource/Acc\u00E9l\u00E9rateur_Grand_Louvre_d\u0027analyse_\u00E9l\u00E9mentaire>	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:List_of_Nobel_laureates_by_university_affiliation_II	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Atomic_Age	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:List_of_streets_at_CERN	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:East_of_England	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Fusion_power	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Poisson_point_process	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Ernest_Marsden	dbo:influencedBy	dbr:Ernest_Rutherford ;
+	dbp:influences	dbr:Ernest_Rutherford ;
+	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Greatest_Britons_spin-offs	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Ernest_Solvay	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+<http://dbpedia.org/resource/Crown_College,_University_of_California,_Santa_Cruz>	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+<http://dbpedia.org/resource/John_R._Dunning>	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Outline_of_nuclear_technology	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Louis_Vessot_King	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+<http://dbpedia.org/resource/P._R._Wallace>	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Aldo_Pontremoli	dbo:influencedBy	dbr:Ernest_Rutherford ;
+	dbp:influences	dbr:Ernest_Rutherford ;
+	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Golders_Green_Crematorium	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+<http://dbpedia.org/resource/1911_in_science>	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Niels_Bohr	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Enrico_Fermi	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Ernest_Bohr	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Institute_of_Physics_Awards	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Deuterium	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Albert_Einstein	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Scattering	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:George_Ellery_Hale	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Atom	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Timeline_of_physical_chemistry	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+@prefix ns91:	<http://dbpedia.org/resource/Earth_Revealed:> .
+ns91:_Introductory_Geology	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:History_of_chemistry	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:History_of_quantum_mechanics	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:List_of_British_innovations_and_discoveries	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Muon-catalyzed_fusion	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Fanny_Gates	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Photon	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Radiometric_dating	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Timeline_of_chemistry	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Half-life	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:List_of_people_on_the_postage_stamps_of_Romania	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Daulat_Singh_Kothari	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Atma_Jayaram	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Rafi_Muhammad_Chaudhry	dbp:doctoralAdvisor	dbr:Ernest_Rutherford ;
+	dbo:doctoralAdvisor	dbr:Ernest_Rutherford ;
+	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Alex_Rutherford	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:List_of_McGill_University_people	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+<http://dbpedia.org/resource/Nazir_Ahmed_(physicist)>	dbo:doctoralAdvisor	dbr:Ernest_Rutherford ;
+	dbo:influencedBy	dbr:Ernest_Rutherford ;
+	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:List_of_Nobel_laureates_affiliated_with_the_University_of_Cambridge	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:John_Joly	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Edward_Bullard	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+<http://dbpedia.org/resource/List_of_Nobel_laureates_affiliated_with_the_University_of_California,_Berkeley>	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+<http://dbpedia.org/resource/1937_in_New_Zealand>	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Oxford_Portraits_in_Science	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:The_Disappearing_Spoon	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Linear_energy_transfer	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:August_30	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Wilhelm_Wien	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+<http://dbpedia.org/resource/Hutt_International_Boys\u0027_School>	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:List_of_motifs_on_banknotes	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Mother_Goose_Playskool_and_Gradeschool	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Wilhelm_Exner_Medal	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:McGill_University	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:List_of_physicists	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+<http://dbpedia.org/resource/John_Madsen_(physicist)>	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:List_of_chemists	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Timeline_of_chemical_element_discoveries	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Adriaan_Fokker	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Iven_Mackay	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:George_Laurence	dbp:doctoralAdvisor	dbr:Ernest_Rutherford ;
+	dbo:doctoralAdvisor	dbr:Ernest_Rutherford ;
+	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Friedrich_Paneth	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Arthur_Stewart_Eve	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+<http://dbpedia.org/resource/1931_New_Year_Honours>	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Mr_Tompkins	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Wendell_Mitchell_Latimer	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Alexander_McAulay	dbp:doctoralAdvisor	dbr:Ernest_Rutherford ;
+	dbo:doctoralAdvisor	dbr:Ernest_Rutherford ;
+	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Rutherfordine	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Atomic_nucleus	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Rishton	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Electromagnetic_spectrum	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Atomic_number	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Atomic_orbital	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Periodic_table	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Electron	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Zinc_sulfide	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+<http://dbpedia.org/resource/Corpus_Christi_College,_Cambridge>	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Cavendish_Laboratory	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Cambridge_University_Library	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+<http://dbpedia.org/resource/1899_in_science>	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+<http://dbpedia.org/resource/John_L._Heilbron>	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Roy_Alexander_Weagant	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+<http://dbpedia.org/resource/Rutherford_(rocket_engine)>	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:James_Andrew_Harris	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Ernest_Walton	dbp:doctoralAdvisor	dbr:Ernest_Rutherford ;
+	dbo:doctoralAdvisor	dbr:Ernest_Rutherford ;
+	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Anarchism_in_New_Zealand	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+<http://dbpedia.org/resource/1902_in_rail_transport>	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:James_Vincent_Murphy	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Radium_Hill	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Hantaro_Nagaoka	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:October_1902	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Birbal_Sahni	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Photodisintegration	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Radioanalytical_chemistry	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Barnard_Medal_for_Meritorious_Service_to_Science	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Anti-submarine_indicator_loop	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Timeline_of_nuclear_weapons_development	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Reg_Revans	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+<http://dbpedia.org/resource/Emilio_Segr\u00E8>	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Antiquarian_science_books	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:George_Gamow	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Boris_Anrep	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+<http://dbpedia.org/resource/1917_in_science>	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+<http://dbpedia.org/resource/1920_in_science>	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Transfermium_Wars	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Transuranium_element	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Paul_Harteck	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Yulii_Khariton	dbp:doctoralAdvisor	dbr:Ernest_Rutherford ;
+	dbo:doctoralAdvisor	dbr:Ernest_Rutherford ;
+	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+<http://dbpedia.org/resource/The_Tournament_(Clarke_novel)>	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:October_19	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Scientific_phenomena_named_after_people	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+<http://dbpedia.org/resource/Rutherford_Medal_(Royal_Society_of_New_Zealand)>	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+<http://dbpedia.org/resource/1925_New_Year_Honours>	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+<http://dbpedia.org/resource/Department_of_Scientific_and_Industrial_Research_(New_Zealand)>	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Alexander_William_Bickerton	dbp:notableStudents	dbr:Ernest_Rutherford ;
+	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford ;
+	dbo:notableStudent	dbr:Ernest_Rutherford .
+dbr:Hector_Medal	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Artificial_disintegration	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Kazimierz_Fajans	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+<http://dbpedia.org/resource/Rutherford_(lunar_crater)>	dbp:eponym	dbr:Ernest_Rutherford ;
+	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+<http://dbpedia.org/resource/Rutherford_(unit)>	dbp:namedafter	dbr:Ernest_Rutherford ;
+	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+<http://dbpedia.org/resource/Rutherford_College,_Auckland>	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Rutherford_Hotel	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+<http://dbpedia.org/resource/C._E._Wynn-Williams>	dbp:doctoralAdvisor	dbr:Ernest_Rutherford ;
+	dbo:doctoralAdvisor	dbr:Ernest_Rutherford ;
+	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Evan_James_Williams	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+<http://dbpedia.org/resource/St_Paul\u0027s_Anglican_Church,_Papanui>	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+<http://dbpedia.org/resource/Havelock,_New_Zealand>	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Thomas_Royds	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+<http://dbpedia.org/resource/Cormac_\u00D3_Ceallaigh>	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Rutherford	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford ;
+	dbo:wikiPageDisambiguates	dbr:Ernest_Rutherford .
+<http://dbpedia.org/resource/Rutherford_(surname)>	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Oxygen-17	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Father_of_Nuclear_Physics	dbo:wikiPageRedirects	dbr:Ernest_Rutherford ;
+	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Bohr_model	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Defence_Institute_of_Advanced_Technology	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+<http://dbpedia.org/resource/Derby_High_School,_Bury>	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+<http://dbpedia.org/resource/Heath_Robinson_(codebreaking_machine)>	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Magnetic_detector	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Cecil_Ernest_Eddy	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Norman_de_Bruyne	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:List_of_vacuum_tubes	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Deep_inelastic_scattering	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Cashmere_High_School	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:George_Julius	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+<http://dbpedia.org/resource/David_M._Dennison>	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Emile_Armet_de_Lisle	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Emily_Winterburn	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Lancelot_Law_Whyte	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Katharine_Burr_Blodgett	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Bateman_equation	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+<http://dbpedia.org/resource/Light_Fantastic_(TV_series)>	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:New_Zealand_Company_ships	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:South_Pacific_Airlines_of_New_Zealand	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Rutherfordfjellet	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:List_of_South_Islanders	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:List_of_New_Zealand_scientists	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Ruchi_Ram_Sahni	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Cavendish_Professor_of_Physics	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+<http://dbpedia.org/resource/Lord_Nelson_(disambiguation)>	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+<http://dbpedia.org/resource/Harold_Taylor_(polymath)>	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Radioluminescence	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Photoinduced_charge_separation	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Timeline_of_particle_physics_technology	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Lord_Rutherford	dbo:wikiPageRedirects	dbr:Ernest_Rutherford ;
+	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Lord_Rutherford_of_Nelson	dbo:wikiPageRedirects	dbr:Ernest_Rutherford ;
+	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Lord_earnest_rutherford	dbo:wikiPageRedirects	dbr:Ernest_Rutherford ;
+	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Frances_Rutherford	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+<http://dbpedia.org/resource/Fred_White_(physicist)>	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Friedrich_Ernst_Dorn	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+<http://dbpedia.org/resource/J._S._Mitchell>	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Schuster_Laboratory	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:John_Alan_Chalmers	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+<http://dbpedia.org/resource/Peter_Fowler_(physicist)>	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Opotiki_College	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:The_World_Set_Free	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+<http://dbpedia.org/resource/Rutherford,_Ernest,_1st_Baron_Rutherford_of_Nelson_and_Cambridge>	dbo:wikiPageRedirects	dbr:Ernest_Rutherford ;
+	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Transactions_and_Proceedings_of_the_Royal_Society_of_New_Zealand	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Colliding_beam_fusion	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Baron_Rutherford_of_Nelson	dbo:wikiPageRedirects	dbr:Ernest_Rutherford ;
+	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+<http://dbpedia.org/resource/George_Hudson_(entomologist)>	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+<http://dbpedia.org/resource/David_Sims_(director)>	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Richard_Blaikie	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Azimuthal_quantum_number	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Peter_Hawes	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Canadian_Science_and_Engineering_Hall_of_Fame	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+<http://dbpedia.org/resource/Robert_Edwards_(physiologist)>	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Tanjong_Katong_Secondary_School	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Tasman_District	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+<http://dbpedia.org/resource/Tauranga_Girls\u0027_College>	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+<http://dbpedia.org/resource/Te_Atat\u016B_Peninsula>	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+<http://dbpedia.org/resource/Coutts_Trotter_(physicist)>	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Howard_Turner_Barnes	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:List_of_fellows_of_the_Royal_Society_elected_in_1903	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Rutherfordian	dbo:wikiPageRedirects	dbr:Ernest_Rutherford ;
+	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Earnest_Rutherford	dbo:wikiPageRedirects	dbr:Ernest_Rutherford ;
+	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Philip_Burton_Moon	dbp:doctoralAdvisor	dbr:Ernest_Rutherford ;
+	dbo:doctoralAdvisor	dbr:Ernest_Rutherford ;
+	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Ion_beam_analysis	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:List_of_people_from_Christchurch	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:List_of_scattering_experiments	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:List_of_honorary_doctors_of_the_University_of_New_Zealand	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:WildTomato	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Henry_Gustav_Simon	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:May_Sybil_Leslie	dbo:academicAdvisor	dbr:Ernest_Rutherford ;
+	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+<http://dbpedia.org/resource/Crocodile_(disambiguation)>	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:The_Laundry_Files	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Stuart_Hoar	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Mary_Fowler	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Through_the_Wormhole	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Time_Trackers	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Plum_pudding_model	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+<http://dbpedia.org/resource/The_God_Particle_(book)>	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Ernest_rutherford	dbo:wikiPageRedirects	dbr:Ernest_Rutherford ;
+	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Patrick_Joseph_Nolan	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Lord_Earnest_Rutherford	dbo:wikiPageRedirects	dbr:Ernest_Rutherford ;
+	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Lord_Ernest_Rutherford	dbo:wikiPageRedirects	dbr:Ernest_Rutherford ;
+	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Lord_Ernest_Rutherford_of_Nelson	dbo:wikiPageRedirects	dbr:Ernest_Rutherford ;
+	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Baron_Rutherford	dbo:wikiPageRedirects	dbr:Ernest_Rutherford ;
+	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+<http://dbpedia.org/resource/E._Rutherford>	dbo:wikiPageRedirects	dbr:Ernest_Rutherford ;
+	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+<http://dbpedia.org/resource/Ernest,_1st_Baron_Rutherford_of_Nelson_and_Cambridge_Rutherford>	dbo:wikiPageRedirects	dbr:Ernest_Rutherford ;
+	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Ernest_Baron_of_Nelson_Lord_Rutherford	dbo:wikiPageRedirects	dbr:Ernest_Rutherford ;
+	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+<http://dbpedia.org/resource/Ernest_Rutherford,_1st_Baron_Rutherford>	dbo:wikiPageRedirects	dbr:Ernest_Rutherford ;
+	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+<http://dbpedia.org/resource/Ernest_Rutherford,_1st_Baron_Rutherford_of_Nelson>	dbo:wikiPageRedirects	dbr:Ernest_Rutherford ;
+	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+<http://dbpedia.org/resource/Ernest_Rutherford,_Baron_Rutherford_of_Nelson>	dbo:wikiPageRedirects	dbr:Ernest_Rutherford ;
+	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Ernest_Rutherford_Lord_Nelson	dbo:wikiPageRedirects	dbr:Ernest_Rutherford ;
+	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Ernest_Ruthesford	dbo:wikiPageRedirects	dbr:Ernest_Rutherford ;
+	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:The_Lord_Rutherford_of_Nelson	dbo:wikiPageRedirects	dbr:Ernest_Rutherford ;
+	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Sir_Ernest_Rutherford	dbo:wikiPageRedirects	dbr:Ernest_Rutherford ;
+	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Cambridge_Digital_Library	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:List_of_people_with_craters_of_the_Moon_named_after_them	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:List_of_people_considered_father_or_mother_of_a_scientific_field	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:List_of_presidents_of_the_Royal_Society	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+<http://dbpedia.org/resource/C._F._Powell>	dbp:doctoralAdvisor	dbr:Ernest_Rutherford ;
+	dbo:doctoralAdvisor	dbr:Ernest_Rutherford ;
+	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Chelmer_Valley_High_School	dbp:houses	dbr:Ernest_Rutherford ;
+	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+<http://dbpedia.org/resource/Richard_Huish_College,_Taunton>	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+<http://dbpedia.org/resource/Charles_Cook_(academic)>	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Clan_Rutherford	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Cambridge_University_Wireless_Society	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Nevil_Sidgwick	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:William_Prout	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+<http://dbpedia.org/resource/Prout\u0027s_hypothesis>	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+<http://dbpedia.org/resource/Geiger\u2013Marsden_experiment>	dbp:caption	dbr:Ernest_Rutherford ;
+	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Rutherford_scattering	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Charge_radius	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Rutherford_model	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Saunders-Roe	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Physics_of_the_Impossible	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+<http://dbpedia.org/resource/Radium,_and_Other_Radioactive_Substances>	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:List_of_Knights_Bachelor_appointed_in_1914	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+<http://dbpedia.org/resource/T._H._Laby>	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:List_of_people_on_the_postage_stamps_of_Canada	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Ernest	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford ;
+	dbo:wikiPageDisambiguates	dbr:Ernest_Rutherford .
+dbr:Rainham_Mark_Grammar_School	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .
+dbr:Otto_Baumbach	dbo:wikiPageWikiLink	dbr:Ernest_Rutherford .

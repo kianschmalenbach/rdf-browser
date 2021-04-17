@@ -1,0 +1,40 @@
+
+
+
+
+    
+
+    
+    
+
+    <http://quod.pl/user/1356> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Agent>  ;
+<http://xmlns.com/foaf/0.1/account> <http://quod.pl/user/1356#acct>   .<http://quod.pl/user/1356#acct> <http://rdfs.org/sioc/ns#account_of> <http://quod.pl/user/1356>  ;
+<http://rdfs.org/sioc/ns#follows> <http://u.qdnx.org/user/159#acct>  ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/OnlineAccount>  ;
+<http://xmlns.com/foaf/0.1/accountName> "petroverse"  ;
+<http://xmlns.com/foaf/0.1/accountProfilePage> <http://quod.pl/petroverse>   .<http://u.qdnx.org/krayon/foaf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/PersonalProfileDocument>  ;
+<http://xmlns.com/foaf/0.1/maker> <http://u.qdnx.org/user/1>  ;
+<http://xmlns.com/foaf/0.1/primaryTopic> <http://u.qdnx.org/user/1>   .<http://u.qdnx.org/nido/foaf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/PersonalProfileDocument>  ;
+<http://xmlns.com/foaf/0.1/maker> <http://u.qdnx.org/user/159>  ;
+<http://xmlns.com/foaf/0.1/primaryTopic> <http://u.qdnx.org/user/159>   .<http://u.qdnx.org/user/159> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Agent>  ;
+<http://xmlns.com/foaf/0.1/account> <http://u.qdnx.org/user/159#acct>  ;
+<http://xmlns.com/foaf/0.1/based_near> [ <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing>  ;
+<http://www.w3.org/2003/01/geo/wgs84_pos#lat> "52.7033300"  ;
+<http://www.w3.org/2003/01/geo/wgs84_pos#long> "5.2916700"  ]  ;
+<http://xmlns.com/foaf/0.1/homepage> <http://nidomedia.com/>  ;
+<http://xmlns.com/foaf/0.1/name> "Nido Media"  ;
+<http://xmlns.com/foaf/0.1/weblog> <http://u.qdnx.org/nido>   .<http://u.qdnx.org/user/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Agent>  ;
+<http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://u.qdnx.org/krayon/foaf>  ;
+<http://xmlns.com/foaf/0.1/account> <http://u.qdnx.org/user/1#acct>   .<http://u.qdnx.org/user/1#acct> <http://rdfs.org/sioc/ns#account_of> <http://u.qdnx.org/user/1>  ;
+<http://rdfs.org/sioc/ns#follows> <http://u.qdnx.org/user/159#acct>  ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/OnlineAccount>  ;
+<http://xmlns.com/foaf/0.1/accountName> "krayon"  ;
+<http://xmlns.com/foaf/0.1/accountProfilePage> <http://u.qdnx.org/krayon>  ;
+<http://xmlns.com/foaf/0.1/accountServiceHomepage> <http://u.qdnx.org/>   .<http://u.qdnx.org/user/159#acct> <http://rdfs.org/sioc/ns#account_of> <http://u.qdnx.org/user/159>  ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/OnlineAccount>  ;
+<http://xmlns.com/foaf/0.1/accountName> "nido"  ;
+<http://xmlns.com/foaf/0.1/accountProfilePage> <http://u.qdnx.org/nido>  ;
+<http://xmlns.com/foaf/0.1/accountServiceHomepage> <http://u.qdnx.org/>   .
+
+
+

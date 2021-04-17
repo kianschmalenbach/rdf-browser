@@ -1,0 +1,1072 @@
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+dbr:List_of_languages_by_number_of_native_speakers	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:List_of_numbers_in_various_languages	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:List_of_Wikipedias	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Scrabble_letter_distributions	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:ESpeak	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:List_of_ISO_639-2_codes	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Lojban_grammar	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:List_of_language_regulators	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:List_of_languages_by_type_of_grammatical_genders	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:List_of_Latin-script_alphabets	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Clusivity	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Icelandic_exonyms	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Democratic_Republic_of_Madagascar	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:List_of_Latin-script_digraphs	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Malay_race	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Ilocano_language	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:History_of_navigation	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:List_of_university_and_college_mottos	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Coastal_Kadazan_dialect	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Frank_Glaw	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Alocasia_macrorrhizos	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Rinconada_Bikol_language	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Bible_translations_into_the_languages_of_Africa	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:French_Madagascar	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+@prefix ns2:	<http://dbpedia.org/resource/ISO_639:> .
+ns2:s	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Miss_Madagascar	dbp:language	dbr:Malagasy_language ;
+	dbo:language	dbr:Malagasy_language ;
+	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Al-Wakwak	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+<http://dbpedia.org/resource/Eus\u00E8be_Jaojoby>	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+<http://dbpedia.org/resource/Razia_(singer)>	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Rahonavis	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Council_of_Christian_Churches_in_Madagascar	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Fianarantsoa	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Malagasy_people_in_France	dbo:language	dbr:Malagasy_language ;
+	dbo:wikiPageWikiLink	dbr:Malagasy_language ;
+	dbp:langs	dbr:Malagasy_language .
+dbr:Catechism_of_the_Catholic_Church	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+@prefix ns4:	<http://dbpedia.org/resource/List_of_acronyms:> .
+ns4:_M	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Voiced_palatal_nasal	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Flag_of_Madagascar	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+wikipedia-en:Malagasy_language	foaf:primaryTopic	dbr:Malagasy_language .
+dbr:Languages_of_Africa	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:African_immigration_to_Finland	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+<http://dbpedia.org/resource/Diaeresis_(diacritic)>	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+<http://dbpedia.org/resource/Nj_(digraph)>	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Diademed_sifaka	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Barito_River	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Deyah_language	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:East_Barito_languages	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Kahayan_River	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+<http://dbpedia.org/resource/Paku_language_(Indonesia)>	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Dusun_Malang_language	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Dusun_Witu_language	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+<http://dbpedia.org/resource/Claude_Aug\u00E9>	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Velondriake	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+<http://dbpedia.org/resource/10,000>	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Majungasaurus	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Frederick_de_Houtman	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Sama-Bajau	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Deixis	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+<http://dbpedia.org/resource/Tarika_(musical_group)>	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Barren_Isles	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+<http://dbpedia.org/resource/Indonesia\u2013Madagascar_relations>	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+<http://dbpedia.org/resource/1600s_in_archaeology>	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:South_Sulawesi_languages	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+<http://dbpedia.org/resource/Fahavalo,_Madagascar_1947>	dbp:language	dbr:Malagasy_language ;
+	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+dbr:Malagasy_language	rdf:type	<http://dbpedia.org/class/yago/WikicatVerb\u2013object\u2013subjectLanguages> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Malagasy_language	rdf:type	yago:Language106282651 ,
+		dbo:Language ,
+		yago:WikicatLanguagesOfComoros ,
+		yago:WikicatLanguagesOfMadagascar .
+@prefix schema:	<http://schema.org/> .
+dbr:Malagasy_language	rdf:type	schema:Language ,
+		yago:Communication100033020 .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Malagasy_language	rdf:type	wikidata:Q315 ,
+		yago:Abstraction100002137 .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Malagasy_language	rdf:type	owl:Thing .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Malagasy_language	rdfs:label	"Idioma malgache"@es ,
+		"Malagasa lingvo"@eo ,
+		"\u30DE\u30C0\u30AC\u30B9\u30AB\u30EB\u8A9E"@ja ,
+		"Malagassiska"@sv ,
+		"\u039C\u03B1\u03BB\u03B1\u03B3\u03B1\u03C3\u03B9\u03BA\u03AE \u03B3\u03BB\u03CE\u03C3\u03C3\u03B1"@el ,
+		"L\u00EDngua malgaxe"@pt ,
+		"\u9A6C\u62C9\u52A0\u65AF\u8BED"@zh ,
+		"Malagasy (Sprache)"@de ,
+		"Malagasy language"@en ,
+		"Malgaxe (hizkuntza)"@eu ,
+		"\u0627\u0644\u0644\u063A\u0629 \u0627\u0644\u0645\u0644\u063A\u0627\u0634\u064A\u0629"@ar ,
+		"Malgaix"@ca ,
+		"\uB9D0\uB77C\uAC00\uC2DC\uC5B4"@ko ,
+		"\u041C\u0430\u043B\u0430\u0433\u0430\u0441\u0438\u0439\u0441\u043A\u0438\u0439 \u044F\u0437\u044B\u043A"@ru ,
+		"Lingua malgascia"@it ,
+		"Malga\u0161tina"@cs ,
+		"Malagasitalen"@nl ,
+		"\u041C\u0430\u043B\u0430\u0433\u0430\u0441\u0456\u0439\u0441\u044C\u043A\u0430 \u043C\u043E\u0432\u0430"@uk ,
+		"Malgache"@fr ,
+		"J\u0119zyk malgaski"@pl ,
+		"An Mhalag\u00E1isis"@ga ,
+		"Bahasa Malagasi"@in ;
+	rdfs:comment	"\u0397 \u039C\u03B1\u03BB\u03B1\u03B3\u03B1\u03C3\u03B9\u03BA\u03AE \u03B3\u03BB\u03CE\u03C3\u03C3\u03B1 \u03B1\u03BD\u03AE\u03BA\u03B5\u03B9 \u03C3\u03C4\u03B7\u03BD \u0391\u03C5\u03C3\u03C4\u03C1\u03BF\u03BD\u03B7\u03C3\u03B9\u03B1\u03BA\u03AE \u03BF\u03BC\u03AC\u03B4\u03B1 \u03B3\u03BB\u03C9\u03C3\u03C3\u03CE\u03BD \u03BA\u03B1\u03B9 \u03B5\u03AF\u03BD\u03B1\u03B9 \u03B7 \u03B5\u03B8\u03BD\u03B9\u03BA\u03AE \u03B3\u03BB\u03CE\u03C3\u03C3\u03B1 \u03C4\u03B7\u03C2 \u039C\u03B1\u03B4\u03B1\u03B3\u03B1\u03C3\u03BA\u03AC\u03C1\u03B7\u03C2. \u0395\u03AF\u03BD\u03B1\u03B9 \u03C4\u03BF \u03B4\u03C5\u03C4\u03B9\u03BA\u03CC\u03C4\u03B5\u03C1\u03BF \u03BC\u03AD\u03BB\u03BF\u03C2 \u03C4\u03B7\u03C2 \u03C5\u03C0\u03BF\u03BF\u03BC\u03AC\u03B4\u03B1\u03C2 \u039C\u03B1\u03BB\u03AC\u03B9- \u03A0\u03BF\u03BB\u03C5\u03BD\u03B7\u03C3\u03B9\u03B1\u03BA\u03AC \u03C0\u03BF\u03C5 \u03B1\u03BD\u03AE\u03BA\u03B5\u03B9 \u03C3\u03C4\u03B7\u03BD \u03B1\u03C5\u03C3\u03C4\u03C1\u03BF\u03BD\u03B7\u03C3\u03B9\u03B1\u03BA\u03AE \u03BF\u03BC\u03AC\u03B4\u03B1. \u0397 \u03B4\u03B9\u03B1\u03C6\u03BF\u03C1\u03B5\u03C4\u03B9\u03BA\u03CC\u03C4\u03B7\u03C4\u03B1 \u03C4\u03B7\u03C2 \u03B3\u03BB\u03CE\u03C3\u03C3\u03B1\u03C2 \u03B1\u03C0\u03CC \u03C4\u03B9\u03C2 \u03B3\u03B5\u03B9\u03C4\u03BF\u03BD\u03B9\u03BA\u03AD\u03C2 \u03B1\u03C6\u03C1\u03B9\u03BA\u03AC\u03BD\u03B9\u03BA\u03B5\u03C2 \u03B3\u03BB\u03CE\u03C3\u03C3\u03B5\u03C2 \u03B5\u03C0\u03B9\u03C3\u03B7\u03BC\u03AC\u03BD\u03B8\u03B7\u03BA\u03B5 \u03C4\u03BF 1708 \u03B1\u03C0\u03CC \u03C4\u03BF\u03BD \u03BF\u03BB\u03BB\u03B1\u03BD\u03B4\u03CC \u03BB\u03CC\u03B3\u03B9\u03BF \u0386\u03BD\u03C4\u03C1\u03B9\u03B1\u03BD \u03A1\u03AD\u03BB\u03B1\u03BD\u03C4. \u03A3\u03C7\u03B5\u03C4\u03AF\u03B6\u03B5\u03C4\u03B1\u03B9 \u03C0\u03BF\u03BB\u03CD \u03BC\u03B5 \u03C4\u03B9\u03C2 \u039C\u03B1\u03BB\u03AC\u03B9- \u03A0\u03BF\u03BB\u03C5\u03BD\u03B7\u03C3\u03B9\u03B1\u03BA\u03AD\u03C2 \u03B3\u03BB\u03CE\u03C3\u03C3\u03B5\u03C2 \u03C4\u03B7\u03C2 \u0399\u03BD\u03B4\u03BF\u03BD\u03B7\u03C3\u03AF\u03B1\u03C2, \u03C4\u03B7\u03C2 \u039C\u03B1\u03BB\u03B1\u03B9\u03C3\u03AF\u03B1\u03C2 \u03BA\u03B1\u03B9 \u03C4\u03C9\u03BD \u03A6\u03B9\u03BB\u03B9\u03C0\u03C0\u03AF\u03BD\u03C9\u03BD, \u03BA\u03B1\u03B9 \u03C0\u03B9\u03BF \u03C3\u03C4\u03B5\u03BD\u03AC \u03BC\u03B5 \u03C4\u03B9\u03C2 \u03B1\u03BD\u03B1\u03C4\u03BF\u03BB\u03B9\u03BA\u03AD\u03C2 \u03B3\u03BB\u03CE\u03C3\u03C3\u03B5\u03C2 \u039C\u03C0\u03B1\u03C1\u03AF\u03C4\u03BF \u03C0\u03BF\u03C5 \u03BC\u03B9\u03BB\u03B9\u03BF\u03CD\u03BD\u03C4\u03B1\u03B9 \u03C3\u03C4\u03BF\u03BD \u03BD\u03B7\u03C3\u03AF \u0392\u03CC\u03C1\u03BD\u03B5\u03BF, \u03BC\u03B5 \u03B5\u03BE\u03B1\u03AF\u03C1\u03B5\u03C3\u03B7 \u03C4\u03B9\u03C2 \u03C0\u03BF\u03BB\u03C5\u03BD\u03B7\u03C3\u03B9\u03B1\u03BA\u03AD\u03C2 \u03BC\u03BF\u03C1\u03C6\u03BF\u03C6\u03C9\u03BD\u03B7\u03C4\u03B9\u03BA\u03AD\u03C2 \u03B4\u03B9\u03B1\u03C6\u03BF\u03C1\u03AD\u03C2 \u03C0\u03BF\u03C5 \u03AD\u03C7\u03B5\u03B9. \u03A3\u03CD\u03BC\u03C6\u03C9\u03BD\u03B1 \u03BC\u03B5 \u03C4\u03BF\u03BD \u03A1\u03CC\u03C4\u03B6\u03B5\u03C1 \u039C\u03C0\u03BB\u03B5\u03BD\u03C4\u03C2 \u03B7 \u03C0\u03C1\u03CE\u03B9\u03BC\u03B7 \u03BC\u03BF\u03C1\u03C6\u03AE \u03C4\u03B7\u03C2 \u03B3\u03BB\u03CE\u03C3\u03C3\u03B1\u03C2 \u03C0\u03BF\u03C5 \u03BC\u03B9\u03BB\u03B9\u03CC\u03C4\u03B1\u03BD\u03B5 \u03C3\u03C4\u03B7 \u039C\u03B1\u03B4\u03B1\u03B3\u03B1\u03C3\u03BA\u03AC\u03C1\u03B7 \u03BC\u03C0\u03BF\u03C1\u03B5\u03AF \u03BD\u03B1 \u03BC\u03B7\u03BD \u03B5\u03AF\u03C7\u03B5 \u03B1\u03C5\u03C3\u03C4\u03C1\u03BF\u03BD\u03B7\u03C3\u03B9\u03B1\u03BA\u03AC \u03B3\u03BB\u03C9\u03C3\u03C3\u03B9\u03BA\u03AC \u03C5\u03C0\u03BF\u03C3\u03C4\u03C1\u03CE\u03BC\u03B1\u03C4\u03B1."@el ,
+		"Malagasy (; Malagasy pronunciation: [\u02CCmala\u02C8\u0261as\u02B2]) is an Austronesian language and the national language of Madagascar. Most people in Madagascar speak it as a first language as do some people of Malagasy descent elsewhere."@en ,
+		"\u30DE\u30C0\u30AC\u30B9\u30AB\u30EB\u8A9E\uFF08Malagasy\u3001\u30DE\u30E9\u30AC\u30B7\uFF09\u306F\u30A2\u30D5\u30EA\u30AB\u6771\u90E8\u306E\u30A4\u30F3\u30C9\u6D0B\u306B\u6D6E\u304B\u3076\u30DE\u30C0\u30AC\u30B9\u30AB\u30EB\u5CF6\u3067\u8A71\u3055\u308C\u308B\u8A00\u8A9E\u3002\u30DE\u30C0\u30AC\u30B9\u30AB\u30EB\u5171\u548C\u56FD\u306E\u56FD\u8A9E\u3067\u3042\u308B\u3068\u5171\u306B\u3001\u30D5\u30E9\u30F3\u30B9\u8A9E\u3068\u4E26\u3093\u3067\u540C\u5171\u548C\u56FD\u306E\u516C\u7528\u8A9E\u3068\u306A\u3063\u3066\u3044\u308B\u3002 \u30DE\u30C0\u30AC\u30B9\u30AB\u30EB\u8A9E\u306F\u30AA\u30FC\u30B9\u30C8\u30ED\u30CD\u30B7\u30A2\u8A9E\u65CF\u30DE\u30EC\u30FC\u30FB\u30DD\u30EA\u30CD\u30B7\u30A2\u8A9E\u6D3E\u306B\u6240\u5C5E\u3059\u308B\u3002\u7D00\u51435\u4E16\u7D00\u9803\u306B\u30DE\u30EC\u30FC\u8AF8\u5CF6\u304B\u3089\u30A4\u30F3\u30C9\u6D0B\u3092\u8D8A\u3048\u3066\u79FB\u4F4F\u3057\u305F\u7D50\u679C\u3068\u3055\u308C\u308B\u3002\u3053\u306E\u79FB\u4F4F\u306B\u3064\u3044\u3066\u6B74\u53F2\u4E0A\u306E\u8A18\u9332\u306F\u4E00\u5207\u306A\u3044\u306E\u3067\u8A73\u7D30\u306F\u4E0D\u660E\u3060\u304C\u3001\u8A00\u8A9E\u5B66\u7684\u306B\u306F\u3001\uFF08\u30C0\u30E4\u30AF\u65CF\u306E\u8A00\u8A9E\uFF09\u306B\u542B\u307E\u308C\u3001\u30DC\u30EB\u30CD\u30AA\u5CF6\u306E\u306B\u8FD1\u3044\u3068\u3055\u308C\u308B\u3002 \u305D\u306E\u5F8C\u3001\u30A2\u30D5\u30EA\u30AB\u5927\u9678\u6D77\u5CB8\u90E8\u304B\u3089\u6765\u305F\u30D0\u30F3\u30C4\u30FC\u65CF\u3084\u4EA4\u6613\u76EE\u7684\u3067\u6765\u305F\u30A2\u30E9\u30D6\u4EBA\u306A\u3069\u3068\u6DF7\u8840\u3057\u3066\u3044\u308B\u305F\u3081\u3001\u30AA\u30FC\u30B9\u30C8\u30ED\u30CD\u30B7\u30A2\u8A9E\u3092\u57FA\u8ABF\u3068\u3057\u3064\u3064\u3082\u30D0\u30F3\u30C4\u30FC\u8A9E\u7CFB\u306E\u5358\u8A9E\u3001\u30A2\u30E9\u30D3\u30A2\u8A9E\u7CFB\u306E\u5358\u8A9E\u3001\u30B5\u30F3\u30B9\u30AF\u30EA\u30C3\u30C8\u8A9E\u7CFB\u306E\u5358\u8A9E\u304C\u6DF7\u3058\u308B\u3002"@ja ,
+		"El malgache (autoglot\u00F3nimo malagasy) es la lengua malayo-polinesia hablada pr\u00E1cticamente por la totalidad de la poblaci\u00F3n de Madagascar. En ese pa\u00EDs, la lengua malgache se considera la lengua nacional, pero comparte la condici\u00F3n de lengua oficial con el franc\u00E9s, que sigue siendo la lengua principal en los medios escritos y en la educaci\u00F3n. Existen tambi\u00E9n algunos hablantes de malgache en la isla francesa de Mayotte y en comunidades originarias de Madagascar asentadas en Reuni\u00F3n y Comoras."@es ,
+		"Malagasy, deutsch auch Malagassi bzw. die madagassische Sprache (franz\u00F6sisch Malgache), ist die Sprache der madagassischen Foko, der einheimischen Ethnien. Es ist die westlichste Sprache der austronesischen Sprachfamilie und neben Franz\u00F6sisch eine der Amtssprachen auf Madagaskar. Die am n\u00E4chsten verwandte Sprachen au\u00DFerhalb Madagaskars sind die Sprachen der Ost-Barito-Gruppe (darunter z. B. ) in der indonesischen Provinz Kalimantan Tengah, im S\u00FCden der Insel Borneo, die fast 7000 km von Madagaskar entfernt liegt. Das Malagasy gelangte zusammen mit Einwanderern aus S\u00FCdostasien nach Madagaskar. Unterschiedlichen Hypothesen zufolge fanden diese Wanderungsbewegungen entweder um 450 n. Chr. (Dahl 1951) oder im 7. Jahrhundert n. Chr. (Adelaar 1989) statt."@de ,
+		"Malagasi  adalah bahasa nasional Madagaskar yang dikelompokkan ke dalam rumpun bahasa Austronesia. Bahasa tersebut digunakan sebagai bahasa ibu oleh kebanyakan penduduk Madagaskar dan oleh orang keturunan Malagasi di tempat lain. Akibat hubungan perdagangan dan sejarah, bahasa Malagasi memiliki sejumlah kata pinjaman yang berasal dari bahasa Bantu, bahasa Arab, bahasa Prancis, serta bahasa Inggris."@in ,
+		"Teanga Mhalae-Pholain\u00E9iseach \u00ED an Mhalag\u00E1isis arb \u00ED an teanga is coitianta i Madagascar. N\u00EDl gaol n\u00E1 l\u00FAb ghaoil aici leis na teangacha a labhra\u00EDtear i m\u00F3r-roinn na hAfraice, n\u00F3 th\u00E1inig an teanga \u00F3 Bhoirneo ar dt\u00FAs, agus is i mBoirneo a chloistear teangacha gaolmhara. Is \u00ED an teanga Ma'anyan chois Abhainn Barito i mBoirneo an teanga is cos\u00FAla leis an Malag\u00E1isis at\u00E1 ann. T\u00E1 an teanga \u00F3 dh\u00FAchas ag fiche milli\u00FAn duine, a bheag n\u00F3 a mh\u00F3r, n\u00F3 formh\u00F3r m\u00F3r mhuintir Mhadagascar."@ga ,
+		"\u041C\u0430\u043B\u0430\u0433\u0430\u0441\u0438\u0301\u0439\u0441\u043A\u0438\u0439 \u044F\u0437\u044B\u0301\u043A ( malagasy; \u0443\u0441\u0442\u0430\u0440\u0435\u0432\u0448\u0430\u044F \u0440\u0443\u0441\u0441\u043A\u0430\u044F \u043F\u0435\u0440\u0435\u0434\u0430\u0447\u0430 \u2014 \u043C\u0430\u043B\u044C\u0433\u0430\u0448\u0441\u043A\u0438\u0439 \u044F\u0437\u044B\u043A, \u043E\u0442 \u0444\u0440. langue malgache) \u2014 \u044F\u0437\u044B\u043A \u043C\u0430\u043B\u0430\u0433\u0430\u0441\u0438\u0439\u0446\u0435\u0432, \u043D\u0430\u0441\u0435\u043B\u044F\u044E\u0449\u0438\u0445, \u0432 \u043E\u0441\u043D\u043E\u0432\u043D\u043E\u043C, \u043E\u0441\u0442\u0440\u043E\u0432 \u041C\u0430\u0434\u0430\u0433\u0430\u0441\u043A\u0430\u0440. \u0422\u0430\u043A\u0436\u0435 \u044F\u0432\u043B\u044F\u0435\u0442\u0441\u044F \u0433\u043E\u0441\u0443\u0434\u0430\u0440\u0441\u0442\u0432\u0435\u043D\u043D\u044B\u043C \u044F\u0437\u044B\u043A\u043E\u043C \u044D\u0442\u043E\u0433\u043E \u043E\u0441\u0442\u0440\u043E\u0432\u0430. \u041D\u043E\u0441\u0438\u0442\u0435\u043B\u0438 \u0436\u0438\u0432\u0443\u0442 \u0442\u0430\u043A\u0436\u0435 \u043D\u0430 \u0431\u043B\u0438\u0437\u043B\u0435\u0436\u0430\u0449\u0438\u0445 \u043E\u0441\u0442\u0440\u043E\u0432\u0430\u0445 \u0420\u0435\u044E\u043D\u044C\u043E\u043D, \u041A\u043E\u043C\u043E\u0440\u044B, \u0421\u0435\u0439\u0448\u0435\u043B\u044B \u0438 \u0434\u0440., \u0430 \u0442\u0430\u043A\u0436\u0435 \u0432\u043E \u0424\u0440\u0430\u043D\u0446\u0438\u0438 \u2014 \u0431\u044B\u0432\u0448\u0435\u0439 \u043A\u043E\u043B\u043E\u043D\u0438\u0430\u043B\u044C\u043D\u043E\u0439 \u043C\u0435\u0442\u0440\u043E\u043F\u043E\u043B\u0438\u0438."@ru ,
+		"Le malgache (en malgache : malagasy) est la langue nationale et l'une des langues officielles de Madagascar. C'est une langue normalis\u00E9e, principalement d\u00E9riv\u00E9e du dialecte parl\u00E9 sur les hautes terres centrales. Elle est la plus occidentale des langues malayo-polyn\u00E9siennes et donc des langues austron\u00E9siennes. Plus pr\u00E9cis\u00E9ment, elle appartient au rameau dit \u00AB Grand Barito \u00BB, dont les langues sont parl\u00E9es \u00E0 Kalimantan, la partie indon\u00E9sienne de l'\u00EEle de Born\u00E9o, dans l'actuelle r\u00E9gion de Banjarmasin, et comprennent notamment le ma'anyan, le samihim, le dusun deyah, mais aussi par des populations surnomm\u00E9es \u00AB nomades de la mer \u00BB, les Bajau. Dans cette r\u00E9gion, la langue dominante est aujourd'hui le malais, qui appartient \u00E0 un autre rameau malayo-polyn\u00E9sien.Le malgache est \u00E9galement parl\u00E9 \u00E0 Mayo"@fr ,
+		"El malgaix (malagasy en malgaix) \u00E9s la llengua parlada a Madagascar i a les illes Comores, Mayotte i Reuni\u00F3, mitjan\u00E7ant els contactes entre aquestes illes i Madagascar. Tanmateix nom\u00E9s \u00E9s oficial, juntament amb el franc\u00E8s, a Madagascar. Es compon d'una vintena de dialectes que corresponen a les 18 \u00E8tnies del pa\u00EDs. Aquesta representa la llengua m\u00E9s occidental de la branca malai-polin\u00E8sia de les lleng\u00FCes austron\u00E8sies. M\u00E9s concretament pertany al grup barito, les lleng\u00FCes del qual s\u00F3n parlades a Kalimantan, la part indon\u00E8sia de l'illa de Borneo, a l'actual regi\u00F3 de Banjarmasin i comprenen el ma'anyan, el samihim, el dusun deyah, etc. En aquesta regi\u00F3 la llengua dominant avui dia \u00E9s el malai, que pertany a un altre grup malai-polin\u00E8s."@ca ,
+		"De Malagasitalen vormen een taalfamilie van elf talen binnen de Oost-talen. Veel bronnen, zoals de Verenigde Naties en de Van Dale, omschrijven alle elf Malagasitalen als \u00E9\u00E9n taal, het Malagassisch of Malagasi. Ethnologue beschouwt sinds ISO 639-3 het Malagassisch als een macrotaal bestaande uit elf zelfstandige talen. Daarvoor werden deze beschouwd als dialecten. De talen hebben veel leenwoorden overgenomen uit Bantoetalen en het Arabisch, en in mindere mate uit het Swahili, Engels en Frans. Het Merina, een dialect van het Plateaumalagasi, is het enige echte \"offici\u00EBle\" Malagasi."@nl ,
+		"Il malgascio (in malgascio malagasy) \u00E8 la pi\u00F9 occidentale delle lingue maleo-polinesiache e quindi delle lingue austronesiane. \u00C8 la lingua nazionale del Madagascar ed \u00E8 parlata anche in alcune isole della zona (il termine malgascio viene anche usato per riferirsi alla popolazione del Madagascar). Il malgascio come lingua \u00E8 nato dall'ufficializzazione della lingua merina, parlata dal omonimo popolo. Le lingue delle altre etnie malgasce sono piuttosto simili e spesso classificate come dialetti del malgascio."@it ,
+		"Malgaxea (malagasy, \u02CCmala\u02C8\u0261as\u02B2 ahoskatua) Madagaskarko berezko hizkuntza nagusia da, Afrikan hitz egiten den  bakarra. 17.000.000 hiztun inguru ditu. Madagaskar geografikoki Afrikari dagokion arren, malgaxea ez da afrikarra, hau da, ez da hizkuntza afrikarren familien barnean sartzen: familia austronesiarraren kide da, zehazki, adar malaysiar-polinesiarrarena, malaysiera, javera, tagaloa, hawaiiera eta samoera bezalaxe. Hortaz, Afrikako hizkuntza austronesiar bakarra da."@eu ,
+		"\uB9D0\uB77C\uAC00\uC2DC\uC5B4(Fiteny malagasy)\uB294 \uB9C8\uB2E4\uAC00\uC2A4\uCE74\uB974\uC758 \uACF5\uC6A9\uC5B4\uC774\uC790, \uAD6D\uC5B4\uC774\uB2E4. \uC774 \uC5B8\uC5B4\uB294 \uC778\uB3C4\uB124\uC2DC\uC544\uC5B4\u318D\uB9D0\uB808\uC774\uC5B4\u318D\uD0C0\uAC08\uB85C\uADF8\uC5B4\u318D\uD558\uC640\uC774\uC5B4\uC640 \uC77C\uBD80 \uC720\uC0AC\uC131\uC774 \uC788\uC73C\uBA70, \uC544\uD504\uB9AC\uCE74\uC5D0\uC11C \uC720\uC77C\uD558\uAC8C \uC624\uC2A4\uD2B8\uB85C\uB124\uC2DC\uC544\uC5B4\uC871\uC5D0 \uC18D\uD558\uB294 \uC5B8\uC5B4\uC774\uB2E4. \uB2E4\uB978 \uC624\uC2A4\uD2B8\uB85C\uB124\uC2DC\uC544\uC5B4\uC871\uC5D0 \uC18D\uD558\uB294 \uC778\uB3C4\uB124\uC2DC\uC544\uC5B4, \uB9D0\uB808\uC774\uC5B4\uC640\uB294 \uC0AC\uCD0C \uAD00\uACC4\uC774\uBA70, \uB610\uD55C, \uD558\uC640\uC774\uC5B4\u318D\uB9C8\uC624\uB9AC\uC5B4\u318D\uD0C0\uAC08\uB85C\uADF8\uC5B4\uC640 \uAC19\uC740 \uC5B4\uC871\uC758 \uC5B8\uC5B4\uC774\uB2E4."@ko ,
+		"Malagassiska \u00E4r ett austronesiskt spr\u00E5k med 18 miljoner talare Malagassiska talas p\u00E5 Madagaskar, d\u00E4r det \u00E4r b\u00E5de officiellt och helt dominerande, samt p\u00E5 Komorerna, Mayotte och Seychellerna. De dialektala variationerna inom spr\u00E5ket \u00E4r stora och det finns tv\u00E5 huvudsakliga dialektgrupper, den \u00F6stra och den v\u00E4stra. \u00D6vriga austronesiska spr\u00E5k talas i Sydostasien och i Oceanien. Spr\u00E5ket kom sannolikt till Madagaskar p\u00E5 runt 400-talet e. kr. med folk fr\u00E5n syd\u00F6stra Borneo."@sv ,
+		"La malagasa lingvo estas parolata en Madagaskaro, kie \u011Di estas anka\u016D la \u015Dtata lingvo uzata apud la franca. Diference de la aliaj eksaj francaj kolonioj en Afriko, la malagasa havas realan uzon en sia lando. Ekde la jaro 1823 la lingvo havas skribsistemon bazitan sur la latina alfabeto. \u011Cis tiu tempo por nemultaj magiaj kaj astrologiaj skriba\u0135oj estis uzata la araba skribo. La moderna ortografio sin bazas \u0109efe sur la fonologiaj principoj kun negravaj esceptoj (litero i fine de vortoj estas skribata \u0109iam kiel y kaj la litero o estas legata kiel [u])."@eo ,
+		"O malgaxe (malagasy) \u00E9 uma l\u00EDngua malaio-polin\u00E9sia falada por praticamente toda a popula\u00E7\u00E3o de Madagascar. Em Madagascar, a l\u00EDngua malgaxe \u00E9 considerada a l\u00EDngua nacional, mas divide a condi\u00E7\u00E3o de l\u00EDngua oficial com o franc\u00EAs, que continua sendo a l\u00EDngua principal nos meios escritos e na educa\u00E7\u00E3o. Existem tamb\u00E9m alguns falantes de malgaxe na ilha francesa de Mayotte e em comunidades origin\u00E1rias de Madagascar assentadas em Reuni\u00E3o (Fran\u00E7a), Comores e outros pa\u00EDses."@pt ,
+		"\u99AC\u62C9\u52A0\u65AF\u8A9E \uFF08Malagasy\uFF0Cmaa.laa.gaas\uFF09 \u662F\u4E00\u7A2E\u5357\u5CF6\u8A9E\u7CFB\u8A9E\u8A00\uFF0C\u70BA\u99AC\u9054\u52A0\u65AF\u52A0\u7684\u5B98\u65B9\u8A9E\u8A00\u4E4B\u4E00\uFF0C\u99AC\u62C9\u52A0\u65AF\u8A9E\u63A5\u8FD1\u65BC\u5A46\u7F85\u6D32\u5357\u90E8\uFF0C\u5357\u52A0\u91CC\u66FC\u4E39\u5DF4\u91CC\u6258\u6CB3\u4E00\u5E36\u7684\u8A9E\u8A00\uFF0C\u5C24\u5176\u662F\u670990%\u8A5E\u5F59\u8207\u76F8\u540C\u3002\u9019\u662F\u56E0\u70BA\u99AC\u9054\u52A0\u65AF\u52A0\u5728\u4E00\u5343\u4E94\u767E\u5230\u5169\u5343\u5E74\u524D\u88AB\u5370\u5C3C\u4EBA\u6B96\u6C11\u6642\uFF0C\u8A31\u591A\u7684\u4EBA\u662F\u4F86\u81EA\u5A46\u7F57\u6D32\u7684\u7DE3\u6545\u3002\u73FE\u4EE3\u7684\u99AC\u9054\u52A0\u65AF\u52A0\u4EBA\u662F\u539F\u672C\u7684\u5370\u5C3C\u6B96\u6C11\u8005\u548C\u6771\u90E8\u975E\u6D32\u4EBA\u8207\u963F\u62C9\u4F2F\u4EBA\u6DF7\u8840\u800C\u6210\u7684\uFF0C\u73FE\u4EE3\u7684\u99AC\u62C9\u52A0\u65AF\u8A9E\u4E2D\u4E5F\u6709\u4E00\u4E9B\u4F86\u81EA\u82F1\u8A9E\u3001\u6CD5\u8A9E\u3001\u975E\u6D32\u73ED\u5716\u4EBA\u8A9E\u8A00\u548C\u963F\u62C9\u4F2F\u8A9E\u7684\u501F\u8A5E\u3002 \u99AC\u62C9\u52A0\u65AF\u8A9E\u7684\u57FA\u672C\u8A9E\u5E8F\u70BAVOS\u9806\u5E8F\u3002"@zh ,
+		"J\u0119zyk malgaski (Fiteny malagasy) \u2013 j\u0119zyk nale\u017C\u0105cy do rodziny austronezyjskiej, zaliczany do grupy . Najbli\u017Cej jest spokrewniony z j\u0119zykami u\u017Cywanymi w indonezyjskiej cz\u0119\u015Bci Borneo (m.in. z j\u0119zykiem ma\u2019anyan), dalsze pokrewie\u0144stwo za\u015B \u0142\u0105czy go z pozosta\u0142ymi j\u0119zykami austronezyjskimi Indonezji. J\u0119zyk malgaski u\u017Cywany jest g\u0142\u00F3wnie na Madagaskarze (gdzie jest j\u0119zykiem urz\u0119dowym) oraz przez skupiska os\u00F3b pochodzenia malgaskiego na Komorach, Reunionie i Majottcie."@pl ,
+		"\u041C\u0430\u043B\u0430\u0433\u0430\u0441\u0456\u0301\u0439\u0441\u044C\u043A\u0430 \u043C\u043E\u0301\u0432\u0430 ( malagasy) \u2014 \u043C\u043E\u0432\u0430 \u0430\u0432\u0441\u0442\u0440\u043E\u043D\u0435\u0437\u0456\u0439\u0441\u044C\u043A\u043E\u0457 \u043C\u043E\u0432\u043D\u043E\u0457 \u0440\u043E\u0434\u0438\u043D\u0438, \u0440\u0456\u0434\u043D\u0430 \u0434\u043B\u044F \u043C\u0430\u043B\u0430\u0433\u0430\u0441\u0456\u0439\u0446\u0456\u0432, \u0449\u043E \u0441\u0442\u0430\u043D\u043E\u0432\u043B\u044F\u0442\u044C \u0431\u0456\u043B\u044C\u0448\u0456\u0441\u0442\u044C \u043D\u0430\u0441\u0435\u043B\u0435\u043D\u043D\u044F \u041C\u0430\u0434\u0430\u0433\u0430\u0441\u043A\u0430\u0440\u0443 (\u043F\u043E\u043D\u0430\u0434 20 \u043C\u043B\u043D). \u041D\u0430 \u041C\u0430\u0434\u0430\u0433\u0430\u0441\u043A\u0430\u0440\u0456 \u043C\u0430\u043B\u0430\u0433\u0430\u0441\u0456\u0439\u0441\u044C\u043A\u0430 \u043C\u043E\u0432\u0430 \u043E\u0444\u0456\u0446\u0456\u0439\u043D\u0430 \u043D\u0430\u0440\u0456\u0432\u043D\u0456 \u0437 \u0444\u0440\u0430\u043D\u0446\u0443\u0437\u044C\u043A\u043E\u044E."@uk ,
+		"\u0627\u0644\u0644\u063A\u0629 \u0627\u0644\u0645\u0644\u063A\u0627\u0634\u064A\u0629 (\u0628\u0627\u0644\u0645\u0644\u063A\u0627\u0634\u064A\u0629: Malagasy) \u0647\u064A \u0627\u0644\u0644\u063A\u0629 \u0627\u0644\u0648\u0637\u0646\u064A\u0629 \u0627\u0644\u0631\u0633\u0645\u064A\u0629 \u0641\u064A \u0645\u062F\u063A\u0634\u0642\u0631\u060C \u0648\u0647\u064A \u062A\u0646\u062A\u0645\u064A \u0625\u0644\u0649 \u0639\u0627\u0626\u0644\u0629 \u0627\u0644\u0644\u063A\u0627\u062A \u0627\u0644\u0623\u0633\u062A\u0631\u0648\u0646\u064A\u0632\u064A\u0629 \u0645\u062B\u0644 \u0627\u0644\u0625\u0646\u062F\u0648\u0646\u064A\u0633\u064A\u0629 \u0648 \u0627\u0644\u0645\u0644\u0627\u0648\u064A\u0629. \u0623\u063A\u0644\u0628\u064A\u0629 \u0633\u0643\u0627\u0646 \u0645\u062F\u063A\u0634\u0642\u0631 \u064A\u062A\u062D\u062F\u062B\u0648\u0646 \u0628\u0647\u0627 \u0643\u0644\u063A\u0629 \u0623\u0648\u0644\u0649. \u0639\u062F\u062F \u0627\u0644\u0645\u062A\u062D\u062F\u062B\u064A\u0646 \u064A\u0628\u0644\u063A \u062D\u0648\u0627\u0644\u064A 20 \u0645\u0644\u064A\u0648\u0646 \u0646\u0627\u0637\u0642."@ar ,
+		"Malga\u0161tina (malga\u0161sky fiteny malagasy) je jazyk, j\u00EDm\u017E se hovo\u0159\u00ED p\u0159edev\u0161\u00EDm na Madagaskaru a okoln\u00EDch ostrovech. Nen\u00ED p\u0159\u00EDbuzn\u00FD s \u017E\u00E1dn\u00FDmi dal\u0161\u00EDmi africk\u00FDmi jazyky - Madagaskar byl os\u00EDdlen austron\u00E9sk\u00FDmi mo\u0159eplavci zpoza Indick\u00E9ho oce\u00E1nu zhruba v 2.-5. stolet\u00ED, a malga\u0161tina tak pat\u0159\u00ED do skupiny malajsko-polyn\u00E9sk\u00FDch jazyk\u016F, mezi nimi\u017E m\u00E1 nejbl\u00ED\u017Ee k , jimi\u017E se hovo\u0159\u00ED na jihov\u00FDchodn\u00EDm Borneu. Nejv\u011Bt\u0161\u00ED \u010D\u00E1st slovn\u00ED z\u00E1soby sd\u00EDl\u00ED s , kterou se hovo\u0159\u00ED v povod\u00ED bornejsk\u00E9 \u0159eky Barito. Obsahuje rovn\u011B\u017E \u0159adu p\u0159ej\u00EDmek z arab\u0161tiny a bantusk\u00FDch jazyk\u016F, jmenovit\u011B ze svahil\u0161tiny a d\u00E1le ze sanskrtu a z francouz\u0161tiny."@cs ;
+	foaf:name	"Malagasy"@en ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Malagasy_bible.png> ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Malagasy_language .
+@prefix dct:	<http://purl.org/dc/terms/> .
+dbr:Malagasy_language	dct:subject	<http://dbpedia.org/resource/Category:Verb\u2013object\u2013subject_languages> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Malagasy_language	dct:subject	dbc:Malagasy_language ,
+		dbc:Languages_of_the_Comoros ,
+		dbc:Languages_of_Madagascar ;
+	owl:sameAs	<http://de.dbpedia.org/resource/Malagasy_(Sprache)> ,
+		<http://fa.dbpedia.org/resource/\u0632\u0628\u0627\u0646_\u0645\u0627\u0644\u0627\u06AF\u0627\u0633\u06CC> ,
+		<http://el.dbpedia.org/resource/\u039C\u03B1\u03BB\u03B1\u03B3\u03B1\u03C3\u03B9\u03BA\u03AE_\u03B3\u03BB\u03CE\u03C3\u03C3\u03B1> ,
+		<http://sh.dbpedia.org/resource/Malaga\u0161ki_jezik> .
+@prefix dbpedia-sw:	<http://sw.dbpedia.org/resource/> .
+dbr:Malagasy_language	owl:sameAs	dbpedia-sw:Kimalagasy ,
+		<http://be.dbpedia.org/resource/\u041C\u0430\u043B\u0430\u0433\u0430\u0441\u0456\u0439\u0441\u043A\u0430\u044F_\u043C\u043E\u0432\u0430> ,
+		<http://pnb.dbpedia.org/resource/\u0645\u0627\u0644\u0627\u06AF\u0627\u0633\u06CC> ,
+		<http://am.dbpedia.org/resource/\u1218\u1208\u130B\u1232> ,
+		<http://lv.dbpedia.org/resource/Malga\u0161u_valoda> ,
+		<http://oc.dbpedia.org/resource/Malgash_(lenga)> .
+@prefix dbpedia-fi:	<http://fi.dbpedia.org/resource/> .
+dbr:Malagasy_language	owl:sameAs	dbpedia-fi:Malagassi .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:Malagasy_language	owl:sameAs	dbpedia-es:Idioma_malgache .
+@prefix ns18:	<http://qu.dbpedia.org/resource/> .
+dbr:Malagasy_language	owl:sameAs	ns18:Malagasi_simi ,
+		<http://vi.dbpedia.org/resource/Ti\u1EBFng_Malagasy> .
+@prefix dbpedia-pms:	<http://pms.dbpedia.org/resource/> .
+dbr:Malagasy_language	owl:sameAs	dbpedia-pms:Malgass .
+@prefix dbpedia-io:	<http://io.dbpedia.org/resource/> .
+dbr:Malagasy_language	owl:sameAs	dbpedia-io:Malagasi-linguo ,
+		<http://ja.dbpedia.org/resource/\u30DE\u30C0\u30AC\u30B9\u30AB\u30EB\u8A9E> .
+@prefix ns21:	<http://ceb.dbpedia.org/resource/> .
+dbr:Malagasy_language	owl:sameAs	ns21:Pinulongang_Malgatse ,
+		<http://zh.dbpedia.org/resource/\u9A6C\u62C9\u52A0\u65AF\u8BED> ,
+		<http://ar.dbpedia.org/resource/\u0627\u0644\u0644\u063A\u0629_\u0627\u0644\u0645\u0644\u063A\u0627\u0634\u064A\u0629> ,
+		<http://tr.dbpedia.org/resource/Malga\u015F\u00E7a> ,
+		<http://bn.dbpedia.org/resource/\u09AE\u09BE\u09B2\u09BE\u0997\u09BE\u09B8\u09BF_\u09AD\u09BE\u09B7\u09BE> .
+@prefix ns22:	<http://mg.dbpedia.org/resource/> .
+dbr:Malagasy_language	owl:sameAs	ns22:Fiteny_malagasy .
+@prefix ns23:	<http://ia.dbpedia.org/resource/> .
+dbr:Malagasy_language	owl:sameAs	ns23:Lingua_malgache .
+@prefix dbpedia-sv:	<http://sv.dbpedia.org/resource/> .
+dbr:Malagasy_language	owl:sameAs	dbpedia-sv:Malagassiska .
+@prefix dbpedia-gl:	<http://gl.dbpedia.org/resource/> .
+dbr:Malagasy_language	owl:sameAs	dbpedia-gl:Lingua_malgaxe .
+@prefix ns26:	<http://sco.dbpedia.org/resource/> .
+dbr:Malagasy_language	owl:sameAs	ns26:Malagasy_leid .
+@prefix dbpedia-id:	<http://id.dbpedia.org/resource/> .
+dbr:Malagasy_language	owl:sameAs	dbpedia-id:Bahasa_Malagasi .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Malagasy_language	owl:sameAs	dbpedia-it:Lingua_malgascia ,
+		<http://azb.dbpedia.org/resource/\u0645\u0627\u0644\u0627\u0642\u0633\u06CC_\u062F\u06CC\u0644\u06CC> .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Malagasy_language	owl:sameAs	dbpedia-nl:Malagasitalen ,
+		<http://ta.dbpedia.org/resource/\u0BAE\u0BB2\u0B95\u0B9A\u0BBF_\u0BAE\u0BCA\u0BB4\u0BBF> .
+@prefix ns30:	<http://ast.dbpedia.org/resource/> .
+dbr:Malagasy_language	owl:sameAs	ns30:Idioma_malgax ,
+		<http://ka.dbpedia.org/resource/\u10DB\u10D0\u10DA\u10D0\u10D2\u10D0\u10E1\u10D8\u10E3\u10E0\u10D8_\u10D4\u10DC\u10D0> .
+@prefix dbpedia-et:	<http://et.dbpedia.org/resource/> .
+dbr:Malagasy_language	owl:sameAs	dbpedia-et:Malagassi_keel .
+@prefix dbpedia-no:	<http://no.dbpedia.org/resource/> .
+dbr:Malagasy_language	owl:sameAs	dbpedia-no:Gassisk ,
+		<http://mr.dbpedia.org/resource/\u092E\u093E\u0932\u093E\u0917\u093E\u0938\u0940_\u092D\u093E\u0937\u093E> .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Malagasy_language	owl:sameAs	dbpedia-fr:Malgache ,
+		<https://global.dbpedia.org/id/4xEB3> .
+@prefix dbpedia-af:	<http://af.dbpedia.org/resource/> .
+dbr:Malagasy_language	owl:sameAs	dbpedia-af:Malgassies ,
+		<http://pt.dbpedia.org/resource/L\u00EDngua_malgaxe> ,
+		<http://uk.dbpedia.org/resource/\u041C\u0430\u043B\u0430\u0433\u0430\u0441\u0456\u0439\u0441\u044C\u043A\u0430_\u043C\u043E\u0432\u0430> ,
+		<http://rdf.freebase.com/ns/m.01y5t6> .
+@prefix dbpedia-la:	<http://la.dbpedia.org/resource/> .
+dbr:Malagasy_language	owl:sameAs	dbpedia-la:Lingua_Malagasiana .
+@prefix dbpedia-ca:	<http://ca.dbpedia.org/resource/> .
+dbr:Malagasy_language	owl:sameAs	dbpedia-ca:Malgaix ,
+		wikidata:Q7930 ,
+		<http://cs.dbpedia.org/resource/Malga\u0161tina> ,
+		<http://ko.dbpedia.org/resource/\uB9D0\uB77C\uAC00\uC2DC\uC5B4> ,
+		<http://bg.dbpedia.org/resource/\u041C\u0430\u043B\u0433\u0430\u0448\u043A\u0438_\u0435\u0437\u0438\u043A> .
+@prefix dbpedia-sq:	<http://sq.dbpedia.org/resource/> .
+dbr:Malagasy_language	owl:sameAs	dbpedia-sq:Gjuha_madagaskare ,
+		<http://lt.dbpedia.org/resource/Malagasi\u0173_kalba> ,
+		<http://da.dbpedia.org/resource/Malagassisk_(sprog)> ,
+		<http://he.dbpedia.org/resource/\u05DE\u05DC\u05D2\u05E9\u05D9\u05EA> .
+@prefix ns38:	<http://jv.dbpedia.org/resource/> .
+dbr:Malagasy_language	owl:sameAs	ns38:Basa_Malagasy ,
+		<http://ku.dbpedia.org/resource/Ziman\u00EA_malagas\u00EE> ,
+		<http://sr.dbpedia.org/resource/\u041C\u0430\u043B\u0433\u0430\u0448\u043A\u0438_\u0458\u0435\u0437\u0438\u043A> ,
+		<http://is.dbpedia.org/resource/Malagas\u00EDska> ,
+		<http://hi.dbpedia.org/resource/\u092E\u093E\u0932\u093E\u0917\u093E\u0938\u0940_\u092D\u093E\u0937\u093E> ,
+		<http://th.dbpedia.org/resource/\u0E20\u0E32\u0E29\u0E32\u0E21\u0E32\u0E25\u0E32\u0E01\u0E32\u0E0B\u0E35> ,
+		<http://hr.dbpedia.org/resource/Malga\u0161ki_jezik> ,
+		<http://eu.dbpedia.org/resource/Malgaxe_(hizkuntza)> .
+@prefix dbpedia-eo:	<http://eo.dbpedia.org/resource/> .
+dbr:Malagasy_language	owl:sameAs	dbpedia-eo:Malagasa_lingvo ,
+		<http://ur.dbpedia.org/resource/\u0645\u0627\u0644\u0627\u06AF\u0627\u0633\u06CC> .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Malagasy_language	owl:sameAs	yago-res:Malagasy_language .
+@prefix dbpedia-ms:	<http://ms.dbpedia.org/resource/> .
+dbr:Malagasy_language	owl:sameAs	dbpedia-ms:Bahasa_Malagasi ,
+		<http://ga.dbpedia.org/resource/An_Mhalag\u00E1isis> ,
+		<http://ru.dbpedia.org/resource/\u041C\u0430\u043B\u0430\u0433\u0430\u0441\u0438\u0439\u0441\u043A\u0438\u0439_\u044F\u0437\u044B\u043A> .
+@prefix dbpedia-nn:	<http://nn.dbpedia.org/resource/> .
+dbr:Malagasy_language	owl:sameAs	dbpedia-nn:Gassisk ,
+		<http://pl.dbpedia.org/resource/J\u0119zyk_malgaski> ,
+		<http://ml.dbpedia.org/resource/\u0D2E\u0D32\u0D17\u0D3E\u0D38\u0D3F_\u0D2D\u0D3E\u0D37> ,
+		<http://d-nb.info/gnd/4100041-9> .
+@prefix dbpedia-br:	<http://br.dbpedia.org/resource/> .
+dbr:Malagasy_language	owl:sameAs	dbpedia-br:Malagasieg ,
+		<http://mk.dbpedia.org/resource/\u041C\u0430\u043B\u0433\u0430\u0448\u043A\u0438_\u0458\u0430\u0437\u0438\u043A> ,
+		dbr:Malagasy_language .
+@prefix ns44:	<http://tl.dbpedia.org/resource/> .
+dbr:Malagasy_language	owl:sameAs	ns44:Wikang_Malagasy .
+@prefix ns45:	<http://uz.dbpedia.org/resource/> .
+dbr:Malagasy_language	owl:sameAs	ns45:Malagasi_tili ,
+		<http://ro.dbpedia.org/resource/Limba_malga\u0219\u0103> ,
+		<http://ky.dbpedia.org/resource/\u041C\u0430\u043B\u0430\u0433\u0430\u0441\u0438_\u0442\u0438\u043B\u0438> .
+@prefix dbpedia-az:	<http://az.dbpedia.org/resource/> .
+dbr:Malagasy_language	owl:sameAs	dbpedia-az:Malaqasi_dili .
+@prefix dbpedia-simple:	<http://simple.dbpedia.org/resource/> .
+dbr:Malagasy_language	owl:sameAs	dbpedia-simple:Malagasy_language ;
+	dbp:fam	dbr:East_Barito_languages ,
+		dbr:Barito_languages ,
+		dbr:Malayo-Polynesian_languages ;
+	dbp:glotto	"mala1537"@en ;
+	dbp:glottorefname	"Malagasic"@en ;
+	dbp:iso	"mg"@en ,
+		"mlg"@en ;
+	dbp:notice	"IPA"@en ;
+	dbp:script	dbr:International_uniformity_of_braille_alphabets ,
+		dbr:Latin_script ;
+	dbo:iso6392Code	"mlg" ;
+	dbp:nativename	""@en ;
+	dbo:iso6393Code	"mlg" ;
+	dbo:languageFamily	dbr:East_Barito_languages ,
+		dbr:Barito_languages ,
+		dbr:Malayo-Polynesian_languages .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Malagasy_language	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Malagasy_language?oldid=985961328&ns=0> ;
+	dbo:spokenIn	dbr:Comoros ,
+		dbr:Madagascar ;
+	dbp:date	2015 ;
+	dbp:states	dbr:Comoros ,
+		dbr:Madagascar ;
+	dbp:name	"Malagasy"@en ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Malagasy_bible.png?width=300> ;
+	dbo:wikiPageID	22121673 ;
+	dbo:wikiPageRevisionID	985961328 ;
+	dbo:wikiPageWikiLink	dbr:Malay_Archipelago ,
+		dbc:Languages_of_Madagascar ,
+		dbr:Isogloss ,
+		dbr:Jean-Joseph_Rabearivelo ,
+		dbc:Languages_of_the_Comoros ,
+		dbr:Mauritius ,
+		dbr:Retroflex_consonant ,
+		dbr:Comoros ,
+		dbr:Head-directionality_parameter ,
+		dbr:Lateral_consonant ,
+		<http://dbpedia.org/resource/Palatalization_(phonetics)> ,
+		dbr:Dental_consonant ,
+		dbr:Madagascar ,
+		dbr:Word_order ,
+		<http://dbpedia.org/resource/David_Jones_(missionary)> ,
+		dbr:Malayo-Polynesian_languages ,
+		dbr:Malaysia ,
+		dbr:Philippines ,
+		dbr:Hainteny ,
+		dbr:Voiced_palatal_nasal ,
+		dbr:Tetum_language ,
+		dbr:History_of_the_Malay_language ,
+		dbr:Bantu_peoples ,
+		dbr:Overseas_France ,
+		dbr:Sorabe_alphabet ,
+		dbr:Coastal_Kadazan_dialect ,
+		dbr:Barito_languages ,
+		dbr:Fijian_language ,
+		dbr:History_of_Madagascar ,
+		dbr:Tongan_language ,
+		dbr:Bantu_languages ,
+		<http://dbpedia.org/resource/Category:Verb\u2013object\u2013subject_languages> ,
+		dbr:Tsimihety_people ,
+		<http://dbpedia.org/resource/Ma\u0027anyan_people> ,
+		dbr:Sunda_Islands ,
+		dbr:Adriaan_Reland ,
+		dbr:Prenasalized_consonant ,
+		dbr:Antaisaka_people ,
+		dbr:Bushi_language ,
+		dbr:Fanorona ,
+		dbr:Arabic ,
+		dbr:Portuguese_language ,
+		dbr:Sakalava_people ,
+		dbr:Voiced_velar_nasal ,
+		dbr:Merina_people ,
+		dbr:Ilocano_language ,
+		<http://dbpedia.org/resource/Verb\u2013object\u2013subject> ,
+		dbr:Barito_River ,
+		dbr:Elision ,
+		dbr:Bara_people ,
+		dbr:Ibonia ,
+		dbr:Javanese_people ,
+		dbr:Missionary ,
+		dbr:Sabaki_languages ,
+		dbr:Lexical_similarity ,
+		dbr:Proto-Austronesian_language ,
+		dbr:Tilde ,
+		<http://dbpedia.org/resource/Ma\u0027anyan_language> ,
+		dbr:Betsimisaraka_people ,
+		<http://dbpedia.org/resource/T\u00F4lanaro> ,
+		<http://dbpedia.org/resource/File:WIKITONGUES-_Candy_speaking_Malagasy.webm> ,
+		<http://dbpedia.org/resource/File:Malagasy_bible.png> ,
+		<http://dbpedia.org/resource/File:Sorabe_malagasy.jpg> ,
+		<http://dbpedia.org/resource/File:VocabulaireMalgache1773BULAC.JPG> ,
+		<http://dbpedia.org/resource/File:Map_of_Malagasy_language_dialects.svg> ,
+		dbr:Antandroy ,
+		dbr:United_States ,
+		dbr:Antanosy_people ,
+		dbr:Antankarana ,
+		dbr:Velar_consonant ,
+		dbr:Mahafaly ,
+		dbr:Glottal_consonant ,
+		dbr:Plosive ,
+		dbr:Rhotic_consonant ,
+		dbr:Voicelessness ,
+		dbr:Samoan_language ,
+		dbr:Back_vowel ,
+		dbr:Nasal_consonant ,
+		<http://dbpedia.org/resource/Washington,_D.C.> ,
+		dbr:Comoro_Islands ,
+		dbr:Indonesia ,
+		dbr:Close_vowel ,
+		dbr:Kadazandusun_language ,
+		dbr:Malaysian_language ,
+		dbr:Belgium ,
+		<http://dbpedia.org/resource/Voice_(phonetics)> ,
+		dbr:Central_vowel ,
+		dbr:Alveolar_consonant ,
+		dbr:Fricative ,
+		dbr:Front_vowel ,
+		dbr:Mid_vowel ,
+		dbr:Sibilant ,
+		dbr:Open_vowel ,
+		dbr:Austronesian_peoples ,
+		dbr:Ajami_script ,
+		dbr:Diacritic ,
+		dbr:Trilled_affricate ,
+		dbr:Maritime_Southeast_Asia ,
+		dbr:Indonesian_language ,
+		<http://dbpedia.org/resource/Malays_(ethnic_group)> ,
+		dbc:Malagasy_language ,
+		dbr:Evidentiality ,
+		dbr:Radama_I ,
+		dbr:Italian_language ,
+		dbr:Orthography ,
+		dbr:Borneo ,
+		dbr:Pausa ,
+		dbr:Bilabial_consonant ,
+		dbr:Malagasy_people ,
+		dbr:International_uniformity_of_braille_alphabets ,
+		dbr:Arabs ,
+		dbr:Grave_accent ,
+		dbr:Deixis ,
+		dbr:Maldives ,
+		dbr:Tagalog_language ,
+		dbr:Austronesian_languages ,
+		dbr:East_Barito_languages ,
+		dbr:Javanese_language ,
+		dbr:Malay_language ,
+		<http://dbpedia.org/resource/\u00C9tienne_de_Flacourt> ,
+		dbr:Circumflex ,
+		dbr:Swahili_language ,
+		dbr:Mayotte ,
+		dbr:Labiodental_consonant ,
+		dbr:Affricate ,
+		dbr:Trill_consonant ,
+		dbr:Chamorro_language ,
+		dbr:Latin_script ,
+		dbr:Masikoro ,
+		dbr:Acute_accent ,
+		dbr:Bible ,
+		dbr:Ethnologue ,
+		<http://dbpedia.org/resource/Diaeresis_(diacritic)> ,
+		dbr:Languages_of_Madagascar ,
+		dbr:London_Missionary_Society ,
+		dbr:Phonotactics ;
+	dbo:wikiPageExternalLink	<http://users.ox.ac.uk/~cpgl0015/pargram/1Frfirstpage.htm> ,
+		<https://books.google.com/books%3Fprintsec=frontcover&id=-H5Yj7Eki3YC%23v=onepage&q&f=false> ,
+		<https://web.archive.org/web/20070701230930/http:/www.websters-online-dictionary.org/definition/Malagasy-english/> ,
+		<http://www.freelang.com/enligne/malgache.php> .
+@prefix ns49:	<http://en.wiktionary.org/wiki/Appendix:> .
+dbr:Malagasy_language	dbo:wikiPageExternalLink	ns49:Malagasy_Swadesh_list ,
+		<http://www.madabibliq.org/> ,
+		<http://folk.uio.no/janengh/gassisk/> ,
+		<http://folk.uio.no/janengh/gassisk/MCScr.pdf> ,
+		<http://www.encyclopediemalgache.org/bins/alphaLists%3Flang=fr> ,
+		<http://wold.clld.org/vocabulary/28> ,
+		ns49:Swadesh_lists ,
+		<http://dominicweb.eu/en/malagasy/> .
+@prefix dbt:	<http://dbpedia.org/resource/Template:> .
+dbr:Malagasy_language	dbp:wikiPageUsesTemplate	dbt:Sigfig ,
+		dbt:Bornean_languages ,
+		dbt:Angbr ,
+		dbt:Authority_control ,
+		dbt:Citation_needed ,
+		dbt:Reflist ,
+		dbt:Short_description ,
+		dbt:Wikivoyage ,
+		dbt:Angle_bracket ,
+		dbt:Sc ,
+		dbt:ISBN ,
+		dbt:Small ,
+		dbt:IPA-mg ,
+		dbt:Languages_of_Comoros ,
+		dbt:Languages_of_Madagascar ,
+		dbt:Cite_journal ,
+		dbt:IPA ,
+		dbt:Infobox_language ,
+		dbt:InterWiki ,
+		dbt:IPA-fr ,
+		dbt:MAD ,
+		dbt:Commons_category ,
+		dbt:Not_a_typo ,
+		dbt:Portal ,
+		dbt:IPAc-en ;
+	dbo:abstract	"Malgaxea (malagasy, \u02CCmala\u02C8\u0261as\u02B2 ahoskatua) Madagaskarko berezko hizkuntza nagusia da, Afrikan hitz egiten den  bakarra. 17.000.000 hiztun inguru ditu. Madagaskar geografikoki Afrikari dagokion arren, malgaxea ez da afrikarra, hau da, ez da hizkuntza afrikarren familien barnean sartzen: familia austronesiarraren kide da, zehazki, adar malaysiar-polinesiarrarena, malaysiera, javera, tagaloa, hawaiiera eta samoera bezalaxe. Hortaz, Afrikako hizkuntza austronesiar bakarra da."@eu ,
+		"\u0397 \u039C\u03B1\u03BB\u03B1\u03B3\u03B1\u03C3\u03B9\u03BA\u03AE \u03B3\u03BB\u03CE\u03C3\u03C3\u03B1 \u03B1\u03BD\u03AE\u03BA\u03B5\u03B9 \u03C3\u03C4\u03B7\u03BD \u0391\u03C5\u03C3\u03C4\u03C1\u03BF\u03BD\u03B7\u03C3\u03B9\u03B1\u03BA\u03AE \u03BF\u03BC\u03AC\u03B4\u03B1 \u03B3\u03BB\u03C9\u03C3\u03C3\u03CE\u03BD \u03BA\u03B1\u03B9 \u03B5\u03AF\u03BD\u03B1\u03B9 \u03B7 \u03B5\u03B8\u03BD\u03B9\u03BA\u03AE \u03B3\u03BB\u03CE\u03C3\u03C3\u03B1 \u03C4\u03B7\u03C2 \u039C\u03B1\u03B4\u03B1\u03B3\u03B1\u03C3\u03BA\u03AC\u03C1\u03B7\u03C2. \u0395\u03AF\u03BD\u03B1\u03B9 \u03C4\u03BF \u03B4\u03C5\u03C4\u03B9\u03BA\u03CC\u03C4\u03B5\u03C1\u03BF \u03BC\u03AD\u03BB\u03BF\u03C2 \u03C4\u03B7\u03C2 \u03C5\u03C0\u03BF\u03BF\u03BC\u03AC\u03B4\u03B1\u03C2 \u039C\u03B1\u03BB\u03AC\u03B9- \u03A0\u03BF\u03BB\u03C5\u03BD\u03B7\u03C3\u03B9\u03B1\u03BA\u03AC \u03C0\u03BF\u03C5 \u03B1\u03BD\u03AE\u03BA\u03B5\u03B9 \u03C3\u03C4\u03B7\u03BD \u03B1\u03C5\u03C3\u03C4\u03C1\u03BF\u03BD\u03B7\u03C3\u03B9\u03B1\u03BA\u03AE \u03BF\u03BC\u03AC\u03B4\u03B1. \u0397 \u03B4\u03B9\u03B1\u03C6\u03BF\u03C1\u03B5\u03C4\u03B9\u03BA\u03CC\u03C4\u03B7\u03C4\u03B1 \u03C4\u03B7\u03C2 \u03B3\u03BB\u03CE\u03C3\u03C3\u03B1\u03C2 \u03B1\u03C0\u03CC \u03C4\u03B9\u03C2 \u03B3\u03B5\u03B9\u03C4\u03BF\u03BD\u03B9\u03BA\u03AD\u03C2 \u03B1\u03C6\u03C1\u03B9\u03BA\u03AC\u03BD\u03B9\u03BA\u03B5\u03C2 \u03B3\u03BB\u03CE\u03C3\u03C3\u03B5\u03C2 \u03B5\u03C0\u03B9\u03C3\u03B7\u03BC\u03AC\u03BD\u03B8\u03B7\u03BA\u03B5 \u03C4\u03BF 1708 \u03B1\u03C0\u03CC \u03C4\u03BF\u03BD \u03BF\u03BB\u03BB\u03B1\u03BD\u03B4\u03CC \u03BB\u03CC\u03B3\u03B9\u03BF \u0386\u03BD\u03C4\u03C1\u03B9\u03B1\u03BD \u03A1\u03AD\u03BB\u03B1\u03BD\u03C4. \u03A3\u03C7\u03B5\u03C4\u03AF\u03B6\u03B5\u03C4\u03B1\u03B9 \u03C0\u03BF\u03BB\u03CD \u03BC\u03B5 \u03C4\u03B9\u03C2 \u039C\u03B1\u03BB\u03AC\u03B9- \u03A0\u03BF\u03BB\u03C5\u03BD\u03B7\u03C3\u03B9\u03B1\u03BA\u03AD\u03C2 \u03B3\u03BB\u03CE\u03C3\u03C3\u03B5\u03C2 \u03C4\u03B7\u03C2 \u0399\u03BD\u03B4\u03BF\u03BD\u03B7\u03C3\u03AF\u03B1\u03C2, \u03C4\u03B7\u03C2 \u039C\u03B1\u03BB\u03B1\u03B9\u03C3\u03AF\u03B1\u03C2 \u03BA\u03B1\u03B9 \u03C4\u03C9\u03BD \u03A6\u03B9\u03BB\u03B9\u03C0\u03C0\u03AF\u03BD\u03C9\u03BD, \u03BA\u03B1\u03B9 \u03C0\u03B9\u03BF \u03C3\u03C4\u03B5\u03BD\u03AC \u03BC\u03B5 \u03C4\u03B9\u03C2 \u03B1\u03BD\u03B1\u03C4\u03BF\u03BB\u03B9\u03BA\u03AD\u03C2 \u03B3\u03BB\u03CE\u03C3\u03C3\u03B5\u03C2 \u039C\u03C0\u03B1\u03C1\u03AF\u03C4\u03BF \u03C0\u03BF\u03C5 \u03BC\u03B9\u03BB\u03B9\u03BF\u03CD\u03BD\u03C4\u03B1\u03B9 \u03C3\u03C4\u03BF\u03BD \u03BD\u03B7\u03C3\u03AF \u0392\u03CC\u03C1\u03BD\u03B5\u03BF, \u03BC\u03B5 \u03B5\u03BE\u03B1\u03AF\u03C1\u03B5\u03C3\u03B7 \u03C4\u03B9\u03C2 \u03C0\u03BF\u03BB\u03C5\u03BD\u03B7\u03C3\u03B9\u03B1\u03BA\u03AD\u03C2 \u03BC\u03BF\u03C1\u03C6\u03BF\u03C6\u03C9\u03BD\u03B7\u03C4\u03B9\u03BA\u03AD\u03C2 \u03B4\u03B9\u03B1\u03C6\u03BF\u03C1\u03AD\u03C2 \u03C0\u03BF\u03C5 \u03AD\u03C7\u03B5\u03B9. \u03A3\u03CD\u03BC\u03C6\u03C9\u03BD\u03B1 \u03BC\u03B5 \u03C4\u03BF\u03BD \u03A1\u03CC\u03C4\u03B6\u03B5\u03C1 \u039C\u03C0\u03BB\u03B5\u03BD\u03C4\u03C2 \u03B7 \u03C0\u03C1\u03CE\u03B9\u03BC\u03B7 \u03BC\u03BF\u03C1\u03C6\u03AE \u03C4\u03B7\u03C2 \u03B3\u03BB\u03CE\u03C3\u03C3\u03B1\u03C2 \u03C0\u03BF\u03C5 \u03BC\u03B9\u03BB\u03B9\u03CC\u03C4\u03B1\u03BD\u03B5 \u03C3\u03C4\u03B7 \u039C\u03B1\u03B4\u03B1\u03B3\u03B1\u03C3\u03BA\u03AC\u03C1\u03B7 \u03BC\u03C0\u03BF\u03C1\u03B5\u03AF \u03BD\u03B1 \u03BC\u03B7\u03BD \u03B5\u03AF\u03C7\u03B5 \u03B1\u03C5\u03C3\u03C4\u03C1\u03BF\u03BD\u03B7\u03C3\u03B9\u03B1\u03BA\u03AC \u03B3\u03BB\u03C9\u03C3\u03C3\u03B9\u03BA\u03AC \u03C5\u03C0\u03BF\u03C3\u03C4\u03C1\u03CE\u03BC\u03B1\u03C4\u03B1."@el ,
+		"\uB9D0\uB77C\uAC00\uC2DC\uC5B4(Fiteny malagasy)\uB294 \uB9C8\uB2E4\uAC00\uC2A4\uCE74\uB974\uC758 \uACF5\uC6A9\uC5B4\uC774\uC790, \uAD6D\uC5B4\uC774\uB2E4. \uC774 \uC5B8\uC5B4\uB294 \uC778\uB3C4\uB124\uC2DC\uC544\uC5B4\u318D\uB9D0\uB808\uC774\uC5B4\u318D\uD0C0\uAC08\uB85C\uADF8\uC5B4\u318D\uD558\uC640\uC774\uC5B4\uC640 \uC77C\uBD80 \uC720\uC0AC\uC131\uC774 \uC788\uC73C\uBA70, \uC544\uD504\uB9AC\uCE74\uC5D0\uC11C \uC720\uC77C\uD558\uAC8C \uC624\uC2A4\uD2B8\uB85C\uB124\uC2DC\uC544\uC5B4\uC871\uC5D0 \uC18D\uD558\uB294 \uC5B8\uC5B4\uC774\uB2E4. \uB2E4\uB978 \uC624\uC2A4\uD2B8\uB85C\uB124\uC2DC\uC544\uC5B4\uC871\uC5D0 \uC18D\uD558\uB294 \uC778\uB3C4\uB124\uC2DC\uC544\uC5B4, \uB9D0\uB808\uC774\uC5B4\uC640\uB294 \uC0AC\uCD0C \uAD00\uACC4\uC774\uBA70, \uB610\uD55C, \uD558\uC640\uC774\uC5B4\u318D\uB9C8\uC624\uB9AC\uC5B4\u318D\uD0C0\uAC08\uB85C\uADF8\uC5B4\uC640 \uAC19\uC740 \uC5B4\uC871\uC758 \uC5B8\uC5B4\uC774\uB2E4."@ko ,
+		"Teanga Mhalae-Pholain\u00E9iseach \u00ED an Mhalag\u00E1isis arb \u00ED an teanga is coitianta i Madagascar. N\u00EDl gaol n\u00E1 l\u00FAb ghaoil aici leis na teangacha a labhra\u00EDtear i m\u00F3r-roinn na hAfraice, n\u00F3 th\u00E1inig an teanga \u00F3 Bhoirneo ar dt\u00FAs, agus is i mBoirneo a chloistear teangacha gaolmhara. Is \u00ED an teanga Ma'anyan chois Abhainn Barito i mBoirneo an teanga is cos\u00FAla leis an Malag\u00E1isis at\u00E1 ann. T\u00E1 an teanga \u00F3 dh\u00FAchas ag fiche milli\u00FAn duine, a bheag n\u00F3 a mh\u00F3r, n\u00F3 formh\u00F3r m\u00F3r mhuintir Mhadagascar. Fuair an Mhalag\u00E1isis a l\u00E1n focal ar iasacht \u00F3n Araibis, \u00F3n bhFraincis agus \u00F3 na teangacha Afracacha, ach n\u00ED bhaineann siad den d\u00FAchas Pholain\u00E9iseach at\u00E1 so-aitheanta ar an teanga i gc\u00F3na\u00ED. Nuair a th\u00E1inig na Francaigh go Madagascar, fuair siad rompu leagan den aib\u00EDtir Arabach in \u00FAs\u00E1id ag na Malag\u00E1saigh, ach inniu, is \u00ED an aib\u00EDtir Laidineach is m\u00F3 a \u00FAs\u00E1idtear leis an teanga a scr\u00EDobh. Ba \u00E9 aistri\u00FAch\u00E1n an Bh\u00EDobla an ch\u00E9ad leabhar a foils\u00EDodh sa litri\u00FA seo, agus ba iad na misin\u00E9ir\u00ED Sasanacha a d'aistrigh agus a chuir i gcl\u00F3 \u00E9, thiar sa bhliain 1835. Is l\u00E9ir, \u00E1fach, go raibh b\u00E9al-litr\u00EDocht, sc\u00E9ala\u00EDocht, agus seanchas d\u00E1 gcuid f\u00E9in ag na Malag\u00E1saigh roimhe sin f\u00E9in, go h\u00E1irithe an laoi faoin laoch \u00FAd Ibonia, a cuireadh i gcl\u00F3 ina l\u00E1n d\u00EDolama\u00ED litr\u00EDochta \u00F3n Afraic. Scr\u00EDobhtar an Mhalag\u00E1isis mar a fhuaimn\u00EDtear \u00ED, c\u00E9 go bhfuil s\u00E9 de chlaonadh sna can\u00FAint\u00ED na siolla\u00ED nach bhfuil faoi bh\u00E9im a fhuaimni\u00FA go lag n\u00F3 a ligean ar l\u00E1r go hioml\u00E1n. Is mar [u] a fhuaimn\u00EDtear an litir o, agus is mar oa n\u00F3 mar \u00F4 a litr\u00EDtear an fhuaim [o]. Fuaimn\u00EDtear r aisl\u00FAbtha (fuaim idir eatarthu idir s agus r) sna comhcheangail tr agus dr, agus is mar [dz] a fhuaimn\u00EDtear an litir j. Is \u00E9 an t-ord\u00FA focal at\u00E1 in \u00FAs\u00E1id sa Mhalag\u00E1isis n\u00E1 VOS, n\u00F3 Briathar-Cusp\u00F3ir-Ainmn\u00ED. Sa Ghaeilge, \u00FAs\u00E1idtear an t-ord\u00FA VSO, n\u00F3 Briathar-Ainmn\u00ED-Cusp\u00F3ir, agus is \u00E9 an t-ord\u00FA focal sa Bh\u00E9arla n\u00E1 SVO, Ainmn\u00ED-Briathar-Cusp\u00F3ir. F\u00E9ach na sampla\u00ED seo th\u00EDos: Mamaky boky ny mpianatra = L\u00E9ann an mac l\u00E9inn leabhar. T\u00E1 an mac l\u00E9inn ag l\u00E9amh leabhair.mamaky = l\u00E9ann, ny mpianatra = an mac l\u00E9inn, boky = leabharNividy ronono ho an'ny zaza ny vehivavy = Cheannaigh an bhean bainne don ph\u00E1istenividy = cheannaigh (is \u00E9 an litir n- a thaispe\u00E1nann gurb \u00ED an aimsir chaite at\u00E1 againn ansin, cf. mividy = ceanna\u00EDonn, hividy = ceann\u00F3idh; namaky = l\u00E9igh, hamaky = l\u00E9ifidh)ronono = bainneho an'ny zaza = don ph\u00E1isteny vehivavy = an bhean"@ga ,
+		"Il malgascio (in malgascio malagasy) \u00E8 la pi\u00F9 occidentale delle lingue maleo-polinesiache e quindi delle lingue austronesiane. \u00C8 la lingua nazionale del Madagascar ed \u00E8 parlata anche in alcune isole della zona (il termine malgascio viene anche usato per riferirsi alla popolazione del Madagascar). Il malgascio come lingua \u00E8 nato dall'ufficializzazione della lingua merina, parlata dal omonimo popolo. Le lingue delle altre etnie malgasce sono piuttosto simili e spesso classificate come dialetti del malgascio."@it ,
+		"Malagasy (; Malagasy pronunciation: [\u02CCmala\u02C8\u0261as\u02B2]) is an Austronesian language and the national language of Madagascar. Most people in Madagascar speak it as a first language as do some people of Malagasy descent elsewhere."@en ,
+		"La malagasa lingvo estas parolata en Madagaskaro, kie \u011Di estas anka\u016D la \u015Dtata lingvo uzata apud la franca. Diference de la aliaj eksaj francaj kolonioj en Afriko, la malagasa havas realan uzon en sia lando. Ekde la 18-a jarcento la fakto estas konata, ke la malagasa lingvo surprize similas al la lingvoj de la a\u016Dstronezia lingvaro, disvasti\u011Dintaj en la modernaj Filipinoj, Malajzio kaj Indonezio. Speciale proksimas al la malagasa lingvoj de la insulo Borneo. Tial nuntempe oni grupigas la lingvon kiel membro de tiu lingvaro kaj ties subgrupo de malajopolineziaj lingvoj. La malagasan influis anka\u016D la lingvoj araba, svahila, angla kaj franca. Ekde la jaro 1823 la lingvo havas skribsistemon bazitan sur la latina alfabeto. \u011Cis tiu tempo por nemultaj magiaj kaj astrologiaj skriba\u0135oj estis uzata la araba skribo. La moderna ortografio sin bazas \u0109efe sur la fonologiaj principoj kun negravaj esceptoj (litero i fine de vortoj estas skribata \u0109iam kiel y kaj la litero o estas legata kiel [u]). En la alfabeto estas 21 literoj: a, b, d, e, f, g, h, i, j, k, l, m, n, o, p, r, s, t, v, y, z. Ekzistas anka\u016D neoficiala uzado de diakritiko. La akcento de la vortoj kutime estas sur la anta\u016Dlasta silabo (kiel en Esperanto). Sed se la vortfina\u0135o estas \"ka\", \"tra\" a\u016D \"na\", la akcento estas sur la anta\u016Danta\u016Dlasta silabo. Senakcentataj vokaloj ofte estas malelbu\u015Dataj. Ekzemple fanorona estas do prononcata \"fanurn\"."@eo ,
+		"\u041C\u0430\u043B\u0430\u0433\u0430\u0441\u0438\u0301\u0439\u0441\u043A\u0438\u0439 \u044F\u0437\u044B\u0301\u043A ( malagasy; \u0443\u0441\u0442\u0430\u0440\u0435\u0432\u0448\u0430\u044F \u0440\u0443\u0441\u0441\u043A\u0430\u044F \u043F\u0435\u0440\u0435\u0434\u0430\u0447\u0430 \u2014 \u043C\u0430\u043B\u044C\u0433\u0430\u0448\u0441\u043A\u0438\u0439 \u044F\u0437\u044B\u043A, \u043E\u0442 \u0444\u0440. langue malgache) \u2014 \u044F\u0437\u044B\u043A \u043C\u0430\u043B\u0430\u0433\u0430\u0441\u0438\u0439\u0446\u0435\u0432, \u043D\u0430\u0441\u0435\u043B\u044F\u044E\u0449\u0438\u0445, \u0432 \u043E\u0441\u043D\u043E\u0432\u043D\u043E\u043C, \u043E\u0441\u0442\u0440\u043E\u0432 \u041C\u0430\u0434\u0430\u0433\u0430\u0441\u043A\u0430\u0440. \u0422\u0430\u043A\u0436\u0435 \u044F\u0432\u043B\u044F\u0435\u0442\u0441\u044F \u0433\u043E\u0441\u0443\u0434\u0430\u0440\u0441\u0442\u0432\u0435\u043D\u043D\u044B\u043C \u044F\u0437\u044B\u043A\u043E\u043C \u044D\u0442\u043E\u0433\u043E \u043E\u0441\u0442\u0440\u043E\u0432\u0430. \u041D\u043E\u0441\u0438\u0442\u0435\u043B\u0438 \u0436\u0438\u0432\u0443\u0442 \u0442\u0430\u043A\u0436\u0435 \u043D\u0430 \u0431\u043B\u0438\u0437\u043B\u0435\u0436\u0430\u0449\u0438\u0445 \u043E\u0441\u0442\u0440\u043E\u0432\u0430\u0445 \u0420\u0435\u044E\u043D\u044C\u043E\u043D, \u041A\u043E\u043C\u043E\u0440\u044B, \u0421\u0435\u0439\u0448\u0435\u043B\u044B \u0438 \u0434\u0440., \u0430 \u0442\u0430\u043A\u0436\u0435 \u0432\u043E \u0424\u0440\u0430\u043D\u0446\u0438\u0438 \u2014 \u0431\u044B\u0432\u0448\u0435\u0439 \u043A\u043E\u043B\u043E\u043D\u0438\u0430\u043B\u044C\u043D\u043E\u0439 \u043C\u0435\u0442\u0440\u043E\u043F\u043E\u043B\u0438\u0438."@ru ,
+		"Malagassiska \u00E4r ett austronesiskt spr\u00E5k med 18 miljoner talare Malagassiska talas p\u00E5 Madagaskar, d\u00E4r det \u00E4r b\u00E5de officiellt och helt dominerande, samt p\u00E5 Komorerna, Mayotte och Seychellerna. De dialektala variationerna inom spr\u00E5ket \u00E4r stora och det finns tv\u00E5 huvudsakliga dialektgrupper, den \u00F6stra och den v\u00E4stra. \u00D6vriga austronesiska spr\u00E5k talas i Sydostasien och i Oceanien. Spr\u00E5ket kom sannolikt till Madagaskar p\u00E5 runt 400-talet e. kr. med folk fr\u00E5n syd\u00F6stra Borneo."@sv ,
+		"J\u0119zyk malgaski (Fiteny malagasy) \u2013 j\u0119zyk nale\u017C\u0105cy do rodziny austronezyjskiej, zaliczany do grupy . Najbli\u017Cej jest spokrewniony z j\u0119zykami u\u017Cywanymi w indonezyjskiej cz\u0119\u015Bci Borneo (m.in. z j\u0119zykiem ma\u2019anyan), dalsze pokrewie\u0144stwo za\u015B \u0142\u0105czy go z pozosta\u0142ymi j\u0119zykami austronezyjskimi Indonezji. J\u0119zyk malgaski u\u017Cywany jest g\u0142\u00F3wnie na Madagaskarze (gdzie jest j\u0119zykiem urz\u0119dowym) oraz przez skupiska os\u00F3b pochodzenia malgaskiego na Komorach, Reunionie i Majottcie."@pl ,
+		"O malgaxe (malagasy) \u00E9 uma l\u00EDngua malaio-polin\u00E9sia falada por praticamente toda a popula\u00E7\u00E3o de Madagascar. Em Madagascar, a l\u00EDngua malgaxe \u00E9 considerada a l\u00EDngua nacional, mas divide a condi\u00E7\u00E3o de l\u00EDngua oficial com o franc\u00EAs, que continua sendo a l\u00EDngua principal nos meios escritos e na educa\u00E7\u00E3o. Existem tamb\u00E9m alguns falantes de malgaxe na ilha francesa de Mayotte e em comunidades origin\u00E1rias de Madagascar assentadas em Reuni\u00E3o (Fran\u00E7a), Comores e outros pa\u00EDses."@pt ,
+		"Malagasi  adalah bahasa nasional Madagaskar yang dikelompokkan ke dalam rumpun bahasa Austronesia. Bahasa tersebut digunakan sebagai bahasa ibu oleh kebanyakan penduduk Madagaskar dan oleh orang keturunan Malagasi di tempat lain. Bahasa nasional Madagaskar adalah bentuk normatif dari dialek Merina, logat yang banyak dipertuturkan di dataran tinggi tengah (plateau) dan di ibu kota Madagaskar. Bahasa Malagasi termasuk dalam kelompok Melayu-Polinesia yang merupakan bagian dari rumpun bahasa Austronesia, dan adalah kelompok yang paling barat dari keluarga rumpun bahasa Austronesia. Bahasa Malagasi erat hubungannya dengan bahasa Dayak Barito, seperti bahasa Dusun Deyah dan bahasa Maanyan serta bahasa Banjar. Ini terlihat dari banyaknya persamaan kata dasar dalam bahasa-bahasa dayak tersebut dengan bahasa Malagasi. Akibat hubungan perdagangan dan sejarah, bahasa Malagasi memiliki sejumlah kata pinjaman yang berasal dari bahasa Bantu, bahasa Arab, bahasa Prancis, serta bahasa Inggris."@in ,
+		"\u30DE\u30C0\u30AC\u30B9\u30AB\u30EB\u8A9E\uFF08Malagasy\u3001\u30DE\u30E9\u30AC\u30B7\uFF09\u306F\u30A2\u30D5\u30EA\u30AB\u6771\u90E8\u306E\u30A4\u30F3\u30C9\u6D0B\u306B\u6D6E\u304B\u3076\u30DE\u30C0\u30AC\u30B9\u30AB\u30EB\u5CF6\u3067\u8A71\u3055\u308C\u308B\u8A00\u8A9E\u3002\u30DE\u30C0\u30AC\u30B9\u30AB\u30EB\u5171\u548C\u56FD\u306E\u56FD\u8A9E\u3067\u3042\u308B\u3068\u5171\u306B\u3001\u30D5\u30E9\u30F3\u30B9\u8A9E\u3068\u4E26\u3093\u3067\u540C\u5171\u548C\u56FD\u306E\u516C\u7528\u8A9E\u3068\u306A\u3063\u3066\u3044\u308B\u3002 \u30DE\u30C0\u30AC\u30B9\u30AB\u30EB\u8A9E\u306F\u30AA\u30FC\u30B9\u30C8\u30ED\u30CD\u30B7\u30A2\u8A9E\u65CF\u30DE\u30EC\u30FC\u30FB\u30DD\u30EA\u30CD\u30B7\u30A2\u8A9E\u6D3E\u306B\u6240\u5C5E\u3059\u308B\u3002\u7D00\u51435\u4E16\u7D00\u9803\u306B\u30DE\u30EC\u30FC\u8AF8\u5CF6\u304B\u3089\u30A4\u30F3\u30C9\u6D0B\u3092\u8D8A\u3048\u3066\u79FB\u4F4F\u3057\u305F\u7D50\u679C\u3068\u3055\u308C\u308B\u3002\u3053\u306E\u79FB\u4F4F\u306B\u3064\u3044\u3066\u6B74\u53F2\u4E0A\u306E\u8A18\u9332\u306F\u4E00\u5207\u306A\u3044\u306E\u3067\u8A73\u7D30\u306F\u4E0D\u660E\u3060\u304C\u3001\u8A00\u8A9E\u5B66\u7684\u306B\u306F\u3001\uFF08\u30C0\u30E4\u30AF\u65CF\u306E\u8A00\u8A9E\uFF09\u306B\u542B\u307E\u308C\u3001\u30DC\u30EB\u30CD\u30AA\u5CF6\u306E\u306B\u8FD1\u3044\u3068\u3055\u308C\u308B\u3002 \u305D\u306E\u5F8C\u3001\u30A2\u30D5\u30EA\u30AB\u5927\u9678\u6D77\u5CB8\u90E8\u304B\u3089\u6765\u305F\u30D0\u30F3\u30C4\u30FC\u65CF\u3084\u4EA4\u6613\u76EE\u7684\u3067\u6765\u305F\u30A2\u30E9\u30D6\u4EBA\u306A\u3069\u3068\u6DF7\u8840\u3057\u3066\u3044\u308B\u305F\u3081\u3001\u30AA\u30FC\u30B9\u30C8\u30ED\u30CD\u30B7\u30A2\u8A9E\u3092\u57FA\u8ABF\u3068\u3057\u3064\u3064\u3082\u30D0\u30F3\u30C4\u30FC\u8A9E\u7CFB\u306E\u5358\u8A9E\u3001\u30A2\u30E9\u30D3\u30A2\u8A9E\u7CFB\u306E\u5358\u8A9E\u3001\u30B5\u30F3\u30B9\u30AF\u30EA\u30C3\u30C8\u8A9E\u7CFB\u306E\u5358\u8A9E\u304C\u6DF7\u3058\u308B\u3002"@ja ,
+		"\u99AC\u62C9\u52A0\u65AF\u8A9E \uFF08Malagasy\uFF0Cmaa.laa.gaas\uFF09 \u662F\u4E00\u7A2E\u5357\u5CF6\u8A9E\u7CFB\u8A9E\u8A00\uFF0C\u70BA\u99AC\u9054\u52A0\u65AF\u52A0\u7684\u5B98\u65B9\u8A9E\u8A00\u4E4B\u4E00\uFF0C\u99AC\u62C9\u52A0\u65AF\u8A9E\u63A5\u8FD1\u65BC\u5A46\u7F85\u6D32\u5357\u90E8\uFF0C\u5357\u52A0\u91CC\u66FC\u4E39\u5DF4\u91CC\u6258\u6CB3\u4E00\u5E36\u7684\u8A9E\u8A00\uFF0C\u5C24\u5176\u662F\u670990%\u8A5E\u5F59\u8207\u76F8\u540C\u3002\u9019\u662F\u56E0\u70BA\u99AC\u9054\u52A0\u65AF\u52A0\u5728\u4E00\u5343\u4E94\u767E\u5230\u5169\u5343\u5E74\u524D\u88AB\u5370\u5C3C\u4EBA\u6B96\u6C11\u6642\uFF0C\u8A31\u591A\u7684\u4EBA\u662F\u4F86\u81EA\u5A46\u7F57\u6D32\u7684\u7DE3\u6545\u3002\u73FE\u4EE3\u7684\u99AC\u9054\u52A0\u65AF\u52A0\u4EBA\u662F\u539F\u672C\u7684\u5370\u5C3C\u6B96\u6C11\u8005\u548C\u6771\u90E8\u975E\u6D32\u4EBA\u8207\u963F\u62C9\u4F2F\u4EBA\u6DF7\u8840\u800C\u6210\u7684\uFF0C\u73FE\u4EE3\u7684\u99AC\u62C9\u52A0\u65AF\u8A9E\u4E2D\u4E5F\u6709\u4E00\u4E9B\u4F86\u81EA\u82F1\u8A9E\u3001\u6CD5\u8A9E\u3001\u975E\u6D32\u73ED\u5716\u4EBA\u8A9E\u8A00\u548C\u963F\u62C9\u4F2F\u8A9E\u7684\u501F\u8A5E\u3002 \u99AC\u62C9\u52A0\u65AF\u8A9E\u7684\u57FA\u672C\u8A9E\u5E8F\u70BAVOS\u9806\u5E8F\u3002"@zh ,
+		"\u0627\u0644\u0644\u063A\u0629 \u0627\u0644\u0645\u0644\u063A\u0627\u0634\u064A\u0629 (\u0628\u0627\u0644\u0645\u0644\u063A\u0627\u0634\u064A\u0629: Malagasy) \u0647\u064A \u0627\u0644\u0644\u063A\u0629 \u0627\u0644\u0648\u0637\u0646\u064A\u0629 \u0627\u0644\u0631\u0633\u0645\u064A\u0629 \u0641\u064A \u0645\u062F\u063A\u0634\u0642\u0631\u060C \u0648\u0647\u064A \u062A\u0646\u062A\u0645\u064A \u0625\u0644\u0649 \u0639\u0627\u0626\u0644\u0629 \u0627\u0644\u0644\u063A\u0627\u062A \u0627\u0644\u0623\u0633\u062A\u0631\u0648\u0646\u064A\u0632\u064A\u0629 \u0645\u062B\u0644 \u0627\u0644\u0625\u0646\u062F\u0648\u0646\u064A\u0633\u064A\u0629 \u0648 \u0627\u0644\u0645\u0644\u0627\u0648\u064A\u0629. \u0623\u063A\u0644\u0628\u064A\u0629 \u0633\u0643\u0627\u0646 \u0645\u062F\u063A\u0634\u0642\u0631 \u064A\u062A\u062D\u062F\u062B\u0648\u0646 \u0628\u0647\u0627 \u0643\u0644\u063A\u0629 \u0623\u0648\u0644\u0649. \u0639\u062F\u062F \u0627\u0644\u0645\u062A\u062D\u062F\u062B\u064A\u0646 \u064A\u0628\u0644\u063A \u062D\u0648\u0627\u0644\u064A 20 \u0645\u0644\u064A\u0648\u0646 \u0646\u0627\u0637\u0642."@ar ,
+		"De Malagasitalen vormen een taalfamilie van elf talen binnen de Oost-talen. Veel bronnen, zoals de Verenigde Naties en de Van Dale, omschrijven alle elf Malagasitalen als \u00E9\u00E9n taal, het Malagassisch of Malagasi. Ethnologue beschouwt sinds ISO 639-3 het Malagassisch als een macrotaal bestaande uit elf zelfstandige talen. Daarvoor werden deze beschouwd als dialecten. De sprekers van de Malagasitalen leven hoofdzakelijk in de Afrikaanse eilandnatie Madagaskar. De talen hebben een overduidelijke verwantschap met de Austronesische talen (en behoren er dan ook toe), meer bepaald met het Ma'anjan en het  aan de midden- en bovenloop van de rivier Barito op Borneo. Wel zijn er ook duidelijke invloeden van de Bantoetalen. De talen hebben veel leenwoorden overgenomen uit Bantoetalen en het Arabisch, en in mindere mate uit het Swahili, Engels en Frans. Het Merina, een dialect van het Plateaumalagasi, is het enige echte \"offici\u00EBle\" Malagasi. De Malagasitalen worden net als de , , -, Chinese- en  door velen als \u00E9\u00E9n taal beschouwd (het Malagassisch), maar zijn een taalgroep zonder veel intercommunicatie. W\u00E9l hebben ze meestal \u00E9\u00E9n overheersende taal, die dan wel overeenkomt met de beschrijvingen van de taal waarmee in feite de familie wordt bedoeld, voorbeelden daarvan zijn het Plateaumalagasi, maar ook het , het Mandarijn of het Standaardarabisch."@nl ,
+		"El malgaix (malagasy en malgaix) \u00E9s la llengua parlada a Madagascar i a les illes Comores, Mayotte i Reuni\u00F3, mitjan\u00E7ant els contactes entre aquestes illes i Madagascar. Tanmateix nom\u00E9s \u00E9s oficial, juntament amb el franc\u00E8s, a Madagascar. Es compon d'una vintena de dialectes que corresponen a les 18 \u00E8tnies del pa\u00EDs. Aquesta representa la llengua m\u00E9s occidental de la branca malai-polin\u00E8sia de les lleng\u00FCes austron\u00E8sies. M\u00E9s concretament pertany al grup barito, les lleng\u00FCes del qual s\u00F3n parlades a Kalimantan, la part indon\u00E8sia de l'illa de Borneo, a l'actual regi\u00F3 de Banjarmasin i comprenen el ma'anyan, el samihim, el dusun deyah, etc. En aquesta regi\u00F3 la llengua dominant avui dia \u00E9s el malai, que pertany a un altre grup malai-polin\u00E8s. El malgaix \u00E9s part d'un conjunt ling\u00FC\u00EDstic que compr\u00E8n m\u00E9s d'una vintena de variants locals, qualificades sovint de dialectes. De fet, les diverg\u00E8ncies de determinades variants, com per exemple el sakalava amb l' poden representar fins a la meitat del vocabulari com\u00FA. Pel que fa al merina els dialectes m\u00E9s propers s\u00F3n el betsileo i el  (aproximadament el 90% del vocabulari tradicional b\u00E0sic \u00E9s com\u00FA). Les m\u00E9s diferents s\u00F3n les lleng\u00FCes de l'extrem sud de l'illa com l' i certs dialectes sakalava amb els quals el merina comparteix el 60% del vocabulari de base. Sobre el l\u00E8xic, m\u00E9s del 90% del vocabulari tradicional remunta a or\u00EDgens austronesis. La resta \u00E9s d'origen , arabo-swahili o s\u00E0nscrit, en \u00E0mbits determinats. Per exemple les paraules d'origen bantu es troben sobretot en el camp de la ramaderia (omby, ondry, akoho) i els arabo-swahili en objectes comercials, el calendari i l'endevinaci\u00F3 (alahady, adaoro, sikidy, etc.). Els pr\u00E9stecs ling\u00FC\u00EDstics m\u00E9s antics semblen d'origen s\u00E0nscrit (tsara, soa, sahaza, sandry, sisa, hetsy), remunten probablement al ve\u00EFnatge amb els navegadors malais durant el primer mil\u00B7lenni. L'escriptura moderna de la llengua malgaix en alfabet llat\u00ED va ser fixada per decret el 26 de mar\u00E7 de 1823, despr\u00E9s d'un acord entre el rei Radama I i els missioners brit\u00E0nics que acabaven d'arribar al reialme. El principi acordat va ser que les consonants s'havien d'escriure com en angl\u00E8s i les vocals com a les lleng\u00FCes llatines. El fet que el malgaix sigui originari d'Indon\u00E8sia, per\u00F2, no ens pot fer concloure que el seu ancestre s'escriv\u00EDs com el vell malai amb un alfabet de tipus indi. A partir del segle XIX la llengua malgaix ha agafat un nombre considerable de mots a les lleng\u00FCes europees, en particular del'angl\u00E8s i el franc\u00E8s. En l'aspecte actual de l'ortografia, formada per 21 lletres (sense la \u2018c\u2019, la \u2018q\u2019, la \u2018w\u2019, la \u2018u\u2019 i la \u2018x\u2019, en comparaci\u00F3 amb el catal\u00E0) la \u2018o\u2019 es pronuncia com una \u2018u\u2019 (encara que a certes regions, sobretot al camp, es pot pronunciar com una veritable \u2018o\u2019 !). El diftong \u2018ao\u2019 es tendeix a pronunciaar com una simple \u2018o\u2019. Les \u2018i\u2019 que es troben al final de paraula s'escriuen sempre amb \u2018y\u2019. La \u2018e\u2019 \u00E9s pronunciada com una \u2018\u00E9\u2019. La \u2018g\u2019 es pronuncia com a \u2018maragda i la \u2018s\u2019 no es pronuncia mai com una \u2018z\u2019. L'accent t\u00F2nic sol caure en general sobre la pen\u00FAltima s\u00EDl\u00B7laba de la paraula, llevant que la paraula acabi en '-ka', '-tra', o '-na'.en aquest cas l'accent recau en l'antepen\u00FAltima. Les vocals no t\u00F2niques que es troben a la fi d'un mot s\u00F3n a penes pronunciades."@ca ,
+		"Malagasy, deutsch auch Malagassi bzw. die madagassische Sprache (franz\u00F6sisch Malgache), ist die Sprache der madagassischen Foko, der einheimischen Ethnien. Es ist die westlichste Sprache der austronesischen Sprachfamilie und neben Franz\u00F6sisch eine der Amtssprachen auf Madagaskar. Die am n\u00E4chsten verwandte Sprachen au\u00DFerhalb Madagaskars sind die Sprachen der Ost-Barito-Gruppe (darunter z. B. ) in der indonesischen Provinz Kalimantan Tengah, im S\u00FCden der Insel Borneo, die fast 7000 km von Madagaskar entfernt liegt. Das Malagasy gelangte zusammen mit Einwanderern aus S\u00FCdostasien nach Madagaskar. Unterschiedlichen Hypothesen zufolge fanden diese Wanderungsbewegungen entweder um 450 n. Chr. (Dahl 1951) oder im 7. Jahrhundert n. Chr. (Adelaar 1989) statt."@de ,
+		"\u041C\u0430\u043B\u0430\u0433\u0430\u0441\u0456\u0301\u0439\u0441\u044C\u043A\u0430 \u043C\u043E\u0301\u0432\u0430 ( malagasy) \u2014 \u043C\u043E\u0432\u0430 \u0430\u0432\u0441\u0442\u0440\u043E\u043D\u0435\u0437\u0456\u0439\u0441\u044C\u043A\u043E\u0457 \u043C\u043E\u0432\u043D\u043E\u0457 \u0440\u043E\u0434\u0438\u043D\u0438, \u0440\u0456\u0434\u043D\u0430 \u0434\u043B\u044F \u043C\u0430\u043B\u0430\u0433\u0430\u0441\u0456\u0439\u0446\u0456\u0432, \u0449\u043E \u0441\u0442\u0430\u043D\u043E\u0432\u043B\u044F\u0442\u044C \u0431\u0456\u043B\u044C\u0448\u0456\u0441\u0442\u044C \u043D\u0430\u0441\u0435\u043B\u0435\u043D\u043D\u044F \u041C\u0430\u0434\u0430\u0433\u0430\u0441\u043A\u0430\u0440\u0443 (\u043F\u043E\u043D\u0430\u0434 20 \u043C\u043B\u043D). \u041D\u0430 \u041C\u0430\u0434\u0430\u0433\u0430\u0441\u043A\u0430\u0440\u0456 \u043C\u0430\u043B\u0430\u0433\u0430\u0441\u0456\u0439\u0441\u044C\u043A\u0430 \u043C\u043E\u0432\u0430 \u043E\u0444\u0456\u0446\u0456\u0439\u043D\u0430 \u043D\u0430\u0440\u0456\u0432\u043D\u0456 \u0437 \u0444\u0440\u0430\u043D\u0446\u0443\u0437\u044C\u043A\u043E\u044E."@uk ,
+		"El malgache (autoglot\u00F3nimo malagasy) es la lengua malayo-polinesia hablada pr\u00E1cticamente por la totalidad de la poblaci\u00F3n de Madagascar. En ese pa\u00EDs, la lengua malgache se considera la lengua nacional, pero comparte la condici\u00F3n de lengua oficial con el franc\u00E9s, que sigue siendo la lengua principal en los medios escritos y en la educaci\u00F3n. Existen tambi\u00E9n algunos hablantes de malgache en la isla francesa de Mayotte y en comunidades originarias de Madagascar asentadas en Reuni\u00F3n y Comoras."@es ,
+		"Le malgache (en malgache : malagasy) est la langue nationale et l'une des langues officielles de Madagascar. C'est une langue normalis\u00E9e, principalement d\u00E9riv\u00E9e du dialecte parl\u00E9 sur les hautes terres centrales. Elle est la plus occidentale des langues malayo-polyn\u00E9siennes et donc des langues austron\u00E9siennes. Plus pr\u00E9cis\u00E9ment, elle appartient au rameau dit \u00AB Grand Barito \u00BB, dont les langues sont parl\u00E9es \u00E0 Kalimantan, la partie indon\u00E9sienne de l'\u00EEle de Born\u00E9o, dans l'actuelle r\u00E9gion de Banjarmasin, et comprennent notamment le ma'anyan, le samihim, le dusun deyah, mais aussi par des populations surnomm\u00E9es \u00AB nomades de la mer \u00BB, les Bajau. Dans cette r\u00E9gion, la langue dominante est aujourd'hui le malais, qui appartient \u00E0 un autre rameau malayo-polyn\u00E9sien.Le malgache est \u00E9galement parl\u00E9 \u00E0 Mayotte sous le nom de kibouchi (shibushi en mahorais) dans une vingtaine de villages."@fr ,
+		"Malga\u0161tina (malga\u0161sky fiteny malagasy) je jazyk, j\u00EDm\u017E se hovo\u0159\u00ED p\u0159edev\u0161\u00EDm na Madagaskaru a okoln\u00EDch ostrovech. Nen\u00ED p\u0159\u00EDbuzn\u00FD s \u017E\u00E1dn\u00FDmi dal\u0161\u00EDmi africk\u00FDmi jazyky - Madagaskar byl os\u00EDdlen austron\u00E9sk\u00FDmi mo\u0159eplavci zpoza Indick\u00E9ho oce\u00E1nu zhruba v 2.-5. stolet\u00ED, a malga\u0161tina tak pat\u0159\u00ED do skupiny malajsko-polyn\u00E9sk\u00FDch jazyk\u016F, mezi nimi\u017E m\u00E1 nejbl\u00ED\u017Ee k , jimi\u017E se hovo\u0159\u00ED na jihov\u00FDchodn\u00EDm Borneu. Nejv\u011Bt\u0161\u00ED \u010D\u00E1st slovn\u00ED z\u00E1soby sd\u00EDl\u00ED s , kterou se hovo\u0159\u00ED v povod\u00ED bornejsk\u00E9 \u0159eky Barito. Obsahuje rovn\u011B\u017E \u0159adu p\u0159ej\u00EDmek z arab\u0161tiny a bantusk\u00FDch jazyk\u016F, jmenovit\u011B ze svahil\u0161tiny a d\u00E1le ze sanskrtu a z francouz\u0161tiny. P\u016Fvodn\u011B (patrn\u011B zhruba od 15. stolet\u00ED) byla zapisov\u00E1na p\u00EDsmem sorabe (deriv\u00E1t arabsk\u00E9ho p\u00EDsma uzp\u016Fsoben\u00FD malga\u0161tin\u011B), kter\u00E9 bylo v polovin\u011B 19. stolet\u00ED nahrazeno latinkou, j\u00ED\u017E se k z\u00E1pisu pou\u017E\u00EDv\u00E1 dodnes. Velmi siln\u00E1 je v tomto jazyce \u00FAstn\u00ED b\u00E1snick\u00E1 tradice - nejzn\u00E1m\u011Bj\u0161\u00EDm d\u00EDlem je , n\u00E1rodn\u00ED epos popisuj\u00EDc\u00ED \u010Diny stejnojmenn\u00E9ho hrdiny."@cs .
+@prefix ns51:	<http://www.w3.org/2006/03/wn/wn20/instances/> .
+dbr:Malagasy_language	dbp:wordnet_type	ns51:synset-language-noun-1 .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Malagasy_language	dbo:wikiPageLength	"41152"^^xsd:nonNegativeInteger ;
+	dbp:familycolor	"Austronesian"@en ;
+	dbp:lc	"xmw"@en ,
+		"skg"@en ,
+		"xmv"@en ,
+		"plt"@en ,
+		"msh"@en ,
+		"tkg"@en ,
+		"bzc"@en ,
+		"buc"@en ,
+		"txy"@en ,
+		"bhr"@en ,
+		"bmm"@en ,
+		"tdx"@en ;
+	dbp:ref	"ne2007"@en ;
+	dbp:speakers	"million"@en ;
+	dbp:ld	"Northern Betsimisaraka"@en ,
+		"Tsimihety"@en ,
+		"Plateau Malagasy"@en ,
+		"Southern Betsimisaraka"@en ,
+		"Tandroy-Mafahaly"@en ,
+		dbr:Bushi_language ,
+		"Sakalava"@en ,
+		"Tesaka"@en ,
+		"Tanosy"@en ,
+		"Masikoro"@en ,
+		"Antankarana"@en ,
+		"Bara"@en ;
+	dbo:iso6391Code	"mg" ;
+	dbp:lingua	31 .
+dbr:Cued_speech	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Elephant_bird	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Relative_clause	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Gray_mouse_lemur	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Northern_giant_mouse_lemur	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Vangueria	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+<http://dbpedia.org/resource/1603_in_literature>	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Bara_people	dbo:wikiPageWikiLink	dbr:Malagasy_language ;
+	dbp:langs	dbr:Malagasy_language .
+dbr:Plesiorycteropus	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Otto_Christian_Dahl	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Vorona	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Language	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Ahmadiyya_translations_of_the_Quran	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+<http://dbpedia.org/resource/Fady_(taboo)>	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Hawaiian_language	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Cordyline_fruticosa	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+<http://dbpedia.org/resource/100,000>	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Ruth_Johnson_Colvin	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Arabic_script	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Afro-Asians	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:List_of_sovereign_states_and_dependent_territories_in_the_Indian_Ocean	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Sub-Saharan_Africa	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Geographical_distribution_of_French_speakers	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Tagalog_language	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Google_Translate	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Catholic_University_of_Madagascar	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+<http://dbpedia.org/resource/Bah\u00E1\u02BC\u00ED_Faith_in_Madagascar>	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Creole_language	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:List_of_multilingual_countries_and_regions	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Mayotte	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+<http://dbpedia.org/resource/Haplogroup_T-L206_(Y-DNA)>	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Haplogroup_T-M184	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Henri_Wittmann	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+ns4:_T	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Malagasy_kestrel	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Jakaltek_language	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:International_uniformity_of_braille_alphabets	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+ns2:x	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+<http://dbpedia.org/resource/Baccalaur\u00E9at>	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Mafate	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+ns2:p	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Vanga	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Mauritian_Creole	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Languages_of_Papua_New_Guinea	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Aye-aye	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Hipposideros_besaoka	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Diego_Garcia	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Malagasy_Uprising	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Malagasy_people	dbo:language	dbr:Malagasy_language ;
+	dbo:wikiPageWikiLink	dbr:Malagasy_language ;
+	dbp:langs	dbr:Malagasy_language .
+dbr:Foreign_relations_of_Indonesia	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Non-resident_Indian_and_person_of_Indian_origin	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Multiracial_people	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Austronesian_peoples	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Armorial_of_Africa	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:List_of_countries_and_dependencies_and_their_capitals_in_native_languages	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:List_of_long_place_names	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:List_of_official_languages	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:List_of_official_languages_by_country_and_territory	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:List_of_Book_of_Mormon_translations	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Zoboomafoo	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+<http://dbpedia.org/resource/Souli_(film)>	dbp:language	dbr:Malagasy_language ;
+	dbo:language	dbr:Malagasy_language ;
+	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Indian_diaspora_in_Southeast_Africa	dbo:language	dbr:Malagasy_language ;
+	dbo:wikiPageWikiLink	dbr:Malagasy_language ;
+	dbp:langs	dbr:Malagasy_language .
+dbr:Indonesian_language	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+<http://dbpedia.org/resource/Jain_(singer)>	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Javanese_people	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Scout_Motto	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Rugby_union_in_Madagascar	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Tromelin_Island	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:List_of_contemporary_ethnic_groups	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:List_of_countries_by_spoken_languages	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:List_of_language_names	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Province	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Hesperian_Health_Guides	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+<http://dbpedia.org/resource/Jesus_(name)>	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Ziad_Fazah	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Zoolook	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Pronunciator	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+<http://dbpedia.org/resource/Classifier_(linguistics)>	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:List_of_national_mottos	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Radio_Moscow	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Head-directionality_parameter	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+<http://dbpedia.org/resource/Nominative\u2013accusative_alignment>	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+<http://dbpedia.org/resource/Cameron_Moul\u00E8ne>	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Jacques_Berthieu	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Malagasy_Republic	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Malagasy_franc	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Didier_Ratsiraka	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Indri	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:List_of_sovereign_states_and_dependent_territories_in_Africa	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Cilaos	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Hainteny	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Member_states_of_the_African_Union	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+<http://dbpedia.org/resource/Immaculate_Conception_College,_Mananjary>	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Bushi_language	dbp:fam	dbr:Malagasy_language ;
+	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Pierre_Sonnerat	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Elie_Rajaonarison	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Salazie	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:ISO_639_macrolanguage	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Eugenia_petrikensis	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Ravensara_aromatica	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Pararistolochia_enricoi	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Ravensara	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Meermin_slave_mutiny	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Zanaka	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Agalega_creole	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Lucien_Adam	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:MLG	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:James_Sibree	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Spondias_dulcis	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Austronesian_alignment	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:South_Kalimantan	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:List_of_major_and_official_Austronesian_languages	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:List_of_Malagasy_mammal_common_names	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Universal_Church_of_the_Kingdom_of_God	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Regions_of_France	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:EXCLAIM	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Lars_Johan_Danbolt	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Malagasy_Communist_Party	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Erling_Danbolt	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Esther_Razanadrasoa	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Languages_of_Indonesia	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+<http://dbpedia.org/resource/David_Jones_(missionary)>	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+<http://dbpedia.org/resource/David_Griffiths_(missionary)>	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Vahiny	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Hinduism_in_Madagascar	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Eotheroides	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+<http://dbpedia.org/resource/Dox_(poet)>	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Subject_side_parameter	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Ny_Avana_Ramanantoanina	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Madagascar	dbo:officialLanguage	dbr:Malagasy_language ;
+	dbp:officialLanguages	dbr:Malagasy_language ;
+	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Madagascar_dry_deciduous_forests	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Madagascarophis_lolo	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Uapaca_bojeri	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Mantella	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Blue_coua	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Avenue_of_the_Baobabs	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Babakotia	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Adansonia_za	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Tsingy_de_Bemaraha_National_Park	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+<http://dbpedia.org/resource/R\u00E9union>	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Sakalava_weaver	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+<http://dbpedia.org/resource/Madagasikara_(gastropod)>	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+<http://dbpedia.org/resource/Fossa_(animal)>	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+<http://dbpedia.org/resource/Arboretum_d\u0027Antsokay>	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Hook-billed_vanga	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Domesticated_plants_and_animals_of_Austronesia	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Golden_bamboo_lemur	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Angonoka_tortoise	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Narrow-striped_mongoose	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Flora_of_Madagascar	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Brexia	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Coua	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Calicalicus	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Ring-tailed_lemur	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Typhleotris_mararybe	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Red-bellied_lemur	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Nelicourvi_weaver	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Western_sheath-tailed_bat	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Pachypodium_bicolor	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Scaphiophryne_boribory	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Marojejy_National_Park	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Blommersia_angolafa	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Chrysiridia_rhipheus	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Scotophilus_tandrefana	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Spinomantis_tavaratra	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Kongonaphon	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+<http://dbpedia.org/resource/Verb\u2013object\u2013subject>	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Lavaka	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Merina_Kingdom	dbo:wikiPageWikiLink	dbr:Malagasy_language ;
+	dbp:commonLanguages	dbr:Malagasy_language .
+dbr:Whale_shark	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+@prefix ns53:	<http://dbpedia.org/resource/ISO_3166-2:> .
+ns53:MG	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Malagasy_Wikipedia	dbp:language	dbr:Malagasy_language ;
+	dbo:language	dbr:Malagasy_language ;
+	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Pillar_of_Madagascar	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:AVANA	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+<http://dbpedia.org/resource/National_Unity,_Freedom_&_Development>	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Zafisoro	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Makoa	dbo:language	dbr:Malagasy_language ;
+	dbo:wikiPageWikiLink	dbr:Malagasy_language ;
+	dbp:langs	dbr:Malagasy_language .
+dbr:Mikea_people	dbo:language	dbr:Malagasy_language ;
+	dbo:wikiPageWikiLink	dbr:Malagasy_language ;
+	dbp:langs	dbr:Malagasy_language .
+dbr:Voahangy_Rajaonarimampianina	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Madagascar_Tribune	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Midi_Madagasikara	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+<http://dbpedia.org/resource/L\u0027Express_de_Madagascar>	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Microsoft_Translator	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Malagasy_cuisine	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Nosy_Be	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:History_of_Madagascar	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Fihavanana	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Lavanify	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Masiakasaurus	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Raymond_Razafimbahiny	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+<http://dbpedia.org/resource/Kanga_(garment)>	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Languages_of_the_Comoros	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Mucuna_paniculata	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Marohita_mouse_lemur	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Vakoka_Vakiteny	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Madagascar_sheath-tailed_bat	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Chaerephon_atsinanana	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Congress_Party_for_the_Independence_of_Madagascar	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Malagasy_Protectorate	dbo:wikiPageWikiLink	dbr:Malagasy_language ;
+	dbp:commonLanguages	dbr:Malagasy_language .
+dbr:Madagascar_national_rugby_union_team	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Keelonga	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+<http://dbpedia.org/resource/Lutheran_Graduate_School_of_Theology_(SALT)>	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Ring-tailed_vontsira	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Masikoro	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Circumstantial_voice	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:List_of_Latin-script_trigraphs	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Kadazandusun_language	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Pedro_Opeka	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Swan_maiden	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+<http://dbpedia.org/resource/Avahi_(software)>	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Georg_Sauerwein	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Antsirabe	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Malay_language	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Rhapta	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:MG	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Languages_of_the_African_Union	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Voiced_retroflex_trill	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Gender_paradox	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Wiktionary	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Personal_pronoun	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Robert	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:List_of_languages_by_writing_system	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Malayo-Polynesian_languages	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+ns2:m	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+ns2:t	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Chinese_people_in_Madagascar	dbo:language	dbr:Malagasy_language ;
+	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Anosy_Region	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Cannabis_in_Madagascar	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Toliara	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Radama_I	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:N-diaeresis	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Rakotomalala	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Tsaradia	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Grewia	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+<http://dbpedia.org/resource/Lemurs_of_Madagascar_(book)>	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Beelzebufo	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Cathariostachys_madagascariensis	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+<http://dbpedia.org/resource/Coquerel\u0027s_sifaka>	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Precis_andremiaja	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Andrianary_Ratianarivo	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Triaenops_menamena	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Oladad	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Kelyophis	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Ithycyphus_miniatus	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+<http://dbpedia.org/resource/Goodman\u0027s_mouse_lemur>	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Naka_Rabemanantsoa	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Anosy_mouse_lemur	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Miniopterus_mahafaliensis	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+<http://dbpedia.org/resource/Claire\u0027s_mouse_lemur>	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Jerry_Marcoss	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Monja_Roindefo	dbo:nationality	dbr:Malagasy_language ;
+	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Broad-striped_Malagasy_mongoose	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Schizolaena_tampoketsana	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Piper_borbonense	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:List_of_newspapers_in_Madagascar	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Bizarre-nosed_chameleon	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+<http://dbpedia.org/resource/Mahafaly_(disambiguation)>	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Malagasy	dbo:wikiPageWikiLink	dbr:Malagasy_language ;
+	dbo:wikiPageDisambiguates	dbr:Malagasy_language .
+dbr:Languages_of_Madagascar	dbp:official	dbr:Malagasy_language ;
+	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+<http://dbpedia.org/resource/2007_Malagasy_constitutional_referendum>	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Andrianavoay	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+<http://dbpedia.org/resource/Richard_Baron_(botanist)>	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+<http://dbpedia.org/resource/R\u00E9unionnais_literature>	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Aloalo	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Beosi	dbo:language	dbr:Malagasy_language ;
+	dbo:wikiPageWikiLink	dbr:Malagasy_language ;
+	dbp:langs	dbr:Malagasy_language .
+dbr:English_exonyms	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+<http://dbpedia.org/resource/Evangelical_Lutheran_Church_\u2013_Synod_of_France_and_Belgium>	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+ns2:b	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Demonstrative	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Affricate	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+<http://dbpedia.org/resource/Yandex.Translate>	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:List_of_ISO_639-1_codes	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Google_Neural_Machine_Translation	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:At_sign	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Name_of_Greece	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:List_of_broadcasting_languages_by_country	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Index_of_language_articles	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Stephen	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Et_cetera	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Kyrie	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:History_of_science_and_technology_in_Africa	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Piracy_in_the_Atlantic_World	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Ethnic_flag	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Bengkulu	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Comorian_society	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+<http://dbpedia.org/resource/\u00C9liane_Basse>	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Islands_of_Africa	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Jaculus	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Voay	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Verb-initial_word_order	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Loudetia_simplex	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Razanandrongobe	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Hippopotamus_laloumena	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Bara_Kasalava	dbo:wikiPageWikiLink	dbr:Malagasy_language ;
+	dbo:wikiPageRedirects	dbr:Malagasy_language .
+dbr:Bara_Sakalava	dbo:wikiPageWikiLink	dbr:Malagasy_language ;
+	dbo:wikiPageRedirects	dbr:Malagasy_language .
+dbr:Language_of_Madagascar	dbo:wikiPageWikiLink	dbr:Malagasy_language ;
+	dbo:wikiPageRedirects	dbr:Malagasy_language .
+dbr:Tandroy-Mahafaly_Malagasy	dbo:wikiPageWikiLink	dbr:Malagasy_language ;
+	dbo:wikiPageRedirects	dbr:Malagasy_language .
+dbr:Tandroy-Mahafaly_Malagasy_language	dbo:wikiPageWikiLink	dbr:Malagasy_language ;
+	dbo:wikiPageRedirects	dbr:Malagasy_language .
+dbr:Tandroy-Mahafaly_language	dbo:wikiPageWikiLink	dbr:Malagasy_language ;
+	dbo:wikiPageRedirects	dbr:Malagasy_language .
+dbr:Tandroy_Malagasy	dbo:wikiPageWikiLink	dbr:Malagasy_language ;
+	dbo:wikiPageRedirects	dbr:Malagasy_language .
+dbr:Tandroy_Malagasy_language	dbo:wikiPageWikiLink	dbr:Malagasy_language ;
+	dbo:wikiPageRedirects	dbr:Malagasy_language .
+dbr:West_Malagasy_Sakalava	dbo:wikiPageWikiLink	dbr:Malagasy_language ;
+	dbo:wikiPageRedirects	dbr:Malagasy_language .
+dbr:West_Malagasy_Sakalava_language	dbo:wikiPageWikiLink	dbr:Malagasy_language ;
+	dbo:wikiPageRedirects	dbr:Malagasy_language .
+<http://dbpedia.org/resource/Malagasy_(language)>	dbo:wikiPageWikiLink	dbr:Malagasy_language ;
+	dbo:wikiPageRedirects	dbr:Malagasy_language .
+dbr:Malagasy_alphabet	dbo:wikiPageWikiLink	dbr:Malagasy_language ;
+	dbo:wikiPageRedirects	dbr:Malagasy_language .
+dbr:Malagasy_languages	dbo:wikiPageWikiLink	dbr:Malagasy_language ;
+	dbo:wikiPageRedirects	dbr:Malagasy_language .
+dbr:Malgache_language	dbo:wikiPageWikiLink	dbr:Malagasy_language ;
+	dbo:wikiPageRedirects	dbr:Malagasy_language .
+dbr:Malgash_language	dbo:wikiPageWikiLink	dbr:Malagasy_language ;
+	dbo:wikiPageRedirects	dbr:Malagasy_language .
+dbr:Northern_Betsimisaraka_Malagasy	dbo:wikiPageWikiLink	dbr:Malagasy_language ;
+	dbo:wikiPageRedirects	dbr:Malagasy_language .
+dbr:Northern_Betsimisaraka_Malagasy_language	dbo:wikiPageWikiLink	dbr:Malagasy_language ;
+	dbo:wikiPageRedirects	dbr:Malagasy_language .
+ns2:plt	dbo:wikiPageWikiLink	dbr:Malagasy_language ;
+	dbo:wikiPageRedirects	dbr:Malagasy_language .
+ns2:bhr	dbo:wikiPageWikiLink	dbr:Malagasy_language ;
+	dbo:wikiPageRedirects	dbr:Malagasy_language .
+ns2:bmm	dbo:wikiPageWikiLink	dbr:Malagasy_language ;
+	dbo:wikiPageRedirects	dbr:Malagasy_language .
+ns2:bzc	dbo:wikiPageWikiLink	dbr:Malagasy_language ;
+	dbo:wikiPageRedirects	dbr:Malagasy_language .
+ns2:mg	dbo:wikiPageWikiLink	dbr:Malagasy_language ;
+	dbo:wikiPageRedirects	dbr:Malagasy_language .
+ns2:mlg	dbo:wikiPageWikiLink	dbr:Malagasy_language ;
+	dbo:wikiPageRedirects	dbr:Malagasy_language .
+ns2:msh	dbo:wikiPageWikiLink	dbr:Malagasy_language ;
+	dbo:wikiPageRedirects	dbr:Malagasy_language .
+ns2:skg	dbo:wikiPageWikiLink	dbr:Malagasy_language ;
+	dbo:wikiPageRedirects	dbr:Malagasy_language .
+ns2:tdx	dbo:wikiPageWikiLink	dbr:Malagasy_language ;
+	dbo:wikiPageRedirects	dbr:Malagasy_language .
+ns2:tkg	dbo:wikiPageWikiLink	dbr:Malagasy_language ;
+	dbo:wikiPageRedirects	dbr:Malagasy_language .
+ns2:txy	dbo:wikiPageWikiLink	dbr:Malagasy_language ;
+	dbo:wikiPageRedirects	dbr:Malagasy_language .
+ns2:xmv	dbo:wikiPageWikiLink	dbr:Malagasy_language ;
+	dbo:wikiPageRedirects	dbr:Malagasy_language .
+ns2:xmw	dbo:wikiPageWikiLink	dbr:Malagasy_language ;
+	dbo:wikiPageRedirects	dbr:Malagasy_language .
+ns2:bjq	dbo:wikiPageWikiLink	dbr:Malagasy_language ;
+	dbo:wikiPageRedirects	dbr:Malagasy_language .
+dbr:Sakalava_Malagasy	dbo:wikiPageWikiLink	dbr:Malagasy_language ;
+	dbo:wikiPageRedirects	dbr:Malagasy_language .
+dbr:Sakavala_language	dbo:wikiPageWikiLink	dbr:Malagasy_language ;
+	dbo:wikiPageRedirects	dbr:Malagasy_language .
+dbr:Mahafaly_Malagasy	dbo:wikiPageWikiLink	dbr:Malagasy_language ;
+	dbo:wikiPageRedirects	dbr:Malagasy_language .
+dbr:Mahafaly_Malagasy_language	dbo:wikiPageWikiLink	dbr:Malagasy_language ;
+	dbo:wikiPageRedirects	dbr:Malagasy_language .
+dbr:Masikoro_Malagasy	dbo:wikiPageWikiLink	dbr:Malagasy_language ;
+	dbo:wikiPageRedirects	dbr:Malagasy_language .
+dbr:Masikoro_Malagasy_language	dbo:wikiPageWikiLink	dbr:Malagasy_language ;
+	dbo:wikiPageRedirects	dbr:Malagasy_language .
+dbr:Masikoro_language	dbo:wikiPageWikiLink	dbr:Malagasy_language ;
+	dbo:wikiPageRedirects	dbr:Malagasy_language .
+dbr:Betsimisaraka_language	dbo:wikiPageWikiLink	dbr:Malagasy_language ;
+	dbo:wikiPageRedirects	dbr:Malagasy_language .
+dbr:Betsimisaraka	dbo:wikiPageWikiLink	dbr:Malagasy_language ;
+	dbo:wikiPageDisambiguates	dbr:Malagasy_language .
+dbr:Antankarana_Malagasy	dbo:wikiPageWikiLink	dbr:Malagasy_language ;
+	dbo:wikiPageRedirects	dbr:Malagasy_language .
+dbr:Antankarana_Malagasy_language	dbo:wikiPageWikiLink	dbr:Malagasy_language ;
+	dbo:wikiPageRedirects	dbr:Malagasy_language .
+dbr:Antankarana_language	dbo:wikiPageWikiLink	dbr:Malagasy_language ;
+	dbo:wikiPageRedirects	dbr:Malagasy_language .
+dbr:Bara-Malagasy	dbo:wikiPageWikiLink	dbr:Malagasy_language ;
+	dbo:wikiPageRedirects	dbr:Malagasy_language .
+dbr:Bara-Sakalava	dbo:wikiPageWikiLink	dbr:Malagasy_language ;
+	dbo:wikiPageRedirects	dbr:Malagasy_language .
+dbr:Bara_Malagasy	dbo:wikiPageWikiLink	dbr:Malagasy_language ;
+	dbo:wikiPageRedirects	dbr:Malagasy_language .
+dbr:Bara_Malagasy_language	dbo:wikiPageWikiLink	dbr:Malagasy_language ;
+	dbo:wikiPageRedirects	dbr:Malagasy_language .
+dbr:Tsimehety_Malagasy_language	dbo:wikiPageWikiLink	dbr:Malagasy_language ;
+	dbo:wikiPageRedirects	dbr:Malagasy_language .
+dbr:Tsimihety_Malagasy	dbo:wikiPageWikiLink	dbr:Malagasy_language ;
+	dbo:wikiPageRedirects	dbr:Malagasy_language .
+dbr:Tsimihety_Malagasy_language	dbo:wikiPageWikiLink	dbr:Malagasy_language ;
+	dbo:wikiPageRedirects	dbr:Malagasy_language .
+dbr:Tsimihety_language	dbo:wikiPageWikiLink	dbr:Malagasy_language ;
+	dbo:wikiPageRedirects	dbr:Malagasy_language .
+dbr:Southern_Betsimisaraka_Malagasy	dbo:wikiPageWikiLink	dbr:Malagasy_language ;
+	dbo:wikiPageRedirects	dbr:Malagasy_language .
+dbr:Southern_Betsimisaraka_Malagasy_language	dbo:wikiPageWikiLink	dbr:Malagasy_language ;
+	dbo:wikiPageRedirects	dbr:Malagasy_language .
+dbr:Southern_Betsimisaraka_language	dbo:wikiPageWikiLink	dbr:Malagasy_language ;
+	dbo:wikiPageRedirects	dbr:Malagasy_language .
+dbr:Southern_Malagasy_language	dbo:wikiPageWikiLink	dbr:Malagasy_language ;
+	dbo:wikiPageRedirects	dbr:Malagasy_language .
+dbr:Dialects_of_Malagasy	dbo:wikiPageWikiLink	dbr:Malagasy_language ;
+	dbo:wikiPageRedirects	dbr:Malagasy_language .
+dbr:Tesaka_Malagasy	dbo:wikiPageWikiLink	dbr:Malagasy_language ;
+	dbo:wikiPageRedirects	dbr:Malagasy_language .
+dbr:Tesaka_Malagasy_language	dbo:wikiPageWikiLink	dbr:Malagasy_language ;
+	dbo:wikiPageRedirects	dbr:Malagasy_language .
+dbr:Plateau_Malagasy	dbo:wikiPageWikiLink	dbr:Malagasy_language ;
+	dbo:wikiPageRedirects	dbr:Malagasy_language .
+dbr:Plateau_Malagasy_language	dbo:wikiPageWikiLink	dbr:Malagasy_language ;
+	dbo:wikiPageRedirects	dbr:Malagasy_language .
+dbr:Tankarana_Malagasy	dbo:wikiPageWikiLink	dbr:Malagasy_language ;
+	dbo:wikiPageRedirects	dbr:Malagasy_language .
+dbr:Tankarana_Malagasy_language	dbo:wikiPageWikiLink	dbr:Malagasy_language ;
+	dbo:wikiPageRedirects	dbr:Malagasy_language .
+dbr:Tanosy_Malagasy	dbo:wikiPageWikiLink	dbr:Malagasy_language ;
+	dbo:wikiPageRedirects	dbr:Malagasy_language .
+dbr:Tanosy_Malagasy_language	dbo:wikiPageWikiLink	dbr:Malagasy_language ;
+	dbo:wikiPageRedirects	dbr:Malagasy_language .
+dbr:Tanosy_language	dbo:wikiPageWikiLink	dbr:Malagasy_language ;
+	dbo:wikiPageRedirects	dbr:Malagasy_language .
+dbr:Sakalava-Malagasy	dbo:wikiPageWikiLink	dbr:Malagasy_language ;
+	dbo:wikiPageRedirects	dbr:Malagasy_language .
+dbr:Sakalava_Malagasy_language	dbo:wikiPageWikiLink	dbr:Malagasy_language ;
+	dbo:wikiPageRedirects	dbr:Malagasy_language .
+dbr:Sakalava_language	dbo:wikiPageWikiLink	dbr:Malagasy_language ;
+	dbo:wikiPageRedirects	dbr:Malagasy_language .
+dbr:List_of_geological_features_on_Mercury	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Word_order	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Philippe_Barbarin	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Pseudoscientific_language_comparison	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Austronesian_languages	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Lemuropisum_edule	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Asian_Africans	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Lake_Tsimanampetsotsa	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Trilled_affricate	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+<http://dbpedia.org/resource/R\u00E9union_Creole>	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Aristida_rufescens	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Education_in_Madagascar	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+<http://dbpedia.org/resource/Thomas_Hale_Jr.>	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Dahalokely	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Pangasinan_language	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Marc_Ravalomanana	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Y	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Bantu_peoples	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Methods_of_divination	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Jean-Joseph_Rabearivelo	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Culture_of_Madagascar	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Demographics_of_Madagascar	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Bara_language	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Arc_pair_grammar	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Lisa_Travis	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Andrianampoinimerina	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Sorabe_alphabet	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Barito_languages	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Vezo_people	dbo:language	dbr:Malagasy_language ;
+	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Seal_of_Madagascar	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Antaisaka_people	dbo:language	dbr:Malagasy_language ;
+	dbo:wikiPageWikiLink	dbr:Malagasy_language ;
+	dbp:langs	dbr:Malagasy_language .
+dbr:Antananarivo	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Ralambo	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+<http://dbpedia.org/resource/James_Cameron_(missionary)>	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Merina_people	dbo:language	dbr:Malagasy_language ;
+	dbo:wikiPageWikiLink	dbr:Malagasy_language ;
+	dbp:langs	dbr:Malagasy_language .
+dbr:Malagasy_hippopotamus	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Sakalava_people	dbo:wikiPageWikiLink	dbr:Malagasy_language ;
+	dbp:langs	dbr:Malagasy_language .
+dbr:Tsimihety_people	dbo:language	dbr:Malagasy_language ;
+	dbo:wikiPageWikiLink	dbr:Malagasy_language ;
+	dbp:langs	dbr:Malagasy_language .
+<http://dbpedia.org/resource/Ma\u0027anyan_people>	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Malagasy_mythology	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Boina_Kingdom	dbo:wikiPageWikiLink	dbr:Malagasy_language ;
+	dbp:commonLanguages	dbr:Malagasy_language .
+dbr:Ranavalona_I	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Ambohimanga	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Maromokotro	dbp:language	dbr:Malagasy_language ;
+	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Third_Republic_of_Madagascar	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Antandroy	dbo:wikiPageWikiLink	dbr:Malagasy_language ;
+	dbp:langs	dbr:Malagasy_language .
+dbr:Betsimisaraka_people	dbo:language	dbr:Malagasy_language ;
+	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+<http://dbpedia.org/resource/Ma\u0027anyan_language>	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Indians_in_Madagascar	dbo:language	dbr:Malagasy_language ;
+	dbo:wikiPageWikiLink	dbr:Malagasy_language ;
+	dbp:langs	dbr:Malagasy_language .
+dbr:Betsileo_people	dbo:language	dbr:Malagasy_language ;
+	dbo:wikiPageWikiLink	dbr:Malagasy_language ;
+	dbp:langs	dbr:Malagasy_language .
+dbr:High_Transitional_Authority	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Tangena	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Zafimaniry	dbo:language	dbr:Malagasy_language ;
+	dbo:wikiPageWikiLink	dbr:Malagasy_language ;
+	dbp:langs	dbr:Malagasy_language .
+dbr:Bezanozano	dbo:language	dbr:Malagasy_language ;
+	dbo:wikiPageWikiLink	dbr:Malagasy_language ;
+	dbp:langs	dbr:Malagasy_language .
+dbr:Ravenala	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Tanala	dbo:language	dbr:Malagasy_language ;
+	dbo:wikiPageWikiLink	dbr:Malagasy_language ;
+	dbp:langs	dbr:Malagasy_language .
+dbr:Rotaka	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Christianity_in_Madagascar	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Antaifasy	dbo:language	dbr:Malagasy_language ;
+	dbo:wikiPageWikiLink	dbr:Malagasy_language ;
+	dbp:langs	dbr:Malagasy_language .
+dbr:Sihanaka	dbo:language	dbr:Malagasy_language ;
+	dbo:wikiPageWikiLink	dbr:Malagasy_language ;
+	dbp:langs	dbr:Malagasy_language .
+dbr:Antambahoaka	dbo:language	dbr:Malagasy_language ;
+	dbo:wikiPageWikiLink	dbr:Malagasy_language ;
+	dbp:langs	dbr:Malagasy_language .
+dbr:Islam_in_Madagascar	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Antanosy_people	dbo:language	dbr:Malagasy_language ;
+	dbo:wikiPageWikiLink	dbr:Malagasy_language ;
+	dbp:langs	dbr:Malagasy_language .
+dbr:Antankarana	dbo:language	dbr:Malagasy_language ;
+	dbo:wikiPageWikiLink	dbr:Malagasy_language ;
+	dbp:langs	dbr:Malagasy_language .
+dbr:Mahafaly	dbo:language	dbr:Malagasy_language ;
+	dbo:wikiPageWikiLink	dbr:Malagasy_language ;
+	dbp:langs	dbr:Malagasy_language .
+dbr:Index_of_Madagascar-related_articles	dbo:wikiPageWikiLink	dbr:Malagasy_language .
+dbr:Antemoro_people	dbo:language	dbr:Malagasy_language ;
+	dbo:wikiPageWikiLink	dbr:Malagasy_language ;
+	dbp:langs	dbr:Malagasy_language .
+dbr:Lexical_semantics	dbo:wikiPageWikiLink	dbr:Malagasy_language .

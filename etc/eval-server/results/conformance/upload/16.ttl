@@ -1,0 +1,40 @@
+
+
+
+
+    
+
+    
+    
+
+    <http://bnb.data.bl.uk/doc/resource/006893251.rdf> <http://purl.org/dc/terms/license> <http://creativecommons.org/publicdomain/zero/1.0/>  ;
+<http://purl.org/linked-data/api/vocab#definition> <http://bnb.data.bl.uk/api#resource>  ;
+<http://purl.org/linked-data/api/vocab#extendedMetadataVersion> <http://bnb.data.bl.uk/doc/resource/006893251.rdf?_metadata=all%2Cviews%2Cformats%2Cexecution%2Cbindings%2Csite>  ;
+<http://rdfs.org/ns/void#inDataset> <http://bnb.data.bl.uk/id/data/BNB>  ;
+<http://www.w3.org/2000/01/rdf-schema#label> "American guerrilla / Roger Hilsman"  ;
+<http://xmlns.com/foaf/0.1/primaryTopic> <http://bnb.data.bl.uk/id/resource/006893251>   .<http://bnb.data.bl.uk/id/concept/ddc/e21/940.548673092> <http://www.w3.org/2000/01/rdf-schema#label> "940.548673092"   .<http://bnb.data.bl.uk/id/concept/lcsh/BurmaHistoryJapaneseoccupation1942-1945> <http://www.w3.org/2000/01/rdf-schema#label> "Burma--History--Japanese occupation, 1942-1945"   .<http://bnb.data.bl.uk/id/concept/lcsh/GuerrillasBurmaBiography> <http://www.w3.org/2000/01/rdf-schema#label> "Guerrillas--Burma--Biography"   .<http://bnb.data.bl.uk/id/concept/lcsh/GuerrillasUnitedStatesBiography> <http://www.w3.org/2000/01/rdf-schema#label> "Guerrillas--United States--Biography"   .<http://bnb.data.bl.uk/id/concept/lcsh/UnitedStatesOfficeofStrategicServicesBiography> <http://www.w3.org/2000/01/rdf-schema#label> "United States. Office of Strategic Services--Biography"   .<http://bnb.data.bl.uk/id/concept/lcsh/WorldWar1939-1945PersonalnarrativesAmerican> <http://www.w3.org/2000/01/rdf-schema#label> "World War, 1939-1945--Personal narratives, American"   .<http://bnb.data.bl.uk/id/concept/lcsh/WorldWar1939-1945UndergroundmovementsBurma> <http://www.w3.org/2000/01/rdf-schema#label> "World War, 1939-1945--Underground movements--Burma"   .<http://bnb.data.bl.uk/id/concept/organization/lcsh/UnitedStatesOfficeofStrategicServices> <http://www.w3.org/2000/01/rdf-schema#label> "United States. Office of Strategic Services"   .<http://bnb.data.bl.uk/id/concept/person/lcsh/HilsmanRoger> <http://www.w3.org/2000/01/rdf-schema#label> "Hilsman, Roger"   .<http://bnb.data.bl.uk/id/concept/place/lcsh/Burma> <http://www.w3.org/2000/01/rdf-schema#label> "Burma"   .<http://bnb.data.bl.uk/id/person/HilsmanRoger> <http://www.w3.org/2000/01/rdf-schema#label> "Hilsman, Roger"   .<http://bnb.data.bl.uk/id/place/Burma> <http://www.w3.org/2000/01/rdf-schema#label> "Burma"   .<http://bnb.data.bl.uk/id/resource/006893251> <http://iflastandards.info/ns/isbd/elements/P1053> "312 p."@en  ;
+<http://purl.org/dc/terms/creator> <http://bnb.data.bl.uk/id/person/HilsmanRoger>  ;
+<http://purl.org/dc/terms/description> "Includes index."@en  ;
+<http://purl.org/dc/terms/isPartOf> <http://bnb.data.bl.uk/id/series/Memoriesofwar>  ;
+<http://purl.org/dc/terms/language> <http://lexvo.org/id/iso639-3/eng>  ;
+<http://purl.org/dc/terms/spatial> <http://bnb.data.bl.uk/id/place/Burma>  ;
+<http://purl.org/dc/terms/subject> <http://bnb.data.bl.uk/id/concept/ddc/e21/940.548673092> ,<http://bnb.data.bl.uk/id/concept/lcsh/BurmaHistoryJapaneseoccupation1942-1945> ,<http://bnb.data.bl.uk/id/concept/lcsh/GuerrillasBurmaBiography> ,<http://bnb.data.bl.uk/id/concept/lcsh/GuerrillasUnitedStatesBiography> ,<http://bnb.data.bl.uk/id/concept/lcsh/UnitedStatesOfficeofStrategicServicesBiography> ,<http://bnb.data.bl.uk/id/concept/lcsh/WorldWar1939-1945PersonalnarrativesAmerican> ,<http://bnb.data.bl.uk/id/concept/lcsh/WorldWar1939-1945UndergroundmovementsBurma> ,<http://bnb.data.bl.uk/id/concept/organization/lcsh/UnitedStatesOfficeofStrategicServices> ,<http://bnb.data.bl.uk/id/concept/person/lcsh/HilsmanRoger> ,<http://bnb.data.bl.uk/id/concept/place/lcsh/Burma>  ;
+<http://purl.org/dc/terms/title> "American guerrilla : my war behind Japanese lines"  ;
+<http://purl.org/ontology/bibo/isbn10> "1574886916"  ;
+<http://rdaregistry.info/Elements/u/P60048> <http://rdaregistry.info/termList/RDACarrierType/1049>  ;
+<http://rdaregistry.info/Elements/u/P60049> <http://rdaregistry.info/termList/RDAContentType/1020>  ;
+<http://rdaregistry.info/Elements/u/P60050> <http://rdaregistry.info/termList/RDAMediaType/1007>  ;
+<http://schema.org/author> <http://bnb.data.bl.uk/id/person/HilsmanRoger>  ;
+<http://schema.org/datePublished> "2005"  ;
+<http://schema.org/identifier> <http://bnb.data.bl.uk/id/resource/GBA3V1071>  ;
+<http://schema.org/isbn> "1574886916"  ;
+<http://schema.org/name> "American guerrilla : my war behind Japanese lines"  ;
+<http://www.bl.uk/schemas/bibliographic/blterms#bnb> "GBA3V1071"  ;
+<http://www.bl.uk/schemas/bibliographic/blterms#publication> <http://bnb.data.bl.uk/id/resource/006893251/publicationevent/WashingtonDCPotomacBooksInc2005>  ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> ,<http://purl.org/ontology/bibo/Book> ,<http://schema.org/Book>  ;
+<http://www.w3.org/2000/01/rdf-schema#label> "American guerrilla / Roger Hilsman"  ;
+<http://www.w3.org/2002/07/owl#sameAs> <http://bnb.data.bl.uk/id/resource/GBA3V1071>  ;
+<http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://bnb.data.bl.uk/doc/resource/006893251.rdf>   .<http://bnb.data.bl.uk/id/resource/006893251/publicationevent/WashingtonDCPotomacBooksInc2005> <http://www.w3.org/2000/01/rdf-schema#label> "Washington, DC : Potomac Books, Inc., 2005"   .<http://bnb.data.bl.uk/id/series/Memoriesofwar> <http://www.w3.org/2000/01/rdf-schema#label> "Memories of war"   .<http://rdaregistry.info/termList/RDACarrierType/1049> <http://www.w3.org/2000/01/rdf-schema#label> "volume"   .<http://rdaregistry.info/termList/RDAContentType/1020> <http://www.w3.org/2000/01/rdf-schema#label> "text"   .<http://rdaregistry.info/termList/RDAMediaType/1007> <http://www.w3.org/2000/01/rdf-schema#label> "unmediated"   .
+
+
+

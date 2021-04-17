@@ -1,0 +1,88 @@
+
+
+
+
+    
+
+    @prefix : <https://bartle.doomicile.de/mbo/foaf#> .
+    
+
+    <http://bartle.doomicile.de/user/15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Agent>  ;
+<http://xmlns.com/foaf/0.1/account> <http://bartle.doomicile.de/user/15#acct>  ;
+<http://xmlns.com/foaf/0.1/homepage> <http://mbo.muxtape.com/>  ;
+<http://xmlns.com/foaf/0.1/knows> <http://bartle.doomicile.de/user/14> ,<http://bartle.doomicile.de/user/20> ,<http://bartle.doomicile.de/user/39> ,<http://bartle.doomicile.de/user/42> ,<http://bartle.doomicile.de/user/65> ,<https://bartle.doomicile.de/mbo/foaf>  ;
+<http://xmlns.com/foaf/0.1/weblog> <https://bartle.doomicile.de/mbo>   .<http://bartle.doomicile.de/user/14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Agent>  ;
+<http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://bartle.doomicile.de/trebron/foaf>  ;
+<http://xmlns.com/foaf/0.1/account> <http://bartle.doomicile.de/user/14#acct>  ;
+<http://xmlns.com/foaf/0.1/knows> <http://bartle.doomicile.de/user/15>   .<http://bartle.doomicile.de/user/14#acct> <http://rdfs.org/sioc/ns#account_of> <http://bartle.doomicile.de/user/14>  ;
+<http://rdfs.org/sioc/ns#follows> <http://bartle.doomicile.de/user/15#acct>  ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/OnlineAccount>  ;
+<http://xmlns.com/foaf/0.1/accountName> "trebron"  ;
+<http://xmlns.com/foaf/0.1/accountProfilePage> <https://bartle.doomicile.de/trebron>  ;
+<http://xmlns.com/foaf/0.1/accountServiceHomepage> <https://bartle.doomicile.de/>   .<http://bartle.doomicile.de/user/15#acct> <http://rdfs.org/sioc/ns#account_of> <http://bartle.doomicile.de/user/15>  ;
+<http://rdfs.org/sioc/ns#follows> <http://bartle.doomicile.de/user/14#acct> ,<http://bartle.doomicile.de/user/20#acct> ,<http://bartle.doomicile.de/user/39#acct> ,<http://bartle.doomicile.de/user/42#acct> ,<http://bartle.doomicile.de/user/65#acct> ,:acct  ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/OnlineAccount>  ;
+<http://xmlns.com/foaf/0.1/accountName> "mbo"  ;
+<http://xmlns.com/foaf/0.1/accountProfilePage> <https://bartle.doomicile.de/mbo>  ;
+<http://xmlns.com/foaf/0.1/accountServiceHomepage> <https://bartle.doomicile.de/>   .<http://bartle.doomicile.de/user/20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Agent>  ;
+<http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://bartle.doomicile.de/datenkeller/foaf>  ;
+<http://xmlns.com/foaf/0.1/account> <http://bartle.doomicile.de/user/20#acct>  ;
+<http://xmlns.com/foaf/0.1/knows> <http://bartle.doomicile.de/user/15>   .<http://bartle.doomicile.de/user/20#acct> <http://rdfs.org/sioc/ns#account_of> <http://bartle.doomicile.de/user/20>  ;
+<http://rdfs.org/sioc/ns#follows> <http://bartle.doomicile.de/user/15#acct>  ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/OnlineAccount>  ;
+<http://xmlns.com/foaf/0.1/accountName> "datenkeller"  ;
+<http://xmlns.com/foaf/0.1/accountProfilePage> <https://bartle.doomicile.de/datenkeller>  ;
+<http://xmlns.com/foaf/0.1/accountServiceHomepage> <https://bartle.doomicile.de/>   .<http://bartle.doomicile.de/user/39> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Agent>  ;
+<http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://bartle.doomicile.de/ahkoja/foaf>  ;
+<http://xmlns.com/foaf/0.1/account> <http://bartle.doomicile.de/user/39#acct>  ;
+<http://xmlns.com/foaf/0.1/knows> <http://bartle.doomicile.de/user/15>   .<http://bartle.doomicile.de/user/39#acct> <http://rdfs.org/sioc/ns#account_of> <http://bartle.doomicile.de/user/39>  ;
+<http://rdfs.org/sioc/ns#follows> <http://bartle.doomicile.de/user/15#acct>  ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/OnlineAccount>  ;
+<http://xmlns.com/foaf/0.1/accountName> "ahkoja"  ;
+<http://xmlns.com/foaf/0.1/accountProfilePage> <https://bartle.doomicile.de/ahkoja>  ;
+<http://xmlns.com/foaf/0.1/accountServiceHomepage> <https://bartle.doomicile.de/>   .<http://bartle.doomicile.de/user/42> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Agent>  ;
+<http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://bartle.doomicile.de/simonox/foaf>  ;
+<http://xmlns.com/foaf/0.1/account> <http://bartle.doomicile.de/user/42#acct>  ;
+<http://xmlns.com/foaf/0.1/knows> <http://bartle.doomicile.de/user/15>   .<http://bartle.doomicile.de/user/42#acct> <http://rdfs.org/sioc/ns#account_of> <http://bartle.doomicile.de/user/42>  ;
+<http://rdfs.org/sioc/ns#follows> <http://bartle.doomicile.de/user/15#acct>  ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/OnlineAccount>  ;
+<http://xmlns.com/foaf/0.1/accountName> "simonox"  ;
+<http://xmlns.com/foaf/0.1/accountProfilePage> <https://bartle.doomicile.de/simonox>  ;
+<http://xmlns.com/foaf/0.1/accountServiceHomepage> <https://bartle.doomicile.de/>   .<http://bartle.doomicile.de/user/65> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Agent>  ;
+<http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://bartle.doomicile.de/cambol/foaf>  ;
+<http://xmlns.com/foaf/0.1/account> <http://bartle.doomicile.de/user/65#acct>  ;
+<http://xmlns.com/foaf/0.1/knows> <http://bartle.doomicile.de/user/15>   .<http://bartle.doomicile.de/user/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Agent>  ;
+<http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://bartle.doomicile.de/igorette/foaf>  ;
+<http://xmlns.com/foaf/0.1/account> <http://bartle.doomicile.de/user/1#acct>   .<http://bartle.doomicile.de/user/1#acct> <http://rdfs.org/sioc/ns#account_of> <http://bartle.doomicile.de/user/1>  ;
+<http://rdfs.org/sioc/ns#follows> <http://bartle.doomicile.de/user/15#acct>  ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/OnlineAccount>  ;
+<http://xmlns.com/foaf/0.1/accountName> "igorette"  ;
+<http://xmlns.com/foaf/0.1/accountProfilePage> <https://bartle.doomicile.de/igorette>  ;
+<http://xmlns.com/foaf/0.1/accountServiceHomepage> <https://bartle.doomicile.de/>   .<http://bartle.doomicile.de/user/65#acct> <http://rdfs.org/sioc/ns#account_of> <http://bartle.doomicile.de/user/65>  ;
+<http://rdfs.org/sioc/ns#follows> <http://bartle.doomicile.de/user/15#acct>  ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/OnlineAccount>  ;
+<http://xmlns.com/foaf/0.1/accountName> "cambol"  ;
+<http://xmlns.com/foaf/0.1/accountProfilePage> <https://bartle.doomicile.de/cambol>  ;
+<http://xmlns.com/foaf/0.1/accountServiceHomepage> <https://bartle.doomicile.de/>   .<https://bartle.doomicile.de/ahkoja/foaf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/PersonalProfileDocument>  ;
+<http://xmlns.com/foaf/0.1/maker> <http://bartle.doomicile.de/user/39>  ;
+<http://xmlns.com/foaf/0.1/primaryTopic> <http://bartle.doomicile.de/user/39>   .<https://bartle.doomicile.de/cambol/foaf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/PersonalProfileDocument>  ;
+<http://xmlns.com/foaf/0.1/maker> <http://bartle.doomicile.de/user/65>  ;
+<http://xmlns.com/foaf/0.1/primaryTopic> <http://bartle.doomicile.de/user/65>   .<https://bartle.doomicile.de/datenkeller/foaf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/PersonalProfileDocument>  ;
+<http://xmlns.com/foaf/0.1/maker> <http://bartle.doomicile.de/user/20>  ;
+<http://xmlns.com/foaf/0.1/primaryTopic> <http://bartle.doomicile.de/user/20>   .<https://bartle.doomicile.de/igorette/foaf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/PersonalProfileDocument>  ;
+<http://xmlns.com/foaf/0.1/maker> <http://bartle.doomicile.de/user/1>  ;
+<http://xmlns.com/foaf/0.1/primaryTopic> <http://bartle.doomicile.de/user/1>   .<https://bartle.doomicile.de/mbo/foaf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Agent> ,<http://xmlns.com/foaf/0.1/PersonalProfileDocument>  ;
+<http://xmlns.com/foaf/0.1/account> [ <http://rdfs.org/sioc/ns#follows> <http://bartle.doomicile.de/user/15#acct>  ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/OnlineAccount>  ;
+<http://xmlns.com/foaf/0.1/accountName> "mbo"  ;
+<http://xmlns.com/foaf/0.1/accountProfilePage> <http://identi.ca/mbo>  ]  ;
+<http://xmlns.com/foaf/0.1/knows> <http://bartle.doomicile.de/user/15>  ;
+<http://xmlns.com/foaf/0.1/maker> <http://bartle.doomicile.de/user/15>  ;
+<http://xmlns.com/foaf/0.1/primaryTopic> <http://bartle.doomicile.de/user/15>   .<https://bartle.doomicile.de/simonox/foaf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/PersonalProfileDocument>  ;
+<http://xmlns.com/foaf/0.1/maker> <http://bartle.doomicile.de/user/42>  ;
+<http://xmlns.com/foaf/0.1/primaryTopic> <http://bartle.doomicile.de/user/42>   .<https://bartle.doomicile.de/trebron/foaf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/PersonalProfileDocument>  ;
+<http://xmlns.com/foaf/0.1/maker> <http://bartle.doomicile.de/user/14>  ;
+<http://xmlns.com/foaf/0.1/primaryTopic> <http://bartle.doomicile.de/user/14>   .
+
+
+

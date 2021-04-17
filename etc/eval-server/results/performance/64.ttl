@@ -1,0 +1,369 @@
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+<http://dbpedia.org/resource/Baden-W\u00FCrttemberg>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Karlsruhe_(district)> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+dbr:European_route_E35_in_Germany	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Karlsruhe_(district)> .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:European_route_E35_in_Germany	dbp:districtSpecial	<http://dbpedia.org/resource/Karlsruhe_(district)> .
+<http://dbpedia.org/resource/W\u00F6schbach>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Karlsruhe_(district)> .
+dbr:Adolf_Bieringer	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Karlsruhe_(district)> .
+<http://dbpedia.org/resource/Mahlberg_(mountain)>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Karlsruhe_(district)> .
+dbr:Ubstadt-Weiher	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Karlsruhe_(district)> .
+dbr:Ubstadt-Weiher_station	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Karlsruhe_(district)> .
+dbr:Dettenheim	dbo:region	<http://dbpedia.org/resource/Karlsruhe_(district)> ;
+	dbo:district	<http://dbpedia.org/resource/Karlsruhe_(district)> ;
+	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Karlsruhe_(district)> .
+dbr:Graben-Neudorf_Nord_station	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Karlsruhe_(district)> .
+dbr:Kraichtal	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Karlsruhe_(district)> .
+dbr:Oberderdingen	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Karlsruhe_(district)> .
+<http://dbpedia.org/resource/Calw_(district)>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Karlsruhe_(district)> .
+<http://dbpedia.org/resource/Karlsbad_(Baden)>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Karlsruhe_(district)> .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+<http://dbpedia.org/resource/Karlsruhe_(region)>	owl:differentFrom	<http://dbpedia.org/resource/Karlsruhe_(district)> ;
+	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Karlsruhe_(district)> .
+dbr:Linkenheim-Hochstetten	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Karlsruhe_(district)> .
+dbr:Zaisenhausen	dbo:region	<http://dbpedia.org/resource/Karlsruhe_(district)> ;
+	dbo:district	<http://dbpedia.org/resource/Karlsruhe_(district)> ;
+	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Karlsruhe_(district)> .
+@prefix ns4:	<http://dbpedia.org/resource/Central/> .
+ns4:North_Black_Forest_Nature_Park	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Karlsruhe_(district)> .
+<http://dbpedia.org/resource/Forst_(Baden)>	dbo:region	<http://dbpedia.org/resource/Karlsruhe_(district)> ;
+	dbo:district	<http://dbpedia.org/resource/Karlsruhe_(district)> ;
+	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Karlsruhe_(district)> .
+<http://dbpedia.org/resource/Friedrichstal_(Baden)_station>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Karlsruhe_(district)> .
+dbr:Gaggenau	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Karlsruhe_(district)> .
+dbr:Gochsheim_Castle	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Karlsruhe_(district)> .
+<http://dbpedia.org/resource/Bruchsal_(district)>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Karlsruhe_(district)> .
+dbr:Bruchsal_Sportzentrum_station	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Karlsruhe_(district)> .
+dbr:Waldbronn	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Karlsruhe_(district)> .
+dbr:Walzbachtal	dbo:region	<http://dbpedia.org/resource/Karlsruhe_(district)> ;
+	dbo:district	<http://dbpedia.org/resource/Karlsruhe_(district)> ;
+	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Karlsruhe_(district)> .
+<http://dbpedia.org/resource/List_of_castles_in_Baden-W\u00FCrttemberg>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Karlsruhe_(district)> .
+<http://dbpedia.org/resource/Federbach_(Alb)>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Karlsruhe_(district)> .
+dbr:Pfinztal	dbo:region	<http://dbpedia.org/resource/Karlsruhe_(district)> ;
+	dbo:district	<http://dbpedia.org/resource/Karlsruhe_(district)> ;
+	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Karlsruhe_(district)> .
+<http://dbpedia.org/resource/Philippsburg_(Baden)_station>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Karlsruhe_(district)> .
+dbr:Stettfeld-Weiher_station	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Karlsruhe_(district)> .
+<http://dbpedia.org/resource/Stromberg_(landscape)>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Karlsruhe_(district)> .
+<http://dbpedia.org/resource/Sulzfeld,_Baden-W\u00FCrttemberg>	dbo:region	<http://dbpedia.org/resource/Karlsruhe_(district)> ;
+	dbo:district	<http://dbpedia.org/resource/Karlsruhe_(district)> ;
+	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Karlsruhe_(district)> .
+dbr:Eggenstein-Leopoldshafen	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Karlsruhe_(district)> .
+<http://dbpedia.org/resource/Heilbronn_(district)>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Karlsruhe_(district)> .
+dbr:Muggensturm	dbo:region	<http://dbpedia.org/resource/Karlsruhe_(district)> ;
+	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Karlsruhe_(district)> .
+dbr:Malsch	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Karlsruhe_(district)> .
+dbr:Marxzell	dbo:region	<http://dbpedia.org/resource/Karlsruhe_(district)> ;
+	dbo:district	<http://dbpedia.org/resource/Karlsruhe_(district)> ;
+	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Karlsruhe_(district)> .
+dbr:Klaus_Bachmann	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Karlsruhe_(district)> .
+dbr:NUTS_statistical_regions_of_Germany	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Karlsruhe_(district)> .
+dbr:List_of_districts_of_Germany	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Karlsruhe_(district)> .
+dbr:Rhein-Pfalz-Kreis	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Karlsruhe_(district)> .
+dbr:List_of_twin_towns_and_sister_cities_in_Wales	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Karlsruhe_(district)> .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+<http://en.wikipedia.org/wiki/Karlsruhe_(district)>	foaf:primaryTopic	<http://dbpedia.org/resource/Karlsruhe_(district)> .
+dbr:Enzkreis	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Karlsruhe_(district)> .
+dbr:Kraich_Valley_Railway	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Karlsruhe_(district)> .
+<http://dbpedia.org/resource/Oberamt_(W\u00FCrttemberg)>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Karlsruhe_(district)> .
+dbr:Katzbach_Railway	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Karlsruhe_(district)> .
+dbr:Angelbachtal	dbo:region	<http://dbpedia.org/resource/Karlsruhe_(district)> ;
+	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Karlsruhe_(district)> .
+<http://dbpedia.org/resource/Bruchsal_\u2013_Schwetzingen>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Karlsruhe_(district)> .
+<http://dbpedia.org/resource/K\u00FCrnbach>	dbo:region	<http://dbpedia.org/resource/Karlsruhe_(district)> ;
+	dbo:district	<http://dbpedia.org/resource/Karlsruhe_(district)> ;
+	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Karlsruhe_(district)> .
+dbr:Upper_German	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Karlsruhe_(district)> .
+dbr:Bruchsal	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Karlsruhe_(district)> .
+<http://dbpedia.org/resource/List_of_cities_in_Baden-W\u00FCrttemberg_by_population>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Karlsruhe_(district)> .
+<http://dbpedia.org/resource/Bad_Sch\u00F6nborn>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Karlsruhe_(district)> .
+dbr:List_of_spa_towns_in_Germany	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Karlsruhe_(district)> .
+dbr:Karlsdorf-Neuthard	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Karlsruhe_(district)> .
+dbr:Karlsruhe	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Karlsruhe_(district)> .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+<http://dbpedia.org/resource/Karlsruhe_(district)>	rdf:type	owl:Thing .
+@prefix schema:	<http://schema.org/> .
+<http://dbpedia.org/resource/Karlsruhe_(district)>	rdf:type	schema:AdministrativeArea ,
+		<http://dbpedia.org/class/yago/WikicatDistrictsOfBaden-W\u00FCrttemberg> ,
+		dbo:AdministrativeRegion ,
+		dbo:Region ,
+		schema:Place .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+<http://dbpedia.org/resource/Karlsruhe_(district)>	rdf:type	yago:YagoPermanentlyLocatedEntity ,
+		yago:Region108630985 ,
+		dbo:Place ,
+		dbo:Location ,
+		yago:Location100027167 ,
+		yago:YagoGeoEntity .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+<http://dbpedia.org/resource/Karlsruhe_(district)>	rdf:type	wikidata:Q3455524 ,
+		yago:YagoLegalActorGeo ,
+		yago:Object100002684 ,
+		yago:PhysicalEntity100001930 .
+@prefix geo:	<http://www.w3.org/2003/01/geo/wgs84_pos#> .
+<http://dbpedia.org/resource/Karlsruhe_(district)>	rdf:type	geo:SpatialThing ,
+		yago:District108552138 ,
+		dbo:PopulatedPlace .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+<http://dbpedia.org/resource/Karlsruhe_(district)>	rdfs:label	"Karlsruhe (distrik)"@in ,
+		"Landkreis Karlsruhe"@de ,
+		"Karlsruhe (district)"@en ,
+		"Landkreis Karlsruhe"@sv ,
+		"\u30AB\u30FC\u30EB\u30B9\u30EB\u30FC\u30A8\u90E1"@ja ,
+		"Distrikto Karlsruhe"@eo ,
+		"Circondario di Karlsruhe"@it ,
+		"Distrito de Karlsruhe"@es ,
+		"Landkreis Karlsruhe"@nl ,
+		"Karlsruhe (distrito)"@pt ,
+		"Zemsk\u00FD okres Karlsruhe"@cs ,
+		"\u041A\u0430\u0440\u043B\u0441\u0440\u0443\u0435 (\u0440\u0430\u0439\u043E\u043D)"@uk ,
+		"Arrondissement de Karlsruhe"@fr ,
+		"Powiat Karlsruhe"@pl ,
+		"\u041A\u0430\u0440\u043B\u0441\u0440\u0443\u044D (\u0440\u0430\u0439\u043E\u043D)"@ru ,
+		"Karlsruhe (barrutia)"@eu ,
+		"\u5361\u5C14\u65AF\u9C81\u5384\u53BF"@zh ;
+	rdfs:comment	"\u0420\u0430\u0439\u043E\u043D \u041A\u0430\u0440\u043B\u0441\u0440\u0443\u0435 (\u043D\u0456\u043C. Landkreis Karlsruhe) \u2014 \u0440\u0430\u0439\u043E\u043D \u0437\u0435\u043C\u043B\u0456 \u0411\u0430\u0434\u0435\u043D-\u0412\u044E\u0440\u0442\u0435\u043C\u0431\u0435\u0440\u0433, \u041D\u0456\u043C\u0435\u0447\u0447\u0438\u043D\u0430. \u0420\u0430\u0439\u043E\u043D \u043F\u0456\u0434\u043F\u043E\u0440\u044F\u0434\u043A\u043E\u0432\u0430\u043D\u0438\u0439 \u0443\u0440\u044F\u0434\u043E\u0432\u043E\u043C\u0443 \u043E\u043A\u0440\u0443\u0433\u0443 \u041A\u0430\u0440\u043B\u0441\u0440\u0443\u0435. \u0426\u0435\u043D\u0442\u0440\u043E\u043C \u0440\u0430\u0439\u043E\u043D\u0443 \u0454 \u043C\u0456\u0441\u0442\u043E \u041A\u0430\u0440\u043B\u0441\u0440\u0443\u0435. \u041D\u0430\u0441\u0435\u043B\u0435\u043D\u043D\u044F \u0441\u0442\u0430\u043D\u043E\u0432\u0438\u0442\u044C 442 672 \u043E\u0441. (\u0441\u0442\u0430\u043D\u043E\u043C \u043D\u0430 31 \u0433\u0440\u0443\u0434\u043D\u044F 2017), \u043F\u043B\u043E\u0449\u0430  \u2014 1.084,98 \u043A\u043C\u00B2."@uk ,
+		"La distrikto Karlsruhe situas en la federacia lando Baden-Virtembergo de Germanio. \u011Cia administra sidejo estas la samnoma urbo Karlsruhe, kiu tamen ne estas parto de la distrikta teritorio, sed en nordo, oriento kaj sudo estas \u0109irka\u016Data de \u011Di. La distrikto estas parto de la distriktaro Karlsruhe kaj de la regiona ligo Meza Supra Rejno, krome anka\u016D de la translima Regiono Pamina."@eo ,
+		"Karlsruhe Alemaniako Baden-W\u00FCrttemberg estatuko ipar-mendebaldean dagoen landa barrutia da (Landkreis). Ondoan dituen beste barrutiak (iparraldetik hasita erlojuaren orratzen zentzuan) hauek dira: , ,, , , ,  eta Speyer hiri askearen barrutia. Karlsruheko hiri barrutiak (Stadtkreis Karlsruhe), Karlsruhe hiria bere barne hartzen duena, barrutiaren erdian kokatzen da eta bitan banatzen du landa barrutiaren iparraldea eta hegoaldea."@eu ,
+		"L'arrondissement de Karlsruhe, en allemand Landkreis Karlsruhe, est une division administrative allemande, situ\u00E9e dans le Land de Bade-Wurtemberg. L'arrondissement de Karlsruhe fait partie du district de Karlsruhe et de l'Aire urbaine Mittlerer Oberrhein."@fr ,
+		"Powiat Karlsruhe (niem. Landkreis Karlsruhe) - powiat w Niemczech, w kraju zwi\u0105zkowym Badenia-Wirtembergia, w rejencji Karlsruhe, w regionie Mittlerer Oberrhein. Stolic\u0105 powiatu jest miasto na prawach powiatu Karlsruhe, kt\u00F3re do powiatu jednak nie nale\u017Cy."@pl ,
+		"El Distrito de Karlsruhe es un distrito rural (Landkreis) situado en el oeste del estado federal de Baden-Wurtemberg. Los distritos vecinos son (empezando por el norte y en el sentido de las agujas del reloj), en el norte el Distrito de Rhein-Neckar, en el este al Distrito de Heilbronn, en el sudeste al Distrito de Enz, en el sur al Distrito de Calw y al Distrito de Rastatt, en el oeste el R\u00EDo Rin forma la frontera natural a Renania-Palatinado con sus Distritos de Rin-Palatinado, el Germersheim y el Distrito Urbano de Espira. El Distrito rodea el Distrito Urbano de Karlsruhe. La capital del distrito recae sobre la ciudad de Karlsruhe, aunque la ciudad forma un propio distrito urbano."@es ,
+		"Karlsruhe is a Landkreis (district) in the northwest of Baden-W\u00FCrttemberg, Germany. Neighboring districts are (from north clockwise) Rhein-Neckar, Heilbronn,Enz, Calw, Rastatt, Germersheim, Rhein-Pfalz-Kreis and the district-free city Speyer. The urban district Karlsruhe (Stadtkreis Karlsruhe), which contains the City of Karlsruhe, is located in the middle of the district, and partially cuts it into a northern and a southern part."@en ,
+		"Il circondario di Karlsruhe \u00E8 uno dei circondari dello stato tedesco del Baden-W\u00FCrttemberg. Fa parte del distretto governativo di Karlsruhe."@it ,
+		"Karlsruhe adalah sebuah kabupaten (Landkreis) di Baden-W\u00FCrttemberg, Jerman. Distrik-distrik yang ada di sekitarnya adalah (dari utara searah jarum jam) Rhein-Neckar-Kreis, Heilbronn, Enzkreis, Calw, Rastatt, Germersheim, Rhein-Pfalz-Kreis dan kota otonom Speyer. Distrik kota Karlsruhe (Stadtkreis Karlsruhe), yang memuat Kota Karlsruhe, terletak di tengah distrik, dan terbagi atas bagian utara dan selatan."@in ,
+		"Karlsruhe \u00E9 um distrito da Alemanha, na regi\u00E3o administrativa de Karlsruhe , estado de Baden-W\u00FCrttemberg. Com uma \u00E1rea de 1.084,88 km\u00B2 e com uma popula\u00E7\u00E3o de 424.276 habitantes (2002)."@pt ,
+		"Der Landkreis Karlsruhe ist ein Landkreis in Baden-W\u00FCrttemberg. Er geh\u00F6rt zur Region Mittlerer Oberrhein im Regierungsbezirk Karlsruhe und zur grenz\u00FCbergreifenden Regio Pamina."@de ,
+		"\u041A\u0430\u0440\u043B\u0441\u0440\u0443\u044D (\u043D\u0435\u043C. Karlsruhe) \u2014 \u0440\u0430\u0439\u043E\u043D \u0432 \u0413\u0435\u0440\u043C\u0430\u043D\u0438\u0438. \u0426\u0435\u043D\u0442\u0440 \u0440\u0430\u0439\u043E\u043D\u0430 \u2014 \u0433\u043E\u0440\u043E\u0434 \u041A\u0430\u0440\u043B\u0441\u0440\u0443\u044D. \u0420\u0430\u0439\u043E\u043D \u0432\u0445\u043E\u0434\u0438\u0442 \u0432 \u0437\u0435\u043C\u043B\u044E \u0411\u0430\u0434\u0435\u043D-\u0412\u044E\u0440\u0442\u0435\u043C\u0431\u0435\u0440\u0433. \u041F\u043E\u0434\u0447\u0438\u043D\u0451\u043D \u0430\u0434\u043C\u0438\u043D\u0438\u0441\u0442\u0440\u0430\u0442\u0438\u0432\u043D\u043E\u043C\u0443 \u043E\u043A\u0440\u0443\u0433\u0443 \u041A\u0430\u0440\u043B\u0441\u0440\u0443\u044D. \u0417\u0430\u043D\u0438\u043C\u0430\u0435\u0442 \u043F\u043B\u043E\u0449\u0430\u0434\u044C 1084,98 \u043A\u043C\u00B2. \u041D\u0430\u0441\u0435\u043B\u0435\u043D\u0438\u0435 \u2014 430 100 \u0447\u0435\u043B. \u041F\u043B\u043E\u0442\u043D\u043E\u0441\u0442\u044C \u043D\u0430\u0441\u0435\u043B\u0435\u043D\u0438\u044F \u2014 396 \u0447\u0435\u043B\u043E\u0432\u0435\u043A/\u043A\u043C\u00B2.\u041E\u0444\u0438\u0446\u0438\u0430\u043B\u044C\u043D\u044B\u0439 \u043A\u043E\u0434 \u0440\u0430\u0439\u043E\u043D\u0430 \u2014 08 2 15. \u0420\u0430\u0439\u043E\u043D \u043F\u043E\u0434\u0440\u0430\u0437\u0434\u0435\u043B\u044F\u0435\u0442\u0441\u044F \u043D\u0430 32 \u043E\u0431\u0449\u0438\u043D\u044B."@ru ,
+		"Landkreis Karlsruhe is een Landkreis in de Duitse deelstaat Baden-W\u00FCrttemberg. Het heeft een oppervlakte van 1084,97 km\u00B2 en een inwoneraantal van 427.149 (31-12-2003). Het bestuur zetelt in de stad Karlsruhe, die als Stadtkreis zelf geen deel uitmaakt van het Landkreis."@nl ,
+		"Landkreis Karlsruhe \u00E4r ett distrikt i Baden-W\u00FCrttemberg, Tyskland. Distriktet gr\u00E4nsar mot bland annat Frankrike."@sv ,
+		"\u5361\u5C14\u65AF\u9C81\u5384\u53BF\uFF08Landkreis Karlsruhe\uFF09\u662F\u5FB7\u56FD\u5DF4\u767B-\u7B26\u817E\u5821\u5DDE\u7684\u4E00\u4E2A\u53BF\uFF0C\u96B6\u5C5E\u4E8E\u5361\u5C14\u65AF\u9C81\u5384\u884C\u653F\u533A\uFF0C\u9996\u5E9C\u5361\u5C14\u65AF\u9C81\u5384\u3002"@zh ,
+		"\u30AB\u30FC\u30EB\u30B9\u30EB\u30FC\u30A8\u90E1 (\u30C9\u30A4\u30C4\u8A9E: Landkreis Karlsruhe)\u306F\u3001\u30D0\u30FC\u30C7\u30F3\uFF1D\u30F4\u30E5\u30EB\u30C6\u30F3\u30D9\u30EB\u30AF\u5DDE\u30AB\u30FC\u30EB\u30B9\u30EB\u30FC\u30A8\u884C\u653F\u7BA1\u533A\u306E\u4E2D\u592E\u90E8\u306B\u4F4D\u7F6E\u3059\u308B\u90E1\u3002\u90E1\u72EC\u7ACB\u5E02\u306E\u30AB\u30FC\u30EB\u30B9\u30EB\u30FC\u30A8\u3092\u30B3\u306E\u5B57\u72B6\u306B\u53D6\u308A\u56F2\u307F\u3001\u897F\u90E8\u306F\u30E9\u30A4\u30F3\u5DDD\u3092\u631F\u3093\u3067\u30E9\u30A4\u30F3\u30E9\u30F3\u30C8\uFF1D\u30D7\u30D5\u30A1\u30EB\u30C4\u5DDE\u306B\u63A5\u3059\u308B\u3002\u96A3\u63A5\u3059\u308B\u90E1\u306F\u3001\u30E9\u30A4\u30F3\uFF1D\u30CD\u30C3\u30AB\u30FC\u90E1\u3001\u30CF\u30A4\u30EB\u30D6\u30ED\u30F3\u90E1\u3001\u30A8\u30F3\u30C4\u90E1\u3001\u30AB\u30EB\u30D5\u90E1\u3001\u30E9\u30B7\u30E5\u30BF\u30C3\u30C8\u90E1\u3002"@ja ,
+		"Karlsruhe (n\u011Bmecky Landkreis Karlsruhe) je zemsk\u00FD okres na severoz\u00E1pad\u011B spolkov\u00E9 zem\u011B B\u00E1densko-W\u00FCrttembersko v N\u011Bmecku. Tento okres soused\u00ED (ze severu ve sm\u011Bru hodinov\u00FDch ru\u010Di\u010Dek) s okresy , Heilbronn, , , ,  (Por\u00FDn\u00ED-Falc),  (Por\u00FDn\u00ED-Falc) a nez\u00E1visl\u00FDm m\u011Bstsk\u00FDm okresem m\u011Bstem Speyer. Uprost\u0159ed okresu le\u017E\u00ED nez\u00E1visl\u00FD m\u011Bstsk\u00FD okres m\u011Bsto Karlsruhe a rozd\u011Bluje ho na severn\u00ED a ji\u017En\u00ED \u010D\u00E1st."@cs ;
+	foaf:name	"Karlsruhe"@en ;
+	foaf:homepage	<https://www.karlsruhe.de/> .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+<http://dbpedia.org/resource/Karlsruhe_(district)>	geo:lat	"49.0800018310546875"^^xsd:float ;
+	geo:long	"8.5799999237060546875"^^xsd:float ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Baden-W\u00FCrttemberg_KA_(district).svg> ;
+	foaf:isPrimaryTopicOf	<http://en.wikipedia.org/wiki/Karlsruhe_(district)> .
+@prefix virtrdf:	<http://www.openlinksw.com/schemas/virtrdf#> .
+<http://dbpedia.org/resource/Karlsruhe_(district)>	geo:geometry	"POINT(8.5799999237061 49.080001831055)"^^virtrdf:Geometry .
+@prefix dct:	<http://purl.org/dc/terms/> .
+<http://dbpedia.org/resource/Karlsruhe_(district)>	dct:subject	<http://dbpedia.org/resource/Category:Districts_of_Baden-W\u00FCrttemberg> ,
+		<http://dbpedia.org/resource/Category:Karlsruhe_(district)> ,
+		<http://dbpedia.org/resource/Category:Karlsruhe_(region)> ;
+	owl:sameAs	<http://zh.dbpedia.org/resource/\u5361\u5C14\u65AF\u9C81\u5384\u53BF> ,
+		<http://uk.dbpedia.org/resource/\u041A\u0430\u0440\u043B\u0441\u0440\u0443\u0435_(\u0440\u0430\u0439\u043E\u043D)> ,
+		<http://uz.dbpedia.org/resource/Karlsruhe_(tuman)> ,
+		<http://d-nb.info/gnd/65616-1> .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+<http://dbpedia.org/resource/Karlsruhe_(district)>	owl:sameAs	dbpedia-pl:Powiat_Karlsruhe ,
+		<http://id.dbpedia.org/resource/Karlsruhe_(distrik)> .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+<http://dbpedia.org/resource/Karlsruhe_(district)>	owl:sameAs	dbpedia-es:Distrito_de_Karlsruhe ,
+		<http://fa.dbpedia.org/resource/\u06A9\u0627\u0631\u0644\u0633\u0631\u0648\u0647\u0647_(\u0646\u0627\u062D\u06CC\u0647)> ,
+		<http://dbpedia.org/resource/Karlsruhe_(district)> ,
+		<http://viaf.org/viaf/133702543> ,
+		<http://war.dbpedia.org/resource/Karlsruhe_(distrito)> ,
+		<http://sws.geonames.org/2892791/> ,
+		<http://cs.dbpedia.org/resource/Zemsk\u00FD_okres_Karlsruhe> ,
+		<http://d-nb.info/gnd/4029714-7> .
+@prefix dbpedia-fi:	<http://fi.dbpedia.org/resource/> .
+<http://dbpedia.org/resource/Karlsruhe_(district)>	owl:sameAs	dbpedia-fi:Karlsruhen_piirikunta ,
+		<http://ru.dbpedia.org/resource/\u041A\u0430\u0440\u043B\u0441\u0440\u0443\u044D_(\u0440\u0430\u0439\u043E\u043D)> ,
+		<https://global.dbpedia.org/id/4yckr> ,
+		<http://ro.dbpedia.org/resource/Karlsruhe_(district)> .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+<http://dbpedia.org/resource/Karlsruhe_(district)>	owl:sameAs	dbpedia-nl:Landkreis_Karlsruhe ,
+		<http://d-nb.info/gnd/2015150-0> .
+@prefix dbpedia-tr:	<http://tr.dbpedia.org/resource/> .
+<http://dbpedia.org/resource/Karlsruhe_(district)>	owl:sameAs	dbpedia-tr:Landkreis_Karlsruhe .
+@prefix ns20:	<http://d-nb.info/gnd/4029714-7/about/> .
+<http://dbpedia.org/resource/Karlsruhe_(district)>	owl:sameAs	ns20:rdf ,
+		<http://ms.dbpedia.org/resource/Karlsruhe_(daerah)> ,
+		<http://vi.dbpedia.org/resource/Karlsruhe_(huy\u1EC7n)> ,
+		<http://lmo.dbpedia.org/resource/Karlsruhe_(circundari)> ,
+		<http://yago-knowledge.org/resource/Karlsruhe_(district)> .
+@prefix dbpedia-da:	<http://da.dbpedia.org/resource/> .
+<http://dbpedia.org/resource/Karlsruhe_(district)>	owl:sameAs	dbpedia-da:Landkreis_Karlsruhe .
+@prefix dbpedia-als:	<http://als.dbpedia.org/resource/> .
+<http://dbpedia.org/resource/Karlsruhe_(district)>	owl:sameAs	dbpedia-als:Landkreis_Karlsruhe .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+<http://dbpedia.org/resource/Karlsruhe_(district)>	owl:sameAs	dbpedia-it:Circondario_di_Karlsruhe ,
+		<http://rdf.freebase.com/ns/m.01hfp0> ,
+		wikidata:Q8178 .
+@prefix dbpedia-sv:	<http://sv.dbpedia.org/resource/> .
+<http://dbpedia.org/resource/Karlsruhe_(district)>	owl:sameAs	dbpedia-sv:Landkreis_Karlsruhe ,
+		<http://gadm.geovocab.org/id/2_11546> .
+@prefix dbpedia-eo:	<http://eo.dbpedia.org/resource/> .
+<http://dbpedia.org/resource/Karlsruhe_(district)>	owl:sameAs	dbpedia-eo:Distrikto_Karlsruhe ,
+		<http://hu.dbpedia.org/resource/Karlsruhe_j\u00E1r\u00E1s> ,
+		<http://kk.dbpedia.org/resource/\u041A\u0430\u0440\u043B\u0441\u0440\u0443\u044D_(\u0430\u0443\u0434\u0430\u043D)> ,
+		<http://sk.dbpedia.org/resource/Karlsruhe_(krajinsk\u00FD_okres)> ,
+		<http://pt.dbpedia.org/resource/Karlsruhe_(distrito)> ,
+		<http://eu.dbpedia.org/resource/Karlsruhe_(barrutia)> ,
+		<http://ja.dbpedia.org/resource/\u30AB\u30FC\u30EB\u30B9\u30EB\u30FC\u30A8\u90E1> .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+<http://dbpedia.org/resource/Karlsruhe_(district)>	owl:sameAs	dbpedia-fr:Arrondissement_de_Karlsruhe ,
+		<http://ka.dbpedia.org/resource/\u10D9\u10D0\u10E0\u10DA\u10E1\u10E0\u10E3\u10D4\u10E1_\u10E0\u10D0\u10D8\u10DD\u10DC\u10D8> .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+<http://dbpedia.org/resource/Karlsruhe_(district)>	owl:sameAs	dbpedia-de:Landkreis_Karlsruhe .
+@prefix ns28:	<http://ceb.dbpedia.org/resource/> .
+<http://dbpedia.org/resource/Karlsruhe_(district)>	owl:sameAs	ns28:Landkreis_Karlsruhe ,
+		<http://hr.dbpedia.org/resource/Karlsruhe_(okrug)> .
+@prefix georss:	<http://www.georss.org/georss/> .
+<http://dbpedia.org/resource/Karlsruhe_(district)>	georss:point	"49.08 8.58" ;
+	schema:sameAs	<http://viaf.org/viaf/133702543> .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+<http://dbpedia.org/resource/Karlsruhe_(district)>	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Karlsruhe_(district)?oldid=963100103&ns=0> ;
+	dbp:density	394 ;
+	dbp:url	<http://www.landkreis-karlsruhe.de> ;
+	dbp:area	1084.8800000000001091 ;
+	dbp:region	"Mittlerer Oberrhein"@en ;
+	dbo:country	dbr:Germany ;
+	dbp:population	424276 ;
+	dbp:capital	dbr:Karlsruhe ;
+	dbp:state	"Baden-W\u00FCrttemberg"@en ;
+	dbp:carsign	"KA"@en ;
+	<http://dbpedia.org/property/kreisschl\u00FCssel>	8215 ;
+	dbp:regierungsbezirk	<http://dbpedia.org/resource/Karlsruhe_(region)> ;
+	dbp:name	"Karlsruhe"@en ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Baden-W\u00FCrttemberg_KA_(district).svg?width=300> ;
+	dbo:wikiPageID	229825 ;
+	dbo:wikiPageRevisionID	963100103 ;
+	dbo:wikiPageWikiLink	dbr:Rhein-Neckar-Kreis ,
+		dbr:Rheinstetten ,
+		<http://dbpedia.org/resource/K\u00FCrnbach> ,
+		<http://dbpedia.org/resource/Sha\u0027ar_HaNegev_Regional_Council> ,
+		<http://dbpedia.org/resource/Category:Districts_of_Baden-W\u00FCrttemberg> ,
+		dbr:Rhine ,
+		dbr:Rhein-Pfalz-Kreis ,
+		dbr:Oberderdingen ,
+		dbr:Kraichtal ,
+		<http://dbpedia.org/resource/File:Coat_of_arms_of_Karlsruhe_(district).svg> ,
+		<http://dbpedia.org/resource/File:KarlsruherLinie.jpg> ,
+		dbr:Malsch ,
+		dbr:Eggenstein-Leopoldshafen ,
+		<http://dbpedia.org/resource/Germersheim_(district)> ,
+		dbr:Enzkreis ,
+		dbr:Freiberg_district ,
+		dbr:List_of_districts_of_Germany ,
+		dbr:Monmouthshire ,
+		<http://dbpedia.org/resource/Bad_Sch\u00F6nborn> ,
+		<http://dbpedia.org/resource/Sulzfeld,_Baden-W\u00FCrttemberg> ,
+		<http://dbpedia.org/resource/Heilbronn_(district)> ,
+		dbr:Torfaen ,
+		dbr:Pfinztal ,
+		dbr:Oberhausen-Rheinhausen ,
+		dbr:Dettenheim ,
+		dbr:Black_Forest ,
+		dbr:Walzbachtal ,
+		<http://dbpedia.org/resource/W\u00FCrttemberg> ,
+		dbr:Linkenheim-Hochstetten ,
+		<http://dbpedia.org/resource/Karlsbad_(Baden)> ,
+		dbr:Mittweida ,
+		<http://dbpedia.org/resource/Gwent_(county)> ,
+		<http://dbpedia.org/resource/Karlsruhe_(region)> ,
+		<http://dbpedia.org/resource/Weingarten_(Baden)> ,
+		dbr:House_of_Wittelsbach ,
+		dbr:Bruchsal ,
+		dbr:Zaisenhausen ,
+		dbr:Saxony ,
+		<http://dbpedia.org/resource/Rastatt_(district)> ,
+		<http://dbpedia.org/resource/Wagh\u00E4usel> ,
+		dbr:Stutensee ,
+		dbr:Speyer ,
+		dbr:Ettlingen ,
+		dbr:Grand_Duchy_of_Baden ,
+		<http://dbpedia.org/resource/\u00D6stringen> ,
+		dbr:Federal_Constitutional_Court ,
+		<http://dbpedia.org/resource/Brusque,_Santa_Catarina> ,
+		dbr:Germany ,
+		dbr:Mittelsachsen ,
+		<http://dbpedia.org/resource/Hambr\u00FCcken> ,
+		<http://dbpedia.org/resource/Kronau_(Baden)> ,
+		dbr:Graben-Neudorf ,
+		dbr:Gaza_Strip ,
+		<http://dbpedia.org/resource/Forst_(Baden)> ,
+		dbr:United_Kingdom ,
+		dbr:Negev ,
+		dbr:Karlsruhe ,
+		dbr:Ubstadt-Weiher ,
+		dbr:Bretten ,
+		dbr:Waldbronn ,
+		<http://dbpedia.org/resource/Baden-W\u00FCrttemberg> ,
+		dbr:Karlsdorf-Neuthard ,
+		dbr:Marxzell ,
+		dbr:Gondelsheim ,
+		<http://dbpedia.org/resource/Category:Karlsruhe_(region)> ,
+		<http://dbpedia.org/resource/Category:Karlsruhe_(district)> ,
+		dbr:Districts_of_Germany ,
+		dbr:Philippsburg ,
+		<http://dbpedia.org/resource/Calw_(district)> ;
+	dbo:wikiPageExternalLink	<http://www.landkreis-karlsruhe.de> ,
+		<https://www.karlsruhe.de/> .
+@prefix dbt:	<http://dbpedia.org/resource/Template:> .
+<http://dbpedia.org/resource/Karlsruhe_(district)>	dbp:wikiPageUsesTemplate	dbt:Flagicon ,
+		dbt:Expand_German ,
+		<http://dbpedia.org/resource/Template:Germany_districts_baden-w\u00FCrttemberg> ,
+		dbt:Authority_control ,
+		<http://dbpedia.org/resource/Template:Cities_and_towns_in_Karlsruhe_(district)> ,
+		dbt:Reflist ,
+		dbt:Short_description ,
+		dbt:Commons_category ,
+		dbt:Germany_district_OSM_map ,
+		dbt:Infobox_German_district ,
+		dbt:Other_uses ,
+		dbt:Coord ;
+	dbo:abstract	"\u0420\u0430\u0439\u043E\u043D \u041A\u0430\u0440\u043B\u0441\u0440\u0443\u0435 (\u043D\u0456\u043C. Landkreis Karlsruhe) \u2014 \u0440\u0430\u0439\u043E\u043D \u0437\u0435\u043C\u043B\u0456 \u0411\u0430\u0434\u0435\u043D-\u0412\u044E\u0440\u0442\u0435\u043C\u0431\u0435\u0440\u0433, \u041D\u0456\u043C\u0435\u0447\u0447\u0438\u043D\u0430. \u0420\u0430\u0439\u043E\u043D \u043F\u0456\u0434\u043F\u043E\u0440\u044F\u0434\u043A\u043E\u0432\u0430\u043D\u0438\u0439 \u0443\u0440\u044F\u0434\u043E\u0432\u043E\u043C\u0443 \u043E\u043A\u0440\u0443\u0433\u0443 \u041A\u0430\u0440\u043B\u0441\u0440\u0443\u0435. \u0426\u0435\u043D\u0442\u0440\u043E\u043C \u0440\u0430\u0439\u043E\u043D\u0443 \u0454 \u043C\u0456\u0441\u0442\u043E \u041A\u0430\u0440\u043B\u0441\u0440\u0443\u0435. \u041D\u0430\u0441\u0435\u043B\u0435\u043D\u043D\u044F \u0441\u0442\u0430\u043D\u043E\u0432\u0438\u0442\u044C 442 672 \u043E\u0441. (\u0441\u0442\u0430\u043D\u043E\u043C \u043D\u0430 31 \u0433\u0440\u0443\u0434\u043D\u044F 2017), \u043F\u043B\u043E\u0449\u0430  \u2014 1.084,98 \u043A\u043C\u00B2."@uk ,
+		"Karlsruhe (n\u011Bmecky Landkreis Karlsruhe) je zemsk\u00FD okres na severoz\u00E1pad\u011B spolkov\u00E9 zem\u011B B\u00E1densko-W\u00FCrttembersko v N\u011Bmecku. Tento okres soused\u00ED (ze severu ve sm\u011Bru hodinov\u00FDch ru\u010Di\u010Dek) s okresy , Heilbronn, , , ,  (Por\u00FDn\u00ED-Falc),  (Por\u00FDn\u00ED-Falc) a nez\u00E1visl\u00FDm m\u011Bstsk\u00FDm okresem m\u011Bstem Speyer. Uprost\u0159ed okresu le\u017E\u00ED nez\u00E1visl\u00FD m\u011Bstsk\u00FD okres m\u011Bsto Karlsruhe a rozd\u011Bluje ho na severn\u00ED a ji\u017En\u00ED \u010D\u00E1st."@cs ,
+		"La distrikto Karlsruhe situas en la federacia lando Baden-Virtembergo de Germanio. \u011Cia administra sidejo estas la samnoma urbo Karlsruhe, kiu tamen ne estas parto de la distrikta teritorio, sed en nordo, oriento kaj sudo estas \u0109irka\u016Data de \u011Di. La distrikto estas parto de la distriktaro Karlsruhe kaj de la regiona ligo Meza Supra Rejno, krome anka\u016D de la translima Regiono Pamina. La distrikto havas areon de 1 084 km\u00B2, kaj fine de decembro 2017 \u011Di havis 442\u2009672 lo\u011Dantojn. Najbaras la distriktoj Rhein-Neckar norde, Heilbronn oriente, Enz sudoriente kaj kaj Calw kaj Rastatt - \u0109iuj en Baden-Virtembergo sude. Okcidente, la rivero Rejno estas la natura limo al la najbara federacia lando Rejnlando-Palatinato: tie limas la distriktoj distrikto Rhein-Pfalz (Rejno-Palatinato) kaj Germersheim plus la eksterdistrikta urbo Speyer. Oriente de la Rejno, do en Baden-Virtembergo, la eksterdistrikta urbo Karlsruhe sur la mapo aspektas kvaza\u016D kiel kojno \u015Dovita en la distriktan teritorion: \u011Di dividas la distrikton al pli granda norda parto \u0109irka\u016D la urboj Bruchsal kaj Bretten, kaj al pli eta suda parto \u0109irka\u016D la urbo Ettlingen."@eo ,
+		"Karlsruhe adalah sebuah kabupaten (Landkreis) di Baden-W\u00FCrttemberg, Jerman. Distrik-distrik yang ada di sekitarnya adalah (dari utara searah jarum jam) Rhein-Neckar-Kreis, Heilbronn, Enzkreis, Calw, Rastatt, Germersheim, Rhein-Pfalz-Kreis dan kota otonom Speyer. Distrik kota Karlsruhe (Stadtkreis Karlsruhe), yang memuat Kota Karlsruhe, terletak di tengah distrik, dan terbagi atas bagian utara dan selatan."@in ,
+		"Landkreis Karlsruhe \u00E4r ett distrikt i Baden-W\u00FCrttemberg, Tyskland. Distriktet gr\u00E4nsar mot bland annat Frankrike."@sv ,
+		"Il circondario di Karlsruhe \u00E8 uno dei circondari dello stato tedesco del Baden-W\u00FCrttemberg. Fa parte del distretto governativo di Karlsruhe."@it ,
+		"Landkreis Karlsruhe is een Landkreis in de Duitse deelstaat Baden-W\u00FCrttemberg. Het heeft een oppervlakte van 1084,97 km\u00B2 en een inwoneraantal van 427.149 (31-12-2003). Het bestuur zetelt in de stad Karlsruhe, die als Stadtkreis zelf geen deel uitmaakt van het Landkreis."@nl ,
+		"\u041A\u0430\u0440\u043B\u0441\u0440\u0443\u044D (\u043D\u0435\u043C. Karlsruhe) \u2014 \u0440\u0430\u0439\u043E\u043D \u0432 \u0413\u0435\u0440\u043C\u0430\u043D\u0438\u0438. \u0426\u0435\u043D\u0442\u0440 \u0440\u0430\u0439\u043E\u043D\u0430 \u2014 \u0433\u043E\u0440\u043E\u0434 \u041A\u0430\u0440\u043B\u0441\u0440\u0443\u044D. \u0420\u0430\u0439\u043E\u043D \u0432\u0445\u043E\u0434\u0438\u0442 \u0432 \u0437\u0435\u043C\u043B\u044E \u0411\u0430\u0434\u0435\u043D-\u0412\u044E\u0440\u0442\u0435\u043C\u0431\u0435\u0440\u0433. \u041F\u043E\u0434\u0447\u0438\u043D\u0451\u043D \u0430\u0434\u043C\u0438\u043D\u0438\u0441\u0442\u0440\u0430\u0442\u0438\u0432\u043D\u043E\u043C\u0443 \u043E\u043A\u0440\u0443\u0433\u0443 \u041A\u0430\u0440\u043B\u0441\u0440\u0443\u044D. \u0417\u0430\u043D\u0438\u043C\u0430\u0435\u0442 \u043F\u043B\u043E\u0449\u0430\u0434\u044C 1084,98 \u043A\u043C\u00B2. \u041D\u0430\u0441\u0435\u043B\u0435\u043D\u0438\u0435 \u2014 430 100 \u0447\u0435\u043B. \u041F\u043B\u043E\u0442\u043D\u043E\u0441\u0442\u044C \u043D\u0430\u0441\u0435\u043B\u0435\u043D\u0438\u044F \u2014 396 \u0447\u0435\u043B\u043E\u0432\u0435\u043A/\u043A\u043C\u00B2.\u041E\u0444\u0438\u0446\u0438\u0430\u043B\u044C\u043D\u044B\u0439 \u043A\u043E\u0434 \u0440\u0430\u0439\u043E\u043D\u0430 \u2014 08 2 15. \u0420\u0430\u0439\u043E\u043D \u043F\u043E\u0434\u0440\u0430\u0437\u0434\u0435\u043B\u044F\u0435\u0442\u0441\u044F \u043D\u0430 32 \u043E\u0431\u0449\u0438\u043D\u044B."@ru ,
+		"Powiat Karlsruhe (niem. Landkreis Karlsruhe) - powiat w Niemczech, w kraju zwi\u0105zkowym Badenia-Wirtembergia, w rejencji Karlsruhe, w regionie Mittlerer Oberrhein. Stolic\u0105 powiatu jest miasto na prawach powiatu Karlsruhe, kt\u00F3re do powiatu jednak nie nale\u017Cy."@pl ,
+		"Karlsruhe is a Landkreis (district) in the northwest of Baden-W\u00FCrttemberg, Germany. Neighboring districts are (from north clockwise) Rhein-Neckar, Heilbronn,Enz, Calw, Rastatt, Germersheim, Rhein-Pfalz-Kreis and the district-free city Speyer. The urban district Karlsruhe (Stadtkreis Karlsruhe), which contains the City of Karlsruhe, is located in the middle of the district, and partially cuts it into a northern and a southern part."@en ,
+		"\u5361\u5C14\u65AF\u9C81\u5384\u53BF\uFF08Landkreis Karlsruhe\uFF09\u662F\u5FB7\u56FD\u5DF4\u767B-\u7B26\u817E\u5821\u5DDE\u7684\u4E00\u4E2A\u53BF\uFF0C\u96B6\u5C5E\u4E8E\u5361\u5C14\u65AF\u9C81\u5384\u884C\u653F\u533A\uFF0C\u9996\u5E9C\u5361\u5C14\u65AF\u9C81\u5384\u3002"@zh ,
+		"L'arrondissement de Karlsruhe, en allemand Landkreis Karlsruhe, est une division administrative allemande, situ\u00E9e dans le Land de Bade-Wurtemberg. L'arrondissement de Karlsruhe fait partie du district de Karlsruhe et de l'Aire urbaine Mittlerer Oberrhein."@fr ,
+		"Karlsruhe \u00E9 um distrito da Alemanha, na regi\u00E3o administrativa de Karlsruhe , estado de Baden-W\u00FCrttemberg. Com uma \u00E1rea de 1.084,88 km\u00B2 e com uma popula\u00E7\u00E3o de 424.276 habitantes (2002)."@pt ,
+		"Der Landkreis Karlsruhe ist ein Landkreis in Baden-W\u00FCrttemberg. Er geh\u00F6rt zur Region Mittlerer Oberrhein im Regierungsbezirk Karlsruhe und zur grenz\u00FCbergreifenden Regio Pamina."@de ,
+		"El Distrito de Karlsruhe es un distrito rural (Landkreis) situado en el oeste del estado federal de Baden-Wurtemberg. Los distritos vecinos son (empezando por el norte y en el sentido de las agujas del reloj), en el norte el Distrito de Rhein-Neckar, en el este al Distrito de Heilbronn, en el sudeste al Distrito de Enz, en el sur al Distrito de Calw y al Distrito de Rastatt, en el oeste el R\u00EDo Rin forma la frontera natural a Renania-Palatinado con sus Distritos de Rin-Palatinado, el Germersheim y el Distrito Urbano de Espira. El Distrito rodea el Distrito Urbano de Karlsruhe. La capital del distrito recae sobre la ciudad de Karlsruhe, aunque la ciudad forma un propio distrito urbano."@es ,
+		"\u30AB\u30FC\u30EB\u30B9\u30EB\u30FC\u30A8\u90E1 (\u30C9\u30A4\u30C4\u8A9E: Landkreis Karlsruhe)\u306F\u3001\u30D0\u30FC\u30C7\u30F3\uFF1D\u30F4\u30E5\u30EB\u30C6\u30F3\u30D9\u30EB\u30AF\u5DDE\u30AB\u30FC\u30EB\u30B9\u30EB\u30FC\u30A8\u884C\u653F\u7BA1\u533A\u306E\u4E2D\u592E\u90E8\u306B\u4F4D\u7F6E\u3059\u308B\u90E1\u3002\u90E1\u72EC\u7ACB\u5E02\u306E\u30AB\u30FC\u30EB\u30B9\u30EB\u30FC\u30A8\u3092\u30B3\u306E\u5B57\u72B6\u306B\u53D6\u308A\u56F2\u307F\u3001\u897F\u90E8\u306F\u30E9\u30A4\u30F3\u5DDD\u3092\u631F\u3093\u3067\u30E9\u30A4\u30F3\u30E9\u30F3\u30C8\uFF1D\u30D7\u30D5\u30A1\u30EB\u30C4\u5DDE\u306B\u63A5\u3059\u308B\u3002\u96A3\u63A5\u3059\u308B\u90E1\u306F\u3001\u30E9\u30A4\u30F3\uFF1D\u30CD\u30C3\u30AB\u30FC\u90E1\u3001\u30CF\u30A4\u30EB\u30D6\u30ED\u30F3\u90E1\u3001\u30A8\u30F3\u30C4\u90E1\u3001\u30AB\u30EB\u30D5\u90E1\u3001\u30E9\u30B7\u30E5\u30BF\u30C3\u30C8\u90E1\u3002"@ja ,
+		"Karlsruhe Alemaniako Baden-W\u00FCrttemberg estatuko ipar-mendebaldean dagoen landa barrutia da (Landkreis). Ondoan dituen beste barrutiak (iparraldetik hasita erlojuaren orratzen zentzuan) hauek dira: , ,, , , ,  eta Speyer hiri askearen barrutia. Karlsruheko hiri barrutiak (Stadtkreis Karlsruhe), Karlsruhe hiria bere barne hartzen duena, barrutiaren erdian kokatzen da eta bitan banatzen du landa barrutiaren iparraldea eta hegoaldea."@eu .
+@prefix ns32:	<http://www.w3.org/2006/03/wn/wn20/instances/> .
+<http://dbpedia.org/resource/Karlsruhe_(district)>	dbp:wordnet_type	ns32:synset-district-noun-1 ;
+	dbo:wikiPageLength	"6358"^^xsd:nonNegativeInteger ;
+	dbp:populationAsOf	2002 .
+dbr:List_of_capitals_outside_the_territories_they_serve	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Karlsruhe_(district)> .
+<http://dbpedia.org/resource/Germersheim_(district)>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Karlsruhe_(district)> .
+<http://dbpedia.org/resource/Rastatt_(district)>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Karlsruhe_(district)> .
+dbr:Rheinstetten	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Karlsruhe_(district)> .
+<http://dbpedia.org/resource/Rhine_Railway_(Baden)>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Karlsruhe_(district)> .
+dbr:Ettlingen	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Karlsruhe_(district)> .
+dbr:Philippsburg	dbp:district	<http://dbpedia.org/resource/Karlsruhe_(district)> ;
+	dbo:district	<http://dbpedia.org/resource/Karlsruhe_(district)> ;
+	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Karlsruhe_(district)> .
+dbr:Bruhrain_Railway	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Karlsruhe_(district)> .
+dbr:Philippsburg_Nuclear_Power_Plant	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Karlsruhe_(district)> .
+<http://dbpedia.org/resource/Moosalb_(Alb)>	dbp:subdivisionName	<http://dbpedia.org/resource/Karlsruhe_(district)> ;
+	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Karlsruhe_(district)> .
+dbr:Wilhelm_Lamey	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Karlsruhe_(district)> .
+dbr:Knittlingen	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Karlsruhe_(district)> .
+dbr:Alb_Valley_Railway	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Karlsruhe_(district)> .
+<http://dbpedia.org/resource/W\u00FCrttemberg_Western_Railway>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Karlsruhe_(district)> .
+<http://dbpedia.org/resource/Weingarten_(Baden)>	dbo:region	<http://dbpedia.org/resource/Karlsruhe_(district)> ;
+	dbo:district	<http://dbpedia.org/resource/Karlsruhe_(district)> ;
+	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Karlsruhe_(district)> .
+dbr:List_of_mountains_and_hills_of_the_Black_Forest	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Karlsruhe_(district)> .
+dbr:Stromberg-Heuchelberg_Nature_Park	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Karlsruhe_(district)> .
+dbr:Sternenfels	dbo:region	<http://dbpedia.org/resource/Karlsruhe_(district)> ;
+	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Karlsruhe_(district)> .
+<http://dbpedia.org/resource/Karlsruhe_(disambiguation)>	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Karlsruhe_(district)> ;
+	dbo:wikiPageDisambiguates	<http://dbpedia.org/resource/Karlsruhe_(district)> .
+dbr:Landkreis_Karlsruhe	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Karlsruhe_(district)> ;
+	dbo:wikiPageRedirects	<http://dbpedia.org/resource/Karlsruhe_(district)> .
+dbr:Karlsruhe_district	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/Karlsruhe_(district)> ;
+	dbo:wikiPageRedirects	<http://dbpedia.org/resource/Karlsruhe_(district)> .

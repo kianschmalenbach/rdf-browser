@@ -1,0 +1,22 @@
+
+
+
+
+    
+
+    
+    
+
+    <http://status.hackerposse.com/dr/foaf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/PersonalProfileDocument>  ;
+<http://xmlns.com/foaf/0.1/maker> <http://status.hackerposse.com/user/218>  ;
+<http://xmlns.com/foaf/0.1/primaryTopic> <http://status.hackerposse.com/user/218>   .<http://status.hackerposse.com/user/218> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Agent>  ;
+<http://xmlns.com/foaf/0.1/account> <http://status.hackerposse.com/user/218#acct>  ;
+<http://xmlns.com/foaf/0.1/mbox_sha1sum> "b37c4a2d1239782139c4b64f2abcfaf454ad88cf"  ;
+<http://xmlns.com/foaf/0.1/weblog> <http://status.hackerposse.com/dr>   .<http://status.hackerposse.com/user/218#acct> <http://rdfs.org/sioc/ns#account_of> <http://status.hackerposse.com/user/218>  ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/OnlineAccount>  ;
+<http://xmlns.com/foaf/0.1/accountName> "dr"  ;
+<http://xmlns.com/foaf/0.1/accountProfilePage> <http://status.hackerposse.com/dr>  ;
+<http://xmlns.com/foaf/0.1/accountServiceHomepage> <http://status.hackerposse.com/>   .
+
+
+

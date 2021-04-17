@@ -1,0 +1,24 @@
+
+
+
+
+    
+
+    
+    
+
+    <http://data.open.ac.uk/context/oro> <http://rdfs.org/ns/void#xmlns> "http://rdfs.org/ns/void#"   .<http://data.open.ac.uk/event/ext-06fb496b5dc3283ffcec73d09bc82cb8> <http://purl.org/ontology/bibo/xmlns> "http://purl.org/ontology/bibo/"   .<http://data.open.ac.uk/oro/21166> <http://purl.org/dc/terms/creator> <http://data.open.ac.uk/person/36bf4bffbebe05f5d7193fb24d7e7637> ,<http://data.open.ac.uk/person/6db47456ef992611478fd3d3b7990c24> ,<http://data.open.ac.uk/person/807826f303889d38b5d7920c27f98471> ,<http://data.open.ac.uk/person/9d26e64de26c9c3a8b9ba0246725a577> ,<http://data.open.ac.uk/person/ext-4924e1eabab388e30b64418b7663a00d> ,<http://data.open.ac.uk/person/ext-911ee9dfa3db572830b00bd8a9983e39>  ;
+<http://purl.org/dc/terms/date> [ <http://purl.org/dc/terms/xmlns> "http://purl.org/dc/terms/"  ]  ;
+<http://purl.org/dc/terms/isPartOf> <http://data.open.ac.uk/oro/repository>  ;
+<http://purl.org/dc/terms/title> [ <http://purl.org/dc/terms/xmlns> "http://purl.org/dc/terms/"  ]  ;
+<http://purl.org/ontology/bibo/abstract> [ <http://purl.org/ontology/bibo/xmlns> "http://purl.org/ontology/bibo/"  ]  ;
+<http://purl.org/ontology/bibo/authorList> <http://data.open.ac.uk/oro/21166/authors>  ;
+<http://purl.org/ontology/bibo/presentedAt> <http://data.open.ac.uk/event/ext-06fb496b5dc3283ffcec73d09bc82cb8>  ;
+<http://purl.org/ontology/bibo/status> <http://purl.org/ontology/bibo/status/peerReviewed>  ;
+<http://purl.org/ontology/bibo/uri> [ <http://purl.org/ontology/bibo/xmlns> "http://purl.org/ontology/bibo/"  ] ,[ <http://purl.org/ontology/bibo/xmlns> "http://purl.org/ontology/bibo/"  ] ,[ <http://purl.org/ontology/bibo/xmlns> "http://purl.org/ontology/bibo/"  ] ,[ <http://purl.org/ontology/bibo/xmlns> "http://purl.org/ontology/bibo/"  ]  ;
+<http://rdfs.org/ns/void#inDataset> <http://data.open.ac.uk/context/oro>  ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/bibo/AcademicArticle> ,<http://purl.org/ontology/bibo/Article>  ;
+<http://www.w3.org/2000/01/rdf-schema#label> "   Watson, J.S. ; Gilmour, I. ; Jolley, D.W.; Kelley, S.P. ; Gilmour, M.A.  and Gurov, E.P. (2010).  Molecular parameters of post impact cooling in the Boltysh impact structure.   In: 41st Lunar and Planetary Science Conference, 1-5 Mar 2010, Houston.       " ,"Watson, J.S. ; Gilmour, I. ; Jolley, D.W.; Kelley, S.P. ; Gilmour, M.A.  and Gurov, E.P. (2010).  Molecular parameters of post impact cooling in the Boltysh impact structure.   In: 41st Lunar and Planetary Science Conference, 1-5 Mar 2010, Houston."   .<http://data.open.ac.uk/oro/21166/authors> <http://purl.org/ontology/bibo/xmlns> "http://purl.org/ontology/bibo/"   .<http://data.open.ac.uk/oro/repository> <http://purl.org/dc/terms/xmlns> "http://purl.org/dc/terms/"   .<http://data.open.ac.uk/person/36bf4bffbebe05f5d7193fb24d7e7637> <http://purl.org/dc/terms/xmlns> "http://purl.org/dc/terms/"   .<http://data.open.ac.uk/person/6db47456ef992611478fd3d3b7990c24> <http://purl.org/dc/terms/xmlns> "http://purl.org/dc/terms/"   .<http://data.open.ac.uk/person/807826f303889d38b5d7920c27f98471> <http://purl.org/dc/terms/xmlns> "http://purl.org/dc/terms/"   .<http://data.open.ac.uk/person/9d26e64de26c9c3a8b9ba0246725a577> <http://purl.org/dc/terms/xmlns> "http://purl.org/dc/terms/"   .<http://data.open.ac.uk/person/ext-4924e1eabab388e30b64418b7663a00d> <http://purl.org/dc/terms/xmlns> "http://purl.org/dc/terms/"   .<http://data.open.ac.uk/person/ext-911ee9dfa3db572830b00bd8a9983e39> <http://purl.org/dc/terms/xmlns> "http://purl.org/dc/terms/"   .<http://purl.org/ontology/bibo/status/peerReviewed> <http://purl.org/ontology/bibo/xmlns> "http://purl.org/ontology/bibo/"   .
+
+
+

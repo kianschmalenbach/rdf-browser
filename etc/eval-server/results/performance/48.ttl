@@ -1,0 +1,2234 @@
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+dbr:Max_Steiner	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/The_Long_Tomorrow_(comics)>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Joseph_Cornell	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Jack_Benny	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Deneb_in_fiction	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Betelgeuse_in_fiction	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Vega_in_fiction	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Harper_(film)>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Vincent_Sherman	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Live_Read	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:La_La_Land	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Jungle_Cruise	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/2HB>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/History_of_San_Bernardino,_California>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Body_and_Soul_(1931_film)>	dbo:starring	dbr:Humphrey_Bogart ;
+	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Borsalino	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Five_Star_Final	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Guy_Gilpatric	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Joseph_Kessel	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Military_Personnel_Records_Center	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Humphrey_Cobb	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:James_Norman_Hall	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Sealyham_Terrier	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:The_Caine_Mutiny	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Randolph_Scott	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Pelham_Bay_Naval_Training_Station	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+@prefix dbp:	<http://dbpedia.org/property/> .
+<http://dbpedia.org/resource/Sirocco_(film)>	dbp:starring	dbr:Humphrey_Bogart ;
+	dbo:starring	dbr:Humphrey_Bogart ;
+	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Clements_Ripley	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/The_African_Queen_(novel)>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/John_Murrell_(bandit)>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/The_African_Queen_(1977_film)>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Jack_Cheatham	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Safe_House_(1998_film)>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Tim_Trench	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Bogart\u2013Bacall_syndrome>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Lincoln_Hurst	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Morecambe_and_Wise	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/SS_Europa_(1928)>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/21st_Academy_Awards>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Burial	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Trench_coat	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Jerome_Zerbe	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Ingrid_Bergman_performances	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Mar\u00EDa_F\u00E9lix>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Bless_\u0027Em_All>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/1947_in_film>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:List_of_Academy_Award-winning_families	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Lux_Radio_Theatre	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Valentina_Cortese	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Hollywood_blacklist	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/1930s>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Bobby_Jordan	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Breathless_(1960_film)>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Delmer_Daves	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Dewey_Martin_(actor)>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Dick_Foran	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Don_Newton	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Gloria_Talbott	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Kid_Galahad_(1937_film)>	dbp:starring	dbr:Humphrey_Bogart ;
+	dbo:starring	dbr:Humphrey_Bogart ;
+	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Priscilla_Lane	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Proof_of_Life	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Alan_Hale_Sr.>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Aldo_Ray	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Algiers_(film)>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/All_Through_the_Night_(film)>	dbp:starring	dbr:Humphrey_Bogart ;
+	dbo:starring	dbr:Humphrey_Bogart ;
+	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Charles_Bukowski	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Charles_Drake_(actor)>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Charles_McGraw	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Charles_Waldron	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Charley_Foy	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/O._E._Hasse>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:John_Wengraf	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Barton_MacLane	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Lottie_Williams	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Louis_V._Arco>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/China_Clipper_(film)>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Gene_Raymond	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Genevieve_Tobin	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/George_Bancroft_(actor)>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/George_Carleton_(actor)>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:George_Raft	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Jeffrey_Lynn	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:John_Bleifer	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:John_Derek	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Beachwood_Canyon,_Los_Angeles>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Beat_the_Devil_(film)>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Bill_Kerr	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Leonid_Kinskey	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Teru_Shimada	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Paul_Klinger	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Outline_of_film	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Mocambo_(nightclub)>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Safari_(1956_film)>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Sally_Rand	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Sam_Levene	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Douglas_Wood_(actor)>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:East_Side_Kids	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Francis_Sayles	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Fred_MacMurray	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:History_of_film	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Hobart_Henley	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Hollywood_Victory_Caravan	dbp:starring	dbr:Humphrey_Bogart ;
+	dbo:starring	dbr:Humphrey_Bogart ;
+	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:In_a_Lonely_Place	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Infamous_(2006_film)>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Isle_of_Fury	dbo:starring	dbr:Humphrey_Bogart ;
+	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Ivor_Barnard	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Jack_La_Rue	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Jackie_Gleason	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Jay_Silverheels	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/San_Quentin_(1937_film)>	dbp:starring	dbr:Humphrey_Bogart ;
+	dbo:starring	dbr:Humphrey_Bogart ;
+	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Screen_Actors_Guild	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Ann_Sheridan	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Archie_Mayo	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Arthur_Kennedy	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Arthur_T._Horman>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Once_(film)>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Overdrawn_at_the_Memory_Bank	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Rambo_(2008_film)>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/The_Big_Sleep_(1946_film)>	dbo:starring	dbr:Humphrey_Bogart ;
+	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:The_Driver	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:The_Great_Movie_Ride	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/The_Long_Goodbye_(film)>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/The_Lost_Patrol_(1934_film)>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/The_Maltese_Falcon_(1941_film)>	dbo:starring	dbr:Humphrey_Bogart ;
+	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/The_Man_Who_Would_Be_King_(film)>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/The_Two_Mrs._Carrolls>	dbp:starring	dbr:Humphrey_Bogart ;
+	dbo:starring	dbr:Humphrey_Bogart ;
+	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:The_Unsuspected	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/A_Star_Is_Born_(1954_film)>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Across_the_Pacific	dbp:starring	dbr:Humphrey_Bogart ;
+	dbo:starring	dbr:Humphrey_Bogart ;
+	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Act_of_Violence	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Two_Guys_from_Milwaukee	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Merritt_B._Gerstad>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Brooklyn_Law_School	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Brother_Orchid	dbp:starring	dbr:Humphrey_Bogart ;
+	dbo:starring	dbr:Humphrey_Bogart ;
+	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Bryan_Ferry	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Buddy_Roosevelt	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Burbank,_California>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Academy_Award_(radio_series)>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Cornel_Wilde	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Lash_LaRue	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Last_Man_Standing_(1996_film)>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Dan_Seymour	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Dane_Clark	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Dead_End_(1937_film)>	dbp:starring	dbr:Humphrey_Bogart ;
+	dbo:starring	dbr:Humphrey_Bogart ;
+	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Arturo_Soto_Rangel	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Panic_Room	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Paul_Harvey_(actor)>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Paul_Henreid	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Paul_Mantee	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Peter_Lorre	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Peter_Ustinov	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Robert_Ardrey	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Rory_Mallinson	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Seton_I._Miller>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Shirt_Tales	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Suspense_(radio_drama)>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Victor_Sen_Yung	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Villain_(1971_film)>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:List_of_catchphrases	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Farewell,_My_Lovely_(1975_film)>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Nat_Carr	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Nathaniel_Benchley	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Nella_Walker	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Wayne_Morris_(American_actor)>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Wendy_Barrie	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/What\u0027s_Up,_Doc%3F_(1972_film)>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/List_of_people_from_Newport_Beach,_California>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Edward_Pawley	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Elisha_Cook_Jr.>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Elissa_Landi	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Helmut_Dantine	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Henry_Hull	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Herbert_Anderson	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/High_Sierra_(film)>	dbp:starring	dbr:Humphrey_Bogart ;
+	dbo:starring	dbr:Humphrey_Bogart ;
+	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Murray_Alper	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Myron_Coureval_Fagan	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:John_Ridgely	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/John_Sheehan_(actor)>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Juan_Orol	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Judith_Anderson	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Julie_Bishop_(actress)>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:June_Havoc	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:William_Edmund_Barrett	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Irish_Mob	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Joan_Blondell	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Huntz_Hall	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Elliott_Gould	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Zoltan_Korda	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Deaths_in_July_2002	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Split_Personalities_(video_game)>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:List_of_people_on_the_postage_stamps_of_Cuba	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Kenneth_O._Chilstrom>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Edmond_O\u0027Brien>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:November_1942	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Howard_Koch_(screenwriter)>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:James_Cagney	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Herman_Steiner	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Susan_Peters	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Walter_Huston	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:War_film	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Independent_Citizens_Committee_of_the_Arts,_Sciences_and_Professions>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:January_1941	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:January_1942	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:January_1948	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:List_of_fictional_aircraft	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Michael_Curtiz	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:July_1948	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Video-video	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Trucking_industry_in_popular_culture_(United_States)>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Paramount_Theatre_(Oakland,_California)>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Bar\u0131\u015F_\u00C7akmak>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Musical_short	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Too_Marvelous_for_Words	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Moanin\u0027_Low>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:List_of_Mysteries_and_Scandals_episodes	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart ;
+	dbp:title	dbr:Humphrey_Bogart .
+dbr:List_of_American_films_of_1950	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Brother,_Can_You_Spare_a_Dime%3F_(film)>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/These_Foolish_Things_(Remind_Me_of_You)>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:List_of_fictional_ships	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Thomas_Burberry	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Tramp_trade	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Music_Box_Theatre	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:List_of_Fantasy_Island_episodes	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Bo_Bice	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Claude_Bloodgood	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:List_of_awards_and_nominations_received_by_Marlon_Brando	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/S\u0027Agar\u00F3>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:And_Starring_Pancho_Villa_as_Himself	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Battle_Circus_(film)>	dbp:starring	dbr:Humphrey_Bogart ;
+	dbo:starring	dbr:Humphrey_Bogart ;
+	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Sh\u016Bichi_Ikeda>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Let\u0027s_Stick_Together>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Jeff_Richards_(actor,_born_1924)>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Cathy_Lewis	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+@prefix ns3:	<http://dbpedia.org/resource/Louise_Dahl-Wolfe:> .
+ns3:_Painting_with_Light	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Legion_of_Terror	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Up_the_River	dbp:starring	dbr:Humphrey_Bogart ;
+	dbo:starring	dbr:Humphrey_Bogart ;
+	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Bad_Sister_(1931_film)>	dbp:starring	dbr:Humphrey_Bogart ;
+	dbo:starring	dbr:Humphrey_Bogart ;
+	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:A_Devil_with_Women	dbp:starring	dbr:Humphrey_Bogart ;
+	dbo:starring	dbr:Humphrey_Bogart ;
+	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Women_of_All_Nations	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Baseball\u0027s_Greatest_Hits>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/We\u0027ll_Always_Have_Paris_(Star_Trek:_The_Next_Generation)>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/The_Big_Shot_(1942_film)>	dbp:starring	dbr:Humphrey_Bogart ;
+	dbo:starring	dbr:Humphrey_Bogart ;
+	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+wikipedia-en:Humphrey_Bogart	foaf:primaryTopic	dbr:Humphrey_Bogart .
+dbr:Richard_Burton	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Frank_Price	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Hal_E._Chester>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Colin_Turnbull	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Tony_Blankley	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Van_Johnson	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:November_1927	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Raiders_of_the_Lost_Ark	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Oscar_bait	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Claire_Luce	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Bessie_Love	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Mikl\u00F3s_R\u00F3zsa>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Sam_Jaffe_(producer)>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Spring_Street_(Los_Angeles)>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Satan_Met_a_Lady	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Savoy_Hotel	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/The_Caine_Mutiny_(film)>	dbo:starring	dbr:Humphrey_Bogart ;
+	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Corn_Exchange,_Bedford>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Peg_Entwistle	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Roxy_Music	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:October_1944	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Max_Baer_(boxer)>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:They_Live_by_Night	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Siegi_Sessler	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Hugo_Rune	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Action_in_the_North_Atlantic	dbo:starring	dbr:Humphrey_Bogart ;
+	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:New_York_Friars_Club	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+@prefix ns6:	<http://dbpedia.org/resource/Dominick_Dunne:> .
+ns6:_After_the_Party	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Sam_Robards	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Brattle_Theatre	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Knock_on_Any_Door	dbp:starring	dbr:Humphrey_Bogart ;
+	dbo:starring	dbr:Humphrey_Bogart ;
+	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Charles_Lang	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:One-Two-Two	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:The_Barefoot_Contessa	dbp:starring	dbr:Humphrey_Bogart ;
+	dbo:starring	dbr:Humphrey_Bogart ;
+	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Gerber_Baby	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Belmond_Hotel_Splendido	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Riviera_Country_Club	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:List_of_last_words	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:San_Quentin_State_Prison	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Goodbye_to_Language	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Yes!_We_Have_No_Bananas>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Eleanor_Parker	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Herman_Wouk	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Black_Legion_(political_movement)>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Allan_Melvin	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Jester_Hairston	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:The_Left_Hand_of_God	dbp:starring	dbr:Humphrey_Bogart ;
+	dbo:starring	dbr:Humphrey_Bogart ;
+	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Blood_Alley	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Frontier_Fiesta	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Margaret_Dale_(actress)>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Michael_J._Deas>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Ernest_Hemingway_House	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Bela_Talbot	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/The_Great_O\u0027Malley>	dbp:starring	dbr:Humphrey_Bogart ;
+	dbo:starring	dbr:Humphrey_Bogart ;
+	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Sahara_(1995_film)>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Tiny_Naylor\u0027s>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Film_noir	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Ronald_Reagan	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/List_of_eponyms_(A\u2013K)>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Michael_Caine	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/1951_in_the_United_States>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Madame_Tussauds_Hollywood	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/1940_in_music>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/1940s_in_film>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Golden_Age_of_Mexican_cinema	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Ciro\u0027s>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Jerry_Wald	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Benedict_Canyon,_Los_Angeles>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Bette_Davis	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Katharine_Hepburn	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Dustin_Hoffman	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Movieland_Wax_Museum	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Raoul_Walsh	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:A_War_in_Hollywood	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:List_of_actors_with_Academy_Award_nominations	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Peter_Bull	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Supergirl_(season_3)>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Empire_Burlesque	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Gene_Tierney	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Max_Jacobson	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Lyle_Talbot	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Gramercy_Park_Hotel	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Exploding_cigar	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Rat_Pack	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Robert_White_(tenor)>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Ed_Clark_(photographer)>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Coachella_Valley	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:George_Cukor	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Joan_Bennett	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:John_Ford	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Sammy_Davis_Jr.>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Fredric_March	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Jack_L._Warner>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Sands_Hotel_and_Casino	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:United_States_in_the_1950s	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Rich_Little	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Fame_in_the_20th_Century	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/I.O.U.S.A.>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Lawrence_Kasdan	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/List_of_covers_of_Time_magazine_(1950s)>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Dean_Martin	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Personal_life_of_Frank_Sinatra	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Sinatra_(miniseries)>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:List_of_United_States_Navy_people	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:List_of_comic_and_cartoon_characters_named_after_people	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Phillips_Academy	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Double_Dee_and_Steinski	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:List_of_members_of_the_American_Legion	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/List_of_people_from_New_York_(state)>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:List_of_people_on_the_postage_stamps_of_the_United_States	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:October_1939	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Judy_Garland	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Person_to_Person	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Timeline_of_Mary_Pickford	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Olivia_de_Havilland	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Marcel_Dalio	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Somerset_Maugham	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Eugene_Borden	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Ludwig_St\u00F6ssel>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/1940s>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Primo_Carnera	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Charles_Nordhoff	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:French_Rarebit	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:John_Ford_filmography	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:John_Huston	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Harry\u0027s_New_York_Bar>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Mich\u00E8le_Morgan>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Sabrina_(1954_film)>	dbo:starring	dbr:Humphrey_Bogart ;
+	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Alternate_Warriors	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:John_van_Salee_de_Grasse	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Brothels_in_Paris	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Adam_Kennedy_(actor)>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Aero_Portuguesa	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Kurt_Kreuger	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Robert_Capa	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Silvano_Campeggi	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Jean-Patrick_Manchette	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Federico_Fellini	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Jon_Anderson	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Marcel_Hillaire	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Crosley	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Dance_for_You	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Dylan_McDermott	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:List_of_space_pirates	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Beverly_Roberts	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Kinema_Junpo	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Hal_B._Wallis>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Horizon_Pictures	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:List_of_American_films_of_1936	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/A._I._Bezzerides>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Walter_Hampden	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:List_of_songs_based_on_a_film	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Dooley_Wilson	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/The_Bogie_Man_(comics)>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/U.S._Route_66_in_Arizona>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/W._R._Burnett>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Basil_Rathbone	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Klaw_Theatre	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Helen_Menken	dbp:spouse	dbr:Humphrey_Bogart ;
+	dbo:spouse	dbr:Humphrey_Bogart ;
+	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Super_Chief	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Shirley_Booth	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Joseph_Cotten	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Hollywood_Wax_Museum_Myrtle_Beach	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Hollywood_Without_Make-Up	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:List_of_American_films_of_1931	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:List_of_bow_tie_wearers	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:List_of_Western_films_of_the_1930s	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Sam_Vimes	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Erin_O\u0027Brien-Moore>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:The_Friends_of_Mr_Cairo	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Will_Rogers_Institute	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:The_Kid_Comes_Back	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Two_Against_the_World_(1936_film)>	dbp:starring	dbr:Humphrey_Bogart ;
+	dbo:starring	dbr:Humphrey_Bogart ;
+	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Blue_Room_(1926_song)>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Robert_Sacchi	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/King_of_the_Underworld_(1939_film)>	dbp:starring	dbr:Humphrey_Bogart ;
+	dbo:starring	dbr:Humphrey_Bogart ;
+	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Racket_Busters	dbp:starring	dbr:Humphrey_Bogart ;
+	dbo:starring	dbr:Humphrey_Bogart ;
+	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Jerry_Lacy	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Sonia_Darrin	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Rick\u0027s_Caf\u00E9_Casablanca>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:The_Amazing_Kamikaze_Syndrome	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:The_Dancing_Town	dbp:starring	dbr:Humphrey_Bogart ;
+	dbo:starring	dbr:Humphrey_Bogart ;
+	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:The_Harder_They_Fall	dbp:starring	dbr:Humphrey_Bogart ;
+	dbo:starring	dbr:Humphrey_Bogart ;
+	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Up_the_River_(1938_film)>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:A_Night_in_Casablanca	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:M3_Lee	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:List_of_English_words_of_Dutch_origin	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:The_Wagons_Roll_at_Night	dbp:starring	dbr:Humphrey_Bogart ;
+	dbo:starring	dbr:Humphrey_Bogart ;
+	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Ross_Hart	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Kiss_(Kiss_album)>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Toxic!>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Sybil_Jason	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Margaret_Sullavan	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:I_Wish_It_Would_Rain_Down	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/In_a_Lonely_Place_(novel)>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Yakub_(actor)>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Pork_chops_and_applesauce	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/1950s>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:January_1937	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:List_of_boxing_films	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Smoking	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Forest_Lawn_Memorial_Park_(Glendale)>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Academy_Award_for_Best_Actor	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:BAFTA_Award_for_Best_Actor_in_a_Leading_Role	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Maxwell_Anderson	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/1945_in_film>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/1946_in_film>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/1948_in_film>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/1951_in_film>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/1955_in_film>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/AFI\u0027s_100_Years...100_Passions>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/1938_in_film>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/1941_in_film>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/List_of_Academy_Award_Winners_for_Best_Picture,_Director,_Actor_and_Actress>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:List_of_British_films_of_1951	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Myrna_Loy_filmography	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/1954_in_film>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Lionel_Stander	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:List_of_Academy_Award_for_Best_Actor_winners_by_age	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:List_of_American_films_of_1946	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:List_of_American_films_of_1954	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/List_of_Grauman\u0027s_Chinese_Theatre_handprint_ceremonies>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:The_Beverly_Hills_Hotel	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:List_of_actors_with_two_or_more_Academy_Award_nominations_in_acting_categories	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/List_of_caricatures_at_Sardi\u0027s>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Leading_man	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Henry_and_Roz_Rogers	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Joseph_L._Mankiewicz>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Julian_Rivero	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Maureen_O\u0027Hara>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:List_of_thriller_films_of_the_1940s	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Top_Ten_Money_Making_Stars_Poll	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:List_of_American_live-action_shorts	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Madame_Tussauds_Hong_Kong	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:List_of_wax_figures_displayed_at_Madame_Tussauds_museums	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Western_(genre)>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Hotel_Valley_Ho	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Raymond_Bailey	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Angels_with_Dirty_Faces	dbo:starring	dbr:Humphrey_Bogart ;
+	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Mel_Gibson	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Lya_Lys	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Rudi_Fehr	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:MV_Liemba	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:RAF_Bassingbourn	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:History_of_Martinique	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Lloyd_Bacon	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Lee_Patrick_(actress)>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Bullets_or_Ballots	dbp:starring	dbr:Humphrey_Bogart ;
+	dbo:starring	dbr:Humphrey_Bogart ;
+	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/1940_in_organized_crime>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Humphrey_Bogart_filmography	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Jack_Klugman	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:The_Burns_Cage	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Danny_Kaye	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Sidney_Fox	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/AFI\u0027s_100_Years...100_Stars>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:The_Adventures_of_Sam_Spade	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Nash-Healey	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Robbie_Coltrane	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Glenda_Farrell	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Bertie_Higgins	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Getting_Even_(Allen_book)>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Musso_&_Frank_Grill>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Leigh_Brackett	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:David_Goodis	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Jonathan_Coe	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Virginia_City_(film)>	dbo:starring	dbr:Humphrey_Bogart ;
+	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Contempt_(film)>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Errol_Flynn	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Western_Pipe_and_Steel_Company	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:List_of_common_misconceptions	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:List_of_TaleSpin_characters	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/List_of_words_having_different_meanings_in_American_and_British_English_(A\u2013L)>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Matrix_Quest	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Ravello	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Barefoot	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/1928_in_film>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Esophageal_cancer	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Casablanca	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Nighthawks_(painting)>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:List_of_Tales_from_the_Crypt_episodes	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Satriale\u0027s_Pork_Store>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Glen_Cove,_New_York>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Clifton_Webb	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Jennifer_Jones	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Joan_Leslie	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Jack_Nicholson	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:David_Caruso	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Pat_O\u0027Brien_(actor)>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Walter_Brennan	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Philip_Dunne_(writer)>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Mary_Astor	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Tonight_Starring_Jack_Paar	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/The_Maltese_Falcon_(novel)>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/16th_Academy_Awards>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:David_Soul	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Rocky_Sullivan\u0027s>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Wolfert_Gerritse_van_Couwenhoven	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:John_Howland	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Bogaert	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Jim_Backus	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Ann_M._Sperber>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Dorothy_Malone	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Lennie_Bluett	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Quantum_Leap_(season_1)>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Ch\u00E2teau_\u00C9lys\u00E9e>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Kenneth_MacKenna	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+@prefix ns7:	<http://dbpedia.org/resource/Dark_Night:> .
+ns7:_A_True_Batman_Story	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Tehachapi,_California>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Inequality_in_Hollywood	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Dominick_Dunne	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Stefan_Kanfer	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Live_from_the_Tape_Deck	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Longines	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Jersey_Joe_Walcott	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Big_City_Blues_(1932_film)>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:The_House_on_92nd_Street	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/4th_Tony_Awards>	dbp:host	dbr:Humphrey_Bogart ;
+	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Dave_Barry_(actor)>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Stephen_Humphrey_Bogart	dbo:parent	dbr:Humphrey_Bogart ;
+	dbp:parents	dbr:Humphrey_Bogart ;
+	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Morris_Dickstein	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Martha_Holmes_(photographer)>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Tight_Connection_to_My_Heart_(Has_Anybody_Seen_My_Love)>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+@prefix ns8:	<http://dbpedia.org/resource/Cameraman:> .
+ns8:_The_Life_and_Work_of_Jack_Cardiff	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Hossein_Erfani	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Ned\u0027s_Newt>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:The_Last_Samurai	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/The_Wonder_Years_(season_6)>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:List_of_Fables_characters	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Ingrid_Bergman	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/1951>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/2014_in_home_video>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:History_of_Warrington	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Donald_Duck	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Warrington	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:February_1949	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/M\u00E4rta_Tor\u00E9n>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Casablanca_(film)>	dbo:starring	dbr:Humphrey_Bogart ;
+	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Richard_Schickel	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Kyriacos_Demetriou	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Peter_Miles_(American_actor)>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Bernard_Punsly	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Hank_Risan	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Joyce_MacKenzie	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Owen_Davis	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Malabar_Farm_State_Park	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:United_States_Merchant_Marine	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/List_of_people_from_Rochester,_New_York>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/1939_in_organized_crime>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Dirty_Deeds_Done_Dirt_Cheap	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Gladys_George	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Greatest_Hits_(Alice_Cooper_album)>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Everybody_Comes_to_Rick\u0027s>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Aldo_Nadi	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Canandaigua_(town),_New_York>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Canandaigua_Lake	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Cap\u0027s_Place>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Carl_G._Fisher>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:John_Howard_Lawson	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Lem_Dobbs	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Tenspeed_and_Brown_Shoe	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Trinity_School_(New_York_City)>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Vitagraph_Studios	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Broadhurst_Theatre	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Daniel_Taradash	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Dante_(TV_series)>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Asian_Americans_in_arts_and_entertainment	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Pepsodent	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Robert_Mitchum	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Sessue_Hayakawa	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Swank_(magazine)>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Waldo_Grade	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:January_1943	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Pierpont_Inn	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Whitney_Portal,_California>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:William_Holden	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:The_Screen_Guild_Theater	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:List_of_Phillips_Academy_alumni	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Marshall_Flaum	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Tom_Fears	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Tonio_Selwart	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:June_1945	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Sahara_(1943_American_film)>	dbp:starring	dbr:Humphrey_Bogart ;
+	dbo:starring	dbr:Humphrey_Bogart ;
+	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Journalism_in_American_film_and_television	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:For_Want_of_a_Nail	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Jerry_Leiber_and_Mike_Stoller	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:In_medias_res	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:List_of_fictional_antiheroes	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Altair_in_fiction	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:List_of_American_films_of_1953	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Recurring_Saturday_Night_Live_characters_and_sketches_introduced_1985\u201386>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/John_Mulholland_(director)>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Pibgorn_(webcomic)>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Lauren_Bacall_on_screen_and_stage	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Meanings_of_minor_planet_names:_15001\u201316000>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Louie_Knight	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:John_Wagner	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Jalousie_\u0027Tango_Tzigane\u0027>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Donald_Zec	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Todd_Manning	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/AFI\u0027s_100_Years...100_Movie_Quotes>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+@prefix ns9:	<http://dbpedia.org/resource/Best_in_Film:> .
+ns9:_The_Greatest_Movies_of_Our_Time	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:List_of_film_memorabilia	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Val_Avery	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Warren_Stevens	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Ringstead,_Northamptonshire>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Robert_E._Sherwood>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/We\u0027re_No_Angels_(1955_film)>	dbp:starring	dbr:Humphrey_Bogart ;
+	dbo:starring	dbr:Humphrey_Bogart ;
+	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:A_Caress_of_Twilight	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Dead_Reckoning_(1947_film)>	dbp:starring	dbr:Humphrey_Bogart ;
+	dbo:starring	dbr:Humphrey_Bogart ;
+	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Real_de_Catorce	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Dark_Passage_(film)>	dbo:starring	dbr:Humphrey_Bogart ;
+	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Caf\u00E9_de_Paris_(London)>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/The_Whole_Town\u0027s_Talking>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Joe_Hyams	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Charles_Gerhardt_(conductor)>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Thomas_E._Dewey>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Kim_Hunter	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Ray_Teal	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Sherilyn_Fenn	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/1957>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/1957_in_the_United_States>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Detroit_Triple_Fan_Fair	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/1899_in_the_United_States>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:John_Dillinger	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Keds	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:List_of_Dutch_Americans	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Hobart_and_William_Smith_Colleges	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:American_Legion	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/List_of_burials_at_Forest_Lawn_Memorial_Park_(Glendale)>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:May_1937	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Anton_Meyer	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Rod_Steiger	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:James_Dean	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Ava_Gardner	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Vermouth	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Gordon\u0027s_Gin>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Manpower_(1941_film)>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Margaret_Lindsay	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Marked_Woman	dbp:starring	dbr:Humphrey_Bogart ;
+	dbo:starring	dbr:Humphrey_Bogart ;
+	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Marlowe_(film)>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Mary_Boland	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Mary_Murphy_(actress)>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Mary_Philips	dbp:spouse	dbr:Humphrey_Bogart ;
+	dbo:spouse	dbr:Humphrey_Bogart ;
+	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Tim_Holt	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Tom_Fadden	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Tom_Tully	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Woody_Herman	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Irving_Paul_Lazar	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Lost_in_Translation_(film)>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Play_It_Again,_Sam_(film)>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Mystery_film	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Bound_(1996_film)>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Key_Largo_(film)>	dbp:starring	dbr:Humphrey_Bogart ;
+	dbo:starring	dbr:Humphrey_Bogart ;
+	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Nobody_Lives_Forever_(film)>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Bacall_to_Arms	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Jeff_Wincott	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Eddie_Albert	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Harold_J._Stone>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:I_Died_a_Thousand_Times	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Invisible_Stripes	dbp:starring	dbr:Humphrey_Bogart ;
+	dbo:starring	dbr:Humphrey_Bogart ;
+	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:It_All_Came_True	dbp:starring	dbr:Humphrey_Bogart ;
+	dbo:starring	dbr:Humphrey_Bogart ;
+	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:List_of_American_films_of_1932	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Out_of_Sight	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/The_Maltese_Falcon_(1931_film)>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:The_Roaring_Twenties	dbp:starring	dbr:Humphrey_Bogart ;
+	dbo:starring	dbr:Humphrey_Bogart ;
+	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Deadline_\u2013_U.S.A.>	dbp:starring	dbr:Humphrey_Bogart ;
+	dbo:starring	dbr:Humphrey_Bogart ;
+	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Shaft\u0027s_Big_Score!>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Victor_McLaglen	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:List_of_crime_films_of_the_1930s	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:List_of_crime_films_of_the_1940s	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:List_of_crime_films_of_the_1950s	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Herbert_Rawlinson	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Herbie_Faye	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Johnny_Midnight_(TV_series)>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/They_Drive_by_Night_(1938_film)>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Three_Strangers	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Three_on_a_Match	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Tokyo_Joe_(film)>	dbp:starring	dbr:Humphrey_Bogart ;
+	dbo:starring	dbr:Humphrey_Bogart ;
+	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/You_Can\u0027t_Get_Away_with_Murder>	dbp:starring	dbr:Humphrey_Bogart ;
+	dbo:starring	dbr:Humphrey_Bogart ;
+	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Erich_Schiffmann	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Masindi_Hotel	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:List_of_Underdog_characters	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Jean-Paul_Belmondo	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/JADA_(sail_boat)>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Stardust_in_Your_Eyes	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/8_Ball_Bunny>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Daffy_Dilly	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Slick_Hare	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Irving_Berlin_soundtrack_filmography	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Ubundu	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Lenny_Bruce	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Conscience	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:List_of_events_at_Soldier_Field	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:List_of_Americans_of_English_descent	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Cinema_of_the_United_States	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Invictus	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Scarlett_Johansson	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Danny_Glover	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:List_of_individual_dogs	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Marilyn_Monroe_in_popular_culture	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Billy_Wilder	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Raymond_Chandler	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:List_of_Maverick_episodes	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Maverick_(TV_series)>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Mike_Connors	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Second_City_Television	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Isleworth	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Lucas,_Ohio>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Bigby_Wolf	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Gallup,_New_Mexico>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Marsha_Hunt_(actress,_born_1917)>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Ned_Scott	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Akira_Kume	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Adrian_Morris_(actor)>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Committee_for_the_First_Amendment	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Phil_Gersh	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Vera_Caspary	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Cara_Williams	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Arts_and_culture_in_Stamford,_Connecticut>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Wolfgang_J._Fuchs>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Love_Affair_(1932_film)>	dbp:starring	dbr:Humphrey_Bogart ;
+	dbo:starring	dbr:Humphrey_Bogart ;
+	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:New_Morals_for_Old	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:National_Board_of_Review_Awards_1937	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Soraya_Esfandiary-Bakhtiary	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Jean-Luc_Godard	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:List_of_Donald_Duck_universe_characters	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Roulette	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Devil\u0027s_Island>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:September_1949	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Chesterfield_(cigarette)>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Wicked_Wanda	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/1899>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Casablanca_Records	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/John_Loder_(actor)>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:August_1946	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Fred_Sexton	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Le_Chabanais	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:December_25	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Sharky_&_George>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Stephanie_Beacham	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:William_Wyler	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:USS_Santa_Olivia	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Joshua_Tree_(1993_film)>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Done_Too_Soon	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Lawrence_Block	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Bernie_Rhodenbarr	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Parakeet	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Russ_Jones	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Aquascutum	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Back_in_the_Saddle_(film)>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Colorado_Territory_(film)>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Last_of_the_Comanches	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Rio_Conchos_(film)>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:List_of_amateur_chess_players	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Jamie_McShane	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Kaithi_(1951_film)>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Charles_Laughton	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Spencer_Tracy	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Ida_Lupino	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Laurence_Olivier	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/The_Amazing_Dr._Clitterhouse_(play)>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/1944_in_film>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/1956_in_film>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:List_of_science_fiction_films_of_the_1930s	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/1936_in_film>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/1937_in_film>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/1939_in_film>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/1940_in_film>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Producers\u0027_Showcase>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:List_of_horror_films_of_the_1930s	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Claude_Rains	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/John_Cromwell_(director)>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:List_of_Lux_Radio_Theatre_episodes	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:List_of_NBC_Saturday_Night_at_the_Movies_titles	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:List_of_stars_on_the_Hollywood_Walk_of_Fame	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:List_of_American_films_of_1937	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:List_of_American_films_of_1939	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:List_of_American_films_of_1940	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:List_of_American_films_of_1941	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:List_of_American_films_of_1942	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:List_of_American_films_of_1943	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:List_of_American_films_of_1944	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:List_of_American_films_of_1947	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:List_of_American_films_of_1948	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:List_of_American_films_of_1949	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:List_of_American_films_of_1951	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:List_of_American_films_of_1952	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:List_of_American_films_of_1956	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Ann_Carter	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Orson_Welles_radio_credits	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Classical_Hollywood_cinema	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart ;
+	dbp:majorfigures	dbr:Humphrey_Bogart .
+dbr:List_of_actors_with_Hollywood_Walk_of_Fame_motion_picture_stars	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Paul_Frees	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:List_of_Western_films_of_the_1940s	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:List_of_adventure_films_of_the_1930s	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:List_of_adventure_films_of_the_1940s	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:List_of_adventure_films_of_the_1950s	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/The_Amazing_Dr._Clitterhouse>	dbp:starring	dbr:Humphrey_Bogart ;
+	dbo:starring	dbr:Humphrey_Bogart ;
+	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:List_of_show_business_families	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Dubbing_(filmmaking)>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Petrified_Forest_National_Park	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Project_Y	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Hollywood_Athletic_Club	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Screenwriting	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Phil_Silvers	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/20th_century>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Chess_in_the_arts	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/How_the_Grinch_Stole_Christmas_(2000_film)>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Nicolas_Cage	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Ken_Griffey_Jr._Presents_Major_League_Baseball>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/1950_in_film>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Designing_Woman	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Lauren_Bacall	dbp:spouse	dbr:Humphrey_Bogart ;
+	dbo:spouse	dbr:Humphrey_Bogart ;
+	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Hattie_McDaniel	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Dorothy_Mackaill	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Kevin_O\u0027Connor_(actor,_born_1938)>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:China_Clipper	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Lloyd_Nolan	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/1937_in_organized_crime>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:George_Peppard	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Sam_Rockwell	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Forbidden_City_(nightclub)>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:The_Pandora_Directive	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Silver_River_(film)>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Tex_Murphy	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Music_of_Grim_Fandango	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Malloch_Building	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/James_P._Johnson>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Leading_lady	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/The_Snows_of_Kilimanjaro_(1952_film)>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/1942_in_film>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/The_Desperate_Hours_(1955_film)>	dbp:starring	dbr:Humphrey_Bogart ;
+	dbo:starring	dbr:Humphrey_Bogart ;
+	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:The_Great_Sioux_Massacre	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/The_Man_with_Bogart\u0027s_Face>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Dorothy_B._Hughes>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:One_of_the_Hollywood_Ten	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Edge_of_Darkness_(1943_film)>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Morris_Carnovsky	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/In_a_Lonely_Place_(song)>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Warner_Bros._Museum>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Milionerzy	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Kay_Francis	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Irene_Manning	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Stork_Club	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Virtual_actor	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Jyn_Erso	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:List_of_United_States_Coast_Guard_people	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:All_This_and_World_War_II	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Arthur_Hopkins	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Betrayal_from_the_East	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Harry_Cohn	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Tom_D\u0027Andrea>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Lady_Esther	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Garfield\u0027s_Babes_and_Bullets>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Rich_Little\u0027s_Christmas_Carol>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/You_Can\u0027t_Win_\u0027Em_All_(1962_film)>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Warner_Bros.>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Leslie_Howard	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Edward_G._Robinson>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Trial_film	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Garden_of_Allah_Hotel	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Gina_Lollobrigida	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Sorcerer_(film)>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:List_of_vampire_films	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Hollywood_Boulevard_(1976_film)>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Copernicus_Center_(Chicago,_Illinois)>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Technicolor_Specials_(Warner_Bros._series)>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Vitaphone_Varieties	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Han_Solo	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:History_of_computer_animation	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:The_Man_Who_Would_Be_King	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Hiroki_T\u014Dchi>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Murder_on_the_Zinderneuf	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Jon_Lovitz	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Philtrum	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:List_of_fictional_actors	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Jess_Harnell	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:A_Holy_Terror	dbp:starring	dbr:Humphrey_Bogart ;
+	dbo:starring	dbr:Humphrey_Bogart ;
+	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Road_to_Bali	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:The_Narrow_Corner	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+@prefix ns10:	<http://dbpedia.org/resource/Spider-Man:> .
+ns10:_Into_the_Spider-Verse	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Spider-Man_Noir	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:October_1941	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Daniel_Thalmann	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Robert_Blake_(actor)>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Lewis_E._Lawes>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:The_Return_of_Doctor_X	dbp:starring	dbr:Humphrey_Bogart ;
+	dbo:starring	dbr:Humphrey_Bogart ;
+	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/I\u0027ll_be_back>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Larry_Cohen	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:The_Angry_Red_Planet	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Marvin_Miller_(actor)>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Sabrina_(1995_film)>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/The_Old_Maid_(1939_film)>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/1951_in_organized_crime>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/1935_in_organized_crime>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/1938_in_organized_crime>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/The_Jack_Benny_Program_(season_4)>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Lemmy_Caution	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Baltimore_Oriole_(song)>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:The_Audrey_Hepburn_Story	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:List_of_LGBT-related_films_of_the_1950s	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Toup\u00E9e>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Martin_Gabel	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Playboy_Penguin	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Marvel_Noir	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Social_thriller	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Catlin_Gabel_School	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:The_Gersh_Agency	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/B._Traven>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Beat_the_Devil_(novel)>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:List_of_fictional_pirates	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Lone_Pine,_California>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:List_of_The_Brady_Bunch_episodes	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Turner_Classic_Movies	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Military_prison	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Silver_Theater_(radio_program)>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:List_of_Eclipse_Comics_publications	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Caribbean_Club	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:SS_Leviathan	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Saban_Theatre	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Key_Largo_(song)>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Fort_Point,_San_Francisco>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Gable_and_Lombard	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Guy_Marks	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Howard_Hawks	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Hustle_(1975_film)>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Jammin\u0027_the_Blues>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:History_of_crime_fiction	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Harvey_Parry	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Reginald_Case	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:The_Adventures_of_T-Rex	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Bollman_Hat_Company	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Duck_family_(Disney)>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Yardley_Chittick	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Key_Largo,_Florida>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Long_Beach,_New_York>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Holmby_Hills,_Los_Angeles>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Stuyvesant_Town\u2013Peter_Cooper_Village>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Gary_Provost	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:George_Brent	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/1899_in_film>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/24th_Academy_Awards>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/27th_Academy_Awards>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:List_of_foreign_films_set_in_Japan	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Torben_Meyer	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Enzo_Staiola	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Lizabeth_Scott	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Humphrey_Bogart	rdf:type	yago:Wikicat20th-centuryAmericanActors ,
+		dbo:Person ,
+		yago:Object100002684 ,
+		yago:Person100007846 ,
+		yago:Organism100004475 ,
+		yago:PhysicalEntity100001930 .
+@prefix umbel-rc:	<http://umbel.org/umbel/rc/> .
+dbr:Humphrey_Bogart	rdf:type	umbel-rc:PersonWithOccupation ,
+		yago:SkilledWorker110605985 ,
+		yago:Scholar110557854 ,
+		yago:Whole100003553 ,
+		yago:Performer110415638 ,
+		yago:Wikicat20th-centuryAmericanMaleActors ,
+		yago:WikicatAmericanPeopleOfDutchDescent ,
+		yago:WikicatMaleActorsFromNewYorkCity ,
+		yago:WikicatAmericanMaleStageActors .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Humphrey_Bogart	rdf:type	owl:Thing ,
+		yago:WikicatAmericanActors ,
+		<http://dbpedia.org/class/yago/WikicatWarnerBros.ContractPlayers> ,
+		yago:WikicatAmericanMaleFilmActors ,
+		yago:WikicatAmericanPeopleOfSpanishDescent ,
+		yago:Wikicat20thCenturyFoxContractPlayers ,
+		yago:Wikicat20th-centuryActors ,
+		<http://dbpedia.org/class/yago/WikicatWestern(genre)FilmActors> ,
+		yago:WikicatPeopleFromNewYorkCity ,
+		yago:WikicatActorsFromNewYork ,
+		yago:WikicatAmericanStageActors .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Humphrey_Bogart	rdf:type	wikidata:Q24229398 ,
+		yago:WikicatAmericanMaleRadioActors ,
+		wikidata:Q5 ,
+		yago:Sailor110546633 ,
+		yago:WikicatAmericanVoiceActors ,
+		yago:WikicatUnitedStatesNavySailors ,
+		yago:WikicatPhillipsAcademyAlumni ,
+		yago:WikicatStageActors ,
+		wikidata:Q215627 .
+@prefix schema:	<http://schema.org/> .
+dbr:Humphrey_Bogart	rdf:type	schema:Person .
+@prefix ns17:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Humphrey_Bogart	rdf:type	ns17:NaturalPerson ,
+		ns17:Agent ,
+		yago:Intellectual109621545 ,
+		yago:LivingThing100004258 ,
+		yago:Player110439851 ,
+		yago:WikicatActors ,
+		yago:Worker109632518 ,
+		yago:YagoLegalActor ,
+		yago:YagoLegalActorGeo ,
+		yago:WikicatAmericanPeopleOfBritishDescent ,
+		yago:WikicatAmericanPeopleOfEnglishDescent ,
+		yago:WikicatAmericanPeople ,
+		yago:WikicatActorsFromNewYorkCity ,
+		dbo:Agent ,
+		yago:Alumnus109786338 ,
+		yago:CausalAgent100007347 ,
+		yago:Contestant109613191 ,
+		foaf:Person ,
+		yago:WikicatAmateurChessPlayers ,
+		yago:WikicatAmericanChessPlayers ,
+		umbel-rc:Actor ,
+		yago:Actor109765278 ,
+		yago:Entertainer109616922 ,
+		yago:ChessPlayer109915834 ,
+		umbel-rc:Artist .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Humphrey_Bogart	rdfs:label	"\u0411\u043E\u0433\u0430\u0440\u0442, \u0425\u0430\u043C\u0444\u0440\u0438"@ru ,
+		"\u0647\u0645\u0641\u0631\u064A \u0628\u0648\u063A\u0627\u0631\u062A"@ar ,
+		"Humphrey Bogart"@it ,
+		"\u4EA8\u5F17\u83B1\u00B7\u9C8D\u5609"@zh ,
+		"Humphrey Bogart"@pt ,
+		"\uD5D8\uD504\uB9AC \uBCF4\uAC00\uD2B8"@ko ,
+		"\u30CF\u30F3\u30D5\u30EA\u30FC\u30FB\u30DC\u30AC\u30FC\u30C8"@ja ,
+		"Humphrey Bogart"@fr ,
+		"Humphrey Bogart"@sv ,
+		"Humphrey Bogart"@en ,
+		"Humphrey Bogart"@in ,
+		"Humphrey Bogart"@nl ,
+		"Humphrey Bogart"@ca ,
+		"Humphrey Bogart"@eu ,
+		"Humphrey Bogart"@es ,
+		"\u0413\u0430\u043C\u0444\u0440\u0456 \u0411\u043E\u0433\u0430\u0440\u0442"@uk ,
+		"Humphrey Bogart"@pl ,
+		"Humphrey Bogart"@de ,
+		"Humphrey Bogart"@eo ,
+		"Humphrey Bogart"@ga ,
+		"\u03A7\u03AC\u03BC\u03C6\u03C1\u03B5\u03CA \u039C\u03C0\u03CC\u03B3\u03BA\u03B1\u03C1\u03C4"@el ;
+	rdfs:comment	"Humphrey DeForest Bogart (Nueva York, Nueva York; 25 de diciembre de 1899-Los \u00C1ngeles, California; 14 de enero de 1957) fue un actor de cine y teatro estadounidense. El estilo c\u00EDnico y moralmente dudoso de muchos de sus personajes, el eterno cigarrillo siempre entre sus dedos y su condici\u00F3n de gal\u00E1n poco convencional son algunos de los rasgos m\u00E1s recordados de su filmograf\u00EDa. Seg\u00FAn la lista del American Film Institute, est\u00E1 considerado la primera estrella masculina m\u00E1s importante de los primeros cien a\u00F1os del cine estadounidense."@es ,
+		"\uD5D8\uD504\uB9AC \uB4DC\uD3EC\uB808\uC2A4\uD2B8 \uBCF4\uAC00\uD2B8 (\uC601\uC5B4: Humphrey DeForest Bogart, 1899\uB144 12\uC6D4 25\uC77C ~ 1957\uB144 1\uC6D4 14\uC77C) \uB294 \uBBF8\uAD6D\uC758 \uBC30\uC6B0\uC774\uB2E4. \uADF8\uB294 \uBB38\uD654\uC801 \uC544\uC774\uCF58\uC73C\uB85C \uC5EC\uACA8\uC838 \uC654\uC73C\uBA70 \uBBF8\uAD6D \uC601\uD654 \uC5F0\uAD6C\uC18C\uB294 \uADF8\uB97C \uC704\uB300\uD55C \uB0A8\uC790 \uBC30\uC6B0 Top 25\uC5D0\uC11C 1\uC704\uC5D0 \uC120\uC815\uD558\uC600\uB2E4. \uADF8\uB294 \uC608\uC804\uC5D0 \uC5EC\uB7EC\uAC00\uC9C0 \uC9C1\uC5C5\uC744 \uAC00\uC9C4 \uD6C4 1921\uB144\uC5D0 \uC5F0\uAE30\uB97C \uC2DC\uC791\uD55C \uD6C4 1920\uB144\uB300\uBD80\uD130 1930\uB144\uB300\uAE4C\uC9C0 \uBE0C\uB85C\uB4DC\uC6E8\uC774\uC5D0\uC11C \uC77C\uD558\uC600\uB2E4. \uC774\uD6C4 \uAC80\uC740 \uBAA9\uC694\uC77C\uB85C \uC778\uD574 \uC5F0\uADF9 \uC0DD\uD65C\uC5D0 \uBB38\uC81C\uAC00 \uBC1C\uC0DD\uD558\uC790, \uADF8\uB294 \uC601\uD654\uACC4\uB85C \uAC00 1936\uB144, \u300A\u300B\uC5D0\uC11C \uB6F0\uC5B4\uB09C \uC5F0\uAE30\uB97C \uD3BC\uCCD0, \uC774\uD6C4 \u300A\u300B\uAC19\uC740 \uAC31\uC2A4\uD130 \uC601\uD654\uC5D0 \uC8FC\uB85C \uCD9C\uC5F0\uD558\uC600\uB2E4. \uADF8\uB294 1941\uB144\uBD80\uD130 \uC8FC\uC5F0\uC744 \uB9E1\uC544, \u300A\u300B, \u300A\uB9D0\uD0C0\uC758 \uB9E4\u300B\uAC19\uC740 \uC601\uD654\uC5D0\uC11C \uB6F0\uC5B4\uB09C \uC5F0\uAE30\uB97C \uD3BC\uCCE4\uB2E4. \uB2E4\uC74C\uD574\uC5D0\uB294 \u300A\uCE74\uC0AC\uBE14\uB791\uCE74\u300B\uC5D0 \uCD9C\uC5F0\uD558\uC5EC \uC8FC\uC625\uAC19\uC740 \uC5F0\uAE30\uB85C \uC778\uAE30\uB97C \uC5BB\uAC8C \uB41C\uB2E4. \uC774\uD6C4 \uADF8\uB294 \uB85C\uB7F0 \uBC84\uCF5C\uACFC \uD568\uAED8 \uCD9C\uC5F0\uD55C \u300A\u300B, \u300A\u300B, \u300A\u300B, \u300A\uD0A4 \uB77C\uB974\uACE0\u300B\uC5D0 \uB098\uC654\uB2E4. \uADF8\uB294 \u300A\uC2DC\uC5D0\uB77C \uB9C8\uB4DC\uB808\uC758 \uD669\uAE08\u300B\uC5D0\uC11C\uB3C4 \uCD9C\uC5F0\uD558\uC600\uC73C\uBA70 1951\uB144\uC5D0\uB294 \u300A\uC544\uD504\uB9AC\uCE74\uC758 \uC5EC\uC655\u300B\uC73C\uB85C \uB9C8\uCE68\uB0B4 \uC544\uCE74\uB370\uBBF8\uC0C1\uC744 \uC218\uC0C1\uD558\uC600\uB2E4. \uADF8\uB294 \uC774\uD6C4\uB85C\uB3C4 \u300A\uC0AC\uBE0C\uB9AC\uB098\u300B, \u300A\u300B\uC5D0 \uCD9C\uC5F0\uD558\uC600\uC73C\uBA70 \uB9C8\uC9C0\uB9C9\uC73C\uB85C \u300A\u300B\uC5D0 \uCD9C\uC5F0\uD558\uC600\uB2E4. 1957\uB144 1\uC6D4 14\uC77C \uCE98\uB9AC\uD3EC\uB2C8\uC544\uC8FC \uB85C\uC2A4\uC564\uC824\uB808\uC2A4\uC5D0\uC11C \uC2DD\uB3C4\uC554\uC73C\uB85C \uBCC4\uC138\uD588\uB2E4."@ko ,
+		"\u039F \u03A7\u03AC\u03BC\u03C6\u03C1\u03B5\u03CA \u039C\u03C0\u03CC\u03B3\u03BA\u03B1\u03C1\u03C4 (Humphrey DeForest Bogart, 25 \u0394\u03B5\u03BA\u03B5\u03BC\u03B2\u03C1\u03AF\u03BF\u03C5 1899 - 14 \u0399\u03B1\u03BD\u03BF\u03C5\u03B1\u03C1\u03AF\u03BF\u03C5 1957) \u03AE\u03C4\u03B1\u03BD \u0391\u03BC\u03B5\u03C1\u03B9\u03BA\u03B1\u03BD\u03CC\u03C2 \u03B7\u03B8\u03BF\u03C0\u03BF\u03B9\u03CC\u03C2, \u03B2\u03C1\u03B1\u03B2\u03B5\u03C5\u03BC\u03AD\u03BD\u03BF\u03C2 \u03BC\u03B5 \u038C\u03C3\u03BA\u03B1\u03C1 \u0391' \u0391\u03BD\u03B4\u03C1\u03B9\u03BA\u03BF\u03CD \u03A1\u03CC\u03BB\u03BF\u03C5. \u0391\u03C0\u03BF\u03C4\u03B5\u03BB\u03B5\u03AF \u03B8\u03C1\u03CD\u03BB\u03BF \u03C4\u03BF\u03C5 \u03C3\u03B9\u03BD\u03B5\u03BC\u03AC \u03BB\u03CC\u03B3\u03C9 \u03C4\u03B7 \u03C3\u03C5\u03BC\u03BC\u03B5\u03C4\u03BF\u03C7\u03AE\u03C2 \u03C4\u03BF\u03C5 \u03C3\u03B5 \u03BC\u03B9\u03B1 \u03C3\u03B5\u03B9\u03C1\u03AC \u03B1\u03C3\u03C4\u03C5\u03BD\u03BF\u03BC\u03B9\u03BA\u03CE\u03BD \u03C4\u03B1\u03B9\u03BD\u03B9\u03CE\u03BD \u03BC\u03C5\u03C3\u03C4\u03B7\u03C1\u03AF\u03BF\u03C5 \u03BA\u03B1\u03C4\u03AC \u03C4\u03B7\u03BD \u03C7\u03C1\u03C5\u03C3\u03AE \u03B5\u03C0\u03BF\u03C7\u03AE \u03C4\u03BF\u03C5 \u03A7\u03CC\u03BB\u03C5\u03B3\u03BF\u03C5\u03BD\u03C4. \u0395\u03AF\u03BD\u03B1\u03B9 \u03B3\u03BD\u03C9\u03C3\u03C4\u03CC\u03C2 \u03B3\u03B9\u03B1 \u03C4\u03B9\u03C2 \u03C4\u03B1\u03B9\u03BD\u03AF\u03B5\u03C2 \u03A4\u03BF \u0391\u03C0\u03BF\u03BB\u03B9\u03B8\u03C9\u03BC\u03AD\u03BD\u03BF \u0394\u03AC\u03C3\u03BF\u03C2 \u03C4\u03BF\u03C5 1936, \u03A4\u03BF \u0393\u03B5\u03C1\u03AC\u03BA\u03B9 \u03C4\u03B7\u03C2 \u039C\u03AC\u03BB\u03C4\u03B1\u03C2 \u03C4\u03BF\u03C5 1941, \u039A\u03B1\u03B6\u03B1\u03BC\u03C0\u03BB\u03AC\u03BD\u03BA\u03B1 \u03C4\u03BF\u03C5 1942, \u0397 \u03C3\u03B5\u03B9\u03C1\u03AE\u03BD\u03B1 \u03C4\u03B7\u03C2 \u039C\u03B1\u03C1\u03C4\u03B9\u03BD\u03AF\u03BA\u03B1 \u03C4\u03BF\u03C5 1944, \u03A0\u03AC\u03B8\u03BF\u03C2 \u03BA\u03B1\u03B9 \u03B1\u03AF\u03BC\u03B1 \u03C4\u03BF\u03C5 1946, \u039F \u0398\u03B7\u03C3\u03B1\u03C5\u03C1\u03CC\u03C2 \u03C4\u03B7\u03C2 \u03A3\u03B9\u03AD\u03C1\u03B1 \u039C\u03AC\u03BD\u03C4\u03C1\u03B5 \u03C4\u03BF\u03C5 1948 \u03BA\u03B1\u03B9 \u03C4\u03B7\u03BD \u03C4\u03B1\u03B9\u03BD\u03AF\u03B1 \u03C0\u03BF\u03C5 \u03C4\u03BF\u03C5 \u03C7\u03AC\u03C1\u03B9\u03C3\u03B5 \u03C4\u03BF \u03CC\u03C3\u03BA\u03B1\u03C1 \u03C4\u03BF 1951 \u0397 \u03B2\u03B1\u03C3\u03AF\u03BB\u03B9\u03C3\u03C3\u03B1 \u03C4\u03B7\u03C2 \u0391\u03C6\u03C1\u03B9\u03BA\u03AE\u03C2."@el ,
+		"\u4EA8\u5F17\u83B1\u00B7\u5FB7\u5F17\u745E\u65AF\u7279\u00B7\u9C8D\u5609\uFF08\u82F1\u8A9E\uFF1AHumphrey DeForest Bogart\uFF0C1899\u5E7412\u670825\u65E5\uFF0D1957\u5E741\u670814\u65E5\uFF09\u751F\u4E8E\u7F8E\u56FD\u7EBD\u7EA6\uFF0C\u7F8E\u56FD\u7535\u5F71\u7537\u6F14\u5458\uFF0C\u4ED6\u5728\u6B7B\u540E\u7684\u51E0\u5341\u5E74\u540E\u8FD8\u5728\u5168\u7403\u4EBA\u548C\u7535\u5F71\u754C\u4FDD\u7559\u7740\u4F20\u5947\u6027\u7684\u5730\u4F4D\u3002"@zh ,
+		"Humphrey DeForest Bogart (New York, 25 dicembre 1899 \u2013 Los Angeles, 14 gennaio 1957) \u00E8 stato un attore statunitense. Una delle icone del cinema hollywoodiano, la sua inconfondibile figura viene ancora ricordata dagli appassionati di cinema a distanza di molti anni dalla morte, tanto che l'American Film Institute ha inserito Bogart al primo posto tra le pi\u00F9 grandi stelle della storia del cinema."@it ,
+		"Humphrey DeForest Bogart (New York, 25 december 1899 - Los Angeles (Californi\u00EB), 14 januari 1957) was een Amerikaans acteur. De verschijning van Bogart met zijn hoed, regenjas, zijn platte Amerikaanse accent en zijn onafscheidelijke sigaret groeide uit tot een icoon van de filmgeschiedenis. In 1999 werd hij door het American Film Institute (AFI) gekozen tot de grootste mannelijke filmlegende aller tijden."@nl ,
+		"\u0647\u0645\u0641\u0631\u064A \u0628\u0648\u063A\u0627\u0631\u062A \u0623\u062D\u062F \u0623\u0643\u0628\u0631 \u0646\u062C\u0648\u0645 \u0627\u0644\u0633\u064A\u0646\u0645\u0627 \u0627\u0644\u0623\u0645\u0631\u064A\u0643\u064A\u0629 \u0648\u0644\u062F \u0639\u0627\u0645 1899\u0645 \u0648\u062A\u0648\u0641\u0649 \u0641\u064A \u0639\u0627\u0645 1957\u0645 \u0648\u0643\u0627\u0646 \u064A\u0646\u062A\u0645\u064A \u0625\u0644\u0649 \u0639\u0627\u0626\u0644\u0629 \u0645\u062B\u0642\u0641\u0629 \u0648\u0645\u064A\u0633\u0648\u0631\u0629 \u0627\u0644\u062D\u0627\u0644\u060C \u0648\u0644\u0645 \u064A\u0633\u062A\u0645\u0631 \u0641\u064A \u062F\u0631\u0627\u0633\u062A\u0647 \u0644\u064A\u062A\u0641\u0631\u063A \u0644\u0644\u062A\u0645\u062B\u064A\u0644\u060C \u0645\u062B\u0644 \u0639\u0644\u0649 \u0645\u062F\u0649 \u0631\u0628\u0639 \u0642\u0631\u0646 \u0641\u064A \u062B\u0645\u0627\u0646\u064A\u0629 \u0648\u0633\u062A\u064A\u0646 \u0641\u064A\u0644\u0645\u0627\u064B\u060C \u0648\u0642\u062F \u0634\u062E\u0635 \u0627\u0644\u0639\u062F\u064A\u062F \u0645\u0646 \u0627\u0644\u0623\u062F\u0648\u0627\u0631 \u0627\u062B\u0628\u062A \u0641\u064A\u0645\u0627 \u0628\u0639\u062F \u062A\u0641\u0648\u0642\u0647 \u0641\u064A\u0647\u0627. \u062D\u0635\u0644 \u0639\u0644\u0649 \u0647\u0630\u0647 \u062C\u0627\u0626\u0632\u0629 \u0627\u0644\u0623\u0648\u0633\u0643\u0627\u0631 \u0641\u064A \u0639\u0627\u0645 1951\u060C \u0639\u0646 \u062F\u0648\u0631\u0647 \u0641\u064A \u0641\u064A\u0644\u0645 \u0627\u0644\u0645\u0644\u0643\u0629 \u0627\u0644\u0625\u0641\u0631\u064A\u0642\u064A\u0629 \u0645\u0646 \u0625\u062E\u0631\u0627\u062C \"\u062C\u0648\u0646 \u0647\u064A\u0648\u0633\u062A\u0646\"\u060C \u0648\u0634\u0627\u0631\u0643\u062A\u0647 \u0641\u064A \u0628\u0637\u0648\u0644\u0629 \u0647\u0630\u0627 \u0627\u0644\u0641\u064A\u0644\u0645 \u0643\u0627\u062B\u0631\u064A\u0646 \u0647\u064A\u0628\u0648\u0631\u0646. \u0648\u0642\u062F \u062D\u0635\u0644 \u0623\u064A\u0636\u0627 \u0639\u0627\u0645 1999 \u0639\u0644\u0649 \u0627\u0644\u062A\u0631\u062A\u064A\u0628 \u0627\u0644\u0623\u0648\u0644 \u0644\u0623\u0641\u0636\u0644 \u0645\u0645\u062B\u0644\u064A \u0627\u0644\u0633\u064A\u0646\u0645\u0627 \u0627\u0644\u0623\u0645\u0631\u064A\u0643\u064A\u0629 \u0639\u0644\u0649 \u0627\u0644\u0625\u0637\u0644\u0627\u0642 \u0639\u0628\u0631 100 \u0639\u0627\u0645 \u0648\u0630\u0644\u0643 \u0636\u0645\u0646 \u0641\u0639\u0627\u0644\u064A\u0627\u062A \u064A\u0642\u0648\u0645 \u0628\u0647\u0627 \u0645\u0639\u0647\u062F \u0627\u0644\u0641\u064A\u0644\u0645 \u0627\u0644\u0623\u0645\u0631\u064A\u0643\u064A."@ar ,
+		"Humphrey DeForest Bogart (Nova Iorque, 25 de dezembro de 1899 \u2014 Los Angeles, 14 de janeiro de 1957) foi um ator de cinema e teatro dos Estados Unidos, eleito pelo American Film Institute como a maior estrela masculina do cinema norte-americano de todos os tempos. Conhecido pelo p\u00FAblico como Harry, Bogie ou Bogey (preferia ser chamado de Bogie), \u00E9 considerado um dos grandes mitos do cinema e ganhou o Oscar de melhor ator de 1951 por seu papel em Uma Aventura na \u00C1frica. Morreu em 1957 v\u00EDtima de c\u00E2ncer. Em 1996, foi eleito como a maior estrela do cinema mundial pela Entertainment Weekly."@pt ,
+		"Humphrey DeForest Bogart (New York, 1899ko abenduaren 25 - Los Angeles, Kalifornia, 1957ko urtarrilaren 14) Ameriketako Estatu Batuetako aktorea izan zen. 1999an, American Film Institute delakoak Bogart gizonezko zinema-izarrik handiena izendatu zuen."@eu ,
+		"Ba aisteoir Meirice\u00E1nach \u00E9 Humphrey DeForest Bogart (25 Nollaig 1899 \u2013 14 Ean\u00E1ir 1957)"@ga ,
+		"\u0413\u0430\u0301\u043C\u0444\u0440\u0456 \u0414\u0435\u0424\u043E\u0301\u0440\u0435\u0441\u0442 \u0411\u043E\u0301\u0433\u0430\u0440\u0442 (\u0430\u043D\u0433\u043B. Humphrey DeForest Bogart; 25 \u0433\u0440\u0443\u0434\u043D\u044F 1899 \u2014 14 \u0441\u0456\u0447\u043D\u044F 1957) \u2014 \u0430\u043C\u0435\u0440\u0438\u043A\u0430\u043D\u0441\u044C\u043A\u0438\u0439 \u043A\u0456\u043D\u043E\u0430\u043A\u0442\u043E\u0440, \u043E\u0434\u0438\u043D \u0456\u0437 \u043F\u0440\u043E\u0432\u0456\u0434\u043D\u0438\u0445 \u043F\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043D\u0438\u043A\u0456\u0432 \u043A\u0456\u043D\u043E\u0436\u0430\u043D\u0440\u0443 \u00AB\u043D\u0443\u0430\u0440\u00BB, \u0432\u0456\u0434\u043E\u043C\u0438\u0439 \u0441\u0432\u043E\u0457\u043C \u0430\u043C\u043F\u043B\u0443\u0430 \u0436\u043E\u0440\u0441\u0442\u043A\u043E\u0457 \u0439 \u0446\u0438\u043D\u0456\u0447\u043D\u043E\u0457, \u0430\u043B\u0435 \u0448\u043B\u044F\u0445\u0435\u0442\u043D\u043E\u0457 \u043B\u044E\u0434\u0438\u043D\u0438. \u0419\u043E\u0433\u043E \u0441\u0442\u0438\u043B\u044C \u0433\u0440\u0438 \u0441\u0442\u0430\u0432 \u0437\u0440\u0430\u0437\u043A\u043E\u043C \u0434\u043B\u044F \u0447\u0438\u0441\u043B\u0435\u043D\u043D\u0438\u0445 \u0430\u043A\u0442\u043E\u0440\u0456\u0432 \u0404\u0432\u0440\u043E\u043F\u0438 \u0439 \u0410\u043C\u0435\u0440\u0438\u043A\u0438, \u0432\u043A\u043B\u044E\u0447\u043D\u043E \u0437 \u0416\u0430\u043D\u043E\u043C-\u041F\u043E\u043B\u0435\u043C \u0411\u0435\u043B\u044C\u043C\u043E\u043D\u0434\u043E."@uk ,
+		"Humphrey DeForest Bogart, f\u00F6dd 25 december 1899 i New York, d\u00F6d 14 januari 1957 i Holmby Hills i Los Angeles i Kalifornien, var en amerikansk sk\u00E5despelare. Bogart var gift med Lauren Bacall fr\u00E5n 1945 till sin d\u00F6d 1957. Han var en av Hollywoods ledande sk\u00E5despelare, varf\u00F6r han f\u00E5tt hederstiteln som Hollywoods b\u00E4sta sk\u00E5despelare i American Film Institutes 100-\u00E5rsjubileum."@sv ,
+		"Humphrey Bogart (lahir di New York City, New York, 25 Desember 1899 \u2013 meninggal di Los Angeles, California, 14 Januari 1957 pada umur 57 tahun) adalah seorang aktor asal Amerika Serikat. Ia membintangi 75 film, di antaranya adalah  (1941), Casablanca (1942) dan  (1951)."@in ,
+		"Humphrey DeForest Bogart (Nova York, 25 de desembre de 1899 - Los Angeles, 14 de gener de 1957) fou un actor estatunidenc de fama llegend\u00E0ria que retenia el seu llegat despr\u00E9s de la seva mort. Interpretant principalment car\u00E0cters elegants i temeraris, ancorats per un codi moral interior envoltat per un m\u00F3n corrupte, les pel\u00B7l\u00EDcules m\u00E9s notables de Bogart inclouen  (1938), El falc\u00F3 malt\u00E8s (1941), Casablanca (1942), Tenir-ne o no (1944), El son etern (1946), El tresor de Sierra Madre (1948), Cayo Largo (1948), In a Lonely Place (1950), La reina d'\u00C0frica (1951) (pel qual guany\u00E0 un Oscar), El mot\u00ED del Caine (1954), i We're No Angels (1955). En total, apareixia a 75 pel\u00B7l\u00EDcules."@ca ,
+		"Humphrey DeForest Bogart (wym. [\u02C8h\u028Cmfri d\u026A\u02C8f\u0254r\u0259st \u02C8bo\u028A\u02CCg\u0251rt]; ur. 25 grudnia 1899 w Nowym Jorku, zm. 14 stycznia 1957 w Los Angeles) \u2013 ameryka\u0144ski aktor filmowy i teatralny, ikona kultury popularnej, symbol m\u0119sko\u015Bci lat 40. XX wieku. Uznawany za jedn\u0105 z najwi\u0119kszych i najwybitniejszych gwiazd filmowych w historii kinematografii i okresu \u201EZ\u0142otej Ery Hollywood\u201D oraz najbardziej wp\u0142ywowego aktora kina noir. W 1999 American Film Institute umie\u015Bci\u0142 jego nazwisko na 1. miejscu w rankingu \u201Enajwi\u0119kszych aktor\u00F3w wszech czas\u00F3w\u201D (The 50 Greatest American Screen Legends)."@pl ,
+		"Humphrey DeForest BOGART (Esperantigite \u0124amfri Deforest Bogart) (naski\u011Dis la 25-an de decembro 1899 en Novjorko; mortis la 14-an de januaro 1957 en Losan\u011Deleso) estis usona aktoro. Li estas unu el la plej famaj mitoj el kino. \u0108iuj kiuj interesi\u011Das en la kino, havas en kapo la bildon de Humphrey Bogart envesti\u011Di en sia pluvmantelo, tu\u015Dantan sian orelon kun sia dubema a\u016D moketanta rideto. De bona kariero komencita en 1930, kiu enhavis jam bonajn filmojn kiel The Petrified Forest (La \u015Ctoni\u011Dinta arbaro) a\u016D Dead End (Senelirejo), li atingis miton, kiam John Huston elektis lin por The Maltese Falcon (La Malta falko). Sukcesoj sekvis sukcesojn, lia edzi\u011Do kun Lauren Bacall kun kiu li ludis en To Have and Have not (Havi kaj ne havi) duobligis la miton Bogart per la mito Bogart-Bacall. La filmoj, k"@eo ,
+		"\u0425\u0430\u0301\u043C\u0444\u0440\u0438 \u0414\u0435\u0444\u043E\u0301\u0440\u0435\u0441\u0442 \u0411\u043E\u0301\u0433\u0430\u0440\u0442 (Humphrey DeForest Bogart; 25 \u0434\u0435\u043A\u0430\u0431\u0440\u044F 1899 \u0433\u043E\u0434\u0430, \u041D\u044C\u044E-\u0419\u043E\u0440\u043A, \u0421\u0428\u0410 \u2014 14 \u044F\u043D\u0432\u0430\u0440\u044F 1957 \u0433\u043E\u0434\u0430, \u041B\u043E\u0441-\u0410\u043D\u0434\u0436\u0435\u043B\u0435\u0441, \u0421\u0428\u0410) \u2014 \u0430\u043C\u0435\u0440\u0438\u043A\u0430\u043D\u0441\u043A\u0438\u0439 \u043A\u0438\u043D\u043E\u0430\u043A\u0442\u0451\u0440. \u0410\u043C\u0435\u0440\u0438\u043A\u0430\u043D\u0441\u043A\u0438\u0439 \u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442 \u043A\u0438\u043D\u043E\u0438\u0441\u043A\u0443\u0441\u0441\u0442\u0432\u0430 \u043D\u0430\u0437\u0432\u0430\u043B \u0411\u043E\u0433\u0430\u0440\u0442\u0430 \u043B\u0443\u0447\u0448\u0438\u043C \u0430\u043A\u0442\u0451\u0440\u043E\u043C \u0432 \u0438\u0441\u0442\u043E\u0440\u0438\u0438 \u0430\u043C\u0435\u0440\u0438\u043A\u0430\u043D\u0441\u043A\u043E\u0433\u043E \u043A\u0438\u043D\u043E. \u041F\u043E\u0441\u043B\u0435\u0434\u043D\u0438\u043C \u043F\u043E\u044F\u0432\u043B\u0435\u043D\u0438\u0435\u043C \u043D\u0430 \u044D\u043A\u0440\u0430\u043D\u0435 \u0441\u0442\u0430\u043B \u0444\u0438\u043B\u044C\u043C \u00AB\u0422\u0435\u043C \u0442\u044F\u0436\u0435\u043B\u0435\u0435 \u043F\u0430\u0434\u0435\u043D\u0438\u0435\u00BB (1956). \u0412\u0441\u0435\u0433\u043E \u0437\u0430 \u0441\u0432\u043E\u044E \u043F\u043E\u0447\u0442\u0438 30-\u043B\u0435\u0442\u043D\u044E\u044E \u043A\u0438\u043D\u043E\u043A\u0430\u0440\u044C\u0435\u0440\u0443 \u0411\u043E\u0433\u0430\u0440\u0442 \u043F\u043E\u044F\u0432\u0438\u043B\u0441\u044F \u0432 75 \u043F\u043E\u043B\u043D\u043E\u043C\u0435\u0442\u0440\u0430\u0436\u043D\u044B\u0445 \u0444\u0438\u043B\u044C\u043C\u0430\u0445."@ru ,
+		"Humphrey DeForest Bogart (* 25. Dezember 1899 in New York; \u2020 14. Januar 1957 in Los Angeles) war ein US-amerikanischer Filmschauspieler. 1999 w\u00E4hlte ihn das American Film Institute zum \u201Egr\u00F6\u00DFten m\u00E4nnlichen amerikanischen Filmstar aller Zeiten\u201C. Mit seinen Darstellungen harter, erfahrener, oftmals zynischer und konsequent einem inneren Moralkodex folgender Charaktere wurde er zu einer schauspielerischen Ikone des 20. Jahrhunderts."@de ,
+		"Humphrey Bogart [\u02C8h\u028Cmf\u0279i \u02C8bo\u028A\u0261\u0251\u02D0\u0279t] est un acteur am\u00E9ricain n\u00E9 le 25 d\u00E9cembre 1899 \u00E0 New York et mort le 14 janvier 1957 \u00E0 Los Angeles. Surnomm\u00E9 \u00AB Bogey \u00BB ou \u00AB Bogie \u00BB [bo\u028A\u0261i] par son public, il demeure encore aujourd\u2019hui l'un des mythes les plus incontestables de l\u2019histoire du cin\u00E9ma. Bogart est notamment connu pour sa liaison et son mariage avec l'actrice Lauren Bacall, avec laquelle il a tourn\u00E9 plusieurs films notamment Le Port de l'angoisse (1944) et Le Grand Sommeil (1946)."@fr ,
+		"\u30CF\u30F3\u30D5\u30EA\u30FC\u30FB\u30C7\u30A3\u30D5\u30A9\u30EC\u30B9\u30C8\u30FB\u30DC\u30AC\u30FC\u30C8\uFF08Humphrey DeForest Bogart, 1899\u5E7412\u670825\u65E5\uFF08\u7FCC\u5E741\u670823\u65E5\u306B\u51FA\u751F\u5C4A\uFF09 - 1957\u5E741\u670814\u65E5\uFF09\u306F\u3001\u30CB\u30E5\u30FC\u30E8\u30FC\u30AF\u51FA\u8EAB\u306E\u30CF\u30EA\u30A6\u30C3\u30C9\u6620\u753B\u306E\u4FF3\u512A\u3002\u611B\u79F0\u306F\u30DC\u30AE\u30FC\u3002"@ja ,
+		"Humphrey DeForest Bogart (; December 25, 1899 \u2013 January 14, 1957) was an American film and stage actor. His performances in Classical Hollywood cinema films made him an American cultural icon. In 1999, the American Film Institute selected Bogart as the greatest male star of classic American cinema."@en .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+@prefix ns20:	<http://globalwordnet.org/ili/> .
+dbr:Humphrey_Bogart	skos:exactMatch	ns20:i94496 ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Humphrey_Bogart_1945.JPG> ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Humphrey_Bogart .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Humphrey_Bogart	dct:subject	dbc:Amateur_chess_players ,
+		dbc:American_male_stage_actors ,
+		dbc:Male_actors_from_New_York_City ,
+		dbc:Deaths_from_cancer_in_California ,
+		dbc:United_States_Navy_sailors ,
+		dbc:American_naval_personnel_of_World_War_I ,
+		dbc:American_male_radio_actors ,
+		dbc:Phillips_Academy_alumni ,
+		dbc:California_Democrats ,
+		<http://dbpedia.org/resource/Category:Warner_Bros._contract_players> ,
+		dbc:Deaths_from_esophageal_cancer ,
+		<http://dbpedia.org/resource/Category:1899_births> ,
+		dbc:American_male_film_actors ,
+		<http://dbpedia.org/resource/Category:Trinity_School_(New_York_City)_alumni> ,
+		<http://dbpedia.org/resource/Category:People_from_Holmby_Hills,_Los_Angeles> ,
+		dbc:Military_personnel_from_New_York_City ,
+		dbc:American_people_of_Dutch_descent ,
+		<http://dbpedia.org/resource/Category:20th-century_American_male_actors> ,
+		<http://dbpedia.org/resource/Category:1957_deaths> ,
+		<http://dbpedia.org/resource/Category:20th_Century_Fox_contract_players> ,
+		dbc:Best_Actor_Academy_Award_winners ,
+		<http://dbpedia.org/resource/Category:Burials_at_Forest_Lawn_Memorial_Park_(Glendale)> ,
+		dbc:Liberalism_in_the_United_States ,
+		dbc:American_people_of_English_descent ,
+		dbc:People_from_the_Upper_West_Side ,
+		<http://dbpedia.org/resource/Category:New_York_(state)_Democrats> ;
+	owl:sameAs	<http://ko.dbpedia.org/resource/\uD5D8\uD504\uB9AC_\uBCF4\uAC00\uD2B8> ,
+		dbr:Humphrey_Bogart .
+@prefix dbpedia-ca:	<http://ca.dbpedia.org/resource/> .
+dbr:Humphrey_Bogart	owl:sameAs	dbpedia-ca:Humphrey_Bogart .
+@prefix dbpedia-vo:	<http://vo.dbpedia.org/resource/> .
+dbr:Humphrey_Bogart	owl:sameAs	dbpedia-vo:Humphrey_Bogart .
+@prefix dbpedia-sv:	<http://sv.dbpedia.org/resource/> .
+dbr:Humphrey_Bogart	owl:sameAs	dbpedia-sv:Humphrey_Bogart .
+@prefix dbpedia-simple:	<http://simple.dbpedia.org/resource/> .
+dbr:Humphrey_Bogart	owl:sameAs	dbpedia-simple:Humphrey_Bogart ,
+		<http://ar.dbpedia.org/resource/\u0647\u0645\u0641\u0631\u064A_\u0628\u0648\u063A\u0627\u0631\u062A> ,
+		<http://zh.dbpedia.org/resource/\u4EA8\u5F17\u83B1\u00B7\u9C8D\u5609> .
+@prefix ns27:	<http://sco.dbpedia.org/resource/> .
+dbr:Humphrey_Bogart	owl:sameAs	ns27:Humphrey_Bogart ,
+		<http://mk.dbpedia.org/resource/\u0425\u0430\u043C\u0444\u0440\u0438_\u0411\u043E\u0433\u0430\u0440\u0442> ,
+		<http://ka.dbpedia.org/resource/\u10F0\u10D0\u10DB\u10E4\u10E0\u10D8_\u10D1\u10DD\u10D2\u10D0\u10E0\u10E2\u10D8> .
+@prefix dbpedia-la:	<http://la.dbpedia.org/resource/> .
+dbr:Humphrey_Bogart	owl:sameAs	dbpedia-la:Humphredus_Bogart ,
+		<http://d-nb.info/gnd/118512862> .
+@prefix dbpedia-tr:	<http://tr.dbpedia.org/resource/> .
+dbr:Humphrey_Bogart	owl:sameAs	dbpedia-tr:Humphrey_Bogart .
+@prefix dbpedia-gd:	<http://gd.dbpedia.org/resource/> .
+dbr:Humphrey_Bogart	owl:sameAs	dbpedia-gd:Humphrey_Bogart .
+@prefix dbpedia-war:	<http://war.dbpedia.org/resource/> .
+dbr:Humphrey_Bogart	owl:sameAs	dbpedia-war:Humphrey_Bogart .
+@prefix dbpedia-ms:	<http://ms.dbpedia.org/resource/> .
+dbr:Humphrey_Bogart	owl:sameAs	dbpedia-ms:Humphrey_Bogart ,
+		<http://fa.dbpedia.org/resource/\u0647\u0627\u0645\u0641\u0631\u06CC_\u0628\u0648\u06AF\u0627\u0631\u062A> ,
+		<http://bn.dbpedia.org/resource/\u09B9\u09BE\u09AE\u09AB\u09CD\u09B0\u09BF_\u09AC\u09CB\u0997\u09BE\u09B0\u09CD\u099F> .
+@prefix dbpedia-io:	<http://io.dbpedia.org/resource/> .
+dbr:Humphrey_Bogart	owl:sameAs	dbpedia-io:Humphrey_Bogart ,
+		<http://el.dbpedia.org/resource/\u03A7\u03AC\u03BC\u03C6\u03C1\u03B5\u03CA_\u039C\u03C0\u03CC\u03B3\u03BA\u03B1\u03C1\u03C4> ,
+		<http://ta.dbpedia.org/resource/\u0BB9\u0BAE\u0BCD\u0BAA\u0BBF\u0BB1\u0BBF_\u0BAA\u0BCB\u0B95\u0BBE\u0BB0\u0BCD\u0B9F\u0BCD> .
+@prefix dbpedia-et:	<http://et.dbpedia.org/resource/> .
+dbr:Humphrey_Bogart	owl:sameAs	dbpedia-et:Humphrey_Bogart .
+@prefix dbpedia-no:	<http://no.dbpedia.org/resource/> .
+dbr:Humphrey_Bogart	owl:sameAs	dbpedia-no:Humphrey_Bogart .
+@prefix ns36:	<http://data.europa.eu/euodp/jrc-names/> .
+dbr:Humphrey_Bogart	owl:sameAs	ns36:Stephen_Bogart .
+@prefix ns37:	<http://sw.cyc.com/concept/> .
+dbr:Humphrey_Bogart	owl:sameAs	ns37:Mx4rvfmMApwpEbGdrcN5Y29ycA .
+@prefix ns38:	<http://d-nb.info/gnd/118512862/about/> .
+dbr:Humphrey_Bogart	owl:sameAs	ns38:rdf .
+@prefix dbpedia-sw:	<http://sw.dbpedia.org/resource/> .
+dbr:Humphrey_Bogart	owl:sameAs	dbpedia-sw:Humphrey_Bogart ,
+		<http://sr.dbpedia.org/resource/\u0425\u0430\u043C\u0444\u0440\u0438_\u0411\u043E\u0433\u0430\u0440\u0442> .
+@prefix dbpedia-pms:	<http://pms.dbpedia.org/resource/> .
+dbr:Humphrey_Bogart	owl:sameAs	dbpedia-pms:Humphrey_Bogart .
+@prefix dbpedia-fi:	<http://fi.dbpedia.org/resource/> .
+dbr:Humphrey_Bogart	owl:sameAs	dbpedia-fi:Humphrey_Bogart .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Humphrey_Bogart	owl:sameAs	dbpedia-de:Humphrey_Bogart .
+@prefix dbpedia-vi:	<http://vi.dbpedia.org/resource/> .
+dbr:Humphrey_Bogart	owl:sameAs	dbpedia-vi:Humphrey_Bogart .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Humphrey_Bogart	owl:sameAs	yago-res:Humphrey_Bogart .
+@prefix dbpedia-nds:	<http://nds.dbpedia.org/resource/> .
+dbr:Humphrey_Bogart	owl:sameAs	dbpedia-nds:Humphrey_Bogart .
+@prefix ns46:	<http://lv.dbpedia.org/resource/> .
+dbr:Humphrey_Bogart	owl:sameAs	ns46:Hamfrijs_Bogarts .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Humphrey_Bogart	owl:sameAs	dbpedia-it:Humphrey_Bogart .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Humphrey_Bogart	owl:sameAs	dbpedia-pl:Humphrey_Bogart ,
+		<http://ru.dbpedia.org/resource/\u0411\u043E\u0433\u0430\u0440\u0442,_\u0425\u0430\u043C\u0444\u0440\u0438> .
+@prefix ns49:	<http://bs.dbpedia.org/resource/> .
+dbr:Humphrey_Bogart	owl:sameAs	ns49:Humphrey_Bogart .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Humphrey_Bogart	owl:sameAs	dbpedia-nl:Humphrey_Bogart .
+@prefix dbpedia-cy:	<http://cy.dbpedia.org/resource/> .
+dbr:Humphrey_Bogart	owl:sameAs	dbpedia-cy:Humphrey_Bogart .
+@prefix dbpedia-sl:	<http://sl.dbpedia.org/resource/> .
+dbr:Humphrey_Bogart	owl:sameAs	dbpedia-sl:Humphrey_Bogart ,
+		<http://be.dbpedia.org/resource/\u0425\u0430\u043C\u0444\u0440\u044B_\u0411\u043E\u0433\u0430\u0440\u0442> ,
+		<http://azb.dbpedia.org/resource/\u0647\u0627\u0645\u0641\u0631\u06CC_\u0628\u0648\u0642\u0627\u0631\u062A> .
+@prefix ns53:	<http://musicbrainz.org/artist/> .
+dbr:Humphrey_Bogart	owl:sameAs	ns53:f7724be5-a730-4654-b24c-fd6e6e7c0d5f ,
+		<http://hy.dbpedia.org/resource/\u0540\u0561\u0574\u0586\u0580\u056B_\u0532\u0578\u0563\u0561\u0580\u057F> .
+@prefix ns54:	<https://global.dbpedia.org/id/> .
+dbr:Humphrey_Bogart	owl:sameAs	ns54:d3QJ ,
+		<http://he.dbpedia.org/resource/\u05D4\u05DE\u05E4\u05E8\u05D9_\u05D1\u05D5\u05D2\u05E8\u05D8> .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:Humphrey_Bogart	owl:sameAs	dbpedia-es:Humphrey_Bogart .
+@prefix dbpedia-sh:	<http://sh.dbpedia.org/resource/> .
+dbr:Humphrey_Bogart	owl:sameAs	dbpedia-sh:Humphrey_Bogart .
+@prefix dbpedia-da:	<http://da.dbpedia.org/resource/> .
+dbr:Humphrey_Bogart	owl:sameAs	dbpedia-da:Humphrey_Bogart .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Humphrey_Bogart	owl:sameAs	dbpedia-fr:Humphrey_Bogart ,
+		<http://ja.dbpedia.org/resource/\u30CF\u30F3\u30D5\u30EA\u30FC\u30FB\u30DC\u30AC\u30FC\u30C8> .
+@prefix dbpedia-id:	<http://id.dbpedia.org/resource/> .
+dbr:Humphrey_Bogart	owl:sameAs	dbpedia-id:Humphrey_Bogart .
+@prefix ns60:	<http://qu.dbpedia.org/resource/> .
+dbr:Humphrey_Bogart	owl:sameAs	ns60:Humphrey_Bogart ,
+		<http://api.nytimes.com/svc/semantic/v2/concept/name/nytd_per/Bogart,%20Humphrey> ,
+		<http://pa.dbpedia.org/resource/\u0A39\u0A70\u0A2B\u0A30\u0A40_\u0A2C\u0A4B\u0A17\u0A3E\u0A30\u0A1F> .
+@prefix dbpedia-commons:	<http://commons.dbpedia.org/resource/> .
+dbr:Humphrey_Bogart	owl:sameAs	dbpedia-commons:Humphrey_Bogart .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Humphrey_Bogart	owl:sameAs	dbpedia-pt:Humphrey_Bogart .
+@prefix dbpedia-oc:	<http://oc.dbpedia.org/resource/> .
+dbr:Humphrey_Bogart	owl:sameAs	dbpedia-oc:Humphrey_Bogart .
+@prefix dbpedia-hu:	<http://hu.dbpedia.org/resource/> .
+dbr:Humphrey_Bogart	owl:sameAs	dbpedia-hu:Humphrey_Bogart ,
+		<http://ml.dbpedia.org/resource/\u0D39\u0D02\u0D2B\u0D4D\u0D30\u0D3F_\u0D2C\u0D4B\u0D17\u0D3E\u0D7C\u0D1F\u0D4D\u0D1F\u0D4D> .
+@prefix dbpedia-eo:	<http://eo.dbpedia.org/resource/> .
+dbr:Humphrey_Bogart	owl:sameAs	dbpedia-eo:Humphrey_Bogart .
+@prefix dbpedia-br:	<http://br.dbpedia.org/resource/> .
+dbr:Humphrey_Bogart	owl:sameAs	dbpedia-br:Humphrey_Bogart ,
+		<http://rdf.freebase.com/ns/m.03n6r> .
+@prefix dbpedia-ro:	<http://ro.dbpedia.org/resource/> .
+dbr:Humphrey_Bogart	owl:sameAs	dbpedia-ro:Humphrey_Bogart ,
+		<http://ba.dbpedia.org/resource/\u0425\u0430\u043C\u0444\u0440\u0438_\u0411\u043E\u0433\u0430\u0440\u0442> .
+@prefix dbpedia-nn:	<http://nn.dbpedia.org/resource/> .
+dbr:Humphrey_Bogart	owl:sameAs	dbpedia-nn:Humphrey_Bogart .
+@prefix dbpedia-lb:	<http://lb.dbpedia.org/resource/> .
+dbr:Humphrey_Bogart	owl:sameAs	dbpedia-lb:Humphrey_Bogart .
+@prefix dbpedia-ga:	<http://ga.dbpedia.org/resource/> .
+dbr:Humphrey_Bogart	owl:sameAs	dbpedia-ga:Humphrey_Bogart .
+@prefix dbpedia-yo:	<http://yo.dbpedia.org/resource/> .
+dbr:Humphrey_Bogart	owl:sameAs	dbpedia-yo:Humphrey_Bogart ,
+		<http://viaf.org/viaf/68937671> ,
+		<http://th.dbpedia.org/resource/\u0E2E\u0E31\u0E21\u0E1F\u0E23\u0E35\u0E22\u0E4C_\u0E42\u0E1A\u0E01\u0E32\u0E23\u0E4C\u0E15> .
+@prefix dbpedia-an:	<http://an.dbpedia.org/resource/> .
+dbr:Humphrey_Bogart	owl:sameAs	dbpedia-an:Humphrey_Bogart ,
+		ns36:Humphrey_Bogart .
+@prefix ns73:	<http://lt.dbpedia.org/resource/> .
+dbr:Humphrey_Bogart	owl:sameAs	ns73:Humphrey_Bogart ,
+		<http://pnb.dbpedia.org/resource/\u06C1\u06CC\u0645\u0641\u0631\u06CC_\u0628\u0648\u06AF\u0627\u0631\u0679> .
+@prefix dbpedia-eu:	<http://eu.dbpedia.org/resource/> .
+dbr:Humphrey_Bogart	owl:sameAs	dbpedia-eu:Humphrey_Bogart .
+@prefix ns75:	<http://mg.dbpedia.org/resource/> .
+dbr:Humphrey_Bogart	owl:sameAs	ns75:Humphrey_Bogart ,
+		<http://arz.dbpedia.org/resource/\u0647\u0645\u0641\u0631\u0649_\u0628\u0648\u062C\u0627\u0631\u062A> ,
+		wikidata:Q16390 .
+@prefix dbpedia-gl:	<http://gl.dbpedia.org/resource/> .
+dbr:Humphrey_Bogart	owl:sameAs	dbpedia-gl:Humphrey_Bogart ,
+		<http://ckb.dbpedia.org/resource/\u06BE\u06D5\u0645\u0641\u0631\u06CC_\u0628\u06C6\u06AF\u0627\u0631\u062A> .
+@prefix ns77:	<http://ast.dbpedia.org/resource/> .
+dbr:Humphrey_Bogart	owl:sameAs	ns77:Humphrey_Bogart .
+@prefix dbpedia-is:	<http://is.dbpedia.org/resource/> .
+dbr:Humphrey_Bogart	owl:sameAs	dbpedia-is:Humphrey_Bogart .
+@prefix dbpedia-hr:	<http://hr.dbpedia.org/resource/> .
+dbr:Humphrey_Bogart	owl:sameAs	dbpedia-hr:Humphrey_Bogart ,
+		<http://uk.dbpedia.org/resource/\u0413\u0430\u043C\u0444\u0440\u0456_\u0411\u043E\u0433\u0430\u0440\u0442> .
+@prefix dbpedia-af:	<http://af.dbpedia.org/resource/> .
+dbr:Humphrey_Bogart	owl:sameAs	dbpedia-af:Humphrey_Bogart ,
+		<http://bg.dbpedia.org/resource/\u0425\u044A\u043C\u0444\u0440\u0438_\u0411\u043E\u0433\u0430\u0440\u0442> ;
+	schema:sameAs	<http://viaf.org/viaf/68937671> ;
+	dbo:abstract	"Humphrey DeForest Bogart (wym. [\u02C8h\u028Cmfri d\u026A\u02C8f\u0254r\u0259st \u02C8bo\u028A\u02CCg\u0251rt]; ur. 25 grudnia 1899 w Nowym Jorku, zm. 14 stycznia 1957 w Los Angeles) \u2013 ameryka\u0144ski aktor filmowy i teatralny, ikona kultury popularnej, symbol m\u0119sko\u015Bci lat 40. XX wieku. Uznawany za jedn\u0105 z najwi\u0119kszych i najwybitniejszych gwiazd filmowych w historii kinematografii i okresu \u201EZ\u0142otej Ery Hollywood\u201D oraz najbardziej wp\u0142ywowego aktora kina noir. W 1999 American Film Institute umie\u015Bci\u0142 jego nazwisko na 1. miejscu w rankingu \u201Enajwi\u0119kszych aktor\u00F3w wszech czas\u00F3w\u201D (The 50 Greatest American Screen Legends). Bogart rozpocz\u0105\u0142 karier\u0119 sceniczn\u0105 na pocz\u0105tku lat 20. XX wieku, wyst\u0119puj\u0105c na Broadwayu. W 1930 zadebiutowa\u0142 na du\u017Cym ekranie w komedii W g\u00F3rze rzeki. Kontynuowa\u0142 wyst\u0119py teatralne do 1934. Pierwszy rozg\u0142os zyska\u0142 rol\u0105 wi\u0119\u017Ania Duke\u2019a Mantee w kryminale Skamienia\u0142y las (1936). Po zwi\u0105zaniu si\u0119 kontraktem z Warner Bros., przez nast\u0119pne kilka lat grywa\u0142 w filmach klasy B. Prze\u0142omem w jego karierze by\u0142 udzia\u0142 w filmie gangsterskim High Sierra (1941). W nast\u0119pnej dekadzie wyst\u0119powa\u0142 w produkcjach, kt\u00F3re na trwa\u0142e wpisa\u0142y si\u0119 do kanonu klasyki kinematografii ameryka\u0144skiej i ugruntowa\u0142y jego status gwiazdy Hollywood: Sok\u00F3\u0142 malta\u0144ski (1941), Casablanca (1942), Mie\u0107 i nie mie\u0107 (1944), Wielki sen (1946), Mroczne przej\u015Bcie (1947), Skarb Sierra Madre (1948) i Koralowa wyspa (1948). W latach 50. Bogart zas\u0142yn\u0105\u0142 z r\u00F3l w filmach: Pustka (1950), Afryka\u0144ska kr\u00F3lowa (1951), Sabrina (1954) i Bunt na okr\u0119cie (1954). Odgrywa\u0142 zazwyczaj role twardych, nieust\u0119pliwych m\u0119\u017Cczyzn, cynik\u00F3w, z dusz\u0105 romantyka. W latach 40. by\u0142 najlepiej op\u0142acanym aktorem na \u015Bwiecie. W trakcie swojej 34-letniej kariery Bogart trzykrotnie uzyskiwa\u0142 nominacj\u0119 do nagrody Akademii Filmowej w kategorii dla najlepszego aktora pierwszoplanowego, raz zdobywaj\u0105c statuetk\u0119 za rol\u0119 \u0142owcy przyg\u00F3d Charliego Allnuta w Afryka\u0144skiej kr\u00F3lowej. \u0141\u0105cznie wyst\u0105pi\u0142 w 74 filmach fabularnych."@pl ,
+		"Humphrey DeForest BOGART (Esperantigite \u0124amfri Deforest Bogart) (naski\u011Dis la 25-an de decembro 1899 en Novjorko; mortis la 14-an de januaro 1957 en Losan\u011Deleso) estis usona aktoro. Li estas unu el la plej famaj mitoj el kino. \u0108iuj kiuj interesi\u011Das en la kino, havas en kapo la bildon de Humphrey Bogart envesti\u011Di en sia pluvmantelo, tu\u015Dantan sian orelon kun sia dubema a\u016D moketanta rideto. De bona kariero komencita en 1930, kiu enhavis jam bonajn filmojn kiel The Petrified Forest (La \u015Ctoni\u011Dinta arbaro) a\u016D Dead End (Senelirejo), li atingis miton, kiam John Huston elektis lin por The Maltese Falcon (La Malta falko). Sukcesoj sekvis sukcesojn, lia edzi\u011Do kun Lauren Bacall kun kiu li ludis en To Have and Have not (Havi kaj ne havi) duobligis la miton Bogart per la mito Bogart-Bacall. La filmoj, kiujn ili kune ludas, estas kvar el la plej bonaj de \u201CBogie\u201D. Li mortis la 14-an de januaro 1957."@eo ,
+		"Ba aisteoir Meirice\u00E1nach \u00E9 Humphrey DeForest Bogart (25 Nollaig 1899 \u2013 14 Ean\u00E1ir 1957)"@ga ,
+		"\uD5D8\uD504\uB9AC \uB4DC\uD3EC\uB808\uC2A4\uD2B8 \uBCF4\uAC00\uD2B8 (\uC601\uC5B4: Humphrey DeForest Bogart, 1899\uB144 12\uC6D4 25\uC77C ~ 1957\uB144 1\uC6D4 14\uC77C) \uB294 \uBBF8\uAD6D\uC758 \uBC30\uC6B0\uC774\uB2E4. \uADF8\uB294 \uBB38\uD654\uC801 \uC544\uC774\uCF58\uC73C\uB85C \uC5EC\uACA8\uC838 \uC654\uC73C\uBA70 \uBBF8\uAD6D \uC601\uD654 \uC5F0\uAD6C\uC18C\uB294 \uADF8\uB97C \uC704\uB300\uD55C \uB0A8\uC790 \uBC30\uC6B0 Top 25\uC5D0\uC11C 1\uC704\uC5D0 \uC120\uC815\uD558\uC600\uB2E4. \uADF8\uB294 \uC608\uC804\uC5D0 \uC5EC\uB7EC\uAC00\uC9C0 \uC9C1\uC5C5\uC744 \uAC00\uC9C4 \uD6C4 1921\uB144\uC5D0 \uC5F0\uAE30\uB97C \uC2DC\uC791\uD55C \uD6C4 1920\uB144\uB300\uBD80\uD130 1930\uB144\uB300\uAE4C\uC9C0 \uBE0C\uB85C\uB4DC\uC6E8\uC774\uC5D0\uC11C \uC77C\uD558\uC600\uB2E4. \uC774\uD6C4 \uAC80\uC740 \uBAA9\uC694\uC77C\uB85C \uC778\uD574 \uC5F0\uADF9 \uC0DD\uD65C\uC5D0 \uBB38\uC81C\uAC00 \uBC1C\uC0DD\uD558\uC790, \uADF8\uB294 \uC601\uD654\uACC4\uB85C \uAC00 1936\uB144, \u300A\u300B\uC5D0\uC11C \uB6F0\uC5B4\uB09C \uC5F0\uAE30\uB97C \uD3BC\uCCD0, \uC774\uD6C4 \u300A\u300B\uAC19\uC740 \uAC31\uC2A4\uD130 \uC601\uD654\uC5D0 \uC8FC\uB85C \uCD9C\uC5F0\uD558\uC600\uB2E4. \uADF8\uB294 1941\uB144\uBD80\uD130 \uC8FC\uC5F0\uC744 \uB9E1\uC544, \u300A\u300B, \u300A\uB9D0\uD0C0\uC758 \uB9E4\u300B\uAC19\uC740 \uC601\uD654\uC5D0\uC11C \uB6F0\uC5B4\uB09C \uC5F0\uAE30\uB97C \uD3BC\uCCE4\uB2E4. \uB2E4\uC74C\uD574\uC5D0\uB294 \u300A\uCE74\uC0AC\uBE14\uB791\uCE74\u300B\uC5D0 \uCD9C\uC5F0\uD558\uC5EC \uC8FC\uC625\uAC19\uC740 \uC5F0\uAE30\uB85C \uC778\uAE30\uB97C \uC5BB\uAC8C \uB41C\uB2E4. \uC774\uD6C4 \uADF8\uB294 \uB85C\uB7F0 \uBC84\uCF5C\uACFC \uD568\uAED8 \uCD9C\uC5F0\uD55C \u300A\u300B, \u300A\u300B, \u300A\u300B, \u300A\uD0A4 \uB77C\uB974\uACE0\u300B\uC5D0 \uB098\uC654\uB2E4. \uADF8\uB294 \u300A\uC2DC\uC5D0\uB77C \uB9C8\uB4DC\uB808\uC758 \uD669\uAE08\u300B\uC5D0\uC11C\uB3C4 \uCD9C\uC5F0\uD558\uC600\uC73C\uBA70 1951\uB144\uC5D0\uB294 \u300A\uC544\uD504\uB9AC\uCE74\uC758 \uC5EC\uC655\u300B\uC73C\uB85C \uB9C8\uCE68\uB0B4 \uC544\uCE74\uB370\uBBF8\uC0C1\uC744 \uC218\uC0C1\uD558\uC600\uB2E4. \uADF8\uB294 \uC774\uD6C4\uB85C\uB3C4 \u300A\uC0AC\uBE0C\uB9AC\uB098\u300B, \u300A\u300B\uC5D0 \uCD9C\uC5F0\uD558\uC600\uC73C\uBA70 \uB9C8\uC9C0\uB9C9\uC73C\uB85C \u300A\u300B\uC5D0 \uCD9C\uC5F0\uD558\uC600\uB2E4. 1957\uB144 1\uC6D4 14\uC77C \uCE98\uB9AC\uD3EC\uB2C8\uC544\uC8FC \uB85C\uC2A4\uC564\uC824\uB808\uC2A4\uC5D0\uC11C \uC2DD\uB3C4\uC554\uC73C\uB85C \uBCC4\uC138\uD588\uB2E4."@ko ,
+		"Humphrey DeForest Bogart (New York, 25 dicembre 1899 \u2013 Los Angeles, 14 gennaio 1957) \u00E8 stato un attore statunitense. Una delle icone del cinema hollywoodiano, la sua inconfondibile figura viene ancora ricordata dagli appassionati di cinema a distanza di molti anni dalla morte, tanto che l'American Film Institute ha inserito Bogart al primo posto tra le pi\u00F9 grandi stelle della storia del cinema."@it ,
+		"Humphrey DeForest Bogart, f\u00F6dd 25 december 1899 i New York, d\u00F6d 14 januari 1957 i Holmby Hills i Los Angeles i Kalifornien, var en amerikansk sk\u00E5despelare. Bogart var gift med Lauren Bacall fr\u00E5n 1945 till sin d\u00F6d 1957. Han var en av Hollywoods ledande sk\u00E5despelare, varf\u00F6r han f\u00E5tt hederstiteln som Hollywoods b\u00E4sta sk\u00E5despelare i American Film Institutes 100-\u00E5rsjubileum."@sv ,
+		"\u0647\u0645\u0641\u0631\u064A \u0628\u0648\u063A\u0627\u0631\u062A \u0623\u062D\u062F \u0623\u0643\u0628\u0631 \u0646\u062C\u0648\u0645 \u0627\u0644\u0633\u064A\u0646\u0645\u0627 \u0627\u0644\u0623\u0645\u0631\u064A\u0643\u064A\u0629 \u0648\u0644\u062F \u0639\u0627\u0645 1899\u0645 \u0648\u062A\u0648\u0641\u0649 \u0641\u064A \u0639\u0627\u0645 1957\u0645 \u0648\u0643\u0627\u0646 \u064A\u0646\u062A\u0645\u064A \u0625\u0644\u0649 \u0639\u0627\u0626\u0644\u0629 \u0645\u062B\u0642\u0641\u0629 \u0648\u0645\u064A\u0633\u0648\u0631\u0629 \u0627\u0644\u062D\u0627\u0644\u060C \u0648\u0644\u0645 \u064A\u0633\u062A\u0645\u0631 \u0641\u064A \u062F\u0631\u0627\u0633\u062A\u0647 \u0644\u064A\u062A\u0641\u0631\u063A \u0644\u0644\u062A\u0645\u062B\u064A\u0644\u060C \u0645\u062B\u0644 \u0639\u0644\u0649 \u0645\u062F\u0649 \u0631\u0628\u0639 \u0642\u0631\u0646 \u0641\u064A \u062B\u0645\u0627\u0646\u064A\u0629 \u0648\u0633\u062A\u064A\u0646 \u0641\u064A\u0644\u0645\u0627\u064B\u060C \u0648\u0642\u062F \u0634\u062E\u0635 \u0627\u0644\u0639\u062F\u064A\u062F \u0645\u0646 \u0627\u0644\u0623\u062F\u0648\u0627\u0631 \u0627\u062B\u0628\u062A \u0641\u064A\u0645\u0627 \u0628\u0639\u062F \u062A\u0641\u0648\u0642\u0647 \u0641\u064A\u0647\u0627. \u062D\u0635\u0644 \u0639\u0644\u0649 \u0647\u0630\u0647 \u062C\u0627\u0626\u0632\u0629 \u0627\u0644\u0623\u0648\u0633\u0643\u0627\u0631 \u0641\u064A \u0639\u0627\u0645 1951\u060C \u0639\u0646 \u062F\u0648\u0631\u0647 \u0641\u064A \u0641\u064A\u0644\u0645 \u0627\u0644\u0645\u0644\u0643\u0629 \u0627\u0644\u0625\u0641\u0631\u064A\u0642\u064A\u0629 \u0645\u0646 \u0625\u062E\u0631\u0627\u062C \"\u062C\u0648\u0646 \u0647\u064A\u0648\u0633\u062A\u0646\"\u060C \u0648\u0634\u0627\u0631\u0643\u062A\u0647 \u0641\u064A \u0628\u0637\u0648\u0644\u0629 \u0647\u0630\u0627 \u0627\u0644\u0641\u064A\u0644\u0645 \u0643\u0627\u062B\u0631\u064A\u0646 \u0647\u064A\u0628\u0648\u0631\u0646. \u0648\u0642\u062F \u062D\u0635\u0644 \u0623\u064A\u0636\u0627 \u0639\u0627\u0645 1999 \u0639\u0644\u0649 \u0627\u0644\u062A\u0631\u062A\u064A\u0628 \u0627\u0644\u0623\u0648\u0644 \u0644\u0623\u0641\u0636\u0644 \u0645\u0645\u062B\u0644\u064A \u0627\u0644\u0633\u064A\u0646\u0645\u0627 \u0627\u0644\u0623\u0645\u0631\u064A\u0643\u064A\u0629 \u0639\u0644\u0649 \u0627\u0644\u0625\u0637\u0644\u0627\u0642 \u0639\u0628\u0631 100 \u0639\u0627\u0645 \u0648\u0630\u0644\u0643 \u0636\u0645\u0646 \u0641\u0639\u0627\u0644\u064A\u0627\u062A \u064A\u0642\u0648\u0645 \u0628\u0647\u0627 \u0645\u0639\u0647\u062F \u0627\u0644\u0641\u064A\u0644\u0645 \u0627\u0644\u0623\u0645\u0631\u064A\u0643\u064A."@ar ,
+		"Humphrey DeForest Bogart (* 25. Dezember 1899 in New York; \u2020 14. Januar 1957 in Los Angeles) war ein US-amerikanischer Filmschauspieler. 1999 w\u00E4hlte ihn das American Film Institute zum \u201Egr\u00F6\u00DFten m\u00E4nnlichen amerikanischen Filmstar aller Zeiten\u201C. Mit seinen Darstellungen harter, erfahrener, oftmals zynischer und konsequent einem inneren Moralkodex folgender Charaktere wurde er zu einer schauspielerischen Ikone des 20. Jahrhunderts. Nachdem er seine Schauspielerkarriere beim Theater begonnen hatte, kam Bogart Ende der 1920er-Jahre mit dem Tonfilm nach Hollywood. W\u00E4hrend der 1930er-Jahre war er vor allem als Nebendarsteller in Gangsterrollen bekannt, darunter in Der versteinerte Wald und Chicago \u2013 Engel mit schmutzigen Gesichtern. Anfang der 1940er-Jahre gelang ihm der gro\u00DFe Durchbruch zum Filmstar. Insbesondere den Film noir pr\u00E4gte er mit Filmen wie Die Spur des Falken, Tote schlafen fest und Gangster in Key Largo wie kein anderer Darsteller. Seine wohl ber\u00FChmteste Rolle ist der Cafebesitzer Rick Blaine in dem 1942 gedrehten Kultfilm Casablanca. Den Oscar als Bester Hauptdarsteller erhielt er f\u00FCr seinen Auftritt im Abenteuerfilm African Queen (1951)."@de ,
+		"Humphrey Bogart [\u02C8h\u028Cmf\u0279i \u02C8bo\u028A\u0261\u0251\u02D0\u0279t] est un acteur am\u00E9ricain n\u00E9 le 25 d\u00E9cembre 1899 \u00E0 New York et mort le 14 janvier 1957 \u00E0 Los Angeles. Surnomm\u00E9 \u00AB Bogey \u00BB ou \u00AB Bogie \u00BB [bo\u028A\u0261i] par son public, il demeure encore aujourd\u2019hui l'un des mythes les plus incontestables de l\u2019histoire du cin\u00E9ma. En 1952, il remporte l\u2019Oscar du meilleur acteur pour son r\u00F4le dans L'Odyss\u00E9e de l'African Queen. En 1999, il est class\u00E9 par l\u2019American Film Institute comme \u00E9tant la plus grande vedette de cin\u00E9ma masculine de tous les temps. Le film Casablanca, dans lequel il joue le r\u00F4le principal, est r\u00E9guli\u00E8rement cit\u00E9 parmi les cinq meilleurs films de l'histoire du cin\u00E9ma. L'image d'Humphrey Bogart est li\u00E9e \u00E0 son allure, \u00E9troitement sangl\u00E9 dans son imperm\u00E9able, ses orbites sombres creusant, sous le feutre mou du d\u00E9tective priv\u00E9, son visage plus ou moins pliss\u00E9, son rictus de d\u00E9rision perp\u00E9tuelle et son geste machinal pour se tirer le lobe de l'oreille. Son jeu \u00E9tait toujours naturel. Bogart est notamment connu pour sa liaison et son mariage avec l'actrice Lauren Bacall, avec laquelle il a tourn\u00E9 plusieurs films notamment Le Port de l'angoisse (1944) et Le Grand Sommeil (1946)."@fr ,
+		"\u4EA8\u5F17\u83B1\u00B7\u5FB7\u5F17\u745E\u65AF\u7279\u00B7\u9C8D\u5609\uFF08\u82F1\u8A9E\uFF1AHumphrey DeForest Bogart\uFF0C1899\u5E7412\u670825\u65E5\uFF0D1957\u5E741\u670814\u65E5\uFF09\u751F\u4E8E\u7F8E\u56FD\u7EBD\u7EA6\uFF0C\u7F8E\u56FD\u7535\u5F71\u7537\u6F14\u5458\uFF0C\u4ED6\u5728\u6B7B\u540E\u7684\u51E0\u5341\u5E74\u540E\u8FD8\u5728\u5168\u7403\u4EBA\u548C\u7535\u5F71\u754C\u4FDD\u7559\u7740\u4F20\u5947\u6027\u7684\u5730\u4F4D\u3002"@zh ,
+		"\u0425\u0430\u0301\u043C\u0444\u0440\u0438 \u0414\u0435\u0444\u043E\u0301\u0440\u0435\u0441\u0442 \u0411\u043E\u0301\u0433\u0430\u0440\u0442 (Humphrey DeForest Bogart; 25 \u0434\u0435\u043A\u0430\u0431\u0440\u044F 1899 \u0433\u043E\u0434\u0430, \u041D\u044C\u044E-\u0419\u043E\u0440\u043A, \u0421\u0428\u0410 \u2014 14 \u044F\u043D\u0432\u0430\u0440\u044F 1957 \u0433\u043E\u0434\u0430, \u041B\u043E\u0441-\u0410\u043D\u0434\u0436\u0435\u043B\u0435\u0441, \u0421\u0428\u0410) \u2014 \u0430\u043C\u0435\u0440\u0438\u043A\u0430\u043D\u0441\u043A\u0438\u0439 \u043A\u0438\u043D\u043E\u0430\u043A\u0442\u0451\u0440. \u0410\u043C\u0435\u0440\u0438\u043A\u0430\u043D\u0441\u043A\u0438\u0439 \u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442 \u043A\u0438\u043D\u043E\u0438\u0441\u043A\u0443\u0441\u0441\u0442\u0432\u0430 \u043D\u0430\u0437\u0432\u0430\u043B \u0411\u043E\u0433\u0430\u0440\u0442\u0430 \u043B\u0443\u0447\u0448\u0438\u043C \u0430\u043A\u0442\u0451\u0440\u043E\u043C \u0432 \u0438\u0441\u0442\u043E\u0440\u0438\u0438 \u0430\u043C\u0435\u0440\u0438\u043A\u0430\u043D\u0441\u043A\u043E\u0433\u043E \u043A\u0438\u043D\u043E. \u0421\u043C\u0435\u043D\u0438\u0432 \u043D\u0435\u0441\u043A\u043E\u043B\u044C\u043A\u043E \u0437\u0430\u043D\u044F\u0442\u0438\u0439, \u0432 1921 \u0433\u043E\u0434\u0443 \u0411\u043E\u0433\u0430\u0440\u0442 \u0441\u0442\u0430\u043B \u0430\u043A\u0442\u0451\u0440\u043E\u043C, \u0438 \u0432 1920-\u0445\u20141930-\u0445 \u0433\u043E\u0434\u0430\u0445 \u0443\u0447\u0430\u0441\u0442\u0432\u043E\u0432\u0430\u043B \u0432 \u0431\u0440\u043E\u0434\u0432\u0435\u0439\u0441\u043A\u0438\u0445 \u043F\u043E\u0441\u0442\u0430\u043D\u043E\u0432\u043A\u0430\u0445. \u041A\u043E\u0433\u0434\u0430 \u0441\u043B\u0443\u0447\u0438\u043B\u0441\u044F \u0431\u0438\u0440\u0436\u0435\u0432\u043E\u0439 \u043A\u0440\u0430\u0445 1929 \u0433\u043E\u0434\u0430, \u0411\u043E\u0433\u0430\u0440\u0442 \u043F\u0440\u0438\u0448\u0451\u043B \u0432 \u043A\u0438\u043D\u043E. \u0415\u0433\u043E \u043F\u0435\u0440\u0432\u044B\u043C \u0431\u043E\u043B\u044C\u0448\u0438\u043C \u0443\u0441\u043F\u0435\u0445\u043E\u043C \u0441\u0442\u0430\u043B\u0430 \u0440\u043E\u043B\u044C \u0432 \u0444\u0438\u043B\u044C\u043C\u0435 \u00AB\u041E\u043A\u0430\u043C\u0435\u043D\u0435\u043B\u044B\u0439 \u043B\u0435\u0441\u00BB (1936), \u043F\u043E\u0441\u043B\u0435 \u043A\u043E\u0442\u043E\u0440\u043E\u0439 \u043E\u043D \u0441\u043D\u0438\u043C\u0430\u043B\u0441\u044F \u0432 \u0433\u0430\u043D\u0433\u0441\u0442\u0435\u0440\u0441\u043A\u0438\u0445 \u0444\u0438\u043B\u044C\u043C\u0430\u0445, \u0432\u043A\u043B\u044E\u0447\u0430\u044F \u00AB\u0410\u043D\u0433\u0435\u043B\u044B \u0441 \u0433\u0440\u044F\u0437\u043D\u044B\u043C\u0438 \u043B\u0438\u0446\u0430\u043C\u0438\u00BB (1938), \u0438 \u0432 \u0444\u0438\u043B\u044C\u043C\u0430\u0445 \u043A\u0430\u0442\u0435\u0433\u043E\u0440\u0438\u0438 B, \u0432\u0440\u043E\u0434\u0435 \u00AB\u0412\u043E\u0437\u0432\u0440\u0430\u0449\u0435\u043D\u0438\u0435 \u0434\u043E\u043A\u0442\u043E\u0440\u0430 \u0418\u043A\u0441\u00BB (1939). \u041F\u0435\u0440\u0435\u043B\u043E\u043C \u0432 \u043A\u0430\u0440\u044C\u0435\u0440\u0435 \u043D\u0430\u0441\u0442\u0443\u043F\u0438\u043B \u0432 1941 \u0433\u043E\u0434\u0443 \u0441 \u0432\u044B\u0445\u043E\u0434\u043E\u043C \u00AB\u0412\u044B\u0441\u043E\u043A\u043E\u0439 \u0421\u044C\u0435\u0440\u0440\u044B\u00BB \u0438 \u00AB\u041C\u0430\u043B\u044C\u0442\u0438\u0439\u0441\u043A\u043E\u0433\u043E \u0441\u043E\u043A\u043E\u043B\u0430\u00BB. \u00AB\u041A\u0430\u0441\u0430\u0431\u043B\u0430\u043D\u043A\u0430\u00BB \u0441\u0442\u0430\u043B\u0430 \u0432\u0435\u0440\u0448\u0438\u043D\u043E\u0439 \u0435\u0433\u043E \u043A\u0430\u0440\u044C\u0435\u0440\u044B \u0438 \u0437\u0430\u043A\u0440\u0435\u043F\u0438\u043B\u0430 \u0435\u0433\u043E \u043A\u0438\u043D\u043E\u043E\u0431\u0440\u0430\u0437 \u0446\u0438\u043D\u0438\u043A\u0430, \u043A\u043E\u0442\u043E\u0440\u044B\u0439 \u0432 \u043A\u043E\u043D\u0446\u0435 \u043A\u043E\u043D\u0446\u043E\u0432 \u0440\u0430\u0441\u043A\u0440\u044B\u0432\u0430\u0435\u0442 \u0441\u0432\u043E\u0451 \u0431\u043B\u0430\u0433\u043E\u0440\u043E\u0434\u0441\u0442\u0432\u043E. \u0417\u0430\u0442\u0435\u043C \u043F\u043E\u0441\u043B\u0435\u0434\u043E\u0432\u0430\u043B\u0438 \u0434\u0440\u0443\u0433\u0438\u0435 \u0443\u0441\u043F\u0435\u0448\u043D\u044B\u0435 \u043A\u0430\u0440\u0442\u0438\u043D\u044B, \u0432 \u0442\u043E\u043C \u0447\u0438\u0441\u043B\u0435 \u00AB\u0418\u043C\u0435\u0442\u044C \u0438 \u043D\u0435 \u0438\u043C\u0435\u0442\u044C\u00BB (1944), \u00AB\u0413\u043B\u0443\u0431\u043E\u043A\u0438\u0439 \u0441\u043E\u043D\u00BB, \u00AB\u0427\u0451\u0440\u043D\u0430\u044F \u043F\u043E\u043B\u043E\u0441\u0430\u00BB (1947) \u0438 \u00AB\u041A\u0438-\u041B\u0430\u0440\u0433\u043E\u00BB (1948), \u0432 \u043A\u043E\u0442\u043E\u0440\u044B\u0445 \u043E\u043D \u0441\u043D\u0438\u043C\u0430\u043B\u0441\u044F \u0432\u043C\u0435\u0441\u0442\u0435 \u0441 \u041B\u043E\u0440\u0435\u043D \u0411\u044D\u043A\u043E\u043B\u043B; \u00AB\u0421\u043E\u043A\u0440\u043E\u0432\u0438\u0449\u0430 \u0421\u044C\u0435\u0440\u0440\u0430-\u041C\u0430\u0434\u0440\u0435\u00BB (1948); \u00AB\u0410\u0444\u0440\u0438\u043A\u0430\u043D\u0441\u043A\u0430\u044F \u043A\u043E\u0440\u043E\u043B\u0435\u0432\u0430\u00BB (1951), \u043F\u0440\u0438\u043D\u0451\u0441\u0448\u0430\u044F \u0435\u043C\u0443 \u043F\u0440\u0435\u043C\u0438\u044E \u00AB\u041E\u0441\u043A\u0430\u0440\u00BB; \u00AB\u0421\u0430\u0431\u0440\u0438\u043D\u0430\u00BB \u0438 \u00AB\u0411\u0443\u043D\u0442 \u043D\u0430 \u201E\u041A\u0435\u0439\u043D\u0435\u201C\u00BB (1954). \u041F\u043E\u0441\u043B\u0435\u0434\u043D\u0438\u043C \u043F\u043E\u044F\u0432\u043B\u0435\u043D\u0438\u0435\u043C \u043D\u0430 \u044D\u043A\u0440\u0430\u043D\u0435 \u0441\u0442\u0430\u043B \u0444\u0438\u043B\u044C\u043C \u00AB\u0422\u0435\u043C \u0442\u044F\u0436\u0435\u043B\u0435\u0435 \u043F\u0430\u0434\u0435\u043D\u0438\u0435\u00BB (1956). \u0412\u0441\u0435\u0433\u043E \u0437\u0430 \u0441\u0432\u043E\u044E \u043F\u043E\u0447\u0442\u0438 30-\u043B\u0435\u0442\u043D\u044E\u044E \u043A\u0438\u043D\u043E\u043A\u0430\u0440\u044C\u0435\u0440\u0443 \u0411\u043E\u0433\u0430\u0440\u0442 \u043F\u043E\u044F\u0432\u0438\u043B\u0441\u044F \u0432 75 \u043F\u043E\u043B\u043D\u043E\u043C\u0435\u0442\u0440\u0430\u0436\u043D\u044B\u0445 \u0444\u0438\u043B\u044C\u043C\u0430\u0445."@ru ,
+		"Humphrey Bogart (lahir di New York City, New York, 25 Desember 1899 \u2013 meninggal di Los Angeles, California, 14 Januari 1957 pada umur 57 tahun) adalah seorang aktor asal Amerika Serikat. Ia membintangi 75 film, di antaranya adalah  (1941), Casablanca (1942) dan  (1951)."@in ,
+		"Humphrey DeForest Bogart (Nueva York, Nueva York; 25 de diciembre de 1899-Los \u00C1ngeles, California; 14 de enero de 1957) fue un actor de cine y teatro estadounidense. El estilo c\u00EDnico y moralmente dudoso de muchos de sus personajes, el eterno cigarrillo siempre entre sus dedos y su condici\u00F3n de gal\u00E1n poco convencional son algunos de los rasgos m\u00E1s recordados de su filmograf\u00EDa. Seg\u00FAn la lista del American Film Institute, est\u00E1 considerado la primera estrella masculina m\u00E1s importante de los primeros cien a\u00F1os del cine estadounidense."@es ,
+		"\u0413\u0430\u0301\u043C\u0444\u0440\u0456 \u0414\u0435\u0424\u043E\u0301\u0440\u0435\u0441\u0442 \u0411\u043E\u0301\u0433\u0430\u0440\u0442 (\u0430\u043D\u0433\u043B. Humphrey DeForest Bogart; 25 \u0433\u0440\u0443\u0434\u043D\u044F 1899 \u2014 14 \u0441\u0456\u0447\u043D\u044F 1957) \u2014 \u0430\u043C\u0435\u0440\u0438\u043A\u0430\u043D\u0441\u044C\u043A\u0438\u0439 \u043A\u0456\u043D\u043E\u0430\u043A\u0442\u043E\u0440, \u043E\u0434\u0438\u043D \u0456\u0437 \u043F\u0440\u043E\u0432\u0456\u0434\u043D\u0438\u0445 \u043F\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043D\u0438\u043A\u0456\u0432 \u043A\u0456\u043D\u043E\u0436\u0430\u043D\u0440\u0443 \u00AB\u043D\u0443\u0430\u0440\u00BB, \u0432\u0456\u0434\u043E\u043C\u0438\u0439 \u0441\u0432\u043E\u0457\u043C \u0430\u043C\u043F\u043B\u0443\u0430 \u0436\u043E\u0440\u0441\u0442\u043A\u043E\u0457 \u0439 \u0446\u0438\u043D\u0456\u0447\u043D\u043E\u0457, \u0430\u043B\u0435 \u0448\u043B\u044F\u0445\u0435\u0442\u043D\u043E\u0457 \u043B\u044E\u0434\u0438\u043D\u0438. \u0419\u043E\u0433\u043E \u0441\u0442\u0438\u043B\u044C \u0433\u0440\u0438 \u0441\u0442\u0430\u0432 \u0437\u0440\u0430\u0437\u043A\u043E\u043C \u0434\u043B\u044F \u0447\u0438\u0441\u043B\u0435\u043D\u043D\u0438\u0445 \u0430\u043A\u0442\u043E\u0440\u0456\u0432 \u0404\u0432\u0440\u043E\u043F\u0438 \u0439 \u0410\u043C\u0435\u0440\u0438\u043A\u0438, \u0432\u043A\u043B\u044E\u0447\u043D\u043E \u0437 \u0416\u0430\u043D\u043E\u043C-\u041F\u043E\u043B\u0435\u043C \u0411\u0435\u043B\u044C\u043C\u043E\u043D\u0434\u043E."@uk ,
+		"\u039F \u03A7\u03AC\u03BC\u03C6\u03C1\u03B5\u03CA \u039C\u03C0\u03CC\u03B3\u03BA\u03B1\u03C1\u03C4 (Humphrey DeForest Bogart, 25 \u0394\u03B5\u03BA\u03B5\u03BC\u03B2\u03C1\u03AF\u03BF\u03C5 1899 - 14 \u0399\u03B1\u03BD\u03BF\u03C5\u03B1\u03C1\u03AF\u03BF\u03C5 1957) \u03AE\u03C4\u03B1\u03BD \u0391\u03BC\u03B5\u03C1\u03B9\u03BA\u03B1\u03BD\u03CC\u03C2 \u03B7\u03B8\u03BF\u03C0\u03BF\u03B9\u03CC\u03C2, \u03B2\u03C1\u03B1\u03B2\u03B5\u03C5\u03BC\u03AD\u03BD\u03BF\u03C2 \u03BC\u03B5 \u038C\u03C3\u03BA\u03B1\u03C1 \u0391' \u0391\u03BD\u03B4\u03C1\u03B9\u03BA\u03BF\u03CD \u03A1\u03CC\u03BB\u03BF\u03C5. \u0391\u03C0\u03BF\u03C4\u03B5\u03BB\u03B5\u03AF \u03B8\u03C1\u03CD\u03BB\u03BF \u03C4\u03BF\u03C5 \u03C3\u03B9\u03BD\u03B5\u03BC\u03AC \u03BB\u03CC\u03B3\u03C9 \u03C4\u03B7 \u03C3\u03C5\u03BC\u03BC\u03B5\u03C4\u03BF\u03C7\u03AE\u03C2 \u03C4\u03BF\u03C5 \u03C3\u03B5 \u03BC\u03B9\u03B1 \u03C3\u03B5\u03B9\u03C1\u03AC \u03B1\u03C3\u03C4\u03C5\u03BD\u03BF\u03BC\u03B9\u03BA\u03CE\u03BD \u03C4\u03B1\u03B9\u03BD\u03B9\u03CE\u03BD \u03BC\u03C5\u03C3\u03C4\u03B7\u03C1\u03AF\u03BF\u03C5 \u03BA\u03B1\u03C4\u03AC \u03C4\u03B7\u03BD \u03C7\u03C1\u03C5\u03C3\u03AE \u03B5\u03C0\u03BF\u03C7\u03AE \u03C4\u03BF\u03C5 \u03A7\u03CC\u03BB\u03C5\u03B3\u03BF\u03C5\u03BD\u03C4. \u0395\u03AF\u03BD\u03B1\u03B9 \u03B3\u03BD\u03C9\u03C3\u03C4\u03CC\u03C2 \u03B3\u03B9\u03B1 \u03C4\u03B9\u03C2 \u03C4\u03B1\u03B9\u03BD\u03AF\u03B5\u03C2 \u03A4\u03BF \u0391\u03C0\u03BF\u03BB\u03B9\u03B8\u03C9\u03BC\u03AD\u03BD\u03BF \u0394\u03AC\u03C3\u03BF\u03C2 \u03C4\u03BF\u03C5 1936, \u03A4\u03BF \u0393\u03B5\u03C1\u03AC\u03BA\u03B9 \u03C4\u03B7\u03C2 \u039C\u03AC\u03BB\u03C4\u03B1\u03C2 \u03C4\u03BF\u03C5 1941, \u039A\u03B1\u03B6\u03B1\u03BC\u03C0\u03BB\u03AC\u03BD\u03BA\u03B1 \u03C4\u03BF\u03C5 1942, \u0397 \u03C3\u03B5\u03B9\u03C1\u03AE\u03BD\u03B1 \u03C4\u03B7\u03C2 \u039C\u03B1\u03C1\u03C4\u03B9\u03BD\u03AF\u03BA\u03B1 \u03C4\u03BF\u03C5 1944, \u03A0\u03AC\u03B8\u03BF\u03C2 \u03BA\u03B1\u03B9 \u03B1\u03AF\u03BC\u03B1 \u03C4\u03BF\u03C5 1946, \u039F \u0398\u03B7\u03C3\u03B1\u03C5\u03C1\u03CC\u03C2 \u03C4\u03B7\u03C2 \u03A3\u03B9\u03AD\u03C1\u03B1 \u039C\u03AC\u03BD\u03C4\u03C1\u03B5 \u03C4\u03BF\u03C5 1948 \u03BA\u03B1\u03B9 \u03C4\u03B7\u03BD \u03C4\u03B1\u03B9\u03BD\u03AF\u03B1 \u03C0\u03BF\u03C5 \u03C4\u03BF\u03C5 \u03C7\u03AC\u03C1\u03B9\u03C3\u03B5 \u03C4\u03BF \u03CC\u03C3\u03BA\u03B1\u03C1 \u03C4\u03BF 1951 \u0397 \u03B2\u03B1\u03C3\u03AF\u03BB\u03B9\u03C3\u03C3\u03B1 \u03C4\u03B7\u03C2 \u0391\u03C6\u03C1\u03B9\u03BA\u03AE\u03C2. \u039F \u039C\u03C0\u03CC\u03B3\u03BA\u03B1\u03C1\u03C4, \u03B3\u03B9\u03BF\u03C2 \u03B5\u03CD\u03C0\u03BF\u03C1\u03B7\u03C2 \u03BF\u03B9\u03BA\u03BF\u03B3\u03AD\u03BD\u03B5\u03B9\u03B1\u03C2, \u03BE\u03B5\u03BA\u03AF\u03BD\u03B7\u03C3\u03B5 \u03BC\u03B5 \u03C4\u03B7\u03BD \u03C0\u03C1\u03BF\u03CB\u03C0\u03CC\u03B8\u03B5\u03C3\u03B7 \u03BD' \u03B1\u03BA\u03BF\u03BB\u03BF\u03C5\u03B8\u03AE\u03C3\u03B5\u03B9 \u03C4\u03BF \u03B5\u03C0\u03AC\u03B3\u03B3\u03B5\u03BB\u03BC\u03B1 \u03C4\u03BF\u03C5 \u03C0\u03B1\u03C4\u03AD\u03C1\u03B1 \u03C4\u03BF\u03C5 \u03BA\u03B1\u03B9 \u03B3\u03C1\u03AC\u03C6\u03C4\u03B7\u03BA\u03B5 \u03C3\u03C4\u03B7\u03BD \u0399\u03B1\u03C4\u03C1\u03B9\u03BA\u03AE \u03C3\u03C4\u03BF \u0393\u03AD\u03B9\u03BB \u03B1\u03C0' \u03CC\u03C0\u03BF\u03C5 \u03B1\u03C0\u03BF\u03B2\u03BB\u03AE\u03B8\u03B7\u03BA\u03B5. \u0391\u03C1\u03B3\u03CC\u03C4\u03B5\u03C1\u03B1 \u03C4\u03BF 1918 \u03BA\u03B1\u03C4\u03B1\u03C4\u03AC\u03C7\u03B8\u03B7\u03BA\u03B5 \u03C3\u03C4\u03BF \u03BD\u03B1\u03C5\u03C4\u03B9\u03BA\u03CC \u03CC\u03C0\u03BF\u03C5 \u03C3' \u03AD\u03BD\u03B1 \u03BA\u03B1\u03C5\u03B3\u03AC \u03B1\u03C0\u03AD\u03BA\u03C4\u03B7\u03C3\u03B5 \u03C4\u03BF \u03C3\u03B7\u03BC\u03AC\u03B4\u03B9 \u03C3\u03C4\u03B1 \u03C7\u03B5\u03AF\u03BB\u03B7 \u03C0\u03BF\u03C5 \u03B8\u03B1 \u03C4\u03BF\u03BD \u03AD\u03BA\u03B1\u03BD\u03B5 \u03B1\u03C1\u03B3\u03CC\u03C4\u03B5\u03C1\u03B1 \u03B4\u03B9\u03AC\u03C3\u03B7\u03BC\u03BF. \u03A3\u03C4\u03B9\u03C2 \u03B1\u03C1\u03C7\u03AD\u03C2 \u03C4\u03B7\u03C2 \u03B4\u03B5\u03BA\u03B1\u03B5\u03C4\u03AF\u03B1\u03C2 \u03C4\u03BF\u03C5 '20, \u03BC\u03B5\u03C4\u03AC \u03C4\u03B7 \u03B8\u03B7\u03C4\u03B5\u03AF\u03B1 \u03C4\u03BF\u03C5 \u03C3\u03C4\u03BF \u03BD\u03B1\u03C5\u03C4\u03B9\u03BA\u03CC, \u03BF \u039C\u03C0\u03CC\u03B3\u03BA\u03B1\u03C1\u03C4 \u03AD\u03BA\u03B1\u03BD\u03B5 \u03B4\u03B9\u03AC\u03C6\u03BF\u03C1\u03B5\u03C2 \u03B4\u03BF\u03C5\u03BB\u03B5\u03B9\u03AD\u03C2. \u039A\u03AC\u03C0\u03BF\u03B9\u03B1 \u03C3\u03C4\u03B9\u03B3\u03BC\u03AE \u03BC\u03B5 \u03C4\u03B7 \u03B2\u03BF\u03AE\u03B8\u03B5\u03B9\u03B1 \u03C4\u03C9\u03BD \u03B3\u03BD\u03C9\u03C1\u03B9\u03BC\u03B9\u03CE\u03BD \u03C4\u03BF\u03C5 \u03BA\u03B1\u03C4\u03AC\u03C6\u03B5\u03C1\u03B5 \u03BD\u03B1 \u03B4\u03BF\u03C5\u03BB\u03AD\u03C8\u03B5\u03B9 \u03C3\u03B1\u03BD \u03B7\u03B8\u03BF\u03C0\u03BF\u03B9\u03CC\u03C2 \u03C3\u03B5 \u03BC\u03B9\u03BA\u03C1\u03BF\u03CD\u03C2 \u03C1\u03CC\u03BB\u03BF\u03C5\u03C2 \u03C3\u03C4\u03BF \u03B8\u03AD\u03B1\u03C4\u03C1\u03BF. \u03A3\u03C4\u03B1 \u03C4\u03AD\u03BB\u03B7 \u03C4\u03B7\u03C2 \u03B4\u03B5\u03BA\u03B1\u03B5\u03C4\u03AF\u03B1\u03C2 \u03C4\u03BF\u03C5 '20 \u03AD\u03BB\u03B1\u03B2\u03B5 \u03BC\u03AD\u03C1\u03BF\u03C2 \u03C3\u03B5 \u03BA\u03AC\u03C0\u03BF\u03B9\u03B5\u03C2 \u03C4\u03B1\u03B9\u03BD\u03AF\u03B5\u03C2 \u03C4\u03B7\u03C2 Fox \u03BA\u03B1\u03B9 \u03C4\u03BF 1930 \u03C5\u03C0\u03AD\u03B3\u03C1\u03B1\u03C8\u03B5 \u03C3\u03C5\u03BC\u03B2\u03CC\u03BB\u03B1\u03B9\u03BF. \u039F\u03B9 \u03C4\u03B1\u03B9\u03BD\u03AF\u03B5\u03C2 \u03C3\u03C4\u03B9\u03C2 \u03BF\u03C0\u03BF\u03AF\u03B5\u03C2 \u03C3\u03C5\u03BC\u03BC\u03B5\u03C4\u03B5\u03AF\u03C7\u03B5 \u03CC\u03BC\u03C9\u03C2 \u03B4\u03B5\u03BD \u03AE\u03C4\u03B1\u03BD \u03C0\u03B5\u03C4\u03C5\u03C7\u03B7\u03BC\u03AD\u03BD\u03B5\u03C2 \u03BA\u03B9 \u03B7 Fox \u03B4\u03B9\u03AD\u03BA\u03BF\u03C8\u03B5 \u03C4\u03BF \u03C3\u03C5\u03BC\u03B2\u03CC\u03BB\u03B1\u03B9\u03CC \u03C4\u03BF\u03C5, \u03BC\u03AD\u03C7\u03C1\u03B9 \u03C0\u03BF\u03C5 \u03C4\u03BF 1936 \u03BF \u03C6\u03AF\u03BB\u03BF\u03C2 \u03C4\u03BF\u03C5 \u039B\u03AD\u03C3\u03BB\u03B9 \u03A7\u03AC\u03BF\u03C5\u03B1\u03C1\u03BD\u03C4 \u03AD\u03C0\u03B5\u03B9\u03C3\u03B5 \u03C4\u03BF\u03BD \u03A4\u03B6\u03B1\u03BA \u0393\u03BF\u03C5\u03CC\u03C1\u03BD\u03B5\u03C1 \u03BD\u03B1 \u03C0\u03C1\u03BF\u03C3\u03BB\u03AC\u03B2\u03B5\u03B9 \u03C4\u03BF\u03BD \u039C\u03C0\u03CC\u03B3\u03BA\u03B1\u03C1\u03C4 \u03B3\u03B9\u03B1 \u03C4\u03B7 \u03BC\u03B5\u03C4\u03B1\u03C6\u03BF\u03C1\u03AC \u03C4\u03BF\u03C5 \u03B8\u03B5\u03B1\u03C4\u03C1\u03B9\u03BA\u03BF\u03CD \u03A4\u03BF \u0391\u03C0\u03BF\u03BB\u03B9\u03B8\u03C9\u03BC\u03AD\u03BD\u03BF \u0394\u03AC\u03C3\u03BF\u03C2. \u039F \u03C1\u03CC\u03BB\u03BF\u03C2 \u03C4\u03BF\u03C5 \u03B3\u03BA\u03AC\u03BD\u03B3\u03BA\u03C3\u03C4\u03B5\u03C1 Duke Mantee \u03C0\u03BF\u03C5 \u03B5\u03AF\u03C7\u03B5 \u03BE\u03B1\u03BD\u03B1\u03B5\u03C1\u03BC\u03B7\u03BD\u03B5\u03CD\u03C3\u03B5\u03B9 \u03C3\u03C4\u03BF \u03B8\u03AD\u03B1\u03C4\u03C1\u03BF, \u03BA\u03AD\u03C1\u03B4\u03B9\u03C3\u03B5 \u03C4\u03BF\u03C5\u03C2 \u03BA\u03C1\u03B9\u03C4\u03B9\u03BA\u03BF\u03CD\u03C2 \u03BA\u03B1\u03B9 \u03C4\u03B7\u03BD \u03AF\u03B4\u03B9\u03B1 \u03C7\u03C1\u03BF\u03BD\u03B9\u03AC \u03C5\u03C0\u03AD\u03B3\u03C1\u03B1\u03C8\u03B5 \u03C3\u03C5\u03BC\u03B2\u03CC\u03BB\u03B1\u03B9\u03BF \u03BC\u03B5 \u03C4\u03B7 Warner. \u0391\u03C0\u03CC \u03C4\u03BF 1936 \u03BC\u03AD\u03C7\u03C1\u03B9 \u03C4\u03BF 1940 \u03BF \u039C\u03C0\u03CC\u03B3\u03BA\u03B1\u03C1\u03C4 \u03AD\u03C0\u03B1\u03B9\u03B6\u03B5 \u03B4\u03B5\u03CD\u03C4\u03B5\u03C1\u03BF\u03C5\u03C2 \u03C1\u03CC\u03BB\u03BF\u03C5\u03C2, \u03BC\u03AD\u03C7\u03C1\u03B9 \u03C0\u03BF\u03C5 \u03AE\u03C1\u03B8\u03B1\u03BD \u03BF\u03B9 \u03C4\u03B1\u03B9\u03BD\u03AF\u03B5\u03C2 \u03A4\u03BF \u0393\u03B5\u03C1\u03AC\u03BA\u03B9 \u03C4\u03B7\u03C2 \u039C\u03AC\u03BB\u03C4\u03B1\u03C2 \u03BA\u03B1\u03B9 \u039A\u03B1\u03B6\u03B1\u03BC\u03C0\u03BB\u03AC\u03BD\u03BA\u03B1 \u03BA\u03B9 \u03BF \u039C\u03C0\u03CC\u03B3\u03BA\u03B1\u03C1\u03C4 \u03AD\u03B3\u03B9\u03BD\u03B5 \u03C0\u03C1\u03CE\u03C4\u03BF \u03CC\u03BD\u03BF\u03BC\u03B1 \u03C3\u03C4\u03BF \u03A7\u03CC\u03BB\u03C5\u03B3\u03BF\u03C5\u03BD\u03C4. \u03A0\u03B1\u03BD\u03C4\u03C1\u03B5\u03CD\u03C4\u03B7\u03BA\u03B5 \u03C4\u03AD\u03C3\u03C3\u03B5\u03C1\u03B9\u03C2 \u03C6\u03BF\u03C1\u03AD\u03C2, \u03C4\u03B7\u03BD \u03C4\u03B5\u03BB\u03B5\u03C5\u03C4\u03B1\u03AF\u03B1 \u03BC\u03B5 \u03C4\u03B7\u03BD \u03C3\u03C5\u03BC\u03C0\u03C1\u03C9\u03C4\u03B1\u03B3\u03C9\u03BD\u03AF\u03C3\u03C4\u03C1\u03B9\u03AC \u03C4\u03BF\u03C5 \u03C3\u03C4\u03BF \u03C6\u03B9\u03BB\u03BC \u0397 \u03C3\u03B5\u03B9\u03C1\u03AE\u03BD\u03B1 \u03C4\u03B7\u03C2 \u039C\u03B1\u03C1\u03C4\u03B9\u03BD\u03AF\u03BA\u03B1, \u039B\u03BF\u03C1\u03AF\u03BD \u039C\u03C0\u03B1\u03BA\u03CC\u03BB, \u03C0\u03BF\u03C5 \u03AE\u03C4\u03B1\u03BD \u03BC\u03B9\u03BA\u03C1\u03CC\u03C4\u03B5\u03C1\u03B7 \u03C4\u03BF\u03C5 \u03BA\u03B1\u03C4\u03AC \u03B5\u03B9\u03BA\u03BF\u03C3\u03B9\u03C0\u03AD\u03BD\u03C4\u03B5 \u03C7\u03C1\u03CC\u03BD\u03B9\u03B1. \u03A0\u03AD\u03B8\u03B1\u03BD\u03B5 \u03C4\u03BF 1957 \u03C3\u03C4\u03BF \u039B\u03BF\u03C2 \u0386\u03BD\u03C4\u03B6\u03B5\u03BB\u03B5\u03C2 \u03B1\u03C0\u03CC \u03BA\u03B1\u03C1\u03BA\u03AF\u03BD\u03BF \u03C4\u03BF\u03C5 \u03BF\u03B9\u03C3\u03BF\u03C6\u03AC\u03B3\u03BF\u03C5. \u03A4\u03BF \u0391\u03BC\u03B5\u03C1\u03B9\u03BA\u03B1\u03BD\u03B9\u03BA\u03CC \u0399\u03BD\u03C3\u03C4\u03B9\u03C4\u03BF\u03CD\u03C4\u03BF \u039A\u03B9\u03BD\u03B7\u03BC\u03B1\u03C4\u03BF\u03B3\u03C1\u03AC\u03C6\u03BF\u03C5 \u03C4\u03BF\u03BD \u03AD\u03C7\u03B5\u03B9 \u03BA\u03B1\u03C4\u03B1\u03C4\u03AC\u03BE\u03B5\u03B9 \u03C0\u03C1\u03CE\u03C4\u03BF \u03C3\u03C4\u03B7 \u03BB\u03AF\u03C3\u03C4\u03B1 \u03BC\u03B5 \u03C4\u03BF\u03C5\u03C2 25 \u03BC\u03B5\u03B3\u03B1\u03BB\u03CD\u03C4\u03B5\u03C1\u03BF\u03C5\u03C2 \u03C3\u03C4\u03B1\u03C1 \u03CC\u03BB\u03C9\u03BD \u03C4\u03C9\u03BD \u03B5\u03C0\u03BF\u03C7\u03CE\u03BD."@el ,
+		"\u30CF\u30F3\u30D5\u30EA\u30FC\u30FB\u30C7\u30A3\u30D5\u30A9\u30EC\u30B9\u30C8\u30FB\u30DC\u30AC\u30FC\u30C8\uFF08Humphrey DeForest Bogart, 1899\u5E7412\u670825\u65E5\uFF08\u7FCC\u5E741\u670823\u65E5\u306B\u51FA\u751F\u5C4A\uFF09 - 1957\u5E741\u670814\u65E5\uFF09\u306F\u3001\u30CB\u30E5\u30FC\u30E8\u30FC\u30AF\u51FA\u8EAB\u306E\u30CF\u30EA\u30A6\u30C3\u30C9\u6620\u753B\u306E\u4FF3\u512A\u3002\u611B\u79F0\u306F\u30DC\u30AE\u30FC\u3002"@ja ,
+		"Humphrey DeForest Bogart (New York, 25 december 1899 - Los Angeles (Californi\u00EB), 14 januari 1957) was een Amerikaans acteur. De verschijning van Bogart met zijn hoed, regenjas, zijn platte Amerikaanse accent en zijn onafscheidelijke sigaret groeide uit tot een icoon van de filmgeschiedenis. In 1999 werd hij door het American Film Institute (AFI) gekozen tot de grootste mannelijke filmlegende aller tijden."@nl ,
+		"Humphrey DeForest Bogart (; December 25, 1899 \u2013 January 14, 1957) was an American film and stage actor. His performances in Classical Hollywood cinema films made him an American cultural icon. In 1999, the American Film Institute selected Bogart as the greatest male star of classic American cinema. Bogart began acting in Broadway shows, beginning his career in motion pictures with Up the River (1930) for Fox. Bogart appeared in supporting roles for the next decade, sometimes portraying gangsters. Bogart was praised for his work as Duke Mantee in The Petrified Forest (1936), but remained secondary to other actors Warner Bros. cast in lead roles. His breakthrough from supporting roles to stardom came with High Sierra (1941, his last gangster role) and The Maltese Falcon (1941), considered one of the first great noir films. Bogart's private detectives, Sam Spade (in The Maltese Falcon) and Phillip Marlowe (in 1946's The Big Sleep), became the models for detectives in other noir films. His most significant romantic lead role was with Ingrid Bergman in Casablanca (1942), which earned him his first nomination for the Academy Award for Best Actor. Bogart and 19-year-old Lauren Bacall fell in love when they filmed To Have and Have Not (1944); soon after the main filming for The Big Sleep (1946, their second film together), he filed for divorce from his third wife and married Bacall. After their marriage, she played his love interest in Dark Passage (1947) and Key Largo (1948). Bogart's performances in The Treasure of the Sierra Madre (1948) and In a Lonely Place (1950) are now considered among his best, although they were not recognized as such when the films were released. He reprised those unsettled, unstable characters as a World War II naval-vessel commander in The Caine Mutiny (1954), which was a critical and commercial hit and earned him another Best Actor nomination. As a cantankerous river steam launch skipper with Katharine Hepburn's missionary in the World War I adventure The African Queen (1951), Bogart received the Academy Award for Best Actor. In his later years, significant roles included The Barefoot Contessa with Ava Gardner and his on-screen competition with William Holden for Audrey Hepburn in Sabrina (1954). A heavy smoker and drinker, Bogart died from esophageal cancer in January 1957."@en ,
+		"Humphrey DeForest Bogart (New York, 1899ko abenduaren 25 - Los Angeles, Kalifornia, 1957ko urtarrilaren 14) Ameriketako Estatu Batuetako aktorea izan zen. 1999an, American Film Institute delakoak Bogart gizonezko zinema-izarrik handiena izendatu zuen. 75 filmetan agertuta, mundu osoan zehar ospea eman zion pertsonaiak ezaugarri berak zituen: azkarra eta gogorra, baina batez ere, inguru ustel batean bere moral pertsonalari eusteagatik ezaguna. Nahiz eta hasiera Broadwayn eta 1920ko eta 1930eko hamarkadetako filmetan aktore ona baina B mailakoa izan, Bogarten hurrengo lorpenek zinemako mitoa bihurtu zuten."@eu ,
+		"Humphrey DeForest Bogart (Nova York, 25 de desembre de 1899 - Los Angeles, 14 de gener de 1957) fou un actor estatunidenc de fama llegend\u00E0ria que retenia el seu llegat despr\u00E9s de la seva mort. Interpretant principalment car\u00E0cters elegants i temeraris, ancorats per un codi moral interior envoltat per un m\u00F3n corrupte, les pel\u00B7l\u00EDcules m\u00E9s notables de Bogart inclouen  (1938), El falc\u00F3 malt\u00E8s (1941), Casablanca (1942), Tenir-ne o no (1944), El son etern (1946), El tresor de Sierra Madre (1948), Cayo Largo (1948), In a Lonely Place (1950), La reina d'\u00C0frica (1951) (pel qual guany\u00E0 un Oscar), El mot\u00ED del Caine (1954), i We're No Angels (1955). En total, apareixia a 75 pel\u00B7l\u00EDcules. Encara que comen\u00E7ava la seva carrera com a bon actor a Broadway per\u00F2 amb pel\u00B7l\u00EDcues de s\u00E8rie B durant els anys 1920 i 1930, les interpretacions posteriors li van donar fama mundial."@ca ,
+		"Humphrey DeForest Bogart (Nova Iorque, 25 de dezembro de 1899 \u2014 Los Angeles, 14 de janeiro de 1957) foi um ator de cinema e teatro dos Estados Unidos, eleito pelo American Film Institute como a maior estrela masculina do cinema norte-americano de todos os tempos. Conhecido pelo p\u00FAblico como Harry, Bogie ou Bogey (preferia ser chamado de Bogie), \u00E9 considerado um dos grandes mitos do cinema e ganhou o Oscar de melhor ator de 1951 por seu papel em Uma Aventura na \u00C1frica. Morreu em 1957 v\u00EDtima de c\u00E2ncer. Dentre seus filmes de maior sucesso est\u00E3o Rel\u00EDquia Macabra, O Tesouro de Sierra Madre e Casablanca. Em 1996, foi eleito como a maior estrela do cinema mundial pela Entertainment Weekly."@pt ;
+	dbp:caption	"Bogart in 1940"@en .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Humphrey_Bogart	dbo:height	1.5240000000000000213 .
+@prefix ns82:	<http://dbpedia.org/datatype/> .
+@prefix ns83:	<http://dbpedia.org/ontology/Person/> .
+dbr:Humphrey_Bogart	ns83:height	"152.4"^^ns82:centimetre .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Humphrey_Bogart	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Humphrey_Bogart?oldid=986242496&ns=0> ;
+	dbo:parent	dbr:Maud_Humphrey ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Humphrey_Bogart_1945.JPG?width=300> ;
+	dbo:birthPlace	dbr:New_York_City ;
+	dbp:birthPlace	"New York City, U.S."@en ;
+	dbo:birthDate	"1899-12-25"^^xsd:date ;
+	dbp:module	"--11-27"^^xsd:gMonthDay ;
+	dbp:signature	"Humphrey Bogart signature.svg"@en ;
+	dbp:deathPlace	"Los Angeles, California, U.S."@en ;
+	dbo:wikiPageExternalLink	<https://web.archive.org/web/20080402051846/http:/www.bogieonline.com/> ,
+		<http://www.thenedscottarchive.com/galleries/film-stars.html%23humphreybogart> .
+@prefix ns85:	<https://archive.org/details/> .
+dbr:Humphrey_Bogart	dbo:wikiPageExternalLink	ns85:bogartlifeinholl00meye ;
+	dbp:awards	dbr:Academy_Award_for_Best_Actor ,
+		""@en ;
+	dbp:birthDate	"1899-12-25"^^xsd:date ;
+	dbp:deathDate	"1957-01-14"^^xsd:date ;
+	dbo:award	dbr:Academy_Award_for_Best_Actor ;
+	dbo:restingPlace	<http://dbpedia.org/resource/Forest_Lawn_Memorial_Park_(Glendale)> ;
+	dbp:birthName	"Humphrey DeForest Bogart"@en ;
+	dbp:parents	dbr:Maud_Humphrey ,
+		"Belmont DeForest Bogart"@en ;
+	dbo:birthName	"Humphrey DeForest Bogart"@en ;
+	dbp:yearsActive	1921 ;
+	dbp:education	dbr:Phillips_Academy ,
+		<http://dbpedia.org/resource/Trinity_School_(New_York_City)> ;
+	dbp:restingPlace	<http://dbpedia.org/resource/Forest_Lawn_Memorial_Park_(Glendale)> ;
+	dbo:education	dbr:Phillips_Academy ,
+		<http://dbpedia.org/resource/Trinity_School_(New_York_City)> ;
+	dbp:children	2 ;
+	dbp:occupation	"Actor"@en ;
+	dbp:spouse	dbr:Lauren_Bacall ,
+		1945 ,
+		1937 ,
+		1938 ,
+		1928 ,
+		1926 ,
+		1927 ,
+		dbr:Mary_Philips ,
+		dbr:Mayo_Methot ,
+		dbr:Helen_Menken ,
+		"*"@en ;
+	dbo:activeYearsStartYear	"1921"^^xsd:gYear ;
+	dbo:birthYear	"1899"^^xsd:gYear ;
+	dbo:child	dbr:Stephen_Humphrey_Bogart ;
+	dbo:occupation	dbr:Humphrey_Bogart__PersonFunction__1 ;
+	dbo:spouse	dbr:Lauren_Bacall ,
+		dbr:Mary_Philips ,
+		dbr:Mayo_Methot ,
+		dbr:Helen_Menken .
+@prefix ns86:	<http://www.w3.org/2006/03/wn/wn20/instances/> .
+dbr:Humphrey_Bogart	dbp:wordnet_type	ns86:synset-actor-noun-1 ;
+	dbo:deathPlace	dbr:Los_Angeles ;
+	dbo:deathDate	"1957-01-14"^^xsd:date ;
+	dbo:deathYear	"1957"^^xsd:gYear ;
+	dbo:activeYearsEndYear	"1956"^^xsd:gYear ;
+	dbo:wikiPageID	14045 ;
+	dbo:wikiPageRevisionID	986242496 ;
+	dbo:wikiPageWikiLink	<http://dbpedia.org/resource/File:CreditBogartMaltFalc1941Trailer.jpg> ,
+		<http://dbpedia.org/resource/File:245_W103_St_Bogie_plaque_jeh.JPG> ,
+		<http://dbpedia.org/resource/File:Humphrey_Bogart_in_The_Barefoot_Contessa_trailer.jpg> ,
+		<http://dbpedia.org/resource/File:Humphrey_Bogart_Grave.JPG> ,
+		<http://dbpedia.org/resource/File:Bogart_Bacall_wedding_1945.jpg> ,
+		<http://dbpedia.org/resource/File:Humphrey_bogart_star_walk_of_fame.JPG> ,
+		<http://dbpedia.org/resource/Chain_Lightning_(1950_film)> ,
+		<http://dbpedia.org/resource/File:Humphrey_Bogart_Ingrid_Bergman_Casablanca_Promo_Still.jpg> ,
+		<http://dbpedia.org/resource/File:Humphrey_Bogart_yearbook_photo_-_1918.jpg> ,
+		<http://dbpedia.org/resource/Elisha_Cook_Jr.> ,
+		<http://dbpedia.org/resource/File:Maud_Humphrey_from_American_Women,_1897_(cropped).jpg> ,
+		<http://dbpedia.org/resource/File:Swifty_Humphrey_Bogart_1922_newspaper.png> ,
+		dbr:Turner_Classic_Movies ,
+		dbr:Bette_Davis ,
+		dbc:American_male_radio_actors ,
+		<http://dbpedia.org/resource/The_Desperate_Hours_(1955_film)> ,
+		dbr:Sam_Spiegel ,
+		dbr:Monogram_Pictures ,
+		dbr:William_Faulkner ,
+		<http://dbpedia.org/resource/The_Enforcer_(1951_film)> ,
+		dbr:Hollywood_Walk_of_Fame ,
+		<http://dbpedia.org/resource/Sirocco_(film)> ,
+		dbr:Suffragette ,
+		dbr:Angie_Dickinson ,
+		<http://dbpedia.org/resource/To_Have_and_Have_Not_(film)> ,
+		dbr:Photoplay ,
+		dbr:Ingrid_Bergman ,
+		dbr:Sam_Spade ,
+		dbr:Air_conditioning ,
+		dbr:United_Service_Organizations ,
+		dbr:The_Return_of_Doctor_X ,
+		dbr:Hoagy_Carmichael ,
+		dbr:Vitaphone ,
+		dbr:Philip_Marlowe ,
+		dbc:United_States_Navy_sailors ,
+		dbr:Satan_Met_a_Lady ,
+		<http://dbpedia.org/resource/San_Quentin_(1937_film)> ,
+		dbr:Howard_Hawks ,
+		dbr:Stage_management ,
+		<http://dbpedia.org/resource/Julius_J._Epstein> ,
+		<http://dbpedia.org/resource/The_Big_Sleep_(1946_film)> ,
+		dbr:Katharine_Hepburn ,
+		<http://dbpedia.org/resource/Beverly_Hills,_California> ,
+		dbr:Danny_Kaye ,
+		dbr:Ruth_Etting ,
+		dbc:Amateur_chess_players ,
+		dbr:Columbia_Pictures ,
+		dbr:Joan_Blondell ,
+		dbr:Bertie_Higgins ,
+		dbr:Technicolor ,
+		dbr:Ava_Gardner ,
+		dbr:Esophagus ,
+		dbr:The_Jack_Benny_Program ,
+		dbr:The_Petrified_Forest ,
+		dbc:Military_personnel_from_New_York_City ,
+		dbr:William_Shakespeare ,
+		dbr:Chess ,
+		<http://dbpedia.org/resource/Category:1957_deaths> ,
+		dbr:Bold_Venture ,
+		dbr:And_Baby_Makes_Three ,
+		<http://dbpedia.org/resource/Anyone_for_tennis%3F> ,
+		<http://dbpedia.org/resource/Ann_M._Sperber> ,
+		dbr:Robert_Mitchum ,
+		dbr:Innuendo ,
+		dbr:United_States_Navy ,
+		dbc:People_from_the_Upper_West_Side ,
+		dbr:Little_Lord_Fauntleroy ,
+		<http://dbpedia.org/resource/God_Is_My_Co-Pilot_(film)> ,
+		<http://dbpedia.org/resource/Category:1899_births> ,
+		dbr:Nunnally_Johnson ,
+		dbr:John_Howland ,
+		dbr:Pulitzer_Prize ,
+		dbr:Ernest_Hemingway ,
+		dbr:List_of_amateur_chess_players ,
+		dbr:The_Delineator ,
+		dbr:Gene_Tierney ,
+		dbr:Mary_Astor ,
+		<http://dbpedia.org/resource/Meet_the_Wife_(play)> ,
+		<http://dbpedia.org/resource/Robert_E._Sherwood> ,
+		<http://dbpedia.org/resource/AFI\u0027s_100_Years...100_Stars> ,
+		dbr:In_a_Lonely_Place ,
+		dbr:Hollywood_blacklist ,
+		dbr:House_Un-American_Activities_Committee ,
+		dbr:B_movie ,
+		dbr:Brattle_Theatre ,
+		dbr:Slick_Hare ,
+		<http://dbpedia.org/resource/Trinity_School_(New_York_City)> ,
+		dbr:List_of_actors_with_Academy_Award_nominations ,
+		dbr:Mayflower ,
+		dbr:Mary_Philips ,
+		<http://dbpedia.org/resource/Santa_Catalina_Island_(California)> ,
+		dbr:NBC ,
+		dbr:Paul_Henreid ,
+		<http://dbpedia.org/resource/The_Family_Secret_(1951_film)> ,
+		<http://dbpedia.org/resource/The_African_Queen_(film)> ,
+		<http://dbpedia.org/resource/The_Big_Shot_(1942_film)> ,
+		dbr:Sidney_Luft ,
+		<http://dbpedia.org/resource/Bogart\u2013Bacall_syndrome> ,
+		dbr:Presbyterianism ,
+		dbr:Joan_Fontaine ,
+		dbr:Swing_Your_Lady ,
+		dbr:Black_and_white ,
+		dbr:Hillbilly ,
+		dbr:Errol_Flynn ,
+		dbc:American_people_of_English_descent ,
+		dbr:Stage_name ,
+		dbr:Flamenco ,
+		dbr:Dysentery ,
+		<http://dbpedia.org/resource/Category:Trinity_School_(New_York_City)_alumni> ,
+		<http://dbpedia.org/resource/William_A._Brady> ,
+		<http://dbpedia.org/resource/Sabrina_(1954_film)> ,
+		dbr:Phillips_Academy ,
+		dbr:Typecasting ,
+		<http://dbpedia.org/resource/File:John_Huston_-_publicity.JPG> ,
+		dbr:Bullets_or_Ballots ,
+		dbr:The_House_on_92nd_Street ,
+		dbc:California_Democrats ,
+		dbr:Audrey_Hepburn ,
+		dbc:Deaths_from_cancer_in_California ,
+		<http://dbpedia.org/resource/Billing_(performing_arts)> ,
+		<http://dbpedia.org/resource/Academy_Award_(radio_series)> ,
+		<http://dbpedia.org/resource/Manpower_(1941_film)> ,
+		dbr:Samuel_Goldwyn ,
+		dbc:American_naval_personnel_of_World_War_I ,
+		<http://dbpedia.org/resource/Hartford,_Connecticut> ,
+		dbc:Best_Actor_Academy_Award_winners ,
+		<http://dbpedia.org/resource/Category:Burials_at_Forest_Lawn_Memorial_Park_(Glendale)> ,
+		dbr:Joan_Bennett ,
+		<http://dbpedia.org/resource/Category:20th_Century_Fox_contract_players> ,
+		dbr:Harvard_Law_Review ,
+		dbr:War_bond ,
+		<http://dbpedia.org/resource/Charles_K._Feldman> ,
+		<http://dbpedia.org/resource/Glendale,_California> ,
+		dbr:Knock_on_Any_Door ,
+		dbr:Paul_Muni ,
+		dbr:James_Stewart ,
+		dbr:Motion_sickness ,
+		dbr:John_Dillinger ,
+		dbc:Male_actors_from_New_York_City ,
+		<http://dbpedia.org/resource/Forest_Lawn_Memorial_Park_(Glendale)> ,
+		dbr:Claire_Luce ,
+		dbr:Hollywood_Boulevard ,
+		dbr:Paul_Lukas ,
+		dbr:John_Ford ,
+		dbc:American_male_stage_actors ,
+		dbr:Tirso_del_Junco ,
+		dbr:The_Book_of_Lists ,
+		dbr:Cary_Grant ,
+		dbr:Portsmouth_Naval_Prison ,
+		dbr:Academy_Award_for_Best_Actor ,
+		dbr:Raoul_Walsh ,
+		dbr:Sydney_Greenstreet ,
+		dbr:William_Holden ,
+		dbr:Hippopotamus ,
+		dbr:College-preparatory_school ,
+		dbr:Peter_Lorre ,
+		dbr:James_Abbott_McNeill_Whistler ,
+		dbr:Chemotherapy ,
+		dbr:Santana_Productions ,
+		dbr:James_Agee ,
+		dbr:Alice_Brady ,
+		dbr:Eric_Lax ,
+		dbr:Academy_Award_for_Best_Picture ,
+		dbr:Klaw_Theatre ,
+		dbr:Los_Angeles ,
+		<http://dbpedia.org/resource/The_Maltese_Falcon_(1941_film)> ,
+		dbr:Jean-Luc_Godard ,
+		dbr:Leech ,
+		dbr:Helen_Menken ,
+		dbr:Billy_Wilder ,
+		dbr:Nathaniel_Benchley ,
+		dbr:Marlene_Dietrich ,
+		dbr:Film_noir ,
+		dbr:Verita_Bouvaire-Thompson ,
+		dbr:Raymond_Chandler ,
+		dbr:Rome ,
+		<http://dbpedia.org/resource/Tokyo_Joe_(film)> ,
+		dbr:Leslie_Howard ,
+		<http://dbpedia.org/resource/Edward_R._Murrow> ,
+		<http://dbpedia.org/resource/C._S._Forester> ,
+		dbr:Michael_Curtiz ,
+		<http://dbpedia.org/resource/High_Sierra_(film)> ,
+		dbr:Edward_Dmytryk ,
+		dbr:Racket_Busters ,
+		<http://dbpedia.org/resource/Edward_G._Robinson> ,
+		<http://dbpedia.org/resource/Cambridge,_Massachusetts> ,
+		dbr:Yale_University ,
+		dbr:New_Netherland ,
+		dbc:American_male_film_actors ,
+		<http://dbpedia.org/resource/Breathless_(1960_film)> ,
+		dbr:The_Screen_Guild_Theater ,
+		dbr:Henry_Fonda ,
+		<http://dbpedia.org/resource/You_Can\u0027t_Get_Away_with_Murder> ,
+		<http://dbpedia.org/resource/Time_(magazine)> ,
+		dbr:Persona_non_grata ,
+		<http://dbpedia.org/resource/Key_Largo_(song)> ,
+		dbr:Academy_Award_for_Best_Supporting_Actor ,
+		dbr:Mayo_Methot ,
+		dbr:Lynn_Starling ,
+		dbr:Alexander_Pope ,
+		dbr:David_Niven ,
+		dbr:Las_Vegas_Valley ,
+		dbr:American_Film_Institute ,
+		<http://dbpedia.org/resource/Category:New_York_(state)_Democrats> ,
+		dbr:Rita_Hayworth ,
+		dbr:Canandaigua_Lake ,
+		dbr:Gregory_Peck ,
+		<http://dbpedia.org/resource/Kittery,_Maine> ,
+		dbr:John_Huston ,
+		dbr:Conrad_Veidt ,
+		dbr:Malabar_Farm_State_Park ,
+		dbr:Leading_man ,
+		<http://dbpedia.org/resource/Joseph_L._Mankiewicz> ,
+		<http://dbpedia.org/resource/8_Ball_Bunny> ,
+		dbr:Scotch_whisky ,
+		dbr:Plato ,
+		dbr:John_Golden_Theatre ,
+		<http://dbpedia.org/resource/Democratic_Party_(United_States)> ,
+		dbr:What_Happened_to_the_Corbetts ,
+		dbr:Truman_Capote ,
+		dbr:George_Frazier ,
+		<http://dbpedia.org/resource/File:Humphrey_Bogart_James_Cagney_Jeffrey_Lynn_in_The_Roaring_Twenties_trailer.jpg> ,
+		<http://dbpedia.org/resource/File:James_Cagney_Humphrey_Bogart_in_The_Roaring_Twenties_trailer.jpg> ,
+		dbr:Asparagus ,
+		dbr:Judy_Garland ,
+		dbr:Gramercy_Park_Hotel ,
+		dbr:Pope_Pius_XII ,
+		<http://dbpedia.org/resource/Canandaigua,_New_York> ,
+		dbr:James_Mason ,
+		dbr:Nazi_Germany ,
+		<http://dbpedia.org/resource/John_P._Marquand> ,
+		<http://dbpedia.org/resource/File:Humphrey_Bogart_in_Invisible_Stripes_trailer.jpg> ,
+		<http://dbpedia.org/resource/Category:People_from_Holmby_Hills,_Los_Angeles> ,
+		dbr:James_Cagney ,
+		dbc:American_people_of_Dutch_descent ,
+		dbr:Prussia ,
+		dbr:Paranoia ,
+		dbr:Person_to_Person ,
+		dbr:Dutch_Schultz ,
+		dbr:Baby_Face_Nelson ,
+		<http://dbpedia.org/resource/Little_Caesar_(film)> ,
+		dbr:Lionel_Barrymore ,
+		dbr:Sarah_Rapelje ,
+		<http://dbpedia.org/resource/Homage_(arts)> ,
+		dbr:Angels_with_Dirty_Faces ,
+		<http://dbpedia.org/resource/Play_It_Again,_Sam_(film)> ,
+		dbr:Louis_Bromfield ,
+		dbr:Frank_Nugent ,
+		<http://dbpedia.org/resource/We\u0027re_No_Angels_(1955_film)> ,
+		<http://dbpedia.org/resource/The_Caine_Mutiny_(film)> ,
+		dbr:Speakeasy ,
+		dbr:United_States_Coast_Guard_Reserve ,
+		dbr:Expatriate ,
+		dbr:Classical_Hollywood_cinema ,
+		dbr:Sound_film ,
+		dbr:Teetotalism ,
+		dbr:List_of_actors_with_Hollywood_Walk_of_Fame_motion_picture_stars ,
+		<http://dbpedia.org/resource/The_Maltese_Falcon_(1931_film)> ,
+		<http://dbpedia.org/resource/16th_Academy_Awards> ,
+		dbr:Graham_Greene ,
+		dbr:Gloria_Grahame ,
+		dbr:Dick_Powell ,
+		dbr:The_Barefoot_Contessa ,
+		dbr:Esophageal_cancer ,
+		dbr:Academy_Award_for_Best_Supporting_Actress ,
+		dbr:New_York_City ,
+		dbr:Boston ,
+		dbr:Dumbwaiter ,
+		dbr:Academy_Award_for_Best_Director ,
+		dbr:Warren_Hymer ,
+		dbr:Helen_Hayes ,
+		dbr:United_Artists ,
+		dbr:United_States_Postal_Service ,
+		dbr:Ned_Scott ,
+		dbr:Up_the_River ,
+		dbr:Entertainment_Weekly ,
+		dbr:French_Resistance ,
+		dbr:The_New_York_Times ,
+		dbr:Claire_Trevor ,
+		dbr:Stephen_Humphrey_Bogart ,
+		dbr:Woody_Allen ,
+		dbr:Metro-Goldwyn-Mayer ,
+		dbr:Nevil_Shute ,
+		<http://dbpedia.org/resource/Dark_Passage_(film)> ,
+		<http://dbpedia.org/resource/Broadway\u0027s_Like_That> ,
+		dbr:Robert_Sacchi ,
+		<http://dbpedia.org/resource/Beat_the_Devil_(film)> ,
+		<http://dbpedia.org/resource/Bad_Sister_(1931_film)> ,
+		<http://dbpedia.org/resource/The_Treasure_of_the_Sierra_Madre_(film)> ,
+		<http://dbpedia.org/resource/Lucas,_Ohio> ,
+		dbr:Frank_Sinatra ,
+		<http://dbpedia.org/resource/Earl_Wilson_(columnist)> ,
+		dbr:Belgian_Congo ,
+		dbr:Greenwich_Village ,
+		dbr:Rat_Pack ,
+		dbr:The_Left_Hand_of_God ,
+		dbr:Committee_for_the_First_Amendment ,
+		dbr:American_Civil_War ,
+		dbr:Broadhurst_Theatre ,
+		<http://dbpedia.org/resource/Episcopal_Church_(United_States)> ,
+		<http://dbpedia.org/resource/Black_Legion_(film)> ,
+		dbc:Deaths_from_esophageal_cancer ,
+		<http://dbpedia.org/resource/Key_Largo_(film)> ,
+		dbr:Film_promotion ,
+		dbr:Fredric_March ,
+		dbr:Dashiell_Hammett ,
+		<http://dbpedia.org/resource/Category:20th-century_American_male_actors> ,
+		<http://dbpedia.org/resource/Grauman\u0027s_Chinese_Theatre> ,
+		<http://dbpedia.org/resource/Warner_Bros.> ,
+		dbr:Claude_Debussy ,
+		dbr:Remake ,
+		dbr:Lux_Radio_Theatre ,
+		<http://dbpedia.org/resource/Conflict_(1945_film)> ,
+		<http://dbpedia.org/resource/The_Man_with_Bogart\u0027s_Face> ,
+		dbr:Vichy_France ,
+		dbr:Brooks_Atkinson ,
+		dbr:Broadway_theatre ,
+		dbr:Heywood_Broun ,
+		dbr:Alexander_Woollcott ,
+		dbr:Michael_Romanoff ,
+		dbr:Lauren_Bacall ,
+		dbc:Phillips_Academy_alumni ,
+		dbr:Ida_Lupino ,
+		dbr:Wall_Street_Crash_of_1929 ,
+		dbr:Spencer_Tracy ,
+		<http://dbpedia.org/resource/Jack_L._Warner> ,
+		<http://dbpedia.org/resource/Dead_End_(1937_film)> ,
+		<http://dbpedia.org/resource/27th_Academy_Awards> ,
+		dbr:Army_ant ,
+		<http://dbpedia.org/resource/24th_Academy_Awards> ,
+		dbr:Kinescope ,
+		dbr:Armistice_of_11_November_1918 ,
+		dbr:Louise_Brooks ,
+		dbr:Gangster ,
+		dbr:Woman ,
+		<http://dbpedia.org/resource/Depression_(mood)> ,
+		dbr:Ronald_Reagan ,
+		dbr:Motion_Picture_Production_Code ,
+		dbr:Lymph_node ,
+		dbr:Upper_West_Side ,
+		<http://dbpedia.org/resource/Lux_(soap)> ,
+		<http://dbpedia.org/resource/W._R._Burnett> ,
+		<http://dbpedia.org/resource/Producers\u0027_Showcase> ,
+		<http://dbpedia.org/resource/Holmby_Hills,_Los_Angeles> ,
+		dbr:Dooley_Wilson ,
+		dbr:Maud_Humphrey ,
+		dbr:Fox_Film ,
+		dbr:Walter_Huston ,
+		<http://dbpedia.org/resource/Casablanca_(film)> ,
+		dbr:Claude_Rains ,
+		dbr:Hacker-Craft ,
+		<http://dbpedia.org/resource/Hal_B._Wallis> ,
+		dbr:Bugs_Bunny ,
+		<http://dbpedia.org/resource/Variety_(magazine)> ,
+		dbr:Gary_Cooper ,
+		<http://dbpedia.org/resource/Category:Warner_Bros._contract_players> ,
+		dbr:Johann_Sebastian_Bach ,
+		<http://dbpedia.org/resource/File:Bacall,_Bogart,_Fonda_crop.jpg> ,
+		<http://dbpedia.org/resource/File:Sabrina8.jpg> ,
+		<http://dbpedia.org/resource/File:Bacall_and_Bogart_Dark_Passage.jpg> ,
+		<http://dbpedia.org/resource/File:Bogart_Howard_Davis_Petrified_Forest.jpg> ,
+		dbr:Arthur_Hopkins ,
+		<http://dbpedia.org/resource/File:Arganda_del_Rey_09.JPG> ,
+		<http://dbpedia.org/resource/File:Humphrey_Bogart_in_The_Treasure_of_the_Sierra_Madre_trailer.jpg> ,
+		<http://dbpedia.org/resource/File:Bogarts-LIFE-1944.jpg> ,
+		<http://dbpedia.org/resource/File:To-Have-and-Have-Not-LIFE-1.jpg> ,
+		<http://dbpedia.org/resource/File:Hepburn_bogart_african_queen.png> ,
+		dbr:Watch_on_the_Rhine ,
+		<http://dbpedia.org/resource/File:Queeg_A.jpg> ,
+		dbr:Ralph_Waldo_Emerson ,
+		<http://dbpedia.org/resource/File:Up_the_River_(film_poster).jpg> ,
+		<http://dbpedia.org/resource/File:Humphrey_Bogart_and_Mike_Lane_1956.jpg> ,
+		<http://dbpedia.org/resource/File:Bogart_and_Bacall_The_Big_Sleep.jpg> ,
+		<http://dbpedia.org/resource/Black_Mask_(magazine)> ,
+		dbr:Pretension ,
+		<http://dbpedia.org/resource/File:LonelyPlaceTrailer.jpg> .
+@prefix dbt:	<http://dbpedia.org/resource/Template:> .
+dbr:Humphrey_Bogart	dbp:wikiPageUsesTemplate	dbt:Chessgames_player ,
+		dbt:Convert ,
+		dbt:Infobox_person ,
+		dbt:Authority_control ,
+		dbt:Refbegin ,
+		dbt:Reflist ,
+		dbt:Flag ,
+		dbt:Cite_book ,
+		dbt:Infobox_military_person ,
+		dbt:Commons ,
+		dbt:Death_date_and_age ,
+		dbt:Birth_date ,
+		dbt:Won ,
+		dbt:Nom ,
+		<http://dbpedia.org/resource/Template:AcademyAwardBestActor_1941\u20131960> ,
+		dbt:IPAc-en ,
+		dbt:Full_citation_needed ,
+		dbt:Flagu ,
+		dbt:Use_mdy_dates ,
+		<http://dbpedia.org/resource/Template:\u0027%22> ,
+		dbt:ISBN ,
+		dbt:OCLC ,
+		dbt:USS ,
+		dbt:Short_description ,
+		dbt:Main ,
+		dbt:Wikiquote ,
+		dbt:AllMovie_name ,
+		dbt:Inflation ,
+		dbt:Inflation-year ,
+		dbt:Wikipedia_books ,
+		dbt:Endplainlist ,
+		dbt:Worldcat_id ,
+		dbt:IMDb_name ,
+		dbt:Quote_without_source ,
+		dbt:IBDB_name ,
+		dbt:Refend ,
+		dbt:Official ,
+		dbt:Rat_Pack ,
+		dbt:Quote ,
+		dbt:Find_a_Grave ,
+		dbt:TCMDb_name ,
+		dbt:Redirect ;
+	dbo:wikiPageLength	"92302"^^xsd:nonNegativeInteger .
+dbr:Caraceni	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/M*A*S*H_(film)>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Claire_Trevor	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Richard_Brooks	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/The_Treasure_of_the_Sierra_Madre_(film)>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Sydney_Greenstreet	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:White_Hunter_Black_Heart	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/1953_in_film>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/AFI\u0027s_100_Years...100_Heroes_&_Villains>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Santana_Productions	rdfs:seeAlso	dbr:Humphrey_Bogart ;
+	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Dolores_Moran	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Stinking_badges	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Robert_Briggs_(character)>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Eric_Gray	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:List_of_British_films_of_1953	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Claudia_Cardinale	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Major_Fred_C._Dobbs>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Three_Men_and_a_Comic_Book	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Key_Largo_(play)>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:List_of_Allied_propaganda_films_of_World_War_II	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:List_of_Italian_films_of_1953	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Robert_Presnell,_Jr.>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:List_of_film_director_and_actor_collaborations	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:White_Heat	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Mayo_Methot	dbp:spouse	dbr:Humphrey_Bogart ;
+	dbo:spouse	dbr:Humphrey_Bogart ;
+	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Yasuharu_Hasebe	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Sam_Spade	dbo:portrayer	dbr:Humphrey_Bogart ;
+	dbp:portrayer	dbr:Humphrey_Bogart ;
+	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Philip_Marlowe	dbo:portrayer	dbr:Humphrey_Bogart ;
+	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:The_Big_Sleep	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Discworld_Noir	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:The_Big_Goodbye	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/The_Big_Sleep_(1978_film)>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/1943_in_film>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Destination_Tokyo	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Dick_Richards	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:South_Seas_genre	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Lizabeth_Scott_on_screen_and_stage	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:The_Hollywood_Greats	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:List_of_American_films_of_1955	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Farewell,_My_Lovely>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:The_Dad_Who_Knew_Too_Little	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:David_Frye	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Ruby_Romaine	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Howard_Hawks_filmography	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Murder,_My_Sweet>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Kraft_Music_Hall	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Miriam_Battista	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Anyone_for_tennis%3F>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Kings_Row	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:The_Oklahoma_Kid	dbp:starring	dbr:Humphrey_Bogart ;
+	dbo:starring	dbr:Humphrey_Bogart ;
+	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:The_Strawberry_Blonde	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Passage_to_Marseille	dbp:starring	dbr:Humphrey_Bogart ;
+	dbo:starring	dbr:Humphrey_Bogart ;
+	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:List_of_chess_players	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Stinger_(cocktail)>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/1936_in_organized_crime>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Dick_Hogan	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Andrew_P._Solt>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/The_Fountainhead_(film)>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Dead_End_(play)>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Duke_Lavery	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Casablanca_(novella)>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Florence_Marly	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Hotel_Monte_Vista	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Raymond_Hackett	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Fay_Baker	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Stand-In	dbp:starring	dbr:Humphrey_Bogart ;
+	dbo:starring	dbr:Humphrey_Bogart ;
+	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Sid_Avery	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Black_Legion_(film)>	dbp:starring	dbr:Humphrey_Bogart ;
+	dbo:starring	dbr:Humphrey_Bogart ;
+	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Humphrey	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart ;
+	dbo:wikiPageDisambiguates	dbr:Humphrey_Bogart .
+dbr:Audrey_Hepburn_on_screen_and_stage	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Edmund_Goulding	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:National_Board_of_Review_Awards_1941	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Nick_Dennis	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Five_Star_Final_(play)>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Hell\u0027s_Bells_(play)>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Miguel_Street	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Autobiography_of_a_Brown_Buffalo	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/The_Long_Haul_(novel)>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Sweet_Seymour_Skinner\u0027s_Baadasssss_Song>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Camille_(Red_Dwarf)>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Meet_the_Wife_(play)>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Natural_Born_Kissers	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Nature_of_the_Beast_(NCIS)>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Dark_Passage	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Starring_Sally_J._Freedman_as_Herself>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Play_It_Again,_Sam_(play)>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Raf_(comics)>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Runaway_Daydreamer	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Roy_Earle	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Hugh_McIlvanney	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Lancelot_Link,_Secret_Chimp>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:The_House_Across_the_Bay	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:United_States_Navy_Armed_Guard	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Patio_del_Moro	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Rendez-vous_in_Montreal	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/1941>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Princess_Patricia\u0027s_Canadian_Light_Infantry>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Audrey_Hepburn	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Bruce_Bennett	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:List_of_individual_trees	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Patrick_Montgomery	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:List_of_assassinations_in_fiction	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:February_1944	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:List_of_people_from_New_York_City	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:List_of_people_from_Oregon	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Especially_for_You_(The_Smithereens_album)>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Marek_H\u0142asko>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:The_Treasure_of_the_Sierra_Madre	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Ben_Starr	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Howard_Da_Silva	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Abe_Lastfogel	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Joy_Page	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Sin_City	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Casablanca_(1955_TV_series)>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Warner_Bros._Presents>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Jos\u00E9_Ferrer>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Louis_Bromfield	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Alexis_Smith	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:List_of_Great_Performances_episodes	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Madeleine_Lebeau	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Gloria_Grahame	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:January_14	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Marjorie_Main	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Billing_(performing_arts)>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Spencer_Tracy_filmography	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:List_of_American_films_of_1938	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/List_of_films_shot_in_Riverside,_California>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:List_of_Get_Smart_episodes	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:The_Manchu_Eagle_Murder_Caper_Mystery	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Leave_It_to_Beaver	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:List_of_In_Living_Color_sketches	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Je_t\u0027aime_John_Wayne>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Once_a_Thief_(TV_series)>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:The_Cheap_Detective	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:The_Petrified_Forest	dbo:starring	dbr:Humphrey_Bogart ;
+	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Dead_Men_Don\u0027t_Wear_Plaid>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/The_Choirboys_(novel)>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Written_on_the_Wind	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Cary_Grant	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Cin\u00E9Magique>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Hollywood_Canteen	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:List_of_American_films_of_1930	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:List_of_American_films_of_1934	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:List_of_cemeteries_in_California	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Prishtina_International_Film_Festival	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Luke_and_Laura	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Hollywood_Steps_Out	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Curtiz_(film)>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Sonnet_29	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Nicholas_Ray	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/1949_in_film>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Dick_Botiller	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/1952_in_film>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:George_Antheil	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Holland_Society_of_New_York	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Hollywood_marriage	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Moguls_and_Movie_Stars	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Henry_S._Kesler>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/The_Quiet_American_(1958_film)>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Ziv_Company	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Ziv_Television_Programs	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Hollywood_and_the_Stars	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:The_Pheasantry	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Entertainment_Industry_Foundation	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:The_Thirteen	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/The_Big_Fall_(1997_film)>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Hoagy_Carmichael	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Betty_Grable	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/1982_in_film>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/1957_in_film>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Brazil_(1985_film)>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:List_of_trial_films	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Maceo_Pinkard	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/The_African_Queen_(film)>	dbp:starring	dbr:Humphrey_Bogart ;
+	dbo:starring	dbr:Humphrey_Bogart ;
+	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Gale_Page	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Kevin_J._O\u0027Connor_(actor)>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Gillioz_Theatre	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Fred_de_Cordova	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Jane_Bryan	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:The_Mayor_of_Hell	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Jessie_Busley	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Dead_End_Kids	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Maxwell_Arnow	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Swing_Your_Lady	dbp:starring	dbr:Humphrey_Bogart ;
+	dbo:starring	dbr:Humphrey_Bogart ;
+	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/List_of_Parker_Lewis_Can\u0027t_Lose_episodes>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Mart\u00EDn_de_\u00C1lzaga_(racing_driver)>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Augusto_Caraceni	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/The_Man_I_Love_(1947_film)>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Kid_Galahad	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Formosa_Cafe	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Ash_Fork,_Arizona>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Gerald_Drayson_Adams	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/She\u0027s_Got_Claws>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Robert_Francis_(actor)>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Willard_Motley	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Balboa_Bay_Resort	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+@prefix ns88:	<http://dbpedia.org/resource/Hollywood:> .
+ns88:_The_Fabulous_Era	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Sportsmen\u0027s_Lodge>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Top_Secret_Affair	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Kiss_Tomorrow_Goodbye_(film)>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Hawksian_woman	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Midnight_(1934_film)>	dbp:starring	dbr:Humphrey_Bogart ;
+	dbo:starring	dbr:Humphrey_Bogart ;
+	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:The_Strange_Love_of_Martha_Ivers	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:A_Dangerous_Profession	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:They_Drive_by_Night	dbp:starring	dbr:Humphrey_Bogart ;
+	dbo:starring	dbr:Humphrey_Bogart ;
+	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Bold_Venture	dbo:starring	dbr:Humphrey_Bogart ;
+	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Everybody_Hapi	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:National_Board_of_Review_Awards_1944	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/DeForest_(name)>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Cigarette_Girl_(1947_film)>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Knock_on_Wood_(1942_song)>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Bogart_(surname)>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:George_Hurrell	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Dark_Victory	dbp:starring	dbr:Humphrey_Bogart ;
+	dbo:starring	dbr:Humphrey_Bogart ;
+	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:List_of_American_films_of_1945	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Errol_Flynn_filmography	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:November_1943	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:List_of_baseball_films	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/The_Enforcer_(1951_film)>	dbp:starring	dbr:Humphrey_Bogart ;
+	dbo:starring	dbr:Humphrey_Bogart ;
+	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/To_Have_and_Have_Not_(film)>	dbp:starring	dbr:Humphrey_Bogart ;
+	dbo:starring	dbr:Humphrey_Bogart ;
+	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:To_Have_and_Have_Not	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Murder,_Inc._(1960_film)>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Elizabeth_Tilley	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Vegas_(song)>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/History_of_Newport_Beach,_California>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/The_Conspirators_(1944_film)>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Cul-de-sac_(1966_film)>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Sarah_Rapelje	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Bette_Davis_filmography	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Amber_31422	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:The_Abducted	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/On_Golden_Pond_(1981_film)>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:List_of_Cary_Grant_performances	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Film_memorabilia	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:List_of_fictional_crime_bosses_and_gang_leaders	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/6th_British_Academy_Film_Awards>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Edna_May_Oliver	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Bogart	dbo:wikiPageRedirects	dbr:Humphrey_Bogart ;
+	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Bogart_(disambiguation)>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart ;
+	dbo:wikiPageDisambiguates	dbr:Humphrey_Bogart .
+dbr:Bogey	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Bogie_(disambiguation)>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Humphrey_boggart	dbo:wikiPageRedirects	dbr:Humphrey_Bogart ;
+	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Humphry_Bogart	dbo:wikiPageRedirects	dbr:Humphrey_Bogart ;
+	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Humprey_Bogart	dbo:wikiPageRedirects	dbr:Humphrey_Bogart ;
+	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:King_of_the_Underworld	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Humphrey_DeForest_Bogart	dbo:wikiPageRedirects	dbr:Humphrey_Bogart ;
+	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Humphrey_bogart	dbo:wikiPageRedirects	dbr:Humphrey_Bogart ;
+	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Stephen_Bogart	dbo:wikiPageRedirects	dbr:Humphrey_Bogart ;
+	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Bogeymania	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/The_Great_Debate_(American_TV_series)>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Conflict_(1945_film)>	dbp:starring	dbr:Humphrey_Bogart ;
+	dbo:starring	dbr:Humphrey_Bogart ;
+	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:List_of_thriller_films_of_the_1950s	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Darwin_Porter	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Gavin_Mitchell_(actor)>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Roxy_Music_(album)>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/The_Pump_Room,_Chicago>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Thank_Your_Lucky_Stars_(film)>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:John_Deming	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Belmond_Hotel_Caruso	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Cipriani_S.A.>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:The_Love_Lottery	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/List_of_Fables_characters_(Literals_and_Part-Literals)>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Ernest_Hemingway_bibliography	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Alice_in_Wonderland_or_What\u0027s_a_Nice_Kid_Like_You_Doing_in_a_Place_Like_This%3F>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Chain_Lightning_(1950_film)>	dbp:starring	dbr:Humphrey_Bogart ;
+	dbo:starring	dbr:Humphrey_Bogart ;
+	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Maud_Humphrey	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Cradle_Snatchers	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Crime_School	dbp:starring	dbr:Humphrey_Bogart ;
+	dbo:starring	dbr:Humphrey_Bogart ;
+	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Crime_by_Night	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Curtain_Call_(1998_film)>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Swingtime_in_the_Movies	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Never_Say_Goodbye_(1946_film)>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Escape_(The_Pi\u00F1a_Colada_Song)>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Men_Are_Such_Fools	dbp:starring	dbr:Humphrey_Bogart ;
+	dbo:starring	dbr:Humphrey_Bogart ;
+	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Men_in_Exile	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/Broadway\u0027s_Like_That>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Tony_Rome	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+dbr:Verita_Bouvaire-Thompson	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/As_Time_Goes_By_(novel)>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
+<http://dbpedia.org/resource/The_Making_of_O\u0027Malley>	dbo:wikiPageWikiLink	dbr:Humphrey_Bogart .
