@@ -347,7 +347,7 @@ async function processRDFPayload(stream, redirect, decoder, format, baseIRI) {
     function createDocument(html, store) {
         const document = new DOMParser().parseFromString(html, "text/html");
         if (performanceEvaluation)
-            document.getElementById("title").innerText = triplestore.subjects.length;
+            document.getElementById("title").innerText = triplestore.triples;
         else
             document.getElementById("title").innerText = baseIRI;
         document.getElementById("content-script").remove();

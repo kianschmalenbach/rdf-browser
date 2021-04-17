@@ -12,6 +12,7 @@ class Triplestore {
         this.baseURL = url;
         this.hasDefaultPrefix = false;
         this.hasBasePrefix = false;
+        this.triples = 0;
         this.subjects = [];
         this.prefixes = [];
         for (const prefix in commonPrefixes) {
@@ -92,6 +93,7 @@ class Triplestore {
             s.item.predicates.push(p.item);
         if (s.isNew)
             this.subjects.push(s.item);
+        this.triples++;
         return s.item;
     }
 
