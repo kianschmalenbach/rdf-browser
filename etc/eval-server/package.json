@@ -1,0 +1,17 @@
+{
+  "name": "eval-server",
+  "version": "1.0.0",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "latest",
+    "express-fileupload": "^1.2.1"
+  },
+  "description": "A local server for conducting the conformance and performance evaluation of RDF Browser",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Kian Schmalenbach",
+  "license": "MIT"
+}

@@ -4,5 +4,7 @@ node_modules/*
 script/build.bat
 release/*
 package-lock.json
+etc/eval-server/node_modules/*
+etc/eval-server/public/*
 *.tmp
 *.zip
