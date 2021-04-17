@@ -142,7 +142,8 @@ const defaultOptions = {
         crawler: true,
         pageAction: true
     },
-    acceptLanguage: "en;q=0.9, de;q=0.8, *;q=0.5"
+    acceptLanguage: "en;q=0.9, de;q=0.8, *;q=0.5",
+    evaluationURI: "http://localhost:3000"
 };
 let options;
 
@@ -160,6 +161,10 @@ function initMessageListeners() {
             case "defaultOptions":
                 sendResponse(defaultOptions);
                 break;
+            case "evaluation":
+                const serverURI = message[1];
+                evaluatePerformance(serverURI);
+                break;
             case "listStatus":
                 sendResponse(utils.getListStatus(options, message[1], message[2]));
                 break;
@@ -168,6 +173,88 @@ function initMessageListeners() {
                 break;
         }
     });
+}
+
+/**
+ * Evaluate the performance of RDF Browser
+ * @param serverURI The URI of the server providing the evaluation files
+ */
+async function evaluatePerformance(serverURI) {
+    const times = [];
+    let n = 1;
+    let i = 0;
+    let flag = false;
+    let html = true;
+
+    interceptor.setEvaluation(true);
+    let tab = await browser.tabs.create({});
+    browser.tabs.onUpdated.addListener(listener);
+    iterate();
+
+    async function listener(tabId, changeInfo) {
+        if (tabId !== tab.id || !changeInfo.hasOwnProperty("status"))
+            return;
+
+        const time = html ? "ttlTime" : "htmlTime";
+        if (!flag && changeInfo.status === "loading" && changeInfo.hasOwnProperty("url") &&
+            (changeInfo.url.endsWith(i + ".html") || changeInfo.url.endsWith(i + ".ttl"))) {
+            if (html)
+                times[i - 1].uri = changeInfo.url.substring(0, changeInfo.url.length - 4);
+            times[i - 1].start = -Date.now();
+            flag = true;
+        } else if (flag && changeInfo.status === "complete") {
+            const currentTime = times[i - 1].start + Date.now();
+            delete times[i - 1].start;
+            const prevTime = (n === 1) ? 0 : times[i - 1][time];
+            times[i - 1][time] = ((n - 1) * prevTime + currentTime) / n;
+            if (html) {
+                const genTab = await browser.tabs.get(tabId);
+                times[i - 1].triples = parseInt(genTab.title);
+            }
+            flag = false;
+            if (i >= 100 && html) {
+                n++;
+                i = 0;
+            }
+            if (n > 5)
+                await finish();
+            else
+                await iterate();
+        }
+    }
+
+    async function iterate() {
+        if (html) {
+            if (n === 1)
+                times.push({});
+            await browser.tabs.remove(tab.id);
+            tab = await browser.tabs.create({});
+        }
+        if (html)
+            i++;
+        const uri = serverURI + "/p/" + i;
+        const htmlURI = uri + ".html";
+        const ttlURI = uri + ".ttl";
+        browser.tabs.update(tab.id, {
+            url: html ? htmlURI : ttlURI
+        });
+        html = !html;
+    }
+
+    async function finish() {
+        interceptor.setEvaluation(false);
+        console.log(times);
+        browser.tabs.onUpdated.removeListener(listener);
+        browser.tabs.remove(tab.id);
+        const resp = await fetch(serverURI + "/p/times", {
+            method: 'PUT',
+            headers: {
+                'Content-Type': "application/json"
+            },
+            body: JSON.stringify(times)
+        });
+        console.log(resp.status);
+    }
 }
 
 /**

@@ -11,14 +11,15 @@ const filter = {
 const requests = {};
 let acceptHeader = "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8";
 let options;
+let evaluation = false;
 
 function getRequestDetails(tabId) {
     return requests[tabId];
 }
 
-function getFormats(considerOptions = true) {
+function getFormats(considerOptions = true, uri = "") {
     const formats = [];
-    if (!considerOptions || options.json)
+    if ((!considerOptions || options.json) && !uri.includes("://dbpedia.org"))
         formats.push("application/ld+json");
     if (!considerOptions || options.n4)
         formats.push("application/n-quads");
@@ -65,6 +66,10 @@ function getFormatFor(fileType) {
     }
 }
 
+function setEvaluation(value) {
+    evaluation = value;
+}
+
 /**
  * Modify the accept header for all HTTP requests to include the content types specified in formats
  * with higher priority than the remaining content types
@@ -73,9 +78,6 @@ function getFormatFor(fileType) {
  */
 function modifyRequestHeader(details) {
     if (!options.quickOptions.header || (options.xhr && details.type !== "main_frame"))
-        return {};
-    const formats = getFormats();
-    if (formats.length === 0)
         return {};
     const url = new URL(details.url);
     const isInitialRequest = (!requests.hasOwnProperty(details.tabId) || !requests[details.tabId].redirect);
@@ -86,7 +88,7 @@ function modifyRequestHeader(details) {
         return {};
     for (let headerField of details.requestHeaders) {
         if (headerField.name.toLowerCase() === "accept") {
-            acceptHeader = getNewAcceptHeader(headerField.value);
+            acceptHeader = getNewAcceptHeader(headerField.value, true, details.url);
             headerField.value = acceptHeader;
         } else if (headerField.name.toLowerCase() === "accept-language") {
             headerField.value = options.acceptLanguage
@@ -213,9 +215,9 @@ async function rewriteResponse(cl, details, encoding, format, redirect) {
  * Return the modified accept header as a string
  * @returns {string} The modified accept header
  */
-function getNewAcceptHeader(oldHeader, considerOptions = true) {
+function getNewAcceptHeader(oldHeader, considerOptions = true, uri = "") {
     let newHeader = "";
-    for (const f of getFormats(considerOptions))
+    for (const f of getFormats(considerOptions, uri))
         newHeader += f + ";q=1,";
     for (let f of oldHeader.split(",")) {
         let q = 1.0;
@@ -317,7 +319,10 @@ async function processRDFPayload(stream, redirect, decoder, format, baseIRI) {
 
     function createDocument(html, store) {
         const document = new DOMParser().parseFromString(html, "text/html");
-        document.getElementById("title").innerText = baseIRI;
+        if (evaluation)
+            document.getElementById("title").innerText = triplestore.subjects.length;
+        else
+            document.getElementById("title").innerText = baseIRI;
         document.getElementById("content-script").remove();
         document.getElementById("script").removeAttribute("src");
         document.getElementById("header").remove();
@@ -352,4 +357,4 @@ function addListeners() {
     });
 }
 
-module.exports = {addListeners, fetchDocument, acceptHeader, getRequestDetails}
+module.exports = {addListeners, fetchDocument, acceptHeader, getRequestDetails, setEvaluation}

@@ -151,9 +151,26 @@ function toggleStyleSelection() {
     }
 }
 
+function startEvaluation() {
+    document.getElementById("startEvaluation").setAttribute("disabled", "disabled");
+    fetch(document.getElementById("evaluationURI").value).then(res => {
+        if (res.status !== 200) {
+            alert("Error: " + res.statusText);
+        } else {
+            alert("Evaluation started successfully. Please wait until it is finished.");
+            browser.runtime.sendMessage(["evaluation", document.getElementById("evaluationURI").value]).then();
+        }
+    }).catch(error => {
+        alert("Error: " + error.message);
+    }).finally(() => {
+        document.getElementById("startEvaluation").removeAttribute("disabled");
+    });
+}
+
 document.querySelector("form").addEventListener("submit", saveOptions);
 document.querySelector("form").addEventListener("reset", restoreOptions);
 document.getElementById("restore").addEventListener("click", restoreDefault);
 document.getElementById("styleTemplate").addEventListener("change", toggleStyleSelection);
+document.getElementById("startEvaluation").addEventListener("click", startEvaluation);
 initCollapsible();
 restoreOptions();
