@@ -159,7 +159,7 @@ function startEvaluation() {
             alert("Error: " + res.statusText);
         } else {
             alert("Evaluation started successfully. Please wait until it is finished.");
-            browser.runtime.sendMessage(["evaluation", uri, false, true]).then(); //TODO checkboxes
+            browser.runtime.sendMessage(["evaluation", uri]).then();
         }
     }).catch(error => {
         alert("Error: " + error.message);

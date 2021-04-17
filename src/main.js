@@ -163,10 +163,7 @@ function initMessageListeners() {
                 break;
             case "evaluation":
                 const serverURI = message[1];
-                if (message[2])
-                    evaluatePerformance(serverURI).then();
-                if (message[3])
-                    evaluateConformance(serverURI).then();
+                evaluateConformance(serverURI).then(() => evaluatePerformance(serverURI).then());
                 break;
             case "listStatus":
                 sendResponse(utils.getListStatus(options, message[1], message[2]));
