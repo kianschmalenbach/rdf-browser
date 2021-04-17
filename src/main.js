@@ -180,80 +180,83 @@ function initMessageListeners() {
  * @param serverURI The URI of the server providing the evaluation files
  */
 async function evaluatePerformance(serverURI) {
-    const times = [];
-    let n = 1;
-    let i = 0;
-    let flag = false;
-    let html = true;
+    return new Promise(async function (resolve) {
+        const times = [];
+        let n = 1;
+        let i = 0;
+        let flag = false;
+        let html = true;
 
-    interceptor.setEvaluation(true);
-    let tab = await browser.tabs.create({});
-    browser.tabs.onUpdated.addListener(listener);
-    iterate();
+        interceptor.setPerformanceEvaluation(true);
+        let tab = await browser.tabs.create({});
+        browser.tabs.onUpdated.addListener(listener);
+        iterate();
 
-    async function listener(tabId, changeInfo) {
-        if (tabId !== tab.id || !changeInfo.hasOwnProperty("status"))
-            return;
+        async function listener(tabId, changeInfo) {
+            if (tabId !== tab.id || !changeInfo.hasOwnProperty("status"))
+                return;
 
-        const time = html ? "ttlTime" : "htmlTime";
-        if (!flag && changeInfo.status === "loading" && changeInfo.hasOwnProperty("url") &&
-            (changeInfo.url.endsWith(i + ".html") || changeInfo.url.endsWith(i + ".ttl"))) {
-            if (html)
-                times[i - 1].uri = changeInfo.url.substring(0, changeInfo.url.length - 4);
-            times[i - 1].start = -Date.now();
-            flag = true;
-        } else if (flag && changeInfo.status === "complete") {
-            const currentTime = times[i - 1].start + Date.now();
-            delete times[i - 1].start;
-            const prevTime = (n === 1) ? 0 : times[i - 1][time];
-            times[i - 1][time] = ((n - 1) * prevTime + currentTime) / n;
+            const time = html ? "ttlTime" : "htmlTime";
+            if (!flag && changeInfo.status === "loading" && changeInfo.hasOwnProperty("url") &&
+                (changeInfo.url.endsWith(i + ".html") || changeInfo.url.endsWith(i + ".ttl"))) {
+                if (html)
+                    times[i - 1].uri = changeInfo.url.substring(0, changeInfo.url.length - 4);
+                times[i - 1].start = -Date.now();
+                flag = true;
+            } else if (flag && changeInfo.status === "complete") {
+                const currentTime = times[i - 1].start + Date.now();
+                delete times[i - 1].start;
+                const prevTime = (n === 1) ? 0 : times[i - 1][time];
+                times[i - 1][time] = ((n - 1) * prevTime + currentTime) / n;
+                if (html) {
+                    const genTab = await browser.tabs.get(tabId);
+                    times[i - 1].triples = parseInt(genTab.title);
+                }
+                flag = false;
+                if (i >= 100 && html) {
+                    n++;
+                    i = 0;
+                }
+                if (n > 5)
+                    await finish();
+                else
+                    await iterate();
+            }
+        }
+
+        async function iterate() {
             if (html) {
-                const genTab = await browser.tabs.get(tabId);
-                times[i - 1].triples = parseInt(genTab.title);
+                if (n === 1)
+                    times.push({});
+                await browser.tabs.remove(tab.id);
+                tab = await browser.tabs.create({});
             }
-            flag = false;
-            if (i >= 100 && html) {
-                n++;
-                i = 0;
-            }
-            if (n > 5)
-                await finish();
-            else
-                await iterate();
+            if (html)
+                i++;
+            const uri = serverURI + "/p/" + i;
+            const htmlURI = uri + ".html";
+            const ttlURI = uri + ".ttl";
+            browser.tabs.update(tab.id, {
+                url: html ? htmlURI : ttlURI
+            });
+            html = !html;
         }
-    }
 
-    async function iterate() {
-        if (html) {
-            if (n === 1)
-                times.push({});
-            await browser.tabs.remove(tab.id);
-            tab = await browser.tabs.create({});
+        async function finish() {
+            interceptor.setPerformanceEvaluation(false);
+            console.log(times);
+            browser.tabs.onUpdated.removeListener(listener);
+            browser.tabs.remove(tab.id);
+            await fetch(serverURI + "/p/times.json", {
+                method: 'PUT',
+                headers: {
+                    'Content-Type': "application/json"
+                },
+                body: JSON.stringify(times)
+            });
+            resolve();
         }
-        if (html)
-            i++;
-        const uri = serverURI + "/p/" + i;
-        const htmlURI = uri + ".html";
-        const ttlURI = uri + ".ttl";
-        browser.tabs.update(tab.id, {
-            url: html ? htmlURI : ttlURI
-        });
-        html = !html;
-    }
-
-    async function finish() {
-        interceptor.setEvaluation(false);
-        console.log(times);
-        browser.tabs.onUpdated.removeListener(listener);
-        browser.tabs.remove(tab.id);
-        await fetch(serverURI + "/p/times.json", {
-            method: 'PUT',
-            headers: {
-                'Content-Type': "application/json"
-            },
-            body: JSON.stringify(times)
-        });
-    }
+    });
 }
 
 /**
@@ -261,95 +264,93 @@ async function evaluatePerformance(serverURI) {
  * @param serverURI The URI of the server providing the evaluation files
  */
 async function evaluateConformance(serverURI) {
-    const htmlFile = await fetch(serverURI + "/c/html.json");
-    const ldFile = await fetch(serverURI + "/c/ld.json");
-    const html = await htmlFile.json();
-    const lod = await ldFile.json();
-    let htmlCount = 0;
-    let done = false;
+    return new Promise(async function (resolve) {
+        const htmlFile = await fetch(serverURI + "/c/html.json");
+        const ldFile = await fetch(serverURI + "/c/ld.json");
+        const html = await htmlFile.json();
+        const lod = await ldFile.json();
+        let htmlCount = 0;
+        let done = false;
 
-    function listener(tabId, changeInfo) {
-        if (!tabStatuses.hasOwnProperty(tabId.toString()) || !changeInfo.hasOwnProperty("status"))
-            return;
-        const tabStatus = tabStatuses[tabId.toString()];
-        if (tabStatus === "loading" && changeInfo.status === "complete") {
-            delete tabStatuses[tabId.toString()];
-            browser.tabs.remove(tabId);
-            if (done && JSON.stringify(tabStatuses) === "{}") {
-                browser.tabs.onUpdated.removeListener(listener);
-                const data = interceptor.getConformanceData();
-                interceptor.setConformanceEvaluation(false);
-                uploadData(data);
+        function listener(tabId, changeInfo) {
+            if (!tabStatuses.hasOwnProperty(tabId.toString()) || !changeInfo.hasOwnProperty("status"))
+                return;
+            const tabStatus = tabStatuses[tabId.toString()];
+            if (tabStatus === "loading" && changeInfo.status === "complete") {
+                delete tabStatuses[tabId.toString()];
+                browser.tabs.remove(tabId);
+                if (done && JSON.stringify(tabStatuses) === "{}") {
+                    browser.tabs.onUpdated.removeListener(listener);
+                    const data = interceptor.getConformanceData();
+                    interceptor.setConformanceEvaluation(false);
+                    uploadData(data);
+                }
+                return;
             }
-            return;
+            if (tabStatus === "initialized" && changeInfo.status === "loading" && changeInfo.hasOwnProperty("url") &&
+                changeInfo.url.startsWith("http"))
+                tabStatuses[tabId.toString()] = "loading";
         }
-        if (tabStatus === "initialized" && changeInfo.status === "loading" && changeInfo.hasOwnProperty("url") &&
-            changeInfo.url.startsWith("http"))
-            tabStatuses[tabId.toString()] = "loading";
-    }
 
-    async function uploadData(data) {
-        const HTMLmisses = [];
-        const TurtleMisses = [];
-        for (const number in data) {
-            const entry = data[number];
-            if (number < htmlCount && entry.turtle !== null)
-                HTMLmisses.push(serverURI + "/c/" + entry.number.toString());
-            else if (number >= htmlCount && entry.turtle === null)
-                TurtleMisses.push(serverURI + "/c/" + entry.number.toString());
-            else if (number >= htmlCount && entry.turtle !== null) {
-                await fetch(serverURI + "/c/" + (number - htmlCount + 1).toString() + ".ttl", {
-                    method: 'PUT',
-                    headers: {
-                        'Content-Type': "application/json"
-                    },
-                    body: JSON.stringify({turtleString: entry.turtle})
-                });
+        async function uploadData(data) {
+            const HTMLmisses = [];
+            const TurtleMisses = [];
+            for (const number in data) {
+                const entry = data[number];
+                if (number <= htmlCount && entry.turtle !== null)
+                    HTMLmisses.push(entry.uri);
+                else if (number > htmlCount && entry.turtle === null)
+                    TurtleMisses.push(entry.uri);
+                else if (number > htmlCount && entry.turtle !== null) {
+                    await fetch(serverURI + "/c/" + (number - htmlCount).toString() + ".ttl", {
+                        method: 'PUT',
+                        headers: {
+                            'Content-Type': "application/json"
+                        },
+                        body: JSON.stringify({turtleString: entry.turtle})
+                    });
+                }
             }
+            const misses = {
+                html: HTMLmisses,
+                turtle: TurtleMisses
+            };
+            await fetch(serverURI + "/c/" + "misses.json", {
+                method: 'PUT',
+                headers: {
+                    'Content-Type': "application/json"
+                },
+                body: JSON.stringify(misses)
+            });
+            resolve();
         }
-        const misses = {
-            html: HTMLmisses,
-            turtle: TurtleMisses
-        };
-        await fetch(serverURI + "/c/" + "misses.json", {
-            method: 'PUT',
-            headers: {
-                'Content-Type': "application/json"
-            },
-            body: JSON.stringify(misses)
-        });
-    }
 
-    const tabStatuses = {};
-    browser.tabs.onUpdated.addListener(listener);
-    interceptor.setConformanceEvaluation(true);
+        const tabStatuses = {};
+        browser.tabs.onUpdated.addListener(listener);
+        interceptor.setConformanceEvaluation(true);
 
-    async function handleURI(uri, timeout) {
-        uri = uri.replace('bp.blogspot', 'blogspot'); //workaround for bp.blogspot.com
-        const tab = await browser.tabs.create({});
-        tabStatuses[tab.id] = "initialized";
-        browser.tabs.update(tab.id, {
-            url: uri
-        });
-        await new Promise((resolve => {
-            setTimeout(resolve, timeout);
-        }));
-    }
+        async function handleURI(uri, timeout) {
+            uri = uri.replace('bp.blogspot', 'blogspot'); //workaround for bp.blogspot.com
+            const tab = await browser.tabs.create({});
+            tabStatuses[tab.id] = "initialized";
+            browser.tabs.update(tab.id, {
+                url: uri
+            });
+            await new Promise((resolve => {
+                setTimeout(resolve, timeout);
+            }));
+        }
 
-    for (const entry in html) {
-        htmlCount++;
-        if (htmlCount > 5)
-            break;
-        await handleURI(html[entry], 600);
-    }
-    let i = 1;
-    for (const entry in lod) {
-        i++;
-        if (i > 6)
-            break;
-        await handleURI(lod[entry].uri, 600);
-    }
-    done = true;
+        for (const entry in html) {
+            htmlCount++;
+            await handleURI(html[entry], 600);
+        }
+
+        for (const entry in lod)
+            await handleURI(lod[entry].uri, 600);
+
+        done = true;
+    });
 }
 
 /**

@@ -158,7 +158,8 @@ function startEvaluation() {
         if (res.status !== 200) {
             alert("Error: " + res.statusText);
         } else {
-            alert("Evaluation started successfully. Please wait until it is finished.");
+            alert("When clicking \"OK\", the evaluation will start. This will take some minutes. " +
+                "Please wait passively until it finishes.");
             browser.runtime.sendMessage(["evaluation", uri]).then();
         }
     }).catch(error => {
