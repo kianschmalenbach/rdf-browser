@@ -326,7 +326,7 @@ async function handleEdit() {
         if (uploadMethod.value === "DELETE") {
             const split = uploadURI.value.split('/');
             redirectURI = redirectURI.substring(0, uploadURI.value.length - split[split.length - 1].length);
-        } else if (["CREATE", "POST", "PUT"].includes(uploadMethod.value))
+        } else if (["POST", "PUT"].includes(uploadMethod.value))
             redirectURI = uploadURI.value;
         window.location.replace(redirectURI);
     }

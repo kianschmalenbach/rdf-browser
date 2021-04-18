@@ -28,7 +28,7 @@ function setCheckboxes() {
         document.getElementById(option).checked = options.quickOptions[option];
         document.getElementById(option).addEventListener("change", save);
     }
-    const text = options.contentScript ? " Browser Mode" : " Editor Mode";
+    const text = options.contentScript ? " Browser Mode" : " Developer Mode";
     document.getElementById("switch").appendChild(document.createTextNode(text));
 }
 

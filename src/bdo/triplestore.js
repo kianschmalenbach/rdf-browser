@@ -289,6 +289,8 @@ async function getTriplestore(url, contentScript = true) {
     if (contentScript) {
         try {
             await fetchDynamicContents();
+            console.log("fetched");
+            console.log()
         } catch (e) {
             console.warn("Could not fetch dynamic contents: " + e.message);
         }
