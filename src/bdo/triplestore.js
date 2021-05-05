@@ -1,5 +1,5 @@
 const Resource = require("./resource");
-const commonPrefixSource = "https://prefix.cc/popular/all.file.json";
+const commonPrefixSource = "http://prefix.cc/popular/all.file.json";
 const listURIs = {
     first: "http://www.w3.org/1999/02/22-rdf-syntax-ns#first",
     rest: "http://www.w3.org/1999/02/22-rdf-syntax-ns#rest",
@@ -289,8 +289,6 @@ async function getTriplestore(url, contentScript = true) {
     if (contentScript) {
         try {
             await fetchDynamicContents();
-            console.log("fetched");
-            console.log()
         } catch (e) {
             console.warn("Could not fetch dynamic contents: " + e.message);
         }
