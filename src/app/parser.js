@@ -69,7 +69,7 @@ function getSerializer(format, baseIRI) {
         case "text/nt":
         case "text/turtle":
         case "text/n3":
-            serializer = new N3StreamWriter(null, {
+            serializer = new N3StreamWriter({
                 baseIRI: baseIRI,
                 format: format
             });
