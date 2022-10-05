@@ -255,7 +255,7 @@ function getNewAcceptHeader(oldHeader, considerOptions = true, uri = "") {
         }
         q -= .05;
         q = (q < 0 ? .0 : q);
-        newHeader += f + ";q=" + q + ",";
+        newHeader += f + ";q=" + q.toFixed(3) + ",";
     }
     newHeader = newHeader.substring(0, newHeader.length - 1);
     return newHeader;
