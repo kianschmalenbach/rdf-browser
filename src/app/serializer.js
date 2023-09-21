@@ -33,10 +33,15 @@ function serializePrefixes(store, html = null) {
     }
 }
 
-function serializeTriples(store, html = null, uri = null) {
+function serializeTriples(store, html = null, uri = null, options = null) {
+    let tree_structure = undefined;
+    if (options) {
+        tree_structure = options.tree_structure;
+    }
+    
     if (html === null)
         html = new DocumentFragment();
-    store.subjects.forEach(subject => {
+        store.subjects.forEach(subject => {
         if (uri !== null && subject.resource.value !== uri.value)
             return;
         const triple = document.createElement("p");
@@ -58,7 +63,7 @@ function serializeTriples(store, html = null, uri = null) {
             const predicateWrapper = getPredicateWrapper(predicate);
             const predicateIndent = (indent === 0 ? subject.resource.representationLength : indent) + 1;
             predicateWrapper.setAttribute("indent", predicateIndent);
-            if (predicateIndex > 0 || indent > 0)
+                        if (predicateIndex > 0 || indent > 0)
                 predicateWrapper.setAttribute("style", "margin-left: " + predicateIndent + "ch;");
             triple.appendChild(predicateWrapper);
             triple.appendChild(document.createTextNode(" "));

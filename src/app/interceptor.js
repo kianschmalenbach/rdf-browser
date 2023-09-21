@@ -361,7 +361,7 @@ async function processRDFPayload(stream, redirect, decoder, format, baseIRI) {
         const script = "\nconst style = " + scriptString + ";\n";
         scriptElement.insertBefore(document.createTextNode(script), scriptElement.firstChild);
         document.getElementById("prefixes").appendChild(serializer.serializePrefixes(store));
-        document.getElementById("triples").appendChild(serializer.serializeTriples(store));
+        document.getElementById("triples").appendChild(serializer.serializeTriples(store, null, null, options));
         return new XMLSerializer().serializeToString(document);
     }
 }

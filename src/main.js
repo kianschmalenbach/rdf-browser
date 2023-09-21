@@ -19,6 +19,7 @@ const defaultOptions = {
     nqext: false,
     contentScript: false,
     maxsize: 10485760,
+    tree_structure: false,
     allStyleTemplate: {
         none: {
             whiteSpace_nowrap: true,
@@ -132,7 +133,7 @@ const defaultOptions = {
             literal_textDecoration_underline: false,
             literal_textDecorationColor: "#656465"
         },
-        selected: "light"
+        selected: "light",
     },
     blacklist: "",
     whitelist: "",
