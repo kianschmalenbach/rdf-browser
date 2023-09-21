@@ -1,3 +1,6 @@
+let tree_structure = false;
+const tree_indent = 4;
+
 function serializePrefixes(store, html = null) {
     if (html === null)
         html = new DocumentFragment();
@@ -34,7 +37,6 @@ function serializePrefixes(store, html = null) {
 }
 
 function serializeTriples(store, html = null, uri = null, options = null) {
-    let tree_structure = undefined;
     if (options) {
         tree_structure = options.tree_structure;
     }
@@ -61,32 +63,43 @@ function serializeTriples(store, html = null, uri = null, options = null) {
         while (predicateIndex < subject.predicates.length) {
             const predicate = subject.predicates[predicateIndex];
             const predicateWrapper = getPredicateWrapper(predicate);
-            const predicateIndent = (indent === 0 ? subject.resource.representationLength : indent) + 1;
+            let predicateIndent = 0;
+            if (tree_structure) {
+                predicateIndent = indent + tree_indent;
+            } else {
+                predicateIndent = (indent === 0 ? subject.resource.representationLength : indent) + 1;
+            }
             predicateWrapper.setAttribute("indent", predicateIndent);
-                        if (predicateIndex > 0 || indent > 0)
+            if (predicateIndex > 0 || indent > 0 || tree_structure)
                 predicateWrapper.setAttribute("style", "margin-left: " + predicateIndent + "ch;");
             triple.appendChild(predicateWrapper);
             triple.appendChild(document.createTextNode(" "));
             let objectIndex = 0;
             while (objectIndex < predicate.objects.length) {
                 const object = predicate.objects[objectIndex];
-                const objectIndent = predicateIndent + predicate.resource.representationLength + 1;
+                let objectIndent = 0;
+                if (tree_structure) {
+                    objectIndent = indent + 2 * tree_indent;
+                }else {
+                    objectIndent = predicateIndent + predicate.resource.representationLength + 1;
+                }
                 const list = object.getList();
-                if (list !== null) {
+                if (list !== null) { // = blank node
                     triple.appendChild(document.createTextNode("( "));
                     for (const i in list) {
-                        const objectWrapper = getObjectWrapper(list[i], 0, true);
+                        const wrap_indent = tree_indent ? objectIndent : 0;
+                        const objectWrapper = getObjectWrapper(list[i], wrap_indent, true);
                         objectWrapper.setAttribute("indent", objectIndent);
-                        if (objectIndex > 0)
+                        if (objectIndex > 0 || tree_structure)
                             objectWrapper.setAttribute("style", "margin-left: " + objectIndent + "ch;");
                         triple.appendChild(objectWrapper);
                         triple.appendChild(document.createTextNode(" "));
                     }
                     triple.appendChild(document.createTextNode(")"));
-                } else {
+                } else { // simple Object
                     const objectWrapper = getObjectWrapper(object, objectIndent);
                     objectWrapper.setAttribute("indent", objectIndent);
-                    if (objectIndex > 0)
+                    if (objectIndex > 0 || tree_structure)
                         objectWrapper.setAttribute("style", "margin-left: " + objectIndent + "ch;");
                     triple.appendChild(objectWrapper);
                 }
@@ -115,6 +128,9 @@ function serializeTriples(store, html = null, uri = null, options = null) {
         subjectWrapper.appendChild(subjectElement);
         if (subject.resource.id !== null)
             subjectElement.setAttribute("id", subject.resource.id);
+        if (tree_structure){
+            subjectWrapper.appendChild(document.createElement("br"));
+        }
         return subjectWrapper;
     }
 
@@ -125,6 +141,10 @@ function serializeTriples(store, html = null, uri = null, options = null) {
         predicateWrapper.setAttribute("class", "predicate");
         const predicateElement = predicate.resource.html.cloneNode(true);
         predicateWrapper.appendChild(predicateElement);
+        if (tree_structure){
+            predicateWrapper.appendChild(document.createElement("br"));
+        }
+
         return predicateWrapper;
     }
 
@@ -146,6 +166,10 @@ function serializeTriples(store, html = null, uri = null, options = null) {
             const objectElement = object.resource.html.cloneNode(true);
             objectWrapper.appendChild(objectElement);
         }
+        if (tree_structure) {
+//            objectWrapper.appendChild(document.createElement("br"));
+        }
+
         return objectWrapper;
     }
 }
