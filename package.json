@@ -5,7 +5,7 @@
   "license": "MIT",
   "scripts": {
     "build": "./script/build.sh",
-    "browserify": "browserify -s app -o build/main.js src/main.js",
+    "browserify": "browserify -s app -o build/main.js src/main.js -p esmify",
     "release": "./script/release.sh"
   },
   "repository": {
@@ -13,15 +13,21 @@
     "url": "https://github.com/kianschmalenbach/rdf-browser.git"
   },
   "dependencies": {
+    "@inrupt/solid-client-authn-node": "^1.17.2",
     "dot-prop": "^5.3.0",
     "jsonld-streaming-parser": "^2.1.0",
     "jsonld-streaming-serializer": "^1.2.0",
     "n3": "^1.6.3",
     "npm": "latest",
-    "rdfxml-streaming-parser": "^1.3.6"
+    "rdfxml-streaming-parser": "^1.3.6",
+    "util": "^0.12.5"
   },
   "devDependencies": {
     "browserify": "^16.5.2",
+    "esmify": "^2.1.1",
     "node-forge": "^1.3.1"
+  },
+  "overrides": {
+    "util-deprecate": "../_EXCLUDED_"
   }
 }

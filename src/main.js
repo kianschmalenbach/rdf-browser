@@ -2,7 +2,10 @@ const browser = window.browser;
 const interceptor = require('./app/interceptor');
 const ts = require('./bdo/triplestore');
 const utils = require('./app/utils');
+const util = require('util')
+console.log(util)
 const content = require('./app/content.js');
+const { Session } = require("@inrupt/solid-client-authn-node");
 const defaultOptions = {
     json: true,
     n4: true,
@@ -146,6 +149,8 @@ const defaultOptions = {
     evaluationURI: "http://localhost:3000"
 };
 let options;
+const redirectStub = 'https://addons.mozilla.org/de/firefox/addon/rdf-browser/';
+//const session = new Session();
 
 /**
  * Initialize the listeners for messages from content scripts
@@ -170,6 +175,33 @@ function initMessageListeners() {
                 break;
             case "requestDetails":
                 sendResponse(interceptor.getRequestDetails(message[1]));
+                break;
+            case "solidLogin":
+                return new Promise((resolve) => {
+                    browser.webRequest.onHeadersReceived.addListener((details) => {
+                        if(details.responseHeaders.find(h => h.name.toLowerCase() === 'location' && h.value.startsWith(redirectStub))) {
+                            return {
+                                responseHeaders: details.responseHeaders,
+                                redirectUrl: browser.runtime.getURL("build/view/solid.html"
+                                + "?code="+ new URL(details.responseHeaders.find(h => h.name.toLowerCase() === 'location').value).searchParams.get('code')
+                                )
+                            };
+                        }
+                    }, {urls: ['<all_urls>']}, ['blocking', 'responseHeaders']);
+                    /*
+                    session.login({
+                        oidcIssuer: message[1],
+                        clientName: 'RDF Browser',
+                        redirectUrl: redirectStub,
+                        handleRedirect: resolve
+                    });
+                    */
+                });
+            case "solidHandleIncomingRedirect":
+                let url = redirectStub + '?code=' + new URL(message[1]).searchParams.get('code')
+                /*session.handleIncomingRedirect({url: url, restorePreviousSession: true}).then((info) => {
+                    //session.fetch('https://solid.dschraudner.de/daniel/privateResource').then(res => res.text().then(console.log));
+                });*/
                 break;
         }
     });
