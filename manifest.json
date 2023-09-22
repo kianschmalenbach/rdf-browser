@@ -42,6 +42,7 @@
     "default_popup": "build/view/menu.html"
   },
   "permissions": [
+    "history",
     "storage",
     "webRequest",
     "webRequestBlocking",
@@ -50,6 +51,7 @@
     "webNavigation"
   ],
   "web_accessible_resources": [
-    "build/view/template.html"
+    "build/view/template.html",
+    "build/view/solid.html"
   ]
 }

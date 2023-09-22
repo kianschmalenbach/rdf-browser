@@ -21,6 +21,7 @@ async function init() {
     setCheckboxes();
     document.getElementById("switch").addEventListener("click", () => switchMode());
     document.getElementById("settings").addEventListener("click", () => openSettings());
+    document.getElementById("solid").addEventListener("click", () => solidLogin());
 }
 
 function setCheckboxes() {
@@ -51,6 +52,11 @@ function switchMode() {
 
 function openSettings() {
     browser.runtime.openOptionsPage().then(() => window.close());
+}
+
+function solidLogin() {
+    const solidPageURL = browser.runtime.getURL("build/view/solid.html"); 
+    browser.tabs.create({url: solidPageURL, active: true});
 }
 
 init().then();
