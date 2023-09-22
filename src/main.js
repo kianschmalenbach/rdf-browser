@@ -20,6 +20,7 @@ const defaultOptions = {
     contentScript: false,
     maxsize: 10485760,
     tree_structure: false,
+    tree_structure_indent: 4,
     allStyleTemplate: {
         none: {
             whiteSpace_nowrap: true,

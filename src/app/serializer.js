@@ -1,5 +1,5 @@
 let tree_structure = false;
-const tree_indent = 4;
+let tree_indent = 4;
 
 function serializePrefixes(store, html = null) {
     if (html === null)
@@ -39,6 +39,7 @@ function serializePrefixes(store, html = null) {
 function serializeTriples(store, html = null, uri = null, options = null) {
     if (options) {
         tree_structure = options.tree_structure;
+        tree_indent = options.tree_structure_indent;
     }
     
     if (html === null)
@@ -87,7 +88,7 @@ function serializeTriples(store, html = null, uri = null, options = null) {
                 if (list !== null) { // = blank node
                     triple.appendChild(document.createTextNode("( "));
                     for (const i in list) {
-                        const wrap_indent = tree_indent ? objectIndent : 0;
+                        const wrap_indent = tree_structure ? objectIndent : 0;
                         const objectWrapper = getObjectWrapper(list[i], wrap_indent, true);
                         objectWrapper.setAttribute("indent", objectIndent);
                         if (objectIndex > 0 || tree_structure)
