@@ -49,7 +49,7 @@ async function loadContent(encoding, format) {
         }
         document.getElementById("status").innerText = "serializing triples...";
         serializer.serializePrefixes(triplestore, document.getElementById("prefixes"));
-        serializer.serializeTriples(triplestore, document.getElementById("triples"));
+        serializer.serializeTriples(triplestore, document.getElementById("triples"), null, options);
         document.querySelectorAll(".uri a,.postfix a").forEach(element => {
             element.addEventListener("mouseover", showDescription);
         });
@@ -254,7 +254,7 @@ function showDescription(event, href = null) {
     const refTriples = document.getElementById("#ref-triples");
     while (refTriples.firstElementChild)
         refTriples.firstElementChild.remove();
-    serializer.serializeTriples(triplestore, refTriples, uri);
+    serializer.serializeTriples(triplestore, refTriples, uri, options);
 }
 
 function navigate() {
